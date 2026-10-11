@@ -1,0 +1,328 @@
+---
+title: "Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas"
+identifier: "TAR.B4DBBD7C388A"
+number: "I-1057"
+type: act
+jurisdiction: lt
+language: lt
+date: 1995-10-04
+in_force_from: 1995-11-02
+last_amended: 2023-05-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B4DBBD7C388A"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B4DBBD7C388A.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas
+
+Suvestinė redakcija nuo 2023-05-01
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 89-1985, i. k. 0951010ISTA00I-1057
+
+LIETUVOS RESPUBLIKOS
+
+RELIGINIŲ BENDRUOMENIŲ IR BENDRIJŲ
+
+Į S T A T Y M A S
+
+1995 m. spalio 4 d. Nr. I-1057
+
+Vilnius
+
+## 1 straipsnis. Įstatymo paskirtis
+
+Šis įstatymas nustato religinių bendruomenių bei bendrijų ir Lietuvos valstybės teisinius santykius, įgyvendina Lietuvos Respublikos Konstitucijoje, kituose įstatymuose ir tarptautiniuose dokumentuose bei susitarimuose įtvirtintą žmogaus teisę į tikėjimo laisvę.
+
+## 2 straipsnis. Teisė į tikėjimo laisvę
+
+Lietuvoje nėra valstybinės religijos.
+
+Kiekvienas žmogus Lietuvos Respublikoje turi teisę laisvai pasirinkti bet kurią religiją arba tikėjimą, taip pat pakeisti savo pasirinkimą ir vienas ar su kitais, privačiai ar viešai ją išpažinti, atlikti religines apeigas, praktikuoti tikėjimą ir mokyti jo.
+
+Niekas negali kito asmens versti nei būti verčiamas pasirinkti ar išpažinti kurią nors religiją arba tikėjimą.
+
+Žmogaus laisvė išpažinti ir skleisti religiją arba tikėjimą negali būti ribojama kitaip, kaip tik įstatymu ir tik tada, kai būtina garantuoti visuomenės saugumą, viešąją tvarką, žmonių sveikatą ir dorovę, taip pat kitas asmens pagrindines teises ir laisves.
+
+Tėvai ir globėjai nevaržomi rūpinasi vaikų ir globotinių religiniu ir doroviniu auklėjimu pagal savo įsitikinimus.
+
+Žmogaus praktikuojama religija ar tikėjimu negali būti pateisinamas nusikaltimas ar įstatymų nevykdymas.
+
+Tikintieji turi teisę laisvai jungtis į religines bendruomenes, bendrijas bei kurti religines organizacijas.
+
+Kiekvienas asmuo dėl savo religinių įsitikinimų vietoj privalomos karinės tarnybos gali pasirinkti alternatyvią (darbo) tarnybą.
+
+## 3 straipsnis. Žmonių lygybė nepaisant religijos
+
+Visi asmenys, nepaisant jų išpažįstamos religijos, religinių įsitikinimų ar santykio su religija, įstatymui yra lygūs. Tiesiogiai ar netiesiogiai riboti jų teises ir laisves ar taikyti privilegijas draudžiama.
+
+Valstybinių įstaigų ir organizacijų išduodamuose dokumentuose asmens tikyba nenurodoma.
+
+## 4 straipsnis. Religinės bendruomenės, bendrijos ir centrai
+
+Religinė bendruomenė yra asmenų grupė, siekianti įgyvendinti tos pačios religijos tikslus. Ji gali būti atitinkamos religinės bendrijos vietinis padalinys.
+
+Religinės bendrijos yra bažnyčių ir tolygių religinių organizacijų-bendruomenių, siekiančių įgyvendinti tos pačios religijos tikslus, susivienijimai. Bendriją sudaro ne mažiau kaip dvi religinės bendruomenės, turinčios bendrą vadovybę.
+
+Religiniai centrai yra aukštesniosios religinių bendrijų valdymo institucijos.
+
+## 5 straipsnis. Tradicinės Lietuvos religinės bendruomenės ir bendrijos
+
+Valstybė pripažįsta devynias Lietuvos istorinio, dvasinio bei socialinio palikimo dalį sudarančias tradicines Lietuvoje egzistuojančias religines bendruomenes ir bendrijas: lotynų apeigų katalikų, graikų apeigų katalikų, evangelikų liuteronų, evangelikų reformatų, ortodoksų (stačiatikių), sentikių, judėjų, musulmonų sunitų ir karaimų.
+
+## 6 straipsnis. Kitų religinių bendrijų valstybės pripažinimas ir jo atšaukimas
+
+Kitos (netradicinės) religinės bendrijos gali būti valstybės pripažintos kaip Lietuvos istorinio, dvasinio ir socialinio palikimo dalis, jeigu jos turi tvirtą ir ilgalaikę atramą visuomenėje ir jų mokymas bei apeigos neprieštarauja įstatymams ir dorai. Valstybės pripažinimas reiškia, kad valstybė palaiko religinių bendrijų dvasinį, kultūrinį ir socialinį palikimą.
+
+Valstybės pripažinimą suteikia arba atsisako suteikti Lietuvos Respublikos Seimas. Religinė bendrija dėl valstybės pripažinimo į Seimą gali kreiptis praėjus ne mažiau kaip 25 metams nuo pirminio jos ar jai priklausančių religinių bendruomenių įregistravimo Lietuvoje. Šis terminas yra prielaida (ne sąlyga turėti atramą visuomenėje ir užtikrinti, kad tos bažnyčios, religinės organizacijos mokymas bei apeigos neprieštarauja įstatymui ir dorai) pradėti valstybės pripažinimo suteikimo procedūrą. Pirminis įregistravimas yra įvykęs, jeigu religinė bendrija ar jai priklausančios religinės bendruomenės teisėtai veikė (buvo įregistruotos) Lietuvoje po 1918 m. vasario 16 d.
+
+Religinė bendrija, kreipdamasi į Seimą dėl valstybės pripažinimo, šio kreipimosi kopiją pateikia Lietuvos Respublikos teisingumo ministerijai. Teisingumo ministerija per 6 mėnesius nuo tokio kreipimosi kopijos Teisingumo ministerijoje gavimo dienos Seimui pateikia teisingumo ministro nustatyta tvarka parengtą išvadą dėl religinės bendrijos atitikties Konstitucijoje ir šio straipsnio 1 ir 2 dalyse nustatytiems reikalavimams (toliau – Teisingumo ministerijos išvada) ir jos kopiją išsiunčia religinei bendrijai susipažinti. Rengiant šią išvadą, atsižvelgiama į specialistų ar nepriklausomų ekspertų pateiktą informaciją ar vertinimą. Teisingumo ministerijos išvados pateikimo Seimui terminas teisingumo ministro motyvuotu sprendimu gali būti pratęstas ne ilgiau kaip 6 mėnesiams.
+
+Valstybės pripažinimo klausimą Seimas išsprendžia priimdamas nutarimą per 3 mėnesius nuo Teisingumo ministerijos išvados gavimo dienos, neįskaitant laiko tarp Seimo sesijų. Religinė bendrija, susipažinusi su Teisingumo ministerijos išvada, turi teisę raštu pateikti nuomonę dėl šios išvados Seimui ir pristatyti ją Seimo nutarimo projekto svarstymo Seime metu. Jeigu Seimas nepritaria pateiktam Seimo nutarimo projektui, valstybės pripažinimo klausimas Seime sprendžiamas pakartotinai tol, kol priimamas atitinkamas Seimo nutarimas.
+
+Seimo nutarime dėl atsisakymo religinei bendrijai suteikti valstybės pripažinimą turi būti nurodytas tokio sprendimo pagrindas (pagrindai) ir motyvai, kodėl religinė bendrija neturi atramos visuomenėje ir (arba) jos mokymas ar apeigos prieštarauja įstatymams ir (arba) dorai. Seimui priėmus nutarimą atsisakyti suteikti valstybės pripažinimą religinei bendrijai, ji pakartotinai dėl valstybės pripažinimo į Seimą gali kreiptis praėjus 2 metams nuo tokio Seimo nutarimo įsigaliojimo dienos.
+
+Religinei bendrijai šiame straipsnyje nustatyta tvarka suteiktas valstybės pripažinimas gali būti atšaukiamas, jeigu Seimas, gavęs Teisingumo ministerijos išvadą, pateiktą Seimo prašymu arba Teisingumo ministerijos iniciatyva, nusprendžia, kad religinė bendrija nebeatitinka valstybės pripažinimo suteikimo kriterijų – nebeturi atramos visuomenėje ir (arba) jos mokymas ar apeigos prieštarauja įstatymams ir (arba) dorai. Seimo nutarime dėl religinei bendrijai suteikto valstybės pripažinimo atšaukimo turi būti nurodomas tokio sprendimo pagrindas (pagrindai) ir motyvai. Religinė bendrija, kuriai suteiktas valstybės pripažinimas buvo atšauktas, pakartotinai dėl valstybės pripažinimo į Seimą gali kreiptis praėjus ne mažiau kaip 5 metams nuo valstybės pripažinimo atšaukimo dienos, jeigu išnyko tokio atšaukimo pagrindas (pagrindai).
+
+Straipsnio pakeitimai:
+
+TAR pastaba. Iki šio įstatymo įsigaliojimo dienos pateiktų religinių bendrijų kreipimųsi dėl valstybės pripažinimo nagrinėjimas tęsiamas pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 6 straipsnio nuostatas. Jeigu Lietuvos Respublikos teisingumo ministerijos išvada dėl religinės bendrijos atitikties įstatymų nustatytiems reikalavimams nėra pateikta Lietuvos Respublikos Seimui, ji pateikiama per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos. Jeigu Seimas, gavęs Teisingumo ministerijos išvadą dėl religinės bendrijos atitikties įstatymų nustatytiems reikalavimams, nėra priėmęs nutarimo dėl valstybės pripažinimo religinei bendrijai suteikimo ar atsisakymo jį suteikti, valstybės pripažinimo klausimą jis išsprendžia per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos, neįskaitant laiko tarp Seimo sesijų.
+
+Nr. XIV-1829, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05502
+
+## 7 straipsnis. Valstybės ir religinių bendruomenių bei bendrijų santykių pagrindai
+
+Religinės bendruomenės ir bendrijos nevykdo valstybės funkcijų, o valstybė nevykdo religinių bendruomenių ir bendrijų funkcijų.
+
+Religinės bendruomenės ir bendrijos turi teisę laisvai organizuotis pagal savo hierarchinę ir institucinę struktūrą, vidaus gyvenimą tvarkyti savarankiškai pagal savo kanonus, statutus bei kitas normas.
+
+Visos juridinio asmens teises turinčios religinės bendruomenės ir bendrijos gali įstatymų nustatyta tvarka iš valstybės gauti paramą kultūrai, švietimui bei labdarai.
+
+## 8 straipsnis. Laisvė atlikti religines apeigas
+
+Religinės apeigos bei kulto ceremonijos laisvai atliekamos kulto pastatuose ir aplink juos, piliečių namuose ir butuose, šarvojimo patalpose, kapinėse ir krematoriumuose.
+
+Tikinčiųjų prašymu religinės apeigos atliekamos ligoninėse, socialinio aprūpinimo pensionatuose, laisvės atėmimo vietose. Apeigų bei kulto ceremonijų atlikimo laikas ir kitos sąlygos suderinamos su minėtų įstaigų vadovybe. Šių įstaigų vadovybė sudaro galimybę atlikti religines apeigas.
+
+Karinių dalinių vadovybė tikinčiųjų prašymu sudaro galimybę atlikti religines apeigas statutų numatyta tvarka.
+
+Tikinčiųjų mokinių ir jų tėvų prašymu valstybinėse švietimo ir auklėjimo įstaigose gali būti atliekamos tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų apeigos, neprieštaraujančios pasaulietinės mokyklos sampratai; jose dalyvaujama laisvu apsisprendimu.
+
+Religinės apeigos gali būti atliekamos ir kitose viešose vietose, jeigu šios apeigos nepažeidžia viešosios tvarkos, žmonių sveikatos, dorovės ar kitų asmenų teisių ir laisvių.
+
+Juridinio asmens teises turinčios religinės bendruomenės ir bendrijos savivaldybės nustatyta tvarka gali turėti savo konfesines kapines arba savo teritoriją bendrose kapinėse. Laidojimo tvarką konfesinėse kapinėse arba konfesijai skirtoje kapinių teritorijoje nustato atitinkama religinė bendruomenė ar bendrija.
+
+Atsisakymas leisti ar trukdymas atlikti religines apeigas gali būti apskųstas aukštesnei valdymo institucijai ar teismui.
+
+## 9 straipsnis. Tikybos mokymas
+
+Tikyba gali būti dėstoma maldos namuose, valstybinėse ir nevalstybinėse mokymo ir auklėjimo įstaigose, taip pat kitose patalpose bei vietose.
+
+Valstybinėse švietimo įstaigose tėvų (globėjų, rūpintojų) pageidavimu gali būti dėstoma tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų tikyba.
+
+Valstybė pripažįsta tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų tikybos dėstymą konfesinėse mokymo įstaigose (sekmadieninėse tų konfesijų mokyklose ar kitose mokymo grupėse) tikybos dėstymo programas užregistravus Švietimo ir mokslo ministerijoje ir jai pateikus mokytojų kvalifikaciją patvirtinančius dokumentus bei atitinkamos religinės bendruomenės ar bendrijos dvasinės vyresnybės prašymą.
+
+Valstybės globojami moksleiviai tikėjimo dalykų mokomi pagal jų šeimoje ar giminėje išpažįstamą religiją.
+
+Valstybinėse mokymo ir auklėjimo įstaigose tikybos dėstymo tvarką reglamentuoja švietimo įstatymai.
+
+## 10 straipsnis. Tradicinių religinių bendruomenių ir bendrijų juridinio asmens teisių įforminimas
+
+Tradicinės religinės bendruomenės ir bendrijos, turinčios juridinio asmens teises, praneša apie tai Teisingumo ministerijai.
+
+Naujai susikūrusios (atsikūrusios) tradicinės religinės bendruomenės ir bendrijos įgyja juridinio asmens teises, kai jų vadovybė apie susikūrimą (atsikūrimą) raštu praneša Teisingumo ministerijai ir yra nustatomas konkrečios bendruomenės ar bendrijos tradicijų tęstinumas atsižvelgiant į jos kanonus, statutus bei kitas normas.
+
+Tradicinių religinių bendruomenių, bendrijų ir centrų pagal jų kanonus, statutus ar kitas normas įsteigti juridiniai asmenys įgyja juridinio asmens teises, kai jų vadovybė raštu praneša Teisingumo ministerijai, o ši įformina įstatymų nustatyta tvarka.
+
+Šie juridiniai asmenys turi teisę užsiimti šiame įstatyme jų bendruomenei, bendrijai ar centrui numatyta veikla, taip pat veikla, numatyta šių juridinių asmenų įstatuose.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-394, 1997-07-02, Žin., 1997, Nr. 66-1618 (1997-07-11), i. k. 0971010ISTAVIII-394
+
+## 11 straipsnis. Juridinio asmens teisių suteikimas kitoms religinėms bendruomenėms ir bendrijoms
+
+Kitos religinės bendruomenės ir bendrijos įgyja juridinio asmens teises nuo jų įstatų ar juos atitinkančių dokumentų įregistravimo.
+
+Religinės bendruomenės gali būti įregistruotos, jei vienija ne mažiau kaip 15 narių – pilnamečių Lietuvos Respublikos piliečių.
+
+Religinės bendrijos gali būti įregistruotos, jei vienija ne mažiau kaip dvi religines bendruomenes. Įregistruotos religinės bendrijos struktūrai priklausančios religinės bendruomenės ir centrai įgyja juridinio asmens teises, kai juos pripažįsta bendrijų vadovybė ir apie tai raštu praneša Teisingumo ministerijai.
+
+Norint registruoti religinės bendruomenės, bendrijos įstatus ar juos atitinkantį dokumentą, pateikiamas pareiškimas, religinės bendruomenės ar bendrijos steigiamojo susirinkimo protokolas ir jos narių sąrašas.
+
+Pateikiamuose registruoti religinės bendruomenės, bendrijos įstatuose ar juos atitinkančiame dokumente turi būti nurodoma:
+
+1) religinės bendruomenės ar bendrijos pavadinimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+2) religinės bendruomenės ar bendrijos buveinės keitimo tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+3) išpažįstamo religinio mokymo pagrindai, veiklos kryptys ir tikslai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+4) religinės bendruomenės ar bendrijos organizacinė struktūra, vadovybė;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+5) religinei bendruomenei ar bendrijai priklausančio turto valdymo, naudojimo ir disponavimo juo tvarka;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+6) religinės bendruomenės ar bendrijos likvidavimo ir likusio turto paskirstymo ją likvidavus tvarka.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+Religinių bendruomenių, bendrijų įstatus ar juos atitinkantį dokumentą įregistruoja Teisingumo ministerija ne vėliau kaip per 6 mėnesius nuo jų pateikimo.
+
+Jei religinės bendruomenės ir bendrijos įstatuose ar juos atitinkančiame dokumente pateikti ne visi šio straipsnio penktojoje dalyje nurodyti duomenys, Teisingumo ministerija per 15 dienų nuo jų gavimo minėtą dokumentą grąžina pateikusiajai bendruomenei ar bendrijai nurodydama, kokie trūkumai turėtų būti ištaisyti. Pataisytų įstatų ar juos atitinkančio dokumento registravimo terminas skaičiuojamas iš naujo.
+
+## 12 straipsnis. Atsisakymas registruoti religinės bendruomenės, bendrijos įstatus ar juos atitinkantį dokumentą
+
+Religinės bendruomenės, bendrijos įstatai ar juos atitinkantis dokumentas neregistruojami, jeigu:
+
+1) juose nenurodyti šio įstatymo 11 straipsnyje numatyti duomenys;
+
+2) religinės bendruomenės ar bendrijos veikla pažeidžia žmogaus teises ir laisves arba viešąją tvarką;
+
+3) jau yra įregistruoti tokio pat pavadinimo religinės bendruomenės, bendrijos įstatai ar juos atitinkantis dokumentas.
+
+Atsisakius registruoti religinės bendruomenės, bendrijos įstatus ar juos atitinkantį dokumentą, pareiškėjams apie tai pranešama raštu ne vėliau kaip per 5 dienas nuo sprendimo priėmimo, nurodant konkrečius atsisakymo motyvus.
+
+Atsisakymas įregistruoti religinės bendruomenės, bendrijos įstatus ar juos atitinkantį dokumentą gali būti apskundžiamas teismui.
+
+## 13 straipsnis. Religinių bendruomenių, bendrijų ir centrų turtinės teisės
+
+Religinėms bendruomenėms, bendrijoms ir centrams gali nuosavybės teise priklausyti maldos namai, gyvenamieji namai ir kiti pastatai bei statiniai, gamybiniai, socialiniai ir labdaros objektai bei kitoks turtas, reikalingas religinių bendruomenių ir bendrijų veiklai.
+
+Religinės bendruomenės, bendrijos ir centrai jiems nuosavybės teise priklausantį turtą valdo, juo naudojasi ir disponuoja pagal Lietuvos Respublikos įstatymus.
+
+## 14 straipsnis. Religinių bendruomenių, bendrijų ir centrų švietimo, labdaros ir gailestingumo veikla
+
+Religinės bendruomenės, bendrijos ir centrai turi teisę įstatymų ar kitų norminių aktų nustatyta tvarka steigti ir turėti bendrojo lavinimo mokyklas bei kitokias mokymo, švietimo ir kultūros įstaigas, taip pat mokymo-ugdymo įstaigas dvasininkams ir tikybos dėstytojams rengti.
+
+Įstatymų ar kitų norminių aktų nustatyta tvarka tradicinių ir kitų juridinio asmens teises turinčių religinių bendruomenių, bendrijų ir centrų mokymo įstaigos, tokių religinių bendruomenių, bendrijų ir centrų mokyklos, suteikiančios valstybės nustatytą išsilavinimą, gauna finansinę ir kitokią paramą iš valstybės ir savivaldybių biudžetų.
+
+Tradicinių religinių bendruomenių ir bendrijų švietimo ir ugdymo įstaigos, suteikiančios valstybinio standarto bendrąjį išsilavinimą, yra finansuojamos ir išlaikomos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, skiriant biudžeto lėšų tiek pat, kiek ir atitinkamo tipo (pakopos) valstybės ar savivaldybių švietimo įstaigoms. Lėšų dydis nustatomas atsižvelgiant į išlaidas, numatytas vienam vaikui, moksleiviui atitinkamo tipo (pakopos) valstybinėse ar savivaldybių švietimo įstaigose.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1677, 2000-05-11, Žin., 2000, Nr. 40-1115 (2000-05-17), i. k. 1001010ISTAIII-1677
+
+Visos religinės bendruomenės, bendrijos ir centrai gali užsiimti labdara, dalyvauti gailestingumo veikloje, steigti gydymo įstaigas, taip pat labdaros įstaigas ir organizacijas.
+
+## 15 straipsnis. Religinių bendruomenių, bendrijų ir centrų ūkinė ir leidybos veikla
+
+Religinės bendruomenės, bendrijos ir centrai turi teisę įstatymų nustatyta tvarka užsiimti leidybos, gamybine-ūkine veikla, steigti visuomenės informavimo priemones, labdaros fondus ir kitokias organizacijas.
+
+## 16 straipsnis. Religinių bendruomenių, bendrijų ir centrų bei juose dirbančių asmenų apmokestinimas
+
+Religinių bendruomenių, bendrijų ir centrų (aukštesniųjų valdymo institucijų), jų įsteigtų įmonių (organizacijų) pajamos, taip pat religinių bendruomenių, bendrijų ir centrų (aukštesniųjų valdymo institucijų) dvasininkų, religinių apeigų patarnautojų ir aptarnaujančio personalo pajamos apmokestinamos Lietuvos Respublikos mokesčių įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. X-981, 2006-12-12, Žin., 2006, Nr. 144-5463 (2006-12-30), i. k. 1061010ISTA000X-981
+
+## 17 straipsnis. Religinėse bendruomenėse, bendrijose ir centruose dirbančių asmenų darbo teisinis reguliavimas
+
+Religinės bendruomenės, bendrijos ir centrai turi teisę priimti į darbą asmenis, su kuriais sudaroma darbo sutartis Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Dvasininkai gali būti išlaikomi iš religinės bendruomenės ar bendrijos lėšų pagal jos nustatytą tvarką arba gauti išlaikymą tiesiogiai iš tikinčiųjų už religinius patarnavimus.
+
+## 18 straipsnis. Religinių bendruomenių, bendrijų ir centrų darbuotojų socialinis aprūpinimas ir socialinis draudimas
+
+Asmenims, dirbantiems pagal darbo sutartį religinėse bendruomenėse, bendrijose ar centruose, jų įstaigose, įmonėse ar organizacijose, taikomos teisės į socialinį draudimą ir kitos teisės bei garantijos, nustatytos Lietuvos Respublikos įstatymų.
+
+Šiems tikslams religinės bendruomenės, bendrijos ir centrai į Valstybinį socialinio draudimo fondą iš savo pajamų privalomai moka tokias pat įmokas kaip ir valstybės įmonės, įstaigos ir organizacijos.
+
+Dvasininkai ir kiti asmenys, dirbantys religinėse bendruomenėse, bendrijose ar centruose ne pagal darbo sutartis, gali patys mokėti įmokas į Valstybinį socialinio draudimo fondą įstatymų nustatyta tvarka.
+
+## 19 straipsnis. Religinių bendruomenių ir bendrijų tarptautinis bendradarbiavimas
+
+Religinės bendruomenės ir bendrijos turi teisę savarankiškai užmegzti ir palaikyti tarptautinius ryšius bei kontaktus, dalyvauti tarptautinių organizacijų ir jų organų veikloje, keistis informacija, gauti iš užsienio valstybių, tarptautinių organizacijų ir privačių asmenų religinius reikmenis, literatūrą, labdarą.
+
+Religinės bendruomenės ir bendrijos gali savo narius siųsti mokytis į kitas valstybes, organizuoti dvasininkų ir maldininkų keliones į užsienį, taip pat kitais būdais bendradarbiauti su užsienio valstybėse esančiomis religinėmis organizacijomis.
+
+## 20 straipsnis. Religinės bendruomenės, bendrijos ar centro veiklos sustabdymas arba nutraukimas
+
+Jei religinė bendruomenė, bendrija ar centras veikia ne pagal įregistruotus įstatus ar juos atitinkančius dokumentus arba jų veikla pažeidžia Konstituciją ar šį įstatymą, Teisingumo ministerija praneša apie tai raštu įstatymus pažeidusiai religinei bendruomenei, bendrijai ar centrui ir nurodo terminą, per kurį pažeidimai turi būti ištaisyti. Jei pažeidimai neištaisomi, Teisingumo ministerija gali kreiptis į teismą dėl religinės bendruomenės, bendrijos ar centro veiklos sustabdymo.
+
+Teismo sprendimu religinės bendruomenės, bendrijos ar centro veikla gali būti sustabdyta ne daugiau kaip 6 mėnesiams. Jei per šį laikotarpį teismo nurodytas pažeidimas neištaisomas, teismo sprendimu jų veikla gali būti nutraukta.
+
+Religinės bendruomenės, bendrijos ar centro veikla taip pat gali būti nutraukta jų pačių sprendimu. Religinės bendruomenės ar bendrijos veikla gali būti nutraukta jos aukštesnės valdymo institucijos sprendimu.
+
+Nutraukus religinės bendruomenės, bendrijos ar centro veiklą, likęs turtas pereina jų įstatuose ar juos atitinkančiame dokumente nurodytam turto perėmėjui. Jeigu turto perėmėjas nenurodytas arba jo nėra, turtas atitenka valstybei.
+
+## 21 straipsnis. Įstatymo įgyvendinimas
+
+Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo įgyvendinimo tvarkos“.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-394, 1997-07-02, Žin., 1997, Nr. 66-1618 (1997-07-11), i. k. 0971010ISTAVIII-394
+
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1677, 2000-05-11, Žin., 2000, Nr. 40-1115 (2000-05-17), i. k. 1001010ISTAIII-1677
+
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 14 straipsnio papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-981, 2006-12-12, Žin., 2006, Nr. 144-5463 (2006-12-30), i. k. 1061010ISTA000X-981
+
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 16 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT140-N11/2021, 2021-09-07, paskelbta TAR 2021-09-07, i. k. 2021-18922
+
+Dėl Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 6 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1829, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05502
+
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo Nr. I-1057 6 straipsnio pakeitimo įstatymas

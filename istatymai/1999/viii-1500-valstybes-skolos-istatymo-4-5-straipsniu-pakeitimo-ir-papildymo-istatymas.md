@@ -1,0 +1,51 @@
+---
+title: "Lietuvos Respublikos valstybės skolos įstatymo 4, 5 straipsnių pakeitimo ir papildymo įstatymas"
+identifier: "TAR.9861C6727E54"
+number: "VIII-1500"
+type: act
+jurisdiction: lt
+language: lt
+date: 1999-12-23
+in_force_from: 1999-12-30
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9861C6727E54"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9861C6727E54.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos valstybės skolos įstatymo 4, 5 straipsnių pakeitimo ir papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+VALSTYBĖS SKOLOS ĮSTATYMO 4, 5 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+Į S T A T Y M A S
+
+1999 m. gruodžio 23 d. Nr. VIII-1500
+
+Vilnius
+
+(Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210); 1999, Nr. [66-2117](https://www.e-tar.lt/portal/lt/legalAct/TAR.513EC0FDEEE4))
+
+\#### 1 straipsnis. 4 straipsnio 1 punkto pakeitimas
+
+Pakeisti 4 straipsnio 1 punktą ir jį išdėstyti taip:
+
+„1) valstybės biudžeto deficitui finansuoti bei Valstybės iždo pinigų srautams subalansuoti;“.
+
+\#### 2 straipsnis. 5 straipsnio 1, 2 dalių papildymas
+
+1. 5 straipsnio 1 dalyje po žodžių „išskyrus paskolą“ įrašyti žodžius „valstybės biudžeto deficitui finansuoti“ ir šią dalį išdėstyti taip:
+
+„1. Sprendimą imti didesnę kaip 40 mln. litų užsienio paskolą, išskyrus paskolą valstybės biudžeto deficitui finansuoti, Valstybės iždo pinigų srautams subalansuoti ir kitiems tikslams, numatytiems atitinkamų metų valstybės biudžeto įstatyme, neviršijant Lietuvos Respublikos įstatymų nustatytų limitų, Lietuvos Respublikos Vyriausybės siūlymu priima Seimas atskiru įstatymu.“
+
+2. 5 straipsnio 2 dalyje po žodžių „bei užsienio paskolą“ įrašyti žodžius „valstybės biudžeto deficitui finansuoti“ ir šią dalį išdėstyti taip:
+
+„2. Sprendimą imti 40 mln. litų ar mažesnęužsienio paskoląbei užsienio paskolą valstybės biudžeto deficitui finansuoti, Valstybės iždo pinigų srautams subalansuoti ir kitiems tikslams, numatytiems atitinkamų metų valstybės biudžeto įstatyme, neviršijant Lietuvos Respublikos įstatymų nustatytų limitų, priima Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+
+______________

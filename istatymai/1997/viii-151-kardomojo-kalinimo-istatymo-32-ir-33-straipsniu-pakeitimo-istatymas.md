@@ -1,0 +1,45 @@
+---
+title: "Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas"
+identifier: "TAR.789324744FA8"
+number: "VIII-151"
+type: act
+jurisdiction: lt
+language: lt
+date: 1997-03-25
+in_force_from: 1997-04-09
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.789324744FA8"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.789324744FA8.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+KARDOMOJO KALINIMO ĮSTATYMO 32 IR 33 STRAIPSNIŲ PAKEITIMO
+
+Į S T A T Y M A S
+
+1997 m. kovo 25 d. Nr. VIII-151
+
+Vilnius
+
+(Žin., 1996, Nr. 12-313, Nr. 53-1249)
+
+## 1 straipsnis. 32 straipsnio 1 dalies pakeitimas
+
+32 straipsnio 1 dalyje vietoj žodžių „vidaus reikalų ministro arba šios ministerijos sekretoriaus“ įrašyti žodžius „Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus“ ir šią dalį išdėstyti taip:
+
+„1. Masinių riaušių arba masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys kardomojo kalinimo vietos vidaus tvarką, Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus įsakymu prieš kalinamuosius gali būti panaudojami vandensvaidžiai, specialios paskirties dujos, šarvuočiai bei kita technika.“
+
+## 2 straipsnis. 33 straipsnio 4 dalies pakeitimas
+
+33 straipsnio 4 dalyje vietoj žodžių „vidaus reikalų ministro arba šios ministerijos sekretoriaus“ įrašyti žodžius „Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus“ ir šią dalį išdėstyti taip:
+
+„4. Šaunamieji ginklai taip pat gali būti panaudojami Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus įsakymu masinių riaušių ar masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia kardomojo kalinimo vietos vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS

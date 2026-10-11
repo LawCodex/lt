@@ -1,0 +1,260 @@
+---
+title: "Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas"
+identifier: "TAR.CFCEE0DB5FF2"
+number: "I-1516"
+type: act
+jurisdiction: lt
+language: lt
+date: 1996-09-12
+in_force_from: 1996-10-02
+last_amended: 2017-07-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CFCEE0DB5FF2.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
+
+Suvestinė redakcija nuo 2017-07-01
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
+
+LIETUVOS RESPUBLIKOS
+
+KLAIPĖDOS LAISVOSIOS EKONOMINĖS ZONOS
+
+ĮSTATYMAS
+
+1996 m. rugsėjo 12 d. Nr. I-1516
+
+Vilnius
+
+## 1 straipsnis. Įstatymo paskirtis
+
+Šiuo įstatymu, vadovaujantis Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymu bei Klaipėdos miesto savivaldybės siūlymu, įsteigiama Klaipėdos laisvoji ekonominė zona (toliau – zona). Zonos steigimo tikslas – padidinti Klaipėdos uostamiesčio, kaip perspektyvaus transporto mazgo ir pramonės centro, turinčio išplėstą infrastruktūrą, kvalifikuotus darbo resursus, patrauklumą, skatinti užsienio investicijas, mokslo pažangą, naujų darbo vietų steigimą bei Klaipėdos regiono socialinę ekonominę plėtrą.
+
+## 2 straipsnis. Zonos veiklos terminas
+
+Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įstatymu.
+
+## 3 straipsnis. Zonos teritorija
+
+1. Zonos teritorija užima 412 ha.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
+
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Civilinio kodekso, Žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorija išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui – jos teisių ir pareigų perėmėjui) 99 metams. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje, išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-947, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07824
+
+Straipsnio pakeitimai:
+
+Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
+
+## 4 straipsnis. Zonos teritorijos ribos
+
+Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
+
+## 5 straipsnis. Zonos veiklos rūšys
+
+Zonoje plėtojama prekybos, gamybos, eksporto ir importo, verslo veikla. Zonos veiklos rūšys detalizuojamos zonos statute.
+
+## 6 straipsnis. Neteko galios nuo 2010-04-27
+
+Straipsnio naikinimas:
+
+Nr. XI-739, 2010-04-13, Žin. 2010, Nr. 48-2289 (2010-04-27), i. k. 1101010ISTA00XI-739
+
+## 7 straipsnis. Zonos valdymo bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai, atsakomybė
+
+1. Zonos valdymo bendrovė veikia pagal Akcinių bendrovių įstatymą ir savo įstatus.
+
+2. Zonos valdymo bendrovės valdymo organai yra visuotinis akcininkų susirinkimas, valdyba ir administracija.
+
+3. Jau veikianti akcinė arba uždaroji akcinė bendrovė, pakeitusi ir nustatyta tvarka įregistravusi bendrovės įstatus, gali būti įregistruota kaip zonos valdymo bendrovė.
+
+4. Zonos valdymo bendrovės visuotinis akcininkų susirinkimas turi teisę teikti pasiūlymus Vyriausybei bei laisvųjų ekonominių zonų valstybinę priežiūrą atliekančiai valstybės institucijai dėl zonos teritorijos ribų bei zonos statuto pakeitimų.
+
+5. Zonos valdymo bendrovės valdybą sudaro septyni nariai. Į valdybą įeina:
+
+1) Vyriausybės skiriamas vienas narys;
+
+2) Klaipėdos miesto tarybos skiriamas vienas narys;
+
+3) visuotiniame akcininkų susirinkime išrinkti penki nariai.
+
+6. Zonos valdymo bendrovės valdybos pirmininkas gali būti ir administracijos vadovu.
+
+7. Zonos valdymo bendrovės valdyba atlieka šias zonos valdymo funkcijas:
+
+1) priima sprendimą išduoti leidimą ūkio subjekto veiklai zonoje;
+
+2) nustato rinkliavas zonos įmonėms;
+
+3) nustato zonos valdymo bendrovės išnuomotos žemės ir nekilnojamojo turto subnuomojimo zonos įmonėms ir savitarpio paslaugų teikimo finansines ir kitas sąlygas;
+
+4) nustato zonos vidaus tvarką;
+
+5) steigia zonoje aptarnavimo įmones;
+
+6) kooperuoja lėšas bendriems zonos infrastruktūros plėtojimo ir aplinkotvarkos reikalams;
+
+7) aprobuoja Vyriausybei teikiamą ataskaitą už zonos valdymo bendrovės ir zonos veiklą;
+
+8) sudaro komisiją ginčams tarp ūkio subjektų nagrinėti;
+
+9) nustato žemės subnuomos mokesčio skaičiavimo ir mokėjimo tvarką;
+
+10) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
+
+11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
+
+8. Zonos valdybos bendrovės administracija organizuoja ir vykdo zonos veiklą pagal valdybos patvirtintą darbo reglamentą.
+
+9. Zonos valdymo bendrovės administracijos įgaliojimai ir pareigos:
+
+1) atstovauja zonos valdymo bendrovei;
+
+2) subnuomoja zonos valdymo bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms pagal valdybos nustatytas subnuomos sutarčių sąlygas;
+
+3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal valdybos nustatytas finansines ir kitas sąlygas;
+
+4) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
+
+5) užtikrina, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, nesiverstų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų teisės aktų aplinkos apsaugos srityje reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-519, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11228
+
+6) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
+
+7) užtikrina laisvųjų teritorijų fizinę apsaugą;
+
+8) sudaro sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje savo funkcijas;
+
+9) išduoda leidimus ūkio subjekto veiklai zonoje;
+
+10) atlieka kitą valdybos pavestą veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
+
+## 8 straipsnis. Zonos valdymo bendrovės likvidavimas bei naujos bendrovės suformavimas
+
+1. Zonos valdymo bendrovė gali būti likviduojama Akcinių bendrovių įstatymo nustatytais atvejais.
+
+2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei parinkti Vyriausybė priima sprendimą dėl tarptautinio konkurso steigėjų grupei parinkti. Šį konkursą organizuoja Klaipėdos miesto savivaldybė, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė.
+
+3. Pagrindinės konkurso sąlygos:
+
+1) zonos veiklos tęstinumas;
+
+2) zonos įsisavinimo etapų vykdymas;
+
+3) galimybė prisiimti ilgalaikius likviduojamos valdymo bendrovės finansinius, ūkinius, teisinius ir kitus įsipareigojimus, susijusius su bendra zonos veikla.
+
+4. Likviduojama zonos valdymo bendrovė veikia kaip zonos valdytoja, iki bus sudaryta nauja zonos valdymo bendrovė.
+
+## 9 straipsnis. Rinkliavų iš zonos įmonių nustatymo tvarka
+
+1. Zonos valdymo bendrovė, įgyvendindama įstatymo jai nustatytas teises, pareigas ir atsakomybę, sutartimi su zonos įmone, remdamasi zonos statutu, gali nustatyti rinkliavas zonos įmonėms.
+
+2. Zonos valdymo bendrovė, remdamasi zonos statutu, nustato rinkliavų zonos įmonėms tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7, 9 straipsnių pakeitimo ir papildymo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3, 6 ir 7 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-739, 2010-04-13, Žin., 2010, Nr. 48-2289 (2010-04-27), i. k. 1101010ISTA00XI-739
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-947, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07824
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo Nr. I-1516 3 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-519, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11228
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo Nr. I-1516 7 straipsnio pakeitimo įstatymas

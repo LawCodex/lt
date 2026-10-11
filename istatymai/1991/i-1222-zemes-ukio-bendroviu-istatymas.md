@@ -1,0 +1,928 @@
+---
+title: "Lietuvos Respublikos žemės ūkio bendrovių įstatymas"
+identifier: "TAR.4A9B29FE9E04"
+number: "I-1222"
+type: act
+jurisdiction: lt
+language: lt
+date: 1991-04-16
+in_force_from: 1991-04-25
+last_amended: 2024-09-01
+status: in_force
+issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A9B29FE9E04.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos žemės ūkio bendrovių įstatymas
+
+Suvestinė redakcija nuo 2024-09-01
+
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
+
+Nauja redakcija nuo 2001-07-01:
+
+Nr. IX-330, 2001-05-17, Žin. 2001, Nr. 45-1574 (2001-05-30), i. k. 1011010ISTA00IX-330
+
+LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMAS
+
+## PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+
+### 1 straipsnis. Įstatymo paskirtis
+
+Šis įstatymas reglamentuoja žemės ūkio bendrovių (toliau – bendrovė) steigimą, valdymą ir veiklą, bendrovių narių teises ir pareigas, pelno bei kapitalo kaupimą ir jų paskirstymą, bendrovių reorganizavimą, pertvarkymą ir likvidavimą.
+
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+1. Bendrovės narys – fizinis asmuo, sukakęs 18 metų, bei juridinis asmuo, bendrovės narių susirinkimo priimtas į bendrovės narius, turintis bendrovės įstatuose nustatytą minimalaus pajinio įnašo dydžio pajų ir sprendžiamojo balso teisę.
+
+2. Bendrovės pajininkas – fizinis ar juridinis asmuo įsigijęs bet kokio dydžio pajinį įnašą, nepriimtas į bendrovės narius ir neturintis sprendžiamojo balso teisės.
+
+3. Dividendas – bendrovės nariui ir pajininkui paskirta pelno dalis, kuri yra proporcinga jų pajaus vertei.
+
+4. Minimalus pajinio įnašo dydis – bendrovės narių susirinkimo nustatytas įnašo dydis, išreikštas pinigine verte.
+
+5. Pajus (pajinis įnašas) – bendrovės narių ar pajininkų turtinis ir neturtinis įnašas.
+
+### 3 straipsnis. Žemės ūkio bendrovė
+
+1. Žemės ūkio bendrovė yra fizinių asmenų pagal Žemės ūkio įmonių turto privatizavimo įstatymą privatizuota buvusi žemės ūkio įmonė arba, sudarius steigimo sandorį, fizinių ir juridinių asmenų įsteigta įmonė.
+
+2. Bendrovėje turi būti ne mažiau kaip 2 nariai. Maksimalus narių skaičius neribojamas.
+
+3. Bendrovė yra ribotos turtinės atsakomybės juridinis asmuo. Jos turtas atskirtas nuo narių ir pajininkų turto. Bendrovės prievolės vykdomos iš jos turto. Bendrovė neatsako už savo narių ir pajininkų prievoles, nesusijusias su bendrovės veikla.
+
+4. Žemės ūkio bendrove laikoma gamybinei ir komercinei veiklai įsteigta įmonė, kurioje pajamos per ūkinius metus už žemės ūkio produkciją ir suteiktas paslaugas žemės ūkiui sudaro daugiau kaip 50 procentų visų realizavimo pajamų.
+
+5. Bendrovė privalo turėti savo pavadinimą, pagal kurį ją būtų galima atskirti nuo kitų juridinių asmenų.
+
+6. Bendrovės buveinė turi būti Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1020, 2010-09-21, Žin., 2010, Nr. 118-5993 (2010-10-02), i. k. 1101010ISTA0XI-1020
+
+### 4 straipsnis. Bendrovės teisės ir pareigos
+
+1. Bendrovė turi teisę:
+
+1) verstis įstatuose nustatyta gamybine ir komercine veikla Lietuvos Respublikoje bei užsienyje;
+
+2) turėti sąskaitas Lietuvos Respublikos ir kitų valstybių bankuose, taip pat antspaudą;
+
+3) steigti savo filialus, atstovybes Lietuvos Respublikoje ir užsienyje;
+
+4) valdyti jai priklausantį turtą, pirkti ir kitokiais būdais įsigyti turtą, jį parduoti, nuomoti, įkeisti ar kitaip juo disponuoti;
+
+5) sudaryti sandorius, skolinti bei skolintis pinigines lėšas ir kitą turtą;
+
+6) nuomoti žemę iš valstybės, savivaldybių ar privačių asmenų Lietuvos Respublikos įstatymų nustatyta tvarka;
+
+7) nustatyti savo produkcijos, darbų ir paslaugų kainas, įkainius ir tarifus, atsižvelgiant į numatytais atvejais valstybės reguliuojamas kainas;
+
+8) kasmet įvertinti (perkainoti) bendrovės turtą;
+
+9) įstatymuose ir įstatuose nustatyta tvarka reorganizuotis ir likviduotis bei įstatymų numatyta tvarka būti pertvarkyta.
+
+2. Bendrovė gali turėti ir kitų teisių bei pareigų, nustatytų įstatuose ir neprieštaraujančių Lietuvos Respublikos įstatymams.
+
+3. Bendrovė neturi teisės leisti akcijų.
+
+## ANTRASIS SKIRSNIS. BENDROVĖS STEIGIMAS
+
+### 5 straipsnis. Bendrovės steigėjai
+
+Bendrovės steigėjais gali būti Lietuvos Respublikos ir užsienio fiziniai ir juridiniai asmenys.
+
+### 6 straipsnis. Bendrovės steigimo dokumentai
+
+Bendrovės steigimo dokumentai yra: steigimo sutartis, narių sąrašas, steigiamojo susirinkimo protokolas, įstatai.
+
+### 7 straipsnis. Pasirengimas steigti bendrovę
+
+1. Bendrovės steigėjai sudaro steigimo sutartį, nustato minimalų pajinio įnašo dydį, parengia asmenų turto priėmimo ir įvertinimo tvarką, sudaro asmenų, pageidaujančių būti bendrovės nariais, sąrašą, parengia bendrovės įstatų projektą, sušaukia steigiamąjį susirinkimą, paskiria įgaliotinius parengiamiesiems bendrovės steigimo darbams atlikti.
+
+2. Steigimo sutartyje nurodoma pajinių įnašų priėmimo tvarka, vieta ir laikas, atsakingi asmenys, steigiamos bendrovės pavadinimas ir buveinė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+3. Pajinius įnašus įnešančių asmenų sąraše turi būti:
+
+1) eilės numeris, fizinio asmens vardas, pavardė, gimimo metai, asmens kodas, adresas, juridinio asmens pavadinimas, kodas ir adresai;
+
+2) asmens įneštas pajinio įnašo dydis;
+
+3) asmens parašas.
+
+4. Įgaliotiniai kontroliuoja, kaip mokami pajiniai įnašai, sudaro sąlygas asmenims iki steigiamojo susirinkimo susipažinti su bendrovės steigimo tvarka, parengtų dokumentų projektais ir galimų bendrovės narių bei pajininkų sąrašais.
+
+### 8 straipsnis. Steigėjų pranešimas
+
+Steigiamajam susirinkimui steigėjai parengia pranešimą, kuriame turi būti nurodyta:
+
+1) steigėjų fizinių asmenų – vardai, pavardės ir asmens kodai, adresai, juridinių asmenų – pavadinimai, kodai, adresai;
+
+2) bendrovės pavadinimas ir veiklos tikslas;
+
+3) minimalaus pajinio įnašo dydis;
+
+4) pajinių įnašų suma;
+
+5) asmenų turto priėmimo ir įvertinimo tvarka;
+
+6) steigimo išlaidos.
+
+### 9 straipsnis. Steigiamasis susirinkimas
+
+1. Steigiamasis susirinkimas sušaukiamas ne vėliau kaip per 1 mėnesį nuo steigimo sutarties pasirašymo dienos.
+
+2. Steigiamajame susirinkime dalyvauja asmenys, įnešę ne mažesnį kaip steigėjų nustatytą minimalų pajinį įnašą. Šie asmenys registruojami pasirašytinai registravimo sąraše ir kartu nurodomas kiekvieno asmens turimas balsų skaičius.
+
+3. Steigiamasis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip pusė pajinius įnašus įnešusių ir pageidaujančių būti bendrovės nariais asmenų. Visi steigiamojo susirinkimo nutarimai priimami paprasta balsų dauguma. Steigiamajam susirinkimui neįvykus, pakartotinis susirinkimas šaukiamas per 15 dienų. Neįvykus antrajam pakartotiniam steigiamajam susirinkimui, bendrovės steigimas nutraukiamas.
+
+4. Steigiamasis susirinkimas priima nutarimą dėl bendrovės steigimo, patvirtina minimalų pajinio įnašo dydį, taip pat steigėjų pranešimą, priima bendrovės įstatus, gali rinkti bendrovės valdybos narius, renka revizijos komisiją (revizorių), patvirtina, jei nesudaroma valdyba, administraciją bei administracijos vadovo (pirmininko) ir revizinės komisijos pirmininko (revizoriaus) atlyginimą.
+
+5. Steigiamojo susirinkimo protokolą pasirašo susirinkimo pirmininkas ir sekretorius.
+
+### 10 straipsnis. Bendrovės įstatai
+
+1. Bendrovės įstatuose turi būti nurodyta:
+
+1) bendrovės pavadinimas ir teisinė forma;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+2) bendrovės buveinės keitimo tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+3) bendrovės tikslas, veiklos pobūdis ir trukmė;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+4) kapitalo didinimo ir mažinimo sąlygos bei tvarka; nepiniginių pajinių įnašų priėmimo ir įvertinimo tvarka;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+5) minimalus pajinio įnašo dydis, pajinių įnašų pasikeitimo, pardavimo ar perleidimo bendrovės nariams, pajininkams bei kitiems asmenims tvarka, uždarų aukcionų pajams pirkti ir parduoti organizavimo tvarka;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+6) valdymo ir kontrolės organų rinkimo tvarka, teisės ir pareigos;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+7) narių susirinkimo kompetencija, jo šaukimo, balsavimo tvarka ir balsavimo teisės perleidimo tvarka;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+8) darbo užmokesčio nustatymo tvarka ir pelno paskirstymo taisyklės;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+9) atsargos (rezervinio) kapitalo fondo ir kitų fondų sudarymo ir naudojimo tvarka;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+10) bendrovės reorganizavimo, pertvarkymo, likvidavimo ir turto paskirstymo kreditoriams bei pajininkams tvarka;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+11) bendrovės narių, bendrovės pajininkų ir samdomų asmenų teisės, atsakomybė bei pareigos;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+12) bendrovės ir jos narių, pajininkų turtiniai bei darbo santykiai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+13) bendrovės atsiskaitymo su nariais ir pajininkais sąlygos, tvarka ir terminai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+2. Įstatuose gali būti ir kitų taisyklių, neprieštaraujančių Lietuvos Respublikos įstatymams.
+
+3. Įstatus pasirašo visi bendrovės steigėjai.
+
+### 11 straipsnis. Bendrovės registravimas
+
+1. Ne vėliau kaip per mėnesį nuo steigiamojo susirinkimo nutarimo įsteigti bendrovę priėmimo dienos bendrovės steigėjai (įgaliotiniai) vietos savivaldybei įteikia paraišką įregistruoti bendrovę Įmonių rejestro įstatymo nustatyta tvarka, o pradėjus veikti juridinių asmenų registrui, – Civilinio kodekso nustatyta tvarka.
+
+2. Prie paraiškos pridedami šio įstatymo 6 straipsnyje nurodyti bendrovės steigimo dokumentai ir pažyma, kad sumokėtas registracijos mokestis.
+
+### 111 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
+
+1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie bendrovės narius ir pajininkus:
+
+1) nario fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba nario juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens priėmimo į bendrovės narius data; nario pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); narystės pasibaigimo bendrovėje data. Teikiant duomenis apie narį užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+
+2) pajininko fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba pajininko juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens pajinio įnašo sumokėjimo data; pajininko pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); pajininko pajaus perleidimo bendrovėje data. Teikiant duomenis apie pajininką užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie pajininką užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis yra registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2646, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09684
+
+2. Šio straipsnio 1 dalyje nurodyti duomenys apie bendrovės narius ir pajininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 kalendorines dienas nuo bendrovės įregistravimo Juridinių asmenų registre dienos, o pasikeitus bendrovės nariams ir pajininkams bei jų duomenims, – ne vėliau kaip per 5 kalendorines dienas nuo šių pasikeitimų dienos.
+
+3. Už bendrovės narių ir pajininkų duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako bendrovės valdybos pirmininkas ar administracijos vadovas (pirmininkas).
+
+4. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
+
+1) teikiama bendrovės nariams ir pajininkams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
+
+2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
+
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-247, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08857
+
+Papildyta straipsniu:
+
+Nr. XIII-743, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18511
+
+## TREČIASIS SKIRSNIS. BENDROVĖS KAPITALAS
+
+### 12 straipsnis. Bendrovės kapitalas
+
+1. Bendrovės kapitalas gali būti nuosavas ir skolintas. Nuosavas kapitalas sudaromas iš pajinių įnašų, kasmetinių atskaitymų iš pelno, kitų pajamų.
+
+2. Nuosavas kapitalas skirstomas į pagrindinį ir atsargos (rezervinį). Pagrindinis kapitalas skiriamas einamajai bendrovės veiklai. Atsargos (rezervinio) kapitalo fondą sudaro privalomi atskaitymai iš grynojo pelno. Atsargos (rezervinio) kapitalo fondas naudojamas nenumatytoms išlaidoms ir nuostoliams padengti.
+
+3. Skolintas kapitalas sudaromas iš kreditų ir kitų skolintų lėšų.
+
+### 13 straipsnis. Bendrovės pagrindinio kapitalo padidinimas
+
+Bendrovės pagrindinis kapitalas padidinamas:
+
+1) priimant į bendrovę naujus pajininkus, jų pajų dydžiu;
+
+2) įskaitant balansinio pelno dalį;
+
+3) iš papildomų pajinių įnašų;
+
+4) neatlygintinai gavus turto;
+
+5) perkainojant turtą (jei jis padidėjo).
+
+### 14 straipsnis. Bendrovės pagrindinio kapitalo sumažinimas
+
+Bendrovės pagrindinis kapitalas sumažinamas:
+
+1) neatlygintinai perdavus turtą;
+
+2) nurašant iš pagrindinio kapitalo nuostolius, kurių nepadengia atsargos (rezervinio) kapitalo fondas;
+
+3) mažėjant pagrindinio kapitalo sudėtinių dalių vertėms;
+
+4) perkainojant turtą (jei jis sumažėjo).
+
+### 15 straipsnis. Pajiniai įnašai bendrovėje
+
+1. Pajus yra bendrovės narių ir pajininkų turtinis ir neturtinis įnašas. Asmenys pajinius įnašus į bendrovę gali įnešti pinigais, materialinėmis ir kitomis vertybėmis bei intelektinės veiklos rezultatais.
+
+2. Nepiniginiai pajiniai įnašai įvertinami ir tvirtinami bendrovės įstatuose nustatyta tvarka.
+
+3. Minimalų bendrovės narių pajinio įnašo dydį keičia narių susirinkimas. Minimalus pajinis įnašas yra neskaidomas.
+
+4. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, bendrovės pajininkams proporcingai pajų vertei paskirstomas šio įstatymo 13 ir 14 straipsniuose numatytais atvejais padidintas arba sumažintas pagrindinis kapitalas. Proporcingai pajų vertei paskirstomi ir atsiradę dėl turto perkainojimo padidėję (sumažėję) pajai. Turtui perkainoti bendrovės narių susirinkimas išrenka komisiją ir patvirtina turto įvertinimo tvarką. Ūkiniams metams baigiantis turtas turi būti inventorizuotas, įvertintas ir jo kaina patvirtinta bendrovės susirinkime.
+
+5. Pajai ir jų metinis padidėjimas (sumažėjimas) kiekvienais metais registruojami pajininkų turto apskaitos dokumentuose. Bendrovė privalo ne vėliau kaip per 2 mėnesius nuo metinės apyskaitos patvirtinimo datos kiekvienam pajininkui į pajaus apskaitos dokumentus ir pajininkų knygeles įrašyti visus per metus buvusius pajaus pasikeitimus.
+
+6. Pajai negali būti pardavinėjami ir perkami per biržos įstaigas ir viešuose aukcionuose. Jeigu bendrovės nariai ir pajininkai pageidauja, įstatuose nustatyta tvarka bendrovė organizuoja uždarus aukcionus pajams pirkti ir parduoti.
+
+7. Asmuo, įsigijęs arba paveldėjęs pajų ar jo dalį, privalo per 15 dienų raštu apie tai pranešti bendrovei. Bendrovė, gavusi pajaus perleidimo sutarties ar paveldėjimo teisės liudijimo kopiją, per 3 darbo dienas privalo įregistruoti naująjį pajininką. Buvusio pajininko turtines teises ir pareigas pajų paveldėjęs ar kitu būdu įsigijęs pajininkas perima nuo pajaus įregistravimo bendrovės dokumentuose momento.
+
+## KETVIRTASIS SKIRSNIS. PELNAS IR DIVIDENDAI
+
+### 16 straipsnis. Bendrovės pelno paskirstymas ir atsargos (rezervinio) kapitalo fondo sudarymas
+
+1. Bendrovės pelnas turi būti paskirstytas ne vėliau kaip per 4 mėnesius pasibaigus ūkiniams metams. Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyta:
+
+1) balansinis pelnas;
+
+2) privalomosios įmokos iš pelno;
+
+3) atskaitymai į atsargos (rezervinio) kapitalo fondą;
+
+4) pelno dalis darbuotojų premijoms;
+
+5) atskaitymai pagrindiniam kapitalui padidinti;
+
+6) dividendai;
+
+7) rezervas.
+
+2. Metiniai atskaitymai į atsargos (rezervinio) kapitalo fondą sudaro ne mažiau kaip 2 procentus grynojo pelno dalies. Atskaitoma į šį fondą tol, kol atsargos (rezervinis) kapitalas sudarys ne mažiau kaip 10 procentų pagrindinio kapitalo vertės. Toliau atskaityti į šį fondą galima tik tol, kol rezervinis kapitalas sudarys 50 procentų pagrindinio kapitalo vertės.
+
+### 17 straipsnis. Dividendai
+
+1. Dividendai yra bendrovės nariui ir pajininkui paskirta pelno dalis, proporcinga jo pajaus vertei.
+
+2. Bendrovės narių susirinkimo paskelbti dividendai yra bendrovės įsipareigojimai bendrovės nariams ir pajininkams. Nariai ir pajininkai turi teisę dividendus išreikalauti iš bendrovės taip kaip kreditorius.
+
+3. Draudžiama skelbti ir išmokėti dividendus:
+
+1) jei bendrovė nemoki;
+
+2) jei įvykdžiusi prievoles ir išmokėjusi dividendus bendrovė taptų nemoki.
+
+4. Dividendus bendrovė nariams ir pajininkams išmoka pinigais. Susirinkimui nutarus ir jeigu nariai bei pajininkai pageidauja, už dividendus gali būti atlyginama materialinėmis vertybėmis arba paslaugomis. Paslaugų tarifus nustato bendrovės narių susirinkimas.
+
+5. Bendrovė iš nario ar pajininko negali išieškoti išmokėtų dividendų, išskyrus tuos atvejus, kai narys ar pajininkas žinojo ar turėjo žinoti, kad dividendai yra paskelbti ir išmokėti pažeidžiant šio straipsnio 3 dalies reikalavimą.
+
+## PENKTASIS SKIRSNIS. BENDROVĖS NARIŲ IR PAJININKŲ TEISĖS IR PAREIGOS
+
+### 18 straipsnis. Bendrovės narių teisės ir pareigos
+
+1. Bendrovės nariai turi turtines ir neturtines teises bei pareigas, numatytas šiame ir kituose Lietuvos Respublikos įstatymuose, bendrovės įstatuose ir vidaus tvarkos taisyklėse.
+
+2. Bendrovės narys turi teisę:
+
+1) savo pajų pardavimo, dovanojimo ar kitu būdu perleisti bendrovei, kitam bendrovės nariui, pajininkui, bet kuriam kitam fiziniam ar juridiniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Pajų perleidimo sandoriai sudaromi paprasta rašytine forma;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+2) siūlyti pakeisti ar papildyti bendrovės įstatus;
+
+3) susipažinti su bendrovės narių susirinkimų, valdybos, administracijos vadovo (pirmininko) sprendimais, bendrovės buhalteriniu balansu, darbo apmokėjimo tvarka, bendrovės sandoriais, pateikęs bendrovės valdybos arba administratoriaus nustatytą raštišką įsipareigojimą neplatinti viešai neskelbtinos informacijos. Už komercinės (gamybinės) paslapties atskleidimą narys atsako įstatymų nustatyta tvarka;
+
+4) rinkti bendrovės valdymo ir kontrolės organus ir būti į juos išrinktas;
+
+5) skolinti bendrovei lėšų pagal sutartį įstatuose numatyta tvarka;
+
+6) gauti dalį bendrovės pelno (dividendus);
+
+7) kitos bendrovės nario teisės nustatomos įstatuose.
+
+3. Bendrovės narys privalo:
+
+1) laikytis bendrovės įstatų, vidaus tvarkos taisyklių, vykdyti narių susirinkimų nutarimus, valdybos (administracijos) nurodymus, dalyvauti bendrovės veikloje;
+
+2) tausoti bendrovės turtą, rūpintis jo didinimu;
+
+3) atlyginti bendrovei padarytą žalą;
+
+4) dalyvauti bendrovės narių susirinkimuose, atvirai reikšti savo nuomonę apie bendrovės reikalus, siūlyti būdus bendrovės veiklai gerinti.
+
+4. Kiekvienas bendrovės narys susirinkime priimant nutarimus turi tiek balsų, kiek susidarytų padalijus jo turimo pajaus dydį iš bendrovės įstatuose nustatyto minimalaus pajinio įnašo. Bendrovės narys neturi teisės balsuoti, kai priimamas nutarimas dėl jo pašalinimo iš bendrovės.
+
+5. Asmuo, kuris pirko, dovanojimo ar kitokiu būdu įsigijo bendrovės nario ar pajininko pajų ar jo dalį, bendrovės nariu tampa tik tada, kai jį į bendrovę priima bendrovės narių susirinkimas.
+
+6. Turtiniai ginčai tarp bendrovės, jos narių ir pajininkų sprendžiami teisme.
+
+### 19 straipsnis. Pajininkų teisės
+
+Pajininkas turi teisę:
+
+1) gauti dalį bendrovės pelno (dividendų) ir, jeigu pageidauja, dalyvauti bendrovės narių susirinkimuose;
+
+2) savo pajų pardavimo, dovanojimo ar kitu būdu perleisti bendrovei, bendrovės nariui, pajininkui, bet kuriam kitam fiziniam ar juridiniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Pajų perleidimo sandoriai sudaromi paprasta rašytine forma.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+### 20 straipsnis. Narystės bendrovėje pasibaigimas
+
+1. Narystė bendrovėje pasibaigia, jeigu narys:
+
+1) miršta;
+
+2) išstoja iš bendrovės;
+
+3) pašalinamas iš bendrovės;
+
+4) parduoda, dovanoja arba kitaip perleidžia savo pajų bendrovei, kitam asmeniui;
+
+5) pajaus nepapildo, kai jis tampa mažesnis už minimalų pajinį įnašą šiais atvejais: perkainojant turtą, kai jis sumažėja; atimant iš pagrindinio kapitalo nuostolius, kurių nepadengia atsargos (rezervinio) kapitalo fondas; kai narių susirinkimas padidina minimalų pajinio įnašo dydį.
+
+2. Narys iš bendrovės išstoja pateikęs rašytinį pareiškimą. Išstojusiu jis laikomas nuo nutarimo narių susirinkime priėmimo momento.
+
+3. Bendrovės narys, dėl kurio veiksmų bendrovei padaryta turtinė žala, narių susirinkimo nutarimu gali būti iš bendrovės pašalintas. Narys laikomas pašalintu nuo to momento, kai narių susirinkimas priima nutarimą jį pašalinti iš bendrovės. Pašalintas iš bendrovės narys netenka šiame įstatyme ir bendrovės įstatuose nustatytų bendrovės nario teisių. Nutarimas dėl pašalinimo gali būti skundžiamas teismui.
+
+## ŠEŠTASIS SKIRSNIS. BENDROVĖS ORGANAI
+
+### 21 straipsnis. Bendrovės narių susirinkimas
+
+1. Bendrovės narių susirinkimas yra aukščiausiasis bendrovės organas.
+
+2. Susirinkimas turi teisę:
+
+1) keisti ir papildyti bendrovės įstatus;
+
+2) priimti naujus bendrovės narius, atleisti ir šalinti narius iš bendrovės;
+
+3) svarstyti bendrovės valdybos (administracijos) darbą, tvirtinti ūkinės veiklos metinę apyskaitą, skirstyti pelną;
+
+4) reorganizuoti, pertvarkyti ir likviduoti bendrovę;
+
+5) rinkti ir atleisti bendrovės valdybos narius, administracijos vadovą (pirmininką), revizijos komisijos narius (revizorių), išrinkti likvidacinės komisijos narius;
+
+6) nustatyti bendrovės valdybos pirmininko, administracijos vadovo (pirmininko), revizijos komisijos pirmininko (revizoriaus) atlyginimus;
+
+7) steigti ir uždaryti bendrovės filialus, atstovybes;
+
+8) tvirtinti bendrovės turto perkainojimo rezultatus;
+
+9) tvirtinti valdybos (administracijos), revizijos komisijos (revizoriaus) darbo reglamentą;
+
+10) tvirtinti bendrovės vidaus tvarkos taisykles;
+
+11) priimti sprendimą dėl:
+
+a) bendrovės metinių finansinių ataskaitų audito kitais, nei nustatyta Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, atvejais;
+
+b) auditoriaus ar audito įmonės parinkimo;
+
+Papildyta straipsnio punktu:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+12) spręsti kitus su bendrovės gamybine ir komercine veikla susijusius klausimus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+3. Susirinkimus šaukia bendrovės valdyba (administracija) ne rečiau kaip du kartus per metus. Pasibaigus ūkiniams metams, susirinkimas sušaukiamas per 4 mėnesius. Apie šaukiamą susirinkimą ir numatytą darbotvarkę bendrovės valdyba (administracija) bendrovės nariams praneša raštu arba kitokiu sutartu būdu ne vėliau kaip prieš 7 dienas iki numatytos susirinkimo dienos.
+
+4. Neeilinius susirinkimus šaukia bendrovės valdyba (administracija) savo iniciatyva arba kai to reikalauja revizijos komisija (revizorius) ar bendrovės nariai, turintys ne mažiau kaip 1/4 visų balsų, rašytiniu pareiškimu. Bendrovės narių susirinkimas privalo būti sušauktas per 10 dienų nuo reikalavimo pateikimo dienos.
+
+5. Susirinkimas yra teisėtas, jeigu jame dalyvaujančių bendrovės narių balsų skaičius sudaro daugiau kaip 1/2 visų balsų. Nutarimai priimami susirinkime dalyvaujančių narių paprasta jų turimų balsų dauguma. Nutarimas dėl bendrovės reorganizavimo, pertvarkymo ar likvidavimo priimamas 2/3 balsų dauguma.
+
+6. Jei susirinkime nėra daugumos, per 15 dienų turi būti sušauktas pakartotinis susirinkimas. Pakartotinis susirinkimas turi teisę priimti nutarimus pagal ankstesnę darbotvarkę, jei jame dalyvaujančių narių balsų skaičius sudaro ne mažiau kaip 1/4 visų narių balsų.
+
+7. Bendrovės narių susirinkime balsuojama atviru arba slaptu balsavimu. Kokiu būdu balsuoti sprendžiant atskirus klausimus, pasirenka bendrovės narių susirinkimas.
+
+### 22 straipsnis. Bendrovės narių dalyvavimas susirinkime
+
+Bendrovės nariai dalyvauja susirinkime patys ar per savo įgaliotinius iš bendrovės narių. Balsavimo teisės perleidimo tvarka nustatoma bendrovės įstatuose. Vienas įgaliotinis gali atstovauti ne daugiau kaip 1/20 bendrovės narių.
+
+### 23 straipsnis. Bendrovės valdymo organai
+
+Bendrovės valdymo organai yra valdyba arba administracija. Narių susirinkimui nutarus, bendrovės valdyba gali būti nesudaroma. Tokiu atveju valdybos funkcijas atlieka narių susirinkimas ir administracija.
+
+### 24 straipsnis. Bendrovės valdyba
+
+1. Bendrovės veiklai vadovauja valdyba. Ją sudaro neporinis bendrovės narių skaičius. Valdybos narius ir jos pirmininką ne ilgesniam kaip 4 metų laikotarpiui renka ir prireikus atšaukia narių susirinkimas šio įstatymo 21 straipsnyje nurodyta tvarka.
+
+2. Jeigu valdyba nesudaroma, narių susirinkimas renka iš bendrovės narių administracijos vadovą (pirmininką) arba įgalioja bendrovės narį sudaryti darbo sutartį su administracijos vadovu (pirmininku). Administracijos vadovas renkamas tokia pat tvarka kaip ir valdybos pirmininkas.
+
+3. Valdyba vadovauja gamybinei ir komercinei veiklai, tvarko bendrovės reikalus narių susirinkimo ir bendrovės įstatų nustatyta tvarka, samdo bendrovės veiklai reikalingus asmenis. Valdybos darbo tvarką, jos narių pareigas ir įgaliojimus nustato narių susirinkimo patvirtintas valdybos (administracijos) darbo reglamentas.
+
+4. Bendrovės valdybos posėdžius pagal reikalą, bet ne rečiau kaip kartą per 2 mėnesius, šaukia valdybos pirmininkas. Valdybos posėdis laikomas teisėtu, jeigu jame dalyvauja 2/3 išrinktų valdybos narių. Nutarimai posėdyje priimami dalyvaujančių posėdyje narių balsų dauguma. Posėdžiuose patariamojo balso teise dalyvauja bendrovės revizijos komisijos pirmininkas (revizorius).
+
+### 25 straipsnis. Bendrovės valdybos (administracijos) narių atsakomybė
+
+1. Kiekvienas bendrovės valdybos narys, administracijos darbuotojas atsako už dėl savo kaltės bendrovei padarytus nuostolius.
+
+2. Bendrovės valdybos nariai privalo solidariai atlyginti nuostolius, padarytus dėl jų neteisingai priimtų nutarimų, pažeidžiančių bendrovės įstatus ar Lietuvos Respublikos įstatymus. Nuo pareigos atlyginti nuostolius atleidžiami tie bendrovės valdybos nariai, kurie balsavo prieš tokius nutarimus arba kurie posėdyje nedalyvavo juos priimant ir per 7 dienas įteikė posėdžio pirmininkui rašytinį protestą. Valdybos nario, administracijos darbuotojo atsistatydinimas ar atšaukimas iš pareigų neatleidžia jo nuo padarytų dėl jo kaltės nuostolių atlyginimo.
+
+3. Bendrovės narių susirinkimo nutarimu bendrovės valdyba (administracija) pareiškia ieškinius savo darbuotojams.
+
+## SEPTINTASIS SKIRSNIS. BENDROVĖS FINANSINĖ APSKAITA, ATSKAITOMYBĖ IR KONTROLĖ
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+### 26 straipsnis. Bendrovės finansinė apskaita ir atskaitomybė
+
+Bendrovė organizuoja ir tvarko finansinę apskaitą pagal Lietuvos Respublikos finansinės apskaitos įstatymą, savo metinę apyskaitą rengia laikydamasi finansinių ataskaitų rinkinių sudėties, rengimo, teikimo, skelbimo ir saugojimo reikalavimų, nustatytų Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, bei metinių finansinių ataskaitų audito atlikimo reikalavimų, nustatytų Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme. Bendrovė gali turėti komercine (gamybine) paslaptimi laikomos informacijos. Komercine paslaptimi negali būti informacija, kuri pagal Lietuvos Respublikos įstatymus yra vieša.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+### 27 straipsnis. Bendrovės veiklos kontrolės organai
+
+1. Bendrovės veiklą kontroliuoja revizijos komisija (revizorius).
+
+2. Revizijos komisija (revizorius) renkama bendrovės narių susirinkime ne ilgesniam kaip 4 metų laikotarpiui.
+
+3. Revizijos komisijos (revizoriaus) darbo tvarką nustato jos (jo) darbo reglamentas. Reglamentą tvirtina bendrovės narių susirinkimas.
+
+4. Revizijos komisijos nariais (revizorium) negali būti bendrovės valdybos nariai ir asmenys, kuriuos su valdybos nariais sieja santuokos, artimos giminystės ar svainystės ryšiai.
+
+5. Revizijos komisijos nariams (revizoriui), pasitelktiems ekspertams ir auditoriams už darbą moka bendrovė.
+
+### 28 straipsnis. Revizijos komisija (revizorius)
+
+1. Revizijos komisija (revizorius) privalo tikrinti bendrovės apskaitą ir atskaitomybę, taip pat periodiškai tikrinti ūkinę ir finansinę veiklą.
+
+2. Tikrinimai įforminami aktais. Radus pažeidimų, aktai perduodami svarstyti valdybos posėdyje, o kai yra didelių pažeidimų arba kai pažeidimų padaro pati valdyba (administracija), aktai perduodami svarstyti bendrovės narių susirinkimui.
+
+3. Bendrovės valdyba (administracija), revizijos komisijos (revizoriaus) aktą privalo per 15 dienų nuo jo gavimo apsvarstyti valdybos posėdyje arba artimiausiame narių susirinkime ir imtis konkrečių priemonių iškeltiems trūkumams pašalinti.
+
+4. Revizijos komisija (revizorius) privalo siekti, kad nustatyti pažeidimai būtų pašalinti, o kalti asmenys, padarę nuostolių bendrovei, būtų patraukti atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+5. Pasibaigus ūkiniams metams, likus dviem savaitėms iki bendrovės narių susirinkimo, valdyba (administracija) turi pranešti revizijos komisijai (revizoriui), kad bendrovės metinė apyskaita ir balansas yra parengti ir dokumentus ji galinti tikrinti.
+
+6. Revizijos komisija (revizorius) pranešime narių susirinkimui pateikia išvadą apie bendrovės metinę atskaitomybę ir jos finansinę būklę.
+
+7. Nepriklausomi ekspertai bendrovės veiklos revizijai atlikti kviečiami revizijos komisijos (revizoriaus) iniciatyva arba bendrovės narių, turinčių ne mažiau kaip 1/4 visų balsų, reikalavimu.
+
+8. Bendrovės veiklą įstatymų nustatyta tvarka turi teisę tikrinti valstybės institucijos.
+
+## AŠTUNTASIS SKIRSNIS. BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
+
+### 29 straipsnis. Bendrovės reorganizavimas ir pertvarkymas
+
+1. Bendrovė gali būti reorganizuojama be likvidavimo procedūros šiais būdais:
+
+1) jungimo;
+
+2) skaidymo.
+
+2. Bendrovė turi parengti reorganizavimo projektą, kuriame turi būti nurodyta:
+
+1) reorganizavimo būdas, bendrovės, kurios baigia veiklą, ir bendrovės, tęsiančios savo veiklą;
+
+2) kiekvienos reorganizuojamos bendrovės pavadinimas, teisinė forma, juridinio asmens kodas, registras ir buveinė;
+
+3) kiekvienos reorganizuojamos bendrovės turto įvertinimo ir perkainojimo aktas;
+
+4) teisių bei prievolių, įskaitant nesumokėtas į Valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizavimo ir po reorganizavimo veikiančių įmonių įstatų įregistravimo įstatymų nustatyta tvarka, perėmimo tvarka ir terminai;
+
+5) bendrovių, kurios yra reorganizuojamos, pajininkų pajų paskirstymo po reorganizavimo tvarka;
+
+6) turtinės ir neturtinės pajininkų teisės po bendrovės reorganizavimo;
+
+7) bendrovės valdymo organams ir revizoriams suteikiamos teisės;
+
+8) momentas, nuo kurio baigiančios savo veiklą bendrovės teisės ir pareigos pereina po reorganizacijos tęsiančiai veiklą bendrovei.
+
+3. Po reorganizavimo veiksiančios bendrovės turi parengti savo įmonės įstatus.
+
+4. Apie numatomą reorganizavimą bendrovės valdyba (administracija) privalo viešai paskelbti bendrovės buveinėje ir spaudoje bei raštu informuoti kiekvieną pajininką ir kreditorių ne vėliau kaip prieš 15 dienų iki narių susirinkimo, kurio darbotvarkėje numatyta svarstyti bendrovės reorganizavimą. Kiekvienas pajininkas turi teisę susipažinti su bendrovės reorganizavimo projektu ir kitais su reorganizavimu susijusiais dokumentais, taip pat šiuos dokumentus kopijuoti ir nusirašyti.
+
+5. Bendrovė gali būti restruktūrizuojama Įmonių restruktūrizavimo įstatymo nustatyta tvarka ir sąlygomis.
+
+6. Bendrovės teisinė forma keičiama ją pertvarkant pagal Civilinio kodekso reikalavimus.
+
+7. Į mažąją bendriją gali būti pertvarkoma bendrovė, kurios visi nariai ir pajininkai yra fiziniai asmenys ir jų yra ne daugiau kaip 10.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2162, 2012-06-29, Žin., 2012, Nr. 83-4336 (2012-07-14), i. k. 1121010ISTA0XI-2162
+
+### 30 straipsnis. Bendrovės likvidavimas
+
+1. Bendrovė gali būti likviduojama Lietuvos Respublikos civilinio kodekso 2.106 straipsnyje nustatytais pagrindais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+2. Bendrovės likvidavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai bei bendrovės įstatai. Kai sprendimą likviduoti bendrovę priima juridinių asmenų registro tvarkytojas, bendrovė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1079, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10452
+
+3. Bendrovės likvidavimo procedūras vykdo likvidacinė komisija ir jos pirmininkas, išskyrus atvejus, kai sprendimą likviduoti bendrovę priima juridinių asmenų registro tvarkytojas. Jeigu bendrovė likviduojama teismo arba kreditorių susirinkimo nutarimu, tai likvidacinė komisija skiriama šių institucijų sprendimu. Jeigu bendrovė likviduojama pasibaigus nustatytam bendrovės veiklos terminui arba bendrovės narių susirinkimo nutarimu, tai likvidacinės komisijos funkcijas atlieka bendrovės valdyba (administracija). Narių susirinkimas turi teisę savo nuožiūra išrinkti iš bendrovės narių kitus likvidacinės komisijos narius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1079, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10452
+
+4. Paskyrus likvidacinę komisiją, bendrovė įgyja likviduojamos bendrovės statusą. Tokiu atveju prieš bendrovės pavadinimą rašomas žodis „likviduojama“. Valdyba (administracija) netenka savo įgaliojimų, jos funkcijas perima likvidacinė komisija.
+
+5. Narių susirinkimas, priėmęs nutarimą likviduoti bendrovę, tvirtina bendrovės nuosavybės paskirstymo, bendrovės turto pardavimo tvarką bei sąlygas, nustato bendrovės likvidavimo terminus ir įpareigoja vieną iš likvidacinės komisijos narių organizuoti ir kontroliuoti pajamų bei sąnaudų apskaitą arba pasamdyti tam tikslui kvalifikuotą asmenį ar tokių paslaugų įmonę.
+
+6. Likvidacinė komisija:
+
+1) inventorizuoja materialines, finansines vertybes, jeigu reikia, perkainoja turtą ir surašo jo priėmimo aktą, sudaro likvidavimo laikotarpio pradžios ir pabaigos bendrovės likvidavimo balansus;
+
+2) nustatyta tvarka paskelbia apie bendrovės likvidavimą;
+
+3) atstovauja likviduojamai bendrovei teisme, taip pat esant santykiams su trečiaisiais asmenimis;
+
+4) sudaro bendrovės kreditorių ir debitorių sąrašus, tenkina kreditorių reikalavimus, išieško debitorių įsiskolinimus;
+
+5) nutraukia darbo sutartis su bendrovės darbuotojais ir su jais atsiskaito;
+
+6) organizuoja bendrovės turto apsaugą;
+
+7) užbaigia gamybinę ir komercinę veiklą, baigia vykdyti prievoles, įskaitant mokesčius į biudžetą ir valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+
+8) esant ginčytinų prievolių, iš bendrovės turto išskiria atitinkamą sumą joms vykdyti ir įmoka į notariato depozito sąskaitą;
+
+9) likvidavimo laikotarpiu sudaro bendrovės buhalterinius balansus;
+
+10) parduoda bendrovės turtą narių susirinkimo nustatyta turto pardavimo tvarka ir sąlygomis;
+
+11) narių susirinkimo patvirtinta bendrovės nuosavybės paskirstymo tvarka padalija likusį turtą bendrovės nariams ir pajininkams, organizuoja šio turto atsiėmimą;
+
+12) sudaro bendrovės narių ir pajininkų grupes, kuriems už pajus perduodami bendrovės statiniai;
+
+13) tapus bendrovei nemokia, praneša apie tai kreditoriams ir iškelia bendrovei bankroto bylą;
+
+14) įstatymų nustatyta tvarka sutvarko ir palaidoja gyventojams ir aplinkai pavojingas atliekas, organizuoja neparduotų pastatų, statinių ir įrengimų sunaikinimą, teritorijos sutvarkymą;
+
+15) likvidavimo laikotarpiu teikia institucijai, priėmusiai sprendimą likviduoti bendrovę, jos nustatytais terminais savo veiklos ataskaitą, o baigusi likvidavimą, pateikia galutinę ataskaitą;
+
+16) pateikia Įmonių rejestro tvarkytojui dokumentus, reikalingus likviduotą bendrovę išregistruoti iš Lietuvos Respublikos įmonių rejestro, o pradėjus veikti juridinių asmenų registrui, – Civilinio kodekso nustatyta tvarka;
+
+17) likviduotos bendrovės dokumentus perduoda saugoti Archyvų įstatymo nustatyta tvarka;
+
+18) atlieka kitas bendrovės narių susirinkimo bei įstatų nustatytas pareigas.
+
+### 31 straipsnis. Bendrovės likvidavimo tvarka
+
+1. Likvidacinė komisija apie bendrovės likvidavimą paskelbia įstatuose nurodytoje periodinėje spaudoje ir praneša kiekvienam nariui bei pajininkui raštu, o bendrovės kreditoriui – pasirašytinai ar registruotu laišku. Kreditorių reikalavimai ir pretenzijos priimami ir privalo būti patenkinti per 6 mėnesius nuo likvidavimo paskelbimo dienos. Jei per šį laiką kreditorių reikalavimai nepatenkinami, kreditoriai turi teisę per 3 mėnesius nuo pareiškimo pretenzijoms tenkinti padavimo likvidacinei komisijai dienos kreiptis į teismą dėl jų reikalavimų patenkinimo teismo tvarka. Šiems terminams pasibaigus, savo pretenzijų nepareiškę arba nustatyta teismo tvarka nenorintys jų išieškoti kreditoriai praranda teisę reikalauti, kad būtų pakeistas priimtas bendrovės nuosavybės paskirstymo planas ir tenkinami jų reikalavimai.
+
+2. Bendrovės nariams ir pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai tenkinami šia tvarka:
+
+1) pirmiausia tenkinami likviduojamos bendrovės turto įkeitimu užtikrinti reikalavimai – iš įkeisto turto vertės;
+
+2) pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais; reikalavimai atlyginti žalą dėl suluošinimo ar kitokio sveikatos sužalojimo, susirgimo profesine liga arba žuvus dėl nelaimingo atsitikimo darbe; taip pat fizinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją;
+
+3) antrąja eile tenkinami reikalavimai dėl mokesčių bei kitų įmokų į biudžetą ir dėl valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+
+4) trečiąja eile tenkinami likę kreditorių reikalavimai.
+
+3. Patenkinus kreditorių reikalavimus, pajininkams grąžinamas turtas padalijamas proporcingai jiems nuosavybės teise priklausančio pajaus vertei.
+
+4. Paskirsčius nariams ir pajininkams likusį turtą, apie kiekvienam iš jų tekusį turtą pranešama registruotu laišku arba pranešimu pasirašytinai įteikimo lape.
+
+5. Likviduojamos bendrovės turto perdavimas kiekvienam nariui ir pajininkui įforminamas likvidacinės komisijos protokoliniu sprendimu ir turto perdavimo aktu.
+
+6. Kilus bendrovės narių ir pajininkų tarpusavio arba narių ir pajininkų bei likvidacinės komisijos ginčui dėl likusio turto ar turto dalies, likvidacinė komisija sustabdo turto, dėl kurio ginčijamasi, dalijimą. Šie tarpusavio ginčai su likvidacine komisija nagrinėjami teismo tvarka. Turtinių ginčų nagrinėjimas teisme nėra pagrindas bendrovės likvidavimui sustabdyti.
+
+7. Bendrovės nariams ir pajininkams, per vieną mėnesį po registruoto pranešimo išsiuntimo ar įteikimo nepareiškusiems apsisprendimo dėl jiems tenkančio turto atsiėmimo, turto dalis, priklausanti pinigais, pervedama į asmeninę sąskaitą banke, o natūrinis turtas išdalijamas proporcingai pagal pajus kitiems pajininkams.
+
+8. Jeigu bendrovės narys ar pajininkas atsisako atsiimti likvidacinės komisijos jam paskirtą turtą ir per 15 dienų nuo pranešimo įteikimo dienos nepasirašo turto grąžinimo dokumentuose, surašomas protokolas, kuriame nurodoma, dėl kokių priežasčių jis atsisako paskirto turto, ir įteikiamas arba pasiunčiamas registruotu laišku bendrovės nariui ar pajininkui. Šis per 15 dienų nuo protokolo įteikimo ar išsiuntimo turi teisę likvidacinės komisijos sprendimą apskųsti teismui. To nepadaręs, jis praranda teisę į jam skirtą turtą. Šis turtas paskirstomas kitiems bendrovės nariams ir pajininkams proporcingai jų pajams.
+
+### 32 straipsnis. Neteko galios nuo 2003-05-01.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+### 33 straipsnis. Likvidacinės komisijos narių darbo apmokėjimo tvarka ir atsakomybė
+
+1. Likvidacinės komisijos narių darbas apmokamas iš bendrovės lėšų. Atlyginimo dydį nustato bendrovės narių ar kreditorių susirinkimas arba teismas, priėmę sprendimą likviduoti bendrovę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+2. Bendrovės likvidacinės komisijos nariai įstatymų nustatyta tvarka privalo atlyginti nuostolius, kurie atsirado dėl jų kaltės.
+
+## DEVINTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+
+### 34 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+
+LIETUVOS RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS TARYBOS
+
+PIRMININKAS V. LANDSBERGIS
+
+Vilnius, 1991 m. balandžio 16 d.
+
+Nr. I-1222
+
+Pakeitimai:
+
+1.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+
+Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA000I-942
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1161, 1995-12-28, Žin., 1996, Nr. 1-5 (1996-01-05), i. k. 0951010ISTA00I-1161
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 11, 14, 15, 16, 17, 19, 20, 22, 32 straipsnių pakeitimo ir papildymo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010ISTAVIII-118
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-379, 1997-07-02, Žin., 1997, Nr. 69-1740 (1997-07-23), i. k. 0971010ISTAVIII-379
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-562, 1997-12-09, Žin., 1997, Nr. 117-3002 (1997-12-24), i. k. 0971010ISTAVIII-562
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1194, 1999-05-20, Žin., 1999, Nr. 50-1601 (1999-06-09), i. k. 0991010ISTAIII-1194
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 27 straipsnio pakeitimo ir papildymo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-330, 2001-05-17, Žin., 2001, Nr. 45-1574 (2001-05-30), i. k. 1011010ISTA00IX-330
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+
+Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 7, 10 straipsnių pakeitimo ir papildymo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1020, 2010-09-21, Žin., 2010, Nr. 118-5993 (2010-10-02), i. k. 1101010ISTA0XI-1020
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3 straipsnio pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2162, 2012-06-29, Žin., 2012, Nr. 83-4336 (2012-07-14), i. k. 1121010ISTA0XI-2162
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1079, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10452
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 30 straipsnio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-743, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18511
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 papildymo 11-1 straipsniu įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-247, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08857
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2646, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09684
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsnio pakeitimo įstatymas
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 21, 26 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas

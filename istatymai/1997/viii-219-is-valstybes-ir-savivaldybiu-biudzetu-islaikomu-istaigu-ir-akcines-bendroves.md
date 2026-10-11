@@ -1,0 +1,219 @@
+---
+title: "Lietuvos Respublikos iš valstybės ir savivaldybių biudžetų išlaikomų įstaigų ir akcinės bendrovės \"Lietuvos energija\" skolų pripažinimo valstybės vidaus skola ir šios skolos padengimo įstatymas"
+identifier: "TAR.F0F267E7DDED"
+number: "VIII-219"
+type: act
+jurisdiction: lt
+language: lt
+date: 1997-05-20
+in_force_from: 1997-05-28
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F267E7DDED"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F0F267E7DDED.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos iš valstybės ir savivaldybių biudžetų išlaikomų įstaigų ir akcinės bendrovės "Lietuvos energija" skolų pripažinimo valstybės vidaus skola ir šios skolos padengimo įstatymas
+
+Įstatymas paskelbtas: žin.,
+
+1997, Nr.45-1106
+
+Neoficialus įstatymo tekstas
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr.VIII-538, 97.11.25, Žin., 1997,
+
+Nr.114-2867 (97.12.12)
+
+lietuvos
+
+respublikos Iš valstybės ir savivaldybių biudžetų išlaikomų įstaigų ir akcinės
+
+bendrovės “Lietuvos energija” skolų pripažinimo valstybės vidaus skola ir šios
+
+skolos padengimo įstatymo pakeitimo ir papildymo įstatymas
+
+Nauja įstatymo redakcija
+
+*** Pabaiga ***
+
+LIETUVOS RESPUBLIKOS
+
+IŠ
+
+VALSTYBĖS IR SAVIVALDYBIŲ BIUDŽETŲ IŠLAIKOMŲ ĮSTAIGŲ IR AKCINĖS BENDROVĖS
+
+“LIETUVOS ENERGIJA” SKOLŲ PRIPAŽINIMO VALSTYBĖS VIDAUS SKOLA IR ŠIOS SKOLOS
+
+PADENGIMO
+
+ĮSTATYMAS
+
+1997 m. gegužės 20 d. Nr. VIII-219
+
+Vilnius
+
+Nauja
+
+įstatymo redakcija:
+
+Nr.VIII-538, 97.11.25, Žin., 1997,
+
+Nr.114-2867 (97.12.12)
+
+## 1 straipsnis. Įstatymo
+
+paskirtis
+
+Šio įstatymo paskirtis - iš valstybės ir
+
+savivaldybių biudžetų išlaikomų įstaigų skolas, susidariusias iki 1997 m.
+
+sausio 1 d., ir akcinės bendrovės “Lietuvos energija” skolas, susidariusias
+
+1996 m. ketvirtame ketvirtyje, pripažinti valstybės vidaus skola ir nustatyti
+
+šios skolos padengimo tvarką.
+
+## 2 straipsnis. Valstybės
+
+vidaus skolos pripažinimas
+
+1. Pagrįstomis skolomis laikyti iš valstybės ir
+
+savivaldybių biudžetų išlaikomų įstaigų skolas už mitybą, medikamentus, šilumos
+
+ir elektros energiją ir nepadengtus akcinės bendrovės “Lietuvos energija”
+
+nuostolius dėl 1996 m. ketvirtame ketvirtyje lengvatinėmis kainomis tiektos
+
+šilumos energijos.
+
+2. Taip pat pagrįstomis skolomis laikyti kitas iš
+
+valstybės ir savivaldybių biudžetų išlaikomų įstaigų skolas (išskyrus darbo
+
+užmokesčio ir fizinių asmenų pajamų mokesčio įsiskolinimą), susidariusias iki
+
+1997 m. sausio 1 d.:
+
+1) iš valstybės biudžeto finansuojamų įstaigų
+
+skolas, ne didesnes už valstybės biudžeto asignavimų valdytojams 1994-1996
+
+metais neperduotas biudžeto asignavimų sumas;
+
+2) iš savivaldybių biudžetų finansuojamų įstaigų
+
+(įskaitant Pasaulio banko paskolų, suteiktų savivaldybėms 1996 metais
+
+atsiskaityti už biudžetinių įstaigų suvartotą elektros, šilumos energiją ir
+
+dujas, sumas) skolas, ne didesnes už 1994-1996 metais negautas savivaldybių
+
+biudžetų pajamas (įskaitant neperduotą dotaciją) pagal priedėlį. Nustatant
+
+savivaldybėms valstybės vidaus skolos dydį, sumažinti jį savivaldybių biudžetų
+
+1997 metų viršplaninėmis pajamomis (palyginti su skaičiuojant atskaitymų į
+
+savivaldybių biudžetus normatyvus priimtais planais) ir lėšomis, skirtomis 1997
+
+metais pagal Vyriausybės sprendimus (atsižvelgus į savivaldybių biudžetų pajamų
+
+vykdymą).
+
+3. Šio straipsnio 2 dalyje nurodytos iš valstybės ir
+
+savivaldybių biudžetų išlaikomų įstaigų skolos, priskiriamos valstybės vidaus
+
+skolai, sumažintos debitorinio įsiskolinimo sumomis.
+
+## 3 straipsnis. Valstybės
+
+vidaus skolos dydis
+
+Pagal šį įstatymą valstybės vidaus skola nustatoma
+
+iki 442 mln.litų.
+
+## 4 straipsnis. Valstybės
+
+vidaus skolos nustatymas
+
+1. Biudžetinių įstaigų vadovai privalo iki 1997 m.
+
+gruodžio 10 d. pateikti Valstybės kontrolei (iš Lietuvos valstybės biudžeto
+
+išlaikomos įstaigos) ir savivaldybių kontrolieriams (iš savivaldybių biudžetų
+
+išlaikomos įstaigos) jų vadovaujamų, taip pat pavaldžių įstaigų kreditorių ir
+
+debitorių sąrašus, pagrįstus atsiskaitymų pagal 1997 m. sausio 1 d. būklę
+
+inventorizavimo duomenimis.
+
+2. Valstybės kontrolė ir savivaldybių kontrolieriai
+
+išvadas dėl biudžetinių įstaigų skolų pagrįstumo pateikia Finansų ministerijai
+
+iki 1997 m. gruodžio 31 d.
+
+3. Lietuvos Respublikos Vyriausybė, remdamasi
+
+Valstybės kontrolės ir savivaldybių kontrolierių pateiktomis išvadomis dėl
+
+biudžetinių įstaigų skolų, susidariusių iki 1997 m. sausio 1 d.,
+
+pagrįstumo ir Valstybinės energetikos išteklių kainų ir energetinės veiklos
+
+kontrolės komisijos išvada dėl akcinės bendrovės “Lietuvos energija” skolos,
+
+susidariusios už 1996 m. ketvirtame ketvirtyje lengvatinėmis kainomis tiektą
+
+šilumos energiją, ir vadovaudamasi šiuo įstatymu, nustato bendrą valstybės
+
+vidaus skolos sumą.
+
+## 5 straipsnis. Valstybės
+
+vidaus skolos padengimas
+
+Valstybės vidaus skolą padengti iš Lietuvos
+
+Respublikos 1997 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus
+
+normatyvų bei dotacijų patvirtinimo įstatyme numatytų lėšų biudžetinių įstaigų
+
+skoloms padengti, o trūkstamoms sumoms padengti 1998 metais išleisti
+
+Vyriausybės vertybinius popierius, kurių galiojimo terminą ir išpirkimo tvarką
+
+nustato Lietuvos Respublikos Vyriausybė.
+
+6
+
+straipsnis. Fizinių asmenų pajamų mokesčio nepriemokų
+
+anuliavimas biudžetinėms įstaigoms
+
+Anuliuoti biudžetinėms įstaigoms fizinių asmenų
+
+pajamų mokesčio nepriemokas (įskaitant baudas ir delspinigius), kurios buvo
+
+1997 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
+
+įstatymą.
+
+RESPUBLIKOS PREZIDENTAS ALGIRDAS
+
+BRAZAUSKAS

@@ -1,0 +1,59 @@
+---
+title: "Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas"
+identifier: "TAR.53935ABD28C4"
+number: "VIII-722"
+type: act
+jurisdiction: lt
+language: lt
+date: 1998-04-28
+in_force_from: 1998-05-13
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.53935ABD28C4"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.53935ABD28C4.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+PASKOLŲ IŠ UŽSIENIO BANKŲ BŪTINGĖS NAFTOS TERMINALO PROJEKTUI FINANSUOTI ĮSTATYMO PAKEITIMO IR PAPILDYMO
+
+Į S T A T Y M A S
+
+1998 m. balandžio 28 d. Nr. VIII-722
+
+Vilnius
+
+(Žin., 1997, Nr. [67-1662](https://www.e-tar.lt/portal/lt/legalAct/TAR.55BCCA64A827))
+
+\#### 1 straipsnis. 1 straipsnio pakeitimas
+
+1 straipsnio 1 dalį pakeisti, 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
+
+„**1****straipsnis.****Sprendimas imti paskolas**
+
+Lietuvos Respublikos Seimas, vadovaudamasis Valstybės skolos įstatymo 5 straipsnio 1 dalimi bei 7 straipsnio 1 dalimi, nusprendžia imti užsienio paskolas iš užsienio bankų, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems bankams dėl teikiamų paskolų akcinei bendrovei „Būtingės nafta“ Būtingės naftos terminalo projektui finansuoti.“
+
+\#### 2 straipsnis. 2 straipsnio pakeitimas
+
+Iš 2 straipsnio išbraukti pirmojo sakinio žodžius „1 straipsnyje išvardytais“ bei paskutinįjį sakinį ir šį straipsnį išdėstyti taip:
+
+**„****2****straipsnis.****Įgaliojimai Lietuvos Respublikos Vyriausybei nustatyti konkrečias paskolų sąlygas**
+
+Įgalioti Lietuvos Respublikos Vyriausybę derėtis su užsienio bankais dėl konkrečių kiekvienos paskolos suteikimo sąlygų, taip pat konkrečios kiekvienos paskolos sumos ir nustatyti tai Vyriausybės nutarimuose.“
+
+\#### 3 straipsnis. Įstatymo papildymas 3 straipsniu
+
+Papildyti įstatymą 3 straipsniu:
+
+„**3****straipsnis.****Sprendimas imti trumpalaikę tarpinę paskolą**
+
+Akcinės bendrovės „Būtingės nafta“ Būtingės naftos terminalo statybos nenutrūkstamam finansavimui užtikrinti Lietuvos Respublikos Seimas nusprendžia suteikti teisę Lietuvos Respublikos Vyriausybei imti iki 75 mln. JAV dolerių trumpalaikę tarpinę paskolą ir (ar) suteikti valstybės garantiją ją teikiančiam kreditoriui, kuris paskolos sąlygas turi suderinti su Finansų ministerija, ir (arba) suteikti trumpalaikę tarpinę paskolą akcinei bendrovei „Būtingės nafta“ iš valstybės lėšų.“
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+
+______________

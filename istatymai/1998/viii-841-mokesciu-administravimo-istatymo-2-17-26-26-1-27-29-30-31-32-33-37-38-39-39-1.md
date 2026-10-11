@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 26, 26(1), 27, 29, 30, 31, 32, 33, 37, 38, 39, 39(1), 49, 50, 52, 54, 55, 56, 57, 58 straipsnių papildymo ir pakeitimo bei papildymo 27(1), 27(2), 29(1), 52(1), 56(1) straipsniais ir 47, 48 straipsnių pripažinimo netekusiais galios įstatymo įgyvendinimo įstatymas"
+identifier: "TAR.E1748307E889"
+number: "VIII-841"
+type: act
+jurisdiction: lt
+language: lt
+date: 1998-07-02
+in_force_from: 1998-07-31
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E1748307E889"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E1748307E889.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 26, 26(1), 27, 29, 30, 31, 32, 33, 37, 38, 39, 39(1), 49, 50, 52, 54, 55, 56, 57, 58 straipsnių papildymo ir pakeitimo bei papildymo 27(1), 27(2), 29(1), 52(1), 56(1) straipsniais ir 47, 48 straipsnių pripažinimo netekusiais galios įstatymo įgyvendinimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 17, 26, 261, 27, 29, 30, 31, 32, 33, 37, 38, 39, 391, 49, 50, 52, 54, 55, 56, 57, 58 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO BEI PAPILDYMO 271, 272, 291, 521, 561 STRAIPSNIAIS IR 47, 48 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMO ĮGYVENDINIMO
+
+Į S T A T Y M A S
+
+1998 m. liepos 2 d. Nr. VIII-841
+
+Vilnius
+
+\#### 1 straipsnis. Mokesčių administravimo įstatymo 38 straipsnio taikymas
+
+Iki 1996 m. liepos 1 d. susidariusioms mokesčio permokoms grąžinti taikomas permokos susidarymo metu galiojusio atitinkamo mokesčio įstatymo nustatytas terminas. Jei atitinkamame mokesčio įstatyme permokos grąžinimas nebuvo reglamentuotas, mokesčio mokėtojas gali pateikti prašymą grąžinti iki 1996 m. liepos 1 d. susidariusias šių mokesčių permokas per penkerius kalendorinius metus po tų metų, kai mokestis buvo permokėtas. Mokesčio permokoms, kurios susidarė po 1996 m. liepos 1 d., grąžinti taikomas Mokesčių administravimo įstatymo 38 straipsnyje nurodytas terminas.
+
+\#### 2 straipsnis. Mokesčių administravimo įstatymo 54, 561, 57 ir 58 straipsnių taikymas
+
+Iki aukštesniojo administracinio teismo įsteigimo mokesčio mokėtojo skundai dėl centrinio mokesčio administratoriaus sprendimų, kuriuos patvirtino arba iš dalies patvirtino Mokestinių ginčų komisija, nagrinėjami Vilniaus apygardos teisme. Skundai dėl vietos arba centrinio mokesčio administratoriaus veiksmų (sprendimų), paduoti teismams iki šio įstatymo įsigaliojimo, toliau nagrinėjami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+
+______________
