@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/922b1d4000f511ed8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstituciniai-istatymai/TAR.922B1D4000F5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos referendumo konstitucinis įstatymas
@@ -40,15 +40,15 @@ Konstitucijos 9 straipsnio pirmosios dalies nuostata, kad „svarbiausi Valstyb�
 
 priima šį įstatymą.
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato Lietuvos Respublikos piliečių referendumo teisės įgyvendinimo tvarką, referendumo rūšis, referendumo inicijavimo, paskelbimo, organizavimo ir vykdymo tvarką.
 
 2. Spręsti referendumu siūlomus svarbiausius Valstybės ir Tautos gyvenimo klausimus, vadovaudamiesi Konstitucija ir šiuo įstatymu, teikia Lietuvos Respublikos piliečiai ar Seimas.
 
-\#### 2 straipsnis. Bendrieji referendumo principai
+## 2 straipsnis. Bendrieji referendumo principai
 
 1. Dalyvavimas referendume yra laisvas ir grindžiamas demokratiniais rinkimų teisės principais: visuotinės, lygios ir tiesioginės rinkimų teisės bei slapto balsavimo.
 
@@ -62,7 +62,7 @@ priima šį įstatymą.
 
 6. Piliečių teisės dalyvauti referendume negalima varžyti dėl lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, neįgalumo, tikėjimo, įsitikinimų, pažiūrų ar kitais diskriminavimo pagrindais.
 
-\#### 3 straipsnis. Draudimas papirkti piliečius
+## 3 straipsnis. Draudimas papirkti piliečius
 
 1. Nuo piliečių referendumo iniciatyvinės grupės (toliau – grupė) įregistravimo dienos šio įstatymo nustatyta tvarka ar Seimo narių grupės siūlymo paskelbti referendumą pateikimo Seimui dienos iki balsavimo referendume pradžios ir balsavimo referendume dieną draudžiama tiesiogiai ar netiesiogiai pirkti piliečių balsus, dovanomis ar kitokiu atlyginimu skatinti piliečius remti reikalavimą paskelbti referendumą ar jo neremti ir (arba) dalyvauti ar nedalyvauti referendume, ir (arba) balsuoti už ar prieš referendumui teikiamo sprendimo priėmimą, taip pat žadėti už reikalavimo paskelbti referendumą rėmimą ir (arba) balsavimą atsilyginti po referendumo, turint tikslą paveikti piliečių valią balsuojant referendume, ir taip trukdyti piliečiams įgyvendinti referendumo teisę.
 
@@ -70,11 +70,11 @@ priima šį įstatymą.
 
 3. Piliečių papirkimo faktus tiria ir sprendimus dėl jų priima savivaldybių referendumo komisijos Lietuvos Respublikos vyriausiosios rinkimų komisijos nustatyta tvarka. Šie sprendimai gali būti skundžiami Vyriausiajai rinkimų komisijai. Vyriausioji rinkimų komisija, siekdama užtikrinti referendumo skaidrumą ir sąžiningumą, apie nustatytą piliečių papirkimo faktą paskelbia savo interneto svetainėje kartu su tyrimo išvada ir nurodo piliečių papirkimą organizavusio asmens ar asmenų grupės vardus ir pavardes. Šie piliečių papirkimą organizavusių asmenų duomenys Vyriausiosios rinkimų komisijos interneto svetainėje skelbiami 5 metus nuo jų paskelbimo dienos. Viešai neskelbiama informacija, kuri yra valstybės, komercinė, banko, tarnybinė, privataus gyvenimo ar kita įstatymų saugoma paslaptis. Piliečių papirkimo faktą pripažinus šiurkščiu šio įstatymo pažeidimu, atsiranda šiame ir kituose įstatymuose nurodytos pasekmės.
 
-\#### 4 straipsnis. Referendumo rūšys
+## 4 straipsnis. Referendumo rūšys
 
 Lietuvos Respublikoje gali būti rengiami privalomieji ir patariamieji referendumai.
 
-\#### 5 straipsnis. Privalomieji referendumai
+## 5 straipsnis. Privalomieji referendumai
 
 1. Privalomieji referendumai rengiami šiais klausimais:
 
@@ -92,11 +92,11 @@ Lietuvos Respublikoje gali būti rengiami privalomieji ir patariamieji referendu
 
 2. Privalomieji referendumai gali būti rengiami ir dėl kitų svarbiausių Valstybės bei Tautos gyvenimo klausimų, kuriuos spręsti referendumu siūlo ne mažiau kaip trys šimtai tūkstančių rinkimų teisę turinčių piliečių arba teikia Seimas.
 
-\#### 6 straipsnis. Patariamieji referendumai
+## 6 straipsnis. Patariamieji referendumai
 
 Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų teisę turinčių piliečių siūlymu arba Seimo iniciatyva gali būti rengiami kitais svarbiausiais Valstybės ir Tautos gyvenimo klausimais, dėl kurių pagal šį įstatymą nebūtina rengti privalomąjį referendumą.
 
-\#### 7 straipsnis. Reikalavimai, taikomi referendumui teikiamiems sprendimams
+## 7 straipsnis. Reikalavimai, taikomi referendumui teikiamiems sprendimams
 
 1. Reikalavimai, taikomi referendumui teikiamo sprendimo turiniui ir formai:
 
@@ -114,7 +114,7 @@ Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų 
 
 3. Referendumui teikiamas sprendimas apima referendumui teikiamus Konstitucijos pataisų, kitų įstatymų projektus ir spręsti siūlomus kitus svarbiausius Valstybės ir Tautos gyvenimo klausimus.
 
-\#### 8 straipsnis. Privalomojo referendumo rezultatų nustatymas
+## 8 straipsnis. Privalomojo referendumo rezultatų nustatymas
 
 1. Privalomasis referendumas laikomas įvykusiu, jeigu jame dalyvavo daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą.
 
@@ -124,15 +124,15 @@ Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų 
 
 4. Sprendimas dėl kitų klausimų, įstatymų ar jų nuostatų, dėl kurių buvo sprendžiama privalomajame referendume, yra laikomas priimtu, jeigu tam pritarė daugiau kaip pusė piliečių, dalyvavusių referendume, bet ne mažiau kaip 1/3 piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą.
 
-\#### 9 straipsnis. Patariamojo referendumo rezultatų nustatymas
+## 9 straipsnis. Patariamojo referendumo rezultatų nustatymas
 
 1. Patariamasis referendumas laikomas įvykusiu, jeigu jame dalyvavo daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą.
 
 2. Tuo atveju, kai patariamajame referendume dalyvavo daugiau kaip pusė turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą piliečių ir šiam referendumui pateiktam sprendimui pritarė ne mažiau kaip pusė jame dalyvavusių piliečių, piliečių pareikštos valios įgyvendinimo klausimas ne vėliau kaip per vieną mėnesį nuo galutinių referendumo rezultatų paskelbimo turi būti apsvarstytas Seime Lietuvos Respublikos Seimo statuto nustatyta tvarka.
 
-\## II SKYRIUS. REFERENDUMO INICIJAVIMAS IR PASKELBIMAS
+II SKYRIUS. REFERENDUMO INICIJAVIMAS IR PASKELBIMAS
 
-\#### 10 straipsnis. Referendumo paskelbimo iniciatyvos teisė
+## 10 straipsnis. Referendumo paskelbimo iniciatyvos teisė
 
 1. Referendumo paskelbimo iniciatyvos teisė priklauso piliečiams ir Seimui.
 
@@ -142,7 +142,7 @@ Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų 
 
 4. Iniciatyva paskelbti referendumą tuo pačiu klausimu gali būti reiškiama ne anksčiau kaip po vienų metų.
 
-\#### 11 straipsnis. Grupės įregistravimas
+## 11 straipsnis. Grupės įregistravimas
 
 1. Piliečių referendumo paskelbimo iniciatyvos teisę piliečiai įgyvendina tiesiogiai. Šiam tikslui iš ne mažiau kaip 15 piliečių, turinčių rinkimų teisę, sudaroma grupė. Grupės atstovas atvyksta į Vyriausiąją rinkimų komisiją ir pateikia jai prašymą įregistruoti grupę ir referendumui siūlomo sprendimo tekstą bei preliminariai suderina klausimą dėl Vyriausiosios rinkimų komisijos posėdžio datos. Grupės prašymas įregistruoti grupę ir referendumui siūlomo sprendimo tekstas Vyriausiajai rinkimų komisijai gali būti pateikti elektroniniu būdu.
 
@@ -166,7 +166,7 @@ Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų 
 
 11. Siekdama užtikrinti referendumo skaidrumą ir sąžiningumą, Vyriausioji rinkimų komisija savo interneto svetainėje skelbia grupės koordinatoriaus (koordinatorių) ir grupės narių vardus ir pavardes. Šie grupės narių duomenys skelbiami 10 metų nuo grupės įregistravimo Vyriausiojoje rinkimų komisijoje dienos. Grupės koordinatoriaus (koordinatorių) kontaktinė informacija skelbiama iki galutinių referendumo rezultatų paskelbimo dienos.
 
-\#### 12 straipsnis. Piliečių parašų rinkimas
+## 12 straipsnis. Piliečių parašų rinkimas
 
 1. Vyriausiosios rinkimų komisijos išduodamas piliečių parašų rinkimo lapas turi atitikti šio įstatymo priede nustatytą formą. Piliečių parašų rinkimo lape gali būti papildoma informacija, reikalinga šiame įstatyme nustatytiems reikalavimams užtikrinti.
 
@@ -188,13 +188,13 @@ Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų 
 
 10. Nutraukus piliečių parašų rinkimą, per mėnesį nuo nutraukimo dienos Vyriausiajai rinkimų komisijai grąžinami visi piliečių parašų rinkimo lapai. Už piliečių parašų rinkimo lapų grąžinimą yra atsakingas (atsakingi) grupės koordinatorius (koordinatoriai). Pažeidęs (pažeidę) šioje dalyje nustatytus reikalavimus grupės koordinatorius (koordinatoriai) atsako įstatymų nustatyta tvarka.
 
-\#### 13 straipsnis. Seimo narių grupės iniciatyvos teisės paskelbti referendumą įgyvendinimas
+## 13 straipsnis. Seimo narių grupės iniciatyvos teisės paskelbti referendumą įgyvendinimas
 
 1. Seimo narių grupės siūlymas paskelbti referendumą yra teikiamas Seimui. Šiame siūlyme turi būti nurodyta referendumo rūšis, referendumui siūlomo sprendimo tekstas. Siūlymą paskelbti referendumą pasirašo Seimo nariai. Kartu su šiuo siūlymu Seimui pateikiamas ir Seimo nutarimo dėl referendumo paskelbimo projektas. Jį Seimas svarsto ir sprendimą priima Seimo statute nustatyta tvarka.
 
 2. Seimo narys savo parašą dėl siūlymo paskelbti referendumą gali atšaukti Seimo statute nustatyta tvarka.
 
-\#### 14 straipsnis. Piliečių reikalavimo paskelbti referendumą preliminarus nagrinėjimas
+## 14 straipsnis. Piliečių reikalavimo paskelbti referendumą preliminarus nagrinėjimas
 
 1. Vyriausioji rinkimų komisija jai pateiktus šio įstatymo 12 straipsnio 7 dalyje nurodytus dokumentus ir elektroninės formos piliečių parašų rinkimo lape įrašytus duomenis per 30 darbo dienų nuo jų gavimo dienos patikrina ir suskaičiuoja piliečių parašų rinkimo lapuose piliečių parašus. Nustačiusi, kad dokumentai, piliečių parašai ir jų rinkimo būdas atitinka šio įstatymo ir kitų teisės aktų reikalavimus, Vyriausioji rinkimų komisija elektroninių ryšių priemonėmis pasirašiusių piliečių parašų skaičių prideda prie grupės pateiktame baigiamajame akte nurodytų surinktų piliečių parašų skaičiaus. Vyriausioji rinkimų komisija savo sprendimu įformintą išvadą, kad pateikti dokumentai atitinka šį įstatymą, Seimui perduoda kartu su grupės baigiamuoju aktu, paskelbti referendumą reikalaujančių piliečių parašais ir atspausdintais elektroninės formos piliečių parašų rinkimo lape įrašytais duomenimis.
 
@@ -202,17 +202,17 @@ Patariamieji referendumai ne mažiau kaip trijų šimtų tūkstančių rinkimų 
 
 3. Jeigu nustatoma, kad pilietis už tą patį reikalavimą paskelbti referendumą pasirašė du ar daugiau kartų arba pasirašė ir popierinės, ir elektroninės formos piliečių parašų rinkimo lape, įskaičiuojamas vienas jo parašas. Piliečio parašas neįskaičiuojamas, jeigu, pažeidžiant šio įstatymo 12 straipsnio 4 ar 5 dalį, duomenis apie pilietį parašų rinkimo lape įrašė ne jis pats, taip pat jeigu įrašyti ne visi šio įstatymo 12 straipsnio 1, 2 ir 4 dalyse nustatyti duomenys, jie įrašyti neteisingai arba renkant piliečių parašus buvo pažeistas šio įstatymo 3 straipsnyje nustatytas draudimas papirkti piliečius.
 
-\#### 15 straipsnis. Seimo nutarimo dėl reikalavimo paskelbti referendumą priėmimo tvarka
+## 15 straipsnis. Seimo nutarimo dėl reikalavimo paskelbti referendumą priėmimo tvarka
 
 Seimas, gavęs grupės baigiamąjį aktą kartu su paskelbti referendumą reikalaujančių piliečių parašais, įskaitant atspausdintus elektroninės formos piliečių parašų rinkimo lape įrašytus duomenis, ir Vyriausiosios rinkimų komisijos išvadą, kad pateikti dokumentai atitinka šį įstatymą, Seimo sesijos metu artimiausiame Seimo posėdyje svarsto referendumo paskelbimo klausimą. Į šį Seimo posėdį kviečiami dalyvauti grupės atstovai. Seimo nutarimas dėl referendumo paskelbimo priimamas Seimo statuto nustatyta tvarka ne vėliau kaip per vieną mėnesį nuo dienos, kurią Seimo posėdyje pradėtas svarstyti referendumo paskelbimo klausimas.
 
-\#### 16 straipsnis. Seimo nutarimo dėl referendumo paskelbimo turinys
+## 16 straipsnis. Seimo nutarimo dėl referendumo paskelbimo turinys
 
 1. Seimo nutarime dėl referendumo paskelbimo nurodoma referendumo rūšis, referendumo data, referendumui teikiamo sprendimo tekstas.
 
 2. Referendumo data skiriama ne vėliau kaip po 12 mėnesių ir ne anksčiau kaip po 3 mėnesių nuo Seimo nutarimo dėl referendumo paskelbimo priėmimo dienos. Referendumas vyksta vieną dieną.
 
-\#### 17 straipsnis. Referendumo agitacija
+## 17 straipsnis. Referendumo agitacija
 
 1. Seimo nutarimo dėl referendumo paskelbimo įsigaliojimo diena yra laikoma referendumo agitacijos kampanijos pradžia.
 
@@ -228,7 +228,7 @@ Seimas, gavęs grupės baigiamąjį aktą kartu su paskelbti referendumą reikal
 
 7. Informacija apie vykstantį referendumą, jo svarbą Valstybės ir Tautos gyvenimui, atvykusių balsuoti referendume piliečių skaičių, dokumentus, kuriuos būtina turėti balsuojant referendume, kvietimas atvykti balsuoti ar kita informacija, kuria neraginama nedalyvauti referendume, balsuoti už arba prieš referendumui teikiamo sprendimo priėmimą, nelaikoma referendumo agitacija.
 
-\#### 18 straipsnis. Referendumo agitacijos sąlygos ir tvarka
+## 18 straipsnis. Referendumo agitacijos sąlygos ir tvarka
 
 1. Grupės atstovams, Seimo nariams, Respublikos Prezidentui, Ministrui Pirmininkui, ministrams, politinėms partijoms, nevyriausybinėms organizacijoms ir piliečiams suteikiama teisė nemokamai naudotis Lietuvos nacionaliniu radiju ir televizija. Referendumo agitacijai skirtų laidų rengimo taisykles tvirtina, konkrečią Lietuvos nacionalinio radijo ir televizijos laidų trukmę ir laiką nustato Vyriausioji rinkimų komisija, suderinusi su Lietuvos nacionalinio radijo ir televizijos vadovu. Referendumo iniciatoriams ir referendumo oponentams ar jų atstovams skiriama ne mažiau kaip po 5 valandas Lietuvos nacionalinio radijo ir televizijos eterio laiko, iš kurių – ne mažiau kaip 1/4 eterio laiko tarpusavio debatams. Pirmoji valanda visuomeninio (nacionalinio) radijo ir televizijos eterio laiko grupės siūlomo referendumo paskelbimo iniciatyvai pristatyti turi būti skiriama piliečių parašų dėl šios iniciatyvos rinkimo metu ne vėliau kaip per 3 mėnesius nuo grupės įregistravimo dienos. Jeigu grupė tuo pačiu metu referendumui siūlo du arba daugiau skirtingų sprendimų, papildomo visuomeninio (nacionalinio) radijo ir televizijos eterio laiko atskiriems sprendimams neskiriama.
 
@@ -256,11 +256,11 @@ Seimas, gavęs grupės baigiamąjį aktą kartu su paskelbti referendumą reikal
 
 4. Visi transliuotojai turi teisę savo iniciatyva rengti diskusijų laidas, laikydamiesi Rinkimų kodekse nustatytų politinių kampanijų finansavimo ir finansavimo kontrolės reikalavimų. Jiems netaikomos kitos šiame straipsnyje nustatytos sąlygos. Referendumo agitacijos žymėjimo tvarką nurodant lėšų šaltinį arba tai, kad referendumo agitacija skelbiama nemokamai, nustato Vyriausioji rinkimų komisija Rinkimų kodekso nustatyta tvarka.
 
-\## III SKYRIUS. REFERENDUMO POLITINĖ KAMPANIJA, JOS FINANSAVIMAS.
+III SKYRIUS. REFERENDUMO POLITINĖ KAMPANIJA, JOS FINANSAVIMAS.
 
 POLITINĖS KAMPANIJOS FINANSAVIMO KONTROLĖ
 
-\#### 19 straipsnis. Referendumo politinė kampanija, jos finansavimas, politinės kampanijos finansavimo kontrolė
+## 19 straipsnis. Referendumo politinė kampanija, jos finansavimas, politinės kampanijos finansavimo kontrolė
 
 1. Referendumo politinė kampanija – šio straipsnio 2 dalyje nustatytu laikotarpiu politinės kampanijos dalyvių, piliečių, turinčių teisę dalyvauti referendume, ir kitų fizinių ir juridinių asmenų veikla, susijusi su referendumu, skirta referendumo agitacijai, politinei reklamai ir jos finansavimui.
 
@@ -276,13 +276,13 @@ POLITINĖS KAMPANIJOS FINANSAVIMO KONTROLĖ
 
 7. Referendumo politinė kampanija, jos finansavimas, politinės kampanijos finansavimo kontrolė organizuojama ir atliekama taikant atitinkamas Rinkimų kodekso nuostatas dėl rinkimų politinės kampanijos, jos finansavimo, politinės kampanijos finansavimo kontrolės organizavimo ir vykdymo.
 
-\## IV SKYRIUS. PASIRENGIMAS REFERENDUMUI, REFERENDUMO ORGANIZAVIMAS IR VYKDYMAS
+IV SKYRIUS. PASIRENGIMAS REFERENDUMUI, REFERENDUMO ORGANIZAVIMAS IR VYKDYMAS
 
-\#### 20 straipsnis. Pasirengimas referendumui, referendumo organizavimas ir vykdymas
+## 20 straipsnis. Pasirengimas referendumui, referendumo organizavimas ir vykdymas
 
 Pasirengimas referendumui vyksta, referendumas organizuojamas ir vykdomas vadovaujantis Rinkimų kodekse nustatyta rinkimų organizavimo ir vykdymo tvarka tiek, kiek šiame įstatyme nenustatyta kitaip.
 
-\#### 21 straipsnis. Referendumo komisijos
+## 21 straipsnis. Referendumo komisijos
 
 1. Referendumą Lietuvos Respublikoje organizuoja ir vykdo:
 
@@ -298,7 +298,7 @@ Pasirengimas referendumui vyksta, referendumas organizuojamas ir vykdomas vadova
 
 4. Kai vienu metu rengiami ir vyksta keli referendumai, šio įstatymo nustatyta tvarka sudarytos referendumo komisijos yra bendros visiems šiems referendumams.
 
-\#### 22 straipsnis. Vyriausiosios rinkimų komisijos įgaliojimai organizuojant ir vykdant referendumą
+## 22 straipsnis. Vyriausiosios rinkimų komisijos įgaliojimai organizuojant ir vykdant referendumą
 
 Vyriausioji rinkimų komisija:
 
@@ -336,7 +336,7 @@ Vyriausioji rinkimų komisija:
 
 17) vykdo kitus šiame įstatyme ir kituose įstatymuose nustatytus įgaliojimus.
 
-\#### 23 straipsnis. Viešumas rengiant ir vykdant referendumą
+## 23 straipsnis. Viešumas rengiant ir vykdant referendumą
 
 1. Referendumo komisijos, nurodytos šio įstatymo 21 straipsnyje, referendumą rengia ir vykdo viešai. Jos informuoja piliečius apie savo darbą, savivaldybių ir apylinkių referendumo komisijų sudarymą ir sudėtį, buvimo vietą ir darbo laiką.
 
@@ -354,7 +354,7 @@ Vyriausioji rinkimų komisija:
 
 8. Viešosios informacijos rengėjai, platintojai visuomenės informavimo priemonėse informuoja apie referendumo rengimą ir vykdymą. Žurnalistai turi teisę nekliudomai dalyvauti visuose renginiuose, kuriuos organizuoja referendumo komisijos, taip pat gauti informaciją apie referendumo rengimą ir vykdymą.
 
-\#### 24 straipsnis. Skundai dėl referendumo komisijų sprendimų, kurie buvo priimti iki balsavimo referendume pabaigos
+## 24 straipsnis. Skundai dėl referendumo komisijų sprendimų, kurie buvo priimti iki balsavimo referendume pabaigos
 
 1. Grupės nariai, politinės partijos, taip pat jų atstovai ir stebėtojai bei kiti suinteresuoti asmenys referendumo komisijų sprendimus, kurie buvo priimti iki balsavimo referendume pabaigos, gali skųsti:
 
@@ -372,7 +372,7 @@ Vyriausioji rinkimų komisija:
 
 5. Kiti, negu nustatyta šio įstatymo 11 straipsnio 9 dalyje, Vyriausiosios rinkimų komisijos sprendimai ar Vyriausiosios rinkimų komisijos neveikimas įgyvendinant šio įstatymo II skyriaus nuostatas gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui. Šie skundai paduodami ir nagrinėjami laikantis šio įstatymo 11 straipsnio 9 dalyje nustatytos tvarkos ir terminų.
 
-\#### 25 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną arba praėjus ne daugiau kaip 60 dienų po rinkimų
+## 25 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną arba praėjus ne daugiau kaip 60 dienų po rinkimų
 
 1. Tuo atveju, kai referendumas vyksta tą pačią dieną su Seimo rinkimais arba su Respublikos Prezidento rinkimais, arba su savivaldybių tarybų rinkimais, arba su merų rinkimais, arba su rinkimais į Europos Parlamentą, referendumo komisijų funkcijas atlieka atitinkamų rinkimų komisijos.
 
@@ -386,17 +386,17 @@ Vyriausioji rinkimų komisija:
 
 3) į rinkimams sudarytą rinkėjų sąrašą referendumui organizuoti ir vykdyti įrašomi piliečiai, kuriems referendumo dieną bus sukakę 18 metų, ir iš jo išbraukiami mirę piliečiai ir asmenys, kurie neturi teisės dalyvauti referendume.
 
-\#### 26 straipsnis. Referendumo dokumentų pavyzdžių ir formų nustatymas
+## 26 straipsnis. Referendumo dokumentų pavyzdžių ir formų nustatymas
 
 Pranešimų apie referendumą, referendumo biuletenių, vidinių ir išorinių balsavimo vokų, balsavimui naudojamų specialių ženklų, kitų referendume naudojamų vokų, paketų, dokumentų, antspaudų pavyzdžius ir formas, prireikus – jų pildymo pavyzdžius nustato Vyriausioji rinkimų komisija.
 
-\#### 27 straipsnis. Referendumo biuleteniai
+## 27 straipsnis. Referendumo biuleteniai
 
 1. Referendumo biuletenyje įrašomas referendumui pateikto sprendimo tekstas ir atsakymo variantai: „TAIP“ ir „NE“ arba „UŽ“ ir „PRIEŠ“.
 
 2. Kai vienu metu vyksta keli referendumai, kiekvieno iš jų biuleteniai turi būti skirtingos spalvos.
 
-\#### 28 straipsnis. Referendumo apylinkių balsų skaičiavimo protokolai
+## 28 straipsnis. Referendumo apylinkių balsų skaičiavimo protokolai
 
 1. Kiekvienoje referendumo apylinkėje surašomas balsų skaičiavimo protokolas. Referendumo apylinkės balsų skaičiavimo protokole įrašoma:
 
@@ -440,7 +440,7 @@ Pranešimų apie referendumą, referendumo biuletenių, vidinių ir išorinių b
 
 5. Grupės nariai, politinės partijos, taip pat jų atstovai ir referendumo stebėtojai referendumo apylinkės balsų skaičiavimo protokolą per 24 valandas nuo jo surašymo turi teisę apskųsti savivaldybės referendumo komisijai. Ši skundą turi išnagrinėti per 24 valandas nuo jo gavimo momento.
 
-\#### 29 straipsnis. Negaliojantys referendumo biuleteniai
+## 29 straipsnis. Negaliojantys referendumo biuleteniai
 
 1. Negaliojančiais laikomi:
 
@@ -454,7 +454,7 @@ Pranešimų apie referendumą, referendumo biuletenių, vidinių ir išorinių b
 
 2. Sprendimus dėl referendumo biuletenių pripažinimo negaliojančiais arba kilus komisijos narių ginčui dėl referendumo biuletenio žymų įvertinimo priima apylinkės referendumo komisija balsavimu. Šio balsavimo rezultatas nurodomas kitoje to biuletenio pusėje.
 
-\#### 30 straipsnis. Savivaldybės referendumo balsų skaičiavimo protokolai
+## 30 straipsnis. Savivaldybės referendumo balsų skaičiavimo protokolai
 
 1. Pagal referendumo apylinkių balsų skaičiavimo protokolus, referendumo biuletenius ir kitus referendumo dokumentus savivaldybės referendumo komisija į savivaldybės referendumo balsų skaičiavimo protokolą įrašo:
 
@@ -470,13 +470,13 @@ Pranešimų apie referendumą, referendumo biuletenių, vidinių ir išorinių b
 
 3. Grupės nariai, politinės partijos, taip pat jų atstovai ir stebėtojai turi teisę savivaldybės referendumo balsų skaičiavimo protokolą per 24 valandas nuo jo surašymo apskųsti Vyriausiajai rinkimų komisijai. Vyriausioji rinkimų komisija šį skundą turi išnagrinėti per 24 valandas nuo jo gavimo momento.
 
-\#### 31 straipsnis. Savivaldybių referendumo komisijų dokumentų pateikimas Vyriausiajai rinkimų komisijai
+## 31 straipsnis. Savivaldybių referendumo komisijų dokumentų pateikimas Vyriausiajai rinkimų komisijai
 
 Savivaldybių referendumo komisijos visus dokumentus, gautus iš referendumo apylinkių, referendumo apylinkių balsų skaičiavimo protokolus, savivaldybės referendumo balsų skaičiavimo protokolą ir kitus referendumo dokumentus sudeda į specialius paketus, užantspauduoja ir perduoda Vyriausiajai rinkimų komisijai jos nustatyta tvarka.
 
-\## V SKYRIUS. REFERENDUMO REZULTATŲ NUSTATYMAS IR PASKELBIMAS
+V SKYRIUS. REFERENDUMO REZULTATŲ NUSTATYMAS IR PASKELBIMAS
 
-\#### 32 straipsnis. Referendumo rezultatų nustatymo tvarka
+## 32 straipsnis. Referendumo rezultatų nustatymo tvarka
 
 1. Vyriausioji rinkimų komisija pradėti nustatyti referendumo rezultatus gali tik po to, kai gauna visų savivaldybių referendumo komisijų balsų skaičiavimo protokolus, taip pat kitus šio įstatymo 31 straipsnyje nurodytus dokumentus ir išnagrinėja visus skundus dėl savivaldybių referendumo komisijų balsų skaičiavimo protokolų.
 
@@ -496,23 +496,23 @@ Savivaldybių referendumo komisijos visus dokumentus, gautus iš referendumo apy
 
 4. Vyriausioji rinkimų komisija, nustačiusi, kad šiurkštūs šio įstatymo pažeidimai, padaryti nuo grupės įregistravimo šio įstatymo nustatyta tvarka dienos ar Seimo narių grupės siūlymo paskelbti referendumą pateikimo Seimui dienos iki balsavimo referendume pradžios ir referendumo dieną, taip pat balsavimo referendume metu, ar dokumentų suklastojimas turėjo esminę įtaką referendumo rezultatams, gali pripažinti referendumo rezultatus negaliojančiais.
 
-\#### 33 straipsnis. Galutinių referendumo rezultatų paskelbimas
+## 33 straipsnis. Galutinių referendumo rezultatų paskelbimas
 
 Vyriausiosios rinkimų komisijos sprendimas dėl galutinių referendumo rezultatų nustatymo ne vėliau kaip per 7 dienas nuo balsavimo referendume dienos oficialiai paskelbiamas Teisės aktų registre.
 
-\#### 34 straipsnis. Vyriausiosios rinkimų komisijos sprendimo dėl galutinių referendumo rezultatų nustatymo apskundimas
+## 34 straipsnis. Vyriausiosios rinkimų komisijos sprendimo dėl galutinių referendumo rezultatų nustatymo apskundimas
 
 1. Grupė, politinės partijos ir jų atstovai prie Vyriausiosios rinkimų komisijos Vyriausiosios rinkimų komisijos sprendimą dėl galutinių referendumo rezultatų nustatymo ne vėliau kaip per 2 dienas nuo jo oficialaus paskelbimo dienos turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui.
 
 2. Šio straipsnio 1 dalyje nurodytas skundas turi būti išnagrinėtas ne vėliau kaip per 48 valandas nuo jo gavimo momento. Lietuvos vyriausiojo administracinio teismo sprendimas įsiteisėja jo paskelbimo dieną.
 
-\## VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 35 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 35 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Asmenys, pažeidę šį įstatymą ir kitus įstatymus pasirengimo referendumui metu ar organizuojant ir vykdant referendumą, atsako įstatymų nustatyta tvarka.
 
-\#### 36 straipsnis. Referendumu priimto sprendimo įsigaliojimas
+## 36 straipsnis. Referendumu priimto sprendimo įsigaliojimas
 
 1. Referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra balsavimo referendume diena.
 
@@ -524,11 +524,11 @@ Asmenys, pažeidę šį įstatymą ir kitus įstatymus pasirengimo referendumui 
 
 5. Referendumu priimtas įstatymas, išskyrus įstatymą dėl Konstitucijos pakeitimo, kitas aktas ar sprendimas įsigalioja kitą dieną po oficialaus paskelbimo Teisės aktų registre, jeigu tame įstatyme, kitame akte ar sprendime nenustatyta vėlesnė įsigaliojimo data.
 
-\#### 37 straipsnis. Įstatymo įsigaliojimas
+## 37 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2022 m. rugsėjo 1 d.
 
-\#### 38 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 38 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos referendumo įstatymą Nr. IX-929 su visais pakeitimais ir papildymais.
 
@@ -548,9 +548,8 @@ LIETUVOS RESPUBLIKOS PILIEČIŲ, REIKALAUJANČIŲ PASKELBTI REFERENDUMĄ, PARAŠ
 
 Aš, Lietuvos Respublikos pilietis (-ė), patvirtinu, kad remiu reikalavimą paskelbti (nurodoma referendumo rūšis) referendumą dėl (pateikiamas visas referendumui teikiamo sprendimo tekstas).
 
-\| Eil. Nr. | Piliečio pavardė, vardas | Piliečio paso arba asmens tapatybės kortelės numeris | Gimimo data | Gyvenamoji vieta | Parašas | Data |
-
-\| --- | --- | --- | --- | --- | --- | --- |
+| Eil. Nr. | Piliečio pavardė, vardas | Piliečio paso arba asmens tapatybės kortelės numeris | Gimimo data | Gyvenamoji vieta | Parašas | Data |
+| --- | --- | --- | --- | --- | --- | --- |
 
 Parašus surinko _____________________________________________________________________________
 

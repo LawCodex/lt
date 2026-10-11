@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/87892d603a9f11efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstituciniai-istatymai/TAR.87892D603A9F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos konstitucinis įstatymas
@@ -26,9 +26,9 @@ KONSTITUCINIS ĮSTATYMAS
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas nustato rinkimų teisę turintiems Lietuvos Respublikos piliečiams (toliau – piliečiai) Lietuvos Respublikos Konstitucijos 68 straipsnio antrojoje dalyje ir 147 straipsnio pirmojoje dalyje garantuojamų piliečių įstatymų leidybos iniciatyvos ir piliečių Lietuvos Respublikos Konstitucijos keitimo iniciatyvos teisių (toliau kartu – iniciatyvos teisė) įgyvendinimo tvarką.
 
@@ -42,7 +42,7 @@ Vilnius
 
 4) ne mažesnės kaip 1/4 visų Seimo narių grupės Konstitucijos keitimo iniciatyvos teisė.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Piliečių įstatymų leidybos iniciatyva (toliau – iniciatyva) – šio įstatymo nustatyta tvarka pateiktu prašymu įregistruoti piliečių įstatymų leidybos iniciatyvinę grupę pareikštas ketinimas įgyvendinti piliečių įstatymų leidybos iniciatyvos arba piliečių Lietuvos Respublikos Konstitucijos keitimo iniciatyvos teisę, kai tokia grupė įregistruojama.
 
@@ -56,7 +56,7 @@ Vilnius
 
 6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos ar nustatomos Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos rinkimų kodekse ir Lietuvos Respublikos teisėkūros pagrindų įstatyme.
 
-\#### 3 straipsnis. Lietuvos Respublikos vyriausiosios rinkimų komisijos kompetencija
+## 3 straipsnis. Lietuvos Respublikos vyriausiosios rinkimų komisijos kompetencija
 
 1. Vyriausioji rinkimų komisija vykdo šiuos su iniciatyvos teisės įgyvendinimu susijusius įgaliojimus:
 
@@ -80,7 +80,7 @@ Vilnius
 
 2. Vykdydama šiame įstatyme nustatytus įgaliojimus, Vyriausioji rinkimų komisija turi Referendumo konstituciniame įstatyme ir Rinkimų kodekse nustatytas teises tiek, kiek jos susijusios su iniciatyvos teisės įgyvendinimu.
 
-\#### 4 straipsnis. Informacijos apie iniciatyvos teisės įgyvendinimą viešinimas
+## 4 straipsnis. Informacijos apie iniciatyvos teisės įgyvendinimą viešinimas
 
 1. Siekiant informuoti apie iniciatyvos teisės įgyvendinimą ir užtikrinti šios teisės įgyvendinimo skaidrumą ir sąžiningumą, Vyriausiosios rinkimų komisijos interneto svetainėje turi būti skelbiama:
 
@@ -106,19 +106,19 @@ Vilnius
 
 4. Šio straipsnio 1 dalies 2, 3, 4, 5, 6, 7 ir 8 punktuose nurodyta informacija Vyriausiosios rinkimų komisijos interneto svetainėje paskelbiama ne vėliau kaip per 2 darbo dienas nuo tam tikro sprendimo priėmimo dienos, jeigu šiame įstatyme nenustatytas kitas jos paskelbimo terminas.
 
-\#### 5 straipsnis. Vyriausiosios rinkimų komisijos sprendimų paskelbimas ir informavimas apie juos
+## 5 straipsnis. Vyriausiosios rinkimų komisijos sprendimų paskelbimas ir informavimas apie juos
 
 1. Vyriausiosios rinkimų komisijos sprendimai dėl iniciatyvinės grupės įregistravimo, išregistravimo, iniciatyvos teisės įgyvendinimo arba neįgyvendinimo ne vėliau kaip kitą darbo dieną po jų pasirašymo dienos paskelbiami Teisės aktų registre.
 
 2. Apie šio įstatymo nustatyta tvarka Vyriausiosios rinkimų komisijos priimtus sprendimus ne vėliau kaip per 2 darbo dienas nuo jų priėmimo dienos informuojami koordinatoriai. Šiame įstatyme nurodytais atvejais koordinatoriai informuojami prašyme nurodytais jų elektroninio pašto adresais.
 
-\#### 6 straipsnis. Asmens duomenų tvarkymas
+## 6 straipsnis. Asmens duomenų tvarkymas
 
 Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkantys asmenys, nurodyti šio įstatymo 13 straipsnio 2 dalyje, asmens duomenis, siekdami iniciatyvos teisės įgyvendinimo tikslų, tvarko 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento [(ES) 2016/679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R0679&locale=lt) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva [95/46/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31995L0046&locale=lt) (Bendrojo duomenų apsaugos reglamento) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka.
 
-\## II SKYRIUS. INICIATYVINĖS GRUPĖS REGISTRAVIMAS
+II SKYRIUS. INICIATYVINĖS GRUPĖS REGISTRAVIMAS
 
-\#### 7 straipsnis. Iniciatyvinės grupės sudarymas
+## 7 straipsnis. Iniciatyvinės grupės sudarymas
 
 1. Ketindami įgyvendinti įstatymų leidybos iniciatyvos teisę, ne mažiau kaip 5 piliečiai sudaro iniciatyvinę grupę, iš kurios narių paskiriami ne daugiau kaip 2 šios grupės koordinatoriai.
 
@@ -128,7 +128,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 4. Jeigu įregistruotos iniciatyvinės grupės koordinatorius atsisako vykdyti savo pareigas, raštu apie tai informuodamas Vyriausiąją rinkimų komisiją ir iniciatyvinę grupę, arba nebegali jų vykdyti dėl objektyvių priežasčių ir nėra paskirto kito šios grupės koordinatoriaus, iniciatyvinė grupė per 5 darbo dienas nuo tokio fakto paaiškėjimo dienos turi paskirti naują koordinatorių ir apie tai šio įstatymo 8 straipsnio 1 dalyje nustatyta tvarka informuoti Vyriausiąją rinkimų komisiją. Vyriausioji rinkimų komisija, gavusi tokį pranešimą, per 5 darbo dienas pakeičia savo sprendimą dėl iniciatyvinės grupės įregistravimo ir atlieka kitus su koordinatoriaus pakeitimu susijusius šio įstatymo 4, 5 straipsniuose ir 10 straipsnio 5 dalyje nurodytus veiksmus.
 
-\#### 8 straipsnis. Prašymo forma, turinys ir pateikimas
+## 8 straipsnis. Prašymo forma, turinys ir pateikimas
 
 1. Prašymas turi būti pasirašytas visų iniciatyvinės grupės narių ir pateikiamas Vyriausiajai rinkimų komisijai raštu tiesiogiai, paštu arba elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis pateikiamas prašymas turi būti pasirašytas kvalifikuotu elektroniniu parašu arba suformuotas tokiu būdu, kuris užtikrina elektroninę asmens atpažintį ir teksto autentiškumą.
 
@@ -148,7 +148,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 6. Gautas prašymas užregistruojamas Vyriausiosios rinkimų komisijos dokumentų registravimo tvarka ir apie tai ne vėliau kaip per 2 darbo dienas nuo jo užregistravimo dienos pranešama koordinatoriams.
 
-\#### 9 straipsnis. Sprendimo dėl iniciatyvinės grupės registravimo priėmimas
+## 9 straipsnis. Sprendimo dėl iniciatyvinės grupės registravimo priėmimas
 
 1. Vyriausioji rinkimų komisija, išnagrinėjusi prašymą, įskaitant savo atliktą įvertinimą, ar iniciatyvos projektas atitinka Teisėkūros pagrindų įstatyme nustatytus reikalavimus ir ar iniciatyvos projekto nuostatomis nepaneigiami iš Konstitucijos kylantys reikalavimai, sprendimą dėl iniciatyvinės grupės registravimo priima posėdyje ne vėliau kaip per 15 darbo dienų nuo prašymo užregistravimo dienos. Šį terminą Vyriausioji rinkimų komisija, atsižvelgdama į iniciatyvos projekto apimtį ar sudėtingumą, motyvuotu sprendimu gali pratęsti ne ilgiau kaip 15 darbo dienų.
 
@@ -198,7 +198,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 3) piliečių parašų rinkimo lapo formą ir nustato išduodamų piliečių parašų rinkimo lapų skaičių, jų išdavimo ir prieigos prie elektroninės formos piliečių parašų rinkimo lapo sukūrimo datą bei piliečių parašų rinkimo lapų grąžinimo Vyriausiajai rinkimų komisijai datą.
 
-\#### 10 straipsnis. Piliečių parašų rinkimo lapų išdavimas
+## 10 straipsnis. Piliečių parašų rinkimo lapų išdavimas
 
 1. Vyriausioji rinkimų komisija ne vėliau kaip per 5 darbo dienas nuo sprendimo įregistruoti iniciatyvinę grupę priėmimo dienos turi išduoti šios grupės koordinatoriams reikiamą piliečių parašų rinkimo lapų skaičių, sukurti Vyriausiosios rinkimų komisijos informacinėje sistemoje prieigą prie elektroninės formos piliečių parašų rinkimo lapo ir sudaryti galimybę jame pasirašyti elektroninių ryšių priemonėmis ir susipažinti ne tik su iniciatyvos projektu, bet ir su jo aiškinamuoju raštu. Iniciatyvinė grupė gali pasirinkti piliečių parašus rinkti tik elektroniniu būdu ir piliečių parašų rinkimo lapų neimti arba imti tik jų dalį.
 
@@ -210,7 +210,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 5. Vyriausioji rinkimų komisija, išduodama piliečių parašų rinkimo lapus, informuoja koordinatorius apie sukurtą prieigą prie elektroninės formos piliečių parašų rinkimo lapo, taip pat savo nustatyta tvarka supažindina juos su piliečių parašų rinkimo ir piliečių parašų rinkimo lapų grąžinimo tvarka, išaiškina teises, pareigas ir atsakomybę renkant parašus ir grąžinant piliečių parašų rinkimo lapus.
 
-\#### 11 straipsnis. Sprendimo dėl iniciatyvinės grupės išregistravimo priėmimas
+## 11 straipsnis. Sprendimo dėl iniciatyvinės grupės išregistravimo priėmimas
 
 1. Vyriausioji rinkimų komisija priima sprendimą išregistruoti iniciatyvinę grupę, kuriuo remiantis šios grupės iniciatyva laikoma nutrūkusia, jeigu:
 
@@ -220,15 +220,15 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 2. Vyriausiajai rinkimų komisijai priėmus sprendimą išregistruoti iniciatyvinę grupę šio straipsnio 1 dalies 2 punkte nurodytu pagrindu, pradėtas piliečių parašų rinkimas, paskelbus šį sprendimą, turi būti nedelsiant nutraukiamas ir visi piliečių parašų rinkimo lapai, pagal šio įstatymo 15 straipsnio 1 ir 2 dalyse nustatytus reikalavimus surašius piliečių parašų rinkimo baigiamąjį aktą, grąžinami Vyriausiajai rinkimų komisijai jos nustatyta tvarka per vieną mėnesį nuo šio sprendimo paskelbimo dienos.
 
-\## III SKYRIUS. PILIEČIŲ PARAŠŲ RINKIMAS
+III SKYRIUS. PILIEČIŲ PARAŠŲ RINKIMAS
 
-\#### 12 straipsnis. Piliečių parašų rinkimo terminai
+## 12 straipsnis. Piliečių parašų rinkimo terminai
 
 1. Dėl iniciatyvos projekto, teikiamo įgyvendinant įstatymų leidybos iniciatyvos teisę, turi būti surinkta ne mažiau kaip 50 tūkstančių piliečių parašų per 2 mėnesius nuo piliečių parašų rinkimo lapų išdavimo ir prieigos prie elektroninės formos piliečių parašų rinkimo lapo sukūrimo dienos.
 
 2. Dėl iniciatyvos projekto, teikiamo įgyvendinant Konstitucijos keitimo iniciatyvos teisę, turi būti surinkta ne mažiau kaip 300 tūkstančių piliečių parašų per 6 mėnesius nuo piliečių parašų rinkimo lapų išdavimo ir prieigos prie elektroninės formos piliečių parašų rinkimo lapo sukūrimo dienos.
 
-\#### 13 straipsnis. Piliečių parašų rinkimas
+## 13 straipsnis. Piliečių parašų rinkimas
 
 1. Įregistruota iniciatyvinė grupė turi teisę organizuoti piliečių parašų rinkimą ir apie tai pranešti visuomenės informavimo priemonėse.
 
@@ -250,7 +250,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 10. Parašus renkantys asmenys ir koordinatoriai privalo saugoti piliečių parašų rinkimo lapus, užtikrindami juose esančių asmens duomenų apsaugą, kol šie lapai grąžinami koordinatoriams arba Vyriausiajai rinkimų komisijai.
 
-\#### 14 straipsnis. Iniciatyvos projekto politinė kampanija
+## 14 straipsnis. Iniciatyvos projekto politinė kampanija
 
 1. Įregistruota iniciatyvinė grupė, iniciatyvos projekto rėmėjai ir jo oponentai registruojami iniciatyvos projekto politinės kampanijos dalyviais Vyriausiosios rinkimų komisijos nustatyta tvarka, mutatis mutandis taikant Rinkimų kodekso nuostatas dėl rinkimų politinės kampanijos dalyvių registravimo. Iniciatyvos projekto politinės kampanijos dalyvių registracija pradedama įregistravus iniciatyvinę grupę ir baigiama likus vienam mėnesiui iki šio įstatymo 12 straipsnyje nustatyto termino pabaigos.
 
@@ -264,7 +264,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 6. Iniciatyvos projekto politinė kampanija baigiasi praėjus 100 dienų nuo Vyriausiosios rinkimų komisijos sprendimo dėl iniciatyvos teisės įgyvendinimo paskelbimo dienos arba nuo iniciatyvinės grupės išregistravimo dienos.
 
-\#### 15 straipsnis. Piliečių parašų rinkimo pabaiga ir piliečių parašų rinkimo lapų grąžinimas
+## 15 straipsnis. Piliečių parašų rinkimo pabaiga ir piliečių parašų rinkimo lapų grąžinimas
 
 1. Suėjus šio įstatymo 12 straipsnyje nustatytam terminui, piliečių parašai nebegali būti renkami. Iki šio įstatymo 12 straipsnyje nustatyto termino pabaigos, neatsižvelgiant į tai, ar surinktas reikiamas piliečių parašų dėl iniciatyvos projekto skaičius, koordinatoriai iš parašus rinkusių asmenų turi surinkti visus piliečių parašų rinkimo lapus, įskaitant tuos, kuriuose nėra piliečių parašų, ir juos Vyriausiosios rinkimų komisijos nustatyta tvarka kartu su surašytu ir visų koordinatorių pasirašytu piliečių parašų rinkimo baigiamuoju aktu grąžinti Vyriausiajai rinkimų komisijai.
 
@@ -272,9 +272,9 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 3. Jeigu Vyriausiajai rinkimų komisijai piliečių parašų rinkimo lapai grąžinami nesuėjus šio įstatymo 12 straipsnyje nustatytam terminui, piliečių parašų rinkimas elektroninės formos piliečių parašų rinkimo lape nedelsiant nutraukiamas.
 
-\## IV SKYRIUS. PILIEČIŲ PARAŠŲ TIKRINIMAS IR PILIEČIŲ TEIKIAMO TEISĖS AKTO PROJEKTO ĮREGISTRAVIMAS
+IV SKYRIUS. PILIEČIŲ PARAŠŲ TIKRINIMAS IR PILIEČIŲ TEIKIAMO TEISĖS AKTO PROJEKTO ĮREGISTRAVIMAS
 
-\#### 16 straipsnis. Piliečių parašų tikrinimas
+## 16 straipsnis. Piliečių parašų tikrinimas
 
 1. Vyriausioji rinkimų komisija savo nustatyta tvarka ne vėliau kaip per 30 darbo dienų nuo koordinatorių šio įstatymo nustatyta tvarka perduoto piliečių parašų rinkimo baigiamojo akto ir grąžintų piliečių parašų rinkimo lapų gavimo dienos patikrina, ar per šio įstatymo 12 straipsnyje nustatytą terminą piliečių parašų rinkimo lapuose ir elektroninės formos piliečių parašų rinkimo lape esantys surinktų piliečių parašų ir kiti duomenys atitinka šio įstatymo reikalavimus, šio tikrinimo rezultatus užfiksuoja piliečių parašų patikrinimo aktu ir priima sprendimą dėl iniciatyvos teisės įgyvendinimo arba neįgyvendinimo.
 
@@ -282,7 +282,7 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 3. Jeigu nustatoma, kad pilietis už tą patį iniciatyvos projektą pasirašė 2 ar daugiau kartų arba pasirašė ir popierinės, ir elektroninės formos piliečių parašų rinkimo lape, įskaičiuojamas vienas jo parašas. Piliečio parašas neįskaičiuojamas, jeigu, pažeidžiant šio įstatymo 13 straipsnio 4 dalį, duomenis apie save piliečių parašų rinkimo lape įrašė ar pasirašė ne jis pats, taip pat jeigu įrašyti ne visi šio įstatymo 10 straipsnio 2 dalyje nustatyti duomenys, jie įrašyti neteisingai arba renkant piliečių parašus buvo pažeistas šio įstatymo 13 straipsnio 8 dalyje nustatytas draudimas papirkti piliečius.
 
-\#### 17 straipsnis. Pažeidimo tyrimas
+## 17 straipsnis. Pažeidimo tyrimas
 
 1. Tikrinant piliečių parašus ar kitu metu gavus duomenų apie šio įstatymo reikalavimų, susijusių su piliečių parašų rinkimu, piliečių parašų rinkimo lapų grąžinimu arba iniciatyvos projekto politine kampanija ar jos finansavimu, pažeidimą, per ne ilgesnį kaip 10 darbo dienų terminą Vyriausiosios rinkimų komisijos nustatyta tvarka atliekamas tokio pažeidimo tyrimas ir surašoma atlikto tyrimo išvada. Atliekant didelės apimties ar sudėtingą pažeidimo tyrimą, jo atlikimo terminas motyvuotu Vyriausiosios rinkimų komisijos sprendimu gali būti pratęstas ne ilgiau kaip 10 darbo dienų.
 
@@ -294,27 +294,27 @@ Vyriausioji rinkimų komisija, koordinatoriai ir kiti piliečių parašus renkan
 
 5. Jeigu šiurkštų šio įstatymo pažeidimą Vyriausioji rinkimų komisija nustato piliečių teikiamą teisės akto projektą jau įregistravus Seime, apie šį sprendimą nedelsiant informuojamas Seimas, kuris turi teisę spręsti dėl tokio teisės akto projekto svarstymo.
 
-\#### 18 straipsnis. Sprendimas dėl iniciatyvos teisės neįgyvendinimo
+## 18 straipsnis. Sprendimas dėl iniciatyvos teisės neįgyvendinimo
 
 1. Jeigu tikrinant piliečių parašus nustatoma, kad per šio įstatymo 12 straipsnyje nustatytą terminą nesurinktas reikiamas piliečių parašų skaičius, Vyriausioji rinkimų komisija priima sprendimą, kuriuo konstatuoja, kad iniciatyvos teisė neįgyvendinta nesurinkus reikiamo piliečių parašų skaičiaus, ir kartu išregistruoja iniciatyvinę grupę.
 
 2. Vyriausioji rinkimų komisija taip pat priima sprendimą dėl iniciatyvos teisės neįgyvendinimo, kartu išregistruodama iniciatyvinę grupę, jeigu nustatytą šio įstatymo reikalavimų pažeidimą, galintį turėti esminę įtaką parašų rinkimo rezultatams ar iniciatyvos teisės įgyvendinimui, atsižvelgdama į šio įstatymo 17 straipsnio 1 dalyje nurodyto atlikto tyrimo išvadą, pripažįsta šiurkščiu šio įstatymo pažeidimu. Jeigu toks sprendimas priimamas dėl šiurkštaus šio įstatymo pažeidimo, pripažinto nepasibaigus parašų rinkimo terminui, piliečių parašų rinkimas, paskelbus šį sprendimą, nedelsiant nutraukiamas ir visi piliečių parašų rinkimo lapai, pagal šio įstatymo 15 straipsnio 1 ir 2 dalyse nustatytus reikalavimus surašius piliečių parašų rinkimo baigiamąjį aktą, grąžinami Vyriausiajai rinkimų komisijai per vieną mėnesį nuo šio sprendimo paskelbimo dienos.
 
-\#### 19 straipsnis. Sprendimas dėl iniciatyvos teisės įgyvendinimo
+## 19 straipsnis. Sprendimas dėl iniciatyvos teisės įgyvendinimo
 
 Vyriausioji rinkimų komisija, nustačiusi, kad per šio įstatymo 12 straipsnyje nustatytą terminą surinktas reikiamas šio įstatymo reikalavimus atitinkančių piliečių parašų dėl konkretaus iniciatyvos projekto skaičius, priima sprendimą, kuriame konstatuoja, kad iniciatyvos teisė dėl tokio iniciatyvos projekto yra įgyvendinta, ir kuriuo Seimui perduoda iniciatyvos projektą su jo aiškinamuoju raštu, piliečių parašų rinkimo baigiamąjį aktą, taip pat piliečių parašų patikrinimo aktą.
 
-\#### 20 straipsnis. Piliečių teikiamo teisės akto projekto registravimas Seime
+## 20 straipsnis. Piliečių teikiamo teisės akto projekto registravimas Seime
 
 Seime gavus Vyriausiosios rinkimų komisijos sprendimą dėl iniciatyvos teisės įgyvendinimo, šio sprendimo gavimo dieną Seimo statuto nustatyta tvarka įregistruojamas piliečių teikiamas teisės akto projektas ir apie tai per 2 darbo dienas pranešama koordinatoriams.
 
-\#### 21 straipsnis. Pakartotinis iniciatyvos teisės įgyvendinimas
+## 21 straipsnis. Pakartotinis iniciatyvos teisės įgyvendinimas
 
 Prašymas dėl to paties turinio iniciatyvos projekto gali būti pateikiamas ne anksčiau kaip po vienų metų nuo Vyriausiosios rinkimų komisijos sprendimo dėl iniciatyvos teisės įgyvendinimo ar neįgyvendinimo paskelbimo dienos.
 
-\## V SKYRIUS. VYRIAUSIOSIOS RINKIMŲ KOMISIJOS SPRENDIMŲ APSKUNDIMAS
+V SKYRIUS. VYRIAUSIOSIOS RINKIMŲ KOMISIJOS SPRENDIMŲ APSKUNDIMAS
 
-\#### 22 straipsnis. Vyriausiosios rinkimų komisijos sprendimų apskundimo tvarka
+## 22 straipsnis. Vyriausiosios rinkimų komisijos sprendimų apskundimo tvarka
 
 1. Vyriausiosios rinkimų komisijos sprendimai dėl iniciatyvinės grupės įregistravimo, išregistravimo, taip pat dėl iniciatyvos teisės įgyvendinimo arba neįgyvendinimo per 5 darbo dienas nuo jų paskelbimo dienos, kiti sprendimai – per 5 darbo dienas nuo pranešimo apie jų priėmimą gavimo dienos, o šios komisijos neveikimas – per 5 darbo dienas nuo tos dienos, kai atitinkamas sprendimas šiame įstatyme nustatytu laiku turėjo būti priimtas, gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui. Šie skundai turi būti išnagrinėti per 20 darbo dienų nuo jų priėmimo nagrinėti dienos.
 
@@ -322,7 +322,7 @@ Prašymas dėl to paties turinio iniciatyvos projekto gali būti pateikiamas ne 
 
 3. Jeigu šio įstatymo 18 straipsnio 2 dalyje nurodytas Vyriausiosios rinkimų komisijos sprendimas priimamas nepasibaigus parašų rinkimo terminui, padavus skundą dėl tokio sprendimo šio termino skaičiavimas sustabdomas.
 
-\#### 23 straipsnis. Teismo sprendimų vykdymas
+## 23 straipsnis. Teismo sprendimų vykdymas
 
 1. Vyriausioji rinkimų komisija ne vėliau kaip per 5 darbo dienas nuo teismo sprendimo, kuriuo panaikintas jos sprendimas neregistruoti iniciatyvinės grupės arba išregistruoti iniciatyvinę grupę, įsiteisėjimo dienos, priimdama atitinkamą sprendimą, turi išduoti šiai grupei piliečių parašų rinkimo lapus, Vyriausiosios rinkimų komisijos informacinėje sistemoje sukurti prieigą prie elektroninės formos piliečių parašų rinkimo lapo ir sudaryti galimybę jame pasirašyti arba, jeigu piliečių parašų rinkimas buvo pradėtas, sudaryti galimybę jį tęsti.
 
@@ -330,21 +330,21 @@ Prašymas dėl to paties turinio iniciatyvos projekto gali būti pateikiamas ne 
 
 3. Įsiteisėjus teismo sprendimui, kuriuo panaikintas šio įstatymo 18 straipsnio 2 dalyje nurodytas Vyriausiosios rinkimų komisijos sprendimas, nepasibaigus parašų rinkimo terminui nutrauktas piliečių parašų rinkimas tęsiamas.
 
-\## VI SKYRIUS. PILIEČIŲ TEIKIAMO TEISĖS AKTO PROJEKTO SVARSTYMAS
+VI SKYRIUS. PILIEČIŲ TEIKIAMO TEISĖS AKTO PROJEKTO SVARSTYMAS
 
-\#### 24 straipsnis. Piliečių teikiamo teisės akto projekto pateikimas Seime
+## 24 straipsnis. Piliečių teikiamo teisės akto projekto pateikimas Seime
 
 Piliečių teikiamą teisės akto projektą artimiausiame eilinės Seimo sesijos posėdyje, bet ne anksčiau kaip po 10 darbo dienų nuo jo įregistravimo Seime dienos, pateikia vienas iš koordinatorių arba kitas iniciatyvinės grupės įgaliotas asmuo.
 
-\#### 25 straipsnis. Piliečių teikiamo teisės akto projekto svarstymas ir priėmimas Seime
+## 25 straipsnis. Piliečių teikiamo teisės akto projekto svarstymas ir priėmimas Seime
 
 1. Piliečių teikiamas teisės akto projektas Seime svarstomas ir priimamas Seimo statuto nustatyta tvarka, jeigu Konstitucijoje ir šiame įstatyme nenustatyta kitaip.
 
 2. Seime svarstant ir priimant piliečių teikiamą Konstitucijos pakeitimo įstatymo projektą, jo tekstas negali būti iš esmės keičiamas ir toks projektas negali būti grąžinamas tobulinti. Piliečių teikiamas konstitucinio įstatymo projektas ar įstatymo projektas gali būti tobulinamas tik Seime jo svarstymo metu.
 
-\## VII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 26 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 26 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. rugsėjo 1 d.
 
@@ -352,7 +352,7 @@ Piliečių teikiamą teisės akto projektą artimiausiame eilinės Seimo sesijos
 
 3. Iki šio įstatymo įsigaliojimo pateikti iniciatyvinių grupių prašymai nagrinėjami, jų pagrindu piliečių parašai renkami ir tikrinami, su iniciatyvos teisės įgyvendinimu susiję sprendimai priimami, skundai dėl jų nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusį teisinį reguliavimą.
 
-\#### 27 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 27 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymą Nr. VIII-1003 su visais pakeitimais ir papildymais.
 

@@ -10,7 +10,7 @@ status: in_force
 issuer: "Tarptautinius dokumentus pasirašiusios šalys"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0E4DA7E38040"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstitucija/TAR.0E4DA7E38040.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Jungtinių Tautų Švietimo, mokslo ir kultūros organizacijos Konstitucija priimta 1945 m. lapkričio 16 d. Londone, su pakeitimais, priimtais Generalinės konferencijos 2-oje, 3-ioje, 4-oje, 5-oje, 6-oje, 7-oje, 8-oje, 9-oje, 10-oje, 12-oje, 15-oje, 17-oje, 19-oje, 20-oje, 21-oje, 24-oje, 25-oje, 26-oje, 27-oje, 28-oje, 29-oje ir 31-oje sesijose)

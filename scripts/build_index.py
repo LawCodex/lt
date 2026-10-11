@@ -74,6 +74,13 @@ def main(raw):
     ydir, yrev = clone(raw, "yiin")
     ldir, lrev = clone(raw, "legalize-lt")
     out = {}
+    leg = {}
+    d = os.path.join(ldir, "lt")
+    for f in sorted(os.listdir(d)):
+        p = os.path.join(d, f)
+        fm, body = split_fm(p)
+        if fm and fm.get("identifier"):
+            leg[short_key(fm["identifier"])] = (fm, body, p)
     # 1. Yiin mirror
     for sub in ("konstitucija", "konstituciniai-istatymai", "kodeksai", "istatymai"):
         for f in sorted(os.listdir(os.path.join(ydir, sub))):
@@ -106,18 +113,16 @@ def main(raw):
                 "text": os.path.relpath(p, raw), "mirror": "yiin",
                 "amending": bool(AMEND_RE.search(title)) and rank not in ("konstitucija", "kodeksas"),
             }
+            if short_key(doc_id) in leg:
+                out[short_key(doc_id)]["alt_text"] = os.path.relpath(leg[short_key(doc_id)][2], raw)
     # 2. legalize-lt: acts in force missing from the Yiin mirror
-    d = os.path.join(ldir, "lt")
-    for f in sorted(os.listdir(d)):
-        p = os.path.join(d, f)
-        fm, body = split_fm(p)
-        if not fm or fm.get("status") != "in_force":
+    for k, (fm, body, p) in sorted(leg.items()):
+        if fm.get("status") != "in_force":
             continue
         rank = fm.get("rank")
         if rank not in RANK_TYPE:
             continue
         doc_id = fm["identifier"]
-        k = short_key(doc_id)
         if k in out:
             continue
         title = fm.get("title") or ""

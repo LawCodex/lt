@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/32d2bd90fc4e11e78bcec397524184ce"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstituciniai-istatymai/TAR.32D2BD90FC4E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo Nr. I-1392 4 ir 16 straipsnių pakeitimo konstitucinis įstatymas

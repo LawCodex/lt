@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/cb7280f2e58711f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstituciniai-istatymai/TAR.CB7280F2E587.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 pakeitimo konstitucinis įstatymas
@@ -28,7 +28,7 @@ KONSTITUCINIS ĮSTATYMAS
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 nauja redakcija
 
 Pakeisti Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinį įstatymą Nr. XII-1289 ir jį išdėstyti taip:
 
@@ -38,17 +38,17 @@ Pakeisti Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinį 
 
 KONSTITUCINIS ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šiuo įstatymu nustatomos fiskalinės drausmės taisyklės, siekiant sudaryti valdžios sektoriaus finansų tvarumo ir tvaraus Lietuvos ekonomikos augimo sąlygas ir įgyvendinti Fiskalinę sutartį – 2012 m. kovo 2 d. Belgijos Karalystės, Bulgarijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos, Maltos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės sutartį dėl stabilumo, koordinavimo ir valdysenos ekonominėje ir pinigų sąjungoje.
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 2009 m. gegužės 25 d. Tarybos reglamente [(EB) Nr. 479/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R0479&locale=lt) dėl Europos bendrijos steigimo sutarties priede pateikto Protokolo dėl perviršinio deficito procedūros taikymo su visais pakeitimais, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente [(ES) Nr. 549/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R0549&locale=lt) dėl Europos nacionalinių ir regioninių sąskaitų sistemos Europos Sąjungoje su visais pakeitimais, Reglamente [(ES) 2024/1263](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1263&locale=lt), Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos fiskalinės valdysenos įstatyme, Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatyme, Lietuvos Respublikos valstybės skolos įstatyme ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme.
 
-\#### 3 straipsnis. Valdžios sektoriaus fiskalinės drausmės taisyklė
+## 3 straipsnis. Valdžios sektoriaus fiskalinės drausmės taisyklė
 
 1. Kiekvienais metais grynųjų išlaidų augimas, išreiškiamas procentais, turi neviršyti grynųjų išlaidų augimo ribų.
 
@@ -82,7 +82,7 @@ KONSTITUCINIS ĮSTATYMAS
 
 10. Metais, kuriems, rengiant ir tvirtinant Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą, nėra Seimo nustatytų grynųjų išlaidų augimo ribų, grynųjų išlaidų augimas vienos dešimtosios procentinio punkto tikslumu turi atitikti ne mažesnį negu –1 procento BVP struktūrinį balansą, jeigu netaikomos šio straipsnio 8 ir 9 dalių nuostatos.
 
-\#### 4 straipsnis. Atitiktis valdžios sektoriaus fiskalinės drausmės taisyklei ir procedūros, taikomos nukrypus nuo šios taisyklės
+## 4 straipsnis. Atitiktis valdžios sektoriaus fiskalinės drausmės taisyklei ir procedūros, taikomos nukrypus nuo šios taisyklės
 
 1. Jeigu, pagal faktinius duomenis, nuo pirmųjų galiojančio Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo metų sukauptas grynųjų išlaidų augimas vienos dešimtosios tikslumu daugiau negu 0,1 procentinio punkto BVP viršija Seimo nustatytas grynųjų išlaidų augimo ribas ir Europos Sąjungos Taryba nėra pateikusi šio įstatymo 3 straipsnio 8 dalyje nurodytų rekomendacijų:
 
@@ -96,7 +96,7 @@ KONSTITUCINIS ĮSTATYMAS
 
 3. Jeigu grynųjų išlaidų augimo ribos buvo nustatytos pagal šio įstatymo 3 straipsnio 5 dalį ir BPKF išlaidų pagal faktinius duomenis ir nustatytų BPKF išlaidų skirtumas yra neigiamas ir bent 0,1 procento BVP mažesnis negu grynųjų išlaidų pagal faktinius duomenis bei sukauptas grynųjų išlaidų augimo ribas atitinkančių grynųjų išlaidų skirtumas, Ministras Pirmininkas, naudodamasis Vyriausybės Europos Komisijai ir Europos Sąjungos Tarybai pateiktoje metinėje pažangos ataskaitoje pateikta informacija, iki einamųjų metų gegužės 31 dienos Seime žodžiu pateikia nustatyto BPKF išlaidų rodiklio nepasiekimo priežastis.
 
-\#### 5 straipsnis. Savivaldybės biudžeto fiskalinės drausmės taisyklė
+## 5 straipsnis. Savivaldybės biudžeto fiskalinės drausmės taisyklė
 
 1. Tam tikrų metų savivaldybės biudžeto išlaidos turi neviršyti jo pajamų (išlaidas ir pajamas vertinant kaupiamuoju principu), išskyrus metus, kuriais pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio nepriklausoma fiskalinė institucija skelbia išvadą, numatomas neigiamas produkcijos atotrūkis nuo potencialo. Šiuo atveju savivaldybės biudžeto išlaidos negali viršyti savivaldybės biudžeto pajamų daugiau kaip 1,5 procento.
 
@@ -104,7 +104,7 @@ KONSTITUCINIS ĮSTATYMAS
 
 3. Savivaldybės prisiimti įsipareigojimai pagal garantijas dėl savivaldybės valdomų įmonių prisiimtų, bet dar neįvykdytų įsipareigojimų grąžinti kreditoriams lėšas pagal paskolų sutartis, finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus (toliau – savivaldybės prisiimti įsipareigojimai pagal garantijas) negali viršyti 20 procentų tam tikrų metų savivaldybės biudžeto pajamų.
 
-\#### 6 straipsnis. Atitiktis savivaldybės biudžeto fiskalinės drausmės taisyklei ir procedūros, taikomos nukrypus nuo šios taisyklės
+## 6 straipsnis. Atitiktis savivaldybės biudžeto fiskalinės drausmės taisyklei ir procedūros, taikomos nukrypus nuo šios taisyklės
 
 1. Savivaldybė, vertindama savo biudžeto atitiktį savivaldybės biudžeto fiskalinės drausmės taisyklei, gali:
 
@@ -138,7 +138,7 @@ priedas
 
 _______________“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

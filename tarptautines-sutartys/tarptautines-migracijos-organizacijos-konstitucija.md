@@ -9,7 +9,7 @@ status: in_force
 issuer: "Tarptautinius dokumentus pasirašiusios šalys"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7364EE3DE991"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstitucija/TAR.7364EE3DE991.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Tarptautinės migracijos organizacijos konstitucija
@@ -54,7 +54,7 @@ PRIIMA ŠIĄ KONSTITUCIJĄ.
 
 I SKYRIUS – TIKSLAI IR FUNKCIJOS
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 1. Organizacijos tikslai ir funkcijos:
 
@@ -74,7 +74,7 @@ e) numatyti Valstybių bei tarptautinių ir kitų organizacijų forumą pasikeit
 
 II SKYRIUS – NARYSTĖ
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Organizacijos nariais gali būti:
 
@@ -82,11 +82,11 @@ a) Valstybės, Organizacijos narės, priėmusios šią Konstituciją 34 straipsn
 
 b) kitos valstybės, išreiškusios susidomėjimą laisvo asmenų judėjimo principais, kurios įsipareigoja padaryti finansinį įnašą bent pagal administracinius Organizacijos reikalavimus, nustatytus Tarybos ir suinteresuotos Valstybės, su sąlyga, kad tam pritaria du trečdaliai Tarybos narių bei Valstybė priima šią Konstituciją.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Bet kuri Valstybė narė gali pateikti paraišką dėl išėjimo iš Organizacijos ir tas išėjimas įsigalioja pasibaigus finansiniams metams. Tokia paraiška turi būti pateikiama raštu Organizacijos Generaliniam direktoriui ne vėliau kaip prieš keturis mėnesius iki finansinių metų pabaigos. Valstybės narės, įteikusios paraišką dėl išėjimo, finansiniai įsipareigojimai Organizacijai apima ištisus finansinius metus, kuriais ta paraiška buvo pateikta.
 
-\#### 4 straipsnis
+## 4 straipsnis
 
 1. Jeigu Valstybė narė nevykdo savo finansinių įsipareigojimų Organizacijai dvejus finansinius metus iš eilės, Taryba dviejų trečdalių balsų pritarimu gali suspenduoti jos balsavimo teisę ir visas ar dalį paslaugų, į kurias ši Valstybė narė turi teisę. Taryba turi teisę atstatyti balsavimo teises ir paslaugas paprastos balsų daugumos pritarimu.
 
@@ -94,7 +94,7 @@ Bet kuri Valstybė narė gali pateikti paraišką dėl išėjimo iš Organizacij
 
 III SKYRIUS – ORGANAI
 
-\#### 5 straipsnis
+## 5 straipsnis
 
 Įsteigiami tokie Organizacijos organai:
 
@@ -106,7 +106,7 @@ c) Administracija.
 
 IV SKYRIUS – TARYBA
 
-\#### 6 straipsnis
+## 6 straipsnis
 
 Be kitų šios Konstitucijos straipsniuose paminėtų funkcijų, Taryba:
 
@@ -120,7 +120,7 @@ d) peržiūri ir tvirtina Organizacijos programą, biudžetą, išlaidas ir sąs
 
 e) imasi bet kokios kitos tinkamos veiklos, siekdama Organizacijos tikslų.
 
-\#### 7 straipsnis
+## 7 straipsnis
 
 1. Taryba sudaroma iš Valstybių narių atstovų.
 
@@ -128,11 +128,11 @@ e) imasi bet kokios kitos tinkamos veiklos, siekdama Organizacijos tikslų.
 
 3. Kiekviena Valstybė narė turi vieną balsą Taryboje.
 
-\#### 8 straipsnis
+## 8 straipsnis
 
 Gavusi prašymą, Taryba gali leisti dalyvauti savo posėdžiuose stebėtojų teisėmis valstybėms, nesančioms Organizacijos narėmis, ir tarptautinėms vyriausybinėms arba nevyriausybinėms organizacijoms, kurios yra susijusios su migracija, pabėgėliais ar žmogiškaisiais ištekliais pagal sąlygas, kurios numatytos jos darbo reglamente. Šie stebėtojai neturi balso teisės.
 
-\#### 9 straipsnis
+## 9 straipsnis
 
 1. Eilinės Tarybos sesijos vyksta vieną kartą per metus.
 
@@ -146,17 +146,17 @@ c) Generalinis direktorius ar Tarybos pirmininkas, esant neatidėliotinoms aplin
 
 3. Kiekvienos eilinės sesijos pradžioje Taryba vienerių metų laikotarpiui renka Pirmininką ir kitus pareigūnus.
 
-\#### 10 straipsnis
+## 10 straipsnis
 
 Taryba gali įkurti pakomitečius, reikalingus tinkamam jos funkcijų vykdymui.
 
-\#### 11 straipsnis
+## 11 straipsnis
 
 Taryba priima savo darbo reglamentą.
 
 V SKYRIUS – VYKDOMASIS KOMITETAS
 
-\#### 12 straipsnis
+## 12 straipsnis
 
 Vykdomasis komitetas:
 
@@ -174,7 +174,7 @@ f) savo iniciatyva pataria ir teikia pasiūlymus Tarybai arba Generaliniam direk
 
 g) perduoda ataskaitas ir (arba) rekomendacijas Tarybai dėl tų reikalų, kuriuos ji sprendžia.
 
-\#### 13 straipsnis
+## 13 straipsnis
 
 1. Vykdomasis komitetas sudaromas iš devynių Valstybių narių atstovų. Šis skaičius gali būti padidintas, jeigu tam pritaria du trečdaliai Tarybos narių, tačiau jis negali būti didesnis už vieną trečdalį Organizacijos narių skaičiaus.
 
@@ -184,7 +184,7 @@ g) perduoda ataskaitas ir (arba) rekomendacijas Tarybai dėl tų reikalų, kuriu
 
 4. Kiekvienas Vykdomojo komiteto narys turi vieną balsą.
 
-\#### 14 straipsnis
+## 14 straipsnis
 
 1. Vykdomasis komitetas posėdžiauja bent vieną kartą per metus. Komitetas, esant reikalui, susirenka vykdyti savo funkcijas, kai to reikalauja:
 
@@ -198,31 +198,31 @@ d) dauguma jo narių.
 
 2. Vykdomasis komitetas iš savo narių vienerių metų laikotarpiui renka Pirmininką ir vicepirmininką.
 
-\#### 15 straipsnis
+## 15 straipsnis
 
 Vykdomasis komitetas gali, suderinęs su Taryba, sudaryti pakomitečius, reikalingus tinkamam jo funkcijų vykdymui.
 
-\#### 16 straipsnis
+## 16 straipsnis
 
 Vykdomasis komitetas priima savo darbo reglamentą.
 
 VI SKYRIUS – ADMINISTRACIJA
 
-\#### 17 straipsnis
+## 17 straipsnis
 
 Administraciją sudaro Generalinis direktorius, Generalinio direktoriaus pavaduotojas ir toks personalas, kokį nustato Taryba.
 
-\#### 18 straipsnis
+## 18 straipsnis
 
 1. Generalinis direktorius ir Generalinio direktoriaus pavaduotojas renkami pritariant dviems trečdaliams Tarybos balsų ir jie gali būti perrenkami kitai kadencijai. Jų kadencija trunka penkerius metus, tačiau išimtiniais atvejais ji gali būti trumpesnė, jeigu tokiam sprendimui pritaria du trečdaliai Tarybos narių. Jie samdomi pagal Tarybos patvirtintas darbo sutartis, kurias Organizacijos vardu pasirašo Tarybos pirmininkas.
 
 2. Generalinis direktorius atsiskaito Tarybai ir Vykdomajam komitetui. Generalinis direktorius vykdo administracines ir vykdomąsias Organizacijos funkcijas, laikydamasis šios Konstitucijos bei Tarybos ir Vykdomojo komiteto politikos ir sprendimų, taip pat jų nustatytų taisyklių ir instrukcijų. Generalinis direktorius teikia pasiūlymus, kurių tinkamu įgyvendinimu rūpinasi Taryba.
 
-\#### 19 straipsnis
+## 19 straipsnis
 
 Generalinis direktorius skiria Administracijos personalą, remdamasis personalo taisyklėmis, kurias priima Taryba.
 
-\#### 20 straipsnis
+## 20 straipsnis
 
 1. Vykdydami savo pareigas Generalinis direktorius, Generalinio direktoriaus pavaduotojas ir personalas nesikreipia instrukcijų ir nepriima jų iš jokios Valstybės ar kitos instancijos, nesusijusios su Organizacija. Jie nesiima jokios veiklos, kuri gali pakenkti jų, kaip tarptautinių pareigūnų, padėčiai.
 
@@ -230,17 +230,17 @@ Generalinis direktorius skiria Administracijos personalą, remdamasis personalo 
 
 3. Efektyvumas, kompetencija ir dora yra privalomi kriterijai telkiant ir samdant personalą, kuris, išskyrus ypatingus atvejus, renkamas iš Organizacijos Valstybių narių piliečių, taikant bešališko geografinio paskirstymo principą.
 
-\#### 21 straipsnis
+## 21 straipsnis
 
 Generalinis direktorius dalyvauja arba yra atstovaujamas Generalinio direktoriaus pavaduotojo ar kito paskirto pareigūno visuose Tarybos, Vykdomojo komiteto ir bet kokio pakomitečio posėdžiuose. Generalinis direktorius ar kitas paskirtas atstovas gali dalyvauti diskusijose, bet neturi balso teisės.
 
-\#### 22 straipsnis
+## 22 straipsnis
 
 Pasibaigus finansiniams metams eilinėje Tarybos sesijoje Generalinis direktorius per Vykdomąjį komitetą pateikia Tarybai ataskaitą apie Organizacijos darbą, pilnai atsiskaitydamas už jos veiklą per tuos metus.
 
 VII SKYRIUS – BŪSTINĖ
 
-\#### 23 straipsnis
+## 23 straipsnis
 
 1. Organizacijos būstinė yra Ženevoje. Taryba dviejų trečdalių narių pritarimu gali pakeisti savo būstinės vietą.
 
@@ -248,11 +248,11 @@ VII SKYRIUS – BŪSTINĖ
 
 VIII SKYRIUS – FINANSAI
 
-\#### 24 straipsnis
+## 24 straipsnis
 
 Generalinis direktorius per Vykdomąjį komitetą pateikia Tarybai metinį biudžetą, kuris apima administracines ir darbo išlaidas bei numatomus Organizacijos išteklius, reikiamas papildomas sąmatas bei metinę ar specialią Organizacijos buhalterinę atskaitomybę.
 
-\#### 25 straipsnis
+## 25 straipsnis
 
 1. Organizacijos veikla finansuojama iš tokių šaltinių:
 
@@ -270,17 +270,17 @@ b) visos darbo išlaidos ir tos administracinės išlaidos, kurios susidaro vykd
 
 5. Taryba užtikrina, kad valdymas atliekamas efektyviai ir taupiai.
 
-\#### 26 straipsnis
+## 26 straipsnis
 
 Taryba nustato finansų tvarkymo taisykles.
 
 IX SKYRIUS – JURIDINIS STATUSAS
 
-\#### 27 straipsnis
+## 27 straipsnis
 
 Organizacija yra pilnateisis juridinis asmuo. Ji naudojasi tokiomis juridinio asmens teisėmis, kurios reikalingos jos funkcijų vykdymui ir tikslų siekimui, ypač, atsižvelgiant į Valstybės įstatymus, teise: a) sudaryti sutartis; b) įsigyti ir parduoti ar perleisti kitu būdu nekilnojamąjį ir kilnojamąjį turtą; c) gauti ir išmokėti asmeninių ir visuomeninių fondų lėšas; d) imtis teisinių procedūrų.
 
-\#### 28 straipsnis
+## 28 straipsnis
 
 1. Organizacija turi tokias privilegijas ir imunitetus, kurie reikalingi jos funkcijų vykdymui ir tikslų siekimui.
 
@@ -290,7 +290,7 @@ Organizacija yra pilnateisis juridinis asmuo. Ji naudojasi tokiomis juridinio as
 
 X SKYRIUS – KITOS SĄLYGOS
 
-\#### 29 straipsnis
+## 29 straipsnis
 
 1. Visi Tarybos, Vykdomojo komiteto ir pakomitečių sprendimai priimami paprasta balsų dauguma, išskyrus tuos atvejus, kurie yra numatyti šioje Konstitucijoje ar darbo reglamentuose, kuriuos paruošė Taryba ar Vykdomasis komitetas.
 
@@ -298,25 +298,25 @@ X SKYRIUS – KITOS SĄLYGOS
 
 3. Balsavimas galioja tik tada, kai jame dalyvauja Tarybos, Vykdomojo komiteto ar atitinkamo pakomitečio narių dauguma.
 
-\#### 30 straipsnis
+## 30 straipsnis
 
 1. Siūlomas šios Konstitucijos teksto pataisas Generalinis direktorius perduoda Valstybių narių vyriausybėms ne vėliau kaip prieš tris mėnesius iki jų svarstymo Taryboje.
 
 2. Pataisos įsigalioja, kai joms pritaria du trečdaliai Tarybos narių, ir du trečdaliai Valstybių narių priima jas pagal savo konstitucinius procesus, tačiau pataisos, numatančios naujus įsipareigojimus narėms, įsigalioja tam tikros narės atžvilgiu tik tuomet, kai ta narė priima minėtas pataisas.
 
-\#### 31 straipsnis
+## 31 straipsnis
 
 Bet kokie ginčai, susiję su šios Konstitucijos aiškinimu ar taikymu, jeigu jų nepavyksta išspręsti derybomis ar dviejų trečdalių Tarybos narių balsavimu, perduodami Tarptautiniam Teismui pagal Teismo Statutą, nebent ginče dalyvaujanti Valstybė narė sutinka per normaliai priimtiną laiko tarpą imtis kitokio ginčo sprendimo būdo.
 
-\#### 32 straipsnis
+## 32 straipsnis
 
 Pritariant dviems trečdaliams Tarybos balsų, Organizacija gali perimti iš kitos tarptautinės organizacijos ar agentūros, kurios tikslai ir veikla atitinka Organizacijos tikslus, tokią veiklą, išteklius ir įsipareigojimus, kuriuos numato tarptautinis susitarimas arba abiem pusėms priimtini nutarimai, sudaryti kompetentingų tų organizacijų pareigūnų.
 
-\#### 33 straipsnis
+## 33 straipsnis
 
 Pritariant trims ketvirtadaliams narių, Taryba gali nuspręsti panaikinti Organizaciją.
 
-\#### 34 straipsnis
+## 34 straipsnis
 
 Toms Tarpvyriausybinio Europos Migracijos komiteto vyriausybėms-narėms, kurios priėmė šią Konstituciją pagal savo konstitucinius procesus, Konstitucija įsigalioja pirmąją to komiteto posėdžio dieną po to, kai:
 
@@ -326,11 +326,11 @@ b) dalis narių, iš kurių įnašų sudaroma bent 75% biudžeto administracini�
 
 praneša Direktoriui apie savo nutarimą priimti šią Konstituciją.
 
-\#### 35 straipsnis. *
+## 35 straipsnis. *
 
 Tos Tarpvyriausybinio Europos Migracijos komiteto vyriausybės – narės, kurios Konstitucijos įsigaliojimo dieną nepranešė Direktoriui apie Konstitucijos priėmimą, gali išlikti komiteto narėmis vienerius metus nuo įsigaliojimo dienos, jeigu jos įmoka įnašą komiteto administracinėms išlaidoms pagal 25 straipsnio 2 pastraipoje numatytas sąlygas ir per tą laikotarpį joms paliekama teisė priimti Konstituciją.
 
-\#### 36 straipsnis
+## 36 straipsnis
 
 Šios Konstitucijos anglų, prancūzų ir ispanų kalba parašyti tekstai yra vienodai autentiški.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/44451320a44d11f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/konstituciniai-istatymai/TAR.44451320A44D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkimų kodekso 30, 31, 32, 95, 97, 99, 122, 193 ir 196 straipsnių bei priedo pakeitimo ir Kodekso papildymo naujais 194, 195 ir 196 straipsniais konstitucinis įstatymas
@@ -26,7 +26,7 @@ KONSTITUCINIS ĮSTATYMAS
 
 Vilnius
 
-\#### 1 straipsnis. 30 straipsnio pakeitimas
+## 1 straipsnis. 30 straipsnio pakeitimas
 
 1. Papildyti 30 straipsnį nauja 3 dalimi:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Buvusias 30 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis.
 
-\#### 2 straipsnis. 31 straipsnio pakeitimas
+## 2 straipsnis. 31 straipsnio pakeitimas
 
 1. Pakeisti 31 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „4) kontroliuoti, kaip vykdomas šis kodeksas, Reglamentas [(ES) 2024/900](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R0900&locale=lt) ir kiti teisės aktai, reglamentuojantys rinkimus, ir taikyti atsakomybę už jų pažeidimus;“.
 
-\#### 3 straipsnis. 32 straipsnio pakeitimas
+## 3 straipsnis. 32 straipsnio pakeitimas
 
 1. Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „7) turi Reglamento [(ES) 2024/900](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R0900&locale=lt) 22 straipsnio 5 dalyje nustatytus su politinės reklamos žymėjimo ir skaidrumo reikalavimų laikymosi priežiūra susijusius įgaliojimus.“
 
-\#### 4 straipsnis. 95 straipsnio pakeitimas
+## 4 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
@@ -80,29 +80,29 @@ Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
 5. Rinkimų politinės kampanijos dalyvis iki paskelbdamas politinę reklamą turi Vyriausiajai rinkimų komisijai jos nustatyta tvarka deklaruoti visas paskyras socialiniuose tinkluose, per kurias jis rengiasi skleisti politinę reklamą ir agitaciją, ir asmenis, kurie yra įgalioti administruoti ir sumokėti ar kitaip atsilyginti už politinės reklamos šiose paskyrose skleidimą.“
 
-\#### 5 straipsnis. 97 straipsnio pakeitimas
+## 5 straipsnis. 97 straipsnio pakeitimas
 
 Pripažinti netekusia galios 97 straipsnio 3 dalį.
 
-\#### 6 straipsnis. 99 straipsnio pakeitimas
+## 6 straipsnis. 99 straipsnio pakeitimas
 
 Pakeisti 99 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1.Specialios rinkimų agitacijos laidos (toliau – specialios laidos) gali būti transliuojamos televizijos, radijo ir interneto priemonėmis. Specialios laidos yra nacionalinio ir regioninio lygmens. Jos organizuojamos rinkimų politinės kampanijos metu pagal Vyriausiosios rinkimų komisijos patvirtintas taisykles, supažindinus su jomis rinkimų politinės kampanijos dalyvius. Specialios laidos žymimos Vyriausiosios rinkimų komisijos nustatyta tvarka.“
 
-\#### 7 straipsnis. 122 straipsnio pakeitimas
+## 7 straipsnis. 122 straipsnio pakeitimas
 
 Pakeisti 122 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) tvirtina specialių laidųžymėjimo tvarkos aprašą;“.
 
-\#### 8 straipsnis. 193 straipsnio pakeitimas
+## 8 straipsnis. 193 straipsnio pakeitimas
 
 Pakeisti 193 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
 
 „10) nepažymėtos politinės reklamos skleidimas, jeigu išlaidos šiai reklamai sudaro 10 ar daugiau procentų nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio;“.
 
-\#### 9 straipsnis. Kodekso papildymas nauju 194 straipsniu
+## 9 straipsnis. Kodekso papildymas nauju 194 straipsniu
 
 Papildyti Kodeksą nauju 194 straipsniu:
 
@@ -144,7 +144,7 @@ Papildyti Kodeksą nauju 194 straipsniu:
 
 7. Nustačiusi Reglamento (ES) 2024/900 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20 ar 21 straipsnyje nustatytų reikalavimų nesilaikymo ar netinkamo vykdymo faktą, kuris vertintinas kaip mažareikšmis šių reikalavimų pažeidimas, Vyriausioji rinkimų komisija priima motyvuotą sprendimą sankcijų netaikyti, pareikšdama žodinę pastabą, kai pažeidimas pašalinamas nedelsiant, arba pateikdama rašytinį nurodymą per jos nustatytą protingą terminą pašalinti pažeidimą, kai jis nepašalinamas nedelsiant. Nustatytas terminas pažeidimui pašalinti gali būti pratęsiamas tik vieną kartą. Vyriausioji rinkimų komisija nustato mažareikšmių Reglamento (ES) 2024/900 pažeidimų kriterijus ir šių pažeidimų pašalinimo terminus.“
 
-\#### 10 straipsnis. Kodekso papildymas nauju 195 straipsniu
+## 10 straipsnis. Kodekso papildymas nauju 195 straipsniu
 
 Papildyti Kodeksą nauju 195 straipsniu:
 
@@ -160,7 +160,7 @@ Papildyti Kodeksą nauju 195 straipsniu:
 
 5. Vyriausiosios rinkimų komisijos sprendimas dėl baudos skyrimo per 30 dienų nuo pranešimo apie jį gavimo dienos gali būti skundžiamas Regionų administraciniam teismui. Vyriausiosios rinkimų komisijos sprendimas dėl administracinės priemonės skyrimo per 7 dienas nuo pranešimo apie jį gavimo dienos gali būti skundžiamas Regionų administraciniam teismui, kuris skundą turi išnagrinėti ne vėliau kaip per 7 dienas nuo jo gavimo dienos.“
 
-\#### 11 straipsnis. Kodekso papildymas nauju 196 straipsniu
+## 11 straipsnis. Kodekso papildymas nauju 196 straipsniu
 
 Papildyti Kodeksą nauju 196 straipsniu:
 
@@ -172,23 +172,23 @@ Papildyti Kodeksą nauju 196 straipsniu:
 
 3. Vyriausiosios rinkimų komisijos sprendimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekse nustatyta tvarka. Sprendimas dėl baudos skyrimo gali būti pateikiamas vykdyti ne vėliau kaip per penkerius metus nuo jo priėmimo dienos.“
 
-\#### 12 straipsnis. 194 straipsnio pernumeravimas
+## 12 straipsnis. 194 straipsnio pernumeravimas
 
 Buvusį Kodekso 194 straipsnį laikyti 197 straipsniu.
 
-\#### 13 straipsnis. 196 straipsnio pakeitimas
+## 13 straipsnis. 196 straipsnio pakeitimas
 
 Pakeisti 196 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Vyriausiosios rinkimų komisijos sprendimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomasLietuvos Respublikos mokesčių administravimo įstatyme ir Civilinio proceso kodekse nustatyta tvarka.“
 
-\#### 14 straipsnis. Kodekso priedo pakeitimas
+## 14 straipsnis. Kodekso priedo pakeitimas
 
 Papildyti Kodekso priedą 7 punktu:
 
 „7. 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentas [(ES) 2024/900](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R0900&locale=lt) dėl politinės reklamos skaidrumo ir atrankiojo adresavimo.“
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 15 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 13 straipsnis ir šio straipsnio 3 dalis įsigalioja 2026 m. birželio 30 d.
 

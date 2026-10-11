@@ -219,15 +219,39 @@ def html_blocks(path):
     return blocks
 
 
-def text_blocks(body):
+def text_blocks(body, markdown=False):
+    """Blocks from a mirror text.  The Yiin mirror is already Markdown for part of its files
+    (headings, **bold**, pipe tables); legalize-lt is plain text."""
     blocks = []
-    for line in body.split("\n"):
-        t = line.replace("\xa0", " ").strip()
-        t = re.sub(r"[ \t]+", " ", t)
-        if not t:
+    table = []
+    for line in body.split("\n") + [""]:
+        t = line.replace("\xa0", " ").rstrip()
+        if markdown and t.lstrip().startswith("|"):
+            table.append(t.strip())
             continue
-        blocks.append(("p", t, {}))
+        if table:
+            blocks.append(("table", "\n".join(table)))
+            table = []
+        t = re.sub(r"[ \t]+", " ", t).strip()
+        if not t or re.fullmatch(r"part_[0-9a-f]{32}(_end)?", t):
+            continue
+        a = {"md": markdown}
+        if markdown:
+            m = re.match(r"^#{1,6}\s+(.*)$", t)
+            if m:
+                t = m.group(1).strip()
+                a["b"] = True
+            m = re.match(r"^\*\*\*?([^*].*?)\*?\*\*$", t)
+            if m and "**" not in m.group(1):
+                a["raw"] = t
+                t = m.group(1).strip()
+                a["b"] = True
+        blocks.append(("p", t, a))
     return blocks
+
+
+def plain_len(t):
+    return len(re.sub(r"[\s#*|>-]+", "", t))
 
 
 # --------------------------------------------------------------------------- structure
@@ -291,7 +315,9 @@ def render(items, title):
         else:
             t = it[1]
             a = it[2] if len(it) > 2 else {}
-            lines = [md_escape(x) for x in t.split("\n")]
+            if a.get("raw"):
+                t = a["raw"]
+            lines = t.split("\n") if a.get("md") else [md_escape(x) for x in t.split("\n")]
             t = "  \n".join(lines)
             if a.get("i") and not t.startswith("*"):
                 t = "*%s*" % t.strip("*")
@@ -364,15 +390,23 @@ def main(raw, repo):
             text_source = ESEIMAS + info["url"]
             snapshot = None
         else:
-            body = read_mirror(raw, r["text"])
-            items = detect(text_blocks(body), False)
-            cons_from = r.get("consolidated_from")
-            cons_to = None
             mirror = r["mirror"]
+            rel = r["text"]
+            body = read_mirror(raw, rel)
+            if mirror == "yiin" and r.get("alt_text"):
+                alt = read_mirror(raw, r["alt_text"])
+                if plain_len(alt) > 1000 and plain_len(body) < 0.5 * plain_len(alt):
+                    mirror, rel, body = "legalize-lt", r["alt_text"], alt
+            items = detect(text_blocks(body, markdown=(mirror == "yiin")), False)
+            cons_from = r.get("consolidated_from")
+            if mirror != r["mirror"]:
+                m = re.search(r"Suvestinė redakcija nuo (\d{4}-\d{2}-\d{2})", body[:4000])
+                cons_from = m.group(1) if m else None
+            cons_to = None
             rev = meta[mirror].split()
             repo_url = {"yiin": "https://github.com/Yiin/lt-teises-aktai",
                         "legalize-lt": "https://github.com/legalize-dev/legalize-lt"}[mirror]
-            sub = r["text"].split("/", 1)[1]
+            sub = rel.split("/", 1)[1]
             text_source = "%s/blob/%s/%s" % (repo_url, rev[0], sub)
             snapshot = rev[1][:10]
         sub, fn = target(r)
@@ -419,14 +453,14 @@ def main(raw, repo):
         if official:
             fm.append("text_origin: \"e-seimas.lrs.lt (official consolidated HTML)\"")
         else:
-            fm.append("text_origin: \"data.gov.lt TAR open data (tekstas_lt) via %s mirror, snapshot %s\"" % (r["mirror"], snapshot))
+            fm.append("text_origin: \"data.gov.lt TAR open data via %s mirror (commit of %s)\"" % (mirror, snapshot))
         fm += ["retrieved: " + TODAY, "---", ""]
         md = "\n".join(fm) + render(items, title)
         d = os.path.join(repo, sub)
         os.makedirs(d, exist_ok=True)
         with open(os.path.join(d, fn), "w", encoding="utf-8", newline="\n") as f:
             f.write(md)
-        written.append((sub, fn, r["id"], "official" if official else r["mirror"]))
+        written.append((sub, fn, r["id"], "official" if official else mirror))
     with open(os.path.join(raw, "written.json"), "w") as f:
         json.dump(written, f, ensure_ascii=False)
     from collections import Counter
