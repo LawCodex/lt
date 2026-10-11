@@ -1,0 +1,320 @@
+---
+title: "Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas"
+identifier: "bb38ee90263911e5bf92d6af3f6a2e8b"
+number: "XII-1907"
+type: act
+jurisdiction: lt
+language: lt
+date: 2015-06-25
+in_force_from: 2015-08-01
+last_amended: 2024-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BB38EE902639.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
+
+Suvestinė redakcija nuo 2024-01-01
+
+Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
+
+LIETUVOS RESPUBLIKOS
+
+ŪKIO SUBJEKTŲ, PERKANČIŲ–PARDUODANČIŲ ŽALIĄ PIENĄ IR PREKIAUJANČIŲ PIENO GAMINIAIS, NESĄŽININGŲ VEIKSMŲ DRAUDIMO
+
+ĮSTATYMAS
+
+2015 m. birželio 25 d. Nr. XII-1907
+
+Vilnius
+
+## PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+
+### 1 straipsnis. Įstatymo paskirtis ir taikymas
+
+1. Šis įstatymas nustato:
+
+1) žalio pieno pardavėjų ir žalio pieno pirkėjų nesąžiningų veiksmų perkant–parduodant žalią pieną draudimą;
+
+2) Lietuvoje pagamintiems pieno gaminiams, tiekiamiems Lietuvos rinkai, reikalavimus;
+
+3) institucijas, atsakingas už šio įstatymo nuostatų laikymosi priežiūrą, ir atsakomybę už šio įstatymo pažeidimus.
+
+2. Šis įstatymas taikomas iki žalio pieno pirkimo–pardavimo sutarties sudarymo, žalio pieno pirkimo–pardavimo sutarties sudarymo metu ir ją sudarius, taip pat pieno gaminių gamybos veiklai Lietuvoje.
+
+3. Šis įstatymas taikomas kartu su Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymu (toliau – Atsiskaitymo už žemės ūkio produkciją įstatymas), Lietuvos Respublikos konkurencijos įstatymu, Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymu.
+
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+1. Inspektorius – Žemės ūkio agentūros prie Žemės ūkio ministerijos įgaliotas valstybės tarnautojas, atliekantis nesąžiningų veiksmų kontrolės funkciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+
+Nr. XIV-2063, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12745
+
+2. Ūkio subjektas – Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar trečiojoje valstybėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, ūkininkas ar kitas fizinis asmuo – žalio pieno pardavėjas, žalio pieno pirkėjas, žalio pieno perdirbėjas, vykdantys ūkinę ir (arba) komercinę veiklą Lietuvos Respublikoje.
+
+3. Žalias karvių pienas (toliau – žalias pienas) natūralus karvių pienas, kuris nebuvo pašildytas iki aukštesnės kaip 40 oC temperatūros ir neapdorotas kitu tolygaus efektyvumo metodu, skirtas perdirbti.
+
+4. Žalio pieno pardavėjas – ūkio subjektas, parduodantis savo ar ne savo gamybos žalią pieną.
+
+5. Žalio pieno pardavėjų grupės – ūkių subjektai, parduodantys pieną, suskirstyti į grupes pagal parduodamo natūralaus riebumo žalio pieno kiekį per vieną dieną: pirmoji – iki 100 kg įskaitytinai, antroji – daugiau kaip 100 kg iki 200 kg įskaitytinai, trečioji – daugiau kaip 200 kg iki 300 kg įskaitytinai, ketvirtoji – daugiau kaip 300 kg iki 500 kg įskaitytinai, penktoji – daugiau kaip 500 kg iki 1 000 kg įskaitytinai, šeštoji – daugiau kaip 1 000 kg iki 2 000 kg įskaitytinai, septintoji – daugiau kaip 2 000 kg iki 4 000 kg įskaitytinai, aštuntoji – daugiau kaip 4 000 kg iki 10 000 kg įskaitytinai, devintoji – daugiau kaip 10 000 kg iki 20 000 kg įskaitytinai, dešimtoji – daugiau kaip 20 000 kg.
+
+6. Žalio pieno pirkėjas – ūkio subjektas, teisės aktų nustatyta tvarka registruotas žalio pieno supirkimo ir (arba) perdirbimo veiklai plėtoti.
+
+7. Žalio pieno pirkimo kaina – ūkio subjektų (žalio pieno pirkėjo ir žalio pieno pardavėjo) sutarta pinigų suma, mokama už parduodamą Lietuvos Respublikos žemės ūkio ministro įsakymu nustatytų bazinių pieno sudėties rodiklių žalią pieną, neįskaitant priedų, priemokų ir nuoskaitų.
+
+8. Žalio pieno pirkimo–pardavimo sutartis – ūkio subjektų (žalio pieno pirkėjo ir žalio pieno pardavėjo), vadovaujantis Atsiskaitymo už žemės ūkio produkciją įstatymo 3 ir 4 straipsniais ir kitais teisės aktais, sudaryta žalio pieno pirkimo–pardavimo sutartis.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+
+## ANTRASIS SKIRSNIS. ŪKIO SUBJEKTŲ PAREIGOS, NESĄŽININGI VEIKSMAI IR JŲ KONTROLĖ
+
+### 3 straipsnis. Ūkio subjektų nesąžiningų veiksmų draudimas
+
+1. Ūkio subjektų nesąžiningi veiksmai perkant ir parduodant žalią pieną yra draudžiami.
+
+2. Ūkio subjektui draudžiama atlikti šiuos nesąžiningus veiksmus:
+
+1) vienašališkai nutraukti žalio pieno pirkimo–pardavimo sutartį apie tai nepranešus kitai sutarties šaliai per sutartyje nustatytą terminą, kuris negali būti trumpesnis kaip 30 dienų;
+
+2) pakeisti žalio pieno pirkimo–pardavimo sutarties sąlygas apie tai nepranešus kitai sutarties šaliai per sutartyje nustatytą terminą, kuris, išskyrus atvejus, kai didinama žalio pieno pirkimo kaina arba kai žalio pieno pirkėjas yra kooperatinė bendrovė (kooperatyvas), Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), negali būti trumpesnis kaip 30 dienų;
+
+3) pirkti ir parduoti žalią pieną, nesudarius žalio pieno pirkimo–pardavimo sutarties.
+
+3. Žalio pieno pirkėjui draudžiama atlikti šiuos nesąžiningus veiksmus:
+
+1) perkant žalią pieną, atitinkantį Lietuvos Respublikos žemės ūkio ministro įsakymu nustatytus kokybės reikalavimus, iš tos pačios žalio pieno pardavėjų grupės ir jį pristatant žalio pieno pirkėjui tokiu pačiu būdu (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę), žalio pieno pirkimo–pardavimo sutartyse taikyti skirtingą žalio pieno pirkimo kainą, išskyrus atvejus, kai pienas perkamas iš žalio pieno pardavėjų, parduodančių savo gamybos pieną ir priklausančių pieno gamintojų organizacijoms, pripažintoms Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka, tačiau šiuo atveju negali būti taikoma mažesnė žalio pieno pirkimo kaina negu ji būtų nustatyta pagal žalio pieno pardavėjų grupes;
+
+2) nesupirkti viso žalio pieno kiekio, pagal žalio pieno pirkėjo ir žalio pieno pardavėjo, parduodančio daugiau kaip 500 kg žalio pieno per dieną, sudarytas žalio pieno pirkimo–pardavimo sutartis, nukrypstant ne daugiau kaip 10 procentų nuo žalio pieno pirkimo–pardavimo sutartyse nurodyto žalio pieno kiekio;
+
+3) nepagrįstai mažinti žalio pieno pirkimo kainą;
+
+4) mažinti žalio pieno pirkimo kainą dažniau kaip kas du iš eilės einančius reguliariai parduodamo žalio pieno tiekimo laikotarpius, kaip nustatyta Atsiskaitymo už žemės ūkio produkciją įstatyme;
+
+5) pirkti žalią pieną iš Lietuvos Respublikoje registruoto žalio pieno pardavėjo, parduodančio savo gamybos žalią pieną, kurio sudėtis ir kokybė nėra įvertinti Lietuvos Respublikos žemės ūkio ministro nustatyta tvarka juridiniame asmenyje – valstybės valdomoje akredituotoje laboratorijoje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+
+Straipsnio pakeitimai:
+
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+
+### 4 straipsnis. Reikalavimas nurodyti žalio pieno kilmės šalį ant Lietuvos rinkai tiekiamų Lietuvoje pagamintų pieno gaminių
+
+Lietuvoje veikiančiose pieno perdirbimo įmonėse pagaminti pieno gaminiai, įtraukti į Lietuvos Respublikos žemės ūkio ministro įsakymu patvirtintą sąrašą, tiekiami Lietuvos rinkai, turi būti ženklinami Lietuvos Respublikos žemės ūkio ministro nustatyta tvarka, nurodant žalio pieno kilmės šalį.
+
+### 5 straipsnis. Reikalavimas pagrįsti žalio pieno pirkimo kainos mažinimą
+
+1. Kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir šį pagrindimą pateikti Žemės ūkio agentūrai prie Žemės ūkio ministerijos (toliau – Agentūra).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-2063, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12745
+
+2. Agentūra, vadovaudamasi Lietuvos Respublikos žemės ūkio ministro įsakymu patvirtintu tvarkos aprašu, per 8 darbo dienas įvertinusi pagal šio straipsnio 1 dalį žalio pieno pirkėjo pateiktą žalio pieno pirkimo kainos mažinimo pagrįstumą, priima sprendimą dėl žalio pieno pirkimo kainos sumažinimo daugiau negu 3 procentiniais punktais pagrįstumo.
+
+3. Jeigu Agentūra šio straipsnio 2 dalyje nustatyta tvarka priima sprendimą, kad žalio pieno pirkimo kainos sumažinimas daugiau negu 3 procentiniais punktais yra nepagrįstas, žalio pieno pirkėjui draudžiama mažinti žalio pieno pirkimo–pardavimo sutartyje nustatytą žalio pieno pirkimo kainą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+
+### 6 straipsnis. Nesąžiningų veiksmų kontrolės institucijos
+
+1. Už šio įstatymo nuostatų laikymosi priežiūrą atsakingos šios nesąžiningų veiksmų kontrolės institucijos:
+
+1) Agentūra – už šio įstatymo 3 straipsnio 2 dalies ir 3 dalies 1–4 punktų nuostatų laikymosi priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+
+2) Valstybinė maisto ir veterinarijos tarnyba – už šio įstatymo 3 straipsnio 3 dalies 5 punkto ir 4 straipsnio nuostatų laikymosi priežiūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+
+2. Šio straipsnio 1 dalyje nurodytos nesąžiningų veiksmų kontrolės institucijos (toliau – kontrolės institucijos), pagal kompetenciją atlikdamos šio įstatymo nuostatų laikymosi priežiūrą, tiria šio įstatymo nuostatų pažeidimus ir taiko šiame įstatyme nustatytas sankcijas.
+
+### 7 straipsnis. Kontrolės institucijų teisės ir pareigos
+
+1. Kontrolės institucijos, pagal kompetenciją atlikdamos šio įstatymo nuostatų laikymosi priežiūrą, turi teisę:
+
+1) gauti iš valstybės ir savivaldybių institucijų, įstaigų, kitų asmenų informaciją ir dokumentus, reikalingus šio įstatymo pažeidimams tirti;
+
+2) gauti iš ūkio subjektų informaciją ir dokumentus, reikalingus šio įstatymo pažeidimams tirti, reikalauti, kad ūkio subjektai patikslintų ir pagrįstų savo teiginius, susijusius su ūkine ir (arba) komercine veikla;
+
+3) reikalauti, kad ūkio subjektai ir kiti už ūkinę ir (arba) komercinę veiklą atsakingi asmenys atvyktų ir pateiktų žodinius ar rašytinius paaiškinimus;
+
+4) šio įstatymo nustatytais atvejais skirti baudas arba įspėjimą.
+
+2. Kontrolės institucijos privalo:
+
+1) perduoti teisėsaugos institucijoms medžiagą apie šio įstatymo pažeidimus, turinčius nusikalstamos veikos požymių;
+
+2) užtikrinti iš ūkio subjektų gautų dokumentų ir informacijos, kurie sudaro komercinę paslaptį, konfidencialumą.
+
+### 71 straipsnis. Inspektorių teisės ir pareigos
+
+1. Inspektoriai, pateikę tarnybinį pažymėjimą, turi teisę:
+
+1) nekliudomi patekti į ūkio subjektų patalpas darbo valandomis, siekdami patikrinti, ar laikomasi šio įstatymo ir kitų teisės aktų reikalavimų;
+
+2) tikrinti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimams tirti, daryti dokumentų kopijas;
+
+3) reikalauti, kad ūkio subjektai patikslintų ir pagrįstų savo teiginius, susijusius su ūkine ir (arba) komercine veikla.
+
+2. Inspektoriai privalo:
+
+1) atlikdami jiems pavestas funkcijas, vadovautis nešališkumo, nuoseklumo, skaidrumo, viešųjų ir privačių interesų konfliktų vengimo principais ir kitais teisės aktų reikalavimais;
+
+2) užtikrinti iš ūkio subjektų gautų dokumentų ir informacijos, kurie sudaro komercinę paslaptį, konfidencialumą.
+
+Papildyta straipsniu:
+
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+
+## TREČIASIS SKIRSNIS. ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
+
+### 8 straipsnis. Iniciatyvos teisė pradėti šio įstatymo pažeidimų nagrinėjimą
+
+Iniciatyvos teisę kreiptis į kontrolės institucijas dėl šio įstatymo pažeidimų turi:
+
+1) ūkio subjektai;
+
+2) valstybės ir savivaldybių institucijos ir įstaigos;
+
+3) ūkio subjektams atstovaujančios asociacijos.
+
+### 9 straipsnis. Šio įstatymo pažeidimų nagrinėjimo tvarka
+
+1. Prašymas atlikti tyrimą turi būti pateiktas rašytiniu pareiškimu. Pareiškime turi būti nurodomos pareiškėjui žinomos šio įstatymo pažeidimo faktinės aplinkybės. Jeigu yra galimybė, prie pareiškimo turi būti pridėti pareiškėjui žinomas šio įstatymo pažeidimo faktines aplinkybes patvirtinantys ir įrodantys dokumentai.
+
+2. Kontrolės institucijos pareiškimus dėl šio įstatymo pažeidimų turi išnagrinėti ne vėliau kaip per 30 darbo dienų nuo reikalavimus atitinkančio pareiškimo gavimo dienos ir priimti motyvuotą sprendimą. Jeigu yra objektyvių priežasčių, motyvuotu kontrolės institucijos sprendimu pareiškimo nagrinėjimo terminas gali būti pratęstas, tačiau ne ilgiau kaip vienam mėnesiui.
+
+3. Kontrolės institucija atsisako nagrinėti pareiškimą, jeigu:
+
+1) pareiškime nurodytas šio įstatymo pažeidimas nepriskirtas tos kontrolės institucijos kompetencijai;
+
+2) pareiškime nurodytos šio įstatymo pažeidimo faktinės aplinkybės buvo tirtos ir dėl jų yra kontrolės institucijos priimtas sprendimas;
+
+3) nuo šio įstatymo pažeidimo dienos praėjo daugiau kaip vieni metai, o jeigu pažeidimas yra tęstinis, – daugiau kaip vieni metai nuo paskutinių pažeidimo veiksmų atlikimo dienos.
+
+4. Kontrolės institucija, išnagrinėjusi pareiškimą, priima vieną iš šių sprendimų:
+
+1) pripažinti, kad ūkio subjektas pažeidė šio įstatymo reikalavimus, ir taikyti šiame įstatyme nustatytas sankcijas;
+
+2) nutraukti pareiškimo nagrinėjimą, jeigu šio įstatymo pažeidimų nenustatyta.
+
+5. Kontrolės institucija, nustačiusi šio įstatymo pažeidimą, vadovaudamasi objektyvumo ir proporcingumo principais, turi teisę skirti ūkio subjektui šiame įstatyme nustatytą baudą ir nustatyti įpareigojimą ūkio subjektui nutraukti draudžiamus nesąžiningus veiksmus ar įpareigojimą atlikti veiksmus, atkursiančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant žalio pieno pirkimo–pardavimo sutarties pakeitimą.
+
+6. Kontrolės institucijos sprendimas išsiunčiamas pareiškėjui ir šio įstatymo pažeidimą padariusiam ūkio subjektui.
+
+### 10 straipsnis. Kontrolės institucijos sprendimų apskundimas
+
+Kontrolės institucijos sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+### 11 straipsnis. Ekonominės sankcijos
+
+1. Už šio įstatymo 3 straipsnio 2 dalies 1 punkte nurodyto reikalavimo pažeidimą ūkio subjektui skiriamas įspėjimas arba bauda nuo vieno šimto iki trijų tūkstančių eurų.
+
+2. Už šio įstatymo 3 straipsnio 2 dalies 2 punkte nurodyto reikalavimo pažeidimą ūkio subjektui skiriama bauda nuo šešių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+
+3. Už šio įstatymo 3 straipsnio 3 dalies 1 punkte nurodyto reikalavimo pažeidimą žalio pieno pirkėjui skiriama bauda nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių eurų.
+
+4. Už šio įstatymo 3 straipsnio 3 dalies 2 punkte nurodyto reikalavimo pažeidimą žalio pieno pirkėjui skiriama bauda nuo dviejų tūkstančių penkių šimtų iki šešių tūkstančių eurų.
+
+5. Už šio įstatymo 3 straipsnio 3 dalies 3 ir 4 punktuose nurodytų reikalavimų pažeidimą žalio pieno pirkėjui skiriama bauda nuo vieno tūkstančio aštuonių šimtų iki keturių tūkstančių penkių šimtų eurų.
+
+6. Už šio įstatymo 4 straipsnyje ir 5 straipsnio 1 dalyje nurodytų reikalavimų nevykdymą žalio pieno pirkėjui skiriama bauda nuo dviejų tūkstančių iki penkių tūkstančių eurų.
+
+7. Už informacijos, reikalingos pareiškimui nagrinėti, nepateikimą, taip pat už neteisingos ar ne visos informacijos pateikimą ūkio subjektams ar kitiems asmenims skiriama bauda nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+8. Už kontrolės institucijos nurodymų pateikti informaciją vykdymą ne laiku ūkio subjektams ar kitiems asmenims skiriama vieno šimto eurų bauda už kiekvieną nevykdymo dieną.
+
+9. Už kontrolės institucijos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkursiančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku ūkio subjektams skiriama dviejų šimtų eurų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+
+10. Skiriamos baudos dydis priklauso nuo pažeidimo pobūdžio, pažeidimo trukmės ir masto, atsakomybę lengvinančių ir sunkinančių aplinkybių.
+
+11. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai, padarę pažeidimą, savo noru užkirto kelią žalingiems pažeidimo padariniams, padėjo kontrolės institucijoms tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami kontrolės institucijų nurodymo nutraukti neteisėtus veiksmus. Kontrolės institucijos gali pripažinti atsakomybę lengvinančiomis ar sunkinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
+
+12. Kontrolės institucijos, skirdamos baudas už šio įstatymo pažeidimus, konkretų baudos dydį nustato atsižvelgdamos į pažeidimo pobūdį ir atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, skiriamos baudos dydis neturi viršyti ekonominės sankcijos už padarytą pažeidimą vidurkio, o jeigu yra atsakomybę sunkinančių aplinkybių, skiriamos baudos dydis turi būti ne mažesnis kaip ekonominės sankcijos už padarytą pažeidimą vidurkis. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas kontrolės institucijos sprendime.
+
+13. Kontrolės institucijos paskirta bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per 3 mėnesius nuo dienos, kurią šio įstatymo pažeidėjas gavo kontrolės institucijos sprendimą dėl baudos skyrimo. Apskundus tokį kontrolės institucijos sprendimą, bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per vieną mėnesį nuo teismo sprendimo, kuriuo skundas atmestas, įsiteisėjimo dienos.
+
+### 12 straipsnis. Žalos atlyginimas
+
+1. Asmenys turi teisę Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl šio įstatymo pažeidimu padarytos žalos atlyginimo.
+
+2. Žala, padaryta asmenims neteisėtais kontrolės institucijos pareigūnų veiksmais, atlyginama Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+## KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+
+### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+
+1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2015 m. rugpjūčio 1 d.
+
+2. Šio įstatymo 4 straipsnis įsigalioja 2016 m. gegužės 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+
+3. Lietuvos Respublikos žemės ūkio ministras ir kontrolės institucijos iki 2015 m. liepos 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+
+### 14 straipsnis. Įstatymo įgyvendinimo stebėsena ir rezultatų įvertinimas
+
+Agentūra atlieka šio įstatymo įgyvendinimo stebėseną ir kiekvienais metais iki gegužės 1 dienos pateikia Lietuvos Respublikos Seimui ir Lietuvos Respublikos Vyriausybei šio įstatymo įgyvendinimo ir pasiektų rezultatų įvertinimo pažymą, kurioje nurodomi pasiekti šio įstatymo tikslai, įvertinami pieno ir pieno produktų mažmeninių kainų grandinės pokyčiai, neigiami padariniai (jeigu tokių buvo) ir pateikiamos išvados dėl šio įstatymo tolesnio taikymo tikslingumo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+
+Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+
+Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6 ir 14 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT22-N1/2020, 2020-02-06, paskelbta TAR 2020-07-01, i. k. 2020-14609
+
+Dėl Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo atitikties Lietuvos Respublikos Konstitucijai
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2063, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12745
+
+Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2 ir 5 straipsnių pakeitimo įstatymas

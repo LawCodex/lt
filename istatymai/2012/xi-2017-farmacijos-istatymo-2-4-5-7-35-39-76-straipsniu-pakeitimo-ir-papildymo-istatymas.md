@@ -1,0 +1,148 @@
+---
+title: "Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymas"
+identifier: "TAR.C9C9C1E801C4"
+number: "XI-2017"
+type: act
+jurisdiction: lt
+language: lt
+date: 2012-05-15
+in_force_from: 2012-09-06
+last_amended: 2023-06-02
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C9C9C1E801C4"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C9C9C1E801C4.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS FARMACIJOS ĮSTATYMO 2, 4, 5, 7, 35, 39, 76
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2023-06-02
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 63-3161, i. k. 1121010ISTA0XI-2017
+
+LIETUVOS RESPUBLIKOS
+
+FARMACIJOS ĮSTATYMO 2, 4, 5, 7, 35, 39, 76 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+2012 m. gegužės 15 d. Nr. XI-2017
+
+Vilnius
+
+(Žin., 2006, Nr. 78-3056; 2008, Nr. 149-5991; 2010, Nr. 1-32; 2011, Nr. 69-3291, Nr. 86-4148)
+
+## 1 straipsnis. 2 straipsnio 13 dalies pakeitimas
+
+Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
+
+„13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti gydytojo išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.“
+
+## 2 straipsnis. 4 straipsnio 9 dalies 2 punkto pakeitimas
+
+Pakeisti 4 straipsnio 9 dalies 2 punktą ir jį išdėstyti taip:
+
+„2) jeigu licencijos turėtojas pažeidė jam nustatytus farmacinės veiklos reikalavimus, nevykdė savo pareigų ir taip sukėlė sunkų kito asmens sveikatos sutrikdymą;“.
+
+## 3 straipsnis. 5 straipsnio 8 dalies papildymas 7 punktu
+
+Papildyti 5 straipsnio 8 dalį 7 punktu:
+
+„7) jeigu vaistininko padėjėjas (farmakotechnikas) pažeidė jam nustatytus farmacinės veiklos reikalavimus, nevykdė savo pareigų ir taip sukėlė sunkų kito asmens sveikatos sutrikdymą.“
+
+## 4 straipsnis. 7 straipsnio 2, 3 ir 4 dalių pakeitimas ir papildymas
+
+1. Papildyti 7 straipsnio 2 dalį 8 punktu:
+
+„8) užsiimti kita Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme vaistininko profesinę kvalifikaciją turinčiam asmeniui nustatyta veikla.“
+
+2. Papildyti 7 straipsnio 3 dalį nauju 4 punktu:
+
+„4) prižiūrėti vaistininko padėjėjo (farmakotechniko) teikiamas farmacines paslaugas, atliekamą vaistinių preparatų pardavimą (išdavimą) ir ekstemporalių vaistinių preparatų gamybą, jeigu tai nustatyta vaistininko pareigybės aprašyme;“.
+
+3. Buvusį 7 straipsnio 3 dalies 4 punktą laikyti 5 punktu.
+
+4. Pakeisti 7 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
+
+„2) parduoti vaistinių prekes, teikti informaciją apie jų vartojimą ir laikymo sąlygas, prižiūrint vaistininkui teikti farmacines paslaugas ir parduoti (išduoti) vaistinius preparatus;“.
+
+5. Pakeisti 7 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
+
+„3) prižiūrint vaistininkui gaminti ekstemporalius vaistinius preparatus;“.
+
+## 5 straipsnis. 35 straipsnio papildymas ir pakeitimas
+
+1. Papildyti 35 straipsnį nauja 12 dalimi:
+
+„12. Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, turinčius mažiau kaip 3 tūkst. gyventojų, ir kaimo gyvenamąsias vietoves, kuriuose nesant vaistininko vaistinės patalpose jos darbo laiku gali dirbti vaistininko padėjėjas (farmakotechnikas), iki 2006 m. įgijęs vaistininko padėjėjo (farmakotechniko) ar jai prilygintą profesinę kvalifikaciją, sveikatos apsaugos ministro nustatyta tvarka ryšio priemonėmis prižiūrimas vaistininko.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
+
+2. Papildyti 35 straipsnį nauja 12 dalimi:
+
+„12. Vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimo (išdavimo) ir ekstemporalių vaistinių preparatų gamybos priežiūra vaistinėje suprantama kaip receptų, pagal kuriuos vaistininko padėjėjas (farmakotechnikas) pardavė (išdavė) vaistinius preparatus, patikrinimas, jeigu reikia, vaistininko padėjėjo (farmakotechniko) konsultavimas (žodžiu ar ryšio priemonėmis), parenkant gyventojui reikalingus vaistinius preparatus, teikiant farmacinę informaciją, vaistininko padėjėjo (farmakotechniko) pagamintų ekstemporalių vaistinių preparatų patikrinimas.“
+
+3. Buvusias 35 straipsnio 11, 12, 13, 14 ir 15 dalis laikyti atitinkamai 13, 14, 15, 16 ir 17 dalimis.
+
+## 6 straipsnis. 39 straipsnio 1 punkto pakeitimas
+
+Pakeisti 39 straipsnio 1 punktą ir jį išdėstyti taip:
+
+„1) įdarbinti farmacinės veiklos vadovą ir pakankamai tinkamos kvalifikacijos farmacijos specialistų, suteikti jiems pakankamus įgaliojimus atlikti jiems pavestas pareigas. Pareigybių aprašymuose aiškiai nustatyti farmacinės veiklos vadovo ir kitų farmacijos specialistų, teikiančių farmacinę paslaugą ir parduodančių (išduodančių) vaistinius preparatus, gaminančių ekstemporalius vaistinius preparatus, pareigas, atsakomybę, įgaliojimus ir tarpusavio ryšius. Vaistinės kokybės užtikrinimo sistemos dokumentuose aprašyti vaistininko veiksmus, kuriuos jis atlieka vaistinėje siekdamas užtikrinti, kad vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimas (išdavimas) ir ekstemporalių vaistinių preparatų gamyba atitiktų teisės aktų reikalavimus;“.
+
+## 7 straipsnis. 76 straipsnio 5 dalies pripažinimas netekusia galios
+
+76 straipsnio 5 dalį pripažinti netekusia galios.
+
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+
+1. Šis įstatymas, išskyrus 5 straipsnio 1 dalį ir šio straipsnio 3 dalį, įsigalioja po trijų mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“.
+
+2. Šio įstatymo 5 straipsnio 1 dalis įsigalioja 2023 m. liepos 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
+
+Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
+
+3. Sveikatos apsaugos ministras iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
+
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
+
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
+
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 5 straipsnio pakeitimo įstatymas

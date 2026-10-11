@@ -1,0 +1,86 @@
+---
+title: "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 17 ir 23 straipsnių pakeitimo ir papildymo įstatymas"
+identifier: "TAR.E264EF9DA07A"
+number: "XII-127"
+type: act
+jurisdiction: lt
+language: lt
+date: 2012-12-20
+in_force_from: 2013-01-01
+last_amended: 2013-12-30
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E264EF9DA07A"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E264EF9DA07A.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 17 ir 23 straipsnių pakeitimo ir papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO 17 IR 23
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2013-12-30
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 154-7933, i. k. 1121010ISTA0XII-127
+
+LIETUVOS RESPUBLIKOS NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO 17 IR 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2012 m. gruodžio 20 d. Nr. XII-127
+
+Vilnius
+
+(Žin., 2004, Nr. 4-26, Nr. 171-6300, Nr. 188-6997; 2009, Nr. 77-3170; 2012, Nr. 127-6394)
+
+## 1 straipsnis. 17 straipsnio papildymas 4 ir 5 dalimis
+
+1. Papildyti 17 straipsnį 4 dalimi:
+
+„4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pagal patvirtintą įmokų tarifo dydį nedarbo draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti.“
+
+2. Papildyti 17 straipsnį 4 dalimi:
+
+„4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pagal patvirtintą įmokų tarifo dydį nedarbo draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti.“
+
+3. Papildyti 17 straipsnį 5 dalimi:
+
+„5. Pasibaigus finansiniams metams, nepanaudotos Užimtumo fondo lėšos įtraukiamos į kitų metų Užimtumo fondo lėšų sąmatą, jeigu Lietuvos Respublikos biudžeto sandaros įstatyme nenustatyta kitaip.“
+
+## 2 straipsnis. 23 straipsnio pakeitimas
+
+Pakeisti 23 straipsnio 1 dalį, 2 ir 3 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
+
+„23 straipsnis. Nedarbo draudimo išlaidos pereinamuoju laikotarpiu
+
+Pereinamuoju laikotarpiu (2009 m. sausio 1 d. – 2013 m. gruodžio 31 d.) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos, užimtumo rėmimo priemonės, darbo rinkos paslaugos, užimtumo rėmimo politiką įgyvendinančios įstaigos ir Užimtumo rėmimo įstatyme nustatytos aktyvios darbo rinkos politikos priemonės.“
+
+## 3 straipsnis. Įstatymo įsigaliojimas
+
+1. Šis įstatymas, išskyrus 1 straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
+
+2. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2015 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-671, 2013-12-12, Žin., 2013, Nr. 140-7053 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00374
+
+3. Šio įstatymo 1 straipsnio 1 dalis galioja iki 2014 m. gruodžio 31 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-671, 2013-12-12, Žin., 2013, Nr. 140-7053 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00374
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-671, 2013-12-12, Žin., 2013, Nr. 140-7053 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00374
+
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 17 ir 23 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo ĮSTATYMAS

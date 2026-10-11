@@ -1,0 +1,43 @@
+---
+title: "Lietuvos Respublikos švietimo įstatymo 67 straipsnio pakeitimo įstatymas"
+identifier: "TAR.33249836400D"
+number: "XII-131"
+type: act
+jurisdiction: lt
+language: lt
+date: 2012-12-20
+in_force_from: 2014-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.33249836400D"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.33249836400D.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos švietimo įstatymo 67 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 67 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2012 m. gruodžio 20 d. Nr. XII-131
+
+Vilnius
+
+(Žin., 1991, Nr. [23-593](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0); 2011, Nr. [38-1804](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2EBE95E7723))
+
+\#### 1 straipsnis. 67 straipsnio 11 dalies pakeitimas
+
+Pakeisti 67 straipsnio 11 dalį ir ją išdėstyti taip:
+
+„11. Sveikatos priežiūra mokykloje Vyriausybės nustatyta tvarka finansuojama iš valstybės ir savivaldybių biudžetų ir kitų lėšų.“
+
+\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+
+1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
+
+2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
+
+_________________

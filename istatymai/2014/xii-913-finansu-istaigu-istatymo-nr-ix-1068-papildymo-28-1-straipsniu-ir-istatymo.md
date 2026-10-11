@@ -1,0 +1,47 @@
+---
+title: "Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 papildymo 28-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas"
+identifier: "89b478c0f55811e39cfacd978b6fd9bb"
+number: "XII-913"
+type: act
+jurisdiction: lt
+language: lt
+date: 2014-06-05
+in_force_from: 2014-06-17
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/89b478c0f55811e39cfacd978b6fd9bb"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.89B478C0F558.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 papildymo 28-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+FINANSŲ ĮSTAIGŲ ĮSTATYMO Nr. IX-1068 PAPILDYMO 281 STRAIPSNIU IR ĮSTATYMO PRIEDO PAKEITIMO
+
+ĮSTATYMAS
+
+2014 m. birželio 5 d. Nr. XII-913 Vilnius
+
+## 1 straipsnis. Įstatymo papildymas 281 straipsniu
+
+Papildyti Įstatymą 281 straipsniu:
+
+„281 straipsnis. Finansinės pagalbos teikimas finansų įstaigos akcijoms įsigyti
+
+Finansų įstaiga turi teisę, laikydamasi šiame Įstatyme ir Lietuvos Respublikos akcinių bendrovių įstatyme nustatytų reikalavimų, teikti finansinę pagalbą fiziniams ir (ar) juridiniams asmenims, tiesiogiai ar netiesiogiai iš anksto išmokėdama lėšų, suteikdama paskolą ar užtikrindama prievolių įvykdymą, kai šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos finansų įstaigos akcijų ir tenkinama bent viena iš šių sąlygų:
+
+1) finansų įstaigos teisinė forma yra akcinė bendrovė arba uždaroji akcinė bendrovė ir šie veiksmai yra priskiriami jos teikiamoms finansų paslaugoms;
+
+2) finansų įstaigos teisinė forma yra akcinė bendrovė, ji atitinka 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyvos 2012/30/ES 17 straipsnio 7 dalies antrojoje pastraipoje nustatytus kriterijus ir šiais veiksmais sudaro sąlygas fiziniams ir (ar) juridiniams asmenims įsigyti šios finansų įstaigos išleistų ir investuotojui pareikalavus tos finansų įstaigos ar įmonių grupei priklausančios finansų įstaigos įsigytų visiškai apmokėtų akcijų. Ši finansų įstaiga dokumentuose, kuriuos ji naudoja turėdama santykių su kitais subjektais (raštuose, sąskaitose, prekybos dokumentuose ir kt.), privalo vartoti žodžius „investicinė bendrovė“.“
+
+## 2 straipsnis. Įstatymo priedo pakeitimas
+
+Papildyti Įstatymo priedą 4 punktu:
+
+„4. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74).“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė
