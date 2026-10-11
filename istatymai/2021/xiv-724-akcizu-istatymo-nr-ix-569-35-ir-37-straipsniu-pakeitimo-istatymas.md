@@ -1,0 +1,53 @@
+---
+title: "Lietuvos Respublikos akcizų įstatymo Nr. IX-569 35 ir 37 straipsnių pakeitimo įstatymas"
+identifier: "4a05ff205d9511eca9ac839120d251c4"
+number: "XIV-724"
+type: act
+jurisdiction: lt
+language: lt
+date: 2021-12-07
+in_force_from: 2022-07-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/4a05ff205d9511eca9ac839120d251c4"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A05FF205D95.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos akcizų įstatymo Nr. IX-569 35 ir 37 straipsnių pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+AKCIZŲ ĮSTATYMO NR. IX-569 35 IR 37 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2021 m. gruodžio 7 d. Nr. XIV-724
+
+Vilnius
+
+## 1 straipsnis. 35 straipsnio pakeitimas
+
+Pakeisti 35 straipsnio 1 punktą ir jį išdėstyti taip:
+
+„1) bešviniam benzinui – 466 eurai už 1 000 litrų produkto;“.
+
+## 2 straipsnis. 37 straipsnio pakeitimas
+
+Pakeisti 37 straipsnį ir jį išdėstyti taip:
+
+„37 straipsnis. Gazoliams taikomi akcizų tarifai
+
+1. Gazoliams taikomas 372 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+
+2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
+
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
+
+## 3 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2022 m. liepos 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda

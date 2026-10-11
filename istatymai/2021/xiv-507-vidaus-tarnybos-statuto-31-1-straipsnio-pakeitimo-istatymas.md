@@ -1,0 +1,39 @@
+---
+title: "Lietuvos Respublikos vidaus tarnybos statuto 31-1 straipsnio pakeitimo įstatymas"
+identifier: "1d4aabc0eac211eb9f09e7df20500045"
+number: "XIV-507"
+type: act
+jurisdiction: lt
+language: lt
+date: 2021-07-13
+in_force_from: 2021-07-23
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/1d4aabc0eac211eb9f09e7df20500045"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D4AABC0EAC2.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos vidaus tarnybos statuto 31-1 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+VIDAUS TARNYBOS STATUTO 311 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+2021 m. liepos 13 d. Nr. XIV-507
+
+Vilnius
+
+## 1 straipsnis. 311 straipsnio pakeitimas
+
+Pakeisti 311 straipsnį ir jį išdėstyti taip:
+
+„311 straipsnis. Perkėlimas į karjeros valstybės tarnautojo pareigas
+
+Tarnybinio būtinumo atveju, kai valstybės institucijų ar įstaigų vadovai šį klausimą suderina, centrinės statutinės įstaigos vadovo įsakymu pareigūnas jo rašytiniu sutikimu gali būti laikinai, iki 3 metų laikotarpiui, perkeltas į karjeros valstybės tarnautojo pareigas kitoje valstybės institucijoje ar įstaigoje, jeigu pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus. Pareigūno rašytinis sutikimas perkelti jį į karjeros valstybės tarnautojo pareigas kitoje valstybės institucijoje ar įstaigoje nereikalingas karo padėties, nepaprastosios padėties, ekstremaliųjų įvykių ar ekstremaliųjų situacijų atvejais. Tarnybinio būtinumo atveju pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas terminas, valstybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas, tačiau ne ilgiau kaip 2 metams. Pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpis įskaitomas į pareigūno vidaus tarnybos stažą. Perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiu pareigūnui taikomos šio statuto nuostatos, išskyrus darbo užmokestį reglamentuojančias nuostatas, taip pat mutatis mutandis taikomos Valstybės tarnybos įstatymo nuostatos dėl tarnybinės veiklos vertinimo. Perkeltam į karjeros valstybės tarnautojo pareigas pareigūnui darbo užmokestis nustatomas pagal jo einamas ne statutinio valstybės tarnautojo pareigas, tačiau ne mažesnis kaip nustatytasis iki perkėlimo. Pasibaigus pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiui, pareigūnas grąžinamas į iki perkėlimo eitas pareigas, o kai šių pareigų nėra, jo rašytiniu sutikimu gali būti skiriamas į kitas lygiavertes pareigas, o kai ir šių pareigų nėra, – laikinai, iki atsiras laisvos lygiavertės pareigos, jo rašytiniu sutikimu gali būti skiriamas į žemesnes pareigas. Visais atvejais šiam pareigūnui mokamas ne mažesnis negu iki perkėlimo į karjeros valstybės tarnautojo pareigas nustatytas darbo užmokestis.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda

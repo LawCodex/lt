@@ -1,0 +1,27 @@
+---
+title: "Lietuvos Respublikos valstybės politikų darbo užmokesčio įstatymas"
+identifier: "13ffaf1006cd11ee9978886e85107ab2"
+number: "XIV-2013"
+type: act
+jurisdiction: lt
+language: lt
+date: 2023-05-25
+in_force_from: 2023-06-10
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/13ffaf1006cd11ee9978886e85107ab2"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.13FFAF1006CD.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos valstybės politikų darbo užmokesčio įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+VALSTYBĖS POLITIKŲ DARBO UŽMOKESČIO
+
+ĮSTATYMAS
+
+2023 m. gegužės 25 d. Nr. XIV-2013
+
+Vilnius

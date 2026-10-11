@@ -1,0 +1,43 @@
+---
+title: "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 24 straipsnio pakeitimo įstatymas"
+identifier: "069af9d2dfe511f08918e1adc7c5b1ec"
+number: "XV-673"
+type: act
+jurisdiction: lt
+language: lt
+date: 2025-12-11
+in_force_from: 2026-05-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/069af9d2dfe511f08918e1adc7c5b1ec"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.069AF9D2DFE5.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 24 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+SOCIALINIŲ PASLAUGŲ ĮSTATYMO NR. X-493 24 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+2025 m. gruodžio 11 d. Nr. XV-673
+
+Vilnius
+
+\#### 1 straipsnis. 24 straipsnio pakeitimas
+
+Pakeisti 24 straipsnio 3 punktą ir jį išdėstyti taip:
+
+„3) Vyriausybės nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia rekomendaciją dėl globėjo (rūpintojo) paskyrimo valstybinės vaiko teisių apsaugos institucijos įgaliotam teritoriniam skyriui;“.
+
+\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+
+1. Šis įstatymas įsigalioja 2026 m. gegužės 1 d.
+
+2. Iki 2026 m. balandžio 30 d. pradėtos vaiko laikinosios globos (rūpybos) nustatymo procedūros baigiamos pagal Lietuvos Respublikos socialinių paslaugų įstatyme nustatytą teisinį reguliavimą, galiojusį iki 2026 m. balandžio 30 d.
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+Respublikos PrezidentasGitanas Nausėda
