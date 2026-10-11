@@ -1,0 +1,39 @@
+---
+title: "Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas"
+identifier: "TAR.EB98A2883BE4"
+number: "XI-327"
+type: act
+jurisdiction: lt
+language: lt
+date: 2009-07-07
+in_force_from: 2009-07-18
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EB98A2883BE4"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EB98A2883BE4.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS MEDŽIOKLĖS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+LIETUVOS RESPUBLIKOS MEDŽIOKLĖS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2009 m. liepos 7 d. Nr. XI-327
+
+Vilnius
+
+(Žin., 2002, Nr. 65-2634)
+
+## 1 straipsnis. 4 straipsnio 3 dalies pakeitimas
+
+4 straipsnio 3 dalyje išbraukti žodžius „ir varninius paukščius“ ir šią dalį išdėstyti taip:
+
+„3. Sodybose ir negyvenamuose pastatuose bei jų priklausiniuose šių objektų savininkai, valdytojai ir naudotojai turi teisę, nepaisydami Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytų medžioklės terminų, naudodami šiose taisyklėse numatytas leistinas gaudymo priemones, gaudyti bei pasiimti tų rūšių plėšriuosius medžiojamuosius žvėris, kuriems minėtose taisyklėse yra nustatytas leistinas jų medžioklės terminas. Ši veikla nelaikoma medžiojimu, ir ją vykdantis asmuo neprivalo būti medžiotojas.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ

@@ -1,0 +1,306 @@
+---
+title: "Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas"
+identifier: "TAR.6686E2AF9EFE"
+number: "IX-1541"
+type: act
+jurisdiction: lt
+language: lt
+date: 2003-04-29
+in_force_from: 2003-05-15
+last_amended: 2024-07-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6686E2AF9EFE.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
+
+Suvestinė redakcija nuo 2024-07-01
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS DARBUOTOJŲ PAPILDOMŲ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ ĮSTATYMAS
+
+2003 m. balandžio 29 d. Nr. IX-1541
+
+Vilnius
+
+## PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+
+### 1 straipsnis. Įstatymo paskirtis
+
+Šis Įstatymas nustato valstybės įmonės Ignalinos atominės elektrinės (toliau – Ignalinos AE) darbuotojų, priimtų į darbą Ignalinos AE iki Lietuvos Respublikos Vyriausybės sprendimo dėl Ignalinos AE antrojo bloko sustabdymo datos įsigaliojimo ir atleidžiamų arba atleistų iš darbo Ignalinos AE dėl jos pirmojo ir antrojo blokų eksploatavimo užbaigimo, ir šių asmenų šeimos narių papildomas užimtumo ir socialines garantijas, siekiant užtikrinti saugų ir nenutrūkstamą tolesnį Ignalinos AE eksploatavimą ir sušvelninti neigiamas atleidimo iš darbo socialines pasekmes.
+
+Straipsnio pakeitimai:
+
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+
+### 2 straipsnis. Pagrindinės Įstatymo sąvokos
+
+1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 57 straipsnio 1 dalies 1 punkte nustatytu pagrindu dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+2. Atleidžiamo ar atleisto iš darbo darbuotojo šeimos narys – atleidžiamo ar atleisto iš darbo darbuotojo sutuoktinis, vaikai (įvaikiai) iki 18 metų bei vyresni nedirbantys mokymo įstaigų dieninių skyrių nesusituokę moksleiviai ir studentai, kol jiems sukaks 24 metai, taip pat kartu gyvenantys darbuotojo ir jo sutuoktinio tėvai (įtėviai).
+
+3. Atleisti iš darbo darbuotojai – Ignalinos AE darbuotojai, su kuriais yra nutrauktos darbo sutartys Darbo kodekso 57 straipsnio 1 dalies 1 punkte nustatytu pagrindu dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+4. Ignalinos AE eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas, siekiant saugiai dezaktyvuoti ir išmontuoti Ignalinos AE, sutvarkyti eksploatavimo nutraukimo atliekas ir liekanas, kai nusprendžiama, kad Ignalinos AE niekada nebebus naudojama pagal pagrindinę paskirtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+
+5. Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimas – procesas, kurio pradžia yra Vyriausybės sprendimo dėl Ignalinos AE pirmojo bloko sustabdymo datos įsigaliojimas, o pabaiga – Valstybinės atominės energetikos saugos inspekcijos išduotos licencijos eksploatuoti Ignalinos AE antrąjį bloką galiojimo panaikinimo data.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+
+6. Kompensuojamosios darbo vietos – darbo vietos, pirmiausiai Ignalinos AE regione, atleistiems iš darbo darbuotojams įdarbinti, atitinkančios jų išsilavinimą ir kvalifikaciją.
+
+7. Papildomos užimtumo ir socialinės garantijos – šio Įstatymo nustatytos užimtumo ir socialinės garantijos, kurios nėra nustatytos užimtumą, darbo santykius bei socialines garantijas reglamentuojančiuose įstatymuose ir kituose teisės aktuose.
+
+## ANTRASIS SKIRSNIS. UŽimtumo garantijos
+
+### 3 straipsnis. Atleidžiamų ir atleistų iš darbo darbuotojų užimtumo skatinimas
+
+Atleidžiamų ir atleistų iš darbo darbuotojų bei jų šeimos narių užimtumo garantijoms užtikrinti yra įgyvendinamos užimtumo, Ignalinos AE regiono plėtros, žmogiškųjų išteklių panaudojimo bei verslo skatinimo tikslinės programos ir priemonės, kurias tvirtina Vyriausybė.
+
+### 4 straipsnis. Atleidžiamų ir atleistų iš darbo darbuotojų užimtumo rėmimas
+
+1. Atleidžiamam ar atleistam iš darbo darbuotojui sudaromas individualus planas, kuriame numatomos jo užimtumo priemonės ir socialinės garantijos. Individualių planų sudarymo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+2. Darbo rinkos paslaugų teikimą ir aktyvios darbo rinkos politikos priemonių taikymą atleistiems iš darbo darbuotojams, įsiregistravusiems Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), jų užimtumui remti nustato Užimtumo įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
+
+Nr. XIV-2656, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09695
+
+3. Neteko galios nuo 2007-12-29
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1373, 2007-12-13, Žin. 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+
+4. Kai atleidžiamų iš darbo darbuotojų perkvalifikavimas ar kvalifikacijos kėlimas Ignalinos AE eksploatavimo nutraukimo darbams atlikti vykdomas mokymosi įstaigose darbo laiku, darbuotojams suteikiamos mokymosi atostogos. Jų metu mokamas darbuotojo vidutinis darbo užmokestis bei apmokamos kelionės į mokymosi vietą išlaidos. Darbuotojai Ignalinos AE eksploatavimo nutraukimo darbams atlikti perkvalifikuojami ir jų kvalifikacija keliama pagal individualius planus.
+
+5. Darbdaviams, steigiantiems kompensuojamąsias darbo vietas, į kurias pagal individualius planus įdarbinami atleisti iš darbo darbuotojai, už kiekvieną darbo vietą išmokamos 18,62 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA) dydžio kompensacijos:
+
+1) sudarius darbo sutartį, pervedama 9,31 MMA;
+
+2) praėjus 12 mėnesių nuo darbo sutarties sudarymo dienos, pervedama po 0,78 MMA kas mėnesį įdarbintųjų darbo laikotarpiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+
+6. Atleidžiamiems ir atleistiems iš darbo darbuotojams sudaroma galimybė pagal jų individualius planus mokytis lietuvių kalbos iki 12 mėnesių trukmės kursuose.
+
+### 5 straipsnis. Nedirbančių šeimos narių užimtumo garantijos
+
+1. Darbo rinkos paslaugų teikimą ir aktyvios darbo rinkos politikos priemonių taikymą atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems darbingo amžiaus šeimos nariams, įsiregistravusiems Užimtumo tarnyboje, jų užimtumui remti nustato Užimtumo įstatymas. Užimtumo tarnyboje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems darbingo amžiaus šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatyta tvarka, o išmokama 7 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
+
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
+
+Nr. XIV-2656, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09695
+
+2. Atleidžiamų ir atleistų iš darbo darbuotojų sutuoktiniams ir vaikams (įvaikiams) iki 24 metų, kurie mokosi aukštosiose mokyklose, kad įgytų profesijas, reikalingas saugiam Ignalinos AE eksploatavimui ir eksploatavimo nutraukimo darbams vykdyti, Ignalinos AE administracijos sprendimu, suderinus su steigėju, skiriama ir mokama stipendija. Tokių profesijų sąrašą, suderinusi su steigėju, tvirtina Ignalinos AE administracija.
+
+## TREČIASIS SKIRSNIS. SOCIALINĖS GARANTIJOS
+
+### 6 straipsnis. Darbo santykių ypatumai
+
+Patvirtinus techninius Ignalinos AE eksploatavimo nutraukimo planus, Ignalinos AE administracija kasmet informuoja Ignalinos AE darbuotojus, paskelbdama galimų sumažinti per artimiausius 12 mėnesių darbuotojų pareigybių ir profesijų sąrašą. Atleidžiamas iš darbo darbuotojas apie numatomą atleidimą raštu įspėjamas prieš 10 mėnesių.
+
+### 7 straipsnis. Neteko galios nuo 2017-07-01
+
+Straipsnio naikinimas:
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+### 8 straipsnis. Išeitinės išmokos ir papildomos išeitinės išmokos skyrimas
+
+1. Pagal Darbo kodekso 57 straipsnio 1 dalies 1 punktą iš darbo atleistiems darbuotojams skiriamos ir išmokamos Darbo kodekso 57 straipsnio 8 ir 9 dalyse numatytos išeitinės išmokos bei papildomos išeitinės išmokos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Papildomų išeitinių išmokų dydis, atsižvelgiant į darbuotojų nepertraukiamąjį darbo stažą Ignalinos AE:
+
+1) kai darbo stažas nuo 5 iki 10 metų, – trijų darbuotojo vidutinių darbo užmokesčių dydžio;
+
+2) kai darbo stažas nuo 10 iki 15 metų, – keturių darbuotojo vidutinių darbo užmokesčių dydžio;
+
+3) kai darbo stažas nuo 15 iki 20 metų, – penkių darbuotojo vidutinių darbo užmokesčių dydžio;
+
+4) kai darbo stažas didesnis kaip 20 metų, – šešių darbuotojo vidutinių darbo užmokesčių dydžio.
+
+2. Jeigu atleistam iš darbo darbuotojui buvo išmokėta papildoma išeitinė išmoka ir jis vėl buvo priimtas dirbti į Ignalinos AE, vėl jį atleidus iš darbo, papildoma išeitinė išmoka neskiriama.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+### 9 straipsnis. Priešpensinės bedarbio išmokos skyrimas ir mokėjimas
+
+1. Atleistiems iš darbo darbuotojams, turintiems ne mažesnį kaip 25 metų valstybinio socialinio pensijų draudimo stažą ir ne mažesnį kaip 10 metų nepertraukiamojo darbo stažą Ignalinos AE ir tapusiems bedarbiais, jeigu nuo atleidimo iš darbo dienos iki senatvės pensijos amžiaus yra likę ne daugiau kaip 5 metai, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka skiriama priešpensinė bedarbio išmoka, kol sukaks senatvės pensijos amžius.
+
+2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 15,52 procento asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 42,67 procento Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+
+3. Asmenims, nurodytiems šio straipsnio 1 dalyje, taikomos Sveikatos draudimo įstatymo 6 straipsnio 4 dalies 2 punkto nuostatos.
+
+4. Priešpensinės bedarbio išmokos gavėjui įsidarbinus, pradėjus gauti nedarbo socialinio draudimo išmoką arba išvykus nuolat gyventi į užsienį, priešpensinės bedarbio išmokos mokėjimas nutraukiamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
+
+### 10 straipsnis. Įdarbinimo kompensuojamose darbo vietose sąlygos
+
+Atleisti iš darbo darbuotojai, kurie pagal individualius planus buvo įdarbinti arba įsidarbino kompensuojamose darbo vietose, neturi teisės į papildomas socialines garantijas, numatytas šio Įstatymo 8 ir 9 straipsniuose.
+
+### 11 straipsnis. Persikėlimo išmokos skyrimas
+
+Atleistiems iš darbo darbuotojams, kurie per ne ilgesnį kaip 3 metų laikotarpį nuo atleidimo iš darbo Ignalinos AE apsisprendžia išvykti į kitą gyvenamąją vietovę Lietuvos Respublikoje arba užsienyje nuolat gyventi, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos faktinės persikėlimo išlaidos, bet ne didesnės kaip po 2,33 MMA kiekvienam šeimos nariui.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+
+## KETVIRTASIS SKIRSNIS. UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ FINANSAVIMAS
+
+### 12 straipsnis. Užimtumo ir socialinių garantijų finansavimas
+
+1. Šio Įstatymo 4 straipsnyje, 5 straipsnio 2 dalyje, 8, 9, 11 straipsniuose nustatytos užimtumo ir socialinės garantijos finansuojamos tarptautinės paramos ir kitų šaltinių lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-3433, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24609
+
+2. Šio Įstatymo 5 straipsnio 1 dalyje nustatytos užimtumo ir socialinės garantijos finansuojamos valstybės biudžeto ir kitų šaltinių lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+
+3. Šio Įstatymo 3 straipsnyje nurodytos užimtumo ir socialinės programos bei projektai įgyvendinami Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų, Europos Sąjungos institucijų, tarptautinių organizacijų ir kitų šaltinių lėšomis.
+
+## PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+
+### 13 straipsnis. Įstatymo įgyvendinimas
+
+Vyriausybė ar jos įgaliota institucija nustato:
+
+1) individualių planų sudarymo tvarką;
+
+2) darbuotojų draudimo kaupiamuoju gyvybės draudimu tvarką;
+
+3) papildomos išeitinės išmokos mokėjimo tvarką;
+
+4) priešpensinės bedarbio išmokos mokėjimo tvarką;
+
+5) persikėlimo išmokos apmokėjimo tvarką.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 4, 5 ir 12 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, 8 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-148, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29781
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, 8 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2504 6 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir 5 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4, 9, 11 ir 12 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3433, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24609
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 12 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2656, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09695
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir 5 straipsnių pakeitimo įstatymas

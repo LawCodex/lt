@@ -1,0 +1,45 @@
+---
+title: "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas"
+identifier: "TAR.D417EB571239"
+number: "IX-2163"
+type: act
+jurisdiction: lt
+language: lt
+date: 2004-04-22
+in_force_from: 2004-04-29
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D417EB571239.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+SVEIKATOS DRAUDIMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO IR PAKEITIMO
+
+Į S T A T Y M A S
+
+2004 m. balandžio 22 d. Nr. IX-2163
+
+Vilnius
+
+(Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A))
+
+\#### 1 straipsnis. 6 straipsnio 4 dalies papildymas ir pakeitimas
+
+1. 6 straipsnio 4 dalį papildyti nauju 9 punktu:
+
+„9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantis namuose vaiką invalidą arba I grupės invalidą, tapusį invalidu, iki jam sukako 24 metai, arba I grupės invalidą, kuris dėl ligos ar traumos, atsiradusios, iki jam sukako 24 metai, padarinių invalidu pripažintas po 24 metų, tačiau ne vėliau, iki jam sukako 26 metai;“.
+
+2. 6 straipsnio 4 dalies 9–15 punktus laikyti atitinkamai 10–16 punktais.
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+LAIKINAI EINANTIS
+
+RESPUBLIKOS PREZIDENTO PAREIGAS ARTŪRAS PAULAUSKAS
+
+______________

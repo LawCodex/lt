@@ -1,0 +1,39 @@
+---
+title: "Lietuvos Respublikos metrologijos įstatymo 18 straipsnio pakeitimo įstatymas"
+identifier: "TAR.B2DE6668B8A0"
+number: "VIII-1660"
+type: act
+jurisdiction: lt
+language: lt
+date: 2000-05-02
+in_force_from: 2000-05-24
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B2DE6668B8A0"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B2DE6668B8A0.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos metrologijos įstatymo 18 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+METROLOGIJOS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO
+
+Į S T A T Y M A S
+
+2000 m. gegužės 2 d. Nr. VIII-1660
+
+Vilnius
+
+(Žin., 1996, Nr. 74-1768)
+
+## 1 straipsnis. 18 straipsnio 5 punkto pakeitimas
+
+Pakeisti 18 straipsnio 5 punktą ir jį išdėstyti taip:
+
+„5) Lietuvos metrologijos inspekcija – įstaiga prie Lietuvos Respublikos Vyriausybės įgaliotos ministerijos, atliekanti valstybinę matavimo priemonių būklės ir naudojimo kontrolę.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS

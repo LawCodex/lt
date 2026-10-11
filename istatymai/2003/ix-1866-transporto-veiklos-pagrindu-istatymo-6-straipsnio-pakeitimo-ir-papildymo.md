@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas"
+identifier: "TAR.CBECCF3EAD08"
+number: "IX-1866"
+type: act
+jurisdiction: lt
+language: lt
+date: 2003-12-02
+in_force_from: 2003-12-18
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CBECCF3EAD08"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CBECCF3EAD08.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos transporto veiklos pagrindų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+
+Į S T A T Y M A S
+
+2003 m. gruodžio 2 d. Nr. IX-1866
+
+Vilnius
+
+(Žin., 1991, Nr. [30-804](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B); 2002, Nr. [29-1034](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBEAE76BC38))
+
+\#### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas
+
+6 straipsnio 1 dalyje vietoj žodžių „savivaldybių institucijoms“ įrašyti žodį „savivaldybėms“, dalį papildyti sakiniu „Nuosavybės teisė į viešosios transporto infrastruktūros objektus – autobusų stotis negali būti perleista kitiems Lietuvos Respublikos ar užsienio fiziniams ar juridiniams asmenims“ ir šią dalį išdėstyti taip:
+
+„1. Transporto objektai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims. Nuosavybės teisė į viešosios transporto infrastruktūros objektus – autobusų stotis negali būti perleista kitiems Lietuvos Respublikos ar užsienio fiziniams ar juridiniams asmenims.“
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
+
+______________

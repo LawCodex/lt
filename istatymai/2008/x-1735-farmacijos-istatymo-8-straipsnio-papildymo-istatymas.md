@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos farmacijos įstatymo 8 straipsnio papildymo įstatymas"
+identifier: "TAR.E2B0CC6BCD09"
+number: "X-1735"
+type: act
+jurisdiction: lt
+language: lt
+date: 2008-09-29
+in_force_from: 2008-10-16
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B0CC6BCD09"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E2B0CC6BCD09.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos farmacijos įstatymo 8 straipsnio papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS FARMACIJOS ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+2008 m. rugsėjo 29 d. Nr. X-1735
+
+Vilnius
+
+(Žin., 2006, Nr. [78-3056](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD))
+
+\#### 1 straipsnis. 8 straipsnio papildymas 15 dalimi
+
+Papildyti 8 straipsnį 15 dalimi:
+
+„15. Sveikatos apsaugos ministerija arba jos įgaliota institucija:
+
+1) organizuoja ir koordinuoja Lietuvos gyventojų aprūpinimą būtiniausiais vaistiniais preparatais, teisinėmis bei organizacinėmis priemonėmis reguliuoja ir užtikrina nenutrūkstamą kokybiškų, saugių, efektyvių ir būtinų vaistinių preparatų tiekimą į šalies vaistines;
+
+2) griežtai stebi, kaip vaistinio preparato rinkodaros teisės turėtojai atlieka savo pareigas nenutrūkstamai tiekti gyvybiškai būtinus vaistinius preparatus, užtikrina jų atsakomybę atitinkamais teisės aktais.“
+
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+
+RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+
+_________________

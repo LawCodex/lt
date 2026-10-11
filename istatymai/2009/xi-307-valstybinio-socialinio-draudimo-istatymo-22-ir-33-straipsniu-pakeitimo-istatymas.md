@@ -1,0 +1,221 @@
+---
+title: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymas"
+identifier: "TAR.F8FDB5578B69"
+number: "XI-307"
+type: act
+jurisdiction: lt
+language: lt
+date: 2009-06-18
+in_force_from: 2009-06-30
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F8FDB5578B69"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F8FDB5578B69.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymas
+
+Įstatymas
+
+skelbtas: Žin., 2009, Nr. 77-3171
+
+Neoficialus
+
+įstatymo tekstas
+
+LIETUVOS RESPUBLIKOS
+
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 22 IR 33 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2009 m. birželio 18 d. Nr. XI-307
+
+Vilnius
+
+(Žin., 1991, Nr.
+
+17-447; 2004, Nr.
+
+171-6295; 2005,
+
+Nr. 144-5236)
+
+1
+
+straipsnis. 22 straipsnio 1 dalies pakeitimas
+
+Pakeisti 22
+
+straipsnio 1 dalį ir ją išdėstyti taip:
+
+„1. Fondo
+
+valdyba gautas nedarbo socialinio draudimo įmokas, taip pat papildomai
+
+išieškotas nedarbo socialinio draudimo įmokas Valstybinio socialinio draudimo
+
+fondo biudžeto sudarymo ir vykdymo taisyklėse nustatytais terminais ir tvarka
+
+perveda į Užimtumo fondo sąskaitą.“
+
+## 2 straipsnis. 33 straipsnio pakeitimas
+
+1. Pakeisti 33
+
+straipsnį ir jį išdėstyti taip:
+
+„33
+
+straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
+
+Lietuvos darbo
+
+birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir
+
+socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis
+
+lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo
+
+nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti ir
+
+vykdo jų panaudojimo kontrolę.“
+
+2. Pakeisti 33
+
+straipsnį ir jį išdėstyti taip:
+
+,,33
+
+straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
+
+Lietuvos darbo
+
+birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir
+
+socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis
+
+lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo
+
+nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms
+
+teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir
+
+vykdo jų panaudojimo kontrolę.“
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-2303,
+
+2012-10-17, Žin., 2012, Nr. 127-6392 (2012-11-03)
+
+Nr. XII-125,
+
+2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
+
+## 3 straipsnis. Įstatymo įsigaliojimas
+
+1. Šio įstatymo
+
+## 1 straipsnis. įsigalioja 2009 m. rugpjūčio 1 d.
+
+2. Šio įstatymo
+
+2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2014 m.
+
+gruodžio 31 d.
+
+3. Šio įstatymo
+
+2 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XII-125,
+
+2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
+
+Nr. XII-668,
+
+2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
+
+4
+
+straipsnis. Baigiamosios nuostatos
+
+Šio įstatymo 1
+
+straipsnyje nurodytos nedarbo socialinio draudimo įmokos pervedamos už
+
+laikotarpį iki 2012 m. gruodžio 31 d.
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS VALDAS
+
+ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-2303, 2012-10-17,
+
+Žin., 2012, Nr. 127-6392 (2012-11-03)
+
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+
+22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-125,
+
+2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
+
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+
+22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-668,
+
+2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
+
+LIETUVOS RESPUBLIKOS VALSTYBINIO
+
+SOCIALINIO DRAUDIMO ĮSTATYMO 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2014-01-02)
+
+ausrine.trapinskiene@lrs.lt
