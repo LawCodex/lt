@@ -1,0 +1,88 @@
+---
+title: "Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymas"
+identifier: "640ddbf00d4011ebb74de75171d26d52"
+number: "XIII-3310"
+type: act
+jurisdiction: lt
+language: lt
+date: 2020-10-01
+in_force_from: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/640ddbf00d4011ebb74de75171d26d52"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.640DDBF00D40.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2023-01-01
+
+Įstatymas paskelbtas: TAR 2020-10-13, i. k. 2020-21248
+
+LIETUVOS RESPUBLIKOS
+
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO NR. I-1113 III SKYRIAUS PAVADINIMO, 11, 13 IR 14 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2020 m. spalio 1 d. Nr. XIII-3310
+
+Vilnius
+
+## 1 straipsnis. III skyriaus pavadinimo pakeitimas
+
+Pakeisti III skyriaus pavadinimą ir jį išdėstyti taip:
+
+„III SKYRIUS
+
+BIUDŽETINĖS ĮSTAIGOS TURTAS. ATSKAITOMYBĖ IR AUDITAS“.
+
+## 2 straipsnis. 11 straipsnio pakeitimas
+
+Pakeisti 11 straipsnį ir jį išdėstyti taip:
+
+„11 straipsnis. Biudžetinės įstaigos atskaitomybė
+
+Biudžetinės įstaigos atskaitomybę reglamentuoja Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas.“
+
+## 3 straipsnis. 13 straipsnio pakeitimas
+
+Pakeisti 13 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
+
+„3) kur ir kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, įstatais, pertvarkomos biudžetinės įstaigos paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais.“
+
+## 4 straipsnis. 14 straipsnio pakeitimas
+
+1. Pakeisti 14 straipsnio 7 dalies 2 punktą ir jį išdėstyti taip:
+
+„2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, reorganizavime dalyvaujančių biudžetinių įstaigų paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais.“
+
+2. Pakeisti 14 straipsnio 10 dalį ir ją išdėstyti taip:
+
+„10. Reorganizuojamos biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją įvykdyti prieš terminą, taip pat atlyginti nuostolius, jeigu tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jeigu kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių biudžetinių įstaigų paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais. Kiekvienas biudžetinės įstaigos kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.“
+
+## 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
+
+1. Šis įstatymas įsigalioja 2023 m. sausio 1 d.
+
+2. Šis įstatymas taikomas rengiant 2023 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2023 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos biudžetinių įstaigų įstatymo nuostatos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-843, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27742
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-843, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27742
+
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymo Nr. XIII-3310 5 straipsnio pakeitimo įstatymas

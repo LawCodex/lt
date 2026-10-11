@@ -1,0 +1,53 @@
+---
+title: "Lietuvos Respublikos įstatymo „Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“ Nr. VIII-1021 1 ir 3 straipsnių pakeitimo įstatymas"
+identifier: "275071300a9c11e9a5eaf2cd290f1944"
+number: "XIII-1829"
+type: act
+jurisdiction: lt
+language: lt
+date: 2018-12-20
+in_force_from: 2019-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/275071300a9c11e9a5eaf2cd290f1944"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.275071300A9C.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos įstatymo „Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“ Nr. VIII-1021 1 ir 3 straipsnių pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO „DĖL LIETUVOS LAISVĖS KOVOS SĄJŪDŽIO TARYBOS 1949 M. VASARIO 16 D. DEKLARACIJOS“ NR. VIII-1021 1 IR 3 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2018 m. gruodžio 20 d. Nr. XIII-1829
+
+Vilnius
+
+## 1 straipsnis. 1 straipsnio pakeitimas
+
+Pakeisti 1 straipsnį ir jį išdėstyti taip:
+
+„1 straipsnis. Įstatymo paskirtis
+
+Šis įstatymas nustato Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos statusą Lietuvos Respublikos teisės sistemoje ir apibrėžia jos reikšmingų sukakčių minėjimo eigą.“
+
+## 2 straipsnis. 3 straipsnio pakeitimas
+
+Pakeisti 3 straipsnį ir jį išdėstyti taip:
+
+„3 straipsnis. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija
+
+1. 1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija yra Lietuvos valstybės teisės aktas.
+
+2. Minint reikšmingas 1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracijos pasirašymo sukaktis, Lietuvos Respublikos Vyriausybė parengia Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracijos pasirašymo sukakties minėjimo veiksmų planą ir valstybės biudžete numato lėšas parengtam veiksmų planui įgyvendinti. Reikšmingomis laikomos sukaktys: iki 100-ųjų metinių – kas 10 metų, nuo 100-ųjų metinių – kas 25 metai.“
+
+## 3 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2019 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė

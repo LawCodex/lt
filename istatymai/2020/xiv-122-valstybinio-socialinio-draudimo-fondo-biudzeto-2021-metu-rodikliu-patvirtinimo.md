@@ -1,0 +1,668 @@
+---
+title: "Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto 2021 metų rodiklių patvirtinimo įstatymas"
+identifier: "5c6523d049e611eb8d9fe110e148c770"
+number: "XIV-122"
+type: act
+jurisdiction: lt
+language: lt
+date: 2020-12-23
+in_force_from: 2021-01-01
+last_amended: 2021-07-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/5c6523d049e611eb8d9fe110e148c770"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5C6523D049E6.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto 2021 metų rodiklių patvirtinimo įstatymas
+
+Suvestinė redakcija nuo 2021-07-01
+
+Įstatymas paskelbtas: TAR 2020-12-29, i. k. 2020-28978
+
+LIETUVOS RESPUBLIKOS
+
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2021 METŲ RODIKLIŲ PATVIRTINIMO
+
+ĮSTATYMAS
+
+2020 m. gruodžio 23 d. Nr. XIV-122
+
+Vilnius
+
+## 1 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2021 metų pajamos, išlaidos ir planuojamas 2021 metų rezultatas
+
+Patvirtinti Valstybinio socialinio draudimo fondo 2021 metų biudžetą – 5 331 906 tūkst. eurų pajamų, 5 086 774 tūkst. eurų išlaidų (planuojamas metų rezultatas – pajamos viršija išlaidas 245 132 tūkst. eurų) (šio įstatymo 1 priedas).
+
+Straipsnio pakeitimai:
+
+Nr. XIV-434, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14793
+
+## 2 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2021 metų piniginės įplaukos ir išlaidos, kasos apyvartos lėšos
+
+Patvirtinti Valstybinio socialinio draudimo fondo biudžeto 2021 metų pinigines įplaukas, išlaidas (šio įstatymo 2 priedas) ir 211 239 tūkst. eurų kasos apyvartos lėšų.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-434, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14793
+
+## 3 straipsnis. Valstybinio socialinio draudimo įmokų tarifai ir Valstybinio socialinio draudimo fondo veiklos sąnaudų kompensacijų dydžiai 2021 metais
+
+1. Patvirtinti draudėjų nedarbo socialinio draudimo įmokos tarifą – 1,31 procento (terminuotoms darbo sutartims – 2,03 procento).
+
+2. Patvirtinti šalies bendrąjį nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokos tarifą – 0,16 procento.
+
+3. Patvirtinti keturias nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokų tarifo grupes ir šioms grupėms priskirtų draudėjų mokamų nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokų tarifus:
+
+1) I grupė – 0,14 procento;
+
+2) II grupė – 0,47 procento;
+
+3) III grupė – 0,7 procento;
+
+4) IV grupė – 1,4 procento.
+
+4. Patvirtinti apdraustųjų asmenų bendrąjį pensijų, ligos, motinystės socialinio draudimo įmokų tarifą – 12,52 procento ir jo dydžius atskiroms valstybinio socialinio draudimo rūšims:
+
+1) pensijų socialiniam draudimui – 8,72 procento;
+
+2) ligos socialiniam draudimui – 2,09 procento;
+
+3) motinystės socialiniam draudimui – 1,71 procento.
+
+5. Patvirtinti savarankiškai dirbančių asmenų pensijų, ligos, motinystės, nedarbo socialinio draudimo įmokų tarifus:
+
+1) pensijų socialiniam draudimui – 8,72 procento;
+
+2) ligos socialiniam draudimui – 2,09 procento;
+
+3) motinystės socialiniam draudimui – 1,71 procento;
+
+4) nedarbo socialiniam draudimui – 1,31 procento.
+
+6. Patvirtinti valstybinio socialinio draudimo įmokų tarifus asmenų draudimui Lietuvos Respublikos valstybės biudžeto lėšomis:
+
+1) pensijų socialiniam draudimui – 8,72 procento;
+
+2) ligos socialiniam draudimui – 2,09 procento;
+
+3) motinystės socialiniam draudimui – 1,71 procento;
+
+4) nedarbo socialiniam draudimui – 1,31 procento;
+
+5) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui taikomi šio straipsnio 3 dalyje nustatyti tarifai.
+
+7. Patvirtinti Valstybinio socialinio draudimo fondo (toliau – Fondas) veiklos sąnaudų kompensacijos už išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto, skyrimą, mokėjimą, pristatymą ir išieškojimą dydį – 1,4 procento nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos.
+
+8. Patvirtinti Fondo veiklos sąnaudų kompensacijos už pensijų kaupimo dalyvio lėšomis mokamų įmokų surinkimą ir pervedimą pensijų kaupimo bendrovėms dydį – 0,13 procento nuo surinktų ir pervestų įmokų sumos (ne daugiau negu 427 tūkst. eurų).
+
+9. Patvirtinti Fondo veiklos sąnaudų kompensacijos už papildomai iš valstybės biudžeto lėšų mokamų įmokų pervedimą pensijų kaupimo bendrovėms dydį – 0,09 procento nuo pervestų įmokų sumos (ne daugiau negu 135 tūkst. eurų).
+
+10. Patvirtinti Fondo veiklos sąnaudų kompensacijos už sveikatos draudimo įmokų surinkimą ir pervedimą į Privalomojo sveikatos draudimo fondą dydį – 0,13 procento nuo surinktų ir pervestų (tarpusavyje įskaitytų) įmokų sumos (ne daugiau negu 2 019 tūkst. eurų).
+
+11. Patvirtinti Fondo veiklos sąnaudų kompensacijos už įmokų surinkimą ir pervedimą į Garantinį fondą dydį – 0,31 procento nuo surinktų ir pervestų įmokų sumos (ne daugiau negu 81 tūkst. eurų).
+
+12. Patvirtinti Fondo veiklos sąnaudų kompensacijos už įmokų surinkimą ir pervedimą į Ilgalaikio darbo išmokų fondą dydį – 0,31 procento nuo surinktų ir pervestų įmokų sumos (ne daugiau negu 81 tūkst. eurų).
+
+## 4 straipsnis. Vidutinis šalies darbo užmokestis, taikomas apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti
+
+Patvirtinti vidutinio šalies darbo užmokesčio, taikomo apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, dydį – 1 352,7 euro.
+
+## 5 straipsnis. Asignavimai iš valstybės biudžeto
+
+Skirti 2021 metais asignavimus iš valstybės biudžeto šioms išlaidoms padengti:
+
+1) 2 159 832 tūkst. eurų bendrajai socialinio draudimo pensijos daliai kompensuoti, iš jų 40 709 tūkst. eurų – 2019 metų įsipareigojimui padengti;
+
+2) 60 000 tūkst. eurų ligos išmokų mokėjimo išlaidoms, padidėjusioms dėl nepalankios epideminės COVID-19 ligos (koronaviruso infekcijos) situacijos, kompensuoti.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-434, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14793
+
+## 6 straipsnis. Socialinio draudimo pensijų indeksavimo koeficientai ir socialinio draudimo pensijų dydžių mato rodikliai 2021 metais
+
+Patvirtinti šiuos socialinio draudimo pensijų indeksavimo koeficientus ir socialinio draudimo pensijų dydžių mato rodiklius:
+
+1) pensijų indeksavimo koeficientą – 1,0958;
+
+2) bazinės pensijos dydį – 198,29 euro;
+
+3) našlių pensijos bazinį dydį – 28,63 euro;
+
+4) pensijų apskaitos vieneto vertės dydį – 4,17 euro.
+
+## 7 straipsnis. Fondo biudžeto laikino lėšų trūkumo dengimas
+
+Lėšų, reikalingų valstybinio socialinio draudimo išmokoms, trūkumas dengiamas skolintomis lėšomis arba Lietuvos Respublikos Vyriausybės sprendimu – iš kitų šaltinių.
+
+## 8 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2021 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda
+
+Lietuvos Respublikos
+
+valstybinio socialinio draudimo
+
+fondo biudžeto 2021 metų rodiklių
+
+patvirtinimo įstatymo
+
+1 priedas
+
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO
+
+2021 METŲ BIUDŽETAS
+
+Tūkst. Eur
+
+1. Pajamos
+
+5 331 906
+
+1.1. Draudėjų valstybinio socialinio draudimo įmokos
+
+359 166
+
+1.2. Apdraustųjų valstybinio socialinio draudimo įmokos
+
+2 685 759
+
+1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
+
+93 916
+
+1.4. Valstybinio savanoriškojo socialinio draudimo įmokos
+
+1
+
+1.5. Delspinigiai, palūkanos ir baudos
+
+1 135
+
+1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto
+
+2 179 123
+
+1.6.1. Asignavimai iš Lietuvos Respublikos valstybės biudžeto socialinio draudimo pagrindinei (bendrajai) pensijos daliai kompensuoti
+
+2 119 123
+
+1.6.2. Kiti asignavimai iš Lietuvos Respublikos valstybės biudžeto
+
+60 000
+
+1.7. Veiklos pajamos ir iš įtraukto į Fondo apskaitą turto gaunamos pajamos
+
+12 806
+
+1.8. Europos Sąjungos institucijų pensijų sistemoje įgytos pensinės teisės
+
+0
+
+1.9. Iš pensijų fondų grąžintos lėšos
+
+0
+
+2. Išlaidos
+
+5 086 774
+
+2.1. Pensijų socialiniam draudimui
+
+3 817 139
+
+2.2. Ligos socialiniam draudimui
+
+431 123
+
+2.3. Motinystės socialiniam draudimui
+
+380 069
+
+2.4. Nedarbo socialiniam draudimui
+
+314 144
+
+2.4.1. Nedarbo draudimo išmokoms
+
+314 144
+
+2.4.2. Dalinio darbo išmokoms
+
+0
+
+2.5. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui
+
+29 146
+
+2.7. Neatgautinos ir abejotinai atgautinos sumos
+
+20 000
+
+2.8. Veiklos sąnaudos
+
+95 153
+
+2.8.1. Fondo administravimo įstaigų finansavimo sąnaudos
+
+87 731
+
+2.8.2. Ilgalaikio turto nusidėvėjimas (amortizacija)
+
+4 600
+
+2.8.3. Kitos Fondo veiklos sąnaudos
+
+2 822
+
+3. Einamųjų metų rezultatas
+
+245 132
+
+Priedo pakeitimai:
+
+Nr. XIV-434, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14793
+
+Lietuvos Respublikos
+
+valstybinio socialinio draudimo
+
+fondo biudžeto 2021 metų rodiklių
+
+patvirtinimo įstatymo
+
+2 priedas
+
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2021 METŲ
+
+PINIGINĖS ĮPLAUKOS IR IŠLAIDOS
+
+Tūkst. Eur
+
+1. Įprastinė veikla
+
+213 242
+
+1.1. Įprastinė Fondo veikla
+
+213 242
+
+1.1.1. Pinigų įplaukos
+
+5 273 335
+
+1.1.1.1. Draudėjų valstybinio socialinio draudimo įmokos
+
+348 768
+
+1.1.1.1.4. Nedarbo socialiniam draudimui
+
+271 528
+
+1.1.1.1.5. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui
+
+33 170
+
+1.1.1.1.6. Pensijų ir nedarbo socialiniam draudimui valstybės lėšomis
+
+42 479
+
+1.1.1.1.6.1. Pensijų socialiniam draudimui valstybės lėšomis
+
+37 042
+
+1.1.1.1.6.2. Nedarbo socialiniam draudimui valstybės lėšomis
+
+5 437
+
+1.1.1.1.7. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui valstybės lėšomis
+
+47
+
+1.1.1.1.8. Pensijų, ligos ir motinystės socialiniam draudimui valstybės lėšomis
+
+1 544
+
+1.1.1.1.8.1. Pensijų socialiniam draudimui valstybės lėšomis
+
+1 075
+
+1.1.1.1.8.2. Ligos socialiniam draudimui valstybės lėšomis
+
+258
+
+1.1.1.1.8.3. Motinystės socialiniam draudimui valstybės lėšomis
+
+211
+
+1.1.1.2. Apdraustųjų valstybinio socialinio draudimo įmokos
+
+2 597 129
+
+1.1.1.2.1. Pensijų socialiniam draudimui
+
+1 809 580
+
+1.1.1.2.2. Ligos socialiniam draudimui
+
+432 942
+
+1.1.1.2.3. Motinystės socialiniam draudimui
+
+354 607
+
+1.1.1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
+
+93 916
+
+1.1.1.3.1. Pensijų socialiniam draudimui
+
+74 479
+
+1.1.1.3.2. Ligos socialiniam draudimui
+
+10 596
+
+1.1.1.3.3. Motinystės socialiniam draudimui
+
+8 387
+
+1.1.1.3.4. Nedarbo socialiniam draudimui
+
+454
+
+1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos
+
+1
+
+1.1.1.5. Delspinigiai, palūkanos ir baudos
+
+908
+
+1.1.1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto
+
+2 219 832
+
+1.1.1.6.1. Asignavimai iš Lietuvos Respublikos valstybės biudžeto socialinio draudimo pagrindinei (bendrajai) pensijos daliai kompensuoti
+
+2 159 832
+
+1.1.1.6.2. Kiti asignavimai iš Lietuvos Respublikos valstybės biudžeto
+
+60 000
+
+1.1.1.7. Veiklos pajamos ir iš įtraukto į Fondo apskaitą turto gaunamos pajamų įplaukos
+
+12 781
+
+1.1.1.7.1. Fondo veiklos sąnaudų kompensavimas už surinktas ir pervestas įmokas, už išmokų skyrimą ir mokėjimą
+
+8 581
+
+1.1.1.7.1.1. Pensijų fondai
+
+556
+
+1.1.1.7.1.3. Privalomojo sveikatos draudimo fondas
+
+2 021
+
+1.1.1.7.1.4. Garantinis fondas
+
+217
+
+1.1.1.7.1.5. Ilgalaikio darbo išmokų fondas
+
+163
+
+1.1.1.7.1.6. Kitos kompensavimo sumos
+
+5 624
+
+1.1.1.7.2. Kitos veiklos pajamos
+
+4 200
+
+1.1.1.8. Iš Rezervo fondo gautos lėšos
+
+0
+
+1.1.1.9. Europos Sąjungos institucijų pensijų sistemoje įgytos pensinės teisės
+
+0
+
+1.1.1.10. Iš pensijų fondų grąžintos lėšos
+
+0
+
+1.1.2. Pinigų išlaidos
+
+−5 060 093
+
+1.1.2.1. Pensijų socialiniam draudimui
+
+−3 816 693
+
+1.1.2.2. Ligos socialiniam draudimui
+
+−430 162
+
+1.1.2.3. Motinystės socialiniam draudimui
+
+−379 511
+
+1.1.2.4. Nedarbo socialiniam draudimui
+
+−313 956
+
+1.1.2.4.1. Nedarbo draudimo išmokoms
+
+−313 956
+
+1.1.2.4.2. Dalinio darbo išmokoms
+
+0
+
+1.1.2.5. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui
+
+−29 219
+
+1.1.2.6. Lėšos, pervedamos į pensijų fondus
+
+0
+
+1.1.2.7. Fondo administravimo įstaigų finansavimas
+
+−87 731
+
+1.1.2.8. Kitos Fondo veiklos sąnaudos
+
+−2 821
+
+1.2. Kita Fondui pavesta veikla
+
+0
+
+1.2.1. Pinigų įplaukos
+
+2 530 762
+
+1.2.1.1. Lietuvos Respublikos valstybės biudžeto lėšos, skirtos išmokoms finansuoti
+
+374 459
+
+1.2.1.2. Sveikatos draudimo lėšos
+
+1 606 935
+
+1.2.1.3. Pensijų kaupimo dalyvių mokamos papildomos kaupiamosios pensijų įmokos
+
+336 101
+
+1.2.1.4. Iš Lietuvos Respublikos valstybės biudžeto lėšų už pensijų kaupimo dalyvį mokamos papildomos kaupiamosios pensijų įmokos
+
+158 997
+
+1.2.1.5. Garantinio fondo lėšos
+
+27 135
+
+1.2.1.6. Ilgalaikio darbo išmokų fondo lėšos
+
+27 135
+
+1.2.1.7. Kitos piniginės įplaukos
+
+0
+
+1.2.2. Piniginės išlaidos
+
+−2 530 762
+
+1.2.2.1. Lietuvos Respublikos valstybės biudžeto išmokos
+
+−374 459
+
+1.2.2.2. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą
+
+−1 606 935
+
+1.2.2.3. Pervedamos pensijų kaupimo dalyvių mokamos kaupiamosios pensijų įmokos
+
+−336 101
+
+1.2.2.4. Pervedamos iš Lietuvos Respublikos valstybės biudžeto lėšų už pensijų kaupimo dalyvį mokamos kaupiamosios pensijų įmokos
+
+−158 997
+
+1.2.2.5. Garantinio fondo lėšos
+
+−27 135
+
+1.2.2.6. Ilgalaikio darbo išmokų fondo lėšos
+
+−27 135
+
+1.2.2.7. Kitos piniginės išlaidos
+
+0
+
+2. Investicinė veikla
+
+−9 537
+
+2.1. Išlaidos nematerialiajam turtui įsigyti
+
+−8 765
+
+2.2. Įplaukos, gautos pardavus nematerialųjį turtą
+
+0
+
+2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti
+
+−872
+
+2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą
+
+100
+
+2.5. Išlaidos akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti
+
+0
+
+2.6. Įplaukos, gautos pardavus akcijas, obligacijas, kitus vertybinius popierius
+
+0
+
+3. Finansinė veikla
+
+0
+
+3.1. Gautos trumpalaikės paskolos
+
+0
+
+3.2. Grąžintos trumpalaikės paskolos
+
+0
+
+3.3. Gautos ilgalaikės paskolos
+
+0
+
+3.4. Grąžintos ilgalaikės paskolos
+
+0
+
+3.5. Įsipareigojimų pagal finansinės nuomos (lizingo) sutartis padengimas
+
+0
+
+4. Grynųjų pinigų ir jų ekvivalentų pokytis
+
+203 705
+
+5. Grynųjų pinigų ir jų ekvivalentų cirkuliacija
+
+0
+
+5.1. Metų pradžioje
+
+1 032 506
+
+5.1.1. Rezervinio fondo lėšos
+
+0
+
+5.1.2. Kitos lėšos
+
+1 032 506
+
+5.2. Pokytis
+
+203 705
+
+5.2.1. Rezervinio fondo lėšų
+
+781 793
+
+5.2.2. Kitų lėšų
+
+−578 088
+
+5.3. Metų pabaigoje
+
+1 236 211
+
+5.3.1. Rezervinio fondo lėšos
+
+781 793
+
+5.3.2. Kitos lėšos
+
+454 418
+
+6. Kasos apyvartos lėšos
+
+211 239
+
+Priedo pakeitimai:
+
+Nr. XIV-434, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14793
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-434, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14793
+
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2021 metų rodiklių patvirtinimo įstatymo Nr. XIV-122 1, 2, 5 straipsnių ir 1, 2 priedų pakeitimo įstatymas

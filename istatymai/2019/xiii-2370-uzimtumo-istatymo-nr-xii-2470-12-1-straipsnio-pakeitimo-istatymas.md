@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12-1 straipsnio pakeitimo įstatymas"
+identifier: "7b7687b0b1c511e98451fa7b5933515d"
+number: "XIII-2370"
+type: act
+jurisdiction: lt
+language: lt
+date: 2019-07-16
+in_force_from: 2019-08-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/7b7687b0b1c511e98451fa7b5933515d"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7B7687B0B1C5.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12-1 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+UŽIMTUMO ĮSTATYMO NR. XII-2470 121 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+2019 m. liepos 16 d. Nr. XIII-2370
+
+Vilnius
+
+## 1 straipsnis. 121 straipsnio pakeitimas
+
+Pakeisti 121 straipsnio 1 dalį ir ją išdėstyti taip:
+
+„1. Užimtumo ir darbo rinkos stebėsenos paskirtis – sudaryti sąlygas užimtumo rėmimo politikos subjektams priimti pagrįstus sprendimus. Užimtumo stebėseną, nurodytą šio straipsnio 2 dalyje, atlieka Vyriausybės strateginės analizės centras Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Darbo rinkos stebėseną atlieka užimtumo rėmimo politiką formuojančios, jos įgyvendinimą organizuojančios, koordinuojančios ir kontroliuojančios valstybės institucijos ir šią politiką įgyvendinančios institucijos ir įstaigos, nurodytos šio įstatymo 13 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose.“
+
+## 2 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2019 m. rugpjūčio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda

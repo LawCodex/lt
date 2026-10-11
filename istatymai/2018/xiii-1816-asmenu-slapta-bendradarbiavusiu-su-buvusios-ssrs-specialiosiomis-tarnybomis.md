@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 9 straipsnio pakeitimo įstatymas"
+identifier: "ff6574200a9311e9a5eaf2cd290f1944"
+number: "XIII-1816"
+type: act
+jurisdiction: lt
+language: lt
+date: 2018-12-20
+in_force_from: 2019-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/ff6574200a9311e9a5eaf2cd290f1944"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FF6574200A93.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 9 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+ASMENŲ, SLAPTA BENDRADARBIAVUSIŲ SU BUVUSIOS SSRS SPECIALIOSIOMIS TARNYBOMIS, REGISTRACIJOS, PRISIPAŽINIMO, ĮSKAITOS IR PRISIPAŽINUSIŲJŲ APSAUGOS ĮSTATYMO NR. VIII-1436 9 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+2018 m. gruodžio 20 d. Nr. XIII-1816
+
+Vilnius
+
+## 1 straipsnis. 9 straipsnio pakeitimas
+
+Pakeisti 9 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
+
+„3) eiti valstybės tarnautojo pareigų krašto apsaugos sistemoje, atlikti tikrosios karo tarnybos;“.
+
+## 2 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2019 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė

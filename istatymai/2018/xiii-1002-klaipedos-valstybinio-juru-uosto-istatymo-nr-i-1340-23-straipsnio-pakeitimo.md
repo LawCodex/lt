@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 23 straipsnio pakeitimo įstatymas"
+identifier: "7aa35220004411e88bcec397524184ce"
+number: "XIII-1002"
+type: act
+jurisdiction: lt
+language: lt
+date: 2018-01-12
+in_force_from: 2018-03-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/7aa35220004411e88bcec397524184ce"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7AA352200044.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 23 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO NR. I-1340 23 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+2018 m. sausio 12 d. Nr. XIII-1002
+
+Vilnius
+
+## 1 straipsnis. 23 straipsnio pakeitimas
+
+Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
+
+„1. Uosto direkcija uosto žemę gali išnuomoti tik viešosios procedūros tvarka, išskyrus atvejus, kai uosto žemė išnuomojama uosto žemėje veiklą vykdančioms pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbioms įmonėms, nuosavybės teise valdančioms statinius uosto žemėje ar patikėjimo teise valdančioms valstybės ar savivaldybės joms perduotus statinius uosto žemėje, tokių statinių tiesioginei paskirčiai, ar įmonėms, valdančioms nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą, esančius uosto žemėje, tokių įrenginių ir turto tiesioginei paskirčiai, kaip tai apibrėžta Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme.“
+
+## 2 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2018 m. kovo 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė

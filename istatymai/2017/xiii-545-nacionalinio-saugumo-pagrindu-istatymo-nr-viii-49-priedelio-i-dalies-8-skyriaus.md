@@ -1,0 +1,47 @@
+---
+title: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio I dalies 8 skyriaus ir III dalies 18 skyriaus pakeitimo įstatymas"
+identifier: "f39727d0663c11e7b85cfdc787069b42"
+number: "XIII-545"
+type: act
+jurisdiction: lt
+language: lt
+date: 2017-06-29
+in_force_from: 2018-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/f39727d0663c11e7b85cfdc787069b42"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F39727D0663C.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio I dalies 8 skyriaus ir III dalies 18 skyriaus pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO NR. VIII-49 PRIEDĖLIO I DALIES 8 SKYRIAUS IR III DALIES 18 SKYRIAUS PAKEITIMO
+
+ĮSTATYMAS
+
+2017 m. birželio 29 d. Nr. XIII-545
+
+Vilnius
+
+## 1 straipsnis. Įstatymo priedėlio I dalies 8 skyriaus pakeitimas
+
+Pakeisti Įstatymo priedėlio I dalies 8 skyriaus šeštąją pastraipą ir ją išdėstyti taip:
+
+„Sprendimus dėl kariuomenės aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė. Apie įsigijimų planus ir numatomą priimti sprendimą dėl naujo įsigijimo projekto, kurio vertė viršija 20 mln. Eur, krašto apsaugos ministras informuoja Seimo Nacionalinio saugumo ir gynybos komitetą.“
+
+## 2 straipsnis. Įstatymo priedėlio III dalies 18 skyriaus pakeitimas
+
+Pakeisti Įstatymo priedėlio III dalies 18 skyriaus pirmąją pastraipą ir ją išdėstyti taip:
+
+„Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Generolo Jono Žemaičio Lietuvos karo akademija, puskarininkių mokykla ir kitos karo mokymo įstaigos, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos, gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo bei kitos krašto apsaugos ministrui pavaldžios institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir teisės aktai.“
+
+## 3 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2018 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė

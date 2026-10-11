@@ -1,0 +1,90 @@
+---
+title: "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 straipsnių pakeitimo įstatymas"
+identifier: "163f6c700d4211ebb74de75171d26d52"
+number: "XIII-3315"
+type: act
+jurisdiction: lt
+language: lt
+date: 2020-10-01
+in_force_from: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/163f6c700d4211ebb74de75171d26d52"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.163F6C700D42.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 straipsnių pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2023-01-01
+
+Įstatymas paskelbtas: TAR 2020-10-13, i. k. 2020-21253
+
+LIETUVOS RESPUBLIKOS
+
+SVEIKATOS DRAUDIMO ĮSTATYMO NR. I-1343 131, 28, 30 IR 35 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2020 m. spalio 1 d. Nr. XIII-3315
+
+Vilnius
+
+## 1 straipsnis. 131 straipsnio pakeitimas
+
+Pakeisti 131 straipsnį ir jį išdėstyti taip:
+
+„131 straipsnis. Privalomojo sveikatos draudimo fondo ataskaitų rinkiniai
+
+1. Privalomojo sveikatos draudimo fondo ataskaitų rinkinių sudėtį, šių rinkinių rengimo, pasirašymo, teikimo, skelbimo ir audito reikalavimus reglamentuoja Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas.
+
+2. Privalomojo sveikatos draudimo fondo ataskaitų rinkinius rengia Valstybinė ligonių kasa.
+
+3. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinį kartu su Privalomojo sveikatos draudimo tarybos išvada teikia Sveikatos apsaugos ministerijai.“
+
+## 2 straipsnis. 28 straipsnio pakeitimas
+
+Pakeisti 28 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
+
+„3) teikia išvadą dėl Privalomojo sveikatos draudimo fondo biudžeto projekto, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio;“.
+
+## 3 straipsnis. 30 straipsnio pakeitimas
+
+Pakeisti 30 straipsnio 1 punktą ir jį išdėstyti taip:
+
+„1) rengia Privalomojo sveikatos draudimo fondo biudžeto projektą, Privalomojo sveikatos draudimo fondo ataskaitų rinkinius, vykdo Privalomojo sveikatos draudimo fondo biudžetą;“.
+
+## 4 straipsnis. 35 straipsnio pakeitimas
+
+1. Pakeisti 35 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
+
+„6) įvertina teritorinės ligonių kasos direktoriaus pateiktą teritorinės ligonių kasos metinių ataskaitų rinkinį ir jam pritaria ne vėliau kaip einamųjų metų balandžio 1 dieną;“.
+
+2. Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:
+
+„3. Teritorinės ligonių kasos stebėtojų taryba turi teisę organizuoti teritorinės ligonių kasos ataskaitų rinkinių auditą. Auditas apmokamas iš teritorinės ligonių kasos valdymui skirtų lėšų. Teritorinės ligonių kasos stebėtojų taryba taip pat turi teisę nemokamai gauti sveikatos priežiūros įstaigų, su kuriomis teritorinė ligonių kasa yra sudariusi sutartis, veiklos ekonominio-finansinio bei medicininio audito duomenis.“
+
+## 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
+
+1. Šis įstatymas įsigalioja 2023 m. sausio 1 d.
+
+2. Šis įstatymas taikomas rengiant 2024 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2024 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos sveikatos draudimo įstatymo nuostatos.
+
+Straipsnio pakeitimai:
+
+Nr. XIV-849, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27749
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-849, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27749
+
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 straipsnių pakeitimo įstatymo Nr. XIII-3315 5 straipsnio pakeitimo įstatymas

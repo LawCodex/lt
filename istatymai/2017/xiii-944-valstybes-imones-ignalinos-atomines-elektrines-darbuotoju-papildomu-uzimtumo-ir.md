@@ -1,0 +1,47 @@
+---
+title: "Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir 5 straipsnių pakeitimo įstatymas"
+identifier: "9e82f630ec6e11e78a1adea6fe72f3c5"
+number: "XIII-944"
+type: act
+jurisdiction: lt
+language: lt
+date: 2017-12-21
+in_force_from: 2018-10-01
+status: in_force
+issuer: "Lietuvos Respublikos Seimas"
+source: "https://www.e-tar.lt/portal/lt/legalAct/9e82f630ec6e11e78a1adea6fe72f3c5"
+text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9E82F630EC6E.md"
+text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+retrieved: 2026-10-12
+---
+# Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir 5 straipsnių pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+VALSTYBĖS ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS DARBUOTOJŲ PAPILDOMŲ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ ĮSTATYMO NR. IX-1541 4 IR 5 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2017 m. gruodžio 21 d. Nr. XIII-944
+
+Vilnius
+
+## 1 straipsnis. 4 straipsnio pakeitimas
+
+Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
+
+„2. Atleisti iš darbo darbuotojai, įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Aktyvios darbo rinkos politikos priemonių taikymą jų užimtumui remti nustato Užimtumo įstatymas.“
+
+## 2 straipsnis. 5 straipsnio pakeitimas
+
+Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
+
+„1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę Užimtumo tarnyboje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Aktyvios darbo rinkos politikos priemonių taikymą jų užimtumui remti nustato Užimtumo įstatymas. Užimtumo tarnyboje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems darbingiems darbingo amžiaus šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatyta tvarka, o išmokama 7 straipsnyje nustatyta tvarka.“
+
+## 3 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2018 m. spalio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentė Dalia Grybauskaitė
