@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EAD6C1F8DBF8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EAD6C1F8DBF8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo 9 straipsnio pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1991, Nr. [23-593](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0); 2003, Nr. [63-2853](https://www.e-tar.lt/portal/lt/legalAct/TAR.0546D91E9C63))
 
-\#### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pagal pradinio ugdymo programą vaikas pradedamas ugdyti, kai jam tais kalendoriniais metais sueina 7 metai. Atskiru atveju vaikas, kuriam tais kalendoriniais metais sueina 7 metai ir kuriam reikalinga nuolatinė kvalifikuotų specialistų pagalba bei sveikatą tausojantis dienos režimas, tėvų (globėjų, įtėvių) prašymu, švietimo ir mokslo ministro nustatyta tvarka vienus metus gali būti ugdomas ikimokyklinio ugdymo įstaigoje ar namuose pagal jo ugdymosi poreikiams pritaikytą ugdymo programą.“
 
-\#### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Tėvų (globėjų) prašymu, vadovaujantis švietimo ir mokslo ministro patvirtinta Vaikų brandumo mokytis pagal priešmokyklinio ir pradinio ugdymo programas įvertinimo tvarka, pradinis ugdymas pradedamas teikti vienais metais anksčiau, nei nurodyta šio straipsnio 2 dalyje.“
 
-\#### 3 straipsnis. Įstatymo įgyvendinimas
+## 3 straipsnis. Įstatymo įgyvendinimas
 
 Švietimo ir mokslo ministerija iki 2007 m. rugpjūčio 1 d. parengia šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

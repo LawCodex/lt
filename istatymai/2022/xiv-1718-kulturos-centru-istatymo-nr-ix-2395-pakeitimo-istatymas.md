@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f5d9d8f0881c11ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F5D9D8F0881C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 pakeitimo įstatymas
@@ -281,5 +281,3 @@ Savivaldybių kultūros centrai ir kiti kultūros centrai:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_7717201fb08a4c8995f9a3ad908c62f6_end

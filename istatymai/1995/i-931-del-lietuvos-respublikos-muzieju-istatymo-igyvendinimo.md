@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.84810FA31DD7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.84810FA31DD7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos muziejų įstatymo įgyvendinimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS MUZIEJŲ ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Lietuvos Respublikos muziejų įstatymo 11 straipsnis įsigalioja Lietuvos Respublikos Vyriausybei patvirtinus Kultūros įstaigų registro nuostatus.
 
@@ -38,7 +38,7 @@ Pasiūlyti Lietuvos Respublikos Vyriausybei:
 
 2) iki 1995 m. gruodžio 31 d. patvirtinti respublikinių muziejų reorganizavimo į nacionalinius muziejus ir apskričių muziejus programą.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Iki 1995 m. gruodžio 31 d. respublikinių muziejų nuomojami ar kitaip naudojami pastatai ir patalpos turi būti perduoti į šių muziejų balansus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D22E9C622085"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D22E9C622085.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 77(1) straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2003, Nr. 91(1)-4106; 2004, Nr. 171-6296)
 
-\#### 1 straipsnis. 771 straipsnio pakeitimas
+## 1 straipsnis. 771 straipsnio pakeitimas
 
 Pakeisti 77^1straipsnį ir jį išdėstyti taip:
 

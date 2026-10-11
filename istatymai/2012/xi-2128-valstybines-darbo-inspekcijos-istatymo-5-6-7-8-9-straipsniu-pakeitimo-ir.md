@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.424714E938BD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.424714E938BD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 5, 6, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [102-4585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A); 2008, Nr. [137-5385](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B89D2D7AAE9), Nr. [137-5386](https://www.e-tar.lt/portal/lt/legalAct/TAR.B8CF18F9CDB1); 2009, Nr. [93-3991](https://www.e-tar.lt/portal/lt/legalAct/TAR.71F35C92101C))
 
-\#### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Administracijos padalinių ir teritoriniųskyrių (toliau – struktūriniai padaliniai) skaičius ir pavaldumas nustatomas tvirtinant Valstybinės darbo inspekcijos struktūrą. Struktūriniuose padaliniuose gali būti sektoriai, vienijantys Valstybinės darbo inspekcijos tam tikros veiklos specialistus.“
 
-\#### 2 straipsnis. 6 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 6 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 6 straipsnio 1 dalį nauju 25 punktu:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. Buvusį 6 straipsnio 25 punktą laikyti 26 punktu.
 
-\#### 3 straipsnis. 7 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
+## 3 straipsnis. 7 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „4) struktūrinių padalinių vedėjų pavaduotojus – vyriausiuosius darbo inspektorius;“.
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 8 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -74,13 +74,13 @@ Vilnius
 
 7. Buvusį 8 straipsnio 11 punktą laikyti 12 punktu.
 
-\#### 5 straipsnis. 9 straipsnio 1 dalies 3 punkto pakeitimas
+## 5 straipsnis. 9 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 9 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) gauti iš darbdaviams atstovaujančių asmenų, darbdavio įgaliotų asmenų, darbuotojų, kitų tikrinamoje darbo vietoje esančių asmenų paaiškinimus žodžiu ar raštu dėl darbo, darbuotojų saugos ir sveikatos įstatymų, kitų norminių teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą bei darbo santykius, pažeidimų ar dėl Valstybinės darbo inspekcijos nurodymų nevykdymo (jeigu nėra galimybės gauti šią informaciją vietoje, darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo kviečiamas į Valstybinės darbo inspekcijos struktūrinį padalinį);“.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 2 straipsnis ir 4 straipsnio 6 ir 7 dalys įsigalioja 2013 m. sausio 1 d.
 

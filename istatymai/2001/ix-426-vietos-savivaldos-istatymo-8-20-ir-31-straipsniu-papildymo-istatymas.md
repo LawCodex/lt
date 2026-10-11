@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.03EBC0E3CBDD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.03EBC0E3CBDD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 8, 20 ir 31 straipsnių papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A))
 
-\#### 1 straipsnis. 8 straipsnio papildymas nauju 21 punktu
+## 1 straipsnis. 8 straipsnio papildymas nauju 21 punktu
 
 1. 8 straipsnį papildyti nauju 21 punktu:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. 8 straipsnio buvusį 21 punktą laikyti 22 punktu.
 
-\#### 2 straipsnis. 20 straipsnio 6 ir 7 dalių papildymas
+## 2 straipsnis. 20 straipsnio 6 ir 7 dalių papildymas
 
 1. 20 straipsnio 6 dalyje po žodžių „išrinkto mero“ įrašyti žodžius „bei mero pavaduotojo“ ir šią dalį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „7. Po savo kadencijos pabaigos meras bei mero pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju, turi teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo tarybos nariais eitas pareigas, o kai tokios galimybės nėra, – į kitas to paties lygio ir kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos karjeros valstybės tarnautojų pareigoms. Jeigu šie asmenys iki išrinkimo tarybos nariais tokių pareigų nėjo, jiems išmokama 3 mėnesių jų vidutinio darbo užmokesčio dydžio kompensacija. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3 mėnesių, likusi neišmokėta kompensacijos dalis nemokama. Jeigu šie asmenys mero ir mero pavaduotojo pareigas ėjo mažiau kaip vienerius metus iki kadencijos pabaigos, jiems išmokama 1 mėnesio jų vidutinio darbo užmokesčio dydžio kompensacija. Nutrūkus mero bei mero pavaduotojo įgaliojimams prieš terminą, kai jiems nepasitikėjimą pareiškia ne mažiau kaip 1/3 tarybos narių ir už tokį sprendimą balsavo ne mažiau kaip 1/2 visų tarybos narių, jiems išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio kompensacija.“
 
-\#### 3 straipsnis. 31 straipsnio 3 dalies papildymas nauju 4 punktu
+## 3 straipsnis. 31 straipsnio 3 dalies papildymas nauju 4 punktu
 
 1. Papildyti 31 straipsnio 3 dalį nauju 4 punktu:
 
@@ -54,7 +54,7 @@ Vilnius
 
 2. 31 straipsnio 3 dalies buvusį 4 punktą laikyti 5 punktu.
 
-\#### 4 straipsnis. Šio įstatymo 1 ir 3 straipsnių galiojimo laikas
+## 4 straipsnis. Šio įstatymo 1 ir 3 straipsnių galiojimo laikas
 
 Šio įstatymo 1 ir 3 straipsniai galioja iki Gyvenamosios vietos deklaravimo įstatymo įsigaliojimo.
 

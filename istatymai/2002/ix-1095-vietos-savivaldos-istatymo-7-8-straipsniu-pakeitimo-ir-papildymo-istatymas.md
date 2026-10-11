@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.31FC2C50CC5D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.31FC2C50CC5D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 2001, Nr.64-2323, Nr. 99-3519, Nr. 110-3984)
 
-\#### 1 straipsnis. 7 straipsnio 3 punkto pakeitimas
+## 1 straipsnis. 7 straipsnio 3 punkto pakeitimas
 
 Pakeisti 7 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3)savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi bendrojo lavinimo ar kitokioje švietimo sistemos mokykloje užtikrinimas;“.
 
-\#### 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
 
 8 straipsnį papildyti nauju 22 punktu, buvusius 22, 23, 24, 25, 26, 27, 28, 29 punktus laikyti atitinkamai 23, 24, 25, 26, 27, 28, 29, 30 punktais ir visą straipsnį išdėstyti taip:
 
@@ -104,11 +104,11 @@ Valstybinės (perduotos savivaldybėms) funkcijos yra:
 
 30) Žemės ūkio bendrovių įstatymo vykdymo priežiūra ir kitos įstatymų perduotos funkcijos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 
-\#### 4 straipsnis. Pasiūlymas Vyriausybei
+## 4 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė, rengdama 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, nustatyta tvarka numato specialiąsias tikslines dotacijas savivaldybėms valstybinės (perduotos savivaldybėms) funkcijos vaikų ir jaunimo teisių apsaugos srityje įgyvendinimui.
 

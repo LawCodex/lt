@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.498789873681"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.498789873681.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bankų įstatymo 1, 2, 4, 14, 40, 48, 49, 85 straipsnių ir priedo pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2004, Nr. [54-1832](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A); 2005, Nr. [84-3110](https://www.e-tar.lt/portal/lt/legalAct/TAR.011268BD3F38); 2007, Nr. [12-499](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CC2DBE83E12); 2009, Nr. [38-1440](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F174855C1B1), Nr. [93-3970](https://www.e-tar.lt/portal/lt/legalAct/TAR.7647ED906679), Nr. [153-6889](https://www.e-tar.lt/portal/lt/legalAct/TAR.23A016D4C3C6); 2011, Nr. [52-2512](https://www.e-tar.lt/portal/lt/legalAct/TAR.D38DBA2327F2), Nr. [145-6814](https://www.e-tar.lt/portal/lt/legalAct/TAR.ACBDE099EF38))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje išbraukti žodžius „Lietuvos komercinių“, „specializuotų bankų bei“ ir šią dalį išdėstyti taip:
 
 „1. Šio Įstatymo tikslas – reglamentuoti bankų ir užsienio bankų, veikiančių Lietuvos Respublikoje, taip pat jų padalinių steigimo, licencijavimo, veiklos, pabaigos ir pertvarkymo bei priežiūros tvarką, kad bankų sistema būtų stabili, patikima, efektyvi ir saugi.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -66,39 +66,39 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 9. Kitos šio Įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme.“
 
-\#### 3 straipsnis. 4 straipsnio 5 dalies pripažinimas netekusia galios
+## 3 straipsnis. 4 straipsnio 5 dalies pripažinimas netekusia galios
 
 4 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 14 straipsnio 7 dalies pripažinimas netekusia galios
+## 4 straipsnis. 14 straipsnio 7 dalies pripažinimas netekusia galios
 
 14 straipsnio 7 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 40 straipsnio 2 dalies pripažinimas netekusia galios
+## 5 straipsnis. 40 straipsnio 2 dalies pripažinimas netekusia galios
 
 40 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 48 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 48 straipsnio 2 dalies pakeitimas
 
 48 straipsnio 2 dalyje išbraukti trečiąjį sakinį ir šią dalį išdėstyti taip:
 
 „2. Normatyvų dydžius ir apskaičiavimo metodiką nustato priežiūros institucijos teisės aktai. Priežiūros institucija turi teisę nustatyti bankui individualius normatyvų dydžius.“
 
-\#### 7 straipsnis. 49 straipsnio 6 dalies pripažinimas netekusia galios
+## 7 straipsnis. 49 straipsnio 6 dalies pripažinimas netekusia galios
 
 49 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 8 straipsnis. 85 straipsnio 4 dalies pakeitimas
+## 8 straipsnis. 85 straipsnio 4 dalies pakeitimas
 
 Pakeisti 85 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Šio straipsnio 3 dalies 2 punkte nustatyti draudimai netaikomi įstatymų, reglamentuojančių mokėjimų ir vertybinių popierių atsiskaitymo sistemų funkcionavimą, ir kitų įstatymų nustatytais atvejais, kai yra tiesiogiai nurodyta, kad bankas privalo vykdyti prievoles po bankroto bylos iškėlimo. Banko bankroto procedūros metu taip pat nedraudžiama įskaityti indėlininko ar investuotojo (kaip šios sąvokos apibrėžtos Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 2 straipsnio 3 ir 11 dalyse), kuris kartu yra ir banko paskolos gavėjas, reikalavimo, už kurį, remiantis Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 12 straipsnio 1 dalies 4 punktu, indėlininkui ar investuotojui nemokama draudimo išmoka, į banko reikalavimą indėlininkui ar investuotojui dėl negrąžintos paskolos, tačiau įskaitoma suma (o jeigu indėlininkui ar investuotojui buvo išmokėta draudimo išmoka, – įskaitoma suma kartu su draudimo išmoka) neturi viršyti Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 9 straipsnio 3 dalyje nustatytų draudimo išmokų indėlininkams ar investuotojams dydžių.“
 
-\#### 9 straipsnis. Įstatymo priedo 5 punkto pripažinimas netekusiu galios
+## 9 straipsnis. Įstatymo priedo 5 punkto pripažinimas netekusiu galios
 
 Įstatymo priedo 5 punktą pripažinti netekusiu galios.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

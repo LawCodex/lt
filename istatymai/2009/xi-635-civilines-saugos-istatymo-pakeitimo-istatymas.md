@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.82ED30165077"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.82ED30165077.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinės saugos įstatymo pakeitimo įstatymas
@@ -24,17 +24,15 @@ Vilnius
 
 (Žin., 1998, Nr. [115-3230](https://www.e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA); 2000, Nr. [61-1805](https://www.e-tar.lt/portal/lt/legalAct/TAR.A96BE190A161); 2003, Nr. [73-3351](https://www.e-tar.lt/portal/lt/legalAct/TAR.F458FFEE03F0); 2004, Nr. [28-872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DE412CFBD0B), Nr. [163-5941](https://www.e-tar.lt/portal/lt/legalAct/TAR.4481742C3EEC); 2006, Nr. [72-2691](https://www.e-tar.lt/portal/lt/legalAct/TAR.862AECF3AD2F))
 
-\#### 1 straipsnis. Lietuvos Respublikos civilinės saugos įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos civilinės saugos įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos civilinės saugos įstatymą ir jį išdėstyti taip:
 
 „LIETUVOS RESPUBLIKOS CIVILINĖS SAUGOS ĮSTATYMAS
 
-\## I SKYRIUS
+## I SKYRIUS. Bendrosios nuostatos
 
-**Bendrosios nuostatos**
-
-\#### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis
 
 1. Lietuvos Respublikos civilinės saugos įstatymas nustato civilinės saugos sistemos organizavimo ir veikimo teisinius ir organizacinius pagrindus, valstybės ir savivaldybių institucijų ir įstaigų kompetenciją, kitų įstaigų, ūkio subjektų, gyventojų teises ir pareigas civilinės saugos srityje.
 
@@ -42,7 +40,7 @@ Pakeisti Lietuvos Respublikos civilinės saugos įstatymą ir jį išdėstyti ta
 
 3. Šiuo įstatymu įgyvendinamos Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, nuostatos.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Civilinė sauga – veikla, apimanti valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir gyventojų pasirengimą ekstremaliosioms situacijoms, veiksmus joms gresiant ar susidarius, ekstremaliųjų situacijų likvidavimą ir jų padarinių šalinimą.
 
@@ -108,7 +106,7 @@ Pakeisti Lietuvos Respublikos civilinės saugos įstatymą ir jį išdėstyti ta
 
 Kitos šiame įstatyme vartojamos sąvokos atitinka Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme ir kituose įstatymuose vartojamas sąvokas.
 
-\#### 3 straipsnis. Civilinės saugos sistema
+### 3 straipsnis. Civilinės saugos sistema
 
 Civilinės saugos sistemą sudaro šie subjektai:
 
@@ -132,7 +130,7 @@ Civilinės saugos sistemą sudaro šie subjektai:
 
 10) civilinės saugos sistemos pajėgos.
 
-\#### 4 straipsnis. Civilinės saugos sistemos tikslai
+### 4 straipsnis. Civilinės saugos sistemos tikslai
 
 Civilinės saugos sistemos tikslai yra:
 
@@ -144,7 +142,7 @@ Civilinės saugos sistemos tikslai yra:
 
 4) rengti visuomenę praktiniams veiksmams, gresiant ar susidarius ekstremaliosioms situacijoms, skatinti jos iniciatyvą civilinės saugos srityje ir stiprinti pasitikėjimą civilinės saugos sistemos veikla.
 
-\#### 5 straipsnis. Civilinės saugos sistemos uždaviniai
+### 5 straipsnis. Civilinės saugos sistemos uždaviniai
 
 Civilinės saugos sistemos uždaviniai yra:
 
@@ -156,7 +154,7 @@ Civilinės saugos sistemos uždaviniai yra:
 
 4) susidarius įvykiams, ekstremaliesiems įvykiams ir ekstremaliosioms situacijoms, organizuoti ir vykdyti priemones, kuriomis siekiama atkurti valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir gyventojams būtiniausias gyvenimo (veiklos) sąlygas.
 
-\#### 6 straipsnis. Civilinės saugos sistemos valdymo ir veikimo principai
+### 6 straipsnis. Civilinės saugos sistemos valdymo ir veikimo principai
 
 Civilinės saugos sistema, įgyvendindama jai keliamus tikslus ir uždavinius, vadovaujasi šiais valdymo ir veikimo principais:
 
@@ -180,19 +178,17 @@ Civilinės saugos sistema, įgyvendindama jai keliamus tikslus ir uždavinius, v
 
 10) racionalumo ir efektyvumo – racionalaus ir veiksmingo civilinės saugos sistemos pajėgų ir materialinių išteklių paskirstymo ir naudojimo.
 
-\#### 7 straipsnis. Teisiniai civilinės saugos sistemos pagrindai
+### 7 straipsnis. Teisiniai civilinės saugos sistemos pagrindai
 
 Civilinės saugos sistemos subjektai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, įstatymais, kitais Lietuvos Respublikos Seimo priimtais teisės aktais, Lietuvos Respublikos Prezidento dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, vidaus reikalų ministro įsakymais ir kitais teisės aktais.
 
-\#### 8 straipsnis. Asmens judėjimo laisvės apribojimas užtikrinant civilinę saugą
+### 8 straipsnis. Asmens judėjimo laisvės apribojimas užtikrinant civilinę saugą
 
 Vykdant gelbėjimo, paieškos ir neatidėliotinus darbus, likviduojant įvykį, ekstremalųjį įvykį, ekstremaliąją situaciją ir šalinant jų padarinius, šio ir kitų įstatymų nustatytais atvejais ir tvarka gali būti apribota asmens judėjimo laisvė.
 
-\## II SKYRIUS
+## II SKYRIUS. Civilinės saugos sistemos subjektų kompetencija civilinės saugos srityje
 
-**Civilinės saugos sistemos subjektų kompetencija civilinės saugos srityje**
-
-\#### 9 straipsnis. Vyriausybė
+### 9 straipsnis. Vyriausybė
 
 Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
@@ -232,7 +228,7 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 18) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
 
-\#### 10 straipsnis. Vidaus reikalų ministerija
+### 10 straipsnis. Vidaus reikalų ministerija
 
 1. Vidaus reikalų ministerija kartu su kitais civilinės saugos sistemos subjektais įgyvendina civilinės saugos sistemos uždavinius, koordinuoja civilinės saugos sistemos subjektų, išskyrus Vyriausybę, veiklą įgyvendinant jų kompetencijai priskirtus civilinės saugos sistemos uždavinius.
 
@@ -250,7 +246,7 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 6) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 
-\#### 11 straipsnis. Ekstremalių situacijų komisijos
+### 11 straipsnis. Ekstremalių situacijų komisijos
 
 1. Atsižvelgiant į ekstremaliosios situacijos lygį, sudaromos dviejų lygių ekstremalių situacijų komisijos:
 
@@ -290,7 +286,7 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 5) atlieka kitas Vyriausybės nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 
-\#### 12 straipsnis. Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos
+### 12 straipsnis. Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos
 
 1. Priešgaisrinės apsaugos ir gelbėjimo departamentas yra civilinės saugos sistemos institucija, pagal kompetenciją vadovaujanti civilinės saugos sistemos veiklai, koordinuojanti ekstremaliųjų situacijų prevencijos vykdymą, gyventojų, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų ir ūkio subjektų veiklą civilinės saugos srityje ir planuojanti valstybės pasirengimą įgyvendinti civilinės saugos sistemos uždavinius ekstremaliųjų situacijų metu.
 
@@ -336,7 +332,7 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 8) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 
-\#### 13 straipsnis. Ministerijos ir kitos valstybės institucijos ir įstaigos
+### 13 straipsnis. Ministerijos ir kitos valstybės institucijos ir įstaigos
 
 1. Ministerijų ir kitų valstybės institucijų ir įstaigų veiklai civilinės saugos srityje vadovauja jų vadovai arba jų įgalioti asmenys. Ministerijos ir kitos valstybės institucijos ir įstaigos gresiant ar susidarius ekstremaliajai situacijai užtikrina jų kompetencijai priskirtų funkcijų vykdymą.
 
@@ -362,7 +358,7 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 8) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 
-\#### 14 straipsnis. Savivaldybės administracijos direktorius
+### 14 straipsnis. Savivaldybės administracijos direktorius
 
 Savivaldybės administracijos direktorius,vykdydamas savivaldybei valstybės perduotą civilinės saugos organizavimo funkciją:
 
@@ -412,11 +408,9 @@ Savivaldybės administracijos direktorius,vykdydamas savivaldybei valstybės per
 
 23) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 
-\## III SKYRIUS
+## III SKYRIUS. GYVENTOJŲ, ŪKIO SUBJEKTŲ IR kitų ĮSTAIGŲ TEISĖS IR PAREIGOS CIVILINĖS SAUGOS SRITYJE
 
-**GYVENTOJŲ, ŪKIO SUBJEKTŲ IR kitų ĮSTAIGŲ TEISĖS IR PAREIGOS CIVILINĖS SAUGOS SRITYJE**
-
-\#### 15 straipsnis. Gyventojų, ūkio subjektų ir kitų įstaigų teisės ir pareigos
+### 15 straipsnis. Gyventojų, ūkio subjektų ir kitų įstaigų teisės ir pareigos
 
 1. Gyventojai, ūkio subjektai ir kitos įstaigos turi teisę:
 
@@ -434,7 +428,7 @@ Savivaldybės administracijos direktorius,vykdydamas savivaldybei valstybės per
 
 3. Gyventojai, ūkio subjektai ir kitos įstaigos gali turėti ir kitų šiame įstatyme ir kituose teisės aktuose nustatytų teisių ir pareigų civilinės saugos srityje.
 
-\#### 16 straipsnis. Ūkio subjektų ir kitų įstaigų funkcijos, įgyvendinant civilinės saugos sistemos uždavinius
+### 16 straipsnis. Ūkio subjektų ir kitų įstaigų funkcijos, įgyvendinant civilinės saugos sistemos uždavinius
 
 1. Ūkio subjektų ir kitų įstaigų vadovai atsako už civilinės saugos parengtį vadovaujamame objekte.
 
@@ -466,13 +460,13 @@ Savivaldybės administracijos direktorius,vykdydamas savivaldybei valstybės per
 
 5. Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatytų ūkio subjektų, įregistruotų Valstybinės reikšmės ir pavojingų objektų registre, vadovai nedelsdami perspėja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos ar pavojaus zoną, apie gresiančią ar susidariusią ekstremaliąją situaciją.
 
-\#### 17 straipsnis. Privalomų darbų atlikimas
+### 17 straipsnis. Privalomų darbų atlikimas
 
 1. Susidarius ekstremaliajai situacijai gyventojai, ūkio subjektai ir kitos įstaigos Vyriausybės nustatyta tvarka atlieka privalomus darbus, būtinus ekstremaliajai situacijai likviduoti ir jos padariniams šalinti.
 
 2. Privalomi darbai atliekami tik tada, kai civilinės saugos sistemos pajėgų ir materialinių išteklių, esančių operacijų vadovo žinioje, nepakanka ekstremaliajai situacijai likviduoti ir jos padariniams šalinti.
 
-\#### 18 straipsnis. Materialinių išteklių teikimas
+### 18 straipsnis. Materialinių išteklių teikimas
 
 1. Ekstremaliųjų situacijų atvejais savivaldybės administracijos direktoriaus reikalavimu ūkio subjektai, kitos įstaigos, su kuriais šio įstatymo 16 straipsnio 2 dalyje nustatyta tvarka sudarytos sutartys, teikia materialinius išteklius.
 
@@ -480,11 +474,9 @@ Savivaldybės administracijos direktorius,vykdydamas savivaldybei valstybės per
 
 3. Ekstremaliųjų situacijų atvejais ūkio subjektai, teikiantys elektroninių ryšių tinklą ar elektroninių ryšių paslaugas, turi suteikti civilinės saugos sistemos subjektams pirmumo teisę naudotis elektroninių ryšių tinklais ir gauti kitas elektroninių ryšių paslaugas, būtinas civilinės saugos ekstremaliųjų situacijų valdymo ryšių sistemos tinkamam funkcionavimui užtikrinti, taip pat skirti reikalingus ekspertus ir specialistus.
 
-\## IV SKYRIUS
+## IV SKYRIUS. Civilinės saugos sistemos parengties organizavimas
 
-**Civilinės saugos sistemos parengties organizavimas**
-
-\#### 19 straipsnis. Civilinės saugos sistemos pajėgos
+### 19 straipsnis. Civilinės saugos sistemos pajėgos
 
 1. Civilinės saugos sistemos pajėgos skirtos gelbėjimo, paieškos ir neatidėliotiniems darbams atlikti, įvykiams, ekstremaliesiems įvykiams, ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti ekstremaliosios situacijos židinyje.
 
@@ -526,7 +518,7 @@ Savivaldybės administracijos direktorius,vykdydamas savivaldybei valstybės per
 
 11. Parengtų savanorių ir asociacijų pajėgas sudaro parengti savanoriai ir asociacijų nariai. Parengtų savanorių ir asociacijų pajėgos gali dalyvauti, kai atliekami gelbėjimo, paieškos ir neatidėliotini darbai.
 
-\#### 20 straipsnis. Civilinės saugos sistemos parengties lygiai
+### 20 straipsnis. Civilinės saugos sistemos parengties lygiai
 
 Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas ir šalinti galimų ekstremaliųjų situacijų padarinius, nustatoma šių lygių civilinės saugos sistemos parengtis:
 
@@ -536,7 +528,7 @@ Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas i
 
 3) trečio (visiškos parengties) lygio – kai civilinės saugos sistemos subjektai pasirengę vykdyti užduotis ir funkcijas ekstremaliųjų situacijų metu, pasitelkiami žmogiškieji ir materialiniai ištekliai, sušaukiamos ekstremaliųjų situacijų komisijos ir operacijų centrų nariai, parengiamos būtinos paimti iš valstybės rezervo civilinės saugos priemonių atsargos.
 
-\#### 21 straipsnis. Civilinės saugos sistemos parengties lygių skelbimas ir atšaukimas
+### 21 straipsnis. Civilinės saugos sistemos parengties lygių skelbimas ir atšaukimas
 
 1. Civilinės saugos sistemos subjektai kasdienėje veikloje veikia pirmu (kasdieniu) civilinės saugos sistemos parengties lygiu.
 
@@ -552,7 +544,7 @@ Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas i
 
 4. Už antro (sustiprinto) ar trečio (visiškos parengties) civilinės saugos sistemos parengties lygio priemonių vykdymą atsako atitinkamų civilinės saugos sistemos subjektų vadovai.
 
-\#### 22 straipsnis. Perspėjimas ir informavimas apie ekstremaliąją situaciją
+### 22 straipsnis. Perspėjimas ir informavimas apie ekstremaliąją situaciją
 
 1. Gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms ir ūkio subjektams perspėti apie gresiančią ar susidariusią ekstremaliąją situaciją, galimus jos padarinius, jų šalinimo priemones ir apsisaugojimo nuo ekstremaliosios situacijos būdus naudojama perspėjimo sistema.
 
@@ -560,7 +552,7 @@ Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas i
 
 3. Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatytų ūkio subjektų, įregistruotų Valstybinės reikšmės ir pavojingų objektų registre, vadovai privalo įrengti perspėjimo sistemą, kuri užtikrintų galimybę perspėti darbuotojus, taip pat gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos zoną, apie įvykusią didelę pramoninę avariją.
 
-\#### 23 straipsnis. Civilinės saugos mokymas
+### 23 straipsnis. Civilinės saugos mokymas
 
 1. Civilinės saugos mokymas vykdomas bendrojo lavinimo mokyklose ir profesinėse mokyklose pagal švietimo ir mokslo ministro tvirtinamas bendrąsias programas, į kurias yra integruotas Priešgaisrinės apsaugos ir gelbėjimo departamento rekomenduotas civilinės saugos mokymo turinys. Įstaigose, vykdančiose ikimokyklinio ir priešmokyklinio ugdymo programas, civilinės saugos mokymas yra integruotas į ikimokyklinio ir priešmokyklinio ugdymo programas. Civilinės saugos mokymas kolegijose vykdomas akademinės tarybos, o universitetuose – senato nustatyta tvarka.
 
@@ -568,7 +560,7 @@ Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas i
 
 3. Ūkio subjektuose ir kitose įstaigose darbuotojai civilinės saugos mokomi vadovaujantis Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus patvirtintomis tipinėmis civilinės saugos mokymo programomis.
 
-\#### 24 straipsnis. Slėptuvės ir kolektyvinės apsaugos statiniai
+### 24 straipsnis. Slėptuvės ir kolektyvinės apsaugos statiniai
 
 1. Ekstremaliųjų situacijų metu valstybės tarnautojai ir darbuotojai, vykdantys valstybės ir savivaldybių institucijoms ir įstaigoms nustatytus uždavinius ir funkcijas, nuo gyventojų gyvybei ar sveikatai gresiančių pavojingų veiksnių apsaugomi slėptuvėse.
 
@@ -576,7 +568,7 @@ Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas i
 
 3. Vyriausybės nustatytos valstybės ir savivaldybių institucijos ir įstaigos savivaldybės administracijos direktoriui teikia duomenis apie savivaldybėje esančias slėptuves, jų atitiktį įstatymų nustatyta tvarka patvirtintiems statybos techniniams reglamentams ir kolektyvinės apsaugos statinius.
 
-\#### 25 straipsnis. Valstybinės reikšmės ir pavojingų objektų registras
+### 25 straipsnis. Valstybinės reikšmės ir pavojingų objektų registras
 
 1. Valstybinės reikšmės ir pavojingų objektų registras yra valstybės registras.
 
@@ -586,11 +578,9 @@ Siekiant pasirengti greitai ir tinkamai likviduoti ekstremaliąsias situacijas i
 
 4. Valstybinės reikšmės ir pavojingų objektų registro nuostatus tvirtina Vyriausybė.
 
-\## V SKYRIUS
+## V SKYRIUS. EkstremaliųJŲ situacijų VALDYMAS
 
-**EkstremaliųJŲ situacijų VALDYMAS**
-
-\#### 26 straipsnis. Ekstremaliųjų situacijų lygiai
+### 26 straipsnis. Ekstremaliųjų situacijų lygiai
 
 Ekstremaliosios situacijos skirstomos į du lygius – savivaldybės ir valstybės:
 
@@ -598,7 +588,7 @@ Ekstremaliosios situacijos skirstomos į du lygius – savivaldybės ir valstyb�
 
 2) valstybės lygio – ekstremalios situacijos, kurių padariniai šalinami keliose savivaldybėse esančiomis civilinės saugos sistemos pajėgomis ir naudojant savivaldybėse arba valstybėje turimus materialinius išteklius, o ekstremalios situacijos padarinių išplitimo ribos viršija trijų savivaldybių teritorijų ribas.
 
-\#### 27 straipsnis. Ekstremaliųjų situacijų valdymas
+### 27 straipsnis. Ekstremaliųjų situacijų valdymas
 
 1. Atsižvelgiant į ekstremaliosios situacijos lygį, nustatyti du ekstremaliųjų situacijų valdymo lygiai: savivaldybės ir valstybės.
 
@@ -638,7 +628,7 @@ Ekstremaliosios situacijos skirstomos į du lygius – savivaldybės ir valstyb�
 
 7. Ministerijos ir (ar) kitos valstybės institucijos ar įstaigos, nurodytos šio įstatymo 13 straipsnio 2 dalyje, vadovas ar jo įgaliotas asmuo, gavęs informaciją apie gresiantį ar susidariusį ekstremalųjį įvykį ar ekstremaliąją situaciją, Vyriausybės nustatyta tvarka sušaukia ministerijos ir (ar) kitos valstybės institucijos ir įstaigos operacijų centrą.
 
-\#### 28 straipsnis. Vadovavimas gelbėjimo, paieškos, įvykio, ekstremaliojo įvykio, ekstremaliosios situacijos likvidavimo, padarinių šalinimo ir neatidėliotiniems darbams ir šių darbų organizavimas
+### 28 straipsnis. Vadovavimas gelbėjimo, paieškos, įvykio, ekstremaliojo įvykio, ekstremaliosios situacijos likvidavimo, padarinių šalinimo ir neatidėliotiniems darbams ir šių darbų organizavimas
 
 1. Gelbėjimo darbų vadovo funkcijas likviduojant įvykį ar ekstremalųjį įvykį ir šalinant jo padarinius atlieka pirmas atvykęs į įvykio vietą civilinės saugos sistemos pajėgų valstybės tarnautojas ar darbuotojas, atsižvelgdamas į įvykio pobūdį.
 
@@ -662,11 +652,11 @@ Ekstremaliosios situacijos skirstomos į du lygius – savivaldybės ir valstyb�
 
 11. Asmens ir visuomenės sveikatos priežiūros įstaigos turi būti pasirengusios organizuoti savo veiklą susidarius ekstremaliajai situacijai pagal įstaigos ekstremaliųjų situacijų valdymo planą, parengtą pagal sveikatos apsaugos ministro patvirtintas rekomendacijas ir Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus patvirtintas ekstremaliųjų situacijų valdymo planų rengimo metodines rekomendacijas.
 
-\#### 29 straipsnis. Didelių pramoninių avarijų prevencija, likvidavimas ir tyrimas
+### 29 straipsnis. Didelių pramoninių avarijų prevencija, likvidavimas ir tyrimas
 
 Didelių pramoninių avarijų prevencijos, likvidavimo ir tyrimo tvarką nustato Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatai. Šiuos nuostatus tvirtina Vyriausybė.
 
-\#### 30 straipsnis. Gyventojų evakavimas
+### 30 straipsnis. Gyventojų evakavimas
 
 1. Atsižvelgdami į ekstremaliosios situacijos sukeltą pavojų gyventojų gyvybei ar sveikatai, sprendimus dėl gyventojų evakavimo Vyriausybės nustatyta tvarka priima savivaldybių administracijų direktoriai, kitų įstaigų ir ūkio subjektų vadovai, o įvykio ar ekstremaliojo įvykio metu sprendimą dėl skubaus gyventojų iškeldinimo iš ekstremaliosios situacijos židinio priima gelbėjimo darbų vadovas.
 
@@ -674,19 +664,17 @@ Didelių pramoninių avarijų prevencijos, likvidavimo ir tyrimo tvarką nustato
 
 3. Įvykus branduolinei avarijai Ignalinos atominėje elektrinėje, gyventojai evakuojami pagal Vyriausybės patvirtintą valstybinį gyventojų apsaugos planą branduolinės avarijos atveju. Pagal šį planą Ignalinos rajono, Zarasų rajono ir Visagino savivaldybių tarybos tvirtina savivaldybių administracijų direktorių parengtus detaliuosius gyventojų evakavimo planus, šių savivaldybių administracijų direktoriai evakuojamų gyventojų apgyvendinimo klausimus derina su savivaldybių, į kurias evakuojami gyventojai, administracijų direktoriais, organizuojančiais evakuotų gyventojų apgyvendinimą.
 
-\## VI SKYRIUS
+## VI SKYRIUS. Kompensacijos, VALSTYBĖS PARAMA IR SOCIALINĖS GARANTIJOS
 
-**Kompensacijos, VALSTYBĖS PARAMA IR SOCIALINĖS GARANTIJOS**
-
-\#### 31 straipsnis. Kompensacija už materialinių išteklių teikimą ir privalomų darbų atlikimą
+### 31 straipsnis. Kompensacija už materialinių išteklių teikimą ir privalomų darbų atlikimą
 
 Gyventojams, ūkio subjektams ir kitoms įstaigoms, kurie atliko privalomus darbus, taip pat ūkio subjektams ir kitoms įstaigoms, kurie teikė materialinius išteklius, Vyriausybės nustatyta tvarka kompensuojamos išlaidos, susijusios su materialinių išteklių teikimu, ir gali būti kompensuojamos išlaidos, susijusios su privalomų darbų atlikimu.
 
-\#### 32 straipsnis. Valstybės paramos teikimas
+### 32 straipsnis. Valstybės paramos teikimas
 
 Vyriausybės nustatyta tvarka valstybės parama gali būti teikiama gyventojams, ūkio subjektams, kitoms įstaigoms, kurie dėl ekstremaliosios situacijos patyrė žalą.
 
-\#### 33 straipsnis. Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant ekstremaliųjų situacijų padarinius, socialinės garantijos
+### 33 straipsnis. Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant ekstremaliųjų situacijų padarinius, socialinės garantijos
 
 Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant jų padarinius, socialines garantijas nustato įstatymai ir kiti teisės aktai.
 
@@ -694,7 +682,7 @@ Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant j
 
 **Tarptautinis bendradarbiavimas civilinės saugos srityje**
 
-\#### 34 straipsnis. Tarptautinis bendradarbiavimas civilinės saugos srityje
+### 34 straipsnis. Tarptautinis bendradarbiavimas civilinės saugos srityje
 
 1. Lietuvos Respublikos tarptautinis bendradarbiavimas civilinės saugos srityje remiasi visuotinai pripažintais tarptautiniais civilinės saugos, žmogaus teisių ir laisvių apsaugos, aplinkos apsaugos ir gyventojų gerovės užtikrinimo principais ir vykdomas laikantis Lietuvos Respublikos tarptautinių sutarčių.
 
@@ -704,7 +692,7 @@ Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant j
 
 4. Ministerijos ir kitos valstybės institucijos ir įstaigos pagal kompetenciją dalyvauja tarptautinių institucijų ir organizacijų veikloje civilinės saugos klausimais.
 
-\#### 35 straipsnis. Civilinės saugos tarptautinė pagalba
+### 35 straipsnis. Civilinės saugos tarptautinė pagalba
 
 1. Civilinės saugos tarptautinė pagalba teikiama siunčiant tarptautinės pagalbos teikimo komandą, ekspertus ir (ar) teikiant pagalbos priemones.
 
@@ -712,7 +700,7 @@ Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant j
 
 3. Civilinės saugos tarptautinės pagalbos prašymo, priėmimo ir teikimo tvarką nustato Vyriausybė.
 
-\#### 36 straipsnis. Informacijos teikimas
+### 36 straipsnis. Informacijos teikimas
 
 1. Gresiant ar susidarius ekstremaliajai situacijai, dėl kurios gali kilti pavojus kaimyninių valstybių gyventojams ir aplinkai, Priešgaisrinės apsaugos ir gelbėjimo departamentas kaimyninėms valstybėms teikia informaciją apie gresiančią ar susidariusią ekstremaliąją situaciją.
 
@@ -722,11 +710,11 @@ Asmenų, dalyvaujančių likviduojant ekstremaliąsias situacijas ir šalinant j
 
 **Civilinės saugos sistemos finansavimas, materialinis ir TECHNINIS APRŪPINIMAS**
 
-\#### 37 straipsnis. Civilinės saugos sistemos finansavimas
+### 37 straipsnis. Civilinės saugos sistemos finansavimas
 
 Civilinės saugos sistema (išskyrus ūkio subjektus) finansuojama iš Lietuvos Respublikos valstybės biudžeto, savivaldybių biudžetų ir kitų teisėtų finansavimo šaltinių, o ūkio subjektai – iš savo sukauptų lėšų.
 
-\#### 38 straipsnis. Civilinės saugos sistemos materialinis ir techninis aprūpinimas
+### 38 straipsnis. Civilinės saugos sistemos materialinis ir techninis aprūpinimas
 
 Gyventojų apsaugai organizuoti, gelbėjimo, paieškos ir neatidėliotiniems darbams atlikti, ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti iš anksto sudaromas valstybės rezervas, kurio sudarymo, kaupimo, tvarkymo ir administravimo tvarką nustato Lietuvos Respublikos valstybės rezervo įstatymas.
 
@@ -734,7 +722,7 @@ Gyventojų apsaugai organizuoti, gelbėjimo, paieškos ir neatidėliotiniems dar
 
 **Baigiamosios nuostatos**
 
-\#### 39 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
+### 39 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
 
 Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
 
@@ -748,11 +736,11 @@ priedas
 
 1996 m. gruodžio 9 d. Tarybos direktyva 96/82/EB dėl didelių, su pavojingomis medžiagomis susijusių avarijų pavojaus kontrolės (OL 2004 m. *specialusis leidimas,* 5 skyrius, 2 tomas, p. 410) su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2003/105/EB (OL 2004 m.*specialusis leidimas*, 5 skyrius, 4 tomas, p. 398).“
 
-\#### 2 straipsnis. Pasiūlymas Vyriausybei ir kitoms valstybės ir savivaldybių institucijoms ir įstaigoms
+### 2 straipsnis. Pasiūlymas Vyriausybei ir kitoms valstybės ir savivaldybių institucijoms ir įstaigoms
 
 Vyriausybė ir kitos valstybės ir savivaldybių institucijos ir įstaigos per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos peržiūri galiojančius teisės aktus ir priima naujus teisės aktus ar teisės aktų pakeitimus, susijusius su šio įstatymo įgyvendinimu.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+### 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2010 m. sausio 1 d.
 

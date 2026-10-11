@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/47cc99e081dd11ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.47CC99E081DD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymo Nr. XIV-761 pavadinimo, 3, 5 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas
@@ -95,5 +95,3 @@ _______________“.“
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_530e69a0910545c4a119a52a0f645172_end

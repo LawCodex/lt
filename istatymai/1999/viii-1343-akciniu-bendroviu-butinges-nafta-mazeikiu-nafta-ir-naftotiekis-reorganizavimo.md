@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2EE06A538589"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2EE06A538589.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 3, 4 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [90-2482](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E6FCCBC800C); 1999, Nr. [50-1606](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B38E9CED3CB))
 
-\#### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalies 2 ir 3 punktus ir juos išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 7. Lietuvos Respublikos Vyriausybei suteikiama teisė sutartyse su strateginiu investuotoju ir akcine bendrove „Mažeikių nafta“ savarankiškai nustatyti metodą ir tvarką, pagal kuriuos akcinė bendrovė „Mažeikių nafta“ kompensuotų strateginiam investuotojui galimą šios bendrovės vertės sumažėjimą. Akcinės bendrovės „Mažeikių nafta“ kompensacijos strateginiam investuotojui suma negali viršyti 75 mln. JAV dolerių.“
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies papildymas ir straipsnio papildymas 3 dalimi
+## 2 straipsnis. 4 straipsnio 2 dalies papildymas ir straipsnio papildymas 3 dalimi
 
 1. Papildyti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 

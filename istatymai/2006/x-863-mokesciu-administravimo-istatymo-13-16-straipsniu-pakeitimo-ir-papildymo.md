@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A107817F08ED"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A107817F08ED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 13, 16 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2004, Nr. [63-2243](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485), Nr. [116-4320](https://www.e-tar.lt/portal/lt/legalAct/TAR.764D2FF3D369), Nr. [171-6304](https://www.e-tar.lt/portal/lt/legalAct/TAR.D9B7DDA8596A); 2005, Nr. [76-2742](https://www.e-tar.lt/portal/lt/legalAct/TAR.88ADD5348890))
 
-\#### 1 straipsnis. 13 straipsnio papildymas 27 ir 28 punktais
+## 1 straipsnis. 13 straipsnio papildymas 27 ir 28 punktais
 
 1. Papildyti 13 straipsnį 27 punktu:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „28) papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokestis.“
 
-\#### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 

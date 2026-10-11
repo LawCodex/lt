@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4a353eb00bad11e6a238c18f7a3f1736"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A353EB00BAD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 69 straipsnių ir priedo pakeitimo ir 70, 71, 72, 73, 74, 75, 76, 77 straipsnių pripažinimo netekusiais galios įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A8A2E8086886"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A8A2E8086886.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 103, 104, 105 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 2002, Nr. [17-649](https://www.e-tar.lt/portal/lt/legalAct/TAR.390AEF086CE3); 2008, Nr. [81-3186](https://www.e-tar.lt/portal/lt/legalAct/TAR.C297668F27C1))
 
-\#### 1 straipsnis. 103 straipsnio papildymas 6 dalimi
+## 1 straipsnis. 103 straipsnio papildymas 6 dalimi
 
 Papildyti 103 straipsnį 6 dalimi:
 
 „6. Teismo pirmininkas, įgyvendindamas jam priskirtas vidinio administravimo funkcijas, gali sudaryti teismo administracinės veiklos ar su teisingumo vykdymu nesusijusios teisėjo veiklos tyrimo komisiją, į kurią gali būti įtraukti kitų teismų teisėjai ar tarnautojai, taip pat kitų institucijų, įstaigų specialistai, mokslininkai, visuomenės atstovai. Šių asmenų dalyvavimas įgyvendinant teismo administravimo funkcijas grindžiamas skaidrumo, savanoriškumo ir nešališkumo principais. Šioje dalyje numatytos komisijos įgaliojimus ir sudarymo tvarką tvirtina Teisėjų taryba.“
 
-\#### 2 straipsnis. 104 straipsnio pakeitimas
+## 2 straipsnis. 104 straipsnio pakeitimas
 
 Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 2. Šio straipsnio 1 dalyje nurodyti subjektai, įgyvendindami teismų administracinės veiklos priežiūros funkcijas, gali atlikti teismo administracinės veiklos ar su teisingumo vykdymu nesusijusios teisėjo veiklos tyrimus. Šiam tikslui gali būti sudaryta tyrimo komisija, į kurią gali būti įtraukti kelių teismų teisėjai, taip pat kitų institucijų, įstaigų specialistai, mokslininkai, visuomenės atstovai. Šių asmenų dalyvavimas įgyvendinant teismų administravimo funkcijas grindžiamas skaidrumo, savanoriškumo ir nešališkumo principais. Šioje dalyje numatytos komisijos įgaliojimus ir sudarymo tvarką tvirtina Teisėjų taryba.“
 
-\#### 3 straipsnis. 105 straipsnio pakeitimas
+## 3 straipsnis. 105 straipsnio pakeitimas
 
 Pakeisti 105 straipsnį ir jį išdėstyti taip:
 

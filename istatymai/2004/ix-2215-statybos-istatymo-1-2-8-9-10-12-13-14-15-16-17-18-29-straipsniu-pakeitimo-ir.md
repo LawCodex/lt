@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F5AD6471BE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F0F5AD6471BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 1, 2, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 29 straipsnių pakeitimo ir papildymo bei įstatymo priedo papildymo įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5), Nr. [123-5592](https://www.e-tar.lt/portal/lt/legalAct/TAR.50C78CEF37AA))
 
-\#### 1 straipsnis. Įstatymo tikslas
+## 1 straipsnis. Įstatymo tikslas
 
 Šiuo Įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo 15 straipsnyje.
 
-\#### 2 straipsnis. 1 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 1 straipsnio 3 dalies pakeitimas
 
 1 straipsnio 3 dalyje vietoj žodžių „nurodytu Europos Sąjungos teisės aktu“ įrašyti žodžius „nurodytais Europos Sąjungos teisės aktais“ ir šią dalį išdėstyti taip:
 
 „3. Įstatymas yra suderintas su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.“
 
-\#### 3 straipsnis. 2 straipsnio pakeitimas ir papildymas 79, 80, 81, 82, 83 ir 84 dalimis
+## 3 straipsnis. 2 straipsnio pakeitimas ir papildymas 79, 80, 81, 82, 83 ir 84 dalimis
 
 1. Pakeisti 2 straipsnio 42 dalį ir ją išdėstyti taip:
 
@@ -94,13 +94,13 @@ Vilnius
 
 84. Kita užsienio organizacija – užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus.“
 
-\#### 4 straipsnis. 8 straipsnio 5 dalies pakeitimas ir papildymas
+## 4 straipsnis. 8 straipsnio 5 dalies pakeitimas ir papildymas
 
 8 straipsnio 5 dalyje vietoj žodžio „kartu“ įrašyti žodį „suderinusi“, papildyti šią dalį nauju sakiniu ir ją išdėstyti taip:
 
 „5. Normatyvinių statybos techninių dokumentų rengimo ir tvirtinimo tvarką (išskyrus statyboje taikomus Lietuvos standartus) nustato Vyriausybės įgaliota institucija įstatymų ir kitų teisės aktų nustatyta tvarka. Normatyvinius statinio saugos ir paskirties dokumentus tvirtina juos parengusi pagal kompetenciją valstybės institucija, suderinusi su Vyriausybės įgaliota institucija, kuriai pavesta tvirtinti statybos techninius reglamentus. Normatyvinių statinio saugos ir paskirties dokumentų normavimo sričių paskirstymą tarp valstybės institucijų nustato Vyriausybė.“
 
-\#### 5 straipsnis. 9 straipsnio papildymas 2 dalimi
+## 5 straipsnis. 9 straipsnio papildymas 2 dalimi
 
 Papildyti 9 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Papildyti 9 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 3) kai Lietuvos Respublikoje nėra kai kurių paskirčių statinių techninius reikalavimus nustatančių normatyvinių statybos techninių dokumentų – iki tų dokumentų parengimo ir patvirtinimo.“
 
-\#### 6 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -142,13 +142,13 @@ Papildyti 9 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 6. Buvusias 10 straipsnio 5, 6 ir 7 dalis laikyti atitinkamai 8, 9 ir 10 dalimis.
 
-\#### 7 straipsnis. 12 straipsnio 1 dalies papildymas 11 punktu
+## 7 straipsnis. 12 straipsnio 1 dalies papildymas 11 punktu
 
 Papildyti 12 straipsnio 1 dalį 11 punktu:
 
 „11) tuo atveju, kai statinį projektuojant arba statant dalyvauja daugiau negu vienas rangovas, paskirti vieną ar kelis saugos ir sveikatos koordinatorius, kurie turi užtikrinti, kad statinio projekte būtų numatyti darbuotojų saugos ir sveikatos reikalavimai; statybos metu koordinuoti ir kontroliuoti norminiuose teisės aktuose nustatytų darbuotojų saugos ir sveikatos reikalavimų įgyvendinimą.“
 
-\#### 8 straipsnis. 13 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 13 straipsnio 1 dalies pakeitimas
 
 Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) kitus tyrimus (aplinkos, kraštovaizdžio, higieninius, archeologinius, nekilnojamųjų kultūros vertybių ir kt.) – kituose šiuos tyrimus reglamentuojančiuose įstatymuose ir kituose teisės aktuose nurodyti fiziniai asmenys, juridiniai asmenys, kitos užsienio organizacijos.“
 
-\#### 9 straipsnis. 14 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 14 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 5. Buvusias 14 straipsnio 4, 5 ir 6 dalis laikyti atitinkamai 6, 7 ir 8 dalimis.
 
-\#### 10 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 1. 15 straipsnio 1 dalyje po žodžio „rangovu“ įrašyti žodžius „Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka“, pakeisti 1 punktą, 2 punktą pripažinti netekusiu galios, pakeisti 3 punktą ir jį laikyti 2 punktu, papildyti 1 dalį nauju 3 punktu ir visą dalį išdėstyti taip:
 
@@ -220,13 +220,13 @@ Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 5. Buvusias 15 straipsnio 4, 5, 6 ir 7 dalis laikyti atitinkamai 6, 7, 8 ir 9 dalimis.
 
-\#### 11 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Statinio statytojas (užsakovas) skiria (samdo) statinio statybos techninį prižiūrėtoją Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 12 straipsnis. 17 straipsnio 1, 2 ir 3 dalių pakeitimas ir papildymas
+## 12 straipsnis. 17 straipsnio 1, 2 ir 3 dalių pakeitimas ir papildymas
 
 1. 17 straipsnio 1 dalyje po žodžio „valdytoju“ įrašyti žodžius „Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka“, šios dalies 1 punkte vietoj žodžių „įregistruota įmonė, kurios įstatuose numatyta architektūrinė ir inžinerinė veikla ir su ja susijusios konsultacijos“ įrašyti žodžius „įsteigtas juridinis asmuo“, pakeisti šios dalies 2 punktą, papildyti dalį 3 punktu ir visą dalį išdėstyti taip:
 
@@ -252,7 +252,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Jei fizinis asmuo, juridinis asmuo, kita užsienio organizacija atitinka šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus, jis (ji) gali verstis ir statinio projektavimo valdymo, ir statinio statybos valdymo veikla.“
 
-\#### 13 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 13 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -288,7 +288,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 7. Buvusias 18 straipsnio 6 ir 7 dalis laikyti atitinkamai 8 ir 9 dalimis.
 
-\#### 14 straipsnis. 29 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 29 straipsnio pakeitimas ir papildymas
 
 1. 29 straipsnio 3 dalyje išbraukti sakinius „Lietuvos Respublikoje įregistruota įmonė, gavusi Vyriausybės įgaliotos institucijos nustatyta tvarka išduotą atestatą statinio projekto ekspertizei arba statinio ekspertizei atlikti. Atestate turi būti nurodyta statinio kategorija (iš nurodytų šio straipsnio 1 dalyje). Užsienio ekspertizės įmonė turi teisę atlikti statinio projekto ekspertizę arba statinio ekspertizę, jeigu ji turi savo šalies išduotus atestavimo dokumentus, kurie Lietuvos Respublikoje pripažįstami Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo (sudarytos 1961 m. spalio 5 d. Hagoje) pagrindu“, papildyti dalį 1, 2 ir 3 punktais ir visą dalį išdėstyti taip:
 
@@ -306,7 +306,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3. Buvusias 29 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 15 straipsnis. Priedo pakeitimas ir papildymas
+## 15 straipsnis. Priedo pakeitimas ir papildymas
 
 1. Įstatymo priede nurodytą įgyvendinamą Europos Sąjungos teisės aktą laikyti priedo 4 dalimi.
 

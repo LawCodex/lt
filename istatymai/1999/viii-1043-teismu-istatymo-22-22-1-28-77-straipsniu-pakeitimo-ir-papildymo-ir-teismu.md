@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DA7114E7D136"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA7114E7D136.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 22, 22(1), 28, 77 straipsnių pakeitimo ir papildymo ir teismų įstatymo pakeitimo ir papildymo įstatymo įsigaliojimo įstatymo 1 straipsnio ir 8 straipsnio 2 dalies pripažinimo netekusiais galios įstatymas
@@ -26,15 +26,13 @@ TEISMŲ ĮSTATYMO 22, 221, 28, 77 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR TEISMŲ 
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-TEISMŲ ĮSTATYMO 22, 221, 28, 77 STRAIPSNIŲ PAKEITIMAS IR
+## PIRMASIS SKIRSNIS. TEISMŲ ĮSTATYMO 22, 221, 28, 77 STRAIPSNIŲ PAKEITIMAS IR
 
 PAPILDYMAS
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52), Nr. [89-1709](https://www.e-tar.lt/portal/lt/legalAct/TAR.6F5F36EA929B); 1996, Nr. [60-1411](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBE3241186F); 1997, Nr. [63-1470](https://www.e-tar.lt/portal/lt/legalAct/TAR.0538DEE125C2); 1998, Nr. [38-1001](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A20D27F92FF))
 
-\#### 1 straipsnis. 22 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 22 straipsnio 1 ir 2 dalių pakeitimas
 
 22 straipsnio 1 ir 2 dalyse vietoj žodžių „aukštąjį teisinį išsilavinimą, atitinkantį Lietuvos Respublikos Vyriausybės nustatytus kvalifikacinius reikalavimus“ įrašyti žodžius „teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą)“, 2 dalį papildyti sakiniu „Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas Vyriausybės nustatyta tvarka“ ir šias dalis išdėstyti taip:
 
@@ -42,7 +40,7 @@ PAPILDYMAS
 
 Reikalavimai, keliami kandidatams į apylinkės teismo teisėjus, nėra taikomi teisės krypties socialinių mokslų daktarams bei habilituotiems daktarams, asmenims, turintiems 1 metų teisėjo darbo stažą ar 3 metų darbo Lietuvos Aukščiausiojo Teismo teisėjo padėjėjų, teismo pirmininkų ar skyriaus pirmininko patarėjų, prokurorų, prokuroro pavaduotojų, advokatų, notarų ar Seimo kontrolierių darbo stažą, ar ne mažesnį kaip 5 metų teisinio darbo stažą pagal Vyriausybės patvirtintą pareigybių sąrašą, bei asmenims, skiriamiems hipotekos teisėjais. Išvardyti asmenys gali būti skiriami apylinkės teismo teisėjais, jeigu jie yra ne jaunesni kaip 25 metų, nepriekaištingos reputacijos, turi teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) bei išlaikę teisėjo egzaminus. Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas Vyriausybės nustatyta tvarka.“
 
-\#### 2 straipsnis. 221 straipsnio pakeitimas ir papildymas
+### 2 straipsnis. 221 straipsnio pakeitimas ir papildymas
 
 1. 221 straipsnio 6 dalyje vietoj žodžių „aukštąjį teisinį išsilavinimą, atitinkantį Lietuvos Respublikos Vyriausybės nustatytus kvalifikacinius reikalavimus“ įrašyti žodžius „teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą)“ ir šią dalį išdėstyti taip:
 
@@ -54,19 +52,19 @@ Reikalavimai, keliami kandidatams į apylinkės teismo teisėjus, nėra taikomi 
 
 3. Buvusias 221 straipsnio 7 ir 8 dalis laikyti atitinkamai 8 ir 9 dalimis.
 
-\#### 3 straipsnis. 28 straipsnio papildymas 3 dalimi
+### 3 straipsnis. 28 straipsnio papildymas 3 dalimi
 
 Papildyti 28 straipsnį 3 dalimi:
 
 „Teisėjo egzaminui privalomi šie dalykai: Lietuvos Respublikos konstitucinės teisės, Lietuvos Respublikos administracinės teisės, Lietuvos Respublikos civilinės teisės, Lietuvos Respublikos civilinio proceso teisės, Lietuvos Respublikos baudžiamosios teisės, Lietuvos Respublikos baudžiamojo proceso teisės, Lietuvos Respublikos darbo teisės, Lietuvos Respublikos finansų teisės, tarptautinės viešosios teisės, Europos Sąjungos teisės.“
 
-\#### 4 straipsnis. 77 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 77 straipsnio 1 dalies pakeitimas
 
 77 straipsnio 1 dalyje vietoj žodžių „aukštąjį teisinį“ įrašyti žodžius „teisės magistro arba teisės bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą)“, išbraukti žodžius „ir jis neišlaikė egzaminų“ ir šią dalį išdėstyti taip:
 
 „Teismo antstolis yra pareigūnas. Juo gali būti ne jaunesnis kaip 21 metų Lietuvos Respublikos pilietis, turintis teisės magistro arba teisės bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą), arba aukštesnįjį teisinį išsilavinimą ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo antstoliu darbo sutartį nustatomas 3 mėnesių išbandymo terminas. Jeigu per šį terminą paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami, teismo antstolis atleidžiamas iš darbo Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka.“
 
-\### ANTRASIS SKIRSNIS. TEISMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO
+ANTRASIS SKIRSNIS. TEISMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO
 
 ĮSTATYMO 1 STRAIPSNIO IR 8 STRAIPSNIO 2 DALIES PRIPAŽINIMAS
 
@@ -74,11 +72,11 @@ NETEKUSIAIS GALIOS
 
 (Žin., 1998, Nr. [38-1002](https://www.e-tar.lt/portal/lt/legalAct/TAR.65D0A8C75EBA))
 
-\#### 1 straipsnis. 1 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 1 straipsnio pripažinimas netekusiu galios
 
 1 straipsnį pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
+### 2 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
 
 8 straipsnio 2 dalį pripažinti netekusia galios.
 

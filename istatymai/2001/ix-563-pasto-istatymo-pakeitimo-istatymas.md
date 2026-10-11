@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.82477B24BE51"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.82477B24BE51.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1999, Nr. [36-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1))
 
-\#### 1 straipsnis. Lietuvos Respublikos pašto įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos pašto įstatymo nauja redakcija
 
 Pakeisti Pašto įstatymą ir jį išdėstyti taip:
 
 „LIETUVOS RESPUBLIKOS PAŠTO ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Įstatymas nustato pašto veiklos teisinius pagrindus, pašto paslaugų teikėjų ir naudotojų santykius, pašto paslaugų teikėjų teises ir pareigas bei atsakomybę už šio Įstatymo pažeidimus.
 
 2. Įstatymas nereglamentuoja diplomatinio pašto veiklos.
 
-\#### 2 straipsnis. Pagrindinės Įstatymo sąvokos
+## 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 1. Asmenys – fiziniai ir juridiniai asmenys.
 
@@ -108,11 +108,11 @@ Pakeisti Pašto įstatymą ir jį išdėstyti taip:
 
 33. Pašto mokos ženklai – galiojantys Lietuvos Respublikos pašto ženklai, pašto blokai, ženklinti vokai ir atvirukai (atvirlaiškiai) bei ženklintos aerogramos, ženklintuvų antspaudai ir specialūs valstybės pašto patvirtinti mokėjimo spaudai.
 
-\#### 3 straipsnis. Teisiniai pašto veiklos pagrindai
+## 3 straipsnis. Teisiniai pašto veiklos pagrindai
 
 Pašto paslaugų teikėjų veiklą bei šių paslaugų teikėjų ir naudotojų santykius Lietuvos Respublikoje reglamentuoja šis ir kiti įstatymai, Vyriausybės nutarimai, kiti teisės aktai, Pasaulinės pašto sąjungos vykdomasis reglamentas, Pasaulinės pašto sąjungos konvencija ir Lietuvos Respublikostarptautinės sutartys.
 
-\#### 4 straipsnis. Valstybinis pašto veiklos administravimas
+## 4 straipsnis. Valstybinis pašto veiklos administravimas
 
 1. Valstybės politiką pašto srityje formuoja ir įgyvendina Vyriausybė ar jos įgaliota institucija. Vyriausybė ar jos įgaliota institucija:
 
@@ -148,11 +148,11 @@ Pašto paslaugų teikėjų veiklą bei šių paslaugų teikėjų ir naudotojų s
 
 6) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
-\#### 5 straipsnis. Pašto paslaugų teikimas
+## 5 straipsnis. Pašto paslaugų teikimas
 
 Valstybės paštas ir kiti pašto paslaugų teikėjai turi teisę surinkti, skirstyti, vežti ir pristatyti pašto, dokumentų siuntas, pašto perlaidas bei teikti pasiuntinių pašto paslaugas tik gavę leidimą. Teikti kitas, su pašto paslaugų teikimu tiesiogiai nesusijusias paslaugas, gali, jeigu to nedraudžia kiti įstatymai.
 
-\#### 6 straipsnis. Valstybės pašto pareigos ir teisės teikiant universaliąsias pašto paslaugas
+## 6 straipsnis. Valstybės pašto pareigos ir teisės teikiant universaliąsias pašto paslaugas
 
 1. Valstybės pašto pareiga – teikti universaliąsias pašto paslaugas.
 
@@ -174,11 +174,11 @@ Valstybės paštas ir kiti pašto paslaugų teikėjai turi teisę surinkti, skir
 
 4. Valstybės paštas turi teisę turėti antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. Valstybės herbą paštas gali naudoti iškabose, pašto ženkluose, dokumentų blankuose.
 
-\#### 7 straipsnis. Valstybės pašto pajamos
+## 7 straipsnis. Valstybės pašto pajamos
 
 Valstybės pašto pajamas sudaro pajamos, gautos už universaliąsias, pasiuntinių, pašto ir kitas paslaugas bei parduotus pašto mokos ženklus ir filatelinę produkciją.
 
-\#### 8 straipsnis. Pašto ir kitų paslaugų tarifai
+## 8 straipsnis. Pašto ir kitų paslaugų tarifai
 
 1. Universaliųjų pašto paslaugų didžiausius tarifus valstybės paštui nustato Vyriausybė. Vyriausybės nustatomi valstybės paštui didžiausi universaliųjų pašto paslaugų tarifai neturi būti mažesni negu teikiamų pašto paslaugų išlaidos. Jeigu Vyriausybė nustato valstybės paštui didžiausius universaliųjų pašto paslaugų tarifus mažesnius už pašto paslaugų išlaidas, šių išlaidų ir tarifų skirtumas padengiamas iš valstybės biudžete numatytų lėšų.
 
@@ -186,13 +186,13 @@ Valstybės pašto pajamas sudaro pajamos, gautos už universaliąsias, pasiuntin
 
 3. Konkrečius universaliųjų, pašto ir kitų paslaugų tarifus nustato pašto paslaugų teikėjas arba jie nustatomi sutartyse su pašto paslaugų naudotojais.
 
-\#### 9 straipsnis. Universaliųjų pašto paslaugų tarifų nustatymo principai
+## 9 straipsnis. Universaliųjų pašto paslaugų tarifų nustatymo principai
 
 1. Universaliųjų pašto paslaugų tarifai nustatomi vadovaujantis šiuo principu: tarifai privalo būti susieti su teikiamų paslaugų išlaidomis, bet turi būti prieinami pašto paslaugų naudotojams.
 
 2. Universaliųjų pašto paslaugų vienodų tarifų taikymas neturi apriboti universaliųjų pašto paslaugų teikėjo teisės sudaryti su pašto paslaugų naudotojais individualias sutartis dėl universaliųjų pašto paslaugų tarifų, tačiau šie tarifai negali viršyti Vyriausybės nustatytų dydžių.
 
-\#### 10 straipsnis. Draudžiami siųsti pašto ir dokumentų siuntose daiktai
+## 10 straipsnis. Draudžiami siųsti pašto ir dokumentų siuntose daiktai
 
 1. Pašto, dokumentų siuntose draudžiama siųsti daiktus, kuriuos įvežti į pašto, dokumentų siuntos gavimo šalį ar joje naudoti yra uždrausta.
 
@@ -200,7 +200,7 @@ Valstybės pašto pajamas sudaro pajamos, gautos už universaliąsias, pasiuntin
 
 3. Jei įstatymų nustatytais atvejais ir tvarka konfiskuojama pašto, dokumentų siunta kartu su draudžiamais siųsti daiktais, apie tai nedelsiant pranešama siuntėjui. Pranešime išvardijami konfiskuoti daiktai.
 
-\#### 11 straipsnis. Pašto, dokumentų siuntų slaptumas ir kontrolė
+## 11 straipsnis. Pašto, dokumentų siuntų slaptumas ir kontrolė
 
 1. Pašto paslaugų teikėjai siuntėjams privalo garantuoti susirašinėjimo slaptumą, išskyrus įstatymų nustatytus atvejus.
 
@@ -210,13 +210,13 @@ Valstybės pašto pajamas sudaro pajamos, gautos už universaliąsias, pasiuntin
 
 4. Pašto paslaugų teikėjams draudžiama teikti neįgaliotiems asmenims informaciją apie kitų asmenų naudojimąsi pašto paslaugomis arba sudaryti sąlygas šią informaciją gauti.
 
-\#### 12 straipsnis. Pašto, dokumentų siuntų vežimas
+## 12 straipsnis. Pašto, dokumentų siuntų vežimas
 
 1. Pašto, dokumentų siuntos vežamos pašto paslaugų teikėjų arba kitų vežėjų, su kuriais sudarytos sutartys, transporto priemonėmis. Vežėjo atsakomybė už pašto, dokumentų siuntos neišsaugojimą (praradimą, apgadinimą, daiktų trūkumą jose) nustatoma vežimo sutartyje, vadovaujantis įstatymais bei Lietuvos Respublikos tarptautinėmis sutartimis.
 
 2. Pašto, dokumentų siuntas vežančioms transporto priemonėms, jų lydėtojams per pasienio kontrolės punktus, nuolatinėmis ir laikinomis jūrų, upių, kanalų ar kitų vandens telkinių perkėlomis leidžiama vykti be eilės.
 
-\#### 13 straipsnis. Pašto, dokumentų siuntų priėmimas ir pristatymas teikiant universaliąsias pašto paslaugas
+## 13 straipsnis. Pašto, dokumentų siuntų priėmimas ir pristatymas teikiant universaliąsias pašto paslaugas
 
 1. Valstybės paštui universaliųjų pašto paslaugų teikimo tvarką nustato Pašto taisyklės. Kitos pašto paslaugos teikiamos sutartyse su paslaugų naudotojais arba paslaugų teikėjo nustatyta tvarka.
 
@@ -232,17 +232,17 @@ Valstybės pašto pajamas sudaro pajamos, gautos už universaliąsias, pasiuntin
 
 7. Jeigu gaunamųjų laiškų dėžutės neįrengtos, pašto siuntos gavėjams nepristatomos. Gavėjai pašto siuntas turi pasiimti juos aptarnaujančių pašto paslaugų teikėjų nustatytose vietose.
 
-\#### 14 straipsnis. Nemokamas pašto korespondencijos siuntimas
+## 14 straipsnis. Nemokamas pašto korespondencijos siuntimas
 
 Valstybės paštas apmoka sekogramų, karo belaisvių ir internuotų asmenų pašto korespondencijos siuntimo išlaidas.
 
-\#### 15 straipsnis. Pretenzijų pateikimas
+## 15 straipsnis. Pretenzijų pateikimas
 
 1. Siuntėjas dėl žalos atlyginimo už dingusią pašto, dokumentų siuntą, dingusius, trūkstamus ar apgadintus siųstus daiktus gali pareikšti pretenziją pašto paslaugų teikėjui: dėl pašto, dokumentų siuntos, siųstos šalyje, – per šešis mėnesius, siųstos į užsienį, – per vienerius metus nuo išsiuntimo dienos.
 
 2. Pretenzijos, pareikštos pasibaigus šio straipsnio 1 dalyje nustatytam terminui, nenagrinėjamos.
 
-\#### 16 straipsnis. Pašto paslaugų teikėjų civilinė atsakomybė
+## 16 straipsnis. Pašto paslaugų teikėjų civilinė atsakomybė
 
 1. Žala dėl prarastų, sugadintų pašto, dokumentų siuntų (padaryta nuo jų priėmimo iki įteikimo gavėjui) atlyginama šio Įstatymo nustatyto dydžio ir tvarka, jeigu pašto paslaugų teikėjų sutartyse su pašto paslaugų naudotojais nenumatyta kitaip.
 
@@ -252,7 +252,7 @@ Valstybės paštas apmoka sekogramų, karo belaisvių ir internuotų asmenų pa�
 
 2) prarastus draudžiamus siųsti pašto, dokumentų siuntose daiktus.
 
-\#### 17 straipsnis. Žalos atlyginimo dydis ir tvarka
+## 17 straipsnis. Žalos atlyginimo dydis ir tvarka
 
 1. Jeigu dėl pašto paslaugų teikėjo, teikusio pašto paslaugas (išskyrus pasiuntinių pašto paslaugas), kaltės prarastos arba sugadintos pašto siuntos, jose trūksta daiktų ar daiktai apgadinti, jis atlygina:
 
@@ -300,15 +300,15 @@ Valstybės paštas apmoka sekogramų, karo belaisvių ir internuotų asmenų pa�
 
 7) dokumentų, pašto siunta prarasta ar sugadinta šalyje, kurioje už tai nenumatytas žalos atlyginimas.
 
-\#### 18 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
+## 18 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
 
 Asmenys už šio Įstatymo pažeidimus traukiami administracinėn ir baudžiamojon atsakomybėn įstatymų nustatyta tvarka.
 
-\#### 19 straipsnis. Ginčų sprendimas
+## 19 straipsnis. Ginčų sprendimas
 
 Ginčai tarp pašto paslaugų teikėjų ir paslaugų naudotojų sprendžiami įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Įstatymas įsigalioja nuo 2002 m. sausio 1 d.
 

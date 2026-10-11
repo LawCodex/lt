@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7a911b42dfda11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A911B42DFDA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 ir 4 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO NR. VIII-2032 2,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 6. Elektroninė kelių rinkliava mokama Elektroninės kelių rinkliavos informacinėje sistemoje. Kelių rinkliavos lėšos yra paskirtojo kelių rinkliavos rinkėjo pajamos. Šios lėšos naudojamos Lietuvos Respublikos Valstybinio kelių fondo įstatyme nustatyta tvarka.“.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 8 dalį ir ją išdėstyti taip:
 

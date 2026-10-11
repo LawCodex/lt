@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e05c3e1024aa11e5b336e9064144f02a"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E05C3E1024AA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymas

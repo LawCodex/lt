@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/25cc7e20fdfb11ec8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25CC7E20FDFB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas

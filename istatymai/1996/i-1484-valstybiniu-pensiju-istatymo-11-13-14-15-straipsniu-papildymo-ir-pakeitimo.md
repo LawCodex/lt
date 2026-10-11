@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A766B68AB31D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A766B68AB31D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 11, 13, 14, 15 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84), Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194))
 
-\#### 1 straipsnis. 11 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 11 straipsnio papildymas ir pakeitimas
 
 Papildyti ir pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Getų ir koncentracijos stovyklų sąrašą tvirtina Lietuvos gyventojų genocid
 
 Nukentėjusiųjų asmenų valstybinės pensijos neskiriamos šio straipsnio pirmojoje ir antrojoje dalyse nurodytiems asmenims, jeigu jie 1939–1954 metais tarnavo ar dirbo baudžiamuose (naikintojų), „liaudies gynėjų“ būriuose ar junginiuose, buvusio TSRS Saugumo komiteto bei kitose struktūrose, kurių veikla buvo nukreipta kovai prieš rezistencinį judėjimą Lietuvoje ar vykdyti Lietuvos gyventojų genocidą.“
 
-\#### 2 straipsnis. 13 straipsnio antrosios dalies papildymas
+## 2 straipsnis. 13 straipsnio antrosios dalies papildymas
 
 Papildyti 13 straipsnio antrąją dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Papildyti 13 straipsnio antrąją dalį ir ją išdėstyti taip:
 
 2) III grupės invalidams – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.“
 
-\#### 3 straipsnis. 14 straipsnio trečiosios dalies papildymas
+## 3 straipsnis. 14 straipsnio trečiosios dalies papildymas
 
 Papildyti 14 straipsnio trečiąją dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Papildyti 14 straipsnio trečiąją dalį ir ją išdėstyti taip:
 
 5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir 5 punktuose nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti invalidais.“
 
-\#### 4 straipsnis. 15 straipsnio ketvirtosios dalies papildymas
+## 4 straipsnis. 15 straipsnio ketvirtosios dalies papildymas
 
 Papildyti 15 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
 

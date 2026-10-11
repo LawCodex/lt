@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.22C9F75B9CB4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.22C9F75B9CB4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo papildymo 9-1, 9-2 straipsniais ir 24, 43-1, 51 straipsnių, 2 priedo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5); 2004, Nr. [73-2545](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F5AD6471BE); 2005, Nr. [143-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.0AA2765486A5); 2006, Nr. [116-4402](https://www.e-tar.lt/portal/lt/legalAct/TAR.7C06B2CCB290); 2007, Nr. [4-161](https://www.e-tar.lt/portal/lt/legalAct/TAR.323AD9A52EC9); 2010, Nr. [84-4401](https://www.e-tar.lt/portal/lt/legalAct/TAR.B762CFB3EC0F); 2011, Nr. [72-3476](https://www.e-tar.lt/portal/lt/legalAct/TAR.F1FBF4C9424F), Nr. [91-4321](https://www.e-tar.lt/portal/lt/legalAct/TAR.568133AC3203))
 
-\#### 1 straipsnis. Įstatymo papildymas 91 straipsniu
+## 1 straipsnis. Įstatymo papildymas 91 straipsniu
 
 Papildyti Įstatymą 9^1 straipsniu:
 
@@ -38,7 +38,7 @@ Papildyti Įstatymą 9^1 straipsniu:
 
 2. Lėšos kontaktinio centro funkcijoms atlikti skiriamos ir administruojamos Biudžeto sandaros įstatymo nustatyta tvarka. Šios lėšos skiriamos iš Lietuvos Respublikos ūkio ministerijai numatytų bendrųjų valstybės biudžeto asignavimų.“
 
-\#### 2 straipsnis. Įstatymo papildymas 92 straipsniu
+## 2 straipsnis. Įstatymo papildymas 92 straipsniu
 
 Papildyti Įstatymą 9^2 straipsniu:
 
@@ -50,7 +50,7 @@ Papildyti Įstatymą 9^2 straipsniu:
 
 3. Esminius statinių reikalavimus ir statinių techninius parametrus nustatančios institucijos privalo Vyriausybės nustatyta tvarka kontaktiniam centrui pagal kompetenciją teikti Reglamento (ES) Nr. 305/2011 10 straipsnio 3 dalyje nustatytą informaciją.“
 
-\#### 3 straipsnis. 24 straipsnio papildymas 7 ir 8 dalimis
+## 3 straipsnis. 24 straipsnio papildymas 7 ir 8 dalimis
 
 1. Papildyti 24 straipsnį 7 dalimi:
 
@@ -60,7 +60,7 @@ Papildyti Įstatymą 9^2 straipsniu:
 
 „8. Rekonstruoto ypatingo ar neypatingo statinio naujas dalis galima pradėti naudoti tik įvykdžius šio straipsnio 1 dalies reikalavimus. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius namus, kai juose neįrengiamos naujos negyvenamosios paskirties patalpos, ir susisiekimo komunikacijas.“
 
-\#### 4 straipsnis. 431 straipsnio 1, 3 ir 5 dalių pakeitimas
+## 4 straipsnis. 431 straipsnio 1, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 431 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -86,7 +86,7 @@ Papildyti Įstatymą 9^2 straipsniu:
 
 „5. Pastato energinio naudingumo sertifikatas galioja ne ilgiau kaip 10 metų. Minimalius privalomus pastatų energinio naudingumo reikalavimus, pastatų energinio naudingumo sertifikavimo tvarką ir sąlygas, pastatų energinio naudingumo sertifikavimo priežiūros tvarką nustato Vyriausybė arba jos įgaliota institucija. Po 2018 m. gruodžio 31 d. valstybės ir savivaldybių institucijų, įstaigų ir įmonių statomi nauji, o po 2020 m. gruodžio 31 d. visi statomi nauji pastatai turi būti energijos beveik nevartojantys pastatai, kaip jie suprantami pagal Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymą. Reikalavimus energijos beveik nevartojantiems pastatams nustato Vyriausybė arba jos įgaliotos institucijos. Pastatų energinio naudingumo sertifikavimą prižiūrinčias institucijas ir jų funkcijas sertifikavimo priežiūros srityje nustato Aplinkos ministerija.“
 
-\#### 5 straipsnis. 51 straipsnio pakeitimas
+## 5 straipsnis. 51 straipsnio pakeitimas
 
 Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
 Už statinio naudojimą pažeidžiant šiame ir kituose įstatymuose nustatytus reikalavimus ir (ar) naudojimą ne pagal paskirtį skiriama bauda nuo penkių tūkstančių iki dvidešimt penkių tūkstančių litų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šiame straipsnyje numatytą pažeidimą, skiriama bauda nuo dešimties tūkstančių iki trisdešimties tūkstančių litų.“
 
-\#### 6 straipsnis. Įstatymo 2 priedo papildymas 7 ir 8 punktais
+## 6 straipsnis. Įstatymo 2 priedo papildymas 7 ir 8 punktais
 
 1. Papildyti Įstatymo 2 priedą 7 punktu:
 
@@ -104,13 +104,13 @@ Už statinio naudojimą pažeidžiant šiame ir kituose įstatymuose nustatytus 
 
 „8. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (OL 2011 L 88, p. 5).“
 
-\#### 7 straipsnis. Pasiūlymai Vyriausybei
+## 7 straipsnis. Pasiūlymai Vyriausybei
 
 1. Vyriausybė iki šio įstatymo 1 ir 2 straipsnių įsigaliojimo priima šio įstatymo 1 ir 2 straipsnių įgyvendinamuosius teisės aktus.
 
 2. Vyriausybė arba jos įgaliotos institucijos ir Aplinkos ministerija iki 2012 m. liepos 9 d. priima šio įstatymo 4 straipsnio įgyvendinamuosius teisės aktus.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 1, 2 straipsnius, 6 straipsnio 2 dalį ir 7 straipsnį, įsigalioja 2013 m. sausio 9 d.
 

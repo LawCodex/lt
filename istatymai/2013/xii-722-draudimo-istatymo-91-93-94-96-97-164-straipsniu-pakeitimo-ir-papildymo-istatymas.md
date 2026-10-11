@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6b7a5b10723911e3b29084acd991add8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6B7A5B107239.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo 91, 93, 94, 96, 97, 164 straipsnių pakeitimo ir papildymo ĮSTATYMAS
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2003, Nr. [94-4246](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=218739); 2011, Nr. [145-6816](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=412643); 2013, Nr. [46-2247](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=447189))
 
-\#### 1 straipsnis. 91 straipsnio papildymas 6 dalimi
+## 1 straipsnis. 91 straipsnio papildymas 6 dalimi
 
 Papildyti 91 straipsnį 6 dalimi:
 
 „6. Tais atvejais, kai šiame skyriuje numatytas rašytinis informacijos pateikimas, laikoma, kad šis reikalavimas yra išlaikytas, jei, iš anksto suderinus ir aptarus individualiai, informacija pateikiama elektroniniu paštu, faksu ir kitais telekomunikacijų galiniais įrenginiais, suteikiančiais galimybę įrodyti informacijos pateikimo faktą.“
 
-\#### 2 straipsnis. 93 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 4 dalimi
+## 2 straipsnis. 93 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 93 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Papildyti 91 straipsnį 6 dalimi:
 
 „4. Draudikas ir draudimo tarpininkas, sudarydami ir vykdydami draudimo sutartį, turi teisę tvarkyti apdraustojo, naudos gavėjo ir draudimo įmokų mokėtojo asmens duomenis be jų sutikimo, išskyrus ypatingus asmens duomenis.“
 
-\#### 3 straipsnis. 94 straipsnio pakeitimas
+## 3 straipsnis. 94 straipsnio pakeitimas
 
 Pakeisti 94 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 94 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu draudimo apsaugos sustabdymas pagal gyvybės draudimo sutartį dėl draudimo įmokos nesumokėjimo tęsiasi ilgiau negu 6 mėnesius, draudikas turi teisę vienašališkai nutraukti draudimo sutartį.“
 
-\#### 4 straipsnis. 96 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 96 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 96 straipsnį nauja 5 dalimi:
 
@@ -64,19 +64,19 @@ Pakeisti 94 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias 96 straipsnio 5, 6, 7 ir 8 dalis laikyti atitinkamai 6, 7, 8 ir 9 dalimis.
 
-\#### 5 straipsnis. 97 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 97 straipsnio 3 dalies pakeitimas
 
 Pakeisti 97 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Automatinių draudimo sutarties termino pratęsimų skaičius nėra ribojamas. Automatinio draudimo sutarties termino pratęsimo sąlygos privalo būti individualiai aptartos sudarant draudimo sutartį.“
 
-\#### 6 straipsnis. 164 straipsnio 6 dalies pakeitimas
+## 6 straipsnis. 164 straipsnio 6 dalies pakeitimas
 
 Pakeisti 164 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Draudimo brokerių įmonė privalo atidaryti atskirą banko sąskaitą, į kurią pervedamos tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšos ir draudikų lėšos, skirtos išmokėti šiems asmenims. Į šias lėšas negali būti nukreipiami išieškojimai pagal kitas draudimo brokerių įmonės prievoles, o draudimo brokerių įmonei bankrutavus iš šioje sąskaitoje esančių lėšų gali būti tenkinami tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų kreditorių reikalavimai. Kompetentinga institucija turi teisę teikti privalomus nurodymus dėl lėšų, laikomų atskiroje banko sąskaitoje.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

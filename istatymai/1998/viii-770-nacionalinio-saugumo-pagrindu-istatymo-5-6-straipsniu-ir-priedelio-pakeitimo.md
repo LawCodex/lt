@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6004A90751D2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6004A90751D2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 5, 6 straipsnių ir priedėlio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vyriausybė, vadovaudamasi Nacionalinio saugumo pagrindais, pateikia Seimui ilgalaikių valstybinių saugumo stiprinimo programų rengimo planą, nustato jų rengimo bei vykdymo tvarką, rengia šias programas ir pateikia Seimui, išskyrus valstybės paslaptį sudarančias jų dalis. Dėl pateiktos programos Seimas priima nutarimą.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnyje vietoj žodžių „iki kovo 31 d.“ įrašyti žodžius „iki gegužės 1 d.“ ir šį straipsnį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 Vyriausybė kasmet ne vėliau kaip iki gegužės 1 d. pateikia Seimui metinę ataskaitą apie nacionalinio saugumo sistemos būklę ir plėtrą. Seimas svarsto Vyriausybės ataskaitą ir dėl jos priima rezoliuciją.“
 
-\#### 3 straipsnis. Priedėlio pakeitimas ir papildymas
+## 3 straipsnis. Priedėlio pakeitimas ir papildymas
 
 1. Pakeisti 8 skyriaus 3 dalį ir ją išdėstyti taip:
 

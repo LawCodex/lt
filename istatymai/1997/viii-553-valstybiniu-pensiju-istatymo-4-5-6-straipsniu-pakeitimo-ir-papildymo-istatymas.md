@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.901DC8BD80E5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.901DC8BD80E5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1997, Nr. 30-708, Nr. 104-2622)
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 4 straipsnio 1 dalyje vietoj žodžių „kuriant bei plėtojant“ įrašyti žodžius „kurdami bei plėtodami“, prieš žodį „sportą“ įrašyti žodį „ir“, po žodžio „sportą“ įrašyti žodžius „gindami valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką, labiausiai pasižymėję pasipriešinimo 1940–1990 metų okupacijoms dalyviai“, po žodžio „vaikų“ vietoj žodžio „ir“ įrašyti žodžius „jei šie asmenys yra“; papildyti straipsnį 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Teisę gauti pirmojo arba antrojo laipsnio valstybinę pensiją šio įstatymo n
 
 Teisę gauti pirmojo laipsnio valstybinę pensiją šio įstatymo nustatyta tvarka turi ginkluoto pasipriešinimo (rezistencijos) dalyviai – kariai savanoriai.“
 
-\#### 2 straipsnis. 5 straipsnio papildymas
+## 2 straipsnis. 5 straipsnio papildymas
 
 1. Papildyti 5 straipsnį nauja 4 dalimi:
 
@@ -50,7 +50,7 @@ Teisę gauti pirmojo laipsnio valstybinę pensiją šio įstatymo nustatyta tvar
 
 2. Buvusią 4 dalį laikyti 5 dalimi.
 
-\#### 3 straipsnis. 6 straipsnio papildymas
+## 3 straipsnis. 6 straipsnio papildymas
 
 1. 6 straipsnio 3 dalyje po žodžio „institucijų“ įrašyti žodžius „taip pat Lietuvos gyventojų genocido ir rezistencijos tyrimo centro“ ir šią dalį išdėstyti taip:
 

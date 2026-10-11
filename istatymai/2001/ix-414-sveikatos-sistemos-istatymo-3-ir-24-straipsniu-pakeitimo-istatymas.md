@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.060B6AACDC97"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.060B6AACDC97.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 3 ir 24 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A))
 
-\#### 1 straipsnis. 3 straipsnio 8 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 8 punkto pakeitimas
 
 Pakeisti 3 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „8) asmenų, turinčių aukštąjį medicinos, aukštąjį ir (ar) aukštesnįjį slaugos ar kitos medicinos specialybės išsilavinimą, sveikatinimo veiklos licencijavimo teisinius pagrindus, pagrindines profesines sveikatos priežiūros specialistų pareigas, teises, profesinės kvalifikacijos įgijimo, profesinio tobulinimosi, sveikatos priežiūros reklamos ribojimo, civilinės atsakomybės už žalą pacientų sveikatai, padarytą teikiant asmens sveikatos priežiūros paslaugas, nustatymo teisinius pagrindus;“.
 
-\#### 2 straipsnis. 24 straipsnio pakeitimas
+## 2 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 

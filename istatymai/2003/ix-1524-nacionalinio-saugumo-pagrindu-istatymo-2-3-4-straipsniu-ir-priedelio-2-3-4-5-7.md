@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B6DEB099CF05"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B6DEB099CF05.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo 2, 3, 4 straipsnių ir priedėlio 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25 skyrių pakeitimo bei papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 1998, Nr. [55-1520](https://www.e-tar.lt/portal/lt/legalAct/TAR.6004A90751D2); 1999, Nr. [11-245](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D4EE979B475); 2000, Nr. [58-1710](https://www.e-tar.lt/portal/lt/legalAct/TAR.BDC4B579ACEC), Nr. [92-2849](https://www.e-tar.lt/portal/lt/legalAct/TAR.2D73CC0D50DD); 2003, Nr. [32-1309](https://www.e-tar.lt/portal/lt/legalAct/TAR.2BCA2EC9B162))
 
-\#### 1 straipsnis. 2 straipsnio papildymas
+## 1 straipsnis. 2 straipsnio papildymas
 
 2 straipsnyje po žodžio „kariuomenė“ įrašyti žodį „policija“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Lietuvos nacionalinį saugumą užtikrina Lietuvos Respublikos piliečiai, jų bendrijos ir organizacijos, Respublikos Prezidentas, Seimas, Vyriausybė, kariuomenė, policija, kitos šiam tikslui valstybės įsteigtos institucijos, vadovaudamiesi Konstitucija ir įstatymais bei vykdydami savo pareigas ir funkcijas nacionalinio saugumo sistemoje.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas 2 dalimi
+## 2 straipsnis. 3 straipsnio papildymas 2 dalimi
 
 Papildyti 3 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Papildyti 3 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Vadovaudamasi šio įstatymo nustatytais Nacionalinio saugumo pagrindais, Vyriausybė Valstybės gynimo tarybos pritarimu teikia Seimui tvirtinti Nacionalinio saugumo strategiją, įtvirtinančią valstybės nacionalinio saugumo sistemos plėtros, užsienio, gynybos ir vidaus politikos prioritetus, ilgalaikius bei vidutinio laikotarpio uždavinius. Valstybės gynimo taryba svarsto, kaip vykdoma Nacionalinio saugumo strategija, ir teikia rekomendacijas ją keisti. Strategija gali būti pagal poreikį tikslinama atsižvelgiant į saugumo padėties pokyčius.“
 
-\#### 3 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas ir 5 dalies pripažinimas netekusia galios
+## 3 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas ir 5 dalies pripažinimas netekusia galios
 
 1. 4 straipsnio 3 dalyje išbraukti žodžius „nacionalinio saugumo plėtrai reikalingų“, po žodžio „pagrindų“ įrašyti žodžius „įstatymo ir Nacionalinio saugumo strategijos“ ir šią dalį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Papildyti 3 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 3. 4 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. Priedėlio 2 skyriaus trečiojo skirsnio 1 dalies pakeitimas
+## 4 straipsnis. Priedėlio 2 skyriaus trečiojo skirsnio 1 dalies pakeitimas
 
 1. 2 skyriaus trečiojo skirsnio 1 dalies a punkto 6 pastraipoje vietoj žodžio „aktyvųjį“ įrašyti žodį „mobilizacinį“, po žodžio „rezervą“ įrašyti žodžius „pagal nacionalinius ir NATO kolektyvinės gynybos planus“ ir šią pastraipą išdėstyti taip:
 
@@ -68,7 +68,7 @@ Papildyti 3 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „– integruodamasi į Europos Sąjungą (EU) ir Šiaurės Atlanto sutarties organizaciją (NATO) bei kaip visateisė narė aktyviai dalyvaudama šiose organizacijose;“.
 
-\#### 5 straipsnis. Priedėlio 3 skyriaus pakeitimas
+## 5 straipsnis. Priedėlio 3 skyriaus pakeitimas
 
 Pakeisti 3 skyrių ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saug
 
 Nacionalinis saugumas taip pat grindžiamas Jungtinių Tautų Chartija, Europos saugumo ir bendradarbiavimo organizacijos dokumentais, Šiaurės Atlanto sutartimi, žmogaus teisių apsaugos ir kitomis daugiašalėmis ir dvišalėmis tarptautinėmis sutartimis, įsigaliojusiomis Lietuvos Respublikai, taip pat visuotinai pripažintais tarptautinės teisės principais ir normomis.“
 
-\#### 6 straipsnis. Priedėlio 4 skyriaus pakeitimas
+## 6 straipsnis. Priedėlio 4 skyriaus pakeitimas
 
 1. 4 skyriaus skirsnio „Saugumo užtikrinimo politika“ 3 dalyje vietoj žodžio „sienų“ įrašyti žodį „sienos“, vietoj žodžių „Karaliaučiaus krašto (Kaliningrado srities)“ įrašyti žodžius „Rusijos Federacijos Karaliaučiaus (Kaliningrado) srities“, vietoj žodžių „jūrų sienų“ įrašyti žodžius „valstybės sienos jūroje, Kuršių mariose ir pasienio vidaus vandenyse“ ir šią dalį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Kova su nusikalstamumu, viešosios tvarkos bei asmens saugumo valstybėje užtik
 
 Kitas prioritetas – patikima, Europos Sąjungos reikalavimus atitinkanti valstybės sienos kontrolė ir apsauga. Įstatymu nustatomi valstybės sienos ir pasienio teisiniai režimai, reglamentuojamas valstybės sienos apsaugos organizavimas.“
 
-\#### 7 straipsnis. Priedėlio 5 skyriaus 2 ir 4 dalių pakeitimas
+## 7 straipsnis. Priedėlio 5 skyriaus 2 ir 4 dalių pakeitimas
 
 1. 5 skyriaus 2 dalyje vietoj žodžio „plėtoti“ įrašyti žodį „stiprinti“ ir šią dalį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Kitas prioritetas – patikima, Europos Sąjungos reikalavimus atitinkanti valst
 
 – aktyviai prisidėti prie tarptautinės bendrijos pastangų užkirsti kelią konfliktams, įvesti, atkurti ir palaikyti taiką krizių paveiktuose regionuose.“
 
-\#### 8 straipsnis. Priedėlio 7 skyriaus pakeitimas
+## 8 straipsnis. Priedėlio 7 skyriaus pakeitimas
 
 1. 7 skyriaus pirmojo skirsnio 1 dalyje po žodžio „besąlyginis“ įrašyti žodžius „taip pat derinamas su NATO kolektyvinės gynybos principų įgyvendinimu“, 2 dalyje po žodžių „gina valstybės“ įrašyti žodžius „ir NATO sąjungininkų“, vietoj žodžio „įmanomais“ įrašyti žodžius „pagal tarptautinę teisę leistinais“, 3 dalyje po žodžio „Siekdama“ įrašyti žodžius „NATO sąjungininkų ir kitokios“ ir visą skirsnį išdėstyti taip:
 
@@ -190,7 +190,7 @@ Gynybos besąlyginumas reiškia, kad Lietuvos gynyba nėra saistoma jokių sąly
 
 „Pagrindinis kariuomenės uždavinys - naikinti priešą ir palaužti jo norą kovoti prieš Lietuvą. Konkrečius kariuomenės pajėgų, junginių ir dalinių uždavinius pagal savo kompetenciją nustato kariuomenės vadas bei lauko pajėgų vadas.“
 
-\#### 9 straipsnis. Priedėlio 8 skyriaus papildymas ir pakeitimas
+## 9 straipsnis. Priedėlio 8 skyriaus papildymas ir pakeitimas
 
 1. 8 skyriaus 2 dalį papildyti sakiniu ir šią dalį išdėstyti taip:
 
@@ -204,7 +204,7 @@ Gynybos besąlyginumas reiškia, kad Lietuvos gynyba nėra saistoma jokių sąly
 
 „Sprendimus dėl mobilizacijos, karo padėties įvedimo, ginkluotųjų pajėgų panaudojimo ir gynybos nuo ginkluoto užpuolimo, taip pat sprendimus dėl Lietuvos kariuomenės vienetų dalyvavimo tarptautinėse karinėse operacijose priima Respublikos Prezidentas ir Seimas Konstitucijos ir įstatymų nustatyta tvarka.“
 
-\#### 10 straipsnis. Priedėlio 10 skyriaus pakeitimas
+## 10 straipsnis. Priedėlio 10 skyriaus pakeitimas
 
 1. 10 skyriaus pirmojo skirsnio 1 dalies 3 pastraipoje išbraukti žodžius „Vakarų Europos Sąjungoje“ ir šią pastraipą išdėstyti taip:
 
@@ -264,7 +264,7 @@ Lietuva, tapdama visateise Šiaurės Atlanto sutarties organizacijos, įskaitant
 
 4. 10 skyriaus ketvirtąjį ir penktąjį skirsnius pripažinti netekusiais galios.
 
-\#### 11 straipsnis. Priedėlio 11 skyriaus 1 dalies pakeitimas ir papildymas
+## 11 straipsnis. Priedėlio 11 skyriaus 1 dalies pakeitimas ir papildymas
 
 1. Pakeisti 11 skyriaus 1 dalies 3 pastraipą ir ją išdėstyti taip:
 
@@ -288,7 +288,7 @@ Lietuva, tapdama visateise Šiaurės Atlanto sutarties organizacijos, įskaitant
 
 – ilgalaikė pilietinio ir tautinio ugdymo programa.“
 
-\#### 12 straipsnis. Priedėlio 12 skyriaus 2 dalies pakeitimas
+## 12 straipsnis. Priedėlio 12 skyriaus 2 dalies pakeitimas
 
 Pakeisti 12 skyriaus 2 dalį ir ją išdėstyti taip:
 
@@ -318,7 +318,7 @@ Pakeisti 12 skyriaus 2 dalį ir ją išdėstyti taip:
 
 – kitos ministerijos ir kitos valstybės institucijos pagal savo kompetenciją.“
 
-\#### 13 straipsnis. Priedėlio 13 skyriaus pakeitimas
+## 13 straipsnis. Priedėlio 13 skyriaus pakeitimas
 
 Pakeisti 13 skyrių ir jį išdėstyti taip:
 
@@ -332,7 +332,7 @@ Pagal Konstituciją Respublikos Prezidentas yra vyriausiasis ginkluotųjų pajė
 
 Respublikos Prezidentas, gavęs Seimo pritarimą, skiria kariuomenės vadą. Krašto apsaugos ministro teikimu Respublikos Prezidentas skiria lauko pajėgų vadą.“
 
-\#### 14 straipsnis. Priedėlio 14 skyriaus antrojo skirsnio pakeitimas
+## 14 straipsnis. Priedėlio 14 skyriaus antrojo skirsnio pakeitimas
 
 1. 14 skyriaus antrojo skirsnio 5 dalyje išbraukti žodžius „tarp jų – Gynybos štabas, Ekstremalių situacijų komisija“ ir šią dalį išdėstyti taip:
 
@@ -348,7 +348,7 @@ Respublikos Prezidentas, gavęs Seimo pritarimą, skiria kariuomenės vadą. Kra
 
 „3) Respublikos Prezidentui, Seimui, Vyriausybei, Valstybės gynimo tarybai, Krizių valdymo komitetui ir Krizių prevencijos komitetui teikia išvadas, prognozes, rekomendacijas dėl krizių prevencijos, informuoja visuomenę.“
 
-\#### 15 straipsnis. Priedėlio 15 skyriaus pirmojo ir antrojo skirsnių pakeitimas
+## 15 straipsnis. Priedėlio 15 skyriaus pirmojo ir antrojo skirsnių pakeitimas
 
 1. Pakeisti 15 skyriaus pirmojo skirsnio 5 dalį ir ją dalį išdėstyti taip:
 
@@ -358,7 +358,7 @@ Respublikos Prezidentas, gavęs Seimo pritarimą, skiria kariuomenės vadą. Kra
 
 „Ginkluoto užpuolimo atveju, kai Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos agresijos, įskaitant sprendimą dalyvauti kolektyvinės gynybos operacijoje, įveda karo padėtį ar skelbia mobilizaciją, Seimas tvirtina šiuos sprendimus, užtikrindamas ginkluotą gynybą ir Lietuvos tarptautinių įsipareigojimų pagal kolektyvinės gynybos sutartis vykdymą. Seimas taip pat priima sprendimus dėl Lietuvos dalyvavimo kitose tarptautinėse karinėse operacijose, o neatidėliotinais atvejais, kai tokį sprendimą priima Respublikos Prezidentas, Seimas tvirtina arba panaikina šį sprendimą.“
 
-\#### 16 straipsnis. Priedėlio 16 skyriaus pakeitimas
+## 16 straipsnis. Priedėlio 16 skyriaus pakeitimas
 
 Pakeisti 16 skyrių ir jį išdėstyti taip:
 
@@ -368,7 +368,7 @@ VALSTYBĖS GYNIMO TARYBA
 
 Svarbiausius valstybės gynimo reikalus, įskaitant valstybės institucijų veiklą svarbiausiais valstybės saugumo užtikrinimo ir gynimo klausimais, svarsto ir koordinuoja Valstybės gynimo taryba. Į ją įeina Ministras Pirmininkas, Seimo Pirmininkas, krašto apsaugos ministras ir kariuomenės vadas. Valstybės gynimo tarybai vadovauja Respublikos Prezidentas. Į Valstybės gynimo tarybos posėdžius paprastai kviečiamas Valstybės saugumo departamento generalinis direktorius, užsienio ir vidaus reikalų ministrai, Seimo Nacionalinio saugumo ir gynybos komiteto pirmininkas. Tarybos sudarymą, veiklos tvarką ir įgaliojimus nustato įstatymas.“
 
-\#### 17 straipsnis. Priedėlio 17 skyriaus pakeitimas
+## 17 straipsnis. Priedėlio 17 skyriaus pakeitimas
 
 Pakeisti 17 skyrių ir jį išdėstyti taip:
 
@@ -380,7 +380,7 @@ Lietuvos Respublikos užsienio reikalų ministerija yra Lietuvos Respublikos vyk
 
 Įgyvendindama 5 skyriuje išdėstytas svarbiausias saugumą užtikrinančias Lietuvos užsienio politikos nuostatas, Užsienio reikalų ministerija teikia Vyriausybei pasiūlymus dvišalių ir daugiašalių santykių plėtojimo klausimais (įskaitant dėl narystės NATO ir Europos Sąjungoje galimybių optimalaus panaudojimo Lietuvos nacionalinio saugumo interesams užtikrinti ir dėl Lietuvos dalyvavimo įgyvendinant šių organizacijų tikslus) ir vykdo priimtus sprendimus; analizuoja tarptautinę padėtį, tarpvalstybinės politikos tendencijas, tarp jų geostrateginės aplinkos pokyčius bei tarptautinio saugumo grėsmių ir rizikų raidą; palaiko diplomatinius santykius su užsienio valstybėmis, taip pat ryšius su tarptautinėmis organizacijomis, įskaitant diplomatinio atstovavimo NATO būstinėje užtikrinimą ir aktyvų dalyvavimą politiniame derinime siekiant NATO narių konsensuso strateginiais klausimais; vadovauja Lietuvos Respublikos diplomatinių atstovybių užsienio valstybėse ir tarptautinėse organizacijose veiklai; koordinuoja ir kontroliuoja Lietuvos Respublikos tarptautinių sutarčių rengimą ir sudarymą su užsienio valstybėmis ir tarptautinėmis organizacijomis; įgyvendina Lietuvos Respublikos Vyriausybės nutarimus dėl stojimo į tarptautines organizacijas ir prisijungimo prie daugiašalių tarptautinių sutarčių; organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstatymų bei kitų teisės aktų tarptautinių santykių klausimais vykdymo kontrolę; atlieka kitas įstatymų ir Lietuvos Respublikos Vyriausybės nutarimų nustatytas funkcijas.“
 
-\#### 18 straipsnis. Priedėlio 18 skyriaus pakeitimas
+## 18 straipsnis. Priedėlio 18 skyriaus pakeitimas
 
 Pakeisti 18 skyrių ir jį išdėstyti taip:
 
@@ -416,7 +416,7 @@ Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavu
 
 Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir kitų teisės aktų nustatyta tvarka vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai ir karo policija. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.“
 
-\#### 19 straipsnis. Priedėlio 19 skyriaus pakeitimas
+## 19 straipsnis. Priedėlio 19 skyriaus pakeitimas
 
 1. 19 skyriaus pavadinime po žodžio „Policijos“ įrašyti žodžius „Vadovybės apsaugos departamento“ ir jį išdėstyti taip:
 
@@ -434,7 +434,7 @@ Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir ki
 
 4. Buvusias 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 20 straipsnis. Priedėlio 20 skyriaus pakeitimas
+## 20 straipsnis. Priedėlio 20 skyriaus pakeitimas
 
 Pakeisti 20 skyrių ir jį išdėstyti taip:
 
@@ -454,7 +454,7 @@ Valstybės saugumo departamento detalus biudžetas, ištekliai ir kita įstatym�
 
 Seimas atlieka parlamentinę Valstybės saugumo departamento veiklos kontrolę. Ši kontrolė atliekama laikantis valstybės paslapčių apsaugos reikalavimų ir Seimo nustatytų specialių procedūrų.“
 
-\#### 21 straipsnis. Priedėlio 21 skyriaus pakeitimas
+## 21 straipsnis. Priedėlio 21 skyriaus pakeitimas
 
 1. 21 skyriaus pirmojo skirsnio 2 dalyje išbraukti žodžius „Ekstremalių situacijų valdymo centras“ ir šią dalį išdėstyti taip:
 
@@ -462,7 +462,7 @@ Seimas atlieka parlamentinę Valstybės saugumo departamento veiklos kontrolę. 
 
 2. 21 skyriaus trečiąjį skirsnį pripažinti netekusiu galios.
 
-\#### 22 straipsnis. Priedėlio 22 skyriaus pakeitimas
+## 22 straipsnis. Priedėlio 22 skyriaus pakeitimas
 
 Pakeisti 22 skyrių ir jį išdėstyti taip:
 
@@ -476,7 +476,7 @@ Specialiųjų tyrimų tarnybos veiklą reglamentuoja įstatymai ir kiti teisės 
 
 Seimas, laikydamasis valstybės paslapčių apsaugos reikalavimų ir jo nustatytų specialių procedūrų, atlieka parlamentinę Specialiųjų tyrimų tarnybos veiklos kontrolę.“
 
-\#### 23 straipsnis. Priedėlio 25 skyriaus pakeitimas
+## 23 straipsnis. Priedėlio 25 skyriaus pakeitimas
 
 25 skyriuje vietoj žodžio „dokumento“ įrašyti žodžius „įstatymo bei Nacionalinio saugumo strategijos“ ir šį skyrių išdėstyti taip:
 

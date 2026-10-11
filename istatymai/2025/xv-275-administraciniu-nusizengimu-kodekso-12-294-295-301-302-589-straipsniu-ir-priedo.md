@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/cd451f804da411f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CD451F804DA4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 294, 295, 301, 302, 589 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 12, 294, 295, 301, 302, 589 STRAIPSNIŲ I
 
 Vilnius
 
-\#### 1 straipsnis. 12 straipsnio pakeitimas
+## 1 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217^2 straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnyje, 295 straipsnio 4 ir 5 dalyse, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.“
 
-\#### 2 straipsnis. 294 straipsnio pakeitimas
+## 2 straipsnis. 294 straipsnio pakeitimas
 
 Pakeisti 294 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ užtraukia baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitie
 
 užtraukia baudą nuo dvidešimt iki šešių šimtų eurų.“
 
-\#### 3 straipsnis. 294 straipsnio pakeitimas
+## 3 straipsnis. 294 straipsnio pakeitimas
 
 Papildyti 294 straipsnį 3 dalimi:
 
@@ -54,7 +54,7 @@ Papildyti 294 straipsnį 3 dalimi:
 
 užtraukia baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų tūkstančių eurų.“
 
-\#### 4 straipsnis. 295 straipsnio pakeitimas
+## 4 straipsnis. 295 straipsnio pakeitimas
 
 Pakeisti 295 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ užtraukia įspėjimą arba baudą laivų kapitonams ir (ar) juridinių asmenų 
 
 6. Už šio straipsnio 1, 4 ir 5 dalyse numatytus administracinius nusižengimus gali būti skiriamas nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 2 ir 3 dalyse numatytus administracinius nusižengimus privaloma skirti administracinių nusižengimų padarymo įrankių ir priemonių konfiskavimą.“
 
-\#### 5 straipsnis. 301 straipsnio pakeitimas
+## 5 straipsnis. 301 straipsnio pakeitimas
 
 Pakeisti 301 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ užtraukia baudą žvejybos laivų kapitonams nuo penkių tūkstančių iki še�
 
 užtraukia baudą nuo penkių tūkstančių iki šešiųtūkstančių eurų.“
 
-\#### 6 straipsnis. 302 straipsnio pakeitimas
+## 6 straipsnis. 302 straipsnio pakeitimas
 
 Pakeisti 302 straipsnį ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ užtraukia įspėjimą arba baudą nuo vieno šimto penkiasdešimt iki trijų š
 
 užtraukia įspėjimą arba baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.“
 
-\#### 7 straipsnis. 589 straipsnio pakeitimas
+## 7 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 31 punktą ir jį išdėstyti taip:
 
@@ -156,7 +156,7 @@ užtraukia įspėjimą arba baudą nuo trijų šimtų iki aštuonių šimtų še
 
 „76) Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos – dėl šio kodekso 291, 292, 294 straipsniuose, 295 straipsnio 4, 5 dalyse, 296, 297, 298, 299, 300, 301, 302, 505, 507 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 8 straipsnis. Kodekso priedo pakeitimas
+## 8 straipsnis. Kodekso priedo pakeitimas
 
 1. Pakeisti Kodekso priedo 35 punktą ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ užtraukia įspėjimą arba baudą nuo trijų šimtų iki aštuonių šimtų še
 
 „122^1. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentas [(ES) 2023/2842](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R2842&locale=lt), kuriuo iš dalies keičiamas Tarybos reglamentas [(EB) Nr. 1224/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R1224&locale=lt) ir, kiek tai susiję su žuvininkystės kontrole, iš dalies keičiami Tarybos reglamentai [(EB) Nr. 1967/2006](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32006R1967&locale=lt) bei [(EB) Nr. 1005/2008](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008R1005&locale=lt) ir Europos Parlamento ir Tarybos reglamentai [(ES) 2016/1139](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R1139&locale=lt), [(ES) 2017/2403](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R2403&locale=lt) bei [(ES) 2019/473](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0473&locale=lt).“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2026 m. sausio 10 d.
 

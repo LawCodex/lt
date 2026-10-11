@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.13ADAFC455FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.13ADAFC455FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 46 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E); 2008, Nr. [87-3456](https://www.e-tar.lt/portal/lt/legalAct/TAR.F018F554591D); 2009, Nr. [89-3804](https://www.e-tar.lt/portal/lt/legalAct/TAR.08C61C2278C4))
 
-\#### 1 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 

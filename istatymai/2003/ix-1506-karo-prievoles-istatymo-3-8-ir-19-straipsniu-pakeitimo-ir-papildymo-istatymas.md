@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E36BD2A89CB8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E36BD2A89CB8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 3, 8 ir 19 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [106-2427](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255); 1999, Nr. [59-1918](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ACCD429C6E8); 2000, Nr. [64-1933](https://www.e-tar.lt/portal/lt/legalAct/TAR.59F959087B0F))
 
-\#### 1 straipsnis. 3 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 3 straipsnio 2 dalyje vietoj žodžių „darbą (tarnybą) valstybės tarnyboje bei policijoje“ įrašyti žodžius „valstybės tarnybą“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Karo prievolininkai, stodami į valstybės tarnybą, privalo pateikti karo prievolininko statusą liudijantį karinį dokumentą: kario arba šauktinio liudijimą.“
 
-\#### 2 straipsnis. 8 straipsnio 5 dalies pakeitimas ir straipsnio papildymas nauja 6 dalimi
+## 2 straipsnis. 8 straipsnio 5 dalies pakeitimas ir straipsnio papildymas nauja 6 dalimi
 
 1. 8 straipsnio 5 dalyje po žodžio „rekomendavimu“ įrašyti žodžius „(išskyrus išimtį, nustatytą šio straipsnio 6 dalyje)“ ir šią dalį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 3. Buvusią 8 straipsnio 6 dalį laikyti 7 dalimi.
 
-\#### 3 straipsnis. 19 straipsnio 1 dalies 3 punkto ir 3 dalies pakeitimas
+## 3 straipsnis. 19 straipsnio 1 dalies 3 punkto ir 3 dalies pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „3. Būtinieji kariniai mokymai vyksta kariuomenės teritoriniuose daliniuose arba vietinėse teritorinėse krašto apsaugos ar kitose mokymo institucijose, kuriose organizuoti būtinieji kariniai mokymai. Būtinieji kariniai mokymai pretenduojantiems į vidaus tarnybą asmenims organizuojami vidaus reikalų statutinėse profesinio mokymo įstaigose su kariuomenės vadu suderinta tvarka.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
 

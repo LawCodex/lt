@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7CD45370213B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7CD45370213B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 68 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5))
 
-\#### 1 straipsnis. 68 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 68 straipsnio 2 dalies pakeitimas
 
 Pakeisti 68 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 68 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) kai PVM mokėtojas perduoda turtą, valdomą ir naudojamą patikėjimo teise ir kurio (o jeigu jis pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM ar jo dalis buvo įtrauktas (įtraukta) į PVM atskaitą, kitam apmokestinamajam asmeniui, kuris yra PVM mokėtojas, taip pat tais atvejais, kai turtas, kurio (o jeigu jis pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM ar jo dalis buvo įtrauktas (įtraukta) į PVM atskaitą, perduodamas kitam PVM mokėtojui dėl turtą perduodančio PVM mokėtojo skaidymo atskyrimo būdu pagal Lietuvos Respublikos akcinių bendrovių įstatymą. Šiais atvejais laikoma, kad turto perėmėjas jo (o jeigu jis buvo pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM arba jo dalį įtraukė į savo PVM atskaitą ir jam tenka prievolės tikslinti PVM atskaitą šiame skyriuje nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Iki šio Įstatymo įsigaliojimo valstybės įmonės Ignalinos atominės elektrinės patikėjimo teise valdomą ir naudojamą valstybei nuosavybės teise priklausantį turtą Lietuvos Respublikos Vyriausybės nutarimais perdavus patikėjimo teise valdyti ir naudoti valstybės įmonėms „Visagino energija“, „Visagino poligrafija“, „Visagino statybininkai“ ir Visagino transporto centrui, PVM atskaita neturi būti tikslinama. Šiuo atveju laikoma, kad turto perėmėjas jo (o jeigu jis buvo pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM arba jo dalį įtraukė į savo PVM atskaitą, ir jam tenka prievolės tikslinti PVM atskaitą Pridėtinės vertės mokesčio įstatymo VIII skyriaus nustatyta tvarka.
 

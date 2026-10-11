@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8df73e20828711ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8DF73E208287.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 38, 39 straipsnių pakeitimo ir 8 straipsnio pripažinimo netekusiu galios įstatymas
@@ -53,5 +53,3 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_de8b8bfa0da94ee9b1f2d97d41b6929c_end

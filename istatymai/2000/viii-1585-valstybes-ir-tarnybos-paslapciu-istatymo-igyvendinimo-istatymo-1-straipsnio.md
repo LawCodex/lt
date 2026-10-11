@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3C1DAA8065A4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3C1DAA8065A4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo įgyvendinimo įstatymo 1 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr.[105-3020](https://www.e-tar.lt/portal/lt/legalAct/TAR.0308952F6448))
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 Papildyti 1 straipsnį 2 punktu, buvusį 2 punktą laikyti 3 punktu ir visą straipsnį išdėstyti taip:
 

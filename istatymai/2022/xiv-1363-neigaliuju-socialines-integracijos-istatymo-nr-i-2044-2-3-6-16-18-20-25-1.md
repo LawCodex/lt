@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/456abe02034a11edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.456ABE02034A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 3, 6, 16, 18, 20, 25-1 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-2 straipsniu įstatymas
@@ -169,5 +169,3 @@ Papildyti Įstatymą 202 straipsniu:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_74a8eb0470f34c86b6bc8b23613f6a7d_end

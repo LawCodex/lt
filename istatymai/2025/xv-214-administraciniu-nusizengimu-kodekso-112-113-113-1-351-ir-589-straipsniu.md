@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/64956ba0358211f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.64956BA03582.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 112, 113, 113-1, 351 ir 589 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 112, 113, 1131, 351 IR 589 STRAIPSNIŲ PA
 
 Vilnius
 
-\#### 1 straipsnis. 112 straipsnio pakeitimas
+## 1 straipsnis. 112 straipsnio pakeitimas
 
 Pakeisti 112 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ užtraukia įspėjimą arba baudą žemės savininkams ar kitiems žemės naudot
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki dviejų šimtų aštuoniasdešimt eurų.“
 
-\#### 2 straipsnis. 113 straipsnio pakeitimas
+## 2 straipsnis. 113 straipsnio pakeitimas
 
 Pakeisti 113 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ užtraukia įspėjimą arbabaudą nuo vieno šimto iki trijų šimtų eurų.
 
 užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.“
 
-\#### 3 straipsnis. 1131 straipsnio pakeitimas
+## 3 straipsnis. 1131 straipsnio pakeitimas
 
 Pakeisti 113^1 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Neteisėtas riboženklio pastatymas, perdarymas, pašalinimas ar nukėlimas
 
 užtraukia baudą nuo vieno šimto iki trijų šimtų penkiasdešimt eurų.“
 
-\#### 4 straipsnis. 351 straipsnio pakeitimas
+## 4 straipsnis. 351 straipsnio pakeitimas
 
 1. Pakeisti 351 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -84,7 +84,7 @@ užtraukia baudą nuo dviejų tūkstančių penkių šimtų penkiasdešimt iki p
 
 užtraukia baudą nuo keturių tūkstančių trijų šimtų penkiasdešimt iki penkių tūkstančių aštuonių šimtų eurų.“
 
-\#### 5 straipsnis. 589 straipsnio pakeitimas
+## 5 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 31 punktą ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ užtraukia baudą nuo keturių tūkstančių trijų šimtų penkiasdešimt iki p
 
 „67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 113^1, 261 straipsniuose, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 350, 351, 352, 353, 354, 355, 356, 356^1, 356^2, 357, 357^1, 358, 361, 362, 363, 364, 364^1, 505, 507 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2025 m. liepos 1 d.
 

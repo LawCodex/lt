@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.56B04E699270"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.56B04E699270.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 12, 13 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 2004, Nr. [171-6295](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB8D4779ABE1); 2007, Nr. [138-5651](https://www.e-tar.lt/portal/lt/legalAct/TAR.E4F420A14C07))
 
-\#### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4, 5 dalimis
+## 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4, 5 dalimis
 
 Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, 5 dalimis ir visą st
 
 5. Fondo valdybos informacinės sistemos duomenų teikimo už atlyginimą atvejus ir atlyginimo dydį nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 13 straipsnyje po žodžių „teisės aktų nustatyta tvarka“ įrašyti žodžius „išskyrus šiame įstatyme nustatytas išimtis“ ir šį straipsnį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, 5 dalimis ir visą st
 
 Duomenys apie draudėją, apdraustąjį asmenį arba socialinio draudimo išmokos gavėją, pateikti Fondo administravimo įstaigoms, turi būti tvarkomi vadovaujantis Asmens duomenų teisinės apsaugos įstatymu ir kitų teisės aktų nustatyta tvarka,išskyrus šiame įstatyme nustatytas išimtis.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. vasario 1 d.
 

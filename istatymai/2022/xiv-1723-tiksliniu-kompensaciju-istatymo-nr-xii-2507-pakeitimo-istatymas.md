@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/358b6f208c0c11ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.358B6F208C0C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo įstatymas
@@ -308,5 +308,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1855, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05761
 
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo įstatymo Nr. XIV-1723 1 straipsnio pakeitimo įstatymas
-
-part_38addb1c4b924b15b2fb063754dfe1ea_end

@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0CC6CB2A9E42.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos lygių galimybių įstatymas
@@ -778,5 +778,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
 
 Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 16, 18, 20, 21 ir 29 straipsnių pakeitimo įstatymas
-
-part_4a7c9507e4344e77bf92c75e581cf9e7_end

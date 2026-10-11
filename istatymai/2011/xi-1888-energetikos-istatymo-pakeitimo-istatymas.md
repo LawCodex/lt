@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C2DAB42D5532"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C2DAB42D5532.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2003, Nr. [69-3118](https://www.e-tar.lt/portal/lt/legalAct/TAR.16DE92067E6F); 2005, Nr. [142-5104](https://www.e-tar.lt/portal/lt/legalAct/TAR.89D1F2C1B1D3); 2007, Nr. [55-2124](https://www.e-tar.lt/portal/lt/legalAct/TAR.429CC7FAB351); 2008, Nr. [135-5228](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA8FE0831A84); 2009, Nr. [10-352](https://www.e-tar.lt/portal/lt/legalAct/TAR.C9F8CAA2E2E3); 2010, Nr. [67-3337](https://www.e-tar.lt/portal/lt/legalAct/TAR.9073CA3DCCD5); 2011, Nr. [91-4319](https://www.e-tar.lt/portal/lt/legalAct/TAR.14A55BF50A01))
 
-\#### 1 straipsnis. Lietuvos Respublikos energetikos įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos energetikos įstatymo nauja redakcija
 
 PakeistiLietuvos Respublikos energetikos įstatymą ir jį išdėstyti taip:
 
@@ -38,9 +38,9 @@ ENERGETIKOS
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato bendruosius energetikos veiklos Lietuvos Respublikoje tikslus, taip pat energetikos sektoriaus valstybinio valdymo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, visuomeninių santykių vykdant energetikos veiklą bendruosius kriterijus, sąlygas ir reikalavimus, pagrindines valstybės energetikos politikos kryptis.
 
@@ -48,7 +48,7 @@ ENERGETIKOS
 
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Asmuo – valstybės narės pilietis ar kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, arba valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija arba jų padalinys.
 
@@ -116,9 +116,9 @@ ENERGETIKOS
 
 33. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius.
 
-\### ANTRASIS SKIRSNIS. ENERGETIKOS VEIKLOS VALDYMAS
+ANTRASIS SKIRSNIS. ENERGETIKOS VEIKLOS VALDYMAS
 
-\#### 3 straipsnis. Bendrieji energetikos veiklos tikslai
+### 3 straipsnis. Bendrieji energetikos veiklos tikslai
 
 1. Bendrieji energetikos veiklos tikslai yra:
 
@@ -140,7 +140,7 @@ ENERGETIKOS
 
 2. Atskirų energetikos sektorių veiklos teisinius pagrindus reglamentuojantys įstatymai nustato specialiuosius atskirų energetikos sektorių tikslus ir veiklos reguliavimo principus, atsižvelgiant į šio straipsnio 1 dalyje nurodytus bendruosius tikslus.
 
-\#### 4 straipsnis. Energetikos politikos formavimas ir energetikos veiklos valdymas, reguliavimas, priežiūra ir kontrolė
+### 4 straipsnis. Energetikos politikos formavimas ir energetikos veiklos valdymas, reguliavimas, priežiūra ir kontrolė
 
 1. Energetikos politikos kryptis nustato Lietuvos Respublikos Seimas (toliau – Seimas), tvirtindamas Nacionalinę energetinės nepriklausomybės strategiją ir priimdamas įstatymus.
 
@@ -186,7 +186,7 @@ ENERGETIKOS
 
 9) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
 
-\#### 5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija
+### 5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija
 
 1. Vyriausybė:
 
@@ -230,7 +230,7 @@ ENERGETIKOS
 
 12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
-\#### 6 straipsnis. Energetikos ministerijos kompetencija
+### 6 straipsnis. Energetikos ministerijos kompetencija
 
 Energetikos ministerija:
 
@@ -276,7 +276,7 @@ Energetikos ministerija:
 
 21) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
-\#### 7 straipsnis. Susisiekimo ministerijos kompetencija
+### 7 straipsnis. Susisiekimo ministerijos kompetencija
 
 Susisiekimo ministerija:
 
@@ -288,7 +288,7 @@ Susisiekimo ministerija:
 
 4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
-\#### 8 straipsnis. Valstybinė kainų ir energetikos kontrolės komisija
+### 8 straipsnis. Valstybinė kainų ir energetikos kontrolės komisija
 
 1. Energetikos srityje veikiančių subjektų veiklą reguliuoja ir valstybinę energetikos priežiūrą atlieka Komisija. Komisija yra Europos Sąjungos teisės aktuose, reglamentuojančiuose visuomeninius santykius energetikos sektoriuje, numatyta nacionalinė reguliavimo institucija.
 
@@ -400,7 +400,7 @@ Susisiekimo ministerija:
 
 6) Komisijos pajamos, gautos pagal šią dalį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Komisijos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti.
 
-\#### 9 straipsnis. Valstybinė energetikos inspekcija
+### 9 straipsnis. Valstybinė energetikos inspekcija
 
 1. Valstybinė energetikos inspekcija teisės aktų nustatyta tvarka atlieka valstybinę energetikos kontrolę. Energetikos objektų ir įrenginių valstybinė kontrolė atliekama visoje Lietuvos Respublikos teritorijoje, neatsižvelgiant į jų nuosavybės valdymo formą.
 
@@ -430,19 +430,19 @@ Susisiekimo ministerija:
 
 4. Valstybinė energetikos inspekcija atsako už savo sprendimus. Valstybinės energetikos inspekcijos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
 
-\#### 10 straipsnis. Valstybinė atominės energetikos saugos inspekcija
+### 10 straipsnis. Valstybinė atominės energetikos saugos inspekcija
 
 Valstybinė atominės energetikos saugos inspekcija atlieka branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir valstybinę priežiūrą. Valstybinės atominės energetikos saugos inspekcijos kompetencija nustatyta Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme.
 
-\#### 11 straipsnis. Konkurencijos tarybos kompetencija
+### 11 straipsnis. Konkurencijos tarybos kompetencija
 
 Konkurencijos taryba pagal kompetenciją kontroliuoja, kaip ūkio subjektai laikosi įstatymų nustatytų reikalavimų užtikrinant sąžiningą konkurenciją energetikos sektoriuje. Atlikdama jai pavestas funkcijas, Konkurencijos taryba turi Lietuvos Respublikos konkurencijos įstatyme (toliau – Konkurencijos įstatymas) ir šiame įstatyme jai nustatytus įgaliojimus.
 
-\#### 12 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija
+### 12 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija
 
 Tarnyba užtikrina energijos ir (ar) energijos išteklių vartotojų teisių apsaugą, nagrinėja vartotojų skundus ir atlieka kitas jai pavestas funkcijas vartotojų teisių apsaugos srityje Lietuvos Respublikos vartotojų teisių apsaugos įstatyme ir šiame įstatyme nustatyta tvarka.
 
-\#### 13 straipsnis. Savivaldybės administracijos direktoriaus kompetencija
+### 13 straipsnis. Savivaldybės administracijos direktoriaus kompetencija
 
 Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
@@ -458,9 +458,9 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 6) pagal kompetenciją įgyvendina energijos efektyvumo didinimo priemones.
 
-\### TREČIASIS SKIRSNIS. ENERGETIKOS SEKTORIAUS PLĖTRA
+TREČIASIS SKIRSNIS. ENERGETIKOS SEKTORIAUS PLĖTRA
 
-\#### 14 straipsnis. Nacionalinė energetinės nepriklausomybės strategija
+### 14 straipsnis. Nacionalinė energetinės nepriklausomybės strategija
 
 1. Nacionalinė energetinės nepriklausomybės strategija (toliau – Strategija) nustato valstybės politikos strategines kryptis energetikos sektoriuje.
 
@@ -504,7 +504,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 7. Strategiją, Strategijos įgyvendinimo planą ir programas pagal kompetenciją įgyvendina valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos ir kiti Strategijos įgyvendinimo plane ir (ar) programose nurodyti asmenys.
 
-\#### 15 straipsnis. Energetikos objektų, įrenginių statyba, plėtra ir rekonstrukcija
+### 15 straipsnis. Energetikos objektų, įrenginių statyba, plėtra ir rekonstrukcija
 
 1. Energetikos objektai statomi Lietuvos Respublikos statybos įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo, Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka. Valstybinės svarbos energetikos objektai plėtojami vadovaujantis Strategijos nuostatomis. Energetikos ministerija kartu su Aplinkos ministerija nustato valstybinės svarbos energetikos objektų statybos planavimo tvarką ir sąlygas. Vartotojų aprūpinimo energija ir energijos ištekliais bendrieji ar specialieji planai rengiami vadovaujantis Strategija. Vartotojų energetikos įrenginiai įrengiami Energetikos ministerijos nustatyta tvarka.
 
@@ -514,7 +514,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 4. Vartotojo, gamintojo ar kito asmens pageidaujami rekonstruoti ar perkelti energetikos įmonei priklausantys energetikos objektai, kliudantys statinių statybai ar dėl kitų priežasčių, yra rekonstruojami ar perkeliami vartotojo, gamintojo ar kito asmens ir energetikos įmonės susitarimu teisės aktų nustatyta tvarka ir sąlygomis. Šiuo atveju vartotojas, gamintojas ar kitas asmuo, kurio prašymu energetikos objektas yra rekonstruojamas ar perkeliamas, apmoka energetikos įmonei energetikos objekto rekonstravimo ar perkėlimo išlaidas. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiama.
 
-\#### 16 straipsnis. Energetikos veikla
+### 16 straipsnis. Energetikos veikla
 
 1. Energetikos įmonės vykdo veiklą taip, kad užtikrintų saugią, efektyvią, aplinką tausojančią energijos gamybą, energijos tiekimą, perdavimą, skirstymą iki perdavimo ar skirstymo sistemos sujungimo su vartotojo sistema vietos, neviršydamos nustatytų valstybės reguliuojamų kainų. Energetikos įmonės, tiekiančios šilumą daugiabučiams namams, šilumą tiekia namams ir (ar) butams, jeigu vartotojai nepageidauja kitaip.
 
@@ -536,13 +536,13 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 10. Energetikos įmonės, besiverčiančios veikla, kurios kainos yra valstybės reguliuojamos, šioje veikloje naudojamo ilgalaikio turto nusidėvėjimą (amortizaciją) skaičiuoja pagal Komisijos nustatytas normas.
 
-\#### 17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis
+### 17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis
 
 1. Energetikos įmonių, vykdančių energijos perdavimo, skirstymo ar tiekimo veiklą, išskyrus elektros energijos ar gamtinių dujų nepriklausomo tiekimo veiklą, veiklos teritorija nurodoma energetikos įmonei išduotoje veiklos licencijoje ar leidime.
 
 2. Vartojama energija ir energijos ištekliai turi atitikti teisės aktų nustatytus energijos ir energijos išteklių kokybės ir sudėties reikalavimus.
 
-\#### 18 straipsnis. Nekilnojamųjų daiktų suteikimas naudotis
+### 18 straipsnis. Nekilnojamųjų daiktų suteikimas naudotis
 
 1. Žemė energetikos objektams statyti išnuomojama ar kitaip suteikiama naudotis įstatymų nustatyta tvarka. Valstybei nuosavybės teise priklausanti žemė energijos gamybos, perdavimo ir skirstymo įrenginiams, skirtiems įgyvendinti Strategijoje nustatytus tikslus ir priemones bei užtikrinti energetikos sistemos plėtrą, statyti parduodama ar išnuomojama Vyriausybės nustatyta tvarka, laikantis įstatymų nustatytų reikalavimų žemės pardavimui ar nuomai aukciono būdu, o įstatymų nustatytais atvejais – be aukciono.
 
@@ -550,9 +550,9 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 3. Energetikos objektų apsaugai ir eksploatavimui užtikrinti nustatomos apsaugos zonos. Statybos, želdinimo ir žemės darbai šioje zonoje yra ribojami. Apsaugos zonoje esančių žemės ir kitų nekilnojamųjų daiktų servitutai nustatomi teisės aktų nustatyta tvarka ir sąlygomis. Apsaugos zonoje esančių nekilnojamųjų daiktų savininkai ar jų naudotojai turi leisti energetikos įmonėms patekti prie joms priklausančių ar jų eksploatuojamų energetikos objektų ir atlikti modernizavimo ar eksploatavimo darbus. Nuostolius, atsiradusius dėl energetikos įmonių veiklos apsaugos zonose, atlygina energetikos įmonė, kuriai nuosavybės teise priklauso apsaugos zonos nekilnojamajame daikte esantis energetikos objektas.
 
-\### KETVIRTASIS SKIRSNIS. ENERGETIKOS SEKTORIAUS REGULIAVIMAS
+KETVIRTASIS SKIRSNIS. ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 
-\#### 19 straipsnis. Energijos kainos
+### 19 straipsnis. Energijos kainos
 
 1. Energetikos sektoriuje kainos yra sutartinės ir valstybės reguliuojamos. Kainos reguliuojamos tvirtinant paslaugų ar energijos kainas, nustatant jų viršutines ribas ar kainų reguliavimo tvarką. Valstybės reguliuojamų kainų reguliavimo principai nustatomi atskirus energetikos sektorius reglamentuojančiuose įstatymuose.
 
@@ -560,7 +560,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 3. Valstybės reguliuojamos kainos turi būti skelbiamos viešai ne vėliau kaip prieš mėnesį iki jų taikymo pradžios, jeigu kituose įstatymuose nenustatyta kitaip, ir taikomos nuo mėnesio pirmos dienos.
 
-\#### 20 straipsnis. Energetikos veiklos licencijos, leidimai ir atestatai
+### 20 straipsnis. Energetikos veiklos licencijos, leidimai ir atestatai
 
 1. Licencijuojamos veiklos ir veiklos, kuriai reikalingi leidimai ar atestatai, licencijų ir leidimų ar atestatų išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą nustato šis įstatymas, kiti atskirus energetikos sektorius reglamentuojantys įstatymai ir (ar) jų įgyvendinamieji teisės aktai.
 
@@ -568,7 +568,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 3. Energetikos veikla be licencijos, leidimo ar atestato, jeigu jie yra nustatyti, draudžiama. Draudžiama vykdyti energetikos veiklą, kai licencijos, leidimo ar atestato galiojimas yra sustabdytas.
 
-\#### 21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
+### 21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 1. Asmuo, siekiantis gauti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka pateikia licenciją, leidimą ar atestatą išduodančiai institucijai prašymą išduoti licenciją, leidimą ar atestatą ir teisės aktuose nurodytus dokumentus. Reikalavimai asmenims, siekiantiems gauti licenciją, leidimą ar atestatą, nustatomi šiame įstatyme ir (ar) atskirus energetikos sektorius reglamentuojančiuose įstatymuose. Licencija, leidimas ar atestatas asmeniui išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiami ne vėliau kaip per 30 kalendorinių dienų nuo prašymo išduoti licenciją, leidimą ar atestatą ir visų tinkamai įformintų dokumentų registravimo licencijas, leidimus ar atestatus išduodančioje institucijoje teisės aktų nustatyta tvarka dienos.
 
@@ -618,7 +618,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 11. Valstybinės priežiūros ir (ar) kontrolės institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja licencijas, leidimus ar atestatus turinčių energetikos įmonių veiklą ir prižiūri, kaip jos laikosi reguliuojamosios veiklos sąlygų. Valstybinės priežiūros ir (ar) kontrolės institucijos privalo nedelsdamos raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie nustatytus energetikos įmonių reguliuojamosios veiklos sąlygų pažeidimus.
 
-\#### 22 straipsnis. Energetikos įrenginių eksploatavimo veiklos atestatai ir reikalavimai atestatų turėtojams
+### 22 straipsnis. Energetikos įrenginių eksploatavimo veiklos atestatai ir reikalavimai atestatų turėtojams
 
 1. Energetikos įrenginių eksploatavimo veiklos atestatai yra šių rūšių:
 
@@ -654,7 +654,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 5. Šio straipsnio 1 dalyje nurodytus energetikos įrenginių eksploatavimo veiklos atestatus išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina atestatų galiojimą, keičia atestatus ir energetikos įrenginių eksploatavimo reguliuojamąją veiklą kontroliuoja Valstybinė energetikos inspekcija.
 
-\#### 23 straipsnis. Leidimai verstis prekyba suskystintomis naftos dujomis
+### 23 straipsnis. Leidimai verstis prekyba suskystintomis naftos dujomis
 
 1. Leidimai verstis prekyba suskystintomis naftos dujomis yra šių rūšių:
 
@@ -698,7 +698,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 8. Prekybos suskystintomis naftos dujomis tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatytos Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse.
 
-\#### 24 straipsnis. Leidimai verstis prekyba nefasuotais naftos produktais
+### 24 straipsnis. Leidimai verstis prekyba nefasuotais naftos produktais
 
 1. Leidimai verstis prekyba nefasuotais naftos produktais yra šių rūšių:
 
@@ -742,7 +742,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 7. Prekybos nefasuotais naftos produktais tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatyti Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse.
 
-\#### 25 straipsnis. Informacijos teikimas
+### 25 straipsnis. Informacijos teikimas
 
 1. Valstybės ir savivaldybių institucijos ir įstaigos joms pavestoms funkcijoms atlikti turi teisę iš energetikos įmonių gauti reikiamą informaciją. Energetikos įmonės Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikia informaciją valstybės, savivaldybių institucijoms, įstaigoms ir (ar) kitiems asmenims, kuriems teisės aktų nustatyta tvarka yra suteikiama teisė gauti tokią informaciją.
 
@@ -754,7 +754,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 5. Energetikos įmonių informacija apie sąnaudas, susijusias su teisės aktų nustatyta tvarka licencijuojama veikla arba su veikla, kuriai taikomos valstybės reguliuojamos kainos, yra vieša. Energetikos įmonės, kurios vykdo licencijuojamą veiklą arba kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, viešai skelbia įmonių valdymo organų nariams nustatytą darbo užmokestį ir kitas su valdymo organų narių funkcijomis susijusias išmokas.
 
-\#### 26 straipsnis. Konsultacijos ir bendradarbiavimas
+### 26 straipsnis. Konsultacijos ir bendradarbiavimas
 
 1. Komisija, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, konsultuojasi ir glaudžiai bendradarbiauja su Energetikos ministerija, Konkurencijos taryba, kitomis valstybės ir (ar) savivaldybių institucijomis, įmonėmis, įstaigomis ir organizacijomis. Komisija, rengdama informaciją buitinių vartotojų teisių klausimais, bendradarbiauja su Tarnyba.
 
@@ -780,7 +780,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 4. Komisija turi teisę kreiptis į Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (ACER) su prašymu pateikti nuomonę, ar Komisijos priimti sprendimai atitinka Europos Sąjungos teisės aktų reikalavimus ir (ar) Europos Komisijos patvirtintas gaires.
 
-\#### 27 straipsnis. Efektyvus energijos išteklių ir energijos vartojimas
+### 27 straipsnis. Efektyvus energijos išteklių ir energijos vartojimas
 
 1. Efektyvaus energijos ir energijos išteklių vartojimo pagrindinės kryptys nustatomos Strategijoje, o šių krypčių įgyvendinimo priemonės – energijos vartojimo efektyvumo didinimo ir kitose programose.
 
@@ -812,7 +812,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 8. Šio straipsnio 5 dalies 4 punkte ir 6 dalies 3 punkte nustatytų tikrinimų metu vertinamas oro kondicionavimo įrangos naudingumo koeficientas ir šios įrangos dydžio atitiktis pastato vėsinimo poreikiams. Oro kondicionavimo įrangos dydžio atitikties pastato vėsinimo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje oro kondicionavimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato vėsinimo poreikiai.
 
-\#### 28 straipsnis. Darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
+### 28 straipsnis. Darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
 
 1. Energetikos objektus, įrenginius statantys ir eksploatuojantys darbuotojai ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos ir tinkamai pasirengę atlikti jiems pavestas užduotis. Energetikos objektus, įrenginius statančių ir eksploatuojančių darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato Energetikos ministerija, vadovaudamasi šiame straipsnyje nustatytais darbuotojų kvalifikaciniais reikalavimais ir atestavimo bendraisiais reikalavimais.
 
@@ -824,7 +824,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 5. Į energetikos objektus, įrenginius statančių ir eksploatuojančių darbuotojų ir energijos vartojimo auditą atliekančių specialistų mokymosi programas turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai.
 
-\#### 29 straipsnis. Energijos išteklių rezervinės atsargos
+### 29 straipsnis. Energijos išteklių rezervinės atsargos
 
 1. Energetikos įmonės, turinčios daugiau kaip 5 MW galios šilumos ar elektros energijos gamybos įrenginių ir gaminančios parduoti skirtą šilumos ar elektros energiją, privalo turėti energijos išteklių rezervines atsargas, išskyrus atvejus, kai šilumos ar elektros energija yra gaminama naudojant atsinaujinančius energijos išteklius ir dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti tokių energijos išteklių.
 
@@ -832,7 +832,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 3. Energijos išteklių rezervinių atsargų kiekis turi būti ne mažesnis, negu energetikos įmonės vidutiniškai suvartoja per vieną kalendorinį mėnesį, skaičiuojant pagal trejų praėjusių kalendorinių metų mėnesinį vartojimo vidurkį šaltuoju metų periodu. Šaltuoju metų periodu laikomas laikotarpis nuo lapkričio 1 dienos iki kovo 31 dienos imtinai.
 
-\#### 30 straipsnis. Energijos apskaita
+### 30 straipsnis. Energijos apskaita
 
 1. Pagaminta, perduodama, skirstoma, parduodama, eksportuojama, importuojama ar tranzitu perduodama energija turi būti įtraukiama į apskaitą.
 
@@ -842,7 +842,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 4. Energijos matavimo priemones tarp energetikos objektų įrengia ir eksploatuoja energiją perduodančius energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais juos valdančios energetikos įmonės savo lėšomis.
 
-\#### 31 straipsnis. Duomenų saugojimas
+### 31 straipsnis. Duomenų saugojimas
 
 1. Energetikos įmonės, vykdančios energijos ar energijos išteklių tiekimo veiklą, ne mažiau kaip penkerius metus saugo ir kompetentingoms valstybės institucijoms, tarp jų Komisijai ir Konkurencijos tarybai, šių prašymu pateikia visų sandorių su vartotojais (išskyrus buitinius vartotojus) ir perdavimo sistemos operatoriais, sudarytų pagal elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones, duomenis.
 
@@ -852,15 +852,15 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 4. Duomenų saugojimo metodus ir priemones šio straipsnio tikslais nustato Komisija, vadovaudamasi Europos Komisijos paskelbtomis gairėmis.
 
-\#### 32 straipsnis. Energijos tranzitas
+### 32 straipsnis. Energijos tranzitas
 
 1. Energijos ar energijos išteklių tranzitas vyksta pagal energijos ar energijos išteklių siuntėjo, gavėjo ir perdavimo energetikos objektus valdančių energetikos įmonių sudarytas sutartis, vadovaujantis Energetikos chartijos sutarties nuostatomis ir atsižvelgiant į esamų perdavimo objektų pajėgumą ir šalies poreikių tenkinimo prioritetus.
 
 2. Perdavimo objektus valdančios energetikos įmonės teikia Komisijai informaciją apie kiekvieną energijos tranzito pareikalavimą, sudarytas energijos tranzito sutartis ir atsisakymus jas sudaryti. Atsisakymas sudaryti energijos tranzito sutartį turi būti tinkamai motyvuotas.
 
-\### PENKTASIS SKIRSNIS. EKSTREMALIOJI ENERGETIKOS PADĖTIS
+PENKTASIS SKIRSNIS. EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
-\#### 33 straipsnis. Ekstremalioji energetikos padėtis
+### 33 straipsnis. Ekstremalioji energetikos padėtis
 
 1. Ekstremalioji energetikos padėtis skelbiama, kai elektros energijos, gamtinių dujų ar naftos produktų tiekimas sumažėja tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
 
@@ -886,11 +886,9 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 12. Ekstremaliosios energetikos padėties paskelbimo ir atšaukimo, taip pat kitus su tuo susijusius teisinius ir organizacinius pagrindus, kiek tai nenustatyta šiame įstatyme, reglamentuoja Lietuvos Respublikos civilinės saugos įstatymas.
 
-\### ŠEŠTASIS SKIRSNIS
+## ŠEŠTASIS SKIRSNIS. SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
 
-**SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė**
-
-\#### 34 straipsnis. Skundų ir ginčų nagrinėjimas
+### 34 straipsnis. Skundų ir ginčų nagrinėjimas
 
 1. Tarnyba nagrinėja buitinių vartotojų skundus dėl energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo, taip pat buitinių vartotojų skundus dėl energijos tiekėjų nesąžiningos komercinės veiklos. Nustačius nesąžiningos komercinės veiklos atvejus, energetikos įmonė atsako Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme nustatyta tvarka.
 
@@ -952,11 +950,11 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 18. Asmenys, veikiantys energetikos sektoriuje, vadovaudamiesi šio įstatymo ir Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo nuostatomis, turi teisę kreiptis į skundus ir ginčus nagrinėjančią instituciją, kad ji šiems asmenims tarpininkautų ir (ar) juos taikintų, siekiant ginčą dėl šio įstatymo reglamentuojamų visuomeninių santykių išspręsti taikiai be privalomo skundų sprendimo. Skundus ir ginčus nagrinėjanti institucija nustato taikinamojo tarpininkavimo taisykles, kurios taikomos asmenims ginčo taikinimo tarpininku pasirinkus skundus ir ginčus nagrinėjančią instituciją.
 
-\#### 35 straipsnis. Atsakomybė
+### 35 straipsnis. Atsakomybė
 
 Asmenys, nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako šio ir kitų įstatymų nustatyta tvarka.
 
-\#### 36 straipsnis. Baudos ir jų skyrimo tvarka
+### 36 straipsnis. Baudos ir jų skyrimo tvarka
 
 1. Energetikos įmonėms už pažeidimus vykdant reguliuojamąją veiklą, kurie per Komisijos nustatytą protingą laikotarpį nebuvo pašalinti, užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Komisija skiria baudas:
 
@@ -1004,9 +1002,9 @@ Asmenys, nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako šio i
 
 15. Komisija, vadovaudamasi šio straipsnio nuostatomis, patvirtina baudų skyrimo taisykles.
 
-\### SEPTINTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+SEPTINTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 37 straipsnis. Įstatymo įgyvendinimo tvarka
+### 37 straipsnis. Įstatymo įgyvendinimo tvarka
 
 1. Energetikos įmonės, gavusios vartotojų (fizinių ar juridinių asmenų) prašymą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis išperka arba eksploatuoja vartotojams nuosavybės teise priklausančius ir jų lėšomis iki šio įstatymo įsigaliojimo įrengtus bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti. Energetikos įmonė ir prašymą pateikęs vartotojas tarpusavio sutarimu derina energetikos objektų išpirkimo ar perėmimo eksploatuoti tvarką ir sąlygas, kiek tai neprieštarauja Vyriausybės ar jos įgaliotos institucijos nustatytiems reikalavimams. Jeigu energetikos įmonė ir vartotojas nesusitaria dėl energetikos objektų išpirkimo ar perėmimo eksploatuoti tvarkos ir sąlygų, abiem šalims privalomas vykdyti įpareigojančias sąlygas nustato Komisija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos nustatytais reikalavimais. Valstybei ar savivaldybei nuosavybės teise priklausantys bendrai naudojami energetikos objektai, sodininkų bendrijoms ir (ar) kitiems asmenims nuosavybės teise priklausantys bendrai naudojami energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, įrengti iki šio įstatymo įsigaliojimo, gali būti parduoti energetikos įmonei už kainą, nustatomą šalių susitarimu atsižvelgiant į nepriklausomo vertintojo nustatytą bendrai naudojamų energetikos objektų vertę sutarties sudarymo metu, vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais.
 
@@ -1054,7 +1052,7 @@ priedas
 
 15. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo (OL 2010 L 153, p. 13).“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 1 straipsnyje išdėstyto Lietuvos Respublikos energetikos įstatymo 27 straipsnio 6 dalį ir šio straipsnio 5 dalį, įsigalioja 2012 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A51F0D776904"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A51F0D776904.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Europos konvencijos dėl informacijos apie užsienio teisę ratifikavimo įstatymas
@@ -26,11 +26,11 @@ EUROPOS KONVENCIJOS DĖL INFORMACIJOS APIE UŽSIENIO TEISĘ RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1995 m. lapkričio 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl informacijos apie užsienio teisę“, ratifikuoja 1968 m. birželio 7 d. Europos konvenciją dėl informacijos apie užsienio teisę, pasirašytą 1994 m. balandžio 14 d. (pridedama).
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Lietuvos Respublikos Seimas pareiškia, kad pagal Konvencijos 2 straipsnį Lietuvos Respublikos teisingumo ministerija yra institucija, priimanti ir perduodanti pavedimus suteikti informaciją.
 

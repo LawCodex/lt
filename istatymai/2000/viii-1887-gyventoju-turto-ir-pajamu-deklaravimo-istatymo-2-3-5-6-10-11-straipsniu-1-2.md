@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CF931FB86A84"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CF931FB86A84.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2, 3, 5, 6, 10, 11 straipsnių, 1, 2 priedėlių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 20-504, Nr. 41-1096, Nr. 63-1802)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ d) pinigines lėšas, indėlius, paskolintas ir negrąžintas pinigines lėšas,
 
 4. Nustačius, kad deklaruotos kalendorinių metų pradžioje turėtos piniginės lėšos, kurios viršija atitinkamų metų pradžioje buvusį minimalų deklaruoti privalomo turto kainos dydį, nustatytą Komisijos privalomam registruoti turtui įvertinti (tuo atveju, kai gyventojai deklaruoja turtą ir pajamas pagal šį įstatymą pirmą kartą), kalendoriniais metais gautos pajamos, įsigytas turtas, paskolintos ir negrąžintos piniginės lėšos (įskaitant ir kalendorinių metų pradžioje buvusias paskolintas ir negrąžintas pinigines lėšas) bei dovanotos piniginės lėšos nepagrįstos įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais, nuo nepagrįstosios sumos skiriama 20 procentų dydžio bauda. Bauda turi būti sumokėta ne vėliau kaip per 20 dienų nuo valstybinės mokesčių inspekcijos sprendimo skirti baudą gavimo dienos. Nesumokėta bauda išieškoma Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+## 2 straipsnis. 3 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ d) pinigines lėšas, indėlius, paskolintas ir negrąžintas pinigines lėšas,
 
 „3. Gali būti tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais tikslinama. Deklaracijos tikslinimo tvarką nustato centrinis mokesčio administratorius. Duomenys apie kalendorinių metų pradžioje ar pabaigoje ne kredito įstaigose turėtas pinigines lėšas gali būti tikslinami tik tuo atveju, kai ankstesnių kalendorinių metų turto ir pajamų deklaracijoje nurodyti duomenys apie metų pabaigoje turėtas pinigines lėšas neatitinka tikslinamoje kalendorinių metų deklaracijoje nurodytų duomenų apie metų pradžioje turėtas pinigines lėšas. Deklaracijų duomenys apie gautas paskolas negali būti tikslinami.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 4. Į politikus kandidatuojančių asmenų, išrinktų naujų politikų, paskirtų naujų valstybės tarnautojų, nustojusių eiti pareigas politikų ar atleistų iš pareigų valstybės tarnautojų, asmenų, nustojusių eiti Įstatymo priedėliuose nurodytas pareigas, bei jų šeimų narių turto ir pajamų deklaracijos į apskaitą įtraukiamos atskirai nuo kitų deklaracijų.“
 
-\#### 4 straipsnis. 6 straipsnio 1, 2 ir 4 dalių pakeitimas
+## 4 straipsnis. 6 straipsnio 1, 2 ir 4 dalių pakeitimas
 
 1. 6 straipsnio 1 dalyje vietoj žodžių „Vyriausybės ar jos įgaliotos institucijos“ įrašyti žodžius „centrinio mokesčio administratoriaus“ ir šią dalį išdėstyti taip:
 
@@ -96,13 +96,13 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 „4. Lietuvos Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojams ir pareigūnams, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimos nariams pažymų pateikimo terminus ir tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
 
-\#### 5 straipsnis. 10 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio 2 dalies pakeitimas
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo 1 priedėlyje išvardyti Lietuvos Respublikos gyventojai – politikai ir valstybės tarnautojai, išskyrus operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojus ir pareigūnus, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimos narius, skelbia „Valstybės žinių“ specialiame priede valstybės lėšomis savo bei savo šeimos narių turto ir pajamų deklaracijų informaciją. Skelbiamų duomenų sąrašą nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Šių asmenų deklaracijų, taip pat patikslintų paskutinių kalendorinių metų deklaracijų išrašus„Valstybės žinių“ redakcijai kasmet iki rugsėjo 1 dienos pateikia Valstybinė mokesčių inspekcija prie Finansų ministerijos. „Valstybės žinios“ deklaracijų informaciją, įskaitant paskutinių kalendorinių metų deklaracijų patikslintus duomenis, kasmet paskelbia iki spalio 1 dienos.“
 
-\#### 6 straipsnis. 11 straipsnio 2, 4 punktų pakeitimas ir papildymas 5 punktu
+## 6 straipsnis. 11 straipsnio 2, 4 punktų pakeitimas ir papildymas 5 punktu
 
 Pakeisti 11 straipsnio 2, 4 punktus, papildyti 5 punktu ir šiuos punktus išdėstyti taip:
 
@@ -112,7 +112,7 @@ Pakeisti 11 straipsnio 2, 4 punktus, papildyti 5 punktu ir šiuos punktus išdė
 
 5) Lietuvos Respublikos gyventojai, kalendoriniais metais suteikę juridiniams, fiziniams asmenims bei juridinio asmens teisių neturinčioms įmonėms paskolas, kurių suma per kalendorinius metus didesnė kaip 10 000 litų, arba padovanoję dovanas, kurių suma per kalendorinius metus didesnė kaip 10 000 litų, savo turtą ir pajamas pradeda deklaruoti nuo tų kalendorinių metų, kuriais suteikė paskolas arba padovanojo dovanas.“
 
-\#### 7 straipsnis. Įstatymo 1 priedėlio pakeitimas
+## 7 straipsnis. Įstatymo 1 priedėlio pakeitimas
 
 Pakeisti 1 priedėlyje pateikto sąrašo 4, 6, 8, 10, 11, 12, 15 punktus, papildyti 16 punktu ir šiuos punktus išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 1 priedėlyje pateikto sąrašo 4, 6, 8, 10, 11, 12, 15 punktus, papild
 
 16. Krašto apsaugos sistemos kariai ir karininkai, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas.“
 
-\#### 8 straipsnis. Įstatymo 2 priedėlio pakeitimas
+## 8 straipsnis. Įstatymo 2 priedėlio pakeitimas
 
 Pakeisti 2 priedėlyje pateikto sąrašo 1, 4, 5, 6, 12, 15, 16 punktus ir šiuos punktus išdėstyti taip:
 

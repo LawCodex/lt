@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9427D081B1F9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9427D081B1F9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribų pakeitimo įstatymas
@@ -26,11 +26,11 @@ NERINGOS, KLAIPĖDOS MIESTO, KLAIPĖDOS RAJONO IR ŠILUTĖS RAJONO SAVIVALDYBIŲ
 
 Vilnius
 
-\#### 1 straipsnis. Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribų pakeitimas
+## 1 straipsnis. Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribų pakeitimas
 
 Šiuo įstatymu pakeičiamos Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribos pagal Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribų pakeitimo schemą (pridedama).
 
-\#### 2 straipsnis. Neringos savivaldybei priskiriamos teritorijos
+## 2 straipsnis. Neringos savivaldybei priskiriamos teritorijos
 
 1. Neringos savivaldybei priskiriama Klaipėdos miesto savivaldybės teritorijos dalis, Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribų pakeitimo schemoje pažymėta Nr. 1 (46,36 hektaro).
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Neringos savivaldybei priskiriama Šilutės rajono savivaldybės teritorijos dalis, Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribų pakeitimo schemoje pažymėta Nr. 3 (3 170,10 hektaro).
 
-\#### 3 straipsnis. Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų naujos ribos
+## 3 straipsnis. Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų naujos ribos
 
 Nustatomos šios Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės rajono savivaldybių teritorijų ribos:
 
@@ -52,7 +52,7 @@ Nustatomos šios Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės raj
 
 5) vakarinė Neringos savivaldybės teritorijos riba sutampa su esama riba.
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo 1, 2 ir 3 straipsniai įsigalioja 2013 m. sausio 1 d.
 

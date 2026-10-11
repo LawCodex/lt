@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c523437055cb11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C523437055CB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 32, 41 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 32, 41 STRAIPSNIŲ PAKEITIM
 
 Vilnius
 
-\#### 1 straipsnis. 32 straipsnio pakeitimas
+## 1 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnio 1 dalies 14 punktą ir jį išdėstyti taip:
 
 „14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo ir kitų išmokų, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo valdybos teritorinių skyrių ar jų valstybės tarnautojų ir darbuotojų veiksmų bei sprendimų, įskaitant Fondo valdybos teritorinių skyrių automatizuotus veiksmus ir (ar) automatizuotus administracinius sprendimus;“.
 
-\#### 2 straipsnis. Įstatymo papildymas 401 straipsniu
+## 2 straipsnis. Įstatymo papildymas 401 straipsniu
 
 Papildyti Įstatymą 40^1 straipsniu:
 
@@ -70,7 +70,7 @@ i) administracinio sprendimo apskundimo tvarka, nurodant konkrečią skundą nag
 
 5. Gavusi asmens, dėl kurio priimtas automatizuotas administracinis sprendimas, prašymą, reikalaujantį žmogaus įsikišimo ir sprendimo, priimto po žmogaus vertinimo, paaiškinimo, Fondo administravimo įstaiga paveda šį prašymą nagrinėti savo darbuotojui (-ams). Nagrinėdama tokį prašymą Fondo administravimo įstaiga privalo įvertinti sprendimo tinkamumą – ar jis atitinka šio straipsnio 3 dalyje nustatytus reikalavimus, ar nėra pagrindų atlikti klaidų ištaisymo procedūrą arba pripažinti sprendimą netekusiu galios Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka. Jeigu pripažinus automatizuotą administracinį sprendimą netekusiu galios išlieka teisinis pagrindas priimti naują administracinį sprendimą, Fondo administravimo įstaiga savo iniciatyva priima naują administracinį sprendimą. Asmeniui, kuris kreipėsi su prašymu, reikalaudamas žmogaus įsikišimo ir sprendimo, priimto po žmogaus vertinimo, paaiškinimo, pateikiami reikiami paaiškinimai, susiję atitinkamai su paliktu galioti automatizuotu administraciniu sprendimu ar dėl jo priimtu kitokiu (-iais) sprendimu (-ais).“
 
-\#### 3 straipsnis. 41 straipsnio pakeitimas
+## 3 straipsnis. 41 straipsnio pakeitimas
 
 1. Pakeisti 41 straipsnio 2 dalį ir ją išdėstyti taip:
 

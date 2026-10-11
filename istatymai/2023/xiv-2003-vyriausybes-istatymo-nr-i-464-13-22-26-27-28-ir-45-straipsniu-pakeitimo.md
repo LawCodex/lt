@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/71524dc006c411ee9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.71524DC006C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 13, 22, 26, 27, 28 ir 45 straipsnių pakeitimo įstatymas
@@ -67,5 +67,3 @@ Pakeisti 45 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_aa0cffabcaf4471cbd10102409b44df1_end

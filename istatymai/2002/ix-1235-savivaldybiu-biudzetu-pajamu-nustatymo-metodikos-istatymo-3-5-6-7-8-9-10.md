@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.604034235568"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.604034235568.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 3, 5, 6, 7, 8, 9, 10 straipsnių ir priedėlio pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005); 1999, Nr. [93-2709](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF0E7CBDD75); 2001, Nr. [94-3307](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CB6C63497C9); 2002, Nr. [68-2773](https://www.e-tar.lt/portal/lt/legalAct/TAR.42838C716F20))
 
-\#### 1 straipsnis. 3 straipsnio 2 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 2 punkto pakeitimas
 
 3 straipsnio 2 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodžius„gyventojų“ ir šį punktą išdėstyti taip:
 
 „2) šio Įstatymo priedėlyje nurodytą gyventojų pajamų mokesčio dalį (procentais), iš apskaičiuotos gyventojųpajamų mokesčio sumos atskaitęs atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintas šio mokesčio į Privalomojo sveikatos draudimo fondo biudžetą ir į valstybės biudžetą dalis (procentais). Likusi gyventojų pajamų mokesčio dalis pervedama į Valstybės iždo sąskaitą;“.
 
-\#### 2 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas
 
 5 straipsnio 1 dalies 1 punktevietoj žodžių „fizinių asmenų“ įrašyti žodį„gyventojų“ ir šį punktą išdėstyti taip:
 
 „1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD~1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL~1i > åP~i, tai BD~1 = åL~1i – åP~i; kai åL~1i <= åP~i, tai BD~1 = 0);“.
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnyje vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį straipsnį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 Lėšas (L), skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojųpajamų mokesčio dalis P~i (procentais), kurią Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2 punktas, (L = åP~i).“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas(
+## 4 straipsnis. 7 straipsnio pakeitimas(
 
 7 straipsnyje vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį straipsnį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Lėšas (L), skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų 
 
 5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.“
 
-\#### 5 straipsnis. 8 straipsnio 3 dalies 3 punkto ir 4 dalies 3 punkto pakeitimas
+## 5 straipsnis. 8 straipsnio 3 dalies 3 punkto ir 4 dalies 3 punkto pakeitimas
 
 1. 8 straipsnio 3 dalies 3 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:
 
@@ -94,7 +94,7 @@ Lėšas (L), skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų 
 
 „3) E~ni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuojama pagal formulę , čia R~ni– i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant E~ni, imama R~ni tik tų savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 9 straipsnyje vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį straipsnį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra i
 
 2. Savivaldybės gyventojų skaičius, demografinių, socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys, kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių duomenų bazėse.“
 
-\#### 7 straipsnis. 10 straipsnio 1 dalies 1 punkto, 2 ir 4 dalių pakeitimai
+## 7 straipsnis. 10 straipsnio 1 dalies 1 punkto, 2 ir 4 dalių pakeitimai
 
 1. 10 straipsnio 1 dalies 1 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:
 
@@ -134,7 +134,7 @@ Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra i
 
 „4. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių biudžetų pajamos ir išlaidos, pajamų ir išlaidų pokyčiai, išskyrus pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami. Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis, tenkanti visų savivaldybių biudžetams.“
 
-\#### 8 straipsnis. Įstatymo priedėlio pakeitimas
+## 8 straipsnis. Įstatymo priedėlio pakeitimas
 
 1. Įstatymo priedėlio pavadinime vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir priedėlio pavadinimą išdėstyti taip:
 
@@ -148,7 +148,7 @@ Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra i
 
 „Ignalinos rajono 100“.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.960DBFBF5981.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 1996, Nr. [110-2507](https://www.e-tar.lt/portal/lt/legalAct/TAR.748F5E4B4368); 1997, Nr. [96-2426](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D4C11CA2601); 1998, Nr. [56-1542](https://www.e-tar.lt/portal/lt/legalAct/TAR.1A9832128E70); 1999, Nr. [110-3203](https://www.e-tar.lt/portal/lt/legalAct/TAR.E30A4B53ED68); 2000, Nr. [111-3566](https://www.e-tar.lt/portal/lt/legalAct/TAR.B04AF1A398D8))
 
-\#### 1 straipsnis. Lietuvos Respublikos miškų įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos miškų įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos miškų įstatymą ir jį išdėstyti taip:
 
@@ -36,13 +36,13 @@ Pakeisti Lietuvos Respublikos miškų įstatymą ir jį išdėstyti taip:
 
 MIŠKŲ ĮSTATYMAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei naudojimą ir sudaryti teisines prielaidas, kad visų nuosavybės formų miškai būtų tvarkomi pagal vienodus tvaraus ir subalansuoto miškų ūkio principus, užtikrinant racionalų miškų išteklių naudojimą aprūpinant pramonę žaliava, biologinės įvairovės išsaugojimą, miškų produktyvumo didinimą, kraštovaizdžio stabilumą ir aplinkos kokybę, galimybę dabar ir ateityje atlikti ekologines, ekonomines ir socialines funkcijas nedarant žalos kitoms ekosistemoms.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Miškas – ne mažesnis kaip 0,1 hektaro žemės plotas, apaugęs medžiais, kurių aukštis natūralioje augavietėje brandos amžiuje siekia ne mažiau kaip 5 metrus, kita miško augalija, taip pat išretėjęs ar dėl žmogaus veiklos bei gamtinių veiksnių netekęs augalijos (kirtavietės, degavietės, aikštės). Laukuose, pakelėse, prie vandens telkinių, gyvenamosiose vietovėse bei kapinėse esančios medžių grupės, siauros – iki 10 metrų pločio – medžių juostos, gyvatvorės, pavieniai medžiai bei krūmai ir miestuose bei kaimo vietovėse esantys žmogaus įveisti parkai nelaikomi mišku. Šių želdinių priežiūros, apsaugos ir naudojimo tvarką nustato Aplinkos ministerija.
 
@@ -78,7 +78,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 17. Miškotvarka – miškų ūkio planavimo sistema, apimanti miškų inventorizaciją ir apskaitą, miškų būklės, naudojimo ir ūkinės veiklos analizę bei miškų ūkio organizavimo ir plėtros projektų rengimą.
 
-\#### 3 straipsnis. Miškų grupės, ūkininkavimo jose tikslai ir režimas
+## 3 straipsnis. Miškų grupės, ūkininkavimo jose tikslai ir režimas
 
 1. Pagal ūkininkavimo tikslus, ūkininkavimo režimą ir pagrindinę funkcinę paskirtį miškai skirstomi į grupes.
 
@@ -100,7 +100,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 8. Miškų priskyrimo grupėms tvarką ir normatyvus nustato bei miškus grupėms priskiria Vyriausybė Aplinkos ministerijos teikimu.
 
-\#### 4 straipsnis. Nuosavybės teisė į miškus ir valstybinės reikšmės miškai
+## 4 straipsnis. Nuosavybės teisė į miškus ir valstybinės reikšmės miškai
 
 1. Miškas nuosavybės teise gali priklausyti valstybei ir Lietuvos Respublikos piliečiams. Lietuvos Respublikos miškuose pagal plotą vyrauja valstybinė miškų nuosavybė.
 
@@ -126,7 +126,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 6. Valstybinius miškus turto patikėjimo teise valdo miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, kitos valstybės įmonės ir organizacijos, kurioms įstatymų nustatyta tvarka suteikta valstybinių miškų valdymo teisė.
 
-\#### 5 straipsnis. Miškų valstybinis valdymas ir Miškų įstatymo vykdymo priežiūra
+## 5 straipsnis. Miškų valstybinis valdymas ir Miškų įstatymo vykdymo priežiūra
 
 1. Valstybės miškų ūkio politikos kryptis nustato Seimas, priimdamas įstatymus.
 
@@ -168,7 +168,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 5. Privačius miškus atkuria, tvarko ir naudoja privačių miškų savininkai, laikydamiesi šio įstatymo, taip pat Vyriausybės ar jos įgaliotos Aplinkos ministerijos atsižvelgiant į privačių miškų savininkų organizacijų siūlymus tvirtinamų Privačių miškų tvarkymo ir naudojimo nuostatų ir kitų miškų ūkio veiklą reglamentuojančių teisės aktų. Privačių miškų savininkai įstatymų nustatyta tvarka turi teisę jungtis į asociacijas ir kooperatyvus, steigti įmones ir organizacijas. Valstybė skatina ir remia privataus miškų ūkio plėtrą, privačių miškų savininkų savivaldos organizacijas, teikiančias miško savininkams konsultavimo ir ūkines paslaugas. Miško savininkų kooperatyvams taikomas žemės ūkio kooperatyvų statusas.
 
-\#### 6 straipsnis. Valstybinių miškų pareigūnų teisės ir pareigos
+## 6 straipsnis. Valstybinių miškų pareigūnų teisės ir pareigos
 
 1. Valstybiniai miškų pareigūnai turi teisę:
 
@@ -204,7 +204,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 5. Valstybinių miškų pareigūnų uždavinius, funkcijas bei pareigas nustato Valstybinių miškų pareigūnų nuostatai. Juos tvirtina Vyriausybė.
 
-\#### 7 straipsnis. Ekonominis valstybinio miškų ūkio reguliavimas
+## 7 straipsnis. Ekonominis valstybinio miškų ūkio reguliavimas
 
 1. Miškų urėdijos veikia pagal Valstybės ir savivaldybės įmonių įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose, Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami.
 
@@ -220,9 +220,9 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 4. Uždraustų ar apribotų lankyti miškų ribas rodo miško valdytojo, savininko ar naudotojo pastatyti informaciniai ženklai.
 
-\## II SKYRIUS. MIŠKO NAUDOJIMAS
+II SKYRIUS. MIŠKO NAUDOJIMAS
 
-\#### 9 straipsnis. Miško valdytojų, savininkų ir naudotojų pareigos
+## 9 straipsnis. Miško valdytojų, savininkų ir naudotojų pareigos
 
 1. Miškai turi būti tvarkomi pagal nepertraukiamo naudojimo principą, kad mediena bei kiti miško ištekliai būtų nuolat tiekiami ir būtų išlaikyta metinė ar periodinė pusiausvyra tarp medienos prieaugio ir jos naudojimo masto.
 
@@ -240,7 +240,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 8. Apvaliosios medienos matavimo, apskaitos ir ženklinimo tvarką nustato Aplinkos ministerija.
 
-\#### 10 straipsnis. Miško valdytojų, savininkų ir naudotojų teisė naudotis mišku bei jo ištekliais
+## 10 straipsnis. Miško valdytojų, savininkų ir naudotojų teisė naudotis mišku bei jo ištekliais
 
 1. Privačių miškų savininkai teisę naudotis mišku įgyja gavę žemės sklypo nuosavybę patvirtinantį dokumentą. Privačių miškų tvarkymo ir naudojimo nuostatus tvirtina Vyriausybė, atsižvelgdama į privačių miškų savininkų organizacijų siūlymus.
 
@@ -248,13 +248,13 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 3. Miško valdytojų, savininkų ir naudotojų teises saugo įstatymai. Pažeistos teisės turi būti atkuriamos, o padaryti nuostoliai atlyginami įstatymų bei kitų teisės aktų nustatyta tvarka. Miško valdytojų, savininkų ir naudotojų teisės gali būti apribotos įstatymų nustatyta tvarka visuomenės, aplinkos bei miško apsaugos interesais.
 
-\#### 11 straipsnis. Miško žemės pavertimas kitomis naudmenomis
+## 11 straipsnis. Miško žemės pavertimas kitomis naudmenomis
 
 1. Miško žemė gali būti paverčiama kitomis naudmenomis tik išimtiniais atvejais, Vyriausybės nustatyta tvarka derinant valstybės, miško savininko ir visuomenės interesus.
 
 2. Miško iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (daigynams įrengti, miško ūkiniams keliams tiesti, priešgaisrinėms juostoms, technologiniams proskiebiams, poilsio aikštelėms ir medienos sandėliams įrengti, nustatyta tvarka žvyrui bei smėliui kasti ūkio reikmėms ir kt.) nėra miško žemės pavertimas kitomis naudmenomis.
 
-\#### 12 straipsnis. Miško žemės sausinimas, tręšimas ir kelių per miško žemę tiesimas
+## 12 straipsnis. Miško žemės sausinimas, tręšimas ir kelių per miško žemę tiesimas
 
 1. Miško žemės sausinimas, tręšimas ir nuodingųjų cheminių medžiagų miško žemėje naudojimas negali prieštarauti Aplinkos apsaugos įstatymui ir atitinkamiems teisės aktams.
 
@@ -262,9 +262,9 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 3. Miško žemės sausinimo sistemų priežiūros darbai atliekami, miško keliai tiesiami miško valdytojų, savininkų, naudotojų, savivaldybės, Kelių fondo ir kitomis lėšomis.
 
-\## III SKYRIUS. LIETUVOS RESPUBLIKOS MIŠKŲ VALSTYBĖS KADASTRAS IR MIŠKOTVARKOS PROJEKTAS
+III SKYRIUS. LIETUVOS RESPUBLIKOS MIŠKŲ VALSTYBĖS KADASTRAS IR MIŠKOTVARKOS PROJEKTAS
 
-\#### 13 straipsnis. Valstybinė miškų inventorizacija, miškų apskaita ir miškų kadastras
+## 13 straipsnis. Valstybinė miškų inventorizacija, miškų apskaita ir miškų kadastras
 
 1. Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė miškų inventorizacija atliekama visose miško valdose. Miškų urėdijose, valstybiniuose rezervatuose ir valstybiniuose parkuose inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
 
@@ -280,7 +280,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 7. Valstybinė miškų inventorizacija ir apskaita valstybiniuose ir privačiuose miškuose atliekama valstybės lėšomis. Inventorizacijos ir apskaitos duomenys miškų savininkams ir valdytojams Aplinkos ministerijos nustatyta tvarka teikiami nemokamai. Miškų sklypai inventorizuojami ir miškotvarkos projektai rengiami valstybės, miško valdytojų ir savininkų lėšomis.
 
-\#### 14 straipsnis. Miškotvarkos projektas
+## 14 straipsnis. Miškotvarkos projektas
 
 1. Miškotvarkos projektas – tai specialiojo teritorijų planavimo dokumentas, pagal kurį organizuojamas miškų ūkis ir atliekami visi miškų atkūrimo, naudojimo ir miško žemių tvarkymo darbai. Jis sudaromas visoms miško valdoms. Miškai turi būti tvarkomi, naudojami ir atkuriami pagal miškotvarkos projektą.
 
@@ -308,9 +308,9 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 8. Miškotvarkos projektus rengia bei miškų inventorizaciją atlieka fiziniai ir juridiniai asmenys Aplinkos ministerijos nustatyta tvarka. Laikantis šios tvarkos, centralizuotai kaupiami ir tvarkomi miškotvarkos duomenys, rengiami, derinami ir tvirtinami miškotvarkos projektai.
 
-\## IV SKYRIUS. MIŠKO ATKŪRIMAS, AUGINIMAS IR KIRTIMAS
+IV SKYRIUS. MIŠKO ATKŪRIMAS, AUGINIMAS IR KIRTIMAS
 
-\#### 15 straipsnis. Miško atkūrimas ir įveisimas
+## 15 straipsnis. Miško atkūrimas ir įveisimas
 
 1. Mišką privalo atkurti jo valdytojai, savininkai bei naudotojai savo lėšomis.
 
@@ -326,7 +326,7 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 7. Miško atkūrimo ir įveisimo nuostatus tvirtina Aplinkos ministerija.
 
-\#### 16 straipsnis. Medynų auginimas ir kirtimas
+## 16 straipsnis. Medynų auginimas ir kirtimas
 
 1. Medynų auginimo ir priežiūros priemonėmis siekiama formuoti augavietės sąlygas atitinkančius, našius miškus, pirmenybę teikiant vietinėms medžių ir kitų augalų rūšims, mišriems miško želdiniams ir mišriems medynams. Medynų augimą ir priežiūrą reguliuojančios priemonės, pagrindiniai ir tarpiniai miško kirtimai atliekami pagal Aplinkos ministerijos tvirtinamus normatyvus ir taisykles.
 
@@ -334,13 +334,13 @@ Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei n
 
 3. Taip pat gali būti atliekami miško kirtimai kraštovaizdžiui formuoti, biotechninėms priemonėms vykdyti, priešgaisrinėms juostoms įrengti, technologinių įrenginių vietoms paruošti ir kitiems miško ūkio tikslams.
 
-\## V SKYRIUS. MIŠKO APSAUGA
+V SKYRIUS. MIŠKO APSAUGA
 
-\#### 17 straipsnis. Miško apsaugos uždaviniai
+## 17 straipsnis. Miško apsaugos uždaviniai
 
 Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų veiksmų: savavališko miško kirtimo, miško naudojimo tvarkos pažeidimų, miško išteklių grobstymo, miško teršimo, šiukšlinimo, miško padegimo, naminių gyvulių daromos žalos; taip pat saugoti mišką nuo žvėrių daromos žalos, gaisrų, ligų, kenkėjų ir kitų stichinių nelaimių, miško dirvožemio ir medžių mechaninių pažeidimų.
 
-\#### 18 straipsnis. Miško apsauga nuo gaisrų ir stichinių nelaimių
+## 18 straipsnis. Miško apsauga nuo gaisrų ir stichinių nelaimių
 
 1. Miškuose, nepaisant jų nuosavybės formos, privalo būti sukurta ir palaikoma bendra valstybinė priešgaisrinių priemonių sistema, apimanti stebėjimo, profilaktines ir priešgaisrines saugos priemones. Šią bendrą valstybinę priešgaisrinių priemonių sistemą rengia ir jos įgyvendinimą organizuoja Generalinė miškų urėdija prie Aplinkos ministerijos, miškų urėdijos bei valstybinių parkų direkcijos kartu su savivaldybėmis. Miško valdytojai, savininkai, naudotojai ir lankytojai privalo laikytis teisės aktais patvirtintų miškų priešgaisrinės apsaugos reikalavimų.
 
@@ -348,29 +348,29 @@ Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų
 
 3. Stichinių nelaimių miškuose atvejais Aplinkos ministerija turi teisę nustatyti specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra privalomos visiems miško valdytojams, savininkams ir naudotojams.
 
-\#### 19 straipsnis. Miško apsauga nuo ligų ir kenkėjų
+## 19 straipsnis. Miško apsauga nuo ligų ir kenkėjų
 
 1. Miško valdytojai, savininkai ir naudotojai turi laikytis teisės aktais patvirtintų miško sanitarinės apsaugos reikalavimų, per nustatytą laiką išvežti iš miško arba tinkamai apsaugoti nuo kenkėjų miške paliekamą spygliuočių medieną. Miško valdytojai, savininkai ir naudotojai turi pranešti miškų urėdijoms bei valstybinių parkų direkcijoms apie medžių ligų ir kenkėjų židinius.
 
 2. Dideli kenkėjų ir ligų židiniai lokalizuojami ir likviduojami valstybės, miško valdytojų ir savininkų lėšomis.
 
-\#### 20 straipsnis. Miško apsauga nuo naminių gyvulių ir žvėrių daromos žalos
+## 20 straipsnis. Miško apsauga nuo naminių gyvulių ir žvėrių daromos žalos
 
 1. Naminių gyvulių ganiava valstybinėje miško žemėje draudžiama, išskyrus Aplinkos ministerijos numatytus atvejus. Privačiuose miškuose gyvulių ganiava draudžiama kirtavietėse ir 20 metų neturinčiuose jaunuolynuose.
 
 2. Medžiojamų žvėrių skaičius miško žemėje turi būti palaikomas toks, kad būtų garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške, laikomasi Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
 
-\#### 21 straipsnis. Miško apsauga nuo taršos
+## 21 straipsnis. Miško apsauga nuo taršos
 
 Miško apsaugą nuo taršos, leistiną taršą ir žalos miškams atlyginimą nustato Aplinkos apsaugos įstatymas ir kiti teisės aktai. Žuvę ar pažeisti miškai turi būti atkuriami kaltininkų lėšomis, o jei kaltininkai nenustatyti, – valstybės, miško valdytojų ir savininkų bei kitomis lėšomis.
 
-\## VI SKYRIUS. ATSAKOMYBĖ UŽ MIŠKŲ ĮSTATYMO PAŽEIDIMUS
+VI SKYRIUS. ATSAKOMYBĖ UŽ MIŠKŲ ĮSTATYMO PAŽEIDIMUS
 
-\#### 22 straipsnis. Atsakomybė
+## 22 straipsnis. Atsakomybė
 
 Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
 
-\#### 23 straipsnis. Neteisėta veika padarytos žalos atlyginimas
+## 23 straipsnis. Neteisėta veika padarytos žalos atlyginimas
 
 1. Fiziniai ir juridiniai asmenys, padarę žalos miško valdytojų, savininkų ir naudotojų miškui, kitam turtui ir teisėtiems interesams ar miškui, kaip aplinkos objektui, privalo visiškai ją atlyginti arba, jeigu yra galimybė, atkurti iki pažeidimo buvusią būklę. Nuostolių apskaičiavimo tvarką nustato įstatymai ir kiti teisės aktai.
 
@@ -382,15 +382,15 @@ Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, traukiami
 
 2) valstybiniai miškų pareigūnai, kai žala yra padaroma miškui, kaip aplinkos objektui.
 
-\## VII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS BENDRADARBIAVIMAS
+VII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS BENDRADARBIAVIMAS
 
 MIŠKŲ ŪKIO SRITYJE
 
-\#### 24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas miškų ūkio klausimais
+## 24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas miškų ūkio klausimais
 
 Lietuvos Respublika, vadovaudamasi tvaraus ir subalansuoto miškų ūkio principais, sudaro tarptautines sutartis miškų ūkio klausimais, dalyvauja tarptautinių miškų ūkio organizacijų veikloje.
 
-\#### 25 straipsnis. Lietuvos Respublikos tarptautinių sutarčių taikymas
+## 25 straipsnis. Lietuvos Respublikos tarptautinių sutarčių taikymas
 
 Jeigu Lietuvos Respublikos tarptautinės sutartys nustato kitokius miško naudojimo, atkūrimo ir apsaugos reikalavimus nei šis įstatymas, yra taikomos tarptautinių sutarčių nuostatos.“
 

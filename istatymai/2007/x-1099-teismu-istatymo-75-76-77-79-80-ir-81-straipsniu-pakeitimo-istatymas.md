@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F212BAD86BE0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F212BAD86BE0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 75, 76, 77, 79, 80 ir 81 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 2002, Nr. [17-649](https://www.e-tar.lt/portal/lt/legalAct/TAR.390AEF086CE3); 2003, Nr. [17-700](https://www.e-tar.lt/portal/lt/legalAct/TAR.A12152C040BC); 2006, Nr. [60-2121](https://www.e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982))
 
-\#### 1 straipsnis. 75 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 75 straipsnio 2 dalies pakeitimas
 
 75 straipsnio 2 dalyje vietoj žodžio „šešeriems“ įrašyti žodį „penkeriems“ ir šią dalį išdėstyti taip:
 
 „2. Vyriausiojo administracinio teismo pirmininkas, pirmininko pavaduotojas skiriamas penkeriems metams.“
 
-\#### 2 straipsnis. 76 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 76 straipsnio 1 dalies pakeitimas
 
 76 straipsnio 1 dalyje išbraukti žodžius „iš paskirtų į atitinkamą teismą teisėjų“ ir šią dalį išdėstyti taip:
 
 „1. Kandidatūras į laisvas apylinkės teismo, apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko vietas parenka ir teikia jas Respublikos Prezidentui šio Įstatymo 55^1 straipsnio 1 dalyje nurodyta Atrankos komisija. Kandidatūras į nurodytas pareigas Atrankos komisija atrenka pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.“
 
-\#### 3 straipsnis. 77 straipsnio 1 ir 4 dalių pakeitimas
+## 3 straipsnis. 77 straipsnio 1 ir 4 dalių pakeitimas
 
 1. 77 straipsnio 1 dalyje po žodžio „pirmininką“ įrašyti žodžius „iš paskirtų šio teismo teisėjų“ ir šią dalį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „4. Apeliacinio teismo pirmininkas, skyriaus pirmininkas skiriamas penkeriems metams.“
 
-\#### 4 straipsnis. 79 straipsnio pakeitimas
+## 4 straipsnis. 79 straipsnio pakeitimas
 
 Pakeisti 79 straipsnį ir jį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti 79 straipsnį ir jį išdėstyti taip:
 
 4. Kandidatūros į Aukščiausiojo Teismo pirmininko ir skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.“
 
-\#### 5 straipsnis. 80 straipsnio 4 dalies pakeitimas
+## 5 straipsnis. 80 straipsnio 4 dalies pakeitimas
 
 Pakeisti 80 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Teisėjas tos pačios pakopos teisme į tas pačias – teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko – pareigas gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Po dviejų iš eilės kadencijų teisėjas į tos pačios pakopos teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko pareigas gali būti skiriamas, jei po jo antros kadencijos pabaigos yra praėję ne mažiau kaip penkeri metai.“
 
-\#### 6 straipsnis. 81 straipsnio 3 ir 7 dalių pakeitimas
+## 6 straipsnis. 81 straipsnio 3 ir 7 dalių pakeitimas
 
 1. 81 straipsnio 3 dalyje išbraukti žodžius „patarus Aukščiausiojo Teismo pirmininkui“ ir šią dalį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 80 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „7. Dėl šio straipsnio 2, 3, 4, 5 ir 6 dalyse nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teisėjų taryba.“
 
-\#### 7 straipsnis. Baigiamosios nuostatos
+## 7 straipsnis. Baigiamosios nuostatos
 
 1. Iki šio įstatymo įsigaliojimo Respublikos Prezidento paskirti teismų pirmininkai, pirmininkų pavaduotojai ir skyrių pirmininkai eina pareigas iki kadencijos, kuriai buvo paskirti, pabaigos.
 

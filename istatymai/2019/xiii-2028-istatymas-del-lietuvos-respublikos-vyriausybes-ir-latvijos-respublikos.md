@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9ac36d7055d311e9975f9c35aedfe438"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9AC36D7055D3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės tarpvalstybinio bendradarbiavimo susitarimo dėl greitosios medicinos pagalbos paslaugų teikimo Lietuvos Respublikos ir Latvijos Respublikos pasienio teritorijoje ratifikavimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS IR LATVIJOS RESPUBLIKOS VYRIAUSYBĖS TARP
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2018 m. gruodžio 27 d. dekretą Nr. 1K-1514, ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės tarpvalstybinio bendradarbiavimo susitarimą dėl greitosios medicinos pagalbos paslaugų teikimo Lietuvos Respublikos ir Latvijos Respublikos pasienio teritorijoje, pasirašytą 2018 m. spalio 3 d. Bauskėje.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/88be12c0c75f11ea997c9ee767e856b4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88BE12C0C75F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo Nr. IX-375 1, 2, 4, 7-2, 9, 10, 12 straipsnių, antrojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 2-1 straipsniu, trečiuoju-1 ir trečiuoju-2 skirsniais įstatymas

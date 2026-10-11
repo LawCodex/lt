@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c8890cd07e6e11ec993ff5ca6e8ba60c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C8890CD07E6E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmens vardo ir pavardės rašymo dokumentuose įstatymas
@@ -26,11 +26,11 @@ ASMENS VARDO IR PAVARDĖS RAŠYMO DOKUMENTUOSE
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato asmens vardų ir pavardžių rašymo Lietuvos Respublikos piliečio asmens tapatybę patvirtinančiuose dokumentuose, civilinės būklės aktų įrašuose ir kituose asmeniui Lietuvos Respublikoje išduodamuose oficialiuose dokumentuose pagrindinius reikalavimus.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Dokumento šaltinis – Lietuvos Respublikos ar užsienio valstybės kompetentingos institucijos sudarytas ir (arba) išduotas asmens tapatybę patvirtinantis dokumentas ar civilinės būklės akto įrašą liudijantis dokumentas, teismo sprendimas, kuriais remiantis šio įstatymo ir kitų teisės aktų nustatyta tvarka rašomi asmens vardas ir pavardė šio įstatymo 1 straipsnyje nurodytuose dokumentuose.
 
@@ -40,7 +40,7 @@ Vilnius
 
 4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatyme, Lietuvos Respublikos civilinės būklės aktų registravimo įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
 
-\#### 3 straipsnis. Vardų ir pavardžių rašymas
+## 3 straipsnis. Vardų ir pavardžių rašymas
 
 1. Lietuvos Respublikos piliečio vardas ir pavardė Lietuvos Respublikos piliečio asmens tapatybę patvirtinančiuose dokumentuose ir civilinės būklės aktų įrašuose rašomi lietuviškais rašmenimis, išskyrus šio straipsnio 3 dalyje ir šio įstatymo 4 straipsnio 2 dalyje nustatytus atvejus.
 
@@ -54,7 +54,7 @@ Vilnius
 
 6. Asmens vardo ir pavardės rašymo tvarka nustatoma Asmens vardo ir pavardės rašymo asmens tapatybę patvirtinančiuose ir kituose dokumentuose taisyklėse. Šias taisykles tvirtina Lietuvos Respublikos Vyriausybė.
 
-\#### 4 straipsnis. Vardų ir pavardžių nurašymas ir perrašymas
+## 4 straipsnis. Vardų ir pavardžių nurašymas ir perrašymas
 
 1. Vardas ir pavardė, dokumento šaltinyje įrašyti ne lietuviškais rašmenimis, Lietuvos Respublikos piliečio asmens tapatybę patvirtinančiuose dokumentuose ir civilinės būklės aktų įrašuose rašomi laikantis šių reikalavimų:
 
@@ -76,7 +76,7 @@ Vilnius
 
 3. Šio straipsnio 1 dalyje nurodytais atvejais asmens vardas ir pavardė jo prašymu gali būti rašomi lietuviškais rašmenimis arba lietuviška vardo ir pavardės forma.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 5 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2022 m. gegužės 1 d.
 
@@ -84,7 +84,7 @@ Vilnius
 
 3. Asmens vardas ir pavardė, įrašyti iki šio įstatymo įsigaliojimo išduotuose Lietuvos Respublikos asmens tapatybę patvirtinančiuose dokumentuose, civilinės būklės aktų įrašuose ir kituose Lietuvos Respublikoje išduodamuose oficialiuose dokumentuose, šio asmens prašymu rašomi šio įstatymo ir Lietuvos Respublikos Vyriausybės patvirtintose Asmens vardo ir pavardės rašymo asmens tapatybę patvirtinančiuose ir kituose dokumentuose taisyklėse nustatyta tvarka.
 
-\#### 6 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo pripažinimas netekusiu galios
+## 6 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. sausio 31 d. nutarimą Nr. I-1031 „Dėl vardų ir pavardžių rašymo Lietuvos Respublikos piliečio pase“.
 

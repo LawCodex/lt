@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.457EA12FC790"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.457EA12FC790.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo 10 ir 25 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [3-37](https://www.e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8); 2004, Nr. [153-5571](https://www.e-tar.lt/portal/lt/legalAct/TAR.926B9B9755A3))
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 8. Jeigu kultūros paveldo objekte esančio kilnojamojo daikto, saugomo pagal Kilnojamųjų kultūros vertybių apsaugos įstatymą, paskirtis neatsiejama nuo objekto paskirties, o daiktas su objektu yra istoriškai susijęs ir objektui suteikia papildomos reikšmės, šis daiktas Kultūros vertybių registre įrašomas kaip daiktas, esantis viena iš objekto vertingųjų savybių. Kultūros paveldo objektą skelbiant valstybės saugomu, kilnojamoji kultūros vertybė, nurodyta kaip vertingoji savybė, tampa saugoma ir šio įstatymo.“
 
-\#### 2 straipsnis. 25 straipsnio 7 dalies pakeitimas
+## 2 straipsnis. 25 straipsnio 7 dalies pakeitimas
 
 Pakeisti 25 straipsnio 7 dalį ir ją išdėstyti taip:
 

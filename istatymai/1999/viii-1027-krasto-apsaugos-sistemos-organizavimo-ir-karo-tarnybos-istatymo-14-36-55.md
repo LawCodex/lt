@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5A98CDE4F986.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 14, 36, 55 straipsnių papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776))
 
-\#### 1 straipsnis. 14 straipsnio papildymas
+## 1 straipsnis. 14 straipsnio papildymas
 
 1. Papildyti 14 straipsnį nauja 7 dalimi ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 2. Buvusias 7, 8, 9, 10, 11, 12, 13 dalis laikyti atitinkamai 8, 9, 10, 11, 12, 13, 14 dalimis.
 
-\#### 2 straipsnis. 36 straipsnio 12 dalies papildymas
+## 2 straipsnis. 36 straipsnio 12 dalies papildymas
 
 36 straipsnio 12 dalies antrajame sakinyje po žodžių „turi teisę” įrašyti žodžius „neatsižvelgdamas į asmens amžių”, po žodžių „į profesinę karo tarnybą” - žodžius „ne ilgiau kaip 5 metams arba įrašyti į kariuomenės aktyviojo rezervo įskaitą” ir šią dalį išdėstyti taip:
 
 „12. Profesinėje karo tarnyboje negali tarnauti Lietuvos Respublikos piliečiai, kurie gauna kitų šalių valstybines pensijas už tarnybą tų šalių karinėse ar joms prilygintose struktūrose. Krašto apsaugos ministras turi teisę neatsižvelgdamas į asmens amžių priimti į profesinę karo tarnybą ne ilgiau kaip 5 metams arba įrašyti į kariuomenės aktyviojo rezervo įskaitą Lietuvos Respublikos piliečius, tarnavusius profesinės tarnybos kariais valstybių Šiaurės Atlanto Sutarties Organizacijos (NATO) narių karinėse ar joms prilygintose struktūrose ir gaunančius tų šalių karinę pensiją.”
 
-\#### 3 straipsnis. 55 straipsnio 6 dalies papildymas
+## 3 straipsnis. 55 straipsnio 6 dalies papildymas
 
 Papildyti 55 straipsnio 6 dalį ir ją išdėstyti taip:
 

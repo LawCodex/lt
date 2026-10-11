@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.63B1619569EE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.63B1619569EE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Europos socialinės apsaugos laikinųjų susitarimų ETS 12 ir ETS 13 bei jų protokolų ETS 12A ir ETS 13A ratifikavimo
@@ -26,7 +26,7 @@ DĖL EUROPOS SOCIALINĖS APSAUGOS LAIKINŲJŲ SUSITARIMŲ ETS 12 IR ETS 13 BEI J
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimų ratifikavimas
+## 1 straipsnis. Susitarimų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 20 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos socialinės apsaugos laikinuosius susitarimus ETS 12 ir ETS 13 bei jų protokolus ETS 12A ir ETS 13A“, ratifikuoja 1997 m. lapkričio 19 d. Strasbūre Lietuvos Respublikos vardu pasirašytus susitarimus:
 
@@ -38,7 +38,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 4) Europos laikinojo susitarimo dėl kitų nei senatvės, invalidumo ir maitintojo netekimo socialinės apsaugos sistemų protokolą (ETS 13A).
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Lietuvos Respublikos Seimas pareiškia:
 

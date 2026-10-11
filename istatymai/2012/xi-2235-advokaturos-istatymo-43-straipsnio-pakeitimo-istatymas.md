@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.92CE461E8291"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.92CE461E8291.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos advokatūros įstatymo 43 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2004, Nr. [50-1632](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3))
 
-\#### 1 straipsnis. 43 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 43 straipsnio 1 dalies pakeitimas
 
 Pakeisti 43 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Advokatas, įrašytas į Lietuvos praktikuojančių advokatų sąrašą, atlikdamas profesines pareigas, negali dalyvauti žvalgybos ir (ar) kriminalinės žvalgybos veikloje, dirbti ar eiti kitas mokamas pareigas, išskyrus darbą Lietuvos advokatūroje ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat šio Įstatymo 4 straipsnio 4 dalyje nurodytą veiklą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

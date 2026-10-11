@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.35EE7B612E1D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.35EE7B612E1D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895))
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas
+## 1 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 1 punktą ir visą straipsnį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pinigų emisijos teisę turi tik Lietuvos bankas. Įgyvendindamas ją, Lietuvos 
 
 2) įstatymo nustatyta tvarka išleidžia į apyvartą ir išima iš apyvartos Lietuvos Respublikos pinigus. Lietuvos bankas taip pat gali išimti iš apyvartos banknotus ir monetas pakeisdamas juos kitais. Pakeitimo tvarką nustato ir paskelbia Lietuvos bankas.“
 
-\#### 2 straipsnis. 8 straipsnio papildymas
+## 2 straipsnis. 8 straipsnio papildymas
 
 8 straipsnį papildyti 15 punktu ir visą straipsnį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Lietuvos bankas, įgyvendindamas savo tikslus, atlieka šias pagrindines funkcij
 
 15) atlieka komercinių bankų ir jų padalinių, kredito įstaigų teisinę registraciją bei registruoja jų statutus (įstatus).“
 
-\#### 3 straipsnis. 11 straipsnio pirmosios dalies pakeitimas ir papildymas
+## 3 straipsnis. 11 straipsnio pirmosios dalies pakeitimas ir papildymas
 
 Pakeisti 11 straipsnio pirmosios dalies 9 punktą, papildyti šią dalį 15 punktu ir visą pirmąją dalį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 11 straipsnio pirmosios dalies 9 punktą, papildyti šią dalį 15 punk
 
 15) rengia ir teikia Lietuvos Respublikos Seimui tvirtinti Lietuvos banko ūkinių bei bendrųjų valdymo išlaidų ir pajamų metinę sąmatą.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 17 straipsnio pirmosios dalies 1 punktą ir šią dalį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti 11 straipsnio pirmosios dalies 9 punktą, papildyti šią dalį 15 punk
 
 „Atleistas ar atstatydintas iš Lietuvos banko valdybos pirmininko pareigų asmuo Lietuvos banko reikalus naujai paskirtam Lietuvos banko valdybos pirmininkui arba laikinai eiti šias pareigas paskirtam asmeniui perduoda dalyvaujant Lietuvos Respublikos Seimo valdybos paskirtam atstovui, kuris, be kita ko, taip pat pasirašo reikalų perdavimo aktą.“
 
-\#### 5 straipsnis. 18 straipsnio pakeitimas
+## 5 straipsnis. 18 straipsnio pakeitimas
 
 Iš 18 straipsnio išbraukti trečiąją dalį, pakeisti ketvirtąją dalį ir ją laikyti trečiąja dalimi, ir visą straipsnį išdėstyti taip:
 
@@ -150,13 +150,13 @@ Lietuvos banko darbuotojai gali dirbti tik šiame banke, išskyrus atvejus, kai 
 
 Lietuvos banko darbuotojams gali būti suteikiamos finansinės paslaugos (išskyrus kreditų teikimą) Lietuvos banko valdybos nustatyta tvarka ir sąlygomis.“
 
-\#### 6 straipsnis. 20 straipsnio trečiosios dalies pakeitimas
+## 6 straipsnis. 20 straipsnio trečiosios dalies pakeitimas
 
 20 straipsnio trečiojoje dalyje vietoj žodžio „ketvirtinių“ įrašyti žodį „metinių“ ir visą trečiąją dalį išdėstyti taip:
 
 „Lietuvos banko atsargos kapitalas sudaromas iš Lietuvos banko pelno metinių atskaitymų, kurie daromi tol, kol atsargos kapitalo suma pasieks 200 mln. litų. Atsargos kapitalas gali būti naudojamas tik banko nuostoliams atlyginti. Panaudojus dalį atsargos kapitalo banko nuostoliams atlyginti, vėl daromi pelno atskaitymai šiam kapitalui, kol jis pasieks 200 mln. litų.“
 
-\#### 7 straipsnis. 22 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 22 straipsnio pakeitimas ir papildymas
 
 Pakeisti 22 straipsnio 1, 5 ir 6 punktus ir visą straipsnį išdėstyti taip:
 
@@ -182,7 +182,7 @@ Lietuvos banko išlaidas sudaro:
 
 9) kitos specifinės išlaidos, kurios yra būtinos Lietuvos banko funkcijoms atlikti ir neprieštarauja įstatymams.“
 
-\#### 8 straipsnis. 24 straipsnio pakeitimas
+## 8 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -202,7 +202,7 @@ Likęs pelnas sumokamas į Lietuvos Respublikos valstybės biudžetą iki kiekvi
 
 Lietuvos banko pelnas juridinių asmenų pelno mokesčiu neapmokestinamas.“
 
-\#### 9 straipsnis. 27 straipsnio pakeitimas
+## 9 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -218,23 +218,23 @@ Lietuvos banko paskolos užtikrinamos:
 
 3) kito komercinio banko ar kitos kredito įstaigos turto įkeitimu, garantija ar laidavimu.“
 
-\#### 10 straipsnis. 40 straipsnio pirmosios dalies pakeitimas
+## 10 straipsnis. 40 straipsnio pirmosios dalies pakeitimas
 
 Pakeisti 40 straipsnio pirmąją dalį ir ją išdėstyti taip:
 
 „Lietuvos bankas atlieka turto, įsipareigojimų ir operacijų apskaitą vadovaudamasis Lietuvos Respublikos įstatymais, tarptautiniais apskaitos standartais ir Europos Sąjungos valstybių centrinių bankų praktika.“
 
-\#### 11 straipsnis. 41 straipsnio antrosios dalies pakeitimas
+## 11 straipsnis. 41 straipsnio antrosios dalies pakeitimas
 
 Pakeisti 41 straipsnio antrąją dalį ir ją išdėstyti taip: „Lietuvos bankas finansinėms ataskaitoms ir sąskaitoms patikrinti samdo nepriklausomus auditorius konkurso tvarka.“
 
-\#### 12 straipsnis. 43 straipsnio papildymas
+## 12 straipsnis. 43 straipsnio papildymas
 
 Papildyti 43 straipsnį antrąja dalimi:
 
 „Lietuvos bankas kartą per ketvirtį ir ne vėliau kaip per kito ketvirčio pirmąjį mėnesį atsiskaito Seimo Biudžeto ir finansų komitetui už savo veiklą bei darbo rezultatus.“
 
-\#### 13 straipsnis. Papildymas 431 straipsniu
+## 13 straipsnis. Papildymas 431 straipsniu
 
 Papildyti Įstatymą 43^1 straipsniu:
 
@@ -246,7 +246,7 @@ Lietuvos bankas teikia teisėsaugos institucijoms informaciją apie bankuose ir 
 
 Lietuvos bankas, prieš skirdamas laikinąjį komercinio banko administratorių, prieš kreipdamasis į teismą dėl banko bankroto bylos iškėlimo Lietuvos Respublikos komercinių bankų įstatymo 34 straipsnyje nurodytu pagrindu arba prieš taikydamas Komercinių bankų įstatymo 37 straipsnio pirmosios dalies 3 (moratoriumas), 7 ir 9 punktuose nurodytas poveikio priemones, informuoja Ministrą Pirmininką ir finansų ministrą, tačiau savarankiškai priima sprendimus bei prisiima atsakomybę šiais klausimais.“
 
-\#### 14 straipsnis. 44 straipsnio pirmosios dalies pakeitimas
+## 14 straipsnis. 44 straipsnio pirmosios dalies pakeitimas
 
 44 straipsnio pirmojoje dalyje po žodžio „reikalavimus“ įrašyti žodį „skolininkui“, išbraukti žodžius „išskyrus privalomąsias atsargas“ ir visą pirmąją dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7631DD1CF992"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7631DD1CF992.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 11, 12, 14, 20, 25, 38 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [64-2323](https://www.e-tar.lt/portal/lt/legalAct/TAR.03EBC0E3CBDD), Nr. [85-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B); 2002, Nr. [68-2765](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD04B83C77C4), Nr. [127-5749](https://www.e-tar.lt/portal/lt/legalAct/TAR.4310CB49B31B); 2003, Nr. [17-704](https://www.e-tar.lt/portal/lt/legalAct/TAR.182DFEB57DD1), Nr. [28-1124](https://www.e-tar.lt/portal/lt/legalAct/TAR.9490DA782C64), Nr. [73-3357](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6287A13797B), Nr. [104-4636](https://www.e-tar.lt/portal/lt/legalAct/TAR.78C3401CE39C))
 
-\#### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 11 straipsnio 2 dalies pirmajame sakinyje po žodžio „sustabdyti“ įrašyti žodį „pakeisti“ ir šią dalį išdėstyti taip:
 
 „2. Savivaldybės tarybos priimtus teisės aktus gali sustabdyti, pakeisti ar panaikinti pati savivaldybės taryba. Kitų savivaldybės viešojo administravimo subjektų priimtus teisės aktus gali sustabdyti ar panaikinti pagal kompetenciją savivaldybės taryba. Savivaldybės administracijos direktorius ar kiti savivaldybės viešojo administravimo subjektai savo priimtus norminius teisės aktus, kuriais įgyvendinami įstatymai ir vykdomi Vyriausybės nutarimai ar kiti teisės aktai (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos), gali sustabdyti ir juos pakeisti ar panaikinti. Jeigu savivaldybės viešojo administravimo subjektai per įstatymų nustatytą terminą nepanaikina ginčijamų norminių teisės aktų arba priima naujus Konstitucijos ar įstatymų neatitinkančius norminius teisės aktus, Vyriausybės atstovas nurodytų teisės aktų teisėtumą skundžia Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. 12 straipsnio 6 dalies papildymas
+## 2 straipsnis. 12 straipsnio 6 dalies papildymas
 
 12 straipsnio 6 dalyje po žodžių „netenka įgaliojimų“ įrašyti žodžius „arba tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje“ ir šią dalį išdėstyti taip:
 
 „6. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje.“
 
-\#### 3 straipsnis. 14 straipsnio 2, 3 ir 8 dalių pakeitimas bei papildymas
+## 3 straipsnis. 14 straipsnio 2, 3 ir 8 dalių pakeitimas bei papildymas
 
 1. Papildyti 14 straipsnio 2 dalį nauju antruoju sakiniu „Šiam posėdžiui pirmininkauja apygardos rinkimų komisijos pirmininkas“ ir šią dalį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „8. Savivaldybės tarybos posėdžiai protokoluojami. Posėdžių protokolus ir savivaldybės tarybos sprendimus privalo pasirašyti tam posėdžiui pirmininkavęs meras arba jo pavaduotojas ar kitas tarybos narys. Posėdžių protokolus turi pasirašyti ir tarybos sekretorius, o jeigu jo nėra, – administracijos direktoriaus (kai yra gautas mero pritarimas) paskirtas valstybės tarnautojas arba darbuotojas, dirbantis pagal darbo sutartį. Sprendimą dėl mero išrinkimo pasirašo apygardos rinkimų komisijos pirmininkas, pirmininkavęs savivaldybės tarybos posėdžiui.“
 
-\#### 4 straipsnis. 20 straipsnio 7 ir 9 dalių pakeitimas bei papildymas
+## 4 straipsnis. 20 straipsnio 7 ir 9 dalių pakeitimas bei papildymas
 
 1. 20 straipsnio 7 dalies pirmajame sakinyje po žodžio „pavaduotoju“ įrašyti žodžius „arba prieš terminą netenka savo įgaliojimų (išskyrus atvejus, kai meras, mero pavaduotojas savo įgaliojimų netenka šio straipsnio 2 dalies 1 ir 4 punktų nustatyta tvarka)“ ir šią dalį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 „9. Meras ir mero pavaduotojas negali dirbti kitose institucijose, įstaigose, įmonėse ir organizacijose bei gauti kito atlyginimo, išskyrus atlyginimą už mokslinę, pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma, jeigu mero pavaduotojas pareigas atlieka visuomeniniais pagrindais.“
 
-\#### 5 straipsnis. 25 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 25 straipsnio pakeitimas ir papildymas
 
 Pakeisti 25 straipsnio pavadinimą ir 1 dalį, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 25 straipsnio pavadinimą ir 1 dalį, straipsnį papildyti 2 dalimi ir 
 
 2. Jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje, tarybos narių įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi.“
 
-\#### 6 straipsnis. 38 straipsnio 8 dalies pakeitimas
+## 6 straipsnis. 38 straipsnio 8 dalies pakeitimas
 
 Pakeisti 38 straipsnio 8 dalį ir ją išdėstyti taip:
 

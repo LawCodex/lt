@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6F13363B08B4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6F13363B08B4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 6, 7, 8, 10, 12, 13, 14, 15, 22, 23 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0); 2000, Nr. [18-431](https://www.e-tar.lt/portal/lt/legalAct/TAR.B24AF3538B14), Nr. [85-2574](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF80B84E46E6); 2001, Nr. [35-1165](https://www.e-tar.lt/portal/lt/legalAct/TAR.932273BC5680), Nr. [71-2517](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AFC9AF000A6); 2003, Nr. [38-1683](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEFB2B895E9C), Nr. [42-1911](https://www.e-tar.lt/portal/lt/legalAct/TAR.979299BCE0EB), Nr. [111-4929](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF478C6250F4), Nr. [123-5584](https://www.e-tar.lt/portal/lt/legalAct/TAR.6AE3851DBCAA); 2004, Nr. [98-3630](https://www.e-tar.lt/portal/lt/legalAct/TAR.31A28B4F31FC); 2005, Nr. [88-3286](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE7E5919B8C1); 2006, Nr. [77-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.090274CC8130))
 
-\#### 1 straipsnis. 2 straipsnio 1, 2, 5 ir 6 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1, 2, 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „6. **Asmeninis suinteresuotumas –**valstybinėje tarnyboje dirbančio asmens (ar jam artimo asmens) moralinė skola, moralinis įsipareigojimas, turtinė ar neturtinė nauda arba kitas panašaus pobūdžio interesas.“
 
-\#### 2 straipsnis. 3 straipsnio 2, 5 ir 6 punktų pakeitimas
+## 2 straipsnis. 3 straipsnio 2, 5 ir 6 punktų pakeitimas
 
 1. Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „6) nesinaudoti ir neleisti naudotis jokia valstybės ar savivaldybių nuosavybe, taip pat valstybei ar savivaldybėms nuomojama nuosavybe kitokia tvarka ir mastu, negu nustato įstatymai ar kiti teisės aktai.“
 
-\#### 3 straipsnis. 4 straipsnio papildymas 2 dalimi
+## 3 straipsnis. 4 straipsnio papildymas 2 dalimi
 
 Papildyti 4 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Papildyti 4 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos akcinių bendrovių, kuriose valstybė ar savivaldybė turi daugiau kaip 50 procentų įstatinio kapitalo arba akcijų, vadovams ir jų pavaduotojams, taip pat kandidatams į Seimo narius, Respublikos Prezidentus, Vyriausybės narius, savivaldybių tarybų narius ir merus, Europos Parlamento narius. Kandidatai deklaracijas pateikia rinkimų įstatymų nustatyta tvarka.“
 
-\#### 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 10) artimus asmenis ar kitus jam žinomus asmenis, dėl kurių, deklaruojančiojo nuomone, gali kilti interesų konfliktas.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 2. Jeigu paaiškėja naujos aplinkybės, dėl kurių gali kilti interesų konfliktas, deklaruojantis asmuo privalo deklaraciją papildyti nedelsdamas, bet ne vėliau kaip per 7 kalendorines dienas po šių aplinkybių paaiškėjimo.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 2. Deklaracijos saugomos valstybės ar savivaldybių institucijose, įstaigose, kurioms jos yra pateiktos. Už deklaracijų saugojimą yra atsakingi tų institucijų, įstaigų vadovai ar jų įgalioti atstovai.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -130,7 +130,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 4. Valstybinėje tarnyboje dirbančių asmenų privačių interesų duomenų viešumui užtikrinti Valstybės registrų įstatymo nustatyta tvarka steigiamas Privačių interesų registras.“
 
-\#### 8 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -140,17 +140,17 @@ Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) tvarkydamas reikalus su visų rūšių įmonėmis, kuriose jis ar jam artimi asmenys turi daugiau kaip 10 procentų įstatinio kapitalo arba akcijų.“
 
-\#### 9 straipsnis. 13 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 13 straipsnio 2 dalies pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Asmuo, dirbantis valstybinėje tarnyboje, negali savo ar jam artimų asmenų privačių interesų naudai naudotis ir leisti naudotis informacija, kurią jis įgijo eidamas pareigas, kitokia tvarka ir mastu, negu nustato įstatymai ar kiti teisės aktai.“
 
-\#### 10 straipsnis. 14 straipsnio 3 dalies pripažinimas netekusia galios
+## 10 straipsnis. 14 straipsnio 3 dalies pripažinimas netekusia galios
 
 14 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 11 straipsnis. 15 straipsnio pakeitimas
+## 11 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo reikalavimus, vienus metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami, skiriami į aukštesnes pareigas, o tarnybos santykiams pasibaigus bet kuriais pagrindais, trejus metus nuo pažeidimo paaiškėjimo dienos negali būti priimami į valstybinę tarnybą.“
 
-\#### 12 straipsnis. 22 straipsnio pakeitimas ir papildymas
+## 12 straipsnis. 22 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 22 straipsnį ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti ir papildyti 22 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu yra gauta pagrįsta informacija apie tai, kad asmuo nevykdo šio įstatymo reikalavimų, valstybės ar savivaldybių institucijų, įstaigų vadovai ar jų įgalioti atstovai savo iniciatyva arba Vyriausiosios tarnybinės etikos komisijos pavedimu atlieka pavaldaus asmens, dirbančio valstybinėje tarnyboje, tarnybinės veiklos patikrinimą. Apie patikrinimo rezultatus informuojama Vyriausioji tarnybinės etikos komisija, kuri turi teisę vertinti atliktų patikrinimų išvadas. Jeigu Vyriausioji tarnybinės etikos komisija nesutinka su valstybės ar savivaldybės institucijoje ar įstaigoje atlikto tyrimo išvada, ji turi teisę tyrimą pavesti atlikti pakartotinai arba pati atlikti tyrimą ir priimti sprendimą.“
 
-\#### 13 straipsnis. 23 straipsnio pakeitimas
+## 13 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -184,11 +184,11 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 Vyriausioji tarnybinės etikos komisija prižiūri, kaip asmenys vykdo šio įstatymo nuostatas Vyriausiosios tarnybinės etikos komisijos įstatymo, šio įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas
+## 14 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja po vieno kalendorinio mėnesio nuo paskelbimo leidinyje „Valstybės žinios“.
 
-\#### 15 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 15 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė per metus nuo šio įstatymo įsigaliojimo dienos Valstybės registrų įstatymo nustatyta tvarka įsteigia Privačių interesų registrą.
 

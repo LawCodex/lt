@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C3898659EAFB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C3898659EAFB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 10 ir 44 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74))
 
-\#### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
 
 10 straipsnio 4 dalyje po žodžio „statutus“ išbraukti žodį „ir“, po žodžio „įstatymą“ įrašyti žodžius „Savivaldybių administracinės priežiūros įstatymą“ ir šią dalį išdėstyti taip:
 
 „4. Jei kiti įstatymai (išskyrus statutus, Diplomatinės tarnybos įstatymą, Savivaldybių administracinės priežiūros įstatymą) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas ir tvarką, taikomos šio Įstatymo nuostatos.“
 
-\#### 2 straipsnis. 44 straipsnio 1 dalies 5 punkto pakeitimas
+## 2 straipsnis. 44 straipsnio 1 dalies 5 punkto pakeitimas
 
 44 straipsnio 1 dalies 5 punkte po žodžio „kadencija“ įrašyti žodžius „ir Vyriausybės atstovo (įstaigos vadovo) kadencija, kurios pradžia – Valstybės tarnybos įstatymo (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B)) įsigaliojimo data” ir šį punktą išdėstyti taip:
 

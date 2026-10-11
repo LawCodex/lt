@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.481E9CD7F1B9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.481E9CD7F1B9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 2, 3, 4, 6, 7, 8, 12, 14, 30, 37, 38, 51, 78 straipsnių pakeitimo ir papildymo, šeštojo ir keturioliktojo skirsnių pavadinimų pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2000, Nr. 75-2266, Nr. 85-2584)
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „21. **Laivo frachtavimo sutartis (čarteris)** – susitarimas, pagal kurį laivo valdytojas (frachtininkas) įsipareigoja kitai šaliai (frachtuotojui) už mokestį leisti naudotis laivu ar jo dalimi kroviniams, keleiviams ar bagažui vežti.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 3 straipsnio 1 dalyje prieš žodį „kabotažas“ įrašyti žodį „jūrų“, papildyti straipsnį nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -70,13 +70,13 @@ Vilnius
 
 3. Vežti ir buksyruoti jūra tarp Lietuvos Respublikos uostų ir užsienio uostų (tarptautinis susisiekimas) gali laivai, plaukiojantys su Lietuvos valstybės vėliava, ir laivai, plaukiojantys su kitos valstybės vėliava.“
 
-\#### 3 straipsnis. 4 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 4 straipsnio 3 dalies pakeitimas
 
 4 straipsnio 3 dalyje išbraukti žodžius „ir laivų aprūpinimo“ ir šią dalį išdėstyti taip:
 
 „3. Laivų agentavimo paslaugas gali teikti tik susisiekimo ministro nustatyta tvarka atestuotos įmonės.“
 
-\#### 4 straipsnis. 6 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 6 straipsnio papildymas ir pakeitimas
 
 Papildyti 6 straipsnį nauja 1 dalimi, buvusias 1 ir 2 dalis laikyti atitinkamai 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Papildyti 6 straipsnį nauja 1 dalimi, buvusias 1 ir 2 dalis laikyti atitinkamai
 
 3. Laivai, Lietuvos Respublikos Vyriausybės pavedimu vykdantys Lietuvos valstybės įsipareigojimus, negali būti areštuoti, įkeisti arba kam nors perduoti. Su šiais laivais susiję reikalavimai pateikiami Lietuvos Respublikos Vyriausybei.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 7 straipsnio 2 dalyje vietoj žodžio „konsulas“ įrašyti žodžius „konsulinis pareigūnas“, vietoj žodžių „vienerius metus“ įrašyti žodžius „tris mėnesius“, papildyti straipsnį nauja 3 dalimi, buvusias 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis, 4 dalyje po žodžių „Už Lietuvos“ įrašyti žodžius „ar užsienio“ ir visą straipsnį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Papildyti 6 straipsnį nauja 1 dalimi, buvusias 1 ir 2 dalis laikyti atitinkamai
 
 5. Kartu su Lietuvos valstybės vėliava laive Lietuvos Respublikos teisės aktų nustatyta tvarka gali būti iškeltos ir kitos vėliavos.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -116,13 +116,13 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 3. Jūrų laivų registravimo taisykles tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 7 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 Pakeisti 12 straipsnio 1 dalies antrąjį sakinį ir šią dalį išdėstyti taip:
 
 „1. Laivo kapitoną skiria ir darbo sutartį su juo sudaro laivo savininkas. Laivo nuomos be įgulos sutarties *(bareboat charter)* atveju laivo kapitoną skiria ir darbo sutartį su juo sudaro laivo nuomininkas.“
 
-\#### 8 straipsnis. 14 straipsnio pakeitimas
+## 8 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 2. Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių susitarimu nenustatyta kitaip.“
 
-\#### 9 straipsnis. 30 straipsnio 1, 4 dalių pakeitimas ir 6 dalies 4 punkto pripažinimas netekusiu galios
+## 9 straipsnis. 30 straipsnio 1, 4 dalių pakeitimas ir 6 dalies 4 punkto pripažinimas netekusiu galios
 
 1. Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 3. 30 straipsnio 6 dalies 4 punktą pripažinti netekusiu galios.
 
-\#### 10 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
+## 10 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
 
 Šeštojo skirsnio pavadinime po žodžio „frachtavimas“ įrašyti žodžius „laivo nuoma be įgulos *(bareboat charter)*“, išbraukti žodį „ir“ ir pavadinimą išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 LAIVO FRACHTAVIMAS, LAIVO NUOMA BE ĮGULOS (BAREBOAT CHARTER), LAIVO IŠPERKAMOJI NUOMA“.
 
-\#### 11 straipsnis. 37 straipsnio pakeitimas
+## 11 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
 4. Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių susitarimu nenustatyta kitaip.“
 
-\#### 12 straipsnis. 38 straipsnio pakeitimas
+## 12 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -194,11 +194,11 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 Laivo nuomos be įgulos sutarčiai *(bareboat charter)* *mutatis mutandis* taikomos šio Įstatymo 41–43 straipsnio nuostatos.
 
-\#### 13 straipsnis. 51 straipsnio 6 dalies pripažinimas netekusia galios
+## 13 straipsnis. 51 straipsnio 6 dalies pripažinimas netekusia galios
 
 51 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 14 straipsnis. Keturioliktojo skirsnio pavadinimo pakeitimas
+## 14 straipsnis. Keturioliktojo skirsnio pavadinimo pakeitimas
 
 Keturioliktojo skirsnio pavadinime vietoj žodžio „įkeitimas“ įrašyti žodį „hipoteka“ ir pavadinimą išdėstyti taip:
 
@@ -206,7 +206,7 @@ Keturioliktojo skirsnio pavadinime vietoj žodžio „įkeitimas“ įrašyti ž
 
 LAIVO HIPOTEKA“.
 
-\#### 15 straipsnis. 78 straipsnio pakeitimas
+## 15 straipsnis. 78 straipsnio pakeitimas
 
 78 straipsnio 1 dalyje po žodžių „vadovaujantis Lietuvos Respublikos“ įrašyti žodžius „civilinio kodekso, Lietuvos Respublikos“, 2 dalyje po žodžių „Lietuvos Respublikos“ įrašyti žodžius „civiliniame kodekse ar Lietuvos Respublikos“ ir šį straipsnį išdėstyti taip:
 
@@ -216,7 +216,7 @@ LAIVO HIPOTEKA“.
 
 2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar Lietuvos Respublikos hipotekos įstatyme, taikomos šio Įstatymo nuostatos.“
 
-\#### 16 straipsnis. Lietuvos Respublikos prekybinės laivybos įstatymo 3 straipsnio 2 dalies įsigaliojimas
+## 16 straipsnis. Lietuvos Respublikos prekybinės laivybos įstatymo 3 straipsnio 2 dalies įsigaliojimas
 
 Lietuvos Respublikos prekybinės laivybos įstatymo 3 straipsnio 2 dalis įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

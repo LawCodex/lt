@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5e28ae02d0f311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5E28AE02D0F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 6, 16, 17, 19, 24, 27, 35, 41, 41-1, 50 straipsnių, III skyriaus dešimtojo skirsnio pavadinimo ir 3 priedo pakeitimo ir Įstatymo papildymo 19-2, 19-3, 31-2, 53-1, 53-2 straipsniais įstatymas
@@ -30,7 +30,7 @@ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 1 dalį.
 
@@ -66,7 +66,7 @@ Vilnius
 
 „45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente [(EEB) Nr. 95/93](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31993R0095&locale=lt), Reglamente [(EB) Nr. 300/2008](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008R0300&locale=lt), Reglamente [(EB) Nr. 1008/2008](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008R1008&locale=lt), Reglamente [(ES) Nr. 1178/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1178&locale=lt), Reglamente [(ES) Nr. 923/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0923&locale=lt), Reglamente [(ES) Nr. 965/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0965&locale=lt), Reglamente [(ES) 2017/373](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R0373&locale=lt), Reglamente [(ES) 2018/1139](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018R1139&locale=lt), Reglamente [(ES) 2019/945](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0945&locale=lt), Reglamente [(ES) 2019/947](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0947&locale=lt), Reglamente [(ES) 2021/664](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32021R0664&locale=lt), Reglamente [(ES) 2024/2803](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R2803&locale=lt),Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme irLietuvos Respublikos vidaus tarnybos statute.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Vilnius
 
 „4) išduoda pažymėjimus, patvirtinimus, leidimus ir aviacijos specialistų licencijas, pratęsia, apriboja, sustabdo jų galiojimą, panaikina apribojimus, panaikina galiojimo sustabdymą, panaikina jų galiojimą;“.
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -108,13 +108,13 @@ Vilnius
 
 „6. Valstybės orlaiviai, išskyrus karinius orlaivius, registruojami Lietuvos Respublikos civilinių orlaivių registro informacinėje sistemoje šio įstatymo III skyriuje nustatyta tvarka. Valstybės orlaivių, išskyrus karinius orlaivius, tinkamumo skraidyti reikalavimus tvirtina atitinkamos vidaus reikalų ar muitinės įstaigos vadovas, suderinęs su Agentūra. Šie reikalavimai turi nekelti grėsmės civilinių orlaivių saugai. Valstybės orlaivių, išskyrus karinius orlaivius, tinkamumo skraidyti priežiūrą atlieka Agentūra.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Lietuvos Respublikos oro erdvė, nepažeidžiant šio straipsnio 1 dalies nuostatų, gali būti funkcinio oro erdvės bloko dalimi, kaip tai numatyta Reglamente [(ES) 2024/2803](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R2803&locale=lt).“
 
-\#### 5 straipsnis. 19 straipsnio pakeitimas
+## 5 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 4. Susisiekimo ministras turi teisę sudaryti su kitų valstybių paslaugų teikėjais, turinčiais Europos Sąjungoje išduotą paslaugų teikėjo pažymėjimą, institucijomis arba tarptautinėmis organizacijomis susitarimus dėl oro eismo paslaugų teikimo ir su tuo susijusių kitų funkcijų perdavimo tam tikrose Lietuvos Respublikos oro erdvės dalyse arba prisiimti tokius įsipareigojimus iš kitų valstybių ar tarptautinių organizacijų.“
 
-\#### 6 straipsnis. 19 straipsnio pakeitimas
+## 6 straipsnis. 19 straipsnio pakeitimas
 
 1. Papildyti 19 straipsnį nauja 1 dalimi:
 
@@ -136,7 +136,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias 19 straipsnio 1–4 dalis laikyti atitinkamai 2–5 dalimis.
 
-\#### 7 straipsnis. 19 straipsnio pakeitimas
+## 7 straipsnis. 19 straipsnio pakeitimas
 
 1. Papildyti 19 straipsnį nauja 4 dalimi:
 
@@ -144,7 +144,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias 19 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 8 straipsnis. Įstatymo papildymas 192 straipsniu
+## 8 straipsnis. Įstatymo papildymas 192 straipsniu
 
 Papildyti Įstatymą 19^2 straipsniu:
 
@@ -152,7 +152,7 @@ Papildyti Įstatymą 19^2 straipsniu:
 
 Oro erdvės valdymo paslaugas teikia fizinis ar juridinis asmuo, turintis Agentūros pagal Reglamentą [(ES) 2017/373](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R0373&locale=lt) išduotą atitinkamą paslaugų teikėjo pažymėjimą.“
 
-\#### 9 straipsnis. Įstatymo papildymas 193 straipsniu
+## 9 straipsnis. Įstatymo papildymas 193 straipsniu
 
 Papildyti Įstatymą 19^3 straipsniu:
 
@@ -164,7 +164,7 @@ Papildyti Įstatymą 19^3 straipsniu:
 
 3. Skrydžių procedūrų periodines peržiūras vykdo Agentūros teikimu LTSA savo nustatyta tvarka paskirtas fizinis ar juridinis asmuo, atitinkantis Reglamento (ES) 2017/373 3 straipsnio 9 dalies reikalavimus.“
 
-\#### 10 straipsnis. 24 straipsnio pakeitimas
+## 10 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -214,13 +214,13 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 14. Lietuvos Respublikos civilinių orlaivių registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti.“
 
-\#### 11 straipsnis. 27 straipsnio pakeitimas
+## 11 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Orlaiviai, registruoti Lietuvos Respublikos civilinių orlaivių registro informacinėje sistemoje, ženklinami ICAO suteiktu valstybės nacionaliniu ženklu „LY“ ir registro informacinės sistemos tvarkytojo suteiktu registravimo ženklu.“
 
-\#### 12 straipsnis. Įstatymo papildymas 312 straipsniu
+## 12 straipsnis. Įstatymo papildymas 312 straipsniu
 
 Papildyti Įstatymą 31^2 straipsniu:
 
@@ -268,7 +268,7 @@ Papildyti Įstatymą 31^2 straipsniu:
 
 9. Skrydžių koordinatorių, teikiančių paslaugas išimtinai valstybės orlaivių, išskyrus krašto apsaugos sistemos institucijų naudojamus valstybės orlaivius, reikmėms, rengimo tvarką ir mokymo programą tvirtina Valstybės sienos apsaugos tarnybos vadas, suderinęs su Agentūra.“
 
-\#### 13 straipsnis. 35 straipsnio pakeitimas
+## 13 straipsnis. 35 straipsnio pakeitimas
 
 1. Pakeisti 35 straipsnio 8 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -282,7 +282,7 @@ Papildyti Įstatymą 31^2 straipsniu:
 
 „11. Šio straipsnio 8 dalies 9 punkte nurodytu atveju prieš pradėdamas naudoti žemės sklypą skrydžiams sklypo savininkas arba naudotojas privalo apie žemės sklypo naudojimo skrydžiams pradžią informuoti Agentūrą ir pateikti Agentūros patvirtintos formos deklaraciją Agentūros nustatyta tvarka. Žemės sklypo savininkas arba naudotojas užtikrina, kad nebūtų viršytas skrydžių dienų per kalendorinius metus skaičius.“
 
-\#### 14 straipsnis. 41 straipsnio pakeitimas
+## 14 straipsnis. 41 straipsnio pakeitimas
 
 1. Pakeisti 41 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -310,7 +310,7 @@ Papildyti Įstatymą 31^2 straipsniu:
 
 9) atlikti kitus veiksmus, numatytus Nacionalinėje civilinės aviacijos saugumo kokybės kontrolės programoje.“
 
-\#### 15 straipsnis. 411 straipsnio pakeitimas
+## 15 straipsnis. 411 straipsnio pakeitimas
 
 1. Pakeisti 411 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -356,7 +356,7 @@ Papildyti Įstatymą 31^2 straipsniu:
 
 „14. Oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai, Agentūra ir institucijos bei įstaigos privalo užtikrinti, kad tikrinamo asmens duomenys, gauti šiame straipsnyje nustatyta tvarka, būtų tvarkomi vadovaujantis Reglamentu [(ES) 2016/679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R0679&locale=lt) ir Asmens duomenų teisinės apsaugos įstatymu.“
 
-\#### 16 straipsnis. 50 straipsnio pakeitimas
+## 16 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -364,7 +364,7 @@ Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „U-space“ paslaugų teikėjams.“
 
-\#### 17 straipsnis. III skyriaus dešimtojo skirsnio pavadinimo pakeitimas
+## 17 straipsnis. III skyriaus dešimtojo skirsnio pavadinimo pakeitimas
 
 Pakeisti III skyriaus dešimtojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -372,7 +372,7 @@ Pakeisti III skyriaus dešimtojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **EKSPERIMENTINĖS KATEGORIJOS ORLAIVIO TINKAMUMO SKRAIDYTI PATIKRA, TEISĖ PILOTUOTI EKSPERIMENTINĖS KATEGORIJOS ORLAIVIUS IR ULTRALENGVOJO ORLAIVIO, SKRAIDYKLĖS IR PARASPARNIO PILOTAI INSTRUKTORIAI IR PILOTAI EGZAMINUOTOJAI**“.
 
-\#### 18 straipsnis. Įstatymo papildymas 531 straipsniu
+## 18 straipsnis. Įstatymo papildymas 531 straipsniu
 
 Papildyti III skyriaus dešimtąjį skirsnį 53^1 straipsniu:
 
@@ -474,7 +474,7 @@ Papildyti III skyriaus dešimtąjį skirsnį 53^1 straipsniu:
 
 23. LUOPF ir LSPSF mokymų programų reikalavimus nustato LTSA.“
 
-\#### 19 straipsnis. Įstatymo papildymas 532 straipsniu
+## 19 straipsnis. Įstatymo papildymas 532 straipsniu
 
 Papildyti III skyriaus dešimtąjį skirsnį 53^2 straipsniu:
 
@@ -552,7 +552,7 @@ Papildyti III skyriaus dešimtąjį skirsnį 53^2 straipsniu:
 
 17. Pagal šį straipsnį ir šio įstatymo 531 straipsnį LUOPF ir LSPSF priimami administraciniai sprendimai gali būti skundžiami Lietuvos Respublikos viešojo administravimo įstatymo 14 straipsnyje nustatyta tvarka administracinį sprendimą priėmusiam subjektui, Lietuvos administracinių ginčų komisijai, arba administraciniam teismui.“
 
-\#### 20 straipsnis. Įstatymo 3 priedo pakeitimas
+## 20 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Pakeisti Įstatymo 3 priedą ir jį išdėstyti taip:
 
@@ -628,7 +628,7 @@ aviacijos įstatymo
 
 –––––––––––––––––––“.
 
-\#### 21 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 21 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 1 straipsnio 2 dalis, 3 straipsnio 1–6 dalys, 9 straipsnis, 13 straipsnio 2 ir 3 dalys ir 14–16 straipsniai įsigalioja 2026 m. sausio 1 d.
 

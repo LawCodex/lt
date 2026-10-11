@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2598bed089da11e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2598BED089DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2014 metais, ĮSTATYMAS
@@ -26,15 +26,15 @@ VALSTYBĖS POLITIKŲ, TEISĖJŲ, VALSTYBĖS PAREIGŪNŲ IR VALSTYBĖS TARNAUTOJ�
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šiuo įstatymu nustatytas bazinis dydis taikomas valstybės politikų, bendrosios kompetencijos ir specializuotų teismų teisėjų, valstybės pareigūnų, valstybės tarnautojų pareiginėms algoms, Lietuvos Respublikos Konstitucinio Teismo teisėjų atlyginimams, karių tarnybiniams atlyginimams ir kitoms teisės aktuose nustatytoms išmokoms apskaičiuoti 2014 metais.
 
-\#### 3 straipsnis. Pareiginės algos bazinis dydis
+## 3 straipsnis. Pareiginės algos bazinis dydis
 
 Valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinis dydis 2014 metais – 450 litų.
 

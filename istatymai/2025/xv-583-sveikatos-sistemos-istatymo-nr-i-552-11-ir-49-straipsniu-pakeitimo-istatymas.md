@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/19fb1b90d0f411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.19FB1B90D0F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 11 ir 49 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ SVEIKATOS SISTEMOS ĮSTATYMO NR. I-552 11 IR 49 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 11 straipsnio pakeitimas
+## 1 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) paciento, kuriam teikiamos valstybės laiduojamos (nemokamos) asmens sveikatos priežiūros paslaugos, pageidavimu ir lėšomis LNSS vykdomųjų subjektų teikiamos kitokios nemedicininės aptarnavimo paslaugos negu tos, kurios apmokamos iš Privalomojo sveikatos draudimo fondo ar valstybės biudžeto lėšų. Šiame punkte nurodytos paciento lėšomis apmokamos nemedicininės aptarnavimo paslaugos gali būti teikiamos tik tuo atveju, jeigu pacientui suteikiama galimybė tuo pačiu metu tame pačiame LNSS vykdomajame subjekte nemokamai gauti visos apimties asmens sveikatos priežiūros paslaugas, įskaitant nemokamą nemedicininį aptarnavimą. Pacientas, pageidaujantis gauti mokamas nemedicinines aptarnavimo paslaugas, turi raštu patvirtinti, kad atsisako iš Privalomojo sveikatos draudimo fondo ar valstybės biudžeto lėšų apmokamų nemedicininių aptarnavimo paslaugų, ir išreikšti pageidavimą gauti mokamas nemedicinines aptarnavimo paslaugas. Nemedicininių aptarnavimo paslaugų sąrašą ir Nemedicininių aptarnavimo paslaugų kainų apskaičiavimo metodiką tvirtina sveikatos apsaugos ministras. Mokamų Nemedicininių aptarnavimo paslaugų sąraše esančių paslaugų kainas, apskaičiuotas pagal Nemedicininių aptarnavimo paslaugų kainų apskaičiavimo metodiką, nustato nemedicinines aptarnavimo paslaugas teikiančio LNSS vykdomojo subjekto vadovas.“
 
-\#### 2 straipsnis. 49 straipsnio pakeitimas
+## 2 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Valstybės laiduojama (nemokama) asmens sveikatos priežiūra LNSS vykdomuosiuose subjektuose teikiama nemokamai, už šios priežiūros paslaugas negali būti reikalaujama papildomo mokesčio. Jeigu paciento, kuriam teikiama valstybės laiduojama (nemokama) asmens sveikatos priežiūros paslauga, pageidavimu naudojama brangiau kainuojanti priemonė negu priemonė, kurios išlaidos teikiant šią paslaugą yra apmokamos iš Privalomojo sveikatos draudimo fondo ar valstybės biudžeto lėšų, jis turi sumokėti iš Privalomojo sveikatos draudimo fondo ar valstybės biudžeto lėšų apmokamos ir brangiau kainuojančios priemonės kainų skirtumą. Pacientas, pageidaujantis gauti brangiau kainuojančią priemonę, turi raštu patvirtinti, kad atsisako iš Privalomojo sveikatos draudimo fondo ar valstybės biudžeto lėšų apmokamos priemonės, ir išreikšti pageidavimą gauti brangiau kainuojančią priemonę. Priemonių, kurių kainų skirtumai gali būti apmokami paciento lėšomis, tipų sąrašą tvirtina ir kainų skirtumų apmokėjimo tvarką nustato Vyriausybė.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 
@@ -46,7 +46,7 @@ Pakeisti 49 straipsnio 5 dalį ir ją išdėstyti taip:
 
 3. Asmens sveikatos priežiūros paslaugos, pradėtos teikti iki 2026 m. balandžio 30 d., nuo 2026 m. gegužės 1 d. baigiamos teikti pagal iki 2026 m. balandžio 30 d. galiojusio teisinio reguliavimo, išdėstyto Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnio 5 dalyje, nuostatas.
 
-\#### 4 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
+## 4 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
 
 1. Lietuvos Respublikos sveikatos apsaugos ministerija atlieka šio įstatymo 2 straipsnyje išdėstytoje Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnio 5 dalyje nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą (toliau – ex post vertinimas).
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a876ca00cd6d11ed9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A876CA00CD6D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos muziejų įstatymo Nr. I-930 pakeitimo įstatymas
@@ -26,7 +26,7 @@ MUZIEJŲ ĮSTATYMO NR. I-930 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos muziejų įstatymo Nr. I-930 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos muziejų įstatymo Nr. I-930 nauja redakcija
 
 Pakeisti Lietuvos Respublikos muziejų įstatymą Nr. I-930 ir jį išdėstyti taip:
 
@@ -50,13 +50,13 @@ pabrėždamas muziejų prieinamumo visoms visuomenės grupėms, laikantis lygiat
 
 priima šį įstatymą.
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas reglamentuoja muziejų veiklos valdymą ir finansavimą, muziejų sistemą ir muziejų veiklos teisinio reguliavimo bei muziejų vadovų darbo santykių ypatumus, muziejų rinkinių ir jų apsaugos, apskaitos ir saugojimo užtikrinimą bei kitus su muziejų veikla susijusius santykius.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Muziejaus rinkinys – bendrais požymiais susietos ir susistemintos muziejinės vertybės, kurių kaupimu, saugojimu ir tyrinėjimu grindžiama muziejinė komunikacija ir muziejinė edukacija.
 
@@ -76,7 +76,7 @@ priima šį įstatymą.
 
 9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos biudžetinių įstaigų įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
 
-\#### 3 straipsnis. Muziejų veiklos principai
+## 3 straipsnis. Muziejų veiklos principai
 
 Muziejų veikla organizuojama vadovaujantis šiais principais:
 
@@ -90,9 +90,9 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 5) skaidrumo ir viešumo principu, reiškiančiu, kad muziejai, vykdydami savo veiklą, turi remtis sąžiningumo ir skaidrumo principais, prioritetą teikti visuomenės interesams. Muziejų darbuotojai turi vengti viešųjų ir privačių interesų konflikto, nesiekti asmeninės naudos, nepiktnaudžiauti pareigomis, netoleruoti kyšininkavimo, protekcionizmo, nepotizmo, sukčiavimo, laikytis visiškos netolerancijos korupcijai. Muziejai jiems skirtas lėšas ir kitą turtą turi naudoti skaidriai, racionaliai ir efektyviai.
 
-\## II SKYRIUS. MUZIEJŲ VEIKLOS VALDYMAS IR FINANSAVIMAS
+II SKYRIUS. MUZIEJŲ VEIKLOS VALDYMAS IR FINANSAVIMAS
 
-\#### 4 straipsnis. Lietuvos Respublikos kultūros ministerijos, kitų ministerijų ir savivaldybių tarybų kompetencija muziejų veiklos valdymo srityje
+## 4 straipsnis. Lietuvos Respublikos kultūros ministerijos, kitų ministerijų ir savivaldybių tarybų kompetencija muziejų veiklos valdymo srityje
 
 1. Lietuvos Respublikos kultūros ministerija atlieka šias muziejų veiklos valdymo funkcijas:
 
@@ -114,7 +114,7 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 2) atlieka šio straipsnio 1 dalies 4 ir 5 punktuose nustatytas muziejų, kurių savininko teises ir pareigas įgyvendina, veiklos valdymo funkcijas.
 
-\#### 5 straipsnis. Muziejų taryba
+## 5 straipsnis. Muziejų taryba
 
 1. Muziejų taryba yra prie Kultūros ministerijos veikianti kolegiali, patariamojo balso teisę turinti institucija, atliekanti eksperto ir konsultanto funkcijas, kai sprendžiami muziejų politikos formavimo ir įgyvendinimo klausimai. Muziejų tarybos sudarymo tvarką nustato ir jos nuostatus tvirtina kultūros ministras. Muziejų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
@@ -126,7 +126,7 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 3) kitų kultūros ministro pasiūlytų svarstyti muziejų veiklos klausimų.
 
-\#### 6 straipsnis. Muziejų finansavimas ir lėšos
+## 6 straipsnis. Muziejų finansavimas ir lėšos
 
 1. Muziejų lėšas sudaro:
 
@@ -148,15 +148,15 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 6. Kiti muziejai finansuojami jų teisinę formą reglamentuojančių teisės aktų nustatyta tvarka.
 
-\## III SKYRIUS. MUZIEJŲ SISTEMA IR MUZIEJŲ VEIKLOS TEISINIO REGULIAVIMO YPATUMAI
+III SKYRIUS. MUZIEJŲ SISTEMA IR MUZIEJŲ VEIKLOS TEISINIO REGULIAVIMO YPATUMAI
 
-\#### 7 straipsnis. Muziejų sistema
+## 7 straipsnis. Muziejų sistema
 
 1. Muziejų sistemą Lietuvoje sudaro nacionaliniai muziejai, valstybiniai muziejai, savivaldybių muziejai, kiti muziejai ir muziejų kompetencijų centrai.
 
 2. Apie sprendimą dėl muziejaus, nepaisant jo teisinės formos, steigimo, reorganizavimo, pertvarkymo ir likvidavimo, ne vėliau kaip per 10 darbo dienų nuo šio sprendimo priėmimo dienos informuojama Kultūros ministerija. Ši nuostata netaikoma muziejams, kurių savininko teises ir pareigas įgyvendina Kultūros ministerija.
 
-\#### 8 straipsnis. Nacionaliniai muziejai
+## 8 straipsnis. Nacionaliniai muziejai
 
 1. Nacionaliniai muziejai kaupia, saugo, tyrinėja, konservuoja, restauruoja ir pristato visuomenei valstybei reikšmingiausius ir išsamiausius muziejaus rinkinių profilį atitinkančius nacionalinės ir tarptautinės reikšmės muziejaus rinkinius. Nacionaliniai muziejai yra biudžetinės įstaigos, kurių savininkė yra valstybė. Sprendimą dėl nacionalinio muziejaus steigimo, reorganizavimo, pertvarkymo ir likvidavimo priima Lietuvos Respublikos Vyriausybė, o Kultūros ministerija įgyvendina kitas šių įstaigų savininko teises ir pareigas. Sprendimą dėl nacionalinio muziejaus statuso suteikimo valstybiniam muziejui priima Vyriausybė.
 
@@ -204,7 +204,7 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 21) atlieka kitas teisės aktuose ir muziejaus nuostatuose nustatytas funkcijas.
 
-\#### 9 straipsnis. Valstybiniai muziejai
+## 9 straipsnis. Valstybiniai muziejai
 
 1. Valstybiniai muziejai yra specializuoti muziejai. Jie kaupia, saugo, tyrinėja, konservuoja, restauruoja ir pristato visuomenei jų specializaciją atitinkančius muziejinių vertybių rinkinius. Valstybiniai muziejai yra biudžetinės įstaigos, kurių savininkė yra valstybė, o jų savininko teises ir pareigas įgyvendina Kultūros ministerija arba kitos ministerijos.
 
@@ -246,7 +246,7 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 18) atlieka kitas teisės aktuose ir muziejaus nuostatuose nustatytas funkcijas.
 
-\#### 10 straipsnis. Savivaldybių muziejai
+## 10 straipsnis. Savivaldybių muziejai
 
 1. Savivaldybių muziejai yra biudžetinės įstaigos arba viešosios įstaigos, kurių savininkė yra savivaldybė. Savivaldybių muziejai kaupia, saugo, tyrinėja, konservuoja, restauruoja ir pristato visuomenei savivaldybės ir (ar) regiono, kurių teritorijoje veikia, kultūrą atspindinčius ir vietos bendruomenei reikšmingus muziejinių vertybių rinkinius.
 
@@ -282,7 +282,7 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 15) atlieka kitas teisės aktuose ir muziejaus nuostatuose nustatytas funkcijas.
 
-\#### 11 straipsnis. Kiti muziejai
+## 11 straipsnis. Kiti muziejai
 
 1. Kiti muziejai yra visi muziejai, nenurodyti šio įstatymo 8–10 straipsniuose.
 
@@ -304,7 +304,7 @@ Muziejų veikla organizuojama vadovaujantis šiais principais:
 
 8) atlieka kitas teisės aktuose ir muziejaus steigimo dokumente nustatytas funkcijas.
 
-\#### 12 straipsnis. Muziejų kompetencijų centrai
+## 12 straipsnis. Muziejų kompetencijų centrai
 
 Muziejų kompetencijų centrai yra viešieji ar privatūs juridiniai asmenys, kurie kultūros ministro nustatyta tvarka pagal turimas kompetencijas jiems priskirtoje muziejų veiklos srityje ir (ar) teritorijoje:
 
@@ -320,7 +320,7 @@ Muziejų kompetencijų centrai yra viešieji ar privatūs juridiniai asmenys, ku
 
 6) atlieka kitas teisės aktuose ir muziejų kompetencijų centro nuostatuose ar įstatuose nustatytas funkcijas.
 
-\#### 13 straipsnis. Muziejų teisinio reguliavimo ypatumai
+## 13 straipsnis. Muziejų teisinio reguliavimo ypatumai
 
 Kiekvieno muziejaus, nepaisant jo teisinės formos, nuostatuose ar įstatuose, be Civiliniame kodekse ar atskiras juridinių asmenų teisines formas reglamentuojančiuose įstatymuose numatytų reikalavimų, papildomai turi būti nurodyta:
 
@@ -328,9 +328,9 @@ Kiekvieno muziejaus, nepaisant jo teisinės formos, nuostatuose ar įstatuose, b
 
 2) muziejaus rinkinių komplektavimo kryptys, struktūra ir rinkinių šifrai.
 
-\## IV SKYRIUS. MUZIEJŲ VADOVŲ DARBO SANTYKIŲ YPATUMAI, MUZIEJAUS TARYBA, MUZIEJAUS EMERITAS
+IV SKYRIUS. MUZIEJŲ VADOVŲ DARBO SANTYKIŲ YPATUMAI, MUZIEJAUS TARYBA, MUZIEJAUS EMERITAS
 
-\#### 14 straipsnis. Muziejų vadovų darbo santykių ypatumai
+## 14 straipsnis. Muziejų vadovų darbo santykių ypatumai
 
 1. Nacionalinio, valstybinio ir savivaldybės muziejaus vadovus konkurso būdu Vyriausybės nustatyta tvarka į pareigas penkerių metų kadencijai skiria to muziejaus savininko teises ir pareigas įgyvendinančios institucijos vadovas ar meras, išskyrus atvejus, kai savivaldybės muziejaus vadovas be konkurso skiriamas antrajai penkerių metų kadencijai šio straipsnio 5 dalyje nurodytu atveju.
 
@@ -352,7 +352,7 @@ Kiekvieno muziejaus, nepaisant jo teisinės formos, nuostatuose ar įstatuose, b
 
 8. Paaiškėjus, kad nacionalinio, valstybinio ar savivaldybės muziejaus vadovas neatitinka nepriekaištingos reputacijos kriterijų, nurodytų šio straipsnio 7 dalyje, įstaigos savininko teises ir pareigas įgyvendinančios institucijos vadovas ar meras priima sprendimą nutraukti su muziejaus vadovu sudarytą darbo sutartį.
 
-\#### 15 straipsnis. Muziejų vadovų teisė dirbti kitą darbą
+## 15 straipsnis. Muziejų vadovų teisė dirbti kitą darbą
 
 1. Nacionalinio, valstybinio ir savivaldybės muziejaus vadovui leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
 
@@ -362,7 +362,7 @@ Kiekvieno muziejaus, nepaisant jo teisinės formos, nuostatuose ar įstatuose, b
 
 2. Sprendimą dėl leidimo nacionalinio, valstybinio ir savivaldybės muziejaus vadovui dirbti kitą darbą ir už šį darbą gauti atlyginimą priima atitinkamai savininko teises ir pareigas įgyvendinančios institucijos vadovas ar meras jo nustatyta tvarka.
 
-\#### 16 straipsnis. Muziejaus taryba
+## 16 straipsnis. Muziejaus taryba
 
 1. Nacionaliniame, valstybiniame ir savivaldybės muziejuje veikia kolegiali, patariamojo balso teisę turinti muziejaus taryba.
 
@@ -382,21 +382,21 @@ Kiekvieno muziejaus, nepaisant jo teisinės formos, nuostatuose ar įstatuose, b
 
 6. Muziejaus tarybos posėdžiai vyksta ne rečiau kaip kartą per metus.
 
-\#### 17 straipsnis. Muziejaus emeritas
+## 17 straipsnis. Muziejaus emeritas
 
 1. Pasibaigus muziejaus darbuotojo, reikšmingai prisidėjusio prie nacionalinio, valstybinio ar savivaldybės muziejaus veiklos, darbo sutarčiai su muziejumi, muziejaus vadovas šiam darbuotojui už nuopelnus Lietuvos kultūrai, kultūros paveldo apsaugai ir veiklą, padėjusią įgyvendinti muziejaus tikslus, gali suteikti muziejaus emerito vardą. Muziejaus emerito vardas suteikiamas kultūros ministro nustatyta tvarka.
 
 2. Muziejaus emeritui nacionalinio, valstybinio ar savivaldybės muziejaus vadovo nustatyta tvarka sudaromos sąlygos prisidėti prie muziejaus darbuotojų kvalifikacijos tobulinimo ir gebėjimų ugdymo, konsultuoti muziejaus darbuotojus muziejaus veiklos klausimais, dalyvauti muziejinės komunikacijos ir muziejinės edukacijos veiklose.
 
-\## V SKYRIUS. MUZIEJŲ RINKINIAI IR JŲ APSAUGOS, APSKAITOS IR SAUGOJIMO UŽTIKRINIMAS
+V SKYRIUS. MUZIEJŲ RINKINIAI IR JŲ APSAUGOS, APSKAITOS IR SAUGOJIMO UŽTIKRINIMAS
 
-\#### 18 straipsnis. Muziejų rinkiniai
+## 18 straipsnis. Muziejų rinkiniai
 
 1. Muziejų rinkiniai formuojami pagal muziejaus rinkinių profilį ir vyraujančias muziejines vertybes bei atsižvelgiant į muziejaus rinkinių istoriją ir aktualius visuomenės kultūros poreikius.
 
 2. Muziejų rinkiniuose saugomos muziejinės vertybės ankstesniems savininkams negrąžinamos, išskyrus atvejus, kai jos į muziejų rinkinius yra patekusios neteisėtai po 1990 m. kovo 11 d., taip pat jeigu Lietuvos Respublikos tarptautinėse sutartyse numatyta kitaip.
 
-\#### 19 straipsnis. Muziejinių vertybių apsaugos, apskaitos ir saugojimo užtikrinimas
+## 19 straipsnis. Muziejinių vertybių apsaugos, apskaitos ir saugojimo užtikrinimas
 
 1. Muziejus privalo užtikrinti muziejinių vertybių apsaugą, apskaitą ir saugojimą.
 
@@ -410,7 +410,7 @@ Kiekvieno muziejaus, nepaisant jo teisinės formos, nuostatuose ar įstatuose, b
 
 6. Nacionaliniame muziejuje veikia, o valstybiniame muziejuje gali veikti Restauravimo taryba, kurios tikslas yra užtikrinti tinkamą muziejuje saugomų muziejinių vertybių konservavimą ir restauravimą. Restauravimo tarybą sudaro teisės aktų nustatyta tvarka atestuoti muziejuje arba kituose muziejuose dirbantys restauratoriai. Restauravimo tarybos pirmininkas yra vyriausiasis muziejaus rinkinių kuratorius. Restauravimo tarybos sudarymo tvarką ir kompetenciją nustato kultūros ministras.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2023 m. balandžio 1 d.
 

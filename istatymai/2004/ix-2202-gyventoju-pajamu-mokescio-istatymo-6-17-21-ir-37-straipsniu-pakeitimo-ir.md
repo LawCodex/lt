@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9A41C818F5F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 17, 21 ir 37 straipsnių pakeitimo ir papildymo bei įstatymo priedo papildymo įstatymas
@@ -28,11 +28,11 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [73-3340](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2F397D1D0CF), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [102-4586](https://www.e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15))
 
-\#### 1 straipsnis. Įstatymo tikslas
+## 1 straipsnis. Įstatymo tikslas
 
 Šiuo Įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio Įstatymo 6 straipsnyje.
 
-\#### 2 straipsnis. 6 straipsnio 2 dalies pakeitimas ir papildymas
+## 2 straipsnis. 6 straipsnio 2 dalies pakeitimas ir papildymas
 
 1. 6 straipsnio 2 dalies 10 punkte po žodžio „būdu“ įrašyti žodžius „arba kitų užsienio valstybių įstatymuose, reglamentuojančiuose analogiškas pensijų kaupimo nuostatas, numatytu būdu“, po žodžių „į pensijų išmokas“ įrašyti sakinį „Šio punkto nuostatos netaikomos pensijų išmokoms, gautoms iš tikslinių teritorijų“ ir šį punktą išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „15) grąžinamoms gyventojo sumokėtoms gyvybės draudimo įmokoms pagal nutrauktą gyvybės draudimo sutartį, sudarytą nuo 2004 m. gegužės 1 d. su Europos ekonominės erdvės valstybės narės draudimo įmone, kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui, jeigu sutartis nutraukta ne anksčiau kaip praėjus 10 metų nuo sutarties sudarymo dienos arba jeigu įmokos grąžinamos gyventojui, kuris yra sulaukęs pensinio amžiaus pagal Papildomo savanoriško pensijų kaupimo įstatymo nuostatas.“
 
-\#### 3 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 3 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 1. 17 straipsnio 1 dalies 9 punkte išbraukti žodžius „Lietuvos Respublikoje“ ir šį punktą išdėstyti taip:
 
@@ -96,7 +96,7 @@ Vilnius
 
 „2. Šio straipsnio 1 dalies 7, 8, 9, 10, 11, 12, 13, 14, 20, 21, 22, 23, 24, 27, 29, 31, 34, 35, 37, 39 ir 43 punktų nustatytos lengvatos, taip pat 19 punkte nustatyta lengvata dovanojimo būdu iš kitų nei sutuoktinis, vaikai (įvaikiai) ir tėvai (įtėviai) gautoms pajamoms netaikomos, jei gyventojo atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar gyventojų, kurių nuolatinė gyvenamoji vieta yra tikslinėje teritorijoje.“
 
-\#### 4 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 1. 21 straipsnio 1 dalies 2 punkte išbraukti žodžius „Lietuvos Respublikoje sudarytus“ ir šį punktą išdėstyti taip:
 
@@ -110,7 +110,7 @@ Vilnius
 
 „7. Šio straipsnio 1 dalies 2 punkto nuostatos taikomos, jeigu įmokų gavėjas yra Europos ekonominės erdvės valstybėje narėje įregistruotas ar kitaip organizuotas užsienio vienetas.“
 
-\#### 5 straipsnis. 37 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 37 straipsnio pakeitimas ir papildymas
 
 1. 37 straipsnio 3 dalyje po žodžių „tik šio Įstatymo nustatyta tvarka apskaičiuota pajamų mokesčio suma“ įrašyti žodžius „išskyrus šio straipsnio 6 dalyje nustatytus atvejus“ ir šią dalį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Vilnius
 
 „6. Jeigu nuo palūkanų buvo išskaičiuotas pajamų mokestis, nustatytas 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo 11 straipsnio 1 dalyje arba su šios Direktyvos 17 straipsnio 2 dalyje nurodytomis valstybėmis ar teritorijomis sudarytose ir taikomose sutartyse, tai visa išskaičiuoto pajamų mokesčio suma grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta mokesčio permokos grąžinimo (įskaitymo) tvarka, nuolatiniam Lietuvos gyventojui pateikus metinę pajamų mokesčio deklaraciją.“
 
-\#### 6 straipsnis. Įstatymo priedo papildymas
+## 6 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 2 dalimi ir visą priedą išdėstyti taip:
 
@@ -136,7 +136,7 @@ gyventojų pajamų mokesčio
 
 2. 2003 m. birželio 3 d. Tarybos direktyva 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 1.Šis Įstatymas, išskyrus 2 straipsnio 1 ir 4 dalis, 3 straipsnio 1, 5 ir 9 dalis ir 5 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d.
 

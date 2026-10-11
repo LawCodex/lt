@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B6E07E950C5B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B6E07E950C5B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 8, 18, 19 straipsnių pakeitimo ir Sveikatos draudimo įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
@@ -26,19 +26,19 @@ SVEIKATOS DRAUDIMO ĮSTATYMO 8, 18, 19 STRAIPSNIŲ PAKEITIMO IR SVEIKATOS DRAUDI
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. LIETUVOS RESPUBLIKOS
+PIRMASIS SKIRSNIS. LIETUVOS RESPUBLIKOS
 
 SVEIKATOS DRAUDIMO ĮSTATYMO 8, 18, 19 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybinė mokesčių inspekcija administruoja šio Įstatymo 17 straipsnio 2, 3, 4, 5 ir 6 dalyse nurodytas privalomojo sveikatos draudimo įmokas. Valstybinės ligonių kasos ir Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka teritorinės valstybinės mokesčių inspekcijos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie juridinių ir fizinių asmenų sumokėtas ir nesumokėtas šio Įstatymo 17 straipsnio 2, 3, 4, 5 ir 6 dalyse nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo įstaigos surenka į Valstybinio socialinio draudimo fondo biudžeto sąskaitą šio Įstatymo 17 straipsnio 1 dalyje nurodytas privalomojo sveikatos draudimo įmokas, taip pat tikrina, ar jos yra sumokėtos. Valstybinio socialinio draudimo fondo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų nesumokėtas šio Įstatymo 17 straipsnio 1 dalyje nurodytas privalomojo sveikatos draudimo įmokas.“
 
-\#### 2 straipsnis. 18 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5 dalimi
+### 2 straipsnis. 18 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5 dalimi
 
 1. 18 straipsnio 3 dalyje išbraukti skaičių „1“ ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Valstybinio socialinio draudimo fondo valdyba renka šio Įstatymo 17 straipsnio 1 dalyje nurodytas įmokas ir centralizuotai kas tris dienas perveda lėšas iš Valstybinio socialinio draudimo fondo biudžeto sąskaitos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą.“
 
-\#### 3 straipsnis. 19 straipsnio pakeitimas
+### 3 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -60,21 +60,21 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą.“
 
-\### ANTRASIS SKIRSNIS. LIETUVOS RESPUBLIKOS
+ANTRASIS SKIRSNIS. LIETUVOS RESPUBLIKOS
 
 **sveikatos draudimo įstatymo pakeitimo įstatymo 3 straipsnio pakeitimas**
 
 (Žin., 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A))
 
-\#### 1 straipsnis. 3 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
+### 1 straipsnis. 3 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
 
 1. 3 straipsnio 2 dalį pripažinti netekusia galios.
 
 2. 3 straipsnio 3 dalį pripažinti netekusia galios.
 
-\### TREČIASIS SKIRSNIS
+## TREČIASIS SKIRSNIS
 
-\#### 1 straipsnis. Įstatymo įsigaliojimas
+### 1 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

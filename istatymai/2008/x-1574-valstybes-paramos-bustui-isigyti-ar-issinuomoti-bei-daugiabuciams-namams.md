@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.93048EAC26E5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.93048EAC26E5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 13 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 2002, Nr. [116-5188](https://www.e-tar.lt/portal/lt/legalAct/TAR.531C156856EF); 2003, Nr. [48-2109](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFDEC8C27807); 2005, Nr. [47-1554](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3E3615DFCA))
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 13 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti ir papildyti 13 straipsnį ir jį išdėstyti taip:
 
 4. Šio straipsnio 3 dalies 1 punkte nurodytų daugiabučių namų butų ir kitų patalpų savininkų įnašų daugiabučių namų modernizavimui rinkimą, kaupimą ir panaudojimą kontroliuoja savivaldybių vykdomosios institucijos.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

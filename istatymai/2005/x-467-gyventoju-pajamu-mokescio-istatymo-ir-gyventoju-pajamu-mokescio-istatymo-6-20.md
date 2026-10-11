@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E318FFB802A1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E318FFB802A1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo ir Gyventojų pajamų mokesčio įstatymo 6, 20, 27, 37 straipsnių pakeitimo ir papildymo įstatymo pakeitimo įstatymas
@@ -26,13 +26,13 @@ GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. LIETUVOS RESPUBLIKOS
+PIRMASIS SKIRSNIS. LIETUVOS RESPUBLIKOS
 
 **Gyventojų Pajamų MOKESČIO ĮSTATYMO 37 STRAIPSNIO PAKEITIMas**
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2004, Nr. [73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6))
 
-\#### 1 straipsnis. 37 straipsnio pakeitimas
+### 1 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
@@ -50,23 +50,23 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
 6. Jeigu nuo palūkanų buvo išskaičiuotas pajamų mokestis, nustatytas 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo 11 straipsnio 1 dalyje arba su šios Direktyvos 17 straipsnio 2 dalyje nurodytomis valstybėmis ar teritorijomis sudarytose ir taikomose sutartyse, tai visa išskaičiuoto pajamų mokesčio suma grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta mokesčio permokos grąžinimo (įskaitymo) tvarka, kai nuolatinis Lietuvos gyventojas pateikia metinę pajamų mokesčio deklaraciją.“
 
-\### ANTRASIS SKIRSNIS
+## ANTRASIS SKIRSNIS
 
 **lIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 20, 27, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO įSTATYMO 4 STRAIPSNIO PRIPAŽINIMAS NETEKUSIU GALIOS IR5 STRAIPSNIO PAKEITIMAS**
 
 (Žin., 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6))
 
-\#### 1 straipsnis. 4 straipsnio pripažinimas netekusiu galios
+### 1 straipsnis. 4 straipsnio pripažinimas netekusiu galios
 
 4 straipsnį pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 5 straipsnio 2 dalies pripažinimas netekusia galios
+### 2 straipsnis. 5 straipsnio 2 dalies pripažinimas netekusia galios
 
 5 straipsnio 2 dalį pripažinti netekusia galios.
 
-\### TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo taikymas
+### 1 straipsnis. Įstatymo taikymas
 
 Šio įstatymo pirmojo skirsnio nuostatos taikomos apmokestinant ir deklaruojant 2005 metų ir vėlesnių metų pajamas.
 

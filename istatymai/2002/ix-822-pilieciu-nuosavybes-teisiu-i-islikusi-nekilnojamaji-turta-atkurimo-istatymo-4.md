@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EF2985211EF2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EF2985211EF2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 ir 12 straipsnių pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 2001, Nr. 71-2518, Nr. 108-3904; 2002, Nr. 5-161)
 
-\#### 1 straipsnis. 4 straipsnio 12 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 12 dalies pakeitimas
 
 Pakeisti 4 straipsnio 12 dalį ir ją išdėstyti taip:
 
 „12. Žemė, kurioje įrengti tvenkiniai, neprivatizuotipagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo bei Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymus, grąžinama natūra piliečiams (išskyrus tvenkinio užtvankos įrenginius, jeigu jie priskirti pavojingiems įrenginiams) ribotam tiksliniam naudojimui. Žemė, kurioje įrengti tvenkiniai (įskaitant su jais susijusių užtvankos įrenginių užimtą žemę), privatizuoti pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo bei Valstybės ir savivaldybių turto privatizavimo įstatymus ir naudojami pagal paskirtį, išperkama valstybės ir už ją atlyginama pagal šio įstatymo 16 straipsnį.“
 
-\#### 2 straipsnis. 12 straipsnio 9 punkto pakeitimas
+## 2 straipsnis. 12 straipsnio 9 punkto pakeitimas
 
 Išbraukti 12 straipsnio 9 punkte žodžius „ir jeigu ją susigrąžinti pagal šio įstatymo 4 straipsnio 12 dalį atsisako savininkai“ ir šį punktą išdėstyti taip:
 

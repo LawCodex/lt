@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/141d9d12315d11f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.141D9D12315D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIV-2883 18 straipsnio pakeitimo įstatymas

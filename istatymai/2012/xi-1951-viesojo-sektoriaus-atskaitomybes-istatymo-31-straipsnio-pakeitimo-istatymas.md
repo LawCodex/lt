@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8BF201D0F8C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8BF201D0F8C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 31 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3046](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E); 2008, Nr. [137-5370](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A9825575BCD); 2010, Nr. [67-3341](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A7AFA3A0DEF); 2011, Nr. [52-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBDFD4B123B0))
 
-\#### 1 straipsnis. 31 straipsnio pakeitimas
+## 1 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 5. Nacionalinio ataskaitų rinkinio ataskaitas pasirašo Vyriausybės įgaliotos jas rengti institucijos vadovas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

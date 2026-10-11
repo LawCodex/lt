@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0A8B512C3193"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0A8B512C3193.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo trečiuoju skirsniu bei priedu įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1991, Nr. [30-804](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B); 2002, Nr. [29-1034](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBEAE76BC38))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 3 dalimi
 
 Papildyti 1 straipsnį 3 dalimi:
 
 „3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio 11 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 11 dalies pakeitimas
 
 2 straipsnio 11 dalyje vietoj žodžių „įmonė, kuri“ įrašyti žodžius „fizinis arba juridinis asmuo, kuris“ ir šią dalį išdėstyti taip:
 
 „11. **Vežėjas (operatorius)** – fizinis arba juridinis asmuo, kuris verčiasi transporto veikla (keleivių, bagažo ir (arba) krovinių vežimu) ir atitinka Lietuvos Respublikos įstatymų nustatytas sąlygas bei reikalavimus.“
 
-\#### 3 straipsnis. Įstatymo papildymas trečiuoju skirsniu
+## 3 straipsnis. Įstatymo papildymas trečiuoju skirsniu
 
 Papildyti Įstatymą trečiuoju skirsniu:
 
@@ -48,7 +48,7 @@ Papildyti Įstatymą trečiuoju skirsniu:
 
 VEŽĖJŲ PAREIGOS VEŽANT UŽSIENIEČIUS IR ATSAKOMYBĖ UŽ UŽSIENIEČIŲ VEŽIMĄ BE REIKIAMŲ KELIONĖS DOKUMENTŲ
 
-\#### 19 straipsnis. Vežėjų pareigos vežant užsieniečius
+## 19 straipsnis. Vežėjų pareigos vežant užsieniečius
 
 1. Jeigu asmuo, kuris nėra Europos Sąjungos valstybės narės pilietis (toliau – užsienietis), neįleidžiamas į Lietuvos Respubliką arba vežėjas, kuris verčiasi keleivių vežimu, įsipareigojęs nuvežti užsienietį tranzitu per Lietuvos Respubliką į paskirties valstybę, atsisako jį vežti, arba paskirties valstybės institucijos neleidžia užsieniečiui, važiavusiam per Lietuvos Respubliką tranzitu, įvažiuoti ir išsiunčia jį į Lietuvos Respubliką, vežėjas, kuris verčiasi keleivių vežimu, atvežęs užsienietį iki Lietuvos Respublikos valstybės sienos, privalo nedelsdamas įvykdyti šio straipsnio 2 arba 3 dalyje numatytus reikalavimus.
 
@@ -64,7 +64,7 @@ VEŽĖJŲ PAREIGOS VEŽANT UŽSIENIEČIUS IR ATSAKOMYBĖ UŽ UŽSIENIEČIŲ VEŽ
 
 4. Vyriausybė arba jos įgaliota institucija nustato lėšų, susijusių su užsieniečio buvimu pasienio kontrolės punkte ir sugrąžinimu į užsienio valstybę, padengimo tvarką ir šių lėšų dydį.
 
-\#### 20 straipsnis. Vežėjų atsakomybė
+## 20 straipsnis. Vežėjų atsakomybė
 
 1. Vežėjai, kurie verčiasi keleivių vežimu oro ar jūros keliais arba kurie tarptautinio susisiekimo maršrutais autobusais sausuma veža keleivių grupes specialiais bei užsakomaisiais reisais, įveždami užsieniečius į Lietuvos Respublikos teritoriją per valstybės sieną, privalo užtikrinti, kad šie turėtų kelionės dokumentus, kurie reikalingi įvažiuoti į Lietuvos Respubliką. Vežėjai turi teisę tikrinti keleivių kelionės dokumentus, kad įsitikintų, ar keleivis turi kelionės dokumentus, reikalingus įvažiuoti į Lietuvos Respubliką.
 
@@ -78,13 +78,13 @@ VEŽĖJŲ PAREIGOS VEŽANT UŽSIENIEČIUS IR ATSAKOMYBĖ UŽ UŽSIENIEČIŲ VEŽ
 
 3) Valstybės sienos apsaugos tarnyba nustato, kad užsieniečio kelionės dokumentas, kuris reikalingas įvažiuoti į Lietuvos Respubliką, yra suklastotas.
 
-\#### 21 straipsnis. Įstatymo pažeidimo protokolas ir bylų nagrinėjimo terminai
+## 21 straipsnis. Įstatymo pažeidimo protokolas ir bylų nagrinėjimo terminai
 
 1. Valstybės sienos apsaugos tarnybos įgalioti darbuotojai (pareigūnai), nustatę, kad pažeisti šio Įstatymo 20 straipsnio 1 dalies reikalavimai, surašo įstatymo pažeidimo protokolą. Protokole nurodoma jo surašymo data ir vieta, protokolą surašiusio asmens pareigos, pavardė, vardas, žinios apie šį Įstatymą pažeidusį asmenį, šio Įstatymo pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo straipsnis, straipsnio dalis, kurios reikalavimus pažeidė asmuo, liudytojų ir nukentėjusiųjų, jeigu jų yra, pavardės, adresai, šį Įstatymą pažeidusio asmens paaiškinimas, kitokios žinios, būtinos bylai išspręsti.
 
 2. Valstybės sienos apsaugos tarnyba bylas nagrinėja ir baudas skiria ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos.
 
-\#### 22 straipsnis. Bylos nagrinėjimo proceso dalyviai
+## 22 straipsnis. Bylos nagrinėjimo proceso dalyviai
 
 1. Nagrinėjant bylas dėl šio Įstatymo 20 straipsnio 1 dalyje numatytų pažeidimų, dalyvauja šie proceso dalyviai:
 
@@ -100,11 +100,11 @@ VEŽĖJŲ PAREIGOS VEŽANT UŽSIENIEČIUS IR ATSAKOMYBĖ UŽ UŽSIENIEČIŲ VEŽ
 
 3. Proceso šalims gali atstovauti jų įgalioti atstovai.
 
-\#### 23 straipsnis. Pranešimas apie bylos nagrinėjimą
+## 23 straipsnis. Pranešimas apie bylos nagrinėjimą
 
 Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo raštu pranešama apie nustatytus šio Įstatymo 20 straipsnio 1 dalyje numatytus pažeidimus, bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti paaiškinimus. Apie bylos nagrinėjimo vietą ir laiką kitiems proceso dalyviams pranešama raštu ne vėliau kaip prieš 3 darbo dienas iki bylos nagrinėjimo.
 
-\#### 24 straipsnis. Bylos nagrinėjimas
+## 24 straipsnis. Bylos nagrinėjimas
 
 1. Byla nagrinėjama, kai dalyvauja proceso šalys ir kiti proceso dalyviai.
 
@@ -112,7 +112,7 @@ Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo ra�
 
 3. Jeigu proceso šalys ar kiti proceso dalyviai bylos nagrinėjimo metu nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai proceso šalims ar kitiems proceso dalyviams laiku buvo pranešta apie bylos nagrinėjimo vietą bei laiką ir proceso šalys bei kiti proceso dalyviai nepateikia dokumentų, patvirtinančių, kad yra svarbių priežasčių, dėl kurių jie negalėjo dalyvauti procese.
 
-\#### 25 straipsnis. Sprendimai, priimami išnagrinėjus bylą
+## 25 straipsnis. Sprendimai, priimami išnagrinėjus bylą
 
 1. Valstybės sienos apsaugos tarnyba, išnagrinėjusi bylą, turi teisę priimti sprendimą:
 
@@ -124,7 +124,7 @@ Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo ra�
 
 3. Valstybės sienos apsaugos tarnybos nutarimas per 2 dienas nuo jo priėmimo išsiunčiamas šį Įstatymą pažeidusiam asmeniui.
 
-\#### 26 straipsnis. Sankcijų vežėjams už šio Įstatymo pažeidimus taikymas
+## 26 straipsnis. Sankcijų vežėjams už šio Įstatymo pažeidimus taikymas
 
 1. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 2 ir 3 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo 25 straipsnio 2 dalyje nurodytame nutarime.
 
@@ -140,19 +140,19 @@ Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo ra�
 
 2) kad pažeidimas padarytas pasinaudojant stichine nelaime.
 
-\#### 27 straipsnis. Baudų mokėjimas ir išieškojimas
+## 27 straipsnis. Baudų mokėjimas ir išieškojimas
 
 1. Bauda turi būti sumokėta į valstybės biudžetą ne vėliau kaip per 1 mėnesį nuo nutarimo išsiuntimo dienos.
 
 2. Vežėjų nesumokėtas baudas išieško antstoliai, vykdydami pateiktus Valstybės sienos apsaugos tarnybos nutarimus, Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimai pateikiami vykdyti ne vėliau kaip per 1 mėnesį nuo baudos sumokėjimo termino pabaigos.
 
-\#### 28 straipsnis. Nutarimų dėl baudų skyrimo apskundimas
+## 28 straipsnis. Nutarimų dėl baudų skyrimo apskundimas
 
 1. Vežėjai, nesutinkantys su Valstybės sienos apsaugos tarnybos nutarimu dėl baudos skyrimo, gali apskųsti jį per 1 mėnesį nuo nutarimo priėmimo dienos Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 2. Skundo padavimas teismui sustabdo Valstybės sienos apsaugos tarnybos nutarimų dėl baudų skyrimo vykdymą.“
 
-\#### 4 straipsnis. Įstatymo papildymas priedu
+## 4 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -168,7 +168,7 @@ priedas
 
 2001 m. birželio 28 d. Tarybos direktyva Nr. 2001/51/EB dėl Konvencijos, įgyvendinančios 1985 m. birželio 14 d. Šengeno susitarimą, 26 straipsnio nuostatų papildymo.“
 
-\#### 5 straipsnis. Įstatymo įgyvendinimas
+## 5 straipsnis. Įstatymo įgyvendinimas
 
 Vyriausybė arba jos įgaliotos valstybės institucijos per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos apsvarsto teisės aktus, susijusius su šio įstatymo nuostatų įgyvendinimu, ir, jei reikia, parengia atitinkamų teisės aktų pakeitimo projektus ar priima naujus teisės aktus.
 

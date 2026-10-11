@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dcf62974e55b11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DCF62974E55B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 10 ir 17 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ASMENS SU NEGALIA TEISIŲ APSAUGOS PAGRINDŲ ĮSTATYMO NR. I-2044 10 IR 17 STRAI
 
 Vilnius
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 1. Papildyti 10 straipsnį nauja 3 dalimi:
 
@@ -34,13 +34,13 @@ Vilnius
 
 2. Buvusią 10 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas
+## 2 straipsnis. 17 straipsnio pakeitimas
 
 Papildyti 17 straipsnį 6 punktu:
 
 „6) teikia asmeniui, turinčiam akivaizdžių negalios požymių, iki jam dar nenustatytas neįgalumo lygis ar dalyvumo lygis, jo ar jo šeimos narių sutikimu ankstyvąją pagalbą, finansuojamą iš valstybės biudžeto ir (ar) savivaldybės biudžeto lėšų.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 2 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2026 m. liepos 1 d.
 

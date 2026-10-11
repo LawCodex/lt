@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D9E98D7291DF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D9E98D7291DF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kariuomenės principinės struktūros 2007 metais, planuojamos principinės struktūros 2012 metais nustatymo ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinio skaičiaus patvirtinimo įstatymas
@@ -26,7 +26,7 @@ KARIUOMENĖS PRINCIPINĖS STRUKTŪROS 2007 METAIS, PLANUOJAMOS PRINCIPINĖS STRU
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato 2007 metų kariuomenės principinę struktūrą:
 
@@ -40,7 +40,7 @@ Vilnius
 
 3. Įstatymas nustato planuojamą 2012 metų kariuomenės principinę struktūrą.
 
-\#### 2 straipsnis. Kariuomenės principinė struktūra 2007 metais
+## 2 straipsnis. Kariuomenės principinė struktūra 2007 metais
 
 1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų skaičius 2007 metais:
 
@@ -70,7 +70,7 @@ Vilnius
 
 3. Bendras ribinis civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičius 2007 metais nustatomas iki 170.
 
-\#### 3 straipsnis. Planuojama kariuomenės principinė struktūra 2012 metais
+## 3 straipsnis. Planuojama kariuomenės principinė struktūra 2012 metais
 
 1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų skaičius 2012 metais:
 

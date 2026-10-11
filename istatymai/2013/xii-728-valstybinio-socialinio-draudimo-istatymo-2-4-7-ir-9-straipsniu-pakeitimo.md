@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f1781280723811e3b29084acd991add8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F17812807238.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 7 ir 9 straipsnių pakeitimo įstatymo 5 straipsnio pakeitimo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2012, Nr. [83-4343](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=429542))
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 

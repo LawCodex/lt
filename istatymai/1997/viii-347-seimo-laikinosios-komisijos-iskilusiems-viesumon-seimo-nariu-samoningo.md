@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0A8BE60882BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0A8BE60882BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Seimo Laikinosios komisijos iškilusiems viešumon Seimo narių sąmoningo bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis faktams tirti nuostatų įstatymas
@@ -26,11 +26,11 @@ SEIMO LAIKINOSIOS KOMISIJOS IŠKILUSIEMS VIEŠUMON SEIMO NARIŲ SĄMONINGO BENDR
 
 Vilnius
 
-\#### 1 straipsnis. Komisijos paskirtis
+## 1 straipsnis. Komisijos paskirtis
 
 Seimo Laikinosios komisijos iškilusiems viešumon Seimo narių sąmoningo bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis faktams tirti (toliau - Komisija) paskirtis - tirti viešumon iškilusius Seimo narių sąmoningo bendradarbiavimo su svetimų valstybių specialiosiomis tarnybomis (saugumo, žvalgybos, kontržvalgybos) ne pagal Lietuvos Respublikos užduotis faktus ir, jeigu jie pasitvirtina, įstatymų nustatyta tvarka teikti sprendimą dėl Seimo nario įgaliojimų nutraukimo.
 
-\#### 2 straipsnis. Komisijos uždaviniai
+## 2 straipsnis. Komisijos uždaviniai
 
 Komisijos uždaviniai - ištirti ir nustatyti įtariamo Seimo nario sąmoningo bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis faktus, apimančius:
 
@@ -42,7 +42,7 @@ Komisijos uždaviniai - ištirti ir nustatyti įtariamo Seimo nario sąmoningo b
 
 4) asmens etatinį darbą kitos valstybės specialiojoje tarnyboje.
 
-\#### 3 straipsnis. Komisijos teisės
+## 3 straipsnis. Komisijos teisės
 
 1. Komisija bendradarbiauja su Generaline prokuratūra, Vidaus reikalų ministerija, Valstybės saugumo departamentu, Archyvų departamentu, Lietuvos gyventojų genocido ir rezistencijos tyrimo centru ir turi teisę susipažinti su visa su įtariamu Seimo nariu susijusia medžiaga, esančia tose tarnybose, tačiau nesikiša į jų veiklą. Komisija tariasi su Generaline prokuratūra, Vidaus reikalų ministerija, Valstybės saugumo departamentu, Archyvų departamentu, Lietuvos gyventojų genocido ir rezistencijos tyrimo centru dėl jos pavedimų šių įstaigų darbuotojams.
 
@@ -50,7 +50,7 @@ Komisijos uždaviniai - ištirti ir nustatyti įtariamo Seimo nario sąmoningo b
 
 3. Komisija turi teisę išklausyti Seimo nario paaiškinimus.
 
-\#### 4 straipsnis. Komisijos narių teisės
+## 4 straipsnis. Komisijos narių teisės
 
 1. Komisijos nariai turi teisę įstatymų nustatyta tvarka:
 
@@ -62,7 +62,7 @@ Komisijos uždaviniai - ištirti ir nustatyti įtariamo Seimo nario sąmoningo b
 
 2. Tais atvejais, kai atsisakoma paaiškinti, duoti parodymus ar pateikti prašomą informaciją, surašomas aktas, kuris svarstomas Komisijoje.
 
-\#### 5 straipsnis. Komisijos narių pareigos
+## 5 straipsnis. Komisijos narių pareigos
 
 Komisijos nariai privalo:
 
@@ -70,7 +70,7 @@ Komisijos nariai privalo:
 
 2) kol Komisijos išvados nebus pateiktos Seimui ir teisėsaugos institucijoms, neteikti jokios informacijos apie tyrimą, su juo susijusius asmenis, gautą tyrimo medžiagą.
 
-\#### 6 straipsnis. Komisijos darbo organizavimas
+## 6 straipsnis. Komisijos darbo organizavimas
 
 1. Klausimą nagrinėti Komisija pradeda pagal atskirų piliečių arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pateiktą, dokumentais pagrįstą ar viešumon iškilusią (visuomenės informavimo priemonėse – knygoje, laikraštyje, žurnale, biuletenyje ar kitame leidinyje, televizijos ar radijo programose, kino ar kitoje garso ir vaizdo studijos produkcijoje, informacijos agentūros pranešime, elektroninėmis priemonėmis platinamame pranešime) informaciją apie Seimo nario bendradarbiavimą su užsienio valstybių specialiosiomis tarnybomis. Klausimą nagrinėti parengia ir pristato Komisijos pirmininkas arba jo pavedimu kuris nors Komisijos narys.
 
@@ -78,7 +78,7 @@ Komisijos nariai privalo:
 
 3. Laikinoji tyrimo grupė per nustatytą laiką pateikia Komisijai pažymą apie savo surinktą medžiagą su išvadomis ir pasiūlymais. Jei tiriama informacija nepasitvirtina, apie tai nurodoma pažymoje, kartu pateikiamos argumentuotos išvados.
 
-\#### 7 straipsnis. Tyrimo rezultatai
+## 7 straipsnis. Tyrimo rezultatai
 
 Baigusi tyrimą, Komisija priima vieną iš šių sprendimų:
 
@@ -88,7 +88,7 @@ Baigusi tyrimą, Komisija priima vieną iš šių sprendimų:
 
 3) Komisijos išvadas perduoti Vyriausiajai rinkimų komisijai dėl Seimo nario įgaliojimų nedelsiamo nutraukimo, jeigu Seimo narys neneigia sąmoningo bendradarbiavimo su užsienio specialiosiomis tarnybomis faktų, apie tai nėra nurodęs kandidato į Seimo narius anketoje ir yra pasirašęs Komisijos išvadas.
 
-\#### 8 straipsnis. Sprendimų priėmimas ir skelbimas
+## 8 straipsnis. Sprendimų priėmimas ir skelbimas
 
 1. Komisijos sprendimai priimami narių balsų dauguma. Komisijos posėdis yra teisėtas, kai jame dalyvauja daugiau kaip pusė visų narių. Komisijos nariai, posėdyje pareiškę atskiras nuomones, turi teisę patikslinti oficialią Komisijos išvadą. Dėl patikslinimų balsuojama.
 
@@ -98,7 +98,7 @@ Baigusi tyrimą, Komisija priima vieną iš šių sprendimų:
 
 4. Komisijos nariai, posėdyje pareiškę atskirą nuomonę, turi teisę pateikti informaciją apie ją tik po Komisijos sprendimo priėmimo.
 
-\#### 9 straipsnis. Savivaldybių komisijų veiklos koordinavimas
+## 9 straipsnis. Savivaldybių komisijų veiklos koordinavimas
 
 Komisija kontroliuoja, konsultuoja ir padeda savivaldybių atitinkamų komisijų darbui.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c4b14830e55c11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C4B14830E55C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 9-1 ir 21 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 91 IR 21 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 91 straipsnio pakeitimas
+## 1 straipsnis. 91 straipsnio pakeitimas
 
 Pakeisti 9^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Pakeisti 9^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) vienas iš bendrai gyvenančių asmenų (ar turimas vienintelis iš vaiko tėvų (įtėvių) arba globėjas ar su juo bendrai gyvenantis asmuo, kurie augina ir (ar) globoja vaiką, dirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba yra savarankiškai dirbantis asmuo, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis, o kitas (ar turimas vienintelis iš vaiko tėvų (įtėvių), globėjas) mokosi pagal bendrojo ugdymo programą, formaliojo profesinio mokymo programą kartu su bendrojo ugdymo programa ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą, doktorantūroje ar rezidentūroje (įskaitant asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, jeigu dėl vaiko priežiūros kompensacinės išmokos skyrimo kreipiamasi už kitą vaiką, negu suteiktos akademinės atostogos vaikui prižiūrėti, arba atlikti privalomąją pradinę karo tarnybą, laikotarpiu).“
 
-\#### 2 straipsnis. 21 straipsnio pakeitimas
+## 2 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
 
 „23) asmuo, kuriam paskirta šio įstatymo 9^1 straipsnyje nustatyta išmoka, ir (ar) su juo bendrai gyvenantis asmuo, kurie augina ir (ar) globoja vaiką, nedirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba nėra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis, ar nutraukia mokymąsi ar studijas – nuo darbo sutarties ar darbo santykiams prilygintų teisinių santykių pagrindu arba savarankiškos veiklos nutraukimo dienos ar nuo mokymosi ar studijų nutraukimo dienos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 1 d.
 

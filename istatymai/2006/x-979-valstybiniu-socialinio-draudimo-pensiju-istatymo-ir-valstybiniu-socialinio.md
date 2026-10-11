@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FAD1D38DA710"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FAD1D38DA710.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo ir Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo pakeitimo ir papildymo įstatymas
@@ -26,19 +26,17 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO IR VALSTYBINIŲ SOCIALINIO D
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 34, 35, 36, 38, 39, 46, 64 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, IV SKYRIAUS PAVADINIMO PAKEITIMAS, 37 IR 47 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
+## PIRMASIS SKIRSNIS. VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 34, 35, 36, 38, 39, 46, 64 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, IV SKYRIAUS PAVADINIMO PAKEITIMAS, 37 IR 47 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D); 2005, Nr. [71-2555](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FC84684F94))
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
 „2. Asmenims, turintiems teisę gauti arba gaunantiems valstybines maitintojo netekimo pensijas ar valstybines socialinio draudimo maitintojo netekimo pensijas už mirusį iki 1995 m. sausio 1 d. maitintoją ir tuo pat metu turintiems teisę gauti valstybinę socialinio draudimo senatvės, netekto darbingumo, invalidumo, ištarnauto laiko, našlių arba našlaičių pensiją, mokama jų pasirinkimu viena iš šių pensijų, išskyrus našlaičių pensiją, kuri mokama kartu su maitintojo netekimo pensija už mirusį iki 1995 m. sausio 1 d. tėvą (motiną).“
 
-\#### 2 straipsnis. Įstatymo IV skyriaus pavadinimo pakeitimas
+### 2 straipsnis. Įstatymo IV skyriaus pavadinimo pakeitimas
 
 Įstatymo IV skyriaus pavadinime išbraukti žodžius „(maitintojo netekimo)“ ir šį pavadinimą išdėstyti taip:
 
@@ -48,7 +46,7 @@ VALSTYBINĖS SOCIALINIO DRAUDIMO
 
 NAŠLIŲ IR NAŠLAIČIŲ PENSIJOS“.
 
-\#### 3 straipsnis. 34 straipsnio pakeitimas
+### 3 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +62,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 3. Našlių ir našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukiamas asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo mirusiajam, už kurį ši pensija skiriama ir mokama, padarymą.“
 
-\#### 4 straipsnis. 35 straipsnio pakeitimas
+### 4 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +84,7 @@ b) buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 
 
 4. Našlei ar našliui našlių pensija neskiriama, o paskirtosios pensijos mokėjimas nutraukiamas dar kartą susituokus.“
 
-\#### 5 straipsnis. 36 straipsnio pakeitimas
+### 5 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -96,11 +94,11 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 2. Valstybinės socialinio draudimo našlių pensijos bazinį dydį (toliau – našlių pensijos bazinis dydis) tvirtina Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu. Šis dydis negali būti mažesnis nei 70 litų.“
 
-\#### 6 straipsnis. 37 straipsnio pripažinimas netekusiu galios
+### 6 straipsnis. 37 straipsnio pripažinimas netekusiu galios
 
 37 straipsnį pripažinti netekusiu galios.
 
-\#### 7 straipsnis. 38 straipsnio pakeitimas
+### 7 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +112,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 4. Mirusiojo vaikams (įvaikiams), turintiems teisę gauti našlaičių pensiją, ši teisė išlieka ir tada, kai jie įvaikinami.“
 
-\#### 8 straipsnis. 39 straipsnio pakeitimas
+### 8 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
@@ -128,29 +126,27 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 4. Našlaičių pensijos abiejų tėvų netekusiems našlaičiams skiriamos už kiekvieną iš mirusių tėvų. Jeigu šie našlaičiai po tėvų mirties įgyja teisę gauti našlaičių pensiją už mirusį įtėvį (įmotę), jų prašymu vietoj našlaičių pensijos už tėvą (motiną) skiriama ir mokama našlaičių pensija už įtėvį (įmotę), jeigu ji didesnė už gaunamą.“
 
-\#### 9 straipsnis. 46 straipsnio 3 dalies pakeitimas
+### 9 straipsnis. 46 straipsnio 3 dalies pakeitimas
 
 Pakeisti 46 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Maitintojo netekimo pensijos pagal šį įstatymą neperskaičiuojamos ir kartu su senatvės, netekto darbingumo, invalidumo, ištarnauto laiko, našlių ar našlaičių pensijomis nemokamos, išskyrus našlaičių pensiją, kuri mokama kartu su maitintojo netekimo pensija už mirusį iki 1995 m. sausio 1 d. tėvą (motiną). Maitintojo netekimo pensijos mokamos Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta tvarka.“
 
-\#### 10 straipsnis. 47 straipsnio pripažinimas netekusiu galios
+### 10 straipsnis. 47 straipsnio pripažinimas netekusiu galios
 
 47 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 64 straipsnio 5 dalies pakeitimas
+### 11 straipsnis. 64 straipsnio 5 dalies pakeitimas
 
 Pakeisti 64 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Kai valstybinės socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensijos gavėjo, kuriam pensija buvo paskirta po 1995 m. sausio 1 d., asmens draudžiamųjų pajamų koeficientas, apskaičiuotas už laikotarpį iki 1994 m. sausio 1 d., buvo padidintas pagal šio įstatymo 59 ir 60 straipsnių nuostatas, skiriant pensiją iš naujo (42 straipsnis), taip pat skiriant senatvės pensiją netekto darbingumo (invalidumo) pensijos gavėjui sukakus senatvės pensijos amžių, pakeistas koeficientas k nekeičiamas, jei asmeniui tai naudinga. Kai dėl senatvės pensijos pirmą kartą skyrimo kreipiasi valstybinės socialinio draudimo invalidumo pensijos gavėjas, taip pat dėl pensijos skyrimo iš naujo (46 straipsnio 2 dalis) kreipiasi valstybinės socialinio draudimo senatvės ar invalidumo pensijos gavėjas, kuriems šios pensijos buvo paskirtos iki 1995 m. sausio 1 d., arba dėl pensijos skyrimo kreipiasi valstybinės socialinio draudimo netekto darbingumo pensijos gavėjas, kuriam šios pensijos dydis nustatytas pagal invalidumo pensijos, paskirtos iki 1995 m. sausio 1 d., duomenis (42 straipsnio 3 ir 4 dalys), teisė į pensijos padidinimą nustatoma iš naujo nuo senatvės ar netekto darbingumo pensijos skyrimo dienos pagal apskaičiuotus naujus stažo ir pensijos dydžio (pensijų ir (ar) pensijų išmokų sumos) duomenis. Paaiškėjus, kad asmeniui naudingiau ir toliau gauti pensiją, mokėtą iki kreipimosi skirti pensiją pirmą kartą (arba iš naujo), jam toliau mokama anksčiau mokėta pensija.“
 
-\### ANTRASIS SKIRSNIS
-
-VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 8 STRAIPSNIO PAKEITIMAS
+## ANTRASIS SKIRSNIS. VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 8 STRAIPSNIO PAKEITIMAS
 
 (Žin., 2003, Nr. [114-5116](https://www.e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900); 2005, Nr. [71-2554](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D1E439FB91A))
 
-\#### 1 straipsnis. 8 straipsnio 4 ir 5 dalių pakeitimas
+### 1 straipsnis. 8 straipsnio 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -160,9 +156,9 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTA
 
 „5. Mirus asmeniui, kuris išankstinę senatvės pensiją buvo gavęs anksčiau, valstybinė socialinio draudimo našlaičių pensija apskaičiuojama atsižvelgiant į mirusiojo gautos valstybinės socialinio draudimo senatvės, invalidumo ar netekto darbingumo pensijos dydį arba į mirusiajam galėjusios priklausyti netekto darbingumo (jei asmuo mirė iki 2005 m. liepos 1 d. – invalidumo) ar senatvės pensijos dydį (priklausomai nuo mirusiojo amžiaus), apskaičiuotą šio straipsnio 1 ir 2 dalyse nustatyta tvarka.“
 
-\### TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo įgyvendinimas
+### 1 straipsnis. Įstatymo įgyvendinimas
 
 1. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo našlių pensijos (toliau – našlių pensijos) ir valstybinės socialinio draudimo našlaičių pensijos (toliau – našlaičių pensijos), išskyrus šio straipsnio 2, 5, 6 ir 7 dalyse nustatytus atvejus, pradedamos mokėti naujų dydžių ne vėliau kaip praėjus 2 mėnesiams nuo šio įstatymo įsigaliojimo. Šioms pensijoms Valstybinių socialinio draudimo pensijų įstatymo 34 straipsnio 1 dalies 2 punkto reikalavimas netaikomas. Paskirtų ir naujo dydžio našlių pensijų dydžių skirtumas kompensuojamas nuo šio įstatymo įsigaliojimo dienos.
 
@@ -186,7 +182,7 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTA
 
 11. Šio įstatymo pirmojo skirsnio 11 straipsnio nuostatos taikomos skiriant valstybines socialinio draudimo senatvės pensijas netekto darbingumo (invalidumo) pensijų gavėjams, sukakusiems senatvės pensijos amžių, taip pat skiriant valstybines socialinio draudimo senatvės ir netekto darbingumo pensijas iš naujo po Valstybinių socialinio draudimo pensijų įstatymo pakeitimo įstatymo (Žin., 2005, Nr. 71-2555) įsigaliojimo.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/cbcb5092ca0211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CBCB5092CA02.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 straipsnio pakeitimo ir Centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 pakeitimo įstatymas
@@ -26,13 +26,13 @@ CENTRALIZUOTAI VALDOMO VALSTYBĖS TURTO VALDYTOJO ĮSTATYMO NR. XII-791 4 STRAIP
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Papildyti 4 straipsnį 1^1 dalimi:
 
 „1^1. Be šiame įstatyme nustatytų funkcijų, centralizuotai valdomo valstybės turto valdytojas gali vykdyti kitą su jo pagrindinėmis funkcijomis susijusią veiklą, įskaitant dalyvavimą įgyvendinant civilinės ir karinės infrastruktūros sukūrimo ir vystymo projektus, sietinus su valstybės gynybinių pajėgumų ir civilinės saugos stiprinimu, pagal Vyriausybės nustatyta tvarka sudaromas atlygintinas sutartis su ministerijomis pagal ministrams pavestas valdymo sritis, prireikus – su valstybės ir (arba) savivaldybių įstaigomis arba viešosiomis įstaigomis, kurių savininkė ar dalininkė, turinti pusę ar daugiau kaip pusę balsų viešosios įstaigos visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė.“
 
-\#### 2 straipsnis. Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 nauja redakcija
+## 2 straipsnis. Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 nauja redakcija
 
 Pakeisti Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymą Nr. XII-791 ir jį išdėstyti taip:
 
@@ -42,13 +42,13 @@ CENTRALIZUOTAI VALDOMO VALSTYBĖS TURTO VALDYTOJO
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir sąvokos
+## 1 straipsnis. Įstatymo paskirtis ir sąvokos
 
 1. Šis įstatymas nustato centralizuotai valdomo valstybės turto valdytojo statusą, įgaliojimus ir jo veiklą.
 
 2. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatyme ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme.
 
-\#### 2 straipsnis. Centralizuotai valdomo valstybės turto valdytojo statusas ir valdymas
+## 2 straipsnis. Centralizuotai valdomo valstybės turto valdytojo statusas ir valdymas
 
 1. Centralizuotai valdomo valstybės turto valdytojas yra teisės aktų, reglamentuojančių juridinių asmenų įregistravimą, nustatyta tvarka įregistruota valstybės valdoma akcinė bendrovė (toliau – centralizuotai valdomo valstybės turto valdytojas arba bendrovė), kurios visos akcijos nuosavybės teise priklauso valstybei.
 
@@ -56,7 +56,7 @@ CENTRALIZUOTAI VALDOMO VALSTYBĖS TURTO VALDYTOJO
 
 3. Bendrovė savo veikloje vadovaujasi šiuo įstatymu, Valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymu, Lietuvos Respublikos akcinių bendrovių įstatymu, taip pat Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu, kiek šis įstatymas nenustato kitaip, kitais įstatymais bei teisės aktais ir savo įstatais.
 
-\#### 3 straipsnis. Centralizuotai valdomo valstybės turto valdytojo funkcijos
+## 3 straipsnis. Centralizuotai valdomo valstybės turto valdytojo funkcijos
 
 1. Centralizuotai valdomo valstybės turto valdytojas atlieka šias pagrindines funkcijas:
 
@@ -72,7 +72,7 @@ CENTRALIZUOTAI VALDOMO VALSTYBĖS TURTO VALDYTOJO
 
 2. Be šiame įstatyme nustatytų funkcijų, centralizuotai valdomo valstybės turto valdytojas gali vykdyti ir kitą bendrovės įstatuose nustatytą veiklą, susijusią su pagrindinėmis bendrovės funkcijomis, įskaitant dalyvavimą įgyvendinant civilinės ir karinės infrastruktūros sukūrimo ir vystymo projektus, sietinus su valstybės gynybinių pajėgumų ir civilinės saugos stiprinimu, pagal Vyriausybės nustatyta tvarka sudaromas atlygintinas sutartis su ministerijomis pagal ministrams pavestas valdymo sritis, prireikus – su valstybės ir (arba) savivaldybių įstaigomis arba viešosiomis įstaigomis, kurių savininkė ar dalininkė, turinti pusę ar daugiau kaip pusę balsų viešosios įstaigos visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė.
 
-\#### 4 straipsnis. Valstybės nekilnojamojo turto centralizuoto valdymo funkcija
+## 4 straipsnis. Valstybės nekilnojamojo turto centralizuoto valdymo funkcija
 
 1. Valstybės nekilnojamojo turto centralizuotą valdymą sudaro šios veiklos:
 
@@ -136,7 +136,7 @@ CENTRALIZUOTAI VALDOMO VALSTYBĖS TURTO VALDYTOJO
 
 8. Patikėjimo teise ar nuomos pagrindais valdomą naują administracinės paskirties nekilnojamąjį turtą centralizuotai valdomo valstybės turto valdytojas nuomoja, su valstybės institucijomis ir įstaigomis sudarydamas administracinės paskirties nekilnojamojo turto nuomos sutartis, arba subnuomoja, sudarydamas subnuomos sutartis, jeigu atnaujinimo projektas įgyvendinamas išsinuomojant administracinės paskirties nekilnojamąjį turtą.
 
-\#### 5 straipsnis. Bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų administravimo funkcija
+## 5 straipsnis. Bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų administravimo funkcija
 
 Bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų administravimą sudaro šios veiklos:
 
@@ -154,7 +154,7 @@ Bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnoja
 
 7) kitų įstatymuose centralizuotai valdomo valstybės turto valdytojui priskirtų funkcijų, susijusių su bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto ir akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų administravimu, atlikimas.
 
-\#### 6 straipsnis. Bendrovės turtas
+## 6 straipsnis. Bendrovės turtas
 
 1. Turtas, perduotas bendrovei centralizuotai valdyti, naudoti ir disponuoti juo patikėjimo teise, nurodomas bendrovės nuosavo kapitalo dalyje.
 
@@ -162,11 +162,11 @@ Bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnoja
 
 3. Bendrovė už savo prievoles atsako tik jai nuosavybės teise priklausančiu turtu. Negali būti išieškoma iš bendrovės patikėjimo teise valdomo valstybės turto.
 
-\#### 7 straipsnis. Baigiamosios nuostatos
+## 7 straipsnis. Baigiamosios nuostatos
 
 Centralizuotai valdomo valstybės turto valdytojas yra po valstybės įmonės Turto banko pertvarkymo veiksianti akcinė bendrovė Turto bankas.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1 straipsnį ir šio straipsnio 3 ir 4 dalis, įsigalioja 2026 m. birželio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bfdf4340d05f11e7910a89ac20768b0f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BFDF4340D05F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1, 2, 9, 12-1, 15, 21, 26, 27, 30 straipsnių pakeitimo ir Įstatymo papildymo 12-2, 26-1 straipsniais įstatymas

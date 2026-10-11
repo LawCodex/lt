@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1ACB702C6227"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1ACB702C6227.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 2004, Nr. [28-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED447C0D254); 2006, Nr. [138-5268](https://www.e-tar.lt/portal/lt/legalAct/TAR.4111834C51E6); 2010, Nr. [13-623](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FEDA6D6A17E), Nr. [72-3616](https://www.e-tar.lt/portal/lt/legalAct/TAR.A64DB3EB7FC6))
 
-\#### 1 straipsnis. 45 straipsnio pakeitimas
+## 1 straipsnis. 45 straipsnio pakeitimas
 
 1. Pakeisti 45 straipsnio 1 dalies pirmą pastraipą ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „2. Visuomenės poreikiams reikalingam konkrečiam objektui statyti (įrengti) konkrečios vietos ir ploto motyvuotas pagrindimas turi būti atliktas rengiant detaliojo ar specialiojo teritorijų planavimo dokumentą. Konkrečios vietos ir ploto motyvuotas pagrindimas gali būti sudedamoji detaliojo ar specialiojo teritorijų planavimo dokumento dalis arba gali būti parengtas kaip atskiras dokumentas, teikiamas kartu su detaliojo ar specialiojo teritorijų planavimo dokumentu.“
 
-\#### 2 straipsnis. 46 straipsnio pakeitimas
+## 2 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
 9. Ginčai dėl žemės paėmimo visuomenės poreikiams projekto arba paimamo visuomenės poreikiams žemės sklypo plano rengimo ir tvirtinimo, taip pat dėl atlyginimo už paimamą visuomenės poreikiams žemę dydžio nustatymo nagrinėjami bendrosios kompetencijos apygardos teisme pagal visuomenės poreikiams paimamo žemės sklypo buvimo vietą. Jeigu Nacionalinės žemės tarnybos vadovas priima sprendimą paimti žemę visuomenės poreikiams ir suinteresuota institucija šio Įstatymo 47 straipsnio 5 dalyje nustatyta tvarka kreipiasi į teismą dėl leidimo paimti žemės sklypą pagal priimtą sprendimą dėl žemės paėmimo visuomenės poreikiams, šie ginčai nagrinėjami pagal ginčo teisenos taisykles.“
 
-\#### 3 straipsnis. 47 straipsnio pakeitimas
+## 3 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 12. Kai nuo sprendimo paimti žemę visuomenės poreikiams priėmimo dienos praėjus ne daugiau kaip 10 metų pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus detaliojo ar specialiojo teritorijų planavimo dokumentus žemės sklypo nenumatoma naudoti toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą. Apie sutikimą išpirkti žemės sklypą buvęs žemės savininkas Nacionalinės žemės tarnybos teritoriniam padaliniui pagal žemės sklypo buvimo vietą turi pranešti per 6 mėnesius nuo pasiūlymo gavimo dienos. Žemės sklypo išpirkimas įforminamas įstatymų nustatyta tvarka sudaroma žemės sklypo pirkimo–pardavimo sutartimi. Kai buvęs žemės savininkas atsisako išpirkti žemės sklypą arba per nustatytą terminą nepraneša apie sutikimą išpirkti žemės sklypą, taip pat kai nuo sprendimo paimti žemę visuomenės poreikiams priėmimo dienos praėjo daugiau kaip 10 metų, žemės sklypas valdomas, naudojamas ir juo disponuojama įstatymų nustatyta tvarka, netaikant šio straipsnio 9 dalyje nustatyto apribojimo.“
 
-\#### 4 straipsnis. 48 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 4 straipsnis. 48 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 48 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 2) naujų kelių projektavimas, melioracijos sistemų pertvarkymas, specialiųjų žemės naudojimo sąlygų nustatymas arba pakeitimas, taip pat siūlomų žemės servitutų projektavimas.“
 
-\#### 5 straipsnis. Baigiamosios nuostatos
+## 5 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus 1 straipsnio 7 dalį ir šio straipsnio 2 dalį, įsigalioja 2011 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/39eedd5255c111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.39EEDD5255C1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 11, 16, 35, 171 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ ĮSTATYMO NR. IX-1709 2, 11, 16, 35, 171 STRA
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusiomis galios 2 straipsnio 2 ir 3 dalis.
 
@@ -60,13 +60,13 @@ Vilnius
 
 „64. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Finansinių priemonių rinkų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Akcinių bendrovių įstatyme, Vertybinių popierių įstatyme, Įmonių ir įmonių grupių atskaitomybės įstatyme, 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente [(ES) 2017/1129](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R1129&locale=lt) dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva [2003/71/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32003L0071&locale=lt) ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) turėti patikimas administravimo ir finansinės apskaitos procedūras, elektroninių duomenų apdorojimo kontrolės ir apsaugos priemones, įskaitant tinklų ir informacines sistemas, įdiegtas ir valdomas pagal Reglamentą [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt), bei tinkamą vidaus kontrolės mechanizmą, įskaitant valdymo įmonės darbuotojų sudaromų asmeninių finansinių priemonių sandorių ir valdymo įmonės sąskaita sudaromų finansinių priemonių sandorių taisykles, ir užtikrinti, kad būtų galima sužinoti visų su valdymo įmonės valdomu kolektyvinio investavimo subjektu susijusių sandorių kilmę, jų šalis, turinį, sudarymo laiką ir vietą ir nustatyti, ar turtas investuojamas laikantis kolektyvinio investavimo subjekto steigimo dokumentuose ir teisės aktuose, reglamentuojančiuose atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą, nustatytų reikalavimų;“.
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -88,19 +88,19 @@ Pakeisti 11 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „9. Auditorius, atlikdamas valdymo įmonės ar kolektyvinio investavimo subjekto auditą ar kitą Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme numatytą veiklą, privalo nedelsdamas raštu pranešti priežiūros institucijai apie nustatytas aplinkybes ar faktus, kurie gali:“.
 
-\#### 4 straipsnis. 35 straipsnio pakeitimas
+## 4 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Depozitoriumas privalo valdymo įmonei pateikti visus dokumentus, reikalingus finansinei apskaitai tvarkyti ir finansinėms ataskaitoms sudaryti, įskaitant tikslius duomenis ir informaciją apie kolektyvinio investavimo subjektui priklausantį turtą.“
 
-\#### 5 straipsnis. 171 straipsnio pakeitimas
+## 5 straipsnis. 171 straipsnio pakeitimas
 
 Papildyti 171 straipsnio 1 dalį 9^1 punktu:
 
 „9^1) valdymo įmonė pažeidžia Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatytus reikalavimus;“.
 
-\#### 6 straipsnis. Įstatymo priedo pakeitimas
+## 6 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 11 punktu:
 

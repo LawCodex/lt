@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a9bd16b0e56311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A9BD16B0E563.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 4 ir 26 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ VIDAUS VANDENŲ TRANSPORTO KODEKSO 4 IR 26 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vidaus vandenų transporto valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministerija, Lietuvos transporto saugos administracija, savivaldybių institucijos ir jų įgalioti viešieji juridiniai asmenys, kuriems gali būti suteikti viešojo administravimo įgaliojimai.“
 
-\#### 2 straipsnis. 26 straipsnio pakeitimas
+## 2 straipsnis. 26 straipsnio pakeitimas
 
 1. Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2^1. Savivaldybių administracijų ir savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių pareigūnai turi teisę savo savivaldybės teritorijoje tikrinti viešojo keleivinio transporto vidaus vandenų transporto priemonių keleiviams ir bagažui vežti privalomus dokumentus, tarp jų keleivių bilietus ir bagažo kvitus.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

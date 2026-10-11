@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A4AD89185233"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A4AD89185233.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 1, 42, 62, 801, 803 straipsnių pakeitimo ir papildymo, LX skyriaus ketvirtojo, penktojo ir šeštojo skirsnių pavadinimų pakeitimo, LX skyriaus papildymo septintuoju skirsniu ir kodekso papildymo priedu įstatymas
@@ -28,35 +28,35 @@ Vilnius
 
 (Žin., 2002, Nr. [36-1340](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454))
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis Įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo 11 straipsnyje, taikymą.
 
-\#### 2 straipsnis. 1 straipsnio papildymas 4 dalimi
+## 2 straipsnis. 1 straipsnio papildymas 4 dalimi
 
 Papildyti 1 straipsnį 4 dalimi:
 
 „4. Įgyvendinant Europos Sąjungos teisės aktus, kituose įstatymuose gali būti nustatomos ir kitos bylų nagrinėjimo, sprendimų priėmimo bei vykdymo taisyklės, negu numato šis Kodeksas.“
 
-\#### 3 straipsnis. 42 straipsnio papildymas 6 dalimi
+## 3 straipsnis. 42 straipsnio papildymas 6 dalimi
 
 Papildyti 42 straipsnį 6 dalimi:
 
 „6. Šalys turi teisę dalyvauti renkant įrodymus Europos Sąjungos teisės aktų nustatyta tvarka Europos Sąjungos valstybės narės teisme.“
 
-\#### 4 straipsnis. 62 straipsnio 3 dalies pakeitimas
+## 4 straipsnis. 62 straipsnio 3 dalies pakeitimas
 
 62 straipsnio 3 dalyje po žodžio „kolegija“ įrašyti žodžius „išskyrus šio Kodekso 818 straipsnio 5 dalyje nurodytą išimtį“ ir šią dalį išdėstyti taip:
 
 „3. Lietuvos apeliaciniame teisme civilines bylas nagrinėja trijų teisėjų kolegija, išskyrus šio Kodekso 818 straipsnio 5 dalyje nurodytą išimtį.“
 
-\#### 5 straipsnis. 801 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 801 straipsnio 1 dalies pakeitimas
 
 801 straipsnio 1 dalyje po žodžių „teisingumo ministeriją“ įrašyti žodžius „išskyrus tarptautinių sutarčių ir Europos Sąjungos teisės aktų nustatytus atvejus, kai susižinoma tiesiogiai“ ir šią dalį išdėstyti taip:
 
 „1. Nagrinėdami bylas Lietuvos Respublikos teismai su užsienio valstybių teismais dėl teisinės pagalbos susižino per Lietuvos Respublikos teisingumo ministeriją, išskyrus tarptautinių sutarčių ir Europos Sąjungos teisės aktų nustatytus atvejus, kai susižinoma tiesiogiai.“
 
-\#### 6 straipsnis. 803 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5 dalimi
+## 6 straipsnis. 803 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5 dalimi
 
 1. 803 straipsnio 3 dalį papildyti antru sakiniu „Lietuvos Respublikos teismai turi teisę prašyti užsienio valstybės teismo leisti naudoti ryšių technologijas (videokonferenciją, telekonferenciją ir kitas) renkant įrodymus.“ ir šią dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Papildyti 42 straipsnį 6 dalimi:
 
 „5. Europos Sąjungos teisės aktų nustatyta tvarka rinkti įrodymus Europos Sąjungos valstybėje narėje turi teisę visi Lietuvos Respublikos teismai (teisėjai).“
 
-\#### 7 straipsnis. LX skyriaus ketvirtojo skirsnio pavadinimo pakeitimas
+## 7 straipsnis. LX skyriaus ketvirtojo skirsnio pavadinimo pakeitimas
 
 LX skyriaus ketvirtojo skirsnio pavadinime po žodžio „(arbitražų)“ įrašyti žodžius „išskyrus Europos Sąjungos valstybių narių teismus“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -74,7 +74,7 @@ LX skyriaus ketvirtojo skirsnio pavadinime po žodžio „(arbitražų)“ įra�
 
 **UŽSIENIO TEISMŲ (ARBITRAŽŲ), IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, SPRENDIMŲ PRIPAŽINIMO TVARKA**“.
 
-\#### 8 straipsnis. LX skyriaus penktojo skirsnio pavadinimo pakeitimas
+## 8 straipsnis. LX skyriaus penktojo skirsnio pavadinimo pakeitimas
 
 XL skyriaus penktojo skirsnio pavadinime po žodžio „(arbitražų)“ įrašyti žodžius „išskyrus Europos Sąjungos valstybių narių teismus“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -82,7 +82,7 @@ XL skyriaus penktojo skirsnio pavadinime po žodžio „(arbitražų)“ įrašy
 
 **LEIDIMO VYKDYTI UŽSIENIO TEISMŲ (ARBITRAŽŲ), IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, SPRENDIMUS TVARKA**“.
 
-\#### 9 straipsnis. LX skyriaus šeštojo skirsnio pavadinimo pakeitimas
+## 9 straipsnis. LX skyriaus šeštojo skirsnio pavadinimo pakeitimas
 
 XL skyriaus šeštojo skirsnio pavadinime po žodžio „teisme“ įrašyti žodžius „išskyrus Europos Sąjungos valstybių narių teismus“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -90,7 +90,7 @@ XL skyriaus šeštojo skirsnio pavadinime po žodžio „teisme“ įrašyti žo
 
 **UŽSIENIO VALSTYBĖS TEISME, IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, PATVIRTINTŲ TAIKOS SUTARČIŲ IR TEISMO NUTARČIŲ, PRIPAŽINIMO IR LEIDIMO VYKDYTI TVARKA**“.
 
-\#### 10 straipsnis. LX skyriaus papildymas septintuoju skirsniu
+## 10 straipsnis. LX skyriaus papildymas septintuoju skirsniu
 
 Papildyti LX skyrių septintuoju skirsniu:
 
@@ -100,7 +100,7 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ
 
 PRIPAŽINIMO IR VYKDYMO TVARKA
 
-\#### 818 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir vykdymo tvarka
+## 818 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir vykdymo tvarka
 
 1. Europos Sąjungos valstybių narių teismų sprendimai ir kiti pagal Europos Sąjungos reglamentus vykdytini dokumentai Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Europos Sąjungos reglamentų ir šio Kodekso nustatytą tvarką. Jei Europos Sąjungos reglamentai nenustato Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir leidimo juos vykdyti tvarkos, šie sprendimai yra pripažįstami ir leidžiama juos vykdyti pagal šio Kodekso VII dalies LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
 
@@ -114,7 +114,7 @@ PRIPAŽINIMO IR VYKDYMO TVARKA
 
 6. Prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija. Šių prašymų nagrinėjimui mutatis mutandis taikomos atskirųjų skundų nagrinėjimo taisyklės. Į Lietuvos apeliacinio teismo teisėjų kolegiją negali būti skiriamas teisėjas, priėmęs šio straipsnio 5 dalyje nurodytą nutartį. Išnagrinėjęs atskirąjį skundą dėl nutarties dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą ir nutaręs nutartį panaikinti, teismas negali perduoti klausimo nagrinėti iš naujo šio straipsnio 5 dalyje nustatyta tvarka. Visais atvejais teismas, išnagrinėjęs prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą, priima nutartį. Ši teismo nutartis įsiteisėja nuo jos priėmimo dienos. Teismo nutartis gali būti skundžiama kasaciniu skundu pagal bylų proceso kasaciniame teisme taisykles.“
 
-\#### 11 straipsnis. Kodekso papildymas priedu
+## 11 straipsnis. Kodekso papildymas priedu
 
 Papildyti Kodeksą priedu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.86209F68A21F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.86209F68A21F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 3, 5, 7, 9, 10, 11, 12, 13, 14, 16, 20, 21, 28, 34, 36, 38, 39, 42, 44, 45, 49, 52, 53, 54, 55, 62, 67, 73 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B), Nr. [92-2858](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD36F0ABFB35); 2002, Nr. [95-4084](https://www.e-tar.lt/portal/lt/legalAct/TAR.19FA444F7992), Nr. [102-4550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA5CC14EC47); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. [38-1681](https://www.e-tar.lt/portal/lt/legalAct/TAR.DAA53BA648CC), Nr. 91(1)-4106; 2004, Nr. 4-28)
 
-\#### 1 straipsnis. 2 straipsnio 1, 6, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22 dalių pakeitimas ir straipsnio papildymas 27 dalimi
+## 1 straipsnis. 2 straipsnio 1, 6, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22 dalių pakeitimas ir straipsnio papildymas 27 dalimi
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Vilnius
 
 „27. **Karybos srities standartizacija** – NATO valstybių tarptautinėmis sutartimis ir susitarimais bei NATO institucijų sprendimais nustatytų NATO standartų įdiegimas reglamentuojant gynybos planavimą, karinių operacijų rengimą ir vykdymą, ginkluotę ir amuniciją, informacijos ir ryšių sistemas, kitas technines priemones, žemėlapius ir dokumentaciją bei kitus su krašto apsauga susijusius techninius klausimus. Karybos srities standartizacijos tvarką nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 2 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -118,7 +118,7 @@ Vilnius
 
 7) įgyvendinamos kitos narystės NATO ir dalyvavimo Europos Sąjungos bendrojoje gynybos politikoje priemonės, taip pat įstatymų nustatyta tvarka užtikrinamas narystės NATO ir dalyvavimo Europos Sąjungos bendrojoje gynybos politikoje priemonių įgyvendinimas.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -146,13 +146,13 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 3. Įstatymų ir kitų teisės aktų nustatyta tvarka Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai dalyvauja tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, taip pat užsienio valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai dalyvauja tarptautinėse operacijose, pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje.“
 
-\#### 4 straipsnis. 7 straipsnio papildymas 8 dalimi
+## 4 straipsnis. 7 straipsnio papildymas 8 dalimi
 
 Papildyti 7 straipsnį 8 dalimi:
 
 „8. Ne mažesnio kaip dalinio dydžio karinis vienetas taikos metu gali judėti už patvirtintų jo manevravimo teritorinių ribų tik pagal krašto apsaugos ministro įsakymą, suderintą su Respublikos Prezidentu.“
 
-\#### 5 straipsnis. 9 straipsnio 3, 4 ir 5 dalių pakeitimas
+## 5 straipsnis. 9 straipsnio 3, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -182,7 +182,7 @@ Papildyti 7 straipsnį 8 dalimi:
 
 „5. Administruodama krašto apsaugos sistemos personalą, Krašto apsaugos ministerija gali siųsti kandidatus mokytis užsienio karo ir kitose mokymo įstaigose. Kandidatų atrankos sąlygas ir tvarką nustato krašto apsaugos ministras.“
 
-\#### 6 straipsnis. 10 straipsnio 1 dalies ir 2 dalies 1, 2, 3, 8, 9 bei 14 punktų pakeitimas
+## 6 straipsnis. 10 straipsnio 1 dalies ir 2 dalies 1, 2, 3, 8, 9 bei 14 punktų pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -212,7 +212,7 @@ Papildyti 7 straipsnį 8 dalimi:
 
 „14) teikia Respublikos Prezidentui lauko pajėgų vado kandidatūrą, taip pat teikia siūlymus dėl kariuomenės vado kandidatūrų.“
 
-\#### 7 straipsnis. 11 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 9 dalimi
+## 7 straipsnis. 11 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 9 dalimi
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -222,7 +222,7 @@ Papildyti 7 straipsnį 8 dalimi:
 
 „9. Specialiosioms karinėms funkcijoms ir užduotims vykdyti gali būti sudaromi nuolatiniai junginiai ir kiti specializuoti kariuomenės vienetai.“
 
-\#### 8 straipsnis. 12 straipsnio pakeitimas
+## 8 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -242,7 +242,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 4. Pagal šio straipsnio 3 dalį vykdydamos Lietuvos Respublikos teritorijos karinę apsaugą, išskirtinės ekonominės zonos ir kontinentinio šelfo stebėjimą bei kontrolę, taip pat reaguodamos į Lietuvos Respublikos suvereniteto pažeidimus sausumoje, oro erdvėje ir teritorinėje jūroje, kitų NATO valstybių ginkluotosios pajėgos gali turėti tokias pačias teises, kokias Lietuvos Respublikos įstatymai ir kiti teisės aktai nustato Lietuvos kariuomenei.“
 
-\#### 9 straipsnis. 13 straipsnio 4, 6 ir 8 dalių pakeitimas
+## 9 straipsnis. 13 straipsnio 4, 6 ir 8 dalių pakeitimas
 
 1. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -256,7 +256,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „8. Vykdydamas įstatymų ir kitų teisės aktų nustatytas ar krašto apsaugos ministro pavestas funkcijas, kariuomenės vadas leidžia įsakymus ir duoda privalomus nurodymus kariuomenei (ginkluotosioms pajėgoms).“
 
-\#### 10 straipsnis. 14 straipsnio 1, 2, 3 ir 6 dalių pakeitimas
+## 10 straipsnis. 14 straipsnio 1, 2, 3 ir 6 dalių pakeitimas
 
 1. 14 straipsnio 1 dalyje po žodžių „valstybės gynybai“ įrašyti žodžius „ir karinėms operacijoms“ ir šią dalį išdėstyti taip:
 
@@ -274,7 +274,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „6. Pagal demokratinės civilių kontrolės principą operacinio vadovavimo karinėms operacijoms ir kitiems gynybos veiksmams grandinė prasideda nuo Respublikos Prezidento ir per krašto apsaugos ministrą paprastai eina kariuomenės vadui. Operacinio vadovavimo grandinėje Respublikos Prezidento ir krašto apsaugos ministro duotos užduotys įgyvendinamos kariuomenės vado įsakymais.“
 
-\#### 11 straipsnis. 16 straipsnio pakeitimas
+## 11 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -288,7 +288,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 4. Konkrečias reguliariųjų pajėgų rūšių, junginių ir savarankiškų dalinių funkcijas bei užduotis, vadovaudamasis gynybos ir tarptautinio karinio bendradarbiavimo poreikiais, nustato kariuomenės vadas.“
 
-\#### 12 straipsnis. 20 straipsnio pakeitimas
+## 12 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -310,7 +310,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 8. Pagal Krašto apsaugos ministerijos susitarimus su kitomis valstybės institucijomis ar atitinkamomis kitų valstybių institucijomis Akademijos statuto ir kitų teisės aktų nustatyta tvarka Akademijoje gali būti rengiami kitų valstybės institucijų valstybės tarnautojai, taip pat gali studijuoti užsienio valstybių piliečiai.“
 
-\#### 13 straipsnis. 21 straipsnio 7 dalies papildymas 4 bei 5 punktais ir 8 dalies pakeitimas
+## 13 straipsnis. 21 straipsnio 7 dalies papildymas 4 bei 5 punktais ir 8 dalies pakeitimas
 
 1. Papildyti 21 straipsnio 7 dalį 4 punktu:
 
@@ -324,7 +324,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 „8. Karys atlieka karo tarnybą krašto apsaugos sistemoje. Įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka karys gali atlikti tarnybą kitose valstybės, užsienio valstybių ar tarptautinėse institucijose.“
 
-\#### 14 straipsnis. 28 straipsnio 1 bei 3 dalių pakeitimas ir 4 dalies papildymas 3 ir 4 punktais
+## 14 straipsnis. 28 straipsnio 1 bei 3 dalių pakeitimas ir 4 dalies papildymas 3 ir 4 punktais
 
 1. Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -342,7 +342,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 „4) asmenys, kuriems pagal įstatymus negali būti suteikta teisė susipažinti su būtina kario pareigoms vykdyti įslaptinta informacija ir ja naudotis.“
 
-\#### 15 straipsnis. 34 straipsnio 3 ir 4 dalių pakeitimas
+## 15 straipsnis. 34 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 34 straipsnio 3 dalyje išbraukti žodžius „liktiniams ir“, vietoj žodžio „karinę“ įrašyti žodį „karo“ ir šią dalį išdėstyti taip:
 
@@ -352,7 +352,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 „4. Priimant asmenis į savanorių karo tarnybą, nustatomas nuo 3 iki 6 mėnesių bandomasis laikotarpis.“
 
-\#### 16 straipsnis. 36 straipsnio 1 dalies 2 punkto, 3, 7, 8 ir 11 dalių pakeitimas
+## 16 straipsnis. 36 straipsnio 1 dalies 2 punkto, 3, 7, 8 ir 11 dalių pakeitimas
 
 1. Pakeisti 36 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -374,7 +374,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 „11. Profesinės karo tarnybos kariai, kurie krašto apsaugos sistemoje eina sveikatos priežiūros specialisto (karo medicinos gydytojo ar jo padėjėjo) pareigas, turi teisę laisvu nuo tarnybos metu, nepažeisdami karinės tarnybos interesų, dirbti kitose sveikatos priežiūros įstaigose ir gauti už tai atlyginimą. Teisė dirbti kitose sveikatos priežiūros įstaigose įgyvendinama krašto apsaugos ministro nustatytomis sąlygomis ir tvarka.“
 
-\#### 17 straipsnis. 38 straipsnio 1 dalies 7 punkto, 2 dalies 13 punkto ir 4 dalies pakeitimas
+## 17 straipsnis. 38 straipsnio 1 dalies 7 punkto, 2 dalies 13 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 38 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -388,7 +388,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 „4. Teisę nutraukti profesinės karo tarnybos ar kario savanorio tarnybossutartį šiame straipsnyje numatytais pagrindais turi krašto apsaugos ministras arba jo įgalioti kariuomenės vadas bei kiti vadai ar pareigūnai.“
 
-\#### 18 straipsnis. 39 straipsnio 3 ir 4 dalių pakeitimas
+## 18 straipsnis. 39 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 39 straipsnio 3 dalyje po skaičiaus „4“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip:
 
@@ -398,7 +398,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 „4. Jeigu yra priimtas sprendimas nutraukti profesinės karo tarnybos sutartį šio įstatymo 38 straipsnio 1 dalies 5 ir 6 punktuose bei 2 dalies 4, 5, 6, 9, 10, 11 ir 12 punktuose ir 37 straipsnio 1 dalyje numatytais atvejais, o karys suserga iki numatytos atleidimo iš karo tarnybos dienos, iš pareigų jis gali būti atleistas ir ligos metu. Šiuo atveju jo atleidimo iš karo tarnybos diena nukeliama į kitą dieną po paskutinės ligos dienos, bet ne ilgiau kaip 60 dienų.“
 
-\#### 19 straipsnis. 42 straipsnio pakeitimas
+## 19 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnį ir jį išdėstyti taip:
 
@@ -438,7 +438,7 @@ Pakeisti 42 straipsnį ir jį išdėstyti taip:
 
 8. Kai karys netenka teisės susipažinti su įslaptinta informacija bei ja naudotis ir negali atlikti su tokios informacijos naudojimu susijusių pareigų, jis gali būti perkeliamas į kitas su tokios informacijos naudojimu nesusijusias pareigas, jeigu tokios yra. Jeigu iki pasibaigiant šio straipsnio 2 dalies 1 punkte numatytam perkėlimo į laikinąjį profesinės karo tarnybos personalo rezervą terminui neatsiranda su įslaptintos informacijos naudojimu nesusijusių pareigų, karys atleidžiamas iš profesinės karo tarnybos.“
 
-\#### 20 straipsnis. 44 straipsnio 1 ir 2 dalių pakeitimas
+## 20 straipsnis. 44 straipsnio 1 ir 2 dalių pakeitimas
 
 Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -448,7 +448,7 @@ Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2. Iš kario, su kuriuo prieš terminą nutraukiama profesinės karo tarnybos sutartis jo iniciatyva, arba kario, su kuriuo profesinės karo tarnybos sutartis nutraukiama 38 straipsnio 1 dalies 1, 2, 3, 5, 6, 8 punktuose ir 2 dalies 3, 4, 7, 8, 9, 10, 11 punktuose numatytais atvejais, įstatymų nustatyta tvarka gali būti išieškotos krašto apsaugos sistemos išlaidos, tiesiogiai susijusios su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu.“
 
-\#### 21 straipsnis. 45 straipsnio 4 dalies 1 punkto ir 5 dalies pakeitimas
+## 21 straipsnis. 45 straipsnio 4 dalies 1 punkto ir 5 dalies pakeitimas
 
 1. 45 straipsnio 4 dalies 1 punkte vietoj skaičiaus ir žodžio „35 metus“ įrašyti skaičių ir žodį „40 metų“ ir šį punktą išdėstyti taip:
 
@@ -458,7 +458,7 @@ Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Karo kapelionai, neatsižvelgiant į jų turimą laipsnį, gali būti išleidžiami į atsargą sukakę 60 metų, o vyriausiasis kariuomenės kapelionas – 65 metus.“
 
-\#### 22 straipsnis. 49 straipsnio pakeitimas
+## 22 straipsnis. 49 straipsnio pakeitimas
 
 49 straipsnio pavadinime išbraukti žodžius „Profesinės karo tarnybos“, „užsienyje“, 1 ir 2 dalyse išbraukti žodį „užsienyje“, 3 dalyje išbraukti žodžius „į užsienį“ ir šį straipsnį išdėstyti taip:
 
@@ -470,17 +470,17 @@ Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3. Kariai, pasiųsti stažuoti ar mokytis ilgiau kaip 3 mėnesiams, gali būti iš einamų pareigų perkelti į laikinąjį profesinės karo tarnybos personalo rezervą.“
 
-\#### 23 straipsnis. 52 straipsnio 4 dalies pripažinimas netekusia galios
+## 23 straipsnis. 52 straipsnio 4 dalies pripažinimas netekusia galios
 
 52 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 24 straipsnis. 53 straipsnio 3 dalies pakeitimas
+## 24 straipsnis. 53 straipsnio 3 dalies pakeitimas
 
 Pakeisti 53 straipsnį 3 dalį ją išdėstyti taip:
 
 „3. Pirmasis karininko laipsnis suteikiamas kariams, baigusiems Lietuvos Respublikos ar užsienio valstybių karo mokymo įstaigas ir davusiems karininko priesaiką. Šis laipsnis taip pat suteikiamas Lietuvos Respublikos piliečiams, turintiems aukštąjį išsilavinimą ir baigusiems specialius karinio rengimo kursus.“
 
-\#### 25 straipsnis. 54 straipsnio 1, 4, 5, 6, 7, 8, 9, 10 ir 16 dalių pakeitimas
+## 25 straipsnis. 54 straipsnio 1, 4, 5, 6, 7, 8, 9, 10 ir 16 dalių pakeitimas
 
 1. 54 straipsnio 1 dalyje po žodžio „Tikrosios“ įrašyti žodį „karo“, po žodžio „generolų“ įrašyti žodį „(admirolų)“, vietoj žodžio „etatus“ įrašyti žodžius „pareigybių sąrašus“ ir šią dalį išdėstyti taip:
 
@@ -518,7 +518,7 @@ Pakeisti 53 straipsnį 3 dalį ją išdėstyti taip:
 
 „16. Išimtiniais atvejais, kai skiriant karininką į vado (viršininko) pareigas to reikia pavaldinių subordinacijai pagal karinį laipsnį užtikrinti, krašto apsaugos ministras turi teisę pirma laiko ir nesilaikydamas šiame bei 55 straipsnyje nustatytų bendrųjų aukštesniojo karinio laipsnio suteikimo sąlygų suteikti skiriamam vadui (viršininkui) laikinąjį vyresniojo karininko karinį laipsnį, vienu laipsniu aukštesnį už jo turimąjį. Krašto apsaugos ministras laikinąjį karinį laipsnį taip pat gali suteikti karininkui, skiriamam į pareigas užsienyje, jei tai būtina pagal skiriamas pareigas. Laikinąjį generolo (admirolo) laipsnį suteikia Respublikos Prezidentas krašto apsaugos ministro teikimu, kai to reikia pavaldinių subordinacijai užtikrinti arba būtina pagal skiriamas pareigas.“
 
-\#### 26 straipsnis. 55 straipsnio 1, 3 ir 4 dalių pakeitimas
+## 26 straipsnis. 55 straipsnio 1, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 55 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -542,7 +542,7 @@ Pakeisti 53 straipsnį 3 dalį ją išdėstyti taip:
 
 2) vyresniųjų karininkų laipsniai iki pulkininko leitenanto (komandoro) įskaitytinai – krašto apsaugos ministro įsakymu.“
 
-\#### 27 straipsnis. 62 straipsnio 2 ir 3 dalių pakeitimas
+## 27 straipsnis. 62 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 62 straipsnio 2 dalyje išbraukti žodį „nustatytais“, papildyti dalį nauju sakiniu ir ją išdėstyti taip:
 
@@ -552,7 +552,7 @@ Pakeisti 53 straipsnį 3 dalį ją išdėstyti taip:
 
 „3. Kai karys savanoris išleidžiamas į atsargą, už garbingai atliktą tarnybą jam gali būti suteikta teisė iškilmingomis progomis dėvėti uniformą su atsargos kario skiriamaisiais ženklais.“
 
-\#### 28 straipsnis. 67 straipsnio pakeitimas
+## 28 straipsnis. 67 straipsnio pakeitimas
 
 Pakeisti 67 straipsnį ir jį išdėstyti taip:
 
@@ -588,7 +588,7 @@ Pakeisti 67 straipsnį ir jį išdėstyti taip:
 
 15. Šiame straipsnyje nustatytos kompensacijų išmokėjimo sąlygos ginkluotos gynybos nuo agresijos (karo) metu negalioja.“
 
-\#### 29 straipsnis. 73 straipsnio 3 dalies pakeitimas
+## 29 straipsnis. 73 straipsnio 3 dalies pakeitimas
 
 Pakeisti 73 straipsnio 3 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.558AA38991F5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.558AA38991F5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje 1988 m. protokolo ratifikavimo
@@ -26,11 +26,11 @@ DĖL 1974 M. TARPTAUTINĖS KONVENCIJOS DĖL ŽMOGAUS GYVYBĖS APSAUGOS JŪROJE 1
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. lapkričio 18 d. dekretą Nr. 456, ratifikuoja 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje 1988 m. protokolą, priimtą 1988 m. lapkričio 11 d. Londone.
 
-\#### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė nustato Protokolo įgyvendinimo tvarką.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.859D858A2ABC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.859D858A2ABC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės herbo" 2, 4 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1990, Nr. [17-439](https://www.e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3); 1996, Nr. [33-805](https://www.e-tar.lt/portal/lt/legalAct/TAR.E25F67BE8987); 1997, Nr. [65-1536](https://www.e-tar.lt/portal/lt/legalAct/TAR.D41105F980F2))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 2 straipsnio 1 dalį ir visą straipsnį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti bei papildyti 2 straipsnio 1 dalį ir visą straipsnį išdėstyti taip
 
 Antspauduose raitelis (valstybės herbo elementas) vaizduojamas ne herbinio skydo lauke.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 

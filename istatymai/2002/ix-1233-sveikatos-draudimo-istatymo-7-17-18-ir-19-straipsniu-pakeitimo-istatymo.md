@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A54BBA5F2576"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A54BBA5F2576.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo, Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo ir papildymo įstatymo, Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymo pripažinimo netekusiais galios įstatymas
@@ -26,39 +26,33 @@ SVEIKATOS DRAUDIMO ĮSTATYMO 7, 17, 18 IR 19 STRAIPSNIŲ PAKEITIMO ĮSTATYMO, SV
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-**Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo pripažinimas netekusiu galios**
+## PIRMASIS SKIRSNIS. Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo pripažinimas netekusiu galios
 
 (Žin., 2002, Nr. [52-1985](https://www.e-tar.lt/portal/lt/legalAct/TAR.AF29713ED2DD))
 
-\#### 1 straipsnis. Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo pripažinimas netekusiu galios
 
 Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių įstatymo pakeitimo įstatymą pripažinti netekusiu galios.
 
-\### ANTRASIS SKIRSNIS
-
-**Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo IR PAPILDYMO įstatymo pripažinimas netekusiu galios**
+## ANTRASIS SKIRSNIS. Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo IR PAPILDYMO įstatymo pripažinimas netekusiu galios
 
 (Žin., 2002, Nr. [72-3021](https://www.e-tar.lt/portal/lt/legalAct/TAR.6915932BBCF1))
 
-\#### 1 straipsnis. Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo ir papildymo įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo ir papildymo įstatymo pripažinimas netekusiu galios
 
 Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo ir papildymo įstatymą pripažinti netekusiu galios.
 
-\### TREČIASIS SKIRSNIS
-
-**Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymo pripažinimas netekusiu galios**
+## TREČIASIS SKIRSNIS. Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymo pripažinimas netekusiu galios
 
 (Žin., 2002, Nr. [105-4686](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF25BF4A772))
 
-\#### 1 straipsnis. Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymo pripažinimas netekusiu galios
 
 Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymą pripažinti netekusiu galios.
 
-\### KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo įsigaliojimas
+### 1 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

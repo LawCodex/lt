@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1F26A8EC99A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1F26A8EC99A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos" ir kitų su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas
@@ -26,11 +26,11 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo „Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo „Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios įstatymą „Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ (Žin., 1994, Nr. [47-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.52B76C116D38)).
 
-\#### 2 straipsnis. Kitų teisės aktų pripažinimas netekusiais galios
+## 2 straipsnis. Kitų teisės aktų pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios:
 
@@ -40,11 +40,11 @@ Pripažinti netekusiais galios:
 
 3) Seimo nutarimą „Dėl Lietuvos Respublikos įstatymo „ Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ įgyvendinimo“ (Žin., 1994, Nr. 47-869).
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. rugpjūčio 1 d.
 
-\#### 4 straipsnis. Pasiūlymai Vyriausybei
+## 4 straipsnis. Pasiūlymai Vyriausybei
 
 Pasiūlyti Vyriausybei iki 2000 m. rugsėjo 1 d.:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3B3B9C86CB9F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3B3B9C86CB9F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 4 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [58-1133](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A); 1998, Nr. [17-399](https://www.e-tar.lt/portal/lt/legalAct/TAR.2A090536927A); 2002, Nr. [13-465](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F16440E7447))
 
-\#### 1 straipsnis. 4 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 5 dalies pakeitimas
 
 Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Atlikti tarnybątarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai, taip pat asmenys, atliekantys civilinę krašto apsaugos tarnybą. Pagrindinį karinį parengimą įgiję privalomosios karo tarnybos kariai tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir rengimo tarptautinėms operacijoms tikslais.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Įstatymas įsigalioja nuo 2004 m. liepos 1 d.
 

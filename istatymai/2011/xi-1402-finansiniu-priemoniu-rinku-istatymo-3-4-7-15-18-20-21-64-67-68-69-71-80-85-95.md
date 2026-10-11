@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A1F398E49ADA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1F398E49ADA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3, 4, 7, 15, 18, 20, 21, 64, 67, 68, 69, 71, 80, 85, 95 straipsnių ir priedo pakeitimo ir papildymo bei įstatymo papildymo 90-1, 93-1 straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2007, Nr. [17-627](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2); 2009, Nr. [38-1438](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6CA18E4EC56); 2010, Nr. [71-3551](https://www.e-tar.lt/portal/lt/legalAct/TAR.43F09977EBC0))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 3 straipsnį nauja 15 dalimi:
 
@@ -46,19 +46,19 @@ Vilnius
 
 „29. **Priežiūros institucija** – Lietuvos Respublikos vertybinių popierių komisija (toliau – Vertybinių popierių komisija), taip pat kitų valstybių narių kompetentingos institucijos, vykdančios analogiškas funkcijas.“
 
-\#### 2 straipsnis. 4 straipsnio 9 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 9 dalies pakeitimas
 
 Pakeisti 4 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Finansų patarėjo įmonei netaikomi šio įstatymo 12 ir 15 straipsnių reikalavimai, tačiau ji privalo apdrausti savo profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 100 tūkstančių litų vienam draudžiamajam įvykiui ir 500 tūkstančių litų visiems draudžiamiesiems įvykiams per metus. Finansų patarėjo įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.“
 
-\#### 3 straipsnis. 7 straipsnio 1 dalies 7 punkto pakeitimas
+## 3 straipsnis. 7 straipsnio 1 dalies 7 punkto pakeitimas
 
 7 straipsnio 1 dalies 7 punkte po žodžio „depozitoriumo“ įrašyti žodžius „(toliau – Centrinis depozitoriumas)“ ir šį punktą išdėstyti taip:
 
 „7) bent vienas įmonės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ar Lietuvos centrinio vertybinių popierių depozitoriumo (toliau – Centrinis depozitoriumas) darbuotojas;“.
 
-\#### 4 straipsnis. 15 straipsnio pakeitimas
+## 4 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -72,25 +72,25 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 4. Finansų maklerio įmonės pelno paskirstymo tvarką reglamentuoja Finansų įstaigų įstatymas.“
 
-\#### 5 straipsnis. 18 straipsnio 4 punkto pakeitimas
+## 5 straipsnis. 18 straipsnio 4 punkto pakeitimas
 
 18 straipsnio 4 punkte po žodžio „kapitalo“ įrašyti žodžius „ir kitus riziką ribojančius“ ir šį punktą išdėstyti taip:
 
 „4) finansų maklerio įmonių kapitalo ir kitus riziką ribojančius reikalavimus;“.
 
-\#### 6 straipsnis. 20 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 20 straipsnio 3 dalies pakeitimas
 
 20 straipsnio 3 dalyje išbraukti žodį „tarpines“, po žodžio „finansines“ įrašyti žodžius „ir priežiūrai skirtas“ ir šią dalį išdėstyti taip:
 
 „3. Finansų maklerio įmonės Vertybinių popierių komisijos nustatyta tvarka ir atvejais privalo pateikti kapitalo pakankamumo skaičiavimo ataskaitą, finansines ir priežiūrai skirtas ataskaitas, veiklos ataskaitą ir kitus Vertybinių popierių komisijos nustatytus dokumentus.“
 
-\#### 7 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 21 straipsnio 1 dalyje po žodžio „privalo“ įrašyti žodžius „vengti interesų konfliktų ir“ ir šią dalį išdėstyti taip:
 
 „1. Finansų maklerio įmonė privalo vengti interesų konfliktų ir imtis visų reikalingų priemonių, skirtų nustatyti interesų konfliktus, kylančius tarp įmonės, jos vadovų, darbuotojų, agentų, taip pat kitų su įmone tiesiogiai ar netiesiogiai kontrolės ryšiais susijusių asmenų ir įmonės klientų arba vien tik tarp įmonės klientų, kai interesų konfliktai kyla įmonei teikiant investicines paslaugas, papildomas paslaugas arba jų derinį.“
 
-\#### 8 straipsnis. 64 straipsnio 3 ir 4 dalių pakeitimas
+## 8 straipsnis. 64 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 „4. Lietuvos Respublikoje registruotų sąskaitų tvarkytojų bendrosios klientų sąskaitos gali būti atidaromos sąskaitų tvarkytojų vardu pas kitą Lietuvos Respublikoje registruotą sąskaitų tvarkytoją, nurodant, kad jie veikia kaip sąskaitų tvarkytojai ir kad sąskaita yra atidaryta klientų naudai. Lietuvos Respublikoje registruoti sąskaitų tvarkytojai, kurių vardu yra atidarytos tokios sąskaitos, Vertybinių popierių komisijos ar Centrinio depozitoriumoreikalavimu privalo nurodyti klientus, kurių naudai yra įgytos finansinės priemonės.“
 
-\#### 9 straipsnis. 67 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 67 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 67 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti ir papildyti 67 straipsnį ir jį išdėstyti taip:
 
 11. Asmens, įsigijusio Centrinio depozitoriumo akcijų paketą arba padidinusio akcijų paketą daugiau negu šio įstatymo 10 straipsnio 1 dalyje numatytos ribos negavus Vertybinių popierių komisijos sprendimo neprieštarauti siūlomam įsigijimui arba nepasibaigus siūlomo įsigijimo vertinimui, visos turimos akcijos praranda balsavimo teisę visuotiniame akcininkų susirinkime. Balsavimo teisė vėl įgyjama tą dieną, kurią gaunamas Vertybinių popierių komisijos sprendimas neprieštarauti siūlomam įsigijimui, arba jeigu Vertybinių popierių komisija vertinimo laikotarpiu nepareiškia prieštaravimo įsigijimui.“
 
-\#### 10 straipsnis. 68 straipsnio 1 ir 2 dalių papildymas
+## 10 straipsnis. 68 straipsnio 1 ir 2 dalių papildymas
 
 1. Papildyti 68 straipsnio 1 dalį 15 punktu:
 
@@ -152,13 +152,13 @@ Pakeisti ir papildyti 67 straipsnį ir jį išdėstyti taip:
 
 „4) sudaryti sandorius su kitais asmenimis, pagal kuriuos šiems asmenims būtų perduodamas su finansinių priemonių ir jų apyvartos apskaita ir finansinių priemonių pervedimu susijusių funkcijų techninis atlikimas, jeigu tam neprieštarauja Vertybinių popierių komisija.“
 
-\#### 11 straipsnis. 69 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 69 straipsnio 1 dalies pakeitimas
 
 Pakeisti 69 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Finansinių priemonių rinkas reguliuoja ir prižiūri Vertybinių popierių komisija.“
 
-\#### 12 straipsnis. 71 straipsnio pakeitimas
+## 12 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
@@ -212,13 +212,13 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
 5. Vertybinių popierių komisijos veiksmai ar neveikimas gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 13 straipsnis. 80 straipsnio 5 dalies pakeitimas
+## 13 straipsnis. 80 straipsnio 5 dalies pakeitimas
 
 Pakeisti 80 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Šio įstatymo 76 ir 82 straipsnių bei šio straipsnio nuostatos neužkerta kelio Vertybinių popierių komisijai perduoti konfidencialią informaciją Lietuvos bankui, Europos centrinių bankų sistemos centriniams bankams ir kitoms analogiškas funkcijas atliekančioms institucijoms, kai ši informacija reikalinga teisės aktuose nustatytoms jų funkcijoms (įskaitant pinigų politikos vykdymą ir likvidumo užtikrinimą, mokėjimo, kliringo ir atsiskaitymo sistemų priežiūrą ir finansinės sistemos stabilumo užtikrinimą) atlikti, taip pat Lietuvos Respublikos finansų ministerijai ir kitų valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu konfidenciali informacija reikalinga jų funkcijoms atlikti.“
 
-\#### 14 straipsnis. 85 straipsnio 2 dalies 2 ir 5 punktų pakeitimas
+## 14 straipsnis. 85 straipsnio 2 dalies 2 ir 5 punktų pakeitimas
 
 1. 85 straipsnio 2 dalies 2 punkte išbraukti žodį „reguliuojamų“ ir šį punktą išdėstyti taip:
 
@@ -228,7 +228,7 @@ Pakeisti 80 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5) laikinai paimti tikrinamų finansų maklerio įmonių, kredito įstaigų, valdymo įmonių, finansų patarėjo įmonių, rinkų operatorių, Centrinio depozitoriumo, emitentų dokumentus, kurie gali būti panaudojami kaip pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo ir paimtų dokumentų apyrašą;“.
 
-\#### 15 straipsnis. Įstatymo papildymas 901 straipsniu
+## 15 straipsnis. Įstatymo papildymas 901 straipsniu
 
 Papildyti Įstatymą 90^1straipsniu:
 
@@ -242,7 +242,7 @@ Papildyti Įstatymą 90^1straipsniu:
 
 2. Jungtinės (konsoliduotos) priežiūros atlikimo tvarką nustato Vertybinių popierių komisija.“
 
-\#### 16 straipsnis. Įstatymo papildymas 931 straipsniu
+## 16 straipsnis. Įstatymo papildymas 931 straipsniu
 
 Papildyti Įstatymą 93^1 straipsniu:
 
@@ -254,13 +254,13 @@ Papildyti Įstatymą 93^1 straipsniu:
 
 3. Vertybinių popierių komisija asmenims, nesilaikantiems reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, turi teisę šio įstatymo nustatyta tvarka taikyti šiame reglamente nustatytas priežiūros priemones ir reglamente bei šio įstatymo 86 straipsnio 1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.“
 
-\#### 17 straipsnis. 95 straipsnio 1 dalies papildymas 11 punktu
+## 17 straipsnis. 95 straipsnio 1 dalies papildymas 11 punktu
 
 Papildyti 95 straipsnio 1 dalį 11 punktu:
 
 „11) juridiniams asmenims, nesilaikantiems reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, – iki 200 tūkstančių litų.“
 
-\#### 18 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+## 18 straipsnis. Įstatymo priedo pakeitimas ir papildymas
 
 1. Papildyti Įstatymo priedą nauju 4 punktu:
 
@@ -276,7 +276,7 @@ Papildyti 95 straipsnio 1 dalį 11 punktu:
 
 „7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1).“
 
-\#### 19 straipsnis. Šio įstatymo 4 straipsnio taikymas
+## 19 straipsnis. Šio įstatymo 4 straipsnio taikymas
 
 Finansų maklerio įmonės, rinkos operatorius ir Centrinis depozitoriumas, vadovaudamiesi šio įstatymo 4 straipsniu, pagal tarptautinius apskaitos standartus sudaro 2012 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių finansines ataskaitas.
 

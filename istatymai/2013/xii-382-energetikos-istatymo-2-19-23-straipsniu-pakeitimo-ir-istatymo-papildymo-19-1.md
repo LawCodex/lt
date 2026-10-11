@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3FF76B311D7A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3FF76B311D7A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 2, 19, 23 straipsnių pakeitimo ir įstatymo papildymo 19-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2011, Nr. [160-7576](https://www.e-tar.lt/portal/lt/legalAct/TAR.C2DAB42D5532))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 3 dalimi:
 
@@ -44,13 +44,13 @@ Vilnius
 
 6. Buvusias 2 straipsnio 24–33 dalis laikyti atitinkamai 26–35 dalimis.
 
-\#### 2 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Energetikos sektoriuje kainos yra sutartinės ir valstybės reguliuojamos. Kainos reguliuojamos tvirtinant paslaugų ar energijos kainas, nustatant jų viršutines ribas ar kainų reguliavimo tvarką. Valstybės reguliuojamų kainų reguliavimo principai nustatomi šiame įstatyme ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose.“
 
-\#### 3 straipsnis. Įstatymo papildymas 191 straipsniu
+## 3 straipsnis. Įstatymo papildymas 191 straipsniu
 
 Papildyti Įstatymą 19^1 straipsniu:
 
@@ -70,7 +70,7 @@ Papildyti Įstatymą 19^1 straipsniu:
 
 4. Energetikos įmonės pajamų ir sąnaudų ataskaitą parengia ir pateikia Komisijai per 30 dienų pasibaigus kalendorinių metų ketvirčiui Komisijos nustatyta tvarka.“
 
-\#### 4 straipsnis. 23 straipsnio 6 dalies papildymas ir pakeitimas
+## 4 straipsnis. 23 straipsnio 6 dalies papildymas ir pakeitimas
 
 1. Papildyti 23 straipsnio 6 dalį nauju 8 punktu:
 
@@ -82,7 +82,7 @@ Papildyti Įstatymą 19^1 straipsniu:
 
 3. Buvusį 23 straipsnio 6 dalies 8 punktą laikyti 10 punktu.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2013 m. liepos 1 d.
 

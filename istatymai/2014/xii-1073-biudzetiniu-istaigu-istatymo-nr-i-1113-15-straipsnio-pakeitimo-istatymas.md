@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d22e12c0126111e4adf3c8c5d7681e73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D22E12C01261.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 15 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO NR. I-1113 15 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas
+## 1 straipsnis. 15 straipsnio pakeitimas
 
 1. Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „3. Sprendimą likviduoti biudžetinę įstaigą priėmusi savininko teises ir pareigas įgyvendinanti institucija arba teismas privalo paskirti likvidatorių arba sudaryti likvidacinę komisiją.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2015 m. sausio 1 d.
 

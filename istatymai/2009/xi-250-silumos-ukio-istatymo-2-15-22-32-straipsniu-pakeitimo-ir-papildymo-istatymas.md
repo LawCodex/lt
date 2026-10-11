@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.43A67B9687BB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43A67B9687BB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 2, 15, 22, 32 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį nauja 11 dalimi:
 
@@ -62,7 +62,7 @@ Vilnius
 
 11. Buvusias 40–42 dalis laikyti atitinkamai 46–48 dalimis.
 
-\#### 2 straipsnis. 15 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 15 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Vilnius
 
 „2. Kol vartotojai pasirenka karšto vandens tiekėją arba apsirūpinimo karštu vandeniu būdą, karšto vandens tiekėjas yra šilumos tiekėjas. Karšto vandens apskaitos prietaisus daugiabučio namo butuose ir kitose patalpose įrengia, prižiūri ir jų patikrą atlieka karšto vandens tiekėjas, jeigu iki šio įstatymo įsigaliojimo sudarytose karšto vandens apskaitos prietaisų įrengimo, priežiūros ir patikros daugiabučio namo butuose ir kitose patalpose sutartyse nenumatyta kitaip.“
 
-\#### 3 straipsnis. 22 straipsnio pakeitimas
+## 3 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 4. Šilumos ir (ar) karšto vandens įmonių informacija apie veiklos sąnaudas, sistemų eksploatavimą, modernizavimą, plėtrą, investicijas į sistemos plėtrą, kainų ir tarifų struktūrą, paslaugų teikimo sąlygas yra vieša.“
 
-\#### 4 straipsnis. 32 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 32 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 „18. Šilumos ar karšto vandens kainų dedamųjų galiojimo laikotarpiu patirtos, bet nepadengtos sąnaudos arba gautos papildomos pajamos, susidariusios dėl kuro, pirktos šilumos, geriamojo vandens faktinių kainų ir nustatant šilumos ar karšto vandens kainas įskaičiuotų kainų skirtumo, įvertinamos skaičiuojant būsimojo laikotarpio šilumos ar karšto vandens kainų dedamąsias.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnio 7 dalies nuostatą, kad Šilumos kainų nustatymo metodika parengta pagal Valstybinės kainų ir energetikos kontrolės komisijos parengtus ir Vyriausybės patvirtintus Šilumos kainų nustatymo metodikos principus, kuri įsigalioja 2010 m. sausio 1 d., ir šio straipsnio 2 dalį, įsigalioja 2009 m. liepos 1 d.
 

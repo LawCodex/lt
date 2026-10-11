@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D8FFD95B82A9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D8FFD95B82A9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymo 5, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [66-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76); 2002, Nr. [123-5558](https://www.e-tar.lt/portal/lt/legalAct/TAR.98F43C3F0156); 2004, Nr. [116-4324](https://www.e-tar.lt/portal/lt/legalAct/TAR.35857BF6BFA9); 2006, Nr. [77-2972](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5B49B4387E9); 2007, Nr. [61-2339](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6493C2121D2))
 
-\#### 1 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
+## 1 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Jeigu regionas sudaromas iš kelių bendras ribas turinčių savivaldybių ir šio regiono ribos nesutampa su apskričių teritorijų ribomis, Vidaus reikalų ministerija šį klausimą derina su į tokį regioną įeisiančių savivaldybių tarybomis.“
 
-\#### 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 3) įvertinusi valstybės institucijų ir savivaldybių bei socialinių ir ekonominių partnerių iniciatyvas bei pasiūlymus.“
 
-\#### 3 straipsnis. 9 straipsnio 1 dalies 4 punkto ir 4 dalies pakeitimas
+## 3 straipsnis. 9 straipsnio 1 dalies 4 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -66,13 +66,13 @@ Vilnius
 
 „4. Vyriausybei išskyrus problemines teritorijas ir patvirtinus regionų socialinių ir ekonominių skirtumų mažinimo programą, Vidaus reikalų ministerija, bendradarbiaudama su savivaldybių, esančių išskirtose probleminėse teritorijose, administracijomis, organizuoja probleminės teritorijos plėtros programos parengimą. Probleminės teritorijos plėtros programą svarsto Nacionalinė regioninės plėtros taryba. Nacionalinės regioninės plėtros tarybos pritarimu probleminės teritorijos plėtros programą tvirtina Vyriausybė.“
 
-\#### 4 straipsnis. 10 straipsnio 7 punkto pakeitimas
+## 4 straipsnis. 10 straipsnio 7 punkto pakeitimas
 
 10 straipsnio 7 punkte išbraukti žodžius „ir paskiria instituciją šio Įstatymo 14 straipsnyje numatytiems įgaliojimams vykdyti“ ir šį punktą išdėstyti taip:
 
 „7)sudaro regionus iš kelių bendras ribas turinčių apskričių ar savivaldybių, nustato jų plėtros tarybų sudarymo tvarką.“
 
-\#### 5 straipsnis. 11 straipsnio 2 ir 3 dalių pakeitimas
+## 5 straipsnis. 11 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -106,13 +106,13 @@ Vilnius
 
 „3. Valstybės institucijos ir savivaldybės, kurioms Vidaus reikalų ministerija pateikė pasiūlymus dėl regionų socialinių ir ekonominių skirtumų mažinimo programos, probleminių teritorijų plėtros programų ir regionų plėtros planų įgyvendinimo, turi pateikti Vidaus reikalų ministerijai motyvuotą informaciją, į kokias rekomendacijas neatsižvelgta.“
 
-\#### 6 straipsnis. 12 straipsnio 4 dalies 4 punkto pakeitimas
+## 6 straipsnis. 12 straipsnio 4 dalies 4 punkto pakeitimas
 
 Pakeisti 12 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) svarsto ir teikia Vidaus reikalų ministerijai išvadas dėl regionų plėtros programos, skirtos tobulinti regioninės plėtros planavimą, teikti pagalbą savivaldybėms rengiant vietines iniciatyvas atitinkančius projektinius pasiūlymus ir plėtoti tarptautinį bendradarbiavimą regioninės politikos srityje, įgyvendinimo, lėšų panaudojimo;“.
 
-\#### 7 straipsnis. 13 straipsnio 1, 2 dalių, 6 dalies 7 punkto pakeitimas ir 6 dalies papildymas 11 punktu
+## 7 straipsnis. 13 straipsnio 1, 2 dalių, 6 dalies 7 punkto pakeitimas ir 6 dalies papildymas 11 punktu
 
 1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -130,7 +130,7 @@ Pakeisti 12 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „11) svarsto pasiūlymus dėl atstovavimo regionui tarptautinėse regionų bendradarbiavimo organizacijose ir dėl bendradarbiavimo su kitų valstybių regionais.“
 
-\#### 8 straipsnis. 14 straipsnio pakeitimas
+## 8 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -178,7 +178,7 @@ Vidaus reikalų ministerija arba jos įgaliota institucija, įgyvendindama nacio
 
 8) atlieka kitas įstatymų, Vyriausybės nutarimų ir įstaigos prie Vidaus reikalų ministerijos nuostatų numatytas funkcijas.“
 
-\#### 9 straipsnis. Įstatymo galiojimas
+## 9 straipsnis. Įstatymo galiojimas
 
 1. Šis įstatymas, išskyrus 2 straipsnio 2 dalį ir 8 straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
 

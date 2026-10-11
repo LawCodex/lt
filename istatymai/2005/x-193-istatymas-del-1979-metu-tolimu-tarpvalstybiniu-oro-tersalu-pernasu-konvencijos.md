@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2417211B3AD8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2417211B3AD8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolo dėl tolesnio išmetamų sieros teršalų mažinimo ratifikavimo
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. vasario 9 d. dekretą Nr. 201, ratifikuoja 1994 m. birželio 14 d. Osle priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl tolesnio išmetamų sieros teršalų mažinimo.
 

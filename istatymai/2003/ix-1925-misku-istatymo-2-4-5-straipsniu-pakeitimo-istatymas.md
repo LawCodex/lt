@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7501477AA243"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7501477AA243.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981))
 
-\#### 1 straipsnis. 2 straipsnio 9, 10, 11 ir 14 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 9, 10, 11 ir 14 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „14. **Miškų urėdija** – valstybės įmonė, patikėjimo teise valdanti, naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvarka, taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose numatytą veiklą.“
 
-\#### 2 straipsnis. 4 straipsnio 1, 2 ir 6 dalių pakeitimas
+## 2 straipsnis. 4 straipsnio 1, 2 ir 6 dalių pakeitimas
 
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „6. Valstybinę miško žemę patikėjimo teise valdo miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, kitos valstybės įmonės ir organizacijos. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Žemės įstatymo nustatyta tvarka.“
 
-\#### 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 4) konsultuoja privačių miškų savininkus miško naudojimo, atkūrimo, priežiūros ir apsaugos klausimais.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šio Įstatymo 3 straipsnis įsigalioja nuo 2004 m. sausio 1 d., 1 ir 2 straipsniai įsigalioja nuo 2004 m. gegužės 1 d.
 

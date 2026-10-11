@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.30D5FF1FB7FC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.30D5FF1FB7FC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 78 ir 80 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5); 2004, Nr. [17-505](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC724525A9B9))
 
-\#### 1 straipsnis. 78 straipsnio 5 ir 7 dalių pakeitimas
+## 1 straipsnis. 78 straipsnio 5 ir 7 dalių pakeitimas
 
 1. 78 straipsnio 5 dalyje po žodžio „blanko“ įrašyti žodžius „išskyrus PVM sąskaitas-faktūras, nurodytas šio Įstatymo 80 straipsnio 7 dalyje“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų ar trečiosios šalies) išrašytos PVM sąskaitos-faktūros, taip pat jų gautos PVM sąskaitos-faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos-faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos-faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo saugoti dokumentus tokios formos (rašytinės ar elektroninės), kokios jie buvo išrašyti ar gauti, bei užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų-faktūrų kilmės autentiškumas bei turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi, tačiau tais atvejais, kai teikiamos šio Įstatymo 14 straipsnio 6 dalyje nurodytos paslaugos, apmokestinamųjų asmenų išsiųstos rašytinės formos PVM sąskaitos-faktūros gali būti saugomos tik elektronine forma. Jeigu PVM sąskaitos-faktūros yra elektroninės formos, kartu turi būti saugomi ir duomenys, užtikrinantys kilmės autentiškumą bei turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos-faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos-faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma 1976 m. kovo 15 d. Tarybos direktyva 76/308/EEB dėl savitarpio pagalbos patenkinant pretenzijas, kylančias dėl operacijų, kurios įeina į Europos žemės ūkio orientavimo ir garantijų fondo finansavimo sistemą, ir dėl žemės ūkio produktų importo išlyginamųjų bei muito mokesčių susigrąžinimo ir 2003 m. spalio 7 d. Tarybos reglamentas 1798/2003 dėl administracinio bendradarbiavimo pridėtinės vertės mokesčio srityje.“
 
-\#### 2 straipsnis. 80 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 7 dalimi
+## 2 straipsnis. 80 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 7 dalimi
 
 1. 80 straipsnio 2 dalyje po žodžių „kurie nėra apmokestinamieji asmenys“ įrašyti žodžius „ir kai tiekiamos PVM neapmokestinamos prekės ir teikiamos PVM neapmokestinamos paslaugos, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija ir kurios nurodytos šio Įstatymo IV skyriuje“ ir šią dalį išdėstyti taip:
 

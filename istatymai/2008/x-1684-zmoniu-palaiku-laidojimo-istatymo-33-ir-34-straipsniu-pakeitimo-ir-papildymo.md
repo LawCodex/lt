@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B01661A08740"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B01661A08740.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymo 33 ir 34 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [140-5763](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE))
 
-\#### 1 straipsnis. 33 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 33 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „4. Šio įstatymo 20 straipsnio 2 dalis įsigalioja 2009 m. liepos 1 d.“
 
-\#### 2 straipsnis. 34 straipsnio pakeitimas
+## 2 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.67130A0396FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.67130A0396FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo ''Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo ir papildymo įstatymas
@@ -28,27 +28,27 @@ Vilnius
 
 (Žin., 1995, Nr. [103-2302](https://www.e-tar.lt/portal/lt/legalAct/TAR.11F4B795287C); 1996, Nr. [33-811](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0DA1F4A47C5), Nr. [44-1067](https://www.e-tar.lt/portal/lt/legalAct/TAR.4463F132BFA8), Nr. [60-1410](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D8160DD444A), Nr. [67-1599](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5FA1C684921))
 
-\#### 1 straipsnis. Asignavimų perskirstymas
+## 1 straipsnis. Asignavimų perskirstymas
 
 Perskirstyti Lietuvos Respublikos Seimui skirtų asignavimų paprastąsias ir nepaprastąsias išlaidas.
 
-\#### 2 straipsnis. Asignavimų sumažinimas
+## 2 straipsnis. Asignavimų sumažinimas
 
 Sumažinti valstybės biudžeto asignavimus Pramonės ir prekybos ministerijai, Sveikatos apsaugos ministerijai ir Lietuvos valstybinei kokybės inspekcijai prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos 15 tūkst. litų.
 
-\#### 3 straipsnis. Biudžeto deficito padidinimas
+## 3 straipsnis. Biudžeto deficito padidinimas
 
 Padidinti 1996 metų valstybės biudžeto deficitą 2330 tūkst. litų ir suteikti Lietuvos Respublikos Vyriausybei teisę papildomai išleisti valstybės vertybinių popierių.
 
-\#### 4 straipsnis. Asignavimų padidinimas
+## 4 straipsnis. Asignavimų padidinimas
 
 Padidinti valstybės biudžeto asignavimus Vyriausiajai rinkimų komisijai – 2330 tūkst. litų paprastosioms išlaidoms, iš jų darbo užmokesčiui – 1250 tūkst. litų.
 
-\#### 5 straipsnis. Asignavimų skyrimas
+## 5 straipsnis. Asignavimų skyrimas
 
 Skirti valstybės biudžeto asignavimus Valstybinei tabako ir alkoholio kontrolės tarnybai prie Lietuvos Respublikos Vyriausybės – 15 tūkst. litų.
 
-\#### 6 straipsnis. Įstatymo 1 priedėlio dalies „Išlaidos“ pakeitimas
+## 6 straipsnis. Įstatymo 1 priedėlio dalies „Išlaidos“ pakeitimas
 
 Pakeisti 1 priedėlio dalyje „Išlaidos“:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C7F7F17B0A27"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C7F7F17B0A27.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 2003, Nr. [102-4582](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA480B3B3926); 2004, Nr. [117-4374](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CB43D4773A6), Nr. [156-5696](https://www.e-tar.lt/portal/lt/legalAct/TAR.57D6265C3F49); 2005, Nr. [88-3282](https://www.e-tar.lt/portal/lt/legalAct/TAR.0E8C5FB7E862))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -48,13 +48,13 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 3. Iš kompensacijoms mokėti numatytų valstybės biudžeto lėšų 20 procentų kasmet skiriama asmenims ir jų paveldėtojams, sergantiems sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą. Tuo atveju, kai lieka nepanaudotų šiam tikslui skirtų lėšų, jos išmokamos šio straipsnio 2 dalyje išvardytiems piliečiams.“
 
-\#### 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Piniginės kompensacijos už valstybės išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius patvirtina apskričių viršininkai. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus patvirtina savivaldybių vykdomosios institucijos.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 1. 9 straipsnio 2 dalies 2 punkte po žodžio „dalį“ įrašyti žodžius „kuri negali viršyti valstybės remiamų būsto kreditų nustatytų dydžių“, 5 punkte po žodžio „vertę“ įrašyti žodį „arba“, papildyti šią dalį 6 punktu ir visą dalį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „14. Valstybės garantijos nuomininkams vykdomos Vyriausybės nustatyta tvarka, bet ne vėliau kaip šio straipsnio 11 dalyje nustatyti terminai. Valstybės garantijoms įvykdyti Vyriausybės nustatytais terminais ir tvarka turi būti atliktas nuomojamų gyvenamųjų patalpų rinkos vertės patikslinimas pagal valstybės garantijos išdavimo metu užfiksuotą nuomojamų (nuomotų) gyvenamųjų patalpų būklę, nustatant vertės pokyčius rinkoje.Vyriausybė kasmet, atsižvelgdama į valstybės finansines išgales, valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekte numato lėšas valstybės garantijoms vykdyti ir savivaldybių pagal šio straipsnio 2 dalies 5 punkte nustatytą valstybės garantiją nuomojamoms gyvenamosioms patalpoms įsigyti laikantis Valstybėsparamos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatyme nustatyto socialinio būsto naudingojo ploto normatyvo, bet ne vėliau kaip iki 2009m. Įsigytos patalpos savivaldybėms priklauso nuosavybės teise.“
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo 1 straipsnyje išdėstyto įstatymo 7 straipsnio 1 dalis įsigalioja nuo 2007 m. sausio 1 d.
 

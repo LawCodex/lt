@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0bb8b1804c3011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0BB8B1804C30.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 8 priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ PIRKIMŲ, ATLIEKAMŲ VANDENTVARKOS, ENERGETIKOS, TRANSPORTO AR PAŠTO PASLAUGŲ 
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo 8 priedo pakeitimas
+## 1 straipsnis. Įstatymo 8 priedo pakeitimas
 
 Pakeisti Įstatymo 8 priedą ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ perkančiųjų subjektų, įstatymo
 
 _______________“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. spalio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E7F4E5D19757"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E7F4E5D19757.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [51-1243](https://www.e-tar.lt/portal/lt/legalAct/TAR.61BB05227699); 2001, Nr. [112-4070](https://www.e-tar.lt/portal/lt/legalAct/TAR.820E9B3007ED); 2003, Nr. [73-3346](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B7FC99423FC), Nr. [116-5257](https://www.e-tar.lt/portal/lt/legalAct/TAR.496CB2651071); 2006, Nr. [4-101](https://www.e-tar.lt/portal/lt/legalAct/TAR.554AA106A979); 2007, Nr. [77-3051](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D7442602653); 2008, Nr. [137-5376](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2726FB41694))
 
-\#### 1 straipsnis. 2 straipsnio 2 ir 5 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 2 ir 5 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „5. **Valstybinio audito išvada**– Valstybės kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus finansinį (teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto finansinių ir biudžeto vykdymo ataskaitų rinkinių, metinių konsoliduotųjų ataskaitų rinkinių, nacionalinio ataskaitų rinkinio ir kitų ataskaitų duomenų bei valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo ir jų naudojimo įstatymų nustatytiems tikslams.“
 
-\#### 2 straipsnis. 9 straipsnio 2, 3 ir 5 dalių pakeitimas
+## 2 straipsnis. 9 straipsnio 2, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 

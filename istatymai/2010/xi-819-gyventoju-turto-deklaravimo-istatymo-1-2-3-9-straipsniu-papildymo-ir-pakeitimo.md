@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D456A3296B36"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D456A3296B36.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 1, 2, 3, 9 straipsnių papildymo ir pakeitimo ir įstatymo papildymo 7-2 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 2003, Nr. [123-5583](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE03A85CB721); 2005, Nr. [18-577](https://www.e-tar.lt/portal/lt/legalAct/TAR.14A032384AFA); 2008, Nr. [138-5445](https://www.e-tar.lt/portal/lt/legalAct/TAR.D202C1148A3A); 2010, Nr. [25-1178](https://www.e-tar.lt/portal/lt/legalAct/TAR.39357930107A))
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams,kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo arba piniginės socialinės paramos skyrimo.“
 
-\#### 2 straipsnis. 2 straipsnio 1 dalies papildymas 23 punktu ir 2 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 1 dalies papildymas 23 punktu ir 2 dalies pakeitimas
 
 1. Papildyti 2 straipsnio 1 dalį 23 punktu:
 
@@ -42,7 +42,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „2. Šio straipsnio 1 dalies 1–20 ir 23punktuosenurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą.“
 
-\#### 3 straipsnis. 3 straipsnio 1 ir 5 dalių pakeitimas
+## 3 straipsnis. 3 straipsnio 1 ir 5 dalių pakeitimas
 
 1. 3 straipsnio 1 dalyje po skaičių „1–21“ įrašyti žodį ir skaičių „ir 23“ ir šią dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „5. Šio Įstatymo 2 straipsnio 1 dalies 20, 21 ir 23 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.“
 
-\#### 4 straipsnis. Įstatymo papildymas 72 straipsniu
+## 4 straipsnis. Įstatymo papildymas 72 straipsniu
 
 Papildyti Įstatymą 7^2 straipsniu:
 
@@ -78,7 +78,7 @@ Papildyti Įstatymą 7^2 straipsniu:
 
 3. Gyventojai, ketinantys suteikti auką politinei partijai ar politinės kampanijos dalyviui, ir jų šeimos nariai deklaruoja turtą (įskaitant gautas pajamas) pateikdami mokesčio administratoriui du deklaracijos egzempliorius. Vietos mokesčio administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį deklaracijos egzempliorių gyventojai pateikia politinės partijos finansininkui ar politinės kampanijos iždininkui.“
 
-\#### 5 straipsnis. 9 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 9 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 9 straipsnį nauja 2 dalimi:
 
@@ -86,7 +86,7 @@ Papildyti Įstatymą 7^2 straipsniu:
 
 2. Buvusią 9 straipsnio 2 dalį laikyti 3 dalimi.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2010 m. rugsėjo 15 d.
 

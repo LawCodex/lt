@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.09C7D3014973"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.09C7D3014973.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 10, 11, 16, 17, 43, 58, 59 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [55-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B); 2003, Nr. [75-3473](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C7D1D0B8510); 2006, Nr. [65-2386](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8BF7EBCEC7C); 2008, Nr. [71-2713](https://www.e-tar.lt/portal/lt/legalAct/TAR.B407B2BA6998))
 
-\#### 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 10 straipsnio 3 dalies antrame sakinyje išbraukti žodžius „ir vykdymo (investicijų valdymo)“ ir šią dalį išdėstyti taip:
 
 „3. Valdymo įmonė neturi teisės pavesti kitiems asmenims tiek savo funkcijų, kad pačiai jų iš esmės nebeliktų. Draudžiama investicinių sprendimų priėmimo funkciją pavesti depozitoriumui, kuris saugo tos valdymo įmonės valdomų pensijų fondų turtą, ar kitiems asmenims, turintiems priešingų interesų, galinčių susikirsti su valdymo įmonės ar dalyvių interesais.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 Valdymo įmonės akcijų paketo įsigijimui ir perleidimui *mutatis mutandis* taikomi Kolektyvinio investavimo subjektų įstatymo 10 straipsnio reikalavimai.“
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 3. Vertybinių popierių komisija turi teisę taikyti depozitoriumui šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.“
 
-\#### 4 straipsnis. 17 straipsnio 2 ir 3 dalių pakeitimas
+## 4 straipsnis. 17 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 „3. Sprendimas taikyti poveikio priemones gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo įvykdymo dienos, o esant tęstiniam ar trunkamajam pažeidimui, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.“
 
-\#### 5 straipsnis. 43 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 43 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 43 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti ir papildyti 43 straipsnį ir jį išdėstyti taip:
 
 2. Depozitoriumas perima pensijų turto valdymą laikotarpiui, kuriam sustabdoma valdymo įmonės teisė valdyti pensijų fondą. Tuo atveju, kai valdymo įmonės teisė valdyti pensijų fondą pasibaigia, depozitoriumas pensijų turto valdymą privalo perduoti kitai valdymo įmonei per 3 mėnesius nuo pensijų turto valdymo perėmimo dienos. Jeigu per 3 mėnesius pensijų turto valdymas kitai valdymo įmonei neperduodamas, pensijų fondas turi būti panaikinamas ir jo pensijų turtas padalijamas jo dalyviams šio Įstatymo 34 straipsnio 8 dalies ir Vertybinių popierių komisijos nustatyta tvarka.“
 
-\#### 6 straipsnis. 58 straipsnio pakeitimas
+## 6 straipsnis. 58 straipsnio pakeitimas
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
 5. Jeigu Vertybinių popierių komisija nustato teisės aktų, reglamentuojančių riziką ribojančius reikalavimus, pažeidimus arba jeigu valdymo įmonės veikla kelia grėsmę įmonės veiklos stabilumui ir patikimumui, Vertybinių popierių komisija turi teisę valdymo įmonei nustatyti individualius veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo.“
 
-\#### 7 straipsnis. 59 straipsnio pakeitimas
+## 7 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 

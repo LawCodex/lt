@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D51FEAA17E9A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D51FEAA17E9A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 3, 18, 22, 34 straipsnių pakeitimo ir papildymo įstatymas
@@ -34,7 +34,7 @@ Vilnius
 
 2010, Nr. [76-3868](https://www.e-tar.lt/portal/lt/legalAct/TAR.8EA1EF900063), Nr. [145-7432](https://www.e-tar.lt/portal/lt/legalAct/TAR.292DC18F6C12))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -94,11 +94,11 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 27. Žemės ūkio kilmės etilo alkoholis – etilo alkoholis, pagamintas iš žemės ūkio kilmės produktų, nurodytų Europos bendrijos steigimo sutarties 1 priede.“
 
-\#### 2 straipsnis. 3 straipsnio 3 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 3 straipsnio 3 punkto pripažinimas netekusiu galios
 
 3 straipsnio 3 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 18 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -128,19 +128,19 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 „5. Alkoholinių gėrimų pardavėjai turi teisę, o kai yra abejonių, kad asmuo yra jaunesnis negu nurodyta šio straipsnio 4 dalies 3 punkte, privalo iš perkančio alkoholinius gėrimus asmens reikalauti pateikti asmens amžių liudijantį dokumentą. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, alkoholinių gėrimų pardavėjai privalo atsisakyti parduoti jam alkoholinius gėrimus.“
 
-\#### 4 straipsnis. 22 straipsnio 1 dalies papildymas 5 punktu
+## 4 straipsnis. 22 straipsnio 1 dalies papildymas 5 punktu
 
 Papildyti 22 straipsnio 1 dalį 5 punktu:
 
 „5) sporto renginių metu salėse, kuriose jie vyksta.“
 
-\#### 5 straipsnis. 34 straipsnio 4 dalies pakeitimas
+## 5 straipsnis. 34 straipsnio 4 dalies pakeitimas
 
 Pakeisti 34 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Už šio Įstatymo 18 straipsnio 4 dalies 3, 4, 5 punktų reikalavimų nesilaikymą įmonės baudžiamos nuo vieno tūkstančio litų iki trijų tūkstančių litų bauda.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1 straipsnis, 3 straipsnio 1, 4 dalys įsigalioja 2012 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7AB554EBF16F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7AB554EBF16F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 50, 51 ir 55 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2003, Nr. [38-1734](https://www.e-tar.lt/portal/lt/legalAct/TAR.A892013CE410); 2004, Nr. [72-2493](https://www.e-tar.lt/portal/lt/legalAct/TAR.795F9BE0DF6E); 2005, Nr. [18-575](https://www.e-tar.lt/portal/lt/legalAct/TAR.65054EC6F722))
 
-\#### 1 straipsnis. 50 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 50 straipsnio 3 dalies pakeitimas
 
 Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jei įtariamasis, kaltinamasis ar nuteistasis prašo užtikrinti gynėjo dalyvavimą ir gynėjo dalyvavimas nėra būtinas pagal šio Kodekso 51 straipsnį ar privalomas kitais įstatymų numatytais atvejais, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas išaiškina įtariamajam, kaltinamajam ar nuteistajam teisės į valstybės garantuojamą teisinę pagalbą įgyvendinimo tvarką.“
 
-\#### 2 straipsnis. 51 straipsnio 2 ir 3 dalių pakeitimas
+## 2 straipsnis. 51 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 51 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -40,13 +40,13 @@ Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šiame straipsnyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, ir paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais.“
 
-\#### 3 straipsnis. 55 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 55 straipsnio 4 dalies pakeitimas
 
 Pakeisti 55 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Įstatymų, reglamentuojančių valstybės garantuojamos teisinės pagalbos teikimą, numatytais atvejais nukentėjusysis ir civilinis ieškovas turi teisę gauti valstybės garantuojamą teisinę pagalbą.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 ir 2 straipsniai įsigalioja 2009 m. sausio 1 d.
 

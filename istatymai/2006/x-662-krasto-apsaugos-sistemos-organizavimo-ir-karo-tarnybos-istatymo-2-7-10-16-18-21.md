@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B13009B46413"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B13009B46413.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 7, 10, 16, 18, 21, 24, 28, 36, 46, 49, 50, 52, 53, 56, 59, 65, 67, 68, 77(1) straipsnių, penktojo skirsnio pavadinimo pakeitimo ir įstatymo papildymo 23 (1) ir 77(2 )straipsniais įstatymas
@@ -28,31 +28,31 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B), Nr. [92-2858](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD36F0ABFB35); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. [38-1681](https://www.e-tar.lt/portal/lt/legalAct/TAR.DAA53BA648CC); Nr. 91(l)-4106; 2004, Nr. 4-28, Nr. 169-6215, Nr. 171-6296; 2005, Nr. 28-875, Nr. 122-4362, Nr. 143-5183; 2006, Nr. 17-602)
 
-\#### 1 straipsnis. 2 straipsnio 20 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 20 dalies pakeitimas
 
 Pakeisti 2 straipsnio 20 dalį ir ją išdėstyti taip:
 
 „20. **Kariūnas –**karys, atliekantis karo tarnybą studijuodamas Lietuvos arba užsienio karo mokymo įstaigoje, kurią baigusiems suteikiamas karininko laipsnis. Kariūno tarnyba trunka, kol jis priimamas į profesinę karo tarnybą ar išleidžiamas į atsargą arba teisės aktų ar karo mokymo įstaigoje nustatyta tvarka iš jos atleidžiamas ar pašalinamas.“
 
-\#### 2 straipsnis. 7 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 4 dalies pakeitimas
 
 7 straipsnio 4 dalį papildyti žodžiais „vadovaudamasi Lietuvos Respublikos Seimo patvirtinta ilgalaike valstybine krašto apsaugos sistemos plėtros programa“ ir šią dalį išdėstyti taip:
 
 „4. Vadovaudamasi Lietuvos Respublikos Seimo patvirtinta ilgalaike valstybine krašto apsaugos sistemos plėtros programa, sprendimus dėl kariuomenės aprūpinimo, ginkluotės įsigijimo ir krašto apsaugos sistemos materialinės bazės plėtros priima Vyriausybė arba jos įgaliota institucija.“
 
-\#### 3 straipsnis. 10 straipsnio 2 dalies 7 punkto pakeitimas
+## 3 straipsnis. 10 straipsnio 2 dalies 7 punkto pakeitimas
 
 Pakeisti 10 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) teikia Respublikos Prezidentui tvirtinti kariuomenės dalinių nuolatinio dislokavimo vietas, taip pat kartu su užsienio reikalų ministru teikia Respublikos Prezidentui pasiūlymus dėl Lietuvos Respublikos karinių vienetų dalyvavimo tarptautinėse operacijose ir kitų valstybių karinių vienetų dalyvavimo tarptautinėse operacijose Lietuvos Respublikos teritorijoje;“.
 
-\#### 4 straipsnis. 16 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 16 straipsnio 4 dalies pakeitimas
 
 Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Reguliariųjų pajėgų rūšių, junginių ir savarankiškų dalinių funkcijas tvirtindamas jų nuostatus nustato krašto apsaugos ministras kariuomenės vado teikimu. Vadovaudamasis teisės aktais bei gynybos ir tarptautinio karinio bendradarbiavimo poreikiais, konkrečias užduotis reguliariųjų pajėgų rūšims, junginiams ir savarankiškiems daliniams duoda kariuomenės vadas.“
 
-\#### 5 straipsnis. 18 straipsnio pakeitimas
+## 5 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 12. Šio straipsnio nurodytais atvejais teikdama pagalbą kitoms valstybės ar savivaldybių institucijoms specialiąsias priemones ir ginklus kariuomenė gali naudoti tik tiek, kiek yra būtina pagalbos tikslams pasiekti. Specialiosios priemonės ir ginklai naudojami įstatymų nustatyta tvarka.“
 
-\#### 6 straipsnis. 21 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 9 dalimi
+## 6 straipsnis. 21 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 9 dalimi
 
 1. Pakeisti 21 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 „9. Karys privalo laikytis karių etikos kodekso reikalavimų. Šį kodeksą tvirtina krašto apsaugos ministras kariuomenės vado teikimu.“
 
-\#### 7 straipsnis. Įstatymo papildymas 231 straipsniu
+## 7 straipsnis. Įstatymo papildymas 231 straipsniu
 
 Papildyti Įstatymą 23^1 straipsniu:
 
@@ -118,23 +118,23 @@ Papildyti Įstatymą 23^1 straipsniu:
 
 Šio įstatymo 23 straipsnio 2 dalyje numatytos Lietuvos kario priesaikos sulaužymu, šio įstatymo 24 straipsnio 2 dalyje numatytos Lietuvos karininko priesaikos sulaužymu, taip pat šio įstatymo 13 straipsnio 2 dalyje numatytos Lietuvos kariuomenės vado priesaikos sulaužymu laikomas šiurkštus kario drausmės pažeidimas, už kurį karys atleidžiamas iš tarnybos arba pašalinamas iš karo mokymo įstaigos, ir (arba) tyčinės nusikalstamos veikos padarymas.“
 
-\#### 8 straipsnis. 24 straipsnio 4 dalies pripažinimas netekusia galios
+## 8 straipsnis. 24 straipsnio 4 dalies pripažinimas netekusia galios
 
 24 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 9 straipsnis. 28 straipsnio 4 dalies papildymas 5 punktu
+## 9 straipsnis. 28 straipsnio 4 dalies papildymas 5 punktu
 
 Papildyti 28 straipsnio 4 dalį 5 punktu:
 
 „5) asmenys, kurie per paskutinius 5 metus dėl priežasčių, susijusių su priesaikos sulaužymu, buvo pašalinti iš valstybės politiko pareigų, atleisti iš profesinės karo tarnybos, savanorių karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos.“
 
-\#### 10 straipsnis. 36 straipsnio 8 dalies pakeitimas
+## 10 straipsnis. 36 straipsnio 8 dalies pakeitimas
 
 Pakeisti 36 straipsnio 8 dalį ir ją išdėstyti taip
 
 „8. Profesinės karo tarnybos kariai negali: išskyrus įstatymų nustatytas išimtis, dirbti ne krašto apsaugos sistemos įmonėse, įstaigose ir organizacijose samdomais darbuotojais, patarėjais, ekspertais ar konsultantais, būti jų valdymo organų nariais, turėti kitų renkamų ar skiriamų pareigų, gauti kitą atlyginimą, išskyrus atlyginimą už kūrybinę ir pedagoginę veiklą; valdyti pagal įgaliojimą daugiau kaip 10 procentų vienos įmonės akcijų; teikti komercinio pobūdžio paslaugas ar atstovauti ne krašto apsaugos sistemos įmonių, įstaigų ir organizacijų interesams ir vykti į užsienį šiais tikslais; būti profesinės sąjungos nariais; streikuoti; naudoti tarnybos laiką, turtą ir tarnybos teikiamas galimybes ne tarnybos tikslams. Karys, kuris yra individualios įmonės savininkas, ūkinės bendrijos tikrasis narys ar narys komanditorius ar turi akcinės bendrovės akcijų arba žemės ūkio bendrovės pajų, privalo šią nuosavybę valdyti, naudoti ir disponuoti ja tokiu būdu, kad dėl jos turėjimo ar ryšių su bendrove (įmone), kurioje karys turi nuosavybės, negalėtų atsirasti privačių ir tarnybos interesų konflikto. Krašto apsaugos sistemos profesinės karo tarnybos kariai, kurie vykdo operatyvinę veiklą, profesinės karo tarnybos karininkai privalo įstatymų ir kitų teisės aktų nustatyta tvarka deklaruoti savo privačius interesus.“
 
-\#### 11 straipsnis. 46 straipsnio pakeitimas
+## 11 straipsnis. 46 straipsnio pakeitimas
 
 46 straipsnyje po žodžio „pulkininko“ įrašyti žodžius „(jūrų kapitono)“, po žodžio „majoro“ įrašyti žodžius „(komandoro leitenanto)“ ir šį straipsnį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 36 straipsnio 8 dalį ir ją išdėstyti taip
 
 Kai kuriais atvejais krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti ne aukštesnio kaip pulkininko (jūrų kapitono) laipsnio kario, sukakusio šio įstatymo 45 straipsnio 4 dalyje nustatytą amžių, profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne ilgiau kaip 2 metams (arba 2 kartus po vienus metus). Šiam terminui pasibaigus pakartotinai ne ilgesniam kaip 2 metų laikotarpiui pratęsti profesinę karo tarnybą pagal tokią sutartį krašto apsaugos ministras gali tik karininkams, turintiems ne aukštesnį kaip majoro (komandoro leitenanto) laipsnį.“
 
-\#### 12 straipsnis. 49 straipsnio pakeitimas
+## 12 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
@@ -154,7 +154,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 3. Profesinės karo tarnybos kariai, pasiųsti stažuoti ar mokytis ilgiau kaip 3 mėnesiams, gali būti iš einamų pareigų perkelti į laikinąjį profesinės karo tarnybos personalo rezervą.“
 
-\#### 13 straipsnis. 50 straipsnio 3 ir 6 dalių pakeitimas
+## 13 straipsnis. 50 straipsnio 3 ir 6 dalių pakeitimas
 
 1. Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 „6. Karininkams, puskarininkiams ir kariams savanoriams, kurių pažymėjimuose yra šio straipsnio 4 ir 5 dalyse numatyti įrašai, taip pat atleistiems iš tarnybos dėl priežasčių, susijusių su priesaikos sulaužymu, nesuteikiama teisė iškilmingomis progomis nešioti atsargos kario uniformą.“
 
-\#### 14 straipsnis. Penktojo skirsnio pavadinimo pakeitimas
+## 14 straipsnis. Penktojo skirsnio pavadinimo pakeitimas
 
 Pakeisti penktojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -172,25 +172,25 @@ Pakeisti penktojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 KARIŲ LAIPSNIAI, ROTACIJA IR ATOSTOGOS“.
 
-\#### 15 straipsnis. 52 straipsnio 2 dalies 2 punkto pakeitimas
+## 15 straipsnis. 52 straipsnio 2 dalies 2 punkto pakeitimas
 
 52 straipsnio 2 dalies 2 punkte po žodžio „seržantai“ įrašyti žodį „viršilos“ ir šį punktą išdėstyti taip:
 
 „2) seržantai, viršilos;“.
 
-\#### 16 straipsnis. 53 straipsnio 1 dalies pakeitimas
+## 16 straipsnis. 53 straipsnio 1 dalies pakeitimas
 
 Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pirmasis eilinio (jūreivio) laipsnis kariui suteikiamas pradėjus tarnybą ir davus kario priesaiką. Iki karys duoda priesaiką, jam suteikiamas laikinasis eilinio (jūreivio) laipsnis.“
 
-\#### 17 straipsnis. 56 straipsnio 3 dalies pakeitimas
+## 17 straipsnis. 56 straipsnio 3 dalies pakeitimas
 
 Pakeisti 56 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Krašto apsaugos ministras (pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos Prezidentas) kario laipsnį gali atimti, jei karys atleidžiamas iš tarnybos pagal šio įstatymo 38 straipsnio 1 dalies 1, 2 ar 3 punktą arba 2 dalies 3, 4 ar 8 punktą.“
 
-\#### 18 straipsnis. 59 straipsnio pakeitimas
+## 18 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
@@ -242,7 +242,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 16. Paskelbus karo ar nepaprastąją padėtį arba mobilizaciją, atostogaujantys kariai, išskyrus tuos, kuriems suteiktos nėštumo ir gimdymo atostogos, privalo nedelsdami grįžti į savo tarnybos vietą.“
 
-\#### 19 straipsnis. 65 straipsnio 1, 3 ir 5 dalių pakeitimas
+## 19 straipsnis. 65 straipsnio 1, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -256,7 +256,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 „5. Karo prievolininkų, asmenų, stojančių į tikrąją karo tarnybą, ir tikrosios karo tarnybos karių sveikatos tikrinimo, atrankos pagal sveikatos būklę ir sveikatos priežiūros tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 20 straipsnis. 67 straipsnio 3 ir 4 dalių pakeitimas
+## 20 straipsnis. 67 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 67 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -266,7 +266,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 „4. Tarnybinio tyrimo ir karinės medicinos ekspertizės komisijų sprendimai gali būti apskundžiami teismui per 10 dienų nuo išvadų įteikimo kariui arba kitiems šio straipsnio 12 dalyje nurodytiems asmenims ar jų atstovams.“
 
-\#### 21 straipsnis. 68 straipsnio pakeitimas
+## 21 straipsnis. 68 straipsnio pakeitimas
 
 1. Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -278,13 +278,13 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 3. Buvusią 68 straipsnio 7 dalį laikyti 8 dalimi.
 
-\#### 22 straipsnis. 771 straipsnio 2 dalies pakeitimas
+## 22 straipsnis. 771 straipsnio 2 dalies pakeitimas
 
 Pakeisti 77^1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos civilinę krašto apsaugos tarnybą atliekantys civiliai statutiniai valstybės tarnautojai draudžiami valstybės biudžeto lėšomis, jiems taikomos šio įstatymo 65 ir 67 straipsniuose bei 68 straipsnio 2 ir 6 dalyse nustatytos socialinės garantijos. Taikant šio įstatymo 67 straipsnyje nustatytas garantijas, jame nustatyto dydžio kompensacijos apskaičiuojamos pagal vidutinį žuvusio ar nukentėjusio tarnautojo darbo užmokestį.“
 
-\#### 23 straipsnis. Įstatymo papildymas 772 straipsniu
+## 23 straipsnis. Įstatymo papildymas 772 straipsniu
 
 Papildyti Įstatymą 77^2 straipsniu:
 
@@ -292,7 +292,7 @@ Papildyti Įstatymą 77^2 straipsniu:
 
 Civiliams statutiniams valstybės tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniuose vienetuose, taikomos šio įstatymo 65 ir 67 straipsniuose nustatytos garantijos. Taikant šio įstatymo 67 straipsnyje nustatytas garantijas, jame nustatyto dydžio kompensacijos apskaičiuojamos pagal vidutinį žuvusio ar nukentėjusio tarnautojo darbo užmokestį.“
 
-\#### 24 straipsnis. Įstatymo įsigaliojimas
+## 24 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d., išskyrus šio straipsnio 2 dalyje nurodytas nuostatas.
 

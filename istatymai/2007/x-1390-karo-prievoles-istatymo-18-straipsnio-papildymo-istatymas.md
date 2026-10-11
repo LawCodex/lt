@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8273CA1ED063"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8273CA1ED063.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 18 straipsnio papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [106-2427](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255); 1999, Nr. [59-1918](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ACCD429C6E8); 2003, Nr. [38-1725](https://www.e-tar.lt/portal/lt/legalAct/TAR.40D275B34EDF); 2004, Nr. [115-4282](https://www.e-tar.lt/portal/lt/legalAct/TAR.DBD68D60EB9E))
 
-\#### 1 straipsnis. 18 straipsnio papildymas 5 dalimi
+## 1 straipsnis. 18 straipsnio papildymas 5 dalimi
 
 Papildyti 18 straipsnį 5 dalimi:
 

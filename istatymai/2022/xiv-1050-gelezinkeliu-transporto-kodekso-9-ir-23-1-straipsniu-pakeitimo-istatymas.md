@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1b6f8100ccfc11ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1B6F8100CCFC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo įstatymas
@@ -72,5 +72,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
 
 Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo įstatymo Nr. XIV-1050 1 ir 2 straipsnių pakeitimo įstatymas
-
-part_7e75e9eb833942bda94f53936220b1d5_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2c772c20c7d111e8bf37fd1541d65f38"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2C772C20C7D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Kelių eismo konvencijos ratifikavimo
@@ -26,15 +26,15 @@ DĖL KELIŲ EISMO KONVENCIJOS RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2018 m. liepos 3 d. dekretą Nr. 1K-1347, ratifikuoja Kelių eismo konvenciją, priimtą 1949 m. rugsėjo 19 d. Ženevoje (toliau – Konvencija).
 
-\#### 2 straipsnis. Lietuvos Respublikos pranešimas
+## 2 straipsnis. Lietuvos Respublikos pranešimas
 
 Lietuvos Respublikos Seimas praneša, kad, remiantis Konvencijos 4 priedo 3 punktu, Lietuvos Respublikos pasirinktas skiriamasis ženklas – LT.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2019 m. sausio 1 d.
 

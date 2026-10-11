@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.48A5CFAB8BA6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.48A5CFAB8BA6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 46 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D); 2005, Nr. [71-2555](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FC84684F94))
 
-\#### 1 straipsnis. 46 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 46 straipsnio 4 dalies pakeitimas
 
 Pakeisti 46 straipsnio 4 dalį ir ją išdėstyti taip:
 

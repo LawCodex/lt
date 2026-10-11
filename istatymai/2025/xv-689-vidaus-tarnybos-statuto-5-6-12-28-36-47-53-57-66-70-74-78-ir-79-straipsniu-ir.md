@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4e901c50e55a11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4E901C50E55A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 5, 6, 12, 28, 36, 47, 53, 57, 66, 70, 74, 78 ir 79 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ VIDAUS TARNYBOS STATUTO 5, 6, 12, 28, 36, 47, 53, 57, 66, 70, 74, 78 IR 79 STRAI
 
 Vilnius
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Statuto priede nurodytų 8, 9 ir 10 pareigybių grupių pareigybėms būtinas ne žemesnis kaip vidurinis išsilavinimas ir įgyta kvalifikacija, 6 ir 7 pareigybių grupių pareigybėms – ne žemesnis kaip aukštasis koleginis arba jam lygiavertis išsilavinimas, iki 2009 metų įgytas aukštesnysis išsilavinimas arba iki 1995 metų įgytas specialusis vidurinis išsilavinimas, 1, 2, 3, 4, 5 pareigybių grupių pareigybėms – aukštasis universitetinis arba jam lygiavertis išsilavinimas. Kitus papildomus reikalavimus, taikomus pretenduojant eiti centrinės statutinės įstaigos vadovo pareigas, nustato ministras, o papildomus reikalavimus, taikomus pretenduojant eiti kitas pareigūnų pareigas, nustato centrinių statutinių įstaigų vadovai ar jų įgalioti asmenys.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -46,13 +46,13 @@ Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „6. Darbuotojams, dirbantiems pagal darbo sutartis statutinėse įstaigose, taikomos Statuto 23 straipsnio 3 dalies nuostatos. Muitinės departamento, Policijos departamento ir jiems pavaldžių statutinių įstaigų, Valstybės sienos apsaugos tarnybos, Finansinių nusikaltimų tyrimo tarnybos darbuotojams, dirbantiems ar siekiantiems dirbti pagal darbo sutartis, taip pat taikomos ir Statuto 8 straipsnio 2 dalies 1 punkto, 10 straipsnio 2 dalies 2 punkto ir 15 straipsnio 1 dalies 2 ir 5 punktų nuostatos, o teisingumo ministro valdymo srities statutinių įstaigų darbuotojams, dirbantiems ar siekiantiems dirbti pagal darbo sutartis, ir nuteistųjų užimtumą darbine veikla organizuojančios įstaigos administracijos darbuotojams – Statuto 8 straipsnio 2 dalies 1, 2 ir 3 punktų, 10 straipsnio 2 dalies 2 punkto, 15 straipsnio 1 dalies 2 ir 5 punktų ir 23 straipsnio 2dalies nuostatos.“
 
-\#### 3 straipsnis. 12 straipsnio pakeitimas
+## 3 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Šio straipsnio 3 dalies 2 ir 3 punktuosenurodytos su mokymu susijusios išlaidos apskaičiuojamos vadovaujantis Lietuvos Respublikos Vyriausybės tvirtinama statutinių profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam kursantuimetodika.“
 
-\#### 4 straipsnis. 28 straipsnio pakeitimas
+## 4 straipsnis. 28 straipsnio pakeitimas
 
 1. Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -60,13 +60,13 @@ Pakeisti 12 straipsnio 6 dalį ir ją išdėstyti taip:
 
 2. Pripažinti netekusia galios 28 straipsnio 5 dalį.
 
-\#### 5 straipsnis. 36 straipsnio pakeitimas
+## 5 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnio 15 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) skatinti pareigūną Statuto 39 straipsnio 2 dalies 2, 3, 4 ir 5 punktuose ir 10 dalyje nustatytais skatinimo būdais.“
 
-\#### 6 straipsnis. 47 straipsnio pakeitimas
+## 6 straipsnis. 47 straipsnio pakeitimas
 
 1. Pakeisti 47 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -76,19 +76,19 @@ Pakeisti 36 straipsnio 15 dalies 3 punktą ir jį išdėstyti taip:
 
 „6. Kai šio straipsnio 2 dalies 2 ir 3 punktuose nustatytais pagrindais nušalintam nuo pareigų pareigūnui, pasibaigus baudžiamajam procesui, nėra priimamas apkaltinamasis nuosprendis arba atliekant tarnybinį patikrinimą nustatoma, kad pareigūnas nėra padaręs tarnybinio nusižengimo, dėl kurio buvo pradėtas tarnybinis patikrinimas ir pareigūnas buvo nušalintas nuo pareigų, kad pareigūnas nėra pripažintas kaltu dėl administracinio nusižengimo ar nusikalstamos veikos padarymo, taip pat tais atvejais, kai pasibaigus pareigūno, kuris nušalintas nuo pareigų šio straipsnio 1 dalies 2 punkte nustatyta tvarka, nušalinimo terminui nėra atsiradęs pagrindas atleisti jį iš pareigų, šis pareigūnas toliau eina pareigas ir per 10 darbo dienų nuo tos dienos, kurią vėl pradėjo jas eiti, jam sumokami nesumokėti: darbo užmokestis, Statuto 65 straipsnio 4 dalyje nurodyti butpinigiai ir Statuto 70 straipsnio 9 dalyje nurodyta kompensacija už ilgalaikę tarnybą už laikotarpį, kurį jis buvo nušalintas nuo pareigų, taip pat delspinigiai, kurių dydį tvirtina socialinės apsaugos ir darbo ministras. Delspinigiai nemokami, jeigu pareigūnui žala atlyginta kituose įstatymuose nustatyta tvarka.“
 
-\#### 7 straipsnis. 53 straipsnio pakeitimas
+## 7 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Mokymosi atostogų suteikimo pareigūnams ir jų apmokėjimo sąlygas ir tvarką nustato ministras. Šakos kolektyvinėje sutartyje gali būti susitarta dėl šioje dalyje nurodytų mokymosi atostogų suteikimo, apmokėjimo kitokių sąlygų ir tvarkos.“
 
-\#### 8 straipsnis. 57 straipsnio pakeitimas
+## 8 straipsnis. 57 straipsnio pakeitimas
 
 Pakeisti 57 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) už darbą nustačius pareigūną veikiančius kenksmingus ir (ar) pavojingus veiksnius;“.
 
-\#### 9 straipsnis. 66 straipsnio pakeitimas
+## 9 straipsnis. 66 straipsnio pakeitimas
 
 Papildyti 66 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Papildyti 66 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Iš centrinei statutinei įstaigai skirtų valstybės biudžeto asignavimų ir kitų teisėtai gautų lėšų centrinės statutinės įstaigos vadovo nustatyta tvarka kursantai gali būti aprūpinami maistu pagal Vyriausybės ar jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems profesinio ir įvadinio mokymo statutinėje profesinio mokymo įstaigoje metu gali būti mokama Vyriausybės ar jos įgaliotos institucijos nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.“
 
-\#### 10 straipsnis. 70 straipsnio pakeitimas
+## 10 straipsnis. 70 straipsnio pakeitimas
 
 1. Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -110,7 +110,7 @@ Papildyti 66 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 3. Buvusią 70 straipsnio 9 dalį laikyti 10 dalimi.
 
-\#### 11 straipsnis. 74 straipsnio pakeitimas
+## 11 straipsnis. 74 straipsnio pakeitimas
 
 1. Pakeisti 74 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Papildyti 66 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „19) pasibaigus įstatymų nustatytam tarnybos einant tam tikras pareigas laikotarpiui, kai pareigūnas nėra paskiriamas į kitas pareigūno pareigas.“
 
-\#### 12 straipsnis. 78 straipsnio pakeitimas
+## 12 straipsnis. 78 straipsnio pakeitimas
 
 1. Pakeisti 78 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -130,13 +130,13 @@ Papildyti 66 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „5. Atleisti pareigūną iš vidaus tarnybos Statuto 74 straipsnio 1 dalies 4, 11, 14 ir 15 punktuose nurodytais pagrindais galima tik tuo atveju, kai nėra galimybės jį perkelti į lygiavertes pareigūno pareigas arba pareigūno rašytiniu sutikimu – į žemesnes pareigūno pareigas. Pareigūną, kuris iki paskiriamas centrinės statutinės įstaigos vadovu ar centrinės statutinės įstaigos vadovo pavaduotoju ėjo pareigūno pareigas, atleisti iš vidaus tarnybos Statuto 74 straipsnio 1 dalies 16 ir 19 punktuose nurodytais pagrindais galima tik tuo atveju, kai nėra galimybės jį paskirti į Statuto 28 straipsnio 4 dalyje nurodytas pareigūno pareigas.“
 
-\#### 13 straipsnis. 79 straipsnio pakeitimas
+## 13 straipsnis. 79 straipsnio pakeitimas
 
 Pakeisti 79 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Statuto 74 straipsnio 1 dalies 4, 11, 14, 16 ir 19 punktuose nurodytais pagrindais atleidžiamam iš vidaus tarnybos pareigūnui išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Ši išmoka pareigūnams, nepertraukiamai ištarnavusiems ilgiau kaip 5 metus, didinama pusantro karto, nepertraukiamai ištarnavusiems ilgiau kaip 10 metų, – du kartus, nepertraukiamai ištarnavusiems ilgiau kaip 20 metų, – tris kartus.“
 
-\#### 14 straipsnis. Statuto priedo pakeitimas
+## 14 straipsnis. Statuto priedo pakeitimas
 
 Pakeisti Statuto priedą ir jį išdėstyti taip:
 
@@ -148,33 +148,22 @@ priedas
 
 VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI IR NEKARINIAI PAREIGŪNŲ LAIPSNIAI
 
-\| Pareigybių grupė | Pareigybės pavadinimas | Pareiginių algų koeficientai | Nekariniai pareigūnų laipsniai |
-
-\| --- | --- | --- | --- |
-
-\| 1 | Centrinės statutinės įstaigos vadovas | 2,37–4,00 | Vidaus tarnybos generolas, generalinis komisaras |
-
-\| 2 | Centrinės statutinės įstaigos vadovo pavaduotojas | Nuo 1,76 | Vidaus tarnybos pulkininkas, vyriausiasis komisaras |
-
-\| 3 | Statutinės įstaigos vadovas, pasienio rinktinės vadas, mokyklos viršininkas, centrinės statutinės įstaigos valdybos viršininkas, centrinės statutinės įstaigos štabo viršininkas, biuro viršininkas, vyriausiojo policijos komisariato viršininkas | Nuo 1,63 | Vidaus tarnybos pulkininkas, vyriausiasis komisaras |
-
-\| 4 | Statutinės įstaigos vadovo pavaduotojas, pasienio rinktinės vado pavaduotojas, mokyklos viršininko pavaduotojas, centrinės statutinės įstaigos valdybos viršininko pavaduotojas, biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas, dalinio vadas, valdybos viršininkas, rinktinės vadas, komisariato viršininkas, kalėjimo viršininkas, posto viršininkas, pasienio užkardos vadas, specialusis atašė, statutinės įstaigos patarėjas, priešgaisrinės gelbėjimo tarnybos viršininkas | Nuo 1,49 | Vidaus tarnybos pulkininkas leitenantas, vyresnysis komisaras |
-
-\| 5 | Dalinio vado pavaduotojas, valdybos viršininko pavaduotojas, tarnybos viršininkas, skyriaus viršininkas, posto viršininko pavaduotojas, pasienio užkardos vado pavaduotojas, priešgaisrinės gelbėjimo tarnybos viršininko pavaduotojas, centro viršininkas, posto pamainos viršininkas, eskadrilės vadas, orlaivio vadas, patarėjas, komandos viršininkas | Nuo 1,31 | Vidaus tarnybos majoras, komisaras |
-
-\| 6 | Kuopos vadas, skyriaus viršininko pavaduotojas, tarnybos viršininko pavaduotojas, poskyrio viršininkas, laivo vadas, vyriausiasis tyrėjas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis lakūnas, vyresnysis lakūnas | Nuo 1,18 | Vidaus tarnybos kapitonas, komisaras inspektorius |
-
-\| 7 | Vyriausiasis laivavedys, vyresnysis laivavedys, vyresnysis tyrėjas, vyresnysis specialistas, vyresnysis inspektorius, lakūnas | Nuo 1,06 | Vidaus tarnybos vyresnysis leitenantas, vyresnysis inspektorius |
-
-\| 8 | Pamainos vadas, būrio vadas, tyrėjas, specialistas, inspektorius, vyriausiasis kovotojas, laivavedys | Nuo 0,94 | Vidaus tarnybos leitenantas, inspektorius |
-
-\| 9 | Skyrininkas, kovotojas, jaunesnysis specialistas, jaunesnysis tyrėjas, vyriausiasis ugniagesys gelbėtojas, vyriausiasis patrulis, vyriausiasis postinis | Nuo 0,81 | Vidaus tarnybos vyresnysis puskarininkis, jaunesnysis inspektorius |
-
-\| 10 | Vyresnysis ugniagesys gelbėtojas, ugniagesys gelbėtojas, vyresnysis pasienietis, pasienietis, postinis | Nuo 0,72 | Vidaus tarnybos puskarininkis |
+| Pareigybių grupė | Pareigybės pavadinimas | Pareiginių algų koeficientai | Nekariniai pareigūnų laipsniai |
+| --- | --- | --- | --- |
+| 1 | Centrinės statutinės įstaigos vadovas | 2,37–4,00 | Vidaus tarnybos generolas, generalinis komisaras |
+| 2 | Centrinės statutinės įstaigos vadovo pavaduotojas | Nuo 1,76 | Vidaus tarnybos pulkininkas, vyriausiasis komisaras |
+| 3 | Statutinės įstaigos vadovas, pasienio rinktinės vadas, mokyklos viršininkas, centrinės statutinės įstaigos valdybos viršininkas, centrinės statutinės įstaigos štabo viršininkas, biuro viršininkas, vyriausiojo policijos komisariato viršininkas | Nuo 1,63 | Vidaus tarnybos pulkininkas, vyriausiasis komisaras |
+| 4 | Statutinės įstaigos vadovo pavaduotojas, pasienio rinktinės vado pavaduotojas, mokyklos viršininko pavaduotojas, centrinės statutinės įstaigos valdybos viršininko pavaduotojas, biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas, dalinio vadas, valdybos viršininkas, rinktinės vadas, komisariato viršininkas, kalėjimo viršininkas, posto viršininkas, pasienio užkardos vadas, specialusis atašė, statutinės įstaigos patarėjas, priešgaisrinės gelbėjimo tarnybos viršininkas | Nuo 1,49 | Vidaus tarnybos pulkininkas leitenantas, vyresnysis komisaras |
+| 5 | Dalinio vado pavaduotojas, valdybos viršininko pavaduotojas, tarnybos viršininkas, skyriaus viršininkas, posto viršininko pavaduotojas, pasienio užkardos vado pavaduotojas, priešgaisrinės gelbėjimo tarnybos viršininko pavaduotojas, centro viršininkas, posto pamainos viršininkas, eskadrilės vadas, orlaivio vadas, patarėjas, komandos viršininkas | Nuo 1,31 | Vidaus tarnybos majoras, komisaras |
+| 6 | Kuopos vadas, skyriaus viršininko pavaduotojas, tarnybos viršininko pavaduotojas, poskyrio viršininkas, laivo vadas, vyriausiasis tyrėjas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis lakūnas, vyresnysis lakūnas | Nuo 1,18 | Vidaus tarnybos kapitonas, komisaras inspektorius |
+| 7 | Vyriausiasis laivavedys, vyresnysis laivavedys, vyresnysis tyrėjas, vyresnysis specialistas, vyresnysis inspektorius, lakūnas | Nuo 1,06 | Vidaus tarnybos vyresnysis leitenantas, vyresnysis inspektorius |
+| 8 | Pamainos vadas, būrio vadas, tyrėjas, specialistas, inspektorius, vyriausiasis kovotojas, laivavedys | Nuo 0,94 | Vidaus tarnybos leitenantas, inspektorius |
+| 9 | Skyrininkas, kovotojas, jaunesnysis specialistas, jaunesnysis tyrėjas, vyriausiasis ugniagesys gelbėtojas, vyriausiasis patrulis, vyriausiasis postinis | Nuo 0,81 | Vidaus tarnybos vyresnysis puskarininkis, jaunesnysis inspektorius |
+| 10 | Vyresnysis ugniagesys gelbėtojas, ugniagesys gelbėtojas, vyresnysis pasienietis, pasienietis, postinis | Nuo 0,72 | Vidaus tarnybos puskarininkis |
 
 ________________“.
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 15 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį ir šio įstatymo 4 straipsnio 1 dalį bei 9 straipsnį, įsigalioja 2026 m. sausio 1 d.
 

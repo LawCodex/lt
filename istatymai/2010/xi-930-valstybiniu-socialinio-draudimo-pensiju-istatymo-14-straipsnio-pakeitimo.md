@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D38D20FA9D3A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D38D20FA9D3A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 14 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D); 2005, Nr. [71-2555](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FC84684F94); 2006, Nr. [72-2675](https://www.e-tar.lt/portal/lt/legalAct/TAR.309180C69F27); 2007, Nr. [138-5648](https://www.e-tar.lt/portal/lt/legalAct/TAR.17D151BF1A54), Nr. [138-5650](https://www.e-tar.lt/portal/lt/legalAct/TAR.E43AEF2A5725); 2008, Nr. [149-6003](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D0039B70E7F); 2009, Nr. [25-970](https://www.e-tar.lt/portal/lt/legalAct/TAR.8452021244AD), Nr. [151-6775](https://www.e-tar.lt/portal/lt/legalAct/TAR.8936BF7AE333))
 
-\#### 1 straipsnis. 14 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 14 straipsnio 2 dalies pakeitimas
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 

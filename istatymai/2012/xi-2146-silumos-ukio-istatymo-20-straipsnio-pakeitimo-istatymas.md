@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D29D2AD18BD6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D29D2AD18BD6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 20 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765); 2010, Nr. [1-6](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA); 2011, Nr. [123-5816](https://www.e-tar.lt/portal/lt/legalAct/TAR.3218F3F7DC5D))
 
-\#### 1 straipsnis. 20 straipsnio 2 ir 4 dalių pakeitimas
+## 1 straipsnis. 20 straipsnio 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 

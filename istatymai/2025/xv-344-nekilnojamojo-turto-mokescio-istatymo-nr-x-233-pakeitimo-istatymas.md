@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/efcc7a52535b11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EFCC7A52535B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 pakeitimo įstatymas
@@ -26,7 +26,7 @@ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO NR. X-233 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 nauja redakcija
 
 Pakeisti Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymą Nr. X-233 ir jį išdėstyti taip:
 
@@ -36,13 +36,13 @@ NEKILNOJAMOJO TURTO MOKESČIO
 
 ĮSTATYMAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato nekilnojamojo turto apmokestinimo nekilnojamojo turto mokesčiu (toliau – mokestis) tvarką.
 
-\#### 2 straipsnis. Pagrindinės Įstatymo sąvokos
+## 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 1. Apleistas ar neprižiūrimas nekilnojamasis turtas – į savivaldybės teritorijoje esančio apleisto ar neprižiūrimo nekilnojamojo turto sąrašą įtrauktas nekilnojamasis turtas, kuris per statinių priežiūrą atliekančio viešojo administravimo subjekto nustatytą terminą nebuvo suremontuotas, rekonstruotas, kurio statyba neužbaigta Lietuvos Respublikos statybos įstatymo nustatyta tvarka ar kuris nebuvo nugriautas ir kurio naudotojas nevykdo Statybos įstatyme nustatytų statinių naudotojų ar statytojų (užsakovų) pareigų, susijusių su statinių priežiūra.
 
@@ -68,7 +68,7 @@ NEKILNOJAMOJO TURTO MOKESČIO
 
 12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Statybos įstatyme ir Lietuvos Respublikos pelno mokesčio įstatyme. Šiame įstatyme nurodyta nekilnojamojo turto paskirtis atitinka nekilnojamojo turto pagrindinę naudojimo paskirtį, nustatytą statybą reglamentuojančiuose teisės aktuose.
 
-\#### 3 straipsnis. Mokesčio mokėtojai
+## 3 straipsnis. Mokesčio mokėtojai
 
 1. Mokestį moka nekilnojamojo turto savininkai – fiziniai, juridiniai asmenys, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus.
 
@@ -78,7 +78,7 @@ NEKILNOJAMOJO TURTO MOKESČIO
 
 4. Kolektyvinio investavimo subjekto, kuris nėra juridinis asmuo, nekilnojamojo turto savininkams šio įstatymo nustatytas prievoles vykdantis ir teises įgyvendinantis asmuo (mokesčio mokėtojas) yra šio kolektyvinio investavimo subjekto valdymo įmonė.
 
-\#### 4 straipsnis. Mokesčio objektas
+## 4 straipsnis. Mokesčio objektas
 
 1. Mokesčio objektas yra Lietuvos Respublikoje esantis nekilnojamasis turtas, išskyrus šio straipsnio 2 dalyje nustatytas išimtis.
 
@@ -92,11 +92,11 @@ b) per 5 metus nuo nebaigto statyti nekilnojamojo turto įregistravimo Nekilnoja
 
 2) nekilnojamasis turtas, sukurtas ar įgytas valdžios ir privataus subjektų partnerystės pagrindu, kaip tai apibrėžiama Lietuvos Respublikos investicijų įstatyme, kol vykdoma atitinkama valdžios ir privataus subjektų partnerystės sutartis ir šis nekilnojamasis turtas naudojamas pagal toje sutartyje nustatytą paskirtį.
 
-\#### 5 straipsnis. Mokesčio mokestinis laikotarpis
+## 5 straipsnis. Mokesčio mokestinis laikotarpis
 
 Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
-\#### 6 straipsnis. Mokesčio tarifų dydis bei jo nustatymo kriterijai ir tvarka
+## 6 straipsnis. Mokesčio tarifų dydis bei jo nustatymo kriterijai ir tvarka
 
 1. Mokesčio tarifas yra nuo 0,5 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, išskyrus šio straipsnio 5–7 dalyse nustatytus atvejus.
 
@@ -144,7 +144,7 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 8. Papildomas 0,2 procento mokesčio tarifas taikomas nekilnojamojo turto, išskyrus nekilnojamąjį turtą, kuris apmokestinamas taikant šio straipsnio 5 ir 6 dalyse nustatytus tarifus, mokestinei vertei.
 
-\#### 7 straipsnis. Mokesčio lengvatos
+## 7 straipsnis. Mokesčio lengvatos
 
 1. Mokesčiu neapmokestinamas nekilnojamasis turtas, už kurį mokestį pagal šio įstatymo 3 straipsnį moka fizinis asmuo:
 
@@ -212,9 +212,9 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 5. Mokestis, neviršijantis 5 eurų, nemokamas.
 
-\## II SKYRIUS. NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ IR NEKILNOJAMOJO TURTO VERTINIMAS
+II SKYRIUS. NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ IR NEKILNOJAMOJO TURTO VERTINIMAS
 
-\#### 8 straipsnis. Nekilnojamojo turto mokestinė vertė
+## 8 straipsnis. Nekilnojamojo turto mokestinė vertė
 
 1. Nekilnojamojo turto mokestinė vertė yra nekilnojamojo turto vidutinė rinkos vertė:
 
@@ -232,7 +232,7 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 3. Mokesčio mokėtojo (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus individualųjį nekilnojamojo turto vertinimą, kartu su šio nekilnojamojo turto individualiojo vertinimo ataskaita (toliau – prašymas) pateikiamas turto vertintojui ir nagrinėjamas šio įstatymo 10 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, individualiojo nekilnojamojo turto vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol turto vertintojas šio įstatymo ir Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo 9 straipsnio 2 dalies 3, 4 ir 5 punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo 9 straipsnio 4 dalyje nurodytą laikotarpį.
 
-\#### 9 straipsnis. Nekilnojamojo turto vertinimas
+## 9 straipsnis. Nekilnojamojo turto vertinimas
 
 1. Nekilnojamojo turto vertinimą atlieka turto vertintojas.
 
@@ -252,7 +252,7 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 4. Nekilnojamojo turto vertinimas atliekamas Vyriausybės nustatyta tvarka ne rečiau kaip kas 3 metai.
 
-\#### 10 straipsnis. Mokesčių mokėtojų skundai ir prašymai dėl nustatytos nekilnojamojo turto mokestinės vertės
+## 10 straipsnis. Mokesčių mokėtojų skundai ir prašymai dėl nustatytos nekilnojamojo turto mokestinės vertės
 
 1. Mokesčio mokėtojų (šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nekilnojamojo turto savininkų) skundai dėl turto vertintojo nustatytos nekilnojamojo turto mokestinės vertės – mokesčio mokėtojo rašytinis kreipimasis į turto vertintoją dėl neteisingų, netikslių, neišsamių Nekilnojamojo turto kadastro informacinėje sistemoje įrašytų nekilnojamojo turto kadastro informacinės sistemos duomenų, turinčių įtakos mokestinei vertei, siekiant šiuos duomenis ištaisyti, (toliau – skundas) pateikiami turto vertintojui per 3 mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo dienos. Šiuos skundus turto vertintojas išnagrinėja ir sprendimą dėl skundo priima per 2 mėnesius nuo skundo gavimo dienos. Turto vertintojo sprendimas dėl skundo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -262,9 +262,9 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 4. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą dėl skundo ar prašymo apskundė Administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės įvykdymo užtikrinimo būdus, nurodytus Mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas juos naikinti.
 
-\## III SKYRIUS. MOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS IR MOKĖJIMAS
+III SKYRIUS. MOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS IR MOKĖJIMAS
 
-\#### 11 straipsnis. Duomenų, reikalingų mokesčiui apskaičiuoti, pateikimas
+## 11 straipsnis. Duomenų, reikalingų mokesčiui apskaičiuoti, pateikimas
 
 1. Nekilnojamojo turto registro informacinės sistemos ir Nekilnojamojo turto kadastro informacinės sistemos duomenis, reikalingus mokesčiui apskaičiuoti, turto vertintojas pateikia mokesčių administratoriui kiekvienais metais iki vasario 1 dienos.
 
@@ -274,7 +274,7 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 4. Mokesčio mokėtojo pageidavimu turto vertintojas parengia Nekilnojamojo turto registro informacinės sistemos išrašą, kuriame nurodoma nekilnojamojo turto mokestinė vertė. Fizinių asmenų pageidavimu šie išrašai vieną kartą per mokestinį laikotarpį parengiami ir įteikiami nemokamai.
 
-\#### 12 straipsnis. Mokesčio apskaičiavimas, deklaravimas ir mokėjimas
+## 12 straipsnis. Mokesčio apskaičiavimas, deklaravimas ir mokėjimas
 
 1. Mokestį apskaičiuoja, deklaruoja, išskyrus atvejus, kai šiame straipsnyje nustatyta tvarka mokestį apskaičiuoja ir deklaraciją mokesčio mokėtojui pateikia mokesčių administratorius, ir sumoka šio įstatymo 3 straipsnyje mokesčio mokėtoju nurodytas asmuo.
 
@@ -298,9 +298,9 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 9. Mokestis apskaičiuojamas pagal šio įstatymo 11 straipsnyje nurodytus duomenis.
 
-\## IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 13 straipsnis. Mokesčio įskaitymas
+## 13 straipsnis. Mokesčio įskaitymas
 
 1. Mokestis įskaitomas į savivaldybės, kurios teritorijoje yra nekilnojamasis turtas, biudžetą, jeigu šiame straipsnyje nenustatyta kitaip.
 
@@ -308,11 +308,11 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 3. Mokestis, kuris apskaičiuojamas taikant šio įstatymo 6 straipsnio 6 ir 8 dalyse nustatytus tarifus, įskaitomas į valstybės biudžetą.
 
-\#### 14 straipsnis. Atsakomybė
+## 14 straipsnis. Atsakomybė
 
 Pažeidus šio įstatymo nuostatas, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 ir 5 dalis, įsigalioja 2026 m. sausio 1 d.
 

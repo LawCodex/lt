@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d294a820eac511f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D294A820EAC5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 42 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 42 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 42 straipsnio pakeitimas
+## 1 straipsnis. 42 straipsnio pakeitimas
 
 1. Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „9. Tvarką, reglamentuojančią apdovanojimą ginklais, nustato Vyriausybė. Krašto apsaugos ministras nustato apdovanojimo ginklais tvarką krašto apsaugos sistemoje. Vidaus reikalų ministras, suderinęs su teisingumo ministru ir finansų ministru, nustato vidaus tarnybos sistemos pareigūnų apdovanojimo ginklais tvarką.Valstybės saugumo departamento direktorius ir krašto apsaugos ministras nustato žvalgybos pareigūnų apdovanojimo ginklais tvarką.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. vasario 1 d.
 

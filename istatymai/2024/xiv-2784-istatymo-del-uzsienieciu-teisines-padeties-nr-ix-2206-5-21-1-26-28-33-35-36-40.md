@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/94ddba90347211efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.94DDBA903472.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 21-1, 26, 28, 33, 35, 36, 40, 44, 44-1, 49-5, 50, 53, 57, 57-1, 58, 59, 61, 62, 62-1, 63, 94, 95, 100, 103, 105-2, 128, 133, 137, 138, 139, 140-1, 140-5, 140-25, 140-26, 140-27 straipsnių pakeitimo ir 61-1 straipsnio pripažinimo netekusiu galios įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f229d00049a611efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F229D00049A6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 72 ir 589 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 72 IR 589 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 72 straipsnio pakeitimas
+## 1 straipsnis. 72 straipsnio pakeitimas
 
 Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
 
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.“
 
-\#### 2 straipsnis. 589 straipsnio pakeitimas
+## 2 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 21 punktą ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.“
 
 „58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 47^1 straipsnyje, 72 straipsnio 4, 5, 6, 7 dalyse, 95, 96, 97, 98, 98^1, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 308^1 straipsnio 4, 6, 7 dalyse, 362^1 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2024 m. lapkričio 1 d.
 

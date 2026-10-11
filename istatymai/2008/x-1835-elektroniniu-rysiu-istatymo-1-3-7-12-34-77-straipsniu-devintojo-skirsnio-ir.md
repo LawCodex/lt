@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.168E39B9FB8E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.168E39B9FB8E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 1, 3, 7, 12, 34, 77 straipsnių, devintojo skirsnio ir priedo pakeitimo ir papildymo bei Įstatymo papildymo nauju priedu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2004, Nr. [69-2382](https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049); 2007, Nr. [46-1723](https://www.e-tar.lt/portal/lt/legalAct/TAR.875C391F41F9))
 
-\#### 1 straipsnis. 1 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 6 dalies pakeitimas
 
 1 straipsnio 6 dalyje po žodžių „šio Įstatymo“ įrašyti skaičių „2“, vietoj žodžio „nurodytus“ įrašyti žodį „nurodytų“ ir šią dalį išdėstyti taip:
 
 „6. Šiuo Įstatymu siekiama reglamentuoti Lietuvos Respublikos elektroninių ryšių veiklą pagal šio Įstatymo 2 priede nurodytų Europos Sąjungos teisės aktų reikalavimus.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas
+## 2 straipsnis. 3 straipsnio papildymas
 
 1. Papildyti 3 straipsnį 79 dalimi:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „84. Šio Įstatymo devintajame skirsnyje vartojamos sąvokos, neapibrėžtos šiame Įstatyme, suprantamos taip, kaip jos apibrėžtos Asmens duomenų teisinės apsaugos įstatyme.“
 
-\#### 3 straipsnis. 7 straipsnio 3 dalies ir 8 dalies 15 punkto pakeitimas
+## 3 straipsnis. 7 straipsnio 3 dalies ir 8 dalies 15 punkto pakeitimas
 
 1. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 „15) svarsto Ryšių reguliavimo tarnybos rengiamų teisės aktų projektus ir teikia Ryšių reguliavimo tarnybai pasiūlymus dėl jų priėmimo, pakeitimo ar papildymo;“.
 
-\#### 4 straipsnis. 12 straipsnio 5 dalies pakeitimas
+## 4 straipsnis. 12 straipsnio 5 dalies pakeitimas
 
 Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -78,11 +78,11 @@ Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
 
 3) įgyvendina tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių šio Įstatymo devintojo skirsnio, išskyrus šio Įstatymo 61 straipsnio 5 dalies, 64 straipsnio 7 dalies ir 68 straipsnio 2 dalies nuostatas, reguliavimo dalyką, nuostatas.“
 
-\#### 5 straipsnis. 34 straipsnio 12 dalies pripažinimas netekusia galios
+## 5 straipsnis. 34 straipsnio 12 dalies pripažinimas netekusia galios
 
 34 straipsnio 12 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. Devintojo skirsnio pakeitimas
+## 6 straipsnis. Devintojo skirsnio pakeitimas
 
 Pakeisti devintąjį skirsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti devintąjį skirsnį ir jį išdėstyti taip:
 
 DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ PASLAUGAS, TVARKYMAS IR PRIVATUMO APSAUGA
 
-\#### 61 straipsnis. Ryšio konfidencialumas
+## 61 straipsnis. Ryšio konfidencialumas
 
 1. Draudžiama be faktinių elektroninių ryšių paslaugų naudotojų sutikimo klausytis, įrašyti, kaupti ar kitu būdu perimti pranešimų turinį ir srauto duomenis ar su jais susipažinti, išskyrus atvejus, kai tai galima teisėtai daryti pagal šio Įstatymo 66 ir 77 straipsnius. Be faktinių elektroninių ryšių paslaugų naudotojų sutikimo draudžiama atskleisti elektroninių ryšių tinklais perduodamų pranešimų turinį ir (ar) susijusius srauto duomenis arba sudaryti sąlygas sužinoti tokią informaciją ir (ar) susijusius srauto duomenis, išskyrus įstatymo nustatytus atvejus.
 
@@ -102,19 +102,19 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 5. Radijo ryšio konfidencialumas nėra pažeistas, jei pranešimas priimtas kaip radijo trikdžiai ir, norint nustatyti jo kilmę, apie tai pranešama Ryšių reguliavimo tarnybai. Ryšių reguliavimo tarnybos atliekama radijo stebėsena taip pat nelaikoma radijo ryšio konfidencialumo pažeidimu. Ryšių reguliavimo tarnybos darbuotojams draudžiama atskleisti, platinti ar panaudoti priimtų neviešų radijo pranešimų turinį ar pranešti apie tokį pranešimą.
 
-\#### 62 straipsnis. Viešųjų elektroninių ryšių paslaugų ir tinklų saugumas
+## 62 straipsnis. Viešųjų elektroninių ryšių paslaugų ir tinklų saugumas
 
 1. Viešųjų elektroninių ryšių paslaugų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones savo teikiamų paslaugų saugumui užtikrinti, o prireikus – kartu su viešųjų ryšių tinklų teikėjais imtis tokių pat priemonių viešųjų ryšių tinklų saugumui užtikrinti. Šios priemonės turi užtikrinti saugumo lygį, atitinkantį iškilusią grėsmę.
 
 2. Iškilus ypatingai elektroninių ryšių tinklo ar jo dalies saugumo pažeidimo grėsmei, viešųjų elektroninių ryšių paslaugų teikėjas privalo informuoti abonentus ar registruotus elektroninių ryšių paslaugų naudotojus apie tokią grėsmę ir tais atvejais, kai paslaugų teikėjo taikomos priemonės nepanaikina grėsmės priežasčių, taip pat informuoti abonentus ar registruotus elektroninių ryšių paslaugų naudotojus apie visas įmanomas saugos priemones ir nurodyti tikėtinas jų kainas.
 
-\#### 63 straipsnis. Automatinis skambučių persiuntimas
+## 63 straipsnis. Automatinis skambučių persiuntimas
 
 1. Viešųjų elektroninių ryšių paslaugų teikėjai privalo užtikrinti, kad abonentai ar registruoti elektroninių ryšių paslaugų naudotojai galėtų nemokamai ir paprastomis priemonėmis uždrausti kitų asmenų skambučių automatinį persiuntimą į abonento ar registruoto elektroninių ryšių paslaugų naudotojo galinį įrenginį.
 
 2. Šio straipsnio 1 dalies nuostatos taikomos abonentinėms linijoms, prijungtoms prie skaitmeninių telefono stočių, ir, jeigu techniškai įmanoma ir nereikia neproporcingų investicijų, abonentinėms linijoms, prijungtoms prie analoginių telefono stočių.
 
-\#### 64 straipsnis. Ryšio linijos, iš kurios skambinama ir į kurią skambinama, nustatymas
+## 64 straipsnis. Ryšio linijos, iš kurios skambinama ir į kurią skambinama, nustatymas
 
 1. Jeigu yra galimybė nustatyti ryšio liniją, iš kurios skambinama, skambinantis faktinis elektroninių ryšių paslaugų naudotojas turi turėti galimybę bet kurio skambučio metu nemokamai ir paprastomis priemonėmis panaikinti galimybę nustatyti ryšio liniją, iš kurios skambinama. Skambinantis abonentas turi turėti tokią galimybę bet kuriai ryšio linijai.
 
@@ -132,13 +132,13 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 8. Šio straipsnio 1–7 dalių nuostatos taikomos abonentinėms linijoms, prijungtoms prie skaitmeninių telefono stočių, ir, jeigu techniškai įmanoma ir nereikia neproporcingų investicijų, abonentinėms linijoms, prijungtoms prie analoginių telefono stočių.
 
-\#### 65 straipsnis. Duomenų kategorijos
+## 65 straipsnis. Duomenų kategorijos
 
 1. Viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai gali generuoti, kaupti ir tvarkyti tik tuos abonentų ir registruotų elektroninių ryšių paslaugų naudotojų asmens, srauto ir susijusius duomenis, kurie yra būtini abonentams ir paslaugų naudotojams identifikuoti, paslaugoms teikti, apskaitai ir atsiskaitymams. Ši nuostata netaikoma šio straipsnio 2 dalyje nurodytoms duomenų kategorijoms.
 
 2. Siekiant užtikrinti, kad duomenys būtų prieinami sunkių ir labai sunkių nusikaltimų, kaip jie apibrėžti Lietuvos Respublikos baudžiamajame kodekse, tyrimo, atskleidimo ir baudžiamojo persekiojimo tikslais, viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai privalo išsaugoti ir įstatymų nustatyta tvarka neatlygintinai teikti kompetentingoms institucijoms jų generuojamus arba tvarkomus šio Įstatymo 1 priede išvardytus duomenis.
 
-\#### 66 straipsnis. Duomenų tvarkymas
+## 66 straipsnis. Duomenų tvarkymas
 
 1. Apie savo tinkluose generuojamus ir tvarkomus duomenis viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai praneša Vyriausybės nustatyta tvarka Valstybinei duomenų apsaugos inspekcijai.
 
@@ -166,7 +166,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 10. Duomenų tvarkymo teisėtumo priežiūra elektroninių ryšių srityje atliekama vadovaujantis duomenų tvarkymą ir privatumo apsaugą reglamentuojančiais įstatymais ir kitais teisės aktais.
 
-\#### 67 straipsnis. Abonento teisė susipažinti ir kontroliuoti viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjų tvarkomus duomenis apie abonentą
+## 67 straipsnis. Abonento teisė susipažinti ir kontroliuoti viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjų tvarkomus duomenis apie abonentą
 
 1. Prieš įtraukiant abonentų duomenis į spausdintus ar elektroninius viešai prieinamus abonentų sąrašus arba abonentų sąrašus, prieinamus per informacijos tarnybas, abonentai turi būti nemokamai informuojami, kokiems tikslams rengiami abonentų sąrašai, į kuriuos numatoma įtraukti jų duomenis, taip pat jiems turi būti pranešama apie tolesnes šių duomenų naudojimo galimybes, pagrįstas elektroninių abonentų sąrašų paieškos funkcijomis.
 
@@ -178,7 +178,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 5. Valstybinė duomenų apsaugos inspekcija pagal savo kompetenciją ir kiek tai susiję su šio skirsnio reguliavimo dalyku nustato detalių sąskaitų teikimo reikalavimus.
 
-\#### 68 straipsnis. Duomenų teikimas tretiesiems asmenims
+## 68 straipsnis. Duomenų teikimas tretiesiems asmenims
 
 1. Gavęs abonento ar registruoto elektroninių ryšių paslaugų naudotojo išankstinį sutikimą, viešojo ryšių tinklo ir (ar) viešųjų elektroninių ryšių paslaugų teikėjas šio Įstatymo 66 straipsnio 1 dalyje nurodytus duomenis gali naudoti elektroninių ryšių paslaugų rinkodaros ar pridėtinės vertės paslaugų teikimo tikslams arba perduoti trečiajai šaliai, kai ji yra faktinė pridėtinės vertės paslaugų šiam abonentui ar registruotam elektroninių ryšių paslaugų naudotojui teikėja. Tokį sutikimą pareiškusiam abonentui ar registruotam elektroninių ryšių paslaugų naudotojui turi būti užtikrintos lengvai įgyvendinamos ir nemokamos priemonės bet kada jį pakeisti, sustabdyti ar atšaukti.
 
@@ -188,7 +188,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 4. Vyriausybė, vadovaudamasi bendraisiais duomenų tvarkymo principais, nustatytais Asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje, nustato duomenų, nurodytų šio Įstatymo 65 straipsnio 2 dalyje, teikimo sąlygas ir tvarką, pagal kurią būtų užtikrintas saugomų duomenų nedelsiamas ir saugus perdavimas, kai kompetentinga institucija to pareikalauja.
 
-\#### 69 straipsnis. Tiesioginė rinkodara
+## 69 straipsnis. Tiesioginė rinkodara
 
 1. Naudoti elektroninių ryšių paslaugas, įskaitant elektroninio pašto pranešimų siuntimą, tiesioginės rinkodaros tikslu leidžiama tik gavus išankstinį abonento ar registruoto elektroninių ryšių paslaugų naudotojo sutikimą.
 
@@ -196,7 +196,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 3. Draudžiama tiesioginės rinkodaros tikslu siųsti elektroninio pašto pranešimus slepiant siuntėjo, kurio vardu informacija siunčiama, tapatybę arba nenurodant galiojančio adreso, kuriuo gavėjas galėtų pareikalauti nutraukti tokios informacijos siuntimą.
 
-\#### 70 straipsnis. Statistinių duomenų teikimas
+## 70 straipsnis. Statistinių duomenų teikimas
 
 1. Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka kaupia informaciją apie šio Įstatymo 65 straipsnio 2 dalyje nurodytų duomenų teikimą kompetentingoms institucijoms.
 
@@ -210,7 +210,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 3. Teikiant šio straipsnio 2 dalyje nurodytus statistinius duomenis, duomenys apie asmenį neturi būti pateikiami.“
 
-\#### 7 straipsnis. 77 straipsnio 1 ir 2 dalių pakeitimas
+## 7 straipsnis. 77 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 77 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -220,7 +220,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 
 „2. Jeigu šio Įstatymo 65 straipsnyje nurodyti duomenys reikalingi operatyvinės veiklos subjektams, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – operatyvinės veiklos subjekto – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (ar) paslaugas, turi tokią informaciją saugoti ilgiau, negu nurodyta šio Įstatymo 66 straipsnio 4, 5 ir 6 dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.“
 
-\#### 8 straipsnis. Įstatymo papildymas nauju 1 priedu
+## 8 straipsnis. Įstatymo papildymas nauju 1 priedu
 
 1. Papildyti Įstatymą nauju 1 priedu:
 
@@ -308,7 +308,7 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJOS
 
 6.2. duomenys, reikalingi nustatyti geografinę tinklo įrangos vietą, atitinkančią vietovės žymą (Cell ID), tuo momentu, kai ryšio duomenys buvo išsaugoti.“
 
-\#### 9 straipsnis. Įstatymo priedo pakeitimas
+## 9 straipsnis. Įstatymo priedo pakeitimas
 
 Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
 
@@ -350,7 +350,7 @@ elektroninių ryšių įstatymo
 
 15. 2008 m. birželio 20 d. Europos Komisijos direktyva 2008/63/EB dėl konkurencijos telekomunikacijų galinių įrenginių rinkose (OL 2008 L 162, p. 20).“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2009 m. kovo 15 d.
 

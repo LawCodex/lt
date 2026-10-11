@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C4931928A573"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C4931928A573.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo ir Žemės įstatymo pakeitimo įstatymas
@@ -30,19 +30,19 @@ PIRMASIS SKIRSNIS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 5, 11 IR 23 STRA
 
 (Žin., 1996, Nr. [53-1245](https://www.e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7); 1999, Nr. [86-2561](https://www.e-tar.lt/portal/lt/legalAct/TAR.3266F3F55E43); 2000, Nr. [75-2265](https://www.e-tar.lt/portal/lt/legalAct/TAR.F1ADBF19DC03), Nr. [82-2479](https://www.e-tar.lt/portal/lt/legalAct/TAR.232096D12427); 2002, Nr. [123-5519](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D6BD92444EF); 2005, Nr. [148-5391](https://www.e-tar.lt/portal/lt/legalAct/TAR.54EE5D207D8A))
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Uosto direkcija turi teisę išnuomoti uosto žemę su uosto veikla susijusioms reikmėms, taip pat Lietuvos Respublikos Vyriausybės nustatyta tvarka perduoti ją laikinai neatlygintinai naudotis.“
 
-\#### 2 straipsnis. 11 straipsnio 5 punkto pakeitimas
+## 2 straipsnis. 11 straipsnio 5 punkto pakeitimas
 
 Pakeisti 11 straipsnio 5 punktą ir jį išdėstyti taip:
 
 „5) nuomoti uosto žemę, taip pat Lietuvos Respublikos Vyriausybės nustatyta tvarka perduoti ją laikinai neatlygintinai naudotis;“.
 
-\#### 3 straipsnis. 23 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 23 straipsnio 3 dalies pakeitimas
 
 Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ ANTRASIS SKIRSNIS ŽEMĖS ĮSTATYMO 8, 32 STRAIPSNIŲ PAPILDYMAS IR PAKEITIMAS
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 2004, Nr. [28-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED447C0D254))
 
-\#### 1 straipsnis. 8 straipsnio 3 dalies papildymas ir pakeitimas
+## 1 straipsnis. 8 straipsnio 3 dalies papildymas ir pakeitimas
 
 Papildyti 8 straipsnio 3 dalį nauju 2 punktu, buvusį 2 punktą laikyti 3 punktu ir šią dalį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Papildyti 8 straipsnio 3 dalį nauju 2 punktu, buvusį 2 punktą laikyti 3 punkt
 
 3) apskrities viršininkas – visais kitais atvejais.“
 
-\#### 2 straipsnis. 32 straipsnio 3 dalies 3 punkto pakeitimas
+## 2 straipsnis. 32 straipsnio 3 dalies 3 punkto pakeitimas
 
 Pakeisti 32 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 

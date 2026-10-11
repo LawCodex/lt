@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C250B466D9AB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C250B466D9AB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konstitucinio teismo įstatymo 18, 26 ir 84 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1993, Nr. [6-120](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEEB2C5600E3); 1996, Nr. [73-1749](https://www.e-tar.lt/portal/lt/legalAct/TAR.28B7811F3364); 1998, Nr. [55-1519](https://www.e-tar.lt/portal/lt/legalAct/TAR.C37A41E4C344); 2003, Nr. [108-4815](https://www.e-tar.lt/portal/lt/legalAct/TAR.24C8CE9FDB29))
 
-\#### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
 
 18 straipsnio 1 dalyje vietoj žodžio „tinklalapyje“ įrašyti žodį „svetainėje“ ir šią dalį išdėstyti taip:
 
 „Apie Konstitucinio Teismo teisminius posėdžius paskelbiama Konstitucinio Teismo patalpose, taip pat Konstitucinio Teismo interneto svetainėjeir pranešama visuomenės informavimo priemonėms.“
 
-\#### 2 straipsnis. 26 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 26 straipsnio 2 dalies pakeitimas
 
 Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Jeigu Konstitucinis Teismas priima sprendimą priimti nagrinėti prašymą, Konstitucinio Teismo pirmininkas tuoj pat apie tai paskelbia Konstitucinio Teismo interneto svetainėje ir Teisės aktų registro tvarkytojui pateikia pranešimą, kuriame nurodo tikslų ginčijamo akto pavadinimą, jo priėmimo datą ir tai, kad pagal Lietuvos Respublikos Konstitucijos 106 straipsnį minėto akto galiojimas sustabdomas nuo šio pranešimo oficialaus paskelbimo Teisės aktų registredienos iki Konstitucinio Teismo nutarimo dėl šios bylos paskelbimo. Teisės aktų registro tvarkytojo gautas Konstitucinio Teismo pirmininko pranešimas nedelsiant paskelbiamas Teisės aktų registre.“
 
-\#### 3 straipsnis. 84 straipsnio pakeitimas
+## 3 straipsnis. 84 straipsnio pakeitimas
 
 Pakeisti 84 straipsnį ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Konstitucinio Teismo išvados, taip pat sprendimai priimti nagrinėti prašymą 
 
 Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2 punktuose nurodytais klausimais įsigalioja kitą dieną po jų paskelbimo Konstitucinio Teismo interneto svetainėje, jeigu pačiuose potvarkiuose nenustatyta kita jų įsigaliojimo data.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

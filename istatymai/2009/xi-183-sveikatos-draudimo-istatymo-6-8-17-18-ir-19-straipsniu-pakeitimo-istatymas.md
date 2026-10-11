@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF9D15015A1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3CF9D15015A1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6, 8, 17, 18 ir 19 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2003, Nr. [113-5058](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6E07E950C5B); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239), Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62), 6325, Nr. [188-7002](https://www.e-tar.lt/portal/lt/legalAct/TAR.41AE07789F2A); 2005, Nr. [61-2159](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB690AFBE93), Nr. [86-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.61D84FD9FC5C), Nr. [144-5236](https://www.e-tar.lt/portal/lt/legalAct/TAR.A084FA4B0D41); 2006, Nr. [57-2023](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4EF4E7BE664); 2008, Nr. [135-5239](https://www.e-tar.lt/portal/lt/legalAct/TAR.1866A40EE952), Nr. [149-6022](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB86E35BB7CC))
 
-\#### 1 straipsnis. 6 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 6 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2) nedirbantys darbingo amžiaus asmenys, užsiregistravę gyvenamosios vietos darbo biržoje kaip norintys ir galintys dirbti tam tikrą darbą;“.
 
-\#### 2 straipsnis. 8 straipsnio 2, 4 ir 5 dalių pakeitimas
+## 2 straipsnis. 8 straipsnio 2, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokėtas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), suteiktas asmeniui, nelaikomam apdraustuoju, šio Įstatymo 17 straipsnio 1–9 dalyse nustatytų įmokų mokėtojai moka teritorinei ligonių kasai.“
 
-\#### 3 straipsnis. 17 straipsnio pakeitimas
+## 3 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir išdėstyti jį taip:
 
@@ -84,7 +84,7 @@ Pakeisti 17 straipsnį ir išdėstyti jį taip:
 
 11. Fizinių asmenų, nurodytų šio straipsnio 4 dalyje, išskyrus asmenis, kurie verčiasi individualia žemės ūkio veikla, metinė privalomojo sveikatos draudimo įmoka nuo individualios veiklos pajamų skaičiuojama nuo sumos, ne didesnės kaip 48 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma. Šio straipsnio 4 dalyje nurodytų fizinių asmenų, kurie verčiasi individualia žemės ūkio veikla, metinė privalomojo sveikatos draudimo įmoka nuo šios individualios veiklos pajamų skaičiuojama nuo sumos, ne didesnės kaip 12 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma.“
 
-\#### 4 straipsnis. 18 straipsnio pakeitimas
+## 4 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -110,13 +110,13 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 10. Šio Įstatymo 17 straipsnio 10 ir 11 dalyse nurodytų nuostatų įgyvendinimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 5 straipsnis. 19 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 19 straipsnio 2 dalies pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pažeidus šio Įstatymo 17 straipsnio 4–9 dalyse nurodytų įmokų apskaičiavimo ir sumokėjimo tvarką, asmenims, kurie privalo mokėti ir (ar) apskaičiuoti šias įmokas, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. Baigiamosios nuostatos
+## 6 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas taikomas apskaičiuojant ir mokant 2009 metų ir vėlesnių metų privalomojo sveikatos draudimo įmokas.
 

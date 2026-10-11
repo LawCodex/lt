@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E43AEF2A5725"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E43AEF2A5725.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8 ir 14 straipsnių pakeitimo įstatymo 1, 2, 4 straipsnių pripažinimo negaliojančiais ir 3, 5 straipsnių pakeitimo įstatymas
@@ -24,23 +24,23 @@ Vilnius
 
 (Žin., 2006, Nr. [72-2675](https://www.e-tar.lt/portal/lt/legalAct/TAR.309180C69F27))
 
-\#### 1 straipsnis. 1 straipsnio pripažinimas negaliojančiu
+## 1 straipsnis. 1 straipsnio pripažinimas negaliojančiu
 
 Pripažinti 1 straipsnį negaliojančiu.
 
-\#### 2 straipsnis. 2 straipsnio pripažinimas negaliojančiu
+## 2 straipsnis. 2 straipsnio pripažinimas negaliojančiu
 
 Pripažinti 2 straipsnį negaliojančiu.
 
-\#### 3 straipsnis. 3 straipsnio 2 ir 3 dalių pripažinimas negaliojančiomis
+## 3 straipsnis. 3 straipsnio 2 ir 3 dalių pripažinimas negaliojančiomis
 
 Pripažinti 3 straipsnio 2 ir 3 dalis negaliojančiomis.
 
-\#### 4 straipsnis. 4 straipsnio pripažinimas negaliojančiu
+## 4 straipsnis. 4 straipsnio pripažinimas negaliojančiu
 
 Pripažinti 4 straipsnį negaliojančiu.
 
-\#### 5 straipsnis. 5 straipsnio 2 dalies pripažinimas netekusia galios
+## 5 straipsnis. 5 straipsnio 2 dalies pripažinimas netekusia galios
 
 Pripažinti 5 straipsnio 2 dalį netekusia galios.
 

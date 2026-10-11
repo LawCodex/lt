@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/351e0300db0911eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.351E0300DB09.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos pareiškimų pagal 1959 m. balandžio 20 d. Europos konvenciją dėl savitarpio pagalbos baudžiamosiose bylose ir 1978 m. kovo 17 d. Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose papildomą protokolą
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS PAREIŠKIMŲ PAGAL 1959 M. BALANDŽIO 20 D. EUROPOS KO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos pareiškimai, susiję su Europos prokuratūros kompetencija
+## 1 straipsnis. Lietuvos Respublikos pareiškimai, susiję su Europos prokuratūros kompetencija
 
 1. Lietuvos Respublikos Seimas, siekdamas papildyti Lietuvos Respublikos pareiškimus pagal 1959 m. balandžio 20 d. Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose 24 straipsnį (toliau - Konvencija), padarytus Lietuvos Respublikos Seimo 1995 m. balandžio 4 d. nutarimu Nr. I-838 „Dėl 1959 m. balandžio 20 d. Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose ir 1978 m. kovo 17 d. Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose papildomo protokolo ratifikavimo“, ir atsižvelgdamas į 2017 m. spalio 12 d. Tarybos reglamento (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje, 104 straipsnį, pareiškia, kad:
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Seimas, vadovaudamasis Konvencijos 15 straipsniu, taip pat pareiškia, kad prašymus pagal Konvencijos 11 straipsnį, inicijuotus vieno iš Lietuvos Respublikoje esančių Europos deleguotųjų prokurorų, perduoda Lietuvos Respublikos generalinė prokuratūra.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimo pagal Konvencijos 24 straipsnį teisinės pasekmės
+## 2 straipsnis. Lietuvos Respublikos pareiškimo pagal Konvencijos 24 straipsnį teisinės pasekmės
 
 Lietuvos Respublika naudojasi galimybe pareiškimo pagal Konvencijos 24 straipsnį teisines pasekmes aiškinti taip:
 

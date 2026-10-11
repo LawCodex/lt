@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E14E65020CCC"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/TAR.E14E65020CCC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas

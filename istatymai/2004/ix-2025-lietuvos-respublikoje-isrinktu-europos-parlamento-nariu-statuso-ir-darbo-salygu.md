@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.08A4E2305357"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08A4E2305357.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOJE IŠRINKTŲ EUROPOS PARLAMENTO NARIŲ STATUSO IR DARBO SĄL
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas nustato Lietuvos Respublikoje išrinkto Europos Parlamento nario (toliau – Europos Parlamento narys) statusą, darbo sąlygų ir socialines garantijas Lietuvos Respublikoje, kai jis atlieka Europos Parlamento nario funkcijas.
 
@@ -34,7 +34,7 @@ Vilnius
 
 3. Šio Įstatymo nuostatos taikomos Europos Parlamento nariams nuo Lietuvos Respublikoje išrinkto Europos Parlamento nario pažymėjimo įteikimo momento iki kadencijos pabaigos. Europos Parlamento nario kadencija pasibaigia, kai į pirmąjį Europos Parlamento posėdį susirenka naujai kadencijai išrinkto Europos Parlamento nariai arba remiantis kitu Europos Sąjungos teisės aktų nustatytu pagrindu.
 
-\#### 2 straipsnis. Europos Parlamento nario pažymėjimas ir diplomatinis pasas
+### 2 straipsnis. Europos Parlamento nario pažymėjimas ir diplomatinis pasas
 
 1. Europos Parlamento nario statusą ir teises, nustatytus šiame Įstatyme, kituose Lietuvos Respublikos, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse, patvirtina Europos Parlamento nario pažymėjimas.
 
@@ -42,7 +42,7 @@ Vilnius
 
 3. Kai asmuo gauna Lietuvos Respublikoje išrinkto Europos Parlamento nario pažymėjimą, jo kadencijos laikotarpiui išduodamas Lietuvos Respublikos diplomatinis pasas.
 
-\#### 3 straipsnis. Europos Parlamento nario teisės Lietuvos Respublikoje
+### 3 straipsnis. Europos Parlamento nario teisės Lietuvos Respublikoje
 
 Europos Parlamento narys turi teisę:
 
@@ -60,37 +60,35 @@ Europos Parlamento narys turi teisę:
 
 7) turėti kitas teises ir pareigas, nustatytas šiame ir kituose Lietuvos Respublikos bei Europos Sąjungos teisės aktuose.
 
-\#### 4 straipsnis. Europos Parlamento nario neliečiamybė
+### 4 straipsnis. Europos Parlamento nario neliečiamybė
 
 Europos Parlamento narys Lietuvos Respublikos teritorijoje turi tokią pačią asmens neliečiamybę kaip ir Lietuvos Respublikos Seimo narys, jeigu Europos Sąjungos teisės normos nenumato kitaip.
 
-\#### 5 straipsnis. Europos Parlamento nario pareigų derinimas
+### 5 straipsnis. Europos Parlamento nario pareigų derinimas
 
 1. Europos Parlamento nario pareigos, išskyrus jo pareigas Europos Parlamente, nesuderinamos su jokiomis kitomis pareigomis Lietuvos Respublikos valstybės ar savivaldybės institucijose ar įstaigose. Europos Parlamento nario pareigos taip pat nesuderinamos su jokia veikla pagal darbo sutartį, išskyrus šio straipsnio 2 dalyje numatytą išimtį.
 
 2. Europos Parlamento narys gali užsiimti kūrybine veikla ir gauti už ją atlyginimą.
 
-\#### 6 straipsnis. Europos Parlamento narių socialinės garantijos
+### 6 straipsnis. Europos Parlamento narių socialinės garantijos
 
 Europos Parlamento nariai Lietuvos Respublikoje turi tokias pačias socialines garantijas kaip ir Lietuvos Respublikos Seimo nariai. Europos Parlamento narys neturi teisės į Lietuvos Respublikos teisės aktų nustatomas socialines garantijas, jeigu atitinkamos garantijos Europos Parlamento nariui suteikiamos pagal Europos Sąjungos teisę.
 
-\### ANTRASIS SKIRSNIS. EUROPOS PARLAMENTO NARIŲ DARBO SĄLYGOS
+ANTRASIS SKIRSNIS. EUROPOS PARLAMENTO NARIŲ DARBO SĄLYGOS
 
-\#### 7 straipsnis. Aprūpinimas darbo patalpomis
+### 7 straipsnis. Aprūpinimas darbo patalpomis
 
 1. Europos Parlamento nariui, atliekančiam su Europos Parlamento veikla susijusias funkcijas, jo buvimo Lietuvos Respublikos Seimo rūmuose metu juose laikinai suteikiama darbo vieta.
 
 2. Europos Parlamento nariams jų darbo su rinkėjais metu savivaldybės nemokamai (už šaltą ir karštą vandenį, elektros energiją, dujas, šiluminę energiją ir kitas komunalines paslaugas moka savivaldybė) suteikia patalpas susirinkimams rengti bei rinkėjams priimti.
 
-\#### 8 straipsnis. Tarnybinių transporto priemonių naudojimas
+### 8 straipsnis. Tarnybinių transporto priemonių naudojimas
 
 Lietuvos Respublikos Seimo transporto priemonių naudojimo Europos Parlamento nario funkcijoms atlikti ir apmokėjimo už jas tvarką nustato Seimo valdyba.
 
-\### TREČIASIS SKIRSNIS
+## TREČIASIS SKIRSNIS. EUROPOS PARLAMENTO NARIŲ ATLYGINIMAS ir išlaidos
 
-**EUROPOS PARLAMENTO NARIŲ ATLYGINIMAS ir išlaidos**
-
-\#### 9 straipsnis. Europos Parlamento nario atlyginimas
+### 9 straipsnis. Europos Parlamento nario atlyginimas
 
 1. Europos Parlamento nariui kas mėnesį iš valstybės biudžeto mokamas atlyginimas, lygus Lietuvos Respublikos Seimo nario atlyginimui, jeigu Europos Sąjungos teisės aktai nenustato kitaip.
 
@@ -100,11 +98,11 @@ Lietuvos Respublikos Seimo transporto priemonių naudojimo Europos Parlamento na
 
 4. Jeigu Europos Parlamento nariui teismo nuosprendžiu paskirtas areštas, terminuotas laisvės atėmimas ar laisvės atėmimas iki gyvos galvos, Europos Parlamento nario atlyginimas jam nemokamas už visą šios bausmės atlikimo laiką. Panaikinus nuosprendį, kai nuteistasis išteisinamas ar nuosprendis panaikinamas ir byla nutraukiama, Europos Parlamento nariui ne vėliau kaip per 5 darbo dienas išmokamas visas Europos Parlamento nario atlyginimas, kurio jis negavo atlikdamas arešto ar laisvės atėmimo bausmę.
 
-\#### 10 straipsnis. Europos Parlamento nario išlaidų apmokėjimas
+### 10 straipsnis. Europos Parlamento nario išlaidų apmokėjimas
 
 Visų su Europos Parlamento nario pareigų vykdymu susijusių kelionių (iš Europos Parlamento nario gyvenamosios vietos į Lietuvos Respublikos Seimą) ir kitos išlaidos apmokamos iš Lietuvos Respublikos valstybės biudžeto tuo atveju, kai tokios išlaidos nekompensuojamos iš Europos Sąjungos biudžeto.
 
-\#### 11 straipsnis. Europos Parlamento narių teisė grįžti į ankstesnį darbą
+### 11 straipsnis. Europos Parlamento narių teisė grįžti į ankstesnį darbą
 
 1. Pasibaigus Europos Parlamento nario kadencijai, taip pat atsistatydinęs Europos Parlamento narys turi teisę Valstybės tarnybos įstatymo nustatyta tvarka grįžti į ankstesnį darbą.
 
@@ -114,9 +112,9 @@ Visų su Europos Parlamento nario pareigų vykdymu susijusių kelionių (iš Eur
 
 4. Europos Parlamento nariui išeitinė pašalpa mokama iš valstybės biudžeto tik tuo atveju, jei atlyginimas jam mokamas iš valstybės biudžeto.
 
-\### KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 12 straipsnis. Institucijų bendradarbiavimas užtikrinant Europos Parlamento nario statusą
+### 12 straipsnis. Institucijų bendradarbiavimas užtikrinant Europos Parlamento nario statusą
 
 1. Europos Parlamento nariams šio Įstatymo nustatytas darbo sąlygas, vadovaudamiesi šiuo Įstatymu, sudaro Lietuvos Respublikos Seimo kanceliarija ir savivaldybės administracijos direktorius.
 

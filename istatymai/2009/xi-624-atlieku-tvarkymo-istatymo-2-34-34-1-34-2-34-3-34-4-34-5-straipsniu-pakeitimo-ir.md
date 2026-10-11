@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.69542DFA6B8E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.69542DFA6B8E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 34, 34-1, 34-2, 34-3, 34-4, 34-5 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1726](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1); 2002, Nr. [72-3016](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5E88FF9E5A); 2004, Nr. [73-2544](https://www.e-tar.lt/portal/lt/legalAct/TAR.01BB1CB0D2CF); 2005, Nr. [84-3111](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C4D507335E2); 2008, Nr. [76-2999](https://www.e-tar.lt/portal/lt/legalAct/TAR.DBE45E39FB46), Nr. [81-3180](https://www.e-tar.lt/portal/lt/legalAct/TAR.353FCA5A0773))
 
-\#### 1 straipsnis. 2 straipsnio 14, 18, 19 ir 33 dalių pakeitimas ir straipsnio papildymas 38 dalimi
+## 1 straipsnis. 2 straipsnio 14, 18, 19 ir 33 dalių pakeitimas ir straipsnio papildymas 38 dalimi
 
 1. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip:
 
@@ -62,7 +62,7 @@ Vilnius
 
 „38.**Valstybė narė** – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.“
 
-\#### 2 straipsnis. 34 straipsnio pakeitimas
+## 2 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -88,13 +88,13 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 6. Programos lėšas administruoja ir jų naudojimo tvarką, finansuojamų priemonių tikslus, uždavinius, siekiamus rezultatus, paraiškų pateikimo ir vertinimo kriterijus, subsidijų ir dotacijų teikimo tvarką nustato Aplinkos ministerija.“
 
-\#### 3 straipsnis. 341 straipsnio papildymas 5 dalimi
+## 3 straipsnis. 341 straipsnio papildymas 5 dalimi
 
 Papildyti 34^1 straipsnį 5 dalimi:
 
 „5. Elektros ir elektroninės įrangos gamintojai ir importuotojai iki 2011 m. vasario 13 d. parduodami naujus gaminius pardavimo dokumentuose vartotojams gali nurodyti 2–10 kategorijų elektros ir elektroninės įrangos atliekų surinkimo, apdorojimo ir aplinkai tinkamo šalinimo išlaidas, o iki 2013 m. vasario 13 d. – 1 kategorijos elektros ir elektroninės įrangos atliekų surinkimo, apdorojimo ir aplinkai tinkamo šalinimo išlaidas. Elektros ir elektroninės įrangos kategorijas nustato Aplinkos ministerija.“
 
-\#### 4 straipsnis. 342 straipsnio pakeitimas
+## 4 straipsnis. 342 straipsnio pakeitimas
 
 Pakeisti 34^2 straipsnį ir jį išdėstyti taip:
 
@@ -104,13 +104,13 @@ Pakeisti 34^2 straipsnį ir jį išdėstyti taip:
 
 2. Elektros ir elektroninės įrangos gamintojai ir importuotojai registruodamiesi pateikia ir vieną iš šio Įstatymo 346 straipsnio 3 dalyje nurodytų dokumentų, įrodančių, kad visų jų elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas.“
 
-\#### 5 straipsnis. 343 straipsnio 5 dalies pakeitimas
+## 5 straipsnis. 343 straipsnio 5 dalies pakeitimas
 
 Papildyti 34^3 straipsnio 5 dalį nauju antru sakiniu ir šią dalį išdėstyti taip:
 
 „5. Organizacija gali vykdyti savo veiklą tik gavusi licenciją. Licencijavimo taisykles, atsižvelgdama į alyvų, elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuočių atliekų bei netinkamų naudoti transporto priemonių tvarkymo organizavimo specifiką, tvirtina Vyriausybė. Už licencijos Organizacijai išdavimą, patikslinimą ar licencijos dublikato išdavimą imama Vyriausybės nustatyto dydžio valstybės rinkliava.“
 
-\#### 6 straipsnis. 344 straipsnio 1 ir 4 dalių pakeitimas
+## 6 straipsnis. 344 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 344 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -120,7 +120,7 @@ Papildyti 34^3 straipsnio 5 dalį nauju antru sakiniu ir šią dalį išdėstyti
 
 „4. Iš vartotojų priimtas buityje susidarančias elektros ir elektroninės įrangos atliekas platintojai privalo perduoti elektros ir elektroninės įrangos atliekas tvarkančiai įmonei,kuri atitinka tokioms įmonėms Aplinkos ministerijos patvirtintus reikalavimus.“
 
-\#### 7 straipsnis. 345 straipsnio pakeitimas
+## 7 straipsnis. 345 straipsnio pakeitimas
 
 Pakeisti 34^5 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 34^5 straipsnį ir jį išdėstyti taip:
 
 Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka standartiniu ženklu ženklinti po 2005 m. rugpjūčio 13 d. į Lietuvos rinką išleidžiamą elektros ir elektroninę įrangą. Ženklinimas privalo būti toks, kad po išleidimo į Lietuvos rinką būtų galima vienareikšmiškai nustatyti elektros ir elektroninės įrangos gamintoją ir (ar) importuotoją ir išleidimo į Lietuvos rinką datą ir kad vartotojai būtų informuoti apie būtinybę atskirai rinkti elektros ir elektroninės įrangos atliekas. Jeigu dėl elektros ir elektroninės įrangos dydžio ar funkcinės paskirties ant minėtos įrangos to padaryti praktiškai neįmanoma, toks ženklinimas turi būti spausdinamas ant elektros ir elektroninės įrangos pakuotės, naudojimo instrukcijoje ir garantijos pažymėjime.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2009 m. gruodžio 28 d.
 

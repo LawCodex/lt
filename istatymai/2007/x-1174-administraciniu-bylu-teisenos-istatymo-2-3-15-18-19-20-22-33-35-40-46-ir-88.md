@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9F44E333859B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9F44E333859B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 2, 3, 15, 18, 19, 20, 22, 33, 35, 40, 46 ir 88 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8); 2001, Nr. [62-2219](https://www.e-tar.lt/portal/lt/legalAct/TAR.F750ED862D51); 2002, Nr. [31-1125](https://www.e-tar.lt/portal/lt/legalAct/TAR.5FA6E8079BD9); 2004, Nr. [171-6320](https://www.e-tar.lt/portal/lt/legalAct/TAR.B515345EB7B6))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -80,19 +80,19 @@ Pastaba. Tarnautojų (pareigūnų) paskirstymą pagal jiems suteiktus viešojo a
 
 20. Skundas, prašymas – kreipimosi į kompetentingą instituciją, kad būtų išspręstas administracinis ginčas, formos. Su skundais į kompetentingą instituciją kreipiasi privatūs asmenys, o su prašymais – valstybės ir savivaldybių institucijos, jų atstovai, tarnautojai. Įstatymai gali numatyti ir kitas kreipimosi formas.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 3 straipsnio 1 dalyje išbraukti žodžius „ar vidaus“ ir šią dalį išdėstyti taip:
 
 „1. Administracinis teismas sprendžia ginčus dėl teisės viešojo administravimo srityje.“
 
-\#### 3 straipsnis. 15 straipsnio 1 dalies 3 punkto pakeitimas
+## 3 straipsnis. 15 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 15 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo (Civilinio kodekso 6.271 straipsnis);“.
 
-\#### 4 straipsnis. 18 straipsnio 2 dalies 4 ir 6 punktų pakeitimas
+## 4 straipsnis. 18 straipsnio 2 dalies 4 ir 6 punktų pakeitimas
 
 1. Pakeisti 18 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 15 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „6) pagal pareiškimus, kai kyla ginčai tarp nepavaldžių vienas kitam viešojo administravimo subjektų dėl kompetencijos ar įstatymų pažeidimo (šio įstatymo 15 straipsnio 1 dalies 8 punktas), išskyrus atvejus, kai viena iš ginčo šalių yra centrinė administravimo institucija, įstaiga, tarnyba;“.
 
-\#### 5 straipsnis. 19 straipsnio 1 dalies ir 2 dalies 3 ir 6 punktų pakeitimas
+## 5 straipsnis. 19 straipsnio 1 dalies ir 2 dalies 3 ir 6 punktų pakeitimas
 
 1. 19 straipsnio 1 dalyje vietoj skaičiaus „11“ įrašyti skaičių „12“ ir šią dalį išdėstyti taip:
 
@@ -116,23 +116,23 @@ Pakeisti 15 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „6) pagal pareiškimus, kai kyla ginčai tarp nepavaldžių vienas kitam viešojo administravimo subjektų dėl kompetencijos ar administracinius santykius reglamentuojančių įstatymų pažeidimo (šio įstatymo 15 straipsnio 1 dalies 8 punktas), o pareiškėjas ar atsakovas yra centrinė administravimo institucija, įstaiga ar tarnyba;“.
 
-\#### 6 straipsnis. 20 straipsnio 1 dalies 3 punkto pakeitimas
+## 6 straipsnis. 20 straipsnio 1 dalies 3 punkto pakeitimas
 
 20 straipsnio 1 dalies 3 punkte vietoj skaičiaus „11“ įrašyti skaičių „12“ ir šį punktą išdėstyti taip: „3) vienintelė ir galutinė instancija byloms dėl norminių administracinių aktų, kuriuos priėmė centriniai valstybinio administravimo subjektai, teisėtumo, taip pat šio įstatymo 15 straipsnio 1 dalies 12 punkte nurodytoms byloms;“.
 
-\#### 7 straipsnis. 22 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 22 straipsnio 1 dalyje išbraukti žodžius „ar vidaus“ ir šią dalį išdėstyti taip:
 
 „1. Skundą (prašymą) dėl viešojo administravimo subjekto priimto administracinio akto ar veiksmo (neveikimo) turi teisę paduoti asmenys, taip pat kiti viešojo administravimo subjektai, įskaitant valstybės ir savivaldybių viešojo administravimo tarnautojus, pareigūnus ir įstaigų vadovus, kai jie mano, kad jų teisės ar įstatymų saugomi interesai yra pažeisti.“
 
-\#### 8 straipsnis. 33 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 33 straipsnio 2 dalies pakeitimas
 
 33 straipsnio 2 dalyje išbraukti žodžius „ar vidaus“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu viešojo administravimo subjektas vilkina atitinkamo klausimo nagrinėjimą ir nustatytu laiku jo neišsprendžia, toks neveikimas (vilkinimas) gali būti apskųstas per du mėnesius nuo dienos, kai baigiasi įstatymo ar kito teisės akto nustatytas klausimo išsprendimo laikas.“
 
-\#### 9 straipsnis. 35 straipsnio pakeitimas
+## 9 straipsnis. 35 straipsnio pakeitimas
 
 35 straipsnyje išbraukti žodžius „ar vidaus“ ir šį straipsnį išdėstyti taip:
 
@@ -140,19 +140,19 @@ Pakeisti 15 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 Skundas (prašymas) paduodamas tam administraciniam teismui, kurio veikimo teritorijoje yra viešojo administravimo subjekto, kurio teisės aktai ar veiksmai (neveikimas) yra skundžiami, buveinė.“
 
-\#### 10 straipsnis. 40 straipsnio 1 dalies 11 punkto pakeitimas
+## 10 straipsnis. 40 straipsnio 1 dalies 11 punkto pakeitimas
 
 Pakeisti 40 straipsnio 1 dalies 11 punktą ir jį išdėstyti taip:
 
 „11) žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo (Civilinio kodekso 6.271 straipsnis).“
 
-\#### 11 straipsnis. 46 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 46 straipsnio 1 dalies pakeitimas
 
 46 straipsnio 1 dalyje vietoj skaičiaus „9“ įrašyti skaičių „10“ ir šią dalį išdėstyti taip:
 
 „1. Administraciniuose teismuose bylas, numatytas šio įstatymo 15 straipsnio 1 dalies 3, 5 ir 10 punktuose, išskyrus skundus dėl apylinkės teismo nutarimų administracinių teisės pažeidimų bylose, nagrinėja vienas teisėjas, o kitas bylas – trijų teisėjų kolegija. Kai kuriais atvejais teismo pirmininko nutartimi gali būti sudaroma teisėjų kolegija ir tokioms byloms nagrinėti, kurioms numatytas vienasmenis nagrinėjimas.“
 
-\#### 12 straipsnis. 88 straipsnio 5 punkto pakeitimas
+## 12 straipsnis. 88 straipsnio 5 punkto pakeitimas
 
 Pakeisti 88 straipsnio 5 punktą ir jį išdėstyti taip:
 

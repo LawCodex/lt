@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b3bd57f0f77d11e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B3BD57F0F77D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 16, 17, 18-2, 22, 29 ir 34 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ALKOHOLIO KONTROLĖS ĮSTATYMO NR. I-857 16, 17, 182, 22, 29 IR 34 STRAIPSNIŲ P
 
 Vilnius
 
-\#### 1 straipsnis. 16 straipsnio pakeitimas
+## 1 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „4. Įmonėms, Europos juridiniams asmenims ar jų filialams, norintiems verstis mažmenine prekyba alkoholiniais gėrimais mažmeninės prekybos ir viešojo maitinimo vietose, įrengtose daugiabučiuose gyvenamuosiuose namuose, licencijos išduodamos, jeigu šios įmonės, Europos juridiniai asmenys ar jų filialai pateikia Lietuvos Respublikos Vyriausybės nustatyta tvarka daugiabučio gyvenamojo namo savininkų bendrijos susirinkimo (valdybos) arba, jeigu tokia bendrija neįsteigta ar bendrija valdo daugiau kaip vieną daugiabutį gyvenamąjį namą, gyvenamojo namo patalpų savininkų ir neprivatizuotų butų nuomininkų daugumos sutikimą (sutikimą pasirašantys asmenys gali jame nurodyti prekybos alkoholiniais gėrimais laiką).“
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas
+## 2 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -46,31 +46,31 @@ Vilnius
 
 „1) įmonėms, turinčioms licencijas verstis didmenine ar mažmenine prekyba alkoholiniais gėrimais, Europos juridiniams asmenims ir jų filialams, turintiems licencijas verstis mažmenine prekyba alkoholiniais gėrimais;“.
 
-\#### 3 straipsnis. 182 straipsnio pakeitimas
+## 3 straipsnis. 182 straipsnio pakeitimas
 
 Pakeisti 18^2 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) įmonė, Europos juridinis asmuo ar jo filialas nevykdo įsipareigojimų muitinei (taikoma įmonėms, Europos juridiniams asmenims ir jų filialams, norintiems įsigyti licencijas verstis mažmenine prekyba alkoholiniais gėrimais neapmuitinamose parduotuvėse);“.
 
-\#### 4 straipsnis. 22 straipsnio pakeitimas
+## 4 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) valstybės ir savivaldybių institucijose ir įstaigose. Ši nuostata netaikoma šių institucijų ir įstaigų patalpose vykstančiuose oficialiuose priėmimuose, kituose protokoliniuose renginiuose, santuokų įregistravimo ceremonijose, taip pat šių institucijų ir įstaigų patalpose įrengtose viešojo maitinimo vietose, kuriose įmonės, Europos juridiniai asmenys ar jų filialai turi licencijas verstis mažmenine prekyba alkoholiniais gėrimais;“.
 
-\#### 5 straipsnis. 29 straipsnio pakeitimas
+## 5 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) koncertų, cirko, diskotekų, jaunimo sporto ir laisvalaikio renginių, kitų masinių renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus šių renginių vietose esančias prekybos vietas. Masiniuose renginiuose (išskyrus vaikams ir paaugliams iki 18 metų skirtus renginius) gali būti pateikiamas renginį remiančios ir alkoholinius gėrimus, kuriais leidžiama prekiauti masiniuose renginiuose, gaminančios arba jais prekiaujančios įmonės, Europos juridinio asmens ar jo filialo pavadinimas ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys teisės aktų reikalavimams;“.
 
-\#### 6 straipsnis. 34 straipsnio pakeitimas
+## 6 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Už šio Įstatymo 18 straipsnio 4 dalies 3, 4, 5 punktų reikalavimų nesilaikymą įmonės,Europos juridiniai asmenys ir jų filialai baudžiaminuo vieno tūkstančio litų iki trijų tūkstančių litų bauda.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. liepos 1 d.
 

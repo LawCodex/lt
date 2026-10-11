@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/aabb2df04dd211f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AABB2DF04DD2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos melioracijos įstatymo Nr. I-323 1, 2, 7 ir 9 straipsnių pakeitimo ir Įstatymo papildymo VI skyriumi įstatymas
@@ -26,7 +26,7 @@ MELIORACIJOS ĮSTATYMO NR. I-323 1, 2, 7 IR 9 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Šis įstatymas nustato melioracijos statinių nuosavybės santykius, žemės savininkų ir kitų naudotojų teises ir pareigas, susijusias su melioracijos statinių statyba, naudojimu ir apsauga, taip pat melioracijos organizavimą, valdymą, projektavimą, ekspertizę, melioruotos žemės ir melioracijos statinių apskaitą, melioracijos statinių nurašymą bei melioracijos finansavimo tvarką.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos žemės įstatyme.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) kontroliuoja ir koordinuoja valstybei nuosavybės teise priklausančių melioracijos statinių rekonstravimo darbų investicijų projektų, finansuojamų valstybės biudžeto, Europos Sąjungos struktūrinių fondų ir kitomis teisėtai gautomis lėšomis, rengimą.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Melioruotos žemės ir melioracijos statinių apskaita yra sudedamoji Žemės įstatymo 35 straipsnio 2 dalies 3 punkte nurodyto rinkinio dalis. Melioruotos žemės ir melioracijos statinių apskaitos tvarką nustato žemės ūkio ministras.“
 
-\#### 5 straipsnis. Įstatymo papildymas VI skyriumi
+## 5 straipsnis. Įstatymo papildymas VI skyriumi
 
 Papildyti Įstatymą VI skyriumi:
 
@@ -70,7 +70,7 @@ Papildyti Įstatymą VI skyriumi:
 
 MELIORACIJOS STATINIŲ NURAŠYMAS
 
-\#### 11 straipsnis. Melioracijos statinių nurašymas
+## 11 straipsnis. Melioracijos statinių nurašymas
 
 1. Nurašyti valstybei nuosavybės teise priklausantys urbanizuotose ir (ar) urbanizuojamose teritorijose esantys drenažo rinktuvai, kurie statybos metu buvo įrengti iš aplinkai ir žmogaus sveikatai nekenksmingų medžiagų ir kurių išardymo išlaidos viršija liekamųjų medžiagų vertę, neišardomi, paliekami savaime sunykti.
 
@@ -80,7 +80,7 @@ MELIORACIJOS STATINIŲ NURAŠYMAS
 
 4. Nurašius melioracijos statinius, melioracijos statiniai ir melioruota žemė išbraukiami iš melioruotos žemės ir melioracijos statinių apskaitos.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

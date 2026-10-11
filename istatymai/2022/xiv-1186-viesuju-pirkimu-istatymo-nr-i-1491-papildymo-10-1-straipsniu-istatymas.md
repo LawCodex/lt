@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e6aaf36000e411ed8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E6AAF36000E4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 papildymo 10-1 straipsniu įstatymas
@@ -40,20 +40,6 @@ Papildyti Įstatymo I skyriaus trečiąjį skirsnį 101 straipsniu:
 
 3) dalyvaujančios perkančiosios organizacijos rinkoje vykdo mažiau kaip 20 procentų tos veiklos, kurią apima bendradarbiavimas. Vertinant, ar perkančioji organizacija atitinka šią sąlygą, atsižvelgiama į 3 metų iki sutarties sudarymo duomenis apie šios perkančiosios organizacijos vidutinę bendrąją apyvartą iš tos veiklos arba į kitą perkančiosios organizacijos ta veikla grindžiamą rodiklį. Jeigu bendradarbiavimo sutartį sudaranti perkančioji organizacija veiklą vykdo trumpiau kaip 3 finansinius metus ar dėl jos reorganizavimo šioje dalyje nurodyti duomenys yra nebeaktualūs, vertinant, ar ji atitinka šią sąlygą, gali būti remiamasi jos veiklos planais.“
 
-part_99fb9360614c48da8a076b061e3c13dc_end
-
-part_a12065d6bb464c5fa08968c7a4f00f8d_end
-
-part_f82ac3f2d3864712997eff47c3e62ed8_end
-
-part_5053ce2db0f34f55b5e3998eb7da599c_end
-
-part_327d1da0e9ea43408d6e67cb833cef11_end
-
-part_a8e8507109ae4fc4ba1625b9cb8c00bb_end
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_e78c6af9f7734cc096f68b3da22b79c0_end

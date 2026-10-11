@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3250d492d1d611f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3250D492D1D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 7, 8, 9, 11, 12, 16 straipsnių ir 1, 2 priedų pakeitimo įstatymas
@@ -26,13 +26,13 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO NR. I-1495 2,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip:
 
 „18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos žemės gelmių įstatyme.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip:
 
 2. Pripažinti netekusiu galios 6 straipsnio 8 dalį.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -76,13 +76,13 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 9. Atsakingoji institucija aplinkos ministro nustatyta tvarka gali priimti sprendimą pratęsti atrankos išvados galiojimą ne ilgesniam kaip 3 metų terminui per 10 darbo dienų nuo planuojamos ūkinės veiklos organizatoriaus ar poveikio aplinkai vertinimo dokumentų rengėjo pateikto motyvuoto prašymo dėl atrankos išvados galiojimo termino pratęsimo, jeigu planuojamos ūkinės veiklos organizatorius ar poveikio aplinkai vertinimo dokumentų rengėjas pateikė pagrįstą informaciją, kad planuojama ūkinė veikla, jos vykdymo ir vietos sąlygos, kuriomis remiantis priimta atrankos išvada, nepasikeitė. Atsakingoji institucija aplinkos ministro nustatyta tvarka paskelbia visuomenei sprendimą apie atrankos išvados galiojimo termino pratęsimą.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Jeigu iki programos patvirtinimo, tačiau ne vėliau kaip per 20 darbo dienų nuo programos gavimo savivaldybės administracijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba, veikdama pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus, kuriuose nustatoma savivaldybių institucijų kompetencija, priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiamos, kol galioja savivaldybės tarybos priimtas neigiamas motyvuotas sprendimas, išskyrus atvejus, kai planuojama ūkinė veikla: yra pripažinta valstybei svarbiu projektu ar Lietuvos Respublikos regioninės plėtros įstatymo nustatyta tvarkaregioninės svarbos projektu arba ji reikalinga minėtiems projektams įgyvendinti reikalingai inžinerinei infrastruktūrai įrengti ar pritaikyti; reikalinganacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčiai infrastruktūrai, nurodytai Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, įrengti; yra gynybos ir saugumo pramonės projektas ar gynybos ir saugumo pramonės produktų gamybos vystymo projektas arba reikalinga minėtiems projektams įgyvendinti reikalingai inžinerinei infrastruktūrai įrengti ar pritaikyti. Apie savivaldybės tarybos priimtą neigiamą motyvuotą sprendimą savivaldybės administracija nedelsdama, ne vėliau kaip per 3 darbo dienas nuo šioje dalyje nurodyto sprendimo priėmimo dienos, informuoja atsakingąją instituciją ir planuojamos ūkinės veiklos organizatorių ir pateikia neigiamą motyvuotą savivaldybės tarybos sprendimą. Atsakingoji institucija, gavusi šį savivaldybės tarybos sprendimą, apie tai informuoja visuomenę aplinkos ministro nustatyta tvarka.“
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 17. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal šio įstatymo 10 straipsnį, sprendimas dėl programos tvirtinimo priimamas tik gavus šio įstatymo 10 straipsnio 4 dalyje nurodytos koordinuojančiosios institucijos išvadą dėl tarpvalstybinio poveikio aplinkai vertinimo.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 6. Poveikio aplinkai vertinimo dokumentų rengėjas gautų pasiūlymų įvertinimą pateikia ataskaitoje.“
 
-\#### 7 straipsnis. 11 straipsnio pakeitimas
+## 7 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 18. Kai šio straipsnio 17 dalyje nustatytais atvejais ataskaita iš esmės keičiama ar iš esmės taisoma, poveikio aplinkai vertinimo dokumentų rengėjas po pakartotinio viešo visuomenės supažindinimo su ataskaita turi pateikti ją atsakingajai institucijai ir poveikio aplinkai vertinimo subjektams mutatis mutandis šio straipsnio 4 dalyje nustatyta tvarka.“
 
-\#### 8 straipsnis. 12 straipsnio pakeitimas
+## 8 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -212,13 +212,13 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „9. Gavusi suinteresuotos visuomenės pasiūlymus šio įstatymo 11 straipsnio 5 dalyje nustatyta tvarka, atsakingoji institucija, prieš priimdama sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, aplinkos ministro nustatyta tvarka organizuoja susitikimą suinteresuotos visuomenės pasiūlymams svarstyti ir pakviečia į jį planuojamos ūkinės veiklos organizatorių, poveikio aplinkai vertinimo dokumentų rengėją ir pasiūlymus pateikusius suinteresuotos visuomenės atstovus.“
 
-\#### 9 straipsnis. 16 straipsnio pakeitimas
+## 9 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Atsakingosios institucijos sprendimai ar veiksmai (neveikimas), susiję su sprendimų priėmimu, ir poveikio aplinkai vertinimo subjektų veiksmai (neveikimas) gali būti skundžiami Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo arba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 10 straipsnis. Įstatymo 1 priedo pakeitimas
+## 10 straipsnis. Įstatymo 1 priedo pakeitimas
 
 1. Pakeisti Įstatymo 1 priedo 8.2 papunktį ir jį išdėstyti taip:
 
@@ -228,7 +228,7 @@ Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „10.7. upių vagų gilinimas ir (ar) kranto (-ų) keitimas, įskaitant salų, dambos įrengimą ar nukasimą (kai gilinamas 1 km ar ilgesnis nenutrūkstamas upės vagos ruožas);“.
 
-\#### 11 straipsnis. Įstatymo 2 priedo pakeitimas
+## 11 straipsnis. Įstatymo 2 priedo pakeitimas
 
 1. Pakeisti Įstatymo 2 priedo 10.8 papunktį ir jį išdėstyti taip:
 
@@ -238,7 +238,7 @@ Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „11.17. upių vagų gilinimas ir (ar) kranto (-ų) keitimas, įskaitant salų, dambos įrengimą ar nukasimą, išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 10.7 papunktyje nurodytą veiklą;“.
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1 ir 4 straipsnius ir šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2D4FE98CA120"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2D4FE98CA120.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10, 16, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1997, Nr. [65-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4); 1999, Nr. [48-1522](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F8B117346DA); 2001, Nr. [71-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.88B95BAFAD55), Nr. [108-3904](https://www.e-tar.lt/portal/lt/legalAct/TAR.8937DA604013); 2002, Nr. [5-161](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF38D543B3BA), Nr. [41-1526](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A5C5BD12DF), Nr. [102-4552](https://www.e-tar.lt/portal/lt/legalAct/TAR.589B558A2903), Nr. [112-4965](https://www.e-tar.lt/portal/lt/legalAct/TAR.2117BD8F47B7); 2003, Nr. [64-2880](https://www.e-tar.lt/portal/lt/legalAct/TAR.0639335F5E79), Nr. [101-4542](https://www.e-tar.lt/portal/lt/legalAct/TAR.64E7997DADB5); 2004, Nr. [156-5695](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5A84A3C29A1); 2005, Nr. [72-2588](https://www.e-tar.lt/portal/lt/legalAct/TAR.B1A9DF157DD8);2009, Nr. [61-2407](https://www.e-tar.lt/portal/lt/legalAct/TAR.6748AEE543A4), Nr. [153-6883](https://www.e-tar.lt/portal/lt/legalAct/TAR.B57FFE1E8C8A); 2010, Nr. [76-3869](https://www.e-tar.lt/portal/lt/legalAct/TAR.83C46ACB5AA3); 2011, Nr. [143-6706](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A38EF2DE1DC))
 
-\#### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Piliečių, kurių prašymai atkurti nuosavybės teises į nekilnojamąjį turtą pateikti po 1993 m. rugsėjo 10 d., nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos grąžinant žemę, mišką natūra arba už išlikusį nekilnojamąjį turtą atlyginama šiame įstatyme nurodytais būdais, išskyrus atlyginimą pinigais (ši išimtis netaikoma šio įstatymo 16 straipsnio 9 dalies 6 punkte ir 21 straipsnio 3 dalyje numatytais atvejais), jeigu iki prašymo padavimo dienos nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo 2 straipsnyje nurodytiems piliečiams.“
 
-\#### 2 straipsnis. 16 straipsnio 3 dalies, 10 dalies 7 punkto, 11 dalies pakeitimas ir 9 dalies 3 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 16 straipsnio 3 dalies, 10 dalies 7 punkto, 11 dalies pakeitimas ir 9 dalies 3 punkto pripažinimas netekusiu galios
 
 1. 16 straipsnio 3 dalies pirmame sakinyje išbraukti žodžius „išduodamų vertybinių popierių skaičius“ ir šią dalį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „11. Už valstybės išperkamus ūkinės-komercinės paskirties pastatus ir jų priklausinius valstybė atlygina pinigais.“
 
-\#### 3 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 21 straipsnį nauja 3 dalimi:
 

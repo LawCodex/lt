@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.77D0D5A1C96D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77D0D5A1C96D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 2, 6, 7, 8, 9, 11, 12, 15, 16, 29 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,19 +30,19 @@ Vilnius
 
 2000, Nr. 83-2509; 2001, Nr. 39-1355)
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies papildymas ir pakeitimas
 
 Papildyti bei pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Zonoje, suderinus su Muitinės departamentu prie Finansų ministerijos, gali būti įrengiamos nuo likusios zonos teritorijos dalies ir jai nepriklausančios Lietuvos Respublikos muitų teritorijos dalies atskirtos zonos teritorijos dalys (toliau – laisvosios teritorijos), kuriose prekės importo ir eksporto muitų bei mokesčių ir kitų ekonominio pobūdžio draudimų ir apribojimų požiūriu yra laikomos esančiomis už Lietuvos Respublikos muitų teritorijos ribų.“
 
-\#### 2 straipsnis. 6 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 2 dalies pakeitimas
 
 6 straipsnio 2 dalyje išbraukti žodžius „kuriuos tvirtina Lietuvos Respublikos Vyriausybė“ ir šią dalį išdėstyti taip:
 
 „2. Zonos valdymo bendrovės įgaliojimus nustato šis įstatymas, taip pat zonos valdymo bendrovės įstatai.“
 
-\#### 3 straipsnis. 7 straipsnio 2 dalies papildymas ir 4 dalies papildymas bei pakeitimas
+## 3 straipsnis. 7 straipsnio 2 dalies papildymas ir 4 dalies papildymas bei pakeitimas
 
 1. Papildyti 7 straipsnio 2 dalį antruoju sakiniu ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Papildyti bei pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Zonoje leidžiama įmonės steigimo dokumentuose nustatyta ūkinė-komercinė veikla, nesuvaržyta Lietuvos Respublikos įmonių įstatymo bei atitinkamų įmonių rūšių įstatymų. Mažmeninė prekyba laisvosiose teritorijose leidžiama tik jų vidaus poreikiams tenkinti.“
 
-\#### 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 8 straipsnio 1 dalies aštuntojoje pastraipoje vietoj žodžių „azartinio lošimo namų“ įrašyti žodžius „lošimo namų (kazino)“, dešimtojoje pastraipoje išbraukti žodžius „leidybinė veikla, išskyrus savo poreikius“ ir šią dalį išdėstyti taip:
 
@@ -82,13 +82,13 @@ gyvulių, sergančių ypač pavojingomis ligomis, gydymas;
 
 darbo migracijos klausimų tvarkymas.“
 
-\#### 5 straipsnis. 9 straipsnio 4 dalies 2 punkto pakeitimas
+## 5 straipsnis. 9 straipsnio 4 dalies 2 punkto pakeitimas
 
 Pakeisti 9 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) zonos valdymo bendrovės valdybos nario, atstovaujančio bendrovėje valstybės interesams, skyrimo;“.
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 11 straipsnyje išbraukti žodžius „vietos“, „narių pakeitimus (išskyrus zonos valdymo bendrovės valdybos“, „kurį tvirtina Lietuvos Respublikos Vyriausybė) zonos valdymo bendrovės valdybos ir savivaldybės teikimu“, sunumeruoti straipsnio dalis ir visą straipsnį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 9 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 2. Zonos valdymo bendrovėje stebėtojų taryba nesudaroma.“
 
-\#### 7 straipsnis. 12 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas ir papildymas
+## 7 straipsnis. 12 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas ir papildymas
 
 1. 12 straipsnio 1 dalį papildyti vienuoliktąja pastraipa ir šią dalį išdėstyti taip:
 
@@ -142,7 +142,7 @@ sudaryti sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organi
 
 sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti.“
 
-\#### 8 straipsnis. 15 straipsnio 1, 4 ir 8 dalių pakeitimas ir papildymas
+## 8 straipsnis. 15 straipsnio 1, 4 ir 8 dalių pakeitimas ir papildymas
 
 1. 15 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios, buvusius 4 ir 5 punktus laikyti atitinkamai 3 ir 4 punktu, dalį papildyti 5, 6 ir 7 punktais ir ją išdėstyti taip:
 
@@ -170,7 +170,7 @@ sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti.“
 
 „8. Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius.“
 
-\#### 9 straipsnis. 16 straipsnio pakeitimas
+## 9 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -182,7 +182,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 3. Laisvosioms teritorijoms atskirti nuo likusios zonos teritorijos dalies ir jai nepriklausančios Lietuvos Respublikos muitų teritorijos dalies reikalinga infrastruktūra, statomų muitinės darbui reikalingų pastatų projektai, taip pat visų laisvosiose teritorijose statomų pastatų projektai Lietuvos Respublikos Vyriausybės nustatyta tvarka turi būti suderinti su Muitinės departamentu prie Finansų ministerijos.“
 
-\#### 10 straipsnis. 29 straipsnio pakeitimas
+## 10 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 

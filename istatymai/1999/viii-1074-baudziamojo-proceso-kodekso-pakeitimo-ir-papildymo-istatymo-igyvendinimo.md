@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D9346597E7F1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D9346597E7F1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo įgyvendinimo įstatymo 2 ir 3 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [112-3105](https://www.e-tar.lt/portal/lt/legalAct/TAR.E96F15BB81E0))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2.Gautus ir iki 1999 m. sausio 1 d. neišnagrinėtus prašymus pateikti teikimą, taip pat neišnagrinėtus teikimus Aukščiausiojo Teismo senatui dėl įsiteisėjusių Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus teisėjų kolegijos nutarčių, priimtų nagrinėjant bylas kasacine tvarka, ar Lietuvos apeliacinio teismo Baudžiamųjų bylų skyriaus teisėjų kolegijos nutarčių, priimtų nagrinėjant bylas kasacine tvarka, išnagrinėja kasacine tvarka septynių teisėjų kolegija pagal procesines normas, galiojančias nuo 1999 m. sausio 1 d. Tai nelaikoma pakartotiniu kasaciniu skundu.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Iš 3 straipsnio išbraukti žodžius „ir apygardų teismuose“, po žodžio „apeliaciniame“ įrašyti žodį „teisme“ ir šį straipsnį išdėstyti taip:
 

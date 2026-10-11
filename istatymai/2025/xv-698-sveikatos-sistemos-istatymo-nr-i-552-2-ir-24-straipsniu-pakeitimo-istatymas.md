@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/19e06bf2e55e11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.19E06BF2E55E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 ir 24 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ SVEIKATOS SISTEMOS ĮSTATYMO NR. I-552 2 IR 24 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnį 10^1 dalimi:
 
 „10^1. **Slaugytojo padėjėjas** – asmuo, šio įstatymo nustatyta tvarka įgijęs slaugytojo padėjėjo profesinę kvalifikaciją, taip pat asmuo, kuris šiame įstatyme nustatytomis sąlygomis laikomas įgijusiu slaugytojo padėjėjo profesinę kvalifikaciją.“
 
-\#### 2 straipsnis. 24 straipsnio pakeitimas
+## 2 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 7. Slaugytojo padėjėjo profesinio mokymo modulinės programos apimtį, slaugytojų padėjėjų kvalifikacijos tobulinimo tvarką ir kompetenciją teikiant slaugos paslaugas, vadovaudamasis šio įstatymo 14 straipsnio 5 punktu ir 16 straipsnio 7 dalimi, nustato sveikatos apsaugos ministras.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

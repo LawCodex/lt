@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F579EC30FC8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F579EC30FC8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 2, 3, 6 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1993, Nr. [28-640](https://www.e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2); 1994, Nr. [34-622](https://www.e-tar.lt/portal/lt/legalAct/TAR.129FFA47A525); 1996, Nr. [35-867](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC9299319CC), Nr. [116-2692](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B0CA9A82E27))
 
-\#### 1 straipsnis. 2 straipsnio papildymas
+## 1 straipsnis. 2 straipsnio papildymas
 
 Papildyti 2 straipsnį 4 dalimi:
 
 „Lietuvos Respublikos kredito unijų nariai ar asocijuoti nariai turi teisę laikyti indėlius užsienio valiuta kredito unijose, kurių nariai ar asocijuoti nariai jie yra ir kurios turi Lietuvos banko leidimus atlikti operacijas užsienio valiuta.“
 
-\#### 2 straipsnis. 3 straipsnio 2 ir 3 dalių papildymas
+## 2 straipsnis. 3 straipsnio 2 ir 3 dalių papildymas
 
 3 straipsnio 2 dalyje po žodžių „fiziniai asmenys“ įrašyti žodžius „bei Lietuvos Respublikos kredito unijų nariai ar asocijuoti nariai“, po žodžių „ir indėlių bankuose“ įrašyti žodžius „bei kredito unijose“, 3 dalyje po žodžių „atlieka tik bankai“ įrašyti žodžius „ir kredito unijos“ ir šias dalis išdėstyti taip:
 
@@ -42,7 +42,7 @@ Papildyti 2 straipsnį 4 dalimi:
 
 Operacijas užsienio valiuta (pirkimą, pardavimą, keitimą, paskolų teikimą ir kitas) atlieka tik bankai ir kredito unijos, turintys Lietuvos banko leidimą.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnyje vietoj žodžių „ir bankai“ įrašyti žodžius „bankai ir kredito unijos“ ir visą straipsnį išdėstyti taip:
 

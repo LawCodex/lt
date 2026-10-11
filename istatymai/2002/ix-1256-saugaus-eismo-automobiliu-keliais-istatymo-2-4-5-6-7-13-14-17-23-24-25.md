@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C4D9EA53EF60"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C4D9EA53EF60.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2, 4, 5, 6, 7, 13, 14, 17, 23, 24, 25 straipsnių pakeitimo ir papildymo, penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [92-2883](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB))
 
-\#### 1 straipsnis. 2 straipsnio 2, 3, 4, 5, 7, 10, 11, 12, 16, 17, 18, 19, 21, 22, 26, 29, 33 dalių pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio 2, 3, 4, 5, 7, 10, 11, 12, 16, 17, 18, 19, 21, 22, 26, 29, 33 dalių pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -98,13 +98,13 @@ Vilnius
 
 „33. **Vairuotojas** – asmuo, kuris vairuoja ar moko vairuoti transporto priemonę, varo keliu gyvulius ar paukščius, taip pat raitelis, vadeliotojas.“
 
-\#### 2 straipsnis. 4 straipsnio 3 dalies 7 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 3 dalies 7 punkto pakeitimas
 
 4 straipsnio 3 dalies 7 punkte vietoj žodžio „autoavarijų“ įrašyti žodžius „eismo įvykių“ ir šį punktą išdėstyti taip:
 
 „7) sudaro specialias ekspertų grupes eismo įvykių, sukėlusių itin sunkias pasekmes, priežastims nustatyti.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies 9 ir 13 punktų pripažinimas netekusiais galios, 14 punkto ir 3 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies 9 ir 13 punktų pripažinimas netekusiais galios, 14 punkto ir 3 dalies pakeitimas
 
 1. 5 straipsnio 1 dalies 9 punktą pripažinti netekusiu galios.
 
@@ -118,7 +118,7 @@ Vilnius
 
 „3. Savivaldybės sprendžia eismo organizavimo klausimus miestuose ir miesteliuose ir kituose vietinės reikšmės keliuose, rūpinasi savivaldybės kelių ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu bei organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims.“
 
-\#### 4 straipsnis. 6 straipsnio 2 dalies 3, 7, 8, 9, 10 punktų ir 3 dalies 3 punkto pakeitimas
+## 4 straipsnis. 6 straipsnio 2 dalies 3, 7, 8, 9, 10 punktų ir 3 dalies 3 punkto pakeitimas
 
 1. 6 straipsnio 2 dalies 3 punkte vietoj žodžio „autoavarijų“ įrašyti žodžius „eismo įvykių“ ir šį punktą išdėstyti taip:
 
@@ -144,31 +144,31 @@ Vilnius
 
 „3) iškviesti į policiją eismo taisyklių pažeidėjus, eismo įvykio dalyvius bei liudininkus;“.
 
-\#### 5 straipsnis. 7 straipsnio 6 dalies pakeitimas
+## 5 straipsnis. 7 straipsnio 6 dalies pakeitimas
 
 7 straipsnio 6 dalyje vietoj žodžio „autoavarijoje“ įrašyti žodžius „eismo įvykyje“ ir šį punktą išdėstyti taip:
 
 „6. Motorinės transporto priemonės vairuotojas privalo mokėti suteikti pirmąją medicinos pagalbą eismo įvykyje nukentėjusiems asmenims.“
 
-\#### 6 straipsnis. 13 straipsnio 5 dalies pakeitimas
+## 6 straipsnis. 13 straipsnio 5 dalies pakeitimas
 
 13 straipsnio 5 dalyje išbraukti žodžius „ir žemės ūkio“ ir šią dalį išdėstyti taip:
 
 „5. Savaeigių mašinų, kurios nepriskiriamos automobiliams, kategorijas ir minimalų vairuotojų amžių, taip pat traktorių ir savaeigių mašinų kategorijas nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 7 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Mokyti vairuoti motorinę transporto priemonę keliuose turi teisę asmuo, atitinkantis vairavimo instruktoriui keliamus reikalavimus, kuriuos nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 8 straipsnis. 17 straipsnio 4 dalies pakeitimas
+## 8 straipsnis. 17 straipsnio 4 dalies pakeitimas
 
 17 straipsnio 4 dalyje vietoj žodžio „Invalidas“ įrašyti žodį „Neįgalusis“ ir šią dalį išdėstyti taip:
 
 „4. Skiriamojo ženklo „Neįgalusis“ išdavimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija. Kelių eismo taisyklės gali nustatyti tam tikrus kelio ženklus ar ženklinimą, kurie neprivalomi šiuo ženklu pažymėtų transporto priemonių vairuotojams.“
 
-\#### 9 straipsnis. Penktojo skirsnio pavadinimo pakeitimas
+## 9 straipsnis. Penktojo skirsnio pavadinimo pakeitimas
 
 Pakeisti penktojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti penktojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **EISMO ĮVYKIAI**“.
 
-\#### 10 straipsnis. 23 straipsnio pakeitimas
+## 10 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 5) su eismo įvykiu susiję eismo dalyviai privalo iš karto po jo nevartoti alkoholio ar kitų svaiginamųjų medžiagų, kol eismo įvykio vietoje bus nustatytos ir ištirtos jo aplinkybės.“
 
-\#### 11 straipsnis. 24 straipsnio pakeitimas
+## 11 straipsnis. 24 straipsnio pakeitimas
 
 24 straipsnyje vietoj žodžių „autoavarijoje“ įrašyti žodžius „eismo įvykyje“, vietoj žodžio „autoavarijos“ įrašyti žodžius „eismo įvykio“, po žodžių „atvykti į“ įrašyti žodį „eismo“ ir šį straipsnį išdėstyti taip:
 
@@ -202,7 +202,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 Jeigu eismo įvykyje buvo sužeistas arba žuvo žmogus, jei dėl eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja kelių transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų tarnybos privalo nedelsdamos atvykti į eismoįvykio vietą.“
 
-\#### 12 straipsnis. 25 straipsnio pakeitimas
+## 12 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį jį išdėstyti taip:
 
@@ -214,11 +214,11 @@ Pakeisti 25 straipsnį jį išdėstyti taip:
 
 3. Šio straipsnio 2 dalyje nurodyta grupė išvadas apie tyrimo rezultatus ir pasiūlymus dėl eismo įvykių priežasčių pašalinimo pateikia Komisijai ir kitoms suinteresuotoms institucijoms.“
 
-\#### 13 straipsnis. Pasiūlymas Vyriausybei
+## 13 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė per 3 mėnesius nuo šio Įstatymo įsigaliojimo, suderinusi galiojančiuose įstatymuose vartojamas sąvokas su šio Įstatymo sąvokomis, parengia įstatymų pakeitimo ir (ar) papildymo projektus ir juos pateikia Seimui.
 
-\#### 14 straipsnis. Įstatymo papildymas priedu
+## 14 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

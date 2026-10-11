@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E46A8DC132BB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E46A8DC132BB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų nuosavybės teisės į religinės paskirties nekilnojamąjį turtą registravimo tvarkos įstatymas
@@ -40,7 +40,7 @@ siekdamas reglamentuoti šio turto registravimo tvarką,
 
 p r i i m a šį įstatymą.
 
-\#### 1 straipsnis. Įstatymo taikymo sritis
+## 1 straipsnis. Įstatymo taikymo sritis
 
 1. Šis įstatymas taikomas religinės paskirties nekilnojamajam turtui (išskyrus žemę), kuris 1948 m. buvo paskelbtas nacionalizuojamu, tačiau paliktas religinėms bendruomenėms ir bendrijoms naudotis ir religinių bendruomenių ir bendrijų faktiškai naudotas ir tebenaudojamas pagal paskirtį. Religinės paskirties nekilnojamuoju turtu laikomi maldos namai (bažnyčios, cerkvės, koplyčios ir kt.), varpinės ir šio turto priklausiniai (kaip jie apibrėžti Lietuvos Respublikos civilinio kodekso 4.19 straipsnyje).
 
@@ -48,7 +48,7 @@ p r i i m a šį įstatymą.
 
 3. Šis įstatymas netaikomas turtui, kuris religinėms bendruomenėms ir bendrijoms negalėjo būti grąžinamas natūra vadovaujantis Lietuvos Respublikos religinių bendrijų teisės į išlikusį nekilnojamąjį turtą atkūrimo tvarkos įstatymu.
 
-\#### 2 straipsnis. Nuosavybės teisės į Lietuvos Respublikos nekilnojamojo turto registre neįregistruotą nekilnojamąjį turtą įregistravimo religinės bendruomenės ar bendrijos vardu tvarka
+## 2 straipsnis. Nuosavybės teisės į Lietuvos Respublikos nekilnojamojo turto registre neįregistruotą nekilnojamąjį turtą įregistravimo religinės bendruomenės ar bendrijos vardu tvarka
 
 1. Šio įstatymo 1 straipsnio 1 dalyje nurodyto nekilnojamojo turto, į kurį daiktinės teisės Lietuvos Respublikos nekilnojamojo turto registre neįregistruotos, nuosavybės teisės įregistravimo religinės bendruomenės ar bendrijos vardu klausimą sprendžia Lietuvos Respublikos Vyriausybė.
 
@@ -62,7 +62,7 @@ p r i i m a šį įstatymą.
 
 4. Lietuvos Respublikos Vyriausybei priėmus šio straipsnio 3 dalyje nurodytą nutarimą, nuosavybės teisė į šio straipsnio 1 dalyje nurodytą nekilnojamąjį turtą įregistruojama religinės bendruomenės ar bendrijos vardu Lietuvos Respublikos nekilnojamojo turto registro nuostatuose nustatyta tvarka.
 
-\#### 3 straipsnis. Nuosavybės teisės į Lietuvos Respublikos nekilnojamojo turto registre įregistruotą nekilnojamąjį turtą įregistravimo religinės bendruomenės ar bendrijos vardu tvarka
+## 3 straipsnis. Nuosavybės teisės į Lietuvos Respublikos nekilnojamojo turto registre įregistruotą nekilnojamąjį turtą įregistravimo religinės bendruomenės ar bendrijos vardu tvarka
 
 1. Šio įstatymo 1 straipsnio 1 dalyje nurodyto nekilnojamojo turto nuosavybės teisės, įregistruotos okupacinės valdžios institucijos vardu, taip pat įregistruotos Lietuvos Respublikos valstybės arba savivaldybės vardu neperduodant niekam panaudos ar patikėjimo teisės, įregistravimo religinės bendruomenės ar bendrijos vardu klausimą sprendžia Lietuvos Respublikos Vyriausybė.
 
@@ -72,11 +72,11 @@ p r i i m a šį įstatymą.
 
 4. Lietuvos Respublikos Vyriausybei priėmus šio straipsnio 3 dalyje nurodytą nutarimą, nuosavybės teisė į šio straipsnio 1 dalyje nurodytą nekilnojamąjį turtą įregistruojama religinės bendruomenės ar bendrijos vardu Lietuvos Respublikos nekilnojamojo turto registro nuostatuose nustatyta tvarka.
 
-\#### 4 straipsnis. Prašymų ir dokumentų pateikimo terminas
+## 4 straipsnis. Prašymų ir dokumentų pateikimo terminas
 
 Religinės bendruomenės ir bendrijos prašymus ir šio įstatymo 2 ir 3 straipsniuose nustatytus dokumentus turi pateikti per trejus metus nuo šio įstatymo įsigaliojimo.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

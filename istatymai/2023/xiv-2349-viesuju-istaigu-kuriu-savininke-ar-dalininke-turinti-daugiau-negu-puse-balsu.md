@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0409c660a54511eea5a28c81c82193a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0409C660A545.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovų ir darbuotojų darbo apmokėjimo įstatymas
@@ -26,7 +26,7 @@ VIEŠŲJŲ ĮSTAIGŲ, KURIŲ SAVININKĖ AR DALININKĖ, TURINTI DAUGIAU NEGU PUS�
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas nustato viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, (toliau – viešoji įstaiga) vadovų ir darbuotojų darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas.
 
@@ -38,7 +38,7 @@ Vilnius
 
 3) asmens sveikatos priežiūros įstaigoms.
 
-\#### 2 straipsnis. Viešosios įstaigos vadovo darbo užmokestis
+## 2 straipsnis. Viešosios įstaigos vadovo darbo užmokestis
 
 1. Viešosios įstaigos vadovo darbo užmokestį sudaro:
 
@@ -58,7 +58,7 @@ Vilnius
 
 4. Visuotinis dalininkų susirinkimas arba viešosios įstaigos savininkė, arba savivaldybės meras nustato viešųjų įstaigų vadovų darbo apmokėjimo sistemą, kurioje pagal šio įstatymo priedą detalizuojami viešųjų įstaigų vadovų pareiginės algos koeficiento nustatymo kriterijai (viešosios įstaigos kategorija, nustatyta pagal šio įstatymo 5 straipsnį, viešosios įstaigos veiklos kriterijai (veiklos pobūdis, veiklos ir (arba) sprendimų galiojimo ribos, veiklos mastas, žmogiškieji ištekliai, vadovo kompetencija ar kiti kriterijai) ir, atsižvelgiant į pasirinktus kriterijus, nustatomi pareiginės algos koeficientų intervalai, jų peržiūrėjimo tvarka, premijų skyrimo kriterijai, priemokų skyrimo tvarka. Viešųjų įstaigų vadovų pareiginė alga peržiūrima ir keičiama viešųjų įstaigų vadovų darbo apmokėjimo sistemoje nustatyta tvarka.
 
-\#### 3 straipsnis. Viešosios įstaigos darbuotojų darbo užmokestis
+## 3 straipsnis. Viešosios įstaigos darbuotojų darbo užmokestis
 
 1. Viešosios įstaigos darbuotojų darbo užmokestį sudaro:
 
@@ -84,13 +84,13 @@ Vilnius
 
 7. Darbdavio lygmens ir darbovietės lygmens kolektyvinėje sutartyje gali būti numatytos palankesnės darbuotojų apmokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą bei budėjimą sąlygos.
 
-\#### 4 straipsnis. Mokėjimas už dalyvavimą paramos teikimo arba vystomojo bendradarbiavimo projektuose
+## 4 straipsnis. Mokėjimas už dalyvavimą paramos teikimo arba vystomojo bendradarbiavimo projektuose
 
 1. Viešosios įstaigos vadovui ar darbuotojui gali būti mokama už dalyvavimą viešosios įstaigos, kurioje jis eina pareigas, ar kitos valstybės ar savivaldybės institucijos ar įstaigos įgyvendinamuose projektuose, taip pat veikloje, atliekamoje pagal viešosios įstaigos sudarytas bendradarbiavimo sutartis su tarptautinėmis ar remiantis Europos Sąjungos teisės aktais įsteigtomis institucijomis (toliau – veikla pagal bendradarbiavimo sutartis), jeigu šie projektai ar veikla turi konkrečius ir išmatuojamus tikslus, suderinamus su viešosios įstaigos veiklos tikslais, nustatytas jų įgyvendinimo terminas ir jiems numatytas atskiras biudžetas. Už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose ar veikloje pagal bendradarbiavimo sutartis iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų mokama projektų ar bendradarbiavimo sutartyse nustatytomis sąlygomis (pagal įkainius). Jeigu sąlygos (ir įkainiai) nenustatyti, mokėjimo už dalyvavimą įgyvendinant projektus ar veikloje pagal bendradarbiavimo sutartis įkainius viešosios įstaigos vadovui nustato viešosios įstaigos dalininkų susirinkimas arba viešosios įstaigos savininkė, arba savivaldybės meras, o viešosios įstaigos darbuotojui – viešosios įstaigos vadovas.
 
 2. Už laiką, kurį viešosios įstaigos vadovas ar darbuotojas dalyvauja šio straipsnio 1 dalyje nurodytuose projektuose ar veikloje pagal bendradarbiavimo sutartis, už kurį mokama šio straipsnio 1 dalyje nustatyta tvarka, darbo užmokestis iš valstybės ar savivaldybės biudžeto lėšų viešosios įstaigos vadovui ar darbuotojui nemokamas.
 
-\#### 5 straipsnis. Viešosios įstaigos kategorija
+## 5 straipsnis. Viešosios įstaigos kategorija
 
 1. Visuotinis dalininkų susirinkimas arba viešosios įstaigos savininkė, arba savivaldybės meras rašytiniu sprendimu, atsižvelgdami į viešosios įstaigos veiklos pobūdį, priskiria viešąją įstaigą vienai iš šio straipsnio 2 dalyje nurodytų kategorijų.
 
@@ -100,17 +100,17 @@ Vilnius
 
 2) II kategorijos – kitos viešosios įstaigos.
 
-\#### 6 straipsnis. Iš viešosios įstaigos lėšų mokamos materialinės pašalpos
+## 6 straipsnis. Iš viešosios įstaigos lėšų mokamos materialinės pašalpos
 
 Viešosios įstaigos vadovas gali priimti sprendimą viešosios įstaigos darbuotojui, o visuotinis dalininkų susirinkimas arba viešosios įstaigos savininkė, arba savivaldybės meras– viešosios įstaigos vadovui iš viešosios įstaigos lėšų skirti iki 5 MMA dydžio materialinę pašalpą, jeigu jų materialinė būklė tapo sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio (kai partnerystė įregistruota įstatymų nustatyta tvarka), sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėjais ar rūpintojais įstatymų nustatyta tvarka yra paskirti viešosios įstaigos darbuotojai ar vadovai, ligos ar mirties, stichinės nelaimės ar turto netekimo, kai yra rašytinis viešosios įstaigos darbuotojo ar vadovo prašymas ir pateikti tai patvirtinantys dokumentai. Mirus viešosios įstaigos darbuotojui ar vadovui, materialinė pašalpa išmokama jo šeimos nariams, jeigu yra mirusio viešosios įstaigos darbuotojo ar vadovo šeimos nario (narių) rašytinis prašymas ir pateikti tai patvirtinantys dokumentai.
 
-\#### 7 straipsnis. Informacijos apie darbo užmokestį skelbimas ir teikimas
+## 7 straipsnis. Informacijos apie darbo užmokestį skelbimas ir teikimas
 
 1. Viešoji įstaiga kiekvienais metais, kai visuotinis dalininkų susirinkimas arba viešosios įstaigos savininkė, arba savivaldybės meras viešosios įstaigos vadovui nustato šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytus viešosios įstaigos veiklos tikslus ir (arba) viešosios įstaigos vadovui keliamas užduotis, veiklos rodiklius, nuo kurių priklausys viešosios įstaigos vadovui skiriamos papildomos darbo užmokesčio dalies dydis, bei praėjusių metų veiklos rodiklių įgyvendinimo rezultatus, šią informaciją viešai paskelbia savo interneto svetainėje tuo pačiu metu, kai skelbia viešųjų įstaigų vadovų ir darbuotojų darbo užmokesčio dydžius Vyriausybės nustatyta tvarka.
 
 2. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija turi teisę iš valstybės institucijų, kurios įgyvendina viešosios įstaigos savininko ar dalininko, turinčio daugiau negu pusę balsų visuotiniame dalininkų susirinkime, teises ir pareigas, bei savivaldybių institucijų arba savivaldybės administracijos gauti informaciją apie šio įstatymo įgyvendinimą (viešųjų įstaigų kategoriją, viešųjų įstaigų vadovų pareiginės algos dydį, paskirtos papildomos darbo užmokesčio dalies dydį, premiją (jos dydį ir paskyrimo datą), priemokas (jų dydžius ir paskyrimo datas), mokėjimą už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, darbą, kai buvo nukrypstama nuo normalių darbo sąlygų, budėjimą, papildomai darbo užmokesčio daliai nustatyti taikytus veiklos rodiklius, viešosios įstaigos vadovui nustatytas užduotis ir jų įvykdymo rezultatus, viešosios įstaigos veiklos tikslus).
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2, 3 ir 8 dalis, įsigalioja 2024 m. sausio 1 d.
 
@@ -148,12 +148,9 @@ KOEFICIENTAI
 
 (Pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Viešosios įstaigos kategorija | Viešosios įstaigos vadovo pareiginės algos koeficientas |
-
-\| --- | --- |
-
-\| I | 2–3,98 |
-
-\| II | 1,1–3,4 |
+| Viešosios įstaigos kategorija | Viešosios įstaigos vadovo pareiginės algos koeficientas |
+| --- | --- |
+| I | 2–3,98 |
+| II | 1,1–3,4 |
 
 ____________________

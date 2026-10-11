@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.01BB1CB0D2CF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.01BB1CB0D2CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 1, 2, 4, 5, 6, 8, 10, 11, 12 ir 30 straipsnių bei priedėlių pakeitimo ir įstatymo papildymo aštuntuoju(1) skirsniu, 34(1) straipsniu bei 5 priedu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1726](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1); 2002, Nr. [72-3016](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5E88FF9E5A))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 4 dalimi
 
 Papildyti 1 straipsnį 4 dalimi:
 
 „4. Šis Įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo 5 priede, taikymą.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas naujomis dalimis
+## 2 straipsnis. 2 straipsnio papildymas naujomis dalimis
 
 Papildyti 2 straipsnį naujomis dalimis ir šį straipsnį išdėstyti taip:
 
@@ -100,13 +100,13 @@ Papildyti 2 straipsnį naujomis dalimis ir šį straipsnį išdėstyti taip:
 
 30. Transporto priemonė – bet kokia transporto priemonė, priskiriama M1 klasei (ne mažiau kaip keturis ratus turinti transporto priemonė, skirta keleiviams vežti, kurioje yra ne daugiau kaip 8 sėdimos vietos keleiviams ir viena sėdima vieta vairuotojui) arba N1 klasei (ne mažiau kaip keturis ratus turinti transporto priemonė, skirta kroviniams vežti, kurios bendroji masė yra ne didesnė kaip 3,5 t) ir triratė motorinė transporto priemonė, išskyrus motorines trirates transporto priemones su simetriškai išdėstytais ratais.“
 
-\#### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi tvarkyti atliekas pats arba perduoti jas atliekų tvarkytojui, išskyrus atvejus, kai papildomai neapdorotos nepavojingos atliekos sunaudojamos žemės ūkyje, energijai gauti ar kitoms reikmėms aplinkai ir žmonių sveikatai saugiu būdu.“
 
-\#### 4 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas
+## 4 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 5 straipsnio 2 dalyje išbraukti žodžius „gamtos išteklių naudojimo“ ir šią dalį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Gamtos išteklių taupymo ir atliekų mažinimo planai peržiūrimi ir keičiami, jeigu pasikeičia gamybos technologija ar mastas, išskyrus pačiame plane numatytus pasikeitimus.“
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -126,13 +126,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 2. Leidimai išduodami tik toms atliekas naudojančioms ar šalinančioms įmonėms, kurios turi atliekų naudojimo ar šalinimo veiklos nutraukimo planus, parengtus pagal šio Įstatymo 11 straipsnyje nustatytus reikalavimus.“
 
-\#### 6 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Atliekas gaminančios įmonės be nustatyta tvarka išduoto leidimo pavojingas atliekas gali saugoti ne ilgiau kaip tris mėnesius, o nepavojingas – ne ilgiau kaip vienus metus nuo jų susidarymo, šių atliekų susidarymo vietoje.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 10 straipsnio 1 dalyje vietoj žodžio „laikymo“ įrašyti žodį „saugojimo“, 2 dalyje išbraukti žodžius „gamtos išteklių naudojimo“ ir visą straipsnį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2. Atliekų naudojimo ar šalinimo techninis reglamentas yra neatsiejama leidimo, numatyto šio Įstatymo 6 straipsnyje, dalis.“
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 3. Pavojingas atliekas naudojanti ar šalinanti įmonė bei įmonė, naudojanti ar šalinanti nepavojingas atliekas, kurių sąrašą nustato Vyriausybė ar jos įgaliota institucija, turi būti sudariusi laidavimo draudimo sutartį ar turėti banko garantiją, užtikrinančią atliekų naudojimo ar šalinimo veiklos nutraukimo plane numatytų priemonių finansavimą įmonės bankroto ar kitu atveju, kai įmonė privalo nutraukti atliekų naudojimo ar šalinimo veiklą ir neturi sukaupusi tam reikalingų lėšų. Dokumentai, patvirtinantys laidavimo draudimo sutarties sudarymą ar banko garantijos suteikimą, pateikiami kartu su atliekų naudojimo ar šalinimo veiklos nutraukimo planu Aplinkos ministerijos nustatyta tvarka.“
 
-\#### 9 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas
+## 9 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 12 straipsnio 1 dalyje išbraukti žodžius „tvarko“, „veža“ ir šią dalį išdėstyti taip:
 
@@ -172,13 +172,13 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „3. Licencija gali būti išduodama tik tai įmonei, kuri pagal šio Įstatymo 6 straipsnio reikalavimus yra gavusi leidimą, kuriosdarbuotojų kvalifikacijaatitinka nustatytus pavojingų atliekų tvarkymo atestacinius reikalavimus ir kurios veikla apdrausta draudimo kompanijoje.“
 
-\#### 10 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 30 straipsnio 1 dalyje išbraukti žodžius „gamtos išteklių naudojimo“ ir šią dalį išdėstyti taip:
 
 „1. Savivaldybės organizuoja komunalinių atliekų tvarkymo sistemas, būtinas jų teritorijose susidarančioms komunalinėms atliekoms tvarkyti. Šiose sistemose gali būti tvarkomos visos atliekos, išskyrus atliekas įmonių, kurių leidimuose nustatyti atliekų tvarkymo reikalavimai negali būti įvykdyti savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose.“
 
-\#### 11 straipsnis. Įstatymo papildymas aštuntuoju1 skirsniu
+## 11 straipsnis. Įstatymo papildymas aštuntuoju1 skirsniu
 
 Papildyti Įstatymą aštuntuoju^1 skirsniu:
 
@@ -186,7 +186,7 @@ Papildyti Įstatymą aštuntuoju^1 skirsniu:
 
 GAMINTOJŲ IR IMPORTUOTOJŲ TEISĖS IR PAREIGOS
 
-\#### 341 straipsnis. Gamintojų ir importuotojų teisės ir pareigos
+## 341 straipsnis. Gamintojų ir importuotojų teisės ir pareigos
 
 1. Gamintojai ir importuotojai turi tvarkyti alyvų, transporto priemonių, elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir šių bei kitų gaminių pakuočių apskaitą ir teikti ataskaitas Vyriausybės įgaliotai institucijai šios institucijos nustatyta tvarka.
 
@@ -196,7 +196,7 @@ GAMINTOJŲ IR IMPORTUOTOJŲ TEISĖS IR PAREIGOS
 
 4. Gamintojai ir importuotojai gali įsteigti organizacijas ir joms pavesti vykdyti šio straipsnio 1 ir 2 dalyse nustatytas pareigas.“
 
-\#### 12 straipsnis. 1 priedėlio žymos pakeitimas
+## 12 straipsnis. 1 priedėlio žymos pakeitimas
 
 Pakeisti 1 priedėlio žymą ir ją išdėstyti taip:
 
@@ -206,7 +206,7 @@ atliekų tvarkymo įstatymo
 
 1 priedas“.
 
-\#### 13 straipsnis. 2 priedėlio pakeitimas
+## 13 straipsnis. 2 priedėlio pakeitimas
 
 Pakeisti 2 priedėlį ir jį išdėstyti taip:
 
@@ -218,35 +218,22 @@ atliekų tvarkymo įstatymo
 
 ATLIEKŲ NAUDOJIMO BŪDAI
 
-\| R1 | Naudojimas kurui arba kitais būdais energijai gauti |
+| R1 | Naudojimas kurui arba kitais būdais energijai gauti |
+| --- | --- |
+| R2 | Tirpiklių atnaujinimas (regeneracija) |
+| R3 | Organinių medžiagų, nenaudojamų kaip tirpikliai, perdirbimas (atnaujinimas) (įskaitant kompostavimą ir kitus biologinio pakeitimo procesus) |
+| R4 | Metalų ir metalų junginių perdirbimas (atnaujinimas) |
+| R5 | Kitų neorganinių medžiagų perdirbimas (atnaujinimas) |
+| R6 | Rūgščių arba bazių regeneracija |
+| R7 | Taršai mažinti naudojamų komponentų naudojimas |
+| R8 | Katalizatorių komponentų naudojimas |
+| R9 | Pakartotinis naftos rafinavimas arba kitoks pakartotinis naftos produktų naudojimas |
+| R10 | Apdorojimas žemėje, naudingas žemės ūkiui ar gerinantis aplinkos būklę |
+| R11 | Atliekų, gautų R1–R10 naudojimo būdais, naudojimas |
+| R12 | Pasikeitimas atliekomis, siekiant taikyti joms bet kurį iš R1–R11 naudojimo būdų |
+| R13 | Atliekų, skirtų naudoti, R1–R12 nurodytais būdais, saugojimas (išskyrus laikinąjį saugojimą susidarymo vietoje iki jų surinkimo)“. |
 
-\| --- | --- |
-
-\| R2 | Tirpiklių atnaujinimas (regeneracija) |
-
-\| R3 | Organinių medžiagų, nenaudojamų kaip tirpikliai, perdirbimas (atnaujinimas) (įskaitant kompostavimą ir kitus biologinio pakeitimo procesus) |
-
-\| R4 | Metalų ir metalų junginių perdirbimas (atnaujinimas) |
-
-\| R5 | Kitų neorganinių medžiagų perdirbimas (atnaujinimas) |
-
-\| R6 | Rūgščių arba bazių regeneracija |
-
-\| R7 | Taršai mažinti naudojamų komponentų naudojimas |
-
-\| R8 | Katalizatorių komponentų naudojimas |
-
-\| R9 | Pakartotinis naftos rafinavimas arba kitoks pakartotinis naftos produktų naudojimas |
-
-\| R10 | Apdorojimas žemėje, naudingas žemės ūkiui ar gerinantis aplinkos būklę |
-
-\| R11 | Atliekų, gautų R1–R10 naudojimo būdais, naudojimas |
-
-\| R12 | Pasikeitimas atliekomis, siekiant taikyti joms bet kurį iš R1–R11 naudojimo būdų |
-
-\| R13 | Atliekų, skirtų naudoti, R1–R12 nurodytais būdais, saugojimas (išskyrus laikinąjį saugojimą susidarymo vietoje iki jų surinkimo)“. |
-
-\#### 14 straipsnis. 3 priedėlio pakeitimas
+## 14 straipsnis. 3 priedėlio pakeitimas
 
 Pakeisti 3 priedėlį ir jį išdėstyti taip:
 
@@ -258,39 +245,24 @@ atliekų tvarkymo įstatymo
 
 ATLIEKŲ ŠALINIMO BŪDAI
 
-\| D1 | Išvertimas ant žemės ar po žeme (pvz., sąvartynuose ir t. t.) |
+| D1 | Išvertimas ant žemės ar po žeme (pvz., sąvartynuose ir t. t.) |
+| --- | --- |
+| D2 | Apdorojimas žemėje (pvz., biologinis skystų atliekų ar dumblo skaidymas dirvožemyje ir t. t.) |
+| D3 | Giluminis įpurškimas (pvz., pumpuojamų atliekų įpurškimas į šulinius, šachtas, druskos olas ar natūraliai susidariusias ertmes ir t.t.) |
+| D4 | Surinkimas į tvenkinius ant žemės paviršiaus (pvz., skystųjų atliekų ar dumblo supylimas į duobes, baseinus ar lagūnas ir t. t.) |
+| D5 | Šalinimas specialiai įrengtuose sąvartynuose (pvz., dėjimas į atskiras sekcijas, kurios uždengiamos ir izoliuojamos viena nuo kitos, nuo aplinkos ir t. t.) |
+| D6 | Išmetimas į vandens telkinį, išskyrus jūras (vandenynus) |
+| D7 | Išmetimas į jūras (vandenynus), įskaitant įterpimą į jūros dugną |
+| D8 | Šiame sąraše smulkiau neapibūdintas biologinis apdorojimas, kurio metu gaunami galutiniai junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu |
+| D9 | Šiame sąraše smulkiau neapibūdintas fizikinis-cheminis apdorojimas, kurio metu gaunami galutiniai junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu (pvz., garinimas, džiovinimas, kalcinavimas ir t. t.) |
+| D10 | Deginimas sausumoje |
+| D11 | Deginimas jūroje |
+| D12 | Nuolatinis saugojimas (pvz., konteinerių laikymas šachtose ir t. t.) |
+| D13 | Maišymas prieš naudojant bet kurį D1–D12 nurodytą būdą |
+| D14 | Perpakavimas prieš naudojant bet kurį D1–D13 nurodytą būdą |
+| D15 | D1-D14 nurodytais būdais šalinti skirtų atliekų saugojimas (išskyrus laikinąjį saugojimą susidarymo vietoje iki jų surinkimo)“. |
 
-\| --- | --- |
-
-\| D2 | Apdorojimas žemėje (pvz., biologinis skystų atliekų ar dumblo skaidymas dirvožemyje ir t. t.) |
-
-\| D3 | Giluminis įpurškimas (pvz., pumpuojamų atliekų įpurškimas į šulinius, šachtas, druskos olas ar natūraliai susidariusias ertmes ir t.t.) |
-
-\| D4 | Surinkimas į tvenkinius ant žemės paviršiaus (pvz., skystųjų atliekų ar dumblo supylimas į duobes, baseinus ar lagūnas ir t. t.) |
-
-\| D5 | Šalinimas specialiai įrengtuose sąvartynuose (pvz., dėjimas į atskiras sekcijas, kurios uždengiamos ir izoliuojamos viena nuo kitos, nuo aplinkos ir t. t.) |
-
-\| D6 | Išmetimas į vandens telkinį, išskyrus jūras (vandenynus) |
-
-\| D7 | Išmetimas į jūras (vandenynus), įskaitant įterpimą į jūros dugną |
-
-\| D8 | Šiame sąraše smulkiau neapibūdintas biologinis apdorojimas, kurio metu gaunami galutiniai junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu |
-
-\| D9 | Šiame sąraše smulkiau neapibūdintas fizikinis-cheminis apdorojimas, kurio metu gaunami galutiniai junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu (pvz., garinimas, džiovinimas, kalcinavimas ir t. t.) |
-
-\| D10 | Deginimas sausumoje |
-
-\| D11 | Deginimas jūroje |
-
-\| D12 | Nuolatinis saugojimas (pvz., konteinerių laikymas šachtose ir t. t.) |
-
-\| D13 | Maišymas prieš naudojant bet kurį D1–D12 nurodytą būdą |
-
-\| D14 | Perpakavimas prieš naudojant bet kurį D1–D13 nurodytą būdą |
-
-\| D15 | D1-D14 nurodytais būdais šalinti skirtų atliekų saugojimas (išskyrus laikinąjį saugojimą susidarymo vietoje iki jų surinkimo)“. |
-
-\#### 15 straipsnis. 4 priedėlio žymos pakeitimas
+## 15 straipsnis. 4 priedėlio žymos pakeitimas
 
 Pakeisti 4 priedėlio žymą ir ją išdėstyti taip:
 
@@ -300,7 +272,7 @@ atliekų tvarkymo įstatymo
 
 4 priedas“.
 
-\#### 16 straipsnis. Įstatymo papildymas 5 priedu
+## 16 straipsnis. Įstatymo papildymas 5 priedu
 
 Papildyti Įstatymą 5 priedu:
 
@@ -326,7 +298,7 @@ atliekų tvarkymo įstatymo
 
 7. 1996 m. gegužės 24 d. Komisijos Sprendimas 96/350/EB dėl Tarybos direktyvos 75/442/EEB dėl atliekų.“
 
-\#### 17 straipsnis. Baigiamosios nuostatos
+## 17 straipsnis. Baigiamosios nuostatos
 
 Gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimai, išduoti iki 2004 m. gegužės 1 d., galioja iki juose nurodyto termino.
 

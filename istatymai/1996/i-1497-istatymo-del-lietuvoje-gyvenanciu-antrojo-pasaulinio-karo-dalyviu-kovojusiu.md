@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C77865F0675F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C77865F0675F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvoje gyvenančių Antrojo pasaulinio karo dalyvių, kovojusių antihitlerinės koalicijos pusėje, statuso" įgyvendinimo įstatymas
@@ -26,11 +26,11 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato įstatymo „Dėl Lietuvoje gyvenančių Antrojo pasaulinio karo dalyvių, kovojusių antihitlerinės koalicijos pusėje, statuso“ įgyvendinimo tvarką.
 
-\#### 2 straipsnis. Įstatymo įgyvendinimo tvarka
+## 2 straipsnis. Įstatymo įgyvendinimo tvarka
 
 Vyriausybė iki 1996 m. rugsėjo 10 d. nustato įstatymo „Dėl Lietuvoje gyvenančių Antrojo pasaulinio karo dalyvių, kovojusių antihitlerinės koalicijos pusėje, statuso“ nuostatų įgyvendinimo tvarką.
 

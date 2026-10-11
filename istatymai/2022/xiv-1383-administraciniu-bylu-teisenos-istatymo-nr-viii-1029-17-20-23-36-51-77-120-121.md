@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7bf85950082c11edb4cae1b158f98ea5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7BF85950082C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17, 20, 23, 36, 51, 77, 120, 121, 122 straipsnių ir II dalies II skyriaus trečiojo skirsnio pakeitimo įstatymas
@@ -161,5 +161,3 @@ SKUNDAI DĖL RINKIMŲ KODEKSO AR REFERENDUMO KONSTITUCINIO ĮSTATYMO PAŽEIDIMŲ
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_e1a255ad90c94366a3cf87f4a4d93114_end

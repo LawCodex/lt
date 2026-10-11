@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8510b0c2cf8c11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8510B0C2CF8C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33, 63, 64, 95, 102 ir 106 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO NR. IX-2112 33, 63, 64, 95, 102 IR 106 STRAI
 
 Vilnius
 
-\#### 1 straipsnis. 33 straipsnio pakeitimas
+## 1 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, taip pat dėl Lietuvos Respublikos valstybės iždo įstatyme nurodytų įstaigų tvarkomų sąskaitų – iš valstybės iždo valdytojos Finansų ministerijos (toliau – valstybės iždo valdytojas), mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;“.
 
-\#### 2 straipsnis. 63 straipsnio pakeitimas
+## 2 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
@@ -42,19 +42,19 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 2. Mokesčių administratoriaus nurodymas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui pateikiamas ir vykdomas vadovaujantis Civilinio proceso kodekse nustatyta tvarka.“
 
-\#### 3 straipsnis. 64 straipsnio pakeitimas
+## 3 straipsnis. 64 straipsnio pakeitimas
 
 Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Mokėjimo, elektroninių pinigų įstaigoms ir valstybės iždo valdytojui *mutatis mutandis* taikomos šio straipsnio 1 dalies nuostatos.“
 
-\#### 4 straipsnis. 95 straipsnio pakeitimas
+## 4 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) nurodymas kredito, mokėjimo, elektroninių pinigų įstaigai ar valstybės iždo valdytojui nutraukti pinigų išdavimą ir pervedimą iš mokesčių mokėtojo sąskaitos (sąskaitų);“.
 
-\#### 5 straipsnis. 102 straipsnio pakeitimas
+## 5 straipsnis. 102 straipsnio pakeitimas
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
 2. Tuo atveju, kai duodamas šio straipsnio 1 dalyje arba šio Įstatymo 63 straipsnyje numatytą nurodymą mokesčių administratorius nurodo, kad asmuo gali vykdyti tam tikras operacijas sąskaitoje (sąskaitose), turi būti nurodyta konkreti lėšų suma, kuri per vieną kalendorinį mėnesį gali būti panaudota mokėjimams atlikti.“
 
-\#### 6 straipsnis. 106 straipsnio pakeitimas
+## 6 straipsnis. 106 straipsnio pakeitimas
 
 1. Pakeisti 106 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
 „3) duodant kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos (sąskaitų), jeigu laiduotojas arba garantas nevykdo šio straipsnio 2 punkto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;“.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/32086e9055cf11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.32086E9055CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Valstybinio kelių fondo įstatymas
@@ -44,11 +44,11 @@ siekdamas trumpuoju laikotarpiu užtikrinti pakankamą ir tvarų finansavimą, k
 
 priima šį įstatymą.
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šiuo įstatymu steigiamas Valstybinis kelių fondas (toliau – Fondas). Šio įstatymo paskirtis – nustatyti Fondo statusą ir tikslus, lėšų šaltinius, lėšų naudojimą, Fondo valdymą ir jo pabaigą.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Aplinkkelis – tranzitinio eismo kelias, kuriuo aplenkiama gyvenamoji vietovė ar jos dalis (-ys) ir kuris neskirtas gyvenamosios vietovės vidaus transporto eismo poreikiams tenkinti.
 
@@ -58,7 +58,7 @@ priima šį įstatymą.
 
 4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos valstybės iždo įstatyme.
 
-\#### 3 straipsnis. Fondo statusas ir tikslai
+## 3 straipsnis. Fondo statusas ir tikslai
 
 1. Fondas yra valstybės pinigų fondas, skirtas valstybės piniginiams ištekliams, kuriais užtikrinami prioritetiniai valstybinės reikšmės kelių atkūrimo, aplinkkelių tiesimo ir kelių pritaikymo valstybės gynybiniams pajėgumams ir civilinei saugai stiprinti poreikiai, kaupti, kad 80 proc. valstybinės reikšmės kelių su asfalto danga (atskirai pagal magistralinius, krašto ir rajoninius kelius) atitiktų siektinas kelio dangos būklės indeksų reikšmes: magistraliniai keliai, turintys automagistralės arba greitkelio statusą, – 2,8, kiti magistraliniai keliai – 3; krašto keliai – 3,5; rajoniniai keliai – 4.
 
@@ -74,7 +74,7 @@ priima šį įstatymą.
 
 4. Fondo lėšos kaupiamos, valdomos, naudojamos ir administruojamos vadovaujantis šiuo įstatymu, Fondo nuostatais ir kitais Fondo veiklą reglamentuojančiais teisės aktais.
 
-\#### 4 straipsnis. Fondo valdytojas
+## 4 straipsnis. Fondo valdytojas
 
 Fondo valdytojas Fondo nuostatuose nustatyta tvarka:
 
@@ -92,7 +92,7 @@ Fondo valdytojas Fondo nuostatuose nustatyta tvarka:
 
 7) atlieka kitas šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose, taip pat Fondo nuostatuose nustatytas funkcijas.
 
-\#### 5 straipsnis. Fondo lėšos
+## 5 straipsnis. Fondo lėšos
 
 1. Fondo lėšas sudaro:
 
@@ -136,7 +136,7 @@ d) gaunamos iš mokesčio už naudojimąsi valstybinės reikšmės keliais važi
 
 7. Fondo lėšos, kurios nėra panaudotos pasibaigus biudžetiniams metams, paliekamos Fondo sąskaitoje, numatant jas kitų metų Fondo lėšų sąmatoje.
 
-\#### 6 straipsnis. Fondo lėšų sąmatos sudarymas ir tvirtinimas
+## 6 straipsnis. Fondo lėšų sąmatos sudarymas ir tvirtinimas
 
 1. Susisiekimo ministerija įvertina Fondo valdytojo iki einamųjų metų gegužės 1 dienos parengtą Fondo lėšų sąmatos projektą ir iki einamųjų metų rugpjūčio 1 dienos jį pateikia Finansų ministerijai. Finansų ministerija teikia Vyriausybei Fondo lėšų sąmatos projektą kartu su Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektu. Vyriausybės teikimu Fondo lėšų sąmatą pagal pajamų šaltinius ir išlaidų dydį šio įstatymo 3 straipsnio 2 dalyje nurodytiems tikslams pasiekti kartu su Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu tvirtina Seimas.
 
@@ -144,7 +144,7 @@ d) gaunamos iš mokesčio už naudojimąsi valstybinės reikšmės keliais važi
 
 3. Jeigu einamųjų metų Fondo faktinės pajamos yra didesnės negu Seimo patvirtintoje Fondo lėšų sąmatoje nurodytos metinės pajamos, šias pajamas viršijanti pajamų suma, kurios iš anksto nebuvo galima suplanuoti ir numatyti Fondo lėšų sąmatoje, paliekama Fondo sąskaitoje ir gali būti naudojama Fondo nuostatuose nustatyta tvarka šio įstatymo 3 straipsnio 2 dalyje nurodytiems tikslams įgyvendinti.
 
-\#### 7 straipsnis. Fondo atskaitomybė ir Fondo valdytojo priežiūra
+## 7 straipsnis. Fondo atskaitomybė ir Fondo valdytojo priežiūra
 
 1. Fondo metinių ataskaitų rinkiniai rengiami, pasirašomi, audituojami, teikiami ir skelbiami Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka.
 
@@ -152,7 +152,7 @@ d) gaunamos iš mokesčio už naudojimąsi valstybinės reikšmės keliais važi
 
 3. Fondo valdytojo veiklos priežiūra vykdoma Fondo nuostatuose nustatyta tvarka.
 
-\#### 8 straipsnis. Fondo pabaiga
+## 8 straipsnis. Fondo pabaiga
 
 1. Fondas veikia, kol pasiekiami šio įstatymo 3 straipsnio 1 dalyje nurodyti rodikliai.
 
@@ -164,7 +164,7 @@ d) gaunamos iš mokesčio už naudojimąsi valstybinės reikšmės keliais važi
 
 5. Pasibaigus Fondui, jo sąskaitoje sukauptos lėšos pervedamos į valstybės iždą ir naudojamos Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme numatytoms kelių transporto plėtros programoms finansuoti.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 9 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir 5 dalis, įsigalioja 2026 m. sausio 1 d.
 

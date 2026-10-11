@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8C3F4CB9D6B7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8C3F4CB9D6B7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # LIetuvos Respublikos krašto apsaugos sistemos finansavimo strategijos įstatymas
@@ -50,7 +50,7 @@ taip pat **atsižvelgdamas**į tai, kad nuo šiol Lietuvos valstybės biudžetas
 
 **priėmė šį įstatymą.**
 
-\#### 1 straipsnis. Krašto apsaugos sistemos finansavimo santykiniai rodikliai
+## 1 straipsnis. Krašto apsaugos sistemos finansavimo santykiniai rodikliai
 
 Nustatyti šiuos krašto apsaugos sistemos finansavimo pagal programas santykinius rodiklius:
 
@@ -58,7 +58,7 @@ Nustatyti šiuos krašto apsaugos sistemos finansavimo pagal programas santykini
 
 2) 2001 m. – 1,95-2,00 proc. bendrojo vidaus produkto.
 
-\#### 2 straipsnis. Pasiūlymai Vyriausybei
+## 2 straipsnis. Pasiūlymai Vyriausybei
 
 Pasiūlyti Vyriausybei maksimaliai užtikrinti krašto apsaugos sistemai reikalingos produkcijos gamybą Lietuvoje ir teikiant 2000-2001 m. valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus laikytis šio įstatymo nuostatų.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.741F0059D239"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.741F0059D239.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 12 ir 37 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 2004, Nr. [171-6295](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB8D4779ABE1); 2007, Nr. [138-5651](https://www.e-tar.lt/portal/lt/legalAct/TAR.E4F420A14C07); 2010, Nr. [153-7799](https://www.e-tar.lt/portal/lt/legalAct/TAR.56B04E699270))
 
-\#### 1 straipsnis. 12 straipsnio 3 dalies 3 punkto pakeitimas
+## 1 straipsnis. 12 straipsnio 3 dalies 3 punkto pakeitimas
 
 12 straipsnio 3 dalies 3 punkte po žodžio „delspinigių“ įrašyti žodį „palūkanų“ ir šį punktą išdėstyti taip:
 
 „3) draudėjo socialinio draudimo įmokų, baudų, delspinigių, palūkanų skola.“
 
-\#### 2 straipsnis. 37 straipsnio 2 dalies pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 2 straipsnis. 37 straipsnio 2 dalies pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. Pakeisti 37 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2. Pripažinti 37 straipsnio 6 dalį netekusia galios.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

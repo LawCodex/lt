@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.43A3BDE30422"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43A3BDE30422.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 6, 10, 20 straipsnių pakeitimo ir papildymo įstatymas
@@ -66,13 +66,13 @@ Vilnius
 
 „11. Lošimus organizuojančios bendrovės akcininkai, perleidę visas arba dalį savo turimų akcijų kitiems asmenims, privalo per 30 dienų apie tai pranešti Priežiūros komisijai jos nustatyta tvarka. Jeigu akcininkas miršta, jo akcijas paveldėjęs asmuo privalo per 30 dienų po paveldėjimo apie tai pranešti Priežiūros komisijai jos nustatyta tvarka. Šiais atvejais Priežiūros komisija turi spręsti klausimą dėl licencijos organizuoti lošimus perregistravimo.“
 
-\#### 3 straipsnis. 20 straipsnio papildymas 5 dalimi
+## 3 straipsnis. 20 straipsnio papildymas 5 dalimi
 
 Papildyti 20 straipsnį 5 dalimi:
 
 „5. Lošimų organizatorius privalo Vyriausybės nustatyta tvarka pranešti teritorinei valstybinei mokesčių inspekcijai apie laimėjimus ir pralaimėjimus, jei laimėjimo ar pralaimėjimo suma viršija Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ 2 straipsnyje nustatytą ir atsižvelgiant į vartojimo kainų pasikeitimus indeksuotą dydį.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
 

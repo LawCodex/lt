@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C71F2CEA1B41"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C71F2CEA1B41.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo 8 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [34-933](https://www.e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087); 1994, Nr. [42-758](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CE5558CB3DE), Nr. [91-1764](https://www.e-tar.lt/portal/lt/legalAct/TAR.0348EF6CF05D); 1995, Nr. [52-1276](https://www.e-tar.lt/portal/lt/legalAct/TAR.AF9A66DCE935); 1997, Nr. [65-1539](https://www.e-tar.lt/portal/lt/legalAct/TAR.A52F7C33F447); 2001, Nr. [28-901](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE742808F31); 2010, Nr. [1-10](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B58F05322D7))
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 

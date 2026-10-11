@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.659FAA920963"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.659FAA920963.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl atsakomybės už Lietuvos gyventojų genocidą" preambulės pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1992, Nr. [13-342](https://www.e-tar.lt/portal/lt/legalAct/TAR.83DF9659EC0D))
 
-\#### 1 straipsnis. Įstatymo preambulės pakeitimas
+## 1 straipsnis. Įstatymo preambulės pakeitimas
 
 Įstatymo preambulės ketvirtojoje pastraipoje vietoj žodžių „taikai ir karinius nusikaltimus“ įrašyti žodžius „karo nusikaltimus“ ir šią pastraipą išdėstyti taip:
 
 „atsižvelgdama į tai, kad minėtosios tarptautinės sutartys įpareigoja priimti nacionalinius įstatymus, numatančius atsakomybę už genocidą, nusikaltimus žmoniškumui, karo nusikaltimus,“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

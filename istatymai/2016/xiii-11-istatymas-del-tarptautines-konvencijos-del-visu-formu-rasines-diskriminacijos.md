@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1d0fed80b0ae11e6b844f0f29024f5ac"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D0FED80B0AE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės konvencijos dėl visų formų rasinės diskriminacijos panaikinimo 8 straipsnio 6 dalies pakeitimo ratifikavimo
@@ -26,7 +26,7 @@ DĖL TARPTAUTINĖS KONVENCIJOS DĖL VISŲ FORMŲ RASINĖS DISKRIMINACIJOS PANAIK
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos pakeitimo ratifikavimas
+## 1 straipsnis. Konvencijos pakeitimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2016 m.rugsėjo 26 d. dekretą Nr. 1K-761, ratifikuoja 1992 m. sausio 15 d. Niujorke priimtą Tarptautinės konvencijos dėl visų formų rasinės diskriminacijos panaikinimo 8 straipsnio 6 dalies pakeitimą.
 

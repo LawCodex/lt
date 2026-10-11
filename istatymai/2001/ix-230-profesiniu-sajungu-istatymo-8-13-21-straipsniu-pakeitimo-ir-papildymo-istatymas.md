@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE742808F31"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FBE742808F31.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo 8, 13, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,19 +30,19 @@ Vilnius
 
 1995, Nr. 52-1276; 1997, Nr. 65-1539)
 
-\#### 1 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Profesinių sąjungų, kurios nesijungia į teritorinius ir nacionalinius susivienijimus ir yra vienos savivaldybės teritorijoje, įstatus (statutą) registruoja savivaldybės vykdomoji institucija.“
 
-\#### 2 straipsnis. 13 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 13 straipsnio papildymas 3 dalimi
 
 Papildyti 13 straipsnį 3 dalimi:
 
 „Darbdavys sudaro sąlygas darbuotojų profesinės sąjungos narių švietimui. Kolektyvinėje sutartyje šiam tikslui gali būti numatomas tam tikras lėšų procentas nuo darbo užmokesčio fondo. Darbuotojo ir profesinės sąjungos prašymu darbdavys suteikia darbuotojui nemokamas iki 3 dienų atostogas per metus švietimui ir mokymuisi.“
 
-\#### 3 straipsnis. 21 straipsnio pakeitimas
+## 3 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti21 straipsnį ir jį išdėstyti taip:
 

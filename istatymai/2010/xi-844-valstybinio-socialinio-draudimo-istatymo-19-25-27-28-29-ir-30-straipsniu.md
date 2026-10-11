@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1A272A0D9E4D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1A272A0D9E4D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 19, 25, 27, 28, 29 ir 30 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 2004, Nr. [171-6295](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB8D4779ABE1); 2005, Nr. [71-2557](https://www.e-tar.lt/portal/lt/legalAct/TAR.F84C1050A429); 2007, Nr. [138-5651](https://www.e-tar.lt/portal/lt/legalAct/TAR.E4F420A14C07); 2008, Nr. [149-6019](https://www.e-tar.lt/portal/lt/legalAct/TAR.314380534F95))
 
-\#### 1 straipsnis. 19 straipsnio pavadinimo ir 2, 3, 4 dalių pakeitimas
+## 1 straipsnis. 19 straipsnio pavadinimo ir 2, 3, 4 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -42,13 +42,13 @@ Vilnius
 
 „4. Fondo valdyba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka patikėjimo teise valdo, naudoja į Fondo apskaitą įtrauktą turtą ir juo disponuoja.“
 
-\#### 2 straipsnis. 25 straipsnio 7 punkto pakeitimas
+## 2 straipsnis. 25 straipsnio 7 punkto pakeitimas
 
 Pakeisti 25 straipsnio 7 punktą ir jį išdėstyti taip:
 
 „7) teikia Vyriausybei Fondo biudžeto projektą ir Fondo metinių konsoliduotųjų ataskaitų rinkinį.“
 
-\#### 3 straipsnis. 27 straipsnio 5 ir 6 punktų pakeitimas
+## 3 straipsnis. 27 straipsnio 5 ir 6 punktų pakeitimas
 
 1. Pakeisti 27 straipsnio 5 punktą ir jį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Pakeisti 25 straipsnio 7 punktą ir jį išdėstyti taip:
 
 „6) teikia išvadą Socialinės apsaugos ir darbo ministerijai dėl Fondo metinių konsoliduotųjų ataskaitų rinkinio audito ir Fondo valdybos veiklos audito rezultatų;“.
 
-\#### 4 straipsnis. 28 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 28 straipsnio 1 dalies pakeitimas
 
 Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Fondo valdyba yra viešojo administravimo įstaiga, organizuojanti socialinį draudimą ir vykdanti operatyvų Fondo lėšų tvarkymą ir apskaitą, užtikrindama priskaičiuotų socialinio draudimo įmokų sumų, baudų, delspinigių surinkimą į Fondą ir išieškojimą, teisingą duomenų apie apdraustuosius asmenis tvarkymą bei įstatymuose nustatytų socialinio draudimo išmokų paskyrimą ir mokėjimą gavėjams. Fondo valdyba yra biudžetinė įstaiga, turinti antspaudą su savo pavadinimu ir Lietuvos valstybės herbu, spaudą su savo pavadinimu ir įstatymų nustatyta tvarka patvirtinta simbolika, atsiskaitomąsias ir specialiųjų lėšų sąskaitas Lietuvos Respublikoje registruotose kredito įstaigose ir sudaranti Fondo konsoliduotųjų ataskaitų rinkinį.“
 
-\#### 5 straipsnis. 29 straipsnio 1 dalies 1, 11 ir 12 punktų pakeitimas
+## 5 straipsnis. 29 straipsnio 1 dalies 1, 11 ir 12 punktų pakeitimas
 
 1. Pakeisti 29 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „12) organizuoja Fondo metinių konsoliduotųjų ataskaitų rinkinio auditą;“.
 
-\#### 6 straipsnis. 30 straipsnio 4 dalies pakeitimas
+## 6 straipsnis. 30 straipsnio 4 dalies pakeitimas
 
 Pakeisti 30 straipsnio 4 dalį ir ją išdėstyti taip:
 

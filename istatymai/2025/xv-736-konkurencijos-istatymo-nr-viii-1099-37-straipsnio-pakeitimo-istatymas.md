@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e7e80ec2eac411f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E7E80EC2EAC4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 37 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ KONKURENCIJOS ĮSTATYMO NR. VIII-1099 37 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 37 straipsnio pakeitimas
+## 1 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
 13. Vyriausybė tvirtina baudų dydžio nustatymo tvarkos aprašą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

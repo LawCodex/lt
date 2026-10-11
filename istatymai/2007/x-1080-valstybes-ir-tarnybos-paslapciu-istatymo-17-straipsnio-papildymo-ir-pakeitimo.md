@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D02BB9F28A5D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D02BB9F28A5D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2004, Nr. [4-29](https://www.e-tar.lt/portal/lt/legalAct/TAR.83D9F662C0E4))
 
-\#### 1 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 17 straipsnio 7 dalį 4 punktu:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „9. Sprendimą dėl leidimo dirbti ar susipažinti su atitinkama slaptumo žyma žymima įslaptinta informacija išdavimo paslapčių subjektas privalo priimti per 20 darbo dienų nuo Valstybės saugumo departamento sutikimo išduoti tokį leidimą pasirašymo dienos. Sprendimą dėl leidimo dirbti ar susipažinti su atitinkama slaptumo žyma žymima įslaptinta informacija išdavimo paslapčių subjekto vadovui per 20 darbo dienų nuo Valstybės saugumo departamento sutikimo išduoti tokį leidimą pasirašymo dienos priima paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo. Apie išduotus leidimus dirbti ar susipažinti su įslaptinta informacija sprendimą priėmęs paslapčių subjektas per 10 darbo dienų privalo pranešti Valstybės saugumo departamentui.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 Asmenų, pretenduojančių gauti leidimą dirbti ar susipažinti su įslaptinta informacija arba atitinkamą asmens patikimumo pažymėjimą, teisės aktų nustatyta tvarka atrinktų valstybės tarnautojo, valstybės pareigūno, teisėjo ar profesinės karo tarnybos kario pareigoms, susijusioms su įslaptintos informacijos, žymimos slaptumo žyma „Konfidencialiai“ ar aukštesne, naudojimu ar jos apsauga, ar laimėjusių konkursą į tokias valstybės tarnautojo pareigas, tikrinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos iki šio įstatymo įsigaliojimo nustatytais terminais.
 

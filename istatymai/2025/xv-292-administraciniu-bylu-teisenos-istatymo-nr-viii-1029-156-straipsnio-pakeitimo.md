@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/417e46f04da611f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.417E46F04DA6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 156 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO NR. VIII-1029 156 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 156 straipsnio pakeitimas
+## 1 straipsnis. 156 straipsnio pakeitimas
 
 1. Pakeisti 156 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
 

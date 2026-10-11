@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FC99661E0C1C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FC99661E0C1C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [63-1582](https://www.e-tar.lt/portal/lt/legalAct/TAR.13E108ED3981); 1997, Nr. [66-1600](https://www.e-tar.lt/portal/lt/legalAct/TAR.E85DC599AFC7), Nr. [117-3012](https://www.e-tar.lt/portal/lt/legalAct/TAR.31D117E2CCCF))
 
-\#### 1 straipsnis. Lietuvos Respublikos žemės gelmių įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos žemės gelmių įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos žemės gelmių įstatymą ir jį išdėstyti taip:
 
@@ -36,17 +36,17 @@ Pakeisti Lietuvos Respublikos žemės gelmių įstatymą ir jį išdėstyti taip
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato pagrindines Lietuvos Respublikos vykdomosios valdžios institucijų, valstybės ir savivaldybių įstaigų, juridinių ir fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, teises ir pareigas naudojant ir saugant Lietuvos Respublikos sausumos, vidaus vandenų, kontinentinio šelfo ir ekonominės zonos Baltijos jūroje žemės gelmes.
 
-\#### 2 straipsnis. Žemės gelmių nuosavybė
+## 2 straipsnis. Žemės gelmių nuosavybė
 
 Žemės gelmės sausumoje ir vidaus vandenyse yra išimtinė valstybės nuosavybė, o kontinentiniame šelfe ir ekonominėje zonoje Baltijos jūroje valstybei priklauso išimtinės teisės į žemės gelmes. Žemės gelmių naudojimo pagrindas yra naudojimosi teisė, kurią šio įstatymo ir kitų įstatymų nustatyta tvarka juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, gali suteikti Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Duomenys apie žemės gelmes (geologiniai duomenys) – naudojant žemės gelmes gauti visi pirminiai duomenys apie gręžinių kerną, mėginius, fosilijas, uolienų, mineralų rinkinius, jų fizinių, mechaninių, cheminių ir kitų savybių tyrimus, taip pat jų apibendrinimo rezultatai.
 
@@ -108,23 +108,23 @@ Pakeisti Lietuvos Respublikos žemės gelmių įstatymą ir jį išdėstyti taip
 
 16. Žemės sklypas – teritorijos dalis, turinti nustatytas ribas ir pagrindinę tikslinę žemės naudojimo paskirtį.
 
-\### ANTRASIS SKIRSNIS. ŽEMĖS GELMIŲ NAUDOJIMO IR APSAUGOS VALSTYBINIS VALDYMAS
+ANTRASIS SKIRSNIS. ŽEMĖS GELMIŲ NAUDOJIMO IR APSAUGOS VALSTYBINIS VALDYMAS
 
-\#### 4 straipsnis. Valstybės institucijų ir įstaigų kompetencija
+## 4 straipsnis. Valstybės institucijų ir įstaigų kompetencija
 
 1. Aplinkos ministerija įgyvendina valstybės politiką žemės gelmių apsaugos ir išteklių naudojimo srityje, rengia ir tvirtina žemės gelmių apsaugos ir naudojimo ilgalaikes ir tikslines valstybės programas, organizuoja ir kontroliuoja jų įgyvendinimą, nustato žemės gelmių išteklių naudojimo, apsaugos ir kontrolės tvarką ir ją įgyvendina, nustato žemės gelmių išteklių naudojimo limitus ir sąlygas, reglamentuoja ir kontroliuoja žemės gelmių išteklių apskaitą.
 
 2. Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau – Lietuvos geologijos tarnyba) organizuoja ir atlieka valstybinius žemės gelmių tyrimus, nustato žemės gelmių naudojimo ir apsaugos sąlygas, kontroliuoja tiesioginius ir nuotolinius žemės gelmių tyrimus, kuria, saugo ir valdo valstybinę geologinę informacijos sistemą, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
-\#### 5 straipsnis. Apskrities viršininko ir savivaldybių institucijų kompetencija
+## 5 straipsnis. Apskrities viršininko ir savivaldybių institucijų kompetencija
 
 1. Apskrities viršininkas pagal savo kompetenciją, nustatytą įstatymų bei kitų teisės aktų, sprendžia klausimus, susijusius su žemės, reikalingos žemės gelmėms naudoti, paėmimu visuomenės poreikiams, suteikimu naudotis, nuoma ir įsigijimu nuosavybėn, derina žemės gelmių naudojimą.
 
 2. Savivaldybių institucijos pagal savo kompetenciją, nustatytą įstatymų bei kitų teisės aktų, derina dokumentus, reglamentuojančius žemės gelmių naudojimą ir apsaugą.
 
-\### TREČIASIS SKIRSNIS. ŽEMĖS GELMIŲ TYRIMAS
+TREČIASIS SKIRSNIS. ŽEMĖS GELMIŲ TYRIMAS
 
-\#### 6 straipsnis. Leidimai tirti žemės gelmes
+## 6 straipsnis. Leidimai tirti žemės gelmes
 
 1. Tiesioginius ir nuotolinius žemės gelmių tyrimus gali atlikti juridiniai asmenys ir įmonės, neturinčios juridinio asmens teisių, turintys leidimą atlikti atitinkamų rūšių tyrimus.
 
@@ -132,13 +132,13 @@ Pakeisti Lietuvos Respublikos žemės gelmių įstatymą ir jį išdėstyti taip
 
 3. Apie leidimo tirti žemės gelmes išdavimą arba panaikinimą skelbiama „Valstybės žinių“ priede „Informaciniai pranešimai“.
 
-\#### 7 straipsnis. Žemės gelmių tyrimų registravimas
+## 7 straipsnis. Žemės gelmių tyrimų registravimas
 
 1. Visų rūšių žemės gelmių tyrimai turi būti registruojami Lietuvos geologijos tarnyboje jos nustatyta tvarka, išskyrus netiesioginius tyrimus, atliekamus ne valstybės lėšomis.
 
 2. Registruojamų žemės gelmių tyrimų vieta arba plotas turi būti suderinti su žemės savininkais ir naudotojais įstatymų ir kitų teisės aktų nustatyta tvarka. Prieš pradėdamas tiesioginį žemės gelmių tyrimą, leidimo turėtojas apie tai turi pranešti vietos savivaldybės vykdomajai institucijai, kurios teritorijoje numatomi tyrimai.
 
-\#### 8 straipsnis. Žemės gelmių tyrimo sąlygos
+## 8 straipsnis. Žemės gelmių tyrimo sąlygos
 
 1. Juridiniai asmenys ir įmonės, neturinčios juridinio asmens teisių, turintys leidimą tirti žemės gelmes, tyrimą atlieka pagal darbų projektą (arba techninę užduotį), laikydamiesi darbų kokybės, aplinkos apsaugos, darbų saugos ir kitų reikalavimų. Žemės gelmių tyrimo metu žemės gelmių ištekliai naudojami tik tais atvejais, kiekiais ir būdais, kurie numatyti darbų projekte.
 
@@ -148,7 +148,7 @@ Pakeisti Lietuvos Respublikos žemės gelmių įstatymą ir jį išdėstyti taip
 
 4. Naudingųjų iškasenų ir požeminio geriamojo gėlo (išskyrus pavienių gręžtinių šulinių) bei mineralinio vandens ištekliai, neatsižvelgiant į tai, kieno lėšomis jie tiriami, klasifikuojami pagal Vyriausybės įgaliotos institucijos patvirtintą išteklių klasifikaciją. Išžvalgytus išteklius aprobuoja Lietuvos geologijos tarnyba jos nustatyta tvarka.
 
-\#### 9 straipsnis. Leidimo tirti žemės gelmes galiojimo sustabdymas ir panaikinimas
+## 9 straipsnis. Leidimo tirti žemės gelmes galiojimo sustabdymas ir panaikinimas
 
 Leidimą tirti žemės gelmes gali sustabdyti arba panaikinti Vyriausybės įgaliota institucija savo nuožiūra arba žemės gelmių tyrimus kontroliuojančios institucijos raštišku reikalavimu, jei šie darbai buvo atliekami:
 
@@ -158,19 +158,19 @@ Leidimą tirti žemės gelmes gali sustabdyti arba panaikinti Vyriausybės įgal
 
 3) pažeidžiant kitus šio įstatymo ar kitų teisės aktų nustatytus reikalavimus.
 
-\#### 10 straipsnis. Valstybiniai žemės gelmių tyrimai
+## 10 straipsnis. Valstybiniai žemės gelmių tyrimai
 
 Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos patvirtintas programas valstybės lėšomis atlieka geologinį kartografavimą, valstybinį žemės gelmių monitoringą, žemės gelmių išteklių prognozavimą ir kitus žemės gelmių tyrimus, teikiančius duomenis apie žemės gelmes, kurie būtini aplinkos apsaugai, ūkinei veiklai bei kitoms visuomenės reikmėms ar kurie būtini pagal Lietuvos Respublikos tarptautinius įsipareigojimus.
 
-\### KETVIRTASIS SKIRSNIS. ŽEMĖS GELMIŲ IŠTEKLIŲ IR ERTMIŲ NAUDOJIMAS
+KETVIRTASIS SKIRSNIS. ŽEMĖS GELMIŲ IŠTEKLIŲ IR ERTMIŲ NAUDOJIMAS
 
-\#### 11 straipsnis. Žemės gelmių išteklių ir ertmių naudojimo tvarka
+## 11 straipsnis. Žemės gelmių išteklių ir ertmių naudojimo tvarka
 
 1. Žemės gelmių ištekliai ir ertmės gali būti naudojami tik įstatymų ir kitų teisės aktų nustatyta tvarka.
 
 2. Draudžiama naudoti natūralias žemės gelmių ertmes radioaktyviosioms ir toksiškoms medžiagoms laidoti ar laikyti.
 
-\#### 12 straipsnis. Teisė naudoti žemės gelmių išteklius ir ertmes
+## 12 straipsnis. Teisė naudoti žemės gelmių išteklius ir ertmes
 
 1. Lietuvos Respublikos žemės gelmių išteklius ir ertmes, išskyrus geriamąjį gėlą ir gamybinį požeminį vandenį bei šiluminę energiją, gali naudoti juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, gavę leidimą, išduotą Vyriausybės ar jos įgaliotos institucijos, ir sudarę su Vyriausybės įgaliota institucija išteklių ar ertmių naudojimo sutartį (toliau – naudojimo sutartis). Geriamajam gėlam ir gamybiniam požeminiam vandeniui bei šiluminei energijai naudoti leidimas juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, išduodamas šio įstatymo 13 straipsnio 2 dalyje nurodyta tvarka.
 
@@ -184,7 +184,7 @@ Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos 
 
 6. Žemės savininkas ar naudotojas nuosavybės teise priklausančiame, suteiktame naudoti ar nuomojamame žemės sklype savo ūkio reikmėms (ne pardavimui) turi teisę be šio straipsnio 1 dalyje nurodyto leidimo naudoti žemės gelmių išteklius kitų įstatymų bei teisės aktų nustatyta tvarka.
 
-\#### 13 straipsnis. Leidimų naudoti žemės gelmių išteklius ir ertmes išdavimas
+## 13 straipsnis. Leidimų naudoti žemės gelmių išteklius ir ertmes išdavimas
 
 1. Vyriausybė arba jos įgaliota institucija juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių, išduoda leidimus:
 
@@ -206,7 +206,7 @@ Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos 
 
 6. Apie leidimo naudoti žemės gelmių išteklius ir ertmes išdavimą ar jo panaikinimą juos išduodanti institucija skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
 
-\#### 14 straipsnis. Žemės gelmių išteklių arba ertmių naudojimo projektas
+## 14 straipsnis. Žemės gelmių išteklių arba ertmių naudojimo projektas
 
 1. Naudoti žemės gelmių išteklius ir ertmes, išskyrus ertmes radioaktyviosioms ir toksiškoms medžiagoms laikyti ar laidoti, požeminį geriamąjį gėlą ir gamybinį vandenį, šiluminę energiją bei 12 straipsnio 6 dalyje numatytus atvejus, galima tik pagal žemės gelmių išteklių arba ertmių naudojimo projektą (toliau – naudojimo projektas). Šis projektas turi būti suderintas su vietos savivaldos vykdomąja institucija, apskrities viršininku, valstybine darbo inspekcija ir patvirtintas Aplinkos ministerijos arba jos įgaliotos institucijos.
 
@@ -220,7 +220,7 @@ Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos 
 
 3) išteklių naudojimo metu pažeistos žemės rekultivavimo ir žemės gelmių išteklių, likusių telkinyje, apsaugos nuo išsekimo ir kokybės blogėjimo priemonės, kai laikinai ar visiškai nutraukiamas jų naudojimas.
 
-\#### 15 straipsnis. Žemės gelmių išteklių ir ertmių naudojimo sąlygos
+## 15 straipsnis. Žemės gelmių išteklių ir ertmių naudojimo sąlygos
 
 1. Žemės gelmių išteklius ir ertmes galima naudoti tik nustatyta tvarka juos ištyrus, aprobavus ir įvertinus jų gavybos poveikį aplinkai.
 
@@ -232,11 +232,11 @@ Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos 
 
 5. Žemės gelmių naudotojas, aptikęs mokslui ir kultūrai reikšmingus geologinius, archeologinius ir kitus objektus, apie tai turi pranešti leidimą išdavusiai institucijai ir įstatymų nustatyta tvarka kitoms valstybės ir savivaldybių įstaigoms bei sustabdyti atliekamus tam tikrame sklype darbus, jeigu jų tęsimas minėtiems objektams gali pakenkti.
 
-\#### 16 straipsnis. Žemės sklypo įsigijimas
+## 16 straipsnis. Žemės sklypo įsigijimas
 
 Žemės sklypas, reikalingas žemės gelmių ištekliams ar ertmėms naudoti, perkamas, paimamas visuomenės poreikiams ar išnuomojamas Žemės įstatymo, Žemės nuomos įstatymo, kitų teisės aktų nustatyta tvarka.
 
-\#### 17 straipsnis. Leidimo naudoti žemės gelmių išteklius ar ertmes galiojimo pabaiga
+## 17 straipsnis. Leidimo naudoti žemės gelmių išteklius ar ertmes galiojimo pabaiga
 
 Leidimas naudoti žemės gelmių išteklius ar ertmes nustoja galiojęs, kai:
 
@@ -248,7 +248,7 @@ Leidimas naudoti žemės gelmių išteklius ar ertmes nustoja galiojęs, kai:
 
 4) leidimo galiojimas panaikinamas 18 straipsnyje numatytais atvejais.
 
-\#### 18 straipsnis. Leidimo naudoti žemės gelmių išteklius ar ertmes galiojimo sustabdymas arba panaikinimas
+## 18 straipsnis. Leidimo naudoti žemės gelmių išteklius ar ertmes galiojimo sustabdymas arba panaikinimas
 
 1. Leidimas naudoti žemės gelmių išteklius ar ertmes panaikinamas, jei naudojimo sutartį sudarančios šalys nesutaria dėl sutarties sąlygų.
 
@@ -268,9 +268,9 @@ Leidimas naudoti žemės gelmių išteklius ar ertmes nustoja galiojęs, kai:
 
 4. Leidimą Vyriausybės nustatyta tvarka sustabdo arba panaikina jį išdavusi institucija.
 
-\### PENKTASIS SKIRSNIS. ŽEMĖS GELMIŲ APSAUGA
+PENKTASIS SKIRSNIS. ŽEMĖS GELMIŲ APSAUGA
 
-\#### 19 straipsnis. Žemės gelmių apsaugos priemonės
+## 19 straipsnis. Žemės gelmių apsaugos priemonės
 
 Siekiant užtikrinti racionalų žemės gelmių ir jų išteklių naudojimą, Aplinkos apsaugos, šio ir kitų įstatymų nustatyta tvarka žemės gelmių apsaugos priemonės yra įgyvendinamos:
 
@@ -282,7 +282,7 @@ Siekiant užtikrinti racionalų žemės gelmių ir jų išteklių naudojimą, Ap
 
 4) steigiant saugomas teritorijas.
 
-\#### 20 straipsnis. Teritorijų planavimas
+## 20 straipsnis. Teritorijų planavimas
 
 1. Teritorijos turi būti planuojamos įvertinus teritorijų žemės gelmių sandarą ir jų išteklius, numatant ūkinės veiklos poveikį žemės gelmių būklei, jų ištekliams ir vertingosioms savybėms.
 
@@ -290,7 +290,7 @@ Siekiant užtikrinti racionalų žemės gelmių ir jų išteklių naudojimą, Ap
 
 3. Nenaudojami žemės gelmių ištekliai turi būti apsaugoti nuo veiksmų, bloginančių jų kokybę, gavybos sąlygas, nuo teritorijos užstatymo ar kitų veiksmų, trukdančių žemės išteklius naudoti ateityje.
 
-\#### 21 straipsnis. Žemės gelmių monitoringas
+## 21 straipsnis. Žemės gelmių monitoringas
 
 1. Žemės gelmių būklė turi būti sistemingai stebima visoje Lietuvos Respublikos teritorijoje, intensyvių geologinių procesų ir jų keliamų pavojų zonose, didesnės antropogeninės apkrovos plotuose ir atskiruose ūkinės veiklos objektuose.
 
@@ -298,23 +298,23 @@ Siekiant užtikrinti racionalų žemės gelmių ir jų išteklių naudojimą, Ap
 
 3. Draudžiama naikinti ir gadinti gręžinius, geodezinius ženklus ir kitus įrenginius, skirtus žemės gelmėms tirti, ir trukdyti juos naudoti tyrimams, taip pat gadinti telkinių ir jų apsaugos zonų žymėjimo reperius ir markšeiderinius ženklus.
 
-\#### 22 straipsnis. Žemės gelmių apsauga ir naudojimas saugomose teritorijose
+## 22 straipsnis. Žemės gelmių apsauga ir naudojimas saugomose teritorijose
 
 Saugomose teritorijose turi būti užtikrinta ir žemės gelmių bei jų vertingųjų savybių apsauga, o žemės gelmių naudojimo apribojimai nustatomi saugomų teritorijų nuostatuose ir kituose teisės aktuose.
 
-\### ŠEŠTASIS SKIRSNIS. DUOMENYS APIE ŽEMĖS GELMES
+ŠEŠTASIS SKIRSNIS. DUOMENYS APIE ŽEMĖS GELMES
 
-\#### 23 straipsnis. Privalomas duomenų apie žemės gelmes teikimas
+## 23 straipsnis. Privalomas duomenų apie žemės gelmes teikimas
 
 Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, privalo nemokamai teikti Lietuvos geologijos tarnybai jos nustatyta tvarka duomenis apie žemės gelmes, gautus jų atliekamų žemės gelmių tyrimų ir jų išteklių naudojimo metu, išskyrus ne valstybės lėšomis atliktų netiesioginių tyrimų duomenis.
 
-\#### 24 straipsnis. Valstybinė geologinės informacijos sistema
+## 24 straipsnis. Valstybinė geologinės informacijos sistema
 
 1. Valstybinę geologinės informacijos sistemą kuria, saugo ir valdo Lietuvos geologijos tarnyba. Joje sukaupti duomenys apie žemės gelmes yra valstybės nuosavybė ir sudaro bendrą valstybinę geologinės informacijos sistemą, kurios atskiros dalys gali būti ir kitų valstybinių informacijos sistemų sudėtinės dalys.
 
 2. Duomenys apie žemės gelmių išteklius, ertmes, gręžinius ir tyrimus registruojami Žemės gelmių registre. Šis registras steigiamas Vyriausybės nutarimu ir yra valstybinės geologinės informacijos sistemos sudedamoji dalis.
 
-\#### 25 straipsnis. Duomenų apie žemės gelmes naudojimas
+## 25 straipsnis. Duomenų apie žemės gelmes naudojimas
 
 1. Valstybinės geologinės informacijos sistemos duomenys apie žemės gelmes (toliau – duomenys) turi būti prieinami Lietuvos Respublikos juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, išskyrus apribojimus, nustatytus šio straipsnio 4 ir 5 dalyse. Valstybinės geologinės informacijos sistemos naudojimo tvarką nustato Vyriausybės įgaliota institucija.
 
@@ -330,13 +330,13 @@ Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisi
 
 7. Geologinės kolekcijos, muziejų geologiniai eksponatai, gręžinių kernas ar jo mėginiai gali būti išvežti iš Lietuvos Respublikos tik gavus Lietuvos geologijos tarnybos leidimą, išduotą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-\### SEPTINTASIS SKIRSNIS. ATSAKOMYBĖ UŽ ŽEMĖS GELMIŲ ĮSTATYMO PAŽEIDIMĄ IR GINČŲ SPRENDIMAS
+SEPTINTASIS SKIRSNIS. ATSAKOMYBĖ UŽ ŽEMĖS GELMIŲ ĮSTATYMO PAŽEIDIMĄ IR GINČŲ SPRENDIMAS
 
-\#### 26 straipsnis. Atsakomybė už Žemės gelmių įstatymo pažeidimą
+## 26 straipsnis. Atsakomybė už Žemės gelmių įstatymo pažeidimą
 
 Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, pažeidę Žemės gelmių įstatymą, atsako įstatymų nustatyta tvarka.
 
-\#### 27 straipsnis. Žalos atlyginimas
+## 27 straipsnis. Žalos atlyginimas
 
 1. Valstybei padaryta žala juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, naudojant žemės gelmes, kai dėl to sumažėja jų ištekliai ar pablogėja jų naudojimo sąlygos, pasikeičia vertingosios savybės arba kiti aplinkos elementai, turi būti atlyginta.
 
@@ -346,23 +346,23 @@ Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisi
 
 2) kai žala ar nuostoliai padaryti dėl žemės gelmių tyrimo ir duomenų apie žemės gelmes pateikimo ar naudojimo tvarkos pažeidimo ir kitais atvejais.
 
-\#### 28 straipsnis. Ginčų sprendimas
+## 28 straipsnis. Ginčų sprendimas
 
 Ginčus dėl žemės gelmių naudojimo ir apsaugos sprendžia teismai.
 
-\### AŠTUNTASIS SKIRSNIS. TARPTAUTINIAI SANTYKIAI
+AŠTUNTASIS SKIRSNIS. TARPTAUTINIAI SANTYKIAI
 
-\#### 29 straipsnis. Poveikis kitų valstybių aplinkai
+## 29 straipsnis. Poveikis kitų valstybių aplinkai
 
 1. Žemės gelmių naudojimas Lietuvos Respublikoje turi būti organizuojamas taip, kad nedarytų neigiamo poveikio ar žalos kitų valstybių aplinkai, jų žemės gelmių būklei bei gyventojams.
 
 2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija atstovauja Lietuvos Respublikai, jeigu naudojant žemės gelmes Lietuvos Respublikoje padaryta žala kitoms valstybėms.
 
-\#### 30 straipsnis. Tarptautinis bendradarbiavimas
+## 30 straipsnis. Tarptautinis bendradarbiavimas
 
 Lietuvos Respublikos Vyriausybė siekia, kad žemės gelmių naudojimas ir kita ūkinė veikla kaimyninėse valstybėse neturėtų neigiamos įtakos Lietuvos Respublikos aplinkai, žemės gelmių vertingosioms savybėms ir ištekliams, nedarytų žalos gyventojams. To siekiama sudarant tarptautines sutartis dėl ūkinės veiklos ir žemės gelmių naudojimo reguliavimo pasienio teritorijose, keičiantis duomenimis apie žemės gelmių būklę, skatinant bendradarbiavimą tiriant žemės gelmes bei kitais tarptautine teise pagrįstais būdais.
 
-\#### 31 straipsnis. Tarptautinės sutartys
+## 31 straipsnis. Tarptautinės sutartys
 
 Jei Lietuvos Respublikos tarptautinėse sutartyse nustatyti kitokie reikalavimai negu išdėstyti šiame įstatyme, taikomi šių tarptautinių sutarčių reikalavimai.“
 

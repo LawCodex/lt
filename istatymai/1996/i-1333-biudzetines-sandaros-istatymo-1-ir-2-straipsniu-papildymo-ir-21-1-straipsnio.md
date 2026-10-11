@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.03C924285DC1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.03C924285DC1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžetinės sandaros įstatymo 1 ir 2 straipsnių papildymo ir 21(1) straipsnio pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 Nr. 54-1049; 1995, Nr. 18-404, Nr. 47-1136)
 
-\#### 1 straipsnis. 1 straipsnio antrosios dalies papildymas
+## 1 straipsnis. 1 straipsnio antrosios dalies papildymas
 
 Papildyti 1 straipsnio antrąją dalį ir ją išdėstyti taip:
 
 „Biudžetai sudaromi vieneriems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai. Į atitinkamų biudžetų pajamas įskaitomos mokėtojų įmokos, pervestos iki gruodžio 31 dienos įskaitytinai. Metams pasibaigus, nepanaudotus Lietuvos Respublikos valstybės ir savivaldybių biudžetų asignavimų likučius asignavimų valdytojai grąžina atitinkamiems biudžetams iki sausio 10 dienos. Užsienio reikalų ministerijai paliekami mėnesio išlaidų dydžio pereinamieji lėšų likučiai, esantys Lietuvos Respublikos diplomatinėse atstovybėse užsienyje.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas antrąja ir trečiąja dalimis
+## 2 straipsnis. 2 straipsnio papildymas antrąja ir trečiąja dalimis
 
 2 straipsnį papildyti antrąja ir trečiąja dalimis:
 
@@ -52,7 +52,7 @@ Savivaldybių biudžetų asignavimų valdytojai yra:
 
 2) savivaldybių institucijų, kurioms asignavimus savivaldybės tarybos pavedimu patvirtina savivaldybės valdyba (meras), neviršydama bendros savivaldybės tarybos patvirtintos asignavimų sumos atitinkamoms priemonėms finansuoti, vadovai.“
 
-\#### 3 straipsnis. 211 straipsnio pakeitimas
+## 3 straipsnis. 211 straipsnio pakeitimas
 
 Iš 21^1 straipsnio išbraukti žodį „vyriausiųjų“ ir visą straipsnį išdėstyti taip:
 

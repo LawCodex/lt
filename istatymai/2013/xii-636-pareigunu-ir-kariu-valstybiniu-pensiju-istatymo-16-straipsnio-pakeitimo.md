@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E8048BAAD929"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E8048BAAD929.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2005, Nr. [71-2558](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C), Nr. [153-5644](https://www.e-tar.lt/portal/lt/legalAct/TAR.45D45191ECBC); 2006, Nr. [134-5064](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FBB7047630); 2007, Nr. [8-314](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AFBD8793C7C); 2011, Nr. [86-4158](https://www.e-tar.lt/portal/lt/legalAct/TAR.BAD02D141563); 2012, Nr. [122-6113](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FD3BE7029F5), Nr. [129-6475](https://www.e-tar.lt/portal/lt/legalAct/TAR.D70700BBC101))
 
-\#### 1 straipsnis. 16 straipsnio 3 dalies 1 punkto pakeitimas
+## 1 straipsnis. 16 straipsnio 3 dalies 1 punkto pakeitimas
 
 Pakeisti 16 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas iki 1990m. kovo 11 d. ir faktinis Lietuvoje veikusių SSRS karinių komisariatų pašauktų asmenų prievartinės būtinosios karinėstarnybos SSRS ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose laikas po 1990 m. kovo 11 d.;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. sausio 1 d.
 

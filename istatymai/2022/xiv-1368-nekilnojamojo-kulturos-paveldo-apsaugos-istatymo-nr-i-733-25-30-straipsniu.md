@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/018a2eb2043e11edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.018A2EB2043E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 25, 30 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 30-2, 30-3, 30-4, 30-5 straipsniais įstatymas
@@ -157,5 +157,3 @@ Iki šio įstatymo įsigaliojimo dienos pradėtos, bet neužbaigtos kultūros pa
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_e81803d18429414fbcf27a5d9b0a3d63_end

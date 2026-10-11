@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0C834B9487BC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0C834B9487BC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl kovos su korupcija, susijusia su Europos Bendrijų pareigūnais ar Europos Sąjungos valstybių narių pareigūnais, parengtos vadovaujantis Europos Sąjungos sutarties K.3 straipsnio 2 dalies C punktu, ratifikavimo
@@ -26,19 +26,19 @@ DĖL KONVENCIJOS DĖL KOVOS SU KORUPCIJA, SUSIJUSIA SU EUROPOS BENDRIJŲ PAREIG�
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 337, ratifikuoja 1997 m. gegužės 26 d. Briuselyje priimtą Konvenciją dėl kovos su korupcija, susijusia su Europos Bendrijų pareigūnais ar Europos Sąjungos valstybių narių pareigūnais, parengtą vadovaujantis Europos Sąjungos sutarties K.3 straipsnio 2 dalies c punktu.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlyga
+## 2 straipsnis. Lietuvos Respublikos išlyga
 
 Vadovaudamasis Konvencijos 7 straipsnio 2 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika netaikys jurisdikcijos taisyklių, nurodytų šios Konvencijos 7 straipsnio 1 dalies c ir d punktuose.
 
-\#### 3 straipsnis. Lietuvos Respublikos pareiškimas
+## 3 straipsnis. Lietuvos Respublikos pareiškimas
 
 Vadovaudamasis Konvencijos 12 straipsnio 4 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika pripažįsta Konvencijos 12 straipsnio 3 dalyje nustatytą Teisingumo Teismo kompetenciją.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

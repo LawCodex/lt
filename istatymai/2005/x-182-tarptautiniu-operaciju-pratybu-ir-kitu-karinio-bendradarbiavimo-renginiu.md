@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EA527C8AB66E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EA527C8AB66E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 2, 4, 8, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [58-1133](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A); 2002, Nr. [13-465](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F16440E7447); 2004, Nr. [25-762](https://www.e-tar.lt/portal/lt/legalAct/TAR.3B3B9C86CB9F))
 
-\#### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. **Kiti karinio bendradarbiavimo renginiai**(toliau –**kiti renginiai**) – tarptautinei operacijai ir pratyboms nepriskiriami karinio bendradarbiavimo su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis renginiai.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „8. Ypatingais atvejais, kai gali kilti grėsmė Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų ar jų šeimos narių saugumui, siunčiamų atlikti tarnybą tarptautinėje operacijoje Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų asmens tapatybė gali būti užšifruojama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -62,19 +62,19 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 2. Šio Įstatymo nustatytais atvejais ir tvarka priėmus sprendimus dėl Lietuvos Respublikos karinių vienetų dalyvavimo pratybose ir kituose renginiuose, šie kariniai vienetai krašto apsaugos ministro ar jo įgalioto kariuomenės vado įsakymu gali būti perduoti kitų valstybių, taip pat Jungtinių Tautų, NATO ar Europos Sąjungos institucijų operaciniam vadovavimui ir valdymui.“
 
-\#### 4 straipsnis. 9 straipsnio 3 dalies 2 punkto pakeitimas
+## 4 straipsnis. 9 straipsnio 3 dalies 2 punkto pakeitimas
 
 Pakeisti 9 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) jeigu rengiamos bendro su kita valstybe (valstybėmis) karinio vieneto pratybos ar kitas renginys, kuriame vienu metu gali dalyvauti mažiau kaip 1 600 šios valstybės (valstybių) karių ir karinėms pajėgoms priskirtų civilių tarnautojų, arba bendros su NATO ar Europos Sąjungos institucijomis arba valstybėmis pratybos ar kitas renginys, kuriame vienu metu gali dalyvauti mažiau nei 1 600 NATO ar Europos Sąjungos valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų.“
 
-\#### 5 straipsnis. 10 straipsnio 3 dalies 2 punkto pakeitimas
+## 5 straipsnis. 10 straipsnio 3 dalies 2 punkto pakeitimas
 
 Pakeisti 10 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) jeigu rengiamos bendro su kita valstybe (valstybėmis) karinio vieneto pratybos ar kitas renginys, kuriame vienu metu gali dalyvauti mažiau kaip 800 Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų, arba bendros su NATO ar Europos Sąjungos institucijomis arba valstybėmis pratybos ar kitas renginys, kuriame vienu metu gali dalyvauti mažiau nei 800 Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 3. Lietuvos Respublikos karinių vienetų, jų karių ir civilių krašto apsaugos sistemos tarnautojų teisinį statusą kitose valstybėse nustato tarptautinės teisės normos dėl užsienio valstybių karinių pajėgų statuso, Lietuvos Respublikos tarptautinės sutartys, įstatymai ir kiti teisės aktai bei susitarimai su kitų valstybių ar tarptautinių organizacijų kompetentingomis institucijomis, taip pat tarptautinės organizacijos ar užsienio valstybės, kurios operaciniam vadovavimui ir valdymui buvo perduotas Lietuvos Respublikos karinis vienetas, sprendimai ar (ir) tokios tarptautinės organizacijos arba užsienio valstybės susitarimai su šio vieneto buvimo valstybe.“
 
-\#### 7 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
+## 7 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/322138a0535c11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.322138A0535C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymo Nr. XIV-2577 pakeitimo įstatymas
@@ -26,7 +26,7 @@ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO NR. X-233 2, 6, 7, 8, 9, 10 IR 11 STRAIP
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymo Nr. XIV-2577 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymo Nr. XIV-2577 nauja redakcija
 
 Pakeisti Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-2332, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymą Nr. XIV-2577 ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO NR. X-233 2, 6, 8, 9, 10 IR 11 STRAIPSNI
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį 21 dalimi:
 
@@ -50,13 +50,13 @@ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO NR. X-233 2, 6, 8, 9, 10 IR 11 STRAIPSNI
 
 „12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Statybos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatymeir Lietuvos Respublikos pelno mokesčio įstatyme. Šiame įstatyme nurodyta nekilnojamojo turto paskirtis atitinka nekilnojamojo turto pagrindinę naudojimo paskirtį, nustatytą statybą reglamentuojančiuose teisės aktuose.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Savivaldybės taryba, siekdama, kad nustatytas naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto masinio nekilnojamojo turto vertinimo (toliau – masinis vertinimas) metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai, o jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šioje dalyje nurodytų terminų, nustatyti arba pakeisti konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio.“
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 3. Mokesčio mokėtojo (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus individualųjį vertinimą, kartu su individualiojo vertinimo ataskaita (toliau – prašymas) pateikiamas masinio vertinimo įmonei ir nagrinėjamas šio įstatymo 10 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, individualiojo vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol masinio vertinimo įmonė šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo 9 straipsnio 2 dalies 3, 4 ir 5 punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo 9 straipsnio 4 dalyje nurodytą laikotarpį.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 4. Masinis vertinimas, kurio metu nustatoma vidutinė rinkos vertė, atliekamas vadovaujantis šiuo įstatymu, Nekilnojamojo turto kadastro įstatymu, Vyriausybės nustatyta tvarka ne rečiau kaip kas 3 metai.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 4. Mokesčio mokėtojo skundo ar prašymo pateikimas masinio vertinimo įmonei mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki masinio vertinimo įmonės sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas masinio vertinimo įmonės sprendimą dėl skundo ar prašymo yra apskundęs Administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės įvykdymo užtikrinimo būdus, nurodytus Mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas juos naikinti.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 5. Masinio vertinimo įmonė sudaro galimybes savo interneto svetainėje mokesčių mokėtojams neatlygintinai sužinoti jų nekilnojamojo turto, įvertinto lyginamuoju arba pajamų metodais, mokestinę vertę.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

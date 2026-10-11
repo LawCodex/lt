@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/19f3cc7255cd11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.19F3CC7255CD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 32, 41, 45, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymo Nr. XIV-3116 3 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 

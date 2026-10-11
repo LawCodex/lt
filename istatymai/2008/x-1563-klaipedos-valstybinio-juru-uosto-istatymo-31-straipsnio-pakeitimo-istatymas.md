@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DE628D97DB3E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE628D97DB3E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 31 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [53-1245](https://www.e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7); 2002, Nr. [123-5519](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D6BD92444EF))
 
-\#### 1 straipsnis. 31 straipsnio pakeitimas
+## 1 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -38,11 +38,11 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 4. Ginčus dėl nekilnojamųjų daiktų paėmimo ir vertės nustatymo bei dėl privačios nuosavybės paėmimo savininkui atsiradusių nuostolių sprendžia teismas.“
 
-\#### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo dienos parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2008 m. liepos 1 d.
 

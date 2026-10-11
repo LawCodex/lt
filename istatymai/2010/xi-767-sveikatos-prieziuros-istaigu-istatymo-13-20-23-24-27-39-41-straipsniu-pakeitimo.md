@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D8CD44BD971B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D8CD44BD971B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 13, 20, 23, 24, 27, 39, 41 straipsnių pakeitimo ir papildymo ir 40 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [66-1572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6); 1998, Nr. [109-2995](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6CC51EA4ED); 2000, Nr. [85-2579](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4BCCB5F9E32); 2004, Nr. [4-37](https://www.e-tar.lt/portal/lt/legalAct/TAR.43FF877643A4); 2007, Nr. [17-630](https://www.e-tar.lt/portal/lt/legalAct/TAR.7AF0D4B185D1))
 
-\#### 1 straipsnis. 13 straipsnio papildymas 3 ir 4 dalimis
+## 1 straipsnis. 13 straipsnio papildymas 3 ir 4 dalimis
 
 1. Papildyti 13 straipsnį 3 dalimi:
 
@@ -34,13 +34,13 @@ Vilnius
 
 „4. Šio straipsnio 3 dalyje nurodytos informacijos teikimo ir šios paslaugos apmokėjimo tvarką nustato sveikatos apsaugos ministras.“
 
-\#### 2 straipsnis. 20 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 20 straipsnio 2 dalies pakeitimas
 
 20 straipsnio 2 dalyje išbraukti žodžius „ir apskričių viršininkai“ ir šią dalį išdėstyti taip:
 
 „2. LNSS biudžetinių įstaigų, išlaikomų iš valstybės biudžeto, steigėjai gali būti Vyriausybė, Sveikatos apsaugos ministerija, valstybinės tarnybos prie Sveikatos apsaugos ministerijos,Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Krašto apsaugos ministerija.“
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas
+## 3 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ LNSS asmens sveikatos priežiūros biudžetinės įstaigos yra:
 
 7) kitos LNSS biudžetinės įstaigos, kurių nomenklatūrą nustato Vyriausybė.“
 
-\#### 4 straipsnis. 24 straipsnio pakeitimas
+## 4 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -92,11 +92,11 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 3. LNSS savivaldybių ir valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų pavyzdinius nuostatus tvirtina Sveikatos apsaugos ministerija.“
 
-\#### 5 straipsnis. 27 straipsnio 1 dalies 2 punkto pripažinimas netekusiu galios
+## 5 straipsnis. 27 straipsnio 1 dalies 2 punkto pripažinimas netekusiu galios
 
 27 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 39 straipsnio pakeitimas
+## 6 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
@@ -130,11 +130,11 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 3) specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo įstaigos.“
 
-\#### 7 straipsnis. 40 straipsnio pripažinimas netekusiu galios
+## 7 straipsnis. 40 straipsnio pripažinimas netekusiu galios
 
 40 straipsnį pripažinti netekusiu galios.
 
-\#### 8 straipsnis. 41 straipsnio 1 dalies 2 punkto ir 3 dalies pakeitimas
+## 8 straipsnis. 41 straipsnio 1 dalies 2 punkto ir 3 dalies pakeitimas
 
 1. 41 straipsnio 1 dalies 2 punkte išbraukti žodžius „apskričių viršininkai“ ir šį punktą išdėstyti taip:
 
@@ -144,11 +144,11 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 „3. Viešosios įstaigos turi teisę gauti valstybės ir savivaldybių biudžetų lėšų paslaugoms teikti pagal sveikatos priežiūros sutartis su Sveikatos apsaugos ministerija, savivaldybės meru.“
 
-\#### 9 straipsnis. Pasiūlymas Lietuvos Respublikos sveikatos apsaugos ministerijai
+## 9 straipsnis. Pasiūlymas Lietuvos Respublikos sveikatos apsaugos ministerijai
 
 Lietuvos Respublikos sveikatos apsaugos ministerija iki 2010 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 9 straipsnį, įsigalioja 2010 m. liepos 1 d.
 

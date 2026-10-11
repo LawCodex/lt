@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BC49291ED2F0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BC49291ED2F0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo 41, 47 ir 49 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [23-593](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0); 2003, Nr. [63-2853](https://www.e-tar.lt/portal/lt/legalAct/TAR.0546D91E9C63); 2004, Nr. [103-3755](https://www.e-tar.lt/portal/lt/legalAct/TAR.89EF7B0C62B3); 2007, Nr. [43-1628](https://www.e-tar.lt/portal/lt/legalAct/TAR.F84844C38030))
 
-\#### 1 straipsnis. 41 straipsnio pakeitimas
+## 1 straipsnis. 41 straipsnio pakeitimas
 
 1. 41 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios.
 
@@ -44,19 +44,19 @@ Vilnius
 
 5. 41 straipsnio 9 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 47 straipsnio 1 dalies 3 punkto pakeitimas
+## 2 straipsnis. 47 straipsnio 1 dalies 3 punkto pakeitimas
 
 47 straipsnio 1 dalies 3 punkte vietoj žodžių „ugdymosi sąlygas ir jo pasiekimus“ įrašyti žodžius „būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį“ ir visą punktą išdėstyti taip:
 
 „3) gauti informaciją apie vaiko būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį;“.
 
-\#### 3 straipsnis. 49 straipsnio 2 dalies 7 punkto pakeitimas
+## 3 straipsnis. 49 straipsnio 2 dalies 7 punkto pakeitimas
 
 49 straipsnio 2 dalies 7 punkte vietoj žodžio „nuolat“ įrašyti žodžius „mokyklos tarybos ir mokyklos vadovo nustatyta tvarka“, vietoj žodžių „tėvus (globėjus, rūpintojus)“ įrašyti žodžius „tėvus (įtėvius), globėjus ar rūpintojus“, vietoj žodžio „pasiekimus“ įrašyti žodžius „būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį“ ir šį punktą išdėstyti taip:
 
 „7) mokyklos tarybos ir mokyklos vadovo nustatyta tvarka informuoti tėvus (įtėvius), globėjus ar rūpintojus apie jų vaiko būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį;“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 1 straipsnio 1 ir 5 dalys įsigalioja 2007 m. rugpjūčio 1 d.
 

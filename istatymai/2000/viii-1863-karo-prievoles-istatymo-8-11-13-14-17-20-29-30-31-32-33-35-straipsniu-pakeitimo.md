@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.59F959087B0F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.59F959087B0F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 8, 11, 13, 14, 17, 20, 29, 30, 31, 32, 33, 35 straipsnių pakeitimo ir papildymo bei įstatymo papildymo II(1) skyriumi įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [106-2427](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255); 1999, Nr. [59-1918](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ACCD429C6E8))
 
-\#### 1 straipsnis. 8 straipsnio 3 dalies 1, 2 punktų papildymas ir 4 dalies papildymas 3 punktu bei 6 dalies pakeitimas
+## 1 straipsnis. 8 straipsnio 3 dalies 1, 2 punktų papildymas ir 4 dalies papildymas 3 punktu bei 6 dalies pakeitimas
 
 1. 8 straipsnio 3 dalies 1 punkte po žodžio „kursuose“ įrašyti žodžius „kurių tvarkaraštis suderintas su studijų aukštosiose mokyklose tvarkaraščiu, ir“, po žodžio „kariuomenėje“ įrašyti žodžius „ar iki 90 dienų trukmės būtinuosiuose kariniuose mokymuose šio įstatymo 19 straipsnyje nustatyta tvarka vasaros atostogų metu“, 2 punkte vietoj žodžių „mokymusi pagal 2 metų“ įrašyti žodžius „studijomis pagal Akademijos“ ir šiuos punktus išdėstyti taip:
 
@@ -44,19 +44,19 @@ Vilnius
 
 „6. Baigę aukštąsias arba aukštesniąsias mokyklas šauktiniai, kurie per 12 mėnesių po tokios mokyklos baigimo dienos nebuvo pašaukti atlikti privalomosios pradinės karo tarnybos, nuo privalomosios pradinės karo tarnybos atleidžiami.“
 
-\#### 2 straipsnis. 11 straipsnio 1 dalies 4 punkto pakeitimas
+## 2 straipsnis. 11 straipsnio 1 dalies 4 punkto pakeitimas
 
 11 straipsnio 1 dalies 4 punkte vietoj žodžių „Centrinė karinės“ įrašyti žodį „Karinė“ ir šį punktą išdėstyti taip:
 
 „4) Karinėmedicinos ekspertizės komisija.“
 
-\#### 3 straipsnis. 13 straipsnio 2 dalies 2 punkto pakeitimas
+## 3 straipsnis. 13 straipsnio 2 dalies 2 punkto pakeitimas
 
 13 straipsnio 2 dalies 2 punkte vietoj žodžių „Krašto apsaugos ministerijos Centrinės“ įrašyti žodžius „Lietuvos kariuomenėskaro“, vietoj žodžio „viršininko“ įrašyti žodį „vado“ ir šį punktą išdėstyti taip:
 
 „2) pirmininko pavaduotojo – Lietuvos kariuomenės karomedicinos tarnybos vado arba jo pavaduotojo;“.
 
-\#### 4 straipsnis. 14 straipsnio pakeitimas
+## 4 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 2) turi teisę siųsti karo prievolininkus atlikti papildomų tyrimų į Lietuvos nacionalinės sveikatos sistemos antrinio ar tretinio lygio asmens sveikatos priežiūros viešąsias ar biudžetines įstaigas ir reikalauti iš šių įstaigų pateikti reikalingus dokumentus.“
 
-\#### 5 straipsnis. Įstatymo papildymas II1 skyriumi
+## 5 straipsnis. Įstatymo papildymas II1 skyriumi
 
 Papildyti Įstatymą II^1skyriumi:
 
@@ -78,9 +78,9 @@ Papildyti Įstatymą II^1skyriumi:
 
 KARO PRIEVOLĖS ADMINISTRAVIMO PERTVARKYMAS
 
-\### PIRMASIS SKIRSNIS. KARO PRIEVOLĖS ADMINISTRAVIMAS
+PIRMASIS SKIRSNIS. KARO PRIEVOLĖS ADMINISTRAVIMAS
 
-\#### 151 straipsnis. Karo prievolės administravimo pertvarkymas
+## 151 straipsnis. Karo prievolės administravimo pertvarkymas
 
 1. Šio įstatymo I–II skyriuose reglamentuotas karo prievolės administravimas, susijęs su šaukimu į privalomąją pradinę karo tarnybą, yra pertvarkomas.
 
@@ -90,7 +90,7 @@ KARO PRIEVOLĖS ADMINISTRAVIMO PERTVARKYMAS
 
 4. Regionų, kuriuose karo prievolės administravimas nepertvarkytas, teritorijose karo prievolininkai šaukiami į privalomąją karo tarnybą šio įstatymo nustatyta tvarka, netaikant II(1) skyriaus nuostatų.
 
-\#### 152 straipsnis. Karo prievolės administravimo subjektai
+## 152 straipsnis. Karo prievolės administravimo subjektai
 
 1. Karo prievolę tiesiogiai administruoja:
 
@@ -100,7 +100,7 @@ KARO PRIEVOLĖS ADMINISTRAVIMO PERTVARKYMAS
 
 2. Kitos valstybės institucijos, visų rūšių bei nuosavybės formų įmonės, įstaigos ir organizacijos atlieka įstatymų joms pavestas funkcijas, susijusias su karo prievolės pertvarkymu.
 
-\#### 153 straipsnis. Karo prievolės administravimo pakopos
+## 153 straipsnis. Karo prievolės administravimo pakopos
 
 1. Karo prievolės administravimo pakopos yra šios:
 
@@ -112,15 +112,15 @@ KARO PRIEVOLĖS ADMINISTRAVIMO PERTVARKYMAS
 
 3. Administravimo tarnybos regioniniai karo prievolės centrai skiria šauktinius į privalomąją karo tarnybą ir už tai atsako.
 
-\### ANTRASIS SKIRSNIS. KARO PRIEVOLĖS ADMINISTRAVIMAS PIRMOJOJE PAKOPOJE
+ANTRASIS SKIRSNIS. KARO PRIEVOLĖS ADMINISTRAVIMAS PIRMOJOJE PAKOPOJE
 
-\#### 154 straipsnis. Karo prievolės administravimas savivaldybėje
+## 154 straipsnis. Karo prievolės administravimas savivaldybėje
 
 1. Vietos savivaldos institucija tvarko savivaldybės teritorijoje gyvenančių iki šauktinio amžiaus jaunuolių ir šauktinių apskaitą, organizuoja jų sveikatos profilaktinį patikrinimą asmens sveikatos priežiūrą reglamentuojančių įstatymų bei kitų teisės aktų nustatyta tvarka ir mastu, atrenka ir siunčia atrinktus šauktinius į regioninius karo prievolės centrus, taip pat organizuoja vengiančių įsirašyti į karinę įskaitą, vengiančių sveikatos tikrinimo ar privalomosios karo tarnybos asmenų paiešką bei jų patraukimą administracinėn ar baudžiamojon atsakomybėn.
 
 2. Šio straipsnio 1 dalyje numatytas karo prievolės administravimo funkcijas, išskyrus priskirtas savivaldybės karo prievolininkų atrankos komisijai (toliau – savivaldybės atrankos komisija), atlieka šaukimui organizuoti savivaldybės paskirtas ir reikalingus įgaliojimus turintis tarnautojas (toliau – savivaldybės administracijos tarnautojas). Jo pareiginius nuostatus, atitinkančius pavyzdinių nuostatų reikalavimus, tvirtina, jį skiria bei atleidžia savivaldybės administratorius.
 
-\#### 155 straipsnis. Savivaldybės administracijos tarnautojas
+## 155 straipsnis. Savivaldybės administracijos tarnautojas
 
 1. Savivaldybės administracijos tarnautojas:
 
@@ -140,7 +140,7 @@ KARO PRIEVOLĖS ADMINISTRAVIMO PERTVARKYMAS
 
 2. Atlikdamas savo uždavinius ir funkcijas, savivaldybės administracijos tarnautojas bendradarbiauja su Administravimo tarnybos teritorinio skyriaus darbuotojais.
 
-\#### 156 straipsnis. Savivaldybės atrankos komisija
+## 156 straipsnis. Savivaldybės atrankos komisija
 
 1. Savivaldybės mero siūlymu savivaldybės atrankos komisiją ir jos darbo reglamentą tvirtina savivaldybės taryba. Savivaldybės atrankos komisiją sudaro ne daugiau kaip 7 asmenys: savivaldybės gydytojas, globos ir rūpybos, policijos bei Administravimo tarnybos atstovai. Komisijos pirmininku tvirtinamas savivaldybės tarybos narys arba savivaldybės administracijos tarnautojas.
 
@@ -166,13 +166,13 @@ KARO PRIEVOLĖS ADMINISTRAVIMO PERTVARKYMAS
 
 8. Į savivaldybės atrankos komisiją Administravimo tarnybos deleguotas pareigūnas turi teisę reikalauti, kad savivaldybės atrankos komisijos sprendimai karo prievolės klausimais, kai yra pagrindas, būtų peržiūrėti Priežiūros komisijos prie Administravimo tarnybos (toliau – Priežiūros komisija).
 
-\#### 157 straipsnis. Priežiūros komisija
+## 157 straipsnis. Priežiūros komisija
 
 1. Priežiūros komisija nagrinėja pagal šauktinių raštiškus prašymus savivaldybių atrankos komisijų sprendimų dėl jų pašaukimo, atleidimo nuo privalomosios karo tarnybos ar jos atidėjimo pagrįstumą ir, kai yra pagrindas, šiuos sprendimus keičia. Šis Priežiūros komisijos sprendimas įsigalioja, kai jį patvirtina Administravimo tarnybos viršininkas. Priežiūros komisijos sprendimas gali būti apskųstas krašto apsaugos ministrui ne vėliau kaip per 10 darbo dienų nuo šio sprendimo gavimo dienos. Krašto apsaugos ministro sprendimas per 20 dienų gali būti apskųstas teismui.
 
 2. Priežiūros komisijos sudėtį, jos darbo reglamentą tvirtina krašto apsaugos ministras.
 
-\#### 158 straipsnis. Administravimo tarnybos teritorinis skyrius
+## 158 straipsnis. Administravimo tarnybos teritorinis skyrius
 
 Administravimo tarnybos teritorinis skyrius:
 
@@ -186,9 +186,9 @@ Administravimo tarnybos teritorinis skyrius:
 
 5) atlieka kitas teisės aktų nustatytas funkcijas.
 
-\### TREČIASIS SKIRSNIS. KARO PRIEVOLĖS ADMINISTRAVIMAS ANTROJOJE PAKOPOJE
+TREČIASIS SKIRSNIS. KARO PRIEVOLĖS ADMINISTRAVIMAS ANTROJOJE PAKOPOJE
 
-\#### 159 straipsnis. Administravimo tarnyba
+## 159 straipsnis. Administravimo tarnyba
 
 1. Administravimo tarnybos steigėja yra Krašto apsaugos ministerija.
 
@@ -198,7 +198,7 @@ Administravimo tarnybos teritorinis skyrius:
 
 4. Administravimo tarnyba turi regioninius karo prievolės centrus, Priežiūros komisiją, teritorinius skyrius savivaldybių teritorijose ir kitus padalinius.
 
-\#### 1510 straipsnis. Administravimo tarnybos pagrindiniai uždaviniai
+## 1510 straipsnis. Administravimo tarnybos pagrindiniai uždaviniai
 
 Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
@@ -222,7 +222,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 10) atlikti jos nuostatuose numatytus kitus uždavinius ir funkcijas.
 
-\#### 1511 straipsnis. Regioniniai karo prievolės centrai
+## 1511 straipsnis. Regioniniai karo prievolės centrai
 
 1. Karo prievolės administravimą regione vykdo Administravimo tarnybos regioniniai karo prievolės centrai. Regioninių karo prievolės centrų veiklos teritoriją nustato krašto apsaugos ministras.
 
@@ -240,7 +240,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 3. Regioniniuose karo prievolės centruose šauktinių sveikatos patikrinimą atlieka krašto apsaugos ministro nustatyta tvarka paskirti Karo medicinos tarnybos gydytojai. Šauktinių sveikatos tikrinimo tvarka turi būti suderinta su Sveikatos apsaugos ministerija. Šauktinių sveikatos tikrinimo tvarką tvirtina Vyriausybė arba jos įgaliota institucija.
 
-\#### 1512 straipsnis. Šauktinių aprūpinimas
+## 1512 straipsnis. Šauktinių aprūpinimas
 
 1. Už tinkamumo karo tarnybai tikrinimo dienas regioniniuose karo prievolės centruose šauktiniams išmokama 0,1 minimalaus gyvenimo lygio dydžio dienpinigių.
 
@@ -252,13 +252,13 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 5. Šiame straipsnyje numatytos išmokos mokamos iš Krašto apsaugos ministerijai tam tikslui skirtų biudžeto lėšų krašto apsaugos ministro nustatyta tvarka.“
 
-\#### 6 straipsnis. 17 straipsnio 1 dalies pakeitimas ir papildymas
+## 6 straipsnis. 17 straipsnio 1 dalies pakeitimas ir papildymas
 
 17 straipsnio 1 dalyje po žodžio „komisijai“ įrašyti žodžius „arba regioniniam karo prievolės centrui“, po skaičiaus ir žodžio „18 metų“ įrašyti žodžius „o krašto apsaugos ministro sutikimu taip pat ir 27 metų“ ir šią dalį išdėstyti taip:
 
 „1. Į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą naujokų šaukimo komisijai arbaregioniniam karo prievolės centrui, tarnybą gali pradėti ir būdami 18 metų, o krašto apsaugosministro sutikimu taip pat ir 27 metų, išskyrus šio įstatymo 8 straipsnio 1 ir 2 dalyse numatytus atvejus.“
 
-\#### 7 straipsnis. 20 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+## 7 straipsnis. 20 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
 
 20 straipsnio 1 dalyje po žodžio „komisiją“ įrašyti žodžius „arba regioninį karo prievolės centrą“, 3 dalyje vietoj žodžių „ir išvykimo į tarnybą laiką nustato“ įrašyti žodžius „bei jos pradžios datą tvirtina“ ir visą straipsnį išdėstyti taip:
 
@@ -270,7 +270,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 3. Alternatyviosios krašto apsaugos tarnybos atlikimo vietą bei jos pradžios datą tvirtina krašto apsaugos ministras.“
 
-\#### 8 straipsnis. 29 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas bei papildymas ir straipsnio papildymas 3 dalimi
+## 8 straipsnis. 29 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas bei papildymas ir straipsnio papildymas 3 dalimi
 
 29 straipsnio pavadinime vietoj žodžio „Savivaldybių“ įrašyti žodžius „Vietos savivaldos institucijų“, 1 dalyje vietoj žodžio „Savivaldybės“ įrašyti žodžius „Vietos savivaldos institucijos, kurių teritorijoje karo prievolės administravimas nepertvarkytas, taip pat šiose teritorijose įregistruotos“, 1 dalies 2 punkte vietoj žodžių „jaunuolių ir šauktinių, kuriems sukako 16 ir 18 metų sąrašus ir“ įrašyti žodžius „jaunuolių, kuriems sukako 16 ir 18 metų, sąrašus bei“, 2 dalyje vietoj žodžio „Savivaldybės“ įrašyti žodžius „Vietos savivaldos institucijos“, papildyti straipsnį 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -292,13 +292,13 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 3. Visų rūšių bei nuosavybės formų įmonės, įstaigos ir organizacijos, įregistruotos savivaldybėse, kurių teritorijoje karo prievolės administravimas pertvarkytas, šiame straipsnyje nurodytus duomenis nustatyta tvarka pateikia ir vietos savivaldos institucijoms.“
 
-\#### 9 straipsnis. 30 straipsnio 2 dalies papildymas
+## 9 straipsnis. 30 straipsnio 2 dalies papildymas
 
 30 straipsnio 2 dalį papildyti antru sakiniu ir šią dalį išdėstyti taip:
 
 „2. Švietimo įstaigų ir aukštųjų mokyklų vadovai tvarko besimokančių jose karo prievolininkų apskaitą ir kiekvienais metais per mėnesį nuo mokslo metų pradžios pateikia vietinėms teritorinėms karinėms įstaigoms duomenis apie besimokančius karo prievolininkus.Švietimo įstaigų ir aukštųjų mokyklų, įregistruotų savivaldybėse, kurių teritorijoje karo prievolės administravimas yra pertvarkytas, vadovai duomenis apie besimokančius karo prievolininkus šio straipsnio nustatyta tvarka pateikia ir vietos savivaldos institucijai.“
 
-\#### 10 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 31 straipsnio 1 dalyje vietoj žodžių „antrinio ir tretinio lygio“ įrašyti žodžius „antrinės ir tretinės“, vietoj žodžio „centrinės“ įrašyti žodį „karinės“, pakeisti 1 dalies 2 punktą ir šią dalį išdėstyti taip:
 
@@ -308,7 +308,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 2) pateikti išrašus iš šauktinių asmens sveikatos istorijų (ambulatorinių kortelių).“
 
-\#### 11 straipsnis. 32 straipsnio papildymas 2 dalimi
+## 11 straipsnis. 32 straipsnio papildymas 2 dalimi
 
 32 straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -318,7 +318,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 2. Statistikos departamentas prie Lietuvos Respublikos Vyriausybės informaciją apie iki šauktinio amžiaus jaunuolių bei šauktinių gyvenamąją vietą, paso ir kitus duomenis teikia vietos savivaldos institucijoms, kurių teritorijoje karo prievolės administravimas pertvarkytas, jų reikalavimu.“
 
-\#### 12 straipsnis. 33 straipsnio papildymas
+## 12 straipsnis. 33 straipsnio papildymas
 
 33 straipsnio 1 dalyje po žodžių „vadovo prašymu“ įrašyti žodžius „bei vietos savivaldos institucijos, kurios teritorijoje karo prievolės administravimas pertvarkytas,savivaldybės administracijos tarnautojo prašymu“, 2 dalyje po žodžio „įstaigoms“ įrašyti žodžius „bei vietos savivaldos institucijoms, kurių teritorijoje karo prievolės administravimas pertvarkytas“ ir visą straipsnį išdėstyti taip:
 
@@ -328,7 +328,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 
 2. Informatikos ir ryšių departamentas prie Vidaus reikalų ministerijos nustatyta tvarka teikia vietinėms teritorinėms karinėms įstaigoms bei vietos savivaldos institucijoms, kurių teritorijoje karo prievolės administravimas pertvarkytas, duomenis apie tai, ar karo prievolininkas nėra patrauktas baudžiamojon atsakomybėn arba nuteistas.“
 
-\#### 13 straipsnis. 35 straipsnio papildymas 2 dalimi
+## 13 straipsnis. 35 straipsnio papildymas 2 dalimi
 
 35 straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ECF5798E6803"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ECF5798E6803.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 1 straipsnio papildymo bei kodekso papildymo 9(1), 123(1) straipsniais ir priedu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 3 dalimi
 
 Papildyti 1 straipsnį 3 dalimi:
 
 „3. Šio kodekso nuostatos yra suderintos su Europos Sąjungos teisės aktų, nurodytų šio kodekso priede, nuostatomis.“
 
-\#### 2 straipsnis. Kodekso papildymas 91 straipsniu
+## 2 straipsnis. Kodekso papildymas 91 straipsniu
 
 Papildyti Kodeksą 9^1 straipsniu:
 
@@ -80,7 +80,7 @@ Papildyti Kodeksą 9^1 straipsniu:
 
 7. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra.“
 
-\#### 3 straipsnis. Kodekso papildymas 1231 straipsniu
+## 3 straipsnis. Kodekso papildymas 1231 straipsniu
 
 Papildyti Kodeksą 123^1straipsniu:
 
@@ -92,7 +92,7 @@ baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla at�
 
 2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.“
 
-\#### 4 straipsnis. Kodekso papildymas priedu
+## 4 straipsnis. Kodekso papildymas priedu
 
 Papildyti Kodeksą priedu:
 
@@ -106,7 +106,7 @@ priedas
 
 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

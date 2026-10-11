@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EC8F5F711212"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EC8F5F711212.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos advokatūros įstatymo 8, 57, 59 ir 60 straipsnių pakeitimo įstatymas
@@ -24,27 +24,27 @@ Vilnius
 
 (Žin., 2004, Nr. [50-1632](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3))
 
-\#### 1 straipsnis. 8 straipsnio 1 punkto pakeitimas
+## 1 straipsnis. 8 straipsnio 1 punkto pakeitimas
 
 Pakeisti 8 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) yra teistas už tyčinę nusikalstamą veiką, nesvarbu, ar teistumas išnykęs, ar ne; taip pat teistas už kitą nusikalstamą veiką, kol teistumas neišnykęs;“.
 
-\#### 2 straipsnis. 57 straipsnio 1 dalies 6 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 57 straipsnio 1 dalies 6 punkto pripažinimas netekusiu galios
 
 57 straipsnio 1 dalies 6 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 59 straipsnio 2 dalies 7 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 59 straipsnio 2 dalies 7 punkto pripažinimas netekusiu galios
 
 59 straipsnio 2 dalies 7 punktą pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 60 straipsnio 2 dalies 15 punkto pakeitimas
+## 4 straipsnis. 60 straipsnio 2 dalies 15 punkto pakeitimas
 
 Pakeisti 60 straipsnio 2 dalies 15 punktą ir jį išdėstyti taip:
 
 „15) organizuoja antrinę teisinę pagalbą teikiančių advokatų veiklos kokybės tikrinimą pagal antrinės teisinės pagalbos kokybės vertinimo taisykles, kurias tvirtina Lietuvos advokatūra, suderinusi su Teisingumo ministerija;“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 2 straipsnis įsigalioja 2009 m. sausio 1 d.
 

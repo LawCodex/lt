@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fb4ee440041111edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FB4EE4400411.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos pareiškimų pagal Europos Sąjungos bei Europos atominės energijos bendrijos ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės prekybos ir bendradarbiavimo susitarimą“ Nr. XIV-164 1 straipsnio pakeitimo įstatymas
@@ -39,5 +39,3 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_12bf391425a44a5e92ff73a096be2d9d_end

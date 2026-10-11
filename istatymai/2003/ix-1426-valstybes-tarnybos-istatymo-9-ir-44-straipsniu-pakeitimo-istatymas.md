@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0EDD7649960B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 9 ir 44 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [127-5750](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3898659EAFB))
 
-\#### 1 straipsnis. 9 straipsnio 3 dalies 1 punkto pakeitimas
+## 1 straipsnis. 9 straipsnio 3 dalies 1 punkto pakeitimas
 
 9 straipsnio 3 dalies 1 punkte po žodžio „sunkaus“ įrašyti žodžius „ar labai sunkaus“, vietoj žodžių „ar nusikaltimo valstybės tarnybai“ įrašyti žodžius „nusikalstamos veikos valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamos veikos“ ir šį punktą išdėstyti taip:
 
 „1) įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikalstamos veikos valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamos veikos padarymo ir turintis neišnykusį ar nepanaikintą teistumą;“.
 
-\#### 2 straipsnis. 44 straipsnio 1 dalies 16 punkto pakeitimas
+## 2 straipsnis. 44 straipsnio 1 dalies 16 punkto pakeitimas
 
 44 straipsnio 1 dalies 16 punkte po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“, vietoj žodžių „ar nusikaltimą valstybės tarnybai“ įrašyti žodžius „nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką“ ir šį punktą išdėstyti taip:
 
 „16) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką arba bausmė, dėl kurios jis negali eiti savo pareigų;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

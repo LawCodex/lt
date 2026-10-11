@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E02B42A2E6B4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E02B42A2E6B4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 15, 45, 52, 53, 58, 59, 60 straipsnių pakeitimo ir 78 straipsnio 1 dalies pripažinimo netekusia galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2006, Nr. [82-3252](https://www.e-tar.lt/portal/lt/legalAct/TAR.348FD207192A))
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas
+## 1 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnį papildyti nauju 2 punktu, buvusį 2 punktą laikyti 6 punktu, 6 punktą laikyti 7 punktu ir visą šį straipsnį išdėstyti taip:
 
@@ -50,13 +50,13 @@ Akcininkai turi šias turtines teises:
 
 7) kitas šio ir kitų įstatymų nustatytas turtines teises.“
 
-\#### 2 straipsnis. 45 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 45 straipsnio 1 dalies pakeitimas
 
 45 straipsnio 1 dalį papildyti trečiu sakiniu ir šią dalį išdėstyti taip:
 
 „1. Akcijų apmokėjimas yra jų emisijos kainos apmokėjimas. Akcijos gali būti apmokamos pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais nepiniginiais įnašais. Šio Įstatymo 52 straipsnio 5 dalyje nurodytu atveju išleistos naujos akcijos turi būti apmokamos pinigais.“
 
-\#### 3 straipsnis. 52 straipsnio pakeitimas
+## 3 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 11. Įstatinis kapitalas laikomas sumažintu tik pakeistus įstatus įregistravus juridinių asmenų registre. Visuotinio akcininkų susirinkimo sprendimas sumažinti įstatinį kapitalą laikomas negaliojančiu, jeigu pakeisti bendrovės įstatai nebuvo pateikti juridinių asmenų registro tvarkytojui per 6 mėnesius nuo visuotinio akcininkų susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos, išskyrus šio Įstatymo 53 straipsnio 6 dalyje nurodytą atvejį.“
 
-\#### 4 straipsnis. 53 straipsnio 4 ir 5 dalių pakeitimas
+## 4 straipsnis. 53 straipsnio 4 ir 5 dalių pakeitimas
 
 1. 53 straipsnio 4 dalies 1 punktą papildyti sakiniu ir šį punktą išdėstyti taip:
 
@@ -116,13 +116,13 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 3) įstatinis kapitalas mažinamas, kad būtų ištaisytos įstatinio kapitalo sudarymo ar didinimo metu padarytos klaidos.“
 
-\#### 5 straipsnis. 58 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 58 straipsnio 2 dalies pakeitimas
 
 Pakeisti 58 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Bendrovės metinę finansinę atskaitomybę tvirtina eilinis visuotinis akcininkų susirinkimas. Jeigu bendrovės metinės finansinės atskaitomybės auditas pagal įstatymus yra privalomas ar yra numatytas įstatuose, tvirtinama tik audituota metinė finansinė atskaitomybė. Bendrovės, kurios akcininkas yra valstybė ir (ar) savivaldybė, tvirtinama tik audituota metinė finansinė atskaitomybė.“
 
-\#### 6 straipsnis. 59 straipsnio pakeitimas
+## 6 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
@@ -188,7 +188,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 3) bendrovės likvidavimo.“
 
-\#### 7 straipsnis. 60 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 60 straipsnio 3 dalies pakeitimas
 
 1. 60 straipsnio 3 dalies 2 punkte vietoj žodžio „paskirstytinasis“ įrašyti žodžius „paskirstytinojo ataskaitinių“, vietoj žodžio „rezultatas“ įrašyti žodžius „pelno (nuostolių) suma“, vietoj žodžio „neigiamas“ įrašyti žodį „neigiama“ ir šį punktą išdėstyti taip:
 
@@ -198,11 +198,11 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 „3) bendrovės nuosavas kapitalas yra mažesnis arba išmokėjus dividendus taptų mažesnis už bendrovės įstatinio kapitalo, privalomojo rezervo, perkainojimo rezervo bei rezervo savoms akcijoms įsigyti sumą.“
 
-\#### 8 straipsnis. 78 straipsnio 1 dalies pripažinimas netekusia galios
+## 8 straipsnis. 78 straipsnio 1 dalies pripažinimas netekusia galios
 
 78 straipsnio 1 dalį pripažinti netekusia galios.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 5 straipsnio nuostata, kad bendrovės, kurios akcininkas yra valstybė ir (ar) savivaldybė, tvirtinama tik audituota metinė finansinė atskaitomybė, įsigalioja nuo 2008 m. sausio 1 d.
 

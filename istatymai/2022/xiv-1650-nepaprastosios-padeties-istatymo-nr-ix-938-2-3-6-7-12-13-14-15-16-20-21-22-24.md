@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8c0eab30828b11ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8C0EAB30828B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 3, 6, 7, 12, 13, 14, 15, 16, 20, 21, 22, 24, 27, 28, 29 ir 31 straipsnių pakeitimo įstatymas
@@ -191,5 +191,3 @@ Respublikos Prezidentas ir Vyriausybė nepaprastosios padėties kontrolę vykdo 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_2fc4441539a748afb331c6e48b28ca71_end

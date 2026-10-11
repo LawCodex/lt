@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0B55CE42BA59"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0B55CE42BA59.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 16 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 1995, Nr. [59-1486](https://www.e-tar.lt/portal/lt/legalAct/TAR.74BCF79EB1FF))
 
-\#### 1 straipsnis. 16 straipsnis pakeitimas
+## 1 straipsnis. 16 straipsnis pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 

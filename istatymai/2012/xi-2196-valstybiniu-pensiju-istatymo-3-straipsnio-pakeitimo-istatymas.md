@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.19B20AF552AA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.19B20AF552AA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84); 1997, Nr. [104-2622](https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1); 1999, Nr. [99-2846](https://www.e-tar.lt/portal/lt/legalAct/TAR.9648FA9BCFC6); 2001, Nr. [21-693](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E4F258254FF); 2002, Nr. [73-3089](https://www.e-tar.lt/portal/lt/legalAct/TAR.B51EB2073886); 2006, Nr. [141-5404](https://www.e-tar.lt/portal/lt/legalAct/TAR.67BD9271B92F); 2009, Nr. [151-6778](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FFAD9D4DF74); 2010, Nr. [82-4309](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D9B706C873B), Nr. [139-7108](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC11249FA767))
 
-\#### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
 

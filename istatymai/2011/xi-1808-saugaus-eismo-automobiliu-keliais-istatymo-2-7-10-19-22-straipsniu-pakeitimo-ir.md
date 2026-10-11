@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C66BB9C3A574"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C66BB9C3A574.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2, 7, 10, 19, 22 straipsnių pakeitimo ir papildymo įstatymo 6 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2010, Nr. [75-3791](https://www.e-tar.lt/portal/lt/legalAct/TAR.2A38153C928F))
 
-\#### 1 straipsnis. 6 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 6 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2012 m. balandžio 1 d.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. gruodžio 31 d.
 

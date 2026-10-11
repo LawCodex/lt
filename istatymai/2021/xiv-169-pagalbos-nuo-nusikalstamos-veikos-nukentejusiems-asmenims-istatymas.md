@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/599af1605b2b11eb9dc7b575f08e8bea"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.599AF1605B2B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas
@@ -26,9 +26,9 @@ PAGALBOS NUO NUSIKALSTAMOS VEIKOS NUKENTĖJUSIEMS ASMENIMS
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šio įstatymo paskirtis – užtikrinti, kad fiziniai asmenys, nukentėję nuo nusikalstamos veikos, padarytos Europos Sąjungos teritorijoje, prieš baudžiamąjį procesą, jo metu, prireikus – po jo ir visais atvejais, kai baudžiamasis procesas nepradedamas, arba nukentėję nuo nusikalstamos veikos, padarytos ne Europos Sąjungos teritorijoje, kai baudžiamasis procesas vyksta Lietuvos Respublikos teritorijoje, būdami Lietuvos Respublikos teritorijoje, gautų pagalbą.
 
@@ -38,7 +38,7 @@ Vilnius
 
 4. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Akredituota pagalba nuo nusikalstamos veikos nukentėjusiems asmenims (toliau – akredituota pagalba) – pagalba nuo nusikalstamos veikos nukentėjusiems asmenims, kurią teikia pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims tarnybos ir kuri, atlikus įvertinimą, yra pripažinta atitinkančia šio įstatymo 13 straipsnio 1 dalyje nustatytus reikalavimus.
 
@@ -60,7 +60,7 @@ Vilnius
 
 8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos baudžiamajame kodekse, Baudžiamojo proceso kodekse, Lietuvos Respublikos lygių galimybių įstatyme.
 
-\#### 3 straipsnis. Pagalbos nukentėjusiems asmenims teikimo principai
+## 3 straipsnis. Pagalbos nukentėjusiems asmenims teikimo principai
 
 Pagalbos nukentėjusiems asmenims teikimo principai:
 
@@ -76,7 +76,7 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 6) individualizavimo. Priimant su nukentėjusiu asmeniu susijusius sprendimus ir (ar) teikiant jam pagalbą, atsižvelgiama į individualius jo poreikius ir asmenines savybes (įskaitant amžių, brandą, lytį, psichikos ir fizines savybes, socialinės aplinkos ir kitas svarbias ypatybes bei emocinius ir socialinius ryšius), dėl padarytos nusikalstamos veikos atsiradusius poreikius ir nusikalstamos veikos pobūdį.
 
-\#### 4 straipsnis. Nukentėjusių asmenų teisės
+## 4 straipsnis. Nukentėjusių asmenų teisės
 
 1. Nukentėjęs asmuo, atsižvelgiant į individualius jo poreikius, dėl padarytos nusikalstamos veikos atsiradusius poreikius ir nusikalstamos veikos pobūdį, turi teisę:
 
@@ -94,9 +94,9 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 4. Teikiant šiame įstatyme nustatytą pagalbą nukentėjusiam vaikui, turi būti užtikrinamas jo atstovo pagal įstatymą dalyvavimas, jei tai neprieštarauja vaiko interesams.
 
-\## II SKYRIUS. PAGALBOS NUKENTĖJUSIEMS ASMENIMS VALDYMAS. ATSAKINGŲ INSTITUCIJŲ FUNKCIJOS, PAGALBOS FINANSAVIMAS IR BENDRADARBIAVIMAS
+II SKYRIUS. PAGALBOS NUKENTĖJUSIEMS ASMENIMS VALDYMAS. ATSAKINGŲ INSTITUCIJŲ FUNKCIJOS, PAGALBOS FINANSAVIMAS IR BENDRADARBIAVIMAS
 
-\#### 5 straipsnis. Pagalbos nukentėjusiems asmenims valdymas
+## 5 straipsnis. Pagalbos nukentėjusiems asmenims valdymas
 
 1. Pagalbos nukentėjusiems asmenims valdymas – pagalbos priemonių planavimas, administravimas, atsakomybės paskirstymas ir finansavimo užtikrinimas.
 
@@ -116,7 +116,7 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 7) Lietuvos Respublikos savivaldybių administracijos.
 
-\#### 6 straipsnis. Pagalbos nukentėjusiems asmenims valdymo institucijų funkcijos
+## 6 straipsnis. Pagalbos nukentėjusiems asmenims valdymo institucijų funkcijos
 
 1. Vyriausybė tvirtina nacionalines plėtros programas, pagal kurias už pagalbos nukentėjusiems asmenims valdymą atsakingos ministerijos suplanuoja pagalbos nukentėjusiems asmenims priemones ir skiria lėšų joms finansuoti.
 
@@ -154,21 +154,21 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 9. Nevalstybinių mokyklų savininkai (dalyvių susirinkimai) užtikrina nevalstybinių mokyklų, kaip pirmojo kontakto institucijų, veiklos organizavimą, koordinavimą ir kontrolę.
 
-\#### 7 straipsnis. Pagalbos finansavimas
+## 7 straipsnis. Pagalbos finansavimas
 
 1. Šiame įstatyme numatyta pagalba finansuojama Lietuvos Respublikos valstybės biudžeto, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų lėšomis.
 
 2. Valstybės biudžeto lėšų akredituotai pagalbai teikti poreikio nustatymo, šių lėšų planavimo, paskirstymo, pervedimo, naudojimo, atsiskaitymo už panaudotas lėšas tvarką nustato socialinės apsaugos ir darbo ministras.
 
-\#### 8 straipsnis. Bendradarbiavimas
+## 8 straipsnis. Bendradarbiavimas
 
 1. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos pagal kompetenciją rengia ir įgyvendina priemones, kuriomis siekiama sudaryti ir (ar) pagerinti sąlygas nukentėjusiems asmenims naudotis šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose nustatytomis teisėmis, organizuoja informavimo ir sąmoningumo ugdymo kampanijas, rengia mokymo programas, specialistų ir pareigūnų mokymus, skatina mokslinius tyrimus, taip pat dalyvauja, atstovauja tarptautinėse, Europos Sąjungos institucijose ir jų darbo (valdymo) organuose, bendradarbiauja su kitų valstybių kompetentingomis institucijomis, įstaigomis ir organizacijomis, sudarydamos sąlygas keistis gerąja praktika, konsultuotis ir spręsti kylančias problemas, užtikrindamos nukentėjusių asmenų teises.
 
 2. Pirmojo kontakto institucijų, pagalbos tarnybų bendradarbiavimo, pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims teikimo tvarką kartu nustato socialinės apsaugos ir darbo ministras, Lietuvos Respublikos vidaus reikalų ministras ir Lietuvos Respublikos teisingumo ministras, suderinę su Lietuvos Respublikos sveikatos apsaugos ministru ir Lietuvos Respublikos švietimo, mokslo ir sporto ministru.
 
-\## III SKYRIUS. PAGALBOS NUKENTĖJUSIEMS ASMENIMS TEIKIMAS
+III SKYRIUS. PAGALBOS NUKENTĖJUSIEMS ASMENIMS TEIKIMAS
 
-\#### 9 straipsnis. Informacijos teikimas pirmojo kontakto institucijoje
+## 9 straipsnis. Informacijos teikimas pirmojo kontakto institucijoje
 
 1. Pirmojo kontakto institucija nukentėjusiems asmenims teikia informaciją apie:
 
@@ -200,7 +200,7 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 4. Kai nuo nusikalstamos veikos nukentėję Lietuvos Respublikos piliečiai ir Lietuvos Respublikos konsuliniame statute numatytais atvejais užsienio valstybėje teisėtai esantys asmenys be pilietybės, turintys leidimą gyventi Lietuvos Respublikoje, kreipiasi dėl Lietuvos Respublikos konsuliniame statute numatytos konsulinės pagalbos suteikimo į Lietuvos Respublikos diplomatines atstovybes, kurioms pavesta atlikti konsulines funkcijas, ar į konsulines įstaigas, šiems asmenims perduodama šio straipsnio 1 dalyje nurodyta informacija.
 
-\#### 10 straipsnis. Pagalbos organizavimas ir teikimas pagalbos tarnyboje
+## 10 straipsnis. Pagalbos organizavimas ir teikimas pagalbos tarnyboje
 
 1. Pagalbos tarnyba organizuoja ir teikia pagalbą Lietuvos Respublikoje, atsižvelgdama į individualius nukentėjusio asmens poreikius ir dėl padarytos nusikalstamos veikos atsiradusius poreikius.
 
@@ -228,21 +228,21 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 9) teikia informaciją apie baudžiamajame procese kompetentingas institucijas (nurodo juridinio asmens pavadinimą, veiklos vykdymo teritorijos adresą, telefono ryšio numerį, elektroninio pašto adresą) ir jų teikiamą pagalbą.
 
-\#### 11 straipsnis. Pagalba nuo teroristinių nusikaltimų nukentėjusiems asmenims
+## 11 straipsnis. Pagalba nuo teroristinių nusikaltimų nukentėjusiems asmenims
 
 1. Šiame įstatyme numatytą pagalbą ir būtinąją medicinos pagalbą nuo teroristinių nusikaltimų nukentėję asmenys turi teisę gauti iškart po teroristinio nusikaltimo padarymo.
 
 2. Europos Sąjungos valstybėje narėje nuo teroristinio nusikaltimo nukentėjęs asmuo būdamas Lietuvos Respublikos teritorijoje turi teisę gauti informaciją apie savo teises, pagalbą ir kompensacijas, numatytas ir teikiamas Europos Sąjungos valstybėje narėje, kurioje buvo įvykdytas teroristinis nusikaltimas. Ši informacija renkama ir nuo teroristinio nusikaltimo nukentėjusiam asmeniui teikiama Lietuvos Respublikos generalinio prokuroro įsakymu nustatyta tvarka.
 
-\## IV SKYRIUS. PAGALBOS TARNYBŲ TEIKIAMOS PAGALBOS AKREDITAVIMAS IR AKREDITUOTOS PAGALBOS TEIKIMAS
+IV SKYRIUS. PAGALBOS TARNYBŲ TEIKIAMOS PAGALBOS AKREDITAVIMAS IR AKREDITUOTOS PAGALBOS TEIKIMAS
 
-\#### 12 straipsnis. Pagalbos tarnybų teikiamos pagalbos akreditavimas
+## 12 straipsnis. Pagalbos tarnybų teikiamos pagalbos akreditavimas
 
 1. Pagalbos tarnybų teikiamą pagalbą akredituoja socialinės apsaugos ir darbo ministro įgaliota įstaiga socialinės apsaugos ir darbo ministro nustatyta tvarka.
 
 2. Socialinės apsaugos ir darbo ministro įgaliota įstaiga informaciją apie veikiančias pagalbos tarnybas, teikiančias akredituotą pagalbą, skelbia savo interneto svetainėje, nurodydama pagalbos tarnybos pavadinimą, kodą, veiklos vykdymo teritorijos adresą, telefono ryšio numerį ir elektroninio pašto adresą.
 
-\#### 13 straipsnis. Teisės teikti akredituotą pagalbą suteikimas, sustabdymas, atnaujinimas ar panaikinimas
+## 13 straipsnis. Teisės teikti akredituotą pagalbą suteikimas, sustabdymas, atnaujinimas ar panaikinimas
 
 1. Teisė teikti akredituotą pagalbą gali būti suteikiama Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje arba kitoje Europos ekonominės erdvės valstybėje įsisteigusiam juridiniam asmeniui ar kitai organizacijai, jų padaliniui, kuris pageidauja teikti akredituotą pagalbą (toliau – pageidaujanti teikti akredituotą pagalbą įstaiga) ir atitinka šiuos reikalavimus:
 
@@ -282,13 +282,13 @@ Pagalbos nukentėjusiems asmenims teikimo principai:
 
 9. Šio straipsnio 8 dalyje nurodyti socialinės apsaugos ir darbo ministro įgaliotos įstaigos vadovo ar jo įgalioto asmens sprendimai gali būti skundžiami Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo ir (arba) Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\## V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 14 straipsnis. Nukentėjusių asmenų asmens duomenų tvarkymas
+## 14 straipsnis. Nukentėjusių asmenų asmens duomenų tvarkymas
 
 Nukentėjusių asmenų asmens duomenys pagalbos nukentėjusiems asmenims teikimo tikslais tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas),jų saugojimo terminai nustatomi šio įstatymo įgyvendinamuosiuose teisės aktuose.
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 15 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2021 m. kovo 1 d.
 

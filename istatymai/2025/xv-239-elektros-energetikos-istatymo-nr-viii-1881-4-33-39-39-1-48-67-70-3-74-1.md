@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e83e9ef04c2e11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E83E9EF04C2E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 4, 33, 39, 39-1, 48, 67, 70-3, 74-1 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 4, 33, 39, 391, 48, 67, 703, 741 ST
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 2 punktą ir jį išdėstyti taip:
 
 „2) elektros energijos vartojimo efektyvumo didinimo pirmumo;“.
 
-\#### 2 straipsnis. 33 straipsnio pakeitimas
+## 2 straipsnis. 33 straipsnio pakeitimas
 
 1. Pakeisti 33 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 4 straipsnio 2 punktą ir jį išdėstyti taip:
 
 „6. Taryba vykdo 10 metų perdavimo tinklų plėtros plano įgyvendinimo stebėseną ir atlieka jo vertinimą, įskaitant vertinimą, kaip perdavimo sistemos operatorius taiko energijos vartojimo efektyvumo didinimo pirmumo principą Energijos vartojimo efektyvumo didinimo įstatymo 4 straipsnyje nustatyta tvarka. Taryba, nustačiusi, kad 10 metų perdavimo tinklų plėtros planas neatitinka šiame straipsnyje nustatytų reikalavimų, teikia perdavimo sistemos operatoriui rekomendacijas dėl šio tinklų plėtros plano koregavimo ar keitimo ir nurodo protingą terminą šiems veiksmams atlikti. Perdavimo sistemos operatorius, nepateikęs 10 metų perdavimo tinklų plėtros plano per šio straipsnio 1 dalyje nustatytus terminus arba pateikęs jį nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Tarybos nurodytą terminą, laikomas pažeidusiu reguliuojamosios energetikos veiklos sąlygas.“
 
-\#### 3 straipsnis. 39 straipsnio pakeitimas
+## 3 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Vykdydamas savo veiklą ir atlikdamas jam pavestas funkcijas, skirstomųjų tinklų operatorius tvarko elektros energijos suvartojimo, gamybos ir kitus išmaniosiose apskaitos sistemose fiksuojamus asmens duomenis, vadovaudamasis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente [(ES) 2016/679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R0679&locale=lt) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva [95/46/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31995L0046&locale=lt) (Bendrajame duomenų apsaugos reglamente) (toliau – Bendrasis duomenų apsaugos reglamentas), kituose asmens duomenų apsaugos sritį reguliuojančiuose Europos Sąjungos ir nacionaliniuose teisės aktuose nustatytais reikalavimais. Nuostatos dėl asmens duomenų tvarkymo ir privatumo užtikrinimo įtvirtinamos Elektros energijos tiekimo ir naudojimo taisyklėse.“
 
-\#### 4 straipsnis. 391 straipsnio pakeitimas
+## 4 straipsnis. 391 straipsnio pakeitimas
 
 Pakeisti 39^1 straipsnį ir jį išdėstyti taip:
 
@@ -76,31 +76,31 @@ Pakeisti 39^1 straipsnį ir jį išdėstyti taip:
 
 5. Tuo atveju, kai skirstomųjų tinklų operatorius neatlieka 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano investicijų, kurios taip pat yra numatytos Vyriausybės nutarimuose, Taryba gali įpareigoti skirstomųjų tinklų operatorių pateikti derinti atitinkamas investicijas ir suderinusi investicijų projektą įpareigoti šias investicijas atlikti. Tuo atveju, kai Taryba pasinaudoja šioje dalyje nurodytais įgaliojimais, atitinkamų suderintų investicijų sąnaudos įvertinamos nustatant skirstomųjų tinklų operatoriaus paslaugos ir susijusių paslaugų kainas.“
 
-\#### 5 straipsnis. 48 straipsnio pakeitimas
+## 5 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. Išmaniųjų apskaitos sistemų diegimą organizuojantis skirstomųjų tinklų operatorius užtikrina išmaniosiomis apskaitos sistemomis surenkamų ir perduodamų duomenų saugumą ir asmens duomenų apsaugą pagal tokiems duomenims tvarkyti taikomus Bendrojo duomenų apsaugos reglamento, kitų Europos Sąjungos ir nacionalinių teisės aktų nustatytus reikalavimus ir jo parengtas asmens duomenų tvarkymo ir saugumo užtikrinimo taisykles, atsako už šių duomenų tvarkymą ir jį organizuoja taip, kad užtikrintų veiksmingą ir saugią prieigą prie duomenų ir (ar) jų mainus su asmenimis, turinčiais teisę tvarkyti atitinkamų vartotojų duomenis. Šioje dalyje nurodyti duomenys apima matavimo ir suvartojimo duomenis, taip pat duomenis, reikalingus vartotojui keičiant tiekėją, paklausos telkėją, taip pat siekiant naudotis vartojimo valdymo ir kitomis paslaugomis. Asmenys, pagal šio įstatymo nuostatas turintys teisę gauti prašomus vartotojų duomenis, juos turi gauti nediskriminacinėmis sąlygomis ir tuo pačiu metu, o atitinkamos prieigos prie tų duomenų procedūros turi būti skelbiamos viešai. Asmens duomenų tvarkymo ir saugumo užtikrinimo, duomenų saugumo pažeidimų valdymo, taip pat prieigos prie duomenų taisyklės skelbiamos skirstomųjų tinklų operatoriaus interneto svetainėje.“
 
-\#### 6 straipsnis. 67 straipsnio pakeitimas
+## 6 straipsnis. 67 straipsnio pakeitimas
 
 Pakeisti 67 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) elektros energijos vartojimo efektyvumo didinimo pirmumo principu;“.
 
-\#### 7 straipsnis. 703 straipsnio pakeitimas
+## 7 straipsnis. 703 straipsnio pakeitimas
 
 Pakeisti 70^3 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „11. Perdavimo sistemos operatorius yra Pajėgumų užtikrinimo mechanizmo registro valdytojas. Pajėgumų užtikrinimo mechanizmo registre informacija kaupiama ir tvarkoma siekiant užtikrinti skaidrų ir patikimą pajėgumų užtikrinimo mechanizmo įgyvendinimą. Pajėgumų užtikrinimo mechanizmo registrą ir jam įgyvendinti skirtas priemones bei Pajėgumų užtikrinimo registro informaciją Pajėgumų aukcionų nuostatuose bei Reglamente [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt) nustatyta tvarka ir terminais tvarko ir organizuoja perdavimo sistemos operatorius. Perdavimo sistemos operatorius asmens duomenis tvarko vadovaudamasis Bendruoju duomenų apsaugos reglamentu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais asmens duomenų tvarkymą elektros energetikos srityje.“
 
-\#### 8 straipsnis. 741 straipsnio pakeitimas
+## 8 straipsnis. 741 straipsnio pakeitimas
 
 Pakeisti 74^1 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) Energijos vartojimo efektyvumo didinimo įstatymo 13 straipsnyje nustatyta tvarka pateikia energijos vartojimo audito ataskaitą ir su energetikos ministro įgaliota institucija ar įstaiga sudaro šio straipsnio 5 dalyje nurodytą sutartį, kuria įsipareigoja pateikti energijos vartojimo audito ataskaitą ne rečiau kaip kas 4 metai po anksčiau atlikto energijos vartojimo audito, ir numato šio straipsnio 5 dalyje nurodytų energijos vartojimo efektyvumo didinimo priemonių diegimo tvarką;“.
 
-\#### 9 straipsnis. Įstatymo priedo pakeitimas
+## 9 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ priedas
 
 __________________“.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 10 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. spalio 1 d.
 

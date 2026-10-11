@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/94aa4950a26111efa605b9842742bf37"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.94AA4950A261.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, 52 straipsnių, priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas

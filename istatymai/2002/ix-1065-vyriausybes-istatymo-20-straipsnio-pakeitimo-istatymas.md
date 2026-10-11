@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CEBFC30D933E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CEBFC30D933E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 20 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(I)-1131; 2001, Nr. 66-2407)
 
-\#### 1 straipsnis. 20 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 20 straipsnio 2 dalies pakeitimas
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.58505144F1F3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.58505144F1F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 10 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 2004, Nr. [28-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED447C0D254); 2006, Nr. [87-3399](https://www.e-tar.lt/portal/lt/legalAct/TAR.52F4965DA815))
 
-\#### 1 straipsnis. 10 straipsnio 5 dalies 2 punkto pakeitimas
+## 1 straipsnis. 10 straipsnio 5 dalies 2 punkto pakeitimas
 
 Pakeisti 10 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip:
 

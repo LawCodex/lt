@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b51464a0197811e4b542dec0b12e28b0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B51464A01978.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 6, 10, 12, 12-1, 14, 15, 20, 21 ir 25 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ NR. IX-975 2, 6, 10, 12, 121, 14, 15, 20, 21 IR 25 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. **Investicinės paslaugos** – investicinės ir papildomos paslaugos, nurodytos Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 13 ir 24 dalyse.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -48,13 +48,13 @@ Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
 
 2) kai Indėlių draudimo fondo ir visų draudžiamų indėlių santykis tampa didesnis negu 4 procentai. Šiuo atveju metinė draudimo įmokos norma šio straipsnio 2 dalyje nurodytiems draudėjams neturi būti mažesnė kaip 0,001 procento.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Papildyti 10 straipsnį 7 dalimi:
 
 „7. Draudėjai atsako už draudimo įmonei pateiktų duomenų, reikalingų draudimo išmokoms apskaičiuoti, teisingumą. Asmuo, kuriam draudimo išmoka išmokėta neteisėtai arba per klaidą, privalo ją grąžinti draudimo įmonei.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Papildyti 10 straipsnį 7 dalimi:
 
 „2. Indėlininkams, dėl kurių indėlių teisėtumo kreiptasi į teisėsaugos institucijas ar teismus, tačiau sprendimas dar nepriimtas, ar investuotojams, dėl kurių pinigų ir (arba) vertybinių popierių įsigijimo teisėtumo kreiptasi į teisėsaugos institucijas ar teismus, tačiau sprendimas dar nepriimtas, draudimo išmokų mokėjimas yra sustabdomas iki sprendimo įsiteisėjimo.“
 
-\#### 5 straipsnis. 121 straipsnio pakeitimas
+## 5 straipsnis. 121 straipsnio pakeitimas
 
 Pakeisti 12^1 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 12^1 straipsnį ir jį išdėstyti taip:
 
 5. Draudimo įmonės dalyvavimas banko ar kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime šio straipsnio 2 dalies 2 punkte ar 3 dalyje nurodytu būdu prilyginamas draudimo išmokos banko ar kredito unijos indėlininkams ir investuotojams išmokėjimui, ir bankas ar kredito unija, kurių turtas, teisės ir įsipareigojimai perduodami, panaudota finansavimui suma privalo padidinti įsipareigojimus draudimo įmonei.“
 
-\#### 6 straipsnis. 14 straipsnio pakeitimas
+## 6 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 12^1 straipsnį ir jį išdėstyti taip:
 
 „2. Apie teisės priimti indėlius ar teikti investicines paslaugas atšaukimą priežiūros institucija nedelsdama privalo informuoti draudimo įmonę.“
 
-\#### 7 straipsnis. 15 straipsnio pakeitimas
+## 7 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -112,19 +112,19 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 3. Draudėjui, kuriam buvo nutrauktas draudimas pagal šio Įstatymo 14 straipsnio 3 dalį, priežiūros institucija atšaukia teisę priimti indėlius ir (arba) teisę teikti investicines paslaugas.“
 
-\#### 8 straipsnis. 20 straipsnio pakeitimas
+## 8 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio 1 dalies 12 punktą ir jį išdėstyti taip:
 
 „12) šio Įstatymo 12^1 straipsnyje nustatytais būdais ir sąlygomis dalyvauti banko ar kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime;“.
 
-\#### 9 straipsnis. 21 straipsnio pakeitimas
+## 9 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip:
 
 „10) suderinusi sudraudimo įmonėssavininko teises ir pareigas įgyvendinančia institucija,priima sprendimą šio Įstatymo 12^1 straipsnyje nustatytais būdais ir sąlygomis dalyvauti banko ar kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime;“.
 
-\#### 10 straipsnis. 25 straipsnio pakeitimas
+## 10 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 

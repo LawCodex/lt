@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/aab3fd70b25c11eba871a26c1fc3fbc1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AAB3FD70B25C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimo dėl Lietuvos Respublikos ginkluotųjų pajėgų narių ir Vokietijos Federacinės Respublikos ginkluotųjų pajėgų narių laikino buvimo kitos valstybės teritorijoje (Lietuvos ir Vokietijos susitarimo dėl ginkluotųjų pajėgų narių atvykimo) ratifikavimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS IR VOKIETIJOS FEDERACINĖS RESPUBLIKOS VY
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 4 punktu, Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2021 m. vasario 1 d. dekretą Nr. 1K-512, ratifikuoja 2020 m. birželio 30 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos ginkluotųjų pajėgų narių ir Vokietijos Federacinės Respublikos ginkluotųjų pajėgų narių laikino buvimo kitos valstybės teritorijoje (Lietuvos ir Vokietijos susitarimą dėl ginkluotųjų pajėgų narių atvykimo).
 

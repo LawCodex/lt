@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.253E6BDA7725"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.253E6BDA7725.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės "Naftos terminalas" įstatinio kapitalo mažinimo įstatymas
@@ -26,17 +26,17 @@ AKCINĖS BENDROVĖS „NAFTOS TERMINALAS“ ĮSTATINIO KAPITALO MAŽINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas nustato akcinės bendrovės „Naftos terminalas“ įstatinio kapitalo mažinimo būdą ir tvarką siekiant pakeisti šios bendrovės turto sudėtį, kad būtų panaikinti investicinėms bendrovėms būdingi požymiai.
 
 2. Šiame Įstatyme numatytam akcinės bendrovės „Naftos terminalas“ įstatinio kapitalo mažinimo atvejui netaikomi Akcinių bendrovių įstatymo 54 straipsnio 1, 6, 8, 10 ir 14 dalių reikalavimai. Kiti Lietuvos Respublikos įstatymai mažinant akcinės bendrovės „Naftos terminalas“ įstatinį kapitalą taikomi tiek, kiek šis Įstatymas nenustato kitaip.
 
-\#### 2 straipsnis. Įstatinio kapitalo mažinimo būdas
+## 2 straipsnis. Įstatinio kapitalo mažinimo būdas
 
 Akcinei bendrovei „Naftos terminalas“ nuosavybės teise priklausančios akcinės bendrovės „Klaipėdos nafta“ akcijos perduodamos akcinės bendrovės „Naftos terminalas“ akcininkams proporcingai jiems priklausančių šios bendrovės akcijų skaičiui, anuliuojant akcinės bendrovės „Naftos terminalas“ atitinkamą akcijų skaičių bei anuliuojamų akcijų nominalia verte sumažinant akcinės bendrovės „Naftos terminalas“ įstatinį kapitalą.
 
-\#### 3 straipsnis. Įstatinio kapitalo mažinimo tvarka
+## 3 straipsnis. Įstatinio kapitalo mažinimo tvarka
 
 1. Akcinės bendrovės „Naftos terminalas“ visuotinis akcininkų susirinkimas ne mažiau kaip 2/3 balsų dauguma gali priimti nutarimą mažinti bendrovės įstatinį kapitalą.
 

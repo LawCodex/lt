@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3BB569205A8E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3BB569205A8E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 72 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2005, Nr. [84-3109](https://www.e-tar.lt/portal/lt/legalAct/TAR.63035C474AB7); 2008, Nr. [71-2706](https://www.e-tar.lt/portal/lt/legalAct/TAR.59CD814E8A9B); 2009, Nr. [154-6945](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F036B79E1F2))
 
-\#### 1 straipsnis. 72 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 72 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 72 straipsnio 1 dalį 10 punktu:
 
@@ -46,7 +46,7 @@ Vilnius
 
 6. Buvusias 72 straipsnio 24 ir 25 dalis laikyti atitinkamai 25 ir 26 dalimis.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
 

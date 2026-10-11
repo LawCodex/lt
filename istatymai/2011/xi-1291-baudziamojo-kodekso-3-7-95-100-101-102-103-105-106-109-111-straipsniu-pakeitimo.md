@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.32D852C5EE57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.32D852C5EE57.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 straipsnių pakeitimo ir papildymo, 104 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 113-1 straipsniu įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2003, Nr. [38-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.975256606460); 2004, Nr. [108-4030](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B06DA349A94); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC); 2008, Nr. [15-516](https://www.e-tar.lt/portal/lt/legalAct/TAR.40349121F8BD); 2010, Nr. [75-3792](https://www.e-tar.lt/portal/lt/legalAct/TAR.9039A758A526), Nr. [145-7439](https://www.e-tar.lt/portal/lt/legalAct/TAR.3999918E0656))
 
-\#### 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 3 dalies pakeitimas
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą (99 straipsnis), tarptautinės teisės draudžiamą elgesį su žmonėmis (100 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymą (101 straipsnis), civilių trėmimą ar perkėlimą (102 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais ar jų turto apsaugos pažeidimą (103 straipsnis), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose (105 straipsnis), saugomų objektų naikinimą ar nacionalinių vertybių grobstymą (106 straipsnis), agresiją (110 straipsnis), draudžiamą karo ataką (111 straipsnis), uždraustų karo priemonių naudojimą (112 straipsnis), aplaidų vado pareigų vykdymą (113^1 straipsnis).“
 
-\#### 2 straipsnis. 7 straipsnio 1 punkto pakeitimas
+## 2 straipsnis. 7 straipsnio 1 punkto pakeitimas
 
 Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) nusikaltimus žmoniškumui ir karo nusikaltimus (99–113^1 straipsniai);“.
 
-\#### 3 straipsnis. 95 straipsnio 8 dalies pakeitimas
+## 3 straipsnis. 95 straipsnio 8 dalies pakeitimas
 
 Pakeisti 95 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 95 straipsnio 8 dalį ir ją išdėstyti taip:
 
 11) aplaidžiam vado pareigų vykdymui (1131 straipsnis).“
 
-\#### 4 straipsnis. 100 straipsnio pakeitimas
+## 4 straipsnis. 100 straipsnio pakeitimas
 
 Pakeisti 100 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Tas, kas tyčia, vykdydamas ar remdamas valstybės ar organizacijos politiką di
 
 baudžiamas laisvės atėmimu nuo penkerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.“
 
-\#### 5 straipsnis. 101 straipsnio pakeitimas
+## 5 straipsnis. 101 straipsnio pakeitimas
 
 Pakeisti 101 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Tas, kas karo, ginkluoto konflikto, agresijos, okupacijos ar aneksijos metu įsa
 
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.“
 
-\#### 6 straipsnis. 102 straipsnio pakeitimas
+## 6 straipsnis. 102 straipsnio pakeitimas
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Tas, kas karo, ginkluoto konflikto metu arba agresijos, okupacijos ar aneksijos 
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.“
 
-\#### 7 straipsnis. 103 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 103 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 103 straipsnį ir jį išdėstyti taip:
 
@@ -106,11 +106,11 @@ baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
 
 2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką panaudodamas apgaulę, baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.“
 
-\#### 8 straipsnis. 104 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 104 straipsnio pripažinimas netekusiu galios
 
 104 straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 105 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 105 straipsnio 1 dalies pakeitimas
 
 Pakeisti 105 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 105 straipsnio 1 dalį ir ją išdėstyti taip:
 
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.“
 
-\#### 10 straipsnis. 106 straipsnio pakeitimas
+## 10 straipsnis. 106 straipsnio pakeitimas
 
 Pakeisti 106 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Tas, kas davė karo būtinumu nepateisinamą įsakymą naikinti arba naikino tar
 
 baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.“
 
-\#### 11 straipsnis. 109 straipsnio pakeitimas
+## 11 straipsnis. 109 straipsnio pakeitimas
 
 Pakeisti 109 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Tas, kas ginkluoto konflikto metu neteisėtai panaudojo Raudonojo Kryžiaus, Rau
 
 baudžiamas laisvės atėmimu iki trejų metų arba bauda.“
 
-\#### 12 straipsnis. 111 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 111 straipsnio 1 dalies pakeitimas
 
 Pakeisti 111 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -146,7 +146,7 @@ Pakeisti 111 straipsnio 1 dalį ir ją išdėstyti taip:
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.“
 
-\#### 13 straipsnis. Kodekso papildymas 1131 straipsniu
+## 13 straipsnis. Kodekso papildymas 1131 straipsniu
 
 Papildyti Kodeksą 113^1 straipsniu:
 

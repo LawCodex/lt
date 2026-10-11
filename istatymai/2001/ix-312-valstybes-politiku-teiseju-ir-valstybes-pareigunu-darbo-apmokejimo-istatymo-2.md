@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DFBFF8F125ED"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DFBFF8F125ED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir įstatymo priedėlio IV skirsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [75-2271](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0), Nr. [92-2887](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A6EBC94FA78))
 
-\#### 1 straipsnis. 2 straipsnio 3 dalies 4 punkto pripažinimas netekusiu galios ir 9 punkto pakeitimas
+## 1 straipsnis. 2 straipsnio 3 dalies 4 punkto pripažinimas netekusiu galios ir 9 punkto pakeitimas
 
 1. 2 straipsnio 3 dalies 4 punktą pripažinti netekusiu galios, buvusius 5, 6, 7, 8, 9 ir 10 punktus laikyti atitinkamai 4, 5, 6, 7, 8 ir 9 punktais.
 
@@ -36,7 +36,7 @@ Vilnius
 
 „8) Seimo ar Respublikos Prezidento paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto**,** vadovams bei pareigūnams;“.
 
-\#### 2 straipsnis. Įstatymo priedėlio IV skirsnio pakeitimas ir papildymas
+## 2 straipsnis. Įstatymo priedėlio IV skirsnio pakeitimas ir papildymas
 
 1. Įstatymo priedėlio IV skirsnio „Valstybės pareigūnų pareiginės algos“ 3 punktą pripažinti netekusiu galios, buvusius 4, 5, 6, 7, 8, 9 ir 10 punktus laikyti atitinkamai 3, 4, 5, 6, 7, 8 ir 9 punktais.
 

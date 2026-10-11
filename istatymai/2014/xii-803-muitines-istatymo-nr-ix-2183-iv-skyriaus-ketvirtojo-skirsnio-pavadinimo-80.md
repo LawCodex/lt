@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/234d22e0bb3711e38766a859941f6073"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.234D22E0BB37.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 IV skyriaus ketvirtojo skirsnio pavadinimo, 80 straipsnio ir priedo pakeitimo, Įstatymo papildymo 40-1 straipsniu ir 81, 82, 83, 84, 85, 86, 87, 104 straipsnių pripažinimo netekusiais galios

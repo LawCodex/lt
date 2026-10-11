@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.944A7A6A07C3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.944A7A6A07C3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [134-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.3225C2892463), Nr. [149-6014](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5CBD04F5C9A))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 „Komisija turi teisę skirti antrojo laipsnio valstybinę pensiją savivaldybių administracijų teikimu šio įstatymo 4 straipsnio trečiosios dalies 1 punkte nurodytoms motinoms (toliau šiame straipsnyje – daugiavaikė motina), netaikydama šio įstatymo 5 straipsnio trečiojoje dalyje nurodytų apribojimų. Komisija taip pat turi teisę priimti sprendimą skirti nuo 2005 m. sausio 1 d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai, jeigu daugiavaikė motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo sąlygas ir jeigu komisija gavo savivaldybės administracijos teikimą su visais būtinais nurodytai pensijai skirti dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių motinų pagimdytų (įvaikintų) ir išaugintų vaikų gero išauklėjimo bei pačių motinų elgesio vertinimo kriterijų ir sąlygų teisei į antrojo laipsnio valstybinę pensiją nustatyti aprašą tvirtina Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių administracijos, teikdamos pasiūlymus dėl antrojo laipsnio valstybinių pensijų skyrimo daugiavaikėms motinoms, taip pat Komisija, priimdama sprendimus dėl šių motinų teisės gauti antrojo laipsnio valstybinę pensiją. Savivaldybių administracijos, kurių teikimu šios pensijos buvo paskirtos motinoms, neatitinkančioms antrojo laipsnio valstybinių pensijų skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti Lietuvos Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos mokėjimo nutraukimo.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 

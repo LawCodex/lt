@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.705A8D895FAD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.705A8D895FAD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 6 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [52-1484](https://www.e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D))
 
-\#### 1 straipsnis. 6 straipsnio 2 dalies 1 ir 2 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 2 dalies 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2) politiniai kaliniai, tremtiniai, rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės dokumento bei vizos išdavimą ir pratęsimą;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

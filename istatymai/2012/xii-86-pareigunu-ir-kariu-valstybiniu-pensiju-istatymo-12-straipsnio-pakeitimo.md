@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.80D8DE168D17"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.80D8DE168D17.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 12 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2005, Nr. [71-2558](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C); 2007, Nr. [8-314](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AFBD8793C7C))
 
-\#### 1 straipsnis. 12 straipsnio 1 ir 6 dalių pakeitimas
+## 1 straipsnis. 12 straipsnio 1 ir 6 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „6. Jei pareiškėjas nesutinka su šio straipsnio 1 dalyje nurodytos institucijos sprendimu, jis turi teisę šį sprendimą apskųsti šios institucijos vadovui, o jei nesutinkama ir su vadovo sprendimu, ginčas sprendžiamas teisme. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimai pensijų mokėjimo klausimais gali būti skundžiami Valstybinio socialinio draudimo fondo valdybai Valstybinio socialinio draudimo įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
 

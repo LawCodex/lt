@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1379E1A26C7B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1379E1A26C7B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 13 ir 26 straipsnių papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB); 2004, Nr. [73-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A69FC3C021A))
 
-\#### 1 straipsnis. 13 straipsnio 3 dalies papildymas
+## 1 straipsnis. 13 straipsnio 3 dalies papildymas
 
 Papildyti 13 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Ilgalaikis turtas – tai turtas, kuris naudojamas vieneto pajamoms uždirbti (ekonominei naudai gauti) ilgiau kaip vienerius metus ir kurio įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje išvardytas ilgalaikio turto grupes nustatytą kainą. Šio turto įsigijimo kaina į vieneto sąnaudas įskaitoma dalimis per turto nusidėvėjimo arba amortizacijos laikotarpį. Vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių narių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais, arba fizinių asmenų, pagal su šiuo vienetu sudarytą sutartį įsipareigojusių jame dirbti po mokymo pabaigos, mokymą, kurį baigę jie įgyja aukštesnįjį arba aukštąjį išsilavinimą ir (arba) kvalifikaciją, po šių fizinių asmenų išsilavinimo ir (arba) kvalifikacijos įgijimo gali būti priskiriamos ilgalaikiam nematerialiajam turtui.“
 
-\#### 2 straipsnis. 26 straipsnio 1 dalies papildymas ir pakeitimas
+## 2 straipsnis. 26 straipsnio 1 dalies papildymas ir pakeitimas
 
 Papildyti 26 straipsnio 1 dalį nauju 3 punktu, buvusį 3 punktą laikyti 4 punktu ir visą dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Papildyti 26 straipsnio 1 dalį nauju 3 punktu, buvusį 3 punktą laikyti 4 punk
 
 4) įmokų suma apskaičiuojama ir neviršija 25 procentų per mokestinį laikotarpį kiekvienam iš šių vieneto darbuotojų apskaičiuotų su darbo santykiais susijusių pajamų.“
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 

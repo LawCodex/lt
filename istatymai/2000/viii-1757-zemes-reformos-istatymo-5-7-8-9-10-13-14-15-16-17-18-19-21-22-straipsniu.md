@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AE90D023124C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AE90D023124C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 5, 7, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1997, Nr. [69-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE))
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -44,19 +44,19 @@ Vykdant žemės reformą, žemės įsigijimo nuosavybėn būdai yra:
 
 4) civiliniai piliečių sandoriai dėl žemės.“
 
-\#### 2 straipsnis. 7 straipsnio papildymas
+## 2 straipsnis. 7 straipsnio papildymas
 
 7 straipsnį papildyti 4 punktu:
 
 „4) činšo teise naudojantiems žemę miestuose.“
 
-\#### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 8 straipsnio 1 dalyje po žodžio „Piliečiams“ įrašyti žodžius „žemės reformos metu“, išbraukti žodžius „žemės ūkio paskirties“ ir „kaimo vietovėje“ ir šią dalį išdėstyti taip:
 
 „1. Piliečiams žemės reformos metu žemė, miškas ir vandens telkiniai parduodami laikantis šio įstatymo 10 straipsnyje nurodytos eilės ir pagal žemės reformos žemėtvarkos projektus. Piliečiai, pirkdami iš valstybės žemę, gali įsigyti ją iš karto arba išsimokėtinai, bet ne ilgiau kaip per 10 metų laikotarpį Vyriausybės nustatyta tvarka.“
 
-\#### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas 8, 9 dalimis
+## 4 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas 8, 9 dalimis
 
 1. Iš 9 straipsnio 1 dalies išbraukti žodžius „žemės ūkio veiklai“ ir šią dalį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vykdant žemės reformą, žemės įsigijimo nuosavybėn būdai yra:
 
 9. Ne žemės ūkio paskirties žemės sklypai parduodami pagal Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinį įstatymą.“
 
-\#### 5 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas
+## 5 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 10 straipsnio 1 dalį:
 
@@ -102,7 +102,7 @@ Pakeisti ir papildyti 10 straipsnio 1 dalį:
 
 „12) parduodama žemė, miškas ar vandens telkiniai kitiems piliečiams.“
 
-\#### 6 straipsnis. 13 straipsnio papildymas
+## 6 straipsnis. 13 straipsnio papildymas
 
 1. 13 straipsnio 3 punkte po žodžių „veislininkystės ūkiams“ įrašyti žodžius „ir specialios paskirties veislininkystės bendrovėms“, papildyti 10 ir 11 punktais ir šiuos punktus išdėstyti taip:
 
@@ -112,17 +112,17 @@ Pakeisti ir papildyti 10 straipsnio 1 dalį:
 
 11) yra valstybinės reikšmės vandens telkiniuose esančios salos (išskyrus natūra grąžinamas salas).“
 
-\#### 7 straipsnis. 14 straipsnio pakeitimas
+## 7 straipsnis. 14 straipsnio pakeitimas
 
 14 straipsnio 4 punktą pripažinti netekusiu galios, 5 ir 6 punktus laikyti 4 ir 5 punktais.
 
-\#### 8 straipsnis. 15 straipsnio 4 dalies pakeitimas ir papildymas
+## 8 straipsnis. 15 straipsnio 4 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Į susigrąžinamos žemės plotą įskaitomas tokio pat dydžio žemės sklypas, nustatyta tvarka skirtas piliečio asmeniniam ūkiui, išskyrus atvejus, kai grąžintina žemė yra toje kadastrinėje vietovėje, kurioje yra naudojama asmeninio ūkio žemė ir naudojamas namų valdos žemės sklypas. Piliečių, kuriems sugrąžinta žemė arba kurie turi teisę susigrąžinti didesnį kaip 3 ha žemės ūkio naudmenų plotą toje kadastrinėje vietovėje, kurioje yra jų naudojama asmeninio ūkio žemė, naudojamasasmeninio ūkio žemės sklypas gali būti mažinamas iki apskrities viršininko sprendimu nustatyto dydžio ir įskaitomas į jiems sugrąžinamos žemės plotą.“
 
-\#### 9 straipsnis. 16 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 9 straipsnis. 16 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „2. Žemės reformos žemėtvarkos projektų rengimui ir žemės privatizavimo darbams kaimo vietovėse ir miestuose metodiškai vadovauja ir juos kontroliuoja Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos. Žemės reformos žemėtvarkos projektų sudarymo techninių instrukcijų, normatyvų ir standartų parengimą, projektų autorių aprūpinimą žemėtvarkos, dirvožemių bei kitų tyrinėjimų kartografine ir geodezine medžiaga, taip pat žemės reformos informacijos kaupimą organizuoja Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos.“
 
-\#### 10 straipsnis. 17 straipsnio 1, 2 dalių pakeitimas ir papildymas
+## 10 straipsnis. 17 straipsnio 1, 2 dalių pakeitimas ir papildymas
 
 1. Iš 17 straipsnio 1 dalies išbraukti antrąjį sakinį ir šią dalį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „2. Piliečių prašymus susigrąžinti nuosavybėn, perduoti nuosavybėn neatlygintinai, parduoti ar kaimo vietovėje išnuomoti žemę, mišką bei vandens telkinius nagrinėja ir sprendimus priima apskričių viršininkai.“
 
-\#### 11 straipsnis. 18 straipsnio 2 ir 3 dalių pakeitimas
+## 11 straipsnis. 18 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 18 straipsnio 2 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerija“ įrašyti žodžius „Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos“ ir šią dalį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3. Jeigu institucijos, atliekančios žemės reformos kontrolę, nustato, kad sprendimai dėl nuosavybės teisių į žemę atkūrimo ar žemės įsigijimo priimti pažeidžiant įstatymų nustatytą tvarką ir jei dėl to neiškyla ginčų, sprendimą patikslina apskrities viršininkas, o jei kyla ginčų, sprendimą priėmusios ar žemės reformą kontroliuojančios institucijos privalo inicijuoti priimto sprendimo panaikinimą teismine tvarka.“
 
-\#### 12 straipsnis. 19 straipsnio 1 ir 3 dalių pakeitimas
+## 12 straipsnis. 19 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 19 straipsnio 1 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerijos“ įrašyti žodžius „Žemėtvarkos ir teisės departamento prie Žemės ūkio ministerijos“ ir šią dalį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3. Žemės sklypų, įsigytų bendrosios nuosavybės teise, padalinimo projektai rengiami šios žemės savininkų lėšomis Žemėtvarkos ir teisės departamento prie Žemės ūkio ministerijos nustatyta tvarka.“
 
-\#### 13 straipsnis. 21 straipsnio pakeitimas
+## 13 straipsnis. 21 straipsnio pakeitimas
 
 21 straipsnio 1 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerijos“ įrašyti žodžius „Žemėtvarkos ir teisės departamento prie Žemės ūkio ministerijos“, 2 dalį pripažinti netekusia galios, 3 dalį laikyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 2. Žemės savininkams ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami Vyriausybės nustatyta tvarka.“
 
-\#### 14 straipsnis. 22 straipsnio pakeitimas
+## 14 straipsnis. 22 straipsnio pakeitimas
 
 22 straipsnyje vietoj žodžių „Miestų (rajonų) savivaldybės“ įrašyti žodžius „Savivaldos institucijos“, vietoj datos „1999 m. sausio 1 d.“ įrašyti datą „2001 m. sausio 1 d.“ ir žodį „savo“, išbraukti žodžius „ir Vyriausybės nustatyta tvarka šias teritorijas įrengia“ ir šį straipsnį išdėstyti taip:
 

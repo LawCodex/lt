@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DD4210F04EF8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DD4210F04EF8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su Europos Tarybos Ministrų Komiteto priimtomis pataisomis ratifikavimo
@@ -26,11 +26,11 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą Nr. 989, ratifikuoja 1981 m. sausio 28 d. Strasbūre sudarytą Konvenciją dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su pataisomis, priimtomis Europos Tarybos Ministrų Komiteto 1999 m. birželio 15 d. Strasbūre.
 
-\#### 2 straipsnis. Konvencijos įgyvendinimas
+## 2 straipsnis. Konvencijos įgyvendinimas
 
 Vadovaudamasi Konvencijos 13 straipsnio 2 dalies a punktu, Lietuvos Respublikos Vyriausybė paskiria instituciją šios Konvencijos nuostatoms įgyvendinti.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AE899A1672BE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AE899A1672BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutarties dėl bendro karinio dalinio sudarymo tarptautiniam saugumui ir taikai palaikyti bei atkurti denonsavimo
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS IR LENKIJ
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties denonsavimas
+## 1 straipsnis. Sutarties denonsavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. lapkričio 21 d. dekretą Nr. 1K-1166, denonsuoja 1997 m. birželio 25 d. Trakuose pasirašytą Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendro karinio dalinio sudarymo tarptautiniam saugumui ir taikai palaikyti bei atkurti, ratifikuotą Lietuvos Respublikos 1997 m. lapkričio 4 d. įstatymu Nr. VIII-488 (Žin., 1997, Nr. [106-2664](https://www.e-tar.lt/portal/lt/legalAct/TAR.6D21997E4B3C)).
 

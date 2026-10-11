@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CC7741E6C38E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CC7741E6C38E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 201 ir 212 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2003, Nr. [38-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.975256606460), Nr. [74-3423](https://www.e-tar.lt/portal/lt/legalAct/TAR.815C9CA36EBE); 2004, Nr. [108-4030](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B06DA349A94); 2005, Nr. [81-2945](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC5B5908CC19))
 
-\#### 1 straipsnis. 201 straipsnio pakeitimas
+## 1 straipsnis. 201 straipsnio pakeitimas
 
 Pakeisti 201 straipsnį ir jį išdėstyti taip:
 
@@ -42,13 +42,13 @@ baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.“
 
-\#### 2 straipsnis. 212 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 212 straipsnio 3 dalies pakeitimas
 
 212 straipsnio 3 dalyje vietoj žodžių „namų gamybos“ įrašyti žodį „naminiai“ ir šią dalį išdėstyti taip:
 
 „3. Šio skyriaus 201 straipsnyje nurodyti naminiaistiprūs alkoholiniai gėrimai yra alkoholiniai gėrimai, kurių tūrinė etilo alkoholio koncentracija viršija 18 procentų.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B35D7BD62EA9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B35D7BD62EA9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2, 13, 22, 23 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [92-2883](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB); 2007, Nr. [128-5213](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D97CD7E1857); 2010, Nr. [48-2308](https://www.e-tar.lt/portal/lt/legalAct/TAR.05152F74457E), Nr. [75-3791](https://www.e-tar.lt/portal/lt/legalAct/TAR.2A38153C928F); 2011, Nr. [156-7389](https://www.e-tar.lt/portal/lt/legalAct/TAR.C66BB9C3A574))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -74,13 +74,13 @@ Vilnius
 
 „67.**Vairuotojo pažymėjimas**– teisės aktų nustatyta tvarka išduodamasdokumentas, kuriuo patvirtinama asmens teisė vairuoti tam tikros kategorijos motorinę transporto priemonę (priemones) ir nurodomos vairavimo sąlygos.“
 
-\#### 2 straipsnis. 13 straipsnio 5 dalies pakeitimas
+## 2 straipsnis. 13 straipsnio 5 dalies pakeitimas
 
 Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir policijos, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos ar muitinės pareigūno reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų bei KET nustatytus dokumentus, taip pat leisti jiems patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. Lietuvos Respublikoje išduoto vairuotojo pažymėjimo nereikia turėti asmenims, turintiems Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos asociacijos šalyse išduotus galiojančius vairuotojo pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai galioja, jei asmuo nėra nuolatinis Lietuvos Respublikos gyventojas. Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jei jų turėtojai nėra sukakę šio įstatymo nustatyto amžiaus arba jei vairuotojo pažymėjimai buvo išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie nustatyta tvarka nesusigrąžino teisės vairuoti po to, kai ji buvo atimta. Be to, nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas atimtas jį išdavusioje valstybėje.“
 
-\#### 3 straipsnis. 22 straipsnio 1 ir 3 dalių pakeitimas
+## 3 straipsnis. 22 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones patvirtina įrašas Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ir valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat policijos įstaigų išduoti vairuotojo pažymėjimai ir šio įstatymo 13 straipsnio 5 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai.“
 
-\#### 4 straipsnis. 23 straipsnio pakeitimas
+## 4 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 2) teisė vairuoti BE, C1E, CE, D1E ir DE kategorijų transporto priemones suteikiama tik vairuotojams, jau turintiems teisę vairuoti atitinkamai B, C1, C, D1 ir D kategorijų transporto priemones.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 1 ir 4 straipsnius ir šio straipsnio 3 dalį, įsigalioja 2012 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.06FE63BF5A3F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.06FE63BF5A3F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 18 ir 20 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB))
 
-\#### 1 straipsnis. 18 straipsnio 11 dalies pakeitimas
+## 1 straipsnis. 18 straipsnio 11 dalies pakeitimas
 
 Pakeisti 18 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „11. Vienetai, atlikę ilgalaikio turto rekonstravimą ar remontą, kuris pailgino turto naudingo tarnavimo laiką arba pagerino jo naudingąsias savybes, pakeitę jo naudojimo paskirtį, įsigiję kitą to paties ilgalaikio turto dalį, arba vietos mokesčio administratoriaus sutikimu dėl objektyvių aplinkybių gali tikslinti ilgalaikio turto nusidėvėjimo arba amortizacijos normatyvus.“
 
-\#### 2 straipsnis. 20 straipsnio 1 ir 3 dalių pakeitimas
+## 2 straipsnis. 20 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 18 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „3. Pagal nuomos sutartį, kurioje nenumatytas nuosavybės teisės perėjimas pirkėjui visiškai apmokėjus turto vertę, arba pagal panaudos sutartį turimo ilgalaikio materialiojo turto rekonstravimo arba remonto, kuris pailgina turto naudingo tarnavimo laiką arba pagerina jo naudingąsias savybes, sąnaudos atskaitomos iš nuomininko ar panaudos gavėjo pajamų lygiomis dalimis per nuomos arba panaudos laikotarpį pradedant nuo kito mėnesio, po darbų užbaigimo, o tais atvejais, kai sudaryta neterminuota sutartis, – per Įstatymo 1 priedėlyje atitinkamoms turto grupėms nustatytą laikotarpį, bet ne trumpesnį kaip 3 metai. Jeigu nuomos arba panaudos sutartis nutraukiama prieš terminą, likusi remonto arba rekonstravimo sąnaudų dalis, kuri dar nebuvo įtraukta į leidžiamus atskaitymus, negali būti atskaitoma iš nuomininko ar panaudos gavėjo pajamų. Jei atliktas išsinuomoto arba pagal panaudos sutartį naudojamo ilgalaikio materialiojo turto rekonstravimas arba remontas, kuris pailgina turto naudingo tarnavimo laiką arba pagerina jo naudingąsias savybes, tai nuomotojas ar panaudos davėjas didina šio remonto arba rekonstravimo darbų verte ilgalaikio materialiojo turto įsigijimo kainą tuo mokestiniu laikotarpiu, kuriuo remontas arba rekonstravimas buvo iki galo atliktas, ir apmokestina šio Įstatymo nustatyta tvarka.“
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant pelno mokestį už 2004 metų ir vėlesnių metų mokestinius laikotarpius.
 

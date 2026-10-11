@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2d706080b34d11e3ad2eed5a4e1b7108"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2D706080B34D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 9, 154, 186, 280, 283 straipsnių ir  priedo pakeitimo
@@ -26,13 +26,13 @@ BAUDŽIAMOJO PROCESO KODEKSO 9, 154, 186, 280, 283 STRAIPSNIŲ IR PRIEDO PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Be šio straipsnio 1 dalyje nurodytų atvejų, leidžiama neviešai nagrinėti teisme bylas dėl nusikalstamų veikų, kuriomis kaltinami arba dėl kurių yra pripažinti nukentėjusiaisiaisjaunesni kaip aštuoniolikos metų asmenys, nusikaltimų ir baudžiamųjų nusižengimų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui bylas, taip pat kitas bylas, kai siekiama užkirsti kelią paskelbti žinias apie privatų proceso dalyvių gyvenimą arba kai apklausiamas liudytojas ar nukentėjusysis, kuriems taikomas anonimiškumas.“
 
-\#### 2 straipsnis. 154 straipsnio pakeitimas
+## 2 straipsnis. 154 straipsnio pakeitimas
 
 1. Pakeisti 154 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 1 dalyje nustatyta tvarka gali būti kontroliuojama ir fiksuojama elektroninių ryšių tinklais perduodama informacija, išskyrus jos turinį, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 166, 198^1 straipsniuose, 309 straipsnio 1 dalyje.“
 
-\#### 3 straipsnis. 186 straipsnio pakeitimas
+## 3 straipsnis. 186 straipsnio pakeitimas
 
 Pakeisti 186 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -52,19 +52,19 @@ Pakeisti 186 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Jaunesnio kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apsaugos interesais ikiteisminio tyrimo teisėjo nutartimi įtariamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būtipatalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o įtariamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos bei per ikiteisminio tyrimo teisėją užduoti apklausiamam asmeniui klausimus. Jei neįmanoma įtariamajam ir kitiems proceso dalyviams sudaryti sąlygų stebėti ir girdėti apklausą iš kitos patalpos, apklausa atliekama įtariamajam ir kitiems proceso dalyviams nedalyvaujant. Tokios apklausos metu padarytas garso ir vaizdo įrašas tuoj po apklausos parodomas įtariamajam ir kitiems proceso dalyviams, kurie per ikiteisminio tyrimo teisėją turi teisę užduoti apklausiamam asmeniui klausimus.“
 
-\#### 4 straipsnis. 280 straipsnio pakeitimas
+## 4 straipsnis. 280 straipsnio pakeitimas
 
 Pakeisti 280 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jei jaunesniam kaip aštuoniolikos metų liudytojui dėl apklausos teisme gali būti psichinė trauma ar kitokių sunkių pasekmių, į teisiamąjį posėdį šis liudytojas nešaukiamas, o teisme balsu perskaitomi jo parodymai, duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas ikiteisminio tyrimo metu padarytas vaizdo ir garso įrašas. Jei jaunesnis kaip aštuoniolikos metų liudytojas šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.“
 
-\#### 5 straipsnis. 283 straipsnio pakeitimas
+## 5 straipsnis. 283 straipsnio pakeitimas
 
 Pakeisti 283 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jaunesnio kaip aštuoniolikos metų nukentėjusiojo apklausoje turi dalyvauti jo atstovas. Tokio amžiaus nukentėjusysis ir jo atstovas teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką. Jei jaunesniam kaip aštuoniolikos metų nukentėjusiajam dėl apklausos teisme gali būti psichinė trauma ar kitokių sunkių pasekmių, nukentėjusysis teisiamajame posėdyje gali būti neapklausiamas. Šiuo atveju teisme turi būti balsu perskaitomi parodymai, nukentėjusiojo duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas ikiteisminio tyrimo metu padarytas garso ir vaizdo įrašas. Jei jaunesnis kaip aštuoniolikos metų nukentėjusysis šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.“
 
-\#### 6 straipsnis. Kodekso priedo pakeitimas
+## 6 straipsnis. Kodekso priedo pakeitimas
 
 Papildyti Kodekso priedą 10 punktu:
 

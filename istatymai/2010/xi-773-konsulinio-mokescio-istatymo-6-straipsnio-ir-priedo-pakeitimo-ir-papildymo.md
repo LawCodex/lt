@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FE6BE0E1E629"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FE6BE0E1E629.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konsulinio mokesčio įstatymo 6 straipsnio ir priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [51-951](https://www.e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794); 2007, Nr. [114-4631](https://www.e-tar.lt/portal/lt/legalAct/TAR.968C87488824); 2009, Nr. [141-6191](https://www.e-tar.lt/portal/lt/legalAct/TAR.6391879260CB))
 
-\#### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas
 
 1. 6 straipsnio 1 dalies 8 punkte po žodžio „išduoti“ įrašyti žodį „nacionalines“ ir šį punktą išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „25) prašymų išduoti Šengeno vizas užsieniečiams, jaunesniems negu 25 metų, dalyvaujantiems seminaruose, konferencijose, sporto, kultūriniuose ar švietimo renginiuose, kuriuos organizuoja pelno nesiekiančios organizacijos, nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame Bendrijos vizų kodeksą (Vizų kodeksas), yra priėmusios sprendimą neimti konsulinio mokesčio.“
 
-\#### 2 straipsnis. Įstatymo priedo 3 punkto pakeitimas
+## 2 straipsnis. Įstatymo priedo 3 punkto pakeitimas
 
 Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 

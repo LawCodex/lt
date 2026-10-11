@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.595A46179180"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.595A46179180.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 2, 5, 6 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [60-1398](https://www.e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB), Nr. [108-2732](https://www.e-tar.lt/portal/lt/legalAct/TAR.8DDF2DDB0575); 1998, Nr. [9-199](https://www.e-tar.lt/portal/lt/legalAct/TAR.3AD77F2EB4DE); 2003, Nr. [38-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.9BA65B99577E); 2007, Nr. [68-2653](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3FFA6926B54))
 
-\#### 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 2 straipsnio 1 dalyje vietoj žodžių „tarpžinybinė valstybės institucija“ įrašyti žodžius „valstybės įstaiga“ ir šią dalį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „2. Centras turi teisę iš institucijų atstovų sudaryti darbo grupes programoms vykdyti.“
 
-\#### 2 straipsnis. 5 straipsnio 5, 9, 12, 13 ir 20 punktų pakeitimas
+## 2 straipsnis. 5 straipsnio 5, 9, 12, 13 ir 20 punktų pakeitimas
 
 1. 5 straipsnio 5 punkte vietoj žodžių „politinių kalinių, tremtinių ir nukentėjusiųjų“ įrašyti žodžius „ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų“ ir šį punktą išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „20) inicijuoja, rengia ar dalyvauja rengiant įstatymų bei kitų okupacijos padarinių teisinio įvertinimo dokumentų projektus (dėl pasipriešinimo dalyvių (rezistentų), asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso, socialinės rūpybos, atsakomybės už genocidą ir kt. klausimais) bei kontroliuoja jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinį statusą; įstatymų nustatyta tvarka išduoda nustatytos formos pažymėjimus ir tvarko jų apskaitą;“.
 
-\#### 3 straipsnis. Įstatymo trečiojo skirsnio pavadinimo pakeitimas
+## 3 straipsnis. Įstatymo trečiojo skirsnio pavadinimo pakeitimas
 
 Įstatymo trečiojo skirsnio pavadinime išbraukti žodžius „ir darbuotojai“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 CENTRO STRUKTŪRA“.
 
-\#### 4 straipsnis. 6 straipsnio pavadinimo, 1 dalies 3 punkto ir 3, 5, 9 dalių pakeitimas
+## 4 straipsnis. 6 straipsnio pavadinimo, 1 dalies 3 punkto ir 3, 5, 9 dalių pakeitimas
 
 1. 6 straipsnio pavadinime išbraukti žodžius „ir darbuotojai“ ir straipsnio pavadinimą išdėstyti taip:
 

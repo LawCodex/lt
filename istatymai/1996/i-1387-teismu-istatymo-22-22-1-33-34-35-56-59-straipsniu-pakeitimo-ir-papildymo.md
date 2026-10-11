@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBE3241186F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0FBE3241186F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 22, 22(1), 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52), Nr. [89-1709](https://www.e-tar.lt/portal/lt/legalAct/TAR.6F5F36EA929B), Nr. [96-1880](https://www.e-tar.lt/portal/lt/legalAct/TAR.645BD10A1B7B); 1995, Nr. [17-386](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB4A2F9114AD))
 
-\#### 1 straipsnis. 22 straipsnio pakeitimas
+## 1 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Apylinkės teismo teisėju gali būti skiriamas ne jaunesnis kaip 25 metų nepri
 
 Apylinkės teismo teisėju taip pat gali būti skiriamas ne jaunesnis kaip 23 metų nepriekaištingos reputacijos asmuo, turintis aukštąjį teisinį universitetinį išsilavinimą, įvykdęs šio įstatymo 22^1 straipsnyje kandidatui į apylinkės teismo teisėjus keliamus reikalavimus ir išlaikęs apylinkės teismo teisėjo egzaminus. Toks teisėjas, iki jam sueis 25 metai, nagrinėja administracinių teisės pažeidimų, alimentų nepilnamečiams vaikams išieškojimo nesant ginčo civilines ir kitas įstatymų numatytas bylas.“
 
-\#### 2 straipsnis. Papildymas 221 straipsniu
+## 2 straipsnis. Papildymas 221 straipsniu
 
 Papildyti Teismų įstatymą 22^1 straipsniu:
 
@@ -58,7 +58,7 @@ Kandidatui į apylinkės teismo teisėjus taikomi tokie patys darbinės veiklos 
 
 Kandidatas į apylinkės teismo teisėjus gauna 70 procentų apylinkės teismo teisėjo mėnesinio pareiginio atlyginimo.“
 
-\#### 3 straipsnis. 33 straipsnio papildymas penktąja ir šeštąja dalimis
+## 3 straipsnis. 33 straipsnio papildymas penktąja ir šeštąja dalimis
 
 Papildyti 33 straipsnį penktąja ir šeštąja dalimis:
 
@@ -66,25 +66,25 @@ Papildyti 33 straipsnį penktąja ir šeštąja dalimis:
 
 Apygardų teismų pirmininkai ir skyrių pirmininkai skiriami 7 metams.“
 
-\#### 4 straipsnis. 34 straipsnio papildymas ketvirtąja dalimi
+## 4 straipsnis. 34 straipsnio papildymas ketvirtąja dalimi
 
 Papildyti 34 straipsnį ketvirtąja dalimi:
 
 „Apeliacinio teismo pirmininkas ir skyrių pirmininkai skiriami 8 metams.“
 
-\#### 5 straipsnis. 35 straipsnio ketvirtosios dalies pakeitimas
+## 5 straipsnis. 35 straipsnio ketvirtosios dalies pakeitimas
 
 Pakeisti 35 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
 
 „Aukščiausiojo Teismo pirmininkas ir skyrių pirmininkai skiriami devyneriems metams.“
 
-\#### 6 straipsnis. 56 straipsnio papildymas devintąja dalimi
+## 6 straipsnis. 56 straipsnio papildymas devintąja dalimi
 
 Papildyti 56 straipsnį devintąja dalimi:
 
 „Šio straipsnio penktojoje ir septintojoje dalyse išvardintus teisėjus Respublikos Prezidentas, esant Lietuvos Respublikos Konstitucijos 115 straipsnyje numatytiems pagrindams, gali atleisti iš pareigų ir be teisingumo ministro teikimo. Šiuo atveju Respublikos Prezidentas kreipiasi patarimo dėl atleidimo į Teisėjų tarybą, o dėl Apeliacinio teismo teisėjų atleidimo – dar ir pritarimo į Seimą.
 
-\#### 7 straipsnis. 59 straipsnio papildymas antrąja dalimi
+## 7 straipsnis. 59 straipsnio papildymas antrąja dalimi
 
 Papildyti 59 straipsnį antrąja dalimi:
 
@@ -92,7 +92,7 @@ Papildyti 59 straipsnį antrąja dalimi:
 
 Antrąją ir trečiąją dalis atitinkamai laikyti trečiąją ir ketvirtąja dalimis.
 
-\#### 8 straipsnis. Lietuvos Respublikos teismų įstatymo 22, 221, 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymo 1 ir 2 straipsnių įsigaliojimo tvarka
+## 8 straipsnis. Lietuvos Respublikos teismų įstatymo 22, 221, 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymo 1 ir 2 straipsnių įsigaliojimo tvarka
 
 Šio įstatymo 1 ir 2 straipsniai įsigalioja nuo 1996 m. rugsėjo 1 d.
 

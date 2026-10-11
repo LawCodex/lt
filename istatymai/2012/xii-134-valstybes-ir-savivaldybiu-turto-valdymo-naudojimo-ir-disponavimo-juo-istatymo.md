@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8403C991B2FA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8403C991B2FA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [54-1492](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98); 2002, Nr. [60-2412](https://www.e-tar.lt/portal/lt/legalAct/TAR.89CCCC443F04); 2006, Nr. [87-3397](https://www.e-tar.lt/portal/lt/legalAct/TAR.E0DDE9E7A2B7); 2008, Nr. [36-1273](https://www.e-tar.lt/portal/lt/legalAct/TAR.787A27ACE4D2))
 
-\#### 1 straipsnis. 15 straipsnio pavadinimo ir 3 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
+## 1 straipsnis. 15 straipsnio pavadinimo ir 3 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
 
 1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „3. Savivaldybei nuosavybės teise priklausančio turto ir patikėjimo teise valdomo valstybės turto ataskaitą rengia savivaldybės administracija Vyriausybės nustatyta tvarka ir teikia ją Vietos savivaldos įstatyme numatytoms savivaldybės institucijoms.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f47e7fc055c311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F47E7FC055C3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2 straipsnio pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO NR. I-657 2 STRAIPSNIO PAKEITIMO IR ĮSTAT
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnį 1^1 dalimi:
 
 „1^1. **Būtiniausios prekės ir paslaugos** –minimaliems namų ūkio maisto ir ne maisto prekių bei paslaugų vartojimo poreikiams tenkinti skirtos prekės ir paslaugos.“
 
-\#### 2 straipsnis. Įstatymo papildymas 101 straipsniu
+## 2 straipsnis. Įstatymo papildymas 101 straipsniu
 
 Papildyti Įstatymą 10^1straipsniu:
 
@@ -44,7 +44,7 @@ Papildyti Įstatymą 10^1straipsniu:
 
 3. Lietuvos Respublikos Vyriausybės įgaliota institucija ar įstaiga analizuoja būtiniausių prekių ir paslaugų kainų pokyčių priežastis, remdamasi Valstybės duomenų agentūros rengiama ir Oficialiosios statistikos portale skelbiama statistine informacija, ir teikia išvadas Vyriausybei dėl kainų stabilumo užtikrinimo.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

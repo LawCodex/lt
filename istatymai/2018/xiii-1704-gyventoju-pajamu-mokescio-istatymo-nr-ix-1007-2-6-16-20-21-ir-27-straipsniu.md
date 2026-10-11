@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/abd0c4a0043e11e9a5eaf2cd290f1944"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ABD0C4A0043E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymo Nr. XIII-1335 2, 6 ir 7 straipsnių pakeitimo įstatymas

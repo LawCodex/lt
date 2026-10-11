@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/76dfa5906ab611e7827cd63159af616c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.76DFA5906AB6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 3, 5, 6, 11, 13, 14, 15, 17, 18, 19, 20, 21, 30, 40, 41, 42, 49, 54, 56, 58, 65 straipsnių pakeitimo, aštuntojo skirsnio pavadinimo pakeitimo ir 33 straipsnio pripažinimo netekusiu galios įstatymas

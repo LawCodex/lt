@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DCAA856E7A72"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DCAA856E7A72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 13, 14 ir 15 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 2002, Nr. [116-5188](https://www.e-tar.lt/portal/lt/legalAct/TAR.531C156856EF); 2005, Nr. [47-1554](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3E3615DFCA); 2008, Nr. [71-2703](https://www.e-tar.lt/portal/lt/legalAct/TAR.93048EAC26E5), Nr. [120-4544](https://www.e-tar.lt/portal/lt/legalAct/TAR.3A71C19CF624); 2009, Nr. [93-3961](https://www.e-tar.lt/portal/lt/legalAct/TAR.242A7F8A7730); 2010, Nr. [125-6378](https://www.e-tar.lt/portal/lt/legalAct/TAR.2EB5B5F6E5DD); 2011, Nr. [143-6708](https://www.e-tar.lt/portal/lt/legalAct/TAR.095F39F89CAF), Nr. [155-7357](https://www.e-tar.lt/portal/lt/legalAct/TAR.58F4B19E4CE5), Nr. [155-7358](https://www.e-tar.lt/portal/lt/legalAct/TAR.4A763C45A145))
 
-\#### 1 straipsnis. 13 straipsnio 1 dalies 1, 4 punktų ir 2 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 1 dalies 1, 4 punktų ir 2 dalies pakeitimas
 
 1. Pakeisti 13 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2. Jeigu savivaldybė ar daugiabučio namo bendrojo naudojimo objektų administratorius savo iniciatyva ir lėšomis, pirkdami paslaugas teisės aktų nustatyta tvarka, parengia daugiabučio namo atnaujinimo (modernizavimo) projektą, atnaujinimo (modernizavimo) projekto parengimo išlaidos apmokamos šio straipsnio 1 dalies 2 punkte nurodytos kompensacijos lėšomis atnaujinimo (modernizavimo) projekto rengėjui (savivaldybei ar administratoriui), kai šiam projektui balsų dauguma pritaria daugiabučio namo butų ir kitų patalpų savininkai ir pasirašoma pirmoji rangos darbų sutartis.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 2. Valstybės parama nepasiturintiems gyventojams, apmokant jiems tenkančias kiekvieno mėnesio kredito ir palūkanų įmokas, teikiama pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 3. Sutartis su bankais ar kitomis kredito įstaigomis dėl kredito daugiabučio namo atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir (ar) įgyvendinti (rangos darbams atlikti ir (ar) statybos techninei priežiūrai vykdyti) butų ir kitų patalpų savininkų vardu arba savo vardu, veikdamas butų ir kitų patalpų savininkų naudai, sudaro bendrojo naudojimo objektų valdytojas. Jeigu projekto parengimo ir (ar) įgyvendinimo administravimas pagal pavedimo sutartį pavedamas savivaldybės įsteigtam pelno nesiekiančiam ar konkurso tvarka paskirtam fiziniam asmeniui, juridiniam asmeniui ar kitai organizacijai arba jų padaliniams, turintiems teisę verstis atitinkama veikla, šis asmuo, jeigu tai nurodyta pavedimo sutartyje, gali sudaryti kreditavimo sutartį su bankais ar kitomis kredito įstaigomis dėl lengvatinio kredito daugiabučio namo atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir (ar) įgyvendinti (rangos darbams atlikti ir (ar) statybos techninei priežiūrai vykdyti).“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. kovo 1 d.
 

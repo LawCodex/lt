@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C7D6B7141B5A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C7D6B7141B5A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos labdaros ir paramos fondų įstatymo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-787](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1); 2004, Nr. [7-128](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5EBFFF409BF); 2010, Nr. [1-9](https://www.e-tar.lt/portal/lt/legalAct/TAR.95E4D6F4062D))
 
-\#### 1 straipsnis. Lietuvos Respublikos labdaros ir paramos fondų įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos labdaros ir paramos fondų įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos labdaros ir paramos fondų įstatymą ir jį išdėstyti taip:
 
@@ -34,15 +34,15 @@ LABDAROS IR PARAMOS FONDŲ
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas reglamentuoja juridinių asmenų, kurių teisinė forma yra labdaros ir paramos fondas, steigimą, valdymą, veiklą, pertvarkymo, pabaigos (reorganizavimo ir likvidavimo) ypatumus.
 
 2. Šis įstatymas netaikomas kredito ir draudimo organizacijoms, turinčioms fondo pavadinimą, taip pat fondams, kurie steigiami pagal atskirus įstatymus arba tarptautines sutartis su kitomis valstybėmis bei tarptautinėmis organizacijomis ir kurių veikla reglamentuojama sutartyse.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Labdaros ir paramos fondas (toliau – fondas) – savo pavadinimą turintis ribotos civilinės atsakomybės viešasis juridinis asmuo, kuris valdo, naudoja jam perduotą ir savo įgytą turtą, tuo turtu disponuoja ir kurio pagrindiniai veiklos tikslai – labdaros ir (ar) paramos, prireikus kitokios pagalbos teikimas fiziniams ir juridiniams asmenims Lietuvos Respublikos labdaros ir paramos įstatymo (toliau – Labdaros ir paramos įstatymas) ir šio įstatymo nustatyta tvarka mokslo, švietimo, kultūros, meno, religijos, sporto, sveikatos apsaugos, socialinės globos ir rūpybos, aplinkos apsaugos ir kitose visuomenei naudingomis ir su naudos sau siekimu nesiejamose srityse.
 
@@ -54,7 +54,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Labdaros ir paramos įstatyme ir kituose įstatymuose.
 
-\#### 3 straipsnis. Fondo veiklos pagrindai
+## 3 straipsnis. Fondo veiklos pagrindai
 
 1. Fondo pavadinime turi būti žodžiai „labdaros“ ar „paramos“ arba „labdaros ir paramos“.
 
@@ -64,9 +64,9 @@ LABDAROS IR PARAMOS FONDŲ
 
 4. Fondas veikia vadovaudamasis Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas), Labdaros ir paramos įstatymu, šiuo ir kitais įstatymais, Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimais ir savo įstatais.
 
-\### ANTRASIS SKIRSNIS. FONDO STEIGIMAS IR REGISTRAVIMAS
+ANTRASIS SKIRSNIS. FONDO STEIGIMAS IR REGISTRAVIMAS
 
-\#### 4 straipsnis. Steigėjai
+## 4 straipsnis. Steigėjai
 
 1. Fondo steigėjai gali būti fiziniai ir (ar) juridiniai asmenys, sudarę fondo steigimo sutartį ir iki fondo įregistravimo Juridinių asmenų registre įsipareigoję skirti fondui įnašus pinigais ar turtu. Jeigu fondą steigia vienas asmuo, vietoj steigimo sutarties jis surašo steigimo aktą. Šio įstatymo nuostatos dėl steigimo sutarties taikomos ir steigimo aktui.
 
@@ -80,7 +80,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 6. Steigiamo fondo vardu veikia fondo steigimo sutartyje nurodytas arba steigiamojo susirinkimo įgaliotas asmuo.
 
-\#### 5 straipsnis. Fondo steigimo sutartis
+## 5 straipsnis. Fondo steigimo sutartis
 
 1. Fondo steigimo sutartyje turi būti nurodyta:
 
@@ -106,7 +106,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 5) kitos šiam ir kitiems įstatymams neprieštaraujančios nuostatos.
 
-\#### 6 straipsnis. Fondo registravimas ir Juridinių asmenų registro duomenys
+## 6 straipsnis. Fondo registravimas ir Juridinių asmenų registro duomenys
 
 1. Fondas turi būti įregistruotas Juridinių asmenų registre teisės aktų nustatyta tvarka.
 
@@ -118,9 +118,9 @@ LABDAROS IR PARAMOS FONDŲ
 
 5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų registre nurodomas fondo veiklos laikotarpis, jeigu jis yra ribotas.
 
-\### TREČIASIS SKIRSNIS. FONDO VALDYMAS
+TREČIASIS SKIRSNIS. FONDO VALDYMAS
 
-\#### 7 straipsnis. Fondo organai
+## 7 straipsnis. Fondo organai
 
 1. Fondas turi turėti visuotinį dalininkų susirinkimą ir valdymo organą (vienasmenį ar (ir) kolegialų).
 
@@ -132,7 +132,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 5. Dalininkų susirinkimai ir kolegialių organų posėdžiai turi būti protokoluojami.
 
-\#### 8 straipsnis. Visuotinis dalininkų susirinkimas
+## 8 straipsnis. Visuotinis dalininkų susirinkimas
 
 1. Visuotinis dalininkų susirinkimas yra aukščiausiasis fondo organas. Jeigu fondo dalininkas yra vienas asmuo, jo rašytiniai sprendimai prilygsta visuotinio dalininkų susirinkimo sprendimams.
 
@@ -174,7 +174,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 9. Fondo visuotinis dalininkų susirinkimas gali būti šaukiamas teismo sprendimu, jeigu jis nebuvo sušauktas fondo įstatuose nustatyta tvarka ir dėl to į teismą kreipėsi fondo dalininkas ar valdymo organas.
 
-\#### 9 straipsnis. Valdymo organai
+## 9 straipsnis. Valdymo organai
 
 1. Valdymo organas veikia fondo vardu, kai fondas palaiko santykius su kitais asmenimis, taip pat sudaro sandorius fondo vardu.
 
@@ -192,13 +192,13 @@ LABDAROS IR PARAMOS FONDŲ
 
 8. Fondo valdymo organas Lietuvos Respublikos įstatymų nustatyta tvarka atsako už tai, kad fondo veikla atitiktų šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nuostatas.
 
-\#### 10 straipsnis. Neliečiamąjį kapitalą valdančio fondo valdyba
+## 10 straipsnis. Neliečiamąjį kapitalą valdančio fondo valdyba
 
 1. Neliečiamąjį kapitalą valdančiame fonde turi būti sudaroma valdyba – kolegialus valdymo organas, atsakantis už neliečiamajam kapitalui perduotų lėšų investavimo tvarkos (strategijos) įgyvendinimą, taip pat už neliečiamąjį kapitalą sudarančių lėšų investavimo ir valdymo tikslų pasiekimą.
 
 2. Neliečiamąjį kapitalą valdančio fondo valdybą sudaro ne mažiau kaip 3 fiziniai asmenys. Valdybos nariai turi būti nepriekaištingos reputacijos, kaip nustatyta Lietuvos Respublikos finansinių priemonių rinkų įstatyme, asmenys, turėti aukštąjį išsilavinimą ir patirties finansų ar turto valdymo srityje. Valdybos narių skaičius ir konkretūs reikalavimai valdybos nariams nustatomi fondo įstatuose.
 
-\#### 11 straipsnis. Auditas, mokestinis patikrinimas ir vidaus kontrolė
+## 11 straipsnis. Auditas, mokestinis patikrinimas ir vidaus kontrolė
 
 1. Fondas privalo įstatymuose nustatytu periodiškumu atlikti auditą. Fondo auditas atliekamas, kai visuotinis dalininkų susirinkimas priima sprendimą atlikti auditą ir išrenka audito įmonę ar atestuotą auditorių. Auditas atliekamas vadovaujantis profesinės etikos principais, įstatymų ir kitų teisės aktų, tarptautinių audito standartų reikalavimais.
 
@@ -210,7 +210,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 5. Fondo vidaus kontrolės tvarka nustatoma fondo įstatuose.
 
-\#### 12 straipsnis. Fondo metinis pranešimas ir metinių finansinių ataskaitų rinkinys
+## 12 straipsnis. Fondo metinis pranešimas ir metinių finansinių ataskaitų rinkinys
 
 1. Fondo įstatuose nurodytas valdymo organas pasibaigus finansiniams metams turi parengti ir pateikti visuotiniam dalininkų susirinkimui praėjusių finansinių metų fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį. Šie dokumentai yra vieši. Kiekvieno fizinio ar juridinio asmens reikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šiais dokumentais susipažinti.
 
@@ -250,15 +250,15 @@ LABDAROS IR PARAMOS FONDŲ
 
 6. Kiekvienais metais fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su metiniu pranešimu per 30 dienų nuo visuotinio akcininkų susirinkimo turi būti pateiktas Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje.
 
-\### KETVIRTASIS SKIRSNIS. FONDO VEIKLA
+KETVIRTASIS SKIRSNIS. FONDO VEIKLA
 
-\#### 13 straipsnis. Fondo teisės ir pareigos
+## 13 straipsnis. Fondo teisės ir pareigos
 
 1. Fondas gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja fondo tikslams, numatytiems Civiliniame kodekse, šiame įstatyme ir fondo įstatuose.
 
 2. Fondas turi teisę vykdyti įstatymų nedraudžiamą ūkinę veiklą, kuri neprieštarauja jo įstatams bei veiklos tikslams ir reikalinga jo tikslams pasiekti.
 
-\#### 14 straipsnis. Fondo įstatai
+## 14 straipsnis. Fondo įstatai
 
 1. Fondo įstatai yra fondo steigimo dokumentas, kuriuo fondas vadovaujasi savo veikloje.
 
@@ -314,7 +314,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 9. Fondo įstatus pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.
 
-\#### 15 straipsnis. Fondo dalininkai
+## 15 straipsnis. Fondo dalininkai
 
 1. Fondo dalininkas turi teisę:
 
@@ -330,7 +330,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 3. Fondo dalininkas privalo laikytis fondo įstatų.
 
-\#### 16 straipsnis. Paramos dalykų perdavimas sutartimi, testamentu
+## 16 straipsnis. Paramos dalykų perdavimas sutartimi, testamentu
 
 1. Paramos teikėjas paramos dalykus fondui gali perduoti paramos sutartimi ar testamentu.
 
@@ -354,7 +354,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 4. Jeigu testamente, kuriuo fondui perduodami paramos dalykai, nurodyti paramos dalykų panaudojimo tikslai ar kitos testamento nuostatos prieštarauja šio įstatymo ir fondo įstatų nuostatoms, visuotinis dalininkų susirinkimas per Civilinio kodekso 5.60 straipsnyje nustatytą terminą išsprendžia fondo įstatų pakeitimo ar atsisakymo priimti palikimą klausimą.
 
-\#### 17 straipsnis. Paramos valdymo taisyklės
+## 17 straipsnis. Paramos valdymo taisyklės
 
 1. Paramos valdymo taisyklės yra visuotinio dalininkų susirinkimo tvirtinamas dokumentas, kuriame nustatoma fondui perduotos paramos valdymo tvarka.
 
@@ -368,7 +368,7 @@ LABDAROS IR PARAMOS FONDŲ
 
 4. Paramos valdymo taisyklės privalo užtikrinti, kad fondas gautą paramą valdytų skaidriai, vadovaudamasis šiame įstatyme ir fondo įstatuose įtvirtintais principais. Šios taisyklės turi užtikrinti sąžiningą ir efektyvų gautos paramos panaudojimą siekiant fondo įstatuose nustatytų visuomenei naudingų tikslų.
 
-\#### 18 straipsnis. Fondo veiklos ribojimai
+## 18 straipsnis. Fondo veiklos ribojimai
 
 1. Fondui leidžiama nuosavybės teise valdomą turtą ir lėšas perleisti, užtikrinti prievolių įvykdymą ar kitaip apriboti savo valdymo, naudojimo ir disponavimo teises tik tuo atveju, kai tuo siekiama įgyvendinti fondo įstatuose nustatytus veiklos tikslus (įskaitant labdaros ir paramos tikslus, nustatytus fondo įstatuose pagal Labdaros ir paramos įstatymą).
 
@@ -406,9 +406,9 @@ LABDAROS IR PARAMOS FONDŲ
 
 6. Laikantis Vyriausybės nustatytos tvarkos, fondo administravimo išlaidoms padengti per vienus metus gali būti panaudojama ne daugiau kaip 20 procentų per tuos metus gautų fondo pajamų, įskaitant šio įstatymo 22 straipsnio 2 dalyje nurodytas pajamas.
 
-\### PENKTASIS SKIRSNIS. NELIEČIAMOJO KAPITALO VALDYMAS
+PENKTASIS SKIRSNIS. NELIEČIAMOJO KAPITALO VALDYMAS
 
-\#### 19 straipsnis. Neliečiamojo kapitalo valdymo principai
+## 19 straipsnis. Neliečiamojo kapitalo valdymo principai
 
 Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
@@ -420,7 +420,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 4) veiklos skaidrumo. Šis principas reiškia, kad neliečiamojo kapitalo investavimas ir iš šios veiklos gautų pajamų naudojimas turi būti skaidrus, vykdomas laikantis šiame įstatyme, fondo įstatuose įtvirtintų principų.
 
-\#### 20 straipsnis. Neliečiamojo kapitalo valdymo pradžia
+## 20 straipsnis. Neliečiamojo kapitalo valdymo pradžia
 
 1. Neliečiamąjį kapitalą valdyti gali tik fondas, kurio įstatuose nustatyta neliečiamojo kapitalo valdymo veiklos rūšis.
 
@@ -434,7 +434,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 4. Fondas turi teisę pradėti valdyti neliečiamąjį kapitalą nuo šio straipsnio 3 dalyje nurodyto sprendimo dėl neliečiamojo kapitalo valdymo pradžios įregistravimo Juridinių asmenų registre dienos.
 
-\#### 21 straipsnis. Neliečiamojo kapitalo formavimas iš lėšų fondo iniciatyva
+## 21 straipsnis. Neliečiamojo kapitalo formavimas iš lėšų fondo iniciatyva
 
 1. Sprendimą formuoti neliečiamąjį kapitalą iš lėšų priima fondo visuotinis dalininkų susirinkimas (steigiamasis susirinkimas). Fondas visuotinio dalininkų susirinkimo (steigiamojo susirinkimo) priimtą sprendimą formuoti neliečiamąjį kapitalą iš lėšų pateikia Juridinių asmenų registro tvarkytojui.
 
@@ -452,7 +452,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 8. Šio straipsnio 7 dalyje nurodytos lėšos negali būti naudojamos fondo administravimo išlaidoms padengti.
 
-\#### 22 straipsnis. Neliečiamojo kapitalo valdymui keliami reikalavimai
+## 22 straipsnis. Neliečiamojo kapitalo valdymui keliami reikalavimai
 
 1. Fondo valdomas neliečiamasis kapitalas visuotinio dalininkų susirinkimo sprendimu gali būti padidintas:
 
@@ -478,7 +478,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 4) juridinis asmuo, išskyrus nurodytus šios dalies 2 punkte, kurio daugiau kaip 1/3 organo balsų turi fondo dalininkas, valdymo ir kolegialių organų narys, fonde pagal darbo sutartį dirbantis asmuo, paramos teikėjas, šios dalies 1, 2 ir 3 punktuose nurodytas asmuo ar šie asmenys kartu.
 
-\#### 23 straipsnis. Neliečiamojo kapitalo sumažėjimas
+## 23 straipsnis. Neliečiamojo kapitalo sumažėjimas
 
 1. Neliečiamasis kapitalas laikomas sumažėjusiu, kai Juridinių asmenų registre registruojamas neliečiamojo kapitalo dydis finansinių metų pabaigoje yra mažesnis už dydį, įregistruotą praėjusių finansinių metų pabaigoje.
 
@@ -490,7 +490,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 5. Jeigu fondas šio straipsnio 4 dalyje nustatytu atveju neliečiamojo kapitalo valdymo veiklos nenutraukia, prokuroras Juridinių asmenų registro tvarkytojo iniciatyva kreipiasi į teismą dėl fondo veiklos tyrimo.
 
-\#### 24 straipsnis. Neliečiamojo kapitalo valdymo pabaiga
+## 24 straipsnis. Neliečiamojo kapitalo valdymo pabaiga
 
 1. Neliečiamojo kapitalo valdymas gali būti nutrauktas fondo visuotinio dalininkų susirinkimo arba teismo sprendimu.
 
@@ -502,9 +502,9 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 5. Fondo valdymo organas apie neliečiamojo kapitalo valdymo nutraukimą ne vėliau kaip per 5 darbo dienas nuo teismo sprendimo įsiteisėjimo dienos arba visuotinio dalininkų susirinkimo sprendimo priėmimo dienos fondo įstatuose nustatyta tvarka informuoja paramos teikėjus.
 
-\### ŠEŠTASIS SKIRSNIS. FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
+ŠEŠTASIS SKIRSNIS. FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
 
-\#### 25 straipsnis. Fondo pertvarkymo ir pabaigos ypatumai
+## 25 straipsnis. Fondo pertvarkymo ir pabaigos ypatumai
 
 1. Fondas gali būti pertvarkomas į viešąją įstaigą. Fondas, valdantis neliečiamąjį kapitalą, gali būti pertvarkomas į viešąją įstaigą po to, kai neliečiamasis kapitalas ir iš jo investavimo gautos pajamos panaudojamos šio įstatymo 24 straipsnio 2 dalyje nustatyta tvarka.
 
@@ -530,7 +530,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 
 6) pateikti Juridinių asmenų registro tvarkytojui fondo likvidavimo aktą ir kitus dokumentus, reikalingus fondui išregistruoti.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
 

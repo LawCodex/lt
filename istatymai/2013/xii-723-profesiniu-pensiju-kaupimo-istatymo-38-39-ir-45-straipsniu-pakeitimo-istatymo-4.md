@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d4b0d2e0723811e3b29084acd991add8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D4B0D2E07238.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymo 38, 39 ir 45 straipsnių pakeitimo įstatymo 4 straipsnio pakeitimo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2012, Nr. [127-6386](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=435607))
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 

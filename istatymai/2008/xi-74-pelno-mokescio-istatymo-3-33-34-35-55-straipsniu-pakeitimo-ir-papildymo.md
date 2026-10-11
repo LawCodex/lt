@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EC7BF20EAA7E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EC7BF20EAA7E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 3, 33, 34, 35, 55 straipsnių pakeitimo ir papildymo įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [47-1748](https://www.e-tar.lt/portal/lt/legalAct/TAR.1164E497A37D))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 4. Jeigu Lietuvos vienetas gauna dividendus Lietuvos Respublikos akcinių bendrovių įstatymo, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo ir Lietuvos Respublikos žemės ūkio bendrovių įstatymo nustatyta tvarka, šis vienetas į pajamas iš kito Lietuvos vieneto gautų dividendų neįtraukia.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 „3. Nuolatinės buveinės už jai priskirtas Lietuvos vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant Lietuvos vieneto gaunamiems dividendams už turimas Lietuvos vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą taikomą apmokestinimo tvarką.““:
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 

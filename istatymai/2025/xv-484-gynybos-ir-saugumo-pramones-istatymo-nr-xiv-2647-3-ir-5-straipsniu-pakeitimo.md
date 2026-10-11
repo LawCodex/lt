@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6914fe82afcf11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6914FE82AFCF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gynybos ir saugumo pramonės įstatymo Nr. XIV-2647 3 ir 5 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ GYNYBOS IR SAUGUMO PRAMONĖS ĮSTATYMO NR. XIV-2647 3 IR 5 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -34,13 +34,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 Asmenys, užsiimantys mokslinių tyrimų ir eksperimentinės plėtros veikla, susijusia su ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių kūrimu, apimančiu ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių projektavimą, aprašymų, techninių specifikacijų, brėžinių rengimą, vienetinių gabaritinių maketų, kuriuose nėra panaudota tikrų pagrindinių ginklų, ginklų priedėlių, šaudmenų dalių, gamybą, privalo užtikrinti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kuriamų ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių apskaitos, apsaugos ir kontrolės reikalavimus.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) formuoja su ginklais, ginklų priedėliais ir šaudmenimis, jų pagrindinėmis dalimis susijusios veiklos licencijavimo ir kontrolės srities politiką ir atlieka su šiais produktais susijusios veiklos licencijavimo ir kontrolės srities teisinio reguliavimo peržiūrą;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

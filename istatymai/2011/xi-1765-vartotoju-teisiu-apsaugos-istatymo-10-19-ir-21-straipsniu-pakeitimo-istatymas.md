@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D41F9CD80A4F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D41F9CD80A4F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 10, 19 ir 21 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [94-1833](https://www.e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE); 2007, Nr. [12-488](https://www.e-tar.lt/portal/lt/legalAct/TAR.0B0FDEFFCD5C))
 
-\#### 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 4 dalies pakeitimas
 
 Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Tarybą sudaro po vieną Teisingumo ministerijos, Sveikatos apsaugos ministerijos, Valstybinės vartotojų teisių apsaugos tarnybos, Valstybinės maisto ir veterinarijos tarnybos (toliau – Tarnyba), Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos (toliau – Inspekcija) atstovą, keturi vartotojų asociacijų atstovai ir vienas Lietuvos savivaldybių asociacijos atstovas. Tarybos nuostatus ir sudėtį tvirtina teisingumo ministras. Tarybai vadovauja Teisingumo ministerijos atstovas.“
 
-\#### 2 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vartotojas, manydamas, kad pardavėjas, paslaugų teikėjas pažeidė jo teises ar įstatymų saugomus interesus, turi teisę šio skirsnio nustatyta tvarka kreiptis į pardavėją, paslaugų teikėją, Tarnybą, Inspekciją ar visuomenės sveikatos centrą apskrityje, taip pat į šio įstatymo 22 straipsnio 1 dalyje nurodytas ginčus nagrinėjančias institucijas ar į teismą.“
 
-\#### 3 straipsnis. 21 straipsnio pakeitimas
+## 3 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 6. Jeigu šio straipsnio 5 dalyje nurodyti asmenys nesumoka už ekspertizę ar laboratorinius tyrimus, Tarnyba, Inspekcija ar visuomenės sveikatos centras apskrityje kreipiasi į teismą dėl šių išlaidų priteisimo.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

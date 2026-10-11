@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9fc75f9024a711e5b336e9064144f02a"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9FC75F9024A7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 28, 41, 55, 68, 87, 89, 101, 104-1, 104-2, 129, 131, 154 straipsnių ir priedo pakeitimo, Įstatymo papildymo 55-1 ir 61-1 straipsniais ir 56, 57, 58, 59, 60 straipsnių pripažinimo netekusiais galios įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/23f242301d4c11e9875cdc20105dd260"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.23F242301D4C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tręšiamųjų produktų įstatymas
@@ -26,7 +26,7 @@ TRĘŠIAMŲJŲ PRODUKTŲ
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+### 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas nustato Lietuvos Respublikos rinkai (toliau – rinka) pateikiamiems ir tiekiamiems tręšiamiesiems produktams keliamus reikalavimus, ekonominės veiklos vykdytojų, tręšiamųjų produktų naudotojų pareigas, rinkai pateikiamų ir tiekiamų tręšiamųjų produktų identifikavimo reikalavimus, rinkai pateikiamų ir tiekiamų tręšiamųjų produktų įtraukimo į Tręšiamųjų produktų indentifikavimo sąrašą (toliau – Identifikavimo sąrašas) ir išbraukimo iš Identifikavimo sąrašo reikalavimus, rinkos priežiūros tvarką ir atsakomybę už šio įstatymo pažeidimus.
 
@@ -46,7 +46,7 @@ Vilnius
 
 5. Šio įstatymo reikalavimai netaikomi mokslo tiriamiesiems tikslams, laboratoriniams tyrimams ir lauko bandymams naudojamiems tręšiamiesiems produktams.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Tręšiamasis produktas – cheminė medžiaga, cheminių medžiagų mišinys, mikroorganizmas arba bet kuri kita medžiaga, naudojama arba skirta naudoti ant augalų ar jų rizosferoje arba ant grybų ar jų mikosferoje, arba skirta rizosferai ar mikosferai sudaryti, viena ar sumaišyta su kita chemine medžiaga, siekiant teikti augalams ar grybams maisto medžiagų arba gerinti jų mitybos efektyvumą.
 
@@ -66,9 +66,9 @@ Vilnius
 
 9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/2339 (OL 2016 L 354, p. 32), Reglamente (EB) Nr. 2003/2003.
 
-\## II SKYRIUS. TRĘŠIAMŲJŲ PRODUKTŲ ĮTRAUKIMAS Į IDENTIFIKAVIMO SĄRAŠĄ IR IŠBRAUKIMAS IŠ ŠIO SĄRAŠO
+II SKYRIUS. TRĘŠIAMŲJŲ PRODUKTŲ ĮTRAUKIMAS Į IDENTIFIKAVIMO SĄRAŠĄ IR IŠBRAUKIMAS IŠ ŠIO SĄRAŠO
 
-\#### 3 straipsnis. Tręšiamųjų produktų įtraukimas į Identifikavimo sąrašą ir išbraukimas iš šio sąrašo
+### 3 straipsnis. Tręšiamųjų produktų įtraukimas į Identifikavimo sąrašą ir išbraukimas iš šio sąrašo
 
 1. Identifikavimo sąrašą, tręšiamųjų produktų įtraukimo į šį sąrašą ir išbraukimo iš jo tvarkos aprašą (toliau – tvarkos aprašas) tvirtina Lietuvos Respublikos žemės ūkio ministras.
 
@@ -90,9 +90,9 @@ Vilnius
 
 8. Dviejų ar kelių EB trąšų mišinys nėra laikomas EB trąšomis ir jis privalo būti įtrauktas į Identifikavimo sąrašą, taikant šio straipsnio 2 dalyje nustatytus reikalavimus.
 
-\## III SKYRIUS. TRĘŠIAMIESIEMS PRODUKTAMS KELIAMI REIKALAVIMAI
+III SKYRIUS. TRĘŠIAMIESIEMS PRODUKTAMS KELIAMI REIKALAVIMAI
 
-\#### 4 straipsnis. Tręšiamiesiems produktams keliami reikalavimai
+### 4 straipsnis. Tręšiamiesiems produktams keliami reikalavimai
 
 1. Tręšiamieji produktai rinkai gali būti pateikiami ir tiekiami, kai jie atitinka visas šias sąlygas:
 
@@ -106,9 +106,9 @@ Vilnius
 
 3. Draudžiama pateikti ir tiekti rinkai amonio karbonato trąšas.
 
-\## IV SKYRIUS. EKONOMINĖS VEIKLOS VYKDYTOJŲ PAREIGOS
+IV SKYRIUS. EKONOMINĖS VEIKLOS VYKDYTOJŲ PAREIGOS
 
-\#### 5 straipsnis. Gamintojų pareigos
+### 5 straipsnis. Gamintojų pareigos
 
 1. Gamintojai privalo:
 
@@ -128,7 +128,7 @@ Vilnius
 
 2. Gamintojo įgaliotam atstovui tenka šio straipsnio 1 dalyje gamintojui nustatytos pareigos.
 
-\#### 6 straipsnis. Importuotojų pareigos
+### 6 straipsnis. Importuotojų pareigos
 
 Importuotojai privalo:
 
@@ -140,7 +140,7 @@ Importuotojai privalo:
 
 4) gavę įgaliotosios institucijos ir (ar) muitinės prašymą, įgaliotajai institucijai ir (ar) muitinei pateikti valstybine kalba visą informaciją ir dokumentus, būtinus tręšiamojo produkto atitikčiai šio įstatymo 4 straipsnio reikalavimams įvertinti, ir bendradarbiauti su šiomis institucijomis dėl visų veiksmų, kurių imamasi tręšiamųjų produktų, kuriuos jie pateikė rinkai, keliamam pavojui žmonių, gyvūnų ir augalų gyvybei, sveikatai ir aplinkai pašalinti.
 
-\#### 7 straipsnis. Platintojų pareigos
+### 7 straipsnis. Platintojų pareigos
 
 Platintojai privalo:
 
@@ -152,21 +152,21 @@ Platintojai privalo:
 
 4) gavę įgaliotosios institucijos prašymą, valstybine kalba pateikti visą informaciją ir dokumentus, būtinus tręšiamojo produkto atitikčiai šio įstatymo 4 straipsnio reikalavimams įvertinti, ir bendradarbiauti su įgaliotąja institucija dėl visų veiksmų, kurių imamasi tręšiamųjų produktų, kuriuos platintojai pateikė rinkai, keliamam pavojui žmonių, gyvūnų ir augalų gyvybei, sveikatai ir aplinkai pašalinti.
 
-\#### 8 straipsnis. Atvejai, kai importuotojams ir platintojams tenka gamintojų pareigos
+### 8 straipsnis. Atvejai, kai importuotojams ir platintojams tenka gamintojų pareigos
 
 Importuotojas arba platintojas laikomas gamintoju ir įgyja šio įstatymo 5 straipsnio 1 dalyje nustatytas gamintojo pareigas, jeigu tręšiamąjį produktą rinkai jis pateikia savo vardu ar naudodamas savo prekių ženklą arba pakeičia rinkai jau pateiktą tręšiamąjį produktą ir dėl to tręšiamasis produktas nebeatitinka Identifikavimo sąraše nurodytų kriterijų.
 
-\## V SKYRIUS. TRĘŠIAMŲJŲ PRODUKTŲ NAUDOJIMAS
+V SKYRIUS. TRĘŠIAMŲJŲ PRODUKTŲ NAUDOJIMAS
 
-\#### 9 straipsnis. Tręšiamųjų produktų naudojimas ir naudotojų pareigos
+### 9 straipsnis. Tręšiamųjų produktų naudojimas ir naudotojų pareigos
 
 1. Naudotojas privalo naudoti tik tuos tręšiamuosius produktus, kurie įrašyti į Identifikavimo sąrašą ir (arba) EB trąšas, kurios įrašytos į Reglamento (EB) Nr. 2003/2003 I priedą, tai turi būti nurodyta platintojo pateiktame tręšiamojo produkto lydimajame dokumente.
 
 2. Žemės ūkio ministras tvirtina tręšiamųjų produktų naudojimo reikalavimus ir paskiria tręšiamųjų produktų naudojimo priežiūros instituciją.
 
-\## VI SKYRIUS. TRĘŠIAMŲJŲ PRODUKTŲ RINKOS PRIEŽIŪRA
+VI SKYRIUS. TRĘŠIAMŲJŲ PRODUKTŲ RINKOS PRIEŽIŪRA
 
-\#### 10 straipsnis. Tręšiamųjų produktų rinkos priežiūra
+### 10 straipsnis. Tręšiamųjų produktų rinkos priežiūra
 
 1. Tręšiamųjų produktų pateikimą rinkai, jų tiekimą rinkai laikantis šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų prižiūri įgaliotoji institucija, vadovaudamasi šiuo įstatymu ir Viešojo administravimo įstatymo ketvirtajame skirsnyje nustatyta tvarka.
 
@@ -180,7 +180,7 @@ Importuotojas arba platintojas laikomas gamintoju ir įgyja šio įstatymo 5 str
 
 4) priemonių, kuriomis užtikrinamas tinkamas šiame įstatyme ir (arba) Reglamente (EB) Nr. 2003/2003 nustatytų reikalavimų laikymasis ir kuriomis mažinamas galimų pažeidimų skaičius, įgyvendinimą.
 
-\#### 11 straipsnis. Įgaliotosios institucijos pareigūnų teisės ir pareigos
+### 11 straipsnis. Įgaliotosios institucijos pareigūnų teisės ir pareigos
 
 1. Įgaliotosios institucijos pareigūnai turi teisę:
 
@@ -206,7 +206,7 @@ Importuotojas arba platintojas laikomas gamintoju ir įgyja šio įstatymo 5 str
 
 7) skirti už šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 pažeidimus šio įstatymo 17 straipsnyje nustatyto dydžio baudas.
 
-\#### 12 straipsnis. Ekonominės veiklos vykdytojų teisės ir pareigos tręšiamųjų produktų rinkos priežiūros metu
+### 12 straipsnis. Ekonominės veiklos vykdytojų teisės ir pareigos tręšiamųjų produktų rinkos priežiūros metu
 
 1. Ekonominės veiklos vykdytojai tręšiamųjų produktų rinkos priežiūros metu turi teisę:
 
@@ -228,7 +228,7 @@ Importuotojas arba platintojas laikomas gamintoju ir įgyja šio įstatymo 5 str
 
 4) pateikti įgaliotosios institucijos pareigūnams visą veiklos patikrinimui atlikti būtiną informaciją, duomenis ir dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus.
 
-\#### 13 straipsnis. Neatitinkantiems šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų tręšiamiesiems produktams taikoma procedūra
+### 13 straipsnis. Neatitinkantiems šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų tręšiamiesiems produktams taikoma procedūra
 
 1. Nustačiusi, kad tręšiamieji produktai neatitinka šio įstatymo 4 straipsnio reikalavimų, įgaliotoji institucija nedelsdama pareikalauja, kad ekonominės veiklos vykdytojas per įgaliotosios institucijos nustatytą terminą imtųsi veiksmų nustatytiems pažeidimams pašalinti, kad užtikrintų tręšiamojo produkto atitiktį tiems reikalavimams arba pašalintų ar susigrąžintų tręšiamąjį produktą iš rinkos.
 
@@ -236,11 +236,9 @@ Importuotojas arba platintojas laikomas gamintoju ir įgyja šio įstatymo 5 str
 
 3. Tręšiamieji produktai, kuriems taikomos rinkos ribojimo priemonės, saugomi ekonominės veiklos vykdytojo patalpoje atskirti nuo produktų, kuriems rinkos ribojimo priemonės netaikomos.
 
-\## VII SKYRIUS
+## VII SKYRIUS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO IR (ARBA) REGLAMENTO (EB) NR. 2003/2003 PAŽEIDIMUS
 
-ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO IR (ARBA) REGLAMENTO (EB) NR. 2003/2003 PAŽEIDIMUS
-
-\#### 14 straipsnis. Šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 pažeidimų nagrinėjimo tvarka
+### 14 straipsnis. Šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 pažeidimų nagrinėjimo tvarka
 
 1. Įgaliotoji institucija nagrinėja šio įstatymo 5–8 straipsniuose nurodytų reikalavimų pažeidimus pagal šiame straipsnyje ir įgaliotosios institucijos patvirtintuose teisės aktuose nustatytą tvarką ir skiria šiame įstatyme nustatytas baudas.
 
@@ -264,19 +262,19 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO IR (ARBA) REGLAMENTO (EB) NR. 2003/2003 PAŽEIDIM
 
 8. Įgaliotosios institucijos nutarimai ne vėliau kaip per 3 darbo dienas nuo nutarimo priėmimo dienos registruotu paštu išsiunčiami asmenims, dėl kurių jie priimti.
 
-\#### 15 straipsnis. Įgaliotosios institucijos sprendimų ir nutarimų apskundimas
+### 15 straipsnis. Įgaliotosios institucijos sprendimų ir nutarimų apskundimas
 
 1. Ekonominės veiklos vykdytojas įgaliotosios institucijos sprendimus dėl rinkos ribojimo priemonių taikymo ir įgaliotosios institucijos nutarimus dėl baudų skyrimo per vieną mėnesį nuo šių sprendimų ar nutarimų įteikimo ekonominės veiklos vykdytojui dienos gali apskųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 2. Kreipimasis į teismą nesustabdo sprendimų ar nutarimų vykdymo, jeigu teismas nenustato kitaip.
 
-\#### 16 straipsnis. Įgaliotosios institucijos nutarimų vykdymas
+### 16 straipsnis. Įgaliotosios institucijos nutarimų vykdymas
 
 1. Įgaliotosios institucijos nutarimu paskirtos baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo įgaliotosios institucijos nutarimą dėl baudos paskyrimo.
 
 2. Įgaliotosios institucijos nutarimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Įgaliotosios institucijos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tokiam laikui, kokiam teismo sprendimu buvo sustabdytas įgaliotosios institucijos nutarimo skirti baudą vykdymas.
 
-\#### 17 straipsnis. Baudos už šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 pažeidimus
+### 17 straipsnis. Baudos už šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 pažeidimus
 
 1. Ekonominės veiklos vykdytojams, nevykdantiems įgaliotosios institucijos sprendimo pašalinti iš rinkos šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų neatitinkančius tręšiamuosius produktus, skiriama nuo 70 iki 100 procentų ekonominės veiklos vykdytojo gautų pajamų už parduotus tręšiamuosius produktus ir pajamų, kurios galėjo būti gautos už nepašalintus, tačiau ekonominės veiklos vykdytojo rinkai pateiktus arba tiektus šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų neatitinkančius tręšiamuosius produktus, sumos dydžio bauda, bet ne mažesnė negu 100 procentų ekonominės veiklos vykdytojo gautų pajamų už parduotus nepašalintus iš rinkos šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų neatitinkančius tręšiamuosius produktus dydžio bauda. Nepavykus nustatyti ekonominės veiklos vykdytojo gautų pajamų už parduotus nepašalintus iš rinkos šio įstatymo ir (arba) Reglamento (EB) Nr. 2003/2003 reikalavimų neatitinkančius tręšiamuosius produktus, skiriama nuo 70 iki 100 procentų tokių produktų rinkos vertės dydžio bauda.
 
@@ -292,7 +290,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO IR (ARBA) REGLAMENTO (EB) NR. 2003/2003 PAŽEIDIM
 
 7. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio įstatymo 18 straipsnyje nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki mažiausio dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki didžiausio dydžio. Kai yra ir atsakomybę lengvinančių, ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų mastą ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas įgaliotosios institucijos sprendime.
 
-\#### 18 straipsnis. Atsakomybę lengvinančios ir sunkinančios aplinkybės
+### 18 straipsnis. Atsakomybę lengvinančios ir sunkinančios aplinkybės
 
 1. Skiriant baudą, atsakomybę lengvinančios aplinkybės yra šios:
 
@@ -308,13 +306,13 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO IR (ARBA) REGLAMENTO (EB) NR. 2003/2003 PAŽEIDIM
 
 3) dėl pažeidimo pobūdžio kilo grėsmė žmonių, gyvūnų ir augalų gyvybei, sveikatai ir aplinkai.
 
-\#### 19 straipsnis. Baudų skyrimo terminas
+### 19 straipsnis. Baudų skyrimo terminas
 
 Šio įstatymo 17 straipsnyje nustatytos baudos gali būti skiriamos ne vėliau kaip per dvejus metus nuo šio įstatymo pažeidimo padarymo, o tęstinio pažeidimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.
 
-\## VIII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VIII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 20 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+### 20 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2019 m. gegužės 1 d.
 

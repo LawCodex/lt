@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6F0A70DAD68F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6F0A70DAD68F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 1, 2, 6, 7, 9, 10, 15, 16, 25, 28, 34, 65, 71, 74, 75, 79, 84, 85, 93, 94, 95, 96, 109, 110 straipsnių ir VIII skyriaus pavadinimo pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2003, Nr. [74-3424](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF); 2007, Nr. [117-4772](https://www.e-tar.lt/portal/lt/legalAct/TAR.8355BD8491EC); 2008, Nr. [75-2922](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF5DD16F1C39); 2009, Nr. [38-1443](https://www.e-tar.lt/portal/lt/legalAct/TAR.E711B7C181AB))
 
-\#### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
 
 1 straipsnio 3 dalyje po žodžio „nėra“ įrašyti žodį „viešai“ ir šią dalį išdėstyti taip:
 
 „3. Šis įstatymas taikomas suderintųjų ir specialiųjų kolektyvinio investavimo subjektų, išskyrus tuos, kurių investiciniai vienetai ar akcijos nėra viešai siūlomi Lietuvos Respublikoje ar kitose valstybėse narėse arba pagal jų sudarymo dokumentus yra siūlomi tik ne valstybėse narėse, teikiamoms paslaugoms.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „39. **Daugiašalė prekybos sistema** –kaip tai apibrėžta Finansinių priemonių rinkų įstatyme.“
 
-\#### 3 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -52,19 +52,19 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 3) stebėtojų tarybos nariai.“
 
-\#### 4 straipsnis. 7 straipsnio 1 dalies papildymas 14 punktu
+## 4 straipsnis. 7 straipsnio 1 dalies papildymas 14 punktu
 
 Papildyti 7 straipsnio 1 dalį 14 punktu:
 
 „14) laikytis Vertybinių popierių komisijos nustatytų kapitalo reikalavimų.“
 
-\#### 5 straipsnis. 9 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 9 straipsnio 3 dalies pakeitimas
 
 9 straipsnio 3 dalies antrame sakinyje išbraukti žodžius „ir (arba) vykdymo“ ir šią dalį išdėstyti taip:
 
 „3. Valdymo įmonė ar šio straipsnio 1 dalyje nustatyta investicinė bendrovė neturi teisės kitiems asmenims pavesti tiek savo valdymo funkcijų, kad iš esmės jų nebeturėtų. Draudžiama investicinių sprendimų priėmimo funkciją pavesti depozitoriumui, kuris saugo tos valdymo įmonės valdomus investicinius fondus sudarantį ar investicinių bendrovių turtą, ar kitiems asmenims, kurių interesai gali susikirsti su valdymo įmonės, investicinės bendrovės ar dalyvių interesais.“
 
-\#### 6 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas
+## 6 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Papildyti 7 straipsnio 1 dalį 14 punktu:
 
 „3. Asmuo, nusprendęs tiesiogiai ar netiesiogiai perleisti arba sumažinti jam priklausantį valdymo įmonės akcijų paketą, jeigu dėl planuojamo valdymo įmonės akcijų netekimo asmeniui priklausančių balsavimo teisių ar įstatinio kapitalo dalis pasiektų ar peržengtų mažėjimo tvarka 20 procentų, 30 procentų ar 50 procentų arba įmonė nustotų būti to juridinio asmens dukterine įmone, turi Vertybinių popierių komisijai pateikti rašytinį pranešimą ir nurodyti ketinamo perleisti ar sumažinti valdymo įmonės akcijų paketo dydį.“
 
-\#### 7 straipsnis. 15 straipsnio 1 ir 2 dalių pakeitimas
+## 7 straipsnis. 15 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Papildyti 7 straipsnio 1 dalį 14 punktu:
 
 „2. Vertybinių popierių komisija turi teisę skirti Administracinių teisės pažeidimų kodekse numatytas nuobaudas valdymo įmonės ar investicinės bendrovės vadovams ar darbuotojams.“
 
-\#### 8 straipsnis. 16 straipsnio 2 ir 3 dalių pakeitimas
+## 8 straipsnis. 16 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -110,13 +110,13 @@ Papildyti 7 straipsnio 1 dalį 14 punktu:
 
 „3. Sprendimas dėl poveikio priemonių taikymo gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo įvykdymo dienos, o esant tęstiniam ar trunkamajam pažeidimui – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.“
 
-\#### 9 straipsnis. 25 straipsnio pavadinimo pakeitimas
+## 9 straipsnis. 25 straipsnio pavadinimo pakeitimas
 
 25 straipsnio pavadinime prieš žodį „Siūlymas“ įrašyti žodį „Viešas“ ir šį pavadinimą išdėstyti taip:
 
 **„****25****straipsnis.****Viešas siūlymas ir reklama“.**
 
-\#### 10 straipsnis. 28 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 28 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 28 straipsnį ir jį išdėstyti taip:
 
@@ -126,19 +126,19 @@ Pakeisti ir papildyti 28 straipsnį ir jį išdėstyti taip:
 
 2. Depozitoriumas perima kolektyvinio investavimo subjekto valdymą laikotarpiui, kuriam sustabdoma valdymo įmonės teisė valdyti kolektyvinio investavimo subjektą. Tuo atveju, kai valdymo įmonės teisė valdyti kolektyvinio investavimo subjektą pasibaigia, depozitoriumas privalo perduoti valdymą kitai valdymo įmonei per 3 mėnesius nuo valdymo perėmimo. Per 3 mėnesius kitai valdymo įmonei neperduotas kolektyvinio investavimo subjektas turi būti likviduojamas (padalijamas).“
 
-\#### 11 straipsnis. 34 straipsnio 3 dalies pakeitimas
+## 11 straipsnis. 34 straipsnio 3 dalies pakeitimas
 
 Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Vadovaujantis šiuo įstatymu sudarytų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos gali būti platinami reguliuojamos rinkos ar daugiašalės prekybos sistemos operatoriaus ir (arba) atsiskaitymų sistemos techninėmis organizacinėmis priemonėmis Vertybinių popierių komisijos nustatyta tvarka. Reguliuojamos rinkos, daugiašalės prekybos sistemos ir atsiskaitymų sistemos operatorius privalo užtikrinti, kad sandorius dėl alternatyvaus kolektyvinio investavimo subjektų investicinių vienetų ar akcijų galėtų sudaryti tik profesionalieji investuotojai.“
 
-\#### 12 straipsnis. 65 straipsnio papildymas 4 dalimi
+## 12 straipsnis. 65 straipsnio papildymas 4 dalimi
 
 Papildyti 65 straipsnį 4 dalimi ir ją išdėstyti taip:
 
 „4. Uždaro tipo kolektyvinio investavimo subjektams šis įstatymas taikomas tiek, kiek šių santykių nereglamentuoja Vertybinių popierių įstatymas.“
 
-\#### 13 straipsnis. 71 straipsnio papildymas ir pakeitimas
+## 13 straipsnis. 71 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 71 straipsnį nauja 4 dalimi ir ją išdėstyti taip:
 
@@ -146,7 +146,7 @@ Papildyti 65 straipsnį 4 dalimi ir ją išdėstyti taip:
 
 2. Buvusias 71 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 14 straipsnis. 74 straipsnio 1 dalies papildymas ir pakeitimas
+## 14 straipsnis. 74 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 74 straipsnio 1 dalį nauju 6 punktu:
 
@@ -154,31 +154,31 @@ Papildyti 65 straipsnį 4 dalimi ir ją išdėstyti taip:
 
 2. Buvusį 74 straipsnio 1 dalies 6 punktą laikyti 7 punktu.
 
-\#### 15 straipsnis. 75 straipsnio 2 dalies pakeitimas
+## 15 straipsnis. 75 straipsnio 2 dalies pakeitimas
 
 Pakeisti 75 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Ne daugiau kaip 20 procentų nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų gali būti investuota į šio įstatymo 57 straipsnyje ir 71 straipsnio 4 dalyje nurodytas priemones laikantis šio įstatymo 58, 59, 61 ir 62 straipsniuose nustatytų reikalavimų.“
 
-\#### 16 straipsnis. 79 straipsnio 3 punkto pakeitimas
+## 16 straipsnis. 79 straipsnio 3 punkto pakeitimas
 
 Pakeisti 79 straipsnio 3 punktą jį išdėstyti taip:
 
 „3) kitos šio įstatymo 57, 61 ir 62 straipsniuose išvardytos investicinės priemonės ir finansinės priemonės, kurios įtrauktos į prekybą daugiašalėje prekybos sistemoje, tačiau nėraįtrauktos į prekybą šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose numatytus reikalavimus atitinkančiose rinkose.“
 
-\#### 17 straipsnis. 84 straipsnio 1 dalies papildymas 4 punktu
+## 17 straipsnis. 84 straipsnio 1 dalies papildymas 4 punktu
 
 Papildyti 84 straipsnio 1 dalį 4 punktu:
 
 „4) kitos finansinės priemonės, kurios įtrauktos į prekybą daugiašalėje prekybos sistemoje, tačiau nėra įtrauktos į prekybą šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose numatytus reikalavimus atitinkančiose rinkose.“
 
-\#### 18 straipsnis. 85 straipsnio 4 dalies pakeitimas
+## 18 straipsnis. 85 straipsnio 4 dalies pakeitimas
 
 Pakeisti 85 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Ne daugiau kaip 20 procentų subjekto turtą sudarančių grynųjų aktyvų gali būti investuota į šio įstatymo 57 straipsnyje ir 84 straipsnio 1 dalies 4 punkte nurodytas priemones, laikantis šio įstatymo 58, 59, 61 ir 62 straipsniuose nustatytų reikalavimų.“
 
-\#### 19 straipsnis. Įstatymo VIII skyriaus pavadinimo pakeitimas
+## 19 straipsnis. Įstatymo VIII skyriaus pavadinimo pakeitimas
 
 Pakeisti VIII skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti VIII skyriaus pavadinimą ir jį išdėstyti taip:
 
 INVESTICINIŲ VIENETŲ AR AKCIJŲ ĮTRAUKIMAS Į PREKYBĄ LIETUVOS RESPUBLIKOJE VEIKIANČIOJE REGULIUOJAMOJE RINKOJE IR (ARBA) DAUGIAŠALĖJE PREKYBOS SISTEMOJE“.
 
-\#### 20 straipsnis. 93 straipsnio pakeitimas
+## 20 straipsnis. 93 straipsnio pakeitimas
 
 Pakeisti 93 straipsnį ir jį išdėstyti taip:
 
@@ -198,7 +198,7 @@ Pakeisti 93 straipsnį ir jį išdėstyti taip:
 
 3. Valdymo įmonės valdymo organo ar investicinės bendrovės visuotinio akcininkų susirinkimo sprendimas įtraukti investicinės bendrovės akcijas ar investicinio fondo investicinius vienetus į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje taikomas visiems (ir po įtraukimo į prekybą reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje išleistiems) kolektyvinio investavimo subjekto investiciniams vienetams ar akcijoms.“
 
-\#### 21 straipsnis. 94 straipsnio pakeitimas
+## 21 straipsnis. 94 straipsnio pakeitimas
 
 Pakeisti 94 straipsnį ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ Pakeisti 94 straipsnį ir jį išdėstyti taip:
 
 Prekyba kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje vyksta pagal reguliuojamos rinkos ir (arba) daugiašalės prekybos sistemos taisykles.“
 
-\#### 22 straipsnis. 95 straipsnio pakeitimas
+## 22 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
@@ -234,7 +234,7 @@ Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
 7. Papildomi šio straipsnio 4 dalyje nurodytos informacijos pranešimo ir skelbimo reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje reikalavimai nurodyti reguliuojamos rinkos ir (arba) daugiašalės prekybos sistemos operatoriaus nustatytose taisyklėse.“
 
-\#### 23 straipsnis. 96 straipsnio pakeitimas
+## 23 straipsnis. 96 straipsnio pakeitimas
 
 Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
@@ -242,7 +242,7 @@ Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
 Kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos, kurie yra įtraukti į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje arba platinami reguliuojamos rinkos operatoriaus ir (arba) atsiskaitymų sistemos techninėmis organizacinėmis priemonėmis, turi būti traukiami į apskaitą pagal Vertybinių popierių komisijos patvirtintas taisykles.“
 
-\#### 24 straipsnis. 109 straipsnio pakeitimas
+## 24 straipsnis. 109 straipsnio pakeitimas
 
 Pakeisti 109 straipsnį ir jį išdėstyti taip:
 
@@ -260,7 +260,7 @@ Pakeisti 109 straipsnį ir jį išdėstyti taip:
 
 6. Šio straipsnio 5 dalyje nustatyti nurodymai neatima iš Vertybinių popierių komisijos teisės taikyti kitų šiame įstatyme nustatytų poveikio priemonių.“
 
-\#### 25 straipsnis. 110 straipsnio pakeitimas
+## 25 straipsnis. 110 straipsnio pakeitimas
 
 Pakeisti 110 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7C06B2CCB290"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7C06B2CCB290.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 1, 2, 3, 20, 23, 24, 25, 27, 28, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [73-3093](https://www.e-tar.lt/portal/lt/legalAct/TAR.C961DAD4DB40), Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5), Nr. [123-5592](https://www.e-tar.lt/portal/lt/legalAct/TAR.50C78CEF37AA); 2004, Nr. [73-2545](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F5AD6471BE); 2005, Nr. [43-1355](https://www.e-tar.lt/portal/lt/legalAct/TAR.09D05091487D), Nr. [143-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.0AA2765486A5))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies 2 punkto pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies 2 punkto pakeitimas
 
 Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) nekilnojamojo kultūros paveldo tyrimų ir kultūros paveldo statinių tvarkomųjų paveldosaugos darbų bei su jais susijusių procedūrų reikalavimus, kuriuos nustato Nekilnojamojo kultūros paveldo apsaugos įstatymas, išskyrus reikalavimus, nustatytus šio Įstatymo 4 straipsnio 1 dalyje ir 13 straipsnio 1 dalyje;“.
 
-\#### 2 straipsnis. 2 straipsnio 3, 12, 13, 17, 22, 32 ir 71 dalių pakeitimas
+## 2 straipsnis. 2 straipsnio 3, 12, 13, 17, 22, 32 ir 71 dalių pakeitimas
 
 1. 2 straipsnio 3 dalyje vietoj žodžių „statinys, kuris yra nekilnojamoji kultūros paveldo vertybė“ įrašyti žodžius „kultūros paveldo statinys“ ir šią dalį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „71. **Savavališka statinio statyba –**statinio (jo dalies) statyba be šio Įstatymo nustatyta tvarka gauto statybos leidimo arba statybos darbų vykdymas, kai statybos leidimas jau netekęs galios (nesudėtingo statinio atveju – neturint normatyviniuose statybos techniniuose dokumentuose nurodyto privalomojo dokumento ar kai šis dokumentas jau netekęs galios), taip pat kai teismas statybos leidimą pripažino neteisėtu; statinio (jo dalies) statyba turint galiojantį statybos leidimą (nesudėtingo statinio atveju – turint normatyviniuose statybos techniniuose dokumentuose nurodytą privalomąjį dokumentą), tačiau pažeidžiant esminius statinio projekto sprendinius, t. y. keičiama nustatyta statinio vieta sklype, sklypo, statinio ar jo dalių paskirtis, leistinas sklypo užstatymo tankis, leistinas statinio aukštis, nesilaikoma saugomos teritorijos apsaugos reglamento ar kultūros paveldo statinio laikinojo apsaugos reglamento nustatytų reikalavimų, taip pat paveldosaugos reikalavimų.“
 
-\#### 3 straipsnis. 3 straipsnio 2 dalies 2 punkto pakeitimas
+## 3 straipsnis. 3 straipsnio 2 dalies 2 punkto pakeitimas
 
 3 straipsnio 2 dalies 2 punkte išbraukti žodį „nekilnojamosios“, vietoj žodžių „vertybės tvarkymo“ įrašyti žodžius „statinio tvarkomųjų“ ir šį punktą išdėstyti taip:
 
 „2) statytojas turi nustatyta tvarka parengtą ir patvirtintą (kai tai privaloma) statinio projektą ar kultūros paveldo statinio tvarkomųjų statybos darbų projektą;“.
 
-\#### 4 straipsnis. 20 straipsnio 3 dalies 3 punkto, 7, 9 ir 15 dalių pakeitimas
+## 4 straipsnis. 20 straipsnio 3 dalies 3 punkto, 7, 9 ir 15 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „15. Privalomųjų statinio projekto rengimo dokumentų ir statinio projekto rengimo tvarką bei sudėtį nustato Vyriausybės įgaliota institucija, o kai vyksta kultūros paveldo statinių tvarkomieji statybos darbai ar statinių statyba kultūros paveldo objektų teritorijose, – ši institucija kartu su Kultūros ministerija.“
 
-\#### 5 straipsnis. 23 straipsnio 1, 2, 9, 14, 15, 18, 21, 22 dalių pakeitimas ir straipsnio papildymas 23 bei 24 dalimis
+## 5 straipsnis. 23 straipsnio 1, 2, 9, 14, 15, 18, 21, 22 dalių pakeitimas ir straipsnio papildymas 23 bei 24 dalimis
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „24. Statinio statyba be statybos leidimo, kai jis šio Įstatymo nustatytais atvejais yra privalomas, draudžiama.“
 
-\#### 6 straipsnis. 24 straipsnio 1 ir 2 dalių pakeitimas
+## 6 straipsnis. 24 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -148,13 +148,13 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „2. Pastatytų, rekonstruotų ar kapitališkai suremontuotų statinių pripažinimo tinkamais naudoti tvarką, reikalavimus ir komisijos sudėtį nustato Vyriausybės įgaliota institucija, ypatingų statinių su potencialiai pavojingais įrenginiais pripažinimo tinkamais naudoti tvarką – Vyriausybės įgaliota institucija, suderinusi su Vyriausybės paskirta institucija, atsakinga už atitinkamų potencialiai pavojingų įrenginių priežiūros kontrolę, o kai atliekami kultūros paveldo statinių tvarkomieji statybos darbai ar statinio statyba vykdoma kultūros paveldo objekto teritorijoje, – Vyriausybės įgaliota institucija kartu su Kultūros ministerija; branduolinės energetikos objektų pripažinimo tinkamais naudoti tvarką ir reikalavimus nustato Branduolinės energijos įstatymas.“
 
-\#### 7 straipsnis. 25 straipsnio 2 dalies 5 punkto pakeitimas
+## 7 straipsnis. 25 straipsnio 2 dalies 5 punkto pakeitimas
 
 25 straipsnio 2 dalies 5 punkte vietoj žodžių „nekilnojamosioms kultūros paveldo vertybėms priskirtame statinyje, jų teritorijose, apie avariją taip pat turi būti pranešta už nekilnojamųjų kultūros paveldo vertybių“ įrašyti žodžius „kultūros paveldo statinyje, kultūros paveldo objekto teritorijoje, apie avariją taip pat turi būti pranešta už nekilnojamojo kultūros paveldo“ ir šį punktą išdėstyti taip:
 
 „5) pranešti apie avariją savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui), apskrities viršininko administracijai, viešojo administravimo subjektui, atliekančiam statinio naudojimo priežiūrą; jei avarija įvyko statybos metu, – taip pat statytojui (užsakovui), statinio statybos techninės priežiūros vykdytojui ir statinio projektuotojui. Jeigu avarija įvyksta kultūros paveldo statinyje, kultūros paveldo objekto teritorijoje, apie avariją taip pat turi būti pranešta už nekilnojamojo kultūros paveldo apsaugą atsakingai institucijai, o jeigu įvyksta avarija, dėl kurios buvo (gali būti) užteršta aplinka, – už aplinkos apsaugą atsakingai institucijai;“.
 
-\#### 8 straipsnis. 27 straipsnio 4, 6, 7 ir 8 dalių pakeitimas ir papildymas
+## 8 straipsnis. 27 straipsnio 4, 6, 7 ir 8 dalių pakeitimas ir papildymas
 
 1. Pakeisti 27 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -180,7 +180,7 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „8. Viešojo administravimo subjektų, atliekančių statybos valstybinę priežiūrą, pareigūnai privalo būti atestuoti Vyriausybės įgaliotos institucijos nustatyta tvarka (patikrinama, ar jie yra susipažinę su šiuo Įstatymu ir kitais statybą reglamentuojančiais teisės aktais).“
 
-\#### 9 straipsnis. 28 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 9 straipsnis. 28 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. 28 straipsnio 1 dalies 1 punkte prieš žodį „surašo“ įrašyti žodžius „nedelsdami dviem egzemplioriais“ ir šį punktą išdėstyti taip:
 
@@ -206,7 +206,7 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „3. Jei statytojas (užsakovas) per nustatytą terminą neįvykdo šio straipsnio 2 dalies 1 punkte nurodyto reikalavimo, apskrities viršininko administracija ar Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos pagal šio Įstatymo 27 straipsnio 3, 4, 6, 7 dalyse apibrėžtą kompetenciją teikia teismui prašymą (pareiškimą) dėl įpareigojimų vykdymo.“
 
-\#### 10 straipsnis. 29 straipsnio 1 ir 6 dalių pakeitimas
+## 10 straipsnis. 29 straipsnio 1 ir 6 dalių pakeitimas
 
 1. 29 straipsnio 1 dalyje vietoj žodžių „Nekilnojamųjų kultūros vertybių tvarkymo“ įrašyti žodžius „Kultūros paveldo statinių tvarkomųjų“, vietoj žodžių „įgaliota institucija, atsakinga už nekilnojamųjų kultūros paveldo vertybių apsaugą“ įrašyti žodžius „Kultūros ministerija“ ir šią dalį išdėstyti taip:
 
@@ -216,23 +216,23 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „6. Statinio projekto ekspertizės, statinio ekspertizės rūšis ir atlikimo tvarką nustato Vyriausybės įgaliota institucija, o kultūros paveldo statinio tvarkomųjų statybos darbų projekto ekspertizės tvarką – Vyriausybės įgaliota institucija kartu su Kultūros ministerija.“
 
-\#### 11 straipsnis. 31 straipsnio 5 dalies pakeitimas
+## 11 straipsnis. 31 straipsnio 5 dalies pakeitimas
 
 31 straipsnio 5 dalyje vietoj žodžių „nekilnojamųjų kultūros vertybių tvarkymo darbai ar statinio statyba vykdomi šių kultūros vertybių teritorijoje, – Vyriausybės įgaliota institucija kartu su įgaliota institucija, atsakinga už nekilnojamųjų kultūros paveldo vertybių apsaugą“ įrašyti žodžius „atliekami kultūros paveldo statinio tvarkomieji statybos darbai ar statinio statyba vykdoma kultūros paveldo objekto teritorijoje, – Vyriausybės įgaliota institucija kartu su Kultūros ministerija“ ir šią dalį išdėstyti taip:
 
 „5. Statinio projekto vykdymo priežiūros tvarką nustato Vyriausybės įgaliota institucija, o kai atliekami kultūros paveldo statinio tvarkomieji statybos darbai ar statinio statyba vykdoma kultūros paveldo objekto teritorijoje, – Vyriausybės įgaliota institucija kartu su Kultūros ministerija.“
 
-\#### 12 straipsnis. 33 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios
+## 12 straipsnis. 33 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios
 
 33 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios.
 
-\#### 13 straipsnis. 34 straipsnio 1 dalies pakeitimas
+## 13 straipsnis. 34 straipsnio 1 dalies pakeitimas
 
 34 straipsnio 1 dalyje vietoj žodžių „perleidžiamos nekilnojamosios kultūros vertybės, – taip pat už nekilnojamųjų kultūros paveldo vertybių“ įrašyti žodžius „perleidžiami kultūros paveldo statiniai, – taip pat už nekilnojamojo kultūros paveldo“, žodį „įgaliotos“ išbraukti ir šią dalį išdėstyti taip:
 
 „1. Nebaigto statyti, rekonstruoti ar kapitališkai remontuoti statinio perleidimo kitam juridiniam ar fiziniam asmeniui sutartis gali būti notaro patvirtinta tik pateikus šio statinio statybos valstybinę priežiūrą atliekančio viešojo administravimo subjekto pažymą, kad statinys statomas, rekonstruojamas ar kapitališkai remontuojamas be esminių nukrypimų nuo statinio projekto (statinių, kuriems privalomas projekto tvirtinimas, – patvirtinto projekto), o kai perleidžiami kultūros paveldo statiniai, – taip pat už nekilnojamojo kultūros paveldo apsaugą atsakingos institucijos tokio pat turinio pažymą.“
 
-\#### 14 straipsnis. 35 straipsnio 1 dalies pakeitimas
+## 14 straipsnis. 35 straipsnio 1 dalies pakeitimas
 
 35 straipsnio 1 dalyje vietoj žodžių „nekilnojamąsias kultūros paveldo vertybes“ įrašyti žodžius „kultūros paveldo statinius“ ir šią dalį išdėstyti taip:
 
@@ -250,7 +250,7 @@ Pakeisti 1 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 6) kitais Civiliniame kodekse ir kituose įstatymuose numatytais atvejais.“
 
-\#### 15 straipsnis. Baigiamosios nuostatos
+## 15 straipsnis. Baigiamosios nuostatos
 
 Iki šio įstatymo įsigaliojimo dėl savavališkų statybų priimti administraciniai sprendimai vykdomi pagal šių sprendimų surašymo metu galiojusių teisės aktų nuostatas.
 

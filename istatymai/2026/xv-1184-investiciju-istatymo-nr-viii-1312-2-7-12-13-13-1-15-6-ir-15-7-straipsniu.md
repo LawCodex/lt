@@ -10,7 +10,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/61f2ab72b29911f199549e860daf070a"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/61f2ab72b29911f199549e860daf070a.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 7, 12, 13, 13-1, 15-6 ir 15-7 straipsnių pakeitimo įstatymas

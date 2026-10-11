@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2F50BD0343F4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2F50BD0343F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 24 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2004, Nr. [47-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.65C0438E6F29))
 
-\#### 1 straipsnis. 24 straipsnio pakeitimas
+## 1 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 Lietuvos Respublikos Vyriausybė, ministerijos, Vyriausybės ir kitos įstaigos, kurioms teisės aktuose pavesta rengti strateginio planavimo dokumentus, siekdamos įgyvendinti šio Įstatymo tikslus, alkoholio kontrolės priemones numato savo strateginio planavimo dokumentuose. Savivaldybių institucijos, siekdamos įgyvendinti šio Įstatymo tikslus, alkoholio kontrolės priemones numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.
 

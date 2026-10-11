@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.103565D95E60.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
@@ -1604,8 +1604,6 @@ Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 Priedo pakeitimai:
 
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
-
-part_b0c1f57e44e04b30bf2b6b748e01b5ee_end
 
 Pakeitimai:
 

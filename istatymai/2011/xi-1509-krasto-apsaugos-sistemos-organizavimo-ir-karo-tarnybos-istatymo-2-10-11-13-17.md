@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E94D27D4E4FD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E94D27D4E4FD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 10, 11, 13, 17, 21, 22, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 44, 47, 48, 49, 50, 54, 55, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 10-1, 32-1 straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2002, Nr. [95-4084](https://www.e-tar.lt/portal/lt/legalAct/TAR.19FA444F7992); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. 91(1)-4106; 2004, Nr. 4-28, Nr. 169-6215; 2005, Nr. 122-4362, Nr. 143-5183; 2006, Nr. 72-2679; 2007, Nr. 46-1718, Nr. 140-5759; 2008, Nr. 38-1377, Nr. 65-2457; 2009, Nr. 29-1142; 2010, Nr. 63-3099, Nr. 157-7970;2011, Nr. 46-2155)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -94,13 +94,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 30. Paieškos ir gelbėjimo rajonas suprantamas taip, kaip jis apibrėžiamas Saugios laivybos įstatyme; jūros rajonas ir vidaus vandenys suprantami taip, kaip jie apibrėžiami Jūros aplinkos apsaugos įstatyme.“
 
-\#### 2 straipsnis. 10 straipsnio 2 dalies 9 punkto pakeitimas
+## 2 straipsnis. 10 straipsnio 2 dalies 9 punkto pakeitimas
 
 Pakeisti 10 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip:
 
 „9) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kiekvienais metais, atsižvelgdamas į šio įstatymo 10¹ straipsnį, teikia Seimui pavasario sesijoje tvirtinti kitų metų principinę kariuomenės struktūrą, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius;“.
 
-\#### 3 straipsnis. Įstatymo papildymas 101 straipsniu
+## 3 straipsnis. Įstatymo papildymas 101 straipsniu
 
 Papildyti Įstatymą 10^1 straipsniu:
 
@@ -130,17 +130,17 @@ Papildyti Įstatymą 10^1 straipsniu:
 
 5. Parengtojo rezervo karinių vienetų struktūrą nustato krašto apsaugos ministras Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu.“
 
-\#### 4 straipsnis. 11 straipsnio 10 dalies pripažinimas netekusia galios
+## 4 straipsnis. 11 straipsnio 10 dalies pripažinimas netekusia galios
 
 11 straipsnio 10 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 13 straipsnio 7 dalies 15 punkto pakeitimas
+## 5 straipsnis. 13 straipsnio 7 dalies 15 punkto pakeitimas
 
 Pakeisti 13 straipsnio 7 dalies 15 punktą ir jį išdėstyti taip:
 
 „15) nustato kariuomenės personalo komplektavimo, mokymo ir profesinio rengimo reikalavimus, atsako už aktyviojo rezervo ir parengtojo rezervo karių rengimą ir jam pavaldžių karo mokymo įstaigų efektyvią veiklą;“.
 
-\#### 6 straipsnis. 17 straipsnio 4 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios
+## 6 straipsnis. 17 straipsnio 4 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios
 
 1. 17 straipsnio 4 dalyje išbraukti žodžius „ir kitų aktyviojo rezervo karių“ ir šią dalį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 13 straipsnio 7 dalies 15 punktą ir jį išdėstyti taip:
 
 2. 17 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 7 straipsnis. 21 straipsnio 7 dalies 1 ir 3 punktų pakeitimas
+## 7 straipsnis. 21 straipsnio 7 dalies 1 ir 3 punktų pakeitimas
 
 1. Pakeisti 21 straipsnio 7 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 13 straipsnio 7 dalies 15 punktą ir jį išdėstyti taip:
 
 „3) kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai – nuo to momento, kai pagal tarnybos ar karinių mokymų įsakymą atvyksta į paskirtą vietą ir prisistato kariniam viršininkui;“.
 
-\#### 8 straipsnis. 22 straipsnio pakeitimas
+## 8 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 4. Kariui savanoriui ar kitam aktyviojo rezervo kariui, pavyzdingai ištarnavusiam ne mažiau kaip 10 metų arba ypač pasižymėjusiam vykdant tarnybos užduotis, gali būti suteiktas atitinkamai Garbės savanorio ar Aktyviojo rezervo garbės kario vardas. Garbės savanorio ar Aktyviojo rezervo garbės kario vardo suteikimo ir Garbės ženklo nuostatus tvirtina krašto apsaugos ministras.“
 
-\#### 9 straipsnis. 23 straipsnio 1 ir 4 dalių pakeitimas
+## 9 straipsnis. 23 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -188,7 +188,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 3) kariai savanoriai ir kiti aktyviojo rezervo kariai, jeigu jie nėra davę Lietuvos kario priesaikos anksčiau, – pasibaigus kario savanorio ar kito aktyviojo rezervo kario bandomajam terminui.“
 
-\#### 10 straipsnis. 28 straipsnio 2 dalies ir 4 dalies 5 punkto pakeitimas
+## 10 straipsnis. 28 straipsnio 2 dalies ir 4 dalies 5 punkto pakeitimas
 
 1. Pakeisti 28 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -198,7 +198,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 „5) asmenys, kurie per paskutinius 5 metus dėl priežasčių, susijusių su priesaikos sulaužymu, buvo pašalinti iš valstybės politiko pareigų, atleisti iš tikrosios karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos.“
 
-\#### 11 straipsnis. 29 straipsnio pakeitimas
+## 11 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -222,7 +222,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 6. Iki kario savanorio ar aktyviojo rezervo kario sutarties sudarymo krašto apsaugos sistemos institucijos patikrina į tarnybą priimamo asmens anketos duomenis ir aplinkybes, kurios galėtų būti kliūtimis savanorių karo tarnybai ar kitai tarnybai aktyviajame rezerve atlikti.“
 
-\#### 12 straipsnis. 30 straipsnio pakeitimas
+## 12 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -230,13 +230,13 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 Į privalomąją karo tarnybą Lietuvos Respublikos piliečiai šaukiami Karo prievolės įstatymo nustatytomis sąlygomis ir tvarka.“
 
-\#### 13 straipsnis. 31 straipsnio 2 dalies 2 punkto pakeitimas
+## 13 straipsnis. 31 straipsnio 2 dalies 2 punkto pakeitimas
 
 Pakeisti 31 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) su priimamais į profesinę karo tarnybą kariais, baigusiais puskarininkių mokyklą, su nustatytus karinės kvalifikacijos reikalavimus atitinkančiais atsargos kariais, kariais savanoriais ar kitais aktyviojo rezervo kariais, taip pat parengtojo rezervo kariais ir kariuomenei reikalingais specialistais – ne ilgesniam kaip 5 metų laikotarpiui ir ne ilgesniam terminui, kaip iki tos dienos, kai kariui sukaks šio įstatymo 45 straipsnio 4 dalyje nustatyti išleidimo į atsargą metai;“.
 
-\#### 14 straipsnis. 32 straipsnio pakeitimas
+## 14 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -250,7 +250,7 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 4. Kario savanorio sutarties formą ir sutarties sudarymo tvarką nustato krašto apsaugos ministras.“
 
-\#### 15 straipsnis. Įstatymo papildymas 321 straipsniu
+## 15 straipsnis. Įstatymo papildymas 321 straipsniu
 
 Papildyti Įstatymą 32^1 straipsniu:
 
@@ -264,7 +264,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 4. Aktyviojo rezervo kario sutarties formą ir sutarties sudarymo tvarką nustato krašto apsaugos ministras.“
 
-\#### 16 straipsnis. 34 straipsnio pavadinimo ir 4 dalies pakeitimas
+## 16 straipsnis. 34 straipsnio pavadinimo ir 4 dalies pakeitimas
 
 1. Pakeisti 34 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -274,7 +274,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „4. Priimant asmenis į savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve, nustatomas iki 6 mėnesių bandomasis laikotarpis.“
 
-\#### 17 straipsnis. 36 straipsnio 1, 4 ir 11 dalių pakeitimas
+## 17 straipsnis. 36 straipsnio 1, 4 ir 11 dalių pakeitimas
 
 1. Pakeisti 36 straipsnio 1 dalies pirmąją pastraipą ir ją išdėstyti taip:
 
@@ -288,7 +288,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „11. Profesinėje karo tarnyboje negali tarnauti Lietuvos Respublikos piliečiai, kurie gauna kitų šalių valstybines pensijas už tarnybą tų šalių karinėse ar joms prilygintose struktūrose. Krašto apsaugos ministras turi teisę neatsižvelgdamas į asmens amžių priimti į profesinę karo tarnybą ne ilgiau kaip 5 metams arba įrašyti į parengtąjį kariuomenės personalo rezervą Lietuvos Respublikos piliečius, tarnavusius profesinės tarnybos kariais valstybių Šiaurės Atlanto Sutarties Organizacijos (NATO) narių karinėse ar joms prilygintose struktūrose ir gaunančius tų šalių karinę pensiją.“
 
-\#### 18 straipsnis. 37 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 18 straipsnis. 37 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. Pakeisti 37 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -298,7 +298,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „1. Karys, sudaręs profesinės karo tarnybos sutartį, karys savanoris ar kitas aktyviojo rezervo karys, sudaręs kario savanorio ar aktyviojo rezervo kario sutartį, savo iniciatyva gali nutraukti tarnybą prieš sutartyje įsipareigotą terminą tik krašto apsaugos ministro nustatyta tvarka ir jo sprendimu dėl pripažintų svarbių priežasčių.“
 
-\#### 19 straipsnis. 38 straipsnio pavadinimo, 1, 2, 3 ir 4 dalių pakeitimas
+## 19 straipsnis. 38 straipsnio pavadinimo, 1, 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 38 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -324,7 +324,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „4. Teisę nutraukti profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kariosutartį šiame straipsnyje nustatytais pagrindais turi krašto apsaugos ministras arba jo įgalioti kariuomenės vadas bei kiti vadai ar pareigūnai.“
 
-\#### 20 straipsnis. 44 straipsnio 2, 3 ir 5 dalių pakeitimas
+## 20 straipsnis. 44 straipsnio 2, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 44 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -338,7 +338,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „5. Nutraukdamas profesinės karo tarnybos kario, kario savanorio ar aktyviojo rezervo kario sutartį prieš terminą, karys privalo atlyginti jam išduotos karinės aprangos likutinę vertę, išskyrus atvejus, kai jis išleidžiamas į atsargą paliekant jam teisę nešioti uniformą.“
 
-\#### 21 straipsnis. 47 straipsnio 2 ir 3 dalių pakeitimas
+## 21 straipsnis. 47 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 47 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -358,7 +358,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „3. Perkelti į dimisiją atsargos kariai išbraukiami iš karinės įskaitos ir į tikrąją karo tarnybą paskelbus mobilizaciją nešaukiami.“
 
-\#### 22 straipsnis. 48 straipsnio 2 ir 3 dalių pakeitimas
+## 22 straipsnis. 48 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 48 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -368,7 +368,7 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „3. Jeigu teismas nustato, kad asmuo yra atleistas iš profesinės karo tarnybos, savanorių karo tarnybos ar kitos tarnybos aktyviajame rezerve be šiame įstatyme numatyto pagrindo, teismas gali jį grąžinti į profesinę karo tarnybą, savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve. Teismo grąžintas į profesinę karo tarnybą, savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve asmuo skiriamas į pareigas ar į laikinąjį profesinės karo tarnybos personalo rezervą karo tarnybą reglamentuojančių teisės aktų nustatyta tvarka, jam atlyginama už visą priverstinio nebuvimo tarnyboje laiką.“
 
-\#### 23 straipsnis. 49 straipsnio 1 ir 2 dalių pakeitimas
+## 23 straipsnis. 49 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 49 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -378,13 +378,13 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 „2. Profesinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, taip pat kariūnų tarnybos ir aprūpinimo stažuotės ar mokymosi laikotarpiu sąlygas nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 24 straipsnis. 50 straipsnio 6 dalies pakeitimas
+## 24 straipsnis. 50 straipsnio 6 dalies pakeitimas
 
 Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių pažymėjimuose yra šio straipsnio 4 ir 5 dalyse nurodyti įrašai, taip pat atleistiems iš tarnybos dėl priežasčių, susijusių su priesaikos sulaužymu, teisė iškilmingomis progomis nešioti atsargos kario uniformą nesuteikiama.“
 
-\#### 25 straipsnis. 54 straipsnio pakeitimas
+## 25 straipsnis. 54 straipsnio pakeitimas
 
 1. Pripažinti 54 straipsnio 12 dalį netekusia galios.
 
@@ -402,13 +402,13 @@ Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „14. Lietuvos Respublikos piliečiui, turinčiam vidaus reikalų sistemos institucijų ar Valstybės saugumo departamento pareigūno tarnybinį laipsnį ir priimtam į profesinę karo tarnybą, savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve, karinis laipsnis suteikiamas pagal kariuomenės reikalavimus, neatsižvelgiant į turimą tarnybinį laipsnį.“
 
-\#### 26 straipsnis. 55 straipsnio 6 dalies pakeitimas
+## 26 straipsnis. 55 straipsnio 6 dalies pakeitimas
 
 55 straipsnio 6 dalyje vietoj žodžių „ar įrašomiems į kariuomenės aktyviojo rezervo įskaitą“ įrašyti žodžius „savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve“ ir šią dalį išdėstyti taip:
 
 „6. Šio įstatymo 54 straipsnio 12, 14 ir 15 dalyse numatytais atvejais karininkų laipsnius iki pulkininko (jūrų kapitono) imtinai suteikia krašto apsaugos ministras kariuomenės vado teikimu, o priimamiems į profesinę karo tarnybą, savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve Lietuvos Respublikos piliečiams šio įstatymo 36 straipsnio 11 dalyje numatytais atvejais – patariamosios komisijos teikimu.“
 
-\#### 27 straipsnis. 59 straipsnio pakeitimas ir papildymas
+## 27 straipsnis. 59 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 59 straipsnio 11 dalį ir ją išdėstyti taip:
 
@@ -432,19 +432,19 @@ Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip:
 
 6. Buvusias 59 straipsnio 13–16 dalis laikyti atitinkamai 16–19 dalimis.
 
-\#### 28 straipsnis. 60 straipsnio 7 dalies pakeitimas
+## 28 straipsnis. 60 straipsnio 7 dalies pakeitimas
 
 Pakeisti 60 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Kariams savanoriams ir kitiems aktyviojo rezervo kariams, taip pat parengtojo rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, iš Krašto apsaugos ministerijos biudžete šiems tikslams skirtų asignavimų už tarnybos dienas mokamas atlyginimas. Tarnybą rezerve atliekančių karių atlyginimo dydžius nustato Vyriausybė.“
 
-\#### 29 straipsnis. 62 straipsnio pakeitimas
+## 29 straipsnis. 62 straipsnio pakeitimas
 
 1. 62 straipsnio 3 dalį pripažinti netekusia galios.
 
 2. Buvusias 62 straipsnio 4–8 dalis laikyti atitinkamai 3–7 dalimis.
 
-\#### 30 straipsnis. 63 straipsnio 3 ir 13 dalių pakeitimas
+## 30 straipsnis. 63 straipsnio 3 ir 13 dalių pakeitimas
 
 1. Pakeisti 63 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -454,7 +454,7 @@ Pakeisti 60 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „13. Kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.“
 
-\#### 31 straipsnis. 64 straipsnio 1, 4 ir 7 dalių pakeitimas
+## 31 straipsnis. 64 straipsnio 1, 4 ir 7 dalių pakeitimas
 
 1. 64 straipsnio 1 dalyje po žodžio „Privalomąją“ įrašyti žodį „pradinę“ ir šią dalį išdėstyti taip:
 
@@ -468,7 +468,7 @@ Pakeisti 60 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Kariams savanoriams ir kitiems aktyviojo rezervo kariams, taip pat parengtojo rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, iš Krašto apsaugos ministerijai skirtų lėšųVyriausybės arba jos įgaliotos institucijos nustatyta tvarka atlyginamos kelionės išlaidos vykti į tarnybą ir grįžti iš jos, taip pat kelionės išlaidos vykdyti tarnybines pareigas.“
 
-\#### 32 straipsnis. 65 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 32 straipsnis. 65 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -482,7 +482,7 @@ Pakeisti 60 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „3. Krašto apsaugos ministerija organizuoja šio straipsnio 1 ir 2 dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros įstaigas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka.“
 
-\#### 33 straipsnis. 66 straipsnio pakeitimas
+## 33 straipsnis. 66 straipsnio pakeitimas
 
 Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
@@ -508,7 +508,7 @@ Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
 7. Karo metu karių draudimo pagal šį straipsnį sąlygos negalioja.“
 
-\#### 34 straipsnis. 67 straipsnio pavadinimo, 1, 2, 3 ir 13 dalių pakeitimas
+## 34 straipsnis. 67 straipsnio pavadinimo, 1, 2, 3 ir 13 dalių pakeitimas
 
 1. 67 straipsnio pavadinime vietoj žodžių „ar sveikatos sutrikimo“ įrašyti žodžius „ligos ar sveikatos problemos“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -530,13 +530,13 @@ Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
 „13. Krašto apsaugos ministerija teisės aktų nustatyta tvarka gali drausti savo civilinę atsakomybę kario žūties ir jo ligos ar sveikatos problemos atvejais.“
 
-\#### 35 straipsnis. 68 straipsnio 3 dalies pakeitimas
+## 35 straipsnis. 68 straipsnio 3 dalies pakeitimas
 
 Pakeisti 68 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Tapusiam laikinai nedarbingu pašauktam į pratybas, mokymus arba kitų tarnybos užduočių vykdymo metu nedirbančiam ir neturinčiam kitų draudžiamųjų pajamų kariui savanoriui ar kitam aktyviojo rezervo kariui, taip pat parengtojo rezervo kariui laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų mokama 100 procentų mėnesinio tarnybą rezerve atliekančio kario tarnybinio atlyginimo dydžio laikinojo nedarbingumo pašalpa.“
 
-\#### 36 straipsnis. 69 straipsnio 1 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas
+## 36 straipsnis. 69 straipsnio 1 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas
 
 1. 69 straipsnio 1 dalį pripažinti netekusia galios.
 
@@ -548,11 +548,11 @@ Pakeisti 68 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2) kariui savanoriui ar kitam aktyviojo rezervo kariui, ištarnavusiam daugiau kaip 10 metų, – iki 3 Vyriausybės nustatytų tarnybą rezerve atliekančio kario mėnesinių tarnybinių atlyginimų dydžio.“
 
-\#### 37 straipsnis. Įstatymo įsigaliojimas
+## 37 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 38 straipsnį, įsigalioja 2011 m. rugsėjo 1 d.
 
-\#### 38 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms institucijoms
+## 38 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms institucijoms
 
 Lietuvos Respublikos Vyriausybė ir kitos institucijos pagal savo kompetenciją iki šio įstatymo įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
 

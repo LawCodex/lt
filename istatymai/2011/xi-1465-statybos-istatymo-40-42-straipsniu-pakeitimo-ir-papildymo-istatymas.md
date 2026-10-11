@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9565093748BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9565093748BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 40, 42 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 2009, Nr. [144-6352](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9F34394E9C6); 2010, Nr. [84-4401](https://www.e-tar.lt/portal/lt/legalAct/TAR.B762CFB3EC0F); 2011, Nr. [62-2937](https://www.e-tar.lt/portal/lt/legalAct/TAR.5260A77FF6F8))
 
-\#### 1 straipsnis. 40 straipsnio 6 punkto pakeitimas
+## 1 straipsnis. 40 straipsnio 6 punkto pakeitimas
 
 Pakeisti 40 straipsnio 6 punktą ir jį išdėstyti taip:
 
 „6) leisti statinių naudojimo priežiūrą atliekančių viešojo administravimo subjektų pareigūnams, atliekantiems savo funkcijas, įstatymų nustatyta tvarka patekti į naudojamą statinį, butą ir kitas gyvenamąsias patalpas ir apžiūrėti juos; pateikti šiems pareigūnams su statinio, buto ir kitų gyvenamųjų patalpų naudojimu ir jų technine priežiūra susijusius dokumentus.“
 
-\#### 2 straipsnis. 42 straipsnio 3 dalies papildymas 6, 7 punktais ir straipsnio papildymas 7 dalimi
+## 2 straipsnis. 42 straipsnio 3 dalies papildymas 6, 7 punktais ir straipsnio papildymas 7 dalimi
 
 1. Papildyti 42 straipsnio 3 dalį 6 punktu:
 
@@ -50,7 +50,7 @@ Pakeisti 40 straipsnio 6 punktą ir jį išdėstyti taip:
 
 „7. Viešojo administravimo subjektų, atliekančių statinių naudojimo priežiūrą, prašymai dėl teismo leidimo įeiti į butus ir (ar) kitas gyvenamąsias patalpasnagrinėjami Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. rugsėjo 1 d.
 

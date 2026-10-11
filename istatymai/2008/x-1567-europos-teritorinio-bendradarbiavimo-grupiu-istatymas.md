@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1D06A1CBB5AE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D06A1CBB5AE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Europos teritorinio bendradarbiavimo grupių įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS EUROPOS TERITORINIO BENDRADARBIAVIMO GRUPIŲ ĮSTATYMAS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo tikslas ir paskirtis
+## 1 straipsnis. Įstatymo tikslas ir paskirtis
 
 1. Šis įstatymas užtikrina Europos Parlamento ir Tarybos reglamento dėl Europos teritorinio bendradarbiavimo grupės (ETBG) (toliau – Reglamentas), nurodyto šio įstatymo priede, taikymą.
 
@@ -30,7 +30,7 @@ Vilnius
 
 3. ETBG mutatis mutandis taikomos Lietuvos Respublikos civilinio kodekso normos, reglamentuojančios viešuosius juridinius asmenis, kiek tai leidžia Reglamentas ir kiek kitaip nenumatyta Reglamente bei šiame įstatyme.
 
-\#### 2 straipsnis. ETBG
+## 2 straipsnis. ETBG
 
 1. ETBG yra viešasis juridinis asmuo.
 
@@ -40,7 +40,7 @@ Vilnius
 
 4. ETBG narių įnašai yra ETBG nuosavybė.
 
-\#### 3 straipsnis. ETBG nariai
+## 3 straipsnis. ETBG nariai
 
 1. Įregistravus ETBG Juridinių asmenų registre, įnašą ETBG perdavęs steigėjas tampa ETBG nariu.
 
@@ -50,17 +50,17 @@ Vilnius
 
 4. Lietuvos Respublikoje įregistruotų juridinių asmenų – ETBG narių – atsakomybė už ETBG prievoles yra ribota.
 
-\#### 4 straipsnis. ETBG susitarimas
+## 4 straipsnis. ETBG susitarimas
 
 1. ETBG steigimo teisinis pagrindas yra ETBG steigėjų pasirašytas ETBG susitarimas.
 
 2. Steigiamos ETBG susitarimas pateikiamas Juridinių asmenų registrui kartu su kitais Reglamente ir Lietuvos Respublikos civiliniame kodekse nurodytais dokumentais.
 
-\#### 5 straipsnis. ETBG vykdomos užduotys
+## 5 straipsnis. ETBG vykdomos užduotys
 
 ETBG užduotys, kurios yra vykdomos neteikiant Bendrijos paramos, gali apimti tik tuos bendradarbiavimo veiksmus, kurie išvardyti 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1080/2006 dėl Europos regioninės plėtros fondo ir panaikinančio Reglamentą (EB) Nr. 1783/1999 6 straipsnyje.
 
-\#### 6 straipsnis. ETBG buhalterinė apskaita, finansinių ataskaitų rinkinys ir kontrolė
+## 6 straipsnis. ETBG buhalterinė apskaita, finansinių ataskaitų rinkinys ir kontrolė
 
 1. ETBG buhalterinė apskaita tvarkoma ir finansinių ataskaitų rinkinys sudaromas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
@@ -72,19 +72,19 @@ ETBG užduotys, kurios yra vykdomos neteikiant Bendrijos paramos, gali apimti ti
 
 5. Valstybės ir savivaldybių kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti ETBG veiklą.
 
-\#### 7 straipsnis. ETBG pertvarkymas ir reorganizavimas
+## 7 straipsnis. ETBG pertvarkymas ir reorganizavimas
 
 1. ETBG negali būti pertvarkoma.
 
 2. ETBG gali būti reorganizuojama Lietuvos Respublikos civiliniame kodekse nustatytais būdais ir tvarka.
 
-\#### 8 straipsnis. ETBG likvidavimas
+## 8 straipsnis. ETBG likvidavimas
 
 1. ETBG likviduojama, kai yra Lietuvos Respublikos civiliniame kodekse numatyti pagrindai.
 
 2. ETBG taip pat likviduojama, jeigu Lietuvos Respublikos Vyriausybės nustatyta tvarka Lietuvos Respublikos vidaus reikalų ministerija nustato, kad ETBG nebeatitinka Reglamento 1 straipsnio 2 dalyje ir 7 straipsnyje nustatytų reikalavimų, ir priima sprendimą įpareigoti ETBG ištaisyti padėtį, ir ši padėtis nėra ištaisoma. Tokiu atveju Lietuvos Respublikos vidaus reikalų ministerija kreipiasi į teismą dėl ETBG likvidavimo ir likvidatoriaus paskyrimo.
 
-\#### 9 straipsnis. Užsienyje registruotos ETBG veiklos uždraudimas
+## 9 straipsnis. Užsienyje registruotos ETBG veiklos uždraudimas
 
 1. Lietuvos Respublikos vidaus reikalų ministerija savo iniciatyva arba suinteresuotos institucijos prašymu gali kreiptis į Vilniaus apygardos teismą su prašymu uždrausti ne Lietuvos Respublikoje registruotos ETBG veiklą Lietuvos Respublikos teritorijoje, jeigu ETBG vykdo užduotis, kurios prieštarauja Lietuvos Respublikos nuostatoms dėl viešosios tvarkos, visuomenės saugumo, visuomenės sveikatos ar visuomenės dorovės arba prieštarauja Lietuvos Respublikos viešajam interesui, arba su prašymu įpareigoti pagal Lietuvos Respublikos teisę įsteigtus narius pasitraukti iš šios ETBG.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.54A0C21F0C79"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.54A0C21F0C79.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 96, 97 ir 101 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 2002, Nr. [17-649](https://www.e-tar.lt/portal/lt/legalAct/TAR.390AEF086CE3); 2008, Nr. [81-3186](https://www.e-tar.lt/portal/lt/legalAct/TAR.C297668F27C1))
 
-\#### 1 straipsnis. 96 straipsnio pakeitimas
+## 1 straipsnis. 96 straipsnio pakeitimas
 
 96 straipsnio pavadinime ir 1 dalyje vietoj žodžių „darbo užmokestis“ įrašyti žodį „atlyginimas“, 2 dalyje vietoj žodžių „darbo užmokestį“ įrašyti žodį „atlyginimą“ ir visą straipsnį išdėstyti taip:
 
@@ -34,13 +34,13 @@ Vilnius
 
 2. Teisėjo darbo teisme metu draudžiama mažinti teisėjo atlyginimą, išskyrus šio Įstatymo numatytus atvejus, ar kitas socialines garantijas.“
 
-\#### 2 straipsnis. 97 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 97 straipsnio 2 dalies pakeitimas
 
 Pakeisti 97 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Į teisėjo darbo stažą atostogų trukmei nustatyti įskaitomas ir darbo Lietuvos Respublikos Konstitucinio Teismo teisėju, prokuroru, prokuroro pavaduotoju, prokuratūros tardytoju, ikiteisminio tyrimo pareigūnu (tardytoju), valstybiniu arbitru stažas, darbo valstybės tarnyboje stažas, taip pat asmenų, turinčių teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį, pedagoginis darbo stažas.“
 
-\#### 3 straipsnis. 101 straipsnio 1 ir 3 dalių pakeitimas
+## 3 straipsnis. 101 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 101 straipsnio 1 dalyje vietoj žodžių „darbo užmokesčio“ įrašyti žodį „atlyginimo“, vietoj žodžio „pašalpa“ įrašyti žodį „išmoka“ ir šią dalį išdėstyti taip:
 

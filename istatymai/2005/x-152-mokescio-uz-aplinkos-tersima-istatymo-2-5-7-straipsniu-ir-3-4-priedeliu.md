@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C676166A3124"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C676166A3124.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 7 straipsnių ir 3, 4 priedėlių papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [47-1469](https://www.e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE); 2002, Nr. [13-474](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E966DA54042), Nr. [123-5550](https://www.e-tar.lt/portal/lt/legalAct/TAR.EAD7BC4DB706); 2003, Nr. [48-2108](https://www.e-tar.lt/portal/lt/legalAct/TAR.07C6FA6CC42B); 2004, Nr. [25-746](https://www.e-tar.lt/portal/lt/legalAct/TAR.FCBCC2BA2B28), Nr. [61-2188](https://www.e-tar.lt/portal/lt/legalAct/TAR.2F2B455B6D12))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „18. **Gaminių ir pakuotės atliekų naudojimo ir (ar) perdirbimo užduotys** – Vyriausybės ir (ar) jos įgaliotos institucijos nustatytas atitinkamų gaminių ir pakuotės atliekų naudojimo ir (ar) perdirbimo kiekis, išreikštas procentais nuo mokesčio mokėtojo per mokestinį laikotarpį pagaminto ir (ar) įvežto bei išleisto į vidaus rinką visos pakuotės ir (ar) apmokestinamųjų gaminių kiekio.“
 
-\#### 2 straipsnis. 5 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 5 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 4. Buvusias 5 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis.
 
-\#### 3 straipsnis. 7 straipsnio 2 ir 3 dalių pakeitimas
+## 3 straipsnis. 7 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Vilnius
 
 „3. Mokestis už aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą deklaracijos formos Aplinkos ministerijos įgaliotai institucijai ir Valstybinei mokesčių inspekcijai pateikiamos ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos.“
 
-\#### 4 straipsnis. 3 priedėlio pakeitimas
+## 4 straipsnis. 3 priedėlio pakeitimas
 
 Pakeisti 3 priedėlį ir jį išdėstyti taip:
 
@@ -92,31 +92,20 @@ Pakeisti 3 priedėlį ir jį išdėstyti taip:
 
 APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
 
-\| Gaminys | Kodas1 | Tarifas |
+| Gaminys | Kodas1 | Tarifas |
+| --- | --- | --- |
+| 1. Padangos, sveriančios daugiau kaip 3 kg: |  |  |
+| 1.1. naujos | ex40.11 | 0,30 Lt už 1 kg |
+| 1.2. restauruotos | ex40.12 | 0,30 Lt už 1 kg |
+| 1.3. naudotos | ex40.12 | 0,36 Lt už 1 kg |
+| 2. Akumuliatoriai, naudojami transporto priemonėse | ex85.07 | 0,50 Lt už 1 kg |
+| 3. Gyvsidabrio lempos | 8539.32.10 | 15% lempos didmeninės kainos |
+| 4. Galvaniniai elementai ir akumuliatoriai, išskyrus nurodytus 2 punkte | 8506.30; ex85.07 | 4% didmeninės kainos |
+| 5. Vidaus degimo variklių degalų arba tepalų filtrai | 8421.23 | 1 Lt už vienetą |
+| 6. Vidaus degimo variklių įsiurbimo oro filtrai | 8421.31 | 1 Lt už vienetą |
+| 7. Automobilių hidrauliniai (tepaliniai) amortizatoriai | 8708.80 | 3 Lt už vienetą |
 
-\| --- | --- | --- |
-
-\| 1. Padangos, sveriančios daugiau kaip 3 kg: | | |
-
-\| 1.1. naujos | ex40.11 | 0,30 Lt už 1 kg |
-
-\| 1.2. restauruotos | ex40.12 | 0,30 Lt už 1 kg |
-
-\| 1.3. naudotos | ex40.12 | 0,36 Lt už 1 kg |
-
-\| 2. Akumuliatoriai, naudojami transporto priemonėse | ex85.07 | 0,50 Lt už 1 kg |
-
-\| 3. Gyvsidabrio lempos | 8539.32.10 | 15% lempos didmeninės kainos |
-
-\| 4. Galvaniniai elementai ir akumuliatoriai, išskyrus nurodytus 2 punkte | 8506.30; ex85.07 | 4% didmeninės kainos |
-
-\| 5. Vidaus degimo variklių degalų arba tepalų filtrai | 8421.23 | 1 Lt už vienetą |
-
-\| 6. Vidaus degimo variklių įsiurbimo oro filtrai | 8421.31 | 1 Lt už vienetą |
-
-\| 7. Automobilių hidrauliniai (tepaliniai) amortizatoriai | 8708.80 | 3 Lt už vienetą |
-
-\#### 5 straipsnis. 4 priedėlio pakeitimas
+## 5 straipsnis. 4 priedėlio pakeitimas
 
 Pakeisti 4 priedėlį ir jį išdėstyti taip:
 
@@ -130,23 +119,16 @@ Pakeisti 4 priedėlį ir jį išdėstyti taip:
 
 APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
 
-\| Pakuotės rūšys | Tarifai |
+| Pakuotės rūšys | Tarifai |
+| --- | --- |
+| 1. Stiklinė pakuotė | 0,09 Lt/kg pakuotės svorio |
+| 2. Plastmasinė pakuotė | 1,8 Lt/kg pakuotės svorio |
+| 3. Kombinuota pakuotė | 2 Lt/kg pakuotės svorio |
+| 4. Metalinė pakuotė | 2,60 Lt/kg pakuotės svorio |
+| 5. Popierinė ir kartoninė pakuotė | 0,1 Lt/kg pakuotės svorio |
+| 6. Kita pakuotė | 0,2 Lt/kg pakuotės svorio“ |
 
-\| --- | --- |
-
-\| 1. Stiklinė pakuotė | 0,09 Lt/kg pakuotės svorio |
-
-\| 2. Plastmasinė pakuotė | 1,8 Lt/kg pakuotės svorio |
-
-\| 3. Kombinuota pakuotė | 2 Lt/kg pakuotės svorio |
-
-\| 4. Metalinė pakuotė | 2,60 Lt/kg pakuotės svorio |
-
-\| 5. Popierinė ir kartoninė pakuotė | 0,1 Lt/kg pakuotės svorio |
-
-\| 6. Kita pakuotė | 0,2 Lt/kg pakuotės svorio“ |
-
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnio 1, 4 dalys, 2 straipsnio 1, 2 dalys ir 5 straipsnis įsigalioja nuo 2006 m. sausio 1 d.
 

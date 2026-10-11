@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/340b34e07e7211e6b969d7ae07280e89"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.340B34E07E72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 8, 9 straipsnių, ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios įstatymas

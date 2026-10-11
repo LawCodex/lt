@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B919F567D54C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B919F567D54C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 1.1, 6.350, 6.366, 6.367, 6.369, 6.370 straipsnių pakeitimo ir papildymo ir Kodekso papildymo priedu įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB))
 
-\#### 1 straipsnis. 1.1 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 1.1 straipsnio papildymas 4 dalimi
 
 Papildyti 1.1 straipsnį 4 dalimi:
 
 „4. Šio kodekso nuostatos yra suderintos su Europos Sąjungos teisės aktų, nurodytų šio kodekso priede, nuostatomis.“
 
-\#### 2 straipsnis. 6.350 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 6.350 straipsnio 3 dalies pakeitimas
 
 Pakeisti 6.350 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pardavėjui draudžiama vykdyti pirkėjui nesąžiningą komercinę veiklą. Nesąžiningos komercinės veiklos rūšis ir atvejus nustato įstatymai.“
 
-\#### 3 straipsnis. 6.366 straipsnio pakeitimas
+## 3 straipsnis. 6.366 straipsnio pakeitimas
 
 Pakeisti 6.366 straipsnį ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 6.366 straipsnį ir jį išdėstyti taip:
 
 11. Jeigu pardavėjas nevykdo savo sutartinių įsipareigojimų, kadangi negali gauti pirkėjo užsakytų daiktų, jis nedelsdamas apie tai informuoja pirkėją ir kuo greičiau, bet ne vėliau kaip per trisdešimt kalendorinių dienų nuo tos dienos, kurią sužinojo arba turėjo sužinoti, kad negali gauti pirkėjo užsakytų daiktų, grąžina pirkėjui įmokėtas sumas.“
 
-\#### 4 straipsnis. 6.367 straipsnio 1, 2 ir 4 dalių pakeitimas
+## 4 straipsnis. 6.367 straipsnio 1, 2 ir 4 dalių pakeitimas
 
 1. 6.367 straipsnio 1 dalyje po žodžių „turi teisę“ įrašyti žodžius „nenurodydamas priežasties“ ir šią dalį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti 6.366 straipsnį ir jį išdėstyti taip:
 
 5) prekių, kurios buvo gaminamos pagal pirkėjo individualų užsakymą arba yra akivaizdžiai jam pritaikytos, arba kurios dėl savo prigimties po jų pateikimo pirkėjui nebegali būti grąžintos dėl prekinių savybių praradimo (netekimo), yra greitai gendančios arba baigiasi jų galiojimo laikas.“
 
-\#### 5 straipsnis. 6.369 straipsnio pakeitimas
+## 5 straipsnis. 6.369 straipsnio pakeitimas
 
 Pakeisti 6.369 straipsnį ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 6.369 straipsnį ir jį išdėstyti taip:
 
 15. Pirkėjo atsisakymas teisių, kurios jam suteiktos pagal šį straipsnį ir pagal šio kodekso 6.370 straipsnį, negalioja.“
 
-\#### 6 straipsnis. 6.370 straipsnio pakeitimas
+## 6 straipsnis. 6.370 straipsnio pakeitimas
 
 Pakeisti 6.370 straipsnį ir jį išdėstyti taip:
 
@@ -198,7 +198,7 @@ Pakeisti 6.370 straipsnį ir jį išdėstyti taip:
 
 9. Jeigu sudaryta ilgalaikio atostogų produkto sutartis, pirkėjas po antros ar vėlesnės įmokos sumokėjimo ir vėliau turi teisę nutraukti sutartį, apie tai pranešdamas pardavėjui ne vėliau kaip per keturiolika dienų nuo pranešimo apie įmokos sumokėjimą gavimo dienos, nemokėdamas baudos ir nepatirdamas kitų papildomų išlaidų.“
 
-\#### 7 straipsnis. Kodekso papildymas priedu
+## 7 straipsnis. Kodekso papildymas priedu
 
 Papildyti Kodeksą priedu:
 
@@ -212,11 +212,11 @@ priedas
 
 1. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais (OL 2009 L 33, p. 10).“
 
-\#### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo parengia ir patvirtina jam įgyvendinti reikalingus teisės aktus.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 8 straipsnį, įsigalioja 2011 m. gruodžio 1 d.
 

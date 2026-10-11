@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e396fb006d6411e8bbc2876081bf7fb5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E396FB006D64.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6 ir 14 straipsnių pakeitimo įstatymas

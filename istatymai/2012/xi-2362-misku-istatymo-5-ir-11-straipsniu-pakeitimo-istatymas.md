@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B8EDC56ADAB9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B8EDC56ADAB9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 5 ir 11 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981); 2003, Nr. [123-5593](https://www.e-tar.lt/portal/lt/legalAct/TAR.7501477AA243); 2005, Nr. [31-977](https://www.e-tar.lt/portal/lt/legalAct/TAR.C456F906EDA1); 2011, Nr. [74-3548](https://www.e-tar.lt/portal/lt/legalAct/TAR.B37C11B10EEE), Nr. [163-7744](https://www.e-tar.lt/portal/lt/legalAct/TAR.D057322CDAA3))
 
-\#### 1 straipsnis. 5 straipsnio 3 dalies 4 punkto pakeitimas
+## 1 straipsnis. 5 straipsnio 3 dalies 4 punkto pakeitimas
 
 Pakeisti 5 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) Aplinkos ministerijos nustatyta tvarka išduoda leidimus kirsti mišką miško valdytojams ir naudotojams, įskaitant servituto turėtojus tais atvejais, kai miško kirtimas yra būtinas įgyvendinant servituto suteikiamas teises pagal teritorijų planavimo dokumentų sprendinius;“.
 
-\#### 2 straipsnis. 11 straipsnio 2 dalies 4 punkto, 4 ir 9 dalių pakeitimas
+## 2 straipsnis. 11 straipsnio 2 dalies 4 punkto, 4 ir 9 dalių pakeitimas
 
 1. Pakeisti 11 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 5 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „9. Privačios miško žemės savininkai, organizuojantys privačios miško žemės pavertimą kitomis naudmenomis, privalo Vyriausybės nustatyta tvarka nuosavybės teise priklausančioje žemėje įveisti mišką ne mažesniame plote negu kitomis naudmenomis paverčiamos miško žemės plotas arba sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę kompensaciją. Privačią miško žemę paverčiant kitomis naudmenomis III grupės miškuose, įveisiamo miško plotas turi būti ne mažesnis negu dvigubo dydžio kitomis naudmenomis paverčiamos miško žemės sklypo plotas, II grupės miškuose – ne mažesnis negu trigubo dydžio kitomis naudmenomis paverčiamos miško žemės sklypo plotas. Privačios miško žemės naudotojai, įskaitant servituto turėtojus, organizuojantys privačios miško žemės pavertimą kitomis naudmenomis, privalo sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę kompensaciją.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. kovo 1 d.
 

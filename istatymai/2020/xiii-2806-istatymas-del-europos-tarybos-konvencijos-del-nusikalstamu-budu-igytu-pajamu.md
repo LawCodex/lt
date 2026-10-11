@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/cbf654c0499311ea8aceeadd0c5b168c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CBF654C04993.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Tarybos konvencijos dėl nusikalstamu būdu įgytų pajamų plovimo, paieškos, arešto ir konfiskavimo bei terorizmo finansavimo ratifikavimo
@@ -26,15 +26,15 @@ DĖL EUROPOS TARYBOS KONVENCIJOS DĖL NUSIKALSTAMU BŪDU ĮGYTŲ PAJAMŲ PLOVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2019 m. lapkričio 13 d. dekretą Nr. 1K-123, ratifikuoja su išlyga ir pareiškimais 2005 m. gegužės 16 d. Varšuvoje priimtą Europos Tarybos konvenciją dėl nusikalstamu būdu įgytų pajamų plovimo, paieškos, arešto ir konfiskavimo bei terorizmo finansavimo.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlyga
+## 2 straipsnis. Lietuvos Respublikos išlyga
 
 Vadovaudamasis Konvencijos 53 straipsnio 2 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika nelaiko savęs įsipareigojusia pagal Konvencijos 9 straipsnio 6 dalį.
 
-\#### 3 straipsnis. Lietuvos Respublikos pareiškimai
+## 3 straipsnis. Lietuvos Respublikos pareiškimai
 
 Lietuvos Respublikos Seimas pareiškia, kad:
 

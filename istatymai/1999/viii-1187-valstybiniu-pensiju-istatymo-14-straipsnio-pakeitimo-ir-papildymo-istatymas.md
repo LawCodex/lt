@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0CBA6E821C1D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0CBA6E821C1D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. 01-2018; 1995, Nr. 9-1476, Nr. 02-2282; 1996, Nr. 3-1750; 1997, Nr. 04-2622; 1998, Nr. 14-3192, Nr. 15-3235)
 
-\#### 1 straipsnis. 14 straipsnio papildymas 3, 4 dalimis ir 6 dalies pakeitimas
+## 1 straipsnis. 14 straipsnio papildymas 3, 4 dalimis ir 6 dalies pakeitimas
 
 1. Papildyti 14 straipsnį naujomis 3 ir 4 dalimis:
 
@@ -42,7 +42,7 @@ Nukentėjusių asmenų valstybinė našlių ir našlaičių pensija skiriama ir 
 
 „Šio straipsnio penktojojedalyje nurodytų asmenų sutuoktiniams ir vaikams nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta Valstybinių socialinio draudimo pensijų įstatymo straipsniuose, reglamentuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinių pensijų bazės.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1999 m. liepos 1 d.
 

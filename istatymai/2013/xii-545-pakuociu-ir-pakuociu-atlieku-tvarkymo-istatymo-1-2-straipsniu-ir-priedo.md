@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3D5876170F8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3D5876170F8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2001, Nr. [85-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518); 2005, Nr. [86-3206](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FBA9263E5AE); 2011, Nr. [138-6526](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C297D07FCEC); 2012, Nr. [6-191](https://www.e-tar.lt/portal/lt/legalAct/TAR.502659EE6565))
 
-\#### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šis įstatymas skirtas Įstatymo 2 priede nurodytiems Europos Sąjungos teisės aktams įgyvendinti.“
 
-\#### 2 straipsnis. 2 straipsnio 21 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 21 dalies pakeitimas
 
 Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 
 3) pakuotę sudarantys pakuotės komponentai ir pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai, tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos dalys yra skirtos kartu naudoti ir pašalinti (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo 3 punkte).“
 
-\#### 3 straipsnis. Įstatymo papildymas nauju 1 priedu
+## 3 straipsnis. Įstatymo papildymas nauju 1 priedu
 
 Papildyti Įstatymą nauju 1 priedu:
 
@@ -166,7 +166,7 @@ LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2 STRA
 
 3.3.1. radijo dažnio atpažinimo žymenys.“
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
 

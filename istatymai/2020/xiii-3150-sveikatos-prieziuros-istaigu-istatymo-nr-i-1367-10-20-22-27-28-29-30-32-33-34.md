@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5f37d110c05811ea9815f635b9c0dcef"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5F37D110C058.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 20, 22, 27, 28, 29, 30, 32, 33, 34, 35, 37, 38, 46, 55, 56 straipsnių pakeitimo ir 31 straipsnio pripažinimo netekusiu galios įstatymas

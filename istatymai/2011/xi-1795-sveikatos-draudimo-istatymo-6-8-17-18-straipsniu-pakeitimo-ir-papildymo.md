@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1EE0B2E40D81"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1EE0B2E40D81.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6, 8, 17, 18 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2003, Nr. [113-5058](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6E07E950C5B); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239), Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62), Nr. [171-6325](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A9D53671BAE), Nr. [188-7002](https://www.e-tar.lt/portal/lt/legalAct/TAR.41AE07789F2A); 2005, Nr. [61-2159](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB690AFBE93), Nr. [86-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.61D84FD9FC5C), Nr. [144-5236](https://www.e-tar.lt/portal/lt/legalAct/TAR.A084FA4B0D41); 2006, Nr. [57-2023](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4EF4E7BE664); 2008, Nr. [135-5239](https://www.e-tar.lt/portal/lt/legalAct/TAR.1866A40EE952), Nr. [149-6022](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB86E35BB7CC); 2009, Nr. [25-985](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF9D15015A1), Nr. [93-3983](https://www.e-tar.lt/portal/lt/legalAct/TAR.C06792A3BA03); 2010, Nr. [86-4518](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB375D575BB2), Nr. [137-6998](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F5AC0F4CE58), Nr. [137-7004](https://www.e-tar.lt/portal/lt/legalAct/TAR.BA19362945FE), Nr. [145-7422](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1D18BB4FFCD))
 
-\#### 1 straipsnis. 6 straipsnio 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 6 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 6 straipsnio 3 dalies 1 punkte po skaičiaus „1“ išbraukti žodį „ir“, po skaičiaus „3“ įrašyti žodį ir skaičių „ir 6“ ir šį punktą išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti arba už kuriuos mokamos sveikatos draudimo įmokos pagal šio Įstatymo 17 straipsnio 1, 2, 3, 4, 5, 6 ir 8 dalis), laikomi:“.
 
-\#### 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 8 straipsnio 1 dalyje po skaičiaus „1“ išbraukti žodį „ir“, po skaičiaus „2“ įrašyti žodį ir skaičių „ir 6“ ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „2. Asmenų, nurodytų šio Įstatymo 17 straipsnio 3, 4, 5, 7 ir 9 dalyse, privalomasis sveikatos draudimas įsigalioja kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos arba jie patys mokėjo privalomojo sveikatos draudimo įmokas, arba nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką. 3 minimaliųjų mėnesinių algų dydžio įmokos sumokėjimas neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.“
 
-\#### 3 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 1. 17 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios.
 
@@ -72,7 +72,7 @@ Vilnius
 
 „11. Fizinių asmenų, nurodytų šio straipsnio 4 dalyje, metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 9 procentai nuo 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną. Šio straipsnio 4 dalyje nurodytų fizinių asmenų, kurie verčiasi individualia ne žemės ūkio veikla, metinė privalomojo sveikatos draudimo įmoka nuo individualios veiklos pajamų skaičiuojama nuo sumos, ne didesnės kaip 48 Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma. Šio straipsnio 4 dalyje nurodytų fizinių asmenų, kurie verčiasi individualia žemės ūkio veikla, metinė privalomojo sveikatos draudimo įmoka nuo šios individualios veiklos pajamų skaičiuojama nuo sumos, ne didesnės kaip 12 Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma.“
 
-\#### 4 straipsnis. 18 straipsnio 2, 3, 4 ir 6 dalių pakeitimas
+## 4 straipsnis. 18 straipsnio 2, 3, 4 ir 6 dalių pakeitimas
 
 1. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Vilnius
 
 „6. Asmenys, nurodyti šio Įstatymo 17 straipsnio 5 dalyje, šio Įstatymo 17 straipsnio 5 dalyje nurodytas sveikatos draudimo įmokas už mėnesius, už kuriuos jie moka ir (arba) už juos yra mokamos šio Įstatymo 17 straipsnio 1, 2 ar 6 dalyse nurodytos privalomojo sveikatos draudimo įmokos, arba jie yra asmenys, išvardyti šio Įstatymo 6 straipsnio 4 dalyje, turi teisę sumokėti kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

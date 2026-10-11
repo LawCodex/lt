@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8F55F746B114"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8F55F746B114.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl 1977 m. Europos konvencijos dėl kovos su terorizmu ratifikavimo
@@ -26,7 +26,7 @@ DĖL 1977 M. EUROPOS KONVENCIJOS DĖL KOVOS SU TERORIZMU RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1977 m. sausio 27 d. Europos konvenciją dėl kovos su terorizmu“, ratifikuoja 1977 m. sausio 27 d. Europos konvenciją dėl kovos su terorizmu, pasirašytą 1996 m. birželio 7 d. (pridedama).
 
@@ -60,7 +60,7 @@ būdamos įsitikinusios, kad ekstradicija yra ypač veiksminga priemonė šiam r
 
 susitarė, kad:
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Ekstradicijos tarp Susitariančiųjų šalių tikslais nė vienas iš paminėtų nusikaltimų nebus laikomas politiniu nusikaltimu arba su politiniu nusikaltimu susijusiu nusikaltimu, arba nusikaltimu, padarytu politiniais motyvais:
 
@@ -76,7 +76,7 @@ e) nusikaltimai, kurių metu panaudojamos minos, granatos, raketos, automatiniai
 
 f) pasikėsinimas padaryti kurį nors iš aukščiau minėtų nusikaltimų arba bendrininkavimas padarant arba bandant padaryti tokį nusikaltimą.
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 1. Ekstradicijos tarp Susitariančiųjų šalių tikslais Susitariančioji šalis gali nuspręsti smurtinio nusikaltimo nepripažinti politiniu nusikaltimu, su politiniu nusikaltimu susijusiu nusikaltimu arba politiniais motyvais padarytu nusikaltimu, išskyrus 1 straipsnyje numatytus nusikaltimus asmens gyvybei, fizinei neliečiamybei ar laisvei.
 
@@ -84,29 +84,29 @@ f) pasikėsinimas padaryti kurį nors iš aukščiau minėtų nusikaltimų arba 
 
 3. Tai taikoma pasikėsinimo padaryti bet kurį aukščiau minėtą nusikaltimą arba bendrininkavimo darant arba bandant padaryti tokį nusikaltimą atžvilgiu.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Susitariančiųjų šalių galiojančios ekstradicijos sutartys ir susitarimai, tarp jų Europos konvencija dėl ekstradicijos, taikomos tiek, kiek jos neprieštarauja šiai Konvencijai.
 
-\#### 4 straipsnis
+## 4 straipsnis
 
 Jei 1 ar 2 straipsniuose išvardyti nusikaltimai nėra išvardyti kaip nusikaltimai, už kuriuos pagal Susitariančiųjų šalių sudarytas ekstradicijos konvencijas ar sutartis yra taikoma ekstradicija, šios Konvencijos tikslais jie yra laikomi nusikaltimais, kuriuos apima aukščiau minėti susitarimai.
 
-\#### 5 straipsnis
+## 5 straipsnis
 
 Jokia šios Konvencijos nuostata neįpareigoja taikyti ekstradicijos, jei Prašomoji valstybė turi svarų pagrindą manyti, kad išduoti asmenį už 1 arba 2 straipsniuose minėtus nusikaltimus prašoma jo baudžiamojo persekiojimo ar nubaudimo dėl jo rasės, religijos, pilietybės ar politinės nuomonės tikslais arba jei šiuo pagrindu gali būti neigiamai įtakojama to asmens padėtis.
 
-\#### 6 straipsnis
+## 6 straipsnis
 
 1. Kiekviena Susitariančioji šalis imasi visų priemonių, būtinų, kad už 1 straipsnyje paminėtą nusikaltimą būtų galima taikyti jos jurisdikcijoje galiojančius baudžiamuosius įstatymus, jei įtariamas nusikaltėlis yra jos teritorijoje ir jei, gavusi Susitariančiosios valstybės, kurios jurisdikcija yra pagrįsta tokiomis pačiomis kaip ir Prašomosios valstybės įstatymuose esančiomis teisingumo vykdymo normomis, prašymą išduoti, jo neišduoda.
 
 2. Ši Konvencija neapriboja baudžiamosios jurisdikcijos, vykdomos pagal nacionalinius įstatymus.
 
-\#### 7 straipsnis
+## 7 straipsnis
 
 Jei Susitariančioji valstybė, kurios teritorijoje aptinkamas asmuo, įtariamas padaręs 1 straipsnyje paminėtą nusikaltimą, gavusi prašymą išduoti pagal 6 straipsnio 1 punkte minėtas sąlygas, šio asmens neišduoda, ji be jokių išimčių ir nedelsdama perduoda bylą savo kompetentingoms įstaigoms. Šios įstaigos kvalifikuoja veiką sunkiu nusikaltimu, kaip tai numato tos valstybės įstatymai.
 
-\#### 8 straipsnis
+## 8 straipsnis
 
 1. Susitariančiosios valstybės teikia viena kitai įvairiapusę pagalbą baudžiamosiose bylose, susijusiose su baudžiamuoju persekiojimu, pradėtu dėl 1 arba 2 straipsniuose minėtų nusikaltimų. Visais atvejais taikomi Prašomosios valstybės įstatymai dėl savitarpio pagalbos baudžiamosiose bylose. Tačiau suteikti šią pagalbą negali būti atsisakoma vien tuo pagrindu, kad ji susijusi su politiniu nusikaltimu arba su politiniu nusikaltimu susijusiu nusikaltimu, arba su politiniais motyvais padarytu nusikaltimu.
 
@@ -114,19 +114,19 @@ Jei Susitariančioji valstybė, kurios teritorijoje aptinkamas asmuo, įtariamas
 
 3. Susitariančiųjų valstybių visų taikomų sutarčių ar susitarimų dėl savitarpio pagalbos baudžiamosiose bylose, tarp jų Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose, nuostatos galioja Susitariančiosiose valstybėse tiek, kiek jos neprieštarauja šiai Konvencijai.
 
-\#### 9 straipsnis
+## 9 straipsnis
 
 1. Europos nusikalstamumo problemų komitetas informuojamas apie šios Konvencijos taikymą.
 
 2. Jis atlieka visa, kas reikalinga visiems dėl šios Konvencijos vykdymo iškylantiems sunkumams taikiai išspręsti.
 
-\#### 10 straipsnis
+## 10 straipsnis
 
 1. Visi Susitariančiųjų valstybių ginčai dėl šios Konvencijos aiškinimo ar taikymo, kurie nebuvo išspręsti vadovaujantis 9 straipsnio 2 punktu, bet kurios ginčo Šalies prašymu perduodami arbitražui. Kiekviena Šalis skiria arbitrą, o du arbitrai skiria referentą. Jei per trijų mėnesių laikotarpį nuo prašymo pradėti arbitražą pateikimo kuri nors Šalis nėra paskyrusi savo arbitro, jį kitos Šalies prašymu skiria Europos žmogaus teisių teismo prezidentas. Jei jis yra vienos iš ginčo Šalių gyventojas, šią pareigą vykdo Teismo viceprezidentas arba, jei viceprezidentas yra vienos iš ginčo Šalių gyventojas, vyriausiasis Teismo teisėjas, nesantis nė vienos iš ginčo Šalių gyventoju. Tos pačios procedūros laikomasi, jei arbitrai negali susitarti dėl referento kandidatūros.
 
 2. Arbitražas nustato savo veiklos procedūrines taisykles. Jo sprendimai priimami balsų dauguma. Arbitražo sprendimas yra galutinis.
 
-\#### 11 straipsnis
+## 11 straipsnis
 
 1. Šią Konvenciją pasirašo Valstybės, Europos Tarybos narės. Ji ratifikuojama, prie jos prisijungiama arba ji patvirtinama. Ratifikavimo raštai, prisijungimo arba patvirtinimo dokumentai deponuojami Europos Tarybos Generaliniam Sekretoriui.
 
@@ -134,7 +134,7 @@ Jei Susitariančioji valstybė, kurios teritorijoje aptinkamas asmuo, įtariamas
 
 3. Vėliau ratifikuojančios, prisijungiančios ar patvirtinančios Valstybės, šios Konvencijos signatarės, atžvilgiu Konvencija įsigalioja praėjus trims mėnesiams nuo ratifikavimo raštų, prisijungimo ar patvirtinimo dokumentų deponavimo dienos.
 
-\#### 12 straipsnis
+## 12 straipsnis
 
 1. Kiekviena valstybė Konvencijos ratifikavimo metu arba deponuodama ratifikavimo raštus, prisijungimo arba patvirtinimo dokumentus gali apibrėžti teritoriją ar teritorijas, kuriose taikoma ši Konvencija.
 
@@ -142,7 +142,7 @@ Jei Susitariančioji valstybė, kurios teritorijoje aptinkamas asmuo, įtariamas
 
 3. Kiekvienas pagal aukščiau esantį punktą pateiktas pareiškimas bet kurios jame minimos teritorijos atžvilgiu Europos Tarybos Generaliniam Sekretoriui adresuotu pareiškimu gali būti atšauktas. Toks atšaukimas įsigalioja iš karto arba pareiškime nurodytą dieną.
 
-\#### 13 straipsnis
+## 13 straipsnis
 
 1. Kiekviena valstybė šios Konvencijos pasirašymo metu arba ratifikavimo raštų, prisijungimo ar patvirtinimo dokumentų deponavimo metu gali pareikšti, kad ji pasilieka teisę atsisakyti taikyti ekstradiciją dėl 1 straipsnyje minėto nusikaltimo, kurį ji laiko politiniu nusikaltimu, su politiniu nusikaltimu susijusiu nusikaltimu ar politiniais motyvais padarytu nusikaltimu, su sąlyga, kad ji įsipareigoja kvalifikuodama nusikalstamą veiką tinkamai atsižvelgti į ypač rimtus nusikaltimo aspektus, tarp jų:
 
@@ -156,15 +156,15 @@ c) nusikaltimas padarytas žiauriu būdu arba žiauriomis priemonėmis.
 
 3. Pagal šio straipsnio 1 punktą padariusi išlygą valstybė negali reikalauti, kad 1 straipsnį taikytų kita valstybė; tačiau jei jos išlyga yra dalinė arba sąlyginė, ji gali reikalauti, kad šis straipsnis būtų taikomas tiek, kiek ji pati taiko.
 
-\#### 14 straipsnis
+## 14 straipsnis
 
 Pateikusi Europos Tarybos Generaliniam Sekretoriui rašytinį pranešimą, kiekviena Susitariančioji valstybė gali denonsuoti šią Konvenciją. Toks denonsavimas įsigalioja iš karto arba pranešime nurodytą dieną.
 
-\#### 15 straipsnis
+## 15 straipsnis
 
 Šios Konvencijos galiojimas baigiasi kiekvienos Susitariančiosios valstybės, kuri išstoja iš Europos Tarybos arba nutraukia narystę joje, atžvilgiu.
 
-\#### 16 straipsnis
+## 16 straipsnis
 
 Europos Tarybos Generalinis Sekretorius praneša valstybėms, Europos Tarybos narėms, apie:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.64E7997DADB5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.64E7997DADB5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 2, 10, 12, 15, 17, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1997, Nr. [65-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4); 1999, Nr. [48-1522](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F8B117346DA); 2000, Nr. [89-2753](https://www.e-tar.lt/portal/lt/legalAct/TAR.055246A056A0); 2001, Nr. [71-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.88B95BAFAD55), Nr. [108-3904](https://www.e-tar.lt/portal/lt/legalAct/TAR.8937DA604013); 2002, Nr. [5-161](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF38D543B3BA), Nr. [40-1464](https://www.e-tar.lt/portal/lt/legalAct/TAR.EF2985211EF2), Nr. [41-1526](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A5C5BD12DF), Nr. [102-4552](https://www.e-tar.lt/portal/lt/legalAct/TAR.589B558A2903), Nr. [112-4965](https://www.e-tar.lt/portal/lt/legalAct/TAR.2117BD8F47B7); 2003, Nr. [64-2880](https://www.e-tar.lt/portal/lt/legalAct/TAR.0639335F5E79))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies papildymas 5 punktu
+## 1 straipsnis. 2 straipsnio 1 dalies papildymas 5 punktu
 
 Papildyti 2 straipsnio 1 dalį 5 punktu:
 
 „5) asmenims, kuriems turtas perleistas nesilaikant įstatymo nustatytos formos ir tvarkos testamentu (naminiu testamentu) arba sutartimis (pirkimo-pardavimo, dovanojimo ar kitokiu rašytiniu dokumentu), taip pat asmenims, kuriems nuosavybės teisių perėmėjai testamentu paliko turtą. Norintys atkurti nuosavybės teises piliečiai turi kreiptis į teismą dėl juridinę reikšmę turinčio fakto nustatymo.“
 
-\#### 2 straipsnis. 10 straipsnio papildymas 5 dalimi
+## 2 straipsnis. 10 straipsnio papildymas 5 dalimi
 
 Papildyti 10 straipsnį 5 dalimi:
 
 „5. Jeigu piliečiai iki šio straipsnio 4 dalyje nurodytos datos kreipėsi į teismą dėl juridinę reikšmę turinčio fakto nustatymo, o teismo sprendimas, nustatantis juridinę reikšmę turintį faktą, priimtas po nurodytos datos, laikoma, kad piliečiai nuosavybės teises patvirtinančius dokumentus pateikė laiku.“
 
-\#### 3 straipsnis. 12 straipsnio 12 ir 13 punktų pakeitimas
+## 3 straipsnis. 12 straipsnio 12 ir 13 punktų pakeitimas
 
 1. 12 straipsnio 12 punkte vietoj žodžių „Aplinkos ministerija, suderinusi su savivaldybės meru ir apskrities viršininku“ įrašyti žodį „Vyriausybė“ ir šį punktą išdėstyti taip:
 
@@ -50,7 +50,7 @@ Papildyti 10 straipsnį 5 dalimi:
 
 „13) užimta gyvenamųjų namų, jų dalių, butų, kurie pagal šio įstatymo 15 straipsnįpriskirti valstybės išperkamiems. Šių žemės sklypų, jų dalių plotai ir ribos nustatomi teritorijų planavimo dokumentuose.“
 
-\#### 4 straipsnis. 15 straipsnio pakeitimas
+## 4 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -66,13 +66,13 @@ Gyvenamieji namai, jų dalys, butai valstybės išperkami iš šio įstatymo 2 s
 
 4) piliečiai nesutinka su šio Įstatymo 20 straipsnio 2 dalyje nustatytu reikalavimu išnuomoti grąžintiną jiems gyvenamąjį namą, jo dalį, butą, kuriame gyvena nuomininkai.“
 
-\#### 5 straipsnis. 17 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 17 straipsnio 2 dalies pakeitimas
 
 17 straipsnio 2 dalyje vietoj žodžių „miesto, rajono savivaldybės meras (valdyba)“ įrašyti žodžius „savivaldybės vykdomoji institucija“ ir šią dalį išdėstyti taip:
 
 „2. Piliečių prašymus atkurti nuosavybės teises į gyvenamuosius namus, jų dalis, butus, ūkinės komercinės paskirties pastatus Vyriausybės nustatyta tvarka nagrinėja savivaldybės vykdomoji institucijaar kita Vyriausybės įgaliota institucija.“
 
-\#### 6 straipsnis. 20 straipsnio pakeitimas
+## 6 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 7. Šio straipsnio nuostatos galioja ir pasikeitus namo, jo dalies, buto savininkui.“
 
-\#### 7 straipsnis. 21 straipsnio 7 dalies pakeitimas ir papildymas nauja 4 dalimi
+## 7 straipsnis. 21 straipsnio 7 dalies pakeitimas ir papildymas nauja 4 dalimi
 
 1. Pakeisti 21 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 3. Buvusias 21 straipsnio 4, 5, 6, 7, 8 dalis laikyti atitinkamai 5, 6, 7, 8, 9 dalimis.
 
-\#### 8 straipsnis. Baigiamosios nuostatos
+## 8 straipsnis. Baigiamosios nuostatos
 
 Jeigu priėmus sprendimus atkurti nuosavybės teises sugrąžintų gyvenamųjų namų, jų dalių, butų savininkams ir nuomininkams valstybės garantiniai dokumentai iki šio Įstatymo įsigaliojimo nebuvo išduoti, jie išduodami ne vėliau kaip per 3 mėnesius nuo šio Įstatymo įsigaliojimo.
 

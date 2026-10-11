@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.203BD3B78E9B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.203BD3B78E9B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymo 4 straipsnio pakeitimo ir papildymo, Geležinkelių transporto kodekso 3, 4, 6, 7, 10, 11, 12, 13, 16, 19, 28, 30, 48 straipsnių ir priedo pakeitimo ir papildymo bei kodekso papildymo 30(1 )straipsniu įstatymas
@@ -26,13 +26,11 @@ GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATY
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS IR PAPILDYMAS
+## PIRMASIS SKIRSNIS. GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2004, Nr. [72-2489](https://www.e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B))
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ir papildymas 3 dalimi
+### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ir papildymas 3 dalimi
 
 1. 4 straipsnio 2 dalyje išbraukti antrą sakinį ir šią dalį išdėstyti taip:
 
@@ -42,13 +40,11 @@ GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATY
 
 „3. Geležinkelių transporto kodeksas netaikomas siauriesiems geležinkeliams (600 mm ir 750 mm pločio vėžė).“
 
-\### ANTRASIS SKIRSNIS
-
-GELEŽINKELIŲ TRANSPORTO KODEKSO 3, 4, 6, 7, 10, 11, 12, 13, 16, 19, 28, 30, 48 STRAIPSNIŲ IR PRIEDO PAKEITIMAS IR PAPILDYMAS BEI KODEKSO PAPILDYMAS 301 STRAIPSNIU
+## ANTRASIS SKIRSNIS. GELEŽINKELIŲ TRANSPORTO KODEKSO 3, 4, 6, 7, 10, 11, 12, 13, 16, 19, 28, 30, 48 STRAIPSNIŲ IR PRIEDO PAKEITIMAS IR PAPILDYMAS BEI KODEKSO PAPILDYMAS 301 STRAIPSNIU
 
 (Žin., 2004, Nr. [72-2489](https://www.e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+### 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -120,7 +116,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 33. Kitos šiame Kodekse vartojamos sąvokos paaiškintos Transporto veiklos pagrindų įstatyme ir Geležinkelių transporto eismo saugos įstatyme.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+### 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +134,7 @@ Geležinkelių transporto veiklos principai yra šie:
 
 5) su krovinių vežimo geležinkelių transportu paslaugų teikimu susijusią finansinę atskaitomybę tvarko geležinkelio įmonės (vežėjai). Lėšos, skiriamos verstis keleivių vežimo geležinkelių transportu ūkine komercine veikla, turi būti laikomos atskirose sąskaitose atskirai ir negali būti perkeliamos prie lėšų, kurios skiriamos verstis kita geležinkelių transporto ūkine komercine veikla.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+### 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -146,7 +142,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 Lietuvos Respublikos geležinkelių infrastruktūros ir geležinkelių riedmenų priežiūros, eismo organizavimo, valdymo, kontrolės ir priežiūros, saugos sertifikavimo, geležinkelių transporto eismo įvykių tyrimo bendruosius principus, reikalavimus darbuotojams, kurių darbas susijęs su traukinių eismu, bendruosius geležinkelių transporto eismo saugos tikslus ir būdus, eismo saugos valdymo sistemų steigimo, nacionalinių eismo saugos taisyklių sąrašo sudarymo, atnaujinimo ir skelbimo tvarką, eismo saugos valdymo sistemų reikalavimus bei eismo saugos institucijos kompetenciją nustato Geležinkelių transporto eismo saugos įstatymas.“
 
-\#### 4 straipsnis. 7 straipsnio 4, 5, 6 dalių pakeitimas ir papildymas 8 dalimi
+### 4 straipsnis. 7 straipsnio 4, 5, 6 dalių pakeitimas ir papildymas 8 dalimi
 
 1. 7 straipsnio 4 dalies 3 punkte po žodžio „sertifikatus“ įrašyti žodžius „suteikia įgaliojimus geležinkelių transporto eismo saugos srityje“ ir šį punktą išdėstyti taip:
 
@@ -168,7 +164,7 @@ Lietuvos Respublikos geležinkelių infrastruktūros ir geležinkelių riedmenų
 
 „8. Rinkos reguliuotojas privalo užtikrinti, kad tvirtinant rinkliavos už naudojimąsi viešąja geležinkelių infrastruktūra konkretų dydį būtų laikomasi teisės aktų nustatytų reikalavimų, prižiūri geležinkelio įmonių (vežėjų) ar tarptautinių geležinkelio įmonių (vežėjų) grupės ir viešosios geležinkelių infrastruktūros valdytojo derybas dėl rinkliavos už naudojimąsi viešąja geležinkelių infrastruktūra dydžio, keičiasi informacija apie savo darbą, sprendimų priėmimo principus ir praktiką su kitais Europos Sąjungos valstybių narių rinkos reguliuotojais.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+### 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -196,7 +192,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 5. Sprendimus dėl licencijų verstis geležinkelių transporto ūkine komercine veikla išdavimo, galiojimo panaikinimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo priima Valstybinė geležinkelių inspekcija prie Susisiekimo ministerijos.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+### 6 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -234,7 +230,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 7. Saugos sertifikatų bei įgaliojimų geležinkelių transporto eismo saugos srityje išdavimo, atšaukimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo tvarką nustato susisiekimo ministras.“
 
-\#### 7 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas
+### 7 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 12 straipsnio 1 dalyje vietoj žodžių „patirtus nuostolius kompensuoja Vyriausybė ar jos įgaliota institucija“ įrašyti žodžius „patirti nuostoliai kompensuojami Vyriausybės nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
@@ -244,7 +240,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „3. Geležinkelio įmonė (vežėjas), vykdanti visuomenės aptarnavimo įsipareigojimus, geležinkelių transporto veiklą ir (ar) eksploatuojanti geležinkelių infrastruktūrą, privalo tvarkyti atskirą apskaitą pagal nurodytas veiklos sritis. Lėšos, skirtos visuomenės aptarnavimo įsipareigojimams vykdyti, negali būti perkeliamos prie lėšų, skirtų kitai geležinkelio įmonės (vežėjo) ūkinei komercinei veiklai.“
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas
+### 8 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -256,7 +252,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 3. Vadovaujančioji Lietuvos Respublikos geležinkelių riedmenų ir konteinerių registro įstaiga yra Susisiekimo ministerija, o registro tvarkymo įstaigos funkcijas atlieka Valstybinė geležinkelių inspekcija prie Susisiekimo ministerijos.“
 
-\#### 9 straipsnis. 16 straipsnio pakeitimas
+### 9 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -268,7 +264,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 3. Vadovaujančioji Lietuvos Respublikos geležinkelių infrastruktūros registro įstaiga yra Susisiekimo ministerija, o registro tvarkymo įstaigos funkcijas atlieka Valstybinė geležinkelių inspekcija prie Susisiekimo ministerijos.“
 
-\#### 10 straipsnis. 19 straipsnio papildymas naujomis 3, 4 dalimis ir 5 dalies pakeitimas
+### 10 straipsnis. 19 straipsnio papildymas naujomis 3, 4 dalimis ir 5 dalies pakeitimas
 
 1. Papildyti 19 straipsnį nauja 3 dalimi:
 
@@ -294,7 +290,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 5) statyti naujus ir rekonstruoti esamus pastatus bei statinius, skirtus geležinkelių transporto reikmėms.“
 
-\#### 11 straipsnis. 28 straipsnio pakeitimas
+### 11 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -304,7 +300,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 2. Išimtinė teisė naudotis viešąja geležinkelių infrastruktūra teikiant tranzito geležinkelių transportu paslaugas priklauso geležinkelio įmonėms (vežėjams), kurios arba kurių visos akcijos nuosavybės teise priklauso Lietuvos valstybei.“
 
-\#### 12 straipsnis. 30 straipsnio pakeitimas
+### 12 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -322,7 +318,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 2) kontroliuoja sąveikos sudedamųjų dalių naudojimą pagal paskirtį, įrengimą ir priežiūrą Geležinkelių transporto eismo saugos įstatymo nustatyta tvarka.“
 
-\#### 13 straipsnis. Kodekso papildymas 301 straipsniu
+### 13 straipsnis. Kodekso papildymas 301 straipsniu
 
 Papildyti Kodeksą 30^1 straipsniu:
 
@@ -342,7 +338,7 @@ Papildyti Kodeksą 30^1 straipsniu:
 
 3) kai Lietuvos Respublikoje nėra kai kurių geležinkelių transporto objektų techninius reikalavimus nustatančių geležinkelių transporto normatyvinių techninių dokumentų, – iki tų dokumentų arba atitinkamos srities TSS parengimo ir patvirtinimo.“
 
-\#### 14 straipsnis. 48 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
+### 14 straipsnis. 48 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
 
 1. 48 straipsnio 1 dalyje po žodžio „tarifus“ įrašyti žodžius „ir kitų paslaugų įkainius“ ir šią dalį išdėstyti taip:
 
@@ -350,7 +346,7 @@ Papildyti Kodeksą 30^1 straipsniu:
 
 2. 48 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 15 straipsnis. Kodekso priedo papildymas
+### 15 straipsnis. Kodekso priedo papildymas
 
 Papildyti Kodekso priedą 12, 13 ir 14 punktais:
 
@@ -360,9 +356,9 @@ Papildyti Kodekso priedą 12, 13 ir 14 punktais:
 
 14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/51/EB, iš dalies pakeičianti Tarybos direktyvą 91/440/EEB dėl Bendrijos geležinkelių plėtros.“
 
-\### TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Pasiūlymas Vyriausybei
+### 1 straipsnis. Pasiūlymas Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija išnagrinėja teisės aktus, susijusius su šio įstatymo nuostatų įgyvendinimu, ir prireikus parengia atitinkamus jų pakeitimo projektus ar priima naujus teisės aktus.
 

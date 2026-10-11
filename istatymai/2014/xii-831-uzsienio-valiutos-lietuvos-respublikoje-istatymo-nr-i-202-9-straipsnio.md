@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7cee47e0cf9e11e3a8ded1a0f5aff0a9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7CEE47E0CF9E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo Nr. I-202 9 straipsnio pakeitimo ir Įstatymo papildymo 10 straipsniu įstatymas
@@ -28,13 +28,13 @@ UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO NR. I-202
 
 Vilnius
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 Papildyti 9 straipsnį 2 dalimi:
 
 „2. Įstatymas taikomas tiek, kiek neprieštarauja Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymui.“
 
-\#### 2 straipsnis. Įstatymo papildymas 10 straipsniu
+## 2 straipsnis. Įstatymo papildymas 10 straipsniu
 
 Papildyti Įstatymą 10 straipsniu:
 
@@ -42,7 +42,7 @@ Papildyti Įstatymą 10 straipsniu:
 
 Įstatymas galioja iki euro įvedimo Lietuvos Respublikoje dienos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dieną.
 

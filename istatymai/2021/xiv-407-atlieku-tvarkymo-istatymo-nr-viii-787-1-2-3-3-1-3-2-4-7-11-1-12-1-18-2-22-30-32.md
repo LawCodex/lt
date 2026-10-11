@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/09f11d80d9a511eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.09F11D80D9A5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3, 3-1, 3-2, 4, 7, 11-1, 12-1, 18-2, 22, 30, 32, 33, 34, 34-1, 34-2, 34-3, 34-4, 34-7, 34-8, 34-15, 34-18, 34-23, 34-25, 34-26, 34-28, 34-31 straipsnių, šeštojo skirsnio, 5 priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu ir antruoju-2 skirsniu įstatymas

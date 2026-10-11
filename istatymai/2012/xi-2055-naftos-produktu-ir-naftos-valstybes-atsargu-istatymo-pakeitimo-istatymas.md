@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.77FBD3A9970B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77FBD3A9970B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2002, Nr. [72-3008](https://www.e-tar.lt/portal/lt/legalAct/TAR.74602705CADB); 2004, Nr. [63-2247](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD7E768CEF0D); 2010, Nr. [139-7113](https://www.e-tar.lt/portal/lt/legalAct/TAR.08CEC964D807))
 
-\#### 1 straipsnis. Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymą ir jį išdėstyti taip:
 
@@ -36,15 +36,15 @@ NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas ir paskirtis
+## 1 straipsnis. Įstatymo tikslas ir paskirtis
 
 1. Šio įstatymo tikslas – užtikrinti naftos produktų ir naftos valstybės atsargų kaupimą, tvarkymą, naudojimą, priežiūrą ir sudarymo reglamentavimą.
 
 2. Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Ataskaitiniai metai – kalendoriniai metai, kurių naftos produktų ir naftos vidaus suvartojimo arba grynojo importo duomenys naudojami apskaičiuojant kauptinų arba faktiškai kaupiamų naftos produktų ir naftos atsargų kiekį.
 
@@ -78,9 +78,9 @@ NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas).
 
-\### ANTRASIS SKIRSNIS. ATSARGŲ KAUPIMO ĮGYVENDINIMO IR PRIEŽIŪROS SUBJEKTAI
+ANTRASIS SKIRSNIS. ATSARGŲ KAUPIMO ĮGYVENDINIMO IR PRIEŽIŪROS SUBJEKTAI
 
-\#### 3 straipsnis. Atsargų kaupimo įgyvendinimo subjektai
+## 3 straipsnis. Atsargų kaupimo įgyvendinimo subjektai
 
 1. Atsargų kaupimo įgyvendinimą ir priežiūrą užtikrina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ir Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija). Atsargas šio įstatymo nustatyta tvarka kaupia valstybės įmonė Lietuvos naftos produktų agentūra (toliau – Agentūra) ir įpareigotosios įmonės.
 
@@ -98,7 +98,7 @@ NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 3) sukuria naftos produktų ir naftos atsargų valstybės informacinę sistemą (toliau – atsargų informacinė sistema).
 
-\#### 4 straipsnis. Atsargų kaupimo ir tvarkymo priežiūra
+## 4 straipsnis. Atsargų kaupimo ir tvarkymo priežiūra
 
 1. Valstybinė energetikos inspekcija prie Energetikos ministerijos (toliau – Inspekcija) Taisyklėse nustatyta tvarka periodiškai tikrina ir prižiūri, kaip Agentūra, įpareigotosios įmonės ir kitos įmonės, teikiančios atsargų kaupimo ir tvarkymo paslaugas, kaupia ir tvarko atsargas, taip pat ar atsargų laikymo vietos ir sąlygos atitinka teisės aktų reikalavimus. Inspekcija, atlikdama šiame įstatyme jai nustatytas funkcijas, turi teisę atlikti Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, patikrinimus, nurodytus šio straipsnio 2 dalyje, taip pat kitas teisės aktų nustatytas teises.
 
@@ -108,7 +108,7 @@ NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 4. Atsargų, laikomų kitose valstybėse narėse, kaupimo ir tvarkymo priežiūra atliekama šių valstybių narių teisės aktuose nustatyta tvarka.
 
-\#### 5 straipsnis. Agentūra
+## 5 straipsnis. Agentūra
 
 1. Agentūra yra centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija Lietuvos Respublikoje, kuri, tenkindama viešuosius interesus, atlieka šio įstatymo nustatytas funkcijas.
 
@@ -136,9 +136,9 @@ NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 6. Agentūros pelnas skiriamas šiame įstatyme Agentūrai nustatytoms funkcijoms įgyvendinti.
 
-\### TREČIASIS SKIRSNIS. ATSARGŲ KAUPIMAS IR LAIKYMAS
+TREČIASIS SKIRSNIS. ATSARGŲ KAUPIMAS IR LAIKYMAS
 
-\#### 6 straipsnis. Kaupiamos atsargos
+## 6 straipsnis. Kaupiamos atsargos
 
 1. Atsargai turi būti kaupiamas toks atsargų kiekis, apskaičiuotas vadovaujantis Taisyklėmis, kad iš sukauptų atsargų būtų galima patenkinti didesnįjį iš šių poreikių:
 
@@ -152,11 +152,11 @@ NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 4. Nuo šiame straipsnyje nurodytų atsargų kiekių galima nukrypti tik šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais.
 
-\#### 7 straipsnis. Kaupiamų atsargų kiekio apskaičiavimo tvarka
+## 7 straipsnis. Kaupiamų atsargų kiekio apskaičiavimo tvarka
 
 Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Taisyklėmis, apskaičiuoja ir Agentūrai bei įpareigotosioms įmonėms patvirtina kaupiamų atsargų kategorijas ir konkrečius atsargų kiekius. Tvirtindama Agentūros kaupiamų specialiųjų atsargų produktų kategorijas, Energetikos ministerija užtikrina, kad pagal patvirtintas kategorijas ataskaitiniais metais suvartotų produktų kiekių naftos ekvivalentas sudarytų ne mažiau kaip 75 procentus vidaus suvartojimo. Patvirtintos kaupiamų atsargų kategorijos ir kiekiai yra taikomi iki naujų kaupiamų atsargų kiekių patvirtinimo.
 
-\#### 8 straipsnis. Atsargų kokybė
+## 8 straipsnis. Atsargų kokybė
 
 1. Atsargai gali būti laikomi visų Lietuvos Respublikoje naudojamų sezoninių klasių naftos produktai. Atsargų kokybė turi atitikti Europos standartų, techninių sąlygų ir (ar) įmonių standartų reikalavimus.
 
@@ -166,7 +166,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 4. Ekstremaliosios energetikos padėties atveju Lietuvos Respublikos rinkoje gali būti realizuojamos benzino ir dyzelino atsargos, atitinkančios tik Europos standartų EN 228 ir (ar) EN 590 bendruosius reikalavimus.
 
-\#### 9 straipsnis. Atsargų kaupimo būdai
+## 9 straipsnis. Atsargų kaupimo būdai
 
 1. Atsargos kaupiamos įgyjant į jas nuosavybės arba reikalavimo teises.
 
@@ -190,7 +190,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 7. Atsargų kaupimo ir tvarkymo paslaugų teikimo sutartyse turi būti nurodyta: atsargų kiekis, atsargų laikymo vieta, atsargų kokybė, atsargų kaina, šalių teisės, pareigos ir atsakomybė, sutarties galiojimo terminas ir sutarties nutraukimo sąlygos, ginčų nagrinėjimo tvarka, atsargų laikymo ir apskaitos tvarka.
 
-\#### 10 straipsnis. Atsargų laikymas
+## 10 straipsnis. Atsargų laikymas
 
 1. Atsargos, išskyrus specialiąsias atsargas, gali būti laikomos kitų valstybių narių teritorijoje. Įpareigotosios įmonės kitų valstybių narių teritorijoje gali laikyti ne daugiau kaip 30 procentų visų atsargų.
 
@@ -204,7 +204,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 6. Atsargų apskaitos tvarka nustatoma Taisyklėse.
 
-\#### 11 straipsnis. Atsargų kaupimas nuosavybės būdu
+## 11 straipsnis. Atsargų kaupimas nuosavybės būdu
 
 1. Valstybė nuosavybės teisę į atsargas įgyja, kai Agentūra įsigyja šias atsargas šio įstatymo 14 straipsnyje nustatyta tvarka. Valstybės lėšomis kaupiamos atsargos gali būti tik valstybės nuosavybė. Valstybės nuosavybe esančias atsargas turto patikėjimo teisės pagrindu tvarko Agentūra.
 
@@ -216,7 +216,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 5. Į įpareigotųjų įmonių nuosavybės teise kaupiamas atsargas, išskyrus komercines atsargas, negali būti nukreipti įpareigotųjų įmonių kreditorių išieškojimai, šios atsargos negali būti įkeistos ar kitaip suvaržytos.
 
-\#### 12 straipsnis. Atsargų kaupimas reikalavimo teisių būdu
+## 12 straipsnis. Atsargų kaupimas reikalavimo teisių būdu
 
 1. Reikalavimo teisės į konkretų atsargų kiekį įgyjamos sandorių (susitarimų) pagrindu. Atsargoms, kaupiamoms reikalavimo teisių pagrindu, taip pat taikomi šio įstatymo 8 straipsnyje nustatyti reikalavimai. Valstybės reikalavimo teises į atsargas turto patikėjimo teisės pagrindu valdo Agentūra.
 
@@ -224,15 +224,15 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 3. Prievolės, atsirandančios iš šio straipsnio 1 dalyje nurodyto sandorio (susitarimo), neįvykdymo rizika privalo būti apdrausta arba užtikrinta kitais būdais Taisyklėse nustatyta tvarka.
 
-\#### 13 straipsnis. Atsargų kaupimo ir tvarkymo sąnaudos
+## 13 straipsnis. Atsargų kaupimo ir tvarkymo sąnaudos
 
 1. Atsargos kaupiamos ir tvarkomos Agentūros, įpareigotųjų įmonių lėšomis, valstybės biudžeto asignavimais (toliau – valstybės lėšomis), kitomis teisėtai gautomis lėšomis.
 
 2. Įpareigotosios įmonės savo lėšomis apmoka visas išlaidas, susijusias su joms šio įstatymo nustatyta tvarka apskaičiuotų privalomų sukaupti atsargų kaupimu ir tvarkymu. Šios išlaidos įskaičiuojamos į jų parduodamų prekių ar paslaugų sąnaudas ir į apskaitą įtraukiamos atskirai.
 
-\### KETVIRTASIS SKIRSNIS. ATSARGŲ ĮSIGIJIMAS, PANAUDOJIMAS, KEITIMAS IR PERLEIDIMAS
+KETVIRTASIS SKIRSNIS. ATSARGŲ ĮSIGIJIMAS, PANAUDOJIMAS, KEITIMAS IR PERLEIDIMAS
 
-\#### 14 straipsnis. Atsargų įsigijimas
+## 14 straipsnis. Atsargų įsigijimas
 
 1. Agentūra ir įpareigotosios įmonės, kurios yra perkančiosios organizacijos pagal Lietuvos Respublikos viešųjų pirkimų įstatymą (toliau – Viešųjų pirkimų įstatymas), atsargas ir reikalavimo teises į atsargas įgyja pagal Vyriausybės patvirtintoje Naftos produktų ir naftos valstybės atsargų pirkimų tvarkoje nustatytas procedūras, užtikrinančias lygiateisiškumo, nediskriminavimo, abipusio pripažinimo, proporcingumo ir skaidrumo principų laikymąsi.
 
@@ -246,7 +246,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 6. Įpareigotosios įmonės, kurios nėra perkančiosios organizacijos pagal Viešųjų pirkimų įstatymą, įgyja atsargas ir (ar) reikalavimo teises į atsargas bet kokiais teisėtais būdais.
 
-\#### 15 straipsnis. Atsargų panaudojimas ir nurašymas
+## 15 straipsnis. Atsargų panaudojimas ir nurašymas
 
 1. Atsargos, kurias privaloma kaupti pagal šį įstatymą, gali būti naudojamos ekstremaliosios energetikos padėties laikotarpiu arba Lietuvos Respublikos valstybės rezervo įstatyme nustatytais atvejais ir tvarka. Panaudojus atsargas šioje dalyje nustatytais atvejais, reikiamas atsargų kiekis atkuriamas per Europos Komisijos nustatytą laikotarpį.
 
@@ -256,7 +256,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 4. Kaupiant ir (ar) tvarkant atsargas, dėl natūralių netekčių susidarę naftos produktų ar naftos nuostoliai, neviršijantys Vyriausybės ar jos įgaliotos institucijos patvirtintų kuro natūralios netekties normų, taip pat nuostoliai, susidarę dėl ėminių, kurių reikia kokybės priežiūros laboratoriniams bandymams, gali būti nurašomi Taisyklėse nustatyta tvarka.
 
-\#### 16 straipsnis. Atsargų keitimas
+## 16 straipsnis. Atsargų keitimas
 
 1. Agentūra, nustačiusi, kad jos patikėjimo teise valdomų atsargų kokybė gali pablogėti taip, kad jos nebeatitiks šio įstatymo 8 straipsnyje nurodytų privalomųjų kokybės rodiklių, raštu informuoja Energetikos ministeriją, kuri priima vieną iš šių sprendimų:
 
@@ -270,9 +270,9 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 3. Įpareigotosios įmonės, kurios nėra perkančiosios organizacijos pagal Viešųjų pirkimų įstatymą, atsargas keičia bet kokiais teisėtais būdais.
 
-\### PENKTASIS SKIRSNIS. EKSTREMALIOJI ENERGETIKOS PADĖTIS
+PENKTASIS SKIRSNIS. EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
-\#### 17 straipsnis. Ekstremalioji energetikos padėtis
+## 17 straipsnis. Ekstremalioji energetikos padėtis
 
 1. Ekstremaliosios energetikos padėties atveju Vyriausybė, Energetikos ministerija ir Vyriausybės ekstremalių situacijų komisija (toliau – Ekstremalių situacijų komisija) imasi Lietuvos Respublikos civilinės saugos įstatyme, Energetikos įstatyme ir šiame įstatyme nustatytų veiksmų.
 
@@ -292,7 +292,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 9. Vyriausybė ar jos įgaliota institucija gali priimti sprendimą netaikyti šio straipsnio 8 dalyje įtvirtintų apribojimų ar jų dalies, jeigu toks apribojimų netaikymas nedaro neigiamo poveikio šio įstatymo 18 straipsnyje nurodyto Naftos produktų tiekimo ir vartojimo apribojimų taikymo plano vykdymui.
 
-\#### 18 straipsnis. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planas
+## 18 straipsnis. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planas
 
 1. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planą tvirtina Vyriausybė ar jos įgaliota institucija. Naftos produktų tiekimo ir vartojimo apribojimų taikymo planas nustato priemones naftos produktų tiekimui stabilizuoti ir (ar) vartojimui sumažinti, kai ekstremalioji energetikos padėtis paskelbiama naftos produktų tiekimui sumažėjus tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
 
@@ -308,15 +308,15 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 
 3. Ekstremaliosios energetikos padėties metu naftos produktų tiekimui ir vartojimui reguliuoti taikomos atitinkamam naftos produktų tiekimo sutrikimo lygiui Vyriausybės ar jos įgaliotos institucijos nustatytos naftos produktų tiekimo ir vartojimo apribojimo priemonės, nustatytos Naftos produktų tiekimo ir vartojimo apribojimų taikymo plane.
 
-\### ŠEŠTASIS SKIRSNIS. INFORMAVIMAS, ATSARGŲ INFORMACINĖ SISTEMA,
+ŠEŠTASIS SKIRSNIS. INFORMAVIMAS, ATSARGŲ INFORMACINĖ SISTEMA,
 
 ATASKAITŲ TEIKIMAS IR PATIKRINIMAI
 
-\#### 19 straipsnis. Informacijos teikimas
+## 19 straipsnis. Informacijos teikimas
 
 Įmonės, kurios verčiasi naftos produktų ir (ar) naftos gavyba, gamyba, importu, eksportu, prekyba, įvežimu, išvežimu, ir įmonės, vartojančios naftos produktus ar naftą, taip pat Lietuvos statistikos departamentas, Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos privalo teikti informaciją Energetikos ministerijai šio įstatymo nuostatoms įgyvendinti. Pagal šį straipsnį teikiamos informacijos apimtį ir jos teikimo tvarką nustato Energetikos ministerija.
 
-\#### 20 straipsnis. Informacijos teikimas panaudojus atsargas
+## 20 straipsnis. Informacijos teikimas panaudojus atsargas
 
 Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais,energetikosįmonės turi teikti Energetikos ministerijai šią informaciją:
 
@@ -326,7 +326,7 @@ Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais,e
 
 3) paskelbus šio įstatymo 18 straipsnyje nurodytą trečiąjį ar ketvirtąjį naftos produktų tiekimo sutrikimo lygį – nuo artimiausio pirmadienio kas savaitę teikti naftos produktų ir naftos išteklių, jų sunaudojimo ir atsargų ataskaitas.
 
-\#### 21 straipsnis. Atsargų informacinė sistema ir ataskaitos
+## 21 straipsnis. Atsargų informacinė sistema ir ataskaitos
 
 1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal Reglamento (EB) Nr. 1099/2008 C priedo 3.1 skirsnio pirmoje pastraipoje nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas ir Lietuvos Respublikoje laikomas komercines atsargas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija.
 
@@ -334,7 +334,7 @@ Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais,e
 
 3. Su atsargų kaupimu susiję duomenys, įrašai, ataskaitos ir dokumentai privalo būti saugomi penkerius metus.
 
-\#### 22 straipsnis. Atsargų kaupimo patikrinimai
+## 22 straipsnis. Atsargų kaupimo patikrinimai
 
 1. Inspekcija pagal savo kompetenciją teikia pagalbą asmenims, kuriuos Europos Komisija įgaliojo atlikti atsargų kaupimo patikrinimus. Atliekant atsargų kaupimo patikrinimus, Agentūra, įpareigotosios įmonės, kitos valstybės institucijos užtikrina, kad šiems asmenims būtų suteikta teisė susipažinti su dokumentais ir informacinėmis sistemomis, kurie yra susiję su atsargomis, ir teisė patekti į visas vietas, kuriose atsargos yra laikomos.
 
@@ -342,9 +342,9 @@ Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais,e
 
 3. Asmens duomenys, gauti atliekant šiame straipsnyje nurodytus atsargų kaupimo patikrinimus, negali būti tvarkomi ir jais negali būti pasinaudota. Jeigu tokie duomenys atsitiktinai gaunami ar surenkami, jie privalo būti nedelsiant sunaikinami.
 
-\### SEPTINTASIS SKIRSNIS. CENTRALIZUOTAS ATSARGŲ KAUPIMAS IR TVARKYMAS
+SEPTINTASIS SKIRSNIS. CENTRALIZUOTAS ATSARGŲ KAUPIMAS IR TVARKYMAS
 
-\#### 23 straipsnis. Centralizuotas atsargų kaupimas ir tvarkymas
+## 23 straipsnis. Centralizuotas atsargų kaupimas ir tvarkymas
 
 1. Centralizuotas atsargų kaupimas ir tvarkymas pradedamas 2015 m. sausio 1 d. Pradėjus centralizuotą atsargų kaupimą ir tvarkymą, Agentūra turi pareigą šio įstatymo 24 straipsnyje nustatyta tvarka su įpareigotosiomis įmonėmis sudaryti atsargų kaupimo ir tvarkymo susitarimus, nurodytus šio įstatymo 9 straipsnio 4 dalyje.
 
@@ -352,7 +352,7 @@ Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais,e
 
 3. Tol, kol bus pradėtas centralizuotas atsargų kaupimas ir tvarkymas, Agentūra turi pareigą šioje dalyje nustatyta tvarka su įpareigotosiomis įmonėmis sudaryti atsargų kaupimo ir tvarkymo susitarimus, nurodytus šio įstatymo 9 straipsnio 4 dalies 1 punkte dėl ne didesnio kaip 10 procentų atitinkamai įmonei nustatyto privalomo sukaupti atsargų kiekio. Įpareigotosios įmonės, norėdamos pasinaudoti šioje dalyje numatyta galimybe, apie savo pasirinkimą dėl ateinančių metų privalo informuoti Agentūrą ne vėliau kaip likus 170 dienų iki kitos metinės atsargų kaupimo užduoties nustatymo. Jeigu įpareigotosios įmonės pareiškia norą su Agentūra sudaryti susitarimus dėl didesnio kaip 10 procentų atitinkamai įmonei nustatyto privalomo sukaupti atsargų kiekio, Agentūra turi teisę nuspręsti, ar sudaryti susitarimus dėl atsargų kiekio, viršijančio šiuos 10 procentų.
 
-\#### 24 straipsnis. Agentūros pareiga centralizuotai kaupti ir tvarkyti atsargas
+## 24 straipsnis. Agentūros pareiga centralizuotai kaupti ir tvarkyti atsargas
 
 1. Pradėjus centralizuotai kaupti ir tvarkyti atsargas, įpareigotosios įmonės kiekvienais metais gali pasirinkti:
 
@@ -362,9 +362,9 @@ Panaudojus atsargas šio įstatymo 15 straipsnio 1 dalyje nustatytais atvejais,e
 
 2. Įpareigotosios įmonės, norėdamos pasinaudoti šio straipsnio 1 dalies 1 punkte numatyta galimybe, apie savo pasirinkimą dėl ateinančių metų privalo informuoti Agentūrą ne vėliau kaip likus 170 dienų iki kitos metinės atsargų kaupimo užduoties nustatymo. Jeigu įpareigotosios įmonės apie savo pasirinkimą informuoja pavėluotai, Agentūra turi teisę nuspręsti, ar sudaryti susitarimus, nurodytus šio straipsnio 1 dalies 1 punkte.
 
-\### AŠTUNTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+AŠTUNTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 25 straipsnis. Atsakomybė
+## 25 straipsnis. Atsakomybė
 
 Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos administracinių teisių pažeidimų kodekso ir kitų įstatymų nustatyta tvarka.
 
@@ -380,17 +380,17 @@ priedas
 
 1. 2009 m. rugsėjo 14 d. Tarybos direktyva 2009/119/EB, kuria valstybės narės įpareigojamos išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas (OL 2009 L 265, p. 9).“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos Vyriausybė ar jos įgalioja institucija priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 2 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 
 2. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 6, 7 straipsniai ir 23 straipsnio 3 dalis įsigalioja 2012 m. gruodžio 31 d.
 
-\#### 4 straipsnis. Iki 2012 m. gruodžio 31 d. privalomų kaupti atsargų kiekis ir kategorijos
+## 4 straipsnis. Iki 2012 m. gruodžio 31 d. privalomų kaupti atsargų kiekis ir kategorijos
 
 1. Šio straipsnio nustatyti reikalavimai dėl privalomų kaupti atsargų kiekio ir kategorijų bei kaupimo užduočių nustatymo tvarkos taikomi iki šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 6 ir 7 straipsnių įsigaliojimo dienos.
 

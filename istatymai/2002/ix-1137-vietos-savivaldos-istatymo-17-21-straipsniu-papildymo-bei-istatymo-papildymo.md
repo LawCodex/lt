@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A88DB35EF35C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A88DB35EF35C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 17, 21 straipsnių papildymo bei įstatymo papildymo tryliktuoju skirsniu įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [85-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B), Nr. [99-3519](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFE120E0C90), Nr. [110-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BB7B6C28341); 2002, Nr. [43-1604](https://www.e-tar.lt/portal/lt/legalAct/TAR.348B9DD92898))
 
-\#### 1 straipsnis. 17 straipsnio papildymas 42 punktu
+## 1 straipsnis. 17 straipsnio papildymas 42 punktu
 
 Papildyti 17 straipsnį 42 punktu:
 
 „42) priima sprendimus skelbti vietos gyventojų apklausą.“
 
-\#### 2 straipsnis. 21 straipsnio 1 dalies papildymas 22 punktu
+## 2 straipsnis. 21 straipsnio 1 dalies papildymas 22 punktu
 
 Papildyti 21 straipsnio 1 dalį 22 punktu:
 
 „22) koordinuoja pasirengimą vietos gyventojų apklausai ir ją organizuoja.“
 
-\#### 3 straipsnis. Įstatymo papildymas tryliktuoju skirsniu
+## 3 straipsnis. Įstatymo papildymas tryliktuoju skirsniu
 
 Papildyti Įstatymą tryliktuoju skirsniu:
 
@@ -48,7 +48,7 @@ Papildyti Įstatymą tryliktuoju skirsniu:
 
 VIETOS GYVENTOJŲ APKLAUSA
 
-\#### 44 straipsnis. Vietos gyventojų apklausos bendrieji principai
+## 44 straipsnis. Vietos gyventojų apklausos bendrieji principai
 
 1. Gyventojai savo nuomonę viešųjų savivaldybės reikalų tvarkymo klausimais gali pareikšti dalyvaudami vietos gyventojų apklausoje (toliau – apklausa).
 
@@ -64,13 +64,13 @@ VIETOS GYVENTOJŲ APKLAUSA
 
 7. Negalima varžyti gyventojų teisės dalyvauti apklausoje dėl jų lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
 
-\#### 45 straipsnis. Apklausai teikiami klausimai
+## 45 straipsnis. Apklausai teikiami klausimai
 
 1. Apklausai gali būti teikiami klausimai, kuriuos savivaldybė sprendžia atlikdama savarankiškąsias, priskirtąsias (ribotai savarankiškas) bei sutartines funkcijas.
 
 2. Apklausos dėl savivaldybių steigimo, esamų savivaldybių panaikinimo, taip pat jų teritorijų ribų bei centrų nustatymo ir keitimo rengiamos vadovaujantis Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymu.
 
-\#### 46 straipsnis. Apklausos būdai
+## 46 straipsnis. Apklausos būdai
 
 1. Apklausos būdai:
 
@@ -86,11 +86,11 @@ VIETOS GYVENTOJŲ APKLAUSA
 
 3. Savivaldybės taryba patvirtina nustatytu būdu vykdomos apklausos tvarką bei apklausos komisijos įgaliojimus.
 
-\#### 47 straipsnis. Apklausos teritorija
+## 47 straipsnis. Apklausos teritorija
 
 Apklausa gali būti surengta savivaldybės, seniūnijos (kelių seniūnijų) arba gyvenamosios vietovės (kelių gyvenamųjų vietovių) teritorijoje. Apklausos teritorija negali būti mažesnė kaip gyvenamosios vietovės teritorija.
 
-\#### 48 straipsnis. Apklausos paskelbimo iniciatyvos teisė
+## 48 straipsnis. Apklausos paskelbimo iniciatyvos teisė
 
 1. Apklausos paskelbimo iniciatyvos teisė priklauso savivaldybės gyventojams ir savivaldybės tarybai.
 
@@ -98,7 +98,7 @@ Apklausa gali būti surengta savivaldybės, seniūnijos (kelių seniūnijų) arb
 
 3. Savivaldybės taryba apklausos paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip 1/4 savivaldybės tarybos narių grupės reikalavimu savivaldybės tarybos veiklos reglamento nustatyta tvarka.
 
-\#### 49 straipsnis. Gyventojų apklausos paskelbimo iniciatyvos teisės įgyvendinimas
+## 49 straipsnis. Gyventojų apklausos paskelbimo iniciatyvos teisės įgyvendinimas
 
 1. Apklausos paskelbimo iniciatyvos teisę gyventojai įgyvendina tiesiogiai. Šiam tikslui sudaroma iniciatyvinė grupė iš ne mažiau kaip 10 gyventojų, turinčių teisę rinkti savivaldybės tarybą. Grupės atstovas asmeniškai pateikia merui prašymą įregistruoti iniciatyvinę grupę.
 
@@ -114,7 +114,7 @@ Apklausa gali būti surengta savivaldybės, seniūnijos (kelių seniūnijų) arb
 
 7. Gyventojų reikalavimus dėl apklausos paskelbimo kaupia iniciatyvinė grupė. Per šio straipsnio 5 dalyje nustatytą terminą surinkusi reikiamą gyventojų parašų dėl reikalavimo paskelbti apklausą skaičių, iniciatyvinė grupė surašo parašų rinkimo baigiamąjį aktą ir jį kartu su gyventojų reikalavimais perduoda savivaldybės administratoriui.
 
-\#### 50 straipsnis. Sprendimo paskelbti apklausą priėmimas
+## 50 straipsnis. Sprendimo paskelbti apklausą priėmimas
 
 1. Jeigu per šio įstatymo 49 straipsnio 5 dalyje nustatytą terminą yra surinktas reikiamas parašų dėl reikalavimo skelbti apklausą skaičius ir nenustatyta parašų rinkimo pažeidimų (gyventojų parašų klastojimo atvejų ar savanoriškumo principo pažeidimų), savivaldybės taryba privalo priimti sprendimą paskelbti apklausą.
 
@@ -124,7 +124,7 @@ Apklausa gali būti surengta savivaldybės, seniūnijos (kelių seniūnijų) arb
 
 4. Savivaldybės tarybos sprendimas paskelbti apklausą turi būti paskelbtas per vietines (regiono) visuomenės informavimo priemones.
 
-\#### 51 straipsnis. Apklausos agitacija
+## 51 straipsnis. Apklausos agitacija
 
 1. Apklausos agitacijos kampanijos pradžia yra gyventojų iniciatyvinės grupės įregistravimo savivaldybės administracijoje diena.
 
@@ -132,21 +132,21 @@ Apklausa gali būti surengta savivaldybės, seniūnijos (kelių seniūnijų) arb
 
 3. Apklausos agitacijos kampanijoje negali dalyvauti apklausos komisijos nariai.
 
-\#### 52 straipsnis. Apklausos organizavimas
+## 52 straipsnis. Apklausos organizavimas
 
 Apklausą organizuoja meras savivaldybės tarybos nustatyta tvarka.
 
-\#### 53 straipsnis. Apklausos rezultatų nustatymas ir paskelbimas
+## 53 straipsnis. Apklausos rezultatų nustatymas ir paskelbimas
 
 1. Apklausa laikoma įvykusia, jeigu savo nuomonę pateiktu (-ais) klausimu (-ais) pareiškė ne mažiau kaip 25 procentai apklausos teritorijos gyventojų, turinčių teisę dalyvauti apklausoje. Šis reikalavimas netaikomas atrankinei apklausai.
 
 2. Apklausos rezultatus ne vėliau kaip per 5 darbo dienas po apklausos pabaigos apklausos komisija pateikia merui ir paskelbia per vietines (regiono) visuomenės informavimo priemones.
 
-\#### 54 straipsnis. Apklausai teiktų klausimų sprendimas
+## 54 straipsnis. Apklausai teiktų klausimų sprendimas
 
 Apklausos rezultatai turi būti svarstomi savivaldybės tarybos posėdyje savivaldybės tarybos veiklos reglamento nustatyta tvarka ir į juos gali būti atsižvelgiama priimant sprendimą dėl apklausai teikto (-ų) klausimo (-ų).
 
-\#### 55 straipsnis. Apklausos organizavimo išlaidos
+## 55 straipsnis. Apklausos organizavimo išlaidos
 
 Apklausos organizavimo išlaidos apmokamos iš savivaldybės biudžeto.“
 

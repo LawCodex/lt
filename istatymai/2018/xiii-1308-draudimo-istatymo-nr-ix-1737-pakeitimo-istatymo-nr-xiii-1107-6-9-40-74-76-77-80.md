@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/89c874f07f7f11e8ae2bfd1913d66d57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.89C874F07F7F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymo Nr. XIII-1107 6, 9, 40, 74, 76, 77, 80, 82, 85 straipsnių pakeitimo ir 78 straipsnio pripažinimo netekusiu galios įstatymas

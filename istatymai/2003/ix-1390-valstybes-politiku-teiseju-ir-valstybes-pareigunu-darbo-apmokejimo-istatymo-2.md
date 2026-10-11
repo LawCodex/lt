@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.215BD836E3DF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.215BD836E3DF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 straipsnio ir Įstatymo priedėlio pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2002, Nr. 43-1606, Nr. 72-3018, Nr. 73-3104; 2003, Nr. 17-703)
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnio 2 dalį nauju 3 punktu:
 
@@ -40,13 +40,12 @@ Vilnius
 
 3. Buvusį 2 straipsnio 2 dalies 4 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. Įstatymo priedėlio pakeitimas ir papildymas
+## 2 straipsnis. Įstatymo priedėlio pakeitimas ir papildymas
 
 1. Įstatymo priedėlio II skirsnį papildyti nauju 3 punktu:
 
-\| „3. Lietuvos vyriausiasis administracinis teismas 16 | 14,5–13,75“. |
-
-\| --- | --- |
+| „3. Lietuvos vyriausiasis administracinis teismas 16 | 14,5–13,75“. |
+| --- | --- |
 
 2. Buvusį Įstatymo priedėlio II skirsnio 3 punktą laikyti 4 punktu.
 
@@ -56,11 +55,9 @@ Vilnius
 
 „10. Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės, Vyriausiosios administracinių ginčų komisijos:
 
-\| 10.1. pirmininkas | 12 |
-
-\| --- | --- |
-
-\| 10.2. nariai | 9,5„. |
+| 10.1. pirmininkas | 12 |
+| --- | --- |
+| 10.2. nariai | 9,5„. |
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 

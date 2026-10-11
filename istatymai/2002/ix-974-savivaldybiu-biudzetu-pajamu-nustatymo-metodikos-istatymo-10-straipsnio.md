@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.42838C716F20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.42838C716F20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005); 2001, Nr. [94-3307](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CB6C63497C9))
 
-\#### 1 straipsnis. 10 straipsnio 4 dalies papildymas
+## 1 straipsnis. 10 straipsnio 4 dalies papildymas
 
 10 straipsnio 4 dalyje po žodžio „pokyčiai“ įrašyti žodžius „išskyrus pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už valstybinę žemęlaisvosios ekonominės zonos teritorijoje, panaudoto šioje teritorijoje esančiai žemei išpirkti iš žemės savininkų“ ir šią dalį išdėstyti taip:
 

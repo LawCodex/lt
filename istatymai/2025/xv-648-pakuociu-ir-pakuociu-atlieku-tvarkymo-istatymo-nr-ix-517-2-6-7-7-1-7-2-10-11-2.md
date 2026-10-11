@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/19c24c72d9b411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.19C24C72D9B4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymo Nr. XV-445 10 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO NR. IX-517 2, 6, 7, 71, 72,
 
 Vilnius
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.63FA09C265AB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.63FA09C265AB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 4, 6, 8, 9, 10, 15, 16, 17, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1997, Nr. [69-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE); 2000, Nr. [56-1649](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE90D023124C); 2001, Nr. [71-2524](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A3423ED809B), Nr. [108-3905](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3F03852F140); 2002, Nr. [112-4974](https://www.e-tar.lt/portal/lt/legalAct/TAR.0372FCB845EF), Nr. [112-4975](https://www.e-tar.lt/portal/lt/legalAct/TAR.1943C0B5C98B); 2004, Nr. [4-41](https://www.e-tar.lt/portal/lt/legalAct/TAR.99A9BFE2011A), Nr. [117-4371](https://www.e-tar.lt/portal/lt/legalAct/TAR.D526264326C5), Nr. [124-4491](https://www.e-tar.lt/portal/lt/legalAct/TAR.C01DB97E7B8A); 2006, Nr. [42-1503](https://www.e-tar.lt/portal/lt/legalAct/TAR.32BC324BA4AB); 2009, Nr. [81-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.015665144F7A), Nr. [153-6885](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D01D962DD4B))
 
-\#### 1 straipsnis. 4 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 4 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 4 straipsnio 1 dalyje vietoj žodžių „suformuotas privačias ir valstybines žemėnaudas“ įrašyti žodžius „suformuotus privačios ir valstybinės žemės sklypus“ ir šią dalį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „2. Žemės reformos procesas apima žemės naudojimo dabartinės situacijos analizę, parengiamuosius žemėtvarkos darbus, žemės reformos žemėtvarkos projektų parengimą, jų derinimą, teisinį, ekonominį ir ekologinį pagrindimą bei tvirtinimą, pagrindinėsžemės naudojimo paskirties, žemės, miško ir vandens telkinių naudojimo specialiųjų sąlygų, žemės servitutų ir kitų įstatymuose numatytų ūkinės veiklos apribojimų nustatymą.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnyje po žodžio „kaimo“ įrašyti žodžius „ir miesto gyvenamosiose“, išbraukti žodžius „ir miestuose“ ir šį straipsnį išdėstyti taip:
 
@@ -42,13 +42,13 @@ Vilnius
 
 Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikiant nuosavybėn neatlygintinai bei išperkant kaimo ir miesto gyvenamosiose vietovėse tvarką bei sąlygas nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas.“
 
-\#### 3 straipsnis. 8 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 2 dalies pakeitimas
 
 8 straipsnio 2 dalyje vietoj žodžio „miestuose“ įrašyti žodį „miesto“, po žodžio „kaimo“ įrašyti žodį „gyvenamosiose“ ir šią dalį išdėstyti taip:
 
 „2. Ne žemės ūkio paskirčiai žemė miesto ir kaimo gyvenamosiose vietovėse parduodama Vyriausybės nustatyta tvarka.“
 
-\#### 4 straipsnis. 9 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 4 straipsnis. 9 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 „4. Jeigu gyvenamasis namas priklauso kartu keliems savininkams, fiziniams asmenims parduodamas bendras namų valdos naudojamas žemės sklypas, pažymėtas namų valdos techninės apskaitos byloje ir teritorijų planavimo dokumentuose nustatytų ribų, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha – kituose miestuose. Parduodamo žemės sklypo plotas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu gali būti padidintas iki naudojamo namų valdos žemės sklypo viso ploto, bet negali būti didesnis kaip atitinkamai 0,2 ha arba 0,3 ha kiekvienam gyvenamojo namo dalies savininkui, jeigu šio žemės sklypo arba jo dalies pagal teritorijų planavimo dokumentus nenumatoma panaudoti miesto ūkio, visuomenės poreikiams ar individualiai statybai suformavus atskirą atidalijamą žemės sklypą.“
 
-\#### 5 straipsnis. 10 straipsnio 1, 3 ir 5 dalių pakeitimas
+## 5 straipsnis. 10 straipsnio 1, 3 ir 5 dalių pakeitimas
 
 1. 10 straipsnio 1 dalies pirmoje pastraipoje po žodžio „kaimo“ įrašyti žodį „gyvenamojoje“ ir šią dalį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 „5. Privatizuotini valstybinėje žemėje esantys miškai ir vandens telkiniai, įsiterpę į žemės ūkio paskirties žemės sklypus, gali būti parduodami šių žemės sklypų savininkams, o besiribojantys su žemės ūkio paskirties žemės sklypais valstybinėje žemėje esantys miškai ir vandens telkiniai gali būti parduodami šių žemės sklypų savininkams, jeigu miškai sudaro atskirus, ne didesnius kaip 10 ha masyvus, o vandens telkiniai yra iki 3 ha. Šiais atvejais miškai ir vandens telkiniai parduodami žemės sklypų savininkams nesilaikant šiame straipsnyje nustatytos eilės.“
 
-\#### 6 straipsnis. 15 straipsnio 2, 3, 4 ir 5 dalių pripažinimas netekusiomis galios ir 6, 7, 8 ir 9 dalių pakeitimas
+## 6 straipsnis. 15 straipsnio 2, 3, 4 ir 5 dalių pripažinimas netekusiomis galios ir 6, 7, 8 ir 9 dalių pakeitimas
 
 1. 15 straipsnio 2 dalį pripažinti netekusia galios.
 
@@ -142,7 +142,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 „9. Rengiant žemės reformos žemėtvarkos projektą, asmeninio ūkio žemės sklypų vietos ir ribos gali būti keičiamos pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą ir siekiant sukurti racionalių ribų žemės sklypusteritorijoje, kurią apima vietinis (kadastrinės vietovės) žemės reformos žemėtvarkos projektas. Asmeninio ūkio žemės sklypų, kurie buvo nuolat naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš toje kadastrinėje vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės fondo toje kadastrinėje vietovėje nepakanka, šie sklypai projektuojami asmeniniam ūkiui naudojamoje teritorijoje.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas
+## 7 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -168,7 +168,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 10. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas Viešųjų pirkimų įstatymo nustatyta tvarka.“
 
-\#### 8 straipsnis. 17 straipsnio pakeitimas
+## 8 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai ir pirktivalstybinę žemę, mišką irvandens telkinius nagrinėja ir sprendimus priima Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos. Prašymus išsinuomoti valstybinę žemę ir naudotis valstybine žeme nagrinėja ir sprendimus priima Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos, savivaldybių institucijosar kita įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.“
 
-\#### 9 straipsnis. 18 straipsnio pakeitimas
+## 9 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -202,7 +202,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 10. Institucija, atstovaujanti valstybei sudarant valstybinės žemės perleidimo, nuomos ar panaudos sandorius, privalo kontroliuoti, kaip vykdomos sandorių sąlygos, o nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio nutraukimą įstatymų nustatyta tvarka arba taikyti kitus įstatymų nustatytus šalių teisių ir interesų gynimo būdus.“
 
-\#### 10 straipsnis. 19 straipsnio 1, 2, 4, 5, 9 dalių pakeitimas ir 8, 10 dalių pripažinimas netekusiomis galios
+## 10 straipsnis. 19 straipsnio 1, 2, 4, 5, 9 dalių pakeitimas ir 8, 10 dalių pripažinimas netekusiomis galios
 
 1. 19 straipsnio 1 dalį papildyti nauju sakiniu ir šią dalį išdėstyti taip:
 
@@ -228,7 +228,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 7. 19 straipsnio 10 dalį pripažinti netekusia galios.
 
-\#### 11 straipsnis. 20 straipsnio pakeitimas
+## 11 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -236,13 +236,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 Žemės reformos žemėtvarkos projektai svarstomi ir derinami pagal Teritorijų planavimo įstatymą ir žemės reformos žemėtvarkos projektų rengimo metodikos nustatyta tvarka. Suderintus žemės reformos žemėtvarkos projektus tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas ar jo įgaliotas teritorinio padalinio vadovas.“
 
-\#### 12 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 12 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Vietovėje paženklintos privačios žemės, miško sklypų ribos vėliau atliekant kadastrinius matavimus nekeičiamos, o už nustatytą žemės, miško sklypo ploto skirtumą, neviršijantį Vyriausybės nustatyto leistino matavimo tikslumo, valstybei arba privačios žemės savininkui nekompensuojama. Tuo atveju, jeigu atlikus žemės, miško sklypo kadastrinius matavimus nustatoma, kad žemės, miško sklypo ploto skirtumas viršija leistiną matavimo tikslumą ir išmatuoto žemės, miško sklypo plotas yra mažesnis, šio žemės, miško sklypo savininkui kompensuojama pinigais arba vertybiniais popieriais Vyriausybės nustatyta tvarka.“
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
 

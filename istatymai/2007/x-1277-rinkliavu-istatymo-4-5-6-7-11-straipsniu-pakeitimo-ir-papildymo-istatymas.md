@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D85A75CD037B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D85A75CD037B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 4, 5, 6, 7, 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [52-1484](https://www.e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D); 2001, Nr. [62-2233](https://www.e-tar.lt/portal/lt/legalAct/TAR.18ABA3D01C12); 2002, Nr. [45-1710](https://www.e-tar.lt/portal/lt/legalAct/TAR.25876C57BE42), Nr. [95-4086](https://www.e-tar.lt/portal/lt/legalAct/TAR.705A8D895FAD); 2005, Nr. [121-4333](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3E3FC5ED28A), Nr. [149-5416](https://www.e-tar.lt/portal/lt/legalAct/TAR.7BD11B0AC249); 2006, Nr. [137-5200](https://www.e-tar.lt/portal/lt/legalAct/TAR.79A933B29770); 2007, Nr. [61-2343](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F6815C088D0))
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 1. 4 straipsnio 1 dalyje po žodžio „už“ įrašyti žodžius „įstatymuose, Europos Sąjungos reglamentuose ar sprendimuose nustatytas institucijų teikiamas asmenims paslaugas“, 1–4 punktus pripažinti netekusiais galios ir šią dalį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. 4 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 5 straipsnio 1, 2 dalių pakeitimas ir straipsnio papildymas 4 dalimi
+## 2 straipsnis. 5 straipsnio 1, 2 dalių pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „4. Valstybės rinkliava mokama litais iki institucijų teikiamų paslaugų suteikimo ir yra mokėjimo dieną galiojančio dydžio.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Valstybės rinkliava neimama už:
 
 22) institucijų teikiamas paslaugas, kurių suteikimo išlaidos mažesnės už šio įstatymo 5 straipsnio 1 dalyje nustatytą minimalų valstybės rinkliavos dydį.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 7 straipsnyje išbraukti pirmąjį sakinį ir šį straipsnį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Valstybės rinkliava neimama už:
 
 Savivaldybės taryba turi teisę savo biudžeto sąskaita paskiriems valstybės rinkliavos mokėtojams sumažinti valstybės rinkliavos dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės rinkliava įskaitoma į tos savivaldybės biudžetą.“
 
-\#### 5 straipsnis. 11 straipsnio 1 dalies 3 ir 11 punktų pakeitimas
+## 5 straipsnis. 11 straipsnio 1 dalies 3 ir 11 punktų pakeitimas
 
 1. 11 straipsnio 1 dalies 3 punkte vietoj žodžių „ant savivaldybei priklausančių ar valdytojo teise valdomų objektų“ įrašyti žodžius „savivaldybės teritorijoje“ ir šį punktą išdėstyti taip:
 
@@ -126,13 +126,13 @@ Savivaldybės taryba turi teisę savo biudžeto sąskaita paskiriems valstybės 
 
 „11) naudojimąsi gyvenamųjų vietovių, turinčių kurorto ar kurortinės teritorijos statusą, viešąja infrastruktūra (viešoji kurorto ar kurortinės teritorijos infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio reikmėms);“.
 
-\#### 6 straipsnis. Pasiūlymai Vyriausybei
+## 6 straipsnis. Pasiūlymai Vyriausybei
 
 1. Vyriausybė iki 2007 m. spalio 1 d. pateikia Seimui su šio įstatymo įgyvendinimu susijusių įstatymų pakeitimo ir papildymo projektus.
 
 2. Vyriausybė ar jos įgaliotos institucijos iki 2007 m. lapkričio 1 d. parengia teisės aktų, susijusių su šio įstatymo įgyvendinimu, pakeitimo ir papildymo projektus.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 5 ir 6 straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
 

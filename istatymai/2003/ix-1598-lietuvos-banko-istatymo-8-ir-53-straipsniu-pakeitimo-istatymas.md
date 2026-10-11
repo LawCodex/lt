@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6C56545FEC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5D6C56545FEC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 8 ir 53 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 2001, Nr. [28-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.2560251F7F7F))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies 8 punkto pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies 8 punkto pakeitimas
 
 Pakeisti 8 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) skatina patvarų ir veiksmingą mokėjimo ir vertybinių popierių atsiskaitymo sistemų veikimą;“.
 
-\#### 2 straipsnis. 53 straipsnio pakeitimas
+## 2 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo užtikrintas vertybinių popierių ar kito finansinio turto, išskyrus lėšų, esančių skolininko banko sąskaitoje, įkeitimu, Lietuvos bankas, raštu įspėjęs skolininką, turi teisę perimti įkeistą turtą ir jį realizuoti sutartyje numatytu būdu. Tokią teisę Lietuvos bankas gali įgyvendinti net ir tada, kai skolininkui iškelta bankroto byla ar draudžiama disponuoti įkeistu turtu.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c3b9b4d0626411e99676cb74c51fe1f4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C3B9B4D06264.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 3, 6, 7 ir 8 straipsnių pakeitimo įstatymo Nr. XIII-1865 2 straipsnio pakeitimo įstatymas

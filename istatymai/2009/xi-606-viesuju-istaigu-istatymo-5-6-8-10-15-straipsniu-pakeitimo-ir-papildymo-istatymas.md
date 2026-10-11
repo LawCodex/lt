@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.23A44063F443"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.23A44063F443.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų įstaigų įstatymo 5, 6, 8, 10, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [68-1633](https://www.e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548); 2004, Nr. [25-752](https://www.e-tar.lt/portal/lt/legalAct/TAR.0227AF644A2E); 2007, Nr. [17-631](https://www.e-tar.lt/portal/lt/legalAct/TAR.A82B850FEBE9))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies 2 punkto pakeitimas
 
 5 straipsnio 1 dalies 2 punkte po žodžio „pavadinimas“ įrašyti žodžius „ir buveinė“ ir šį punktą išdėstyti taip:
 
 „2) viešosios įstaigos pavadinimas ir buveinė;“.
 
-\#### 2 straipsnis. 6 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios ir 3, 6 dalių pakeitimas
+## 2 straipsnis. 6 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios ir 3, 6 dalių pakeitimas
 
 1. 6 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios.
 
@@ -42,13 +42,13 @@ Vilnius
 
 „6. Viešosios įstaigos įstatus pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.“
 
-\#### 3 straipsnis. 8 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 5 dalies pakeitimas
 
 Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomas viešosios įstaigos veiklos laikotarpis, jei jis yra ribotas.“
 
-\#### 4 straipsnis. 10 straipsnio 1 dalies papildymas ir pakeitimas
+## 4 straipsnis. 10 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 10 straipsnio 1 dalį nauju 2 punktu:
 
@@ -56,7 +56,7 @@ Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 
 2. Buvusius 10 straipsnio 1 dalies 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ir 14 punktus laikyti atitinkamai 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ir 15 punktais.
 
-\#### 5 straipsnis. 15 straipsnio 7 dalies pakeitimas
+## 5 straipsnis. 15 straipsnio 7 dalies pakeitimas
 
 15 straipsnio 7 dalyje vietoj žodžių „tapatumas notariškai“ įrašyti žodžius „tikrumas notaro“ ir šią dalį išdėstyti taip:
 

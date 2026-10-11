@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.499791BD2924"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.499791BD2924.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl valstybės vienkartinių išmokų bei kitų tikslinių kompensacijų panaudojimo" 2 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. 49“1180, Nr. 95“2112)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio ketvirtąją pastraipą – vietoj skaičiaus ir santrumpos „80 ha“ įrašyti skaičių ir žodžius „50 ha žemės ūkio naudmenų“, vietoj žodžių „žemės suteikimas nebuvo nustatytu laiku“ įrašyti žodžius „žemės įsigijimas nuosavybėn nebuvo laiku“ ir šią pastraipą išdėstyti taip:
 

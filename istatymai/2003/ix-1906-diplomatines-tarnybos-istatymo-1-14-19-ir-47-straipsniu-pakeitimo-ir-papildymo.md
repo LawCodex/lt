@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C845666F66DB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C845666F66DB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 1, 14, 19 ir 47 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ir papildymas 4 dalimi
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ir papildymas 4 dalimi
 
 1. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,19 +38,19 @@ Vilnius
 
 „4. Specialieji patarėjai – valstybės tarnautojai, laikinai perkelti dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos, padedantys įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių santykių srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo tvarką, jų darbo užsienyje ypatumus ir sąlygas nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 2 straipsnis. 14 straipsnio 1 dalies 1 punkto papildymas
+## 2 straipsnis. 14 straipsnio 1 dalies 1 punkto papildymas
 
 14 straipsnio 1 dalies 1 punkte po žodžio „pavaduotojai“ įrašyti žodžius „karinis atstovas ir jo pavaduotojai, specialieji patarėjai ir jų pavaduotojai“ ir šį punktą išdėstyti taip:
 
 „1) diplomatinis personalas – diplomatai, Lietuvos Respublikos specialieji atašė ir jų pavaduotojai, karinis atstovas ir jo pavaduotojai, specialieji patarėjai ir jų pavaduotojai, dirbantys Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje;“.
 
-\#### 3 straipsnis. 19 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 19 straipsnio 4 dalies pakeitimas
 
 19 straipsnio 4 dalyje vietoj žodžių „darbo sutarties įstatymo 26 straipsnio 2 punktą“ įrašyti žodžius „darbo kodekso 126 straipsnio 1 dalį“.
 
 „4. Priimant asmenį į Lietuvos Respublikos diplomatinę tarnybą arba atsisakius jį priimti į Lietuvos Respublikos diplomatinę tarnybą, šio straipsnio 1 dalyje nurodyta terminuota 1 metų darbo sutartis dėl darbo Užsienio reikalų ministerijoje nutraukiama pagal Lietuvos Respublikos darbo kodekso 126 straipsnio 1 dalį.“
 
-\#### 4 straipsnis. 47 straipsnio 1 dalies papildymas 13 ir 14 punktais
+## 4 straipsnis. 47 straipsnio 1 dalies papildymas 13 ir 14 punktais
 
 Papildyti 47 straipsnio 1 dalį 13 ir 14 punktais:
 

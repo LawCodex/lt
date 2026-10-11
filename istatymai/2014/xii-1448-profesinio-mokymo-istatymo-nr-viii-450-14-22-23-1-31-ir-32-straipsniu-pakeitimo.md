@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7a559c0090c711e4bb408baba2bdddf3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A559C0090C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 14, 22, 23-1, 31 ir 32 straipsnių pakeitimo ir Įstatymo papildymo 23-2 straipsniu įstatymas
@@ -26,7 +26,7 @@ PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 14, 22, 231, 31 IR 32 STRAIPSNIŲ PAKEI
 
 Vilnius
 
-\#### 1 straipsnis. 14 straipsnio pakeitimas
+## 1 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „8. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Pataisos pareigūnų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato teisingumo ministras, vidaus reikalųprofesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustatošvietimo ir mokslo ministras kartu su ūkio ministru.“
 
-\#### 2 straipsnis. 22 straipsnio pakeitimas
+## 2 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Vilnius
 
 „2) tvirtina asmenų, išskyrus asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos įstatymas, Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statutas ar Vidaus tarnybos statutas, pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą;“.
 
-\#### 3 straipsnis. 231 straipsnio pakeitimas
+## 3 straipsnis. 231 straipsnio pakeitimas
 
 Pakeisti 23^1 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas, pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą;“.
 
-\#### 4 straipsnis. Įstatymo papildymas 232 straipsniu
+## 4 straipsnis. Įstatymo papildymas 232 straipsniu
 
 Papildyti Įstatymą 23^2straipsniu:
 
@@ -86,19 +86,19 @@ Papildyti Įstatymą 23^2straipsniu:
 
 4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 5 straipsnis. 31 straipsnio pakeitimas
+## 5 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams ir (ar) Užimtumo fondo taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos pataisos pareigūnų profesinio mokymo įstaigų vykdomam formaliajam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką, o mokymo lėšos vidaus reikalų profesinio mokymo įstaigų vykdomam formaliajam profesiniam mokymui – taikant Vyriausybės patvirtintą vidaus reikalų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.“
 
-\#### 6 straipsnis. 32 straipsnio pakeitimas
+## 6 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Mokiniams, kurie mokosi pagal profesinio mokymo programas siekdami įgyti pirmąją kvalifikaciją, pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būtimokamos stipendijos ir teikiama kita materialinė parama.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2015 m. rugsėjo 1 d.
 

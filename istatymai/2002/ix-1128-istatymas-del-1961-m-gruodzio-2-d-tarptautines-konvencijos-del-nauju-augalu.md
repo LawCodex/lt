@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A59F68EE7B88"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A59F68EE7B88.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1961 m. gruodžio 2 d. Tarptautinės konvencijos dėl naujų augalų veislių apsaugos su pakeitimais, padarytais 1972 m. lapkričio 10 d., 1978 m. spalio 23 d. ir 1991 m. kovo 19 d. Ženevoje, ratifikavimo
@@ -26,7 +26,7 @@ DĖL 1961 M. GRUODŽIO 2 D. TARPTAUTINĖS KONVENCIJOS DĖL NAUJŲ AUGALŲ VEISLI
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 6 d. dekretą Nr. 1885,ratifikuoja 1961 m. gruodžio 2 d. Tarptautinę konvenciją dėl naujų augalų veislių apsaugos su pakeitimais, padarytais 1972 m. lapkričio 10 d., 1978 m. spalio 23 d. ir 1991 m. kovo 19 d. Ženevoje.
 

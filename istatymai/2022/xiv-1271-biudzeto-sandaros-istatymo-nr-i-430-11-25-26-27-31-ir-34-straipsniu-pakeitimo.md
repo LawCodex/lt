@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/60773af0041e11edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.60773AF0041E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymas
@@ -114,5 +114,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1764, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27579
 
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymo Nr. XIV-1271 3 straipsnio pakeitimo įstatymas
-
-part_1045511c6603412a832cbc93a50e703c_end

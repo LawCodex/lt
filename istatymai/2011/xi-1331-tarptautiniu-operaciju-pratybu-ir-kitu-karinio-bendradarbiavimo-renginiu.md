@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7306822975F3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7306822975F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo 14 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [58-1133](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A); 2002, Nr. 13-465)
 
-\#### 1 straipsnis. 14 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 14 straipsnio 5 dalies pakeitimas
 
 Pakeisti 14 straipsnio 5 dalį ir ją išdėstyti taip:
 

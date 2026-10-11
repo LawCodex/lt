@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FDB369D8BA86"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FDB369D8BA86.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 17, 26, 34, 35, 44 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991 Nr. 17-447; 1994, Nr. 88-1666, Nr. 96-1874; 1995, Nr. 59-1481, Nr. 89-1987; 1997, Nr. 67-1651; 1998, Nr. 115-3242; 1999, Nr. 32-900, Nr. 50-1599, Nr. 88-2583)
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalies 1, 2 punktuose, privaloma
 
 Asmenų, draudžiamų privalomuoju sveikatos draudimu, įmokų dydžius, mokėjimo šaltinius bei tvarką nustato Sveikatos draudimo įstatymas.“
 
-\#### 2 straipsnis. 7 straipsnio 1, 3 dalių pakeitimas
+## 2 straipsnis. 7 straipsnio 1, 3 dalių pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -80,19 +80,19 @@ Asmenų, draudžiamų privalomuoju sveikatos draudimu, įmokų dydžius, mokėji
 
 „Asmenys, kurie buvo draudžiami pagal šio įstatymo 4 straipsnio 1 dalies 1, 2 punktus ir neteko darbo, turi teisę į ligos pašalpą dėl ligos arba traumos (6 straipsnio 1 punktas), jei jie prarado darbingumą laikotarpiu, kuriuo pagal įstatymus mokama išeitinė pašalpa, visas uždarbis arba jo dalis ir yra nedarbingi šiam laikotarpiui pasibaigus.“
 
-\#### 3 straipsnis. 17 straipsnio pakeitimas
+## 3 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnio 1 dalyje vietoj žodžių „4 straipsnio 1 punktą“ įrašyti žodžius „4 straipsnio 1 dalies 1, 2 punktus“ ir šią dalį išdėstyti taip:
 
 „Motinystės (tėvystės) pašalpa iš valstybinio socialinio draudimo lėšų skiriama vienam iš tėvų (globėjų), apdraustam pagal šio įstatymo 4 straipsnio 1 dalies 1, 2 punktus.“
 
-\#### 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 26 straipsnio 1 dalyje vietoj žodžių „4 straipsnyje“ įrašyti žodžius „4 straipsnio 1 dalies 1, 2, 6, 7, 8 punktuose“ ir šią dalį išdėstyti taip:
 
 „Šio įstatymo 4 straipsnio 1 dalies 1, 2, 6, 7, 8 punktuose išvardytiems apdraustiesiems, gaunantiems arba turintiems teisę gauti valstybinę socialinio draudimo pensiją, jeigu jiems invalidumą nustatančių komisijų sprendimu pripažinta teisė įsigyti specialiuosius lengvuosius automobilius, kas mėnesį išmokama 25 procentų mėnesinio minimalaus gyvenimo lygio dydžio transporto išlaidų kompensacija, nepaisant to, ar jie yra įsigiję automobilį.“
 
-\#### 5 straipsnis. 34 straipsnio 1, 3 dalių pakeitimas ir papildymas
+## 5 straipsnis. 34 straipsnio 1, 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Asmenų, draudžiamų privalomuoju sveikatos draudimu, įmokų dydžius, mokėji
 
 „Asmenys, išvardyti šio įstatymo 4 straipsnio 1 dalies 6, 7 ir 8 punktuose, valstybinio socialinio draudimo įmokas moka patys:“.
 
-\#### 6 straipsnis. 35 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 35 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 35 straipsnį ir jį išdėstyti taip:
 
@@ -110,13 +110,13 @@ Pakeisti ir papildyti 35 straipsnį ir jį išdėstyti taip:
 
 Bendrasis privalomojo valstybinio socialinio draudimo įmokų tarifas ir jo dydžiai atskiroms draudimo rūšims, taip pat apdraustųjų, išvardytų šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose, įmokų tarifas Vyriausybės teikimu tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
-\#### 7 straipsnis. 44 straipsnio 1 dalies pakeitimas ir papildymas
+## 7 straipsnis. 44 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Visi draudėjai, kurie turi mokėti valstybinio socialinio draudimo įmokas už draudžiamuosius, išvardintus šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose, taip pat 4 straipsnio 1 dalies 6, 7 ir 8 punktuose nurodyti asmenys privalo registruotis Valstybinio socialinio draudimo fondo valdybos teritoriniuose skyriuose.“
 
-\#### 8 straipsnis. Baigiamosios nuostatos
+## 8 straipsnis. Baigiamosios nuostatos
 
 Vyriausybė iki 2000 m. gegužės 15 d. pateikia Seimui:
 

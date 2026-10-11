@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.022DAB50D41A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.022DAB50D41A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 50, 51, 106 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2003, Nr. [38-1734](https://www.e-tar.lt/portal/lt/legalAct/TAR.A892013CE410); 2004, Nr. [72-2493](https://www.e-tar.lt/portal/lt/legalAct/TAR.795F9BE0DF6E); 2005, Nr. [18-575](https://www.e-tar.lt/portal/lt/legalAct/TAR.65054EC6F722); 2008, Nr. [50-1842](https://www.e-tar.lt/portal/lt/legalAct/TAR.7AB554EBF16F))
 
-\#### 1 straipsnis. 50 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 50 straipsnio 4 dalies pakeitimas
 
 Pakeisti 50 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Tais atvejais, kai įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas daugiau kaip tris dienas iš eilės negali dalyvauti procese, ikiteisminio tyrimo pareigūnas, prokuroras ir teisėjas turi teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam pasikviesti kitą gynėją, o jei šie to nepadaro, privalo paskirti gynėją. Jeigu įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas negali per šešias valandas atvykti dalyvauti pirmojoje apklausoje arba apklausoje dėl suėmimo pagrįstumo, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas turi teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam į šią apklausą pasikviesti kitą gynėją, o jei šie to nepadaro, privalo paskirti gynėją. Pagal šią dalį gynėjas yra paskiriamas neatsižvelgiant į ginamojo norus turėti konkretų advokatą. Gynėjas parenkamas ir paskiriamas šio Kodekso 51 straipsnio 3 dalyje nustatyta tvarka.Naujo gynėjo paskyrimas netrukdo bylos procese dalyvauti asmens anksčiau pasirinktam gynėjui.“
 
-\#### 2 straipsnis. 51 straipsnio 1 dalies papildymas 10 punktu, 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 2 straipsnis. 51 straipsnio 1 dalies papildymas 10 punktu, 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Papildyti 51 straipsnio 1 dalį 10 punktu:
 
@@ -44,17 +44,17 @@ Pakeisti 50 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Išnykus šio Kodekso 50 straipsnio 4 dalyje ir šio straipsnio 1 arba 2 dalyje nurodytoms aplinkybėms, dėl kurių įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, ikiteisminio tyrimo pareigūnas, prokuroras nutarimu ar teismas nutartimi nutraukia valstybės garantuojamos teisinės pagalbos teikimą.“
 
-\#### 3 straipsnis. 106 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 106 straipsnio 2 dalies pakeitimas
 
 Pakeisti 106 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, turi teisę nuspręsti iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, išskyrus šio Kodekso 51 straipsnio 1 dalies 1 ir 2 punktuose numatytus atvejus, taip pat nukentėjusiojo ir civilinio ieškovo turėtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. Teismas, atsižvelgdamas į nuteistojo turtinę padėtį, gali šių išlaidų kaltinamajam nepriteisti ar jų dydį sumažinti.“
 
-\#### 4 straipsnis. Įstatymo įgyvendinimas
+## 4 straipsnis. Įstatymo įgyvendinimas
 
 Šio įstatymo nuostatos dėl valstybės garantuojamos teisinės pagalbos išlaidų dėl būtino gynėjo dalyvavimo išieškojimo į valstybės biudžetą, atsižvelgiant į įtariamojo, kaltinamojo ar nuteistojo turtinę padėtį, taikomos tik po šio įstatymo įsigaliojimo dienos priimtiems sprendimams dėl būtino gynėjo dalyvavimo.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

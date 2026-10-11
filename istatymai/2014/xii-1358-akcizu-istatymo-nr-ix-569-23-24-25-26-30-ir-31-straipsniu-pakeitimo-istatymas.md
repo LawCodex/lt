@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a38a46607af211e48d20daf2927aba7d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A38A46607AF2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir 31 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ AKCIZŲ ĮSTATYMO NR. IX-569 23, 24, 25, 26, 30 IR 31 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas
+## 1 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Alui taikomas 3,11 eurouž 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.“
 
-\#### 2 straipsnis. 24 straipsnio pakeitimas
+## 2 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie
 
 2) šio straipsnio 1 punkte nenurodytiems gėrimams – 72,12 euro už produkto hektolitrą.“
 
-\#### 3 straipsnis. 25 straipsnio pakeitimas
+## 3 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -56,13 +56,13 @@ Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 126,27 euro už produkto hektolitrą.“
 
-\#### 4 straipsnis. 26 straipsnio pakeitimas
+## 4 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Etilo alkoholiui taikomas 1 320,67 euro už gryno etilo alkoholio hektolitrą akcizų tarifas.“
 
-\#### 5 straipsnis. 30 straipsnio pakeitimas
+## 5 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -72,13 +72,13 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 77,91 euro už 1 000 cigarečių.“
 
-\#### 6 straipsnis. 31 straipsnio pakeitimas
+## 6 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Cigarams ir cigarilėms taikomas 28,09 euro už kilogramą produkto akcizų tarifas.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2015 m. kovo 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/40daf340ceca11ed9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.40DAF340CECA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 pakeitimo įstatymo Nr. XIV-1738 1 straipsnio pakeitimo įstatymas
@@ -76,16 +76,6 @@ d) po šio juridinio asmens bausmės už nusikaltimą, pagal Baudžiamąjį kode
 
 „2) fizinio arba juridinio asmens, įmonę kontroliuojančio asmens ar administracijos vadovo atžvilgiu yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl nusikalstamų veikų, nurodytų šio straipsnio 1 dalies 2 ir 7 punktuose;“.
 
-part_0f47cedf3aae47859bc088c0586d3644_end
-
-part_92296280b4bc46cd80e4c94242d86db8_end
-
-part_938621fab1ea4e65a1acacad9a1266eb_end
-
-part_ca22aa0a3c174028aaaa06e380243b85_end
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_a94d6fe3f84b486db191c7840395dde0_end

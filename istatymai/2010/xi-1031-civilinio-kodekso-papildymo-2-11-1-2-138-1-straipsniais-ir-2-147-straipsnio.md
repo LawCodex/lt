@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C428C49E6FBA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C428C49E6FBA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso papildymo 2.11-1, 2.138-1 straipsniais ir 2.147 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB))
 
-\#### 1 straipsnis. Kodekso papildymas 2.111 straipsniu
+## 1 straipsnis. Kodekso papildymas 2.111 straipsniu
 
 Papildyti Kodeksą 2.11^1 straipsniu:
 
@@ -36,7 +36,7 @@ Papildyti Kodeksą 2.11^1 straipsniu:
 
 3. Neveiksnių ir ribotai veiksnių asmenų registro duomenys Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka teikiami tik turintiems įstatymų ir kitų teisės aktų nustatytą teisę šiuos duomenis gauti duomenų gavėjams jų tiesioginėms funkcijoms atlikti.“
 
-\#### 2 straipsnis. Kodekso papildymas 2.1381 straipsniu
+## 2 straipsnis. Kodekso papildymas 2.1381 straipsniu
 
 Papildyti Kodeksą 2.138^1 straipsniu:
 
@@ -50,7 +50,7 @@ Papildyti Kodeksą 2.138^1 straipsniu:
 
 4. Notarine tvarka patvirtintų įgaliojimų registro duomenys tvarkomi Notarine tvarka patvirtintų įgaliojimų registro nuostatų nustatyta tvarka.“
 
-\#### 3 straipsnis. 2.147 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 2.147 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2.147 straipsnį nauja 2 dalimi:
 
@@ -58,7 +58,7 @@ Papildyti Kodeksą 2.138^1 straipsniu:
 
 2. Buvusias 2.147 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 

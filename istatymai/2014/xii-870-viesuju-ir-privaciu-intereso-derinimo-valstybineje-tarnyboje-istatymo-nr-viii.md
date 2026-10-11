@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/553c0200daa211e39a43a3f57c05722e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.553C0200DAA2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių intereso derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 2, 4, 5, 6, 10 ir 13 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO NR
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. **Asmenys, dirbantys valstybinėje tarnyboje**, – valstybės politikai, valstybės pareigūnai, valstybės tarnautojai, teisėjai, žvalgybos pareigūnai, profesinės karo tarnybos karininkai, asmenys, dirbantys valstybės ir savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo įgaliojimus, asmenys, dirbantys viešosiose įstaigose ir asociacijose, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turintys administravimo įgaliojimus, Lietuvos banko darbuotojai, turintys viešojo administravimo įgaliojimus (atliekantys finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, vadovai ir vadovų pavaduotojai, taip pat kiti asmenys, turintys viešojo administravimo įgaliojimus.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams, ministerijų kolegijų nariams, Privalomojo sveikatos draudimo tarybos nariams, taip pat gydytojams, odontologams ir farmacijos specialistams, dirbantiems biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 5. Teisės aktų nustatytais atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja pačios iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės etikos komisijos.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 „6) informaciją apie per paskutinius 12 kalendorinių mėnesių sudarytus ir kitus galiojančius sandorius (sandorio rūšis, forma, objektas, šalys, sudarymo data, apytikslė sandorio vertė), jeigu sandorio vertė didesnė negu 10 000 Lt;“.
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -76,13 +76,13 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 3. Valstybinėje tarnyboje dirbančių asmenų privačių interesų duomenų viešumui užtikrinti Valstybės registrų įstatymo nustatyta tvarka steigiamas Privačių interesų registras.“
 
-\#### 6 straipsnis. 13 straipsnio pakeitimas
+## 6 straipsnis. 13 straipsnio pakeitimas
 
 Papildyti 13 straipsnį 3 dalimi:
 
 „3. Šio straipsnio nuostatos taip pat taikomos ministerijų kolegijų nariams, Privalomojo sveikatos draudimo tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, nurodytiems šio įstatymo 4 straipsnio 1 dalyje.“
 
-\#### 7 straipsnis. Įstatymo taikymas
+## 7 straipsnis. Įstatymo taikymas
 
 Šio įstatymo 2 straipsnyje išdėstytoje Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 4 straipsnio 1 dalyje nurodyti ministerijų kolegijų nariai, Privalomojo sveikatos draudimo tarybos nariai, gydytojai, odontologai ir farmacijos specialistai, kurie nėra pateikę privačių interesų deklaracijos, šią deklaraciją pateikia Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nustatyta tvarka iki 2015 m. kovo 1 d.
 

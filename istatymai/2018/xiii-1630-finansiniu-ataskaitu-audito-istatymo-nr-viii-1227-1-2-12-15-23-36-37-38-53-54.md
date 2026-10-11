@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/eceda120eef311e88568e724760eeafa"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ECEDA120EEF3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 1, 2, 12, 15, 23, 36, 37, 38, 53, 54, 55, 56, 58, 62, 68, 69, 73 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo vienuoliktuoju-1 skirsniu įstatymas

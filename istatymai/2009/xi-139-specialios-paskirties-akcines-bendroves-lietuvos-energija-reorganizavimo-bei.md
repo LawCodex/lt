@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A635E755BC1F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A635E755BC1F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1997, Nr. [33-814](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB), Nr. [64-1495](https://www.e-tar.lt/portal/lt/legalAct/TAR.B1B9C428FF5B); 1998, Nr. [105-2901](https://www.e-tar.lt/portal/lt/legalAct/TAR.A3A4781BBD0D); 2000, Nr. [45-1294](https://www.e-tar.lt/portal/lt/legalAct/TAR.CFC761799E13))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 5 straipsnio 1 dalyje vietoj žodžių „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerija“ ir šią dalį išdėstyti taip:
 
 „1. Energetikos ministerija rengia nacionalinį šilumos ūkio plėtros planą, koordinuoja savivaldybių šilumos ūkio plėtros strategines kryptis, teikia savivaldybėms metodinę paramą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.
 

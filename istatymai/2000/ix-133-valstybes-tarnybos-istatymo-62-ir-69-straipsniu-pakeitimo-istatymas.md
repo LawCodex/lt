@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4CE00B2DB564"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4CE00B2DB564.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 62 ir 69 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2000, Nr. [75-2270](https://www.e-tar.lt/portal/lt/legalAct/TAR.905114AB2F6E), Nr. [102-3213](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9165AA625E7))
 
-\#### 1 straipsnis. 62 straipsnio 10 dalies pakeitimas
+## 1 straipsnis. 62 straipsnio 10 dalies pakeitimas
 
 62 straipsnio 10 dalyjevietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip:
 
 „10. Valstybės tarnautojams ankstesnės darbo apmokėjimo sąlygos lieka galioti iki 2001 m. liepos 1 d.“
 
-\#### 2 straipsnis. 69 straipsnio 1 dalies, 2 dalies 2 punkto ir 3 dalies pakeitimas
+## 2 straipsnis. 69 straipsnio 1 dalies, 2 dalies 2 punkto ir 3 dalies pakeitimas
 
 1. 69 straipsnio 1 dalyje vietoj žodžio „sausio“ įrašyti žodį „liepos“ ir šią dalį išdėstyti taip:
 
@@ -54,13 +54,10 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
 
-\| Metai | 2001 | 2002 | 2003 | | |
-
-\| --- | --- | --- | --- | --- | --- |
-
-\| Pusmečiai | II | I | II | I | |
-
-\| M | 0,4 | 0,6 | 0,8 | 0,9 | „ |
+| Metai | 2001 | 2002 | 2003 |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Pusmečiai | II | I | II | I |  |
+| M | 0,4 | 0,6 | 0,8 | 0,9 | „ |
 
 3. Pakeisti 69 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -76,13 +73,11 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai didinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
 
-\| Metai | 2001 | 2002 | 2003 | 2004 | 2005 |
+| Metai | 2001 | 2002 | 2003 | 2004 | 2005 |
+| --- | --- | --- | --- | --- | --- |
+| D | 0 | 0,2 | 0,5 | 0,7 | 0,9 |
 
-\| --- | --- | --- | --- | --- | --- |
-
-\| D | 0 | 0,2 | 0,5 | 0,7 | 0,9 |
-
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

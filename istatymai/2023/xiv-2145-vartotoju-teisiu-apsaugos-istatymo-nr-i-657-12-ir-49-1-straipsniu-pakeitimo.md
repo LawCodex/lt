@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/09186c401b3b11eeb233e8b04dc9bb3d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.09186C401B3B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 49-1 straipsnių pakeitimo įstatymas
@@ -101,5 +101,3 @@ Valstybinė vartotojų teisių apsaugos tarnyba turi teisę Elektroninių ryši�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_50baa7727e324a72abc97e9b5ca4ddae_end

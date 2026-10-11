@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3266F3F55E43"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3266F3F55E43.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 1, 11, 14, 18, 19, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [53-1245](https://www.e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 2 dalimi
 
 Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Kitų Lietuvos Respublikos jūrų uostų, naftos bei chemijos produktų terminalų, neįeinančių į jūrų uostų teritorijas, veiklą bei valdymą reguliuoja kiti Lietuvos Respublikos įstatymai, o iki jų įsigaliojimo – Lietuvos Respublikos Vyriausybės nutarimai.“
 
-\#### 2 straipsnis. 11 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 11 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 11 straipsnį nauja 1 dalimi:
 
@@ -46,7 +46,7 @@ Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Buvusią 11 straipsnio 1 dalį laikyti 2 dalimi.
 
-\#### 3 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 15) išduoda leidimus vykdyti narų darbus, kelti paskendusį turtą uosto akvatorijoje, derina leidimų vykdyti statybos ir remonto darbus uosto krantinėse ir akvatorijoje išdavimą.“
 
-\#### 4 straipsnis. 18 straipsnio 2, 5 dalių pakeitimas ir papildymas
+## 4 straipsnis. 18 straipsnio 2, 5 dalių pakeitimas ir papildymas
 
 1. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -92,13 +92,13 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Locmanų veiklos uosto prieigose ir uosto vandenyse nuostatus tvirtina ir locmanų veiklą kontroliuoja uosto kapitonas.“
 
-\#### 5 straipsnis. 19 straipsnio 1 dalies papildymas
+## 5 straipsnis. 19 straipsnio 1 dalies papildymas
 
 Papildyti 19 straipsnio 1 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 „1. Uosto prieigose bei uosto vandenyse, nesvarbu, kokia laivo vėliava, laivus pagal Susisiekimo ministerijos patvirtintas Uosto laivybos taisykles veda locmanai. Laivybos saugumas kituose Lietuvos Respublikos jūrų uostuose, naftos bei chemijos produktų terminalų, neįeinančių į jūrų uostų teritorijas, prieigose užtikrinamas Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 6 straipsnis. 22 straipsnio 1 dalies papildymas
+## 6 straipsnis. 22 straipsnio 1 dalies papildymas
 
 22 straipsnio 1 dalyje po žodžių „locmano rinkliavą“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės nustatyta tvarka“ ir šią dalį išdėstyti taip:
 

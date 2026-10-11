@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/220bc78089da11e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.220BC78089DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 5, 6, 17, 19, 21, 22, 32 straipsnių pakeitimo ir papildymo ĮSTATYMAS
@@ -36,7 +36,7 @@ Nr. [149-6029](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=334552), N
 
 2012, Nr. [83-4340](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=429537), Nr. [136-6966](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=437391); 2013, Nr. [46-2251](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=447193), Nr. [75-3756](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=453087), Nr. [75-3759](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=453092))
 
-\#### 1 straipsnis. 2 straipsnio 36 ir 37 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 36 ir 37 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 36 dalį ir ją išdėstyti taip:
 
@@ -46,19 +46,19 @@ Nr. [149-6029](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=334552), N
 
 „37.**Ne nuosavybės vertybiniai popieriai** –kaip ši sąvoka apibrėžta LietuvosRespublikos vertybinių popierių įstatyme, taip pat kiti vertybiniai popieriai.“
 
-\#### 2 straipsnis. 5 straipsnio 4 dalies 1 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 4 dalies 1 punkto pakeitimas
 
 Pakeisti 5 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) palūkanos, išskyrus palūkanas už Vyriausybės ne nuosavybės vertybinius popierius;“.
 
-\#### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 3 dalies pakeitimas
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3.Pajamų mokesčio 5 procentų tarifas taikomas individualios veiklos pajamoms, išskyrus pajamas iš laisvųjų profesijų veiklos,taip pat ne individualios veiklos pajamoms, gautoms pardavus ar kitaip nuosavybėn perleidus netauriųjų metalų laužą.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 17 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 ,,5. Šio straipsnio 1 dalies 20 punkte nustatyta lengvata nenuolatiniam Lietuvos gyventojui gali būti taikoma tik mokestiniam laikotarpiui pasibaigus, teikiant metinę pajamų mokesčio deklaraciją.“
 
-\#### 5 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) su šio turto pardavimu arba kitokiu perleidimu nuosavybėn ar išvestinės finansinės priemonės realizavimu susiję teisės aktuose nustatyti privalomi mokėjimai.“
 
-\#### 6 straipsnis. 21 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
+## 6 straipsnis. 21 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -104,19 +104,19 @@ Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2) savo, sutuoktinio, iki 18 metų ir vyresnių neįgaliųjų vaikų (įvaikių,globotinių, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems nustatytas specialusis nuolatinės slaugos poreikis, bei iki 18 metų ir vyresnių vaikų (įvaikių, globotinių, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje, pilnamečių asmenų, kuriems iki pilnametystės buvo nustatyta nuolatinė globa (rūpyba) šeimoje), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia, naudai sumokėtos pensijų įmokos į pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių Europos ekonominės erdvės valstybėje, turimus pensijų fondus;“.
 
-\#### 7 straipsnis. 22 straipsnio 2 dalies 1 punkto pakeitimas
+## 7 straipsnis. 22 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 22 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos pajamos, išskyrus azartinių lošimų ir loterijų laimėjimus, pajamas, gautas kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, neribotos civilinės atsakomybės vieneto dalyvio, kuris yra nuolatinis Lietuvos gyventojas, pajamas, gautas iš šio neribotos civilinės atsakomybės vieneto, mažosios bendrijos nario, kuris yra nuolatinis Lietuvos gyventojas, pajamas, gautas iš šios mažosios bendrijos, pajamas iš išvestinių finansinių priemonių realizavimo ir šiame punkte nenurodytas palūkanas, individualios veiklos pajamas, taip pat pajamas iš ne individualios veiklos turto ir individualios veiklos turtui priskirto nekilnojamojo pagal prigimtį daikto pardavimo ar kitokio perleidimo nuosavybėn. Iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos sporto veiklos, atlikėjo veiklos pajamos, kitos veiklos pajamos, kurias gyventojui išmoka su juo darbo santykiais ar jų esmę atitinkančiais santykiais susijęs asmuo, nenuolatinių Lietuvos gyventojų pajamos, gautos už parduotą ar kitaip perleistą nuosavybėn nekilnojamąjį daiktą, esantį Lietuvoje, arba kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, nenuolatinių Lietuvos gyventojų palūkanos, gautos iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę ir iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę, ir gyventojų individualios ir ne individualios veiklos pajamos už parduotą arba kitaip perleistą nuosavybėn nenukirstą mišką, apvaliąją medieną, netauriųjų metalų laužą taip pat priskiriamos A klasės pajamoms ir“.
 
-\#### 8 straipsnis. 32 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 32 straipsnio 1 dalies pakeitimas
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Gyventojas, gavęs pajamų iš Lietuvos vienetų, iš užsienio vienetų per jų nuolatines buveines arba iš nenuolatinių Lietuvos gyventojų per jų nuolatines bazes už kilnojamojo daikto, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, už nekilnojamojo daikto, esančio Lietuvoje, pardavimą arba kitokį perleidimą nuosavybėn, taip pat ne individualios veiklos pajamų už nenukirsto miško, apvaliosios medienos pardavimą arba kitokį perleidimą nuosavybėn, nuo kurių šio Įstatymo 23 straipsnio nustatyta tvarka buvo išskaičiuotas pajamų mokestis, turi teisę kreiptis į mokesčio administratorių dėl pajamų mokesčio už parduotą daiktą perskaičiavimo, t. y. kad būtų apskaičiuojamas pajamų mokestis iš gautų pajamų atėmus šio Įstatymo 19 straipsnyje nustatytas išlaidas.“
 
-\#### 9 straipsnis. Įstatymo taikymas
+## 9 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas, išskyrus 4 straipsnio 1 ir 2 dalis, taikomas apskaičiuojant ir deklaruojant 2014 metų ir vėlesnių mokestinių laikotarpių pajamas.
 

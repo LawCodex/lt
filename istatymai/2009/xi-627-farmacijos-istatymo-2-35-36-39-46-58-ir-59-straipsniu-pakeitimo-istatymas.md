@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.79BBE03F28EA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.79BBE03F28EA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos farmacijos įstatymo 2, 35, 36, 39, 46, 58 ir 59 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2006, Nr. [78-3056](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD); 2008, Nr. [149-5991](https://www.e-tar.lt/portal/lt/legalAct/TAR.63F0DB115080))
 
-\#### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 2) aprašinis vaistinis preparatas – pagal vaistinio preparato aprašą pagamintas vaistinis preparatas.“
 
-\#### 2 straipsnis. 35 straipsnio 4 ir 12 dalių pakeitimas
+## 2 straipsnis. 35 straipsnio 4 ir 12 dalių pakeitimas
 
 1. Pakeisti 35 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „12. Visuomenės vaistinė, gamybinė visuomenės vaistinė, universiteto vaistinė, ligoninės vaistinė, gamybinė ligoninės vaistinė, ją likviduojant, reorganizuojant, perleidžiant juridinį asmenį ar pradėjus jos bankroto procedūrą, gali parduoti turimus vaistinius preparatus didmeninio platinimo įmonei ar kitai vaistinei, kol galioja juridinio asmens vaistinės veiklos arba gamybinės vaistinės veiklos licencija.“
 
-\#### 3 straipsnis. 36 straipsnio 1, 4, 5 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 3 straipsnis. 36 straipsnio 1, 4, 5 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -60,19 +60,19 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 4. 36 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 39 straipsnio 1 dalies 2 punkto pakeitimas
+## 4 straipsnis. 39 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 39straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) vaistinius preparatus, veikliąsias ir kitas vaistines medžiagas įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, kartinius vaistinius preparatus įsigyti tik iš juos pagaminusios pagal pateiktą gydytojo receptą gamybinės visuomenės vaistinės;“.
 
-\#### 5 straipsnis. 46 straipsnio 1 dalies 1 punkto pakeitimas
+## 5 straipsnis. 46 straipsnio 1 dalies 1 punkto pakeitimas
 
 46 straipsnio 1 dalies 1 punkte vietoj žodžių „Farmacijos departamento prie Sveikatos apsaugos ministerijos direktorius“ įrašyti žodžius „sveikatos apsaugos ministras“ ir šį punktą išdėstyti taip:
 
 „1) užtikrinti, kad farmacinės atliekos būtų tvarkomos pagal techninį reglamentą, kuris smulkiai apibrėžia, kaip atliekos turi būti surenkamos, rūšiuojamos, saugomos, įtraukiamos į apskaitą. Techninį reglamentą, suderintą su Aplinkos ministerija, tvirtina sveikatos apsaugos ministras;“.
 
-\#### 6 straipsnis. 58 straipsnio 2 ir 3 dalių pakeitimas
+## 6 straipsnis. 58 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 58 straipsnio 2 dalyje vietoj žodžių „Farmacijos departamentui prie Sveikatos apsaugos ministerijos“ įrašyti žodžius „Sveikatos apsaugos ministerijai“ ir šią dalį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 39straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „3. Sprendimas dėl vaistinio preparato, ligos ar medicinos pagalbos priemonės įrašymo į šio straipsnio 1 dalyje nurodytus sąrašus ir jų kainos priimamas ne vėliau kaip per 180 dienų nuo paraiškos įregistravimo Sveikatos apsaugos ministerijoje dienos. Kai priimamas sprendimas, turi būti nurodomos objektyviais ir patikrinamais kriterijais pagrįstos tokio sprendimo priežastys.“
 
-\#### 7 straipsnis. 59 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 59 straipsnio 2 dalies pakeitimas
 
 59 straipsnio 2 dalyje vietoj žodžių „Farmacijos departamentui prie Sveikatos apsaugos ministerijos“ įrašyti žodžius „Sveikatos apsaugos ministerijai“ ir šią dalį išdėstyti taip:
 

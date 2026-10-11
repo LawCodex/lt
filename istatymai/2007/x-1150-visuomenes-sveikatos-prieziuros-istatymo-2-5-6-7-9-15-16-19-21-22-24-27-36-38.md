@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0BCCDA9AAF34"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0BCCDA9AAF34.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 2, 5, 6, 7, 9, 15, 16, 19, 21, 22, 24, 27, 36, 38, 39, 41, 42, 43, 44 straipsnių pakeitimo ir papildymo bei 8, 11, 14 straipsnių pripažinimo netekusiais galios įstatymas

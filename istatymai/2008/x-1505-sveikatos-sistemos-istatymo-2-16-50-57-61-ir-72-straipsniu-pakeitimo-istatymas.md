@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A558A8E794A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8A558A8E794A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 2, 16, 50, 57, 61 ir 72 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A); 2000, Nr. [92-2876](https://www.e-tar.lt/portal/lt/legalAct/TAR.4688980C7C83); 2004, Nr. [68-2367](https://www.e-tar.lt/portal/lt/legalAct/TAR.529B7165A88A), 2372, Nr. [171-6309](https://www.e-tar.lt/portal/lt/legalAct/TAR.2F79E8698F3A); 2007, Nr. [64-2456](https://www.e-tar.lt/portal/lt/legalAct/TAR.5490EE6DF9CD))
 
-\#### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 8 dalies pakeitimas
 
 Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. **Farmacinė veikla** – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, kurią reglamentuoja Farmacijos įstatymas.“
 
-\#### 2 straipsnis. 16 straipsnio 1 ir 3 dalių pakeitimas
+## 2 straipsnis. 16 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „3. Juridiniai asmenys įgyja teisę verstis tam tikros rūšies farmacine veikla tik Vyriausybės nustatyta tvarka gavę licencijas. Licencijuojamos farmacinės veiklos rūšis nustato Farmacijos įstatymas. Farmacinė veikla vykdoma pagal Farmacijos įstatymą ir kitus teisės aktus.“
 
-\#### 3 straipsnis. 50 straipsnio 1 ir 2 dalių pakeitimas
+## 3 straipsnis. 50 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 50 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -50,17 +50,17 @@ Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „2. Sveikatos priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą specialybę. Įstatymų nustatytais atvejais arba kai asmens sveikatos priežiūros specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų profesijų sąrašą, specialistai gali praktikuoti tik gavę licenciją.“
 
-\#### 4 straipsnis. 57 straipsnio 3 dalies pakeitimas
+## 4 straipsnis. 57 straipsnio 3 dalies pakeitimas
 
 57 straipsnio 3 dalyje vietoj žodžių „Farmacinės veiklos“ įrašyti žodį „Farmacijos“ ir šią dalį išdėstyti taip:
 
 „3. Vaistų reklamos ribojimo ypatumus nustato Farmacijos įstatymas.“
 
-\#### 5 straipsnis. 61 straipsnio 1 dalies 6 punkto pripažinimas netekusiu galios
+## 5 straipsnis. 61 straipsnio 1 dalies 6 punkto pripažinimas netekusiu galios
 
 Pripažinti 61 straipsnio 1 dalies 6 punktą netekusiu galios.
 
-\#### 6 straipsnis. 72 straipsnio pakeitimas
+## 6 straipsnis. 72 straipsnio pakeitimas
 
 Pakeisti 72 straipsnį ir jį išdėstyti taip:
 

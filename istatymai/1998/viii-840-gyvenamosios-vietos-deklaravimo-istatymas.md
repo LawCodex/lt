@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F74ECE427C23.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
@@ -450,5 +450,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1219, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15584
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 4 ir 6 straipsnių pakeitimo įstatymas
-
-part_e9c6a152373445d0ab463415f6403fd5_end

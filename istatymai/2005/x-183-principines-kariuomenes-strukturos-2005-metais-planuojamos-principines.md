@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0E18F6DFF003"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0E18F6DFF003.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos principinės kariuomenės struktūros 2005 metais, planuojamos principinės kariuomenės struktūros 2010 metais nustatymo ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinio skaičiaus patvirtinimo įstatymas
@@ -26,7 +26,7 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2005 METAIS, PLANUOJAMOS PRINCIPINĖS KARI
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato 2005 metų principinę kariuomenės struktūrą:
 
@@ -40,7 +40,7 @@ Vilnius
 
 3. Įstatymas nustato planuojamą 2010 metų principinę kariuomenės struktūrą.
 
-\#### 2 straipsnis. Principinė kariuomenės struktūra 2005 metais
+## 2 straipsnis. Principinė kariuomenės struktūra 2005 metais
 
 1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų skaičius 2005 metais:
 
@@ -70,7 +70,7 @@ Vilnius
 
 3. Bendras ribinis krašto apsaugos sistemoje tarnaujančių civilių statutinių valstybės tarnautojų skaičius 2005 metais nustatomas iki 170.
 
-\#### 3 straipsnis. Planuojama principinė kariuomenės struktūra 2010 metais
+## 3 straipsnis. Planuojama principinė kariuomenės struktūra 2010 metais
 
 1. Nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų skaičius 2010 metais:
 

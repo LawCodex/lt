@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0F96E989FB81"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0F96E989FB81.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 7, 8, 10, 22, 24, 25, 56, 74 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 8-1, 8-2 straipsniais įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 2006, Nr. [4-102](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0DE35FFA738); 2008, Nr. [81-3179](https://www.e-tar.lt/portal/lt/legalAct/TAR.81433CB2B6DF); 2009, Nr. [93-3986](https://www.e-tar.lt/portal/lt/legalAct/TAR.BDE2B4AF963D); 2010, Nr. [25-1174](https://www.e-tar.lt/portal/lt/legalAct/TAR.A91EE63FD1A6); 2011, Nr. [2-36](https://www.e-tar.lt/portal/lt/legalAct/TAR.E02E9F9B4BC7), Nr. [85-4137](https://www.e-tar.lt/portal/lt/legalAct/TAR.B39D88068B20))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „5. Perkančioji organizacija, gavusi Viešųjų pirkimų tarnybos sutikimą, bet kuriuo metu iki pirkimo sutarties sudarymo turi teisę nutraukti pirkimo procedūras, jeigu atsirado aplinkybių, kurių nebuvo galima numatyti. Viešųjų pirkimų tarnybos sutikimas nereikalingas nutraukiant mažos vertėspirkimo procedūras.“
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 4. Kiekvienų kalendorinių metų pabaigoje Viešųjų pirkimų tarnyba per 4 mėnesius parengia metinę veiklos ataskaitą, ją pateikia Lietuvos Respublikos Seimui, Lietuvos Respublikos Vyriausybei ir paskelbia viešai. Viešųjų pirkimų tarnybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė.“
 
-\#### 3 straipsnis. Įstatymo papildymas 81 straipsniu
+## 3 straipsnis. Įstatymo papildymas 81 straipsniu
 
 Papildyti Įstatymą 8^1straipsniu:
 
@@ -98,7 +98,7 @@ Papildyti Įstatymą 8^1straipsniu:
 
 6. Viešųjų pirkimų tarnybos direktorius ir jo pavaduotojai negali eiti kitų renkamų ar skiriamų pareigų, dirbti verslo ar kitose privačiose įstaigose ar įmonėse, išskyrus pedagoginę ar kūrybinę veiklą.“
 
-\#### 4 straipsnis. Įstatymo papildymas 82 straipsniu
+## 4 straipsnis. Įstatymo papildymas 82 straipsniu
 
 Papildyti Įstatymą 8^2straipsniu:
 
@@ -166,13 +166,13 @@ Papildyti Įstatymą 8^2straipsniu:
 
 3. Viešųjų pirkimų tarnyba priima sprendimus savarankiškai ir nešališkai.“
 
-\#### 5 straipsnis. 10 straipsnio 5 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio 5 dalies pakeitimas
 
 Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Šio įstatymo reikalavimai netaikomi pirkimams, jeigu perkančioji organizacija sudaro sutartį su atskirą juridinio asmens statusą turinčiu subjektu, kurį ji kontroliuoja kaip savo pačios tarnybą ar struktūrinį padalinį ir kuriame ji yra vienintelė dalyvė (arba įgyvendina valstybės ar savivaldybės, kaip vienintelės dalyvės, teises ir pareigas), ir jeigu kontroliuojamas subjektas ne mažiau kaip 90 procentų pardavimo pajamų per paskutinius finansinius metus (arba per laiką nuo subjekto įsteigimo dienos, jeigu subjektas vykdė veiklą mažiau kaip vienus finansinius metus) gauna iš veiklos, skirtos perkančiosios organizacijos poreikiams tenkinti ar perkančiosios organizacijos funkcijoms atlikti. Pirkimas šioje dalyje nurodytu būdu gali būti pradedamas tik gavus Viešųjų pirkimų tarnybos sutikimą. Viešųjų pirkimų tarnyba sprendimą dėl sutikimo priima ne vėliau kaip per 20 darbo dienų nuo perkančiosios organizacijos motyvuoto kreipimosi gavimo Viešųjų pirkimų tarnyboje dienos dėl sutikimo pirkimą atlikti šioje dalyje nurodytu būdu. Viešųjų pirkimų tarnybos direktorius sprendimo dėl sutikimo priėmimo terminą gali pratęsti dar 20 darbo dienų. Jeigu per šioje dalyje nustatytą terminą Viešųjų pirkimų tarnyba nepateikia jokio atsakymo, laikoma, kad sutikimas gautas. Kreipimosi dėl sutikimo pirkimą atlikti šioje dalyje nurodytu būdu tvarką nustato Viešųjų pirkimų tarnyba. Siekiant užtikrinti tokių pirkimų kontrolę, perkančioji organizacija, tvirtindama šio įstatymo 7 straipsnio 1 dalyje nurodytus einamaisiais biudžetiniais metais planuojamų atlikti viešųjų pirkimų planus, juose pateikia informaciją apie planuojamus atlikti šioje dalyje nurodytus pirkimus, o per 30 dienų nuo ataskaitinių kalendorinių metų pabaigos Viešųjų pirkimų tarnybai jos nustatyta tvarka pateikia visų per kalendorinius metus atliktų šioje dalyje nurodytų pirkimų ataskaitas.“
 
-\#### 6 straipsnis. 22 straipsnio 3 dalies 3 punkto ir 7 dalies pakeitimas
+## 6 straipsnis. 22 straipsnio 3 dalies 3 punkto ir 7 dalies pakeitimas
 
 1. Pakeisti 22 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -182,31 +182,31 @@ Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „7. Informacija, kuri turi būti nurodyta skelbimuose, skelbimų standartinės formos ir skelbimų reikalavimai nustatyti 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamente (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Reglamentas (EB) Nr. 1564/2005.“
 
-\#### 7 straipsnis. 24 straipsnio 2 dalies papildymas 24 punktu
+## 7 straipsnis. 24 straipsnio 2 dalies papildymas 24 punktu
 
 Papildyti24 straipsnio 2 dalį 24 punktu:
 
 „24) informacija apie numatomą skelbti pranešimą dėl savanoriško ex ante skaidrumo.“
 
-\#### 8 straipsnis. 25 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 25 straipsnio 1 dalies pakeitimas
 
 Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Perkamų prekių, paslaugų ar darbų savybės apibūdinamos pirkimo dokumentuose pateikiamoje techninėje specifikacijoje. Kai kurių techninių specifikacijų sąvokos apibrėžtos šio įstatymo 3 priedėlyje. Visais įmanomais atvejais šios techninės specifikacijos turėtų būti apibrėžtos taip, kad jose būtų atsižvelgta į neįgaliųjų kriterijus arba į visiems naudotojams tinkamą projektą. Viešųjų pirkimų tarnyba turi teisę patvirtinti techninėms specifikacijoms taikomus reikalavimus. Šie reikalavimai perkančiosioms organizacijoms yra privalomi.“
 
-\#### 9 straipsnis. 56 straipsnio papildymas 5 dalimi
+## 9 straipsnis. 56 straipsnio papildymas 5 dalimi
 
 Papildyti 56 straipsnį 5 dalimi:
 
 „5. Pirkimas neskelbiamų derybų būdu gali būti pradedamas tik gavus Viešųjų pirkimų tarnybos sutikimą dėl tokio pirkimo būdo pasirinkimo. Viešųjų pirkimų tarnyba sprendimą dėl sutikimo priima ne vėliau kaip per 20 darbo dienų nuo perkančiosios organizacijos motyvuoto kreipimosi dėl sutikimo pirkimą atlikti neskelbiamų derybų būdu ir jį paskelbia elektroninėmis priemonėmis per Centrinę viešųjų pirkimų informacinę sistemą. Kreipimosi dėl sutikimo pirkimą atlikti neskelbiamų derybų būdu tvarką nustato Viešųjų pirkimų tarnyba. Viešųjų pirkimų tarnybos sutikimas nereikalingas, jeigu perkančioji organizacija numato paskelbti pranešimą dėl savanoriško*ex ante* skaidrumo ir informaciją apie tai nurodo pirkimo dokumentuose arba jeigu pirkimas atliekamas pagal šio straipsnio 1 dalies 4 punktą. Šiuo atveju perkančioji organizacija, priėmusi sprendimą dėl pirkimo būdo pasirinkimo, nedelsdama turi raštu Viešųjų pirkimų tarnybai pateikti motyvus, pagrindžiančius šios išimties taikymą.“
 
-\#### 10 straipsnis. 74 straipsnio 11 dalies pakeitimas
+## 10 straipsnis. 74 straipsnio 11 dalies pakeitimas
 
 Pakeisti 74 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „11. Perkančioji organizacija apie nesudarytą pirkimo sutartį pasibaigus pirkimui šio įstatymo 7 straipsnio 4 dalies 2–6 punktuose nurodytais atvejais paskelbia per 48 dienas po sprendimo nesudaryti pirkimo sutarties priėmimo. Šis reikalavimas netaikomas, kai pirkimas atliekamas neskelbiamų derybų būdu.“
 
-\#### 11 straipsnis. Įstatymo priedo pakeitimas
+## 11 straipsnis. Įstatymo priedo pakeitimas
 
 1. Įstatymo priedo 8 punktą pripažinti netekusiu galios.
 
@@ -214,7 +214,7 @@ Pakeisti 74 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „13. 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Reglamentas (EB) Nr. 1564/2005 (OL 2011 L 222, p. 1).“
 
-\#### 12 straipsnis. Baigiamosios nuostatos
+## 12 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2012 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/713c1330282b11ecad73e69048767e8c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.713C1330282B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 22-2, 23, 23-3, 25, 27, 28, 29-3, 32, 33, 40 straipsnių pakeitimo ir Įstatymo papildymo 35-1, 35-2 straipsniais įstatymas

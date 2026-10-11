@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D202C1148A3A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D202C1148A3A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 2003, Nr. [123-5583](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE03A85CB721); 2005, Nr. [18-577](https://www.e-tar.lt/portal/lt/legalAct/TAR.14A032384AFA))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies 5 punkto pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies 5 punkto pakeitimas
 
 Pakeisti 2 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) valstybės tarnautojai ir jų šeimos nariai, antstoliai ir jų šeimos nariai, notarai ir jų šeimos nariai;“.
 
-\#### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4638CE051413"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4638CE051413.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bankų įstatymo 10, 23, 72, 76, 85 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 76-1 straipsniu ir 28, 29 straipsnių pripažinimo netekusiais galios įstatymas
@@ -28,27 +28,27 @@ Vilnius
 
 (Žin., 2004, Nr. [54-1832](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A); 2005, Nr. [84-3110](https://www.e-tar.lt/portal/lt/legalAct/TAR.011268BD3F38); 2009, Nr. [38-1440](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F174855C1B1), Nr. [93-3970](https://www.e-tar.lt/portal/lt/legalAct/TAR.7647ED906679))
 
-\#### 1 straipsnis. 10 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 5 dalies pakeitimas
 
 Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus, kiek tai būtina atsiskaitant su banko kreditoriais, o jeigu banko turtas, teisės, sandoriai ir įsipareigojimai perduodami pagal šio Įstatymo 76^1 straipsnį – kiek tai būtina, kad banko turtą, teises, sandorius ir įsipareigojimus perėmęs bankas galėtų tinkamai teikti su perimtu turtu, teisėmis, sandoriais ir įsipareigojimais susijusias finansines paslaugas, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.“
 
-\#### 2 straipsnis. 23 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 23 straipsnio 2 dalies pakeitimas
 
 Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalis netaikoma, jeigu viena iš banko akcininkių yra Lietuvos ar užsienio finansų įstaiga ar draudimo įmonė ir ji valdo daugiau kaip 2/3 banko balsavimo teisę suteikiančių akcijų.“
 
-\#### 3 straipsnis. 28 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 28 straipsnio pripažinimas netekusiu galios
 
 28 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 29 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 29 straipsnio pripažinimas netekusiu galios
 
 29 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 72 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 72 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 72 straipsnį nauja 9 dalimi:
 
@@ -60,7 +60,7 @@ Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3. Buvusią 72 straipsnio 9 dalį laikyti 11 dalimi.
 
-\#### 6 straipsnis. 76 straipsnio 4, 5 dalių, 7 dalies 1 punkto ir 9, 10, 11, 12 dalių pakeitimas
+## 6 straipsnis. 76 straipsnio 4, 5 dalių, 7 dalies 1 punkto ir 9, 10, 11, 12 dalių pakeitimas
 
 1. Pakeisti 76 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) atšaukti licenciją, jeigu nėra realių galimybių atkurti banko veiklos stabilumo ir patikimumo, taikyti šio Įstatymo 761 straipsnyje numatytus ar kitus banko problemų sprendimo būdus arba jeigu yra užbaigiamas pagal šio Įstatymo 761 straipsnio nuostatas vykdytas banko turto, teisių, sandorių ir įsipareigojimų perdavimas.“
 
-\#### 7 straipsnis. Įstatymo papildymas 761 straipsniu
+## 7 straipsnis. Įstatymo papildymas 761 straipsniu
 
 Papildyti Įstatymą 76^1 straipsniu:
 
@@ -162,7 +162,7 @@ Papildyti Įstatymą 76^1 straipsniu:
 
 15. Bankas, perėmęs administruojamo banko turtą, teises, sandorius ir įsipareigojimus, neatsako administruojamo banko kreditoriams, kurių reikalavimai jam nebuvo perduoti.“
 
-\#### 8 straipsnis. 85 straipsnio papildymas 9 dalimi
+## 8 straipsnis. 85 straipsnio papildymas 9 dalimi
 
 Papildyti 85 straipsnį 9 dalimi:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.248C7408E018"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.248C7408E018.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 2, 3, 4, 6, 8, 9, 12, 13, 14, 15, 17, 18 straipsnių, trečiojo, šeštojo skirsnių pavadinimų pakeitimo ir papildymo ir 21 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 2004, Nr. 88-3208, Nr. [152-5534](https://www.e-tar.lt/portal/lt/legalAct/TAR.49F68EB98DA9); 2006, Nr. [17-592](https://www.e-tar.lt/portal/lt/legalAct/TAR.52D3D1B8E992), Nr. [68-2496](https://www.e-tar.lt/portal/lt/legalAct/TAR.E14C789C8A3B); 2008, Nr. [81-3175](https://www.e-tar.lt/portal/lt/legalAct/TAR.958BDFBD83AA), Nr. [149-6016](https://www.e-tar.lt/portal/lt/legalAct/TAR.9665F2D6C990); 2009, Nr. [25-982](https://www.e-tar.lt/portal/lt/legalAct/TAR.87D718AF8B13), Nr. [25-983](https://www.e-tar.lt/portal/lt/legalAct/TAR.CE2E0D623A02), Nr. [25-984](https://www.e-tar.lt/portal/lt/legalAct/TAR.D207959E0560); 2010, Nr. [41-1933](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9FB8F126DEF), Nr. [157-7972](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E71326D9433); 2011, Nr. [77-3721](https://www.e-tar.lt/portal/lt/legalAct/TAR.53E1A0AC60A2))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -48,19 +48,19 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 7. Vaiko globėjas (rūpintojas) – fizinis ar juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas 7 punktu
+## 2 straipsnis. 3 straipsnio papildymas 7 punktu
 
 Papildyti 3 straipsnį 7 punktu:
 
 „7) globos (rūpybos) išmokos tikslinis priedas.“
 
-\#### 3 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir darbo ministras. Išmokoms administruoti panaudojama ne didesnė lėšų suma negu nustatytas išmokoms administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų išmokoms mokėti.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 3) nepilnametis yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Lietuvos Respublikos baudžiamojo proceso kodekso (toliau – Baudžiamojo proceso kodeksas) nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška arba jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės.“
 
-\#### 5 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
+## 5 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
 
 Trečiojo skirsnio pavadinime po žodžių „išmoka ir“ įrašyti žodžius „globos (rūpybos) išmokos tikslinis priedas“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -90,7 +90,7 @@ Trečiojo skirsnio pavadinime po žodžių „išmoka ir“ įrašyti žodžius 
 
 **GLOBOS (RŪPYBOS) IŠMOKA IR GLOBOS (RŪPYBOS) IŠMOKOS TIKSLINIS PRIEDAS, VIENKARTINĖ IŠMOKA ĮSIKURTI**“.
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 2) jeigu vaiko laikinoji globa (rūpyba) nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 9) mokamų sveikatos priežiūros prekių ir paslaugų išlaidoms apmokėti.“
 
-\#### 8 straipsnis. 12 straipsnio 2, 3, 7, 9 dalių pakeitimas ir straipsnio papildymas 10, 11 dalimis
+## 8 straipsnis. 12 straipsnio 2, 3, 7, 9 dalių pakeitimas ir straipsnio papildymas 10, 11 dalimis
 
 1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 „11. Bendrai gyvenančių asmenų pateikti duomenys apie gautas pajamas patikrinami Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka.“
 
-\#### 9 straipsnis. 13 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 7 dalimi
+## 9 straipsnis. 13 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 7 dalimi
 
 1. Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -186,19 +186,19 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 „7. Baigusiam bendrojo ugdymo programą vyresniam kaip 18 metų asmeniui globos (rūpybos) išmoka mokama iki tų metų rugsėjo 1 dienos.“
 
-\#### 10 straipsnis. 14 straipsnio 3 dalies pakeitimas
+## 10 straipsnis. 14 straipsnio 3 dalies pakeitimas
 
 14 straipsnio 3 dalyje po žodžių „teismo tvarka“ įrašyti žodžius „jei su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos“ ir šią dalį išdėstyti taip:
 
 „3. Dėl išmokos gavėjo kaltės permokėta išmokos suma turi būti grąžinama ar išskaičiuojama savivaldybės administracijos sprendimu. Iš gavėjui pagal šį įstatymą priklausančių išmokų išskaitoma ne daugiau kaip po 20 procentų mokėtinos išmokos sumos per mėnesį, išskyrus atvejus, kai gavėjas sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos sumos, tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota, likęs įsiskolinimas išieškomas teismo tvarka, jei su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.“
 
-\#### 11 straipsnis. 15 straipsnio 2 dalies pakeitimas
+## 11 straipsnis. 15 straipsnio 2 dalies pakeitimas
 
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Savivaldybių administracijos socialinės apsaugos ir darbo ministro nustatyta tvarka turi teikti duomenis apie jų teritorijose asmenims išmokėtas išmokas.“
 
-\#### 12 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
+## 12 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
 
 Pakeisti šeštojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ Pakeisti šeštojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **IŠMOKŲ TEIKIMAS ESANT SOCIALINEI RIZIKAI**“.
 
-\#### 13 straipsnis. 17 straipsnio pakeitimas
+## 13 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -234,17 +234,17 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 9) kitais savivaldybių tarybų nustatytais būdais.“
 
-\#### 14 straipsnis. 18 straipsnio 2 punkto pakeitimas
+## 14 straipsnis. 18 straipsnio 2 punkto pakeitimas
 
 Pakeisti 18 straipsnio 2 punktą ir jį išdėstyti taip:
 
 „2) tikrinti bendrai gyvenančių asmenų gyvenimo sąlygas ir, surašius buities tyrimo aktą, priimti sprendimą laikyti bendrai gyvenančius asmenis patyrusiais socialinę riziką;“.
 
-\#### 15 straipsnis. 21 straipsnio pripažinimas netekusiu galios
+## 15 straipsnis. 21 straipsnio pripažinimas netekusiu galios
 
 21 straipsnį pripažinti netekusiu galios.
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2012 m. sausio 1 d.
 

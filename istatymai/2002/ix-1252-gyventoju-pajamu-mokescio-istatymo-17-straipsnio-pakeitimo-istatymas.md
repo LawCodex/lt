@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.876F872F5AAB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202))
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies 7, 8, 9, 10 ir 24 punktų pakeitimas
+## 1 straipsnis. 17 straipsnio 1 dalies 7, 8, 9, 10 ir 24 punktų pakeitimas
 
 1. 17 straipsnio 1 dalies 7 punkte po žodžio „kompensuoti“ įrašyti žodžius „taip pat, nutraukus ne gyvybės draudimo sutartį, gyventojui grąžinamos draudimo įmokos, išskyrus grąžinamų nutraukus iki 2003 m. sausio 1 d. sudarytas draudimo nuo nelaimingų atsitikimų ir draudimo ligos atvejui sutartis įmokų dalį, kuriai buvo taikomos fizinių asmenų pajamų mokesčio lengvatos“ ir šį punktą išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „24) pajamos, gautos iš realizuotos žemės ūkio produkcijos, užaugintos, taip pat užaugintos ir perdirbtos gyventojo nuosavybės teise turimoje, išsinuomotoje ar Lietuvos Respublikos teisės aktų nustatyta tvarka gyventojui suteiktoje žemėje, ir gyventojų pajamos už parduodamas pačių surinktas miško gėrybes (grybus, uogas, riešutus, vaistažoles);“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

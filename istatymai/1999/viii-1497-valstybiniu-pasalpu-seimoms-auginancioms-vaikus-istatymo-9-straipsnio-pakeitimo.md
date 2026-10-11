@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5B9905575880"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5B9905575880.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 9 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 1997, Nr. [99-2506](https://www.e-tar.lt/portal/lt/legalAct/TAR.59166173AB26); 1998, Nr. [35-934](https://www.e-tar.lt/portal/lt/legalAct/TAR.B97537087EDC), Nr. [115-3240](https://www.e-tar.lt/portal/lt/legalAct/TAR.62F5567CB5FC))
 
-\#### 1 straipsnis. 9 straipsnio 1 dalies papildymas ir 3 dalies pripažinimas netekusia galios
+## 1 straipsnis. 9 straipsnio 1 dalies papildymas ir 3 dalies pripažinimas netekusia galios
 
 1. 9 straipsnio 1 dalyje po skaičiaus „41“ įrašyti skaičių „5“ ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. 9 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.
 

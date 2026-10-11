@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DDF0FC36DBEA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DDF0FC36DBEA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 2, 3, 7, 8, 10, 32 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 81 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765);2009, Nr. [10-355](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C5DEC45B23B), Nr. [61-2402](https://www.e-tar.lt/portal/lt/legalAct/TAR.43A67B9687BB);2010, Nr. [1-6](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA), Nr. [65-3196](https://www.e-tar.lt/portal/lt/legalAct/TAR.5EB457219DBD); 2011, Nr. [123-5816](https://www.e-tar.lt/portal/lt/legalAct/TAR.3218F3F7DC5D); 2012, Nr. [79-4088](https://www.e-tar.lt/portal/lt/legalAct/TAR.0E189739EC80), Nr. [132-6667](https://www.e-tar.lt/portal/lt/legalAct/TAR.C4E7B6343BDA); 2013, Nr. [31-1528](https://www.e-tar.lt/portal/lt/legalAct/TAR.C50F767C5826))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 17 dalimi:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „43. **Šilumos ūkio specialusis planas** – savivaldybių specialiojo planavimo dokumentas, kuriame, vertinant Nacionalinėje šilumos ūkio plėtros programoje numatytais sprendiniais ir priemonėmis,nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos, nurodomi galimi ir alternatyvūs šildymo būdai, tenkinant šilumos vartotojų poreikius mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Konkurencija tarp alternatyvių energijos rūšių tiekėjų, tenkinant šilumos vartotojų poreikius, įgyvendinama atsižvelgiant į Nacionalinėje šilumos ūkio plėtros programoje ir šilumos ūkio specialiuosiuose planuose nustatytus tikslus ir priemones, nustatant vartotojų šilumos poreikių tenkinimą jiems mažiausiomis sąnaudomis, užtikrinant saugų tiekimą ir neviršijant leidžiamo neigiamo poveikio aplinkai bei įvertinant išorines sąnaudas, taip pat kitomis šio įstatymo nustatytomis priemonėmis. Šilumos vartotojai turi teisę pasirinkti alternatyvių energijos rūšių šilumos tiekėjus, įsirengti vietinę šildymo sistemą, jeigu tai neprieštarauja teritorijų planavimo dokumentams.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 5. Nacionalinės šilumos ūkio plėtros programos priemones ir sprendinius įgyvendinantys asmenys, taip pat valstybės, savivaldybių institucijos ir įstaigos pagal kompetenciją Energetikos ministerijos nustatyta tvarka teikia informaciją apie Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių ir sprendinių įgyvendinimą.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 6. Tais atvejais, kai savivaldybė nesilaiko šiame įstatyme nustatytų įpareigojimų atnaujinti šilumos ūkio specialųjį planą arba kai tuo metu galiojantis šilumos ūkio specialusis planas ar teritorijų planavimo dokumentai neatitinka Nacionalinėje šilumos ūkio plėtros programoje numatytų sprendinių, specialieji planai ar teritorijų planavimo dokumentai taikomi tiek, kiek neprieštarauja šiems sprendiniams.“
 
-\#### 5 straipsnis. Įstatymo papildymas 81 straipsniu
+## 5 straipsnis. Įstatymo papildymas 81 straipsniu
 
 Papildyti Įstatymą 8^1 straipsniu:
 
@@ -112,7 +112,7 @@ Papildyti Įstatymą 8^1 straipsniu:
 
 3. Savivaldybės ir (ar) šilumos tiekėjai privalo užtikrinti trūkstamą finansavimą Nacionalinėje šilumos ūkio plėtros programoje numatytoms priemonėms įgyvendinti. Jeigu savivaldybės ir (ar) šilumos tiekėjai neužtikrina Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių įgyvendinimo nustatytais terminais, Vyriausybė Energetikos ministerijos siūlymu teikia pasiūlymus savivaldybėms dėl Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių įgyvendinimo, įskaitant pasiūlymus dėl papildomo finansavimo užsitikrinimo būdų, arba priima sprendimą dėl reikiamų finansinių investicijų, jų paskirstymo tvarkos ir būdo.“
 
-\#### 6 straipsnis. 10 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 6 straipsnis. 10 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -122,7 +122,7 @@ Papildyti Įstatymą 8^1 straipsniu:
 
 „4. Esant pagrįstam nepriklausomo šilumos gamintojo, kuris vienoje centralizuoto šilumos tiekimo sistemoje gamina šilumos kiekį, sudarantį daugiau kaip 1/3 metinio šilumos kiekio, prašymui, Valstybinė kainų ir energetikos kontrolės komisija turi teisę priimti motyvuotą sprendimą jam netaikyti privalomos šilumos gamybos kainodaros, jeigu nepriklausomas šilumos gamintojas ar nepriklausomų šilumos gamintojų, susijusių kontrolės ar priklausomybės santykiais, grupė vienoje centralizuoto šilumos tiekimo sistemoje gamina šilumos kiekį, nedarantį reikšmingos įtakos galutinei tos centralizuoto šilumos tiekimo sistemos kainai, lyginant su padėtimi, jeigu nepriklausomam šilumos gamintojui būtų taikoma privaloma šilumos gamybos kainodara.“
 
-\#### 7 straipsnis. 32 straipsnio papildymas ir pakeitimas
+## 7 straipsnis. 32 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 32 straipsnį nauja 3 dalimi:
 
@@ -134,7 +134,7 @@ Papildyti Įstatymą 8^1 straipsniu:
 
 3. Buvusias 32 straipsnio 3–18 dalis laikyti atitinkamai 5–20 dalimis.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 7 straipsnio, kuriuo Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis papildomas naujomis 3 ir 4 dalimis, nuostatos, susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d. iki 2016 m. sausio 1 d.
 

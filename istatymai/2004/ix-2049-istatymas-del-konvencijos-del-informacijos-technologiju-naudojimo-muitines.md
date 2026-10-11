@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.800C69E7F3F6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.800C69E7F3F6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl informacijos technologijų naudojimo muitinės tikslais, parengtos vadovaujantis Europos Sąjungos sutarties K.3 straipsniu, jos protokolų ir Susitarimo dėl laikino Konvencijos taikymo ratifikavimo
@@ -26,7 +26,7 @@ DĖL KONVENCIJOS DĖL INFORMACIJOS TECHNOLOGIJŲ NAUDOJIMO MUITINĖS TIKSLAIS, P
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos, jos protokolų ir Susitarimo dėl laikino Konvencijos taikymo ratifikavimas
+## 1 straipsnis. Konvencijos, jos protokolų ir Susitarimo dėl laikino Konvencijos taikymo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 20 d. dekretą Nr. 346, ratifikuoja:
 
@@ -40,15 +40,15 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 5) Susitarimą dėl laikino Konvencijos dėl informacijos technologijų naudojimo muitinės tikslais, parengtos vadovaujantis Europos Sąjungos sutarties K.3 straipsniu, taikymo tarp tam tikrų valstybių narių, priimtą 1995 m. liepos 26 d. Briuselyje.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Vadovaudamasis Protokolo dėl Konvencijos dėl informacijos technologijų naudojimo muitinės tikslais aiškinimo Europos Bendrijų Teisingumo Teismo preliminariais nutarimais, parengto vadovaujantis Europos Sąjungos sutarties K.3 straipsniu, 2 straipsniu, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika pripažįsta Europos Bendrijų Teisingumo Teismo jurisdikciją šio Protokolo 2 straipsnio 2 dalies b punkto nustatytomis sąlygomis teikti preliminarinius nutarimus dėl Konvencijos aiškinimo.
 
-\#### 3 straipsnis. Konvencijos įgyvendinimas
+## 3 straipsnis. Konvencijos įgyvendinimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Konvencijos 7 straipsnio 1 dalimi, nustato, kad Konvencijos nustatytomis sąlygomis teisę naudotis tiesiogine prieiga prie duomenų, perkeltų į Muitinės informacinę sistemą, naudojamą vadovaujantis Konvencija, jos protokolais ir Susitarimu dėl laikino Konvencijos taikymo (toliau – Muitinės informacinė sistema), turi Lietuvos Respublikos Vyriausybės nutarimu paskirtos muitinės įstaigos ir kitos valstybės institucijos, taip pat Valstybės saugumo departamentas ir Specialiųjų tyrimų tarnyba.
 
-\#### 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 1. Lietuvos Respublikos Vyriausybė, vadovaudamasi Konvencijos 7 straipsnio 1 dalimi, paskiria muitinės įstaigas ir kitas valstybės institucijas, turinčias teisę Konvencijos nustatytomis sąlygomis naudotis tiesiogine prieiga prie duomenų, perkeltų į Muitinės informacinę sistemą.
 
@@ -62,7 +62,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Konvencijos 7 straipsnio 1 dalimi, n
 
 6. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija priima teisės aktus, reikalingus Konvencijai, jos protokolams ir Susitarimui dėl laikino Konvencijos taikymo įgyvendinti Lietuvos Respublikoje.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

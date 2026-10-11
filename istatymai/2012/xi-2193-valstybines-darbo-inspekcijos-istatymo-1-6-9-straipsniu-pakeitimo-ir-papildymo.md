@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D69C8BBD9D73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D69C8BBD9D73.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 1, 6, 9 straipsnių pakeitimo ir papildymo, Įstatymo papildymo ketvirtuoju-1 skirsniu, 13-1 straipsniu ir priedu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [102-4585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A); 2008, Nr. [137-5385](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B89D2D7AAE9); 2009, Nr. [93-3991](https://www.e-tar.lt/portal/lt/legalAct/TAR.71F35C92101C))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 2 dalimi
 
 Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 6 straipsnį nauju 25 punktu:
 
@@ -46,7 +46,7 @@ Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 3. Buvusį 6 straipsnio 25 punktą laikyti 27 punktu.
 
-\#### 3 straipsnis. 9 straipsnio papildymas 3 ir 4 dalimis
+## 3 straipsnis. 9 straipsnio papildymas 3 ir 4 dalimis
 
 1. Papildyti 9 straipsnį 3 dalimi:
 
@@ -56,7 +56,7 @@ Papildyti 1 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „4. Trečiosios šalies pilietis yra užsienietis, kuris nėra Europos Sąjungos valstybės narės pilietis ir kuris nesinaudoja laisvo judėjimo Europos Sąjungoje teise, kaip apibrėžta 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 562/2006, nustatančio taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1), 2 straipsnio 5 punkte.“
 
-\#### 4 straipsnis. Įstatymo papildymas ketvirtuoju1 skirsniu
+## 4 straipsnis. Įstatymo papildymas ketvirtuoju1 skirsniu
 
 Papildyti Įstatymą ketvirtuoju^1 skirsniu:
 
@@ -64,7 +64,7 @@ Papildyti Įstatymą ketvirtuoju^1 skirsniu:
 
 DARBDAVIŲ, LEIDUSIŲ DIRBTI NELEGALIAI TREČIOSIOS ŠALIES PILIEČIAMS, ATSAKOMYBĖ
 
-\#### 121 straipsnis. Nuobaudų ir kitų apribojimų taikymas
+## 121 straipsnis. Nuobaudų ir kitų apribojimų taikymas
 
 1. Darbdaviams – juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, skiriama nuo 3 tūkstančių iki 10 tūkstančių litų bauda už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kurią pasibaigė paskirtos baudos įvykdymo terminas, užtraukia baudą juridiniam asmeniui už kiekvieną trečiosios šalies pilietį nuo 10 tūkstančių iki 20 tūkstančių litų.
 
@@ -90,7 +90,7 @@ DARBDAVIŲ, LEIDUSIŲ DIRBTI NELEGALIAI TREČIOSIOS ŠALIES PILIEČIAMS, ATSAKOM
 
 3) įpareigojimas Lietuvos Respublikos Vyriausybės nustatyta tvarka sugrąžinti tam tikrą dalį arba visas per 12 mėnesių laikotarpį iki nelegalaus darbo nustatymo suteiktų subsidijų, išmokų ar kitos valstybės pagalbos, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, lėšas.“
 
-\#### 5 straipsnis. Įstatymo papildymas 131 straipsniu
+## 5 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1straipsniu:
 
@@ -98,7 +98,7 @@ Papildyti Įstatymą 13^1straipsniu:
 
 Profesinės sąjungos trečiosios šalies piliečio pavedimu gali įstatymų nustatyta tvarka atstovauti jam teisminėse arba administracinėse procedūrose.“
 
-\#### 6 straipsnis. Įstatymo papildymas priedu
+## 6 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -112,7 +112,7 @@ priedas
 
 1. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).“
 
-\#### 7 straipsnis. Baigiamosios nuostatos
+## 7 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2012 m. rugpjūčio 1 d.
 

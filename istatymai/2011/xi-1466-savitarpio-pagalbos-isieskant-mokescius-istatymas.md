@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DE93815ACF82"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE93815ACF82.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savitarpio pagalbos išieškant mokesčius įstatymas
@@ -26,11 +26,11 @@ SAVITARPIO PAGALBOS IŠIEŠKANT MOKESČIUS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas skirtas Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimui užtikrinti.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas taikomas, kai Lietuvos Respublikos institucijos teikia arba naudojasi kitų Europos Sąjungos valstybių narių (toliau – kita valstybė narė) institucijų pagalba, reikalavimams, susijusiems su:
 
@@ -56,7 +56,7 @@ Vilnius
 
 4) visoms kitoms šio straipsnio 1 dalies 4, 5, 6 punktuose nenurodytoms sumoms.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Asmuo – fizinis asmuo; juridinis asmuo; asmenų susivienijimas, kuris nėra juridinis asmuo, tačiau pripažįstamas galinčiu atlikti teisinius veiksmus; bet kokia kita bet kokio pobūdžio ir formos juridinė struktūra, turinti juridinio asmens statusą arba jo neturinti, turinti turto, kuris yra apmokestinamas bet kuriuo iš šio įstatymo 2 straipsnio 1 dalyje nurodytų mokesčių, arba tokį turtą administruojanti.
 
@@ -78,7 +78,7 @@ Vilnius
 
 10. Tiesioginis asmenų įsiskolinimas – mokesčiai, kurie turėjo būti sumokėti į Lietuvos Respublikos valstybės (savivaldybės) biudžetą arba į atitinkamus pinigų fondus.
 
-\#### 4 straipsnis. Pagalbos teikimo forma
+## 4 straipsnis. Pagalbos teikimo forma
 
 Pagalba gali būti teikiama:
 
@@ -92,11 +92,11 @@ Pagalba gali būti teikiama:
 
 5) išieškant reikalaujamas sumas ir taikant išieškojimo užtikrinimo priemones.
 
-\#### 5 straipsnis. Lietuvos Respublikos institucijos prašymai
+## 5 straipsnis. Lietuvos Respublikos institucijos prašymai
 
 Lietuvos Respublikos institucija prašymus suteikti pagalbą kitų valstybių narių kompetentingoms institucijoms teikia šio įstatymo nustatyta tvarka, *mutatis mutandis* laikydamasi nustatytų prašančiosios institucijos prašymų teikimo reikalavimų.
 
-\#### 6 straipsnis. Prašymas suteikti informaciją
+## 6 straipsnis. Prašymas suteikti informaciją
 
 1. Lietuvos Respublikos institucija, gavusi prašančiosios institucijos prašymą suteikti informaciją, teikia visą jos prašomą informaciją, išskyrus informaciją:
 
@@ -110,11 +110,11 @@ Lietuvos Respublikos institucija prašymus suteikti pagalbą kitų valstybių na
 
 3. Lietuvos Respublikos institucija privalo pranešti prašančiajai institucijai prašymo suteikti informaciją atmetimo motyvus.
 
-\#### 7 straipsnis. Keitimasis informacija be išankstinio prašymo
+## 7 straipsnis. Keitimasis informacija be išankstinio prašymo
 
 Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka yra susijusi su kitoje valstybėje narėje įsisteigusiu ar gyvenančiu asmeniu, Lietuvos Respublikos institucija, iš kurios lėšų turi būti vykdomas grąžinimas, gali pranešti to asmens įsisteigimo ar gyvenamosios vietos kompetentingai valstybės narės institucijai apie būsimą lėšų grąžinimą.
 
-\#### 8 straipsnis. Buvimas Lietuvos Respublikos institucijos patalpose ir dalyvavimas administraciniuose tyrimuose
+## 8 straipsnis. Buvimas Lietuvos Respublikos institucijos patalpose ir dalyvavimas administraciniuose tyrimuose
 
 1. Lietuvos Respublikos institucijos ir prašančiosios institucijos susitarimu prašančiosios institucijos įgalioti pareigūnai, kiek tai leidžia Lietuvos Respublikoje galiojantys teisės aktai, gali:
 
@@ -126,7 +126,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 2. Prašančiosios institucijos įgalioti pareigūnai bet kuriuo metu turi būti pasirengę pateikti rašytinį įgaliojimą, kuriame būtų nurodyta jų tapatybė ir pareigos.
 
-\#### 9 straipsnis. Pranešimas apie su reikalavimais susijusius dokumentus
+## 9 straipsnis. Pranešimas apie su reikalavimais susijusius dokumentus
 
 1. Prašančiosios institucijos prašymu Lietuvos Respublikos institucija, vadovaudamasi Lietuvos Respublikoje galiojančiais teisės aktais, reglamentuojančiais dokumentų įteikimo tvarką, praneša adresatui apie visus dokumentus, įskaitant ir teisminius, susijusius su šio įstatymo 2 straipsnyje nurodytais reikalavimais. Tai neapriboja prašančiosios institucijos teisės tiesiogiai pranešti Lietuvos Respublikos teritorijoje esančiam asmeniui registruotu laišku arba elektroniniu paštu.
 
@@ -144,7 +144,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 4. Prašančioji institucija pateikia prašymą adresatui pranešti pagal šį straipsnį tik tuo atveju, kai ji negali pranešti pagal taisykles, reglamentuojančias pranešimo apie atitinkamą dokumentą prašančiojoje valstybėje narėje reikalavimus, arba kai dėl tokio pranešimo kiltų neproporcingai didelių sunkumų.
 
-\#### 10 straipsnis. Prašymas vykdyti išieškojimą
+## 10 straipsnis. Prašymas vykdyti išieškojimą
 
 1. Lietuvos Respublikos institucija vykdo išieškojimą Lietuvos Respublikoje prašančiosios institucijos naudai gavusi prašančiosios institucijos prašymą vykdyti išieškojimą ir nustatytos formos suvienodintą dokumentą, kuriuo leidžiama vykdyti išieškojimą Lietuvos Respublikoje. Suvienodintas dokumentas yra pakankamas pagrindas vykdyti išieškojimą ir taikyti išieškojimo užtikrinimo priemones, kurių imamasi Lietuvos Respublikoje.
 
@@ -168,7 +168,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 6. Suvienodintas dokumentas, kurį pateikia prašančioji institucija, negali būti kokiu nors būdu pildomas, keičiamas ar pripažįstamas Lietuvos Respublikos institucijoje.
 
-\#### 11 straipsnis. Prašymo vykdyti išieškojimą vykdymas
+## 11 straipsnis. Prašymo vykdyti išieškojimą vykdymas
 
 1. Lietuvos Respublikos institucija, vykdydama prašančiosios institucijos prašymą vykdyti išieškojimą, atlieka jos veiklą reglamentuojančiuose teisės aktuose nustatytas procedūras, kurias taiko tiesioginiams asmenų įsiskolinimams išieškoti. Jeigu Lietuvos Respublikos institucija mano, kad tokie pat arba panašūs reikalavimai Lietuvos Respublikoje nevykdomi, ji taiko Lietuvos Respublikos mokesčių administravimo įstatyme mokesčių išieškojimui nustatytas procedūras.
 
@@ -182,7 +182,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 6. Lietuvos Respublikos institucija praneša prašančiajai institucijai apie visus reikšmingus veiksmus, kurių ji ėmėsi dėl prašančiosios institucijos prašymo vykdyti išieškojimą.
 
-\#### 12 straipsnis. Išieškojimo sustabdymas arba nutraukimas
+## 12 straipsnis. Išieškojimo sustabdymas arba nutraukimas
 
 1. Lietuvos Respublikos institucija, gavusi prašančiosios institucijos pranešimą apie prašymo vykdyti išieškojimą pakeitimą arba jo atsiėmimą su nurodytais motyvais, savo sprendimu sustabdo išieškojimą arba jį nutraukia.
 
@@ -192,7 +192,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 4. Jeigu išieškojimas sustabdomas arba nutraukiamas, Lietuvos Respublikos institucija savo nuožiūra arba atsižvelgdama į prašančiosios institucijos prašymą sprendžia išieškojimo užtikrinimo priemonių taikymo (netaikymo) klausimą.
 
-\#### 13 straipsnis. Prašymas taikyti išieškojimo užtikrinimo priemones
+## 13 straipsnis. Prašymas taikyti išieškojimo užtikrinimo priemones
 
 1. Lietuvos Respublikos institucija taiko išieškojimo užtikrinimo priemones, kai gauna prašančiosios institucijos prašymą taikyti išieškojimo užtikrinimo priemones kartu su informacija apie atitiktį bent vienai iš išvardytų sąlygų:
 
@@ -204,7 +204,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 2. Prie prašymo taikyti išieškojimo užtikrinimo priemones turi būti pridėtas dokumentas (jeigu toks yra), kuriuo siekiama leisti taikyti išieškojimo užtikrinimo priemones prašančiojoje valstybėje narėje, ir kiti prašančiojoje valstybėje narėje išduoti su reikalavimu susiję dokumentai. Šis dokumentas neturi būti kaip nors pripažintas, papildytas ar pakeistas.
 
-\#### 14 straipsnis. Prašymo taikyti išieškojimo užtikrinimo priemones vykdymas
+## 14 straipsnis. Prašymo taikyti išieškojimo užtikrinimo priemones vykdymas
 
 1. Lietuvos Respublikos institucija, vykdydama prašančiosios institucijos prašymą taikyti išieškojimo užtikrinimo priemones, vadovaujasi Lietuvos Respublikos teisės aktais, reglamentuojančiais tokių priemonių taikymą.
 
@@ -216,7 +216,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 5. Prašymui taikyti išieškojimo užtikrinimo priemones taip pat taikomi šio įstatymo nustatyti prašymo vykdyti išieškojimą reikalavimai.
 
-\#### 15 straipsnis. Ginčai
+## 15 straipsnis. Ginčai
 
 1. Ginčus dėl prašančiosios institucijos reikalavimo, dokumento, kuriuo leidžiama vykdyti išieškojimą prašančiojoje valstybėje narėje, suvienodinto dokumento, pagalbos prašymo nagrinėja prašančiosios institucijos valstybės narės įstaigos. Lietuvos Respublikos institucija turi informuoti suinteresuotą asmenį, kuris Lietuvos Respublikos institucijai vykdant išieškojimą ginčija prašančiosios institucijos veiksmus ar dokumentus, kad ginčijimą jis turi teikti prašančiosios institucijos valstybės narės įstaigai pagal toje valstybėje narėje galiojančius teisės aktus.
 
@@ -226,7 +226,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 4. Lietuvos Respublikos institucija turi teisę įvykdyti ginčytą reikalavimą arba ginčytą reikalavimo dalį, jeigu tai leidžiama pagal Lietuvos Respublikos galiojančius teisės aktus ir jeigu prašančioji institucija, laikydamasi prašančiojoje valstybėje narėje galiojančių įstatymų, kitų teisės aktų ir administracinės praktikos, pateikė pagrįstą prašymą dėl tokio reikalavimo ar jo dalies vykdymo. Jeigu ginčijimo rezultatas vėliau yra palankus skolininkui, prašančioji institucija turi atlyginti jam visas išreikalautas sumas ir sumokėti jam mokėtiną kompensaciją Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
-\#### 16 straipsnis. Pagalbos neteikimas
+## 16 straipsnis. Pagalbos neteikimas
 
 1. Lietuvos Respublikos institucija atsisako teikti šio įstatymo 10–14 straipsniuose nurodytą pagalbą, jeigu priverstinai išieškoti netikslinga socialiniu ir (arba) ekonominiu požiūriu; šiuo atveju atsisakymas turi būti pagrįstas tokiomis pat Lietuvos Respublikos teisės aktuose nurodytomis aplinkybėmis, kurioms esant neišieškomi tiesioginiai asmenų įsiskolinimai.
 
@@ -240,7 +240,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 3. Lietuvos Respublikos institucija praneša prašančiajai institucijai atsisakymo suteikti pagalbą motyvus.
 
-\#### 17 straipsnis. Senaties terminas
+## 17 straipsnis. Senaties terminas
 
 1. Sprendžiant klausimus dėl senaties termino, vadovaujamasi prašančiosios institucijos valstybės narės teisės aktais.
 
@@ -252,7 +252,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 5. Lietuvos Respublikos institucija ir prašančioji institucija praneša viena kitai apie visus veiksmus, dėl kurių nutraukiamas, sustabdomas arba pratęsiamas senaties terminas.
 
-\#### 18 straipsnis. Išlaidos
+## 18 straipsnis. Išlaidos
 
 1. Lietuvos Respublikos institucija, tenkindama prašymą vykdyti išieškojimą, kartu su iš asmens išieškoti reikalaujama suma išsiieško savo patirtas reikalavimo vykdymo išlaidas.
 
@@ -262,7 +262,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 2) atvejus, kai Lietuvos Respublikos institucija ir prašančioji institucija susitaria dėl išlaidų ir nuostolių atlyginimo, kai tenkinant pagalbos prašymus kyla ypatingų sunkumų, tenkinimas pareikalauja labai didelių išlaidų arba yra susijęs su kova su organizuotu nusikalstamumu.
 
-\#### 19 straipsnis. Standartinės formos ir informavimo priemonės
+## 19 straipsnis. Standartinės formos ir informavimo priemonės
 
 1. Prašančioji institucija Lietuvos Respublikos institucijai pagalbos prašymus naudodama standartinę formą ir visus su jais susijusius dokumentus teikia elektroniniu būdu (išskyrus atvejus, kai tai neįmanoma dėl techninių priežasčių). Tam tikrais atvejais prie standartinių formų gali būti pridedamos ataskaitos, pareiškimai ir bet kokie kiti dokumentai arba patvirtintos tų dokumentų kopijos ar jų išrašai, kurie taip pat siunčiami elektroniniu būdu, išskyrus atvejus, kai tai neįmanoma dėl techninių priežasčių.
 
@@ -274,7 +274,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 5. Pagalbos prašymai ir su jais susijusi informacija tarp Lietuvos Respublikos kompetentingų institucijų turi būti siunčiami tik elektroniniu būdu (išskyrus atvejus, kai tai neįmanoma dėl techninių priežasčių).
 
-\#### 20 straipsnis. Kalbų vartojimas
+## 20 straipsnis. Kalbų vartojimas
 
 1. Lietuvos Respublikos institucija nagrinėja lietuvių kalba ir kita kalba, kai yra pateiktas patvirtintas vertimas į lietuvių kalbą, arba kalba, dėl kurios susitarė Lietuvos Respublikos institucija ir prašančioji institucija, pateiktus prašančiosios institucijos pagalbos prašymus, suvienodintus dokumentus ir kitus jai pateiktus dokumentus.
 
@@ -282,7 +282,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 3. Lietuvos Respublikos institucija gali paprašyti prašančiosios institucijos kitus negu šio straipsnio 1 ir 2 dalyse nurodytus pridedamus dokumentus pateikti išverstus į lietuvių kalbą arba kalbą, dėl kurios buvo susitarta.
 
-\#### 21 straipsnis. Informacijos ir dokumentų atskleidimas
+## 21 straipsnis. Informacijos ir dokumentų atskleidimas
 
 1. Informacijai, suteiktai pagal šį įstatymą, taikoma tokia pati apsauga, kokia taikoma panašaus pobūdžio tarnybinei informacijai pagal Lietuvos Respublikos teisės aktus. Tokia informacija gali būti naudojama tik tiems tikslams, kuriems įgyvendinti ji pateikta. Ji taip pat gali būti naudojama privalomosioms socialinio draudimo įmokoms nustatyti ir išieškoti.
 
@@ -294,31 +294,31 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 
 5. Prieigą prie šios informacijos gali turėti ir Europos Komisijos Saugumo akreditavimo institucijos tinkamai akredituoti asmenys, tačiau tik tuo atveju, jeigu tai būtina siekiant užtikrinti CCN tinklo priežiūrą, eksploatavimą ir plėtrą.
 
-\#### 22 straipsnis. Informacijos teikimas kitoms valstybėms narėms ir Europos Komisijai
+## 22 straipsnis. Informacijos teikimas kitoms valstybėms narėms ir Europos Komisijai
 
 1. Valstybinė mokesčių inspekcija prie Finansų ministerijos įgaliojama nurodyti Europos Komisijai Lietuvos Respublikos institucijas, kurios teikia pagalbą kitų valstybių narių kompetentingoms institucijoms.
 
 2. Valstybinė mokesčių inspekcija prie Finansų ministerijos kiekvienais metais iki kovo 31 dienos pateikia Europos Komisijai informaciją apie per praėjusius kalendorinius metus pagal šio įstatymo nuostatas teikiant pagalbą arba ja naudojantis gautus ir išsiųstus prašymus suteikti pagalbą ir apie prašomas išieškoti ir išieškotas pinigų sumas.
 
-\#### 23 straipsnis. Kitų pagalbos susitarimų taikymas
+## 23 straipsnis. Kitų pagalbos susitarimų taikymas
 
 1. Lietuvos Respublikos institucija gali teikti didesnės apimties pagalbą, negu nustatyta šiame įstatyme, jeigu toks pagalbos teikimas numatytas pagal Lietuvos Respublikos dvišalius arba daugiašalius susitarimus.
 
 2. Apie šio straipsnio 1 dalyje nurodytus susitarimus centrinė ryšių palaikymo tarnyba praneša Europos Komisijai.
 
-\#### 24 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 24 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė paskiria įstaigą, atsakingą už CCN tinklu gaunamos ir siunčiamos informacijos administravimą.
 
-\#### 25 straipsnis. Įstatymo įgyvendinimas
+## 25 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos institucija prireikus pagal savo kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 26 straipsnis. Įstatymo įsigaliojimas
+## 26 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 
-\#### 27 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 27 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos pagalbos Europos Sąjungos valstybių narių institucijoms išieškant reikalaujamas skolas, susijusias su rinkliavomis, muitais, mokesčiais ir kitomis pinigų sumomis, teikimo ir naudojimosi kitų Europos Sąjungos valstybių narių institucijų teikiama pagalba išieškant minėtas pinigų sumas įstatymas (Žin., 2003, Nr. [104-4650](https://www.e-tar.lt/portal/lt/legalAct/TAR.BEBC57B143B8)).
 

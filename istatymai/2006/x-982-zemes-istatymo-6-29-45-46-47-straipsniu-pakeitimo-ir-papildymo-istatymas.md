@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4111834C51E6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4111834C51E6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 6, 29, 45, 46, 47 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 2004, Nr. [28-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED447C0D254))
 
-\#### 1 straipsnis. 6 straipsnio 1 dalies 8 punkto pakeitimas
+## 1 straipsnis. 6 straipsnio 1 dalies 8 punkto pakeitimas
 
 6 straipsnio 1 dalies 8 punkte vietoj žodžių „Klaipėdos valstybinio jūrų uosto“ įrašyti žodžius „Lietuvos Respublikos valstybinių jūrų uostų“ ir šį punktą išdėstyti taip:
 
 „8) Lietuvos Respublikos valstybinių jūrų uostų teritorijai;“.
 
-\#### 2 straipsnis. 29 straipsnio 1 dalies papildymas 11 punktu
+## 2 straipsnis. 29 straipsnio 1 dalies papildymas 11 punktu
 
 Papildyti 29 straipsnio 1 dalį 11 punktu:
 
 „11) teritorijos valstybės sienos apsaugos tikslams.“
 
-\#### 3 straipsnis. 45 straipsnio pakeitimas
+## 3 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 2. Priimdama sprendimą dėl žemės paėmimo šio straipsnio 1 dalyje nurodytiems visuomenės poreikiams tenkinti, sprendimus priimanti institucija privalo motyvuotai pagrįsti, kad konkretus visuomenės poreikis objektyviai egzistuoja ir kad jis negalės būti patenkintas, jeigu nebus paimtas konkretus žemės sklypas. Visuomenės poreikiams reikalingam konkrečiam objektui statyti (įrengti) konkrečios vietos ir ploto motyvuotas pagrindimas turi būti pateiktas kartu su teritorinio planavimo dokumentu.“
 
-\#### 4 straipsnis. 46 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 46 straipsnio pakeitimas ir papildymas
 
 1. 46 straipsnio 1 dalies pirmame sakinyje po žodžio „Valstybės“ įrašyti žodį „institucija“, vietoj žodžių „institucija ar įstaiga“ įrašyti žodį „taryba“, antrame sakinyje po žodžio „valstybės“ įrašyti žodį „institucijos“, vietoj žodžių „institucijos ar įstaigos“ įrašyti žodį „tarybos“ ir šią dalį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 7. Buvusias 46 straipsnio 7 ir 8 dalis laikyti atitinkamai 9 ir 10 dalimis.
 
-\#### 5 straipsnis. 47 straipsnio 1, 3, 6, 7 dalių pakeitimas ir papildymas
+## 5 straipsnis. 47 straipsnio 1, 3, 6, 7 dalių pakeitimas ir papildymas
 
 1. 47 straipsnio 1 dalies trečiame sakinyje vietoj žodžio „nustatytą“ įrašyti žodžius „naudojimo būdą ir pobūdį, nustatytus“ ir šią dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.08C61C2278C4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08C61C2278C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 46, 49 ir 50 straipsnių pakeitimo įstatymas
@@ -24,11 +24,11 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2000, Nr. [75-2272](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E))
 
-\#### 1 straipsnis. 46 straipsnio 4 dalies 4 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 46 straipsnio 4 dalies 4 punkto pripažinimas netekusiu galios
 
 46 straipsnio 4 dalies 4 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 49 straipsnio pakeitimas
+## 2 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 14. Inspektorius kartą per metus atsiskaito Seimui už savo ir Žurnalistų etikos inspektoriaus tarnybos veiklą ir iki kiekvienų metų balandžio 1 dienos pateikia metinę veiklos ataskaitą. Ji viešai skelbiama Žurnalistų etikos inspektoriaus tarnybos interneto tinklalapyje (svetainėje).“
 
-\#### 3 straipsnis. 50 straipsnio pakeitimas
+## 3 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
 19. Inspektoriaus teisėtų reikalavimų, priimtų sprendimų nevykdymas ar kitoks trukdymas inspektoriui įgyvendinti šio Įstatymo jam suteiktas teises ar įgaliojimus užtraukia administracinę atsakomybę.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnis ir šio įstatymo 3 straipsnyje išdėstyto 50 straipsnio 1 dalies 8 punktas įsigalioja 2010 m. sausio 1 d.
 

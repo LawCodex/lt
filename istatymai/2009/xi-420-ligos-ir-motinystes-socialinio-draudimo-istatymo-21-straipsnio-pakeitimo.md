@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F9FD4DE8C553"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F9FD4DE8C553.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 21 straipsnio pakeitimo įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 2007, Nr. 77-3042, Nr. 132-5346, Nr. 132-5347; 2008, Nr. 74-2864)
 
-\#### 1 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Motinystės (tėvystės) pašalpos dydis nuo nėštumo ir gimdymo atostogų pabaigos, kol vaikui sueis vieni metai, yra 90 procentų, o kol vaikui sueis dveji metai, – 75 procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 Šio įstatymo nuostatos taikomos nuo 2010 m. liepos 1 d. naujai skiriamoms motinystės (tėvystės) pašalpoms.
 

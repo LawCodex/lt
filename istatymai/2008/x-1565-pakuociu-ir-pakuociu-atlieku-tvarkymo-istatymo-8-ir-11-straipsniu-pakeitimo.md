@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9B2AE00143EA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9B2AE00143EA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2001, Nr. [85-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pardavėjai privalo priimti parduodamų gaminių pakuotes, už kurias nustatytas užstatas, išskyrus pardavėjus, prekiaujančius smulkiose parduotuvėse, kurių bendrasis plotas neviršija 90 kv. m (neskaitant kaimo parduotuvių), bei prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose.“
 
-\#### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 

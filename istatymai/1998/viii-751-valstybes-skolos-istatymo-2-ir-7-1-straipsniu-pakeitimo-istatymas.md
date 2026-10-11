@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D385B6F4C277"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D385B6F4C277.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo 2 ir 7(1) straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210); 1997, Nr. [60-1401](https://www.e-tar.lt/portal/lt/legalAct/TAR.45BC14BF2697), Nr. [107-2689](https://www.e-tar.lt/portal/lt/legalAct/TAR.5CC964AA82B7))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. 2 straipsnio 2 dalyje vietoj žodžių „pagal suteiktas garantijas bankams suma“ įrašyti žodžius „bankams pagal garantijos ar draudimo sutartis sumos dalis, kuri yra apskaičiuojama pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintus normatyvus“ ir šią dalį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „12. **Garantijų institucija arba draudimo įmonė, už kurios įsipareigojimų įvykdymą garantuoja valstybė**, – Lietuvos Respublikos juridinis asmuo, kuris veikia atitinkamai pagal Lietuvos Respublikos Vyriausybės patvirtintus nuostatus ar įstatus, patvirtintus Lietuvos Respublikos draudimo įstatymo nustatyta tvarka,užtikrina bankams pagal garantijos ar draudimo sutartisjuridiniams asmenims, įmonėms, neturinčioms juridinio asmens teisių, fiziniams asmenims teikiamų paskolųgrąžinimąir už kurioįsipareigojimųįvykdymą garantuoja valstybė.“
 
-\#### 2 straipsnis. 71 straipsnio pakeitimas
+## 2 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 7^1 straipsnį ir jį išdėstyti taip:
 

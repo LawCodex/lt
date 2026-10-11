@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.146094DDC821"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.146094DDC821.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 7, 9, 10, 11, 12, 13, 25 straipsnių pakeitimo bei papildymo ir Įstatymo papildymo priedu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E), Nr. [110-3995](https://www.e-tar.lt/portal/lt/legalAct/TAR.7900E9A27110); 2002, Nr. [112-4967](https://www.e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8), Nr. [123-5548](https://www.e-tar.lt/portal/lt/legalAct/TAR.25A3A951B261); 2003, Nr. [61-2771](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2C08FB23CAB), Nr. [73-3347](https://www.e-tar.lt/portal/lt/legalAct/TAR.003C43F3CE8D), Nr. [74-3427](https://www.e-tar.lt/portal/lt/legalAct/TAR.CFC90490B19E))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 4 dalimi
 
 Papildyti 1 straipsnį 4 dalimi:
 
 „4. Šio Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Papildyti 1 straipsnį 4 dalimi:
 
 7. Buvusias 2 straipsnio 19, 20, 21, 22 dalis laikyti atitinkamai 21, 22, 23, 24 dalimis.
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 3 straipsnį ir jį išdėstyti taip:
 
@@ -80,43 +80,43 @@ Pakeisti bei papildyti 3 straipsnį ir jį išdėstyti taip:
 
 7. Verslo apskaitos standartų paaiškinimus teikia Lietuvos Respublikos apskaitos institutas. Verslo apskaitos standartų paaiškinimas neturi teisės akto galios ir išreiškia Verslo apskaitos standartų rengėjų nuomonę.“
 
-\#### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalyje po žodžio „parengia“ įrašyti žodį „patvirtina“, vietoj žodžių „Valstybės žinių“ priede „Informaciniai pranešimai“ įrašyti žodžius „Valstybės žiniose“ ir šią dalį išdėstyti taip:
 
 „1. Pavyzdinį sąskaitų planą parengia, patvirtina ir „Valstybės žiniose“ paskelbia Lietuvos Respublikos apskaitos institutas.“
 
-\#### 5 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalyje išbraukti žodį „bendrieji“ ir šią dalį išdėstyti taip:
 
 „1. Apskaitos politika – apskaitos principai, apskaitos metodai ir taisyklės, skirti ūkio subjekto apskaitai tvarkyti ir finansinei atskaitomybei sudaryti bei pateikti.“
 
-\#### 6 straipsnis. 10 straipsnio 1 dalies 3 punkto pakeitimas
+## 6 straipsnis. 10 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 10 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) individualios įmonės vadovas ir gyventojas, kuris verčiasi individualia veikla;“.
 
-\#### 7 straipsnis. 11 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 11 straipsnio 1 dalies pakeitimas
 
 11 straipsnio 1 dalyje išbraukti žodžius „ir finansinės atskaitomybės pateikimą laiku“ ir šią dalį išdėstyti taip:
 
 „1. Vyriausiasis buhalteris (buhalteris) ir apskaitos paslaugas teikianti įmonė atsako už buhalterinių įrašų teisingumą.“
 
-\#### 8 straipsnis. 12 straipsnio 4 dalies pakeitimas
+## 8 straipsnis. 12 straipsnio 4 dalies pakeitimas
 
 12 straipsnio 4 dalyje vietoj žodžių „ne vėliau kaip iki kito mėnesio 30 dienos“ įrašyti žodžius „ūkinės operacijos arba ūkinio įvykio dieną arba iškart po to, kai yra galimybė tai padaryti“ ir šią dalį išdėstyti taip:
 
 „4. Apskaitos registruose ūkinių operacijų ir ūkinių įvykių duomenys užregistruojami ūkinės operacijos arba ūkinio įvykio dieną arba iškart po to, kai yra galimybė tai padaryti.“
 
-\#### 9 straipsnis. 13 straipsnio papildymas 8 dalimi
+## 9 straipsnis. 13 straipsnio papildymas 8 dalimi
 
 Papildyti 13 straipsnį 8 dalimi:
 
 „8. Šio straipsnio 1 dalies 6 punkte nustatyti apskaitos dokumentų rekvizitai neprivalomi PVM sąskaitai-faktūrai.“
 
-\#### 10 straipsnis. 25 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 25 straipsnio pakeitimas ir papildymas
 
 1. 25 straipsnio 2 dalyje vietoj datos „2004 m. sausio 1 d.“ įrašyti datą „2005 m. sausio 1 d.“ ir šią dalį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Papildyti 13 straipsnį 8 dalimi:
 
 3. Buvusias 25 straipsnio 3, 4 dalis laikyti atitinkamai 4, 5 dalimis.
 
-\#### 11 straipsnis. Įstatymo papildymas priedu
+## 11 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

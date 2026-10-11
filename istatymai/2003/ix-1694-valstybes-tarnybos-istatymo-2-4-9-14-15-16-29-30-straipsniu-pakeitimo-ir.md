@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E9E0D56BCC08.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2, 4, 9, 14, 15, 16, 29, 30 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [73-3103](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF); 2003, Nr. [38-1671](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 13 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 13 dalimi
 
 Papildyti 2 straipsnį 13 dalimi:
 
 „13.**Piktnaudžiavimas tarnyba** – valstybės tarnautojo veika (veikimas ar neveikimas), kai tarnybinė padėtis naudojama ne tarnybos interesais arba ne pagal įstatymus ar kitus teisės aktus, arba savanaudiškais tikslais (neteisėtai pasisavinamas ar kitiems perleidžiamas svetimas turtas, lėšos ir t. t.) ar dėl kitokių asmeninių paskatų (keršto, pavydo, karjerizmo, neteisėtų paslaugų teikimo ir t. t.), taip pat valstybės tarnautojo veiksmai, kuriais viršijami suteikti įgaliojimai ar savivaliaujama.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 4 straipsnį papildyti naujomis 3 ir 4 dalimis, buvusią 3 dalį laikyti 5 dalimi, 5 dalies 4 ir 5 punktus pripažinti netekusiais galios, buvusius 6, 7, 8, 9 punktus laikyti atitinkamai 4, 5, 6, 7 punktais ir visą straipsnį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Papildyti 2 straipsnį 13 dalimi:
 
 7) darbuotojams, dirbantiems pagal darbo sutartis ir gaunantiems darbo užmokestį iš valstybės ir savivaldybių biudžetų ir valstybės pinigų fondų.“
 
-\#### 3 straipsnis. 9 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 9 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 9 straipsnį nauja 4 dalimi:
 
@@ -72,25 +72,25 @@ Papildyti 2 straipsnį 13 dalimi:
 
 2. Buvusias 9 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 4 straipsnis. 14 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 14 straipsnio 2 dalies pakeitimas
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pakaitiniai valstybės tarnautojai priimami į laikinai negalinčio eiti karjeros valstybės tarnautojo pareigas ir jas eina tol, kol sugrįžta negalėjęs eiti pareigų karjeros valstybės tarnautojas, bet ne ilgiau kaip trejus metus arba ne ilgiau, negu įstatymuose nustatyta negalinčio eiti šio Įstatymo 16 straipsnio 2 dalyje nurodytų pareigų karjeros valstybės tarnautojo kadencija (kadencijos).“
 
-\#### 5 straipsnis. 15 straipsnio 1 dalies 5 punkto papildymas
+## 5 straipsnis. 15 straipsnio 1 dalies 5 punkto papildymas
 
 15 straipsnio 1 dalies 5 punkte po žodžio „taisyklių“ įrašyti žodžius „vengti viešųjų ir privačių interesų konflikto, nepiktnaudžiauti tarnyba“ ir šį punktą išdėstyti taip:
 
 „5) laikytis šiame Įstatyme, kituose teisės aktuose nustatytų valstybės tarnautojų veiklos etikos principų ir taisyklių, vengti viešųjų ir privačių interesų konflikto, nepiktnaudžiauti tarnyba;“.
 
-\#### 6 straipsnis. 16 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 16 straipsnio 2 dalies pakeitimas
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kai pasibaigia asmens paskyrimo į valstybės politiko arba valstybės tarnautojo – įstaigos vadovo (pavaduotojo), kolegialios institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu, pareigas laikas, Seimo ar savivaldybės tarybos kadencija arba asmuo atsistatydina ar yra atstatydinamas, ar atleidžiamas iš valstybės politiko arba valstybės tarnautojo – įstaigos vadovo (pavaduotojo), kolegialios institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu, pareigų, asmuo, kuris prieš paskiriant į valstybės politiko arba valstybės tarnautojo – įstaigos vadovo (pavaduotojo), kolegialios institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu, pareigas ar išrenkant Seimo ar savivaldybės tarybos nariu, buvo valstybės tarnautojas (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus), turi teisę per 3 mėnesius nuo šioje dalyje nurodytų aplinkybių atsiradimo Vyriausybės nustatyta tvarka atkurti valstybės tarnautojo (išskyrus politinio(asmeninio) pasitikėjimo valstybės tarnautojo) statusą – grįžti į eitas arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas. Atlikusiam privalomąją pradinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą valstybės tarnautojui užtikrinama teisė grįžti į eitas pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje.“
 
-\#### 7 straipsnis. 29 straipsnio pakeitimas
+## 7 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 8) kiti nusižengimai, kuriais šiurkščiai nusižengiama valstybės tarnautojo pareigoms ar valstybės tarnautojo etikos principams.“
 
-\#### 8 straipsnis. 30 straipsnio 1 bei 4 dalių pakeitimas ir 2 dalies pripažinimas netekusia galios
+## 8 straipsnis. 30 straipsnio 1 bei 4 dalių pakeitimas ir 2 dalies pripažinimas netekusia galios
 
 1. Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 

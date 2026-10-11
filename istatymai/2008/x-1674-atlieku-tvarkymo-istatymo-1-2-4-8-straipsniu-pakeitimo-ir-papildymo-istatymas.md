@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.353FCA5A0773"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.353FCA5A0773.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 1, 2, 4, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1726](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1); 2002, Nr. [72-3016](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5E88FF9E5A); 2004, Nr. [73-2544](https://www.e-tar.lt/portal/lt/legalAct/TAR.01BB1CB0D2CF); 2005, Nr. [84-3111](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C4D507335E2); 2008, Nr. [76-2999](https://www.e-tar.lt/portal/lt/legalAct/TAR.DBE45E39FB46))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 1 straipsnio 2 dalyje po žodžio „vandenį“ įrašyti žodžius „netinkamų naudoti sprogmenų“ ir šią dalį išdėstyti taip:
 
 „2. Įstatymas nereglamentuoja išmetimų į orą, nuotekų į vandenį, netinkamų naudoti sprogmenų ir radioaktyviųjų atliekų tvarkymo, taip pat kritusių gyvulių ir žemės ūkio atliekų (natūralių, nepavojingų, naudojamų žemės ūkyje medžiagų) tvarkymo.“
 
-\#### 2 straipsnis. 2 straipsnio 12 dalies pakeitimas ir straipsnio papildymas 36 ir 37 dalimis
+## 2 straipsnis. 2 straipsnio 12 dalies pakeitimas ir straipsnio papildymas 36 ir 37 dalimis
 
 1. Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „37. **Kasybos pramonė –**ūkinės veiklos sritis, apimanti ūkio subjektų komerciniu tikslu vykdomą naudingųjų iškasenų išgavimą atvirais ar požeminiais kasiniais, įskaitant išgavimą mechaniniais gręžiniais, arba išgautų medžiagų apdorojimą.“
 
-\#### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas ir papildymas 7 dalimi
+## 3 straipsnis. 4 straipsnio 1 dalies pakeitimas ir papildymas 7 dalimi
 
 1. 4 straipsnio 1 dalyje išbraukti žodžius „papildomai neapdorotos“ ir šią dalį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 „7. Atliekų apdorojimo veiklai yra taikomi atliekų naudojimo ir šalinimo veiklai nustatyti reikalavimai.“
 
-\#### 4 straipsnis. 8 straipsnio 3 dalies papildymas
+## 4 straipsnis. 8 straipsnio 3 dalies papildymas
 
 Papildyti 8 straipsnio 3 dalį nauju sakiniu ir šią dalį išdėstyti taip:
 

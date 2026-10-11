@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7c326650f77c11e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7C326650F77C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 22, 23, 24, 31 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 22 straipsnio pakeitimas
+## 1 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 2) nustato reikalavimus profesinio mokymo sutartims ir jų registravimo tvarką.“
 
-\#### 2 straipsnis. 23 straipsnio pakeitimas
+## 2 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 6) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 3 straipsnis. Įstatymo papildymas 231 straipsniu
+## 3 straipsnis. Įstatymo papildymas 231 straipsniu
 
 Papildyti Įstatymą 23^1 straipsniu:
 
@@ -138,13 +138,13 @@ Papildyti Įstatymą 23^1 straipsniu:
 
 4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 4 straipsnis. 24 straipsnio pakeitimas
+## 4 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) dalyvauja formuojant žmogiškųjų išteklių plėtros politiką;“.
 
-\#### 5 straipsnis. 31 straipsnio pakeitimas
+## 5 straipsnis. 31 straipsnio pakeitimas
 
 1. Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -154,7 +154,7 @@ Pakeisti 24 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „7. Asmens kompetencijoms vertinti lėšų skiriama taikant Vyriausybės patvirtintą Kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką. Lėšos skirstomos vadovaujantis kompetencijų vertinimo lėšų paskirstymo tvarkos aprašu.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. rugsėjo 1 d.
 

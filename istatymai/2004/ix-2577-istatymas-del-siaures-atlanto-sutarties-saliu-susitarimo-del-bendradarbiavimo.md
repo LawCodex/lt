@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C8486AB6D1A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C8486AB6D1A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, ratifikavimo
@@ -26,11 +26,11 @@ DĖL ŠIAURĖS ATLANTO SUTARTIES ŠALIŲ SUSITARIMO DĖL BENDRADARBIAVIMO, SUSIJ
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. spalio 18 d. dekretą Nr. 99, ratifikuoja 1964 m. birželio 18 d. Paryžiuje sudarytą Šiaurės Atlanto Sutarties Šalių susitarimą dėl bendradarbiavimo, susijusio su atomine informacija.
 
-\#### 2 straipsnis. Susitarimo vykdymas ir įgyvendinimas
+## 2 straipsnis. Susitarimo vykdymas ir įgyvendinimas
 
 1. Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, vykdymą pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją užtikrina Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija, Valstybės saugumo departamentas, Lietuvos Respublikos Vyriausybė ir paslapčių subjektai.
 

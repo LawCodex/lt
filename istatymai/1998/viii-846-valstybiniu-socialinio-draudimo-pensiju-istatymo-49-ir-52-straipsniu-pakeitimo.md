@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.420BA775E440"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.420BA775E440.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 49 ir 52 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D), Nr. [101-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41);1995, Nr. [59-1475](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F1DFB95F88D); 1997, Nr. [119-3077](https://www.e-tar.lt/portal/lt/legalAct/TAR.027789BC6E41))
 
-\#### 1 straipsnis. 49 straipsnio pakeitimas
+## 1 straipsnis. 49 straipsnio pakeitimas
 
 49 straipsnio 2 dalį pripažinti netekusia galios, buvusias 3 ir 4 dalis laikyti atitinkamai 2 ir 3 dalimis ir šį straipsnį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Jei nustatoma lengvesnio invalidumo grupė asmeniui, kuriam buvo mokama neperska
 
 3) II grupės invalidui toliau mokama neperskaičiuota invalidumo pensija pagal anksčiau turėtą grupę, o III grupės invalidui toliau mokama pusė neperskaičiuotos invalidumo pensijos pagal anksčiau turėtą grupę, indeksuojant ją 50 straipsnio nustatyta tvarka.“
 
-\#### 2 straipsnis. 52 straipsnio 2 dalies 7 ir 8 punktų pakeitimas
+## 2 straipsnis. 52 straipsnio 2 dalies 7 ir 8 punktų pakeitimas
 
 52 straipsnio 2 dalies 7 punkte išbraukti žodžius „(vaikams tremtiniams – nuo 14 metų)“, 8 punkte išbraukti žodžius „(vaikams – nuo 14 metų)“ ir šiuos punktus išdėstyti taip:
 
@@ -60,7 +60,7 @@ Jei nustatoma lengvesnio invalidumo grupė asmeniui, kuriam buvo mokama neperska
 
 8) asmenų, išvežtų Antrojo pasaulinio karo metais priverstiniams darbams, darbo laikas, taip pat buvimo getuose ir kitose laisvės atėmimo vietose Antrojo pasaulinio karo metais laikas;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
 

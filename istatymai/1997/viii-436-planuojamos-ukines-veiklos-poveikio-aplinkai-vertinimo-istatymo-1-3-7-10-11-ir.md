@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EE5DD6767D36"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EE5DD6767D36.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1, 3, 7, 10, 11 ir 12 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [82-1965](https://www.e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E))
 
-\#### 1 straipsnis. 1 straipsnio 10 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 10 dalies pakeitimas
 
 1 straipsnio 10 dalyje vietoj žodžio „licencijas“ įrašyti žodį „atestatus“ ir šią dalį išdėstyti taip:
 
 „10. **Poveikio aplinkai vertinimo valstybinė ekspertizė** – tai užsakovo atlikto planuojamos ūkinės veiklos poveikio aplinkai vertinimo teisingumo išsamus patikrinimas, kurį organizuoja tam įgaliota valstybės institucija – Aplinkos apsaugos ministerija, pasitelkusi atestatus turinčius ekspertus.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 3 straipsnio 1 dalyje vietoj žodžių „Pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „Poveikio aplinkai pirminio vertinimo“, 2 dalyje vietoj žodžių „Išsamaus poveikio aplinkai vertinimo“ įrašyti žodžius „Poveikio aplinkai išsamaus vertinimo“ ir visą straipsnį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 2. Poveikio aplinkai išsamaus vertinimo tikslas – nustatyti visą galimą planuojamos ūkinės veiklos poveikį aplinkai, įvertinti planuojamą ūkinę veiklą socialiniu aspektu, parinkti neigiamą poveikį mažinančias priemones.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 7 straipsnio 1 ir 2 dalyse vietoj žodžių „pirminis poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai pirminis vertinimas“; 1 dalies 2 punkte, 6 ir 7 dalyse vietoj žodžių „išsamus poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai išsamus vertinimas“; 3, 4, 5 dalyse vietoj žodžių „pirminį poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai pirminį vertinimą“; 5 dalyje vietoj žodžio „nutarimu“ įrašyti žodį „sutarimu“; 7 dalyje vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“, vietoj žodžių „išsamų poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai išsamų vertinimą“ ir visą straipsnį išdėstyti taip:
 
@@ -74,13 +74,13 @@ Vilnius
 
 8. Užsakovas pagal programą atlieka poveikio aplinkai išsamų vertinimą ir parengia ataskaitą.“
 
-\#### 4 straipsnis. 10 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 10 straipsnio 4 dalies pakeitimas
 
 10 straipsnio 4 dalyje vietoj žodžių „valstybinė poveikio aplinkai vertinimo ekspertizė“ įrašyti žodžius „poveikio aplinkai vertinimo valstybinė ekspertizė“ ir šią dalį išdėstyti taip:
 
 „4. Planuojamai ūkinei veiklai, kuriai privaloma poveikio aplinkai vertinimo valstybinė ekspertizė, Aplinkos apsaugos ministerija dėl šios veiklos galimybių poveikio aplinkai požiūriu priima sprendimą tik atlikus tokią ekspertizę.“
 
-\#### 5 straipsnis. 11 straipsnio pakeitimas
+## 5 straipsnis. 11 straipsnio pakeitimas
 
 11 straipsnio 2 ir 3 dalyse vietoj žodžių „licenciją“, „licencija išduodama“ įrašyti atitinkamai žodžius „atestatą“, „atestatas išduodamas“ ir šias dalis išdėstyti taip:
 
@@ -88,7 +88,7 @@ Vilnius
 
 3. Poveikio aplinkai vertinimo eksperto atestatas išduodamas Vyriausybės nustatyta tvarka.“
 
-\#### 6 straipsnis. 12 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 12 straipsnio 2 dalies pakeitimas
 
 12 straipsnio 2 dalyje vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“ ir šią dalį išdėstyti taip:
 

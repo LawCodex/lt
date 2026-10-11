@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.17DF5BFB24FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.17DF5BFB24FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 1, 2, 6, 21 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 12-1 straipsniu ir priedu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239), Nr. [171-6325](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A9D53671BAE), Nr. [188-7002](https://www.e-tar.lt/portal/lt/legalAct/TAR.41AE07789F2A); 2005, Nr. [61-2159](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB690AFBE93), Nr. [86-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.61D84FD9FC5C); 2006, Nr. [57-2023](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4EF4E7BE664); 2008, Nr. [135-5239](https://www.e-tar.lt/portal/lt/legalAct/TAR.1866A40EE952), Nr. [149-6022](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB86E35BB7CC); 2009, Nr. [25-985](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF9D15015A1), Nr. [93-3983](https://www.e-tar.lt/portal/lt/legalAct/TAR.C06792A3BA03); 2010, Nr. [145-7422](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1D18BB4FFCD); 2011, Nr. [160-7564](https://www.e-tar.lt/portal/lt/legalAct/TAR.1EE0B2E40D81); 2012, Nr. [132-6686](https://www.e-tar.lt/portal/lt/legalAct/TAR.D1B22692DB80))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -36,13 +36,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas 11 dalimi
+## 2 straipsnis. 2 straipsnio papildymas 11 dalimi
 
 Papildyti 2 straipsnį 11 dalimi:
 
 „11. **Tarpvalstybinė sveikatos priežiūra**– kitoje Europos ekonominės erdvės valstybėje sveikatos priežiūros specialistų apdraustiesiems teikiamos asmens sveikatos priežiūros paslaugos, siekiant įvertinti, palaikyti ar pagerinti jų sveikatos būklę, taip pat vaistų, medicinos pagalbos priemonių ir medicinos prietaisų išrašymas ir išdavimas.Tarpvalstybinė sveikatos priežiūra neapima socialinių paslaugų ir patarnavimų, nepriskirtų asmens sveikatos priežiūrai, transplantacijai skirtų audinių, ląstelių ir (arba) organų paskirstymo bei gavimo ir skiepijimo paslaugų pagal gyventojų skiepijimo nuo užkrečiamųjų ligų programas.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 6 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Papildyti 2 straipsnį 11 dalimi:
 
 „5. Lietuvos Respublikos karių, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu bei asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka.“
 
-\#### 4 straipsnis. Įstatymo papildymas 121 straipsniu
+## 4 straipsnis. Įstatymo papildymas 121 straipsniu
 
 Papildyti Įstatymą 12^1 straipsniu:
 
@@ -78,13 +78,13 @@ Papildyti Įstatymą 12^1 straipsniu:
 
 3. Apdraustojo išlaidos tarpvalstybinei sveikatos priežiūrai kompensuojamos sveikatos apsaugos ministro nustatyta tvarka.“
 
-\#### 5 straipsnis. 21 straipsnio 1 dalies 1 punkto pakeitimas
+## 5 straipsnis. 21 straipsnio 1 dalies 1 punkto pakeitimas
 
 21 straipsnio 1 dalies 1 punkte po žodžių „apmokėtos išlaidos“ įrašyti žodžius „tarp jų – tarpvalstybinės sveikatos priežiūros išlaidų kompensavimas apdraustiesiems“ ir šį punktą išdėstyti taip:
 
 „1) iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų, nustatytų pagal šį Įstatymą, išlaidos, sveikatos priežiūros įstaigoms, su kuriomis teritorinės ligonių kasos yra sudariusios sutartis, apmokėtos išlaidos, tarp jų – tarpvalstybinės sveikatos priežiūros išlaidų kompensavimas apdraustiesiems;“.
 
-\#### 6 straipsnis. Įstatymo papildymas priedu
+## 6 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -102,7 +102,7 @@ priedas
 
 3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/95/ES dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo prie tarptautinės apsaugos gavėjų, vienodo statuso pabėgėliams arba papildomą apsaugą galintiems gauti asmenims ir suteikiamos apsaugos pobūdžio reikalavimų (OL 2011 L 337, p. 9).“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. spalio 25 d.
 

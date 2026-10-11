@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8F6815C088D0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8F6815C088D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [52-1484](https://www.e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D); 2001, Nr. [62-2233](https://www.e-tar.lt/portal/lt/legalAct/TAR.18ABA3D01C12); 2002, Nr. [95-4086](https://www.e-tar.lt/portal/lt/legalAct/TAR.705A8D895FAD); 2005, Nr. [121-4333](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3E3FC5ED28A); 2006, Nr. [137-5200](https://www.e-tar.lt/portal/lt/legalAct/TAR.79A933B29770))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
 
 4 straipsnio 1 dalies 2 punkte išbraukti žodžius „taip pat dokumentą, patvirtinantį asmens gyvenamąją vietą“ ir šį punktą išdėstyti taip:
 
 „2) dokumentų išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir išduodamus dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką bei gyvenimo joje, dėl užsieniečių įdarbinimo;“.
 
-\#### 2 straipsnis. 6 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 2 dalies pakeitimas
 
 6 straipsnio 2 dalies pirmojoje pastraipoje išbraukti žodžius „taip pat už dokumentą, patvirtinantį asmens gyvenamąją vietą“, 1 punkte – žodžius „už dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą“ ir šią dalį išdėstyti taip:
 
@@ -58,11 +58,11 @@ Vilnius
 
 9) užsieniečiai, vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir pratęsimą.“
 
-\#### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo parengia ir priima teisės aktus, susijusius su šio įstatymo įgyvendinimu.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2007 m. liepos 1 d.
 

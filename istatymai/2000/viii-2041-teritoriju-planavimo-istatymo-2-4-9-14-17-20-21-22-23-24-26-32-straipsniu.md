@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1DD3D6A3EB6B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1DD3D6A3EB6B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 9, 14, 17, 20, 21, 22, 23, 24, 26, 32 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2000, Nr. 42-1195, Nr. 58-1708)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -74,25 +74,25 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 18) planavimo sąlygos – planuojamai teritorijai taikomos teritorijų planavimo normos ir galiojantys teritorijų planavimo dokumentai.“
 
-\#### 2 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) savivaldybės (teritorijų planavimui ir jo dokumentams, kuriuos tvirtina savivaldybės taryba arba valdyba);“.
 
-\#### 3 straipsnis. 9 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 9 straipsnio 3 dalies pakeitimas
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Bendrasis Lietuvos Respublikos teritorijos planas rengiamas pagal Vyriausybės nutarimą. Plano rengimą organizuoja Aplinkos ministerija. Vyriausybė bendrąjį planą teikia tvirtinti Seimui. Seimas per keturis mėnesius nuo pateikimo dienos patvirtina bendrąjį planą ir viešai paskelbia jo galiojimo pradžią arba jo nepatvirtina, bet priima sprendimą dėl atskirų sprendinių įsigaliojimo ir tolesnės darbų tvarkos.“
 
-\#### 4 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pavienių rūšių (žemėtvarkos, miškotvarkos ir kitų) specialiojo planavimo dokumentų rengimo būtinumą, struktūrą, rengimo, tvirtinimo ir galiojimo tvarką nustato šis įstatymas, atitinkamą veiklą reguliuojantys įstatymai, specialiojo planavimo dokumentų taisyklės (kiekvienos rūšies atskiros). Jas tvirtina ministerija, kurios reguliavimo sričiai priskirta planuojamoji veikla, kartu su normų sąvado tvarkytoja – Aplinkos ministerija.“
 
-\#### 5 straipsnis. 17 straipsnio 2 ir 4 dalių pakeitimas
+## 5 straipsnis. 17 straipsnio 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Detaliuosius planus, pagal kuriuos žemė ir kitas nekilnojamasis turtas paimamas visuomenės poreikiams, rengia valstybės institucijos, apskričių viršininkai arba savivaldybės valdybos.“
 
-\#### 6 straipsnis. 20 straipsnio 3, 5, 7, 8 dalių pakeitimas ir papildymas
+## 6 straipsnis. 20 straipsnio 3, 5, 7, 8 dalių pakeitimas ir papildymas
 
 1. Papildyti 20 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -134,19 +134,19 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „8. Detalusis planas netvirtinamas, jeigu jis prieštarauja bendrajam planui arba yra pažeista nustatyta derinimo, viešo svarstymo, priežiūros procedūra, detaliojo plano sprendiniai neatitinka teritorijų planavimo ar statybos normų. Atsisakiusi tvirtinti detalųjį planą, savivaldybės taryba arba valdyba privalo planavimo organizatoriui pateikti motyvuotą atsakymą per 20 darbo dienų nuo projekto pateikimo tvirtinti. Atsisakymą tvirtinti planavimo organizatorius gali apskųsti teritorijų planavimo priežiūros institucijai. Priežiūros institucija per 10 darbo dienų nuo skundo pateikimo dienos turi pateikti planavimo organizatoriui ir savivaldybės tarybai arba valdybai motyvuotą išvadą dėl detaliojo plano tvirtinimo. Priežiūros institucijos sprendimas gali būti apskųstas teismui.“
 
-\#### 7 straipsnis. 21 straipsnio 5 dalies pakeitimas
+## 7 straipsnis. 21 straipsnio 5 dalies pakeitimas
 
 Pakeisti 21 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Valstybinio teritorijų planavimo duomenų banko kaupimą ir tvarkymą organizuoja Aplinkos ministerija, apskrities – apskrities valdytojas, savivaldybės – savivaldybės valdyba (meras).“
 
-\#### 8 straipsnis. 22 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 22 straipsnio 2 dalies pakeitimas
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Normų sąvadą tvarko, rengia spaudai ir jo sisteminį rinkinį išleidžia Aplinkos ministerija.“
 
-\#### 9 straipsnis. 23 straipsnio 3, 5, 8 dalių pakeitimas
+## 9 straipsnis. 23 straipsnio 3, 5, 8 dalių pakeitimas
 
 1. Pakeisti 23 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -160,19 +160,19 @@ Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8. Teritorijų planavimo priežiūros institucija bendrojo ar detaliojo plano, specialiojo planavimo dokumento patikrinimo aktą turi pateikti per 10 darbo dienų nuo tos dienos, kai buvo pateiktas plano ar dokumento projektas, 30 straipsnio pirmojoje dalyje nurodytų nuostatų nustatyta tvarka.“
 
-\#### 10 straipsnis. 24 straipsnio 4 dalies pakeitimas
+## 10 straipsnis. 24 straipsnio 4 dalies pakeitimas
 
 Pakeisti 24 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Valstybinį teritorijų planavimo dokumentų registrą tvarko Aplinkos ministerija, apskrities – jos viršininkas, savivaldybės – savivaldybės vyriausiasis architektas.“
 
-\#### 11 straipsnis. 26 straipsnio 5 dalies pakeitimas
+## 11 straipsnis. 26 straipsnio 5 dalies pakeitimas
 
 Pakeisti 26 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Susipažinti su parengtais detaliaisiais planais skiriamas ne trumpesnis kaip 15 darbo dienų laikotarpis, numatant ne mažiau kaip vieną savaitę viešai ekspozicijai.“
 
-\#### 12 straipsnis. 32 straipsnio 4 ir 5 dalių pakeitimas
+## 12 straipsnis. 32 straipsnio 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 32 straipsnio 4 dalį ir ją išdėstyti taip:
 

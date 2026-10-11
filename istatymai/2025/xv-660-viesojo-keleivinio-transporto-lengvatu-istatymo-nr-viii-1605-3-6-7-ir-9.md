@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dc1730d2dfd911f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DC1730D2DFD9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatymo Nr. VIII-1605 3, 6, 7 ir 9 straipsnių pakeitimo įstatymas
@@ -26,25 +26,25 @@ VIEŠOJO KELEIVINIO TRANSPORTO LENGVATŲ ĮSTATYMO NR. VIII-1605 3, 6, 7 IR 9 ST
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) reguliariaisiais reisais tolimojo ir vietinio susisiekimo maršrutais;“.
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „2. Įsigyti važiavimo bilietą vykti viešuoju keleiviniu transportu vietinio susisiekimo maršrutais su 80 procentų nuolaida turi teisę:“.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Įsigyti važiavimo bilietą vykti viešuoju keleiviniu transportu vietinio susisiekimo maršrutais su 50 procentų nuolaida turi teisę asmenys nuo 70 iki 80 metų.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4) išlaidos, patirtos dėl šio įstatymo 6 ir 7 straipsniuose nustatytų lengvatų, taikomų asmenims, vykstantiems vietinio susisiekimo maršrutais, – iš savivaldybių biudžetų; jeigu keleiviai vežami per gretimų savivaldybių (įskaitant miestų savivaldybes) teritorijas, – iš šių savivaldybių biudžetų solidariai pagal tarpusavio susitarimą.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. birželio 1 d.
 

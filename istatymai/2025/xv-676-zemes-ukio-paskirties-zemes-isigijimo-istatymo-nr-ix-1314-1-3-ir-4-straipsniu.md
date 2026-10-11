@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b240dfb2dfeb11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B240DFB2DFEB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 1, 3 ir 4 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio įstatymo nustatyti reikalavimai, išskyrus prievolę gauti Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) sutikimą, taikomi ir sudarant juridinio asmens, Lietuvos Respublikos teritorijoje nuosavybės teise valdančio daugiau negu 10 ha žemės ūkio paskirties žemės, akcijų (teisių, pajų) perleidimo sandorį, kurį sudarius akcijų (teisių, pajų) įgijėjas tampa nuo 5 iki 25 procentų šio juridinio asmens akcijų (teisių, pajų) valdytoju. Daugiau negu 10 ha žemės ūkio paskirties žemės Lietuvos Respublikos teritorijoje nuosavybės teise valdančio juridinio asmens ir (ar) daugiau negu 25 procentų tokio juridinio asmens akcijų (teisių, pajų) įgijėjui taikomi tokie patys šio ir kitų įstatymų nustatyti reikalavimai (taip pat ir dėl šio įgijėjo sudaromo sandorio notarinės formos) kaip ir žemės ūkio paskirties žemės pirkėjui.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „9. Į žemės ūkio paskirties žemės sklypo ar kito turto, kuriam taikomos šio įstatymo 1 straipsnio 3 dalies nuostatos, perleidimo sandorį įrašoma sąlyga, kad pirkėjas patvirtina, jog sudarius šį sandorį asmens ir (ar) su juo susijusių asmenų turimos žemės ūkio paskirties žemės plotas neviršys didžiausio žemės ūkio paskirties žemės ploto, kurį asmuo ir (ar) su juo susiję asmenys kartu gali įsigyti pagal šio straipsnio 1 ir 2 dalis, dydžio. Kilus įtarimui (esant informacijos ir (ar) duomenų, ir (ar) faktų), kad asmuo pažeidė šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus, Nacionalinė žemės tarnyba patikrina, ar žemės ūkio paskirties žemės sklypo ar kito turto, kuriam taikomos šio įstatymo 1 straipsnio 3 dalies nuostatos, perleidimo sandoris buvo sudarytas nepažeidžiant šio įstatymo. Nacionalinė žemės tarnyba, atlikdama patikrinimą, turi teisę reikalauti iš valstybės ar savivaldybių institucijų, įstaigų ar įmonių, kitų juridinių ir fizinių asmenų bei užsienio subjektų pateikti dokumentus ir informaciją, susijusius su žemės ūkio paskirties žemės įsigijimu. Nacionalinė žemės tarnyba turi teisę gauti iš Nekilnojamojo turto registro informacinės sistemos ir kitų valstybės įmonės Registrų centro tvarkomų informacinių sistemų aktualius duomenis apie fizinių ir (ar) juridinių asmenų turimus žemės ūkio paskirties žemės plotus ir kitus duomenis, reikalingus patikrinimui atlikti. Nacionalinė žemės tarnyba, atlikusi patikrinimą ir nustačiusi pažeidimą, per 20 darbo dienų nuo pažeidimo nustatymo dienos asmeniui pasiūlo per 3 mėnesius nuo pasiūlymo gavimo dienos parduoti valstybei žemės ūkio paskirties žemę už žemės ūkio paskirties žemės įsigijimo kainą arba vidutinę rinkos vertę, kurios dydis nustatomas pagal žemės verčių zonų žemėlapius, jeigu vidutinė rinkos vertė yra mažesnė už žemės ūkio paskirties žemės įsigijimo kainą, įgijėjo pasirinkimu jo nuosavybės teise valdomą žemės ūkio paskirties žemės plotą (ploto dalį, proporcingą įsigytų akcijų (teisių, pajų) daliai juridiniame asmenyje, kai įsigytas turtas pagal šio įstatymo 1 straipsnio 3 dalį), viršijantį nustatytąjį šio straipsnio 1 ir 2 dalyse. Jeigu nustatytas viršijantis žemės ūkio paskirties žemės plotas sudaro tik žemės sklypo dalį ir pagal teisės aktų nuostatas, reglamentuojančias žemės sklypų formavimą, padalijus žemės sklypą, negalima suformuoti racionalių ribų ir dydžio žemės ūkio paskirties žemės sklypų, pasiūlymas parduoti teikiamas dėl viso žemės ūkio paskirties žemės sklypo, o asmeniui nesutikus, teikiamas pasiūlymas dėl žemės sklypo dalies, viršijančios gyvulininkystei plėtoti pagal šį įstatymą įsigyto 500 ha žemės ploto ribą, perleidimo. Perleidus žemės sklypo dalį, žemės sklypas valdomas bendrosios nuosavybės teise. Jeigu asmuo nesutinka su pasiūlymu, Nacionalinė žemės tarnyba, gindama viešąjį interesą, pareiškia ieškinį teismui dėl žemės ūkio paskirties žemės, įsigytos pažeidžiant šio straipsnio 1 ir 2 dalių nuostatas, perdavimo valstybės nuosavybėn. Kai asmuo nesutinka rengti žemės valdos projekto, kuriuo atidalijama žemės sklypo dalis, žemės valdos projektą rengia Nacionalinė žemės tarnyba ir šių darbų verte Vyriausybės nustatyta tvarka mažinama parduodamo žemė sklypo kaina.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2) 80 procentų – į Valstybės gynybos fondą.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 2 straipsnio 9 dalį ir šio straipsnio 3 dalį, įsigalioja 2026 m. sausio 1 d.
 

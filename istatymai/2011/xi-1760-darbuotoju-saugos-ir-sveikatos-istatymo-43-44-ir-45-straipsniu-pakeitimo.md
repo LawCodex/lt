@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.80647B2D811F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.80647B2D811F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 43, 44 ir 45 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [70-3170](https://www.e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4); 2007, Nr. [69-2720](https://www.e-tar.lt/portal/lt/legalAct/TAR.94C8747D9F01))
 
-\#### 1 straipsnis. 43 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 43 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 43 straipsnio 2 dalyje vietoj žodžių „Valstybinės visuomenės sveikatos priežiūros tarnybos prie Sveikatos apsaugos ministerijos (toliau – Valstybinės visuomenės sveikatos priežiūros tarnyba) teritorinei įstaigai“ įrašyti žodžius „visuomenės sveikatos centrui apskrityje“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Lėtinę profesinę ligą įtaręs gydytojas ne vėliau kaip per 3 dienas apie tai raštu praneša darbdaviui, Valstybinei darbo inspekcijai ir visuomenės sveikatos centrui apskrityje.“
 
-\#### 2 straipsnis. 44 straipsnio 10 ir 14 dalių pakeitimas
+## 2 straipsnis. 44 straipsnio 10 ir 14 dalių pakeitimas
 
 1. 44 straipsnio 10 dalyje vietoj žodžių „Valstybinės visuomenės sveikatos priežiūros tarnybos teritorinės įstaigos“ įrašyti žodžius „visuomenės sveikatos centro apskrityje“ ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „14. Ūmias profesines ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – visuomenės sveikatos centrų apskrityse direktoriai (jų pavaduotojai) ar kiti direktorių paskirti atstovai, Valstybinės darbo inspekcijos teritorinio (inspektavimo) skyriaus viršininkas, vienas Valstybinės darbo inspekcijos atstovas. Tyrime dalyvauja darbdavio atstovas ir darbuotojų atstovas (atstovai) saugai ir sveikatai.“
 
-\#### 3 straipsnis. 45 straipsnio pakeitimas
+## 3 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 5. Visi nelaimingi atsitikimai darbe, profesinės ligos ir incidentai įmonėje registruojami atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose, Profesinių ligų tyrimo ir apskaitos nuostatuose nustatyta tvarka.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

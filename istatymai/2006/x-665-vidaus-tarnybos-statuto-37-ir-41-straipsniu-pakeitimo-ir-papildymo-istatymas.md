@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8AA62FAA4FCE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8AA62FAA4FCE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 37 ir 41 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2004, Nr. [167-6105](https://www.e-tar.lt/portal/lt/legalAct/TAR.5FD3703F0FB2), Nr. [171-6296](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A607C85C6E))
 
-\#### 1 straipsnis. 37 straipsnio 1 dalies 9 ir 10 punktų pakeitimas
+## 1 straipsnis. 37 straipsnio 1 dalies 9 ir 10 punktų pakeitimas
 
 1. Pakeisti 37 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „10) pareigūno laikinojo nedarbingumo laiką, kasmetinių, papildomų, nėštumo ir gimdymo, tėvystės, vaiko priežiūros, mokymosi ir nemokamų atostogų laiką, taip pat buvimo Vidaus reikalų ministerijos personalo žinioje laiką;“.
 
-\#### 2 straipsnis. 41 straipsnio pakeitimas
+## 2 straipsnis. 41 straipsnio pakeitimas
 
 1. Pakeisti 41 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 4. Buvusią 41 straipsnio 4 dalį laikyti 5 dalimi.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 

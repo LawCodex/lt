@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B1C39951F79A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B1C39951F79A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210); 2005, Nr. [83-3041](https://www.e-tar.lt/portal/lt/legalAct/TAR.5F98821316B6); 2007, Nr. [77-3049](https://www.e-tar.lt/portal/lt/legalAct/TAR.8E85A0F97A35); 2008, Nr. [137-5374](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB423E65F2ED); 2009, Nr. [93-3960](https://www.e-tar.lt/portal/lt/legalAct/TAR.7742FA7CFED9))
 
-\#### 1 straipsnis. Lietuvos Respublikos valstybės skolos įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos valstybės skolos įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos valstybės skolos įstatymą ir jį išdėstyti taip:
 
@@ -34,11 +34,11 @@ VALSTYBĖS SKOLOS
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) skolinimąsi valstybės vardu, skolinantis valstybės vardu prisiimtų įsipareigojimų valdymą, valstybės garantijų teikimą, taip pat santykius, susijusius su valstybės reikalavimo teise į valstybės skolininkus ir valstybės garantuojamus skolininkus.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Finansinė priemonė – kaip tai apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme (toliau – Finansinių priemonių rinkų įstatymas).
 
@@ -84,7 +84,7 @@ VALSTYBĖS SKOLOS
 
 22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose Lietuvos Respublikos įstatymuose.
 
-\#### 3 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų teikimo pagrindinės nuostatos
+## 3 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų teikimo pagrindinės nuostatos
 
 1. Sprendimą dėl grynojo skolinių įsipareigojimų pokyčio limito Vyriausybės siūlymu priima Lietuvos Respublikos Seimas (toliau – Seimas), tvirtindamas atitinkamų metų valstybės biudžetą.
 
@@ -166,7 +166,7 @@ VALSTYBĖS SKOLOS
 
 14. Šio įstatymo reglamentuojamiems santykiams netaikomi Lietuvos Respublikos akcinių bendrovių įstatymo nustatyti apribojimai, susiję su draudimu bendrovėms skolinantis iš akcininkų įkeisti akcininkams savo turtą ir su metinių palūkanų normos ribojimu.
 
-\#### 4 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų suteikimo tikslai
+## 4 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų suteikimo tikslai
 
 1. Vyriausybė valstybės vardu gali skolintis šiems tikslams:
 
@@ -204,7 +204,7 @@ VALSTYBĖS SKOLOS
 
 3) naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių kainos ar jos dalies sumokėjimo pagal naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių finansinės nuomos (lizingo) sutartis, sudarytas su finansinės nuomos (lizingo) bendrovėmis.
 
-\#### 5 straipsnis. Skolinimasis valstybės vardu
+## 5 straipsnis. Skolinimasis valstybės vardu
 
 1. Sprendimą skolintis valstybės vardu, neviršydama Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu nustatyto grynojo skolinių įsipareigojimų pokyčio limito, priima Vyriausybei atstovaujanti Finansų ministerija šio įstatymo 4 straipsnio 1 dalyje nustatytiems tikslams.
 
@@ -218,7 +218,7 @@ VALSTYBĖS SKOLOS
 
 6. Finansų ministerija teisės aktų nustatyta tvarka turi teisę pasirinkti fiskalinį agentą operacijoms su Vyriausybės vertybiniais popieriais atlikti. Jeigu Finansų ministerija sutinka, fiskalinis agentas gali nustatyti šių operacijų vykdymo tvarką.
 
-\#### 6 straipsnis. Valstybės garantijos
+## 6 straipsnis. Valstybės garantijos
 
 1. Sprendimą suteikti valstybės garantiją dėl didesnės kaip 40 mln. litų paskolos Vyriausybės siūlymu priima Seimas.
 
@@ -230,7 +230,7 @@ VALSTYBĖS SKOLOS
 
 5. Valstybės turtiniai įsipareigojimai pagal valstybės garantijas tampa valstybės skola, kai valstybės garantuojamam skolininkui iškelta bankroto arba restruktūrizavimo byla, jis yra likviduojamas arba likviduotas, kai su šiuo skolininku yra sudaroma Lietuvos Respublikos įmonių bankroto įstatyme (toliau – Įmonių bankroto įstatymas) nurodyta taikos sutartis, taip pat ir kitais atvejais, kai valstybė už valstybės garantuojamą skolininką sistemingai vykdo savo įsipareigojimus pagal garantiją.
 
-\#### 7 straipsnis. Valstybinė paskolų komisija
+## 7 straipsnis. Valstybinė paskolų komisija
 
 1. Vyriausybė sudaro Valstybinę paskolų komisiją. Valstybinė paskolų komisija teikia pasiūlymus Vyriausybei dėl:
 
@@ -246,7 +246,7 @@ VALSTYBĖS SKOLOS
 
 4. Valstybinės paskolų komisijos darbo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-\#### 8 straipsnis. Garantijų institucijų steigimas ir valstybės garantija už garantijų instituciją
+## 8 straipsnis. Garantijų institucijų steigimas ir valstybės garantija už garantijų instituciją
 
 1. Vyriausybė turi teisę steigti garantijų institucijas, kurios užtikrintų Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms, finansinės nuomos (lizingo) bendrovėms pagal garantijas Lietuvos Respublikos juridiniams asmenims, Lietuvos Respublikoje įsteigtiems Europos ekonominės erdvės valstybių narių įmonių filialams ar Lietuvos Respublikos piliečiams arba kitiems asmenims, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, teikiamų paskolų grąžinimą ir naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, jeigu tam tikroms programoms įgyvendinti yra numatyta lėšų tų metų valstybės biudžete ar valstybės fonduose.
 
@@ -262,7 +262,7 @@ VALSTYBĖS SKOLOS
 
 7. Jeigu garantijų institucijos nuostoliai pasiekia ketvirtį įstatinio kapitalo dydžio, Vyriausybė turi sustabdyti naujų garantijų teikimą.
 
-\#### 9 straipsnis. Valstybės skolininkų ir valstybės garantuojamų skolininkų finansinės veiklos kontrolė
+## 9 straipsnis. Valstybės skolininkų ir valstybės garantuojamų skolininkų finansinės veiklos kontrolė
 
 1. Asmenys, norintys gauti perskolinamą paskolą arba valstybės garantiją dėl gaunamos paskolos valstybės investicijų projektui finansuoti, Finansų ministerijai privalo pateikti Vyriausybės nustatytus dokumentus.
 
@@ -274,7 +274,7 @@ VALSTYBĖS SKOLOS
 
 5. Valstybės skolininkas arba valstybės garantuojamas skolininkas privalo pateikti Finansų ministerijai arba akcinei bendrovei Turto bankui, kai ši bendrovė administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, audito įmonėms, kontrolės institucijoms ir įstaigoms jų reikalaujamus dokumentus jų nustatytais terminais, išskyrus dokumentus, kurių pateikimo tvarką nustato Vyriausybė.
 
-\#### 10 straipsnis. Prievolių neįvykdymo teisinės pasekmės
+## 10 straipsnis. Prievolių neįvykdymo teisinės pasekmės
 
 1. Už pavėluotą perskolinamos paskolos ar skolos grąžinimo sutartyse nustatytų turtinių įsipareigojimų vykdymą šiose sutartyse nustatomi delspinigiai už kiekvieną pradelstą dieną. Delspinigių dydis apskaičiuojamas taikant praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį, kuris sutartyse gali būti padidintas ne daugiau kaip 10 procentinių punktų, padalytą iš 360. Vyriausybė arba Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų atveju – jos įgaliota institucija ar įstaiga turi teisę atleisti valstybės skolininką nuo apskaičiuotų, bet nesumokėtų delspinigių už laiku negrąžintas perskolinamas paskolas arba skolas ir nesumokėtas palūkanas mokėjimo arba sustabdyti delspinigių skaičiavimą valstybės skolininkui arba valstybės garantuojamam skolininkui, taip pat atleisti šiuos skolininkus nuo nesumokėto valiutų kursų skirtumo, kuris apskaičiuotas, kai jie praleido prievolės įvykdymo terminą, o po šio termino pabaigos – kai dėl valiutų kursų pasikeitimo valiuta, kuria turi būti mokama, nuvertėjo, mokėjimo. Atleidimo nuo delspinigių mokėjimo, nuo valiutų kursų skirtumo mokėjimo, taip pat delspinigių skaičiavimo sustabdymo sąlygos:
 
@@ -290,7 +290,7 @@ VALSTYBĖS SKOLOS
 
 5. Jeigu valstybės skolininkas arba valstybės garantuojamas skolininkas laiku nevykdo turtinių įsipareigojimų ir ekonominiu požiūriu netikslinga šiam skolininkui keisti perskolinamos paskolos ir (arba) skolos grąžinimo sąlygas arba priimti ir pateikti vykdyti Finansų ministerijos sprendimą išieškoti skolą, Finansų ministerija arba akcinė bendrovė Turto bankas, kai ši bendrovė administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, turi teisę teisės aktų nustatyta tvarka kreiptis į teismą su pareiškimu dėl bankroto bylos iškėlimo valstybės skolininkui arba valstybės garantuojamam skolininkui.
 
-\#### 11 straipsnis. Perskolinamų paskolų arba skolų pripažinimas beviltiškomis
+## 11 straipsnis. Perskolinamų paskolų arba skolų pripažinimas beviltiškomis
 
 1. Beviltiška perskolinama paskola arba skola gali būti pripažinta ta valstybės skolininko arba valstybės garantuojamo skolininko negrąžinta perskolinama paskola arba skola, jos dalis, taip pat nesumokėtos palūkanos, delspinigiai ir kiti turtiniai įsipareigojimai, kurių neįmanoma arba netikslinga išieškoti dėl šių priežasčių:
 
@@ -312,21 +312,21 @@ VALSTYBĖS SKOLOS
 
 5. Perskolinamų paskolų arba skolų, pripažintų beviltiškomis, nurašymo, apskaitos, taip pat revizavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-\#### 12 straipsnis. Atskaitomybė
+## 12 straipsnis. Atskaitomybė
 
 1. Vyriausybė, pasibaigus biudžetiniams metams, kartu su metiniu valstybės biudžeto vykdymo ataskaitų rinkiniu privalo pateikti Seimui valstybės skolos, suteiktų perskolinamų paskolų ir suteiktų valstybės garantijų ataskaitas. Ataskaitų formas, atitinkančias šio įstatymo ir Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nuostatas, nustato finansų ministras.
 
 2. Valstybės kontrolė įvertina Vyriausybės parengtas valstybės skolos, suteiktų perskolinamų paskolų ir suteiktų valstybės garantijų ataskaitas ir kartu su išvada dėl metinio valstybės biudžeto vykdymo ataskaitų rinkinio teikia Seimui išvadą dėl valstybės skolos, suteiktų perskolinamų paskolų ir suteiktų valstybės garantijų.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Lietuvos Respublikos piliečiams ar kitiems asmenims, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, kurie iki šio įstatymo įsigaliojimo dienos yra gavę perskolinamą arba valstybės garantuojamą paskolą arba yra pasirašę skolos grąžinimo sutartį, iki nurodytų įsipareigojimų įvykdymo dienos taikomos šio įstatymo nuostatos, susijusios su valstybės skolininku ir valstybės garantuojamu skolininku.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2011 m. sausio 1 d.
 
-\#### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki 2011 m. sausio 1 d. parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus ar jų pakeitimus.
 

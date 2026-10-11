@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3A5B30C1A4A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3A5B30C1A4A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 10 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [65-2635](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B); 2008, Nr. [15-512](https://www.e-tar.lt/portal/lt/legalAct/TAR.296722248400); 2009, Nr. [93-3969](https://www.e-tar.lt/portal/lt/legalAct/TAR.D987BA38C086))
 
-\#### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 1 dalies pakeitimas
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 

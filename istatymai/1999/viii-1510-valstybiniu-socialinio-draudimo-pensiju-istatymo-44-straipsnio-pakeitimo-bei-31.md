@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B6AF960D5A1C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B6AF960D5A1C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 44 straipsnio pakeitimo bei 31 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D), Nr. [101-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41))
 
-\#### 1 straipsnis. 31 straipsnio pripažinimas netekusiu galios
+## 1 straipsnis. 31 straipsnio pripažinimas netekusiu galios
 
 31 straipsnį pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 44 straipsnio pakeitimas
+## 2 straipsnis. 44 straipsnio pakeitimas
 
 1. 44 straipsnio 2 dalį pripažinti netekusia galios.
 
 2. Buvusią 44 straipsnio 3 dalį laikyti 2 dalimi.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.
 

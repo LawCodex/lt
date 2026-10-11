@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A94E5EDF1953"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A94E5EDF1953.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2, 11, 12 ir 31 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2002, Nr. [123-5517](https://www.e-tar.lt/portal/lt/legalAct/TAR.57CC6D81313B); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB), 3428, Nr. [104-4645](https://www.e-tar.lt/portal/lt/legalAct/TAR.529B982B975B); 2004, Nr. [25-748](https://www.e-tar.lt/portal/lt/legalAct/TAR.16B90D491165), Nr. [73-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A69FC3C021A); 2005, Nr. [76-2740](https://www.e-tar.lt/portal/lt/legalAct/TAR.610D63A4C95A))
 
-\#### 1 straipsnis. 2 straipsnio 23 dalies 3, 5, 7, 9 punktų pakeitimas
+## 1 straipsnis. 2 straipsnio 23 dalies 3, 5, 7, 9 punktų pakeitimas
 
 1. Pakeisti 2 straipsnio 23 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „9) du vienetai, jei tie patys dalyviai ar jų sutuoktiniai, sužadėtiniai, sugyventiniai, fiziniai asmenys, susiję giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat fizinis asmuo ir jo sugyventinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), fizinis asmuo ir jo giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) tiesiogiai ar netiesiogiai valdo 25 procentus akcijų (dalių, pajų) kiekviename iš jų;“.
 
-\#### 2 straipsnis. 11 straipsnio 5 dalies pripažinimas netekusia galios ir 6 dalies pakeitimas
+## 2 straipsnis. 11 straipsnio 5 dalies pripažinimas netekusia galios ir 6 dalies pakeitimas
 
 1. 11 straipsnio 5 dalį pripažinti netekusia galios.
 
@@ -54,7 +54,7 @@ Vilnius
 
 „6. Šio straipsnio 4 dalies reikalavimai netaikomi užsienio vienetų ar fizinių asmenų surašytiems dokumentams. Sąnaudos pagal užsienio vienetų arba fizinių asmenų surašytus dokumentus pripažįstamos, jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį.“
 
-\#### 3 straipsnis. 12 straipsnio 7 punkto pakeitimas ir 13 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 12 straipsnio 7 punkto pakeitimas ir 13 punkto pripažinimas netekusiu galios
 
 1. Pakeisti 12 straipsnio 7 punktą ir jį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Vilnius
 
 2. 12 straipsnio 13 punktą pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 31 straipsnio 1 dalies 15 punkto pakeitimas
+## 4 straipsnis. 31 straipsnio 1 dalies 15 punkto pakeitimas
 
 Pakeisti 31 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip:
 
 „15) sąnaudos dėl turto ir įsipareigojimų, išskyrus sąnaudas dėl išvestinių finansinių priemonių, įsigytų rizikai drausti, perkainojimo, atlikto teisės aktų nustatyta tvarka.“
 
-\#### 5 straipsnis. Įstatymo taikymas
+## 5 straipsnis. Įstatymo taikymas
 
 Šio įstatymo 1, 3 ir 4 straipsnių nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 

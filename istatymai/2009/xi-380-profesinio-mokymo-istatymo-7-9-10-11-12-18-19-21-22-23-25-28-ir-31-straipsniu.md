@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.45091AEC328E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.45091AEC328E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo 7, 9, 10, 11, 12, 18, 19, 21, 22, 23, 25, 28 ir 31 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1997, Nr. [98-2478](https://www.e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F); 2007, Nr. [43-1627](https://www.e-tar.lt/portal/lt/legalAct/TAR.520097AFEB05))
 
-\#### 1 straipsnis. 7 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 7 straipsnio 4 dalies pakeitimas
 
 Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Įvertinus asmens neformaliojo profesinio mokymo metu įgytas kompetencijas, švietimo ir moksloministro nustatyta ir su socialinės apsaugos ir darboministru suderinta asmens įgytų kompetencijų vertinimo tvarka jos gali būti pripažintos kaip atitinkamo lygio kvalifikacija arba jos dalis.“
 
-\#### 2 straipsnis. 9 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 4 dalies pakeitimas
 
 Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Kvalifikacijų sistemą tvarko švietimo ir mokslo ministro įgaliota institucija (toliau – Kvalifikacijų tvarkymo institucija).“
 
-\#### 3 straipsnis. 10 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 3 straipsnis. 10 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. 10 straipsnio 2 dalyje vietoj žodžio „tarnyba“ įrašyti žodžius „tvarkymo institucija“ ir šią dalį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Kvalifikacijų tvarkymo institucijos centrinio ir sektorinių profesinių komitetų uždavinius, funkcijas, komitetų sudarymo ir finansavimo tvarką nustato švietimo ir mokslo ministras.“
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 5. Kvalifikacijų suteikimo priežiūrą vykdo švietimo ir mokslo ministras ir apskrities viršininkas pagal Vyriausybės patvirtintus Valstybinės švietimo priežiūros nuostatus.“
 
-\#### 5 straipsnis. 12 straipsnio 4, 5 ir 8 dalių pakeitimas
+## 5 straipsnis. 12 straipsnio 4, 5 ir 8 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „8. Formaliojo profesinio mokymo programos, kvalifikacijos, profesiniai ir profesinio rengimo standartai registruojami Studijų, mokymo programų ir kvalifikacijų registre.“
 
-\#### 6 straipsnis. 18 straipsnio 1 dalies pakeitimas ir 3 dalies papildymas
+## 6 straipsnis. 18 straipsnio 1 dalies pakeitimas ir 3 dalies papildymas
 
 1. 18 straipsnio 1 dalyje vietoj žodžio „tarnyba“ įrašyti žodžius „tvarkymo institucija“ ir šią dalį išdėstyti taip:
 
@@ -90,13 +90,13 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „5) gavęs kompetencijų įvertinimo rezultatus, suteikia asmeniui kvalifikaciją.“
 
-\#### 7 straipsnis. 19 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 19 straipsnio 2 dalies pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kvalifikacijos ir mokymosi pasiekimų dokumentų, nurodytų šio straipsnio 1 dalyje, turinį, formą ir išdavimo tvarką nustato švietimo ir mokslo ministras.“
 
-\#### 8 straipsnis. 21 straipsnio 1 dalies 2 ir 3 punktų pakeitimas
+## 8 straipsnis. 21 straipsnio 1 dalies 2 ir 3 punktų pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3) rengti neformaliojo profesinio mokymo programas ir jas įregistruoti Kvalifikacijos tobulinimo programų ir renginių registre;“.
 
-\#### 9 straipsnis. 22 straipsnio pakeitimas
+## 9 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -166,7 +166,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 6) vykdo profesinio mokymo programų finansavimą iš valstybės biudžeto, taikant mokymo lėšų skyrimo vienam mokiniui principą.“
 
-\#### 10 straipsnis. 23 straipsnio pakeitimas
+## 10 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -188,7 +188,7 @@ Socialinės apsaugos ir darbo ministerija:
 
 7) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 11 straipsnis. 25 straipsnio pakeitimas
+## 11 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -204,13 +204,13 @@ Kvalifikacijų tvarkymo institucija:
 
 4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 12 straipsnis. 28 straipsnio 9 punkto pakeitimas
+## 12 straipsnis. 28 straipsnio 9 punkto pakeitimas
 
 28 straipsnio 9 punkte vietoj žodžių „Kvalifikacijos tarnybos“ įrašyti žodžius „Kvalifikacijų tvarkymo institucijos“ ir šį punktą išdėstyti taip:
 
 „9) dalyvauja Lietuvos ir apskričių profesinio mokymo tarybų, Kvalifikacijų tvarkymo institucijos centrinio ir sektorinių profesinių komitetų veikloje.“
 
-\#### 13 straipsnis. 31 straipsnio 7 dalies pakeitimas
+## 13 straipsnis. 31 straipsnio 7 dalies pakeitimas
 
 Pakeisti 31 straipsnio 7 dalį ir ją išdėstyti taip:
 

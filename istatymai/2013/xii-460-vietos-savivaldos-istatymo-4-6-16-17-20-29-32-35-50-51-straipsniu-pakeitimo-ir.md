@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7EDC0BE67907"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7EDC0BE67907.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 4, 6, 16, 17, 20, 29, 32, 35, 50, 51 straipsnių pakeitimo ir papildymo bei įstatymo papildymo trečiuoju-1 skirsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2008, Nr. [113-4290](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF599A1A6DD5), Nr. [137-5379](https://www.e-tar.lt/portal/lt/legalAct/TAR.18F4EB30E002); 2009, Nr. [77-3165](https://www.e-tar.lt/portal/lt/legalAct/TAR.C30DB229877B), Nr. [159-7206](https://www.e-tar.lt/portal/lt/legalAct/TAR.E88921718FB6); 2010, Nr. [25-1177](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CDF7CF05F4F), Nr. [51-2480](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2EB5CBFF6C7), Nr. [81-4219](https://www.e-tar.lt/portal/lt/legalAct/TAR.B413643E60C5), Nr. [84-4406](https://www.e-tar.lt/portal/lt/legalAct/TAR.284BE0F7FDC7), Nr. [86-4525](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6D81071DC40), Nr. [145-7429](https://www.e-tar.lt/portal/lt/legalAct/TAR.E30A20EDFD27); 2011, Nr. [52-2504](https://www.e-tar.lt/portal/lt/legalAct/TAR.E36F769AFF4D), Nr. 155‑7354; 2012, Nr. 136-6958, Nr. 154-7935)
 
-\#### 1 straipsnis. 4 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 4 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 4 straipsnį nauju 11 punktu:
 
@@ -32,7 +32,7 @@ Vilnius
 
 2. Buvusius 4 straipsnio 11 ir 12 punktus laikyti atitinkamai 12 ir 13 punktais.
 
-\#### 2 straipsnis. 6 straipsnio 18, 22 ir 34 punktų pakeitimas
+## 2 straipsnis. 6 straipsnio 18, 22 ir 34 punktų pakeitimas
 
 1. 6 straipsnio 18 punkte vietoj žodžių „sveikatos programų rengimas“ įrašyti žodžius „sveikatinimo priemonių“ ir šį punktą išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „34) dalyvavimas, bendradarbiavimas užtikrinant viešąją tvarką, kuriant ir įgyvendinant nusikaltimų prevencijos priemones;“.
 
-\#### 3 straipsnis. Įstatymo papildymas trečiuoju1 skirsniu
+## 3 straipsnis. Įstatymo papildymas trečiuoju1 skirsniu
 
 Papildyti Įstatymą trečiuoju^1 skirsniu:
 
@@ -54,15 +54,15 @@ Papildyti Įstatymą trečiuoju^1 skirsniu:
 
 PLANAVIMAS IR PLANAI SAVIVALDYBĖJE
 
-\#### 101 straipsnis. Planavimas savivaldybėje
+## 101 straipsnis. Planavimas savivaldybėje
 
 Savivaldybėje sukuriama ir veikia planavimo sistema, kurią sudaro teritorijų, strateginis ir finansinis planavimas.
 
-\#### 102 straipsnis. Teritorijų planavimas savivaldybėje
+## 102 straipsnis. Teritorijų planavimas savivaldybėje
 
 Teritorijų planavimas savivaldybėje vykdomas ir teritorijų planavimo dokumentai rengiami ir įgyvendinami Lietuvos Respublikos teritorijų planavimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ir sąlygomis.
 
-\#### 103 straipsnis. Strateginis planavimas savivaldybėje
+## 103 straipsnis. Strateginis planavimas savivaldybėje
 
 1. Savivaldybėje yra rengiami šie savivaldybės strateginio planavimo dokumentai: savivaldybės strateginis plėtros planas, atskirų savivaldybės ūkio šakų (sektorių) plėtros programos ir savivaldybės strateginis veiklos planas. Atskirų savivaldybės ūkio šakų (sektorių) programos rengiamos tik tais atvejais, kai tokių planavimo dokumentų rengimas numatytas įstatyme.
 
@@ -76,13 +76,13 @@ Teritorijų planavimas savivaldybėje vykdomas ir teritorijų planavimo dokument
 
 6. Savivaldybės strateginio planavimo dokumentai ir jų įgyvendinimą detalizuojantys planavimo dokumentai, taip pat ataskaitos dėl šių dokumentų įgyvendinimo yra vieši ir skelbiami savivaldybės interneto svetainėje.
 
-\#### 104 straipsnis. Finansinis planavimas savivaldybėje
+## 104 straipsnis. Finansinis planavimas savivaldybėje
 
 1. Savivaldybių veiklos finansinis planavimas yra procesas, kurio metu atsižvelgiant į patvirtintus savivaldybės strateginio planavimo dokumentus yra rengiamas savivaldybės biudžetas ir kitų finansavimo šaltinių sąmatos.
 
 2. Savivaldybės biudžetas (savivaldybės metinis finansinis planas) rengiamas, vadovaujantis patvirtintu savivaldybės strateginiu veiklos planu, taip pat atsižvelgiant į kitus patvirtintus savivaldybės strateginio planavimo dokumentus, asignavimus planuojant savivaldybės strateginio veiklos plano programoms įgyvendinti ir planuojamiems rezultatams pasiekti ir paskirstant juos asignavimų valdytojams.“
 
-\#### 4 straipsnis. 16 straipsnio 2 dalies 35, 40 ir 41 punktų pakeitimas
+## 4 straipsnis. 16 straipsnio 2 dalies 35, 40 ir 41 punktų pakeitimas
 
 1. 16 straipsnio 2 dalies 35 punkte vietoj žodžių „veiksmų plano“ įrašyti žodžius „ir mažinimo priemonių“ ir šį punktą išdėstyti taip:
 
@@ -96,19 +96,19 @@ Teritorijų planavimas savivaldybėje vykdomas ir teritorijų planavimo dokument
 
 „41) strateginio planavimo savivaldybėje organizavimo tvarkos aprašo tvirtinimas;“.
 
-\#### 5 straipsnis. 17 straipsnio 4 dalies 2 punkto pakeitimas
+## 5 straipsnis. 17 straipsnio 4 dalies 2 punkto pakeitimas
 
 Pakeisti 17 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „2)svarsto ir teikia siūlymus dėl savivaldybės strateginio planavimo dokumentų rengimo;“.
 
-\#### 6 straipsnis. 20 straipsnio 3 dalies 2 punkto pakeitimas
+## 6 straipsnis. 20 straipsnio 3 dalies 2 punkto pakeitimas
 
 Pakeisti 20 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) laiku ir tinkamai būtų rengiami savivaldybės strateginio planavimo dokumentai, užtikrinama šių dokumentų ir juose numatytų pasiekti rezultatų įgyvendinimo kontrolė;“.
 
-\#### 7 straipsnis. 29 straipsnio 8 dalies 3 punkto pakeitimas ir 8 dalies papildymas 16 punktu
+## 7 straipsnis. 29 straipsnio 8 dalies 3 punkto pakeitimas ir 8 dalies papildymas 16 punktu
 
 1. Pakeisti 29 straipsnio 8 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 20 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 „16) organizuoja savivaldybės strateginio planavimo procesą, atsako už patvirtintų savivaldybės planavimo dokumentų ir jų įgyvendinimo ataskaitų viešinimą.“
 
-\#### 8 straipsnis. 32 straipsnio 1 ir 3 dalių pakeitimas
+## 8 straipsnis. 32 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -128,25 +128,25 @@ Pakeisti 20 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 „3) savivaldybės administracijos direktoriui teikia siūlymus dėl savivaldybės strateginių plėtros ir veiklos planų projektų,rengia seniūnijos metinio veiklos plano projektą ir šio plano įgyvendinimo ataskaitą, teikia juossvarstyti seniūnijos seniūnaičių sueigoje. Supažindina seniūnaičius ir vietos gyventojus su patvirtintu seniūnijos metiniu veiklos planuir aptaria seniūnijos metinio veiklos plano įgyvendinimo rezultatus.“
 
-\#### 9 straipsnis. 35 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 35 straipsnio 2 dalies pakeitimas
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Sueigoje seniūnaičiai aptaria ir priima sprendimus dėl seniūnijos metinioveiklos plano projekto ir šio plano įgyvendinimo ataskaitos, svarsto kitus jiems svarbius klausimus. Seniūnaičių sueigos sprendimai yra rekomendaciniai.“
 
-\#### 10 straipsnis. 50 straipsnio 3 dalies pakeitimas
+## 10 straipsnis. 50 straipsnio 3 dalies pakeitimas
 
 Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Savivaldybių biudžetų lėšos gali būti naudojamos tik savivaldybių funkcijoms: savivaldybių tarybų ar jų vykdomųjų institucijų patvirtintiemssavivaldybių planavimo dokumentamsįgyvendinti, savivaldybių biudžetinėms įstaigoms išlaikyti ir viešųjų paslaugų teikimui organizuoti.“
 
-\#### 11 straipsnis. 51 straipsnio 3 dalies pakeitimas
+## 11 straipsnis. 51 straipsnio 3 dalies pakeitimas
 
 Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Savivaldybės biudžeto sudarymo pagrindas yra patvirtinti savivaldybės strateginio planavimo dokumentai, taip pat savivaldybių funkcijoms įgyvendinti reikalingų lėšų skaičiavimai.“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2014 m. spalio 1 d.
 

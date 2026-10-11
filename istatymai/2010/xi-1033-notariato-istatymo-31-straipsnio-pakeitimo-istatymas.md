@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3398539860FC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3398539860FC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 31 straipsnio pakeitimo įstatymas
@@ -24,11 +24,11 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 1998, Nr. [49-1329](https://www.e-tar.lt/portal/lt/legalAct/TAR.D19DD3E4FAA6); 2001, Nr. [55-1943](https://www.e-tar.lt/portal/lt/legalAct/TAR.62BDE4F534B3); 2003, Nr. [15-598](https://www.e-tar.lt/portal/lt/legalAct/TAR.C727F3F9B3A9))
 
-\#### 1 straipsnis. 31 straipsnio 5 dalies pripažinimas netekusia galios
+## 1 straipsnis. 31 straipsnio 5 dalies pripažinimas netekusia galios
 
 31 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 

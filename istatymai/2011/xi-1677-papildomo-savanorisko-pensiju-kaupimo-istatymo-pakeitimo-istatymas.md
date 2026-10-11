@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AEC9F0069C30"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AEC9F0069C30.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [55-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B); 2003, Nr. [75-3473](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C7D1D0B8510); 2004, Nr. [98-3627](https://www.e-tar.lt/portal/lt/legalAct/TAR.EA934522AD36), Nr. [171-6301](https://www.e-tar.lt/portal/lt/legalAct/TAR.2D5F7AB30172); 2006, Nr. [65-2386](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8BF7EBCEC7C); 2008, Nr. [71-2713](https://www.e-tar.lt/portal/lt/legalAct/TAR.B407B2BA6998); 2010, Nr. [72-3610](https://www.e-tar.lt/portal/lt/legalAct/TAR.09C7D3014973))
 
-\#### 1 straipsnis. Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo nauja redakcija
+### 1 straipsnis. Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą ir jį išdėstyti taip:
 
@@ -38,9 +38,9 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
+### 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
 1. Šis įstatymas nustato papildomo savanoriško pensijų kaupimo organizavimo sąlygas ir tvarką valdymo įmonės valdomuose pensijų fonduose. Šio įstatymo tikslas – nustatyti būtinus priežiūros standartus ir pensijų fondų valdymo taisykles, kad būtų apsaugoti pensijų fondų dalyvių interesai.
 
@@ -50,7 +50,7 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO
 
 4. Valdymo įmonėms taikomas Lietuvos Respublikos akcinių bendrovių įstatymas (toliau – Akcinių bendrovių įstatymas), jeigu šis įstatymas nenustato kitaip.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Akcijų paketas – ne mažiau kaip 1/10 tiesiogiai ar netiesiogiai valdomų valdymo įmonės akcijų ar balsavimo teisę suteikiančių akcijų dalis arba toks akcijų kiekis, kuris leidžia daryti esminį poveikį valdymo įmonės valdymui.
 
@@ -112,9 +112,9 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO
 
 27. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
 
-\### ANTRASIS SKIRSNIS. VALDYMO ĮMONĖS LICENCIJAVIMAS IR VEIKLA
+ANTRASIS SKIRSNIS. VALDYMO ĮMONĖS LICENCIJAVIMAS IR VEIKLA
 
-\#### 3 straipsnis. Teisė verstis pensijų kaupimo veikla
+### 3 straipsnis. Teisė verstis pensijų kaupimo veikla
 
 1. Verstis pensijų kaupimo veikla turi teisę uždaroji akcinė ar akcinė bendrovė (toliau – bendrovė), turinti šio įstatymo nustatyta tvarka priežiūros institucijos išduotą licenciją. Tik tokią licenciją turinti bendrovė savo pavadinime ir reklamoje gali vartoti žodžius „pensijų fondų valdymo įmonė“ ar kitokius šių žodžių junginius arba jų vedinius.
 
@@ -132,7 +132,7 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO
 
 6. Šio straipsnio 1 dalyje nurodytos valdymo įmonės negali verstis kita, šiame straipsnyje nenurodyta, veikla.
 
-\#### 4 straipsnis. Licencijos išdavimo tvarka
+### 4 straipsnis. Licencijos išdavimo tvarka
 
 1. Bendrovė, pageidaujanti verstis pensijų kaupimo veikla, turi pateikti priežiūros institucijai prašymą. Kartu su prašymu pateikiami duomenys apie bendrovę, jos veiklą ir plėtrą, akcininkus, valdymo organų narius, pradinį kapitalą, įstatinį kapitalą ir kiti dokumentai bei duomenys, kurių detalų sąrašą nustato priežiūros institucija licencijavimo taisyklėse.
 
@@ -160,11 +160,11 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO
 
 4. Apie licencijos išdavimą ar panaikinimą priežiūros institucija turi pranešti Juridinių asmenų registro tvarkytojui ir paskelbti „Valstybės žinių“ priede „Informaciniai pranešimai“.
 
-\#### 5 straipsnis. Valdymo įmonės valdymo organai
+### 5 straipsnis. Valdymo įmonės valdymo organai
 
 Be Akcinių bendrovių įstatyme nustatytų akcinėje bendrovėje ir uždarojoje akcinėje bendrovėje privalomų sudaryti valdymo organų, valdymo įmonėje turi būti sudaroma valdyba.
 
-\#### 6 straipsnis. Veiklos reikalavimai
+### 6 straipsnis. Veiklos reikalavimai
 
 Valdymo įmonė privalo:
 
@@ -188,7 +188,7 @@ Valdymo įmonė privalo:
 
 10) užtikrinti, kad sprendimus dėl turto valdymo priimantys asmenys turėtų priežiūros institucijos nustatytą kvalifikaciją ir darbo patirtį.
 
-\#### 7 straipsnis. Valdymo įmonės kapitalo reikalavimai
+### 7 straipsnis. Valdymo įmonės kapitalo reikalavimai
 
 1. Valdymo įmonės nei pradinis, nei įstatinis kapitalas negali būti mažesni kaip 150 000 eurų. Tuo atveju, kai valdymo įmonės valdomų finansinių priemonių portfelių vertė viršija 250 000 000 eurų, valdymo įmonė privalo padidinti nuosavą kapitalą suma, kuri turi būti ne mažesnė kaip 0,02 procento dydžio, kuriuo viršijama 250 000 000 eurų valdomų finansinių priemonių portfelių vertė. Didėjant valdomų finansinių priemonių portfelių vertei, toks valdomo ir nuosavo kapitalo santykis turi būti užtikrinamas nuolat, kol nuosavo kapitalo dydis pasiekia 10 000 000 eurų.
 
@@ -200,13 +200,13 @@ Valdymo įmonė privalo:
 
 5. Valdymo įmonė privalo laikytis priežiūros institucijos nustatytų kapitalo pakankamumo reikalavimų.
 
-\#### 8 straipsnis. Garantijų rezervas
+### 8 straipsnis. Garantijų rezervas
 
 1. Tuo atveju, kai valdymo įmonė prisiima įsipareigojimus garantuoti pensijų fondo dalyviams tam tikrą pajamingumą, turi būti sudaromas garantijų rezervas. Šio rezervo sudarymo, investavimo ir naudojimo tvarka turi būti suderinta su priežiūros institucija. Priežiūros institucija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų rezervo sudarymo, investavimo ir naudojimo tvarką.
 
 2. Garantijų rezervas investuojamas į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio įstatymo 46, 47 ir 49 straipsniuose nustatyti reikalavimai.
 
-\#### 9 straipsnis. Priežiūros institucijos teisės
+### 9 straipsnis. Priežiūros institucijos teisės
 
 Priežiūros institucija turi teisę nustatyti:
 
@@ -232,7 +232,7 @@ Priežiūros institucija turi teisę nustatyti:
 
 11) šiame įstatyme numatytų leidimų ir licencijų išdavimo tvarką.
 
-\#### 10 straipsnis. Valdymo įmonės teisė dalį savo funkcijų pavesti kitai įmonei
+### 10 straipsnis. Valdymo įmonės teisė dalį savo funkcijų pavesti kitai įmonei
 
 1. Valdymo įmonė, siekdama efektyvesnio valdymo, turi teisę dalį savo funkcijų, susijusių su pensijų fondų valdymu, pavesti atlikti kitai įmonei, turinčiai teisę teikti atitinkamas paslaugas, tik gavusi išankstinį priežiūros institucijos leidimą.
 
@@ -254,11 +254,11 @@ Priežiūros institucija turi teisę nustatyti:
 
 4. Dalies funkcijų atlikimo pavedimas kitiems asmenims valdymo įmonės nuo atsakomybės neatleidžia.
 
-\#### 11 straipsnis. Valdymo įmonės akcijų paketo įsigijimas ir perleidimas
+### 11 straipsnis. Valdymo įmonės akcijų paketo įsigijimas ir perleidimas
 
 Valdymo įmonės akcijų paketo įsigijimui ir perleidimui *mutatis mutandis* taikomi Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 10 straipsnio reikalavimai.
 
-\#### 12 straipsnis. Priežiūros institucijos išduodami leidimai
+### 12 straipsnis. Priežiūros institucijos išduodami leidimai
 
 1. Priežiūros institucija išduoda šiuos išankstinius leidimus:
 
@@ -280,11 +280,11 @@ Valdymo įmonės akcijų paketo įsigijimui ir perleidimui *mutatis mutandis* ta
 
 2. Priežiūros institucija leidimo gali neišduoti tik tuo atveju, jeigu tai prieštarautų teisės aktams arba pažeistų dalyvių interesus.
 
-\#### 13 straipsnis. Valdymo įmonės auditas
+### 13 straipsnis. Valdymo įmonės auditas
 
 Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir Lietuvos Respublikos finansų įstaigų įstatymo nustatyti reikalavimai.
 
-\#### 14 straipsnis. Draudimai perleisti pensijų turtą
+### 14 straipsnis. Draudimai perleisti pensijų turtą
 
 1. Pensijų turtas negali būti perleistas jį valdančiai valdymo įmonei, tokios įmonės vadovui, valdybos, stebėtojų tarybos nariams ar įmonės darbuotojams (ir jų sutuoktiniams). Taip pat draudžiama iš šioje dalyje nurodytų asmenų įsigyti turtą pensijų fondo lėšomis.
 
@@ -294,7 +294,7 @@ Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir Lietuv
 
 4. Valdymo įmonė, veikianti pensijų fondo lėšomis, negali skolintis, išskyrus paskolas iki 10 procentų grynųjų aktyvų vertės iki 3 mėnesių terminui, kurios būtinos likvidumui palaikyti. Tai nereiškia draudimo skolintis užsienio valiutą, už kurią perkami perleidžiamieji vertybiniai popieriai ar pinigų rinkos priemonės, jeigu paskolos grąžinimui užtikrinti paskolos davėjui duodama ne mažesnė suma kita valiuta.
 
-\#### 15 straipsnis. Paslaugų siūlymas ir reklama
+### 15 straipsnis. Paslaugų siūlymas ir reklama
 
 1. Valdymo įmonei, kitiems jos įgaliotiems ar kitaip su ja susijusiems asmenims draudžiama skelbti informaciją, kuri yra neteisinga, neišsami ar gali būti klaidinanti.
 
@@ -324,7 +324,7 @@ Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir Lietuv
 
 9. Asmenys, rengiantys ir (ar) platinantys viešam platinimui ar visuomenei skirtus tyrimus apie pensijų kaupimą pensijų fonduose ar kitą informaciją, kuria rekomenduojama ar siūloma pasirinkti pensijų fondą, priežiūros institucijos nustatyta tvarka turi užtikrinti, kad tokia informacija būtų neklaidinanti, pateikiama išsamiai ir teisingai, viešai atskleisti savo interesus ir nurodyti interesų konfliktus, susijusius su pensijų fondais ir (ar) jų valdytojais, su kuriais susijusi ta informacija.
 
-\#### 16 straipsnis. Valdymo įmonėms taikomos poveikio priemonės
+### 16 straipsnis. Valdymo įmonėms taikomos poveikio priemonės
 
 1. Priežiūros institucija turi teisę taikyti valdymo įmonėms šias poveikio priemones:
 
@@ -348,7 +348,7 @@ Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir Lietuv
 
 3. Priežiūros institucija turi teisę taikyti depozitoriumui šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.
 
-\#### 17 straipsnis. Poveikio priemonių taikymo pagrindas
+### 17 straipsnis. Poveikio priemonių taikymo pagrindas
 
 1. Šio įstatymo nustatytos poveikio priemonės gali būti taikomos esant bent vienam iš šių pagrindų:
 
@@ -366,7 +366,7 @@ Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir Lietuv
 
 3. Sprendimas taikyti poveikio priemones gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o esant tęstiniam ar trunkamajam pažeidimui, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.
 
-\#### 18 straipsnis. Laikinasis atstovas veiklai prižiūrėti
+### 18 straipsnis. Laikinasis atstovas veiklai prižiūrėti
 
 1. Neatidėliotinais atvejais, siekdama išvengti pensijų turto nuvertėjimo ar kitokio jo netekimo, priežiūros institucija turi teisę paskirti savo laikinąjį atstovą valdymo įmonės veiklai prižiūrėti.
 
@@ -380,7 +380,7 @@ Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir Lietuv
 
 3) panaikinamas valdymo įmonės licencijos galiojimas.
 
-\#### 19 straipsnis. Licencijos galiojimo panaikinimas
+### 19 straipsnis. Licencijos galiojimo panaikinimas
 
 Priežiūros institucija turi teisę panaikinti valdymo įmonei išduotos licencijos galiojimą, jeigu:
 
@@ -390,7 +390,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei išduotos licenc
 
 3) licencijos turėtojas per 12 mėnesių nuo licencijos išdavimo nepradeda pensijų kaupimo veiklos ar daugiau kaip 6 mėnesiams nutraukia šią veiklą.
 
-\#### 20 straipsnis. Valdymo įmonės reorganizavimo, pertvarkymo proceso ypatumai
+### 20 straipsnis. Valdymo įmonės reorganizavimo, pertvarkymo proceso ypatumai
 
 1. Prieš priimant sprendimą reorganizuoti, pertvarkyti valdymo įmonę, turi būti gautas priežiūros institucijos leidimas.
 
@@ -404,7 +404,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei išduotos licenc
 
 6. Reorganizuojama valdymo įmonė, gavusi priežiūros institucijos leidimą ir laikydamasi jos nustatytos tvarkos, gali be pensijų fondų dalyvių sutikimo perduoti pensijų fondų valdymą kitai valdymo įmonei, jeigu ši perima visus atitinkamų pensijų fondų taisyklėse ir pensijų kaupimo sutartyse numatytus įsipareigojimus pensijų fondų dalyviams.
 
-\#### 21 straipsnis. Valdymo įmonės bankroto proceso ypatumai
+### 21 straipsnis. Valdymo įmonės bankroto proceso ypatumai
 
 1. Valdymo įmonės bankroto procedūra gali būti vykdoma tik teismo tvarka.
 
@@ -416,7 +416,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei išduotos licenc
 
 5. Iš pensijų fondo valdymo santykių atsirandantys dalyvių reikalavimai valdymo įmonei turi būti patenkinami iš valdymo įmonės nuosavo turto pirmiausia įstatymų nustatyta tvarka atlyginus įkaito turėtojui, bet prieš pradedant tenkinti kitų valdymo įmonės kreditorių reikalavimus.
 
-\#### 22 straipsnis. Valdymo įmonės likvidavimo proceso ypatumai
+### 22 straipsnis. Valdymo įmonės likvidavimo proceso ypatumai
 
 1. Visuotinio akcininkų susirinkimo sprendimu valdymo įmonė gali būti likviduojama tik tuo atveju, jeigu ji visų pensijų fondų valdymą priežiūros institucijos nustatyta tvarka yra perdavusi kitai valdymo įmonei arba jeigu ji priežiūros institucijos leidimu ir jos nustatyta tvarka yra panaikinusi visus pensijų fondus dėl ketinimo likviduoti valdymo įmonę. Valdymo įmonė gali be dalyvių sutikimo perduoti pensijų fondo valdymą kitai valdymo įmonei, jeigu pensijų fondo valdymą perimanti valdymo įmonė prisiima visus įsipareigojimus dalyviams.
 
@@ -428,11 +428,9 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei išduotos licenc
 
 5. Likviduota valdymo įmonė gali būti išregistruota iš Juridinių asmenų registro tik baigus jos valdytų pensijų fondų pensijų turto padalijimą.
 
-\### TREČIASIS SKIRSNIS
+## TREČIASIS SKIRSNIS. pensijų fondas ir jo dalyviai
 
-**pensijų fondas ir jo dalyviai**
-
-\#### 23 straipsnis. Pensijų fondo sudarymas ir pensijų fondo taisyklės
+### 23 straipsnis. Pensijų fondo sudarymas ir pensijų fondo taisyklės
 
 1. Pensijų kaupimo veikla valdymo įmonės valdomuose pensijų fonduose grindžiama pensijų fondo taisyklėmis.
 
@@ -482,17 +480,17 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei išduotos licenc
 
 6. Valdymo įmonė privalo raštu pranešti kiekvienam valdomo pensijų fondo dalyviui apie atitinkamo pensijų fondo taisyklių pakeitimus ne vėliau kaip prieš 20 dienų iki pakeitimų įsigaliojimo. Pensijų fondo taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje.
 
-\#### 24 straipsnis. Pensijų fondo investavimo strategija
+### 24 straipsnis. Pensijų fondo investavimo strategija
 
 1. Pensijų fondo investavimo strategijoje turi būti numatyta pensijų turto investavimo tvarka ir sritys, rizikos vertinimo metodai, rizikos valdymo principai, naudojamos rizikos valdymo procedūros ir būdai, strateginis pensijų turto paskirstymas pagal turimų su pensijų kaupimo sutartimis susijusių įsipareigojimų trukmę ir kilmę.
 
 2. Valdymo įmonė ne rečiau kaip kartą per 3 metus turi peržiūrėti pensijų fondo investavimo strategiją ir prireikus ją pakeisti.
 
-\#### 25 straipsnis. Pensijų fondo dalyvis
+### 25 straipsnis. Pensijų fondo dalyvis
 
 Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
-\#### 26 straipsnis. Pensijų fondo dalyvio teisės
+### 26 straipsnis. Pensijų fondo dalyvio teisės
 
 1. Pensijų fondo dalyvis turi teisę:
 
@@ -512,7 +510,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 2. Šio straipsnio 1 dalyje nurodytas teises pensijų fondo dalyvis turi ir tuo atveju, kai jis pats nemoka įmokų ar už jį įmokos nemokamos.
 
-\#### 27 straipsnis. Pensijų kaupimo sutartis
+### 27 straipsnis. Pensijų kaupimo sutartis
 
 1. Pensijų kaupimo sutartis – sutartis tarp valdymo įmonės ir dalyvio dėl pensijų įmokų kaupimo dalyvio pasirinktame valdymo įmonės valdomame pensijų fonde pagal pensijų fondo taisykles. Prieš asmeniui sudarant pensijų kaupimo sutartį, jis turi būti supažindintas su pensijų fondo, kurio dalyviu jis taps įsigaliojus pensijų kaupimo sutarčiai, taisyklėmis. Pensijų fondo taisyklės yra neatskiriama pensijų kaupimo sutarties dalis.
 
@@ -528,7 +526,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 7. Sudarius pensijų kaupimo sutartį, valdymo įmonė kiekvienam pensijų fondo dalyviui atidaro asmeninę pensijų sąskaitą.
 
-\#### 28 straipsnis. Pensijų kaupimo sutarties turinys
+### 28 straipsnis. Pensijų kaupimo sutarties turinys
 
 1. Pensijų kaupimo sutartyje turi būti nurodyta:
 
@@ -564,7 +562,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 3. Pensijų kaupimo sutartyje šalys negali nustatyti tokių sąlygų, kurios pablogintų pensijų fondo dalyvio padėtį, palyginti su ta, kurią nustato šis ir kiti Lietuvos Respublikos įstatymai.
 
-\#### 29 straipsnis. Pensijų įmokos
+### 29 straipsnis. Pensijų įmokos
 
 1. Pensijų įmokos mokamos tik pinigais.
 
@@ -576,13 +574,13 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 5. Draudžiama to paties pensijų fondo dalyvio vardu vienu metu mokėti pensijų įmokas ir gauti pensijų išmokas.
 
-\#### 30 straipsnis. Pensijų sąskaitos
+### 30 straipsnis. Pensijų sąskaitos
 
 1. Valdymo įmonė privalo kiekvienam dalyviui atidaryti pensijų sąskaitą. Informacija apie pensijų sąskaitas yra slapta.
 
 2. Pensijų sąskaitos atidaromos, tvarkomos ir uždaromos, apskaitos vienetai į jas įrašomi pensijų fondo taisyklėse nustatyta tvarka. Priežiūros institucija nustato pensijų sąskaitų atidarymo, tvarkymo ir uždarymo bei apskaitos vienetų apskaitos tvarkymo principus.
 
-\#### 31 straipsnis. Pensijų turtas
+### 31 straipsnis. Pensijų turtas
 
 1. Pensijų turtas yra dalyvių bendroji dalinė nuosavybė. Dalyvio dalis bendrojoje nuosavybėje nustatoma atsižvelgiant į jo asmeninėje pensijų sąskaitoje įrašytų apskaitos vienetų skaičių.
 
@@ -600,7 +598,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 8. Pensijų fondo grynųjų aktyvų vertė apskaičiuojama ir pensijų fondo apskaitos vienetų vertė nustatoma kiekvieną darbo dieną pensijų fondo taisyklėse nustatyta tvarka. Kartą per mėnesį apskaičiuojama vidutinė praėjusio mėnesio apskaitos vieneto vertė. Priežiūros institucija turi teisę nustatyti pensijų fondo grynųjų aktyvų apskaičiavimo tvarką ir principus.
 
-\#### 32 straipsnis. Dalyvavimo pensijų fonde pabaiga
+### 32 straipsnis. Dalyvavimo pensijų fonde pabaiga
 
 1. Dalyvavimas pensijų fonde pasibaigia, kai:
 
@@ -622,7 +620,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 5. Valdymo įmonei, valdymo įmonės akcininkams, pensijų įmokų mokėtojui yra draudžiama tiesiogiai ar netiesiogiai riboti pensijų fondo dalyvio teisę išstoti iš pensijų fondo, išskyrus šio straipsnio 3 dalyje numatytą atvejį.
 
-\#### 33 straipsnis. Dalyvio perėjimas į kitą pensijų fondą
+### 33 straipsnis. Dalyvio perėjimas į kitą pensijų fondą
 
 1. Dalyvis turi teisę šio įstatymo nustatyta tvarka pereiti į kitą tos pačios ar kitos valdymo įmonės valdomą pensijų fondą.
 
@@ -636,7 +634,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 6. Jeigu dalyvis pereina į kitą tos pačios valdymo įmonės valdomą pensijų fondą, jam priklausančios lėšos pervedamos į tą pensijų fondą, į kurį jis pereina šio straipsnio 2 dalyje nustatyta tvarka. Jeigu dalyvis pereina į kitą tos pačios valdymo įmonės valdomą pensijų fondą, sudaroma nauja pensijų kaupimo sutartis.
 
-\#### 34 straipsnis. Pensijų fondo panaikinimas
+### 34 straipsnis. Pensijų fondo panaikinimas
 
 1. Pensijų fondas gali būti panaikinamas valdymo įmonės valdybos arba teismo sprendimu.
 
@@ -660,7 +658,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 8. Jeigu pensijų fondas panaikinamas ir jo pensijų turto valdymas bei įsipareigojimai pagal pensijų kaupimo sutartis neperduodami kitai valdymo įmonei, panaikinto pensijų fondo pensijų turtas padalijamas dalyviams proporcingai jų pensijų sąskaitose įrašytų apskaitos vienetų kiekiui pagal jo būklę sprendimo panaikinti pensijų fondą priėmimo dieną arba pagal jo būklę teismo sprendimo likviduoti bankrutavusią valdymo įmonę priėmimo dieną. Visas panaikinto pensijų fondo pensijų turtas turi būti realizuotas ir su pensijų fondo dalyviais turi būti atsiskaityta už jį gautais pinigais. Panaikinto pensijų fondo pensijų turtas turi būti parduodamas reguliuojamoje rinkoje ar aukcione pagal priežiūros institucijos nustatytas taisykles.
 
-\#### 35 straipsnis. apskaitos vienetai ir jų konvertavimas
+### 35 straipsnis. apskaitos vienetai ir jų konvertavimas
 
 1. Pensijų fondo apskaitos vienetai išreiškia pensijų fondo dalyviui priklausančią pensijų turto dalį.
 
@@ -676,7 +674,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 7. Pensijų įmokų ir į kitą pensijų fondą pervedamų pensijų fondo dalyviui priklausančių piniginių lėšų konvertavimo į apskaitos vienetus tvarka, taip pat apskaitos vienetų konvertavimo į pinigus ir pinigų išmokėjimo jų savininkams taisyklės nustatomos pensijų fondo taisyklėse. Konvertuojant pinigines lėšas į apskaitos vienetus, apskaitos vienetų skaičius gali būti išreiškiamas sveikosiomis ir trupmeninėmis dalimis pagal pensijų fondo taisykles. Priežiūros institucija turi teisę nustatyti papildomus reikalavimus pensijų įmokų ir į kitą pensijų fondą pervedamų pensijų fondo dalyviui priklausančių pinigų konvertavimui į apskaitos vienetus ir apskaitos vienetų konvertavimui į pinigus.
 
-\#### 36 straipsnis. Pensijų išmokos
+### 36 straipsnis. Pensijų išmokos
 
 1. Teisė į pensijų išmokas įgyjama pensijų fondo dalyviui sulaukus pensijų fondo taisyklėse nurodyto pensinio amžiaus. Jis negali būti daugiau kaip 5 metais mažesnis už pensinį amžių, nustatytą valstybinei socialinio draudimo senatvės pensijai gauti.
 
@@ -688,7 +686,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 5. Iš pensijų sąskaitos negali būti daromos jokios šiame įstatyme nenumatytos išmokos.
 
-\#### 37 straipsnis. Pensijų išmokų mokėjimo būdai ir tvarka
+### 37 straipsnis. Pensijų išmokų mokėjimo būdai ir tvarka
 
 1. Pensijų išmokos pensijų fondo dalyvio pasirinkimu gali būti mokamos šiais būdais:
 
@@ -700,35 +698,33 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 2. Pensijų išmokų mokėjimo būdą pasirenka pensijų fondo dalyvis. Valdymo įmonė turi laiku pranešti dalyviui apie būtinybę pasirinkti pensijų išmokos mokėjimo būdą.
 
-\#### 38 straipsnis. Anuitetas
+### 38 straipsnis. Anuitetas
 
 1. Anuitetas perkamas pensijų fondo dalyvio pasirinktoje draudimo įmonėje, vykdančioje gyvybės draudimą, už jo pensijų sąskaitoje apskaičiuotas sumas.
 
 2. Pensijų anuitetas įgyjamas, kai pensijų fondo dalyvis pasirašo draudimo sutartį su pensijų anuitetų mokėtoju. Pensijų anuitetų mokėtoju gali būti tik gyvybės draudimą vykdanti draudimo įmonė.
 
-\#### 39 straipsnis. Atskaitymai iš pensijų turto
+### 39 straipsnis. Atskaitymai iš pensijų turto
 
 1. Atlyginimas valdymo įmonei už pensijų fondo valdymą, depozitoriumui už jo paslaugas mokamas iš pensijų turto, iš jo dengiamos ir kitos su pensijų fondo valdymu susijusios išlaidos.
 
 2. Iš pensijų turto galima apmokėti tik tas išlaidas, kurios susijusios su pensijų fondo valdymu ir yra numatytos pensijų fondo taisyklėse. Šių išlaidų suma negali viršyti pensijų fondo taisyklėse nustatytų išlaidų ribų. Visos kitos pensijų fondo taisyklėse nenumatytos arba nustatytas ribas viršijančios išlaidos turi būti padengiamos iš valdymo įmonės lėšų.
 
-\#### 40 straipsnis. Slapta informacija ir jos saugojimas
+### 40 straipsnis. Slapta informacija ir jos saugojimas
 
 1. Informacija apie dalyvio įmokas, išmokas, jo sąskaitoje esančių apskaitos vienetų kiekį ir kita su dalyviu susijusi informacija, kurios atskleidimas gali padaryti žalą šiam asmeniui, laikoma slapta informacija. Valdymo įmonės ar depozitoriumo darbuotojai ir kiti asmenys, turintys teisę sužinoti šią informaciją, ją atskleisti gali tik šio įstatymo nustatytais atvejais.
 
 2. Slapta informacija gali būti atskleista tik pačiam pensijų fondo dalyviui, jo įgaliotam asmeniui ir valstybės institucijoms, kurioms ji reikalinga funkcijoms atlikti ir kurių veiklą reglamentuojantys įstatymai numato galimybę tokią informaciją gauti.
 
-\### KETVIRTASIS SKIRSNIS
+## KETVIRTASIS SKIRSNIS. DepozitoriumaS
 
-**DepozitoriumaS**
-
-\#### 41 straipsnis. Pareiga pensijų turtą perduoti depozitoriumui
+### 41 straipsnis. Pareiga pensijų turtą perduoti depozitoriumui
 
 1. Pensijų turtas privalo būti saugomas viename depozitoriume.
 
 2. Depozitoriumas turi teisę savo funkcijas ar jų dalį perduoti kitiems depozitoriumams, bet tai jo neatleidžia nuo atsakomybės.
 
-\#### 42 straipsnis. Depozitoriumo pareigos
+### 42 straipsnis. Depozitoriumo pareigos
 
 1. Depozitoriumas privalo veikti pensijų fondo dalyvių naudai ir:
 
@@ -748,13 +744,13 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 4. Depozitoriumas atsako už žalą, padarytą pensijų fondo dalyviams ar valdymo įmonei dėl to, kad jis neatliko savo pareigų ar netinkamai jas atliko.
 
-\#### 43 straipsnis. Pensijų turto valdymo perdavimas depozitoriumui
+### 43 straipsnis. Pensijų turto valdymo perdavimas depozitoriumui
 
 1. Jeigu valdymo įmonės teisė valdyti pensijų fondą sustabdoma arba pasibaigia jo valdymas, o kitai valdymo įmonei jis neperduodamas, valdymo įmonė privalo pranešti depozitoriumui apie teisės valdyti turtą sustabdymą ar pasibaigimą. Tokiu atveju pensijų turto valdymą laikinai perima jo depozitoriumas, kuris turi visas valdymo įmonės teises ir pareigas, jeigu įstatymai arba pensijų fondo taisyklės nenumato ko kita.
 
 2. Depozitoriumas perima pensijų turto valdymą laikotarpiui, kuriam sustabdoma valdymo įmonės teisė valdyti pensijų fondą. Tuo atveju, kai valdymo įmonės teisė valdyti pensijų fondą pasibaigia, depozitoriumas pensijų turto valdymą privalo perduoti kitai valdymo įmonei per 3 mėnesius nuo pensijų turto valdymo perėmimo dienos. Jeigu per 3 mėnesius pensijų turto valdymas kitai valdymo įmonei neperduodamas, pensijų fondas turi būti panaikinamas ir jo pensijų turtas padalijamas jo dalyviams šio įstatymo 34 straipsnio 8 dalies ir priežiūros institucijos nustatyta tvarka.
 
-\#### 44 straipsnis. Valdymo įmonės atskyrimas nuo depozitoriumo
+### 44 straipsnis. Valdymo įmonės atskyrimas nuo depozitoriumo
 
 1. Depozitoriumas negali kartu verstis ir valdymo įmonės veikla, išskyrus šio įstatymo 43 straipsnyje numatytą atvejį.
 
@@ -762,15 +758,15 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 3. Depozitoriumo, saugančio pensijų turtą, vadovas, valdybos nariai, stebėtojų tarybos nariai, taip pat tiesiogiai su depozitoriumo veikla susijusias funkcijas atliekantys darbuotojai gali sudaryti ne daugiau kaip 1/4 tą pensijų fondą valdančios valdymo įmonės stebėtojų tarybos narių.
 
-\#### 45 straipsnis. Depozitoriumo keitimas
+### 45 straipsnis. Depozitoriumo keitimas
 
 1. Valdymo įmonė depozitoriumą gali keisti tik tuo atveju, jei tam pritaria priežiūros institucija.
 
 2. Jeigu depozitoriumas nesilaiko teisės aktų reikalavimų, nevykdo savo įsipareigojimų ar netinkamai juos vykdo, priežiūros institucija, siekdama užtikrinti pensijų fondo dalyvių teises, turi teisę nurodyti valdymo įmonei pakeisti depozitoriumą.
 
-\### PENKTASIS SKIRSNIS. INVESTAVIMO TAISYKLĖS
+PENKTASIS SKIRSNIS. INVESTAVIMO TAISYKLĖS
 
-\#### 46 straipsnis. Investavimo objektai
+### 46 straipsnis. Investavimo objektai
 
 1. Pensijų turtą gali sudaryti tik:
 
@@ -802,7 +798,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 5. Priežiūros institucija nustato tvarką, kuria valdymo įmonė, siekdama veiksmingai valdyti finansinių priemonių portfelį, turi teisę naudoti būdus ir finansines priemones, susijusias su perleidžiamaisiais vertybiniais popieriais ar pinigų rinkos priemonėmis. Tokių būdų ar finansinių priemonių naudojimas nereiškia, kad leidžiama nukrypti nuo pensijų fondo taisyklėse nustatytų investavimo tikslų.
 
-\#### 47 straipsnis. Finansinių priemonių portfelio diversifikavimas
+### 47 straipsnis. Finansinių priemonių portfelio diversifikavimas
 
 1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir 6 dalyse numatytus atvejus.
 
@@ -820,7 +816,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
 
-\#### 48 straipsnis. Draudimas įgyti esminę įtaką emitentui
+### 48 straipsnis. Draudimas įgyti esminę įtaką emitentui
 
 1. Valdymo įmonės turimos kurio nors emitento akcijos kartu su valdomų pensijų fondų turimomis to emitento akcijomis negali suteikti daugiau kaip 1/10 visų balsavimo teisių emitento visuotiniame akcininkų susirinkime.
 
@@ -838,7 +834,7 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 4. Šio straipsnio 2 dalies 2 ir 3 punktuose numatytos ribos netaikomos valstybės ar savivaldybės išleistiems ar garantuotiems perleidžiamiesiems vertybiniams popieriams ar pinigų rinkos priemonėms.
 
-\#### 49 straipsnis. Investavimas į kolektyvinio investavimo subjektus
+### 49 straipsnis. Investavimas į kolektyvinio investavimo subjektus
 
 1. Leidžiama investuoti į investicinius vienetus ir akcijas tik tokių kolektyvinio investavimo subjektų, kurie atitinka šias sąlygas:
 
@@ -856,15 +852,15 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 4. Tokie kolektyvinio investavimo subjektai, kuriuos valdo ta pati valdymo įmonė ar tokios valdymo įmonės, kurių daugiau negu pusė valdymo organų narių yra tie patys asmenys ar kurias kontroliuoja tas pats asmuo arba kurių viena turi daugiau kaip 10 procentų balsų kitos valdymo įmonės visuotiniame akcininkų susirinkime, laikomi susijusiais. Jei bent vienas iš išvardytų subjektų yra pensijų fondo valdymo įmonė, tai to pensijų fondo turtas į susijusių kolektyvinio investavimo subjektų investicinius vienetus ar akcijas gali būti investuojamas tik grynųjų aktyvų verte.
 
-\#### 50 straipsnis. Laikinas investavimo taisyklių nesilaikymas
+### 50 straipsnis. Laikinas investavimo taisyklių nesilaikymas
 
 1. Pensijų fondas gali nesilaikyti šiame skirsnyje nustatytų investavimo apribojimų, jei jis pasinaudoja turimų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės, neatitikimas turi būti pašalintas kuo greičiau – ne vėliau kaip per 6 mėnesius.
 
 2. Naujai sukurto pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio įstatymo 47, 48 ir 49 straipsnių reikalavimų.
 
-\### ŠEŠTASIS SKIRSNIS. INFORMACIJOS ATSKLEIDIMAS
+ŠEŠTASIS SKIRSNIS. INFORMACIJOS ATSKLEIDIMAS
 
-\#### 51 straipsnis. Pensijų fondo dalyviams teikiama informacija
+### 51 straipsnis. Pensijų fondo dalyviams teikiama informacija
 
 1. Valdymo įmonė privalo ne rečiau kaip kartą per kalendorinius metus pensijų fondo taisyklių nustatyta tvarka raštu ar kitokia forma (jei to pageidauja dalyvis) pranešti kiekvienam jos valdomo pensijų fondo dalyviui apie sumokėtų pensijų įmokų dydį (nurodant įmokų mokėtoją ar mokėtojus), jo asmeninėje pensijų sąskaitoje apskaičiuoto pensijų turto dydį (į pensijų sąskaitą įrašytų apskaitos vienetų skaičių, jų vertę), metinę pensijų fondo investicijų grąžą, išskaitytų mokesčių dydį.
 
@@ -872,11 +868,11 @@ Pensijų fondo dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 3. Dalyviui sulaukus pensinio amžiaus ar įgijus teisę į išmokas kitais įstatymų numatytais atvejais, valdymo įmonė privalo suteikti jam išsamią informaciją apie išmokų pasirinkimo galimybes.
 
-\#### 52 straipsnis. Apskaitos vieneto vertės skelbimas
+### 52 straipsnis. Apskaitos vieneto vertės skelbimas
 
 Valdymo įmonė privalo kasdien priežiūros institucijos nustatyta tvarka skelbti kiekvieno pensijų fondo apskaitos vieneto vertę.
 
-\#### 53 straipsnis. Priežiūros institucijai teikiama informacija
+### 53 straipsnis. Priežiūros institucijai teikiama informacija
 
 1. Valdymo įmonė privalo parengti ir pateikti priežiūros institucijai jos nustatyta tvarka šias periodines savo veiklos ir finansinės būklės ataskaitas:
 
@@ -892,19 +888,19 @@ Valdymo įmonė privalo kasdien priežiūros institucijos nustatyta tvarka skelb
 
 5. Priežiūros institucija nustato kitus periodinių ataskaitų turinio reikalavimus bei ataskaitų pateikimo priežiūros institucijai tvarką, taip pat turi teisę nustatyti taisyklėse kitas būtinas pateikti periodines ataskaitas ir dokumentus, detalizuoti kitos informacijos pateikimo tvarką.
 
-\#### 54 straipsnis. Visuomenei teikiama informacija
+### 54 straipsnis. Visuomenei teikiama informacija
 
 Valdymo įmonė nustatyto turinio savo metų veiklos ataskaitą turi paskelbti įstatuose nurodytame šalies dienraštyje per 4 mėnesius nuo ataskaitinių finansinių metų pabaigos.
 
-\### SEPTINTASIS SKIRSNIS. VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
+SEPTINTASIS SKIRSNIS. VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 
-\#### 55 straipsnis. Apskaita ir atskaitomybė
+### 55 straipsnis. Apskaita ir atskaitomybė
 
 1. Valdymo įmonės nuosavo turto ir pensijų turto buhalterinės apskaitos ir finansinės atskaitomybės tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 2. Depozitoriumas, su kuriuo valdymo įmonė yra sudariusi pensijų turto saugojimo sutartį, privalo valdymo įmonei pateikti visus dokumentus, reikalingus finansinei atskaitomybei sudaryti.
 
-\#### 56 straipsnis. Priežiūros institucija
+### 56 straipsnis. Priežiūros institucija
 
 1. Valdymo įmonių ir depozitoriumų veiklą prižiūri priežiūros institucija.
 
@@ -912,7 +908,7 @@ Valdymo įmonė nustatyto turinio savo metų veiklos ataskaitą turi paskelbti �
 
 3. Priežiūros institucijos veiksmai ar neveikimas skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 57 straipsnis. Priežiūros institucijos funkcijos prižiūrint valdymo įmonių ir depozitoriumų veiklą
+### 57 straipsnis. Priežiūros institucijos funkcijos prižiūrint valdymo įmonių ir depozitoriumų veiklą
 
 1. Priežiūros institucija atlieka šias funkcijas:
 
@@ -936,7 +932,7 @@ Valdymo įmonė nustatyto turinio savo metų veiklos ataskaitą turi paskelbti �
 
 2. Priežiūros institucija, atstovaudama pensijų fondo dalyvių interesams, turi teisę kreiptis į teismą dėl viešojo intereso gynimo.
 
-\#### 58 straipsnis. Priežiūros institucijos teisės nagrinėjant pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimus
+### 58 straipsnis. Priežiūros institucijos teisės nagrinėjant pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimus
 
 1. Priežiūros institucija, siekdama nustatyti, kaip laikomasi šio įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti patikrinimus.
 
@@ -948,7 +944,7 @@ Valdymo įmonė nustatyto turinio savo metų veiklos ataskaitą turi paskelbti �
 
 5. Jeigu priežiūros institucija nustato teisės aktų, reglamentuojančių riziką ribojančius reikalavimus, pažeidimus arba jeigu valdymo įmonės veikla kelia grėsmę įmonės veiklos stabilumui ir patikimumui, priežiūros institucija turi teisę valdymo įmonei nustatyti individualius veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo.
 
-\#### 59 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
+### 59 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
 
 1. Priežiūros institucija, vadovaudamasi Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka, turi teisę skirti baudas:
 
@@ -972,7 +968,7 @@ Valdymo įmonė nustatyto turinio savo metų veiklos ataskaitą turi paskelbti �
 
 3. Šio straipsnio 1 dalyje nustatytų sankcijų taikymas juridiniams asmenims neatleidžia jų vadovų ar darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės, taip pat neužkerta kelio priežiūros institucijai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+### 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

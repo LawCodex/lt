@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bde6ed904aed11e4a8328599cac64d82"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BDE6ED904AED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Šiaurės Atlanto Sutarties Šalių susitarimo dėl jų karinių pajėgų statuso ir Protokolo dėl tarptautinių karinių vadaviečių, įsteigtų įgyvendinant Šiaurės Atlanto Sutartį, statuso ratifikavimo" Nr. IX-2225 2 straipsnio pakeitimo įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/86904e60fcf811e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.86904E60FCF8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2, 3, 19, 20 ir 34 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ VIEŠOJO ADMINISTRAVIMO ĮSTATYMO NR. VIII-1234 2, 3, 19, 20 IR 34 STRAIPSNIŲ P
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnį 24 dalimi:
 
 „24. **Asmuo, dėl kurio yra pradėta administracinė procedūra**, – asmuo, kuris yra padavęs skundą, arba asmuo, dėl kurio galimai pažeistų viešojo administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais teisių ir teisėtų interesų yra gautas pranešimas, ir viešojo administravimo subjekto vadovas arba jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu dėl tokio asmens skundo ar pranešimo yra pradėjęs administracinę procedūrą.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 1. Papildyti 3 straipsnio 1 dalį 9 punktu:
 
@@ -50,7 +50,7 @@ Papildyti 2 straipsnį 24 dalimi:
 
 „12) naujovių ir atvirumo permainoms principas. Šis principas reiškia, kad viešojo administravimo subjektas turi ieškoti naujų ir veiksmingų būdų, kaip spręsti problemas, ir nuolat mokytis iš gerosios patirties pavyzdžių.“
 
-\#### 3 straipsnis. Įstatymo papildymas 141 straipsniu
+## 3 straipsnis. Įstatymo papildymas 141 straipsniu
 
 Papildyti Įstatymą 14^1straipsniu:
 
@@ -64,13 +64,13 @@ Papildyti Įstatymą 14^1straipsniu:
 
 4. Tuo atveju, kai neteisėtą poveikį darantis suinteresuotas asmuo yra viešojo administravimo subjekto, kuriame neteisėtą poveikį patiriantis pareigūnas, valstybės tarnautojas ar darbuotojas eina pareigas, vadovas arba jo įgaliotas asmuo, pareigūnas, valstybės tarnautojas ar darbuotojas, kuriam pavesta parengti administracinio sprendimo projektą ir kuriam daromas neteisėtas poveikis, gali kreiptis į instituciją, kuriai pavesta tirti fizinių ir juridinių asmenų pranešimus, skundus ir prašymus dėl valstybinėje tarnyboje dirbančių asmenų veiklos atitikties Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatoms.“
 
-\#### 4 straipsnis. 19 straipsnio pakeitimas
+## 4 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Administracinės procedūros dalyviai: asmuo, dėl kurio yra pradėta administracinė procedūra, ir viešojo administravimo subjektas, kuris dėl skundo ar gauto pranešimo pradėjo administracinę procedūrą.“
 
-\#### 5 straipsnis. 20 straipsnio pakeitimas
+## 5 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 2. Asmuo, dėl kurio yra pradėta administracinė procedūra, privalo sąžiningai naudotis jam suteiktomis teisėmis ir jomis nepiktnaudžiauti. Jeigu paaiškėja, kad asmuo, dėl kurio yra pradėta administracinė procedūra, piktnaudžiavo jam suteiktomis teisėmis ar veikė nesąžiningai, viešojo administravimo subjekto vadovo sprendimu administracinė procedūra gali būti nutraukta ir apie tai per 3 darbo dienas nuo administracinės procedūros nutraukimo dienos pranešama asmeniui, dėl kurio yra pradėta administracinė procedūra.“
 
-\#### 6 straipsnis. 34 straipsnio pakeitimas
+## 6 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 

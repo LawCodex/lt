@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3B05D28C29A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3B05D28C29A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 3 straipsnio pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2001, Nr. 68-2469, Nr. 112-4075; 2002, Nr. 56-2231)
 
-\#### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 3 straipsnio 1 dalies pirmajame sakinyje po žodžio „investuotojui“ įrašyti žodžius „bei jo teisių ir pareigų pagal atitinkamas sutartis perėmėjui – Seimo patvirtintam investuotojui (toliau šiame Įstatyme tiek strateginis investuotojas, tiek investuotojas vadinami strateginiu investuotoju)“ ir šią dalį išdėstyti taip:
 

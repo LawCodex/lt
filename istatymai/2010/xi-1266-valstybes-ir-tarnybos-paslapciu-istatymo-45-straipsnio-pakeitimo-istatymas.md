@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4EAE28A80110"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EAE28A80110.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 45 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2004, Nr. [4-29](https://www.e-tar.lt/portal/lt/legalAct/TAR.83D9F662C0E4))
 
-\#### 1 straipsnis. 45 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ir 7, 8 dalių pakeitimas
+## 1 straipsnis. 45 straipsnio 1 dalies 3 punkto pripažinimas netekusiu galios ir 7, 8 dalių pakeitimas
 
 1. 45 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios.
 
@@ -36,7 +36,7 @@ Vilnius
 
 „8. Jeigu atlikus patikrinimą paaiškėja, kad Lietuvos Respublikai užsienio valstybių ar tarptautinių organizacijų perduota įslaptinta informacija buvo tikrai prarasta ar neteisėtai atskleista, nedelsiant pranešama Paslapčių apsaugos koordinavimo komisijai, informaciją perdavusios valstybės ar tarptautinės organizacijos atitinkamoms tarnyboms ir Valstybės saugumo departamentui.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. vasario 1 d.
 

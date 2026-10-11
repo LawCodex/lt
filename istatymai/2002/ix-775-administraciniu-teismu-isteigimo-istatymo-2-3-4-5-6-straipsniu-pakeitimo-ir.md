@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.88B32C4A7096"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88B32C4A7096.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 2, 3, 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymo ir administracinių bylų teisenos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,11 +28,11 @@ Vilnius
 
 (Žin., 2000, Nr. [85-2568](https://www.e-tar.lt/portal/lt/legalAct/TAR.3136EF999B30))
 
-\#### 1 straipsnis. 2 straipsnio pripažinimas netekusiu galios
+## 1 straipsnis. 2 straipsnio pripažinimas netekusiu galios
 
 2 straipsnį pripažinti netekusiu galios.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. gegužės 1 d.
 

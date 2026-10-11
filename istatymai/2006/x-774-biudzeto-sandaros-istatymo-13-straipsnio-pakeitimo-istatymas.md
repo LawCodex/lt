@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.846C3F13584E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.846C3F13584E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 13 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 2004, Nr. [4-47](https://www.e-tar.lt/portal/lt/legalAct/TAR.691728933211))
 
-\#### 1 straipsnis. 13 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas
 
 1. 13 straipsnio 1 dalies 2 punkte po žodžio „įstatymą“ įrašyti žodžius „ir Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje nustatytą valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį turtą, įskaitant žemę“ ir šį punktą išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2. Į valstybės biudžeto pajamas įskaitomos įmokos už ilgalaikio materialiojo ir nematerialiojo turto realizavimą, išskyrus Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 16^1 straipsnyje nustatytą atvejį -kai atnaujinamas valstybės nekilnojamasis turtas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.
 

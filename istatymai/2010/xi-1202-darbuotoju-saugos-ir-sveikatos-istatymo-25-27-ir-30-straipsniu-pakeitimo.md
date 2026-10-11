@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.17A335331729"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.17A335331729.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 25, 27 ir 30 straipsnių pakeitimo įstatymas
@@ -24,11 +24,11 @@ Vilnius
 
 (Žin., 2003, Nr. [70-3170](https://www.e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4); 2007, Nr. [69-2720](https://www.e-tar.lt/portal/lt/legalAct/TAR.94C8747D9F01); 2010, Nr. [60-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.BBD3B531B0EF))
 
-\#### 1 straipsnis. 25 straipsnio 11 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 25 straipsnio 11 punkto pripažinimas netekusiu galios
 
 25 straipsnio 11 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 27 straipsnio 2, 5 dalių pakeitimas ir 8 dalies pripažinimas netekusia galios
+## 2 straipsnis. 27 straipsnio 2, 5 dalių pakeitimas ir 8 dalies pripažinimas netekusia galios
 
 1. Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 3. 27 straipsnio 8 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 30 straipsnio pakeitimas
+## 3 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 Du ir daugiau darbdavių, atlikdami darbus toje pačioje darbo vietoje ar darbo vietose, organizuoja darbą taip, kad būtų garantuota visų darbuotojų sauga ir sveikata, neatsižvelgiant į tai, kuriam darbdaviui darbuotojas dirba. Siekdami apsaugoti darbuotojus nuo nelaimingų atsitikimų darbe ir profesinių ligų, darbdaviai bendradarbiauja ir koordinuoja veiksmus, įgyvendindami darbuotojų saugos ir sveikatos teisės aktų nuostatas, ir informuoja vienas kitą, darbuotojų atstovus, darbuotojų atstovus saugai ir sveikatai bei darbuotojus apie galimus pavojus ir rizikos veiksnius, prireikus parengia bendradarbiavimo ir veiksmų koordinavimo tvarkos aprašą.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. kovo 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a5f3aa8013eb11e58569be21ff080a8c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A5F3AA8013EB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 28 ir 49 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ KONSTITUCINIO TEISMO ĮSTATYMO NR. I-67 28 IR 49 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 28 straipsnio pakeitimas
+## 1 straipsnis. 28 straipsnio pakeitimas
 
 1. Papildyti 28 straipsnio antrąją dalį nauju 3 punktu:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Buvusį 28 straipsnio antrosios dalies 3 punktą laikyti 4 punktu.
 
-\#### 2 straipsnis. 49 straipsnio pakeitimas
+## 2 straipsnis. 49 straipsnio pakeitimas
 
 1. Papildyti 49 straipsnio pirmąją dalį nauju 3 punktu:
 
@@ -48,7 +48,7 @@ Vilnius
 
 4. Buvusią 49 straipsnio ketvirtąją dalį laikyti penktąja dalimi.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
 

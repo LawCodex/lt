@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E45D780C0808"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E45D780C0808.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12, 16 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 1995, Nr. [18-406](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E09E2EF3BB1); 1996, Nr. [68-1640](https://www.e-tar.lt/portal/lt/legalAct/TAR.615C5534119F); 1998, Nr. [62-1777](https://www.e-tar.lt/portal/lt/legalAct/TAR.892535EB668D); 2000, Nr. [36-986](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0A68440BD5F), Nr. [41-1167](https://www.e-tar.lt/portal/lt/legalAct/TAR.46DFDD0E4793))
 
-\#### 1 straipsnis. Įstatymo pavadinimo papildymas
+## 1 straipsnis. Įstatymo pavadinimo papildymas
 
 Papildyti įstatymo pavadinimą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APS
 
 **Į S T A T Y M A S**“
 
-\#### 2 straipsnis. 1 straipsnio pavadinimo, 1 ir 2 dalių papildymas
+## 2 straipsnis. 1 straipsnio pavadinimo, 1 ir 2 dalių papildymas
 
 Papildyti 1 straipsnio pavadinimą, 1, 2 dalis ir juos išdėstyti taip:
 
@@ -60,7 +60,7 @@ Teisę gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo
 
 Teisę gauti pareigūnų ir karių valstybinę pensiją taip pat turi šio straipsnio pirmojoje dalyje išvardyti pareigūnai ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos, Valstybės saugumo departamento, Krašto apsaugos ministerijos kadrų rezervą, Specialiųjų tyrimų tarnybos personalo rezervą, dirba kitose Lietuvos Respublikos ministerijose, departamentuose, įstaigose ir organizacijose.“
 
-\#### 3 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 Papildyti ir pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pareigūnų ir karių valstybinė pensija skiriama ir išmokama išėjusiems iš
 
 Pareigūnams ir kariams, dėl pačių kaltės (jei ta kaltė neužtraukia baudžiamosios atsakomybės) pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų,Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių).“
 
-\#### 4 straipsnis. 6 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 6 straipsnio papildymas ir pakeitimas
 
 Papildyti ir pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -94,13 +94,13 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 3) nuteisto pareigūno ar kario bausmės atlikimo laikas, jeigu šis pareigūnas ar karys vėliau reabilituotas.“
 
-\#### 5 straipsnis. 12 straipsnio 1 dalies papildymas
+## 5 straipsnis. 12 straipsnio 1 dalies papildymas
 
 Papildyti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Pareigūnams ir kariams bei jų šeimos nariams pensijas skiria ir moka Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Generalinė prokuratūra ar Kalėjimų departamentas pagal tai, kurioje iš šių institucijų pensijos gavėjas tarnavo paskiausiai.“
 
-\#### 6 straipsnis. 16 straipsnio 2 ir 4 dalių papildymas ir pakeitimas
+## 6 straipsnis. 16 straipsnio 2 ir 4 dalių papildymas ir pakeitimas
 
 1. Papildyti ir pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -122,11 +122,11 @@ Papildyti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 6) mokymosi aukštosiose, specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto paskirti pareigūnais.“
 
-\#### 7 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 7 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12, 16 straipsnių pakeitimo ir papildymo įstatymą (Žin., 2000, Nr. [36-986](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0A68440BD5F)).
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. rugsėjo 1 d.
 

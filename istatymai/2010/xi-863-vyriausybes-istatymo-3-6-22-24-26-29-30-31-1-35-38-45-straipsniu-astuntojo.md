@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D4D4BA1D0870"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D4D4BA1D0870.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 3, 6, 22, 24, 26, 29, 30, 31-1, 35, 38, 45 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo, įstatymo papildymo 28-1, 29-1 straipsniais ir 33 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(1)-1131, Nr. 65-1871; 1999, Nr. 101-2916; 2000, Nr. 89-2755, Nr. 92-2843; 2001, Nr. 48-1656; 2002, Nr. 41-1527; 2004, Nr. 167-6100, Nr. 171-6322; 2005, Nr. 67-2405; 2006, Nr. 17-596; 2007, Nr. 72-2831; 2008, Nr. 38-1379, Nr. 117-4442; 2009, Nr. 10-351, Nr. 29-1139, Nr. 85-3576)
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -32,13 +32,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės pažangos strategija.“
 
-\#### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Kai Seimas pritaria Vyriausybės programai, Vyriausybė privalo per 3 mėnesius patvirtinti šios programos nuostatų įgyvendinimo etapus.“
 
-\#### 3 straipsnis. 22 straipsnio 2, 3, 8, 9 ir 14 punktų pakeitimas
+## 3 straipsnis. 22 straipsnio 2, 3, 8, 9 ir 14 punktų pakeitimas
 
 1. Pakeisti 22 straipsnio 2 punktą ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines ar drausmines nuobaudas, juos skatina;“.
 
-\#### 4 straipsnis. 24 straipsnio 2 dalies 3 ir 4 punktų pakeitimas ir 8 punkto pripažinimas netekusiu galios
+## 4 straipsnis. 24 straipsnio 2 dalies 3 ir 4 punktų pakeitimas ir 8 punkto pripažinimas netekusiu galios
 
 1. Pakeisti 24 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 3. 24 straipsnio 2 dalies 8 punktą pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 26 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+## 5 straipsnis. 26 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 7. Buvusius 26 straipsnio 3 dalies 15 ir 16 punktus laikyti atitinkamai 16 ir 17 punktais.
 
-\#### 6 straipsnis. Aštuntojo skirsnio pavadinimo pakeitimas
+## 6 straipsnis. Aštuntojo skirsnio pavadinimo pakeitimas
 
 Pakeisti aštuntojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti aštuntojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 MINISTERIJOS, VYRIAUSYBĖS ĮSTAIGOS IR ĮSTAIGOS PRIE MINISTERIJŲ“.
 
-\#### 7 straipsnis. Įstatymo papildymas 281 straipsniu
+## 7 straipsnis. Įstatymo papildymas 281 straipsniu
 
 Papildyti Įstatymą 28^1 straipsniu:
 
@@ -116,7 +116,7 @@ Papildyti Įstatymą 28^1 straipsniu:
 
 Lietuvos Respublikos biudžetinių įstaigų įstatymas ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų steigimui, pertvarkymui, pabaigai, veiklai ir valdymui taikomas tiek, kiek to nereglamentuoja šis įstatymas.“
 
-\#### 8 straipsnis. 29 straipsnio papildymas ir pakeitimas
+## 8 straipsnis. 29 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 29 straipsnį nauja 1 dalimi:
 
@@ -130,7 +130,7 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymas ministerijų, Vyriausyb�
 
 „10. Ministerijos veikla organizuojama vadovaujantis ministro patvirtintais strateginiais ir metiniais veiklos planais, kitais planavimo dokumentais. Ministerijų strateginiai ir metiniai veiklos planai skelbiami ministerijų interneto tinklalapiuose.“
 
-\#### 9 straipsnis. Įstatymo papildymas 291 straipsniu
+## 9 straipsnis. Įstatymo papildymas 291 straipsniu
 
 Papildyti Įstatymą 29^1 straipsniu:
 
@@ -176,7 +176,7 @@ Papildyti Įstatymą 29^1 straipsniu:
 
 13. Vyriausybės įstaigos vadovui ir kitiems Vyriausybės įstaigų pareigūnams darbo užmokestis mokamas pagal Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymą. Vyriausybės įstaigos vadovui ir Vyriausybės įstaigų pareigūnams taikomos Valstybės tarnybos įstatymo nuostatos, reglamentuojančios su valstybės tarnautojo pareigomis nesuderinamą veiklą, materialinę atsakomybę ir kasmetines atostogas. Kitus jų darbo (tarnybos) santykius ir socialines garantijas nustato Darbo kodeksas ir kiti įstatymai.“
 
-\#### 10 straipsnis. 30 straipsnio pakeitimas
+## 10 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 5. Įstaigos prie ministerijos vadovą ketverių metų kadencijai Valstybės tarnybos įstatymo nustatyta tvarka (ne politinio (asmeninio) pasitikėjimo pagrindu) priima į pareigas ir atleidžia iš jų atitinkamos valdymo srities ministras. Įstaigos prie ministerijos vadovas gali būti skiriamas eiti tos pačios įstaigos vadovo pareigas ne daugiau kaip dvi kadencijas iš eilės. Įstaigos prie ministerijos vadovas yra tiesiogiai pavaldus ir atskaitingas atitinkamos valdymo srities ministrui. Įstatymai gali nustatyti kitokį įstaigų prie ministerijų vadovų priėmimą, kadencijos trukmę, pavaldumą ir atskaitomybę.“
 
-\#### 11 straipsnis. 311 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 11 straipsnis. 311 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 311 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -206,11 +206,11 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 „4. Ministerijos kancleris, o kai jo laikinai nėra, ministro paskirtas ministerijos administracijos padalinio vadovas pagal savo kompetenciją priima potvarkius. Ministerijos kancleris saugo ministerijos antspaudą ir atsako už antspaudo naudojimą. Ministras saugoti ministerijos antspaudą gali įgalioti kitą ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą atsako ministro įgaliotas ministerijos valstybės tarnautojas.“
 
-\#### 12 straipsnis. 33 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 33 straipsnio pripažinimas netekusiu galios
 
 33 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. 35 straipsnio 1, 2 ir 6 dalių pakeitimas
+## 13 straipsnis. 35 straipsnio 1, 2 ir 6 dalių pakeitimas
 
 1. Pakeisti 35 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -224,7 +224,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 „6. Vyriausybės atstovo, Vyriausybės įgaliotinio kompetenciją nustato įstatymai ir kiti teisės aktai.“
 
-\#### 14 straipsnis. 38 straipsnio pakeitimas
+## 14 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -234,25 +234,25 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 2. Vyriausybei teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios) institucijos, bet ir su kitų institucijų kompetencija, turi būti suderintas Vyriausybės darbo reglamento nustatyta tvarka.“
 
-\#### 15 straipsnis. 45 straipsnio 2 dalies 3 punkto pakeitimas
+## 15 straipsnis. 45 straipsnio 2 dalies 3 punkto pakeitimas
 
 Pakeisti 45 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) vadovaudamasis Vyriausybės patvirtinta Strateginio planavimo metodika rengia ir suderinęs su Ministru Pirmininku tvirtina Ministro Pirmininko tarnybos strateginį veiklos planą, padeda Vyriausybei koordinuoti ministerijų ir kitų valstybės institucijų veiklą įgyvendinant strateginio planavimo dokumentus, Vyriausybės programą ir sprendžiant kitus krašto reikalus.“
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas
+## 16 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 1 straipsnį, 5 straipsnio 3 dalį ir 18 straipsnį, įsigalioja 2010 m. liepos 1 d.
 
 2. Šio įstatymo 1 straipsnis įsigalioja Valstybės pažangos strategijos įsigaliojimo dieną.
 
-\#### 17 straipsnis. Baigiamosios nuostatos
+## 17 straipsnis. Baigiamosios nuostatos
 
 1. Iki šio įstatymo įsigaliojimo į pareigas neterminuotai priimtiems Vyriausybės įstaigų ir įstaigų prie ministerijų vadovams nuo šio įstatymo įsigaliojimo nustatoma ketverių metų kadencija eiti atitinkamos Vyriausybės įstaigos arba įstaigos prie ministerijos vadovo pareigas.
 
 2. Iki šio įstatymo įsigaliojimo į pareigas tam tikram laikui (kadencijai) pagal specialius įstatymus arba statutus priimti Vyriausybės įstaigų ir įstaigų prie ministerijų vadovai toliau eina atitinkamos Vyriausybės įstaigos arba įstaigos prie ministerijos vadovo pareigas įstatymų arba statutų nustatyta tvarka.
 
-\#### 18 straipsnis. Pasiūlymai Vyriausybei ir kitoms valstybės institucijoms
+## 18 straipsnis. Pasiūlymai Vyriausybei ir kitoms valstybės institucijoms
 
 1. Vyriausybė ir kitos valstybės institucijos iki šio įstatymo įsigaliojimo priima ar pakeičia šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

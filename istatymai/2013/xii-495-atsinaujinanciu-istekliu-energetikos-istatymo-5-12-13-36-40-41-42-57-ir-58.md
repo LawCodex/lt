@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F0A938D4ED8A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F0A938D4ED8A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 5, 12, 13, 36, 40, 41, 42, 57 ir 58 straipsnių pakeitimo įstatymo įgyvendinimo įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO 5, 12, 1
 
 Vilnius
 
-\#### 1 straipsnis. Biokuro naudojimo elektros energijai gaminti skatinimas
+## 1 straipsnis. Biokuro naudojimo elektros energijai gaminti skatinimas
 
 1. Lietuvos Respublikos energetikos ministerija iki 2013 m. liepos 15 d. viešai paskelbia informaciją apie biokurą naudojančius elektros energijos gamintojus, turinčius leidimus gaminti elektros energiją arba leidimus plėtoti elektros energijos gamybos pajėgumus, išduotus aukcionuose paskirstytų skatinimo kvotų pagrindu ar kitais teisės aktuose numatytais atvejais, kurių pagamintai elektros energijai Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka ir sąlygomis taikomi fiksuoti tarifai arba kurie pasinaudojo kitomis biokuro naudojimo plėtros paramos priemonėmis.
 
@@ -32,7 +32,7 @@ Vilnius
 
 4. Tuo atveju, kai aukcionuose paskirstytų skatinimo kvotų biokurą naudojantiems elektros energijos gamintojams ne aukciono būdu išduotuose galiojančiuose leidimuose plėtoti elektros energijos gamybos pajėgumus ir leidimuose gaminti elektros energiją nurodytų biokuro elektrinių įrengtųjų suminių galių suma yra mažesnė negu Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 13 straipsnio 3 dalies 4 punkte nurodyta įrengtoji suminė galia, lygi 105 MW, skatinimo kvotų paskirstymas ir paraiškų prijungti prie elektros tinklų ne didesnės kaip 10 kW galios biokuro elektrines priėmimas tęsiamas tol, kol bus pasiekta nurodytai rengtoji suminė galia.
 
-\#### 2 straipsnis. Nacionalinei atsinaujinančių energijos išteklių plėtros programai įgyvendinti skirtų finansavimo lėšų naudojimas biokuro naudojimo projektams įgyvendinti
+## 2 straipsnis. Nacionalinei atsinaujinančių energijos išteklių plėtros programai įgyvendinti skirtų finansavimo lėšų naudojimas biokuro naudojimo projektams įgyvendinti
 
 1. Biokuro naudojimo šilumai ir elektros energijai gaminti termofikaciniu režimu kombinuotojo elektros energijos ir šilumos gamybos ciklo elektrinėse, kai šios elektrinės tiekia šilumą į centralizuoto aprūpinimo šiluma sistemas ir sutaupomas toks pirminės energijos kiekis, kad bendrą elektros energijos ir šilumos gamybą galima laikyti efektyvia, projektams įgyvendinti gali būti skiriamos Nacionalinei atsinaujinančių energijos išteklių plėtros programai įgyvendinti skirtos finansavimo lėšos, įskaitant ir Europos Sąjungos paramos lėšas. Bendra elektros energijos ir šilumos gamyba yra laikoma efektyvia, kai kogeneracijos įrenginiuose vykdant bendrą šilumos ir elektros energijos gamybą yra sutaupoma bent 10 procentų pirminės energijos, palyginti su atskirosios šilumos ir elektros energijos gamybos atskaitos vertėmis.
 

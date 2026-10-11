@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.59BB042C4761"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.59BB042C4761.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 33, 60, 62, 69, 78 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2000, Nr. [75-2270](https://www.e-tar.lt/portal/lt/legalAct/TAR.905114AB2F6E), Nr. [102-3213](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9165AA625E7), Nr. [111-3586](https://www.e-tar.lt/portal/lt/legalAct/TAR.4CE00B2DB564); 2001, Nr. [37-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CB2051E732C), Nr. [63-2278](https://www.e-tar.lt/portal/lt/legalAct/TAR.9234391801EB), Nr. 64)
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 4 straipsnio 2 dalyje vietoj žodžių ir skaičiaus „(išskyrus 4 dalį)“ įrašyti žodžius ir skaičių „(išskyrus 3 dalį)“ ir šią dalį išdėstyti taip:
 
 „2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo 2 ir 3 straipsniai, 4 straipsnio 2 dalis, 5 straipsnis, 6 straipsnio 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 3 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
 
-\#### 2 straipsnis. 33 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 33 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 33 straipsnio 3 dalyje vietoj skaičiaus ir žodžio „3 dalies“ įrašyti skaičių ir žodį „4 dalies“, vietoj skaičiaus ir žodžio „4 dalyje“ įrašyti skaičių ir žodį „5 dalyje“, išbraukti žodžius ir skaičius „ir 76 straipsnio 2 dalyje nurodytos kompensacijos dydis“ ir šią dalį išdėstyti taip:
 
@@ -44,17 +44,17 @@ Vilnius
 
 „4. Statutinių vidaus reikalų sistemos valstybės tarnautojų, kurie 1990 m. kovo 11 d. dirbo ir tebedirba vidaus reikalų sistemoje statutiniais valstybės tarnautojais arba kurie 1990 m.kovo 11 d. dirbo statutiniais valstybės tarnautojais vidaus reikalų sistemos įstaigose, vėliau reorganizuotose į valstybės įstaigas ar institucijas, arba perėjo dirbti į po 1990 m. kovo 11 d. naujai įsteigtas statutines valstybės įstaigas ar institucijas ir jose tebedirba statutiniais valstybės tarnautojais, tarnybos stažas skaičiuojamas nuo priėmimo į pareigas vidaus reikalų sistemoje datos. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė.“
 
-\#### 3 straipsnis. 60 straipsnio 3 dalies 6 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 60 straipsnio 3 dalies 6 punkto pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 60 straipsnio 3 dalies 6 punktą.
 
-\#### 4 straipsnis. 62 straipsnio 10 dalies pakeitimas
+## 4 straipsnis. 62 straipsnio 10 dalies pakeitimas
 
 Pakeisti 62 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. Viešojo administravimo valstybės tarnautojams ankstesnės darbo apmokėjimo sąlygos lieka galioti iki 2001 m. spalio 1 d., o paslaugų valstybės tarnautojams – iki 2002 m. sausio 1 d.“
 
-\#### 5 straipsnis. 69 straipsnio 1 dalies ir 2 dalies 2 punkto papildymas
+## 5 straipsnis. 69 straipsnio 1 dalies ir 2 dalies 2 punkto papildymas
 
 1. Papildyti 69 straipsnio 1 dalį žodžiais ir skaičiais „išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“ ir šią dalį išdėstyti taip:
 
@@ -74,17 +74,13 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai viešojo administravimo valstybės tarnautojams – M (viešojo administravimo) ir paslaugų valstybės tarnautojams – M (paslaugų):
 
-\| Metai | 2001 | 2002 | 2003 | |
+| Metai | 2001 | 2002 | 2003 |  |
+| --- | --- | --- | --- | --- |
+| Pusmečiai | II | I | II | I |
+| M (viešojo administravimo) | 0,4 | 0,6 | 0,8 | 0,9 |
+| M (paslaugų) | 0 | 0,3 | 0,6 | 0,9“ |
 
-\| --- | --- | --- | --- | --- |
-
-\| Pusmečiai | II | I | II | I |
-
-\| M (viešojo administravimo) | 0,4 | 0,6 | 0,8 | 0,9 |
-
-\| M (paslaugų) | 0 | 0,3 | 0,6 | 0,9“ |
-
-\#### 6 straipsnis. 78 straipsnio pakeitimas
+## 6 straipsnis. 78 straipsnio pakeitimas
 
 Pakeisti 78 straipsnį ir jį išdėstyti taip:
 

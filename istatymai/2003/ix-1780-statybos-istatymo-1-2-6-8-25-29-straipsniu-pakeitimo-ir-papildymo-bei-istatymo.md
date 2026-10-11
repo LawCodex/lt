@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.48207ABF65C5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 1, 2, 6, 8, 25, 29 straipsnių pakeitimo ir papildymo bei įstatymo papildymo nauju dvyliktuoju skirsniu ir priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas, 2 dalies papildymas 3 punktu, straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas, 2 dalies papildymas 3 punktu, straipsnio papildymas 3 dalimi
 
 1. 1 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikoje“ įrašyti žodžius „Lietuvos Respublikos teritorijoje“, po žodžių „jų pripažinimo tinkamais naudoti“ įrašyti žodžius „statinių naudojimo ir priežiūros“ ir šią dalį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „3. Įstatymas yra suderintas su šio Įstatymo priede nurodytu Europos Sąjungos teisės aktu.“
 
-\#### 2 straipsnis. 2 straipsnio 21 ir 54 dalių pakeitimas ir papildymas 72, 73, 74, 75, 76, 77 ir 78 dalimis
+## 2 straipsnis. 2 straipsnio 21 ir 54 dalių pakeitimas ir papildymas 72, 73, 74, 75, 76, 77 ir 78 dalimis
 
 1. 2 straipsnio 21 dalyje po žodžių „Statinio paprastasis remontas“ įrašyti žodžius „(atitinka Civilinio kodekso sąvoką „einamasis remontas“)“ ir šią dalį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 78. Statinio techninis prižiūrėtojas – fizinis ar juridinis asmuo, šio Įstatymo 41 straipsnio 1 ir 2 dalių nustatytais pagrindais ir pagal to paties straipsnio 3 dalies nustatytus reikalavimus atliekantis statinio techninę priežiūrą.“
 
-\#### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas
+## 3 straipsnis. 6 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti ir papildyti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 8) statinio priežiūrą.“
 
-\#### 4 straipsnis. 8 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
+## 4 straipsnis. 8 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
 
 1. 8 straipsnio 1 dalies 1 punkte po žodžių „jų statybos“ įrašyti žodžius „naudojimo ir priežiūros“, po žodžių „į standartus arba statybos“ įrašyti žodžius „ar statinių naudojimo ir techninės priežiūros“ ir šį punktą išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti ir papildyti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2) statybos ar statinių naudojimo ir techninės priežiūros taisyklės – ministerijų, Vyriausybės įstaigų, kitų valstybės institucijų ar juridinių asmenų priimti bei Vyriausybės įgaliotoje institucijoje jos nustatyta tvarka įregistruoti dokumentai, kurie nurodo statybos techninių reglamentų įgyvendinimo būdus ir metodus;“.
 
-\#### 5 straipsnis. 25 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 25 straipsnio 2 dalies pakeitimas
 
 Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -120,7 +120,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 7) aprašyti statinio būklę po avarijos, statinio pakitimus ir jų atsiradimo vietas.“
 
-\#### 6 straipsnis. 29 straipsnio 4 dalies pakeitimas
+## 6 straipsnis. 29 straipsnio 4 dalies pakeitimas
 
 29 straipsnio 4 dalies sakinyje iki dvitaškio po žodžio „priežiūrą“ įrašyti žodžius „arba statinių naudojimo priežiūrą“, 2 punkte po žodžio „dalyje“ įrašyti žodžius „arba kai yra prielaidų, kad šie reikalavimai yra pažeisti stichinių nelaimių ar kitų ekstremalių situacijų metu“ ir šią dalį išdėstyti taip:
 
@@ -130,7 +130,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) gautas statytojo (užsakovo) ar statinio naudotojo skundas, kad statinys neatitinka esminių reikalavimų, nustatytų šio Įstatymo 4 straipsnio 1 dalyje, arba kai yra prielaidų, kad šie reikalavimai yra pažeisti stichinių nelaimių ar kitų ekstremalių situacijų metu.“
 
-\#### 7 straipsnis. Įstatymo papildymas nauju dvyliktuoju skirsniu
+## 7 straipsnis. Įstatymo papildymas nauju dvyliktuoju skirsniu
 
 1. Papildyti Įstatymą nauju dvyliktuoju skirsniu:
 
@@ -138,7 +138,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 STATINIŲ NAUDOJIMAS IR PRIEŽIŪRA
 
-\#### 40 straipsnis. Statinių naudotojų pareigos prižiūrint statinį
+## 40 straipsnis. Statinių naudotojų pareigos prižiūrint statinį
 
 Statinių naudotojai privalo:
 
@@ -152,7 +152,7 @@ Statinių naudotojai privalo:
 
 5) suremontuoti, rekonstruoti arba nugriauti statinius, jeigu tolesnis jų naudojimas kelia pavojų žmonių gyvybei, sveikatai ar aplinkai.
 
-\#### 41 straipsnis. Statinių techninė priežiūra ir techninės priežiūros taisyklės
+## 41 straipsnis. Statinių techninė priežiūra ir techninės priežiūros taisyklės
 
 1. Statinio techninę priežiūrą organizuoja statinio naudotojas ūkio būdu arba sutarties pagrindu paskirdamas statinio techninį prižiūrėtoją. Statinio techninis prižiūrėtojas gali būti paskirtas ir kitais įstatymų nustatytais pagrindais.
 
@@ -174,7 +174,7 @@ Statinių naudotojai privalo:
 
 6. Paaiškėjus, kad statinio būklė kelia pavojų statinyje ar arti jo esančių žmonių sveikatai, gyvybei ar aplinkai, atsižvelgdamas į grėsmės pobūdį ar įvykus statinio avarijai, statinio naudotojas ir (ar) statinio techninis prižiūrėtojas privalo imtis priemonių žmonėms apsaugoti ir kitų šio Įstatymo 25 straipsnio 2 dalyje nurodytų priemonių.
 
-\#### 42 straipsnis. Statinių naudojimo priežiūra
+## 42 straipsnis. Statinių naudojimo priežiūra
 
 1. Statinių naudojimo priežiūrą atlieka šie viešojo administravimo subjektai:
 
@@ -202,7 +202,7 @@ Statinių naudotojai privalo:
 
 5. Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos metodiškai vadovauja šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytiems viešojo administravimo subjektams, atliekantiems statinių naudojimo priežiūrą.
 
-\#### 43 straipsnis. Statinio techninės priežiūros dokumentai
+## 43 straipsnis. Statinio techninės priežiūros dokumentai
 
 1. Statinio techninės priežiūros dokumentai yra statinio techninis pasas (ar techninės apskaitos kortelė), apšildomų pastatų, kurių naudingasis plotas didesnis kaip 1000 kvadratinių metrų, – pastato techninis-energetinis pasas, statinio techninės priežiūros žurnalas, statinio periodinių ir specialiųjų apžiūrų aktai ir kiti Vyriausybės įgaliotų institucijų ar statinio naudotojo nustatyti dokumentai.
 
@@ -218,11 +218,11 @@ Statinių naudotojai privalo:
 
 BAIGIAMOSIOS NUOSTATOS
 
-\#### 44 straipsnis. Atsakomybė už Įstatymo pažeidimus
+## 44 straipsnis. Atsakomybė už Įstatymo pažeidimus
 
 Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo nuostatas, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\#### 8 straipsnis. Įstatymo papildymas priedu
+## 8 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -236,11 +236,11 @@ priedas
 
 1998 m. gruodžio 21 d. Europos Tarybos direktyva 89/106/EEC, nustatanti valstybių narių įstatymų, kitų teisės aktų ir administracinių nuostatų, susijusių su statybos produktais, derinimą.“
 
-\#### 9 straipsnis. Pasiūlymai Vyriausybei
+## 9 straipsnis. Pasiūlymai Vyriausybei
 
 Pasiūlyti Vyriausybei iki 2004 m. liepos 1 d. parengti ir patvirtinti šio Įstatymo lydimuosius teisės aktus.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 9 straipsnį, įsigalioja nuo 2005 m. sausio 1 d.
 

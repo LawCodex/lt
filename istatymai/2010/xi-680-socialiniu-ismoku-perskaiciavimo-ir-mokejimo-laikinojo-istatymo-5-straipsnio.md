@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1D0E910641D7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D0E910641D7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 5 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2009, Nr. [152-6820](https://www.e-tar.lt/portal/lt/legalAct/TAR.F412AFF35F51))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šio įstatymo 4 straipsnyje nustatyta tvarka perskaičiuotų valstybinių pensijų, kurių skyrimas ir (arba) mokėjimas nesiejamas su asmens draudžiamosiomis pajamomis, rentų buvusiems sportininkams, dirbantiems kūno kultūros ir sporto srityje, kompensacinių išmokų teatrų ir koncertinių įstaigų darbuotojams bei šalpos kompensacijų gavėjams, kurie po išmokos paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos privalomosios valstybinio socialinio pensijų draudimo įmokos, arba gauna ligos (įskaitant darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpas, mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos socialinio draudimo pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą (toliau šiame įstatyme šios pajamos ir pašalpos vadinamos draudžiamosiomis pajamomis), išskyrus asmenis, draudžiamus privalomuoju valstybiniu socialiniu pensijų draudimu pagal Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 ir 9 punktus, mokama pensijos dalis, apskaičiuota taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede nurodytą formulę, atsižvelgiant į gautų draudžiamųjų pajamų dydį. Tuo atveju, kai išmoka mokama už einamąjį mėnesį, atsižvelgiama į praėjusio mėnesio draudžiamąsias pajamas, kai išmoka mokama už praėjusį mėnesį, atsižvelgiama į užpraeito mėnesio draudžiamąsias pajamas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2010 m. kovo 1 d.
 

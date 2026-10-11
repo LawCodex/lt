@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.508EAF47DE95"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.508EAF47DE95.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės vidaus skolos piliečiams, turintiems teisę į kompensaciją pinigais už valstybės išperkamą žemę, miškus ir vandens telkinius, pripažinimo ir padengimo įstatymas
@@ -26,11 +26,11 @@ VALSTYBĖS VIDAUS SKOLOS PILIEČIAMS, TURINTIEMS TEISĘ Į KOMPENSACIJĄ PINIGAI
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šiuo įstatymu pripažįstama valstybės vidaus skola piliečiams, pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą turintiems teisę į kompensaciją pinigais už valstybės išperkamą žemę, miškus ir vandens telkinius, bet iki 1997 m. sausio 1 d. negavusiems šios kompensacijos, ir nustatoma šios skolos padengimo tvarka.
 
-\#### 2 straipsnis. Valstybės vidaus skolos pripažinimas
+## 2 straipsnis. Valstybės vidaus skolos pripažinimas
 
 1. Pripažįstama, kad iš valstybės biudžeto nebuvo skirta reikiamo lėšų kiekio piliečiams priklausančiai kompensacijai už žemę, miškus ir vandens telkinius sumokėti ir dėl to susidarė 219,1 mln. Lt valstybės vidaus skola piliečiams.
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Iš šio straipsnio 1 dalyje nurodytos sumos išmokama visa kompensacija piliečiams už žemę, kuri suteikta mokslo ir mokymo įstaigoms.
 
-\#### 3 straipsnis. Valstybės vidaus skolos padengimas
+## 3 straipsnis. Valstybės vidaus skolos padengimas
 
 Šio įstatymo 2 straipsnyje pripažinta valstybės vidaus skola – 219,1 mln. Lt – dengiama Vyriausybės nustatyta tvarka.
 

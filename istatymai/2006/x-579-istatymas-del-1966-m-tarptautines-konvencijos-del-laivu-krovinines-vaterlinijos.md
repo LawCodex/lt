@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.81B7DE634E09"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.81B7DE634E09.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1966 m. Tarptautinės konvencijos dėl laivų krovininės vaterlinijos nustatymo 1988 m. protokolo ratifikavimo
@@ -26,7 +26,7 @@ DĖL 1966 M. TARPTAUTINĖS KONVENCIJOS DĖL LAIVŲ KROVININĖS VATERLINIJOS NUST
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. kovo 6 d. dekretą Nr. 539, ratifikuoja 1966 m. Tarptautinės konvencijos dėl laivų krovininės vaterlinijos nustatymo 1988 m. protokolą, priimtą 1988 m. lapkričio 11 d. Londone.
 

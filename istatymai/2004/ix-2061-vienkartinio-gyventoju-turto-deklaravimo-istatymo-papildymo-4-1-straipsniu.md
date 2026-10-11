@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.734C687C7A39"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.734C687C7A39.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vienkartinio gyventojų turto deklaravimo įstatymo papildymo 4-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [123-5582](https://www.e-tar.lt/portal/lt/legalAct/TAR.EEC1131D6539))
 
-\#### 1 straipsnis. Įstatymo papildymas 41 straipsniu
+## 1 straipsnis. Įstatymo papildymas 41 straipsniu
 
 Papildyti Įstatymą 4^1 straipsniu:
 

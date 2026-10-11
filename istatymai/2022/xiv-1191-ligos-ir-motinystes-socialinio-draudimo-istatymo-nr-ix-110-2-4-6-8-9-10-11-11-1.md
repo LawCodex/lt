@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1d5e544000e711ed8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D5E544000E7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 22, 23 ir 30 straipsnių pakeitimo įstatymo Nr. XIV-752 pavadinimo, 14 straipsnio pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
@@ -57,5 +57,3 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_3921d03030d54bc39f49d2ef78c2e599_end

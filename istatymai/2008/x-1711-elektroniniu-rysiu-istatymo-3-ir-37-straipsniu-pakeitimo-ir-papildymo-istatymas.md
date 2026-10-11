@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5D8CAF40AF73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5D8CAF40AF73.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 3 ir 37 straipsnių pakeitimo ir papildymo įstatymas
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusias 3 straipsnio 45–78 dalis laikyti atitinkamai 46–79 dalimis.
 
-\#### 2 straipsnis. 37 straipsnio papildymas 5 ir 6 dalimis
+## 2 straipsnis. 37 straipsnio papildymas 5 ir 6 dalimis
 
 1. Papildyti 37 straipsnį 5 dalimi:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „6. Valstybė plėtoja plačiajuosčio ryšio infrastruktūrą vietovėse, kuriose jos nėra ar kuriose nėra konkurencijos teikiant plačiajuosčio ryšio paslaugas. Viešosios plačiajuosčio ryšio infrastruktūros plėtrą koordinuoja ir įgyvendina Vyriausybės įgaliota institucija.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2009 m. sausio 1 d.
 

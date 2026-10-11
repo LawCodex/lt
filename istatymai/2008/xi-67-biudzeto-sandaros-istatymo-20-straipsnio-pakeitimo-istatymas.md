@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.737A18283315"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.737A18283315.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 20 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 2004, Nr. [4-47](https://www.e-tar.lt/portal/lt/legalAct/TAR.691728933211); 2007, Nr. [132-5357](https://www.e-tar.lt/portal/lt/legalAct/TAR.8215BDD3718D))
 
-\#### 1 straipsnis. 20 straipsnio pavadinimo ir 2 dalies pakeitimas
+## 1 straipsnis. 20 straipsnio pavadinimo ir 2 dalies pakeitimas
 
 1. Pakeisti 20 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2. Seimas valstybės biudžetą ir savivaldybių biudžetų finansinius rodiklius vieniems biudžetiniams metams tvirtina įstatymu ne vėliau kaip prieš 14 kalendorinių dienų iki biudžetinių metų pradžios. Jeigu Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas laiku nepriimamas, biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo galiojimas
+## 2 straipsnis. Įstatymo galiojimas
 
 1. Šio įstatymo 1 straipsnio 2 dalis galioja iki 2009 m. vasario 28 d.
 

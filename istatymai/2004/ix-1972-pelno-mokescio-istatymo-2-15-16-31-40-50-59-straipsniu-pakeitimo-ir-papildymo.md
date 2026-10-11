@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.16B90D491165"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.16B90D491165.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2, 15, 16, 31, 40, 50, 59 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2002, Nr. [73-3086](https://www.e-tar.lt/portal/lt/legalAct/TAR.12825B0ADFAC); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB), Nr. [104-4645](https://www.e-tar.lt/portal/lt/legalAct/TAR.529B982B975B))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį nauja 8 dalimi:
 
@@ -40,21 +40,21 @@ Vilnius
 
 2. Buvusią 2 straipsnio 28 dalį laikyti 9 dalimi, buvusias 2 straipsnio 8–17 dalis laikyti atitinkamai 10–19 dalimis, buvusią 2 straipsnio 29 dalį laikyti 20 dalimi, buvusias 2 straipsnio 18–27 dalis laikyti atitinkamai 21–30 dalimis.
 
-\#### 2 straipsnis. 15 straipsnio 2 dalies pripažinimas netekusia galios
+## 2 straipsnis. 15 straipsnio 2 dalies pripažinimas netekusia galios
 
 15 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 16 straipsnio 3 ir 4 dalių pripažinimas netekusiomis galios
+## 3 straipsnis. 16 straipsnio 3 ir 4 dalių pripažinimas netekusiomis galios
 
 1. 16 straipsnio 3 dalį pripažinti netekusia galios.
 
 2. 16 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 31 straipsnio 1 dalies 6 punkto pripažinimas netekusiu galios
+## 4 straipsnis. 31 straipsnio 1 dalies 6 punkto pripažinimas netekusiu galios
 
 31 straipsnio 1 dalies 6 punktą pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 40 straipsnio pakeitimas
+## 5 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 3. Vienetai, šio Įstatymo nustatyta tvarka apskaičiuodami apmokestinamąjį pelną, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka turi iš naujo apibūdinti pajamas ar išmokas.“
 
-\#### 6 straipsnis. 50 straipsnio 2 dalies 1 punkto ir 6 dalies pakeitimas ir papildymas
+## 6 straipsnis. 50 straipsnio 2 dalies 1 punkto ir 6 dalies pakeitimas ir papildymas
 
 1. Pakeisti 50 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 „6.Deklaracijų ir ataskaitų formas, jų užpildymo tvarką bei atvejus, kada pildoma šio straipsnio 3 dalies 1 punkte nustatyta ataskaita, nustato centrinis mokesčio administratorius. Šio straipsnio 2 dalies 1 punkte nustatytos ataskaitos formą, jos užpildymo ir pateikimo tvarką nustato centrinis mokesčio administratorius, suderinęs su finansų ministru.“
 
-\#### 7 straipsnis. 59 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 7 straipsnis. 59 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 1. 59 straipsnio 1 dalyje vietoj skaičiaus „16“ įrašyti skaičių „18“ ir šią dalį išdėstyti taip:
 

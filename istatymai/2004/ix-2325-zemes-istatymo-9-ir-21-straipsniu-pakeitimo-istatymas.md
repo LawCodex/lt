@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3ECA677AC3CA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3ECA677AC3CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 2004, Nr. [28-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED447C0D254))
 
-\#### 1 straipsnis. 9 straipsnio 14 dalies pakeitimas
+## 1 straipsnis. 9 straipsnio 14 dalies pakeitimas
 
 Pakeisti 9 straipsnio 14 dalį ir ją išdėstyti taip:
 
 „14. Valstybinės žemės nuomos sutartis turi būti nutraukiama prieš terminą nuomotojo reikalavimu, jeigu žemės nuomininkas naudoja žemę ne pagal sutartyje numatytą pagrindinę tikslinę žemės naudojimo paskirtį, būdą ar pobūdį arba yra keičiama pagrindinė tikslinė žemės naudojimo paskirtis, būdas ar pobūdis, išskyrus atvejus, kai Vyriausybės nustatytais atvejais ir tvarka valstybinės žemės nuomos sutartyje arba jos pakeitime numatyta galimybė keisti pagrindinę tikslinę žemės naudojimo paskirtį, būdą ar pobūdį.“
 
-\#### 2 straipsnis. 21 straipsnio 1 dalies 7 punkto pakeitimas
+## 2 straipsnis. 21 straipsnio 1 dalies 7 punkto pakeitimas
 
 Pakeisti 21 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 

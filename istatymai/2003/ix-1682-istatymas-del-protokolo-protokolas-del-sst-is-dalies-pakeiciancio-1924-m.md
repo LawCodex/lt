@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.44E4EC7CD2F9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.44E4EC7CD2F9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Protokolo (Protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės), ratifikavimo
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 115, ratifikuoja1979 m. gruodžio 21 d. Briuselyje priimtą Protokolą (Protokolas dėl SST), iš dalies pakeičiantį 1924 m. rugpjūčio 25 d. Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės).
 

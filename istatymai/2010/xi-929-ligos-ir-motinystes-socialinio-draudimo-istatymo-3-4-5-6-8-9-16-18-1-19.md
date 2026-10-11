@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C5A21CC50CFB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C5A21CC50CFB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18-1, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [149-5999](https://www.e-tar.lt/portal/lt/legalAct/TAR.CD14ABB56F02); 2009, Nr. [25-969](https://www.e-tar.lt/portal/lt/legalAct/TAR.047B2C52D1EA), Nr. [151-6773](https://www.e-tar.lt/portal/lt/legalAct/TAR.258A7098DFFF))
 
-\#### 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 

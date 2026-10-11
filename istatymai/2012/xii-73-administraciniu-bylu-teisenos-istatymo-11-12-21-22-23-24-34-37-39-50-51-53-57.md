@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F05DCA0099E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F05DCA0099E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 11, 12, 21, 22, 23, 24, 34, 37, 39, 50, 51, 53, 57, 61, 62, 64, 66, 68, 70, 71, 72, 73, 74, 75, 77, 78, 82, 83, 85, 87, 93, 101, 105, 106, 107, 110, 118, 119, 121, 129, 130, 131, 132, 134, 135, 137, 138, 142, 150, 155, 156, 157 straipsnių pakeitimo ir papildymo įstatymo 4, 5, 43, 52, 60 ir 61 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2011, Nr. [85-4131](https://www.e-tar.lt/portal/lt/legalAct/TAR.95FC10994CBA))
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 22 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Skundas (prašymas) gali būti siunčiamas paštu, išskyrus šio įstatymo 18 straipsnio 2 dalies 8 punkte ir 20 straipsnio 1 dalies 4 punkte numatytus ginčus, ir elektronine forma elektroninių ryšių priemonėmis. Jeigu skundas (prašymas) siunčiamas faksimiliniu laišku, ne vėliau kaip per tris dienas turi būti pateiktas skundo (prašymo) originalas.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti ir papildyti 23 straipsnį ir jį išdėstyti taip:
 
 4. Kai skundas (prašymas) administraciniam teismui paduodamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Teismų įstatyme nustatytais būdais. Paduodant skundą (prašymą) administracinių ginčų komisijai elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama pasirašant saugiu elektroniniu parašu.“
 
-\#### 3 straipsnis. 43 straipsnio pakeitimas
+## 3 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti ir papildyti 130 straipsnį ir jį išdėstyti taip:
 
 6. Apeliaciniame skunde negalima kelti reikalavimų, kurie nebuvo pareikšti nagrinėjant bylą pirmosios instancijos teisme. Naujais reikalavimais nelaikomi reikalavimai, neatsiejamai susiję su jau pareikštais reikalavimais.“
 
-\#### 4 straipsnis. 52 straipsnio pakeitimas
+## 4 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 137 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Nagrinėjant apeliacinį skundą rašytinio proceso tvarka, teismo posėdžio garso įrašas nedaromas, posėdžio forma yra laisva. Teismo sprendimas ar nutartis per tris darbo dienas nuo jų priėmimo išsiunčiami proceso šalims paštu arba šio įstatymo 75 straipsnio 7 dalyje numatytais atvejais – elektroninių ryšių priemonėmis.“
 
-\#### 5 straipsnis. 60 straipsnio pakeitimas
+## 5 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 157 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) prašymo surašymo vieta, data, pareiškėjo parašas.Kai prašymas pateikiamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Teismų įstatyme nustatytais būdais. Šiais atvejais laikoma, kad prašymas yra pasirašytas.“
 
-\#### 6 straipsnis. 61 straipsnio 5, 6 ir 7 dalių pakeitimas
+## 6 straipsnis. 61 straipsnio 5, 6 ir 7 dalių pakeitimas
 
 1. Pakeisti 61 straipsnio 5 dalį ir ją išdėstyti taip:
 

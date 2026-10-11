@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2E7312A77614"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2E7312A77614.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 8 straipsnių ir 3 priedėlio pakeitimo ir papildymo įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 2005, Nr. [47-1560](https://www.e-tar.lt/portal/lt/legalAct/TAR.C676166A3124); 2006, Nr. [32-1111](https://www.e-tar.lt/portal/lt/legalAct/TAR.91E28C9B2D4F); 2009, Nr. [61-2404](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFB56689A68))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Buvusią 2 straipsnio 18 dalį laikyti 9 dalimi, ją pakeisti ir išdėstyti taip:
 
@@ -62,7 +62,7 @@ Vilnius
 
 7. Buvusias 2 straipsnio 15, 16, 17 dalis laikyti atitinkamai 16, 17, 18 dalimis.
 
-\#### 2 straipsnis. 5 straipsnio 6 dalies pakeitimas ir straipsnio papildymas 7 dalimi
+## 2 straipsnis. 5 straipsnio 6 dalies pakeitimas ir straipsnio papildymas 7 dalimi
 
 1. Pakeisti 5 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -72,27 +72,23 @@ Vilnius
 
 „7. Nuo mokesčio už aplinkos teršimą pakuotės atliekomis atleidžiami gamintojai ir importuotojai, per mokestinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių ir tvarkantys pakuočių ir pakuočių atliekų apskaitą aplinkos ministro nustatyta tvarka.“
 
-\#### 3 straipsnis. 8 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 4 dalies pakeitimas
 
 Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Mokestis už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokamas pagal faktiškai per mokestinį laikotarpį tiektą Lietuvos Respublikos vidaus rinkai apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės kiekį.“
 
-\#### 4 straipsnis. Įstatymo 3 priedėlio pakeitimas
+## 4 straipsnis. Įstatymo 3 priedėlio pakeitimas
 
 Pakeisti Įstatymo 3 priedėlio 3, 4, 5 ir 6 punktus ir juos išdėstyti taip:
 
-\| „3. Baterijos (galvaniniai elementai) | 85.06 | 10 Lt už 1 kg |
+| „3. Baterijos (galvaniniai elementai) | 85.06 | 10 Lt už 1 kg |
+| --- | --- | --- |
+| 4. Vidaus degimo variklių degalų arba tepalų filtrai | 8421.23 | 1,6 Lt už 1 kg |
+| 5. Vidaus degimo variklių įsiurbimo oro filtrai | 8421.31 | 1,6 Lt už 1 kg |
+| 6. Automobilių hidrauliniai (tepaliniai) amortizatoriai | 8708.80 | 1,2 Lt už 1 kg“ |
 
-\| --- | --- | --- |
-
-\| 4. Vidaus degimo variklių degalų arba tepalų filtrai | 8421.23 | 1,6 Lt už 1 kg |
-
-\| 5. Vidaus degimo variklių įsiurbimo oro filtrai | 8421.31 | 1,6 Lt už 1 kg |
-
-\| 6. Automobilių hidrauliniai (tepaliniai) amortizatoriai | 8708.80 | 1,2 Lt už 1 kg“ |
-
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

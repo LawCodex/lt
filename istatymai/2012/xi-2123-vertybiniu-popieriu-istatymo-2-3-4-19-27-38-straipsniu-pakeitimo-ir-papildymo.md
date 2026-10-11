@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A091BB4874D6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A091BB4874D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymo 2, 3, 4, 19, 27, 38 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 47-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2007, Nr. [17-626](https://www.e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616); 2011, Nr. [145-6819](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAD38A37BFB9), Nr. [163-7771](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF71F094B713))
 
-\#### 1 straipsnis. 2 straipsnio 4 dalies, 37 dalies 1 punkto ir 48 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 4 dalies, 37 dalies 1 punkto ir 48 dalies pakeitimas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -46,25 +46,25 @@ Vilnius
 
 „48.**Kolektyvinio investavimo subjekto valdymo įmonė** (toliau – **valdymo įmonė**) – kaip tai apibrėžta Kolektyvinio investavimo subjektų įstatyme.“
 
-\#### 2 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo antrasis skirsnis taip pat taikomas uždarojo tipo kolektyvinio investavimo subjektų investiciniams vienetams ar akcijoms. Šio įstatymo trečiasis skirsnis taip pat taikomas uždarojo tipo kolektyvinio investavimo subjektų investiciniams vienetams ar akcijoms, kuriomis leista prekiauti reguliuojamoje rinkoje.“
 
-\#### 3 straipsnis. 4 straipsnio 2 dalies 1 punkto pakeitimas
+## 3 straipsnis. 4 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 4 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) atvirojo tipo kolektyvinio investavimo subjektų leidžiamiems (išleistiems) vertybiniams popieriams;“.
 
-\#### 4 straipsnis. 19 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 19 straipsnio 4 dalies pakeitimas
 
 Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Šiame skirsnyje nustatyti reikalavimai netaikomi atvirojo tipo kolektyvinio investavimo subjektų leidžiamiems (išleistiems) vertybiniams popieriams.“
 
-\#### 5 straipsnis. 27 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 27 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
 
 5. Buvusias 27 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis.
 
-\#### 6 straipsnis. 38 straipsnio 5 dalies pakeitimas
+## 6 straipsnis. 38 straipsnio 5 dalies pakeitimas
 
 38 straipsnio 5 dalyje vietoj skaičiaus ir žodžio „30 dienų“ įrašyti skaičių ir žodį „21 dieną“ ir šią dalį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
 
 5) už akcijas siūloma preliminari kaina ir jos nustatymo būdas.“
 
-\#### 7 straipsnis. Įstatymo papildymas 471 straipsniu
+## 7 straipsnis. Įstatymo papildymas 471 straipsniu
 
 Papildyti Įstatymą 47^1 straipsniu:
 

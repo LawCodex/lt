@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4A3495BEC0BB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A3495BEC0BB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymo 2, 5, 31, 35, 36, 37, 38, 39 straipsnių papildymo ir pakeitimo įstatymo 1, 2, 3 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2009, Nr. [154-6949](https://www.e-tar.lt/portal/lt/legalAct/TAR.17C1FB492520))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 1 straipsnio 2 dalyje vietoj skaičių „15–53“ įrašyti skaičius „15–54“, vietoj skaičių „16–54“ įrašyti skaičius „16–55“ ir šią dalį išdėstyti taip:
 
 „2. Buvusias 2 straipsnio 15–54 dalis laikyti atitinkamai 16–55 dalimis.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „4. Vertybinių popierių, nurodytų šio straipsnio 2 dalyje, vėlesnis pardavimas laikomas atskiru siūlymu ir, vadovaujantis šio įstatymo 2 straipsnio 52 dalies nuostata, vertinama, ar toks siūlymas gali būti laikomas viešu siūlymu. Platinant vertybinius popierius per tarpininkus, prospektas turi būti skelbiamas tais atvejais, kai galutiniam siūlymui netaikoma nė viena iš šio straipsnio 2 dalyje nustatytų išimčių.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 

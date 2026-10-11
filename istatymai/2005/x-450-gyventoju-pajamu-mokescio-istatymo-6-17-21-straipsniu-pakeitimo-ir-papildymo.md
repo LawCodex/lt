@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F3F7168AFD0D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F3F7168AFD0D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 17, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [102-4586](https://www.e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [50-1633](https://www.e-tar.lt/portal/lt/legalAct/TAR.CE002F94C290), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15), Nr. [73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4), Nr. [98-3628](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B246085AC76), Nr. [158-5757](https://www.e-tar.lt/portal/lt/legalAct/TAR.770DDEDE7A78), Nr. [167-6108](https://www.e-tar.lt/portal/lt/legalAct/TAR.50CB57548C2E); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6), 2744, Nr. [81-2943](https://www.e-tar.lt/portal/lt/legalAct/TAR.908201CFCB80), Nr. [88-3293](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A19475ECAFE), Nr. [121-4332](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3513BAA7B85))
 
-\#### 1 straipsnis. 6 straipsnio 2 dalies 11, 12, 14, 15 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 2 dalies 11, 12, 14, 15 punktų pakeitimas
 
 1. 6 straipsnio 2 dalies 11 punkte po žodžio „išmokų“ įrašyti žodžius „mokamų pasibaigus draudimo sutarties galiojimo terminui“, po žodžio „nuostatas“ įrašyti žodžius „arba išmoką gaunančiam gyventojui yra nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai), arba išmoką gaunančiam neįgaliam vaikui yra nustatytas specialusis nuolatinės slaugos poreikis (ir iki 18 metų vaikams, kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia)“ ir šį punktą išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „15) grąžinamoms gyvybės draudimo įmokoms pagal nutrauktą gyvybės draudimo sutartį, sudarytą nuo 2004 m. gegužės 1 d. su Europos ekonominės erdvės valstybės narės draudimo įmone, kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui, jeigu sutartis nutraukta ne anksčiau kaip praėjus 10 metų nuo sutarties sudarymo dienos arba jeigu įmokos grąžinamos gyventojui, kuris yra sulaukęs pensinio amžiaus pagal Papildomo savanoriško pensijų kaupimo įstatymo nuostatas,arba gyventojui, kuriam nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai);“.
 
-\#### 2 straipsnis. 17 straipsnio 1 dalies 8, 10, 45 punktų pakeitimas ir dalies papildymas 50 punktu
+## 2 straipsnis. 17 straipsnio 1 dalies 8, 10, 45 punktų pakeitimas ir dalies papildymas 50 punktu
 
 1. 17 straipsnio 1 dalies 8 punkte po žodžių „(kitam negu sutarties galiojimo termino pabaiga), taip pat nutraukus tokias gyvybės draudimo sutartis, gyventojui mokamos sumos“ įrašyti žodžius „išmokos, mokamos įvykus draudiminiam įvykiui (kitam negu sutarties galiojimo termino pabaiga ar jos nutraukimas nepasibaigus terminui) pagal gyvybės draudimo sutartis, kuriose numatyta, kad draudimo išmoka išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui“ ir šį punktą išdėstyti taip:
 
@@ -64,13 +64,13 @@ Vilnius
 
 „50) išmokos pagal gyvybės draudimo sutartis, sudarytas po 2004 m. balandžio 30 d., kuriose numatyta, kad draudimo išmoka išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui, taip pat nutraukus tokias sutartis gyventojui mokamos sumos, jeigu pagal tokias sutartis įmokas mokėjo tik gyventojai ir jos nebuvo atimamos iš pajamų šio įstatymo nustatyta tvarka.“
 
-\#### 3 straipsnis. 21 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 21 straipsnio 2 dalies pakeitimas
 
 21 straipsnio 2 dalyje po žodžių „tais atvejais, kai“ išbraukti žodžius „ne vyresnis kaip 26 metų“ ir šią dalį išdėstyti taip:
 
 „2. Tais atvejais, kai studijuojantis nuolatinis Lietuvos gyventojas nėra pajamų mokesčio mokėtojas arba neturi galimybių pasinaudoti teise iš pajamų atimti sumokėtas už studijas, nurodytas šio straipsnio 1 dalies 4 punkte, išlaidas, šias išlaidas laikantis minėto punkto nuostatų gali iš savo pajamų atimti tėvai (įtėviai) arba globėjai, brolis, sesuo ir (arba) sutuoktinis (sugyventinis).“
 
-\#### 4 straipsnis. Įstatymo nuostatų taikymas
+## 4 straipsnis. Įstatymo nuostatų taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
 

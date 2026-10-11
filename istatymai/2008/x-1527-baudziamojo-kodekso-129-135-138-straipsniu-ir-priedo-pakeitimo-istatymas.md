@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BCB3FDD669C6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BCB3FDD669C6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 129, 135, 138 straipsnių ir priedo pakeitimo įstatymas
@@ -24,25 +24,25 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2004, Nr. [72-2492](https://www.e-tar.lt/portal/lt/legalAct/TAR.ECF5798E6803), Nr. [188-6995](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D7722C941FC); 2005, Nr. [81-2945](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC5B5908CC19); 2006, Nr. [77-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5BA1A8418B6); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC))
 
-\#### 1 straipsnis. 129 straipsnio 2 dalies 12 punkto pakeitimas
+## 1 straipsnis. 129 straipsnio 2 dalies 12 punkto pakeitimas
 
 Pakeisti 129 straipsnio 2 dalies 12 punktą ir jį išdėstyti taip:
 
 „12) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,“.
 
-\#### 2 straipsnis. 135 straipsnio 2 dalies 12 punkto pakeitimas
+## 2 straipsnis. 135 straipsnio 2 dalies 12 punkto pakeitimas
 
 Pakeisti 135 straipsnio 2 dalies 12 punktą ir jį išdėstyti taip:
 
 „12) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,“.
 
-\#### 3 straipsnis. 138 straipsnio 2 dalies 12 punkto pakeitimas
+## 3 straipsnis. 138 straipsnio 2 dalies 12 punkto pakeitimas
 
 Pakeisti 138 straipsnio 2 dalies 12 punktą ir jį išdėstyti taip:
 
 „12) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,“.
 
-\#### 4 straipsnis. Kodekso priedo pakeitimas ir papildymas
+## 4 straipsnis. Kodekso priedo pakeitimas ir papildymas
 
 1. Papildyti Kodekso priedą nauju 12 punktu:
 

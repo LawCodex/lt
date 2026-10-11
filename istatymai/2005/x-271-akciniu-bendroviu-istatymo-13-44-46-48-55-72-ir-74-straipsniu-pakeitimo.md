@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.63035C474AB7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.63035C474AB7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 13, 44, 46, 48, 55, 72 ir 74 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05))
 
-\#### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
 
 1. 13 straipsnio 4 dalyje po žodžio „sandoriams“ įrašyti žodžius „dėl vertybinių popierių“, vietoj žodžių „vertybinių popierių biržos centrinėje rinkoje“ įrašyti žodžius „reguliuojamoje rinkoje, išskyrus tiesioginius sandorius“ ir šią dalį išdėstyti taip:
 
 „4. Šio straipsnio reikalavimai netaikomi, kai turtas įsigyjamas verčiantis įprasta akcinės bendrovės ūkine veikla, taip pat sandoriams dėl vertybinių popierių, sudaromiems reguliuojamoje rinkoje, išskyrus tiesioginius sandorius.“
 
-\#### 2 straipsnis. 44 straipsnio 1 dalies ir 3 dalies 5 punkto pakeitimas
+## 2 straipsnis. 44 straipsnio 1 dalies ir 3 dalies 5 punkto pakeitimas
 
 1. 44 straipsnio 1 dalyje vietoj žodžių „per Lietuvos Respublikoje įregistruotą vertybinių popierių biržą“ įrašyti žodžius „pasitelkiant reguliuojamos rinkos operatoriaus technines priemones“ ir šią dalį išdėstyti taip:
 
@@ -44,19 +44,19 @@ Vilnius
 
 „5) akcinės bendrovės akcijų prospekto patvirtinimo pažymos data ir numeris, jei prospektas turi būti tvirtinamas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka.“
 
-\#### 3 straipsnis. 46 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 46 straipsnio 5 dalies pakeitimas
 
 46 straipsnio 5 dalyje vietoj žodžių „vertybinių popierių biržoje“ įrašyti žodžius „reguliuojamoje rinkoje“ ir šią dalį išdėstyti taip:
 
 „5. Šio straipsnio 3 ir 4 dalių reikalavimai netaikomi akcijų perleidimo sutartims, kurios sudaromos reguliuojamoje rinkoje.“
 
-\#### 4 straipsnis. 48 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 48 straipsnio 1 dalies pakeitimas
 
 Pakeisti 48 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Akcijos yra negaliojančios ir nesuteikia jų savininkams turtinių ir neturtinių teisių, jei buvo išleistos į antrinę apyvartą ir įsigytos nevisiškai apmokėtos bendrovės akcijos.“
 
-\#### 5 straipsnis. 55 straipsnio 1, 6, 7, 8 ir 9 dalių pakeitimas
+## 5 straipsnis. 55 straipsnio 1, 6, 7, 8 ir 9 dalių pakeitimas
 
 1. 55 straipsnio 1 dalyje vietoj žodžių „skolos vertybinis popierius“ įrašyti žodžius „ne nuosavybės vertybinis popierius“ ir šią dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 48 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „6. Akcinė bendrovė prieš išleisdama viešai platinamas obligacijas turi sudaryti sutartį su vertybinių popierių viešosios apyvartos tarpininku. Šia sutartimi vertybinių popierių viešosios apyvartos tarpininkas įsipareigoja ginti tam tikros emisijos obligacijų savininkų interesus santykiuose su akcine bendrove, o akcinė bendrovė įsipareigoja jam už tai atlyginti. Vertybinių popierių viešosios apyvartos tarpininkas privalo taip ginti obligacijų savininkų teises ir teisėtus interesus, kaip jis gintų savo teises ir teisėtus interesus būdamas visų šios emisijos obligacijų savininkas. Vertybinių popierių viešosios apyvartos tarpininkas turi teisę kreiptis į teismą, kad būtų apgintos obligacijų savininkų teisės.“
 
-\#### 6 straipsnis. 72 straipsnio 8 dalies 2 punkto ir 14 dalies 1 punkto pakeitimas
+## 6 straipsnis. 72 straipsnio 8 dalies 2 punkto ir 14 dalies 1 punkto pakeitimas
 
 1. Pakeisti 72 straipsnio 8 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 48 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1) akcijų prospektas patvirtintas vertybinių popierių rinką reglamentuojančių teisės aktų nustatytais atvejais ir tvarka;“.
 
-\#### 7 straipsnis. 74 straipsnio 2 dalies 3 punkto pakeitimas
+## 7 straipsnis. 74 straipsnio 2 dalies 3 punkto pakeitimas
 
 Pakeisti 74 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5A7AFA3A0DEF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5A7AFA3A0DEF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 17, 19, 20, 21, 27, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3046](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E); 2008, Nr. [137-5370](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A9825575BCD))
 
-\#### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šis įstatymas taikomas viešojo sektoriaus subjektams. Juridiniai asmenys, kurių akcininkai (dalininkai) yra viešojo sektoriaus subjektai, ir valstybės bei savivaldybių įmonės (toliau – įmonės ir įstaigos) bei Lietuvos bankas teikia savo finansines ataskaitas, parengtas pagal jų finansinę atskaitomybę reglamentuojančius teisės aktus, tiems viešojo sektoriaus subjektams, kurie į savo finansines ataskaitas teisės aktų nustatyta tvarka įtraukia šių įmonių ir įstaigų bei Lietuvos banko finansinių ataskaitų duomenis.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. 2 straipsnio 11 dalį pripažinti netekusia galios.
 
@@ -96,7 +96,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „40. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Buhalterinės apskaitos įstatyme, Valstybės iždo įstatyme, Biudžeto sandaros įstatyme, Valstybinio socialinio draudimo įstatyme, Valstybinio socialinio draudimo fondo biudžeto sandaros įstatyme, Sveikatos draudimo įstatyme, Valstybės kontrolės įstatyme, Mokslo ir studijų įstatyme, Švietimo įstatyme, Profesinio mokymo įstatyme ir Socialinių paslaugų įstatyme.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 Ataskaitų rinkiniai yra aukštesniojo ir žemesniojo lygio. Žemesniojo lygio ataskaitų rinkinius rengia kiekvienas viešojo sektoriaus subjektas ir viešojo sektoriaus subjektų grupė. Aukštesniojo lygio tarpinių ir metinių konsoliduotųjų biudžeto vykdymo ir metinių konsoliduotųjų finansinių ataskaitų rinkinius rengia valstybė ir savivaldybės.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -112,7 +112,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Viešojo sektoriaus subjekto tarpinių ataskaitų rinkinio (toliau – tarpinės ataskaitos) sudėtį nustato finansų ministras.“
 
-\#### 5 straipsnis. 19 straipsnio 5 ir 6 dalių pakeitimas
+## 5 straipsnis. 19 straipsnio 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -122,13 +122,13 @@ Viešojo sektoriaus subjekto tarpinių ataskaitų rinkinio (toliau – tarpinės
 
 „6. Viešojo sektoriaus subjektai, kurie į savo finansines ataskaitas įtraukia įmonių ir įstaigų, nurodytų šio įstatymo 1 straipsnio 3 dalyje, bei Lietuvos banko finansinius duomenis, gali reikalauti, kad įmonės ir įstaigos bei Lietuvos bankas jiems pateiktų finansinę informaciją, reikalingą viešojo sektoriaus subjektų finansinėms ataskaitoms parengti.“
 
-\#### 6 straipsnis. 20 straipsnio 2 dalies 4 punkto pakeitimas
+## 6 straipsnis. 20 straipsnio 2 dalies 4 punkto pakeitimas
 
 Pakeisti 20 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) kad konsoliduotojoje ataskaitoje pateikiami duomenys išreiškiami tūkstančiais Lietuvos Respublikos piniginių vienetų.“
 
-\#### 7 straipsnis. 21 straipsnio 1, 3 ir 6 dalių pakeitimas
+## 7 straipsnis. 21 straipsnio 1, 3 ir 6 dalių pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 20 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „6. Nukrypti nuo viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų galima tik esant aplinkybėms, nepriklausančioms nuo viešojo sektoriaus subjekto valios, suderinus su Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija). Informacija apie kiekvieną nukrypimą nuo viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų, apie nukrypimo priežastis ir poveikį viešojo sektoriaus subjekto turtui, finansavimo sumoms, įsipareigojimams, pajamoms ir sąnaudoms pateikiama finansinių ataskaitų aiškinamajame rašte.“
 
-\#### 8 straipsnis. 27 straipsnio pakeitimas
+## 8 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 Žemesniojo ir aukštesniojo lygio metinių konsoliduotųjų finansinių ataskaitų rinkinį ir nacionalinį finansinių ataskaitų rinkinį sudaro šio įstatymo 26 straipsnyje nurodytos konsoliduotosios finansinės ataskaitos.“
 
-\#### 9 straipsnis. 29 straipsnio pakeitimas
+## 9 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 Žemesniojo lygio konsoliduotųjų biudžeto vykdymo ataskaitų rinkinį sudaro šio įstatymo 28 straipsnio 1 dalyje nurodytos konsoliduotosios ataskaitos, o aukštesniojo lygio – šio įstatymo 28 straipsnio 2 dalyje nurodytos konsoliduotosios ataskaitos.“
 
-\#### 10 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 30 straipsnį ir jį išdėstyti taip:
 
@@ -168,7 +168,7 @@ Pakeisti ir papildyti 30 straipsnį ir jį išdėstyti taip:
 
 2. Nacionalinio ataskaitų rinkinio auditą atlieka Lietuvos Respublikos valstybės kontrolė.“
 
-\#### 11 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -178,7 +178,7 @@ Pakeisti ir papildyti 30 straipsnį ir jį išdėstyti taip:
 
 „2. Viešojo sektoriaus subjektų grupės konsoliduotąsias ataskaitas pasirašo teisės aktų nustatyto (nustatytų) viešojo sektoriaus subjekto (subjektų) vadovas (vadovai) arba jo (jų) įgaliotas (įgalioti) administracijos vadovas (vadovai) teisės aktų nustatyta tvarka.“
 
-\#### 12 straipsnis. 32 straipsnio 1 dalies pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 12 straipsnis. 32 straipsnio 1 dalies pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti ir papildyti 30 straipsnį ir jį išdėstyti taip:
 
 2. 32 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 13 straipsnis. 33 straipsnio pakeitimas
+## 13 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -202,7 +202,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 5. Nacionalinį ataskaitų rinkinį kartu su valstybinio audito išvada savo interneto svetainėje skelbia Vyriausybės įgaliota institucija.“
 
-\#### 14 straipsnis. 35 straipsnio pavadinimo ir 3 dalies pakeitimas
+## 14 straipsnis. 35 straipsnio pavadinimo ir 3 dalies pakeitimas
 
 1. Pakeisti 35 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 „3. Už konsoliduotųjų ataskaitų parengimą, pateikimą teisės aktuose nurodytoms įstaigoms ir institucijoms ir paskelbimą laiku atsako teisės aktų nustatyto (nustatytų) atsakingo (atsakingų) viešojo sektoriaus subjekto (subjektų) vadovas (vadovai) arba jo (jų) įgaliotas (įgalioti) administracijos vadovas (vadovai) teisės aktų nustatyta tvarka.“
 
-\#### 15 straipsnis. 36 straipsnio 2 ir 3 dalių pakeitimas
+## 15 straipsnis. 36 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti taip:
 

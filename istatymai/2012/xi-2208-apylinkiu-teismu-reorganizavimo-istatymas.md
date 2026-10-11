@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1FF9BAB8CA20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1FF9BAB8CA20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos apylinkių teismų reorganizavimo įstatymas
@@ -22,11 +22,11 @@ LIETUVOS RESPUBLIKOS APYLINKIŲ TEISMŲ REORGANIZAVIMO Į S T A T Y M A S
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Kauno miesto apylinkės teismo, Kauno rajono apylinkės teismo, Šiaulių miesto apylinkės teismo, Šiaulių rajono apylinkės teismo, Vilniaus miesto 1 apylinkės teismo, Vilniaus miesto 2 apylinkės teismo, Vilniaus miesto 3 apylinkės teismo, Vilniaus miesto 4 apylinkės teismo reorganizavimo būdą ir sąlygas.
 
-\#### 2 straipsnis. Reorganizavimo būdas
+## 2 straipsnis. Reorganizavimo būdas
 
 1. Kauno miesto apylinkės ir Kauno rajono apylinkės teismai reorganizuojami sujungimo būdu, šiuos teismus sujungiant į Kauno apylinkės teismą.
 
@@ -34,7 +34,7 @@ Vilnius
 
 3. Vilniaus miesto 1 apylinkės, Vilniaus miesto 2 apylinkės, Vilniaus miesto 3 apylinkės ir Vilniaus miesto 4 apylinkės teismai reorganizuojami sujungimo būdu, šiuos teismus sujungiant į Vilniaus miesto apylinkės teismą.
 
-\#### 3 straipsnis. Reorganizavimo sąlygos
+## 3 straipsnis. Reorganizavimo sąlygos
 
 1. Šiuo įstatymu patvirtinami:
 
@@ -46,7 +46,7 @@ Vilnius
 
 2. Visos po reorganizavimo pasibaigusių apylinkių teismų teisės ir pareigos po reorganizavimo veikiantiems apylinkių teismams pereina nuo 2013 m. sausio 1 d.
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo nuostatos neturi įtakos iki šio įstatymo 3 straipsnio 2 dalyje nurodytos datos paskirtų reorganizuojamų apylinkių teismų teisėjų įgaliojimų vykdymui.
 

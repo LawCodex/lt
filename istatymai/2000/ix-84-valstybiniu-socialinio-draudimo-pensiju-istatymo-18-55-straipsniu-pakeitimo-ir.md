@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AA5208A8C431"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA5208A8C431.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 18, 55 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D), Nr. [101-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41))
 
-\#### 1 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 18 straipsnio 1 dalyje išbraukti žodžius ir skaičius „nuo 2009 metų sausio 1 dienos“, 2 dalyje vietoj skaičiaus ir žodžio „55 straipsnyje“ įrašyti skaičių ir žodžius „55 straipsnio antrojoje dalyje“ ir šį straipsnį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Senatvės pensijos amžius nustatomas 60 metų moterims, 62 metai ir 6 mėnesiai
 
 Šio straipsnio įsigaliojimo tvarka nustatoma šio įstatymo 55 straipsnio antrojoje dalyje.“
 
-\#### 2 straipsnis. 55 straipsnio 2 dalies pakeitimas ir papildymas
+## 2 straipsnis. 55 straipsnio 2 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 55 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Nuo 1995 ir kiekvienų vėlesnių metų sausio 1dienos iki 2001 metų sausio 1dienos senatvės pensijos amžius kasmet didinamas: moterims – keturiais mėnesiais per metus, vyrams – dviem mėnesiais per metus. Nuo 2001 metų sausio 1 dienos ir kiekvienų vėlesnių metų sausio 1 dienos senatvės pensijos amžius didinamas moterims ir vyrams šešiais mėnesiais per metus, kol pasieks šio įstatymo 18 straipsnyje nustatytą senatvės pensijos amžių: moterims – 60 metų, vyrams – 62 metus ir 6 mėnesius.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

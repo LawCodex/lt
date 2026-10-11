@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F1A2663D0C35"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F1A2663D0C35.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 32 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin.,1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 2004, Nr. [4-47](https://www.e-tar.lt/portal/lt/legalAct/TAR.691728933211); 2007, Nr. [132-5357](https://www.e-tar.lt/portal/lt/legalAct/TAR.8215BDD3718D); 2008, Nr. [149-6038](https://www.e-tar.lt/portal/lt/legalAct/TAR.821DFFEABF3F); 2010, Nr. [153-7781](https://www.e-tar.lt/portal/lt/legalAct/TAR.770B55F0D900); 2012, Nr. [126-6323](https://www.e-tar.lt/portal/lt/legalAct/TAR.B31C347EE7ED))
 
-\#### 1 straipsnis. 32 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 32 straipsnio 1 dalies pakeitimas
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) savivaldybių biudžetų lėšas pervesdami iš savivaldybių biudžetų asignavimų valdytojų ir jiems pavaldžių biudžetinių įstaigų bei kitų subjektų disponuojamų sąskaitų į savivaldybių biudžetų sąskaitas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

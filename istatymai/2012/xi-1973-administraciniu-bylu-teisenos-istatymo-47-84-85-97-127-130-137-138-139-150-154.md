@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.84BFE5BF1384"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.84BFE5BF1384.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 47, 84, 85, 97, 127, 130, 137, 138, 139, 150, 154 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 47-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8); 2006, Nr. [102-3957](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6CFA5BCCCF8); 2009, Nr. [144-6348](https://www.e-tar.lt/portal/lt/legalAct/TAR.A015092781AE); 2011, Nr. [85-4131](https://www.e-tar.lt/portal/lt/legalAct/TAR.95FC10994CBA))
 
-\#### 1 straipsnis. 47 straipsnio 1 ir 7 dalių pakeitimas
+## 1 straipsnis. 47 straipsnio 1 ir 7 dalių pakeitimas
 
 1. 47 straipsnio 1 dalyje po žodžio „turi“ įrašyti žodžius „nedelsdami nusišalinti arba“ ir šią dalį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „7. Pakartotinis nušalinimas negali būti grindžiamas tais pačiais argumentais, kuriais grįstas nušalinimas buvo atmestas.“
 
-\#### 2 straipsnis. Įstatymo papildymas 471 straipsniu
+## 2 straipsnis. Įstatymo papildymas 471 straipsniu
 
 Papildyti Įstatymą 47^1 straipsniu:
 
@@ -54,7 +54,7 @@ Papildyti Įstatymą 47^1 straipsniu:
 
 7. Nukentėjusio nuo piktnaudžiavimo nušalinimo teise asmens motyvuotu prašymu visa ar dalis baudos, skirtos nušalinimo teise piktnaudžiaujančiam asmeniui, gali būti skiriama nukentėjusio nuo piktnaudžiavimo nušalinimo teise asmens naudai. Teisę skirti baudą nušalinimo teise piktnaudžiaujančiam asmeniui turi ir šio straipsnio 4 dalyje nurodyti asmenys, spręsdami nušalinimo klausimą.“
 
-\#### 3 straipsnis. 84 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 84 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 84 straipsnį ir jį išdėstyti taip:
 
@@ -76,31 +76,31 @@ Pakeisti ir papildyti 84 straipsnį ir jį išdėstyti taip:
 
 2. Administracinę bylą nagrinėjantis teismas turi teisę skirti baudą fiziniams ir juridiniams asmenims, jų atstovams iki 1 000 litų, o pareigūnams ar institucijų ir įstaigų atstovams – iki 2 000 litų už kiekvieną pažeidimo atvejį, išskyrus šio straipsnio 1 dalies 5 punkte nustatytą atvejį. Nušalinimo teise piktnaudžiaujančiam asmeniui teismas turi teisę skirti iki 5 000 litų baudą. Dėl pirmosios instancijos teismo nutarties skirti baudą gali būti duodamas atskirasis skundas.“
 
-\#### 4 straipsnis. 85 straipsnio 5 dalies pakeitimas
+## 4 straipsnis. 85 straipsnio 5 dalies pakeitimas
 
 Pakeisti 85 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5.Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip dvidešimčiai dienų. Dėl svarbių priežasčių administracinę bylą nagrinėjančio teisėjo ar administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šį terminą ne ilgiau kaip dvidešimčiai dienų. Kada bus skelbiamas teismo sprendimas, pranešama bylos šalims. Kol rengiamas teismo sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Teismo sprendimą, kurio priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant. Visi esantys posėdžių salėje asmenys skelbiamą teismo sprendimą išklauso stovėdami. Išimtiniais atvejais teismas gali leisti skelbiamą teismo sprendimą išklausyti sėdint.“
 
-\#### 5 straipsnis. 97 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 97 straipsnio 2 dalies pakeitimas
 
 97 straipsnio 2 dalyje vietoj žodžių „teismo antstolių kontorai prie apylinkės teismo“ įrašyti žodį „antstoliui“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu per penkiolika dienų ar teismo nustatytą terminą sprendimas neįvykdomas, pareiškėjo prašymu atitinkamas administracinis teismas išduoda jam vykdomąjį raštą kartu nurodydamas jį vykdyti antstoliui pagal atsakovo buveinės vietą Civilinio proceso kodekso nustatyta tvarka.“
 
-\#### 6 straipsnis. 127 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 127 straipsnio 2 dalies pakeitimas
 
 127 straipsnio 2 dalyje vietoj žodžių „apeliacinis teismas“ įrašyti žodžius „apeliacinis arba pirmosios instancijos teismas, jeigu per jį paduodamas apeliacinis skundas“, po žodžių „dėl svarbios priežasties“ įrašyti žodžius „Dėl pirmosios instancijos teismo nutarties, kuria atsisakoma atnaujinti terminą apeliaciniam skundui paduoti, gali būti duodamas atskirasis skundas“ ir šią dalį išdėstyti taip:
 
 „2. Praleidus terminą apeliaciniam skundui paduoti, apelianto prašymu apeliacinisarba pirmosios instancijos teismas, jeigu per jį paduodamas apeliacinis skundas, skundo padavimo terminą gali atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties. Dėl pirmosios instancijos teismo nutarties, kuria atsisakoma atnaujinti terminą apeliaciniam skundui paduoti, gali būti duodamas atskirasis skundas.“
 
-\#### 7 straipsnis. 130 straipsnio 2 dalies papildymas 10 punktu
+## 7 straipsnis. 130 straipsnio 2 dalies papildymas 10 punktu
 
 Papildyti 130 straipsnio 2 dalį 10 punktu:
 
 „10) apelianto prašymas bylą nagrinėti žodinio proceso tvarka, kai apeliantas to pageidauja.“
 
-\#### 8 straipsnis. 137 straipsnio 1 ir 3 dalių pakeitimas
+## 8 straipsnis. 137 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 137 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -110,25 +110,25 @@ Papildyti 130 straipsnio 2 dalį 10 punktu:
 
 „3. Nagrinėjant apeliacinį skundą rašytinio proceso tvarka, teismo posėdžio garso įrašas nedaromas, posėdžio forma yra laisva. Teismo sprendimas ar nutartis per tris dienas nuo jų priėmimo dienos išsiunčiami proceso šalims.“
 
-\#### 9 straipsnis. 138 straipsnio papildymas 7 dalimi
+## 9 straipsnis. 138 straipsnio papildymas 7 dalimi
 
 Papildyti 138 straipsnį 7 dalimi:
 
 „7. Teismas paprastai neriboja proceso dalyvių kalbų trukmės, tačiau išimtiniais atvejais, atsižvelgdamas į nagrinėjamos bylos sudėtingumą ir konkrečias faktines aplinkybes, gali nustatyti kalbų trukmę.“
 
-\#### 10 straipsnis. 139 straipsnio 4 dalies pakeitimas
+## 10 straipsnis. 139 straipsnio 4 dalies pakeitimas
 
 Pakeisti 139 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip dvidešimčiai dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šį terminą ne ilgiau kaip dvidešimčiai dienų. Kada bus skelbiamas teismo sprendimas, pranešama bylos šalims.Kol rengiamas sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas.“
 
-\#### 11 straipsnis. 150 straipsnio 2 dalies pakeitimas
+## 11 straipsnis. 150 straipsnio 2 dalies pakeitimas
 
 150 straipsnio 2 dalyje vietoj žodžių „nagrinėja paprastai nekviesdamas bylos šalių“ įrašyti žodžius „paprastai nagrinėja rašytinio proceso tvarka“ ir šią dalį išdėstyti taip:
 
 „2. Teismas atskirąjį skundą paprastai nagrinėja rašytinio proceso tvarka.“
 
-\#### 12 straipsnis. 154 straipsnio pakeitimas
+## 12 straipsnis. 154 straipsnio pakeitimas
 
 Pakeisti 154 straipsnį ir jį išdėstyti taip:
 
@@ -138,11 +138,11 @@ Pakeisti 154 straipsnį ir jį išdėstyti taip:
 
 2. Apygardos administracinio teismo pirmininko siūlymu arba gavęs informaciją apie tai, kad gali būti proceso administracinėje byloje atnaujinimo pagrindų, išimtiniais atvejais teikimą atnaujinti procesą turi teisę paduoti Lietuvos vyriausiojo administracinio teismo pirmininkas. Lietuvos vyriausiojo administracinio teismo pirmininko teikimą nagrinėja didžiausią teisėjo darbo stažą turinčio teisėjo skiriama teisėjų kolegija. Teikimu išreiškiamas tik informacinio pobūdžio siūlymas svarstyti, ar nėra proceso atnaujinimo pagrindų, ir teisėjų kolegijai jis nėra privalomas.“
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas
+## 13 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 
-\#### 14 straipsnis. Įstatymo taikymas
+## 14 straipsnis. Įstatymo taikymas
 
 Apeliaciniai skundai, paduoti iki šio įstatymo įsigaliojimo, nagrinėjami iki šio įstatymo įsigaliojimo galiojusia tvarka.
 

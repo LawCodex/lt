@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.324E272F5F86"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.324E272F5F86.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 23 ir 29 straipsnių pakeitimo įstatymas
@@ -34,7 +34,7 @@ Vilnius
 
 „5) skiria ir atleidžia iš pareigų Vyriausybės įstaigų vadovus, ministrų teikimu skiria ir atleidžia iš pareigų ministerijų viceministrus, taip pat skiria Vyriausybės įstaigų vadovams ir ministrų teikimu ministerijų viceministrams drausmines nuobaudas;“.
 
-\#### 2 straipsnis. 29 straipsnio pakeitimas
+## 2 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 

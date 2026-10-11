@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D7C07B19B514"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D7C07B19B514.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 14 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 1994, Nr. [78-1463](https://www.e-tar.lt/portal/lt/legalAct/TAR.5653694FA9E6); 1995, Nr. [53-1304](https://www.e-tar.lt/portal/lt/legalAct/TAR.D9610257EFFE))
 
-\#### 1 straipsnis. 14 straipsnio papildymas
+## 1 straipsnis. 14 straipsnio papildymas
 
 1. Papildyti 14 straipsnį nauja ketvirtąja dalimi:
 

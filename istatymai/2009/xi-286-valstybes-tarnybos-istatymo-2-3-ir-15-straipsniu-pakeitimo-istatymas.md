@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A78D392AFACD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A78D392AFACD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2, 3 ir 15 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74); 2003, Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610), Nr. [116-5258](https://www.e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9); 2004, Nr. [4-32](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72); 2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B))
 
-\#### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
 
 Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. **Valstybės ir savivaldybių institucijos ir įstaigos –**atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms Viešojo administravimo įstatymo nustatyta tvarka yra suteikti viešojo administravimo įgaliojimai.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 3 straipsnio 1 dalyje po žodžio „viršenybės“ įrašyti žodį „teisėtumo“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos Respublikos valstybės tarnyba grindžiama įstatymų viršenybės, teisėtumo, lygiateisiškumo, lojalumo, politinio neutralumo, skaidrumo, atsakomybės už priimtus sprendimus, karjeros ir tarnybinio bendradarbiavimo principais.“
 
-\#### 3 straipsnis. 15 straipsnio 1 dalies 1 punkto pakeitimas
+## 3 straipsnis. 15 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 15 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 

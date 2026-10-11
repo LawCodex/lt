@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6E04FCC0BDCD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6E04FCC0BDCD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 19, 20, 21 straipsnių pakeitimo ir papildymo įstatymo pripažinimo negaliojančiu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3042](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE97D7E8C192))
 
-\#### 1 straipsnis. Įstatymo pripažinimas negaliojančiu
+## 1 straipsnis. Įstatymo pripažinimas negaliojančiu
 
 Pripažinti Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 19, 20, 21 straipsnių pakeitimo ir papildymo įstatymą negaliojančiu.
 

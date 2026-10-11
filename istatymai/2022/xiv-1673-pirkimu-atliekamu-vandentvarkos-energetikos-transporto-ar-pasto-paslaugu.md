@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/99ad32d0875811ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.99AD32D08758.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 straipsnių pakeitimo ir Įstatymo papildymo 90-1 straipsniu įstatymo Nr. XIV-546 2, 3, 12, 13, 19 straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu ir 11, 18 straipsnių pripažinimo netekusiais galios įstatymas
@@ -129,5 +129,3 @@ Pripažinti netekusiu galios 18 straipsnį.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_d33990792aa54dcead52bc570f57831c_end

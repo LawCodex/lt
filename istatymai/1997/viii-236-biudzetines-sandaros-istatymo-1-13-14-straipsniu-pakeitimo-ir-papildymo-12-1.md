@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.631C8EC40B35"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.631C8EC40B35.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžetinės sandaros įstatymo 1, 13, 14 straipsnių pakeitimo ir papildymo 12(1) straipsniu įstatymas
@@ -32,13 +32,13 @@ Nr. 54-1049; 1995, Nr. 18-404, Nr. 47-1136, Nr. 92-2056; 1996, Nr. 48-1141, Nr. 
 
 1344)
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 1 straipsnio 2 dalyje po trečiojo sakinio įrašyti sakinį „Savivaldybės iš valstybės biudžeto gautus asignavimus, panaudotus ne pagal tikslinę paskirtį arba likusius nepanaudotus, grąžina į valstybės biudžetą“, po žodžių „Užsienio reikalų ministerijai“ įrašyti žodžius „ir Krašto apsaugos ministerijai“, vietoj žodžių „diplomatinėse atstovybėse“ įrašyti žodžius „diplomatinių atstovybių bei karo atašė sąskaitose“ ir šią dalį išdėstyti taip:
 
 „Biudžetai sudaromi vieneriems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai. Į atitinkamų biudžetų pajamas įskaitomos mokėtojų įmokos, pervestos iki gruodžio 31 dienos įskaitytinai. Metams pasibaigus, nepanaudotus Lietuvos Respublikos valstybės ir savivaldybių biudžetų asignavimų likučius asignavimų valdytojai grąžina atitinkamiems biudžetams iki sausio 10 dienos. Savivaldybės iš valstybės biudžeto gautus asignavimus, panaudotus ne pagal tikslinę paskirtį arba likusius nepanaudotus, grąžina į valstybės biudžetą. Užsienio reikalų ministerijai ir Krašto apsaugos ministerijai paliekami mėnesio išlaidų dydžio pereinamieji lėšų likučiai, esantys Lietuvos Respublikos diplomatinių atstovybių bei karo atašė sąskaitose užsienyje.“
 
-\#### 2 straipsnis. Įstatymo papildymas 121 straipsniu.
+## 2 straipsnis. Įstatymo papildymas 121 straipsniu.
 
 Papildyti Įstatymą 12^1 straipsniu:
 
@@ -46,7 +46,7 @@ Papildyti Įstatymą 12^1 straipsniu:
 
 Valstybės biudžeto pajamų dalyje rodoma biudžetiniais metais valstybės pasiskolintų lėšų suma ir anksčiau perduotų ūkio subjektams valstybės pasiskolintų lėšų grąžintina suma.“
 
-\#### 3 straipsnis. 13 straipsnio papildymas
+## 3 straipsnis. 13 straipsnio papildymas
 
 1. Papildyti 13 straipsnio 1 dalį nauju 14 punktu:
 
@@ -58,7 +58,7 @@ Valstybės biudžeto pajamų dalyje rodoma biudžetiniais metais valstybės pasi
 
 „Valstybės reikmėms skolintos lėšos paskirstomos pagal jų skolinimosi tikslinę paskirtį.“
 
-\#### 4 straipsnis. 14 straipsnio pakeitimas
+## 4 straipsnis. 14 straipsnio pakeitimas
 
 14 straipsnio antrajame sakinyje po žodžio „apmokėti“ įrašyti žodžius „paprastosioms išlaidoms, iš jų darbo užmokesčiui, ir nepaprastosioms“, vietoj žodžių „(išskyrus išlaidas valdymo aparatui išlaikyti)“ įrašyti žodžius „(išskyrus valdymo išlaidas darbo užmokesčiui)“ ir šį straipsnį išdėstyti taip:
 

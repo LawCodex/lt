@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.42B2B5D8CA14"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.42B2B5D8CA14.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo 1, 2, 57 straipsnių pakeitimo ir papildymo bei priedo papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2003, Nr. [94-4246](https://www.e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 8 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 8 dalimi
 
 Papildyti 1 straipsnį 8 dalimi:
 
 „8. Šio Įstatymo nuostatomis įgyvendinami Europos Sąjungos teisės aktai nurodyti Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio 30 dalies 2 punkto pakeitimas
+## 2 straipsnis. 2 straipsnio 30 dalies 2 punkto pakeitimas
 
 Pakeisti 2 straipsnio 30 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) yra registruota bet kurios rūšies transporto priemonė, su kuria susijusi draudimo sutartis. Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo atveju pagal šį punktą Europos Sąjungos valstybe nare, kurioje yra draudimo rizika, taip pat laikoma ta Europos Sąjungos valstybė narė, į kurią įvežama transporto priemonė, kurios įprastinė buvimo vieta yra kitoje Europos Sąjungos valstybėje narėje, 30 dienų laikotarpiu nuo pirkėjo patvirtinimo, kad transporto priemonė pristatyta;“.
 
-\#### 3 straipsnis. 57 straipsnio 3 dalies pripažinimas netekusia galios ir 4 dalies papildymas
+## 3 straipsnis. 57 straipsnio 3 dalies pripažinimas netekusia galios ir 4 dalies papildymas
 
 1. 57 straipsnio 3 dalį pripažinti netekusia galios.
 
@@ -48,7 +48,7 @@ Pakeisti 2 straipsnio 30 dalies 2 punktą ir jį išdėstyti taip:
 
 „4. Šiame straipsnyje numatytas atstovo paskyrimas ir atstovo Lietuvos Respublikoje buvimas nelaikomas kitos Europos Sąjungos valstybės narės draudimo įmonės filialu ar atstovybe ir biuru Lietuvos Respublikoje šio Įstatymo 2 straipsnio 54 dalies ir 6 straipsnio prasme. Tačiau atstovu gali būti paskirtas kitos Europos Sąjungos valstybės narės draudimo įmonės (tos pačios ar kitos nei atstovaujamoji įmonė) filialas, įsteigtas Lietuvos Respublikoje.“
 
-\#### 4 straipsnis. Įstatymo priedo papildymas
+## 4 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ priedas
 
 24. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/14/EB, iš dalies keičianti Tarybos direktyvas 72/166/EEB, 84/5/EEB, 88/357/EEB ir 90/232/EEB bei Europos Parlamento ir Tarybos direktyvą 2000/26/EB, susijusias su motorinių transporto priemonių valdytojų civilinės atsakomybės draudimu (OL 2005 m. L 149, p. 14).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2007 m. birželio 11 d.
 

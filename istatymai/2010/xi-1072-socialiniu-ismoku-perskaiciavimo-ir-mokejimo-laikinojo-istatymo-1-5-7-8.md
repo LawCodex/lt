@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9DA34EE6ABA4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9DA34EE6ABA4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 1, 5, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2009, Nr. [152-6820](https://www.e-tar.lt/portal/lt/legalAct/TAR.F412AFF35F51); 2010, Nr. [23-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.1D0E910641D7))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies 5 punkto pakeitimas ir straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio 2 dalies 5 punkto pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. Pakeisti 1 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Asmenims, kuriems valstybinės socialinio draudimo pensijos paskirtos vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais ir Lietuvos Respublikos sudarytų tarptautinių sutarčių dėl pensijų mokėjimo nuostatomis, taip pat asmenims, kurie kartu su valstybine socialinio draudimo pensija gauna užsienio valstybės pensiją, šis įstatymas taikomas, jeigu valstybinės socialinio draudimo senatvės pensijos, išskyrus šias pensijas gaunančius asmenis, kuriems nustatytas didelių specialiųjų poreikių lygis, netekto darbingumo pensijos asmenims, netekusiems 45–70 procentų darbingumo (II ir III grupių invalidumo pensijos), arba ištarnauto laiko pensijos ir užsienio valstybės pensijos dydžių suma viršija ribinį valstybinės socialinio draudimo pensijos dydį, o valstybinės socialinio draudimo našlaičių (maitintojo netekimo) ir užsienio valstybės pensijos dydžių suma viršija pusę ribinio valstybinės socialinio draudimo pensijos dydžio.“
 
-\#### 2 straipsnis. 5 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 2 straipsnis. 5 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,13 +48,13 @@ Vilnius
 
 „3. Šio straipsnio 2 dalies nuostatos netaikomos, jeigu išmokos gavėjas yra individualios įmonės savininkas, tikrosios ūkinės bendrijos narys ar komanditinės ūkinės bendrijos narys, tačiau individuali įmonė ar ūkinė bendrija veiklos laikinai nevykdo ir tai yra deklaruota Lietuvos Respublikos mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka arba individuali įmonė ar ūkinė bendrija teisės aktų nustatyta tvarka įgijo bankrutuojančio arba likviduojamo juridinio asmens teisinį statusą ir bankrutuojantis juridinis asmuo nevykdo ūkinės komercinės veiklos.“
 
-\#### 3 straipsnis. 7 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 7 straipsnio 4 dalies pakeitimas
 
 Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Asmenims, kurie gauna užsieniovalstybės pensiją, asmens teisė gauti kompensacinį priedą nustatoma asmeniui pateikus duomenis apie užsienio valstybės paskirtos pensijos dydį, jeigu Valstybinio socialinio draudimo fondo administravimo įstaigos neturi šių duomenų. Duomenis apie užsienio valstybės paskirtos pensijos dydį asmuo privalo teikti Valstybinio socialinio draudimo fondo administravimo įstaigai kas ketvirtį. Asmens teisė gauti kompensacinį priedą nustatoma sumuojant šio įstatymo 6 straipsnyje nustatyta tvarka asmens perskaičiuotos valstybinės socialinio draudimo pensijos dydį ir užsienio valstybės paskirtos pensijos dydį (toliau šiame straipsnyje – pensijų suma). Jeigu asmens iki perskaičiavimo gautų pensijų sumos dydis viršijo ribinį valstybinės socialinio draudimo pensijos dydį, tačiau po perskaičiavimo pensijų sumos dydis yra mažesnis negu ribinis valstybinės socialinio draudimo pensijos dydis, kompensacinio priedo dydis yra lygus ribinio valstybinės socialinio draudimo pensijos dydžio ir pensijų sumos po perskaičiavimo dydžio skirtumui. Kompensacinis priedas šiems asmenims mokamas taikant Valstybinių socialinio draudimo pensijų įstatymo 41 straipsnio 1 dalies nuostatas.“
 
-\#### 4 straipsnis. 8 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 4 straipsnis. 8 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -68,11 +68,11 @@ Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 2 dalies nuostatos netaikomos, jeigu pensijos gavėjas yra individualios įmonės savininkas, tikrosios ūkinės bendrijos narys ar komanditinės ūkinės bendrijos narys, tačiau individuali įmonė ar ūkinė bendrija veiklos laikinai nevykdo ir tai yra deklaruota Lietuvos Respublikos mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka arba individuali įmonė ar ūkinė bendrija teisės aktų nustatyta tvarka įgijo bankrutuojančio arba likviduojamo juridinio asmens teisinį statusą ir bankrutuojantis juridinis asmuo nevykdo ūkinės komercinės veiklos.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja mėnesio, einančio po to mėnesio, kurį įstatymas paskelbtas leidinyje „Valstybės žinios“, pirmąją dieną.
 
-\#### 6 straipsnis. Įstatymo įgyvendinimas ir taikymas
+## 6 straipsnis. Įstatymo įgyvendinimas ir taikymas
 
 1. Savivaldybių administracijos per mėnesį nuo šio įstatymo įsigaliojimo Valstybinio socialinio draudimo fondo valdybos teritoriniams skyriams ir Užsienio išmokų tarnybai pateikia duomenis apie asmenis, kuriems iki šio įstatymo įsigaliojimo nustatytas didelių specialiųjų poreikių lygis.
 

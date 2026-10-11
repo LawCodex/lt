@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4cdeace02b4c11e78397ae072f58c508"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4CDEACE02B4C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės protokolo dėl Baltijos gynybos koledžo ir jo personalo statuso pakeitimo protokolo ratifikavimo
@@ -26,7 +26,7 @@ DĖL ESTIJOS RESPUBLIKOS VYRIAUSYBĖS, LATVIJOS RESPUBLIKOS VYRIAUSYBĖS IR LIET
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo pakeitimo protokolo ratifikavimas
+## 1 straipsnis. Protokolo pakeitimo protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi ir atsižvelgdamas į Respublikos Prezidento 2016 m. vasario 23 d. dekretą Nr. 1K-874, ratifikuoja 2016 m. birželio 14 d. Briuselyje pasirašytą Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės protokolo dėl Baltijos gynybos koledžo ir jo personalo statuso pakeitimo protokolą.
 

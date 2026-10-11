@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D36ECC8333E1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D36ECC8333E1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo ir Viešųjų pirkimų įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2002, Nr. [73-3086](https://www.e-tar.lt/portal/lt/legalAct/TAR.12825B0ADFAC); 2003, Nr. [73-3343](https://www.e-tar.lt/portal/lt/legalAct/TAR.FCADF8BCACE2), Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB), Nr. [104-4645](https://www.e-tar.lt/portal/lt/legalAct/TAR.529B982B975B); 2004, Nr. [54-1834](https://www.e-tar.lt/portal/lt/legalAct/TAR.F563A541C7E9), Nr. [73-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A69FC3C021A))
 
-\#### 1 straipsnis. 5 straipsnio papildymas 5 dalimi
+## 1 straipsnis. 5 straipsnio papildymas 5 dalimi
 
 Papildyti 5 straipsnį 5 dalimi:
 
@@ -40,7 +40,7 @@ Papildyti 5 straipsnį 5 dalimi:
 
 3) mokestinio laikotarpio paskutinę dieną vienetai turi socialinės įmonės statusą.“
 
-\#### 2 straipsnis. 58 straipsnio 16 dalies pakeitimas
+## 2 straipsnis. 58 straipsnio 16 dalies pakeitimas
 
 1. Pakeisti 58 straipsnio 16 dalies pirmąją pastraipą ir ją išdėstyti taip:
 
@@ -50,17 +50,12 @@ Papildyti 5 straipsnį 5 dalimi:
 
 „3 )juridiniai asmenys(išskyrus nurodytus šio Įstatymo 5 straipsnio 5 dalyje), kurių pajamos už pačių pagamintą produkciją sudaro daugiau kaip 50 procentų visų gautųpajamų ir kuriuose dirba riboto darbingumo asmenys, mažina apskaičiuotą pelno mokestį tokia tvarka:
 
-\| Riboto darbingumo asmenų dalis tarp visų dirbančių asmenų | Apskaičiuoto pelno mokesčio sumažinimas |
-
-\| --- | --- |
-
-\| Daugiau kaip 50 % | 100 % |
-
-\| 40–50 % | 75 % |
-
-\| 30–40 % | 50 % |
-
-\| 20–30 % | 25 % |
+| Riboto darbingumo asmenų dalis tarp visų dirbančių asmenų | Apskaičiuoto pelno mokesčio sumažinimas |
+| --- | --- |
+| Daugiau kaip 50 % | 100 % |
+| 40–50 % | 75 % |
+| 30–40 % | 50 % |
+| 20–30 % | 25 % |
 
 Asmenų, kuriems taikomas riboto darbingumo asmenų statusas, kategorijas, šių asmenų dalies tarp visų dirbančių asmenų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką nustato Lietuvos Respublikos Vyriausybė;“.
 
@@ -70,7 +65,7 @@ Asmenų, kuriems taikomas riboto darbingumo asmenų statusas, kategorijas, šių
 
 (Žin., 1998, Nr. [54-1492](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98); 2002, Nr. [60-2412](https://www.e-tar.lt/portal/lt/legalAct/TAR.89CCCC443F04))
 
-\#### 1 straipsnis. 13 straipsnio 1 dalies papildymas ir pakeitimas
+## 1 straipsnis. 13 straipsnio 1 dalies papildymas ir pakeitimas
 
 Papildyti 13 straipsnio 1 dalį nauju 2 punktu, buvusius 1 dalies 2, 3, 4 punktus laikyti atitinkamai 3, 4, 5 punktais ir šią dalį išdėstyti taip:
 
@@ -92,7 +87,7 @@ Papildyti 13 straipsnio 1 dalį nauju 2 punktu, buvusius 1 dalies 2, 3, 4 punktu
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 2002, Nr. [118-5296](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4EDFC59E1E8); 2003, Nr. [123-5579](https://www.e-tar.lt/portal/lt/legalAct/TAR.C44E0186D722); 2004, Nr. [7-130](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C7D419A96D5))
 
-\#### 1 straipsnis. 64 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 64 straipsnio 3 dalies pakeitimas
 
 Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -102,7 +97,7 @@ Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
 BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo įsigaliojimas
+## 1 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo pirmojo skirsnio nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 

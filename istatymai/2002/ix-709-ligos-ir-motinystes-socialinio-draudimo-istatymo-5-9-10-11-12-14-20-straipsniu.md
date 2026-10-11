@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8650B5014E08"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8650B5014E08.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 9, 10, 11, 12, 14, 20 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [111-3574](https://www.e-tar.lt/portal/lt/legalAct/TAR.068516AF734B))
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ir papildymas
+## 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ir papildymas
 
 1. 5 straipsnio 2 dalies 3 punkte išbraukti žodžius „apdraustiesiems asmenims, taip pat vaikų priežiūrai, jeigu vaikų įstaigose nustatytas infekcijų plitimą ribojantis režimas“ ir šį punktą išdėstyti taip:
 
@@ -38,19 +38,19 @@ Vilnius
 
 „5) vaikų priežiūrai, jeigu vaikų įstaigose nustatytas infekcijų plitimą ribojantis režimas.“
 
-\#### 2 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo invalidumo pensiją, ligos pašalpa 5 straipsnio 2 dalies 1 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per kalendorinius metus.“
 
-\#### 3 straipsnis. 10 straipsnio 3 dalies papildymas
+## 3 straipsnis. 10 straipsnio 3 dalies papildymas
 
 10 straipsnio 3 dalyje po žodžių „taip pat“ įrašyti žodžius „slaugančiam stacionare ir vaikų reabilitacijos įstaigoje“ ir šią dalį išdėstyti taip:
 
 „3. Turinčiam teisę gauti ligos pašalpą šio įstatymo 8 straipsnyje nustatyta tvarka šeimos nariui, globėjui, slaugančiam stacionare sergantį iki septynerių metų vaiką, taip pat slaugančiam stacionare ir vaikų reabilitacijos įstaigoje vaiką iki šešiolikos metų, sergantį sunkiomis ligomis, kurių sąrašą tvirtina Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijos, pašalpa iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus.“
 
-\#### 4 straipsnis. 11 straipsnio papildymas nauja 2 dalimi
+## 4 straipsnis. 11 straipsnio papildymas nauja 2 dalimi
 
 1. Papildyti 11 straipsnį nauja 2 dalimi:
 
@@ -58,7 +58,7 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Buvusias 11 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis.
 
-\#### 5 straipsnis. 12 straipsnio papildymas 2 dalimi
+## 5 straipsnis. 12 straipsnio papildymas 2 dalimi
 
 Papildyti 12 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -68,19 +68,19 @@ Papildyti 12 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo invalidumo pensiją, ligos pašalpa 5 straipsnio 2 dalies 4 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.“
 
-\#### 6 straipsnis. 14 straipsnio 1 dalies papildymas
+## 6 straipsnis. 14 straipsnio 1 dalies papildymas
 
 14 straipsnio 1 dalyje po žodžio „procentų“ įrašyti žodžius „ir ne didesnė kaip 100 procentų“ ir šią dalį išdėstyti taip:
 
 „1. Ligos pašalpa, kurią moka darbdavys 2 pirmąsias kalendorines nedarbingumo dienas, negali būti mažesnė negu 80 procentų ir ne didesnė kaip 100 procentų pašalpos gavėjo vidutinio darbo užmokesčio, apskaičiuoto Vyriausybės nustatyta tvarka.“
 
-\#### 7 straipsnis. 20 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 20 straipsnio 1 dalies pakeitimas
 
 20 straipsnio 1 dalyje vietoj žodžių „už laikotarpį“ įrašyti žodžius „vaiko priežiūros atostogų laikotarpiu“ ir šią dalį išdėstyti taip:
 
 „1. Motinystės (tėvystės) pašalpa mokama vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo atostogų pabaigos iki tol, kol vaikui sukanka vieneri metai.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
 

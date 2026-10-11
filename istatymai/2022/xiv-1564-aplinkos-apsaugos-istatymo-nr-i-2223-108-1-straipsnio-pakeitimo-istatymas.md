@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/74ed3e40721811edbc04912defe897d1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.74ED3E407218.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 108-1 straipsnio pakeitimo įstatymas
@@ -43,5 +43,3 @@ Lengvųjų ir (arba) labai lengvų plastikinių pirkinių maišelių, išskyrus 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_f460aa3a4e214e38b8b0b1ab830a1673_end

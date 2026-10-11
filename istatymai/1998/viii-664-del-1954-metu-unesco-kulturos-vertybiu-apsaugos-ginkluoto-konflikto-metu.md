@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BF0BE7087661"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BF0BE7087661.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvencijos ir jos Protokolo ratifikavimo
@@ -26,7 +26,7 @@ DĖL 1954 METŲ UNESCO KULTŪROS VERTYBIŲ APSAUGOS GINKLUOTO KONFLIKTO METU KON
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas
+## 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. vasario 5 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvenciją ir jos Protokolą“, ratifikuoja 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvenciją ir jos Protokolą.
 

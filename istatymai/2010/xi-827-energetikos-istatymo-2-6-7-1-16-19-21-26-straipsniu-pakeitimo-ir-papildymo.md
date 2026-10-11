@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9073CA3DCCD5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9073CA3DCCD5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 2, 6, 7-1, 16, 19, 21, 26 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2003, Nr. [69-3118](https://www.e-tar.lt/portal/lt/legalAct/TAR.16DE92067E6F); 2007, Nr. [55-2124](https://www.e-tar.lt/portal/lt/legalAct/TAR.429CC7FAB351); 2008, Nr. [135-5228](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA8FE0831A84); 2009, Nr. [10-352](https://www.e-tar.lt/portal/lt/legalAct/TAR.C9F8CAA2E2E3))
 
-\#### 1 straipsnis. 2 straipsnio 10, 22, 27 dalių pakeitimas ir straipsnio papildymas 29, 30 dalimis
+## 1 straipsnis. 2 straipsnio 10, 22, 27 dalių pakeitimas ir straipsnio papildymas 29, 30 dalimis
 
 1. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „30. **Valstybė narė**– bet kuri Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 6 straipsnio 14 punktą ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 6. Buvusius 6 straipsnio 19 ir 20 punktus laikyti atitinkamai 21 ir 22 punktais.
 
-\#### 3 straipsnis. 71 straipsnio 3 punkto pakeitimas ir 4 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 71 straipsnio 3 punkto pakeitimas ir 4 punkto pripažinimas netekusiu galios
 
 1. Pakeisti 71 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Vilnius
 
 2. Pripažinti 71 straipsnio 4 punktą netekusiu galios.
 
-\#### 4 straipsnis. 16 straipsnio pakeitimas
+## 4 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -230,19 +230,19 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 21. Valstybinės priežiūros ir (ar) kontrolės institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja licencijas, leidimus ar atestatus turinčių energetikos įmonių veiklą ir prižiūri, kaip jos laikosi licencijuojamos veiklos sąlygų. Valstybinės priežiūros ir (ar) kontrolės institucijos privalo nedelsdamos raštu informuoti licenciją, leidimą ar atestatą išdavusią instituciją apie energetikos įmonėse nustatytus licencijuojamos veiklos sąlygų pažeidimus.“
 
-\#### 5 straipsnis. 19 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 19 straipsnio 3 dalies pakeitimas
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Apie valstybinės svarbos energetikos objektų statybos ir naudojimo pradžią šiuos objektus nuosavybės teise turinčios ar kitais būdais valdančios energetikos įmonės privalo informuoti Energetikos ministeriją.“
 
-\#### 6 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Energijos vartojimo auditą atlieka atitinkamai Energetikos ministerijos ir Susisiekimo ministerijos nustatyta tvarka atestuoti specialistai.“
 
-\#### 7 straipsnis. 26 straipsnio pakeitimas
+## 7 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -254,7 +254,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 3. Komisija išankstine skundų nagrinėjimo ne teismo tvarka nagrinėja skundus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės joms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos tiekimo srautų balansavimo, kainų ir tarifų taikymo.“
 
-\#### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
 

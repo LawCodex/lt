@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/afc7c8a24cdb11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AFC7C8A24CDB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 27, 27-1, 27-2, 28, 37 ir 49 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ STATYBOS ĮSTATYMO NR. I-1240 24, 27, 271, 272, 28, 37 IR 49 STRAIPSNIŲ PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. 24 straipsnio pakeitimas
+## 1 straipsnis. 24 straipsnio pakeitimas
 
 1. Pakeisti 24 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „5. Jeigu pateikti ne visi specialiesiems reikalavimams išduoti privalomi pateikti dokumentai ar prašantis išduoti specialiuosius reikalavimus asmuo negali įgyvendinti statytojo (užsakovo) teisės pagal šio įstatymo 3 straipsnio 2 dalies 1 punkte (išskyrus atvejus, kai įgyvendinamas ypatingos valstybinės svarbos projektas ir yra priimtas Vyriausybės nutarimas, kuriuo patvirtintas ypatingos valstybinės svarbos projekto specialusis planas ir pradėta žemės paėmimo visuomenės poreikiams procedūra) ir 3 punkte nustatytus reikalavimus (šio straipsnio 4 dalyje nurodytų sutikimų pateikti neprivaloma), apie tai ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti specialiuosius reikalavimus pateikimo dienos pranešama prašymą pateikusiam asmeniui. Trūkstamiems dokumentams pateikti nustatomas 30 darbo dienų terminas. Jeigu per šį terminą prašymą pateikęs asmuo nepateikia trūkstamų dokumentų, jis per 3 darbo dienas nuo šio termino pabaigos dienos informuojamas, kad, norėdamas gauti specialiuosius reikalavimus, privalo teikti naują prašymą.“
 
-\#### 2 straipsnis. 27 straipsnio pakeitimas
+## 2 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -48,11 +48,11 @@ b) patalpos priskyrimas atitinkamai patalpų paskirties grupei;
 
 c) inžinerinio statinio priskyrimas atitinkamai inžinerinių statinių grupei;“.
 
-\#### 3 straipsnis. 271 straipsnio pakeitimas
+## 3 straipsnis. 271 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 27^1 straipsnio 1 dalies 18 punktą.
 
-\#### 4 straipsnis. 272 straipsnio pakeitimas
+## 4 straipsnis. 272 straipsnio pakeitimas
 
 1. Pakeisti 272 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,13 +74,13 @@ Pripažinti netekusiu galios 27^1 straipsnio 1 dalies 18 punktą.
 
 „13) kai suprojektuoti statiniai patenka į teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų asmenų pritarimai (derinimai) statinio projektui ar numatomai veiklai (jei šie pritarimai (derinimai) nepateikti su prašymu išduoti statybą leidžiantį dokumentą).“
 
-\#### 5 straipsnis. 28 straipsnio pakeitimas
+## 5 straipsnis. 28 straipsnio pakeitimas
 
 Papildyti 28 straipsnį 2^1 dalimi:
 
 „2^1. Statybos užbaigimo aktas gali būti surašomas šio straipsnio 2 dalyje nurodytiems statiniams ir jų priklausiniams, kurių statybai išduotas bendras statybą leidžiantis dokumentas.“
 
-\#### 6 straipsnis. 37 straipsnio pakeitimas
+## 6 straipsnis. 37 straipsnio pakeitimas
 
 1. Pakeisti 37 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ Papildyti 28 straipsnį 2^1 dalimi:
 
 „1^1. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), visuomenės informavimo apie numatomą statinių ir statinių dalių projektavimą ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras. Draudžiama skelbti vardą ir pavardę statytojo (užsakovo), kuris yra fizinis asmuo, ir kitų fizinių asmenų, išskyrus statinio projekto vadovą, statinio projekto dalių vadovus, statinio architektus, statinio projekto rengėjus, statinio projekto dalių rengėjus, asmenis, dalyvaujančius išduodant specialiuosius reikalavimus, prisijungimo prie inžinerinių tinklų ar susisiekimo komunikacijų sąlygas, tikrinant statinio projektą. Draudžiama skelbti fizinių asmenų asmens kodą, gimimo datą, gyvenamąją vietą.“
 
-\#### 7 straipsnis. 49 straipsnio pakeitimas
+## 7 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 49 straipsnio 8 dalį ir ją išdėstyti taip:
 
 2) veikla atitinka pagrindinę statinio ar patalpos paskirtį aplinkos ministro nustatytais atvejais ir veiklai naudojamos patalpos atitinka paskirties saugos ir veiklos privalomuosius reikalavimus.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 4 straipsnio 2 ir 3 dalys įsigalioja 2026 m. sausio 1 d.
 

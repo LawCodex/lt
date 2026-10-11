@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CE7DFC35F5BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CE7DFC35F5BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 14 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [64-1502](https://www.e-tar.lt/portal/lt/legalAct/TAR.C44837068B55); 2003, Nr. [117-5318](https://www.e-tar.lt/portal/lt/legalAct/TAR.42BFEC12C3F0))
 
-\#### 1 straipsnis. 14 straipsnio pakeitimas
+## 1 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 3. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų šalių į Lietuvos Respubliką ar išveža iš Lietuvos Respublikos į trečiąsias šalis grynųjų pinigų vienkartinę sumą, viršijančią 50 000 litų ar ją atitinkančią sumą užsienio valiuta.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas Įsigalioja nuo 2004 m. gegužės 1 d.
 

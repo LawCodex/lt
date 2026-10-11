@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F638076B3DBC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F638076B3DBC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 2, 55, 63, 64, 83, 102 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [63-2243](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485); 2007, Nr. [80-3220](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDBAB22F6A98), Nr. [114-4629](https://www.e-tar.lt/portal/lt/legalAct/TAR.47A63B418C5E); 2008, Nr. [149-6023](https://www.e-tar.lt/portal/lt/legalAct/TAR.C4E8B2366BEB))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 24 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 3. Buvusias 2 straipsnio 24–29 dalis laikyti atitinkamai 26–31 dalimis.
 
-\#### 2 straipsnis. 55 straipsnio pakeitimas
+## 2 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 Kredito ir mokėjimo įstaigos privalo pateikti mokesčių administratoriui informaciją apie Lietuvos ir užsienio juridinių asmenų (jų filialų ir atstovybių) bei fizinių asmenų atidarytas ir uždarytas visų rūšių sąskaitas. Informacija pateikiama Valstybinei mokesčių inspekcijai prie Finansų ministerijos raštu ne vėliau kaip per 3 darbo dienas nuo sąskaitos atidarymo ar uždarymo dienos arba kitais kredito ir mokėjimo įstaigos ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.“
 
-\#### 3 straipsnis. 63 straipsnio papildymas 3 dalimi
+## 3 straipsnis. 63 straipsnio papildymas 3 dalimi
 
 Papildyti 63 straipsnį 3 dalimi:
 
 „3. Mokėjimo įstaigoms *mutatis mutandis* taikomos šio straipsnio 1 ir 2 dalių nuostatos.“
 
-\#### 4 straipsnis. 64 straipsnio papildymas
+## 4 straipsnis. 64 straipsnio papildymas
 
 Papildyti 64 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Papildyti 64 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Mokėjimo įstaigoms mutatis mutandis taikomos šio straipsnio 1 dalies nuostatos.“
 
-\#### 5 straipsnis. 83 straipsnio 1 ir 2 dalių pakeitimas
+## 5 straipsnis. 83 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 83 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Papildyti 64 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „2. Mokestis ir su juo susijusios sumos laikomos sumokėtais, kai kredito įstaiga arba kitas mokėjimo paslaugų teikėjas įskaito į mokesčių administratoriaus sąskaitą atitinkamą mokesčių mokėtojo inicijuotą mokėjimo operacijos sumą Mokėjimų įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. 102 straipsnio pakeitimas
+## 6 straipsnis. 102 straipsnio pakeitimas
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
 

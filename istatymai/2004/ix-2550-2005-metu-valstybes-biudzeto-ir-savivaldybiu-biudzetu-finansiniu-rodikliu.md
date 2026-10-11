@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CBFDAF0B0432"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CBFDAF0B0432.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 2005 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
@@ -784,7 +784,7 @@ IŠ VISO
 
 13859660
 
-\* PVM
+* PVM
 
 340 mln. Lt bus gauti sėkmingai panaudojus Europos Sąjungos lėšas.
 
@@ -4034,7 +4034,7 @@ Iš viso:
 
 727285
 
-\* Iš šių lėšų 69800 tūkst. litų skirti
+* Iš šių lėšų 69800 tūkst. litų skirti
 
 bendroms biudžeto reikmėms.
 
@@ -8040,6 +8040,6 @@ Aušrinė Trapinskienė (2005-11-07)
 
 autrap@lrs.lt
 
-\* Iš šių lėšų
+* Iš šių lėšų
 
 69800 tūkst. litų skirti bendroms biudžeto reikmėms.

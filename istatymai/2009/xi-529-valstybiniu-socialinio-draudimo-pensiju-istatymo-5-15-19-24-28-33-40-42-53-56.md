@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.37D28B00E8C5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.37D28B00E8C5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 straipsnių pakeitimo ir papildymo įstatymo 13, 14 ir 15 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2008, Nr. [127-4833](https://www.e-tar.lt/portal/lt/legalAct/TAR.50FB23C65707), Nr. [149-6026](https://www.e-tar.lt/portal/lt/legalAct/TAR.4177750FC16B))
 
-\#### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo 2, 3, 4, 10, 11 ir 12 straipsniai ir 15 straipsnio 2 dalis įsigalioja 2012 m. sausio 1 d.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 Vyriausybė iki 2012 m. sausio 1 d. parengia ir priima šio įstatymo 13 straipsnio 2 dalyje nurodytiems straipsniams įgyvendinti reikalingus teisės aktus.“
 
-\#### 3 straipsnis. 15 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 15 straipsnio 2 dalies pakeitimas
 
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 

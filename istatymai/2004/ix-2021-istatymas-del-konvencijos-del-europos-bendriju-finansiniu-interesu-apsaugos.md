@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AF8F5DF85F9D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AF8F5DF85F9D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl Europos Bendrijų finansinių interesų apsaugos, parengtos vadovaujantis Europos Sąjungos sutarties K.3 straipsniu, ir jos protokolų, parengtų vadovaujantis Europos Sąjungos sutarties K.3 straipsniu, ratifikavimo
@@ -26,7 +26,7 @@ DĖL KONVENCIJOS DĖL EUROPOS BENDRIJŲ FINANSINIŲ INTERESŲ APSAUGOS, PARENGTO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ir jos protokolų ratifikavimas
+## 1 straipsnis. Konvencijos ir jos protokolų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 339, ratifikuoja:
 
@@ -38,15 +38,15 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 4) Antrąjį protokolą, parengtą vadovaujantis Europos Sąjungos sutarties K.3 straipsniu, pridedamą prie Konvencijos dėl Europos Bendrijų finansinių interesų apsaugos, priimtą 1997 m. birželio 19 d. Briuselyje.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlyga
+## 2 straipsnis. Lietuvos Respublikos išlyga
 
 Vadovaudamasis Protokolo, priimto 1996 m. rugsėjo 27 d., 6 straipsnio 2 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika netaikys jurisdikcijos taisyklių, nurodytų šio Protokolo 6 straipsnio 1 dalies c ir d punktuose.
 
-\#### 3 straipsnis. Lietuvos Respublikos pareiškimas
+## 3 straipsnis. Lietuvos Respublikos pareiškimas
 
 Vadovaudamasis Protokolo, priimto 1996 m. lapkričio 29 d., 2 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika pripažįsta Europos Bendrijų Teisingumo Teismo jurisdikciją šio Protokolo 2 straipsnio 2 dalies b punkte nustatytomis sąlygomis teikti preliminarius nutarimus dėl Konvencijos ir Protokolo, priimto 1996 m. rugsėjo 27 d., aiškinimo.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

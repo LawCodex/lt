@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4BB451F57E95"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4BB451F57E95.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 1999, Nr. [98-2810](https://www.e-tar.lt/portal/lt/legalAct/TAR.2588D87B5491), Nr. [113-3292](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CA111E5FFEF))
 
-\#### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 Pakeisti 7 straipsnio 2 dalies 3 punktą, papildyti 4 ir 5 punktais ir visą dalį išdėstyti taip:
 

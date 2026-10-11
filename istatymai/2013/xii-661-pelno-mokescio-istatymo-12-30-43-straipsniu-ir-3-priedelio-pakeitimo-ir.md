@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e9271cd089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E9271CD089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 12, 30, 43 straipsnių ir 3 priedėlio pakeitimo ir papildymo ĮSTATYMAS
@@ -32,7 +32,7 @@ Nr. 73-2534, Nr. 134-4836; 2005, Nr. 81-2942, Nr. 85-3141, Nr. 153-5635;
 
 2006, Nr. 116-4404; 2007, Nr. 55-2126, Nr. 117-4773; 2008, Nr. 47-1749, Nr. 87-3457, Nr. 149-6000; 2009, Nr. 25-976, Nr. 153-6880; 2011, Nr. 146-6852; 2013, Nr. 75-3757)
 
-\#### 1 straipsnis. 12 straipsnio 5 ir 16 punktų pakeitimas
+## 1 straipsnis. 12 straipsnio 5 ir 16 punktų pakeitimas
 
 1. Pakeisti 12 straipsnio 5 punktą ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Nr. 73-2534, Nr. 134-4836; 2005, Nr. 81-2942, Nr. 85-3141, Nr. 153-5635;
 
 „16) draudimo įmonių gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų arba jei draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, draudimo įmonių gyvybės draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas;“.
 
-\#### 2 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 30 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -54,19 +54,19 @@ Nr. 73-2534, Nr. 134-4836; 2005, Nr. 81-2942, Nr. 85-3141, Nr. 153-5635;
 
 3. Buvusias 30 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis.
 
-\#### 3 straipsnis. 43 straipsnio papildymas 7 dalimi
+## 3 straipsnis. 43 straipsnio papildymas 7 dalimi
 
 Papildyti 43 straipsnį 7 dalimi:
 
 „7. Šio straipsnio 4, 5 ir 6 dalyse nurodytas mokestinių nuostolių perkėlimas tęsiamas šio Įstatymo 30 straipsnyje nustatyta tvarka. Šio straipsnio 1 ir 2 dalyje nurodytas mokestinių nuostolių perkėlimas tęsiamas taip, kad tiek šiame straipsnyje nustatyta tvarka, tiek šio Įstatymo 30 straipsnyje nustatyta tvarka atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.“
 
-\#### 4 straipsnis. Įstatymo 3 priedėlio papildymas 11 punktu
+## 4 straipsnis. Įstatymo 3 priedėlio papildymas 11 punktu
 
 Papildyti Įstatymo 3 priedėlį 11 punktu:
 
 „11. 2013 m. gegužės 13 d. Tarybos direktyva 2013/13/ES, kuria dėl Kroatijos Respublikos stojimo adaptuojamos tam tikros mokesčių srities direktyvos (OL 2013 L 141, p. 30).“
 
-\#### 5 straipsnis. Įstatymo taikymas
+## 5 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo 1 straipsnio 1 dalies nuostatos taikomos apskaičiuojant 2013 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 

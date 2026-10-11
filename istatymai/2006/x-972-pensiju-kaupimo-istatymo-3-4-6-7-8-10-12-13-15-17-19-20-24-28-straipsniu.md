@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCC252BAF81"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FCC252BAF81.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo 3, 4, 6, 7, 8, 10, 12, 13, 15, 17, 19, 20, 24, 28 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 13(1) ir 18(1) straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [75-3472](https://www.e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7); 2004, Nr. [96-3521](https://www.e-tar.lt/portal/lt/legalAct/TAR.31256C6857AA), Nr. [171-6301](https://www.e-tar.lt/portal/lt/legalAct/TAR.2D5F7AB30172); 2005, Nr. [71-2554](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D1E439FB91A))
 
-\#### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 3 straipsnį nauja 19 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusias 3 straipsnio 19, 20 ir 21 dalis laikyti atitinkamai 20, 21 ir 22 dalimis.
 
-\#### 2 straipsnis. 4 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 4 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „8. VSDF valdyba, tvarkydama sutarčių registrą ir registruodama pensijų kaupimo sutartis ir jų pabaigą, privalo užtikrinti kiekvieno dalyvio dalyvavimo pensijų kaupime nepertraukiamumą.“
 
-\#### 3 straipsnis. 6 straipsnio 5, 8, 10 ir 11 dalių pakeitimas
+## 3 straipsnis. 6 straipsnio 5, 8, 10 ir 11 dalių pakeitimas
 
 1. Papildyti 6 straipsnio 5 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Vilnius
 
 „11. Dalyvis turi teisę vienašališkai nutraukti pirmą kartą sudarytą pensijų kaupimo sutartį raštu pranešęs pensijų kaupimo bendrovei per 30 kalendorinių dienų nuo sutarties sudarymo. Pensijų kaupimo bendrovė, gavusi dalyvio raštišką pranešimą, kad jis nori nutraukti sutartį, privalo per 3 darbo dienas apie tai pranešti VSDF valdybai. Pensijų kaupimo sutartis laikoma nutraukta, kai VSDF valdyba ją išregistruoja iš sutarčių registro. Pensijų kaupimo sutartis laikoma pirmą kartą sudaryta ir tuo atveju, jei dalyvis jau buvo pasinaudojęs teise nutraukti pensijų kaupimo sutartį šioje dalyje nustatytu pagrindu. Nutraukęs pensijų kaupimo sutartį šioje dalyje nustatyta tvarka, asmuo turi teisę sudaryti pensijų kaupimo sutartį su pasirinkta pensijų kaupimo bendrove ne anksčiau kaip kitų metų, einančių po pensijų kaupimo sutarties nutraukimo metų, sausio 1 dieną.“
 
-\#### 4 straipsnis. 7 straipsnio papildymas
+## 4 straipsnis. 7 straipsnio papildymas
 
 Papildyti 7 straipsnį 4 dalimi:
 
@@ -86,7 +86,7 @@ Papildyti 7 straipsnį 4 dalimi:
 
 2) informacija, kur galima gauti konservatyvaus investavimo pensijų fondo taisykles arba su jomis susipažinti.“
 
-\#### 5 straipsnis. 8 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 8 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -102,13 +102,13 @@ Papildyti 7 straipsnį 4 dalimi:
 
 4. Buvusią 8 straipsnio 9 dalį laikyti 10 dalimi.
 
-\#### 6 straipsnis. 10 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 10 straipsnio 2 dalies pakeitimas
 
 10 straipsnio 2 dalyje vietoj žodžių „administruojamame dalyvių“ įrašyti žodžius „tvarkomame sutarčių“, papildyti šią dalį sakiniu ir ją išdėstyti taip:
 
 „2. VSDF valdyba, remdamasi jos tvarkomame sutarčių registre esančia informacija apie dalyvių sudarytas pensijų kaupimo sutartis bei jų pasirinktus pensijų fondus, priskaičiuotas valstybinio socialinio draudimo įmokas už kiekvieną dalyvį perveda pensijų įmokas atitinkamiems pensijų kaupimo bendrovių valdomiems pensijų fondams. Pensijų įmokų apskaičiavimo ir pervedimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 7 straipsnis. 12 straipsnio pakeitimas
+## 7 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 2. Pensijų kaupimo bendrovė turi teisę kreiptis dėl kitų pensijų fondų taisyklių patvirtinimo tik pateikusi tvirtinti šio straipsnio 1 dalyje nurodyto pensijų fondo taisykles ar jas jau patvirtinus.“
 
-\#### 8 straipsnis. 13 straipsnio papildymas ir pakeitimas
+## 8 straipsnis. 13 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 13 straipsnio 1 dalį sakiniu ir šią dalį išdėstyti taip:
 
@@ -144,7 +144,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 3. Buvusią 13 straipsnio 3 dalį laikyti 5 dalimi.
 
-\#### 9 straipsnis. Įstatymo papildymas 131 straipsniu
+## 9 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -158,7 +158,7 @@ Papildyti Įstatymą 13^1 straipsniu:
 
 4. Pensijų kaupimo bendrovė privalo patvirtinti taisykles, nustatančias jos valdomų pensijų fondų lyginamųjų indeksų pasirinkimo ir keitimo kriterijus bei tvarką ir pateikti jas priežiūros institucijai. Pensijų fondo lyginamasis indeksas taip pat turi būti nurodytas pensijų kaupimo bendrovių veiklos ir finansinės būklės ataskaitose.“
 
-\#### 10 straipsnis. 15 straipsnio papildymas ir pakeitimas
+## 10 straipsnis. 15 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 15 straipsnį nauja 5 dalimi:
 
@@ -166,13 +166,13 @@ Papildyti Įstatymą 13^1 straipsniu:
 
 2. Buvusias 15 straipsnio 5, 6, 7 ir 8 dalis laikyti atitinkamai 6, 7, 8 ir 9 dalimis.
 
-\#### 11 straipsnis. 17 straipsnio papildymas 3 dalimi
+## 11 straipsnis. 17 straipsnio papildymas 3 dalimi
 
 Papildyti 17 straipsnį 3 dalimi:
 
 „3. Vertybinių popierių komisija turi teisę taikyti valdymo įmonėms Papildomo savanoriško pensijų kaupimo įstatyme numatytas poveikio priemones. Taikydama poveikio priemones, Vertybinių popierių komisija vadovaujasi Papildomo savanoriško pensijų kaupimo įstatymu tiek, kiek šis Įstatymas nenustato kitaip.“
 
-\#### 12 straipsnis. Įstatymo papildymas 181 straipsniu
+## 12 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti Įstatymą 18^1 straipsniu:
 
@@ -204,35 +204,35 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 7. Perduodant valdymo įmonės teises ir pareigas kitai pensijų kaupimo bendrovei, taikomos ir šio Įstatymo 8 straipsnyje nustatytos sąlygos.“
 
-\#### 13 straipsnis. 19 straipsnio 4 dalies pakeitimas
+## 13 straipsnis. 19 straipsnio 4 dalies pakeitimas
 
 19 straipsnio 4 dalyje vietoj skaičių „1–6“ įrašyti skaičius „1, 2, 3, 5, 6“, po žodžių „4 dalis“ įrašyti žodžius „54 straipsnį“ ir šią dalį išdėstyti taip:
 
 „4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms *mutatis mutandis*taikomi Papildomo savanoriško pensijų kaupimo įstatymo antrojo skirsnio 6 straipsnio 10 punktas, 10, 12 (išskyrus 1 dalies 2, 4, 5, 6, 8 punktus), 14 straipsniai, trečiojo skirsnio 23, 24, 30, 31 (išskyrus 1, 2, 3, 5, 6 dalis), 34, 35 straipsniai, ketvirtasis–šeštasis skirsniai (išskyrus 53 straipsnio 1 ir 4 dalis, 54 straipsnį). Vertybinių popierių komisijai priskirtas teises turi ir jos funkcijas vykdo draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo veiklos priežiūrą atliekanti institucija.“
 
-\#### 14 straipsnis. 20 straipsnio 6 dalies pakeitimas
+## 14 straipsnis. 20 straipsnio 6 dalies pakeitimas
 
 20 straipsnio 6 dalyje įrašyti žodžius „bei 18^1 straipsnio 5 dalies nuostatos“ ir šią dalį išdėstyti taip:
 
 „6. Perduodant draudimo įmonės teises ir pareigas kitai pensijų kaupimo bendrovei, taikomos ir šio Įstatymo 8 straipsnyje nustatytos sąlygos bei 18^1 straipsnio 5 dalies nuostatos.“
 
-\#### 15 straipsnis. 24 straipsnio 2 dalies pakeitimas
+## 15 straipsnis. 24 straipsnio 2 dalies pakeitimas
 
 Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Draudimo įmonei teisę vykdyti pensijų anuitetų veiklą suteikia draudimo veiklos licencija, išduota Draudimo įstatymo 7 straipsnio 2 dalies 1 punkte nurodytos draudimo grupės veiklai. Pensijų anuiteto sutarčių draudimo taisyklėse turi būti nurodyta Draudimo įstatyme numatyta informacija ir šiame Įstatyme nurodyta informacija, susijusi su pensijų anuiteto ir jo mokėjimu. Draudimo priežiūros institucija turi teisę nustatyti ir kitą informaciją, kuri turi būti nurodyta pensijų anuiteto sutarčių draudimo taisyklėse.“
 
-\#### 16 straipsnis. 28 straipsnio 3 dalies pakeitimas
+## 16 straipsnis. 28 straipsnio 3 dalies pakeitimas
 
 28 straipsnio 3 dalyje vietoj žodžių „administruojant dalyvių“ įrašyti žodžius „tvarkant sutarčių“ ir šią dalį išdėstyti taip:
 
 „3. Priežiūros institucijos teikia Socialinės apsaugos ir darbo ministerijai informaciją apie pensijų kaupimo bendrovių veiklos rezultatus, šiame straipsnyje nurodytų poveikio priemonių, susijusių su teisės verstis pensijų kaupimo veikla apribojimu, taikymą pensijų kaupimo bendrovėms ir kitą informaciją, nustatytą Socialinės apsaugos ir darbo ministerijos bei priežiūros institucijos susitarime dėl pasikeitimo informacija. VSDF valdybai priežiūros institucijos teikia informaciją apie pensijų kaupimo bendrovių rekvizitus, pensijų kaupimo bendrovėms išduotas licencijas pensijų kaupimo veiklai, poveikio priemonių, susijusių su teisės verstis pensijų kaupimo veikla apribojimu, taikymą, pensijų kaupimo bendrovės reorganizavimą, pertvarkymą, likvidavimą, bankrotą, teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai pensijų kaupimo bendrovei bei kitą su pensijų kaupimo veikla susijusią informaciją, būtiną tvarkant sutarčių registrą. Duomenų teikimo tvarka ir terminai nustatomi priežiūros institucijų ir VSDF valdybos susitarime dėl pasikeitimo informacija.“
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas
+## 17 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 3 straipsnio 1 dalį, 5, 7, 8, 11, 12, 13, 14, 15 ir 18 straipsnius, įsigalioja nuo 2007 m. liepos 1 d.
 
-\#### 18 straipsnis. Baigiamosios nuostatos
+## 18 straipsnis. Baigiamosios nuostatos
 
 1. Vyriausybė ar jos įgaliota institucija iki 2007 m. liepos 1 d. parengia ir patvirtina pensijų kaupimo sutarčių registro nuostatus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/facb8422cc3511f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FACB8422CC35.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 2, 3, 10, 14 ir 17 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ TEISĖS GAUTI INFORMACIJĄ IR DUOMENŲ PAKARTOTINIO NAUDOJIMO ĮSTATYMO NR. VIII
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -36,31 +36,31 @@ Vilnius
 
 „11) duomenims, kurių pakartotinį naudojimą nustato Lietuvos Respublikos apsaugotų duomenų pakartotinio naudojimo, duomenų tarpininkavimo ir duomenų altruizmo veiklos priežiūros įstatymas ir Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymas.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. **Duomenys** – užfiksuota informacija apie institucijos ar valstybės valdomo subjekto veiklą ar jos dalis, neatsižvelgiant į jos pateikimo būdą, formą (raštu arba elektronine forma ar kaip garso, vaizdo ar garso ir vaizdo įrašas) ir laikmeną, įskaitant informacinės sistemos duomenis.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Šio straipsnio 2 ir 3 dalyse nurodytais atvejais atlyginimo už duomenų teikimą pakartotinai naudoti dydis apskaičiuojamas vadovaujantis Vyriausybės nustatyta tvarka, pagal kurią taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos).“
 
-\#### 4 straipsnis. 14 straipsnio pakeitimas
+## 4 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Duomenys pareiškėjui teikiami tokio turinio ir tokiu formatu, kuris naudojamas institucijoje ar valstybės valdomame subjekte ir kurio nereikia papildomai adaptuoti, apdoroti ar kitaip koreguoti. Jeigu parengtinis duomenų, išskyrus informacinės sistemos duomenis, ar duomenų rinkinių turinys ar formatas nebeatitinka pareiškėjų poreikių, institucija ar valstybės valdomas subjektas pritaiko jų turinį ir (arba) formatą pareiškėjų poreikiams. Rekomenduojamus duomenų formatus ir standartus nustato ekonomikos ir inovacijų ministro įgaliota institucija.“
 
-\#### 5 straipsnis. 17 straipsnio pakeitimas
+## 5 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Lietuvos atvirų duomenų portalo informacinės sistemos valdytoja ir duomenų valdytoja yra Ekonomikos ir inovacijų ministerija.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 5 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2026 m. sausio 1 d.
 

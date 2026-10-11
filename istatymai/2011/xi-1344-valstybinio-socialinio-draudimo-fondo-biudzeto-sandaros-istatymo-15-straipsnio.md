@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ACDF8B6BD289"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ACDF8B6BD289.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 15 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [91-3190](https://www.e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E); 2008, Nr. [137-5378](https://www.e-tar.lt/portal/lt/legalAct/TAR.FD511C5A13B1); 2010, Nr. [81-4226](https://www.e-tar.lt/portal/lt/legalAct/TAR.830C8F621C58))
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas
+## 1 straipsnis. 15 straipsnio pakeitimas
 
 1. Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 5. Vyriausybė, pritarusi metinių Fondo konsoliduotųjų ataskaitų rinkiniui, nustatyta tvarka pateikia jį kartu su valstybinio audito išvada ir audito ataskaita tvirtinti Seimui. Metinių Fondo konsoliduotųjų ataskaitų rinkinys tvirtinamas Seimo nutarimu.“
 
-\#### 2 straipsnis. Įstatymo taikymas ir įsigaliojimas
+## 2 straipsnis. Įstatymo taikymas ir įsigaliojimas
 
 1. Šio įstatymo 1 straipsnio 1 dalis taikoma sudarant 2010 metų Valstybinio socialinio draudimo fondo biudžeto vykdymo ataskaitų rinkinį ir galioja iki 2011 m. gruodžio 31 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6fbb0bd0aa2211e9964cdd77475976b0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6FBB0BD0AA22.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 25, 35, 53, 56, 58, 59, 62, 82, 111 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas

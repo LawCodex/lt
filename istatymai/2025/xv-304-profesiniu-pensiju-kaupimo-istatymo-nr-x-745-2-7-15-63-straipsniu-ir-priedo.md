@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/db9109d255c111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DB9109D255C1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 7, 15, 63 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO NR. X-745 2, 7, 15, 63 STRAIPSNIŲ IR PRI
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 5 dalį.
 
@@ -50,25 +50,25 @@ Vilnius
 
 „42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Papildomo savanoriško pensijų kaupimo įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Pensijų kaupimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 3 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) užtikrinti, kad pensijų asociacijos valdymo procedūros ir finansinės apskaitos įrašų bei apskaitos sistemos būtų patikimos ir kad iš jų būtų galima sužinoti visų sandorių šalis, finansuojančius subjektus, įmokų dydžius, įmokų dalies pasiskirstymą tarp finansuojančio subjekto ir pensijų fondo dalyvio, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis pensijų fondo taisyklėse, šiame įstatyme ir kituose profesinių pensijų turto investavimą reglamentuojančiuose teisės aktuose nustatytų reikalavimų;“.
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Pensijų asociacija, naudodama tinkamas ir proporcingas sistemas, išteklius ir taikydama procedūras, privalo užtikrinti nepertraukiamą veiklą, tam tikslui ji turi būti parengusi ir patvirtinusi veiklos tęstinumo planą bei užtikrinusi jo įgyvendinimą, taip pat įdiegti bei valdyti tinklų ir informacines sistemas pagal Reglamentą [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 4 straipsnis. 63 straipsnio pakeitimas
+## 4 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnio 1 dalies 11 punktą ir jį išdėstyti taip:
 
 „11) pažeisti Reglamente [(EB) Nr. 1060/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R1060&locale=lt), Reglamente [(ES) 2019/2088](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R2088&locale=lt), Reglamento [(ES) 2020/852](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32020R0852&locale=lt) 5, 6 ir 7 straipsniuose ar Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 5 straipsnis. Įstatymo priedo pakeitimas
+## 5 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 9 punktu:
 

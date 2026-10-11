@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3E1CB10AC3E6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3E1CB10AC3E6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10 straipsnio pakeitimo bei įstatymo papildymo 12 straipsniu ir penktuoju skirsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005); 1999, Nr. [93-2709](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF0E7CBDD75); 2001, Nr. [94-3307](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CB6C63497C9); 2002, Nr. [68-2773](https://www.e-tar.lt/portal/lt/legalAct/TAR.42838C716F20), Nr. [123-5527](https://www.e-tar.lt/portal/lt/legalAct/TAR.604034235568))
 
-\#### 1 straipsnis. 10 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
+## 1 straipsnis. 10 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
 
 Pakeisti 10 straipsnio 1 dalies 1 ir 2 punktus ir juos išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 10 straipsnio 1 dalies 1 ir 2 punktus ir juos išdėstyti taip:
 
 2) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų pajamų mokesčiui išlyginti;“.
 
-\#### 2 straipsnis. Įstatymo papildymas 12 straipsniu
+## 2 straipsnis. Įstatymo papildymas 12 straipsniu
 
 Papildyti Įstatymą 12 straipsniu:
 
@@ -46,7 +46,7 @@ Papildyti Įstatymą 12 straipsniu:
 
 2. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos (be specialių tikslinių dotacijų) didėja daugiau kaip 7 procentais, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. Šios kompensacijos valstybės biudžetui grąžinamos iš savivaldybių biudžetų.“
 
-\#### 3 straipsnis. Įstatymo papildymas penktuoju skirsniu
+## 3 straipsnis. Įstatymo papildymas penktuoju skirsniu
 
 Papildyti Įstatymą penktuoju skirsniu:
 
@@ -54,7 +54,7 @@ Papildyti Įstatymą penktuoju skirsniu:
 
 SAVIVALDYBIŲ BIUDŽETŲ NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
 
-\#### 13 straipsnis. Savivaldybių biudžetų negautų pajamų kompensavimas
+## 13 straipsnis. Savivaldybių biudžetų negautų pajamų kompensavimas
 
 1. Jeigu biudžetiniais metais pagal savivaldybės metinės apyskaitos duomenis pajamų (be dotacijų iš valstybės biudžeto) gauta mažiau, negu buvo prognozuota gauti skaičiuojant tų metų savivaldybių biudžetų finansinius rodiklius, biudžetiniams metams pasibaigus šios negautos pajamos gali būti kompensuojamos. Skaičiuojant šių negautų pajamų sumą, savivaldybių gautos pajamos didinamos skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais suteiktų mokesčių lengvatų.
 
@@ -66,7 +66,7 @@ SAVIVALDYBIŲ BIUDŽETŲ NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
 
 5. Jei šio straipsnio 2 dalyje nurodytų lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šio Įstatymo 3 straipsnis įsigalioja nuo 2005 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F044A691CA5A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F044A691CA5A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 2, 3, 5, 6, 7, 8, 10, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo, trečiojo skirsnio pavadinimo pakeitimo ir įstatymo papildymo 18(1), 18(2), 18(3) straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [111-3574](https://www.e-tar.lt/portal/lt/legalAct/TAR.068516AF734B); 2002, Nr. [13-469](https://www.e-tar.lt/portal/lt/legalAct/TAR.8650B5014E08), Nr. [123-5535](https://www.e-tar.lt/portal/lt/legalAct/TAR.A67EC51F0EB9), Nr. [124-5622](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEBCEE2A0672); 2003, Nr. [12-441](https://www.e-tar.lt/portal/lt/legalAct/TAR.AF6D784AB2FD); 2004, Nr. [25-750](https://www.e-tar.lt/portal/lt/legalAct/TAR.7CFA5CC8168B), Nr. [158-5755](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3997CEF28C8), Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62); 2005, Nr. [71-2557](https://www.e-tar.lt/portal/lt/legalAct/TAR.F84C1050A429))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnyje po žodžių „dėl motinystės“ įrašyti žodį „tėvystės“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Ligos ir motinystės socialinis draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl jų pačių arba šeimos narių ligos, taip pat dėl motinystės, tėvystės, motinystės (tėvystės) dalį prarastų ar dėl dalyvavimo profesinės reabilitacijos programoje negautų darbo pajamų.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 7. Einamųjų metų draudžiamosios pajamos – pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 4. Profesinės reabilitacijos pašalpos skiriamos ir mokamos turintiems teisę jas gauti apdraustiesiems asmenims, kuriems Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT) nustatė profesinės reabilitacijos paslaugų poreikį, jeigu šie asmenys dalyvauja profesinės reabilitacijos programoje.“
 
-\#### 4 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 6 straipsnio 1 dalyje po žodžių „vaiko priežiūros“ įrašyti žodžius „ar tėvystės“, po žodžių „motinystės (tėvystės)“ įrašyti žodžius „ir tėvystės“ ir šią dalį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 „2. Pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis pašalpoms skaičiuoti negali viršyti paskutinių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų penkių dydžių sumos.“
 
-\#### 5 straipsnis. 7 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
+## 5 straipsnis. 7 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
 
 1. 7 straipsnio 1 dalyje po žodžių „ir motinystės“ įrašyti žodį „tėvystės“ ir šią dalį išdėstyti taip:
 
@@ -104,19 +104,19 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 2. Pripažinti 7 straipsnio 2 dalį netekusia galios.
 
-\#### 6 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 8 straipsnio 3 dalyje vietoj žodžių „Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijų“ įrašyti žodžius „sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų“ ir šią dalį išdėstyti taip:
 
 „3. Pagrindas skirti ligos pašalpą yra nedarbingumo pažymėjimas, išduotas pagal sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų davimo taisykles.“
 
-\#### 7 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Turinčiam teisę gauti ligos pašalpą šio įstatymo 8 straipsnyje nustatyta tvarka šeimos nariui ar globėjui, slaugančiam stacionare sergantį iki septynerių metų vaiką, taip pat šeimos nariui, globėjui ar rūpintojui, slaugančiam stacionare ar medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki aštuoniolikos metų, sergantį sunkiomis ligomis, kurių sąrašą tvirtina sveikatos apsaugos ir socialinės apsaugos ir darbo ministrai, pašalpa iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus.“
 
-\#### 8 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
+## 8 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
 
 Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -124,13 +124,13 @@ Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **MOTINYSTĖS, TĖVYSTĖS IR MOTINYSTĖS (TĖVYSTĖS) PAŠALPOS**“.
 
-\#### 9 straipsnis. 16 straipsnio 3 dalies pakeitimas
+## 9 straipsnis. 16 straipsnio 3 dalies pakeitimas
 
 16 straipsnio 3 dalyje vietoj žodžių „Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijų“ įrašyti žodžius „sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų“ ir šią dalį išdėstyti taip:
 
 „3. Pagrindas skirti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas, išduotas pagal sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų davimo taisykles.“
 
-\#### 10 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas
+## 10 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -140,7 +140,7 @@ Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 „2. Moterims, pagimdžiusioms 22–27 nėštumo savaitę, motinystės pašalpa mokama už 28 kalendorines dienas po gimdymo. Jeigu kūdikis gyvena 28 paras ir ilgiau, pašalpa mokama už 70 kalendorinių dienų po gimdymo. Moterims, pagimdžiusioms 28–30 nėštumo savaitę, motinystės pašalpa mokama už 56 kalendorines dienas po gimdymo, komplikuoto gimdymo atveju ir kai gimė daugiau negu vienas vaikas – už 70 kalendorinių dienų. Moterims, pagimdžiusioms 22–30 nėštumo savaitę negyvą vaiką, motinystės pašalpa mokama už 28 kalendorines dienas po gimdymo.“
 
-\#### 11 straipsnis. Įstatymo papildymas 181 straipsniu
+## 11 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti įstatymą 18^1 straipsniu:
 
@@ -156,7 +156,7 @@ Teisę gauti tėvystės pašalpą turi tėvas, kuris:
 
 4) gyvena santuokoje su kūdikio motina.“
 
-\#### 12 straipsnis. Įstatymo papildymas 182 straipsniu
+## 12 straipsnis. Įstatymo papildymas 182 straipsniu
 
 Papildyti įstatymą 18^2 straipsniu:
 
@@ -164,7 +164,7 @@ Papildyti įstatymą 18^2 straipsniu:
 
 Tėvystės pašalpa mokama tėvystės atostogų laikotarpiu nuo vaiko gimimo dienos iki tol, kol vaikui sueis vienas mėnuo.“
 
-\#### 13 straipsnis. Įstatymo papildymas 183 straipsniu
+## 13 straipsnis. Įstatymo papildymas 183 straipsniu
 
 Papildyti įstatymą 18^3 straipsniu:
 
@@ -172,7 +172,7 @@ Papildyti įstatymą 18^3 straipsniu:
 
 Tėvystės pašalpa mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa per mėnesį negali būti mažesnė už tėvystės atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų trečdalį. Kai apdraustasis dirba ne vienoje darbovietėje, tėvystės pašalpa jam apskaičiuojama pagal gautą kompensuojamąjį uždarbį tik tose darbovietėse, kuriose jis yra išleistas tėvystės atostogų. Pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.“
 
-\#### 14 straipsnis. 19 straipsnio 1 dalies 1 punkto ir 3 dalies pakeitimas
+## 14 straipsnis. 19 straipsnio 1 dalies 1 punkto ir 3 dalies pakeitimas
 
 1. 19 straipsnio 1 dalies 1 punkte po žodžio „dalį“ įrašyti žodžius bei skaičius „išskyrus atvejus, numatytus šio straipsnio 4 ir 5 dalyse“ ir šį punktą išdėstyti taip:
 
@@ -182,13 +182,13 @@ Tėvystės pašalpa mokama 100 procentų pašalpos gavėjo kompensuojamojo užda
 
 „3. Asmeniui, neturinčiam teisės gauti motinystės (tėvystės) pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pagal Išmokų vaikams įstatymą.“
 
-\#### 15 straipsnis. 20 straipsnio papildymas 4 dalimi
+## 15 straipsnis. 20 straipsnio papildymas 4 dalimi
 
 Papildyti 20 straipsnį 4 dalimi:
 
 „4. Tėvystės atostogų metu tėvui, gaunančiam tėvystės pašalpą, motinystės (tėvystės) pašalpa nemokama.“
 
-\#### 16 straipsnis. 21 straipsnio pakeitimas
+## 16 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -200,21 +200,21 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 3. Motinystės (tėvystės) pašalpa per mėnesį negali būti mažesnė nei vaiko priežiūros atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų trečdalis. Kai apdraustasis dirba ne vienoje darbovietėje, motinystės (tėvystės) pašalpa jam apskaičiuojama pagal gautą kompensuojamąjį uždarbį tik tose darbovietėse, kuriose jis yra išleistas vaiko priežiūros atostogų. Pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.“
 
-\#### 17 straipsnis. 22 straipsnio 3 dalies pakeitimas
+## 17 straipsnis. 22 straipsnio 3 dalies pakeitimas
 
 22 straipsnio 3 dalyje po žodžių „reabilitacijos, motinystės“ įrašyti žodį „tėvystės“ ir šią dalį išdėstyti taip:
 
 „3. Ligos ir motinystės socialinio draudimo išlaidas sudaro lėšos, skirtos šio įstatymo 5 straipsnyje nurodytoms ligos, profesinės reabilitacijos, motinystės, tėvystės ir motinystės (tėvystės) pašalpoms mokėti.“
 
-\#### 18 straipsnis. Pasiūlymas Vyriausybei
+## 18 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė iki įstatymo įsigaliojimo parengia ir patvirtina teisės aktus, būtinus šiam įstatymui įgyvendinti.
 
-\#### 19 straipsnis. Įstatymo įsigaliojimas
+## 19 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 18 straipsnį, įsigalioja nuo 2006 m. liepos 1 d.
 
-\#### 20 straipsnis. Įstatymo taikymas
+## 20 straipsnis. Įstatymo taikymas
 
 Įsigaliojus šio įstatymo 4 straipsnio 2 dalies ir 16 straipsnio nuostatoms, iki tol paskirtos ir pradėtos mokėti ligos, profesinės reabilitacijos, motinystės ir motinystės (tėvystės) socialinio draudimo pašalpos perskaičiuojamos vadovaujantis šio įstatymo nuostatomis nuo šių nuostatų įsigaliojimo dienos. Ligos, profesinės reabilitacijos, motinystės ir motinystės (tėvystės) socialinio draudimo pašalpos, kurių mokėjimo terminas baigėsi iki nurodytų nuostatų įsigaliojimo, neperskaičiuojamos.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7594F69437BF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7594F69437BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84), Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194); 1996, Nr. [73-1750](https://www.e-tar.lt/portal/lt/legalAct/TAR.A766B68AB31D); 1997, Nr. [38-925](https://www.e-tar.lt/portal/lt/legalAct/TAR.4084293C296E), Nr. [104-2622](https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1); 1998, Nr. [98-2709](https://www.e-tar.lt/portal/lt/legalAct/TAR.C913DBC37928))
 
-\#### 1 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 11 straipsnio 1 dalies 2, 3 ir 4 punktus ir juos išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „Getų, koncentracijos ar kitokio tipo prievartinių stovyklų sąrašą tvirtina Lietuvos gyventojų genocido ir rezistencijos tyrimo centras.“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -74,19 +74,19 @@ Vilnius
 
 3. 13 straipsnio buvusią 3 dalį laikyti 4 dalimi.
 
-\#### 3 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas
+## 3 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas
 
 14 straipsnio 3 dalies 2 punkte vietoj žodžių „rezistencijos ir pasipriešinimo sovietinei okupacijai“ įrašyti žodžius „1940-1990 metų okupacijoms (rezistencijos)“ ir šį punktą išdėstyti taip:
 
 „2) asmeniui žuvus pasipriešinimo 1940-1990 metų okupacijoms (rezistencijos) veiksmų metu, taip pat žuvus ar mirus neteisėto kalinimo ar tremties metu;“.
 
-\#### 4 straipsnis. 15 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 15 straipsnio 4 dalies pakeitimas
 
 15 straipsnio 4 dalyje vietoj žodžių „rezistencijos ir pasipriešinimo sovietinei okupacijai“ įrašyti žodžius „1940-1990 metų okupacijoms (rezistencijos)“ ir šią dalį išdėstyti taip:
 
 „Nukentėjusių asmenų valstybinės pensijos asmenims, tapusiems invalidais dėl 1991 metų sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių, bei šio įstatymo nustatytais atvejais jų tėvams, sutuoktiniams ir vaikams skiriamos pateikus Lietuvos Respublikos generalinės prokuratūros pažymą, pasipriešinimo 1940- 1990 metų okupacijoms (rezistencijos) veiksmų dalyviams bei šio įstatymo nustatytais atvejais jų tėvams, sutuoktiniams ir vaikams skiriamos pateikus Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pažymą, o asmenims, Antrojo pasaulinio karo metais tarnavusiems antihitlerinės koalicijos valstybių veikiančiose armijose, partizanų būriuose ar junginiuose, taip pat tapusiems invalidais dalyvaujant karo veiksmuose, bei asmenims, tapusiems invalidais būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu, taip pat žuvusiųjų (mirusiųjų) šios tarnybos ar mokymų metu atitinkamiems šeimos nariams pateikus Krašto apsaugos ministerijos pažymą.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 10 d., išskyrus Valstybinių pensijų įstatymo 11 straipsnio 1 dalies 4 punkto ir 11 straipsnio 3 dalies pakeitimus bei papildymus, taip pat 13 straipsnio 2 dalies 3 punktą, kurie įsigalioja nuo 2000 m. sausio 1 d.
 

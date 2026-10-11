@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DCEB029AA163"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DCEB029AA163.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 4, 12, 15, 22, 24 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,25 +28,25 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 2004, Nr. [21-617](https://www.e-tar.lt/portal/lt/legalAct/TAR.1C65A214E386))
 
-\#### 1 straipsnis. 4 straipsnio 3 dalies 4 punkto pakeitimas
+## 1 straipsnis. 4 straipsnio 3 dalies 4 punkto pakeitimas
 
 4 straipsnio 3 dalies 4 punkte po žodžio „detaliojo“ įrašyti žodžius „ir specialiojo“ ir šį punktą išdėstyti taip:
 
 „4) vietovės – žemės sklypai ar jų grupės (rengiami detaliojo ir specialiojo teritorijų planavimo dokumentai).“
 
-\#### 2 straipsnis. 12 straipsnio papildymas 4 dalimi
+## 2 straipsnis. 12 straipsnio papildymas 4 dalimi
 
 Papildyti 12 straipsnį 4 dalimi:
 
 „4. Savivaldybės teritorijos dalies (miesto ar miestelio) bendrieji planai nekeičiami, jei šių planų gyvenamosios, visuomeninės, pramonės ir sandėliavimo bei komercinės paskirties teritorijose numatomi kito naudojimo būdo (negu nustatytas) žemės sklypai sudaro ne daugiau kaip 20 procentų bendro konkrečios teritorijos pažymėto ploto, taip pat tais atvejais, kaikeičiamas taršių gamybinės paskirties objektų žemės sklypo naudojimo būdas, nesukeliant neigiamų pasekmių gyvenimo ir aplinkos kokybei (šių objektų sąrašą tvirtina savivaldybės taryba).“
 
-\#### 3 straipsnis. 15 straipsnio 1 dalies papildymas 10 punktu
+## 3 straipsnis. 15 straipsnio 1 dalies papildymas 10 punktu
 
 Papildyti 15 straipsnio 1 dalį 10 punktu:
 
 „10) gyvenamųjų teritorijų išdėstymo planai.“
 
-\#### 4 straipsnis. 22 straipsnio 2 ir 6 dalių pakeitimas
+## 4 straipsnis. 22 straipsnio 2 ir 6 dalių pakeitimas
 
 1. Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Papildyti 15 straipsnio 1 dalį 10 punktu:
 
 „6. Detalieji planai, keičiantys pagrindinę tikslinę žemės naudojimo paskirtį iš žemės ūkio į kitos paskirties žemę, rengiami, jei toks keitimas numatytas savivaldybės ar jos dalies bendruosiuose, taip pat specialiuosiuose planuose. Jei bendrieji ar specialieji planai neparengti, detaliųjų planų planavimo organizatoriumi gali būti tik savivaldybės administracijos direktorius arba valstybinės žemės valdytojas.“
 
-\#### 5 straipsnis. 24 straipsnio 1, 3 ir 4 dalių pakeitimas
+## 5 straipsnis. 24 straipsnio 1, 3 ir 4 dalių pakeitimas
 
 1. 24 straipsnio 1 dalyje išbraukti žodžius „Keisti pagrindinę tikslinę žemės naudojimo paskirtį“, po žodžio „planuose“ įrašyti žodžius „arba specialiuosiuose saugomų teritorijų ar jų zonų, taip pat gyvenamųjų teritorijų išdėstymo planuose“ ir šią dalį išdėstyti taip:
 

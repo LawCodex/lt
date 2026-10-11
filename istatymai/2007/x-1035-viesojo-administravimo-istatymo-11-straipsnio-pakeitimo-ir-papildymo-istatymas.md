@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A73606A8D886"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A73606A8D886.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975)
 
-\#### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4, 5, 6, 7, 8 dalimis
+## 1 straipsnis. 11 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4, 5, 6, 7, 8 dalimis
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „8. Šio straipsnio 3, 4, 5, 6 ir 7 dalių nuostatos viešojo administravimo subjektams taikomos tiek, kiek jų nereglamentuoja statutai ar kiti įstatymai.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 

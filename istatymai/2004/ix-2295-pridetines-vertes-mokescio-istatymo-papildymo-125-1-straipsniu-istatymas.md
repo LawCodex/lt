@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D52D9EDF0873"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D52D9EDF0873.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo papildymo 125(1) straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5))
 
-\#### 1 straipsnis. Įstatymo papildymas 1251 straipsniu
+## 1 straipsnis. Įstatymo papildymas 1251 straipsniu
 
 Papildyti Įstatymą 125^1 straipsniu:
 
@@ -36,7 +36,7 @@ Papildyti Įstatymą 125^1 straipsniu:
 
 PVM, apskaičiuotas už šilumos energiją, tiekiamą gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), ir už į gyvenamąsias patalpas tiekiamą karštą vandenį arba šaltą vandenį karštam vandeniui paruošti bei šilumos energiją, sunaudotą šiam vandeniui pašildyti, 13 procentinių punktų PVM tarifo dydžiu (skirtumas tarp 18 iki 5 proc.) dengiamas iš Lietuvos Respublikos valstybės biudžeto Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šis įstatymas taikomas nuo 2004 m. liepos 1 d. tiekiamai šilumos energijai ir karštam vandeniui arba šaltam vandeniui, skirtam karštam vandeniui paruošti, bei šilumos energijai, sunaudotai šiam vandeniui pašildyti.
 

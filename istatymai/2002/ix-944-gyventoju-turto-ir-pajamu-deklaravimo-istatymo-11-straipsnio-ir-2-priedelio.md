@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F0C5051A13E3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F0C5051A13E3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 11 straipsnio ir 2 priedėlio papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1997, Nr. [23-542](https://www.e-tar.lt/portal/lt/legalAct/TAR.1BCF61ADEE2A); 1998, Nr. [20-504](https://www.e-tar.lt/portal/lt/legalAct/TAR.B925020919B6), Nr. [41-1096](https://www.e-tar.lt/portal/lt/legalAct/TAR.57619CF39FA5), Nr. [63-1802](https://www.e-tar.lt/portal/lt/legalAct/TAR.5336CEE37824); 2000, Nr. [67-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF931FB86A84), Nr. [113-3605](https://www.e-tar.lt/portal/lt/legalAct/TAR.B11CBE70DA60))
 
-\#### 1 straipsnis. 11 straipsnio 3 punkto papildymas
+## 1 straipsnis. 11 straipsnio 3 punkto papildymas
 
 Papildyti 11 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) šio įstatymo 2 priedėlyje išvardyti valstybės tarnautojai, ūkinių subjektų vadovai ir jų šeimų nariai turtą ir pajamas pradeda deklaruoti nuo 1996 metų, o aukštųjų mokyklų vadovai ir jų šeimų nariai turtą ir pajamas pradeda deklaruoti už 2002 metus;“.
 
-\#### 2 straipsnis. Įstatymo 2 priedėlio papildymas
+## 2 straipsnis. Įstatymo 2 priedėlio papildymas
 
 Papildyti 2 priedėlyje pateiktą sąrašą 17 punktu:
 

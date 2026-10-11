@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4a5d6b22cf8d11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A5D6B22CF8D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 11 ir 19 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO NR. I-1571 11 IR 19 STRAIP
 
 Vilnius
 
-\#### 1 straipsnis. 11 straipsnio pakeitimas
+## 1 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) svarsto ir tvirtina LRT strateginius veiklos planus ir metinius veiklos planus;“.
 
-\#### 2 straipsnis. 19 straipsnio pakeitimas
+## 2 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 11 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „6. 2026–2028 metais LRT skiriami valstybės biudžeto asignavimai yra lygūs 2025 metų LRT skirtiems valstybės biudžeto asignavimams.“
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo 1 straipsnio nuostatos taikomos rengiant Lietuvos nacionalinio radijo ir televizijos 2026–2028 m. ar vėlesnių metų strateginius veiklos planus.
 

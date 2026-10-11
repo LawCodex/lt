@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BF754985A4A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BF754985A4A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl dalinės amnestijos akto
@@ -38,7 +38,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį da
 
 2) atlikę keturis penktadalius bausmės, jei bausmė buvo paskirta už sunkaus nusikaltimo padarymą (nusikaltimo, kuris jo padarymo metu buvo įtrauktas į Baudžiamojo kodekso 81 straipsnį).
 
-\#### 2 straipsnis. Paskirtos laisvės atėmimo bausmės sumažinimas moterims, vyresniems kaip 65 metų vyrams, I ir II grupių invalidams bei nepilnamečiams
+## 2 straipsnis. Paskirtos laisvės atėmimo bausmės sumažinimas moterims, vyresniems kaip 65 metų vyrams, I ir II grupių invalidams bei nepilnamečiams
 
 1. Sumažinama paskirta laisvės atėmimo bausmė moterims, vyresniems kaip 65 metų vyrams, I ir II grupių invalidams bei nepilnamečiams:
 
@@ -50,7 +50,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį da
 
 3. Šio straipsnio nuostatos taikomos asmenims, kurie nėra atlikę šio įstatymo 1 straipsnyje nurodytos laisvės atėmimo bausmės dalies.
 
-\#### 3 straipsnis. Paskirtos laisvės atėmimo bausmės sumažinimas vyrams, nuteistiems už neatsargius nusikaltimus ar nesunkius tyčinius nusikaltimus
+## 3 straipsnis. Paskirtos laisvės atėmimo bausmės sumažinimas vyrams, nuteistiems už neatsargius nusikaltimus ar nesunkius tyčinius nusikaltimus
 
 1. Pusiau sumažinama paskirta laisvės atėmimo bausmė vyrams, nuteistiems laisvės atėmimu iki 5 metų imtinai už nusikaltimų padarymą dėl neatsargumo.
 
@@ -84,7 +84,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį da
 
 3. Asmenims, atlyginusiems šio straipsnio 1 arba 2 dalies nustatytą žalos dydį po amnestijos įvykdymo termino, amnestija taikoma šio įstatymo nustatyta tvarka per 7 dienas nuo materialinės žalos atlyginimo patvirtinimo momento.
 
-\#### 6 straipsnis. Amnestija ir asmenys, pažeidžiantys laisvės atėmimo bausmės atlikimo režimą
+## 6 straipsnis. Amnestija ir asmenys, pažeidžiantys laisvės atėmimo bausmės atlikimo režimą
 
 Šio įstatymo 1, 2 ir 3 straipsniuose nurodytiems asmenims, pažeidinėjantiems laisvės atėmimo bausmės atlikimo režimą, amnestijos komisijos sprendimu amnestija gali būti netaikoma.
 
@@ -94,11 +94,11 @@ Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį da
 
 2. Šis įstatymas taikomas asmenims, laisvės atėmimo bausmę atliekantiems Lietuvos Respublikoje.
 
-\#### 8 straipsnis. Amnestijos taikymo tvarka asmenims, kurie gydosi nuo venerinių ligų ar narkomanijos (toksikomanijos)
+## 8 straipsnis. Amnestijos taikymo tvarka asmenims, kurie gydosi nuo venerinių ligų ar narkomanijos (toksikomanijos)
 
 Asmenims, kurie laisvės atėmimo vietose gydosi nuo venerinių ligų arba narkomanijos (toksikomanijos), amnestija taikoma tik baigus gydymo kursą.
 
-\#### 9 straipsnis. Amnestijos komisijos
+## 9 straipsnis. Amnestijos komisijos
 
 1. Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktorius pataisos darbų įstaigos viršininko teikimu patvirtina Amnestijos komisijos, susidedančios iš 5 narių, sudėtį.
 

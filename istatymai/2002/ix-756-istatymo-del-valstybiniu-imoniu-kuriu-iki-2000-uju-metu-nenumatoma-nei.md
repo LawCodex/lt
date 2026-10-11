@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FD9F23A3A4E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FD9F23A3A4E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl valstybinių įmonių, kurių iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti" pripažinimo netekusiu galios įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 60-1402, Nr. 66-1599, Nr. 108-2738; 1998, Nr. 56-1547, Nr. 65-1873)
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl valstybinių įmonių, kurių iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti“.
 

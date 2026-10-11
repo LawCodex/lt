@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EE77693368CD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EE77693368CD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Tarptautinės konvencijos dėl kovos su pinigų padirbinėjimu ir jos protokolų ratifikavimo" 2 straipsnio pakeitimo ir Įstatymo papildymo 3 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2004, Nr. [40-1290](https://www.e-tar.lt/portal/lt/legalAct/TAR.3E601181EC27))
 
-\#### 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „2. Vadovaudamasis Konvencijos 16 straipsniu, Lietuvos Respublikos Seimas pareiškia, kad prašymai pagal Konvencijos 16 straipsnio 4 dalį Lietuvos Respublikos institucijoms turi būti perduodami tik per šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytą instituciją.“
 
-\#### 2 straipsnis. Įstatymo papildymas 3 straipsniu
+## 2 straipsnis. Įstatymo papildymas 3 straipsniu
 
 Papildyti Įstatymą 3 straipsniu:
 

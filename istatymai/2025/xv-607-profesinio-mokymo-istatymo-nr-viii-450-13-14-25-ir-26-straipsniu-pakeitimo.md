@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/064e44b2d1d411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.064E44B2D1D4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 13, 14, 25 ir 26 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 13, 14, 25 IR 26 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas
+## 1 straipsnis. 13 straipsnio pakeitimas
 
 1. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „13. Neformaliojo profesinio mokymo programos ir jų moduliai registruojami Studijų, mokymo programų ir kvalifikacijų registro informacinėje sistemoje.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -62,17 +62,17 @@ Vilnius
 
 „1) vykdyti Licencijų registro informacinėje sistemoje įregistruotas formaliojo profesinio mokymo programas ar jų modulius;“.
 
-\#### 3 straipsnis. 25 straipsnio pakeitimas
+## 3 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) rengti formaliojo ir neformaliojo profesinio mokymo programas ir (ar) jų modulius ir jas suderinus su kvalifikacijų tvarkymo institucija teikti Studijų, mokymo programų ir kvalifikacijų registro informacinės sistemos tvarkytojui registruoti šioje informacinėje sistemoje;“.
 
-\#### 4 straipsnis. 26 straipsnio pakeitimas
+## 4 straipsnis. 26 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 26 straipsnio 1 dalies 9 punktą.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

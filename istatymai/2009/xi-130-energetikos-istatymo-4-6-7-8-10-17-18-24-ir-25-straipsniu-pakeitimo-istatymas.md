@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C9F8CAA2E2E3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C9F8CAA2E2E3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 4, 6, 7, 8, 10, 17, 18, 24 ir 25 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2003, Nr. [69-3118](https://www.e-tar.lt/portal/lt/legalAct/TAR.16DE92067E6F); 2008, Nr. [135-5228](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA8FE0831A84))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 4 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) Energetikos ministerija;“.
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnyje vietoj žodžių „Ūkio ministerijos“, „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerijos“, „Energetikos ministerija“ ir šį straipsnį išdėstyti taip:
 
@@ -78,19 +78,19 @@ Energetikos ministerija:
 
 20) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.“
 
-\#### 3 straipsnis. 7 straipsnio 3 punkto pakeitimas
+## 3 straipsnis. 7 straipsnio 3 punkto pakeitimas
 
 7 straipsnio 3 punkte vietoj žodžių „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerija“ ir šį punktą išdėstyti taip:
 
 „3) kartu su Energetikos ministerija nustato šalyje numatomų vartoti ir vartojamų energijos išteklių kokybės reikalavimus ir teikia rekomendacijas juos vartoti;“.
 
-\#### 4 straipsnis. 8 straipsnio 4 punkto pakeitimas
+## 4 straipsnis. 8 straipsnio 4 punkto pakeitimas
 
 8 straipsnio 4 punkte vietoj žodžių „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerija“ ir šį punktą išdėstyti taip:
 
 „4) išduoda leidimus suskystintųjų naftos dujų prekybai Energetikos ministerijos patvirtinta tvarka;“.
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 10 straipsnyje vietoj žodžių „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerija“ ir šį straipsnį išdėstyti taip:
 
@@ -110,13 +110,13 @@ Energetikos ministerija:
 
 3. Energetikos agentūra taip pat atlieka šio ir kitų įstatymų nustatytas ar Energetikos ministerijos pavestas funkcijas.“
 
-\#### 6 straipsnis. 17 straipsnio 8 dalies 10 punkto pakeitimas
+## 6 straipsnis. 17 straipsnio 8 dalies 10 punkto pakeitimas
 
 17 straipsnio 8 dalies 10 punkte vietoj žodžių „Ūkio ministerijai“ įrašyti žodžius „Energetikos ministerijai“ ir šį punktą išdėstyti taip:
 
 „10) teikia siūlymus dėl energetikos įmonių licencijuojamos veiklos Vyriausybei, Energetikos ministerijai, savivaldybėms;“.
 
-\#### 7 straipsnis. 18 straipsnio 2 ir 3 dalių pakeitimas
+## 7 straipsnis. 18 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 18 straipsnio 2 dalyje vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šią dalį išdėstyti taip:
 
@@ -126,19 +126,19 @@ Energetikos ministerija:
 
 „3. Valstybinė energetikos inspekcija yra įstaiga prie ministerijos. Jos steigėja – Energetikos ministerija. Valstybinės energetikos inspekcijos nuostatus tvirtina Energetikos ministerija.“
 
-\#### 8 straipsnis. 24 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 24 straipsnio 2 dalies pakeitimas
 
 24 straipsnio 2 dalyje vietoj žodžių „Ūkio ministerijai“ įrašyti žodžius „Energetikos ministerijai“ ir šią dalį išdėstyti taip:
 
 „2. Perdavimo objektus valdančios energetikos įmonės teikia Komisijai ir Energetikos ministerijai informaciją apie kiekvieną tranzito pareikalavimą, sudarytas tranzito sutartis ir atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito sutartį turi būti tinkamai motyvuotas.“
 
-\#### 9 straipsnis. 25 straipsnio 3 dalies pakeitimas
+## 9 straipsnis. 25 straipsnio 3 dalies pakeitimas
 
 25 straipsnio 3 dalyje vietoj žodžių „Ūkio ministerijai“ įrašyti žodžius „Energetikos ministerijai“ ir šią dalį išdėstyti taip:
 
 „3. Energetikos įmonės nustatyta tvarka privalo pranešti savivaldybėms, Energetikos ministerijai apie energijos tiekimo sumažėjimą ir priemones tiekimui atnaujinti.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.
 

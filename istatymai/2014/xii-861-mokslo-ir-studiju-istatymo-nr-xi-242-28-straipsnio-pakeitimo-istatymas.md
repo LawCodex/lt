@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d2723c40e00f11e388bee944977d73d2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D2723C40E00F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 28 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ MOKSLO IR STUDIJŲ ĮSTATYMO NR. XI-242 28 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 28 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 28 straipsnio 4 dalies pakeitimas
 
 Pakeisti 28 straipsnio 4 dalį ir ją išdėstyti taip:
 

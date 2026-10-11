@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.00B508CDE8C8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.00B508CDE8C8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 18, 20, 28, 32, 34, 37, 38, 42, 58, 59, 60, 78 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 60-1 straipsniu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2006, Nr. [82-3252](https://www.e-tar.lt/portal/lt/legalAct/TAR.348FD207192A); 2007, Nr. [12-489](https://www.e-tar.lt/portal/lt/legalAct/TAR.E02B42A2E6B4); 2008, Nr. [63-2378](https://www.e-tar.lt/portal/lt/legalAct/TAR.8FF4E34B9483), Nr. [135-5241](https://www.e-tar.lt/portal/lt/legalAct/TAR.58AEF2A00D62); 2009, Nr. [91-3914](https://www.e-tar.lt/portal/lt/legalAct/TAR.63BE523B049E), Nr. [154-6945](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F036B79E1F2); 2010, Nr. [1-22](https://www.e-tar.lt/portal/lt/legalAct/TAR.02380721CB11); 2011, Nr. [81-3966](https://www.e-tar.lt/portal/lt/legalAct/TAR.6D309B92794E))
 
-\#### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
 
 Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Akcininkui raštu pareikalavus, bendrovė ne vėliau kaip per 7 dienas nuo reikalavimo gavimo dienos privalo sudaryti akcininkui galimybę susipažinti ir (ar) pateikti kopijas šių dokumentų: bendrovės įstatų, metinių ir tarpinių finansinių ataskaitų rinkinių, bendrovės metinių ir tarpinių pranešimų, auditoriaus išvadų ir audito ataskaitų, visuotinių akcininkų susirinkimų protokolų ar kitų dokumentų, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, stebėtojų tarybos pasiūlymų ar atsiliepimų visuotiniams akcininkų susirinkimams, akcininkų sąrašų, stebėtojų tarybos ir valdybos narių sąrašų, kitų bendrovės dokumentų, kurie turi būti vieši pagal įstatymus, taip pat stebėtojų tarybos ir valdybos posėdžių protokolų ar kitų dokumentų, kuriais įforminti šių bendrovės organų sprendimai, jeigu šie dokumentai nėra susiję su bendrovės komercine (gamybine) paslaptimi, konfidencialia informacija. Akcininkas arba akcininkų grupė, turintys ar valdantys daugiau kaip 1/2 akcijų ir pateikę bendrovei jos nustatytos formos rašytinį įsipareigojimą neatskleisti komercinės (gamybinės) paslapties, konfidencialios informacijos, turi teisę susipažinti su visais bendrovės dokumentais. Bendrovė gali atsisakyti sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas, jeigu negalima nustatyti dokumentų pareikalavusio akcininko tapatybės. Atsisakymą sudaryti akcininkui galimybę susipažinti ir(ar) pateikti dokumentų kopijas bendrovė turi įforminti raštu, jeigu akcininkas to pareikalauja. Ginčus dėl akcininko teisės gauti informaciją sprendžia teismas.“
 
-\#### 2 straipsnis. 20 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 20 straipsnio 1 dalies pakeitimas
 
 Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 23) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.“
 
-\#### 3 straipsnis. 28 straipsnio 1 dalies papildymas ir pakeitimas
+## 3 straipsnis. 28 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 28 straipsnio 1 dalį nauju 7 punktu:
 
@@ -94,7 +94,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2. Buvusius 28 straipsnio 1 dalies 7, 8, 9, 10, 11, 12 ir 13 punktus laikyti atitinkamai 8, 9, 10, 11, 12, 13 ir 14 punktais.
 
-\#### 4 straipsnis. 32 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 32 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 32 straipsnio 1 dalį nauju 4 punktu:
 
@@ -102,7 +102,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2. Buvusius 32 straipsnio 1 dalies 4 ir 5 punktus laikyti atitinkamai 5 ir 6 punktais.
 
-\#### 5 straipsnis. 34 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 34 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 34 straipsnio 1 dalį nauju 3 punktu:
 
@@ -116,7 +116,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4. Buvusias 34 straipsnio 9, 10, 11 ir 12 dalis laikyti atitinkamai 10, 11, 12 ir 13 dalimis.
 
-\#### 6 straipsnis. 37 straipsnio 10 ir 12 dalių pakeitimas ir papildymas
+## 6 straipsnis. 37 straipsnio 10 ir 12 dalių pakeitimas ir papildymas
 
 1. Pakeisti 37 straipsnio 10 dalį ir ją išdėstyti taip:
 
@@ -128,13 +128,13 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3. Buvusius 37 straipsnio 12 dalies 3, 4, 5, 6, 7, 8, 9 ir 10 punktus laikyti atitinkamai 4, 5, 6, 7, 8, 9, 10 ir 11 punktais.
 
-\#### 7 straipsnis. 38 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 38 straipsnio 3 dalies pakeitimas
 
 Pakeisti 38 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu bendrovės nuosavas kapitalas tapo mažesnis kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio, valdyba (jeigu valdyba nesudaroma, – bendrovės vadovas)ne vėliau kaip per 3 mėnesius nuo dienos, kurią sužinojo ar turėjo sužinoti apie susidariusią padėtį, privalo sušaukti visuotinį akcininkų susirinkimą, kuris turi svarstyti klausimus dėl sprendimų, nurodytų šio Įstatymo 59 straipsnio 10 dalies 2 punkte ir 11 dalyje. Bendrovėje susidariusi padėtis turi būti ištaisyta ne vėliau kaip per 6 mėnesius nuo dienos, kurią valdyba sužinojo ar turėjo sužinoti apie susidariusią padėtį.“
 
-\#### 8 straipsnis. 42 straipsnio papildymas ir pakeitimas
+## 8 straipsnis. 42 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 42 straipsnį nauja 10 dalimi:
 
@@ -142,13 +142,13 @@ Pakeisti 38 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2. Buvusią 42 straipsnio 10 dalį laikyti 11 dalimi.
 
-\#### 9 straipsnis. 58 straipsnio papildymas 5 dalimi
+## 9 straipsnis. 58 straipsnio papildymas 5 dalimi
 
 Papildyti 58 straipsnį 5 dalimi:
 
 „5. Jeigu šio Įstatymo 60^1 straipsnio 3 dalyje nustatyta tvarka bendrovė priima sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, bendrovės tarpinių finansinių ataskaitų rinkinys, tarpinis pranešimas ir numatytais atvejais auditoriaus išvada per 30 dienų nuo visuotinio akcininkų susirinkimo, priėmusio sprendimą skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti pateikti juridinių asmenų registro tvarkytojui.“
 
-\#### 10 straipsnis. 59 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 59 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 59 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Papildyti 58 straipsnį 5 dalimi:
 
 2) akcininkai gali padengti nuostolius akcininkų įnašais – bendrovės nuosavas kapitalas turi būti atkurtas taip, kad jis nebūtų mažesnis kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio.“
 
-\#### 11 straipsnis. 60 straipsnio pakeitimas
+## 11 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
 7. Dividendus turi teisę gauti tie asmenys, kurie visuotinio akcininkų susirinkimo, paskelbusio dividendus, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turėjo teisę į dividendus.“
 
-\#### 12 straipsnis. Įstatymo papildymas 601 straipsniu
+## 12 straipsnis. Įstatymo papildymas 601 straipsniu
 
 Papildyti Įstatymą 60^1 straipsniu:
 
@@ -220,13 +220,13 @@ Papildyti Įstatymą 60^1 straipsniu:
 
 6. Paskyrus dividendus už trumpesnį negu finansiniai metai laikotarpį, skirti dividendus už kitą trumpesnį negu finansiniai metai laikotarpį galima ne anksčiau negu po 3 mėnesių.“
 
-\#### 13 straipsnis. 78 straipsnio papildymas 4 dalimi
+## 13 straipsnis. 78 straipsnio papildymas 4 dalimi
 
 Papildyti 78 straipsnį 4 dalimi:
 
 „4. Šio Įstatymo nuostatos dėl dividendų už trumpesnį negu finansiniai metai skyrimo netaikomos bankams, kitoms kredito ir finansų įstaigoms, reguliuojamosios rinkos operatoriui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme, Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo ir perdraudimo įmonėms.“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. kovo 1 d.
 

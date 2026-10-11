@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0DBBCF68566B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0DBBCF68566B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos įstatymo "Dėl Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakuos Respublikos sutarties dėl Čekuos Respublikos, Estuos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengruos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnuos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą ratifikavimo" papildymo 2 straipsniu
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. 91(1)-4108)
 
-\#### 1 straipsnis. Įstatymo papildymas 2 straipsniu
+## 1 straipsnis. Įstatymo papildymas 2 straipsniu
 
 Papildyti Įstatymą 2 straipsniu:
 

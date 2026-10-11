@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.892535EB668D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.892535EB668D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Valstybės saugumo, Krašto apsaugos ir Prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo 9, 10 ir 16 straipsnių papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin. 1994, Nr. 99-1958; 1995, Nr. 18-406; 1996, Nr. 68-1640)
 
-\#### 1 straipsnis. 9 straipsnio 2 dalies papildymas
+## 1 straipsnis. 9 straipsnio 2 dalies papildymas
 
 Papildyti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Jei asmuo mirė ar invalidumas pripažįstamas atsiradusiu dėl priežasčių, susijusių su tarnyba, ir faktinis pareigūno arba kario tarnybos laikas mažesnis už 20 metų, tarnybos laikas pensijai skirti prilyginamas 20 metų. Jei asmuo mirė ar invalidumas pripažįstamas atsiradusiu dėl kitų priežasčių, pensija apskaičiuojama pagal faktinį tarnybos laiką pensijai skirti.“
 
-\#### 2 straipsnis. 10 straipsnio 1 dalies papildymas
+## 2 straipsnis. 10 straipsnio 1 dalies papildymas
 
 Papildyti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) pareigūno ar kario sutuoktinis bei vaikai, taip pat jiems prilyginti asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo 34 ir 35 straipsniuose. Ši pensija skiriama, jei miręs asmuo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba dėl invalidumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę invalidumo pensiją arba vieną iš šių pensijų gavo.“
 
-\#### 3 straipsnis. 16 straipsnio 4 dalies 4 ir 5 punktų papildymas
+## 3 straipsnis. 16 straipsnio 4 dalies 4 ir 5 punktų papildymas
 
 Papildyti 16 straipsnio 4 dalies 4 ir 5 punktus ir juos išdėstyti taip:
 
@@ -48,7 +48,7 @@ Papildyti 16 straipsnio 4 dalies 4 ir 5 punktus ir juos išdėstyti taip:
 
 5) asmenims, pradėjusiems tarnauti ar dirbti krašto apsaugos sistemoje iki 1991 m. gruodžio 31 d., – 80% iki šio laiko turėto darbo stažo;“.
 
-\#### 4 straipsnis. Pensijų perskaičiavimas
+## 4 straipsnis. Pensijų perskaičiavimas
 
 Pensijos perskaičiuojamos per 1 mėnesį nuo šio įstatymo įsigaliojimo.
 

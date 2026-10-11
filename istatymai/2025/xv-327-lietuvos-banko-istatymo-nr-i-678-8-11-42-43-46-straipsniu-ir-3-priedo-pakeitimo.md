@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7a84b0c055c511f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A84B0C055C5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 46 straipsnių ir 3 priedo pakeitimo įstatymas
@@ -26,31 +26,31 @@ LIETUVOS BANKO ĮSTATYMO NR. I-678 8, 11, 42, 43, 46 STRAIPSNIŲ IR 3 PRIEDO PAK
 
 Vilnius
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) atlieka finansų rinkos priežiūrą, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento [(ES) Nr. 1024/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R1024&locale=lt), kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas šias funkcijas atlieka Europos Centrinis Bankas ar pagal Reglamento [(ES) 2024/1620](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1620&locale=lt) nuostatas priežiūrą atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija, taip pat pagal Reglamentą [(ES) Nr. 1024/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R1024&locale=lt) nacionalinei priežiūros institucijai priskirtas funkcijas;“.
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip:
 
 „13) šio įstatymo 42 straipsnio 1 dalyje nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) ir kitiems asmenims taiko įstatymų ir Europos Sąjungos teisės aktų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus privalomus nurodymus ir kitas kitiems asmenims privalomas vykdyti priemones, išskyrus atvejus, kai pagal Reglamento [(ES) Nr. 1024/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R1024&locale=lt) nuostatas tai atlieka Europos Centrinis Bankas ar pagal Reglamento [(ES) 2024/1620](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1620&locale=lt) nuostatas tai atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija;“.
 
-\#### 3 straipsnis. 42 straipsnio pakeitimas
+## 3 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Lietuvos bankas finansų rinkos priežiūrą atlieka tiek, kiek pagal Reglamento [(ES) Nr. 1024/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R1024&locale=lt) nuostatas tai nepavesta Europos Centriniam Bankui ar pagal Reglamento [(ES) 2024/1620](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1620&locale=lt) nuostatas priežiūros neatlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija.“
 
-\#### 4 straipsnis. 43 straipsnio pakeitimas
+## 4 straipsnis. 43 straipsnio pakeitimas
 
 Papildyti 43 straipsnio 7 dalį 22 punktu:
 
 „22) Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucijai, jeigu ji reikalinga Reglamente [(ES) 2024/1620](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1620&locale=lt) nustatytoms funkcijoms atlikti.“
 
-\#### 5 straipsnis. 46 straipsnio pakeitimas
+## 5 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
 Lietuvos bankas turi teisę sudaryti sutartis su kitų valstybių finansų rinkos priežiūros institucijomis, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, Europos vertybinių popierių ir rinkų institucija, Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija ir kitomis Lietuvos Respublikos ir užsienio valstybių institucijomis dėl bendradarbiavimo finansų rinkos priežiūros srityje.“
 
-\#### 6 straipsnis. Įstatymo 3 priedo pakeitimas
+## 6 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Papildyti Įstatymo 3 priedą 25 punktu:
 

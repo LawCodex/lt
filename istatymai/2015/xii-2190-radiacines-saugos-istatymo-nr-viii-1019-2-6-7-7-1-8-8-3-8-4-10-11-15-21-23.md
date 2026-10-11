@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d2a7a1e0ae3111e5b12fbb7dc920ee2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D2A7A1E0AE31.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 6, 7, 7-1, 8, 8-3, 8-4, 10, 11, 15, 21, 23 straipsnių pakeitimo, Įstatymo papildymo 8-5, 8-6, 15-1 straipsniais ir 8-1, 8-2 straipsnių pripažinimo netekusiais galios įstatymas

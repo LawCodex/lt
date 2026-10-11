@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F24261E960EC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F24261E960EC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 13, 20, 39 ir 40 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(1)-1131; 2000, Nr. 92-2843)
 
-\#### 1 straipsnis. 13 straipsnio 6 ir 7 dalių pakeitimas
+## 1 straipsnis. 13 straipsnio 6 ir 7 dalių pakeitimas
 
 1. 13 straipsnio 6 dalyje išbraukti skaičius ir žodžius „10 ir 11 straipsniuose“ ir šią dalį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „7. Šio straipsnio 6 dalyje numatytos kompensacijos nemokamos Vyriausybės nariams, kai jie paskiriami Ministru Pirmininku ar ministrais naujai sudarytoje Vyriausybėje, taip pat jei jie yra išrinkti Seimo nariais.“
 
-\#### 2 straipsnis. 20 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 20 straipsnio 2 dalies pakeitimas
 
 20 straipsnio 2 dalį papildyti sakiniu „Svarstant šiuos projektus Seime, Vyriausybei atstovauja Ministras Pirmininkas arba jo įgaliotas ministras“ ir šią dalį išdėstyti taip:
 
 „2. Vyriausybė dėl Seimui teikiamų įstatymų ar Seimo nutarimų projektų priima nutarimą. Svarstant šiuos projektus Seime, Vyriausybei atstovauja Ministras Pirmininkas arba jo įgaliotas ministras.“
 
-\#### 3 straipsnis. 39 straipsnio pakeitimas
+## 3 straipsnis. 39 straipsnio pakeitimas
 
 1. 39 straipsnio 1 dalyje vietoj žodžių „Ministro Pirmininko aparate“ įrašyti žodžius „Vyriausybės komitete“ ir šią dalį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 3. 39 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 2, 3, ir 4 dalimis.
 
-\#### 4 straipsnis. 40 straipsnio 5 dalies pakeitimas
+## 4 straipsnis. 40 straipsnio 5 dalies pakeitimas
 
 Pakeisti 40 straipsnio 5 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.538D8DA9A346"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.538D8DA9A346.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
@@ -802,7 +802,7 @@ IŠ VISO
 
 11925193
 
-\* Iš šių lėšų 29000 tūkst. litų skirti
+* Iš šių lėšų 29000 tūkst. litų skirti
 
 bendroms biudžeto reikmėms
 
@@ -3206,7 +3206,7 @@ VISO:
 
 1817401
 
-\* Iš to skaičiaus valstybės
+* Iš to skaičiaus valstybės
 
 biudžeto lėšos – 79600 tūkst. litų išmokamos atsižvelgiant į faktinius Europos
 

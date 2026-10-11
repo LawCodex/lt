@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E50815397CBD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E50815397CBD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 1, 2, 3, 4, 5, 6, 12, 16, 17, 18, 19, 20, 21, 23, 24, 26, 26(1), 27, 28, 30 straipsnių pakeitimo ir įstatymo papildymo 25(1) straipsniu bei priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [65-2635](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B); 2004, Nr. [54-1829](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8159B839774))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 2. Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio 1, 2, 7 ir 8 dalių pakeitimas
+## 2 straipsnis. 2 straipsnio 1, 2, 7 ir 8 dalių pakeitimas
 
 1. 2 straipsnio 1 dalyje išbraukti žodį „komercinis“, vietoj žodžio „skyrių“ įrašyti žodį „filialą“ ir šią dalį išdėstyti taip:
 
@@ -56,19 +56,19 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „8. **Indėlis** – indėlininko pinigų, laikomų banke,banko filialearba kredito unijoje pagal banko indėlio ir (ar) banko sąskaitos sutartis, ir kitų pinigų, į kuriuos indėlininkas turi reikalavimo teises, atsirandančias iš kredito įstaigos įsipareigojimo atlikti operacijas su indėlininko pinigais ar suteikti investicines paslaugas, suma (įskaitant sukauptas palūkanas).“
 
-\#### 3 straipsnis. 3 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 3 straipsnio 3 dalies pakeitimas
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 1 ir 2 dalyse nurodytus indėlius ir įsipareigojimus investuotojams draudimo įmonėje privalo apdrausti bankai, kredito unijos, įmonės ir užsienio bankai ar įmonės, Lietuvos Respublikoje įsteigęfilialus,kuriuose laikomi indėliai ar kurių įsipareigojimai investuotojams neapdraudžiami (nekompensuojami) arba kitaip neužtikrinamas jų saugumas pagal užsienio valstybės, kurios jurisdikcijai priklauso filialą įsteigęs bankas arįmonė, teisės aktus.“
 
-\#### 4 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu Europos Sąjungos valstybės narės jurisdikcijai nepriklausančio užsienio banko ar įmonės Lietuvos Respublikoje įsteigtame filiale laikomi indėliai ar prisiimti įsipareigojimai investuotojams yra apdraudžiami (kompensuojami) arba kitaip užtikrinamas jų saugumas pagal užsienio valstybės teisės aktus, tačiau draudimo įmonės taryba nustato, kad šios indėlių ar įsipareigojimų investuotojams apdraudimo (kompensavimo) arba kitokios saugumo užtikrinimo sąlygos yra blogesnės, negu nustatyta šiame Įstatyme, tai filialą įsteigęs užsienio bankas ar įmonė privalo draudimo įmonės tarybos nustatyta ir „Valstybės žiniose“ paskelbta tvarka papildomai apdrausti filialelaikomus indėlininkų indėlius, užsienio banko ar įmonės filiale prisiimtusįsipareigojimus investuotojams. Europos Sąjungos valstybės narės jurisdikcijai priklausantis užsienio bankas ar įmonė, įsteigę filialą Lietuvos Respublikoje, šiuo atveju turi teisę papildomai apdrausti filiale laikomus indėlius ir filiale prisiimtus įsipareigojimus investuotojams.“
 
-\#### 5 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
+## 5 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 5 straipsnio 1 dalyje išbraukti žodį „komerciniame“, vietoj žodžio „skyriuje“ įrašyti žodžius „banko filiale“ ir šią dalį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) 20 000 eurų atitinkanti suma litais – nuo 2008 m. sausio 1 d.“
 
-\#### 6 straipsnis. 6 straipsnio pakeitimas
+## 6 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 5. Bankų ir bankų filialų draudimo įmoka nepriklauso nuo jų teikiamų investicinių paslaugų.“
 
-\#### 7 straipsnis. 12 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
+## 7 straipsnis. 12 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
 
 1. 12 straipsnio 1 dalies 3 punkte išbraukti žodžius „komercinio“, „(skyrių)“ ir šį punktą išdėstyti taip:
 
@@ -128,13 +128,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „4) banko, kredito unijos ar įmonės paskolos gavėjams, jeigu indėliai ar įsipareigojimai investuotojui ne didesni už jų įsipareigojimus (negrąžintas paskolas su palūkanomis). Jeigu banko, kredito unijos ar įmonės paskolos gavėjo indėlis ar įsipareigojimai investuotojui yra didesni už šio gavėjo įsipareigojimus (negrąžintas paskolas su palūkanomis), draudimo suma skaičiuojama iš indėlio ar įsipareigojimų investuotojui atimant gavėjo įsipareigojimus, bet negali būti didesnė, negu nurodyta šio Įstatymo 9 straipsnio 3 dalyje;“.
 
-\#### 8 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 16 straipsnio 1 dalyje po žodžio „Vyriausybės“ įrašyti žodžius „iš valstybės turto“, vietoj žodžio „steigėjas“ įrašyti žodžius „savininko teises ir pareigas įgyvendinanti institucija“ ir šią dalį išdėstyti taip:
 
 „1. Draudimo įmonė yra pagal Lietuvos Respublikos gyventojų indėlių draudimo įstatymą Lietuvos Respublikos Vyriausybės iš valstybės turto įsteigta ir Lietuvos Respublikos įstatymų nustatyta tvarka įregistruota valstybės įmonė, turinti antspaudą su Lietuvos valstybės herbu ir pavadinimu „valstybės įmonė „Indėlių ir investicijų draudimas“. Jos savininko teises ir pareigas įgyvendinanti institucija yra Finansų ministerija.“
 
-\#### 9 straipsnis. 17 straipsnio pakeitimas
+## 9 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Draudimo įmonės įstatuose turi būti nurodyti jos veiklos tikslai, tarybos ir vadovo teisės bei pareigos, taip pat Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatyti kiti reikalavimai.“
 
-\#### 10 straipsnis. 18 straipsnio pakeitimas
+## 10 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -164,13 +164,13 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 7) atlieka kitas šiame Įstatyme bei draudimo įmonės įstatuose nurodytas funkcijas, susijusias su šio Įstatymo įgyvendinimu ir draudimo įmonės veiklos užtikrinimu.“
 
-\#### 11 straipsnis. 19 straipsnio pakeitimas
+## 11 straipsnis. 19 straipsnio pakeitimas
 
 19 straipsnio pavadinime vietoj žodžio „veikla“ įrašyti žodžius „veiklos tikslai“ ir straipsnio pavadinimą išdėstyti taip:
 
 „**19****straipsnis.****Draudimo įmonės veiklos tikslai**“.
 
-\#### 12 straipsnis. 20 straipsnio 1 dalies 1, 7 ir 9 punktų pakeitimas
+## 12 straipsnis. 20 straipsnio 1 dalies 1, 7 ir 9 punktų pakeitimas
 
 1. 20 straipsnio 1 dalies 1 punkte išbraukti žodį „komerciniuose“, vietoj žodžio „skyriuose“ įrašyti žodžius „bankų filialuose“ ir šį punktą išdėstyti taip:
 
@@ -184,7 +184,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 9) gauti likviduojamų banko, įmonės arba kredito unijos, kuriuose indėlininkų indėliai ar įsipareigojimai investuotojams buvo apdrausti pagal šį Įstatymą, turto dalį;“.
 
-\#### 13 straipsnis. 21 straipsnio pakeitimas
+## 13 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -224,7 +224,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 6. Draudimo įmonės vadovas yra atskaitingas draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai.“
 
-\#### 14 straipsnis. 23 straipsnio pakeitimas
+## 14 straipsnis. 23 straipsnio pakeitimas
 
 1. 23 straipsnio 1 dalyje išbraukti žodį „komercinių“, vietoj žodžio „skyrių“ įrašyti žodžius „bankų filialų“ ir šią dalį išdėstyti taip:
 
@@ -238,7 +238,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 „3. Tuo atveju, kai draudimo išmokoms mokėtiviename iš fondų trūksta pinigų, o kitame jų yra, draudimo išmokos gali būti mokamos iš fondo, kuriame yra lėšų, tačiau prieš naudojant kitą fondą, visų pirma panaudojamas privalomasisrezervas. Po to draudimo įmokos, mokamos į fondą, kuriame trūko lėšų draudimo išmokoms išmokėti, pirmiausia naudojamos lėšoms grąžinti į kitą fondą.“
 
-\#### 15 straipsnis. 24 straipsnio pakeitimas
+## 15 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -250,7 +250,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 3. Pagal šio straipsnio 2 dalį panaudota draudimo įmonės savininko kapitalo dalis iki draudimo įmonės įstatuose nustatyto savininko kapitalo dydžio yra atkuriama iš Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo lėšų. Savininko kapitalui atkurti naudojami Indėlių draudimo fondas ir Įsipareigojimų investuotojams draudimo fondas turi atitikti sumas, kuriomis sumažintas savininko kapitalas kiekvieno šių fondų draudimo išmokoms mokėti. Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo lėšos naudojamos savininko kapitalui atkurti prieš lėšų grąžinimą į kitą fondą šio Įstatymo 23 straipsnio 3 dalyje nustatyta tvarka.“
 
-\#### 16 straipsnis. Įstatymo papildymas 251 straipsniu
+## 16 straipsnis. Įstatymo papildymas 251 straipsniu
 
 Papildyti Įstatymą 25^1 straipsniu:
 
@@ -272,7 +272,7 @@ Papildyti Įstatymą 25^1 straipsniu:
 
 3) kitos sąnaudos.“
 
-\#### 17 straipsnis. 26 straipsnio pakeitimas
+## 17 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -282,7 +282,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 2. Pajamos, gautos iš draudimo įmonės nuosavo kapitalo lėšų ir administruojamų fondų investavimo, priskiriamos draudimo įmonės pajamoms ir administruojamų fondų pajamoms proporcingai pagal draudimo įmonės nuosavo kapitalo, Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo dydžius.“
 
-\#### 18 straipsnis. 261 straipsnio pakeitimas
+## 18 straipsnis. 261 straipsnio pakeitimas
 
 Pakeisti 26^1 straipsnį ir jį išdėstyti taip:
 
@@ -302,7 +302,7 @@ Pakeisti 26^1 straipsnį ir jį išdėstyti taip:
 
 4. Nepaskirstytieji nuostoliai perkeliami į kitus finansinius metus.“
 
-\#### 19 straipsnis. 27 straipsnio pakeitimas
+## 19 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -310,7 +310,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 Draudimo įmonės metinė finansinė atskaitomybė turi būti įstatų nustatyta tvarka viešai paskelbta per 5 mėnesius nuo finansinių metų pabaigos.“
 
-\#### 20 straipsnis. 28 straipsnio pakeitimas
+## 20 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -318,13 +318,13 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 Draudimo įmonė atleidžiama nuopalūkanų už valstybės įmonės savininkokapitalo naudojimą mokėjimo į valstybės biudžetą.“
 
-\#### 21 straipsnis. 30 straipsnio 3 dalies pakeitimas
+## 21 straipsnis. 30 straipsnio 3 dalies pakeitimas
 
 30 straipsnio 3 dalyje išbraukti žodį „komerciniame“, vietoj žodžio „skyriuje“ įrašyti žodžius „banko filiale“ ir šią dalį išdėstyti taip:
 
 „3. Indėliai, esantys banke, kredito unijoje ir (ar) banko filiale, kurie draudėjais tapo pagal Lietuvos Respublikos gyventojų indėlių draudimo įstatymą ir (arba) pagal Lietuvos Respublikos indėlių draudimo įstatymą, laikomi apdraustais pagal šį Įstatymą nuo jo įsigaliojimo dienos. Įsipareigojimai investuotojams laikomi apdraustais nuo pirmos draudimo įmokos įmokėjimo dienos.“
 
-\#### 22 straipsnis. Įstatymo papildymas priedu
+## 22 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -342,7 +342,7 @@ priedas
 
 2. 1997 m. kovo 3 d. Europos Parlamento ir Tarybos direktyva 97/9/EB dėl investuotojų kompensavimo sistemų.“
 
-\#### 23 straipsnis. Baigiamosios nuostatos
+## 23 straipsnis. Baigiamosios nuostatos
 
 Įsigaliojus šiam įstatymui, į draudimo įmonės balansą įtraukti kiti rezervai pervedami į privalomąjį rezervą.
 

@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/da138a80b8d711e3ad2eed5a4e1b7108"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA138A80B8D7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės susitarimo dėl nuosprendžių baudžiamosiose bylose, kuriais paskirtos laisvės atėmimo bausmės ar su laisvės atėmimu susijusios priemonės, pripažinimo ir vykdymo ratifikavimo

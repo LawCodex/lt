@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/72b76b603ff811e498a79e861091cd92"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.72B76B603FF8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo Nr. XII-523 2 straipsnio pakeitimo įstatymas

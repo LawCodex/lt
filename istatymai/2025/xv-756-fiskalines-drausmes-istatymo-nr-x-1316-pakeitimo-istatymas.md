@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ffa20802e58711f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FFA20802E587.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 pakeitimo įstatymas
@@ -26,7 +26,7 @@ FISKALINĖS DRAUSMĖS ĮSTATYMO NR. X-1316 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 nauja redakcija
 
 Pakeisti Lietuvos Respublikos fiskalinės drausmės įstatymą Nr. X-1316 ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ FISKALINĖS VALDYSENOS
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šio įstatymo paskirtis – sudaryti sąlygas skaidriai valdyti Lietuvos valdžios sektoriaus finansus (viešuosius finansus).
 
@@ -46,7 +46,7 @@ FISKALINĖS VALDYSENOS
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Ekonominės raidos scenarijus – Lietuvos Respublikos finansų ministerijos pasirinktomis ir nurodytomis tikroviškomis prielaidomis, naujausia statistine informacija grindžiamas, ekonomikos dėsningumams neprieštaraujantis vidutinio laikotarpio ekonominės raidos apibūdinimas, apimantis pagrindinių makroekonominių rodiklių projekcijas, skirtas fiskaliniam planavimui ir vidutinio laikotarpio Lietuvos valdžios sektoriaus finansų projekcijoms rengti.
 
@@ -64,7 +64,7 @@ FISKALINĖS VALDYSENOS
 
 8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos Europos Sąjungos sutarties ir Sutarties dėl Europos Sąjungos veikimo protokole Nr. 12 dėl perviršinio deficito procedūros, Reglamente (EB) Nr. 1467/97, 2009 m. gegužės 25 d. Tarybos reglamente (EB) Nr. 479/2009 dėl Europos bendrijos steigimo sutarties priede pateikto Protokolo dėl perviršinio deficito procedūros taikymo su visais pakeitimais, 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1176/2011 dėl makroekonominių disbalansų prevencijos ir naikinimo, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 549/2013 dėl Europos nacionalinių ir regioninių sąskaitų sistemos Europos Sąjungoje (A priede) su visais pakeitimas, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų, Reglamente (ES) 2024/1263, Lietuvos Respublikos biudžeto sandaros įstatyme, Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatyme ir Lietuvos Respublikos valstybės skolos įstatyme.
 
-\#### 3 straipsnis. Ekonominės raidos scenarijaus ir su juo susijusių makroekonominių rodiklių projekcijų rengimas ir naudojimas
+## 3 straipsnis. Ekonominės raidos scenarijaus ir su juo susijusių makroekonominių rodiklių projekcijų rengimas ir naudojimas
 
 1. Ekonominės raidos scenarijų mažiausiai 2 kartus per metus Lietuvos Respublikos Vyriausybės nustatyta tvarka rengia Finansų ministerija ir skelbia savo interneto svetainėje.
 
@@ -76,7 +76,7 @@ FISKALINĖS VALDYSENOS
 
 5. Produkcijos atotrūkis nuo potencialo naudojamas skaičiuojant struktūrinio balanso rodiklį, kuris reikalingas apskaičiuojant grynųjų išlaidų augimo ribas.
 
-\#### 4 straipsnis. Valdžios sektoriaus finansų projekcijos rengimas ir naudojimas
+## 4 straipsnis. Valdžios sektoriaus finansų projekcijos rengimas ir naudojimas
 
 1. Finansų ministerija valdžios sektoriaus finansų projekciją rengia finansų ministro nustatyta tvarka ir skelbia savo interneto svetainėje ne rečiau kaip 2 kartus per metus:
 
@@ -86,7 +86,7 @@ FISKALINĖS VALDYSENOS
 
 2. Valdžios sektoriaus finansų projekcija naudojama rengiant biudžeto patvirtinimo įstatymo projektą, Lietuvos biudžeto projektą, rengiamą pagal Reglamentą (ES) Nr. 473/2013, (toliau – Lietuvos biudžeto projektas), metinę pažangos ataskaitą, rengiamą pagal Reglamentą (ES) 2024/1263, (toliau – metinė pažangos ataskaita).
 
-\#### 5 straipsnis. Ekonominės raidos scenarijaus ir valdžios sektoriaus finansų projekcijų paklaidų vertinimas
+## 5 straipsnis. Ekonominės raidos scenarijaus ir valdžios sektoriaus finansų projekcijų paklaidų vertinimas
 
 1. Nepriklausoma fiskalinė institucija kasmet rengia ir skelbia ekonominės raidos scenarijaus ir valdžios sektoriaus finansų projekcijų paklaidų vertinimo išvadą, kurioje nurodo, ar šios paklaidos mažiausiai 4 metus iš eilės darė reikšmingą poveikį:
 
@@ -100,7 +100,7 @@ FISKALINĖS VALDYSENOS
 
 4. Jeigu nustatoma reikšminga sisteminė ekonominės raidos scenarijaus ir valdžios sektoriaus finansų projekcijų paklaida, kuri mažiausiai 4 metus iš eilės darė poveikį ekonominės raidos scenarijui, Finansų ministerija, rengdama ekonominės raidos scenarijų, imasi būtinų veiksmų šiai reikšmingai sisteminei paklaidai panaikinti ir informaciją apie veiksmus, kurių ėmėsi ar planuoja imtis, skelbia kartu su ekonominės raidos scenarijumi.
 
-\#### 6 straipsnis. Vidutinės trukmės laikotarpio Lietuvos fiskalinio struktūrinio plano rengimas, tvirtinimas ir keitimas
+## 6 straipsnis. Vidutinės trukmės laikotarpio Lietuvos fiskalinio struktūrinio plano rengimas, tvirtinimas ir keitimas
 
 1. Vidutinės trukmės laikotarpio Lietuvos fiskalinis struktūrinis planas (toliau – fiskalinis struktūrinis planas) Vyriausybės nustatoma jo rengimo ir įgyvendinimo tvarka rengiamas vieną kartą per 4 metus paskutiniais galiojančio fiskalinio struktūrinio plano metais einamiesiems ir 4 po einamųjų einantiems metams (toliau – fiskalinio struktūrinio plano metai).
 
@@ -122,7 +122,7 @@ FISKALINĖS VALDYSENOS
 
 8. Fiskalinis struktūrinis planas keičiamas vadovaujantis Reglamento (ES) 2024/1263 ir šio straipsnio nuostatomis.
 
-\#### 7 straipsnis. Grynųjų išlaidų augimo ribų taikymas rengiant biudžeto patvirtinimo įstatymo projektą
+## 7 straipsnis. Grynųjų išlaidų augimo ribų taikymas rengiant biudžeto patvirtinimo įstatymo projektą
 
 1. Rengiant biudžeto patvirtinimo įstatymo arba jo pakeitimo įstatymo projektą, turi būti laikomasi tiems metams Seimo nustatytų ir fiskaliniame struktūriniame plane nurodytų grynųjų išlaidų augimo ribų.
 
@@ -138,11 +138,11 @@ FISKALINĖS VALDYSENOS
 
 7. Jeigu tam tikrais metais Lietuvai taikoma perviršinio deficito procedūra, nepriklausoma fiskalinė institucija skelbia išvadą dėl grynųjų išlaidų augimo atitikties taisomajam grynųjų išlaidų planui ir rekomendacijos įgyvendinimo priemonių pakankamumo.
 
-\#### 8 straipsnis. Lietuvos biudžeto projekto teikimas
+## 8 straipsnis. Lietuvos biudžeto projekto teikimas
 
 Lietuvos biudžeto projektą Finansų ministerija Europos Komisijai pateikia ne vėliau kaip per 3 darbo dienas nuo biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos.
 
-\#### 9 straipsnis. Metinės pažangos ataskaitos rengimas ir teikimas
+## 9 straipsnis. Metinės pažangos ataskaitos rengimas ir teikimas
 
 1. Metinė pažangos ataskaita rengiama Vyriausybės nustatyta jos rengimo ir įgyvendinimo tvarka. Vyriausybė savo patvirtintą metinę pažangos ataskaitą teikia Europos Komisijai ir Europos Sąjungos Tarybai kasmet iki balandžio 30 dienos.
 
@@ -170,11 +170,11 @@ Lietuvos biudžeto projektą Finansų ministerija Europos Komisijai pateikia ne 
 
 6) jeigu grynųjų išlaidų augimas pagal faktinius duomenis viršijo Seimo nustatytą grynųjų išlaidų augimo ribą ir (arba) BPKF išlaidos buvo mažesnės negu BPKF išlaidų tikslinė reikšmė, – grynųjų išlaidų augimo ribos viršijimo ir (arba) išlaidų investicijoms tikslinės reikšmės nepasiekimo veiksnių.
 
-\#### 10 straipsnis. Savivaldybės biudžeto fiskalinės drausmės taisyklės laikymosi stebėsena
+## 10 straipsnis. Savivaldybės biudžeto fiskalinės drausmės taisyklės laikymosi stebėsena
 
 Nepriklausoma fiskalinė institucija kasmet skelbia išvadą dėl kiekvienos savivaldybės biudžeto rodiklių atitikties savivaldybės biudžeto fiskalinės drausmės taisyklei, nustatytai Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 5 straipsnyje. Apie savivaldybės biudžeto rodiklių atitiktį savivaldybės biudžeto fiskalinės drausmės taisyklei sprendžiama pagal savivaldybės biudžeto vykdymo ataskaitos duomenis ir savivaldybių tarybų patvirtintus einamųjų metų savivaldybių biudžetų rodiklius ir po einamųjų metų einantiems 2 metams projektuojamus savivaldybių biudžetų rodiklius.
 
-\#### 11 straipsnis. Taisyklės dėl nepriklausomos fiskalinės institucijos išvados
+## 11 straipsnis. Taisyklės dėl nepriklausomos fiskalinės institucijos išvados
 
 1. Nepriklausomos fiskalinės institucijos išvadai taikoma:
 
@@ -200,7 +200,7 @@ Nepriklausoma fiskalinė institucija kasmet skelbia išvadą dėl kiekvienos sav
 
 4. Šiame įstatyme nurodytos nepriklausomos fiskalinės institucijos išvados skelbiamos Valstybės kontrolės interneto svetainėje.
 
-\#### 12 straipsnis. Ilgalaikio valdžios sektoriaus finansų tvarumo vertinimas
+## 12 straipsnis. Ilgalaikio valdžios sektoriaus finansų tvarumo vertinimas
 
 1. Vyriausybės įgaliota institucija Vyriausybės arba savo nustatyta tvarka ne rečiau kaip kartą per 3 metus iki biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos atlieka vertinimus ir parengia ataskaitą dėl Seimo tvirtinamo vidutinės trukmės konsoliduotojo biudžeto formuojamos politikos poveikio:
 
@@ -210,7 +210,7 @@ Nepriklausoma fiskalinė institucija kasmet skelbia išvadą dėl kiekvienos sav
 
 2. Šio straipsnio 1 dalyje nurodytų vertinimų ataskaitos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka skelbiamos Vyriausybės arba jos įgaliotos institucijos interneto svetainėje ir teikiamos Seimui. Į šių vertinimų rezultatus atsižvelgiama Seime svarstant biudžeto patvirtinimo įstatymo projektą.
 
-\#### 13 straipsnis. Fiskalinės valdysenos vertinimas
+## 13 straipsnis. Fiskalinės valdysenos vertinimas
 
 Nepriklausoma fiskalinė institucija atlieka fiskalinės valdysenos nuoseklumo, darnos ir veiksmingumo vertinimą pagal Valstybės kontrolės interneto svetainėje skelbiamą metodiką ir skelbia šio vertinimo išvadą.
 
@@ -230,7 +230,7 @@ priedas
 
 _______________“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

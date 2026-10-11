@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E93551DC9A5F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E93551DC9A5F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 15 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [66-1572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6); 1998, Nr. [109-2995](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6CC51EA4ED); 2007, Nr. [17-630](https://www.e-tar.lt/portal/lt/legalAct/TAR.7AF0D4B185D1), Nr. [72-2834](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE5AEA5D3319))
 
-\#### 1 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, išskyrus įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų susirinkimas.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 1. Iki šio įstatymo įsigaliojimo į Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovų pareigas tam tikram laikui (kadencijai) priimti asmenys toliau eina atitinkamos įstaigos vadovo pareigas iki kadencijos pabaigos.
 

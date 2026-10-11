@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9B8EACB0DFAF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9B8EACB0DFAF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 1, 2, 4, 25, 36, 42, 46, 84, 128, 133, 134, 140, 142, 143, 147, 152, 156 straipsnių pakeitimo ir papildymo, 129 straipsnio ir VIII skyriaus šeštojo skirsnio pripažinimo netekusiais galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [74-3424](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF); 2011, Nr. [146-6820](https://www.e-tar.lt/portal/lt/legalAct/TAR.0210F68F474A); 2012, Nr. [77-3977](https://www.e-tar.lt/portal/lt/legalAct/TAR.1D27F59F611C))
 
-\#### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas
+## 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 3) suderintųjų kolektyvinio investavimo subjektų ir neprofesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonėms.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 32 dalį ir ją išdėstyti taip:
 
@@ -50,13 +50,13 @@ Vilnius
 
 3. Buvusias 2 straipsnio 41–55 dalis laikyti atitinkamai 40–54 dalimis.
 
-\#### 3 straipsnis. 4 straipsnio papildymas 7 dalimi
+## 3 straipsnis. 4 straipsnio papildymas 7 dalimi
 
 Papildyti 4 straipsnį 7 dalimi:
 
 „7. Valdymo įmonės veiklos licenciją pagal šį įstatymą gavusi valdymo įmonė taip pat turi teisę valdyti kolektyvinio investavimo subjektus, įsteigtus pagal Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, jeigu tokia teisė numatyta valdymo įmonės veiklos licencijoje.“
 
-\#### 4 straipsnis. 25 straipsnio 4, 5 dalių pripažinimas netekusiomis galios ir 7 dalies pakeitimas
+## 4 straipsnis. 25 straipsnio 4, 5 dalių pripažinimas netekusiomis galios ir 7 dalies pakeitimas
 
 1. 25 straipsnio 4 dalį pripažinti netekusia galios.
 
@@ -66,23 +66,23 @@ Papildyti 4 straipsnį 7 dalimi:
 
 „7. Metų ir pusmečio ataskaitos turi būti prieinamos investuotojams prospekte ir pagrindinės informacijos investuotojams dokumente nurodytu būdu.“
 
-\#### 5 straipsnis. 36 straipsnio 3 dalies 5 punkto pripažinimas netekusiu galios
+## 5 straipsnis. 36 straipsnio 3 dalies 5 punkto pripažinimas netekusiu galios
 
 36 straipsnio 3 dalies 5 punktą pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 42 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 42 straipsnio 3 dalies pakeitimas
 
 42 straipsnio 3 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip:
 
 „3. Vadovaujantis šiuo įstatymu įsteigtų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos gali būti platinami reguliuojamos rinkos ar daugiašalės prekybos sistemos operatoriaus ir (ar) atsiskaitymų sistemos techninėmis organizacinėmis priemonėmis priežiūros institucijos nustatyta tvarka.“
 
-\#### 7 straipsnis. 46 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 46 straipsnio 1 dalies pakeitimas
 
 Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valdymo įmonė ar investicinė bendrovė kolektyvinio investavimo subjekto dalyvio reikalavimu privalo išpirkti jo investicinius vienetus ar akcijas paraiškos išpirkti investicinius vienetus ar akcijas pateikimo dienos kaina, jeigu paraiška pateikiama iki valdymo įmonės ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, nustatyto paraiškos priėmimo laiko pabaigos. Jeigu paraiška pateikiama po nustatyto laiko, investiciniai vienetai ar akcijos privalo būti išpirkti kitos darbo dienos po paraiškos pateikimo kaina, išskyrus paraišką išpirkti nekilnojamojo turto, privataus kapitalo kolektyvinio investavimo subjektoir (ar) kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, investicinius vienetus ar akcijas (tokios paraiškos anuliuojamos).“
 
-\#### 8 straipsnis. 84 straipsnio 1 ir 2 dalių pakeitimas
+## 8 straipsnis. 84 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 84 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2. Jeigu finansuojamasis subjektas turi bent du finansuojančiuosius subjektus, jam netaikomas suderintojo kolektyvinio investavimo subjekto sąvokoje, apibrėžtoje šio įstatymo 2 straipsnio 41dalyje, nurodytas vienintelio jo tikslo požymis, taip pat suderintiesiems kolektyvinio investavimo subjektams, kurių investiciniai vienetai ar akcijos nėra viešai siūlomi Lietuvos Respublikoje ar kitose valstybėse narėse, taikomas apribojimas, nustatytas šio įstatymo 1 straipsnio 3 dalyje.“
 
-\#### 9 straipsnis. 128 straipsnio 2 ir 4 dalių pakeitimas
+## 9 straipsnis. 128 straipsnio 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 128 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -102,23 +102,23 @@ Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Nekilnojamojo turto arprivataus kapitalo kolektyvinio investavimo subjekto valdymo įmonė, nekilnojamojo turto arprivataus kapitalo investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, turi teisę atidėti šio straipsnio 3 dalyje nustatytą atsiskaitymo už išperkamus investicinius vienetus ar akcijas terminą, kai išperkamų investicinių vienetų ar akcijų bendra vertė viršija subjekto steigimo dokumentuose ir prospekte nustatytą vertę, kuri negali būti mažesnė negu 10 procentų subjekto grynųjų aktyvų vertės, arba išimtiniais atvejais, kai nepakanka lėšų išmokėti už išperkamus investicinius vienetus ar akcijas, o turimų investavimo objektų pardavimas būtų nuostolingas. Atsiskaitymas gali būti atidedamas tik tuo atveju, kai tokia valdymo įmonės ar investicinės bendrovės teisė nustatyta subjekto steigimo dokumentuose ir prospekte.“
 
-\#### 10 straipsnis. 129 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 129 straipsnio pripažinimas netekusiu galios
 
 129 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 133 straipsnio 5 dalies pakeitimas
+## 11 straipsnis. 133 straipsnio 5 dalies pakeitimas
 
 Pakeisti 133 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius investicinė bendrovė ar valdymo įmonė, valdanti kolektyvinio investavimo į perleidžiamuosius vertybinius popieriussubjektą, gali skolintis iki 15 procentų paskolos sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto steigimo dokumentuose iš anksto nustatytam terminui.“
 
-\#### 12 straipsnis. 134 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 134 straipsnio 1 dalies pakeitimas
 
 134 straipsnio 1 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip:
 
 „1. Nekilnojamojo turto kolektyvinio investavimo subjekto valdymo įmonė ar nekilnojamojo turto investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo užtikrinti, kad kolektyvinio investavimo subjekto investicijų portfelį sudarančius ar ketinamus įsigyti nekilnojamojo turto objektus vertintų ne mažiau kaip du nepriklausomi, teisę verstis nekilnojamojo turto vertinimo veikla turintys turto vertintojai, išskyrus turto vertintojus asistentus, kurie pateiktų atskiras išvadas.“
 
-\#### 13 straipsnis. 140 straipsnio pakeitimas
+## 13 straipsnis. 140 straipsnio pakeitimas
 
 Pakeisti 140 straipsnį ir jį išdėstyti taip:
 
@@ -128,35 +128,35 @@ Pakeisti 140 straipsnį ir jį išdėstyti taip:
 
 2. Privataus kapitalo investicinė bendrovė ar valdymo įmonė, valdanti privataus kapitalo kolektyvinio investavimo subjektą, gali skolintis kolektyvinio investavimo subjekto sąskaita iki 80 procentų paskolos sutarties sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto steigimo dokumentuose iš anksto nustatytam terminui.“
 
-\#### 14 straipsnis. 142 straipsnio 6 dalies pripažinimas netekusia galios
+## 14 straipsnis. 142 straipsnio 6 dalies pripažinimas netekusia galios
 
 142 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 15 straipsnis. 143 straipsnio 2 dalies pripažinimas netekusia galios
+## 15 straipsnis. 143 straipsnio 2 dalies pripažinimas netekusia galios
 
 143 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 16 straipsnis. 147 straipsnio 5 dalies pripažinimas netekusia galios
+## 16 straipsnis. 147 straipsnio 5 dalies pripažinimas netekusia galios
 
 147 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 17 straipsnis. VIII skyriaus šeštojo skirsnio pripažinimas netekusiu galios
+## 17 straipsnis. VIII skyriaus šeštojo skirsnio pripažinimas netekusiu galios
 
 VIII skyriaus šeštąjį skirsnį pripažinti netekusiu galios.
 
-\#### 18 straipsnis. 152 straipsnio 8 dalies pakeitimas
+## 18 straipsnis. 152 straipsnio 8 dalies pakeitimas
 
 Pakeisti 152 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Jeigu nors viena uždarojo tipo investicinės bendrovės akcijų emisija buvo platinama šio įstatymo 2 straipsnio 54dalyje nustatyta tvarka, kitų tos pačios bendrovės akcijų emisijų platinimas taip pat privalo būti vykdomas ta pačia tvarka.“
 
-\#### 19 straipsnis. 156 straipsnio 1 dalies pakeitimas
+## 19 straipsnis. 156 straipsnio 1 dalies pakeitimas
 
 156 straipsnio 1 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip:
 
 „1. Remiantis šiuo įstatymu įsteigto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos gali būti įtraukiami į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje, laikantis šiame įstatyme ir Finansinių priemonių rinkų įstatyme nustatytų taisyklių, reglamentuojančių finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje, reikalavimų.“
 
-\#### 20 straipsnis. Baigiamosios nuostatos
+## 20 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas įsigalioja 2013 m. liepos 1 d.
 

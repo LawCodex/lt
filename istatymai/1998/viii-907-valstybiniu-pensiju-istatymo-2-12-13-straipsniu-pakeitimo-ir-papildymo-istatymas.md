@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C913DBC37928"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C913DBC37928.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 2, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 1997, Nr. 38-925, Nr. 104-2622)
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies papildymas
+## 1 straipsnis. 2 straipsnio 2 dalies papildymas
 
 2 straipsnio 2 dalyje prieš žodžius „Valstybinių pensijų dydžio matas“ įrašyti žodžius „Šio įstatymo 1 straipsnio 1 dalies 2, 3 ir 5 punktuose nurodytų“ ir šią dalį išdėstyti taip:
 
 „Šio įstatymo 1 straipsnio 1 dalies 2, 3 ir 5 punktuose nurodytų valstybinių pensijų dydžio matas yra valstybinių pensijų bazė, kuri 1998 m. sausio 1 d. yra lygi tuo metu taikomam valstybinės socialinio draudimo bazinės pensijos dydžiui. Valstybinių pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu.“
 
-\#### 2 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas
+## 2 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti 12 straipsnio 1 dalies 1 punktą, papildyti šią dalį nauju 2 punktu, buvusį 2 punktą laikyti 3 punktu ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 12 straipsnio 1 dalies 1 punktą, papildyti šią dalį nauju 2 punktu,
 
 3) pripažintiems III grupės invalidais – valstybinių pensijų bazės dydžio.“
 
-\#### 3 straipsnis. 13 straipsnio 2 dalies pakeitimas ir papildymas
+## 3 straipsnis. 13 straipsnio 2 dalies pakeitimas ir papildymas
 
 Pakeisti 13 straipsnio 2 dalies 1 punktą, papildyti šią dalį nauju 2 punktu, buvusį 2 punktą laikyti 3 punktu ir šią dalį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 13 straipsnio 2 dalies 1 punktą, papildyti šią dalį nauju 2 punktu,
 
 3) pripažintiems III grupės invalidais – 0,75 valstybinių pensijų bazės dydžio.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
 

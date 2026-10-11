@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7C998994CA2D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7C998994CA2D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos valstybinio komercinio banko ir Lietuvos žemės ūkio banko privatizavimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [28-665](https://www.e-tar.lt/portal/lt/legalAct/TAR.E4973941A6CE))
 
-\#### 1 straipsnis. Lietuvos valstybinio komercinio banko ir Lietuvos žemės ūkio banko privatizavimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos valstybinio komercinio banko ir Lietuvos žemės ūkio banko privatizavimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos valstybinio komercinio banko ir Lietuvos žemės ūkio banko privatizavimo įstatymą ir jį išdėstyti taip:
 
@@ -38,11 +38,11 @@ LIETUVOS RESPUBLIKOS LIETUVOS ŽEMĖS ŪKIO BANKO PRIVATIZAVIMO
 
 Į S T A T Y M A S
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šio įstatymo paskirtis – leisti Vyriausybei organizuoti ir vykdyti akcinės bendrovės Lietuvos žemės ūkio bankas (toliau – Lietuvos žemės ūkio bankas) privatizavimą.
 
-\#### 2 straipsnis. Privatizavimo būdas
+## 2 straipsnis. Privatizavimo būdas
 
 1. Lietuvos žemės ūkio bankas gali būti privatizuojamas šiais būdais:
 
@@ -56,7 +56,7 @@ LIETUVOS RESPUBLIKOS LIETUVOS ŽEMĖS ŪKIO BANKO PRIVATIZAVIMO
 
 3. Šio straipsnio 1 dalies 3 punkte nurodytas valstybei nuosavybės teise priklausančių Lietuvos žemės ūkio banko akcijų pardavimas vykdomas vadovaujantis Valstybės ir savivaldybių turto privatizavimo įstatymu (Žin., 1997, Nr. 107-2688).
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 Privatizuojant Lietuvos žemės ūkio banką šio įstatymo 2 straipsnio 1 dalies 1 ir 2 punktuose nurodytais būdais, netaikomas Valstybės ir savivaldybių turto privatizavimo įstatymas.“
 

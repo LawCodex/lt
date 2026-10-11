@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ACA8B5DCEF23"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ACA8B5DCEF23.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 18, 34, 42 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 18-3, 34-1 straipsniais įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [73-3103](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF); 2003, Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610); 2004, Nr. [4-32](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA), Nr. [116-4323](https://www.e-tar.lt/portal/lt/legalAct/TAR.519B021AB4AF); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72), Nr. [72-2689](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE1C008B5565);2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B); 2008, Nr. 120‑4549, Nr. 143-5688; 2010, Nr. 71-3542, Nr. 81-4230; 2011, Nr. 57-2705; 2012, Nr. 69‑3523, Nr. 129-6471; 2013, Nr. 54-2685)
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 4 straipsnio 2 dalyje po skaičiaus ir žodžio „18^1straipsnis“ įrašyti skaičių ir žodį „18^3 straipsnis“, po skaičiaus ir žodžio „33 straipsnis“ įrašyti skaičius ir žodžius „34 straipsnis, 34^1 straipsnis“, po skaičių ir žodžių „39 straipsnio 1 dalis“ įrašyti skaičius ir žodžius „42 straipsnio 2 dalis“ ir šią dalį išdėstyti taip:
 
 „2. Statutiniams valstybės tarnautojams šio Įstatymo 3^1 straipsnis, 9 straipsnio 3 dalies 1 punktas ir 4 dalis, 15 straipsnis, 16 straipsnio 4 ir 6 dalys, 16^1 straipsnis, 17 straipsnis, 18^1 straipsnis, 18^3 straipsnis, 19 straipsnis, 28 straipsnis, 29 straipsnio 2, 5 ir 6 dalys, 31 straipsnis, 31^1 straipsnis, 32 straipsnis, 33 straipsnis, 34 straipsnis, 34^1 straipsnis, 38^1straipsnis, 39 straipsnio 1 dalis, 42 straipsnio 2 dalis, 43 straipsnio 5 dalies 9 punktas, 44 straipsnio 1 dalies 19 ir 20 punktai ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja jų statutai ar Diplomatinės tarnybos įstatymas.“
 
-\#### 2 straipsnis. 18 straipsnio 11 dalies pakeitimas
+## 2 straipsnis. 18 straipsnio 11 dalies pakeitimas
 
 Pakeisti 18 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „11. Į karjeros valstybės tarnautojo ar įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu), laikinai negalinčio eiti pareigų, pareigas kitas karjeros valstybės tarnautojas gali būti perkeltas, iki grįš negalintis eiti pareigų valstybės tarnautojas. Kitais atvejais laikinai perkeltas į kitas pareigas karjeros valstybės tarnautojas negali būti ilgiau negu vienerius metus per penkerius tarnybos metus. Šis reikalavimas netaikomas valstybės tarnautojo laikino perkėlimo, uždraudus jam dirbti ar susipažinti su įslaptinta informacija, atvejais.“
 
-\#### 3 straipsnis. Įstatymo papildymas 183 straipsniu
+## 3 straipsnis. Įstatymo papildymas 183 straipsniu
 
 Papildyti Įstatymą 18^3 straipsniu:
 
@@ -64,7 +64,7 @@ Papildyti Įstatymą 18^3 straipsniu:
 
 7. Laikinai perkeltam į kitas pareigas valstybės tarnautojui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.“
 
-\#### 4 straipsnis. 34 straipsnio pakeitimas
+## 4 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 4. Sprendime nušalinti valstybės tarnautoją nuo pareigų turi būti nurodyta laikotarpis, kuriam valstybės tarnautojas nušalinamas nuo pareigų, nušalinimo priežastys, teisinis pagrindas, sprendimo apskundimo tvarka ir terminai.“
 
-\#### 5 straipsnis. Įstatymo papildymas 341 straipsniu
+## 5 straipsnis. Įstatymo papildymas 341 straipsniu
 
 Papildyti Įstatymą 34^1 straipsniu:
 
@@ -104,7 +104,7 @@ Papildyti Įstatymą 34^1 straipsniu:
 
 4. Nuo pareigų nušalintas valstybės tarnautojas nepraranda valstybės tarnautojo teisės dirbti kitą darbą pagal šio Įstatymo 161 straipsnį.“
 
-\#### 6 straipsnis. 42 straipsnio papildymas ir pakeitimas
+## 6 straipsnis. 42 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 42 straipsnį nauja 2 dalimi:
 

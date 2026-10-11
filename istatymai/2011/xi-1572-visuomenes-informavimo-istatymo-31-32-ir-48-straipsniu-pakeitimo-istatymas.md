@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.877908F3E434"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.877908F3E434.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 31, 32 ir 48 straipsnių pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E); 2010, Nr. [123-6260](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A0A728FEF4C); 2011, Nr. [78-3797](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2C0206DCBBF))
 
-\#### 1 straipsnis. 31 straipsnio 2, 3, 4 ir 9 dalių pakeitimas
+## 1 straipsnis. 31 straipsnio 2, 3, 4 ir 9 dalių pakeitimas
 
 1. 31 straipsnio 2 dalies pirmajame sakinyje vietoj žodžio „Radijo“ įrašyti žodį „radijo“, išbraukti žodį „strateginį“ ir šią dalį išdėstyti taip:
 
@@ -52,19 +52,19 @@ Vilnius
 
 „5) kitais atvejais, kai tai numatyta radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane.“
 
-\#### 2 straipsnis. 32 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 32 straipsnio 1 dalies pakeitimas
 
 32 straipsnio 1 dalies antrajame sakinyje vietoj žodžio „Radijo“ įrašyti žodį „radijo“, išbraukti žodį „strateginis“ ir šią dalį išdėstyti taip:
 
 „1. Be Komisijos leidimo radijo ir (ar) televizijos programų transliuotojai ir (ar) retransliuotojai negali didinti ar kitaip keisti licencijoje nustatytos licencijuojamos veiklos teritorijos (transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų aprėpties zonos). Tais atvejais, kai tokiam transliavimui ir (ar) retransliavimui naudojamų radijo dažnių (kanalų) skyrimą ir naudojimą reglamentuoja radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti planas, Komisijos leidimas turi būti gaunamas tik tuo atveju, jeigu licencijuojamos veiklos teritorija keičiama pagal šiame plane nustatytus kriterijus.“
 
-\#### 3 straipsnis. 48 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 48 straipsnio 1 dalies pakeitimas
 
 48 straipsnio 1 dalies 1 punkte vietoj žodžių „Radijo“ įrašyti žodžius „radijo“, išbraukti žodį „strateginį“ ir šį punktą išdėstyti taip:
 
 „1) kartu su Ryšių reguliavimo tarnyba rengti radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti strategiją, kartu su Ryšių reguliavimo tarnyba, vadovaujantis radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti strategija, rengti ir tvirtinti radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti planą;“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
 

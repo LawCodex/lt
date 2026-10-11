@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ef936e02ca0111f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EF936E02CA01.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
@@ -26,7 +26,7 @@ NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO NR. VIII-49 PRIEDĖLIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo priedėlio pakeitimas
+## 1 straipsnis. Įstatymo priedėlio pakeitimas
 
 Papildyti Įstatymo priedėlio I dalies 4 skyrių po poskyrio „Tautinė politika“ poskyriu „Žemės ūkio ir (ar) maisto ūkio politika“:
 
@@ -42,7 +42,7 @@ Valstybės žemės ūkio ir (ar) maisto ūkio politika turi sudaryti sąlygas da
 
 Valstybė, siekdama gyventojus aprūpinti maisto produktais, susidarius ekstremaliajai situacijai ar ištikus krizei ir šalinant jų padarinius, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį, žemės ūkio ir (ar) maisto ūkio veiklą nurodytais atvejais turintiems vykdyti ūkio subjektams turi sudaryti teisines, ekonomines ir kitas reikalingas sąlygas, kuriomis būtų užtikrinama šių subjektų veikla, reikalinga maisto produktų gamybai ir tiekimui nurodytais atvejais.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. rugpjūčio 1 d.
 

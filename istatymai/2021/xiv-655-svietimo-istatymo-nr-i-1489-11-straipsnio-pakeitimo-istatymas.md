@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e61448c0537911ec862fdcbc8b3e3e05"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E61448C05379.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymas
@@ -90,5 +90,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1729, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00144
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymo Nr. XIV-655 1 straipsnio pakeitimo įstatymas
-
-part_d2d71a0525de4994bacc254e9f400484_end

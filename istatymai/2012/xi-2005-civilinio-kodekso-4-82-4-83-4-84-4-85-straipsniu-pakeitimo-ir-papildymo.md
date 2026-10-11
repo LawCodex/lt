@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F70706E42FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F70706E42FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 4.82, 4.83, 4.84, 4.85 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB))
 
-\#### 1 straipsnis. 4.82 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 4.82 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 4.82 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 4. Buvusias 4.82 straipsnio 4 ir 5 dalis laikyti atitinkamai 6 ir 7 dalimis.
 
-\#### 2 straipsnis. 4.83 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 4.83 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 4.83 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 „4. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimtas butų ir kitų patalpų savininkų susirinkimo sprendimas šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.“
 
-\#### 3 straipsnis. 4.84 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 4.84 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 4.84 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti ir papildyti 4.84 straipsnį ir jį išdėstyti taip:
 
 12. Šio straipsnio 5 ir 6 dalių normos mutatis mutandis taikomos ir bendrojo naudojimo objektų administratoriams, veikiantiems pagal su daugiabučio namo butų ir kitų patalpų savininkų bendrija arba butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyviais sudarytas sutartis dėl bendrojo naudojimo objektų administravimo.“
 
-\#### 4 straipsnis. 4.85 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 4.85 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 4.85 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti ir papildyti 4.85 straipsnį ir jį išdėstyti taip:
 
 9. Buto ar kitos patalpos savininko teisei apskųsti šiame straipsnyje nustatyta tvarka priimtus butų ir kitų patalpų savininkų sprendimus taikomas 6 mėnesių ieškinio senaties terminas.“
 
-\#### 5 straipsnis. Baigiamosios nuostatos
+## 5 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2013 m. sausio 1 d.
 

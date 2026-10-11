@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/63eac0a24dd411f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.63EAC0A24DD4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 7, 14, 21 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO ĮSTATYMO NR. VIII-1190 7, 14, 21 STRAIPSNIŲ
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo papildymas 61 straipsniu
+## 1 straipsnis. Įstatymo papildymas 61 straipsniu
 
 Papildyti Įstatymą 6^1 straipsniu:
 
@@ -36,7 +36,7 @@ Papildyti Įstatymą 6^1 straipsniu:
 
 2. Aplinkos ministro įgaliota institucija šio straipsnio 1 dalyje nurodyta tvarka prižiūri, kad būtų laikomasi radioaktyviųjų atliekų, pasižyminčių pavojingosiomis savybėmis, tvarkymo reikalavimų dėl pavojingųjų savybių galimo poveikio visuomenės sveikatai ir aplinkai.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -60,13 +60,13 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 4) kartu su aplinkos ministru nustato radioaktyviųjų atliekų, pasižyminčių pavojingosiomis savybėmis, tvarkymo reikalavimus dėl pavojingųjų savybių galimo poveikio visuomenės sveikatai ir aplinkai ir šių reikalavimų laikymosi priežiūros tvarką.“
 
-\#### 3 straipsnis. 14 straipsnio pakeitimas
+## 3 straipsnis. 14 straipsnio pakeitimas
 
 Papildyti 14 straipsnio 5 dalį 1^1punktu:
 
 „1^1) numatomos ir taikomos priemonės, ribojančios galimą radioaktyviųjų atliekų, pasižyminčių pavojingosiomis savybėmis, pavojingųjų savybių neigiamą poveikį visuomenės sveikatai ir aplinkai;“.
 
-\#### 4 straipsnis. 21 straipsnio pakeitimas
+## 4 straipsnis. 21 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnio 11 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ Papildyti 14 straipsnio 5 dalį 1^1punktu:
 
 „5.Uždaryto atliekyno priežiūra Energetikos ministerijos teikimu gali būti nutraukta Vyriausybės nutarimu, Energetikos ministerijai suderinus su Valstybine atominės energetikos saugos inspekcija. Jeigu į atliekyną yra padėtos radioaktyviosios atliekos, pasižyminčios pavojingosiomis savybėmis, Energetikos ministerija uždaryto atliekyno priežiūros nutraukimą suderina ir su aplinkos ministro įgaliota institucija.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. gruodžio 1 d.
 

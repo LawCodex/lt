@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F9201572A902"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F9201572A902.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 5, 12, 26, 35, 36, 37, 53 straipsnių pakeitimo ir papildymo, įstatymo papildymo 37-1 bei 37-2 straipsniais ir Įstatymo 3 priedėlio papildymo įstatymo 8 ir 12 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A69FC3C021A); 2005, Nr. [153-5635](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FFF201EEF65); 2008, Nr. [87-3458](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB0E33BB3F47), Nr. [149-6002](https://www.e-tar.lt/portal/lt/legalAct/TAR.5ACF5B3B1B95))
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Papildyti Įstatymą 37^1 straipsniu:
 
 7. Šio straipsnio nuostatos taikomos taip pat valstybėms ir Europos Sąjungos valstybėms narėms priklausomoms teritorijoms, jeigu toks taikymas numatytas Europos Sąjungos teisės aktuose.“
 
-\#### 2 straipsnis. 12 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 12 straipsnio 4 dalies pakeitimas
 
 Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Šio Įstatymo 9 straipsnis įsigalioja praėjus ketveriems kalendoriniams metams nuo 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo taikymo pradžios ir galioja iki 2009 m. gruodžio 31 d.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnis įsigalioja 2010 m. sausio 1 d.
 

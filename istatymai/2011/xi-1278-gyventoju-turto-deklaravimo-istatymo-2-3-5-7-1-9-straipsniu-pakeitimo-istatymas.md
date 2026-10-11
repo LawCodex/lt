@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DB3F519CDC20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DB3F519CDC20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 3, 5, 7-1, 9 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 2010, Nr. 25-1178, Nr. 63-3097, Nr. 125-6377)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 4. Valstybės tarnybos tvarkymo funkcijas atliekanti įstaiga, vadovaudamasi Valstybės tarnautojų registre esančiais duomenimis, iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, vardinį sąrašą.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -134,13 +134,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 5. Šio Įstatymo 2 straipsnio 1 dalies 24, 25, 27 ir 28 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šio Įstatymo 2 straipsnio 1 dalies 1–23 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.“
 
-\#### 4 straipsnis. 71 straipsnio pakeitimas
+## 4 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 7^1 straipsnį ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 7^1 straipsnį ir jį išdėstyti taip:
 
 3. Atskaitinė deklaracija neteikiama, jeigu asmuo turtą deklaruoti privalo remdamasis šio Įstatymo 2 straipsnio 1 dalies 1–23 punktais.“
 
-\#### 5 straipsnis. 9 straipsnio pakeitimas
+## 5 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 

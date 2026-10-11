@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.80744357C858"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.80744357C858.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Valstybių, dalyvaujančių Daugianacionalinėje nuolatinės parengties greitojo reagavimo brigadoje Jungtinių Tautų operacijoms, susitarimo dėl jų pajėgų statuso ratifikavimo
@@ -26,7 +26,7 @@ DĖL VALSTYBIŲ, DALYVAUJANČIŲ DAUGIANACIONALINĖJE NUOLATINĖS PARENGTIES GRE
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu, Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 344, ratifikuoja 2003 m. spalio 29 d. Kopenhagoje pasirašytą Valstybių, dalyvaujančių Daugianacionalinėje nuolatinės parengties greitojo reagavimo brigadoje Jungtinių Tautų operacijoms, susitarimą dėl jų pajėgų statuso.
 

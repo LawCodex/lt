@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f69057209eb111f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F69057209EB1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 18 ir 35 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ AVIACIJOS ĮSTATYMO NR. VIII-2066 2, 18 IR 35 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 37 dalį ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente [(EEB) Nr. 95/93](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31993R0095&locale=lt), Reglamente [(EB) Nr. 300/2008](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008R0300&locale=lt), Reglamente [(EB) Nr. 1008/2008](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008R1008&locale=lt), Reglamente [(ES) Nr. 1178/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1178&locale=lt), Reglamente [(ES) Nr. 923/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0923&locale=lt), Reglamente [(ES) Nr. 965/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0965&locale=lt), Reglamente [(ES) 2017/373](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R0373&locale=lt), Reglamente [(ES) 2018/1139](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018R1139&locale=lt), Reglamente [(ES) 2019/945](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0945&locale=lt), Reglamente [(ES) 2019/947](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0947&locale=lt), Reglamente [(ES) 2021/664](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32021R0664&locale=lt), 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente [(ES) 2024/2803](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R2803&locale=lt) dėl Bendro Europos dangaus iniciatyvos įgyvendinimo, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme irLietuvos Respublikos vidaus tarnybos statute.“
 
-\#### 2 straipsnis. 18 straipsnio pakeitimas
+## 2 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Visuomenės saugos sumetimais susisiekimo ministras nustato draudžiamąsias, ribojamąsias arba pavojingąsias zonas. Tokie sprendimai priimami LTSA teikimu, suderintu su kariuomenės vadu ar jo įgaliotu asmeniu, arba, reaguojant į galimus ar įvykusius oro erdvės pažeidimus, nustatytus stebint, kontroliuojant ir ginant Lietuvos Respublikos oro erdvę, ar į vietinio pobūdžio ginkluotus incidentus ir valstybės sienos pažeidimus,pagal savo pobūdį neprilygstančius agresijos aktams, kariuomenės vado ar jo įgalioto asmens teikimu. Draudimai ir apribojimai neturi būti taikomi ilgiau, negu to reikalauja juos lėmusios priežastys.“
 
-\#### 3 straipsnis. Įstatymo papildymas 181 straipsniu
+## 3 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti Įstatymą 18^1 straipsniu:
 
@@ -60,7 +60,7 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 6. Oro erdvės valdymo paslaugų teikėjas užtikrina, kad informacija apie šio straipsnio 2 dalyje nurodytos (-ų) ribojamosios (-ųjų) zonos (-ų) numatomą aktyvavimą ne vėliau kaip likus 10 minučių iki šio straipsnio 1 dalyje nurodytame prašyme nurodyto ribojamosios (-ųjų) zonos (-ų) aktyvavimo laiko būtų perduota į šią (šias) ribojamąją (-ąsias) zoną (-as) patenkančių oro eismo paslaugų oro erdvės ir draudžiamųjų, ribojamųjų, pavojingųjų, laikinai išskirtų, specialiųjų sklandymo zonų, bepiločių orlaivių sistemų (UAS) geografinių zonų ir rezervuojamųjų oro erdvių steigėjams ir (arba) valdytojams.“
 
-\#### 4 straipsnis. 35 straipsnio pakeitimas
+## 4 straipsnis. 35 straipsnio pakeitimas
 
 1. Pakeisti 35 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 „2. Orlaivių, kuriuose nėra radiolokacinio atsakiklio, veikiančio „A + C“ arba „S“ režimu, skrydžiai Lietuvos Respublikos valdomąja oro erdve ir nevaldomąja oro erdve galimi tik gavus oro eismo paslaugų teikėjo leidimą oro eismo paslaugų teikėjo teikimu LTSA nustatyta tvarka. Apie suteiktus leidimus oro eismo paslaugų teikėjas nedelsdamas, bet ne vėliau kaip per 12 valandų nuo leidimo suteikimo praneša Lietuvos kariuomenės Karinių oro pajėgų vadui ar jo įgaliotam karininkui.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 5 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. spalio 1 d.
 

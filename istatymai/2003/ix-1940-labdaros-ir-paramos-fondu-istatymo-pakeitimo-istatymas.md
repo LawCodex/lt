@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C5EBFFF409BF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C5EBFFF409BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos labdaros ir paramos fondų įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-787](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1); 1997, Nr. [41-994](https://www.e-tar.lt/portal/lt/legalAct/TAR.53CBDEF88975); 2000, Nr. [18-430](https://www.e-tar.lt/portal/lt/legalAct/TAR.50076A978F71); 2001, Nr. [39-1332](https://www.e-tar.lt/portal/lt/legalAct/TAR.B7BE061EDDEF), Nr. [52-1816](https://www.e-tar.lt/portal/lt/legalAct/TAR.B37FAF0AA7A5), Nr. [102-3627](https://www.e-tar.lt/portal/lt/legalAct/TAR.D9FAA0E2947C))
 
-\#### 1 straipsnis. Lietuvos Respublikos labdaros ir paramos fondų įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos labdaros ir paramos fondų įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos labdaros ir paramos fondų įstatymą ir jį išdėstyti taip:
 
@@ -38,15 +38,15 @@ LABDAROS IR PARAMOS FONDŲ
 
 Į S T A T Y M A S
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas reglamentuoja juridinių asmenų, kurių teisinė forma yra labdaros ir paramos fondas (toliau – fondas), steigimą, valdymą, veiklą, pertvarkymo, pabaigos (reorganizavimo ir likvidavimo) ypatumus.
 
 2. Šis Įstatymas netaikomas kredito ir draudimo organizacijoms, turinčioms fondo pavadinimą, taip pat fondams, kurie steigiami pagal atskirus įstatymus arba tarptautines sutartis su kitomis valstybėmis bei tarptautinėmis organizacijomis ir reglamentuojami sutarties sąlygomis.
 
-\#### 2 straipsnis. Fondo samprata
+## 2 straipsnis. Fondo samprata
 
 1. Fondas – savo pavadinimą turintis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio pagrindiniai veiklos tikslai - labdaros arba (ir) paramos bei kitokios pagalbos teikimas Lietuvos Respublikos labdaros ir paramos įstatymo (toliau – Labdaros ir paramos įstatymas) ir šio Įstatymo nustatyta tvarka fiziniams ir juridiniams asmenims mokslo, kultūros, švietimo, meno, religijos, sporto, sveikatos apsaugos, socialinės globos ir rūpybos, aplinkos apsaugos ir kitose visuomenei naudingomis ir nesavanaudiškomis pripažįstamose srityse.
 
@@ -56,13 +56,13 @@ LABDAROS IR PARAMOS FONDŲ
 
 4. Fondas privalo turėti bent vieną sąskaitą banke.
 
-\#### 3 straipsnis. Fondo veiklos pagrindai
+## 3 straipsnis. Fondo veiklos pagrindai
 
 Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija), Lietuvos Respublikos civilinį kodeksą (toliau – Civilinis kodeksas), Labdaros ir paramos įstatymą, šį bei kitus įstatymus, Vyriausybės nutarimus ir savo įstatus.
 
-\### ANTRASIS SKIRSNIS. FONDO STEIGIMAS IR REGISTRAVIMAS
+ANTRASIS SKIRSNIS. FONDO STEIGIMAS IR REGISTRAVIMAS
 
-\#### 4 straipsnis. Steigėjai
+## 4 straipsnis. Steigėjai
 
 1. Fondo steigėjai gali būti fiziniai bei juridiniai asmenys, sudarę fondo steigimo sutartį ir iki fondo įregistravimo juridinių asmenų registre įsipareigoję skirti fondui įnašus pinigais ar turtu, teikti fondui paslaugas. Jeigu fondą steigia vienas asmuo, vietoj steigimo sutarties jis surašo steigimo aktą, kuriam taikomi steigimo sutarties reikalavimai.
 
@@ -76,7 +76,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 6. Steigiamo fondo vardu veikia steigimo sutartyje (steigimo akte) nurodytas arba steigiamojo susirinkimo įgaliotas asmuo.
 
-\#### 5 straipsnis. Fondo steigimo sutartis
+## 5 straipsnis. Fondo steigimo sutartis
 
 1. Fondo steigimo sutartyje (steigimo akte) turi būti nurodyta:
 
@@ -102,7 +102,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 5) kitos šiam ir kitiems įstatymams neprieštaraujančios nuostatos.
 
-\#### 6 straipsnis. Fondo registravimas ir juridinių asmenų registro duomenys
+## 6 straipsnis. Fondo registravimas ir juridinių asmenų registro duomenys
 
 1. Fondas turi būti įregistruotas juridinių asmenų registre teisės aktų nustatyta tvarka.
 
@@ -118,9 +118,9 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 2) finansinių metų pradžios ir pabaigos datos.
 
-\### TREČIASIS SKIRSNIS. FONDO VALDYMAS
+TREČIASIS SKIRSNIS. FONDO VALDYMAS
 
-\#### 7 straipsnis. Fondo organai
+## 7 straipsnis. Fondo organai
 
 1. Fondas turi turėti dalininkų susirinkimą ir valdymo organą (vienasmenį ar (ir) kolegialų).
 
@@ -132,7 +132,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 5. Dalininkų susirinkimai ir kolegialių organų posėdžiai turi būti protokoluojami.
 
-\#### 8 straipsnis. Visuotinis dalininkų susirinkimas
+## 8 straipsnis. Visuotinis dalininkų susirinkimas
 
 1. Visuotinis dalininkų susirinkimas yra aukščiausiasis fondo organas. Jeigu fondo dalininkas yra vienas asmuo, jo rašytiniai sprendimai prilygsta visuotinio dalininkų susirinkimo sprendimams.
 
@@ -168,7 +168,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 10. Fondo visuotinis dalininkų susirinkimas gali būti šaukiamas teismo sprendimu, jei jis nebuvo sušauktas fondo įstatų nustatyta tvarka ir dėl to į teismą kreipėsi fondo dalininkas ar valdymo organas.
 
-\#### 9 straipsnis. Valdymo organai
+## 9 straipsnis. Valdymo organai
 
 1. Valdymo organas veikia fondo vardu, esant santykiams su kitais asmenimis, taip pat sudaro sandorius fondo vardu.
 
@@ -182,7 +182,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 6. Kolegialus valdymo organas gali priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 narių.
 
-\#### 10 straipsnis. Finansinės veiklos kontrolė
+## 10 straipsnis. Finansinės veiklos kontrolė
 
 1. Fondas privalo įstatuose nustatytu periodiškumu atlikti finansinės veiklos patikrinimus. Juos atlieka revizorius arba auditorius, kuriuos fondo įstatuose nustatytam laikotarpiui renka dalininkų susirinkimas. Revizoriumi (auditoriumi) gali būti fizinis arba juridinis asmuo, bet ne steigėjas ar dalininkas ir ne valdymo organo narys ar fondo darbuotojas.
 
@@ -198,7 +198,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 4. Už darbą revizoriui (auditoriui) fondas gali mokėti atlyginimą. Atlyginimo dydį arba apmokėjimo už darbą sąlygas nustato visuotinis dalininkų susirinkimas.
 
-\#### 11 straipsnis. Fondo veiklos ataskaita
+## 11 straipsnis. Fondo veiklos ataskaita
 
 1. Fondo įstatuose nurodytas valdymo organas įstatuose nustatytu terminu turi parengti ir pateikti visuotiniam dalininkų susirinkimui kiekvienų praėjusių finansinių metų fondo veiklos ataskaitą. Ši ataskaita yra vieša. Kiekvieno fizinio ar juridinio asmens pareikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šia ataskaita susipažinti.
 
@@ -214,15 +214,15 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 3. Fondo veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis dalininkų susirinkimas.
 
-\### KETVIRTASIS SKIRSNIS. FONDO VEIKLA
+KETVIRTASIS SKIRSNIS. FONDO VEIKLA
 
-\#### 12 straipsnis. Fondo teisės ir pareigos
+## 12 straipsnis. Fondo teisės ir pareigos
 
 1. Fondas gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja fondo tikslams, numatytiems Civiliniame kodekse, šiame Įstatyme ir fondo įstatuose.
 
 2. Fondas turi teisę vykdyti įstatymų nedraudžiamą ūkinę komercinę veiklą, kuri neprieštarauja jo įstatams bei veiklos tikslams ir reikalinga jo tikslams pasiekti.
 
-\#### 13 straipsnis. Fondo įstatai
+## 13 straipsnis. Fondo įstatai
 
 1. Fondo įstatai yra fondo steigimo dokumentas, kuriuo fondas vadovaujasi savo veikloje.
 
@@ -272,7 +272,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 7. Įstatus pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.
 
-\#### 14 straipsnis. Fondo dalininkai
+## 14 straipsnis. Fondo dalininkai
 
 1. Fondo dalininkas turi teisę:
 
@@ -288,7 +288,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 3. Fondo dalininkas privalo laikytis fondo įstatų.
 
-\#### 15 straipsnis. Fondo veiklos ribojimai
+## 15 straipsnis. Fondo veiklos ribojimai
 
 1. Fondui leidžiama nuosavybės ar bet kokiomis kitomis teisėmis valdomą turtą ir lėšas perleisti, užtikrinti juo prievolių įvykdymą ar kitaip apriboti savo valdymo, naudojimo ir disponavimo teises į jį tik tuo atveju, kai tuo siekiama įgyvendinti fondo įstatuose nustatytus veiklos tikslus (įskaitant ir labdaros, ir paramos tikslus, nustatytus fondo įstatuose pagal Labdaros ir paramos įstatymą).
 
@@ -334,9 +334,9 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 7. Fondo lėšos kaupiamos ir saugomos bankuose ar kitose kredito įstaigose.
 
-\### PENKTASIS SKIRSNIS. FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
+PENKTASIS SKIRSNIS. FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
 
-\#### 16 straipsnis. Fondų pertvarkymo ir pabaigos ypatumai
+## 16 straipsnis. Fondų pertvarkymo ir pabaigos ypatumai
 
 1. Fondai pertvarkomi ir pasibaigia (reorganizuojami ar likviduojami) Civilinio kodekso nustatyta tvarka.
 
@@ -360,7 +360,7 @@ Fondas veikia pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija)
 
 6) pateikti juridinių asmenų registro tvarkytojui fondo likvidavimo aktą ir kitus dokumentus, reikalingus fondui išregistruoti.“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 1. Fondų, įregistruotų iki šio Įstatymo įsigaliojimo, įstatai galioja tiek, kiek jie neprieštarauja Civiliniam kodeksui, šiam ir kitiems įstatymams.
 

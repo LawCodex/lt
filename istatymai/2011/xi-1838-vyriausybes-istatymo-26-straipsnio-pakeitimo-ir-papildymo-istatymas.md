@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.97B469668481"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.97B469668481.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 26 straipsnio pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(1)-1131; 2000, Nr. 92-2843; 2002, Nr. 41-1527; 2003, Nr. 10-342; 2006, Nr. 17-596; 2007, Nr. 72-2831; 2008, Nr. 117-4442; 2009, Nr. 29-1139; 2010, Nr. 71-3541)
 
-\#### 1 straipsnis. 26 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
+## 1 straipsnis. 26 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Buvusį 26 straipsnio 3 dalies 17 punktą laikyti 18 punktu.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. kovo 1 d.
 

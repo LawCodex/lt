@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2CE484E7CF61"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2CE484E7CF61.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 20 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202))
 
-\#### 1 straipsnis. 20 straipsnio 2, 6, 7 ir 10 dalių pakeitimas
+## 1 straipsnis. 20 straipsnio 2, 6, 7 ir 10 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „10. Metinis neapmokestinamasis pajamų dydis (toliau – MNPD) nustatomas sudedant tam gyventojui pagal šio straipsnio nuostatas taikytinus mokestinio laikotarpio atitinkamų mėnesių NPD dydžius ir atimamas bendrai iš visų mokestinio laikotarpio pajamų apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas. Šio Įstatymo 29 straipsnyje nustatytais atvejais iš pajamų atimama MNPD dalis, apskaičiuota tame straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Šio Įstatymo nuostatos taikomos apmokestinant gyventojo pajamas, gautas po 2003 m. sausio 1 d.
 

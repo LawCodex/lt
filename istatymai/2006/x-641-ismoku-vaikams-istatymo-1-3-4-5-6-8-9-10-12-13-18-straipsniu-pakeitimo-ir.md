@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E14C789C8A3B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E14C789C8A3B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 1, 3, 4, 5, 6, 8, 9, 10, 12, 13, 18 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 2004, Nr. 88-3208, Nr. [152-5534](https://www.e-tar.lt/portal/lt/legalAct/TAR.49F68EB98DA9); 2006, Nr. [17-592](https://www.e-tar.lt/portal/lt/legalAct/TAR.52D3D1B8E992))
 
-\#### 1 straipsnis. 1 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 1 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Vienkartinė išmoka vaikui ir išmoka vaikui skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo. Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 3. Nėščiai moteriai nustatoma vienkartinė išmoka nėščiai moteriai.“
 
-\#### 3 straipsnis. 4 straipsnio papildymas
+## 3 straipsnis. 4 straipsnio papildymas
 
 Papildyti 4 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Papildyti 4 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Išmokoms administruoti skiriami 4 procentai šio įstatymo reglamentuotoms išmokoms mokėti skirtų lėšų.“
 
-\#### 4 straipsnis. 5 straipsnio pakeitimas
+## 4 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 5. Išmoka įvaikintam vaikui neskiriama sutuoktinio (sugyventinio) vaikui, kurį įvaikino kitas sutuoktinis.“
 
-\#### 5 straipsnis. 6 straipsnio 4 ir 7 dalių pakeitimas
+## 5 straipsnis. 6 straipsnio 4 ir 7 dalių pakeitimas
 
 1. Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 „2) yra globojamas, išskyrus atvejus, kai vaiko laikinoji globa (rūpyba) nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos;“.
 
-\#### 6 straipsnis. 8 straipsnio 2, 6 ir 7 dalių pakeitimas
+## 6 straipsnis. 8 straipsnio 2, 6 ir 7 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 2) jei vaiko laikinoji globa (rūpyba) nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos.“
 
-\#### 7 straipsnis. 9 straipsnio 2 ir 3 dalių pakeitimas
+## 7 straipsnis. 9 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 8) žemės sklypui įsigyti.“
 
-\#### 8 straipsnis. 10 straipsnio pakeitimas
+## 8 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -156,7 +156,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2 MGL dydžio vienkartinė išmoka.“
 
-\#### 9 straipsnis. 12 straipsnio 2 ir 7 dalių pakeitimas
+## 9 straipsnis. 12 straipsnio 2 ir 7 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -166,7 +166,7 @@ Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio 
 
 „7. Vienkartinės išmokos vaikui, vienkartinės išmokos būstui įsigyti arba įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusio MGL dydį. Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir globos (rūpybos) išmokos dydis apskaičiuojamas pagal išmokos skyrimo dieną galiojantį MGL dydį.“
 
-\#### 10 straipsnis. 13 straipsnio 1 ir 4 dalių pakeitimas
+## 10 straipsnis. 13 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -176,13 +176,13 @@ Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio 
 
 „4. Vienkartinė išmoka nėščiai moteriai skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo dienos, kurią moteriai buvo likę 70 kalendorinių dienų iki numatomos gimdymo datos.“
 
-\#### 11 straipsnis. 18 straipsnio papildymas
+## 11 straipsnis. 18 straipsnio papildymas
 
 Papildyti 18 straipsnį 3 punktu:
 
 „3) neskirti išmokos arba nutraukti jos mokėjimą, jeigu išmokos gavėjas nevykdo šio įstatymo 19 straipsnyje nustatytų pareigų.“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas
+## 12 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 

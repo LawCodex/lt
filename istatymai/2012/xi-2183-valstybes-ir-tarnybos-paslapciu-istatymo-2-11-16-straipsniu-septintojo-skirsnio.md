@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5ED7FDCC3C07"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5ED7FDCC3C07.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 2, 11, 16 straipsnių, septintojo skirsnio pakeitimo ir įstatymo papildymo 15-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2004, Nr. [4-29](https://www.e-tar.lt/portal/lt/legalAct/TAR.83D9F662C0E4); 2007, Nr. [140-5762](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5FDC3AA2573); 2010, Nr. [86-4522](https://www.e-tar.lt/portal/lt/legalAct/TAR.65496F280187), Nr. [157-7971](https://www.e-tar.lt/portal/lt/legalAct/TAR.66F2D68D6507))
 
-\#### 1 straipsnis. 2 straipsnio 24, 26, 28 dalių pakeitimas ir straipsnio papildymas 37 dalimi
+## 1 straipsnis. 2 straipsnio 24, 26, 28 dalių pakeitimas ir straipsnio papildymas 37 dalimi
 
 1. Pakeisti 2 straipsnio 24 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „37. **Rangovo (subrangovo) leidimas dirbti ar susipažinti su įslaptinta informacija**– šio Įstatymo nustatyta tvarka fiziniam asmeniui, savarankiškai užsiimančiam ūkine veikla, išduotas dokumentas, kuriuo patvirtinama asmens teisė dirbti ar susipažinti su įslaptinta informacija, tokią informaciją saugoti ir kuriuo suteikiama teisė sudaryti įslaptintus sandorius.“
 
-\#### 2 straipsnis. 11 straipsnio 4 dalies 4, 15 punktų pakeitimas ir papildymas 18 punktu
+## 2 straipsnis. 11 straipsnio 4 dalies 4, 15 punktų pakeitimas ir papildymas 18 punktu
 
 1. Pakeisti 11 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „18) paslapčių subjektų teikimu priima sprendimus dėl galimybės užbaigti įslaptinto sandorio vykdymą, kai rangovui yra panaikintas įmonės patikimumą patvirtinantis pažymėjimas ar rangovo (subrangovo) leidimas dirbti ar susipažinti su įslaptinta informacija, tačiau žala dėl įslaptinto sandorio nutraukimo būtų neproporcingai didesnė, negu galima grėsmė įslaptintai informacijai.“
 
-\#### 3 straipsnis. Įstatymo papildymas 151 straipsniu
+## 3 straipsnis. Įstatymo papildymas 151 straipsniu
 
 Papildyti Įstatymą 15^1straipsniu:
 
@@ -82,11 +82,11 @@ Papildyti Įstatymą 15^1straipsniu:
 
 7. Asmenys, turintys teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, vadovaujantis principu „Būtina žinoti“ gali būti supažindinami su užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduota įslaptinta informacija, žymima slaptumo žymos „Riboto naudojimo“ atitikmeniu.“
 
-\#### 4 straipsnis. 16 straipsnio 8 dalies pripažinimas netekusia galios
+## 4 straipsnis. 16 straipsnio 8 dalies pripažinimas netekusia galios
 
 16 straipsnio 8 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. Septintojo skirsnio pakeitimas
+## 5 straipsnis. Septintojo skirsnio pakeitimas
 
 Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 ĮSLAPTINTŲ SANDORIŲ SAUGUMAS
 
-\#### 33 straipsnis. Įslaptinti sandoriai
+## 33 straipsnis. Įslaptinti sandoriai
 
 1. Paslapčių subjektai, atlikdami jiems pavestas funkcijas, turi teisę sudaryti įslaptintus sandorius. Paslapčių subjektai gali pavesti sudaryti įslaptintus sandorius savo struktūriniams padaliniams, kuriems yra suteiktos perkančiosios organizacijos teisės.
 
@@ -144,7 +144,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 9) ne vėliau kaip per 5 darbo dienas pranešti paslapčių subjekto atsakingam asmeniui ir įslaptintos informacijos apsaugos kontrolę vykdančiai įslaptintų sandorių saugumą užtikrinančiai institucijai apie sutarties su įslaptinto sandorio dalį vykdančiu subrangovu nutraukimą, taip pat apie darbo santykių nutraukimą su susijusiais su rangovu (subrangovu) asmenimis, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija ar suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“.
 
-\#### 34 straipsnis. Įmonės patikimumą patvirtinančio pažymėjimo išdavimas
+## 34 straipsnis. Įmonės patikimumą patvirtinančio pažymėjimo išdavimas
 
 1. Privatūs, viešieji juridiniai asmenys, kitos organizacijos, jų padaliniai ar tokių asmenų grupės (toliau – juridiniai asmenys), siekiantys gauti įmonės patikimumą patvirtinantį pažymėjimą, turi kreiptis į įslaptintų sandorių saugumą užtikrinančią instituciją vadovaudamiesi šio Įstatymo 38 straipsnio nuostatomis.
 
@@ -178,7 +178,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 9. Siekdami užtikrinti nepertraukiamą įmonės patikimumą patvirtinančio pažymėjimo galiojimą, juridiniai asmenys, norintys gauti naują įmonės patikimumą patvirtinantį pažymėjimą, likus ne mažiau kaip 6 mėnesiams iki įmonės patikimumą patvirtinančio pažymėjimo galiojimo termino pabaigos, vadovaudamiesi šio straipsnio nuostatomis, gali kreiptis į Valstybės saugumo departamentą dėl naujo įmonės patikimumą patvirtinančio pažymėjimo išdavimo.
 
-\#### 35 straipsnis. Juridinio asmens patikimumo įvertinimas
+## 35 straipsnis. Juridinio asmens patikimumo įvertinimas
 
 1. Juridinio asmens patikimumo įvertinimo tikslas – nustatyti, ar su juridiniu asmeniu gali būti sudarytas įslaptintas sandoris užtikrinant tinkamą įslaptintos informacijos apsaugą.
 
@@ -212,7 +212,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 10. Kai paslapčių subjektas paskelbia pranešimą apie su įslaptinta informacija susijusį pirkimą ir nurodo, kad įslaptintas sandoris bus vykdomas paslapčių subjekto patalpose, naudojant paslapčių subjektui priklausančias ADA sistemas ir tinklus, juridinio asmens patalpos ir naudojamos ADA sistemos ir tinklai nėra tikrinami.
 
-\#### 36 straipsnis. Įmonės patikimumą patvirtinančio pažymėjimo neišdavimo sąlygos
+## 36 straipsnis. Įmonės patikimumą patvirtinančio pažymėjimo neišdavimo sąlygos
 
 1. Įmonės patikimumą patvirtinantis pažymėjimas neišduodamas, jeigu patikrinimo metu nustatoma, kad:
 
@@ -254,7 +254,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 4. Priėmus sprendimą neišduoti įmonės patikimumą patvirtinančio pažymėjimo, naują prašymą dėl juridinio asmens tikrinimo inicijavimo ir įmonės patikimumą patvirtinančio pažymėjimo išdavimo galima pateikti pašalinus įmonės patikimumą patvirtinančio pažymėjimo neišdavimą nulėmusias aplinkybes arba šioms aplinkybėms išnykus.
 
-\#### 37 straipsnis. Įmonės patikimumą patvirtinančio pažymėjimo panaikinimas
+## 37 straipsnis. Įmonės patikimumą patvirtinančio pažymėjimo panaikinimas
 
 1. Išduotas įmonės patikimumą patvirtinantis pažymėjimas panaikinamas ir sudarytas įslaptintas sandoris nutraukiamas, kai:
 
@@ -268,7 +268,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 4. Panaikinus įmonės patikimumą patvirtinantį pažymėjimą, sudarytas įslaptintas sandoris gali būti nenutraukiamas (išskyrus atvejus, kai nustatomos šio Įstatymo 36 straipsnio 1 dalies 8, 9, 10, 11 punktuose nurodytos aplinkybės), jeigu sandoris jau baigiamas vykdyti ir žala dėl sandorio nutraukimo būtų neproporcingai didesnė, negu galima grėsmė įslaptintai informacijai. Sprendimą užbaigti vykdyti įslaptintą sandorį paslapčių subjekto teikimu priima Paslapčių apsaugos koordinavimo komisija.
 
-\#### 38 straipsnis. Įslaptintų sandorių saugumą užtikrinančios institucijos ir įslaptintos informacijos apsaugos kontrolė įslaptintų sandorių metu
+## 38 straipsnis. Įslaptintų sandorių saugumą užtikrinančios institucijos ir įslaptintos informacijos apsaugos kontrolė įslaptintų sandorių metu
 
 1. Juridinių asmenų, pretenduojančių gauti įmonės patikimumą patvirtinantį pažymėjimą, patikimumą vertina:
 
@@ -292,7 +292,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 4) Specialiųjų tyrimų tarnyba – Specialiųjų tyrimų tarnybai sudarant ir vykdant įslaptintus sandorius.
 
-\#### 39 straipsnis. Įslaptintų sandorių organizavimas, vykdymas ir nutraukimas, kai rangovas – fizinis asmuo
+## 39 straipsnis. Įslaptintų sandorių organizavimas, vykdymas ir nutraukimas, kai rangovas – fizinis asmuo
 
 1. Įslaptintus sandorius sudaryti ir vykdyti gali Lietuvos Respublikos pilietis, kuriam šiame straipsnyje numatyta tvarka išduotas rangovo (subrangovo) leidimas dirbti ar susipažinti su įslaptinta informacija.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.14DAB1D4E236"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.14DAB1D4E236.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 20, 62 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 2001, Nr. [55-1943](https://www.e-tar.lt/portal/lt/legalAct/TAR.62BDE4F534B3); 2003, Nr. [15-598](https://www.e-tar.lt/portal/lt/legalAct/TAR.C727F3F9B3A9))
 
-\#### 1 straipsnis. 20 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 20 straipsnio pakeitimas ir papildymas
 
 20 straipsnio 2 dalyje po žodžių „notaro atlyginimą“ įrašyti žodžius „atlygį už arbitro funkcijų atlikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose“, straipsnį papildyti 3 dalimi ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlyg�
 
 Atlikdamas arbitro funkcijas, notaras privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Notaras negali būti arbitru ginčuose, kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Be to, notaras negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo arbitru.“
 
-\#### 2 straipsnis. 62 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 62 straipsnio pakeitimas ir papildymas
 
 62 straipsnyje po žodžių „kūrybinį darbą“ įrašyti žodžius „arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose“, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/92f4cc80117511e4adf3c8c5d7681e73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.92F4CC801175.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 4, 5, 6-1, 7 ir 22 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO NR. VIII-947 4, 5, 61, 7 IR 22 STRA
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 6) imtis priemonių, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ar darbuotojai, liudijantys ar teikiantys paaiškinimus, būtų apsaugoti nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 5) imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis ar teikiantis paaiškinimus, būtų apsaugoti nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.“
 
-\#### 3 straipsnis. 61 straipsnio pakeitimas
+## 3 straipsnis. 61 straipsnio pakeitimas
 
 Pakeisti 6^1 straipsnį ir jį išdėstyti taip:
 
@@ -78,13 +78,13 @@ Darbdavioarba darbdavio atstovoveiksmai yra pripažįstami pažeidžiančiais mo
 
 4) persekioja darbuotoją, darbuotojo atstovą, darbuotoją, liudijantį ar teikiantį paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Papildyti 7 straipsnį 3 punktu:
 
 „3) persekiojami mokiniai, studentai ar darbuotojai, mokinių, studentų ar darbuotojų atstovai, mokiniai, studentai ar darbuotojai, liudijantys ar teikiantys paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos.“
 
-\#### 5 straipsnis. 22 straipsnio pakeitimas
+## 5 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 

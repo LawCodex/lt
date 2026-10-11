@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d387d7a2e56811f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D387D7A2E568.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3 ir 39 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ SU NEKILNOJAMUOJU TURTU SUSIJUSIO KREDITO ĮSTATYMO NR. XII-2769 3 IR 39 STRAIPS
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 23 dalį ir ją išdėstyti taip:
 
 „23. **Paskolos davėjas** – fizinis arba juridinis asmuo, kuris per tarpusavio skolinimo platformą teikia arba įsipareigoja suteikti kreditą kredito gavėjui.“
 
-\#### 2 straipsnis. 39 straipsnio pakeitimas
+## 2 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 

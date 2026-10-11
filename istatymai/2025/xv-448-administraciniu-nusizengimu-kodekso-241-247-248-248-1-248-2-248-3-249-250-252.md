@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/35734190a27311f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.35734190A273.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 241, 247, 248, 248-1, 248-2, 248-3, 249, 250, 252, 255, 255-1, 589, 608 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 241, 247, 248, 2481, 2482, 2483, 249, 250
 
 Vilnius
 
-\#### 1 straipsnis. 241 straipsnio pakeitimas
+## 1 straipsnis. 241 straipsnio pakeitimas
 
 Pakeisti 241 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.“
 
-\#### 2 straipsnis. 247 straipsnio pakeitimas
+## 2 straipsnis. 247 straipsnio pakeitimas
 
 1. Pakeisti 247 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penk
 
 užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių devynių šimtų eurų.“
 
-\#### 3 straipsnis. 248 straipsnio pakeitimas
+## 3 straipsnis. 248 straipsnio pakeitimas
 
 1. Pakeisti 248 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.“
 
-\#### 4 straipsnis. 2481 straipsnio pakeitimas
+## 4 straipsnis. 2481 straipsnio pakeitimas
 
 Pakeisti 248^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti 248^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.“
 
-\#### 5 straipsnis. 2482 straipsnio pakeitimas
+## 5 straipsnis. 2482 straipsnio pakeitimas
 
 Pakeisti 248^2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 248^2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.“
 
-\#### 6 straipsnis. 2483 straipsnio pakeitimas
+## 6 straipsnis. 2483 straipsnio pakeitimas
 
 Pakeisti 248^3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -124,7 +124,7 @@ Pakeisti 248^3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.“
 
-\#### 7 straipsnis. 249 straipsnio pakeitimas
+## 7 straipsnis. 249 straipsnio pakeitimas
 
 1. Pakeisti 249 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -176,7 +176,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.“
 
-\#### 8 straipsnis. 250 straipsnio pakeitimas
+## 8 straipsnis. 250 straipsnio pakeitimas
 
 Pakeisti 250 straipsnį ir jį išdėstyti taip:
 
@@ -226,7 +226,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.“
 
-\#### 9 straipsnis. 252 straipsnio pakeitimas
+## 9 straipsnis. 252 straipsnio pakeitimas
 
 Pakeisti 252 straipsnį ir jį išdėstyti taip:
 
@@ -280,7 +280,7 @@ užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių dviejų šimt�
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.“
 
-\#### 10 straipsnis. 255 straipsnio pakeitimas
+## 10 straipsnis. 255 straipsnio pakeitimas
 
 Pakeisti 255 straipsnį ir jį išdėstyti taip:
 
@@ -318,7 +318,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.“
 
-\#### 11 straipsnis. 2551 straipsnio pakeitimas
+## 11 straipsnis. 2551 straipsnio pakeitimas
 
 Pakeisti 255^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -326,19 +326,19 @@ Pakeisti 255^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki aštuonių šimtų septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų dvidešimt penkių iki vieno tūkstančio vieno šimto eurų.“
 
-\#### 12 straipsnis. 589 straipsnio pakeitimas
+## 12 straipsnis. 589 straipsnio pakeitimas
 
 Pakeisti 589 straipsnio 43 punktą ir jį išdėstyti taip:
 
 „43) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110, 112 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6,6^1, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 13 straipsnis. 608 straipsnio pakeitimas
+## 13 straipsnis. 608 straipsnio pakeitimas
 
 Pakeisti 608 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 236^1 straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 243^1 straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 248^1 straipsnio 2 ir 4 dalyse, 248^2 straipsnio 2 ir 4 dalyse, 248^3 straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 3 dalyse, 252 straipsnio 1 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 1 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijomsperiodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.“
 
-\#### 14 straipsnis. Kodekso priedo pakeitimas
+## 14 straipsnis. Kodekso priedo pakeitimas
 
 1. Pripažinti netekusiu galios Kodekso priedo 26 punktą.
 
@@ -346,7 +346,7 @@ Pakeisti 608 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „118^1. 2023 m. liepos 12 d. Europos Parlamento ir Tarybos reglamentas [(ES) 2023/1542](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R1542&locale=lt) dėl baterijų ir baterijų atliekų, kuriuo iš dalies keičiama Direktyva [2008/98/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008L0098&locale=lt) bei Reglamentas [(ES) 2019/1020](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R1020&locale=lt) ir panaikinama Direktyva [2006/66/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32006L0066&locale=lt).“
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas
+## 15 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 7 straipsnio 7 ir 8 dalys įsigalioja 2026 m. sausio 1 d.
 

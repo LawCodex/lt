@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a9dbfb42e56111f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A9DBFB42E561.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 pakeitimo įstatymas
@@ -26,19 +26,19 @@ VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO NR. VIII-1443 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 29 dalį ir ją išdėstyti taip:
 
 „29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Nacionaliniam saugumui užtikrinti svarbioms įmonėms, aviacijos saugumo srityje veikiantiems subjektams, kuriems atliekant įstatymuose ar kituose norminiuose teisės aktuose nustatytas funkcijas būtina susipažinti su įslaptinta informacija, tokią informaciją naudoti, įslaptinta informacija perduodama nesudarant įslaptinto sandorio, tačiau šio įstatymo septintajame skirsnyje nustatyta tvarka įvertinus jų patikimumą ir išdavus tiekėjo patikimumo pažymėjimą ar įvertinus jų atitiktį įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams. Šioje dalyje nurodytiems subjektams taikomi šio įstatymo 33 straipsnio 9 dalies 1, 2, 3, 4, 7, 8 ir 9 punktuose nustatyti reikalavimai.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalies 24 punktą ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „7) detalūs duomenys apie Lietuvos kariuomenės materialinį ir techninį aprūpinimą, kiekybinę ir personalinę sudėtį, taip pat Lietuvos kariuomenės specialiosios paskirties padalinių struktūrą ir atrankos, mokymo bei veiklos metodus;“.
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „12) nustato detalių įslaptinamos informacijos sąrašų rengimo tvarką ir pareigybių, susijusių su didelėmis grėsmėmis įslaptintos informacijos saugumui, sąrašų sudarymo kriterijus.“
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas
+## 5 straipsnis. 12 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 12 straipsnio 3 dalies 8 punktą.
 
@@ -70,7 +70,7 @@ Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 4. Pripažinti netekusiu galios 12 straipsnio 3 dalies 16 punktą.
 
-\#### 6 straipsnis. 13 straipsnio pakeitimas
+## 6 straipsnis. 13 straipsnio pakeitimas
 
 1. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip:
 
 3. Pripažinti netekusia galios 13 straipsnio 6 dalį.
 
-\#### 7 straipsnis. Įstatymo papildymas 131 straipsniu
+## 7 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -96,11 +96,11 @@ Papildyti Įstatymą 13^1 straipsniu:
 
 4. Lietuvos šaulių sąjungai mutatis mutandis taikomos šio įstatymo nuostatos, reguliuojančios įslaptintos informacijos žymėjimą, įslaptinimą, saugojimą, naudojimą, išslaptinimą, administravimą ir apsaugos įgyvendinimą Krašto apsaugos ministerijai pavaldžiose ar jos reguliavimo sričiai priskirtose įstaigose, įmonėse, kuriose dirbama su įslaptinta informacija.“
 
-\#### 8 straipsnis. 15 straipsnio pakeitimas
+## 8 straipsnis. 15 straipsnio pakeitimas
 
 Pripažinti netekusia galios 15 straipsnio 8^1 dalį.
 
-\#### 9 straipsnis. 16 straipsnio pakeitimas
+## 9 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -114,13 +114,13 @@ Pripažinti netekusia galios 15 straipsnio 8^1 dalį.
 
 „7. Sprendimai dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikimo ar panaikinimo gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 10 straipsnis. 17 straipsnio pakeitimas
+## 10 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Jeigu leidimas dirbti ar susipažinti su įslaptinta informacija neteko galios vadovaujantis šio įstatymo 20 straipsnio 1^1 dalimi arba šio įstatymo 35 straipsnio 6 dalimi, naujas leidimas dirbti ar susipažinti su įslaptinta informacija asmeniui išduodamas neatliekant jo tikrinimo, jeigu nuo dienos, kurią leidimas dirbti ar susipažinti su įslaptinta informacija neteko galios, nėra praėję 12 mėnesių ir iki šio straipsnio 5 dalyje nustatyto termino pabaigos yra likę ne mažiau kaip 6 mėnesiai. Asmeniui išduodamo naujo leidimo dirbti ar susipažinti su įslaptinta informacija galiojimo terminas negali būti ilgesnis už anksčiau išduoto leidimo dirbti ar susipažinti su įslaptinta informacija galiojimo terminą, o slaptumo žyma negali būti aukštesnė, negu buvo išduoto leidimo dirbti ar susipažinti su įslaptinta informacija.“
 
-\#### 11 straipsnis. 19 straipsnio pakeitimas
+## 11 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -130,7 +130,7 @@ Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „4. Asmeniui išdavus leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“, atliekamas saugumo instruktažas. Saugumo instruktažas taip pat atliekamas išdavus leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Slaptai“ ir „Konfidencialiai“, jeigu asmens einamos ar pretenduojamos eiti pareigos yra susijusios su didelėmis grėsmėmis įslaptintos informacijos saugumui. Saugumo instruktažą atlieka už įslaptintos informacijos apsaugą atsakingas asmuo, kurį asmens patikrinimą atliekanti institucija instruktuoja apie grėsmes įslaptintos informacijos saugumui.“
 
-\#### 12 straipsnis. 20 straipsnio pakeitimas
+## 12 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -144,7 +144,7 @@ Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „4. Leidimą dirbti ar susipažinti su įslaptinta informacija išdavęs subjektas ne vėliau kaip per 3 darbo dienas nuo šio leidimo panaikinimo dienos apie tai informuoja Valstybės saugumo departamentą, asmens tikrinimą atlikusią instituciją ir asmenį, kurio leidimas panaikintas. Paslapčių subjektas ar tiekėjas iki kiekvieno mėnesio pabaigos informuoja Valstybės saugumo departamentą ir asmens tikrinimą atlikusią instituciją apie šio straipsnio 1^1 dalyje nurodytais atvejaisnetekusius galios leidimus dirbti ar susipažinti su įslaptinta informacija.“
 
-\#### 13 straipsnis. 22 straipsnio pakeitimas
+## 13 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 7 punktą ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 2. Pripažinti netekusiu galios 22 straipsnio 8 punktą.
 
-\#### 14 straipsnis. 30 straipsnio pakeitimas
+## 14 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „1^1) krašto apsaugos ministro įgalioti krašto apsaugos sistemos institucijų ar Lietuvos šaulių sąjungos padaliniai, jeigu vertinamos krašto apsaugos sistemos institucijų, jų tiekėjų ar Lietuvos šaulių sąjungos patalpos ir teritorijos, kuriose bus dirbama su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“;“.
 
-\#### 15 straipsnis. 33 straipsnio pakeitimas
+## 15 straipsnis. 33 straipsnio pakeitimas
 
 1. Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -180,7 +180,7 @@ Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7) per 5 darbo dienas nuo įslaptinto sandorio sudarymo pranešti įslaptintų sandorių saugumą užtikrinančiai institucijai apie tokio sandorio sudarymą ir sandorio pabaigos datą, taip pat nurodyti įslaptintos informacijos, kuri sandorio vykdymo metu bus perduodama ar sukuriama, aukščiausią slaptumo žymą ir tai, ar sandorio vykdymo metu tiekėjas savo patalpose saugos įslaptintą informaciją ir ar tokią informaciją rengs savo ĮIRIS.“
 
-\#### 16 straipsnis. 35 straipsnio pakeitimas
+## 16 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
 6. Jeigu panaikinamas tiekėjui išduotas tiekėjo patikimumo pažymėjimas arba pasibaigia šio dokumento galiojimo terminas, išskyrus atvejus, kai iki šio dokumento galiojimo termino pabaigos tiekėjui yra išduotas naujas tiekėjo patikimumo pažymėjimas, šio straipsnio 1 dalies 3 punkte nurodytiems asmenims išduoti leidimai dirbti ar susipažinti su įslaptinta informacija netenka galios.“
 
-\#### 17 straipsnis. 36 straipsnio pakeitimas
+## 17 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -240,7 +240,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 6. Įslaptintų sandorių saugumą užtikrinanti institucija, atlikdama tiekėjo patikimumo vertinimą, turi teisę neatlygintinai gauti visą informaciją, susijusią su tiekėjo, šio įstatymo 35 straipsnio 1 dalies 3 punkte nurodytų asmenų patikimumo įvertinimu, iš valstybės informacinių išteklių, valstybės, savivaldybės institucijų, kitų įmonių, įstaigų, organizacijų, juridinių ir fizinių asmenų.“
 
-\#### 18 straipsnis. 37 straipsnio pakeitimas
+## 18 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
@@ -280,7 +280,7 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
 3. Valstybės saugumo departamento sprendimai neišduoti tiekėjo patikimumo pažymėjimo gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 19 straipsnis. 38 straipsnio pakeitimas
+## 19 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -304,7 +304,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 7. Valstybės saugumo departamento sprendimai sustabdyti tiekėjui išduoto tiekėjo patikimumo pažymėjimo galiojimą, panaikinti išduotą tiekėjo patikimumo pažymėjimą gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 20 straipsnis. Įstatymo papildymas 381 straipsniu
+## 20 straipsnis. Įstatymo papildymas 381 straipsniu
 
 Papildyti Įstatymą 38^1 straipsniu:
 
@@ -360,7 +360,7 @@ Papildyti Įstatymą 38^1 straipsniu:
 
 14. Įslaptintų sandorių saugumą užtikrinančios institucijos sprendimai nesuteikti šio įstatymo 35 straipsnio 1 dalies 3 punkte nurodytiems asmenims teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, arba panaikinti tokią jiems suteiktą teisę, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 21 straipsnis. 39 straipsnio pakeitimas
+## 21 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
@@ -392,19 +392,19 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 11. Valstybės saugumo departamento sprendimas panaikinti tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija ar panaikinti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 22 straipsnis. 46 straipsnio pakeitimas
+## 22 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, bylos įrašomos į užbaigtų įslaptintų bylų apskaitos žurnalą ir inventorizuojamos Vyriausybės nustatyta įslaptintos informacijos administravimo ir išslaptinimo tvarka ir terminais.“
 
-\#### 23 straipsnis. 48 straipsnio pakeitimas
+## 23 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu tyrimo metu nustatoma nusikalstamos veikos, administracinio nusižengimo arba tarnybinio nusižengimo (drausmės pažeidimo) požymių, tyrimo išvados pateikiamos atitinkamoms valstybės institucijoms, įgaliotoms atlikti ikiteisminį tyrimą, administracinio nusižengimo tyrimą arba tarnybinio nusižengimo (drausmės pažeidimo) tyrimą. Jeigu tyrimo metu pasitvirtina, kad įslaptinta informacija yra prarasta ar neteisėtai atskleista, apie tai pranešama Valstybės saugumo departamentui.“
 
-\#### 24 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 24 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 1 d.
 

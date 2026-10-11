@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a0a961d0d79d11e4894f9bde45468d3f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A0A961D0D79D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 2, 3, 8, 9, 10, 11, 22, 23, 24, 31, 34, 37, 41, 42, 47, 50, 53, 55, 56, 57, 58, 59, 60, 61, 65, 66 straipsnių ir priedo pakeitimo, Įstatymo papildymo 51-1, 54-1 straipsniais ir 28, 29, 30, 33, 38, 39 straipsnių pripažinimo netekusiais galios įstatymas

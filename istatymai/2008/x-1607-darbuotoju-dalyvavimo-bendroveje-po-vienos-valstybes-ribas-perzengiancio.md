@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DF274349E79B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DF274349E79B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių pertvarkymo, jungimosi ar skaidymo įstatymas
@@ -454,5 +454,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1874, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07539
 
 Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 pakeitimo įstatymas
-
-part_845173d0c96c47e79fd5f033a940f4cb_end

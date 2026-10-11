@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.14505577EA6B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.14505577EA6B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 27, 41, 44 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 53-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 1993, Nr. [6-120](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEEB2C5600E3); 1996, Nr. [73-1749](https://www.e-tar.lt/portal/lt/legalAct/TAR.28B7811F3364))
 
-\#### 1 straipsnis. 27 straipsnio 2 dalies papildymas ir pakeitimas
+## 1 straipsnis. 27 straipsnio 2 dalies papildymas ir pakeitimas
 
 1. Papildyti 27 straipsnio 2 dalį nauju 6 punktu:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Buvusį 27 straipsnio 2 dalies 6 punktą laikyti 7 punktu.
 
-\#### 2 straipsnis. 41 straipsnio pakeitimas
+## 2 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 Konstituciniame Teisme gautas prašymas iki teisminio nagrinėjimo pradžios gali būti išskirtas į atskiras bylas, jeigu pareiškėjas prašo ištirti kelių teisės aktų ar kelių nuostatų atitiktį Konstitucijai ar įstatymams. Konstitucinis Teismas, nustatęs, kad yra du ar daugiau prašymų ištirti to paties teisės akto ar susijusių teisės aktų atitiktį Konstitucijai ar įstatymams, iki teisminio nagrinėjimo pradžios gali juos sujungti į vieną bylą. Šiais atvejais Konstitucinis Teismas priima motyvuotus sprendimus.“
 
-\#### 3 straipsnis. 44 straipsnio pakeitimas
+## 3 straipsnis. 44 straipsnio pakeitimas
 
 Pakeisti 44 straipsnio 3 dalį, 4 dalį pripažinti netekusia galios, buvusias 5, 6 dalis laikyti atitinkamai 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Kalbėti Teisme gali tik dalyvaujantys byloje asmenys, jų atstovai, liudytojai,
 
 Tais atvejais, kai į teisminį posėdį neatvyksta nė vienas iš kviestųjų dalyvauti byloje asmenų ir jų atstovų, teisminis posėdis vyksta laisva forma.“
 
-\#### 4 straipsnis. Įstatymo papildymas 531 straipsniu
+## 4 straipsnis. Įstatymo papildymas 531 straipsniu
 
 Papildyti Įstatymą 53^1 straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.13AC476AC21E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.13AC476AC21E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 2, 23 ir 24 straipsnių pakeitimo įstatymas
@@ -24,25 +24,25 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9); 2004, Nr. [170-6236](https://www.e-tar.lt/portal/lt/legalAct/TAR.810096E93D62); 2006, Nr. [77-2959](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB0A9856B801))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 2 straipsnio 2 dalyje vietoj žodžių „Vyriausybės kanceliarijoje“ įrašyti žodžius „Ministro Pirmininko tarnyboje“ ir šią dalį išdėstyti taip:
 
 „2. Lietuvos Respublikos diplomatinė tarnyba yra vientisa. Ją sudaro Užsienio reikalų ministerijoje ir Užsienio reikalų ministerijai atskaitingose Lietuvos Respublikos diplomatinėse atstovybėse užsienio valstybėse, Lietuvos Respublikos atstovybėse prie tarptautinių organizacijų, konsulinėse įstaigose, specialiosiose misijose, Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Ministro Pirmininko tarnyboje, ministerijose, kitose valstybės institucijose ar įstaigose bei derybų grupėse ir derybų delegacijose dirbantys diplomatai.“
 
-\#### 2 straipsnis. 23 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 23 straipsnio 3 dalies pakeitimas
 
 23 straipsnio 3 dalyje vietoj žodžių „Vyriausybės kanceliarijoje“ įrašyti žodžius „Ministro Pirmininko tarnyboje“ ir šią dalį išdėstyti taip:
 
 „3. Jeigu Respublikos Prezidentas, Seimo Pirmininkas ar Ministras Pirmininkas siūlo priimti į Lietuvos Respublikos diplomatinę tarnybą asmenį, kuris dirba užsienio politikos darbą Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Ministro Pirmininko tarnyboje, su šiuo asmeniu yra sudaroma terminuota diplomato tarnybos sutartis. Darbo užmokestį šiam asmeniui moka įstatymų nustatyta tvarka ta institucija, kurioje jis dirba užsienio politikos darbą. Terminuotos diplomato tarnybos sutarties, sudaromos su šioje dalyje nurodytu asmeniu, terminas apibrėžiamas jo darbo terminu tose pareigose, kurias einant jis buvo pasiūlytas į Lietuvos Respublikos diplomatinę tarnybą.“
 
-\#### 3 straipsnis. 24 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 24 straipsnio 3 dalies pakeitimas
 
 24 straipsnio 3 dalyje vietoj žodžių „Vyriausybės kanceliariją“ įrašyti žodžius „Ministro Pirmininko tarnybą“ ir šią dalį išdėstyti taip:
 
 „3. Užsienio reikalų ministro įsakymu diplomatas, jeigu neprieštarauja, gali būti laikinai perkeltas iš Užsienio reikalų ministerijos į Respublikos Prezidento kanceliariją, Seimo kanceliariją, Ministro Pirmininko tarnybą, ministeriją ar kitą valstybės instituciją ar įstaigą. Dėl tokio perkėlimo nenutrūksta diplomato tarnybos sutartis, jam paliekamas turėtas diplomatinis rangas. Šiuo atveju priedas už diplomatinį rangą mokamas iš Užsienio reikalų ministerijos biudžeto.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. rugsėjo 15 d.
 

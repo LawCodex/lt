@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7BF42520F982"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7BF42520F982.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėse bendrovėse
@@ -26,15 +26,15 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šio įstatymo tikslas – tikrinti darbuotojų dalyvavimą priimant sprendimus Europos kooperatinėse bendrovėse (SCE) (toliau – Europos kooperatinė bendrovė).
 
 2. Įstatymo nuostatos įgyvendina šio įstatymo priede nurodytą Europos Sąjungos teisės aktą.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas taikomas, jei Europos kooperatinės bendrovės buveinė yra arba steigiamos Europos kooperatinės bendrovės buveinė bus Lietuvos Respublikoje.
 
@@ -48,7 +48,7 @@ Vilnius
 
 4) nustatant specialiojo derybų komiteto, Europos kooperatinės bendrovės darbo tarybos narių, taip pat į Europos kooperatinės bendrovės administravimo ar priežiūros organą ar dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime darbuotojų arba jų atstovų išrinktų, paskirtų, pasiūlytų narių ar narių, kurių paskyrimui pritarė darbuotojai arba jų atstovai, garantijas ir teisių apsaugą, jų teisę į kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidų atlyginimą, kai šie nariai yra darbo santykiais susiję su Lietuvos Respublikoje buveinę turinčiu steigime dalyvaujančiu juridiniu asmeniu, susijusia kontroliuojamąja bendrove ar Lietuvos Respublikoje veikiančiu susijusiu padaliniu arba su Lietuvos Respublikoje buveinę turinčia Europos kooperatinės bendrovės kontroliuojamąja bendrove ar Lietuvos Respublikoje veikiančiu Europos kooperatinės bendrovės padaliniu, ar jos kontroliuojamosios bendrovės padaliniu, taip pat su Lietuvos Respublikoje nuolatinę gyvenamąją vietą turinčiu steigime dalyvaujančiu fiziniu asmeniu.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Centrinė vadovybė – kompetentingas Europos kooperatinės bendrovės administravimo arba valdymo organas.
 
@@ -82,21 +82,21 @@ Vilnius
 
 16. Valstybė narė – Europos Sąjungos valstybė narė, taip pat prie Europos ekonominės erdvės susitarimo prisijungusi valstybė.
 
-\### ANTRASIS SKIRSNIS. DARBUOTOJŲ DALYVAVIMO PRIIMANT SPRENDIMUS EUROPOS KOOPERATINĖJE BENDROVĖJE PAGRINDAI
+ANTRASIS SKIRSNIS. DARBUOTOJŲ DALYVAVIMO PRIIMANT SPRENDIMUS EUROPOS KOOPERATINĖJE BENDROVĖJE PAGRINDAI
 
-\#### 4 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje prielaidos
+## 4 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje prielaidos
 
 1. Šio įstatymo nustatyta tvarka darbuotojai dalyvauja priimant sprendimus Europos kooperatinėje bendrovėje, taip pat kitose valstybėse narėse buveinę turinčiose Europos kooperatinės bendrovės kontroliuojamosiose bendrovėse ar jose veikiančiuose Europos kooperatinės bendrovės padaliniuose.
 
 2. Dalyvavimas priimant sprendimus turi apimti klausimus, kurie susiję su pačia Europos kooperatine bendrove, su kitose valstybėse narėse buveinę turinčiomis jos kontroliuojamosiomis bendrovėms ar jose veikiančiais padaliniais, arba klausimus, kurių sprendimas peržengia sprendimus priimančios centrinės vadovybės ar kito lygmens vadovybės vienoje valstybėje narėje kompetencijos ribas.
 
-\#### 5 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje įgyvendinimas
+## 5 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje įgyvendinimas
 
 1. Darbuotojų dalyvavimui priimant sprendimus Europos kooperatinėje bendrovėje įgyvendinti šio įstatymo nustatyta tvarka sudaroma Europos kooperatinės bendrovės darbo taryba arba nustatoma šio įstatymo 19 straipsnio 2 dalies 6 ir 7 punktuose nurodyta kita informavimo, konsultavimo ir dalyvavimo tvarka.
 
 2. Centrinė vadovybė privalo sudaryti sąlygas ir užtikrinti priemones, būtinas Europos kooperatinės bendrovės darbo tarybai sudaryti ir veikti.
 
-\#### 6 straipsnis. Bendradarbiavimo principai
+## 6 straipsnis. Bendradarbiavimo principai
 
 1. Šiame įstatyme reglamentuojamas centrinės vadovybės ar kito lygmens vadovybės ir darbuotojų atstovų bendradarbiavimas turi vykti laikantis šalių kooperacijos, lygiateisiškumo, geranoriškumo, pagarbos teisėtiems savitarpio interesams ir kitų socialinės partnerystės principų.
 
@@ -106,7 +106,7 @@ Vilnius
 
 4. Jei netrukus po Europos kooperatinės bendrovės įsteigimo Europos kooperatinėje bendrovėje ir jos kontroliuojamosiose bendrovėse vyksta esminiai pasikeitimai, kurie aiškiai parodo, kad Europos kooperatinės bendrovės steigimo tikslas yra atimti iš darbuotojų teises dalyvauti priimant sprendimus, būtina pradėti naujas derybas pagal šio įstatymo trečiojo skirsnio nuostatas. Esminiai pasikeitimai Europos kooperatinėje bendrovėje ir jos kontroliuojamosiose bendrovėse reiškia Europos kooperatinės bendrovės, jos kontroliuojamųjų bendrovių darbuotojų skaičiaus ar Europos kooperatinės bendrovės steigimo būdo pakeitimus, kurie būtų išplėtę darbuotojų dalyvavimo Europos kooperatinės bendrovės valdyme teises, jei būtų buvę įgyvendinti prieš Europos kooperatinės bendrovės įsteigimą.
 
-\#### 7 straipsnis. Teisė į informaciją
+## 7 straipsnis. Teisė į informaciją
 
 1. Centrinė vadovybė privalo laiku teikti informaciją Europos kooperatinės bendrovės darbo tarybai, Europos kooperatinės bendrovės darbo tarybos komitetui, taip pat specialiajam derybų komitetui ir atsako už informacijos teisingumą. Informacija turi būti teikiama tokiu būdu ir mastu, kad darbuotojų atstovai galėtų nuodugniai įvertinti galimą poveikį ir prireikus pasirengti konsultacijoms su centrine vadovybe.
 
@@ -118,7 +118,7 @@ Vilnius
 
 5. Gavę raštišką atsisakymą, Europos kooperatinės bendrovės darbo taryba, Europos kooperatinės bendrovės darbo tarybos komitetas arba specialusis derybų komitetas per vieną mėnesį nuo atsisakymo pateikti informaciją gavimo dienos gali kreiptis į teismą. Teismui nustačius, kad atsisakymas pateikti informaciją yra nepagrįstas, Europos kooperatinė bendrovė, steigime dalyvaujantis juridinis ar fizinis asmuo įpareigojami šią informaciją suteikti.
 
-\#### 8 straipsnis. Darbuotojų atstovų teisių apsauga ir garantijos
+## 8 straipsnis. Darbuotojų atstovų teisių apsauga ir garantijos
 
 1. Su Lietuvos Respublikoje buveinę turinčia Europos kooperatine bendrove, jos kontroliuojamąja bendrove arba su steigime dalyvaujančiu juridiniu ar fiziniu asmeniu, susijusia kontroliuojamąja bendrove, taip pat su Lietuvos Respublikoje veikiančiu Europos kooperatinės bendrovės padaliniu, kontroliuojamosios bendrovės padaliniu ar susijusiu padaliniu darbo santykiais susijusiems Europos kooperatinės bendrovės darbo tarybos nariams, specialiojo derybų komiteto nariams turi būti sudaromos sąlygos dalyvauti Europos kooperatinės bendrovės darbo tarybos, Europos kooperatinės bendrovės darbo tarybos komiteto posėdžiuose, taip pat bendruose posėdžiuose su centrine vadovybe ir derybose dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje, paliekant jiems darbo vietą ir vidutinį darbo užmokestį. Ta pati taisyklė taikoma ir tada, kai darbuotojų arba jų atstovų rinkti Europos kooperatinės bendrovės administravimo ar priežiūros organo nariai dalyvauja Europos kooperatinės bendrovės administravimo ar priežiūros organo posėdžiuose ir (ar) visuotiniuose narių susirinkimuose ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkimuose.
 
@@ -126,9 +126,9 @@ Vilnius
 
 3. Europos kooperatinės bendrovės darbo tarybos, specialiojo derybų komiteto nariams, darbuotojų arba jų atstovų rinktiems Europos kooperatinės bendrovės administravimo ar priežiūros organo nariams, taip pat darbuotojams ar jų atstovams, dalyvaujantiems visuotiniuose narių susirinkimuose ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkimuose, nuo jų paskyrimo (išrinkimo) į pareigas dienos taikoma teisių apsauga ir garantijos pagal tos valstybės narės, kurioje yra juos įdarbinusio juridinio asmens buveinė ar kurioje veikia juos įdarbinęs padalinys, arba kurioje yra juos įdarbinusio fizinio asmens nuolatinė gyvenamoji vieta, teisės aktus ir (ar) nusistovėjusią praktiką.
 
-\### TREČIASIS SKIRSNIS. DERYBŲ ORGANIZAVIMAS
+TREČIASIS SKIRSNIS. DERYBŲ ORGANIZAVIMAS
 
-\#### 9 straipsnis. Derybų inicijavimas ir informavimas
+## 9 straipsnis. Derybų inicijavimas ir informavimas
 
 1. Steigiant Europos kooperatinę bendrovę, steigime dalyvaujančių juridinių asmenų, susijusių kontroliuojamųjų bendrovių ar susijusių padalinių administravimo ar valdymo organai privalo inicijuoti derybas dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje.
 
@@ -172,7 +172,7 @@ Vilnius
 
 8. Visų steigime dalyvaujančių juridinių, fizinių asmenų, padalinių, susijusių kontroliuojamųjų bendrovių ir susijusių padalinių darbuotojų skaičius kiekvienoje valstybėje narėje, taip pat Europos kooperatinės bendrovės, jos kontroliuojamųjų bendrovių ir jos padalinių darbuotojų ir bendras darbuotojų valstybėse narėse skaičius apskaičiuojamas remiantis Lietuvos Respublikos Europos darbo tarybų įstatymo 7 straipsniu.
 
-\#### 10 straipsnis. Specialiojo derybų komiteto sudėtis
+## 10 straipsnis. Specialiojo derybų komiteto sudėtis
 
 1. Deryboms su kompetentingu steigime dalyvaujančių asmenų organu dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje arba deryboms dėl darbuotojų dalyvavimo priimant sprendimus įsteigtoje Europos kooperatinėje bendrovėje turi būti sudaromas specialusis derybų komitetas.
 
@@ -204,7 +204,7 @@ Vilnius
 
 5. Skiriant ar renkant specialiojo derybų komiteto narius, turi būti skatinama moterų ir vyrų dalyvavimo pusiausvyra.
 
-\#### 11 straipsnis. Specialiojo derybų komiteto sudarymas
+## 11 straipsnis. Specialiojo derybų komiteto sudarymas
 
 1. Jei steigime dalyvaujančio juridinio asmens, susijusios kontroliuojamosios bendrovės buveinė yra Lietuvos Respublikoje ar Lietuvos Respublikoje veikia susijęs padalinys arba steigime dalyvaujančio fizinio asmens nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, specialiojo derybų komiteto narį (narius) iš Lietuvos Respublikos skiria atitinkamai to juridinio ar fizinio asmens arba to padalinio darbuotojai ar jų atstovai. Jei Lietuvos Respublikoje buveinę ar nuolatinę gyvenamąją vietą turi keli steigime dalyvaujantys juridiniai ar fiziniai asmenys, susijusios kontroliuojamosios bendrovės ir (ar) veikia vienas ar keli susiję padaliniai, specialiojo derybų komiteto narys (nariai) skiriamas visų tų juridinių, fizinių asmenų ir (ar) padalinių darbuotojų ar jų atstovų balsų dauguma, jei ši dauguma atstovauja visų darbuotojų daugumai.
 
@@ -220,7 +220,7 @@ Vilnius
 
 7. Šiame straipsnyje nustatyta tvarka taikoma ir skiriant ar renkant naujus specialiojo derybų komiteto narius.
 
-\#### 12 straipsnis. Specialiojo derybų komiteto veiklos organizavimas
+## 12 straipsnis. Specialiojo derybų komiteto veiklos organizavimas
 
 1. Specialusis derybų komitetas išsirenka pirmininką ir sekretorių, pasitvirtina darbo reglamentą.
 
@@ -234,7 +234,7 @@ Vilnius
 
 4. Dalyvavimo teisių atsisakymas ar naudojimosi jomis apribojimas reiškia, kad Europos kooperatinės bendrovės administravimo ar priežiūros organo narių, kuriuos renka, skiria, siūlo ar pritaria jų skyrimui darbuotojai ir (ar) jų atstovai, dalis yra mažesnė už darbuotojų ir (ar) jų atstovų renkamų, skiriamų, siūlomų administravimo ar priežiūros organo narių ar narių, kurių skyrimui jie pritaria, dalį bet kuriame steigime dalyvaujančiame juridiniame asmenyje.
 
-\#### 13 straipsnis. Specialiojo derybų komiteto posėdžiai
+## 13 straipsnis. Specialiojo derybų komiteto posėdžiai
 
 1. Pirmąjį specialiojo derybų komiteto posėdį sušaukia:
 
@@ -250,7 +250,7 @@ Vilnius
 
 5. Specialiojo derybų komiteto posėdžiai protokoluojami. Posėdžio protokolą pasirašo posėdžio pirmininkas ir komiteto įgaliotas narys.
 
-\#### 14 straipsnis. Specialiojo derybų komiteto sudarymo ir veiklos išlaidos
+## 14 straipsnis. Specialiojo derybų komiteto sudarymo ir veiklos išlaidos
 
 1. Visos išlaidos, susijusios su specialiojo derybų komiteto sudarymu ir jo narių dalyvavimu komiteto posėdžiuose ar derybose su kompetentingu steigime dalyvaujančių asmenų organu arba Europos kooperatinės bendrovės centrine vadovybe, padengiamos steigime dalyvaujančių juridinių ir (ar) fizinių asmenų lėšomis jų susitarimu arba įsteigtos Europos kooperatinės bendrovės lėšomis. Šioms išlaidoms taip pat priskiriamos specialiojo derybų komiteto narių kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidos. Tokių išlaidų dydį ir atlyginimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -262,7 +262,7 @@ Vilnius
 
 5. Jei nėra susitarimo tarp steigime dalyvaujančių juridinių ir (ar) fizinių asmenų arba įsteigtos Europos kooperatinės bendrovės dėl išlaidų, susijusių su specialiojo derybų komiteto sudarymu ir specialiojo derybų komiteto narių dalyvavimu komiteto posėdžiuose ar derybose, atlyginimo, išlaidas, išskyrus numatytas šio straipsnio 2 dalyje, šie juridiniai ir (ar) fiziniai asmenys arba Europos kooperatinė bendrovės centrinė ir kito lygmens vadovybės atlygina solidariai.
 
-\#### 15 straipsnis. Specialiojo derybų komiteto kompetencija
+## 15 straipsnis. Specialiojo derybų komiteto kompetencija
 
 1. Specialusis derybų komitetas turi teisę nuspręsti:
 
@@ -278,7 +278,7 @@ Vilnius
 
 5. Priėmus sprendimą nepradėti derybų ar jas nutraukti, derybos atnaujinamos, kai ne mažiau kaip 10 procentų Europos kooperatinės bendrovės, jos kontroliuojamųjų bendrovių padalinių darbuotojų arba jų atstovų raštu kreipiasi į Europos kooperatinės bendrovės centrinę vadovybę ir ne anksčiau kaip praėjus dvejiems metams nuo šio sprendimo priėmimo, jeigu šalys nesusitaria derybų atnaujinti anksčiau. Jeigu specialusis derybų komitetas nusprendžia atnaujinti derybas su kompetentingu steigime dalyvaujančių asmenų organu ar įsteigtos Europos kooperatinės bendrovės centrine vadovybe, bet derybose susitarimas nepriimamas, šio įstatymo ketvirtajame skirsnyje nurodytos taisyklės netaikomos.
 
-\#### 16 straipsnis. Derybų pradžia
+## 16 straipsnis. Derybų pradžia
 
 1. Kompetentingas steigime dalyvaujančių asmenų organas arba įsteigtos Europos kooperatinės bendrovės centrinė vadovybė, gavę specialiojo derybų komiteto pranešimą apie sprendimą pradėti derybas, per 30 dienų turi sušaukti pirmąjį specialiojo derybų komiteto ir kompetentingo steigime dalyvaujančių asmenų organo derybų posėdį.
 
@@ -296,13 +296,13 @@ Vilnius
 
 5) specialiojo derybų komiteto narių kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidų padengimo terminai ir tvarka.
 
-\#### 17 straipsnis. Derybų trukmė
+## 17 straipsnis. Derybų trukmė
 
 1. Derybos gali trukti ne ilgiau kaip šešis mėnesius nuo specialiojo derybų komiteto sudarymo dienos.
 
 2. Specialusis derybų komitetas ir kompetentingas steigime dalyvaujančių asmenų organas arba įsteigtos Europos kooperatinės bendrovės centrinė vadovybė bendru sutarimu gali nuspręsti pratęsti derybas iki vienų metų nuo specialiojo derybų komiteto sudarymo dienos.
 
-\#### 18 straipsnis. Derybų posėdžių tvarka
+## 18 straipsnis. Derybų posėdžių tvarka
 
 1. Kompetentingas steigime dalyvaujančių asmenų organas arba įsteigtos Europos kooperatinės bendrovės centrinė vadovybė ir specialusis derybų komitetas susitaria dėl derybų posėdžio vedimo tvarkos, derybų posėdžių vietos ir terminų, pranešimų apie posėdžius pateikimo terminų ir tvarkos, pirmininkavimo ir sekretoriavimo posėdžiams tvarkos.
 
@@ -310,7 +310,7 @@ Vilnius
 
 3. Specialusis derybų komitetas gali kviestis savo nuožiūra pasirinktus ekspertus.
 
-\#### 19 straipsnis. Derybų rezultatas
+## 19 straipsnis. Derybų rezultatas
 
 1. Derybos baigiamos, kai pasiekiamas susitarimas tarp specialiojo derybų komiteto ir kompetentingo steigime dalyvaujančių asmenų organo arba įsteigtos Europos kooperatinės bendrovės centrinės vadovybės dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje.
 
@@ -340,7 +340,7 @@ Vilnius
 
 6. Susitarimas tarp specialiojo derybų komiteto ir kompetentingo steigime dalyvaujančių asmenų organo arba įsteigtos Europos kooperatinės bendrovės centrinės vadovybės turi būti įforminamas raštu ir pasirašomas bent dviejų kompetentingų steigime dalyvaujančių asmenų organo arba įsteigtos Europos kooperatinės bendrovės centrinės vadovybės įgaliotų asmenų ir dviejų įgaliotų specialiojo derybų komiteto narių.
 
-\#### 20 straipsnis. Darbuotojų teisė dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime
+## 20 straipsnis. Darbuotojų teisė dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime
 
 1. Europos kooperatinės bendrovės darbuotojai ir (ar) jų atstovai turi teisę dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime su balsavimo teise, kai:
 
@@ -360,15 +360,15 @@ Vilnius
 
 3. Perkėlus Europos kooperatinės bendrovės buveinę į valstybę narę, kurios įstatymai nenumato tokio dalyvavimo, vadovaujantis 2003 m. liepos 22 d. Tarybos reglamento (EB) Nr. 1435/2003 dėl Europos kooperatinės bendrovės (SCE) statuto 59 straipsnio 4 dalimi, šios balsavimo teisės netenka galios.
 
-\#### 21 straipsnis. Darbuotojų teisės dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime įgyvendinimo sąlygos
+## 21 straipsnis. Darbuotojų teisės dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime įgyvendinimo sąlygos
 
 1. Taisyklės, kuriomis buvo vadovaujamasi reglamentuojant darbuotojų ir (ar) jų atstovų dalyvavimą visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime su balsavimo teise iki jos pertvarkymo į Europos kooperatinę bendrovę, taikomos ir tuo atveju, kai tokią kooperatinę bendrovę (kooperatyvą) pertvarkius yra įsteigta Europos kooperatinė bendrovė, jeigu Europos kooperatinės bendrovės centrinė ar kito lygmens vadovybė yra valstybėje narėje, pagal kurios teisės aktus ir (ar) nusistovėjusią tvarką tokia teisė įgyvendinama. Jeigu ši darbuotojų arba darbuotojų atstovų teisė įgyvendinama pagal šio įstatymo 19 straipsnyje numatytą susitarimą dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje ir šiame susitarime numatytos kitokios taisyklės ir (ar) kita šios teisės įgyvendinimo tvarka, taikomos susitarimo nuostatos.
 
 2. Kai Europos kooperatinė bendrovė įsteigta kitu būdu, nei nurodyta šio straipsnio 1 dalyje, jos kontroliuojamųjų bendrovių ar jų padalinių darbuotojai arba darbuotojų atstovai turi teisę dalyvauti visuotiniame narių susirinkime ir (ar) struktūrinio padalinio arba struktūrinių padalinių susirinkime su balsavimo teise tik tuo atveju, jeigu Europos kooperatinei bendrovei, jos kontroliuojamosioms bendrovėms ar jų padaliniams taikomi tos valstybės narės teisės aktai ir (ar) nusistovėjusi tvarka, pagal kurią tokia teisė įgyvendinama. Ši darbuotojų arba darbuotojų atstovų teisė taip pat gali būti įgyvendinama, kai dėl to susitariama šio įstatymo 19 straipsnyje numatytame susitarime dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėje bendrovėje.
 
-\### KETVIRTASIS SKIRSNIS. STANDARTINĖS TAISYKLĖS
+KETVIRTASIS SKIRSNIS. STANDARTINĖS TAISYKLĖS
 
-\#### 22 straipsnis. Standartinių taisyklių taikymo prielaidos
+## 22 straipsnis. Standartinių taisyklių taikymo prielaidos
 
 1. Šiame skirsnyje nustatytos standartinės taisyklės taikomos, kai:
 
@@ -380,7 +380,7 @@ Vilnius
 
 2. Siame skirsnyje nustatytos taisyklės Lietuvos Respublikoje buveinę turinčiai Europos kooperatinei bendrovei taikomos nuo Europos kooperatinės bendrovės įsteigimo dienos.
 
-\#### 23 straipsnis. Europos kooperatinės bendrovės darbo tarybos sudėtis ir sudarymas
+## 23 straipsnis. Europos kooperatinės bendrovės darbo tarybos sudėtis ir sudarymas
 
 1. Europos kooperatinės bendrovės darbo tarybos sudėčiai mutatis mutandis taikomos šio įstatymo 10 straipsnio 2 ir 5 dalių nuostatos.
 
@@ -408,7 +408,7 @@ l)bendrą darbuotojų skaičių Europos kooperatinėje bendrovėje, darbuotojų 
 
 11. Jei dėl Europos kooperatinės bendrovės struktūros ir darbuotojų skaičiaus valstybėse narėse ar kontroliuojamosiose bendrovėse, padaliniuose ar kontroliuojamųjų bendrovių padaliniuose pasikeitimų būtina padidinti Europos kooperatinės bendrovės darbo tarybos narių skaičių, Europos kooperatinės bendrovės darbo taryba, atsižvelgdama į centrinės vadovybės nuomonę, sprendžia dėl papildomo Europos kooperatinės bendrovės darbo tarybos nario skyrimo (rinkimo). Priėmusi tokį sprendimą, Europos kooperatinės bendrovės darbo taryba kreipiasi į centrinę vadovybę su prašymu inicijuoti naujo Europos kooperatinės bendrovės darbo tarybos nario (narių) skyrimo (rinkimo) procedūrą pagal šio įstatymo nuostatas.
 
-\#### 24 straipsnis. Narystės Europos kooperatinės bendrovės darbo taryboje pradžia ir pabaiga
+## 24 straipsnis. Narystės Europos kooperatinės bendrovės darbo taryboje pradžia ir pabaiga
 
 1. Europos kooperatinės bendrovės darbo tarybos nariu darbuotojas tampa nuo jo paskyrimo ar išrinkimo dienos.
 
@@ -426,7 +426,7 @@ l)bendrą darbuotojų skaičių Europos kooperatinėje bendrovėje, darbuotojų 
 
 3. Kai narystė pasibaigia šio straipsnio 2 dalies 1–3, 5 punktuose nurodytais pagrindais ir iki Europos kooperatinės bendrovės darbo tarybos kadencijos pabaigos yra likę ne mažiau kaip 6 mėnesiai, šio įstatymo nustatyta tvarka turi būti skiriamas ar renkamas naujas narys. Jis skiriamas ar renkamas tik iki Europos kooperatinės bendrovės darbo tarybos kadencijos pabaigos.
 
-\#### 25 straipsnis. Pranešimas apie Europos kooperatinės bendrovės darbo tarybos sudėtį
+## 25 straipsnis. Pranešimas apie Europos kooperatinės bendrovės darbo tarybos sudėtį
 
 1. Darbuotojų atstovas (atstovai), paskyręs Europos kooperatinės bendrovės darbo tarybos narį (narius), raštu praneša centrinei vadovybei Europos kooperatinės bendrovės darbo tarybos nario vardą, pavardę, padalinio ar bendrovės, kuriame ar kurioje jis dirba, pavadinimą ir jo pareigas, adresą ryšiams. Tokia pati prievolė pranešti centrinei vadovybei apie išrinktą Europos kooperatinės bendrovės darbo tarybos narį (narius) tenka visuotinį darbuotojų kolektyvo susirinkimą ar bendrąją bendrovės padalinių ar (ir) bendrovių darbuotojų delegatų konferenciją, kuriuose buvo renkamas narys (nariai), sušaukusiam padalinio vadovui ar bendrovės administravimo ar valdymo organui.
 
@@ -436,11 +436,11 @@ l)bendrą darbuotojų skaičių Europos kooperatinėje bendrovėje, darbuotojų 
 
 4. Gavę šio straipsnio 3 dalyje nurodytą pranešimą, administravimo ar valdymo organai bei padalinių vadovai pranešime esančią informaciją nedelsdami pateikia bendrovėje ar padalinyje veikiantiems darbuotojų atstovams.
 
-\#### 26 straipsnis. Europos kooperatinės bendrovės darbo tarybos kadencija
+## 26 straipsnis. Europos kooperatinės bendrovės darbo tarybos kadencija
 
 Europos kooperatinės bendrovės darbo tarybos kadencija – ketveri metai. Kadencija pradedama skaičiuoti Europos kooperatinės bendrovės darbo tarybai susirinkus į pirmąjį posėdį. Apie pirmojo Europos kooperatinės bendrovės darbo tarybos posėdžio sušaukimą ne vėliau kaip prieš 14 dienų turi būti raštu pranešta Europos kooperatinės bendrovės darbo tarybos nariams ir dalyvaujančių juridinių asmenų, susijusių kontroliuojamųjų bendrovių ir susijusių padalinių, kuriuose dirba Europos kooperatinės bendrovės darbo tarybos nariai, atitinkamai administravimo ar valdymo organams arba vadovui.
 
-\#### 27 straipsnis. Europos kooperatinės bendrovės darbo tarybos veiklos organizavimas
+## 27 straipsnis. Europos kooperatinės bendrovės darbo tarybos veiklos organizavimas
 
 1. Savo pirmajame posėdyje Europos kooperatinės bendrovės darbo taryba visų narių balsų dauguma išsirenka Europos kooperatinės bendrovės darbo tarybos pirmininką ir jo pavaduotoją, patvirtina Europos kooperatinės bendrovės darbo tarybos darbo reglamentą. Balsams pasiskirsčius po lygiai, lemia posėdžio pirmininko balsas.
 
@@ -458,7 +458,7 @@ Europos kooperatinės bendrovės darbo tarybos kadencija – ketveri metai. Kade
 
 4. Savo sprendimus Europos kooperatinės bendrovės darbo taryba ar Europos kooperatinės bendrovės darbo tarybos komitetas priima visų narių balsų dauguma. Kiekvienas narys turi po vieną balsą.
 
-\#### 28 straipsnis. Europos kooperatinės bendrovės darbo tarybos ir Europos kooperatinės bendrovės darbo tarybos komiteto posėdžiai
+## 28 straipsnis. Europos kooperatinės bendrovės darbo tarybos ir Europos kooperatinės bendrovės darbo tarybos komiteto posėdžiai
 
 1. Pirmąjį ir eilinius Europos kooperatinės bendrovės darbo tarybos posėdžius sušaukia centrinė vadovybė. Pirmąjį posėdį centrinė vadovybė turi sušaukti ne vėliau kaip per 90 dienų nuo Europos kooperatinės bendrovės darbo tarybos sudarymo.
 
@@ -474,11 +474,11 @@ Europos kooperatinės bendrovės darbo tarybos kadencija – ketveri metai. Kade
 
 7. Europos kooperatinės bendrovės darbo tarybos ar Europos kooperatinės bendrovės darbo tarybos komiteto posėdžiai protokoluojami. Posėdžio protokolą pasirašo posėdžio pirmininkas ir tarybos ar komiteto įgaliotas narys.
 
-\#### 29 straipsnis. Ekspertų dalyvavimas
+## 29 straipsnis. Ekspertų dalyvavimas
 
 Europos kooperatinės bendrovės darbo taryba arba Europos kooperatinės bendrovės darbo tarybos komitetas gali kviestis savo nuožiūra pasirinktus ekspertus.
 
-\#### 30 straipsnis. Europos kooperatinės bendrovės darbo tarybos sudarymo ir veiklos išlaidos
+## 30 straipsnis. Europos kooperatinės bendrovės darbo tarybos sudarymo ir veiklos išlaidos
 
 1. Visas išlaidas, susijusias su Europos kooperatinės bendrovės darbo tarybos sudarymu ir Europos kooperatinės bendrovės darbo tarybos narių dalyvavimu Europos kooperatinės bendrovės darbo tarybos ar Europos kooperatinės bendrovės darbo tarybos komiteto posėdžiuose, taip pat bendruose posėdžiuose su centrine vadovybe ar šio įstatymo 32 straipsnyje nurodytuose posėdžiuose su kito lygmens vadovybe, padengia Europos kooperatinė bendrovė. Šioms išlaidoms taip pat priskiriamos Europos kooperatinės bendrovės darbo tarybos narių kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidos. Tokių išlaidų dydį ir atlyginimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -490,7 +490,7 @@ Europos kooperatinės bendrovės darbo taryba arba Europos kooperatinės bendrov
 
 5. Europos kooperatinės bendrovės darbo tarybos nariams turi būti skiriama laiko dalyvauti mokymuose, būtinuose jų funkcijoms atlikti; už mokymosi laiką mokamas ne mažesnis už vidutinį darbo užmokestis.
 
-\#### 31 straipsnis. Reguliarusis informavimas ir konsultavimas
+## 31 straipsnis. Reguliarusis informavimas ir konsultavimas
 
 1. Pasibaigus kalendoriniams metams, centrinė vadovybė per tris mėnesius turi parengti ir pateikti Europos kooperatinės bendrovės darbo tarybai metų ataskaitą apie Europos kooperatinės bendrovės, jos padalinių, taip pat jos kontroliuojamųjų bendrovių ir jų padalinių ekonominę būklę ir perspektyvas.
 
@@ -524,7 +524,7 @@ Europos kooperatinės bendrovės darbo taryba arba Europos kooperatinės bendrov
 
 5. Metų ataskaitą kartu su bendro Europos kooperatinės bendrovės darbo tarybos ir centrinės vadovybės posėdžio protokolu centrinė vadovybė per 30 dienų privalo pateikti kito lygmens vadovybei.
 
-\#### 32 straipsnis. Informavimas ir konsultavimas esant ypatingoms aplinkybėms
+## 32 straipsnis. Informavimas ir konsultavimas esant ypatingoms aplinkybėms
 
 1. Apie ypatingų aplinkybių atsiradimą turi būti nedelsiant raštu pranešama Europos kooperatinės bendrovės darbo tarybos komitetui, o jei toks nesudarytas, – Europos kooperatinės bendrovės darbo tarybai. Ypatingomis aplinkybėmis laikomos aplinkybės, turinčios didelės įtakos Europos kooperatinės bendrovės, jos padalinio, Europos kooperatinės bendrovės kontroliuojamosios bendrovės ar jos padalinio darbuotojų interesams, o ypač bendrovės, gamybos ar verslo arba jo dalies perkėlimas į kitą vietą, padalinio arba bendrovės veiklos nutraukimas, grupės darbuotojų atleidimas iš darbo. Pranešti privalo centrinė vadovybė arba kito lygmens vadovybė, kuri turi teisę priimti savarankiškus sprendimus dėl ypatingų aplinkybių.
 
@@ -536,7 +536,7 @@ Europos kooperatinės bendrovės darbo taryba arba Europos kooperatinės bendrov
 
 5. Jeigu centrinė vadovybė ar kito lygmens vadovybė nusprendžia nesivadovauti Europos kooperatinės bendrovės darbo tarybos komiteto ar Europos kooperatinės bendrovės darbo tarybos pareikšta nuomone, Europos kooperatinės bendrovės darbo tarybos komitetas ar Europos kooperatinės bendrovės darbo taryba turi teisę nedelsdami dar kartą susitikti su centrine vadovybe ar kito lygmens vadovybe.
 
-\#### 33 straipsnis. Dalyvavimas Europos kooperatinės bendrovės administravimo ar priežiūros organo veikloje
+## 33 straipsnis. Dalyvavimas Europos kooperatinės bendrovės administravimo ar priežiūros organo veikloje
 
 1. Taisyklės, kuriomis buvo vadovaujamasi reglamentuojant darbuotojų dalyvavimą kooperatinės bendrovės (kooperatyvo) administravimo ar priežiūros organo veikloje iki jos (jo) pertvarkymo į Europos kooperatinę bendrovę, taikomos ir tuo atveju, kai tokią kooperatinę bendrovę (kooperatyvą) pertvarkius yra įsteigiama Europos kooperatinė bendrovė. Darbuotojų dalyvavimui tokios Europos kooperatinės bendrovės administravimo ar priežiūros organo veikloje taip pat mutatis mutandis taikomos šio straipsnio nuostatos.
 
@@ -566,13 +566,13 @@ Europos kooperatinės bendrovės darbo taryba arba Europos kooperatinės bendrov
 
 10. Apie šio straipsnio 2, 7 ir 9 dalyse nurodytus sprendimus specialusis derybų komitetas turi nedelsdamas pranešti kompetentingiems steigime dalyvaujančių asmenų organams.
 
-\#### 34 straipsnis. Darbuotojų atstovų informavimas
+## 34 straipsnis. Darbuotojų atstovų informavimas
 
 1. Europos kooperatinės bendrovės darbo taryba, Europos kooperatinės bendrovės darbo tarybos komitetas apie savo veiklą ir informavimo bei konsultavimo rezultatus ne rečiau kaip kartą per metus turi pranešti Europos kooperatinės bendrovės ir jos padalinio, Europos kooperatinės bendrovės kontroliuojamųjų bendrovių ir jų padalinių darbuotojų atstovams, o jei tokių nėra, – darbuotojams.
 
 2. Europos kooperatinės bendrovės darbo taryba gali įpareigoti savo narį (narius) šio straipsnio 1 dalyje nurodytą informaciją pateikti tam tikro bendrovės padalinio arba kontroliuojamosios bendrovės darbuotojų atstovams ar tiesiogiai darbuotojams valstybėje narėje.
 
-\#### 35 straipsnis. Europos kooperatinės bendrovės darbo tarybos veiklos pabaiga
+## 35 straipsnis. Europos kooperatinės bendrovės darbo tarybos veiklos pabaiga
 
 1. Savo funkcijas Europos kooperatinės bendrovės darbo taryba atlieka iki kadencijos pabaigos, išskyrus šiame straipsnyje nustatytas išimtis.
 
@@ -580,9 +580,9 @@ Europos kooperatinės bendrovės darbo taryba arba Europos kooperatinės bendrov
 
 3. Jei centrinė vadovybė per šešis mėnesius nuo pranešimo apie šio straipsnio 2 dalyje nurodyto Europos kooperatinės bendrovės darbo tarybos sprendimo gavimo nepradeda derybų arba per vienus metus nuo šio pranešimo gavimo susitarimas nepasiekiamas, toliau taikomos šio skirsnio taisyklės ir šio skirsnio nustatyta tvarka turi būti sudaroma nauja Europos kooperatinės bendrovės darbo taryba.
 
-\### PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 36 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 36 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Šį įstatymą pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 

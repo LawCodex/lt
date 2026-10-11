@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.21580A693399"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.21580A693399.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 2 ir 17 straipsnių pakeitimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2012, Nr. [127-6394](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A713B5843DF))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 2 dalimi
 
 Papildyti 2 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 2 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.43F09977EBC0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43F09977EBC0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo 2, 3, 10, 22, 32, 47, 55, 62, 64, 68, 71, 72, 73, 85, 86, 87, 95, 96 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 96-1 straipsniu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2007, Nr. [17-627](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2); 2009, Nr. [38-1438](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6CA18E4EC56))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kai kurie šio įstatymo reikalavimai šiame įstatyme nustatytais atvejais *mutatis mutandis* taikomi licencijuotoms kredito įstaigoms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą (toliau – kredito įstaigos).“
 
-\#### 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 3 straipsnio 1 dalį 3 punktu:
 
@@ -74,7 +74,7 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „43. **Viešas paskelbimas** – informacijos skelbimas, teikimas Vertybinių popierių komisijos interneto tinklalapyje, jeigu šis įstatymas nenumato kitaip.“
 
-\#### 3 straipsnis. 10 straipsnio 1 ir 4 dalių pakeitimas
+## 3 straipsnis. 10 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -84,13 +84,13 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Asmuo, nusprendęs tiesiogiai ar netiesiogiai perleisti arba sumažinti jam priklausantį finansų maklerio įmonės akcijų paketą, jei dėl planuojamo įmonės akcijų netekimo asmeniui priklausančių balsavimo teisių ar įstatinio kapitalo dalis pasiektų ar peržengtų mažėjimo tvarka 20, 30 ar 50 procentų arba įmonė nustotų būti to juridinio asmens dukterine įmone, turi pateikti Vertybinių popierių komisijai rašytinį pranešimą ir nurodyti ketinamo perleisti arba sumažinti finansų maklerio įmonės akcijų paketo dydį.“
 
-\#### 4 straipsnis. 22 straipsnio 10 dalies 1 punkto pakeitimas
+## 4 straipsnis. 22 straipsnio 10 dalies 1 punkto pakeitimas
 
 Pakeisti 22 straipsnio 10 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) investicinės paslaugos yra teikiamos dėl akcijų, įtrauktų į prekybą reguliuojamoje rinkoje arba lygiavertėje rinkoje trečiojoje šalyje, taip pat pinigų rinkos priemonių, obligacijų ar kitokių įsiskolinimą patvirtinančių finansinių priemonių, išskyrus obligacijas ir kitas įsiskolinimą patvirtinančias priemones, kurios turi išvestinių finansinių priemonių požymių, suderintųjų kolektyvinio investavimo subjektų išleistų vertybinių popierių ir kitų nesudėtingų finansinių priemonių;“.
 
-\#### 5 straipsnis. 32 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 32 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -102,13 +102,13 @@ Pakeisti 22 straipsnio 10 dalies 1 punktą ir jį išdėstyti taip:
 
 3. Buvusią 32 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 6 straipsnis. 47 straipsnio 6 dalies pakeitimas
+## 6 straipsnis. 47 straipsnio 6 dalies pakeitimas
 
 Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Vertybinių popierių komisija nustato reguliuojamos rinkos operatoriaus kapitalo reikalavimus ir lėšų investavimo apribojimus. Reguliuojamos rinkos operatorius privalo pateikti Vertybinių popierių komisijai jos nustatyta tvarka kapitalo pakankamumo skaičiavimo ataskaitą, finansines ataskaitas ir kitus Vertybinių popierių komisijos nustatytus dokumentus.“
 
-\#### 7 straipsnis. 55 straipsnio 1, 2 ir 4 dalių pakeitimas
+## 7 straipsnis. 55 straipsnio 1, 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 55 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „4. Jeigu Vertybinių popierių komisija reikalauja sustabdyti ar nutraukti prekybą finansine priemone vienoje ar keliose reguliuojamose rinkose ir daugiašalėse prekybos sistemose, toks Vertybinių popierių komisijos sprendimas turi būti nedelsiant viešai paskelbtas. Apie sprendimą sustabdyti ar nutraukti prekybą finansine priemone, kuria leista prekiauti reguliuojamoje rinkoje, Vertybinių popierių komisija praneša kitų valstybių narių priežiūros institucijoms.“
 
-\#### 8 straipsnis. 62 straipsnio papildymas ir pakeitimas
+## 8 straipsnis. 62 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 62 straipsnį nauja 5 dalimi ir ją išdėstyti taip:
 
@@ -134,7 +134,7 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 3. Buvusias 62 straipsnio 6–10 dalis laikyti atitinkamai 7–11 dalimis.
 
-\#### 9 straipsnis. 64 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 64 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 64 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 4. Buvusias 64 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 10 straipsnis. 68 straipsnio 1 dalies papildymas ir straipsnio papildymas 6 dalimi
+## 10 straipsnis. 68 straipsnio 1 dalies papildymas ir straipsnio papildymas 6 dalimi
 
 1. Papildyti 68 straipsnio 1 dalį 13 punktu:
 
@@ -164,7 +164,7 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Vertybinių popierių komisija nustato Centrinio depozitoriumo kapitalo reikalavimus ir lėšų investavimo apribojimus. Centrinis depozitoriumas Vertybinių popierių komisijos nustatyta tvarka privalo pateikti kapitalo pakankamumo skaičiavimo ataskaitą, finansines ataskaitas ir kitus Vertybinių popierių komisijos nustatytus dokumentus.“
 
-\#### 11 straipsnis. 71 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
+## 11 straipsnis. 71 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
 
 1. Pakeisti 71 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „4) stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų patarėjo įmonių, reguliuojamų rinkų ir jų narių, Centrinio depozitoriumo bei sąskaitų tvarkytojų veiklą;“.
 
-\#### 12 straipsnis. 72 straipsnio pakeitimas ir papildymas
+## 12 straipsnis. 72 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 72 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -194,13 +194,13 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 
 5. Buvusias 72 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis.
 
-\#### 13 straipsnis. 73 straipsnio 4 dalies pakeitimas
+## 13 straipsnis. 73 straipsnio 4 dalies pakeitimas
 
 Pakeisti 73 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Vertybinių popierių komisija organizuoja viešus ir uždarus posėdžius. Posėdžių tvarką nustato Vertybinių popierių komisijos darbo reglamentas.“
 
-\#### 14 straipsnis. 85 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 85 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 85 straipsnį ir jį išdėstyti taip:
 
@@ -252,7 +252,7 @@ Pakeisti ir papildyti 85 straipsnį ir jį išdėstyti taip:
 
 11. Vertybinių popierių komisija gali prašyti, kad valstybės narės priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti Vertybinių popierių komisijos darbuotojams. Jeigu valstybės narės priežiūros institucija laiku neatsako į prašymą dėl informacijos pateikimo arba atsisako pateikti informaciją, Vertybinių popierių komisija gali apie tai pranešti Europos vertybinių popierių reguliavimo institucijų komitetui.“
 
-\#### 15 straipsnis. 86 straipsnio pakeitimas ir papildymas
+## 15 straipsnis. 86 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 86 straipsnį ir jį išdėstyti taip:
 
@@ -276,7 +276,7 @@ Pakeisti ir papildyti 86 straipsnį ir jį išdėstyti taip:
 
 3. Vertybinių popierių komisija turi teisę skirti Administracinių teisės pažeidimų kodekse numatytas nuobaudas fiziniams asmenims.“
 
-\#### 16 straipsnis. 87 straipsnio pakeitimas
+## 16 straipsnis. 87 straipsnio pakeitimas
 
 Pakeisti 87 straipsnį ir jį išdėstyti taip:
 
@@ -298,7 +298,7 @@ Pakeisti 87 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio nuostatos licencijuotoms kredito įstaigoms taikomos mutatis mutandis.“
 
-\#### 17 straipsnis. 95 straipsnio pakeitimas
+## 17 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
@@ -330,7 +330,7 @@ Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio 1 dalyje nustatytų sankcijų taikymas juridiniams asmenims neatleidžia jų vadovų ar darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės, taip pat neužkerta kelio Vertybinių popierių komisijai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.“
 
-\#### 18 straipsnis. 96 straipsnio pakeitimas
+## 18 straipsnis. 96 straipsnio pakeitimas
 
 Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
@@ -366,7 +366,7 @@ Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
 8. Vertybinių popierių komisijos sprendimas per 3 darbo dienas registruotu laišku išsiunčiamas asmeniui, dėl kurio veiksmų buvo atliekamas tyrimas, arba pasirašytinai įteikiamas jo atstovui.“
 
-\#### 19 straipsnis. Įstatymo papildymas 961 straipsniu
+## 19 straipsnis. Įstatymo papildymas 961 straipsniu
 
 Papildyti Įstatymą 96^1straipsniu ir jį išdėstyti taip:
 

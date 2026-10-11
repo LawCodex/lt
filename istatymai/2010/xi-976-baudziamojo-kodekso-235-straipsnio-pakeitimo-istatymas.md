@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CFB5C1D2F745"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CFB5C1D2F745.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 235 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2004, Nr. [54-1835](https://www.e-tar.lt/portal/lt/legalAct/TAR.34DD0BE604A0); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC); 2009, Nr. [146-6484](https://www.e-tar.lt/portal/lt/legalAct/TAR.5BDF891FF9BD))
 
-\#### 1 straipsnis. 235 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 1 straipsnis. 235 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. 235 straipsnio pavadinime po žodžio „melagingi“ įrašyti žodžius „skundas, pareiškimas, pranešimas“ ir straipsnio pavadinimą išdėstyti taip:
 

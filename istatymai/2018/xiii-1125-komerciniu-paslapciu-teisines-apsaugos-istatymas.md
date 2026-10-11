@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7f8006f052c211e884cbc4327e55f3ca"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7F8006F052C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos komercinių paslapčių teisinės apsaugos įstatymas
@@ -26,7 +26,7 @@ KOMERCINIŲ PASLAPČIŲ TEISINĖS APSAUGOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato komercinių paslapčių teisinę apsaugą nuo jų neteisėto gavimo, naudojimo ir atskleidimo.
 
@@ -50,7 +50,7 @@ Vilnius
 
 4. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės įstatymo sąvokos
+## 2 straipsnis. Pagrindinės įstatymo sąvokos
 
 1. Komercinės paslapties turėtojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys (toliau – juridinis asmuo), teisėtai valdantys komercinę paslaptį.
 
@@ -58,7 +58,7 @@ Vilnius
 
 3. Sąvoka „komercinė paslaptis“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos civilinio kodekso 1.116 straipsnyje.
 
-\#### 3 straipsnis. Teisėtas komercinių paslapčių gavimas, naudojimas ir atskleidimas
+## 3 straipsnis. Teisėtas komercinių paslapčių gavimas, naudojimas ir atskleidimas
 
 1. Komercinės paslapties gavimas laikomas teisėtu, kai komercinė paslaptis gaunama kuriuo nors iš šių būdų:
 
@@ -74,7 +74,7 @@ Vilnius
 
 3. Komercinės paslapties naudojimas ar atskleidimas laikomas teisėtu tiek, kiek tai numatyta kituose Lietuvos Respublikos įstatymuose arba Europos Sąjungos teisės aktuose.
 
-\#### 4 straipsnis. Neteisėtas komercinių paslapčių gavimas, naudojimas ir atskleidimas
+## 4 straipsnis. Neteisėtas komercinių paslapčių gavimas, naudojimas ir atskleidimas
 
 1. Komercinės paslapties gavimas be komercinės paslapties turėtojo sutikimo laikomas neteisėtu, jeigu komercinė paslaptis gauta atlikus šiuos veiksmus:
 
@@ -94,7 +94,7 @@ Vilnius
 
 4. Su komercinės paslapties pažeidimu susijusių prekių gamyba, siūlymas ar pateikimas rinkai arba su komercinės paslapties pažeidimu susijusių prekių importas, eksportas arba laikymas šiais tikslais laikomi neteisėtu komercinės paslapties naudojimu, kai tokią veiklą vykdantis asmuo žinojo arba, atsižvelgiant į aplinkybes, turėjo žinoti, kad komercinė paslaptis buvo naudojama neteisėtai, kaip nurodyta šio straipsnio 2 dalyje.
 
-\#### 5 straipsnis. Komercinių paslapčių turėtojų teisių gynimas
+## 5 straipsnis. Komercinių paslapčių turėtojų teisių gynimas
 
 1. Komercinių paslapčių turėtojai turi teisę į šio įstatymo 6, 7, 8 ir 9 straipsniuose nurodytus teisių gynimo būdus, kad apgintų savo teises nuo neteisėto jų komercinės paslapties gavimo, naudojimo arba atskleidimo arba užkirstų tam kelią.
 
@@ -114,7 +114,7 @@ Vilnius
 
 2) informacija tampa plačiai žinoma arba lengvai gaunama asmenims toje aplinkoje, kurioje paprastai dirbama su ta informacija.
 
-\#### 6 straipsnis. Laikinosios apsaugos priemonės
+## 6 straipsnis. Laikinosios apsaugos priemonės
 
 1. Teismas komercinės paslapties turėtojo prašymu Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka gali taikyti šias laikinąsias apsaugos priemones:
 
@@ -158,7 +158,7 @@ Vilnius
 
 6. Civilinio proceso kodekso normos dėl laikinųjų apsaugos priemonių taikymo taikomos tiek, kiek šių laikinųjų apsaugos priemonių taikymas nereglamentuotas šiame įstatyme.
 
-\#### 7 straipsnis. Teisių gynimo būdai
+## 7 straipsnis. Teisių gynimo būdai
 
 1. Komercinės paslapties neteisėto gavimo, naudojimo ar atskleidimo atveju komercinės paslapties turėtojas turi teisę Civilinio proceso kodekse nustatyta tvarka kreiptis į teismą dėl teisių gynimo ir reikalauti:
 
@@ -196,7 +196,7 @@ Vilnius
 
 8. Šio straipsnio 7 dalyje nurodyta piniginė kompensacija neturi viršyti atlyginimo, kurį būtų reikėję sumokėti, jeigu atsakovas būtų teisėtai naudojęs komercinę paslaptį laikotarpiu, kuriuo naudoti komercinę paslaptį galėjo būti uždrausta.
 
-\#### 8 straipsnis. Žalos atlyginimas
+## 8 straipsnis. Žalos atlyginimas
 
 1. Fizinis ar juridinis asmuo, kuris žinojo arba turėjo žinoti, kad jis neteisėtai gauna, naudoja arba atskleidžia komercinę paslaptį, privalo atlyginti komercinės paslapties turėtojui turtinę ir neturtinę žalą, atsiradusią dėl neteisėto komercinės paslapties gavimo, naudojimo arba atskleidimo. Darbuotojo padarytos žalos atlyginimas darbdaviui už neteisėtą komercinės paslapties atskleidimą nustatytas Darbo kodekse.
 
@@ -204,17 +204,17 @@ Vilnius
 
 3. Vietoj faktiškai atsiradusios žalos (nuostolių) atlyginimo komercinės paslapties turėtojas gali reikalauti vienkartinės kompensacijos. Šios kompensacijos dydis turi būti pagrįstas atlyginimu, kuris turėjo būti sumokėtas, jeigu fizinis ar juridinis asmuo būtų teisėtai naudojęs komercinę paslaptį.
 
-\#### 9 straipsnis. Teismo sprendimo paskelbimas
+## 9 straipsnis. Teismo sprendimo paskelbimas
 
 1. Sprendimą dėl komercinės paslapties neteisėto gavimo, naudojimo ar atskleidimo priimantis teismas komercinės paslapties turėtojo prašymu gali įpareigoti fizinį ar juridinį asmenį, neteisėtai gavusį, panaudojusį arba atskleidusį komercinę paslaptį, savo lėšomis paskelbti informaciją apie priimtą teismo sprendimą, įskaitant viso ar dalies sprendimo paskelbimą visuomenės informavimo priemonėse ar kitokiu būdu, nepažeidžiant komercinės paslapties apsaugos. Teismo sprendimas arba informacija apie priimtą teismo sprendimą skelbiami po teismo sprendimo įsiteisėjimo, jeigu teismas nenustato kitaip. Teismo sprendimo paskelbimo būdas ir apimtis nustatomi pačiame sprendime. Komercinės paslapties turėtojas turi teisę reikalauti, kad atsakovas iš anksto sumokėtų į teismo nurodytą sąskaitą pinigų sumą, reikalingą informacijai apie priimtą teismo sprendimą ar teismo sprendimui paskelbti.
 
 2. Teismas, spręsdamas dėl teismo sprendimo arba informacijos apie priimtą teismo sprendimą paskelbimo, atsižvelgia į komercinės paslapties vertę, atsakovo veiksmus neteisėtai gaunant, naudojant arba atskleidžiant komercinę paslaptį, neteisėto komercinės paslapties naudojimo arba atskleidimo poveikį ir tikimybę, kad atsakovas toliau neteisėtai naudos arba atskleis komercinę paslaptį. Be to, teismas atsižvelgia į tai, ar informacija apie fizinį ar juridinį asmenį, neteisėtai gavusį, panaudojusį arba atskleidusį komercinę paslaptį, yra tokia, kad iš jos galima nustatyti fizinio asmens tapatybę, ir jeigu taip, – ar tos informacijos paskelbimas būtų pagrįstas pirmiausia atsižvelgiant į galimą žalą, kuri dėl paskelbimo gali būti padaryta jo privatumui ir reputacijai.
 
-\#### 10 straipsnis. Ieškinio senaties terminas
+## 10 straipsnis. Ieškinio senaties terminas
 
 Ieškiniams dėl komercinių paslapčių apsaugos nustatomas trejų metų ieškinio senaties terminas.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2018 m. birželio 1 d.
 

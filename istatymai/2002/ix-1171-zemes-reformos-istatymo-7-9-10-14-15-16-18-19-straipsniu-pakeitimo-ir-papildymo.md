@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1943C0B5C98B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1943C0B5C98B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 7, 9, 10, 14, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,19 +30,19 @@ Vilnius
 
 2001, Nr. 71-2524, Nr. 108-3905; 2002, Nr. 68-2763)
 
-\#### 1 straipsnis. 7 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 7 straipsnio papildymas 2 dalimi
 
 Papildyti 7 straipsnį 2 dalimi:
 
 „2. Religinėms bendrijoms, bendruomenėms ir centrams, kurie veikė iki 1940 m. liepos 21 d., o jų turtas pagal TSRS (LTSR) įstatymus buvo nacionalizuotas ar kitaip neteisėtai nusavintas, ir kurie nuosavybės teise turi pastatų ir kitų statinių, Vyriausybės nustatyta tvarka suteikiami nuosavybėn neatlygintinai jų naudojami šiems pastatams ir kitiems statiniams eksploatuoti teritorijų planavimo dokumentuose nustatytų ribų žemės sklypai.“
 
-\#### 2 straipsnis. 9 straipsnio 8 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 8 dalies pakeitimas
 
 9 straipsnio 8 dalyje po žodžio „signatarams“ įrašyti žodžius „arba, jiems mirus, jų sutuoktiniams, o jeigu sutuoktinio nėra, – vaikams (įvaikiams)“, papildyti dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 „8. Kovo 11-osios akto signatarams arba, jiems mirus, jų sutuoktiniams, o jeigu sutuoktinio nėra, – vaikams (įvaikiams) ne aukciono būdu parduodamas vienas žemės sklypas individualaus gyvenamojo namo statybai jų pageidaujamame mieste (išskyrus Neringos miestą) Vyriausybės patvirtinto dydžio, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha kituose miestuose. Šie žemės sklypai turi būti suprojektuoti iki 2003 m. gruodžio 31 d. savivaldybių tarybų patvirtintose teritorijose.“
 
-\#### 3 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas 7 dalimi
+## 3 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas 7 dalimi
 
 1. Pakeisti 10 straipsnio 1 dalį iki dvitaškio ir ją išdėstyti taip:
 
@@ -60,13 +60,13 @@ Papildyti 7 straipsnį 2 dalimi:
 
 „7. Žemės reformos žemėtvarkos projektai, kuriuose suformuoti žemės, miško sklypai ir vandens telkiniai pagal šio straipsnio 1 dalyje nustatytą eilę, įgyvendinami Žemės ūkio ministerijos nustatyta tvarka.“
 
-\#### 4 straipsnis. 14 straipsnio papildymas 6 punktu
+## 4 straipsnis. 14 straipsnio papildymas 6 punktu
 
 Papildyti 14 straipsnį 6 punktu:
 
 „6) valstybiniams miškams, esantiems 7 km pločio juostoje nuo Baltijos jūros ir Kuršių marių.“
 
-\#### 5 straipsnis. 15 straipsnio 4 dalies pakeitimas bei 9 dalies pripažinimas netekusia galios
+## 5 straipsnis. 15 straipsnio 4 dalies pakeitimas bei 9 dalies pripažinimas netekusia galios
 
 1. 15 straipsnio 4 dalyje po žodžių „asmeniniam ūkiui žemės sklypas“ įrašyti žodžius „(išskyrus tuos skirtus ir naudojamus piliečio asmeniniam ūkiui žemės sklypus, už kuriuos nustatyta tvarka ir sąlygomis buvo įmokėtos įmokos)“ ir šią dalį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Papildyti 14 straipsnį 6 punktu:
 
 2. 15 straipsnio 9 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 16 straipsnio pakeitimas
+## 6 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -88,13 +88,13 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 4. Žemės reformos žemėtvarkos projektus rengia konkursą laimėję juridiniai asmenys, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo apskričių viršininkai Viešųjų pirkimų įstatymo nustatyta tvarka.“
 
-\#### 7 straipsnis. 18 straipsnio papildymas 4 dalimi
+## 7 straipsnis. 18 straipsnio papildymas 4 dalimi
 
 Papildyti 18 straipsnį 4 dalimi:
 
 „4. Institucija, atstovaujanti valstybei sudarant valstybinės žemės perleidimo, mainų, nuomos ar panaudos sandorius, privalo kontroliuoti, kaip vykdomos sandorių sąlygos, o nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio nutraukimą įstatymų nustatyta tvarka arba taikyti kitus įstatymų numatytus šalių teisių ir interesų gynimo būdus. Vyriausybės įgaliotos institucijos turi teisę ginčyti sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar perdavimo naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų teisės aktų reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės žemės sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu institucija, atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų sandorį nutraukti.“
 
-\#### 8 straipsnis. 19 straipsnio 3 ir 5 dalių pakeitimas bei straipsnio papildymas 10 dalimi
+## 8 straipsnis. 19 straipsnio 3 ir 5 dalių pakeitimas bei straipsnio papildymas 10 dalimi
 
 1. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 

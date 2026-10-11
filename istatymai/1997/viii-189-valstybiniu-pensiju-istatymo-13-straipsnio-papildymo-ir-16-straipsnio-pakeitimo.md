@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4084293C296E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4084293C296E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 13 straipsnio papildymo ir 16 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84), Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194); 1996, Nr. [73-1750](https://www.e-tar.lt/portal/lt/legalAct/TAR.A766B68AB31D))
 
-\#### 1 straipsnis. 13 straipsnio 2 dalies papildymas
+## 1 straipsnis. 13 straipsnio 2 dalies papildymas
 
 13 straipsnio 2 dalyje po žodžių „sovietinėje armijoje“ įrašyti žodžius „arba vėliau buvo pripažinti invalidais dėl ligų, susijusių su karine tarnyba,“ ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2) III grupės invalidams – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.“
 
-\#### 2 straipsnis. 16 straipsnio pakeitimas
+## 2 straipsnis. 16 straipsnio pakeitimas
 
 Iš 16 straipsnio 2 dalies išbraukti žodžius „Nukentėjusiųjų asmenų“ ir ją išdėstyti taip:
 

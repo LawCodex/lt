@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/daa9ff30c1ca11ea9815f635b9c0dcef"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DAA9FF30C1CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.13E52FA2F866"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.13E52FA2F866.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 ir 41 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [13-467](https://www.e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D))
 
-\#### 1 straipsnis. 18 straipsnio 2 dalies 4 ir 6 punktų pakeitimas
+## 1 straipsnis. 18 straipsnio 2 dalies 4 ir 6 punktų pakeitimas
 
 1. 18 straipsnio 2 dalies 4 punkte po žodžio „tvarka“ įrašyti žodžius „įtariamas arba“, vietoj žodžių „tyčinį nusikaltimą“ įrašyti žodžius „tyčinę nusikalstamą veiką“, vietoj žodžių „neatsargų nusikaltimą“ įrašyti žodžius „neatsargią nusikalstamą veiką“ ir šį punktą išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „6) kuriam per pastaruosius 3 metus dėl to, kad susitarė su nukentėjusiuoju, nebuvo pradėtas ikiteisminis tyrimas arba ikiteisminis tyrimas buvo nutrauktas dėl tyčinės nusikalstamos veikos arba dėl neatsargios nusikalstamos veikos, kurią jis padarė būdamas neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;“.
 
-\#### 2 straipsnis. 41 straipsnio 1 dalies 5 punkto ir 5 dalies pakeitimas
+## 2 straipsnis. 41 straipsnio 1 dalies 5 punkto ir 5 dalies pakeitimas
 
 1. 41 straipsnio 1 dalies 5 punkte po žodžio „tvarka“ įrašyti žodžius „įtariamas ar“, vietoj žodžių „tyčinį nusikaltimą“ įrašyti žodžius „tyčinę nusikalstamą veiką“, vietoj žodžių „kardomasis kalinimas (suėmimas)“ įrašyti žodį „suėmimas“ ir šį punktą išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „5. Šio straipsnio 1 dalies 5 punkte numatytais atvejais ginklai ir šaudmenys paimami iki ikiteisminio tyrimo ar baudžiamosios bylos nutraukimo arba kardomosios priemonės asmeniui panaikinimo įstatymų nustatyta tvarka. Šio straipsnio 1 dalies 6, 7 punktuose numatytais atvejais policijos įstaigos ginklus, šaudmenis paima, kol bus priimtas atitinkamas sprendimas dėl leidimo panaikinimo ar ginklo grąžinimo. Tais atvejais, kai ginklai, šaudmenys buvo paimti pasibaigus licencijos ar leidimo galiojimo laikui, tačiau jų galiojimo terminas teisės aktų nustatyta tvarka buvo pratęstas, ginklai ir šaudmenys grąžinami jų savininkui.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
 

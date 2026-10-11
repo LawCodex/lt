@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b9924f72afcf11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B9924F72AFCF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 7, 13, 20, 21, 31, 32, 35, 40, 45, 46, 47, 50, 52, 58, 58-2 ir 58-3 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 7-1 ir 49-1 straipsniais įstatymas
@@ -26,7 +26,7 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO NR. VIII-1212 2, 6, 7, 13, 20,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. Įstatymo papildymas 51 straipsniu
+## 2 straipsnis. Įstatymo papildymas 51 straipsniu
 
 Papildyti Įstatymą 5^1 straipsniu:
 
@@ -86,7 +86,7 @@ Papildyti Įstatymą 5^1 straipsniu:
 
 6. Jeigu šio straipsnio 1 ir (arba) 2 dalyse nurodytos valdymo įmonės valdomų visų pensijų fondų bendra turto vertė viršija 250 000 000 eurų, valdymo įmonė privalo turėti papildomą nuosavų lėšų sumą, kaip tai nurodyta Kolektyvinio investavimo subjektų įstatymo 5 straipsnio 6–8 dalyse.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -108,13 +108,13 @@ Papildyti Įstatymą 5^1 straipsniu:
 
 „3. Vykdydama šio straipsnio 1 dalies 15 punkte nustatytą pareigą, valdymo įmonė privalo:“.
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Garantijų rezervas investuojamas į diversifikuotą investicinių priemonių portfelį, kuriam taikomi šio įstatymo 45, 47 ir 49 straipsniuose nustatyti reikalavimai.“
 
-\#### 5 straipsnis. Įstatymo papildymas 71 straipsniu
+## 5 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1 straipsniu:
 
@@ -172,19 +172,19 @@ Papildyti Įstatymą 7^1 straipsniu:
 
 10. Profesinės civilinės atsakomybės draudimo sutartį ir joje nustatytų profesinės civilinės atsakomybės draudimo sąlygų atitiktį šiame straipsnyje nustatytiems reikalavimams valdymo įmonė peržiūri ir atitinkamai tikslina bent kartą per metus ir įvykus pokyčiams, turintiems poveikį sutartyje nustatytų profesinės civilinės atsakomybės draudimo sąlygų atitikčiai šiame straipsnyje nustatytiems reikalavimams.“
 
-\#### 6 straipsnis. 13 straipsnio pakeitimas
+## 6 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pensijų fondo lėšomis negali būti sudaromi sandoriai dėl perleidžiamųjų vertybinių popierių, pinigų rinkos priemonių ar kitų finansinių priemonių, nekilnojamojo turto, infrastruktūros ar į prekybą reguliuojamoje rinkoje neįtrauktų vertybinių popierių, kurių jis neturi, pardavimo.“
 
-\#### 7 straipsnis. 20 straipsnio pakeitimas
+## 7 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Likviduota valdymo įmonė gali būti išregistruota iš Juridinių asmenų registro informacinės sistemos tik baigus jos teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai valdymo įmonei arbatik baigus valdytų pensijų fondų pensijų turto padalijimą šio įstatymo 33 straipsnio 6 dalyje nustatyta tvarka.“
 
-\#### 8 straipsnis. 21 straipsnio pakeitimas
+## 8 straipsnis. 21 straipsnio pakeitimas
 
 1. Papildyti 21 straipsnio 3 dalį nauju 19 punktu:
 
@@ -192,25 +192,25 @@ Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip:
 
 2. Buvusį 21 straipsnio 3 dalies 19 punktą laikyti 20 punktu.
 
-\#### 9 straipsnis. 31 straipsnio pakeitimas
+## 9 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Jeigu dalyvis pereina į kitą tos pačios ar kitos valdymo įmonės valdomą pensijų fondą, jam priklausančios lėšos pervedamos į tą pensijų fondą, į kurį jis pereina šio straipsnio 2 dalyje nustatyta tvarka. Jeigu dalyvis pereina į kitą tos pačios ar kitos valdymo įmonės valdomą pensijų fondą, sudaroma nauja pensijų kaupimo sutartis. Jeigu pensijų fonde, į kurį pereinama, dalyvis jau turi galiojančią pensijų kaupimo sutartį, nauja sutartis gali būti nesudaroma. Lėšos, pervestos į pensijų fondą, į kurį pereina dalyvis, turi būti konvertuojamos šio įstatymo 34 straipsnyje nustatyta tvarka.“
 
-\#### 10 straipsnis. 32 straipsnio pakeitimas
+## 10 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Po jungimo veiksiančio pensijų fondo investicinių priemonių portfeliui *mutatis mutandis*taikomos šio įstatymo 50 straipsnio 2 dalyje įtvirtintos laikino investavimo taisyklių nesilaikymo nuostatos. Laikino investavimo taisyklių nesilaikymo terminas pradedamas skaičiuoti nuo pensijų fondų jungimo užbaigimo dienos.“
 
-\#### 11 straipsnis. 35 straipsnio pakeitimas
+## 11 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Dalyvis, kuriam nustatytas 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 55 procentų ar mažesnis darbingumo lygis; kuris iki 2005 m. liepos 1 d. pripažintas I arba II grupės invalidu), įgyja teisę į pensijų išmokas nuo dalyvumo (darbingumo) lygio nustatymo (invalidumo pripažinimo) dienos.“
 
-\#### 12 straipsnis. 40 straipsnio pakeitimas
+## 12 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -224,7 +224,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 2) Lietuvos Respublikoje įsteigta ar turinti registruotą buveinę ar padalinį licencijuota finansų maklerio įmonė, kuri turi teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti papildomas finansinių priemonių saugojimo ir administravimo klientų sąskaita paslaugas ir kurios tiek nuosavų lėšų suma, tiek pradinis kapitalas yra ne mažesni kaip 750 000 eurų.“
 
-\#### 13 straipsnis. 45 straipsnio pakeitimas
+## 13 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -276,7 +276,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 5. Pensijų turtą investuojant į nekilnojamąjį turtą, infrastruktūrą ar vertybinius popierius, kurie nėra įtraukti į prekybą reguliuojamoje rinkoje, mutatis mutandis taikomas Kolektyvinio investavimo subjektų įstatymo 138 straipsnis, 139 straipsnio 4 dalis, 140 straipsnio 2 dalis ir 142 straipsnio 2 dalis.“
 
-\#### 14 straipsnis. 46 straipsnio pakeitimas
+## 14 straipsnis. 46 straipsnio pakeitimas
 
 1. Pakeisti 46 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -286,7 +286,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 „5. Investicinių sprendimų vykdymo politikoje prie kiekvienos investicinių priemonių klasės turi būti nurodyti subjektai, kuriems gali būti perduodami vykdyti investiciniai sprendimai dėl atitinkamų investicinių priemonių. Valdymo įmonė gali perduoti vykdyti investicinius sprendimus tik laikydamasi visų šiame straipsnyje nustatytų reikalavimų.“
 
-\#### 15 straipsnis. 47 straipsnio pakeitimas
+## 15 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -320,7 +320,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 14. Bendra investicijų į išvestines finansines priemones, nekilnojamąjį turtą ir infrastruktūrą, vertybinius popierius, kurie nėra įtraukti į prekybą reguliuojamoje rinkoje, ir investicijų alternatyviose turto klasių rinkose suma negali būti didesnė kaip 40 procentų pensijų fondo grynųjų aktyvų.“
 
-\#### 16 straipsnis. Įstatymo papildymas 491 straipsniu
+## 16 straipsnis. Įstatymo papildymas 491 straipsniu
 
 Papildyti Įstatymą 49^1 straipsniu:
 
@@ -350,7 +350,7 @@ Papildyti Įstatymą 49^1 straipsniu:
 
 5. Kai pensijų turtas investuojamas į išvestines finansines priemones tik rizikai valdyti, šio straipsnio 2–4 dalys netaikomos, tačiau kiekviena išvestinė finansinė priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris ir jo rizikai valdyti naudojama išvestinė finansinė priemonė turi būti nurodyti valdymo įmonės periodinėse ataskaitose.“
 
-\#### 17 straipsnis. 50 straipsnio pakeitimas
+## 17 straipsnis. 50 straipsnio pakeitimas
 
 1. Pakeisti 50 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -360,19 +360,19 @@ Papildyti Įstatymą 49^1 straipsniu:
 
 „4. Šio straipsnio 1 dalyje nustatyto termino, per kurį turi būti pašalintas neatitikimas, atsiradęs dėl priežasčių, nepriklausančių nuo valdymo įmonės, gali būti nesilaikoma, kai investuojama į nekilnojamąjį turtą ir (ar) infrastruktūrą, taip pat kai yra visos šios sąlygos:“.
 
-\#### 18 straipsnis. 52 straipsnio pakeitimas
+## 18 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Valdymo įmonė turi užtikrinti, kad dalyviui jo pageidavimu būtų visada prieinamos periodinės ataskaitos, pensijų fondo taisyklės (jo prašymu valdymo įmonė turi padaryti ataskaitų ir taisyklių kopijas, o mokestis už jas negali viršyti pagaminimo sąnaudų), taip pat suteikta teisinga ir išsami informacija apie dalyvio asmeninėje pensijų sąskaitoje sukaupto turto dydį ir įmokų mokėjimą, valdymo įmonės ir pensijų fondo auditoriaus išvadas, investavimo galimybių pasirinkimą, dabartinį investicinių priemonių portfelį, su investicijomis susijusias rizikas ir išlaidas bei kitą šio straipsnio 1 dalyje nurodytą informaciją.“
 
-\#### 19 straipsnis. 58 straipsnio pakeitimas
+## 19 straipsnis. 58 straipsnio pakeitimas
 
 Pakeisti 58 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) apriboti teisę pensijų fondo sąskaita sudaryti sandorius dėl investicinių priemonių įsigijimo;“.
 
-\#### 20 straipsnis. 582 straipsnio pakeitimas
+## 20 straipsnis. 582 straipsnio pakeitimas
 
 1. Papildyti 582 straipsnio 1 dalį nauju 10 punktu:
 
@@ -380,13 +380,13 @@ Pakeisti 58 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 2. Buvusį 582 straipsnio 1 dalies 10 punktą laikyti 11 punktu.
 
-\#### 21 straipsnis. 583 straipsnio pakeitimas
+## 21 straipsnis. 583 straipsnio pakeitimas
 
 Pakeisti 58^3 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama valdymo įmonei ar investicinei bendrovei ir Juridinių asmenų registro duomenų tvarkytojui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.“
 
-\#### 22 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 22 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 1 straipsnio 6 ir 9 dalis, 3 straipsnio 4 dalį, 5 straipsnį ir šio straipsnio 4 dalį, įsigalioja 2026 m. sausio 1 d.
 

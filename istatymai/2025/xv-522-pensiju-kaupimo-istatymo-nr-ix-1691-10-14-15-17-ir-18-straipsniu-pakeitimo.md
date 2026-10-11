@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/88e834f2ca0211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88E834F2CA02.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 10, 14, 15, 17 ir 18 straipsnių pakeitimo įstatymas
@@ -26,31 +26,31 @@ PENSIJŲ KAUPIMO ĮSTATYMO NR. IX-1691 10, 14, 15, 17 IR 18 STRAIPSNIŲ PAKEITIM
 
 Vilnius
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Jeigu pensijų kaupimo bendrovė ketina perduoti pensijų fondo valdymą kitai pensijų kaupimo bendrovei, pensijų fondas panaikinamas dėl pensijų kaupimo bendrovės bankroto ar likvidavimo arba pensijų fondai jungiami, perduodamo arba panaikinamo pensijų fondo arba jungime dalyvaujančių pensijų fondų dalyviai per pensijų kaupimo bendrovės nustatytą terminą, kuris negali būti trumpesnis kaip 3 mėnesiai nuo informacijos apie atitinkamą sprendimą išsiuntimo dalyviams dienos, turi teisę pereiti į kitą jų pasirinktą pensijų fondą nedarant jokių atskaitymų. Jeigu per šioje dalyje nurodytą laikotarpį dalyviai nepereina į kitą pensijų kaupimo bendrovę, priežiūros institucijos nustatyta tvarka tokie dalyviai ir jiems priklausantis pensijų turtas perkeliami į kitos pensijų kaupimo bendrovės valdomą jų amžių atitinkantį tikslinės grupės pensijų fondą nedarant jokių atskaitymų. Šioje dalyje nurodytą informaciją apie atitinkamą sprendimą pensijų kaupimo bendrovė privalo skelbti ir savo interneto svetainėje.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pensijų kaupime dalyvaujančių jaunesnių negu 22 metų asmenų tikslinės grupės pensijų fondu laikomas jauniausiai tikslinei pensijų fondų dalyvių grupei skirtas tikslinės grupės pensijų fondas. Pensijų kaupimo bendrovei įsteigus tokių dalyvių amžių atitinkantį tikslinės grupės pensijų fondą, dalyviai kartu su jiems priklausančiu pensijų turtu perkeliami į jų amžių atitinkantį tikslinės grupės pensijų fondą ne vėliau kaippenktą darbo dieną nuo atitinkamo tikslinės grupės pensijų fondo veiklos pradžios dienos nedarant jokių atskaitymų iš pensijų turto. Pensijų kaupimo bendrovė ne vėliau kaip per 5 darbo dienas nuo dalyvio perkėlimo į jo amžių atitinkantį tikslinės grupės pensijų fondą dienos privalo apie tai pranešti dalyviui priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse nustatytu būdu.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Tikslinės grupės pensijų fondas veikia tol, kol visi dalyviai, kuriems yra skirtas šis tikslinės grupės pensijų fondas, sukanka senatvės pensijos amžių ir visi tikslinės grupės pensijų fondo dalyviai kartu su jiems priklausančiu pensijų turtu perkeliami į turto išsaugojimo pensijų fondą. Turto išsaugojimo pensijų fondo veiklos trukmė yra neribota.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Turto išsaugojimo pensijų fondo investicijų portfelis sudaromas ir valdomas siekiant apsaugoti sukauptą pensijų turtą nuo infliacijos rizikos, kartu kiek įmanoma labiau ribojant dalyviui tenkančią investavimo riziką.“
 
-\#### 5 straipsnis. 18 straipsnio pakeitimas
+## 5 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 7. Priežiūros institucija nustato tikslinės grupės pensijų fondų likvidavimo tvarką.“
 
-\#### 6 straipsnis. Įstatymo taikymas
+## 6 straipsnis. Įstatymo taikymas
 
 Šio įstatymo 3 straipsnyje išdėstytos Lietuvos Respublikos pensijų kaupimo įstatymo 15 straipsnio 4 dalies ir šio įstatymo 5 straipsnyje išdėstytos Pensijų kaupimo įstatymo 18 straipsnio nuostatos taikomos tikslinės grupės pensijų fondams, neatsižvelgiant į jų steigimo datą.
 

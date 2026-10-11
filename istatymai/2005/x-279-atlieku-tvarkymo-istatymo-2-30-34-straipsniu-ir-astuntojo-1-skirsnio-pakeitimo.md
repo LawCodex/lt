@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9C4D507335E2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9C4D507335E2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 30, 34 straipsnių ir aštuntojo-1 skirsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1726](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1); 2002, Nr. [72-3016](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5E88FF9E5A); 2004, Nr. [73-2544](https://www.e-tar.lt/portal/lt/legalAct/TAR.01BB1CB0D2CF))
 
-\#### 1 straipsnis. 2 straipsnio 2 ir 17 dalių pakeitimas bei straipsnio papildymas 31, 32 ir 33 dalimis
+## 1 straipsnis. 2 straipsnio 2 ir 17 dalių pakeitimas bei straipsnio papildymas 31, 32 ir 33 dalimis
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „33. **Elektros ir elektroninės įrangos atliekos** – elektros arba elektroninė įranga, kuri pagal šio Įstatymo 2 straipsnio 4 dalį yra atliekos, įskaitant visas jos sudedamąsias dalis.“
 
-\#### 2 straipsnis. 30 straipsnio 3, 5 dalių pakeitimas ir straipsnio papildymas 6, 7 ir 8 dalimis
+## 2 straipsnis. 30 straipsnio 3, 5 dalių pakeitimas ir straipsnio papildymas 6, 7 ir 8 dalimis
 
 1. Pakeisti 30 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Vilnius
 
 „8. Fiziniai ir juridiniai asmenys buityje susidarančias elektros ir elektroninės įrangos atliekas privalo atskirti nuo komunalinių atliekų ir rūšiuoti.“
 
-\#### 3 straipsnis. 34 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 3 straipsnis. 34 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 Pakeisti 34 straipsnio 2, 3 ir 4 dalis ir visą straipsnį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 34 straipsnio 2, 3 ir 4 dalis ir visą straipsnį išdėstyti taip:
 
 3) Tarybą, kuri yra patariamasis organas, sudaro Vyriausybės institucijų, mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokėtojų ar jiems atstovaujančių organizacijų, apmokestinamųjų gaminių ir pakuotės atliekų tvarkytojų ar jiems atstovaujančių organizacijų, pakuočių gamintojų ar jiems atstovaujančių organizacijų bei Lietuvos savivaldybių asociacijos atstovai. Tarybos sudėtį tvirtina Vyriausybė ar jos įgaliota institucija.“
 
-\#### 4 straipsnis. Aštuntojo1 skirsnio pakeitimas ir papildymas
+## 4 straipsnis. Aštuntojo1 skirsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti aštuntąjį^1 skirsnį ir jį išdėstyti taip:
 
@@ -124,7 +124,7 @@ Pakeisti ir papildyti aštuntąjį^1 skirsnį ir jį išdėstyti taip:
 
 GAMINTOJŲ, IMPORTUOTOJŲ IR PLATINTOJŲ TEISĖS IR PAREIGOS
 
-\#### 341 straipsnis. Gamintojų ir importuotojų teisės ir pareigos
+## 341 straipsnis. Gamintojų ir importuotojų teisės ir pareigos
 
 1. Gamintojai ir importuotojai turi teisę:
 
@@ -152,7 +152,7 @@ GAMINTOJŲ, IMPORTUOTOJŲ IR PLATINTOJŲ TEISĖS IR PAREIGOS
 
 2) eksploatuoti netinkamoje transporto priemonėje yra palikta papildomų pavojingų arba kitų atliekų. Papildomai paliktomis atliekomis nelaikomos natūraliai transporto priemonėje esančios atliekos.
 
-\#### 342 straipsnis. Gamintojų ir importuotojų registravimas
+## 342 straipsnis. Gamintojų ir importuotojų registravimas
 
 1. Gamintojai ir importuotojai turi registruotis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
@@ -166,7 +166,7 @@ GAMINTOJŲ, IMPORTUOTOJŲ IR PLATINTOJŲ TEISĖS IR PAREIGOS
 
 3. Elektros ir elektroninės įrangos gamintojai ir importuotojai, be šio straipsnio 2 dalyje nustatytos informacijos, pateikia vieną iš šio Įstatymo 346 straipsnio 3 dalyje nurodytų dokumentų, įrodančių, kad visų jų elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas.
 
-\#### 343 straipsnis. Gamintojų ir importuotojų organizacijos
+## 343 straipsnis. Gamintojų ir importuotojų organizacijos
 
 1. Gamintojų ir importuotojų organizacija (toliau šiame straipsnyje – Organizacija) yra viešasis juridinis asmuo, kurio pelnas gali būti naudojamas tik Organizacijos tikslams siekti ir negali būti paskirstomas ar kitokia forma perduodamas Organizacijos steigėjams ar nariams. Organizacija steigiama vadovaujantis Asociacijų įstatymo ar kitų įstatymų nustatyta tvarka ir į ją gali stoti nauji nariai.
 
@@ -188,7 +188,7 @@ GAMINTOJŲ, IMPORTUOTOJŲ IR PLATINTOJŲ TEISĖS IR PAREIGOS
 
 7. Kiekvienais metais Organizacija pateikia ataskaitą apie praėjusių metų atliekų tvarkymo veiklos organizavimo plano vykdymą visuomenei susipažinti ir Vyriausybės įgaliotai institucijai šios institucijos nustatyta tvarka.
 
-\#### 344 straipsnis. Elektros ir elektroninės įrangos platintojų pareigos ir teisės
+## 344 straipsnis. Elektros ir elektroninės įrangos platintojų pareigos ir teisės
 
 1. Elektros ir elektroninės įrangos platintojams (toliau šiame straipsnyje – platintojai) draudžiama platinti elektros ir elektroninę įrangą, kurios gamintojas ir (ar) importuotojas nėra įsiregistravęs šio Įstatymo 342 straipsnyje nustatyta tvarka, taip pat kurio elektros ir elektroninė įranga nėra paženklinta šio Įstatymo 345 straipsnyje nustatyta tvarka.
 
@@ -202,11 +202,11 @@ GAMINTOJŲ, IMPORTUOTOJŲ IR PLATINTOJŲ TEISĖS IR PAREIGOS
 
 6. Šio straipsnio reikalavimai taip pat taikomi platintojams, kurie į Lietuvos rinką tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje.
 
-\#### 345 straipsnis. Elektros ir elektroninės įrangos ženklinimas
+## 345 straipsnis. Elektros ir elektroninės įrangos ženklinimas
 
 Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka standartiniu ženklu ženklinti po 2005 m. rugpjūčio 13 d. į Lietuvos rinką išleidžiamą elektros ir elektroninę įrangą. Ženklinimas privalo būti toks, kad po išleidimo į Lietuvos rinką būtų galima vienareikšmiškai identifikuoti elektros ir elektroninės įrangos gamintoją ir (ar) importuotoją bei išleidimo į Lietuvos rinką datą ir kad vartotojai būtų informuoti apie būtinybę atskirai surinkti elektros ir elektroninės įrangos atliekas. Jei dėl elektros ir elektroninės įrangos dydžio ar kitų specifinių savybių ant minėtos įrangos to padaryti praktiškai neįmanoma, toks ženklinimas privalo būti įrangos naudojimosi instrukcijoje ir garantijos pažymėjime.
 
-\#### 346 straipsnis. Buityje susidarančių elektros ir elektroninės įrangos atliekų surinkimas ir tvarkymas
+## 346 straipsnis. Buityje susidarančių elektros ir elektroninės įrangos atliekų surinkimas ir tvarkymas
 
 1. Elektros ir elektroninės įrangos gamintojai ir importuotojai turi užtikrinti savo organizuojamose elektros ir elektroninės įrangos atliekų tvarkymo sistemose, savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ar (ir) pas platintojus surinktų buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą taip:
 
@@ -240,7 +240,7 @@ Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo Vyriausyb
 
 5. Banko garantijos, laidavimo sutarties bei kitų sutarčių, nurodytų šio straipsnio 3 ir 4 dalyse, sudarymo ir vykdymo tvarką, lėšų, gautų pagal šias sutartis, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
-\#### 347 straipsnis. Ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymas
+## 347 straipsnis. Ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymas
 
 1. Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo užtikrinti ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą taip:
 
@@ -252,7 +252,7 @@ Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo Vyriausyb
 
 3. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buityje susidarančių istorinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio 1 ir 2 dalyse. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 4 straipsnis, išskyrus šiuo straipsniu keičiamo 34^1 straipsnio 1 dalį, 2 dalies 2 ir 3 punktus ir 4 dalį, 34^5 straipsnį, kuris įsigalioja nuo 2005 m. rugpjūčio 13 d., įsigalioja nuo 2006 m. sausio 1 d.
 

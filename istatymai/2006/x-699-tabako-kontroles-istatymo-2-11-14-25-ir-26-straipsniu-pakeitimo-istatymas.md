@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4EC890A40CDB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EC890A40CDB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 2, 11, 14, 25 ir 26 straipsnių pakeitimo įstatymas
@@ -28,25 +28,25 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 2003, Nr. [117-5317](https://www.e-tar.lt/portal/lt/legalAct/TAR.084B9677FCAF); 2005, Nr. [142-5105](https://www.e-tar.lt/portal/lt/legalAct/TAR.4DCF5210CEB9))
 
-\#### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
 
 Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip:
 
 „12. **Importas** – tabako ir (ar) tabako gaminių įvežimas į Lietuvos Respubliką iš kitų valstybių, išskyrus valstybes – Europos ekonominės erdvės susitarimo šalis (Europos Sąjungos valstybes nares ir Europos laisvosios prekybos asociacijos (ELPA) valstybes) (toliau – Europos ekonominės erdvės valstybės) ir Turkiją.“
 
-\#### 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Įmonėms, kurių steigėjai ar administracijos vadovai buvo įmonių, kurioms buvo panaikintas licencijos galiojimas pagal šio Įstatymo 26 straipsnio 5 dalį, steigėjai, administracijos vadovai ar kiti darbuotojai (jeigu jie veikė įmonės vardu ar dėl jos interesų), licencijos verstis šio Įstatymo 10 straipsnio 1 dalyje nurodytų rūšių veikla neišduodamos.“
 
-\#### 3 straipsnis. 14 straipsnio 3 dalies 7 punkto pakeitimas
+## 3 straipsnis. 14 straipsnio 3 dalies 7 punkto pakeitimas
 
 Pakeisti 14 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) jeigu tabako gaminių atitiktis teisės aktuose nustatytiems reikalavimams nepatvirtinta šio įstatymo 5 straipsnyje nurodytais dokumentais ir tvarka.“
 
-\#### 4 straipsnis. 25 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 25 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 14 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 
 „2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais arba kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis atitinkamai Lietuvos Respublikos administracinių teisės pažeidimų kodeksu ar Lietuvos Respublikos baudžiamuoju kodeksu.“
 
-\#### 5 straipsnis. 26 straipsnio 3, 6, 7, 8, 11, 14 ir 16 dalių pakeitimas
+## 5 straipsnis. 26 straipsnio 3, 6, 7, 8, 11, 14 ir 16 dalių pakeitimas
 
 1. 26 straipsnio 3 dalyje po žodžių „tabako pardavimo reikalavimų pažeidimą“ įrašyti žodžius ir skaičius „už šio Įstatymo 14 straipsnio 3 dalies 6 ar 7 punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą“, antrame sakinyje išbraukti žodžius „ir panaikinamas licencijos galiojimas“ ir šią dalį išdėstyti taip:
 

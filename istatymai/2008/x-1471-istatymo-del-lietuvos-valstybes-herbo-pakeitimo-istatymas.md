@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.588BE2CF896C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.588BE2CF896C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės herbo" pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1990, Nr. [17-439](https://www.e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3); 1991, Nr. [26-681](https://www.e-tar.lt/portal/lt/legalAct/TAR.D62CC8FB6EF1); 1996, Nr. [33-805](https://www.e-tar.lt/portal/lt/legalAct/TAR.E25F67BE8987); 1997, Nr. [65-1536](https://www.e-tar.lt/portal/lt/legalAct/TAR.D41105F980F2); 1998, Nr. [61-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.28D7FB3AD818); 2003, Nr. [52-2314](https://www.e-tar.lt/portal/lt/legalAct/TAR.859D858A2ABC))
 
-\#### 1 straipsnis. Lietuvos Respublikos įstatymo „Dėl Lietuvos valstybės herbo“ nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos įstatymo „Dėl Lietuvos valstybės herbo“ nauja redakcija
 
 Pakeisti Lietuvos Respublikos įstatymą „Dėl Lietuvos valstybės herbo“ ir jį išdėstyti taip:
 
@@ -32,15 +32,15 @@ Pakeisti Lietuvos Respublikos įstatymą „Dėl Lietuvos valstybės herbo“ ir
 
 VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato Lietuvos valstybės herbo ir nacionalinių simbolių aprašymą, taip pat jų ir kitų herbų bei herbinių ženklų kūrimo ir oficialaus naudojimo Lietuvos Respublikoje tvarką.
 
 2. Šis įstatymas netaikomas privačių juridinių ir fizinių asmenų herbinių ženklų ir simbolikos sričiai.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Lietuvos valstybės herbas – Lietuvos Respublikos Konstitucijoje įtvirtintas ir šiame įstatyme aprašytas oficialus valstybės simbolis, kurį gali naudoti šiame ir kituose įstatymuose nustatyti subjektai.
 
@@ -58,7 +58,7 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 8. Herbo etalonas – (toliau – etalonas) teisės aktų nustatyta tvarka sukurtas ir patvirtintas nekintamas herbo pavyzdys, kurio pagrindu gaminamos herbų kopijos, kuriami kitų heraldikos objektų projektai.
 
-\#### 3 straipsnis. Herbų, herbinių vėliavų, herbinių ženklų ir herbinių antspaudų kūrimo ir naudojimo principai
+## 3 straipsnis. Herbų, herbinių vėliavų, herbinių ženklų ir herbinių antspaudų kūrimo ir naudojimo principai
 
 1. Lietuvos Respublikos piliečiai, kiti asmenys privalo gerbti herbus, herbines vėliavas, herbinius ženklus, herbinius antspaudus.
 
@@ -72,9 +72,9 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 6. Teisėjo ir prokuroro herbinių ženklų naudojimo tvarką nustato šis ir kiti įstatymai.
 
-\### ANTRASIS SKIRSNIS. LIETUVOS VALSTYBĖS HERBAS IR NACIONALINIAI SIMBOLIAI
+ANTRASIS SKIRSNIS. LIETUVOS VALSTYBĖS HERBAS IR NACIONALINIAI SIMBOLIAI
 
-\#### 4 straipsnis. Lietuvos valstybės herbas ir jo aprašymas
+## 4 straipsnis. Lietuvos valstybės herbas ir jo aprašymas
 
 1. Lietuvos valstybės herbas yra Vytis: herbinio skydo raudoname lauke vaizduojamas baltas (sidabrinis) šarvuotas raitelis ant balto (sidabrinio) žirgo, laikantis dešinėje rankoje virš galvos iškeltą baltą (sidabrinį) kalaviją. Prie raitelio kairiojo peties kabo mėlynas skydas su dvigubu geltonu (auksiniu) kryžiumi. Žirgo balnas, gūnia, kamanos ir diržai mėlyni. Kalavijo rankena, kamanų žąslai, balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys pateiktas šio įstatymo 1 priede.
 
@@ -86,7 +86,7 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 5. Lietuvos valstybės herbas herbiniuose antspauduose, dokumentų blankuose, uniformų skiriamuosiuose ženkluose turi atitikti šio įstatymo 2 priede pateiktus Lietuvos valstybės herbo etalono adaptuotus pavyzdžius (piešinius).
 
-\#### 5 straipsnis. Lietuvos valstybės herbo naudojimas
+## 5 straipsnis. Lietuvos valstybės herbo naudojimas
 
 1. Lietuvos valstybės herbą dokumentų blankuose, herbiniuose antspauduose, antraštiniuose puslapiuose, institucijų ir įstaigų leidiniuose bei iškabose naudoja:
 
@@ -172,7 +172,7 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 6. Antspaudų su Lietuvos valstybės herbu apyvartos kontrolę nustato įstatymas.
 
-\#### 6 straipsnis. Lietuvos nacionaliniai simboliai
+## 6 straipsnis. Lietuvos nacionaliniai simboliai
 
 1. Lietuvos istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos Prezidentas.
 
@@ -182,15 +182,15 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 4. Šio straipsnio 1 dalyje nurodytų simbolių etalonus saugo Lietuvos heraldikos komisija. Kitos valstybės ir savivaldybių institucijos ir įstaigos šiuos simbolius gali naudoti tik suderinusios jų projektus su Lietuvos heraldikos komisija.
 
-\### TREČIASIS SKIRSNIS. KITI HERBAI IR HERBINIAI ŽENKLAI
+TREČIASIS SKIRSNIS. KITI HERBAI IR HERBINIAI ŽENKLAI
 
-\#### 7 straipsnis. Apskrities herbas
+## 7 straipsnis. Apskrities herbas
 
 1. Apskrities herbą apskrities viršininkas ir jo įsteigtos įstaigos naudoja reprezentacinėms reikmėms, taip pat organizuojant apskrities renginius.
 
 2. Kiti asmenys gali naudoti apskrities herbą tik turėdami apskrities viršininko sutikimą, išskyrus atvejus, kai apskrities herbas ar jo atvaizdas naudojami leidybos, mokslo ir visuomenės informavimo srityse.
 
-\#### 8 straipsnis. Savivaldybės, miesto, miestelio ir kaimo herbas
+## 8 straipsnis. Savivaldybės, miesto, miestelio ir kaimo herbas
 
 1. Savivaldybės herbą savivaldybės tarybos nustatyta tvarka naudoja savivaldybės institucijos, įstaigos, savivaldybių administracijos padaliniai ir valstybės tarnautojai bei darbuotojai.
 
@@ -206,9 +206,9 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 7. Antspaudų su savivaldybės herbu apyvartos kontrolę nustato įstatymas.
 
-\### KETVIRTASIS SKIRSNIS. HERBŲ IR HERBINIŲ ŽENKLŲ ETALONAI IR PROJEKTAI
+KETVIRTASIS SKIRSNIS. HERBŲ IR HERBINIŲ ŽENKLŲ ETALONAI IR PROJEKTAI
 
-\#### 9 straipsnis. Herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų etalonai ir projektai
+## 9 straipsnis. Herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų etalonai ir projektai
 
 1. Šio įstatymo ir kitų teisės aktų nustatyta tvarka patvirtinti herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs dokumentai, patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų tapatumą jų etalonams ir projektams. Jų pagrindu gaminami atitinkami herbai, herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
 
@@ -216,7 +216,7 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 3. Teisėjo ir prokuroro herbinių ženklų etalonai ir projektai saugomi Lietuvos heraldikos komisijoje.
 
-\#### 10 straipsnis. Etalonų ir projektų tvirtinimas ir derinimas
+## 10 straipsnis. Etalonų ir projektų tvirtinimas ir derinimas
 
 1. Apskričių, savivaldybių, miestų, miestelių ir kaimų herbų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos Prezidentas.
 
@@ -232,15 +232,15 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 7. Valstybės ir savivaldybių institucijos, įstaigos ar kiti subjektai, savo uniformų skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius simbolius, kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus, numatytus įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės aktuose, derina jų projektus su Lietuvos heraldikos komisija.
 
-\#### 11 straipsnis. Patvirtintų etalonų patikslinimas arba pakeitimas
+## 11 straipsnis. Patvirtintų etalonų patikslinimas arba pakeitimas
 
 1. Patikslinti arba pakeisti patvirtinto herbo etalono figūrą ar spalvas galima tik turint Lietuvos heraldikos komisijos ir etaloną patvirtinusios institucijos pritarimą dėl tokio keitimo tikslingumo (nauja ikonografinė medžiaga, herbo keitimo pagrįstumą patvirtinantys istorijos šaltiniai).
 
 2. Patikslintas arba pakeistas etalonas ir jo pagrindu parengti projektai tvirtinami šio įstatymo ir kitų teisės aktų nustatyta tvarka.
 
-\### PENKTASIS SKIRSNIS. LIETUVOS HERALDIKOS KOMISIJA
+PENKTASIS SKIRSNIS. LIETUVOS HERALDIKOS KOMISIJA
 
-\#### 12 straipsnis. Lietuvos heraldikos komisija
+## 12 straipsnis. Lietuvos heraldikos komisija
 
 1. Lietuvos heraldikos komisija (toliau – Komisija) yra Respublikos Prezidento sudaryta ir jam atskaitinga valstybės institucija.
 
@@ -248,7 +248,7 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 3. Kalendoriniams metams pasibaigus, Komisija per du mėnesius parengia savo veiklos metų ataskaitą, ją pateikia Respublikos Prezidentui ir viešai paskelbia.
 
-\#### 13 straipsnis. Komisijos sudarymas
+## 13 straipsnis. Komisijos sudarymas
 
 1. Komisiją sudaro devyni nariai. Jos pirmininką ir pavaduotoją šešeriems metams ir kitus narius penkeriems metams skiria Respublikos Prezidentas. Komisijos narių kadencijų skaičius neribojamas.
 
@@ -270,7 +270,7 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 5. Komisijos nariams už darbą mokama įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-\#### 14 straipsnis. Komisijos funkcijos, uždaviniai ir teisės
+## 14 straipsnis. Komisijos funkcijos, uždaviniai ir teisės
 
 1. Komisija:
 
@@ -314,9 +314,9 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 4. Komisijos veiklą užtikrina Respublikos Prezidento kanceliarija.
 
-\### ŠEŠTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+ŠEŠTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 15 straipsnis. Įstatymo įgyvendinimo priežiūra
+## 15 straipsnis. Įstatymo įgyvendinimo priežiūra
 
 1. Šio įstatymo įgyvendinimą prižiūri Komisija, savivaldybėse – savivaldybės administracijos direktorius ar jo įgalioti asmenys, krašto apsaugos ir vidaus reikalų sistemų savarankiškuose kariniuose daliniuose ir padaliniuose – atitinkamai krašto apsaugos ministras ar vidaus reikalų ministras arba jų įgalioti asmenys.
 
@@ -334,17 +334,17 @@ VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMAS
 
 3. Herbų gamybą kontroliuoja Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo įstatymu ir kitais norminiais teisės aktais.
 
-\#### 16 straipsnis. Atsakomybė
+## 16 straipsnis. Atsakomybė
 
 1. Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
 2. Lietuvos valstybės herbo išniekinimas baudžiamas įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos Vyriausybė, jos įgaliotos ir kitos valstybės institucijos priima šiam įstatymui įgyvendinti būtinus teisės aktus.
 
-\#### 3 straipsnis. Įstatymų ir kitų teisės aktų pripažinimas netekusiais galios
+## 3 straipsnis. Įstatymų ir kitų teisės aktų pripažinimas netekusiais galios
 
 Įsigaliojus šiam įstatymui, netenka galios:
 

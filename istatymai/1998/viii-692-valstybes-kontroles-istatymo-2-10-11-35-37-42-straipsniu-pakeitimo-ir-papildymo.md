@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.475097468520"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.475097468520.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 2, 10, 11, 35, 37, 42 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1995, Nr. [51-1243](https://www.e-tar.lt/portal/lt/legalAct/TAR.61BB05227699); 1997, Nr. [99-2504](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D0304757148))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 Iš 2 straipsnio 1 dalies išbraukti žodžius „kuri prižiūri, ar teisėtai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas“ ir šią dalį išdėstyti taip:
 
 „Lietuvos Respublikos valstybės kontrolė (toliau – Valstybės kontrolė) yra Lietuvos Respublikos Seimui atskaitinga aukščiausioji ekonominės finansinės kontrolės valstybės institucija.“
 
-\#### 2 straipsnis. 10 straipsnio papildymas nauja 1 dalimi, 2 dalies 14 punkto pakeitimas ir papildymas
+## 2 straipsnis. 10 straipsnio papildymas nauja 1 dalimi, 2 dalies 14 punkto pakeitimas ir papildymas
 
 1. 10 straipsnį papildyti nauja 1 dalimi:
 
@@ -46,7 +46,7 @@ Iš 2 straipsnio 1 dalies išbraukti žodžius „kuri prižiūri, ar teisėtai 
 
 „14) Lietuvos Respublikos žemės fondo ir kitų gamtos išteklių naudojimo teisėtumą ir apskaitą, taip pat valstybės žemės vertės nustatymą;“.
 
-\#### 3 straipsnis. 11 straipsnio pakeitimas
+## 3 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 Valstybės kontrolė, vykdydama savo funkcijas, gali įvertinti tikrinamų valstybės ir savivaldybių institucijų bei ūkio subjektų veiklą taupumo, rezultatyvumo ir efektyvumo požiūriu.“
 
-\#### 4 straipsnis. 35 straipsnio 8, 9 punktų pakeitimas ir papildymas 16 punktu
+## 4 straipsnis. 35 straipsnio 8, 9 punktų pakeitimas ir papildymas 16 punktu
 
 8 punkte išbraukti žodžius „valstybės ir savivaldybių institucijų bei“, „valstybei nesumokėtus mokesčius ir“, vietoj žodžių „ar valstybinius“ įrašyti žodį „bei“, po žodžio „skirtus“ įrašyti žodį „gautus“, 9 punkte išbraukti žodžius „valstybės ir savivaldybių institucijų bei“, „mokesčius ir“, vietoj žodžių „ar valstybinius“ įrašyti žodį „bei“, po žodžio „skirtus“ įrašyti žodį „gautus“, vietoj žodžio „nesumokėtus“ įrašyti žodį „nesumokėtas“, straipsnį papildyti nauju 16 punktu ir šiuos punktus išdėstyti taip:
 
@@ -64,13 +64,13 @@ Valstybės kontrolė, vykdydama savo funkcijas, gali įvertinti tikrinamų valst
 
 „16) įpareigoti mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka išieškoti Valstybės kontrolės tikrinimų metu nustatytus mokesčių mokėtojų nesumokėtus mokesčius ir ekonomines sankcijas.“
 
-\#### 5 straipsnis. 37 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 37 straipsnio 2 dalies pakeitimas
 
 Pakeisti 37 straipsnio 2 dalies pirmąjį sakinį ir šią dalį išdėstyti taip:
 
 „Valstybės kontrolieriaus ar jo pavaduotojų sprendimai gali būti apskųsti teismui per 10 dienų nuo jų gavimo dienos. Kreipimasis į teismą nesustabdo valstybės kontrolieriaus ar jo pavaduotojų sprendimų vykdymo, jei teismas nenusprendžia kitaip.“
 
-\#### 6 straipsnis. 42 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 42 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 42 straipsnį ir jį išdėstyti taip:
 

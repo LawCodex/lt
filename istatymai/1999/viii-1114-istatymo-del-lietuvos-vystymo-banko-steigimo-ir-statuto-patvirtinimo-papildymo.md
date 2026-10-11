@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8411277FF14C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8411277FF14C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo" papildymo ir jo priedėlio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1993, Nr. [74-1379](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA670BE7B80D); 1997, Nr. [66-1615](https://www.e-tar.lt/portal/lt/legalAct/TAR.AF1EE3C547A8))
 
-\#### 1 straipsnis. Įstatymo papildymas 4 dalimi
+## 1 straipsnis. Įstatymo papildymas 4 dalimi
 
 Papildyti Įstatymą 4 dalimi:
 
 „4. Nustatyti, kad Lietuvos vystymo bankas pradeda veikti pagal Lietuvos Respublikos komercinių bankų įstatymą kaip komercinis bankas parengus Lietuvos vystymo banko statuto naują redakciją pagal Lietuvos Respublikos komercinių bankų įstatymą, statutą įregistravus Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka ir pakeitus banko licenciją. Šio įstatymo patvirtintu statutu Lietuvos vystymo bankas vadovaujasi iki naujos redakcijos statuto, parengto pagal Lietuvos Respublikos komercinių bankų įstatymą, įregistravimo Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka ir banko licencijos pakeitimo.“
 
-\#### 2 straipsnis. Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 1 straipsnio 1 ir 3 dalių pakeitimas
+## 2 straipsnis. Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 1 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Įstatymo priedėlio 1 straipsnio 1 dalyje vietoj žodžių „Lietuvos vystymo bankas yra akcinis investicijų bankas, steigiamas“ įrašyti žodžius „UAB Lietuvos vystymo bankas (toliau – Lietuvos vystymo bankas) yra akcinio kapitalo pagrindu veikianti įmonė, steigiama“ ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ lietuviškai – **UAB** Lietuvos vystymo bankas (sutrumpintai – LVB),
 
 angliškai – **CSC** Lithuanian Development Bank (sutrumpintai – LDB).“
 
-\#### 3 straipsnis. Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 8 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. Įstatymo priedėlio „Lietuvos vystymo banko statutas“ 8 straipsnio 1 dalies pakeitimas
 
 Įstatymo priedėlio 8 straipsnio 1 dalyje vietoj žodžių „ekiu“ įrašyti žodžius „eurų“ ir šią dalį išdėstyti taip:
 

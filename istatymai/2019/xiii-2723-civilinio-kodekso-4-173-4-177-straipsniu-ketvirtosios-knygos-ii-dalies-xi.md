@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/869e0f202e2311eabe008ea93139d588"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.869E0F202E23.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 4.173, 4.177 straipsnių, ketvirtosios knygos II dalies XI skyriaus antrojo skirsnio, 4.184, 4.189 straipsnių, ketvirtosios knygos II dalies XI skyriaus ketvirtojo ir penktojo skirsnių, 4.207, 4.209, 4.210, 4.212, 4.213, 4.223, 4.224, 4.225, 6.104, 6.561 straipsnių pakeitimo įstatymas

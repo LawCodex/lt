@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F745A1030FB0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F745A1030FB0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 3, 6 ir 10 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1997, Nr. [23-542](https://www.e-tar.lt/portal/lt/legalAct/TAR.1BCF61ADEE2A))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 3 straipsnio 2 dalyje vietoj žodžių „iki kovo 1 dienos“ įrašyti žodžius „iki gegužės 1 dienos“ ir šią dalį išdėstyti taip:
 
 „2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius kalendorinius metus. Už turto ir pajamų deklaracijose nurodytų duomenų teisingumą atsako pats deklaruojantysis.“
 
-\#### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 6 straipsnyje vietoj žodžių „iki vasario 15 dienos“ įrašyti žodžius „iki kovo 1 dienos“ ir šį straipsnį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Lietuvos Respublikos juridiniai ir fiziniai asmenys, išmokėję gyventojams bet
 
 2) pateikti Lietuvos Respublikos gyventojams ir jų gyvenamosios vietos valstybinei mokesčių inspekcijai šio straipsnio 1 punkte nurodytą pažymą.“
 
-\#### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
 
 10 straipsnio 2 dalyje vietoj žodžių „iki kovo 31 dienos“ įrašyti žodžius „iki liepos 1 dienos“, o vietoj žodžių „iki gegužės 1 dienos“ įrašyti žodžius „iki rugsėjo 1 dienos“ ir šią dalį išdėstyti taip:
 

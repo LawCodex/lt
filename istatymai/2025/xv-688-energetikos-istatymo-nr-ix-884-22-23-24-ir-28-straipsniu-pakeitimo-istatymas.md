@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5b2e0b02dfee11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5B2E0B02DFEE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir 28 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ENERGETIKOS ĮSTATYMO NR. IX-884 22, 23, 24 IR 28 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 22 straipsnio pakeitimas
+## 1 straipsnis. 22 straipsnio pakeitimas
 
 1. Papildyti 22 straipsnio 1 dalį 8 punktu:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „8. Reikalavimas dėl energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatų, nurodytų šio straipsnio 1 dalyje, netaikomas Lietuvos Respublikoje ar kitose valstybėse narėse, Šiaurės Atlanto sutarties organizacijos valstybėse narėse arba trečiosiose šalyse, pasirašiusiose Pasaulio prekybos organizacijos sutartį dėl viešųjų pirkimų ir kitus tarptautinius susitarimus, kurie privalomi šios organizacijos valstybėms narėms, (toliau – nustatytos valstybės) įsteigtiems juridiniams asmenims ar kitoms organizacijoms arba jų padaliniams, taip pat nustatytų valstybių piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, kai jie su elektros energijos perdavimo sistemos operatoriumi, gamtinių dujų perdavimo sistemos operatoriumi, suskystintų gamtinių dujų terminalo operatoriumi, naftos perdirbimo įrenginių ir magistralinių naftotiekių operatoriumi ir (ar) asmeniu, turinčiu leidimą naudoti jūrinės teritorijos dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, savo valdomuose energetikos objektuose ir (ar) energetikos įrenginiuose yra sudarę rašytinį susitarimą dėl energetikos įrenginių įrengimo ir (ar) eksploatavimo darbų atlikimo, kuriame energetikos įmonių sprendimu numatyti energetikos įrenginių įrengimo ir (ar) eksploatavimo kvalifikaciniai reikalavimai. Nustatytų valstybių juridiniai asmenys ar kitos organizacijos arba jų padaliniai, nustatytų valstybių piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, sudarę šioje dalyje nurodytą rašytinį susitarimą dėl energetikos įrenginių įrengimo ir (ar) eksploatavimo darbų atlikimo energetikos įmonėje, atsako už savo vykdomos veiklos saugumą, patikimumą ir atitiktį energetikos įrenginių įrengimą ir (ar) eksploatavimą reglamentuojančių teisės aktų reikalavimams. Su energetikos įmone sudarytas rašytinis susitarimas, suteikiantis teisę šioje energetikos įmonėje atlikti energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus, nepašalina ir nesumažina šį susitarimą sudariusio juridinio ir (ar) fizinio asmens atsakomybės energetikos įmonei ir tretiesiems asmenims. Fiziniai ir juridiniai asmenys, kurie atlieka energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus pagal rašytinį susitarimą su energetikos įmone, privalo laikytis atitinkamai (*mutatis mutandis*) taikomų šio straipsnio nuostatų arba turėti lygiavertį draudimo dokumentą, jeigu toks yra suteiktas kitoje valstybėje narėje pagal tos valstybės teisės aktus.“
 
-\#### 2 straipsnis. 23 straipsnio pakeitimas
+## 2 straipsnis. 23 straipsnio pakeitimas
 
 1. Papildyti 23 straipsnį 10 dalimi:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „11. Jeigu ūkio subjekto veikla, nurodyta šio straipsnio 10 dalyje, apima mokėjimo priemonių išleidimą (įskaitant riboto naudojimo mokėjimo priemones), tokiam ūkio subjektui taikomas Lietuvos Respublikos mokėjimų įstatymas, įskaitant šiame įstatyme nustatytas išimtis.“
 
-\#### 3 straipsnis. 24 straipsnio pakeitimas
+## 3 straipsnis. 24 straipsnio pakeitimas
 
 1. Pakeisti 24 straipsnio 15 dalį ir ją išdėstyti taip:
 
@@ -72,13 +72,13 @@ Vilnius
 
 „17. Jeigu ūkio subjekto veikla, nurodyta šio straipsnio 16 dalyje, apima mokėjimo priemonių išleidimą (įskaitant riboto naudojimo mokėjimo priemones), tokiam ūkio subjektui taikomas Mokėjimų įstatymas, įskaitant šiame įstatyme nustatytas išimtis.“
 
-\#### 4 straipsnis. 28 straipsnio pakeitimas
+## 4 straipsnis. 28 straipsnio pakeitimas
 
 Papildyti 28 straipsnį 9 dalimi:
 
 „9. Šiame straipsnyje nustatyti energetikos darbuotojų kvalifikacijos ir atestavimo reikalavimai netaikomi nustatytose valstybėse įsteigtų juridinių asmenų ar kitų organizacijų arba jų padalinių darbininkų kategorijų energetikos darbuotojams, taip pat nustatytų valstybių piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis ir kurie atlieka darbininkų kategorijų energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus šio įstatymo 22 straipsnio 8 dalyje nurodyto rašytinio susitarimo pagrindu. Tokiu atveju šie energetikos darbuotojai ir nustatytų valstybių piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turi atitikti šiame rašytiniame susitarime numatytus kvalifikacijos reikalavimus. Šioje dalyje nurodyti nustatytų valstybių juridiniai asmenys ar kitos organizacijos arba jų padaliniai atsako už savo pasitelktų darbuotojų atliekamų darbų ir veiklos saugumą, patikimumą ir atitiktį teisiniam reguliavimui. Šio įstatymo 22 straipsnio 8 dalyje nurodytas rašytinis susitarimas, sudarytas su energetikos įmone ir suteikiantis teisę šioje energetikos įmonėje atlikti darbininkų kategorijų energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus, nepašalina ir nesumažina šiuos darbuotojus pasamdžiusio juridinio asmens ir (ar) energetikos darbuotojo atsakomybės energetikos įmonei ir tretiesiems asmenims.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2026 m. birželio 1 d.
 

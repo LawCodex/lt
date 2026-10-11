@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d4b99ed089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D4B99ED089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 2 ir 17 straipsnių pakeitimo įstatymo 1, 2 ir 3 straipsnių pakeitimo ir papildymo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2012, Nr. [127-6394](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=435613), Nr. [154-7934](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=440399))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 2 dalimi
 
 Papildyti 1 straipsnį 2 dalimi:
 
@@ -38,7 +38,7 @@ Papildyti 1 straipsnį 2 dalimi:
 
 Nedarbo draudimas yra socialinio draudimo rūšis, kuri įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl nedarbo negautas pajamas arba jų dalį ir (arba) finansuoja Užimtumo rėmimo įstatymo nustatytas užimtumo rėmimo priemones, darbo rinkos paslaugas ir užimtumo rėmimo politiką įgyvendinančias įstaigas.“
 
-\#### 2 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimopriemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis kasmet tvirtinamiValstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
-\#### 3 straipsnis. 3 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 3 straipsnis. 3 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 

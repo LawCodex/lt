@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4eff1fc0133311e4adf3c8c5d7681e73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EFF1FC01333.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI IR DAUGIABUČIAMS NAMAMS ATN
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 nauja redakcija
 
 Pakeisti Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymą Nr. I-2455 ir jį išdėstyti taip:
 
@@ -34,15 +34,15 @@ Pakeisti Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomot
 
 VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas nustato valstybės paramos teikimo daugiabučio namo butų ir kitų patalpų savininkams, savivaldybėms, savivaldybių programų įgyvendinimo administratoriams ir bendrojo naudojimo objektų valdytojams daugiabučiams namams atnaujinti (modernizuoti) sąlygas ir tvarką.
 
 2. Šis įstatymas taikomas daugiabučių namų atnaujinimo (modernizavimo) projektams (išskyrus iki šio įstatymo įsigaliojimo įgyvendintus projektus), parengtiems ir įgyvendinamiems nuo 2009 m. rugsėjo 20 d. pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos ar ją atitinkančių savivaldybių tarybų patvirtintų programų įgyvendinimo ir finansavimo modelį, sukurtą pagal Europos Komisijos, Europos investicijų banko ir Europos plėtros banko tarybos iniciatyvą JESSICA.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Daugiabučio namo atnaujinimas (modernizavimas) – statybos darbai, kuriais atkuriamos ar pagerinamos pastato ir (ar) jo inžinerinių sistemų fizinės ir energinės savybės ir (ar) kuriais užtikrinamas iš atsinaujinančių energijos šaltinių gaunamos energijos naudojimas.
 
@@ -52,9 +52,9 @@ VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMAS
 
 4. Sąvoka „nepasiturintys gyventojai“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme (toliau – Piniginės socialinės paramos nepasiturintiems gyventojams įstatymas).
 
-\### ANTRASIS SKIRSNIS. VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
+ANTRASIS SKIRSNIS. VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
 
-\#### 3 straipsnis. Valstybės paramos teikimo sąlygos ir būdai, lėšų kaupimas daugiabučiams namams atnaujinti (modernizuoti)
+## 3 straipsnis. Valstybės paramos teikimo sąlygos ir būdai, lėšų kaupimas daugiabučiams namams atnaujinti (modernizuoti)
 
 1. Valstybės parama daugiabučio namo butų ir kitų patalpų savininkams, įgyvendinantiems atnaujinimo (modernizavimo) projektus pagal Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas, teikiama, jeigu pagal atnaujinimo (modernizavimo) projekte numatytas priemones pasiekiama ne mažesnė kaip D pastato energinio naudingumo klasė, kuri nustatoma pagal Lietuvos Respublikos statybos įstatymą (toliau – Statybos įstatymas) įgyvendinančius statybos techninius reglamentus, ir skaičiuojamosios šiluminės energijos sąnaudos įgyvendinus atnaujinimo (modernizavimo) projektą sumažinamos ne mažiau kaip 20 procentų, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo (modernizavimo) projekto įgyvendinimo. Valstybės parama teikiama šiais būdais:
 
@@ -96,13 +96,13 @@ VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMAS
 
 6) organizuoja Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimo stebėseną.
 
-\#### 4 straipsnis. Valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimas
+## 4 straipsnis. Valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimas
 
 1. Valstybės parama daugiabučiams namams atnaujinti (modernizuoti) teikiama ir jos administravimo išlaidos padengiamos iš Lietuvos Respublikos valstybės biudžeto ir Privatizavimo fondo lėšų, skiriamų Daugiabučių namų atnaujinimo (modernizavimo) programai, 20 procentų akcizo pajamų, gautų už energinius produktus, ir kitų lėšų.
 
 2. Valstybės parama nepasiturintiems gyventojams, apmokant jiems tenkančias kiekvieno mėnesio kredito ir palūkanų įmokas, teikiama pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą.
 
-\#### 5 straipsnis. Sprendimų dėl atnaujinimo (modernizavimo) projektų įgyvendinimo ir finansavimo priėmimo ir vykdymo tvarka
+## 5 straipsnis. Sprendimų dėl atnaujinimo (modernizavimo) projektų įgyvendinimo ir finansavimo priėmimo ir vykdymo tvarka
 
 1. Sprendimą dėl atnaujinimo (modernizavimo) projekto įgyvendinimo pagal Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas ir investicijų plano patvirtinimo, lėšų skolinimosi atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir įgyvendinti ir kreditavimo sutarties sąlygų butų ir kitų patalpų savininkai priima balsų dauguma Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka. Butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo (modernizavimo) protokolo pavyzdinę formą nustato Vyriausybės įgaliota institucija.
 
@@ -112,7 +112,7 @@ VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMAS
 
 4. Dėl būsto šildymo išlaidų kompensavimo nepasiturintiems gyventojams pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo (modernizavimo) protokolo išrašą teikia savivaldybės administracijai.
 
-\#### 6 straipsnis. Butų ir kitų patalpų savininkų, įgyvendinančių daugiabučio namo atnaujinimo (modernizavimo) projektus, interesų apsauga
+## 6 straipsnis. Butų ir kitų patalpų savininkų, įgyvendinančių daugiabučio namo atnaujinimo (modernizavimo) projektus, interesų apsauga
 
 1. Daugiabučio namo atnaujinimo (modernizavimo) projektai turi atitikti teisingumo, protingumo, sąžiningumo kriterijus. Atnaujinimo (modernizavimo) projektui įgyvendinti skirta kaupiamojo įnašo ir (ar) kitų įmokų mėnesinė įmoka, tenkanti buto naudingojo ploto vienam kvadratiniam metrui, turi atitikti vykdomų darbų mastą ir buto savininkų pajamas.
 
@@ -120,7 +120,7 @@ VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMAS
 
 3. Buto ar kitų patalpų perleidimo (paveldėjimo) metu buvę įsiskolinimai pagal atnaujinimo (modernizavimo) projektus padengiami, o vykdytinos prievolės perduodamos buto ar kitų patalpų pirkėjui (įgijėjui).“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 

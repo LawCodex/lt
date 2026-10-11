@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F40E2CDB6EC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F40E2CDB6EC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo 6 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [34-933](https://www.e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087); 2010, Nr. [1-10](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B58F05322D7))
 
-\#### 1 straipsnis. 6 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 2 dalies pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 

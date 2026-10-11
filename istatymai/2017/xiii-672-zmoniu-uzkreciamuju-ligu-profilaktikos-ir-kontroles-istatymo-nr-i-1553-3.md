@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dfb243a0b7f211e7afb78266242a6adf"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DFB243A0B7F2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 3 straipsnio pakeitimo įstatymo Nr. XII-2317 pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 3 straipsnio pakeitimo įstatymą Nr. XII-2317 su visais pakeitimais ir papildymais.
 

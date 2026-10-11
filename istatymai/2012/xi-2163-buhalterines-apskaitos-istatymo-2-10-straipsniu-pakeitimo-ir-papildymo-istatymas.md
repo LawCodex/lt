@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CEABBE530A72"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CEABBE530A72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E); 2002, Nr. [112-4967](https://www.e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8), Nr. [123-5548](https://www.e-tar.lt/portal/lt/legalAct/TAR.25A3A951B261); 2003, Nr. [61-2771](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2C08FB23CAB), Nr. [73-3347](https://www.e-tar.lt/portal/lt/legalAct/TAR.003C43F3CE8D), Nr. [123-5586](https://www.e-tar.lt/portal/lt/legalAct/TAR.146094DDC821); 2007, Nr. [68-2654](https://www.e-tar.lt/portal/lt/legalAct/TAR.2341757E0199); 2008, Nr. [82-3236](https://www.e-tar.lt/portal/lt/legalAct/TAR.93CE20E820CA), Nr. [137-5371](https://www.e-tar.lt/portal/lt/legalAct/TAR.8361553AB031); 2012, Nr. [51-2531](https://www.e-tar.lt/portal/lt/legalAct/TAR.85582B6CAA33))
 
-\#### 1 straipsnis. 2 straipsnio 22 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 22 dalies pakeitimas
 
 2 straipsnio 22 dalyje po žodžio „savininkas“ įrašyti žodžius „arba mažosios bendrijos atstovas“ ir šią dalį išdėstyti taip:
 
 „22. **Ūkio subjekto vadovas** – juridinio asmens vadovas arba jo administracijos vadovas, arba išteklių ar mokesčių fondą administruojančio (jį tvarkančio) subjekto vadovas, arba ūkio subjekto, kuris neturi vadovo, savininkas arba mažosios bendrijos atstovas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys, kuris paskirtas vykdyti Civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas valdymo organo pareigas.“
 
-\#### 2 straipsnis. 10 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 10 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 10 straipsnį nauja 4 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. Buvusias 10 straipsnio 4, 5 ir 6 dalis laikyti atitinkamai 5, 6 ir 7 dalimis.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
 

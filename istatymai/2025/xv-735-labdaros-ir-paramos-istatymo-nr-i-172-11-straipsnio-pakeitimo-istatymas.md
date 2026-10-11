@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b994dbc0e56a11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B994DBC0E56A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 11 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ LABDAROS IR PARAMOS ĮSTATYMO NR. I-172 11 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 11 straipsnio pakeitimas
+## 1 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir 3 dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Valstybės duomenų agentūrai.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

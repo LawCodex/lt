@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1B948C591BD3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1B948C591BD3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 4, 6, 8, 10, 11, 12 straipsnių pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 2002, Nr. [116-5188](https://www.e-tar.lt/portal/lt/legalAct/TAR.531C156856EF); 2003, Nr. [48-2109](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFDEC8C27807); 2004, Nr. [80-2835](https://www.e-tar.lt/portal/lt/legalAct/TAR.82E05B742DCD); 2005, Nr. [47-1554](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3E3615DFCA), Nr. [88-3287](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AF189D0210E); 2007, Nr. [43-1633](https://www.e-tar.lt/portal/lt/legalAct/TAR.5ED868906FB5); 2008, Nr. [81-3182](https://www.e-tar.lt/portal/lt/legalAct/TAR.1E3381A25738), Nr. [120-4544](https://www.e-tar.lt/portal/lt/legalAct/TAR.3A71C19CF624), Nr. [149-6025](https://www.e-tar.lt/portal/lt/legalAct/TAR.DD7553E00DEE); 2009, Nr. [93-3961](https://www.e-tar.lt/portal/lt/legalAct/TAR.242A7F8A7730))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) turi būstą, nepritaikytą neįgaliųjų, kurių judėjimo funkcija sutrikusi, poreikiams, ir jeigu tokiems asmenims Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas sunkus ar vidutinis neįgalumo lygis arba jie yra pripažinti nedarbingais (netekusiais 75–100 procentų darbingumo) ar iš dalies darbingais (netekusiais 60–70 procentų darbingumo), arba jie yra sukakę senatvės pensijos amžių ir jiems nustatyta specialiųjų poreikių tenkinimo reikmė, arba šeimos, kuriose yra asmuo, kurio judėjimo funkcija sutrikusi ir kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas sunkus ar vidutinis neįgalumo lygis arba kuris yra pripažintas nedarbingu (netekusiu 75–100 procentų darbingumo) ar iš dalies darbingu (netekusiu 60–70 procentų darbingumo), arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo reikmė. Parama teikiama turimam būstui rekonstruoti, kad turimas būstas šio straipsnio 3 dalyje nurodyto Aprašo nustatyta tvarka būtų pritaikytas neįgaliųjų poreikiams.“
 
-\#### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
 
 6 straipsnio 3 dalyje vietoj žodžių „valstybės remiamo būsto kredito suteikimo“ įrašyti žodžius „kreditavimo sutarties sudarymo“ ir šią dalį išdėstyti taip:
 
 „3. Tuo atveju, kai kredito gavėjas, kuriam suteikta subsidija būsto kredito daliai apmokėti, gautą valstybės remiamą būsto kreditą grąžina bankui anksčiau kaip per penkerius metus arba už šį kreditą įsigytą būstą per pirmuosius penkerius metus nuo kreditavimo sutarties sudarymodienos perleidžia kito asmens nuosavybėn, bankas sutartyje su Vyriausybės įgaliota institucija įstatymų ir kitų teisės aktų nustatyta tvarka iš kredito gavėjo išieško valstybės suteiktą subsidiją ir išieškotą subsidijos sumą perveda į valstybės biudžetą.“
 
-\#### 3 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+## 3 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2. Šeima ar asmuo, gyvenantys savivaldybės išnuomotame socialiniame būste, jeigu jiems išnuomoto socialinio būsto naudingasis plotas, tenkantis vienam šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų arba šio straipsnio 1 dalyje nustatytais atvejais mažesnis kaip 14 kvadratinių metrų ir jų Gyventojų turto deklaravimo įstatymo nustatyta tvarka deklaruotas turimas turtas ir gautos pajamos už vienus metus (12 paskutinių mėnesių) prieš socialinio būsto sąlygų pagerinimą neviršija Vyriausybės nustatytų pajamų ir turto dydžių, turi teisę į socialinio būsto sąlygų pagerinimą pagal šio Įstatymo 9 straipsnyje nustatytus socialinio būsto naudingojo ploto normatyvus. Suteikus kitą būstą, šeima ar asmuo privalo per mėnesį patuštinti nuomotą savivaldybės socialinį būstą.“
 
-\#### 4 straipsnis. 10 straipsnio pakeitimas
+## 4 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 3. Savivaldybių tarybos savo biudžeto sąskaita turi teisę sumažinti savivaldybės gyvenamųjų patalpų, išnuomotų pagal šiame Įstatyme nustatytas socialinio būsto nuomos sąlygas, nuomos mokestį arba visai nuo jo atleisti, jeigu šių patalpų nuomininkui ar jo šeimos nariui Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas sunkus ar vidutinis neįgalumo lygis arba kuris yra pripažintas nedarbingu (netekusiu 75–100 procentų darbingumo) ar iš dalies darbingu (netekusiu 60–70 procentų darbingumo), arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo reikmė, arba asmuo, sergantis lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkia forma, ir jeigu jo metinės pajamos (šeimos atveju – visų šeimos narių metinės pajamos, tenkančios vienam šeimos nariui) neviršija 12 valstybės remiamų pajamų dydžių.“
 
-\#### 5 straipsnis. 11 straipsnio pakeitimas
+## 5 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 11 straipsnį jį išdėstyti taip:
 
 6. Savivaldybės gyvenamosios patalpos savivaldybės tarybos nustatyta tvarka išnuomojamos ir neįrašytoms į šio straipsnio 2 dalyje nurodytus sąrašus šeimoms ir asmenims, netekusiems būsto dėl gaisrų, potvynių, stiprių vėjų ar kitų nuo žmogaus valios nepriklausančių aplinkybių, kurie Lietuvos Respublikos teritorijoje nuosavybės teise neturi kito tinkamo gyventi būsto, šeimoms, auginančioms penkis ir daugiau vaikų, ir šeimoms, kurioms vienu kartu gimsta trys ar daugiau vaikų, taip pat vienišiems judėjimo negalią turintiems asmenims. Savivaldybės tarybos nustatyta tvarka informacija apie šioje dalyje nurodytais atvejais išnuomotas gyvenamąsias patalpas viešai skelbiama savivaldybės tinklalapyje.“
 
-\#### 6 straipsnis. Įstatymo papildymas 111 straipsniu
+## 6 straipsnis. Įstatymo papildymas 111 straipsniu
 
 Papildyti Įstatymą 11^1 straipsniu:
 
@@ -122,7 +122,7 @@ Papildyti Įstatymą 11^1 straipsniu:
 
 3. Apie sprendimą išbraukti iš sąrašų socialiniam būstui išsinuomoti, išskyrus šio straipsnio 1 dalies 3 punkte numatytą atvejį, savivaldybės vykdomoji institucija per mėnesį nuo sprendimo išbraukti iš sąrašų socialiniam būstui išsinuomoti priėmimo dienos šeimas ir asmenis informuoja raštu.“
 
-\#### 7 straipsnis. 12 straipsnio 1 dalies 5 punkto ir 3 dalies pakeitimas
+## 7 straipsnis. 12 straipsnio 1 dalies 5 punkto ir 3 dalies pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7df3a152d9b211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7DF3A152D9B2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymo Nr. XV-376 13 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ KELIŲ ĮSTATYMO NR. I-891 2, 4, 5, 7, 10, 13, 16, 18 IR 20 STRAIPSNIŲ, TREČIO
 
 Vilnius
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas
+## 1 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C6FA95DB747F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C6FA95DB747F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 4, 6, 11, 26 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [43-1495](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4), Nr. [56-1984](https://www.e-tar.lt/portal/lt/legalAct/TAR.43A3BDE30422); 2003, Nr. [38-1663](https://www.e-tar.lt/portal/lt/legalAct/TAR.3B0F01DB6EE1))
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies papildymas
+## 1 straipsnis. 4 straipsnio 2 dalies papildymas
 
 4 straipsnio 2 dalyje po žodžių „Specialiųjų tyrimų tarnybos“ įrašyti žodžius „Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos“ ir šią dalį išdėstyti taip:
 
 „2. Priežiūros komisija, prieš išduodama licenciją organizuoti lošimus, turi gauti Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos bei Policijos departamento prie Vidaus reikalų ministerijos išvadas.“
 
-\#### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas ir 2 dalies 3 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 6 straipsnio 1 dalies pakeitimas ir 2 dalies 3 punkto pripažinimas netekusiu galios
 
 1. 6 straipsnio 1 dalyje išbraukti žodžius „ir turi būti kasmet perregistruojama sumokant nustatyto dydžio valstybės rinkliavą“ ir šią dalį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. 6 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 11 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 3 straipsnis. 11 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. 11 straipsnio pavadinime po žodžio „komisijos“ įrašyti žodžius „nariams bei valstybės tarnautojams ir“ ir šio straipsnio pavadinimą išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „1. Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos kontroliuojančiais asmenimis, lošimus organizuojančios bendrovės stebėtojų tarybos, valdybos nariais ir administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošimo namų (kazino), bingo, automatų salonų administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošėjus aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės tarnautojais irdarbuotojais negali būti asmenys, dėl kurių pačių ar jų artimųjų giminaičių bei šeimos narių yra atliekamas operatyvinis tyrimas dėl neteisėto lošimo namų (kazino) laikymo ar lošimų organizavimo arba priklausymo nusikalstamam susivienijimui, bei asmenys, turintys neišnykusį arba nepanaikintą teistumą už sunkius ir labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai.“
 
-\#### 4 straipsnis. 26 straipsnio pakeitimas
+## 4 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 

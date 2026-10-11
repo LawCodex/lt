@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1FEF229DA7C6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
@@ -1138,5 +1138,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir 7 straipsnių pakeitimo įstatymas
-
-part_be9342059c53487e802b1f249fddba31_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.88CC8DFF10C7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88CC8DFF10C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB))
 
-\#### 1 straipsnis. 6.923 straipsnio pakeitimas
+## 1 straipsnis. 6.923 straipsnio pakeitimas
 
 Pakeisti 6.923 straipsnį ir jį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti 6.923 straipsnį ir jį išdėstyti taip:
 
 Lėšos nurašomos pagal kliento nurodymų ir kitų dokumentų gavimo eilę (kalendorinis eiliškumas), jeigu įstatymai nenustato ko kita.“
 
-\#### 2 straipsnis. Kodekso papildymas 6.9301 straipsniu
+## 2 straipsnis. Kodekso papildymas 6.9301 straipsniu
 
 Papildyti Kodeksą 6.930^1straipsniu:
 
@@ -54,7 +54,7 @@ Papildyti Kodeksą 6.930^1straipsniu:
 
 3. Atsiskaitymų eilę vykdymo proceso, bankroto, restruktūrizavimo ir kitais įstatymų numatytais atvejais nustato kiti įstatymai.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. spalio 1 d.
 

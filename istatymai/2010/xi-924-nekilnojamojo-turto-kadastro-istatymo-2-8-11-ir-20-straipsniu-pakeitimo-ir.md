@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2C22FCB37625"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2C22FCB37625.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 2, 8, 11 ir 20 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2000, Nr. [58-1704](https://www.e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E); 2003, Nr. [57-2530](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC19C1D16EDA); 2007, Nr. [4-159](https://www.e-tar.lt/portal/lt/legalAct/TAR.3A02F32B6AD8); 2008, Nr. [4-120](https://www.e-tar.lt/portal/lt/legalAct/TAR.50D19BFBE938))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -56,13 +56,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 12. Žemės sklypo planas – pagal matavimus vietovėje Vyriausybės įgaliotos institucijos nustatyta tvarka parengtas brėžinys, kuriame pažymimos žemės sklypo ribos ir kadastro duomenys.“
 
-\#### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
 
 8 straipsnio 2 dalyje išbraukti žodžius „o formuojant žemės sklypus kaimo gyvenamosiose vietovėse nuosavybės teisių atkūrimui ir asmeniniam ūkiui žemės sklypų ribų posūkio taškų koordinatės nustatomos grafiškai pagal paskiausiai atnaujintą kartografinę medžiagą Kadastro nuostatų nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 „2. Žemės sklypų kadastriniai matavimai atliekami nustatant žemės sklypų ribų posūkio taškų ir riboženklių koordinates valstybinėje koordinačių sistemoje.“
 
-\#### 3 straipsnis. 11 straipsnio pakeitimas
+## 3 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -146,13 +146,13 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 16. Matininkas už neteisėtais veiksmais kitiems asmenims padarytą žalą nustatant nekilnojamųjų daiktų kadastro duomenis atsako Darbo kodekso ir šio įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. 20 straipsnio papildymas 3 dalimi
+## 4 straipsnis. 20 straipsnio papildymas 3 dalimi
 
 Papildyti 20 straipsnį 3 dalimi:
 
 „3. Nekilnojamojo turto kadastro žemėlapio duomenų paieškos ir peržiūros paslaugos per Lietuvos erdvinės informacijos portalą Geodezijos ir kartografijos įstatymo nustatyta tvarka naudotojams teikiamos neatlygintinai.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 2 straipsnį ir šio straipsnio 2, 3 ir 4 dalis, įsigalioja 2010 m. liepos 1 d.
 

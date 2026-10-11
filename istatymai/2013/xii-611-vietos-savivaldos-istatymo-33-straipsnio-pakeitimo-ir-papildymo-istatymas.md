@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F31F2EE6D090"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F31F2EE6D090.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 33 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2008, Nr. [113-4290](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF599A1A6DD5); 2012, Nr. [136-6958](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8F9C835C922))
 
-\#### 1 straipsnis. 33 straipsnio 2, 5 dalių pakeitimas ir straipsnio papildymas 7 dalimi
+## 1 straipsnis. 33 straipsnio 2, 5 dalių pakeitimas ir straipsnio papildymas 7 dalimi
 
 1. Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „7. Seniūnaičiui su jo, kaip seniūnaičio, veikla susijusioms kanceliarijos, pašto, telefono, interneto ryšio, transporto išlaidoms apmokėti, kiek jų nesuteikia ar tiesiogiai neapmoka savivaldybės administracija, gali būti skiriama išmoka, už kurią atsiskaitoma ne rečiau kaip vieną kartą per metus. Šios išmokos dydį ir atsiskaitymo tvarką nustato tos savivaldybės taryba.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

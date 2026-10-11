@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E5179D300BC1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E5179D300BC1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4, 5, 9 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194); 1997, Nr. [104-2622](https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1), Nr. [115-2911](https://www.e-tar.lt/portal/lt/legalAct/TAR.901DC8BD80E5))
 
-\#### 1 straipsnis. 4 straipsnio papildymas
+## 1 straipsnis. 4 straipsnio papildymas
 
 Papildyti 4 straipsnį 4 dalimi:
 
 „Teisę gauti pirmojo laipsnio valstybinę pensiją šio įstatymo nustatyta tvarka turi Lietuvos Nepriklausomybės Akto signatarai.“
 
-\#### 2 straipsnis. 5 straipsnio papildymas
+## 2 straipsnis. 5 straipsnio papildymas
 
 1. Papildyti 5 straipsnį nauja 5 dalimi:
 
@@ -42,7 +42,7 @@ Papildyti 4 straipsnį 4 dalimi:
 
 2. Buvusią 5 dalį laikyti 6 dalimi.
 
-\#### 3 straipsnis. 9 straipsnio 2 dalies papildymas ir pakeitimas
+## 3 straipsnis. 9 straipsnio 2 dalies papildymas ir pakeitimas
 
 9 straipsnio 2 dalies antrajame sakinyje po žodžių „pagal šio įstatymo“ įrašyti skaičius ir žodžius „4 straipsnio ketvirtąją dalį ir“, išbraukti žodžius „ar antrojo“ ir „ar tapęs invalidu“ ir šią dalį išdėstyti taip:
 

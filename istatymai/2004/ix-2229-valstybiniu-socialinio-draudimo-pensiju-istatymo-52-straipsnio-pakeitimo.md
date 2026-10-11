@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.800C1D4477BE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.800C1D4477BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 52 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D), Nr. [101-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41); 1995, Nr. [59-1475](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F1DFB95F88D); 1997, Nr. [119-3077](https://www.e-tar.lt/portal/lt/legalAct/TAR.027789BC6E41); 1998, Nr. [65-1875](https://www.e-tar.lt/portal/lt/legalAct/TAR.420BA775E440), Nr. [98-2707](https://www.e-tar.lt/portal/lt/legalAct/TAR.51DE78DB400F); 1999, Nr. [113-3283](https://www.e-tar.lt/portal/lt/legalAct/TAR.B09DF76B324F))
 
-\#### 1 straipsnis. 52 straipsnio 1 dalies 1 punkto, 2 dalies 5 punkto ir 3 dalies pakeitimas
+## 1 straipsnis. 52 straipsnio 1 dalies 1 punkto, 2 dalies 5 punkto ir 3 dalies pakeitimas
 
 1. 52 straipsnio 1 dalies 1 punkte po žodžio „galiojusius“ įrašyti santrumpą „TSRS“ ir šį punktą išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 4) visų tradicinių Lietuvoje bažnyčių ir religinių organizacijų dvasininkų tarnybos laikas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 

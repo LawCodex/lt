@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CB80663F7E52"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CB80663F7E52.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 2, 6, 11, 23, 24, 27, 30, 31, 32, 35, 37, 45, 47, 50, 55 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 1995, Nr. [53-1294](https://www.e-tar.lt/portal/lt/legalAct/TAR.7847E47234C5); 1996, Nr. [100-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.32645AF4CDA5))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnio 12 pastraipoje vietoj žodžių „apskričių valdytojams“ įrašyti žodžius „apskričių viršininkams“ ir šią pastraipą išdėstyti taip:
 
 „**žemės paėmimas visuomenės poreikiams –** įstatymų nustatyta tvarka žemės išpirkimas iš žemės savininkų arba valstybinės žemės naudojimo teisės bei valstybinės žemės nuomos sutarties nutraukimas, Lietuvos Respublikos Vyriausybei arba apskričių viršininkams nustačius, jog ši žemė yra būtina visuomenės poreikiams;“.
 
-\#### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 6 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
 
 „Lietuvos Respublikos Vyriausybės sprendimu valstybinės žemės valdymo teisė suteikiama valstybinėms institucijoms, vietos savivaldos institucijoms, miškų urėdijoms, nacionalinių ir regioninių parkų administracijoms, iš valstybės biudžeto išlaikomoms valstybinėms įstaigoms ir valstybinėms įmonėms. Kitą valstybinę žemę apskrities teritorijoje valdo apskrities viršininkas.“
 
-\#### 3 straipsnis. 11 straipsnio 1 dalies 2 punkto ir 5 dalies 2 punkto pakeitimas
+## 3 straipsnis. 11 straipsnio 1 dalies 2 punkto ir 5 dalies 2 punkto pakeitimas
 
 1. 11 straipsnio 1 dalies 2 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „2) nustatyti Lietuvos Respublikos Vyriausybės arba apskrities viršininko sprendimais – šių institucijų sprendimais;“.
 
-\#### 4 straipsnis. 23 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas
+## 4 straipsnis. 23 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas
 
 1. 23 straipsnio 1 dalies 2 punkte vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šį punktą išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „Apskrities viršininkas ar kiti valstybinės žemės valdytojai suteikia teisę naudotis žemės sklypais, kurių dydis ir suteikimo atvejai yra nustatyti Lietuvos Respublikos Vyriausybės.“
 
-\#### 5 straipsnis. 24 straipsnio pakeitimas
+## 5 straipsnis. 24 straipsnio pakeitimas
 
 24 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“, 2 dalyje vietoj žodžių „apskrities valdytojas“, „apskrities valdytojo“ įrašyti atitinkamai žodžius „apskrities viršininkas“, „apskrities viršininko“ ir visą straipsnį išdėstyti taip:
 
@@ -70,13 +70,13 @@ Valstybinę žemę parduoda ar kitaip privatinėn nuosavybėn perleidžia apskri
 
 Sudarant valstybinės žemės sklypų pirkimo-pardavimo, nuomos ir panaudos sutartis, valstybei atstovauja apskrities viršininkas arba jo įgaliotas apskrities viršininko administracijos žemėtvarkos ir geodezijos tarnybos vadovas.“
 
-\#### 6 straipsnis. 27 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 27 straipsnio 2 dalies pakeitimas
 
 27 straipsnio 2 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
 
 „Bendra dalinė valstybės ir piliečių žemės nuosavybė atsiranda piliečiams įsigijus iš valstybės namų valdos žemės sklypo dalį. Tokį žemės sklypą valdant, juo naudojantis ir disponuojant, susitarimas tarp valstybės ir kitų bendrasavininkių reikalingas tik šio įstatymo 29 straipsnyje nurodytais atvejais arba kai bendrai valdomas sklypas perdalijamas tarp bendrasavininkių, arba kai pakeičiami jų naudojamos žemės plotai ir naudojimo sąlygos. Šiais atvejais valstybei atstovauja apskrities viršininkas arba jo įgaliotas administracijos atstovas.“
 
-\#### 7 straipsnis. 30 straipsnio 2 dalies 6 punkto, 4 dalies ir 5 dalies 4 punkto pakeitimai
+## 7 straipsnis. 30 straipsnio 2 dalies 6 punkto, 4 dalies ir 5 dalies 4 punkto pakeitimai
 
 1. 30 straipsnio 2 dalies 6 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
@@ -110,7 +110,7 @@ Sudarant valstybinės žemės sklypų pirkimo-pardavimo, nuomos ir panaudos suta
 
 „4) pagal miestų detalius planus teikia apskrities viršininkui pasiūlymus dėl naujų valstybinės žemės sklypų pardavimo ir ilgalaikės nuomos fiziniams ir juridiniams asmenims kitai paskirčiai;“.
 
-\#### 8 straipsnis. 31 straipsnio 1 dalies ir 3 dalies 1 punkto pakeitimas
+## 8 straipsnis. 31 straipsnio 1 dalies ir 3 dalies 1 punkto pakeitimas
 
 1. 31 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Sudarant valstybinės žemės sklypų pirkimo-pardavimo, nuomos ir panaudos suta
 
 „1) apskrities viršininkas - kai žemės plotas ne didesnis kaip 1 ha miestuose bei 10 ha kaimo vietovėje, jeigu šiuos žemės sklypus suteikti Lietuvos Respublikos Vyriausybės nustatytais atvejais nėra priskirta Lietuvos Respublikos Vyriausybės kompetencijai, taip pat ir kai didesni žemės plotai, Lietuvos Respublikos Vyriausybės nustatyta tvarka suderinusi su suinteresuotomis ministerijomis;“.
 
-\#### 9 straipsnis. 32 straipsnio 1 ir 2 dalių pakeitimas
+## 9 straipsnis. 32 straipsnio 1 ir 2 dalių pakeitimas
 
 32 straipsnio 1 ir 2 dalyse vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šias dalis išdėstyti taip:
 
@@ -144,7 +144,7 @@ Sudarant valstybinės žemės sklypų pirkimo-pardavimo, nuomos ir panaudos suta
 
 Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinėje spaudoje du kartus su 15 dienų pertrauka. Lietuvos Respublikos Vyriausybės ar apskrities viršininko sprendimą dėl žemės sklypo paėmimo visuomenės poreikiams suinteresuotieji asmenys gali skųsti teismui per vieną mėnesį po jo antrojo paskelbimo spaudoje.“
 
-\#### 10 straipsnis. 35 straipsnio 2, 4 ir 5 dalių pakeitimas
+## 10 straipsnis. 35 straipsnio 2, 4 ir 5 dalių pakeitimas
 
 35 straipsnio 2, 4 ir 5 dalyse vietoj žodžių „apskrities valdytojo“, „apskrities valdytojas“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskrities viršininkas“ ir šias dalis išdėstyti taip:
 
@@ -154,31 +154,31 @@ Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinė
 
 Žemės ūkio paskirties žemės, išsinuomojamos ne trumpesniam kaip 3 metų laikotarpiui ūkininko ūkiui plėsti arba žemės ūkio įmonei, maksimalus plotas neribojamas, jeigu išsinuomojamų žemės sklypų ribos ir jų teritorijos tvarkymas suderintas su apskrities viršininko patvirtintu žemėtvarkos projektu.“
 
-\#### 11 straipsnis. 37 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 37 straipsnio 1 dalies pakeitimas
 
 37 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „Ūkininko ūkio žemei priskiriamos įsigytos privatinėn nuosavybėn arba išsinuomotos daugiau kaip 3 metams žemėnaudos, Žemės ūkio ministerijos nustatyta tvarka įregistruotos apskrities viršininko administracijoje kaip ūkininko ūkis.“
 
-\#### 12 straipsnis. 45 straipsnio 2 dalies pakeitimas
+## 12 straipsnis. 45 straipsnio 2 dalies pakeitimas
 
 45 straipsnio 2 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
 
 „Laisvos valstybinės žemės fondą šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka tvarko apskrities viršininkas, išskyrus žemę, perduotą valdyti vietos savivaldos institucijoms.“
 
-\#### 13 straipsnis. 47 straipsnio 3 dalies pakeitimas
+## 13 straipsnis. 47 straipsnio 3 dalies pakeitimas
 
 47 straipsnio 3 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „Valstybinės žemėtvarkos darbus atlieka apskrities viršininko administracija, valstybinės įmonės ir organizacijos bei jų pasitelktos kitos įmonės ir organizacijos.“
 
-\#### 14 straipsnis. 50 straipsnio 1 dalies pakeitimas
+## 14 straipsnis. 50 straipsnio 1 dalies pakeitimas
 
 50 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „Valstybinį žemės kadastrą sudaro ir tvarko apskrities viršininko administracija ir valstybinės įmonės įstatymų bei Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 15 straipsnis. 55 straipsnio 4 ir 5 punktų pakeitimas
+## 15 straipsnis. 55 straipsnio 4 ir 5 punktų pakeitimas
 
 55 straipsnio 4 ir 5 punktuose vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šiuos punktus išdėstyti taip:
 

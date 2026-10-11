@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DA70C73B0A89"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA70C73B0A89.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 7 ir 7(1) straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 1998, Nr. [49-1329](https://www.e-tar.lt/portal/lt/legalAct/TAR.D19DD3E4FAA6))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Lietuvos Respublikos teisingumo ministro paskirti asmenys, atlikdami notarų vei
 
 Notarų savivaldos institucijų priežiūra atliekama šio įstatymo 11 straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. 71 straipsnio pakeitimas
+## 2 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 7^1 straipsnį ir jį išdėstyti taip:
 

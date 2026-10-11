@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bc536812afcb11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BC536812AFCB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 54 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ ELEKTRONINIŲ RYŠIŲ ĮSTATYMO NR. IX-2135 3 IR 54 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 102 dalį ir ją išdėstyti taip:
 
 „102. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos mokslo ir studijų įstatymeir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente [(ES) 2016/679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R0679&locale=lt) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva [95/46/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31995L0046&locale=lt) (Bendrajame duomenų apsaugos reglamente).“
 
-\#### 2 straipsnis. 54 straipsnio pakeitimas
+## 2 straipsnis. 54 straipsnio pakeitimas
 
 Pakeisti 54 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ b) įgyvendinant gynybos ir saugumo pramonės produktų gamybos vystymo projekt�
 
 3. Asmenys turi teisę laikyti radijo ryšio stotis, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas Ryšių reguliavimo tarnybos leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), tik turėdami Ryšių reguliavimo tarnybos išduotą leidimą naudoti atitinkamus radijo dažnius (kanalus). Ši dalis netaikoma šio straipsnio 1 dalyje nurodytas funkcijas atliekančioms valstybės institucijoms, asmenims, kurie verčiasi elektroninių ryšių veikla, taip pat šioje dalyje nurodytų radijo ryšio stočių gamintojams, importuotojams ir asmenims, kurie tiekia rinkai (įskaitant tiekimą rinkai pirmą kartą) šioje dalyje nurodytas radijo ryšio stotis.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. lapkričio 2 d.
 

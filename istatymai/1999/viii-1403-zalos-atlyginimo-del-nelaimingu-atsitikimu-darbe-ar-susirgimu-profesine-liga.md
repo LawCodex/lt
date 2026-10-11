@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.36D3D6622CFA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.36D3D6622CFA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 2, 4, 8, 11, 12, 13, 18, 20 straipsnių pakeitimo ir papildymo 18(1) straipsniu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1656](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8))
 
-\#### 1 straipsnis. 2 straipsnio 11 dalies pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio 11 dalies pakeitimas ir papildymas
 
 Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „11. **Kompensavimo koeficientas (k)** – nukentėjusiojo vidutinio darbo užmokesčio (šio įstatymo 11 straipsnis) santykis su mėnesių, pagal kuriuos apskaičiuotas vidutinis darbo užmokestis, draudžiamųjų pajamų vidurkiu. Tuo atveju, kai nukentėjusiojo dėl susirgimo profesine liga asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje, didesnis negu kompensavimo koeficientas, taikomas asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje (iki 1995 metų kompensavimo koeficientui apskaičiuoti vietoj draudžiamųjų pajamų imamas Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytas atitinkamo mėnesio vidutinis mėnesinis darbo užmokestis, o iki 1991 metų – vidutinis atitinkamų metų mėnesinis darbo užmokestis). Jei nukentėjusiojo vidutinio darbo užmokesčio nėra ar jo negalima nustatyti arba taip apskaičiuotas kompensavimo koeficientas mažesnis už 0,35, laikoma, kad kompensavimo koeficientas lygus 0,35. Jokiu atveju kompensavimo koeficientas negali būti didesnis už 3.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 4 straipsnio 5 punktą pripažinti netekusiu galios, papildyti straipsnį 2 dalimi ir visą 4 straipsnį išdėstyti taip:
 
@@ -48,13 +48,13 @@ Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip:
 
 2. Nelaimingas atsitikimas, įvykęs ne dėl darbuotojo kaltės, įprastiniu, tiesioginiu maršrutu jam vykstant į darbą arba grįžtant iš darbo, prilyginamas nelaimingam atsitikimui darbe. Išlaidas, patirtas išmokant žalos atlyginimą, įmonė ar ūkininkas atgręžtinio reikalavimo teise išreikalauja iš atsakingo už padarytą žalą juridinio ar fizinio asmens – nelaimingo atsitikimo kaltininko.“
 
-\#### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 8 straipsnio 1 dalyje po žodžio „išmoka“ įrašyti žodžius „Lietuvos Respublikos žmonių saugos darbe įstatyme nustatyto dydžio“, išbraukti žodžius „ne mažesnę kaip 100 respublikos ūkio vidutinių darbo užmokesčių. Apskaičiuojant šią pašalpą, respublikos ūkio vidutinis darbo užmokestis imamas tokio dydžio, kokį Statistikos departamentas prie Lietuvos Respublikos Vyriausybės paskelbė mėnesiui, ėjusiam prieš tą mėnesį, kurį įvyko mirtinas nelaimingas atsitikimas darbe“ ir šią dalį išdėstyti taip:
 
 „1. Įmonė, kurioje dėl saugos darbe norminių aktų pažeidimo įvyko mirtinas nelaimingas atsitikimas, mirusiojo šeimai išmoka Lietuvos Respublikos žmonių saugos darbe įstatyme nustatyto dydžio vienkartinę pašalpą. Ši pašalpa lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.“
 
-\#### 4 straipsnis. 11 straipsnio 2 dalies pakeitimas ir papildymas 3 dalimi
+## 4 straipsnis. 11 straipsnio 2 dalies pakeitimas ir papildymas 3 dalimi
 
 1. 11 straipsnio 2 dalyje vietoj žodžių „bet kurių trijų“ įrašyti žodžius „paeiliui einančių 6“, vietoj žodžio „dvylikos“ įrašyti skaičių „24“ ir šią dalį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip:
 
 „3. Tuo atveju, kai nustatoma, kad susirgimą profesine liga sukėlė darbas darbovietėje, kurioje nukentėjusysis dirbo iki jo atleidimo iš šios darbovietės ar perkėlimo į kitą mažiau apmokamą darbą toje pačioje darbovietėje, vidutinis darbo užmokestis nukentėjusiojo pageidavimu apskaičiuojamas pagal toje darbovietėje, kurioje darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo perkėlimo į kitą mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos, laikantis Vyriausybės patvirtintos Darbuotojo vidutinio darbo užmokesčio apskaičiavimo tvarkos.“
 
-\#### 5 straipsnis. 12 straipsnio 5 dalies pakeitimas
+## 5 straipsnis. 12 straipsnio 5 dalies pakeitimas
 
 12 straipsnio 5 dalies pirmajame sakinyje po žodžio „mokama“ įrašyti žodį „lygiomis“, pakeisti antrąjį sakinį ir visą dalį išdėstyti taip:
 
 „5. Vienkartinė kompensacija gali būti mokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir išmokami delspinigiai Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo nustatyta tvarka ir dydžiais.“
 
-\#### 6 straipsnis. 13 straipsnio papildymas ir pakeitimas
+## 6 straipsnis. 13 straipsnio papildymas ir pakeitimas
 
 1. 13 straipsnio 2 dalyje po žodžių „kas mėnesį“ įrašyti žodžius „žalos atlyginimo mokėtojo nustatytomis dienomis, tačiau ne vėliau kaip mėnesio paskutinę darbo dieną“ ir šią dalį išdėstyti taip:
 
@@ -82,11 +82,11 @@ Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip:
 
 3. Buvusią 13 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 7 straipsnis. 18 straipsnio 3 dalies pripažinimas netekusia galios
+## 7 straipsnis. 18 straipsnio 3 dalies pripažinimas netekusia galios
 
 18 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 8 straipsnis. Įstatymo papildymas 181 straipsniu
+## 8 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti Įstatymą 18^1 straipsniu:
 
@@ -100,7 +100,7 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 2. Šiame straipsnyje nurodytą žalos atlyginimo mokėjimo prievolės perėjimo valstybei tvarką nustato Vyriausybė. Valstybė, atlyginusi žalą šio straipsnio 1 dalies 1 punkte nustatytais atvejais, turi atgręžtinio reikalavimo teisę į žalos atlyginimo mokėtoją.“
 
-\#### 9 straipsnis. 20 straipsnio pavadinimo pakeitimas ir papildymas 3 dalimi
+## 9 straipsnis. 20 straipsnio pavadinimo pakeitimas ir papildymas 3 dalimi
 
 1. Papildyti 20 straipsnio pavadinimą žodžiais „ir jo kontrolė“ ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 „3. Žalos atlyginimo apskaičiavimą ir mokėjimą kontroliuoja Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja nuo 1999 m. gruodžio 1 d.
 

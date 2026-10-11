@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0C065743BD9B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0C065743BD9B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 4(1), 9, 10, 13, 14, 15, 16, 28, 38 straipsnių pakeitimo, Kodekso papildymo 22(1) straipsniu ir 29, 31, 49 straipsnių pripažinimo netekusiais galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [105-2393](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F); 2000, Nr. [75-2267](https://www.e-tar.lt/portal/lt/legalAct/TAR.6E0FCC1A8975), Nr. [85-2585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AF91E2599F0); 2001, Nr. [39-1359](https://www.e-tar.lt/portal/lt/legalAct/TAR.51335015B53C); 2002, Nr. [123-5510](https://www.e-tar.lt/portal/lt/legalAct/TAR.610AFB0427D6))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Vidaus vandenų transportas – ūkinės veiklos sritis, kuri apima keleivių, krovinių, bagažo, pašto vežimą, žvejybą, buksyravimą, vidaus vandenų transporto priemonių bei hidrotechnikos statinių eksploatavimą ir remontą, vidaus vandenų kelių, uostų ir prieplaukų, ryšių ir radijo navigacijos įrenginių eksploatavimą ir priežiūrą.“
 
-\#### 2 straipsnis. 41 straipsnio pakeitimas
+## 2 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 4^1 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 4^1 straipsnį ir jį išdėstyti taip:
 
 7. Priėmus sprendimą licencijos neišduoti, apie tai per 3 darbo dienas raštu pranešama pareiškėjui, nurodant atsisakymo išduoti licenciją priežastis.“
 
-\#### 3 straipsnis. 9 straipsnio 2 ir 4 punktų pakeitimas
+## 3 straipsnis. 9 straipsnio 2 ir 4 punktų pakeitimas
 
 1. 9 straipsnio 2 punkte vietoj žodžio „laivai“ įrašyti žodžius „vidaus vandenų transporto priemonės“, vietoj žodžio „įrenginius“ įrašyti žodį „statinius“ ir šį punktą išdėstyti taip:
 
@@ -80,13 +80,13 @@ Pakeisti 4^1 straipsnį ir jį išdėstyti taip:
 
 „4) prižiūrėti hidrotechnikos statinių techninę būklę.“
 
-\#### 4 straipsnis. 10 straipsnio 2 punkto pakeitimas
+## 4 straipsnis. 10 straipsnio 2 punkto pakeitimas
 
 10 straipsnio 2 punkte vietoj žodžio „laivų“ įrašyti žodžius „vidaus vandenų transporto priemonių“ ir šį punktą išdėstyti taip:
 
 „2) įrengti ir aptarnauti įrenginius, garantuojančius saugų ir nekliudomą vidaus vandenų transporto priemonių plaukimą po tiltais ir antvandeninėmis komunikacijomis bei virš povandeninių komunikacijų. Kranto juostose įrengti perspėjamieji ir nurodomieji (signaliniai) ženklai privalo atitikti vidaus vandenų laivybos reikalavimus;“.
 
-\#### 5 straipsnis. 13 straipsnio 5, 6 ir 10 dalių pakeitimas
+## 5 straipsnis. 13 straipsnio 5, 6 ir 10 dalių pakeitimas
 
 1. 13 straipsnio 5 dalies pirmame sakinyje po žodžio „uostai“ įrašyti žodžius „ir prieplaukos“, antrame sakinyje po žodžio „uostų“ įrašyti žodžius „ir prieplaukų“, trečiame sakinyje po žodžio „uostus“ įrašyti žodžius „ir prieplaukas“, po žodžio „uostų“ įrašyti žodžius „ir prieplaukų“ ir šią dalį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 4^1 straipsnį ir jį išdėstyti taip:
 
 „10. Visų nuosavybės formų vidaus vandenų uostų ir prieplaukų savininkai privalo užtikrinti visų vežėjų vienodas teises įplaukti į uostus ir prieplaukas, naudotis uostų ir prieplaukų krantinėmis ir kitais įrenginiais kroviniams pakrauti ir iškrauti, įlaipinti ir išlaipinti keleivius, naudotis juose visomis logistinėmis vidaus vandenų transporto paslaugomis, mokant su tuo susijusius mokesčius ir rinkliavas.“
 
-\#### 6 straipsnis. 14 straipsnio pakeitimas
+## 6 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 Vidaus vandenų transporto priemonės – vidaus vandenų, žvejybos, mažieji, pramoginiai, sportiniai ir asmeniniai laivai, plūduriuojantys įrenginiai bei plūduriuojančios priemonės, eksploatuojantys arba aptarnaujantys vandenų kelius.“
 
-\#### 7 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -130,7 +130,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 8. Plūduriuojanti priemonė – nesavaeigis plūduriuojantis statinys (angaras, debarkaderis, mažųjų, pramoginių, sportinių ir asmeninių laivų stovėjimo įrenginys, vasarnamis, restoranas, valgykla, viešbutis, turistinis plaustas, maudykla ir kiti).“
 
-\#### 8 straipsnis. 16 straipsnio 1, 2 ir 5 dalių pakeitimas, 3 ir 4 dalių pripažinimas netekusiomis galios
+## 8 straipsnis. 16 straipsnio 1, 2 ir 5 dalių pakeitimas, 3 ir 4 dalių pripažinimas netekusiomis galios
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -146,7 +146,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 „5. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių techninę priežiūrą atlieka Valstybinė vidaus vandenų laivybos inspekcija susisiekimo ministro nustatyta tvarka. Žvejybos laivams, plaukiojantiems Lietuvos Respublikos teritorinėje jūroje, taikomi techniniai reikalavimai, nustatyti Lietuvos Respublikos vidaus vandenų laivų registre įregistruotiems vidaus vandenų laivams. Vidaus vandenų transporto priemonių techninė priežiūra atliekama jas apžiūrint ir nuolat kontroliuojant jų techninę būklę. Vidaus vandenų transporto priemonei leidžiama plaukti tik nustačius, kad ji atitinka saugios laivybos reikalavimus.“
 
-\#### 9 straipsnis. Kodekso penktojo skirsnio papildymas 221 straipsniu
+## 9 straipsnis. Kodekso penktojo skirsnio papildymas 221 straipsniu
 
 Kodekso penktąjį skirsnį papildyti 22^1straipsniu:
 
@@ -154,7 +154,7 @@ Kodekso penktąjį skirsnį papildyti 22^1straipsniu:
 
 Laivyba – laivų ir kitų vidaus vandenų transporto priemonių plaukiojimas Lietuvos Respublikos vidaus vandenyse (prekybinė, pramoginė, žvejybinė, linijinė ir kitos laivybos rūšys).“
 
-\#### 10 straipsnis. 28 straipsnio pakeitimas
+## 10 straipsnis. 28 straipsnio pakeitimas
 
 28 straipsnyje išbraukti žodį „perregistravimą“, po žodžių „atitinkamų dokumentų“ įrašyti žodžius „bei licencijų, numatytų šio kodekso 4^(1) straipsnyje“ ir šį straipsnį išdėstyti taip:
 
@@ -162,15 +162,15 @@ Laivyba – laivų ir kitų vidaus vandenų transporto priemonių plaukiojimas L
 
 Už laivo įregistravimą, išregistravimą, techninę apžiūrą, atitinkamų dokumentų bei licencijų, numatytų šio kodekso 4^(1) straipsnyje, išdavimą mokama nustatyto dydžio valstybės rinkliava.“
 
-\#### 11 straipsnis. 29 straipsnio pripažinimas netekusiu galios
+## 11 straipsnis. 29 straipsnio pripažinimas netekusiu galios
 
 29 straipsnį pripažinti netekusiu galios.
 
-\#### 12 straipsnis. 31 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 31 straipsnio pripažinimas netekusiu galios
 
 31 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. 38 straipsnio papildymas
+## 13 straipsnis. 38 straipsnio papildymas
 
 38 straipsnį papildyti antru sakiniu ir šį straipsnį išdėstyti taip:
 
@@ -178,7 +178,7 @@ Už laivo įregistravimą, išregistravimą, techninę apžiūrą, atitinkamų d
 
 Krovinio vežimo sutartyje vežėjas pagal priimtą užsakymą įsipareigoja priimti krovinį, pateikti laivą, pagal važtaraštį nugabenti patikėtą jam krovinį į paskirties punktą ir išduoti jį gavėjui, o siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti nustatytą užmokestį.Krovinio vežimo vidaus vandenų laivais tvarką nustato krovinių vežimo vidaus vandenų laivais taisyklės, kurias tvirtina susisiekimo ministras.“
 
-\#### 14 straipsnis. 49 straipsnio pripažinimas netekusiu galios
+## 14 straipsnis. 49 straipsnio pripažinimas netekusiu galios
 
 49 straipsnį pripažinti netekusiu galios.
 

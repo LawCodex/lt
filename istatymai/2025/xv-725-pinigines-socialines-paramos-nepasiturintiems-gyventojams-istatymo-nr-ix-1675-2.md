@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/61d87270eac411f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.61D87270EAC4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 2, 4, 7, 8, 10, 14, 15, 16, 17, 18, 19, 23, 25, 26 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO NR. IX-167
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Civiliniame kodekse, Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos užimtumo įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Valstybės paramosdaugiabučiams namams atnaujinti (modernizuoti) įstatyme.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -72,17 +72,17 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 4) socialinių paslaugų priemonėms finansuoti, jų infrastruktūrai modernizuoti ir plėtoti.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Savivaldybėms piniginei socialinei paramai ir šio straipsnio 2 dalyje nustatytai socialinei paramai finansuoti kiekvienais metais skiriama per praėjusius 3 biudžetinius metus iki metų, kuriais planuojamas kitų biudžetinių metų lėšų poreikis, faktiškai panaudotų lėšų (įskaitant lėšas, panaudotas socialinės apsaugos sritims, nustatytoms šio straipsnio 5 dalyje, finansuoti) vidutinė metinė suma, reikalinga šio įstatymo įgyvendinimui užtikrinti.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 7 straipsnio 1 dalies 3 punktą.
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -144,7 +144,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 8. Jeigu daugiabučio namo butų savininkai įgyvendino ar įgyvendina valstybės ir (ar) savivaldybės remiamą daugiabučio namo atnaujinimo (modernizavimo) projektą, jų bendrai gyvenantiems asmenims arba vienam gyvenančiam daugiabučio namo buto savininkui, kurie turi teisę į būsto šildymo išlaidų kompensaciją atnaujinamame (modernizuojamame) bute pagal energijos ar kuro sąnaudų normatyvą būsto naudingajam plotui, bet ne didesniam už šiame įstatyme nustatytą būsto naudingojo ploto normatyvą, šildyti, šildymo ir nešildymo sezono metu Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos jiems tenkančios kiekvieno mėnesio kredito ir palūkanų įmokos per kredito sutartyje nustatytą kredito grąžinimo laikotarpį. Nustatant daugiabučio namo buto savininko ir jo bendrai gyvenančių asmenų arba vieno gyvenančio daugiabučio namo buto savininko teisę į būsto šildymo išlaidų kompensaciją, apmokant jiems tenkančias kiekvieno mėnesio kredito ir palūkanų įmokas, neatsižvelgiama į tame pačiame būste gyvenamąją vietą deklaravusių ne savininkų ir (ar) būstą nuomojančių asmenų bei jų bendrai gyvenančių asmenų arba vienų gyvenančių asmenų teisę į būsto šildymo išlaidų kompensaciją. Dėl daugiabučio namo atnaujinimo (modernizavimo) projekto įgyvendinimo padidėjus atnaujinamo (modernizuojamo) ar atnaujinto (modernizuoto) daugiabučio namo vertei, kredito ir palūkanų apmokėjimas nenutraukiamas.“
 
-\#### 6 straipsnis. 10 straipsnio pakeitimas
+## 6 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 8. Jeigu šio straipsnio 5 dalyje nurodyti asmenys dirbo (savarankiškai dirbo) arba dalyvavo savivaldybės administracijos organizuojamoje visuomenei naudingoje veikloje ir (ar) savivaldybės institucijos parengtoje užimtumo didinimo programoje, nevyriausybinių organizacijų ir kitų juridinių asmenų vykdomose užimtumą skatinančiose programose ir (ar) projektuose 12 mėnesių per paskutinius 24 mėnesius, taip pat jeigu dėl socialinės pašalpos jie kreipėsi praėjus ne mažiau kaip 12 mėnesių nuo paskutinio jos gavimo laikotarpio, šio straipsnio 5 dalyje numatyti socialinės pašalpos mokėjimo laikotarpiai pradedami skaičiuoti iš naujo nuo mėnesio, kurį šios aplinkybės atsirado, pirmos dienos.“
 
-\#### 7 straipsnis. 14 straipsnio pakeitimas
+## 7 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -226,7 +226,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 2. Į bendrai gyvenančių asmenų arba vieno gyvenančio asmens turtą įskaitoma per piniginės socialinės paramos teikimo laikotarpį, praėjusį nuo paskutinio duomenų apie turtą pateikimo, perleisto nuosavybėn kitam asmeniui šio straipsnio 1 dalies 1–8 punktuose nurodyto turto arba jo dalies vertė, kuri nenurodoma kaip bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybėn įsigyto naujo turto vertė ar gautos piniginės lėšos. Ši nuostata netaikoma, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio straipsnio 1 dalyje, vertė nustatant teisę į piniginę socialinę paramą, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį piniginė socialinė parama buvo teikiama, viršijo turto vertės normatyvą ir per 3 mėnesius nuo mėnesio į teisę gauti piniginę socialinę paramą nustatymo pirmos dienos šio straipsnio 1 dalies 1–8 punktuose nurodytas turtas ar jo dalis buvo perleista nuosavybėn kitam asmeniui ir šio turto vertė nenurodoma kaip bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybėn įsigyto naujo turto vertė.“
 
-\#### 8 straipsnis. 15 straipsnio pakeitimas
+## 8 straipsnis. 15 straipsnio pakeitimas
 
 1. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -240,13 +240,13 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 „5. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, neturintiems būsto, taikomas šio straipsnio 1 dalies 1 punkte nustatytas būsto ploto normatyvas.“
 
-\#### 9 straipsnis. 16 straipsnio pakeitimas
+## 9 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Piniginių lėšų, nurodytų šio įstatymo 14 straipsnio 1 dalies 8 punkte, normatyvas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui apskaičiuojamas sudedant 30 valstybės remiamų pajamų dydžių vienam, vyresniam kaip 18 metų, bendrai gyvenančiam asmeniui arba vienam gyvenančiam asmeniui, 20 valstybės remiamų pajamų dydžių kiekvienam kitam, vyresniam kaip 18 metų, bendrai gyvenančiam asmeniui ir 10 valstybės remiamų pajamų dydžių kiekvienam vaikui (įvaikiui) iki 18 metų.“
 
-\#### 10 straipsnis. 17 straipsnio pakeitimas
+## 10 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -304,7 +304,7 @@ Pakeisti 16 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „9. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijos priemokos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos, kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat išeitinė išmoka, išmokama nutraukus darbo sutartį arba pasibaigus darbo santykiams prilygintiems teisiniams santykiams, ilgalaikio darbo išmoka, išmokos iš Garantinio fondo, mokamos pagal Garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymą,vienkartinės bei už du ar daugiau mėnesių iš karto išmokėtos kas mėnesį gaunamos pajamos ir piniginės lėšos, gautos vaikui (įvaikiui) išlaikyti (alimentai), išmokos, mokamos pagal Vaikų išlaikymo išmokų įstatymą, įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.“
 
-\#### 11 straipsnis. 18 straipsnio pakeitimas
+## 11 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -322,7 +322,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 4. Jeigu vienam iš bendrai gyvenančių asmenų socialinė pašalpa pagal šio įstatymo 8 straipsnio 5 dalies 1 ar 3 punktą neteikiama, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, šio asmens gaunamos pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos ir jam tenkanti pajamų dalis nenustatoma, o socialinė pašalpa skiriama likusiems bendrai gyvenantiems asmenims.“
 
-\#### 12 straipsnis. 19 straipsnio pakeitimas
+## 12 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -332,7 +332,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 „7. Jeigu vienam iš bendrai gyvenančių asmenų būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos pagal šio įstatymo 8 straipsnio 5 dalies 1 ar 3 punktą neteikiamos, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, šio asmens gaunamos pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos ir jam tenkanti pajamų dalis nenustatoma, o kompensacijos skiriamos likusiems bendrai gyvenantiems asmenims.“
 
-\#### 13 straipsnis. 23 straipsnio pakeitimas
+## 13 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -410,7 +410,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 10) skirti piniginę socialinę paramą kaip vienam gyvenančiam asmeniui pilnamečiam vaikui (įvaikiui) iki 24 metų, kuris mokosi pagal bendrojo ugdymo programą (įskaitant laikotarpį nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos) ar pagal formaliojo profesinio mokymo programą ar jos modulį arba studijuoja aukštojoje mokykloje (išskyrus klausytojus) (įskaitant asmenis akademinių atostogų, suteiktų dėl ligos ar nėštumo ir gimdymo arba atlikti privalomąją pradinę karo tarnybą, laikotarpiu), kai mirė vienas iš jo tėvų (įtėvių).“
 
-\#### 14 straipsnis. 25 straipsnio pakeitimas
+## 14 straipsnis. 25 straipsnio pakeitimas
 
 1. Pakeisti 25 straipsnio 7 punktą ir jį išdėstyti taip:
 
@@ -420,13 +420,13 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 „8)kai yra įsiskolinimų už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį, ne vėliau kaip per mėnesį nuo prašymo-paraiškos dėl kompensacijų gavimo pateikimo dienos sudaryti sutartį (sutartis) dėl dalies skolos apmokėjimosu energijos, kuro, vandens tiekėjais, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens mėnesio pajamų sumos, jeigu teismas nėra priteisęs apmokėti skolą.“
 
-\#### 15 straipsnis. 26 straipsnio pakeitimas
+## 15 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu neteisėtai gauta piniginė socialinė parama negrąžinta arba neišskaičiuota, likusi skola išieškoma Civilinio proceso kodekso nustatyta tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.“
 
-\#### 16 straipsnis. Įstatymo priedo pakeitimas
+## 16 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -448,7 +448,7 @@ priedas
 
 __________________“.
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+## 17 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 3 straipsnį ir šio straipsnio 6 dalį, įsigalioja 2026 m. birželio 1 d.
 

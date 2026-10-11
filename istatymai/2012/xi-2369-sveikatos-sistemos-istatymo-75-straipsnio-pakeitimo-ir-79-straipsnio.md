@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9BBFFBF8A7B6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9BBFFBF8A7B6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 75 straipsnio pakeitimo ir 79 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A); 2003, Nr. [32-1312](https://www.e-tar.lt/portal/lt/legalAct/TAR.53357A73EC82))
 
-\#### 1 straipsnis. 75 straipsnio pakeitimas
+## 1 straipsnis. 75 straipsnio pakeitimas
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 3. Už šio straipsnio 2 dalies 8 punkte nurodytus veiksmus imama nustatyto dydžio valstybės rinkliava. Už kitas šio straipsnio 2 dalyje vykdomas funkcijas imama nustatyto dydžio valstybės rinkliava, jei tai numato kiti įstatymai.“
 
-\#### 2 straipsnis. 79 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 79 straipsnio pripažinimas netekusiu galios
 
 79 straipsnį pripažinti netekusiu galios.
 

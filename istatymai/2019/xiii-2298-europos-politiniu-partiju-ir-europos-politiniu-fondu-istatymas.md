@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4eb521c0ad3b11e98451fa7b5933515d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EB521C0AD3B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Europos politinių partijų ir Europos politinių fondų įstatymas
@@ -26,13 +26,13 @@ EUROPOS POLITINIŲ PARTIJŲ IR EUROPOS POLITINIŲ FONDŲ
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas reglamentuoja juridinių asmenų, kurių teisinė forma yra Europos politinė partija arba Europos politinis fondas, steigimą ir likvidavimą tiek, kiek tai nereglamentuojama šio įstatymo priede nurodytame Reglamente (ES, Euratomas) Nr. 1141/2014.
 
 2. Europos politinėms partijoms ir Europos politiniams fondams, kurių buveinė yra Lietuvos Respublikos teritorijoje, taikomi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos civilinis kodeksas ir mutatis mutandis įstatymai, reglamentuojantys asociacijų veiklą, kiek tai nenustatyta Reglamente (ES, Euratomas) Nr. 1141/2014 ir šiame įstatyme.
 
-\#### 2 straipsnis. Europos politinės partijos arba Europos politinio fondo steigimas
+## 2 straipsnis. Europos politinės partijos arba Europos politinio fondo steigimas
 
 1. Lietuvos Respublikos teisingumo ministerija, gavusi prašymą išduoti pažymą, patvirtinančią, kad steigiama Europos politinė partija arba Europos politinis fondas ir jų statutai atitinka Lietuvos Respublikos Konstituciją, šį ir kitus šio įstatymo 1 straipsnio 2 dalyje nurodytus įstatymus, patikrina, ar steigiama Europos politinė partija arba Europos politinis fondas, kurių buveinė yra Lietuvos Respublikos teritorijoje, ir jų statutai atitinka Lietuvos Respublikos Konstituciją, šį ir kitus šio įstatymo 1 straipsnio 2 dalyje nurodytus įstatymus, ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda prašomą pažymą.
 
@@ -46,7 +46,7 @@ Vilnius
 
 6. Europos politinių partijų ir Europos politinių fondų registravimo Juridinių asmenų registre, taip pat duomenų ir dokumentų pakeitimų įrašymo į Juridinių asmenų registrą tvarka nustatoma Juridinių asmenų registro nuostatuose.
 
-\#### 3 straipsnis. Europos politinės partijos arba Europos politinio fondo likvidavimas
+## 3 straipsnis. Europos politinės partijos arba Europos politinio fondo likvidavimas
 
 1. Įsigaliojus Europos politinių partijų ir Europos politinių fondų institucijos sprendimui išbraukti Europos politinę partiją arba Europos politinį fondą iš Europos politinių partijų ir Europos politinių fondų registro, Europos politinė partija arba Europos politinis fondas, kurių buveinė yra Lietuvos Respublikos teritorijoje, likviduojami.
 
@@ -72,13 +72,13 @@ Vilnius
 
 5) panaikinti Europos politinės partijos arba Europos politinio fondo interneto svetainės adresą, jeigu Europos politinė partija arba Europos politinis fondas jį turi.
 
-\#### 4 straipsnis. Bendradarbiavimas su Europos politinių partijų ir Europos politinių fondų institucija
+## 4 straipsnis. Bendradarbiavimas su Europos politinių partijų ir Europos politinių fondų institucija
 
 1. Prieš paskelbiant Europos Sąjungos oficialiajame leidinyje sprendimą Europos politinę partiją arba Europos politinį fondą, kurių buveinė yra Lietuvos Respublikos teritorijoje, užregistruoti Europos politinių partijų ir Europos politinių fondų registre arba išbraukti juos iš šio registro, Teisingumo ministerija konsultuoja Europos politinių partijų ir Europos politinių fondų instituciją pagal Reglamento (ES, Euratomas) Nr. 1141/2014 15 straipsnio 4 dalį ir 16 straipsnio 4 dalį.
 
 2. Teisingumo ministerija, kaip tai nustatyta Reglamento (ES, Euratomas) Nr. 1141/2014 16 straipsnio 3 dalyje, Europos politinių partijų ir Europos politinių fondų institucijai gali pateikti pagrįstą prašymą nutraukti Europos politinės partijos arba Europos politinio fondo, kurių buveinė yra Lietuvos Respublikos teritorijoje, registraciją, jeigu jų veikla neatitinka Lietuvos Respublikos Konstitucijos, šio ir kitų šio įstatymo 1 straipsnio 2 dalyje nurodytų įstatymų.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2019 m. spalio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6D1C5EC094C0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6D1C5EC094C0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D); 2005, Nr. [71-2555](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FC84684F94); 2006, Nr. [87-3407](https://www.e-tar.lt/portal/lt/legalAct/TAR.F9844713CA1B); 2008, Nr. [127-4833](https://www.e-tar.lt/portal/lt/legalAct/TAR.50FB23C65707), Nr. [149-6003](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D0039B70E7F), Nr. [149-6026](https://www.e-tar.lt/portal/lt/legalAct/TAR.4177750FC16B); 2009, Nr. [151-6776](https://www.e-tar.lt/portal/lt/legalAct/TAR.37D28B00E8C5); 2011, Nr. [77-3723](https://www.e-tar.lt/portal/lt/legalAct/TAR.7813375FF647))
 
-\#### 1 straipsnis. 56 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 56 straipsnio 2 dalies pakeitimas
 
 56 straipsnio 2 dalyje vietoj skaičiaus „2012“ įrašyti skaičių „2013“ ir šią dalį išdėstyti taip:
 

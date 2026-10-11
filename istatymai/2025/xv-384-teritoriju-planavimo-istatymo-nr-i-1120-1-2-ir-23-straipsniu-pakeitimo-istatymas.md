@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6879bd6055d111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6879BD6055D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 23 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ TERITORIJŲ PLANAVIMO ĮSTATYMO NR. I-1120 1, 2 IR 23 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 1^1 dalį ir ją išdėstyti taip:
 
 „1^1. Šio įstatymo nuostatos, išskyrus šio įstatymo 4 straipsnio 6 dalį, netaikomos teritorijoms, kurioms Lietuvos Respublikos žemės įstatymo nustatyta tvarka rengiami karinės infrastruktūros projektai karinei infrastruktūrai, nurodytai Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše, pritaikyti ir (ar) sukurti arba specialiosios paskirties projektai stambiems projektams arba gynybos ir saugumo pramonės projektams, Lietuvos Respublikos Vyriausybės nutarimu pripažintiems užtikrinančiais neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 47 dalį ir ją išdėstyti taip:
 
 „47. Sąvokos „stambus projektas“ ir „gynybos ir saugumo pramonės projektas“ suprantamos taip, kaip apibrėžiamos Investicijų įstatyme.“
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas
+## 3 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 9. Vystant stambiems projektams skirtas teritorijas, Ekonomikos ir inovacijų ministerijos pasirinkimu taikoma bendra arba šiame straipsnyje numatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Pasirinkus taikyti bendrą teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką, šio įstatymo 35 straipsnio 4 dalies nuostatos netaikomos.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F270E9DB8FA1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 2, 3, 5, 8, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84), Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194); 1996, Nr. [73-1750](https://www.e-tar.lt/portal/lt/legalAct/TAR.A766B68AB31D); 1997, Nr. [38-925](https://www.e-tar.lt/portal/lt/legalAct/TAR.4084293C296E))
 
-\#### 1 straipsnis. 2 straipsnio papildymas
+## 1 straipsnis. 2 straipsnio papildymas
 
 2 straipsnio pavadinime po žodžio „šaltinis“ įrašyti žodžius „ir dydžio matas“, straipsnį papildyti 2 dalimi ir išdėstyti taip:
 
@@ -38,7 +38,7 @@ Visos valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės biudžet
 
 Valstybinių pensijų dydžio matas yra valstybinių pensijų bazė, kuri 1998 m. sausio 1 d. yra lygi tuo metu taikomam valstybinės socialinio draudimo bazinės pensijos dydžiui. Valstybinių pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 3 straipsnio 2 dalį pakeisti, 3 dalyje po skaičiaus ir žodžio „1 straipsnio“ įrašyti skaičių ir žodį „1 dalies“, po žodžių „valstybinių pensijų dydis“ įrašyti žodžius „kiekvienos atskirai ar“, vietoj žodžių „valstybinio sektoriaus, akcinių bei uždarųjų akcinių bendrovių“ įrašyti žodžius „Lietuvos Respublikos ūkio“ ir šį straipsnį išdėstyti taip:
 
@@ -50,13 +50,13 @@ Asmeniui, turinčiam teisę gauti valstybinę našlių pensiją už mirusį vals
 
 Šio įstatymo 1 straipsnio 1 dalies 3–5 punktuose nustatytų valstybinių pensijų dydiskiekvienos atskirai ar kartu su valstybine socialinio draudimo pensija vienam asmeniui negali viršyti pusantro užpraeito mėnesio prieš pensijos mokėjimą Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamoLietuvos Respublikos ūkio darbuotojų vidutinio mėnesinio darbo užmokesčio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.“
 
-\#### 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
 
 5 straipsnio 3 dalyje vietoj skaičių ir žodžių „35 pirmojo laipsnio ir daugiau kaip 90 antrojo laipsnio valstybinių pensijų“ įrašyti skaičius ir žodžius „15 pirmojo laipsnio valstybinių pensijų ir daugiau kaip 45 antrojo laipsnio valstybinės pensijos“ ir šią dalį išdėstyti taip:
 
 „Per vienerius kalendorinius metus negali būti paskirta daugiau kaip 15 pirmojo laipsnio valstybinių pensijų ir daugiau kaip 45antrojo laipsnio valstybinės pensijos.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 8 straipsnio 1 ir 2 dalyse vietoj žodžių „valstybinių socialinio draudimo bazinių pensijų“ įrašyti žodžius „valstybinių pensijų bazių“ ir šį straipsnį išdėstyti taip:
 
@@ -68,19 +68,19 @@ Antrojo laipsnio valstybinė pensija yra dviejų valstybinių pensijų bazių dy
 
 Pirmojo ir antrojo laipsnių valstybinės pensijos mokamos, nepaisant jas gaunančio asmens pajamų.“
 
-\#### 5 straipsnis. 10 straipsnio 3 dalies 2 punkto pakeitimas
+## 5 straipsnis. 10 straipsnio 3 dalies 2 punkto pakeitimas
 
 10 straipsnio 3 dalies 2 punkte vietoj žodžių „valstybinė socialinio draudimo bazinė pensija“ įrašyti žodžius „valstybinių pensijų bazė“ ir šį punktą išdėstyti taip:
 
 „2) jei personalinės pensijos gavėjas turi teisę gauti mažesnę pirmojo arba antrojo laipsnio valstybinę ar valstybinę socialinio draudimo pensiją arba iš viso neturi teisės šių pensijų gauti, toliau mokama ankstesnė personalinė pensija, kuri indeksuojama kartu ir tiek pat kaip valstybinių pensijų bazė.“
 
-\#### 6 straipsnis. 11 straipsnio 4 dalies pakeitimas ir papildymas
+## 6 straipsnis. 11 straipsnio 4 dalies pakeitimas ir papildymas
 
 11 straipsnio 4 dalyje vietoj „1954“ metų įrašyti „1990“ metus, dalį papildyti sakiniu „Tarnybų ir pareigų, kurias ėjusiems tose institucijose (struktūrose) asmenims neskiriamos nukentėjusiųjų asmenų valstybinės pensijos, sąrašą tvirtina Lietuvos Respublikos Vyriausybė“ ir šią dalį išdėstyti taip:
 
 „Nukentėjusiųjų asmenų valstybinės pensijos neskiriamos šio straipsnio pirmojoje ir antrojoje dalyse nurodytiems asmenims, jeigu jie 1939-1990 metais tarnavo ar dirbo baudžiamuose (naikintojų), „liaudies gynėjų“ būriuose ar junginiuose, buvusio TSRS Saugumo komiteto bei kitose struktūrose, kurių veikla buvo nukreipta kovai prieš rezistencinį judėjimą Lietuvoje ar vykdyti Lietuvos gyventojų genocidą. Tarnybų ir pareigų, kurias ėjusiems tose institucijose (struktūrose) asmenims neskiriamos nukentėjusiųjų asmenų valstybinės pensijos, sąrašą tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 7 straipsnis. 12 straipsnio pakeitimas
+## 7 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnio 1 dalies 1 ir 2 punktuose vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“, 2 dalyje vietoj žodžių „valstybinių socialinio draudimo bazinių pensijų“ įrašyti žodžius „valstybinių pensijų bazių“ ir šį straipsnį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Nukentėjusiųjų asmenų valstybinė pensija skiriama asmenims, tapusiems inval
 
 Nukentėjusiųjų asmenų valstybinė pensija skiriama asmenų, žuvusių dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, motinoms, sukakusioms 50 metų arba pripažintoms invalidėmis, taip pat tėvams, sukakusiems senatvės pensijos amžių arba pripažintiems invalidais. Šiems asmenims mokama dviejų valstybinių pensijų bazių dydžio nukentėjusiųjų asmenų valstybinė pensija. „
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas
+## 8 straipsnis. 13 straipsnio pakeitimas
 
 13 straipsnio 1 dalyje, 2 dalies 1 ir 2 punktuose bei 3 dalyje vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“ ir šį straipsnį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Nukentėjusiųjų asmenų valstybinė pensija skiriama asmenų, žuvusių dėl 1
 
 Nukentėjusiųjų asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams, tapusiems I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.“
 
-\#### 9 straipsnis. 14 straipsnio pakeitimas
+## 9 straipsnis. 14 straipsnio pakeitimas
 
 14 straipsnio 1 dalies 2 punkte vietoj žodžių „sukakusioms senatvės pensijos amžių arba pripažintoms invalidėmis“ įrašyti žodžius „nepaisant amžiaus“, 3 punktą pripažinti netekusiu galios, 2 dalyje vietoj žodžių „valstybinių socialinio draudimo bazinių pensijų“ įrašyti žodžius „valstybinių pensijų bazių“, 4 dalyje vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“ ir šį straipsnį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija taip pat 
 
 Šio straipsnio trečiojoje dalyje nurodytų asmenų sutuoktiniams ir vaikams nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta Valstybinių socialinio draudimo pensijų įstatymo straipsniuose, reguliuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinių pensijų bazės.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 1998 m. sausio 1 d.
 

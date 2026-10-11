@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5559AA4092A1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5559AA4092A1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 2, 6, 8, 15, 16, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [149-6022](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB86E35BB7CC))
 
-\#### 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2) už 2010 metus – nuo per kalendorinius metus gautų individualios žemės ūkio veiklos pajamų mokamos 6 procentų dydžio privalomojo sveikatos draudimo įmokos, bet per metus ne mažiau kaip 9 procentų dvylikos minimaliųjų mėnesinių algų, galiojančių įmokos mokėjimo dieną, dydžio įmokos.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir mokant 2010 metų privalomojo sveikatos draudimo įmokas.
 

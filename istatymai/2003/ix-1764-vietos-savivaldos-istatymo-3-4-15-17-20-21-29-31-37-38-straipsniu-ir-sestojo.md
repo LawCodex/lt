@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.78C3401CE39C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.78C3401CE39C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 3, 4, 15, 17, 20, 21, 29, 31, 37, 38 straipsnių ir šeštojo skirsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [64-2323](https://www.e-tar.lt/portal/lt/legalAct/TAR.03EBC0E3CBDD), Nr. [85-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B), Nr. [99-3519](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFE120E0C90), Nr. [110-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BB7B6C28341); 2002, Nr. [43-1604](https://www.e-tar.lt/portal/lt/legalAct/TAR.348B9DD92898), Nr. [68-2765](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD04B83C77C4), Nr. [103-4605](https://www.e-tar.lt/portal/lt/legalAct/TAR.A88DB35EF35C), Nr. [112-4976](https://www.e-tar.lt/portal/lt/legalAct/TAR.BBF0762214AC); 2003, Nr. [12-439](https://www.e-tar.lt/portal/lt/legalAct/TAR.2851349DA8D6), Nr.[17-704](https://www.e-tar.lt/portal/lt/legalAct/TAR.182DFEB57DD1), Nr. [28-1124](https://www.e-tar.lt/portal/lt/legalAct/TAR.9490DA782C64), Nr. [38-1694](https://www.e-tar.lt/portal/lt/legalAct/TAR.1530579F7935), Nr. [73-3357](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6287A13797B))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstytitaip:
 
@@ -52,13 +52,13 @@ Pakeisti 3 straipsnį ir jį išdėstytitaip:
 
 9. Bendruomenė – atitinkamoje teritorijoje nuolat gyvenantys asmenys, susieti bendrais viešaisiais poreikiais ir interesais.“
 
-\#### 2 straipsnis. 4 straipsnio 9 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 9 punkto pakeitimas
 
 4 straipsnio 9 punkte po žodžio „laisvių“ įrašyti žodžius „bei moterų ir vyrų lygių galimybių“ ir šį punktą išdėstyti taip:
 
 „9) žmogaus teisių bei laisvių užtikrinimas ir gerbimas. Savivaldybės institucijų ar valstybės tarnautojų priimami sprendimai neturi pažeisti žmogaus orumo, jo teisių ir laisvių bei moterų ir vyrų lygių galimybių.“
 
-\#### 3 straipsnis. 15 straipsnio 4 dalies 3, 4 ir 6 punktų pakeitimas
+## 3 straipsnis. 15 straipsnio 4 dalies 3, 4 ir 6 punktų pakeitimas
 
 1. Pakeisti 15 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 3 straipsnį ir jį išdėstytitaip:
 
 „6) periodiškai (kartą per ketvirtį) svarsto, kaip vykdomas savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) veiklos planas, savivaldybėskontrolieriaus ar savo iniciatyva išklauso institucijų, įstaigų ir įmonių vadovus dėl savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) atlikto finansinio ir veiklos auditometu nustatytų trūkumų ar teisės aktų pažeidimų pašalinimo, prireikus kreipiasi į savivaldybės administracijos direktorių dėl savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) reikalavimų įvykdymo;“.
 
-\#### 4 straipsnis. 17 straipsnio 8 ir 11 punktų pakeitimas
+## 4 straipsnis. 17 straipsnio 8 ir 11 punktų pakeitimas
 
 1. Pakeisti 17 straipsnio 8 punktą ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 3 straipsnį ir jį išdėstytitaip:
 
 „11) tvirtina savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos)bei visuomeninių komisijų ir tarybų veiklos nuostatus;“.
 
-\#### 5 straipsnis. 20 straipsnio 1 ir 7 dalių pakeitimas
+## 5 straipsnis. 20 straipsnio 1 ir 7 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 3 straipsnį ir jį išdėstytitaip:
 
 „7. Po savo kadencijos pabaigos meras bei mero pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju, turi teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms arba jie ėjo savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje kitas pareigas. Jeigu šie asmenys iki išrinkimo savivaldybės tarybos nariais tokių pareigų nėjo, jiems išmokama 3 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3 mėnesių, likusi neišmokėta išmokos dalis nemokama. Jeigu šie asmenys mero ir mero pavaduotojo pareigas ėjo mažiau kaip vienerius metus iki kadencijos pabaigos, jiems išmokama 1 mėnesio jų vidutinio darbo užmokesčio dydžio išmoka. Nutrūkus mero bei mero pavaduotojo įgaliojimams prieš terminą, kai jiems nepasitikėjimą pareiškia ne mažiau kaip 1/3 tarybos narių ir už tokį sprendimą balsavo ne mažiau kaip 1/2 visų tarybos narių, jiems išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka.“
 
-\#### 6 straipsnis. 21 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 21 straipsnio 2 dalies pakeitimas
 
 Papildyti 21 straipsnio 2 dalį nauju 7 punktu, buvusius 7, 8, 9 punktus laikyti atitinkamai 8, 9, 10 punktais ir šią dalį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Papildyti 21 straipsnio 2 dalį nauju 7 punktu, buvusius 7, 8, 9 punktus laikyti
 
 10) kontroliuoja pasirengimą vietos gyventojų apklausai ir ją organizuoja.“
 
-\#### 7 straipsnis. Šeštojo skirsnio pakeitimas
+## 7 straipsnis. Šeštojo skirsnio pakeitimas
 
 Pakeisti šeštąjį skirsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti šeštąjį skirsnį ir jį išdėstyti taip:
 
 SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
-\#### 27 straipsnis. Savivaldybės kontrolierius (savivaldybės kontrolieriaus tarnyba)
+## 27 straipsnis. Savivaldybės kontrolierius (savivaldybės kontrolieriaus tarnyba)
 
 1. Savivaldybės kontrolierius (savivaldybės kontrolieriaus tarnyba) atlieka finansinį ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose bei savivaldybės kontroliuojamose įmonėse. Savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) atliekamo audito išorinę peržiūrą atlieka Valstybės kontrolė.
 
@@ -194,7 +194,7 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 5) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir įstatymų nustatyta tvarka juos teikia nagrinėti savivaldybės tarybos Administracinei komisijai.
 
-\#### 28 straipsnis. Centralizuota savivaldybės vidaus audito tarnyba
+## 28 straipsnis. Centralizuota savivaldybės vidaus audito tarnyba
 
 1. Centralizuota savivaldybės vidaus audito tarnyba savo veikloje vadovaujasi Vidaus kontrolės ir vidaus audito įstatymo nuostatomis bei kitais teisės aktais, reglamentuojančiais vidaus auditą.
 
@@ -206,7 +206,7 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 5. Centralizuotos savivaldybės vidaus audito tarnybos vadovas ir vidaus auditoriai yra karjeros valstybės tarnautojai. Pretendentų į centralizuotos savivaldybės vidaus audito tarnybos vadovo pareigas konkurso komisiją sudaro savivaldybės administracijos direktorius. Būti šios komisijos nariu turi būti kviečiamas Finansų ministerijos atstovas.“
 
-\#### 8 straipsnis. 29 straipsnio 4 dalies ir 5 dalies 3 punkto pakeitimas bei 5 dalies papildymas 9 punktu
+## 8 straipsnis. 29 straipsnio 4 dalies ir 5 dalies 3 punkto pakeitimas bei 5 dalies papildymas 9 punktu
 
 1. Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -220,23 +220,23 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 „9) savivaldybės tarybos veiklos reglamento nustatyta tvarka ir terminais, bet ne rečiau kaip kartą per metus informuoja savivaldybės gyventojus apie savo veiklą.“
 
-\#### 9 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 31 straipsnio 1 dalyje vietoj žodžio „mero“ įrašyti žodžius „administracijos direktoriaus“ ir šią dalį išdėstyti taip:
 
 „1. Seniūnijos veiklą reglamentuoja savivaldybės administracijos direktoriauspatvirtinti seniūnijos veiklos nuostatai. Seniūnijos veikla finansuojama iš savivaldybės biudžeto, tam seniūnijai skiriami reikiami asignavimai.“
 
-\#### 10 straipsnis. 37 straipsnio 5 dalies pripažinimas netekusia galios
+## 10 straipsnis. 37 straipsnio 5 dalies pripažinimas netekusia galios
 
 37 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 11 straipsnis. 38 straipsnio 5 dalies pakeitimas
+## 11 straipsnis. 38 straipsnio 5 dalies pakeitimas
 
 38 straipsnio 5 dalyje išbraukti žodžius „Vyriausybės nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 „5. Valstybė remia savivaldybių tarybų narių bei valstybės tarnautojų mokymą ir kvalifikacijos kėlimą.“
 
-\#### 12 straipsnis. Baigiamosios nuostatos
+## 12 straipsnis. Baigiamosios nuostatos
 
 1. Šio Įstatymo 1, 3, 4, 6, 7 ir 10 straipsniai įsigalioja nuo 2004 m. sausio 1 d.
 

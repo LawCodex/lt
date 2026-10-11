@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.58AEF2A00D62"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.58AEF2A00D62.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 29, 34, 35, 37, 63, 64, 65, 70, 74, 75 straipsnių ir priedo pakeitimo ir papildymo įstatymas
@@ -24,29 +24,29 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2005, Nr. [84-3109](https://www.e-tar.lt/portal/lt/legalAct/TAR.63035C474AB7); 2006, Nr. [82-3252](https://www.e-tar.lt/portal/lt/legalAct/TAR.348FD207192A); 2008, Nr. [63-2378](https://www.e-tar.lt/portal/lt/legalAct/TAR.8FF4E34B9483))
 
-\#### 1 straipsnis. 29 straipsnio 7 dalies pakeitimas
+## 1 straipsnis. 29 straipsnio 7 dalies pakeitimas
 
 29 straipsnio 7 dalies antrame sakinyje vietoj žodžių „Archyvų įstatymo“ įrašyti žodžius „Dokumentų ir archyvų įstatymo“ ir šią dalį išdėstyti taip:
 
 „7. Protokolai ar kiti dokumentai, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, yra oficialūs dokumentai. Jie saugomi ir tvarkomi Dokumentų ir archyvų įstatymo nustatyta tvarka. Šių dokumentų klastojimas baudžiamas įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. 34 straipsnio 8 dalies pakeitimas
+## 2 straipsnis. 34 straipsnio 8 dalies pakeitimas
 
 34 straipsnio 8 dalyje išbraukti antrą sakinį ir šią dalį išdėstyti taip:
 
 „8. Valdyba analizuoja, vertina bendrovės metinės finansinės atskaitomybės projektą bei pelno (nuostolių) paskirstymo projektą ir kartu su bendrovės metiniu pranešimu teikia juos stebėtojų tarybai bei visuotiniam akcininkų susirinkimui.“
 
-\#### 3 straipsnis. 35 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 35 straipsnio 4 dalies pakeitimas
 
 Pakeisti 35 straipsnio 4 dalies trečią sakinį ir šią dalį išdėstyti taip:
 
 „4. Valdyba gali priimti sprendimus ir jos posėdis laikomas įvykusiu, kai jame dalyvauja daugiau kaip 2/3 valdybos narių, jei bendrovės įstatuose nenustatytas didesnis dalyvaujančių posėdyje šių narių skaičius. Iš anksto balsavę valdybos nariai laikomi dalyvaujančiais posėdyje. Valdybos sprendimas yra priimtas, kai už jį balsuoja daugiau kaip pusė visų išrinktų valdybos narių, jeigu bendrovės įstatai nenustato didesnės daugumos.“
 
-\#### 4 straipsnis. 37 straipsnio 7 dalies pripažinimas netekusia galios
+## 4 straipsnis. 37 straipsnio 7 dalies pripažinimas netekusia galios
 
 37 straipsnio 7 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 63 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 63 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 63 straipsnį nauja 5 dalimi:
 
@@ -58,7 +58,7 @@ Pakeisti 35 straipsnio 4 dalies trečią sakinį ir šią dalį išdėstyti taip
 
 „8. Reorganizavimo sąlygos juridinių asmenų registro tvarkytojui turi būti pateiktos ne vėliau kaip pirmą viešo paskelbimo apie jų sudarymą įstatuose nurodytame dienraštyje dieną. Kartu su reorganizavimo sąlygomis juridinių asmenų registro tvarkytojui turi būti pateikta reorganizavimo sąlygų vertinimo ataskaita, išskyrus šio straipsnio 5 dalyje nustatytą atvejį.“
 
-\#### 6 straipsnis. 64 straipsnio papildymas ir pakeitimas
+## 6 straipsnis. 64 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 64 straipsnį nauja 2 dalimi:
 
@@ -66,7 +66,7 @@ Pakeisti 35 straipsnio 4 dalies trečią sakinį ir šią dalį išdėstyti taip
 
 2. Buvusią 64 straipsnio 2 dalį laikyti 3 dalimi.
 
-\#### 7 straipsnis. 65 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 65 straipsnio 2 dalies pakeitimas
 
 Pakeisti 65 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 65 straipsnio 2 dalį ir ją išdėstyti taip:
 
 5) reorganizuojamų ir reorganizavime dalyvaujančių bendrovių valdybų (jeigu valdyba nesudaroma – bendrovės vadovo) parengtomis reorganizavimo ataskaitomis apie numatomą reorganizavimą, išskyrus šio Įstatymo 64 straipsnio 2 dalyje nustatytą atvejį.“
 
-\#### 8 straipsnis. 70 straipsnio pakeitimas
+## 8 straipsnis. 70 straipsnio pakeitimas
 
 Pakeisti 70 straipsnį ir jį išdėstyti taip:
 
@@ -92,25 +92,25 @@ Pakeisti 70 straipsnį ir jį išdėstyti taip:
 
 2. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų savininkė, netaikomos šio Įstatymo 63 straipsnio 2, 3, 4 ir 5 dalys, 64 straipsnis ir 65 straipsnio 2 dalies 4 ir 5 punktai. Šiuo atveju, jeigu kiti prijungiamos bendrovės akcininkai reikalauja, bendrovė iki reorganizavimo pabaigos privalo jų akcijas išpirkti. Akcijų išpirkimui taikomos šio Įstatymo 67 straipsnio 3 dalies nuostatos.“
 
-\#### 9 straipsnis. 74 straipsnio 2 dalies 4 punkto pakeitimas
+## 9 straipsnis. 74 straipsnio 2 dalies 4 punkto pakeitimas
 
 74 straipsnio 2 dalies 4 punkte vietoj žodžių „Archyvų įstatymo“ įrašyti žodžius „Dokumentų ir archyvų įstatymo“ ir šį punktą išdėstyti taip:
 
 „4) perduoti likviduotos bendrovės dokumentus saugoti Dokumentų ir archyvų įstatymo nustatyta tvarka;“.
 
-\#### 10 straipsnis. 75 straipsnio 10 dalies pakeitimas
+## 10 straipsnis. 75 straipsnio 10 dalies pakeitimas
 
 75 straipsnio 10 dalyje vietoj žodžių „Archyvų įstatymo“ įrašyti žodžius „Dokumentų ir archyvų įstatymo“ ir šią dalį išdėstyti taip:
 
 „10. Veiklą nutraukusio užsienio bendrovės filialo dokumentai iki filialo išregistravimo perduodami saugoti įmonėms Dokumentų ir archyvų įstatymo nustatyta tvarka.“
 
-\#### 11 straipsnis. Įstatymo priedo papildymas
+## 11 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 10 punktu:
 
 „10. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/63/EB, iš dalies keičianti Tarybos direktyvas 78/855/EEB ir 82/891/EEB dėl reikalavimo, kad jungiant arba skaidant akcines bendroves nepriklausomas ekspertas parengtų ataskaitą (OL 2007 L 300, p. 47).“
 
-\#### 12 straipsnis. Šio įstatymo 3 straipsnio įsigaliojimas
+## 12 straipsnis. Šio įstatymo 3 straipsnio įsigaliojimas
 
 Šio įstatymo 3 straipsnis įsigalioja 2009 m. liepos 1 d.
 

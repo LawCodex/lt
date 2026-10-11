@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0e36dda089a611e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0E36DDA089A6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo dėl Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra euras (euro), pakeitimo, priimto 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES, ratifikavimo Nr. XI-2058 pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos įstatymo „Dėl Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra euras (euro), pakeitimo, priimto 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES, ratifikavimo“ Nr. XI-2058 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos įstatymo „Dėl Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra euras (euro), pakeitimo, priimto 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES, ratifikavimo“ Nr. XI-2058 nauja redakcija
 
 Pakeisti Lietuvos Respublikos įstatymą „Dėl Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra euras (*euro*), pakeitimo, priimto 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES, ratifikavimo“ Nr. XI-2058 ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti Lietuvos Respublikos įstatymą „Dėl Sutarties dėl Europos Sąjungo
 
 DĖL SUTARTIES DĖL EUROPOS SĄJUNGOS VEIKIMO 136 STRAIPSNIO, KIEK TAI SUSIJĘ SU STABILUMO MECHANIZMU, TAIKYTINU VALSTYBĖMS NARĖMS, KURIŲ VALIUTA YRA EURO, PAKEITIMO, PRIIMTO 2011 M. KOVO 25 D. EUROPOS VADOVŲ TARYBOS SPRENDIMU 2011/199/ES, RATIFIKAVIMO
 
-\#### 1 straipsnis. Sutarties pakeitimo ratifikavimas
+## 1 straipsnis. Sutarties pakeitimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. rugsėjo 26 d. dekretą Nr. 1K-825, ratifikuoja Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra *euro*, pakeitimą, priimtą 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES (OL 2011 L 303, p. 49).“
 

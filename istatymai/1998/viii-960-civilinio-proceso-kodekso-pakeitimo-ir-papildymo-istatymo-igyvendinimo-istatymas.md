@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.25AD93601F84"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25AD93601F84.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymo įgyvendinimo įstatymas
@@ -26,13 +26,13 @@ CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos apeliacinio teismo ir apygardų teismų kompetencija
+## 1 straipsnis. Lietuvos apeliacinio teismo ir apygardų teismų kompetencija
 
 1. Gautus ir iki 1999 m. sausio 1 d. neišnagrinėtus kasacinius skundus, prašymus pateikti teikimą, taip pat neišnagrinėtus teikimus dėl apylinkių teismų ar Apeliacinio teismo sprendimų ar nutarčių, nenagrinėtų kasacine tvarka, Lietuvos apeliacinis teismas ir apygardų teismai išnagrinėja pagal iki 1999 m. sausio 1 d. galiojusias procesines normas.
 
 2. Lietuvos apeliacinis teismas ir apygardų teismai kasacinius skundus, prašymus pateikti teikimą, gautus po 1999 m. sausio 1 d., persiunčia Lietuvos Aukščiausiajam Teismui.
 
-\#### 2 straipsnis. Lietuvos Aukščiausiojo Teismo kompetencija
+## 2 straipsnis. Lietuvos Aukščiausiojo Teismo kompetencija
 
 Lietuvos Aukščiausiasis Teismas:
 
@@ -40,7 +40,7 @@ Lietuvos Aukščiausiasis Teismas:
 
 2) gautus ir iki 1999 m. sausio 1 d. neišnagrinėtus prašymus pateikti teikimą, taip pat neišnagrinėtus teikimus Aukščiausiojo Teismo senatui dėl įsiteisėjusių Aukščiausiojo Teismo Civilinių bylų skyriaus teisėjų kolegijos nutarčių, priimtų nagrinėjant bylas kasacine tvarka, ar Apeliacinio teismo Civilinių bylų skyriaus teisėjų kolegijos nutarčių, priimtų nagrinėjant bylas kasacine tvarka, išnagrinėja kasacine tvarka išplėstinė teisėjų kolegija pagal procesines normas, galiosiančias nuo 1999 m. sausio 1 d. Tai nelaikoma pakartotiniu kasaciniu skundu.
 
-\#### 3 straipsnis. Teisė paduoti kasacinį skundą
+## 3 straipsnis. Teisė paduoti kasacinį skundą
 
 Lietuvos apeliaciniame teisme kasacine tvarka išnagrinėtose bylose, kuriose nebuvo paduoti prašymai pateikti teikimą Lietuvos Aukščiausiojo Teismo senatui, taip pat apygardų teismuose kasacine tvarka išnagrinėtose bylose, byloje dalyvaujantys asmenys turi teisę, laikydamiesi po 1999 m. sausio 1 d. įsigaliosiančių procesinių normų reikalavimų, paduoti kasacinius skundus. Tokie skundai nelaikomi pakartotiniais ir gali būti paduoti:
 

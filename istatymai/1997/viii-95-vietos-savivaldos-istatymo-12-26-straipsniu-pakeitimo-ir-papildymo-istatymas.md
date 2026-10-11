@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.592F6029F3E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.592F6029F3E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 12, 26 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 1996, Nr. 33-804, Nr. 35-869, Nr. 50-1196)
 
-\#### 1 straipsnis. 12 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 12 straipsnio pakeitimas ir papildymas
 
 12 straipsnio 1 dalyje vietoj žodžio „administracijos“ įrašyti žodį „savivaldybės“, po žodžio „seniūnijoje“ įrašyti žodžius „- tarybos nustatytoje ir jam administruoti priskirtoje savivaldybės teritorijos dalyje“, šią dalį papildyti trečiuoju sakiniu ir visą dalį išdėstyti taip:
 
 „Seniūnas yra savivaldybės pareigūnas seniūnijoje - tarybos nustatytoje ir jam administruoti priskirtoje savivaldybės teritorijos dalyje. Jį skiria ir iš pareigų atleidžia meras. Seniūnu gali būti skiriamas savivaldybės tarybos narys.“
 
-\#### 2 straipsnis. 26 straipsnio papildymas
+## 2 straipsnis. 26 straipsnio papildymas
 
 Papildyti 26 straipsnį 3 dalimi:
 

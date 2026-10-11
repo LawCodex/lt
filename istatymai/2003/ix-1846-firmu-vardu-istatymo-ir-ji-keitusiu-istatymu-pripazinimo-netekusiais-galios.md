@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CF83D5E54C01"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CF83D5E54C01.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos firmų vardų įstatymo ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas
@@ -26,7 +26,7 @@ FIRMŲ VARDŲ ĮSTATYMO IR JĮ KEITUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GAL
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymų pripažinimas netekusiais galios
+## 1 straipsnis. Įstatymų pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios:
 
@@ -36,7 +36,7 @@ Pripažinti netekusiais galios:
 
 3) Lietuvos Respublikos firmų vardų įstatymo 2 straipsnio papildymo ir 4 straipsnio pakeitimo įstatymą (Žin., 2002, Nr. 38-1357).
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 1. Pavadinimams, įregistruotiems pagal Lietuvos Respublikos firmų vardų įstatymą, iki juridinio asmens įregistravimo juridinių asmenų registre yra taikomas Civilinio kodekso 2.41 straipsnis. Išimtinėmis teisėmis į šį juridinio asmens pavadinimą asmenys gali naudotis vienerius metus nuo firmos vardo įregistravimo Firmų vardų registre.
 
@@ -46,7 +46,7 @@ Pripažinti netekusiais galios:
 
 4. Firmų vardų registras likviduojamas Vyriausybės sprendimu.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo juridinių asmenų registro veiklos pradžios.
 

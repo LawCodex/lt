@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9a62717055c011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9A62717055C0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 15-4, 16, 18, 21, 49, 62, 70, 93, 112 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO NR. X-1024 3, 154, 16, 18, 21, 49, 62, 7
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 3 straipsnio 3 dalį.
 
@@ -82,13 +82,13 @@ Vilnius
 
 „86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Kolektyvinio investavimo subjektų įstatyme, Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme, Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme, Įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) dėl didmeninės energijos rinkos vientisumo ir skaidrumo, Reglamente [(ES) Nr. 648/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0648&locale=lt), Reglamente [(ES) Nr. 575/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R0575&locale=lt), Reglamente [(ES) Nr. 596/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0596&locale=lt), Reglamente [(ES) Nr. 909/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0909&locale=lt), Reglamente [(ES) Nr. 600/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0600&locale=lt), Reglamente [(ES) Nr. 2015/2365](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32365R2015&locale=lt), Reglamente [(ES) Nr. 2016/1011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:33011R2016&locale=lt), Reglamente [(ES) 2019/2033](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R2033&locale=lt), Reglamente [(ES) 2020/1503](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32020R1503&locale=lt) ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 154 straipsnio pakeitimas
+## 2 straipsnis. 154 straipsnio pakeitimas
 
 Pakeisti 15^4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) reikšmingų finansų maklerio įmonei kylančios rizikos šaltinių ir padarinių, visų pirma rizikos, dėl kurios gali sumažėti turimų nuosavų išteklių lygis, įskaitant reikšmingą turto finansinės vertės pokytį, priklausomų tarpininkų reikalavimus, klientų ar sandorio šalių įsipareigojimų nevykdymą, finansinių priemonių, užsienio valiutos, biržos prekių pozicijas, iš pensijų kaupimo kylančius įsipareigojimus;“.
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -98,13 +98,13 @@ Pakeisti 15^4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „11. Finansų maklerio įmonė privalo taikyti tinkamas ir savo veiklos verslo modeliui, mastui ir sudėtingumui proporcingas savo prisiimtos verslo rizikos, administravimo ir apskaitos procedūras, vidaus kontrolės mechanizmą, veiksmingas rizikos vertinimo ir valdymo procedūras. Finansų maklerio įmonė privalo taikyti patikimas informacijos perdavimo saugumo priemones, kurios pagal Reglamento [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) reikalavimus užtikrintų perduodamos informacijos saugumą, konfidencialumą, patikimumą, sumažintų duomenų iškraipymo ir neteisėtos prieigos rizikas, taip pat užtikrintų, kad informacija būtų atpažįstama ir duomenys būtų apsaugoti nuo nutekėjimo.“
 
-\#### 4 straipsnis. 18 straipsnio pakeitimas
+## 4 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Finansų maklerio įmonių audito atlikimo tvarka, reikalavimai auditoriui ir audito įmonei, auditoriaus ir audito įmonės pareigos ir atsakomybė reglamentuojami Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Finansų įstaigų įstatyme ir šio įstatymo 100 straipsnyje.“
 
-\#### 5 straipsnis. 21 straipsnio pakeitimas
+## 5 straipsnis. 21 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -114,13 +114,13 @@ Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3. Finansų maklerio įmonė turi taikyti veiksmingas verslo tęstinumo priemones, kad būtų šalinami visi jos prekybos sistemų trikdžiai, įskaitant informacinių ir ryšių technologijų veiklos tęstinumo politiką ir planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus, parengtus pagal Reglamento [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) 11 straipsnį, ir užtikrinti, kad jos sistemos būtų visapusiškai išbandytos ir tinkamai prižiūrimos, taip užtikrinant atitiktį šio straipsnio 1 ir 2 dalyse ir šioje dalyje nustatytiems bendriesiems reikalavimams ir visiems Reglamento [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) II ir IV skyriuose nustatytiems reikalavimams.“
 
-\#### 6 straipsnis. 49 straipsnio pakeitimas
+## 6 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnio 8 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) trečiosios valstybės įmonės valdymo organo sprendimą steigti filialą Lietuvos Respublikoje, patvirtinti filialo nuostatus ir paskirti filialo vadovą, taip pat šio valdymo organo rašytinį įsipareigojimą, kad įsteigtas filialas finansinės apskaitos ir kitus su filialo vykdoma veikla susijusius dokumentus tvarkys ir laikys filialo buveinėje;“.
 
-\#### 7 straipsnis. 62 straipsnio pakeitimas
+## 7 straipsnis. 62 straipsnio pakeitimas
 
 1. Pakeisti 62 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 49 straipsnio 8 dalies 6 punktą ir jį išdėstyti taip:
 
 2. Pripažinti netekusiu galios 62 straipsnio 1 dalies 3 punktą.
 
-\#### 8 straipsnis. 70 straipsnio pakeitimas
+## 8 straipsnis. 70 straipsnio pakeitimas
 
 1. Pakeisti 70 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -138,19 +138,19 @@ Pakeisti 49 straipsnio 8 dalies 6 punktą ir jį išdėstyti taip:
 
 „8. Reguliuojamoje rinkoje privaloma taikyti veiksmingas sistemas, procedūras ir priemones, taip pat reikalauti, kad jos nariai arba dalyviai atliktų tinkamus algoritmų testavimus, ir sudaryti palankias sąlygas šiems testavimams atlikti, kaip numatyta Reglamento [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) II ir IV skyriuose, siekiant:“.
 
-\#### 9 straipsnis. 93 straipsnio pakeitimas
+## 9 straipsnis. 93 straipsnio pakeitimas
 
 Pakeisti 93 straipsnio 5 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) samdyti tam tikrų sričių specialistus ir ekspertus (auditorius, finansinę apskaitą tvarkančius asmenis, teisininkus, informacinių technologijų specialistus ir kt.) nuomonei, išvadai, įvertinimui pateikti ar tam tikros kvalifikacijos, žinių ar patirties reikalaujantiems veiksmams atlikti;“.
 
-\#### 10 straipsnis. 112 straipsnio pakeitimas
+## 10 straipsnis. 112 straipsnio pakeitimas
 
 Papildyti 112 straipsnio 1 dalį 20^4 punktu:
 
 „20^4) pažeisti Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 11 straipsnis. Įstatymo priedo pakeitimas
+## 11 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 24 punktu:
 

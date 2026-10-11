@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CCBCFBD70E83"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CCBCFBD70E83.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" įgyvendinimo įstatymas
@@ -26,11 +26,11 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Išduotų vizų ir leidimų gyventi galiojimas
+## 1 straipsnis. Išduotų vizų ir leidimų gyventi galiojimas
 
 Vizos ir leidimai gyventi Lietuvos Respublikoje, išduoti užsieniečiams iki Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ įsigaliojimo, galioja šiuose dokumentuose nurodytą laiką.
 
-\#### 2 straipsnis. Užsieniečių, apsigyvenusių Lietuvos Respublikoje iki 1993 m. liepos 1 d. ir šiuo metu faktiškai joje gyvenančių, teisė gauti leidimą nuolat gyventi Lietuvos Respublikoje
+## 2 straipsnis. Užsieniečių, apsigyvenusių Lietuvos Respublikoje iki 1993 m. liepos 1 d. ir šiuo metu faktiškai joje gyvenančių, teisė gauti leidimą nuolat gyventi Lietuvos Respublikoje
 
 1. Užsieniečiams, kurie gyveno Lietuvos Respublikoje iki 1993 m. liepos 1 d. ir šiuo metu gyvena Lietuvos Respublikoje, tačiau neturi leidimo nuolat gyventi Lietuvos Respublikoje, išsaugoma teisė įgyti leidimą nuolat gyventi Lietuvos Respublikoje iki 2004 m. gruodžio 31 d., jeigu duomenys apie jų gyvenamąją vietą Lietuvos Respublikoje įrašyti gyvenamosios vietos apskaitos dokumentuose.
 
@@ -42,15 +42,15 @@ Vizos ir leidimai gyventi Lietuvos Respublikoje, išduoti užsieniečiams iki Li
 
 3) turi gyvenamąją patalpą Lietuvos Respublikoje.
 
-\#### 3 straipsnis. Užsieniečių, apsigyvenusių Lietuvos Respublikoje iki 1993 m. liepos 1 d. ir šiuo metu negyvenančių Lietuvos Respublikos teritorijoje, teisinė padėtis
+## 3 straipsnis. Užsieniečių, apsigyvenusių Lietuvos Respublikoje iki 1993 m. liepos 1 d. ir šiuo metu negyvenančių Lietuvos Respublikos teritorijoje, teisinė padėtis
 
 Užsieniečiai, kuriems pagal Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ įgyvendinimo įstatymo (Žin., 1998, Nr. [115-3237](https://www.e-tar.lt/portal/lt/legalAct/TAR.43E5C00FB296)) 3 straipsnį buvo išsaugota teisė gauti leidimą nuolat gyventi Lietuvos Respublikoje, tačiau šio Įstatymo įsigaliojimo dieną Lietuvos Respublikos teritorijoje negyvena arba jų gyvenamoji vieta nežinoma, yra laikomi netekusiais šios teisės
 
-\#### 4 straipsnis. Užsieniečių, kurių leidimo nuolat gyventi Lietuvos Respublikoje galiojimas pasibaigė arba jie išrašyto leidimo nuolat gyventi Lietuvos Respublikoje per šešis mėnesius neatsiėmė, teisinė padėtis
+## 4 straipsnis. Užsieniečių, kurių leidimo nuolat gyventi Lietuvos Respublikoje galiojimas pasibaigė arba jie išrašyto leidimo nuolat gyventi Lietuvos Respublikoje per šešis mėnesius neatsiėmė, teisinė padėtis
 
 Užsieniečiai, kurių leidimas nuolat gyventi Lietuvos Respublikoje šio Įstatymo įsigaliojimo dieną negalioja šešis ir daugiau mėnesių, taip pat užsieniečiai, kurie per šešis mėnesius išrašyto leidimo nuolat gyventi Lietuvos Respublikoje neatsiėmė, laikomi netekusiais teisės nuolat gyventi Lietuvos Respublikoje ir jų teisinė padėtis sprendžiama Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka.
 
-\#### 5 straipsnis. Užsieniečių, esančių Lietuvos Respublikoje neteisėtai, teisinė padėtis
+## 5 straipsnis. Užsieniečių, esančių Lietuvos Respublikoje neteisėtai, teisinė padėtis
 
 1. Jeigu šio Įstatymo įsigaliojimo dieną užsienietis yra Lietuvos Respublikos teritorijoje neteisėtai, jis privalo asmeniškai ne vėliau kaip per 7 dienas nuo šio Įstatymo įsigaliojimo dienos užsiregistruoti Migracijos departamente prie Lietuvos Respublikos vidaus reikalų ministerijos per vidaus reikalų ministro įgaliotas institucijas ir pateikti būtinus dokumentus jo teisinei padėčiai Lietuvos Respublikoje nustatyti.
 
@@ -58,13 +58,13 @@ Užsieniečiai, kurių leidimas nuolat gyventi Lietuvos Respublikoje šio Įstat
 
 3. Šio straipsnio 1 dalies nuostatos netaikomos užsieniečiams, kurie šio Įstatymo įsigaliojimo dieną yra sulaikyti Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\#### 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 nurodytoms valstybės institucijoms
+## 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 nurodytoms valstybės institucijoms
 
 1. Lietuvos Respublikos Vyriausybė ir kitos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 nurodytos valstybės institucijos iki 2004 m. rugsėjo 1 d. peržiūri teisės aktus, susijusius su šio Įstatymo nuostatų įgyvendinimu, ir prireikus parengia atitinkamus jų pakeitimo projektus ar priima naujus teisės aktus.
 
 2. Lietuvos Respublikos Vyriausybė skiria lėšų užsieniečiams išsiųsti bei savanoriškai sugrįžti, taip pat prieglobsčio suteikimo procedūros efektyvumui gerinti pagal Lietuvos Respublikos vidaus reikalų ministerijos pateiktas priemones.
 
-\#### 7 straipsnis. Netekęs galios įstatymas
+## 7 straipsnis. Netekęs galios įstatymas
 
 Įsigaliojus šiam Įstatymui, netenka galios Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ įgyvendinimo įstatymas (Žin., 1998, Nr. [115-3237](https://www.e-tar.lt/portal/lt/legalAct/TAR.43E5C00FB296)).
 

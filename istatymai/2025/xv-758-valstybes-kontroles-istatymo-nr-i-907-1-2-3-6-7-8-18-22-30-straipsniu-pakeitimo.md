@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6d7d8162e58811f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6D7D8162E588.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 1, 2, 3, 6, 7, 8, 18, 22, 30 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS KONTROLĖS ĮSTATYMO NR. I-907 1, 2, 3, 6, 7, 8, 18, 22, 30 STRAIPSNI
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „13. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos fiskalinės valdysenos įstatyme ir Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybės kontrolė yra Lietuvos Respublikos Seimui atskaitinga aukščiausioji audito institucija ir nepriklausoma fiskalinė institucija.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -70,13 +70,13 @@ Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Valstybės kontrolės, atskirai kaip aukščiausiosios audito institucijos ir nepriklausomos fiskalinės institucijos, veiklos išorinius vertinimus ne rečiau kaip kartą per 5 metus atlieka nepriklausomi išorės vertintojai tarptautinių organizacijų nustatyta tvarka. Išorinių vertinimų rezultatai pateikiami Seimui.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) stebėti, kaip laikomasi Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytų fiskalinės drausmės taisyklių ir kaip įgyvendinama fiskalinė valdysena.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,19 +102,19 @@ Pakeisti 7 straipsnio 3 punktą ir jį išdėstyti taip:
 
 8) per 8 darbo dienas nuo vidutinės trukmės laikotarpio Lietuvos fiskalinio struktūrinio plano projekto pateikimo suinteresuotiesiems subjektams jų išvadoms (pastaboms ir pasiūlymams) gauti dienos Fiskalinės valdysenos įstatymo 6 straipsnio 7 dalyje nurodytą vertinimo išvadą dėl vidutinės trukmės laikotarpio Lietuvos fiskalinio struktūrinio plano projekte pateiktų makroekonominių projekcijų ir prielaidų, naudojamų grynųjų išlaidų augimo riboms apskaičiuoti, tinkamumo.“
 
-\#### 7 straipsnis. 18 straipsnio pakeitimas
+## 7 straipsnis. 18 straipsnio pakeitimas
 
 Papildyti 18 straipsnį 3 dalimi:
 
 „3. Valstybės kontrolė, kaip nepriklausoma fiskalinė institucija, dalyvauja Europos Sąjungos nepriklausomų fiskalinių institucijų tinklo ir kitoje tarptautinėje veikloje.“
 
-\#### 8 straipsnis. 22 straipsnio pakeitimas
+## 8 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Asmuo, priimamas į Valstybės kontrolės darbuotojo pareigas, turi atitikti valstybės kontrolieriaus nustatytus reikalavimus. Priimant asmenis į Valstybės kontrolės darbuotojo pareigas, susijusias su fiskalinės valdysenos stebėsena, vertinama jų patirtis ir kompetencija viešųjų finansų, makroekonomikos ar biudžeto valdymo srityse. Negali būti nustatyti tokie reikalavimai, kurie nebūtini nustatytoms funkcijoms atlikti.“
 
-\#### 9 straipsnis. 30 straipsnio pakeitimas
+## 9 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įgyvendinimo ataskaitos, šio įstatymo 6 straipsnio 3 ir 5 dalyse nurodyti dokumentai, 8 straipsnio 7 dalyje nurodytos išvados ir kita informacija apie Valstybės kontrolės veiklą teisės aktų nustatyta tvarka skelbiami Valstybės kontrolės interneto svetainėje ir per kitas visuomenės informavimo priemones.“
 
-\#### 10 straipsnis. Įstatymo papildymas priedu
+## 10 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -138,7 +138,7 @@ priedas
 
 ____________________“.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

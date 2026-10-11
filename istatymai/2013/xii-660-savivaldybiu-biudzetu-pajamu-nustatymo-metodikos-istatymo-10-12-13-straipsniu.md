@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e6f0189089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E6F0189089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10, 12, 13 straipsnių ir priedėlio pakeitimo ĮSTATYMAS
@@ -34,13 +34,13 @@ Vilnius
 
 2012, Nr. [153-7827](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=440384))
 
-\#### 1 straipsnis. 10 straipsnio 1 dalies 1 punkto pakeitimas
+## 1 straipsnis. 10 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 10 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) gyventojų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus. Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų ar pajamų pokyčius;“.
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 2 dalį, 3 ir 4 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 12 straipsnio 2 dalį, 3 ir 4 dalis pripažinti netekusiomis galios ir 
 
 2. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) didėja daugiau kaip 21 procentu, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui grąžinamos iš savivaldybių biudžetų. Jeigu prognozuotos savivaldybės biudžeto pajamos negaunamos, valstybės biudžetui grąžinama bendrosios dotacijos kompensacija mažinama tiek, kokia yra prognozuotų savivaldybės biudžeto negautų pajamų suma.“
 
-\#### 3 straipsnis. 13 straipsnio 1, 2 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 3 straipsnis. 13 straipsnio 1, 2 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 12 straipsnio 2 dalį, 3 ir 4 dalis pripažinti netekusiomis galios ir 
 
 3. 13 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. Įstatymo priedėlio pakeitimas
+## 4 straipsnis. Įstatymo priedėlio pakeitimas
 
 1. Įstatymo priedėlio eilutėje „Vilniaus miesto“ vietoj skaičiaus „42“ įrašyti skaičių „48“ ir šią eilutę išdėstyti taip:
 
@@ -72,11 +72,11 @@ Pakeisti 12 straipsnio 2 dalį, 3 ir 4 dalis pripažinti netekusiomis galios ir 
 
 „Mažeikių rajono 100“.
 
-\#### 5 straipsnis. Įstatymo taikymas
+## 5 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
-\#### 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė parengia ir iki 2014 m. kovo 1 d. pateikia Lietuvos Respublikos Seimui Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymo projektą, kuriame būtų siūloma tobulinti gyventojų pajamų mokesčio dalies (procentais), tenkančios visų savivaldybių biudžetams nuo įplaukų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, apskaičiavimą (t. y. šio finansinio rodiklio dydis (procentais) būtų siejamas ir su pajamų iš gyventojų pajamų mokesčio kitimu, kurį nulemtų ekonominės situacijos pokyčiai).
 

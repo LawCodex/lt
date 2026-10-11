@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.99FE2EE4EEF1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.99FE2EE4EEF1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 2, 4, 6, 9 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2001, Nr. [91-3190](https://www.e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E); 2008, Nr. [137-5378](https://www.e-tar.lt/portal/lt/legalAct/TAR.FD511C5A13B1); 2010, Nr. [81-4226](https://www.e-tar.lt/portal/lt/legalAct/TAR.830C8F621C58))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 22 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 22 dalimi
 
 Papildyti 2 straipsnį 22 dalimi:
 
 „22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Biudžeto sandaros įstatyme.“
 
-\#### 2 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) draudėjų ir apdraustųjų įmokos – atsižvelgiant į Finansų ministerijos parengtą atitinkamų metų šalies ekonominės raidos scenarijų (toliau – šalies ekonominės raidos scenarijus), kitiems biudžetiniams metams numatomus įmokų tarifus atskiroms socialinio draudimo rūšims, draudžiamųjų pajamų bazės ir apdraustųjų skaičiaus kitimą per paskutinius dvejus metus;“.
 
-\#### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas.“
 
-\#### 4 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 

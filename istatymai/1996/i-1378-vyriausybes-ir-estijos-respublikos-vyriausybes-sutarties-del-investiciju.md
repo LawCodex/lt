@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3EA048491F6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3EA048491F6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos ratifikavimo įstatymas
@@ -26,7 +26,7 @@ VYRIAUSYBĖS IR ESTIJOS RESPUBLIKOS VYRIAUSYBĖS SUTARTIES DĖL INVESTICIJŲ SKA
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1995 m. rugsėjo 7 d.
 

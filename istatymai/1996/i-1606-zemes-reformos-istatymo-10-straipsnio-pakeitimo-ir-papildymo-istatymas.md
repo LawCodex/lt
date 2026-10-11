@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1749FF0F9955"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1749FF0F9955.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 10 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1992, Nr. [1-11](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A25ECAA0ECB), Nr.[3-45](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D834A0FEBE3), Nr. [15-404](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8D5DBBDF9D5); 1993, Nr. [32-727](https://www.e-tar.lt/portal/lt/legalAct/TAR.BDAFA66E36BF); 1994, Nr. [34-621](https://www.e-tar.lt/portal/lt/legalAct/TAR.8ED70CD5ABCC), Nr. [43-777](https://www.e-tar.lt/portal/lt/legalAct/TAR.378CD1D7CA61); 1995, Nr. [53-1295](https://www.e-tar.lt/portal/lt/legalAct/TAR.D856EBD4D076), Nr. [103-2301](https://www.e-tar.lt/portal/lt/legalAct/TAR.DD687094A4E6))
 
-\#### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 10 straipsnio 1 dalies 5 ir 6 punktus, 7 ir 8 punktus sujungti, 9–11 punktus laikyti atitinkamai 8–10 punktais ir visą dalį išdėstyti taip:
 

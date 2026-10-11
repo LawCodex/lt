@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9e321bc036d611efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9E321BC036D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 85, 86, 88, 90, 92, 93, 94, 223, 544, 545 straipsnių, XI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 85-1 straipsniu įstatymo Nr. XIV-1382 11 straipsnio pakeitimo įstatymas

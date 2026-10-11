@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/53ce913090be11e4bb408baba2bdddf3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.53CE913090BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 23 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PRODUKTŲ SAUGOS ĮSTATYMO NR. VIII-1206 23 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas
+## 1 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 8. Baudų taikymas neatleidžia nuo pareigos atlyginti vartotojams padarytą žalą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2015 m. sausio 1 d.
 

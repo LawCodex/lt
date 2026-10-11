@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/54687140778511edbc04912defe897d1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.546871407785.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13, 20, 21, 22, 23, 24, 31, 43, 45, 51, 63, 67, 68, 69, 71, 72, 73, 77, 78, 81, 84, 99, 122-1, 127, 128, 129, 130, 131-1, 131-2, 132, 134 ir 157 straipsnių pakeitimo įstatymas
@@ -337,5 +337,3 @@ Pakeisti 157 straipsnio 2 dalį ir ją išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_58a9f6e25bb34fbe961a74a1937cce8f_end

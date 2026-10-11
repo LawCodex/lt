@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B5537B935AEF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 25 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74))
 
-\#### 1 straipsnis. 4 straipsnio 3 dalies 4 punkto pakeitimas
+## 1 straipsnis. 4 straipsnio 3 dalies 4 punkto pakeitimas
 
 Pakeisti 4 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, išskyrus šio Įstatymo 33 straipsnio 3 dalį. Valstybės saugumo departamento generaliniam direktoriui, jo pavaduotojams bei Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams taikomos Valstybės tarnybos įstatymo VI skirsnio nuostatos.“
 
-\#### 2 straipsnis. 25 straipsnio 1 dalies 3 punkto ir 6 dalies papildymas
+## 2 straipsnis. 25 straipsnio 1 dalies 3 punkto ir 6 dalies papildymas
 
 1. 25 straipsnio 1 dalies 3 punkte po žodžio „laipsnį“ įrašyti žodžius „arba tarnybinį rangą“ ir šį punktą išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 4 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „6. Priedai už laipsnį arba tarnybinį rangą ir kvalifikacinę kategoriją gali būti mokami tik statutiniams valstybės tarnautojams statutuose nustatyta tvarka. Priedas už kvalifikacinę klasę nemokamas statutiniams valstybės tarnautojams, išskyrus valstybės tarnautojus, kurių tarnybą reglamentuoja Diplomatinės tarnybos įstatymas.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. rugpjūčio 1 d.
 

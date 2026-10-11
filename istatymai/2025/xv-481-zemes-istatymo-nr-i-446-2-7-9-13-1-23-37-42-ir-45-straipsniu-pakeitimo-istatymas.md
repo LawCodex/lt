@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/78aef0e2afce11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.78AEF0E2AFCE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 61 dalį ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos žemės mokesčio įstatyme, Lietuvos Respublikos žemės reformos įstatyme ir Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatyme.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 12 dalį ir ją išdėstyti taip:
 
 „12. Kai valstybinė žemė reikalinga valstybei svarbiems projektams, Lietuvos Respublikos regioninės plėtros įstatymo nustatyta tvarka regioninės plėtros tarybos pripažintiems regioninės svarbos projektams įgyvendinti, gynybos ir saugumo pramonės projektamsarba gynybos ir saugumo pramonės produktų gamybos vystymo projektams, arba šio įstatymo 45 straipsnio 1 dalies 1–9 punktuose nurodytoms reikmėms ar kitoms valstybės reikmėms, taip pat šio įstatymo 13^1 straipsnyje numatyta tvarka valstybinės žemės sklypus įtraukus į rezervuotų investicinių valstybinės žemės sklypų sąrašą, savivaldybei patikėjimo teise perduota valstybinė žemė patikėjimo teise valdyti perduodama Nacionalinei žemės tarnybai ar kitam Vyriausybės nutarimu kitam įstatyme nustatytam subjektui. Priimant Vyriausybės nutarimą ar kitą atitinkamą sprendimą dėl žemės paėmimo visuomenės poreikiams ir (ar) Nacionalinės žemės tarnybos sprendimą dėl valstybinės žemės suteikimo regioninės svarbos ar stambiems projektams, gynybos ir saugumo pramonės projektams ar gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti, kai žemės paimti visuomenės poreikiams nereikia, Vyriausybės nutarime ar kitame atitinkamame sprendime turi būti nurodoma, kad savivaldybės, kaip atitinkamos valstybinės žemės patikėtinės, teisės pasibaigia, ir nurodomas naujas subjektas, kuris tokią žemę valdys patikėjimo teise. Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo dienos apie tai raštu informuoja savivaldybę. Valstybinės žemės patikėjimo teisės perdavimo tvarką nustato Vyriausybė.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 6 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 7 straipsnio 12 dalį ir ją išdėstyti taip:
 
 3) gynybos ir saugumo pramonės produktų gamybos vystymo projekto vystytojas. Jeigu rezervuotą investicinį valstybinės žemės sklypą pageidauja išsinuomoti keli gynybos ir saugumo pramonės produktų gamybos vystymo projekto vystytojai, žemės sklypas išnuomojamas gynybos ir saugumo pramonės produktų gamybos vystymo projektui, dėl kurio Vyriausybės įgaliotos institucijos pateiktas siūlymas išnuomoti rezervuotą investicinį valstybinės žemės sklypą yra pateiktas anksčiau, įgyvendinti.“
 
-\#### 4 straipsnis. 131 straipsnio pakeitimas
+## 4 straipsnis. 131 straipsnio pakeitimas
 
 Pakeisti 13^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 13^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3) yra vystomi Investicijų įstatymo 2 straipsnio 25 dalyje numatytiems stambiems projektams arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams pritraukti ir (ar) įgyvendinti.“
 
-\#### 5 straipsnis. 23 straipsnio pakeitimas
+## 5 straipsnis. 23 straipsnio pakeitimas
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -96,19 +96,19 @@ Pakeisti 13^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „7. Žemės sklypo naudojimo būdas nustatomas ir keičiamas pagal teritorijų planavimo dokumentus ar žemės valdos projektus. Valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, naudojimo būdas nustatomas pagal karinės infrastruktūros projektą. Valstybinės žemės sklypo (-ų), reikalingo (-ų) stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektui, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektui įgyvendinti, naudojimo būdas nustatomas ir (ar) keičiamas pagal specialiosios paskirties projektą. Žemės sklypams nustatomi šio įstatymo 24–28 straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliota institucija. Rezervuotų investicinių valstybinės žemės sklypų, esančių neurbanizuotose ir neurbanizuojamose teritorijose, žemės sklypo naudojimo būdas gali būti keičiamas bendra šiame straipsnyje nustatyta tvarka arba pagal teritorijų planavimo dokumentą, parengtą taikant *mutatis mutandis* valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką, numatytą Teritorijų planavimo įstatymo 23 straipsnyje.“
 
-\#### 6 straipsnis. 37 straipsnio pakeitimas
+## 6 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnio 11^1 dalį ir ją išdėstyti taip:
 
 „11^1. Specialiosios paskirties projektai rengiami aplinkos ministro ir ekonomikos ir inovacijų ministro nustatyta tvarka. Rengiant specialiosios paskirties projektus teritorijų planavimo dokumentų, išskyrus valstybei svarbių projektų teritorijų planavimo dokumentus, sprendiniai taikomi tiek, kiek jie neprieštarauja šių rengiamų specialiosios paskirties projektų sprendiniams. Specialiosios paskirties projektų rengimą inicijuoja Ekonomikos ir inovacijų ministerija, o organizuoja stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektą įgyvendinantis subjektas arba ekonomikos ir inovacijų ministro įgaliota įstaiga. Specialiosios paskirties projektų, reikalingų gynybos ir saugumo pramonės produktų gamybos vystymo projektui įgyvendinti, rengimą inicijuoja Vyriausybės įgaliota institucija, organizuoja gynybos ir saugumo pramonės produktų gamybos vystymo projektus įgyvendinantis subjektas, o juos tvirtinti Vyriausybei teikia Vyriausybės įgaliota institucija, priėmusi sprendimą dėl gynybos ir saugumo pramonės produktų gamybos vystymo projekto statuso suteikimo. Specialiosios paskirties projektai tvirtinami Vyriausybės nutarimu. Rengiant, keičiant ar koreguojant savivaldybės lygmens bendrąjį planą, Vyriausybės nutarimu patvirtintų specialiosios paskirties projektų sprendiniai integruojami į tos savivaldybės bendrojo plano sprendinius.“
 
-\#### 7 straipsnis. 42 straipsnio pakeitimas
+## 7 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Specialiosios paskirties projekto rengimas finansuojamas iš stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektą įgyvendinančių subjektų arba ekonomikos ir inovacijų ministro įgaliotos įstaigos lėšų, o kai specialiosios paskirties projektas reikalingas gynybos ir saugumo pramonės produktų gamybos vystymo projektui įgyvendinti, – iš gynybos ir saugumo pramonės produktų gamybos vystymo projektą įgyvendinančio subjekto lėšų.“
 
-\#### 8 straipsnis. 45 straipsnio pakeitimas
+## 8 straipsnis. 45 straipsnio pakeitimas
 
 1. Papildyti 45 straipsnio 1 dalį 12 punktu:
 
@@ -118,7 +118,7 @@ Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „2. Visuomenės poreikiams reikalingam konkrečiam objektui statyti (įrengti) konkrečios vietos ir ploto motyvuotas pagrindimas turi būti atliktas rengiant vietovės lygmens kompleksinio teritorijų planavimo dokumentą ar specialiojo teritorijų planavimo dokumentą, ar specialiosios paskirties projektą. Konkrečios vietos ir ploto motyvuotas pagrindimas gali būti sudedamoji vietovės lygmens kompleksinio teritorijų planavimo dokumento ar specialiojo teritorijų planavimo dokumento, ar specialiosios paskirties projekto dalis arba gali būti parengtas kaip atskiras dokumentas, teikiamas kartu su vietovės lygmens kompleksinio teritorijų planavimo dokumentu ar specialiojo teritorijų planavimo dokumentu, ar specialiosios paskirties projektu.“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 2 d.
 

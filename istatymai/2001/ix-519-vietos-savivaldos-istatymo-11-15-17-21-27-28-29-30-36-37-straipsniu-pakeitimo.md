@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BC2C53BF0A7B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 11, 15, 17, 21, 27, 28, 29, 30, 36, 37 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,31 +28,31 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A))
 
-\#### 1 straipsnis. 11 straipsnio 3 dalies pakeitimas ir papildymas
+## 1 straipsnis. 11 straipsnio 3 dalies pakeitimas ir papildymas
 
 11 straipsnio 3 dalyje po žodžių „dalyje nurodyta“ įrašyti žodį „savivaldybės“, vietoj žodžio „kurios“ įrašyti žodį „kurio“ ir šią dalį išdėstyti taip:
 
 „3. Bet kuri šio straipsnio 2 dalyje nurodyta savivaldybės institucija, panaikinusi kito savivaldybės administravimo subjekto norminį administracinį teisės aktą, prireikus perduoda klausimą iš naujo nagrinėti tam pačiam administravimo subjektui, kurio aktas panaikintas, arba pati jį išnagrinėja ir priima tuo klausimu norminį administracinį teisės aktą, arba pripažįsta, kad tokio akto priimti nereikia.“
 
-\#### 2 straipsnis. 15 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 15 straipsnio 2 dalies pakeitimas
 
 15 straipsnio 2 dalyje išbraukti sakinį „Kontrolės komiteto narių skaičius neturi viršyti ketvirtadalio išrinktų tarybos narių“ ir šią dalį išdėstyti taip:
 
 „2. Komitetai sudaromi iš tarybos narių savivaldybės tarybos sprendimu. Kiekvienoje savivaldybėje privaloma sudaryti Kontrolės komitetą. Į Kontrolės komitetą įeina vienodas visų savivaldybės taryboje atstovaujamų partijų arba koalicijų deleguotų atstovų skaičius. Sudarant kitus komitetus, laikomasi proporcingo daugumos ir mažumos atstovavimo principo. Komitetų ir jų narių skaičių bei įgaliojimus, išskyrus Kontrolės komiteto, nustato taryba. Kontrolės komiteto įgaliojimus taryba nustato atsižvelgdama į šio straipsnio 4 dalį. Komitetų darbo tvarka nustatoma savivaldybės tarybos veiklos reglamente.“
 
-\#### 3 straipsnis. 17 straipsnio 9 punkto papildymas
+## 3 straipsnis. 17 straipsnio 9 punkto papildymas
 
 Papildyti 17 straipsnio 9 punktą ir jį išdėstyti taip:
 
 „9) sudaro pretendentų į savivaldybės administratoriaus pareigas atrankos komisiją, priima sprendimą dėl savivaldybės administratoriaus priėmimo į pareigas ir atleidimo iš valstybės tarnybos, mero teikimu tvirtina savivaldybės administracijos struktūrą, administracijos nuostatus ir darbo užmokesčio fondą;“.
 
-\#### 4 straipsnis. 21 straipsnio 1 dalies 6 punkto papildymas
+## 4 straipsnis. 21 straipsnio 1 dalies 6 punkto papildymas
 
 21 straipsnio 1 dalies 6 punkte po žodžio „asignavimus“ įrašyti žodžius „organizuoja savivaldybės biudžeto vykdymą ir atsako už savivaldybės ūkinę bei finansinę veiklą“, po žodžio „įgalioja“ įrašyti žodį „visa“ ir šį punktą išdėstyti taip:
 
 „6) administruoja savivaldybės asignavimus, organizuoja savivaldybės biudžeto vykdymą ir atsako už savivaldybės ūkinę bei finansinę veiklą arba įgalioja visa tai daryti savivaldybės administratorių;“.
 
-\#### 5 straipsnis. 27 straipsnio 9 ir 10 dalių pakeitimas bei papildymas
+## 5 straipsnis. 27 straipsnio 9 ir 10 dalių pakeitimas bei papildymas
 
 1. 27 straipsnio 9 dalį papildyti nauju antruoju sakiniu ir ją išdėstyti taip:
 
@@ -62,13 +62,13 @@ Papildyti 17 straipsnio 9 punktą ir jį išdėstyti taip:
 
 „10. Savivaldybės kontrolierius (savivaldybės kontrolieriaus tarnyba) savo veikloje vadovaujasi įstatymais, Vyriausybės patvirtintais Valstybės institucijos vidaus audito tarnybos nuostatais, Nacionaliniais valstybinio sektoriaus vidaus audito standartais ir savivaldybės tarybos patvirtintais savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) veiklos nuostatais. Savivaldybės kontrolieriui (savivaldybės kontrolieriaus tarnybai) vidaus audito klausimais metodiškai vadovauja Finansų ministerija.“
 
-\#### 6 straipsnis. 28 straipsnio 2 dalies 6 punkto papildymas
+## 6 straipsnis. 28 straipsnio 2 dalies 6 punkto papildymas
 
 Papildyti 28 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) teikia savivaldybės administratoriui bei tikrinamų įstaigų ir įmonių vadovams išvadas bei pasiūlymus dėl patikrinimų metu konstatuotų trūkumų pašalinimo ir reikalauja iš jų informacijos apie tokių trūkumų pašalinimą ir pasiūlymų vykdymą. Savivaldybės administratorius bei tikrinamų įstaigų ar įmonių vadovai per mėnesį nuo teikimo gavimo dienos privalo pateikti informaciją savivaldybės kontrolieriui dėl patikrinimų metu konstatuotų trūkumų pašalinimo bei pasiūlymų vykdymo;“.
 
-\#### 7 straipsnis. 29 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 29 straipsnio pakeitimas ir papildymas
 
 29 straipsnio 2 dalį pakeisti, straipsnį papildyti naujomis 3, 4 ir 5 dalimis, buvusias 3, 4, 5, 6 ir 7 dalis laikyti atitinkamai 6, 7, 8, 9 ir 10 dalimis, 7 dalies 3 punktą pakeisti ir visą straipsnį išdėstyti taip:
 
@@ -124,19 +124,19 @@ Papildyti 28 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 10. Savivaldybės administracijos tarnautojai negali būti savivaldybės, kurioje jie dirba, tarybos nariais.“
 
-\#### 8 straipsnis. 30 straipsnio 4 dalies pakeitimas
+## 8 straipsnis. 30 straipsnio 4 dalies pakeitimas
 
 30 straipsnio 4 dalyje vietoj žodžio „Vyriausybės“ įrašyti žodžius „vidaus reikalų ministro“ ir šią dalį išdėstyti taip:
 
 „4. Seniūnijoje iš gyvenamųjų vietovių bendruomenės atstovų gali būti sudaroma patariamoji visuomeniniais pagrindais dirbanti seniūnijos taryba. Jos nuostatus tvirtina meras pagal vidaus reikalų ministro patvirtintus pavyzdinius nuostatus.“
 
-\#### 9 straipsnis. 36 straipsnio 4 dalies papildymas
+## 9 straipsnis. 36 straipsnio 4 dalies papildymas
 
 36 straipsnio 4 dalyje po žodžio „funkcijų“ įrašyti žodį „pajamų“ ir šią dalį išdėstyti taip:
 
 „4. Savivaldybės arba jų vardu Lietuvos savivaldybių asociacija derina teisės akto, pagal kurį numatomas savivaldybių funkcijų, pajamų ir (ar) išlaidų pasikeitimas, projektą kartu su prie jo pridėtais finansiniais skaičiavimais.“
 
-\#### 10 straipsnis. 37 straipsnio papildymas 7 dalimi
+## 10 straipsnis. 37 straipsnio papildymas 7 dalimi
 
 Papildyti 37 straipsnį 7 dalimi:
 

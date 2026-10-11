@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.46DFDD0E4793"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.46DFDD0E4793.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12, 16 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 1995, Nr. [18-406](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E09E2EF3BB1); 1996, Nr. [68-1640](https://www.e-tar.lt/portal/lt/legalAct/TAR.615C5534119F); 1998, Nr.[62-1777](https://www.e-tar.lt/portal/lt/legalAct/TAR.892535EB668D), Nr. [98-2710](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D9B5B8570F2))
 
-\#### 1 straipsnis. Įstatymo pavadinimo papildymas
+## 1 straipsnis. Įstatymo pavadinimo papildymas
 
 Įstatymo pavadinime po žodžių „vidaus reikalų“ įrašyti žodžius „Specialiųjų tyrimų tarnybos“ ir Įstatymo pavadinimą išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 **į s t a t y m a s**“.
 
-\#### 2 straipsnis. 1 straipsnio pavadinimo ir 1 dalies pakeitimas ir papildymas
+## 2 straipsnis. 1 straipsnio pavadinimo ir 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 1 straipsnio pavadinimą bei 1 dalį ir juos išdėstyti taip:
 
@@ -56,7 +56,7 @@ Teisę gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo
 
 5) prokuratūros pareigūnai.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pareigūnų ir karių valstybinė pensija skiriama ir mokama išėjusiems iš ta
 
 Pareigūnams ir kariams, dėl pačių kaltės (jei ta kaltė neužtraukia baudžiamosios atsakomybės) pašalintiems iš Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių).“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 
@@ -90,13 +90,13 @@ Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės
 
 3) nuteisto pareigūno ar kario bausmės atlikimo laikas, jeigu vėliau toks pareigūnas ar karys reabilituotas.“
 
-\#### 5 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas
+## 5 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Pareigūnams ir kariams bei jų šeimos nariams pensijas skiria ir moka Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Generalinė prokuratūra pagal tai, kurioje iš šių institucijų pensijos gavėjas tarnavo paskiausiai.“
 
-\#### 6 straipsnis. 16 straipsnio 2 ir 4 dalių pakeitimas ir papildymas
+## 6 straipsnis. 16 straipsnio 2 ir 4 dalių pakeitimas ir papildymas
 
 1. 16 straipsnio 2 dalyje po žodžių „vidaus reikalų“ įrašyti žodžius „Specialiųjų tyrimų tarnybos“ ir šią dalį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti ir papildyti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Asmenims, priimtiems tarnauti Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos bei prokuratūros pareigūnais ir kariais, tarnybos laikui pensijai skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo įsigaliojimo:“.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. birželio 1 d.
 

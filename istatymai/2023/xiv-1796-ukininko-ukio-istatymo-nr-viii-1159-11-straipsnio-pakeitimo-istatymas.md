@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/daf8dfc0c4c811edac36f416a198a714"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DAF8DFC0C4C8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 straipsnio pakeitimo įstatymas
@@ -60,5 +60,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2042, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12407
 
 Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 straipsnio pakeitimo įstatymo Nr. XIV-1796 2 straipsnio pakeitimo įstatymas
-
-part_3cdb1fc6839144978aba058bde8477fc_end

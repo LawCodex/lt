@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/05e6db90e8cf11e88dd9e201dd8ee4f2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.05E6DB90E8CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių, Islandijos ir Norvegijos Karalystės papildomo susitarimo dėl Jungtinių Amerikos Valstijų, Europos Sąjungos bei jos valstybių narių, Islandijos ir Norvegijos Karalystės oro susisiekimo susitarimo taikymo ratifikavimo
@@ -26,11 +26,11 @@ DĖL EUROPOS SĄJUNGOS BEI JOS VALSTYBIŲ NARIŲ, ISLANDIJOS IR NORVEGIJOS KARAL
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2018 m. rugsėjo 6 d. dekretą Nr. 1K-1401, ratifikuoja su pareiškimu Europos Sąjungos bei jos valstybių narių, Islandijos ir Norvegijos Karalystės papildomą susitarimą dėl Jungtinių Amerikos Valstijų, Europos Sąjungos bei jos valstybių narių, Islandijos ir Norvegijos Karalystės oro susisiekimo susitarimo taikymo, priimtą Liuksemburge ir Osle 2011 m. birželio 16 ir 21 d. (toliau – Susitarimas).
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 8 straipsniu, pareiškia, kad Lietuvos Respublika laikinai taikys Susitarimą iki jo įsigaliojimo.
 

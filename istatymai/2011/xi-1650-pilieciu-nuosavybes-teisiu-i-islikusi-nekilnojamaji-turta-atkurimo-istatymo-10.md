@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7A38EF2DE1DC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A38EF2DE1DC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 10, 16 ir 21 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1997, Nr. [65-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4); 1999, Nr. [48-1522](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F8B117346DA); 2001, Nr. [71-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.88B95BAFAD55), Nr. [108-3904](https://www.e-tar.lt/portal/lt/legalAct/TAR.8937DA604013); 2002, Nr. [5-161](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF38D543B3BA), Nr. [41-1526](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A5C5BD12DF), Nr. [102-4552](https://www.e-tar.lt/portal/lt/legalAct/TAR.589B558A2903), Nr. [112-4965](https://www.e-tar.lt/portal/lt/legalAct/TAR.2117BD8F47B7); 2003, Nr. [64-2880](https://www.e-tar.lt/portal/lt/legalAct/TAR.0639335F5E79), Nr. [101-4542](https://www.e-tar.lt/portal/lt/legalAct/TAR.64E7997DADB5); 2004, Nr. [156-5695](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5A84A3C29A1); 2005, Nr. [72-2588](https://www.e-tar.lt/portal/lt/legalAct/TAR.B1A9DF157DD8); 2009, Nr. [61-2407](https://www.e-tar.lt/portal/lt/legalAct/TAR.6748AEE543A4), Nr. [153-6883](https://www.e-tar.lt/portal/lt/legalAct/TAR.B57FFE1E8C8A); 2010, Nr. [76-3869](https://www.e-tar.lt/portal/lt/legalAct/TAR.83C46ACB5AA3))
 
-\#### 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 2 dalies pakeitimas
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Piliečių, kurių prašymai atkurti nuosavybės teises į nekilnojamąjį turtą pateikti po 1993 m. rugsėjo 10 d., nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos grąžinant žemę, mišką natūra arba už išlikusį nekilnojamąjį turtą atlyginama šiame įstatyme nurodytais būdais, išskyrus atlyginimą pinigais (ši išimtis netaikoma šio įstatymo 16 straipsnio 9 dalies 6 punkte numatytu atveju), jeigu iki prašymo padavimo dienos nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo 2 straipsnyje nurodytiems piliečiams.“
 
-\#### 2 straipsnis. 16 straipsnio 9 dalies 6 punkto pakeitimas
+## 2 straipsnis. 16 straipsnio 9 dalies 6 punkto pakeitimas
 
 Pakeisti 16 straipsnio 9 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) pinigais – išpirkdama žemę, kuri nustatyta tvarka buvo priskirta miestų teritorijoms iki 1995 m. birželio 1 d.;“.
 
-\#### 3 straipsnis. 21 straipsnio pakeitimas
+## 3 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 7. Piliečiai, kurie pagal šio įstatymo 4 straipsnio 8 dalį paėmė žemės sklypą kitoje kaimo vietovėje arba kurie pagal šio įstatymo 16 straipsnį vietoj valstybės išperkamos žemės sklypo kaimo vietovėje gavo lygiavertį sklypą kitoje vietovėje, įstatymų nustatyta tvarka gali pasinaudoti valstybės teikiamomis lengvatomis ir parama sodybai perkelti ir ūkiui kurti.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. vasario 1 d.
 

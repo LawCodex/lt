@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5858E546D53D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5858E546D53D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės "Mažeikių nafta" akcijų įsigijimo ir disponavimo jomis įstatymo 3 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2005, Nr. [131-4703](https://www.e-tar.lt/portal/lt/legalAct/TAR.777EF02C1A9E))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies pripažinimas netekusia galios
+## 1 straipsnis. 3 straipsnio 2 dalies pripažinimas netekusia galios
 
 3 straipsnio 2 dalį pripažinti netekusia galios.
 

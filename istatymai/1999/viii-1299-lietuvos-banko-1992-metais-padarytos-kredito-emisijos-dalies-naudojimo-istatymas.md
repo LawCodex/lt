@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D75AC4D4B34D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D75AC4D4B34D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko 1992 metais padarytos kredito emisijos dalies naudojimo įstatymas
@@ -26,15 +26,15 @@ LIETUVOS BANKO 1992 METAIS PADARYTOS KREDITO EMISIJOS DALIES NAUDOJIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato pagal Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. liepos 14 d. nutarimą „Dėl kredito emisijos ir pasirengimo įvesti savus pinigus“ (Žin., 1992, Nr. [22-636](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF48630794A7)) Lietuvos banko 1992 metais padarytos kredito emisijos dalies, panaudotos kaip kredito ištekliai gyvenamųjų namų, butų statybai arba pirkimui kredituoti lengvatinėmis sąlygomis, tolesnį naudojimą.
 
-\#### 2 straipsnis. Kredito emisijos dalies naudojimas
+## 2 straipsnis. Kredito emisijos dalies naudojimas
 
 Kredito emisijos dalis, panaudota kaip kredito ištekliai gyvenamųjų namų, butų statybai arba pirkimui kredituoti lengvatinėmis sąlygomis per akcines bendroves Lietuvos žemės ūkio banką ir Lietuvos taupomąjį banką ir negrąžinta Lietuvos bankui, bet ne didesnė kaip esanti šio įstatymo įsigaliojimo dieną, perduodama disponuoti Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai ir naudojama šių bankų paskoloms, išduotoms vadovaujantis Lietuvos Respublikos Vyriausybės nutarimais, restruktūrizuoti. Šių kredito išteklių naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-\#### 3 straipsnis. Lietuvos banko pretenzijos dėl kredito išteklių grąžinimo
+## 3 straipsnis. Lietuvos banko pretenzijos dėl kredito išteklių grąžinimo
 
 1. Kredito emisijos dalis, panaudota kaip kredito ištekliai gyvenamųjų namų, butų statybai arba pirkimui kredituoti lengvatinėmis sąlygomis per akcines bendroves Lietuvos žemės ūkio banką ir Lietuvos taupomąjį banką ir šiuo įstatymu perduota disponuoti Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai, Lietuvos bankui negrąžinama.
 

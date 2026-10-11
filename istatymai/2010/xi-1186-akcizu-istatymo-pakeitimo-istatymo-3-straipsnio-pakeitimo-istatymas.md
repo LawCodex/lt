@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62E1928F4479"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62E1928F4479.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2010, Nr. [45-2174](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E421A12D76D))
 
-\#### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
 
 3 straipsnio 4 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip:
 

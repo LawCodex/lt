@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.824337E8EC19"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.824337E8EC19.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 2, 3, 4, 6, 9-1, 14 straipsnių pakeitimo ir įstatymo papildymo 4-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975; 2008, Nr. [123-4657](https://www.e-tar.lt/portal/lt/legalAct/TAR.C427721C7502))
 
-\#### 1 straipsnis. 2 straipsnio 1, 2, 4, 5 ir 6 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1, 2, 4, 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „6. **Viešojo administravimo įstaiga –**valstybės ar savivaldybės biudžetinė įstaiga, šio įstatymo nustatyta tvarka įgaliota atlikti viešąjį administravimą.“
 
-\#### 2 straipsnis. 3 straipsnio 1 ir 4 punktų pakeitimas
+## 2 straipsnis. 3 straipsnio 1 ir 4 punktų pakeitimas
 
 1. Pakeisti 3 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „4) nepiktnaudžiavimo valdžia. Šis principas reiškia, kad viešojo administravimo subjektams draudžiama atlikti viešojo administravimo funkcijas neturint šio įstatymo nustatyta tvarka suteiktų viešojo administravimo įgaliojimų arba priimti administracinius sprendimus, siekiant kitų, negu įstatymų ar kitų norminių teisės aktų nustatyta, tikslų;“.
 
-\#### 3 straipsnis. 4 straipsnio 1 ir 6 dalių pakeitimas
+## 3 straipsnis. 4 straipsnio 1 ir 6 dalių pakeitimas
 
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 „6. Kiti viešojo administravimo subjektai – fiziniai ar juridiniai asmenys (viešosios įstaigos, valstybės įmonės, nevyriausybinės organizacijos, asociacijos), šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.“
 
-\#### 4 straipsnis. Įstatymo papildymas 41 straipsniu
+## 4 straipsnis. Įstatymo papildymas 41 straipsniu
 
 Papildyti Įstatymą 4^1 straipsniu:
 
@@ -82,7 +82,7 @@ Papildyti Įstatymą 4^1 straipsniu:
 
 2. Viešojo administravimo įgaliojimai vadovaujantis šio straipsnio 1 dalies 3 punkto nuostatomis subjektams suteikiami iki 2010 m. sausio 1 d. Nuo 2010 m. sausio 1 d. tokie viešojo administravimo įgaliojimai subjektams suteikiami vadovaujantis šio straipsnio 1 dalies 1 ir 2 punktų nuostatomis.“
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 4. Privalomus reikalavimus asmenims nustato tik įstatymai ar jų pagrindu priimti teisės aktai.“
 
-\#### 6 straipsnis. 91 straipsnio 1 ir 3 dalių pakeitimas
+## 6 straipsnis. 91 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 91 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „3. Verslą prižiūrinčių subjektų veikla, susijusi su verslo subjektų veiklos priežiūra, turi būti atliekama tik pagal verslą prižiūrintiems subjektams šio įstatymo nustatyta tvarka suteiktus įgaliojimus, vadovaujantis šiuo ir kitais verslo subjektų veiklos priežiūrą reglamentuojančiais įstatymais ir jų pagrindu priimtais kitais teisės aktais. Ši veikla turi būti planuojama ir turi kuo mažiau trikdyti verslo subjektų veiklą.“
 
-\#### 7 straipsnis. 14 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 14 straipsnio 2 dalies pakeitimas
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 

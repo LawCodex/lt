@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E2E88643AD5D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E2E88643AD5D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 11 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [101-2300](https://www.e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8); 1999, Nr. [60-1951](https://www.e-tar.lt/portal/lt/legalAct/TAR.899BF6B46D69); 2003, Nr. [73-3355](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2AC442F66BD); 2008, Nr. [75-2921](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA3008BA884D))
 
-\#### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 

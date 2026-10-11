@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.292DC18F6C12"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.292DC18F6C12.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 16, 18-1, 29, 31, 32, 34 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2004, Nr. [47-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.65C0438E6F29); 2006, Nr. [53-1928](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB5D0EA7EAA4), Nr. [127-4822](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2541E9A3D87); 2007, Nr. [77-3041](https://www.e-tar.lt/portal/lt/legalAct/TAR.6EDFAB619E76); 2008, Nr. [48-1771](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE1DC8808AAD), Nr. [123-4660](https://www.e-tar.lt/portal/lt/legalAct/TAR.606495E318F6))
 
-\#### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 12 straipsnio 1 dalyje vietoj žodžių „Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės (toliau – Tarnyba)“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolėsdepartamento“ ir šią dalį išdėstyti taip:
 
 „1. Gaminti alkoholio produktus (išskyrus šio Įstatymo 10 straipsnyje nurodytus namų gamybos alkoholinius gėrimus, kuriuos pasigamina fiziniai asmenys asmeniniam naudojimui) leidžiama tik įstatymų nustatyta tvarka Lietuvos Respublikoje įregistruotoms įmonėms ir užsienio juridinių asmenų filialams (toliau – įmonė), kurie turi Narkotikų, tabako ir alkoholio kontrolės departamentoišduotą licenciją gaminti šiuos produktus. Licencija išduodama neterminuotam laikui.“
 
-\#### 2 straipsnis. 16 straipsnio 1 ir 5 dalių pakeitimas
+## 2 straipsnis. 16 straipsnio 1 ir 5 dalių pakeitimas
 
 1. 16 straipsnio 1 dalyje vietoj žodžio „Tarnybos“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šią dalį išdėstyti taip:
 
@@ -40,19 +40,19 @@ Vilnius
 
 „5. Mažmeninės prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse licencijų išdavimo tvarką nustato ir visuomenės informavimo priemonėse skelbia savivaldybės taryba. Licencijų išdavimą savivaldybėse kontroliuoja Narkotikų, tabako ir alkoholio kontrolės departamentas.“
 
-\#### 3 straipsnis. 181 straipsnio 7 punkto pakeitimas
+## 3 straipsnis. 181 straipsnio 7 punkto pakeitimas
 
 18^1 straipsnio 7 punkte po žodžio „policijos“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, vietoj žodžio „Tarnybos“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šį punktą išdėstyti taip:
 
 „7) įmonėms arba jų vadovams ar kitiems darbuotojams (jeigu jie veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės maisto ir veterinarijos tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą (licencijos apskritai neišduodamos);“.
 
-\#### 4 straipsnis. 29 straipsnio 7 dalies pakeitimas
+## 4 straipsnis. 29 straipsnio 7 dalies pakeitimas
 
 29 straipsnio 7 dalyje vietoj žodžio „Tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip:
 
 „7. Kaip laikomasi šio straipsnio reikalavimų, kontroliuoja Narkotikų, tabako ir alkoholio kontrolės departamentas, savivaldybių institucijos (išorinės reklamos draudimo pažeidimus).“
 
-\#### 5 straipsnis. 31 straipsnio pakeitimas
+## 5 straipsnis. 31 straipsnio pakeitimas
 
 31 straipsnyje vietoj žodžio „Tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba“ ir šį straipsnį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 Valstybės alkoholio kontrolę pagal kompetenciją atlieka ministerijos, Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba, kitos valstybės institucijos, savivaldybių vykdomosios institucijos, policija, sveikatos priežiūros įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai.“
 
-\#### 6 straipsnis. 32 straipsnio pakeitimas
+## 6 straipsnis. 32 straipsnio pakeitimas
 
 32 straipsnyje vietoj žodžių „Valstybinė tabako ir alkoholio kontrolės tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolėsdepartamentas“, vietoj žodžio „Tarnybos“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šį straipsnį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Valstybės alkoholio kontrolę pagal kompetenciją atlieka ministerijos, Narkoti
 
 Narkotikų, tabako ir alkoholio kontrolės departamento kompetenciją nustato Lietuvos Respublikos sveikatos sistemos įstatymas, šis Įstatymas bei Narkotikų, tabako ir alkoholio kontrolės departamento nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 7 straipsnis. 34 straipsnio 1, 11, 13, 14, 18 dalių ir 20 dalies 4 punkto pakeitimas
+## 7 straipsnis. 34 straipsnio 1, 11, 13, 14, 18 dalių ir 20 dalies 4 punkto pakeitimas
 
 1. 34 straipsnio 1 dalyje vietoj žodžio „Tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip:
 
@@ -94,11 +94,11 @@ Narkotikų, tabako ir alkoholio kontrolės departamento kompetenciją nustato Li
 
 „4) pasikeitus įmonės vadovui paaiškėja, kad naujam įmonės vadovui yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės maisto ir veterinarijos tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, laikymą ar gabenimą ir per licenciją išdavusios institucijos nustatytą terminą įmonė šio vadovo nepakeičia;“.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 9 straipsnį, įsigalioja 2011m. balandžio 1 d.
 
-\#### 9 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 9 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2011 m. kovo 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a5045930747811e3b675ad30753d4b1b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A50459307478.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 2, 4, 42, 43, 44, 45 straipsnių pakeitimo ir papildymo ĮSTATYMAS
@@ -30,7 +30,7 @@ Vilnius
 
 2012, Nr. 69-3525; 2013, Nr. 73-3652)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip:
 
@@ -60,13 +60,13 @@ Vilnius
 
 6. Buvusias 2 straipsnio 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 dalis laikyti atitinkamai 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 dalimis.
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Krašto apsaugos pareigūnams ir kariams, vidaus reikalų sistemos, muitinės, valstybės saugumo ir kitų institucijų pareigūnams, kurių tarnybinius santykius nustato atitinkami statutai ir Lietuvos Respublikos žvalgybos įstatymas, šio Įstatymo bei kitų darbuotojų saugos ir sveikatos norminių teisės aktų nuostatos netaikomos tik tais atvejais, kai šie asmenys vykdo veiklą, kuriai būdingi specifiniai veiklos požymiai. Šių institucijų pareigūnų ir karių tarnybą reglamentuojančiuose norminiuose teisės aktuose privalo būti nustatyti saugos ir sveikatos reikalavimai jiems vykdant specifinę veiklą.“
 
-\#### 3 straipsnis. 42 straipsnio 1 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 3 straipsnis. 42 straipsnio 1 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Pripažinti 42 straipsnio 3 dalį netekusia galios.
 
-\#### 4 straipsnis. 43 straipsnio pakeitimas
+## 4 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 4. Pranešimų apie įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas ir jų registravimo tvarka nustatoma atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose, Profesinių ligų tyrimo ir apskaitos nuostatuose.“
 
-\#### 5 straipsnis. 44 straipsnio pakeitimas
+## 5 straipsnis. 44 straipsnio pakeitimas
 
 Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
@@ -120,13 +120,13 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
 10. Ūmias profesines ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – visuomenės sveikatos centrų apskrityse direktoriai (jų pavaduotojai) ar kiti direktorių paskirti atstovai, Valstybinės darbo inspekcijos teritorinio skyriaus vedėjas, Valstybinės darbo inspekcijos teritorinio skyriaus inspektorius. Atliekant tyrimą dalyvauja darbdavio atstovas ir darbuotojų atstovas (atstovai) saugai ir sveikatai.“
 
-\#### 6 straipsnis. 45 straipsnio 5 dalies pakeitimas
+## 6 straipsnis. 45 straipsnio 5 dalies pakeitimas
 
 Pakeisti 45 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Visi įvykiai darbe, dėl kurių darbuotojas patiria žalą sveikatai, nelaimingi atsitikimai pakeliui į darbą ar iš darbo ir profesinės ligos įmonėje registruojami atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose, Profesinių ligų tyrimo ir apskaitos nuostatuose nustatyta tvarka.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5653694FA9E6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5653694FA9E6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos notariato įstatymo pakeitimo ir papildymo
@@ -38,7 +38,7 @@ Notariniams veiksmams atlikti notaras steigia savo biurą. Keli notarai gali ste
 
 Notarus skiria ir atleidžia Lietuvos Respublikos teisingumo ministras.
 
-\#### 3 straipsnis. Teisė užimti notaro pareigas
+## 3 straipsnis. Teisė užimti notaro pareigas
 
 Notaro pareigos užimamos konkurso būdu.
 
@@ -48,7 +48,7 @@ Konkurso nuostatus Lietuvos Respublikos notarų rūmų teikimu tvirtina Lietuvos
 
 Notarų kvalifikacija ir tinkamumas pareigoms tikrinami atestacija. Notarai atestuojami pagal nuostatus, kuriuos tvirtina Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.
 
-\#### 4 straipsnis. Kandidatai į notarus (asesoriai)
+## 4 straipsnis. Kandidatai į notarus (asesoriai)
 
 Kandidatus į notarus (asesorius) priima ir atleidžia Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.
 
@@ -82,7 +82,7 @@ Notaro atstovu gali būti paskirtas tik toks asmuo, kuris yra išlaikęs notaro 
 
 Notaro atstovui atstovaujamasis notaras pagal susitarimą moka atlyginimą.
 
-\#### 23 straipsnis. Notaro įgaliojimų pasibaigimas
+## 23 straipsnis. Notaro įgaliojimų pasibaigimas
 
 Notaro įgaliojimai pasibaigia:
 
@@ -104,7 +104,7 @@ Notaro įgaliojimai pasibaigia:
 
 Notaro įgaliojimų pasibaigimas (atleidimas iš pareigų) įforminamas Lietuvos Respublikos teisingumo ministro įsakymu.
 
-\#### 24 straipsnis. Notaro veiklos tęstinumas
+## 24 straipsnis. Notaro veiklos tęstinumas
 
 Pasibaigus notaro įgaliojimams, Lietuvos Respublikos teisingumo ministerija priima sprendimą dėl tolesnės biuro veiklos, neatliktų notarinių veiksmų tęsimo ir dokumentų perdavimo.“
 

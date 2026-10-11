@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.35874BEFBD06"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.35874BEFBD06.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo 2, 3, 4, 7 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [35-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4DC70F7969B))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnį pakeisti ir išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 7. Nustatyti, kad, atidarant šio straipsnio 1 dalyje nustatytų VVP sąskaitas, pinigų likučiai yra apvalinami iki sveiko skaičiaus litais. Sąskaitos, kuriose apvalinant nelieka sveiko skaičiaus litais, LAIB yra uždaromos, likučiai nurašomi, o VVP sąskaitos neatidaromos.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 3 straipsnį papildyti naujomis 3 ir 4 dalimis, buvusią 3 dalį laikyti 5 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Vilnius
 
 5. Palūkanos už šio straipsnio 1 dalyje nustatytus VVP neskaičiuojamos ir nemokamos.“
 
-\#### 3 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas
+## 3 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas
 
 4 straipsnio 3 ir 4 dalis pakeisti ir išdėstyti taip:
 
@@ -90,7 +90,7 @@ Vilnius
 
 4. Asmenys, nepateikę reikalavimų per 2 straipsnio 5 dalyje nustatytą laiką, praranda teisę į reikalavimų patenkinimą.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 7 straipsnio 1 dalyje po žodžių „laikomos įvykdytomis“ įrašyti žodžius „o jų sąskaitos LAIB – uždarytomis“, 3 dalyje po žodžių „laikomos pasibaigusiomis“ įrašyti žodžius „o jų sąskaitos LAIB – uždarytomis“, vietoj žodžių „apie tai“ įrašyti žodį „jį“ ir šį straipsnį išdėstyti taip:
 

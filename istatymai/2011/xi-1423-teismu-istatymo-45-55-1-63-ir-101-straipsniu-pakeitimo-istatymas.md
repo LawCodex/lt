@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.574C89ED03E9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.574C89ED03E9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 45, 55-1, 63 ir 101 straipsnių pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. [60-2121](https://www.e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982); 2008, Nr. [81-3186](https://www.e-tar.lt/portal/lt/legalAct/TAR.C297668F27C1), Nr. [131-5023](https://www.e-tar.lt/portal/lt/legalAct/TAR.54A0C21F0C79); 2009, Nr. [147-6559](https://www.e-tar.lt/portal/lt/legalAct/TAR.D27548E3B15F))
 
-\#### 1 straipsnis. 45 straipsnio 4 ir 5 dalių pakeitimas
+## 1 straipsnis. 45 straipsnio 4 ir 5 dalių pakeitimas
 
 1. 45 straipsnio 4 dalyje išbraukti žodžius „ar kitos jurisdikcijos teismo“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Nr. [60-2121](https://www.e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982); 2008, N
 
 „5. Teisėją perkelti į kitą tos pačios pakopos ar kitos jurisdikcijos teismą arba žemesnės pakopos teismą galima tik teisėjo sutikimu, išskyrus atvejus, numatytus šio Įstatymo 63 straipsnio 3, 5 ir 6 dalyse.“
 
-\#### 2 straipsnis. 551 straipsnio 4 ir 5 dalių pakeitimas
+## 2 straipsnis. 551 straipsnio 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 551 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Nr. [60-2121](https://www.e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982); 2008, N
 
 „5. Pirmenybę į laisvą arba atsilaisvinsiančią apylinkės teismo teisėjo vietą turi teisėjai, siekiantys būti paskirti į kitą teismą šio Įstatymo 64 straipsnyje nustatyta tvarka, arba buvę teisėjai, siekiantys būti paskirti šio Įstatymo 61 straipsnyje nustatyta tvarka. Jeigu tokių pretendentų nėra, atrankoje, vadovaujantis šio straipsnio 3 dalyje nurodyta skelbimo ir organizavimo tvarka, dalyvauja teisėjai, pageidaujantys būti perkelti į kitą teismą šio Įstatymo 63 straipsnio 1 dalyje nustatyta tvarka, ir pretendentai į teisėjus.“
 
-\#### 3 straipsnis. 63 straipsnio pakeitimas
+## 3 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 10. Teisėjas laikomas perkeltu į kitą teismą nuo Respublikos Prezidento dekreto dėl teisėjo perkėlimo įsigaliojimo dienos.“
 
-\#### 4 straipsnis. 101 straipsnio 3 ir 4 dalių pakeitimas
+## 4 straipsnis. 101 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 101 straipsnio 3 dalyje vietoj žodžių ir skaičių „45 straipsnio 5 dalyje“ įrašyti žodžius ir skaičius „63 straipsnio 3 dalyje“ ir šią dalį išdėstyti taip:
 

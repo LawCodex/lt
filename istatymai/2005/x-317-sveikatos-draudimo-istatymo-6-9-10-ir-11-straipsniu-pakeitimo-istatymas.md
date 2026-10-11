@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.61D84FD9FC5C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.61D84FD9FC5C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6, 9, 10 ir 11 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239), Nr. [171-6325](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A9D53671BAE), Nr. [188-7002](https://www.e-tar.lt/portal/lt/legalAct/TAR.41AE07789F2A); 2005, Nr. [61-2159](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB690AFBE93), Nr. [67-2402](https://www.e-tar.lt/portal/lt/legalAct/TAR.9773E1B93EB7))
 
-\#### 1 straipsnis. 6 straipsnio 4 dalies 5, 9 ir 10 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 4 dalies 5, 9 ir 10 punktų pakeitimas
 
 1. Pakeisti 6 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -42,11 +42,11 @@ Vilnius
 
 „10) asmenys, teisės aktų nustatyta tvarka pripažinti neįgaliaisiais;“.
 
-\#### 2 straipsnis. 9 straipsnio 5 dalies 2 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 9 straipsnio 5 dalies 2 punkto pripažinimas netekusiu galios
 
 9 straipsnio 5 dalies 2 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 10 straipsnio 2 dalies 2 punkto ir 4 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 2 dalies 2 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 10 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Vilnius
 
 3) gaunantiems II grupės invalidumo pensiją arba iš dalies darbingiems asmenims, kuriems teisės aktų nustatyta tvarka nustatytas 30–40 procentų darbingumo lygis.“
 
-\#### 4 straipsnis. 11 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 11 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Vilnius
 
 2) asmenims iki 18 metų, kurie teisės aktų nustatyta tvarka pripažinti neįgaliaisiais.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Asmenims, kuriems iki šio įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, garantijos išsaugomos Invalidų socialinės integracijos įstatymo pakeitimo įstatymo (Žin., 2004, Nr. 83-2983) nustatyta tvarka.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C797F81F2EBA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C797F81F2EBA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 9, 12, 13, 32, 41, 46, 64, 68 straipsnių pakeitimo ir 66 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A); 2004, Nr. [171-6309](https://www.e-tar.lt/portal/lt/legalAct/TAR.2F79E8698F3A); 2007, Nr. [64-2456](https://www.e-tar.lt/portal/lt/legalAct/TAR.5490EE6DF9CD))
 
-\#### 1 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas
+## 1 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas
 
 9 straipsnio 1 dalies 1 punkte išbraukti žodžius „apskričių viršininkai“ ir šį punktą išdėstyti taip:
 
 „1) sveikatinimo veiklos valstybinio valdymo subjektai (Vyriausybė, ministerijos, kitos Vyriausybės įstaigos);“.
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -70,31 +70,31 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 9. Sveikatos priežiūros mastą pagal LNSS veiklos organizavimo ir sveikatos priežiūros paslaugų lygius nustato Sveikatos apsaugos ministerija.“
 
-\#### 3 straipsnis. 13 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 13 straipsnio 1 dalies pakeitimas
 
 Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. LNSS veiklos ir teikiamų paslaugų užsakovai yra Vyriausybė, Sveikatos apsaugos ministerija, kitos valstybės institucijos, savivaldybių tarybos, Valstybinė ir teritorinės ligonių kasos ir kitos LNSS ištekliais disponuojančios institucijos.“
 
-\#### 4 straipsnis. 32 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 32 straipsnio 2 dalies pakeitimas
 
 Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Sveikatos propagandą, remiančią sveikatos politikos iniciatyvas, per Lietuvos nacionalinį radiją ir televiziją bei kitas visuomenės informavimo priemones iš valstybės ar savivaldybių biudžetų lėšų pagal kompetenciją organizuoja Sveikatos apsaugos ministerija, kitos Vyriausybės įstaigos, savivaldybės vykdomoji institucija.“
 
-\#### 5 straipsnis. 41 straipsnio 4 dalies pakeitimas
+## 5 straipsnis. 41 straipsnio 4 dalies pakeitimas
 
 Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Savivaldybės institucija ataskaitą, o prireikus – ir papildomą informaciją apie Savivaldybės visuomenės sveikatos rėmimo specialiosios programos priemonių vykdymą teikia Sveikatos apsaugos ministerijai ataskaitoje apie savivaldybės vykdomas visuomenės sveikatos priežiūros funkcijas Vyriausybės nustatyta tvarka.“
 
-\#### 6 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 46 straipsnio 2 dalyje išbraukti žodžius „apskričių viršininkai“ ir „apskričių (regionų)“ ir šią dalį išdėstyti taip:
 
 „2. Lietuvos sveikatos programoje nustatytiems uždaviniams įgyvendinti Vyriausybė, ministerijos, kitos Vyriausybės įstaigos, savivaldybės organizuoja valstybės ir savivaldybių sveikatos programų ir įstatymų nustatytų planavimo dokumentų rengimą bei jų įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones kitose socialinio ir ekonominio plėtojimo programose.“
 
-\#### 7 straipsnis. 64 straipsnio 1, 3, 6, 7 ir 8 punktų pakeitimas
+## 7 straipsnis. 64 straipsnio 1, 3, 6, 7 ir 8 punktų pakeitimas
 
 1. 64 straipsnio 1 punkte išbraukti žodį „pirminės“ ir šį punktą išdėstyti taip:
 
@@ -116,11 +116,11 @@ Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „8) organizuoja pacientų teisių įgyvendinimo priežiūrą savivaldybei pavaldžiose asmens sveikatos priežiūros įstaigose;“.
 
-\#### 8 straipsnis. 66 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 66 straipsnio pripažinimas netekusiu galios
 
 66 straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 68 straipsnio 4 dalies 3 ir 4 punktų pakeitimas
+## 9 straipsnis. 68 straipsnio 4 dalies 3 ir 4 punktų pakeitimas
 
 1. 68 straipsnio 4 dalies 3 punkte išbraukti žodžius „apskričių viršininkams“, vietoj žodžių „savivaldos vykdomosioms institucijoms“ įrašyti žodžius „savivaldybės vykdomajai institucijai“ ir šį punktą išdėstyti taip:
 
@@ -130,11 +130,11 @@ Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4) dalyvauti svarstant sveikatos politikos klausimus Vyriausybėje, savivaldybės vykdomojoje institucijoje, ministerijose, kitose Vyriausybės įstaigose;“.
 
-\#### 10 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 10 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2010 m. gegužės 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 10 straipsnį, įsigalioja 2010 m. liepos 1 d.
 

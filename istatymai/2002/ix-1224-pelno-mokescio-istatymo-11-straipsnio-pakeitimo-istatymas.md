@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.57CC6D81313B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.57CC6D81313B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 11 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9))
 
-\#### 1 straipsnis. 11 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 4 dalies pakeitimas
 
 Pakeisti 11 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Išlaidos, kurių pagrindu pripažįstamos sąnaudos, gali būti grindžiamos tik juridinę galią turinčiais dokumentais, kurie privalo turėti visus buhalterinę apskaitą reglamentuojančių teisės aktų nustatytus privalomus apskaitos dokumentų rekvizitus. Be šių rekvizitų, išlaidas, kurių pagrindu pripažįstamos sąnaudos, pagrindžiančiuose dokumentuose privalo būti nurodyti ir kiti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyti papildomi rekvizitai.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šio Įstatymo 1 straipsnio nuostata taikoma apskaičiuojant pelno mokestį už 2002 metų mokestinį laikotarpį.
 

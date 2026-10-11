@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9893688FA176"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9893688FA176.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geriamojo vandens įstatymas
@@ -384,5 +384,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1746, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27565
 
 Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 pakeitimo įstatymas
-
-part_dd3d4498d492464c85c75cd66ec6bbb2_end

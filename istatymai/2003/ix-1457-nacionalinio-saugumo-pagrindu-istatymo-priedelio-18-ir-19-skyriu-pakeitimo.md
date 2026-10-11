@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F27DF31046B6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F27DF31046B6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 18 ir 19 skyrių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 2000, Nr. [92-2849](https://www.e-tar.lt/portal/lt/legalAct/TAR.2D73CC0D50DD))
 
-\#### 1 straipsnis. Priedėlio 18 skyriaus šeštojo skirsnio 1 ir 3 dalių pakeitimas
+## 1 straipsnis. Priedėlio 18 skyriaus šeštojo skirsnio 1 ir 3 dalių pakeitimas
 
 1. 18 skyriaus šeštojo skirsnio 1 dalyje vietoj žodžių „tardymo institucijose“ įrašyti žodžius „ikiteisminio tyrimo įstaigose“ ir šią dalį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „Krašto apsaugos ministerijos sistemoje veikia karo policija, kurios paskirtis – užkirsti kelią karių viešosios tvarkos ir teisės pažeidimams. Viešosios tvarkos ar teisės pažeidimų atvejais karo policija sulaiko pažeidėjus ir atlieka ikiteisminį tyrimą. Karo policijos funkcijas, teises ir pareigas nustato įstatymai.“
 
-\#### 2 straipsnis. Priedėlio 19 skyriaus 1 dalies pakeitimas
+## 2 straipsnis. Priedėlio 19 skyriaus 1 dalies pakeitimas
 
 19 skyriaus 1 dalyje vietoj žodžio „nusikaltimais“ įrašyti žodžius „nusikalstamomis veikomis“ ir šią dalį išdėstyti taip:
 
 „Pagrindinė policijos, kaip nacionalinio saugumo sistemos sudedamosios dalies, paskirtis – užtikrinti asmens saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su nusikalstamomis veikomis, saugoti valstybės objektus. Policijos funkcijas nustato įstatymas.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

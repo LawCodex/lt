@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BB4F2ED3E313"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BB4F2ED3E313.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo 2, 5, 6, 8, 11, 14, 19, 21, 22, 23, 27, 29, 30, 31 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 31-1, 31-2, 31-3, 31-4, 31-5, 31-6, 31-7 straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [3-37](https://www.e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8); 2004, Nr. [153-5571](https://www.e-tar.lt/portal/lt/legalAct/TAR.926B9B9755A3); 2007, Nr. [80-3218](https://www.e-tar.lt/portal/lt/legalAct/TAR.F7EE17C5A694), Nr. [81-3325](https://www.e-tar.lt/portal/lt/legalAct/TAR.A05C839FAF3A); 2008, Nr. [59-2203](https://www.e-tar.lt/portal/lt/legalAct/TAR.DFAA3CFC331F))
 
-\#### 1 straipsnis. 2 straipsnio 1, 14, 19, 30, 31, 34 ir 37 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1, 14, 19, 30, 31, 34 ir 37 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 „37. **Tvarkomieji statybos darbai** – statybos ar griovimo darbai, kaip apibrėžta Statybos įstatyme, atliekami kultūros paveldo objekte, jo teritorijoje ar apsaugos zonoje, kultūros paveldo vietovėje.“
 
-\#### 2 straipsnis. 5 straipsnio 5, 6 dalių ir 10 dalies 5, 7, 9, 19, 20, 24 punktų pakeitimas
+## 2 straipsnis. 5 straipsnio 5, 6 dalių ir 10 dalies 5, 7, 9, 19, 20, 24 punktų pakeitimas
 
 1. Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -88,7 +88,7 @@ Vilnius
 
 „24) įstatymų nustatytais atvejais ir tvarka surašo administracinės teisės pažeidimo protokolus, nagrinėja jo įgaliojimų sričiai priskirtas administracinių teisės pažeidimų bylas;“.
 
-\#### 3 straipsnis. 6 straipsnio 1 ir 4 dalių pakeitimas
+## 3 straipsnis. 6 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -112,7 +112,7 @@ Vilnius
 
 7) pagal kompetenciją atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 12. Kultūros vertybių registro duomenys yra vieši ir į kitus registrus neperregistruojami.“
 
-\#### 5 straipsnis. 11 straipsnio 2, 3 ir 7 dalių pakeitimas
+## 5 straipsnis. 11 straipsnio 2, 3 ir 7 dalių pakeitimas
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 „7. Apsaugos zonos ribos nustatomos vadovaujantis Teritorijų planavimo ir šiuo įstatymu. Draustinyje ar rezervate esančio kultūros paveldo objekto apsaugos zonos ribos nenustatomos. Šiuo atveju draustinio ar rezervato teritorijų planavimo dokumentai ir (ar) šių saugomų teritorijų nuostatai papildomi apsaugos nuo galimo neigiamo veiklos gretimose teritorijose poveikio reikalavimais.“
 
-\#### 6 straipsnis. 14 straipsnio 1 dalies 3, 4, 5 punktų ir 3 dalies pakeitimas
+## 6 straipsnis. 14 straipsnio 1 dalies 3, 4, 5 punktų ir 3 dalies pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 7) įgyvendinti apsaugos techninių priemonių įrengimo ir kitus neatidėliotinus saugojimo darbus, nustatytus kultūros ministro.“
 
-\#### 7 straipsnis. 19 straipsnio 2 dalies 2 punkto ir 4, 6, 7 dalių pakeitimas
+## 7 straipsnis. 19 straipsnio 2 dalies 2 punkto ir 4, 6, 7 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -218,7 +218,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 „7. Sutikimas pagal šio straipsnio 6 dalį nebūtinas, jeigu tokie veiksmai leidžiami pagal už kultūros paveldo apsaugą atsakingos institucijos patvirtintą kultūros paveldo kompleksinio objekto ar vietovės teritorijos ir apsaugos zonų tvarkymo planą, kuriame nustatomas galimas kiekvieno sklypo naudojimo pobūdis ir užstatymo sąlygos.“
 
-\#### 8 straipsnis. 21 straipsnio pakeitimas
+## 8 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -250,7 +250,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 6. Savivaldybės institucijos prižiūri saugomose teritorijose esančių savivaldybės paskelbtų saugomais kultūros paveldo objektų ir vietovių naudojimą ir juose atliekamus statybos ar tvarkybos darbus, kontroliuoja, kaip užtikrinama savivaldybės saugomų objektų, vietovių apsauga ir kaip laikomasi nustatyto apsaugos ir naudojimo režimo planuojant ar vykdant veiklą, rengia savivaldybės saugomų kultūros paveldo objektų apsaugos reglamentus, organizuoja kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planų rengimą.“
 
-\#### 9 straipsnis. 22 straipsnio pakeitimas
+## 9 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -292,7 +292,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 12. Šiame straipsnyje nustatytų nekilnojamojo kultūros paveldo apsaugos specialiųjų planų rengimą finansuoti gali ir kultūros paveldo objekto valdytojai bei kitų nekilnojamųjų daiktų, esančių kultūros paveldo objekto teritorijoje arba apsaugos zonoje, savininkai ar kiti valdymo teisių turėtojai.“
 
-\#### 10 straipsnis. 23 straipsnio pavadinimo, 1, 4, 8, 10 dalių pakeitimas ir 11 dalies pripažinimas netekusia galios
+## 10 straipsnis. 23 straipsnio pavadinimo, 1, 4, 8, 10 dalių pakeitimas ir 11 dalies pripažinimas netekusia galios
 
 1. Pakeisti 23 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -328,13 +328,13 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 6. 23 straipsnio 11 dalį pripažinti netekusia galios.
 
-\#### 11 straipsnis. 27 straipsnio 5 dalies pakeitimas
+## 11 straipsnis. 27 straipsnio 5 dalies pakeitimas
 
 Pakeisti 27 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Nekilnojamųjų kultūros vertybių tyrimai, avarijos grėsmės pašalinimo, apsaugos techninių priemonių įrengimo ir kiti neatidėliotini saugojimo darbai gali būti finansuojami iš paveldotvarkai skirtų lėšų. Tokių darbų sąrašą ir jų finansavimo prioritetus tvirtina kultūros ministras. Savivaldybių lėšų skyrimo tvarkybos darbams tvarką nustato savivaldybių tarybos.“
 
-\#### 12 straipsnis. 29 straipsnio pakeitimas
+## 12 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -346,7 +346,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 3. Į valstybės patirtus nuostolius gali būti įskaičiuojamos valstybės ir savivaldybių biudžetų išlaidos sužalotos kultūros vertybės tvarkybai, negautos pajamos iš turizmo, nepažinto mokslinių duomenų šaltinio ir švietimo bei ugdymo priemonės praradimas, taip pat valstybės ir savivaldybių biudžetų išlaidos prarastai ar sužalotai vertybei atskleisti ir jai apsaugoti.“
 
-\#### 13 straipsnis. 30 straipsnio pakeitimas
+## 13 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -364,7 +364,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 3. Netinkamai laikoma nekilnojamoji kultūros vertybė teismo sprendimu gali būti paimama valstybės nuosavybėn įstatymų nustatyta tvarka.“
 
-\#### 14 straipsnis. 31 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 31 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 31 straipsnį ir jį išdėstyti taip:
 
@@ -380,7 +380,7 @@ Pakeisti ir papildyti 31 straipsnį ir jį išdėstyti taip:
 
 5. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai asmenys arba kitos organizacijos ar jų padaliniai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, toliau pažeidinėjo šio įstatymo reikalavimus nepaisydami kompetentingos institucijos nurodymo nutraukti neteisėtus veiksmus. Skirianti baudą institucija gali pripažinti atsakomybę sunkinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.“
 
-\#### 15 straipsnis. Įstatymo papildymas 311 straipsniu
+## 15 straipsnis. Įstatymo papildymas 311 straipsniu
 
 Papildyti Įstatymą 31^1 straipsniu:
 
@@ -390,7 +390,7 @@ Papildyti Įstatymą 31^1 straipsniu:
 
 2. Šio įstatymo 31 straipsnio 2 dalyje nurodytų subjektų atžvilgiu pradėtos bylos nagrinėjamos ir baudos skiriamos ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos, tačiau ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos, o esant trunkamam teisės pažeidimui, – per 3 metus nuo jo paaiškėjimo dienos.“
 
-\#### 16 straipsnis. Įstatymo papildymas 312 straipsniu
+## 16 straipsnis. Įstatymo papildymas 312 straipsniu
 
 Papildyti Įstatymą 31^2 straipsniu:
 
@@ -406,7 +406,7 @@ Papildyti Įstatymą 31^2 straipsniu:
 
 3. Proceso šalims gali atstovauti jų įgalioti atstovai.“
 
-\#### 17 straipsnis. Įstatymo papildymas 313 straipsniu
+## 17 straipsnis. Įstatymo papildymas 313 straipsniu
 
 Papildyti Įstatymą 31^3 straipsniu:
 
@@ -414,7 +414,7 @@ Papildyti Įstatymą 31^3 straipsniu:
 
 Proceso šalims raštu pranešama apie nustatytus šio įstatymo pažeidimus, bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti paaiškinimus.“
 
-\#### 18 straipsnis. Įstatymo papildymas 314 straipsniu
+## 18 straipsnis. Įstatymo papildymas 314 straipsniu
 
 Papildyti Įstatymą 31^4 straipsniu:
 
@@ -426,7 +426,7 @@ Papildyti Įstatymą 31^4 straipsniu:
 
 3. Jeigu proceso šalys bylos nagrinėjimo metu nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra duomenų, kad proceso šalims laiku buvo pranešta apie bylos nagrinėjimo vietą ir laiką.“
 
-\#### 19 straipsnis. Įstatymo papildymas 315 straipsniu
+## 19 straipsnis. Įstatymo papildymas 315 straipsniu
 
 Papildyti Įstatymą 31^5 straipsniu:
 
@@ -444,7 +444,7 @@ Papildyti Įstatymą 31^5 straipsniu:
 
 3. Šio straipsnio 2 dalyje nurodyti nutarimai per 3 darbo dienas nuo jų priėmimo išsiunčiami asmenims, dėl kurių šie nutarimai priimti.“
 
-\#### 20 straipsnis. Įstatymo papildymas 316 straipsniu
+## 20 straipsnis. Įstatymo papildymas 316 straipsniu
 
 Papildyti Įstatymą 31^6 straipsniu:
 
@@ -454,7 +454,7 @@ Papildyti Įstatymą 31^6 straipsniu:
 
 2. Nesumokėtas baudas išieško antstoliai, vykdydami pateiktus šio įstatymo 315 straipsnyje nurodytus nutarimus Civilinio proceso kodekso nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3 metus nuo jų priėmimo dienos.“
 
-\#### 21 straipsnis. Įstatymo papildymas 317 straipsniu
+## 21 straipsnis. Įstatymo papildymas 317 straipsniu
 
 Papildyti Įstatymą 31^7 straipsniu:
 
@@ -466,7 +466,7 @@ Papildyti Įstatymą 31^7 straipsniu:
 
 3. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes (dėl kurių atitinkama bauda teisės pažeidėjui būtų akivaizdžiai per didelė ir neproporcinga (neadekvati) padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo ir protingumo principais, turi teisę skirti mažesnę baudą negu šio įstatymo 31 straipsnio 2 dalyje nustatyta minimali bauda.“
 
-\#### 22 straipsnis. Baigiamosios nuostatos
+## 22 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. liepos 1 d.
 

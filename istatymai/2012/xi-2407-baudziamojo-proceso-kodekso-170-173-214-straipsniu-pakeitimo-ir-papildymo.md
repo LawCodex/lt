@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.77E94AB134E9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77E94AB134E9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 170, 173, 214 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2007, Nr. [81-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCCB8FD78166); 2010, Nr. [113-5742](https://www.e-tar.lt/portal/lt/legalAct/TAR.72A530A7A725); 2011, Nr. [81-3965](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F5705DF52C5); 2012, Nr. [122-6099](https://www.e-tar.lt/portal/lt/legalAct/TAR.CDC6BA2567B4))
 
-\#### 1 straipsnis. 170 straipsnio 4 dalies 3 punkto pakeitimas
+## 1 straipsnis. 170 straipsnio 4 dalies 3 punkto pakeitimas
 
 Pakeisti 170 straipsnio 4 dalies 3 punktą ir visą dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 170 straipsnio 4 dalies 3 punktą ir visą dalį išdėstyti taip:
 
 5) dėl tyrimo užbaigimo ir kaltinamojo akto surašymo.“
 
-\#### 2 straipsnis. 173 straipsnio 1 dalies papildymas ir pakeitimas
+## 2 straipsnis. 173 straipsnio 1 dalies papildymas ir pakeitimas
 
 Papildyti 173 straipsnio 1 dalį nauju 4 punktu, buvusius 4, 5, 6, 7 punktus laikyti atitinkamai 5, 6, 7, 8 punktais ir šią dalį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Papildyti 173 straipsnio 1 dalį nauju 4 punktu, buvusius 4, 5, 6, 7 punktus lai
 
 8) atlieka kitus šiame Kodekse numatytus veiksmus.“
 
-\#### 3 straipsnis. 214 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 214 straipsnio 1 dalies pakeitimas
 
 Pakeisti 214 straipsnio 1 dalį ir ją išdėstyti taip:
 

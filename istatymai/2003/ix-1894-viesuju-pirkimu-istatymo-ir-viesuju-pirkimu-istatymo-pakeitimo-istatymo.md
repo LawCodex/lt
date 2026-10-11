@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C44E0186D722"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C44E0186D722.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo ir Viešųjų pirkimų įstatymo pakeitimo įstatymo pakeitimo įstatymas
@@ -24,13 +24,11 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO IR VIEŠŲJŲ PIRKIMŲ ĮSTAT
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2, 3, 6, 7, 8, 9, 15, 16, 20, 23, 26, 32, 33, 34, 40, 46, 48, 52, 53, 55, 64, 65, 67, 70, 73, 76, 77, 81, 88, 96, 97, 99 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, II SKYRIAUS PAVADINIMO PAKEITIMAS IR ĮSTATYMO PAPILDYMAS 1, 2 PRIEDĖLIAIS BEI PRIEDU
+## PIRMASIS SKIRSNIS. VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2, 3, 6, 7, 8, 9, 15, 16, 20, 23, 26, 32, 33, 34, 40, 46, 48, 52, 53, 55, 64, 65, 67, 70, 73, 76, 77, 81, 88, 96, 97, 99 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, II SKYRIAUS PAVADINIMO PAKEITIMAS IR ĮSTATYMO PAPILDYMAS 1, 2 PRIEDĖLIAIS BEI PRIEDU
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 1999, Nr. [56-1809](https://www.e-tar.lt/portal/lt/legalAct/TAR.1528F405144D); 2002, Nr. [118-5296](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4EDFC59E1E8); 2003, Nr. [57-2529](https://www.e-tar.lt/portal/lt/legalAct/TAR.98F743F184C7))
 
-\#### 1 straipsnis. 2 straipsnio 15 ir 21 dalių pakeitimas
+### 1 straipsnis. 2 straipsnio 15 ir 21 dalių pakeitimas
 
 1. 2 straipsnio 15 dalyje išbraukti žodžius „teritorijos planavimo, architektūros, inžinerijos ar duomenų apdorojimo“, po žodžio „projektą“ įrašyti žodžius „(paprastai teritorijos planavimo, architektūros, inžinerijos ar duomenų apdorojimo)“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +38,7 @@ VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2, 3, 6, 7, 8, 9, 15, 16, 20, 23, 26, 32, 33, 34, 
 
 „21. **Viešasis darbų pirkimas**– viešasis pirkimas, kurio dalykas yra atlikti arba kartu atlikti ir suprojektuoti darbus, susijusius su vienu iš šio Įstatymo 1 priedėlyje nurodytų darbų, arba bet kokiomis priemonėmis atlikti darbus, atitinkančius perkančiosios organizacijos nustatytus reikalavimus.Darbas yra tam tikrų statybos darbų kaip visumos rezultatas, kuris gali savarankiškai atlikti ekonominę ar techninę funkciją.Pirkimo tikslas – sudaryti viešojo pirkimo–pardavimo sutartį.“
 
-\#### 2 straipsnis. 3 straipsnio 1, 2 dalių pakeitimas
+### 2 straipsnis. 3 straipsnio 1, 2 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,7 +62,7 @@ VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2, 3, 6, 7, 8, 9, 15, 16, 20, 23, 26, 32, 33, 34, 
 
 3) turi administraciją, valdymo ar priežiūros organą, kurio daugiau kaip pusė narių yra skiriami valstybės ar savivaldybių institucijų arba šioje dalyje nurodytų viešųjų ar privačiųjų juridinių asmenų.“
 
-\#### 3 straipsnis. 6 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+### 3 straipsnis. 6 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
 
 1. 6 straipsnio 1 dalyje išbraukti žodį „pirkimo“, po žodžio „skelbimą“ įrašyti žodžius „apie pirkimą ar perkančiosios organizacijos, veikiančios vandentvarkos, energetikos, transporto ar telekomunikacijų srityje, pateiktą išankstinį skelbimą apie numatomą pirkimą, kuriuo jau kviečiama varžytis dėl pirkimo sutarties“ ir šią dalį išdėstyti taip:
 
@@ -74,13 +72,13 @@ VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2, 3, 6, 7, 8, 9, 15, 16, 20, 23, 26, 32, 33, 34, 
 
 „3. Perkančioji organizacija, gavusi Viešųjų pirkimų tarnybos sutikimą, bet kuriuo metu iki pirkimo sutarties sudarymo turi teisę nutraukti pirkimo procedūras, jeigu atsirado aplinkybių, kurių nebuvo galima numatyti (perkamos prekės, paslaugos ar darbai tapo nereikalingi, nėra lėšų jiems apmokėti). Viešųjų pirkimų tarnybos sutikimas nereikalingas nutraukiant pirkimo, atliekamo laikantis įprastos komercinės praktikos, procedūras*.* Tais atvejais, kai pirkimo vertė didesnė už nurodytas šio Įstatymo 10 straipsnyje, perkančioji organizacija apie pirkimo procedūrų nutraukimą praneša Viešųjų pirkimų tarnybai ir prašo apie tai paskelbti Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje ir „Valstybės žinių“ priede „Informaciniai pranešimai“ bei „Valstybės žinių“ interneto tinklalapyje.“
 
-\#### 4 straipsnis. 7 straipsnio 3 dalies 5 punkto pakeitimas
+### 4 straipsnis. 7 straipsnio 3 dalies 5 punkto pakeitimas
 
 Pakeisti 7 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) šiame Įstatyme nustatytais atvejais duoti sutikimą perkančiajai organizacijai atmesti visus pasiūlymus, nutraukti pirkimo procedūras, taip pat, perkančiajai organizacijai gavus tiekėjo pretenziją, priimti sprendimą nestabdyti pirkimo procedūrų;“.
 
-\#### 5 straipsnis. 8 straipsnio 6, 11 ir 13 dalių pakeitimas
+### 5 straipsnis. 8 straipsnio 6, 11 ir 13 dalių pakeitimas
 
 1. 8 straipsnio 6 dalies 1 punkte vietoj žodžių „to paties kodo pagal Viešųjų pirkimų tarnybos patvirtintą pirkimo objektų kodų sąrašą“ įrašyti žodžius „Viešųjų pirkimų tarnybos patvirtintoje perkamų prekių ar paslaugų vertės nustatymo metodikoje apibūdintų panašių“, 2 punkte po žodžio „visų“ įrašyti žodžius „Viešųjų pirkimų tarnybos patvirtintoje perkamų prekių ar paslaugų vertės nustatymo metodikoje apibūdintų panašių“ ir visą dalį išdėstyti taip:
 
@@ -98,7 +96,7 @@ Pakeisti 7 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
 
 „13. Kai perkamos paslaugos ar perkami darbai yra suskirstyti į atskiras dalis, kurių kiekvienai numatoma sudaryti atskirą pirkimo sutartį, pirkimo vertė yra tų pirkimų numatomų verčių, apskaičiuotų vadovaujantis šio straipsnio nuostatomis, suma. Taip apskaičiuota pirkimo vertė galioja visoms pirkimo dalims. Neatsižvelgiant į tai, kad pirkimo vertė yra ne mažesnė negu tarptautinė pirkimo vertės riba, perkančioji organizacija turi teisę šio Įstatymo IV skyriuje nustatyta tvarka atlikti pirkimus toms atskiroms pirkimo dalims, kurių kiekvienos vertė be pridėtinės vertės mokesčio yra mažesnė kaip 276 224 Lt (80 000 EUR) perkant paslaugas, 3452 800 Lt (1000 000 EUR) perkant darbus, jeigu bendra tokių pirkimo dalių vertė yra ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.“
 
-\#### 6 straipsnis. 9 straipsnio 1, 2, 3 ir 5 dalių pakeitimas
+### 6 straipsnis. 9 straipsnio 1, 2, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -134,7 +132,7 @@ Pakeisti 7 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
 
 3) santykių su įmone, su kuria sudaryta pirkimo sutartis, pagrindimą, atitinkantį šio straipsnio reikalavimus.“
 
-\#### 7 straipsnis. 15 straipsnio 2, 4 dalių pakeitimas ir straipsnio papildymas 7 dalimi
+### 7 straipsnis. 15 straipsnio 2, 4 dalių pakeitimas ir straipsnio papildymas 7 dalimi
 
 1. 15 straipsnio 2 dalies pirmame sakinyje po žodžio „sąlygomis“ įrašyti žodžius „arba ūkio subjektų grupė neįsteigia juridinio asmens, kaip nustatyta šio straipsnio 4 dalyje“ ir šią dalį išdėstyti taip:
 
@@ -148,7 +146,7 @@ Pakeisti 7 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
 
 „7. Pirkimo sutartis sudaroma raštu, išskyrus šio Įstatymo 99 straipsnio 4 dalyje nustatytą atvejį.“
 
-\#### 8 straipsnis. 16 straipsnio 1, 3, 4, 8 dalių pakeitimas
+### 8 straipsnis. 16 straipsnio 1, 3, 4, 8 dalių pakeitimas
 
 1. 16 straipsnio 1 dalies antrame sakinyje išbraukti žodį „ir“, šį sakinį papildyti žodžiais „ir apie pirkimą, atliekamą šio Įstatymo 64 straipsnio 2 dalyje nustatyta tvarka“, 2 punkte vietoj skaičių „44 ir 45“ įrašyti skaičius „44, 45, 58 ir 65“ ir visą dalį išdėstyti taip:
 
@@ -186,7 +184,7 @@ Pakeisti 7 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip:
 
 „8. Pirkimo procedūrų ataskaita, pirkimų ataskaita ir įvykdytos ar nutrauktos pirkimo sutarties ataskaita rengiamos ir pateikiamos pagal Viešųjų pirkimų tarnybos patvirtintas formas bei reikalavimus.Šių ataskaitų duomenys įtraukiami į kompiuterinę duomenų bazę.“
 
-\#### 9 straipsnis. Įstatymo II skyriaus pavadinimo pakeitimas
+### 9 straipsnis. Įstatymo II skyriaus pavadinimo pakeitimas
 
 Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -194,7 +192,7 @@ Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
 **VALSTYBĖS AR SAVIVALDYBės VALDYMO INSTITUCIJŲ, KITŲ VIEŠŲJŲ AR PRIVAČIŲJŲ JURIDINIŲ ASMENŲ, kurie atitinka šio įstatymo 3 straipsnio 2 dalies sąlygas, VIENOS ARBA KELIŲ VALSTYBĖS AR SAVIVALDYBĖS VALDYMO INSTITUCIJŲ IR (AR) KITŲ VIEŠŲJŲ AR PRIVAČIŲJŲ JURIDINIŲ ASMENŲ, kurie atitinka šio įstatymo 3 straipsnio 2 dalies sąlygas, ASOCIACIJŲ PIRKIMAI**“.
 
-\#### 10 straipsnis. 20 straipsnio 2 dalies 14, 15 ir 18 punktų pakeitimas ir papildymas
+### 10 straipsnis. 20 straipsnio 2 dalies 14, 15 ir 18 punktų pakeitimas ir papildymas
 
 1. 20 straipsnio 2 dalies 14 punkte po žodžio „tiekėjais“ įrašyti žodžius „taip pat būdai, kuriais perkančioji organizacija savo iniciatyva gali paaiškinti (patikslinti) pirkimo dokumentus (nekeisdama paskelbtos informacijos esmės ir pateikdama paaiškinimus (patikslinimus) visiems tiekėjams, kuriems perkančioji organizacija yra pateikusi pirkimo dokumentus)“ ir šį punktą išdėstyti taip:
 
@@ -214,13 +212,13 @@ Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
 „5. Paraišką ar pasiūlymą gali pateikti jungtinės veiklos sutarties pagrindu ūkio subjektų grupė. Paraiškai ar pasiūlymui pateikti ūkio subjektųgrupė neprivalo įsteigti juridinio asmens.“
 
-\#### 12 straipsnis. 26 straipsnio 1 dalies pakeitimas
+### 12 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 26 straipsnio 1 dalies paskutiniame sakinyje po žodžio „procedūroje“ įrašyti žodžius „išskyrus atvejus, kai pirkimas atliekamas skelbiamų ar neskelbiamų derybų būdu“ ir šią dalį išdėstyti taip:
 
 „1. Vokai su pasiūlymais atplėšiami Komisijos posėdyje. Posėdis vyksta pirkimo dokumentuose nurodytoje vietoje, prasideda nurodytą dieną, valandą ir minutę. Pirmas susipažinimas su elektroninėmis priemonėmis gautais pasiūlymais šiame Įstatyme prilyginamas vokų atplėšimui. Diena ir valanda turi sutapti su pasiūlymų pateikimo termino pabaiga. Pakeitus terminą, atitinkamai turi būti pakeistas ir vokų su pasiūlymais atplėšimo laikas. Nustatytu laiku turi būti atplėšti visi vokai su pasiūlymais, gauti nepasibaigus jų pateikimo terminui. Vokų atplėšimo procedūroje, išskyrus atvejus, kai pirkimas atliekamas skelbiamų ar neskelbiamų derybų būdu, turi teisę dalyvauti visi pasiūlymus pateikę tiekėjai arba jų atstovai.“
 
-\#### 13 straipsnis. 32 straipsnio pavadinimo, 1, 2 dalių ir 3 dalies 6 punkto pakeitimas
+### 13 straipsnis. 32 straipsnio pavadinimo, 1, 2 dalių ir 3 dalies 6 punkto pakeitimas
 
 1. 32 straipsnio pavadinime išbraukti žodžius „bei gamybinis“ ir jį išdėstyti taip:
 
@@ -250,7 +248,7 @@ Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
 „6) jeigu reikalingos paslaugos yra sudėtingos arba skirtos ypatingiems tikslams – patikrinti kandidato ar dalyvio techninį pajėgumą, tyrimų, matavimų bei kokybės kontrolės priemones. Tikrina perkančioji organizacija arba jos įgaliota šalies, kurioje registruotas kandidatas ar dalyvis, autoritetinga trečioji šalis pagal šio Įstatymo 21 straipsnio 8 dalies nuostatą;“.
 
-\#### 14 straipsnis. 33 straipsnio 1, 2, 3, 4, 7 dalių pakeitimas
+### 14 straipsnis. 33 straipsnio 1, 2, 3, 4, 7 dalių pakeitimas
 
 1. 33 straipsnio 1 dalyje po žodžio „pasiūlymo“ įrašyti žodžius „pateikto atvirojo ar riboto konkurso metu“, papildyti dalį ketvirtu sakiniu ir šią dalį išdėstyti taip:
 
@@ -276,7 +274,7 @@ Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
 3) patvirtinti pasiūlymų eilę ir priimti sprendimą dėl laimėjusio pasiūlymo tik tada, kai bus šio Įstatymo nustatyta tvarka išnagrinėtos pasiūlymus pateikusių dalyvių pretenzijos ir skundai (jeigu tokių buvo gauta), bet ne anksčiau kaip po 10 dienų nuo pranešimo apie preliminarią pasiūlymų eilę išsiuntimo dalyviams dienos. Ši nuostata netaikoma, jei pirkimas atliekamas neskelbiamų derybų būdu, kai į derybas kviečiamas tik vienas tiekėjas, arba jei pirkimas atliekamas kitais pirkimo būdais, o pasiūlymą pateikia tik vienas tiekėjas.“
 
-\#### 15 straipsnis. 34 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
+### 15 straipsnis. 34 straipsnio 1 dalies pakeitimas ir 2 dalies pripažinimas netekusia galios
 
 1. 34 straipsnio 1 dalies pirmame sakinyje išbraukti žodžius „ir apie tai nedelsdama pranešti pasiūlymą pateikusiam dalyviui“, pakeisti antrą sakinį ir šią dalį išdėstyti taip:
 
@@ -284,25 +282,25 @@ Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
 2. 34 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 16 straipsnis. 40 straipsnio 5 dalies pakeitimas
+### 16 straipsnis. 40 straipsnio 5 dalies pakeitimas
 
 40 straipsnio 5 dalyje vietoj žodžių ir skaičių „šio straipsnio 2 ir 3 dalyse“ įrašyti žodžius „šiame straipsnyje“ ir šią dalį išdėstyti taip:
 
 „5. Jeigu dėl aplinkybių, kurios nepriklauso nuo perkančiosios organizacijos, neįmanoma pirkimo atlikti laikantis šiame straipsnyje nustatytų terminų (skubos atveju), perkančioji organizacija turi teisę nustatyti ne trumpesnį kaip 15 dienų paraiškų pateikimo terminą ir ne trumpesnį kaip 10 dienų pasiūlymų pateikimo terminą.“
 
-\#### 17 straipsnis. 46 straipsnio 1 dalies 1 punkto pakeitimas
+### 17 straipsnis. 46 straipsnio 1 dalies 1 punkto pakeitimas
 
 46 straipsnio 1 dalies 1 punkte išbraukti skaičių ir žodį „6 dalyje“ ir šį punktą išdėstyti taip:
 
 „1) šio Įstatymo 18 straipsnio nustatyta tvarka kviečia kandidatus pateikti paraiškas dalyvauti skelbiamose derybose;“.
 
-\#### 18 straipsnis. 48 straipsnio 5 dalies pakeitimas
+### 18 straipsnis. 48 straipsnio 5 dalies pakeitimas
 
 48 straipsnio 5 dalyje vietoj žodžių ir skaičių „šio straipsnio 2 ir 3 dalyse“ įrašyti žodžius „šiame straipsnyje“ ir šią dalį išdėstyti taip:
 
 „5. Jeigu dėl aplinkybių, kurios nepriklauso nuo perkančiosios organizacijos, neįmanoma pirkimo atlikti laikantis šiame straipsnyje nustatytų terminų (skubos atveju), perkančioji organizacija turi teisę nustatyti ne trumpesnį kaip 15 dienų paraiškų pateikimo terminą ir ne trumpesnį kaip 10 dienų pasiūlymų pateikimo terminą.“
 
-\#### 19 straipsnis. 52 straipsnio pakeitimas
+### 19 straipsnis. 52 straipsnio pakeitimas
 
 52 straipsnyje po žodžio „apdorojimo“ įrašyti žodžius „ar panašaus pobūdžio“ ir šį straipsnį išdėstyti taip:
 
@@ -310,7 +308,7 @@ Pakeisti Įstatymo II skyriaus pavadinimą ir jį išdėstyti taip:
 
 Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, architektūros, inžinerijos, duomenų apdorojimo ar panašaus pobūdžio paslaugos.“
 
-\#### 20 straipsnis. 53 straipsnio 2 dalies pakeitimas
+### 20 straipsnis. 53 straipsnio 2 dalies pakeitimas
 
 53 straipsnio 2 dalyje išbraukti žodžius „teritorijos planavimo, architektūros, inžinerijos ar duomenų apdorojimo“, po žodžio „projektą“ įrašyti žodžius „(paprastai teritorijos planavimo, architektūros, inžinerijos ar duomenų apdorojimo)“ ir šią dalį išdėstyti taip:
 
@@ -320,7 +318,7 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 2) projekto konkurso laimėtoją, laimėtojus ar dalyvius numatyta apdovanoti prizais ar kitaip atsilyginti už dalyvavimą. Šiuo atveju perkančioji organizacija turi teisę paslaugų pirkimą tęsti neskelbiamų derybų būdu, į derybas pakviesdama projekto konkurso laimėtoją arba visus laimėtojus (pirmąsias vietas užėmusius dalyvius).“
 
-\#### 21 straipsnis. 55 straipsnio 2, 3 dalių pakeitimas ir papildymas
+### 21 straipsnis. 55 straipsnio 2, 3 dalių pakeitimas ir papildymas
 
 1. 55 straipsnio 2 dalies 1 punkte vietoj žodžio „bendrosioms“ įrašyti žodį „viešosioms“ ir šį punktą išdėstyti taip:
 
@@ -340,13 +338,13 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 „3. Veikla vandentvarkos, energetikos, transporto ar telekomunikacijų srityje nelaikoma šio straipsnio 2 dalyje paminėta veikla, jeigu į viešosiomspaslaugoms teikti skirtus stacionariuosius tinklus tiekiama: dujos ar šiluma, jeigu jų gamybą sąlygoja kita veikla, negu nurodyta šio straipsnio 2 dalies 1 punkte, ir į viešąjį tinklą tiekiama tik siekiant ekonomiškumo, o tiekimo kiekiai neviršija 20 procentų įmonės vidutinės apyvartos per pastaruosius 3 metus, įskaitant ir einamuosius metus; elektros energija ar geriamasis vanduo, jeigu jų gamybą sąlygoja kita veikla, negu nurodyta šio straipsnio 2 dalies 1 punkte, o tiekimo į viešąjį tinklą kiekiai priklauso nuo sunaudojimo savo tikslams kiekio ir neviršija 30 procentų įmonės vidutinio elektros energijos ar geriamojo vandens gamybos kiekio per pastaruosius 3 metus, įskaitant ir einamuosius metus.“
 
-\#### 22 straipsnis. 64 straipsnio 2 dalies papildymas
+### 22 straipsnis. 64 straipsnio 2 dalies papildymas
 
 64 straipsnio 2 dalyje po žodžių „tačiau apie pirkimus“ įrašyti žodžius „kuriuos pagal pasitvirtintą tvarką numatyta paskelbti viešai“, papildyti dalį antru sakiniu ir visą dalį išdėstyti taip:
 
 „2. Vandentvarkos, energetikos, transporto ar telekomunikacijų srityje veikiančios perkančiosios organizacijos supaprastintus pirkimus atlieka pačių pasitvirtinta tvarka, kuri turi atitikti šio Įstatymo 4 straipsnyje nustatytus pirkimų principus ir tikslus, tačiau apie pirkimus, kuriuos pagal pasitvirtintą tvarką numatyta paskelbti viešai, privalo skelbti šio Įstatymo 67 straipsnio 1, 2 ir 3 dalyse nustatyta tvarka. Kiti šio Įstatymo IV skyriaus reikalavimai šiems pirkimams yra neprivalomi.“
 
-\#### 23 straipsnis. 65 straipsnio 6 dalies 2 punkto, 11 dalies 1 punkto papildymas ir šios dalies papildymas 3, 4 punktais
+### 23 straipsnis. 65 straipsnio 6 dalies 2 punkto, 11 dalies 1 punkto papildymas ir šios dalies papildymas 3, 4 punktais
 
 1. 65 straipsnio 6 dalies 2 punkte po žodžio „atstovybėms“ įrašyti žodžius „kariniams atstovams ir specialiesiems atašė“ ir šį punktą išdėstyti taip:
 
@@ -362,7 +360,7 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 4) prekės ir paslaugos yra perkamos naudojant reprezentacinėms išlaidoms skirtas lėšas.“
 
-\#### 24 straipsnis. 67 straipsnio 2 ir 3 dalių pakeitimas
+### 24 straipsnis. 67 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 67 straipsnio 2 dalyje vietoj žodžio „tinklapyje“ įrašyti žodį „tinklalapyje“ ir šią dalį išdėstyti taip:
 
@@ -372,7 +370,7 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 „3. Skelbimus, išskyrus perkančiosios organizacijos papildomai skelbiamus kituose leidiniuose, negu nurodyta šio Įstatymo 19 straipsnio 1 dalyje, perkančiosios organizacijos privalo pateikti Viešųjų pirkimų tarnybai, o ši juos skelbia šio Įstatymo nustatyta tvarka. Skelbimas „Valstybės žinių“ interneto tinklalapyje ar kitame leidinyje negali būti paskelbtas anksčiau negu „Valstybės žinių“ priede „Informaciniai pranešimai“. To paties skelbimo turinys visur turi būti tapatus“.
 
-\#### 25 straipsnis. 70 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+### 25 straipsnis. 70 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. 70 straipsnio 1 dalyje vietoj žodžio „nedelsiant“ įrašyti žodžius „ne vėliau kaip per 3 darbo dienas“ ir šią dalį išdėstyti taip:
 
@@ -382,13 +380,13 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 „4. Už pirkimo dokumentus perkančioji organizacija iš visų tiekėjų gali imti vienodo dydžio užmokestį, kurį sudaro dokumento kopijavimo ir pateikimo tiekėjams faktinės išlaidos. Už pirkimo dokumento vertimą į užsienio kalbą gali būti imamas papildomas užmokestis. Jį sudaro vertimo į užsienio kalbą išlaidos.“
 
-\#### 26 straipsnis. 73 straipsnio 2 dalies papildymas
+### 26 straipsnis. 73 straipsnio 2 dalies papildymas
 
 73 straipsnio 2 dalį papildyti trečiu sakiniu ir šią dalį išdėstyti taip:
 
 „2. Perkančioji organizacija pirkimo dokumentuose privalo paprašyti, kad tiekėjai savo pasiūlymuose nurodytų galiojimo terminą. Jis turi būti ne trumpesnis, negu nustatyta perkančiosios organizacijos.Jeigu pasiūlyme nenurodytas jo galiojimo laikas, laikoma, kad pasiūlymas galioja tiek, kiek yra nustatyta pirkimo dokumentuose.“
 
-\#### 27 straipsnis. 76 straipsnio 3 ir 4 dalių pakeitimas
+### 27 straipsnis. 76 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 76 straipsnio 3 dalyje po žodžio „santykius“ įrašyti žodį „paskutinę“, po žodžio „pateikimo“ įrašyti žodį „termino“ ir šią dalį išdėstyti taip:
 
@@ -398,7 +396,7 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 „4. Perkančioji organizacija ne vėliau kaip 10 dienų prieš priimdama sprendimą dėl laimėjusio pasiūlymo privalo sudaryti preliminarią pasiūlymų eilę ir ją pateikti visiems kandidatams bei dalyviams. Ši nuostata netaikoma, jei pirkimas vykdomas neskelbiamų supaprastintų derybų būdu, kai į derybas kviečiamas tik vienas tiekėjas, arba jei pirkimas atliekamas kitais būdais, o pasiūlymą pateikia tik vienas tiekėjas.“
 
-\#### 28 straipsnis. 77 straipsnio papildymas
+### 28 straipsnis. 77 straipsnio papildymas
 
 77 straipsnį papildyti antru sakiniu ir šį straipsnį išdėstyti taip:
 
@@ -406,19 +404,19 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 
 Perkančioji organizacija, gavusi Viešųjų pirkimų tarnybos sutikimą, bet kuriuo metu iki pirkimo sutarties sudarymo turi teisę nutraukti pirkimo procedūras, jeigu atsirado aplinkybių, kurių nebuvo galima numatyti (perkamos prekės, paslaugos ar darbai tapo nereikalingi, nėra lėšų jiems apmokėti, yra kitų šiame Įstatyme nustatytų priežasčių). Viešųjų pirkimų tarnybos sutikimas nereikalingas nutraukiant pirkimo, atliekamo taikant įprastą komercinę praktiką, procedūras.“
 
-\#### 29 straipsnis. 81 straipsnio 2 dalies pakeitimas
+### 29 straipsnis. 81 straipsnio 2 dalies pakeitimas
 
 81 straipsnio 2 dalyje išbraukti žodžius „arba perkančiajai organizacijai yra iš esmės nepriimtini“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu supaprastintam atviram konkursui gauti visi pasiūlymai neatitinka pirkimo dokumentų reikalavimų arba nevisiškai juos atitinka, perkančioji organizacija, iki preliminarios eilės patvirtinimo pranešusi visiems dalyviams, turi teisę nutraukti konkurso procedūras ir pradėti neskelbiamas supaprastintas derybas su visais supaprastinto atviro konkurso dalyviais, kurie atitinka perkančiosios organizacijos nustatytus minimalius kvalifikacijos reikalavimus, iš esmės nekeisdama pirkimo sąlygų.“
 
-\#### 30 straipsnis. 88 straipsnio 2 dalies pakeitimas
+### 30 straipsnis. 88 straipsnio 2 dalies pakeitimas
 
 88 straipsnio 2 dalyje išbraukti žodžius„arba perkančiajai organizacijai yra iš esmės nepriimtini“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu supaprastintame ribotame konkurse visi gauti pasiūlymai neatitiko pirkimo dokumentų reikalavimų arba nevisiškai juos atitiko, perkančioji organizacija, iki preliminarios eilės patvirtinimo pranešusi visiems dalyviams, turi teisę nutraukti konkurso procedūras ir pradėti neskelbiamas supaprastintas derybas su visais supaprastinto riboto konkurso dalyviais, kurie atitinka perkančiosios organizacijos nustatytus minimalius kvalifikacijos reikalavimus, iš esmės nekeisdama pirkimo sąlygų.“
 
-\#### 31 straipsnis. 96 straipsnio pakeitimas
+### 31 straipsnis. 96 straipsnio pakeitimas
 
 96 straipsnyje po žodžio „apdorojimo“ įrašyti žodžius „ar panašaus pobūdžio“ ir šį straipsnį išdėstyti taip:
 
@@ -426,7 +424,7 @@ Perkančioji organizacija, gavusi Viešųjų pirkimų tarnybos sutikimą, bet ku
 
 Supaprastintas projekto konkursas gali būti taikomas perkant teritorijos planavimo, architektūros, inžinerijos, duomenų apdorojimo ar panašaus pobūdžio paslaugas.“
 
-\#### 32 straipsnis. 97 straipsnio 2 dalies pakeitimas
+### 32 straipsnis. 97 straipsnio 2 dalies pakeitimas
 
 97 straipsnio 2 dalyje išbraukti žodžius „teritorijos planavimo, architektūros, inžinerijos ar duomenų apdorojimo“, po žodžio „projektą“ įrašyti žodžius „(paprastai teritorijos planavimo, architektūros, inžinerijos ar duomenų apdorojimo)“ ir šią dalį išdėstyti taip:
 
@@ -436,7 +434,7 @@ Supaprastintas projekto konkursas gali būti taikomas perkant teritorijos planav
 
 2) supaprastinto projekto konkurso laimėtoją, laimėtojus ar dalyvius numatyta apdovanoti prizais ar kitaip atsilyginti už dalyvavimą. Šiuo atveju perkančioji organizacija turi teisę paslaugų pirkimą tęsti neskelbiamų derybų būdu, į derybas pakviesdama supaprastinto projekto konkurso laimėtoją arba visus laimėtojus (pirmąsias vietas laimėjusius dalyvius).“
 
-\#### 33 straipsnis. 99 straipsnio 1 dalies papildymas ir 4 dalies pakeitimas
+### 33 straipsnis. 99 straipsnio 1 dalies papildymas ir 4 dalies pakeitimas
 
 99 straipsnio 1 dalį papildyti nauju sakiniu ir šią dalį išdėstyti taip:
 
@@ -446,7 +444,7 @@ Supaprastintas projekto konkursas gali būti taikomas perkant teritorijos planav
 
 „4. Pirkimo sutartis, kurios vertė mažesnė kaip 10 000 Lt, gali būti sudaroma žodine forma.“
 
-\#### 34 straipsnis. Įstatymo papildymas 1 priedėliu
+### 34 straipsnis. Įstatymo papildymas 1 priedėliu
 
 Papildyti Įstatymą 1 priedėliu:
 
@@ -458,61 +456,36 @@ Papildyti Įstatymą 1 priedėliu:
 
 EKONOMINĖS VEIKLOS RŪŠIŲ KLASIFIKATORIUJE PATEIKTŲ DARBŲ SĄRAŠAS
 
-\| Sekcija F | | | Statyba |
-
-\| --- | --- | --- | --- |
-
-\| skyrius | grupė | klasė | aprašymas |
-
-\| 45 | | | Statyba |
-
-\| | 45.1 | | Statybvietės paruošimas |
-
-\| | | 45.11 | Pastatų nugriovimas, išardymas, žemės darbai |
-
-\| | | 45.12 | Žvalgomasis gręžimas |
-
-\| | 45.2 | | Pastatų ir jų dalių statyba, inžinerinių statinių statyba |
-
-\| | | 45.21 | Bendroji pastatų statyba ir inžinerinių statinių statyba |
-
-\| | | 45.22 | Laikančiųjų stogo konstrukcijų ir stogo dangų montavimas |
-
-\| | | 45.23 | Magistralinių ir kitų kelių tiesimas, orlaivių pakilimo aikštelių ir takų bei sporto statinių statyba |
-
-\| | | 45.24 | Vandens statinių statyba |
-
-\| | | 45.25 | Kiti statybos darbai, įskaitant specialiuosius profesinius darbus |
-
-\| | 45.3 | | Pastatų ir statinių įrengimas |
-
-\| | | 45.31 | Elektros instaliacijos ir kitų įtaisų įrengimas |
-
-\| | | 45.32 | Izoliacijos įrengimas |
-
-\| | | 45.33 | Vamzdynų tiesimas |
-
-\| | | 45.34 | Kitokių pastatų ir statinių įrengimas |
-
-\| | 45.4 | | Statybos baigimas |
-
-\| | | 45.41 | Tinkavimas |
-
-\| | | 45.42 | Staliaus dirbinių įrengimas |
-
-\| | | 45.43 | Grindų ir sienų dengimas |
-
-\| | | 45.44 | Dažymas ir stiklinimas |
-
-\| | | 45.45 | Kiti baigiamieji statybos darbai |
-
-\| | 45.5 | | Statybos ar griovimo įrenginių nuoma (samdant operatorius) |
-
-\| | | 45.50 | Statybos ar griovimo įrenginių nuoma (samdant operatorius |
+| Sekcija F |  |  | Statyba |
+| --- | --- | --- | --- |
+| skyrius | grupė | klasė | aprašymas |
+| 45 |  |  | Statyba |
+|  | 45.1 |  | Statybvietės paruošimas |
+|  |  | 45.11 | Pastatų nugriovimas, išardymas, žemės darbai |
+|  |  | 45.12 | Žvalgomasis gręžimas |
+|  | 45.2 |  | Pastatų ir jų dalių statyba, inžinerinių statinių statyba |
+|  |  | 45.21 | Bendroji pastatų statyba ir inžinerinių statinių statyba |
+|  |  | 45.22 | Laikančiųjų stogo konstrukcijų ir stogo dangų montavimas |
+|  |  | 45.23 | Magistralinių ir kitų kelių tiesimas, orlaivių pakilimo aikštelių ir takų bei sporto statinių statyba |
+|  |  | 45.24 | Vandens statinių statyba |
+|  |  | 45.25 | Kiti statybos darbai, įskaitant specialiuosius profesinius darbus |
+|  | 45.3 |  | Pastatų ir statinių įrengimas |
+|  |  | 45.31 | Elektros instaliacijos ir kitų įtaisų įrengimas |
+|  |  | 45.32 | Izoliacijos įrengimas |
+|  |  | 45.33 | Vamzdynų tiesimas |
+|  |  | 45.34 | Kitokių pastatų ir statinių įrengimas |
+|  | 45.4 |  | Statybos baigimas |
+|  |  | 45.41 | Tinkavimas |
+|  |  | 45.42 | Staliaus dirbinių įrengimas |
+|  |  | 45.43 | Grindų ir sienų dengimas |
+|  |  | 45.44 | Dažymas ir stiklinimas |
+|  |  | 45.45 | Kiti baigiamieji statybos darbai |
+|  | 45.5 |  | Statybos ar griovimo įrenginių nuoma (samdant operatorius) |
+|  |  | 45.50 | Statybos ar griovimo įrenginių nuoma (samdant operatorius |
 
 Ekonominės veiklos rūšių klasifikatorius (EVRK) parengtas Statistikos departamento prie Lietuvos Respublikos Vyriausybės pagal Europos Bendrijų Statistikos biuro (Eurostat) parengtą klasifikatorių *Nomenklatures des Activities de Communite Europeene – NACE rev.1, 1995.*“
 
-\#### 35 straipsnis. Įstatymo papildymas 2 priedėliu
+### 35 straipsnis. Įstatymo papildymas 2 priedėliu
 
 Papildyti Įstatymą 2 priedėliu:
 
@@ -526,41 +499,24 @@ PASLAUGOS
 
 A PASLAUGOS
 
-\| Kategorija | Paslaugų pavadinimas | Nuoroda pagal Svarbiausią produktų klasifikatorių (CPC) |
-
-\| --- | --- | --- |
-
-\| 1. | Priežiūros ir remonto paslaugos | 6112, 6122, 633, 886 |
-
-\| 2. | Sausumos transporto paslaugos(1), apimančios šarvuotų automobilių paslaugas ir kurjerių paslaugas, išskyrus pašto vežimo keliais paslaugas | 712 (išskyrus 71235), 7512, 87304 |
-
-\| 3. | Keleivių ir krovinių pervežimo oro transportu paslaugos, išskyrus pašto vežimo oro transportu paslaugas | 73 (išskyrus 7321) |
-
-\| 4. | Oro ir sausumos transportu(1) pašto vežimo paslaugos | 71235, 7321 |
-
-\| 5. | Telekomunikacijų paslaugos(2) | 752 |
-
-\| 6. | Finansinės paslaugos: a) draudimo, b) bankų ir investavimo(3) | buvęs 81, 812, 814 |
-
-\| 7. | Kompiuterių ir susijusios paslaugos | 84 |
-
-\| 8. | Mokslinių tyrimų ir plėtros paslaugos(4) | 85 |
-
-\| 9. | Apskaitos, audito ir buhalterinės apskaitos paslaugos | 862 |
-
-\| 10. | Rinkos tyrimo ir viešosios nuomonės apklausos paslaugos | 864 |
-
-\| 11. | Valdymo konsultavimo(5) ir susijusios paslaugos | 865, 866 |
-
-\| 12. | Architektūros paslaugos: inžinerijos ir integruotos inžinerijos paslaugos; miestų ir landšafto planavimo paslaugos; atitinkamos mokslo ir techninių konsultacijų paslaugos; techninių bandymų ir analizės paslaugos | 867 |
-
-\| 13. | Reklamos paslaugos | 871 |
-
-\| 14. | Patalpų valymo paslaugos ir nuosavybės valdymo paslaugos | 874 82201–82206 |
-
-\| 15. | Leidybos ir spausdinimo paslaugos už užmokestį ar pagal sutartį | 88442 |
-
-\| 16. | Nuotekų ir atliekų šalinimo bei valymo paslaugos; sanitarinės ir panašios paslaugos | 94 |
+| Kategorija | Paslaugų pavadinimas | Nuoroda pagal Svarbiausią produktų klasifikatorių (CPC) |
+| --- | --- | --- |
+| 1. | Priežiūros ir remonto paslaugos | 6112, 6122, 633, 886 |
+| 2. | Sausumos transporto paslaugos(1), apimančios šarvuotų automobilių paslaugas ir kurjerių paslaugas, išskyrus pašto vežimo keliais paslaugas | 712 (išskyrus 71235), 7512, 87304 |
+| 3. | Keleivių ir krovinių pervežimo oro transportu paslaugos, išskyrus pašto vežimo oro transportu paslaugas | 73 (išskyrus 7321) |
+| 4. | Oro ir sausumos transportu(1) pašto vežimo paslaugos | 71235, 7321 |
+| 5. | Telekomunikacijų paslaugos(2) | 752 |
+| 6. | Finansinės paslaugos: a) draudimo, b) bankų ir investavimo(3) | buvęs 81, 812, 814 |
+| 7. | Kompiuterių ir susijusios paslaugos | 84 |
+| 8. | Mokslinių tyrimų ir plėtros paslaugos(4) | 85 |
+| 9. | Apskaitos, audito ir buhalterinės apskaitos paslaugos | 862 |
+| 10. | Rinkos tyrimo ir viešosios nuomonės apklausos paslaugos | 864 |
+| 11. | Valdymo konsultavimo(5) ir susijusios paslaugos | 865, 866 |
+| 12. | Architektūros paslaugos: inžinerijos ir integruotos inžinerijos paslaugos; miestų ir landšafto planavimo paslaugos; atitinkamos mokslo ir techninių konsultacijų paslaugos; techninių bandymų ir analizės paslaugos | 867 |
+| 13. | Reklamos paslaugos | 871 |
+| 14. | Patalpų valymo paslaugos ir nuosavybės valdymo paslaugos | 874 82201–82206 |
+| 15. | Leidybos ir spausdinimo paslaugos už užmokestį ar pagal sutartį | 88442 |
+| 16. | Nuotekų ir atliekų šalinimo bei valymo paslaugos; sanitarinės ir panašios paslaugos | 94 |
 
 ^(1) Išskyrus 18 kategorijai priskirtas geležinkelių transporto paslaugas.
 
@@ -574,33 +530,21 @@ A PASLAUGOS
 
 B PASLAUGOS
 
-\| Kategorija | Paslaugų pavadinimai | Nuoroda pagal Svarbiausią produktų klasifikatorių (CPC) |
+| Kategorija | Paslaugų pavadinimai | Nuoroda pagal Svarbiausią produktų klasifikatorių (CPC) |
+| --- | --- | --- |
+| 17. | Viešbučių ir restoranų paslaugos | 64 |
+| 18. | Geležinkelių transporto paslaugos | 711 |
+| 19. | Vandens transporto paslaugos | 72 |
+| 20. | Papildomos ir pagalbinės transporto paslaugos | 74 |
+| 21. | Teisinės paslaugos | 861 |
+| 22. | Personalo atrankos ir aprūpinimo paslaugos | 872 |
+| 23. | Tardymo ir saugumo paslaugos, išskyrus šarvuotų automobilių paslaugas | 873 (išskyrus 87304) |
+| 24. | Švietimo ir profesinio lavinimo paslaugos | 92 |
+| 25. | Sveikatos bei socialinės apsaugos paslaugos | 93 |
+| 26. | Poilsio organizavimo, kultūros ir sporto paslaugos | 96 |
+| 27. | Kitos paslaugos |  |
 
-\| --- | --- | --- |
-
-\| 17. | Viešbučių ir restoranų paslaugos | 64 |
-
-\| 18. | Geležinkelių transporto paslaugos | 711 |
-
-\| 19. | Vandens transporto paslaugos | 72 |
-
-\| 20. | Papildomos ir pagalbinės transporto paslaugos | 74 |
-
-\| 21. | Teisinės paslaugos | 861 |
-
-\| 22. | Personalo atrankos ir aprūpinimo paslaugos | 872 |
-
-\| 23. | Tardymo ir saugumo paslaugos, išskyrus šarvuotų automobilių paslaugas | 873 (išskyrus 87304) |
-
-\| 24. | Švietimo ir profesinio lavinimo paslaugos | 92 |
-
-\| 25. | Sveikatos bei socialinės apsaugos paslaugos | 93 |
-
-\| 26. | Poilsio organizavimo, kultūros ir sporto paslaugos | 96 |
-
-\| 27. | Kitos paslaugos | |
-
-\#### 36 straipsnis. Įstatymo papildymas priedu
+### 36 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -632,31 +576,29 @@ Lietuvos Respublikos viešųjų pirkimų įstatymas suderintas su šiais Europos
 
 9) 2001 m. rugsėjo 13 d. Komisijos direktyva 2001/78/EB, iš dalies pakeičianti Tarybos direktyvos 93/36/EEB IV priedą, Tarybos direktyvos 93/37/EEB IV, V ir VI priedus, Tarybos direktyvos 92/50/EEB su pakeitimais, padarytais direktyva 97/52/EB, III ir IV priedus ir Tarybos direktyvos 93/38/EEB su pakeitimais, padarytais direktyva 98/4/EB, XII-XV, XVII ir XVIII priedus (direktyva dėl standartinių formų naudojimo skelbiant pranešimus apie viešąsias sutartis) (Tekstas svarbus EEE).“
 
-\### ANTRASIS SKIRSNIS
-
-VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMAS IR ĮSTATYMO 1, 2 PRIEDĖLIŲ BEI PRIEDO PRIPAŽINIMAS NETEKUSIAIS GALIOS
+## ANTRASIS SKIRSNIS. VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMAS IR ĮSTATYMO 1, 2 PRIEDĖLIŲ BEI PRIEDO PRIPAŽINIMAS NETEKUSIAIS GALIOS
 
 (Žin., 2002, Nr. [118-5296](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4EDFC59E1E8); 2003, Nr. [57-2529](https://www.e-tar.lt/portal/lt/legalAct/TAR.98F743F184C7))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųjų pirkimų įstatymo 6 straipsnio 3 dalies nuostata dėl paskelbimo Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, 7 straipsnio 2 dalies 14, 15, 16 ir 17 punktai, 9 straipsnio 1 dalies 5 ir 7 punktai, 2 dalies 9 punktas, 3 dalies 1 punkto nuostata dėl veiklos vykdymo trečiojoje šalyje, kai tam fiziškai nenaudojami Europos Bendrijos tinklai bei geografinė erdvė, 3 dalies 3 punkto nuostatos dėl paslaugų apyvartos Europos Bendrijoje, 4 dalies nuostata dėl informacijos perdavimo Europos Komisijai bei 5 dalies ir 16 straipsnio 2 dalies nuostata dėl informacijos perdavimo Europos Komisijai, 19 straipsnio 1 dalies nuostata dėl spausdinimo Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, 5, 6 bei 7 dalys, 20 straipsnio 2 dalies 21 punkto nuostata dėl nuorodos į paskelbimą Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, 23 straipsnio 2 dalies nuostata dėl terminų skaičiavimo nuo skelbimo apie pirkimą išspausdinti išsiuntimo Europos Bendrijų oficialių leidinių tarnybos specialiam leidiniui, 29 straipsnio 4 dalies nuostata dėl kompetentingų institucijų sąrašo pateikimo šalims Europos Sąjungos narėms bei Europos Komisijai, 34 straipsnio 4 dalis, 45 straipsnio 1 dalies 2 punkto nuostata dėl Europos Komisijos informavimo, 104 straipsnis, 105 straipsnis ir 106 straipsnio 1 dalies nuostata dėl Europos Bendrijų teisės aktų reikalavimų įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos.“
 
-\#### 2 straipsnis. Įstatymo 1, 2 priedėlių ir priedo pripažinimas netekusiais galios
+### 2 straipsnis. Įstatymo 1, 2 priedėlių ir priedo pripažinimas netekusiais galios
 
 Įstatymo 1, 2 priedėlius ir priedą pripažinti netekusiais galios.
 
-\### TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo įsigaliojimas
+### 1 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis Įstatymas, išskyrus pirmojo skirsnio 6 straipsnio 4 ir 5 dalių bei šio skirsnio 2 straipsnio nuostatas, įsigalioja nuo 2004 m. sausio 1 d.
 
 2. Šio Įstatymo pirmojo skirsnio 6 straipsnio 4 ir 5 dalių nuostatos įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos.
 
-\#### 2 straipsnis. Pasiūlymas Vyriausybei
+### 2 straipsnis. Pasiūlymas Vyriausybei
 
 Pasiūlyti Vyriausybei iki šio Įstatymo įsigaliojimo patvirtinti teisės aktus, reikalingus šiam Įstatymui įgyvendinti, arba įgalioti kitas institucijas tai padaryti iki nurodytos datos.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AA670BE7B80D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA670BE7B80D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo
@@ -830,7 +830,7 @@ akcininkų susirinkimas 19 straipsnio 1, 2 ir 6 punktuose nurodytais klausimais
 
 sprendimus priima pritariant daugiau kaip 2/3 balsų, o visais kitais klausimais
 
-\- paprasta balsų dauguma.
+- paprasta balsų dauguma.
 
 Visuotiniame
 

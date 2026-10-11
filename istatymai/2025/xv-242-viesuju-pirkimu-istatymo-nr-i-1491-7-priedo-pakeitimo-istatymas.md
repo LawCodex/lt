@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c1883b304c2f11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C1883B304C2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 7 priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ VIEŠŲJŲ PIRKIMŲ ĮSTATYMO NR. I-1491 7 PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo 7 priedo pakeitimas
+## 1 straipsnis. Įstatymo 7 priedo pakeitimas
 
 Pakeisti Įstatymo 7 priedą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ viešųjų pirkimų įstatymo
 
 ________________“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. spalio 1 d.
 

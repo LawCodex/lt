@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8e70ee5064b411edbc04912defe897d1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8E70EE5064B4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 24, 25, 26 ir 27 straipsnių pakeitimo įstatymas
@@ -202,12 +202,6 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 6. Iki šio įstatymo įsigaliojimo pradėti nagrinėti prašymai dėl turtinės ir neturtinės žalos, atsiradusios dėl paciento sveikatai padarytos žalos, atlyginimo baigiami nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas.
 
-part_4d1c5880391344d4b7787873f81a3e06_end
-
-part_72eb3836793a44acb5f1f7ed59dd13e7_end
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_49b4a5718cd34632a61adba447f6fc52_end

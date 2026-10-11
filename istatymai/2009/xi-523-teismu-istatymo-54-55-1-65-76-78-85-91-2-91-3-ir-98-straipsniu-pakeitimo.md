@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D27548E3B15F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D27548E3B15F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 54, 55-1, 65, 76, 78, 85, 91-2, 91-3 ir 98 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 2007, Nr. 46-1724; 2008, Nr. 81-3186)
 
-\#### 1 straipsnis. 54 straipsnio 1 ir 4 dalių pakeitimas
+## 1 straipsnis. 54 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „4. Pretendentų į teisėjus egzamino komisijos nuostatus, egzamino programą tvirtina Teisėjų taryba. Pretendentų į teisėjus egzamino komisijos narių, išskyrus teisėjus, darbo apmokėjimo tvarką nustato Vyriausybė.“
 
-\#### 2 straipsnis. 551 straipsnio pakeitimas
+## 2 straipsnis. 551 straipsnio pakeitimas
 
 Pakeisti 55^1 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 55^1 straipsnį ir jį išdėstyti taip:
 
 10. Atrankos komisijos išvados dėl pretendentų į laisvas arba atsilaisvinsiančias teisėjų vietas Respublikos Prezidento nesaisto.“
 
-\#### 3 straipsnis. 65 straipsnio pakeitimas
+## 3 straipsnis. 65 straipsnio pakeitimas
 
 Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
@@ -76,37 +76,37 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 4. Nacionalinė teismų administracija duomenis apie į šio straipsnio 1 dalyje nurodytą registrą ir duomenų bazes įrašytus asmenis perduoda Respublikos Prezidentui, Teisėjų tarybai ir Atrankos komisijai.“
 
-\#### 4 straipsnis. 76 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 76 straipsnio 1 dalies pakeitimas
 
 Pakeisti 76 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Kandidatūras į laisvasarba atsilaisvinsiančias apylinkės teismo, apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko vietasparenka šio Įstatymo 55^1 straipsnio 1 dalyje nurodyta Atrankos komisija pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.“
 
-\#### 5 straipsnis. 78 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 78 straipsnio 1 dalies pakeitimas
 
 Pakeisti 78 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Kandidatūras į laisvas arba atsilaisvinsiančiasApeliacinio teismo pirmininko, skyriaus pirmininko vietas atrenka šio Įstatymo 55^1 straipsnio 1 dalyje nurodyta Atrankos komisija pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.“
 
-\#### 6 straipsnis. 85 straipsnio 4 dalies pakeitimas
+## 6 straipsnis. 85 straipsnio 4 dalies pakeitimas
 
 Pakeisti 85 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Teisėjų etikos ir drausmės komisijos veiklą reglamentuoja Teisėjų tarybos tvirtinami Teisėjų etikos ir drausmės komisijos nuostatai. Teisėjų etikos ir drausmės komisijos narių, išskyrus teisėjus, darbo apmokėjimo tvarką nustato Vyriausybė.“
 
-\#### 7 straipsnis. 912 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 912 straipsnio 3 dalies pakeitimas
 
 Pakeisti 91^2straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Neeilinis teisėjo veiklos vertinimas atliekamas paties teisėjo prašymu arba kai ne vieną kartą kartojasi teisėjo veiklos trūkumai. Neeilinis teisėjo veiklos vertinimas taip pat atliekamas sprendžiant teisėjo paaukštinimo ar teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko skyrimo naujam įgaliojimų laikui klausimus, išskyrus atvejus, kai po paskutinio periodinio ar neeilinio teisėjo veiklos vertinimo praėjo mažiau nei treji metai.“
 
-\#### 8 straipsnis. 913 straipsnio 4 dalies pakeitimas
+## 8 straipsnis. 913 straipsnio 4 dalies pakeitimas
 
 Pakeisti 91^3straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Teisėjų veiklos vertinimą atlieka Nuolatinė teisėjų veiklos vertinimo komisija prie Teisėjų tarybos (toliau – Vertinimo komisija). Vertinimo komisija sudaroma Teisėjų tarybos įgaliojimų laikui iš septynių narių: trys iš jų turi būti ne teisėjai. Keturis šios komisijos narius iš teisėjų renka Teisėjų taryba, tris skiria Respublikos Prezidentas. Vertinimo komisijos pirmininką iš paskirtų Vertinimo komisijos narių renka Teisėjų taryba. Vertinimo komisijos veiklą aptarnauja Nacionalinė teismų administracija. Vertinimo komisijos nariais negali būti skiriami Teisėjų tarybos nariai. Vertinimo komisijos narių, išskyrus teisėjus, darbo apmokėjimo tvarką nustato Vyriausybė.“
 
-\#### 9 straipsnis. 98 straipsnio 6 ir 7 dalių pakeitimas
+## 9 straipsnis. 98 straipsnio 6 ir 7 dalių pakeitimas
 
 1. Pakeisti 98 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 91^3straipsnio 4 dalį ir ją išdėstyti taip:
 
 „7. Teismo pirmininkui, teismo pirmininko pavaduotojui, skyriaus pirmininkui ir kitiems teisėjams atostogas suteikia atitinkamo teismo pirmininkas. Apie teismo pirmininkui suteiktas atostogas informuojamas Respublikos Prezidentas.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos teismų įstatymo 54 straipsnio 4 dalį, šio įstatymo 2 straipsnyje išdėstyto Lietuvos Respublikos teismų įstatymo 551 straipsnio 1 dalį, šio įstatymo 6 straipsnyje išdėstyto Lietuvos Respublikos teismų įstatymo 85 straipsnio 4 dalį ir šio įstatymo 8 straipsnyje išdėstyto Lietuvos Respublikos teismų įstatymo 913 straipsnio 4 dalį, įsigalioja 2010 m. sausio 1 d.
 

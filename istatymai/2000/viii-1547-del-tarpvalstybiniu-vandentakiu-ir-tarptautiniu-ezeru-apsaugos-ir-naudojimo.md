@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4E1B761DEDFF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4E1B761DEDFF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos ratifikavimo
@@ -26,11 +26,11 @@ DĖL TARPVALSTYBINIŲ VANDENTAKIŲ IR TARPTAUTINIŲ EŽERŲ APSAUGOS IR NAUDOJIM
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 11 d. dekretą Nr.435, ratifikuoja Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvenciją, pasirašytą 1992 m. kovo 17 d. Helsinkyje.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Vadovaudamasis Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos 22 straipsniu „Ginčų sprendimas“, Lietuvos Respublikos Seimas pareiškia, kad kilus ginčui Lietuvos Respublika jį spręs šio straipsnio 2 dalies b punkte nurodytu būdu.
 

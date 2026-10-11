@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9CC2DBE83E12"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9CC2DBE83E12.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bankų įstatymo 2, 9, 21, 40, 55, 57, 58, 59, 64 straipsnių ir priedo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2004, Nr. [54-1832](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A); 2005, Nr. [84-3110](https://www.e-tar.lt/portal/lt/legalAct/TAR.011268BD3F38))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 9 dalimi:
 
@@ -36,19 +36,19 @@ Vilnius
 
 2. Buvusią 2 straipsnio 9 dalį laikyti 10 dalimi.
 
-\#### 2 straipsnis. 9 straipsnio 9 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 9 dalies pakeitimas
 
 9 straipsnio 9 dalyje po žodžio „struktūra“ įrašyti žodžius „rizikos valdymo sistema“ ir šią dalį išdėstyti taip:
 
 „9. Licencijos prašančio banko įstatai, veiklos planas, valdymo ir organizacinė struktūra, rizikos valdymo sistema, apskaitos sistema, vidaus kontrolės sistema, techninės, informacinės, technologinės apsaugos priemonės, patalpos, turto draudimas turi užtikrinti saugią ir patikimą banko veiklą ir atitikti tai reglamentuojančius teisės aktus. Taip pat bankas turi atitikti kitus šio Įstatymo nustatytus reikalavimus, tarp jų – teisinės formos, minimalaus banko kapitalo, reikalavimus buveinei, banko akcininkams, įskaitant akcininkus, įsigijusius banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, banko vadovams, ir būti pasirengęs saugiai ir patikimai teikti finansines paslaugas.“
 
-\#### 3 straipsnis. 21 straipsnio papildymas
+## 3 straipsnis. 21 straipsnio papildymas
 
 Papildyti 21 straipsnį 4 dalimi:
 
 „4. Šio straipsnio nuostatos *mutatis mutandis*taikomos ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų kontroliuojamų finansų įmonių kontroliuojamoms finansų įmonėms.“
 
-\#### 4 straipsnis. 40 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 40 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 40 straipsnio 1 dalyje vietoj skaičių „3 ir 4“ įrašyti skaičius „3, 4 ir 7“ ir šią dalį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Papildyti 21 straipsnį 4 dalimi:
 
 „2. Specializuoto banko, kuriam išduota licencija suteikia teisę tik išleisti ir tvarkyti elektroninius pinigus, šio Įstatymo 38 straipsnio 1 dalies 1, 2, 3, 4 ir 7 punktuose nustatytų nuosavo kapitalo dalių suma, išreikšta eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį, turi būti ne mažesnė kaip 1 milijonas eurų.“
 
-\#### 5 straipsnis. 55 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 55 straipsnio 2 dalies pakeitimas
 
 55 straipsnio 2 dalyje po žodžio „dalyse“ įrašyti žodžius „šio Įstatymo 58 straipsnio 2 dalyje“ ir šią dalį išdėstyti taip:
 
 „2. Bankas, banko darbuotojai ir bet kurie kiti asmenys, kurie žino banko paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos, išskyrus šio straipsnio 3–5 dalyse, šio Įstatymo 58 straipsnio 2 dalyje ir kituose įstatymuose nustatytus atvejus.“
 
-\#### 6 straipsnis. 57 straipsnio pakeitimas
+## 6 straipsnis. 57 straipsnio pakeitimas
 
 Pakeisti 57 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 57 straipsnį ir jį išdėstyti taip:
 
 2. Priežiūros institucijos teisės aktai gali nustatyti atvejus, kada finansinei grupei priklausančioms finansų įstaigoms jungtinė (konsoliduota) priežiūra netaikoma, taip pat nustatyti atvejus, kada į finansinės grupės jungtinę (konsoliduotą) priežiūrą įtraukiamos ir finansinei grupei nepriklausančios įmonės.“
 
-\#### 7 straipsnis. 58 straipsnio pakeitimas
+## 7 straipsnis. 58 straipsnio pakeitimas
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
 2. Įmonės, kurioms taikoma jungtinė (konsoliduota) priežiūra, mišrią veiklą vykdančios kontroliuojančiosios (holdingo) bendrovės ir jos kontroliuojamos įmonės, taip pat globojančios grupės įstaigos kontroliuojamos įmonės, kurioms netaikoma jungtinė (konsoliduota) priežiūra, privalo pateikti šio straipsnio 1 dalyje nurodytam bankui ataskaitas, duomenis ir informaciją, būtiną sudarant konsoliduotą finansinę atskaitomybę ir atliekant jungtinę (konsoliduotą) priežiūrą.“
 
-\#### 8 straipsnis. 59 straipsnio pakeitimas
+## 8 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
@@ -106,13 +106,13 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 8. Priežiūros institucija, atlikdama jungtinę (konsoliduotą) priežiūrą, turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su Lietuvos ir kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma konsoliduota priežiūra, veiklos priežiūrą. Jei priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji, be pagal šį Įstatymą vykdomos jungtinės (konsoliduotos) priežiūros, atlieka ir papildomas užduotis. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir papildomas užduotis reglamentuoja priežiūros institucijos teisės aktai.“
 
-\#### 9 straipsnis. 64 straipsnio 2 dalies papildymas
+## 9 straipsnis. 64 straipsnio 2 dalies papildymas
 
 64 straipsnio 2 dalį papildyti nauju sakiniu ir šią dalį išdėstyti taip:
 
 „2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jei šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi leidimą veiklai ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą.“
 
-\#### 10 straipsnis. Įstatymo priedo pakeitimas
+## 10 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

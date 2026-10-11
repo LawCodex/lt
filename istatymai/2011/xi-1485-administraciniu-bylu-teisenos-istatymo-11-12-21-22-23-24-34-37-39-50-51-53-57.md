@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.95FC10994CBA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.95FC10994CBA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 11, 12, 21, 22, 23, 24, 34, 37, 39, 50, 51, 53, 57, 61, 62, 64, 66, 68, 70, 71, 72, 73, 74, 75, 77, 78, 82, 83, 85, 87, 93, 101, 105, 106, 107, 110, 118, 119, 121, 129, 130, 131, 132, 134, 135, 137, 138, 142, 150, 155, 156, 157 straipsnių pakeitimo ir papildymo įstatymas

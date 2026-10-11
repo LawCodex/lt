@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F02615C57F5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F02615C57F5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [36-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1); 2001, Nr. [94-3306](https://www.e-tar.lt/portal/lt/legalAct/TAR.82477B24BE51))
 
-\#### 1 straipsnis. Lietuvos Respublikos pašto įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos pašto įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos pašto įstatymą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ PAŠTO
 
 Į S T A T Y M A S
 
-\#### 1 straipsnis. Įstatymo paskirtis, taikymas ir tikslai
+## 1 straipsnis. Įstatymo paskirtis, taikymas ir tikslai
 
 1. Šis Įstatymas nustato pašto bei pasiuntinių paslaugų teikimo teisinius pagrindus, pašto bei pasiuntinių paslaugų teikėjų ir naudotojų santykius, pašto bei pasiuntinių paslaugų teikėjų teises ir pareigas, pašto veiklos reguliavimo institucijas, pašto bei pasiuntinių paslaugų teikėjų atsakomybę ir žalos atlyginimą.
 
@@ -48,7 +48,7 @@ PAŠTO
 
 4. Šiuo Įstatymu siekiama Lietuvos Respublikos pašto bei pasiuntinių veiklos reglamentavimą ir reguliavimą suderinti su Europos Sąjungos teisės aktu, nurodytu šio Įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Galutiniai atsiskaitymai – atlygis universaliųjų pašto paslaugų teikėjui už gaunamo tarptautinio pašto siuntų pristatymą.
 
@@ -98,7 +98,7 @@ PAŠTO
 
 24. Viešasis pašto tinklas – pašto infrastruktūra, kuria naudojasi universaliųjų pašto paslaugų teikėjas teikdamas pašto paslaugas: surinkdamas pašto siuntas, priskiriamas universaliosioms pašto paslaugoms, iš visoje teritorijoje esančių pašto paslaugų teikimo vietų; apdorodamas ir veždamas tokias pašto siuntas nuo paėmimo iš pašto paslaugų teikimo vietų iki rūšiavimo vietų; pristatydamas siuntas pagal adresus, nurodytus ant pašto siuntų.
 
-\#### 3 straipsnis. Pašto veiklos reguliavimo institucijos
+## 3 straipsnis. Pašto veiklos reguliavimo institucijos
 
 1. Pašto veiklą Lietuvos Respublikoje reguliuoja Vyriausybė ar jos įgaliota institucija ir Ryšių reguliavimo tarnyba.
 
@@ -172,11 +172,11 @@ PAŠTO
 
 3) atlikti kitus Lietuvos Respublikos įstatymuose ir kituose teisės aktuose nurodytus veiksmus.
 
-\#### 4 straipsnis. Pašto ir pasiuntinių veiklos reguliavimo principai
+## 4 straipsnis. Pašto ir pasiuntinių veiklos reguliavimo principai
 
 Pašto ir pasiuntinių veikla reguliuojama vadovaujantis sąžiningos konkurencijos, laisvės teikti pašto paslaugas, laipsniško ir kontroliuojamo pašto rinkos liberalizavimo principais.
 
-\#### 5 straipsnis. Ryšių reguliavimo tarnybos pareigūnai
+## 5 straipsnis. Ryšių reguliavimo tarnybos pareigūnai
 
 1. Ryšių reguliavimo tarnybos įgalioti pareigūnai, atlikdami šio Įstatymo priežiūrą, pateikę tarnybinį pažymėjimą bei Ryšių reguliavimo tarnybos išduotą dokumentą, patvirtinantį jų įgaliojimus ir atliekamas funkcijas, Ryšių reguliavimo tarnybos vardu įgyvendina šias teises:
 
@@ -198,7 +198,7 @@ Pašto ir pasiuntinių veikla reguliuojama vadovaujantis sąžiningos konkurenci
 
 3. Ryšių reguliavimo tarnybos įgaliotų pareigūnų, įgyvendinančių šiame straipsnyje nurodytas teises, reikalavimai yra privalomi asmenims ir jų valdymo organų bei administracijos darbuotojams. Už Ryšių reguliavimo tarnybos įgaliotų pareigūnų reikalavimų nevykdymą asmenys atsako įstatymų nustatyta tvarka.
 
-\#### 6 straipsnis. Teisė teikti pašto ir pasiuntinių paslaugas
+## 6 straipsnis. Teisė teikti pašto ir pasiuntinių paslaugas
 
 1. Asmenys turi teisę teikti pašto ir (ar) pasiuntinių paslaugas laikydamiesi šio Įstatymo ir kitų teisės aktų nustatytų reikalavimų. Ryšių reguliavimo tarnyba nustato, kokią informaciją ir dokumentus asmuo privalo pateikti norėdamas teikti pašto ir (ar) pasiuntinių paslaugas.
 
@@ -210,7 +210,7 @@ Pašto ir pasiuntinių veikla reguliuojama vadovaujantis sąžiningos konkurenci
 
 5. Asmenys, prieš nutraukdami pašto ir (ar) pasiuntinių paslaugų teikimą, privalo apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka ir sąlygomis.
 
-\#### 7 straipsnis. Pašto ir pasiuntinių paslaugų teikimas
+## 7 straipsnis. Pašto ir pasiuntinių paslaugų teikimas
 
 1. Pašto siuntų, siunčiamų viešuoju pašto tinklu, rūšys bei didžiausi ir mažiausi matmenys turi atitikti Pasaulinės pašto sąjungos Pasaulinėje pašto konvencijoje, Pašto korespondencijos ir Pašto siuntinių reglamentuose nustatytus reikalavimus.
 
@@ -234,7 +234,7 @@ Pašto ir pasiuntinių veikla reguliuojama vadovaujantis sąžiningos konkurenci
 
 11. Keitimasis dokumentais vyksta tarp susitarimą dėl keitimosi dokumentais sudariusių asmenų. Šie asmenys patys pristato ir pasiima pašto siuntas, naudodamiesi savo ar trečiųjų asmenų patalpomis, transportu.
 
-\#### 8 straipsnis. Universaliosios pašto paslaugos
+## 8 straipsnis. Universaliosios pašto paslaugos
 
 1. Kiekvienas naudotojas turi teisę į universaliąsias pašto paslaugas, prieinama kaina teikiamas visoje šalies teritorijoje. Pasiuntinių paslaugos nėra laikomos universaliosiomis pašto paslaugomis.
 
@@ -282,11 +282,11 @@ Pašto ir pasiuntinių veikla reguliuojama vadovaujantis sąžiningos konkurenci
 
 7. Valstybės įmonė Lietuvos paštas gali turėti antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. Valstybės herbą taip pat gali naudoti iškabose, pašto ženkluose, dokumentų blankuose.
 
-\#### 9 straipsnis. Rezervuotosios pašto paslaugos
+## 9 straipsnis. Rezervuotosios pašto paslaugos
 
 Kad būtų užtikrintas nenutrūkstamas universaliųjų pašto paslaugų teikimas, universaliųjų pašto paslaugų teikėjui rezervuojamos vidaus korespondencijos siuntų, reklaminio pašto, gaunamų tarptautinių korespondencijos siuntų surinkimo, paskirstymo, vežimo, pristatymo bei įteikimo paslaugos, laikantis svorio ir kainų limitų. Nuo šio Įstatymo įsigaliojimo dienos taikoma 100 gramų, o nuo 2006 m. sausio 1 d. – 50 gramų rezervuotųjų pašto siuntų svorio riba. Pašto paslaugų teikėjai rezervuotąsias pašto paslaugas nuo 2004 m. gegužės 1 d. privalo teikti taikydami ne mažiau kaip 3 kartus, o nuo 2006 m. sausio 1 d. – ne mažiau kaip 2,5 karto didesnį tarifą, negu yra nustatytas universaliųjų pašto paslaugų teikėjui pirmosios svorio pakopos pašto korespondencijos tarifas.
 
-\#### 10 straipsnis. Pašto siuntų slaptumas ir duomenų apsauga
+## 10 straipsnis. Pašto siuntų slaptumas ir duomenų apsauga
 
 1. Pašto ir pasiuntinių paslaugų teikėjai naudotojams privalo garantuoti susirašinėjimo slaptumą.
 
@@ -296,7 +296,7 @@ Kad būtų užtikrintas nenutrūkstamas universaliųjų pašto paslaugų teikima
 
 4. Pašto bei pasiuntinių paslaugų teikėjams draudžiama teikti informaciją apie kitų asmenų naudojimąsi pašto paslaugomis arba sudaryti sąlygas gauti šią informaciją, jeigu šis ar kiti įstatymai nenustato kitaip.
 
-\#### 11 straipsnis. Ginčų sprendimas
+## 11 straipsnis. Ginčų sprendimas
 
 1. Iškilus ginčui tarp pašto ir (ar) pasiuntinių paslaugų teikėjų ir naudotojų arba tarp pašto paslaugų teikėjų ir pasiuntinių paslaugų teikėjų, naudotojas arba pašto ar pasiuntinių paslaugų teikėjas turi teisę kreiptis į Ryšių reguliavimo tarnybą, kad ši iš anksto ne teismo tvarka išspręstų ginčą su pašto ar pasiuntinių paslaugų teikėju. Naudotojas, pašto ar pasiuntinių paslaugų teikėjas taip pat turi teisę kreiptis tiesiai į teismą.
 
@@ -308,7 +308,7 @@ Kad būtų užtikrintas nenutrūkstamas universaliųjų pašto paslaugų teikima
 
 5. Ryšių reguliavimo tarnybos sprendimas dėl ginčo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismui įstatymų nustatyta tvarka.
 
-\#### 12 straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos atlyginimas
+## 12 straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos atlyginimas
 
 1. Siuntėjas dėl žalos atlyginimo už dingusią pašto siuntą, dingusius, trūkstamus ar apgadintus siųstus daiktus pretenziją gali pareikšti pašto paslaugų teikėjui per 6 mėnesius nuo pašto siuntos išsiuntimo dienos.
 
@@ -376,13 +376,13 @@ priedas
 
 2. 2002 m. birželio 10 d. Europos Parlamento ir Tarybos direktyva 2002/39/EB, iš dalies pakeičianti Direktyvą 97/67/EB dėl Bendrijos pašto paslaugų rinkos tolimesnio atvėrimo konkurencijai.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 1. Iki šio Įstatymo įsigaliojimo pašto bei pasiuntinių paslaugų teikėjams išduoti leidimai galioja tiek, kiek neprieštarauja šio Įstatymo nuostatoms.
 
 2. Vyriausybė ar jos įgaliota institucija, taip pat Ryšių reguliavimo tarnyba priima šiam Įstatymui įgyvendinti reikalingus teisės aktus.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 2 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d.
 

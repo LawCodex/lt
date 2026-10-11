@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1f7e6f10930311f0a8bbd1e98310677d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1F7E6F109303.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 207, 589, 673 straipsnių, priedo pakeitimo ir Kodekso papildymo 188-6 ir 188-7 straipsniais įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 207, 589, 673 STRAIPSNIŲ, PRIEDO PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. Kodekso papildymas 1886 straipsniu
+## 1 straipsnis. Kodekso papildymas 1886 straipsniu
 
 Papildyti Kodeksą 188^6 straipsniu:
 
@@ -40,7 +40,7 @@ užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstan�
 
 užtraukia baudą nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.“
 
-\#### 2 straipsnis. Kodekso papildymas 1887 straipsniu
+## 2 straipsnis. Kodekso papildymas 1887 straipsniu
 
 Papildyti Kodeksą 188^7 straipsniu:
 
@@ -62,7 +62,7 @@ užtraukia baudą asmenims nuo dviejų šimtų iki trijų tūkstančių eurų ar
 
 užtraukia baudą asmenims nuo keturių šimtų iki penkių tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešių šimtų iki šešių tūkstančių eurų.“
 
-\#### 3 straipsnis. 207 straipsnio pakeitimas
+## 3 straipsnis. 207 straipsnio pakeitimas
 
 Pakeisti 207 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trij�
 
 užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.“
 
-\#### 4 straipsnis. 589 straipsnio pakeitimas
+## 4 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 32 punktą ir jį išdėstyti taip:
 
@@ -122,19 +122,19 @@ užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.“
 
 „66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187^1, 188, 188^1, 188^3, 188^4, 188^5, 188^6, 188^7,189, 190, 191, 192, 194, 198^1, 205, 207, 207^1, 207^2straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362^1, 431, 449, 449^1 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 5 straipsnis. 673 straipsnio pakeitimas
+## 5 straipsnis. 673 straipsnio pakeitimas
 
 Pakeisti 673 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Nutarimo skirti baudą vykdymo, išskyrus, kiek tai susiję su šio kodekso 671 straipsnio 1 dalies 1, 2, 3 punktuose ir 675 straipsnio 4 dalyje nurodytais veiksmais, kontrolė pavedama Valstybinei mokesčių inspekcijai. Su nutarimo skirti baudą vykdymu susijusius klausimus, išskyrus numatytuosius šio kodekso 671 straipsnio 1 dalies 1, 2, 3 punktuose ir 675 straipsnio 4 dalyje, sprendžia Valstybinė mokesčių inspekcija.“
 
-\#### 6 straipsnis. Kodekso priedo pakeitimas
+## 6 straipsnis. Kodekso priedo pakeitimas
 
 Pakeisti Kodekso priedo 57^1 punktą ir jį išdėstyti taip:
 
 „57^1. 2011 m. vasario 15 d. Tarybos direktyva [2011/16/ES](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011L0016&locale=lt) dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą [77/799/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31977L0799&locale=lt) su paskutiniais pakeitimais, padarytais 2023 m. spalio 17 d. Tarybos direktyva [(ES) 2023/2226](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2226&locale=lt).“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 straipsnio 2 dalį ir 5 straipsnį, įsigalioja 2026 m. sausio 1 d.
 

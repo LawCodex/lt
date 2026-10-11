@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7E4C4AAA272C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7E4C4AAA272C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 11, 13 ir 43 straipsnių pakeitimo įstatymas
@@ -32,19 +32,19 @@ Vilnius
 
 2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B); 2010, Nr. [81-4230](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F4D4CDAFCE7))
 
-\#### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Asmuo, konkurso būdu priimamas į karjeros valstybės tarnautojo pareigas, egzaminuojamas raštu (testas) ir žodžiu (pokalbis). Egzaminas laikomas valstybine – lietuvių kalba. Pokalbio metu patikrinami asmens gebėjimai atlikti valstybės tarnautojo pareigybės aprašyme nustatytas funkcijas, taip pat kitų kalbų, privalomų tokioms funkcijoms atlikti, mokėjimas. Jeigu keli konkurse į karjeros valstybės tarnautojo pareigas dalyvavę pretendentai surinko vienodą balų skaičių, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus. Į karjeros valstybės tarnautojo pareigas priimamam asmeniui netaikomas reikalavimas turėti valstybės tarnybos stažą, išskyrus kitų įstatymų nustatytus atvejus.“
 
-\#### 2 straipsnis. 13 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 13 straipsnio 2 dalies pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Asmuo, konkurso būdu priimamas į įstaigos vadovo pareigas, egzaminuojamas raštu (testas) ir žodžiu (pokalbis). Egzaminas laikomas valstybine – lietuvių kalba. Pokalbio metu patikrinami asmens gebėjimai atlikti valstybės tarnautojo pareigybės aprašyme nustatytas funkcijas, taip pat kitų kalbų, privalomų tokioms funkcijoms atlikti, mokėjimas. Jeigu keli konkurse į įstaigos vadovo pareigas dalyvavę pretendentai surinko vienodą balų skaičių, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus.“
 
-\#### 3 straipsnis. 43 straipsnio 5 ir 8 dalių pakeitimas
+## 3 straipsnis. 43 straipsnio 5 ir 8 dalių pakeitimas
 
 1. 43 straipsnio 5 dalies 4 punkte išbraukti žodžius „pagal šaukimą yra“, vietoj žodžių „į naujokų šaukimo komisiją“ įrašyti žodžius „karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu“ ir šį punktą išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose) arba dėl dalyvavimo tarptautinėje operacijoje, teisės aktų nustatyta tvarka sudarius civilinės krašto apsaugos tarnybos sutartį, negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, iki jam sueis treji metai, dėl laikino perkėlimo į kitas pareigas pagal šio Įstatymo 18 straipsnį negali eiti pareigų.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
 

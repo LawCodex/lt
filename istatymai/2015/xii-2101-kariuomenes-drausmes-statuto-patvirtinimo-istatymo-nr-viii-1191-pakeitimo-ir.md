@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e08738b09f4b11e58fd1fc0b9bba68a7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E08738B09F4B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas

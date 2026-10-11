@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6DF453E652CB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6DF453E652CB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Argentinos, Australijos, Brazilijos, Ekvadoro, Filipinų, Honkongo, Indijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Kinijos, Kolumbijos, Korėjos Respublikos, Kubos, Naujosios Zelandijos, Šveicarijos, Taivano, Penghu, Kinmen ir Matsu atskirosios muitų teritorijos susitarimų dėl 2004 m. birželio 11 d. dokumento S/SECRET/8 pagal Bendrojo susitarimo dėl prekybos paslaugomis (GATS) XXI straipsnio 2 dalies a punktą ratifikavimo
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL EUROPOS BENDRIJŲ BEI JŲ VALSTYBIŲ NARIŲ
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimų dėl 2004 m. birželio 11 d. dokumento S/SECRET/8 pagal Bendrojo susitarimo dėl prekybos paslaugomis (GATS) XXI straipsnio 2 dalies a punktą ratifikavimas
+## 1 straipsnis. Susitarimų dėl 2004 m. birželio 11 d. dokumento S/SECRET/8 pagal Bendrojo susitarimo dėl prekybos paslaugomis (GATS) XXI straipsnio 2 dalies a punktą ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. kovo 12 d. dekretą Nr. 1K-1274, ratifikuoja:
 

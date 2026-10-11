@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1C5F19AA1B4D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1C5F19AA1B4D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 26, 29, 31, 31-1, 32, 45 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(1)-1131; 1999, Nr. 101-2916; 2000, Nr. 92-2843, Nr. 89-2755; 2001, Nr. 48-1656; 2002, Nr. 41-1527; 2003, Nr. 10-342; 2004, Nr. 167-6100; 2006, Nr. 17-596; 2007, Nr. 72-2831; 2008, Nr. 38-1379, Nr. 117-4442)
 
-\#### 1 straipsnis. 26 straipsnio 3 dalies 12, 13 ir 15 punktų pakeitimas
+## 1 straipsnis. 26 straipsnio 3 dalies 12, 13 ir 15 punktų pakeitimas
 
 1. pakeisti 26 straipsnio 3 dalies 12 punktą ir jį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „15) nustato viceministrų veiklos, ministerijos kanclerio administravimo sritis;“.
 
-\#### 2 straipsnis. 29 straipsnio 9 dalies pakeitimas
+## 2 straipsnis. 29 straipsnio 9 dalies pakeitimas
 
 Pakeisti 29 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Ministerija turi savo administraciją. Jai vadovauja ministerijos kancleris.“
 
-\#### 3 straipsnis. 31 straipsnio pakeitimas
+## 3 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 4. Ministras savo įgaliojimų laikotarpiu gali turėti visuomeninių konsultantų, kurie ministro prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą informaciją.“
 
-\#### 4 straipsnis. 311 straipsnio pakeitimas
+## 4 straipsnis. 311 straipsnio pakeitimas
 
 Pakeisti 31^1 straipsnį ir jį išdėstyti taip:
 
@@ -94,19 +94,19 @@ Pakeisti 31^1 straipsnį ir jį išdėstyti taip:
 
 4. Ministerijos kancleris, o kai jo laikinai nėra, ministro paskirtas ministerijos administracijos struktūrinio padalinio vadovas pagal savo kompetenciją priima potvarkius. Ministerijos kancleris saugo ministerijos antspaudą ir atsako už antspaudo naudojimą. Ministras saugoti ministerijos antspaudą gali įgalioti kitą ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą atsako ministro įgaliotas ministerijos valstybės tarnautojas.“
 
-\#### 5 straipsnis. 32 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 32 straipsnio 1 dalies pakeitimas
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Ministerijoje yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai yra ministras (kolegijos pirmininkas), viceministrai ir ministerijos kancleris. Į kolegijos sudėtį gali būti įtraukiami kiti ministerijos bei kitų institucijų atstovai.“
 
-\#### 6 straipsnis. 45 straipsnio 2 dalies 11 punkto pakeitimas
+## 6 straipsnis. 45 straipsnio 2 dalies 11 punkto pakeitimas
 
 Pakeisti 45 straipsnio 2 dalies 11 punktą ir jį išdėstyti taip:
 
 „11) Vyriausybės darbo reglamento nustatyta tvarka gali organizuoti ministerijų atstovų (viceministrų, ministerijų kanclerių) pasitarimus;“.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2009 m. liepos 1 d., išskyrus šio įstatymo 3 straipsnį ir šio straipsnio 2 dalį.
 

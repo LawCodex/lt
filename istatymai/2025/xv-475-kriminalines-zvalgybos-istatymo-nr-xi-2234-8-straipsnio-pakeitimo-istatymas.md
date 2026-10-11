@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0cb523a2ab4b11f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0CB523A2AB4B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ KRIMINALINĖS ŽVALGYBOS ĮSTATYMO NR. XI-2234 8 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 

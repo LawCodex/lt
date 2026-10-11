@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E421EF2B1A0D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E421EF2B1A0D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2004, Nr. [169-6215](https://www.e-tar.lt/portal/lt/legalAct/TAR.86209F68A21F); 2006, Nr. [72-2679](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13009B46413); 2010, Nr. [63-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FDE832EEE9B); 2011, Nr. [86-4151](https://www.e-tar.lt/portal/lt/legalAct/TAR.E94D27D4E4FD); 2012, Nr. [135-6875](https://www.e-tar.lt/portal/lt/legalAct/TAR.325695DC88AF))
 
-\#### 1 straipsnis. 36 straipsnio 7 ir 12 dalių pakeitimas
+## 1 straipsnis. 36 straipsnio 7 ir 12 dalių pakeitimas
 
 1. Pakeisti 36 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „12. Laisvu nuo tarnybos metu profesinės karo tarnybos kariai turi teisę užsiimti kūryba, įskaitant ir turtinių teisių į savo sukurtus kūrinius perleidimą. Krašto apsaugos ministrui ar jo įgaliotam asmeniui leidus, profesinės karo tarnybos kariai taip pat turi teisę užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti kūrybine veikla pagal darbo sutartį ir gauti už tai darbo užmokestį ar atlyginimą, jeigu tai nesukelia viešųjų ir privačių interesų konflikto tarnyboje, nesudaro prielaidų tarnybą panaudoti asmeniniais interesais, nediskredituoja tarnybos autoriteto, nekliudo profesinės karo tarnybos kariui tinkamai atlikti savo pareigas. Sprendimas leisti profesinės karo tarnybos kariui užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti kūrybine veikla pagal darbo sutartį galioja iki kario perkėlimo į kitas pareigas, tačiau ne ilgiau kaip 3 metus nuo sprendimo priėmimo dienos. Sprendimą leisti profesinės karo tarnybos kariui užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti kūrybine veikla pagal darbo sutartį priėmęs asmuo gali šį sprendimą atšaukti, jeigu atsiranda šioje dalyje nurodytų aplinkybių, dėl kurių toks leidimas negalėjo būti išduotas. Prašymai leisti užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti kūrybine veikla pagal darbo sutartį nagrinėjami, sprendimai priimami ir atšaukiami krašto apsaugos ministro nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Profesinės karo tarnybos kariai, kuriems iki šio įstatymo įsigaliojimo, vadovaujantis Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 12 dalimi, išduotas leidimas dirbti ar teikti komercinio pobūdžio paslaugas, ne vėliau kaip per 3 mėnesius nuo šio įstatymo įsigaliojimo turi gauti naują leidimą užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti kūrybine veikla pagal darbo sutartį arba nutraukti darbą ar komercinio pobūdžio paslaugų teikimą.
 

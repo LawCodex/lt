@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3cd5efe2a67611ef90b5ee8931e5ce5e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3CD5EFE2A676.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 1988 metų Jungtinių Tautų Konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymo Nr. VIII-660 1 ir 3 straipsnių pakeitimo įstatymas

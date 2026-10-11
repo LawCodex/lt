@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8208cad024ab11e5b336e9064144f02a"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8208CAD024AB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmenų, kuriems už darbą apmokama iš valstybės ar savivaldybės biudžeto lėšų, dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) dalies grąžinimo įstatymas
@@ -40,7 +40,7 @@ siekdamas atlyginti tuos asmenų, kuriems už darbą apmokama iš valstybės ar 
 
 priima šį įstatymą.
 
-\#### 1 straipsnis. Įstatymo taikymas
+## 1 straipsnis. Įstatymo taikymas
 
 Šis įstatymas taikomas asmenims (jiems mirus – jų įpėdiniams), kuriems buvo mokamas dėl ekonomikos krizės neproporcingai sumažintas darbo užmokestis (atlyginimas) vadovaujantis:
 
@@ -62,7 +62,7 @@ priima šį įstatymą.
 
 9) Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III ir IV skirsnių nuostatomis, galiojusiomis 2009 m. gegužės 1 d. – 2013 m. gruodžio 31 d.
 
-\#### 2 straipsnis. Dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) mokėjimo patirtų praradimų apskaičiavimo ir išmokėjimo tvarka
+## 2 straipsnis. Dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) mokėjimo patirtų praradimų apskaičiavimo ir išmokėjimo tvarka
 
 1. Pagal šį įstatymą asmenims, kuriems už darbą apmokama iš valstybės ar savivaldybės biudžeto lėšų ir kuriems buvo mokamas dėl ekonomikos krizės neproporcingai sumažintas darbo užmokestis (atlyginimas), grąžinami šie patirti praradimai:
 
@@ -112,13 +112,13 @@ B – asmens mėnesinis darbo užmokestis (atlyginimas) ir (ar) kitos tą mėnes
 
 12. Patikslinus duomenis apie asmens draudžiamąsias pajamas, atitinkamai perskaičiuojamos socialinės ir valstybinio socialinio draudimo išmokos, taip pat valstybinės pensijos, kurių dydis priklausė nuo asmens darbo užmokesčio (atlyginimo). Dėl šio perskaičiavimo susidariusį valstybinio socialinio draudimo išmokų dydžių ir paskirtųjų socialinio draudimo pensijų dydžių skirtumą Valstybinio socialinio draudimo fondo administravimo įstaigos apskaičiuoja ir asmenims išmoka Lietuvos Respublikos Vyriausybės nustatyta tvarka ne vėliau kaip per 9 mėnesius nuo šio straipsnio 11 dalyje nurodytų duomenų apie asmeniui papildomai priskaičiuotas draudžiamąsias pajamas ir papildomai priskaičiuotas valstybinio socialinio draudimo įmokų sumas pateikimo Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registrui termino pabaigos. Dėl šio perskaičiavimo susidariusį paskirtųjų ir, jeigu taikomas ribojimas, – apribotų pagal Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalį valstybinių pensijų dydžių skirtumą valstybinių pensijų skyrimą administruojanti įstaiga apskaičiuoja iki 2015 m. gruodžio 31 d. Valstybinių pensijų mokėjimą administruojanti įstaiga šį skirtumą išmoka Lietuvos Respublikos Vyriausybės nustatyta tvarka, tačiau ne vėliau negu šioje dalyje nustatyta išmokėti dėl šio perskaičiavimo susidariusį paskirtųjų socialinio draudimo pensijų dydžių skirtumą.
 
-\#### 3 straipsnis. Išmokėtinų sumų finansavimo šaltinis
+## 3 straipsnis. Išmokėtinų sumų finansavimo šaltinis
 
 1. 25 procentai (po 5 procentus kiekvienais kalendoriniais metais) visų lėšų, reikalingų valstybės institucijoms ar įstaigoms šiam įstatymui įgyvendinti, skiriama iš šioms institucijoms ar įstaigoms patvirtintų valstybės biudžeto asignavimų, savivaldybių institucijoms ar įstaigoms ‒ iš savivaldybių biudžetų asignavimų, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, likusi dalis – iš papildomai skiriamų valstybės biudžeto lėšų. 2016 metais lėšos, reikalingos valstybės institucijoms ar įstaigoms šiam įstatymui įgyvendinti, skiriamos iš šioms institucijoms ar įstaigoms patvirtintų valstybės biudžeto asignavimų, savivaldybių institucijoms ar įstaigoms ‒ iš savivaldybių biudžetų asignavimų.
 
 2. Šio įstatymo 2 straipsnio 6 dalyje nurodytais atvejais Lietuvos Respublikos Seimo kanceliarijai, Lietuvos Respublikos Prezidento kanceliarijai, ministerijoms arba savivaldybių administracijoms reikalingos lėšos skiriamos iš papildomai šioms institucijoms skirtų valstybės biudžeto lėšų.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. rugsėjo 1 d.
 

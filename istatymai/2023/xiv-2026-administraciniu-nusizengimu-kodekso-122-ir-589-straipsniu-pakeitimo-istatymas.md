@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8fd25350053711ee9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8FD253500537.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 122 ir 589 straipsnių pakeitimo įstatymas
@@ -82,5 +82,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2080, 2023-06-20, paskelbta TAR 2023-06-26, i. k. 2023-12756
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 122 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2026 1 straipsnio pakeitimo įstatymas
-
-part_e71409042aaa4866a62ef4a5c884156e_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6B0ABE9DF9DA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6B0ABE9DF9DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 1 ir 16 straipsnių papildymo įstatymas
@@ -34,13 +34,13 @@ Vilnius
 
 „1) Vidaus reikalų ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir kitų vidaus reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kareiviai;“.
 
-\#### 2 straipsnis. 16 straipsnio 4 dalies 2 punkto papildymas
+## 2 straipsnis. 16 straipsnio 4 dalies 2 punkto papildymas
 
 16 straipsnio 4 dalies 2 punkte po žodžių „policijoje (milicijoje)“ įrašyti žodžius „Valstybės sienos apsaugos tarnyboje“ ir šį punktą išdėstyti taip:
 
 „2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
 

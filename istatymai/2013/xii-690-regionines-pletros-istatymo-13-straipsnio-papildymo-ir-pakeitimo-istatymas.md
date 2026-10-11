@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/17559f5089da11e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.17559F5089DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymo 13 straipsnio papildymo ir pakeitimo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [66-1987](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=106367); 2002, Nr. [123-5558](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=197711); 2007, Nr. [61-2339](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=298308); 2010, Nr. [48-2285](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=369664))
 
-\#### 1 straipsnis. 13 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 13 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 13 straipsnį nauja 4 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. 13 straipsnio buvusias 4, 5, 6, 7 ir 8 dalis laikyti atitinkamai 5, 6, 7, 8 ir 9 dalimis.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. kovo 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0451adc255c711f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0451ADC255C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 21-1, 22, 31, 39, 48, 48-1, 48-2, 48-3, 48-5, 52-1, 73-2, 75-2 straipsnių, priedo pakeitimo ir Įstatymo papildymo septintuoju-2 skirsniu įstatymas
@@ -26,7 +26,7 @@ ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 2, 6, 9, 16, 17, 211, 22, 31, 39, 4
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį 31 dalimi:
 
@@ -48,17 +48,17 @@ Vilnius
 
 „110^1. Šiame įstatyme vartojamos sąvokos „baterija“, „baterijos būklė“, „baterijos įkrovos būsena“ ir „pramoninė baterija“ suprantamos taip, kaip apibrėžiamos Reglamente [(ES) 2023/1542](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R1542&locale=lt).“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 6 straipsnio 2 dalies 1 punktą.
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 Papildyti 9 straipsnio 3 dalį 1^1 punktu:
 
 „1^1) rengia ir tvirtina Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles;“.
 
-\#### 4 straipsnis. 16 straipsnio pakeitimas
+## 4 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -72,13 +72,13 @@ Papildyti 9 straipsnio 3 dalį 1^1 punktu:
 
 „10^1. Šio įstatymo 9 straipsnio 3 dalies 47 punkte nurodytuose Tarybos tvirtinamuose dokumentuose taip pat nustatomi šio straipsnio 9 dalies 2 punkte nurodyti techniniai reikalavimai, neturintys įtakos elektros energetikos sistemos darbo saugumui, stabilumui ir patikimumui.“
 
-\#### 5 straipsnis. 17 straipsnio pakeitimas
+## 5 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Licencija ar leidimas, išskyrus šio įstatymo 16 straipsnio 1 dalies 7 ir 8 punktuose nurodytus leidimus ir išduodant šio įstatymo 16 straipsnio 1 dalies 1 punkte nurodytą leidimą atlikus iš atsinaujinančių išteklių elektros energiją gaminančios elektrinės ar elektros energijos gamybos įrenginio modernizavimą, išduodami, tikslinami ir keičiami arba rašytinis motyvuotas atsisakymas išduoti, patikslinti ar pakeisti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Šio įstatymo 16 straipsnio 1 dalies 1 punkte nurodytas leidimas, atlikus iš atsinaujinančių išteklių elektros energiją gaminančios elektrinės ar elektros energijos gamybos įrenginio modernizavimą, ir šio įstatymo 16 straipsnio 1 dalies 8 punkte nurodytas leidimas išduodami per 20 kalendorinių dienų nuo Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo ir visų reikalingų ir tinkamai įformintų dokumentų registravimo leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti, patikslinti ar pakeisti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo, patikslinimo ar pakeitimo. Šioje dalyje numatyti leidimų išdavimo terminai taikomi planuojant veiklą paspartintos atsinaujinančių išteklių energijos plėtros zonose ir už jų ribų.“
 
-\#### 6 straipsnis. 211 straipsnio pakeitimas
+## 6 straipsnis. 211 straipsnio pakeitimas
 
 1. Papildyti 211 straipsnį 11 dalimi:
 
@@ -122,7 +122,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „10. Kai yra šio straipsnio 4, 8 ir 9 dalyse nurodytos aplinkybės, dėl kurių tinklų operatorius nepasinaudoja visu prievolių įvykdymo užtikrinimu ar jo dalimi, gamintojas pateikia tinklų operatoriui tai įrodančius dokumentus, o tinklų operatorius įvertina pateiktus dokumentus ir priima sprendimą dėl pateikto prievolių įvykdymo užtikrinimo grąžinimo.“
 
-\#### 7 straipsnis. 22 straipsnio pakeitimas
+## 7 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 9 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „11. Ketinimų protokolo pavyzdinė forma ir šio straipsnio 9 dalies 13 punkte numatyto savivaldybės mero patvirtinimo forma nustatomos tinklų operatoriaus Pasinaudojimo elektros tinklais tvarkos apraše.“
 
-\#### 8 straipsnis. 31 straipsnio pakeitimas
+## 8 straipsnis. 31 straipsnio pakeitimas
 
 1. Papildyti 31 straipsnio 1 dalį nauju 35 punktu:
 
@@ -182,7 +182,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Buvusį 31 straipsnio 1 dalies 35 punktą laikyti 36 punktu.
 
-\#### 9 straipsnis. 39 straipsnio pakeitimas
+## 9 straipsnis. 39 straipsnio pakeitimas
 
 1. Pakeisti 39 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „1) atsinaujinančių išteklių energijos bendrijų ar piliečių energetikos bendrijų, kai jų dalyviais yra savivaldybė, jos įstaigos ir (ar) įmonės ir ne mažiau kaip 20 procentų šių bendrijų eksploatuojamų atsinaujinančius energijos išteklius naudojančių elektrinių įrengtosios galios ne vėliau kaip per 6 mėnesius nuo leidimo gaminti elektros energiją gavimo dienos bus skirta mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti;“.
 
-\#### 10 straipsnis. 48 straipsnio pakeitimas
+## 10 straipsnis. 48 straipsnio pakeitimas
 
 1. Pakeisti 48 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -202,7 +202,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „9. Siekiant įgyvendinti valstybės socialinės politikos tikslus ir nenukrypstant nuo šio straipsnio 7 ir 8 dalyse nurodytos išmaniųjų apskaitos sistemų diegimo tvarkos, išmaniosios apskaitos sistemos papildomai pirmuoju etapu nemokamai gali būti diegiamos ir vartotojams, kurie yra asmenys su negalia, pagal jų prašymus Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka ir sąlygomis.“
 
-\#### 11 straipsnis. 481 straipsnio pakeitimas
+## 11 straipsnis. 481 straipsnio pakeitimas
 
 1. Pakeisti 481 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Buitines ir pramonines baterijas gaminantis asmuo užtikrina, kad baterijų savininkai ir naudotojai, taip pat jų vardu veikiančios trečiosios šalys, kai savininkas ir naudotojas duoda aiškų sutikimą raštu ar elektronine forma, nediskriminacinėmis sąlygomis nemokamai ir laikydamiesi duomenų apsaugos taisyklių tikruoju laiku galėtų susipažinti su informacija apie bateriją, įskaitant informaciją apie baterijos talpą, būklę, įkrovos būseną ir galios vertę.“
 
-\#### 12 straipsnis. 482 straipsnio pakeitimas
+## 12 straipsnis. 482 straipsnio pakeitimas
 
 Pakeisti 48^2 straipsnį ir jį išdėstyti taip:
 
@@ -306,13 +306,13 @@ Pakeisti 48^2 straipsnį ir jį išdėstyti taip:
 
 29. Šio straipsnio 4, 8–28 dalys netaikomos, kai, vadovaujantis šio įstatymo 16 straipsnio 29 dalimi, leidimai plėtoti energijos kaupimo pajėgumus ir generuoti elektros energiją iš energijos kaupimo įrenginių nereikalingi. Kai, vadovaujantis šio įstatymo 16 straipsnio 29 dalimi, leidimai plėtoti energijos kaupimo pajėgumus ir generuoti elektros energiją iš energijos kaupimo įrenginių nereikalingi ir energijos kaupimo įrenginys įrengiamas nekeičiant objektui, kurio vidaus tinkle įrengiamas energijos kaupimo įrenginys, suteiktos leistinos naudoti ir leistinos generuoti galios, energijos kaupimo įrenginiai prijungiami prie elektros tinklų supaprastinta tvarka – pateikiant tinklų operatoriaus Pasinaudojimo elektros tinklais tvarkos apraše nustatytos formos deklaraciją apie įrengtą energijos kaupimo įrenginį. Kitais atvejais, kai, vadovaujantis šio įstatymo 16 straipsnio 29 dalimi, leidimai plėtoti energijos kaupimo pajėgumus ir generuoti elektros energiją iš energijos kaupimo įrenginių nereikalingi, energijos kaupimo įrenginiai prijungiami prie elektros tinklų Energetikos ministerijos nustatyta tinklų naudotojų elektros įrenginių prijungimo prie elektros tinklų tvarka ir (ar) šių tinklų operatoriaus Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tinklų naudotojų energijos kaupimo įrenginių prijungimo prie elektros tinklų tvarka ir sąlygomis.“
 
-\#### 13 straipsnis. 483 straipsnio pakeitimas
+## 13 straipsnis. 483 straipsnio pakeitimas
 
 Pakeisti 48^3 straipsnio 6 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „6. Šio straipsnio 5 dalies nuostatos netaikomos integruotiesiems elektros tinklo komponentams ir (ar) naujiems energijos kaupimo įrenginiams (baterijoms), dėl kurių galutinis investavimo sprendimas priimtas iki Direktyvos [(ES) 2019/944](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019L0944&locale=lt) 54 straipsnio 5 dalyje nurodytos datos, įprastu nusidėvėjimo laikotarpiu tuo atveju, jeigu tokie energijos kaupimo įrenginiai (baterijos) atitinka visas šias sąlygas:“.
 
-\#### 14 straipsnis. Įstatymo papildymas septintuoju2 skirsniu
+## 14 straipsnis. Įstatymo papildymas septintuoju2 skirsniu
 
 Papildyti Įstatymą septintuoju^2 skirsniu:
 
@@ -320,7 +320,7 @@ Papildyti Įstatymą septintuoju^2 skirsniu:
 
 VARTOTOJO ENERGETIKOS ĮRENGINIŲ PRIJUNGIMAS PRIE ELEKTROS PERDAVIMO TINKLO
 
-\#### 485 straipsnis. Elektros tinklų pralaidumų rezervavimas vartotojo energetikos įrenginių prijungimui prie elektros perdavimo tinklo
+## 485 straipsnis. Elektros tinklų pralaidumų rezervavimas vartotojo energetikos įrenginių prijungimui prie elektros perdavimo tinklo
 
 1. Šio skirsnio nuostatos taikomos vartotojo energetikos įrenginiams, prijungiamiems prie elektros perdavimo tinklo. Vartotojo energetikos įrenginiai prijungiami prie elektros perdavimo tinklo šiame įstatyme, Statybos įstatyme, Europos Sąjungos reglamentuose, reglamentuojančiuose vartotojo energetikos įrenginių prijungimą prie elektros perdavimo tinklų ir naudojimąsi elektros perdavimo tinklais, ir jų įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis.
 
@@ -366,7 +366,7 @@ VARTOTOJO ENERGETIKOS ĮRENGINIŲ PRIJUNGIMAS PRIE ELEKTROS PERDAVIMO TINKLO
 
 13. Šio straipsnio nuostatos nėra taikomos tais atvejais, kai perdavimo elektros tinklų plėtra reikalinga dėl vartotojų energetikos įrenginių, prijungiamų prie skirstomųjų elektros tinklų, ir kai perdavimo sistemos operatoriaus prijungimo sąlygos išduodamos skirstomųjų tinklų operatoriui.
 
-\#### 486 straipsnis. Vartotojo pateikto prievolių įvykdymo užtikrinimo panaudojimas
+## 486 straipsnis. Vartotojo pateikto prievolių įvykdymo užtikrinimo panaudojimas
 
 1. Šio įstatymo 485 straipsnio 7 dalyje nurodytas vartotojo pateiktas prievolių įvykdymo užtikrinimo dydis gali būti sumažintas Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis, atsižvelgiant į vartotojo patirtas faktinių jo įsipareigojimų įvykdymo išlaidas.
 
@@ -390,13 +390,13 @@ VARTOTOJO ENERGETIKOS ĮRENGINIŲ PRIJUNGIMAS PRIE ELEKTROS PERDAVIMO TINKLO
 
 8. Pagal vartotojo pateiktą prievolių įvykdymo užtikrinimą perdavimo sistemos operatoriaus gautos lėšos įvertinamos nustatant perdavimo paslaugų kainų viršutines ribas.“
 
-\#### 15 straipsnis. 521 straipsnio pakeitimas
+## 15 straipsnis. 521 straipsnio pakeitimas
 
 Pakeisti 52^1 straipsnio 7 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) palyginimo priemonė turi būti prieinama asmenims su negalia – pastebima, paprastai naudojama, suprantama ir patvari;“.
 
-\#### 16 straipsnis. 732 straipsnio pakeitimas
+## 16 straipsnis. 732 straipsnio pakeitimas
 
 Pakeisti 73^2 straipsnį ir jį išdėstyti taip:
 
@@ -404,13 +404,13 @@ Pakeisti 73^2 straipsnį ir jį išdėstyti taip:
 
 Siekiant užtikrinti elektros energetikos sistemos stabilumą ir saugumą, kai šioje sistemoje planuojami plėtoti elektros energijos gamybos, vartojimo ir energijos kaupimo pajėgumai, galintys daryti reikšmingą įtaką jos veikimui, tai yra kai gamintojas, vartotojas ar energijos kaupimo įrenginio savininkas pateikia tinklų operatoriui prašymą sudaryti ketinimų protokolą dėl elektros energijos gamybos įrenginių, vartotojo įrenginių ir (ar) energijos kaupimo įrenginių prijungimo, kai prijungimo taške numatoma leistina generuoti galia ir (ar) leistina naudoti galia yra ne mažesnė kaip 50 MW, išskyrus atvejus, kai pateikiamas prašymas sudaryti ketinimų protokolą dėl Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalyje planuojamų plėtoti elektros gamybos įrenginių prijungimo, turi būti įsitikinta, kad ketinimų protokolo pasirašymas ir (ar) ketinimų protokolą siekiantis pasirašyti asmuo nekelia rizikos nacionalinio saugumo interesams ar atitinka nacionalinio saugumo interesus. Kai atlikus Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatytus veiksmus priimamas sprendimas, patvirtinantis, kad šis asmuo ir (ar) ketinimų protokolo pasirašymas kelia riziką nacionalinio saugumo interesams ar neatitinka nacionalinio saugumo interesų, prašymas pasirašyti ketinimų protokolą netenkinamas ir ketinimų protokolas nepasirašomas.“
 
-\#### 17 straipsnis. 752 straipsnio pakeitimas
+## 17 straipsnis. 752 straipsnio pakeitimas
 
 Pakeisti 75^2 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) prieš pradėdamas žemės darbus inžinerinių tinklų, susisiekimo komunikacijų ir kitų objektų apsaugos zonose, teisės aktų nustatyta tvarka gauti savivaldybės institucijų leidimą (rašytinį pritarimą) žemės darbams vykdyti, gauti žemės darbų vykdymo vietoje esančių požeminių statinių, susisiekimo komunikacijų, kitų inžinerinių tinklų savininkų (naudotojų, valdytojų) rašytinius sutikimus, teisės aktuose nustatytais atvejais organizuoti inžinerinių tinklų savininkų (naudotojų, valdytojų) atstovų dalyvavimą vykdant žemės darbus;“.
 
-\#### 18 straipsnis. Įstatymo priedo pakeitimas
+## 18 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 22 punktu:
 
@@ -420,7 +420,7 @@ Pakeisti 75^2 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip:
 
 „23. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva [(ES) 2023/2413](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2413&locale=lt), kuria iš dalies keičiami Direktyva [(ES) 2018/2001](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018L2001&locale=lt), Reglamentas [(ES) 2018/1999](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018R1999&locale=lt) ir Direktyva [98/70/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31998L0070&locale=lt), kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva [(ES) 2015/652](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32015L0652&locale=lt).“
 
-\#### 19 straipsnis. Įstatymo priedo pakeitimas
+## 19 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 19 punktu:
 
@@ -430,7 +430,7 @@ Pakeisti 75^2 straipsnio 4 dalies 5 punktą ir jį išdėstyti taip:
 
 „20. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva [(ES) 2023/2413](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2413&locale=lt), kuria iš dalies keičiami Direktyva [(ES) 2018/2001](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018L2001&locale=lt), Reglamentas [(ES) 2018/1999](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018R1999&locale=lt) ir Direktyva [98/70/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31998L0070&locale=lt), kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva [(ES) 2015/652](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32015L0652&locale=lt).“
 
-\#### 20 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 20 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 19 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2025 m. rugpjūčio 1 d.
 

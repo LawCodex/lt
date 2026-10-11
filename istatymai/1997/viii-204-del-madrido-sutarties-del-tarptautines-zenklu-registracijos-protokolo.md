@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F0350CD79647"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F0350CD79647.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Madrido sutarties dėl tarptautinės ženklų registracijos protokolo ratifikavimo
@@ -26,11 +26,11 @@ DĖL MADRIDO SUTARTIES DĖL TARPTAUTINĖS ŽENKLŲ REGISTRACIJOS PROTOKOLO RATIF
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Madrido sutarties dėl tarptautinės ženklų registracijos protokolą“, ratifikuoja Madrido sutarties dėl tarptautinės ženklų registracijos protokolą, priimtą 1989 m.birželio 27 d. Madride.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Madrido sutarties dėl tarptautinės ženklų registracijos protokolo 5 straipsnio (2)(b) ir (c) punktais, pareiškia, kad pagal šį protokolą atliktoms tarptautinėms registracijoms 5 straipsnio (2)(a) punkte nurodytas vienerių metų terminas pakeičiamas 18 mėnesių terminu ir, jeigu bus atsisakyta suteikti apsaugą dėl gauto protesto prieš apsaugos suteikimą, apie tokį atsisakymą bus pranešta Tarptautiniam biurui 5 straipsnio (c)(i) ir (ii) punktuose nurodytomis sąlygomis.
 

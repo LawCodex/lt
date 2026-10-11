@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.36A08E7AB4D0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.36A08E7AB4D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos cheminio ginklo uždraudimo įstatymas
@@ -26,11 +26,11 @@ CHEMINIO GINKLO UŽDRAUDIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Įstatymas nustato cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo įgyvendinimo priemones bei tvarką, juridinių ir fizinių asmenų teises ir pareigas įgyjant, parduodant ar perduodant, gaminant, perdirbant, vartojant, saugant, įvežant bei išvežant kontroliuojamas chemines medžiagas.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Cheminis ginklas – tai:
 
@@ -56,7 +56,7 @@ Vilnius
 
 9. Tarptautinė inspekcija – asmuo ar asmenų grupė, pagal tarptautines sutartis turinti įgaliojimus tikrinti, kaip vykdomos cheminio ginklo uždraudimo įgyvendinimo priemonės.
 
-\#### 3 straipsnis. Draudžiama veikla
+## 3 straipsnis. Draudžiama veikla
 
 1. Lietuvos Respublikoje draudžiama:
 
@@ -72,7 +72,7 @@ Vilnius
 
 2. Juridiniai ir fiziniai asmenys privalo leisti teisės aktų nustatyta tvarka susipažinti bei tikrinti jiems priklausančius objektus ir suteikti šiam įstatymui vykdyti būtiną informaciją tarptautinėms inspekcijoms ir jas lydintiems Ūkio ministerijos paskirtiems atstovams.
 
-\#### 4 straipsnis. Įstatymo nedraudžiami tikslai
+## 4 straipsnis. Įstatymo nedraudžiami tikslai
 
 Nuodingosios cheminės medžiagos bei jų pirmtakai, jeigu jų rūšys ir kiekiai atitinka šio straipsnio 1, 2 ir 3 punkte nustatytus tikslus, gali būti naudojami:
 
@@ -82,7 +82,7 @@ Nuodingosios cheminės medžiagos bei jų pirmtakai, jeigu jų rūšys ir kiekia
 
 3) teisėtvarkos tikslams, įskaitant masinių neramumų valstybėje malšinimą.
 
-\#### 5 straipsnis. Kontroliuojamų nuodingųjų cheminių medžiagų bei jų pirmtakų naudojimo įstatymo nedraudžiamiems tikslams sąlygos
+## 5 straipsnis. Kontroliuojamų nuodingųjų cheminių medžiagų bei jų pirmtakų naudojimo įstatymo nedraudžiamiems tikslams sąlygos
 
 1. Juridiniai ir fiziniai asmenys neturi teisės be Vyriausybės nustatyta tvarka išduoto leidimo:
 
@@ -102,7 +102,7 @@ Nuodingosios cheminės medžiagos bei jų pirmtakai, jeigu jų rūšys ir kiekia
 
 5. Leidimų išdavimo tvarką nustato Vyriausybė.
 
-\#### 6 straipsnis. Informacija
+## 6 straipsnis. Informacija
 
 1. Kiekvienas juridinis ir fizinis asmuo, kuris įgyja, parduoda ar perduoda, gamina, perdirba, vartoja, saugo, įveža į Lietuvos Respublikos teritoriją ar išveža iš jos kontroliuojamas nuodingąsias chemines medžiagas, gamina konkrečias organines chemines medžiagas, įgyja masinių neramumų malšinimo chemines medžiagas, privalo Lietuvos Respublikos Vyriausybės nustatyta tvarka teikti informaciją, būtiną šiam įstatymui vykdyti.
 
@@ -114,11 +114,11 @@ Nuodingosios cheminės medžiagos bei jų pirmtakai, jeigu jų rūšys ir kiekia
 
 3) valstybės saugumo užtikrinimu.
 
-\#### 7 straipsnis. Atsakomybė už įstatymo nevykdymą
+## 7 straipsnis. Atsakomybė už įstatymo nevykdymą
 
 Asmenys, pažeidę šio įstatymo nuostatas, atsako įstatymų nustatyta tvarka.
 
-\#### 8 straipsnis. Pasiūlymai Vyriausybei
+## 8 straipsnis. Pasiūlymai Vyriausybei
 
 Vyriausybė ar jos įgaliota institucija iki 1999 m. vasario 1 d.:
 
@@ -130,7 +130,7 @@ Vyriausybė ar jos įgaliota institucija iki 1999 m. vasario 1 d.:
 
 4) nustato juridinių ir fizinių asmenų, įgyjančių, parduodančių ar perduodančių, gaminančių, perdirbančių, vartojančių, saugančių, įvežančių į Lietuvos Respublikos teritoriją ir išvežančių iš jos kontroliuojamas nuodingąsias chemines medžiagas, gaminančių konkrečias organines chemines medžiagas bei įgyjančių masinių neramumų malšinimo medžiagas, informacijos teikimo tvarką.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1998 m. spalio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9adce360ca0511f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9ADCE360CA05.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 4, 25, 28, 30, 30-2, 30-5, 31 straipsnių pakeitimo įstatymo Nr. XIV-2961 2 ir 10 straipsnių pakeitimo įstatymas
@@ -26,11 +26,11 @@ ATLIEKŲ TVARKYMO ĮSTATYMO NR. VIII-787 2, 4, 25, 28, 30, 302, 305, 31 STRAIPSN
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pripažinti netekusia galios 2 straipsnio 2 dalį.
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 

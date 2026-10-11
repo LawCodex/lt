@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/27df9f7007fb11e4b836947d492f2f50"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.27DF9F7007FB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 35, 37, 38 straipsnių, III skyriaus antrojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 37-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ ALKOHOLIO KONTROLĖS ĮSTATYMO NR. I-857 35, 37, 38 STRAIPSNIŲ, III SKYRIAUS AN
 
 Vilnius
 
-\#### 1 straipsnis. III skyriaus antrojo skirsnio pavadinimo pakeitimas
+## 1 straipsnis. III skyriaus antrojo skirsnio pavadinimo pakeitimas
 
 Pakeisti III skyriaus antrojo skirsnio pavadinimą ir skirsnio pavadinimą išdėstyti taip:
 
@@ -34,13 +34,13 @@ Pakeisti III skyriaus antrojo skirsnio pavadinimą ir skirsnio pavadinimą išd�
 
 **ALKOHOLIO PRODUKTŲ ĮVEŽIMO IR IMPORTO VALSTYBINIS REGLAMENTAVIMAS**“.
 
-\#### 2 straipsnis. 35 straipsnio pakeitimas
+## 2 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
 „2. Šio Įstatymo 34 straipsnio 1 dalyje nurodytos institucijos bylas nagrinėja ir baudas skiria ne vėliau kaip per du mėnesiusnuo pažeidimo nustatymo dienos. Baudos gali būti skiriamos ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos, o esant trunkamam pažeidimui – per 3 metus nuo jo paaiškėjimo dienos.“
 
-\#### 3 straipsnis. 37 straipsnio pakeitimas
+## 3 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
 2. Apie bylos nagrinėjimo vietą ir laiką proceso šalims turi būti pranešta raštu ne vėliau kaip prieš 10 darbo dienų iki posėdžio pradžios.“
 
-\#### 4 straipsnis. Įstatymo papildymas 371 straipsniu
+## 4 straipsnis. Įstatymo papildymas 371 straipsniu
 
 Papildyti Įstatymą 37^1 straipsniu:
 
@@ -64,7 +64,7 @@ Papildyti Įstatymą 37^1 straipsniu:
 
 4. Jeigu bylos nagrinėjimo metu apklausiami liudytojai, juos apklausti turi teisę ir proceso šalys. Jos taip pat turi teisę siūlyti savo liudytojus.“
 
-\#### 5 straipsnis. 38 straipsnio pakeitimas
+## 5 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu proceso šalys bylos nagrinėjimo metu nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra duomenų, kad proceso šalims laiku ir tinkamai buvo pranešta apie bylos nagrinėjimo vietą ir laiką, ir jeigu iki bylos nagrinėjimo pradžios proceso šalys nepateikia savo neatvykimą pateisinančių dokumentų, kuriuose nurodytas neatvykimo priežastis šio Įstatymo 34 straipsnio 1 dalyje nurodytos institucijos pripažįsta svarbiomis. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas pranešimas, išsiųstas registruotu paštu Juridinių asmenų registre nurodytu proceso šalies buveinės adresu, išskyrus atvejus, kai proceso šalis nurodo kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registre nurodytu proceso šalies elektroninių siuntų pristatymo adresu, arba pranešimas pasirašytinai įteiktas proceso šaliai šio Įstatymo pažeidimo nustatymo metu.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. lapkričio 1 d.
 

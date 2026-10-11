@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E1002166FF8C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E1002166FF8C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2011, Nr. [62-2936](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291); 2012, Nr. [76-3939](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5F6C85D3D2F))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 33 dalimi:
 
@@ -38,7 +38,7 @@ Vilnius
 
 4. Buvusias 2 straipsnio 37–47 dalis laikyti atitinkamai 39–49 dalimis.
 
-\#### 2 straipsnis. 11 straipsnio 1 ir 2 punktų pakeitimas
+## 2 straipsnis. 11 straipsnio 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 11 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „2) tvirtina fiksuotų tarifų didžiausius galimus dydžius, nustato jų diferencijuojamus dydžius, kontroliuoja, kaip jie taikomi;“.
 
-\#### 3 straipsnis. 13 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5 dalimi
+## 3 straipsnis. 13 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5 dalimi
 
 1. Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 „5. Elektrinių įrengtoji suminė galia apskaičiuojama kaip elektrinėms, kurioms šio įstatymo 20 straipsnyje nustatyta tvarka ir sąlygomis taikomas atsinaujinančių energijos išteklių naudojimo elektros energijai gaminti skatinimas, priskirtos įrengtosios suminės galios, nurodytos iki šio įstatymo įsigaliojimo ir vėliau teisės aktų nustatyta tvarka išduotuose galiojančiuose leidimuose plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus ir leidimuose gaminti elektros energiją bei prijungimo sąlygose, išduotose elektrinėms, kurioms šio įstatymo 16 straipsnio 4 dalyje nustatyta tvarka leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, suma. Kai elektrinėms priskirta įrengtoji suminė galia pasiekia šio straipsnio 3 dalyje nurodytų įrengtųjų galių dydžius, skatinimo kvotų paskirstymas šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose numatytais būdais ir paraiškų prijungti prie elektros tinklų šio įstatymo 16 straipsnio 4 dalyje nurodytas elektrines priėmimas sustabdomas tol, kol šio straipsnio 3 dalyje nurodyti įrengtųjų galių dydžiai bus padidinti arba atsiras laisvų skatinimo kvotų nepastačius elektrinių per leidimuose plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus nurodytą laikotarpį. Energetikos ministerija viešai skelbia ir nuolat atnaujina informaciją apie priskirtas įrengtąsias sumines galias ir esamas laisvas skatinimo kvotas.“
 
-\#### 4 straipsnis. 14 straipsnio 10 dalies pakeitimas ir 16 dalies pripažinimas netekusia galios
+## 4 straipsnis. 14 straipsnio 10 dalies pakeitimas ir 16 dalies pripažinimas netekusia galios
 
 1. Pakeisti 14 straipsnio 10 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Vilnius
 
 2. Pripažinti 14 straipsnio 16 dalį netekusia galios.
 
-\#### 5 straipsnis. 16 straipsnio 1, 4, 5 ir 7 dalių pakeitimas
+## 5 straipsnis. 16 straipsnio 1, 4, 5 ir 7 dalių pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Vilnius
 
 „7. Atsisakymas išduoti leidimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus gali būti pateikiamas tik tuo atveju, kai gamintojas nepateikia bent vieno iš šio straipsnio 5 dalyje nurodytų dokumentų arba pateikti duomenys yra neteisingi.“
 
-\#### 6 straipsnis. 20 straipsnio pakeitimas
+## 6 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 13. Šio straipsnio nuostatos netaikomos gamintojams, kurie įrenginiams įsigyti po šio įstatymo įsigaliojimo dienos pasinaudojo šio įstatymo 41 straipsnio 4 dalyje nurodytais paramos šaltiniais.“
 
-\#### 7 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2) 20 procentų elektrinių, kurių įrengtoji galia yra ne didesnė kaip 350 kW, prijungimo prie elektros tinklų išlaidų.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 5 straipsnio 2 dalis įsigalioja 2013 m. kovo 1 d.
 

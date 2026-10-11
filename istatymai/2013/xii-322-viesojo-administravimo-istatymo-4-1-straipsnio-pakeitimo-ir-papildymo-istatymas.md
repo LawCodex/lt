@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DC9A43DF39FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DC9A43DF39FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 4-1 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975; 2009, Nr. [75-3062](https://www.e-tar.lt/portal/lt/legalAct/TAR.824337E8EC19); 2011, Nr. [4-125](https://www.e-tar.lt/portal/lt/legalAct/TAR.12F91D407591))
 
-\#### 1 straipsnis. 41 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 41 straipsnio pakeitimas ir papildymas
 
 1. 41 straipsnio 1 dalyje išbraukti žodžius „viešosioms įstaigoms“ ir „ar dalininkė“ ir šią dalį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 3. Buvusias 41 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. birželio 1 d.
 

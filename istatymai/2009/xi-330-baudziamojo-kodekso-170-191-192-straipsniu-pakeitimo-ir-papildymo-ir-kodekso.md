@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9DF3AC0AC10B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9DF3AC0AC10B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 170, 191, 192 straipsnių pakeitimo ir papildymo ir kodekso papildymo 170-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2004, Nr. [25-760](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EF9FB819777))
 
-\#### 1 straipsnis. 170 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 170 straipsnio papildymas ir pakeitimas
 
 Papildyti 170 straipsnį nauja 1 dalimi, buvusias 1, 2 ir 3 dalis laikyti atitinkamai 2, 3 ir 4 dalimis, 2 dalyje vietoj žodžių „viešais pareiškimais žodžiu, raštu ar panaudodamas visuomenės informavimo priemonę“ įrašyti žodį „viešai“ ir visą straipsnį išdėstyti taip:
 
@@ -44,7 +44,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 2 straipsnis. Kodekso papildymas 1701 straipsniu
+## 2 straipsnis. Kodekso papildymas 1701 straipsniu
 
 Papildyti Kodeksą 170^1 straipsniu:
 
@@ -56,7 +56,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 3 straipsnis. 191 straipsnio pakeitimas
+## 3 straipsnis. 191 straipsnio pakeitimas
 
 Pakeisti 191 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 4 straipsnis. 192 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 192 straipsnio pakeitimas ir papildymas
 
 Pakeisti 192 straipsnio pavadinimą ir 1 dalį, straipsnį papildyti nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi ir visą straipsnį išdėstyti taip:
 

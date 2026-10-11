@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3087744E8608"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3087744E8608.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos žuvusių pasipriešinimo 1940–1990 metų okupacijoms dalyvių šeimoms įstatymo 2 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [92-2543](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDE1F707F4EE); 2004, Nr. [7-131](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A63067A47); 2005, Nr. [153-5637](https://www.e-tar.lt/portal/lt/legalAct/TAR.25E20BF666A1))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 

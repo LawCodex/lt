@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/db522f20697111eca9ac839120d251c4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DB522F206971.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymas
@@ -114,5 +114,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1497, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22685
 
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymo Nr. XIV-831 7 straipsnio pakeitimo įstatymas
-
-part_0c18d6d68aee49eebcbf2dc71776edac_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F10FD4A3BB48"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F10FD4A3BB48.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 5 ir 7-2 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 2003, Nr. [123-5583](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE03A85CB721); 2005, Nr. [18-577](https://www.e-tar.lt/portal/lt/legalAct/TAR.14A032384AFA); 2008, Nr. [138-5445](https://www.e-tar.lt/portal/lt/legalAct/TAR.D202C1148A3A); 2010, Nr. [25-1178](https://www.e-tar.lt/portal/lt/legalAct/TAR.39357930107A), Nr. [63-3097](https://www.e-tar.lt/portal/lt/legalAct/TAR.D456A3296B36), Nr. [125-6377](https://www.e-tar.lt/portal/lt/legalAct/TAR.7FC319CFF30B); 2011, Nr. [37-1757](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB3F519CDC20), Nr. [153-7208](https://www.e-tar.lt/portal/lt/legalAct/TAR.616FBF132576), Nr. [153-7210](https://www.e-tar.lt/portal/lt/legalAct/TAR.E17B961ABF42); 2012, Nr. [50-2446](https://www.e-tar.lt/portal/lt/legalAct/TAR.9063E8908094))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies 27 punkto pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies 27 punkto pakeitimas
 
 Pakeisti 2 straipsnio 1 dalies 27 punktą ir jį išdėstyti taip:
 
 „27) asmenys, aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės kampanijos dalyviui per politinę kampaniją neviršija 40 litų;“.
 
-\#### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Deklaracija pateikiama kasmet iki kalendorinių metų, einančių po tų kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo 6, 7, 7^1 ir 7^2 straipsniuose nustatytus atvejus.“
 
-\#### 3 straipsnis. 72 straipsnio pakeitimas
+## 3 straipsnis. 72 straipsnio pakeitimas
 
 Pakeisti 7^2 straipsnį ir jį išdėstyti taip:
 

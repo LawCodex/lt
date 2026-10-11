@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4B4A5F1AA594"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4B4A5F1AA594.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15 straipsnių ir 1, 2, 3 priedų pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [82-1965](https://www.e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E); 2005, Nr. 84-3105; 2008, Nr. [81-3167](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CCCA9F0A188); 2010, Nr. [54-2647](https://www.e-tar.lt/portal/lt/legalAct/TAR.1D95D51AC236))
 
-\#### 1 straipsnis. 2 straipsnio 1 ir 10 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1 ir 10 dalių pakeitimas
 
 1. 2 straipsnio 1 dalyje vietoj žodžių „Aplinkos ministerija ar kita Vyriausybės“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė)“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „10. **Suinteresuota visuomenė**– visuomenė, kuriai daro arba gali daryti poveikį sprendimai, veiksmai ar neveikimas poveikio aplinkai vertinimo srityje arba kuri yra suinteresuota poveikio aplinkai vertinimo procesu. Pagal šią apibrėžtį asociacijos ir kiti viešieji juridiniai asmenys (išskyrus valstybės ar savivaldybės, jų institucijų įsteigtus juridinius asmenis), kurie įsteigti teisės aktų nustatyta tvarka ir skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais asmenimis.“
 
-\#### 2 straipsnis. 3 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 3 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -62,13 +62,13 @@ Vilnius
 
 „4. Teritorijų planavimo dokumentai ir (ar) statinių, įrenginių techniniai projektai, numatantys šio straipsnio 2 dalyje nurodytą veiklą, kuriai privaloma atlikti poveikio aplinkai vertinimą, gali būti derinami ir tvirtinami tik atlikus planuojamos ūkinės veiklos poveikio aplinkai vertinimą ir priėmus sprendimą leisti vykdyti planuojamą ūkinę veiklą.“
 
-\#### 3 straipsnis. 4 straipsnio 1 punkto pakeitimas
+## 3 straipsnis. 4 straipsnio 1 punkto pakeitimas
 
 4 straipsnio 1 punkte po žodžių „biologinei įvairovei“ įrašyti žodžius „socialinei ekonominei aplinkai ir“, po žodžių „materialinėms vertybėms“ išbraukti žodį „ir“ ir šį punktą išdėstyti taip:
 
 „1) nustatyti, apibūdinti ir įvertinti galimą tiesioginį ir netiesioginį planuojamos ūkinės veiklos poveikį visuomenės sveikatai, gyvūnijai ir augalijai, dirvožemiui, žemės paviršiui ir jos gelmėms, orui, vandeniui, klimatui, kraštovaizdžiui ir biologinei įvairovei, socialinei ekonominei aplinkai ir materialinėms vertybėms, nekilnojamosioms kultūros vertybėms bei šių aplinkos komponentų tarpusavio sąveikai;“.
 
-\#### 4 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas ir 1 dalies papildymas 6 punktu
+## 4 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas ir 1 dalies papildymas 6 punktu
 
 1. 5 straipsnio 1 dalies 1 punkte išbraukti žodžius „Aplinkos ministerija ar kita“ ir šį punktą išdėstyti taip:
 
@@ -78,7 +78,7 @@ Vilnius
 
 „6) kai atliekamas tarpvalstybinio poveikio aplinkai vertinimas – Vyriausybės įgaliota institucija, koordinuojanti tarpvalstybinio poveikio aplinkai vertinimo procesą.“
 
-\#### 5 straipsnis. 6 straipsnio 1 dalies 2 punkto ir 5 dalies pakeitimas
+## 5 straipsnis. 6 straipsnio 1 dalies 2 punkto ir 5 dalies pakeitimas
 
 1. 6 straipsnio 1 dalies 2 punkte išbraukti žodį „motyvuotus“ ir šį punktą išdėstyti taip:
 
@@ -88,7 +88,7 @@ Vilnius
 
 „5. Visuomenė Aplinkos ministerijos nustatyta tvarka teikia pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir šios veiklos galimo poveikio aplinkai.“
 
-\#### 6 straipsnis. 7 straipsnio pavadinimo ir 1, 5, 7, 8, 9, 10, 11, 12, 14 dalių pakeitimas
+## 6 straipsnis. 7 straipsnio pavadinimo ir 1, 5, 7, 8, 9, 10, 11, 12, 14 dalių pakeitimas
 
 1. 7 straipsnio pavadinime vietoj žodžių „ir poveikio aplinkai vertinimas“ įrašyti žodžius „dėl poveikio aplinkai vertinimo“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -130,7 +130,7 @@ Vilnius
 
 „14. Planuojamos ūkinės veiklos organizatorius (užsakovas) apie galutinę atrankos išvadą praneša visuomenei Aplinkos ministerijos nustatyta tvarka.“
 
-\#### 7 straipsnis. 8 straipsnio 1, 5, 12 dalių ir 4 dalies 5 punkto pakeitimas
+## 7 straipsnis. 8 straipsnio 1, 5, 12 dalių ir 4 dalies 5 punkto pakeitimas
 
 1. 8 straipsnio 1 dalyje vietoj skaičių ir žodžių „7 straipsnio 1 dalies“ įrašyti skaičius ir žodžius „3 straipsnio 2 dalies“ ir šią dalį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Vilnius
 
 „12. Kai poveikio aplinkai vertinimo subjektų išvados prieštarauja viena kitai ir (ar) atsakinga institucija yra gavusi suinteresuotos visuomenės pasiūlymus, atsakinga institucija, prieš tvirtindama programą, kviečia atvykti planuojamos ūkinės veiklos organizatorių (užsakovą), poveikio aplinkai vertinimo dokumentų rengėją, poveikio aplinkai vertinimo subjektus svarstyti jų išvadų ir (ar) suinteresuotos visuomenės pasiūlymų. Taip pat kviečiami atvykti ir pasiūlymus pateikę suinteresuotos visuomenės atstovai.“
 
-\#### 8 straipsnis. 9 straipsnio 1, 2, 3 ir 7 dalių pakeitimas
+## 8 straipsnis. 9 straipsnio 1, 2, 3 ir 7 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -166,7 +166,7 @@ Vilnius
 
 „7. Atsakinga institucija turi teisę pareikalauti pakartotinai organizuoti visuomenės viešą supažindinimą su ataskaita, jeigu po viešo supažindinimo su ataskaita ji yra iš esmės keičiama, taisoma ar papildoma (pavyzdžiui, siūlomos naujos vietos, technologijų alternatyvos, poveikį švelninančios priemonės ir t. t.) dėl gautų poveikio aplinkai vertinimo subjektų motyvuotų išvadų ir atsakingos institucijos motyvuotų reikalavimų pataisyti ar papildyti ataskaitą. Kai po pakartotinio viešo supažindinimo arba atsakingos institucijos pateiktų pastabų ataskaita iš esmės pakeičiama, pataisoma ar papildoma, poveikio aplinkai vertinimo dokumentų rengėjas turi gauti pakartotines poveikio aplinkai vertinimo subjektų išvadas šio straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.“
 
-\#### 9 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 1. 10 straipsnio 1 dalyje po žodžio „suinteresuotos“ išbraukti žodį „motyvuotus“ ir šią dalį išdėstyti taip:
 
@@ -202,7 +202,7 @@ Vilnius
 
 „10. Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas) Aplinkos ministerijos nustatyta tvarka praneša visuomenei apie sprendimą ir suteikia galimybę su juo susipažinti. Kai planuojamai ūkinei veiklai atliktos tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal Konvenciją, informacija apie sprendimą teikiama ir galinčiai patirti neigiamą poveikį aplinkai Europos Sąjungos valstybei narei ir (ar) užsienio valstybei Aplinkos ministerijos nustatyta tvarka.“
 
-\#### 10 straipsnis. 12 straipsnio pakeitimas
+## 10 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 2. Visi poveikio aplinkai vertinimo proceso dalyviai turi teisę Vyriausybės nustatyta tvarka teikti dokumentus atsakingai institucijai ir gauti atsakymus iš jos per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, kaip tai nustatyta Paslaugų įstatyme, arba tiesiogiai kreipdamiesi į atsakingą instituciją, išskyrus atvejus, kai nėra techninių galimybių tokiais būdais pateiktos informacijos atgaminti ar perskaityti.“
 
-\#### 11 straipsnis. 15 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
+## 11 straipsnis. 15 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -222,7 +222,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „3. Suinteresuota visuomenė turi teisę Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo ginčijant sprendimų, veiksmų ar neveikimo poveikio aplinkai vertinimo srityje materialinį ar procesinį teisėtumą.“
 
-\#### 12 straipsnis. Įstatymo 1 priedo pakeitimas ir papildymas
+## 12 straipsnis. Įstatymo 1 priedo pakeitimas ir papildymas
 
 1. Pakeisti Įstatymo 1 priedo 1.1 punktą ir jį išdėstyti taip:
 
@@ -252,7 +252,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „9.9. Įrenginių, naudojamų geologiniam saugojimui skirto anglies dioksido (CO~2) srautams surinkti iš įrenginių, naudojamų 1 priede nurodytai veiklai vykdyti arba kai iš viso per metus surenkama 1,5 milijono tonų arba daugiau anglies dioksido (CO~2), įrengimas.“
 
-\#### 13 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
+## 13 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
 
 1. Įstatymo 2 priedo 1.10 punkte po žodžio „įveisimas“ įrašyti žodžius „išskyrus plotus, kuriuose pagal savivaldybių teritorijų miškų išdėstymo žemėtvarkos schemas numatyta įveisti mišką“ ir šį punktą išdėstyti taip:
 
@@ -290,7 +290,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „11.20.2. pavojingų atliekų, skirtų naudoti, laikymą, kai vienu metu laikoma ne daugiau kaip 10 tonų atliekų.“
 
-\#### 14 straipsnis. Įstatymo 3 priedo pakeitimas
+## 14 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Pakeisti Įstatymo 3 priedą ir jį išdėstyti taip:
 
@@ -308,17 +308,17 @@ aplinkai vertinimo įstatymo
 
 2. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/105/EB (OL 2006 L 363, p. 368).“
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas
+## 15 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 5 straipsnis, 6 straipsnio 4, 6 ir 8 dalys, 7 straipsnio 4 dalis, 8 straipsnio 3 dalis, 9 straipsnio 1, 6, 7 ir 8 dalys įsigalioja po 3 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“ dienos.
 
 2. Šio įstatymo 12 straipsnio 3, 6 ir 7 dalys ir 13 straipsnio 4 ir 7 dalys įsigalioja Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymo įsigaliojimo dieną.
 
-\#### 16 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybės įgaliotoms institucijoms
+## 16 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybės įgaliotoms institucijoms
 
 Lietuvos Respublikos Vyriausybės įgaliotos institucijos per 3 mėnesius po šio įstatymo įsigaliojimo parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 17 straipsnis. Baigiamosios nuostatos
+## 17 straipsnis. Baigiamosios nuostatos
 
 Iki šio įstatymo įsigaliojimo pradėtas poveikio aplinkai vertinimo proceso kiekvienas etapas, nurodytas Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 3 straipsnio 5 dalyje, baigiamas pagal poveikio aplinkai vertinimo nuostatas, galiojusias iki šio įstatymo įsigaliojimo.
 

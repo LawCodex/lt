@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.46A607F9D76F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.46A607F9D76F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 23 ir 25 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0))
 
-\#### 1 straipsnis. 23 straipsnio 1, 2, 4 ir 5 dalių pakeitimas
+## 1 straipsnis. 23 straipsnio 1, 2, 4 ir 5 dalių pakeitimas
 
 23 straipsnio 1 dalyje vietoj skaičiaus „5“ įrašyti skaičių „3“, 2 dalyje išbraukti žodžius „o du teisininkus – teisingumo ministras“, 4 ir 5 dalis pakeisti ir straipsnį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 7. Vyriausiosios tarnybinės etikos komisijos sprendimai gali būti skundžiami teismui.“
 
-\#### 2 straipsnis. 25 straipsnio pakeitimas
+## 2 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir išdėstyti taip:
 

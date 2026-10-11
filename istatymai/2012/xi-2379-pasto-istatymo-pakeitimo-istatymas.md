@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8D703458FB7C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8D703458FB7C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [36-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1); 2004, Nr. [60-2125](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F02615C57F5); 2010, Nr. [1-33](https://www.e-tar.lt/portal/lt/legalAct/TAR.0DEB6B2C91ED), Nr. [153-7785](https://www.e-tar.lt/portal/lt/legalAct/TAR.BA1F196303AE); 2011, Nr. [161-7618](https://www.e-tar.lt/portal/lt/legalAct/TAR.614387D98AC1); 2012, Nr. [122-6114](https://www.e-tar.lt/portal/lt/legalAct/TAR.CDA1136E8925))
 
-\#### 1 straipsnis. Lietuvos Respublikos pašto įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos pašto įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos pašto įstatymą ir jį išdėstyti taip:
 
@@ -38,9 +38,9 @@ PAŠTO
 
 ĮSTATYMAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis, taikymas ir tikslai
+## 1 straipsnis. Įstatymo paskirtis, taikymas ir tikslai
 
 1. Šis įstatymas reglamentuoja pašto paslaugos teikimo veiklą, pašto srities politikos formavimo ir pašto paslaugos teikimo veiklos reguliavimo institucijų sistemą, pašto paslaugos teikėjų ir naudotojų teises ir pareigas, pašto paslaugos teikėjų atsakomybę ir žalos atlyginimą.
 
@@ -48,11 +48,11 @@ PAŠTO
 
 3. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
 
-\#### 2 straipsnis. Pašto paslaugos teikimo veiklos reguliavimo principai
+## 2 straipsnis. Pašto paslaugos teikimo veiklos reguliavimo principai
 
 Pašto paslaugos teikimo veikla reguliuojama vadovaujantis laisvės teikti pašto paslaugą, sąžiningos konkurencijos ir universaliosios pašto paslaugos prieinamumo visiems naudotojams principais.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Asmuo – fizinis asmuo, juridinis asmuo ar kita organizacija, taip pat jų padalinys.
 
@@ -104,9 +104,9 @@ Pašto paslaugos teikimo veikla reguliuojama vadovaujantis laisvės teikti pašt
 
 25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Pasaulinės pašto sąjungos Pašto siuntinių reglamente, Pašto korespondencijos reglamente, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme (toliau – Viešojo administravimo įstatymas), Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos reklamos įstatyme.
 
-\## II SKYRIUS. PAŠTO SRITIES POLITIKOS FORMAVIMO IR PAŠTO PASLAUGOS TEIKIMO VEIKLOS REGULIAVIMO SISTEMA
+II SKYRIUS. PAŠTO SRITIES POLITIKOS FORMAVIMO IR PAŠTO PASLAUGOS TEIKIMO VEIKLOS REGULIAVIMO SISTEMA
 
-\#### 4 straipsnis. Valstybinio valdymo institucijos pašto srityje
+## 4 straipsnis. Valstybinio valdymo institucijos pašto srityje
 
 Valstybinio valdymo institucijos pašto srityje yra:
 
@@ -116,7 +116,7 @@ Valstybinio valdymo institucijos pašto srityje yra:
 
 3) Lietuvos Respublikos ryšių reguliavimo tarnyba (toliau – Ryšių reguliavimo tarnyba).
 
-\#### 5 straipsnis. Vyriausybės ir Susisiekimo ministerijos funkcijos pašto srityje
+## 5 straipsnis. Vyriausybės ir Susisiekimo ministerijos funkcijos pašto srityje
 
 1. Vyriausybė:
 
@@ -156,7 +156,7 @@ Valstybinio valdymo institucijos pašto srityje yra:
 
 12) atlieka kitas funkcijas, nustatytas pašto paslaugos teikimo veiklą reglamentuojančiuose teisės aktuose.
 
-\#### 6 straipsnis. Ryšių reguliavimo tarnybos funkcijos pašto srityje
+## 6 straipsnis. Ryšių reguliavimo tarnybos funkcijos pašto srityje
 
 1. Ryšių reguliavimo tarnyba yra Lietuvos Respublikos nacionalinė reguliavimo institucija pagal šio įstatymo priede nurodytą 1997 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyvą 97/67/EB dėl Bendrijos pašto paslaugų vidaus rinkos plėtros bendrųjų taisyklių ir paslaugų kokybės gerinimo su paskutiniais pakeitimais, padarytais 2008 m. vasario 20 d. Europos Parlamento ir Tarybos direktyva 2008/6/EB. Tarnybos statusas, finansavimo šaltiniai, sąlygos, tvarka ir kiti veiklos aspektai nustatyti Lietuvos Respublikos elektroninių ryšių įstatyme (toliau – Elektroninių ryšių įstatymas).
 
@@ -210,9 +210,9 @@ Valstybinio valdymo institucijos pašto srityje yra:
 
 3. Ryšių reguliavimo tarnyba, atlikdama šiame įstatyme jai pavestas funkcijas, turi šiame ir kituose įstatymuose jai suteiktas teises.
 
-\## III SKYRIUS. PAŠTO PASLAUGOS TEIKIMO VEIKLOS REGULIAVIMO PAGRINDAI
+III SKYRIUS. PAŠTO PASLAUGOS TEIKIMO VEIKLOS REGULIAVIMO PAGRINDAI
 
-\#### 7 straipsnis. Teisė teikti pašto paslaugą
+## 7 straipsnis. Teisė teikti pašto paslaugą
 
 1. Asmuo turi teisę teikti pašto paslaugą be atskiro išankstinio valstybės institucijų leidimo, laikydamasis šio įstatymo ir kitų teisės aktų nuostatų, kai jis šiame straipsnyje nustatyta tvarka praneša apie tai Ryšių reguliavimo tarnybai.
 
@@ -248,19 +248,19 @@ Valstybinio valdymo institucijos pašto srityje yra:
 
 10. Pašto paslaugos teikėjas, nutraukęs savo veiklą ir (ar) pašto paslaugos teikimą, privalo apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka ir sąlygomis.
 
-\#### 8 straipsnis. Pašto tinklo naudojimas
+## 8 straipsnis. Pašto tinklo naudojimas
 
 Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją, pašto paslaugos teikėjas, valdantis pašto tinklą, privalo derėtis, kai to reikalauja kitas pašto paslaugos teikėjas, ir sudaryti sutartį su kitu pašto paslaugos teikėju, kai jis kreipiasi, dėl šio pašto tinklo, įskaitant pašto kodų sistemą, adresų duomenų bazę, abonentines pašto dėžutes, informaciją apie adreso pasikeitimą, peradresavimo ir grąžinimo siuntėjui paslaugas, naudojimo. Pašto tinklą valdantis pašto paslaugos teikėjas privalo užtikrinti, kad tokia sutartis dėl pašto tinklo naudojimo būtų sudaroma laikantis nediskriminacinių, proporcingų ir skaidrių sąlygų. Už naudojimąsi kito pašto paslaugos teikėjo pašto tinklu pašto paslaugos teikėjas moka sutarties šalių sutartą užmokestį.
 
-\#### 9 straipsnis. Ginčų tarp pašto paslaugos teikėjų sprendimas
+## 9 straipsnis. Ginčų tarp pašto paslaugos teikėjų sprendimas
 
 1. Iškilus ginčui tarp pašto paslaugos teikėjų dėl šio įstatymo reglamentuojamų visuomeninių santykių, pašto paslaugos teikėjas turi teisę kreiptis į Ryšių reguliavimo tarnybą, kad ši iš anksto ne teismo tvarka išspręstų ginčą. Pašto paslaugos teikėjas taip pat turi teisę kreiptis tiesiogiai į teismą.
 
 2. Ginčams tarp pašto paslaugos teikėjų nagrinėti mutatis mutandis taikomos Elektroninių ryšių įstatymo nuostatos, susijusios su ginčų nagrinėjimu tarp ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, taip pat Ryšių reguliavimo tarnybos patvirtintos pašto paslaugos teikėjų ginčų nagrinėjimo taisyklės. Pašto paslaugos teikėjų ginčų nagrinėjimo taisyklėse nustatomi prašymų išspręsti ginčą formos, turinio ir pateikimo, įrodymų rinkimo ir pateikimo reikalavimai, taip pat šalių taikinimo procedūra, ginčų nagrinėjimo procedūra ir kitos ginčų nagrinėjimo taisyklės.
 
-\## IV SKYRIUS. PAŠTO PASLAUGOS TEIKIMAS
+IV SKYRIUS. PAŠTO PASLAUGOS TEIKIMAS
 
-\#### 10 straipsnis. Pašto paslaugos teikėjų ir naudotojų teisės ir pareigos
+## 10 straipsnis. Pašto paslaugos teikėjų ir naudotojų teisės ir pareigos
 
 1. Pašto paslaugos teikėjas privalo:
 
@@ -310,7 +310,7 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 10. Pašto paslaugos teikimo sąlygos išsamiai apibrėžiamos Ryšių reguliavimo tarnybos patvirtintose pašto paslaugos teikimo taisyklėse.
 
-\#### 11 straipsnis. Pašto siuntų slaptumas ir duomenų apsauga
+## 11 straipsnis. Pašto siuntų slaptumas ir duomenų apsauga
 
 1. Pašto paslaugos teikėjai naudotojams privalo garantuoti susirašinėjimo slaptumą.
 
@@ -318,7 +318,7 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 3. Pašto paslaugos teikėjams draudžiama teikti informaciją apie kitų asmenų naudojimąsi pašto paslauga arba sudaryti sąlygas gauti šią informaciją, jeigu šiame ar kituose įstatymuose nenustatyta kitaip.
 
-\#### 12 straipsnis. Pašto paslaugos teikėjų atsakomybė ir žalos atlyginimas
+## 12 straipsnis. Pašto paslaugos teikėjų atsakomybė ir žalos atlyginimas
 
 1. Siuntėjas pretenziją dėl žalos atlyginimo už dingusią pašto siuntą, dingusius, trūkstamus ar apgadintus siųstus daiktus gali pareikšti pašto paslaugos teikėjui per 6 mėnesius nuo pašto siuntos išsiuntimo dienos.
 
@@ -368,13 +368,13 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 10. Pašto paslaugos teikėjams šio straipsnio nuostatos taikomos, jeigu sutartyse su siuntėjais nenustatyta kitaip. Jeigu pašto paslaugos teikėjo sutarties su siuntėjo nuostatos pablogina siuntėjo padėtį, taikomos šio straipsnio nuostatos.
 
-\#### 13 straipsnis. Ginčų tarp naudotojų ir pašto paslaugos teikėjų sprendimas
+## 13 straipsnis. Ginčų tarp naudotojų ir pašto paslaugos teikėjų sprendimas
 
 1. Iškilus ginčui tarp naudotojų ir pašto paslaugos teikėjų, naudotojas turi teisę kreiptis į Ryšių reguliavimo tarnybą, kad ši iš anksto ne teismo tvarka išspręstų jo ginčą su pašto paslaugos teikėju. Naudotojas taip pat turi teisę kreiptis tiesiogiai į teismą.
 
 2. Ginčams tarp naudotojų ir pašto paslaugos teikėjų nagrinėti mutatis mutandis taikomos Elektroninių ryšių įstatymo nuostatos, susijusios su ginčų tarp elektroninių ryšių paslaugų teikėjų ir galutinių paslaugų gavėjų nagrinėjimu, taip pat Ryšių reguliavimo tarnybos patvirtintos naudotojų ir pašto paslaugos teikėjų ginčų nagrinėjimo taisyklės. Naudotojų ir pašto paslaugos teikėjų ginčų nagrinėjimo taisyklėse nustatomi prašymų išspręsti ginčą formos, turinio ir pateikimo, įrodymų rinkimo ir pateikimo reikalavimai, taip pat šalių taikinimo procedūra ir ginčų nagrinėjimo procedūra, kitos ginčų nagrinėjimo taisyklės.
 
-\#### 14 straipsnis. Universalioji pašto paslauga
+## 14 straipsnis. Universalioji pašto paslauga
 
 1. Lietuvos Respublikos teritorijoje turi būti užtikrintas šios universaliosios pašto paslaugos teikimas:
 
@@ -404,7 +404,7 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 6. Jeigu universaliosios pašto paslaugos teikimas universaliosios pašto paslaugos teikėjui yra nepagrįstai didelė finansinė našta, nuostoliai, patirti teikiant šią paslaugą, kompensuojami valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka. Nepagrįstai didelės finansinės naštos nustatymo kriterijus tvirtina Vyriausybė.
 
-\#### 15 straipsnis. Universaliosios pašto paslaugos teikėjo įpareigojimas
+## 15 straipsnis. Universaliosios pašto paslaugos teikėjo įpareigojimas
 
 1. Vyriausybė įpareigoja pašto paslaugos teikėją (teikėjus) 7 metus teikti universaliąją pašto paslaugą visoje Lietuvos Respublikos teritorijoje.
 
@@ -420,7 +420,7 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 5. Vyriausybė nustato universaliosios pašto paslaugos teikėjo įpareigojimo tvarką, kuri turi būti pagrįsta skaidrumo, nediskriminavimo ir proporcingumo principais, garantuoti universaliosios pašto paslaugos teikimo tęstinumą, užtikrinti socialinę ir teritorinę sanglaudą.
 
-\#### 16 straipsnis. Universaliosios pašto paslaugos teikėjo teisės ir pareigos
+## 16 straipsnis. Universaliosios pašto paslaugos teikėjo teisės ir pareigos
 
 1. Universaliosios pašto paslaugos teikėjas neturi teisės pavesti teikti universaliąją pašto paslaugą kitam pašto paslaugos teikėjui. Universaliosios pašto paslaugos teikėjas atsako už kokybišką jos teikimą šio įstatymo nustatyta tvarka.
 
@@ -454,7 +454,7 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 3. Universaliosios pašto paslaugos teikėjas gali taikyti specifinius tarifus pagal sudarytas sutartis su naudotojais. Universaliosios pašto paslaugos teikėjas šiems tarifams ir su jais susijusioms sąlygoms taiko skaidrumo ir nediskriminavimo principus. Nustatant tokius tarifus, turi būti įvertintos nepatirtos sąnaudos, palyginti su įprastai teikiamos universaliosios pašto paslaugos sąnaudomis. Tarifai turi būti vienodi visiems tos pačios kategorijos universaliosios pašto paslaugos naudotojams.
 
-\#### 17 straipsnis. Periodinių leidinių pristatymas kaimo gyvenamųjų vietovių prenumeratoriams
+## 17 straipsnis. Periodinių leidinių pristatymas kaimo gyvenamųjų vietovių prenumeratoriams
 
 1. Periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslauga nėra priskiriama universaliajai pašto paslaugai.
 
@@ -466,9 +466,9 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 5. Jeigu Vyriausybė pagal iš anksto patvirtintus kriterijus periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos tarifus nustato mažesnius už šios paslaugos sąnaudas, tokių sąnaudų ir tarifų skirtumas padengiamas Vyriausybės nustatyta tvarka iš valstybės biudžete numatytų lėšų. Periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos pajamų ir sąnaudų skirtumas už periodinių leidinių pristatymą kaimo gyvenamųjų vietovių prenumeratoriams universaliosios pašto paslaugos teikėjui (teikėjams) kompensuojamas kas 6 mėnesiai.
 
-\## V SKYRIUS. INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
+V SKYRIUS. INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
-\#### 18 straipsnis. Informacijos gavimas
+## 18 straipsnis. Informacijos gavimas
 
 1. Ryšių reguliavimo tarnyba turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, pašto paslaugos teikėjų ir naudotojų, taip pat kitų asmenų visą jai, taip pat Europos Komisijai reikalingą su pavestų uždavinių įgyvendinimu ir funkcijų atlikimu susijusią informaciją, įskaitant ir finansinę, nepaisant jos konfidencialumo. Ryšių reguliavimo tarnyba taip pat turi teisę kreiptis į Europos Sąjungos institucijas, prašydama pateikti jai su funkcijų atlikimu susijusią reikalingą informaciją.
 
@@ -480,7 +480,7 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 5. Ryšių reguliavimo tarnyba, reikalaudama pateikti šio straipsnio 1 dalyje nurodytą informaciją, privalo nurodyti tikslą, kuriam informacija bus naudojama.
 
-\#### 19 straipsnis. Įstatymo nuostatų laikymosi priežiūra
+## 19 straipsnis. Įstatymo nuostatų laikymosi priežiūra
 
 1. Ryšių reguliavimo tarnyba atlieka šio įstatymo nuostatų laikymosi priežiūrą vadovaudamasi Viešojo administravimo įstatymo nuostatomis, susijusiomis su ūkio subjektų veiklos priežiūros teisiniu reguliavimu.
 
@@ -504,15 +504,15 @@ Siekiant užtikrinti naudotojų interesus ir skatinti veiksmingą konkurenciją,
 
 4. Ryšių reguliavimo tarnybos įgaliotų pareigūnų, įgyvendinančių šiame straipsnyje nurodytas teises, reikalavimai asmenims yra privalomi. Už Ryšių reguliavimo tarnybos įgaliotų pareigūnų teisėtų reikalavimų nevykdymą asmenys atsako įstatymų nustatyta tvarka.
 
-\## VI SKYRIUS. EKONOMINĖS SANKCIJOS
+VI SKYRIUS. EKONOMINĖS SANKCIJOS
 
-\#### 20 straipsnis. Ryšių reguliavimo tarnybos veiksmai nustačius pažeidimą
+## 20 straipsnis. Ryšių reguliavimo tarnybos veiksmai nustačius pažeidimą
 
 1. Ryšių reguliavimo tarnyba, nustačiusi, kad pašto paslaugos teikėjas nesilaiko pašto paslaugos teikimo taisyklių reikalavimų, nevykdo ar netinkamai vykdo vieną ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų, universaliosios pašto paslaugos teikėjui šio įstatymo 14 ir 16 straipsniuose nustatytų pareigų, praneša pašto paslaugos teikėjui apie nustatytus pažeidimus ir nustato terminą pažeidimams pašalinti ir apie tai informuoti Ryšių reguliavimo tarnybą per terminą, ne trumpesnį kaip 30 kalendorinių dienų ir ne ilgesnį kaip 60 kalendorinių dienų nuo pranešimo gavimo dienos.
 
 2. Jeigu pašto paslaugos teikėjas per šio straipsnio 1 dalyje nurodytą terminą pažeidimų nepašalina, Ryšių reguliavimo tarnyba inicijuoja pažeidimo nagrinėjimo procesą.
 
-\#### 21 straipsnis. Pranešimas apie pažeidimo nagrinėjimą
+## 21 straipsnis. Pranešimas apie pažeidimo nagrinėjimą
 
 Ryšių reguliavimo tarnybos pareigūnas, inicijavęs pažeidimo nagrinėjimo procesą, ne vėliau kaip prieš 30 kalendorinių dienų iki posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo dienos praneša (kartu išsiųsdamas Ryšių reguliavimo tarnybos pareigūno teikimo dėl ekonominės sankcijos skyrimo kopiją) pašto paslaugos teikėjui, kuriam inicijuotas pažeidimo nagrinėjimo procesas, ir kitiems suinteresuotiems asmenims, kurių teisėtiems interesams, teisėms ir (ar) pareigoms turėjo įtakos pašto paslaugos teikėjo padarytas pažeidimas, apie:
 
@@ -524,7 +524,7 @@ Ryšių reguliavimo tarnybos pareigūnas, inicijavęs pažeidimo nagrinėjimo pr
 
 4) galimybę likus ne mažiau kaip 5 darbo dienoms iki posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo pradžios pateikti Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui rašytinius paaiškinimus ir visus pageidaujamus pateikti duomenis, turinčius reikšmės nagrinėjant pašto paslaugos teikėjo padarytą pažeidimą.
 
-\#### 22 straipsnis. Asmenys, dalyvaujantys nagrinėjant pažeidimą
+## 22 straipsnis. Asmenys, dalyvaujantys nagrinėjant pažeidimą
 
 1. Pašto paslaugos teikėjo padarytas pažeidimas nagrinėjamas dalyvaujant pašto paslaugos teikėjui ar jo atstovui. Pašto paslaugos teikėjo padarytas pažeidimas gali būti išnagrinėtas nedalyvaujant pašto paslaugos teikėjui ar jo atstovui tik tais atvejais, kai yra duomenų, kad jam laiku buvo įteiktas pranešimas apie posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo datą, laiką ir vietą, ir jeigu iš jo negautas prašymas atidėti posėdį.
 
@@ -534,17 +534,17 @@ Ryšių reguliavimo tarnybos pareigūnas, inicijavęs pažeidimo nagrinėjimo pr
 
 4. Posėdyje dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo gali dalyvauti ir savo paaiškinimus pateikti Ryšių reguliavimo tarnybos direktoriaus arba jo įgalioto asmens iniciatyva ar pašto paslaugos teikėjo, kuriam inicijuotas pažeidimo nagrinėjimo procesas, prašymu kviečiami suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (ar) pareigoms turėjo įtakos pašto paslaugos teikėjo padarytas pažeidimas, ir (arba) jų atstovai, taip pat kiti asmenys (liudytojai, ekspertai, specialistai). Ryšių reguliavimo tarnybos direktorius arba jo įgaliotas asmuo turi teisę atsisakyti tenkinti pašto paslaugos teikėjo prašymą kviesti kitus asmenis (liudytojus, ekspertus, specialistus) į posėdį dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo, jeigu toks prašymas yra nepagrįstas arba jį patenkinus būtų vilkinamas pašto paslaugos teikėjui inicijuotas pažeidimo nagrinėjimo procesas.
 
-\#### 23 straipsnis. Pažeidimo nagrinėjimo ir ekonominės sankcijos paskyrimo terminai
+## 23 straipsnis. Pažeidimo nagrinėjimo ir ekonominės sankcijos paskyrimo terminai
 
 1. Pašto paslaugos teikėjo padarytas pažeidimas turi būti išnagrinėtas ne vėliau kaip per 2 mėnesius nuo pažeidimo nagrinėjimo proceso inicijavimo dienos.
 
 2. Ekonominė sankcija turi būti paskirta ne vėliau kaip per 6 mėnesius nuo pašto paslaugos teikėjo pažeidimo padarymo dienos.
 
-\#### 24 straipsnis. Pažeidimo nagrinėjimo viešumas
+## 24 straipsnis. Pažeidimo nagrinėjimo viešumas
 
 Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama apsaugoti valstybės, tarnybos ar komercines paslaptis arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą. Sprendimą dėl neviešo posėdžio priima Ryšių reguliavimo tarnybos direktorius arba jo įgaliotas asmuo.
 
-\#### 25 straipsnis. Pažeidimo nagrinėjimo procesas
+## 25 straipsnis. Pažeidimo nagrinėjimo procesas
 
 1. Pažeidimo nagrinėjimo procesas inicijuojamas Ryšių reguliavimo tarnybos direktoriaus įgalioto pareigūno teikimu. Teikime išdėstoma pažeidimo sudėtis, pažeidimo padarymo aplinkybės ir nurodoma siūloma ekonominė sankcija ir ją pagrindžiantys motyvai.
 
@@ -562,13 +562,13 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 8. Posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo metu rašomas protokolas. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ir posėdžio sekretorius ne vėliau kaip per 3 darbo dienas po posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo pasirašo posėdžio protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo dieną nuo posėdžio protokolo pasirašymo dienos išsiunčia pašto paslaugos teikėjui, kuriam inicijuotas pažeidimo nagrinėjimo procesas, o šis turi teisę per 5 darbo dienas nuo posėdžio protokolo gavimo dienos pareikšti pastabas raštu ir prašyti patikslinti protokolą.
 
-\#### 26 straipsnis. Ekonominės sankcijos
+## 26 straipsnis. Ekonominės sankcijos
 
 1. Pašto paslaugos teikėjui, kuris nesilaiko Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių reikalavimų, nevykdo ar netinkamai vykdo vieną ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų, universaliosios pašto paslaugos teikėjui šio įstatymo 14 ir 16 straipsniuose nustatytų pareigų ir per šio įstatymo 20 straipsnio 1 dalyje nurodytą terminą pažeidimų nepašalina, Ryšių reguliavimo tarnyba skiria baudą iki 3 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 300 000 litų.
 
 2. Pašto paslaugos teikėjui, per metus nuo ekonominės sankcijos paskyrimo padariusiam pakartotinį šio straipsnio 1 dalyje nurodytą pažeidimą, Ryšių reguliavimo tarnyba skiria baudą iki 5 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 500 000 litų.
 
-\#### 27 straipsnis. Šiurkštus ar sistemingas pažeidimas
+## 27 straipsnis. Šiurkštus ar sistemingas pažeidimas
 
 1. Už šiurkštų ir sistemingą Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių reikalavimų nesilaikymą, vienos ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų nevykdymą ar netinkamą vykdymą Ryšių reguliavimo tarnyba turi teisę uždrausti teikti pašto paslaugą iki vienų metų.
 
@@ -576,7 +576,7 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 3. Sistemingu pažeidimu laikomas Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių reikalavimų nesilaikymas, vienos ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų nevykdymas ar netinkamas vykdymas, padarytas tris ar daugiau kartų per vienus metus.
 
-\#### 28 straipsnis. Ekonominių sankcijų dydžio nustatymas
+## 28 straipsnis. Ekonominių sankcijų dydžio nustatymas
 
 1. Skiriant pašto paslaugos teikėjams ekonomines sankcijas, atsižvelgiama į:
 
@@ -606,7 +606,7 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 8. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad pašto paslaugos teikėjai kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami Ryšių reguliavimo tarnybos įpareigojimo pašalinti pažeidimą.
 
-\#### 29 straipsnis. Ekonominės sankcijos skyrimas ar atsisakymas ją skirti
+## 29 straipsnis. Ekonominės sankcijos skyrimas ar atsisakymas ją skirti
 
 1. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ne vėliau kaip per 10 darbo dienų po posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo protokolo pasirašymo dienos pateikia ekonominės sankcijos skyrimo klausimą apsvarstyti Ryšių reguliavimo tarnybos tarybai. Ryšių reguliavimo tarnybos tarybai pateikiamas Ryšių reguliavimo tarnybos pareigūno teikimas, posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo protokolas ir kita medžiaga, turinti reikšmės ekonominės sankcijos skyrimui. Ryšių reguliavimo tarnybos taryba pateikia išvadą dėl ekonominės sankcijos Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui ne vėliau kaip per 10 kalendorinių dienų nuo ekonominės sankcijos skyrimo klausimo apsvarstyti Ryšių reguliavimo tarnybos tarybai pateikimo dienos. Ši išvada Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui yra patariamojo pobūdžio ir neprivaloma.
 
@@ -624,19 +624,19 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 4. Ryšių reguliavimo tarnybos pareigūnas, inicijavęs pažeidimo nagrinėjimo procesą, per 3 darbo dienas nuo sprendimo dėl ekonominės sankcijos skyrimo ar atsisakymo ją skirti priėmimo dienos išsiunčia šį sprendimą pašto paslaugos teikėjui, kuriam paskirta ekonominė sankcija arba atsisakyta ją skirti, ir yra atsakingas už ekonominės sankcijos įvykdymo kontrolę.
 
-\#### 30 straipsnis. Sprendimo skirti ekonominę sankciją apskundimo tvarka
+## 30 straipsnis. Sprendimo skirti ekonominę sankciją apskundimo tvarka
 
 Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimas skirti ekonominę sankciją gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimo skirti ekonominę sankciją apskundimas sustabdo šio sprendimo vykdymą iki skundo išnagrinėjimo.
 
-\#### 31 straipsnis. Informacijos apie uždraudimą teikti pašto paslaugą paskelbimas
+## 31 straipsnis. Informacijos apie uždraudimą teikti pašto paslaugą paskelbimas
 
 Informacija apie uždraudimą pašto paslaugos teikėjui teikti pašto paslaugą skelbiama Ryšių reguliavimo tarnybos interneto svetainėje ne vėliau kaip kitą darbo dieną po sprendimo uždrausti pašto paslaugos teikėjui teikti pašto paslaugą priėmimo dienos. Ši informacija pašalinama ne vėliau kaip kitą darbo dieną, kai toks draudimas netenka galios.
 
-\#### 32 straipsnis. Teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga
+## 32 straipsnis. Teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga
 
 Pašto paslaugos teikėjas, kuriam inicijuotas ekonominės sankcijos skyrimo procesas ar yra paskirta ekonominė sankcija, taip pat kiti suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (ar) pareigoms turėjo įtakos pašto paslaugos teikėjo padarytas pažeidimas, ir (ar) jų atstovai, taip pat ekspertai, specialistai turi teisę susipažinti su ekonominės sankcijos skyrimo proceso medžiaga (Ryšių reguliavimo tarnybos pareigūno teikimu, posėdžio dėl pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimo protokolu, kita medžiaga, turinčia reikšmės pašto paslaugos teikėjo padaryto pažeidimo nagrinėjimui), išskyrus medžiagą, kuri yra valstybės, tarnybos ar komercinė kitų suinteresuotų asmenų, kurių teisėtiems interesams, teisėms ir (ar) pareigoms turėjo įtakos pašto paslaugos teikėjo padarytas pažeidimas, paslaptis arba kurią atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo neliečiamumą.
 
-\#### 33 straipsnis. Ekonominių sankcijų vykdymas
+## 33 straipsnis. Ekonominių sankcijų vykdymas
 
 1. Pašto paslaugos teikėjas privalo įvykdyti Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens paskirtą ekonominę sankciją, sumokėdamas paskirtą baudą į valstybės biudžetą ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos arba nutraukdamas pašto paslaugos teikimą kitą dieną nuo sprendimo gavimo dienos.
 
@@ -652,7 +652,7 @@ priedas
 
 1. 1997 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 97/67/EB dėl Bendrijos pašto paslaugų vidaus rinkos plėtros bendrųjų taisyklių ir paslaugų kokybės gerinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 71) su paskutiniais pakeitimais, padarytais 2008 m. vasario 20 d. Europos Parlamento ir Tarybos direktyva 2008/6/EB (OL 2008 L 52, p. 3).“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2013 m. sausio 1 d.
 

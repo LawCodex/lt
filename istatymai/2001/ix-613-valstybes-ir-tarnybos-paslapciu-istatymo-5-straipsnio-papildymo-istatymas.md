@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FF5A84CB1B2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FF5A84CB1B2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2000, Nr. [45-1297](https://www.e-tar.lt/portal/lt/legalAct/TAR.36D1D62CBACC), Nr. [64-1932](https://www.e-tar.lt/portal/lt/legalAct/TAR.3ED3BE1556E6), Nr. [75-2274](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5232662ECCF))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies 16 punkto ir 2 dalies 6, 7, 11 ir 12 punktų papildymas
+## 1 straipsnis. 5 straipsnio 1 dalies 16 punkto ir 2 dalies 6, 7, 11 ir 12 punktų papildymas
 
 1. 5 straipsnio 1 dalies 16 punkte po žodžių „Lietuvos Respublikos Vyriausybės“ įrašyti žodžius „Lietuvos muitinės įstaiga, vykdanti operatyvinę veiklą“ ir šį punktą išdėstyti taip:
 

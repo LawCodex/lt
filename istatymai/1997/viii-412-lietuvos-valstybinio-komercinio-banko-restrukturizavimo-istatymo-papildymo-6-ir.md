@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C673B7A12B3A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C673B7A12B3A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos valstybinio komercinio banko restruktūrizavimo įstatymo papildymo 6 ir 7 straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [81-1932](https://www.e-tar.lt/portal/lt/legalAct/TAR.85653B338C83), Nr. 82)
 
-\#### 1 straipsnis. Įstatymo papildymas 6 straipsniu
+## 1 straipsnis. Įstatymo papildymas 6 straipsniu
 
 Papildyti Įstatymą 6 straipsniu:
 
@@ -38,7 +38,7 @@ Papildyti Įstatymą 6 straipsniu:
 
 2. Patvirtinti valstybės skola 143508000 litų įnašą Vyriausybės vertybiniais popieriais bei patvirtinti valstybės išlaidomis 14999031 litą biudžeto lėšų ir 642969 litų vertės turtinį įnašą į 1996 metais suformuotą 165 mln. litų Lietuvos valstybinio komercinio banko akcinį kapitalą esant neigiamai bendrai banko nuosavybei.“
 
-\#### 2 straipsnis. Įstatymo papildymas 7 straipsniu
+## 2 straipsnis. Įstatymo papildymas 7 straipsniu
 
 Papildyti Įstatymą 7 straipsniu:
 

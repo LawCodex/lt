@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/69b1cd6255bf11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.69B1CD6255BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 3 priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS BANKO ĮSTATYMO NR. I-678 42 STRAIPSNIO IR 3 PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 42 straipsnio pakeitimas
+## 1 straipsnis. 42 straipsnio pakeitimas
 
 Papildyti 42 straipsnio 2 dalį 19 punktu:
 
 „19) atlieka Reglamento [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) kompetentingai institucijai priskirtas funkcijas.“
 
-\#### 2 straipsnis. Įstatymo 3 priedo pakeitimas
+## 2 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Papildyti Įstatymo 3 priedą 23^1punktu:
 

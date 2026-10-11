@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5f1b4680e3de11eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5F1B4680E3DE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 9, 34, 43, 44, 45, 46, 46-1, 47, 49, 51, 52 ir 60 straipsnių pakeitimo ir Įstatymo papildymo 46-2 ir 52-1 straipsniais įstatymas

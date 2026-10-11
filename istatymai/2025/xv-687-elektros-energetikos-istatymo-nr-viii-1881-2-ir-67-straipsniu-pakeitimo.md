@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2ddbb7b2dfee11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2DDBB7B2DFEE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2 ir 67 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 2 IR 67 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 111 dalį ir ją išdėstyti taip:
 
 „111. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Reglamente [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt) ir šio reglamento VII skyriuje nurodytų sričių tinklo kodeksuose ir gairėse (toliau – tinklo kodeksai ir gairės).“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 111 dalį ir ją išdėstyti taip:
 
 „111. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Reglamente [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt) ir šio reglamento VII skyriuje nurodytų sričių tinklo kodeksuose ir gairėse (toliau – tinklo kodeksai ir gairės).“
 
-\#### 3 straipsnis. 67 straipsnio pakeitimas
+## 3 straipsnis. 67 straipsnio pakeitimas
 
 1. Pakeisti 67 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 2 straipsnio 111 dalį ir ją išdėstyti taip:
 
 „11^4. Šio straipsnio 6^1 ar 8^1 dalyje nurodytų vartotojų, įgyvendinančių stambius projektus, dėl nuo perdavimo sistemos operatoriaus nepriklausančių aplinkybių nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros pagrįstomis sąnaudomis. Perdavimo sistemos operatorius privalo imtis visų teisės aktuose numatytų priemonių, įskaitant išieškojimą teismo tvarka, dėl sutartinių įsipareigojimų su vartotojais, įgyvendinančiais stambius projektus, vykdymo.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

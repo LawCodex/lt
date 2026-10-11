@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB3B75FCBD9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5DB3B75FCBD9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 1 straipsnio ir priedo papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [94-1833](https://www.e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE); 2007, Nr. [12-488](https://www.e-tar.lt/portal/lt/legalAct/TAR.0B0FDEFFCD5C))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 4 dalimi
 
 Papildyti 1 straipsnį 4 dalimi:
 
 „4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 10 ir 17 straipsnių nuostatos.“
 
-\#### 2 straipsnis. Įstatymo priedo papildymas 5 punktu
+## 2 straipsnis. Įstatymo priedo papildymas 5 punktu
 
 Papildyti Įstatymo priedą 5 punktu:
 

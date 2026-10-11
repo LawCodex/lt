@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2820fd80e63611e39ea8c7e1dfdc4b5c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2820FD80E636.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
@@ -26,13 +26,13 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 4 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Lietuvos Respublikos ar Europos Sąjungos valstybės narės nuolatiniai gyventojai, ne jaunesni kaip 16 metų, jeigu jiems nėra paskirta valstybinė socialinio draudimo senatvės pensija turint būtinąjį valstybinio socialinio pensijų draudimo stažą,gali savanoriškai draustis pensijų socialiniu draudimu pagrindinei ar pagrindinei ir papildomai pensijos dalims tuo laiku, kai jie nėra privalomai draudžiami šios rūšies socialiniu draudimu, arba įstatymų nustatyta tvarka privalomai draudžiami (draudžiasi) pensijų socialiniu draudimu tik pagrindinei pensijos daliai. Lietuvos Respublikos ar Europos Sąjungos valstybės narės nuolatiniai gyventojai, ne jaunesni kaip 16 metų, jeigu jie nėra sukakę senatvės pensijos amžiaus arba pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), gali savanoriškai draustis ligos ir motinystės socialiniu draudimu ligos ir motinystės pašalpoms tuo laiku, kai jie nėra privalomai draudžiami šios rūšies socialiniu draudimu. Socialinio draudimo įmokų mokėjimo ir sutarčių sudarymo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. rugsėjo 1 d.
 

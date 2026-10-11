@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FCBCC2BA2B28"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FCBCC2BA2B28.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [47-1469](https://www.e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE); 2002, Nr. [13-474](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E966DA54042), Nr. [123-5550](https://www.e-tar.lt/portal/lt/legalAct/TAR.EAD7BC4DB706); 2003, Nr. [48-2108](https://www.e-tar.lt/portal/lt/legalAct/TAR.07C6FA6CC42B))
 
-\#### 1 straipsnis. 2 straipsnio papildymas nauja 11 dalimi
+## 1 straipsnis. 2 straipsnio papildymas nauja 11 dalimi
 
 1. Papildyti 2 straipsnį nauja 11 dalimi:
 
@@ -42,19 +42,19 @@ Vilnius
 
 2. Buvusias 2 straipsnio 11–19 dalis laikyti atitinkamai 12–20 dalimis.
 
-\#### 2 straipsnis. 5 straipsnio 5 dalies pakeitimas
+## 2 straipsnis. 5 straipsnio 5 dalies pakeitimas
 
 Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Gamintojai ir importuotojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis už visą gaminių ir (ar) pakuotės kiekį, jei įvykdo Vyriausybės nustatytas gaminių bei pakuotės atliekų naudojimo ir (ar) perdirbimo užduotis ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti kiekį. Jei mokesčio mokėtojas įvykdė tris ketvirtadalius Vyriausybės nustatytos gaminių bei pakuotės atliekų naudojimo ir (ar) perdirbimo užduoties, jis atleidžiamas nuo mokesčio už tris ketvirtadalius apmokestinamųjų gaminių ir (ar) apmokestinamosios pakuotės kiekio. Jei mokesčio mokėtojas įvykdė pusę Vyriausybės nustatytos gaminių bei pakuotės atliekų naudojimo ir (ar) perdirbimo užduoties, jis atleidžiamas nuo mokesčio už pusę apmokestinamųjų gaminių ir (ar) apmokestinamosios pakuotės kiekio. Jei mokesčio mokėtojas įvykdė ketvirtadalį Vyriausybės nustatytos gaminių bei pakuotės atliekų naudojimo ir (ar) perdirbimo užduoties, jis atleidžiamas nuo mokesčio už ketvirtadalį apmokestinamųjų gaminių ir (ar) apmokestinamosios pakuotės kiekio. Mokesčio mokėtojas, vykdęs užduotis, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti kiekį.“
 
-\#### 3 straipsnis. 8 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 4 dalies pakeitimas
 
 Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Mokestis už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokamas pagal faktiškai per ataskaitinį laikotarpį išleistą į Lietuvos Respublikos vidaus rinkąapmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės kiekį.“
 
-\#### 4 straipsnis. Įstatymo taikymas
+## 4 straipsnis. Įstatymo taikymas
 
 Šio Įstatymo 1, 2 ir 3 straipsnių nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
 

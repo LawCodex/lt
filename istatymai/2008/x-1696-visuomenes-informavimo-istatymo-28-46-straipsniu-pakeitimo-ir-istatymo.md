@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F018F554591D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F018F554591D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 28, 46 straipsnių pakeitimo ir įstatymo papildymo 27(1) straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2000, Nr. [75-2272](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E))
 
-\#### 1 straipsnis. Įstatymo papildymas 271 straipsniu
+## 1 straipsnis. Įstatymo papildymas 271 straipsniu
 
 Papildyti Įstatymą 27^1straipsniu:
 
@@ -34,7 +34,7 @@ Papildyti Įstatymą 27^1straipsniu:
 
 2. Valstybės finansinė parama laikraščių pristatymo paslaugoms teikti konkurso tvarka skiriama per Fondą.“
 
-\#### 2 straipsnis. 28 straipsnio pakeitimas
+## 2 straipsnis. 28 straipsnio pakeitimas
 
 1. Papildyti 28 straipsnį nauja 5 dalimi:
 
@@ -42,7 +42,7 @@ Papildyti Įstatymą 27^1straipsniu:
 
 2. Buvusias 28 straipsnio 5, 6 ir 7 dalis laikyti atitinkamai 6, 7 ir 8 dalimis.
 
-\#### 3 straipsnis. 46 straipsnio 1, 2, 7, 8 ir 9 dalių pakeitimas
+## 3 straipsnis. 46 straipsnio 1, 2, 7, 8 ir 9 dalių pakeitimas
 
 1. Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Papildyti Įstatymą 27^1straipsniu:
 
 „9. Reikiamą Komisijos ekspertų darbo, taip pat informacinio techninio Komisijos aptarnavimo, Komisijos viešųjų renginių, Komisijos patalpų eksploatavimo ir kitų administracinių išlaidų finansavimą užtikrina Fondas.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1 ir 2 straipsniai įsigalioja 2009 m. sausio 1 d.
 

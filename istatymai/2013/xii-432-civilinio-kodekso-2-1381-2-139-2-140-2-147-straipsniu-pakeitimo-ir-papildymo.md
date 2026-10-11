@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EE1AB9BB8A3C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EE1AB9BB8A3C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 2.1381, 2.139, 2.140, 2.147 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. 74-2262; 2010, Nr. 126-6456; 2011, Nr. 85-4130)
 
-\#### 1 straipsnis. 2.1381 straipsnio pakeitimas
+## 1 straipsnis. 2.1381 straipsnio pakeitimas
 
 Pakeisti 2.138^1straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 2.138^1straipsnį ir jį išdėstyti taip:
 
 4. Įgaliojimų registro duomenys tvarkomi Įgaliojimų registro nuostatų nustatyta tvarka.“
 
-\#### 2 straipsnis. 2.139 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2.139 straipsnio pakeitimas ir papildymas
 
 Pakeisti 2.139 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
 
@@ -48,23 +48,23 @@ Pakeisti 2.139 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir jį išdėst
 
 2. Šio straipsnio 1 dalyje nurodyto įgaliojimo patvirtinti nereikia, jeigu jį informacinių technologijų priemonėmis sudarė fizinis asmuo ir davė jį įregistruodamas Įgaliojimų registre.“
 
-\#### 3 straipsnis. 2.140 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 2.140 straipsnio 1 dalies pakeitimas
 
 Pakeisti 2.140 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Juridinio asmens duodamą įgaliojimą pasirašo jo vadovas. Ant įgaliojimo, kuris sudaromas ne informacinių technologijų priemonėmis, dedamas to juridinio asmens antspaudas, jeigu jis antspaudą privalo turėti.“
 
-\#### 4 straipsnis. 2.147 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 2.147 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2.147 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Duomenys apie įgaliojimo pasibaigimą turi būti pateikti Įgaliojimų registro tvarkytojui.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 6 straipsnį, įsigalioja 2014 m. sausio 1 d.
 
-\#### 6 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ar jos įgaliotoms institucijoms
+## 6 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ar jos įgaliotoms institucijoms
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

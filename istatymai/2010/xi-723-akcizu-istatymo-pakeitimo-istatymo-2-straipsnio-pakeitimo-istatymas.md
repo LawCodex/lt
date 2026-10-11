@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0675ED78C541"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0675ED78C541.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2004, Nr. [26-802](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AE1F0D1CA5B))
 
-\#### 1 straipsnis. 2 straipsnio 4 dalies pripažinimas netekusia galios
+## 1 straipsnis. 2 straipsnio 4 dalies pripažinimas netekusia galios
 
 2 straipsnio 4 dalį pripažinti netekusia galios.
 

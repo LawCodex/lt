@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D7934EE30DB1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D7934EE30DB1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 15, 16, 27, 59 straipsnių ir 1 bei 2 priedėlių pakeitimo įstatymas
@@ -28,11 +28,11 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2000, Nr. [75-2270](https://www.e-tar.lt/portal/lt/legalAct/TAR.905114AB2F6E), Nr. [92-2845](https://www.e-tar.lt/portal/lt/legalAct/TAR.223247BF27A4), Nr. [102-3213](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9165AA625E7), Nr. [105-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5BDA985ED9D); 2001, Nr. [37-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CB2051E732C), Nr. [111-4024](https://www.e-tar.lt/portal/lt/legalAct/TAR.C550BF83CC15))
 
-\#### 1 straipsnis. 15 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 15 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios
 
 15 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) be konkurso – apskrities viršininkas ir Seimo kancleris. Apskrities viršininką skiria ir atleidžia Vyriausybė Ministro Pirmininko teikimu, o Seimo kanclerį – Seimas Seimo Pirmininko siūlymu.“
 
-\#### 3 straipsnis. 27 straipsnio 1 dalies ir 2 dalies 1 punkto pakeitimas
+## 3 straipsnis. 27 straipsnio 1 dalies ir 2 dalies 1 punkto pakeitimas
 
 1. Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1) vertina Vyriausybės kanceliarijos, įstaigų prie ministerijų ir Vyriausybės įstaigų vadovų, kurie nėra politinio (asmeninio) pasitikėjimo valstybės tarnautojai, bei jų pavaduotojų, ministerijų valstybės sekretorių veiklą, kai į Personalo valdymo tarybą kreipiamasi dėl šių asmenų nepatenkinamų darbo rezultatų. Personalo valdymo taryba vertina Vyriausybės kanceliarijos ir Vyriausybės įstaigų vadovų bei jų pavaduotojų veiklą, kai dėl to kreipiasi Ministras Pirmininkas. Personalo valdymo taryba taip pat vertina ministerijų valstybės sekretorių bei įstaigų prie ministerijų vadovų ir jų pavaduotojų veiklą, kai dėl to kreipiasi ministrai. Jeigu vertinama ministerijosvalstybėssekretoriaus ar Vyriausybės kanclerioveikla, vertinamasis nuo savo veiklos vertinimo privalo nusišalinti;“.
 
-\#### 4 straipsnis. 59 straipsnio pakeitimas
+## 4 straipsnis. 59 straipsnio pakeitimas
 
 1. Pakeisti 59 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -76,123 +76,81 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) personalo valdymą organizuoja per atitinkamų įstaigų vadovus ir personalo tarnybas; šių tarnybų veiklą reglamentuoja personalo tarnybų nuostatai.“
 
-\#### 5 straipsnis. 1 priedėlio 1, 3 ir 4 skirsnių pakeitimas
+## 5 straipsnis. 1 priedėlio 1, 3 ir 4 skirsnių pakeitimas
 
 1. Pakeisti 1 priedėlio 1 skirsnį ir jį išdėstyti taip:
 
 „**1****. LIETUVOS RESPUBLIKOS SEIMAS**
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
-
-\| --- | --- | --- |
-
-\| Seimo Pirmininko sekretoriato vadovas | A | 29 |
-
-\| Seimo Pirmininko sekretoriato vadovo pavaduotojas | A | 28 |
-
-\| Seimo Pirmininko vyresnysis patarėjas | A | 29 |
-
-\| Seimo Pirmininko atstovas spaudai | A | 26 |
-
-\| Seimo Pirmininko patarėjas | A | 27 |
-
-\| Seimo Pirmininko padėjėjas | A | 23–25 |
-
-\| Seimo Pirmininko pavaduotojo patarėjas | A | 25 |
-
-\| Seimo frakcijos seniūno referentas | C | 21 |
-
-\| Seimo nario padėjėjas-sekretorius | A C | 21 20“ |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
+| --- | --- | --- |
+| Seimo Pirmininko sekretoriato vadovas | A | 29 |
+| Seimo Pirmininko sekretoriato vadovo pavaduotojas | A | 28 |
+| Seimo Pirmininko vyresnysis patarėjas | A | 29 |
+| Seimo Pirmininko atstovas spaudai | A | 26 |
+| Seimo Pirmininko patarėjas | A | 27 |
+| Seimo Pirmininko padėjėjas | A | 23–25 |
+| Seimo Pirmininko pavaduotojo patarėjas | A | 25 |
+| Seimo frakcijos seniūno referentas | C | 21 |
+| Seimo nario padėjėjas-sekretorius | A C | 21 20“ |
 
 2. Pakeisti 1 priedėlio 3 skirsnį ir jį išdėstyti taip:
 
 „3. MINISTRO PIRMININKO POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
-
-\| --- | --- | --- |
-
-\| Ministro Pirmininko vyriausiasis patarėjas | A | 30 |
-
-\| Ministro Pirmininko patarėjas | A | 27–29 |
-
-\| Ministro Pirmininko sekretoriato vadovas | A | 27 |
-
-\| Ministro Pirmininko atstovas spaudai | A | 26–27 |
-
-\| Ministro Pirmininko padėjėjas | A | 23–25“ |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
+| --- | --- | --- |
+| Ministro Pirmininko vyriausiasis patarėjas | A | 30 |
+| Ministro Pirmininko patarėjas | A | 27–29 |
+| Ministro Pirmininko sekretoriato vadovas | A | 27 |
+| Ministro Pirmininko atstovas spaudai | A | 26–27 |
+| Ministro Pirmininko padėjėjas | A | 23–25“ |
 
 3. Pakeisti 1 priedėlio 4 skirsnį ir jį išdėstyti taip:
 
 „4. MINISTERIJOS, APSKRITIES VIRŠININKO ADMINISTRACIJA
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA | |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |  |
+| --- | --- | --- | --- |
+| Viceministras | A | 30 |  |
+| Ministro patarėjas | A | 26–28 |  |
+| Ministro atstovas spaudai | A | 24–26 |  |
+| Ministro padėjėjas | A | 22–24 |  |
+|  |  | Apskrities teritorijoje daugiau negu 500 000 gyventojų | Apskrities teritorijoje mažiau negu 500 000 gyventojų |
+| Apskrities viršininkas | A | 28 | 26–27 |
+| Apskrities viršininko pavaduotojas | A | 27 | 25–26“ |
 
-\| --- | --- | --- | --- |
-
-\| Viceministras | A | 30 | |
-
-\| Ministro patarėjas | A | 26–28 | |
-
-\| Ministro atstovas spaudai | A | 24–26 | |
-
-\| Ministro padėjėjas | A | 22–24 | |
-
-\| | | Apskrities teritorijoje daugiau negu 500 000 gyventojų | Apskrities teritorijoje mažiau negu 500 000 gyventojų |
-
-\| Apskrities viršininkas | A | 28 | 26–27 |
-
-\| Apskrities viršininko pavaduotojas | A | 27 | 25–26“ |
-
-\#### 6 straipsnis. 2 priedėlio 3 ir 10 skirsnių pakeitimas
+## 6 straipsnis. 2 priedėlio 3 ir 10 skirsnių pakeitimas
 
 1. Pakeisti 2 priedėlio 3 skirsnį ir jį išdėstyti taip:
 
 „3. VYRIAUSYBĖS KANCELIARIJA
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Vyriausybės kancleris | 30 |
-
-\| Departamento direktorius | 27–28 |
-
-\| Skyriaus vedėjas | 26–27 |
-
-\| Patarėjas | 25 |
-
-\| Vyriausiasis specialistas | 25 |
-
-\| Vyresnysis specialistas | 22–24 |
-
-\| Specialistas | 18–22“ |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Vyriausybės kancleris | 30 |
+| Departamento direktorius | 27–28 |
+| Skyriaus vedėjas | 26–27 |
+| Patarėjas | 25 |
+| Vyriausiasis specialistas | 25 |
+| Vyresnysis specialistas | 22–24 |
+| Specialistas | 18–22“ |
 
 2. Pakeisti 2 priedėlio 10 skirsnį ir jį išdėstyti taip:
 
 „10. MINISTERIJOS
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Ministerijos valstybės sekretorius | 30 |
-
-\| Ministerijos sekretorius | 29 |
-
-\| Ministerijos departamento direktorius | 28 |
-
-\| Skyriaus vedėjas | 24–26 |
-
-\| Specialusis atašė | 23–25 |
-
-\| Vyriausiasis specialistas | 22–24 |
-
-\| Vyresnysis specialistas | 20–22 |
-
-\| Specialistas | 18–20 |
-
-\| Jaunesnysis specialistas | 15–17“ |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Ministerijos valstybės sekretorius | 30 |
+| Ministerijos sekretorius | 29 |
+| Ministerijos departamento direktorius | 28 |
+| Skyriaus vedėjas | 24–26 |
+| Specialusis atašė | 23–25 |
+| Vyriausiasis specialistas | 22–24 |
+| Vyresnysis specialistas | 20–22 |
+| Specialistas | 18–20 |
+| Jaunesnysis specialistas | 15–17“ |
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 

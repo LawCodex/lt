@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2790D7E4103D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2790D7E4103D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5); 2004, Nr. [17-505](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC724525A9B9); 2005, Nr. [72-2590](https://www.e-tar.lt/portal/lt/legalAct/TAR.6D68A160D748); 2006, Nr. [6-193](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE9E4EA038CB), Nr. [82-3264](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8099D46F656); 2007, Nr. [46-1717](https://www.e-tar.lt/portal/lt/legalAct/TAR.83CA45F166B9); 2008, Nr. [18-632](https://www.e-tar.lt/portal/lt/legalAct/TAR.839F053D7A00), Nr. [149-6004](https://www.e-tar.lt/portal/lt/legalAct/TAR.2356BE258F96), 6034; 2009, Nr. 77-3173)
 
-\#### 1 straipsnis. 19 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 19 straipsnio 3 dalies pakeitimas
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2) iki 2010 m. gruodžio 31 d. knygoms ir neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius).“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2009 m. rugsėjo 1 d.
 

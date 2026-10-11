@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/949aaee2535b11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.949AAEE2535B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 6, 13-1, 16, 17, 18, 18-2, 19, 20, 21, 23, 27, 29, 34 ir 35 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO NR. IX-1007 6, 131, 16, 17, 18, 182, 19, 
 
 Vilnius
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas
+## 1 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 10. Apskaičiuojant metinei pajamų daliai pagal šio straipsnio 1 dalį taikomą pajamų mokesčio tarifą, į šią pajamų dalį pirmiausia įskaičiuojama metinė pajamų dalis, apmokestinama pagal šio straipsnio 2, 7 ir 8 dalis.“
 
-\#### 2 straipsnis. 131 straipsnio pakeitimas
+## 2 straipsnis. 131 straipsnio pakeitimas
 
 1. Pakeisti 131 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „4. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos finansinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną.“
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo 6 straipsnio 1, 2, 6 ir 8 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo 21 straipsnyje nustatyta tvarka.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 14 punktą ir jį išdėstyti taip:
 
@@ -116,13 +116,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „55) 1/4 metinio neapmokestinamojo pajamų dydžio, nurodyto šio įstatymo 20 straipsnio 1 dalies 1 punkte, per mokestinį laikotarpį neviršijančios pajamos, gautos kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas;“.
 
-\#### 5 straipsnis. 18 straipsnio pakeitimas
+## 5 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Išlaidos turi būti pagrįstos dokumentais, turinčiais visą Lietuvos Respublikos finansinės apskaitos įstatyme ir kituose Lietuvos Respublikos teisės aktuose, reglamentuojančiuose apskaitos dokumentų privalomą informaciją, numatytą apskaitos dokumentų privalomą informaciją, jeigu Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nenustato, kad tam tikra privaloma informacija atitinkamiems dokumentams nėra būtina.“
 
-\#### 6 straipsnis. 182 straipsnio pakeitimas
+## 6 straipsnis. 182 straipsnio pakeitimas
 
 1. Pakeisti 182 straipsnio 1–3 dalis ir jas išdėstyti taip:
 
@@ -130,15 +130,13 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 2. Apskaičiuojant nuo individualios veiklos pajamų mokėtiną pajamų mokestį, kai metinės apmokestinamosios individualios veiklos pajamos neviršija 20 000 eurų per metus, taikytinas pajamų mokesčio kreditas apskaičiuojamas pagal šią formulę:
 
-\| Pajamų mokesčio kreditas = metinės individualios veiklos apmokestinamosios pajamos × 0,15. |
-
-\| --- |
+| Pajamų mokesčio kreditas = metinės individualios veiklos apmokestinamosios pajamos × 0,15. |
+| --- |
 
 3. Apskaičiuojant nuo individualios veiklos pajamų mokėtiną pajamų mokestį, kai metinės apmokestinamosios individualios veiklos pajamos yra didesnės negu 20 000 eurų per metus, taikytinas pajamų mokesčio kreditas apskaičiuojamas pagal šią formulę:
 
-\| Pajamų mokesčio kreditas = metinės individualios veiklos apmokestinamosios pajamos × (0,15 – 2/300 000 × (metinės individualios veiklos apmokestinamosios pajamos – 20 000)).“ |
-
-\| --- |
+| Pajamų mokesčio kreditas = metinės individualios veiklos apmokestinamosios pajamos × (0,15 – 2/300 000 × (metinės individualios veiklos apmokestinamosios pajamos – 20 000)).“ |
+| --- |
 
 2. Papildyti 182 straipsnį 4 ir 5 dalimis:
 
@@ -146,7 +144,7 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 5. Jeigu metinė apmokestinamųjų individualios veiklos pajamų suma viršija 42 500 eurų per metus, mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo 6 straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą gautos sumos atimant papildomo pajamų mokesčio kredito už kiekvieną auginamą vaiką (įvaikį, globotinį) sumą, apskaičiuotą pagal šio straipsnio 4 dalį.“
 
-\#### 7 straipsnis. 19 straipsnio pakeitimas
+## 7 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -156,7 +154,7 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „3. Leidžiama atimti tik tas sumas, kurios pagrindžiamos dokumentais, turinčiais visą Lietuvos Respublikos finansinės apskaitos įstatyme ir kituose teisės aktuose, reglamentuojančiuose apskaitos dokumentų privalomą informaciją, numatytą apskaitos dokumentų privalomą informaciją, ir (arba) galiojančiais sandoriais, ir (arba) užsienio vienetų bei gyventojų surašytais dokumentais, jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį.“
 
-\#### 8 straipsnis. 20 straipsnio pakeitimas
+## 8 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -170,9 +168,8 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 2) kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
-\| Gyventojui taikytinas MNPD = 8 964 – 0,49 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ |
-
-\| --- |
+| Gyventojui taikytinas MNPD = 8 964 – 0,49 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ |
+| --- |
 
 3. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -182,9 +179,8 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
-\| Gyventojui taikytinas mėnesio NPD = 747 – 0,49 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ |
-
-\| --- |
+| Gyventojui taikytinas mėnesio NPD = 747 – 0,49 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ |
+| --- |
 
 4. Pakeisti 20 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -202,19 +198,19 @@ Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „12. Teikiant metinę pajamų mokesčio deklaraciją gyventojo pasirinkimu taikomas arba šio straipsnio 11 dalyje nustatytas papildomas NPD, arba šio įstatymo 18^2 straipsnio 4 ar 5 dalyje nustatytas papildomas pajamų mokesčio kreditas.“
 
-\#### 9 straipsnis. 21 straipsnio pakeitimas
+## 9 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomi šio Įstatymo 6 straipsnio 1, 2, 6 ir 8 dalyse nustatyti pajamų mokesčio tarifai, sumos, apskaičiuotos šio Įstatymo 16 straipsnio 1 dalyje nustatyta tvarka, atėmus šio Įstatymo 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Šio straipsnio 1 dalies 1, 2 ir 2^1 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų.“
 
-\#### 10 straipsnis. 23 straipsnio pakeitimas
+## 10 straipsnis. 23 straipsnio pakeitimas
 
 Papildyti 23 straipsnį 7 dalimi:
 
 „7. Apskaičiuojant pajamų mokestį nuo išmokamos išmokos, pagal pajamų mokesčio mokėjimo tvarką priskiriamos gyventojo A klasės pajamoms, šio Įstatymo 6 straipsnyje nustatyti tarifai taikomi atsižvelgiant tik į tos išmokamos išmokos dydį. Kai išmokos, pagal pajamų mokesčio mokėjimo tvarką priskiriamos gyventojo A klasės pajamoms, iš to paties mokestį išskaičiuojančio asmens gaunamos periodiškai, gyventojo prašymu mokestį išskaičiuojantis asmuo šio Įstatymo 6 straipsnyje nustatytus tarifus taiko, atsižvelgdamas į bendrą per mokestinį laikotarpį gyventojui to išskaičiuojančio asmens išmokėtą ir (ar) planuojamą išmokėti išmokų sumą.“
 
-\#### 11 straipsnis. 27 straipsnio pakeitimas
+## 11 straipsnis. 27 straipsnio pakeitimas
 
 1. Pakeisti 27 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -224,25 +220,25 @@ Papildyti 23 straipsnį 7 dalimi:
 
 „2) jam atsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 1 daliesnuostatas.“
 
-\#### 12 straipsnis. 29 straipsnio pakeitimas
+## 12 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pagal šio straipsnio 2 dalį deklaruojamoms pajamoms taikoma MNPD ir papildomo NPD dalis apskaičiuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
-\#### 13 straipsnis. 34 straipsnio pakeitimas
+## 13 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Mokesčio administratorius pas jį atvykusiems gyventojams jų prašymu padeda užpildyti deklaracijas ir (ar) prašymus pervesti dalį pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos.“
 
-\#### 14 straipsnis. 35 straipsnio pakeitimas
+## 14 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Nuolatinis Lietuvos gyventojas, prieš pradėdamas vykdyti kokios nors rūšies individualią veiklą, privalo apie tai informuoti mokesčio administratorių ne vėliau kaip prieš vieną darbo dieną iki veiklos vykdymo pradžioscentrinio mokesčio administratoriaus nustatyta tvarka.“
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+## 15 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 3 straipsnio 1 dalį, 6 straipsnio 2 dalį, 8 straipsnio 1, 4–7 dalis, 12 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2026 m. sausio 1 d. ir yra taikomas apskaičiuojant ir deklaruojant 2026 metų, taip pat vėlesnių mokestinių laikotarpių pajamas.
 

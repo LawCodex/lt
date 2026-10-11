@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D67BA8474C1F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D67BA8474C1F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 40, 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 straipsnių, VI skyriaus ir priedo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [50-1598](https://www.e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64); 2003, Nr. [28-1125](https://www.e-tar.lt/portal/lt/legalAct/TAR.674960C67DAC))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 17 dalimi:
 
@@ -36,19 +36,19 @@ Vilnius
 
 2. Buvusias 2 straipsnio 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 ir 30 dalis laikyti atitinkamai 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 ir 31 dalimis.
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies 10 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 2 dalies 10 punkto pakeitimas
 
 4 straipsnio 2 dalies 10 punkte išbraukti žodžius „ir kūriniai, neužregistruoti kaip pramoninis dizainas“ ir šį punktą išdėstyti taip:
 
 „10) taikomosios dailės kuriniai;“.
 
-\#### 3 straipsnis. 11 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 11 straipsnio 4 dalies pakeitimas
 
 11 straipsnio 4 dalyje vietoj žodžių „kurie nuomoja audiovizualinius kūrinius ar jų kopijas, kaip asmenys, kuriems buvo perduota ar suteikta teisė nuomoti audiovizualinius kūrinius ar jų kopijas“ įrašyti žodžius „kuriems audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę nuomoti audiovizualinius kūrinius ar jų kopijas“, prieš žodį „įgyvendinama“ įrašyti žodį „paprastai“, žodį „tik“ išbraukti ir šią dalį išdėstyti taip:
 
 „4. Nepaisant šio straipsnio 2 dalies nuostatų, audiovizualinio kūrinio bendraautoriai turi neatšaukiamą teisę gauti tam tikrą autorinį atlyginimą už audiovizualinio kūrinio nuomą. Šį atlyginimą moka fiziniai arba juridiniai asmenys, kuriems audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę nuomoti audiovizualinius kūrinius ar jų kopijas. Ši teisė paprastai įgyvendinama per autorių teisių kolektyvinio administravimo asociaciją.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnyje po žodžių „visuomenei apie savo“ įrašyti žodį „turtines“ ir šį straipsnį išdėstyti taip:
 
@@ -56,25 +56,25 @@ Vilnius
 
 Autorius arba kitas autorių teisių subjektas gali pranešti visuomenei apie savo turtines teises panaudodamas autorių teisių apsaugos ženklą. Jį sudaro trys elementai: apskritime arba lenktiniuose skliaustuose įrašyta raidė C, autoriaus arba kito autorių teisių subjekto vardas (pavadinimas) ir kūrinio pirmojo išleidimo metai.“
 
-\#### 5 straipsnis. 14 straipsnio papildymas 3 dalimi
+## 5 straipsnis. 14 straipsnio papildymas 3 dalimi
 
 Papildyti 14 straipsnį 3 dalimi:
 
 „3. Kompiuterių programų ir duomenų bazių autoriaus asmeninės neturtinės teisės negali būti naudojamos tokiu būdu, kuris nepagrįstai suvaržytų autorių turtinių teisių į šias kompiuterių programas ir duomenų bazes turėtojo teises, tarp jų ir teisę savo nuožiūra adaptuoti, keisti ir platinti šiuos kūrinius, išskyrus atvejus, kai tokie veiksmai pažeistų autoriaus garbę ar reputaciją.“
 
-\#### 6 straipsnis. 15 straipsnio 4 dalies pakeitimas
+## 6 straipsnis. 15 straipsnio 4 dalies pakeitimas
 
 15 straipsnio 4 dalyje vietoj žodžių „kurie nuomoja fonogramas ar jų kopijas, kaip asmenys, kuriems buvo perduota ar suteikta teisė nuomoti tas fonogramas ar jų kopijas“ įrašyti žodžius „kuriems fonogramos gamintojas perdavė arba suteikė teisę nuomoti fonogramas ar jų kopijas“, prieš žodį „įgyvendinama“ įrašyti žodį „paprastai“, žodį „tik“ išbraukti ir šią dalį išdėstyti taip:
 
 „4. Autorius, perdavęs fonogramos gamintojui teisę nuomoti kūrinį, įrašytą į fonogramą, turi neatšaukiamą teisę į tam tikrą autorinį atlyginimą už kūrinio nuomą. Šį atlyginimą moka fiziniai arba juridiniai asmenys, kuriems fonogramos gamintojas perdavė arba suteikė teisę nuomoti fonogramas ar jų kopijas. Ši teisė paprastai įgyvendinama per autorių teisių kolektyvinio administravimo asociaciją.“
 
-\#### 7 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Autoriui ar jo teisių perėmėjui, kuris pardavė ar kitu būdu perdavė nuosavybėn Europos ekonominės erdvės valstybių teritorijoje kūrinio originalą ar jo kopijas, Europos ekonominės erdvės valstybių teritorijoje nustoja galioti (išnaudojama) išimtinė teisė platinti teisėtai apyvartoje esantį kūrinį ar jo kopijas.“
 
-\#### 8 straipsnis. 17 straipsnio pakeitimas
+## 8 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -106,19 +106,19 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 7. Šio straipsnio 1 dalyje numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Bendrijos narių autoriams ir jų teisių paveldėtojams.“
 
-\#### 9 straipsnis. 22 straipsnio 1 dalies 1 punkto pakeitimas
+## 9 straipsnis. 22 straipsnio 1 dalies 1 punkto pakeitimas
 
 22 straipsnio 1 dalies 1 punkte po žodžio „pavyzdį“ įrašyti žodį „nekomerciniais“ ir šį punktą išdėstyti taip:
 
 „1) kaip pavyzdį nekomerciniais mokymo ir mokslinių tyrimų tikslais atgaminti nedidelius išleistus kūrinius ar trumpą išleisto kūrinio ištrauką rašytiniu, garso ar vaizdo pavidalu tiek, kiek tai susiję su mokymo programomis ir neviršija mokymui ar moksliniam tyrimui reikalingo masto;“.
 
-\#### 10 straipsnis. 38 straipsnio 3 dalies pakeitimas
+## 10 straipsnis. 38 straipsnio 3 dalies pakeitimas
 
 38 straipsnio 3 dalyje po žodžių „teisės į visus būsimus“ įrašyti žodžius „arba aiškiai neidentifikuotus“ ir šią dalį išdėstyti taip:
 
 „3. Negali būti perduodamos teisės į visus būsimus arba aiškiai neidentifikuotus autoriaus kūrinius. Autorių turtinių teisių perdavimas negali būti taikomas kūrinio panaudojimo būdams, kurie autoriaus turtinių teisių perdavimo metu neegzistuoja ar yra nežinomi.“
 
-\#### 11 straipsnis. 40 straipsnio pakeitimas
+## 11 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -146,29 +146,29 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu pagal autorinę sutartį perduotos visos autorių turtinės teisės, laikoma, kad šios teisės perduotos tik dėl sutartyje nurodytų kūrinio naudojimo būdų. Jeigu autorinėje sutartyje nenurodyti kūrinio naudojimo būdai, laikoma, kad autorinė sutartis sudaryta tik dėl tų kūrinio naudojimo būdų, kurie sutarties šalims yra būtini siekiant tikslo, dėl kurio ta sutartis buvo sudaryta.“
 
-\#### 12 straipsnis. 42 straipsnio 2 dalies pakeitimas
+## 12 straipsnis. 42 straipsnio 2 dalies pakeitimas
 
 42 straipsnio 2 dalyje po žodžio „privalomos“ įrašyti žodžius „jeigu naudotojui suteikiama galimybė susipažinus su paketo licencijos sąlygomis per protingą laiką atsisakyti sutarties ir grąžinti įsigytas kompiuterių programas ar elektronines duomenų bazes“ ir šią dalį išdėstyti taip:
 
 „2. Kai materialiose laikmenose užfiksuotos kompiuterių programos ir elektroninės duomenų bazės platinamos per prekybos tinklą, teisė naudotis kompiuterių programomis ar elektroninėmis duomenų bazėmis suteikiama pagal licencinę sutartį, kuri pirkėjui pateikiama kompiuterių programos ar duomenų bazės pakuotėje (paketo licencija). Paketo licencijoje nurodytos sąlygos kompiuterių programos ar elektroninės duomenų bazės naudotojui yra privalomos, jeigu naudotojui suteikiama galimybė susipažinus su paketo licencijos sąlygomis per protingą laiką atsisakyti sutarties ir grąžinti įsigytas kompiuterių programas ar elektronines duomenų bazes. Jos turi būti pateikiamos laikantis Vartotojų teisių gynimo ir Valstybinės kalbos įstatymų reikalavimų. Kai kompiuterių programos ar elektroninės duomenų bazės pateikiamos kompiuterių tinklais, teisė naudotis kompiuterių programa ar duomenų baze naudotojui gali būti suteikiama licencine sutartimi, kuri pateikiama elektronine forma ir kurią naudotojas turi patvirtinti prieš pradėdamas naudoti kompiuterių programą ar elektroninę duomenų bazę.“
 
-\#### 13 straipsnis. 43 straipsnio papildymas 4 dalimi
+## 13 straipsnis. 43 straipsnio papildymas 4 dalimi
 
 Papildyti 43 straipsnį 4 dalimi:
 
 „4. Leidybos teisinius santykius reglamentuojančios nuostatos taikomos ir literatūros, mokslo ar meno kūrinio užsakymo atvejais.“
 
-\#### 14 straipsnis. 44 straipsnio 2 dalies pakeitimas
+## 14 straipsnis. 44 straipsnio 2 dalies pakeitimas
 
 44 straipsnio 2 dalyje vietoj žodžio „gali“ įrašyti žodį „turi“, po žodžių „autorinių egzempliorių“ įrašyti žodžius „kuriais laikomi ne daugiau kaip dešimt išleidžiamo kūrinio kopijų“ ir šią dalį išdėstyti taip:
 
 „2. Leidybos sutartyje, be šio Įstatymo 40 ir 41 straipsniuose nurodytų sąlygų, turi būti nustatyta kūrinio pateikimo tvarka ir (ar) būdas, kūrinio aprobavimo tvarka ir terminai, autorių teisės ir pareigos rengiant kūrinį spaudai (kūrinio pakeitimas, redagavimas, korektūros skaitymas ir kita), didžiausias ir (ar) mažiausias išleidžiamų kūrinio kopijų (egzempliorių) skaičius, jų platinimo tvarka, autoriui perduodamų išleisto kūrinio kopijų (autorinių egzempliorių, kuriais laikomi ne daugiau kaip dešimt išleidžiamo kūrinio kopijų) skaičius ir kitos sąlygos.“
 
-\#### 15 straipsnis. 45, 46 ir 47 straipsnių eiliškumo pakeitimas
+## 15 straipsnis. 45, 46 ir 47 straipsnių eiliškumo pakeitimas
 
 Pakeisti 45, 46 ir 47 straipsnių eiliškumą ir 45 straipsnį laikyti 46 straipsniu, 46 straipsnį – 47 straipsniu, 47 straipsnį – 45 straipsniu.
 
-\#### 16 straipsnis. 45 straipsnio 1 dalies pakeitimas
+## 16 straipsnis. 45 straipsnio 1 dalies pakeitimas
 
 45 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „45 straipsnyje“ įrašyti skaičius ir žodžius „40 ir 44 straipsniuose“ ir šią dalį išdėstyti taip:
 
@@ -178,19 +178,19 @@ Pakeisti 45, 46 ir 47 straipsnių eiliškumą ir 45 straipsnį laikyti 46 straip
 
 2) leidinio apipavidalinimas (formatas, viršelis, iliustracijos ir kita).“
 
-\#### 17 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 17 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kūrinio antrasis ir vėlesni leidimai arba papildomi tiražai galimi tik tuo atveju, kai leidybos sutartyje dėl to susitarta ir numatytas atlyginimas autoriui ne mažesnis kaip 5 procentai leidėjo pajamų iš atitinkamo leidimo ar tiražo. Leidėjas privalo apie numatomą kūrinio naują leidimą ar papildomą tiražą iš anksto pranešti autoriui, kad šis per protingą terminą galėtų padaryti reikalingus kūrinio pakeitimus. Šie pakeitimai neturi keisti kūrinio pobūdžio ir neprotingai didinti kūrinio išleidimo išlaidų.“
 
-\#### 18 straipsnis. 51 straipsnio 3 dalies pakeitimas
+## 18 straipsnis. 51 straipsnio 3 dalies pakeitimas
 
 Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio Įstatymo 6 straipsnio 2 dalis *mutatis mutandis*taikoma ir gretutinių teisių subjektams.“
 
-\#### 19 straipsnis. 53 straipsnio 3 ir 6 dalių pakeitimas
+## 19 straipsnis. 53 straipsnio 3 ir 6 dalių pakeitimas
 
 1. Pakeisti 53 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -200,31 +200,31 @@ Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „6. Šio straipsnio 4 ir 5 dalyse numatytos teisės į atlyginimą paprastai įgyvendinamos per gretutinių teisių kolektyvinio administravimo asociaciją. Šį atlyginimą moka fiziniai arba juridiniai asmenys, kuriems fonogramos ar audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę nuomoti tas fonogramas, audiovizualinius įrašus ar jų kopijas.“
 
-\#### 20 straipsnis. 54 straipsnio 3 dalies pakeitimas
+## 20 straipsnis. 54 straipsnio 3 dalies pakeitimas
 
 Pakeisti 54 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 1 dalies 4 punkte nurodyta išimtinė teisė platinti fonogramą ar jos kopijas, išskyrus teisę nuomoti ir teikti panaudai fonogramą ar jos kopijas, Europos ekonominės erdvės valstybių teritorijoje nustoja galioti (išnaudojama) į fonogramos gamintojo ar jo teisių perėmėjo arba jų leidimu į Europos ekonominės erdvės valstybių teritorijoje parduotą ar kitu būdu perduotą nuosavybėn ir teisėtai komercinėje apyvartoje esančią fonogramą ar jos kopijas.“
 
-\#### 21 straipsnis. 56 straipsnio 3 dalies pakeitimas
+## 21 straipsnis. 56 straipsnio 3 dalies pakeitimas
 
 Pakeisti 56 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 1 dalies 7 punkte nurodyta išimtinė teisė platinti transliacijų įrašus ar jų kopijas Europos ekonominės erdvės valstybių teritorijoje nustoja galioti (išnaudojama) i transliuojančiosios organizacijos ar jos teisių perėmėjo arba jų leidimu į Europos ekonominės erdvės valstybių teritorijoje parduotą ar kitu būdu perduotą nuosavybėn ir teisėtai komercinėje apyvartoje esantį transliacijos įrašą ar jo kopijas.“
 
-\#### 22 straipsnis. 57 straipsnio 2 dalies pakeitimas
+## 22 straipsnis. 57 straipsnio 2 dalies pakeitimas
 
 Pakeisti 57 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalies 3 punkte nurodyta išimtinė teisė platinti audiovizualinio kūrinio (filmo) įrašą ar jo kopijas, išskyrus teisę nuomoti ir teikti panaudai, Europos ekonominės erdvės valstybių teritorijoje nustoja galioti (išnaudojama) į gamintojo ar jo teisių perėmėjo arba jų leidimu į Europos ekonominės erdvės valstybių teritorijoje parduotą ar kitu būdu perduotą nuosavybėn ir teisėtai komercinėje apyvartoje esantį audiovizualinio kūrinio (filmo) įrašą ar jo kopijas.“
 
-\#### 23 straipsnis. 61 straipsnio 4 dalies pakeitimas
+## 23 straipsnis. 61 straipsnio 4 dalies pakeitimas
 
 Pakeisti 61 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Teisė platinti duomenų bazės egzempliorius, išskyrus teisę nuomoti, Europos ekonominės erdvės valstybių teritorijoje nustoja galioti (išnaudojama) į duomenų bazės gamintojo arba jo leidimu Europos ekonominės erdvės valstybių teritorijoje parduotus ar kitu būdu perduotus nuosavybėn ir komercinėje apyvartoje teisėtai esančius duomenų bazės egzempliorius.“
 
-\#### 24 straipsnis. 65 straipsnio 2 dalies papildymas 14 punktu ir 3 dalies pakeitimas
+## 24 straipsnis. 65 straipsnio 2 dalies papildymas 14 punktu ir 3 dalies pakeitimas
 
 1. Papildyti 65 straipsnio 2 dalį 14 punktu:
 
@@ -234,7 +234,7 @@ Pakeisti 61 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 2 dalies 4, 6, 10, 11 ir 13 punktuose nurodytos teisės įgyvendinamos tik kolektyvinio administravimo būdu.“
 
-\#### 25 straipsnis. 72 straipsnio 2 dalies ir 4 dalies 3 punkto pakeitimas
+## 25 straipsnis. 72 straipsnio 2 dalies ir 4 dalies 3 punkto pakeitimas
 
 1. Pakeisti 72 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -244,7 +244,7 @@ Pakeisti 61 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3) bendru kolektyvinio administravimo asociacijų ir kūrinių ar gretutinių teisių objektų naudotojų prašymu nagrinėja ginčus dėl kūrinių ar gretutinių teisių objektų naudojimo, taip pat dėl autorių teisių ir gretutinių teisių pažeidimo.“
 
-\#### 26 straipsnis. VI skyriaus pakeitimas
+## 26 straipsnis. VI skyriaus pakeitimas
 
 Pakeisti Įstatymo VI skyrių ir jį išdėstyti taip:
 
@@ -252,11 +252,11 @@ Pakeisti Įstatymo VI skyrių ir jį išdėstyti taip:
 
 AUTORIŲ TEISIŲ, GRETUTINIŲ TEISIŲ IR SUI GENERIS TEISIŲ GYNIMAS
 
-\#### 73 straipsnis. Autorių teisių, gretutinių teisių ir sui generis teisių pažeidimas
+## 73 straipsnis. Autorių teisių, gretutinių teisių ir sui generis teisių pažeidimas
 
 Autorių teisių, gretutinių teisių ar *sui generis*teisių pažeidimu laikomi veiksmai, kuriais pažeidžiamos bet kurios šio Įstatymo ir kitų įstatymų saugomos autorių teisės, gretutinės teisės ar *sui generis*teisės.
 
-\#### 74 straipsnis. Techninės apsaugos priemonės
+## 74 straipsnis. Techninės apsaugos priemonės
 
 1. Autorių teisių, gretutinių teisių ir sui generis teisių subjektai šiame Įstatyme nustatytoms teisėms įgyvendinti arba apsaugoti gali naudoti veiksmingas technines apsaugos priemones (bet kokią technologiją, įtaisus ar jų sudedamąsias dalis), skirtas normaliai veikiant uždrausti arba riboti su autorių teisių, gretutinių teisių ar sui generis teisių objektais atliekamus veiksmus, kurių neleidžia autorių teisių, gretutinių teisių ar sui generis teisių subjektai.
 
@@ -274,7 +274,7 @@ Autorių teisių, gretutinių teisių ar *sui generis*teisių pažeidimu laikomi
 
 6. Šio straipsnio 3 ir 4 dalys taip pat taikomos techninėms apsaugos priemonėms, kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo 75 straipsnio 1 dalyje nurodytais teisių apribojimais ir kurias savanoriškai taiko autorių teisių, gretutinių teisių ir sui generis teisių subjektai.
 
-\#### 75 straipsnis. Techninių apsaugos priemonių taikymo apribojimai
+## 75 straipsnis. Techninių apsaugos priemonių taikymo apribojimai
 
 1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo 20 straipsnio 1 dalyje, 22 straipsnio 1 dalies 1 ir 2 punktuose, 23 straipsnio 1 dalyje, 27 straipsnyje, 29 straipsnio 1 dalies 2 punkte, 58 straipsnio 1 dalies 4, 5, 6, 7, 8 punktuose ir 2 dalyje ir 63 straipsnio 1 dalyje, teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų.
 
@@ -284,11 +284,11 @@ Autorių teisių, gretutinių teisių ar *sui generis*teisių pažeidimu laikomi
 
 4. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektai nesiima priemonių (pvz., nesuteikia dekodavimo prietaisų, nesudaro sutarčių su teisių naudotojais ir kitų), kurios sudarytų sąlygas pasinaudoti šio straipsnio 1 dalyje nurodytais teisių apribojimais, teisių naudotojai, turintys teisę gauti nekomercinės naudos iš šių apribojimų, gali kreiptis į Tarybą prašydami tarpininkauti šiame ginče. Tarpininkas (tarpininkai) teikia pasiūlymus ir padeda šalims susitarti. Jeigu šalys nesutinka su tarpininko (tarpininkų) pasiūlymu, ginčą sprendžia Vilniaus apygardos teismas.
 
-\#### 76 straipsnis. Informacijos apie teisių valdymą pažeidimas
+## 76 straipsnis. Informacijos apie teisių valdymą pažeidimas
 
 Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos apie teisių valdymą panaikinimas ar pakeitimas be teisių subjektų leidimo, taip pat autorių teisių, gretutinių teisių ir *sui generis*teisių objektų, kuriuose be leidimo panaikinta ar pakeista informacija apie teisių valdymą, platinimas, importavimas platinimo tikslais, transliavimas, viešas paskelbimas arba padarymas viešai prieinamais, kai asmuo tai daro žinodamas arba turėdamas žinoti, kad šiais veiksmais jis skatina, leidžia, palengvina ar slepia šiame Įstatyme saugomų teisių pažeidimą.
 
-\#### 77 straipsnis. Teisių gynimo būdai
+## 77 straipsnis. Teisių gynimo būdai
 
 1. Autorių teisių, gretutinių teisių ir sui generis teisių subjektai, gindami savo teises, išimtinių licencijų licenciatai, gindami jiems suteiktas teises, taip pat kolektyvinio teisių administravimo asociacijos, gindamos administruojamas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti:
 
@@ -312,13 +312,13 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 
 3. Kai asmens, kuriam priimamas įpareigojimas nutraukti neteisėtus veiksmus ar taikomos 82 straipsnyje nurodytos atkuriamosios priemonės, veiksmuose dėl šio Įstatymo saugomų teisių pažeidimo nėra kaltės, teismas šio asmens prašymu gali įpareigoti jį sumokėti nukentėjusiai šaliai piniginę kompensaciją, jeigu taikant šio straipsnio 1 dalyje nurodytus gynimo budus atsirastų neproporcingai didelė žala tam asmeniui ir jeigu piniginė kompensacija nukentėjusiai šaliai yra priimtina ir pakankama. Laikoma, kad piniginę kompensaciją sumokėjęs asmuo įgyja teisę naudoti kūrinį, gretutinių teisių ar sui generis teisių objektą.
 
-\#### 78 straipsnis. Teisė reikalauti taikyti tarpininkui draudimus
+## 78 straipsnis. Teisė reikalauti taikyti tarpininkui draudimus
 
 1. Autorių teisių, gretutinių teisių ir sui generis teisių subjektai, gindami savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti tarpininkui teikti elektroninių ryšių tinklais paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami autorių teises, gretutines teises ar sui generis teises. Draudimas teikti šias paslaugas apima su autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu susijusios informacijos perdavimo sustabdymą arba, jei tarpininkas techniškai gali atlikti, tokios informacijos pašalinimą, arba prieigos prie autorių teises, gretutines teises ar sui generis teises pažeidžiančios informacijos panaikinimą.
 
 2. Šio straipsnio 1 dalyje nurodytu tarpininku laikomas fizinis arba juridinis asmuo, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialą ar atstovybę, teikiantis elektroninių ryšių tinklais paslaugas, kurias sudaro trečiųjų asmenų pateiktos informacijos perdavimas elektroninių ryšių tinklais arba galimybės naudotis elektroninių ryšių tinklais suteikimas ir (arba) pateiktos informacijos saugojimas.
 
-\#### 79 straipsnis. Teisė gauti informaciją
+## 79 straipsnis. Teisė gauti informaciją
 
 1. Nagrinėdamas bylą dėl šio Įstatymo saugomų teisių pažeidimo, teismas, remdamasis pagrįstu ir laikantis proporcingumo principo parengtu ieškovo prašymu, teismo proceso metu gali įpareigoti asmenis nedelsiant pateikti informaciją apie kūrinių, kitų šio Įstatymo saugomų teisių objektų kopijų, prekių ir paslaugų, pažeidžiančių autorių teises, gretutines teises ar sui generis teises, kilmę ir platinimo būdus, ypač:
 
@@ -330,13 +330,13 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 
 2. Pateikti šioje dalyje nurodytą informaciją, kiek tai neprieštarauja nuostatoms dėl parodymų prieš save, savo šeimos narius ar artimuosius giminaičius davimo ir dėl informacijos šaltinių arba asmens duomenų tvarkymo slaptumo, gali būti įpareigoti šio Įstatymo saugomų teisių pažeidėjai, kiti asmenys, kurie turi komerciniais tikslais savo žinioje šio Įstatymo saugomas teises pažeidžiančias kūrinių, kitų saugomų teisių objektų kopijas ir prekes, kurie komerciniais tikslais naudojasi šio Įstatymo saugomas teises pažeidžiančiomis paslaugomis arba kurie komerciniais tikslais teikia paslaugas, kurias tretieji asmenys naudoja darydami šio Įstatymo saugomų teisių pažeidimą, taip pat tie, kurie tokių asmenų nurodymu dalyvauja gaminant ar platinant šio Įstatymo saugomas teises pažeidžiančias kūrinių, kitų saugomų teisių objektų kopijas, prekes arba teikiant šio Įstatymo nustatytas teises pažeidžiančias paslaugas.
 
-\#### 80 straipsnis. Įrodymai
+## 80 straipsnis. Įrodymai
 
 1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali iš priešingos šalies išreikalauti šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas.
 
 2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio 1 dalyje nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti ir banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais.
 
-\#### 81 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės
+## 81 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės
 
 1. Kai yra pakankamas pagrindas įtarti, kad buvo padarytas autorių teisių, gretutinių teisių ar sui generis teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra:
 
@@ -372,7 +372,7 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 
 8. Visais kitais su laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymu susijusiais klausimais, kurie nereglamentuoti šiame straipsnyje, taikomos Civilinio proceso kodekso normos.
 
-\#### 82 straipsnis. Atkuriamosios priemonės
+## 82 straipsnis. Atkuriamosios priemonės
 
 1. Šio Įstatymo 77 straipsnio 1 dalyje nurodyti asmenys turi teisę kreiptis į teismą ir reikalauti atšaukti, išimti iš apyvartos kūrinių, kitų šio Įstatymo saugomų objektų kopijas, prekes taip, kad teisių turėtojui nebūtų padaryta žala ir būtų užtikrinta jo teisių apsauga (pvz., perdirbti į kitas prekes ar taikyti panašias priemones), ar sunaikinti kopijas ir prekes, kurias teismas nustatė kaip pažeidžiančias šio Įstatymo saugomas teises, o prireikus – ir priemones bei įrangą, daugiausia naudojamas nurodytiems objektams sukurti ar gaminti.
 
@@ -380,7 +380,7 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 
 3. Kai šio straipsnio 1 dalyje nurodytos priemonės gali būti taikomos asmeniui, kurio veiksmuose nėra kaltės dėl šio Įstatymo saugomų teisių pažeidimo, teismas šio asmens prašymu gali taikyti šio Įstatymo 77 straipsnio 3 dalyje numatytą alternatyvią priemonę, jeigu ši priemonė nukentėjusiai šaliai yra priimtina ir pakankama.
 
-\#### 83 straipsnis. Turtinės žalos atlyginimas. Kompensacija
+## 83 straipsnis. Turtinės žalos atlyginimas. Kompensacija
 
 1. Turtinės žalos atlyginimo tvarką reglamentuoja Civilinis kodeksas ir šis Įstatymas.
 
@@ -396,15 +396,15 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 
 5. Kai pažeidėjas atlieka veiksmus nežinodamas ir neturėdamas žinoti, kad jis pažeidžia šio Įstatymo saugomas teises (tai yra jo veiksmuose nėra kaltės), teismas autorių teisių, gretutinių teisių ar sui generis teisių subjekto reikalavimu gali išreikalauti pažeidėjo gautą naudą. Pažeidėjo gauta nauda laikoma visa tai, ką pažeidėjas sutaupė ir (ar) gavo pažeisdamas šio Įstatymo saugomas teises. Pažeidėjo gauta nauda nustatoma ir išieškoma neatsižvelgiant į tai, ar pats teisių subjektas tokią naudą, kokią gavo pažeidėjas, būtų gavęs, ar ne. Nustatant pažeidėjo gautą naudą, teisių subjektas turi pateikti tik tuos įrodymus, kurie patvirtintų pažeidėjo gautas bendras pajamas; kokia yra pažeidėjo grynoji nauda (nauda, atskaičius išlaidas), turi įrodyti pats pažeidėjas.
 
-\#### 84 straipsnis. Neturtinės žalos atlyginimas
+## 84 straipsnis. Neturtinės žalos atlyginimas
 
 Šio Įstatymo 14 ir 52 straipsniuose nurodytas autorių ar atlikėjų asmenines neturtines teises pažeidęs asmuo privalo atlyginti neturtinę žalą. Šios žalos dydį pinigais nustato teismas vadovaudamasis Civilinio kodekso normomis, reglamentuojančiomis neturtinės žalos atlyginimą.
 
-\#### 85 straipsnis. Teismo sprendimo paskelbimas
+## 85 straipsnis. Teismo sprendimo paskelbimas
 
 Sprendimą dėl šio Įstatymo saugomų teisių pažeidimo priimantis teismas šio Įstatymo 77 straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją savo lėšomis paskelbti informaciją apie priimtą sprendimą, įskaitant viso ar dalies sprendimo paskelbimą visuomenės informavimo priemonėse ar kitokiu būdu. Teismo sprendimas arba informacija apie priimtą teismo sprendimą gali būti paskelbta po teismo sprendimo įsiteisėjimo, jeigu teismas nenustato kitaip. Teismo sprendimo paskelbimo būdas ir kiek skelbti nustatoma pačiame sprendime. Autorių teisių, gretutinių teisių ar *sui generis*teisių subjektas gali reikalauti, kad pažeidėjas iš anksto sumokėtų į teismo nurodytą sąskaitą pinigų sumą, reikalingą informacijai apie priimtą teismo sprendimą ar teismo sprendimui paskelbti.
 
-\#### 86 straipsnis. Kolektyvinio administravimo asociacijų ieškiniai dėl atstovaujamų autorių teisių ar gretutinių teisių subjektų interesų
+## 86 straipsnis. Kolektyvinio administravimo asociacijų ieškiniai dėl atstovaujamų autorių teisių ar gretutinių teisių subjektų interesų
 
 1. Kolektyvinio administravimo asociacijos dėl atstovaujamų autorių teisių ar gretutinių teisių subjektų interesų be atskiro šių subjektų įgaliojimo turi teisę išieškoti atlyginimą iš kūrinių ar gretutinių teisių objektų naudotojų, kurie be kolektyvinio administravimo asociacijų licencijos ar nemokėdami atlyginimo teisių turėtojams naudoja kūrinius ar gretutinių teisių objektus.
 
@@ -414,15 +414,15 @@ Sprendimą dėl šio Įstatymo saugomų teisių pažeidimo priimantis teismas š
 
 4. Visą išieškotą atlyginimą kolektyvinio administravimo asociacija savo įstatų ir atlyginimo mokėjimo taisyklių nustatyta tvarka paskirsto ir sumoka autoriams ar gretutinių teisių subjektams.
 
-\#### 87 straipsnis. Administracinė ir baudžiamoji atsakomybė
+## 87 straipsnis. Administracinė ir baudžiamoji atsakomybė
 
 Administracinę ir baudžiamąją atsakomybę už autorių teisių, gretutinių teisių ir *sui generis*teisių pažeidimus nustato atitinkamai Administracinių teisės pažeidimų kodeksas ir Baudžiamasis kodeksas.
 
-\#### 88 straipsnis. Muitinės priežiūros priemonių taikymas
+## 88 straipsnis. Muitinės priežiūros priemonių taikymas
 
 Neteisėtoms kūrinių, kitų šio Įstatymo saugomų objektų kopijoms, šio Įstatymo saugomas teises pažeidžiančioms prekėms, kurios importuojamos iš trečiųjų valstybių į Lietuvos Respubliką arba iš jos eksportuojamos į trečiąsias valstybes, gali būti taikomos Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatytos muitinės priežiūros priemonės.“
 
-\#### 27 straipsnis. Įstatymo priedo papildymas
+## 27 straipsnis. Įstatymo priedo papildymas
 
 1. Papildyti Įstatymo priedą 7 punktu:
 

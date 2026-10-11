@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.31610DD31C28"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.31610DD31C28.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 2, 15 ir 16 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1995, Nr. [59-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D); 2001, Nr. [112-4084](https://www.e-tar.lt/portal/lt/legalAct/TAR.77D0D5A1C96D); 2004, Nr. [32-1006](https://www.e-tar.lt/portal/lt/legalAct/TAR.4EBC2479335E))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Zonoje, suderinus su Muitinės departamentu prie Finansų ministerijos, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 1992 m. spalio 12 d. Tarybos reglamente (EEB) Nr. 2913/92, nustatančiame Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos reglamente (EEB) Nr. 2454/93, išdėstančiame Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, Lietuvos Respublikos muitinės įstatyme ir kituose teisės aktuose.“
 
-\#### 2 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 6) pridėtinės vertės mokestį, akcizą, cukraus mokestį, prekių apyvartos mokestį – šiuos mokesčius reglamentuojančių teisės aktų nustatyta tvarka ir atvejais.“
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 Laisvųjų ekonominių zonų laisvosios teritorijos 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/93, išdėstančio Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, ir Muitinės įstatymo požiūriu laikomos laisvosiomis zonomis.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.77946819D793"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77946819D793.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7, 8, 17 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [64-2323](https://www.e-tar.lt/portal/lt/legalAct/TAR.03EBC0E3CBDD), Nr. [85-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B), Nr. [99-3519](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFE120E0C90), Nr. [110-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BB7B6C28341); 2002, Nr. [43-1604](https://www.e-tar.lt/portal/lt/legalAct/TAR.348B9DD92898), Nr. [96-4171](https://www.e-tar.lt/portal/lt/legalAct/TAR.31FC2C50CC5D), Nr. [103-4605](https://www.e-tar.lt/portal/lt/legalAct/TAR.A88DB35EF35C), Nr. [112-4976](https://www.e-tar.lt/portal/lt/legalAct/TAR.BBF0762214AC); 2003, Nr. [17-704](https://www.e-tar.lt/portal/lt/legalAct/TAR.182DFEB57DD1), Nr. [28-1124](https://www.e-tar.lt/portal/lt/legalAct/TAR.9490DA782C64), Nr. [42-1918](https://www.e-tar.lt/portal/lt/legalAct/TAR.6A8CE90C63FE), Nr. [73-3357](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6287A13797B), Nr. [104-4636](https://www.e-tar.lt/portal/lt/legalAct/TAR.78C3401CE39C), Nr. [115-5193](https://www.e-tar.lt/portal/lt/legalAct/TAR.606D000CCCE9); 2004, Nr. [134-4839](https://www.e-tar.lt/portal/lt/legalAct/TAR.C24E0804F54C))
 
-\#### 1 straipsnis. 7 straipsnio papildymas 28 punktu
+## 1 straipsnis. 7 straipsnio papildymas 28 punktu
 
 Papildyti 7 straipsnį 28 punktu:
 
 „28) savivaldybėms priskirtas triukšmo prevencijos ir valstybinio triukšmo valdymo įgyvendinimas.“
 
-\#### 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 8 straipsnį nauju 30 punktu:
 
@@ -42,7 +42,7 @@ Papildyti 7 straipsnį 28 punktu:
 
 2. Buvusį 8 straipsnio 30 punktą laikyti 31 punktu.
 
-\#### 3 straipsnis. 17 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 17 straipsnio papildymas ir pakeitimas
 
 1. 17 straipsnio 21 punkte prieš žodį „įmonių“ įrašyti žodį „kontroliuojamų“, žodžius „specialios paskirties bendrovių“ išbraukti ir šį punktą išdėstyti taip:
 

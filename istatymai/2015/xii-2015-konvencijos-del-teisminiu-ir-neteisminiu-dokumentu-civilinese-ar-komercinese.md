@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/52183da08e0111e5a6f4e928c954d72b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.52183DA08E01.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konvencijos dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje ratifikavimo įstatymo Nr. VIII-1670 2 straipsnio pakeitimo įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.091D9E04333D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.091D9E04333D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 20 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2011, Nr. [62-2936](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291); 2013, Nr. [12-560](https://www.e-tar.lt/portal/lt/legalAct/TAR.E1002166FF8C))
 
-\#### 1 straipsnis. 20 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 20 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 20 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 4. Buvusias 20 straipsnio 8–13 dalis laikyti atitinkamai 10–15 dalimis.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. liepos 1 d.
 

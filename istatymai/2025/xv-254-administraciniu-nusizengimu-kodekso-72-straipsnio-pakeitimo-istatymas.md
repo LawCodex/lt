@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1ddecf524ab611f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1DDECF524AB6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 72 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 72 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 72 straipsnio pakeitimas
+## 1 straipsnis. 72 straipsnio pakeitimas
 
 1. Pakeisti 72 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.“
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. rugpjūčio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6BC5939564C6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6BC5939564C6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos" įgyvendinimo įstatymo 1 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [65-1878](https://www.e-tar.lt/portal/lt/legalAct/TAR.704E4C70F6C8))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 

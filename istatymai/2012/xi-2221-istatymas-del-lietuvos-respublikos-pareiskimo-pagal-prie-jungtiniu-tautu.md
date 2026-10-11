@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FBC3CFE05455"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FBC3CFE05455.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos pareiškimo pagal prie Jungtinių Tautų chartijos pridėto Tarptautinio Teisingumo Teismo statuto 36 straipsnio 2 dalį dėl privalomosios Tarptautinio Teisingumo Teismo jurisdikcijos pripažinimo
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS Į S T A T Y M A S DĖL LIETUVOS RESPUBLIKOS PAREIŠKIMO PA
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos pareiškimas
+## 1 straipsnis. Lietuvos Respublikos pareiškimas
 
 1. Lietuvos Respublikos Seimas, vadovaudamasis Tarptautinio Teisingumo Teismo (toliau – Teismas) statuto 36 straipsnio 2 dalimi, pareiškia, kad Lietuvos Respublika pripažįsta, be specialaus dėl to sutarimo, ipso facto, Teismo privalomąją jurisdikciją sprendžiant visus teisinius ginčus su bet kuria kita valstybe, prisiėmusia tokį patį įsipareigojimą pagal Teismo statuto 36 straipsnio 2 dalį, tol, kol pranešimu Jungtinių Tautų Generaliniam Sekretoriui šis pareiškimas atšaukiamas ir nustoja galios nuo tokio pranešimo dienos, visiems po šio pareiškimo kilusiems ginčams dėl aplinkybių ir faktų, egzistuojančių po jo padarymo dienos, išskyrus:
 

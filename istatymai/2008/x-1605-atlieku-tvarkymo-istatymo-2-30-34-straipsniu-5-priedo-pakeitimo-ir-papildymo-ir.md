@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DBE45E39FB46"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DBE45E39FB46.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 30, 34 straipsnių, 5 priedo pakeitimo ir papildymo ir Įstatymo papildymo 34(8), 34(9), 34(10), 34(11) straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1726](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1); 2002, Nr. [72-3016](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5E88FF9E5A); 2004, Nr. [73-2544](https://www.e-tar.lt/portal/lt/legalAct/TAR.01BB1CB0D2CF); 2005, Nr. [84-3111](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C4D507335E2))
 
-\#### 1 straipsnis. 2 straipsnio 18, 19, 32 dalių pakeitimas ir straipsnio papildymas 34, 35 dalimis
+## 1 straipsnis. 2 straipsnio 18, 19, 32 dalių pakeitimas ir straipsnio papildymas 34, 35 dalimis
 
 1. Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip:
 
@@ -58,13 +58,13 @@ Vilnius
 
 „35. **Baterijų ar akumuliatorių atliekos –**baterijos ar akumuliatoriai, kurie pagal šio Įstatymo 2 straipsnio 4 dalį yra atliekos.“
 
-\#### 2 straipsnis. 30 straipsnio 3 dalies 4 punkto pakeitimas
+## 2 straipsnis. 30 straipsnio 3 dalies 4 punkto pakeitimas
 
 Pakeisti 30 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) buityje susidarančių pavojingų atliekų (išskyrus baterijų ir akumuliatorių atliekas) atskiro surinkimo priemonėmis. Savivaldybės privalo užtikrinti, kad jų organizuojamos komunalinių atliekų tvarkymo sistemos neatsisakytų priimti baterijų ir akumuliatorių atliekų iš gyventojų.“
 
-\#### 3 straipsnis. 34 straipsnio 3 dalies, 4 dalies 4 punkto ir 5 dalies 3 punkto pakeitimas
+## 3 straipsnis. 34 straipsnio 3 dalies, 4 dalies 4 punkto ir 5 dalies 3 punkto pakeitimas
 
 1. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 30 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
 „3) Tarybą, kuri yra patariamasis organas, sudaro Vyriausybės institucijų, mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokėtojų ar jiems atstovaujančių organizacijų, apmokestinamųjų gaminių ir pakuotės atliekų tvarkytojų ar jiems atstovaujančių organizacijų, pakuočių gamintojų ar jiems atstovaujančių organizacijų, elektros ir elektroninės įrangos gamintojų, importuotojų, atliekų tvarkytojų ar jiems atstovaujančių organizacijų ir Lietuvos savivaldybių asociacijos atstovai. Tarybos sudėtį tvirtina Vyriausybė ar jos įgaliota institucija.“
 
-\#### 4 straipsnis. Įstatymo papildymas 348 straipsniu
+## 4 straipsnis. Įstatymo papildymas 348 straipsniu
 
 Papildyti Įstatymą 34^8 straipsniu:
 
@@ -96,7 +96,7 @@ Papildyti Įstatymą 34^8 straipsniu:
 
 3. Baterijų ir akumuliatorių gamintojai ir importuotojai Ūkio ministerijos nustatyta tvarka privalo ženklinti tiekiamas rinkai baterijas ir akumuliatorius.“
 
-\#### 5 straipsnis. Įstatymo papildymas 349 straipsniu
+## 5 straipsnis. Įstatymo papildymas 349 straipsniu
 
 Papildyti Įstatymą 34^9 straipsniu:
 
@@ -126,7 +126,7 @@ Papildyti Įstatymą 34^9 straipsniu:
 
 9. Baterijų ir akumuliatorių atliekų tvarkymo taisykles, baterijų ir akumuliatorių priskyrimo nešiojamosioms, automobiliams skirtoms, pramoninėms ar kitoms baterijų ir akumuliatorių rūšims tvarką ir reikalavimus nešiojamųjų ir automobiliams skirtų baterijų ir akumuliatorių atliekų surinkimo sistemoms nustato Aplinkos ministerija.“
 
-\#### 6 straipsnis. Įstatymo papildymas 3410 straipsniu
+## 6 straipsnis. Įstatymo papildymas 3410 straipsniu
 
 Papildyti Įstatymą 34^10 straipsniu:
 
@@ -142,7 +142,7 @@ Papildyti Įstatymą 34^10 straipsniu:
 
 2. Parduodant nešiojamąsias baterijas ir akumuliatorius, draudžiama vartotojams atskirai nurodyti nešiojamųjų baterijų ir akumuliatorių atliekų surinkimo, apdorojimo ir perdirbimo išlaidas.“
 
-\#### 7 straipsnis. Įstatymo papildymas 3411 straipsniu
+## 7 straipsnis. Įstatymo papildymas 3411 straipsniu
 
 Papildyti Įstatymą 34^11 straipsniu:
 
@@ -154,7 +154,7 @@ Papildyti Įstatymą 34^11 straipsniu:
 
 2) šio straipsnio 1 punkte nurodytuose gaminiuose ir skrydžiams į kosmosą skirtoje įrangoje naudojamoms baterijoms ir akumuliatoriams.“
 
-\#### 8 straipsnis. Įstatymo 5 priedo pakeitimas
+## 8 straipsnis. Įstatymo 5 priedo pakeitimas
 
 Pakeisti Įstatymo 5 priedą ir jį išdėstyti taip:
 
@@ -184,11 +184,11 @@ atliekų tvarkymo įstatymo
 
 9. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1).“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 4, 5, 6 straipsniai įsigalioja 2008 m. rugsėjo 26 d.
 
-\#### 10 straipsnis. Pasiūlymas Vyriausybei ir kitoms valstybės institucijoms
+## 10 straipsnis. Pasiūlymas Vyriausybei ir kitoms valstybės institucijoms
 
 Vyriausybė ir kitos valstybės institucijos iki 2008 m. rugsėjo 26 d. priima teisės aktus, reikalingus šiam įstatymui įgyvendinti.
 

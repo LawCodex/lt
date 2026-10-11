@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4AD6D16769AB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4AD6D16769AB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 9, 12-1, 13, 14, 15, 25, 28, 31, 40, 46, 53, 58, 68, 71, 71-1, 74, 75, 78, 79, 84, 88-1, 88-2, 91, 95, 116, 117, 118, 119, 121 straipsnių, 2 priedo pakeitimo ir papildymo, XIII skyriaus pavadinimo pakeitimo, 13-1, 91-1 ir 127 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo 119-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5), Nr. [96-4173](https://www.e-tar.lt/portal/lt/legalAct/TAR.B70CF4AB48EF), Nr. [117-5243](https://www.e-tar.lt/portal/lt/legalAct/TAR.1F673E8F0275); 2003, Nr. [13-476](https://www.e-tar.lt/portal/lt/legalAct/TAR.39C37EAD4385), Nr. [69-3120](https://www.e-tar.lt/portal/lt/legalAct/TAR.7CD45370213B), Nr. [32-1310](https://www.e-tar.lt/portal/lt/legalAct/TAR.A37FB25D26F4), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0); 2004, Nr. [17-505](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC724525A9B9), Nr. [117-4370](https://www.e-tar.lt/portal/lt/legalAct/TAR.30D5FF1FB7FC), Nr. [135-4892](https://www.e-tar.lt/portal/lt/legalAct/TAR.1A491D4FCF8B), Nr. [180-6658](https://www.e-tar.lt/portal/lt/legalAct/TAR.21B7FBC28CCB); 2005, Nr. [81-2944](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5DB9720318), Nr. [142-5109](https://www.e-tar.lt/portal/lt/legalAct/TAR.26754F4C874B); 2006, Nr. [137-5203](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D53ED7683B5); 2007, Nr. [80-3222](https://www.e-tar.lt/portal/lt/legalAct/TAR.889843654683), Nr. [117-4774](https://www.e-tar.lt/portal/lt/legalAct/TAR.64481CF20A89), Nr. [125-5091](https://www.e-tar.lt/portal/lt/legalAct/TAR.37AB1BB38BD3); 2008, Nr. [149-6034](https://www.e-tar.lt/portal/lt/legalAct/TAR.D7D6EED4EB79); 2009, Nr. [93-3978](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F142A90CA9E))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -194,19 +194,19 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 40. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), Europos Bendrijų muitinės kodekse (toliau – Muitinės kodeksas), taip pat Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), – kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus), tačiau mokesčio administratoriumi šiame Įstatyme vadinama tik Valstybinė mokesčių inspekcija.“
 
-\#### 2 straipsnis. 3 straipsnio 2 dalies 1 punkto pakeitimas
+## 2 straipsnis. 3 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) prekes iš apmokestinamojo asmens, kuris vykdo savo ekonominę veiklą, t. y. veikia kaip toks, ir kuriam netaikomos teisės aktų nuostatos, numatytos 2006 m. lapkričio 28 d. Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos (toliau – Direktyva 2006/112/EB) XII antraštinės dalies 1 skyriuje, įsigyja apmokestinamasis asmuo, kuris sandorį sudaro vykdydamas savo ekonominę veiklą, t. y. veikdamas kaip toks, arba juridinis asmuo, kuris nėra apmokestinamasis asmuo, jeigu šis prekių tiekimas nelaikomas įvykusiu šalies teritorijoje pagal šio Įstatymo 12 straipsnio 2 ar 3 dalies nuostatas;“.
 
-\#### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalyje vietoj žodžių „fizinis asmuo, teisės aktų nustatyta tvarka vykdęs ekonominę veiklą neįsteigęs įmonės (įregistravęs ūkininko ūkį ar kt.), vėliau šią“ įrašyti žodžius „apmokestinamasis asmuo savo vykdomą ekonominę veiklą (ar jos dalį)“, po žodžio „veiklos“ įrašyti žodžius „(ar jos dalies)“ ir šią dalį išdėstyti taip:
 
 „1. Jeigu apmokestinamasis asmuo savo vykdomą ekonominę veiklą (ar jos dalį) kaip kompleksą (t. y. įsigytų ir naudotų šioje veikloje nuosavybės teisės objektų, taip pat kitų su ta veikla susijusių turtinių bei neturtinių teisių, skolų ir kitokių pareigų visumą) perduoda kitam apmokestinamajam asmeniui, tęsiančiam perduodamą veiklą, toks veiklos (ar jos dalies) perdavimas šiame Įstatyme nelaikomas nei prekių tiekimu, nei paslaugų teikimu.“
 
-\#### 4 straipsnis. 121 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 4 straipsnis. 121 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. 121 straipsnio pavadinime po žodžio „tiekimo“ įrašyti žodžius „ir maitinimo paslaugų teikimo“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -216,7 +216,7 @@ Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1. Kai prekės tiekiamos ir (arba) maitinimo paslaugos teikiamos keleivius Europos Bendrijų teritorijoje vežančiuose laivuose, orlaiviuose arba traukiniuose, laikoma, kad prekių tiekimas ir (arba) maitinimo paslaugų teikimas įvyko šalies teritorijoje, jeigu keleivių vežimo maršruto ar jo dalies pradžia yra šalies teritorijoje.“
 
-\#### 5 straipsnis. 13 straipsnio pakeitimas
+## 5 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -296,11 +296,11 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 17. Neatsižvelgiant į šio straipsnio 2 dalį, nestandartinės programinės įrangos kūrimo, pardavimo ir kitokio perdavimo paslaugos laikomos suteiktomis šalies teritorijoje ir tuo atveju, kai jas asmeniui, kuris nėra apmokestinamasis asmuo, kurio buveinė (jeigu tai ne fizinis asmuo) arba nuolatinė gyvenamoji vieta (jeigu tai fizinis asmuo) yra Lietuvos Respublikoje, teikia įsikūręs už Europos Bendrijų teritorijos ribų asmuo arba kai paslauga teikiama per padalinį, esantį už Europos Bendrijų teritorijos ribų, o suteikta paslauga faktiškai naudojamasi šalies teritorijoje.“
 
-\#### 6 straipsnis. 131 straipsnio pripažinimas netekusiu galios
+## 6 straipsnis. 131 straipsnio pripažinimas netekusiu galios
 
 13^1 straipsnį pripažinti netekusiu galios.
 
-\#### 7 straipsnis. 14 straipsnio 3, 4 ir 6 dalių pakeitimas
+## 7 straipsnis. 14 straipsnio 3, 4 ir 6 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -326,13 +326,13 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 3) kito po ataskaitinio laikotarpio mėnesio paskutinę dieną, jeigu iki šios dienos neįvyko nė vienas iš šios dalies 1 ir 2 punktuose nurodytų įvykių.“
 
-\#### 8 straipsnis. 15 straipsnio 14 dalies pakeitimas
+## 8 straipsnis. 15 straipsnio 14 dalies pakeitimas
 
 15 straipsnio 14 dalyje po žodžio „Kai“ įrašyti žodžius „asmenims, kurie nėra apmokestinamieji asmenys, kaip jie suprantami šio Įstatymo 13 straipsnyje“ ir šią dalį išdėstyti taip:
 
 „14. Kai asmenims, kurie nėra apmokestinamieji asmenys, kaip jie suprantami šio Įstatymo 13 straipsnyje, teikiamos prekių vežimo tarp valstybių narių paslaugos ir dalis vežimo maršruto eina per Europos Bendrijų teritorijai nepriklausančius vandenis, apmokestinamoji paslaugos vertė sumažinama dalimi, proporcinga tai maršruto daliai visame maršrute.“
 
-\#### 9 straipsnis. 25 straipsnio pakeitimas
+## 9 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -342,19 +342,19 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 2. Šio straipsnio nuostatos netaikomos universaliųjų pašto paslaugų teikėjo teikiamoms pašto paslaugoms ir su jomis susijusioms tiekiamoms prekėms, kurių teikimo (tiekimo) sąlygos buvo suderėtos individualiai.“
 
-\#### 10 straipsnis. 28 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 28 straipsnio 1 dalies pakeitimas
 
 28 straipsnio 1 dalyje po žodžio „teikimas“ įrašyti žodžius „tarpininkavimo paslaugos dėl paskolos suteikimo“ ir šią dalį išdėstyti taip:
 
 „1. PVM neapmokestinamas paskolų teikimas, tarpininkavimo paslaugos dėl paskolos suteikimo, taip pat suteiktos paskolos priežiūra, jeigu ją vykdo tą paskolą suteikęs apmokestinamasis asmuo.“
 
-\#### 11 straipsnis. 31 straipsnio 1 dalies 1 punkto pakeitimas
+## 11 straipsnis. 31 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 31 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) viešbučių, motelių, kempingų ir panašios apgyvendinimo paslaugos;“.
 
-\#### 12 straipsnis. 40 straipsnio 1, 4 ir 6 dalių pakeitimas
+## 12 straipsnis. 40 straipsnio 1, 4 ir 6 dalių pakeitimas
 
 1. 40 straipsnio 1 dalies 24 punkte vietoj žodžių „kurių muitinė“ įrašyti žodžius „jeigu bendra tokių prekių“ ir šį punktą išdėstyti taip:
 
@@ -378,7 +378,7 @@ Pakeisti 31 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „6. Importo PVM neapmokestinamos importuojamos Lietuvoje surenkamos arba instaliuojamos prekės, už kurias PVM pagal šio Įstatymo 95 straipsnio 3 dalies 2 punkto nuostatas privalo apskaičiuoti ir sumokėti į biudžetą šių prekių pirkėjas, jeigu jis yra PVM mokėtojas.“
 
-\#### 13 straipsnis. 46 straipsnio pakeitimas
+## 13 straipsnis. 46 straipsnio pakeitimas
 
 46 straipsnyje vietoj žodžio „straipsnyje“ įrašyti žodžius ir skaičius „straipsnio 1–5 dalyse“ ir šį straipsnį išdėstyti taip:
 
@@ -386,25 +386,25 @@ Pakeisti 31 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat finansinės paslaugos, nurodytos šio Įstatymo 28 straipsnio 1–5 dalyse, kai šios draudimo ar finansinės paslaugos tiesiogiai susijusios su prekių, nenurodytų šio Įstatymo IV skyriuje, eksportu iš Europos Bendrijų teritorijos.“
 
-\#### 14 straipsnis. 53 straipsnio papildymas 10 dalimi
+## 14 straipsnis. 53 straipsnio papildymas 10 dalimi
 
 Papildyti 53 straipsnį 10 dalimi:
 
 „10. Taikant 0 procentų PVM tarifą apmokestinamas prekių, kurioms buvo įforminta muitinio sandėliavimo procedūra, tiekimas, kai tiekiamos prekės yra importuojamos ir tai yra pagrindas atsirasti prievolei apskaičiuoti importo PVM šalies teritorijoje.“
 
-\#### 15 straipsnis. 58 straipsnio 1 dalies 2 punkto pakeitimas
+## 15 straipsnis. 58 straipsnio 1 dalies 2 punkto pakeitimas
 
 58 straipsnio 1 dalies 2 punkte vietoj žodžio „straipsnyje“ įrašyti žodžius ir skaičius „straipsnio 1–5 dalyse“ ir šį punktą išdėstyti taip:
 
 „2) prekių tiekimui ir (arba) paslaugų teikimui už šalies teritorijos ribų tuo atveju, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje. Ši sąlyga netaikoma, jeigu už Europos Bendrijų teritorijos ribų suteiktos draudimo ir (arba) šio Įstatymo 28 straipsnio 1–5 dalyse nurodytos finansinės paslaugos.“
 
-\#### 16 straipsnis. 68 straipsnio 2 dalies pakeitimas
+## 16 straipsnis. 68 straipsnio 2 dalies pakeitimas
 
 68 straipsnio 2 dalyje vietoj žodžio „fizinio“ įrašyti „apmokestinamojo“, po žodžio „veikla“ įrašyti žodžius „(ar jos dalis)“, išbraukti žodžius „teisės aktų nustatyta tvarka vykdyta neįsteigus įmonės (įregistravus ūkininko ūkį ar pan.)“ ir „(paveldėjimo ar kitu būdu)“ ir šią dalį išdėstyti taip:
 
 „2. Kai apmokestinamojo asmens PVM mokėtojo ekonominė veikla (ar jos dalis) kaip kompleksas perduodama kitam apmokestinamajam asmeniui, kuris yra PVM mokėtojas, laikoma, kad su tuo susijusių nuosavybės teisės objektų perėmėjas jų (o jeigu jie buvo pasigaminti, – jiems pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM arba jo dalį įtraukė į savo PVM atskaitą ir jam tenka prievolės tikslinti PVM atskaitą šiame skyriuje nustatyta tvarka.“
 
-\#### 17 straipsnis. 71 straipsnio 1 dalies, 3 dalies 3 punkto pakeitimas ir straipsnio papildymas 12 dalimi
+## 17 straipsnis. 71 straipsnio 1 dalies, 3 dalies 3 punkto pakeitimas ir straipsnio papildymas 12 dalimi
 
 1. 71 straipsnio 1 dalyje išbraukti žodžius „šalies teritorijoje įsikūrusiam“ ir šią dalį išdėstyti taip:
 
@@ -418,7 +418,7 @@ Papildyti 53 straipsnį 10 dalimi:
 
 „12. Valdymo įmonė, valdanti investicinį fondą, atsako už jos valdomo investicinio fondo mokestinių prievolių, susijusių su PVM, vykdymą.“
 
-\#### 18 straipsnis. 711 straipsnio pavadinimo, 1, 5 dalių pakeitimas ir straipsnio papildymas 9 dalimi
+## 18 straipsnis. 711 straipsnio pavadinimo, 1, 5 dalių pakeitimas ir straipsnio papildymas 9 dalimi
 
 1. 711 straipsnio pavadinime po žodžio „įsigyjančių“ įrašyti žodžius „taip pat paslaugas iš užsienio apmokestinamųjų asmenų įsigyjančių ar paslaugas kitoje valstybėje narėje teikiančių“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -448,7 +448,7 @@ c) juridinis asmuo, kuris nėra apmokestinamasis asmuo;
 
 „9. Neatsižvelgiant į šio straipsnio 1 dalies nuostatas, apmokestinamajam asmeniui, įsiregistravusiam PVM mokėtoju, tačiau tenkinančiam šio straipsnio 1 dalies 1 punkto b papunkčio ir 2 punkto sąlygas (išskyrus šio Įstatymo 71 straipsnio 2 dalyje nurodytus asmenis), neprivaloma skaičiuoti PVM už iš kitos valstybės narės įsigyjamas prekes (išskyrus naujas transporto priemones ar akcizais apmokestinamas prekes) ir jo mokėti į biudžetą, išskyrus tuos atvejus, jeigu šis apmokestinamasis asmuo įsigydamas iš kitos valstybės narės prekes nurodė savo PVM mokėtojo kodą. PVM mokėtojo kodo nurodymas įsigyjant prekes iš kitos valstybės narės laikomas pasirinkimu skaičiuoti ir mokėti į biudžetą PVM už įsigyjamas iš kitų valstybių narių prekes ir šis pasirinkimas galioja ne trumpiau nei 24 mėnesius visiems jo sudaromiems sandoriams. Savo pasirinkimą apmokestinamasis asmuo privalo deklaruoti centrinio mokesčio administratoriaus nustatyta tvarka.“
 
-\#### 19 straipsnis. 74 straipsnio pakeitimas
+## 19 straipsnis. 74 straipsnio pakeitimas
 
 74 straipsnyje po žodžio „asmeniui“ įrašyti žodžius „ar asmeniui, kuris nėra apmokestinamasis asmuo“ ir šį straipsnį išdėstyti taip:
 
@@ -456,7 +456,7 @@ c) juridinis asmuo, kuris nėra apmokestinamasis asmuo;
 
 PVM mokėtoju įregistruotam apmokestinamajam asmeniui ar asmeniui, kuris nėra apmokestinamasis asmuo, suteikiamas PVM mokėtojo kodas, kurio sudarymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 20 straipsnis. 75 straipsnio pakeitimas ir papildymas
+## 20 straipsnis. 75 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 75 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -470,7 +470,7 @@ PVM mokėtoju įregistruotam apmokestinamajam asmeniui ar asmeniui, kuris nėra 
 
 „4. Vietos mokesčio administratoriaus iniciatyva iš PVM mokėtojų gali būti išregistruojami PVM mokėtojai, kurie, mokesčio administratoriaus duomenimis, nevykdo ekonominės veiklos, neįsigyja prekių iš kitų valstybių narių, neįsigyja paslaugų iš užsienio apmokestinamųjų asmenų ar kitoje valstybėje narėje neteikia paslaugų.“
 
-\#### 21 straipsnis. 78 straipsnio 4 dalies pripažinimas netekusia galios ir 7 dalies pakeitimas
+## 21 straipsnis. 78 straipsnio 4 dalies pripažinimas netekusia galios ir 7 dalies pakeitimas
 
 1. 78 straipsnio 4 dalį pripažinti netekusia galios.
 
@@ -478,7 +478,7 @@ PVM mokėtoju įregistruotam apmokestinamajam asmeniui ar asmeniui, kuris nėra 
 
 „7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo saugoti dokumentus tokios formos (rašytinės ar elektroninės), kokios jie buvo išrašyti ar gauti, ir užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi, tačiau tais atvejais, kai tiekiamos prekės ar teikiamos paslaugos, nurodytos šio Įstatymo 14 straipsnio 6 dalyje, apmokestinamųjų asmenų išsiųstos rašytinės formos PVM sąskaitos faktūros gali būti saugomos tik elektronine forma. Jeigu PVM sąskaitos faktūros yra elektroninės formos, kartu turi būti saugomi ir duomenys, užtikrinantys kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma 2008 m. gegužės 26 d. Tarybos direktyva 2008/55/EB dėl tarpusavio pagalbos vykdant reikalavimus, susijusius su tam tikromis rinkliavomis, muitais, mokesčiais ir kitomis priemonėmis (kodifikuota redakcija), ir 2003 m. spalio 7 d. Tarybos reglamentas 1798/2003 dėl administracinio bendradarbiavimo pridėtinės vertės mokesčio srityje.“
 
-\#### 22 straipsnis. 79 straipsnio 1 dalies 1 punkto, 2 ir 8 dalių pakeitimas
+## 22 straipsnis. 79 straipsnio 1 dalies 1 punkto, 2 ir 8 dalių pakeitimas
 
 1. Pakeisti 79 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -492,13 +492,13 @@ PVM mokėtoju įregistruotam apmokestinamajam asmeniui ar asmeniui, kuris nėra 
 
 „8. Jeigu pageidaujama, kad prekių tiekimą ar paslaugų teikimą įforminančias PVM sąskaitas faktūras prekių tiekėjo ar paslaugų teikėjo vardu išrašytų pirkėjas ar trečiasis asmuo, įsikūręs teritorijoje, kurioje netaikomos 2008 m. gegužės 26 d. Tarybos direktyvos 2008/55/EB dėl tarpusavio pagalbos vykdant reikalavimus, susijusius su tam tikromis rinkliavomis, muitais, mokesčiais ir kitomis priemonėmis (kodifikuota redakcija), ir 2003 m. spalio 7 d. Tarybos reglamento 1798/2003 dėl administracinio bendradarbiavimo pridėtinės vertės mokesčio srityje nuostatos, centrinis mokesčio administratorius turi teisę nustatyti papildomas sąlygas ir reikalavimus, kuriuos įvykdžius toks prekių tiekimo ar paslaugų teikimo įforminimas yra galimas.“
 
-\#### 23 straipsnis. 84 straipsnio 7 dalies pakeitimas
+## 23 straipsnis. 84 straipsnio 7 dalies pakeitimas
 
 Pakeisti 84 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. PVM mokėtojams, kurie įsigyja prekes iš kitų valstybių narių ir paslaugas, kurias šalies teritorijoje teikia kitos valstybės narės PVM mokėtojai ir už kurias šių paslaugų pirkėjai šio Įstatymo 95 straipsnio 2 dalyje nustatyta tvarka privalo apskaičiuoti ir sumokėti į biudžetą PVM, šio straipsnio 2–6 dalių nuostatos netaikomos.“
 
-\#### 24 straipsnis. 881 straipsnio pakeitimas
+## 24 straipsnis. 881 straipsnio pakeitimas
 
 Pakeisti 88^1 straipsnį ir jį išdėstyti taip:
 
@@ -510,7 +510,7 @@ Pakeisti 88^1 straipsnį ir jį išdėstyti taip:
 
 3. Prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitos formą, reikalaujamus joje pateikti duomenis, ataskaitos užpildymo ir pateikimo tvarką nustato centrinis mokesčio administratorius.“
 
-\#### 25 straipsnis. 882 straipsnio pakeitimas
+## 25 straipsnis. 882 straipsnio pakeitimas
 
 88^2 straipsnio pavadinime vietoj žodžio „pateikimas“ įrašyti žodį „teikimas“, straipsnyje po žodžio „tiekimo“ įrašyti žodžius „ir (arba) paslaugų teikimo“, vietoj žodžio „pateikiamos“ įrašyti žodį „teikiamos“ ir šį straipsnį išdėstyti taip:
 
@@ -518,7 +518,7 @@ Pakeisti 88^1 straipsnį ir jį išdėstyti taip:
 
 Šiame Įstatyme numatytos PVM deklaracijos bei prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitos gali būti teikiamos ir elektroninėmis priemonėmis laikantis centrinio mokesčio administratoriaus nustatytų reikalavimų.“
 
-\#### 26 straipsnis. 91 straipsnio pakeitimas
+## 26 straipsnis. 91 straipsnio pakeitimas
 
 Pakeisti 91 straipsnį ir jį išdėstyti taip:
 
@@ -546,11 +546,11 @@ Pakeisti 91 straipsnį ir jį išdėstyti taip:
 
 6. PVM skirtumo grąžinimas ar įskaitymas sustabdomas, kai įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui pateikia duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai yra susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą ir įskaitymą). Jeigu atsisakyta pradėti ikiteisminį tyrimą, ikiteisminis tyrimas arba iškelta baudžiamoji byla nutraukti ar baudžiamojoje byloje įsiteisėja išteisinamasis nuosprendis, PVM skirtumas grąžinamas (įskaitomas) šio ir Mokesčių administravimo įstatymų nustatyta tvarka. Įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui privalo pateikti duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą bei įskaitymą).“
 
-\#### 27 straipsnis. 911 straipsnio pripažinimas netekusiu galios
+## 27 straipsnis. 911 straipsnio pripažinimas netekusiu galios
 
 91^1straipsnį pripažinti netekusiu galios.
 
-\#### 28 straipsnis. 95 straipsnio 1, 2, 3 ir 5 dalių pakeitimas
+## 28 straipsnis. 95 straipsnio 1, 2, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 95 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -580,7 +580,7 @@ Neįsikūrusiais šalies teritorijoje užsienio asmenimis šiame straipsnyje lai
 
 „5. Jeigu šalies teritorijoje neįsikūręs užsienio asmuo šalies teritorijoje vykdo šio straipsnio 2, 3 ir 4 dalyse nenurodytą veiklą ir nėra įsiregistravęs PVM mokėtoju, jo tiekiamų prekių ir (arba) teikiamų paslaugų pirkėjas, jeigu jis yra apmokestinamasis asmuo, už šias užsienio asmens tiekiamas prekes ir (arba) teikiamas paslaugas privalo šiame Įstatyme nustatyta tvarka apskaičiuoti ir sumokėti pardavimo PVM. Šios dalies nuostatos netaikomos tuo atveju, jeigu pirkėjas yra užsienio asmuo, kuris neturi padalinio ir (arba) nėra registruotas PVM mokėtoju šalies teritorijoje.“
 
-\#### 29 straipsnis. XIII skyriaus pavadinimo pakeitimas
+## 29 straipsnis. XIII skyriaus pavadinimo pakeitimas
 
 Pakeisti XIII skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -588,7 +588,7 @@ Pakeisti XIII skyriaus pavadinimą ir jį išdėstyti taip:
 
 PVM GRĄŽINIMAS UŽSIENIO APMOKESTINAMIESIEMS ASMENIMS, TAIP PAT LIETUVOS RESPUBLIKOS APMOKESTINAMŲJŲ ASMENŲ PRAŠYMŲ GRĄŽINTI PVM, SUMOKĖTĄ KITOSE VALSTYBĖSE NARĖSE, PATEIKIMAS“.
 
-\#### 30 straipsnis. 116 straipsnio 2 dalies pakeitimas
+## 30 straipsnis. 116 straipsnio 2 dalies pakeitimas
 
 Papildyti 116 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
@@ -598,7 +598,7 @@ Papildyti 116 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 2) kitoje valstybėje narėje įsikūrusiems užsienio apmokestinamiesiems asmenims.“
 
-\#### 31 straipsnis. 117 straipsnio 1 dalies 1 punkto ir 2 dalies 1 punkto pakeitimas
+## 31 straipsnis. 117 straipsnio 1 dalies 1 punkto ir 2 dalies 1 punkto pakeitimas
 
 1. Pakeisti 117 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -608,7 +608,7 @@ Papildyti 116 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 „1) teikė tik prekių vežimo ir papildomas vežimo paslaugas, kurios pagal šio Įstatymo 43, 45, 47, 52, 53 straipsnių nuostatas būtų apmokestinamos taikant 0 procentų PVM tarifą, ir (arba)“.
 
-\#### 32 straipsnis. 118 straipsnio papildymas ir pakeitimas
+## 32 straipsnis. 118 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 118 straipsnį nauja 3 dalimi:
 
@@ -626,7 +626,7 @@ Papildyti 116 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 3) jeigu prekėms, išgabenamoms iš Europos Bendrijų teritorijos pirkėjo ar jo užsakymu kito asmens, galėjo būti pritaikytos šio Įstatymo 41 straipsnio 2 dalies nuostatos.“
 
-\#### 33 straipsnis. 119 straipsnio papildymas
+## 33 straipsnis. 119 straipsnio papildymas
 
 Papildyti 119 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -636,7 +636,7 @@ Papildyti 119 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Kitose valstybėse narėse įsikūrę apmokestinamieji asmenys, siekiantys susigrąžinti Lietuvos Respublikoje sumokėtą PVM, prašymus grąžinti PVM pateikia per savo įsikūrimo valstybės narės mokesčių administratorių naudodamiesi elektronine PVM grąžinimo sistema, veikiančia kitose valstybėse narėse.“
 
-\#### 34 straipsnis. Įstatymo papildymas 1191 straipsniu
+## 34 straipsnis. Įstatymo papildymas 1191 straipsniu
 
 Papildyti Įstatymą 119^1 straipsniu:
 
@@ -644,17 +644,17 @@ Papildyti Įstatymą 119^1 straipsniu:
 
 Lietuvos Respublikos apmokestinamieji asmenys, siekiantys susigrąžinti kitose valstybėse narėse sumokėtą PVM, į atitinkamos valstybės mokesčių administratorių dėl PVM grąžinimo kreipiasi centrinio mokesčio administratoriaus nustatyta tvarka.“
 
-\#### 35 straipsnis. 121 straipsnio 1 dalies pakeitimas
+## 35 straipsnis. 121 straipsnio 1 dalies pakeitimas
 
 121 straipsnio 1 dalyje išbraukti žodžius ir skaičius „ir 91^1 straipsnio 2 dalyje“ ir šią dalį išdėstyti taip:
 
 „1. Per didelė sumokėta (išieškota) PVM suma grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytą atvejį.“
 
-\#### 36 straipsnis. 127 straipsnio pripažinimas netekusiu galios
+## 36 straipsnis. 127 straipsnio pripažinimas netekusiu galios
 
 127 straipsnį pripažinti netekusiu galios.
 
-\#### 37 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
+## 37 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
 
 1. Įstatymo 2 priedo 2 punktą pripažinti netekusiu galios.
 
@@ -674,7 +674,7 @@ Lietuvos Respublikos apmokestinamieji asmenys, siekiantys susigrąžinti kitose 
 
 „12. 2008 m. gruodžio 16 d. Tarybos direktyva 2008/117/EB, iš dalies keičianti Direktyvą 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos, siekiant kovoti su mokestiniu sukčiavimu, susijusiu su sandoriais Bendrijos viduje (OL 2009 L 14, p. 7).“
 
-\#### 38 straipsnis. Šio įstatymo įsigaliojimas
+## 38 straipsnis. Šio įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 2010 m. sausio 1 d., išskyrus šio įstatymo 5 straipsnyje išdėstyto Pridėtinės vertės mokesčio įstatymo 13 straipsnio 13 dalį.
 

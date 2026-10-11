@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/402a0d40663f11e7b85cfdc787069b42"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.402A0D40663F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 1, 3, 4, 6, 7 straipsnių pakeitimo ir 2 straipsnio bei 6 priedėlio pripažinimo netekusiais galios įstatymas

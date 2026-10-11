@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7ACCD429C6E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7ACCD429C6E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [106-2427](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti 3 straipsnio 2 dalį, papildyti straipsnį 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 3 straipsnio 2 dalį, papildyti straipsnį 3 dalimi ir visą straipsnį
 
 3. Karo prievolininkai, stodami į darbą (tarnybą) valstybės tarnyboje bei policijoje, privalo pateikti karo prievolininko statusą liudijantį karinį dokumentą: kario arba šauktinio liudijimą.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 Pakeisti 4 straipsnio 2 dalį, 3 dalį pripažinti netekusia galios, buvusias 4, 5, 6, 7, 8, 9, 10 dalis laikyti atitinkamai 3, 4, 5, 6, 7, 8, 9 dalimis, pakeisti 3, 5, 6, 7, 8 ir 9 dalis, papildyti straipsnį 10 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -66,13 +66,13 @@ Pakeisti 4 straipsnio 2 dalį, 3 dalį pripažinti netekusia galios, buvusias 4,
 
 10. Individualiojo rezervo kario prievolė – dėl amžiaus ar dėl kitų priežasčių atleisto nuo prievolės tarnauti aktyviajame rezerve ir perkelto į individualųjį rezervą atsargos kario prievolė atlikti karo tarnybą mobilizacijos atveju.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 5 straipsnio 1 dalyje vietoj žodžio „antrinio“ įrašyti žodį „pirminio“, vietoj žodžių „gautas asmens privalomojo sveikatos tikrinimo korteles“ įrašyti žodžius „gautą išrašą iš asmens sveikatos istorijos (ambulatorinės kortelės)“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos Respublikos piliečiai (vyrai), kai jiems sukanka 16 metų, privalo per 2 mėnesius pasitikrinti sveikatą Lietuvos nacionalinės sveikatos sistemos pirminiolygio sveikatos priežiūros įstaigose Sveikatos apsaugos ministerijos nustatyta tvarka ir gautą išrašą iš asmens sveikatos istorijos (ambulatorinės kortelės) pristatyti į vietines teritorines karines įstaigas.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnio 1 dalį pripažinti netekusia galios, papildyti straipsnį naujomis 2, 3 ir 6 dalimis, buvusias 2, 3 ir 4 dalis laikyti atitinkamai 1, 4 ir 5 dalimis, šias dalis pakeisti ir visą straipsnį išdėstyti taip:
 
@@ -90,13 +90,13 @@ Pakeisti 4 straipsnio 2 dalį, 3 dalį pripažinti netekusia galios, buvusias 4,
 
 6. Kario statusą naujokas įgyja nuo atvykimo į dalinį (mokymo centrą) dienos ar nuo perėjimo vado (karinio viršininko) žinion momento.“
 
-\#### 5 straipsnis. 7 straipsnio 1 dalies 4 punkto pakeitimas
+## 5 straipsnis. 7 straipsnio 1 dalies 4 punkto pakeitimas
 
 7 straipsnio 1 dalies 4 punkte vietoj žodžio „būtinąją“ įrašyti žodžius „privalomąją pradinę“ ir šį punktą išdėstyti taip:
 
 „4) šauktinio mokymasis užsienyje, jeigu tai yra pagrindas atidėti privalomąją pradinę karo tarnybą pagal šio įstatymo 9 straipsnio 1 dalies 1-4 punktus.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 Pakeisti 8 straipsnio pavadinimą, 1 ir 2 dalis, papildyti straipsnį 3, 4, 5 ir 6 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Pakeisti 8 straipsnio pavadinimą, 1 ir 2 dalis, papildyti straipsnį 3, 4, 5 ir
 
 6. Baigę aukštąsias arba aukštesniąsias mokyklas šauktiniai, kurie per 15 mėnesių po tokios mokyklos baigimo dienos nebuvo pašaukti atlikti privalomosios pradinės karo tarnybos, nuo privalomosios pradinės karo tarnybos atleidžiami.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 Pakeisti 9 straipsnio pavadinimą ir 1 dalį, papildyti straipsnį naujomis 2, 3 ir 4 dalimis, buvusias 2 ir 3 dalis pakeisti ir laikyti atitinkamai 5 ir 6 dalimis, buvusią 4 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
@@ -188,7 +188,7 @@ Pakeisti 9 straipsnio pavadinimą ir 1 dalį, papildyti straipsnį naujomis 2, 3
 
 6. Naujokų šaukimo komisijos privalomąją pradinę karo tarnybą gali atidėti vieneriems metams. Nepasikeitus šiame įstatyme nurodytoms aplinkybėms, šaukimo atidėjimas iš naujo pratęsiamas kiekvieną kartą ne ilgiau kaip vieneriems metams.“
 
-\#### 8 straipsnis. 10 straipsnio pakeitimas
+## 8 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 Išlaidos, susijusios su ikišauktinio amžiaus jaunuolių registracija, šauktinių šaukimu į privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą, karo prievolininkų mokymais, jų sveikatos patikrinimu ir ištyrimu dėl tinkamumo privalomajai karo tarnybai, finansuojamos iš šiems tikslams skirtų valstybės biudžeto asignavimų krašto apsaugos funkcijoms vykdyti.“
 
-\#### 9 straipsnis. 12 straipsnio 1, 2, 5, 6, 9 ir 10 dalių pakeitimas ir papildymas 11 dalimi
+## 9 straipsnis. 12 straipsnio 1, 2, 5, 6, 9 ir 10 dalių pakeitimas ir papildymas 11 dalimi
 
 1. Pakeisti 12 straipsnio 1 ir 2 dalis ir jas išdėstyti taip:
 
@@ -242,11 +242,11 @@ Išlaidos, susijusios su ikišauktinio amžiaus jaunuolių registracija, šaukti
 
 „11. Už šauktinių medicinos ekspertizės komisijos darbą atsako komisijos pirmininkas, o už savo ekspertinę išvadą ir kiekvienas komisijos narys įstatymų nustatyta tvarka.“
 
-\#### 10 straipsnis. 13 straipsnio 4 dalies 5 punkto pripažinimas netekusiu galios
+## 10 straipsnis. 13 straipsnio 4 dalies 5 punkto pripažinimas netekusiu galios
 
 13 straipsnio 4 dalies 5 punktą pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 14 straipsnio pakeitimas ir papildymas
+## 11 straipsnis. 14 straipsnio pakeitimas ir papildymas
 
 Pakeisti 14 straipsnio 1 dalį, 2 dalį papildyti 3 punktu, papildyti straipsnį 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -264,7 +264,7 @@ Pakeisti 14 straipsnio 1 dalį, 2 dalį papildyti 3 punktu, papildyti straipsnį
 
 3. Už medicinos ekspertizės komisijos darbą atsako komisijos pirmininkas, o už savo ekspertinę išvadą – kiekvienas medicinos ekspertizės komisijos narys įstatymų nustatyta tvarka.“
 
-\#### 12 straipsnis. 15 straipsnio 2 dalies 2 punkto ir 7 dalies pakeitimas
+## 12 straipsnis. 15 straipsnio 2 dalies 2 punkto ir 7 dalies pakeitimas
 
 1. 15 straipsnio 2 dalies 2 punkte vietoj žodžio „būtinąją“ įrašyti žodžius „privalomąją pradinę“ ir šį punktą išdėstyti taip:
 
@@ -284,7 +284,7 @@ Pakeisti 14 straipsnio 1 dalį, 2 dalį papildyti 3 punktu, papildyti straipsnį
 
 5) šeimyninės padėties pasikeitimus (santuoką, šeimos padidėjimą ar šeimos nario mirtį, ištuoką).“
 
-\#### 13 straipsnis. III skyriaus pirmojo skirsnio pavadinimo pakeitimas
+## 13 straipsnis. III skyriaus pirmojo skirsnio pavadinimo pakeitimas
 
 Pakeisti III skyriaus pirmojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -292,7 +292,7 @@ Pakeisti III skyriaus pirmojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **Privalomoji pradinė karo tarnyba**“
 
-\#### 14 straipsnis. 16 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 16 straipsnio pakeitimas ir papildymas
 
 Pakeisti 16 straipsnį, jį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -302,7 +302,7 @@ Pakeisti 16 straipsnį, jį papildyti 2 dalimi ir visą straipsnį išdėstyti t
 
 2. Lietuvos Respublikos kariuomenės vienetų dalyvavimo tarptautinėse operacijose ir pratybose, taip pat tarptautinių pratybų rengimo Lietuvos teritorijoje įstatymo nustatytais atvejais tarnyba gali būti atliekama kariniuose vienetuose, skirtuose dalyvauti tarptautinėse operacijose.“
 
-\#### 15 straipsnis. 17 straipsnio pakeitimas
+## 15 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -322,7 +322,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 4. Jei atsiranda šio įstatymo 9 straipsnio 1 dalies 6-14 punktuose nurodytų aplinkybių, privalomosios pradinės karo tarnybos karys, ištarnavęs mažiau kaip pusę šiame įstatyme nustatyto laiko, jo prašymu paleidžiamas iš tarnybos, iki minėtos aplinkybės išnyks.“
 
-\#### 16 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 16 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 Pakeisti 18 straipsnį, jį papildyti 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -346,7 +346,7 @@ Pakeisti 18 straipsnį, jį papildyti 2 ir 3 dalimis ir visą straipsnį išdės
 
 3. Asmenys, paleisti iš tarnybos dėl šio straipsnio 2 dalies 1 punkte nurodytų aplinkybių, neįrašomi į aktyviojo ar individualiojo rezervo įskaitą. Į aktyviojo rezervo įskaitą taip pat gali būti neįrašomi asmenys, paleisti iš tarnybos dėl šio straipsnio 2 dalies 2 ir 3 punktuose nurodytų aplinkybių. Sprendimas neįrašyti į įskaitą priimamas į atsargą išleidžiančio vado (viršininko) įsakymu.“
 
-\#### 17 straipsnis. 19 straipsnio pakeitimas ir papildymas
+## 17 straipsnis. 19 straipsnio pakeitimas ir papildymas
 
 Pakeisti 19 straipsnio 1 dalį, papildyti straipsnį nauja 2 dalimi, buvusias 2, 3, 4, 5, 6 dalis laikyti atitinkamai 3, 4, 5, 6, 7 dalimis, pakeisti 3 ir 7 dalis ir visą straipsnį išdėstyti taip:
 
@@ -374,7 +374,7 @@ Pakeisti 19 straipsnio 1 dalį, papildyti straipsnį nauja 2 dalimi, buvusias 2,
 
 7. Būtinųjų karinių mokymų metu karo prievolininkams taikomos privalomosios pradinės karo tarnybos kariams nustatytos socialinės garantijos, jie maitinami ir jiems išduodama nustatyto pavyzdžio apranga. Taip pat jiems mokamos privalomosios pradinės karo tarnybos kariams nustatytos išmokos buitinėms išlaidoms iš Krašto apsaugos ar Vidaus reikalų ministerijoms skiriamų valstybės biudžeto lėšų, atsižvelgiant į tai, kurios sistemos institucijoje jie atlieka būtinuosius karinius mokymus. Šios socialinės garantijos, aprūpinimo sąlygos ir išmokos tokia pačia tvarka taikomos ir karo prievolininkams, atliekantiems tarnybą šio įstatymo 8 straipsnio 3 dalies 1 punkte nustatytu būdu.“
 
-\#### 18 straipsnis. 20 straipsnio pakeitimas
+## 18 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -386,7 +386,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 3. Alternatyviosios krašto apsaugos tarnybos atlikimo vietą ir išvykimo į tarnybą laiką nustato krašto apsaugos ministras.“
 
-\#### 19 straipsnis. 21 straipsnio pakeitimas
+## 19 straipsnis. 21 straipsnio pakeitimas
 
 21 straipsnyje vietoj žodžio „būtinajai“ įrašyti žodžius „privalomajai pradinei“ ir šį straipsnį išdėstyti taip:
 
@@ -394,19 +394,19 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 Nuo alternatyviosios krašto apsaugos tarnybos atleidžiami Lietuvos Respublikos piliečiai, pagal sveikatos būklę netinkami privalomajai pradinei karo tarnybai.“
 
-\#### 20 straipsnis. 22 straipsnio 1 dalies pakeitimas
+## 20 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Alternatyviąją krašto apsaugos tarnybą piliečiai atlieka Lietuvos Respublikos krašto apsaugos sistemoje. Jie skiriami tarnauti į pareigas, nereikalaujančias naudoti prievartos ir ginklo. Piliečiams, atliekantiems alternatyviąją krašto apsaugos tarnybą, taikomi krašto apsaugos tarnybos ir drausmės statutai, fizinio parengimo ir kiti kariams nustatyti reikalavimai, kurie nesusiję su ginklo, specialių priemonių ar priverstiniu fizinės jėgos panaudojimu, taip pat karių tarnybai nustatyti apribojimai.“
 
-\#### 21 straipsnis. 23 straipsnio 1 dalies pakeitimas
+## 21 straipsnis. 23 straipsnio 1 dalies pakeitimas
 
 23 straipsnio 1 dalyje skaičių „27“ pakeisti skaičiumi „26“ ir šią dalį išdėstyti taip:
 
 „1. Į alternatyviąją krašto apsaugos tarnybą šaukiami piliečiai nuo 19 iki 26 metų.“
 
-\#### 22 straipsnis. 24 straipsnio pakeitimas
+## 22 straipsnis. 24 straipsnio pakeitimas
 
 24 straipsnyje vietoj žodžio „būtinosios“ įrašyti žodžius „privalomosios pradinės“ ir šį straipsnį išdėstyti taip:
 
@@ -414,7 +414,7 @@ Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 Asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą Lietuvos Respublikos krašto apsaugos sistemoje, jos metu aprūpinami maistu, apranga, gyvenamuoju plotu ir kitkuo tokia pat tvarka kaip ir privalomosios pradinės karo tarnybos kariai.“
 
-\#### 23 straipsnis. 25 straipsnio pakeitimas ir papildymas
+## 23 straipsnis. 25 straipsnio pakeitimas ir papildymas
 
 25 straipsnio 1 ir 2 dalyse vietoj žodžio „būtinajai“ įrašyti žodį „tikrajai“, iš 1 dalies išbraukti žodžius „ir priskiriami aktyviajam rezervui“, papildyti straipsnį 4 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -428,7 +428,7 @@ Asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą Lietuvos Respubl
 
 4. Atsargos karo prievolininkai, netekę Lietuvos Respublikos pilietybės, išbraukiami iš aktyviojo ir (ar) individualiojo rezervo įskaitos. Iš aktyviojo rezervo įskaitos taip pat gali būti išbraukti asmenys, nuteisti už padarytą sunkų nusikaltimą.“
 
-\#### 24 straipsnis. 26 straipsnio pakeitimas
+## 24 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį, 2 ir 6 dalis pripažinti netekusiomis galios, buvusias 3, 4, 5 ir 7 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis, 2 ir 5 dalis pakeisti ir visą straipsnį išdėstyti taip:
 
@@ -460,13 +460,13 @@ Pakeisti 26 straipsnio 1 dalį, 2 ir 6 dalis pripažinti netekusiomis galios, bu
 
 5. Atsargos karo prievolininkų priskyrimo aktyviajam rezervui, jų pašaukimo į mokymus ar pratybas tvarką ir reikalavimus, keliamus kiekvienos parengties atsargos grupei, nustato krašto apsaugos ministras.“
 
-\#### 25 straipsnis. 28 straipsnio papildymas
+## 25 straipsnis. 28 straipsnio papildymas
 
 Papildyti 28 straipsnį 6 punktu ir jį išdėstyti taip:
 
 „6) kontroliuoja karo prievolininkų apskaitą visų rūšių įmonėse, įstaigose ir organizacijose.“
 
-\#### 26 straipsnis. 29 straipsnio pakeitimas ir papildymas
+## 26 straipsnis. 29 straipsnio pakeitimas ir papildymas
 
 29 straipsnio 1 dalies 5 punkte po žodžių „į darbą“ įrašyti žodžius „ar mokytis“, po žodžių „gyvenamąją vietą“ įrašyti žodžius „ir pateiktų karo prievolininko statusą liudijantį karinį dokumentą“, papildyti straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -486,7 +486,7 @@ Papildyti 28 straipsnį 6 punktu ir jį išdėstyti taip:
 
 2. Savivaldybės kasmet iki einamųjų metų gruodžio 31 d. vietinėms teritorinėms karinėms įstaigoms pateikia jų teritorijoje įregistruotų visų rūšių įmonių, įstaigų ir organizacijų sąrašus.“
 
-\#### 27 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 27 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 Pakeisti 30 straipsnio 2 dalį, papildyti straipsnį 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -498,7 +498,7 @@ Pakeisti 30 straipsnio 2 dalį, papildyti straipsnį 3 dalimi ir visą straipsn�
 
 3. Aukštųjų ir aukštesniųjų mokyklų vadovai privalo sudaryti studentams tokias mokymosi sąlygas, kad šie galėtų atlikti tarnybą šio įstatymo 8 straipsnio 3 dalies 1 punkte numatytu būdu.“
 
-\#### 28 straipsnis. 31 straipsnio pakeitimas
+## 28 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -512,13 +512,13 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 2. Aktyviojo rezervo karių tinkamumo karo tarnybai pagal sveikatos būklę patikrinimo tvarką nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 29 straipsnis. 33 straipsnio 1 dalies pakeitimas
+## 29 straipsnis. 33 straipsnio 1 dalies pakeitimas
 
 Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vietinės teritorinės karinės įstaigos vadovo prašymu savivaldybių policijos įstaigos atlieka šauktinių paiešką ir atvesdina juos.“
 
-\#### 30 straipsnis. 35 straipsnio papildymas
+## 30 straipsnis. 35 straipsnio papildymas
 
 35 straipsnyje po žodžių „prievolininkui mirus“ įrašyti žodžius „per 10 kalendorinių dienų“ ir šį straipsnį išdėstyti taip:
 
@@ -526,7 +526,7 @@ Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 Civilinės metrikacijos įstaigos privalo kas ketvirtį pateikti vietinėms teritorinėms karinėms įstaigoms karo prievolininkų (vyrų), pakeitusių vardus ir pavardes, sąrašus, šioms įstaigoms pareikalavus – papildomus sąrašus, o karo prievolininkui mirus, per 10 kalendorinių dienų pranešti apie tai.“
 
-\#### 31 straipsnis. 36 straipsnio pakeitimas
+## 31 straipsnis. 36 straipsnio pakeitimas
 
 36 straipsnyje skaičių „27“ pakeisti skaičiumi „26“ ir straipsnį išdėstyti taip:
 
@@ -534,11 +534,11 @@ Civilinės metrikacijos įstaigos privalo kas ketvirtį pateikti vietinėms teri
 
 Socialinės apsaugos ir darbo institucijų įstaigos privalo kas ketvirtį teikti vietinėms teritorinėms karinėms įstaigoms duomenis apie piliečius (vyrus) nuo 19 iki 26metų, kuriems nustatytas invalidumas.“
 
-\#### 32 straipsnis. 38 straipsnio pripažinimas netekusiu galios
+## 32 straipsnis. 38 straipsnio pripažinimas netekusiu galios
 
 38 straipsnį pripažinti netekusiu galios.
 
-\#### 33 straipsnis. 40 straipsnio pakeitimas
+## 33 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -546,7 +546,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 Įstatymų nustatytais atvejais privalomosios pradinės karo tarnybos trukmė gali būti pratęsta ir į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 18 metų.“
 
-\#### 34 straipsnis. 41 straipsnio pakeitimas
+## 34 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
 

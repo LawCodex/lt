@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F686206A6DA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F686206A6DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymo įgyvendinimo įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO 2, 11, 1
 
 Vilnius
 
-\#### 1 straipsnis. Skatinimo kvotų paskirstymas
+## 1 straipsnis. Skatinimo kvotų paskirstymas
 
 1. Lietuvos Respublikos energetikos ministerija iki 2013 m. vasario 15 d. pateikia Lietuvos Respublikos Vyriausybei informaciją apie aukcionuose paskirstytas skatinimo kvotas ir ne aukciono būdu išduotus leidimus plėtoti elektros energijos gamybos pajėgumus.
 
@@ -32,7 +32,7 @@ Vilnius
 
 4. Tuo atveju, jeigu skatinimo kvotų paskirstymo aukcionuose paskirstytų skatinimo kvotų ir ne aukciono būdu išduotuose galiojančiuose leidimuose plėtoti elektros energijos gamybos pajėgumus ir leidimuose gaminti elektros energiją nurodytų elektrinių įrengtųjų suminių galių suma yra mažesnė negu Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 13 straipsnio 3 dalyje nurodytos įrengtosios suminės galios, skatinimo kvotų paskirstymas ir paraiškų prijungti prie elektros tinklų ne didesnės kaip 10 kW galios elektrines priėmimas tęsiamas tol, kol bus pasiektos įrengtosios suminės galios.
 
-\#### 2 straipsnis. Leidimų plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus galiojimas
+## 2 straipsnis. Leidimų plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus galiojimas
 
 1. Leidimai plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus statant saulės šviesos energijos elektrines, išduoti teisės aktų nustatyta tvarka ne aukciono būdu pagal prašymus, pateiktus iki Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymo įsigaliojimo, galioja iki juose nurodyto termino pabaigos, tačiau ne ilgiau negu iki šio straipsnio 2 dalyje nurodyto termino, išskyrus šio straipsnio 2 ir 3 dalyse numatytas išimtis. Šioje dalyje nurodyti prašymai nagrinėjami Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo ir Lietuvos Respublikos elektros energetikos įstatymo nustatyta tvarka.
 
@@ -42,7 +42,7 @@ Vilnius
 
 4. Šio straipsnio 1 dalyje nurodytus leidimus turintys asmenys, numatantys įrengti ne didesnės kaip 30 kW galios saulės šviesos energijos elektrines, elektros tinklų operatoriui pateikia prievolių įvykdymo užtikrinimą, garantuojantį elektros tinklų operatoriui gamintojo įsipareigojimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus. Asmens prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 500 litų už 1 kW. Asmenys, turintys šio straipsnio 1 dalyje nurodytus leidimus, savo prievolių įvykdymo užtikrinimą turi pateikti iki 2013 m. kovo 1 d. Kai šioje dalyje nurodytos elektrinės statyba užbaigiama ir išduodamas leidimas elektros energijai gaminti, gamintojo prievolių įvykdymo užtikrinimas grąžinamas teisės aktų nustatyta tvarka. Gamintojo prievolių įvykdymo užtikrinimo pateikimo ir panaudojimo sąlygas bei tvarką nustato Lietuvos Respublikos energetikos ministerija.
 
-\#### 3 straipsnis. Išlaidų, susijusių su elektrinės projekto vystymu, kompensavimas
+## 3 straipsnis. Išlaidų, susijusių su elektrinės projekto vystymu, kompensavimas
 
 1. Asmenys, kurie turi šio įstatymo 2 straipsnio 1 dalyje nurodytus leidimus plėtoti elektros energijos gamybos pajėgumus ir kuriems šio įstatymo 2 straipsnio 3 dalyje nustatyta tvarka leidimo galiojimo terminas nebuvo pratęstas, ir asmenys, kurie iki šio įstatymo 2 straipsnio 3 dalyje nustatyto termino nesikreipė į Lietuvos Respublikos energetikos ministeriją dėl leidimo galiojimo termino pratęsimo, ir iki šio įstatymo įsigaliojimo dienos patyrę tiesiogiai su elektrinės projekto plėtojimu susijusių išlaidų, iki 2013 m. rugsėjo 1 d. turi teisę raštu kreiptis į Lietuvos Respublikos Vyriausybės sudarytą komisiją (toliau – Komisija) dėl tokių išlaidų kompensavimo.
 
@@ -50,7 +50,7 @@ Vilnius
 
 3. Išlaidos, susijusios su elektrinės projekto plėtojimu, asmenims kompensuojamos per vienus metus nuo Komisijos sprendimo priėmimo. Šios išlaidos pripažįstamos viešuosius interesus atitinkančių paslaugų išlaidomis.
 
-\#### 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 1. Lietuvos Respublikos Vyriausybė iki 2013 m. balandžio 1 d. patvirtina išlaidų, susijusių su elektrinės projekto plėtojimu, kompensavimo tvarkos aprašą ir sudaro Komisiją, nagrinėsiančią prašymus dėl išlaidų, susijusių su elektrinės projekto plėtojimu, kompensavimo.
 

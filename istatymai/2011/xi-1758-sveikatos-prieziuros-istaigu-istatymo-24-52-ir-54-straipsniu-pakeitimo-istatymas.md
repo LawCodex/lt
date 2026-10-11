@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9A206EF4AE22"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9A206EF4AE22.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 24, 52 ir 54 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1996, Nr. [66-1572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6); 1998, Nr. [109-2995](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6CC51EA4ED); 2000, Nr. [61-1811](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CFDE6703857); 2010, Nr. [51-2477](https://www.e-tar.lt/portal/lt/legalAct/TAR.D8CD44BD971B))
 
-\#### 1 straipsnis. 24 straipsnio 2 dalies 1 punkto pakeitimas
+## 1 straipsnis. 24 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 24 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) visuomenės sveikatos centrai apskrityse;“.
 
-\#### 2 straipsnis. 52 straipsnio 1 dalies 5 punkto pakeitimas
+## 2 straipsnis. 52 straipsnio 1 dalies 5 punkto pakeitimas
 
 52 straipsnio 1 dalies 5 punkte vietoj žodžių „Valstybinė visuomenės sveikatos priežiūros tarnyba“ įrašyti žodžius „visuomenės sveikatos centrai apskrityse“ ir šį punktą išdėstyti taip:
 
 „5) visuomenės sveikatos centrai apskrityse – paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę, sveikatos priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę visuomenės sveikatos saugos kontrolę.“
 
-\#### 3 straipsnis. 54 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 54 straipsnio 1 dalies pakeitimas
 
 54 straipsnio 1 dalyje vietoj žodžių „Valstybinė visuomenės sveikatos priežiūros tarnyba“ įrašyti žodžius „visuomenės sveikatos centrai apskrityse“ ir šią dalį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 24 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 5) įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

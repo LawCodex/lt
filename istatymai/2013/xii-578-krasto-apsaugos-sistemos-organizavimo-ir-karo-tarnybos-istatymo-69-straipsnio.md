@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.31C6F8B52147"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.31C6F8B52147.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 69 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. 49-1325; 2010, Nr. 63-3099; 2011, Nr. 86-4151)
 
-\#### 1 straipsnis. 69 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 69 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 69 straipsnį ir jį išdėstyti taip:
 
@@ -40,11 +40,11 @@ Pakeisti ir papildyti 69 straipsnį ir jį išdėstyti taip:
 
 3. Pratęsus kario savanorio ar kito aktyviojo rezervo kario sutartį papildomam 4 metų terminui, kariui savanoriui ar kitam aktyviojo rezervo kariui Vyriausybės ar jos įgaliotos institucijos nustatytomis sąlygomis ir tvarka gali būti teikiama parama studijų kainos daliai padengti.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2014 m. sausio 1 d.
 
-\#### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2013 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.04D07EE81143"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.04D07EE81143.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 45 ir 49 straipsnių pakeitimo įstatymas
@@ -24,23 +24,23 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72); 2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B))
 
-\#### 1 straipsnis. 45 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 45 straipsnio 2 dalies pakeitimas
 
 Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Valstybės tarnautojų mokymo programos rengiamos pagal vidaus reikalų ministro nustatytus mokymo programų turinio reikalavimus. Mokymo programas rengia ir pagal jas valstybės tarnautojus turi teisę mokyti vidaus reikalų ministro nustatyta tvarka patvirtinti asmenys. Kvalifikacijos tobulinimo bendrąsias programas integracijos į Europos Sąjungą srityje, 18–20 kategorijų valstybės tarnautojų bendrąsias mokymo programas rengia ir pagal patvirtintas bendrąsias programas valstybės tarnautojus moko Lietuvos viešojo administravimo institutas.“
 
-\#### 2 straipsnis. 49 straipsnio 2 dalies 6 punkto pakeitimas
+## 2 straipsnis. 49 straipsnio 2 dalies 6 punkto pakeitimas
 
 49 straipsnio 2 dalies 6 punkte išbraukti žodį „juridinius“, vietoj žodžių „valstybės tarnautojų kvalifikacijos tobulinimo įstaigų“ įrašyti žodžius „šių asmenų“ ir šį punktą išdėstyti taip:
 
 „6) vertina asmenis, siekiančius mokyti valstybės tarnautojus, ir teikia vidaus reikalų ministrui pasiūlymus dėl šių asmenųtvirtinimo;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2009 m. gruodžio 28 d.
 
-\#### 4 straipsnis. Pasiūlymas vidaus reikalų ministrui
+## 4 straipsnis. Pasiūlymas vidaus reikalų ministrui
 
 Vidaus reikalų ministras iki šio įstatymo įsigaliojimo priima jam įgyvendinti reikalingus teisės aktus.
 

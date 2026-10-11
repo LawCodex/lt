@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.614387D98AC1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.614387D98AC1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pašto įstatymo 2, 3, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 1999, Nr. [36-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1); 2004, Nr. [60-2125](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F02615C57F5); 2010, Nr. [1-33](https://www.e-tar.lt/portal/lt/legalAct/TAR.0DEB6B2C91ED), Nr. [153-7785](https://www.e-tar.lt/portal/lt/legalAct/TAR.BA1F196303AE))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 19 dalimi:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Buvusias 2 straipsnio 19–27 dalis laikyti atitinkamai 20–28 dalimis.
 
-\#### 2 straipsnis. 3 straipsnio 2 dalies 6, 7 punktų pakeitimas, 4 dalies pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio 2 dalies 6, 7 punktų pakeitimas, 4 dalies pakeitimas ir papildymas
 
 1. Pakeisti 3 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Vilnius
 
 16) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 3 straipsnis. 8 straipsnio 3 dalies pakeitimas ir papildymas, 5 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios
+## 3 straipsnis. 8 straipsnio 3 dalies pakeitimas ir papildymas, 5 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios
 
 1. Pakeisti 8 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Vilnius
 
 6. 8 straipsnio 7 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
 

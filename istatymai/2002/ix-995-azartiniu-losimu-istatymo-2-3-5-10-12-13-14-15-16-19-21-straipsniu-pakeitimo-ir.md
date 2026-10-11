@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.24BFFD4DDB86"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.24BFFD4DDB86.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 2, 3, 5, 10, 12, 13, 14, 15, 16, 19, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [43-1495](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4), Nr. [56-1984](https://www.e-tar.lt/portal/lt/legalAct/TAR.43A3BDE30422))
 
-\#### 1 straipsnis. 2 straipsnio 2, 3, 4, 5, 14 dalių pakeitimas ir papildymas bei straipsnio papildymas 15, 16 dalimis
+## 1 straipsnis. 2 straipsnio 2, 3, 4, 5, 14 dalių pakeitimas ir papildymas bei straipsnio papildymas 15, 16 dalimis
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Vilnius
 
 „16. **Vieno lošimo trukmė lošiant automatu**– laikas nuo lošimo pradžios (klavišo paspaudimo) iki lošimo rezultato pateikimo.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) lošimas B kategorijos automatu – kai lošiama į automatą įmetus metalinius pinigus ir (arba) žetonus ir laimėjimas per automatą išmokamas pinigais arba žetonais. Lošimo rezultatą ir laimėjimo dydį nustato automatas.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 2. Vienai bendrovei gali būti išduotos visų rūšių licencijos.“
 
-\#### 4 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 10 straipsnio 2 dalies 15 punktą žodžiais „išskyrus lažybų ir totalizatoriaus punktų steigimą prekybos centruose, kurie pagal savo paskirtį yra pritaikyti ne vien parduotuvių veiklai ir kuriuose pagal projektinį išplanavimą yra įrengtos atskiros patalpos“ ir šį punktą išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 „18. Šio straipsnio 4, 11 ir 14 dalių apribojimai taikomi ir bendrovėms, pateikusioms prašymą išduoti licenciją organizuoti azartinius lošimus.“
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 12 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 12 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti ir papildyti 12 straipsnį ir jį išdėstyti taip:
 
 5. Lošimo namuose (kazino) gali būti organizuojami ruletė, kortų, kauliukų lošimai ir lošimai A kategorijos automatais. Vienuose lošimo namuose (kazino) turi būti ne mažiau kaip 3 lošimo stalai, iš kurių bent vienas ruletės stalas, ir ne mažiau kaip 30 A kategorijos automatų.“
 
-\#### 6 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. 13 straipsnio 2 dalyje vietoj žodžių „automatų salonuose“ įrašyti žodžius „B kategorijos automatais“, vietoj skaičiaus „2“ įrašyti skaičių „1“ ir šią dalį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti ir papildyti 12 straipsnį ir jį išdėstyti taip:
 
 4) bendrovėms, organizuojančioms bingą, totalizatorių, lažybas, žirgų totalizatorių - ne mažiau kaip 25 proc. minimalaus reikalaujamo įstatinio kapitalo sumos.“
 
-\#### 7 straipsnis. 14 straipsnio papildymas
+## 7 straipsnis. 14 straipsnio papildymas
 
 14 straipsnį papildyti žodžiais „išskyrus patalpų, kuriose bendrovė organizuoja lošimus, nuomą šio įstatymo 10 straipsnio 6 dalyje nurodytai ūkinei komercinei veiklai“ ir šį straipsnį išdėstyti taip:
 
@@ -168,13 +168,13 @@ Pakeisti ir papildyti 12 straipsnį ir jį išdėstyti taip:
 
 Bendrovės, organizuojančios lošimus automatų salonuose, bingą, stalo lošimus, totalizatorių, lažybas neturi teisės verstis kita komercine ūkine veikla, išskyrus patalpų, kuriose bendrovė organizuoja lošimus, nuomą šio įstatymo 10 straipsnio 6 dalyje nurodytai ūkinei komercinei veiklai.“
 
-\#### 8 straipsnis. 15 straipsnio 1 dalies papildymas 5 punktu
+## 8 straipsnis. 15 straipsnio 1 dalies papildymas 5 punktu
 
 Papildyti 15 straipsnio 1 dalį 5 punktu:
 
 „5) atskiros patalpos, lošimo namų (kazino) administracijos skirtos valstybės pareigūnams ir tarnautojams, atliekantiems lošimų organizavimo priežiūrą ir kontrolę.“
 
-\#### 9 straipsnis. 16 straipsnio 1, 2 ir 5 dalių pakeitimas
+## 9 straipsnis. 16 straipsnio 1, 2 ir 5 dalių pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -188,7 +188,7 @@ Papildyti 15 straipsnio 1 dalį 5 punktu:
 
 „5. Kiekvienas lošimo įrenginys turi turėti akredituotų įstaigų (laboratorijų) išduotą sertifikatą, patvirtinantį, kad lošimo įrenginiai atitinka šio įstatymo ir Priežiūros komisijos nustatytus reikalavimus. Lietuvos Respublikos Vyriausybės įgaliotos institucijos sprendimu gali būti pripažįstami užsienio valstybėse akredituotų įstaigų išduoti sertifikatai.“
 
-\#### 10 straipsnis. 19 straipsnio 2 dalies pakeitimas
+## 10 straipsnis. 19 straipsnio 2 dalies pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -200,13 +200,13 @@ Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) nurodytas procentas, kuris bus atskaitomas nuo kiekvieno lošimo į „kaupiamąjį fondą.“
 
-\#### 11 straipsnis. 21 straipsnio 4 dalies 4 punkto pakeitimas
+## 11 straipsnis. 21 straipsnio 4 dalies 4 punkto pakeitimas
 
 Pakeisti 21 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) sertifikatai, nurodyti šio įstatymo 16 straipsnio 5 dalyje;“.
 
-\#### 12 straipsnis. Baigiamosios nuostatos
+## 12 straipsnis. Baigiamosios nuostatos
 
 1. Šis Įstatymas įsigalioja nuo 2002 m. rugsėjo 1 d.
 

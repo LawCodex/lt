@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F9AD56B286DF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F9AD56B286DF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 17, 71 straipsnių pakeitimo ir įstatymo papildymo 71-1 straipsniu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [50-1598](https://www.e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64); 2003, Nr. [28-1125](https://www.e-tar.lt/portal/lt/legalAct/TAR.674960C67DAC); 2006, Nr. [116-4400](https://www.e-tar.lt/portal/lt/legalAct/TAR.D67BA8474C1F))
 
-\#### 1 straipsnis. 17 straipsnio 4 dalies 1 punkto pakeitimas
+## 1 straipsnis. 17 straipsnio 4 dalies 1 punkto pakeitimas
 
 Pakeisti 17 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) 5 procentai – už pardavimo kainos dalį iki 3 000 eurų;“.
 
-\#### 2 straipsnis. 71 straipsnio pakeitimas
+## 2 straipsnis. 71 straipsnio pakeitimas
 
 71 straipsnio 3, 4 ir 5 dalis pripažinti netekusiomis galios, buvusią 71 straipsnio 6 dalį laikyti 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 17 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
 3. Vyriausybės įgaliota institucija, įgyvendindama jai pavestus uždavinius bei funkcijas, turi teisę gauti reikiamą informaciją iš valstybės ir savivaldybių institucijų, įmonių, įstaigų ir organizacijų autorių teisių ir gretutinių teisių apsaugos bei gynimo klausimais, taip pat kitą informaciją, reikalingą savo uždaviniams įgyvendinti.“
 
-\#### 3 straipsnis. Įstatymo papildymas 711 straipsniu
+## 3 straipsnis. Įstatymo papildymas 711 straipsniu
 
 Papildyti Įstatymą 71^1straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F0BA557D67F1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F0BA557D67F1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 7, 8, 9 straipsnių, II skyriaus pavadinimo ir priedo pakeitimo ir papildymo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62); 1996, Nr. [57-1335](https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124); 2000, Nr. [39-1093](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA03EC25C86C); 2002, Nr. [2-49](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D555BF4BF16); 2004, Nr. [36-1179](https://www.e-tar.lt/portal/lt/legalAct/TAR.0311855FCC59); 2005, Nr. [47-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.247DAE8A3F57))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 22 punktu
+## 1 straipsnis. 1 straipsnio papildymas 22 punktu
 
 Papildyti 1 straipsnį 22 punktu:
 
 „22) **suinteresuota visuomenė** – vienas arba daugiau fizinių ar juridinių asmenų, kuriems daro arba gali daryti poveikį sprendimai, veiksmai ar neveikimas aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje arba kurie yra suinteresuoti šių sprendimų procesu. Pagal šią apibrėžtį asociacijos ir kiti viešieji juridiniai asmenys (išskyrus valstybės ar savivaldybės, jų institucijų įsteigtus juridinius asmenis), kurie įsteigti teisės aktų nustatyta tvarka ir skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais asmenimis.“
 
-\#### 2 straipsnis. Įstatymo II skyriaus pavadinimo pakeitimas
+## 2 straipsnis. Įstatymo II skyriaus pavadinimo pakeitimas
 
 Įstatymo II skyriaus pavadinime vietoj žodžių „visuomeninių organizacijų“ įrašyti žodžius „suinteresuotos visuomenės“ ir skyriaus pavadinimą išdėstyti taip:
 
 „II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ, SUINTERESUOTOS VISUOMENĖS, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS“.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 2. Suinteresuota visuomenė turi teisę Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą.“
 
-\#### 4 straipsnis. 8 straipsnio pavadinimo ir 1 dalies 2, 5, 6, 9 punktų pakeitimas
+## 4 straipsnis. 8 straipsnio pavadinimo ir 1 dalies 2, 5, 6, 9 punktų pakeitimas
 
 1. 8 straipsnio pavadinime vietoj žodžių „visuomeninių organizacijų“ įrašyti žodžius „suinteresuotos visuomenės“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 „9) skatinti piliečius, suinteresuotą visuomenę, kitus juridinius ir fizinius asmenis dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje;“.
 
-\#### 5 straipsnis. 9 straipsnio pakeitimas
+## 5 straipsnis. 9 straipsnio pakeitimas
 
 9 straipsnio pavadinime vietoj žodžių „visuomeninių organizacijų“ įrašyti žodžius „suinteresuotos visuomenės“, 1 dalyje vietoj žodžių „visuomeninės organizacijos“ įrašyti žodžius „suinteresuota visuomenė“ ir visą straipsnį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 Piliečiai, suinteresuota visuomenė, kiti juridiniai ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos išteklius ir nepažeisti kitų gamtos išteklių naudotojų teisių bei interesų.“
 
-\#### 6 straipsnis. Įstatymo priedo pakeitimas
+## 6 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

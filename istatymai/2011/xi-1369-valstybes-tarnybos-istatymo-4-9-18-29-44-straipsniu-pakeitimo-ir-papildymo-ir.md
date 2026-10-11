@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9AB5064352E6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9AB5064352E6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 9, 18, 29, 44 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 3-1, 30-1 straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [73-3103](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF), Nr. [127-5750](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3898659EAFB); 2003, Nr. [38-1671](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B), Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610), Nr. [116-5258](https://www.e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9); 2004, Nr. [4-32](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA), Nr. [104-3827](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB72296AE71C), Nr. [116-4323](https://www.e-tar.lt/portal/lt/legalAct/TAR.519B021AB4AF); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72); 2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B); 2008, Nr. [120-4549](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EB830B086D0), Nr. [143-5688](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13A2F50E71E); 2010, Nr. [63-3090](https://www.e-tar.lt/portal/lt/legalAct/TAR.6B8F6681C334), Nr. [67-3346](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB815B889DF9), Nr. [71-3542](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8CA0401B3A6), Nr. [81-4230](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F4D4CDAFCE7))
 
-\#### 1 straipsnis. Įstatymo papildymas 31 straipsniu
+## 1 straipsnis. Įstatymo papildymas 31 straipsniu
 
 Papildyti Įstatymą 3^1 straipsniu:
 
@@ -56,13 +56,13 @@ Papildyti Įstatymą 3^1 straipsniu:
 
 3. Valstybės tarnautoją į pareigas priimantis asmuo atsako, kad į valstybės tarnautojo pareigas būtų priimti ir tas pareigas eitų tik nepriekaištingos reputacijos reikalavimus atitinkantys asmenys.“
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Statutiniams valstybės tarnautojams šio Įstatymo 3^1 straipsnis, 9 straipsnio 3 dalies 1 punktas ir 4 dalis, 15 straipsnis, 16 straipsnio 4 ir 6 dalys, 16^1 straipsnis, 17 straipsnis, 18^1 straipsnis, 19 straipsnis, 28 straipsnis, 29 straipsnio 2, 5 ir 6 dalys, 31 straipsnis, 31^1 straipsnis, 32 straipsnis, 33 straipsnis, 38^1straipsnis, 39 straipsnio 1 dalis, 43 straipsnio 5 dalies 9 punktas, 44 straipsnio 1 dalies 19 ir 20 punktai ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja jų statutai ar Diplomatinės tarnybos įstatymas.“
 
-\#### 3 straipsnis. 9 straipsnio 3 ir 4 dalių pakeitimas
+## 3 straipsnis. 9 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Asmuo, siekiantis valstybės tarnautojo statuso, turi užpildyti Vyriausybės nutarimu patvirtintos formos deklaraciją, kurioje būtų pateikti duomenys dėl jo atitikties nepriekaištingos reputacijos reikalavimams. Valstybės tarnautojas, nuslėpęs ar pateikęs tikrovės neatitinkančius duomenis dėl jo atitikties minėtiems reikalavimams, iš valstybės tarnautojo pareigų atleidžiamas.“
 
-\#### 4 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 18 straipsnio 1 dalyje vietoj skaičiaus „14“ įrašyti skaičių „17“ ir šią dalį išdėstyti taip:
 
@@ -88,13 +88,13 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Karjeros valstybės tarnautoją, laimėjusį konkursą į kitas valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, į pareigas priima šioje institucijoje ar įstaigoje į pareigas priimantis asmuo, gavęs valstybės ar savivaldybės institucijos ar įstaigos, kurioje karjeros valstybės tarnautojas ėjo pareigas, sprendimą dėl valstybės tarnautojo perkėlimo į valstybės ar savivaldybės instituciją ar įstaigą, kurioje valstybės tarnautojas laimėjo konkursą. Šioje dalyje nurodytas sprendimas valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje karjeros valstybės tarnautojas ėjo pareigas, priimamas ne vėliau kaip per 17 kalendorinių dienų nuo karjeros valstybės tarnautojo prašymo perkelti jį į laimėtas pareigas šiai institucijai ar įstaigai pateikimo dienos.“
 
-\#### 5 straipsnis. 29 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 29 straipsnio 2 dalies pakeitimas
 
 Pakeisti 29 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Tarnybinė nuobauda skiriama atsižvelgiant į kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į valstybės tarnautojo veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes, į Korupcijos prevencijos įstatymo ar į Operatyvinės veiklos įstatymo nustatytais atvejais ir tvarka pateiktą informaciją. Pagal Korupcijos prevencijos įstatymą gauta informacija gali būti panaudota skiriant valstybės tarnautojui tarnybinę nuobaudą tik tuo atveju, kai ši informacija yra išslaptinama teisės aktų nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo papildymas 301 straipsniu
+## 6 straipsnis. Įstatymo papildymas 301 straipsniu
 
 Papildyti Įstatymą 30^1 straipsniu:
 
@@ -130,7 +130,7 @@ Papildyti Įstatymą 30^1 straipsniu:
 
 3. Įstatymai gali numatyti ir kitų tarnybinę atsakomybę lengvinančių ir sunkinančių aplinkybių.“
 
-\#### 7 straipsnis. 44 straipsnio 1 dalies papildymas 19 ir 20 punktais
+## 7 straipsnis. 44 straipsnio 1 dalies papildymas 19 ir 20 punktais
 
 1. Papildyti 44 straipsnio 1 dalį 19 punktu:
 
@@ -140,7 +140,7 @@ Papildyti Įstatymą 30^1 straipsniu:
 
 „20) valstybės tarnautoją į pareigas priėmęs asmuo nevykdo šio Įstatymo 3^1 straipsnio 2 ir 3 dalyse nustatytų pareigų.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2011 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D645F86859F0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D645F86859F0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo 24 ir 25 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [98-3482](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F); 2010, Nr. [45-2174](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E421A12D76D))
 
-\#### 1 straipsnis. 24 straipsnio pakeitimas
+## 1 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie
 
 2) šio straipsnio 1 punkte nenurodytiems gėrimams – 198 litai už produkto hektolitrą.“
 
-\#### 2 straipsnis. 25 straipsnio pakeitimas
+## 2 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 304 litai už produkto hektolitrą.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

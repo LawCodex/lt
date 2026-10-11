@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1259CE58151F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1259CE58151F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 11 ir 26 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 2003, Nr. [117-5317](https://www.e-tar.lt/portal/lt/legalAct/TAR.084B9677FCAF); 2005, Nr. [142-5105](https://www.e-tar.lt/portal/lt/legalAct/TAR.4DCF5210CEB9); 2006, Nr. [61-2175](https://www.e-tar.lt/portal/lt/legalAct/TAR.360031558A9A), Nr. [73-2765](https://www.e-tar.lt/portal/lt/legalAct/TAR.4EC890A40CDB); 2008, Nr. [76-3006](https://www.e-tar.lt/portal/lt/legalAct/TAR.870134494A56))
 
-\#### 1 straipsnis. 11 straipsnio 2, 5 dalių, 6 dalies 5 punkto ir 8 dalies 3 punkto pakeitimas
+## 1 straipsnis. 11 straipsnio 2, 5 dalių, 6 dalies 5 punkto ir 8 dalies 3 punkto pakeitimas
 
 1. 11 straipsnio 2 dalyje vietoj žodžio „vadovaudamasi“ įrašyti žodį „vadovaudamasis“, vietoj žodžių „Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės (toliau – Valstybinė tabako ir alkoholio kontrolės tarnyba)“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „3) jeigu pačioms įmonėms, įmonių vadovams ar kitiems įmonių darbuotojams (veikusiems įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl bausmės ar nuobaudos skyrimo už tabako ar tabako gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą;“.
 
-\#### 2 straipsnis. 26 straipsnio 13 dalies 2, 3 ir 4 punktų pakeitimas
+## 2 straipsnis. 26 straipsnio 13 dalies 2, 3 ir 4 punktų pakeitimas
 
 1. 26 straipsnio 13 dalies 2 punkte vietoj žodžių „Valstybės tabako ir alkoholio kontrolės tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šį punktą išdėstyti taip:
 
@@ -56,11 +56,11 @@ Vilnius
 
 „4) Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos – už 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 3 dalies 1, 2, 3, 4, 6 ir 7 punktų, 5 dalies, 15, 16 straipsnių, 18 straipsnio, 19 straipsnio 1 dalies 5punkto nuostatų pažeidimus;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2011 m. balandžio 1 d.
 
-\#### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2011 m. kovo 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

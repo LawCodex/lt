@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1866A40EE952"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1866A40EE952.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239), Nr. [171-6325](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A9D53671BAE), Nr. [188-7002](https://www.e-tar.lt/portal/lt/legalAct/TAR.41AE07789F2A); 2005, Nr. [61-2159](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB690AFBE93), Nr. [86-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.61D84FD9FC5C); 2006, Nr. [57-2023](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4EF4E7BE664))
 
-\#### 1 straipsnis. 6 straipsnio 4 dalies papildymas 19 punktu
+## 1 straipsnis. 6 straipsnio 4 dalies papildymas 19 punktu
 
 Papildyti 6 straipsnio 4 dalį 19 punktu:
 
 „19) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

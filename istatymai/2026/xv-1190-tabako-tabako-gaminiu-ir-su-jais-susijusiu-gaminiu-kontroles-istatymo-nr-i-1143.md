@@ -10,7 +10,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d5a55562bd7d11f1baf5938282b7b257"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/d5a55562bd7d11f1baf5938282b7b257.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 8-3, 8-5, 9, 9-3, 9-4, 9-9, 9-10, 9-11, 17 ir 26 straipsnių pakeitimo įstatymas

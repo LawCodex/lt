@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3001D49869F9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3001D49869F9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 19, 20, 21, 23, 28, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo ir 18 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3046](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E); 2008, Nr. [137-5370](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A9825575BCD); 2010, Nr. [67-3341](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A7AFA3A0DEF); 2011, Nr. [52-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBDFD4B123B0); 2012, Nr. [44-2144](https://www.e-tar.lt/portal/lt/legalAct/TAR.8BF201D0F8C9))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šis įstatymas nustato reikalavimus atskiro viešojo sektoriaus subjekto ataskaitų rinkiniams, viešojo sektoriaus subjektų grupės konsoliduotųjų finansinių ir viešojo sektoriaus subjektų grupės konsoliduotųjų biudžeto vykdymo ataskaitų rinkiniams, valstybės konsoliduotųjų ataskaitų rinkiniui, savivaldybės konsoliduotųjų ataskaitų rinkiniui ir nacionaliniam finansinių ataskaitų rinkiniui, taip pat Valstybinio socialinio draudimo fondo konsoliduotųjų ataskaitų ir Privalomojo sveikatos draudimo fondo konsoliduotųjų ataskaitų rinkiniams.“
 
-\#### 2 straipsnis. 2 straipsnio 3, 7, 12, 20, 22, 34, 38, 39 dalių pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio 3, 7, 12, 20, 22, 34, 38, 39 dalių pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „39. **Žemesniojo lygio biudžeto išlaidų arba lėšų sąmatų vykdymo aiškinamasis raštas** – biudžeto vykdymo ataskaita, kurioje paaiškinamos biudžeto išlaidų arba lėšų sąmatų nevykdymo priežastys, taip pat pateikiama papildoma reikšminga informacija, nenurodoma žemesniojo lygio biudžeto išlaidų arba lėšų sąmatų vykdymo ataskaitose.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
@@ -100,27 +100,27 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 3. Aukštesniojo lygio ataskaitų rinkinius rengia valstybė ir savivaldybės. Nacionalinis finansinių ataskaitų rinkinys yra aukštesniojo lygio ataskaitų rinkinys.“
 
-\#### 4 straipsnis. 18 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 18 straipsnio pripažinimas netekusiu galios
 
 Pripažinti 18 straipsnį netekusiu galios.
 
-\#### 5 straipsnis. 19 straipsnio 5 dalies pakeitimas
+## 5 straipsnis. 19 straipsnio 5 dalies pakeitimas
 
 Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Išteklių fondai, išskyrus Valstybinio socialinio draudimo fondą ir Privalomojo sveikatos draudimo fondą, mokesčių fondai ir viešosios įstaigos, kurių vadovai nėra asignavimų valdytojai ir kurios pagal šį įstatymą priskiriamos prie viešojo sektoriaus subjektų, nesudaro biudžeto vykdymo ataskaitų, jeigu kituose teisės aktuose nenustatyta kitaip.“
 
-\#### 6 straipsnis. 20 straipsnio 3 dalies pripažinimas netekusia galios
+## 6 straipsnis. 20 straipsnio 3 dalies pripažinimas netekusia galios
 
 Pripažinti 20 straipsnio 3 dalį netekusia galios.
 
-\#### 7 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu yra priimtas sprendimas likviduoti ar reorganizuoti viešojo sektoriaus subjektą, tas viešojo sektoriaus subjektas turi parengti finansinės būklės ataskaitą, biudžeto išlaidų arba lėšų sąmatos vykdymo ataskaitą pagal sprendimo likviduoti ar reorganizuoti viešojo sektoriaus subjektą priėmimo dienos duomenis ir finansinių ataskaitų bei biudžeto vykdymo ataskaitų rinkinius pagal faktinio likvidavimo ar reorganizavimo dienos duomenis. Biudžeto išlaidų arba lėšų sąmatos vykdymo ataskaitos ir biudžeto vykdymo ataskaitų rinkinio nesudaro tie viešojo sektoriaus subjektai, kuriems taikoma šio įstatymo 19 straipsnio 5 dalis.“
 
-\#### 8 straipsnis. 23 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 23 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 23 straipsnį ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Pakeisti ir papildyti 23 straipsnį ir jį išdėstyti taip:
 
 5. Valstybinio socialinio draudimo fondo konsoliduotųjų ataskaitų rinkinį rengia Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, o Privalomojo sveikatos draudimo fondo konsoliduotųjų ataskaitų rinkinį – Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos.“
 
-\#### 9 straipsnis. 28 straipsnio pakeitimas
+## 9 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 3. Kitus žemesniojo lygio biudžeto vykdymo ataskaitų formų ir jų sudarymo tvarkos reikalavimus viešojo sektoriaus subjektams nustato finansų ministras.“
 
-\#### 10 straipsnis. 29 straipsnio pakeitimas
+## 10 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -178,7 +178,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 2. Kitus aukštesniojo lygio biudžeto vykdymo ataskaitų formų ir jų sudarymo tvarkos reikalavimus nustato finansų ministras.“
 
-\#### 11 straipsnis. 30 straipsnio pakeitimas
+## 11 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -200,7 +200,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 3. Valstybės kontrolė ne vėliau kaip iki kitų metų spalio 1 dienos Vyriausybei ir ne vėliau kaip iki kitų metų spalio 10 dienos Seimui pateikia valstybinio audito išvadas ir audito ataskaitas dėl šio straipsnio 2 dalyje nurodytų metinių ataskaitų rinkinių.“
 
-\#### 12 straipsnis. 31 straipsnio 2 ir 5 dalių pakeitimas
+## 12 straipsnis. 31 straipsnio 2 ir 5 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -210,7 +210,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 „5. Nacionalinio finansinių ataskaitų rinkinio ataskaitas pasirašo finansų ministras.“
 
-\#### 13 straipsnis. 32 straipsnio pakeitimas
+## 13 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -244,25 +244,25 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 9. Vyriausybė, pritarusi šio straipsnio 6, 7 ir 8 dalyse nurodytų ataskaitų rinkiniams, teikia juos Seimui ne vėliau kaip iki spalio 10 dienos.“
 
-\#### 14 straipsnis. 33 straipsnio 5 dalies pakeitimas
+## 14 straipsnis. 33 straipsnio 5 dalies pakeitimas
 
 Pakeisti 33 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Nacionalinį finansinių ataskaitų rinkinį kartu su valstybinio audito išvada savo interneto svetainėje skelbia Finansų ministerija per 10 dienų nuo pritarimo jam Vyriausybėje.“
 
-\#### 15 straipsnis. 35 straipsnio 3 dalies pakeitimas
+## 15 straipsnis. 35 straipsnio 3 dalies pakeitimas
 
 Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Už konsoliduotųjų ataskaitų parengimą, pateikimą teisės aktuose nurodytoms įstaigoms ir institucijoms ir paskelbimą laiku atsako viešojo sektoriaus subjekto vadovas arba jo įgaliotas administracijos vadovas teisės aktų nustatyta tvarka.“
 
-\#### 16 straipsnis. 36 straipsnio 4 dalies pakeitimas
+## 16 straipsnis. 36 straipsnio 4 dalies pakeitimas
 
 Pakeisti 36 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Pagal šį įstatymą sudaromi 2013 metų ir vėlesnių metų metiniai nacionaliniai finansinių ataskaitų rinkiniai.“
 
-\#### 17 straipsnis. Įstatymo taikymas
+## 17 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas, išskyrus 2 straipsniu keičiamo Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies 7–10 punktus, taikomas 2013 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams.
 

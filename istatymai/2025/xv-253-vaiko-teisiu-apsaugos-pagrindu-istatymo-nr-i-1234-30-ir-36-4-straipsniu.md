@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e87541a04ab511f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E87541A04AB5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 30 ir 36-4 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ VAIKO TEISIŲ APSAUGOS PAGRINDŲ ĮSTATYMO NR. I-1234 30 IR 364 STRAIPSNIŲ PAKE
 
 Vilnius
 
-\#### 1 straipsnis. 30 straipsnio pakeitimas
+## 1 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „2) jis įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu yra pripažintas kaltu padaręs kitą, nei nurodyta šio straipsnio 1 dalyje, tyčinįnusikaltimą, jeigu teistumas už jį neišnykęs ar nepanaikintas;“.
 
-\#### 2 straipsnis. 364 straipsnio pakeitimas
+## 2 straipsnis. 364 straipsnio pakeitimas
 
 1. Pakeisti 364 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 „8. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, pritaikę šio straipsnio 1 dalies 1 ar 2 punkte nurodytą vaiko laikinosios priežiūros priemonę, nedelsdami, bet ne vėliau kaip kitą darbo dieną nuo vaiko laikinosios priežiūros priemonės pritaikymo dienos Įtariamųjų, kaltinamųjų ir nuteistųjų registre patikrina, ar vaiką laikinai prižiūrinčiam asmeniui netaikomi šio įstatymo 30 straipsnio 1 dalyje nustatyti apribojimai. Išimtiniais atvejais, kai Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius neturi techninių galimybių patys tiesiogiai patikrinti šią informaciją Įtariamųjų, kaltinamųjų ir nuteistųjų registre, o skubiai patikrinti informaciją yra objektyviai būtina, šiai informacijai patikrinti gali būti pasitelkiami policijos pareigūnai.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 1 straipsnio 6 dalis įsigalioja 2025 m. rugpjūčio 1 d.
 

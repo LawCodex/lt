@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7a794912e56211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A794912E562.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 15 IR 27 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas
+## 1 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 2 dalies 20 punktą ir jį išdėstyti taip:
 
 „20) sprendimų dėl savivaldybei patikėjimo teise perduotos valstybinės žemės valdymo, naudojimo ir disponavimo ja, išskyrus sprendimus ir sutikimus, nurodytus šio įstatymo 27 straipsnio 2 dalies 29 ir 291 punktuose, ir sprendimų dėl sutikimo perimti kitą valstybės turtą savivaldybės nuosavybėn priėmimas;“.
 
-\#### 2 straipsnis. 27 straipsnio pakeitimas
+## 2 straipsnis. 27 straipsnio pakeitimas
 
 1. Pakeisti 27 straipsnio 2 dalies 29 punktą ir jį išdėstyti taip:
 
@@ -46,13 +46,13 @@ Pakeisti 15 straipsnio 2 dalies 20 punktą ir jį išdėstyti taip:
 
 „4. Šio straipsnio 2 dalies 12, 13, 28, 29, 291 ir 30 punktuose nustatytas funkcijas meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti atlikti savivaldybės administracijos direktorių.“
 
-\#### 3 straipsnis. 27 straipsnio pakeitimas
+## 3 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 2 dalies 29 punktą ir jį išdėstyti taip:
 
 „29) išduoda sutikimus ir priima sprendimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, kurie susiję su: žemės valdytojo pritarimu Lietuvos Respublikos teritorijų planavimo įstatyme nustatytais atvejais, statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu; valstybinės žemės nuomos teisės perleidimu ar įkeitimu; teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymu; sandoriu ir administraciniu aktunustatomų servitutų Lietuvos Respublikos žemės įstatyme nustatytais atvejais; bendraturčio teisių įgyvendinimu; sprendimų dėl valstybinės žemės sklypų suformavimo priėmimu; žemės sklypo ribų paženklinimo akto ir (ar) žemės sklypo plano, žemės sklypo dalių plano pasirašymu ir (ar) tvirtinimu, pasirašo priėmimo–perdavimo aktą dėl savivaldybės patikėjimo teise valdomų valstybinės žemės sklypų perdavimo centralizuotai valdomo valstybės turto valdytojui valdyti patikėjimo teise;“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 3 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2026 m. gegužės 1 d.
 

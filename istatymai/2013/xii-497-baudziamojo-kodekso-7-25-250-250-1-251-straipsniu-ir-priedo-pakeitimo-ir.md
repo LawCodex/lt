@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3DAE6BB25A2A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3DAE6BB25A2A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 7, 25, 250, 250-1, 251 straipsnių ir priedo pakeitimo ir papildymo ir Kodekso papildymo 249-1, 250-2, 250-3, 250-4, 250-5, 252-1 straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2003, Nr. [38-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.975256606460); 2004, Nr. [72-2492](https://www.e-tar.lt/portal/lt/legalAct/TAR.ECF5798E6803), Nr. [171-6318](https://www.e-tar.lt/portal/lt/legalAct/TAR.17F006B6E523), Nr. [188-6995](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D7722C941FC); 2005, Nr. [81-2945](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC5B5908CC19); 2006, Nr. [77-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5BA1A8418B6); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC); 2008, Nr. [59-2200](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCB3FDD669C6); 2010, Nr. [1-1](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB24057B6BC0), Nr. [75-3792](https://www.e-tar.lt/portal/lt/legalAct/TAR.9039A758A526); 2011, Nr. [38-1805](https://www.e-tar.lt/portal/lt/legalAct/TAR.32D852C5EE57), Nr. [81-3959](https://www.e-tar.lt/portal/lt/legalAct/TAR.31B9BBE2605B), Nr. [163-7777](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE26D84C866D); 2012, Nr. [4-115](https://www.e-tar.lt/portal/lt/legalAct/TAR.5CC68712A93B), Nr. [82-4276](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F2EE9AFA966); 2013, Nr. [62-3057](https://www.e-tar.lt/portal/lt/legalAct/TAR.0742F54602BA))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 12) nusikaltimus aplinkai (270, 2701, 2702, 271, 272, 274 straipsniai).“
 
-\#### 2 straipsnis. 25 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 25 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 25 straipsnio 3 dalyje po žodžio „vieną“ įrašyti žodį „apysunkį“ ir šią dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 „4. Nusikalstamas susivienijimas yra tada, kai bendrai nusikalstamai veiklai – vienam ar keliems apysunkiams, sunkiems ar labai sunkiems nusikaltimams daryti – susivienija trys ar daugiau asmenų, kuriuos sieja pastovūs tarpusavio ryšiai bei vaidmenų ar užduočių pasiskirstymas.Nusikalstamam susivienijimui prilyginama antikonstitucinė grupė ar organizacija bei teroristinė grupė.“
 
-\#### 3 straipsnis. Kodekso papildymas 2491 straipsniu
+## 3 straipsnis. Kodekso papildymas 2491 straipsniu
 
 Papildyti Kodeksą 249^1 straipsniu:
 
@@ -90,7 +90,7 @@ baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės
 
 5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 4 straipsnis. 250 straipsnio pakeitimas
+## 4 straipsnis. 250 straipsnio pakeitimas
 
 Pakeisti 250 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 6. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 5 straipsnis. 2501 straipsnio pakeitimas
+## 5 straipsnis. 2501 straipsnio pakeitimas
 
 Pakeisti 250^1straipsnį ir jį išdėstyti taip:
 
@@ -130,7 +130,7 @@ baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 6 straipsnis. Kodekso papildymas 2502 straipsniu
+## 6 straipsnis. Kodekso papildymas 2502 straipsniu
 
 Papildyti Kodeksą 250^2 straipsniu:
 
@@ -142,7 +142,7 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 7 straipsnis. Kodekso papildymas 2503 straipsniu
+## 7 straipsnis. Kodekso papildymas 2503 straipsniu
 
 Papildyti Kodeksą 250^3 straipsniu:
 
@@ -154,7 +154,7 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 8 straipsnis. Kodekso papildymas 2504 straipsniu
+## 8 straipsnis. Kodekso papildymas 2504 straipsniu
 
 Papildyti Kodeksą 250^4straipsniu:
 
@@ -166,7 +166,7 @@ baudžiamas laisvės atėmimu iki dešimties metų.
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 9 straipsnis. Kodekso papildymas 2505 straipsniu
+## 9 straipsnis. Kodekso papildymas 2505 straipsniu
 
 Papildyti Kodeksą 250^5straipsniu:
 
@@ -178,7 +178,7 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 10 straipsnis. 251 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 251 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 251 straipsnį ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 6. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 11 straipsnis. Kodekso papildymas 2521 straipsniu
+## 11 straipsnis. Kodekso papildymas 2521 straipsniu
 
 Papildyti Kodeksą 252^1 straipsniu:
 
@@ -218,7 +218,7 @@ Papildyti Kodeksą 252^1 straipsniu:
 
 3. Teroristiniai tikslai – siekimas labai įbauginti visuomenę ar jos dalį arba neteisėtai priversti tarptautinę viešąją organizaciją, valstybę ar jos instituciją atlikti bet kokį veiksmą arba susilaikyti nuo jo atlikimo, arba destabilizuoti ar sunaikinti svarbiausius valstybės konstitucinius, politinius, ekonominius ar socialinius darinius ar tarptautinę viešąją organizaciją.“
 
-\#### 12 straipsnis. Kodekso priedo papildymas ir pakeitimas
+## 12 straipsnis. Kodekso priedo papildymas ir pakeitimas
 
 1. Papildyti Kodekso priedą nauju 19 punktu:
 

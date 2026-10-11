@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/16446f00044c11e9a5eaf2cd290f1944"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.16446F00044C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-882 4 ir 8 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnyje išdėstyto Lietuvos Respublikos šalpos pensijų įstatymo 15 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnyje išdėstyto Lietuvos Respublikos šalpos pensijų įstatymo 15 straipsnio pakeitimas
 
 Pakeisti 4 straipsnyje išdėstyto Lietuvos Respublikos šalpos pensijų įstatymo 15 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Asmenims, kuriems paskirtos šalpos išmokos, išduodami pažymėjimai, kurių formas ir išdavimo tvarką nustato Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos.“
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip:
 

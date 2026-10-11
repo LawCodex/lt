@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.08E5211F532F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08E5211F532F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje ,,Partnerystė taikos labui", susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymo papildymo priedu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [48-1143](https://www.e-tar.lt/portal/lt/legalAct/TAR.41A0FA28E88B))
 
-\#### 1 straipsnis. Įstatymo papildymas priedu
+## 1 straipsnis. Įstatymo papildymas priedu
 
 Lietuvos Respublikos Seimas, atsižvelgdamas į Respublikos Prezidento 2008 m. birželio 4 d. dekretą Nr. 1K-1368, papildo Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje „Partnerystė taikos labui“, susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymą priedu:
 
@@ -100,7 +100,7 @@ pareiškia, kad:
 
 5. Šiame pareiškime minimą nuostatą „NATO susitarimo objektas ir tikslas“ Lietuvos Respublika supranta kaip „NATO susitarimo objektas ir tikslas, kiek jis yra susijęs su PTL susitarimo objektu ir tikslu“; nuostatą „NATO susitarimo įgyvendinimas“ Lietuvos Respublika supranta kaip „NATO susitarimo įgyvendinimas, kiek jis yra susijęs su PTL susitarimo įgyvendinimu“.
 
-\#### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2008 m. spalio 1 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

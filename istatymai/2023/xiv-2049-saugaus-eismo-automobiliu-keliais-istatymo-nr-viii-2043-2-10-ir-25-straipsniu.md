@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b3b7ccc010bb11ee9f7ec2ffce8b47bc"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B3B7CCC010BB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir 25 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
@@ -137,5 +137,3 @@ Papildyti Įstatymą 171 straipsniu:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_5f42c0d9ba764e9b9e8041a9b60f3797_end

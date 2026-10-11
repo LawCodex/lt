@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3536ecb2ca0311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3536ECB2CA03.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-2398 13 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYM
 
 Vilnius
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas
+## 1 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip:
 

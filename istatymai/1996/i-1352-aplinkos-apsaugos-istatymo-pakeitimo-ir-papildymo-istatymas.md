@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A497A19DF124.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 1 straipsnį – antrojoje pastraipoje vietoj žodžių „sistema, kurią sudaro tarpusavyje susiję komponentai“ įrašyti žodžius „visuma tarpusavyje susijusių elementų“, po žodžio „medžiagos“ įrašyti žodžius „antropogeniniai komponentai“, vietoj žodžio „ekosistemos“ įrašyti žodį „sistemos“, pakeisti šeštąją ir septintąją pastraipas, dešimtojoje pastraipoje vietoj žodžio „ekologinis“ įrašyti žodį „aplinkos“, pakeisti vienuoliktąją pastraipą, papildyti penkioliktąja pastraipa ir visą straipsnį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti ir papildyti 1 straipsnį – antrojoje pastraipoje vietoj žodžių �
 
 **teršalų emisija** – tai teršiančios medžiagos išmetimas į aplinką.“
 
-\#### 2 straipsnis. 2 straipsnio pirmosios dalies pakeitimas
+## 2 straipsnis. 2 straipsnio pirmosios dalies pakeitimas
 
 Pakeisti 2 straipsnio pirmąją dalį ir ją išdėstyti taip:
 
 „Šis įstatymas reguliuoja visuomeninius santykius aplinkosaugos srityje,nustato pagrindines juridinių bei fizinių asmenų teises ir pareigas išsaugant Lietuvos Respublikai būdingą biologinę įvairovę, ekologines sistemas bei kraštovaizdį, užtikrinant sveiką ir švarią aplinką, racionalų gamtos išteklių naudojimą Lietuvos Respublikoje, jos teritoriniuose vandenyse, kontinentiniame šelfe ir ekonominėje zonoje.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Lietuvos Respublikos Seimas, formuodamas aplinkos apsaugos valstybės politiką:
 
 5) vykdo kitas įstatymų nustatytas funkcijas.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -178,7 +178,7 @@ Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyr
 
 10) vykdo kitas įstatymų nustatytas funkcijas.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 Pakeisti 7 straipsnio 1, 2, 4 ir 5 punktus, 6 punkte po žodžio „organizuoti“ įrašyti žodžius „ir dalyvauti vykdant“, papildyti 9 punktu ir visą straipsnį išdėstyti taip:
 
@@ -204,7 +204,7 @@ Piliečiai ir visuomeninės organizacijos turi teisę:
 
 9) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas nustatyta tvarka.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 5 ir 6 punktus ir visą straipsnį išdėstyti taip:
 
@@ -230,7 +230,7 @@ Valstybės valdžios, valdymo ir kontrolės institucijos pagal savo kompetencij�
 
 9) skatinti piliečius, visuomenines organizacijas dalyvauti saugant aplinką.“
 
-\#### 7 straipsnis. 12 straipsnio pakeitimas
+## 7 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -250,7 +250,7 @@ Gamtinio pobūdžio saugomas teritorijas ir kitas aplinkos apsaugos požiūriu s
 
 Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos Respublikos saugomų teritorijų įstatymas,kiti įstatymai ir teisės aktai.“
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas
+## 8 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį – vietoj žodžio „kadastro“ įrašyti žodį „kadastrų“, išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“ ir visą straipsnį išdėstyti taip:
 
@@ -258,7 +258,7 @@ Pakeisti 13 straipsnį – vietoj žodžio „kadastro“ įrašyti žodį „ka
 
 Valstybinės gamtos išteklių apskaitos, kadastrų tvarkymo ir atskaitomybės tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 9 straipsnis. 15 straipsnio pakeitimas
+## 9 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį – pavadinime vietoj žodžio „prognozavimas“ įrašyti žodį „vertinimas“, pirmojoje dalyje vietoj žodžio „ekologinio“ įrašyti žodį „aplinkos“, pakeisti antrąją ir trečiąją dalis, ketvirtojoje dalyje vietoj žodžių „departamentas, suderinęs su Lietuvos Respublikos Vyriausybe“ įrašyti žodį „ministerija“ ir visą straipsnį išdėstyti taip:
 
@@ -272,7 +272,7 @@ Juridiniai ir fiziniai asmenys, planuojantys užsiimti ūkine veikla, savo lėš
 
 Dokumentacijos apie ūkinės veiklos galimą įtaką aplinkai rengimo tvarką nustato Lietuvos Respublikos aplinkos apsaugos ministerija.“
 
-\#### 10 straipsnis. 16 straipsnio pakeitimas
+## 10 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -284,13 +284,13 @@ Juridiniai ir fiziniai asmenys, projektuojantys objektų, galinčių turėti pov
 
 Projektinė dokumentacija nustatyta tvarka suderinama su vietos savivaldos institucijomis ir Aplinkos apsaugos ministerija.“
 
-\#### 11 straipsnis. 18 straipsnio antrosios dalies pakeitimas
+## 11 straipsnis. 18 straipsnio antrosios dalies pakeitimas
 
 Pakeisti 18 straipsnio antrąją dalį – vietoj žodžių „Aplinkos apsaugos departamento“ įrašyti žodžius „Aplinkos apsaugos ministerijos“, po žodžio „pareigūnai“ įrašyti žodžius „arba pateikiamos jų išvados“ ir šią dalį išdėstyti taip:
 
 „Priimant pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja Aplinkos apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.“
 
-\#### 12 straipsnis. 19 straipsnio pakeitimas
+## 12 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį – pirmojoje dalyje vietoj žodžių „Lietuvos Respublikos aplinkos apsaugos departamento“ įrašyti žodžius „Aplinkos apsaugos ministerijos“, vietoj žodžių „teršalų išmetimo į aplinką leidimą (ekologinį pasą-leidimą)“ įrašyti žodžius „teršalų emisijos į aplinką leidimą (gamtos išteklių naudojimo leidimą)“, antrojoje dalyje išbraukti žodžius „gamtos išteklių naudojimo ir teršalų išmetimo į aplinką“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“, ketvirtojoje dalyje vietoj žodžio „tvarkyti“ įrašyti žodžius „nustatyta tvarka vykdyti“, išbraukti žodžius „Lietuvos Respublikos aplinkos apsaugos departamento nustatyta tvarka“, penktojoje dalyje vietoj žodžių „teršalų išmetimo į aplinką leidimas“ įrašyti žodžius „teršalų emisijos į aplinką leidimas“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“ ir visą straipsnį išdėstyti taip:
 
@@ -306,7 +306,7 @@ Juridiniai ir fiziniai asmenys, eksploatuodami ūkinės veiklos objektus, prival
 
 Juridiniai ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus, kuriems nereikalingas gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimas, privalo laikytis tokiems objektams nustatytų aplinkos apsaugos normatyvų ir standartų.“
 
-\#### 13 straipsnis. 20 straipsnio pakeitimas
+## 13 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio pirmąją dalį, antrąją ir trečiąją dalis pripažinti netekusiomis galios, pakeisti ketvirtąją dalį ir ją laikyti antrąja dalimi, pakeisti penktąją dalį ir ją laikyti trečiąja dalimi ir visą straipsnį išdėstyti taip:
 
@@ -318,7 +318,7 @@ Pavojingų cheminių medžiagų naudojimo, saugojimo, apskaitos ir leidimų išd
 
 Lietuvos Respublikoje draudžiama cheminio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.“
 
-\#### 14 straipsnis. 21 straipsnio pakeitimas
+## 14 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -330,7 +330,7 @@ Gaminti radioaktyviąsias medžiagas, skirtas branduoliniam ginklui arba atomini
 
 Lietuvos Respublikoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.“
 
-\#### 15 straipsnis. 22 straipsnio pakeitimas
+## 15 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -340,7 +340,7 @@ Potencialių biologinių taršos šaltinių naudojimo, saugojimo, apskaitos, kū
 
 Lietuvos Respublikoje draudžiama biologinio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.“
 
-\#### 16 straipsnis. 23 straipsnio pakeitimas
+## 16 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio pirmąją dalį, iš trečiosios dalies išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“, pakeisti penktąją dalį, septintąją dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
@@ -358,7 +358,7 @@ Pavojingų ir radioaktyviųjų atliekų tvarkymą organizuoja Lietuvos Respublik
 
 Atliekas įvežti į Lietuvos Respubliką joms saugoti, nukenksminti arba laidoti draudžiama.“
 
-\#### 17 straipsnis. 24 straipsnio pakeitimas
+## 17 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį – pirmojoje dalyje vietoj žodžių „viršijami aplinkos būklės kokybės normatyvai“ įrašyti žodžius „labai ir (ar) nuolat viršijami aplinkos kokybės normatyvai, degraduoja aplinka“, pakeisti trečiąją dalį, ketvirtojoje dalyje vietoj žodžio „arba“ įrašyti žodį „ir“, vietoj žodžių „pagal Lietuvos Respublikos aplinkos apsaugos departamento teikimą“ įrašyti žodžius „Aplinkos apsaugos ministerijos teikimu“, šeštosios dalies antrajame sakinyje vietoj žodžio „savivaldybė“ įrašyti žodžius „Aplinkos apsaugos ministerija“ ir išbraukti žodžius „suderinusi su Aplinkos apsaugos departamentu“, pakeisti septintąją dalį, aštuntojoje dalyje vietoj žodžių „ir savivaldybės“ įrašyti žodžius „apskrities valdytojas ar vietos savivaldos institucijos“ ir visą straipsnį išdėstyti taip:
 
@@ -382,7 +382,7 @@ Lietuvos Respublikos Vyriausybė, apskrities valdytojas ar vietos savivaldos ins
 
 Ekologinių nelaimių likvidavimo išlaidas atlygina kalti juridiniai ir fiziniai asmenys, o kitais atvejais – valstybė.“
 
-\#### 18 straipsnis. 25 straipsnio pakeitimas
+## 18 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -394,7 +394,7 @@ Valstybinis aplinkos monitoringas finansuojamas iš valstybės lėšų.Ūkio sub
 
 Valstybinio ir ūkio subjektų aplinkos monitoringo turinį, struktūrą bei vykdymo tvarką nustato Aplinkos monitoringo įstatymas.“
 
-\#### 19 straipsnis. 26 straipsnio pakeitimas
+## 19 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį – pirmojoje dalyje po žodžio „ribojamas“ įrašyti žodžius „aplinkos apsaugos“, vietoj žodžio „limitavimu“ įrašyti žodį „limitais“, antrojoje dalyje vietoj žodžio „išmetimo“ įrašyti žodį „emisijos“, vietoj žodžio „kokybės“ įrašyti žodį „apsaugos“, trečiojoje dalyje vietoj žodžių „ekologinę ekspertizę“ įrašyti žodžius „poveikio aplinkai vertinimą“ ir visą straipsnį išdėstyti taip:
 
@@ -406,7 +406,7 @@ Lietuvos Respublikoje nustatomi teršalų koncentracijos aplinkoje bei atskiruos
 
 Prieš naujos technologijos, gaminio ar medžiagos kūrimą, gamybos pradžią ir įdiegimą būtina atlikti poveikio aplinkai vertinimą.“
 
-\#### 20 straipsnis. 27 straipsnio pakeitimas
+## 20 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -416,7 +416,7 @@ Poveikio aplinkai vertinimo valstybinę ekspertizę nustatyta tvarka organizuoja
 
 Poveikio aplinkai vertinimo valstybinės ekspertizės išvados yra privalomos visiems juridiniams ir fiziniams asmenims.“
 
-\#### 21 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 21 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 30 straipsnį – iš antrosios dalies išbraukti žodžius „ ir Aplinkos apsaugos departamento“, trečiąją dalį papildyti antruoju sakiniu „Papildomas finansavimo šaltinis gali būti užsienio kreditai.“, ketvirtojoje dalyje vietoj žodžių „Aukščiausioji Taryba“ įrašyti žodį „Seimas“ ir šias dalis išdėstyti taip:
 
@@ -426,13 +426,13 @@ Valstybinis gamtos apsaugos fondas ir savivaldybių gamtos apsaugos fondai yra p
 
 Valstybinio gamtos apsaugos fondo sudarymo ir disponavimo juo tvarką nustato Lietuvos Respublikos Seimas.“
 
-\#### 22 straipsnis. VII skyriaus pavadinimo pakeitimas
+## 22 straipsnis. VII skyriaus pavadinimo pakeitimas
 
 Pakeisti VII skyriaus pavadinimą ir jį išdėstyti taip:
 
 „VII skyrius. Aplinkos apsaugos valstybinė kontrolė ir teisinė atsakomybė“.
 
-\#### 23 straipsnis. 31 straipsnio pakeitimas
+## 23 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -464,11 +464,11 @@ Vykdydami tarnybines pareigas, valstybiniai aplinkos apsaugos inspektoriai turi 
 
 Aplinkos apsaugos ministerija, vykdydama valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, steigia neetatinių aplinkos apsaugos inspektorių institucijas, tvirtina jų nuostatus.“
 
-\#### 24 straipsnis. 32 straipsnio antrosios dalies pripažinimas netekusia galios
+## 24 straipsnis. 32 straipsnio antrosios dalies pripažinimas netekusia galios
 
 Pripažinti netekusia galios 32 straipsnio antrąją dalį.
 
-\#### 25 straipsnis. 33 straipsnio pakeitimas
+## 25 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnio 2 punktą ir visą straipsnį išdėstyti taip:
 
@@ -480,7 +480,7 @@ Pareikšti ieškinius dėl neteisėta veika padarytos žalos turi teisę:
 
 2) Lietuvos Respublikos aplinkos apsaugos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.“
 
-\#### 26 straipsnis. 34 straipsnio pakeitimas
+## 26 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 

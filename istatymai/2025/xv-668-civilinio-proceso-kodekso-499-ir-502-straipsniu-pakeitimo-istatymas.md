@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/87dd3b20dfdb11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.87DD3B20DFDB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 499 ir 502 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ CIVILINIO PROCESO KODEKSO 499 IR 502 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 499 straipsnio pakeitimas
+## 1 straipsnis. 499 straipsnio pakeitimas
 
 1. Pakeisti 499 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „3) kiti asmenys, pareiškę norątapti šio vaiko globėjais ar rūpintojais;“.
 
-\#### 2 straipsnis. 502 straipsnio pakeitimas
+## 2 straipsnis. 502 straipsnio pakeitimas
 
 Pakeisti 502 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Apie bylos nagrinėjimą pranešama valstybinei vaiko teisių apsaugos institucijai, prokurorui, jeigu jis yra pareiškėjas, asmeniui, rekomenduojamam skirti globėju ar rūpintoju, kitiems asmenims, pareiškusiems norą tapti to paties vaiko globėjais ar rūpintojais, taip pat suinteresuotiems asmenims.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1c82408055c211f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1C82408055C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 2, 13, 26, 28, 40 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ ELEKTRONINIŲ PINIGŲ IR ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ ĮSTATYMO NR. XI-1868 2
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 15 dalį ir ją išdėstyti taip:
 
 „15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos mokėjimo įstaigų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 1. Pakeisti 13 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -50,13 +50,13 @@ Pakeisti 2 straipsnio 15 dalį ir ją išdėstyti taip:
 
 „17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai, (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme nustatytus reikalavimus, duomenis;“.
 
-\#### 3 straipsnis. 26 straipsnio pakeitimas
+## 3 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Svarbios elektroninių pinigų leidimo veiklos funkcijos, įskaitant funkcijas, susijusias su informacinių ir ryšių technologijų sistemomis, negali būti perduotos kitam asmeniui, jeigu jas perdavus iš esmės pablogėtų elektroninių pinigų įstaigos vidaus kontrolės kokybė ir priežiūros institucijos galimybė stebėti, ar elektroninių pinigų įstaiga laikosi visų šio įstatymo nustatytų ir (ar) kitų jos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų. Šiame įstatyme nurodytos svarbios veiklos funkcijos – tai funkcijos, dėl kurių nevykdymo ar netinkamo vykdymo elektroninių pinigų įstaiga nebeatitiktų nustatytų licencijos išdavimo reikalavimų ar kitų šio įstatymo ir (ar) elektroninių pinigų įstaigos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų arba būtų pakenkta elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, jos vykdomos elektroninių pinigų leidimo veiklos tęstinumui.“
 
-\#### 4 straipsnis. 28 straipsnio pakeitimas
+## 4 straipsnis. 28 straipsnio pakeitimas
 
 1. Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -66,13 +66,13 @@ Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Reikalavimai, taikomi elektroninių pinigų įstaigos finansinių ataskaitų rinkinio audito atlikimui, auditoriui ir audito įmonei, jų pareigos ir atsakomybė nustatyti Finansų įstaigų įstatyme, Akcinių bendrovių įstatyme ir Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme.“
 
-\#### 5 straipsnis. 40 straipsnio pakeitimas
+## 5 straipsnis. 40 straipsnio pakeitimas
 
 Papildyti 40 straipsnio 1 dalį 7^1 punktu:
 
 „7^1) pažeidžiami Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 6 straipsnis. Įstatymo priedo pakeitimas
+## 6 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 3 punktu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7d3b9910d0f811f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7D3B9910D0F8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 10, 12, 14, 18, 19, 20 straipsnių ir 1, 3 priedų pakeitimo įstatymas
@@ -26,7 +26,7 @@ KLIMATO KAITOS VALDYMO ĮSTATYMO NR. XI-329 10, 12, 14, 18, 19, 20 STRAIPSNIŲ I
 
 Vilnius
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „3. Šio straipsnio 1 dalies 3 punktas taikomas valstybėms, kurios yra pasirašiusios susitarimą dėl optimalios Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos ir toje valstybėje taikomų ŠESD mažinimo priemonių sąveikos.“
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 3) vykdomi į Jungtinių Tautų apibrėžtas mažiausiai išsivysčiusias šalis, mažas besivystančias salų valstybes ir iš jų, išskyrus Europos Komisijos įgyvendinimo reglamente dėl valstybių, kurios Europos Parlamento ir Tarybos direktyvos 2003/87/EB taikymo tikslais laikomos taikančiomis Tarptautinės civilinės aviacijos organizacijos pasaulinę rinkos priemonę (CORSIA), sąrašo išvardytas šalis ir valstybes, kurių bendrasis vidaus produktas (BVP) vienam gyventojui yra lygus Europos Sąjungos vidurkiui arba už jį didesnis.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -68,13 +68,13 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 2) vykdomi į Jungtinių Tautų apibrėžtas mažiausiai išsivysčiusias šalis, mažas besivystančias salų valstybes ir iš jų, išskyrus Europos Komisijos įgyvendinimo reglamente dėl valstybių, kurios Europos Parlamento ir Tarybos direktyvos 2003/87/EB taikymo tikslais laikomos taikančiomis Tarptautinės civilinės aviacijos organizacijos pasaulinę rinkos priemonę (CORSIA), sąrašo išvardytas šalis ir valstybes, kurių bendrasis vidaus produktas (BVP) vienam gyventojui yra lygus Europos Sąjungos vidurkiui arba už jį didesnis.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Reguliuojamieji subjektai neturi atsisakyti apyvartinių taršos leidimų už dėl išleisto vartoti kuro, skirto veikloms, nepatenkančioms į šio įstatymo 2 priede nurodytų veiklos rūšių sąrašą, išmestų ŠESD kiekį. Kai galutiniams kuro vartotojams vykdant veiklas, nepatenkančias į šio įstatymo 2 priedo veiklos rūšių sąrašą, padaromos išlaidos, kurios jiems perkeliamos dėl reguliuojamųjų subjektų atsisakymo apyvartinių taršos leidimų už dėl šio įstatymo 2 priede nurodytoms veikloms išleisto kuro išmetamų ŠESD kiekį, gali būti suteikiama finansinė kompensacija pagal Europos Komisijos priimtus įgyvendinimo aktus dėl išsamių taisyklių, kaip išvengti dvigubo skaičiavimo ir apyvartinių taršos leidimų už išmetamas ŠESD, kurioms šis straipsnis netaikomas, atsisakymo ir dėl finansinės kompensacijos galutiniams kuro vartotojams, kai tokio dvigubo skaičiavimo arba apyvartinių taršos leidimų atsisakymo negalima išvengti. Siekiant išvengti išlaidų perkėlimo rizikos, reguliuojamieji subjektai privalo nustatyti, patikimai ir tiksliai dokumentuoti kiekvienos rūšies išleidžiamo vartoti kuro, naudojamo šio įstatymo 2 priede nurodytoms veikloms, tikslius kiekius, išleidimo būdus ir išleidžiamo vartoti kuro galutinę paskirtį.“
 
-\#### 5 straipsnis. 14 straipsnio pakeitimas
+## 5 straipsnis. 14 straipsnio pakeitimas
 
 1. Papildyti 14 straipsnio 3 dalį 10 punktu:
 
@@ -84,7 +84,7 @@ Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „7. Šio straipsnio 3 dalies 10 punkte nurodytoms finansinėms priemonėms įgyvendinti skirtas valstybės pagalbos schemas rengia, derina su Europos Komisija ir tvirtina Vyriausybės įgaliota institucija.“
 
-\#### 6 straipsnis. 18 straipsnio pakeitimas
+## 6 straipsnis. 18 straipsnio pakeitimas
 
 1. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -108,25 +108,25 @@ Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „10. Atestatai išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas per Aplinkosaugos leidimų informacinę sistemą (toliau – ALIS). Duomenys ir informacija apie atestatus visuomenės informavimo tikslais viešinami ALIS ir Licencijų informacinėje sistemoje (toliau – LIS) iki atestato galiojimo panaikinimo dienos, taip sudarant palankias sąlygas paslaugų ieškantiems suinteresuotiems asmenims rasti atestatus turinčių paslaugų teikėjų. Viešinama ši atestatuose esanti informacija: fizinio asmens vardas ir pavardė arba juridinio asmens pavadinimas ir juridinio asmens kodas, veiklos rūšis, veiklos tipas, kategorija ir atestato galiojimo būsena.“
 
-\#### 7 straipsnis. 19 straipsnio pakeitimas
+## 7 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Fiziniai asmenys, norintys mokytis pagal vieną iš šio straipsnio 3 dalyje nurodytų programų ir gauti pažymėjimą, turi būti įgiję vidurinį išsilavinimą.“
 
-\#### 8 straipsnis. 20 straipsnio pakeitimas
+## 8 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio 2 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „2. Leidimai asmenims išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas per ALIS. Leidimai galioja neterminuotai. Informacija ir duomenys apie leidimus visuomenės informavimo tikslais viešinami ALIS ir LIS iki leidimo galiojimo panaikinimo dienos, taip sudarant palankias sąlygas paslaugų ieškantiems suinteresuotiems asmenims rasti leidimus turinčių paslaugų teikėjų. Viešinama ši leidimuose esanti informacija: fizinio asmens vardas ir pavardė arba juridinio asmens pavadinimas ir juridinio asmens kodas, leidimo išdavimo data, leidimo numeris, leidimo galiojimo būsena, mokymo programų pavadinimai. Leidimai išduodami asmenims, kurie atitinka šiuos reikalavimus:“.
 
-\#### 9 straipsnis. 1 priedo pakeitimas
+## 9 straipsnis. 1 priedo pakeitimas
 
 Pakeisti 1 priedo 1 punkto 1.29.1 papunktį ir jį išdėstyti taip:
 
 „1.29.1. skrydžiai tarp aerodromų, esančių dviejose skirtingose valstybėse, nurodytose Europos Komisijos įgyvendinamajame akte dėl Tarptautinės civilinės aviacijos organizacijos pasaulinę rinkos priemonę (CORSIA) taikančių valstybių sąrašo (toliau – Komisijos įgyvendinamasis aktas), ir skrydžiai tarp Šveicarijos Konfederacijos arba Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės ir valstybių, išvardytų Komisijos įgyvendinamajame akte, ir (kasmet apskaičiuojamo reikalaujamo kompensavimo už praėjusius kalendorinius metus tikslais) skrydžiai į valstybes, nurodytas Komisijos įgyvendinamajame akte, iš tų valstybių, tarp jų ir skrydžiai tarp Šveicarijos Konfederacijos arba Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės ir valstybių, nurodytų Komisijos įgyvendinamajame akte, ir (kompensavimo reikalavimų taikant Tarptautinės civilinės aviacijos organizacijos pasaulinę rinkos priemonę (CORSIA) tikslais) skrydžiai į valstybes, nurodytas Komisijos įgyvendinamajame akte, iš tų valstybių ir tarp jų, taip pat skrydžiai tarp Šveicarijos Konfederacijos arba Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės ir valstybių, nurodytų Komisijos įgyvendinamajame akte, kiti skrydžiai tarp aerodromų, esančių dviejose skirtingose trečiosiose šalyse, kuriuos vykdo orlaivių naudotojai, atitinkantys visas šias sąlygas:“.
 
-\#### 10 straipsnis. 3 priedo pakeitimas
+## 10 straipsnis. 3 priedo pakeitimas
 
 1. Pripažinti netekusiu galios 3 priedo 5 punktą.
 
@@ -140,7 +140,7 @@ Pakeisti 1 priedo 1 punkto 1.29.1 papunktį ir jį išdėstyti taip:
 
 25. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/627, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi su stacionarių elektros skirstomųjų įrenginių, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų, montavimu, aptarnavimu arba technine priežiūra, remontu arba eksploatacijos nutraukimu ir fluorintų šiltnamio efektą sukeliančių dujų surinkimu iš stacionarių elektros skirstomųjų įrenginių susiję fizinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2066.“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 2 straipsnis įsigalioja 2027 m. sausio 1 d.
 

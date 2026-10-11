@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/445cda3014eb11ee9f7ec2ffce8b47bc"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.445CDA3014EB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 3, 4, 5, 6, 8 ir 13 straipsnių pakeitimo įstatymas
@@ -169,5 +169,3 @@ Lietuvos Respublikos Vyriausybė iki 2023 m. liepos 31 d. priima šio įstatymo 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_72fe9b8ff8a64df78b28b0573ac1319c_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dc6d7fc255c411f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DC6D7FC255C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymo Nr. XIV-1888 2, 4 straipsnių pakeitimo ir Įstatymo papildymo 3-1, 3-2, 3-3 straipsniais įstatymas
@@ -26,7 +26,7 @@ RIBOJAMŲJŲ PRIEMONIŲ DĖL KARINĖS AGRESIJOS PRIEŠ UKRAINĄ NUSTATYMO ĮSTAT
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Šio įstatymo 3, 3^1 ir 3^2 straipsniuose nurodytos ribojamosios priemonės nustatomos Tarptautinių sankcijų įstatymo 6^1 straipsnyje nustatyta tvarka ir įgyvendinamos šio įstatymo ir Tarptautinių sankcijų įstatymo 6^2 straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo papildymas 31 straipsniu
+## 2 straipsnis. Įstatymo papildymas 31 straipsniu
 
 Papildyti Įstatymą 3^1 straipsniu:
 
@@ -112,7 +112,7 @@ Papildyti Įstatymą 3^1 straipsniu:
 
 13. Į sąrašą įtrauktas asmuo, nesutinkantis su Vyriausybės sprendimu taikyti šio straipsnio 1 ir 3 dalyse nurodytas priemones, turi teisę sprendimą apskųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 3 straipsnis. Įstatymo papildymas 32 straipsniu
+## 3 straipsnis. Įstatymo papildymas 32 straipsniu
 
 Papildyti Įstatymą 3^2 straipsniu:
 
@@ -156,7 +156,7 @@ Papildyti Įstatymą 3^2 straipsniu:
 
 2) tai yra į Lietuvos Respubliką vykstantiems fiziniams asmenims ar jų šeimos nariams (sutuoktiniui arba partneriui, vaikui (įvaikiui), įskaitant sutuoktinio arba partnerio nepilnamečius vaikus (įvaikius), taip pat tėvams (įtėviams), įskaitant sutuoktinio arba partnerio tėvus (įtėvius)) priklausantys asmeniniai daiktai, kurie yra skirti tik šių asmenų asmeniniam naudojimui ir nėra skirti parduoti.“
 
-\#### 4 straipsnis. Įstatymo papildymas 33 straipsniu
+## 4 straipsnis. Įstatymo papildymas 33 straipsniu
 
 Papildyti Įstatymą 3^3 straipsniu:
 
@@ -170,13 +170,13 @@ Papildyti Įstatymą 3^3 straipsniu:
 
 4. Asmenys imasi deramo tikrinimo veiksmų ir įgyvendina kontrolės priemones ir procedūras, proporcingas asmenų pobūdžiui ir dydžiui, siekdami užtikrinti, kad būtų laikomasi šio įstatymo 31 ir 32 straipsniuose nustatytų ribojamųjų priemonių ir jos būtų tinkamai įgyvendinamos.“
 
-\#### 5 straipsnis. 4 straipsnio pakeitimas
+## 5 straipsnis. 4 straipsnio pakeitimas
 
 Papildyti 4 straipsnį 1^1 dalimi:
 
 „1^1. Šio įstatymo 3^1 ir 3^2 straipsniuose nurodytos ribojamosios priemonės ir šio įstatymo 3^3 straipsnyje nustatytos šių ribojamųjų priemonių kontrolės priemonės taikomos, jeigu netaikomos ar iš dalies netaikomos analogiškos Europos Sąjungos ribojamosios priemonės, iki 2026 m. gegužės 2 d.“
 
-\#### 6 straipsnis. Įstatymo taikymas
+## 6 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo 3 straipsnyje išdėstyto Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymo 32 straipsnio 1 ir 2 dalių nuostatos taikomos sutartims, sudarytoms po sąrašo, nurodyto šio įstatymo 3 straipsnyje išdėstyto Ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymo 32 straipsnio 5 dalyje, patvirtinimo dienos.
 

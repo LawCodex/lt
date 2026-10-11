@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.18DA56441D72"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.18DA56441D72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 300, 302 straipsnių pakeitimo ir kodekso papildymo 302-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43))
 
-\#### 1 straipsnis. 300 straipsnio pakeitimas
+## 1 straipsnis. 300 straipsnio pakeitimas
 
 Pakeisti 300 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ baudžiamas laisvės atėmimu iki šešerių metų.
 
 4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 2 straipsnis. 302 straipsnio pakeitimas
+## 2 straipsnis. 302 straipsnio pakeitimas
 
 Pakeisti 302 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ baudžiamas laisvės atėmimu iki šešerių metų.
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 3 straipsnis. Kodekso papildymas 3021 straipsniu
+## 3 straipsnis. Kodekso papildymas 3021 straipsniu
 
 Papildyti Kodeksą 302^1 straipsniu:
 

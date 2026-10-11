@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D5882A173282"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D5882A173282.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 15, 38, 56 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D), Nr. [101-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41); 1995, Nr. [35-860](https://www.e-tar.lt/portal/lt/legalAct/TAR.6700B8E8B8BB), Nr. [59-1475](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F1DFB95F88D), Nr. [84-1901](https://www.e-tar.lt/portal/lt/legalAct/TAR.5FB24A29F73A))
 
-\#### 1 straipsnis. 15 straipsnio papildymas
+## 1 straipsnis. 15 straipsnio papildymas
 
 Papildyti 15 straipsnio antrąją dalį antruoju sakiniu ir šią dalį išdėstyti taip:
 
 „Jei pensija skiriama tuo metu, kai dar nepatvirtintos praeitų metų vidutinės mėnesinės draudžiamosios pajamos, vietoj jų asmens draudžiamųjų pajamų koeficientui apskaičiuoti naudojamos paskutinės patvirtintos vidutinės mėnesinės draudžiamosios pajamos pagal ketvirčio duomenis. Patvirtinus praeitų metų vidutines mėnesines draudžiamąsias pajamas, paskirtoji pensija, atsižvelgiant į šias pajamas, perskaičiuojama nuo pensijos paskyrimo dienos.“
 
-\#### 2 straipsnis. 38 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 38 straipsnio papildymas ir pakeitimas
 
 Papildyti ir pakeisti 38 straipsnį – pirmojoje dalyje prieš žodį „valdybos“ įrašyti žodį „fondo“, papildyti straipsnį nauja antrąja dalimi, buvusias antrąją, trečiąją ir ketvirtąją dalis laikyti trečiąja, ketvirtąją ir penktąja dalimis, penktojoje dalyje prieš žodį „valdybos“ įrašyti žodį „fondo“ ir visą straipsnį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Kreipiantis dėl pensijos, privaloma pateikti visus Valstybinių socialinio drau
 
 Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius per Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatytą laiką privalo priimti sprendimą apie pensijos paskyrimą arba apie atsisakymą paskirti pensiją ir apie sprendimą pranešti pareiškėjui. Atsisakius skirti pensiją, privaloma nurodyti atsisakymo priežastį.“
 
-\#### 3 straipsnis. 56 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 56 straipsnio pakeitimas ir papildymas
 
 1. 56 straipsnio pirmosios dalies pirmajame sakinyje po žodžio „senatvės „ įrašyti žodžius „ar ištarnauto laiko“, po žodžio „pensija“ – žodžius „Lietuvos Respublikos ar personalinė pensija“ ir visą šią dalį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius per Valstybin
 
 „Asmenims, išskyrus šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte nurodytuosius, turintiems teisę gauti visą kompensaciją arba jos dalį, kompensacija pradedama mokėti likus tiek mėnesių iki jiems sukaks šio įstatymo nustatytas senatvės pensijos amžius, už kiek mėnesių kompensaciją išmokėti priklauso. Asmenims, nurodytiems šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte, turintiems teisę gauti visą kompensaciją arba jos dalį, kompensacija gali būti pradėta mokėti anksčiau, jei jie nebedirba pagal pareigas, suteikusias teisę gauti kompensaciją. Kompensacija pradedama mokėti nuo jų pasirinktos datos pagal jų pareiškimą, paduotą Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui. Šiuo atveju bendras išmokėtinų mėnesio kompensacijų skaičius neturi viršyti šiam asmeniui priklausančių mėnesio kompensacijų skaičiaus.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1997 m. sausio 1 d.
 

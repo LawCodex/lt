@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.45470AC35F57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.45470AC35F57.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo 12 ir 13 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin.,1996, Nr. [109-2472](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F659DF4FE6C))
 
-\#### 1 straipsnis. 12 straipsnio pakeitimas
+## 1 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnyje vietoj datos „1997 m. liepos 1 d. „įrašyti datą „1998 m. sausio 1 d.“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Šis įstatymas įsigalioja nuo 1998 m. sausio 1 d.“
 
-\#### 2 straipsnis. 13 straipsnio 2, 4 ir 5 dalių pakeitimas
+## 2 straipsnis. 13 straipsnio 2, 4 ir 5 dalių pakeitimas
 
 1. 13 straipsnio 2 dalyje vietoj datos „1997 m. liepos 1 d.“ įrašyti datą „1998 m. sausio 1 d.“ ir šią dalį išdėstyti taip:
 

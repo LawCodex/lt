@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b673c560337711efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B673C5603377.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl tarptautinių interesų, susijusių su mobiliąja įranga, ir jos Protokolo dėl su orlaivių įranga susijusių dalykų ratifikavimo
@@ -26,11 +26,11 @@ DĖL KONVENCIJOS DĖL TARPTAUTINIŲ INTERESŲ, SUSIJUSIŲ SU MOBILIĄJA ĮRANGA,
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas
+## 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2024 m. balandžio 23 d. dekretą Nr. 1K-1601 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinių interesų, susijusių su mobiliąja įranga, ir jos Protokolą dėl su orlaivių įranga susijusių dalykų“, ratifikuoja su pareiškimais Konvenciją dėl tarptautinių interesų, susijusių su mobiliąja įranga, (toliau – Konvencija) ir jos Protokolą dėl su orlaivių įranga susijusių dalykų (toliau – Protokolas), priimtus 2001 m. lapkričio 16 d. Keiptaune.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimai
+## 2 straipsnis. Lietuvos Respublikos pareiškimai
 
 Seimas, vadovaudamasis Konvencijos 39 straipsnio 1 dalies a ir b punktais, 40 straipsniu, 54 straipsnio 2 dalimi ir 56 straipsniu, pareiškia, kad:
 
@@ -42,7 +42,7 @@ Seimas, vadovaudamasis Konvencijos 39 straipsnio 1 dalies a ir b punktais, 40 st
 
 4) teisių gynimo priemonės, kuriomis gali naudotis kreditorius pagal Konvencijos nuostatas ir kurių atžvilgiu nėra nurodyta, kad turi būti kreipiamasi į teismą, gali būti naudojamos be teismo leidimo.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

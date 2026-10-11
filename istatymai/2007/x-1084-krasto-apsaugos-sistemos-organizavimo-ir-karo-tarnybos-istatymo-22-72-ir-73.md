@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D96AA284BBF3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D96AA284BBF3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 22, 72 ir 73 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. 91(1)-4106; 2004, Nr. 169-6215)
 
-\#### 1 straipsnis. 22 straipsnio 7 dalies pakeitimas
+## 1 straipsnis. 22 straipsnio 7 dalies pakeitimas
 
 22 straipsnio 7 dalyje po žodžio „tarnybą“ įrašyti žodžius „Karius savanorius, siunčiamus atlikti tarnybos tarptautinių operacijų kariniame vienete, darbdaviai privalo atleisti nuo darbo jų rengimosi tarnybai tarptautinėse operacijose ir tarnybos tarptautinėse operacijose metu. Šiuo laikotarpiu karius savanorius draudžiama įspėti apie darbo sutarties nutraukimą ir atleisti iš darbo, išskyrus Darbo kodekso 136 straipsnio 1 dalyje nustatytus atvejus“ ir šią dalį išdėstyti taip:
 
 „7. Darbdaviai privalo atleisti savanorius nuo darbo jų mokymų metu ar pašaukus juos į tarnybą. Karius savanorius, siunčiamus atlikti tarnybos tarptautinių operacijų kariniame vienete, darbdaviai privalo atleisti nuo darbo jų rengimosi tarnybai tarptautinėse operacijose ir tarnybos tarptautinėse operacijose metu. Šiuo laikotarpiu karius savanorius draudžiama įspėti apie darbo sutarties nutraukimą ir atleisti iš darbo, išskyrus Darbo kodekso 136 straipsnio 1 dalyje nustatytus atvejus.“
 
-\#### 2 straipsnis. 72 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 72 straipsnio papildymas ir pakeitimas
 
 1. 72 straipsnį papildyti nauja 3 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. Buvusias 72 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis.
 
-\#### 3 straipsnis. 73 straipsnio papildymas 7 dalimi
+## 3 straipsnis. 73 straipsnio papildymas 7 dalimi
 
 73 straipsnį papildyti 7 dalimi:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/257591d04da511f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.257591D04DA5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 10-1, 12, 17 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ALKOHOLIO KONTROLĖS ĮSTATYMO NR. I-857 2, 101, 12, 17 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį 232 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „27^2. **Teikiamo sertifikuoti****tradicinio****alkoholinio gėrimo****pavyzdys**– nustatytas kiekis iki 65 procentų tūrinės etilo alkoholio koncentracijos alkoholinio gėrimo, teikiamo sertifikuoti kaip tautinio paveldo produktas, kaip ši sąvoka apibrėžiama Lietuvos Respublikos tautinio paveldo produktųįstatyme.“
 
-\#### 2 straipsnis. 101 straipsnio pakeitimas
+## 2 straipsnis. 101 straipsnio pakeitimas
 
 Pakeisti 10^1 straipsnį ir jį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Pakeisti 10^1 straipsnį ir jį išdėstyti taip:
 
 9. Valstybinė maisto ir veterinarijos tarnyba turi teisę dalyvauti teikiamo sertifikuoti tradicinio alkoholinio gėrimo pavyzdžio arba tradicinio alkoholinio gėrimo gamybos procese, tikrinti šio straipsnio 7 dalyje nurodytą ūkininko pildomą registracijos žurnalą. Ūkininkas privalo tam sudaryti tinkamas sąlygas.“
 
-\#### 3 straipsnis. 12 straipsnio pakeitimas
+## 3 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Gaminti alkoholio produktus, išskyrus šio Įstatymo 10 straipsnyje nurodytus alkoholinius gėrimus ir šio Įstatymo 10^1straipsnyje nurodytus ūkininkų teikiamus sertifikuoti tradicinių alkoholiniųgėrimų pavyzdžius beigaminamus tradicinius alkoholinius gėrimus, leidžiama tik įmonėms, turinčioms licenciją gaminti šiuos produktus. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 

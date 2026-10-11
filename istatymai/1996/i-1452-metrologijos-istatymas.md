@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3C0EA6B2203.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos metrologijos įstatymas
@@ -974,5 +974,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 2, 25, 26, 27, 28, 29, 30, 38 straipsnių ir priedo pakeitimo įstatymas
-
-part_4f405c0712fe4f538c0e9fde9cd48ea9_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AC926B504C8D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AC926B504C8D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos Didžiosios Kunigaikštystės valdovų rūmų atkūrimo ir paskirties įstatymas
@@ -38,23 +38,23 @@ pritardamas Lietuvos žmonių, institucijų ir organizacijų, Pasaulio Lietuvių
 
 priima šį įstatymą.
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Lietuvos Didžiosios Kunigaikštystės valdovų rūmų Vilniaus Žemutinėje pilyje (toliau – Valdovų rūmai) atkūrimo sąlygas, terminą ir atkurtų Valdovų rūmų paskirtį.
 
-\#### 2 straipsnis. Atkurtų Valdovų rūmų paskirtis
+## 2 straipsnis. Atkurtų Valdovų rūmų paskirtis
 
 Atkurtų Valdovų rūmų paskirtis – tarnauti Lietuvos valstybės reprezentacijai, tenkinti krašto kultūros, švietimo bei turizmo reikmes, palaikyti ir stiprinti viso pasaulio lietuvių tautinę savimonę.
 
-\#### 3 straipsnis. Institucija, atsakinga už Valdovų rūmų atkūrimą ir paskirtį
+## 3 straipsnis. Institucija, atsakinga už Valdovų rūmų atkūrimą ir paskirtį
 
 Valdovų rūmų atkūrimą organizuoja ir tolesnės jų paskirties klausimus sprendžia Vyriausybės įgaliota institucija.
 
-\#### 4 straipsnis. Valdovų rūmų atkūrimo terminas
+## 4 straipsnis. Valdovų rūmų atkūrimo terminas
 
 Visas Valdovų rūmų ansamblis turi būti atkurtas iki 2009-ųjų metų (Lietuvos vardo paminėjimo pirmojo tūkstantmečio sukakties).
 
-\#### 5 straipsnis. Valdovų rūmų atkūrimo ir veiklos finansavimas
+## 5 straipsnis. Valdovų rūmų atkūrimo ir veiklos finansavimas
 
 Valdovų rūmų atkūrimas, atkurtų Valdovų rūmų veikla yra finansuojama iš:
 
@@ -64,7 +64,7 @@ Valdovų rūmų atkūrimas, atkurtų Valdovų rūmų veikla yra finansuojama iš
 
 3) kitų teisėtai įgytų lėšų.
 
-\#### 6 straipsnis. Įstatymo įgyvendinimo tvarka
+## 6 straipsnis. Įstatymo įgyvendinimo tvarka
 
 1. Vyriausybė iki 2000 m. gruodžio 15 d. priima nutarimą dėl Valdovų rūmų atkūrimo.
 

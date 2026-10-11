@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0E991259BB57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0E991259BB57.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims" 2 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [12-262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8EA9B23666E2); 1996, Nr. [79-1888](https://www.e-tar.lt/portal/lt/legalAct/TAR.D715553162E6))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 2 straipsnio 1 dalyje vietoj skaičiaus „0,04“ įrašyti skaičių „0,02“ ir šią dalį išdėstyti taip:
 

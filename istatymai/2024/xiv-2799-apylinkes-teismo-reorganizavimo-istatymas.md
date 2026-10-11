@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/87943b2036d411efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.87943B2036D4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos apylinkės teismo reorganizavimo įstatymas
@@ -26,21 +26,21 @@ APYLINKĖS TEISMO REORGANIZAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Plungės apylinkės teismo reorganizavimo būdą ir sąlygas.
 
-\#### 2 straipsnis. Reorganizavimo būdas
+## 2 straipsnis. Reorganizavimo būdas
 
 Plungės apylinkės teismas reorganizuojamas prijungimobūdu, šio teismo teises ir pareigas perduodantKlaipėdos apylinkės teismui.
 
-\#### 3 straipsnis. Reorganizavimo sąlygos
+## 3 straipsnis. Reorganizavimo sąlygos
 
 1. Plungės apylinkės teismo reorganizavimo sąlygų aprašas yra šio įstatymo priedas.
 
 2. Visos po reorganizavimo pasibaigusio Plungės apylinkės teismo teisės ir pareigos po reorganizavimo veikiančiam Klaipėdos apylinkės teismui pereina 2025 m. sausio 1 d.
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo nuostatos neturi įtakos iki 2024 m. gruodžio 31 d. paskirtų reorganizuojamo ir reorganizavimo procese dalyvaujančio apylinkės teismo teisėjų įgaliojimų vykdymui.
 
@@ -62,7 +62,7 @@ priedas
 
 PLUNGĖS APYLINKĖS TEISMO REORGANIZAVIMO SĄLYGŲ APRAŠAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
 1. Plungės apylinkės teismo reorganizavimo sąlygų aprašas (toliau – Aprašas) nustato Plungės apylinkės teismo (toliau – ir reorganizuojamas teismas) reorganizavimo prijungimo būdu, šio teismo teises ir pareigas perduodant Klaipėdos apylinkės teismui, tvarką.
 
@@ -70,7 +70,7 @@ PLUNGĖS APYLINKĖS TEISMO REORGANIZAVIMO SĄLYGŲ APRAŠAS
 
 3. Plungės apylinkės teismo teisės ir pareigos pereina Klaipėdos apylinkės teismui.
 
-\## II SKYRIUS. REORGANIZUOJAMO TEISMO IR REORGANIZAVIME DALYVAUJANČIO TEISMO DUOMENYS
+II SKYRIUS. REORGANIZUOJAMO TEISMO IR REORGANIZAVIME DALYVAUJANČIO TEISMO DUOMENYS
 
 4. Reorganizuojamas teismas – Plungės apylinkės teismas:
 
@@ -92,7 +92,7 @@ PLUNGĖS APYLINKĖS TEISMO REORGANIZAVIMO SĄLYGŲ APRAŠAS
 
 5.4. duomenys apie juridinį asmenį kaupiami ir saugomi Juridinių asmenų registre.
 
-\## III SKYRIUS. REORGANIZAVIMO TIKSLAS IR BŪDAS,
+III SKYRIUS. REORGANIZAVIMO TIKSLAS IR BŪDAS,
 
 PASIBAIGIANTIS TEISMAS, PO REORGANIZAVIMO VEIKSIANTIS TEISMAS
 
@@ -104,7 +104,7 @@ PASIBAIGIANTIS TEISMAS, PO REORGANIZAVIMO VEIKSIANTIS TEISMAS
 
 9. Sprendimą dėl Plungės apylinkės teismo reorganizavimo priima šio teismo steigėjas – Lietuvos Respublikos Seimas.
 
-\## IV SKYRIUS. REORGANIZAVIMO TVARKA, ETAPAI, VYKDYTOJAI
+IV SKYRIUS. REORGANIZAVIMO TVARKA, ETAPAI, VYKDYTOJAI
 
 10. Reorganizavimo pradžia – parengto Aprašo viešo paskelbimo diena. Reorganizavimo pabaiga – Plungės apylinkės teismo išregistravimo iš Juridinių asmenų registro diena.
 
@@ -146,7 +146,7 @@ PASIBAIGIANTIS TEISMAS, PO REORGANIZAVIMO VEIKSIANTIS TEISMAS
 
 29. Nuo 2025 m. sausio 1 d. Telšių apylinkės teismas perima visas reorganizuoto Plungės apylinkės teismo procesines teises ir pareigas ginčuose, kurie vyksta šiuo metu ar kils ateityje, įskaitant (bet tuo neapsiribojant) skundų nagrinėjimą visų instancijų teismuose ir (ar) išankstinio ginčų nagrinėjimo ne teismo tvarka institucijose, arbitražuose, ikiteisminio tyrimo institucijose, skolų išieškojimo įmonėse.
 
-\## V SKYRIUS. REORGANIZUOJAMOS ĮSTAIGOS IR REORGANIZAVIME DALYVAUJANČIOS ĮSTAIGOS TURTO ĮVERTINIMAS
+V SKYRIUS. REORGANIZUOJAMOS ĮSTAIGOS IR REORGANIZAVIME DALYVAUJANČIOS ĮSTAIGOS TURTO ĮVERTINIMAS
 
 30. Reorganizuojamo ir reorganizavime dalyvaujančio teismo turtas 2023 m. birželio 30 d. (pagal finansinės atskaitomybės dokumentus):
 
@@ -174,7 +174,7 @@ PASIBAIGIANTIS TEISMAS, PO REORGANIZAVIMO VEIKSIANTIS TEISMAS
 
 32.2. Klaipėdos apylinkės teismas – sąskaitas banke „Swedbank“, AB: LT67 7300 0101 4535 3253; LT42 7300 0101 4535 3606; LT95 7300 0101 4535 3622.
 
-\## VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
 33. Po reorganizavimo veiksiančios įstaigos – Klaipėdos apylinkės teismo – savininko teises ir pareigas įgyvendinanti institucija – Lietuvos Respublikos Seimas.
 

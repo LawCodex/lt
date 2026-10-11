@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/62f4bfc2cc3711f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62F4BFC2CC37.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 17-1 ir 18 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ TABAKO, TABAKO GAMINIŲ IR SU JAIS SUSIJUSIŲ GAMINIŲ KONTROLĖS ĮSTATYMO NR. 
 
 Vilnius
 
-\#### 1 straipsnis. 171 straipsnio pakeitimas
+## 1 straipsnis. 171 straipsnio pakeitimas
 
 Pakeisti 17^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Lietuvos Respublikoje elektroninių cigarečių, elektroninių cigarečių pildyklių ir rūkomųjų žolinių gaminių reklama (įskaitant interneto svetainėse pateiktas jų kainas, mobiliosiose programėlėse ir socialiniuose tinkluose paskelbtus pranešimus apie jų pardavimą), taip pat paslėpta elektroninių cigarečių, elektroninių cigarečių pildyklių ir rūkomųjų žolinių gaminių reklama draudžiama.“
 
-\#### 2 straipsnis. 18 straipsnio pakeitimas
+## 2 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 

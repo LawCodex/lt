@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d276dac089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D276DAC089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 23 straipsnio pakeitimo ĮSTATYMAS
@@ -30,7 +30,7 @@ Vilnius
 
 2012, Nr. [154-7933](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=440398))
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas
+## 1 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 

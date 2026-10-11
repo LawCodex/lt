@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.24287699931D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.24287699931D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 42, 62, 803 straipsnių pakeitimo ir Kodekso LX skyriaus septintojo skirsnio ir priedo pripažinimo netekusiais galios įstatymas
@@ -24,25 +24,25 @@ Vilnius
 
 (Žin., 2002, Nr. [36-1340](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454); 2004, Nr. [72-2494](https://www.e-tar.lt/portal/lt/legalAct/TAR.A4AD89185233))
 
-\#### 1 straipsnis. 42 straipsnio 6 dalies pripažinimas netekusia galios
+## 1 straipsnis. 42 straipsnio 6 dalies pripažinimas netekusia galios
 
 42 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 62 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 62 straipsnio 3 dalies pakeitimas
 
 62 straipsnio 3 dalyje išbraukti žodžius ir skaičius „išskyrus šio Kodekso 818 straipsnio 5 dalyje nurodytą išimtį“ ir šią dalį išdėstyti taip:
 
 „3. Lietuvos apeliaciniame teisme civilines bylas nagrinėja trijų teisėjų kolegija.“
 
-\#### 3 straipsnis. 803 straipsnio 5 dalies pripažinimas netekusia galios
+## 3 straipsnis. 803 straipsnio 5 dalies pripažinimas netekusia galios
 
 803 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. LX skyriaus septintojo skirsnio pripažinimas netekusiu galios
+## 4 straipsnis. LX skyriaus septintojo skirsnio pripažinimas netekusiu galios
 
 LX skyriaus septintąjį skirsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. Kodekso priedo pripažinimas netekusiu galios
+## 5 straipsnis. Kodekso priedo pripažinimas netekusiu galios
 
 Kodekso priedą pripažinti netekusiu galios.
 

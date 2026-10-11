@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/634664e0eac511f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.634664E0EAC5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Šis įstatymas nustato žvalgybos institucijų veiklos teisinius pagrindus, uždavinius, veiklos sritis ir principus, teises ir pareigas, struktūrą, veiklos kontrolės pagrindus ir būdus, žvalgybos pareigūnų statusą, tarnybos eigą, tarnybinę atsakomybę, tarnybinį atlyginimą, socialines ir kitas garantijas, taip pat darbuotojų, dirbančių pagal darbo sutartis, (toliau – darbuotojai) priėmimo į darbą ir darbo žvalgybos institucijoje ypatumus.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -52,19 +52,19 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Informacinėse sistemose tvarkomi duomenys, galintys atskleisti turto arba asmenų tarnybinę priklausomybę žvalgybos institucijoms, neteikiami tretiesiems asmenims, jeigu žvalgybos institucija informacinės sistemos valdytoją ir tvarkytoją raštu informuoja, kad jų teikimas galėtų padaryti žalos žvalgybos institucijos veiklai ir taip pakenkti valstybės saugumo interesams.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Žvalgybos uždavinys – prognozuoti, nustatyti ir šalinti išorės rizikos veiksnius, pavojus ir grėsmes, kylančius iš užsienio ir galinčius turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir ekonominei galiai.“
 
-\#### 5 straipsnis. 9 straipsnio pakeitimas
+## 5 straipsnis. 9 straipsnio pakeitimas
 
 1. Papildyti 9 straipsnio 1 dalį 11 punktu:
 
@@ -94,7 +94,7 @@ Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3) užtikrinti vidaus saugumą, rūpintis žvalgybos institucijos personalo, žvalgybos slaptųjų bendradarbių, rezervo žvalgybos pareigūnų ir jų sutuoktinių nepilnamečių vaikų (įvaikių), jeigu jie nėra emancipuoti ar sudarę santuokos, pilnamečių vaikų (įvaikių) iki 20 metų, jeigu jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečių vaikų (įvaikių), jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie nėra emancipuoti ar sudarę santuokos, pilnamečių vaikų (įvaikių) iki 20 metų, jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, nepilnamečių išlaikytinių, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis, kitų išlaikytinių asmenų, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis, (toliau kartu – šeimos nariai), taip pat partnerių (kai partnerystė įregistruota įstatymų nustatyta tvarka) (toliau – partneris) ir jų šeimos narių saugumu;“.
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio 1 dalyje nurodyti veiksmai gali būti atliekami ir šalinant išorės rizikos veiksnius, pavojus ir grėsmes Lietuvos Respublikos nacionaliniam saugumui ir valstybės interesams.“
 
-\#### 7 straipsnis. 13 straipsnio pakeitimas
+## 7 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -182,7 +182,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 12. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (ar) elektroninių ryšių paslaugas, elektroninės informacijos prieglobos paslaugas ir skaitmenines paslaugas, privalo sudaryti technines galimybes žvalgybos institucijoms stebėti ir fiksuoti elektroninių ryšių tinklais perduodamos informacijos turinį, susirašinėjimą ir kitokį asmens susižinojimą. Tam reikalinga įranga įsigyjama, įdiegiama ir išlaikoma valstybės lėšomis. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) elektroninių ryšių paslaugas, elektroninės informacijos prieglobos paslaugas ir skaitmenines paslaugas, Vyriausybės nustatyta tvarka ir sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, pagrįstos šios įrangos išlaikymo sąnaudomis.“
 
-\#### 8 straipsnis. 14 straipsnio pakeitimas
+## 8 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 4. Informacija apie duomenų pateikimą žvalgybos institucijoms iš šiame straipsnyje nurodytų informacinių sistemų tretiesiems asmenims ir duomenų subjektams neteikiama.“
 
-\#### 9 straipsnis. 18 straipsnio pakeitimas
+## 9 straipsnis. 18 straipsnio pakeitimas
 
 1. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -206,13 +206,13 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 „1) Lietuvos Respublikos nacionalinį saugumą užtikrinančioms ir kitoms valstybės institucijoms, valstybės valdomoms įmonėms, valstybės remiamiems nacionalinį saugumą ir gyvybiškai svarbių valstybės funkcijų atlikimą padedantiems užtikrinti juridiniams asmenims, jeigu prašoma informacija yra susijusi su jų tiesioginėmis funkcijomis ir gali būti reikšminga šių subjektų veiklai;“.
 
-\#### 10 straipsnis. 19 straipsnio pakeitimas
+## 10 straipsnis. 19 straipsnio pakeitimas
 
 Papildyti 19 straipsnio 1 dalį 1^1punktu:
 
 „1^1) tvirtina išorės rizikos veiksnių, pavojų ir grėsmių šalinimo priemones vykdant žvalgybą ir jų taikymo gaires;“.
 
-\#### 11 straipsnis. 24 straipsnio pakeitimas
+## 11 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -222,13 +222,13 @@ Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) nustato lėšų, skirtų žvalgybos metodams taikyti, teismo sankcionuojamiems veiksmams atlikti ir išorės rizikos veiksnių, pavojų ir grėsmių šalinimo priemonėms taikyti, kai būtina užtikrinti žvalgybos institucijos veiklos metodų neskelbtinumą, panaudojimo tvarką ir pagal savo kompetenciją leidžia kitus vidaus teisės aktus, reglamentuojančius vidaus kontrolę.“
 
-\#### 12 straipsnis. 29 straipsnio pakeitimas
+## 12 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Duomenys, atskleidžiantys asmens priklausomybę žvalgybos institucijai, į informacines sistemas žvalgybos institucijos vadovo sprendimu gali būti neteikiami, jeigu tokių duomenų tvarkymas informacinėje sistemoje galėtų padaryti žalos žvalgybos institucijos veiklai.“
 
-\#### 13 straipsnis. 33 straipsnio pakeitimas
+## 13 straipsnis. 33 straipsnio pakeitimas
 
 1. Pakeisti 33 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -238,7 +238,7 @@ Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „6) kurių sutuoktiniai, sugyventiniai, partneriai, taip pat tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai (toliau – artimieji giminaičiai), svainystės ryšiais su jais susiję asmenys tarnauja (dirba) žvalgybos institucijoje ir su kuriais būtų tiesioginio pavaldumo ryšys;“.
 
-\#### 14 straipsnis. 38 straipsnio pakeitimas
+## 14 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -252,7 +252,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 2. Žvalgybos pareigūno statusas gali būti atkuriamas per 3 mėnesius nuo darbo tarptautinėje institucijoje arba užsienio valstybės institucijoje pabaigos arba per 3 mėnesius po sutuoktinio arba partnerio perkėlimo laikotarpio pabaigos, arba per 3 mėnesius nuo prašymo atkurti žvalgybos pareigūno statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio arba partnerio perkėlimo laikotarpiui.“
 
-\#### 15 straipsnis. Aštuntojo skirsnio pavadinimo pakeitimas
+## 15 straipsnis. Aštuntojo skirsnio pavadinimo pakeitimas
 
 Pakeisti aštuntojo skirsnio pavadinimą irjį išdėstyti taip:
 
@@ -260,7 +260,7 @@ Pakeisti aštuntojo skirsnio pavadinimą irjį išdėstyti taip:
 
 **TARNYBOS IR DARBO ŽVALGYBOS INSTITUCIJOJE SĄLYGOS**“.
 
-\#### 16 straipsnis. 40 straipsnio pakeitimas
+## 16 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -314,7 +314,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 5) būti įmonių, įstaigų ar organizacijų valdymo organų nariu, dirbti samdomu darbuotoju, patarėju, ekspertu, konsultantu įmonėse, įstaigose, organizacijose ir kitose institucijose pagal darbo ar civilinę sutartį, taip pat gauti kitą, negu nustatyta šiame įstatyme, atlyginimą, kai tai būtina žvalgybos institucijos vykdomai žvalgybinei veiklai.“
 
-\#### 17 straipsnis. 43 straipsnio pakeitimas
+## 17 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -344,7 +344,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 12. Kelionės kiekvieną mokymosi dieną išlaidų apmokėjimo tvarką, taip pat mažiausią ir didžiausią atstumą, kuriuos nuvažiavus per dieną apmokamos kelionės išlaidos, ir kelionės ne viešuoju transportu vieno kilometro apmokamų išlaidų dydį nustato žvalgybos institucijos asignavimų valdytojo vadovas.“
 
-\#### 18 straipsnis. 45 straipsnio pakeitimas
+## 18 straipsnis. 45 straipsnio pakeitimas
 
 1. Pakeisti 45 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -354,7 +354,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 „2. Atsižvelgdamas į žvalgybos institucijos poreikius ir žvalgybos pareigūno prašymą, žvalgybos institucijos vadovas gali pratęsti tarnybos laiką, iki žvalgybos pareigūnui sukaks socialinio draudimo senatvės pensijos amžius.“
 
-\#### 19 straipsnis. Devintojo skirsnio pavadinimo pakeitimas
+## 19 straipsnis. Devintojo skirsnio pavadinimo pakeitimas
 
 Pakeisti devintojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -362,13 +362,13 @@ Pakeisti devintojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **PRIEVARTOS IR TARNYBINIŲ ŠAUNAMŲJŲ GINKLŲ, SPROGMENŲ IR SPROGSTAMŲJŲ MEDŽIAGŲ NAUDOJIMAS**“.
 
-\#### 20 straipsnis. 48 straipsnio pakeitimas
+## 20 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Žvalgybos pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie žvalgybos pareigūno panaudotą fizinę ar psichinę prievartą, jeigu tai lėmė asmens mirtį arba sveikatos sutrikimą, nedelsiant pranešama žvalgybos institucijos vadovui ir prokurorui.“
 
-\#### 21 straipsnis. 49 straipsnio pakeitimas
+## 21 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį irjį išdėstyti taip:
 
@@ -418,19 +418,19 @@ Pakeisti 49 straipsnį irjį išdėstyti taip:
 
 10. Žvalgybos pareigūnai, kurie vykdydami savo funkcijas turi teisę panaudoti sprogmenis ar sprogstamąsias medžiagas, turi būti išklausę mokymo kursus, kurių programas Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pagrindu tvirtina Lietuvos policijos generalinis komisaras, ir turėti tai patvirtinantį pažymėjimą.“
 
-\#### 22 straipsnis. 50 straipsnio pakeitimas
+## 22 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Žvalgybos pareigūno laikino perkėlimo į šio straipsnio 5, 6 ir 7 dalyse nurodytas pareigas ar tarnybą laikas įskaitomas į žvalgybos pareigūno tarnybos stažą. Perkėlimo laikotarpiu jam paliekamas iki perkėlimo turėtas kario laipsnis ar tarnybinis rangas, taikomi visi šiame įstatyme žvalgybos pareigūnams nustatyti draudimai, apribojimai, garantijos ir tarnybinės veiklos vertinimo tvarka. Žvalgybos pareigūnų, laikinai perkeltų į šio straipsnio 7 dalyje nurodytas pareigas, tarnybinės veiklos vertinimą taip pat atlieka valstybės ar savivaldybės institucija ar įstaiga, *mutatis mutandis* taikydama Valstybės tarnybos įstatymo nuostatas dėl tarnybinės veiklos vertinimo. Jeigu laikino perkėlimo laikotarpiu žvalgybos pareigūnui sueina šio įstatymo 3 priede nustatytas laikotarpis šio įstatymo 64 straipsnio 20 dalyje nustatytai išmokai gauti, šią išmoką moka žvalgybos institucija, pasibaigus žvalgybos pareigūno perkėlimo laikotarpiui.Pasibaigus žvalgybos pareigūno perkėlimo laikotarpiui, jam garantuojamos eitos arba kitos lygiavertės žvalgybos pareigūno pareigos, o jeigu tokios galimybės nėra, kitos žemesnės žvalgybos pareigūno pareigos.“
 
-\#### 23 straipsnis. 53 straipsnio pakeitimas
+## 23 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnio 13 punktą ir jį išdėstyti taip:
 
 „13) žvalgybos institucijos vadovo valia, kai jis yra laikinai nedarbingas daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių ir jeigu laikinasis nedarbingumas nesusijęs su sveikatos sutrikimu, atsiradusiu einant tarnybines pareigas ar dėl tarnybos;“.
 
-\#### 24 straipsnis. 55 straipsnio pakeitimas
+## 24 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -446,19 +446,19 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 5. Jeigu yra atliekamas tarnybinio nusižengimo tyrimas, žvalgybos pareigūnas gali būti atleidžiamas tik baigus tyrimą, per 3 darbo dienas nuo tyrimo pabaigos.“
 
-\#### 25 straipsnis. 57 straipsnio pakeitimas
+## 25 straipsnis. 57 straipsnio pakeitimas
 
 Papildyti 57 straipsnio 1 dalį 6 punktu:
 
 „6) vardiniu ginklu.“
 
-\#### 26 straipsnis. 60 straipsnio pakeitimas
+## 26 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Kai paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinis patikrinimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti atitinkamas nusikalstamas veikas ar administracinius nusižengimus. Jeigu atsisakoma pradėti baudžiamąjį procesą ar administracinio nusižengimo teiseną ar pasibaigia baudžiamasis procesas ar administracinio nusižengimo teisena, tarnybinis patikrinimas tęsiamas šiame straipsnyje nustatyta tvarka. Kai žvalgybos pareigūno veika turi savarankiško tarnybinio nusižengimo ar pareigūno vardą žeminančios veikos požymių, pagal kuriuos galima šį tarnybinį nusižengimą ar pareigūno vardo pažeminimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo ir savarankiškai ištirti, tarnybinis patikrinimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar administracinio nusižengimo teisenos eigą.“
 
-\#### 27 straipsnis. 64 straipsnio pakeitimas
+## 27 straipsnis. 64 straipsnio pakeitimas
 
 1. Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -472,7 +472,7 @@ Pakeisti 60 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „20. Žvalgybos pareigūnams už kiekvieną 5 metų tarnybos laikotarpį mokama šio įstatymo 3 priede nustatyto dydžio išmoka, priklausanti nuo ištarnautų pagal profesinės karo tarnybos arba žvalgybos pareigūno tarnybos sutartį metų ir paskutinių 5 paeiliui einančių metų tarnybinės veiklos vertinimo aritmetinį vidurkį, išskyrus atvejus, kai jų tarnybinės veiklos vertinimo vidurkis yra patenkinamas arba nepatenkinamas. Tarnybinės veiklos vertinimo aritmetinis vidurkis apskaičiuojamas taikant penkių balų sistemą: kai žvalgybos pareigūnai buvo įvertinti labai gerai – 5 balai, gerai – 4 balai, patenkinamai – 3 balai, nepatenkinamai – 2 balai. Apskaičiuoto tarnybinės veiklos vertinimo vidurkio reikšmė apvalinama iki sveiko skaičiaus pagal aritmetinę skaičių apvalinimo taisyklę: jeigu po paskutinio skaitmens, iki kurio apvalinama, skaitmuo yra 5 arba didesnis negu 5, prie paskutinio skaitmens pridedamas vienetas, jeigu skaitmuo po paskutinio skaitmens, iki kurio apvalinama, yra mažesnis negu 5, paskutinis skaitmuo paliekamas nepakeistas. Išmokos dydis apskaičiuojamas pagal bazinį dydį, nustatytą tiems metams, kuriais žvalgybos pareigūnas įgyja teisę gauti šią išmoką.“
 
-\#### 28 straipsnis. 641 straipsnio pakeitimas
+## 28 straipsnis. 641 straipsnio pakeitimas
 
 Pakeisti 64^1 straipsnį ir jį išdėstyti taip:
 
@@ -534,7 +534,7 @@ Pakeisti 64^1 straipsnį ir jį išdėstyti taip:
 
 28. Užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje tarnybą atliekantiems žvalgybos pareigūnams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo žvalgybos pareigūno komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio straipsnio 5–16, 18, 26 ir 27 dalyse ir Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos, taip pat šio straipsnio 19 dalyje nustatyta automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo garantija.“
 
-\#### 29 straipsnis. 69 straipsnio pakeitimas
+## 29 straipsnis. 69 straipsnio pakeitimas
 
 Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
@@ -586,7 +586,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
 11. Žvalgybos pareigūno, kuris žuvo (mirė) užsienyje dėl tarnybos žvalgybos institucijoje, taip pat užsienyje žuvusių (mirusių) kartu su žvalgybos pareigūnu užsienyje gyvenusių šeimos narių palaikų parvežimo į Lietuvos Respubliką išlaidos apmokamos valstybės lėšomis Vyriausybės nustatytomis sąlygomis ir tvarka.“
 
-\#### 30 straipsnis. 70 straipsnio pakeitimas
+## 30 straipsnis. 70 straipsnio pakeitimas
 
 1. Pakeisti 70 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -600,7 +600,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
 „2) artimųjų giminaičių, taip pat sutuoktinio, partnerio, sugyventinio tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių) bei išlaikytinių, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas, mirties atveju – iki 3 darbo dienų;“.
 
-\#### 31 straipsnis. 71 straipsnio pakeitimas
+## 31 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
@@ -608,7 +608,7 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
 Žvalgybos pareigūnų, rezervo žvalgybos pareigūnų ir slaptųjų bendradarbių specialiąsias socialines garantijas nustato Vyriausybė.“
 
-\#### 32 straipsnis. Įstatymo papildymas 3 priedu
+## 32 straipsnis. Įstatymo papildymas 3 priedu
 
 Papildyti Įstatymą 3 priedu:
 
@@ -620,33 +620,22 @@ Papildyti Įstatymą 3 priedu:
 
 **žvalgybos pareigūnų KIEKVIENŲ 5 METŲ TARNYBOS IŠMOKŲ DYDŽIAI**
 
-\| Eil. Nr. | Ištarnauta metų pagal profesinės karo tarnybos arba žvalgybos pareigūno tarnybos sutartį | Paskutinių 5 metų žvalgybos pareigūnų išmokų koeficientai (pareiginės algos (atlyginimo) baziniais dydžiais), priklausantys nuo tarnybinės veiklos vertinimo vidurkio | |
-
-\| --- | --- | --- | --- |
-
-\| išmokų dydžiai | | | |
-
-\| labai gerai | gerai | | |
-
-\| 1. | 5 metai | 3,13 | 2,09 |
-
-\| 2. | 10 metų | 3,34 | 2,30 |
-
-\| 3. | 15 metų | 3,55 | 2,51 |
-
-\| 4. | 20 metų | 3,76 | 2,71 |
-
-\| 5. | 25 metai | 3,96 | 2,92 |
-
-\| 6. | 30 metų | 4,17 | 3,13 |
-
-\| 7. | 35 metai | 4,38 | 3,34 |
-
-\| 8. | 40 metų | 4,59 | 3,55 |
+| Eil. Nr. | Ištarnauta metų pagal profesinės karo tarnybos arba žvalgybos pareigūno tarnybos sutartį | Paskutinių 5 metų žvalgybos pareigūnų išmokų koeficientai (pareiginės algos (atlyginimo) baziniais dydžiais), priklausantys nuo tarnybinės veiklos vertinimo vidurkio |  |
+| --- | --- | --- | --- |
+| išmokų dydžiai |  |  |  |
+| labai gerai | gerai |  |  |
+| 1. | 5 metai | 3,13 | 2,09 |
+| 2. | 10 metų | 3,34 | 2,30 |
+| 3. | 15 metų | 3,55 | 2,51 |
+| 4. | 20 metų | 3,76 | 2,71 |
+| 5. | 25 metai | 3,96 | 2,92 |
+| 6. | 30 metų | 4,17 | 3,13 |
+| 7. | 35 metai | 4,38 | 3,34 |
+| 8. | 40 metų | 4,59 | 3,55 |
 
 ____________________“.
 
-\#### 33 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 33 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. vasario 1 d.
 

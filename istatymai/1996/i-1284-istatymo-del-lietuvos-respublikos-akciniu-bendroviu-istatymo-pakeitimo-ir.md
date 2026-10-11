@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F07D84D0E20E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F07D84D0E20E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo" įgyvendinimo įstatymas
@@ -26,19 +26,19 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato įstatymo „Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“ (Žin., 1995, Nr. [107-2393](https://www.e-tar.lt/portal/lt/legalAct/TAR.9DDDE14B8610)) įgyvendinimo tvarką.
 
-\#### 2 straipsnis. Bendrovių įstatų perregistravimas
+## 2 straipsnis. Bendrovių įstatų perregistravimas
 
 Akcinės bendrovės ir uždarosios akcinės bendrovės privalo pataisyti savo įstatus pagal įstatymą „Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“ ir iki 1997 m. balandžio 1 d. įregistruoti juos Įmonių rejestro įstatymo nustatyta tvarka.
 
-\#### 3 straipsnis. Bendrovių įstatų galiojimas
+## 3 straipsnis. Bendrovių įstatų galiojimas
 
 Akcinių bendrovių ir uždarųjų akcinių bendrovių įstatų, įregistruotų iki įstatymo „Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“ įsigaliojimo, nuostatos iki įstatų pataisų pagal minėtą įstatymą galioja tiek, kiek jam neprieštarauja. Bendrovės šiuos savo įstatus taiko kartu su įstatymo „Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“ nuostatomis.
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 Akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kurios šio įstatymo 2 straipsnyje nustatyta tvarka ir terminais neįregistravo pataisytų įstatų, taikomi komercinės- ūkinės veiklos apribojimai ir baudos, nustatytos įstatymo „Dėl atsakomybės už Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pirmosios ir trečiosios dalių pažeidimus“.
 

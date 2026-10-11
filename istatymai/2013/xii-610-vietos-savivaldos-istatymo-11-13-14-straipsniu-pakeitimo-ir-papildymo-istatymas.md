@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.459E01C8BA36"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.459E01C8BA36.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 11, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2008, Nr. [113-4290](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF599A1A6DD5); 2010, Nr. [86-4525](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6D81071DC40); 2011, Nr. [52-2500](https://www.e-tar.lt/portal/lt/legalAct/TAR.F60C1DDA5DFB), Nr. [52-2504](https://www.e-tar.lt/portal/lt/legalAct/TAR.E36F769AFF4D), Nr. [91-4334](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC6992EDE823); 2012, Nr. [136-6958](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8F9C835C922))
 
-\#### 1 straipsnis. 11 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 6 dalies pakeitimas
 
 Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos turi būti išrinktas savivaldybės meras, paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir išrinkti (paskirti) šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jei nusprendžiama ją sudaryti.“
 
-\#### 2 straipsnis. 13 straipsnio 3 dalies 3 punkto ir 6, 7, 9, 10 dalių pakeitimas
+## 2 straipsnis. 13 straipsnio 3 dalies 3 punkto ir 6, 7, 9, 10 dalių pakeitimas
 
 1. Pakeisti 13 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „10.Tarybos narys privalo nusišalinti nedalyvaudamas balsavime, kai sprendžiami su juo ar jo šeimos nariais ir artimaisiais giminaičiais susiję turtiniai ar finansiniai klausimai arba kai jo dalyvavimas balsuojant galėtų sukelti viešųjų ir privačių interesų konfliktą.“
 
-\#### 3 straipsnis. 14 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi
+## 3 straipsnis. 14 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. Pakeisti 14 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „8. Komitetų posėdžių metu daromas garso įrašas. Komitetų posėdžių garso įrašai saugomi informacinėse laikmenose.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 2 straipsnio 2 dalis ir 3 straipsnis įsigalioja 2014 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/68e99380570011f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.68E993805700.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 108 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ ĮSTATYMO NR. XIII-2166 108 STRAIPSNIO 
 
 Vilnius
 
-\#### 1 straipsnis. 108 straipsnio pakeitimas
+## 1 straipsnis. 108 straipsnio pakeitimas
 
 Pakeisti 108 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 

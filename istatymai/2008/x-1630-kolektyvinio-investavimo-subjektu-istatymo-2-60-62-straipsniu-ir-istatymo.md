@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CF5DD16F1C39"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CF5DD16F1C39.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 2, 60, 62 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [74-3424](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF); 2007, Nr. [117-4772](https://www.e-tar.lt/portal/lt/legalAct/TAR.8355BD8491EC))
 
-\#### 1 straipsnis. 2 straipsnio 3, 10, 14, 25 ir 30 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 3, 10, 14, 25 ir 30 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -62,7 +62,7 @@ Vilnius
 
 „30. **Suderintasis kolektyvinio investavimo subjektas –**Europos Sąjungos teisės reglamentuojamas kolektyvinio investavimo subjektas, kurio lėšos siekiant padalyti riziką investuojamos į perleidžiamuosius vertybinius popierius ir (arba) kitą šio įstatymo VI skyriuje numatytą likvidų turtą ir kurio perleidžiamieji vertybiniai popieriai (investiciniai vienetai arba akcijos) turi būti išperkami bet kada jų turėtojui pareikalavus.“
 
-\#### 2 straipsnis. 60 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 60 straipsnio 1 dalies pakeitimas
 
 Pakeisti 60 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,19 +74,19 @@ Pakeisti 60 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3) indeksas ir jo apskaičiavimo tvarka skelbiami viešai ir indekso sudarytojas yra nepriklausomas nuo indeksą atkartojančio subjekto, tačiau jie gali priklausyti tai pačiai glaudžiais ryšiais susijusiai subjektų grupei, jei toje grupėje veikia veiksminga interesų konfliktų valdymo sistema.“
 
-\#### 3 straipsnis. 62 straipsnio 1 dalies 4 punkto pakeitimas
+## 3 straipsnis. 62 straipsnio 1 dalies 4 punkto pakeitimas
 
 62 straipsnio 1 dalies 4 punkte po žodžio „patikimai“ įrašyti žodžius „ir tiksliai“ ir šį punktą išdėstyti taip:
 
 „4) priemones, kuriomis prekiaujama už šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai ir tiksliai įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja verte.“
 
-\#### 4 straipsnis. Įstatymo priedo papildymas
+## 4 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 3 punktu:
 
 „3. 2007 m. kovo 19 d. Komisijos direktyva 2007/16/EB, įgyvendinanti Tarybos direktyvą 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo, patikslinant tam tikrus apibrėžimus (OL 2007 L 79, p. 11).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2008 m. liepos 23 d.
 

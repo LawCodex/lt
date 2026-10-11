@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6b3281509efc11e9878fc525390407ce"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6B3281509EFC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos 1999 metų Protokolo dėl rūgštėjimo, eutrofikacijos ir pažemio ozono mažinimo pakeitimų ratifikavimo
@@ -26,7 +26,7 @@ DĖL 1979 METŲ TOLIMŲ TARPVALSTYBINIŲ ORO TERŠALŲ PERNAŠŲ KONVENCIJOS 199
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos protokolo pakeitimų ratifikavimas
+## 1 straipsnis. Konvencijos protokolo pakeitimų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2019 m. balandžio 23 d. dekretą Nr. 1K-1618, ratifikuoja 2012 m. gegužės 4 d. Ženevoje priimtus 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos (toliau – Konvencija) 1999 metų Protokolo dėl rūgštėjimo, eutrofikacijos ir pažemio ozono mažinimo pakeitimus, išdėstytus Konvencijos vykdomosios institucijos Sprendimo 2012/2 priede.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.11B5BC823FAC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.11B5BC823FAC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 266, 269 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2006, Nr. [77-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5BA1A8418B6))
 
-\#### 1 straipsnis. 266 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 266 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 266 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ baudžiamas laisvės atėmimu nuo šešerių iki dešimties metų.
 
 4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 2 straipsnis. 269 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 269 straipsnio papildymas 3 dalimi
 
 Papildyti 269 straipsnį 3 dalimi:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5ED868906FB5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5ED868906FB5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 11 straipsnio papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 2002, Nr. [116-5188](https://www.e-tar.lt/portal/lt/legalAct/TAR.531C156856EF); 2004, Nr. [80-2835](https://www.e-tar.lt/portal/lt/legalAct/TAR.82E05B742DCD); 2005, Nr. [88-3287](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AF189D0210E))
 
-\#### 1 straipsnis. 11 straipsnio 2 ir 3 dalių papildymas ir pakeitimas
+## 1 straipsnis. 11 straipsnio 2 ir 3 dalių papildymas ir pakeitimas
 
 1. Papildyti ir pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „3. Savivaldybės socialinis būstas nuomojamas laikantis eiliškumo pagal šio straipsnio 2 dalyje nurodytus sąrašus. Sąrašų prioritetus nustato ir sprendimą išnuomoti socialinį būstą priima savivaldybės vykdomoji institucija. Savivaldybės socialinį būstą savivaldybės taryba gali išnuomoti ir neįrašytam į šio straipsnio 2 dalyje nurodytus sąrašus asmeniui (šeimai), netekusiam būsto dėl gaisro, potvynio, stiprių vėjų ar kitų nuo žmogaus valios nepriklausančių aplinkybių, ir apie suteiktas patalpas viešai paskelbti savivaldybės tinklalapyje. Gyvenamųjų patalpų nuomos sutartis sudaroma vadovaujantis Civiliniu kodeksu. Šalių susitarimu nuomos sutartyje gali būti numatytos sąlygos dėl nuomininko perkėlimo į mažesnio ploto būstą. Asmeniui (šeimai) nuosavybės teise įgijus būstą, socialinio būsto nuomos sutartis su juo nutraukiama nuomos sutartyje nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnio 1 dalis įsigalioja nuo 2007 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A56E2F05829E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A56E2F05829E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Europos reikalų ministerijos, Ūkio ministerijos, Žemės ir miškų ūkio ministerijos įsteigimo, Ekonomikos ministerijos, Energetikos ministerijos, Miškų ūkio ministerijos, Pramonės ir prekybos ministerijos, Žemės ūkio ministerijos panaikinimo ir Vyriausybės įstatymo 27 straipsnio pakeitimo įstatymas
@@ -26,23 +26,23 @@ EUROPOS REIKALŲ MINISTERIJOS, ŪKIO MINISTERIJOS, ŽEMĖS IR MIŠKŲ ŪKIO MINI
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. EUROPOS REIKALŲ MINISTERIJOS, ŪKIO MINISTERIJOS, ŽEMĖS IR MIŠKŲ ŪKIO MINISTERIJOS ĮSTEIGIMAS, EKONOMIKOS MINISTERIJOS, ENERGETIKOS MINISTERIJOS, MIŠKŲ ŪKIO MINISTERIJOS, PRAMONĖS IR PREKYBOS MINISTERIJOS, ŽEMĖS ŪKIO MINISTERIJOS PANAIKINIMAS
+PIRMASIS SKIRSNIS. EUROPOS REIKALŲ MINISTERIJOS, ŪKIO MINISTERIJOS, ŽEMĖS IR MIŠKŲ ŪKIO MINISTERIJOS ĮSTEIGIMAS, EKONOMIKOS MINISTERIJOS, ENERGETIKOS MINISTERIJOS, MIŠKŲ ŪKIO MINISTERIJOS, PRAMONĖS IR PREKYBOS MINISTERIJOS, ŽEMĖS ŪKIO MINISTERIJOS PANAIKINIMAS
 
-\#### 1 straipsnis. Europos reikalų ministerijos, Ūkio ministerijos, Žemės ir miškų ūkio ministerijos įsteigimas
+## 1 straipsnis. Europos reikalų ministerijos, Ūkio ministerijos, Žemės ir miškų ūkio ministerijos įsteigimas
 
 Įsteigti Europos reikalų ministeriją, Ūkio ministeriją, Žemės ir miškų ūkio ministeriją.
 
-\#### 2 straipsnis. Ekonomikos ministerijos, Energetikos ministerijos, Miškų ūkio ministerijos, Pramonės ir prekybos ministerijos, Žemės ūkio ministerijos panaikinimas
+## 2 straipsnis. Ekonomikos ministerijos, Energetikos ministerijos, Miškų ūkio ministerijos, Pramonės ir prekybos ministerijos, Žemės ūkio ministerijos panaikinimas
 
 Panaikinti Ekonomikos ministeriją, Energetikos ministeriją, Miškų ūkio ministeriją, Pramonės ir prekybos ministeriją, Žemės ūkio ministeriją.
 
-\### ANTRASIS SKIRSNIS. VYRIAUSYBĖS ĮSTATYMO
+ANTRASIS SKIRSNIS. VYRIAUSYBĖS ĮSTATYMO
 
 27 STRAIPSNIO PAKEITIMAS
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1996, Nr. [115-2667](https://www.e-tar.lt/portal/lt/legalAct/TAR.B8BEF13F91BA))
 
-\#### 1 straipsnis. 27 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 27 straipsnio 1 dalies pakeitimas
 
 27 straipsnio 1 dalies trečiąją, ketvirtąją, aštuntąją, devintąją ir dvidešimtąją pastraipas pripažinti netekusiomis galios, įrašyti į šią dalį pastraipas „Europos reikalų ministerija“, „Ūkio ministerija“, „Žemės ir miškų ūkio ministerija“ ir visą dalį išdėstyti taip:
 

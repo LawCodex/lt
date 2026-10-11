@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c35d36c04acb11e4a8328599cac64d82"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C35D36C04ACB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 58-1 straipsniu įstatymo Nr. XI-1185 10 straipsnio pakeitimo įstatymas

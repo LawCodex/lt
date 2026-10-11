@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C9B6B278EC26"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C9B6B278EC26.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 13, 21, 28, 30 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 1997, Nr. [61-1441](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CD0E4DDB288); 1998, Nr. [115-3231](https://www.e-tar.lt/portal/lt/legalAct/TAR.614F246BFEB3))
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. 13 straipsnio 1 dalį pripažinti netekusia galios.
 
@@ -46,7 +46,7 @@ Vilnius
 
 „3. Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisykles tvirtina Vyriausybė. Privalomojo sveikatos draudimo fondo biudžeto pajamų ir išlaidų klasifikaciją, suderinusi su Finansų ministerija, tvirtina Privalomojo sveikatos draudimo taryba.“
 
-\#### 2 straipsnis. 21 straipsnio pakeitimas
+## 2 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 2. Rezervo lėšos Privalomojo sveikatos draudimo tarybos sprendimu naudojamos laikinam pajamų trūkumui padengti arba gali būti naudojamos išlaidoms, kurių tvirtinant privalomojo sveikatos draudimo fondo biudžetą nebuvo galima numatyti, apmokėti.
 
-\#### 3 straipsnis. 28 straipsnio 2 dalies pakeitimas ir papildymas
+## 3 straipsnis. 28 straipsnio 2 dalies pakeitimas ir papildymas
 
 1. Pakeisti 28 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 3. Buvusius 28 straipsnio 2 dalies 6, 7 ir 8 punktus laikyti atitinkamai 7, 8 ir 9 punktais.
 
-\#### 4 straipsnis. 30 straipsnio 1 punkto papildymas
+## 4 straipsnis. 30 straipsnio 1 punkto papildymas
 
 30 straipsnio 1 punkte prieš žodį „vykdo“ įrašyti žodžius „rengia privalomojo sveikatos draudimo fondo biudžeto projektą ir jo vykdymo metinę apyskaitą“ ir šį punktą išdėstyti taip:
 

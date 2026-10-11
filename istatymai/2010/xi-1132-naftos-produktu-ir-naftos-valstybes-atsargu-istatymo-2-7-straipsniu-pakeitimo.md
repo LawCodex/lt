@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.08CEC964D807"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08CEC964D807.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 2, 7 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [72-3008](https://www.e-tar.lt/portal/lt/legalAct/TAR.74602705CADB); 2004, Nr. [63-2247](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD7E768CEF0D))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „9. **Importuojanti įmonė**– Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie importuoja iš Europos Sąjungos muitų teritorijai nepriskirtų šalių arba teritorijų ir išleidžia į laisvą apyvartą naftą ir (ar) pirmos, antros arba trečios kategorijos naftos produktus.“
 
-\#### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nurodytos atsargos taip pat gali būti kaupiamosžalios naftos, tarpinių naftos produktų ar mišinių komponentųpavidalo. Žalianafta ar tarpiniai naftos produktai turi būti perskaičiuojami į naftos produktus pagal praėjusių kalendorinių metų naftos perdirbimo įmonių naftos perdirbimo faktinės išeigos rodiklius. Šis pakeitimas gali būti taikomas ne daugiau kaip 40 procentų pirmos ir antros kategorijų naftosproduktų ir ne daugiau kaip 50 procentų trečios kategorijos naftos produktų.Mišinių komponentai, jeigu jie skirti perdirbti į šio straipsnio 1 dalyje nurodytus galutinius naftos produktus, gali pakeisti naftos produktus, kuriems jie yra skirti.“
 
-\#### 3 straipsnis. Įstatymo priedo pakeitimas
+## 3 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ priedas
 
 2006 m. liepos 24 d. Tarybos direktyva Nr. 2006/67/EB, įpareigojanti valstybes nares išlaikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas (OL 2006 L 217, p. 8).“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 

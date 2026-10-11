@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5DB9720318"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4D5DB9720318.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 32, 33(1), 44, 66, 67, 68, 95, 117 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5); 2003, Nr. [69-3120](https://www.e-tar.lt/portal/lt/legalAct/TAR.7CD45370213B); 2004, Nr. [17-505](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC724525A9B9))
 
-\#### 1 straipsnis. 2 straipsnio 21 dalies ir 31 dalies 2, 13, 14 punktų pakeitimas
+## 1 straipsnis. 2 straipsnio 21 dalies ir 31 dalies 2, 13, 14 punktų pakeitimas
 
 1. Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 
@@ -46,25 +46,25 @@ Vilnius
 
 „14) dukterinis apmokestinamasis asmuo ir fizinis asmuo, susijęs su patronuojančio apmokestinamojo asmens dalyviais arba valdymo organų nariais šios dalies 1 ir 3 punktuose nurodytais ryšiais ar santykiais, taip pat asmenys, susiję su šiais dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio);“.
 
-\#### 2 straipsnis. 32 straipsnio 3 dalies papildymas
+## 2 straipsnis. 32 straipsnio 3 dalies papildymas
 
 Papildyti 32 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Apmokestinamasis asmuo turi teisę pasirinkti už nekilnojamąjį pagal prigimtį daiktą, kuris PVM neapmokestinamas pagal šio straipsnio 1 arba 2 dalį, PVM skaičiuoti šio Įstatymo nustatyta tvarka, jeigu daiktas parduodamas ar kitaip perduodamas PVM mokėtojui, ir šis pasirinkimas galioja ne trumpiau kaip 24 mėnesius nuo pasirinkimo deklaravimo dienos visiems jo sudaromiems atitinkamiems sandoriams. Savo pasirinkimą apmokestinamasis asmuo privalo deklaruoti centrinio mokesčio administratoriaus nustatyta tvarka. Apmokestinamasis asmuo, kuris parduoda ar kitaip perduoda nekilnojamąjį pagal prigimtį daiktą PVM mokėtojui šio Įstatymo 4 straipsnio 2 dalyje nustatytomis sąlygomis, gali pasirinkti skaičiuoti PVM už šį daiktą, jeigu jį įgyjant jo tiekėjas už jį skaičiavo PVM, arba neskaičiuoti PVM, jeigu jį įsigyjant jo tiekėjas už jį PVM neskaičiavo, neatsižvelgiant į tai, ar buvo deklaruotas 24 mėnesių pasirinkimas skaičiuoti PVM.“
 
-\#### 3 straipsnis. 331 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 331 straipsnio 3 dalies pakeitimas
 
 Pakeisti 33^1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. PVM neapmokestinamas už šalies teritorijos ribų įsikūrusio apmokestinamojo asmens, įsiregistravusio PVM mokėtoju bet kurioje valstybėje narėje (išskyrus Lietuvos Respubliką), prekių įsigijimas iš kitos valstybės narės (kitos negu valstybė narė, kurioje jis įregistruotas PVM mokėtoju), kai šis asmuo šias prekes šalies teritorijoje iš karto patiekia PVM mokėtojui, kuriam pagal šį Įstatymą nustatyta prievolė apskaičiuoti ir sumokėti PVM už šias patiektas prekes.“
 
-\#### 4 straipsnis. 44 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 44 straipsnio 2 dalies pakeitimas
 
 Pakeisti 44 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Taikant 0 procentų PVM tarifą apmokestinamas prekių tiekimas, kai jos tiekiamos kaip atsargos į orlaivius apmokestinamiesiems asmenims, daugiau kaip pusę pajamų per metus gaunantiems iš keleivių ir (arba) krovinių vežimo ar kitokių paslaugų teikimo už atlyginimą oro transportu tarptautiniais maršrutais.“
 
-\#### 5 straipsnis. 66 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 66 straipsnio 2 dalies pakeitimas
 
 Pakeisti 66 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -74,13 +74,13 @@ Pakeisti 66 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) jeigu Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įrodoma, kad prekės prarastos dėl force majeure arba nusikalstamos trečiųjų asmenų veikos.“
 
-\#### 6 straipsnis. 67 straipsnio 5 dalies pakeitimas
+## 6 straipsnis. 67 straipsnio 5 dalies pakeitimas
 
 Pakeisti 67 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Jeigu paaiškėja, kad šio straipsnio 1 dalyje nurodytas ilgalaikis materialusis turtas pradėtas naudoti kitai negu šio Įstatymo 58 straipsnio 1 dalyje nurodytai veiklai arba prarandamas, PVM atskaita turi būti patikslinta to mokestinio laikotarpio, kurį paaiškėjo minėtos aplinkybės, PVM deklaracijoje atitinkamai (t. y. atskaityta pirkimo arba importo PVM dalimi, tenkančia iki PVM atskaitos tikslinimo termino pabaigos likusiam laikotarpiui) padidinant mokėtiną į biudžetą (mažinant grąžintiną iš biudžeto) PVM sumą. PVM atskaita netikslinama, jeigu Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įrodoma, kad turtas prarastas dėl *force majeure* arba nusikalstamos trečiųjų asmenų veikos.“
 
-\#### 7 straipsnis. 68 straipsnio pakeitimas
+## 7 straipsnis. 68 straipsnio pakeitimas
 
 Pakeisti 68 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 68 straipsnį ir jį išdėstyti taip:
 
 3. Kai PVM mokėtojas perduoda turtą, valdomą ir naudojamą patikėjimo teise ir kurio (o jeigu jis pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM ar jo dalis buvo įtrauktas (įtraukta) į PVM atskaitą, kitam apmokestinamajam asmeniui, kuris yra PVM mokėtojas, taip pat tais atvejais, kai turtas, kurio (o jeigu jis pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM ar jo dalis buvo įtrauktas (įtraukta) į PVM atskaitą, perduodamas kitam PVM mokėtojui dėl turtą perduodančio PVM mokėtojo skaidymo atskyrimo būdu pagal Lietuvos Respublikos akcinių bendrovių įstatymą, laikoma, kad turto perėmėjas jo (o jeigu jis buvo pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM arba jo dalį įtraukė į savo PVM atskaitą ir jam tenka prievolės tikslinti PVM atskaitą šiame skyriuje nustatyta tvarka.“
 
-\#### 8 straipsnis. 95 straipsnio 1, 3 dalių pakeitimas ir papildymas
+## 8 straipsnis. 95 straipsnio 1, 3 dalių pakeitimas ir papildymas
 
 1. 95 straipsnio 1 dalyje vietoj žodžių „neįregistruotų PVM mokėtojais Lietuvos Respublikoje“ įrašyti žodžius „neįsikūrusių šalies teritorijoje“ ir šią dalį išdėstyti taip:
 
@@ -126,13 +126,13 @@ Pakeisti 68 straipsnį ir jį išdėstyti taip:
 
 „6) prekes, kurios yra instaliuojamos ar surenkamos Lietuvoje.“
 
-\#### 9 straipsnis. 117 straipsnio 2 dalies papildymas 3 punktu
+## 9 straipsnis. 117 straipsnio 2 dalies papildymas 3 punktu
 
 Papildyti 117 straipsnio 2 dalį 3 punktu:
 
 „3) vykdė veiklą, nurodytą šio Įstatymo XII skyriaus penktajame skirsnyje.“
 
-\#### 10 straipsnis. Įstatymo įgyvendinimas
+## 10 straipsnis. Įstatymo įgyvendinimas
 
 1. Šio įstatymo 1 straipsnio 1 dalies nuostatos taikomos tikslinant 2005 metų ir vėlesnių metų PVM atskaitą.
 

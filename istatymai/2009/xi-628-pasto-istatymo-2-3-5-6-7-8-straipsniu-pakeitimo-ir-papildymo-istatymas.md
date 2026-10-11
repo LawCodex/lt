@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0DEB6B2C91ED"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0DEB6B2C91ED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pašto įstatymo 2, 3, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [36-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1); 2004, Nr. [60-2125](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F02615C57F5))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 27. Viešasis pašto tinklas – pašto infrastruktūra, kuria naudojasi universaliųjų pašto paslaugų teikėjas teikdamas pašto paslaugas: surinkdamas pašto siuntas, priskiriamas universaliosioms pašto paslaugoms, iš visoje teritorijoje esančių pašto paslaugų teikimo vietų; apdorodamas ir veždamas tokias pašto siuntas nuo paėmimo iš pašto paslaugų teikimo vietų iki rūšiavimo vietų; pristatydamas siuntas pagal adresus, nurodytus ant pašto siuntų.“
 
-\#### 2 straipsnis. 3 straipsnio 4 dalies 1 punkto pakeitimas, 2 punkto pripažinimas netekusiu galios ir 5 dalies 1 punkto pakeitimas
+## 2 straipsnis. 3 straipsnio 4 dalies 1 punkto pakeitimas, 2 punkto pripažinimas netekusiu galios ir 5 dalies 1 punkto pakeitimas
 
 1. Pakeisti 3 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -96,13 +96,13 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 „1) kontroliuoti, kaip laikomasi šio Įstatymo bei kitų teisės aktų, reglamentuojančių pašto ir pasiuntinių veiklą, nuostatų;“.
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies 4 punkto pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies 4 punkto pakeitimas
 
 Pakeisti 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) siekdami nustatyti, ar pašto ir pasiuntinių paslaugų teikėjai nepažeidžia šiame Įstatyme, pašto ir pasiuntinių paslaugų teikimo taisyklėse nustatytų reikalavimų, tikrina pašto ir pasiuntinių paslaugų teikėjų ūkinę veiklą; išsamiai patikrina universaliųjų pašto paslaugų teikėjo (teikėjų) sąnaudas ir (ar) pajamų sistemą (sistemas);“.
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 6. Pašto ir (ar) pasiuntinių paslaugų teikėjas, nutraukęs pašto ir (ar) pasiuntinių paslaugų teikimą, privalo apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka ir sąlygomis.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -190,7 +190,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 11. Keitimasis dokumentais vyksta tarp susitarimą dėl keitimosi dokumentais sudariusių asmenų. Šie asmenys patys pristato ir pasiima pašto siuntas, naudodamiesi savo ar trečiųjų asmenų patalpomis, transportu.“
 
-\#### 6 straipsnis. 8 straipsnio 4 dalies 1 punkto pakeitimas
+## 6 straipsnis. 8 straipsnio 4 dalies 1 punkto pakeitimas
 
 8 straipsnio 4 dalies 1 punkte išbraukti žodžius „su klientais“ ir šį punktą išdėstyti taip:
 

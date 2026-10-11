@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bc0ba950afce11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BC0BA950AFCE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 464 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 464 straipsnio pakeitimas
+## 1 straipsnis. 464 straipsnio pakeitimas
 
 Pakeisti 464 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 
 5. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. lapkričio 2 d.
 

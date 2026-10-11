@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d828cf4014ea11ee9f7ec2ffce8b47bc"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D828CF4014EA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo Nr. XIV-789 3, 4, 7, 12 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas
@@ -85,5 +85,3 @@ Jeigu sveikatos duomenys, dėl kurių pakartotinio naudojimo pateiktas prašymas
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_c1b313e8c9624a788d0cc365fb91746f_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FB1988F0B46D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FB1988F0B46D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 9, 13, 14, 15, 21, 54 straipsnių pakeitimo ir papildymo įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 2000, Nr. 41-1165, Nr. 58-1715, Nr. 92-2862)
 
-\#### 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -70,13 +70,13 @@ Vilnius
 
 „Šio straipsnio pirmosios dalies 10–14 punktuose nurodyti asmenys valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Asmenys, nurodyti šio straipsnio pirmosios dalies 14 punkte, privalomai draudžiami valstybės lėšomis tik tuo atveju, kai negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos ar šalpos (socialinės) pensijos.“
 
-\#### 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „Papildoma valstybinės socialinio draudimo pensijos dalis suteikia papildomą pensinį aprūpinimą asmenims, išvardytiems 2 straipsnio pirmosios dalies 1-6 punktuose, draustiems valstybiniu socialiniu pensijų draudimu, taip pat 2 straipsnio pirmosios dalies 7 punkte nurodytiems asmenims, jeigu jie privalomai draudžiasi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti, atsižvelgiant į šių asmenų draudimo stažą ir draudžiamąsias pajamas, turėtas per draudimo (draudimosi) laikotarpį.“
 
-\#### 3 straipsnis. 8 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
+## 3 straipsnis. 8 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „Asmenų, išvardytų 2 straipsnio pirmosios dalies 10–14 punktuose, privalomojo draudimo valstybiniu socialiniu pensijų draudimu valstybės lėšomis laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant savarankiškai.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 9 straipsnio 1 ir 2 dalyse po žodžių „nuo kurių buvo įmokėtos“ įrašyti žodžius „ar turėjo būti įmokėtos“ ir šį straipsnį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Jei asmens, kuriam skaičiuojamas valstybinio socialinio pensijų draudimo staž
 
 Išėjimo į pensiją metais į valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, įskaitomi visi mėnesiai iki išėjimo į pensiją, jei uždarbis ir kitos pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, yra ne mažesnės už minimalaus darbo užmokesčio per visus šiuos mėnesius sumą. Priešingu atveju išėjimo į pensiją metų stažas laikomas proporcingai mažesniu.“
 
-\#### 5 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 13 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti ir papildyti 13 straipsnį ir jį išdėstyti taip:
 
 Asmenų, išvardytų 2 straipsnio pirmosios dalies 1–6 punktuose, draudžiamosiomis pajamomis laikomos visos jų pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, taip pat gautos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) ir bedarbio pašalpos. Asmenų, nurodytų 2 straipsnio pirmosios dalies 6 punkte, draudžiamosiomis pajamomis jų draudimo valstybiniu socialiniu pensijų draudimu laikotarpiu laikomos sumos, nuo kurių už šiuos asmenis buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio draudimo fondo biudžetą. Asmenų, nurodytų 2 straipsnio pirmosios dalies 7 punkte, draudžiamosiomis pajamomis jų privalomojo draudimosi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti laikotarpiu laikomos sumos, nuo kurių šie asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas į Valstybinio socialinio draudimo fondo biudžetą papildomai pensijos daliai gauti.“
 
-\#### 6 straipsnis. 14 straipsnio pakeitimas
+## 6 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -130,13 +130,13 @@ Ketvirčio vidutines mėnesines draudžiamąsias pajamas ne rečiau kaip kiekvie
 
 Praeitų metų vidutines mėnesines draudžiamąsias pajamas Lietuvos Respublikos Vyriausybė Valstybinio socialinio draudimo fondo tarybos teikimu patvirtina ne vėliau kaip iki kitų metų kovo 1 dienos.“
 
-\#### 7 straipsnis. 15 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 15 straipsnio 2 dalies pakeitimas
 
 15 straipsnio 2 dalies pirmajame sakinyje vietoj žodžių „vidutinės mėnesinės draudžiamosios pajamos pagal ketvirčio duomenis“ įrašyti žodžius „ketvirčio vidutinės mėnesinės draudžiamosios pajamos“ ir šią dalį išdėstyti taip:
 
 „Jei pensija skiriama tuo metu, kai dar nepatvirtintos praeitų metų vidutinės mėnesinės draudžiamosios pajamos, vietoj jų asmens draudžiamųjų pajamų koeficientui apskaičiuoti naudojamos paskutinės ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Patvirtinus praeitų metų vidutines mėnesines draudžiamąsias pajamas, paskirtoji pensija, atsižvelgiant į šias pajamas, perskaičiuojama nuo pensijos paskyrimo dienos.“
 
-\#### 8 straipsnis. 21 straipsnio pakeitimas
+## 8 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ dydis K – asmens draudžiamųjų pajamų koeficientas (16 straipsnis);
 
 dydis D – ketvirčio vidutinės mėnesinės draudžiamosios pajamos, kurios buvo patvirtintos iki to mėnesio, už kurį mokama pensija, pirmosios dienos (14 straipsnis).“
 
-\#### 9 straipsnis. 54 straipsnio 2 ir 5 dalių pakeitimas ir papildymas
+## 9 straipsnis. 54 straipsnio 2 ir 5 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 

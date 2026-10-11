@@ -11,7 +11,7 @@ status: in_force
 issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AEE54104CE41"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AEE54104CE41.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos TSR Aukščiausiosios Tarybos reglamento papildymo
@@ -36,7 +36,7 @@ LIETUVOS TSR AUKŠČIAUSIOSIOS TARYBOS
 
 PIRMININKO RINKIMAS IR ATŠAUKIMAS
 
-\#### 161 straipsnis
+## 161 straipsnis
 
 Naujai išrinktos Lietuvos TSR Aukščiausiosios Tarybos Pirmininkas renkamas Lietuvos TSR Aukščiausiosios Tarybos pirmojoje sesijoje.
 
@@ -46,7 +46,7 @@ Lietuvos TSR Aukščiausiosios Tarybos Pirmininkas renkamas iš Lietuvos TSR Auk
 
 Lietuvos TSR Aukščiausiosios Tarybos Pirmininko rinkimai yra teisėti, kai juose dalyvauja ne mažiau kaip du trečdaliai visų Lietuvos TSR Aukščiausiosios Tarybos deputatų.
 
-\#### 162 straipsnis
+## 162 straipsnis
 
 Kandidatus į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas gali siūlyti visi Lietuvos TSR Aukščiausiosios Tarybos deputatai.
 
@@ -54,7 +54,7 @@ Kandidatas laikomas iškeltu, jeigu šiam pasiūlymui pritaria (antrina) dar ben
 
 Vienas Lietuvos TSR Aukščiausiosios Tarybos deputatas gali siūlyti arba pritarti (antrinti) tik vienam kandidatui į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas.
 
-\#### 163 straipsnis
+## 163 straipsnis
 
 Pasibaigus kandidatų kėlimui, posėdžio pirmininkas perskaito visų kandidatų pavardes ir paprašo jų sutikti balotiruotis.
 
@@ -62,7 +62,7 @@ Balsavimo biuletenio pavyzdį patvirtina Lietuvos TSR Aukščiausioji Taryba.
 
 Į balsavimo biuletenį abėcėlės tvarka įrašomos visų iškeltų ir sutikusių balotiruotis kandidatų pavardės ir vardai.
 
-\#### 164 straipsnis
+## 164 straipsnis
 
 Iškelti kandidatai abėcėlės tvarka paskelbia savo būsimosios veiklos programas. Jas svarsto Lietuvos TSR Aukščiausiosios Tarybos deputatai.
 
@@ -70,7 +70,7 @@ Pasibaigus programų svarstymui, kandidatams suteikiamas baigiamasis žodis.
 
 Būsimosios veiklos programoms paskelbti skiriama iki 15 minučių, o baigiamajam žodžiui tarti - iki 5 minučių.
 
-\#### 165 straipsnis
+## 165 straipsnis
 
 Po programų svarstymo Lietuvos TSR Aukščiausioji Taryba išrenka balsų skaičiavimo komisiją.
 
@@ -80,7 +80,7 @@ Balsavimo biuletenius antspauduoja ir išduoda balsų skaičiavimo komisija.
 
 Gaudami balsavimo biuletenį, Lietuvos TSR Aukščiausiosios Tarybos deputatai pasirašo balsavimo biuletenių išdavimo sąraše.
 
-\#### 166 straipsnis
+## 166 straipsnis
 
 Balsavimo vietoje turi būti slapto balsavimo kabina ir balsadėžė.
 
@@ -88,17 +88,17 @@ Balsadėžė turi būti taip pastatyta, kad balsuojantieji, prieidami prie jos, 
 
 Už balsavimo organizavimą atsakinga balsų skaičiavimo komisija.
 
-\#### 167 straipsnis
+## 167 straipsnis
 
 Balsuojantysis išbraukia balsavimo biuletenyje pavardes tų kandidatų, prieš kuriuos jis balsuoja.
 
 Negaliojančiais pripažįstami nepatvirtinto pavyzdžio balsavimo biuleteniai, taip pat biuleteniai, kuriuose balsuojant palikta daugiau kaip vienas kandidatas. Papildomai įrašytos pavardės neskaičiuojamos.
 
-\#### 168 straipsnis
+## 168 straipsnis
 
 Iškėlus vieną kandidatą į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas, jis laikomas išrinktu, jeigu už jį balsavo daugiau kaip pusė deputatų, dalyvaujančių Aukščiausiosios Tarybos sesijoje.
 
-\#### 169 straipsnis
+## 169 straipsnis
 
 Jeigu iškelti du kandidatai į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas, kandidatas laikomas išrinktu, jeigu už jį balsavo daugiau kaip pusė deputatų, dalyvaujančių Aukščiausiosios Tarybos sesijoje.
 
@@ -106,7 +106,7 @@ Jeigu nė vienas iš kandidatų tokios balsų daugumos negavo, balsavimas kartoj
 
 Jeigu balsai pasiskirstė po lygiai, po pertraukos balsuojama dar kartą.
 
-\#### 1610 straipsnis
+## 1610 straipsnis
 
 Jeigu iškelti daugiau kaip du kandidatai į Lietuvos TSR Aukščiausiosios Tarybos Pirmininko pareigas, išrinktu laikomas tas, už kurį balsavo daugiau kaip pusė deputatų, dalyvaujančių Aukščiausiosios Tarybos sesijoje.
 
@@ -116,27 +116,27 @@ Tuo atveju, kai keli kandidatai gavo po lygiai ir mažiausiai balsų, o už juos
 
 Jeigu už lygiai ir mažiausiai surinkusiuosius daugiau balsų surinko mažiau negu 3 kandidatai, pakartotiniam balsavimui paliekami visi kandidatai. Jeigu po tokio balsavimo padėtis nesikeičia, balsavimas kartojamas kitą dieną.
 
-\#### 1611 straipsnis
+## 1611 straipsnis
 
 Jeigu pakartotiniam balsavimui lieka du kandidatai, laimi tas, kuris gavo daugiau balsų. Jei balsai pasiskirstė po lygiai, po pertraukos balsuojama dar kartą.
 
-\#### 1612 straipsnis
+## 1612 straipsnis
 
 Jei balsuojant dėl dviejų kandidatų du kartus balsai pasiskirstė po lygiai, dar kartą balsuojama kitą dieną.
 
-\#### 1613 straipsnis
+## 1613 straipsnis
 
 Jei balsuojant dėl dviejų kandidatų, laimėjęs kandidatas nesurinko daugiau kaip pusės balsų, dėl pasitikėjimo juo balsuojama atvirai. Jei Aukščiausioji Taryba paprasta balsų dauguma pareiškia pasitikėjimą, šis kandidatas laikomas išrinktu Pirmininku. Jei Aukščiausioji Taryba pasitikėjimo nepareiškia, skelbiami nauji rinkimai.
 
-\#### 1614 straipsnis
+## 1614 straipsnis
 
 Prieš kiekvieną pakartotinį balsavimą kandidatas gali atšaukti savo sutikimą balotiruotis.
 
-\#### 1615 straipsnis
+## 1615 straipsnis
 
 Slapto balsavimo rezultatus tvirtina Aukščiausioji Taryba.
 
-\#### 1616 straipsnis
+## 1616 straipsnis
 
 Reikalauti atšaukti Pirmininką turi teisę ne mažiau kaip penkiolika Aukščiausiosios Tarybos deputatų. Toks reikalavimas turi būti raštu pateiktas posėdžio pirmininkui, kuris jį privalo nedelsdamas paskelbti Aukščiausiajai Tarybai.
 

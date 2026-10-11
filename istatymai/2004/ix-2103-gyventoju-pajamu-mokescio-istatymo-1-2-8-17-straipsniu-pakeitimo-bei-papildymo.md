@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8A5FC9B93F15.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 1, 2, 8, 17 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 13(1) straipsniu ir priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6))
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 1. 1 straipsnio pavadinimą papildyti žodžiais „ir taikymo sritis“ ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Šio Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.“
 
-\#### 2 straipsnis. 2 straipsnio 14 dalies pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio 14 dalies pakeitimas ir papildymas
 
 2 straipsnio 14 dalies pirmojoje pastraipoje po žodžių „pozityviosios pajamos“ įrašyti žodžius „priskiriamos Europos ekonominių interesų grupės pajamos“, dalį papildyti 9 punktu ir ją išdėstyti taip:
 
@@ -62,7 +62,7 @@ Vilnius
 
 9) gyventojo (Europos ekonominių interesų grupės dalyvio) gautą Europos ekonominių interesų grupės pelną ar jo dalį.“
 
-\#### 3 straipsnis. 8 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 3 straipsnis. 8 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. 8 straipsnio 2 dalies pirmojoje pastraipoje po žodžių „išskyrus pozityviąsias pajamas“ įrašyti žodžius „bei priskiriamas Europos ekonominių interesų grupės pajamas“ ir šią dalį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Vilnius
 
 „4. Priskiriamų Europos ekonominių interesų grupės pajamų gavimo momentu laikoma Europos ekonominių interesų grupės paskutinė finansinio laikotarpio, per kurį tas pajamas ji uždirbo ir (arba) gavo, diena.“
 
-\#### 4 straipsnis. Įstatymo papildymas 131 straipsniu
+## 4 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -90,13 +90,13 @@ Papildyti Įstatymą 13^1 straipsniu:
 
 4. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos litais pagal Lietuvos banko skelbiamą oficialų lito ir užsienio valiutos santykį, nustatytą pajamų ir sąnaudų priskyrimo dieną.“
 
-\#### 5 straipsnis. 17 straipsnio 1 dalies 26 punkto pakeitimas
+## 5 straipsnis. 17 straipsnio 1 dalies 26 punkto pakeitimas
 
 Pakeisti 17 straipsnio 1 dalies 26 punktą ir jį išdėstyti taip:
 
 „26) sumos materialinei žalai atlyginti,teismų priteistos sumos neturtineižalai atlyginti,taip pat išlaidų, susijusių su socialine, medicinine ir profesine reabilitacija, atlyginimas pagal Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo nuostatas;“.
 
-\#### 6 straipsnis. Įstatymo papildymas priedu
+## 6 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -112,7 +112,7 @@ priedas
 
 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG).“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis Įstatymas, išskyrus 5 straipsnį, įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

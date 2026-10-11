@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/20cc6a40c26e11ea9815f635b9c0dcef"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.20CC6A40C26E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos inovacijų skatinimo fondo įstatymas
@@ -192,5 +192,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2079, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12871
 
 Lietuvos Respublikos inovacijų skatinimo fondo įstatymo Nr. XIII-3167 2 straipsnio pakeitimo įstatymas
-
-part_bc8d5b43104d4de08af7a1becc3d278c_end

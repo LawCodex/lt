@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/aec21a8255c511f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AEC21A8255C5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 2 straipsnio ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS IR TARPTAUTINĖS TEISĖ
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Vykdomuosius raštus dėl Europos Sąjungos Tarybos, Europos Komisijos, Europos Centrinio Banko ar Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucijos sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Sąjungos Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas išduoda Lietuvos apeliacinis teismas.“
 
-\#### 2 straipsnis. Įstatymo priedo pakeitimas
+## 2 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 15 punktu:
 

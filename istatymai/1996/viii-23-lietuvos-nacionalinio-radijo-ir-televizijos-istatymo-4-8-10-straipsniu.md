@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.914193ABD395"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.914193ABD395.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [102-2319](https://www.e-tar.lt/portal/lt/legalAct/TAR.1559303036A8))
 
-\#### 1 straipsnis. 4 straipsnio 1 ir 2 dalių papildymas ir pakeitimas
+## 1 straipsnis. 4 straipsnio 1 ir 2 dalių papildymas ir pakeitimas
 
 1. 4 straipsnio 1 dalį papildyti antru sakiniu ir visą dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2. Lietuvos nacionalinio radijo ir televizijos programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno laidoms. Masinė kultūra atspindima apžvalginio, pažintinio, analitinio pobūdžio laidose.“
 
-\#### 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „2. Lietuvos nacionalinio radijo ir televizijos tarybos sudarymą organizuoja Seimo Švietimo, mokslo ir kultūros komitetas.“
 
-\#### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
 
 10 straipsnio 2 dalyje vietoj skaičiaus „5“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:
 

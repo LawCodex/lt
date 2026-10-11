@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.00B0D561C076"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.00B0D561C076.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos teismų įstatymo ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" įsigaliojimo" papildymo
@@ -32,7 +32,7 @@ Papildyti Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo
 
 Lietuvos apeliacinio teismo ir apygardų teismų pirmininkai bei šių teismų skyrių pirmininkai nuo jų paskyrimo dienos turi teisę paskirstyti šių teismų teisėjus į skyrius, priimti į darbą teismo raštinės tarnautojus bei kitus darbuotojus, atidaryti sąskaitas banke, disponuoti skirtomis lėšomis, taip pat vykdyti kitas būtinas organizacines-ūkines funkcijas, užtikrinančias, kad šie teismai galėtų pradėti funkcionuoti nuo 1995 m. sausio 1 dienos.
 
-\#### 15 straipsnis
+## 15 straipsnis
 
 Naujojo Lietuvos Aukščiausiojo Teismo pirmininkas nuo paskyrimo dienos turi teisę paskirstyti teisėjus į skyrius, patvirtinti šio teismo raštvedybos instrukciją bei teismo vidaus struktūrą, siūlyti iš paskirtųjų teisėjų Respublikos Prezidentui teikti Seimui kandidatus į Aukščiausiojo Teismo skyrių pirmininkus, priimti į darbą teismo raštinės tarnautojus bei kitus darbuotojus, taip pat vykdyti kitas būtinas organizacines funkcijas, užtikrinančias, kad įsteigtasis Lietuvos Aukščiausiasis Teismas pradėtų funkcionuoti nuo 1995 m. sausio 1 dienos.
 
@@ -40,7 +40,7 @@ Dabartinio Lietuvos Aukščiausiojo Teismo raštinės tarnautojus bei kitus darb
 
 Dabartinio Lietuvos Aukščiausiojo Teismo pirmininkas, jei jis nepaskirtas naujojo Lietuvos Aukščiausiojo Teismo pirmininku, savo pareigas naujojo Lietuvos Aukščiausiojo Teismo pirmininkui perduoda 1994 m. gruodžio 30 d. 16 val. 45 min., dalyvaujant Lietuvos Respublikos Seimo valdybos paskirtam atstovui. Kiti Lietuvos Aukščiausiojo Teismo reikalai turi būti perduoti iki 1995 m. sausio 7 dienos.
 
-\#### 16 straipsnis
+## 16 straipsnis
 
 Lietuvos Respublikos teismų įstatymo 51 straipsnio trečiosios dalies nuostata gali būti taikoma nuo 1994 m. lapkričio 15 dienos.“
 

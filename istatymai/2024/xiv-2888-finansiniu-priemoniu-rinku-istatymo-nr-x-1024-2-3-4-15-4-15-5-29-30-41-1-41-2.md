@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/093befe049a111efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.093BEFE049A1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 4, 15-4, 15-5, 29, 30, 41-1, 41-2, 41-3, 53, 72, 91, 93, 102, 112, 114 straipsnių, II skyriaus penktojo skirsnio pavadinimo ir priedo pakeitimo įstatymas

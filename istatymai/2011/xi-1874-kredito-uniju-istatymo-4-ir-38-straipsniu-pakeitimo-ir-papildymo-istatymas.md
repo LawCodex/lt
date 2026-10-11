@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.21B1E8DA52EB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.21B1E8DA52EB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kredito unijų įstatymo 4 ir 38 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 1995, Nr. [26-578](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01); 2008, Nr. [76-3003](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA5DEF72950D); 2009, Nr. [153-6893](https://www.e-tar.lt/portal/lt/legalAct/TAR.22FC55646475); 2011, Nr. [86-4179](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC92E08F415A))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ir 2 dalies papildymas 4 punktu
+## 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ir 2 dalies papildymas 4 punktu
 
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „4) elektroninių pinigų leidimas.“
 
-\#### 2 straipsnis. 38 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 38 straipsnio 1 dalies pakeitimas
 
 Pakeisti 38 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 38 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) 350 tūkstančių eurų (išreikšta eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį), jeigu kredito unija ketina teikti šio įstatymo 4 straipsnio 2 dalies 4 punkte nurodytą licencinę finansinę paslaugą.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

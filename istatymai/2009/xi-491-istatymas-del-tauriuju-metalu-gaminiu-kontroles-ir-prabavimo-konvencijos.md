@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5F6F7A95B61A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5F6F7A95B61A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos, pasirašytos 1972 m. lapkričio 15 d. Vienoje, pakeitimų ratifikavimo
@@ -22,7 +22,7 @@ retrieved: 2026-10-12
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos pakeitimų ratifikavimas
+## 1 straipsnis. Konvencijos pakeitimų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. rugsėjo 11 d. dekretą Nr. 1K-107, ratifikuoja Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos, pasirašytos 1972 m. lapkričio 15 d. Vienoje, pakeitimus, priimtus 2001 m. sausio 9 d. Ženevoje.
 

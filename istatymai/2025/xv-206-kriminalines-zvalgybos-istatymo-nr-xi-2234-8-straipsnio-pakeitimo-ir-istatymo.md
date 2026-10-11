@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f56f70e2358111f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F56F70E23581.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo ir Įstatymo papildymo priedu įstatymas
@@ -26,13 +26,13 @@ KRIMINALINĖS ŽVALGYBOS ĮSTATYMO NR. XI-2234 8 STRAIPSNIO PAKEITIMO IR ĮSTATY
 
 Vilnius
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 123^1 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 151^1, 153, 172, 173, 174, 175 ir 175^1 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 182^1 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 189^1 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 199^1 straipsnio 1 ir 2 dalyse, 199^2 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 228^1 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 250^1, 250^3 ir 250^6 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 253^2 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 266^1 straipsnio 1 dalyje, 267^2 straipsnio 1 dalyje, 276^4 straipsnio 1 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;“.
 
-\#### 2 straipsnis. Įstatymo papildymas priedu
+## 2 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

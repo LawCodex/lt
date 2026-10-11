@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/aa364d12d1d511f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA364D12D1D5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 9, 11 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ RINKLIAVŲ ĮSTATYMO NR. VIII-1725 9, 11 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kai įstatymuose, Europos Sąjungos reglamentuose ar sprendimuose, reglamentuojančiuose dokumento (leidimo, licencijos, liudijimo, teikimo, atestato, sprendimo, sertifikato, pažymėjimo ar panašiai), reikalingo tam tikrai ūkinei veiklai pradėti ar vykdyti, išdavimą, įrašymą ar įsirašymą į sąrašą ar informacines sistemas, kuriuo įgyjama teisė pradėti ar vykdyti tam tikrą ūkinę veiklą, privalomą informacijos pateikimą prieš pradedant teisėtai vykdyti ūkinę veiklą, taip pat kitokį leidimo vykdyti ūkinę veiklą suteikimą (toliau – leidimas vykdyti ūkinę veiklą), nustatyta, kad leidimas vykdyti ūkinę veiklą laikomas išduotu asmeniui kitą dieną nuo pranešimo ar kito dokumento apie ketinimą vykdyti veiklą (toliau – pranešimas) pateikimo institucijai dienos arba nuo pranešime nurodytos dienos, jeigu ji yra vėlesnė negu pranešimo pateikimo institucijai diena, valstybės rinkliava turi būti sumokama iki pranešimo pateikimo momento.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „13) įvažiavimą į savivaldybės tarybos nustatytą mažos taršos zoną.“
 
-\#### 3 straipsnis. Įstatymo priedo pakeitimas
+## 3 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ priedas
 
 _____________________“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. gruodžio 15 d.
 

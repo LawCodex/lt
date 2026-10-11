@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.13257225ED1D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.13257225ED1D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4 straipsnio papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84); 1997, Nr. [115-2911](https://www.e-tar.lt/portal/lt/legalAct/TAR.901DC8BD80E5); 1998, Nr. [56-1546](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5179D300BC1); 2003, Nr. [32-1314](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFE572A4C3AC), Nr. [102-4587](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D1B9E08D358); 2004, Nr. [88-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C6EDA02A66F); 2005, Nr. [71-2554](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D1E439FB91A); 2007, Nr. [138-5646](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D45898ABE61); 2008, Nr. [134-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.3225C2892463), Nr. [149-6014](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5CBD04F5C9A); 2009, Nr. [151-6779](https://www.e-tar.lt/portal/lt/legalAct/TAR.944A7A6A07C3); 2010, Nr. [82-4309](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D9B706C873B); 2011,Nr. [150-7045](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D73E42E22F1); 2012, Nr. [155-7986](https://www.e-tar.lt/portal/lt/legalAct/TAR.560DF2DDD691))
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies papildymas 3 punktu
+## 1 straipsnis. 4 straipsnio 2 dalies papildymas 3 punktu
 
 Papildyti 4 straipsnio 2 dalį 3 punktu:
 
 „3) asmenys, kuriems teisės aktų nustatyta tvarka paskirta Lietuvos nacionalinė kultūros ir meno premija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

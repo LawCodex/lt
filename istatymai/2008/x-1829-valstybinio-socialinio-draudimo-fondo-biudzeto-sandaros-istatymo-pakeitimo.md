@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FD511C5A13B1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FD511C5A13B1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3047](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC73490B2F09))
 
-\#### 1 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymą ir jį išdėstyti taip:
 
@@ -38,15 +38,15 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir tikslas
+## 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 1. Šis įstatymas nustato Lietuvos Respublikos valstybinio socialinio draudimo fondo (toliau – Fondas) biudžeto sudarymo ir vykdymo tvarką bei rodiklius, pagal kuriuos tvirtinamas Fondo biudžetas ir šio biudžeto vykdymo ataskaitų rinkinys. Fondo biudžeto pajamų ir išlaidų bei piniginių įplaukų ir išlaidų klasifikaciją pagal jų pobūdį ir paskirtį, Fondo ir Fondo administravimo įstaigų biudžeto vykdymo ataskaitų rinkinio sudėtį nustato Vyriausybės patvirtintos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės (toliau – Taisyklės).
 
 2. Šio įstatymo tikslas – siekiant ilgalaikės, visapusiškos socialinės Lietuvos Respublikos gyventojų gerovės, užtikrinti, kad sudarant ir vykdant Fondo biudžetą būtų numatyti pakankami ištekliai Valstybinio socialinio draudimo įstatymo numatytų rūšių valstybiniam socialiniam draudimui (toliau – socialinis draudimas) vykdyti ir kad šie ištekliai būtų naudojami pagal paskirtį teisės aktų nustatyta tvarka.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Apdraustieji asmenys – kaip ši sąvoka apibrėžta Valstybinio socialinio draudimo įstatyme (toliau – apdraustieji).
 
@@ -88,9 +88,9 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 20. Savarankiškai dirbantys asmenys – kaip ši sąvoka apibrėžta Valstybinio socialinio draudimo įstatyme.
 
-\### ANTRASIS SKIRSNIS. FONDO BIUDŽETO PAJAMOS, IŠLAIDOS, PINIGINĖS ĮPLAUKOS IR IŠLAIDOS, JŲ PLANAVIMAS IR FONDO GRYNASIS TURTAS
+ANTRASIS SKIRSNIS. FONDO BIUDŽETO PAJAMOS, IŠLAIDOS, PINIGINĖS ĮPLAUKOS IR IŠLAIDOS, JŲ PLANAVIMAS IR FONDO GRYNASIS TURTAS
 
-\#### 3 straipsnis. Fondo biudžeto pajamos
+## 3 straipsnis. Fondo biudžeto pajamos
 
 1. Fondo biudžeto pajamų pagrindą sudaro draudėjų, apdraustųjų, savarankiškai dirbančių asmenų, asmenų, apsidraudusių valstybiniu savanoriškuoju socialiniu draudimu (toliau – savanoriškasis socialinis draudimas), valstybės biudžeto už valstybės lėšomis draudžiamus asmenis įmokos, taip pat asignavimai iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių.
 
@@ -108,7 +108,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 5) kitos pajamos.
 
-\#### 4 straipsnis. Fondo biudžeto pajamų planavimas kitiems biudžetiniams metams
+## 4 straipsnis. Fondo biudžeto pajamų planavimas kitiems biudžetiniams metams
 
 1. Fondo biudžeto pajamos, gaunamos iš įmokų, kitiems biudžetiniams metams planuojamos kiekvienai valstybinio socialinio draudimo įmokų mokėtojų grupei taip:
 
@@ -132,7 +132,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 4. Asignavimai iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių Fondo biudžetui taip pat skiriami atsižvelgiant į Fondo finansinę padėtį, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja Fondo išlaidos arba sumažėja jo pajamos, o įmokų tarifai atskiroms socialinio draudimo rūšims nekeičiami arba keičiami nepakankamai. Sprendimą dėl šių papildomų asignavimų priima Seimas, tvirtindamas Fondo biudžetą atitinkamiems biudžetiniams metams.
 
-\#### 5 straipsnis. Fondo išlaidos
+## 5 straipsnis. Fondo išlaidos
 
 1. Fondo biudžeto išlaidų pagrindą sudaro Fondo išlaidos atskiroms socialinio draudimo rūšims, tai yra:
 
@@ -156,7 +156,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 3. Fondo išlaidos išmokoms, kurioms taikomos tarptautinės sutartys ar Europos Sąjungos reglamentai dėl socialinės apsaugos, priskiriamos Fondo išlaidoms atskiroms socialinio draudimo rūšims pagal šių išmokų pobūdį.
 
-\#### 6 straipsnis. Fondo biudžeto išlaidų planavimas kitiems biudžetiniams metams
+## 6 straipsnis. Fondo biudžeto išlaidų planavimas kitiems biudžetiniams metams
 
 1. Fondo biudžeto išlaidos kitiems biudžetiniams metams planuojamos:
 
@@ -170,7 +170,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 2. Administravimo išlaidų kompensavimas už išmokas, finansuojamas iš valstybės biudžeto ir (ar) kitų šaltinių, kurias teisės aktai paveda skirti, mokėti ir (ar) administruoti Fondo administravimo įstaigoms, numatomas Lietuvos Respublikos teisės aktuose ar (ir) atskirose sutartyse tarp Fondo valdybos ir asignavimų valdytojų.
 
-\#### 7 straipsnis. Fondo biudžeto piniginės įplaukos ir išlaidos
+## 7 straipsnis. Fondo biudžeto piniginės įplaukos ir išlaidos
 
 1. Fondo biudžeto piniginių įplaukų ir išlaidų straipsnyje parodomos šio biudžeto faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais biudžetiniais metais.
 
@@ -184,7 +184,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 6. Pinigų cirkuliacijai užtikrinti kasos apyvartos lėšų suma turi būti ne mažesnė kaip vidutinė Fondo biudžeto 3 darbo dienų išlaidų suma ir vidutinė 3 mėnesių įmokų, pervedamų į kaupiamųjų pensijų socialinio draudimo įmokų sąskaitą, suma.
 
-\#### 8 straipsnis. Fondo grynasis turtas
+## 8 straipsnis. Fondo grynasis turtas
 
 1. Fondo grynasis turtas yra skirtas Fondo funkcijų vykdymui užtikrinti.
 
@@ -194,9 +194,9 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 4. Fondo grynasis turtas naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-\### TREČIASIS SKIRSNIS. FONDO BIUDŽETO PROJEKTO IR JO VYKDYMO ATASKAITŲ RINKINIO RENGIMAS IR TVIRTINIMAS
+TREČIASIS SKIRSNIS. FONDO BIUDŽETO PROJEKTO IR JO VYKDYMO ATASKAITŲ RINKINIO RENGIMAS IR TVIRTINIMAS
 
-\#### 9 straipsnis. Fondo biudžeto projekto rengimo ir teikimo Seimui tvarka
+## 9 straipsnis. Fondo biudžeto projekto rengimo ir teikimo Seimui tvarka
 
 1. Fondo biudžeto projektas sudaromas biudžetiniams metams.
 
@@ -208,7 +208,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 5. Vyriausybė, pritarusi Fondo biudžeto rodiklių patvirtinimo įstatymo projektui, nustatyta tvarka ne vėliau kaip likus 75 kalendorinėms dienoms iki einamųjų biudžetinių metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtinimo įstatymo projektu teikiami Fondo biudžeto projekto aiškinamasis raštas ir kitų dvejų biudžetinių metų numatomų Fondo rodiklių prognozė, Fondo tarybos išvada, draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių pagrindimas ir kiti būtini dokumentai.
 
-\#### 10 straipsnis. Fondo biudžeto tvirtinimas
+## 10 straipsnis. Fondo biudžeto tvirtinimas
 
 1. Fondo biudžetas atitinkamiems biudžetiniams metams tvirtinamas priimant Fondo biudžeto rodiklių patvirtinimo įstatymą.
 
@@ -216,7 +216,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 3. Patvirtinus Fondo biudžetą, Fondo valdyba paskirsto ir patvirtina ketvirčiais Fondo biudžeto pajamas, išlaidas bei pinigines įplaukas ir išlaidas pagal klasifikacijos straipsnius, ir patvirtina Fondo administravimo įstaigų veiklos sąnaudų sąmatas.
 
-\#### 11 straipsnis. Rodikliai, kurie tvirtinami Fondo biudžeto rodiklių patvirtinimo įstatymu
+## 11 straipsnis. Rodikliai, kurie tvirtinami Fondo biudžeto rodiklių patvirtinimo įstatymu
 
 1. Fondo biudžeto rodiklių patvirtinimo įstatymu atitinkamiems biudžetiniams metams tvirtinami:
 
@@ -242,11 +242,11 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS
 
 2. Fondo biudžeto rodiklių patvirtinimo įstatymu taip pat numatomi šaltiniai, iš kurių, esant laikinam lėšų trūkumui, šis trūkumas bus dengiamas.
 
-\#### 12 straipsnis. Fondo biudžeto tikslinimas
+## 12 straipsnis. Fondo biudžeto tikslinimas
 
 Jeigu Seimas ar Vyriausybė priima teisės aktus, dėl kurių keičiasi Fondo išlaidos arba Fondo pajamos, ir (arba) atsiranda aplinkybės, kurių nebuvo galima numatyti rengiant Fondo biudžeto projektą ir jį tvirtinant, Fondo biudžetas patikslinamas tokia pat tvarka kaip ir tvirtinamas.
 
-\#### 13 straipsnis. Fondo pajamų ir išlaidų priskyrimas
+## 13 straipsnis. Fondo pajamų ir išlaidų priskyrimas
 
 1. Fondo biudžeto projektas ir Fondo biudžeto vykdymo ataskaitų rinkinys rengiami pagal Taisyklėse nustatytą Fondo biudžeto pajamų ir išlaidų bei piniginių įplaukų ir išlaidų klasifikaciją.
 
@@ -254,9 +254,9 @@ Jeigu Seimas ar Vyriausybė priima teisės aktus, dėl kurių keičiasi Fondo i�
 
 3. Fondo piniginių įplaukų ir išlaidų ataskaitoje parodomos biudžetinių metų faktinės pinigų įplaukos ir išlaidos.
 
-\### KETVIRTASIS SKIRSNIS. FONDO BIUDŽETO VYKDYMAS
+KETVIRTASIS SKIRSNIS. FONDO BIUDŽETO VYKDYMAS
 
-\#### 14 straipsnis. Fondo biudžeto vykdymas
+## 14 straipsnis. Fondo biudžeto vykdymas
 
 1. Už Fondo biudžeto projekto parengimą ir Fondo biudžeto vykdymą yra atsakinga Fondo valdyba. Metinis Fondo biudžetas baigiamas vykdyti gruodžio 31 dieną.
 
@@ -266,7 +266,7 @@ Jeigu Seimas ar Vyriausybė priima teisės aktus, dėl kurių keičiasi Fondo i�
 
 4. Pasibaigus biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti Fondui įmokoms už valstybės lėšomis draudžiamus asmenis ir išmokoms iš valstybės biudžeto išmokėti, Biudžeto sandaros įstatymo nustatyta tvarka grąžinami į valstybės biudžetą.
 
-\#### 15 straipsnis. Fondo biudžeto vykdymo ataskaitų rinkinio rengimas ir tvirtinimas
+## 15 straipsnis. Fondo biudžeto vykdymo ataskaitų rinkinio rengimas ir tvirtinimas
 
 1. Fondo biudžeto vykdymo ataskaitų rinkinį, finansinių ataskaitų rinkinį ir Fondo konsoliduotųjų ataskaitų rinkinį rengia Fondo valdyba.
 
@@ -278,7 +278,7 @@ Jeigu Seimas ar Vyriausybė priima teisės aktus, dėl kurių keičiasi Fondo i�
 
 5. Vyriausybė, pritarusi metinių Fondo konsoliduotųjų ataskaitų rinkiniams, nustatyta tvarka pateikia juos tvirtinti Seimui. Metinių Fondo konsoliduotųjų ataskaitų rinkiniai tvirtinami Seimo nutarimu.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.“
 

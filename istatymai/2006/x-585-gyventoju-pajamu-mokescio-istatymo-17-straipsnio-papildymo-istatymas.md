@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B15884538315"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B15884538315.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 Nr. 123-5585; 2004, Nr. 25-749, Nr. 60-2118, Nr. 73-2535, Nr. 158-5757, Nr. 167-6108; 2005, Nr. 76-2744, Nr. 81-2943, Nr. 153-5634; 2006, Nr. 41-1462)
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies papildymas 51 punktu
+## 1 straipsnis. 17 straipsnio 1 dalies papildymas 51 punktu
 
 Papildyti 17 straipsnio 1 dalį 51 punktu:
 
 „51) vieneto likvidavimo atveju vieneto dalyvio (gyventojo) turtas (pinigai), kurio šaltinis yra kompensacijos, gautos pagal Europos Sąjungos finansinės paramos Lietuvos Respublikos programas už žvejybos laivų atidavimą į metalo laužą, ir kuris laikomas vieneto dalyvio (gyventojo) turėto turto (akcijų, dalių, pajų) pardavimo pajamomis.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant 2005 m. prasidėjusio ir vėlesnių metų mokestinių laikotarpių apmokestinamąsias pajamas.
 

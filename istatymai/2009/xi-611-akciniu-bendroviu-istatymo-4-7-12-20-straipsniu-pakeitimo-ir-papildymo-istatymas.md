@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.02380721CB11"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.02380721CB11.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 4, 7, 12, 20 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2006, Nr. [82-3252](https://www.e-tar.lt/portal/lt/legalAct/TAR.348FD207192A); 2009, Nr. [91-3914](https://www.e-tar.lt/portal/lt/legalAct/TAR.63BE523B049E))
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios ir 6 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios ir 6 dalies pakeitimas
 
 1. 4 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios.
 
@@ -32,17 +32,17 @@ Vilnius
 
 „6. Visuotinio akcininkų susirinkimo kompetencijos, jo šaukimo tvarkos, kitų bendrovės organų kompetencijos ir šių organų narių rinkimo ir atšaukimo tvarkos, bendrovės įstatų keitimo tvarkos įstatuose nurodyti nebūtina, jeigu tvarka ir kompetencija nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose įstatuose.“
 
-\#### 2 straipsnis. 7 straipsnio 2 dalies 2 punkto pakeitimas
+## 2 straipsnis. 7 straipsnio 2 dalies 2 punkto pakeitimas
 
 7 straipsnio 2 dalies 2 punkte po žodžio „pavadinimas“ įrašyti žodžius „ir buveinė“ ir šį punktą išdėstyti taip:
 
 „2) steigiamos bendrovės pavadinimas ir buveinė;“.
 
-\#### 3 straipsnis. 12 straipsnio 1 dalies 5 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 12 straipsnio 1 dalies 5 punkto pripažinimas netekusiu galios
 
 12 straipsnio 1 dalies 5 punktą pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 20 straipsnio 1 dalies papildymas ir pakeitimas
+## 4 straipsnis. 20 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 20 straipsnio 1 dalį nauju 2 punktu:
 

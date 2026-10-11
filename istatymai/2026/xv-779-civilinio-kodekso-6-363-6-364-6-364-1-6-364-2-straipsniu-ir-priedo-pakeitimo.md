@@ -10,7 +10,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b508d1b22c3c11f1a552c76556910e9c"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/b508d1b22c3c11f1a552c76556910e9c.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.363, 6.364, 6.364-1, 6.364-2 straipsnių ir priedo pakeitimo įstatymas

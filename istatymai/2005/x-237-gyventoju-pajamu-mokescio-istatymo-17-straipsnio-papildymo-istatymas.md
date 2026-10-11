@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.176D8F1C555D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.176D8F1C555D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [102-4586](https://www.e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15), Nr.[73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4), Nr. [158-5757](https://www.e-tar.lt/portal/lt/legalAct/TAR.770DDEDE7A78), Nr. [167-6108](https://www.e-tar.lt/portal/lt/legalAct/TAR.50CB57548C2E))
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies 31 punkto papildymas
+## 1 straipsnis. 17 straipsnio 1 dalies 31 punkto papildymas
 
 17 straipsnio 1 dalies 31 punkte po žodžių „organizacijų lėšų“ įrašyti žodžius „taip pat Lietuvos Respublikos Vyriausybės nustatyto dydžio premijos sportininkams ir jų treneriams, gydytojams, masažuotojams ir mokslininkams, išmokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui prie Lietuvos Respublikos Vyriausybės“ ir šį punktą išdėstyti taip:
 

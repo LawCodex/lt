@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.529B7165A88A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.529B7165A88A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 50 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A))
 
-\#### 1 straipsnis. 50 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 50 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 50 straipsnio 1 dalyje vietoj žodžių „Gydytojų medicinos“ įrašyti žodį „Medicinos“, po žodžio „praktikos“ įrašyti žodžius „Odontologijos praktikos, Slaugos praktikos“ ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2. Sveikatos priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą specialybę. Įstatymų nustatytais atvejais arba kai asmens sveikatos priežiūros specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų profesijų sąrašą, specialistai gali praktikuoti tik gavę licenciją. Specialybėms registruoti sudaromas sveikatos priežiūros ir farmacijos specialybių registras, kurio tvarkytojas yra Sveikatos apsaugos ministerija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

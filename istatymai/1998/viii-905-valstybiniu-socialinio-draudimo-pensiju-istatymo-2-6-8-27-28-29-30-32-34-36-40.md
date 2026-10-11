@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.51DE78DB400F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.51DE78DB400F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymas
@@ -364,7 +364,7 @@ našlaičių pensija apskaičiuojama taip pat kaip valstybinė socialinio draudi
 
 II grupės invalidumo pensija (29 straipsnis) ir skiriama:
 
-\- asmeniui, turinčiam teisę gauti našlių
+- asmeniui, turinčiam teisę gauti našlių
 
 pensiją (34 straipsnis), - 20 procentų jos dydžio. Jeigu pagal 34 straipsnio
 
@@ -372,7 +372,7 @@ antrąją dalį teisę gauti našlių pensiją turi keli globėjai, kiekvienam s
 
 po lygiai, bet ne daugiau kaip 20 procentų viso apskaičiuotos pensijos dydžio;
 
-\- našlaičiui (35 straipsnis) - 25
+- našlaičiui (35 straipsnis) - 25
 
 procentus jos dydžio, jei teisę gauti šią pensiją turi vienas vaikas. Jei tokią
 

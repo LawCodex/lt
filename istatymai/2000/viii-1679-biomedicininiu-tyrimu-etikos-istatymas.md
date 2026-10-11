@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.234B15954C2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
@@ -1142,5 +1142,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2073, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12868
 
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 2, 5 ir 7 straipsnių pakeitimo įstatymas
-
-part_4b8b2e7bd9904401a7e1cf9ad664ef38_end

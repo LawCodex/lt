@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.13E108ED3981"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.13E108ED3981.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymas
@@ -818,8 +818,6 @@ Lietuvos Respublikos
 3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES, kuria iš dalies keičiama Direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2014 L 124, p. 1).
 
 4. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/30/ES dėl naftos ir dujų operacijų jūroje saugos, kuria iš dalies keičiama Direktyva 2004/35/EB (OL 2013 L 178, p. 66).
-
-part_a653b0f128e042fb88eb86dc1fe16513_end
 
 Pakeitimai:
 

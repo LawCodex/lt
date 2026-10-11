@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7EA8FF3D04F0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7EA8FF3D04F0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų įstaigų įstatymo 12 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. 68-1633; 2004, Nr. 25-752; 2010, Nr. 1-17)
 
-\#### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ir papildymas ir straipsnio papildymas 4 dalimi
+## 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ir papildymas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti ir papildyti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -58,11 +58,11 @@ Vilnius
 
 „4. Viešosios įstaigos veiklos ataskaita yra viešas dokumentas. Ne vėliau kaip per 5 darbo dienas nuo eilinio visuotinio dalininkų susirinkimo viešosios įstaigos veiklos ataskaita turi būti pateikta Juridinių asmenų registrui ir paskelbta viešosios įstaigos interneto svetainėje. Jeigu viešoji įstaiga interneto svetainės neturi, tretiesiems asmenims turi būti sudarytos sąlygos su šia ataskaita susipažinti viešosios įstaigos buveinėje.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2011 m. lapkričio 1 d.
 
-\#### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2011 m. spalio 31 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

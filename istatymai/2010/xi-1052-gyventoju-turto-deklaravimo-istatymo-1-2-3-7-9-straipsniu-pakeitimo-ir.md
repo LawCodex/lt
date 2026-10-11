@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7FC319CFF30B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7FC319CFF30B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 1, 2, 3, 7, 9 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 Nr. 138-5445; 2010, Nr. 25-1178, Nr. 63-3097)
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams,kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo, piniginės socialinės paramos skyrimoarba valstybės paramos būstui įsigyti ar išsinuomoti gavimo.“
 
-\#### 2 straipsnis. 2 straipsnio 1 dalies papildymas 24 punktu ir 2 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 1 dalies papildymas 24 punktu ir 2 dalies pakeitimas
 
 1. Papildyti 2 straipsnio 1 dalį 24 punktu:
 
@@ -44,13 +44,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „2. Šio straipsnio 1 dalies 1–20, 23 ir 24punktuosenurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą.Šio straipsnio 1 dalies 24 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose (mokiniai ar studentai), asmenys laikotarpiu nuo dieninių bendrojo lavinimo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).“
 
-\#### 3 straipsnis. 3 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 3 straipsnio 5 dalies pakeitimas
 
 3 straipsnio 5 dalyje vietoj skaičių ir žodžio „20, 21 ir 23“ įrašyti skaičius ir žodį „20, 21, 23 ir 24“ ir šią dalį išdėstyti taip:
 
 „5. Šio Įstatymo 2 straipsnio 1 dalies 20, 21, 23 ir 24 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 7 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti ir papildyti 7 straipsnį ir jį išdėstyti taip:
 
 8. Šiame straipsnyje nurodytų turtą (įskaitant gautas pajamas) deklaravusių gyventojų pageidavimu gali būti pateikiami trys deklaracijos egzemplioriai. Du deklaracijos egzemplioriai su žyma, kad deklaracija yra pateikta, grąžinami deklaraciją pateikusiam gyventojui.“
 
-\#### 5 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 

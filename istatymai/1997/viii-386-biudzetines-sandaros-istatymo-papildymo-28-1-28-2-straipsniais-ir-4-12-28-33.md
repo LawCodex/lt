@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1154A20C3C73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1154A20C3C73.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžetinės sandaros įstatymo papildymo 28(1), 28(2) straipsniais ir 4, 12, 28, 33 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 1992, Nr. 29(1)-854; 1993, Nr. 54-1049; 1995, Nr. 18-404, Nr. 47-1136; 1996, Nr. 57-1344)
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 4 straipsnio 1 dalyje po skaičiaus „28“ įrašyti skaičius „28^1, 28^2“, 2 dalį išbraukti ir visą straipsnį išdėstyti taip:
 
 **„****4****straipsnis.****Pajamų ir išlaidų paskirstymas Lietuvos Respublikos valstybės biudžetui ir savivaldybių biudžetams nustatytas šio įstatymo 12, 13, 28, 28^1, 28^2 ir 29 straipsniuose.“**
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnio 2 dalies 3 punktą išbraukti, o buvusius 4, 5, 6, 7, 8, 9 punktus laikyti atitinkamai 3, 4, 5, 6, 7, 8 punktais, 3 ir 4 dalis išbraukti, buvusioje 5 dalyje vietoj skaičiaus „6“ įrašyti skaičių „5“, buvusioje 6 dalyje vietoj skaičiaus „8“ įrašyti skaičių „7“, buvusioje 7 dalyje vietoj skaičiaus „9“ įrašyti skaičių „8“ ir visą straipsnį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Lietuvos Respublikos valstybės biudžetui priskiriama:
 
 8 punkte nurodytos kitos įmokos Lietuvos Respublikos valstybės ar savivaldybių biudžetams priskiriamos vadovaujantis įstatymų nustatyta jų ėmimo tvarka, o jos nesant – Lietuvos Respublikos Vyriausybės nutarimais.“
 
-\#### 3 straipsnis. 28 straipsnio pakeitimas
+## 3 straipsnis. 28 straipsnio pakeitimas
 
 28 straipsnį pakeisti ir išdėstyti taip:
 
@@ -80,7 +80,7 @@ Savivaldybių biudžetų pajamų dalyje nurodoma savivaldybių pasiskolintų lė
 
 Valstybės biudžeto dotacijos, skiriamos savivaldybių biudžetams, dydis nustatomas vadovaujantis Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymu.“
 
-\#### 4 straipsnis. Įstatymo papildymas 281 straipsniu
+## 4 straipsnis. Įstatymo papildymas 281 straipsniu
 
 Papildyti Įstatymą 28^1 straipsniu:
 
@@ -102,7 +102,7 @@ Papildyti Įstatymą 28^1 straipsniu:
 
 8) kitos įstatymų nustatytos mokestinės pajamos.“
 
-\#### 5 straipsnis. Įstatymo papildymas 282 straipsniu
+## 5 straipsnis. Įstatymo papildymas 282 straipsniu
 
 Papildyti Įstatymą 28^2 straipsniu:
 
@@ -124,13 +124,13 @@ b) pajamos už nustatyta tvarka išnuomotus ir parduotus ne žemės ūkio paskir
 
 c) kitos įstatymų nustatytos nemokestinės pajamos.“
 
-\#### 6 straipsnis. 33 straipsnio pakeitimas
+## 6 straipsnis. 33 straipsnio pakeitimas
 
 33 straipsnį pakeisti ir išdėstyti taip:
 
 **„****33****straipsnis.****Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios institucijos, remdamosi Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymu, kitais Lietuvos Respublikos įstatymais, valstybinės statistikos duomenimis, socialinėmis ir ekonominėmis programomis ir mokslinėmis-techninėmis prognozėmis.“**
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1998 metų sausio 1 d.
 

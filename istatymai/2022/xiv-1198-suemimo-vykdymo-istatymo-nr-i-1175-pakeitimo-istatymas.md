@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a2029f80040211edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A2029F800402.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymas
@@ -548,5 +548,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymo Nr. XIV-1198 1 straipsnio pakeitimo įstatymas
-
-part_521fc7290dc5476aa1a8fea781bad343_end

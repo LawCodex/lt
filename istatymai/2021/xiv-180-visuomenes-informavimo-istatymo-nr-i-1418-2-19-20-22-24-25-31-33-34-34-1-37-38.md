@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/56ceb2d05fdd11eb9dc7b575f08e8bea"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.56CEB2D05FDD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas

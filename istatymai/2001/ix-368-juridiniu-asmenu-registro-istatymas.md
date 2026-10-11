@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5735E146A232"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5735E146A232.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos juridinių asmenų registro įstatymas
@@ -236,5 +236,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
 
 Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 2, 4-1 straipsnių ir priedo pakeitimo įstatymas
-
-part_61743140d7194c8d8e472b36785e5064_end

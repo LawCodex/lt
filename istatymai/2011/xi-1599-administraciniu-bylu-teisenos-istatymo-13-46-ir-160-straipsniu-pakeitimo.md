@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CE6662FD5437"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CE6662FD5437.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 13, 46 ir 160 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8); 2002, Nr. [31-1125](https://www.e-tar.lt/portal/lt/legalAct/TAR.5FA6E8079BD9); 2003, Nr. [39-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.9FE106C9700B); 2007, Nr. [72-2830](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F44E333859B); 2010, Nr. [142-7258](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BFC4BB604DB))
 
-\#### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 2 dalies pakeitimas
 
 13 straipsnio 2 dalyje po žodžio „penkių“ įrašyti žodžius „arba septynių“ ir šią dalį išdėstyti taip:
 
 „2. Lietuvos vyriausiasis administracinis teismas skelbia plenarinės sesijos priimtus sprendimus, nutarimus ir nutartis, taip pat trijų teisėjų kolegijų ir išplėstinių penkių arba septynių teisėjų kolegijų priimtus sprendimus, nutarimus ir nutartis, kurių paskelbimui pritarė dauguma šio teismo teisėjų, bei visus sprendimus dėl norminių administracinių aktų teisėtumo. Į Lietuvos vyriausiojo administracinio teismo biuletenyje paskelbtuose sprendimuose, nutarimuose ir nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia teismai, valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus.“
 
-\#### 2 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 46 straipsnio 2 dalyje po žodžio „penkių“ įrašyti žodžius „arba septynių“ ir šią dalį išdėstyti taip:
 
 „2. Lietuvos vyriausiajame administraciniame teisme bylas nagrinėja trijų teisėjų kolegija. Sudėtingoms byloms nagrinėti teismo pirmininko iniciatyva ar kolegijos siūlymu gali būti sudaroma išplėstinė penkių arba septynių teisėjų kolegija arba byla gali būti perduota nagrinėti teismo plenarinei sesijai. Teismo plenarinės sesijos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip du trečdaliai teismo teisėjų.“
 
-\#### 3 straipsnis. 160 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 160 straipsnio 2 dalies pakeitimas
 
 Pakeisti 160 straipsnio 2 dalį ir ją išdėstyti taip:
 

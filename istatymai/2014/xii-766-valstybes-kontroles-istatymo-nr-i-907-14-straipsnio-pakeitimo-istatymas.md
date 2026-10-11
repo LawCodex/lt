@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/977bbee089a711e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.977BBEE089A7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 14 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS KONTROLĖS ĮSTATYMO NR. I-907 14 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 14 straipsnio pakeitimas
+## 1 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „4.Valstybės kontrolė gali atlikti Lietuvos banko veiklos auditą, išskyrus Europos centrinių bankų sistemos ir Eurosistemos uždavinių vykdymą, nepažeisdama Lietuvos banko nepriklausomų išorės auditorių veiklos. Valstybės kontrolė atsižvelgia į Lietuvos banko nepriklausomumą ir neduoda nurodymų Lietuvos bankui, Lietuvos banko valdybai, jos nariams atliekant savo funkcijas, susijusias su Europos centrinių bankų sistemos ir Eurosistemos uždavinių vykdymu.“
 
-\#### 2 straipsnis. Įstatymo 1 straipsnio 2 dalies įsigaliojimas
+## 2 straipsnis. Įstatymo 1 straipsnio 2 dalies įsigaliojimas
 
 Šio įstatymo 1 straipsnio 2 dalis įsigalioja dieną, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą.
 

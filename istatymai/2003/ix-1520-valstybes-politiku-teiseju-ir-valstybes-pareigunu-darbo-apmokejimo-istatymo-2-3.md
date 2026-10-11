@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C26646AD5581"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C26646AD5581.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2, 3 straipsnių pakeitimo ir papildymo, įstatymo papildymo 5(1) straipsniu ir įstatymo priedėlio III skirsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [75-2271](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0), Nr. [92-2887](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A6EBC94FA78); 2001, Nr. [43-1492](https://www.e-tar.lt/portal/lt/legalAct/TAR.DFBFF8F125ED), Nr. [48-1661](https://www.e-tar.lt/portal/lt/legalAct/TAR.3253F3333A0F), Nr. 49; 2002, Nr. 38-1358, Nr. 43-1606, Nr. 72-3018, Nr. 73-3104; 2003, Nr. 17-703, Nr. 35-1464)
 
-\#### 1 straipsnis. 2 straipsnio 3 dalies 1 punkto pakeitimas
+## 1 straipsnis. 2 straipsnio 3 dalies 1 punkto pakeitimas
 
 2 straipsnio 3 dalies 1 punkte vietoj žodžių „prokuratūros pareigūnams“ įrašyti žodį „prokurorams“ ir šį punktą išdėstyti taip:
 
 „1) prokurorams;“.
 
-\#### 2 straipsnis. 3 straipsnio papildymas
+## 2 straipsnis. 3 straipsnio papildymas
 
 3 straipsnio 2 dalyje po žodžių „Valstybės pareigūnų“ įrašyti žodžius „(išskyrus prokurorų)“, papildyti straipsnį nauja 3 dalimi, buvusią 3 dalį laikyti 4 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 4. Duomenys apie valstybės politikų, teisėjų ir valstybės pareigūnų darbo užmokestį yra vieši. Šių duomenų pateikimo tvarką iki 2002 m. birželio 1 d. nustato Vyriausybė.“
 
-\#### 3 straipsnis. Įstatymo papildymas 51 straipsniu
+## 3 straipsnis. Įstatymo papildymas 51 straipsniu
 
 Papildyti Įstatymą 5^1 straipsniu:
 
@@ -84,7 +84,7 @@ Papildyti Įstatymą 5^1 straipsniu:
 
 2. Prokurorams priedas už suteiktą jaunesniojo justicijos patarėjo kvalifikacinį rangą nemokamas.“
 
-\#### 4 straipsnis. Įstatymo priedėlio III skirsnio pakeitimas
+## 4 straipsnis. Įstatymo priedėlio III skirsnio pakeitimas
 
 Pakeisti Įstatymo priedėlio III skirsnį ir jį išdėstyti taip:
 
@@ -92,81 +92,46 @@ Pakeisti Įstatymo priedėlio III skirsnį ir jį išdėstyti taip:
 
 (MMA dydžiais)
 
-\| Eil. Nr. | Pareigų pavadinimas | Pareiginės algos koeficientas |
-
-\| --- | --- | --- |
-
-\| 1. | Generalinė prokuratūra | |
-
-\| 1.1. | Generalinis prokuroras | 16,7 |
-
-\| 1.2. | Generalinio prokuroro pavaduotojas | 15,2 |
-
-\| 1.3. | Departamento vyriausiasis prokuroras | 14,7 |
-
-\| 1.4. | Skyriaus vyriausiasis prokuroras | 14,5 |
-
-\| 1.5. | Departamento vyriausiojo prokuroro pavaduotojas | 14,3 |
-
-\| 1.6. | Skyriaus vyriausiojo prokuroro pavaduotojas | 14,1 |
-
-\| 1.7. | ONKT departamento prokuroras | 13,8 |
-
-\| 1.8. | Departamento prokuroras | 13,1 |
-
-\| 1.9. | Skyriaus prokuroras | 13,0 |
-
-\| 1.10. | Prokuroras | 12,9 |
-
-\| 2. | Apygardų prokuratūros | |
-
-\| 2.1. | Vyriausiasis prokuroras | 11,8 |
-
-\| 2.2. | Vyriausiojo prokuroro pavaduotojas | 10,8 |
-
-\| 2.3. | Skyriaus vyriausiasis prokuroras | 10,4 |
-
-\| 2.4. | Skyriaus vyriausiojo prokuroro pavaduotojas | 10,1 |
-
-\| 2.5. | ONKT prokuroras | 10,0 |
-
-\| 2.6. | Prokuroras | 9,5 |
-
-\| 3. | Vilniaus, Kauno ir Klaipėdos miestų apylinkių prokuratūros | |
-
-\| 3.1. | Vyriausiasis prokuroras | 9,8 |
-
-\| 3.2. | Vyriausiojo prokuroro pavaduotojas | 9,3 |
-
-\| 3.3. | Skyriaus vyriausiasis prokuroras | 8,5 |
-
-\| 3.4. | Skyriaus vyriausiojo prokuroro pavaduotojas | 8,4 |
-
-\| 3.5. | Prokuroras | 8,3 |
-
-\| 4. | Šiaulių ir Panevėžio miestų apylinkių prokuratūros | |
-
-\| 4.1. | Vyriausiasis prokuroras | 9,7 |
-
-\| 4.2. | Vyriausiojo prokuroro pavaduotojas | 9,2 |
-
-\| 4.3. | Skyriaus vyriausiasis prokuroras | 8,5 |
-
-\| 4.4. | Skyriaus vyriausiojo prokuroro pavaduotojas | 8,4 |
-
-\| 4.5. | Prokuroras | 8,3 |
-
-\| 5. | Kitų rajonų (miestų) apylinkių prokuratūros | |
-
-\| 5.1. | Vyriausiasis prokuroras | 9,3 |
-
-\| 5.2. | Vyriausiojo prokuroro pavaduotojas | 8,8 |
-
-\| 5.3. | Prokuroras | 8,0 |
+| Eil. Nr. | Pareigų pavadinimas | Pareiginės algos koeficientas |
+| --- | --- | --- |
+| 1. | Generalinė prokuratūra |  |
+| 1.1. | Generalinis prokuroras | 16,7 |
+| 1.2. | Generalinio prokuroro pavaduotojas | 15,2 |
+| 1.3. | Departamento vyriausiasis prokuroras | 14,7 |
+| 1.4. | Skyriaus vyriausiasis prokuroras | 14,5 |
+| 1.5. | Departamento vyriausiojo prokuroro pavaduotojas | 14,3 |
+| 1.6. | Skyriaus vyriausiojo prokuroro pavaduotojas | 14,1 |
+| 1.7. | ONKT departamento prokuroras | 13,8 |
+| 1.8. | Departamento prokuroras | 13,1 |
+| 1.9. | Skyriaus prokuroras | 13,0 |
+| 1.10. | Prokuroras | 12,9 |
+| 2. | Apygardų prokuratūros |  |
+| 2.1. | Vyriausiasis prokuroras | 11,8 |
+| 2.2. | Vyriausiojo prokuroro pavaduotojas | 10,8 |
+| 2.3. | Skyriaus vyriausiasis prokuroras | 10,4 |
+| 2.4. | Skyriaus vyriausiojo prokuroro pavaduotojas | 10,1 |
+| 2.5. | ONKT prokuroras | 10,0 |
+| 2.6. | Prokuroras | 9,5 |
+| 3. | Vilniaus, Kauno ir Klaipėdos miestų apylinkių prokuratūros |  |
+| 3.1. | Vyriausiasis prokuroras | 9,8 |
+| 3.2. | Vyriausiojo prokuroro pavaduotojas | 9,3 |
+| 3.3. | Skyriaus vyriausiasis prokuroras | 8,5 |
+| 3.4. | Skyriaus vyriausiojo prokuroro pavaduotojas | 8,4 |
+| 3.5. | Prokuroras | 8,3 |
+| 4. | Šiaulių ir Panevėžio miestų apylinkių prokuratūros |  |
+| 4.1. | Vyriausiasis prokuroras | 9,7 |
+| 4.2. | Vyriausiojo prokuroro pavaduotojas | 9,2 |
+| 4.3. | Skyriaus vyriausiasis prokuroras | 8,5 |
+| 4.4. | Skyriaus vyriausiojo prokuroro pavaduotojas | 8,4 |
+| 4.5. | Prokuroras | 8,3 |
+| 5. | Kitų rajonų (miestų) apylinkių prokuratūros |  |
+| 5.1. | Vyriausiasis prokuroras | 9,3 |
+| 5.2. | Vyriausiojo prokuroro pavaduotojas | 8,8 |
+| 5.3. | Prokuroras | 8,0 |
 
 **Pastaba.** ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
 

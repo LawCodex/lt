@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/99cf1150537b11ec862fdcbc8b3e3e05"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.99CF1150537B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymo Nr. XIII-3420 2 ir 6 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO NR. VIII-2032 2,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ c) kai gabena jiems priklausančius krovinius savo transporto priemonėmis ir tu
 
 3) kelių rinkliavos sistemai sukurti ir įdiegti skirtai paskolai, jei bus suteikta valstybės garantija, grąžinti ir palūkanoms mokėti.“.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pripažinti netekusia galios 6 straipsnio 5 dalį.
 

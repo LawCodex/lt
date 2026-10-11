@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3A4781BBD0D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3A4781BBD0D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 5 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [33-814](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB), Nr. [64-1495](https://www.e-tar.lt/portal/lt/legalAct/TAR.B1B9C428FF5B))
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 5 straipsnio 2 dalį pripažinti netekusia galios, buvusias 3, 4, 5, 6 dalis laikyti atitinkamai 2, 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 

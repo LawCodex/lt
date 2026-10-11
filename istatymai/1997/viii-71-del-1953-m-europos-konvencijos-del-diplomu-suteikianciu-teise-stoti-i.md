@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6EC69CC551F1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6EC69CC551F1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl 1953 m. Europos konvencijos dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo ratifikavimo
@@ -26,7 +26,7 @@ DĖL 1953 M. EUROPOS KONVENCIJOS DĖL DIPLOMŲ, SUTEIKIANČIŲ TEISĘ STOTI Į U
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 19 d. dekretą Nr. 1107 ir 1997 m. sausio 13 d. dekretą Nr. 1165, ratifikuoja 1953 m. gruodžio 11 d. Europos konvenciją dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo.
 
@@ -66,7 +66,7 @@ būdamos įsitikinusios, kad, norint sudaryti tokias sąlygas, reikalingas taip 
 
 **susitaria:**
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 1. Kiekviena Susitariančioji šalis pripažins kitoje šalyje narėje išduotų diplomų lygiavertiškumą, suteikdama teisę juos gavusiems stoti į jos teritorijoje esančius valstybinius universitetus, jei jos stojamųjų egzaminų į panašias institucijas reikalavimai atitinka diplomą išdavusios šalies reikalavimus.
 
@@ -76,15 +76,15 @@ būdamos įsitikinusios, kad, norint sudaryti tokias sąlygas, reikalingas taip 
 
 4. Jei priėmimą į vienos iš Susitariančiųjų šalių teritorijoje esančius universitetus kontroliuoja ne valstybė, Susitariančioji šalis perduos šiems universitetams Konvencijos tekstą ir dės visas pastangas, kad jie laikytųsi jos principų.
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Kiekviena Susitariančioji šalis per vienerius metus, pradedamus skaičiuoti nuo Konvencijos įsigaliojimo datos, raštu praneš Europos Tarybos Generaliniam Sekretoriui, kaip įgyvendinami 1 straipsnio principai.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Europos Tarybos Generalinis Sekretorius perduos kitoms Susitariančiosioms šalims žinias, kiekvienos šalies atsiųstas pagal 2 straipsnio reikalavimą. Apie Konvencijos įgyvendinimo pažangą Generalinis Sekretorius informuos Ministrų komitetą.
 
-\#### 4 straipsnis
+## 4 straipsnis
 
 Šioje Konvencijoje vartojami terminai reiškia:
 
@@ -96,7 +96,7 @@ i) universitetus;
 
 ii) institucijas, savo pobūdžiu panašias į universitetus, jei taip teigia Susitariančioji šalis, kurios teritorijoje jos yra.
 
-\#### 5 straipsnis
+## 5 straipsnis
 
 1. Šią Konvenciją galės pasirašyti šalys, Europos Tarybos narės. Ji bus ratifikuota. Ratifikavimo dokumentus saugos Europos Tarybos Generalinis Sekretorius.
 
@@ -106,7 +106,7 @@ ii) institucijas, savo pobūdžiu panašias į universitetus, jei taip teigia Su
 
 4. Europos Tarybos Generalinis Sekretorius raštu praneš visoms Europos Tarybos narėms apie Konvencijos įsigaliojimą, taip pat nurodys ją ratifikavusias Susitariančiąsias šalis ir įteiktus ratifikavimo dokumentus, kurie bus tvirtinami vėliau.
 
-\#### 6 straipsnis
+## 6 straipsnis
 
 Europos Tarybos Ministrų komitetas gali kviesti prisijungti prie Konvencijos bet kurią šalį, kuri nėra Tarybos narė. Prisijungimo dokumentus kviestoji šalis turi įteikti Tarybos Generaliniam Sekretoriui, kuris apie tai raštu praneš visoms Susitariančiosioms šalims. Prisijungiančioje šalyje Konvencija įsigalios nuo dokumentų įteikimo dienos.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A1721E7487BB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1721E7487BB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 32 ir 248 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2004, Nr. [108-4030](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B06DA349A94))
 
-\#### 1 straipsnis. 32 straipsnio pakeitimas
+## 1 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 4. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat kriminalinės žvalgybos subjektai.“
 
-\#### 2 straipsnis. 248 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 248 straipsnio 3 dalies pakeitimas
 
 248 straipsnio 3 dalyje vietoj žodžių „operatyvinės veiklos“ įrašyti žodžius „kriminalinės žvalgybos“ ir šią dalį išdėstyti taip:
 
 „3. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat kriminalinės žvalgybos subjektai.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

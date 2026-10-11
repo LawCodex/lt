@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AEE335A2135D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AEE335A2135D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 29 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2011, Nr. [160-7576](https://www.e-tar.lt/portal/lt/legalAct/TAR.C2DAB42D5532))
 
-\#### 1 straipsnis. 29 straipsnio pakeitimas
+## 1 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 4. Šiltuoju metų laikotarpiu (nuo balandžio 1 dienos iki spalio 31 dienos imtinai) energijos išteklių rezervinių atsargų poreikį ir kiekį nustato energetikos įmonės.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos energetikos įstatymo 29 straipsnio 1 dalyje nustatytas įpareigojimas energetikos įmonėms, kurios šilumos gamybai naudoja energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti, sudaryti sutartis su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone taikytinas nuo 2014 m. sausio 1 d.
 

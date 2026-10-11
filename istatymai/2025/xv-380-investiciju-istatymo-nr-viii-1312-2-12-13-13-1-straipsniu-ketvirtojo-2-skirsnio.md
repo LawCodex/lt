@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/aa0afa1355d011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA0AFA1355D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
@@ -26,7 +26,7 @@ INVESTICIJŲ ĮSTATYMO NR. VIII-1312 2, 12, 13, 131 STRAIPSNIŲ, KETVIRTOJO2 SKI
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį 221 dalimi:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „24. **Stambaus projekto tęstinumo laikotarpis** – ne ilgesnis kaip 20 metų laikotarpis nuo stambaus projekto įgyvendinimo termino pabaigos, per kurį toliau vykdomi stambaus projekto investicijų sutartyje numatyti įsipareigojimai.“
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 Papildyti 12 straipsnio 2 dalį 9 punktu:
 
 „9) investuojama į gynybos ir saugumo pramonės projektus.“
 
-\#### 3 straipsnis. 13 straipsnio pakeitimas
+## 3 straipsnis. 13 straipsnio pakeitimas
 
 1. Pakeisti 13 straipsnio 1 dalies 13 punktą ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Papildyti 12 straipsnio 2 dalį 9 punktu:
 
 „15) dėl investicijų į gynybos ir saugumo pramonę sudaromos gynybos ir saugumo pramonės projektų investicijų sutartys.“
 
-\#### 4 straipsnis. 131 straipsnio pakeitimas
+## 4 straipsnis. 131 straipsnio pakeitimas
 
 1. Pakeisti 131 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Papildyti 12 straipsnio 2 dalį 9 punktu:
 
 „9. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris dėl leidimo laikinai gyventi Lietuvos Respublikoje išdavimo kreipiasi šio straipsnio 3 dalyje nustatytu pagrindu, arba pas užsienietį, kuris turi leidimą laikinai gyventi Lietuvos Respublikoje šio straipsnio 3 ar 4 dalyje nustatytu pagrindu, dėl leidimo laikinai gyventi Lietuvos Respublikoje išdavimo gali kreiptis kartu su šiuo užsieniečiu arba gali kreiptis vienas iš pilnamečių šeimos narių ir leidimas laikinai gyventi Lietuvos Respublikoje jam išduodamas tokiam pačiam laikotarpiui kaip ir šiam užsieniečiui. Šeimos narys, kuriam leidimas laikinai gyventi Lietuvos Respublikoje išduotas šioje dalyje nustatytu pagrindu, turi teisę dirbti ir yra atleidžiamas nuo pareigos įsigyti leidimą dirbti. Jeigu šeimos narys dirbs pagal reglamentuojamą profesiją, kaip ji apibrėžiama Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, turi būti pateiktas dokumentas, patvirtinantis, kad šeimos narys atitinka Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme nustatytas sąlygas vykdyti reglamentuojamą profesinę veiklą.“
 
-\#### 5 straipsnis. Įstatymo papildymas 132 straipsniu
+## 5 straipsnis. Įstatymo papildymas 132 straipsniu
 
 Papildyti Įstatymą 13^2 straipsniu:
 
@@ -90,7 +90,7 @@ Papildyti Įstatymą 13^2 straipsniu:
 
 4. Gynybos ir saugumo pramonės projektas įtraukiamas į gynybos ir saugumo pramonės projektų sąrašą. Gynybos ir saugumo pramonės projektai išbraukiami iš gynybos ir saugumo pramonės projektų sąrašo pasibaigus gynybos ir saugumo pramonės projekto įgyvendinimo terminui arba nutraukus gynybos ir saugumo pramonės projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia gynybos ir saugumo pramonės projekto įgyvendinimo terminas. Gynybos ir saugumo pramonės projektų įtraukimo į gynybos ir saugumo pramonės projektų sąrašą, išbraukimo iš šio sąrašo ir gynybos ir saugumo pramonės projektų sąrašo viešinimo tvarką nustato Vyriausybė.“
 
-\#### 6 straipsnis. Ketvirtojo2 skirsnio pakeitimas
+## 6 straipsnis. Ketvirtojo2 skirsnio pakeitimas
 
 Pakeisti ketvirtąjį^2 skirsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti ketvirtąjį^2 skirsnį ir jį išdėstyti taip:
 
 INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
-\#### 156 straipsnis. Stambaus projekto investicijų sutarties sudarymas
+## 156 straipsnis. Stambaus projekto investicijų sutarties sudarymas
 
 1. Paraiška dėl stambaus projekto investicijų sutarties sudarymo teikiama, šio straipsnio 3 dalyje nustatytų sąlygų pagrindimas ir šių sąlygų pagrindimo, taip pat šio straipsnio 6 dalyje nurodytų interesų vertinimas atliekami, Vyriausybės įgaliotos institucijos veiksmai užtikrinant stambaus projekto atitikties viešajai tvarkai, nacionaliniam saugumui, visuomenės saugumui ir (ar) sveikatos interesams vertinimą, rengiant, derinant, sudarant ar vykdant stambaus projekto investicijų sutartį, stambaus projekto investicijų sutarties vykdymo priežiūra atliekama, taip pat šio įstatymo 157 straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambaus projekto investicijų sutartyje nurodytiems stambiems projektams įgyvendinti taikomos Vyriausybės nustatyta tvarka. Investuotojo prašymai dėl stambaus projekto investicijų sutarčių keitimo, kai prašoma pratęsti šio įstatymo 2 straipsnio 25 dalyje nurodytą terminą, teikiami, nagrinėjami ir sprendimai priimami šio įstatymo 157 straipsnio 22 dalyje nustatyta tvarka.
 
@@ -146,7 +146,7 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 10. Savivaldybės skatinamos rengti, keisti ar koreguoti savivaldybės ir (ar) vietovės lygmens teritorijų planavimo dokumentus, iš anksto numatyti teritorijas ir įtvirtinti sprendinius, reikalingus stambiems projektams pritraukti ir įgyvendinti. Įsigaliojus stambaus projekto investicijų sutarčiai, kuria numatoma įgyvendinti stambų projektą iš anksto savivaldybės suplanuotoje teritorijoje, ir įtraukus stambų projektą į stambių projektų sąrašą, ne anksčiau kaip kitais biudžetiniais metais po stambaus projekto investicijų sutarties įsigaliojimo gali būti skiriama speciali tikslinė iki 5 procentų stambaus projekto vertės valstybės biudžeto dotacija savivaldybės biudžetui savivaldybės viešajai infrastruktūrai, kuri suprantama taip, kaip savivaldybės infrastruktūra apibrėžiama Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, plėtoti. Valstybės biudžeto specialios tikslinės dotacijos savivaldybės biudžetui savivaldybės viešajai infrastruktūrai plėtoti skyrimo, grąžinimo ir apskaičiavimo tvarką nustato ekonomikos ir inovacijų ministras. Ši dotacija neskiriama tais atvejais, kai stambus projektas įgyvendinamas laisvosios ekonominės zonos teritorijoje.
 
-\#### 157 straipsnis. Stambiems projektams ir laisvosios ekonominės zonos įmonėms taikomos specialios investavimo ir verslo sąlygos
+## 157 straipsnis. Stambiems projektams ir laisvosios ekonominės zonos įmonėms taikomos specialios investavimo ir verslo sąlygos
 
 1. Šiame straipsnyje, išskyrus šio straipsnio 9 dalį, nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šiame straipsnyje nustatytos sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 8 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3, 4 dalyse, 6 dalies 1, 2 punktuose ir 9 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo.
 
@@ -200,7 +200,7 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 9. Stambus projektas Vyriausybės nutarimu gali būti pripažintas užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius. Motyvuotą siūlymą dėl stambaus projekto pripažinimo užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius Vyriausybei teikia Ekonomikos ir inovacijų ministerija, gavusi Krašto apsaugos ministerijos motyvuotą pritarimą. Stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, kitiems stambiems projektams ir laisvosios ekonominės zonos įmonėms taikomos ir kitos, šiame straipsnyje nenumatytos, specialios investavimo ir verslo sąlygos, kai šios specialios sąlygos nustatytos Statybos įstatyme, Žemės įstatyme, Teritorijų planavimo įstatyme.
 
-\#### 158 straipsnis. Stambių projektų koordinavimas
+## 158 straipsnis. Stambių projektų koordinavimas
 
 1. Viešojo administravimo subjektai, pagal kompetenciją priimdami administracinius sprendimus ir teikdami administracines paslaugas, susijusias su stambių projektų įgyvendinimu, bendradarbiauja tarpusavyje ir su investuotojais, keičiasi reikalinga informacija ir užtikrina administracinių sprendimų priėmimą ir administracinių paslaugų teikimą nustatytais terminais.
 
@@ -236,7 +236,7 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 10. Viešojo administravimo subjektai privalo pateikti koordinatoriui informaciją apie koordinatoriaus pateiktų pasiūlymų dėl stambiems projektams įgyvendinti taikomų teisės aktų taikymo įvykdymą.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

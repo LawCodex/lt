@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FBA9263E5AE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FBA9263E5AE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2, 5, 7, 10 straipsnių pakeitimo ir įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [85-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 3. Šis įstatymas skirtas Įstatymo priede nurodytiems Europos Sąjungos teisės aktams įgyvendinti.“
 
-\#### 2 straipsnis. 2 straipsnio 1, 3, 5, 11 ir 12 dalių pakeitimas ir papildymas 19 dalimi
+## 2 straipsnis. 2 straipsnio 1, 3, 5, 11 ir 12 dalių pakeitimas ir papildymas 19 dalimi
 
 1. 2 straipsnio 1 dalyje vietoj žodžių „juridinis ar fizinis asmuo“ įrašyti žodžius „įmonė ar kitas juridinis asmuo“ ir šią dalį išdėstyti taip:
 
@@ -72,13 +72,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „**19****. Prevencija**– pakuotę sudarančių dalių ir medžiagų bei pakuočių atliekose esančių dalių ir medžiagų, taip pat pakuočių ir pakuočių atliekų, susidarančių gamybos proceso, pardavimo, naudojimo ir pašalinimo metu, kiekio ir kenksmingumo aplinkai mažinimas.“
 
-\#### 3 straipsnis. 5 straipsnio papildymas
+## 3 straipsnis. 5 straipsnio papildymas
 
 Papildyti 5 straipsnį 3 dalimi:
 
 „3. Ant gaminio pakuotės turi būti nurodytas gaminio importuotojas ir (ar) gamintojas.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 Gamintojų ir importuotojų organizacijos steigiamos ir veikia bei gamintojai ir importuotojai dalyvauja jų veikloje Atliekų tvarkymo įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo papildymas priedu
+## 6 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

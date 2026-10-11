@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.46FD4D66C9E1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.46FD4D66C9E1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1992 metų Tarptautinės konvencijos dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinės konvencijos dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo ratifikavimo
@@ -26,11 +26,11 @@ DĖL 1992 METŲ TARPTAUTINĖS KONVENCIJOS DĖL CIVILINĖS ATSAKOMYBĖS UŽ TARŠ
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijų ratifikavimas
+## 1 straipsnis. Konvencijų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1992 metų Tarptautinę konvenciją dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinę konvenciją dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo“, ratifikuoja 1992 metų Tarptautinę konvenciją dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinę konvenciją dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo.
 
-\#### 2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 2 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė:
 

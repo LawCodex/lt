@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8C26CA13AC03"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8C26CA13AC03.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Seimo Antikorupcijos komisijos įstatymas
@@ -26,13 +26,13 @@ SEIMO ANTIKORUPCIJOS KOMISIJOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas reglamentuoja nuolatinės Seimo Antikorupcijos komisijos (toliau – Komisijos) uždavinius, įgaliojimus, darbo tvarką ir kitus su Komisijos veikla susijusius klausimus.
 
 2. Šiame Įstatyme nenumatytus Komisijos sudarymo ir darbo tvarkos klausimus reglamentuoja Seimo statutas.
 
-\#### 2 straipsnis. Komisijos uždaviniai
+## 2 straipsnis. Komisijos uždaviniai
 
 Komisijos uždaviniai:
 
@@ -42,7 +42,7 @@ Komisijos uždaviniai:
 
 3) teikti pasiūlymus Seimui, Vyriausybei ir kitoms institucijoms dėl teisės aktų priėmimo ir tobulinimo, korupcijos, ekonominių ir finansinių nusikaltimų bei kitų teisės pažeidimų prevencijos ir užkardymo.
 
-\#### 3 straipsnis. Komisijos teisės
+## 3 straipsnis. Komisijos teisės
 
 1. Komisija turi teisę:
 
@@ -60,7 +60,7 @@ Komisijos uždaviniai:
 
 3. Šio Įstatymo nustatyta tvarka sudaryta laikinoji tyrimo grupė taip pat turi Komisijos teises, numatytas šio straipsnio 1 dalyje.
 
-\#### 4 straipsnis. Komisijos narių pareigos
+## 4 straipsnis. Komisijos narių pareigos
 
 1. Komisijos nariai privalo:
 
@@ -70,13 +70,13 @@ Komisijos uždaviniai:
 
 2. Šio straipsnio nuostatos privalomos ir Komisijos pasitelktiems specialistams bei darbuotojams.
 
-\#### 5 straipsnis. Komisijos darbo organizavimas
+## 5 straipsnis. Komisijos darbo organizavimas
 
 1. Komisijos darbą organizuoja ir jam vadovauja Komisijos pirmininkas ir jo pavaduotojas. Jų rinkimo ir tvirtinimo tvarką bei įgaliojimus nustato Seimo statutas.
 
 2. Klausimas pradedamas nagrinėti Komisijoje Seimo pavedimu ir gali būti pradėtas nagrinėti Seimo nario iniciatyva, remiantis piliečių skundais, pareigūnų pateikta ar kita gauta informacija apie korupcijos prielaidas ar atvejus.
 
-\#### 6 straipsnis. Komisijos darbo tvarka
+## 6 straipsnis. Komisijos darbo tvarka
 
 1. Komisijos posėdis laikomas teisėtu, jeigu jame dalyvauja daugiau kaip pusė jos narių.
 
@@ -84,13 +84,13 @@ Komisijos uždaviniai:
 
 3. Komisijos posėdžiams pirmininkauja Komisijos pirmininkas arba jo pavedimu – pirmininko pavaduotojas.
 
-\#### 7 straipsnis. Laikinųjų tyrimo grupių sudarymas
+## 7 straipsnis. Laikinųjų tyrimo grupių sudarymas
 
 1. Komisija iš savo narių gali sudaryti laikinąsias tyrimo grupes konkretiems klausimams nagrinėti. Laikinosios tyrimo grupės vadovu Komisija skiria vieną iš narių. Laikinoji tyrimo grupė darbui gali pasitelkti valstybės institucijų darbuotojų ir kitų specialistų. Laikinosios tyrimo grupės pasitelktiems specialistams gali būti atlyginama už darbą Seimo statuto nustatyta tvarka.
 
 2. Laikinosios tyrimo grupės parengtos ir Komisijai pateiktos išvados svarstomos Komisijos posėdyje.
 
-\#### 8 straipsnis. Komisijos sprendimai
+## 8 straipsnis. Komisijos sprendimai
 
 1. Komisijos sprendimai priimami Komisijos posėdyje atviru balsavimu paprasta posėdyje dalyvaujančių Komisijos narių balsų dauguma.
 
@@ -114,11 +114,11 @@ Komisijos uždaviniai:
 
 7. Informaciją apie Komisijos sprendimus visuomenės informavimo priemonėms teikia Komisijos pirmininkas arba jo įgaliotas Komisijos narys.
 
-\#### 9 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 9 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Įsigaliojus šiam Įstatymui, netenka galios 1993 m. birželio 10 d. Lietuvos Respublikos įstatymas Nr. I-181 „Dėl Seimo Ekonominių nusikaltimų tyrimų komisijos reglamento“ (Žin., 1993, Nr. [25-579](https://www.e-tar.lt/portal/lt/legalAct/TAR.CE6600FE96DB)).
 
-\#### 10 straipsnis. Įstatymo įgyvendinimas
+## 10 straipsnis. Įstatymo įgyvendinimas
 
 Klausimai, pradėti nagrinėti pagal įstatymą „Dėl Seimo Ekonominių nusikaltimų tyrimo komisijos reglamento“, baigiami nagrinėti pagal Seimo Antikorupcijos komisijos įstatymą.
 

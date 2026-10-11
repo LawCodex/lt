@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/04ff9192d0f811f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.04FF9192D0F8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
@@ -26,13 +26,13 @@ SPORTO ĮSTATYMO NR. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 IR 27 STRAIPSNIŲ PA
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 34 dalį ir ją išdėstyti taip:
 
 „34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Tarptautinėje konvencijoje prieš dopingo vartojimą sporte, Pasauliniame antidopingo kodekse, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos švietimo įstatyme.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Papildyti 6 straipsnio 5 dalį nauju 7 punktu:
 
@@ -40,25 +40,25 @@ Pakeisti 2 straipsnio 34 dalį ir ją išdėstyti taip:
 
 2. Buvusį 6 straipsnio 5 dalies 7 punktą laikyti 8 punktu.
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) švietimo, mokslo ir sporto ministronustatyta tvarka vertina, ar valstybės biudžeto lėšų prašantys juridiniai asmenys įgyvendina šio įstatymo 23 straipsnio 1 dalies 6 punkte nurodytą reikalavimą, ir apie šio reikalavimo įgyvendinimą teikia informaciją švietimo, mokslo ir sporto ministro įgaliotai institucijai;“.
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Sportininkų atstovo veikla grindžiama nešališkumo principu. Sportininkų atstovas, įgyvendindamas šiame įstatyme jam pavestas funkcijas ir priimdamas sprendimus ar siūlymus (rekomendacijas), yra nepriklausomas. Valstybės ir savivaldybių institucijos ir įstaigos, sporto organizacijos ir kiti juridiniai ar fiziniai asmenys neturi teisės sportininkų atstovui daryti jokio politinio, ekonominio, psichologinio, socialinio spaudimo ar kitokio neteisėto poveikio. Švietimo, mokslo ir sporto ministras užtikrina sportininkų atstovo veiklos ir organizacinį nepriklausomumą, veiklai reikalingus išteklius. Sportininkų atstovo darbo užmokesčio dydis nustatomas vadovaujantis Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymu.“
 
-\#### 5 straipsnis. 13 straipsnio pakeitimas
+## 5 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos ir sporto šakų federacijos, įgyvendinančios sporto programas, privalo sudaryti švietimo, mokslo ir sporto ministro nustatytos formos sporto veiklos sutartis su sportininkais, kurie yra suaugusiųjų ar jaunimo amžiaus grupių nacionalinių rinktinių nariai ir (ar) gauna valstybės stipendiją.“
 
-\#### 6 straipsnis. Įstatymo papildymas V1 skyriumi
+## 6 straipsnis. Įstatymo papildymas V1 skyriumi
 
 Papildyti Įstatymą V^1 skyriumi:
 
@@ -66,7 +66,7 @@ Papildyti Įstatymą V^1 skyriumi:
 
 PASAULIO LIETUVIŲ SPORTO ŽAIDYNĖS
 
-\#### 181 straipsnis. Pasaulio lietuvių sporto žaidynių tikslas, periodiškumas ir finansavimas
+## 181 straipsnis. Pasaulio lietuvių sporto žaidynių tikslas, periodiškumas ir finansavimas
 
 1. Pasaulio lietuvių sporto žaidynės yra Lietuvos Respublikos teritorijoje organizuojamas sporto renginys, kurio tikslas – skatinti pasaulio lietuvius įsitraukti į Lietuvos sporto veiklas, tęsti tautinio bendravimo, lietuvybės išsaugojimo tradicijas.
 
@@ -74,7 +74,7 @@ PASAULIO LIETUVIŲ SPORTO ŽAIDYNĖS
 
 3. Pasaulio lietuvių sporto žaidynės finansuojamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų, savivaldybių biudžetų ir kitų teisėtai gautų lėšų.
 
-\#### 182 straipsnis. Pasaulio lietuvių sporto žaidynių organizavimą užtikrinantys subjektai ir jų funkcijos
+## 182 straipsnis. Pasaulio lietuvių sporto žaidynių organizavimą užtikrinantys subjektai ir jų funkcijos
 
 1. Švietimo, mokslo ir sporto ministras:
 
@@ -110,7 +110,7 @@ PASAULIO LIETUVIŲ SPORTO ŽAIDYNĖS
 
 3) pasaulio lietuvių sporto žaidynių organizatoriams ir dalyviams užtikrina neatlygintiną naudojimąsi savivaldybei nuosavybės teise priklausančia infrastruktūra.
 
-\#### 183 straipsnis. Pasaulio lietuvių sporto žaidynių taryba ir jos funkcijos
+## 183 straipsnis. Pasaulio lietuvių sporto žaidynių taryba ir jos funkcijos
 
 1. Pasaulio lietuvių sporto žaidynių taryba yra kolegiali institucija, sudaroma pasaulio lietuvių sporto žaidynių planavimui, įgyvendinimui ir priežiūrai koordinuoti.
 
@@ -134,7 +134,7 @@ PASAULIO LIETUVIŲ SPORTO ŽAIDYNĖS
 
 4. Švietimo, mokslo ir sporto ministras naują Pasaulio lietuvių sporto žaidynių tarybos personalinę sudėtį patvirtina ne vėliau kaip likus 2 metams iki kalendorinių metų, kuriais turi vykti pasaulio lietuvių sporto žaidynės. Pasaulio lietuvių sporto žaidynių tarybos nariai savo pareigas eina tol, kol patvirtinama nauja Pasaulio lietuvių sporto žaidynių tarybos personalinė sudėtis.“
 
-\#### 7 straipsnis. 20 straipsnio pakeitimas
+## 7 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -144,13 +144,13 @@ PASAULIO LIETUVIŲ SPORTO ŽAIDYNĖS
 
 „10. Komisijos personalinę sudėtį ir komisijos nuostatus tvirtina švietimo, mokslo ir sporto ministras. Komisiją sudaro 7 nariai. Į komisiją po vieną skiriami trijų valstybės institucijų atstovai ir vienas Lietuvos savivaldybių asociacijos atstovas. Tris atstovus į komisijos narius, atstovaujančius sporto organizacijoms, įskaitant vieną asmenų su negalia sporto judėjimams Lietuvoje vadovaujančių nevyriausybinių organizacijų atstovą, skiria Nacionalinė sporto taryba.“
 
-\#### 8 straipsnis. 22 straipsnio pakeitimas
+## 8 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Olimpiniam, paralimpiniam, regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančioms nevyriausybinėms organizacijoms, siekiančioms gauti valstybės biudžeto lėšų šio įstatymo 21 straipsnio 3 dalyje nurodytoms sporto programoms įgyvendinti, *mutatis mutandis*taikomi šio straipsnio 1 dalies 1, 6–13 punktuose nustatyti kriterijai, išskyrus intelekto negalią turinčių asmenų sporto judėjimui vadovaujančią organizaciją, kuriai netaikomas šio straipsnio 1 dalies 6 punkte nustatytas reikalavimas savo veiklos dokumentuose įtvirtinti atsakomybę už Pasaulinio antidopingo kodekso ir antidopingo taisyklių pažeidimus, be to, tarptautinės nevyriausybinės sporto organizacijos, kurių narėmis yra olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, turi būti pasirašiusios Pasaulinį antidopingo kodeksą.“
 
-\#### 9 straipsnis. 23 straipsnio pakeitimas
+## 9 straipsnis. 23 straipsnio pakeitimas
 
 1. Pakeisti 23 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -176,19 +176,19 @@ Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „12) juridinis asmuo ilgiau negu 12 mėnesių Juridinių asmenų registro informacinės sistemos tvarkytojui nepateikė metinės finansinės atskaitomybės dokumentų;“.
 
-\#### 10 straipsnis. 26 straipsnio pakeitimas
+## 10 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Sportininkams ir jų aukšto meistriškumo sporto treneriams už šio straipsnio 2 dalyje nurodytus aukšto meistriškumo sporto laimėjimus (toliau – laimėjimai) valstybės premijų dydžius, vadovaudamasi šio įstatymo 25 straipsnyje nustatytais kriterijais, nustato Vyriausybė. Valstybės premija neskiriama tos sporto šakos, kurios tarptautinė sporto šakos federacija nėra pasirašiusi Pasaulinio antidopingo kodekso, sportininkams ir jų aukšto meistriškumo sporto treneriams.“
 
-\#### 11 straipsnis. 27 straipsnio pakeitimas
+## 11 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 7 dalies 11 punktą ir jį išdėstyti taip:
 
 „11) jis nėra sudaręs sporto veiklos sutarties su šio įstatymo 21 straipsnio 3 dalyje nurodytais subjektais, įgyvendinančiais sporto programas, kaip nustatyta šio įstatymo 13 straipsnio 2 dalyje, ir (ar) ilgiau negu 1 metus nesilaiko sportininko rengimo aukšto meistriškumo sporto varžyboms plano, išskyrus pagrįstas priežastis, kurių sąrašą nustato švietimo, mokslo ir sporto ministras. Tuo atveju, kai šio įstatymo 13 straipsnio 2 dalyje nurodyta sporto veiklos sutartis nesudaroma su šio įstatymo 21 straipsnio 3 dalyje nurodytais subjektais dėl aplinkybių, nepriklausančių nuo sportininko, laikoma, kad sportininkas yra sudaręs sporto veiklos sutartį, ir valstybės stipendija sportininkui yra skiriama, o paskirtoji – mokama.“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 9 straipsnio 1 dalį ir šio straipsnio 3 ir 4 dalis, įsigalioja 2026 m. sausio 1 d.
 

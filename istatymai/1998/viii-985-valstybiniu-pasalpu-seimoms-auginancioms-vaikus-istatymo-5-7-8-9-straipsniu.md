@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62F5567CB5FC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62F5567CB5FC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 5, 7, 8, 9 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 1997, Nr. [99-2506](https://www.e-tar.lt/portal/lt/legalAct/TAR.59166173AB26); 1998, Nr. [35-934](https://www.e-tar.lt/portal/lt/legalAct/TAR.B97537087EDC))
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Kai globojamas vaikas įstatymų nustatyta tvarka gauna našlaičių pensiją ar
 
 Už valstybės išlaikomą vaiką globos pašalpa nemokama.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Našlaičiui ar likusiam be tėvų globos vaikui, įstatymų nustatyta tvarka ga
 
 Našlaičiams ir likusiems be tėvų globos vaikams, nesukakusiems 18 metų, kai jie mokosi pirmojoje šio straipsnio dalyje nurodytose mokymo įstaigose, nustatyto dydžio našlaičio stipendija mokama, jeigu jiems nėra įsteigta globa.“
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 Sukakusiems 18 metų našlaičiams ir likusiems be tėvų globos vaikams, kurie iki pilnametystės buvo globojami globos institucijose, šeimynose arba globėjų, skiriama vienkartinė 50 MGL dydžio pašalpa gyvenamajam namui, butui (gyvenamajai patalpai) įsigyti arba įsikurti, jeigu jie nėra toliau valstybės išlaikomi globos institucijose.“
 
-\#### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Pašalpos, nurodytos šio įstatymo 2, 4, 4^1, 6 ir 8 straipsniuose, mokamos iš tikslinių lėšų, numatytų savivaldybių biudžetams skaičiuojant jų finansinius rodiklius.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 1, 2, 4 straipsniai įsigalioja nuo 1999 m. sausio 1 d., o 3 straipsnis – nuo 2000 m. sausio 1 d.
 

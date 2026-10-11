@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.56A223D13637"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.56A223D13637.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 1999, Nr. [50-1597](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC3AA7061D8))
 
-\#### 1 straipsnis. Tabako kontrolės įstatymo 11 straipsnio 7 dalies pakeitimas ir papildymas
+## 1 straipsnis. Tabako kontrolės įstatymo 11 straipsnio 7 dalies pakeitimas ir papildymas
 
 11 straipsnio 7 dalyje išbraukti datą „iki 2000 m. sausio 1 d.“, po žodžio „skelbti“ įrašyti žodžius „savo arba gamintojų lėšomis“ ir šią dalį išdėstyti taip:
 

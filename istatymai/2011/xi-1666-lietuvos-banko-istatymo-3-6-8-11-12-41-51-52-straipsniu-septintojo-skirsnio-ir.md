@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.571BC1525657"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.571BC1525657.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 2001, Nr. [28-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.2560251F7F7F); 2003, Nr. [38-1710](https://www.e-tar.lt/portal/lt/legalAct/TAR.4130AFCF39FD), Nr. [61-2755](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6C56545FEC); 2004, Nr. [28-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD7270B1038C), Nr. [54-1830](https://www.e-tar.lt/portal/lt/legalAct/TAR.62C4AA472431); 2006, Nr. [48-1699](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D36321FB46F); 2009, Nr. [38-1441](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF6FC42DF0B1), Nr. [153-6894](https://www.e-tar.lt/portal/lt/legalAct/TAR.54F653E7DB10), Nr. [153-6895](https://www.e-tar.lt/portal/lt/legalAct/TAR.E1B210518AB0); 2011, Nr. [46-2158](https://www.e-tar.lt/portal/lt/legalAct/TAR.3B4E9C7E805B))
 
-\#### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Lietuvos bankas vadovaujasi Sutartimi dėl Europos Sąjungos veikimo, Sutarties dėl Europos Sąjungos veikimo Protokolu dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto bei kitais Europos Sąjungos teisės aktais. Lietuvos bankas Lietuvos Respublikos įstatymais ir kitais teisės aktais vadovaujasi tiek, kiek jie neprieštarauja Sutarčiai dėl Europos Sąjungos veikimo, Sutarties dėl Europos Sąjungos veikimo Protokolui dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto. Jeigu yra prieštaravimų tarp Lietuvos Respublikos teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių, vadovaujamasi Lietuvos Respublikos tarptautinėmis sutartimis.“
 
-\#### 2 straipsnis. 6 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 6 straipsnio papildymas 3 dalimi
 
 Papildyti 6 straipsnį 3 dalimi:
 
 „3. Lietuvos bankas nustato kredito ir mokėjimo įstaigoms ir kitiems ūkio subjektams, kurie verčiasi banknotų ir monetų gavimu, tvarkymu ir jų pakartotiniu išleidimu į apyvartą, Lietuvos Respublikos pinigų ir Europos Sąjungos bendros valiutos banknotų ir monetų autentiškumo tikrinimo bei jų padirbinių aptikimo užtikrinimo reikalavimus ir prižiūri, kaip šie reikalavimai vykdomi.“
 
-\#### 3 straipsnis. 8 straipsnio 1 dalies 6 ir 7 punktų pakeitimas
+## 3 straipsnis. 8 straipsnio 1 dalies 6 ir 7 punktų pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Papildyti 6 straipsnį 3 dalimi:
 
 „7) ne teismo tvarka nagrinėja vartotojų ir finansų rinkos dalyvių ginčus;“.
 
-\#### 4 straipsnis. 11 straipsnio 1 ir 2 dalių pakeitimas ir straipsnio papildymas 3 dalimi
+## 4 straipsnis. 11 straipsnio 1 ir 2 dalių pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. Pakeisti 11 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -82,13 +82,13 @@ Papildyti 6 straipsnį 3 dalimi:
 
 „3. Lietuvos banko valdyba gali visas ar dalį savo funkcijų, nustatytų šio straipsnio 1 dalies 13, 18 ir 19 punktuose, pavesti vykdyti Lietuvos banko struktūriniams padaliniams, jeigu įstatymai nenustato kitaip.“
 
-\#### 5 straipsnis. 12 straipsnio 4 dalies pakeitimas
+## 5 straipsnis. 12 straipsnio 4 dalies pakeitimas
 
 Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Lietuvos banko valdybos pirmininkas sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius nuo sprendimo paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuvo padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos Sąjungos Teisingumo Teismui, motyvuodamas Sutarties dėl Europos Sąjungos veikimo ar kitos teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“
 
-\#### 6 straipsnis. 41 straipsnio pakeitimas
+## 6 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 Lietuvos bankas gali konsultuoti ir teikti pasiūlymus Vyriausybei finansų rinkos,įskaitant jos reguliavimą,ir Valstybės iždo politikos klausimais.“
 
-\#### 7 straipsnis. Septintojo skirsnio pakeitimas
+## 7 straipsnis. Septintojo skirsnio pakeitimas
 
 Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti septintąjį skirsnį ir jį išdėstyti taip:
 
 FINANSŲ RINKOS PRIEŽIŪRA
 
-\#### 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
+## 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai.
 
@@ -142,11 +142,11 @@ FINANSŲ RINKOS PRIEŽIŪRA
 
 5. Lietuvos bankas, nustatęs faktus, liudijančius galimai nusikalstamą veiklą, apie juos praneša atitinkamoms teisėsaugos institucijoms.
 
-\#### 43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga
+## 43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga
 
 Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais, apsaugai taikomos šio įstatymo 19 straipsnio ir finansų rinką reglamentuojančių įstatymų nuostatos.
 
-\#### 44 straipsnis. Finansų rinkos priežiūros finansavimas
+## 44 straipsnis. Finansų rinkos priežiūros finansavimas
 
 1. Finansų rinkos priežiūra finansuojama iš prižiūrimų finansų rinkos dalyvių įmokų Lietuvos bankui ir kitomis Lietuvos banko lėšomis.
 
@@ -158,7 +158,7 @@ Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais
 
 5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-\#### 45 straipsnis. Lietuvos banko ir Lietuvos banko tarnautojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija Lietuvos banko tarnautojams dėl išlaidų, susijusių su jiems iškeltomis bylomis ar pareikštais ieškiniais
+## 45 straipsnis. Lietuvos banko ir Lietuvos banko tarnautojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija Lietuvos banko tarnautojams dėl išlaidų, susijusių su jiems iškeltomis bylomis ar pareikštais ieškiniais
 
 1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų kaltės.
 
@@ -170,11 +170,11 @@ Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais
 
 2) kai jo turėtas ir teismo iš kito asmens jam priteistas išlaidas sumoka asmuo, iš kurio priteistos išlaidos. Jeigu jam sumokėtų teismo priteistų išlaidų suma mažesnė už kompensaciją, kompensacija grąžinama tokio dydžio, kokią sumą sumoka asmuo, iš kurio priteistos išlaidos.
 
-\#### 46 straipsnis. Bendradarbiavimas su kitų valstybių finansų rinkos priežiūros institucijomis
+## 46 straipsnis. Bendradarbiavimas su kitų valstybių finansų rinkos priežiūros institucijomis
 
 Lietuvos bankas turi teisę sudaryti sutartis su kitų valstybių finansų rinkos priežiūros institucijomis, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, Europos vertybinių popierių ir rinkų institucija ir kitomis Lietuvos Respublikos ir užsienio valstybių institucijomis dėl bendradarbiavimo finansų rinkos priežiūros srityje.“
 
-\#### 8 straipsnis. Įstatymo papildymas septintuoju1 skirsniu
+## 8 straipsnis. Įstatymo papildymas septintuoju1 skirsniu
 
 Papildyti Įstatymą septintuoju^1 skirsniu:
 
@@ -182,7 +182,7 @@ Papildyti Įstatymą septintuoju^1 skirsniu:
 
 **Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka**
 
-\#### 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka
+## 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka
 
 1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su draudimo, finansinių paslaugų ir (arba) papildomų investicinių paslaugų teikėjais, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, taip pat iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“.
 
@@ -244,7 +244,7 @@ Papildyti Įstatymą septintuoju^1 skirsniu:
 
 16. Ginčo šalių teises ir pareigas bei ginčo nagrinėjimo procesą, kiek jų nereglamentuoja šis įstatymas, reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas. Detalią ginčų nagrinėjimo tvarką nustato Lietuvos banko teisės aktai.“
 
-\#### 9 straipsnis. 51 straipsnio pakeitimas
+## 9 straipsnis. 51 straipsnio pakeitimas
 
 51 straipsnyje vietoj žodžių „kredito įstaigų“ įrašyti žodžius „finansų rinkos“ ir šį straipsnį išdėstyti taip:
 
@@ -252,7 +252,7 @@ Papildyti Įstatymą septintuoju^1 skirsniu:
 
 Lietuvos bankas viešai skelbia ir leidžia atskiru leidiniu metinę ataskaitą, kurioje pateikia informaciją apie pagrindinius pinigų politikos uždavinius ir jų vykdymą, pinigų politikos operacijas, veiklą vykdant finansų rinkos priežiūrą ir kitas įstatymų numatytas funkcijas bei apie šalies makroekonominę padėtį – pokyčių šalies ekonomikoje ir finansų rinkose analizę, taip pat apie banko finansinę būklę ir veiklos rezultatus.“
 
-\#### 10 straipsnis. 52 straipsnio pakeitimas
+## 10 straipsnis. 52 straipsnio pakeitimas
 
 52 straipsnyje vietoj žodžių „funkcijų vykdymą ir bankų sistemos būklę“ įrašyti žodžius „ir funkcijų vykdymą“ ir šį straipsnį išdėstyti taip:
 
@@ -260,7 +260,7 @@ Lietuvos bankas viešai skelbia ir leidžia atskiru leidiniu metinę ataskaitą,
 
 Lietuvos banko valdybos pirmininkasdu kartus per metus teikia pranešimusSeimuiapie pagrindinio tikslo įgyvendinimą, finansų rinkos būklę ir funkcijų vykdymą.“
 
-\#### 11 straipsnis. Įstatymo papildymas nauju 1 priedu
+## 11 straipsnis. Įstatymo papildymas nauju 1 priedu
 
 Papildyti Įstatymą nauju 1 priedu:
 
@@ -272,49 +272,30 @@ Lietuvos banko įstatymo
 
 FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
 
-\| Eil. Nr. | Rinkos dalyviai | Įmokų bazė | Maksimalus įmokų dydis |
-
-\| --- | --- | --- | --- |
-
-\| 1. | Kredito įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje | Vidutinis metinis turtas | 0,017 proc. |
-
-\| 2. | Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje | Vidutinis metinis turtas | 0,0057 proc. |
-
-\| 3. | Vartojimo kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje | Vidutinis metinis turtas | 0,0085 proc. |
-
-\| 4. | Elektroninių pinigų įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje | Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta | 0,01 proc. |
-
-\| 5. | Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje | Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta | 0,005 proc. |
-
-\| 6. | Mokėjimo įstaigos | Mokėjimo paslaugų metinė apyvarta | 0,01 proc. |
-
-\| 7. | Europos ekonominės erdvės valstybėse licencijuotų mokėjimo įstaigų filialai, įsteigti Lietuvos Respublikoje | Mokėjimo paslaugų metinė apyvarta | 0,005 proc. |
-
-\| 8. | Draudimo ir perdraudimo įmonės; kitose negu Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje | Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos | 0,26 proc. |
-
-\| 9. | Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje | Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos | 0,13 proc. |
-
-\| 10. | Finansų maklerio įmonės | Metinės pajamos | 0,3 proc. |
-
-\| 11. | Kitose Europos ekonominės erdvės valstybėse licencijuotų finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje | Metinės pajamos | 0,15 proc. |
-
-\| 12. | Valdymo įmonės, investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės ir šių subjektų filialai, įsteigti Lietuvos Respublikoje | Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų turtas | 0,05 proc. |
-
-\| 13. | Reguliuojamos rinkos operatoriai | – | 75 000 Lt |
-
-\| 14. | Centrinis vertybinių popierių depozitoriumas | – | 100 000 Lt |
-
-\| 15. | Emitentai, kurių nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas | – | 3 000 Lt |
-
-\| 16. | Emitentai, kurių ne nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas | – | 1 500 Lt |
-
-\| 17. | Draudimo brokerių įmonės | – | 1 500 Lt |
-
-\| 18. | Finansų patarėjo įmonės | – | 1 500 Lt |
+| Eil. Nr. | Rinkos dalyviai | Įmokų bazė | Maksimalus įmokų dydis |
+| --- | --- | --- | --- |
+| 1. | Kredito įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje | Vidutinis metinis turtas | 0,017 proc. |
+| 2. | Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje | Vidutinis metinis turtas | 0,0057 proc. |
+| 3. | Vartojimo kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje | Vidutinis metinis turtas | 0,0085 proc. |
+| 4. | Elektroninių pinigų įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje | Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta | 0,01 proc. |
+| 5. | Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje | Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta | 0,005 proc. |
+| 6. | Mokėjimo įstaigos | Mokėjimo paslaugų metinė apyvarta | 0,01 proc. |
+| 7. | Europos ekonominės erdvės valstybėse licencijuotų mokėjimo įstaigų filialai, įsteigti Lietuvos Respublikoje | Mokėjimo paslaugų metinė apyvarta | 0,005 proc. |
+| 8. | Draudimo ir perdraudimo įmonės; kitose negu Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje | Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos | 0,26 proc. |
+| 9. | Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje | Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos | 0,13 proc. |
+| 10. | Finansų maklerio įmonės | Metinės pajamos | 0,3 proc. |
+| 11. | Kitose Europos ekonominės erdvės valstybėse licencijuotų finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje | Metinės pajamos | 0,15 proc. |
+| 12. | Valdymo įmonės, investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės ir šių subjektų filialai, įsteigti Lietuvos Respublikoje | Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų turtas | 0,05 proc. |
+| 13. | Reguliuojamos rinkos operatoriai | – | 75 000 Lt |
+| 14. | Centrinis vertybinių popierių depozitoriumas | – | 100 000 Lt |
+| 15. | Emitentai, kurių nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas | – | 3 000 Lt |
+| 16. | Emitentai, kurių ne nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas | – | 1 500 Lt |
+| 17. | Draudimo brokerių įmonės | – | 1 500 Lt |
+| 18. | Finansų patarėjo įmonės | – | 1 500 Lt |
 
 “
 
-\#### 12 straipsnis. Įstatymo 2 priedo pakeitimas
+## 12 straipsnis. Įstatymo 2 priedo pakeitimas
 
 Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
 
@@ -338,7 +319,7 @@ Lietuvos banko įstatymo
 
 6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).“
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas
+## 13 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

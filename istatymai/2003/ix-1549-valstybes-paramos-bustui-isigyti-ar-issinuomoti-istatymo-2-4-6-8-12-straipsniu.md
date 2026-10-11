@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AFDEC8C27807"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AFDEC8C27807.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti įstatymo 2, 4, 6, 8, 12 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 2002, Nr. [116-5188](https://www.e-tar.lt/portal/lt/legalAct/TAR.531C156856EF); 2003, Nr. 3)
 
-\#### 1 straipsnis. 2 straipsnio 5 ir 8 dalių papildymas
+## 1 straipsnis. 2 straipsnio 5 ir 8 dalių papildymas
 
 1. Papildyti 2 straipsnio 5 dalį antru sakiniu ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „8. **Šeima** – sutuoktiniai, jų nepilnamečiai vaikai (įvaikiai) iki 18 metų (toliau – vaikai (įvaikiai), taip pat motina arba tėvas, vieni auginantys vieną ar daugiau vaikų (įvaikių). Šeimos nariais taip pat laikomi asmenys, teismo tvarka pripažinti šeimos nariais, ir gali būti laikomi sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).“
 
-\#### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) turi būstą, nepritaikytą neįgaliųjų, kurių judėjimo funkcija sutrikusi, poreikiams, jei tokiems asmenims yra nustatytas I ar II grupės invalidumas, arba šeimoje yra neįgalus vaikas, kurio judėjimo funkcija sutrikusi, arba tokios pat negalios asmuo, kuriam nustatytas I ar II grupės invalidumas. Parama teikiama turimam būstui rekonstruoti, pritaikant jį neįgaliųjų poreikiams Valstybės remiamų būsto kreditų teikimo tvarka.“
 
-\#### 3 straipsnis. 6 straipsnio 1 dalies 2 punkto papildymas ir 4 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 1 dalies 2 punkto papildymas ir 4 dalies pakeitimas
 
 1. Papildyti 6 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Jeigu būsto kredito gavėjas teisę į šią subsidiją įgijo po kredito gavimo, subsidija apskaičiuojama nuo kredito likučio sumos vadovaujantis šio straipsnio 2 dalyje nurodyta tvarka.“
 
-\#### 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Teisę į savivaldybės socialinį būstą turi šio Įstatymo 1 straipsnyje nurodyti asmenys (šeimos), jeigu jie neturi Lietuvos Respublikos teritorijoje nuosavybės teise priklausančio būsto arba turimo būsto naudingasis plotas, tenkantis vienam šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų ir asmens (jo šeimos) metinėspajamos ir turtasprieš savivaldybės socialinio būsto suteikimo metusyra mažesniuž pajamas ir turtą, kurių didžiausius dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė.“
 
-\#### 5 straipsnis. 12 straipsnio 2 dalies papildymas 4 punktu
+## 5 straipsnis. 12 straipsnio 2 dalies papildymas 4 punktu
 
 Papildyti 12 straipsnio 2 dalį 4 punktu:
 

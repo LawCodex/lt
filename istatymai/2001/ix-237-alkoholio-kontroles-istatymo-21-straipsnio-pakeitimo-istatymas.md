@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1C64185CF2FB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1C64185CF2FB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 21 straipsnio pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1997, Nr. 67-1660; 1998, Nr. 114-3188)
 
-\#### 1 straipsnis. 21 straipsnio pakeitimas
+## 1 straipsnis. 21 straipsnio pakeitimas
 
 21 straipsnio 4, 5 ir 7 dalis pripažinti netekusiomis galios, buvusias 6, 8 dalis laikyti 4 ir 5 dalimis ir šį straipsnį išdėstyti taip:
 

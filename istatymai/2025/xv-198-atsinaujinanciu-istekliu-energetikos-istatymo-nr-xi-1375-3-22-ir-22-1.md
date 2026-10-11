@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/444ee14036eb11f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.444EE14036EB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 3, 22 ir 22-1 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 3, 22 IR 221 STRA
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė asmenims, išskyrus atsinaujinančių išteklių energijos bendrijas, taikoma, kai jie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 punkte nurodytą skatinimo priemonę. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė atsinaujinančių išteklių energijos bendrijoms taikoma Elektros energetikos įstatymo 31 straipsnio 3 dalyje ir 39 straipsnio 3 dalyje nustatyta tvarka.“
 
-\#### 2 straipsnis. 22 straipsnio pakeitimas
+## 2 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -112,13 +112,13 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „39. Pagal šio straipsnio 35–38 dalis gautos lėšos yra kaupiamos atskiroje valstybės iždo sąskaitoje, kuri skelbiama Energetikos ministerijos interneto svetainėje, ir Vyriausybės nustatyta tvarka naudojamos tikslais, susijusiais su atsinaujinančių energijos išteklių plėtra, energijos efektyvumo didinimu, moksliniams tyrimams ir inovacijoms atsinaujinančių išteklių energetikos sektoriuje, taip pat gali būti naudojamos šio straipsnio 17^2 dalyje nustatyta tvarka. Pagal šio straipsnio 36 dalį gautos lėšos Vyriausybės sprendimu taip pat gali būti naudojamos galutiniams elektros energijos vartotojams remti skirtoms priemonėms, kuriomis švelninamas didelių elektros energijos kainų poveikis tiems vartotojams, finansuoti, įskaitant finansuojamas iš biudžeto lėšų, pagal Energetikos įstatymo 19^2 straipsnį vykdomoms priemonėms padengti ar biudžeto skolai, atsiradusiai dėl šių priemonių, sumažinti. Šias lėšas Vyriausybės nustatyta tvarka administruoja Vyriausybės įgaliota institucija.“
 
-\#### 3 straipsnis. 221 straipsnio pakeitimas
+## 3 straipsnis. 221 straipsnio pakeitimas
 
 Papildyti 22^1 straipsnio 9 dalį 1^1 punktu:
 
 „1^1) per 3 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos su perdavimo sistemos operatoriumi pasirašyti atsinaujinančius išteklius naudojančių elektrinių prijungimo prie elektros tinklų paslaugos sutartį, išskyrus atvejus, kai šį terminą įvykdyti vėluojama dėl valstybės, kitų asmenų veiksmų ar neveikimo, nenugalimos jėgos aplinkybių buvimo;“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. birželio 1 d.
 

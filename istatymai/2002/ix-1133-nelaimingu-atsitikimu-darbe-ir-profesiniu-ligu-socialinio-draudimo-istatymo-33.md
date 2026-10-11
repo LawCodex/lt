@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.172514F99B47"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.172514F99B47.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 33 ir 36 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F))
 
-\#### 1 straipsnis. 33 straipsnio pakeitimas
+## 1 straipsnis. 33 straipsnio pakeitimas
 
 33 straipsnyje vietoj skaičiaus „2003“ įrašyti skaičių „2004“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifai priklauso nuo įmonės ekonominės veiklos rizikos laipsnio. Iki 2004 m. sausio 1 d. įmokų tarifai visiems draudėjams (visoms ekonominės veiklos sritims) vienodi, o vėliau diferencijuojami atsižvelgiant į įmonių ekonominės veiklos rizikos laipsnį bei traumatizmo ir profesinio sergamumo lygį.“
 
-\#### 2 straipsnis. 36 straipsnio 6 dalies pakeitimas
+## 2 straipsnis. 36 straipsnio 6 dalies pakeitimas
 
 36 straipsnio 6 dalyje išbraukti žodžius „Po šio įstatymo įsigaliojimo praėjus dvejiems metams“ ir šią dalį išdėstyti taip:
 

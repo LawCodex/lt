@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F9F0561C85A1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F9F0561C85A1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių gynimo įstatymo 5 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [94-1833](https://www.e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE); 2000, Nr. [85-2581](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC65E64745F4))
 
-\#### 1 straipsnis. 5 straipsnio 4 dalies papildymas
+## 1 straipsnis. 5 straipsnio 4 dalies papildymas
 
 Papildyti 5 straipsnio 4 dalį antruoju sakiniu ir ją išdėstyti taip:
 

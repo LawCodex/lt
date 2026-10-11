@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2180d030800311ec993ff5ca6e8ba60c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2180D0308003.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 16-2, 18, 19, 21, 22, 22-1, 24-1, 26, 27, 41 straipsnių, septintojo skirsnio ir priedo pakeitimo, Kodekso papildymo 27-1 straipsniu ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas

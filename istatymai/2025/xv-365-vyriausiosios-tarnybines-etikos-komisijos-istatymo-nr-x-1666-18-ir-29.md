@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/019cf46055cf11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.019CF46055CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 18 ir 29 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 18 straipsnio pakeitimas
+## 1 straipsnis. 18 straipsnio pakeitimas
 
 1. Pakeisti 18 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „3. Šio straipsnio 1 dalies 1 punkte nurodytas prašymas dėl fizinio asmens, institucijos ar įstaigos, kito juridinio asmens įpareigojimo paduodamas pirmosios instancijos administraciniam teismui. Prašyme turi būti nurodytas prašomo įpareigoti fizinio asmens vardas ir pavardė arba institucijos ar įstaigos, kito juridinio asmens pavadinimas, aplinkybės, dėl kurių VTEK kreipiasi į teismą, bei informacija, paaiškinimai ir dokumentai, kuriuos teismo prašoma įpareigoti pateikti. Teismas prašymą išnagrinėja ir motyvuotą nutartį prašymą patenkinti arba atmesti priima ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu VTEK nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą arba patenkinti prašymą iš dalies, ji turi teisę per 7 dienas nuo šios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas Komisijos skundą dėl pirmosios instancijos administracinio teismo nutarties turi išnagrinėti ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos. Teismai, nagrinėdami VTEK prašymus ir skundus dėl įpareigojimo pateikti Komisijai reikiamą informaciją, paaiškinimus ir dokumentus, privalo užtikrinti pateiktos informacijos slaptumą.“
 
-\#### 2 straipsnis. 29 straipsnio pakeitimas
+## 2 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 1 dalį ir ją išdėstyti taip:
 

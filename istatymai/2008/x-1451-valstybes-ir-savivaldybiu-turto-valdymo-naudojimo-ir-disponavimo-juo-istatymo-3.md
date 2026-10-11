@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.248FDAF11DD2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.248FDAF11DD2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 3, 4, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23 straipsnių pakeitimo, 18 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 8(1), 16(1), 19(1) straipsniais įstatymo 23 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2006, Nr. [87-3397](https://www.e-tar.lt/portal/lt/legalAct/TAR.E0DDE9E7A2B7))
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas
+## 1 straipsnis. 23 straipsnio pakeitimas
 
 1. 23 straipsnio 2 dalyje vietoj skaičiaus „4“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:
 

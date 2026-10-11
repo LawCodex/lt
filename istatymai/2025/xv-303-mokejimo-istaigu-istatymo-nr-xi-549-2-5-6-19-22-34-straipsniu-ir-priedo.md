@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a63314e055c111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A63314E055C1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 2, 5, 6, 19, 22, 34 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ MOKĖJIMO ĮSTAIGŲ ĮSTATYMO NR. XI-549 2, 5, 6, 19, 22, 34 STRAIPSNIŲ IR PRIE
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 1. Pakeisti 5 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai, (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme nustatytus reikalavimus, duomenis;“.
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „7) veiklos tęstinumo procesų aprašymą, jame aiškiai nurodydamas ypatingos svarbos operacijas, veiksmingą informacinių ir ryšių technologijų veiklos tęstinumo politiką, planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus ir reguliaraus tokių planų adekvatumo ir efektyvumo testavimo ir peržiūros procedūrą pagal Reglamentą [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt);“.
 
-\#### 4 straipsnis. 19 straipsnio pakeitimas
+## 4 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Svarbios mokėjimo paslaugų veiklos funkcijos, įskaitant funkcijas, susijusias su informacinių ir ryšių technologijų sistemomis, negali būti perduotos kitam asmeniui, jeigu jas perdavus iš esmės pablogėtų mokėjimo įstaigos vidaus kontrolės kokybė ir priežiūros institucijos galimybė stebėti, ar mokėjimo įstaiga laikosi visų šio įstatymo nustatytų ir (ar) kitų jos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų. Šiame įstatyme nurodytos svarbios veiklos funkcijos – tai funkcijos, dėl kurių nevykdymo ar netinkamo vykdymo mokėjimo įstaiga nebeatitiktų nustatytų licencijos išdavimo reikalavimų ar kitų šio įstatymo ir (ar) mokėjimo įstaigos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų arba būtų pakenkta mokėjimo įstaigos veiklos stabilumui ir patikimumui, jos teikiamų mokėjimo paslaugų tęstinumui.“
 
-\#### 5 straipsnis. 22 straipsnio pakeitimas
+## 5 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -80,13 +80,13 @@ Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Reikalavimai, taikomi mokėjimo įstaigos finansinių ataskaitų rinkinio audito atlikimui, auditoriui ir audito įmonei, jų pareigos ir atsakomybė nustatyti Finansų įstaigų įstatyme, Akcinių bendrovių įstatyme ir Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme.“
 
-\#### 6 straipsnis. 34 straipsnio pakeitimas
+## 6 straipsnis. 34 straipsnio pakeitimas
 
 Papildyti 34 straipsnio 1 dalį 7^1 punktu:
 
 „7^1) pažeidžiami Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 7 straipsnis. Įstatymo priedo pakeitimas
+## 7 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 2 punktu:
 

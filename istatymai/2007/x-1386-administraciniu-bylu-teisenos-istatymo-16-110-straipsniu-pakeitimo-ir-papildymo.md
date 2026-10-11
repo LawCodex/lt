@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3A378859D262"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3A378859D262.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 16, 110 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8); 2003, Nr. [38-1675](https://www.e-tar.lt/portal/lt/legalAct/TAR.322A6CD11CBB))
 
-\#### 1 straipsnis. 16 straipsnio 2 dalies papildymas
+## 1 straipsnis. 16 straipsnio 2 dalies papildymas
 
 16 straipsnio 2 dalyje po žodžių „taip pat su sprendimų vykdymu“ įrašyti žodžius „ir Seimo kontrolieriaus sprendimų (rekomendacijų)“ ir šią dalį išdėstyti taip:
 
 „2. Administracinių teismų kompetencijai nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos apeliacinio teismo teisėjų veiklos, kitų teismų teisėjų, taip pat prokurorų, ikiteisminio tyrimo pareigūnų ir antstolių procesinių veiksmų, susijusių su teisingumo vykdymu ar bylos tyrimu, taip pat su sprendimų vykdymu, ir Seimo kontrolieriaus sprendimų (rekomendacijų).“
 
-\#### 2 straipsnis. 110 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 110 straipsnio 1 dalies pakeitimas
 
 110 straipsnio 1 dalyje po žodžių „Seimo kontrolieriai“ įrašyti žodžius „vaiko teisių apsaugos kontrolierius“ ir šią dalį išdėstyti taip:
 

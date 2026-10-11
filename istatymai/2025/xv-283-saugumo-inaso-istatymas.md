@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f012cc024dd211f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F012CC024DD2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugumo įnašo įstatymas
@@ -26,19 +26,19 @@ SAUGUMO ĮNAŠO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato draudimo įmokų apmokestinimo saugumo įnašu tvarką.
 
 2. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Saugumo įnašas – Lietuvos Respublikos draudimo įstatymo 3 straipsnio 1 dalyje nurodytiems draudikams nustatyta piniginė prievolė valstybei Valstybės gynybos fondo finansavimo tikslais.
 
 2. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Draudimo įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokesčių administravimo įstatyme ir Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatyme.
 
-\#### 3 straipsnis. Saugumo įnašo objektas
+## 3 straipsnis. Saugumo įnašo objektas
 
 1. Saugumo įnašo objektas yra draudimo įmokos pagal ne gyvybės draudimo sutartis, jeigu Lietuvos Respublika yra valstybė, kurioje yra draudimo rizika, (toliau – ne gyvybės draudimo sutartis), išskyrus šio įstatymo 8 straipsnyje nurodytas ne gyvybės draudimo sutartis.
 
@@ -56,25 +56,25 @@ a) draudėjo nuolatinė gyvenamoji vieta arba
 
 b) draudėjo – juridinio asmens, juridinio asmens filialo ar atstovybės – buveinė.
 
-\#### 4 straipsnis. Saugumo įnašo mokėtojai
+## 4 straipsnis. Saugumo įnašo mokėtojai
 
 Saugumo įnašą moka Draudimo įstatymo 3 straipsnio 1 dalyje nustatyti draudikai.
 
-\#### 5 straipsnis. Saugumo įnašo mokėjimo laikotarpis
+## 5 straipsnis. Saugumo įnašo mokėjimo laikotarpis
 
 Saugumo įnašo mokėjimo laikotarpis (toliau – mokėjimo laikotarpis) yra kalendorinis ketvirtis.
 
-\#### 6 straipsnis. Saugumo įnašo bazė
+## 6 straipsnis. Saugumo įnašo bazė
 
 1. Saugumo įnašo bazė yra per mokėjimo laikotarpį sudarytose ir (ar) pratęstose, ir (ar) pakeistose ne gyvybės draudimo sutartyse nurodytų draudimo įmokų, apskaičiuotų visam ne gyvybės draudimo sutarties galiojimo laikotarpiui, suma, išskyrus iki 2025 m. gruodžio 31 d. sudarytose ne gyvybės draudimo sutartyse nurodytas draudimo įmokas, grąžinamas nutraukus tokią sutartį, apskaičiuota mutatis mutandis taikant 2023 m. balandžio 4 d. Komisijos įgyvendinimo reglamento (ES) 2023/894, kuriuo nustatomi Europos Parlamento ir Tarybos direktyvos 2009/138/EB taikymo techniniai įgyvendinimo standartai, susiję su draudimo ir perdraudimo įmonių jų priežiūrai būtinos informacijos teikimo priežiūros institucijoms formomis, ir panaikinamas Įgyvendinimo reglamentas (ES) 2015/2450, II priedo S.05.01 skirsnyje „Įmokos, išmokos ir sąnaudos pagal draudimo rūšis“ pateiktus nurodymus, taikomus apskaičiuojant pasirašytas įmokas. Šiame įstatyme pakeista ne gyvybės draudimo sutartimi laikoma tokia sutartis, kurioje pasikeitė sąlygos, dėl kurių sumažėjo ar padidėjo ne gyvybės draudimo sutartyse nurodyta ne gyvybės draudimo įmoka.
 
 2. Jeigu pagal sudarytą ir (ar) pratęstą, ir (ar) pakeistą ne gyvybės draudimo sutartį valstybė, kurioje yra draudimo rizika, yra ne tik Lietuvos Respublika, saugumo įnašo bazė yra ne gyvybės draudimo sutartyje nurodytos draudimo įmokos dalis, proporcingai tenkanti draudimo rizikai, kuri yra Lietuvos Respublikoje, palyginti su šia draudimo sutartimi apdraudžiama visa draudimo rizika.
 
-\#### 7 straipsnis. Saugumo įnašo tarifas
+## 7 straipsnis. Saugumo įnašo tarifas
 
 Saugumo įnašo bazei taikomas 10 procentų saugumo įnašo tarifas.
 
-\#### 8 straipsnis. Atleidimas nuo saugumo įnašo mokėjimo
+## 8 straipsnis. Atleidimas nuo saugumo įnašo mokėjimo
 
 1. Draudimo įstatymo 3 straipsnio 1 dalyje nustatyti draudikai atleidžiami nuo saugumo įnašo mokėjimo už tas draudimo įmokas, kurios gaunamos pagal su fiziniais asmenimis (draudėjais) sudarytas transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo sutartis, kai tokios sutartys sudaromos dėl transporto priemonių, kurios nebus naudojamos nei ūkinei veiklai vykdyti, nei bus perduotos juridiniams asmenims naudotis panaudos ar kitais teisėtais pagrindais.
 
@@ -84,7 +84,7 @@ Saugumo įnašo bazei taikomas 10 procentų saugumo įnašo tarifas.
 
 4. Draudimo įstatymo 3 straipsnio 1 dalyje nustatyti draudikai atleidžiami nuo saugumo įnašo mokėjimo už tas draudimo įmokas, kurios gaunamos pagal ne gyvybės draudimo sutartis, kai draudimo objektas yra turtiniai interesai, susiję su pasėliais ir (ar) augalais, ūkinių gyvūnų sveikata.
 
-\#### 9 straipsnis. Saugumo įnašo apskaičiavimas, deklaravimas ir mokėjimas
+## 9 straipsnis. Saugumo įnašo apskaičiavimas, deklaravimas ir mokėjimas
 
 1. Draudimo įstatymo 3 straipsnio 1 dalyje nurodyti draudikai saugumo įnašą apskaičiuoja, sumoka ir saugumo įnašo deklaraciją teikia Valstybinei mokesčių inspekcijai pasibaigus mokėjimo laikotarpiui, ne vėliau kaip iki kito mėnesio 15 dienos.
 
@@ -94,13 +94,13 @@ Saugumo įnašo bazei taikomas 10 procentų saugumo įnašo tarifas.
 
 4. Saugumo įnašas sumokamas į valstybės biudžetą.
 
-\#### 10 straipsnis. Saugumo įnašo administravimas
+## 10 straipsnis. Saugumo įnašo administravimas
 
 1. Saugumo įnašas administruojamas Mokesčių administravimo įstatymo nustatyta tvarka.
 
 2. Lietuvos bankas teikia Valstybinei mokesčių inspekcijai turimą informaciją, reikalingą saugumo įnašui administruoti, Valstybinės mokesčių inspekcijos prašymu arba pagal Lietuvos banko su Valstybine mokesčių inspekcija sudarytą duomenų teikimo sutartį.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 4 dalis, įsigalioja 2026 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.88CD2C0C40BF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88CD2C0C40BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos Raudonojo Kryžiaus draugijos, Raudonojo Kryžiaus ir Raudonojo Pusmėnulio emblemos ir pavadinimo įstatymo pavadinimo, III skyriaus pavadinimo ir 1, 2, 3, 4, 5, 8, 10, 13, 14, 15, 16, 17, 18, 19, 20, 25, 27 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2744](https://www.e-tar.lt/portal/lt/legalAct/TAR.272A69E6B69F))
 
-\#### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo pavadinimo pakeitimas
 
 Pakeisti Įstatymo pavadinimą ir jį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti Įstatymo pavadinimą ir jį išdėstyti taip:
 
 LIETUVOS RAUDONOJO KRYŽIAUS DRAUGIJOS, RAUDONOJO KRYŽIAUS, RAUDONOJO PUSMĖNULIO IR RAUDONOJO KRISTALO EMBLEMOS IR PAVADINIMO ĮSTATYMAS“.
 
-\#### 2 straipsnis. 1 straipsnio pakeitimas
+## 2 straipsnis. 1 straipsnio pakeitimas
 
 1 straipsnyje po žodžio „Kryžiaus“ išbraukti žodį „ir“, po žodžio „Pusmėnulio“ įrašyti žodžius „ir Raudonojo Kristalo“ ir šį straipsnį išdėstyti taip:
 
@@ -40,13 +40,13 @@ LIETUVOS RAUDONOJO KRYŽIAUS DRAUGIJOS, RAUDONOJO KRYŽIAUS, RAUDONOJO PUSMĖNUL
 
 Šis įstatymas nustato Lietuvos Raudonojo Kryžiaus draugijos statusą, funkcijas ir finansavimą, taip pat Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Raudonojo Kristalo emblemos ir pavadinimo naudojimą ir teisinę apsaugą.“
 
-\#### 3 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 2 straipsnio 1 dalyje vietoj žodžio „karinių“ įrašyti žodį „ginkluotų“, išbraukti skaičių ir žodį „1977 metų“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos Raudonojo Kryžiaus draugija yra valstybės pagalbininkė humanitarinės veiklos srityje, taikos ir ginkluotų konfliktų metu vykdanti 1949 metų Ženevos konvencijų dėl karo aukų apsaugos ir jų papildomų protokolų, taip pat Tarptautinio Raudonojo Kryžiaus ir Raudonojo Pusmėnulio judėjimo įstatų numatytus uždavinius.“
 
-\#### 4 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -66,19 +66,19 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 6) pavadinimui „Raudonasis Kristalas“, kuris pagal 29-osios Tarptautinės Raudonojo Kryžiaus ir Raudonojo Pusmėnulio konferencijos 1 rezoliuciją naudojamas Trečiojo protokolo emblemai nurodyti.“
 
-\#### 5 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 4 straipsnio 1 dalyje vietoj žodžių „visuomeninė organizacija“ įrašyti žodžius „asociacija, nacionalinės draugijos teisėmis“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos Raudonojo Kryžiaus draugija yra humanitarinė asociacija, nacionalinės draugijos teisėmis priklausanti Tarptautiniam Raudonojo Kryžiaus ir Raudonojo Pusmėnulio judėjimui, kurį sudaro Tarptautinis Raudonojo Kryžiaus komitetas, Tarptautinė Raudonojo Kryžiaus ir Raudonojo Pusmėnulio draugijų federacija, Raudonojo Kryžiaus bei Raudonojo Pusmėnulio nacionalinės draugijos.“
 
-\#### 6 straipsnis. 5 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 5 straipsnio 3 dalies pakeitimas
 
 5 straipsnio 3 dalyje vietoj žodžių „Visuomeninių organizacijų“ įrašyti žodį „Asociacijų“ ir šią dalį išdėstyti taip:
 
 „3. Lietuvos Raudonojo Kryžiaus draugijai taikomas Asociacijų įstatymas, jeigu šis įstatymas nenustato ko kita.“
 
-\#### 7 straipsnis. 8 straipsnio 1 dalies 1, 5, 8 punktų pakeitimas ir 1 dalies papildymas 12 punktu
+## 7 straipsnis. 8 straipsnio 1 dalies 1, 5, 8 punktų pakeitimas ir 1 dalies papildymas 12 punktu
 
 1. 8 straipsnio 1 dalies 1 punkte vietoj žodžio „karinių“ įrašyti žodį „ginkluotų“, išbraukti skaičių ir žodį „1977 metų“ ir šį punktą išdėstyti taip:
 
@@ -96,13 +96,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 „12) ekstremalios situacijos ir (ar) ekstremalaus įvykio metu telkti savanorius, gyventojus ir kitas organizacijas, kurioje galėtų teikti pirmąją medicinos, psichologinę, socialinę ar kitokią pagalbą.“
 
-\#### 8 straipsnis. 10 straipsnio 1 dalies 2 punkto pakeitimas
+## 8 straipsnis. 10 straipsnio 1 dalies 2 punkto pakeitimas
 
 10 straipsnio 1 dalies 2 punkte išbraukti žodžius „bei įmonių, neturinčių juridinio asmens teisių“ ir šį punktą išdėstyti taip:
 
 „2) Lietuvos Respublikos fizinių ir juridinių asmenų dovanotos (paaukotos) lėšos bei turtas;“.
 
-\#### 9 straipsnis. , III skyriaus pavadinimo pakeitimas
+## 9 straipsnis. , III skyriaus pavadinimo pakeitimas
 
 Pakeisti III skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti III skyriaus pavadinimą ir jį išdėstyti taip:
 
 RAUDONOJO KRYŽIAUS, RAUDONOJO PUSMĖNULIO IR RAUDONOJO KRISTALO EMBLEMA IR PAVADINIMAS“.
 
-\#### 10 straipsnis. 13 straipsnio pakeitimas
+## 10 straipsnis. 13 straipsnio pakeitimas
 
 13 straipsnyje po žodžio „Kryžiaus“ išbraukti žodį „ir“, po žodžio „Pusmėnulio“ įrašyti žodžius „ir Raudonojo Kristalo“, išbraukti skaičių ir žodį „1977 metų“ ir šį straipsnį išdėstyti taip:
 
@@ -118,7 +118,7 @@ RAUDONOJO KRYŽIAUS, RAUDONOJO PUSMĖNULIO IR RAUDONOJO KRISTALO EMBLEMA IR PAVA
 
 Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Raudonojo Kristalo emblema ir pavadinimas Lietuvos Respublikoje naudojami 1949 metų Ženevos konvencijų dėl karo aukų apsaugos ir jų papildomų protokolų, šio ir kitų įstatymų numatytomis sąlygomis ir tvarka.“
 
-\#### 11 straipsnis. 14 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 14 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 14 straipsnio 1 dalyje išbraukti skaičių ir žodį „1977 metų“, po žodžio „Kryžiaus“ išbraukti žodį „ar“, po žodžio „Pusmėnulio“ įrašyti žodžius „ar Raudonojo Kristalo“ ir šią dalį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Raudonojo Kristalo emblema ir pava
 
 „2. Ginkluoto konflikto metu emblema naudojama kaip apsaugos ženklas medicinos personalui, medicinos daliniams (vienetams) ir medicinos transporto priemonėms žymėti.“
 
-\#### 12 straipsnis. 15 straipsnio pakeitimas
+## 12 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 5. Lietuvos kariuomenės (ginkluotųjų pajėgų) Karo medicinos tarnyba ir karo kapelionai gali, neatmesdami naudojamos Raudonojo Kryžiaus emblemos, laikinai naudoti bet kurią kitą šio įstatymo 3 straipsnyje nurodytą skiriamąją emblemą, kai ji gali sustiprinti apsaugą.“
 
-\#### 13 straipsnis. 16 straipsnio pakeitimas
+## 13 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -162,13 +162,13 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 4. Lietuvos Raudonojo Kryžiaus draugijai suteikiama teisė perduoti savo medicinos personalą Lietuvos kariuomenės (ginkluotųjų pajėgų) Karo medicinos tarnybos žinion. Tokiam personalui taikomi Lietuvos kariuomenės (ginkluotųjų pajėgų) Karo medicinos tarnybos personalo statusą ir veiklą reglamentuojantys teisės aktai. Krašto apsaugos ministrui ar jo įgaliotam asmeniui leidus, Lietuvos Raudonojo Kryžiaus draugijos personalas, priskirtas Lietuvos kariuomenės (ginkluotųjų pajėgų) Karo medicinos tarnybos žinion, naudojasi emblema kaip apsaugos ženklu. Toks personalas turi ryšėti ant rankovės vandeniui atsparų raištį su emblema ir turėti asmens pažymėjimą, išduotus šio straipsnio 2 dalyje numatyta tvarka.“
 
-\#### 14 straipsnis. 17 straipsnio papildymas 5 dalimi
+## 14 straipsnis. 17 straipsnio papildymas 5 dalimi
 
 17 straipsnį papildyti 5 dalimi:
 
 „5. Lietuvos Raudonojo Kryžiaus draugija gali laikinai naudoti Raudonojo Kristalo emblemą išskirtinėmis aplinkybėmis, kai to reikia darbui palengvinti ir (ar) apsaugai sustiprinti siekiant jos tikslų, atliekant jos uždavinius ir funkcijas.“
 
-\#### 15 straipsnis. 18 straipsnio pakeitimas
+## 15 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 Jeigu Lietuvos Raudonojo Kryžiaus draugija leidžia, užsienio valstybių Raudonojo Kryžiaus ar Raudonojo Pusmėnulio draugijos, laikinai esančios Lietuvos Respublikos teritorijoje, turi teisę naudoti Raudonojo Kryžiaus, Raudonojo Pusmėnulio ar Raudonojo Kristalo emblemą šio įstatymo 17 straipsnyje numatyta tvarka.“
 
-\#### 16 straipsnis. 19 straipsnio pakeitimas
+## 16 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -184,13 +184,13 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 Tarptautinis Raudonojo Kryžiaus komitetas bei Tarptautinė Raudonojo Kryžiaus ir Raudonojo Pusmėnulio draugijų federacija, vykdydami savo veiklą, turi teisę naudoti Raudonojo Kryžiaus ir Raudonojo Pusmėnulio emblemą bet kuriuo metu, o Raudonojo Kristalo emblemą – išskirtinėmis aplinkybėmis darbui palengvinti.“
 
-\#### 17 straipsnis. 20 straipsnio 3 dalies pakeitimas
+## 17 straipsnis. 20 straipsnio 3 dalies pakeitimas
 
 20 straipsnio 3 dalyje išbraukti žodžius „bei įmones, neturinčias juridinio asmens teisių“ ir šią dalį išdėstyti taip:
 
 „3. Raudonojo Kryžiaus emblema ir pavadinimas „Raudonasis Kryžius“ naudojami lėšų kaupimo tikslais prašant fizinius ir juridinius asmenis suteikti paramą Lietuvos Raudonojo Kryžiaus draugijai.“
 
-\#### 18 straipsnis. 25 straipsnio papildymas ir pakeitimas
+## 18 straipsnis. 25 straipsnio papildymas ir pakeitimas
 
 Papildyti 25 straipsnį 3 ir 6 punktais, buvusius 3 ir 4 punktus laikyti atitinkamai 4 ir 5 punktais ir šį straipsnį išdėstyti taip:
 
@@ -210,7 +210,7 @@ Išskyrus šiame įstatyme nustatytus atvejus, visoms Lietuvos valstybės instit
 
 6) emblemomis ir pavadinimais, kurie imituoja baltame fone kampu stovintį kvadrato formos raudoną rėmą ar žodžius „Raudonasis Kristalas“.“
 
-\#### 19 straipsnis. 27 straipsnio papildymas
+## 19 straipsnis. 27 straipsnio papildymas
 
 Papildyti 27 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 

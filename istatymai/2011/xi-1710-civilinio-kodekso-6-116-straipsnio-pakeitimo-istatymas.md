@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.43E303BF04A7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43E303BF04A7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB))
 
-\#### 1 straipsnis. 6.116 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 6.116 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6.116 straipsnio 1 dalį ir ją išdėstyti taip:
 

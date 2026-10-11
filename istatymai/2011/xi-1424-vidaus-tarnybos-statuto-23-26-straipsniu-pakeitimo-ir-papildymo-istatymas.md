@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C616123D169A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C616123D169A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 23, 26 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2006, Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340); 2008, Nr. [63-2385](https://www.e-tar.lt/portal/lt/legalAct/TAR.46423E30748B))
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 23 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 23 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „4. Vidaus reikalų ministras turi teisę skatinti ir apdovanoti visais šio straipsnio 1 ir 2 dalyse išvardytais paskatinimais ir apdovanojimais, vidaus reikalų įstaigos vadovas – šio straipsnio 1 dalies 1–4, 6 punktuose ir 2 dalyje išvardytais paskatinimais ir apdovanojimais.“
 
-\#### 2 straipsnis. 26 straipsnio 3, 6 ir 7 dalių pakeitimas
+## 2 straipsnis. 26 straipsnio 3, 6 ir 7 dalių pakeitimas
 
 1. Pakeisti 26 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „7. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl šios pareigūno veikos yra pradėtas baudžiamasis procesas arba bylos dėl administracinio teisės pažeidimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl administracinio teisės pažeidimo teiseną arba pasibaigia baudžiamasis procesas ar bylos dėl administracinio teisės pažeidimo teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio teisės pažeidimo, tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio teisės pažeidimo teisenos eigą.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. rugsėjo 1 d.
 

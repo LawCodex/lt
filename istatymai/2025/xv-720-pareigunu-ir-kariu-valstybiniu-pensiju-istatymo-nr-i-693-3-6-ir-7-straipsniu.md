@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/554e98f2e56411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.554E98F2E564.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 3, 6 ir 7 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO NR. I-693 3, 6 IR 7 STRAIP
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 3 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „5. Pareigūnams ir kariams, kurie dėl pačių kaltės buvo pašalinti iš vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos, Vadovybės apsaugos tarnybos po 2016 m. sausio 1 d. ir kurie 2016 m. sausio 1 d. buvo ištarnavę vidaus reikalų, valstybės saugumo, krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje 11 ar daugiau metų, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę šio straipsnio 3 dalyje nustatytą tarnybos metų skaičių, reikalingą pareigūnų ir karių valstybinei pensijai skirti, ir po atleidimo iš tarnybos dienos yra praėję 3 metai arba kai jie yra ištarnavę šio straipsnio 3 dalyje nustatytą tarnybos metų skaičių, reikalingą pareigūnų ir karių valstybinei pensijai skirti, ir yra sukakę įstatymų nustatytą išleidimo į atsargą amžių (jeigu toks amžius nenustatytas, – senatvės pensijos amžių).“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -48,13 +48,13 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) Vadovybės apsaugos tarnyboje laikas nuo 2020 m. liepos 1 d.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių, į šį laikotarpį neįskaitant pareigūno tarnybos laiko, kai Reglamento [(ES) 2017/1939](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R1939&locale=lt) nustatyta tvarka jis buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje, jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Kai į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti (jeigu ištarnauta mažiau negu 12 mėnesių, į šį laikotarpį) patenka ir laikotarpis, kuriuo jis institucijos, kurioje tarnavo, sprendimu dalyvavo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose buvo vykdoma su atitinkamos institucijos tikslu ir uždaviniais susijusi veikla, darbo užmokesčio vidurkis skaičiuojamas pagal šiuo laikotarpiu jam, kaip pareigūnui ar kariui, nustatytą darbo užmokestį. Kai į vidaus tarnybos sistemos pareigūno nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti (jeigu ištarnauta mažiau negu 12 mėnesių, į šį laikotarpį) patenka ir laikotarpis, kuriuo jis tarnybinio būtinumo atveju buvo perkeltas į karjeros valstybės tarnautojo pareigas karo padėties, nepaprastosios padėties, ekstremaliųjų įvykių ar ekstremaliųjų situacijų atveju, darbo užmokesčio vidurkis skaičiuojamas pagal šiuo laikotarpiu jam, kaip karjeros valstybės tarnautojui, nustatytą darbo užmokestį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į nustatytą darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

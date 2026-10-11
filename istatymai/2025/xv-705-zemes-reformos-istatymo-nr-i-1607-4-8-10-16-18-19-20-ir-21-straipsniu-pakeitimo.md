@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/35cb5882e56211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.35CB5882E562.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 4, 8, 10, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Žemės reformos procesas apima žemės naudojimo esamos situacijos analizę, parengiamuosius žemėtvarkos darbus, žemės reformos žemėtvarkos projektų parengimą, jų derinimą, teisinį, ekonominį ir ekologinį pagrindimą, tvirtinimą.“
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos teritorijose esančių draustinių, rekreacinių zonų teritorijose esanti valstybinė žemė neparduodama, išskyrus atvejus, kai parduodami namų valdų, daugiabučiams gyvenamiesiems namams eksploatuoti skirti, asmeninio ūkio, taip pat mėgėjų sodo ir sodininkų bendrijų bendrojo naudojimo žemės sklypai bei tarp privačios žemės sklypų įsiterpę žemės ūkio veiklai tinkami naudoti ne didesni kaip 1 ha žemės plotai. Šie įsiterpę žemės plotai privačion nuosavybėn be aukciono gali būti parduodami tik gretimų žemės sklypų savininkams, nesilaikant šio įstatymo 10 straipsnyje nustatytos eilės.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 1. Papildyti 10 straipsnio 1 dalį nauju 12 punktu:
 
@@ -50,19 +50,19 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Buvusį 10 straipsnio 1 dalies 12 punktą laikyti 13 punktu.
 
-\#### 4 straipsnis. 16 straipsnio pakeitimas
+## 4 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo savivaldybės administracijos direktorius Lietuvos Respublikos viešųjų pirkimų įstatyme nustatyta tvarka.“
 
-\#### 5 straipsnis. 18 straipsnio pakeitimas
+## 5 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Skundus dėl žemės reformos metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų neatitikties įstatymų ir kitų teisės aktų reikalavimams iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėjaNacionalinė žemės tarnyba dėl savo patikėjimo teise valdomų valstybinės žemės sklypų – šiame straipsnyje nustatyta tvarka, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius dėl savivaldybės patikėjimo teise valdomų valstybinių žemės sklypų – Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka.“
 
-\#### 6 straipsnis. 19 straipsnio pakeitimas
+## 6 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Žemės reformos žemėtvarkos projektams rengti parinktų teritorijų ribas ir šių projektų parengimo terminus tvirtina savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius.“
 
-\#### 7 straipsnis. 20 straipsnio pakeitimas
+## 7 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -86,13 +86,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 2) kai formuojant žemės sklypą Žemės įstatymo 22 straipsnio 2 dalies 8 punkte nurodytais atvejais žemės reformos žemėtvarkos projekte nebuvo nustatyti servitutai. Nustatant servitutus šiame punkte nurodytais atvejais, žemės sklypo, kuriame nustatomas servitutas, savininko arba valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl žemės reformos žemėtvarkos projekto sprendinių ir jų įgyvendinimo neprivalomas.“
 
-\#### 8 straipsnis. 21 straipsnio pakeitimas
+## 8 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Žemės reformos žemėtvarkos projektuose, kituose žemės valdos projektuose ar teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numatomi įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos tvirtinamą metodiką aplinkos ministro nustatyta tvarka.“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 9 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 2 straipsnio 1 dalį ir šio straipsnio 3 ir 6 dalis, įsigalioja 2027 m. sausio 1 d.
 

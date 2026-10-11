@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AA04F82F301D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA04F82F301D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo 20 straipsnio ir Naftos produktų ir naftos valstybės atsargų įstatymo 13 straipsnio pakeitimo įstatymas
@@ -26,13 +26,11 @@ GAMTINIŲ DUJŲ ĮSTATYMO 20 STRAIPSNIO IR NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-GAMTINIŲ DUJŲ ĮSTATYMO 20 STRAIPSNIO PAKEITIMAS
+## PIRMASIS SKIRSNIS. GAMTINIŲ DUJŲ ĮSTATYMO 20 STRAIPSNIO PAKEITIMAS
 
 (Žin., 2000, Nr. [89-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C); 2001, Nr. [56-1980](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8D9DF786382))
 
-\#### 1 straipsnis. 20 straipsnio pakeitimas
+### 1 straipsnis. 20 straipsnio pakeitimas
 
 20 straipsnyje vietoj žodžių „Energetikos valstybinė“ įrašyti žodžius „Valstybinė energetikos“ ir šį straipsnį išdėstyti taip:
 
@@ -40,13 +38,13 @@ GAMTINIŲ DUJŲ ĮSTATYMO 20 STRAIPSNIO PAKEITIMAS
 
 Skundus dėl gamtinių dujų įmonių veiklos ar neveikimo perduodant, paskirstant, tiekiant, perkant ir laikant gamtines dujas, nesuteikimo teisės pasinaudoti sistema, prisijungimo, sistemos balansavimo, kainų nustatymo nagrinėja Komisija ginčų sprendimo iki teismo tvarka. Skundus dėl įrenginių bei apskaitos prietaisų gedimų, sistemų eksploatavimo pažeidimų, avarijų, dujų tiekimo nutraukimo nagrinėja Valstybinė energetikos inspekcija ginčų sprendimo iki teismo tvarka.“
 
-\### ANTRASIS SKIRSNIS. NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
+ANTRASIS SKIRSNIS. NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
 
 **ĮSTATYMO 13 straipsnio PAKEITIMAS**
 
 (Žin., 2002, Nr. [72-3008](https://www.e-tar.lt/portal/lt/legalAct/TAR.74602705CADB))
 
-\#### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
+### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
 
 13 straipsnio 4 dalyje vietoj žodžių „Energetikos valstybinė“, “Energetikos valstybinės” įrašyti žodžius „Valstybinė energetikos“, “Valstybinės energetikos” ir šią dalį išdėstyti taip:
 

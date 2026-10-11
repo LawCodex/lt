@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C6CA18E4EC56"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C6CA18E4EC56.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3, 7, 10, 14, 20, 41, 42, 43, 47, 51, 62, 64, 80, 82, 83, 85, 86, 95, 97 straipsnių bei priedo pakeitimo ir papildymo ir įstatymo papildymo 85-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [17-627](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „39. **Trečiosios šalies priežiūros institucija –**priežiūros institucija, vykdanti finansinių priemonių rinkų priežiūros funkcijas ne valstybėje narėje.“
 
-\#### 2 straipsnis. 7 straipsnio 1 dalies papildymas 14 punktu ir 2 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 1 dalies papildymas 14 punktu ir 2 dalies pakeitimas
 
 1. Papildyti 7 straipsnio 1 dalį 14 punktu:
 
@@ -74,7 +74,7 @@ Vilnius
 
 „2. Vertybinių popierių komisija gali atsisakyti išduoti licenciją ne valstybėje narėje licencijuotai finansų maklerio įmonei, jei Vertybinių popierių komisija su trečiosios šalies priežiūros institucija nėra sudariusi susitarimų, kurie užtikrintų tinkamą veiklos priežiūrą ir informacijos teikimą.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 23. Asmens, įsigijusio finansų maklerio įmonės akcijų paketą arba padidinusio akcijų paketą peržengiant šiame straipsnyje numatytas ribas negavus Vertybinių popierių komisijos sprendimo neprieštarauti siūlomam įsigijimui arba nepasibaigus šio straipsnio 7 dalyje nustatytam terminui (išskyrus atvejį, kai anksčiau priimamas Vertybinių popierių komisijos sprendimas neprieštarauti siūlomam įsigijimui), visos turimos akcijos praranda balso teisę visuotiniame akcininkų susirinkime. Balso teisė vėl įgyjama tą dieną, kurią gaunamas Vertybinių popierių komisijos sprendimas neprieštarauti siūlomam įsigijimui arba jei Vertybinių popierių komisija vertinimo laikotarpiu nepareiškia prieštaravimo siūlomam įsigijimui.“
 
-\#### 4 straipsnis. 14 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 14 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -146,31 +146,31 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 „2. Asmuo, pretenduojantis gauti maklerio licenciją, turi išlaikyti Vertybinių popierių komisijos organizuojamus egzaminus. Vertybinių popierių komisija turi teisę nustatyti pretendentams išsimokslinimo ir profesinius reikalavimus. Maklerio licencija negali būti išduodama asmeniui, kuris nėra nepriekaištingos reputacijos.“
 
-\#### 5 straipsnis. 20 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 20 straipsnio 3 dalies pakeitimas
 
 20 straipsnio 3 dalyje vietoj žodžių „tarpinę finansinę atskaitomybę“ įrašyti žodžius „tarpines finansines ataskaitas“ ir šią dalį išdėstyti taip:
 
 „3. Finansų maklerio įmonės Vertybinių popierių komisijos nustatyta tvarka ir atvejais privalo pateikti kapitalo pakankamumo skaičiavimo ataskaitą, tarpines finansines ataskaitas, veiklos ataskaitą ir kitus Vertybinių popierių komisijos nustatytus dokumentus.“
 
-\#### 6 straipsnis. 41 straipsnio papildymas 3 dalimi
+## 6 straipsnis. 41 straipsnio papildymas 3 dalimi
 
 Papildyti 41 straipsnį 3 dalimi:
 
 „3. Šio straipsnio 1 dalies nuostatos *mutatis mutandis*taikomos licencijuotoms kredito įstaigoms.“
 
-\#### 7 straipsnis. 42 straipsnio papildymas 5 dalimi
+## 7 straipsnis. 42 straipsnio papildymas 5 dalimi
 
 Papildyti 42 straipsnį 5 dalimi:
 
 „5. Šio straipsnio nuostatos *mutatis mutandis*taikomos licencijuotoms kredito įstaigoms.“
 
-\#### 8 straipsnis. 43 straipsnio papildymas 4 dalimi
+## 8 straipsnis. 43 straipsnio papildymas 4 dalimi
 
 Papildyti 43 straipsnį 4 dalimi:
 
 „4. Šio straipsnio nuostatos *mutatis mutandis*taikomos licencijuotoms kredito įstaigoms.“
 
-\#### 9 straipsnis. 47 straipsnio papildymas ir pakeitimas
+## 9 straipsnis. 47 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 47 straipsnį nauja 5 dalimi:
 
@@ -178,7 +178,7 @@ Papildyti 43 straipsnį 4 dalimi:
 
 2. Buvusią 47 straipsnio 5 dalį laikyti 6 dalimi.
 
-\#### 10 straipsnis. 51 straipsnio pakeitimas
+## 10 straipsnis. 51 straipsnio pakeitimas
 
 Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
@@ -188,19 +188,19 @@ Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
 2. Vertybinių popierių komisija vertina asmens, ketinančio įsigyti reguliuojamos rinkos operatoriaus akcijų paketą, tinkamumą ir siūlomo įsigijimo finansinį patikimumą pagal šio įstatymo 10 straipsnio 10 dalyje nustatytus kriterijus.“
 
-\#### 11 straipsnis. 62 straipsnio 9 dalies pakeitimas
+## 11 straipsnis. 62 straipsnio 9 dalies pakeitimas
 
 Pakeisti 62 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Šiame straipsnyje ir 63 straipsnyje numatyti draudimai ir reikalavimai finansinių priemonių, kuriomis prekiaujama Lietuvos Respublikoje esančiose ar veikiančiose reguliuojamose rinkose ar daugiašalėse prekybos sistemose (arba dėl kurių įtraukimo į tokias rinkas ar sistemas yra kreiptasi), atžvilgiu taikomi tiek veiksmams, atliktiems Lietuvos Respublikos teritorijoje, tiek už jos ribų. Šiame straipsnyje ir 63 straipsnyje numatyti draudimai ir reikalavimai finansinių priemonių, kuriomis prekiaujama valstybių narių reguliuojamose rinkose ar daugiašalėse prekybos sistemose (arba dėl kurių įtraukimo į tokias rinkas ar sistemas yra kreiptasi), atžvilgiu taikomi veiksmams, atliktiems Lietuvos Respublikos teritorijoje, net jei atitinkamas sandoris yra sudarytas už tokios rinkos ar sistemos ribų.“
 
-\#### 12 straipsnis. 64 straipsnio 3 dalies pakeitimas
+## 12 straipsnis. 64 straipsnio 3 dalies pakeitimas
 
 Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Trečiosiose šalyse registruotų sąskaitų tvarkytojų klientų sąskaitos gali būti atidaromos sąskaitų tvarkytojų vardu, nurodant, kad jie veikia kaip sąskaitų tvarkytojai ir kad sąskaita yra atidaryta klientų naudai. Trečiųjų šalių sąskaitų tvarkytojai, kurių vardu yra atidarytos tokios sąskaitos, Vertybinių popierių komisijos ar Lietuvos centrinio vertybinių popierių depozitoriumo reikalavimu privalo nurodyti klientus, kurių naudai yra įgytos finansinės priemonės.“
 
-\#### 13 straipsnis. 80 straipsnio 3 ir 7 dalių pakeitimas
+## 13 straipsnis. 80 straipsnio 3 ir 7 dalių pakeitimas
 
 1. 80 straipsnio 3 dalyje vietoj žodžių „užsienio valstybės“ įrašyti žodžius „trečiosios šalies“ ir šią dalį išdėstyti taip:
 
@@ -210,7 +210,7 @@ Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „7. Jei Vertybinių popierių komisija turi duomenų, kad šio Įstatymo 62 ar 63 straipsniuose uždrausti veiksmai yra atliekami ar buvo atlikti kitos valstybės narės teritorijoje ar jie yra susiję su finansinėmis priemonėmis, kuriomis prekiaujama tokios valstybės reguliuojamoje rinkoje, ji apie tai praneša atitinkamai valstybės narės priežiūros institucijai.“
 
-\#### 14 straipsnis. 82 straipsnio 2 dalies 3 ir 5 punktų pakeitimas
+## 14 straipsnis. 82 straipsnio 2 dalies 3 ir 5 punktų pakeitimas
 
 1. 82 straipsnio 2 dalies 3 punkte vietoj žodžių „finansinės atskaitomybės“ įrašyti žodžius „finansinių ataskaitų“ ir šį punktą išdėstyti taip:
 
@@ -220,19 +220,19 @@ Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „5) asmenų, atliekančių teisės aktuose numatytą privalomą draudimo įmonių, kredito įstaigų, finansų maklerio įmonių ir kitų finansų įstaigų finansinių ataskaitų auditą, priežiūrą.“
 
-\#### 15 straipsnis. 83 straipsnio 1 dalies 3 punkto pakeitimas
+## 15 straipsnis. 83 straipsnio 1 dalies 3 punkto pakeitimas
 
 83 straipsnio 1 dalies 3 punkte vietoj žodžių „finansinę atskaitomybę“ įrašyti žodžius „finansines ataskaitas“ ir šį punktą išdėstyti taip:
 
 „3) sudaryti pagrindą atsisakyti pareikšti nuomonę apie finansines ataskaitas ar formuoti sąlyginę nuomonę.“
 
-\#### 16 straipsnis. 85 straipsnio 5 dalies pakeitimas
+## 16 straipsnis. 85 straipsnio 5 dalies pakeitimas
 
 Pakeisti 85 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Vertybinių popierių komisija gali prašyti, kad valstybės narės priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti Vertybinių popierių komisijos darbuotojams. Jei valstybės narės priežiūros institucija laiku neatsako į prašymą dėl informacijos pateikimo arba atsisako pateikti informaciją, Vertybinių popierių komisija gali apie tai pranešti Europos vertybinių popierių reguliavimo institucijų komitetui.“
 
-\#### 17 straipsnis. Įstatymo papildymas 851 straipsniu
+## 17 straipsnis. Įstatymo papildymas 851 straipsniu
 
 Papildyti Įstatymą 85^1 straipsniu:
 
@@ -240,7 +240,7 @@ Papildyti Įstatymą 85^1 straipsniu:
 
 Finansų maklerio įmonei ar kredito įstaigai ir jų darbuotojams draudžiama atskleisti klientui ar kitiems asmenims bet kokią informaciją, susijusią su Vertybinių popierių komisijos atliekamu tyrimu ar patikrinimu, išskyrus šio įstatymo nustatytus atvejus.“
 
-\#### 18 straipsnis. 86 straipsnio 1 dalies papildymas ir pakeitimas
+## 18 straipsnis. 86 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 86 straipsnio 1 dalį nauju 3 punktu:
 
@@ -248,7 +248,7 @@ Finansų maklerio įmonei ar kredito įstaigai ir jų darbuotojams draudžiama a
 
 2. Buvusius 86 straipsnio 1 dalies 3 ir 4 punktus laikyti atitinkamai 4 ir 5 punktais.
 
-\#### 19 straipsnis. 95 straipsnio 1 dalies pakeitimas ir papildymas
+## 19 straipsnis. 95 straipsnio 1 dalies pakeitimas ir papildymas
 
 1. Pakeisti 95 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -266,7 +266,7 @@ Finansų maklerio įmonei ar kredito įstaigai ir jų darbuotojams draudžiama a
 
 „8) juridiniams asmenims, nesilaikantiems šio įstatymo 85^1 straipsnyje nustatyto draudimo, – iki 100 tūkstančių litų.“
 
-\#### 20 straipsnis. 97 straipsnio pakeitimas
+## 20 straipsnis. 97 straipsnio pakeitimas
 
 Pakeisti 97 straipsnį ir išdėstyti jį taip:
 
@@ -274,13 +274,13 @@ Pakeisti 97 straipsnį ir išdėstyti jį taip:
 
 Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo Vertybinių popierių komisijos sprendimą skirti baudą. Apskundus tokį sprendimą, bauda turi būti sumokėta ne vėliau kaip per 40 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. Jei bauda nebuvo savanoriškai sumokėta, Vertybinių popierių komisijos sprendimas skirti baudą vykdomas Civilinio proceso kodekso nustatyta tvarka.“
 
-\#### 21 straipsnis. Įstatymo priedo papildymas
+## 21 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 4 punktu:
 
 „4. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).“
 
-\#### 22 straipsnis. Įstatymo taikymas
+## 22 straipsnis. Įstatymo taikymas
 
 Iki šio įstatymo įsigaliojimo Vertybinių popierių komisijai paduoti prašymai dėl sutikimo įsigyti ar padidinti finansų maklerio įmonės ar reguliuojamos rinkos operatoriaus akcijų paketą nagrinėjami ir sprendimai priimami prašymo padavimo metu galiojusių teisės aktų nustatyta tvarka.
 

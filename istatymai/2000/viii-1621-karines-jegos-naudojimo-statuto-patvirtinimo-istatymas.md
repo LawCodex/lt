@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6CADC13B548B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
@@ -410,5 +410,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1647, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26595
 
 Lietuvos Respublikos karinės jėgos naudojimo statuto 2 ir 13 straipsnių pakeitimo įstatymas
-
-part_0e676ff77e2f4f5bb4a2215a63d75eee_end

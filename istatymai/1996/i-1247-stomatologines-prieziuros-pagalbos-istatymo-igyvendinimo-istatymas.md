@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8EC5F64B9863"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8EC5F64B9863.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo įgyvendinimo įstatymas
@@ -26,13 +26,13 @@ STOMATOLOGINĖS PRIEŽIŪROS (PAGALBOS) ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Stomatologinės priežiūros (pagalbos) įstatymo įsigaliojimo terminai
+## 1 straipsnis. Stomatologinės priežiūros (pagalbos) įstatymo įsigaliojimo terminai
 
 1. Stomatologinės priežiūros (pagalbos) įstatymo 1, 2, 6, 7, 9, 10, 11, 14, 15, 18, 20, 22, 24, 26, 27, 28 straipsniai įsigalioja kitą dieną po įstatymo paskelbimo „Valstybės žiniose“.
 
 2. Kiti Stomatologinės priežiūros (pagalbos) įstatymo straipsniai įsigalioja priėmus atitinkamus įstatymus bei kitus teisės aktus.
 
-\#### 2 straipsnis. Siūlymai Vyriausybei ir Sveikatos apsaugos ministerijai
+## 2 straipsnis. Siūlymai Vyriausybei ir Sveikatos apsaugos ministerijai
 
 1. Vyriausybė iki 1996 m. spalio 1 d. parengia ir patvirtina:
 

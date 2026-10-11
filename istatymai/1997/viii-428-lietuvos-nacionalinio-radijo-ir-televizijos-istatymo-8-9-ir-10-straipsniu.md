@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5545B410D741"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5545B410D741.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 8, 9 ir 10 straipsnių pakeitimo bei papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [102-2319](https://www.e-tar.lt/portal/lt/legalAct/TAR.1559303036A8), Nr. [121-2849](https://www.e-tar.lt/portal/lt/legalAct/TAR.914193ABD395), 2852)
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 8 straipsnį papildyti nauja 4 dalimi, buvusias 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis, straipsnį papildyti naujomis 7 ir 8 dalimis, buvusias 6, 7, 8 ir 9 dalis laikyti atitinkamai 9, 10, 11 ir 12 dalimis, 9 dalyje vietoj žodžių „šio įstatymo įsigaliojimo dienos“ įrašyti žodžius „Seimo Švietimo, mokslo ir kultūros komiteto kreipimosi dienos“, 10 dalį papildyti ir šį straipsnį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 12. Lietuvos nacionalinio radijo ir televizijos taryba finansuojama (apmokama už posėdžius, administracinės išlaidos) iš valstybės biudžeto lėšų, skiriamų Lietuvos nacionaliniam radijui ir televizijai.“
 
-\#### 2 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 1. 9 straipsnio 1 dalies 9 punkte vietoj žodžių „konkurso tvarka renka ir tvirtina“ įrašyti žodžius „viešo konkurso būdu tarybos įgaliojimų laikui skiria“, 11 punkte vietoj žodžio „tvirtina“ įrašyti žodį „skiria“, 12 punkte po žodžio „atlikimą“ įrašyti žodžius „arba dėl tarybos pareikšto nepasitikėjimo“ ir šią dalį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Vilnius
 
 „4. Jei Lietuvos nacionalinio radijo ir televizijos generalinis direktorius nesutinka su Lietuvos nacionalinio radijo ir televizijos tarybos nutarimu, jis gali kreiptis į tarybą su motyvuotu prašymu persvarstyti nutarimą, išskyrus tarybos nutarimą dėl tarybos atsistatydinimo. Taryba privalo ne vėliau kaip per 10 dienų svarstyti generalinio direktoriaus prašymą. Pakartotinai balsavus daugiau kaip pusei tarybos narių, Lietuvos nacionalinio radijo ir televizijos generalinis direktorius nutarimą privalo vykdyti.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 10 straipsnio 2 dalyje vietoj žodžių „Generalinis direktorius renkamas viešo konkurso tvarka 3 metams ir tvirtinamas Lietuvos nacionalinio radijo ir televizijos taryboje“ įrašyti žodžius „Generalinį direktorių viešo konkurso būdu tarybos įgaliojimų laikui skiria Lietuvos nacionalinio radijo ir televizijos taryba“, 3 dalyje po žodžio „atlikimą“ įrašyti žodžius „arba dėl tarybos pareikšto nepasitikėjimo“, straipsnį papildyti 4 dalimi ir jį išdėstyti taip:
 

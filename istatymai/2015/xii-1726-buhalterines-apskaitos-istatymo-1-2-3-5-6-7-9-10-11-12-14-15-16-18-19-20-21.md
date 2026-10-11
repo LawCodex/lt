@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6921533005fb11e588da8908dfa91cac"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6921533005FB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, 23 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9dceee42e56411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9DCEEE42E564.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 84 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ ĮSTATYMO NR. XIII-2166 84 STRAIPSNIO P
 
 Vilnius
 
-\#### 1 straipsnis. 84 straipsnio pakeitimas
+## 1 straipsnis. 84 straipsnio pakeitimas
 
 1. Papildyti 84 straipsnio 2 dalies 15 punktą h papunkčiu:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „e) statomi statiniai, siekiant užtikrinti valstybės sienos apsaugą, Vadovybės apsaugos tarnybos saugomų asmenų ir objektų, kaip jie apibrėžiami Vadovybės apsaugos įstatyme, saugumą, valstybinio jūrų uosto veiklą;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

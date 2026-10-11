@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1D27F59F611C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D27F59F611C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [74-3424](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF); 2011, Nr. [146-6820](https://www.e-tar.lt/portal/lt/legalAct/TAR.0210F68F474A))
 
-\#### 1 straipsnis. Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo nauja redakcija
+#### 1 straipsnis. Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą ir jį išdėstyti taip:
 
@@ -38,9 +38,9 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 ĮSTATYMAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
+#### 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
 1. Šis įstatymas nustato kolektyvinio investavimo subjektų ir kolektyvinio investavimo subjektų valdymo įmonių veiklą bei šios veiklos valstybinę priežiūrą. Įstatymo paskirtis – užtikrinti, kad būtų apsaugoti investicinių fondų bendraturčių ir investicinių bendrovių akcininkų interesai.
 
@@ -58,7 +58,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 5. Kolektyvinio investavimo subjektų valdymo įmonėms ir investicinėms bendrovėms Lietuvos Respublikos akcinių bendrovių įstatymo (toliau – Akcinių bendrovių įstatymas) reikalavimai taikomi tiek, kiek šis įstatymas nenustato kitaip.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Atvirojo tipo kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kurio investiciniai vienetai ar akcijos išleidžiami ir išperkami investuotojo reikalavimu.
 
@@ -208,11 +208,9 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 **II****skyrius**
 
-\### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS. valdymo įmonės ir investicinės bendrovės LICENCijavimas ir veikla. KOLEKTYVINIO INVESTAVIMO SUBJEKTO VEIKLA
 
-**valdymo įmonės ir investicinės bendrovės LICENCijavimas ir veikla. KOLEKTYVINIO INVESTAVIMO SUBJEKTO VEIKLA**
-
-\#### 3 straipsnis. Teisė verstis valdymo įmonės ar investicinės bendrovės veikla
+#### 3 straipsnis. Teisė verstis valdymo įmonės ar investicinės bendrovės veikla
 
 1. Verstis valdymo įmonės veikla turi teisę tik uždaroji akcinė bendrovė arba akcinė bendrovė, turinti priežiūros institucijos išduotą valdymo įmonės veiklos licenciją. Tokią licenciją turinti bendrovė vadinama valdymo įmone. Tik valdymo įmonės turi teisę savo pavadinime ir reklamoje vartoti žodžius „investicinių fondų valdymo įmonė“, „investicinių bendrovių valdymo įmonė“ ar kitokius šių žodžių junginius arba jų vedinius.
 
@@ -222,7 +220,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 4. Verstis uždarojo tipo investicinės bendrovės veikla gali tik akcinė bendrovė, turinti priežiūros institucijos išduotą uždarojo tipo investicinės bendrovės veiklos licenciją. Tik uždarojo tipo investicinės bendrovės savo pavadinime gali vartoti žodžius „uždarojo tipo investicinė bendrovė“ arba jų santrumpą „UTIB“. Uždarojo tipo investicinės bendrovės pavadinime žodžiai „akcinė bendrovė“ arba jų santrumpa „AB“ neprivalomi.
 
-\#### 4 straipsnis. Valdymo įmonių ir investicinių bendrovių veikla
+#### 4 straipsnis. Valdymo įmonių ir investicinių bendrovių veikla
 
 1. Valdymo įmonė turi teisę verstis pagrindine veikla – šio įstatymo nustatytų investicinių fondų ir (ar) investicinių bendrovių valdymu ir teikti šias paslaugas, jeigu jos numatytos jai išduotoje licencijoje ir jeigu ji verčiasi pagrindine veikla:
 
@@ -242,7 +240,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 6. Valdymo įmonei, turinčiai teisę verstis šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyta veikla, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 13 ir 22 straipsniuose nustatyti reikalavimai ir juos įgyvendinantys priežiūros institucijos teisės aktai. Taikant pirmiau minėtus Finansinių priemonių rinkų įstatymo reikalavimus, atsižvelgiama į Finansinių priemonių rinkų įstatymo 2 straipsnio 5 dalies nuostatas.
 
-\#### 5 straipsnis. Valdymo įmonės ar investicinės bendrovės veiklos licencijos išdavimo tvarka
+#### 5 straipsnis. Valdymo įmonės ar investicinės bendrovės veiklos licencijos išdavimo tvarka
 
 1. Akcinė bendrovė ar uždaroji akcinė bendrovė, ketinanti verstis valdymo įmonės veikla, ar akcinė bendrovė, ketinanti veikti kaip investicinė kintamojo kapitalo bendrovė arba kaip uždarojo tipo investicinė bendrovė, priežiūros institucijai turi pateikti prašymą. Kartu su prašymu pateikiamas numatomos vykdyti veiklos planas, kuriame, be kita ko, aprašomos numatomos vykdyti veiklos sritys, pateikiama bendrovės organizacinė struktūra, taip pat informacija apie juridinį asmenį, jo dalyvius, vadovus, veiklą, kapitalo ir kitų riziką ribojančių reikalavimų tenkinimą ir kita priežiūros institucijos patvirtintose licencijavimo taisyklėse nustatyta informacija, kurią išnagrinėjusi priežiūros institucija galėtų konstatuoti, kad bendrovė atitinka šiame įstatyme nustatytus licencijuojamos veiklos reikalavimus. Veiklos licencijai gauti būtinų pateikti dokumentų sąrašą ir jų pateikimo tvarką nustato priežiūros institucija.
 
@@ -290,13 +288,13 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 7. Apie valdymo įmonės ar investicinės bendrovės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui, kituose teisės aktuose nurodytoms institucijoms ir paskelbia priežiūros institucijos interneto svetainėje. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai.
 
-\#### 6 straipsnis. Kolektyvinio investavimo subjekto veikla
+#### 6 straipsnis. Kolektyvinio investavimo subjekto veikla
 
 1. Kolektyvinio investavimo subjektas gali pradėti veikti tik po to, kai jis ar jo valdymo įmonė gauna išankstinį priežiūros institucijos leidimą patvirtinti kolektyvinio investavimo subjekto steigimo dokumentus ir pasirinkti depozitoriumą. Su prašymu dėl leidimo išdavimo kolektyvinio investavimo subjektas ar jo valdymo įmonė priežiūros institucijai turi pateikti kolektyvinio investavimo subjekto steigimo dokumentus, prospektą, pagrindinės informacijos investuotojams dokumentą, informaciją apie depozitoriumo vadovus (jų atstovus).
 
 2. Kai Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą ketina valdyti kitoje valstybėje narėje licencijuota valdymo įmonė, kolektyvinio investavimo subjektas gali pradėti veikti tik po to, kai valdymo įmonė gauna išankstinį priežiūros institucijos leidimą patvirtinti kolektyvinio investavimo subjekto steigimo dokumentus, pasirinkti depozitoriumą ir leidimą valdymo įmonei valdyti kolektyvinio investavimo subjektą. Su prašymu dėl leidimo išdavimo valdymo įmonė priežiūros institucijai turi pateikti kolektyvinio investavimo subjekto steigimo dokumentus, valdymo įmonės prašymą valdyti kolektyvinio investavimo subjektą, prospektą, pagrindinės informacijos investuotojams dokumentą, informaciją apie depozitoriumo vadovus (jų atstovus).
 
-\#### 7 straipsnis. Leidimo patvirtinti kolektyvinio investavimo subjekto steigimo dokumentus, pasirinkti depozitoriumą, valdymo įmonei leisti valdyti suderintąjį kolektyvinio investavimo subjektą išdavimas arba atsisakymas jį išduoti
+#### 7 straipsnis. Leidimo patvirtinti kolektyvinio investavimo subjekto steigimo dokumentus, pasirinkti depozitoriumą, valdymo įmonei leisti valdyti suderintąjį kolektyvinio investavimo subjektą išdavimas arba atsisakymas jį išduoti
 
 1. Priežiūros institucija išduoda leidimą patvirtinti kolektyvinio investavimo subjekto steigimo dokumentus, pasirinkti depozitoriumą, valdymo įmonei leisti valdyti suderintąjį kolektyvinio investavimo subjektą, jeigu:
 
@@ -314,7 +312,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ
 
 2. Apie leidimo išdavimą arba atsisakymą jį išduoti priežiūros institucija prašymą pateikusiai valdymo įmonei ar investicinei bendrovei, kurios valdymas neperduotas valdymo įmonei, praneša per 2 mėnesius nuo visų reikalingų dokumentų, duomenų ir paaiškinimų pateikimo priežiūros institucijai.
 
-\#### 8 straipsnis. Licencijos galiojimo panaikinimas
+#### 8 straipsnis. Licencijos galiojimo panaikinimas
 
 Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei bendrovei išduotos licencijos galiojimą, jeigu:
 
@@ -334,7 +332,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 8) kitais įstatymų nustatytais atvejais.
 
-\#### 9 straipsnis. Valdymo įmonių ir investicinių bendrovių valdymas ir vadovai
+#### 9 straipsnis. Valdymo įmonių ir investicinių bendrovių valdymas ir vadovai
 
 1. Valdymo įmonėje ir investicinėje bendrovėje, kurios valdymas neperduotas valdymo įmonei, turi būti sudaroma valdyba ir administracija.
 
@@ -352,7 +350,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 8. Jeigu investicinėje bendrovėje, kurios valdymas perduotas valdymo įmonei, sudaroma stebėtojų taryba, jai mutatis mutandis taikomi šio straipsnio 4, 5, 6 ir 7 dalių reikalavimai.
 
-\#### 10 straipsnis. Valdymo įmonės akcijų paketo įsigijimas ir perleidimas
+#### 10 straipsnis. Valdymo įmonės akcijų paketo įsigijimas ir perleidimas
 
 1. Fizinis ar juridinis asmuo arba kartu veikiantys šie asmenys, nusprendę tiesiogiai ar netiesiogiai įsigyti arba tiesiogiai ar netiesiogiai padidinti turimą valdymo įmonės akcijų paketą (toliau šiame straipsnyje – įsigyjantis asmuo), jeigu dėl planuojamo įmonės akcijų paketo padidinimo asmeniui priklausančių balsavimo teisių ar įstatinio kapitalo dalis pasiektų ar peržengtų didėjimo tvarka 20, 30 ar 50 procentų arba įmonė taptų to juridinio asmens dukterine įmone (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti priežiūros institucijos sprendimą neprieštarauti siūlomam įsigijimui. Tokio reikalavimo nesilaikymas nepadaro sandorio negaliojančio, tačiau sukelia šio straipsnio 21 dalyje nustatytas pasekmes. Kartu veikiančiais asmenimis šiame straipsnyje laikomi du ar daugiau asmenų, kurie, remdamiesi savo aiškiai sudarytu ar numanomu žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia įgyvendinti savo teises, suteikiamas turimo valdymo įmonės akcijų paketo.
 
@@ -406,7 +404,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 21. Asmens, įsigijusio valdymo įmonės akcijų paketą arba padidinusio akcijų paketą peržengiant šiame straipsnyje nustatytas ribas negavus priežiūros institucijos sprendimo neprieštarauti siūlomam įsigijimui arba nepasibaigus šio straipsnio 6 dalyje nustatytam terminui (išskyrus atvejį, kai anksčiau priimamas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui), visos turimos akcijos praranda balso teisę visuotiniame akcininkų susirinkime. Balso teisė vėl įgyjama tą dieną, kurią gaunamas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui, arba jeigu priežiūros institucija vertinimo laikotarpiu nepriima sprendimo prieštarauti siūlomam įsigijimui.
 
-\#### 11 straipsnis. Veiklai keliami reikalavimai ir riziką ribojantys reikalavimai
+#### 11 straipsnis. Veiklai keliami reikalavimai ir riziką ribojantys reikalavimai
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo nuolat laikytis šių reikalavimų:
 
@@ -440,7 +438,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 3. Valdymo įmonės, turinčios teisę teikti paslaugą, numatytą šio įstatymo 4 straipsnio 1 dalies 1 punkte, įsipareigojimai investuotojams draudžiami Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo nustatyta tvarka.
 
-\#### 12 straipsnis. Pareiga investicinius sprendimus vykdyti geriausiomis kolektyvinio investavimo subjektui sąlygomis
+#### 12 straipsnis. Pareiga investicinius sprendimus vykdyti geriausiomis kolektyvinio investavimo subjektui sąlygomis
 
 1. Valdymo įmonė jos valdomo kolektyvinio investavimo subjekto sąskaita ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, pati vykdydama priimtą investicinį sprendimą ar perduodama jį vykdyti kitam subjektui, privalo veikti geriausiais kolektyvinio investavimo subjekto interesais.
 
@@ -462,7 +460,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 4) veikti taip, kad bet kuriuo metu galėtų įrodyti, jog investicinis sprendimas kolektyvinio investavimo subjekto sąskaita buvo įvykdytas ar perduotas vykdyti kitam subjektui laikantis investicinių sprendimų vykdymo politikos.
 
-\#### 13 straipsnis. Rizikos valdymui keliami reikalavimai
+#### 13 straipsnis. Rizikos valdymui keliami reikalavimai
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, atsižvelgdama į vykdomos veiklos ir valdomo kolektyvinio investavimo subjekto pobūdį, mastą ir sudėtingumą, privalo:
 
@@ -474,7 +472,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 2. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo nedelsdama raštu pranešti priežiūros institucijai apie visus esminius rizikos valdymo proceso pasikeitimus.
 
-\#### 14 straipsnis. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, apskaita ir auditas
+#### 14 straipsnis. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, apskaita ir auditas
 
 1. Valdymo įmonės apskaita tvarkoma ir finansinės ataskaitos sudaromos vadovaujantis Lietuvos Respublikos įstatymais, kitais teisės aktais ir tarptautiniais apskaitos standartais.
 
@@ -518,7 +516,7 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 11. Auditorius, atlikdamas valdymo įmonės, jos valdomo kolektyvinio investavimo subjekto ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, auditą, privalo laikytis šio įstatymo 15 straipsnio pagrindu priežiūros institucijos priimtuose šio įstatymo įgyvendinamuosiuose teisės aktuose nustatytos tvarkos.
 
-\#### 15 straipsnis. Priežiūros institucijos teisė priimti šio įstatymo įgyvendinamuosius teisės aktus
+#### 15 straipsnis. Priežiūros institucijos teisė priimti šio įstatymo įgyvendinamuosius teisės aktus
 
 Priežiūros institucija nustato:
 
@@ -554,7 +552,7 @@ Priežiūros institucija nustato:
 
 16) valdymo įmonės, investicinės bendrovės ir depozitoriumo vadovams keliamus kvalifikacijos ir darbo patirties reikalavimus.
 
-\#### 16 straipsnis. Pareiga gauti priežiūros institucijos leidimą
+#### 16 straipsnis. Pareiga gauti priežiūros institucijos leidimą
 
 1. Priežiūros institucijos išankstinis leidimas reikalingas:
 
@@ -582,7 +580,7 @@ Priežiūros institucija nustato:
 
 3. Jeigu priežiūros institucija, gavusi atitinkamą prašymą, per 20 darbo dienų nepateikia motyvuoto prieštaravimo, leidimas laikomas duotu, jeigu šiame įstatyme nenustatyta kitaip.
 
-\#### 17 straipsnis. Valdymo įmonės ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, teisė pavesti dalį savo funkcijų kitai įmonei
+#### 17 straipsnis. Valdymo įmonės ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, teisė pavesti dalį savo funkcijų kitai įmonei
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, siekdama veiksmingesnio valdymo, turi teisę dalį savo valdymo funkcijų pavesti atlikti įmonei, turinčiai teisę teikti atitinkamas paslaugas, ir apie tokį ketinimą nedelsdama privalo raštu pranešti priežiūros institucijai. Pranešime turi būti nurodomas šį pavedimą priimsiančios įmonės (įgaliotinio) pavadinimas ir jai ketinamų pavesti funkcijų sąrašas. Jeigu valdymo įmonė valdo bent vieną kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą, priežiūros institucija, gavusi valdymo įmonės pranešimą, nedelsdama apie ketinimą pavesti atlikti dalį valdymo funkcijų kitai įmonei praneša suderintojo kolektyvinio investavimo subjekto buveinės valstybės narės priežiūros institucijai.
 
@@ -604,7 +602,7 @@ Priežiūros institucija nustato:
 
 4. Tai, kad dalis funkcijų pavesta atlikti kitai įmonei, neatleidžia valdymo įmonės ar investicinės bendrovės nuo atsakomybės.
 
-\#### 18 straipsnis. Draudimas perleisti investicinį fondą sudarntį ar investicinei bendrovei priklausantį turtą
+#### 18 straipsnis. Draudimas perleisti investicinį fondą sudarntį ar investicinei bendrovei priklausantį turtą
 
 1. Investicinį fondą sudarantis ar investicinei bendrovei priklausantis turtas negali būti perleistas jį valdančiai valdymo įmonei, tokios įmonės vadovams, darbuotojams ir jų sutuoktiniams. Valdymo įmonei jos valdomo kolektyvinio investavimo subjekto sąskaita ar investicinei bendrovei taip pat draudžiama iš šioje dalyje numatytų asmenų turtą įsigyti.
 
@@ -618,13 +616,13 @@ Priežiūros institucija nustato:
 
 6. Šiame straipsnyje nustatyti draudimai specialiesiems kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomi tiek, kiek nustatyta šio įstatymo VIII skyriuje.
 
-\#### 19 straipsnis. Investicinės bendrovės sutarties su valdymo įmone ir depozitoriumu tvirtinimas
+#### 19 straipsnis. Investicinės bendrovės sutarties su valdymo įmone ir depozitoriumu tvirtinimas
 
 1. Investicinės bendrovės valdymo sutartį su valdymo įmone ir sutartį su depozitoriumu turi patvirtinti investicinės bendrovės visuotinis akcininkų susirinkimas. Visuotinis akcininkų susirinkimas tokį sprendimą gali priimti ne mažiau kaip 2/3 susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma. Bendrovės įstatuose gali būti nustatyta ir didesnė dauguma tokiam sprendimui priimti.
 
 2. Visuotinis akcininkų susirinkimas teisę priimti šio straipsnio 1 dalyje numatytą sprendimą gali perduoti stebėtojų tarybai, bet ne ilgesniam kaip 3 metų terminui, jeigu bendrovės įstatuose numatytas didžiausias atlyginimo valdymo įmonei ir depozitoriumui dydis. Stebėtojų taryba turi teisę jį priimti 2/3 visų tarybos narių balsų dauguma.
 
-\#### 20 straipsnis. Valdymo įmonės ar investicinės bendrovės bankroto proceso ypatumai
+#### 20 straipsnis. Valdymo įmonės ar investicinės bendrovės bankroto proceso ypatumai
 
 1. Valdymo įmonės ar investicinės bendrovės bankroto procedūra gali būti vykdoma tik teismo tvarka.
 
@@ -636,7 +634,7 @@ Priežiūros institucija nustato:
 
 5. Valdymo įmonės ar investicinės bendrovės administratorius grąžina valdymo įmonės valdomų kolektyvinio investavimo subjektų dalyviams ar investicinės bendrovės akcininkams priklausančias lėšas arba perduoda valdymo įmonės valdomų kolektyvinio investavimo subjektų valdymą kitai valdymo įmonei. Priimdamas atitinkamą sprendimą, valdymo įmonės ar investicinės bendrovės administratorius turi veikti geriausiomis kolektyvinio investavimo subjektų dalyviams sąlygomis ir jų interesais.
 
-\#### 21 straipsnis. Valdymo įmonės reorganizavimo, atskyrimo ir pertvarkymo procesų ypatumai
+#### 21 straipsnis. Valdymo įmonės reorganizavimo, atskyrimo ir pertvarkymo procesų ypatumai
 
 1. Valdymo įmonės reorganizavimui, atskyrimui ir pertvarkymui reikalingas išankstinis priežiūros institucijos leidimas.
 
@@ -658,7 +656,7 @@ Priežiūros institucija nustato:
 
 10. Valdymo įmonės, kuri tęsia veiklą, dalis gali būti atskiriama ir šiai daliai priskirtų turto, teisių ir pareigų pagrindu gali būti kuriama viena ar kelios naujos tos pačios teisinės formos valdymo įmonės. Valdymo įmonės atskyrimui mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios valdymo įmonės reorganizavimą, ir Civilinio kodekso nuostatos, reglamentuojančios reorganizavimą padalijimo būdu.
 
-\#### 22 straipsnis. Valdymo įmonės ar investicinės bendrovės likvidavimo proceso ypatumai
+#### 22 straipsnis. Valdymo įmonės ar investicinės bendrovės likvidavimo proceso ypatumai
 
 1. Valdymo įmonė visuotinio akcininkų susirinkimo iniciatyva gali būti likviduojama tik tuo atveju, jeigu ji visų kolektyvinio investavimo subjektų valdymą yra perdavusi kitai valdymo įmonei arba dėl ketinimo likviduoti valdymo įmonę yra panaikinusi visus jos valdomus kolektyvinio investavimo subjektus ir priežiūros institucijos sprendimu yra panaikinta valdymo įmonės licencija.
 
@@ -672,11 +670,9 @@ Priežiūros institucija nustato:
 
 6. Investicinės bendrovės likvidatorius priežiūros institucijai privalo teikti informaciją apie likvidavimo eigą ir pateikti šio įstatymo 14 straipsnio 6 dalyje nurodytą informaciją.
 
-\### ANTRASIS SKIRSNIS
+### ANTRASIS SKIRSNIS. Valdymo įmonėS ar investicinėS bendrovėS PAREIGA teikti INFORMACIJĄ
 
-**Valdymo įmonėS ar investicinėS bendrovėS PAREIGA teikti INFORMACIJĄ**
-
-\#### 23 straipsnis. Pareiga parengti prospektą, pagrindinės informacijos investuotojams dokumentą ir periodines ataskaitas
+#### 23 straipsnis. Pareiga parengti prospektą, pagrindinės informacijos investuotojams dokumentą ir periodines ataskaitas
 
 Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo parengti:
 
@@ -688,7 +684,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 4) kiekvienų finansinių metų pirmų šešių mėnesių (toliau – pusmetis) ataskaitą.
 
-\#### 24 straipsnis. Prospektas ir periodinės ataskaitos
+#### 24 straipsnis. Prospektas ir periodinės ataskaitos
 
 1. Prospekte turi būti pateikta pakankamai informacijos, kad investuotojai galėtų tinkamai įvertinti siūlomą investiciją ir su ja susijusią riziką. Prospekte turi būti aiškiai ir suprantamai paaiškintas rizikos pobūdis.
 
@@ -702,7 +698,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 6. Kai Lietuvos Respublikoje licencijuota valdymo įmonė valdo kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą, ji priežiūros institucijai turi pateikti šio kolektyvinio investavimo subjekto prospektą ir visus jo pakeitimus, taip pat metų ir pusmečio ataskaitas.
 
-\#### 25 straipsnis. Prospekto ir periodinių ataskaitų paskelbimo tvarka
+#### 25 straipsnis. Prospekto ir periodinių ataskaitų paskelbimo tvarka
 
 1. Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ir investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo paskelbti prospektą, metų ataskaitą ir pusmečio ataskaitas.
 
@@ -722,7 +718,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 7. Metų ir pusmečio ataskaitos, išskyrus šio straipsnio 4 dalyje numatytą atvejį, turi būti prieinamos investuotojams prospekte ir pagrindinės informacijos investuotojams dokumente nurodytu būdu.
 
-\#### 26 straipsnis. Pagrindinės informacijos investuotojams dokumentas
+#### 26 straipsnis. Pagrindinės informacijos investuotojams dokumentas
 
 1. Pagrindinės informacijos investuotojams dokumente turi būti aiškiai nurodyti žodžiai „pagrindinė informacija investuotojams“ ir pateikiama visa investuotojams reikalinga informacija apie esmines kolektyvinio investavimo subjekto savybes, kurios pagrindu jie galėtų suprasti jiems siūlomo kolektyvinio investavimo subjekto esmę bei jam būdingą riziką ir galėtų priimti pagrįstus investicinius sprendimus.
 
@@ -736,7 +732,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 6. Priežiūros institucija detalizuoja pagrindinės informacijos investuotojams dokumento turinio, formos ir jo pateikimo investuotojams tvarkos reikalavimus.
 
-\#### 27 straipsnis. Pagrindinės informacijos investuotojams dokumento pateikimo tvarka
+#### 27 straipsnis. Pagrindinės informacijos investuotojams dokumento pateikimo tvarka
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, prieš sudarydama su investuotoju susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo, privalo investuotojui pateikti atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Jeigu kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos valdymo įmonės ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, vardu platinami per tarpininkus, valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo užtikrinti, kad atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentas būtų pateiktas investuotojui prieš sudarant su juo susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo.
 
@@ -750,13 +746,13 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 6. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo pagrindinės informacijos investuotojams dokumentą ir visus jo pakeitimus nedelsdama pateikti priežiūros institucijai.
 
-\#### 28 straipsnis. Informavimas apie esminius kolektyvinio investavimo subjekto steigimo dokumentų ir prospekto pakeitimus
+#### 28 straipsnis. Informavimas apie esminius kolektyvinio investavimo subjekto steigimo dokumentų ir prospekto pakeitimus
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, apie visus esminius kolektyvinio investavimo subjekto dalyvių interesams įtakos turinčius kolektyvinio investavimo subjekto steigimo dokumentų ir (ar) prospekto pakeitimus privalo raštu pranešti kiekvienam kolektyvinio investavimo subjekto dalyviui ir sudaryti galimybę kolektyvinio investavimo subjekto dalyviui priežiūros institucijos nustatyta tvarka pareikalauti išpirkti jam priklausančius kolektyvinio investavimo subjekto investicinius vienetus ar akcijas be jokių atskaitymų.
 
 2. Kolektyvinio investavimo subjekto dalyvių informavimo apie esminius kolektyvinio investavimo subjekto steigimo dokumentų ir prospekto pakeitimus tvarką ir pavyzdinį esminių pakeitimų sąrašą nustato priežiūros institucija.
 
-\#### 29 straipsnis. Kainos skelbimas
+#### 29 straipsnis. Kainos skelbimas
 
 1. Valdymo įmonė ir investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo kolektyvinio investavimo subjekto steigimo dokumentuose nustatyta tvarka skelbti investicinių vienetų ar akcijų kainas kiekvieną kartą, kai investicinius vienetus ar akcijas parduoda arba išperka.
 
@@ -764,21 +760,21 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 3. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų kainos skelbiamos laikantis atitinkamos rūšies ir tipo specialiųjų kolektyvinio investavimo subjektų veiklą reglamentuojančių šio įstatymo straipsnių reikalavimų.
 
-\#### 30 straipsnis. Viešas siūlymas ir reklama
+#### 30 straipsnis. Viešas siūlymas ir reklama
 
 1. Investuotojams skirta reklaminio pobūdžio informacija turi būti aiškiai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. Reklaminio pobūdžio informacijoje, kuria siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir kurioje pateikiama informacija apie kolektyvinio investavimo subjektą, neturi būti teiginių, prieštaraujančių atitinkamo kolektyvinio investavimo subjekto prospekte ir pagrindinės informacijos investuotojams dokumente pateiktai informacijai arba sumenkinančių tokios informacijos svarbą. Reklaminio pobūdžio informacijoje turi būti nurodoma, kad yra parengtas prospektas ir pagrindinės informacijos investuotojams dokumentas, taip pat vietos, kur ir kokia kalba investuotojai gali juos gauti arba su jais susipažinti.
 
 2. Skelbiamoje kolektyvinio investavimo subjektų reklamoje pateikiami kolektyvinio investavimo subjekto veiklos rezultatai privalo būti lyginami su to kolektyvinio investavimo subjekto lyginamuoju indeksu. Šis reikalavimas netaikomas kolektyvinio investavimo subjektams, kurių šis įstatymas neįpareigoja naudoti lyginamojo indekso.
 
-\## III SKYRIUS. DEPOZITORIUMAS
+III SKYRIUS. DEPOZITORIUMAS
 
-\#### 31 straipsnis. Pareiga perduoti turtą depozitoriumui
+#### 31 straipsnis. Pareiga perduoti turtą depozitoriumui
 
 1. Kolektyvinio investavimo subjekto turtas privalo būti saugomas viename depozitoriume. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto depozitoriumu gali būti tik bankas, turintis teisę Lietuvos Respublikoje teikti investicines paslaugas ir turintis registruotą buveinę ar padalinį arba įsteigtas Lietuvos Respublikoje. Lietuvos Respublikoje licencijuotos valdymo įmonės valdomo kitoje valstybėje narėje įsteigto kolektyvinio investavimo subjekto depozitoriumu gali būti tik institucija, turinti teisę toje valstybėje narėje teikti investicines paslaugas ir turinti registruotą buveinę ar padalinį arba įsteigta toje valstybėje narėje.
 
 2. Depozitoriumas turi teisę visas ar dalį savo funkcijų perduoti kitiems depozitoriumams, bet tai neatleidžia jo nuo atsakomybės.
 
-\#### 32 straipsnis. Depozitoriumo pareigos
+#### 32 straipsnis. Depozitoriumo pareigos
 
 1. Depozitoriumas privalo turėti ir naudoti jo veiklai reikalingas priemones ir procedūras.
 
@@ -810,13 +806,13 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 10. Depozitoriumas privalo laikytis šio įstatymo 15 straipsnio pagrindu priežiūros institucijos priimtų teisės aktų reikalavimų.
 
-\#### 33 straipsnis. Valdymo perdavimas depozitoriumui
+#### 33 straipsnis. Valdymo perdavimas depozitoriumui
 
 1. Jeigu valdymo įmonės teisė valdyti kolektyvinio investavimo subjektą sustabdoma arba pasibaigia, o kitai valdymo įmonei kolektyvinio investavimo subjekto valdymas neperduodamas, valdymo įmonė privalo pranešti depozitoriumui apie teisės valdyti turtą sustabdymą ar pasibaigimą. Tokiu atveju kolektyvinio investavimo subjekto laikiną valdymą perima depozitoriumas, kuris turi visas valdymo įmonės teises ir pareigas, jeigu įstatymuose arba kolektyvinio investavimo subjekto steigimo dokumentuose nenustatyta kitaip.
 
 2. Depozitoriumas perima kolektyvinio investavimo subjekto valdymą laikotarpiui, kuriam sustabdoma valdymo įmonės teisė valdyti kolektyvinio investavimo subjektą. Tuo atveju, kai valdymo įmonės teisė valdyti kolektyvinio investavimo subjektą pasibaigia, depozitoriumas privalo perduoti valdymą kitai valdymo įmonei per 3 mėnesius nuo valdymo perėmimo. Per 3 mėnesius kitai valdymo įmonei neperduotas kolektyvinio investavimo subjektas turi būti panaikinamas arba likviduojamas.
 
-\#### 34 straipsnis. Valdymo įmonės ar investicinės bendrovės atskyrimas nuo depozitoriumo
+#### 34 straipsnis. Valdymo įmonės ar investicinės bendrovės atskyrimas nuo depozitoriumo
 
 1. Depozitoriumas negali kartu verstis ir valdymo įmonės ar investicinės bendrovės veikla, išskyrus šio įstatymo 33 straipsnyje numatytą atvejį.
 
@@ -824,17 +820,15 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 3. Depozitoriumo, saugančio investicinį fondą sudarantį ar investicinės bendrovės turimą turtą, vadovai, kurių funkcijos tiesiogiai susijusios su depozitoriumo veikla, gali sudaryti ne daugiau kaip 1/2 tą investicinį fondą valdančios valdymo įmonės ar investicinės bendrovės stebėtojų tarybos narių. Depozitoriumo, saugančio investicinį fondą sudarantį ar investicinės bendrovės turimą turtą, darbuotojai, kurių funkcijos tiesiogiai susijusios su depozitoriumo veikla, negali būti tą investicinį fondą valdančios valdymo įmonės ar investicinės bendrovės stebėtojų tarybos nariais.
 
-\#### 35 straipsnis. Depozitoriumo pakeitimas
+#### 35 straipsnis. Depozitoriumo pakeitimas
 
 1. Valdymo įmonė ar investicinė bendrovė depozitoriumą gali pakeisti tik tuo atveju, jeigu tam priežiūros institucija išdavė išankstinį leidimą.
 
 2. Jeigu depozitoriumas nesilaiko teisės aktų reikalavimų, nevykdo savo įsipareigojimų ar netinkamai juos vykdo, priežiūros institucija, siekdama užtikrinti kolektyvinio investavimo subjekto dalyvių teises, turi teisę nurodyti valdymo įmonei ar investicinei bendrovei pakeisti depozitoriumą.
 
-\## IV SKYRIUS
+## IV SKYRIUS. PIRMASIS SKIRSNIS. BENDROSIOS KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLĄ REGLAMENTUOJANČIOS NUOSTATOS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLĄ REGLAMENTUOJANČIOS NUOSTATOS
-
-\#### 36 straipsnis. Kolektyvinio investavimo subjektų veiklos formos, rūšys ir tipai
+#### 36 straipsnis. Kolektyvinio investavimo subjektų veiklos formos, rūšys ir tipai
 
 1. Vadovaujantis šiuo įstatymu, suderintieji ir specialieji kolektyvinio investavimo subjektai Lietuvos Respublikoje gali būti steigiami investicinės bendrovės arba investicinio fondo veiklos forma, jeigu šiame straipsnyje nenustatyta kitaip. Specialieji kolektyvinio investavimo subjektai skirstomi į rūšis ir tipus.
 
@@ -854,7 +848,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 4. Specialieji kolektyvinio investavimo subjektai gali būti atvirojo tipo (atvirojo tipo investiciniai fondai ar investicinės kintamojo kapitalo bendrovės) arba uždarojo tipo (uždarojo tipo investiciniai fondai ar uždarojo tipo investicinės bendrovės).
 
-\#### 37 straipsnis. Kolektyvinio investavimo subjektų grynųjų aktyvų dydis
+#### 37 straipsnis. Kolektyvinio investavimo subjektų grynųjų aktyvų dydis
 
 1. Kolektyvinio investavimo subjekto grynieji aktyvai, išskyrus šio straipsnio 3 dalyje nurodytus atvejus, turi būti ne mažesni kaip:
 
@@ -878,7 +872,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 7. Jeigu valdymo įmonė arba investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, nesiima šio straipsnio 4, 5 ar 6 dalyje nurodytų veiksmų arba nepanaikina ar nelikviduoja kolektyvinio investavimo subjekto per protingą terminą, priežiūros institucija turi teisę priimti sprendimą panaikinti investicinį fondą arba investicinės bendrovės veiklos licencijos galiojimą.
 
-\#### 38 straipsnis. Investicinių vienetų ar akcijų klasės ir (ar) serijos
+#### 38 straipsnis. Investicinių vienetų ar akcijų klasės ir (ar) serijos
 
 1. Kolektyvinio investavimo subjektas gali turėti skirtingų klasių ir (ar) serijų investicinių vienetų ar akcijų. Investicinių vienetų ar akcijų skirstymas į klases ir (ar) serijas turi būti pagrįstas objektyviais kriterijais ir nediskriminuoti kolektyvinio investavimo subjekto investuotojų ir dalyvių.
 
@@ -888,7 +882,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 4. Kiekviena kolektyvinio investavimo subjekto investicinių vienetų klasė ir (ar) serija turi būti įtraukta į apskaitą atskirai nuo kitų šio subjekto investicinių vienetų klasių ir (ar) serijų.
 
-\#### 39 straipsnis. Investicinis fondas
+#### 39 straipsnis. Investicinis fondas
 
 1. Investicinį fondą sudarantis turtas yra jo dalyvių bendroji dalinė nuosavybė. Dalyvio dalis bendrojoje nuosavybėje nustatoma atsižvelgiant į jo asmeninėje investicinių vienetų sąskaitoje įrašytų investicinių vienetų skaičių.
 
@@ -898,7 +892,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 4. Kiekvieną investicinį fondą sudarantis turtas turi būti atskirtas nuo valdymo įmonės ir kito jos valdomo kolektyvinio investavimo subjekto turimo turto ir įtraukiamas į apskaitą atskirai.
 
-\#### 40 straipsnis. Lyginamasis indeksas
+#### 40 straipsnis. Lyginamasis indeksas
 
 1. Suderintieji kolektyvinio investavimo subjektai ir kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektai privalo naudoti lyginamąjį indeksą.
 
@@ -910,7 +904,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 5. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo patvirtinti taisykles, nustatančias kolektyvinio investavimo subjekto lyginamojo indekso pasirinkimo ir keitimo kriterijus bei tvarką.
 
-\#### 41 straipsnis. Kolektyvinio investavimo subjekto investavimo strategijos keitimas
+#### 41 straipsnis. Kolektyvinio investavimo subjekto investavimo strategijos keitimas
 
 1. Suderintojo kolektyvinio investavimo subjekto investavimo strategija negali būti keičiama taip, kad šis kolektyvinio investavimo subjektas taptų specialiuoju kolektyvinio investavimo subjektu.
 
@@ -920,9 +914,9 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 4. Šio straipsnio 3 dalyje nustatytais atvejais valdymo įmonė privalo sudaryti galimybę kolektyvinio investavimo subjekto dalyviams per pakankamą terminą, kuris negali būti trumpesnis kaip 2 mėnesiai nuo tinkamo dalyvių informavimo apie numatomą kolektyvinio investavimo subjekto strategijos keitimą, pareikalauti išpirkti jiems priklausančius kolektyvinio investavimo subjekto investicinius vienetus ar akcijas be papildomų atskaitymų. Apie šią teisę dalyviai turi būti informuojami pateikiant šio straipsnio 3 dalyje nustatytą pranešimą.
 
-\### ANTRASIS SKIRSNIS. KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTICINIŲ VIENETŲ AR AKCIJŲ PARDAVIMO IR IŠPIRKIMO TVARKA
+ANTRASIS SKIRSNIS. KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTICINIŲ VIENETŲ AR AKCIJŲ PARDAVIMO IR IŠPIRKIMO TVARKA
 
-\#### 42 straipsnis. Investicinių vienetų ar akcijų pardavimas
+#### 42 straipsnis. Investicinių vienetų ar akcijų pardavimas
 
 1. Investuotojas investicinius vienetus ar akcijas įsigyja paprasta rašytine forma sudarydamas sutartį su valdymo įmone, investicine bendrove ar investicinių vienetų ar akcijų platintoju.
 
@@ -930,7 +924,7 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 3. Vadovaujantis šiuo įstatymu įsteigtų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos gali būti platinami reguliuojamos rinkos ar daugiašalės prekybos sistemos operatoriaus ir (ar) atsiskaitymų sistemos techninėmis organizacinėmis priemonėmis priežiūros institucijos nustatyta tvarka. Reguliuojamos rinkos, daugiašalės prekybos sistemos ir atsiskaitymų sistemos operatorius privalo užtikrinti, kad sandorius dėl alternatyvaus kolektyvinio investavimo subjektų investicinių vienetų ar akcijų galėtų sudaryti tik profesionalieji investuotojai.
 
-\#### 43 straipsnis. Tiesioginis investicinių vienetų ar akcijų platinimas
+#### 43 straipsnis. Tiesioginis investicinių vienetų ar akcijų platinimas
 
 1. Valdymo įmonė, prieš siūlydama investuotojui įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų, turi pasiūlyti jam pateikti informaciją apie jo žinias ir patirtį investavimo srityje, susijusias su konkretaus kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis.
 
@@ -950,17 +944,17 @@ Valdymo įmonė kiekvienam jos valdomam kolektyvinio investavimo subjektui ar in
 
 6. Priežiūros institucija detalizuoja šiame straipsnyje nustatytus tiesioginio investicinių vienetų ar akcijų platinimo reikalavimus.
 
-\#### 44 straipsnis. Investicinių vienetų ar akcijų kaina
+#### 44 straipsnis. Investicinių vienetų ar akcijų kaina
 
 1. Investicinių vienetų ar akcijų kaina nustatoma grynųjų aktyvų vertę padalijus iš visų apyvartoje esančių investicinių vienetų ar akcijų skaičiaus.
 
 2. Kainą, nurodytą šio straipsnio 1 dalyje, galima padidinti su kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimu susijusių atskaitymų dydžiu (jeigu tai numatyta kolektyvinio investavimo subjekto steigimo dokumentuose) tik tuo atveju, jeigu šių atskaitymų dydžiu nebuvo sumažinta grynųjų aktyvų vertė. Mažinti išperkamųjų investicinių vienetų ar akcijų išpirkimo kainą su jų išpirkimu susijusių atskaitymų dydžiu galima tik tuo atveju, jeigu šio atskaitymo dydžiu nebuvo sumažinta grynųjų aktyvų vertė ir nebuvo padidinta pardavimo kaina.
 
-\#### 45 straipsnis. Grynųjų aktyvų vertės nustatymas
+#### 45 straipsnis. Grynųjų aktyvų vertės nustatymas
 
 Grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo subjekto turto rinkos kainą ir vadovaujantis priežiūros institucijos teisės aktuose nustatytais grynųjų aktyvų vertės nustatymo principais, kolektyvinio investavimo subjekto steigimo dokumentuose nustatytomis grynųjų aktyvų vertės nustatymo taisyklėmis.
 
-\#### 46 straipsnis. Investicinių vienetų ar akcijų išpirkimas
+#### 46 straipsnis. Investicinių vienetų ar akcijų išpirkimas
 
 1. Valdymo įmonė ar investicinė bendrovė kolektyvinio investavimo subjekto dalyvio reikalavimu privalo išpirkti jo investicinius vienetus ar akcijas paraiškos išpirkti investicinius vienetus ar akcijas pateikimo dienos kaina, jeigu paraiška pateikiama iki valdymo įmonės ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, nustatyto paraiškos priėmimo laiko pabaigos. Jeigu paraiška pateikiama po nustatyto laiko, investiciniai vienetai ar akcijos privalo būti išpirkti kitos darbo dienos po paraiškos pateikimo kaina, išskyrus paraišką išpirkti nekilnojamojo turto, privataus kapitalo, alternatyvaus kolektyvinio investavimo ir (ar) kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, investicinius vienetus ar akcijas (tokios paraiškos anuliuojamos).
 
@@ -972,7 +966,7 @@ Grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo su
 
 5. Paraišką išpirkti investicinius vienetus ar akcijas, bendrosios jungtinės nuosavybės teise priklausančius sutuoktiniams, turi teisę pateikti vienas iš sutuoktinių, turėdamas kito sutuoktinio išduotą įgaliojimą, kuris gali būti ir paprastos rašytinės formos.
 
-\#### 47 straipsnis. Investicinių vienetų ar akcijų išpirkimo sustabdymas
+#### 47 straipsnis. Investicinių vienetų ar akcijų išpirkimo sustabdymas
 
 1. Teisę sustabdyti investicinių vienetų ar akcijų išpirkimą turi valdymo įmonė, investicinė bendrovė ir priežiūros institucija.
 
@@ -994,13 +988,13 @@ Grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo su
 
 5. Apie išpirkimo sustabdymą nedelsiant raštu turi būti pranešama asmenims, per kuriuos vykdomas išpirkimas, taip pat priežiūros institucijai, o tuo atveju, kai investiciniai vienetai ar akcijos platinami kitose valstybėse narėse ar trečiosiose šalyse, – ir kitų valstybių narių ar trečiųjų šalių priežiūros institucijoms, taip pat apie tai turi būti paskelbiama per visuomenės informavimo priemones, o investuotojus, ketinančius pateikti paraišką įsigyti tokio kolektyvinio investavimo subjekto investicinių vienetų ar akcijų, valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo apie išpirkimo sustabdymą pranešti raštu.
 
-\#### 48 straipsnis. Išpirkimo atnaujinimas
+#### 48 straipsnis. Išpirkimo atnaujinimas
 
 1. Jeigu sprendimą sustabdyti išpirkimą priėmė priežiūros institucija, teisę jį atnaujinti turi tik priežiūros institucija arba teismas ar administracinių ginčų komisija, panaikinę tokį sprendimą. Kitais atvejais tokią teisę turi ir valdymo įmonė ar investicinė bendrovė.
 
 2. Apie sprendimą atnaujinti investicinių vienetų ar akcijų išpirkimą turi būti pranešama tokia pačia tvarka kaip ir apie išpirkimo sustabdymą.
 
-\#### 49 straipsnis. Investicinės kintamojo kapitalo bendrovės akcijų platinimo ypatumai
+#### 49 straipsnis. Investicinės kintamojo kapitalo bendrovės akcijų platinimo ypatumai
 
 1. Parduodant investicinės kintamojo kapitalo bendrovės akcijas, Akcinių bendrovių įstatymo nuostatos, reglamentuojančios akcinių bendrovių akcijų pasirašymą ir apmokėjimą, netaikomos. Investicinių kintamojo kapitalo bendrovių akcijos gali būti pradėtos platinti, kai bendrovė gauna investicinės kintamojo kapitalo bendrovės veiklos licenciją ir priežiūros institucijos leidimą patvirtinti investicinės kintamojo kapitalo bendrovės įstatus, pasirinkti depozitoriumą ir, jeigu taikoma, leidimą kitoje valstybėje narėje licencijuotai valdymo įmonei valdyti Lietuvos Respublikoje įsteigtą investicinę kintamojo kapitalo bendrovę.
 
@@ -1010,9 +1004,9 @@ Grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo su
 
 4. Tik visiškai apmokėtos akcijos laikomos išleistomis ir gali būti įrašomos į akcininko asmeninę perleidžiamųjų vertybinių popierių sąskaitą.
 
-\### TREČIASIS SKIRSNIS. SUDĖTINIAI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
+TREČIASIS SKIRSNIS. SUDĖTINIAI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
-\#### 50 straipsnis. Sudėtinio kolektyvinio investavimo subjekto steigimo dokumentai
+#### 50 straipsnis. Sudėtinio kolektyvinio investavimo subjekto steigimo dokumentai
 
 1. Sudėtinės investicinės bendrovės įstatuose šio įstatymo 72 straipsnio 1 dalies 2, 3, 5 ir 7 punktuose, 126 straipsnio 2 dalies 1 ir 2 punktuose ir 152 straipsnio 2 dalyje nurodyta informacija turi būti pateikta apie kiekvieną ją sudarantį subfondą atskirai. Papildomai apie kiekvieną subfondą investicinės bendrovės įstatuose turi būti nurodoma:
 
@@ -1032,7 +1026,7 @@ Grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo su
 
 2) naujų subfondų steigimo tvarka.
 
-\#### 51 straipsnis. Sudėtiniams kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomi reikalavimai
+#### 51 straipsnis. Sudėtiniams kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomi reikalavimai
 
 1. Sudėtinio kolektyvinio investavimo subjekto valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo laikytis šiame įstatyme ir kituose teisės aktuose nustatytų, atitinkamos rūšies ir tipo kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomų reikalavimų.
 
@@ -1052,17 +1046,17 @@ Grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo su
 
 9. Sudėtinio kolektyvinio investavimo subjekto subfondų jungimui taikomi šiame įstatyme kolektyvinio investavimo subjektų jungimui nustatyti reikalavimai.
 
-\#### 52 straipsnis. Sudėtinės investicinės bendrovės ypatumai
+#### 52 straipsnis. Sudėtinės investicinės bendrovės ypatumai
 
 Sudėtinės investicinės bendrovės visuotiniame akcininkų susirinkime sprendžiant tik su vieno bendrovės subfondo dalyvių interesais susijusį klausimą, balsavimo teisę turi tik to subfondo dalyviai.
 
-\#### 53 straipsnis. Subfondo investicinių vienetų ar akcijų keitimas
+#### 53 straipsnis. Subfondo investicinių vienetų ar akcijų keitimas
 
 Kolektyvinio investavimo subjekto dalyvis gali keisti jo turimus subfondo investicinius vienetus ar akcijas į kito to paties kolektyvinio investavimo subjekto subfondo investicinius vienetus ar akcijas, jeigu kolektyvinio investavimo subjekto steigimo dokumentuose nenustatyta kitaip. Keičiant subfondo investicinius vienetus ar akcijas, draudžiama atskaityti bet kokius su kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimu ar išpirkimu susijusius atskaitymus, išskyrus atskaitymus, tiesiogiai susijusius su investicinių vienetų ar akcijų keitimo išlaidomis.
 
-\### KETVIRTASIS SKIRSNIS. LIETUVOS RESPUBLIKOJE ĮSTEIGTŲ SPECIALIŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ IR SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ, KURIŲ INVESTICINIAI VIENETAI AR AKCIJOS PLATINAMI TIK LIETUVOS RESPUBLIKOJE, JUNGIMAS
+KETVIRTASIS SKIRSNIS. LIETUVOS RESPUBLIKOJE ĮSTEIGTŲ SPECIALIŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ IR SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ, KURIŲ INVESTICINIAI VIENETAI AR AKCIJOS PLATINAMI TIK LIETUVOS RESPUBLIKOJE, JUNGIMAS
 
-\#### 54 straipsnis. Kolektyvinio investavimo subjektų jungimo principai
+#### 54 straipsnis. Kolektyvinio investavimo subjektų jungimo principai
 
 1. Šio skirsnio nuostatos taikomos Lietuvos Respublikoje įsteigtų specialiųjų kolektyvinio investavimo subjektų ir suderintųjų kolektyvinio investavimo subjektų, kurių investiciniai vienetai ar akcijos platinami tik Lietuvos Respublikoje, jungimui.
 
@@ -1086,7 +1080,7 @@ Kolektyvinio investavimo subjekto dalyvis gali keisti jo turimus subfondo invest
 
 3) skirtingų rūšių specialiuosius kolektyvinio investavimo subjektus.
 
-\#### 55 straipsnis. Leidimo jungti kolektyvinio investavimo subjektus išdavimo tvarka
+#### 55 straipsnis. Leidimo jungti kolektyvinio investavimo subjektus išdavimo tvarka
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, norinti gauti leidimą jungti kolektyvinio investavimo subjektus, priežiūros institucijai turi pateikti:
 
@@ -1114,11 +1108,11 @@ Kolektyvinio investavimo subjekto dalyvis gali keisti jo turimus subfondo invest
 
 7. Išsamius jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių parengto bendrųjų jungimo sąlygų projekto turinio reikalavimus nustato priežiūros institucija.
 
-\#### 56 straipsnis. Papildomos jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumų pareigos
+#### 56 straipsnis. Papildomos jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumų pareigos
 
 Jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumai privalo patvirtinti, kad jie patikrino, ar bendrųjų jungimo sąlygų projekte nurodytas jungimo būdas, jungime dalyvaujantys kolektyvinio investavimo subjektai, planuojama jungimo užbaigimo data ir turto perleidimui bei investicinių vienetų ar akcijų keitimui ketinamos taikyti taisyklės atitinka Lietuvos Respublikos teisės aktų ir atitinkamo kolektyvinio investavimo subjekto steigimo dokumentų reikalavimus, ir jokių neatitikimų nenustatė.
 
-\#### 57 straipsnis. Papildomos po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditoriaus ir jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių pareigos
+#### 57 straipsnis. Papildomos po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditoriaus ir jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių pareigos
 
 1. Po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditorius turi patvirtinti:
 
@@ -1128,7 +1122,7 @@ Jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumai prival
 
 2. Jungime dalyvaujantys kolektyvinio investavimo subjektai ar jų valdymo įmonės privalo užtikrinti, kad auditoriaus ataskaitų kopijos būtų pateiktos priežiūros institucijai, taip pat nemokamai teikiamos jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams jų prašymu.
 
-\#### 58 straipsnis. Informacijos teikimo jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams tvarka
+#### 58 straipsnis. Informacijos teikimo jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams tvarka
 
 1. Jungime dalyvaujantys kolektyvinio investavimo subjektai ar jų valdymo įmonės turi pateikti jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams pakankamą ir tikslią informaciją apie jungimą, būtiną tinkamai įvertinti šio jungimo poveikį dalyvių investicijai bei sudaryti dalyviams galimybę priimti pagrįstus sprendimus dėl pasinaudojimo šio įstatymo 60 straipsnyje nurodyta teise.
 
@@ -1152,11 +1146,11 @@ Jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumai prival
 
 5. Priežiūros institucija nustato išsamius jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams teikiamos informacijos turinio, formos ir pateikimo tvarkos reikalavimus.
 
-\#### 59 straipsnis. Sprendimas dėl investicinės bendrovės jungimo
+#### 59 straipsnis. Sprendimas dėl investicinės bendrovės jungimo
 
 Sprendimą dėl investicinės bendrovės jungimo priima visuotinis akcininkų susirinkimas kvalifikuota balsų dauguma, kuri negali būti mažesnė kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų. Bet kuriuo atveju draudžiama nustatyti, kad šis sprendimas turi būti priimamas daugiau kaip 75 procentų visų visuotiniame akcininkų susirinkime dalyvaujančių akcininkų turimų akcijų suteikiamų balsų.
 
-\#### 60 straipsnis. Jungime dalyvaujančių kolektyvinio investavimo subjektų dalyvių teisė ir pasinaudojimo ja tvarka
+#### 60 straipsnis. Jungime dalyvaujančių kolektyvinio investavimo subjektų dalyvių teisė ir pasinaudojimo ja tvarka
 
 1. Jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviai turi teisę reikalauti, kad jų turimi investiciniai vienetai ar akcijos būtų išpirkti arba, jeigu taikoma, konvertuoti į kito suderintojo kolektyvinio investavimo subjekto, kurio investavimo strategija yra panaši ir kuris valdomas tos pačios ar kitos valdymo įmonės, kai šias valdymo įmones sieja bendras valdymas ar kontrolė arba tiesiogiai ar netiesiogiai valdomas kontrolinis jų akcijų paketas, investicinius vienetus ar akcijas be jokių atskaitymų, išskyrus tuos, kuriuos kolektyvinio investavimo subjektas ar jo valdymo įmonė taiko siekdami padengti su tokiais dalyvių reikalavimais susijusias investicijų mažinimo išlaidas.
 
@@ -1164,11 +1158,11 @@ Sprendimą dėl investicinės bendrovės jungimo priima visuotinis akcininkų su
 
 3. Priežiūros institucija, nepažeisdama šio straipsnio 1 ir 2 dalių reikalavimų, turi teisę reikalauti arba leisti pačiai valdymo įmonei ar investicinei bendrovei laikinai sustabdyti investicinių vienetų ar akcijų išleidimą ir (ar) išpirkimą, jeigu tai būtina siekiant apsaugoti investicinių vienetų ar akcijų savininkų interesus.
 
-\#### 61 straipsnis. Su jungimu susijusių išlaidų padengimas
+#### 61 straipsnis. Su jungimu susijusių išlaidų padengimas
 
 Draudžiama iš jungime dalyvaujančių kolektyvinio investavimo subjektų turto arba jų dalyvių sąskaita dengti bet kokias su pasirengimu jungimui, jungimo vykdymu ir jungimo užbaigimu susijusias išlaidas, įskaitant teisines, konsultacines, administracines ar kitas išlaidas. Šis draudimas netaikomas jungime dalyvaujančiai investicinei bendrovei, kurios valdymas neperduotas valdymo įmonei, ir jos akcininkams.
 
-\#### 62 straipsnis. Jungimo užbaigimo tvarka
+#### 62 straipsnis. Jungimo užbaigimo tvarka
 
 1. Kolektyvinio investavimo subjektų jungimas laikomas užbaigtu, kai, konvertavus po jungimo pasibaigsiančio kolektyvinio investavimo subjekto investicinius vienetus ar akcijas į po jungimo veiksiančio kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, atliekami paskutiniai įrašai asmeninėse investicinių vienetų ar akcijų sąskaitose.
 
@@ -1184,7 +1178,7 @@ Draudžiama iš jungime dalyvaujančių kolektyvinio investavimo subjektų turto
 
 5. Po jungimo pasibaigusi investicinė bendrovė turi Juridinių asmenų registre įregistruoti atitinkamus įstatų pakeitimus arba turi būti likviduojama Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\#### 63 straipsnis. Įvykdyto jungimo pasekmės
+#### 63 straipsnis. Įvykdyto jungimo pasekmės
 
 1. Šiame skirsnyje nustatyta tvarka įvykdytas jungimas negali būti pripažintas niekiniu ar negaliojančiu.
 
@@ -1196,17 +1190,15 @@ Draudžiama iš jungime dalyvaujančių kolektyvinio investavimo subjektų turto
 
 3) po jungimo pasibaigsiantis kolektyvinio investavimo subjektas nustoja veikti kaip kolektyvinio investavimo subjektas, kai jungimas užbaigiamas.
 
-\#### 64 straipsnis. Patvirtinimo apie turto ir įsipareigojimų perdavimą tvarka
+#### 64 straipsnis. Patvirtinimo apie turto ir įsipareigojimų perdavimą tvarka
 
 Po jungimo veiksiančio kolektyvinio investavimo subjekto valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo priežiūros institucijos nustatyta tvarka patvirtinti savo depozitoriumui apie įvykusį kolektyvinio investavimo subjekto turto ir įsipareigojimų perdavimą.
 
-\## V SKYRIUS
+## V SKYRIUS
 
-\### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS. Investicinis fondas
 
-**Investicinis fondas**
-
-\#### 65 straipsnis. Investicinio fondo steigimas
+#### 65 straipsnis. Investicinio fondo steigimas
 
 Valdymo įmonės valdybos sprendime dėl investicinio fondo steigimo turi būti nurodyta:
 
@@ -1216,7 +1208,7 @@ Valdymo įmonės valdybos sprendime dėl investicinio fondo steigimo turi būti 
 
 3) investiciniam fondui įsteigti skiriama pradinė suma.
 
-\#### 66 straipsnis. Investicinio fondo taisyklės
+#### 66 straipsnis. Investicinio fondo taisyklės
 
 1. Investicinio fondo taisyklės turi būti patvirtintos valdymo įmonės valdybos sprendimu.
 
@@ -1264,7 +1256,7 @@ Valdymo įmonės valdybos sprendime dėl investicinio fondo steigimo turi būti 
 
 5. Reikalavimas gauti išankstinį priežiūros institucijos leidimą atnaujinti investicinio fondo taisykles netaikomas, tačiau valdymo įmonė turi nedelsdama, bet ne vėliau kaip per 7 dienas nuo taisyklių atnaujinimo, pateikti priežiūros institucijai atnaujintas investicinio fondo taisykles. Atvejus, kurie yra laikomi investicinio fondo taisyklių atnaujinimu, nustato priežiūros institucija.
 
-\#### 67 straipsnis. Investicinio fondo dalyvių teisės
+#### 67 straipsnis. Investicinio fondo dalyvių teisės
 
 1. Investicinio fondo dalyvis turi šias teises:
 
@@ -1278,19 +1270,19 @@ Valdymo įmonės valdybos sprendime dėl investicinio fondo steigimo turi būti 
 
 2. Atvirojo tipo investicinio fondo dalyvis turi teisę bet kada pareikalauti, kad valdymo įmonė išpirktų jo turimus investicinio fondo investicinius vienetus.
 
-\#### 68 straipsnis. Atlyginimas ir kitos iš investicinį fondą sudarančių lėšų dengiamos išlaidos
+#### 68 straipsnis. Atlyginimas ir kitos iš investicinį fondą sudarančių lėšų dengiamos išlaidos
 
 1. Atlyginimas valdymo įmonei už investicinio fondo valdymą, depozitoriumui už depozitoriumo paslaugas ir kitos išlaidos, susijusios su investiciniu fondu, mokami iš investicinį fondą sudarančių lėšų.
 
 2. Iš investicinį fondą sudarančių lėšų galima apmokėti tik tas išlaidas, kurios susijusios su investicinio fondo valdymu ir numatytos investicinio fondo taisyklėse. Šių išlaidų suma negali viršyti fondo taisyklėse nustatytų fondo išlaidų ribų. Visos kitos investicinio fondo taisyklėse nenumatytos arba nustatytas ribas viršijančios išlaidos turi būti dengiamos valdymo įmonės sąskaita.
 
-\#### 69 straipsnis. Investicinio fondo pelno paskirstymas
+#### 69 straipsnis. Investicinio fondo pelno paskirstymas
 
 1. Investicinio fondo dalyviams investicinių pajamų dalis (išmokos grynaisiais pinigais) mokama tik tuo atveju, jeigu tai numatyta investicinio fondo taisyklėse. Taip pat investicinio fondo taisyklėse turi būti numatytas tokių išmokų periodiškumas, investicinių pajamų (pelno) dalis, kuri bus skiriama toms išmokoms, ir išmokėjimo tvarka.
 
 2. Investicinio fondo pelnas paskirstomas per šio investicinio fondo depozitoriumą.
 
-\#### 70 straipsnis. Valdymo įmonės teisės valdyti investicinį fondą pasibaigimas
+#### 70 straipsnis. Valdymo įmonės teisės valdyti investicinį fondą pasibaigimas
 
 Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
@@ -1304,7 +1296,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 5) kitais teisės aktuose arba investicinio fondo taisyklėse numatytais atvejais.
 
-\#### 71 straipsnis. Investicinio fondo panaikinimas
+#### 71 straipsnis. Investicinio fondo panaikinimas
 
 1. Investicinis fondas panaikinamas jį sudarantį turtą padalijus investicinio fondo taisyklėse ir šiame įstatyme nustatytais atvejais ir tvarka. Sprendimą panaikinti investicinį fondą gali priimti valdymo įmonės valdyba, priežiūros institucija ir depozitoriumo valdyba šiame įstatyme ir investicinio fondo taisyklėse nustatytais pagrindais.
 
@@ -1318,9 +1310,9 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 6. Panaikinusi investicinį fondą, valdymo įmonė privalo nedelsdama pateikti priežiūros institucijai tokio investicinio fondo steigimo dokumentus kartu su prašymu pripažinti juos netekusiais galios, finansinių ataskaitų rinkinį, sudarytą pagal investicinio fondo panaikinimo dienos duomenis, šio rinkinio audito išvadą ir audito ataskaitą, kurioje pateikiama šio įstatymo 14 straipsnio 6 dalyje nurodyta informacija.
 
-\### ANTRASIS SKIRSNIS. INVESTICINĖ KINTAMOJO KAPITALO BENDROVĖ
+ANTRASIS SKIRSNIS. INVESTICINĖ KINTAMOJO KAPITALO BENDROVĖ
 
-\#### 72 straipsnis. Investicinės kintamojo kapitalo bendrovės įstatai
+#### 72 straipsnis. Investicinės kintamojo kapitalo bendrovės įstatai
 
 1. Be bendrovės įstatams Akcinių bendrovių įstatyme nustatytų reikalavimų, investicinės kintamojo kapitalo bendrovės įstatuose turi būti nurodyta:
 
@@ -1350,7 +1342,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 6. Reikalavimas gauti išankstinį priežiūros institucijos leidimą atnaujinti investicinės kintamojo kapitalo bendrovės įstatus netaikomas, tačiau valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, turi nedelsdama, bet ne vėliau kaip per 7 dienas nuo įstatų atnaujinimo, pateikti priežiūros institucijai atnaujintus įstatus. Atvejus, kurie yra laikomi investicinės bendrovės įstatų atnaujinimu, nustato priežiūros institucija.
 
-\#### 73 straipsnis. Investicinės kintamojo kapitalo bendrovės išperkamosios akcijos
+#### 73 straipsnis. Investicinės kintamojo kapitalo bendrovės išperkamosios akcijos
 
 1. Visos investicinės kintamojo kapitalo bendrovės akcijos gali būti tik paprastosios vardinės.
 
@@ -1358,7 +1350,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 3. Investicinei kintamojo kapitalo bendrovei draudžiama turėti savo akcijų.
 
-\#### 74 straipsnis. Investicinės kintamojo kapitalo bendrovės valdymo sutartis
+#### 74 straipsnis. Investicinės kintamojo kapitalo bendrovės valdymo sutartis
 
 1. Valdymo įmonės ir investicinės kintamojo kapitalo bendrovės valdymo sutartyje turi būti numatyta:
 
@@ -1380,13 +1372,11 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 2. Investicinės kintamojo kapitalo bendrovės valdymo sutarties kopija turi būti pateikiama priežiūros institucijai ir depozitoriumui.
 
-\## VI SKYRIUS. SUDERINTIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
+VI SKYRIUS. SUDERINTIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
-\### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS. SUDERINTŲJŲ kolektyvinio investavimo subjektų investavimo taisyklės
 
-**SUDERINTŲJŲ kolektyvinio investavimo subjektų investavimo taisyklės**
-
-\#### 75 straipsnis. Investavimo objektai
+#### 75 straipsnis. Investavimo objektai
 
 1. Suderintojo kolektyvinio investavimo subjekto turtą gali sudaryti tik:
 
@@ -1426,7 +1416,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 7. Priežiūros institucija turi teisę išsamiai apibrėžti suderintųjų kolektyvinio investavimo subjektų investavimo objektams taikomus reikalavimus.
 
-\#### 76 straipsnis. Investicijų portfelio diversifikavimas
+#### 76 straipsnis. Investicijų portfelio diversifikavimas
 
 1. Į vieno asmens išleistus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai suderintojo kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir 6 dalyse nustatytus atvejus.
 
@@ -1444,7 +1434,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
 
-\#### 77 straipsnis. Draudimas įgyti esminį poveikį vertybinius popierius ar pinigų rinkos priemones išleidžiančiam asmeniui
+#### 77 straipsnis. Draudimas įgyti esminį poveikį vertybinius popierius ar pinigų rinkos priemones išleidžiančiam asmeniui
 
 1. Valdymo įmonės ar investicinės kintamojo kapitalo bendrovės turimos kurio nors akcijas išleidžiančio asmens akcijos kartu su valdymo įmonės valdomų suderintųjų kolektyvinio investavimo subjektų turimomis to asmens akcijomis negali suteikti daugiau kaip 1/10 visų balsavimo teisių akcijas išleidžiančio asmens visuotiniame akcininkų susirinkime.
 
@@ -1462,7 +1452,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 4. Šio straipsnio 2 dalies 2 ir 4 punktuose nustatytos ribos netaikomos perleidžiamiesiems vertybiniams popieriams ir pinigų rinkos priemonėms, kurias išleido ar garantavo valstybė ar savivaldybės.
 
-\#### 78 straipsnis. Indekso investicinio fondo ar indekso investicinės kintamojo kapitalo bendrovės ypatumai
+#### 78 straipsnis. Indekso investicinio fondo ar indekso investicinės kintamojo kapitalo bendrovės ypatumai
 
 1. Indekso investiciniu fondu ar indekso investicine kintamojo kapitalo bendrove vadinamas toks fondas ar bendrovė, kurių steigimo dokumentuose numatytas vienintelis tikslas – atkartoti priežiūros institucijos pripažintą akcijų, obligacijų ar kitų formų ne nuosavybės vertybinių popierių indekso sudėtį, įskaitant išvestinių finansinių priemonių arba kitų priemonių ar būdų, numatytų šio įstatymo 80 straipsnio 3 dalyje, naudojimą, tiesiogiai ar netiesiogiai investuojant į indeksą sudarančias investicines priemones. Priežiūros institucija turi teisę pripažinti tik tokius indeksus, kurie atitinka visas šias sąlygas:
 
@@ -1474,7 +1464,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 2. Į vieno emitento akcijas, obligacijas ar kitų formų ne nuosavybės vertybinius popierius gali būti investuota iki 20 procentų indekso investicinio fondo ar investicinės kintamojo kapitalo bendrovės grynųjų aktyvų. Priežiūros institucijai sutikus, jeigu tai būtina dėl ypatingų sąlygų reguliuojamoje rinkoje dominuojant vienam emitentui, į jo akcijas, obligacijas ar kitų formų ne nuosavybės vertybinius popierius gali būti investuojama iki 35 procentų grynųjų aktyvų. Šiuo atveju kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumente turi būti pateikiama tokias išskirtines sąlygas pagrindžianti informacija.
 
-\#### 79 straipsnis. Investavimas į kitus kolektyvinio investavimo subjektus
+#### 79 straipsnis. Investavimas į kitus kolektyvinio investavimo subjektus
 
 1. Leidžiama investuoti į suderintųjų kolektyvinio investavimo subjektų investicinius vienetus ir akcijas bei į tokių kolektyvinio investavimo subjektų investicinius vienetus ir akcijas, kurie atitinka šias sąlygas:
 
@@ -1492,7 +1482,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 4. Susijusiais laikomi tokie kolektyvinio investavimo subjektai, kuriuos valdo ta pati valdymo įmonė ar tokios valdymo įmonės, kurių daugiau negu pusė valdymo organų narių yra tie patys asmenys arba kurias kontroliuoja tas pats asmuo, arba kurių viena turi daugiau kaip 10 procentų balsų kitos valdymo įmonės visuotiniame akcininkų susirinkime. Susijusių kolektyvinio investavimo subjektų investiciniai vienetai arba akcijos gali būti įsigyjami tik už grynųjų aktyvų vertę.
 
-\#### 80 straipsnis. Investavimas į išvestines finansines priemones
+#### 80 straipsnis. Investavimas į išvestines finansines priemones
 
 1. Leidžiama investuoti tik į išvestines finansines priemones (įskaitant ir tas, kurios suteikia teisę tik gauti pinigus), kurios atitinka šias sąlygas:
 
@@ -1518,7 +1508,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 5. Rizikos apimtis sandoriuose dėl išvestinių finansinių priemonių, sudarytuose už šio įstatymo 75 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų rinkų ribų, negali būti didesnė kaip 5 procentai kolektyvinio investavimo subjekto grynųjų aktyvų vertės, o tuo atveju, jeigu kita sandorio šalis yra šio įstatymo 76 straipsnio 6 dalyje nurodyta kredito įstaiga, – ne didesnė kaip 10 procentų grynųjų aktyvų vertės.
 
-\#### 81 straipsnis. Informavimas apie investavimo strategiją
+#### 81 straipsnis. Informavimas apie investavimo strategiją
 
 1. Prospekte ir reklaminio pobūdžio informacijoje investavimo strategija turi būti aiškiai nurodyta tais atvejais, kai:
 
@@ -1528,7 +1518,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 2. Investuotojo prašymu valdymo įmonė arba investicinė kintamojo kapitalo bendrovė turi pateikti papildomos informacijos, susijusios su kolektyvinio investavimo subjekto kiekybinėmis rizikos valdymo ribomis, jos valdymo metodais ir naujausiais pagrindinių priemonių rizikos pasikeitimais.
 
-\#### 82 straipsnis. Laikinas investavimo taisyklių nesilaikymas
+#### 82 straipsnis. Laikinas investavimo taisyklių nesilaikymas
 
 1. Kolektyvinio investavimo subjektas ar jo valdymo įmonė gali nesilaikyti šiame skirsnyje nustatytų investavimo apribojimų, jeigu jis (ji) pasinaudoja turimų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės ar investicinės kintamojo kapitalo bendrovės, neatitiktis turi būti pašalinta kiek įmanoma greičiau, bet ne vėliau kaip per 6 mėnesius.
 
@@ -1536,9 +1526,9 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 3. Šiame skirsnyje nustatytus reikalavimus pažeidusi valdymo įmonė ar investicinė kintamojo kapitalo bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo nedelsdama apie pažeidimą raštu pranešti priežiūros institucijai, nurodydama pažeidimo priežastis, priemones, kurių ji ketina imtis padėčiai ištaisyti, ir numatomą pažeidimo ištaisymo terminą.
 
-\### ANTRASIS SKIRSNIS. FINANSUOJAMŲJŲ IR FINANSUOJANČIŲJŲ SUBJEKTŲ STRUKTŪRA
+ANTRASIS SKIRSNIS. FINANSUOJAMŲJŲ IR FINANSUOJANČIŲJŲ SUBJEKTŲ STRUKTŪRA
 
-\#### 83 straipsnis. Finansuojamųjų ir finansuojančiųjų subjektų struktūros taikymas
+#### 83 straipsnis. Finansuojamųjų ir finansuojančiųjų subjektų struktūros taikymas
 
 1. Kolektyvinio investavimo subjektas arba jo subfondas gali būti finansuojamuoju arba finansuojančiuoju subjektu, kaip nustatyta šiame skirsnyje.
 
@@ -1546,7 +1536,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 3. Šio skirsnio nuostatos specialiesiems kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomos mutatis mutandis.
 
-\#### 84 straipsnis. Finansuojamojo ir finansuojančiojo subjektų ypatumai
+#### 84 straipsnis. Finansuojamojo ir finansuojančiojo subjektų ypatumai
 
 1. Finansuojančiajam subjektui investuojant į finansuojamąjį subjektą ne mažiau kaip 85 procentus savo grynųjų aktyvų, šių investicijų atžvilgiu leidžiama nesilaikyti suderintojo kolektyvinio investavimo subjekto sąvokoje, apibrėžtoje šio įstatymo 2 straipsnio 42 dalyje, nurodyto vienintelio jo tikslo požymio, taip pat nesilaikyti šio įstatymo 75 ir 76 straipsniuose nustatytų suderintųjų kolektyvinio investavimo subjektų investavimo objektų ir investicijų portfelio diversifikavimo reikalavimų bei šio įstatymo 77 straipsnio 2 dalies 3 punkte ir 79 straipsnyje investavimui į kitus kolektyvinio investavimo subjektus nustatyto reikalavimo.
 
@@ -1554,7 +1544,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 3. Jeigu finansuojamasis subjektas nekaupia asmenų lėšų viešai siūlydamas savo investicinius vienetus ar akcijas ne jo buveinės valstybėje narėje, tačiau šioje valstybėje narėje turi vieną ar daugiau finansuojančiųjų subjektų, jam netaikomi kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo kitoje valstybėje narėje ar Lietuvos Respublikoje reikalavimai, nustatyti šio įstatymo 115 ar 120 straipsnyje.
 
-\#### 85 straipsnis. Leidimo finansuojančiajam subjektui investuoti į finansuojamąjį subjektą išdavimo tvarka
+#### 85 straipsnis. Leidimo finansuojančiajam subjektui investuoti į finansuojamąjį subjektą išdavimo tvarka
 
 1. Lietuvos Respublikoje įsteigtas kolektyvinio investavimo subjektas, ketinantis tapti finansuojančiuoju subjektu, ar jo valdymo įmonė privalo gauti išankstinį priežiūros institucijos leidimą viršyti šio įstatymo 79 straipsnio 2 dalyje nustatytą investavimo ribą (toliau šiame straipsnyje – leidimas).
 
@@ -1586,7 +1576,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 2) įsigaliojus šio įstatymo 99 straipsnyje nurodytam auditorių susitarimui dėl keitimosi informacija (kai finansuojamojo ir finansuojančiojo subjektų auditą atlieka skirtingi auditoriai).
 
-\#### 86 straipsnis. Finansuojamojo ir finansuojančiojo subjektų susitarimas dėl dokumentų ir informacijos pateikimo
+#### 86 straipsnis. Finansuojamojo ir finansuojančiojo subjektų susitarimas dėl dokumentų ir informacijos pateikimo
 
 1. Finansuojantysis subjektas ar jo valdymo įmonė privalo su finansuojamuoju subjektu ar jo valdymo įmone sudaryti susitarimą, užtikrinantį, kad finansuojamasis subjektas ar jo valdymo įmonė pateiks jam ar jo valdymo įmonei visus šiame įstatyme ir kituose teisės aktuose nustatytoms finansuojančiojo subjekto funkcijoms atlikti reikalingus dokumentus ir informaciją.
 
@@ -1596,7 +1586,7 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 4. Priežiūros institucija nustato finansuojamojo ir finansuojančiojo subjektų ar jų valdymo įmonių susitarimo dėl dokumentų ir informacijos pateikimo bei valdymo įmonės veiklos vidaus taisyklių turinio reikalavimus.
 
-\#### 87 straipsnis. Finansuojamojo ir finansuojančiojo subjektų prospektai, metų ir pusmečio ataskaitos
+#### 87 straipsnis. Finansuojamojo ir finansuojančiojo subjektų prospektai, metų ir pusmečio ataskaitos
 
 1. Priežiūros institucija nustato papildomus finansuojančiojo subjekto prospekto turinio reikalavimus.
 
@@ -1606,21 +1596,21 @@ Valdymo įmonės teisė valdyti investicinį fondą pasibaigia:
 
 4. Finansuojantysis subjektas ar jo valdymo įmonė popieriuje išspausdintas finansuojamojo subjekto prospekto, metų ir pusmečio ataskaitų kopijas investuotojų prašymu privalo jiems pateikti nemokamai.
 
-\#### 88 straipsnis. Pareiga perduoti informaciją depozitoriumui
+#### 88 straipsnis. Pareiga perduoti informaciją depozitoriumui
 
 Finansuojančiojo subjekto valdymo įmonė, o jeigu finansuojančiojo subjekto valdymas neperduotas valdymo įmonei, – pats finansuojantysis subjektas yra atsakingi už visos su finansuojamuoju subjektu susijusios ir tinkamam finansuojančiojo subjekto depozitoriumo pareigų atlikimui reikalingos informacijos perdavimą finansuojančiojo subjekto depozitoriumui.
 
-\#### 89 straipsnis. Pareiga koordinuoti grynųjų aktyvų vertės skaičiavimo ir paskelbimo laiką
+#### 89 straipsnis. Pareiga koordinuoti grynųjų aktyvų vertės skaičiavimo ir paskelbimo laiką
 
 Finansuojamasis ir finansuojantysis subjektai ar jų valdymo įmonės privalo siekti, kad būtų išvengta bet kokio neteisėto naudos, atsirandančios dėl pasirinkto skirtingo laiko šių subjektų grynųjų aktyvų vertei nustatyti, gavimo ir būtų užkirstas kelias pasinaudoti grynųjų aktyvų verčių skirtumais. Šiuo tikslu abu subjektai ar jų valdymo įmonės privalo imtis visų reikalingų priemonių jų grynųjų aktyvų vertės skaičiavimo ir paskelbimo laikui koordinuoti.
 
-\#### 90 straipsnis. Reikalavimai finansuojančiajam subjektui ar jo valdymo įmonei
+#### 90 straipsnis. Reikalavimai finansuojančiajam subjektui ar jo valdymo įmonei
 
 1. Finansuojantysis subjektas ar jo valdymo įmonė privalo veiksmingai stebėti finansuojamojo subjekto veiklą. Atlikdami šią pareigą, finansuojantysis subjektas ar jo valdymo įmonė gali vadovautis iš finansuojamojo subjekto, jo valdymo įmonės, depozitoriumo ir auditoriaus gauta informacija bei dokumentais, išskyrus atvejus, kai yra pagrindas abejoti šios informacijos ir dokumentų teisingumu.
 
 2. Jeigu finansuojantysis subjektas, jo valdymo įmonė arba bet kuris kitas finansuojančiojo subjekto ar jo valdymo įmonės vardu veikiantis asmuo gauna su investavimu į finansuojamojo subjekto investicinius vienetus ar akcijas susijusį platinimo mokestį, komisinius ar kitą piniginę naudą, jie turi būti įskaitomi į finansuojančiojo subjekto turtą.
 
-\#### 91 straipsnis. Reikalavimai finansuojamajam subjektui ar jo valdymo įmonei
+#### 91 straipsnis. Reikalavimai finansuojamajam subjektui ar jo valdymo įmonei
 
 1. Lietuvos Respublikoje įsteigtas finansuojamasis subjektas ar jo valdymo įmonė turi nedelsdami pateikti priežiūros institucijai kiekvieno į jo investicinius vienetus ar akcijas investuojančio finansuojančiojo subjekto identifikacinius duomenis. Jeigu finansuojantysis subjektas yra įsteigtas kitoje valstybėje narėje, priežiūros institucija šią informaciją nedelsdama perduoda finansuojančiojo subjekto buveinės valstybės narės priežiūros institucijai.
 
@@ -1628,7 +1618,7 @@ Finansuojamasis ir finansuojantysis subjektai ar jų valdymo įmonės privalo si
 
 3. Finansuojamasis subjektas ar jo valdymo įmonė privalo užtikrinti, kad finansuojančiajam subjektui ar jo valdymo įmonei, priežiūros institucijai ar finansuojančiojo subjekto buveinės valstybės narės priežiūros institucijai (kai finansuojantysis subjektas įsteigtas kitoje valstybėje narėje), depozitoriumui ir auditoriui būtų laiku pateikta visa šiame įstatyme, kituose teisės aktuose ir finansuojamojo subjekto steigimo dokumentuose nustatyta informacija.
 
-\#### 92 straipsnis. Kolektyvinio investavimo subjekto, ketinančio tapti finansuojančiuoju subjektu, ir finansuojančiojo subjekto, ketinančio tapti kito finansuojamojo subjekto finansuojančiuoju subjektu, dalyviams teikiama informacija
+#### 92 straipsnis. Kolektyvinio investavimo subjekto, ketinančio tapti finansuojančiuoju subjektu, ir finansuojančiojo subjekto, ketinančio tapti kito finansuojamojo subjekto finansuojančiuoju subjektu, dalyviams teikiama informacija
 
 1. Kolektyvinio investavimo subjektas, ketinantis tapti finansuojančiuoju subjektu, ar jo valdymo įmonė arba finansuojantysis subjektas, ketinantis tapti kito finansuojamojo subjekto finansuojančiuoju subjektu, ar jo valdymo įmonė šio subjekto dalyviams turi pateikti šią informaciją:
 
@@ -1652,17 +1642,17 @@ Finansuojamasis ir finansuojantysis subjektai ar jų valdymo įmonės privalo si
 
 7. Priežiūros institucija nustato šio straipsnio 1 dalyje nurodytos informacijos teikimo investicinių vienetų ar akcijų savininkams tvarką.
 
-\#### 93 straipsnis. Finansuojančiojo subjekto ar jo valdymo įmonės teisė sustabdyti investicinių vienetų ar akcijų išleidimą ar išpirkimą
+#### 93 straipsnis. Finansuojančiojo subjekto ar jo valdymo įmonės teisė sustabdyti investicinių vienetų ar akcijų išleidimą ar išpirkimą
 
 1. Lietuvos Respublikoje įsteigtam finansuojamajam subjektui jo paties ar jo valdymo įmonės iniciatyva arba priežiūros institucijos reikalavimu laikinai sustabdžius investicinių vienetų ar akcijų išleidimą ar išpirkimą, kiekvienas Lietuvos Respublikoje įsteigtas finansuojamojo subjekto finansuojantysis subjektas ar jo valdymo įmonė įgyja teisę, nesilaikydami šio įstatymo 47 straipsnyje nustatytų reikalavimų, tam pačiam laikotarpiui sustabdyti finansuojančiojo subjekto investicinių vienetų ar akcijų išleidimą ar išpirkimą.
 
 2. Kitoje valstybėje narėje įsteigtam finansuojamajam subjektui jo paties ar jo valdymo įmonės iniciatyva arba finansuojamojo subjekto buveinės valstybės narės priežiūros institucijos reikalavimu laikinai sustabdžius investicinių vienetų ar akcijų išleidimą ar išpirkimą, kiekvienas Lietuvos Respublikoje įsteigtas finansuojamojo subjekto finansuojantysis subjektas ar jo valdymo įmonė įgyja teisę, nesilaikydami šio įstatymo 47 straipsnyje nustatytų reikalavimų, tam pačiam laikotarpiui sustabdyti finansuojančiojo subjekto investicinių vienetų ar akcijų išleidimą ar išpirkimą.
 
-\#### 94 straipsnis. Finansuojančiojo subjekto reklama
+#### 94 straipsnis. Finansuojančiojo subjekto reklama
 
 Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informacijoje turi nurodyti, kad finansuojantysis subjektas ne mažiau kaip 85 procentus savo grynųjų aktyvų nuolat investuoja į konkretaus finansuojamojo subjekto investicinius vienetus ar akcijas.
 
-\#### 95 straipsnis. Finansuojamojo subjekto panaikinimas arba likvidavimas
+#### 95 straipsnis. Finansuojamojo subjekto panaikinimas arba likvidavimas
 
 1. Jeigu finansuojamasis subjektas yra panaikinamas arba likviduojamas, jo finansuojantysis subjektas taip pat privalo būti panaikinamas arba likviduojamas, išskyrus atvejus, kai finansuojančiojo subjekto ar jo valdymo įmonės prašymu priežiūros institucija (kai finansuojantysis subjektas įsteigtas Lietuvos Respublikoje) ar finansuojančiojo subjekto buveinės valstybės narės priežiūros institucija (kai finansuojantysis subjektas įsteigtas kitoje valstybėje narėje):
 
@@ -1674,7 +1664,7 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 3. Priežiūros institucija nustato finansuojamojo subjekto – investicinio fondo – panaikinimo ir finansuojamojo subjekto – investicinės bendrovės – likvidavimo tvarką.
 
-\#### 96 straipsnis. Finansuojamojo subjekto jungimas arba skaidymas
+#### 96 straipsnis. Finansuojamojo subjekto jungimas arba skaidymas
 
 1. Finansuojamąjį subjektą jungiant su kitu kolektyvinio investavimo subjektu arba skaidant į du ar daugiau kolektyvinio investavimo subjektų, finansuojantysis subjektas panaikinamas arba likviduojamas, išskyrus atvejus, kai priežiūros institucija (kai finansuojantysis subjektas įsteigtas Lietuvos Respublikoje) ar finansuojančiojo subjekto buveinės valstybės narės priežiūros institucija (kai finansuojantysis subjektas įsteigtas kitoje valstybėje narėje) finansuojančiojo subjekto ar jo valdymo įmonės prašymu išduoda vieną iš šių leidimų:
 
@@ -1690,7 +1680,7 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 4. Priežiūros institucija nustato finansuojamojo subjekto jungimo ir skaidymo tvarką.
 
-\#### 97 straipsnis. Finansuojančiojo subjekto investavimo objektai ir rizikos apimties skaičiavimas
+#### 97 straipsnis. Finansuojančiojo subjekto investavimo objektai ir rizikos apimties skaičiavimas
 
 1. Ne daugiau kaip 15 procentų finansuojančiojo subjekto turto gali sudaryti:
 
@@ -1706,7 +1696,7 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 2) galima didžiausia finansuojamojo subjekto pagal sandorius dėl išvestinių finansinių priemonių prisiimta rizikos apimtimi, nustatyta finansuojamojo subjekto steigimo dokumentuose proporcingai finansuojančiojo subjekto investicijoms į finansuojamąjį subjektą.
 
-\#### 98 straipsnis. Reikalavimai finansuojamojo ir finansuojančiojo subjektų depozitoriumams
+#### 98 straipsnis. Reikalavimai finansuojamojo ir finansuojančiojo subjektų depozitoriumams
 
 1. Jeigu finansuojamojo ir finansuojančiojo subjektų turtas saugomas skirtinguose depozitoriumuose, šie depozitoriumai, siekdami užtikrinti kiekvieno jų pareigų atlikimą, privalo sudaryti susitarimą dėl keitimosi informacija.
 
@@ -1714,7 +1704,7 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 3. Priežiūros institucija nustato finansuojamojo ir finansuojančiojo subjektų depozitoriumų susitarimo dėl keitimosi informacija turinį.
 
-\#### 99 straipsnis. Reikalavimai finansuojamojo ir finansuojančiojo subjektų auditoriams
+#### 99 straipsnis. Reikalavimai finansuojamojo ir finansuojančiojo subjektų auditoriams
 
 1. Jeigu finansuojamojo ir finansuojančiojo subjektų auditą atlieka skirtingi auditoriai, šie auditoriai turi sudaryti susitarimą dėl keitimosi informacija, įskaitant nuostatas dėl šio straipsnio 2 ir 3 dalyse nustatytų reikalavimų laikymosi.
 
@@ -1724,7 +1714,7 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 4. Priežiūros institucija nustato finansuojamojo ir finansuojančiojo subjektų auditorių susitarimo dėl keitimosi informacija turinį.
 
-\#### 100 straipsnis. Finansuojamojo ir finansuojančiojo subjektų veiklos priežiūra
+#### 100 straipsnis. Finansuojamojo ir finansuojančiojo subjektų veiklos priežiūra
 
 1. Priežiūros institucija nedelsdama praneša apie kiekvieną su finansuojamuoju subjektu, jo valdymo įmone, depozitoriumu ar auditoriumi susijusį sprendimą, pritaikytą poveikio priemonę, šio skirsnio nuostatų nesilaikymą ir kitą šio įstatymo 14 straipsnio pagrindu iš finansuojamojo subjekto auditoriaus gautą informaciją:
 
@@ -1734,11 +1724,11 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 2. Jeigu finansuojamasis subjektas įsteigtas kitoje valstybėje narėje, o finansuojantysis subjektas – Lietuvos Respublikoje, priežiūros institucija, gavusi finansuojamojo subjekto buveinės valstybės narės priežiūros institucijos pranešimą apie bet kokį su finansuojamuoju subjektu, jo valdymo įmone, depozitoriumu ar auditoriumi susijusį sprendimą, pritaikytą poveikio priemonę, veiklai keliamų reikalavimų nesilaikymą ir kitą finansuojamojo subjekto buveinės valstybės narės priežiūros institucijos iš finansuojamojo subjekto auditoriaus gautą informaciją, nedelsdama apie tai praneša finansuojančiajam subjektui.
 
-\### TREČIASIS SKIRSNIS
+### TREČIASIS SKIRSNIS
 
 **LIETUVOS RESPUBLIKOJE ĮSTEIGTŲ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ jungimas su kitose valstybėse narėse įsteigtais suderintaisiais kolektyvinio investavimo subjektais iR lietuvos respublikoje įsteigtų suderintųjų kolektyvinio investavimo subjektų, KURIŲ INVESTICINIAI VIENETAI AR AKCIJOS PLATINAMi KITOJE VALSTYBĖJE NARĖJE, JUNGIMAS**
 
-\#### 101 straipsnis. Suderintųjų kolektyvinio investavimo subjektų jungimo principai
+#### 101 straipsnis. Suderintųjų kolektyvinio investavimo subjektų jungimo principai
 
 1. Šiame skirsnyje vartojama suderintojo kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
 
@@ -1762,7 +1752,7 @@ Finansuojantysis subjektas ar jo valdymo įmonė reklaminio pobūdžio informaci
 
 5. Lietuvos Respublikoje įsteigtų suderintųjų kolektyvinio investavimo subjektų jungimu šiame skirsnyje laikomas toks jungimas, kai bent vienas iš jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių yra gavę šio įstatymo 115 straipsnio 4 dalyje nurodytą priežiūros institucijos pranešimą apie dokumentų perdavimą atitinkamo kolektyvinio investavimo subjekto priimančiosios valstybės narės priežiūros institucijai.
 
-\#### 102 straipsnis. Suderintųjų kolektyvinio investavimo subjektų jungimo būdai
+#### 102 straipsnis. Suderintųjų kolektyvinio investavimo subjektų jungimo būdai
 
 Suderintųjų kolektyvinio investavimo subjektų jungimas gali būti vykdomas šiais būdais:
 
@@ -1772,7 +1762,7 @@ Suderintųjų kolektyvinio investavimo subjektų jungimas gali būti vykdomas š
 
 3) vienas ar daugiau suderintųjų kolektyvinio investavimo subjektų arba jų subfondų (po jungimo pasibaigsiantis kolektyvinio investavimo subjektas) savo grynuosius aktyvus perleidžia bet kuriam kitam jungime dalyvaujančio suderintojo kolektyvinio investavimo subjekto subfondui, jų pagrindu steigiamam naujam suderintajam kolektyvinio investavimo subjektui arba jo subfondui ar kitam veikiančiam suderintajam kolektyvinio investavimo subjektui arba jo subfondui (po jungimo veiksiantis kolektyvinio investavimo subjektas), o po jungimo pasibaigsiantis kolektyvinio investavimo subjektas veikia tol, kol įvykdo visus prisiimtus įsipareigojimus.
 
-\#### 103 straipsnis. Leidimo jungti Lietuvos Respublikoje įsteigtą po jungimo pasibaigsiantį kolektyvinio investavimo subjektą išdavimo tvarka
+#### 103 straipsnis. Leidimo jungti Lietuvos Respublikoje įsteigtą po jungimo pasibaigsiantį kolektyvinio investavimo subjektą išdavimo tvarka
 
 1. Lietuvos Respublikoje įsteigto po jungimo pasibaigsiančio kolektyvinio investavimo subjekto jungimui reikalingas išankstinis priežiūros institucijos leidimas.
 
@@ -1814,11 +1804,11 @@ Suderintųjų kolektyvinio investavimo subjektų jungimas gali būti vykdomas š
 
 11. Priežiūros institucija nustato išsamius jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių parengto bendrųjų jungimo sąlygų projekto turinio reikalavimus.
 
-\#### 104 straipsnis. Papildomos jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumų pareigos
+#### 104 straipsnis. Papildomos jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumų pareigos
 
 Jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumai privalo patvirtinti, kad jie patikrino, ar bendrųjų jungimo sąlygų projekte nurodytas jungimo būdas, jungime dalyvaujantys kolektyvinio investavimo subjektai, planuojama jungimo užbaigimo data ir turto perleidimui bei investicinių vienetų ar akcijų keitimui ketinamos taikyti taisyklės atitinka šio įstatymo ar atitinkamų kitos valstybės narės teisės aktų (kai jungime dalyvauja kitoje valstybėje narėje įsteigtas kolektyvinio investavimo subjektas) ir atitinkamo kolektyvinio investavimo subjekto steigimo dokumentų reikalavimus, ir jokių neatitikimų nenustatė.
 
-\#### 105 straipsnis. Papildomos po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditoriaus ir jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių pareigos
+#### 105 straipsnis. Papildomos po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditoriaus ir jungime dalyvaujančių kolektyvinio investavimo subjektų ar jų valdymo įmonių pareigos
 
 1. Lietuvos Respublikoje įsteigto po jungimo pasibaigsiančio kolektyvinio investavimo subjekto auditorius turi patvirtinti:
 
@@ -1830,7 +1820,7 @@ Jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumai prival
 
 2. Jungime dalyvaujantys kolektyvinio investavimo subjektai ar jų valdymo įmonės privalo užtikrinti, kad auditoriaus ataskaitų kopijos būtų pateiktos priežiūros institucijai ir jungime dalyvaujančio kitoje valstybėje narėje įsteigto kolektyvinio investavimo subjekto buveinės valstybės narės priežiūros institucijai, taip pat nemokamai teikiamos jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams jų prašymu.
 
-\#### 106 straipsnis. Informacijos teikimo jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams tvarka
+#### 106 straipsnis. Informacijos teikimo jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams tvarka
 
 1. Jungime dalyvaujantys kolektyvinio investavimo subjektai ar jų valdymo įmonės turi pateikti dalyviams pakankamą ir tikslią informaciją apie jungimą, būtiną tinkamai įvertinti šio jungimo poveikį dalyvių investicijai, ir sudaryti dalyviams galimybę priimti pagrįstus sprendimus dėl pasinaudojimo šio įstatymo 108 straipsnyje nurodyta teise.
 
@@ -1860,11 +1850,11 @@ Jungime dalyvaujančių kolektyvinio investavimo subjektų depozitoriumai prival
 
 8. Priežiūros institucija nustato išsamius jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviams teikiamos informacijos turinio, formos ir jos pateikimo tvarkos reikalavimus.
 
-\#### 107 straipsnis. Sprendimas dėl investicinės bendrovės jungimo
+#### 107 straipsnis. Sprendimas dėl investicinės bendrovės jungimo
 
 Jeigu kolektyvinio investavimo subjektų jungime dalyvauja Lietuvos Respublikoje įsteigta investicinė bendrovė, sprendimą dėl investicinės bendrovės jungimo priima visuotinis akcininkų susirinkimas kvalifikuota balsų dauguma, kuri negali būti mažesnė kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų. Bet kuriuo atveju draudžiama nustatyti, kad šis sprendimas turi būti priimamas daugiau kaip 75 procentų visų visuotiniame akcininkų susirinkime dalyvaujančių akcininkų turimų akcijų suteikiamų balsų.
 
-\#### 108 straipsnis. Jungime dalyvaujančių kolektyvinio investavimo subjektų dalyvių teisė ir pasinaudojimo ja tvarka
+#### 108 straipsnis. Jungime dalyvaujančių kolektyvinio investavimo subjektų dalyvių teisė ir pasinaudojimo ja tvarka
 
 1. Jungime dalyvaujančių kolektyvinio investavimo subjektų dalyviai turi teisę reikalauti, kad jų turimi investiciniai vienetai ar akcijos būtų išpirkti arba, jeigu taikoma, konvertuoti į kito suderintojo kolektyvinio investavimo subjekto, kurio investavimo strategija yra panaši ir kuris valdomas tos pačios ar kitos valdymo įmonės, kai šias valdymo įmones sieja bendras valdymas ar kontrolė arba tiesiogiai ar netiesiogiai valdomas kontrolinis jų akcijų paketas, investicinius vienetus ar akcijas be jokių atskaitymų, išskyrus tuos, kuriuos suderintasis kolektyvinio investavimo subjektas ar jo valdymo įmonė taiko siekdami padengti su tokiais dalyvių reikalavimais susijusias investicijų mažinimo išlaidas.
 
@@ -1872,11 +1862,11 @@ Jeigu kolektyvinio investavimo subjektų jungime dalyvauja Lietuvos Respublikoje
 
 3. Priežiūros institucija, nepažeisdama šio straipsnio 1 ir 2 dalių reikalavimų, turi teisę reikalauti arba leisti pačiai valdymo įmonei ar investicinei bendrovei laikinai sustabdyti investicinių vienetų ar akcijų išleidimą ir (ar) išpirkimą, jeigu tai būtina siekiant apsaugoti investicinių vienetų ar akcijų savininkų interesus.
 
-\#### 109 straipsnis. Su jungimu susijusių išlaidų padengimas
+#### 109 straipsnis. Su jungimu susijusių išlaidų padengimas
 
 Draudžiama iš jungime dalyvaujančių kolektyvinio investavimo subjektų turto arba jų dalyvių sąskaita dengti bet kokias su pasirengimu jungimui, jungimo vykdymu ir jungimo užbaigimu susijusias išlaidas, įskaitant teisines, konsultacines, administracines ar kitas išlaidas. Šis draudimas netaikomas jungime dalyvaujančiam kolektyvinio investavimo subjektui, kurio valdymas neperduotas valdymo įmonei, ir jo dalyviams.
 
-\#### 110 straipsnis. Jungimo užbaigimo tvarka
+#### 110 straipsnis. Jungimo užbaigimo tvarka
 
 1. Lietuvos Respublikoje įsteigtų suderintųjų kolektyvinio investavimo subjektų jungimo atveju ir skirtingose valstybėse narėse įsteigtų suderintųjų kolektyvinio investavimo subjektų jungimo atveju (kai po jungimo veiksiantis kolektyvinio investavimo subjektas įsteigtas Lietuvos Respublikoje) jungimas laikomas užbaigtu, kai, konvertavus po jungimo pasibaigsiančio kolektyvinio investavimo subjekto investicinius vienetus ar akcijas į po jungimo veiksiančio kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, atliekami paskutiniai įrašai asmeninėse investicinių vienetų ar akcijų sąskaitose ir, jeigu taikoma, atliekamos šio įstatymo 102 straipsnyje nurodytos išmokos grynaisiais pinigais.
 
@@ -1890,7 +1880,7 @@ Draudžiama iš jungime dalyvaujančių kolektyvinio investavimo subjektų turto
 
 6. Po jungimo pasibaigusi investicinė bendrovė, įsteigta Lietuvos Respublikoje, turi Juridinių asmenų registre įregistruoti atitinkamus įstatų pakeitimus arba turi būti likviduojama Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\#### 111 straipsnis. Įvykdyto jungimo pasekmės
+#### 111 straipsnis. Įvykdyto jungimo pasekmės
 
 1. Šiame skirsnyje nustatyta tvarka įvykdytas jungimas negali būti pripažintas niekiniu ar negaliojančiu.
 
@@ -1918,15 +1908,13 @@ Draudžiama iš jungime dalyvaujančių kolektyvinio investavimo subjektų turto
 
 3) po jungimo pasibaigsiantis kolektyvinio investavimo subjektas veikia tol, kol įvykdo prisiimtus įsipareigojimus.
 
-\#### 112 straipsnis. Patvirtinimo apie turto ir įsipareigojimų perdavimo įvykdymą tvarka
+#### 112 straipsnis. Patvirtinimo apie turto ir įsipareigojimų perdavimo įvykdymą tvarka
 
 Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo subjekto valdymo įmonė, o jeigu subjekto valdymas neperduotas valdymo įmonei, – pats kolektyvinio investavimo subjektas privalo priežiūros institucijos nustatyta tvarka patvirtinti savo depozitoriumui apie įvykusį kolektyvinio investavimo subjekto turto ir, jeigu taikoma, įsipareigojimų perdavimą.
 
-\## VII SKYRIUS
+## VII SKYRIUS. PIRMASIS SKIRSNIS. LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO KAPITALO BENDROVIŲ VEIKLA KITOSE VALSTYBĖSE NARĖSE AR TREČIOSIOSE ŠALYSE
 
-\### PIRMASIS SKIRSNIS. LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO KAPITALO BENDROVIŲ VEIKLA KITOSE VALSTYBĖSE NARĖSE AR TREČIOSIOSE ŠALYSE
-
-\#### 113 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių teisė teikti paslaugas kitose valstybėse narėse ar trečiosiose šalyse
+#### 113 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių teisė teikti paslaugas kitose valstybėse narėse ar trečiosiose šalyse
 
 1. Šiame straipsnyje nustatomi reikalavimai, kurių privalo laikytis valdymo įmonė steigdama filialą kitoje valstybėje narėje arba tokioje valstybėje teikdama paslaugas nesteigdama filialo. Trečiojoje šalyje valdymo įmonė turi teisę steigti filialą arba teikti paslaugas nesteigdama filialo šiame straipsnyje nustatyta tvarka, jeigu priežiūros institucijos susitarimai su trečiosios šalies priežiūros institucija gali užtikrinti tinkamą veiklos priežiūrą, informacijos teikimą ir trečiosios šalies teisės aktais nustatyti reikalavimai valdymo įmonių veiklai yra ne mažiau griežti negu šiame įstatyme nustatyti reikalavimai valdymo įmonių veiklai. Jeigu valdymo įmonė jau turi bent vieną filialą kitoje valstybėje narėje ar trečiojoje šalyje, šiame straipsnyje nustatyta tvarka netaikoma kitiems jos filialams toje valstybėje steigti.
 
@@ -1962,7 +1950,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 8. Priežiūros institucija turi atnaujinti šio straipsnio 6 dalyje nurodytame patvirtinime pateiktą informaciją ir pranešti kitos valstybės narės, kurioje valdymo įmonė vykdo veiklą, priežiūros institucijai apie valdymo įmonės veiklos licencijoje numatytų veiklos rūšių ar, jeigu taikoma, valdymo įmonei taikomų apribojimų, susijusių su jos veiklos licencijoje nurodytų suderintųjų kolektyvinio investavimo subjektų rūšių valdymu, pasikeitimus.
 
-\#### 114 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių veiklos kitoje valstybėje narėje ar trečiojoje šalyje priežiūra
+#### 114 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių veiklos kitoje valstybėje narėje ar trečiojoje šalyje priežiūra
 
 1. Lietuvos Respublikoje licencijuota valdymo įmonė, vykdanti veiklą kitoje valstybėje narėje ar trečiojoje šalyje įsteigusi filialą, privalo laikytis valdymo įmonės priimančiosios valstybės narės ar trečiosios šalies teisės aktuose nustatytų veiklos reikalavimų. Kaip valdymo įmonė laikosi šių reikalavimų, prižiūri valdymo įmonės priimančiosios valstybės narės ar trečiosios šalies priežiūros institucija. Lietuvos Respublikoje licencijuota valdymo įmonė, vykdanti veiklą kitoje valstybėje narėje ar trečiojoje šalyje neįsteigusi filialo, privalo laikytis šio įstatymo 11 straipsnyje nustatytų veiklos reikalavimų.
 
@@ -1972,7 +1960,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 4. Priežiūros institucija, gavusi kitos valstybės narės ar trečiosios šalies, kurioje Lietuvos Respublikoje licencijuota valdymo įmonė vykdo veiklą įsteigusi filialą ar jo neįsteigusi, priežiūros institucijos pranešimą, kad valdymo įmonė atsisakė kitos valstybės narės ar trečiosios šalies priežiūros institucijai pateikti jos prašomą informaciją ar nepašalino pažeidimų per nustatytą laiką, nedelsdama imasi visų reikiamų šiame įstatyme numatytų priemonių, kad valdymo įmonė įvykdytų jos priimančiosios valstybės narės ar trečiosios šalies priežiūros institucijos nurodytus veiksmus. Apie priemones, kurių buvo imtasi, priežiūros institucija praneša valdymo įmonės priimančiosios valstybės narės ar trečiosios šalies priežiūros institucijai.
 
-\#### 115 straipsnis. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas kitoje valstybėje narėje ar trečiojoje šalyje
+#### 115 straipsnis. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas kitoje valstybėje narėje ar trečiojoje šalyje
 
 1. Valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, ketinanti kitoje valstybėje narėje platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, privalo priežiūros institucijai jos nustatyta tvarka pateikti pranešimą, parengtą pagal 2010 m. liepos 1 d. Europos Komisijos reglamento (ES) Nr. 584/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl standartinio pranešimo ir KIPVPS pažymos formos ir turinio, dėl kompetentingų institucijų elektroninių ryšių naudojimo taikant pranešimų teikimo tvarką, dėl patikrų vietoje ir tyrimų tvarkos ir dėl kompetentingų institucijų keitimosi informacija tvarkos (toliau – Reglamentas (ES) Nr. 584/2010) I priedą. Pranešime, be kita ko, turi būti pateikiama informacija apie kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką šio subjekto priimančiojoje valstybėje narėje, įskaitant, jeigu taikoma, informaciją apie atskirų investicinių vienetų ar akcijų klasių ir (ar) serijų platinimo ypatumus.
 
@@ -2018,7 +2006,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 17. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
 
-\#### 116 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių teisė valdyti kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą
+#### 116 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių teisė valdyti kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą
 
 1. Lietuvos Respublikoje licencijuota valdymo įmonė turi teisę valdyti kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą tik tuo atveju, jeigu ji laikosi šiame straipsnyje, šio įstatymo 113, 114 ir 117 straipsniuose nustatytų reikalavimų ir kolektyvinio investavimo subjekto buveinės valstybės narės teisės aktų nustatyta tvarka yra gavusi atitinkamo kolektyvinio investavimo subjekto buveinės valstybės narės priežiūros institucijos leidimą valdyti šį subjektą.
 
@@ -2032,7 +2020,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 4) užtikrinti, kad šios dalies 1, 2 ir 3 punktuose nurodytos priemonės ir procedūros sudarytų sąlygas kolektyvinio investavimo subjekto buveinės valstybės narės priežiūros institucijai tiesiogiai iš valdymo įmonės gauti jai reikalingą informaciją.
 
-\#### 117 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių, valdančių kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą, veiklai keliami reikalavimai ir šių valdymo įmonių priežiūra
+#### 117 straipsnis. Lietuvos Respublikoje licencijuotų valdymo įmonių, valdančių kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą, veiklai keliami reikalavimai ir šių valdymo įmonių priežiūra
 
 1. Lietuvos Respublikoje licencijuota valdymo įmonė, kuri kitoje valstybėje narėje įsteigusi filialą ar jo neįsteigusi verčiasi toje valstybėje narėje įsteigtų suderintųjų kolektyvinio investavimo subjektų valdymo veikla, privalo laikytis Lietuvos Respublikos teisės aktuose nustatytų reikalavimų, susijusių su valdymo įmonės veiklos organizavimu, įskaitant valdymo funkcijų perdavimo tvarką, rizikos valdymo procedūras, riziką ribojančias taisykles ir jų laikymosi priežiūrą, šio įstatymo 11 straipsnyje nurodytas procedūras ir valdymo įmonės finansinei atskaitomybei keliamus reikalavimus.
 
@@ -2052,9 +2040,9 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 6. Priežiūros institucija nedelsdama praneša kitoje valstybėje narėje įsteigto suderintojo kolektyvinio investavimo subjekto buveinės valstybės narės priežiūros institucijai apie visas nustatytas su jį valdančia Lietuvos Respublikoje licencijuota valdymo įmone susijusias problemas, priežiūros institucijos nuomone, galinčias turėti esminį poveikį valdymo įmonės gebėjimui tinkamai atlikti su suderintųjų kolektyvinio investavimo subjektų valdymu susijusias pareigas, ar apie visus šiame įstatyme nustatytų valdymo įmonei taikomų reikalavimų nesilaikymo atvejus.
 
-\### ANTRASIS SKIRSNIS. KITOJE VALSTYBĖJE NARĖJE AR TREČIOJOJE ŠALYJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR ĮSTEIGTŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLA LIETUVOS RESPUBLIKOJE
+ANTRASIS SKIRSNIS. KITOJE VALSTYBĖJE NARĖJE AR TREČIOJOJE ŠALYJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR ĮSTEIGTŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLA LIETUVOS RESPUBLIKOJE
 
-\#### 118 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje licencijuotų valdymo įmonių teisė teikti paslaugas Lietuvos Respublikoje
+#### 118 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje licencijuotų valdymo įmonių teisė teikti paslaugas Lietuvos Respublikoje
 
 1. Kitoje valstybėje narėje licencijuota valdymo įmonė gali įsteigti filialą Lietuvos Respublikoje, jeigu tos valstybės narės priežiūros institucija priežiūros institucijai yra perdavusi šiuos dokumentus ir informaciją:
 
@@ -2088,7 +2076,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 8. Valdymo įmonė, licencijuota trečiojoje šalyje, turi teisę teikti paslaugas Lietuvos Respublikoje tokia pačia tvarka, kokia nustatyta kitose valstybėse narėse licencijuotoms valdymo įmonėms, jeigu priežiūros institucija su trečiosios šalies priežiūros institucija yra sudariusi susitarimą, kuris leidžia užtikrinti tinkamą veiklos priežiūrą ir informacijos teikimą.
 
-\#### 119 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje licencijuotų valdymo įmonių, teikiančių paslaugas Lietuvos Respublikoje, veiklos priežiūra
+#### 119 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje licencijuotų valdymo įmonių, teikiančių paslaugas Lietuvos Respublikoje, veiklos priežiūra
 
 1. Kitoje valstybėje narėje ar trečiojoje šalyje licencijuota valdymo įmonė, vykdanti veiklą Lietuvos Respublikoje įsteigusi filialą, privalo laikytis šio įstatymo 11 straipsnyje nustatytų veiklos reikalavimų. Kaip valdymo įmonė laikosi šių reikalavimų, prižiūri priežiūros institucija. Kitoje valstybėje narėje ar trečiojoje šalyje licencijuota valdymo įmonė, vykdanti veiklą Lietuvos Respublikoje neįsteigusi filialo, privalo laikytis valdymo įmonės buveinės valstybės narės ar trečiosios šalies teisės aktuose nustatytų veiklai keliamų ir riziką ribojančių reikalavimų.
 
@@ -2106,7 +2094,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 8. Priežiūros institucija, gavusi informaciją apie kitoje valstybėje narėje ar trečiojoje šalyje licencijuotos valdymo įmonės licencijos galiojimo panaikinimą, nedelsdama imasi įstatymų nustatytų priemonių jos veiklai Lietuvos Respublikoje nutraukti.
 
-\#### 120 straipsnis. Teisė platinti kitoje valstybėje narėje ar trečiojoje šalyje įsteigto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas
+#### 120 straipsnis. Teisė platinti kitoje valstybėje narėje ar trečiojoje šalyje įsteigto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas
 
 1. Kitoje valstybėje narėje ar trečiojoje šalyje įsteigto šio įstatymo priedo 4 punkte nurodytos Europos Sąjungos direktyvos reikalavimus atitinkančio kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos Lietuvos Respublikoje gali būti pradėti platinti tik šio subjekto buveinės valstybės narės ar trečiosios šalies priežiūros institucijai pranešus jam apie šio kolektyvinio investavimo subjekto ar jo valdymo įmonės pranešimo dėl ketinimo Lietuvos Respublikoje platinti atitinkamo subjekto investicinius vienetus ar akcijas bei kitų būtinų pateikti dokumentų perdavimą priežiūros institucijai Reglamento (ES) Nr. 584/2010 nustatyta tvarka.
 
@@ -2126,7 +2114,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 9. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
 
-\#### 121 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje įsteigtų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo nutraukimo tvarka
+#### 121 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje įsteigtų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo nutraukimo tvarka
 
 1. Šio įstatymo priedo 4 punkte nurodytos Europos Sąjungos direktyvos reikalavimus atitinkančio kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimą Lietuvos Respublikoje norinti nutraukti kitoje valstybėje narėje ar trečiojoje šalyje licencijuota valdymo įmonė ar investicinė bendrovė ne vėliau kaip prieš 2 mėnesius iki numatomo platinimo nutraukimo privalo apie tai raštu pranešti priežiūros institucijai ir paskelbti kolektyvinio investavimo subjekto steigimo dokumentuose nurodytoje (nurodytose) interneto svetainėje (svetainėse) arba raštu pranešti kiekvienam kolektyvinio investavimo subjekto investicinių vienetų ar akcijų turinčiam Lietuvos Respublikos investuotojui.
 
@@ -2146,7 +2134,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 4. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
 
-\#### 122 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje įsteigto kolektyvinio investavimo subjekto ar jo valdymo įmonės skelbiama informacija
+#### 122 straipsnis. Kitoje valstybėje narėje ar trečiojoje šalyje įsteigto kolektyvinio investavimo subjekto ar jo valdymo įmonės skelbiama informacija
 
 1. Kitoje valstybėje narėje įsteigtas kolektyvinio investavimo subjektas, kurio investiciniai vienetai ar akcijos platinami Lietuvos Respublikoje, ar jo valdymo įmonė privalo Lietuvos Respublikos investuotojams pateikti visą informaciją ir dokumentus, kuriuos šis subjektas pagal jo buveinės valstybės narės teisės aktų reikalavimus turi pateikti investuotojams savo buveinės valstybėje narėje. Trečiojoje šalyje įsteigtas kolektyvinio investavimo subjektas, kurio investiciniai vienetai ar akcijos platinami Lietuvos Respublikoje, ar jo valdymo įmonė privalo Lietuvos Respublikos investuotojams pateikti visą informaciją ir dokumentus pagal šio įstatymo II skyriaus antrojo skirsnio reikalavimus.
 
@@ -2168,7 +2156,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 7. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
 
-\#### 123 straipsnis. Kitoje valstybėje narėje licencijuotų valdymo įmonių teisė valdyti Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą
+#### 123 straipsnis. Kitoje valstybėje narėje licencijuotų valdymo įmonių teisė valdyti Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą
 
 1. Lietuvos Respublikoje įsteigtas suderintasis kolektyvinio investavimo subjektas gali būti valdomas arba pavestas valdyti kitoje valstybėje narėje licencijuotai valdymo įmonei tik tuo atveju, jeigu tokia valdymo įmonė laikosi šiame straipsnyje, taip pat šio įstatymo 118, 119, 124 ir 125 straipsniuose nustatytų reikalavimų.
 
@@ -2180,7 +2168,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 3) užtikrinti, kad šios dalies 1 ir 2 punktuose nurodytos priemonės ir procedūros sudarytų sąlygas priežiūros institucijai tiesiogiai iš valdymo įmonės gauti jai reikalingą informaciją.
 
-\#### 124 straipsnis. Kitoje valstybėje narėje licencijuotos valdymo įmonės prašymas leisti valdyti Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą
+#### 124 straipsnis. Kitoje valstybėje narėje licencijuotos valdymo įmonės prašymas leisti valdyti Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą
 
 1. Kitoje valstybėje narėje licencijuota valdymo įmonė, norinti valdyti Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą, nepažeisdama šio įstatymo 6 straipsnio 2 dalyje nustatytų reikalavimų, privalo šiame straipsnyje nustatyta tvarka gauti išankstinį priežiūros institucijos leidimą.
 
@@ -2202,7 +2190,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 7. Valdymo įmonė apie visus esminius šio straipsnio 2 dalyje nurodytų dokumentų ir informacijos pasikeitimus turi nedelsdama raštu pranešti priežiūros institucijai.
 
-\#### 125 straipsnis. Kitoje valstybėje narėje licencijuotų valdymo įmonių, valdančių Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą, veiklai keliami reikalavimai ir šių subjektų priežiūra
+#### 125 straipsnis. Kitoje valstybėje narėje licencijuotų valdymo įmonių, valdančių Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą, veiklai keliami reikalavimai ir šių subjektų priežiūra
 
 1. Kitoje valstybėje narėje licencijuota valdymo įmonė, kuri Lietuvos Respublikoje įsteigusi filialą ar jo neįsteigusi verčiasi suderintųjų kolektyvinio investavimo subjektų valdymo veikla (toliau šiame straipsnyje – valdymo įmonė), privalo laikytis Lietuvos Respublikos teisės aktuose nustatytų reikalavimų, keliamų Lietuvos Respublikoje įsteigtų suderintųjų kolektyvinio investavimo subjektų steigimui ir veiklai Lietuvos Respublikoje, įskaitant reikalavimus, keliamus suderintųjų kolektyvinio investavimo subjektų:
 
@@ -2248,11 +2236,9 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 8. Tuo atveju, kai valdymo įmonės buveinės valstybės narės priežiūros institucija, prieš panaikindama valdymo įmonės licencijos galiojimą, konsultuojasi su priežiūros institucija, priežiūros institucija turi teisę imtis priemonių, būtinų investuotojų interesams apsaugoti, įskaitant teisę uždrausti valdymo įmonei sudaryti sandorius Lietuvos Respublikoje.
 
-\## VIII SKYRIUS
+## VIII SKYRIUS. PIRMASIS SKIRSNIS. SPECIALIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
-\### PIRMASIS SKIRSNIS. SPECIALIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
-
-\#### 126 straipsnis. Specialiesiems kolektyvinio investavimo subjektams ir jų steigimo dokumentams taikomos nuostatos
+#### 126 straipsnis. Specialiesiems kolektyvinio investavimo subjektams ir jų steigimo dokumentams taikomos nuostatos
 
 1. Specialiesiems kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomi šio įstatymo reikalavimai, jeigu šiame skyriuje nenustatyta kitaip.
 
@@ -2270,7 +2256,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 5. Uždarojo tipo kolektyvinio investavimo subjektams šis įstatymas taikomas tiek, kiek šių santykių nereglamentuoja Vertybinių popierių įstatymas.
 
-\#### 127 straipsnis. Bendrosios specialiųjų kolektyvinio investavimo subjektų investavimo taisyklės
+#### 127 straipsnis. Bendrosios specialiųjų kolektyvinio investavimo subjektų investavimo taisyklės
 
 1. Suėjus 6 mėnesiams nuo dienos, kai priežiūros institucija išdavė leidimą patvirtinti naujo specialiojo kolektyvinio investavimo subjekto steigimo dokumentus ir pasirinkti depozitoriumą, tą subjektą valdančios valdymo įmonės investicijos į jį negali viršyti 30 procentų kolektyvinio investavimo subjekto grynųjų aktyvų vertės.
 
@@ -2288,7 +2274,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 5. Specialiojo kolektyvinio investavimo subjekto valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, kolektyvinio investavimo subjektą sudarančiu turtu sudarydama sandorį dėl investicinių priemonių, kurių ji neturi, pardavimo, privalo užtikrinti, kad tokio sandorio objektu esančios investicinės priemonės bus įsigytos iki tokio sandorio įvykdymo termino.
 
-\#### 128 straipsnis. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų įsigijimas ir išpirkimas
+#### 128 straipsnis. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų įsigijimas ir išpirkimas
 
 1. Specialiųjų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos įsigyjami šio įstatymo 42, 44 straipsniuose ir kolektyvinio investavimo subjekto steigimo dokumentuose nustatyta tvarka, išskyrus šio straipsnio 2 dalyje ir šio įstatymo 129 straipsnyje nurodytus atvejus.
 
@@ -2300,7 +2286,7 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 5. Šio straipsnio 4 dalyje nustatytas atsiskaitymo už išperkamus investicinius vienetus ar akcijas terminas negali būti ilgesnis kaip 6 mėnesiai.
 
-\#### 129 straipsnis. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų apmokėjimas nepiniginiu įnašu
+#### 129 straipsnis. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų apmokėjimas nepiniginiu įnašu
 
 1. Tik profesionaliesiems investuotojams skirto specialiojo kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos gali būti apmokami apmokančiam asmeniui nuosavybės teise priklausančiu nepiniginiu įnašu.
 
@@ -2326,17 +2312,17 @@ Lietuvos Respublikoje įsteigto po jungimo veiksiančio kolektyvinio investavimo
 
 7. Investiciniai vienetai ar akcijos laikomi apmokėtais, kai juos įsigyjantis asmuo perduoda visą akcijų pasirašymo sutartyje nurodytą nepiniginį įnašą (paskutinę nepiniginio įnašo dalį) kolektyvinio investavimo subjekto nuosavybėn.
 
-\#### 130 straipsnis. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų kainos skelbimas
+#### 130 straipsnis. Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų kainos skelbimas
 
 1. Specialiųjų kolektyvinio investavimo subjektų valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo kolektyvinio investavimo subjekto steigimo dokumentuose nustatyta tvarka skelbti investicinių vienetų ar akcijų kainas kiekvieną kartą, kai jas parduoda ar išperka.
 
 2. Atvirojo tipo nekilnojamojo turto ar privataus kapitalo kolektyvinio investavimo subjektų investicinių vienetų ar akcijų vertės turi būti skelbiamos ne rečiau kaip kartą per 3 mėnesius, o atvirojo tipo kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, – ne rečiau kaip kartą per mėnesį.
 
-\#### 131 straipsnis. Specialiųjų kolektyvinio investavimo subjektų prospektų turinys
+#### 131 straipsnis. Specialiųjų kolektyvinio investavimo subjektų prospektų turinys
 
 Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės informacijos investuotojams dokumente, be šiame įstatyme nustatytos informacijos, turi būti aiškiai įvardytas su investavimu į šiuos kolektyvinio investavimo subjektus susijusios rizikos pobūdis ir nurodoma, kad investavimas į specialųjį kolektyvinio investavimo subjektą yra susijęs su didesne negu vidutinė, o nekilnojamojo turto ir privataus kapitalo kolektyvinio investavimo subjektų atveju – ilgalaike rizika, atsižvelgiant į numatomą subjekto veiklos laikotarpį.
 
-\#### 132 straipsnis. Laikinas specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo sustabdymas
+#### 132 straipsnis. Laikinas specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo sustabdymas
 
 1. Teisę laikinai sustabdyti specialiojo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimą turi valdymo įmonė ir investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei.
 
@@ -2348,7 +2334,7 @@ Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės infor
 
 **Kolektyvinio investavimo Į PERLEIDŽIAMUOSIUS VERTYBINIUS POPIERIUS subjektai**
 
-\#### 133 straipsnis. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektų ypatumai
+#### 133 straipsnis. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektų ypatumai
 
 1. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektams ir jų valdymo įmonėms taikomi visi šiame įstatyme suderintiesiems kolektyvinio investavimo subjektams ir jų valdymo įmonėms nustatyti reikalavimai, išskyrus šiame straipsnyje nustatytas išimtis.
 
@@ -2366,7 +2352,7 @@ Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės infor
 
 **NEKILNOJAMOJO TURTO Kolektyvinio investavimo subjektai**
 
-\#### 134 straipsnis. Nekilnojamojo turto vertinimas
+#### 134 straipsnis. Nekilnojamojo turto vertinimas
 
 1. Nekilnojamojo turto kolektyvinio investavimo subjekto valdymo įmonė ar nekilnojamojo turto investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo užtikrinti, kad kolektyvinio investavimo subjekto investicijų portfelį sudarančius ar ketinamus įsigyti nekilnojamojo turto objektus vertintų ne mažiau kaip du nepriklausomi, teisę verstis nekilnojamojo turto vertinimo veikla turintys turto vertintojai, išskyrus turto vertintojus asistentus, kurie pateiktų atskiras išvadas. Nekilnojamojo turto kolektyvinio investavimo subjekto, kurio dalyviais pagal jo steigimo dokumentus gali būti tik profesionalieji investuotojai, investicijų portfelį sudarančius ar ketinamus įsigyti nekilnojamojo turto objektus gali vertinti vienas nepriklausomas, teisę verstis nekilnojamojo turto vertinimo veikla turintis nekilnojamojo turto vertintojas.
 
@@ -2388,7 +2374,7 @@ Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės infor
 
 2) yra pagrindas manyti, kad atliktas turto vertinimas buvo neobjektyvus ir tuo gali būti pažeisti kolektyvinio investavimo subjekto dalyvių interesai.
 
-\#### 135 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai
+#### 135 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai
 
 1. Jeigu šiame skirsnyje nenustatyta kitaip, nekilnojamojo turto kolektyvinio investavimo subjekto turto investavimui netaikomi šio įstatymo 18 straipsnio 4 ir 5 dalyse, 75 straipsnyje, išskyrus šio straipsnio 5 dalyje nustatytą draudimą, 76 ir 77 straipsniuose, 82 straipsnio 2 dalyje nustatyti apribojimai, 115 straipsnis, 18 straipsnio 3 dalyje įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti nekilnojamojo turto kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Šioje dalyje nustatytas draudimas skolinti nekilnojamojo turto kolektyvinio investavimo subjekto turtą netaikomas tais atvejais, kai šis turtas skolinamas bendrovei, kurią nekilnojamojo turto kolektyvinio investavimo subjektas kontroliuoja, darydamas tiesioginį lemiamą poveikį, ir jeigu tokios bendrovės turtas investuojamas į šio įstatymo 127 straipsnyje nurodytus reikalavimus atitinkantį nekilnojamąjį turtą. Nekilnojamojo turto kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso.
 
@@ -2396,7 +2382,7 @@ Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės infor
 
 3. Nekilnojamojo turto investicinė bendrovė ar valdymo įmonė, valdanti kolektyvinio investavimo subjektą, kolektyvinio investavimo subjekto sąskaita gali skolintis iki 50 procentų nekilnojamojo turto vertės kolektyvinio investavimo subjekto steigimo dokumentuose iš anksto nustatytam terminui.
 
-\#### 136 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų investavimo objektai
+#### 136 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų investavimo objektai
 
 1. Nekilnojamojo turto kolektyvinio investavimo subjekto turtą gali sudaryti:
 
@@ -2422,7 +2408,7 @@ Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės infor
 
 3. Nekilnojamojo turto kolektyvinio investavimo subjekto turtą, išskyrus šio įstatymo 137 straipsnio 8 dalyje nustatytą laikotarpį, privalo sudaryti ne mažiau kaip keturi atskiri nekilnojamojo turto objektai.
 
-\#### 137 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų investicijų portfelio diversifikavimas
+#### 137 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų investicijų portfelio diversifikavimas
 
 1. Nekilnojamojo turto kolektyvinio investavimo subjekto turtas laikomas pakankamai diversifikuotu, jeigu jis investuotas laikantis šiame straipsnyje išdėstytų reikalavimų. Skaičiuojant šio straipsnio 3 dalyje nustatytas didžiausias leistinas investavimo ribas, viename pastate esančios patalpos laikytinos vienu nekilnojamojo turto objektu.
 
@@ -2450,13 +2436,13 @@ Specialiųjų kolektyvinio investavimo subjektų prospekte ir pagrindinės infor
 
 10. Pasibaigus šio straipsnio 8 dalyje nustatytam laikui, investavimo taisyklių reikalavimus pažeidusi valdymo įmonė ar investicinė bendrovė, kurios valdymas neperduotas valdymo įmonei, privalo nedelsdama apie pažeidimą raštu pranešti priežiūros institucijai, nurodydama pažeidimo priežastis, priemones, kurių ji ketina imtis padėčiai ištaisyti, ir numatomą pažeidimo ištaisymo terminą.
 
-\#### 138 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų grynųjų aktyvų vertės nustatymas
+#### 138 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų grynųjų aktyvų vertės nustatymas
 
 1. Nekilnojamojo turto kolektyvinio investavimo subjekto grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo subjekto turto rinkos kainą ir remiantis šiame įstatyme ir priežiūros institucijos teisės aktuose nustatytais grynųjų aktyvų vertės skaičiavimo principais, kolektyvinio investavimo subjekto steigimo dokumentuose nustatytomis grynųjų aktyvų vertės nustatymo taisyklėmis. Nekilnojamojo turto kolektyvinio investavimo subjekto grynųjų aktyvų vertė nustatoma ne rečiau kaip kartą per 3 mėnesius. Visais atvejais ji privalo būti nustatoma finansinių metų pabaigoje.
 
 2. Nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarantys nekilnojamojo turto objektai yra laikomi įvertintais, jeigu jų vertė buvo nustatyta ne anksčiau kaip prieš 6 mėnesius ir tik tuo atveju, jeigu nebuvo esminių ekonominių ar nekilnojamojo turto rinkos kainų pasikeitimų, dėl kurių reikia atlikti naują vertinimą.
 
-\#### 139 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų metų ataskaitos turinys
+#### 139 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų metų ataskaitos turinys
 
 Kartu su nekilnojamojo turto kolektyvinio investavimo subjekto metų ataskaita, be šio įstatymo 24 straipsnio 2 dalyje nurodytos informacijos, turi būti pateikta:
 
@@ -2472,13 +2458,13 @@ Kartu su nekilnojamojo turto kolektyvinio investavimo subjekto metų ataskaita, 
 
 **PRIVATAUS KAPITALO Kolektyvinio investavimo subjektai**
 
-\#### 140 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai
+#### 140 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai
 
 1. Jeigu šiame skirsnyje nenustatyta kitaip, privataus kapitalo kolektyvinio investavimo subjektams ir jų valdymo įmonėms netaikomi šio įstatymo 18 straipsnio 4 ir 5 dalyse, 75 straipsnio 1, 2 ir 4 dalyse, 76, 77 straipsniuose, 82 straipsnio 2 dalyje nustatyti apribojimai, 115 straipsnis ir 18 straipsnio 3 dalyje įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti privataus kapitalo kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Draudimas skolinti turtą netaikomas tik profesionaliesiems investuotojams skirtam kolektyvinio investavimo subjektui, tačiau paskolinto turto vertė negali viršyti 100 procentų privataus kapitalo kolektyvinio investavimo subjekto grynųjų aktyvų vertės. Privataus kapitalo kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso.
 
 2. Tik profesionaliesiems investuotojams skirta privataus kapitalo investicinė bendrovė ar valdymo įmonė, valdanti tokį kolektyvinio investavimo subjektą, gali skolintis kolektyvinio investavimo subjekto sąskaita iki 100 procentų paskolos sutarties sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto steigimo dokumentuose iš anksto nustatytam terminui. Kitos privataus kapitalo investicinės bendrovės ar valdymo įmonės, valdančios kolektyvinio investavimo subjektą, gali skolintis kolektyvinio investavimo subjekto sąskaita iki 80 procentų paskolos sutarties sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto steigimo dokumentuose iš anksto nustatytam terminui.
 
-\#### 141 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų investavimo objektai
+#### 141 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų investavimo objektai
 
 Privataus kapitalo kolektyvinio investavimo subjekto turtą gali sudaryti:
 
@@ -2490,7 +2476,7 @@ Privataus kapitalo kolektyvinio investavimo subjekto turtą gali sudaryti:
 
 4) kiti privataus kapitalo kolektyvinio investavimo subjekto esmei neprieštaraujantys kolektyvinio investavimo subjekto steigimo dokumentuose ir prospekte nurodyti investavimo objektai.
 
-\#### 142 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų investicijų portfelio diversifikavimas
+#### 142 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų investicijų portfelio diversifikavimas
 
 1. Privataus kapitalo kolektyvinio investavimo subjekto turtas laikomas pakankamai diversifikuotu, jeigu jis investuotas laikantis šiame straipsnyje išdėstytų reikalavimų.
 
@@ -2510,13 +2496,13 @@ Privataus kapitalo kolektyvinio investavimo subjekto turtą gali sudaryti:
 
 6. Šiame straipsnyje nustatyti reikalavimai netaikomi tik profesionaliesiems investuotojams skirtiems kolektyvinio investavimo subjektams. Pastarieji privalo valdyti investicijų portfelio riziką. Šių kolektyvinio investavimo subjektų taisyklėse ir, jeigu taikoma, prospektuose turi būti nurodyta, kad šiems subjektams netaikomi investicijų portfelio diversifikavimo reikalavimai, kurie yra taikomi kitiems privataus kapitalo kolektyvinio investavimo subjektams, ir kad investavimas į profesionaliesiems investuotojams skirtą privataus kapitalo kolektyvinio investavimo subjektą yra susijęs su didesne negu vidutinė rizika.
 
-\#### 143 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų grynųjų aktyvų vertės nustatymas
+#### 143 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų grynųjų aktyvų vertės nustatymas
 
 1. Privataus kapitalo kolektyvinio investavimo subjektų grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo subjekto turto rinkos kainą ir remiantis priežiūros institucijos teisės aktuose nustatytais grynųjų aktyvų vertės nustatymo principais, kolektyvinio investavimo subjekto steigimo dokumentuose nustatytomis grynųjų aktyvų vertės nustatymo taisyklėmis. Privataus kapitalo kolektyvinio investavimo subjekto grynųjų aktyvų vertė nustatoma ne rečiau kaip kartą per 3 mėnesius. Visais atvejais ji privalo būti nustatoma finansinių metų pabaigoje.
 
 2. Tik profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto grynųjų aktyvų vertė nustatoma ne rečiau kaip kartą per 6 mėnesius. Visais atvejais ji privalo būti nustatoma finansinių metų pabaigoje.
 
-\#### 144 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų metų ataskaitos turinys
+#### 144 straipsnis. Privataus kapitalo kolektyvinio investavimo subjektų metų ataskaitos turinys
 
 Kartu su privataus kapitalo kolektyvinio investavimo subjekto metų ataskaita, be šio įstatymo 24 straipsnio 2 dalyje nurodytos informacijos, turi būti pateikta:
 
@@ -2530,13 +2516,13 @@ Kartu su privataus kapitalo kolektyvinio investavimo subjekto metų ataskaita, b
 
 KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTAVIMO SUBJEKTUS
 
-\#### 145 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, pagrindinės turto investavimo taisyklės ir ypatumai
+#### 145 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, pagrindinės turto investavimo taisyklės ir ypatumai
 
 1. Jeigu šiame skirsnyje nenustatyta kitaip, kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, turto investavimui netaikomi šio įstatymo 18 straipsnio 4 ir 5 dalyse, 75 straipsnio 1, 2 ir 4 dalyse, 76 ir 79 straipsniuose nustatyti apribojimai, 115 straipsnis ir 18 straipsnio 3 dalyje įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti šių kolektyvinio investavimo subjektų turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Šios rūšies kolektyvinio investavimo subjektai neprivalo naudoti lyginamojo indekso.
 
 2. Šios rūšies kolektyvinio investavimo subjektą valdanti valdymo įmonė ar investicinė bendrovė gali skolintis tokio kolektyvinio investavimo subjekto sąskaita iki 15 procentų paskolos sutarties sudarymo dieną buvusios grynųjų aktyvų vertės kolektyvinio investavimo subjekto steigimo dokumentuose iš anksto nustatytam terminui, kuris negali būti ilgesnis kaip 6 mėnesiai.
 
-\#### 146 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, investavimo objektai
+#### 146 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, investavimo objektai
 
 1. Kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, turtą gali sudaryti:
 
@@ -2550,7 +2536,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 
 2. Pareiga įrodyti, kad kolektyvinio investavimo subjektas, į kurio investicinius vienetus ar akcijas ketinama investuoti, atitinka šio straipsnio 1 dalies reikalavimus, tenka valdymo įmonei ar investicinei bendrovei, kurios valdymas neperduotas valdymo įmonei.
 
-\#### 147 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, investicijų portfelio diversifikavimas
+#### 147 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, investicijų portfelio diversifikavimas
 
 1. Kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, turtas laikomas pakankamai diversifikuotu, jeigu jis investuotas laikantis šiame straipsnyje išdėstytų reikalavimų.
 
@@ -2574,7 +2560,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 
 11. Įsteigto naujo šios rūšies kolektyvinio investavimo subjekto investicijų portfelis 6 mėnesius nuo dienos, kai priežiūros institucija išdavė leidimą patvirtinti jo steigimo dokumentus ir pasirinkti depozitoriumą, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Tokio subjekto portfeliui taip pat taikomi šio įstatymo 82 straipsnio 1 ir 3 dalyse nustatyti reikalavimai.
 
-\#### 148 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, metų ataskaitos turinys
+#### 148 straipsnis. Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, metų ataskaitos turinys
 
 Kartu su kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, metų ataskaita, be šio įstatymo 24 straipsnio 2 dalyje nurodytos informacijos, turi būti pateikta:
 
@@ -2582,9 +2568,9 @@ Kartu su kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvini
 
 2) informacija apie kiekvieno kolektyvinio investavimo subjekto, kurio investiciniai vienetai ar akcijos finansinių metų pabaigoje sudarė subjekto investicijų portfelį, veiklos rezultatus.
 
-\### ŠEŠTASIS SKIRSNIS. ALTERNATYVAUS KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
+ŠEŠTASIS SKIRSNIS. ALTERNATYVAUS KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 
-\#### 149 straipsnis. Pagrindinės alternatyvaus kolektyvinio investavimo subjektų veiklos taisyklės
+#### 149 straipsnis. Pagrindinės alternatyvaus kolektyvinio investavimo subjektų veiklos taisyklės
 
 1. Lietuvos Respublikoje remiantis šiuo įstatymu gali būti steigiami tik tokie alternatyvaus kolektyvinio investavimo subjektai, kurių dalyviais pagal kolektyvinio investavimo subjekto steigimo dokumentus gali būti tik profesionalieji investuotojai.
 
@@ -2608,7 +2594,7 @@ Kartu su kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvini
 
 11. Alternatyvaus kolektyvinio investavimo subjektas gali nesilaikyti šio įstatymo 82 straipsnyje nustatytų laikinų investavimo apribojimų nesilaikymo terminų, jeigu šie terminai ir jų nesilaikymo sąlygos numatyti kolektyvinio investavimo subjekto steigimo dokumentuose.
 
-\#### 150 straipsnis. Alternatyvaus kolektyvinio investavimo subjektų steigimo dokumentams taikomos nuostatos
+#### 150 straipsnis. Alternatyvaus kolektyvinio investavimo subjektų steigimo dokumentams taikomos nuostatos
 
 1. Alternatyvaus kolektyvinio investavimo subjekto steigimo dokumentuose privalo būti išsamiai atskleista subjekto investavimo strategija, pateiktas baigtinis galimų investavimo objektų sąrašas ir nurodytos investavimo ribos.
 
@@ -2620,15 +2606,13 @@ Kartu su kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvini
 
 5. Alternatyvaus kolektyvinio investavimo subjekto steigimo dokumentuose taip pat turi būti nurodytos su investavimu į šios rūšies kolektyvinio investavimo subjektus susijusios rizikos ir jų aprašymas.
 
-\#### 151 straipsnis. Alternatyvaus kolektyvinio investavimo subjektų grynųjų aktyvų vertės nustatymas
+#### 151 straipsnis. Alternatyvaus kolektyvinio investavimo subjektų grynųjų aktyvų vertės nustatymas
 
 Alternatyvaus kolektyvinio investavimo subjektų grynųjų aktyvų vertė nustatoma atsižvelgiant į kolektyvinio investavimo subjekto turto rinkos kainą ir remiantis priežiūros institucijos teisės aktuose nustatytais grynųjų aktyvų vertės nustatymo principais, kolektyvinio investavimo subjekto steigimo dokumentuose nustatytomis grynųjų aktyvų vertės nustatymo taisyklėmis. Alternatyvaus kolektyvinio investavimo subjekto grynųjų aktyvų vertė nustatoma ne rečiau kaip kartą per 6 mėnesius. Visais atvejais ji privalo būti nustatoma finansinių metų pabaigoje.
 
-\### SEPTINTASIS SKIRSNIS
+### SEPTINTASIS SKIRSNIS. uždaroJO tipo kolektyvinio investavimo subjektai
 
-**uždaroJO tipo kolektyvinio investavimo subjektai**
-
-\#### 152 straipsnis. Uždarojo tipo investicinės bendrovės ypatumai
+#### 152 straipsnis. Uždarojo tipo investicinės bendrovės ypatumai
 
 1. Uždarojo tipo investicinei bendrovei taikomi tie patys reikalavimai kaip ir investicinei kintamojo kapitalo bendrovei, jeigu šiame straipsnyje nenurodyta kitaip.
 
@@ -2666,7 +2650,7 @@ Alternatyvaus kolektyvinio investavimo subjektų grynųjų aktyvų vertė nustat
 
 13. Pasibaigus uždarojo tipo investicinės bendrovės įstatuose nustatytam bendrovės veiklos laikotarpiui, bendrovės turtas parduodamas ir po skolinių įsipareigojimų įvykdymo likę pinigai padalijami bendrovės akcininkams proporcingai turimų akcijų skaičiui.
 
-\#### 153 straipsnis. Uždarojo tipo investicinio fondo ypatumai
+#### 153 straipsnis. Uždarojo tipo investicinio fondo ypatumai
 
 1. Uždarojo tipo investiciniams fondams taikomi tie patys reikalavimai kaip ir atvirojo tipo specialiesiems investiciniams fondams, jeigu šiame straipsnyje nenurodyta kitaip.
 
@@ -2678,19 +2662,19 @@ Alternatyvaus kolektyvinio investavimo subjektų grynųjų aktyvų vertė nustat
 
 5. Uždarojo tipo investicinis fondas panaikinamas valdymo įmonės sprendimu tik išpirkus visus fondo dalyviams priklausančius investicinius vienetus ir atsiskaičius su fondo dalyviais pinigais.
 
-\#### 154 straipsnis. Esminiai uždarojo tipo kolektyvinio investavimo subjekto steigimo dokumentų ir prospekto pakeitimai
+#### 154 straipsnis. Esminiai uždarojo tipo kolektyvinio investavimo subjekto steigimo dokumentų ir prospekto pakeitimai
 
 1. Uždarojo tipo kolektyvinio investavimo subjekto steigimo dokumentų ir (ar) prospekto esminiai pakeitimai, turintys įtakos dalyvių interesams, gali būti atliekami tik tuo atveju, jeigu tam neprieštarauja nė vienas uždarojo tipo kolektyvinio investavimo subjekto dalyvis. Minėtų pakeitimų atveju uždarojo tipo kolektyvinio investavimo subjekto dalyviai turi teisę priežiūros institucijos nustatyta tvarka reikalauti, kad jų turimi investiciniai vienetai ar akcijos būtų išpirkti be jokių atskaitymų.
 
 2. Uždarojo tipo kolektyvinio investavimo subjekto dalyvių informavimo apie esminius kolektyvinio investavimo subjekto steigimo dokumentų ir (ar) prospekto pakeitimus tvarką ir pavyzdinį esminių pakeitimų sąrašą nustato priežiūros institucija.
 
-\#### 155 straipsnis. Uždarojo tipo kolektyvinio investavimo subjektų siūlymas ir reklama
+#### 155 straipsnis. Uždarojo tipo kolektyvinio investavimo subjektų siūlymas ir reklama
 
 Uždarojo tipo kolektyvinio investavimo subjektų reklaminio pobūdžio informacijoje, be šiame įstatyme nustatytų reklaminio pobūdžio informacijai taikomų reikalavimų, turi būti aiškiai ir suprantamai įvardijama, kad investuotojo teisė pareikalauti išpirkti jam priklausančius investicinius vienetus ar akcijas yra apribota.
 
-\## IX SKYRIUS. INVESTICINIŲ VIENETŲ AR AKCIJŲ ĮTRAUKIMAS Į PREKYBĄ LIETUVOS RESPUBLIKOJE VEIKIANČIOJE REGULIUOJAMOJE RINKOJE IR (AR) DAUGIAŠALĖJE PREKYBOS SISTEMOJE
+IX SKYRIUS. INVESTICINIŲ VIENETŲ AR AKCIJŲ ĮTRAUKIMAS Į PREKYBĄ LIETUVOS RESPUBLIKOJE VEIKIANČIOJE REGULIUOJAMOJE RINKOJE IR (AR) DAUGIAŠALĖJE PREKYBOS SISTEMOJE
 
-\#### 156 straipsnis. Investicinių vienetų ar akcijų įtraukimas į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje
+#### 156 straipsnis. Investicinių vienetų ar akcijų įtraukimas į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje
 
 1. Remiantis šiuo įstatymu įsteigto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos gali būti įtraukiami į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje, laikantis šiame įstatyme ir Finansinių priemonių rinkų įstatyme nustatytų taisyklių, reglamentuojančių finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje, reikalavimų. Reguliuojamos rinkos operatorius ir daugiašalės prekybos sistemos operatorius privalo užtikrinti, kad sandorius dėl alternatyvaus kolektyvinio investavimo subjektų investicinių vienetų ar akcijų galėtų sudaryti tik profesionalieji investuotojai.
 
@@ -2698,11 +2682,11 @@ Uždarojo tipo kolektyvinio investavimo subjektų reklaminio pobūdžio informac
 
 3. Valdymo įmonės valdymo organo ar investicinės bendrovės visuotinio akcininkų susirinkimo sprendimas įtraukti investicinės bendrovės akcijas ar investicinio fondo investicinius vienetus į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje taikomas visiems (ir po įtraukimo į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje išleistiems) kolektyvinio investavimo subjekto investiciniams vienetams ar akcijoms.
 
-\#### 157 straipsnis. Prekyba investiciniais vienetais ar akcijomis reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje
+#### 157 straipsnis. Prekyba investiciniais vienetais ar akcijomis reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje
 
 Prekyba kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje vyksta pagal reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos taisykles.
 
-\#### 158 straipsnis. Informacijos atskleidimas
+#### 158 straipsnis. Informacijos atskleidimas
 
 1. Informacija apie tai, kad kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos yra įtraukti į prekybą reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje, turi būti nurodyta kolektyvinio investavimo subjekto steigimo dokumentuose ir prospekte, nurodant atitinkamos reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos pavadinimą.
 
@@ -2726,17 +2710,15 @@ Prekyba kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis 
 
 7. Papildomi šio straipsnio 4 dalyje nurodytos informacijos pranešimo ir skelbimo reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje reikalavimai nurodyti reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus nustatytose taisyklėse.
 
-\#### 159 straipsnis. Investicinių vienetų ar akcijų apskaita
+#### 159 straipsnis. Investicinių vienetų ar akcijų apskaita
 
 Kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos, kurie yra įtraukti į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje ir (ar) daugiašalėje prekybos sistemoje arba platinami reguliuojamos rinkos operatoriaus ir (ar) atsiskaitymų sistemos techninėmis organizacinėmis priemonėmis, turi būti traukiami į apskaitą pagal priežiūros institucijos patvirtintas taisykles.
 
 **x****skyrius**
 
-\### PIRMASIS SKIRSNIS
+### PIRMASIS SKIRSNIS. valdymo ĮmoniŲ, investiciniŲ bendroviŲ IR DEPOZITORIUMŲ veiklos valstybinė PRIEŽIŪRA
 
-**valdymo ĮmoniŲ, investiciniŲ bendroviŲ IR DEPOZITORIUMŲ veiklos valstybinė PRIEŽIŪRA**
-
-\#### 160 straipsnis. Priežiūros institucija
+#### 160 straipsnis. Priežiūros institucija
 
 1. Valdymo įmonių, investicinių bendrovių ir depozitoriumų veiklą prižiūri priežiūros institucija.
 
@@ -2746,7 +2728,7 @@ Kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos, kurie yra �
 
 4. Priežiūros institucijos veiksmai ar neveikimas gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 161 straipsnis. Priežiūros institucijos funkcijos
+#### 161 straipsnis. Priežiūros institucijos funkcijos
 
 Priežiūros institucija:
 
@@ -2772,7 +2754,7 @@ Priežiūros institucija:
 
 11) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
-\#### 162 straipsnis. Priežiūros institucijos teisės įgyvendinant jai pavestas funkcijas
+#### 162 straipsnis. Priežiūros institucijos teisės įgyvendinant jai pavestas funkcijas
 
 1. Priežiūros institucija, įgyvendindama jai pavestas funkcijas, turi teisę:
 
@@ -2794,13 +2776,13 @@ Priežiūros institucija:
 
 3. Šio straipsnio 1 dalyje nustatytomis teisėmis priežiūros institucija naudojasi Finansinių priemonių rinkų įstatymo nustatyta tvarka.
 
-\#### 163 straipsnis. Priežiūros institucijos valdybos narių ir tarnautojų pareiga saugoti konfidencialią informaciją
+#### 163 straipsnis. Priežiūros institucijos valdybos narių ir tarnautojų pareiga saugoti konfidencialią informaciją
 
 1. Priežiūros institucijos valdybos nariai ir tarnautojai privalo Finansinių priemonių rinkų įstatymo nustatyta tvarka saugoti konfidencialią informaciją, kurią jie sužinojo atlikdami šio įstatymo nustatytas funkcijas.
 
 2. Priežiūros institucijos teisė perduoti konfidencialią informaciją Finansinių priemonių rinkų įstatymo nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šio įstatymo nustatytas funkcijas.
 
-\#### 164 straipsnis. Priežiūros institucijos teisės nagrinėjant kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimus
+#### 164 straipsnis. Priežiūros institucijos teisės nagrinėjant kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimus
 
 1. Priežiūros institucija, siekdama nustatyti, ar laikomasi šio įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti kolektyvinio investavimo subjektų veiklos patikrinimus.
 
@@ -2814,9 +2796,9 @@ Priežiūros institucija:
 
 6. Šio straipsnio 5 dalyje nustatyti nurodymai neatima iš priežiūros institucijos teisės taikyti kitų šiame įstatyme nustatytų poveikio priemonių.
 
-\### ANTRASIS SKIRSNIS. PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITOMIS PRIEŽIŪROS INSTITUCIJOMIS
+ANTRASIS SKIRSNIS. PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITOMIS PRIEŽIŪROS INSTITUCIJOMIS
 
-\#### 165 straipsnis. Priežiūros institucijos bendradarbiavimas su kitų valstybių narių ar trečiųjų šalių priežiūros institucijomis ir Europos vertybinių popierių ir rinkų institucija
+#### 165 straipsnis. Priežiūros institucijos bendradarbiavimas su kitų valstybių narių ar trečiųjų šalių priežiūros institucijomis ir Europos vertybinių popierių ir rinkų institucija
 
 1. Priežiūros institucija, atlikdama šiame ir kituose įstatymuose jai pavestas funkcijas, bendradarbiauja su kitų valstybių narių ar trečiųjų šalių priežiūros institucijomis ir pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (toliau – Reglamentas (ES) Nr. 1095/2010) – su Europos vertybinių popierių ir rinkų institucija.
 
@@ -2826,7 +2808,7 @@ Priežiūros institucija:
 
 4. Jeigu kitos valstybės narės ar trečiosios šalies priežiūros institucija praneša priežiūros institucijai apie jos prižiūrimų asmenų galimus pažeidimus toje valstybėje, priežiūros institucija nedelsdama imasi reikiamų veiksmų ir apie tai praneša pranešimą pateikusiai kitos valstybės narės ar trečiosios šalies priežiūros institucijai.
 
-\#### 166 straipsnis. Bendradarbiavimas vykdant priežiūrą, atliekant tyrimus ir patikrinimus vietoje
+#### 166 straipsnis. Bendradarbiavimas vykdant priežiūrą, atliekant tyrimus ir patikrinimus vietoje
 
 1. Priežiūros institucija, atlikdama priežiūros funkcijas, tyrimus ir patikrinimus vietoje, bendradarbiauja su kitų valstybių narių ar trečiųjų šalių priežiūros institucijomis. Šiuo tikslu priežiūros institucija turi teisę kreiptis į kitų valstybių narių ar trečiųjų šalių priežiūros institucijas su prašymu suteikti informaciją ar kitokio pobūdžio pagalbą.
 
@@ -2846,7 +2828,7 @@ Priežiūros institucija:
 
 6. Šio straipsnio nuostatos įgyvendinamos laikantis Reglamento (ES) Nr. 584/2010 nustatytų taisyklių.
 
-\#### 167 straipsnis. Keitimasis informacija
+#### 167 straipsnis. Keitimasis informacija
 
 1. Priežiūros institucija, atlikdama šiame įstatyme jai pavestas funkcijas, šio įstatymo ir Reglamento (ES) Nr. 584/2010 nustatyta tvarka keičiasi informacija su kitų valstybių narių ar trečiųjų šalių priežiūros institucijomis, taip pat pagal Reglamentą (ES) Nr. 1095/2010 – su Europos vertybinių popierių ir rinkų institucija ir pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo – su Europos sisteminės rizikos valdyba.
 
@@ -2854,7 +2836,7 @@ Priežiūros institucija:
 
 3. Šio straipsnio nuostatos įgyvendinamos laikantis Reglamento (ES) Nr. 584/2010 nustatytų taisyklių.
 
-\#### 168 straipsnis. Atsisakymas bendradarbiauti
+#### 168 straipsnis. Atsisakymas bendradarbiauti
 
 1. Priežiūros institucija turi teisę atsisakyti keistis informacija su kitų valstybių narių ar trečiųjų šalių priežiūros institucijomis, kaip tai nurodyta šio įstatymo 167 straipsnio 1 dalyje, arba bendradarbiauti ar teikti pagalbą atliekant tyrimą ar patikrinimą vietoje, kaip tai nurodyta šio įstatymo 166 straipsnio 1 ir 2 dalyse, tik tuo atveju, jeigu:
 
@@ -2866,7 +2848,7 @@ Priežiūros institucija:
 
 2. Jeigu priežiūros institucija pasinaudoja šio straipsnio 1 dalyje nustatyta teise, ji nedelsdama apie tai praneša prašymą suteikti informaciją ar kitokio pobūdžio pagalbą pateikusiai kitos valstybės narės ar trečiosios šalies priežiūros institucijai, nurodydama atsisakymo bendradarbiauti priežastis.
 
-\#### 169 straipsnis. Europos vertybinių popierių ir rinkų institucijos informavimas
+#### 169 straipsnis. Europos vertybinių popierių ir rinkų institucijos informavimas
 
 Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų institucijai apie šiuos kitos valstybės narės priežiūros institucijos atmestus arba per pagrįstą terminą neįvykdytus prašymus:
 
@@ -2876,9 +2858,9 @@ Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų 
 
 3) leisti priežiūros institucijos pareigūnams dalyvauti kitos valstybės narės priežiūros institucijos pareigūnams atliekant tyrimą ar patikrinimą.
 
-\### TREČIASIS SKIRSNIS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+TREČIASIS SKIRSNIS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
-\#### 170 straipsnis. Valdymo įmonėms, investicinėms bendrovėms, jų vadovams ir depozitoriumams taikomos poveikio priemonės
+#### 170 straipsnis. Valdymo įmonėms, investicinėms bendrovėms, jų vadovams ir depozitoriumams taikomos poveikio priemonės
 
 1. Priežiūros institucija turi teisę taikyti šias poveikio priemones valdymo įmonėms ar investicinėms bendrovėms:
 
@@ -2902,7 +2884,7 @@ Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų 
 
 3. Priežiūros institucija turi teisę depozitoriumui taikyti šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.
 
-\#### 171 straipsnis. Poveikio priemonių taikymo pagrindas
+#### 171 straipsnis. Poveikio priemonių taikymo pagrindas
 
 1. Šio įstatymo nustatytos poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių pažeidimų:
 
@@ -2922,7 +2904,7 @@ Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų 
 
 4. Apie tai, kad valdymo įmonei ar investicinei bendrovei pritaikytos poveikio priemonės, pranešama tų valstybių narių ar trečiųjų šalių, kuriose valdymo įmonė ar investicinė kintamojo kapitalo bendrovė platina investicinius vienetus arba akcijas, priežiūros institucijoms.
 
-\#### 172 straipsnis. Laikinasis atstovas veiklai prižiūrėti
+#### 172 straipsnis. Laikinasis atstovas veiklai prižiūrėti
 
 1. Neatidėliotinais atvejais, kai yra duomenų apie teisės aktų pažeidimą, siekdama išvengti investuotojų turto nuvertėjimo ar kitokio netekimo, priežiūros institucija turi teisę paskirti laikinąjį atstovą valdymo įmonės ar investicinės bendrovės veiklai prižiūrėti. Laikinuoju atstovu gali būti skiriamas priežiūros institucijos tarnautojas.
 
@@ -2936,7 +2918,7 @@ Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų 
 
 3) panaikinamas valdymo įmonės, investicinės kintamojo kapitalo bendrovės ar uždarojo tipo investicinės bendrovės licencijos galiojimas.
 
-\#### 173 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
+#### 173 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
 
 1. Priežiūros institucija Finansinių priemonių rinkų įstatymo nustatyta tvarka turi teisę skirti tokias baudas:
 
@@ -2966,15 +2948,15 @@ Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų 
 
 3. Šio straipsnio 1 dalyje nustatytų sankcijų taikymas juridiniams asmenims neatleidžia jų vadovų ar darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės, taip pat neužkerta kelio priežiūros institucijai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
 
-\#### 174 straipsnis. Priežiūros institucijos sprendimų vykdymo tvarka
+#### 174 straipsnis. Priežiūros institucijos sprendimų vykdymo tvarka
 
 1. Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo priežiūros institucijos sprendimą skirti baudą.
 
 2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-\## XI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+XI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
+#### 175 straipsnis. Nuostatos, susijusios su naryste Europos Sąjungoje
 
 1. Priežiūros institucija Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai turi pranešti:
 
@@ -3012,7 +2994,7 @@ priedas
 
 5. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/76/ES, kuria iš dalies keičiamos direktyvų 2006/48/EB ir 2006/49/EB nuostatos, susijusios su kapitalo poreikiu prekybos knygai ir pakartotiniam pakeitimui vertybiniais popieriais, taip pat su atlyginimų nustatymo politikos priežiūriniu tikrinimu (OL 2010 L 329, p. 3).“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

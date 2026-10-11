@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AEBF2685FDE5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AEBF2685FDE5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 69 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9))
 
-\#### 1 straipsnis. 69 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 1 straipsnis. 69 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 Pakeisti 69 straipsnio pavadinimą ir 1 dalį ir juos išdėstyti taip:
 

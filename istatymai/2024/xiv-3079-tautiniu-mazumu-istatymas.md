@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/372796c2a26611efa605b9842742bf37"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.372796C2A266.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tautinių mažumų įstatymas
@@ -26,13 +26,13 @@ TAUTINIŲ MAŽUMŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato tautinėms mažumoms priklausančių asmenų teises, laisves ir pareigas, jų įgyvendinimą bei valstybės įsipareigojimus sudaryti sąlygas išlaikyti ir puoselėti tautinių mažumų tradicijas, papročius, kultūrinį ir kalbinį identitetą.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Tautinei mažumai priklausantis asmuo – Lietuvos Respublikos teritorijoje gyvenantis Lietuvos Respublikos pilietis, kuriam būdinga kitokia nei lietuvių tautinė tapatybė, kurią jis siekia išsaugoti.
 
@@ -44,7 +44,7 @@ Vilnius
 
 5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos lygių galimybių įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme ir Lietuvos Respublikos visuomenės informavimo įstatyme.
 
-\#### 3 straipsnis. Pagrindiniai tautinėms mažumoms priklausančių asmenų teisių ir laisvių apsaugos principai
+## 3 straipsnis. Pagrindiniai tautinėms mažumoms priklausančių asmenų teisių ir laisvių apsaugos principai
 
 Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir laisves vadovaujamasi šiais principais:
 
@@ -56,7 +56,7 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 4) lygių galimybių – tautinėms mažumoms priklausantys asmenys, nepaisant jų lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, turi teisę į apsaugą nuo diskriminacijos.
 
-\#### 4 straipsnis. Teisė pasirinkti priklausyti tautinei mažumai
+## 4 straipsnis. Teisė pasirinkti priklausyti tautinei mažumai
 
 1. Kiekvienas tautinei mažumai priklausantis asmuo turi teisę laisvai pasirinkti, ar su juo turi būti elgiamasi kaip su tautinei mažumai priklausančiu asmeniu, ir dėl tokio jo pasirinkimo arba dėl naudojimosi su tokiu pasirinkimu susijusiomis teisėmis jį draudžiama diskriminuoti.
 
@@ -64,7 +64,7 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 3. Tautinei mažumai priklausančio asmens duomenys apie tautybę civilinės būklės aktų įrašuose keičiami, iš civilinės būklės aktų įrašų išbraukiami arba šie įrašai duomenimis apie tautybę papildomi Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka.
 
-\#### 5 straipsnis. Istorinės tautinės mažumos, jų teisės ir valstybės įsipareigojimai
+## 5 straipsnis. Istorinės tautinės mažumos, jų teisės ir valstybės įsipareigojimai
 
 1. Tautinės mažumos, kurios yra nykstančios ir neturi savo istorinės tėvynės, su kuria gali tapatintis šiuo metu, laikomos istorinėmis tautinėmis mažumomis.
 
@@ -72,17 +72,17 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 3. Valstybės ir savivaldybių institucijos ir įstaigos rūpinasi istorinių tautinių mažumų kultūros, tradicijų, papročių ir kalbos išsaugojimu. Ši funkcija finansuojama valstybės ir savivaldybių biudžetų lėšomis Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka.
 
-\## II SKYRIUS. TAUTINIŲ MAŽUMŲ KALBŲ VARTOJIMAS
+II SKYRIUS. TAUTINIŲ MAŽUMŲ KALBŲ VARTOJIMAS
 
-\#### 6 straipsnis. Teisė vartoti tautinės mažumos kalbą
+## 6 straipsnis. Teisė vartoti tautinės mažumos kalbą
 
 1. Kiekvienas tautinei mažumai priklausantis asmuo turi teisę laisvai ir nevaržomai, privačiai ir viešai, žodžiu ir raštu vartoti savo kalbą.
 
 2. Įgyvendinant šio straipsnio 1 dalyje nurodytą teisę, turi būti laikomasi įstatymų, reglamentuojančių valstybinės kalbos vartojimą.
 
-\## III SKYRIUS. TAUTINIŲ MAŽUMŲ ŠVIETIMAS
+III SKYRIUS. TAUTINIŲ MAŽUMŲ ŠVIETIMAS
 
-\#### 7 straipsnis. Teisė į švietimą tautinės mažumos kalba
+## 7 straipsnis. Teisė į švietimą tautinės mažumos kalba
 
 1. Tautinei mažumai priklausantis asmuo turi teisę mokytis šios tautinės mažumos kalba arba tautinės mažumos kalbos bendrojo ugdymo ir neformaliojo švietimo mokyklose pagal bendrojo ugdymo ir neformaliojo švietimo programas Švietimo įstatymo ir kitų teisės aktų, reglamentuojančių švietimą, nustatyta tvarka.
 
@@ -92,7 +92,7 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 4. Tautinėms mažumoms priklausantys asmenys įstatymų nustatyta tvarka turi teisę steigti nevalstybines švietimo įstaigas.
 
-\#### 8 straipsnis. Tautinių mažumų atstovavimas švietimo srityje
+## 8 straipsnis. Tautinių mažumų atstovavimas švietimo srityje
 
 1. Siekiant skatinti tautinėms mažumoms priklausančius asmenis dalyvauti valstybės švietimo savivaldos institucijos veikloje, už valstybės politiką švietimo srityje atsakingas ministras, tvirtindamas Bendrojo ugdymo tarybos sudėtį, turi užtikrinti tautinių mažumų atstovavimą Bendrojo ugdymo taryboje.
 
@@ -102,15 +102,15 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 2) teikia išvadas ir pasiūlymus valstybės institucijoms ir įstaigoms dėl klausimų, kurie susiję su tautinei mažumai priklausančių asmenų ugdymu.
 
-\## IV SKYRIUS. TAUTINIŲ MAŽUMŲ KULTŪRA IR INFORMACIJOS SKLAIDA
+IV SKYRIUS. TAUTINIŲ MAŽUMŲ KULTŪRA IR INFORMACIJOS SKLAIDA
 
-\#### 9 straipsnis. Teisė puoselėti ir plėtoti kultūrą, tradicijas, papročius ir kalbą
+## 9 straipsnis. Teisė puoselėti ir plėtoti kultūrą, tradicijas, papročius ir kalbą
 
 1. Tautinei mažumai priklausantys asmenys ir tautines mažumas vienijančios organizacijos turi teisę puoselėti ir plėtoti savo kultūrą, tradicijas, papročius ir kalbą.
 
 2. Valstybės ir savivaldybių institucijos ir įstaigos pagal planavimo dokumentuose patvirtintas priemones iš valstybės ir savivaldybių biudžeto lėšų Biudžeto sandaros įstatymo nustatyta tvarka finansuoja kultūros projektus tautinių mažumų integracijai į Lietuvos visuomenę skatinti, kultūrai, tradicijoms, papročiams, kalbai ar tarpkultūriniam bendradarbiavimui puoselėti ir plėtoti.
 
-\#### 10 straipsnis. Tautinių mažumų visuomenės informavimo priemonės
+## 10 straipsnis. Tautinių mažumų visuomenės informavimo priemonės
 
 1. Tautinėms mažumoms priklausantys asmenys turi teisę steigti visuomenės informavimo priemones ir jas naudoti informacijai tautinės mažumos kalba skleisti.
 
@@ -118,9 +118,9 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 3. Valstybė remia tautinių mažumų viešosios informacijos rengėjų ir (ar) skleidėjų kultūrinius ir šviečiamuosius projektus ir veiklą Visuomenės informavimo įstatymo nustatyta tvarka.
 
-\## V SKYRIUS. TAUTINIŲ MAŽUMŲ ATSTOVAVIMAS
+V SKYRIUS. TAUTINIŲ MAŽUMŲ ATSTOVAVIMAS
 
-\#### 11 straipsnis. Pilietinių ir politinių teisių ir laisvių įgyvendinimas
+## 11 straipsnis. Pilietinių ir politinių teisių ir laisvių įgyvendinimas
 
 1. Tautinėms mažumoms priklausantys asmenys įstatymų nustatyta tvarka turi teisę vienytis į organizacijas steigdami asociacijas ar kitus viešuosius juridinius asmenis, steigti politines organizacijas ir dalyvauti sprendžiant kultūrinius, socialinius, ekonominius, švietimo ir kitus klausimus bendruomenės, savivaldybės, valstybės ar tarptautiniu lygmeniu.
 
@@ -130,7 +130,7 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 4. Siekiant nedaryti neleistino poveikio tautinėms mažumoms priklausančių asmenų pilietinių ir politinių teisių ir laisvių įgyvendinimui, Lietuvos Respublikos vyriausioji rinkimų komisija sudaro rinkimų apygardas vadovaudamasi Lietuvos Respublikos rinkimų kodeksu.
 
-\#### 12 straipsnis. Tautinių mažumų taryba
+## 12 straipsnis. Tautinių mažumų taryba
 
 1. Tautinėms mažumoms priklausančių asmenų teisę spręsti kultūrinius, socialinius, ekonominius, švietimo ir kitus klausimus užtikrina Tautinių mažumų taryba. Ši taryba yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija, teikianti siūlymus Lietuvos Respublikos Vyriausybės įgaliotai institucijai, atsakingai už tautinių mažumų politikos įgyvendinimą, (toliau – įgaliotoji institucija), valstybės ir savivaldybių institucijoms ir įstaigoms dėl šio straipsnio 2 dalyje nurodytų klausimų ir atstovaujanti tautinėms mažumoms Lietuvos tautinių mažumų politikos įgyvendinimo klausimais. Tautinių mažumų tarybą sudaro tautines mažumas vienijančių organizacijų, nevyriausybinių organizacijų, veikiančių tautinių mažumų teisių įgyvendinimo srityje, atstovai. Tautinių mažumų tarybos atstovais gali būti asmenys, priklausantys tautinei mažumai, kurių individualiai arba kartu su kitais asmenimis vykdoma veikla neprieštarauja Lietuvos Respublikos įstatymams, suverenitetui, teritorijos vientisumui ir nacionaliniam saugumui. Tautinių mažumų tarybos narį delegavusi organizacija turi teisę jį pakeisti arba atšaukti. Tautinių mažumų tarybos nuostatus ir sudėtį tvirtina įgaliotosios institucijos direktorius. Įgaliotosios institucijos direktorius, tvirtindamas Tautinių mažumų tarybos sudėtį, turi užtikrinti proporcingą tautinių mažumų atstovavimą Tautinių mažumų taryboje.
 
@@ -148,9 +148,9 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 6) teikia pasiūlymus įgaliotajai institucijai dėl priemonių tautinių mažumų tikslinėms programoms įgyvendinti ir prioritetų dėl paramos teikimo nevyriausybinėms organizacijoms, veikiančioms tautinių mažumų teisių įgyvendinimo srityje.
 
-\## VI SKYRIUS. TAUTINEI MAŽUMAI PRIKLAUSANČIŲ ASMENŲ TEISIŲ ĮGYVENDINIMO SĄLYGOS IR JŲ PAREIGOS
+VI SKYRIUS. TAUTINEI MAŽUMAI PRIKLAUSANČIŲ ASMENŲ TEISIŲ ĮGYVENDINIMO SĄLYGOS IR JŲ PAREIGOS
 
-\#### 13 straipsnis. Tautinei mažumai priklausančių asmenų teisių įgyvendinimo sąlygos ir jų pareigos
+## 13 straipsnis. Tautinei mažumai priklausančių asmenų teisių įgyvendinimo sąlygos ir jų pareigos
 
 1. Tautinei mažumai priklausantis asmuo gali naudotis šiame įstatyme nustatytomis teisėmis individualiai arba kartu su kitais asmenimis.
 
@@ -162,9 +162,9 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 5. Tautines mažumas vienijančių organizacijų, nevyriausybinių organizacijų, veikiančių tautinių mažumų teisių įgyvendinimo srityje, steigimas ir veikla negali prieštarauti Konstitucijai ir Lietuvos Respublikos įstatymams.
 
-\## VII SKYRIUS. VALSTYBĖS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS, TARPTAUTINIS BENDRADARBIAVIMAS TAUTINIŲ MAŽUMŲ SRITYJE
+VII SKYRIUS. VALSTYBĖS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS, TARPTAUTINIS BENDRADARBIAVIMAS TAUTINIŲ MAŽUMŲ SRITYJE
 
-\#### 14 straipsnis. Valstybės politikos formavimas ir įgyvendinimas tautinių mažumų srityje
+## 14 straipsnis. Valstybės politikos formavimas ir įgyvendinimas tautinių mažumų srityje
 
 1. Įgaliotoji institucija dalyvauja formuojant ir įgyvendinant valstybės politiką tautinių mažumų srityje, prižiūri, kaip įgyvendinami šis įstatymas ir su juo susiję teisės aktai.
 
@@ -172,13 +172,13 @@ Siekiant užtikrinti tautinėms mažumoms priklausančių asmenų teises ir lais
 
 3. Valstybė finansuoja veiklų (programų), kuriomis įgyvendinama valstybės politika tautinių mažumų srityje, vykdymą Biudžeto sandaros įstatymo nustatyta tvarka.
 
-\#### 15 straipsnis. Tarptautinis bendradarbiavimas tautinių mažumų srityje
+## 15 straipsnis. Tarptautinis bendradarbiavimas tautinių mažumų srityje
 
 Lietuvos Respublika, siekdama užtikrinti tautinėms mažumoms priklausančių asmenų teises, bendradarbiauja su užsienio valstybėmis, išskyrus valstybes, pripažintas teroristinėmis ir (ar) remiančiomis terorizmą, ir tarptautinėmis organizacijomis. Valstybės ir savivaldybių institucijos ir įstaigos pagal teisės aktuose joms nustatytą kompetenciją prižiūri, kaip įgyvendinami tarptautiniai įsipareigojimai tautinių mažumų srityje, rengia įsipareigojimų įgyvendinimo ataskaitas.
 
-\## VIII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VIII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. sausio 1 d.
 

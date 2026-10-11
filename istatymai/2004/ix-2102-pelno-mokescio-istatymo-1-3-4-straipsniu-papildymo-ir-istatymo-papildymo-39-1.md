@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.832420D81B1B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.832420D81B1B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 1, 3, 4 straipsnių papildymo ir įstatymo papildymo 39(1) straipsniu bei 3 priedėliu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2002, Nr. [65-2636](https://www.e-tar.lt/portal/lt/legalAct/TAR.31D4F92E1FE8); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB))
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 1. 1 straipsnio pavadinimą papildyti žodžiais „ir taikymo sritis“ ir jį išdėstyti taip:
 
@@ -38,19 +38,19 @@ Vilnius
 
 „3. Šio Įstatymo nuostatos suderintos su šio Įstatymo 3 priedėlyje nurodytais Europos Sąjungos teisės aktais.“
 
-\#### 2 straipsnis. 3 straipsnio 2 dalies papildymas 7 punktu
+## 2 straipsnis. 3 straipsnio 2 dalies papildymas 7 punktu
 
 Papildyti 3 straipsnio 2 dalį 7 punktu:
 
 „7) Europos ekonominių interesų grupės.“
 
-\#### 3 straipsnis. 4 straipsnio 2 dalies papildymas
+## 3 straipsnis. 4 straipsnio 2 dalies papildymas
 
 Papildyti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Į Lietuvos vieneto pajamas taip pat įskaitomos jo kontroliuojamojo užsienio vieneto pozityviosios pajamos arba jų dalis šio Įstatymo 39 straipsnyje nustatyta tvarka. Į Lietuvos vieneto (Europos ekonominių interesų grupės dalyvio) pajamas taip pat įskaitomos tos Europos ekonominių interesų grupės pajamos šio Įstatymo 39^1 straipsnyje nustatyta tvarka.“
 
-\#### 4 straipsnis. Įstatymo papildymas 391 straipsniu
+## 4 straipsnis. Įstatymo papildymas 391 straipsniu
 
 Papildyti Įstatymą 39^1 straipsniu:
 
@@ -70,7 +70,7 @@ Papildyti Įstatymą 39^1 straipsniu:
 
 7. Europos ekonominių interesų grupės dalyvis į savo pajamas neįtraukia iš Europos ekonominių interesų grupės gauto pelno ar jo dalies.“
 
-\#### 5 straipsnis. Įstatymo papildymas 3 priedėliu
+## 5 straipsnis. Įstatymo papildymas 3 priedėliu
 
 Papildyti Įstatymą 3 priedėliu:
 
@@ -86,7 +86,7 @@ Papildyti Įstatymą 3 priedėliu:
 
 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG).“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/af0add73325111f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AF0ADD733251.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas

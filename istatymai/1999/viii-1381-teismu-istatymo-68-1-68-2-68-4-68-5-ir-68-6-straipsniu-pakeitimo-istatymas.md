@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.64DD794053E0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.64DD794053E0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 68(1), 68(2), 68(4), 68(5) ir 68(6) straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 1996, Nr. [100-2265](https://www.e-tar.lt/portal/lt/legalAct/TAR.2A0497640168); 1997, Nr. [63-1470](https://www.e-tar.lt/portal/lt/legalAct/TAR.0538DEE125C2))
 
-\#### 1 straipsnis. 681 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 681 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 681 straipsnio 1 dalyje po žodžių „turto įkeitimus“ įrašyti žodžius „ir turto arešto aktus“, po žodžių „hipotekos registrą“ įrašyti žodžius „ir turto arešto aktų registrą“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „Hipotekos skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais Hipotekos registro nuostatais,Turto arešto aktų registro nuostatais bei Teisingumo ministerijos teisės aktais.“
 
-\#### 2 straipsnis. 682 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 682 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 682 straipsnio 3 dalies pirmajame sakinyje po žodžio „įkeitimą“ įrašyti žodžius „turto arešto aktus“, išbraukti žodžius „hipotekos registre“, antrajame sakinyje išbraukti žodį „tikrumą“, po žodžio „dokumentuose“ įrašyti žodžius „bei dokumentų nuorašų ir jų išrašų tikrumą“ ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „Hipotekos teisėjo pasiūlymu apylinkės teismo pirmininkas gali įgalioti kitus hipotekos skyriaus darbuotojus liudyti parašų hipotekos skyriui pateikiamuose dokumentuose bei dokumentų nuorašų ir jų išrašų tikrumą, taip pat atlikti su hipotekos registravimu bei hipotekos registro tvarkymu, turto arešto aktų registravimu bei turto arešto aktų registro tvarkymu susijusius veiksmus.“
 
-\#### 3 straipsnis. 684 straipsnio pakeitimas
+## 3 straipsnis. 684 straipsnio pakeitimas
 
 Pakeisti 68^4 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 68^4 straipsnį ir jį išdėstyti taip:
 
 Hipotekos skyrius atsako už hipotekos registro ir turto arešto aktų registro duomenų atitikimą pateiktų hipotekos skyriui registruoti dokumentų, taip pat hipotekos skyriaus išduodamų dokumentų duomenims.“
 
-\#### 4 straipsnis. 685 straipsnio pakeitimas
+## 4 straipsnis. 685 straipsnio pakeitimas
 
 Pakeisti 68^5straipsnįir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Priteista atlygintinos žalos suma išieškoma iš lėšų, gautų už įkeitim�
 
 Valstybė, atlyginusi žalą, įgyja atgręžtinio reikalavimo teisę į hipotekos teisėją bei kitus hipotekos skyriaus darbuotojus, taip pat kitus asmenis, kurių neteisėtais veiksmais ar neveikimu buvo padaryta žala. Atgręžtinio reikalavimo tvarka išieškotos sumos sumokamos į valstybės biudžetą.“
 
-\#### 5 straipsnis. 686 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 686 straipsnio 2 dalies pakeitimas
 
 68^6 straipsnio 2 dalyje po žodžių „hipotekos registro“ įrašyti žodžius „ir turto arešto aktų registro“ ir šią dalį išdėstyti taip:
 

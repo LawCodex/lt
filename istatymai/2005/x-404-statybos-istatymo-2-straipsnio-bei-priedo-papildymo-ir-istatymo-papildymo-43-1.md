@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0AA2765486A5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0AA2765486A5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 2 straipsnio bei priedo papildymo ir įstatymo papildymo 43(1) straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5), Nr. [123-5592](https://www.e-tar.lt/portal/lt/legalAct/TAR.50C78CEF37AA); 2004, Nr. [73-2545](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F5AD6471BE))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 85 ir 86 dalimis
+## 1 straipsnis. 2 straipsnio papildymas 85 ir 86 dalimis
 
 1. Papildyti 2 straipsnį 85 dalimi:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „86.**Pastato energinio naudingumo sertifikavimas** – teisės aktų reglamentuotas procesas, kurio metu nustatomas pastato energijos sunaudojimas, įvertinamas pastato energinis naudingumas priskiriant pastatą energinio naudingumo klasei ir išduodamas pastato energinio naudingumo sertifikatas.“
 
-\#### 2 straipsnis. Įstatymo papildymas 431 straipsniu
+## 2 straipsnis. Įstatymo papildymas 431 straipsniu
 
 Papildyti Įstatymą 43^1 straipsniu:
 
@@ -82,11 +82,11 @@ Papildyti Įstatymo priedą 6 punktu:
 
 „6. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/91/EB dėl pastatų energinio naudingumo.“
 
-\#### 4 straipsnis. Pasiūlymai Vyriausybei
+## 4 straipsnis. Pasiūlymai Vyriausybei
 
 Vyriausybė ar jos įgaliotos institucijos iki 2006 m. sausio 4 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šio įstatymo 2 straipsnyje išdėstyto Lietuvos Respublikos statybos įstatymo 431 straipsnio 3 dalyje nurodytais atvejais pastatai sertifikuojami nuo 2009 m. sausio 1 d., išskyrus naujai statomus pastatus, kurie privalo būti sertifikuojami nuo 2007 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9fa921b04c3311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9FA921B04C33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 55, 56 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ APLINKOS APSAUGOS ĮSTATYMO NR. I-2223 15, 19, 191, 192, 55, 56 STRAIPSNIŲ PAKE
 
 Vilnius
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas
+## 1 straipsnis. 15 straipsnio pakeitimas
 
 1. Pakeisti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 4. Pripažinti netekusiomis galios 15 straipsnio 13 ir 14 dalis.
 
-\#### 2 straipsnis. Įstatymo papildymas 151 straipsniu
+## 2 straipsnis. Įstatymo papildymas 151 straipsniu
 
 Papildyti Įstatymą 15^1 straipsniu:
 
@@ -84,7 +84,7 @@ Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neat
 
 Šio straipsnio ketvirtojoje dalyje nurodyta ūkinė veikla negali būti vykdoma, jeigu priimamas sprendimas dėl poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai, Valstybės ar savivaldybės institucija, įgaliota išduoti leidimus, privalomus šio straipsnio ketvirtojoje dalyje nurodytai ūkinei veiklai vykdyti, panaikina išduoto leidimo galiojimą arba kreipiasi į teismą dėl leidimo galiojimo panaikinimo, jeigu tai numatyta ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.“
 
-\#### 3 straipsnis. 19 straipsnio pakeitimas
+## 3 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neat
 
 „Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą, kuriam išduotas taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas, nustatęs, kad pažeidžia leidimo sąlygas, privalo nedelsdamas, bet ne vėliau kaip per 3 darbo dienas nuo dienos, kai sužinojo ar turėjo sužinoti, kad pažeidžia leidimo sąlygas, apie tai pranešti Aplinkos apsaugos departamentui prie Aplinkos ministerijos ir skubiai imtis priemonių pažeidimui pašalinti (kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma) per trumpiausią įmanomą laikotarpį, taip pat imtis kitų papildomų priemonių, kurias taikyti nurodė Aplinkos apsaugos departamentas prie Aplinkos ministerijos, siekdamas, kad kuo greičiau vėl būtų laikomasi leidimo sąlygų. Aplinkos ministras nustato pranešimo apie leidimo sąlygų pažeidimą ir Aplinkos apsaugos departamento prie Aplinkos ministerijos veiksmų, gavus pranešimą, tvarką.“
 
-\#### 4 straipsnis. 191 straipsnio pakeitimas
+## 4 straipsnis. 191 straipsnio pakeitimas
 
 1. Pakeisti 191 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -146,7 +146,7 @@ Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neat
 
 „Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 8, 12 ir 13 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo, prieš priimant sprendimą panaikinti TIPK leidimo galiojimą, per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą TIPK leidimo galiojimo panaikinimą. Šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 12 ir 13 punktuose nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio keturioliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas nuo atitinkamos aplinkybės nustatymo dienos, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, TIPK leidimo galiojimas nepanaikinamas. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumų nepašalina, šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 8, 12 ir 13 punktuose nurodytais atvejais TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo įspėjimo termino pabaigos. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 1, 5, 6, 9 ir 10 punktuose nurodytas aplinkybes, TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti TIPK leidimo galiojimą per 3 darbo dienas nuo jo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai TIPK leidimo galiojimas panaikintas nustačius šio straipsnio keturioliktosios dalies 6 punkte nurodytas aplinkybes, ir nurodomos TIPK leidimo galiojimo panaikinimo priežastys. Panaikinus TIPK leidimo galiojimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.“
 
-\#### 5 straipsnis. 192 straipsnio pakeitimas
+## 5 straipsnis. 192 straipsnio pakeitimas
 
 1. Pakeisti 192 straipsnio 11 dalies 8 punktą ir jį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neat
 
 „Aplinkos ministro nustatyta tvarka nustačius šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 8, 12, 13 ir 14 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo, prieš priimant sprendimą panaikinti taršos leidimo galiojimą, per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą taršos leidimo galiojimo panaikinimą. Šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 12, 13 ir 14 punktuose nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio vienuoliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas nuo atitinkamos aplinkybės nustatymo dienos, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, taršos leidimo galiojimas nepanaikinamas. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumų nepašalina, šio straipsnio vienuoliktosios dalies 2, 3, 4, 7, 8, 12, 13 ir 14 punktuose nurodytais atvejais taršos leidimo galiojimas panaikinamas per 3 darbo dienas nuo įspėjimo termino pabaigos. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio vienuoliktosios dalies 1, 5, 6, 9 ir 10 punktuose nurodytas aplinkybes, taršos leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti taršos leidimo galiojimą per 3 darbo dienas nuo jo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai taršos leidimo galiojimas panaikintas nustačius šio straipsnio vienuoliktosios dalies 6 punkte nurodytas aplinkybes, ir nurodomos taršos leidimo galiojimo panaikinimo priežastys. Panaikinus taršos leidimo galiojimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.“
 
-\#### 6 straipsnis. 55 straipsnio pakeitimas
+## 6 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -216,7 +216,7 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo 19 straipsnyje nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių eurų.“
 
-\#### 7 straipsnis. 56 straipsnio pakeitimas
+## 7 straipsnis. 56 straipsnio pakeitimas
 
 Pakeisti 56 straipsnį ir jį išdėstyti taip:
 
@@ -226,7 +226,7 @@ Neteisingos informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos
 
 Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patvirtinti arba sprendimui dėl planuojamos ūkinės veiklos poveikio aplinkai priimti, pateikimas, jeigu remiantis tokia informacija priimtas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedarys reikšmingo neigiamo poveikio aplinkai, užtraukia baudą poveikio aplinkai vertinimo dokumentų rengėjams nuo trijų tūkstančių iki šešių tūkstančių eurų.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnio 2, 3 dalis, 7 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d59730f041cf11e6a8ae9e1795984391"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D59730F041CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19-1, 20, 21, 22, 23, 24, 25, 26, 27 ir 28 straipsnių pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas

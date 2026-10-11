@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3B4E9C7E805B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3B4E9C7E805B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 10, 11, 16, 17, 35, 49 ir 50 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 2001, Nr. [28-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.2560251F7F7F); 2004, Nr. [28-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD7270B1038C), Nr. [54-1830](https://www.e-tar.lt/portal/lt/legalAct/TAR.62C4AA472431); 2006, Nr. [48-1699](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D36321FB46F); 2009, Nr. [38-1441](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF6FC42DF0B1), Nr. [153-6895](https://www.e-tar.lt/portal/lt/legalAct/TAR.E1B210518AB0); 2010, Nr. [139-7102](https://www.e-tar.lt/portal/lt/legalAct/TAR.20B2CF98C647))
 
-\#### 1 straipsnis. 10 straipsnio 5 ir 7 dalių pakeitimas
+## 1 straipsnis. 10 straipsnio 5 ir 7 dalių pakeitimas
 
 1. 10 straipsnio 5 dalyje vietoj žodžio „devyneriems“ įrašyti žodį „šešeriems“ ir šią dalį išdėstyti taip:
 
@@ -34,19 +34,19 @@ Vilnius
 
 „7. Lietuvos banko valdybos pirmininko pavaduotojų ir valdybos narių atlyginimo dydį, neviršijantį 90 procentų Lietuvos banko valdybos pirmininko atlyginimo dydžio, nustato Lietuvos banko valdyba.“
 
-\#### 2 straipsnis. 11 straipsnio 1 dalies 16 punkto pakeitimas
+## 2 straipsnis. 11 straipsnio 1 dalies 16 punkto pakeitimas
 
 11 straipsnio 1 dalies 16 punkte vietoj žodžių „metinę finansinę ataskaitą“ įrašyti žodžius „metinių finansinių ataskaitų rinkinį“ ir šį punktą išdėstyti taip:
 
 „16) nustato Lietuvos banko finansinės apskaitos politiką, tvirtina metinių finansinių ataskaitų rinkinį ir finansinių metų pelno paskirstymą;“.
 
-\#### 3 straipsnis. 16 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 16 straipsnio 3 dalies pakeitimas
 
 16 straipsnio 3 dalyje vietoj žodžio „šešių“ įrašyti žodį „penkių“ ir šią dalį išdėstyti taip:
 
 „3. Lietuvos banko valdybos pirmininkui, jo pavaduotojams ir valdybos nariams nustojus eiti pareigas išmokama išeitinė kompensacija. Ši kompensacija išmokama tiek vidutinių mėnesinių atlyginimų dydžio, kiek metų nepertraukiamai truko jų kadencija Lietuvos banke, bet ne daugiau kaip penkių vidutinių mėnesinių atlyginimų. Išeitinė kompensacija nemokama nustojus eiti pareigas dėl pripažinimo kaltu padarius sunkų nusižengimą.“
 
-\#### 4 straipsnis. 17 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
+## 4 straipsnis. 17 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
 
 1. 17 straipsnio 2 dalyje po žodžio „pavaduotojų“ įrašyti žodžius „ar vienas iš valdybos narių“ ir šią dalį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „5. Lietuvos banko valdybos pirmininkui atstovavimo šalyje ir užsienyje išlaidoms finansuoti neatsiskaitytinai kas mėnesį skiriama15procentų jo darbo užmokesčio dydžio suma.“
 
-\#### 5 straipsnis. 35 straipsnio pakeitimas
+## 5 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
 2. Užsienio valstybių centriniams bankams priklausančios užsienio atsargos, laikomos Lietuvos banko atidarytose sąskaitose, negali būti išieškojimo (teismo ar ne teismo būdu) objektas.“
 
-\#### 6 straipsnis. 49 straipsnio pakeitimas
+## 6 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
@@ -94,13 +94,13 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 2. Metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada per keturis mėnesius nuo finansinių metų pabaigos Lietuvos bankas pateikia Seimui ir paskelbia jas viešai.“
 
-\#### 7 straipsnis. 50 straipsnio pavadinimo pakeitimas
+## 7 straipsnis. 50 straipsnio pavadinimo pakeitimas
 
 Pakeisti 50 straipsnio pavadinimą ir jį išdėstyti taip:
 
 **„****50****straipsnis.****Lietuvos banko metinių finansinių ataskaitų rinkinių auditas“.**
 
-\#### 8 straipsnis. Įstatymo 1, 3 ir 4 straipsnių taikymas
+## 8 straipsnis. Įstatymo 1, 3 ir 4 straipsnių taikymas
 
 1. Šio įstatymo 1 ir 3 straipsniai taikomi po šio įstatymo įsigaliojimo paskirtiems Lietuvos banko valdybos pirmininko pavaduotojams ir valdybos nariams.
 

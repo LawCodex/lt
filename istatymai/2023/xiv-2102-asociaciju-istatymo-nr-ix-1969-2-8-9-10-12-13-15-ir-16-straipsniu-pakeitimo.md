@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c08349b01b2a11eeb233e8b04dc9bb3d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C08349B01B2A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 2, 8, 9, 10, 12, 13, 15 ir 16 straipsnių pakeitimo įstatymas
@@ -109,5 +109,3 @@ b) paskolos gavėja asociacija yra įvykdžiusi šio įstatymo 101 straipsnio 3 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_ca49ab3e7a614536b9ca3c04b8dd7f86_end

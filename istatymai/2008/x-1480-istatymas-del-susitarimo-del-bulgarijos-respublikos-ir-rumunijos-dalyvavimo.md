@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6194DEB6A805"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6194DEB6A805.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl susitarimo dėl Bulgarijos Respublikos ir Rumunijos dalyvavimo Europos ekonominėje erdvėje ratifikavimo
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL SUSITARIMO DĖL BULGARIJOS RESPUBLIKOS IR R
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. sausio 3 d. dekretą Nr. 1K-1218, ratifikuoja 2007 m. liepos 25 d. Briuselyje priimtą Susitarimą dėl Bulgarijos Respublikos ir Rumunijos dalyvavimo Europos ekonominėje erdvėje.
 

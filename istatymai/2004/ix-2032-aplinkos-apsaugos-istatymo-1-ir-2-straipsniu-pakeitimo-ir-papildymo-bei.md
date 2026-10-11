@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0311855FCC59"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0311855FCC59.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 1 ir 2 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 27 straipsniu ir priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62); 1996, Nr. [57-1335](https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124); 2000, Nr. [39-1093](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA03EC25C86C); 2002, Nr. [2-49](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D555BF4BF16))
 
-\#### 1 straipsnis. 1 straipsnio 2 ir 10 punktų pakeitimas ir straipsnio papildymas 16, 17, 18 punktais
+## 1 straipsnis. 1 straipsnio 2 ir 10 punktų pakeitimas ir straipsnio papildymas 16, 17, 18 punktais
 
 1. Pakeisti 1 straipsnio 2 punktą ir jį išdėstyti taip:
 
@@ -50,13 +50,13 @@ Vilnius
 
 „18)**planai ir programos**– nacionalinio, regioninio ar vietinio lygmens planavimo dokumentai (veiksmų planai ir programos, plėtros planai (programavimo dokumentai), ūkio šakų vystymo planai ir programos, strategijos, koncepcijos, teritorijų planavimo dokumentai ir kt., įskaitant planus bei programas, prie kurių finansavimo prisideda Europos Bendrija), kurie rengiami, tvirtinami ir (arba) priimami pagal galiojančius teisės aktus ar pagal kompetenciją įgyvendinant viešąjį administravimą ir kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai, įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 2 straipsnio papildymas 3 dalimi
 
 Papildyti 2 straipsnį 3 dalimi:
 
 „Šis įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą.“
 
-\#### 3 straipsnis. Įstatymo papildymas 27 straipsniu
+## 3 straipsnis. Įstatymo papildymas 27 straipsniu
 
 Papildyti įstatymą 27 straipsniu:
 
@@ -66,7 +66,7 @@ Planai ir programos, kurių įgyvendinimo pasekmės gali būti reikšmingos apli
 
 Planų ir programų strateginio pasekmių aplinkai vertinimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 4 straipsnis. Įstatymo papildymas priedu
+## 4 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -80,7 +80,7 @@ priedas
 
 2001 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir programų pasekmių aplinkai vertinimo.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Įstatymas įsigalioja nuo 2004 m. liepos 21 d.
 

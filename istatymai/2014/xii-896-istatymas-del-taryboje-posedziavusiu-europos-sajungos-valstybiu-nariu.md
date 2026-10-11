@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9e3d1200e0e211e388bee944977d73d2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9E3D1200E0E2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų vidaus susitarimo dėl Europos Sąjungos pagalbos finansavimo pagal 2014–2020 m. daugiametę finansinę programą vadovaujantis AKR ir ES partnerystės susitarimu ir dėl finansinės paramos skyrimo užjūrio šalims ir teritorijoms, kurioms taikoma Sutarties dėl Europos Sąjungos veikimo ketvirtoji dalis, ratifikavimo
@@ -26,7 +26,7 @@ DĖL TARYBOJE POSĖDŽIAVUSIŲ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ VYRIAUSYBIŲ 
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. vasario 26 d. dekretą Nr. 1K-1740, ratifikuoja Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų vidaus susitarimą dėl Europos Sąjungos pagalbos finansavimo pagal 2014–2020 m. daugiametę finansinę programą vadovaujantis AKR ir ES partnerystės susitarimu ir dėl finansinės paramos skyrimo užjūrio šalims ir teritorijoms, kurioms taikoma Sutarties dėl Europos Sąjungos veikimo ketvirtoji dalis, priimtą 2013 m. birželio 24 d. Liuksemburge ir 2013 m. birželio 26 d. Briuselyje.
 

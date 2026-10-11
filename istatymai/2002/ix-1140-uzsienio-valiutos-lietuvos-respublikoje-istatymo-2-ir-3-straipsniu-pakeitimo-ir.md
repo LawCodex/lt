@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.51A8EA5995BB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.51A8EA5995BB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos respublikoje įstatymo 2 ir 3 straipsnių pakeitimo ir 8 straipsnio 2 dalies pripažinimo netekusia galios įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1997, Nr. 114-2871; 1999, Nr. 39-1201)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Lietuvos Respublikos fiziniai ir juridiniai asmenys turi teisę atidaryti užsie
 
 Lietuvos Respublikos fiziniai ir juridiniai asmenys informaciją apie užsienio valstybėse atidarytas ir uždarytas sąskaitas praneša Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Lietuvos bankas gali nustatyti užsienio valiutos keitimo (pirkimo, pardavimo) t
 
 Užsienio valiuta gali būti naudojama tik šalių susitarimu mokėjimams ir atsiskaitymams negrynaisiais pinigais, o Europos Sąjungos valiuta euras – ir grynaisiais pinigais.“
 
-\#### 3 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
+## 3 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
 
 8 straipsnio 2 dalį pripažinti netekusia galios.
 

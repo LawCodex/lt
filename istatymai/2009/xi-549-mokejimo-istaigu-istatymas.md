@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A05AB3730DD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokėjimo įstaigų įstatymas
@@ -109,7 +109,7 @@ Vilnius
 
 ## II SKYRIUS. MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
-\# 5 straipsnis. Mokėjimo įstaigos licencija
+### 5 straipsnis. Mokėjimo įstaigos licencija
 
 1. Mokėjimo įstaigos licencija galioja ir kitose valstybėse narėse, suteikdama teisę šio įstatymo 11 straipsnyje nustatytomis sąlygomis mokėjimo įstaigai tose valstybėse narėse teikti mokėjimo įstaigos licencijoje nurodytas mokėjimo paslaugas.
 

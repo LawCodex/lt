@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D4FDB5FC5A56"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D4FDB5FC5A56.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 12 ir 26 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9), 2003 m. liepos 16 d. Nr. IX-1659)
 
-\#### 1 straipsnis. 12 straipsnio 5 punkto pakeitimas
+## 1 straipsnis. 12 straipsnio 5 punkto pakeitimas
 
 Pakeisti 12 straipsnio 5 punktą ir jį išdėstyti taip:
 
 „5) investicinių kintamo kapitalo bendrovių, veikiančių pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, taip pat draudimo įmonių gautos pensinio draudimo įmokos, gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų, bei draudimo įmonių draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną;“.
 
-\#### 2 straipsnis. 26 straipsnio 1 punkto pakeitimas
+## 2 straipsnis. 26 straipsnio 1 punkto pakeitimas
 
 Pakeisti 26 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) įmokos į dalyvių pensijų sąskaitas pensijų fonduose arba“.
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 Šio Įstatymo nuostatos dėl dividendų ir kito paskirstytojo pelno nepriskyrimo neapmokestinamosioms pajamoms taikomos apskaičiuojant 2004 metais prasidėjusio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A8A0A09A80E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A8A0A09A80E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 10 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975; 2008, Nr. [117-4441](https://www.e-tar.lt/portal/lt/legalAct/TAR.571409F1886A); 2011, Nr. [4-125](https://www.e-tar.lt/portal/lt/legalAct/TAR.12F91D407591))
 
-\#### 1 straipsnis. 10 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 5 dalies pakeitimas
 
 Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 

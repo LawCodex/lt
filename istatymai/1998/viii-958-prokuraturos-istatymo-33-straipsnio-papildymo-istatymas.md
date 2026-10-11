@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C2349C82B862"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C2349C82B862.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prokuratūros įstatymo 33 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [81-1514](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA))
 
-\#### 1 straipsnis. 33 straipsnio papildymas
+## 1 straipsnis. 33 straipsnio papildymas
 
 Papildyti 33 straipsnį 3 dalimi:
 

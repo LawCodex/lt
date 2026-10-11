@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9D9B5B8570F2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9D9B5B8570F2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo 1, 9, 10 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 1998, Nr. [62-1777](https://www.e-tar.lt/portal/lt/legalAct/TAR.892535EB668D))
 
-\#### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas
+## 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 1 dalies 2 punktą ir išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „Teisę gauti pareigūnų ir karių invalidumo pensijas turi privalomosios karo tarnybos kariai bei kariai savanoriai, tapę invalidais tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais. Šiems asmenims žuvus tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais, teisę gauti pareigūnų ir karių valstybines našlių ir našlaičių pensijas turi jų sutuoktiniai ir vaikai.“
 
-\#### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
 
 Pakeisti 9 straipsnio 3 dalį ir išdėstyti taip:
 
@@ -50,13 +50,13 @@ Pakeisti 9 straipsnio 3 dalį ir išdėstyti taip:
 
 3) asmenims, pripažintiems III grupės invalidais, – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.“
 
-\#### 3 straipsnis. 10 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 5 dalies pakeitimas
 
 10 straipsnio5 dalyje vietoj žodžių „tikrosios krašto apsaugos tarnybos prievolininkui (būtinosios tarnybos kariui) ar savanoriškosios krašto apsaugos tarnybos savanoriui“ įrašyti žodžius „privalomosios karo tarnybos kariui ar kariui savanoriui“, vietoj žodžių „trečiojoje dalyje“ įrašyti žodžius „trečiosios dalies 2 punkte“, išbraukti skaitmenį ir žodį „I ir“ ir šią dalį išdėstyti taip:
 
 „Privalomosios karo tarnybos kariui ar kariui savanoriui mirus tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais, skiriama našlių ir našlaičių pensija šio straipsnio pirmojoje–ketvirtojoje dalyse nustatyta tvarka. Ji apskaičiuojama kaip nustatyta šio įstatymo 9 straipsnio trečiosios dalies 2 punkte pareigūnų ir karių valstybinė invalidumo pensija II grupės invalidams.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
 

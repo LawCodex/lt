@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EF28EDE503EC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EF28EDE503EC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos antspaudų ir spaudų apyvartos kontrolės įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3094](https://www.e-tar.lt/portal/lt/legalAct/TAR.D16A5CA14164))
 
-\#### 1 straipsnis. Lietuvos Respublikos antspaudų ir spaudų apyvartos kontrolės įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos antspaudų ir spaudų apyvartos kontrolės įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos antspaudų ir spaudų apyvartos kontrolės įstatymą ir jį išdėstyti taip:
 
@@ -38,11 +38,11 @@ ANTSPAUDŲ APYVARTOS
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas reglamentuoja antspaudų apyvartą ir nustato institucijas, atliekančias antspaudų apyvartos priežiūrą.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Antspaudas – įtaisas, kuriuo įspaudžiant reljefą arba dažais daromos apskritimo formos žymos su Lietuvos valstybės herbu arba savivaldybės herbu ar be jų ir su fizinio, juridinio asmens, kitos organizacijos ar jos padalinio rekvizitais.
 
@@ -50,7 +50,7 @@ ANTSPAUDŲ APYVARTOS
 
 3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos paslaugų įstatyme ir Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatyme.
 
-\#### 3 straipsnis. Antspaudų gaminimas
+## 3 straipsnis. Antspaudų gaminimas
 
 1. Teisę gaminti antspaudus fiziniai ir juridiniai asmenys, kitos organizacijos ar jų padaliniai (toliau – antspaudų gamintojai) įgyja tik šio straipsnio 2 dalyje nustatyta tvarka pranešę apie antspaudų gaminimo pradžią.
 
@@ -70,7 +70,7 @@ ANTSPAUDŲ APYVARTOS
 
 7. Antspaudų gamintojas privalo užtikrinti, kad pagaminti antspaudai atitiktų teisės aktuose nustatytus valstybinės kalbos vartojimo ir taisyklingumo reikalavimus, kad juose būtų vartojamos autentiškos ir oficialios vietovardžių formos.
 
-\#### 4 straipsnis. Antspaudų naudojimas, saugojimas, apskaita ir sunaikinimas
+## 4 straipsnis. Antspaudų naudojimas, saugojimas, apskaita ir sunaikinimas
 
 1. Draudžiama naudoti vienodus antspaudus. Vienodais antspaudais nelaikomi antspaudai, sunumeruoti skirtingais skaičiais.
 
@@ -80,19 +80,19 @@ ANTSPAUDŲ APYVARTOS
 
 4. Antspaudų saugojimo, apskaitos ir sunaikinimo tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
-\#### 5 straipsnis. Institucijos, atliekančios antspaudų apyvartos priežiūrą
+## 5 straipsnis. Institucijos, atliekančios antspaudų apyvartos priežiūrą
 
 Antspaudų apyvartos priežiūrą Lietuvos Respublikos viešojo administravimo įstatyme ir kituose teisės aktuose nustatyta tvarka ir sąlygomis pagal kompetenciją atlieka Policijos departamentas, teritorinės policijos įstaigos ir Valstybinė kalbos inspekcija.
 
-\#### 6 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
+## 6 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
 
 Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir jos įgaliotoms institucijoms
+## 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir jos įgaliotoms institucijoms
 
 Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki šio įstatymo įsigaliojimo dienos parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2011 m. rugpjūčio 1 d.
 

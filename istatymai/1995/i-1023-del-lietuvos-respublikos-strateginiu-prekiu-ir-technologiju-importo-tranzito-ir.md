@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62B977537332"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62B977537332.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo įgyvendinimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS STRATEGINIŲ PREKIŲ IR TECHNOLOGIJŲ IMPORTO, TRANZIT
 
 Vilnius
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1995 m. gruodžio 1 dienos:
 
@@ -46,7 +46,7 @@ Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1995 m. gruodžio 1 dienos:
 
 8) parengti įstatymų dėl Lietuvos Respublikos baudžiamojo ir Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo projektus.
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymas įsigalioja nuo 1996 m. sausio 1 dienos.
 

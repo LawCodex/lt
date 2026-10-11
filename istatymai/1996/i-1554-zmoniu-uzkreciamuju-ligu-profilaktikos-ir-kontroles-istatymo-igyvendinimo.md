@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8C8FDD792191"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8C8FDD792191.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Teisės aktai, kuriuos turi parengti ir priimti Lietuvos Respublikos Vyriausybė
+## 1 straipsnis. Teisės aktai, kuriuos turi parengti ir priimti Lietuvos Respublikos Vyriausybė
 
 Lietuvos Respublikos Vyriausybė iki 1998 m. sausio 1 d. turi parengti ir priimti:
 
@@ -46,7 +46,7 @@ Lietuvos Respublikos Vyriausybė iki 1998 m. sausio 1 d. turi parengti ir priimt
 
 8) neliečiamų inventoriaus, vaistų, įskaitant imunopreparatus, dezinfekcijos medžiagų, diagnostikumų ir terpių, įrangos ir specialaus transporto atsargų pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniams likviduoti sąrašą ir šių atsargų sudarymo, atnaujinimo ir finansavimo tvarką.
 
-\#### 2 straipsnis. Teisės aktai, kuriuos turi parengti ir priimti Sveikatos apsaugos ministerija
+## 2 straipsnis. Teisės aktai, kuriuos turi parengti ir priimti Sveikatos apsaugos ministerija
 
 1. Sveikatos apsaugos ministerija turi parengti ir priimti:
 
@@ -82,11 +82,11 @@ iki 1997 m. liepos 1 d.:
 
 2. Nustatyti, kad iki Vyriausybė priims šio įstatymo 1 straipsnyje nurodytus teisės aktus, galioja atitinkami Sveikatos apsaugos ministerijos teisės aktai.
 
-\#### 3 straipsnis. Teisės aktai, kuriuos turi parengti ir priimti Krašto apsaugos ministerija ir Vidaus reikalų ministerija
+## 3 straipsnis. Teisės aktai, kuriuos turi parengti ir priimti Krašto apsaugos ministerija ir Vidaus reikalų ministerija
 
 Krašto apsaugos ministerija ir Vidaus reikalų ministerija, suderinusios su Sveikatos apsaugos ministerija, iki 1997 m. liepos 1 d. turi parengti ir patvirtinti asmenų, esančių Vidaus reikalų ministerijos neviešose (uždarose) įstaigose, karių sveikatos tikrinimų dėl užkrečiamųjų ligų tvarką.
 
-\#### 4 straipsnis. Lietuvos Respublikos sveikatos apsaugos įstatymo 32, 37, 38, 39, 52 ir 54 straipsnių pripažinimas netekusiais galios
+## 4 straipsnis. Lietuvos Respublikos sveikatos apsaugos įstatymo 32, 37, 38, 39, 52 ir 54 straipsnių pripažinimas netekusiais galios
 
 Sveikatos apsaugos įstatymo (Žin., 1971, Nr. 35-286; 1975, Nr. 30-300; 1979, Nr. 30-388; 1984, Nr. 34-391; 1985, Nr. 33-370; 1994, Nr. [63-1233](https://www.e-tar.lt/portal/lt/legalAct/TAR.C40856998BB9)) 32, 37, 38, 39, 52 ir 54 straipsnius pripažinti netekusiais galios.
 

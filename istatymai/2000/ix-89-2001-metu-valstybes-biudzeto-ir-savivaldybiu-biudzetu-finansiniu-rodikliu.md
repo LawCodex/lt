@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.082C8C244DCC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.082C8C244DCC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
@@ -2730,7 +2730,7 @@ viso:
 
 74423
 
-\* Iš šių lėšų
+* Iš šių lėšų
 
 3000 tūkst. Lt skirti bendroms biudžeto reikmėms.
 
@@ -5114,7 +5114,7 @@ IV. Numatomas lėšų likutis 2002 m. sausio
 
 948
 
-\* Iš jų 122150 tūkst. litų naudojama pagal atskirą
+* Iš jų 122150 tūkst. litų naudojama pagal atskirą
 
 Lietuvos Respublikos Vyriausybės sprendimą.
 

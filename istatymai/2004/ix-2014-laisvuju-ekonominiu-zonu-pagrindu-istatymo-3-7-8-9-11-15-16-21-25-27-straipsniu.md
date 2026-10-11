@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4EBC2479335E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EBC2479335E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 3, 7, 8, 9, 11, 15, 16, 21, 25, 27 straipsnių pakeitimo ir papildymo bei 26 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [59-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D); 1996, Nr. [35-871](https://www.e-tar.lt/portal/lt/legalAct/TAR.33B28FE8DE03); 1997, Nr. [65-1547](https://www.e-tar.lt/portal/lt/legalAct/TAR.78684A19B5F4); 1999, Nr. [98-2814](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB2F1EF9C263); 2000, Nr. [83-2509](https://www.e-tar.lt/portal/lt/legalAct/TAR.0940C79BFBA0); 2001, Nr. [39-1355](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6AF37995FCA), Nr. [112-4084](https://www.e-tar.lt/portal/lt/legalAct/TAR.77D0D5A1C96D); 2002, Nr. [68-2772](https://www.e-tar.lt/portal/lt/legalAct/TAR.25CA1A623645)*)*
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -36,13 +36,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 Lietuvos Respublikoje steigiamoje zonoje gali būti plėtojama prekybos, gamybos,importo ir eksporto, verslo ar kita Lietuvos Respublikos įstatymų nedraudžiama veikla. Veiklos rūšis nustato atskiras įstatymas dėl konkrečios zonos steigimo.“
 
-\#### 2 straipsnis. 7 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 4 dalies pakeitimas
 
 Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Zonoje leidžiamaLietuvos Respublikos įstatymų nedraudžiamaįmonės steigimo dokumentuosenurodytus tikslus atitinkantiūkinė komercinė veikla.Mažmeninė prekyba laisvosiose teritorijose leidžiama tik jų vidaus poreikiams tenkinti.“
 
-\#### 3 straipsnis. 8 straipsnio 2 ir 3 dalių pakeitimas
+## 3 straipsnis. 8 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3. Kapitalo investicija valstybiniams gamtos ištekliams eksploatuoti be koncesijos draudžiama.“
 
-\#### 4 straipsnis. 9 straipsnio 2 ir 4 dalių papildymas
+## 4 straipsnis. 9 straipsnio 2 ir 4 dalių papildymas
 
 1. 9 straipsnio 2 dalyje po žodžių „teritorijos ribos“ įrašyti žodžius „(jei įstatyme nenustatyta kitaip)“ ir šią dalį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „5) zonos teritorijos ribų nustatymo – Įstatymo nustatytais atvejais.“
 
-\#### 5 straipsnis. 11 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 11 straipsnio 1 dalies pakeitimas
 
 Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Zonos steigimo grupė, laimėjusi zonos verslo plano ir statuto rengimo bei steigėjų grupės parinkimo konkursą, įsteigia zonos valdymo bendrovę. Po vieną zonos valdymo bendrovės valdybos narį skiria Lietuvos Respublikos Vyriausybė ir savivaldybės, kurios teritorijoje kuriama zona, taryba. Zonos valdymo bendrovės valdybos pirmininką renka zonos valdymo bendrovės valdybos nariai atviru balsavimu. Zonos valdymo bendrovės valdybos pirmininką tvirtina valstybės institucija, kuriai Lietuvos Respublikos Vyriausybė nustatyta tvarka paveda atlikti valstybinę zonų priežiūrą,pagal šios institucijos nustatytus kriterijus.“
 
-\#### 6 straipsnis. 15 straipsnio pakeitimas
+## 6 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 7. Šiame straipsnyje numatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai ūkio subjektams taikomi tiek, kiek tai neprieštarauja Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo nuostatoms.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas
+## 7 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -110,13 +110,13 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 Laisvųjų ekonominių zonų laisvosios teritorijos Muitinės kodekso ir jo įgyvendinimo nuostatų taikymo požiūriu laikomos laisvosiomis zonomis.“
 
-\#### 8 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Žemės nuosavybės bei nuomos santykius zonoje reguliuoja Lietuvos Respublikos civilinis kodeksas ir Lietuvos Respublikos žemės įstatymas.“
 
-\#### 9 straipsnis. 25 straipsnio pakeitimas
+## 9 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -124,11 +124,11 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 Partijų ir visuomeninių organizacijų steigimas zonoje draudžiamas.“
 
-\#### 10 straipsnis. 26 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 26 straipsnio pripažinimas netekusiu galios
 
 26 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 27 straipsnio pakeitimas ir papildymas
+## 11 straipsnis. 27 straipsnio pakeitimas ir papildymas
 
 1. 27 straipsnio 1 dalyje išbraukti žodį „Užsienio“ ir šią dalį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Partijų ir visuomeninių organizacijų steigimas zonoje draudžiamas.“
 
 „4. Užsienio investuotojai turi teisę teisėtai gautas pajamas (pelną) pervesti į užsienį be apribojimų. Užsienio investuotojai savo pajamas (pelną) ar jų dalį gali išvežti vidaus rinkoje supirktomis prekėmis arba reinvestuoti į Lietuvos Respublikos ūkį.“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas
+## 12 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 4 straipsnį ir 6 straipsnyje išdėstyto 15 straipsnio 2 dalį, įsigalioja nuo 2004 m. gegužės 1 d.
 

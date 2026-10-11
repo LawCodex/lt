@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0f1ea071a58a11ef90b5ee8931e5ce5e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0F1EA071A58A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugos tyrimų įstatymas
@@ -26,9 +26,9 @@ SAUGOS TYRIMŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas, paskirtis ir taikymo sritis
+### 1 straipsnis. Įstatymo tikslas, paskirtis ir taikymo sritis
 
 1. Šio įstatymo tikslas – padidinti saugą oro, vandens ir sausumos transporto srityse, taip pat naudojantis lynų kelio įrenginiais, siekiant užtikrinti, kad orlaivių avarijų ir incidentų, laivų avarijų ir incidentų, geležinkelių avarijų ir incidentų, lynų kelio įrenginių avarijų ir incidentų ir kelių transporto priemonių įskaitinių eismo įvykių (toliau kartu – avarija ir (ar) incidentas) saugos tyrimai būtų veiksmingi, operatyvūs bei kokybiški ir padėtų išvengti kitų tokių avarijų ir incidentų.
 
@@ -38,7 +38,7 @@ Vilnius
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Geležinkelių avarija – nepageidaujamas arba netyčinis netikėtas geležinkelių įvykis arba tam tikra tokių įvykių seka, sukeliantys žalingus padarinius.
 
@@ -74,7 +74,7 @@ Vilnius
 
 14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 996/2010, 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/424 dėl lynų kelio įrenginių, kuriuo panaikinama Direktyva 2000/9/EB, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
 
-\#### 3 straipsnis. Įstatymo taikymas oro transporto srityje
+### 3 straipsnis. Įstatymo taikymas oro transporto srityje
 
 Šis įstatymas taikomas vykdant Reglamento [(ES) Nr. 996/2010](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32010R0996&locale=lt) 5 straipsnio 1 ir 2 dalyse nustatytus įpareigojimus ir atliekant saugos tyrimus dėl eksperimentinės kategorijos orlaivių ir valstybės orlaivių, išskyrus krašto apsaugai naudojamus orlaivius, avarijų ir incidentų:
 
@@ -82,7 +82,7 @@ Vilnius
 
 2) jeigu orlaivio registravimo valstybė, naudotojo valstybė, projektavimo valstybė ar gamybos valstybė yra Lietuvos Respublika ir saugos tyrimo neatlieka kitos valstybės saugos tyrimų institucija arba negalima tiksliai nustatyti, kurios valstybės teritorijoje įvyko avarija ar incidentas.
 
-\#### 4 straipsnis. Įstatymo taikymas vandens transporto srityje
+### 4 straipsnis. Įstatymo taikymas vandens transporto srityje
 
 1. Šis įstatymas taikomas atliekant saugos tyrimus dėl laivų avarijų ir incidentų:
 
@@ -116,7 +116,7 @@ Vilnius
 
 7. Šio įstatymo 2 straipsnio 4 ir 5 dalyse nurodyti įvykiai, susiję su prie krantinės ar doke esančiu ar prišvartuotu laivu, taip pat su ant kranto dirbančiais darbuotojais, laikomi įvykusiais eksploatuojant laivą, jeigu šie įvykiai susiję su laivo konstrukcijomis ir įranga, laivo įgula, laive galiojančiomis procedūromis, laivo valdymu ir laive vykdyta veikla.
 
-\#### 5 straipsnis. Įstatymo taikymas sausumos transporto srityje ir naudojantis lynų kelio įrenginiais
+### 5 straipsnis. Įstatymo taikymas sausumos transporto srityje ir naudojantis lynų kelio įrenginiais
 
 1. Šis įstatymas taikomas atliekant saugos tyrimus dėl geležinkelių avarijų ir incidentų:
 
@@ -132,17 +132,15 @@ Vilnius
 
 5. Šio įstatymo 2 straipsnio 11 ir 13 dalyse nurodyti asmens mirtinas ir sunkus sužalojimai suprantami taip, kaip apibrėžiami Reglamento (ES) Nr. 996/2010 2 straipsnio 5 ir 17 punktuose.
 
-\## II SKYRIUS
+## II SKYRIUS. sAUGOS TYRIMAI
 
-**sAUGOS TYRIMAI**
-
-\#### 6 straipsnis. Saugos tyrimo tikslas
+### 6 straipsnis. Saugos tyrimo tikslas
 
 1. Pagal šį įstatymą atliekamų avarijų ir incidentų saugos tyrimų tikslas yra avarijų ir incidentų prevencija oro, vandens ir sausumos transporto srityse, taip pat naudojantis lynų kelio įrenginiais. Saugos tyrimais nesiekiama nustatyti kaltės ar atsakomybės.
 
 2. Atliekant saugos tyrimą renkama ir analizuojama visa naudinga informacija apie avariją ar incidentą, nustatomos juos lėmusios ar galėjusios lemti priežastys ir veiksniai, įvertinamos reikalingos priemonės siekiant išvengti kitų tokių avarijų ir incidentų.
 
-\#### 7 straipsnis. Saugos tyrimo funkcijos įgyvendinimas
+### 7 straipsnis. Saugos tyrimo funkcijos įgyvendinimas
 
 1. Saugos tyrimo funkciją atlieka Lietuvos Respublikos teisingumo ministerija. Šiuo tikslu Teisingumo ministerijoje įsteigiamas savarankiškas ir nepriklausomas struktūrinis padalinys, tiesiogiai pavaldus teisingumo ministrui.
 
@@ -150,7 +148,7 @@ Vilnius
 
 3. Saugos tyrimus atliekančiam struktūriniam padaliniui negali būti pavedama atlikti kitų, negu nurodyta šiame įstatyme, uždavinių.
 
-\#### 8 straipsnis. Saugos tyrimo nepriklausomumas
+### 8 straipsnis. Saugos tyrimo nepriklausomumas
 
 1. Saugos tyrimas yra nepriklausomas tyrimas. Saugos tyrimas atliekamas nepriklausomai nuo dėl avarijos ar incidento pradėtų, su jais susijusių administracinių, ikiteisminių ar teisminių procesų.
 
@@ -162,7 +160,7 @@ Vilnius
 
 5. Siekdami užtikrinti saugos tyrimus atliekančio struktūrinio padalinio nepriklausomumą ir atliekamų saugos tyrimų patikimumą, šio padalinio valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, atsižvelgdami į šiame straipsnyje nustatytus reikalavimus, turi vengti interesų konfliktų.
 
-\#### 9 straipsnis. Saugos tyrimus atliekančio struktūrinio padalinio kompetencija
+### 9 straipsnis. Saugos tyrimus atliekančio struktūrinio padalinio kompetencija
 
 Saugos tyrimus atliekantis struktūrinis padalinys:
 
@@ -194,7 +192,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 7) dalyvauja Europos Sąjungos institucijų ir tarptautinių organizacijų veikloje, susijusioje su saugos tyrimais.
 
-\#### 10 straipsnis. Saugos tyrimus atliekančio struktūrinio padalinio vadovo kompetencija
+### 10 straipsnis. Saugos tyrimus atliekančio struktūrinio padalinio vadovo kompetencija
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio vadovas yra valstybės tarnautojas. Saugos tyrimus atliekančio struktūrinio padalinio vadovas turi turėti inžinerijos mokslų magistro kvalifikacinį laipsnį, įgytą baigus mechanikos inžinerijos, transporto inžinerijos ar aeronautikos inžinerijos studijų krypties studijas, ir ne mažesnį kaip 5 metų darbo stažą oro, vandens ar sausumos transporto saugos srityje.
 
@@ -232,7 +230,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 15) atsiskaito teisingumo ministrui už saugos tyrimus atliekančio struktūrinio padalinio veiklą.
 
-\#### 11 straipsnis. Teisingumo ministro kompetencija saugos tyrimų srityje
+### 11 straipsnis. Teisingumo ministro kompetencija saugos tyrimų srityje
 
 1. Teisingumo ministras:
 
@@ -250,21 +248,21 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 2. Teisingumo ministras saugos tyrimus atliekančio struktūrinio padalinio vadovui, taip pat kitiems šio padalinio valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, negali duoti nurodymų, susijusių su saugos tyrimu, įskaitant sprendimus šį tyrimą atlikti ar jo neatlikti, šį tyrimą nutraukti ar atnaujinti, saugos tyrimo ataskaita ir saugos rekomendacijomis.
 
-\## III SKYRIUS. SAUGOS TYRIMŲ PERLEIDIMAS IR PERĖMIMAS, DALYVAVIMAS JUOSE IR BENDRADARBIAVIMAS JUOS ATLIEKANT
+III SKYRIUS. SAUGOS TYRIMŲ PERLEIDIMAS IR PERĖMIMAS, DALYVAVIMAS JUOSE IR BENDRADARBIAVIMAS JUOS ATLIEKANT
 
-\#### 12 straipsnis. Saugos tyrimo atlikimo perleidimas ir perėmimas
+### 12 straipsnis. Saugos tyrimo atlikimo perleidimas ir perėmimas
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio vadovas gali priimti sprendimą perleisti atlikti saugos tyrimą arba jo dalį kitos valstybės saugos tyrimų institucijai, kaip numatyta Europos Sąjungos teisės aktuose arba pagal Lietuvos Respublikai privalomus tarptautinius įsipareigojimus. Tokiu atveju saugos tyrimus atliekančio struktūrinio padalinio vadovas šios valstybės saugos tyrimų institucijai sudaro reikiamas sąlygas atlikti saugos tyrimą arba jo dalį.
 
 2. Jeigu avarija ar incidentas, kurio saugos tyrimą atlieka kitos valstybės saugos tyrimų institucija, patenka į šio įstatymo 3, 4 ir 5 straipsniuose nustatytą taikymo sritį, saugos tyrimus atliekančio struktūrinio padalinio vadovas gali priimti sprendimą iš kitos valstybės saugos tyrimų institucijos perimti atlikti saugos tyrimą arba jo dalį, kaip numatyta Europos Sąjungos teisės aktuose arba pagal Lietuvos Respublikai privalomus tarptautinius įsipareigojimus.
 
-\#### 13 straipsnis. Dalyvavimas saugos tyrimuose
+### 13 straipsnis. Dalyvavimas saugos tyrimuose
 
 1. Jeigu saugos tyrimus atliekančio struktūrinio padalinio atliekamu saugos tyrimu suinteresuota kita valstybė, šios valstybės saugos tyrimų institucijos atstovas (-ai) turi teisę dalyvauti šiame saugos tyrime, kaip numatyta Europos Sąjungos teisės aktuose arba pagal Lietuvos Respublikai privalomus tarptautinius įsipareigojimus.
 
 2. Jeigu avarija ar incidentas, kurio saugos tyrimą atlieka kitos valstybės saugos tyrimų institucija, patenka į šio įstatymo 3, 4 ir 5 straipsniuose nustatytą taikymo sritį, saugos tyrimus atliekančio struktūrinio padalinio vadovas gali priimti sprendimą šio padalinio valstybės tarnautoją (-us) ir (ar) darbuotoją (-us), dirbantį (-ius) pagal darbo sutartį, skirti kaip atstovą (-us) dalyvauti tokiame saugos tyrime, kaip numatyta Europos Sąjungos teisės aktuose arba pagal Lietuvos Respublikai privalomus tarptautinius įsipareigojimus.
 
-\#### 14 straipsnis. Bendradarbiavimas atliekant saugos tyrimus
+### 14 straipsnis. Bendradarbiavimas atliekant saugos tyrimus
 
 1. Saugos tyrimus atliekantis struktūrinis padalinys, atlikdamas saugos tyrimus, bendradarbiauja su kitų valstybių saugos tyrimų institucijomis. Bendradarbiavimas vykdomas laikantis Europos Sąjungos teisės aktuose arba pagal Lietuvos Respublikai privalomus tarptautinius įsipareigojimus nustatytos tvarkos.
 
@@ -272,7 +270,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 3. Saugos tyrimus atliekantis struktūrinis padalinys kitos valstybės saugos tyrimų institucijos, atsakingos už saugos tyrimą, prašymu gali teikti pagalbą atliekant saugos tyrimą.
 
-\#### 15 straipsnis. Valstybės institucijų ir įstaigų dalyvavimas saugos tyrimuose
+### 15 straipsnis. Valstybės institucijų ir įstaigų dalyvavimas saugos tyrimuose
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio vadovas gali prašyti valstybės institucijų ir įstaigų, atsižvelgiant į savo kompetencijos sritis, skirti atstovą (-us) dalyvauti saugos tyrime.
 
@@ -280,11 +278,9 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 3. Jeigu šio straipsnio 1 dalyje nurodytas atstovas (-ai) eina pareigas valstybės institucijoje ar įstaigoje, jis (jie) institucijos ar įstaigos, kurioje eina pareigas, įgalioto asmens sprendimu gali būti atleidžiamas (-i) nuo tarnybinių pareigų atlikimo laikotarpiui, kol dalyvauja saugos tyrime.
 
-\## IV SKYRIUS
+## IV SKYRIUS. Saugos tyrimO vadovo, Saugos TYRIME DALYVAUJANČIŲ ASMENŲ STATUSAS IR KVALIFIKACIJOS TOBULINIMAS
 
-**Saugos tyrimO vadovo, Saugos TYRIME DALYVAUJANČIŲ ASMENŲ STATUSAS IR KVALIFIKACIJOS TOBULINIMAS**
-
-\#### 16 straipsnis. Saugos tyrimo vadovas ir saugos tyrime dalyvaujantys asmenys
+### 16 straipsnis. Saugos tyrimo vadovas ir saugos tyrime dalyvaujantys asmenys
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio vadovas iš saugos tyrimus atliekančio struktūrinio padalinio valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, saugos tyrimui organizuoti, vykdyti ir kontroliuoti paskiria saugos tyrimo vadovą ir, jeigu reikia, saugos tyrėją (-us), kuris (-ie) turi turėti profesinių žinių, patirties ir būti kompetentingas (-i) toje transporto srityje, kurios avarijos ar incidento saugos tyrimą atlieka.
 
@@ -298,7 +294,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 4. Atlikus saugos tyrimą, saugos tyrimo vadovas saugos tyrimus atliekančio struktūrinio padalinio vadovui pateikia saugos tyrimo ataskaitą, išvadas dėl avarijos ar incidento priežasčių ir veiksnių ir, jeigu reikia, saugos rekomendacijas.
 
-\#### 17 straipsnis. Saugos tyrimo vadovo ir saugos tyrime dalyvaujančių asmenų įgaliojimai
+### 17 straipsnis. Saugos tyrimo vadovo ir saugos tyrime dalyvaujančių asmenų įgaliojimai
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio vadovui paskyrus saugos tyrimo vadovą, saugos tyrimo vadovas turi teisę:
 
@@ -332,7 +328,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 3. Saugos tyrime dalyvaujantys asmenys pareigas atlieka nepriklausomai ir vykdo tik saugos tyrimo vadovo nurodymus.
 
-\#### 18 straipsnis. Kvalifikacijos tobulinimas
+### 18 straipsnis. Kvalifikacijos tobulinimas
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio vadovas nustato saugos tyrimus atliekančio struktūrinio padalinio valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimo tvarką, kuri atitinka tarptautinius standartus ir praktiką ir kurią sudaro 4 etapai:
 
@@ -346,11 +342,9 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 2. Teisingumo ministerija turi sudaryti sąlygas saugos tyrimus atliekančio struktūrinio padalinio valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijai tobulinti, o saugos tyrimus atliekančio struktūrinio padalinio valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, privalo nuolat tobulinti kvalifikaciją saugos tyrimus atliekančio struktūrinio padalinio vadovo nustatyta tvarka.
 
-\## V SKYRIUS
+## V SKYRIUS. PRANEŠIMAI apie AVARIJAS IR INCIDENTUS
 
-**PRANEŠIMAI apie AVARIJAS IR INCIDENTUS**
-
-\#### 19 straipsnis. Pranešimas apie avariją ar incidentą
+### 19 straipsnis. Pranešimas apie avariją ar incidentą
 
 1. Laivo savininkas ar valdytojas arba laivo kapitonas ar jam atstovaujantis fizinis ar juridinis asmuo, Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centras, uostą, kurio akvatorijoje įvyko laivo avarija ar incidentas, valdanti įmonė, vidaus vandens kelio valdytojas, sužinoję apie įvykusią laivo avariją ar incidentą, nedelsdami, ne vėliau kaip per vieną valandą, apie tai praneša saugos tyrimus atliekančiam struktūriniam padaliniui.
 
@@ -364,11 +358,9 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 6. Gavęs pranešimą apie avariją ar incidentą, saugos tyrimus atliekantis struktūrinis padalinys, laikydamasis Lietuvos Respublikos, Europos Sąjungos teisės aktuose arba pagal Lietuvos Respublikai privalomus tarptautinius įsipareigojimus nustatytos tvarkos, nedelsdamas apie tai praneša valstybės institucijoms ir įstaigoms, tarptautinėms organizacijoms, Europos Sąjungos institucijoms ir užsienyje veikiančioms institucijoms.
 
-\## VI SKYRIUS
+## VI SKYRIUS. Įpareigojimas atlikti SAUGOS tyrimą, saugos tyrimo atnaujinimas ir nutraukimas
 
-**Įpareigojimas atlikti SAUGOS tyrimą, saugos tyrimo atnaujinimas ir nutraukimas**
-
-\#### 20 straipsnis. Įpareigojimas atlikti saugos tyrimą oro transporto srityje
+### 20 straipsnis. Įpareigojimas atlikti saugos tyrimą oro transporto srityje
 
 1. Be Reglamento (ES) Nr. 996/2010 5 straipsnio 1 ir 2 dalyse nustatytų įpareigojimų, saugos tyrimus atliekantis struktūrinis padalinys atlieka:
 
@@ -380,7 +372,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 3. Įvykus civilinio orlaivio ar valstybės orlaivio ir krašto apsaugai naudojamo orlaivio avarijai ar incidentui, saugos tyrimą atlieka saugos tyrimus atliekantis struktūrinis padalinys, jeigu su Lietuvos Respublikos krašto apsaugos ministerija nesusitariama kitaip.
 
-\#### 21 straipsnis. Įpareigojimas atlikti saugos tyrimą vandens transporto srityje
+### 21 straipsnis. Įpareigojimas atlikti saugos tyrimą vandens transporto srityje
 
 1. Įvykus laivo avarijai ar incidentui, per 2 mėnesius nuo avarijos ar incidento dienos saugos tyrimų vadovas atlieka preliminarų vertinimą, kurio metu įvertina situaciją ir teikia siūlymą saugos tyrimus atliekančio struktūrinio padalinio vadovui dėl laivo avarijos ar incidento saugos tyrimo atlikimo tikslingumo. Saugos tyrimus atliekančio struktūrinio padalinio vadovui priėmus sprendimą neatlikti sunkios laivo avarijos ar trumpesnio kaip 15 metrų žvejybos laivo labai sunkios avarijos saugos tyrimo, saugos tyrimų vadovas apie tai informuoja Europos Komisiją, nurodydamas tokio sprendimo priežastis.
 
@@ -406,7 +398,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 6. Šio straipsnio 1 ir 4 dalyse nurodytas žvejybos laivų ilgis suprantamas taip, kaip apibrėžiamas 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/1130, kuriuo nustatomos žvejybinių laivų charakteristikos, 2 straipsnyje.
 
-\#### 22 straipsnis. Įpareigojimas atlikti saugos tyrimą sausumos transporto srityje ir naudojantis lynų kelio įrenginiais
+### 22 straipsnis. Įpareigojimas atlikti saugos tyrimą sausumos transporto srityje ir naudojantis lynų kelio įrenginiais
 
 1. Saugos tyrimus atliekantis struktūrinis padalinys privalo atlikti sunkios geležinkelių avarijos saugos tyrimą.
 
@@ -440,15 +432,15 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 8. Saugos tyrimus atliekančio struktūrinio padalinio vadovas ne vėliau kaip per 2 mėnesius nuo pranešimo apie geležinkelių avariją ar incidentą, lynų kelio įrenginio avariją ar incidentą ir kelių transporto priemonės įskaitinį eismo įvykį gavimo dienos nusprendžia, ar pradėti saugos tyrimą.
 
-\#### 23 straipsnis. Saugos tyrimo atnaujinimas ir nutraukimas
+### 23 straipsnis. Saugos tyrimo atnaujinimas ir nutraukimas
 
 1. Atsiradus naujų svarbių faktų ar aplinkybių, kurie gali turėti įtakos transporto saugai, saugos tyrimus atliekančio struktūrinio padalinio vadovas gali nuspręsti atlikti saugos tyrimą arba atnaujinti nutrauktą arba atliktą saugos tyrimą.
 
 2. Saugos tyrimus atliekančio struktūrinio padalinio vadovas gali nutraukti pradėtą saugos tyrimą, kuris nėra privalomas pagal šio įstatymo 20, 21 ar 22 straipsnyje nustatytus reikalavimus, jeigu iš saugos tyrimo metu gautos informacijos paaiškėja, kad saugos tyrimas nėra svarbus transporto saugai.
 
-\## VII SKYRIUS. ĮRODYMŲ SAUGOJIMAS IR TYRIMŲ KOORDINAVIMAS
+VII SKYRIUS. ĮRODYMŲ SAUGOJIMAS IR TYRIMŲ KOORDINAVIMAS
 
-\#### 24 straipsnis. Įrodymų saugojimas
+### 24 straipsnis. Įrodymų saugojimas
 
 1. Kol atvyksta saugos tyrimo vadovas ir (ar) saugos tyrėjas (-ai), laivo ar geležinkelių avarijos ir incidento vietoje įrodymai turi būti neliečiami ir nejudinami, draudžiama ten imti ėminius, judinti laivą ar riedmenis ir jų infrastruktūros įrangą, jų dalis ar nuolaužas, išskyrus atvejus, kai tai būtina siekiant užtikrinti neatidėliotinos pagalbos kilus pavojui asmenų gyvybei, sveikatai ar turtui suteikimą bei įrodymų apsaugą ir kai būtina konsultuojantis su saugos tyrimus atliekančiu struktūriniu padaliniu.
 
@@ -456,7 +448,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 3. Avarijos ar incidento vietoje esantys įrodymai paimami ir saugomi vadovaujantis teisės aktais, reglamentuojančiais įrodymų rinkimą ir saugojimą, institucijų ir įstaigų, nurodytų šio įstatymo 25 straipsnio 4 dalyje, sudarytais susitarimais dėl bendradarbiavimo saugos tyrimų srityje.
 
-\#### 25 straipsnis. Tyrimų koordinavimas
+### 25 straipsnis. Tyrimų koordinavimas
 
 1. Jeigu pradedamas avarijos ar incidento ikiteisminis tyrimas, institucija, vykdanti ikiteisminį tyrimą, apie tai praneša saugos tyrimus atliekančiam struktūriniam padaliniui.
 
@@ -466,9 +458,9 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 4. Saugos tyrimus atliekantis struktūrinis padalinys, institucijos, vykdančios ikiteisminį tyrimą, valstybinė priešgaisrinė gelbėjimo tarnyba, eismo saugos institucija ir kitos institucijos, kurios dalyvauja su avarijos ar incidento saugos tyrimu susijusioje veikloje, tarpusavyje bendradarbiauja ir keičiasi informacija.
 
-\## VIII SKYRIUS. NESKELBTINA SAUGOS TYRIMO INFORMACIJA IR KONFIDENCIALUMO UŽTIKRINIMAS
+VIII SKYRIUS. NESKELBTINA SAUGOS TYRIMO INFORMACIJA IR KONFIDENCIALUMO UŽTIKRINIMAS
 
-\#### 26 straipsnis. Neskelbtina saugos tyrimo informacija
+### 26 straipsnis. Neskelbtina saugos tyrimo informacija
 
 1. Neskelbiama ir tik saugos tyrimo tikslais naudojama informacija:
 
@@ -510,7 +502,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 10) ar neskelbtinos saugos tyrimo informacijos atskleidimas neturės neigiamo poveikio atliekamam ikiteisminiam tyrimui.
 
-\#### 27 straipsnis. Konfidencialumo užtikrinimas
+### 27 straipsnis. Konfidencialumo užtikrinimas
 
 1. Saugos tyrimus atliekančio struktūrinio padalinio valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, privalo saugoti valstybės, tarnybos, profesinę, komercinę ar kitą įstatymų saugomą paslaptį sudarančią informaciją, saugos tyrimo metu gautą neskelbtiną saugos tyrimo informaciją, taip pat bet kokią kitą konfidencialią informaciją, kurią jie sužinojo atlikdami savo užduotis arba naudodamiesi savo įgaliojimais. Ši pareiga išlieka ir pasibaigus jų tarnybos (darbo) santykiams.
 
@@ -520,11 +512,9 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 4. Iš saugos tyrimus atliekančio struktūrinio padalinio valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, taip pat pagal šio įstatymo 16 straipsnio 2 dalį saugos tyrimui atlikti pasitelktų techninių ar specializuotų kompetencijų turinčių asmenų, net ir pasibaigus jų tarnybos (darbo) santykiams, negali būti reikalaujama duoti parodymų jokiame administraciniame, ikiteisminiame arba teisminiame procese, vykstančiame dėl avarijos ar incidento.
 
-\## IX SKYRIUS
+## IX SKYRIUS. Saugos tyrimo ataskaita IR JOS PATEIKIMAS
 
-**Saugos tyrimo ataskaita IR JOS PATEIKIMAS**
-
-\#### 28 straipsnis. Saugos tyrimo ataskaita
+### 28 straipsnis. Saugos tyrimo ataskaita
 
 1. Kiekvienas saugos tyrimas užbaigiamas parengiant saugos tyrimus atliekančio struktūrinio padalinio interneto svetainėje viešai skelbiamą saugos tyrimo ataskaitą, kurią pasirašo saugos tyrimo vadovas ir tvirtina saugos tyrimus atliekančio struktūrinio padalinio vadovas.
 
@@ -534,7 +524,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 4. Šio įstatymo 26 straipsnio 1 dalyje nurodyta neskelbtina saugos tyrimo informacija įtraukiama į saugos tyrimo ataskaitą tik tuo atveju, jeigu ji svarbi avarijos ar incidento analizei. Su analize nesusijusi informacija ar jos dalys saugos tyrimo ataskaitoje neatskleidžiamos.
 
-\#### 29 straipsnis. Saugos tyrimo ataskaitos pateikimas
+### 29 straipsnis. Saugos tyrimo ataskaitos pateikimas
 
 1. Prieš saugos tyrimus atliekančiam struktūriniam padaliniui viešai paskelbiant saugos tyrimo ataskaitą, su avarija ar incidentu susijusiems asmenims ir asmenims, kuriems saugos tyrimo ataskaitos paskelbimas gali turėti įtakos, suteikiama teisė pateikti pastabas dėl saugos tyrimo ataskaitos projekto.
 
@@ -548,11 +538,9 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 6. Saugos tyrimo ataskaita viešai skelbiama siekiant užkirsti kelią kitoms avarijoms ir incidentams. Saugos tyrimo ataskaita ir atskiros jos dalys negali būti naudojamos kaip įrodymas administraciniame, ikiteisminiame arba teisminiame procese.
 
-\## X SKYRIUS
+## X SKYRIUS. saugos rekomendacijos IR VEIKSMAI JAS GAVUS
 
-**saugos rekomendacijos IR VEIKSMAI JAS GAVUS**
-
-\#### 30 straipsnis. Saugos rekomendacijos
+### 30 straipsnis. Saugos rekomendacijos
 
 1. Bet kuriuo saugos tyrimo etapu saugos tyrimus atliekantis struktūrinis padalinys gali teikti saugos rekomendacijas, kurios padėtų sustiprinti transporto saugą ir užkirsti kelią kitoms avarijoms ir incidentams.
 
@@ -562,7 +550,7 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 4. Saugos rekomendacijomis nėra nustatomi ar įvardijami kalti ar atsakingi už avariją ar incidentą asmenys.
 
-\#### 31 straipsnis. Veiksmai gavus saugos rekomendacijas
+### 31 straipsnis. Veiksmai gavus saugos rekomendacijas
 
 1. Saugos tyrimus atliekančiam struktūriniam padaliniui pateikus saugos rekomendaciją saugos rekomendacijos gavėjui, saugos rekomendacijos gavėjas patvirtina, kad ją gavo, ir per 90 kalendorinių dienų nuo saugos rekomendacijos gavimo dienos raštu praneša saugos tyrimus atliekančiam struktūriniam padaliniui, kokių veiksmų imtasi ar ketinama imtis saugos rekomendacijai įgyvendinti ir, jeigu reikia, kiek laiko prireiks jiems užbaigti, o jeigu nesiimama jokių veiksmų, nurodo to priežastis.
 
@@ -572,15 +560,15 @@ g) rengia ir skelbia saugos tyrimų ataskaitas;
 
 4. Saugos tyrimus atliekantis struktūrinis padalinys stebi, kaip įgyvendinamos pateiktos saugos rekomendacijos.
 
-\## XI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+XI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 32 straipsnis. Saugos tyrimo bylų saugojimas ir atsakomybė už šio įstatymo reikalavimų pažeidimus
+### 32 straipsnis. Saugos tyrimo bylų saugojimas ir atsakomybė už šio įstatymo reikalavimų pažeidimus
 
 1. Saugos tyrimų bylos turi būti saugomos ir archyvuojamos taip, kad būtų užtikrinta šio įstatymo 26 straipsnio 1 dalyje nurodytos neskelbtinos saugos tyrimo informacijos apsauga.
 
 2. Asmenys, pažeidę šio įstatymo reikalavimus, atsako Administracinių nusižengimų kodekso arba Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka.
 
-\#### 33 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+### 33 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. sausio 1 d.
 

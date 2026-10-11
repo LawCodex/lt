@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5bda2470cec711ed9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5BDA2470CEC7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 1, 8, 9, 11, 12, 13, 14, 16, 18, 20, 22, 23 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-1741 11 straipsnio pripažinimo netekusiu galios įstatymas
@@ -35,5 +35,3 @@ Pripažinti netekusiu galios 11 straipsnį.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_b1d8fe56b49a4d9a80e550de78baad32_end

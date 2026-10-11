@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.06ACF15E8516"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.06ACF15E8516.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 6, 65 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2011, Nr. [62-2936](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291))
 
-\#### 1 straipsnis. 6 straipsnio 9 punkto pakeitimas
+## 1 straipsnis. 6 straipsnio 9 punkto pakeitimas
 
 Pakeisti 6 straipsnio 9 punktą ir jį išdėstyti taip:
 
 „9) tvirtina Biokuro, biodegalų, biodujų, biotepalų ir bioalyvų prekybos taisykles;“.
 
-\#### 2 straipsnis. 65 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 65 straipsnio papildymas 3 dalimi
 
 Papildyti 65 straipsnį 3 dalimi:
 

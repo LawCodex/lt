@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/61718050801f11e8ae2bfd1913d66d57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.61718050801F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pensijų sistemos reformos įstatymo Nr. IX-1215 pripažinimo netekusiu galios įstatymas
@@ -26,11 +26,11 @@ PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO NR. IX-1215 PRIPAŽINIMO NETEKUSIU GALIOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos pensijų sistemos reformos įstatymą Nr. IX-1215 su visais pakeitimais ir papildymais.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2019 m. sausio 1 d.
 

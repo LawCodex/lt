@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EBDFD4B123B0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EBDFD4B123B0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 4, 31, 32 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3046](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E); 2008, Nr. [137-5370](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A9825575BCD); 2010, Nr. [67-3341](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A7AFA3A0DEF))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 4 straipsnio 1 dalyje po žodžio „ir“ įrašyti žodį „(arba)“ ir šią dalį išdėstyti taip:
 
 „1. Kiekvienas viešojo sektoriaus subjektas, sudarantis finansinių ataskaitų ir (arba) biudžeto vykdymo ataskaitų rinkinius (toliau – ataskaitų rinkiniai arba ataskaitos), laikomas atskiru apskaitos vienetu.“
 
-\#### 2 straipsnis. 31 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 31 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „4. Valstybės konsoliduotąsias ataskaitas pasirašo finansų ministras.“
 
-\#### 3 straipsnis. 32 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 6 ir 7 dalimis
+## 3 straipsnis. 32 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 6 ir 7 dalimis
 
 1. Pakeisti 32 straipsnio 4 dalį ir ją išdėstyti taip:
 

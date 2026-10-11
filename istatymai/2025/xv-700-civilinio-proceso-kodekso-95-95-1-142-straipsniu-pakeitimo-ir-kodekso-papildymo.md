@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f63377a2e55e11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F63377A2E55E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 95, 95-1, 142 straipsnių pakeitimo ir Kodekso papildymo priedu įstatymas
@@ -26,13 +26,13 @@ CIVILINIO PROCESO KODEKSO 95, 951, 142 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYM
 
 Vilnius
 
-\#### 1 straipsnis. 95 straipsnio pakeitimas
+## 1 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Kai yra pagrindas manyti, kad ieškinį (pradinį ar priešieškinį), apeliacinį, atskirąjį ar kasacinį skundą, prašymą atnaujinti procesą, pareiškimą ar prašymą ypatingosios teisenos tvarka pateikęs asmuo gali piktnaudžiauti procesinėmis teisėmis ir neatlyginti bylinėjimosi išlaidų, teismas turi teisę įpareigoti šį asmenį sumokėti užstatą galimų bylinėjimosi išlaidų atlyginimui užtikrinti. Kai užstatą prašo taikyti dalyvaujantis byloje asmuo, šis prašymas turi būti išnagrinėtas ne vėliau kaip per septynias darbo dienas nuo prašymo gavimo dienos. Užstato per teismo nustatytą terminą nesumokėjus, teismas procesinį dokumentą palieka nenagrinėtą. Užstato dydis nustatomas, užstatas grąžinamas, bylinėjimosi išlaidos iš užstato atlyginamos *mutatis mutandis* taikant šio Kodekso 795, 796, 797 ir 798 straipsnius.“
 
-\#### 2 straipsnis. 951 straipsnio pakeitimas
+## 2 straipsnis. 951 straipsnio pakeitimas
 
 Pakeisti 95^1 straipsnį ir jį išdėstyti taip:
 
@@ -52,13 +52,13 @@ Pakeisti 95^1 straipsnį ir jį išdėstyti taip:
 
 7. Pritaikius šio straipsnio 2 dalyje nurodytą procedūrą, teismui įstatymuose nustatyti bylos išnagrinėjimo terminai pradedami skaičiuoti nuo šio straipsnio 6 dalyje nurodytos teismo nutarties priėmimo dienos.“
 
-\#### 3 straipsnis. 142 straipsnio pakeitimas
+## 3 straipsnis. 142 straipsnio pakeitimas
 
 Pakeisti 142 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) atsakovo prašymas taikyti šio Kodekso 95^1 straipsnio 2 dalyje nurodytą procedūrą siekiant akivaizdžiai nepagrįsto ieškinio ankstyvo atmetimo, kai atsakovas pageidauja, kad ji būtų taikoma, ir aplinkybės, pagrindžiančios, kodėl atsakovas mano, kad ieškovas nesąžiningai pareiškė akivaizdžiai nepagrįstą ieškinį atsakovui dėl to, kad jis užsiima visuomenės dalyvavimo veikla, šias aplinkybes pagrindžiantys įrodymai.“
 
-\#### 4 straipsnis. Kodekso papildymas priedu
+## 4 straipsnis. Kodekso papildymas priedu
 
 Papildyti Kodeksą priedu:
 
@@ -74,7 +74,7 @@ priedas
 
 __________________“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. gegužės 7 d.
 

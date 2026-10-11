@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fe364650da9c11e39a43a3f57c05722e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FE364650DA9C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 4 ir 32 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ VALSTYBĖS TARNYBOS ĮSTATYMO NR. VIII-1316
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „4. Seimo ar Respublikos Prezidento paskirtiems valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams, taip pat pagal specialius įstatymus įsteigtų komisijų, tarybų, fondų valdybų pirmininkams ir nariams taikomi šio Įstatymo 32 ir 33 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurie tik periodiškai dalyvauja šioje dalyje nurodytų komisijų, tarybų, fondų valdybų posėdžiuose, taip pat taikomas šio Įstatymo 36 straipsnis.“
 
-\#### 2 straipsnis. 32 straipsnio pakeitimas
+## 2 straipsnis. 32 straipsnio pakeitimas
 
 1. Pakeisti 32 straipsnio 4 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BA0E96486407"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BA0E96486407.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 1, 2, 13 straipsnių ir įstatymo priedo pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1991, Nr. [30-804](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B); 2002, Nr. [29-1034](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBEAE76BC38); 2005, Nr. [71-2560](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A8B512C3193); 2006, Nr. [82-3250](https://www.e-tar.lt/portal/lt/legalAct/TAR.F659A19082E9))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje vietoj žodžių „visuomenės aptarnavimo įsipareigojimų“ įrašyti žodžius „viešųjų keleivinio transporto paslaugų teikimo“ ir šią dalį išdėstyti taip:
 
 „1. Šis Įstatymas nustato Lietuvos Respublikos transporto viešojo administravimo, vežėjų (operatorių) ir transporto infrastruktūros valdytojų veiklos, valstybės pagalbos plėtojant transporto infrastruktūrą ir jos valdymo bendruosius principus, transporto infrastruktūros valdytojų teisinį statusą, jų santykius su transporto infrastruktūros savininkais bei naudotojais, viešųjų keleivinio transporto paslaugų teikimo, saugaus eismo užtikrinimo ir kitų su transporto veikla susijusių santykių reglamentavimo pagrindus.“
 
-\#### 2 straipsnis. 2 straipsnio 13 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 13 dalies pakeitimas
 
 Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
 
 „13. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (toliau – Reglamentas (EB) Nr. 1370/2007) ir 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (toliau – Reglamentas (EB) Nr. 1008/2008).“
 
-\#### 3 straipsnis. 13 straipsnio pakeitimas
+## 3 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 4. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybės institucija, priėmusi sprendimą nutraukti viešųjų paslaugų sutartį, privalo sudaryti galimybę visuomenei naudotis alternatyvia transporto paslauga.“
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -76,11 +76,11 @@ priedas
 
 4. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (nauja redakcija) (OL 2008 L 293, p. 3).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 6 straipsnį, įsigalioja 2012 m. sausio 1 d.
 
-\#### 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus.
 

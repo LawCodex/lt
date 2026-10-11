@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1311C5AC5DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 2, 10, 12, 20, 21, 22, 27, 30, 37 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765); 2009, Nr. [10-355](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C5DEC45B23B), Nr. [61-2402](https://www.e-tar.lt/portal/lt/legalAct/TAR.43A67B9687BB))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį nauja 3 dalimi:
 
@@ -60,31 +60,31 @@ Vilnius
 
 „48. **Valdymo perdavimas** – šilumos ūkio ar jo dalies valdymo teisės perdavimas asmeniui nuomos, koncesijos ar kitų valdymo perdavimo sutarčių pagrindu.“
 
-\#### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 10 straipsnio 3 dalyje vietoj žodžių „kitoms šilumos tiekimo įmonėms“ įrašyti žodžius „kitiems šilumos tiekėjams“ ir šią dalį išdėstyti taip:
 
 „3. Jeigu nepriklausomas šilumos gamintojas yra vienintelis arba jei vienas ar keli nepriklausomi šilumos gamintojai gamina daugiau kaip 50 procentų šilumos vienoje centralizuoto šilumos tiekimo sistemoje, jiems privaloma šilumos gamybos kainodara taikoma kaip ir kitiems šilumos tiekėjams.“
 
-\#### 3 straipsnis. 12 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 12 straipsnio 3 dalies pakeitimas
 
 12 straipsnio 3 dalyje po žodžio „buitiniam“ įrašyti žodį „šilumos“, po žodžio „papildomas“ įrašyti žodį „šilumos“ ir šią dalį išdėstyti taip:
 
 „3. Atsiskaitymo dokumentas yra sąskaita už šilumą. Buitiniam šilumos vartotojui išrašytoje sąskaitoje turi būti pateikta tiksli, aiški ir išsami informacija, kuria remdamasis šilumos tiekėjas apskaičiavo vartotojo mokesčio dydį už jo suvartotą šilumos kiekį patalpoms šildyti ir šilumos kiekį karštam vandeniui ruošti bei karšto vandens temperatūrai palaikyti. Pateiktos informacijos privalo pakakti, kad vartotojas galėtų pasitikrinti, ar teisingai jam apskaičiuoti mokesčiai. Savivaldybės institucijos turi teisę nustatyti, kad buitiniams šilumos vartotojams vietoj sąskaitų už šilumą būtų išduodami mokesčio už šilumą pranešimai. Buitinio šilumos vartotojo reikalavimu šilumos tiekėjas privalo išduoti sąskaitą, kai vartotojas apmoka su tiekimo sąskaita susijusias papildomas šilumos tiekėjo sąnaudas. Savivaldybės institucijai nustačius, kad buitiniams šilumos vartotojams vietoj sąskaitų būtų išduodami mokesčio už šilumą pranešimai, į šilumos kainą neįtraukiamos sąskaitų už šilumą parengimo ir pateikimo vartotojams sąnaudos.“
 
-\#### 4 straipsnis. 20 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 20 straipsnio 4 dalies pakeitimas
 
 20 straipsnio 4 dalyje po žodžių „buitiniams“ įrašyti žodžius „šilumos“ ir šią dalį išdėstyti taip:
 
 „4. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas su šilumos tiekėju sudaro šilumos pristatymo buitiniams šilumos vartotojams sutartį, su karšto vandens tiekėju – karšto vandens pristatymo buitiniams šilumos vartotojams sutartį.“
 
-\#### 5 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 20 straipsnio 1 dalies pirmojoje pastraipoje po žodžio „buitinių“ įrašyti žodį „šilumos“ ir šią dalį išdėstyti taip:
 
 „1. Ginčus, kylančius iš sutartinių santykių tarp buitinių šilumos vartotojų ir šilumos bei karšto vandens tiekėjų, priežiūros paslaugų teikėjų, ginčo sprendimo ne teisme tvarka nagrinėja šios valstybės ir savivaldybės institucijos:“.
 
-\#### 6 straipsnis. 22 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 6 straipsnis. 22 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. 22 straipsnio 1 dalyje vietoj žodžių „tiekimo įmonės“ įrašyti žodį „tiekėjai“, išbraukti žodį „įmonės“ ir šią dalį išdėstyti taip:
 
@@ -98,13 +98,13 @@ Vilnius
 
 „3. Keičiantis šilumos ir (ar) karšto vandens kainoms, šilumos ir (ar) karšto vandens tiekėjai bei šio įstatymo 10 straipsnio 3 dalyje numatyti nepriklausomi šilumos gamintojai iki mėnesio 25 dienos viešai informuoja vartotojus, savivaldybes bei Valstybinę kainų ir energetikos kontrolės komisiją apie apskaičiuotas šilumos ir karšto vandens kainas. Šilumos ir karšto vandens kainos įsigalioja nuo kito mėnesio pirmos dienos.“
 
-\#### 7 straipsnis. 27 straipsnio 1 dalies 3 punkto pakeitimas
+## 7 straipsnis. 27 straipsnio 1 dalies 3 punkto pakeitimas
 
 27 straipsnio 1 dalies 3 punkte vietoj žodžių „tiekimo įmonė“ įrašyti žodį „tiekėjas“ ir šį punktą išdėstyti taip:
 
 „3) reikalauti iš šilumos ir karšto vandens tiekėjų ir sistemų prižiūrėtojų atlyginti nuostolius, jeigu šilumos tiekėjas ar prižiūrėtojai neužtikrina šilumos ir (ar) karšto vandens bei teikiamų paslaugų kokybės reikalavimų.“
 
-\#### 8 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 30 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -164,7 +164,7 @@ Vilnius
 
 11. Buvusią 30 straipsnio 4 dalį laikyti 13 dalimi.
 
-\#### 9 straipsnis. 37 straipsnio 6 dalies pakeitimas
+## 9 straipsnis. 37 straipsnio 6 dalies pakeitimas
 
 37 straipsnio 6 dalyje vietoj žodžių „kontroliuojamas šilumos tiekimo įmones“ įrašyti žodžius „kontroliuojamus šilumos tiekėjus“ ir šią dalį išdėstyti taip:
 

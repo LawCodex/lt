@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.786BC3860812"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.786BC3860812.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 10, 16, 16-1, 17, 23, 26, 37, 41, 42 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 26-1, 43-1 straipsniais ir 3 priedo II skyriaus pakeitimo įstatymo 14 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2008, Nr. [143-5688](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13A2F50E71E))
 
-\#### 1 straipsnis. 14 straipsnio 2 dalies pripažinimas netekusia galios
+## 1 straipsnis. 14 straipsnio 2 dalies pripažinimas netekusia galios
 
 14 straipsnio 2 dalį pripažinti netekusia galios.
 

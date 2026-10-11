@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.109B71E8E0C3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.109B71E8E0C3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 29, 30 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 1997, Nr. [67-1660](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C4DB7169F34); 2000, Nr. [28-759](https://www.e-tar.lt/portal/lt/legalAct/TAR.D7491F2A71FE); 2002, Nr. [65-2632](https://www.e-tar.lt/portal/lt/legalAct/TAR.013EB8EE4545); 2003, Nr. [52-2312](https://www.e-tar.lt/portal/lt/legalAct/TAR.2114C9F89F5F))
 
-\#### 1 straipsnis. 29 straipsnio 1 dalies 4 punkto pakeitimas
+## 1 straipsnis. 29 straipsnio 1 dalies 4 punkto pakeitimas
 
 29 straipsnio 1 dalies 4 punkte išbraukti žodžius „išskyrus alų ir putojančius vynus, kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų“ ir šį punktą išdėstyti taip:
 
 „4) teikti savo produkciją į loterijas, konkursus, žaidimus kaip prizus arba kartu su jais;“.
 
-\#### 2 straipsnis. 30 straipsnio 2 dalies 4 ir 8 punktų papildymas ir 5 dalies pakeitimas
+## 2 straipsnis. 30 straipsnio 2 dalies 4 ir 8 punktų papildymas ir 5 dalies pakeitimas
 
 1. Papildyti 30 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „Reklama nelaikoma alkoholinių gėrimų prekybos vietoje esanti šio straipsnio šeštojoje dalyje leidžiama pateikti informacija, informacija apie alkoholinius gėrimus informaciniuose pranešimuose, kurie skirti tik alkoholio verslo specialistams, taip pat alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių registruoti pavadinimai (jei alkoholinių gėrimų gamintojo pavadinimas yra sudėtinė šių įmonių registruoto pavadinimo dalis) bei prekių ženklai, kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių įmonių buveinės ar padalinio pastato bei įmonių specializuoto transporto.“
 
-\#### 3 straipsnis. Įstatymo 1 straipsnio įsigaliojimas
+## 3 straipsnis. Įstatymo 1 straipsnio įsigaliojimas
 
 Šio Įstatymo 1 straipsnis įsigalioja nuo 2003 m. spalio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9effad324c3111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9EFFAD324C31.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3 ir 46 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ MUITINĖS ĮSTATYMO NR. IX-2183 3 IR 46 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente [(ES) Nr. 952/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R0952&locale=lt), Reglamente [(ES) 2015/2446](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32015R2446&locale=lt), Reglamente [(ES) 2015/2447](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32015R2447&locale=lt), Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.“
 
-\#### 2 straipsnis. 46 straipsnio pakeitimas
+## 2 straipsnis. 46 straipsnio pakeitimas
 
 1. Papildyti 46 straipsnio 2 dalį 5 punktu:
 
@@ -42,7 +42,7 @@ Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „3. Iš šio straipsnio 2 dalies 1–4 punktuose nurodytų transporto priemonių Lietuvos Respublikos teritorijoje iškraunamoms prekėms muitinės priežiūra taikoma įprasta tvarka.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

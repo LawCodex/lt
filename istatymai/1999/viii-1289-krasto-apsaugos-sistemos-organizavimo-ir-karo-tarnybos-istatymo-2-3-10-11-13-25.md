@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D6C240000971.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 3, 10, 11, 13, 25, 26, 28, 31, 34, 38, 39, 40, 43, 45, 46, 48, 50, 53, 54, 55, 56, 60, 62, 63, 64, 65, 68, 72, 73 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 77-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį nauja 8 dalimi:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „25. **Liktinis** – Lietuvos Respublikos pilietis, per 60 dienų po privalomosios pradinės karo tarnybos atlikimo įstojęs į profesinę karo tarnybą.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 3 straipsnio papildymas 3 dalimi
 
 1. Papildyti 3 straipsnį nauja 3 dalimi:
 
@@ -48,7 +48,7 @@ Vilnius
 
 2. Buvusią 3 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 3 straipsnis. 10 straipsnio 2 dalies papildymas
+## 3 straipsnis. 10 straipsnio 2 dalies papildymas
 
 1. Papildyti 10 straipsnio 2 dalies 9 punktą ir išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „16) skiria karius į bataliono vado ir aukštesnes pareigas, taip pat į pulkininko leitenanto (komandoro) ir pulkininko (jūrų kapitono) laipsnį atitinkančias pareigas, juos atleidžia iš pareigų ar perkelia iš vienos krašto apsaugos sistemos institucijos (kariuomenės dalinio) į kitą; prireikus deleguoja karius į tarnybą Krašto apsaugos ministerijai nepavaldžiose institucijose;“.
 
-\#### 4 straipsnis. 11 straipsnio 2 ir 7 dalių papildymas
+## 4 straipsnis. 11 straipsnio 2 ir 7 dalių papildymas
 
 1. Papildyti 11 straipsnio 2 dalį šeštu ir septintu sakiniais ir šią dalį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 „7. Detalią kariuomenės struktūrą nustato, naujus kariuomenės junginius bei dalinius steigia krašto apsaugos ministras, vadovaudamasis Seimo patvirtinta principine kariuomenės struktūra.“
 
-\#### 5 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. 13 straipsnio 1 dalį papildyti trečiu sakiniu ir šią dalį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Vilnius
 
 „8) užtikrina įstatymų ir kitų teisės aktų vykdymą, atsako už tvarką ir drausmę kariuomenėje;“.
 
-\#### 6 straipsnis. 25 straipsnio pakeitimas
+## 6 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 25 straipsnį ir išdėstyti taip:
 
 2. Statutus, kurie nustato karių drausminę atsakomybę ir ginklo panaudojimą, tvirtina Seimas įstatymais. Civilinės krašto apsaugos tarnybos statutą ir krašto apsaugos sistemos operatyvinių tarnybų karių bei civilinę krašto apsaugos tarnybą atliekančių darbuotojų tarnybos statutus tvirtina Vyriausybė arba jos įgaliotas krašto apsaugos ministras. Kitus statutus tvirtina krašto apsaugos ministras.“
 
-\#### 7 straipsnis. 26 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 26 straipsnio pakeitimas ir papildymas
 
 Pakeisti 26 straipsnio pavadinimą, papildyti straipsnį nauja 2 dalimi, buvusias 2, 3, 4 dalis laikyti atitinkamai 3, 4, 5 dalimis, pakeisti 4 dalį ir visą straipsnį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 26 straipsnio pavadinimą, papildyti straipsnį nauja 2 dalimi, buvusia
 
 5. Siekiant užtikrinti valstybės ar tarnybinių paslapčių apsaugą ar patikrinti kario pateiktą informaciją, poligrafas gali būti naudojamas tik kariui raštu davus sutikimą. Kariui, kuris nesutinka būti tikrinamas poligrafu, neleidžiama vykdyti pareigų, susijusių su valstybės ar tarnybos paslaptimis.“
 
-\#### 8 straipsnis. 28 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 28 straipsnio pakeitimas ir papildymas
 
 Papildyti 28 straipsnį naujomis 3, 4 ir 5 dalimis, o buvusią 3 dalį laikyti 6 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Papildyti 28 straipsnį naujomis 3, 4 ir 5 dalimis, o buvusią 3 dalį laikyti 6
 
 6. Asmenys, norintys stoti į profesinę karo tarnybą, ir profesinės karo tarnybos kariai pagal krašto apsaugos sistemoje nustatyto turinio anketą privalo pateikti informaciją apie save, savo ryšius ir interesus, galinčius turėti reikšmės valstybės paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti interesų konflikto priežastimi. Ši informacija tikrinama. Profesinės karo tarnybos karys, nuslėpęs ar sąmoningai pateikęs neteisingą informaciją, traukiamas atsakomybėn pagal įstatymus ar drausmės statutą.“
 
-\#### 9 straipsnis. 31 straipsnio 2 dalies pakeitimas ir papildymas
+## 9 straipsnis. 31 straipsnio 2 dalies pakeitimas ir papildymas
 
 Pakeisti 31 straipsnio 2 dalies 2 punktą, papildyti šią dalį 3 ir 4 punktais ir visą dalį išdėstyti taip:
 
@@ -162,13 +162,13 @@ Pakeisti 31 straipsnio 2 dalies 2 punktą, papildyti šią dalį 3 ir 4 punktais
 
 4) su stojančiais į taikos palaikymo karinius vienetus – ne trumpesniam kaip 3 metų ir 6 mėnesių laikotarpiui ir ne ilgesniam kaip 5 metų laikotarpiui.“
 
-\#### 10 straipsnis. 34 straipsnio 3 dalies pakeitimas
+## 10 straipsnis. 34 straipsnio 3 dalies pakeitimas
 
 Pakeisti 34 straipsnio 3 dalį ir išdėstyti taip:
 
 „3. Bandomasis laikotarpis netaikomas liktiniams ir kariams, baigusiems karinę mokymo įstaigą, taip pat kariams, perkeliamiems į kitas pareigas.“
 
-\#### 11 straipsnis. 38 straipsnio pakeitimas ir papildymas
+## 11 straipsnis. 38 straipsnio pakeitimas ir papildymas
 
 Pakeisti 38 straipsnio 1 ir 2 dalis, papildyti straipsnį 3 ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -226,13 +226,13 @@ Pakeisti 38 straipsnio 1 ir 2 dalis, papildyti straipsnį 3 ir 4 dalimis ir vis�
 
 4. Teisę nutraukti profesinės karo tarnybos sutartį šiame straipsnyje numatytais pagrindais turi krašto apsaugos ministras arba jo įgalioti kariuomenės vadas bei kiti vadai ar pareigūnai.“
 
-\#### 12 straipsnis. 39 straipsnio 4 dalies pakeitimas
+## 12 straipsnis. 39 straipsnio 4 dalies pakeitimas
 
 39 straipsnio 4 dalyje po žodžių ir skaičiaus „bei 2 dalies“ vietoj skaičių „3, 4, 5, 6, 8, 9, 11 ir 12“ įrašyti skaičius „4, 5, 6, 9, 10, 11 ir 12“ ir šią dalį išdėstyti taip:
 
 „4. Jeigu profesinės karo tarnybos karys suserga sukakus išleidimo į atsargą amžiui arba jeigu teisę nutraukti su kariu tarnybos sutartį turintis pareigūnas yra priėmęs sprendimą sutartį nutraukti 38 straipsnio 1 dalies 5 ir 6 punktuose bei 2 dalies 4, 5, 6, 9, 10, 11 ir 12 punktuose ir 37 straipsnio 1 dalyje numatytais atvejais, o karys suserga iki numatytos atleidimo iš karo tarnybos dienos, iš pareigų jis gali būti atleistas ir ligos metu. Šiuo atveju jo atleidimo iš karo tarnybos diena nukeliama į kitą dieną po paskutinės ligos dienos, bet ne ilgiau kaip 60 dienų.“
 
-\#### 13 straipsnis. 40 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 13 straipsnis. 40 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 Pakeisti 40 straipsnio pavadinimą bei 1 dalį ir išdėstyti taip:
 
@@ -248,7 +248,7 @@ Pakeisti 40 straipsnio pavadinimą bei 1 dalį ir išdėstyti taip:
 
 4) turinčiam didesnį kaip 15 metų stažą – 4 mėnesių tarnybinių atlyginimų dydžio.“
 
-\#### 14 straipsnis. 43 straipsnio papildymas
+## 14 straipsnis. 43 straipsnio papildymas
 
 43 straipsnyje po žodžio „pažeidžia“ įrašyti žodžius „ar yra įtariamas pažeidęs“, po žodžių „prieštaraujančios aplinkybės“ išbraukti žodį „tiesioginis“ ir šį straipsnį išdėstyti taip:
 
@@ -256,7 +256,7 @@ Pakeisti 40 straipsnio pavadinimą bei 1 dalį ir išdėstyti taip:
 
 Jeigu profesinės karo tarnybos karys pažeidžia ar yra įtariamas pažeidęs tarnybos tvarką ar drausmę, karininko etikos kodekso normas arba jei susidaro tarnybos interesams prieštaraujančių aplinkybių, aukštesnysis vadas (viršininkas) savo įsakymu gali jį nušalinti nuo pareigų. Nušalintas nuo pareigų karys gali būti perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą, iki bus priimtas atitinkamas sprendimas dėl šio kario tolesnės tarnybos. Šiuo atveju perkelti į laikinąjį rezervą galima ne ilgiau kaip 1 mėnesiui, o jeigu pažeidimui ar kitoms tarnybos aplinkybėms ištirti reikia ilgesnio laiko, – iki ištyrimo pabaigos ir 2 savaitėms po jo.“
 
-\#### 15 straipsnis. 45 straipsnio 1, 5 ir 6 dalių pakeitimas
+## 15 straipsnis. 45 straipsnio 1, 5 ir 6 dalių pakeitimas
 
 1. 45 straipsnio 1 dalyje po žodžio „pareigų“ įrašyti žodžius „jas perduoda“, po skaičiaus ir žodžių „14 kalendorinių dienų“ įrašyti žodį „atleidžiamas“, išbraukti žodžius „išleidžiamas į atsargą“ ir šią dalį išdėstyti taip:
 
@@ -268,7 +268,7 @@ Jeigu profesinės karo tarnybos karys pažeidžia ar yra įtariamas pažeidęs t
 
 6. Profesinės karo tarnybos kariai, kurie eina karinių specialistų pareigas pagal krašto apsaugos ministro įsakymu patvirtintą karinių specialybių sąrašą, gali būti išleidžiami į atsargą sukakę 55 metus.“
 
-\#### 16 straipsnis. 46 straipsnio pakeitimas
+## 16 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir išdėstyti taip:
 
@@ -276,7 +276,7 @@ Pakeisti 46 straipsnį ir išdėstyti taip:
 
 Kai kuriais atvejais krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti ne aukštesnio kaip pulkininko laipsnio kario, sukakusio šio įstatymo 45 straipsnio 4 dalyje nustatytą amžių, profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne ilgiau kaip 2 metams (arba 2 kartus po vienerius metus). Šiam terminui pasibaigus pakartotinai ne ilgesniam kaip 2 metų laikotarpiui pratęsti profesinę karo tarnybą pagal tokią sutartį krašto apsaugos ministras gali tik karininkams, turintiems ne aukštesnį kaip majoro laipsnį.“
 
-\#### 17 straipsnis. 48 straipsnio papildymas
+## 17 straipsnis. 48 straipsnio papildymas
 
 Papildyti 48 straipsnį 2, 3, 4 dalimis ir straipsnį išdėstyti taip:
 
@@ -290,7 +290,7 @@ Papildyti 48 straipsnį 2, 3, 4 dalimis ir straipsnį išdėstyti taip:
 
 4. Jeigu asmuo buvo atleistas iš profesinės karo tarnybos esant šio įstatymo numatytam pagrindui, tačiau teismas nustato, kad buvo pažeista teisės aktų nustatyta atleidimo tvarka, teismas negali grąžinti jo į profesinę karo tarnybą ar pakeisti jo atleidimo iš tarnybos pagrindo, tačiau gali priteisti atleistam iš profesinės karo tarnybos asmeniui iki 3 mėnesių tarnybinių atlyginimų dydžio piniginę kompensaciją nepaisant to, ar šiam asmeniui priklausė ir buvo išmokėta išeitinė pašalpa.“
 
-\#### 18 straipsnis. 50 straipsnio 4 ir 5 dalių pakeitimas
+## 18 straipsnis. 50 straipsnio 4 ir 5 dalių pakeitimas
 
 Pakeisti 50 straipsnio 4, 5 dalis ir jas išdėstyti taip:
 
@@ -298,13 +298,13 @@ Pakeisti 50 straipsnio 4, 5 dalis ir jas išdėstyti taip:
 
 5. Kario, kuris atleidžiamas iš tarnybos dėl šio įstatymo 38 straipsnio 1 dalies 1, 2, 3, 5 ir 6 punktuose numatytų priežasčių, pažymėjime įrašomi žodžiai „atleistas dėl įstatymo pažeidimo“.“
 
-\#### 19 straipsnis. 53 straipsnio 4 dalies pakeitimas
+## 19 straipsnis. 53 straipsnio 4 dalies pakeitimas
 
 Pakeisti 53 straipsnio 4 dalį ir išdėstyti taip:
 
 „4. Baigusiems karininkų kursus ir stojantiems į profesinę karo tarnybą arba atliekantiems profesinę karo tarnybą ir jos metu baigusiems karininkų kursus gydytojams ir ne žemesnio kaip bakalauro ar jam prilyginto laipsnio teisininkams, taip pat gydytojams vietoj pirmojo leitenanto laipsnio tokia pat tvarka gali būti suteikiamas aukštesnis vyresniojo leitenanto ar kapitono (kapitono leitenanto) laipsnis.“
 
-\#### 20 straipsnis. 54 straipsnio pakeitimas ir papildymas
+## 20 straipsnis. 54 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 54 straipsnio 3 dalį ir išdėstyti taip:
 
@@ -324,7 +324,7 @@ Pakeisti 53 straipsnio 4 dalį ir išdėstyti taip:
 
 17. Laikinasis karinis laipsnis galioja, kol karininkas eina pareigas, į kurias skiriant šis laipsnis jam buvo suteiktas. Nuolatinis aukštesnis karinis laipsnis tokiam karininkui suteikiamas laikantis bendrųjų šio ir 55 straipsnio sąlygų, nepaisant, kad buvo suteiktas laikinasis laipsnis. Laikinąjį karinį laipsnį turinčiam karininkui taikomos jo nuolatinį karinį laipsnį atitinkančios tarnybos apmokėjimo ir aprūpinimo sąlygos.“
 
-\#### 21 straipsnis. 55 straipsnio pakeitimas ir papildymas
+## 21 straipsnis. 55 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 55 straipsnio 1 dalį ir išdėstyti taip:
 
@@ -334,13 +334,13 @@ Pakeisti 53 straipsnio 4 dalį ir išdėstyti taip:
 
 „3) iki vyresniojo puskarininkio imtinai krašto apsaugos sistemos operatyvinių tarnybų kariams – krašto apsaugos ministro tam įgaliotas pareigūnas.“
 
-\#### 22 straipsnis. 56 straipsnio 2 dalies papildymas
+## 22 straipsnis. 56 straipsnio 2 dalies papildymas
 
 Papildyti 56 straipsnio 2 dalį ir išdėstyti taip:
 
 „2. Iki laipsnio pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti grąžintas kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama gerai. Į šį terminą neįskaitomas laikas, kai karys neatliko tarnybos dėl atostogų, mokymosi ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas reikalingas tarnybos laikas aukštesniajam nei grąžintasis laipsniui suteikti skaičiuojamas nuo laipsnio grąžinimo kariui dienos.“
 
-\#### 23 straipsnis. 60 straipsnio 3 ir 4 dalių pakeitimas ir papildymas
+## 23 straipsnis. 60 straipsnio 3 ir 4 dalių pakeitimas ir papildymas
 
 1. Papildyti 60 straipsnio 3 dalį antru sakiniu, pakeisti 4 dalį ir šias dalis išdėstyti taip:
 
@@ -352,7 +352,7 @@ Papildyti 56 straipsnio 2 dalį ir išdėstyti taip:
 
 „6. Profesinės karo tarnybos kariams du kartus per metus (Kalėdų ir Velykų proga) išmokamos iki vieno mėnesinio tarnybinio atlyginimo (be pareiginio priedo) dydžio šventinės premijos. Šventinių premijų dydį proporcingai gaunamam atlyginimo dydžiui ir premijavimo tvarką nustato krašto apsaugos ministras.“
 
-\#### 24 straipsnis. 62 straipsnio 5 ir 6 dalių pakeitimas ir papildymas
+## 24 straipsnis. 62 straipsnio 5 ir 6 dalių pakeitimas ir papildymas
 
 Papildyti 62 straipsnio 5 dalį antru sakiniu, pakeisti 6 dalį ir šias dalis išdėstyti taip:
 
@@ -360,7 +360,7 @@ Papildyti 62 straipsnio 5 dalį antru sakiniu, pakeisti 6 dalį ir šias dalis i
 
 6. Karininkai ir puskarininkiai už savo lėšas gali įsigyti iškilmingoms progoms skirtas uniformas. Šių uniformų pavyzdžius tvirtina krašto apsaugos ministras.“
 
-\#### 25 straipsnis. 63 straipsnio pakeitimas ir papildymas
+## 25 straipsnis. 63 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 63 straipsnio 4 dalį ir išdėstyti taip:
 
@@ -380,7 +380,7 @@ Papildyti 62 straipsnio 5 dalį antru sakiniu, pakeisti 6 dalį ir šias dalis i
 
 11. Privalomosios karo tarnybos kariai aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas. Tais atvejais, kai privalomosios pradinės karo tarnybos kariai dalinio vado sprendimu atleidžiami nuo tarnybos su teise išvykti iš dalinio daugiau negu vienai parai, už laisvas nuo tarnybos dienas jiems mokami profesinės karo tarnybos kariams nustatyto dydžio maistpinigiai.“
 
-\#### 26 straipsnis. 64 straipsnio 1 ir 4 dalių pakeitimas ir papildymas
+## 26 straipsnis. 64 straipsnio 1 ir 4 dalių pakeitimas ir papildymas
 
 1. Pakeisti 64 straipsnio 1 dalį ir išdėstyti taip:
 
@@ -390,13 +390,13 @@ Papildyti 62 straipsnio 5 dalį antru sakiniu, pakeisti 6 dalį ir šias dalis i
 
 „4. Kai profesinės karo tarnybos kariai tarnybos vietovėje neturi gyvenamojo būsto ir nėra galimybės ar netikslinga juos į tarnybos vietą ir iš jos vežioti tarnybiniu transportu, krašto apsaugos ministras savo įsakymu gali leisti jiems atlyginti važinėjimo iš gyvenamosios vietos į tarnybą ir atgal keleiviniu transportu (išskyrus taksi) išlaidas. Jeigu tokiais atvejais karys važinėja nuosavu transportu, kelionės išlaidas krašto apsaugos ministras savo įsakymu gali leisti jiems kompensuoti pagal keleivinio transporto tarifus. Krašto apsaugos ministras savo įsakymu gali leisti tomis pačiomis sąlygomis atlyginti važiavimo vieną kartą per savaitę į šeimos gyvenamąją vietovę ir atgal išlaidas kariams, kurie tarnybos vietoje yra aprūpinti tik viengungiams skirta atskira tarnybine gyvenamąja patalpa, kai jų šeimos gyvena ne tarnybiniame bute kitoje vietovėje. Šios išlaidos gali būti atlyginamos laikinai, iki kariui tarnybos vietovėje bus suteiktas tarnybinis butas. Kol kariui atlyginamos kelionės išlaidos, 63 straipsnio 9 dalyje nustatyti butpinigiai jam nemokami.“
 
-\#### 27 straipsnis. 65 straipsnio 4 dalies papildymas
+## 27 straipsnis. 65 straipsnio 4 dalies papildymas
 
 65 straipsnio 4 dalyje po žodžio „sužeidimo“ įrašyti žodžius „ar ligos“ ir šią dalį išdėstyti taip:
 
 „4. Iš valstybės biudžeto Krašto apsaugos ministerijai skirtų lėšų apmokamos karių reabilitacijos po sužeidimo ar ligos būtinosios išlaidos.“
 
-\#### 28 straipsnis. 68 straipsnio pakeitimas ir papildymas
+## 28 straipsnis. 68 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 68 straipsnio 2 dalį ir išdėstyti taip:
 
@@ -420,7 +420,7 @@ c) kai stacionare slaugo sergantį vaiką iki 7 metų, taip pat vaiką iki 14 me
 
 6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo bei vaiko priežiūros atostogų laikotarpiu mokamos pašalpos dydį ir įmokų draudimo pensijai gauti sąlygas nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 29 straipsnis. 72 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 29 straipsnis. 72 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 Pakeisti 72 straipsnio 1 dalį, papildyti ją 5 punktu, 2 dalyje vietoj skaičių ir žodžių „63 straipsnio 4 ir 5“ įrašyti skaičius ir žodžius „63 straipsnio 3 ir 4“ ir šias dalis išdėstyti taip:
 
@@ -438,13 +438,13 @@ Pakeisti 72 straipsnio 1 dalį, papildyti ją 5 punktu, 2 dalyje vietoj skaiči�
 
 2. Tarnautojams, su kuriais sudaroma darbo sutartis dėl civilinės krašto apsaugos tarnybos pagal šį įstatymą, Vyriausybės nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės garantijos, kurios numatytos profesinės karo tarnybos kariams šio įstatymo 66 straipsnyje ir 68 straipsnio 4 ir 5 dalyse. Jiems taip pat gali būti taikomos 63 straipsnio 3 ir 4 dalyse numatytos aprūpinimo sąlygos. Šios aprūpinimo sąlygos ir socialinės garantijos taikomos tokia pat tvarka kaip ir profesinės karo tarnybos kariams.“
 
-\#### 30 straipsnis. 73 straipsnio 5 dalies pakeitimas
+## 30 straipsnis. 73 straipsnio 5 dalies pakeitimas
 
 Pakeisti 73 straipsnio 5 dalį ir išdėstyti taip:
 
 „5. Jeigu tarnautojas nutraukia sutartį pažeisdamas šio straipsnio 2 dalyje nurodytus įsipareigojimus, kai nėra šio straipsnio 4 dalyje nurodytų priežasčių, arba jei sutartis nutraukiama darbdavio iniciatyva dėl tarnautojo kaltės (Darbo sutarties įstatymo 29 straipsnio 1 dalies 6, 7, 8, 9, 10, 11 ir 12 punktai ir 2 bei 3 dalys) ar pagal Darbo sutarties įstatymo 26 straipsnio 5, 6, 9, 15, 16, 17, 18, 19 ir 20 punktus, asmuo privalo atlyginti darbdaviui išlaidas, tiesiogiai susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu, įskaitant ir mokymosi užsienio mokyklose bei kursuose išlaidas, kurias kaip pagalbą krašto apsaugos sistemai padengė užsienio valstybės. Jeigu asmuo nevykdo šios pareigos, išlaidos iš jo išieškomos įstatymų nustatyta tvarka.“
 
-\#### 31 straipsnis. Įstatymo papildymas 771 straipsniu
+## 31 straipsnis. Įstatymo papildymas 771 straipsniu
 
 1. Papildyti Įstatymą 771 straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.256862A347C2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.256862A347C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 32 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 1997, Nr. [65-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.35FEBD3CDB87))
 
-\#### 1 straipsnis. 32 straipsnio 1, 2, 5 dalių pakeitimas
+## 1 straipsnis. 32 straipsnio 1, 2, 5 dalių pakeitimas
 
 Pakeisti 32 straipsnio 1, 2, 5 dalis ir jas išdėstyti taip:
 

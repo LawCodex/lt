@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.814E33022C1F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.814E33022C1F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo papildymo 151 straipsniu įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2011, Nr. [86-4177](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B41686BB3CB))
 
-\#### 1 straipsnis. Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo papildymo 151 straipsniu įstatymo 1 straipsnio pakeitimas
+## 1 straipsnis. Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo papildymo 151 straipsniu įstatymo 1 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 151 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 „6. LNSS viešųjų įstaigų vadovaujančių darbuotojų mėnesinės algos kintamosios dalies dydis priklauso nuo praėjusių kalendorinių metų įstaigos veiklos finansinių rezultatų ir nustatomas vieniems metams. LNSS viešųjų įstaigų veiklos finansinių rezultatų vertinimo kiekybinių ir kokybinių rodiklių ir vadovaujančių darbuotojų mėnesinės algos kintamosios dalies nustatymo tvarkos aprašą tvirtina sveikatos apsaugos ministras. Visais atvejais mėnesinės algos kintamosios dalies dydis negali viršyti 40procentų vadovaujančiajam darbuotojui nustatytos mėnesinės algos pastoviosios dalies dydžio. Mėnesinės algos kintamoji dalis negali būti nustatoma, jeigu praėjusių metų įstaigos veiklos finansiniai rezultatai yra neigiami.“
 
-\#### 2 straipsnis. Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo papildymo 151 straipsniu įstatymo 2 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo papildymo 151 straipsniu įstatymo 2 straipsnio 2 dalies pakeitimas
 
 2 straipsnio 2 dalyje vietoj datos „2011 m. lapkričio 30 d.“ įrašyti datą „2011 m. gruodžio 31 d.“ ir šią dalį išdėstyti taip:
 

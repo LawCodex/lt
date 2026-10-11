@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b1b7e5d080f711ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B1B7E5D080F7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 16, 17, 20, 43, 44, 46, 51, 69, 71, 72-1, 75-1 straipsnių ir vienuoliktojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 46-3 ir 72-1 straipsniais ir 71-1 straipsnio pripažinimo netekusiu galios įstatymas
@@ -419,5 +419,3 @@ Pakeisti 751 straipsnio 4 dalį ir ją išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_4df3ac6b3c5e479ebb982e9bf0b0e762_end

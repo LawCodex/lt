@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BA1F196303AE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BA1F196303AE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pašto įstatymo 3 straipsnio pakeitimo ir įstatymo papildymo 13, 14, 15, 16, 17 straipsniais įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [36-1070](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1); 2004, Nr. [60-2125](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F02615C57F5); 2010, Nr. [1-33](https://www.e-tar.lt/portal/lt/legalAct/TAR.0DEB6B2C91ED))
 
-\#### 1 straipsnis. 3 straipsnio 4 dalies 13 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 4 dalies 13 punkto pakeitimas
 
 3 straipsnio 4 dalies 13 punkte po žodžio „sankcijas“ įrašyti žodžius „šio Įstatymo ir“ ir šį punktą išdėstyti taip:
 
 „13) pagal savo kompetenciją tiria ir nagrinėja šio Įstatymo pažeidimus bei pažeidėjams taiko sankcijas šio Įstatymo ir kitų teisės aktų nustatytais atvejais, sąlygomis ir tvarka;“.
 
-\#### 2 straipsnis. Įstatymo papildymas 13 straipsniu
+## 2 straipsnis. Įstatymo papildymas 13 straipsniu
 
 Papildyti Įstatymą 13 straipsniu:
 
@@ -46,7 +46,7 @@ Papildyti Įstatymą 13 straipsniu:
 
 2. Jeigu pašto ir (ar) pasiuntinių paslaugų teikėjas per šio straipsnio 1 dalyje nurodytą terminą pažeidimų nepašalina, Ryšių reguliavimo tarnyba inicijuoja ekonominių sankcijų skyrimo procedūrą.“
 
-\#### 3 straipsnis. Įstatymo papildymas 14 straipsniu
+## 3 straipsnis. Įstatymo papildymas 14 straipsniu
 
 Papildyti Įstatymą 14 straipsniu:
 
@@ -60,7 +60,7 @@ Papildyti Įstatymą 14 straipsniu:
 
 4. Pašto paslaugų teikėjui per vienus metus nuo ekonominės sankcijos paskyrimo padarius pakartotinį šio Įstatymo 9 straipsnio reikalavimų pažeidimą, Ryšių reguliavimo tarnyba, įvertinusi aplinkybes, nurodytas šio Įstatymo 16 straipsnio 1 dalyje, priima motyvuotą sprendimą uždrausti pašto paslaugų teikėjui teikti pašto paslaugas iki 3 metų.“
 
-\#### 4 straipsnis. Įstatymo papildymas 15 straipsniu
+## 4 straipsnis. Įstatymo papildymas 15 straipsniu
 
 Papildyti Įstatymą 15 straipsniu:
 
@@ -114,7 +114,7 @@ Papildyti Įstatymą 15 straipsniu:
 
 18. Ryšių reguliavimo tarnybos pareigūnas per 3 darbo dienas nuo sprendimo dėl ekonominės sankcijos skyrimo ar atsisakymo ją skirti priėmimo dienos išsiunčia šį sprendimą pašto ir (ar) pasiuntinių paslaugų teikėjui, kuriam paskirta ekonominė sankcija arba atsisakyta ją skirti, ir yra atsakingas už ekonominės sankcijos įvykdymo kontrolę.“
 
-\#### 5 straipsnis. Įstatymo papildymas 16 straipsniu
+## 5 straipsnis. Įstatymo papildymas 16 straipsniu
 
 Papildyti Įstatymą 16 straipsniu:
 
@@ -148,7 +148,7 @@ Papildyti Įstatymą 16 straipsniu:
 
 8. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad pašto ir (ar) pasiuntinių paslaugų teikėjai kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami Ryšių reguliavimo tarnybos įpareigojimo pašalinti pažeidimą.“
 
-\#### 6 straipsnis. Įstatymo papildymas 17 straipsniu
+## 6 straipsnis. Įstatymo papildymas 17 straipsniu
 
 Papildyti Įstatymą 17 straipsniu:
 
@@ -160,11 +160,11 @@ Papildyti Įstatymą 17 straipsniu:
 
 3. Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimas dėl ekonominės sankcijos skyrimo yra vykdomasis dokumentas. Jeigu jis neįvykdomas, jis pateikiamas antstoliams įvykdyti Civilinio proceso kodekso nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per 9 mėnesius nuo jo priėmimo dienos.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 8 straipsnį, įsigalioja 2011 m. sausio 1 d.
 
-\#### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo dienos priima šio įstatymo įgyvendinamuosius teisės aktus.
 

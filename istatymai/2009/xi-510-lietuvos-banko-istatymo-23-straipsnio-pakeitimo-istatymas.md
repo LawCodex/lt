@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.874E4821E533"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.874E4821E533.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 23 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 2001, Nr. [28-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.2560251F7F7F); 2003, Nr. [27-1079](https://www.e-tar.lt/portal/lt/legalAct/TAR.588CC2CE7C0F); 2004, Nr. [28-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD7270B1038C))
 
-\#### 1 straipsnis. 23 straipsnio 3 dalies 2 punkto pakeitimas
+## 1 straipsnis. 23 straipsnio 3 dalies 2 punkto pakeitimas
 
 23 straipsnio 3 dalies 2 punkte vietoj skaičiaus „50“ įrašyti skaičių „70“ ir šį punktą išdėstyti taip:
 

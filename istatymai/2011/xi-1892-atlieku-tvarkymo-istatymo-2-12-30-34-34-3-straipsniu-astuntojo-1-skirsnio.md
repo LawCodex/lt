@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3DF7E3BF2E6E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3DF7E3BF2E6E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 12, 30, 34, 34-3 straipsnių, aštuntojo-1 skirsnio pakeitimo ir papildymo, Įstatymo papildymo aštuntuoju-2, aštuntuoju-3, aštuntuoju-4, aštuntuoju-5, aštuntuoju-6, aštuntuoju-7, aštuntuoju-8, aštuntuoju-9, aštuntuoju-10 skirsniais ir 16 straipsnio pripažinimo netekusiu galios įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 2009, Nr. [154-6961](https://www.e-tar.lt/portal/lt/legalAct/TAR.69542DFA6B8E); 2011, Nr. [52-2501](https://www.e-tar.lt/portal/lt/legalAct/TAR.305C119D5D4E))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį nauja 9 dalimi:
 
@@ -86,7 +86,7 @@ Vilnius
 
 13. Buvusias 2 straipsnio 50 ir 51 dalis laikyti atitinkamai 57 ir 58 dalimis.
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -138,11 +138,11 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 5) pavojingas atliekas tvarkanti įmonė pažeidė pavojingų atliekų tvarkymo reikalavimus ir neįvykdė aplinkos apsaugos valstybinės kontrolės pareigūnų privalomojo nurodymo pašalinti pažeidimus.“
 
-\#### 3 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 16 straipsnio pripažinimas netekusiu galios
 
 16 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 1. 30 straipsnio 2 dalį pripažinti netekusia galios.
 
@@ -184,13 +184,13 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „11. Savivaldybės privalo užtikrinti, kad sąvartynuose būtų šalinamos jų teritorijose surinktos tik po rūšiavimo likusios netinkamos naudoti komunalinės atliekos.“
 
-\#### 5 straipsnis. 34 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 34 straipsnio 2 dalies pakeitimas
 
 Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Programos lėšas sudaro Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 341 straipsnio 4 dalyje, 342 straipsnio 3 dalyje, 345 straipsnio 2 dalyje ir 3412 straipsnio 2 dalyje nurodytus dokumentus, užtikrinančius atliekų tvarkymo finansavimą.“
 
-\#### 6 straipsnis. 343 straipsnio pakeitimas
+## 6 straipsnis. 343 straipsnio pakeitimas
 
 1. Pakeisti 343 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -208,7 +208,7 @@ Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 5. 343 straipsnio 7 dalį pripažinti netekusia galios.
 
-\#### 7 straipsnis. Aštuntojo1 skirsnio pakeitimas
+## 7 straipsnis. Aštuntojo1 skirsnio pakeitimas
 
 Pakeisti aštuntąjį^1 skirsnį ir jį išdėstyti taip:
 
@@ -216,7 +216,7 @@ Pakeisti aštuntąjį^1 skirsnį ir jį išdėstyti taip:
 
 ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
-\#### 341 straipsnis. Elektros ir elektroninės įrangos atliekų tvarkymo sistemos dalyvių teisės ir pareigos
+## 341 straipsnis. Elektros ir elektroninės įrangos atliekų tvarkymo sistemos dalyvių teisės ir pareigos
 
 1. Elektros ir elektroninės įrangos gamintojų ir importuotojų pagrindinės pareigos:
 
@@ -294,7 +294,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
 22. Elektros ir elektroninės įrangos atliekų tvarkytojai privalo elektros ir elektroninės įrangos atliekas surinkti atskirai, nemaišyti jų su kitomis atliekomis ar medžiagomis ir tvarkyti pagal atliekų tvarkymo prioritetus ir visuomenės sveikatai saugiu būdu, taikydami elektros ir elektroninės įrangos atliekų tvarkymo geriausiai prieinamus gamybos būdus. Atliekų tvarkymo geriausiai prieinamų gamybos būdų sąrašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
-\#### 342 straipsnis. Papildomi kolektyvaus elektros ir elektroninės įrangos atliekų tvarkymo organizavimo reikalavimai
+## 342 straipsnis. Papildomi kolektyvaus elektros ir elektroninės įrangos atliekų tvarkymo organizavimo reikalavimai
 
 1. Siekdami kolektyviai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą gamintojų ir importuotojų organizaciją (toliau – Organizacija) ir (ar) tapti įsteigtos Organizacijos dalyviais ar Organizacijai sutartiniais pagrindais pavesti organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti visas ar dalį šio Įstatymo nustatytų pareigų netapdami Organizacijos dalyviais.
 
@@ -314,7 +314,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
 5. Organizacija šio straipsnio 4 dalies 1 punkte nurodytas išlaidas turi finansuoti proporcingai jos dalyvių ir jai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai verslo tikslais tiektos elektros ir elektroninės įrangos kiekį.
 
-\#### 343 straipsnis. Individualus elektros ir elektroninės įrangos atliekų tvarkymo organizavimas
+## 343 straipsnis. Individualus elektros ir elektroninės įrangos atliekų tvarkymo organizavimas
 
 1. Vykdydami šio Įstatymo 341 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
@@ -336,7 +336,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
 4. Šio straipsnio 1, 2 ir 3 dalių nuostatos netaikomos elektros ir elektroninę įrangą savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos elektros ir elektroninės įrangos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.“
 
-\#### 8 straipsnis. Įstatymo papildymas aštuntuoju2 skirsniu
+## 8 straipsnis. Įstatymo papildymas aštuntuoju2 skirsniu
 
 1. Papildyti Įstatymą aštuntuoju2 skirsniu:
 
@@ -344,7 +344,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
 **gaminių ir (ar) Pakuočių ATLIEKŲ TVARKYMO organizavimo licencijavimas**
 
-\#### 3412 straipsnis. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo veiklos licencijavimas
+## 3412 straipsnis. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo veiklos licencijavimas
 
 1. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijavimo taisykles, atsižvelgdama į gaminių ir pakuočių atliekų tvarkymo organizavimo specifiką, tvirtina Vyriausybė.
 
@@ -446,7 +446,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
 EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO YPATUMAI
 
-\#### 344 straipsnis. Eksploatuoti netinkamų transporto priemonių tvarkymo sistemos dalyvių teisės ir pareigos
+## 344 straipsnis. Eksploatuoti netinkamų transporto priemonių tvarkymo sistemos dalyvių teisės ir pareigos
 
 1. Transporto priemonių gamintojų ir importuotojų pareigos:
 
@@ -494,7 +494,7 @@ EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO YPATUMAI
 
 8. Eksploatuoti netinkamų transporto priemonių tvarkytojai privalo tvarkyti eksploatuoti netinkamas transporto priemones pagal atliekų tvarkymo prioritetus aplinkai ir visuomenės sveikatai saugiu būdu, taikydami eksploatuoti netinkamų transporto priemonių tvarkymo geriausiai prieinamus gamybos būdus.
 
-\#### 345 straipsnis. Papildomi kolektyvaus eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo reikalavimai
+## 345 straipsnis. Papildomi kolektyvaus eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo reikalavimai
 
 1. Siekdami kolektyviai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesti organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti visas ar dalį šio Įstatymo nustatytų pareigų netapdami Organizacijos dalyviais.
 
@@ -502,7 +502,7 @@ EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO YPATUMAI
 
 3. Siekdama įvykdyti šio Įstatymo 344 straipsnio 1 dalies 2 ir 3 punktuose transporto priemonių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais eksploatuoti netinkamų transporto priemonių surinkėjais dėl eksploatuoti netinkamų transporto priemonių surinkimo, vežimo, paruošimo naudoti ir su eksploatuoti netinkamų transporto priemonių naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų eksploatuoti netinkamų transporto priemonių panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už eksploatuoti netinkamų transporto priemonių surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
 
-\#### 346 straipsnis. Individualus eksploatuoti netinkamų transporto priemonių tvarkymo organizavimas
+## 346 straipsnis. Individualus eksploatuoti netinkamų transporto priemonių tvarkymo organizavimas
 
 1. Vykdydami šio Įstatymo 344 straipsnio 1 dalies 2 ir 3 punktuose nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai eksploatuoti netinkamų transporto priemonių tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
@@ -512,7 +512,7 @@ EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO YPATUMAI
 
 2. Šio straipsnio 1 dalies nuostatos netaikomos transporto priemones savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotas eksploatuoti netinkamas transporto priemones tvarkyti patys arba perduoti jas tokių atliekų tvarkytojui.“
 
-\#### 9 straipsnis. Įstatymo papildymas aštuntuoju3 skirsniu
+## 9 straipsnis. Įstatymo papildymas aštuntuoju3 skirsniu
 
 Papildyti Įstatymą aštuntuoju^3 skirsniu:
 
@@ -520,7 +520,7 @@ Papildyti Įstatymą aštuntuoju^3 skirsniu:
 
 ALYVOS ATLIEKŲ TVARKYMO YPATUMAI
 
-\#### 347 straipsnis. Alyvos gamintojų ir importuotojų ir alyvos atliekų tvarkytojų teisės ir pareigos
+## 347 straipsnis. Alyvos gamintojų ir importuotojų ir alyvos atliekų tvarkytojų teisės ir pareigos
 
 1. Alyvos gamintojų ir importuotojų pareigos:
 
@@ -544,7 +544,7 @@ ALYVOS ATLIEKŲ TVARKYMO YPATUMAI
 
 2) kreipdamiesi į alyvos gamintojus ir (ar) importuotojus dėl šio straipsnio 1 dalies 4 punkte nurodytų išlaidų kompensavimo, jiems (alyvos gamintojams ir (ar) importuotojams) pateikti dokumentus, įrodančius ekonomiškai pagrįstas alyvos atliekų surinkimo iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir vežimo išlaidas.
 
-\#### 348 straipsnis. Transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių pareigos
+## 348 straipsnis. Transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių pareigos
 
 1. Transporto priemonių techninės priežiūros ir remonto paslaugas teikiančios įmonės, atliekančios alyvos keitimą ar alyvos pardavimą arba kurių veikloje susidaro ar gali susidaryti alyvos atliekų, yra alyvos atliekų turėtojos.
 
@@ -566,7 +566,7 @@ ALYVOS ATLIEKŲ TVARKYMO YPATUMAI
 
 4. Transporto priemonių techninės priežiūros ir remonto paslaugas teikiančioms įmonėms draudžiama perduoti alyvos atliekas asmenims, neturintiems teisės tvarkyti alyvos atliekų.
 
-\#### 349 straipsnis. Alyvas naudojančių juridinių asmenų, kurių veikla nesusijusi su transporto priemonių technine priežiūra ar remontu, pareigos
+## 349 straipsnis. Alyvas naudojančių juridinių asmenų, kurių veikla nesusijusi su transporto priemonių technine priežiūra ar remontu, pareigos
 
 1. Alyvas naudojantys juridiniai asmenys, kurių veikla nesusijusi su transporto priemonių technine priežiūra ar remontu (toliau šiame skirsnyje – pramonės įmonės), privalo:
 
@@ -578,7 +578,7 @@ ALYVOS ATLIEKŲ TVARKYMO YPATUMAI
 
 2. Pramonės įmonėms draudžiama alyvos atliekas perduoti asmenims, neturintiems teisės tvarkyti alyvos atliekų.
 
-\#### 3410 straipsnis. Alyvos atliekų turėtojų – fizinių asmenų pareigos
+## 3410 straipsnis. Alyvos atliekų turėtojų – fizinių asmenų pareigos
 
 1. Alyvos atliekų turėtojai – fiziniai asmenys (išskyrus individualiai transporto priemonių techninės priežiūros ir remonto paslaugas teikiančius fizinius asmenis) privalo alyvos atliekas perduoti alyvos atliekas turintiems teisę tvarkyti atliekų tvarkytojams arba šio Įstatymo 348 straipsnio 3 dalies 1 punkte numatytu atveju – transporto priemonių techninės priežiūros ir remonto paslaugas teikiančioms įmonėms.
 
@@ -586,11 +586,11 @@ ALYVOS ATLIEKŲ TVARKYMO YPATUMAI
 
 3. Alyvos atliekų turėtojams – fiziniams asmenims draudžiama maišyti alyvos atliekas su kitomis atliekomis ar medžiagomis, šalinti alyvos atliekas teisės aktuose nenumatytais būdais.
 
-\#### 3411 straipsnis. Alyvos ir alyvos produktų platintojų pareigos
+## 3411 straipsnis. Alyvos ir alyvos produktų platintojų pareigos
 
 Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (pardavimo) vietose privalo teikti informaciją vartotojams, naudotojams apie alyvos atliekų neigiamą poveikį aplinkai ir alyvos atliekų tvarkymo galimybes. Tokia informacija gali būti pateikiama alyvos pardavimo dokumentuose ir (ar) reklaminėje literatūroje, kuri naudojama parduodant alyvas.
 
-\#### 3412 straipsnis. Papildomi kolektyvaus alyvos atliekų tvarkymo organizavimo reikalavimai
+## 3412 straipsnis. Papildomi kolektyvaus alyvos atliekų tvarkymo organizavimo reikalavimai
 
 1. Siekdami kolektyviai vykdyti šio Įstatymo 347 straipsnio 1 dalies 3 ir 4 punktuose nurodytas pareigas, alyvos gamintojai ir (ar) importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesti organizuoti alyvos atliekų tvarkymą ir vykdyti visas ar tam tikras šio Įstatymo nustatytas pareigas netapdami Organizacijos dalyviais.
 
@@ -598,7 +598,7 @@ Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (par
 
 3. Vykdydama šio Įstatymo 347 straipsnio 1 dalies 4 punkte alyvos gamintojams ir importuotojams nustatytą pareigą, Organizacija privalo sudaryti sutartį (sutartis) dėl alyvos atliekų surinkimo iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir vežimo išlaidų kompensavimo su alyvos atliekų surinkėju (surinkėjais), kuris (kurie) į ją dėl to kreipėsi (jeigu alyvos atliekos neturi vertės rinkoje arba jų vertė yra neigiama ir minėtas išlaidas patiria ir dėl jų kompensavimo į Organizaciją kreipėsi alyvos atliekų surinkėjas). Šioje sutartyje turi būti numatyta tokių išlaidų kompensavimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
 
-\#### 3413 straipsnis. Individualus alyvos atliekų tvarkymo organizavimas
+## 3413 straipsnis. Individualus alyvos atliekų tvarkymo organizavimas
 
 1. Vykdydami šio Įstatymo 347 straipsnio 1 dalies 4 punkte nustatytą pareigą, aplinkos ministro nustatyta tvarka užsiregistravę individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas (jeigu nėra užsiregistravęs alyvos atliekų tvarkytoju) privalo sudaryti dėl alyvos atliekų surinkimo iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir vežimo išlaidų kompensavimo sutartį su alyvos atliekų tvarkytoju (tvarkytojais), kuris (kurie) į jį dėl to kreipėsi (jeigu alyvos atliekos neturi vertės rinkoje arba jų vertė yra neigiama).
 
@@ -606,13 +606,13 @@ Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (par
 
 3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos alyvas savoms reikmėms naudojantiems alyvos gamintojams ir importuotojams. Tokie alyvos gamintojai ir importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos alyvos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.
 
-\#### 3414 straipsnis. Šio Įstatymo 347 straipsnio 1 dalies 3, 4 punktų ir 348–3413 straipsnių nuostatų taikymo išimtys
+## 3414 straipsnis. Šio Įstatymo 347 straipsnio 1 dalies 3, 4 punktų ir 348–3413 straipsnių nuostatų taikymo išimtys
 
 1. Šio Įstatymo 347 straipsnio 1 dalies 3, 4 punktų ir 348–3413 straipsnių nuostatos netaikomos naudojimo procese sudegančias alyvas (dvitakčių variklių alyvas) arba savaime suyrančias alyvas (biologiškai suyrančias alyvas, pagamintas augalinio aliejaus pagrindu) tiekiantiems Lietuvos Respublikos vidaus rinkai alyvos gamintojams ir importuotojams, taip pat alyvos atliekų turėtojams, kurie turi ar naudoja tokias alyvas.
 
 2. Aplinkos apsaugos valstybinę kontrolę atliekančių institucijų reikalavimu šio straipsnio 1 dalyje nurodytos alyvos gamintojai, importuotojai, platintojai, tokių alyvų atliekų turėtojai privalo pateikti šios alyvos techninius aprašymus ar kitus dokumentus, patvirtinančius, kad jų pagamintos, importuotos, naudojamos, platinamos alyvos atitinka šio straipsnio 1 dalyje nurodytą paskirtį ir (ar) cheminę sudėtį, ir (ar) fizikines savybes.“
 
-\#### 10 straipsnis. Įstatymo papildymas aštuntuoju4 skirsniu
+## 10 straipsnis. Įstatymo papildymas aštuntuoju4 skirsniu
 
 Papildyti Įstatymą aštuntuoju^4 skirsniu:
 
@@ -620,7 +620,7 @@ Papildyti Įstatymą aštuntuoju^4 skirsniu:
 
 BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 
-\#### 3415 straipsnis. Baterijų ir akumuliatorių atliekų tvarkymo sistemos dalyvių teisės ir pareigos
+## 3415 straipsnis. Baterijų ir akumuliatorių atliekų tvarkymo sistemos dalyvių teisės ir pareigos
 
 1. Baterijų ir akumuliatorių gamintojų ir importuotojų pareigos:
 
@@ -678,7 +678,7 @@ BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 16. Baterijų ir akumuliatorių atliekų tvarkytojai privalo baterijų ir akumuliatorių atliekas surinkti atskirai, nemaišyti jų su kitomis atliekomis ar medžiagomis ir tvarkyti pagal atliekų tvarkymo prioritetus aplinkai ir visuomenės sveikatai saugiu būdu, taikydami baterijų ir akumuliatorių atliekų tvarkymo geriausiai prieinamus gamybos būdus.
 
-\#### 3416 straipsnis. Papildomi kolektyvaus baterijų ir akumuliatorių atliekų tvarkymo organizavimo reikalavimai
+## 3416 straipsnis. Papildomi kolektyvaus baterijų ir akumuliatorių atliekų tvarkymo organizavimo reikalavimai
 
 1. Siekdami kolektyviai organizuoti baterijų ir akumuliatorių atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesti organizuoti baterijų ir akumuliatorių atliekų tvarkymą ir vykdyti visas ar dalį šio Įstatymo nustatytų pareigų netapdami Organizacijos dalyviais.
 
@@ -686,7 +686,7 @@ BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 3. Siekdama atlikti šio Įstatymo 3415 straipsnio 1 dalies 2 punkte ir 7, 8, 9 dalyse baterijų ir akumuliatorių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su baterijų ir akumuliatorių platintojais ir pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
 
-\#### 3417 straipsnis. Individualus baterijų ir akumuliatorių atliekų tvarkymo organizavimas
+## 3417 straipsnis. Individualus baterijų ir akumuliatorių atliekų tvarkymo organizavimas
 
 1. Vykdydami šio Įstatymo 3415 straipsnio 1 dalies 2 punkte ir 7, 8, 9 dalyse nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai baterijų ir akumuliatorių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
@@ -696,7 +696,7 @@ BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 2. Šio straipsnio 1 dalies nuostatos netaikomos baterijas ir akumuliatorius savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotų baterijų ir akumuliatorių atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.“
 
-\#### 11 straipsnis. Įstatymo papildymas aštuntuoju5 skirsniu
+## 11 straipsnis. Įstatymo papildymas aštuntuoju5 skirsniu
 
 Papildyti Įstatymą aštuntuoju^5 skirsniu:
 
@@ -704,7 +704,7 @@ Papildyti Įstatymą aštuntuoju^5 skirsniu:
 
 APMOKESTINAMŲJŲ GAMINIŲ, IŠSKYRUS BATERIJAS IR AKUMULIATORIUS, ATLIEKŲ TVARKYMO YPATUMAI
 
-\#### 3418 straipsnis. Apmokestinamųjų gaminių, išskyrus baterijas ir akumuliatorius, atliekų tvarkymo sistemos dalyvių teisės ir pareigos
+## 3418 straipsnis. Apmokestinamųjų gaminių, išskyrus baterijas ir akumuliatorius, atliekų tvarkymo sistemos dalyvių teisės ir pareigos
 
 1. Apmokestinamųjų gaminių, išskyrus baterijas ir akumuliatorius (toliau šiame skirsnyje – apmokestinamieji gaminiai), gamintojų ir importuotojų pareigos:
 
@@ -752,13 +752,13 @@ APMOKESTINAMŲJŲ GAMINIŲ, IŠSKYRUS BATERIJAS IR AKUMULIATORIUS, ATLIEKŲ TVAR
 
 11. Apmokestinamųjų gaminių atliekų tvarkytojai privalo apmokestinamųjų gaminių atliekas surinkti atskirai, nemaišyti jų su kitomis atliekomis ar medžiagomis ir tvarkyti pagal atliekų tvarkymo prioritetus aplinkai ir visuomenės sveikatai saugiu būdu, taikydami apmokestinamųjų gaminių atliekų tvarkymo geriausiai prieinamus gamybos būdus.
 
-\#### 3419 straipsnis. Papildomi kolektyvaus apmokestinamųjų gaminių atliekų tvarkymo organizavimo reikalavimai
+## 3419 straipsnis. Papildomi kolektyvaus apmokestinamųjų gaminių atliekų tvarkymo organizavimo reikalavimai
 
 1. Siekdami kolektyviai organizuoti apmokestinamųjų gaminių atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesti organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti visas ar dalį šio Įstatymo nustatytų pareigų netapdami Organizacijos dalyviais.
 
 2. Siekdama įvykdyti šio Įstatymo 3418 straipsnio 1 dalies 2 punkte apmokestinamųjų gaminių gamintojams ir importuotojams nustatytą pareigą, Organizacija privalo sudaryti sutartis su pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais apmokestinamųjų gaminių atliekų surinkėjais dėl apmokestinamųjų gaminių atliekų surinkimo, vežimo, paruošimo naudoti ir su apmokestinamųjų gaminių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų apmokestinamųjų gaminių atliekų panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už apmokestinamųjų gaminių atliekų surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
 
-\#### 3420 straipsnis. Individualus apmokestinamųjų gaminių atliekų tvarkymo organizavimas
+## 3420 straipsnis. Individualus apmokestinamųjų gaminių atliekų tvarkymo organizavimas
 
 1. Vykdydami šio Įstatymo 3418 straipsnio 1 dalies 2 punkte nustatytą pareigą, aplinkos ministro nustatyta tvarka užsiregistravę individualiai apmokestinamųjų gaminių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
@@ -768,7 +768,7 @@ APMOKESTINAMŲJŲ GAMINIŲ, IŠSKYRUS BATERIJAS IR AKUMULIATORIUS, ATLIEKŲ TVAR
 
 2. Šio straipsnio 1 dalies nuostatos netaikomos apmokestinamuosius gaminius savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotų apmokestinamųjų gaminių atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.“
 
-\#### 12 straipsnis. Įstatymo papildymas aštuntuoju6 skirsniu
+## 12 straipsnis. Įstatymo papildymas aštuntuoju6 skirsniu
 
 Papildyti Įstatymą aštuntuoju^6 skirsniu:
 
@@ -776,13 +776,13 @@ Papildyti Įstatymą aštuntuoju^6 skirsniu:
 
 **Pakuočių ATLIEKŲ TVARKYMO YPATUMAI**
 
-\#### 3421 straipsnis. Pakuočių atliekų tvarkymo sistemos dalyvių teisės ir pareigos
+## 3421 straipsnis. Pakuočių atliekų tvarkymo sistemos dalyvių teisės ir pareigos
 
 1. Pakuočių atliekų tvarkytojai privalo pakuočių atliekas surinkti atskirai, nemaišyti jų su kitomis atliekomis ar medžiagomis ir tvarkyti pagal atliekų tvarkymo prioritetus aplinkai ir visuomenės sveikatai saugiu būdu, taikydami pakuočių atliekų tvarkymo geriausiai prieinamus gamybos būdus.
 
 2. Supakuotų gaminių gamintojų, importuotojų ir pakuočių atliekų turėtojų teisės ir pareigos, taip pat kolektyvaus ir individualaus pakuočių atliekų tvarkymo organizavimo reikalavimai nustatyti Pakuočių ir pakuočių atliekų tvarkymo įstatyme.“
 
-\#### 13 straipsnis. Įstatymo papildymas aštuntuoju7 skirsniu
+## 13 straipsnis. Įstatymo papildymas aštuntuoju7 skirsniu
 
 Papildyti Įstatymą aštuntuoju^7 skirsniu:
 
@@ -790,7 +790,7 @@ Papildyti Įstatymą aštuntuoju^7 skirsniu:
 
 **KOLEKTYVAUS gaminių ir (ar) Pakuočių ATLIEKŲ TVARKYMO organizavimO REIKALAVIMAI**
 
-\#### 3422 straipsnis. Gamintojų ir importuotojų organizacija
+## 3422 straipsnis. Gamintojų ir importuotojų organizacija
 
 1. Gamintojai ir importuotojai gaminių ar pakuočių atliekų tvarkymą kolektyviai organizuoja steigdami Organizaciją ir (ar) tapdami įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesdami organizuoti gaminių ar pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio Įstatymo nustatytų pareigų netapdami Organizacijos dalyviais.
 
@@ -820,7 +820,7 @@ Papildyti Įstatymą aštuntuoju^7 skirsniu:
 
 14. Organizacija privalo vykdyti Organizacijos narių, pavedimo davėjų ir atliekų tvarkytojų (atliekų surinkėjų ir atliekų naudotojų ar eksportuotojų), su kuriais sudarė sutartis dėl gaminių ar pakuočių atliekų tvarkymo, sutartinių įsipareigojimų vykdymo kontrolę.“
 
-\#### 14 straipsnis. Įstatymo papildymas aštuntuoju8 skirsniu
+## 14 straipsnis. Įstatymo papildymas aštuntuoju8 skirsniu
 
 Papildyti Įstatymą aštuntuoju^8 skirsniu:
 
@@ -828,7 +828,7 @@ Papildyti Įstatymą aštuntuoju^8 skirsniu:
 
 **gaminių ir (ar) Pakuočių ATLIEKŲ TVARKYMO organizavimo licencijavimas**
 
-\#### 3423 straipsnis. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo veiklos licencijavimas
+## 3423 straipsnis. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo veiklos licencijavimas
 
 1. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijavimo taisykles, atsižvelgdama į gaminių ir pakuočių atliekų tvarkymo organizavimo specifiką, tvirtina Vyriausybė.
 
@@ -940,7 +940,7 @@ Papildyti Įstatymą aštuntuoju^8 skirsniu:
 
 6) jeigu licencijos turėtojas buvo įspėtas apie galimą licencijos galiojimo sustabdymą 3 kartus per paskutinius dvejus metus.“
 
-\#### 15 straipsnis. Įstatymo papildymas aštuntuoju9 skirsniu
+## 15 straipsnis. Įstatymo papildymas aštuntuoju9 skirsniu
 
 Papildyti Įstatymą aštuntuoju^9 skirsniu:
 
@@ -948,7 +948,7 @@ Papildyti Įstatymą aštuntuoju^9 skirsniu:
 
 AŠTUNTOJO1 IR AŠTUNTOJO4 SKIRSNIŲ TAIKYMAS
 
-\#### 3424 straipsnis. Aštuntojo1 ir aštuntojo4 skirsnių taikymas
+## 3424 straipsnis. Aštuntojo1 ir aštuntojo4 skirsnių taikymas
 
 Šio Įstatymo aštuntojo^1 ir aštuntojo^4skirsnių nuostatos netaikomos:
 
@@ -956,7 +956,7 @@ AŠTUNTOJO1 IR AŠTUNTOJO4 SKIRSNIŲ TAIKYMAS
 
 2) šio straipsnio 1 punkte nurodytuose gaminiuose ir skrydžiams į kosmosą skirtoje įrangoje naudojamoms baterijoms ir akumuliatoriams.“
 
-\#### 16 straipsnis. Įstatymo papildymas aštuntuoju10 skirsniu
+## 16 straipsnis. Įstatymo papildymas aštuntuoju10 skirsniu
 
 Papildyti Įstatymą aštuntuoju^10 skirsniu:
 
@@ -964,7 +964,7 @@ Papildyti Įstatymą aštuntuoju^10 skirsniu:
 
 REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ ATLIEKŲ SUTVARKYMĄ PATVIRTINANČIUS DOKUMENTUS
 
-\#### 3425 straipsnis. Reikalavimai atliekų tvarkytojams, kurie išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą patvirtinančius dokumentus
+## 3425 straipsnis. Reikalavimai atliekų tvarkytojams, kurie išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą patvirtinančius dokumentus
 
 1. Gaminių ir (ar) pakuočių atliekų sutvarkymą patvirtinančius dokumentus turi teisę išrašyti tie gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai ir gaminių ir (ar) pakuočių atliekų surinkėjai, kurie atitinka šiame straipsnyje nustatytus reikalavimus ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka yra įrašyti į Gaminių ir (ar) pakuočių atliekų sutvarkymą patvirtinančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąrašą (toliau šiame straipsnyje – Atliekų tvarkytojų sąrašas).
 
@@ -1062,7 +1062,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 
 5) paaiškėjus, kad gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas pateikė melagingus duomenis ir (ar) suklastotus dokumentus.“
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 4 straipsnio 5 ir 7 dalys, 5, 7 straipsniai, 8 straipsnio 2 dalis, 9, 10, 11, 12, 13, 14, 15 ir 16 straipsniai įsigalioja 2013 m. sausio 1 d.
 

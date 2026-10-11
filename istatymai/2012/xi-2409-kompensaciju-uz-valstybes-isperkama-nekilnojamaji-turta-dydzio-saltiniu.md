@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D5A20A698A3C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D5A20A698A3C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 3, 5, 6, 7, 8 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,17 +24,17 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 2003, Nr. [102-4582](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA480B3B3926); 2005, Nr. [88-3282](https://www.e-tar.lt/portal/lt/legalAct/TAR.0E8C5FB7E862), Nr. [153-5647](https://www.e-tar.lt/portal/lt/legalAct/TAR.C7F7F17B0A27); 2010, Nr. [13-622](https://www.e-tar.lt/portal/lt/legalAct/TAR.63D1E42E01B3), Nr. [72-3617](https://www.e-tar.lt/portal/lt/legalAct/TAR.E44503750D78); 2011, Nr. 143-6767)
 
-\#### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Atlyginant už valstybės išperkamą žemę, mišką, vandens telkinius, perduodamų neatlygintinai nuosavybėn žemės, miško, vandens telkinio vertė, mokamų pinigų suma, įskaitomos piniginės prievolės valstybei dydis yra apskaičiuojami pagal Vyriausybės patvirtintą metodiką.“
 
-\#### 2 straipsnis. 4 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 4 straipsnio pripažinimas netekusiu galios
 
 4 straipsnį pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 Atlyginant už valstybės išperkamus gyvenamuosius namus, jų dalis, butus,ūkinės-komercinės paskirties pastatus ir jų priklausinius, perduodamo neatlygintinai turto, mokamų pinigų suma, įskaitomos piniginės prievolės valstybei dydis yra apskaičiuojami pagal išperkamo turto rinkos vertę, nustatytą pagal Turto ir verslo vertinimo pagrindų įstatymą.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -52,13 +52,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 2. Vyriausybė ar jos įgaliota institucija turi teisę Lietuvos Respublikos vardu imti paskolas kompensacijoms už valstybės išperkamą išlikusį nekilnojamąjį turtą mokėti. Šias lėšas paskirsto Vyriausybė ar jos įgaliota institucija.“
 
-\#### 5 straipsnis. 7 straipsnio 4 dalies pakeitimas
+## 5 straipsnis. 7 straipsnio 4 dalies pakeitimas
 
 7 straipsnio 4 dalyje po žodžio „butus“ įrašyti žodžius „bei ūkinės-komercinės paskirties pastatus ir jų priklausinius“ ir šią dalį išdėstyti taip:
 
 „4. Tuo atveju, kai sprendimas atkurti nuosavybės teises priimtas po 2009 m. sausio 1 d. ir iki 2010 m. gruodžio 31 d., piliečiams piniginė kompensacija už išperkamą žemę, mišką, vandens telkinius išmokama 2011 metais, kai po 2011 m. sausio 1 d. – kitais kalendoriniais metais po tokio sprendimo priėmimo (išskyrus piniginę kompensaciją už valstybės išperkamą žemę, kuri nustatyta tvarka buvo priskirta miestų teritorijoms iki 1995 m. birželio 1 d., kai sprendimas atkurti nuosavybės teises priimtas po 2012 m. sausio 31 d.). Tuo atveju, kai sprendimas atkurti nuosavybės teises priimtas po 2012 m. sausio 31 d., piliečiams piniginė kompensacija už valstybės išperkamą žemę, kuri nustatyta tvarka buvo priskirta miestų teritorijoms iki 1995 m. birželio 1 d., Vyriausybės nustatyta tvarka mokama iš Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų. Kai sprendimas atkurti nuosavybės teises priimtas po šio straipsnio 2 dalies 2 punkte nurodyto termino, piniginė kompensacija už išperkamus gyvenamuosius namus, jų dalis, butus bei ūkinės-komercinės paskirties pastatus ir jų priklausinius piliečiams išmokama kitais kalendoriniais metais po tokio sprendimo priėmimo. Kai sprendimas atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą dėl asmenų, išvardytų šio straipsnio 2 dalies 3 ir 4 punktuose, priimtas po 2009 m. sausio 1 d. ir iki 2010 m. gruodžio 31 d., jiems piniginė kompensacija išmokama 2011 metais, kai po 2011 m. sausio 1 d. – kitais kalendoriniais metais po tokio sprendimo priėmimo.“
 
-\#### 6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 6 straipsnis. 8 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. 8 straipsnio pavadinime išbraukti žodžius „ir vertybiniais popieriais“ ir šio straipsnio pavadinimą išdėstyti taip:
 

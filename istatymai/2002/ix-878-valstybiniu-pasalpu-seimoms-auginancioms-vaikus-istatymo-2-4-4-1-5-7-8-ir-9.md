@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0CD8A1102F78"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0CD8A1102F78.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 2, 4, 4(1), 5, 7, 8 ir 9 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 115-3240; 2000, Nr. 1-5; 2001, Nr. 16-495)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 Gimus kūdikiui, motinai (tėvui) ar globėjui mokama 6 minimalių gyvenimo lygių (toliau - MGL) dydžio vienkartinė pašalpa. Ji mokama už kiekvieną gimusį gyvą kūdikį vieno iš tėvų (ar turimo vienintelio iš tėvų) ar globėjo prašymu. Jei tėvai arba vienas iš tėvų yra miręs, vaiko neaugina, jų (jo) valdžia apribota, vaikas nuo jų (jo) atskirtas arba tėvai yra išsituokę, pašalpa išmokama vaiką auginančiai motinai (tėvui) ar globėjui.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Motinai (tėvui) mokama 0,75 MGL dydžio pašalpa kas mėnesį už kiekvieną va
 
 Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei vienas iš tėvų yra miręs, vaiko neaugina, jo valdžia apribota, vaikas nuo jo atskirtas arba tėvai yra išsituokę, pašalpa mokama vaiką auginančiai motinai (tėvui). Už vaiką, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės finansuojamoje įstaigoje, ir už vaiką, kuriam įstatymų nustatyta tvarka nustatyta globa, ši pašalpa nemokama.“
 
-\#### 3 straipsnis. 41 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 41 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 4^1 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Motinai (tėvui) už tris ir daugiau vaikų iki 16 metų ir vyresnius, iki jie b
 
 Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei vienas iš tėvų yra miręs, vaikų neaugina, jo valdžia apribota, vaikas nuo jo atskirtas arba tėvai yra išsituokę, pašalpa mokama vaikus auginančiai motinai (tėvui). Už vaiką, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės finansuojamoje įstaigoje, ir už vaiką, kuriam įstatymų nustatyta tvarka nustatyta globa (rūpyba), ši pašalpa nemokama.“
 
-\#### 4 straipsnis. 5 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 5 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 5 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Kai vaikas, kuriam nustatyta globa (rūpyba), įstatymų nustatyta tvarka gauna 
 
 Už valstybės išlaikomą vaiką globos (rūpybos) pašalpa nemokama.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Vyresniems kaip 18 metų, bet nesukakusiems 24 metų nedirbantiems asmenims, kur
 
 Šio straipsnio pirmojoje dalyje nurodytiems asmenims, įstatymų nustatyta tvarka gaunantiems našlaičių pensiją, mokama našlaičio stipendija. Ji yra lygi skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto našlaičio stipendijos dydžio ir gaunamos našlaičių pensijos dydžio.“
 
-\#### 6 straipsnis. 8 straipsnio papildymas
+## 6 straipsnis. 8 straipsnio papildymas
 
 Papildyti 8 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Papildyti 8 straipsnį ir jį išdėstyti taip:
 
 Sukakusiems 18 metų našlaičiams ir likusiems be tėvų globos vaikams, kurie iki pilnametystės buvo globojami globos institucijose, šeimynose arba globėjų (rūpintojų), skiriama vienkartinė 50 MGL dydžio pašalpa gyvenamajam namui, butui (gyvenamajai patalpai) įsigyti arba įsikurti, jeigu jie nėra toliau valstybės išlaikomi globos institucijose.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Lėšos pašalpoms, nurodytoms šio įstatymo 2, 4, 4^1, 5, 6 ir 8 straipsniuose
 
 Lėšos pašalpoms, nurodytoms šio įstatymo 3 ir 7 straipsniuose, skiriamos iš valstybės biudžeto mokymo įstaigoms skirtų asignavimų.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 7 straipsnį, įsigalioja nuo 2002 m. birželio 1 d.
 

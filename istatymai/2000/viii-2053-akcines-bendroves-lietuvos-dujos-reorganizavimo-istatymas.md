@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AAF9D4211B1A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AAF9D4211B1A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės "Lietuvos dujos" reorganizavimo įstatymas
@@ -26,17 +26,17 @@ AKCINĖS BENDROVĖS „LIETUVOS DUJOS“ REORGANIZAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato akcinės bendrovės „Lietuvos dujos“ reorganizavimo būdą ir tvarką.
 
 2. Akcinės bendrovės „Lietuvos dujos“ reorganizavimui netaikomi Akcinių bendrovių įstatymo 10 straipsnio 4 dalies, 7 dalies 2 punkto bei 10, 11, 13 ir 14 dalių reikalavimai. Kiti Lietuvos Respublikos įstatymai reorganizuojant akcinę bendrovę „Lietuvos dujos“ taikomi tiek, kiek šis įstatymas nenustato kitaip.
 
-\#### 2 straipsnis. Reorganizavimo būdas
+## 2 straipsnis. Reorganizavimo būdas
 
 Akcinė bendrovė „Lietuvos dujos“ reorganizuojama bendrovių skaidymo būdu, t. y. iš akcinės bendrovės „Lietuvos dujos“, kuri tęsia veiklą, atskiriant bendrovės filialams firmoms „Suskystintos dujos“ ir „Dujiniai įrengimai“ priskirto turto, teisių bei prievolių dalis ir jų pagrindu steigiant naujas bendroves: akcinę bendrovę „Suskystintos dujos“ ir akcinę bendrovę „Dujiniai įrengimai“. Reorganizavimo metu panaikinamas akcinės bendrovės „Lietuvos dujos“ specialios paskirties statusas ir pakeičiami jos įstatai.
 
-\#### 3 straipsnis. Reorganizavimo tvarka
+## 3 straipsnis. Reorganizavimo tvarka
 
 1. Reorganizavimo metu akcinės bendrovės „Lietuvos dujos“ turtas vertinamas ir apskaičiuojamas pagal likutinę vertę, vadovaujantis Buhalterinės apskaitos pagrindų įstatymu bei kitais teisės aktais.
 

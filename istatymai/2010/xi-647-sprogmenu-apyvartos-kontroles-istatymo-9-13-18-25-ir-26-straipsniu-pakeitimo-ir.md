@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AC037376BE82"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AC037376BE82.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 9, 13, 18, 25 ir 26 straipsnių pakeitimo ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 2, 9, 13, 14, 18, 23 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas

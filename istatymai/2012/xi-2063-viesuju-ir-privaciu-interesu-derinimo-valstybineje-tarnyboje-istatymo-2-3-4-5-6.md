@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6F6C656E5089"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6F6C656E5089.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 5, 6, 7, 11, 14, 15, 18, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0); 2000, Nr. [18-431](https://www.e-tar.lt/portal/lt/legalAct/TAR.B24AF3538B14); 2001, Nr. [35-1165](https://www.e-tar.lt/portal/lt/legalAct/TAR.932273BC5680), Nr. [71-2517](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AFC9AF000A6); 2003, Nr. [38-1683](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEFB2B895E9C), Nr. [111-4929](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF478C6250F4), Nr. [123-5584](https://www.e-tar.lt/portal/lt/legalAct/TAR.6AE3851DBCAA); 2004, Nr. [98-3630](https://www.e-tar.lt/portal/lt/legalAct/TAR.31A28B4F31FC); 2005, Nr. [88-3286](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE7E5919B8C1); 2006, Nr. [77-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.090274CC8130); 2008, Nr. [81-3177](https://www.e-tar.lt/portal/lt/legalAct/TAR.6F13363B08B4); 2009, Nr. [75-3066](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6E482678970); 2011, Nr. [37-1758](https://www.e-tar.lt/portal/lt/legalAct/TAR.0AF7638FEC0A))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „8. **Kontroliuojama įmonė** – kaip ši sąvoka apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 
 3. Asmenims, nustojusiems eiti pareigas valstybinėje tarnyboje, taikomi šio įstatymo penktajame skirsnyje nustatyti apribojimai.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 2. Kandidatai į Seimo narius, Respublikos Prezidentus, Europos Parlamento narius, savivaldybių tarybų narius deklaracijas pateikia atitinkamų rinkimų įstatymų nustatyta tvarka.“
 
-\#### 4 straipsnis. 5 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 5 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 5 straipsnį nauja 1 dalimi:
 
@@ -80,7 +80,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias šio straipsnio 1, 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis.
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -104,13 +104,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 2. Deklaruojantis asmuo gali nenurodyti duomenų apie sutuoktinį, sugyventinį, partnerį, jeigu sutuoktiniai, sugyventiniai, partneriai gyvena skyrium, neturi bendro namų ūkio ir dėl to šie duomenys jam nėra žinomi.“
 
-\#### 6 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu pateiktoje deklaracijoje nurodyti duomenys apie deklaruojančio asmensir jo sutuoktinio, sugyventinio, partnerioprivačius interesus pasikeitė, deklaruojantis asmuo privalo deklaraciją patikslinti per 30 kalendorinių dienų nuo duomenų pasikeitimo dienos.“
 
-\#### 7 straipsnis. 11 straipsnio pakeitimas
+## 7 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 6. Respublikos Prezidentui, Seimo ir Vyriausybės nariams, savivaldybių tarybų nariams, teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančiuose įstatymuose, šio straipsnio nuostatos taikomos tiek, kiek jų veiklą reglamentuojančiuose įstatymuose nenustatyti viešųjų interesų viršenybės užtikrinimo būdai.“
 
-\#### 8 straipsnis. 14 straipsnio pakeitimas
+## 8 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 4. Valstybinėje tarnyboje dirbantis asmuo, kuris asmeniškai ar per tarpininkus priėmė leidžiamo dydžio dovaną iš fizinio ar juridinio asmens ir dėl to gali kilti viešųjų ir privačių interesų konfliktas, vienerius metus negali dalyvauti rengiant, svarstant ar priimant sprendimus ar atlikti kitų tarnybinių pareigų dėl šio asmens.“
 
-\#### 9 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 2. Asmenims, dirbantiems valstybinėje tarnyboje, kituose įstatymuose gali būti nustatyta ir kitų apribojimų ir draudimų, susijusių su šio įstatymo, Korupcijos prevencijos įstatymo, Valstybės tarnybos įstatymo, Politikų elgesio kodekso ar kito teisės akto, reglamentuojančio tarnybinės etikos ir elgesio normas, reikalavimų pažeidimais.“
 
-\#### 10 straipsnis. 18 straipsnio pakeitimas
+## 10 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus neturi teisės dirbti įmonės ar jos kontroliuojamos įmonės vadovu, vadovo pavaduotoju, būti šios įmonės tarybos ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai susijusias su sprendimų priėmimu įmonės valdymo, turto tvarkymo, finansų apskaitos ir kontrolės srityse, jeigu per paskutinius darbo metus jo tarnyba buvo tiesiogiai susijusi su įmonės ar jos kontroliuojamos įmonės veiklos priežiūra ar kontrole arba jeigu asmuo tiesiogiai dalyvavo rengiant, svarstant ar priimant palankius įmonei ar jos kontroliuojamai įmonei sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.“
 
-\#### 11 straipsnis. 22 straipsnio papildymas 4 dalimi
+## 11 straipsnis. 22 straipsnio papildymas 4 dalimi
 
 Papildyti 22 straipsnį 4 dalimi:
 

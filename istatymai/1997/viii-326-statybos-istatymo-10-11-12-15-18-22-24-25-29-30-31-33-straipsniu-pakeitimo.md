@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.30D4ED6173A9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.30D4ED6173A9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 10, 11, 12, 15, 18, 22, 24, 25, 29, 30, 31, 33 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D))
 
-\#### 1 straipsnis. 10 straipsnio 1 dalies 5 punkto pakeitimas
+## 1 straipsnis. 10 straipsnio 1 dalies 5 punkto pakeitimas
 
 10 straipsnio 1 dalies 5 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
 „5) gauti apskrities viršininko administracijos statybos valstybinės priežiūros tarnybos leidimą statyti statinį;“.
 
-\#### 2 straipsnis. 11 straipsnio 4 dalies 2 punkto pakeitimas
+## 2 straipsnis. 11 straipsnio 4 dalies 2 punkto pakeitimas
 
 11 straipsnio 4 dalies 2 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
 „2) reikalauti sustabdyti statybos ir montavimo darbus, jeigu šie darbai atliekami nesilaikant projekto arba nustatoma avarijos grėsmė, ir pranešti apie tai apskrities viršininko administracijos statybos valstybinės priežiūros tarnybai.“
 
-\#### 3 straipsnis. 12 straipsnio 3 dalies 3 punkto ir 4 dalies 2 punkto pakeitimas
+## 3 straipsnis. 12 straipsnio 3 dalies 3 punkto ir 4 dalies 2 punkto pakeitimas
 
 1. 12 straipsnio 3 dalies 3 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
@@ -50,13 +50,13 @@ Vilnius
 
 „2) gauti iš statytojo (užsakovo) apskrities viršininko administracijos statybos valstybinės priežiūros tarnybos išduotą leidimą statyti, tyrimų dokumentaciją, statinio projektą, jo patvirtinimo dokumentą, projektavimo technines ir specialias sąlygas bei statinio statybos sąlygas, statybinių medžiagų, statybos gaminių, dirbinių ir įrenginių kokybę patvirtinančius dokumentus ir kitus duomenis bei informaciją, reikalingą sutarties sąlygoms vykdyti;“.
 
-\#### 4 straipsnis. 15 straipsnio 2 dalies 4 punkto pakeitimas
+## 4 straipsnis. 15 straipsnio 2 dalies 4 punkto pakeitimas
 
 15 straipsnio 2 dalies 4 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
 „4) nustatyta tvarka gauti apskrities viršininko administracijos statybos valstybinės priežiūros tarnybos leidimus pastatams rekonstruoti, remontuoti, paskirčiai pakeisti ar nugriauti;“.
 
-\#### 5 straipsnis. 18 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas
+## 5 straipsnis. 18 straipsnio 1, 2, 3, 4 ir 7 dalių pakeitimas
 
 18 straipsnio 1, 2, 3, 4 ir 7 dalyse vietoj žodžių „apskrities valdytojo“, „apskrities valdytojas“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskrities viršininkas“ ir šias dalis išdėstyti taip:
 
@@ -80,13 +80,13 @@ Vilnius
 
 „7. Statomų ir griaunamų statinių apskaitą ir registrą tvarko apskrities viršininko administracijos statybos valstybinės priežiūros tarnyba.“
 
-\#### 6 straipsnis. 22 straipsnio 2 dalies 4 punkto pakeitimas
+## 6 straipsnis. 22 straipsnio 2 dalies 4 punkto pakeitimas
 
 22 straipsnio 2 dalies 4 punkte vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šį punktą išdėstyti taip:
 
 „4) pranešti apie avariją savivaldybei, apskrities viršininko administracijos statybos valstybinės priežiūros tarnybai; jei avarija įvyko statybos metu, – taip pat statytojui (užsakovui), statinio statybos techniniam prižiūrėtojui ir projektuotojui; jei yra nukentėjusių žmonių, – taip pat prokurorui ir valstybinei darbo inspekcijai;“.
 
-\#### 7 straipsnis. 24 straipsnio 2, 5 ir 6 dalių pakeitimas
+## 7 straipsnis. 24 straipsnio 2, 5 ir 6 dalių pakeitimas
 
 24 straipsnio 2, 5 ir 6 dalyse vietoj žodžių „apskričių valdytojų“, „apskrities valdytojo“ įrašyti atitinkamai žodžius „apskričių viršininkų“, „apskrities viršininko“ ir šias dalis išdėstyti taip:
 
@@ -96,31 +96,31 @@ Vilnius
 
 6. Statybos geodezinių tyrimų valstybinę priežiūrą vykdo apskričių viršininkų administracijos žemėtvarkos ir geodezijos tarnybos.“
 
-\#### 8 straipsnis. 25 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 25 straipsnio 2 dalies pakeitimas
 
 25 straipsnio 2 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „2. Statinių ekspertizė atliekama Vyriausybės arba jos įgaliotos valstybės valdžios institucijos ar apskrities viršininko administracijos statybos valstybinės priežiūros tarnybos reikalavimu, o nekilnojamųjų kultūros vertybių tvarkymo darbų ir statinių, statomų tų vertybių apsaugos zonose – Kultūros vertybių apsaugos departamento reikalavimu.“
 
-\#### 9 straipsnis. 29 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 29 straipsnio 1 dalies pakeitimas
 
 29 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „1. Statinio, kuriam statyti išduotas leidimas, statyba gali būti sustabdyta apskrities viršininko administracijos statybos valstybinės priežiūros tarnybos reikalavimu, nustačius, kad statytojas (užsakovas) arba rangovas pažeidė statinio projekto, taip pat statybos ir nekilnojamųjų kultūros vertybių apsaugos normatyvinių dokumentų reikalavimus.“
 
-\#### 10 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 30 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „1. Nebaigto statyti statinio perleidimo kitam juridiniam ar fiziniam asmeniui sutartis gali būti notaro patvirtinta tik pateikus apskrities viršininko administracijos statybos valstybinės priežiūros tarnybos pažymą, kad statinys statomas be esminių nukrypimų nuo suderinto bei patvirtinto projekto.“
 
-\#### 11 straipsnis. 31 straipsnio 3 dalies pakeitimas
+## 11 straipsnis. 31 straipsnio 3 dalies pakeitimas
 
 31 straipsnio 3 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „3. Tam tikrais atvejais apskrities viršininko administracija kartu su atitinkama savivaldybe, kai nevykdomi 29 straipsnyje nurodyti reikalavimai arba netikslinga laikytis šio straipsnio pirmosios dalies 7 punkto, gali pateikti ieškinį teismui dėl statinio perėmimo valstybės arba savivaldybės nuosavybėn Lietuvos Respublikos įstatymų nustatyta tvarka.“
 
-\#### 12 straipsnis. 33 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 33 straipsnio 1 dalies pakeitimas
 
 33 straipsnio 1 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 

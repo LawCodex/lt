@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3F624633BA4A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3F624633BA4A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1, 2, 3, 8, 12, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 5(1) ir 7(1) straipsniais įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [112-3100](https://www.e-tar.lt/portal/lt/legalAct/TAR.746227138BCB))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies papildymas
+## 1 straipsnis. 1 straipsnio 1 dalies papildymas
 
 1 straipsnio 1 dalyje po žodžio „teisės“ įrašyti žodžius „bei uždrausti bet kokią tiesioginę ir netiesioginę diskriminaciją dėl asmens lyties“ ir šią dalį išdėstyti taip:
 
 „1. Šio įstatymo paskirtis – užtikrinti, kad būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir vyrų lygios teisės,bei uždrausti bet kokią tiesioginę ir netiesioginę diskriminaciją dėl asmens lyties.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti bei papildyti 2 straipsnį ir jį išdėstyti taip:
 
 5. Seksualinis priekabiavimas – užgaulus, žodžiu ar fiziniu veiksmu išreikštas seksualinio pobūdžio elgesys su asmeniu, su kuriuo sieja darbo, tarnybiniai ar kitokio priklausomumo santykiai.“
 
-\#### 3 straipsnis. 3 straipsnio 2 punkto pakeitimas
+## 3 straipsnis. 3 straipsnio 2 punkto pakeitimas
 
 Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip:
 
 „2) rengti ir įgyvendinti programas ir priemones, skirtas moterų ir vyrų lygių galimybių užtikrinimui;“.
 
-\#### 4 straipsnis. Įstatymo papildymas 51 straipsniu
+## 4 straipsnis. Įstatymo papildymas 51 straipsniu
 
 Papildyti Įstatymą 5^1 straipsniu:
 
@@ -82,7 +82,7 @@ Prekių pardavėjas, gamintojas ar paslaugų teikėjas, įgyvendindamas moterų 
 
 2) suteikdamas vartotojams informaciją apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad joje nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar privilegijų teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos, kad viena lytis pranašesnė už kitą.“
 
-\#### 5 straipsnis. Įstatymo papildymas 71 straipsniu
+## 5 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1 straipsniu:
 
@@ -94,7 +94,7 @@ Prekių pardavėjo, gamintojo ar paslaugų teikėjo veiksmai pripažįstami paž
 
 2) informuojant apie gaminius, prekes ir paslaugas arba reklamuojant jas, formuojamos visuomenės nuostatos, kad viena lytis pranašesnė už kitą, taip pat vartotojai diskriminuojami dėl jų lyties.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 8 straipsnyje vietoj žodžio „civilinę“ įrašyti žodį „šeiminę“, po žodžio „padėtį“ įrašyti žodžius „amžių (išskyrus įstatyme numatytus atvejus)“, vietoj skaičiaus ir žodžio „2 dalies“ įrašyti skaičių ir žodį „3 dalies“ ir šį straipsnį išdėstyti taip:
 
@@ -102,13 +102,13 @@ Prekių pardavėjo, gamintojo ar paslaugų teikėjo veiksmai pripažįstami paž
 
 Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę vienai iš lyčių, išskyrus 2 straipsnio 3 dalies 5 punkte nurodytą atvejį, reikalauti iš darbo ieškančių asmenų informacijos apie jų šeiminę padėtį, amžių (išskyrus įstatyme numatytus atvejus), privatų gyvenimą ar šeimos planus.“
 
-\#### 7 straipsnis. 12 straipsnio 1 dalies papildymas
+## 7 straipsnis. 12 straipsnio 1 dalies papildymas
 
 12 straipsnio 1 dalyje po žodžio „dėl“ įrašyti žodžius „tiesioginės ar netiesioginės“ ir šią dalį išdėstyti taip:
 
 „1. Moterų ir vyrų lygių galimybių kontrolierius tiria skundus dėl tiesioginės ar netiesioginės diskriminacijos ir seksualinio priekabiavimo.“
 
-\#### 8 straipsnis. 24 straipsnio 5 punkto pakeitimas ir straipsnio papildymas 6 ir 7 punktais
+## 8 straipsnis. 24 straipsnio 5 punkto pakeitimas ir straipsnio papildymas 6 ir 7 punktais
 
 1. 24 straipsnio 5 punkte po žodžio „atsiima“ įrašyti žodžius „arba kai trūksta objektyvių duomenų apie padarytą pažeidimą“ ir šį punktą išdėstyti taip:
 

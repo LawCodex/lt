@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.56B92D0A9AC5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.56B92D0A9AC5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 24, 26 straipsnių pakeitimo ir papildymo ir statuto papildymo 26-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2006, Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340); 2011, Nr. [72-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.C616123D169A))
 
-\#### 1 straipsnis. 24 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 24 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 24 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pareigūnui draudžiama:
 
 8) darbo laiku vykdyti profesinių sąjungų veiklą.“
 
-\#### 2 straipsnis. 26 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 26 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 26 straipsnį ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti ir papildyti 26 straipsnį ir jį išdėstyti taip:
 
 13. Ginčai, kilę dėl tarnybinių nuobaudų paskyrimo, sprendžiami teisės aktų nustatyta tvarka.“
 
-\#### 3 straipsnis. Statuto papildymas 261 straipsniu
+## 3 straipsnis. Statuto papildymas 261 straipsniu
 
 Papildyti Statutą 26^1 straipsniu:
 
@@ -140,7 +140,7 @@ Papildyti Statutą 26^1 straipsniu:
 
 5) tarnybinis nusižengimas padarytas pažeidžiant viešąjį interesą ar dėl savanaudiškų paskatų.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. liepos 15 d.
 

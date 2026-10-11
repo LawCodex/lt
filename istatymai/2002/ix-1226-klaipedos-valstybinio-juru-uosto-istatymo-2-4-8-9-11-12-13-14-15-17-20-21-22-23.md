@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9D6BD92444EF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9D6BD92444EF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 4, 8, 9, 11, 12, 13, 14, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 33, 34, 36, 38 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [53-1245](https://www.e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7); 1999, Nr. [86-2561](https://www.e-tar.lt/portal/lt/legalAct/TAR.3266F3F55E43); 2000, Nr. [18-429](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C52BAD3C4FB), Nr. [75-2265](https://www.e-tar.lt/portal/lt/legalAct/TAR.F1ADBF19DC03), Nr. [82-2479](https://www.e-tar.lt/portal/lt/legalAct/TAR.232096D12427))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 22. Valstybinį statusą turintis laivas – laivas, priklausantis kuriai nors valstybei arba tos valstybės naudojamas ir atliekantis tik nekomercinę valstybinę tarnybą.“
 
-\#### 2 straipsnis. 4 straipsnio 2 ir 3 dalių pakeitimas
+## 2 straipsnis. 4 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „3. Lietuvos Respublikos Vyriausybė nustato sąrašą ne karinėje uosto teritorijoje esančių krantinių, kurias Uosto direkcija rezervuoja budintiems Lietuvos karo laivams, taip pat užsienio valstybių vizituojantiems karo laivams pirmumo teise pastatyti ir stovėti. Tokių krantinių bendras ilgis turi būti ne mažesnis kaip 190 metrų. Paraiškų karo laivams pastatyti pateikimo, laivų aptarnavimo ir aprūpinimo paslaugų suteikimo, taip pat vietų, kuriose gali būti pastatyti karo laivai, suteikimo ir apmokėjimotvarką uosto naudotojams nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 3 straipsnis. 8 straipsnio 1 ir 4 dalių papildymas
+## 3 straipsnis. 8 straipsnio 1 ir 4 dalių papildymas
 
 1. 8 straipsnio 1 dalyje po žodžio „atviras“ įrašyti žodžius „vidaus ir“ ir šią dalį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „4. Užsienio valstybių karo ir valstybinį statusą turintys laivai, eksploatuojami nekomerciniais tikslais, į uostą gali įplaukti Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 4 straipsnis. 9 straipsnio 4 dalies pakeitimas ir papildymas 5 dalimi
+## 4 straipsnis. 9 straipsnio 4 dalies pakeitimas ir papildymas 5 dalimi
 
 1. 9 straipsnio 4 dalyje po žodžio „įmonės“ įrašyti žodžius „įstatymų ir kitų teisės aktų nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „5. Laivų aptarnavimo ir aprūpinimo paslaugas teikiantys asmenys turi teisę aptarnauti laivą ir jo įgulą ar aprūpinti atsargomis nustatyta tvarka gavę leidimą patekti į uostąir pagal laivų, stovinčių prie uosto krantinių, pirsų kapitonų arba jų įgaliotų asmenų paraiškas.“
 
-\#### 5 straipsnis. 11 straipsnio pakeitimas
+## 5 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 1, 3, 7, 9, 10, 11, 12, 13 ir 14 punktus, straipsnį papildyti nauju 15 punktu ir visą straipsnį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pagrindinės Uosto direkcijos funkcijos:
 
 16) organizuoti socialinį-buitinį jūrininkų aptarnavimą.“
 
-\#### 6 straipsnis. 12 straipsnio 1, 3 ir 4 dalių pakeitimas
+## 6 straipsnis. 12 straipsnio 1, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pagrindinės Uosto direkcijos funkcijos:
 
 „4. Uosto tarybos nuostatus tvirtina Susisiekimo ministerija.“
 
-\#### 7 straipsnis. 13 straipsnio pakeitimas
+## 7 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 Laisvasis uostas steigiamas Klaipėdos valstybinio jūrų uosto teritorijos dalyje, kurios ribas ir veiklos sąlygas nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 8 straipsnis. 14 straipsnio pakeitimas
+## 8 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 4. Uosto žemės naudotojui, įvykdžiusiam visus laisvojo uosto įrengimo sutarties reikalavimus, šio įstatymo 17 straipsnio nustatyta tvarka išduodamas leidimas veiklai laisvajame uoste.“
 
-\#### 9 straipsnis. 15 straipsnio pakeitimas
+## 9 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 Uosto žemės naudotojai veiklą laisvajame uoste vykdo tik gavę šio įstatymo 17 straipsnyje nurodytą leidimą veiklai laisvajame uoste.“
 
-\#### 10 straipsnis. 17 straipsnio pakeitimas
+## 10 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -206,17 +206,17 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 4. Leidimus veiklai laisvajame uoste išduoda susisiekimo ministras.“
 
-\#### 11 straipsnis. 20 straipsnio 3 dalies pripažinimas netekusia galios
+## 11 straipsnis. 20 straipsnio 3 dalies pripažinimas netekusia galios
 
 20 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 12 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Laisvojo uosto ribas ir prekių įvežimo bei išvežimo vietas prižiūri muitinė. Teisės aktų nustatyta tvarkaji tikrina į laisvąjį uostą atvykstančius ir iš jo išvykstančius fizinius asmenis bei transporto priemones. Laisvojo uosto pagal perimetrą apsaugą organizuoja ir vykdo uosto žemės naudotojai.“
 
-\#### 13 straipsnis. 22 straipsnio pakeitimas
+## 13 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -228,7 +228,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 3. Uosto rezervinėse teritorijose esantys statiniai ar kitas nekilnojamasis turtas negali būti perduodami privačion nuosavybėn, juo negali būti užtikrinami trečiųjų asmenų įsipareigojimai ir iš jo negali būti išieškoma pagal kreditorių reikalavimus.“
 
-\#### 14 straipsnis. 23 straipsnio pakeitimas
+## 14 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -244,13 +244,13 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 3. Valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus, uosto žemė suteikiama naudotis Žemės įstatymo nustatyta tvarka.“
 
-\#### 15 straipsnis. 24 straipsnio 1 dalies pakeitimas
+## 15 straipsnis. 24 straipsnio 1 dalies pakeitimas
 
 24 straipsnio 1 dalyje vietoj žodžių „žemės nuomos įstatymo“ įrašyti žodžius „civilinio kodekso“ ir šią dalį išdėstyti taip:
 
 „1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos Respublikos civilinio kodekso ir šio įstatymo reikalavimų.“
 
-\#### 16 straipsnis. 25 straipsnio 2, 3, 5 dalių pakeitimas ir papildymas 6 dalimi
+## 16 straipsnis. 25 straipsnio 2, 3, 5 dalių pakeitimas ir papildymas 6 dalimi
 
 1. Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -282,7 +282,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 „6. Uosto žemės nuomos ir subnuomos sąlygas bei reikalavimus nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 17 straipsnis. 26 straipsnio pakeitimas
+## 17 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -294,19 +294,19 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu uosto infrastruktūra pagerinta ar sukurta nesudarius uosto infrastruktūros pagerinimo ar sukūrimo sutarties, nuomininko turėtos išlaidos neatlyginamos.“
 
-\#### 18 straipsnis. 27 straipsnio 2 dalies pakeitimas
+## 18 straipsnis. 27 straipsnio 2 dalies pakeitimas
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pavojingų krovinių vežimo, perkrovimo ir sandėliavimo uoste tvarką nustato Lietuvos Respublikos įstatymai bei Lietuvos Respublikos tarptautinės sutartys, Klaipėdos valstybinio jūrų uosto laivybos ir naudojimo taisyklės bei kiti teisės aktai.“
 
-\#### 19 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 19 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Uosto teritorijoje esantys privačios nuosavybės objektai Lietuvos Respublikos Vyriausybės nutarimu visuomenės poreikiams, jeigu tai būtina uosto infrastruktūros objektų statybai ir plėtrai ar uosto funkcionavimui užtikrinti, gali būti paimti tik teisingai už juos atlyginus.“
 
-\#### 20 straipsnis. 33 straipsnio pakeitimas
+## 20 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -344,13 +344,13 @@ Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir kitoms išlaidoms, sus
 
 15) kitoms išlaidoms, numatytoms susisiekimo ministro patvirtintoje pajamų ir išlaidų sąmatoje.“
 
-\#### 21 straipsnis. 34 straipsnio 2 dalies pakeitimas
+## 21 straipsnis. 34 straipsnio 2 dalies pakeitimas
 
 34 straipsnio 2 dalyje po žodžio „rūšis“ įrašyti žodžius „maksimalius dydžius, rinkliavų“ ir šią dalį išdėstyti taip:
 
 „2. Uosto rinkliavų rūšis, jų maksimalius dydžius, rinkliavų taikymo principus ir atskaitymų Lietuvos saugios laivybos administracijai išlaikyti dalį nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 22 straipsnis. 36 straipsnio pakeitimas
+## 22 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -362,7 +362,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu uosto akvatorijoje paskendusio, palikto be priežiūros arba apleisto turto savininkas yra nežinomas, terminą, nustatytą uosto akvatorijoje paskendusiam, paliktam be priežiūros arba apleistam turtui iškelti ar pašalinti, Uosto direkcija paskelbia visuomenės informavimo priemonėse. Nustatytam terminui pasibaigus, Uosto direkcija turi teisę imtis reikiamų priemonių turtui iškelti ar kitu būdu jį pašalinti.“
 
-\#### 23 straipsnis. 38 straipsnio pakeitimas
+## 23 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 

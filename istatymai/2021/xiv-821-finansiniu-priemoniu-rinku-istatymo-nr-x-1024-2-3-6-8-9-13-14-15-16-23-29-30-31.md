@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/39961960696e11eca9ac839120d251c4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.39961960696E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 6, 8, 9, 13, 14, 15, 16, 23, 29, 30, 31, 33, 35, 37, 39, 49, 50, 51, 72, 73, 76, 93, 97, 99, 102, 107, 111, 112, 114 straipsnių, priedo pakeitimo, Įstatymo papildymo 14-1, 14-2, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 44-1, 107-1, 111-1 straipsniais ir V skyriaus pripažinimo netekusiu galios įstatymas

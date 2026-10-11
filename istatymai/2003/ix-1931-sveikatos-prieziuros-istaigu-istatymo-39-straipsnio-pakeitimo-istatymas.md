@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.43FF877643A4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43FF877643A4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 39 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [66-1572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6); 1997, Nr. [62-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF4F3C963834); 1998, Nr. [109-2995](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6CC51EA4ED))
 
-\#### 1 straipsnis. 39 straipsnio 1 dalies 6 punkto pakeitimas
+## 1 straipsnis. 39 straipsnio 1 dalies 6 punkto pakeitimas
 
 39 straipsnio 1 dalies 6 punkte vietoj žodžio „stomatologų“ įrašyti žodį „odontologų“ ir šį punktą išdėstyti taip:
 
 „6) bendrosios praktikos odontologų kabinetai;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

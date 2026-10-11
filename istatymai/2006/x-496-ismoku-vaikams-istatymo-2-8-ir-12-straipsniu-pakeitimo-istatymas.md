@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.52D3D1B8E992"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.52D3D1B8E992.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 2, 8 ir 12 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 2004, Nr. 88-3208, Nr. [152-5534](https://www.e-tar.lt/portal/lt/legalAct/TAR.49F68EB98DA9))
 
-\#### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
 
 Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. **Vaiko globėjas (rūpintojas)** – fizinis ar juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.“
 
-\#### 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vaikui,kuriam nustatyta globa (rūpyba),jo globos (rūpybos) laikotarpiu skiriama 4 MGL dydžio išmoka per mėnesį.“
 
-\#### 3 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas
+## 3 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Vaiko globėjui (rūpintojui) globos (rūpybos) išmokąmoka tos savivaldybės, kurios teritorijojevaikui buvo nustatyta globa (rūpyba),administracija.“
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/929874a0dcd011e39a43a3f57c05722e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.929874A0DCD0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 7, 12, 13 straipsnių, antrojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 1, 3, 7, 12, 13 STRAIPSNIŲ, ANTROJO SKIRSN
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1. Papildyti 1 straipsnio 2 dalį nauju 4 punktu:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas yra Lietuvos Respublikoje nuolat gyvenantys asmenys. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 3 ar 4 punktų nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas nuolat gyvena ar turi leidimą laikinai gyventi Lietuvos Respublikoje arba jeigu šio straipsnio 2 dalies 5 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kariovaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas yraLietuvos Respublikoje nuolat gyvenantys asmenys. Vienkartinė išmoka įsikurti skiriama tikLietuvos Respublikoje nuolat gyvenantiems asmenims.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) išmoka privalomosios pradinės karo tarnybos kario vaikui;“.
 
-\#### 3 straipsnis. Antrojo skirsnio pavadinimo pakeitimas
+## 3 straipsnis. Antrojo skirsnio pavadinimo pakeitimas
 
 Pakeisti antrojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti antrojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **IŠMOKA PRIVALOMOSIOS PRADINĖS KARO TARNYBOS kario VAIKUI**“.
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 4. Išmokos privalomosios pradinės karo tarnybos kario vaikui gavėjas turi teisę gauti šio įstatymo 6 straipsnyje nustatytą išmoką vaikui.“
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas
+## 5 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -78,19 +78,19 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 „9. Išmoka vaikui mokama vienam iš vaiką (vaikus) auginančių tėvų (įtėvių) (ar turimam vieninteliam iš tėvų), globėjui (rūpintojui). Išmokos gavimo būdą pasirenka išmokos gavėjas, išskyrus tuos, kurie yra patyrę socialinę riziką.“
 
-\#### 6 straipsnis. 13 straipsnio pakeitimas
+## 6 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Išmoka privalomosios pradinės karo tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo 6 straipsnio 1 ir 2 dalyse nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų pajamas.“
 
-\#### 7 straipsnis. Įstatymo priedo pakeitimas
+## 7 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 2 punktu:
 
 „2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį ir šio įstatymo 1 straipsnį, įsigalioja 2014 m. liepos 1 d.
 

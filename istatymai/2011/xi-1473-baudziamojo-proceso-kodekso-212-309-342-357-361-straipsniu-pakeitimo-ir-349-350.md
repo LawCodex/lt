@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.15FBBA4514CC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.15FBBA4514CC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 212, 309, 342, 357, 361 straipsnių pakeitimo ir 349, 350 straipsnių pripažinimo netekusiais galios įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 2007, Nr. [81-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCCB8FD78166), Nr. [140-5748](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4C94F1ECFA0); 2010, Nr. [113-5742](https://www.e-tar.lt/portal/lt/legalAct/TAR.72A530A7A725), Nr. [145-7440](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF31D7BB828A))
 
-\#### 1 straipsnis. 212 straipsnio 8 punkto pakeitimas
+## 1 straipsnis. 212 straipsnio 8 punkto pakeitimas
 
 212 straipsnio 8 punkte po skaičių ir žodžių „189^1 straipsnio 2 dalyje“ įrašyti skaičius ir žodžius „226 straipsnio 6 dalyje“, vietoj skaičiaus „4“ įrašyti skaičių „5“ ir šį punktą išdėstyti taip:
 
 „8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 189^1 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 5 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai;“.
 
-\#### 2 straipsnis. 309 straipsnio 1 dalies 4 punkto pakeitimas
+## 2 straipsnis. 309 straipsnio 1 dalies 4 punkto pakeitimas
 
 309 straipsnio 1 dalies 4 punkte išbraukti žodžius „viešųjų teisių atėmimo bausmę, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę“ ir šį punktą išdėstyti taip:
 
 „4) paskiria viešųjų darbų bausmę, baudą arba laisvės apribojimo bausmę;“.
 
-\#### 3 straipsnis. 342 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 342 straipsnio 4 dalies pakeitimas
 
 Pakeisti 342 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -72,15 +72,15 @@ Pakeisti 342 straipsnio 4 dalį ir ją išdėstyti taip:
 
 13) nuosprendis, kuriuo nuteistajam paskiriama bausmė už labai sunkų ar sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, – bausmę vykdančiai institucijai ir nuteistojo darbovietės, kurioje jis dirbo arba ėjo pareigas nusikalstamos veikos padarymo metu, administracijai, jeigu nuteistasis toliau dirba arba eina pareigas toje darbovietėje.“
 
-\#### 4 straipsnis. 349 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 349 straipsnio pripažinimas netekusiu galios
 
 349 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 350 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 350 straipsnio pripažinimas netekusiu galios
 
 350 straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 357 straipsnio pakeitimas
+## 6 straipsnis. 357 straipsnio pakeitimas
 
 Pakeisti 357 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 357 straipsnį ir jį išdėstyti taip:
 
 8. Nuteistiesiems, kuriems paskirta baudžiamojo poveikio priemonė – turtinės žalos atlyginimas ar pašalinimas arba nemokami darbai, arba įmoka į Nukentėjusiųjų nuo nusikaltimų asmenų fondą, Lietuvos Respublikos baudžiamojo kodekso 74 straipsnyje numatytais atvejais teismas vieną baudžiamojo poveikio priemonę gali pakeisti kita šio Kodekso 362 straipsnyje nustatyta tvarka.“
 
-\#### 7 straipsnis. 361 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 361 straipsnio 2 dalies pakeitimas
 
 Pakeisti 361 straipsnio 2 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3C139AE665CB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3C139AE665CB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 1, 5(1), 6, 11 straipsnių papildymo ir pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2000, Nr. 67-2017, Nr. 113-3605; 2002, Nr. 64-2577)
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 1 straipsnyje po žodžio „suteikimo“ įrašyti žodžius „arba piniginės socialinės paramos skyrimo“ ir šį straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 Šis įstatymas nustato Lietuvos Respublikos gyventojų turto ir pajamų deklaravimą, pagrįstą mokesčiais ir kitais privalomais mokėjimais valstybei, taip pat turto ir pajamų deklaravimą, kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo arba piniginės socialinės paramos skyrimo.“
 
-\#### 2 straipsnis. 51 straipsnio pakeitimas
+## 2 straipsnis. 51 straipsnio pakeitimas
 
 Pakeisti 5^1 straipsnį ir jį išdėstyti taip:
 
@@ -46,19 +46,19 @@ Pakeisti 5^1 straipsnį ir jį išdėstyti taip:
 
 Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo savo turtą ir pajamas deklaruoti prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo, o pageidaujantys gauti piniginę socialinę paramą asmenys bei jų šeimos nariai – savivaldybei pareikalavus. Šie asmenys pateikia vienerių metų (12 paskutinių mėnesių) turto ir pajamų deklaracijas. Jeigu valstybės garantuojama teisinė pagalba teikiama ilgiau kaip vienerius metus, praėjus vieneriems metams po ankstesnės deklaracijos pateikimo, turi būti pateikiama kitų metų (12 mėnesių, pradedant skaičiuoti nuo to mėnesio, kurį buvo pateikta ankstesnė deklaracija) turto ir pajamų deklaracija. Turtą ir pajamas deklaravusiems asmenims valstybinė mokesčių inspekcija per 7 darbo dienas grąžina du deklaracijos egzempliorius su žyma, kad deklaracija yra pateikta. Vieną egzempliorių šie asmenys pateikia institucijai (pareigūnui), priimančiai sprendimą dėl valstybės garantuojamos teisinės pagalbos suteikimo, arba savivaldybei dėl piniginės socialinės paramos skyrimo.“
 
-\#### 3 straipsnis. 6 straipsnio 5 dalies papildymas
+## 3 straipsnis. 6 straipsnio 5 dalies papildymas
 
 6 straipsnio 5 dalyje po žodžio „asmenų“ įrašyti žodžius „arba piniginę socialinę paramą asmenų bei jų šeimos narių“ ir šią dalį išdėstyti taip:
 
 „5. Juridiniai ir fiziniai asmenys bei juridinio asmens teisių neturintys subjektai pageidaujančių gauti valstybės garantuojamą teisinę pagalbą asmenų arba piniginę socialinę paramą asmenų bei jų šeimos narių prašymu per 7 darbo dienas nuo prašymo gavimo turi šiems asmenims išduoti centrinio mokesčio administratoriaus patvirtintos formos pažymas apie per vienerius metus (paskutinius 12 mėnesių) išmokėtas sumas, išskaičiuotus mokesčius, nemokamai išduotą turtą ar suteiktas paslaugas.“
 
-\#### 4 straipsnis. 11 straipsnio 6 punkto papildymas
+## 4 straipsnis. 11 straipsnio 6 punkto papildymas
 
 11 straipsnio 6 punktą papildyti antru sakiniu ir šį punktą išdėstyti taip:
 
 „6) asmenys, pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, turtą ir pajamas deklaruoja prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo. Asmenys bei jų šeimos nariai, pageidaujantys gauti piniginę socialinę paramą, turtą ir pajamas deklaruoja savivaldybei pareikalavus.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/30b4f38090d011e4bb408baba2bdddf3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.30B4F38090D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 96 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO NR. IX-751 96 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 96 straipsnio pakeitimas
+## 1 straipsnis. 96 straipsnio pakeitimas
 
 Pakeisti 96 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 96 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) kitais Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais apskaičiuotą PVM, kai PVM už tiekiamas prekes ir (arba) teikiamas paslaugas išskaito ir sumoka į biudžetą šių prekių ir (arba) paslaugų pirkėjas (klientas), jeigu jis yra PVM mokėtojas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. liepos 1 d.
 

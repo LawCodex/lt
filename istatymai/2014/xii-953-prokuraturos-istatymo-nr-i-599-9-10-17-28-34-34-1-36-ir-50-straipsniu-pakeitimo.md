@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/487a3940fcfa11e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.487A3940FCFA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 9, 10, 17, 28, 34, 34-1, 36 ir 50 straipsnių pakeitimo įstatymas
@@ -26,25 +26,25 @@ PROKURATŪROS ĮSTATYMO NR. I-599 9, 10, 17, 28, 34, 341, 36 IR 50 STRAIPSNIŲ P
 
 Vilnius
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Teritorinei prokuratūrai vadovauja teritorinės prokuratūros vyriausiasis prokuroras ir jo pavaduotojai pagal kompetenciją.“
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Asmenų, pretenduojančių į vyriausiojo prokuroro (vyriausiojo prokuroro pavaduotojo) pareigas, atrankai atlikti sudaroma Vyriausiųjų prokurorų atrankos komisija.“
 
-\#### 3 straipsnis. 17 straipsnio pakeitimas
+## 3 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Generalinis prokuroras (jo pavaduotojai) ir teritorinių prokuratūrų vyriausieji prokurorai (jų pavaduotojai) pagal kompetenciją koordinuoja ikiteisminio tyrimo įstaigų veiksmus tiriant nusikalstamas veikas.“
 
-\#### 4 straipsnis. 28 straipsnio pakeitimas
+## 4 straipsnis. 28 straipsnio pakeitimas
 
 1. Pakeisti 28 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „6. Asmuo, nesutikdamas su generalinio prokuroro įsakymu dėl stažo įskaitymo, gali jį apskųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 5 straipsnis. 34 straipsnio pakeitimas
+## 5 straipsnis. 34 straipsnio pakeitimas
 
 1. Pakeisti 34 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -64,19 +64,19 @@ Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „7. Į apygardos prokuratūros specializuoto skyriaus prokuroro pareigas skiriamas asmuo, kuris turi ne mažesnį kaip trejų metų tarnybos prokuroru ir (ar) darbo teisėju stažą, arba asmuo, kuris turėdamas socialinių mokslų teisės krypties daktaro laipsnį ne mažiau kaip trejus metus yra dirbęs teisinį pedagoginį darbą.“
 
-\#### 6 straipsnis. 341 straipsnio pakeitimas
+## 6 straipsnis. 341 straipsnio pakeitimas
 
 Pakeisti 34^1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nustatyta tvarka buvęs prokuroras negali būti skiriamas į vyriausiojo prokuroro (vyriausiojo prokuroro pavaduotojo)pareigas.“
 
-\#### 7 straipsnis. 36 straipsnio pakeitimas
+## 7 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) jo prašymu ar sutikimu, kai į šias pareigas nėra pretenduojančių kitų prokurorų;“.
 
-\#### 8 straipsnis. 50 straipsnio pakeitimas
+## 8 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnio 6 dalį ir ją išdėstyti taip:
 

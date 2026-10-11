@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FEDA6D6A17E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FEDA6D6A17E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 5, 7, 9, 14, 19, 22, 23, 30, 34, 46, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,31 +24,31 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 2004, Nr. [28-868](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED447C0D254), Nr. [167-6098](https://www.e-tar.lt/portal/lt/legalAct/TAR.02CFAE383A3E); 2005, Nr. [88-3291](https://www.e-tar.lt/portal/lt/legalAct/TAR.F30FEF80C72C); 2006, Nr. [87-3399](https://www.e-tar.lt/portal/lt/legalAct/TAR.52F4965DA815), Nr. [138-5268](https://www.e-tar.lt/portal/lt/legalAct/TAR.4111834C51E6); 2009, Nr. [77-3166](https://www.e-tar.lt/portal/lt/legalAct/TAR.327886FE1AFC), Nr. [153-6884](https://www.e-tar.lt/portal/lt/legalAct/TAR.F48E17FE243D))
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 5 straipsnio 2 dalyje po žodžio „dėl“ įrašyti žodžius „žemės konsolidacijos“ ir šią dalį išdėstyti taip:
 
 „2. Valstybine žeme gali būti disponuojama ją perleidžiant nuosavybėn neatlygintinai, parduodant, išnuomojant ar perduodant neatlygintinai naudotis, sudarant sandorius dėl žemės konsolidacijos, žemės servitutų Civilinio kodekso, šio ir kitų įstatymų nustatyta tvarka. Kiti sandoriai dėl valstybinės žemės negali būti sudaromi, jeigu kiti įstatymai nenustato kitaip.“
 
-\#### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybinės žemės patikėjimo teisės subjektai (patikėtiniai) yra apskričių viršininkai, valstybės turto privatizavimo institucija, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytas valstybės nekilnojamojo turto atnaujinimo organizatorius, kiti įstatymų nustatyti subjektai ir šio straipsnio 2 ir 3 dalyse nurodyti subjektai. Apskrities viršininkas yra apskrities teritorijoje esančios valstybinės žemės patikėtinis, išskyrus žemę, kuri patikėjimo teise perduota kitiems įstatymų nustatytiems subjektams ir Vyriausybės nutarimais – šio straipsnio 2 ir 3 dalyse nurodytiems patikėtiniams, taip pat privatizuojamiems statiniams ir įrenginiams priskirtą valstybinę žemę, kurią patikėjimo teise valdo, naudoja ir ja disponuoja valstybės turto privatizavimo institucija. Valstybės turto privatizavimo institucija yra valstybinės žemės, reikalingos įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Seimas arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė valstybės turto privatizavimo institucijai, patikėtinė.“
 
-\#### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Sprendimus išnuomoti valstybinę žemę, Vyriausybės nutarimais perduotą patikėjimo teise savivaldybėms, priima savivaldybės taryba, valstybinę žemę, reikalingą įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Seimas arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė valstybės turto privatizavimo institucijai, – ši institucija, o kitą valstybinę žemę – apskrities viršininkas. Sprendime turi būti išdėstyti valstybinės žemės nuomos sutarties termino nustatymo motyvai. Kai valstybinę žemę išnuomoja apskrities viršininkas, valstybinės žemės nuomos sutartį sudaro apskrities viršininkas arba jo paskirtas apskrities viršininko administracijos darbuotojas.“
 
-\#### 4 straipsnis. 14 straipsnio 3 dalies pakeitimas
+## 4 straipsnis. 14 straipsnio 3 dalies pakeitimas
 
 14 straipsnio 3 dalies pirmame sakinyje išbraukti žodį „mainant“, po žodžio „dėl“ įrašyti žodžius „žemės konsolidacijos“ ir šią dalį išdėstyti taip:
 
 „3. Savivaldybių žeme gali būti disponuojama ją perduodant valstybės nuosavybėn neatlygintinai, perduodant ją valdyti patikėjimo teise, parduodant, išnuomojant ar perduodant neatlygintinai naudotis, sudarant sandorius dėl žemės konsolidacijos,žemės servitutų Civilinio kodekso, šio ir kitų įstatymų nustatyta tvarka. Kiti sandoriai dėl savivaldybių žemės negali būti sudaromi.“
 
-\#### 5 straipsnis. 19 straipsnio 2 dalies pakeitimas ir 5, 6 dalių pripažinimas netekusiomis galios
+## 5 straipsnis. 19 straipsnio 2 dalies pakeitimas ir 5, 6 dalių pripažinimas netekusiomis galios
 
 1. 19 straipsnio 2 dalies pirmame sakinyje išbraukti žodžius „taip pat šio straipsnio 5 dalyje nustatytais atvejais sudarant mainų sutartį“ ir šią dalį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3. 19 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 22 straipsnio 5 ir 6 dalių pakeitimas
+## 6 straipsnis. 22 straipsnio 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 22 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -68,19 +68,19 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „6. Ginčai dėl teritorijų planavimo dokumento ar jo patikslinimo, pagal kurį žemės sklypui turi būti taikomos specialiosios žemės naudojimo sąlygos ar panaikinamos anksčiau taikytos sąlygos, nagrinėjami Teritorijų planavimo įstatymo nustatyta tvarka.“
 
-\#### 7 straipsnis. 23 straipsnio 2 dalies papildymas
+## 7 straipsnis. 23 straipsnio 2 dalies papildymas
 
 Papildyti 23 straipsnio 2 dalį 5 punktu:
 
 „5) valstybinės, savivaldybių ir privačios žemės sklypams, konsoliduotiems (pertvarkytiems) pagal žemės konsolidacijos projektą.“
 
-\#### 8 straipsnis. 30 straipsnio papildymas
+## 8 straipsnis. 30 straipsnio papildymas
 
 Papildyti 30 straipsnį 10 dalimi:
 
 „10. Perleidžiant statinį ar įrenginį, esantį šiam statiniui ar įrenginiui eksploatuoti suformuotame valstybinės žemės sklype, už kurį sumokėta teisės aktų nustatyta tvarka, tačiau valstybinės žemės pirkimo–pardavimo sutartis nesudaryta, statinį ar įrenginį įgyjantis asmuo, išskyrus asmenis, kurie pagal įstatymus negali įgyti nuosavybės teisės į žemę, kartu su nuosavybės teise į statinį ar įrenginį įgyja teisę sudaryti valstybinės žemės sklypo, reikalingo statiniui ar įrenginiui eksploatuoti, pirkimo–pardavimo sutartį. Kartu su nuosavybės teise į statinį ar įrenginį perleidėjas gali perleisti teisę įskaityti už tokį žemės sklypą sumokėtas įmokas.“
 
-\#### 9 straipsnis. 34 straipsnio pakeitimas
+## 9 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -90,13 +90,13 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 2. Žemės informacinės sistemos valdytojas, tvarkytojas, tvarkomų duomenų turinys, apimtis, duomenų įrašymo, tvarkymo ir teikimo tvarka nustatomi Žemės ūkio ministerijos įgaliotos institucijos patvirtintuose Žemės informacinės sistemos nuostatuose.“
 
-\#### 10 straipsnis. 46 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 46 straipsnio 1 dalies pakeitimas
 
 Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybės institucija ar savivaldybės taryba, pateikdama apskrities viršininkui prašymą paimti žemę visuomenės poreikiams, kartu raštu praneša žemės savininkui apie tokio prašymo pateikimą ir nurodo konkrečius tikslus, kuriems numatoma panaudoti paimamą visuomenės poreikiams žemę. Apskrities viršininkas, išnagrinėjęs valstybės institucijos ar savivaldybės tarybosprašymą paimti žemę visuomenėsporeikiams, priima motyvuotą sprendimą pradėti žemės paėmimo visuomenės poreikiams procedūrą arba prašymo netenkinti ir žemės paėmimo visuomenės poreikiams procedūros nepradėti. Apie apskrities viršininko sprendimą per 5 darbo dienas nuo jo priėmimo raštu pranešama žemės sklypo, kurį numatoma paimti visuomenės poreikiams, savininkui, institucijai, suinteresuotai žemės sklypo paėmimu, ir Nekilnojamojo turto registro tvarkytojui. Šis Nekilnojamojo turto registre padaro žymą, kad pradėta žemės sklypo paėmimo visuomenės poreikiams procedūra. Apskrities viršininko sprendimas gali būti skundžiamas teismui.“
 
-\#### 11 straipsnis. 49 straipsnio pakeitimas
+## 11 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
@@ -140,7 +140,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 15. Žemės konsolidacijos projekto rengėją apskrities viršininkas parenka Viešųjų pirkimų įstatymo nustatyta tvarka.“
 
-\#### 12 straipsnis. 50 straipsnio 3 ir 4 dalių pakeitimas
+## 12 straipsnis. 50 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 „4. Žemės vertinimo planui turi pritarti visi vertinamoje teritorijoje esančių ir numatomų konsoliduoti žemės sklypų savininkai, savivaldybės tarybos įgaliotas asmuo, kai konsoliduojami savivaldybės žemės sklypai, ir valstybinės žemės patikėtinių įgalioti asmenys, kai konsoliduojami valstybinės žemės sklypai. Kai konsoliduojami valstybinės žemės sklypai, žemės vertinimo planui visais atvejais turi pritarti apskrities viršininkas ar jo įgaliotas asmuo, neatsižvelgiant į tai, kad jis nėra konsoliduojamų valstybinės žemės sklypų patikėtinis. Ginčai dėl žemės vertinimo sprendžiami teismo tvarka.“
 
-\#### 13 straipsnis. 51 straipsnio 1 ir 5 dalių pakeitimas ir papildymas 7 dalimi
+## 13 straipsnis. 51 straipsnio 1 ir 5 dalių pakeitimas ir papildymas 7 dalimi
 
 1. Pakeisti 51 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 „7. Kai asmenys, pateikę sutikimą dalyvauti žemės konsolidacijos projekte, atsisako jame dalyvauti, apskrities viršininkas priima sprendimą pakeisti žemės konsolidacijos projekto teritorijos ribas, išbraukiant žemės sklypus, priklausančius žemės konsolidacijos projekte atsisakiusiems dalyvauti asmenims, ir patikslinti žemės konsolidacijos projektą. Tokiais atvejais taikomas šio Įstatymo 49 straipsnio 7 dalies reikalavimas, kad teritorija žemės konsolidacijos projektui rengti, apimanti numatomus konsoliduoti žemės sklypus, turi būti ne mažesnė kaip 100 ha, o 49 straipsnio 12 dalyje nustatyta sąlyga, kad teritorijos žemės konsolidacijos projektui rengti ribos gali būti keičiamos iki sprendimo pritarti žemės konsolidacijos projekto žemės vertinimo planui, netaikoma. Apskrities viršininkas per 5 darbo dienas nuo sprendimo pakeisti teritoriją žemės konsolidacijos projektui rengti priėmimo Nekilnojamojo turto registro tvarkytojui pateikia prašymą išregistruoti juridinį faktą apie žemės sklypo (sklypų) priskyrimą teritorijai žemės konsolidacijos projektui rengti.“
 
-\#### 14 straipsnis. 52 straipsnio pakeitimas
+## 14 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
@@ -220,11 +220,11 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 14. Valstybinės žemės sklypai, kurie yra konsoliduoti pagal žemės konsolidacijos projektą ir perduoti valstybei pagal žemės konsolidacijos sutartį ir kurių nenumatoma naudoti visuomenės poreikiams ar kitoms valstybinėms ar savivaldybių funkcijoms atlikti, gali būti perleidžiami kitų asmenų nuosavybėn arba perduodami naudotis įstatymų nustatyta tvarka.“
 
-\#### 15 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 15 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijos iki 2010 m. kovo 31 d. parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas
+## 16 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 6 straipsnio 1 dalis, 7, 9, 11, 12, 13 ir 14 straipsniai įsigalioja 2010 m. balandžio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E70271BC1540"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E70271BC1540.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 34 ir 77 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2004, Nr. [69-2382](https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049); 2008, Nr. [137-5383](https://www.e-tar.lt/portal/lt/legalAct/TAR.168E39B9FB8E); 2011, Nr. [91-4327](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E37A1598E0C))
 
-\#### 1 straipsnis. 34 straipsnio 14 dalies pakeitimas
+## 1 straipsnis. 34 straipsnio 14 dalies pakeitimas
 
 Pakeisti 34 straipsnio 14 dalį ir ją išdėstyti taip:
 
 „14. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo paskirti fizinius asmenis, kurie dirbtų su kriminalinės žvalgybossubjektų, žvalgybos institucijųpranešimais apie jų tinkluose vykdomą techninių priemonių naudojimą specialia tvarka ar būtų atsakingi už kriminalinės žvalgybos subjektų, ikiteisminio tyrimo įstaigų, prokurorų, teismų ar teisėjų paklausimų reikalavimų vykdymą. Šie fiziniai asmenys turi būti įstatymų nustatyta tvarka patikrinti ir gavę leidimus dirbti ar susipažinti su įslaptinta informacija.“
 
-\#### 2 straipsnis. 77 straipsnio 1, 3, 4, 5, 6 ir 7 dalių pakeitimas
+## 2 straipsnis. 77 straipsnio 1, 3, 4, 5, 6 ir 7 dalių pakeitimas
 
 Pakeisti 77 straipsnio 1, 3, 4, 5, 6, 7dalis ir visą straipsnį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 77 straipsnio 1, 3, 4, 5, 6, 7dalis ir visą straipsnį išdėstyti tai
 
 7. Elektroninių ryšių tinklu siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą elektroninių ryšių tinklais perduodamos informacijos kontrolę saugomos Vyriausybės įgaliotos institucijos – kriminalinės žvalgybos subjekto, žvalgybos institucijos – patalpose taip, kad komandų duomenų negalėtų pakeisti jas siuntusi Vyriausybės įgaliota institucija ar komandą gavęs ūkio subjektas. Šios dalies nuostatų įgyvendinimą kontroliuoja Lietuvos Respublikos generalinis prokuroras ar jo įgaliotas prokuroras.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9AC839EBCD86"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9AC839EBCD86.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo ir Vidaus tarnybos statuto pakeitimo įstatymas
@@ -26,21 +26,19 @@ NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO IR VIDAUS TARNYBOS STATUTO PAKEITIMO
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7 IR 19 SKYRIŲ PAKEITIMAS
+## PIRMASIS SKIRSNIS. NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7 IR 19 SKYRIŲ PAKEITIMAS
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 2000, Nr. [92-2849](https://www.e-tar.lt/portal/lt/legalAct/TAR.2D73CC0D50DD); 2003, Nr. [38-1702](https://www.e-tar.lt/portal/lt/legalAct/TAR.F27DF31046B6), Nr. [42-1922](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6DEB099CF05);
 
 2004, Nr. 39-1270)
 
-\#### 1 straipsnis. Priedėlio 7 skyriaus antrojo skirsnio 3 dalies pakeitimas
+### 1 straipsnis. Priedėlio 7 skyriaus antrojo skirsnio 3 dalies pakeitimas
 
 Pakeisti Priedėlio 7 skyriaus antrojo skirsnio 3 dalį ir ją išdėstyti taip:
 
 „Valstybės ginkluotąsias pajėgas taikos metu sudaro visos kariuomenės rūšys ir jos aktyvusis rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms pajėgoms taip pat priskiriama: Valstybės sienos apsaugos tarnyba, Viešojo saugumo tarnyba, koviniai Šaulių sąjungos būriai bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs ginkluotųjų pajėgų vadovybei.“
 
-\#### 2 straipsnis. Priedėlio 19 skyriaus 3, 7 ir 9 dalių pakeitimas
+### 2 straipsnis. Priedėlio 19 skyriaus 3, 7 ir 9 dalių pakeitimas
 
 1. Pakeisti Priedėlio 19 skyriaus 3 dalį ir ją išdėstyti taip:
 
@@ -54,13 +52,11 @@ Pakeisti Priedėlio 7 skyriaus antrojo skirsnio 3 dalį ir ją išdėstyti taip:
 
 „Policija, Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos formuojamos statutinės valstybės tarnybos pagrindais.“
 
-\### ANTRASIS SKIRSNIS
-
-VIDAUS TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMAS
+## ANTRASIS SKIRSNIS. VIDAUS TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2004, Nr. [28-873](https://www.e-tar.lt/portal/lt/legalAct/TAR.A58B3097D2D1), Nr. [98-3625](https://www.e-tar.lt/portal/lt/legalAct/TAR.5B4307CA085B), Nr. [163-5942](https://www.e-tar.lt/portal/lt/legalAct/TAR.89C2D7122178); 2006, Nr. [57-2022](https://www.e-tar.lt/portal/lt/legalAct/TAR.E7680D921312))
 
-\#### 1 straipsnis. 4 straipsnio 1 ir 2 punktų pakeitimas
+### 1 straipsnis. 4 straipsnio 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 4 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -70,7 +66,7 @@ VIDAUS TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMAS
 
 „2) kitos vidaus reikalų įstaigos (vidaus reikalų centrinėms įstaigoms pavaldžios teritorinės, specializuotos ir kt. įstaigos);“.
 
-\#### 2 straipsnis. 13 straipsnio 4 dalies pakeitimas
+### 2 straipsnis. 13 straipsnio 4 dalies pakeitimas
 
 13 straipsnio 4 dalyje po žodžių „Vadovybės apsaugos departamento“ įrašyti žodžius „Viešojo saugumo tarnybos“ ir šią dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DD624844A880"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DD624844A880.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos audito įstatymo 3, 28, 31, 34 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [59-1916](https://www.e-tar.lt/portal/lt/legalAct/TAR.9845F775C518); 2004, Nr. [63-2242](https://www.e-tar.lt/portal/lt/legalAct/TAR.822BFEE3AE7E); 2006, Nr. [17-604](https://www.e-tar.lt/portal/lt/legalAct/TAR.D8B05A7696A1))
 
-\#### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
 
 Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) įvertinti, ar įmonės metiniame pranešime (konsoliduotame metiniame pranešime) arba įmonės veiklos ataskaitoje (jeigu pagal teisės aktų reikalavimus jie rengiami) pateikti duomenys atitinka metinės finansinės atskaitomybės (metinės konsoliduotos finansinės atskaitomybės) duomenis.“
 
-\#### 2 straipsnis. 28 straipsnio 2 dalies 5 punkto pakeitimas ir straipsnio papildymas 6 dalimi
+## 2 straipsnis. 28 straipsnio 2 dalies 5 punkto pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 28 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -48,13 +48,13 @@ Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 
 2) per paskutinius vienerius metus auditoriui buvo paskirta Audito kokybės kontrolės komiteto ar Auditorių garbės teismo nuobauda.“
 
-\#### 3 straipsnis. 31 straipsnio 1 dalies 5 punkto pakeitimas
+## 3 straipsnis. 31 straipsnio 1 dalies 5 punkto pakeitimas
 
 Pakeisti 31 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) nuomonė, ar įmonės metiniame pranešime (konsoliduotame metiniame pranešime) pateikti duomenys atitinka metinės finansinės atskaitomybės (metinės konsoliduotos finansinės atskaitomybės) duomenis, – jeigu audituojama įmonė yra akcinė bendrovė, uždaroji akcinė bendrovė, tikroji ūkinė bendrija arba komanditinė ūkinė bendrija, kurioje visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, arba nuomonė, ar įmonės veiklos ataskaitoje pateikti duomenys atitinka metinės finansinės atskaitomybės duomenis, – jeigu audituojama valstybės arba savivaldybės įmonė.“
 
-\#### 4 straipsnis. 34 straipsnio 1 dalies papildymas 4 punktu
+## 4 straipsnis. 34 straipsnio 1 dalies papildymas 4 punktu
 
 Papildyti 34 straipsnio 1 dalį 4 punktu:
 

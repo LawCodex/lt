@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F709E3FB4FD1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F709E3FB4FD1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo 21 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [94-4246](https://www.e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9))
 
-\#### 1 straipsnis. 21 straipsnio 2 dalies 5 punkto pakeitimas
+## 1 straipsnis. 21 straipsnio 2 dalies 5 punkto pakeitimas
 
 21 straipsnio 2 dalies 5 punkte vietoj žodžių „metinėje veiklos ataskaitoje“ įrašyti žodžius „metiniame pranešime“ ir šį punktą išdėstyti taip:
 

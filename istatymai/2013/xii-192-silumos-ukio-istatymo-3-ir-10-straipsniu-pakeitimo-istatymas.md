@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C50F767C5826"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C50F767C5826.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 3 ir 10 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765); 2010, Nr. [1-6](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA), Nr. [65-3196](https://www.e-tar.lt/portal/lt/legalAct/TAR.5EB457219DBD); 2011, Nr. [123-5816](https://www.e-tar.lt/portal/lt/legalAct/TAR.3218F3F7DC5D))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šilumos gamyba grindžiama šilumos gamintojų konkurencija. Siekiant užtikrinti konkurenciją tarp šilumos gamintojų, Valstybinė kainų ir energetikos kontrolės komisija tvirtina Naudojimosi šilumos perdavimo tinklais sąlygų sąvadą, privalomą visiems asmenims, kurie verčiasi energetikos veikla šilumos energijos sektoriuje, įskaitant asmenis, ketinančius plėtoti šilumos energijos gamybą ir prisijungti prie šilumos perdavimo tinklų.“
 
-\#### 2 straipsnis. 10 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 10 straipsnio 1 dalies pakeitimas
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šilumos tiekėjai superka iš nepriklausomų šilumos gamintojų šilumą, pagamintą iš atsinaujinančiųjų energijos išteklių, deginant atliekas, iš iškastinio kuro, atitinkančią kokybės, tiekimo patikimumo ir aplinkosaugos reikalavimus. Valstybinė kainų ir energetikos kontrolės komisija nustato šilumos supirkimo iš nepriklausomų šilumos gamintojų tvarką ir sąlygas bei tvirtina standartines šilumos pirkimo–pardavimo sutarčių sąlygas, privalomas šilumos tiekėjams ir nepriklausomiems šilumos gamintojams, įskaitant asmenis, ketinančius plėtoti šilumos energijos gamybą ir prisijungti prie šilumos perdavimo tinklų. Valstybinė kainų ir energetikos kontrolės komisija, nustatydama šilumos supirkimo iš nepriklausomų šilumos gamintojų tvarką ir sąlygas, privalo atsižvelgti į veiksmingos konkurencijos šilumos gamyboje užtikrinimo, atliekinių ir atsinaujinančiųjų energijos išteklių naudojimo šilumai gaminti skatinimo principus bei šilumos vartotojų teisę gauti šilumą mažiausiomis sąnaudomis. Visais atvejais šiluma, superkama iš nepriklausomų šilumos gamintojų, negali būti brangesnė negu šilumos tiekėjo palyginamosios šilumos gamybos sąnaudos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1 straipsnis įsigalioja 2013 m. liepos 1 d.
 

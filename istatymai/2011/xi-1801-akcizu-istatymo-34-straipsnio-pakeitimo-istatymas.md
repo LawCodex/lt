@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7715FB54537B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7715FB54537B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo 34 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [98-3482](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F); 2010, Nr. [45-2174](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E421A12D76D))
 
-\#### 1 straipsnis. 34 straipsnio pakeitimas
+## 1 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 Cigaretės negali būti parduodamos už didesnę kainą negu didžiausia mažmeninė kaina, nurodyta ant pakuotės.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. kovo 1 d.
 

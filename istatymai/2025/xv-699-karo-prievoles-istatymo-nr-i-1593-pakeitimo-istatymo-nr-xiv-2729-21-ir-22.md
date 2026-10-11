@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bc85b090e55e11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BC85B090E55E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 pakeitimo įstatymo Nr. XIV-2729 21 ir 22 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ KARO PRIEVOLĖS ĮSTATYMO NR. I-1593 PAKEITIMO ĮSTATYMO NR. XIV-2729 21 IR 22 S
 
 Vilnius
 
-\#### 1 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 7 straipsnio pakeitimas
+## 1 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 7 straipsnio pakeitimas
 
 Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Karo prievolę administruojanti krašto apsaugos sistemos institucija, skirdama asmenis stebėti metinio karo prievolininkų sąrašo sudarymo procedūrų, turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, kurie įstatymais dėl jų veiklos pobūdžio yra įpareigoti kaupti atitinkamą informaciją ir ją pateikti valstybės institucijoms, registrų informacinių sistemų ar kitų valstybės informacinių sistemųjų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo atitinka šio straipsnio 2 dalyje nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai privalo karo prievolę administruojančios krašto apsaugos sistemos institucijos prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti.“
 
-\#### 2 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 11 straipsnio pakeitimas
+## 2 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 11 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 11 straipsnio 13 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alte
 
 „16. Alternatyviosios krašto apsaugos tarnybos atlikimo valstybės ir savivaldybių institucijose ir įstaigose ir viešosios naudos nevyriausybinėse organizacijose tvarką nustato Vyriausybė ar jos įgaliota institucija.Alternatyviosios tarnybos prievolininkams *mutatis mutandis* taikomi teisės aktai, reglamentuojantys darbuotojams taikomus saugos ir sveikatos reikalavimus, nelaimingų atsitikimų darbe ir profesinių ligų tyrimo tvarką. Valstybės ir savivaldybių institucijos ir įstaigos, viešosios naudos nevyriausybinės organizacijos, kuriose alternatyviosios tarnybos prievolininkai atlieka alternatyviąją krašto apsaugos tarnybą, vykdo darbdavio pareigas, nustatytas Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatyme, išskyrus privalomo sveikatos tikrinimo organizavimą.“
 
-\#### 3 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 12 straipsnio pakeitimas
+## 3 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 12 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alte
 
 „6. Jeigu alternatyviosios krašto apsaugos tarnybos metu numatytiems darbams atlikti privaloma pasitikrinti sveikatą, į alternatyviąją krašto apsaugos tarnybą skiriami alternatyviosios tarnybos prievolininkai, *mutatis mutandis* teisės aktų, reglamentuojančių privalomus darbuotojų sveikatos patikrinimus, nustatyta tvarka patikrinus jų sveikatą. Alternatyviosios krašto apsaugos tarnybos prievolininkams *mutatis mutandis* taikomi teisės aktai, reglamentuojantys įdarbinamiems asmenims ir darbuotojams taikomus sveikatos bei jos privalomo patikrinimo reikalavimus. Alternatyviosioskrašto apsaugos tarnybos prievolininkai siunčiami ir už jų sveikatos patikrinimui reikalingas sveikatos priežiūros paslaugas apmokama alternatyviąją krašto apsaugos tarnybą administruojančios institucijos nustatyta tvarka iš jai Krašto apsaugos ministerijos skirtų valstybės biudžeto asignavimų alternatyviosios tarnybos prievolininkų aprūpinimo išlaidoms finansuoti. Už alternatyviosios tarnybos prievolininkų sveikatos patikrinimui reikalingas sveikatos priežiūros paslaugas iš Krašto apsaugos ministerijos skirtų valstybės biudžeto asignavimų neapmokama, jei už šias paslaugas apmokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų teisės aktų, reglamentuojančių sveikatos priežiūros paslaugų apmokėjimą iš šio fondo, nustatytais atvejais.“
 
-\#### 4 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 25 straipsnio pakeitimas
+## 4 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 25 straipsnio pakeitimas
 
 1. Papildyti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 25 straipsnį nauju 6 punktu:
 
@@ -64,11 +64,10 @@ Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alte
 
 2. Buvusį 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 25 straipsnio 6 punktą laikyti 7 punktu.
 
-\#### 5 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 26 straipsnio pakeitimas
+## 5 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 26 straipsnio pakeitimas
 
-\| Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 26 straipsnį ir jį išdėstyti taip: |
-
-\| --- |
+| Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 26 straipsnį ir jį išdėstyti taip: |
+| --- |
 
 „**26****straipsnis.****Alternatyviąją krašto apsaugos tarnybą administruojančios institucijos kompetencija**
 
@@ -82,7 +81,7 @@ Alternatyviąją krašto apsaugos tarnybą administruojanti institucija:
 
 4) atlieka kitas teisės aktuose nustatytas su alternatyviosios krašto apsaugos tarnybos administravimu susijusias funkcijas.“
 
-\#### 6 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 29 straipsnio pakeitimas
+## 6 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 29 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 29 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -92,7 +91,7 @@ Alternatyviąją krašto apsaugos tarnybą administruojanti institucija:
 
 „2) kai karinei įskaitai tvarkyti būtinos informacijosnėra registrų informacinėse sistemose ar kitose valstybės informacinėse sistemose, ją neatlygintinai gauti iš fizinių ir juridinių asmenų, kitų organizacijų bei jų padalinių, kurie įstatymais dėl jų veiklos pobūdžio yra įpareigoti kaupti atitinkamą informaciją ir pateikti ją valstybės institucijoms;“.
 
-\#### 7 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 31 straipsnio pakeitimas
+## 7 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 31 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,13 +101,13 @@ Alternatyviąją krašto apsaugos tarnybą administruojanti institucija:
 
 „3. Karo prievolininkų registro informacinės sistemos ir duomenų valdytoja – Krašto apsaugos ministerija.“
 
-\#### 8 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 37 straipsnio pakeitimas
+## 8 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 37 straipsnio pakeitimas
 
 Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 37 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Šiame straipsnyje nurodytos išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka iš Krašto apsaugos ministerijai tam tikslui skirtų valstybės biudžeto asignavimų.“
 
-\#### 9 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 39 straipsnio pakeitimas
+## 9 straipsnis. 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 39 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo 39 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -118,7 +117,7 @@ Pakeisti 21 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės ir alte
 
 „3. Darbdaviams, įdarbinusiems privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui. Subsidija darbo užmokesčiui yra įdarbintam asmeniui darbdavio apskaičiuotų draudžiamųjų pajamų, nuo kurių Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotosir privalo būti įmokėtos valstybinio socialinio draudimo įmokos ir kurios įrašytos Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro informacinėje sistemoje, dydžio, bet negali viršyti 1,17 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems privalomąją pradinę karo tarnybą atlikusius ir pagrindinį karinį parengtumą įgijusius karo prievolininkus, subsidijosdarbo užmokesčiui mokėjimo trukmė nustatoma proporcingai šių karo prievolininkų ištarnautam laikui, vieną jų tarnybos mėnesį prilyginant 0,67 mėnesio subsidijos darbo užmokesčiui mokėjimo trukmei. Apskaičiuotos subsidijos darbo užmokesčiui mokėjimo trukmės reikšmė apvalinama iki sveikojo skaičiaus pagal aritmetinę skaičių apvalinimo taisyklę: jeigu po skaitmens, iki kurio apvalinama, skaitmuo yra 5 arba didesnis negu 5, prie skaitmens pridedamas vienetas, jeigu skaitmuo po skaitmens, iki kurio apvalinama, yra mažesnis negu 5, skaitmuo, iki kurio apvalinama, paliekamas nepakeistas. Ši subsidija mokama, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo privalomosios pradinės karo tarnybos atlikimo datos.“
 
-\#### 10 straipsnis. 22 straipsnio pakeitimas
+## 10 straipsnis. 22 straipsnio pakeitimas
 
 Papildyti 22 straipsnį 7^1 dalimi:
 

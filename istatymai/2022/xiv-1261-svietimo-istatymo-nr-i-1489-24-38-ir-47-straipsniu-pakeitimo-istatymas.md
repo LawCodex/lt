@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/61046100037411edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.610461000374.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pakeitimo įstatymas
@@ -82,5 +82,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1728, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00143
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pakeitimo įstatymo Nr. XIV-1261 3 straipsnio pakeitimo įstatymas
-
-part_98f19959be3847d69ec09dcea7e69c2c_end

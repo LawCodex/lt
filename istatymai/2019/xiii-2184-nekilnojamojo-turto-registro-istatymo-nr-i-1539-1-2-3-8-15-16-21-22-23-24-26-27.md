@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a0502490935911e9ae2e9d61b1f977b3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A05024909359.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas

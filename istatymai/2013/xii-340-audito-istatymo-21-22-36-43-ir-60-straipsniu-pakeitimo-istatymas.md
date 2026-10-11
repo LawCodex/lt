@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B8E261FB038C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B8E261FB038C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos audito įstatymo 21, 22, 36, 43 ir 60 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1999, Nr. [59-1916](https://www.e-tar.lt/portal/lt/legalAct/TAR.9845F775C518); 2008, Nr. [82-3233](https://www.e-tar.lt/portal/lt/legalAct/TAR.163F0311859D); 2011, Nr. [49-2371](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6494790AEDC), Nr. [121-5706](https://www.e-tar.lt/portal/lt/legalAct/TAR.DD20C808F813), Nr. [146-6837](https://www.e-tar.lt/portal/lt/legalAct/TAR.320E3175F550), Nr. [146-6851](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ED7F56B7F8A))
 
-\#### 1 straipsnis. 21 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 21 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 21 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) jei audito įmonė per pranešime apie ketinimą sustabdyti audito įmonės pažymėjimo galiojimą nustatytą terminą laiku nesumokėjo šio įstatymo 60 straipsnio 2 dalyje nustatytų audito įmonės atskaitymų;“.
 
-\#### 2 straipsnis. 22 straipsnio 1 dalies 5 punkto pakeitimas
+## 2 straipsnis. 22 straipsnio 1 dalies 5 punkto pakeitimas
 
 Pakeisti 22 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) jei ji per šio įstatymo 21 straipsnio 2 dalyje nustatytą terminą nepateikė Auditorių rūmams reikalingų ir (arba) teisingų duomenų, kaip nustatyta šio įstatymo 24 straipsnyje, ir informacijos, kaip nustatyta šio įstatymo 30 straipsnio 6 punkte, ar nesumokėjo atskaitymų, kaip nustatyta šio įstatymo 60 straipsnio 2 dalyje;“.
 
-\#### 3 straipsnis. 36 straipsnio 3 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios
+## 3 straipsnis. 36 straipsnio 3 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios
 
 1. Pakeisti 36 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -52,13 +52,13 @@ Pakeisti 22 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 2. 36 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 43 straipsnio 5 dalies pakeitimas
+## 4 straipsnis. 43 straipsnio 5 dalies pakeitimas
 
 Pakeisti 43 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Audito priežiūros komitetą sudaro 7 nariai. Daugiau kaip pusė šio komiteto narių privalo būti nepraktikuojantys asmenys. Audito priežiūros komiteto nariai privalo turėti ne mažesnę kaip 3 metų darbo patirtį audito, apskaitos, teisės ir (arba) finansų srityse. Į Audito priežiūros komitetą po vieną narį skiria Lietuvos bankas, Finansų ministerija, Lietuvos Respublikos teisingumo ministerija, Įstaiga, Auditorių rūmai ir kitos auditorius vienijančios profesinės organizacijos. Kitų auditorius vienijančių profesinių organizacijų skiriamas (skiriami) narys (nariai) atrenkamas (atrenkami) Įstaigos sprendimu ir turi būti atliekantis (atliekantys) auditus auditorius (auditoriai).“
 
-\#### 5 straipsnis. 60 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 5 straipsnis. 60 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 60 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 43 straipsnio 5 dalį ir ją išdėstyti taip:
 
 2. 60 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

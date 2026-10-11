@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.826298FFC881"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.826298FFC881.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [103-2302](https://www.e-tar.lt/portal/lt/legalAct/TAR.11F4B795287C); 1996, Nr. [33-811](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0DA1F4A47C5), Nr. [44-1067](https://www.e-tar.lt/portal/lt/legalAct/TAR.4463F132BFA8), Nr. [60-1410](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D8160DD444A), Nr. [67-1599](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5FA1C684921), Nr. [107-2438](https://www.e-tar.lt/portal/lt/legalAct/TAR.67130A0396FE))
 
-\#### 1 straipsnis. Asignavimų perskirstymas
+## 1 straipsnis. Asignavimų perskirstymas
 
 Perskirstyti paprastosioms išlaidoms skirtus asignavimus:
 
@@ -40,19 +40,19 @@ Mokslui ir studijoms.
 
 Perskirstyti Lietuvos invalidų reikalų tarybai prie Lietuvos Respublikos Vyriausybės skirtų asignavimų paprastąsias ir nepaprastąsias išlaidas.
 
-\#### 2 straipsnis. Asignavimų sumažinimas
+## 2 straipsnis. Asignavimų sumažinimas
 
 Sumažinti valstybės biudžeto asignavimus Draudimo reikalų tarybai prie Finansų ministerijos 176 tūkst. litų.
 
-\#### 3 straipsnis. Asignavimų padidinimas
+## 3 straipsnis. Asignavimų padidinimas
 
 Padidinti valstybės biudžeto asignavimus Vertybinių popierių komisijai prie Finansų ministerijos 167 tūkst. litų.
 
-\#### 4 straipsnis. Asignavimų skyrimas
+## 4 straipsnis. Asignavimų skyrimas
 
 Skirti valstybės biudžeto asignavimus žurnalistų etikos inspektoriui – 9 tūkst. litų.
 
-\#### 5 straipsnis. Įstatymo 1 priedėlio dalies „Išlaidos“ pakeitimas
+## 5 straipsnis. Įstatymo 1 priedėlio dalies „Išlaidos“ pakeitimas
 
 Pakeisti 1 priedėlio dalyje „Išlaidos“:
 
@@ -90,7 +90,7 @@ Pakeisti 1 priedėlio dalyje „Išlaidos“:
 
 „IŠ VISO 5588099 4974183 1318250 613916“.
 
-\#### 6 straipsnis. Įstatymo 2 priedėlio pakeitimas
+## 6 straipsnis. Įstatymo 2 priedėlio pakeitimas
 
 Pakeisti 2 priedėlį – eilutėje „Lietuvos invalidų reikalų taryba prie Lietuvos Respublikos Vyriausybės“ vietoj skaičiaus „30500“ įrašyti skaičių „30000“, vietoj skaičiaus „26000“ įrašyti skaičių „25000“, vietoj skaičiaus „4500“ įrašyti skaičių „5000“ ir šią eilutę išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5938F8EBC339"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5938F8EBC339.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Europos konvencijos dėl sprendimų, susijusių su vaikų globa, pripažinimo ir vykdymo bei vaikų globos atnaujinimo ratifikavimo
@@ -26,15 +26,15 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 15 d. dekretą Nr. 1939, ratifikuoja su išlyga ir pareiškimu Europos konvenciją dėl sprendimų, susijusių su vaikų globa, pripažinimo ir vykdymo bei vaikų globos atnaujinimo, sudarytą 1980 m. gegužės 20 d. Liuksemburge.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlyga
+## 2 straipsnis. Lietuvos Respublikos išlyga
 
 Vadovaudamasis Konvencijos 27 straipsnio 1 dalimi ir 17 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad tais atvejais, kurie numatyti Konvencijos 8 ir 9 straipsniuose arba viename iš jų, Lietuvos Respublika pasilieka teisę atsisakyti pripažinti ir vykdyti sprendimus, susijusius su globa, remiantis Konvencijos 10 straipsnyje numatytais pagrindais.
 
-\#### 3 straipsnis. Lietuvos Respublikos pareiškimas
+## 3 straipsnis. Lietuvos Respublikos pareiškimas
 
 Vadovaudamasis Konvencijos 2 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Teisingumo ministerija paskiriama centrine įstaiga Konvencijoje numatytoms funkcijoms atlikti.
 

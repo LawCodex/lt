@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/88bcfd52d0f411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88BCFD52D0F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 1, 2, 15, 24, 26, 30 ir 32 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ ASMENS SU NEGALIA TEISIŲ APSAUGOS PAGRINDŲ ĮSTATYMO NR. I-2044 1, 2, 15, 24, 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio įstatymo 19 ir 20straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį nauja 19 dalimi:
 
@@ -44,7 +44,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos lygių galimybių įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos užimtumo įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -98,13 +98,13 @@ j) šuns pagalbininko parengimo išlaidų kompensacijos poreikio;
 
 3. Agentūros priimti sprendimai, nurodyti šio straipsnio 1 dalies 6 punkte, veiksmų (neveikimo) teisėtumas, taip pat Agentūros vilkinimas atlikti jos kompetencijai priskirtus veiksmus skundžiami privaloma ikiteismine tvarka Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. 24 straipsnio pakeitimas
+## 4 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) šuns pagalbininkopagalbos;“.
 
-\#### 5 straipsnis. 26 straipsnio pakeitimas
+## 5 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 3) perduoda techninės pagalbos priemones savivaldybių administracijoms, kurios šias priemones perduoda nuosavybėn ir (ar) panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis šio straipsnio 2 dalyje nurodytiems asmenims.“
 
-\#### 6 straipsnis. 30 straipsnio pakeitimas
+## 6 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -174,13 +174,13 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 9. Šuns pagalbininko parengimo išlaidų kompensacijos poreikio nustatymo kriterijus, tvarką ir reikalavimus šuns pagalbininko rengėjui nustato socialinės apsaugos ir darbo ministras.“
 
-\#### 7 straipsnis. 32 straipsnio pakeitimas
+## 7 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) Techninės pagalbos priemonių centrui dėl asmens su negalia aprūpinimo techninės pagalbos priemonėmis, ir (ar)“.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 8 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

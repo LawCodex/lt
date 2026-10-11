@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/617acea055c211f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.617ACEA055C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 57, 58-2 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO NR. VIII-1212 2, 6, 57, 582 ST
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 2 dalį.
 
@@ -42,7 +42,7 @@ Vilnius
 
 „27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -60,25 +60,25 @@ Vilnius
 
 „5. Šio straipsnio 4 dalyje pensijų fondai suprantami kaip pensijų fondai, Pensijų kaupimo įstatyme nustatyti tiksliniai pensijų fondų dalyvių grupių pensijų fondai ir pensijų turto išsaugojimo pensijų fondai.“
 
-\#### 3 straipsnis. 57 straipsnio pakeitimas
+## 3 straipsnis. 57 straipsnio pakeitimas
 
 Pakeisti 57 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) atlieka Reglamente [(ES) 2019/1238](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R1238&locale=lt), Reglamente [(ES) 2019/2088](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R2088&locale=lt) ir Reglamente [(ES) 2020/852](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32020R0852&locale=lt) kompetentingai institucijai nustatytas funkcijas, o kai taikomi šio įstatymo 6 straipsnio 4 dalyje nustatyti reikalavimai, *mutatis mutandis* atlieka Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) priežiūros institucijai nustatytas funkcijas;“.
 
-\#### 4 straipsnis. 582 straipsnio pakeitimas
+## 4 straipsnis. 582 straipsnio pakeitimas
 
 Pakeisti 58^2 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) pažeidžiami Reglamente [(ES) Nr. 1286/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R1286&locale=lt), Reglamente [(ES) 2019/1238](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R1238&locale=lt), Reglamente [(ES) 2019/2088](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R2088&locale=lt), Reglamento [(ES) 2020/852](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32020R0852&locale=lt) 5, 6 ir 7 straipsniuose ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 5 straipsnis. Įstatymo priedo pakeitimas
+## 5 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 5 punktu:
 
 „5. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai [(EB) Nr. 1060/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R1060&locale=lt), [(ES) Nr. 648/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0648&locale=lt), [(ES) Nr. 600/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0600&locale=lt), [(ES) Nr. 909/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0909&locale=lt) ir [(ES) 2016/1011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R1011&locale=lt).“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. gegužės 1 d.
 

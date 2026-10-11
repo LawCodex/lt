@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.348FD207192A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.348FD207192A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 2, 7, 8, 9, 12, 18, 20, 32, 34, 37, 45, 58 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir papildymo bei 36 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05))
 
-\#### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Santykiuose su kitais asmenimis naudojamuose bendrovės rašytiniuose dokumentuose, taip pat dokumentuose, pasirašytuose Elektroninio parašo įstatymo nustatyta tvarka ir perduodamuose elektroninių ryšių priemonėmis, ir bendrovės interneto svetainėje, jeigu bendrovė ją turi, turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija.“
 
-\#### 2 straipsnis. 7 straipsnio 2 dalies 9 punkto pakeitimas
+## 2 straipsnis. 7 straipsnio 2 dalies 9 punkto pakeitimas
 
 7 straipsnio 2 dalies 9 punkte prieš žodį „nepiniginis“ įrašyti žodžius „kiekvieno steigėjo“, išbraukti žodžius „ir jo vertė“ ir šį punktą išdėstyti taip:
 
 „9) kiekvieno steigėjo nepiniginis įnašas, jeigu akcijos iš dalies apmokamos nepiniginiu įnašu;“.
 
-\#### 3 straipsnis. 8 straipsnio 8 ir 9 dalių pakeitimas
+## 3 straipsnis. 8 straipsnio 8 ir 9 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „9. Šio straipsnio 8 dalyje nurodyta turto vertinimo ataskaita turi būti pateikta steigėjams.“
 
-\#### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalies pirmame sakinyje po žodžio „įmokėti“ įrašyti žodžius „ir yra įvertinti nepiniginiai įnašai, kuriais iš dalies apmokamos akcijos“ ir šią dalį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 6) kompensuojamos steigimo išlaidos, atlyginimas už steigimą.“
 
-\#### 5 straipsnis. 12 straipsnio papildymas
+## 5 straipsnis. 12 straipsnio papildymas
 
 1. Papildyti 12 straipsnio 1 dalį 8 punktu:
 
@@ -88,25 +88,25 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „8. Bendrovė juridinių asmenų registro tvarkytojui gali savanoriškai teikti bendrovės įstatų ir kitų įstatymų numatytų dokumentų, taip pat juridinių asmenų registro duomenų vertimus į vieną ar kelias oficialias Europos Sąjungos valstybių narių kalbas. Pateikti vertimai turi būti viešai skelbiami juridinių asmenų registro nuostatų nustatyta tvarka. Jeigu juridinių asmenų registro tvarkytojui pateikti bendrovės duomenys ir dokumentai neatitinka jų vertimų, turėdama santykių su trečiaisiais asmenimis, bendrovė negali remtis šiais vertimais, tačiau tretieji asmenys gali jais remtis, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys yra susipažinę su juridinių asmenų registrui pateiktais bendrovės duomenimis ir dokumentais, kurių vertimais jie remiasi.“
 
-\#### 6 straipsnis. 18 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 18 straipsnio 1 dalies pakeitimas
 
 18 straipsnio 1 dalyje vietoj žodžių „veiklos ataskaitų“ įrašyti žodžius „metinių pranešimų“ ir šią dalį išdėstyti taip:
 
 „1. Akcininkui raštu pareikalavus, bendrovė ne vėliau kaip per 7 dienas nuo reikalavimo gavimo dienos privalo sudaryti akcininkui galimybę susipažinti ir (ar) pateikti kopijas šių dokumentų: bendrovės įstatų, metinės finansinės atskaitomybės ataskaitų, bendrovės metinių pranešimų, auditoriaus išvadų bei audito ataskaitų, visuotinių akcininkų susirinkimų protokolų ar kitų dokumentų, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, stebėtojų tarybos pasiūlymų ar atsiliepimų visuotiniams akcininkų susirinkimams, akcininkų sąrašų, stebėtojų tarybos ir valdybos narių sąrašų, kitų bendrovės dokumentų, kurie turi būti vieši pagal įstatymus, taip pat stebėtojų tarybos bei valdybos posėdžių protokolų ar kitų dokumentų, kuriais įforminti šių bendrovės organų sprendimai, jei šiuose dokumentuose nėra komercinės (gamybinės) paslapties. Akcininkas arba akcininkų grupė, turintys ar valdantys daugiau kaip 1/2 akcijų ir pateikę bendrovei jos nustatytos formos rašytinį įsipareigojimą neatskleisti komercinės (gamybinės) paslapties, turi teisę susipažinti su visais bendrovės dokumentais. Atsisakymą pateikti dokumentus bendrovė turi įforminti raštu, jeigu akcininkas to pareikalauja. Ginčus dėl akcininko teisės į informaciją sprendžia teismas.“
 
-\#### 7 straipsnis. 20 straipsnio 1 dalies 8 punkto pakeitimas
+## 7 straipsnis. 20 straipsnio 1 dalies 8 punkto pakeitimas
 
 20 straipsnio 1 dalies 8 punkte išbraukti žodžius „ir bendrovės veiklos ataskaitą“ ir šį punktą išdėstyti taip:
 
 „8) tvirtinti metinę finansinę atskaitomybę;“.
 
-\#### 8 straipsnis. 32 straipsnio 1 dalies 3 punkto pakeitimas
+## 8 straipsnis. 32 straipsnio 1 dalies 3 punkto pakeitimas
 
 32 straipsnio 1 dalies 3 punkte vietoj žodžių „veiklos ataskaitos“ įrašyti žodžius „metinio pranešimo“ ir šį punktą išdėstyti taip:
 
 „3) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl bendrovės veiklos strategijos, metinės finansinės atskaitomybės, pelno paskirstymo projekto ir bendrovės metinio pranešimo, taip pat valdybos bei bendrovės vadovo veiklos;“.
 
-\#### 9 straipsnis. 34 straipsnio 1 ir 8 dalių pakeitimas ir papildymas
+## 9 straipsnis. 34 straipsnio 1 ir 8 dalių pakeitimas ir papildymas
 
 1. Papildyti 34 straipsnio 1 dalį nauju 2 punktu:
 
@@ -118,17 +118,17 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „8. Valdyba analizuoja, vertina bendrovės metinės finansinės atskaitomybės projektą bei pelno (nuostolių) paskirstymo projektą ir kartu su bendrovės metiniu pranešimu teikia juos stebėtojų tarybai bei visuotiniam akcininkų susirinkimui. Valdyba nustato bendrovėje taikomus materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos skaičiavimo metodus.“
 
-\#### 10 straipsnis. 36 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 36 straipsnio pripažinimas netekusiu galios
 
 36 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 37 straipsnio 10 dalies 2 punkto pakeitimas
+## 11 straipsnis. 37 straipsnio 10 dalies 2 punkto pakeitimas
 
 37 straipsnio 10 dalies 2 punkte po žodžio „sudarymą“ įrašyti žodžius „ir bendrovės metinio pranešimo parengimą“ ir šį punktą išdėstyti taip:
 
 „2) metinės finansinės atskaitomybės sudarymą ir bendrovės metinio pranešimo parengimą;“.
 
-\#### 12 straipsnis. 45 straipsnio 5 ir 6 dalių pakeitimas
+## 12 straipsnis. 45 straipsnio 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 45 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Visuotinio akcininkų susirinkimo sprendime dėl įstatinio kapitalo padidinimo, be kita ko, turi būti nurodytas kiekvienas asmuo, kuris apmoka akcijas nepiniginiu įnašu (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė), akcijų, kurios apmokamos nepiniginiu įnašu, nominali vertė ir emisijos kaina.“
 
-\#### 13 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
+## 13 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
 
 Septintojo skirsnio pavadinime išbraukti žodį „auditas“ ir pavadinimą išdėstyti taip:
 
@@ -146,7 +146,7 @@ Septintojo skirsnio pavadinime išbraukti žodį „auditas“ ir pavadinimą i�
 
 BENDROVĖS FINANSINĖ ATSKAITOMYBĖ IR PELNO PASKIRSTYMAS“.
 
-\#### 14 straipsnis. 58 straipsnio pakeitimas
+## 14 straipsnis. 58 straipsnio pakeitimas
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
 4. Jeigu pagal įstatymus bendrovė privalo sudaryti metinę konsoliduotą finansinę atskaitomybę ir konsoliduotą metinį pranešimą, tokiai finansinei atskaitomybei ir tokiam metiniam pranešimui mutatis mutandis taikomos šio Įstatymo nuostatos dėl bendrovės metinės finansinės atskaitomybės ir bendrovės metinio pranešimo.“
 
-\#### 15 straipsnis. Įstatymo priedo pakeitimas
+## 15 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
 8. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/58/EB, iš dalies keičianti Tarybos direktyvą 68/151/EEB dėl tam tikrų bendrovių tipų informacijos atskleidimo reikalavimų (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 304).“
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas
+## 16 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 ir 5 straipsniai įsigalioja nuo 2007 m. sausio 1 d.
 

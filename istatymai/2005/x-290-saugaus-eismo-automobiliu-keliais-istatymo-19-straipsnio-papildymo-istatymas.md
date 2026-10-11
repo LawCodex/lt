@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5A602A4DCB61"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5A602A4DCB61.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 19 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [92-2883](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB))
 
-\#### 1 straipsnis. 19 straipsnio papildymas
+## 1 straipsnis. 19 straipsnio papildymas
 
 Papildyti 19 straipsnį 2 ir 3 dalimis ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Papildyti 19 straipsnį 2 ir 3 dalimis ir jį išdėstyti taip:
 
 3. Lietuvos Respublikos kelių transporto priemonių registrą tvarko Vyriausybės įgaliotos institucijos. Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų registrą tvarko Vyriausybės įgaliotos institucijos ir savivaldybės.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo nuostatos, susijusios su Lietuvos Respublikos kelių transporto priemonių registru, įsigalioja nuo 2005 m. spalio 1 d.
 

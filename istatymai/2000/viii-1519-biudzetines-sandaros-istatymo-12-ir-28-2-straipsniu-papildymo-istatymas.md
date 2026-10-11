@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1F402B552E03"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1F402B552E03.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžetinės sandaros įstatymo 12 ir 28(2) straipsnių papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 1996, Nr.57-1344; 1997, Nr.69-1744 )
 
-\#### 1 straipsnis. 12 straipsnio 7 punkto papildymas
+## 1 straipsnis. 12 straipsnio 7 punkto papildymas
 
 12 straipsnio 7 punkte po žodžio „nuosavybės“ įrašyti žodžius „(Lietuvos banko likutinis pelnas, mokestis už valstybinius gamtos išteklius, palūkanos už valstybės kapitalo naudojimą, gautos palūkanos už paskolas ūkio subjektams, dividendai už valstybei nuosavybės teise priklausančias akcijas)“ ir šį punktą išdėstyti taip:
 
 „7) pajamos iš valstybės nuosavybės (Lietuvos banko likutinis pelnas, mokestis už valstybinius gamtos išteklius, palūkanos už valstybės kapitalo naudojimą, gautos palūkanos už paskolas ūkio subjektams, dividendai už valstybei nuosavybės teise priklausančias akcijas);“.
 
-\#### 2 straipsnis. 282 straipsnio 1 punkto papildymas
+## 2 straipsnis. 282 straipsnio 1 punkto papildymas
 
 28^2 straipsnio 1 punkte po žodžio „(nuosavybės)“ įrašyti žodžius „(palūkanos už savivaldybės kapitalo naudojimą, dividendai už savivaldybei nuosavybės teise priklausančias akcijas)“ ir šį punktą išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0F1CCBEFF3F2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0F1CCBEFF3F2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 4, 25, 27, 28, 30, 31, 35 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 30-1, 30-2 straipsniais įstatymo 11 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2012, Nr. [50-2445](https://www.e-tar.lt/portal/lt/legalAct/TAR.ACA76B0970E8))
 
-\#### 1 straipsnis. 11 straipsnio pakeitimas
+## 1 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 

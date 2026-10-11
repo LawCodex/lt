@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4ee0a3b0126111e4adf3c8c5d7681e73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EE0A3B01261.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 16 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ CIVILINIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO NR. VII
 
 Vilnius
 
-\#### 1 straipsnis. 16 straipsnio pakeitimas
+## 1 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 3. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 1. Juridinių asmenų, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienų metų ieškinio senaties terminą, skaičiuojamą nuo šio įstatymo įsigaliojimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui.
 
@@ -46,7 +46,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 3. Juridiniai asmenys, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, iš juridinių asmenų registro išregistruojami per vienus metus nuo šio straipsnio 1 dalyje nurodyto ieškinio senaties termino pabaigos.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 

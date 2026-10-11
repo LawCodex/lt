@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B139F2EA597E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B139F2EA597E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti įstatymo įgyvendinimo įstatymo papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [116-5189](https://www.e-tar.lt/portal/lt/legalAct/TAR.DF841CFAEF29))
 
-\#### 1 straipsnis. Įstatymo papildymas 21 straipsniu
+## 1 straipsnis. Įstatymo papildymas 21 straipsniu
 
 Papildyti Įstatymą 2^1 straipsniu:
 

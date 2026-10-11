@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/06a954f02ad611eabe008ea93139d588"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.06A954F02AD6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo našlių ir našlaičių, maitintojo netekimo, ištarnauto laiko, valstybinių pensijų, kompensacijų už ypatingas darbo sąlygas, rentų, kompensacinių išmokų, šalpos, slaugos ir priežiūros (pagalbos) išlaidų tikslinių kompensacijų dalinio kompensavimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO NAŠLIŲ IR NAŠLAIČIŲ, MAITINTOJO NETEKIMO, 
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šio įstatymo paskirtis – nustatyti valstybinių socialinio draudimo našlių pensijų (toliau – našlių pensijos), sumažintų dėl Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo (toliau – Laikinasis įstatymas) 4 straipsnio nuostatų taikymo, valstybinių socialinio draudimo našlaičių pensijų (toliau – našlaičių pensijos), sumažintų dėl Laikinojo įstatymo 6 ir 7 straipsnių nuostatų taikymo, maitintojo netekimo pensijų, sumažintų dėl Laikinojo įstatymo 6 ir 7 straipsnių nuostatų taikymo, ištarnauto laiko pensijų, sumažintų dėl Laikinojo įstatymo 6, 7 ir 8 straipsnių nuostatų taikymo, kompensacijų už ypatingas darbo sąlygas, sumažintų dėl Laikinojo įstatymo 8 straipsnio nuostatų taikymo, valstybinių pensijų, sumažintų dėl Laikinojo įstatymo 4 straipsnio nuostatų taikymo, kompensacinių išmokų teatrų ir koncertinių įstaigų kūrybiniams darbuotojams (toliau – kompensacinės išmokos), sumažintų dėl Laikinojo įstatymo 5 straipsnio nuostatų taikymo, šalpos kompensacijų, sumažintų dėl Laikinojo įstatymo 4 ir 5 straipsnių nuostatų taikymo, slaugos ir priežiūros (pagalbos) išlaidų tikslinių kompensacijų (toliau – tikslinės kompensacijos), sumažintų dėl Laikinojo įstatymo 4 straipsnio nuostatų taikymo, Lietuvos Respublikos Prezidento valstybinės rentos (toliau – Prezidento renta), sumažintos dėl Laikinojo įstatymo 4 straipsnio nuostatų taikymo, valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos (toliau kartu – signataro renta), sumažintų dėl Laikinojo įstatymo 4 straipsnio nuostatų taikymo, rentų buvusiems sportininkams (toliau – sportininkų rentos), sumažintų dėl Laikinojo įstatymo 4 ir 5 straipsnių nuostatų taikymo, kompensavimo dydį, tvarką ir terminus.
 
@@ -38,13 +38,13 @@ Vilnius
 
 3. Asmenys, kuriems paveldėjimo tvarka pereina (perėjo) mirusio asmens turtas, turi teisę gauti šio įstatymo 2 straipsnio 1 dalyje nurodytą kompensuojamąją sumą už asmenį, mirusį įsigaliojus šiam įstatymui, kuris būtų turėjęs teisę gauti kompensuojamąją sumą pagal šį įstatymą, jeigu ji dar nebuvo išmokėta.
 
-\#### 2 straipsnis. Kompensavimo dydžiai ir terminai
+## 2 straipsnis. Kompensavimo dydžiai ir terminai
 
 1. Šio įstatymo 1 straipsnio 2 dalies 1 punkte nurodytų išmokų kompensuojamoji suma yra lygi asmeniui paskirtos atitinkamos išmokos ir šios išmokos, perskaičiuotos pagal Laikinojo įstatymo nuostatas, skirtumo 10 procentų, valstybinių pensijų kompensuojamoji suma yra lygi asmeniui paskirtos ir Laikinojo įstatymo galiojimo laikotarpiu apribotos valstybinės pensijos (pareigūnų ir karių – kartu su mokėtu priedu už tarnybą) pagal Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalį ir valstybinės pensijos, perskaičiuotos pagal Laikinojo įstatymo 4 straipsnio nuostatas, skirtumo 10 procentų.
 
 2. Kompensuojamoji suma, nurodyta šio straipsnio 1 dalyje (toliau – kompensuojamoji suma), išmokama 2020 metų rugpjūčio mėnesį, išskyrus atvejus, nustatytus šio įstatymo 3 straipsnio 4, 5 ir 6 dalyse.
 
-\#### 3 straipsnis. Kompensavimo tvarka
+## 3 straipsnis. Kompensavimo tvarka
 
 1. Našlių pensijos, našlaičių pensijos, maitintojo netekimo pensijos, ištarnauto laiko pensijos, kompensacijos už ypatingas darbo sąlygas, nukentėjusiųjų asmenų valstybinės pensijos, nukentėjusiųjų asmenų valstybinės našlių ir našlaičių pensijos, pirmojo ir antrojo laipsnių valstybinės pensijos, valstybinių našlių ir našlaičių pensijų, mokslininkų valstybinės pensijos kompensuojamąsias sumas, vadovaudamosi Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro duomenimis, apskaičiuoja ir šio įstatymo 2 straipsnio 2 dalyje nustatytu terminu išmoka Valstybinio socialinio draudimo fondo administravimo įstaigos, nereikalaudamos asmenų, kurie pagal šį įstatymą turi teisę gauti kompensuojamąsias sumas, prašymų, išskyrus šio straipsnio 4 dalyje nurodytus atvejus.
 
@@ -60,21 +60,21 @@ Vilnius
 
 7. Kompensuojamosios sumos pristatomos išmokų, nurodytų šio įstatymo 1 straipsnio 2 dalyje, mokėjimą administruojančių įstaigų nustatyta tvarka, taikoma pristatant šias išmokas.
 
-\#### 4 straipsnis. Kompensuojamosios sumos ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
+## 4 straipsnis. Kompensuojamosios sumos ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
 
 Pagal šį įstatymą išmokama kompensuojamoji suma neturi įtakos kitoms asmeniui pagal įstatymus priklausančioms kas mėnesį mokamoms išmokoms, taip pat skiriamai piniginei socialinei paramai, apmokėjimui už socialines paslaugas.
 
-\#### 5 straipsnis. Valstybinio socialinio draudimo fondo administravimo įstaigų, valstybinių pensijų, kompensacinių išmokų, šalpos kompensacijų, tikslinių kompensacijų, Prezidento rentos, signataro rentos, sportininkų rentų skyrimą ir (ar) mokėjimą administruojančių (administravusių) įstaigų sprendimų apskundimas
+## 5 straipsnis. Valstybinio socialinio draudimo fondo administravimo įstaigų, valstybinių pensijų, kompensacinių išmokų, šalpos kompensacijų, tikslinių kompensacijų, Prezidento rentos, signataro rentos, sportininkų rentų skyrimą ir (ar) mokėjimą administruojančių (administravusių) įstaigų sprendimų apskundimas
 
 Valstybinio socialinio draudimo fondo administravimo įstaigų ir valstybinių pensijų, kompensacinių išmokų, šalpos kompensacijų, tikslinių kompensacijų, Prezidento rentos, signataro rentos, sportininkų rentų skyrimą ir (ar) mokėjimą administruojančių (administravusių) įstaigų sprendimai dėl kompensuojamosios sumos apskaičiavimo ir mokėjimo per vieną mėnesį nuo tos dienos, kurią asmuo sužinojo ar turėjo sužinoti apie skundžiamo sprendimo priėmimą, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 6 straipsnis. Kompensavimo finansavimo šaltinis
+## 6 straipsnis. Kompensavimo finansavimo šaltinis
 
 1. Našlių, našlaičių pensijos, maitintojo netekimo pensijos, ištarnauto laiko pensijos, kompensacijos už ypatingas darbo sąlygas kompensuojamos iš Valstybinio socialinio draudimo fondo biudžetui skiriamų valstybės biudžeto tikslinių asignavimų.
 
 2. Valstybinės pensijos, kompensacinės išmokos, šalpos kompensacijos, tikslinės kompensacijos, Prezidento renta, signataro rentos, sportininkų rentos kompensuojamos iš valstybės biudžeto lėšų.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2020 m. sausio 1 d.
 

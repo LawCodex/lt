@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0BD3A2160A8C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 1995, Nr. [18-406](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E09E2EF3BB1); 1996, Nr. [68-1640](https://www.e-tar.lt/portal/lt/legalAct/TAR.615C5534119F); 1998, Nr. [62-1777](https://www.e-tar.lt/portal/lt/legalAct/TAR.892535EB668D), Nr. [98-2710](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D9B5B8570F2); 2000, Nr. [36-986](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0A68440BD5F), Nr. [41-1167](https://www.e-tar.lt/portal/lt/legalAct/TAR.46DFDD0E4793), Nr. [64-1923](https://www.e-tar.lt/portal/lt/legalAct/TAR.E45D780C0808), Nr. [92-2860](https://www.e-tar.lt/portal/lt/legalAct/TAR.6B0ABE9DF9DA), Nr. [111-3579](https://www.e-tar.lt/portal/lt/legalAct/TAR.94E38D9AC3BF); 2002, Nr. [38-1361](https://www.e-tar.lt/portal/lt/legalAct/TAR.58FC2CBDEA3A); 2003, Nr. [36-1545](https://www.e-tar.lt/portal/lt/legalAct/TAR.205724212DC4); 2004, Nr. [50-1635](https://www.e-tar.lt/portal/lt/legalAct/TAR.0D0231DBB189), Nr. [88-3210](https://www.e-tar.lt/portal/lt/legalAct/TAR.945141F312E7), Nr. [117-4372](https://www.e-tar.lt/portal/lt/legalAct/TAR.0079FBD960D1), Nr. [188-6999](https://www.e-tar.lt/portal/lt/legalAct/TAR.864B8635B0B6))
 
-\#### 1 straipsnis. Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, v
 
 LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-\#### 1 straipsnis. Teisė gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinę pensiją
+## 1 straipsnis. Teisė gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinę pensiją
 
 1. Teisę gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinę pensiją (toliau – pareigūnų ir karių valstybinė pensija) turi šie Lietuvos Respublikos piliečiai:
 
@@ -58,11 +58,11 @@ LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS
 
 3. Teisę gauti pareigūnų ir karių netekto darbingumo pensijas turi privalomosios karo tarnybos kariai bei kariai savanoriai, tapę nedarbingais ar iš dalies darbingais tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais. Šiems asmenims žuvus tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais, teisę gauti pareigūnų ir karių valstybines našlių ir našlaičių pensijas turi jų sutuoktiniai ir vaikai.
 
-\#### 2 straipsnis. Pareigūnų ir karių valstybinių pensijų mokėjimo šaltinis
+## 2 straipsnis. Pareigūnų ir karių valstybinių pensijų mokėjimo šaltinis
 
 Pareigūnų ir karių valstybinės pensijos ir šiame įstatyme numatyti jų priedai mokami iš Lietuvos Respublikos valstybės biudžeto.
 
-\#### 3 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimo sąlygos
+## 3 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimo sąlygos
 
 1. Pareigūnų ir karių valstybinė pensija skiriama ir išmokama išėjusiems iš tarnybos šio įstatymo 1 straipsnyje nurodytiems pareigūnams ir kariams:
 
@@ -78,7 +78,7 @@ Pareigūnų ir karių valstybinės pensijos ir šiame įstatyme numatyti jų pri
 
 2. Pareigūnams ir kariams, dėl pačių kaltės (jei ta kaltė neužtraukia baudžiamosios atsakomybės) pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, - senatvės pensijos amžių).
 
-\#### 4 straipsnis. Pareigūnų ir karių valstybinių pensijų rūšys
+## 4 straipsnis. Pareigūnų ir karių valstybinių pensijų rūšys
 
 Pagal šį įstatymą skiriamos šios pareigūnų ir karių valstybinės pensijos:
 
@@ -88,13 +88,13 @@ Pagal šį įstatymą skiriamos šios pareigūnų ir karių valstybinės pensijo
 
 3) našlių ir našlaičių.
 
-\#### 5 straipsnis. Teisė pasirinkti pensijos rūšį
+## 5 straipsnis. Teisė pasirinkti pensijos rūšį
 
 1. Pareigūnai ir kariai, kurie įgyja teisę į pareigūnų ir karių valstybinę pensiją, nepraranda teisės į kitas valstybines pensijas, jei įstatymai nenumato kitaip.
 
 2. Pareigūnams ir kariams, tuo pat metu įgijusiems teisę į pareigūnų ir karių valstybinę pensiją už tarnybą ir pareigūnų ir karių valstybinę netekto darbingumo pensiją, skiriama didesnioji arba jų pasirinkimu viena iš šių pensijų. Pareigūnų ir karių valstybinė našlių ar našlaičių pensija mokama kartu su pensija už tarnybą ar netekto darbingumo pensija.
 
-\#### 6 straipsnis. Pareigūnų ir karių tarnybos laikas pensijai skirti
+## 6 straipsnis. Pareigūnų ir karių tarnybos laikas pensijai skirti
 
 Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnams ir kariams į tarnybos laiką pensijai skirti įskaitomas:
 
@@ -104,7 +104,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 3) nuteisto pareigūno ar kario bausmės atlikimo laikas, jeigu šis pareigūnas ar karys vėliau reabilituotas.
 
-\#### 7 straipsnis. Pareigūnų ir karių valstybinės pensijos už tarnybą dydis
+## 7 straipsnis. Pareigūnų ir karių valstybinės pensijos už tarnybą dydis
 
 1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal paskutinio mėnesio, kurį pareigūnas ar karys nustoja eiti pareigas, jam nustatytą darbo užmokestį. Į šį darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.
 
@@ -112,13 +112,13 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 3. Atleistiems dėl sveikatos (3 straipsnio 1 dalies 4 punktas) pareigūnams ir kariams, ištarnavusiems nuo 5 iki 10 metų, už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama po 2 procentus šio straipsnio 1 dalyje nurodyto darbo užmokesčio, ištarnavusiems nuo 10 iki 20 metų – 20 procentų šio darbo užmokesčio, o ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio 2 dalyje nurodyto dydžio pensija.
 
-\#### 8 straipsnis. Pareigūnų ir karių valstybinė netekto darbingumo pensija
+## 8 straipsnis. Pareigūnų ir karių valstybinė netekto darbingumo pensija
 
 1. Pareigūnų ir karių valstybinė netekto darbingumo pensija skiriama šio įstatymo 1 straipsnyje nurodytiems pareigūnams ir kariams, pripažintiems nedarbingais ar iš dalies darbingais. Jei darbingumo netekta dėl priežasčių, susijusių su tarnyba, pensija skiriama nepaisant netekto darbingumo pripažinimo laiko. Jei darbingumo netekta dėl kitų priežasčių, pareigūnų ir karių valstybinė netekto darbingumo pensija skiriama tik tuo atveju, jei darbingumo netekta tarnybos metu.
 
 2. Darbingumo netekimas pripažįstamas atsiradusiu dėl priežasčių, susijusių su tarnyba, jei susirgimas, sužeidimas ar trauma, sukėlę darbingumo netekimą, įvyko tarnyboje. Priežastinį ryšį turi patvirtinti žinybinė centrinė medicinos ekspertizės komisija, kariams – krašto apsaugos ministro sudaryta tarnybinio tyrimo komisija.
 
-\#### 9 straipsnis. Pareigūnų ir karių valstybinės netekto darbingumo pensijos dydis
+## 9 straipsnis. Pareigūnų ir karių valstybinės netekto darbingumo pensijos dydis
 
 1. Pareigūnų ir karių valstybinė netekto darbingumo pensija skiriama pareigūnams ir kariams už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, po 1,2 procento – netekusiems 75–100 procentų darbingumo, 1 procentą – netekusiems 60–70 procentų darbingumo ir 0,5 procento – netekusiems 45–55 procentų darbingumo darbo užmokesčio, nurodyto šio įstatymo 7 straipsnio 1 dalyje.
 
@@ -132,7 +132,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 3) asmenims, netekusiems 45–55 procentų darbingumo, – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.
 
-\#### 10 straipsnis. Pareigūnų ir karių valstybinė našlių ir našlaičių pensija
+## 10 straipsnis. Pareigūnų ir karių valstybinė našlių ir našlaičių pensija
 
 1. Teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) pareigūno ar kario sutuoktinis bei vaikai, taip pat jiems prilyginti asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo straipsniuose, reglamentuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Ši pensija skiriama, jei miręs asmuo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba dėl netekto darbingumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę netekto darbingumo pensiją arba vieną iš šių pensijų gavo.
 
@@ -144,7 +144,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 5. Privalomosios karo tarnybos kariui ar kariui savanoriui mirus tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais, skiriama našlių ir našlaičių pensija šio straipsnio 1–4 dalyse nustatyta tvarka. Ji apskaičiuojama kaip nustatyta šio įstatymo 9 straipsnio 3 dalies 2 punkte pareigūnų ir karių valstybinė netekto darbingumo pensija asmenims, netekusiems 60–70 procentų darbingumo.
 
-\#### 11 straipsnis. Pensijos mokėjimas tarnaujantiems ir dirbantiems pensininkams
+## 11 straipsnis. Pensijos mokėjimas tarnaujantiems ir dirbantiems pensininkams
 
 1. Tarnaujantiems pareigūnams ir kariams valstybinės pensijos nemokamos, išskyrus našlių pensijas.
 
@@ -152,7 +152,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 3. Pensininkams, gaunantiems visišką valstybės išlaikymą, pareigūnų ir karių valstybinės pensijos nemokamos.
 
-\#### 12 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimas
+## 12 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimas
 
 1. Pareigūnams ir kariams bei jų šeimos nariams pensijas skiria ir moka Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Generalinė prokuratūra ar Kalėjimų departamentas pagal tai, kurioje iš šių institucijų pensijos gavėjas tarnavo paskiausiai.
 
@@ -166,7 +166,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 6. Jei pareiškėjas nesutinka su šio straipsnio 1 dalyje nurodytos institucijos sprendimu, jis turi teisę šį sprendimą apskųsti tos institucijos vadovui, o jei nesutinkama ir su vadovo sprendimu, ginčas sprendžiamas teisme.
 
-\#### 13 straipsnis. Pareigūnų ir karių valstybinės pensijos skyrimo ir mokėjimo terminai
+## 13 straipsnis. Pareigūnų ir karių valstybinės pensijos skyrimo ir mokėjimo terminai
 
 1. Pareigūnų ir karių valstybinė pensija skiriama ir mokama nuo teisės į pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos.
 
@@ -176,19 +176,19 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 4. Pensininkui mirus, pensija išmokama jį palaidojusiems asmenims už mirties mėnesį, jeigu ji dar nebuvo išmokėta, ir dar paskirtos pensijos dydžio už du mėnesius.
 
-\#### 14 straipsnis. Pensijos skyrimas iš naujo
+## 14 straipsnis. Pensijos skyrimas iš naujo
 
 1. Jei pareigūnui arba kariui, kuriam paskirta pareigūnų ir karių valstybinė netekto darbingumo pensija, po pensijos paskyrimo pakeičiami netekto darbingumo procentai, pensija turi būti paskirta iš naujo pagal naujus duomenis nuo jų pasikeitimo dienos, bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje dienos.
 
 2. Pareigūnui ar kariui, kuriam paskirta pareigūnų ir karių valstybinė pensija, po jos paskyrimo ištarnavusiam ne mažiau kaip dvejus metus, pareigūnų ir karių valstybinė pensija jo prašymu gali būti paskirta iš naujo pagal naujus duomenis. Jeigu iš naujo paskirta pensija yra mažesnė, mokama anksčiau paskirtoji pensija.
 
-\#### 15 straipsnis. Pensijos mokėjimas persikėlus nuolat gyventi į užsienį
+## 15 straipsnis. Pensijos mokėjimas persikėlus nuolat gyventi į užsienį
 
 1. Pensininkui, persikėlusiam nuolat gyventi į užsienį, paskirtoji pareigūnų ir karių valstybinė pensija už tarnybą siunčiama ten, kur šis asmuo gyvena, jei išvykusio pensininko tarnybos Lietuvoje laikas pensijai skirti ne mažesnis kaip 15 metų.
 
 2. Kitais atvejais pensija išmokama už šešis mėnesius į priekį tokio dydžio, kokia ji buvo išvykimo mėnesį, ir toliau nebemokama.
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas
+## 16 straipsnis. Įstatymo įsigaliojimas
 
 1. Asmenims, nestojusiems tarnauti arba nepriimtiems į Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų bei valstybės įmonių pareigūnus ir karius, pareigūnų ir karių valstybinės pensijos šio įstatymo nustatyta tvarka neskiriamos.
 
@@ -232,7 +232,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, S
 
 3) III grupės invalidams – kaip netekusiems 45–55 procentų darbingumo.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2005 m. liepos 1 d.
 

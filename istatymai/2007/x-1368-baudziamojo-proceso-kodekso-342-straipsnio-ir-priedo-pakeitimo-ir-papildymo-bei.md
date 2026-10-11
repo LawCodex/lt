@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B4C94F1ECFA0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B4C94F1ECFA0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 342 straipsnio ir priedo pakeitimo ir papildymo bei kodekso papildymo 17(2), 365(1) 365(2) straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2003, Nr. [38-1734](https://www.e-tar.lt/portal/lt/legalAct/TAR.A892013CE410); 2004, Nr. [72-2493](https://www.e-tar.lt/portal/lt/legalAct/TAR.795F9BE0DF6E); 2006, Nr. [68-2494](https://www.e-tar.lt/portal/lt/legalAct/TAR.25D777B9177C); 2007, Nr. [81-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCCB8FD78166))
 
-\#### 1 straipsnis. Kodekso papildymas 172 straipsniu
+## 1 straipsnis. Kodekso papildymas 172 straipsniu
 
 Papildyti Kodeksą 17^2 straipsniu:
 
@@ -40,13 +40,13 @@ Europos Sąjungos valstybės narės kompetentingos institucijos paskirta pinigin
 
 4) sprendime nustatytą sumą (įmoką) į visuomeninį fondą arba nukentėjusių asmenų paramos organizacijai.“
 
-\#### 2 straipsnis. 342 straipsnio papildymas 5 dalimi
+## 2 straipsnis. 342 straipsnio papildymas 5 dalimi
 
 Papildyti 342 straipsnį 5 dalimi:
 
 „5. Jeigu nuosprendžiu nuteistajam paskirta bausmė – bauda arba baudžiamojo poveikio priemonė – įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, o nuteistasis ar turtas, į kurį gali būti nukreiptas išieškojimas, yra kitoje Europos Sąjungos valstybėje narėje, teismas savo iniciatyva arba bausmę (baudžiamojo poveikio priemonę) vykdančios institucijos teikimu gali šią bausmę ar baudžiamojo poveikio priemonę perduoti vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai. Lietuvos Respublikos teismų paskirtų piniginių sankcijų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisykles patvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 3 straipsnis. Kodekso papildymas 3651 straipsniu
+## 3 straipsnis. Kodekso papildymas 3651 straipsniu
 
 Papildyti Kodeksą 365^1 straipsniu:
 
@@ -88,7 +88,7 @@ Papildyti Kodeksą 365^1 straipsniu:
 
 7. Teismo nutartį pripažinti piniginę sankciją ar atsisakyti pripažinti piniginę sankciją prokuroras, nubaustas asmuo ar jo gynėjas gali skųsti šio kodekso 364 straipsnio nustatyta tvarka.“
 
-\#### 4 straipsnis. Kodekso papildymas 3652 straipsniu
+## 4 straipsnis. Kodekso papildymas 3652 straipsniu
 
 Papildyti Kodeksą 365^2 straipsniu:
 
@@ -110,7 +110,7 @@ Papildyti Kodeksą 365^2 straipsniu:
 
 8. Apie piniginės sankcijos įvykdymą, apie visišką ar dalinį neįvykdymą, jos pakeitimą į kitas bausmes ar baudžiamojo poveikio priemones nedelsiant raštu informuojama Europos Sąjungos valstybės narės kompetentinga institucija.“
 
-\#### 5 straipsnis. Kodekso priedo pakeitimas ir papildymas
+## 5 straipsnis. Kodekso priedo pakeitimas ir papildymas
 
 Pakeisti ir papildyti Kodekso priedą ir jį išdėstyti taip:
 
@@ -130,11 +130,11 @@ priedas
 
 4. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms (OL 2005 L 76, p. 16).“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 7 straipsnį, įsigalioja 2008 m. kovo 1 d.
 
-\#### 7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo patvirtina Lietuvos Respublikos teismų paskirtų piniginių sankcijų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisykles.
 

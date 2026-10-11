@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BBF0762214AC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BBF0762214AC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 17, 26, 30 ir 31 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [64-2323](https://www.e-tar.lt/portal/lt/legalAct/TAR.03EBC0E3CBDD), Nr. [85-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B),Nr. [110-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BB7B6C28341); 2002, Nr. [43-1604](https://www.e-tar.lt/portal/lt/legalAct/TAR.348B9DD92898), Nr. [103-4605](https://www.e-tar.lt/portal/lt/legalAct/TAR.A88DB35EF35C))
 
-\#### 1 straipsnis. 17 straipsnio 10 punkto pakeitimas
+## 1 straipsnis. 17 straipsnio 10 punkto pakeitimas
 
 Pakeisti 17 straipsnio 10 punktą ir jį išdėstyti taip:
 
 „10) mero teikimu gali priimti sprendimus dėl seniūnijų steigimo ir jų skaičiaus, priskiria seniūnijoms savivaldybės teritorijas, nustato jų ribas ir prireikus jas keičia įvertinusi vietos gyventojų nuomonę;“.
 
-\#### 2 straipsnis. 26 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 2 straipsnis. 26 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. Pakeisti 26 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 17 straipsnio 10 punktą ir jį išdėstyti taip:
 
 „1. Tarybos nariams, išskyrus merą ir mero pavaduotoją, už darbą atliekant savivaldybės tarybos nario pareigas yra atlyginama (apmokama). Šis atlyginimas (užmokestis) apskaičiuojamas pagal skelbiamą Lietuvos ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) dydį atsižvelgiant į faktiškai dirbtą laiką, kurio trukmė patvirtinama savivaldybės tarybos veiklos reglamente nustatyta tvarka. Tarybos nariui su jo veikla susijusioms kanceliarijos, pašto, telefono, transporto išlaidoms kas mėnesį gali būti mokama išmoka, kurios dydis patvirtinamas tarybos veiklos reglamente nustatyta tvarka.“
 
-\#### 3 straipsnis. 30 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 30 straipsnio papildymas ir pakeitimas
 
 Papildyti 30 straipsnio 1 dalį, straipsnį papildyti nauja 2 dalimi, buvusias 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis, 4 dalį pakeisti ir šį straipsnį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Papildyti 30 straipsnio 1 dalį, straipsnį papildyti nauja 2 dalimi, buvusias 2
 
 5. Seniūnijoje iš gyvenamųjų vietovių bendruomenės atstovų gali būti sudaroma patariamoji visuomeniniais pagrindais dirbanti seniūnijos taryba. Jos nuostatus tvirtina meras pagal vidaus reikalų ministro patvirtintus pavyzdinius nuostatus.“
 
-\#### 4 straipsnis. 31 straipsnio pakeitimas
+## 4 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 

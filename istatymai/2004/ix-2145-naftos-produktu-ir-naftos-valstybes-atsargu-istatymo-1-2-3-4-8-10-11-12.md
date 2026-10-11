@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AD7E768CEF0D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AD7E768CEF0D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 1, 2, 3, 4, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [72-3008](https://www.e-tar.lt/portal/lt/legalAct/TAR.74602705CADB))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 2 dalimi
 
 Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. Įstatymo nuostatos yra suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas naujomis 1 ir 2 dalimis
+## 2 straipsnis. 2 straipsnio papildymas naujomis 1 ir 2 dalimis
 
 1. Papildyti 2 straipsnį naujomis 1 ir 2 dalimis:
 
@@ -48,7 +48,7 @@ Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. Buvusias 2 straipsnio 1–5 dalis laikyti atitinkamai 3–7 dalimis.
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 3 straipsnio 1 dalyje po žodžio „importuojančios“ įrašyti žodžius „ir į šalį atgabenančios“, išbraukti 1 dalies antrą sakinį, 2 dalį pripažinti netekusia galios, buvusią 3 dalį laikyti 2 dalimi, joje po žodžio „importuotų“ įrašyti žodį „atgabentų“ ir visą straipsnį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. Kaupti ir tvarkyti atsargas neprivalo įmonės, kurių pagamintų, importuotų, atgabentų, parduotų, sunaudotų naftos produktų kiekis per metus neviršija Vyriausybės nustatyto minimalaus dydžio.“
 
-\#### 4 straipsnis. 4 straipsnio papildymas nauja 5 dalimi
+## 4 straipsnis. 4 straipsnio papildymas nauja 5 dalimi
 
 1. Papildyti 4 straipsnį nauja 5 dalimi ir šią dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. Buvusią 4 straipsnio 5 dalį laikyti 6 dalimi.
 
-\#### 5 straipsnis. 8 straipsnio 2 dalies papildymas ir 4 dalies pripažinimas netekusia galios
+## 5 straipsnis. 8 straipsnio 2 dalies papildymas ir 4 dalies pripažinimas netekusia galios
 
 1. 8 straipsnio 2 dalyje po žodžio „importuojama“ įrašyti žodį „atgabenama“, po žodžio „importo“ įrašyti žodžius „ar atgabenimo“ ir šią dalį išdėstyti taip:
 
@@ -74,23 +74,23 @@ Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. 8 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 10 straipsnio 2 dalies pripažinimas netekusia galios
+## 6 straipsnis. 10 straipsnio 2 dalies pripažinimas netekusia galios
 
 10 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 7 straipsnis. 11 straipsnio 1 dalies papildymas
+## 7 straipsnis. 11 straipsnio 1 dalies papildymas
 
 11 straipsnio 1 dalyje po žodžio „importo“ įrašyti žodį „atgabenimo“ ir šią dalį išdėstyti taip:
 
 „1. Vyriausybės įgaliota institucija yra atsakinga už naftos, naftos produktų importo, atgabenimo, eksporto, prekybos, suvartojimo būklės analizę bei įvertinimą, tam reikalingos nuolat veikiančios informacinės sistemos sudarymą, taip pat šio Įstatymo numatytų priemonių įgyvendinimo koordinavimą.“
 
-\#### 8 straipsnis. 12 straipsnio 1 dalies papildymas
+## 8 straipsnis. 12 straipsnio 1 dalies papildymas
 
 12 straipsnio 1 dalyje po žodžio „prekyba“ įrašyti žodžius „atgabenimu, išgabenimu“, vietoj žodžių „valstybės ir savivaldybių institucijos“ įrašyti žodžius „Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė mokesčių inspekcija ir Lietuvos Respublikos muitinė“, antrame sakinyje prieš žodį „Informacijos“ įrašyti žodžius „Įmonių teikiamos“ ir šią dalį išdėstyti taip:
 
 „1. Įmonės, kurios verčiasi energijos ar energijos išteklių, naftos ar naftos produktų gavyba, gamyba, importu, eksportu, prekyba, atgabenimu, išgabenimu, vartojimu, taip pat Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė mokesčių inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją Vyriausybės įgaliotai institucijai šio Įstatymo nuostatoms įgyvendinti. Įmonių teikiamos informacijos apimtį bei jos teikimo tvarką nustato Vyriausybės įgaliota institucija ir Statistikos departamentas prie Lietuvos Respublikos Vyriausybės.“
 
-\#### 9 straipsnis. Įstatymo papildymas priedu
+## 9 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

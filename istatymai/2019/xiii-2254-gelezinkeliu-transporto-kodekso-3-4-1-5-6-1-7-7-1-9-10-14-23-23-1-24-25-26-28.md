@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e96da3a09d7211e9878fc525390407ce"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E96DA3A09D72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais įstatymo Nr. XIII-1858 21, 22, 28 ir 37 straipsnių pakeitimo įstatymas

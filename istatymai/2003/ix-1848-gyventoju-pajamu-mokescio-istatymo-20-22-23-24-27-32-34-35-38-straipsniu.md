@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3BE08993974A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3BE08993974A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 20, 22, 23, 24, 27, 32, 34, 35, 38 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2003, Nr. [15-601](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CE484E7CF61), Nr. [42-1915](https://www.e-tar.lt/portal/lt/legalAct/TAR.5B35BA4E8AB6))
 
-\#### 1 straipsnis. 20 straipsnio 10 ir 11 dalių pakeitimas
+## 1 straipsnis. 20 straipsnio 10 ir 11 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 10 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „11. Metinis papildomas neapmokestinamasis pajamų dydis (toliau – MPNPD) nustatomas sudedant tėvams (įtėviams) taikytinus pagal šio straipsnio nuostatas mokestinio laikotarpio atitinkamų mėnesių PNPD ir, apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, atimamas pirmiausia iš su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių mokestinio laikotarpio tėvų (įtėvių) pajamų, kurios apmokestinamos taikant 33 procentų pajamų mokesčio tarifą, o jeigu taikytinas MPNPD yra didesnis už šias pajamas arba gyventojas tokių pajamų negavo, netaikytas MPNPD arba jo dalis atimami iš kitų pajamų. MPNPD tėvams (įtėviams) taikomi jų pasirinktu santykiu. Šio Įstatymo 29 straipsnyje nustatytais atvejais iš pajamų atimama MPNPD dalis, apskaičiuota tame straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. 22 straipsnio 2 dalies 1 punkto pakeitimas
+## 2 straipsnis. 22 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 22 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę bei iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos pajamos, išskyrus azartinių lošimų ir loterijų laimėjimus, neribotos civilinės atsakomybės vieneto dalyvio pajamas, gautas iš šio neribotos civilinės atsakomybės vieneto, bei šiame punkte nenurodytas individualios veiklos pajamas, taip pat šiame punkte nenurodytas pajamas iš ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn. Iš Lietuvos vieneto, iš užsienio vieneto per jo nuolatinę buveinę bei iš nenuolatinio Lietuvos gyventojo per jo nuolatinę bazę gautos sporto veiklos, atlikėjų veiklos, taip pat ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos už parduotą ar kitaip perleistą nuosavybėn kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, už nekilnojamąjį daiktą, esantį Lietuvoje, bei individualios ir ne individualios veiklos pajamos, gautos už parduotą arba kitaip perleistą nuosavybėn nenukirstą mišką, apvaliąją medieną, netauriųjų metalų laužą, taip pat priskiriamos A klasės pajamoms, ir“.
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 23 straipsnio pakeitimas ir papildymas
 
 Pakeisti 23 straipsnio 1 ir 3 dalis, straipsnį papildyti 4, 5, 6 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 23 straipsnio 1 ir 3 dalis, straipsnį papildyti 4, 5, 6 dalimis ir vis
 
 6. Jei mokestį išskaičiuojantis asmuo su darbo santykiais arba jų esmę atitinkančiais santykiais susijusias išmokas už atitinkamą mokestinio laikotarpio mėnesį moka dalimis ir paskutinė išmokos dalis neišmokėta per mėnesio, einančio po mėnesio, už kurį mokamos su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos, 10 darbo dienų, tai laikoma, kad šio straipsnio 1 dalyje nustatyta tvarka išskaičiuotą pajamų mokestį išskaičiuojantis asmuo privalėjo sumokėti į biudžetą iki mėnesio, už kurį mokamos su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos, 15 dienos (jeigu paskutinė išmoka išmokėta iki to mėnesio 15 dienos) arba iki to mėnesio paskutinės dienos (jeigu paskutinė išmoka išmokėta po to mėnesio 15 dienos).“
 
-\#### 4 straipsnis. 24 straipsnio 2 ir 3 dalių pakeitimas
+## 4 straipsnis. 24 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 23 straipsnio 1 ir 3 dalis, straipsnį papildyti 4, 5, 6 dalimis ir vis
 
 „3. Pajamų mokesčio, išskaičiuoto iš A klasės pajamų, deklaracijų formas, deklaracijų užpildymo ir pateikimo tvarką nustato centrinis mokesčio administratorius, suderinęs su finansų ministru. Centrinis mokesčio administratorius turi teisę nustatyti pajamų mokesčio, išskaičiuoto iš A klasės pajamų, deklaracijoje nedeklaruojamų neapmokestinamųjų pajamų sąrašą, taip pat tam tikrų neapmokestinamųjų pajamų dydį, kurio neviršijus išmokamos sumos nedeklaruojamos pajamų mokesčio, išskaičiuoto iš A klasės pajamų, deklaracijoje.“
 
-\#### 5 straipsnis. 27 straipsnio 1 dalies, 2 dalies 1 punkto ir 6, 8, 9 dalių pakeitimas
+## 5 straipsnis. 27 straipsnio 1 dalies, 2 dalies 1 punkto ir 6, 8, 9 dalių pakeitimas
 
 1. 27 straipsnio 1 dalyje išbraukti žodį „visas“ ir šią dalį išdėstyti taip:
 
@@ -94,13 +94,13 @@ Pakeisti 23 straipsnio 1 ir 3 dalis, straipsnį papildyti 4, 5, 6 dalimis ir vis
 
 „9. Jeigu nuolatinio Lietuvos gyventojo pateiktoje metinėje pajamų mokesčio deklaracijoje apskaičiuojama pajamų mokesčio permoka, ji gali būti įskaityta arba grąžinta Mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. 32 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 32 straipsnio 1 dalies pakeitimas
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Gyventojas, gavęs pajamų iš Lietuvos vienetų, iš užsienio vienetų per jų nuolatines buveines arba iš nenuolatinių Lietuvos gyventojų per jų nuolatines bazes už kilnojamojo daikto, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, už nekilnojamojo daikto, esančio Lietuvoje, pardavimą arba kitokį perleidimą nuosavybėn, taip pat ne individualios veiklos pajamų už nenukirsto miško, apvaliosios medienos, netauriųjų metalų laužo pardavimą arba kitokį perleidimą nuosavybėn, nuo kurių šio Įstatymo 23 straipsnio nustatyta tvarka buvo išskaičiuotas pajamų mokestis, turi teisę kreiptis į mokesčio administratorių dėl pajamų mokesčio už parduotą daiktą perskaičiavimo, t. y. kad būtų apskaičiuojamas pajamų mokestis iš gautų pajamų atėmus šio Įstatymo 19 straipsnyje nustatytas išlaidas.“
 
-\#### 7 straipsnis. 34 straipsnio 2 ir 3 dalių pakeitimas
+## 7 straipsnis. 34 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -110,13 +110,13 @@ Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti Lietuvos vienetams, pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą, iki 2 procentų pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.“
 
-\#### 8 straipsnis. 35 straipsnio papildymas 3 dalimi
+## 8 straipsnis. 35 straipsnio papildymas 3 dalimi
 
 Papildyti 35 straipsnį 3 dalimi:
 
 „3. Nuolatinis Lietuvos gyventojas privalo centrinio mokesčio administratoriaus nustatyta tvarka nurodyti mokestį išskaičiuojančiam asmeniui, su kuriuo yra susijęs darbo santykiais ar jų esmę atitinkančiais santykiais, savivaldybę, kurioje jis turi nuolatinę gyvenamąją vietą paskutinę mokestinio laikotarpio dieną. Nuolatinis Lietuvos gyventojas, gaudamas su darbo santykiais ar jų esmę atitinkančiais santykiais nesusijusių A klasės pajamų, privalo centrinio mokesčio administratoriaus nustatyta tvarka nurodyti mokestį išskaičiuojančiam asmeniui savivaldybę, kurioje jis turėjo nuolatinę gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę dieną. Nenuolatinis Lietuvos gyventojas, gavęs pajamų, pagal mokesčio mokėjimo tvarką priskiriamų A klasės pajamoms, privalo centrinio mokesčio administratoriaus nustatyta tvarka nurodyti mokestį išskaičiuojančiam asmeniui savivaldybę, kurioje jis turėjo gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę dieną, jeigu turėjo gyvenamąją vietą Lietuvoje. Jeigu praėjusio mokestinio laikotarpio paskutinę dieną nenuolatinis Lietuvos gyventojas neturėjo gyvenamosios vietos Lietuvoje, mokestį išskaičiuojančiam asmeniui privalo nurodyti savivaldybę, kurioje jis turėjo gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę buvimo Lietuvoje dieną. Tuo atveju, jeigu nenuolatinis Lietuvos gyventojas praėjusiu mokestiniu laikotarpiu Lietuvoje neturėjo gyvenamosios vietos, jis privalo nurodyti mokestį išskaičiuojančiam asmeniui savivaldybę, kurioje jis turi gyvenamąją vietą mokestiniu laikotarpiu, jeigu jis turi gyvenamąją vietą Lietuvoje.“
 
-\#### 9 straipsnis. 38 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 38 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 38 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Papildyti 35 straipsnį 3 dalimi:
 
 4) 2004 metų mokestinio laikotarpio sausio–kovo mėnesiais mokamos pajamų mokesčio sumos įskaitomos pagal 2003 metų III ketvirtį mokėto pajamų mokesčio pasiskirstymo pagal savivaldybes proporcijas. 2003 metų sumokėto pajamų mokesčio įskaitymo į savivaldybių biudžetus patikslinimai, numatyti šios dalies 3 punkte, nedaromi.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šio Įstatymo 4 straipsnio 1 dalis taikoma deklaruojant 2004 metais ir vėlesniais mokestiniais laikotarpiais išmokėtas išmokas.
 

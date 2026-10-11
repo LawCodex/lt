@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.903387808544"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.903387808544.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo papildymo 18(1) straipsniu ir 9, 14, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 1997, Nr. [63-1470](https://www.e-tar.lt/portal/lt/legalAct/TAR.0538DEE125C2))
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 9 straipsnio 1 dalį, papildyti straipsnį nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi, ją pakeisti ir 1, 2, 3 dalis išdėstyti taip:
 
@@ -40,25 +40,25 @@ Prireikus įstatymu gali būti įsteigti ir kiti specializuoti teismai darbo, š
 
 2. Buvusias 9 straipsnio 3, 4, 5, 6, 7 dalis laikyti atitinkamai 4, 5, 6, 7, 8 dalimis.
 
-\#### 2 straipsnis. 12 straipsnio 2 dalies pakeitimas ir papildymas
+## 2 straipsnis. 12 straipsnio 2 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Apeliaciniame teisme yra Civilinių bylų skyrius, Baudžiamųjų bylų skyrius ir Administracinių bylų skyrius.“
 
-\#### 3 straipsnis. 14 straipsnio 1 dalies papildymas
+## 3 straipsnis. 14 straipsnio 1 dalies papildymas
 
 Papildyti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Teisėjų skaičių apylinkių, apygardų teismuose ir Lietuvos apeliaciniame teisme nustato Respublikos Prezidentas teisingumo ministro teikimu. Ta pačia tvarka nustatomas administracinių teismų teisėjų skaičius.“
 
-\#### 4 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) administracinių teisės pažeidimų byloms;“.
 
-\#### 5 straipsnis. Įstatymo papildymas 181 straipsniu
+## 5 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti Įstatymą 18^1 straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E1F713BDE3EE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E1F713BDE3EE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 11, 18 ir 26 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 2004, Nr. [21-617](https://www.e-tar.lt/portal/lt/legalAct/TAR.1C65A214E386); 2006, Nr. [66-2429](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C32BA5677B5), Nr. [82-3256](https://www.e-tar.lt/portal/lt/legalAct/TAR.4BD03D991231))
 
-\#### 1 straipsnis. 11 straipsnio 10 ir 11 dalių pakeitimas
+## 1 straipsnis. 11 straipsnio 10 ir 11 dalių pakeitimas
 
 1. 11 straipsnio 10 dalyje po žodžio „patvirtinimo“ įrašyti žodžius „ir visas teritorijų planavimo dokumentas paskelbiamas „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt)“ ir šią dalį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „11. Patvirtintas savivaldybės ar jos dalies teritorijos bendrasis planas įsigalioja kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiame teisės akte nenustatyta vėlesnė jo įsigaliojimo data.“
 
-\#### 2 straipsnis. 18 straipsnio 8 dalies pakeitimas
+## 2 straipsnis. 18 straipsnio 8 dalies pakeitimas
 
 Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Patvirtintas specialusis planas įsigalioja kitą dieną po to, kai Seimo, Vyriausybės, ministerijų ar Vyriausybės įstaigų, aukštesnių administracinių vienetų valdymo institucijų ir kitų valstybės institucijų sprendimas dėl specialiojo plano patvirtinimo įstatymų nustatytais atvejais paskelbiamas „Valstybės žiniose“ ir visas teritorijų planavimo dokumentas paskelbiamas „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt), savivaldybės patvirtintas specialusis planas įsigalioja kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. Patvirtinti specialieji planai galioja neterminuotai.“
 
-\#### 3 straipsnis. 26 straipsnio 8 dalies pakeitimas
+## 3 straipsnis. 26 straipsnio 8 dalies pakeitimas
 
 Pakeisti 26 straipsnio 8 dalį ir ją išdėstyti taip:
 

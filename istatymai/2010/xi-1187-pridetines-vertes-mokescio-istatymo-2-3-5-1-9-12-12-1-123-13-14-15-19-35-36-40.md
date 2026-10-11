@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F65AA5CF954C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F65AA5CF954C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 5-1, 9, 12, 12-1, 123, 13, 14, 15, 19, 35, 36, 40, 41, 42, 45, 46, 47, 50, 51, 52, 53, 56, 58, 71, 71-1, 75, 83, 92, 95, 98, 101, 104, 106, 115-1, 115-2, 115-3, 115-5, 116, 118, 120 straipsnių ir Įstatymo 2 priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5); 2003, Nr. 13-467, Nr. [32-1310](https://www.e-tar.lt/portal/lt/legalAct/TAR.A37FB25D26F4), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [123-5590](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A29B62E91EA); 2004, Nr. [17-505](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC724525A9B9), Nr. [180-6658](https://www.e-tar.lt/portal/lt/legalAct/TAR.21B7FBC28CCB); 2005, Nr. [72-2590](https://www.e-tar.lt/portal/lt/legalAct/TAR.6D68A160D748), Nr. [81-2944](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5DB9720318), Nr. [142-5109](https://www.e-tar.lt/portal/lt/legalAct/TAR.26754F4C874B); 2006, Nr. [6-193](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE9E4EA038CB), Nr. [82-3264](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8099D46F656), Nr. [137-5203](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D53ED7683B5); 2007, Nr. [46-1717](https://www.e-tar.lt/portal/lt/legalAct/TAR.83CA45F166B9), Nr. [125-5091](https://www.e-tar.lt/portal/lt/legalAct/TAR.37AB1BB38BD3); 2008, Nr. [18-632](https://www.e-tar.lt/portal/lt/legalAct/TAR.839F053D7A00), Nr. [149-6004](https://www.e-tar.lt/portal/lt/legalAct/TAR.2356BE258F96), Nr. [149-6034](https://www.e-tar.lt/portal/lt/legalAct/TAR.D7D6EED4EB79); 2009, Nr. [77-3173](https://www.e-tar.lt/portal/lt/legalAct/TAR.63DF0923E9D9), Nr. [93-3978](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F142A90CA9E), Nr. [93-3988](https://www.e-tar.lt/portal/lt/legalAct/TAR.2790D7E4103D), Nr. [151-6772](https://www.e-tar.lt/portal/lt/legalAct/TAR.4AD6D16769AB); 2010, Nr. [86-4541](https://www.e-tar.lt/portal/lt/legalAct/TAR.F42F560E10DB))
 
-\#### 1 straipsnis. 2 straipsnio 1, 10, 22, 24, 27, 36 ir 39 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1, 10, 22, 24, 27, 36 ir 39 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -58,13 +58,13 @@ Vilnius
 
 „39. **Valstybė narė (arba valstybės narės teritorija)** – Europos Sąjungos valstybės narės teritorija, kaip ji apibrėžta Sutarties dėl Europos Sąjungos veikimo 355 straipsnyje, išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir finansų ministro patvirtintame sąraše nurodytos teritorijos, kuriose sudaryti ar kurioms skirti sandoriai laikomi toje valstybėje narėje sudarytais ar jai skirtais sandoriais.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies 3 punkto pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies 3 punkto pakeitimas
 
 3 straipsnio 1 dalies 3 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
 „3) prekes tiekia ir (arba) paslaugas teikia apmokestinamasis asmuo vykdydamas savo ekonominę veiklą, t. y. veikdamas kaip toks. Kai fizinio asmens sudaromi sandoriai nėra susiję su jo vykdoma ekonomine veikla, nelaikoma, kad fizinis asmuo tiekia prekes ir (arba) teikia paslaugas veikdamas kaip apmokestinamasis asmuo. Šiame punkte nurodyta sąlyga netaikoma, jeigu šalies teritorijoje už atlygį tiekiama nauja transporto priemonė, kurią tiekėjas, pirkėjas arba bet kurio iš jų užsakymu trečioji šalis išgabena iš šalies teritorijos, tačiau į Europos Sąjungosteritoriją.“
 
-\#### 3 straipsnis. 51 straipsnio 2 dalies 3 ir 8 punktų pakeitimas
+## 3 straipsnis. 51 straipsnio 2 dalies 3 ir 8 punktų pakeitimas
 
 1. 51 straipsnio 2 dalies 3 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
@@ -74,7 +74,7 @@ Vilnius
 
 „8) dujų perdavimas Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais į kitą valstybę narę, šilumos ar vėsumos energijos perdavimas šilumos ar vėsumos tinklais į kitą valstybę narę, elektros energijos perdavimas į kitą valstybę narę (kai tokiu būdu perduotoms prekėms kitoje valstybėje narėje bus taikomos nuostatos, iš esmės tolygios šio Įstatymo 12 straipsnio 6 dalies nuostatoms).“
 
-\#### 4 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 9 straipsnio 1 dalyje po žodžio „perduoda“ įrašyti žodžius „įskaitant atvejus, kai veikla (ar jos dalis) kaip kompleksas perduodama kaip juridinio asmens dalyvio turtinis įnašas“ ir šią dalį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Vilnius
 
 „2. Bet kokio nuosavybės teisės objekto perdavimas, kai jis perduodamas kaip juridinio asmens dalyvio turtinis įnašas, išskyrus šio straipsnio 1 dalyje nustatytus atvejus, kai nuosavybės teisės objektas yra perduodamos veiklos (ar jos dalies) kaip komplekso dalis, o šio nuosavybės teisės objekto (o jeigu jis pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir (arba) importo PVM ar jo dalis buvo jį perduodančio PVM mokėtojo įtrauktas į PVM atskaitą, šiame Įstatyme laikomas prekių tiekimu už atlygį (kai perduodamas objektas, kuris šiame Įstatyme laikomas preke) arba paslaugų teikimu už atlygį (kai perduodamas objektas, kuris šiame Įstatyme preke nelaikomas).“
 
-\#### 5 straipsnis. 12 straipsnio pavadinimo ir 6 dalies pakeitimas
+## 5 straipsnis. 12 straipsnio pavadinimo ir 6 dalies pakeitimas
 
 1. 12 straipsnio pavadinime vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -98,7 +98,7 @@ Vilnius
 
 2) kai šias prekes įsigyja šios dalies 1 punkte nenurodytas asmuo, – jeigu faktinis šių prekių sunaudojimas įvyksta Lietuvos Respublikoje, o kai jos faktiškai nesunaudojamos, – jeigu pirkėjo buveinė (jeigu tai ne fizinis asmuo), padalinys (per kurį įsigyjamos šios prekės) arba nuolatinė gyvenamoji vieta (jeigu tai fizinis asmuo) yra Lietuvos Respublikoje.“
 
-\#### 6 straipsnis. 121 straipsnio pakeitimas
+## 6 straipsnis. 121 straipsnio pakeitimas
 
 12^1 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Vilnius
 
 3. Tais atvejais, kai keleiviai laivais, orlaiviais ar traukiniais vežami į abi puses, kiekvienas toks vežimas į bet kurią pusę taikant šio straipsnio nuostatas laikomas atskiru keleivių vežimo maršrutu.“
 
-\#### 7 straipsnis. 123 straipsnio pakeitimas
+## 7 straipsnis. 123 straipsnio pakeitimas
 
 12^3 straipsnyje vietoj žodžių „Bendrijos“ ir „Europos Bendrijų“ įrašyti žodžius „Europos Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Vilnius
 
 4. Laikoma, kad Europos Sąjungos prekės importuotos šalies teritorijoje ir tuo atveju, kai įvežimo į Europos Sąjungos teritoriją metu prekės yra ne šalies teritorijoje, tačiau įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, leistų jas pateikti laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežti į laisvąją zoną ar padėti į laisvąjį sandėlį, joms įforminti muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, laikinojo įvežimo visiškai neapmokestinant importo muitais procedūrą, arba joms įforminama vidinio tranzito procedūra ir, nustojus taikyti minėtąjį režimą ar vidinio tranzito procedūrą, prekės yra šalies teritorijoje.“
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. 13 straipsnio pavadinime vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -170,7 +170,7 @@ Vilnius
 
 „19. Neatsižvelgiant į šio straipsnio 2 dalį, ilgalaikės (kitos negu trumpalaikės)transporto priemonės nuomos paslaugos, teikiamos šalies teritorijoje įsikūrusiam apmokestinamajam asmeniui ar užsienio apmokestinamojo asmens padaliniui, esančiam šalies teritorijoje, nelaikomos suteiktomis šalies teritorijoje tuo atveju, kai išnuomota transporto priemonė faktiškai daugiausia naudojama už Europos Sąjungos teritorijos ribų.“
 
-\#### 9 straipsnis. 14 straipsnio 12 ir 13 dalių pakeitimas
+## 9 straipsnis. 14 straipsnio 12 ir 13 dalių pakeitimas
 
 1. 14 straipsnio 12 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip:
 
@@ -180,7 +180,7 @@ Vilnius
 
 „13. Prievolė apskaičiuoti importo PVM už prekes, kurioms pagal atitinkamus Europos Sąjungos teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal minėtus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Kai prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė apskaičiuoti importo PVM atsiranda tada, kai pagal atitinkamas Muitinės kodekso nuostatas šalies teritorijoje būtų apskaičiuota importo skola muitinei, jeigu prekėms šie muitai ar rinkliavos būtų taikomi.“
 
-\#### 10 straipsnis. 15 straipsnio 14, 15 ir 16 dalių pakeitimas
+## 10 straipsnis. 15 straipsnio 14, 15 ir 16 dalių pakeitimas
 
 1. 15 straipsnio 14 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip:
 
@@ -200,7 +200,7 @@ Vilnius
 
 „16. Kai reimportuojamos laikinai išvežtos už Europos Sąjungos teritorijos ribų remontuoti, perdirbti, pritaikyti ar panašioms operacijoms atlikti prekės, neatsižvelgiant į šio straipsnio 15 dalies nuostatas, jų apmokestinamąją vertę sudaro už Europos Sąjungos teritorijos ribų suteiktų atitinkamų paslaugų vertė, nustatyta vadovaujantis šio straipsnio nuostatomis.“
 
-\#### 11 straipsnis. 19 straipsnio 3 ir 4 dalių papildymas ir pakeitimas
+## 11 straipsnis. 19 straipsnio 3 ir 4 dalių papildymas ir pakeitimas
 
 1. 19 straipsnio 3 dalies 1 punkte vietoj žodžio „rugpjūčio“ įrašyti žodį „gruodžio“ ir šį punktą išdėstyti taip:
 
@@ -218,13 +218,13 @@ Vilnius
 
 „4. Iki 2011 m. gruodžio 31 d. lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka.“
 
-\#### 12 straipsnis. 35 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 35 straipsnio 1 dalies pakeitimas
 
 35 straipsnio 1 dalyje vietoj žodžio „jos“ įrašyti žodžius „tos pačios prekės“ ir šią dalį išdėstyti taip:
 
 „1. Importo PVM neapmokestinamos importuojamos prekės, jeigu importo metu žinoma, kad tos pačios prekės yra skirtos išgabenti ir bus išgabentos į kitą valstybę narę, o importuotojo prekių tiekimas iš Lietuvos Respublikos į kitą valstybę narę pagal šio Įstatymo VI skyriaus nuostatas apmokestinamas taikant 0 procentų PVM tarifą.“
 
-\#### 13 straipsnis. 36 straipsnio pakeitimas
+## 13 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -238,7 +238,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 4. Šio straipsnio 1, 2 ir 3 dalių nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 14 straipsnis. 40 straipsnio 2 ir 5 dalių pakeitimas
+## 14 straipsnis. 40 straipsnio 2 ir 5 dalių pakeitimas
 
 1. 40 straipsnio 2 dalyje vietoj žodžio „Bendrijos“ ir žodžių „Europos Bendrijų“ įrašyti žodžius „Europos Sąjungos“ ir šią dalį išdėstyti taip:
 
@@ -248,7 +248,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 „5. Importo PVM neapmokestinamos gamtinių dujų sistemomis ar prie jų prijungtais tinklais arba laivais į tokias sistemas ar gavybos proceso dujotiekių tinklus importuojamos dujos, importuojama elektros energija, šilumos ar vėsumos tinklais importuojama šilumos ar vėsumos energija.“
 
-\#### 15 straipsnis. 41 straipsnio pakeitimas
+## 15 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
@@ -258,13 +258,13 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 2. Jeigu šiame skyriuje nenustatyta kitaip, tiekiamos prekės apmokestinamos taikant 0 procentų PVM tarifą, jeigu jas pirkėjas, įsikūręs už šalies teritorijos ribų ir neturintis šalies teritorijoje padalinio, ar jo užsakymu kitas asmuo išgabena iš Europos Sąjungos teritorijos, išskyrus atvejus, kai pirkėjas išgabena įrangą, atsargines dalis ar atsargas, skirtas asmeniniams poreikiams naudojamiems laivams, orlaiviams ar kitoms transporto priemonėms. Kai prekės išgabenamos asmeniniame keleivio bagaže, 0 procentų PVM tarifas taikomas šio Įstatymo 42 straipsnyje nustatyta tvarka.“
 
-\#### 16 straipsnis. 42 straipsnio 1 dalies pakeitimas
+## 16 straipsnis. 42 straipsnio 1 dalies pakeitimas
 
 42 straipsnio 1 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip:
 
 „1. Taikant 0 procentų PVM tarifą apmokestinamos asmenų, kurių nuolatinė gyvenamoji vieta nėra Europos Sąjungos teritorijoje (toliau šiam straipsnyje – užsienio keleivis), išgabenamos iš Europos Sąjungos teritorijos Lietuvos Respublikoje įsigytos prekės, kurių vertė viršija Lietuvos Respublikos Vyriausybės nustatytą minimalią ribą. Užsienio keleivis privalo įrodyti, kad jo nuolatinė gyvenamoji vieta nėra Europos Sąjungos teritorijoje, pateikdamas Lietuvos Respublikos Vyriausybės nustatytos rūšies dokumentą.“
 
-\#### 17 straipsnis. 45 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 17 straipsnis. 45 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 1. 45 straipsnio 1 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip:
 
@@ -282,7 +282,7 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 „4. Šio straipsnio 1, 2 ir 3 dalių nuostatos ta pačia tvarka taikomos ir pašto įvežimui į Europos Sąjungos teritoriją, išvežimui iš jos arba vežimui tranzitu ir susijusioms papildomoms paslaugoms.“
 
-\#### 18 straipsnis. 46 straipsnio pakeitimas
+## 18 straipsnis. 46 straipsnio pakeitimas
 
 46 straipsnyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -290,7 +290,7 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat finansinės paslaugos, nurodytos šio Įstatymo 28 straipsnio 1–5 dalyse, kai šios draudimo ar finansinės paslaugos tiesiogiai susijusios su prekių, nenurodytų šio Įstatymo IV skyriuje, eksportu iš Europos Sąjungosteritorijos.“
 
-\#### 19 straipsnis. 47 straipsnio pakeitimas ir papildymas
+## 19 straipsnis. 47 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 47 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -302,7 +302,7 @@ Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat fina
 
 3. Buvusią 47 straipsnio 7 dalį laikyti 8 dalimi.
 
-\#### 20 straipsnis. 50 straipsnio pakeitimas
+## 20 straipsnis. 50 straipsnio pakeitimas
 
 50 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -312,7 +312,7 @@ Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat fina
 
 2. Šio straipsnio 1 dalyje nurodytos nuostatos įgyvendinamos grąžinant Lietuvos Respublikoje įregistruotiems paramos gavėjams PVM sumą, kurią jie sumokėjo už įsigytas ir išgabentas iš Europos Sąjungos teritorijos prekes. Šių nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 21 straipsnis. 51 straipsnio pakeitimas
+## 21 straipsnis. 51 straipsnio pakeitimas
 
 51 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -320,13 +320,13 @@ Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat fina
 
 Taikant 0 procentų PVM tarifą apmokestinamos kilnojamųjų daiktų aptarnavimo (remonto, priežiūros, derinimo ir kt.), apdirbimo ir perdirbimo paslaugos, teikiamos už šalies teritorijos ribų įsikūrusiam ir neturinčiam šalies teritorijoje padalinio paslaugų pirkėjui, jeigu šie daiktai buvo įsigyti ar įvežti į Europos Sąjungos teritoriją tokiam aptarnavimui, apdirbimui ar perdirbimui atlikti, o vėliau jie bus išgabenti iš Europos Sąjungos teritorijos. Jeigu paaiškėja, kad daiktai nebus išgabenti iš Europos Sąjungos teritorijos, PVM už suteiktas aptarnavimo, apdirbimo ar perdirbimo paslaugas perskaičiuojamas taikant standartinį PVM tarifą.“
 
-\#### 22 straipsnis. 52 straipsnio 1 dalies 2 punkto pakeitimas
+## 22 straipsnis. 52 straipsnio 1 dalies 2 punkto pakeitimas
 
 52 straipsnio 1 dalies 2 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
 „2) prekių tiekimo ar paslaugų teikimo sandoryje, kai pagal šio Įstatymo nuostatas laikoma, kad tas prekių tiekimas arba paslaugų teikimas įvyko ne Europos Sąjungos teritorijoje.“
 
-\#### 23 straipsnis. 53 straipsnio 4 dalies 2 punkto ir 8 dalies pakeitimas
+## 23 straipsnis. 53 straipsnio 4 dalies 2 punkto ir 8 dalies pakeitimas
 
 1. 53 straipsnio 4 dalies 2 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
@@ -336,25 +336,25 @@ Taikant 0 procentų PVM tarifą apmokestinamos kilnojamųjų daiktų aptarnavimo
 
 „8. Prievolė apskaičiuoti PVM nustatyta tvarka tenka asmeniui, dėl kurio veiksmų ar neveikimo prekėms nustojo galioti šio straipsnio 1 dalyje nurodytos aplinkybės (tuo atveju, kai asmuo sudaro prekių tiekimo sandorį, kurio metu žinoma, kad nustos galioti 1 dalyje nurodytos aplinkybės, – prekių tiekėjui). Laikoma, kad šio straipsnio 1 dalyje nurodytos aplinkybės nustoja galioti ir tada, kai prekės suvartojamos ar prarandamos, išskyrus atvejus, kai prekės prarastos dėl nenugalimos jėgos (*force majeure*) ar nusikalstamos trečiųjų asmenų veikos, jeigu tai įrodyta Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Prievolė apskaičiuoti PVM neatsiranda, jeigu prekės, kurioms nustojo galioti šio straipsnio 1 dalyje nurodytos aplinkybės, išgabenamos iš Europos Sąjungosteritorijos ar išgabenamos į kitą valstybę narę, kai toks išgabenimas laikomas prekių tiekimu į kitą valstybę narę pagal šio Įstatymo 5^1 straipsnį.“
 
-\#### 24 straipsnis. 56 straipsnio 1 dalies pakeitimas
+## 24 straipsnis. 56 straipsnio 1 dalies pakeitimas
 
 56 straipsnio 1 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip:
 
 „1. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 41 straipsnį, privalo turėti dokumentus, įrodančius, kad prekės išgabentos iš Europos Sąjungosteritorijos. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 49 straipsnį, privalo turėti įrodymus, kad prekės išgabentos iš šalies teritorijos, o tais atvejais, kai 0 procentų PVM tarifas taikomas prekes tiekiant kitoje valstybėje narėje registruotam PVM mokėtojui, – ir įrodymus, kad asmuo, kuriam prekės išgabentos, yra kitoje valstybėje narėje registruotas PVM mokėtojas, o kai 0 procentų PVM tarifas taikomas prekes tiekiant atvejais, nurodytais šio Įstatymo 4 straipsnio 1 dalies 2 punkte, – ir įrodymus, kad tenkinamos šio Įstatymo 4 straipsnio 1 dalies 2 punkte nurodytos sąlygos.“
 
-\#### 25 straipsnis. 58 straipsnio 1 dalies 2 punkto pakeitimas
+## 25 straipsnis. 58 straipsnio 1 dalies 2 punkto pakeitimas
 
 58 straipsnio 1 dalies 2 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
 „2) prekių tiekimui ir (arba) paslaugų teikimui už šalies teritorijos ribų tuo atveju, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje. Ši sąlyga netaikoma, jeigu už Europos Sąjungosteritorijos ribų suteiktos draudimo ir (arba) šio Įstatymo 28 straipsnio 1–5 dalyse nurodytos finansinės paslaugos.“
 
-\#### 26 straipsnis. 71 straipsnio 11 dalies pakeitimas
+## 26 straipsnis. 71 straipsnio 11 dalies pakeitimas
 
 71 straipsnio 11 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip:
 
 „11. Už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo ar apmokestinamasis asmuo, per padalinį, esantį už Europos Sąjungosteritorijos ribų, šalies teritorijoje elektroniniu būdu teikiantis paslaugas asmenims, kurie nėra apmokestinamieji asmenys, ir jau įsiregistravęs PVM mokėtoju kurioje nors valstybėje narėje pagal tos valstybės narės teisės aktų nuostatas, iš esmės tolygias šio Įstatymo XII skyriaus penktojo skirsnio nuostatoms, registruotis PVM mokėtoju Lietuvos Respublikoje neprivalo, tačiau tik tuo atveju, jeigu jo prievolė registruotis PVM mokėtoju atsiranda vien dėl tokių paslaugų teikimo.“
 
-\#### 27 straipsnis. 711 straipsnio 1 dalies pakeitimas ir 9 dalies pripažinimas netekusia galios
+## 27 straipsnis. 711 straipsnio 1 dalies pakeitimas ir 9 dalies pripažinimas netekusia galios
 
 1. Pakeisti 711 straipsnio 1 dalies pirmąją pastraipą ir ją išdėstyti taip:
 
@@ -362,7 +362,7 @@ Taikant 0 procentų PVM tarifą apmokestinamos kilnojamųjų daiktų aptarnavimo
 
 2. 711 straipsnio 9 dalį pripažinti netekusia galios.
 
-\#### 28 straipsnis. 75 straipsnio 1 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 28 straipsnis. 75 straipsnio 1 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 75 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -370,25 +370,25 @@ Taikant 0 procentų PVM tarifą apmokestinamos kilnojamųjų daiktų aptarnavimo
 
 2. 75 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 29 straipsnis. 83 straipsnio 1 dalies pakeitimas
+## 29 straipsnis. 83 straipsnio 1 dalies pakeitimas
 
 83 straipsnio 1 dalyje vietoj žodžių „prekių grąžinimas ar paslaugų atsisakymas“ įrašyti žodžius „minėtų aplinkybių pasikeitimas“ ir šią dalį išdėstyti taip:
 
 „1. Jeigu po prekių tiekimo arba paslaugų teikimo įforminimo keičiasi tiekiamų prekių arba teikiamų paslaugų apmokestinamoji vertė ir (arba) kiekis, suteikiamos įvairios nuolaidos, prekės (ar jų dalis) grąžinamos, prekių (ar jų dalies) arba paslaugų atsisakoma ar dėl kokių nors kitų priežasčių keičiasi pirkėjo (kliento) mokėtinas atlygis, kreditinį dokumentą, kuriuo įforminami minėtų aplinkybių pasikeitimai, privalo išrašyti asmuo, kuris išrašė pradinį prekių tiekimą arba paslaugų teikimą įforminantį apskaitos dokumentą. Šalių susitarimu minėtų aplinkybių pasikeitimas gali būti įformintas ne prekių tiekėjo ar paslaugų teikėjo išrašomu kreditiniu dokumentu, o pirkėjo (kliento) išrašomu debetiniu dokumentu, jeigu pirkėjas (klientas) yra PVM mokėtojas.“
 
-\#### 30 straipsnis. 92 straipsnio papildymas 10 dalimi
+## 30 straipsnis. 92 straipsnio papildymas 10 dalimi
 
 Papildyti 92 straipsnį 10 dalimi:
 
 „10. Paslaugų pirkėjas, kuris nėra PVM mokėtojas, bet privalo apskaičiuoti ir sumokėti PVM į biudžetą pagal šio Įstatymo 95 straipsnio 2 dalies nuostatas, PVM privalo sumokėti šio straipsnio 3 dalyje nustatyta tvarka.“
 
-\#### 31 straipsnis. 95 straipsnio 3 dalies 1 punkto pakeitimas
+## 31 straipsnis. 95 straipsnio 3 dalies 1 punkto pakeitimas
 
 Pakeisti 95 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) dujas, elektros energiją, šilumos ar vėsumos energiją, nurodytas šio Įstatymo 12 straipsnio 6 dalyje;“.
 
-\#### 32 straipsnis. 98 straipsnio 5 dalies pakeitimas
+## 32 straipsnis. 98 straipsnio 5 dalies pakeitimas
 
 98 straipsnio 5 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip:
 
@@ -400,7 +400,7 @@ Pakeisti 95 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 3) žemės ūkio paslaugas, suteiktas kitos valstybės narės apmokestinamajam asmeniui arba apmokestinamajam asmeniui, įsikūrusiam už Europos Sąjungos teritorijos ribų, jeigu šios paslaugos naudojamos veiklai už šalies teritorijos ribų, kuriai, jeigu ji būtų vykdoma Lietuvoje, tenkantis pirkimo (importo) PVM galėtų būti atskaitomas, ir (arba) veiklai, apmokestinamai taikant 0 procentų PVM tarifą pagal šio Įstatymo VI skyriaus nuostatas, ir (arba) teikiant paslaugas valstybėje narėje, kurioje įsikūręs jų pirkėjas, jeigu šis pirkėjas privalo už šias paslaugas apskaičiuoti ir sumokėti PVM.“
 
-\#### 33 straipsnis. 101 straipsnio papildymas
+## 33 straipsnis. 101 straipsnio papildymas
 
 Papildyti 101 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -414,7 +414,7 @@ Papildyti 101 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2) yra užsienio apmokestinamasis asmuo, teikiantis paslaugą per savo padalinį šalies teritorijoje.“
 
-\#### 34 straipsnis. 104 straipsnio pakeitimas
+## 34 straipsnis. 104 straipsnio pakeitimas
 
 104 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -422,7 +422,7 @@ Papildyti 101 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų PVM tarifą, kai kelionės organizatorius iš trečiųjų asmenų įsigyja ir galutiniam vartotojui teikia turizmo paslaugas, kurias šie tretieji asmenys teikia už Europos Sąjungos teritorijos ribų. Jeigu kelionės organizatorius iš trečiųjų asmenų įsigyja ir galutiniam vartotojui teikia paslaugas, kurių dalį šie tretieji asmenys teikia už Europos Sąjungosteritorijos ribų, 0 procentų PVM tarifas taikomas tik šiai paslaugų daliai.“
 
-\#### 35 straipsnis. 106 straipsnio 2 dalies pakeitimas
+## 35 straipsnis. 106 straipsnio 2 dalies pakeitimas
 
 106 straipsnio 2 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip:
 
@@ -434,7 +434,7 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 3) kai tiekiami iš apmokestinamųjų asmenų (asmenų, kuriems netaikoma ši speciali apmokestinimo schema) įsigyti meno kūriniai, kuriuos šie asmenys tiekdami buvo apskaičiavę PVM taikydami bet kurioje valstybėje narėje meno kūriniams nustatytą sumažintą PVM tarifą.“
 
-\#### 36 straipsnis. 1151 straipsnio pakeitimas
+## 36 straipsnis. 1151 straipsnio pakeitimas
 
 115^1 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -452,13 +452,13 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 4) PVM deklaracija laikoma centrinio mokesčio administratoriaus nustatytos formos deklaracija, kurioje deklaruojama atskirai kiekvienoje paslaugų teikimo valstybėje narėje per ataskaitinį laikotarpį elektroniniu būdu suteiktų paslaugų vertė (be PVM) bei mokėtinas PVM (taikant atitinkamoje paslaugų teikimo valstybėje narėje šioms paslaugoms nustatytą PVM tarifą).“
 
-\#### 37 straipsnis. 1152 straipsnio 1 dalies pakeitimas
+## 37 straipsnis. 1152 straipsnio 1 dalies pakeitimas
 
 115^2 straipsnio 1 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip:
 
 „1. Apmokestinamieji asmenys, įsikūrę už Europos Sąjungos teritorijos ribų ir Europos Sąjungos teritorijoje elektroniniu būdu teikiantys paslaugas, nusprendę pasirinkti registravimosi valstybe nare Lietuvos Respubliką, registruojami ir išregistruojami, taip pat registracijos numeris jiems suteikiamas centrinio mokesčio administratoriaus nustatyta tvarka.“
 
-\#### 38 straipsnis. 1153 straipsnio pakeitimas
+## 38 straipsnis. 1153 straipsnio pakeitimas
 
 115^3 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -470,7 +470,7 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 3. Apmokestinamojo asmens, kuriam taikomos šio skirsnio nuostatos, sumokėtas PVM yra finansų ministro nustatyta tvarka paskirstomas valstybėms narėms, kurių teritorijoje šis asmuo teikė paslaugas.“
 
-\#### 39 straipsnis. 1155 straipsnio pakeitimas
+## 39 straipsnis. 1155 straipsnio pakeitimas
 
 115^5 straipsnyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -486,13 +486,13 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 4) nuolat pažeidinėja šio skirsnio nuostatas.“
 
-\#### 40 straipsnis. 116 straipsnio 2 dalies 1 punkto pakeitimas
+## 40 straipsnis. 116 straipsnio 2 dalies 1 punkto pakeitimas
 
 116 straipsnio 2 dalies 1 punkte vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šį punktą išdėstyti taip:
 
 „1) už Europos Sąjungos teritorijos ribų įsikūrusiems apmokestinamiesiems asmenims, kuriems taikomos šio Įstatymo XII skyriaus penktojo skirsnio nuostatos ar bet kurios kitos valstybės narės tolygios nuostatos ir kurie pageidauja susigrąžinti Lietuvos Respublikoje sumokėtą PVM už prekes (paslaugas), skirtas paslaugoms teikti elektroniniu būdu Europos Sąjungosteritorijoje;“.
 
-\#### 41 straipsnis. 118 straipsnio 1 dalies 1 punkto, 5 dalies ir 6 dalies 3 punkto pakeitimas
+## 41 straipsnis. 118 straipsnio 1 dalies 1 punkto, 5 dalies ir 6 dalies 3 punkto pakeitimas
 
 1. 118 straipsnio 1 dalies 1 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
@@ -506,7 +506,7 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 „3) jeigu prekėms, išgabenamoms iš Europos Sąjungosteritorijos pirkėjo ar jo užsakymu kito asmens, galėjo būti pritaikytos šio Įstatymo 41 straipsnio 2 dalies nuostatos.“
 
-\#### 42 straipsnis. 120 straipsnio pakeitimas
+## 42 straipsnis. 120 straipsnio pakeitimas
 
 120 straipsnyje vietoj žodžių „Bendrijos“ ir „Europos Bendrijų“ įrašyti žodžius „Europos Sąjungos“ ir šį straipsnį išdėstyti taip:
 
@@ -524,7 +524,7 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 6. Mokestinių prievolių, galinčių atsirasti dėl įvežtų į Europos Sąjungos teritoriją ne Europos Sąjungos prekių, kurios nėra išleistos laisvai cirkuliuoti, taip pat dėl iš trečiųjų teritorijų įvežtų prekių, įvykdymas užtikrinamas ta pačia tvarka, kaip yra užtikrinami įsipareigojimai, susiję su galinčia atsirasti importo muitų skola.“
 
-\#### 43 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
+## 43 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
 
 1. Įstatymo 2 priedo 1 punktą pripažinti netekusiu galios.
 
@@ -546,13 +546,13 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 
 „16. 2009 m. gruodžio 22 d. Tarybos direktyva 2009/162/ES, iš dalies keičianti Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos įvairias nuostatas (OL 2010 L 10, p. 14).“
 
-\#### 44 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 44 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šio įstatymo 1 straipsnio 1 ir 3 dalys, 3 straipsnio 2 dalis, 4 straipsnis, 5 straipsnio 2 dalis, 8 straipsnio 4, 8 ir 9 dalys, 11 straipsnio 3 dalis, 12 straipsnis, 13 straipsnis, 14 straipsnio 2 dalis, 19 straipsnis, 27 straipsnis, 28 straipsnis, 29 straipsnis, 30 straipsnis, 31 straipsnis ir 43 straipsnis įsigalioja 2011 m. sausio 1 d.
 
 2. Šio įstatymo 11 straipsnio 1 dalyje išdėstytos Pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto nuostatos taikomos iki 2011 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms.
 
-\#### 45 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 45 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2010 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

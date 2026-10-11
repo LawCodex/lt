@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/145581d2570011f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.145581D25700.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 383, 589 straipsnių ir priedo pakeitimo, 384 straipsnio pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 383, 589 STRAIPSNIŲ IR PRIEDO PAKEITIMO,
 
 Vilnius
 
-\#### 1 straipsnis. 383 straipsnio pakeitimas
+## 1 straipsnis. 383 straipsnio pakeitimas
 
 Pakeisti 383 straipsnį ir jį išdėstyti taip:
 
@@ -36,17 +36,17 @@ Reglamente [(ES) 2021/782](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=C
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.“
 
-\#### 2 straipsnis. 384 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 384 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 384 straipsnį.
 
-\#### 3 straipsnis. 589 straipsnio pakeitimas
+## 3 straipsnis. 589 straipsnio pakeitimas
 
 Pakeisti 589 straipsnio 63 punktą ir jį išdėstyti taip:
 
 „63) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370^1, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 401^1, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2, 3, 4 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449^1, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 4 straipsnis. Kodekso priedo pakeitimas
+## 4 straipsnis. Kodekso priedo pakeitimas
 
 1. Pripažinti netekusiu galios Kodekso priedo 31 punktą.
 

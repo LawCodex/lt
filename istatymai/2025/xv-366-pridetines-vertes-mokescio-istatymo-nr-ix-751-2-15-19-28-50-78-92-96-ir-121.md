@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3b01cb90535e11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3B01CB90535E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 15, 19, 28, 50, 78, 92, 96 ir 121 straipsnių pakeitimo įstatymas
@@ -26,25 +26,25 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO NR. IX-751 2, 15, 19, 28, 50, 78, 92, 9
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 20 dalį ir ją išdėstyti taip:
 
 „20. **Pastato (statinio) esminis pagerinimas** – statinio kapitalinis remontas ar statinio rekonstravimas, kaip jie apibrėžiami Lietuvos Respublikos statybos įstatyme.“
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas
+## 2 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 21 dalį ir ją išdėstyti taip:
 
 „21. Kitais, negu nurodyta šio straipsnio 20 dalyje, atvejais, kai apmokestinamoji vertė yra nurodyta ne eurais, apmokestinamoji vertė perskaičiuojama į eurus taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos finansinės apskaitos įstatymą apmokestinimo momentu, o jeigu dėl šio Įstatymo 83 straipsnyje nurodytų aplinkybių keičiasi pirkėjo mokėtinas atlygis ir neįmanoma nustatyti, kurio apskaitos dokumento duomenys tikslinami, – tų aplinkybių įforminimo dieną.“
 
-\#### 3 straipsnis. 19 straipsnio pakeitimas
+## 3 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) asmenų su negalia techninės pagalbos priemonėms ir jų remontui;“.
 
-\#### 4 straipsnis. 28 straipsnio pakeitimas
+## 4 straipsnis. 28 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 28 straipsnio 8 dalį.
 
@@ -52,7 +52,7 @@ Pakeisti 19 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „9. Vien administracinio, fizinio, techninio ar panašaus pobūdžio paslaugų teikimas, nesukeliantis su šiame straipsnyje nurodytomis finansinėmis paslaugomis susijusio sandorio šalių teisinės ir finansinės padėties pokyčio, nelaikomas šiame straipsnyje nurodytų finansinių paslaugų, kurioms taikomos šio straipsnio 3–5 dalių nuostatos dėl neapmokestinimo PVM, teikimu.“
 
-\#### 5 straipsnis. 50 straipsnio pakeitimas
+## 5 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio nuostatos įgyvendinamos leidžiant atskaityti pirkimo ir (arba) importo PVM ir (arba) grąžinant PVM sumas, sumokėtas už įsigytas ir išgabentas iš Europos Sąjungos teritorijos prekes. Šių nuostatų taikymo tvarką nustato finansų ministras.“
 
-\#### 6 straipsnis. 78 straipsnio pakeitimas
+## 6 straipsnis. 78 straipsnio pakeitimas
 
 1. Pakeisti 78 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -74,25 +74,25 @@ Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
 „8. Juridiniai asmenys, kurie nėra apmokestinamieji asmenys, įsigyjantys prekes ar paslaugas iš kitų valstybių narių, fiziniai asmenys, kurie nėra apmokestinamieji asmenys, įsigyjantys naujas transporto priemones iš kitų valstybių narių, taip pat juridiniai ir fiziniai asmenys, kurie nėra apmokestinamieji asmenys, į kitas valstybes nares tiekiantys naujas transporto priemones, privalo saugoti su tuo susijusias PVM sąskaitas faktūras 10 metų nuo jų išrašymo dienos.“
 
-\#### 7 straipsnis. 92 straipsnio pakeitimas
+## 7 straipsnis. 92 straipsnio pakeitimas
 
 Pakeisti 92 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Už šio straipsnio 1 dalyje nurodytų apmokestinamųjų asmenų tiekiamas prekes ir (arba) teikiamas paslaugas šio straipsnio 1 dalyje nustatyta tvarka apskaičiuota PVM suma turibūti išskiriama apskaitos dokumentuose, kuriais įforminamas šių prekių tiekimas ir (arba) paslaugų teikimas.“
 
-\#### 8 straipsnis. 96 straipsnio pakeitimas
+## 8 straipsnis. 96 straipsnio pakeitimas
 
 Pakeisti 96 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) PVM, apskaičiuotą už šio Įstatymo 7 straipsnio 4 punkte numatytus statybos darbus, kaip jie apibrėžiami Statybosįstatymo 2 straipsnio 90 dalyje, t. y. apmokestinamasis asmuo PVM mokėtojas, kurio užsakymu atliekami statybos darbai;“.
 
-\#### 9 straipsnis. 121 straipsnio pakeitimas
+## 9 straipsnis. 121 straipsnio pakeitimas
 
 Pakeisti 121 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Prievolė mokėti importo PVM muitinei *mutatis mutandis* išnyksta Sąjungos muitinės kodekso 124 straipsnio 1 dalies d, f ir gpunktuose nustatytais atvejais. Už importuojamas prekes sumokėtas PVM grąžinamas arba atsisakoma jį išieškoti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais. Sprendimai dėl pateiktų prašymų grąžinti sumokėtą importo PVM arba atsisakyti jį išieškoti priimami vadovaujantis Lietuvos Respublikos muitinės įstatymo VIII skyriaus nuostatomis.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 9 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

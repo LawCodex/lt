@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/14bbc1a04dd411f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.14BBC1A04DD4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO NR. IX-751 19 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 19 straipsnio pakeitimas
+## 1 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „4) spausdintoms ir elektroninėms knygoms bei spausdintiems ir elektroniniams neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius). Šio punkto nuostatos netaikomos leidiniams, kuriuose reklama sudaro daugiau kaip 4/5 viso leidinio arba kurių visą ar didžiąją dalį sudaro muzikos ar vaizdo turinys.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

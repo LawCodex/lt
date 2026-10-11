@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CF38D543B3BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CF38D543B3BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 2, 8, 12, 15, 16, 18, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2001, Nr. 35-1163, Nr. 71-2518, Nr. 108-3904)
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies 5 punkto ir 3 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies 5 punkto ir 3 dalies pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -40,17 +40,17 @@ Vilnius
 
 „3. Šio straipsnio 1 dalyje nurodyti piliečiai teisę atkurti nuosavybės teises į išlikusį nekilnojamąjį turtąiki 2001 m. gruodžio 31 d. gali perleisti notariškai patvirtinta sutartimi savo vaikams (įvaikiams), tėvams (įtėviams), sutuoktiniui bei vaikaičiams, jeigu šie yra Lietuvos Respublikos piliečiai. Neatsižvelgiant į piliečių, kurie pagal sutartį dėl teisės perleidimo įgijo teisę atkurti nuosavybės teises į miesto žemę, skaičių, šios teisės jiems atkuriamos tokiomis pat sąlygomis ir tvarka, kaip jos būtų atkuriamos šių teisių perleidėjui.“
 
-\#### 2 straipsnis. 8 straipsnio 5 dalies pripažinimas netekusia galios
+## 2 straipsnis. 8 straipsnio 5 dalies pripažinimas netekusia galios
 
 8 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 12 straipsnio papildymas 13 punktu
+## 3 straipsnis. 12 straipsnio papildymas 13 punktu
 
 Papildyti 12 straipsnį 13 punktu:
 
 „13) užimta gyvenamųjų namų, kurie pagal šio įstatymo 15 straipsnio 2 dalies 2 ir 3 punktus priskirti valstybės išperkamiems, ir jų valdų.“
 
-\#### 4 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 3) juose gyvena nuomininkai, negalėję įgyvendinti savo teisės juos privatizuoti, kai piliečiams yra grąžintos natūra gyvenamųjų namų dalys, kuriose jie gyvena, arba jie yra įgiję nuosavybės teise privatizuojamų patalpų pagal Butų privatizavimo įstatymą.“
 
-\#### 5 straipsnis. 16 straipsnio 10 dalies papildymas
+## 5 straipsnis. 16 straipsnio 10 dalies papildymas
 
 16 straipsnio 10 dalyje po žodžio „piliečiams“ įrašyti žodžius „teisingai kompensuodama atskaičius jų pagerinimo ir pertvarkymo išlaidas“ ir šią dalį išdėstyti taip:
 
@@ -90,11 +90,11 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 7) pinigais ir (ar) vertybiniais popieriais.“
 
-\#### 6 straipsnis. 18 straipsnio 4 dalies pripažinimas netekusia galios
+## 6 straipsnis. 18 straipsnio 4 dalies pripažinimas netekusia galios
 
 18 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 7 straipsnis. 20 straipsnio pakeitimas
+## 7 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti20 straipsnio pavadinimą ir 1 dalį, 2, 3, 4 dalis pripažinti netekusiomis galios, buvusią 5 dalį laikyti 2 dalimi, ją pakeisti – išbraukti žodžius „Civilinio kodekso 125 straipsnyje nustatyta tvarka ir sąlygomis“, 6 ir 7 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti20 straipsnio pavadinimą ir 1 dalį, 2, 3, 4 dalis pripažinti netekusi
 
 2. Jeigu gyvenamojo namo savininkas parduoda sugrąžintą gyvenamąjį namą, jo dalį, butą, nuomininkai turi pirmenybės teisę jį pirkti.“
 
-\#### 8 straipsnis. 21 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas
+## 8 straipsnis. 21 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies pakeitimas
 
 1. 21 straipsnio 2 dalį pripažinti netekusia galios.
 
@@ -112,7 +112,7 @@ Pakeisti20 straipsnio pavadinimą ir 1 dalį, 2, 3, 4 dalis pripažinti netekusi
 
 „3. Pilietis iki 2002 m. liepos 1 d. gali pakeisti savo pareikštą valią dėl būdo, kuriuo valstybė atlygina už išperkamą nekilnojamąjį turtą, jeigu nepriimtas sprendimas dėl nuosavybės teisių atkūrimo. Jeigu sprendimas priimtas, bet nepradėtas vykdyti, jis šio įstatymo 17 straipsnyje numatytų institucijų, piliečiui paprašius, pakeičiamas administracine tvarka, o jei sprendimas pradėtas vykdyti, jis gali būti panaikinamas Vyriausybės nustatyta tvarka. Prašymus dėl priimtų sprendimų pakeitimo ar panaikinimo piliečiai turi pateikti iki 2002 m. liepos 1 d.“
 
-\#### 9 straipsnis. Pasiūlymai Vyriausybei
+## 9 straipsnis. Pasiūlymai Vyriausybei
 
 Vyriausybė:
 

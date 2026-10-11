@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.766F69D3E8D2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.766F69D3E8D2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 17, 19, 20, 33, 44, 45, 50 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6), Nr. [61-1527](https://www.e-tar.lt/portal/lt/legalAct/TAR.9761FC251F63); 1996, Nr. [8-195](https://www.e-tar.lt/portal/lt/legalAct/TAR.8E13ADB62DC6), Nr. [53-1247](https://www.e-tar.lt/portal/lt/legalAct/TAR.2BF2C93368EB))
 
-\#### 1 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+## 1 straipsnis. 12 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „Leidimų gaminti alkoholio produktus išdavimo, perregistravimo ir atšaukimo sąlygas bei tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas
+## 2 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 1, 4, 7 dalis, pripažinti netekusiomis galios 2 bei 3 dalis ir visą straipsnį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Leidimuose importuoti alkoholio produktus įrašomos leidžiamų importuoti alko
 
 Leidimų importuoti alkoholio produktus išdavimo, perregistravimo ir atšaukimo sąlygas bei tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Leidimai importuoti alkoholio produktus neišduodami naujai įsteigtoms įmonėms, jeigu jų steigėjai (akcininkai) arba administracijos vadovai yra įmonių, kurioms buvo panaikintas leidimų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai (akcininkai, kurių turimų akcijų nominali vertė didesnė kaip 1/10 įstatinio kapitalo).“
 
-\#### 3 straipsnis. 19 straipsnio pakeitimas
+## 3 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 1, 3, 6, 8 dalis, pripažinti netekusiomis galios 4 bei 5 dalis ir visą straipsnį išdėstyti taip:
 
@@ -72,13 +72,13 @@ Mažmeninės prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įm
 
 Leidimų įmonėms užsiimti vidaus prekyba alkoholio produktais išdavimo, perregistravimo bei atšaukimo tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei Įmonių įstatymu, taip pat prekybos alkoholio produktais tvarką nustato Lietuvos Respublikos Vyriausybė. Leidimai užsiimti vidaus prekyba alkoholio produktais neišduodami naujai įsteigtoms įmonėms, jeigu jų steigėjai yra įmonių, kurioms buvo panaikintas leidimų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai.“
 
-\#### 4 straipsnis. 20 straipsnio 1 dalies 3 punkto pakeitimas
+## 4 straipsnis. 20 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 20 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) alkoholinius gėrimus (išskyrus alų) be nustatyto specialaus ženklinimo, taip pat tuos importuotus alkoholinius gėrimus, kurių ženklinimas neturi įmonės, turinčios importo ir didmeninės prekybos alkoholiniais gėrimais teisę, papildomos specialios žymos.“
 
-\#### 5 straipsnis. 33 straipsnio pakeitimas
+## 5 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 Žyminio mokesčio už leidimų gaminti, importuoti, prekiauti alkoholio produktais išdavimą ir perregistravimą tarifai diferencijuojami atsižvelgiant į nustatytas alkoholinių gėrimų rūšis, jų grupes, prekybos alkoholiniais gėrimais laiką ir kitas šio įstatymo nustatytas sąlygas.“
 
-\#### 6 straipsnis. 44 straipsnio papildymas 10, 11 ir 12 dalimis
+## 6 straipsnis. 44 straipsnio papildymas 10, 11 ir 12 dalimis
 
 Papildyti 44 straipsnį 10, 11 ir 12 dalimis:
 
@@ -96,13 +96,13 @@ Papildyti 44 straipsnį 10, 11 ir 12 dalimis:
 
 Leidimų panaikinimas neatleidžia įmonių nuo šio straipsnio 2, 3 ir 4 dalyse nurodytų ir įmonėms skirtų piniginių baudų sumokėjimo.“
 
-\#### 7 straipsnis. 45 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 45 straipsnio 2 dalies pakeitimas
 
 45 straipsnio 2 dalyje vietoj žodžių „šio įstatymo 44 straipsnio pirmojoje dalyje nurodytų institucijų sąskaitas banke“ įrašyti žodžius „valstybės biudžetą“ ir šią dalį išdėstyti taip:
 
 „Piniginė bauda turi būti sumokama į valstybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kurią šio įstatymo pažeidėjams įteiktas nutarimas paskirti baudą.“
 
-\#### 8 straipsnis. 50 straipsnio pakeitimas
+## 8 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnį ir jį išdėstyti taip:
 

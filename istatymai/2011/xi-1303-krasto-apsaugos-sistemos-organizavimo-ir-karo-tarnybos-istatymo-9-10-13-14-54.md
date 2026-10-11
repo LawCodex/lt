@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C1265FF45A5B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C1265FF45A5B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 13, 14, 54, 57 straipsnių pakeitimo ir papildymo ir 15 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [92-2858](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD36F0ABFB35); 2002, Nr. [102-4550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA5CC14EC47); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. 91(1)-4106; 2004, Nr. 169-6215; 2005, Nr. 143-5183; 2006, Nr. 72-2679; 2008, Nr. 38-1377; 2009, Nr. 29-1142, Nr. 95-4035; 2010, Nr. 63-3099)
 
-\#### 1 straipsnis. 9 straipsnio 1, 2 dalių pakeitimas ir straipsnio papildymas 6, 7, 8 dalimis
+## 1 straipsnis. 9 straipsnio 1, 2 dalių pakeitimas ir straipsnio papildymas 6, 7, 8 dalimis
 
 1. 9 straipsnio 1 dalyje vietoj žodžių ir skaičiaus „šio įstatymo 15“ įrašyti žodį „šis“ ir šią dalį išdėstyti taip:
 
@@ -56,13 +56,13 @@ Vilnius
 
 5) atlieka kitas krašto apsaugos ministro ar Lietuvos kariuomenės vado pavestas funkcijas.“
 
-\#### 2 straipsnis. 10 straipsnio 2 dalies 15 punkto pakeitimas
+## 2 straipsnis. 10 straipsnio 2 dalies 15 punkto pakeitimas
 
 10 straipsnio 2 dalies 15 punkte vietoj žodžių „Gynybos štabo viršininką“ įrašyti žodžius „pajėgumų ir ginkluotės generalinį direktorių“ ir šį punktą išdėstyti taip:
 
 „15) skiria į pareigas ir iš jų atleidžia krašto apsaugos generalinį inspektorių ir Generolo Jono Žemaičio Lietuvos karo akademijos viršininką, kariuomenės vado teikimu skiria į pareigas ir iš jų atleidžia pajėgumų ir ginkluotės generalinį direktorių, Jungtinio štabo viršininką, kariuomenės pajėgų rūšių vadus, krašto apsaugos savanorių pajėgų vadą, teisės aktų nustatyta tvarka skiria į pareigas ir iš jų atleidžia karinius atstovus ir specialiuosius atašė bei jų pavaduotojus ir padėjėjus, taip pat tvirtina šiame punkte nurodytų pareigybių nuostatus (aprašus);“.
 
-\#### 3 straipsnis. 13 straipsnio 8 ir 10 dalių pakeitimas
+## 3 straipsnis. 13 straipsnio 8 ir 10 dalių pakeitimas
 
 1. Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -72,23 +72,23 @@ Vilnius
 
 „10. Kai kariuomenės vado nėra arba jis laikinai negali vykdyti pareigų, krašto apsaugos ministro įsakymu jį pavaduoja kitas karininkas, turintis generolo (admirolo) laipsnį.“
 
-\#### 4 straipsnis. 14 straipsnio 8 dalies pakeitimas
+## 4 straipsnis. 14 straipsnio 8 dalies pakeitimas
 
 Pakeisti 14 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Jungtinio štabo viršininkas yra atsakingas už operacinį vadovavimą jam pavestoms pajėgoms ir efektyvų karinių operacijų įvykdymą. Jis taip pat organizuoja valstybės ginkluotos gynybos planų rengimą ir teikia šiuos planus kariuomenės vadui.“
 
-\#### 5 straipsnis. 15 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 15 straipsnio pripažinimas netekusiu galios
 
 15 straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 54 straipsnio 8 dalies pakeitimas
+## 6 straipsnis. 54 straipsnio 8 dalies pakeitimas
 
 54 straipsnio 8 dalyje vietoj žodžių „Gynybos štabo viršininku“ įrašyti žodžius „pajėgumų ir ginkluotės generaliniu direktoriumi“ ir šią dalį išdėstyti taip:
 
 „8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 3 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį pajėgumų ir ginkluotės generaliniu direktoriumi, Jungtinio štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.“
 
-\#### 7 straipsnis. 57 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 57 straipsnio 1 dalies pakeitimas
 
 Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
 

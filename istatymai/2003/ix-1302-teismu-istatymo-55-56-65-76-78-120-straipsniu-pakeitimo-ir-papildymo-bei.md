@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A12152C040BC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A12152C040BC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 55, 56, 65, 76, 78, 120 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55(1) ir 69(1) straipsniais įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 2002, Nr. [17-649](https://www.e-tar.lt/portal/lt/legalAct/TAR.390AEF086CE3))
 
-\#### 1 straipsnis. 55 straipsnio 3 dalies papildymas
+## 1 straipsnis. 55 straipsnio 3 dalies papildymas
 
 Papildyti 55 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašas pateikiamas Respublikos Prezidentui, Teismų tarybai ir Atrankos komisijai.“
 
-\#### 2 straipsnis. Įstatymo papildymas 551 straipsniu
+## 2 straipsnis. Įstatymo papildymas 551 straipsniu
 
 Papildyti Įstatymą 55^1straipsniu:
 
@@ -52,19 +52,19 @@ Papildyti Įstatymą 55^1straipsniu:
 
 6. Atrankos komisijos išvados dėl pretendentų į teisėjus Respublikos Prezidento nesaisto.“
 
-\#### 3 straipsnis. 56 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 56 straipsnio 3 dalies pakeitimas
 
 Pakeisti 56 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Respublikos Prezidentas, gavęs Atrankos komisijos išvadą dėl pretendentų į teisėjus, ne vėliau kaip per 30 dienų pateikia Teismų tarybai svarstyti konkrečias kandidatūras, prašydamas Teismų tarybos patarimo.“
 
-\#### 4 straipsnis. 65 straipsnio 4 dalies papildymas
+## 4 straipsnis. 65 straipsnio 4 dalies papildymas
 
 Papildyti 65 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Nacionalinė teismų administracija duomenis apie į teisėjų karjeros siekiančių asmenų registrą įrašytus asmenis perduoda Atrankos komisijai, Respublikos Prezidentui ir Teismų tarybai.“
 
-\#### 5 straipsnis. Įstatymo papildymas 691 straipsniu
+## 5 straipsnis. Įstatymo papildymas 691 straipsniu
 
 Papildyti Įstatymą 69^1straipsniu:
 
@@ -76,7 +76,7 @@ Papildyti Įstatymą 69^1straipsniu:
 
 3. Teisėjų karjeros siekiančius asmenis atrenka šio Įstatymo 551 straipsnio 1 dalyje nurodyta Atrankos komisija. Teisėjų karjeros siekiančių asmenų atrankai taikomi šio Įstatymo 551 straipsnio 3 ir 4 dalyse nustatyti reikalavimai.“
 
-\#### 6 straipsnis. 76 straipsnio papildymas ir pakeitimas
+## 6 straipsnis. 76 straipsnio papildymas ir pakeitimas
 
 Papildyti 76 straipsnį nauja 1 dalimi, buvusią šio straipsnio 1 dalį laikyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Papildyti 76 straipsnį nauja 1 dalimi, buvusią šio straipsnio 1 dalį laikyti
 
 2. Kandidatūros į apylinkės teismo, apygardos administracinio teismo, apygardos teismo ir Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas svarstomos Teismų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.“
 
-\#### 7 straipsnis. 78 straipsnio papildymas ir pakeitimas
+## 7 straipsnis. 78 straipsnio papildymas ir pakeitimas
 
 Papildyti 78 straipsnį nauja 1 dalimi, buvusią šio straipsnio 1 dalį laikyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Papildyti 78 straipsnį nauja 1 dalimi, buvusią šio straipsnio 1 dalį laikyti
 
 2. Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas svarstomos Teismų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.“
 
-\#### 8 straipsnis. 120 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 120 straipsnio pakeitimas ir papildymas
 
 1. 120 straipsnio 8 punkte išbraukti žodžius „atrankos ir kitas“ ir šį punktą išdėstyti taip:
 
@@ -108,7 +108,7 @@ Papildyti 78 straipsnį nauja 1 dalimi, buvusią šio straipsnio 1 dalį laikyti
 
 3. Buvusius 120 straipsnio 13, 14, 15, 16, 17, 18, 19 punktus atitinkamai laikyti 14, 15, 16, 17, 18, 19, 20 punktais.
 
-\#### 9 straipsnis. Šio Įstatymo įgyvendinimas
+## 9 straipsnis. Šio Įstatymo įgyvendinimas
 
 1. Respublikos Prezidentas, Teismų tarybos pirmininkas, Seimo Pirmininkas ir teisingumo ministras Teismų įstatymo 551 straipsnio 1 dalyje numatytus Atrankos komisijos narius bei šios komisijos pirmininką paskiria ne vėliau kaip per 14 dienų nuo šio Įstatymo įsigaliojimo.
 

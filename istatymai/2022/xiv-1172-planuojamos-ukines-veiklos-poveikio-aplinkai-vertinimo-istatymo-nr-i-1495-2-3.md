@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/83f996f0fdf511ec8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.83F996F0FDF5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 10, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas
@@ -118,5 +118,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1624, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25401
 
 Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 10, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymo Nr. XIV-1172 7 straipsnio pakeitimo įstatymas
-
-part_121998c2f5d6473b848618f5c8e8d097_end

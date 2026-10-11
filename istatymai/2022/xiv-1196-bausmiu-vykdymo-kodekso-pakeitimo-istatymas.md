@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6d3310b0037a11edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6D3310B0037A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas
@@ -1668,5 +1668,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1771, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27431
 
 Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymo Nr. XIV-1196 1 straipsnio pakeitimo įstatymas
-
-part_215eda5083d7440f9d049625f91fe04c_end

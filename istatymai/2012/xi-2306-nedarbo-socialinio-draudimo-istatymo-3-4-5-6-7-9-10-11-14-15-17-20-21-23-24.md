@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CDAAAA34A391"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CDAAAA34A391.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 3, 4, 5, 6, 7, 9, 10, 11, 14, 15, 17, 20, 21, 23, 24 straipsnių pakeitimo ir papildymo bei 19 straipsnio pripažinimo netekusiu galios įstatymo 13 ir 17 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2009, Nr. [77-3170](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D547885A0F3))
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas
+## 1 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 3. Neteisingai apskaičiuotos ir išmokėtos nedarbo draudimo išmokos išieškomos įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. 17 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 17 straipsnio 3 dalies pakeitimas
 
 Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 

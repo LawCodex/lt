@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/cf794b4055c011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CF794B4055C0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 13, 99 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ FINANSINIO TVARUMO ĮSTATYMO NR. XI-393 2, 13, 99 STRAIPSNIŲ IR PRIEDO PAKEITIM
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 
 „21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Bankų įstatyme, Finansų įstaigų įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Reglamente [(ES) Nr. 575/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R0575&locale=lt), Reglamente [(ES) Nr. 806/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0806&locale=lt), Reglamente [(ES) Nr. 648/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0648&locale=lt) ir 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai [(EB) Nr. 1060/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R1060&locale=lt), [(ES) Nr. 648/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0648&locale=lt), [(ES) Nr. 600/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0600&locale=lt), [(ES) Nr. 909/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0909&locale=lt) ir [(ES) 2016/1011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R1011&locale=lt).“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 1. Pakeisti 13 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -42,13 +42,13 @@ Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 
 „17) svarbiausių operacijų ir sistemų, skirtų įstaigos veiklos procesų tęstinumui užtikrinti, įskaitant tinklų ir informacines sistemas, kaip nurodyta Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt), aprašas;“.
 
-\#### 3 straipsnis. 99 straipsnio pakeitimas
+## 3 straipsnis. 99 straipsnio pakeitimas
 
 Pakeisti 99 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) auditoriai, finansinę apskaitą tvarkantys asmenys, teisės konsultantai, vertintojai ir kiti ekspertai ar konsultantai, kuriuos tiesiogiai ar netiesiogiai pasitelkė pertvarkymo institucija, priežiūros institucija arba potencialūs įsigyjantieji asmenys, nurodyti šios dalies 5 punkte;“.
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 5 punktu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7935CAF173EF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7935CAF173EF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 27, 58 ir 60 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9); 2003, Nr. [38-1676](https://www.e-tar.lt/portal/lt/legalAct/TAR.15D704F79271); 2004, Nr. [170-6236](https://www.e-tar.lt/portal/lt/legalAct/TAR.810096E93D62))
 
-\#### 1 straipsnis. 27 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 27 straipsnio 1 dalies pakeitimas
 
 27 straipsnio 1 dalyje vietoj žodžių „invalidumo“ įrašyti žodžius „neįgalumo“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbančio diplomato šeimos nariai yra jo sutuoktinis, nepilnamečiai vaikai (įvaikiai), jei jie nėra įstatymų nustatyta tvarka emancipuoti ar sudarę santuokos, arba pilnamečiai vaikai iki 20 metų, jei jie su diplomatu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, ir išlaikytiniai (nesvarbu, koks jų amžius), gyvenantys kartu su diplomatu. Išlaikytiniais laikomi kartu su diplomatu gyvenantys nedarbingi dėl amžiaus ar neįgalumo asmenys, kurie buvo diplomato išlaikomi iki darbo Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje pradžios, taip pat pripažįstami išlaikytiniais ir tapę nedarbingi po to, kai diplomatas pradėjo dirbti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu su diplomatu gyvenantys pilnamečiai vaikai, kurie tapo nedarbingi dėl neįgalumo, ir tėvai, kurie tapo nedarbingi dėl amžiaus ar neįgalumo.“
 
-\#### 2 straipsnis. 58 straipsnio 2 dalies 2 punkto ir 6 dalies pakeitimas
+## 2 straipsnis. 58 straipsnio 2 dalies 2 punkto ir 6 dalies pakeitimas
 
 1. 58 straipsnio 2 dalies 2 punkte vietoj žodžio „invalidumas“ įrašyti žodį „neįgalumas“ ir šį punktą išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „6. Diplomatas (išskyrus Lietuvos Respublikos diplomatinį atstovą) turi teisę nutraukti diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį, apie tai įspėjęs Užsienio reikalų ministeriją ne vėliau kaip prieš 30 kalendorinių dienų. Įspėjimo terminui pasibaigus, diplomatas turi teisę nutraukti darbą, o Užsienio reikalų ministerija privalo įforminti sutarties nutraukimą. Jei sutartį prašoma nutraukti dėl diplomato ligos ar neįgalumo, trukdančio tinkamai atlikti darbą, sutartis turi būti nutraukta nuo diplomato prašyme nurodytos datos.“
 
-\#### 3 straipsnis. 60 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 60 straipsnio 1 dalies pakeitimas
 
 60 straipsnio 1 dalyje vietoj žodžio „invalidui“ įrašyti žodį „neįgaliajam“ ir šią dalį išdėstyti taip:
 

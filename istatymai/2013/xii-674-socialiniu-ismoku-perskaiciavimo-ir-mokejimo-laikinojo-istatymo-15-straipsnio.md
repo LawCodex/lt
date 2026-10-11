@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/cfb7bac089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CFB7BAC089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 15 straipsnio pakeitimo ir papildymo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2009, Nr. [152-6820](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=361054); 2010, Nr. [86-4534](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=377761); 2011, Nr. [160-7573](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=415503); 2012, Nr. [155-7985](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=440511))
 
-\#### 1 straipsnis. 15 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 15 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 

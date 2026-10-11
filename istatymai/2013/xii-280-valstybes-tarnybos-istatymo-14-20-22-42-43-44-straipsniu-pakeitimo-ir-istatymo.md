@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EBC9CCC89132"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EBC9CCC89132.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 14, 20, 22, 42, 43, 44 straipsnių pakeitimo ir įstatymo papildymo 18-2 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [123-5541](https://www.e-tar.lt/portal/lt/legalAct/TAR.77A336B3902C), Nr. [127-5750](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3898659EAFB); 2003, Nr. [17-705](https://www.e-tar.lt/portal/lt/legalAct/TAR.86426B5C8851), Nr. [38-1671](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B), Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610), Nr. [116-5258](https://www.e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9); 2004, Nr. [4-32](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA), Nr. [104-3827](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB72296AE71C), Nr. [116-4323](https://www.e-tar.lt/portal/lt/legalAct/TAR.519B021AB4AF), Nr. [163-5940](https://www.e-tar.lt/portal/lt/legalAct/TAR.A23B0D0DCEFB); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72), Nr. [72-2689](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE1C008B5565); 2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B); 2008, Nr. [143-5688](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13A2F50E71E); 2010, Nr. [67-3346](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB815B889DF9), Nr. [81-4230](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F4D4CDAFCE7); 2011, Nr. [57-2705](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AB5064352E6), Nr. [86-4153](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E4C4AAA272C); 2012, Nr. [44-2140](https://www.e-tar.lt/portal/lt/legalAct/TAR.D243E084DD95), Nr. [69-3523](https://www.e-tar.lt/portal/lt/legalAct/TAR.643A98ED3547), Nr. [143-7378](https://www.e-tar.lt/portal/lt/legalAct/TAR.119C511BB3D8))
 
-\#### 1 straipsnis. 14 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 14 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „4. Į pakaitinių karjeros valstybės tarnautojų pareigas priimti asmenys, turintys teisę atkurti karjeros valstybės tarnautojo ar įstaigos vadovo statusą, buvę karjeros valstybės tarnautojai ar įstaigų vadovai, atleisti iš pareigų pagal šio Įstatymo 44 straipsnio 1 dalies 5 punktą, dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), ir buvę pakaitiniai valstybės tarnautojai (išskyrus pakaitinius valstybės tarnautojus, kuriems suėjo 65 metai), pareigas nepertraukiamai ėję ne mažiau kaip dvejus metus ir atleisti iš pareigų dėl negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo arba atleidimo, pasibaigus šio straipsnio 2 dalyje nustatytiems terminams, nepraranda teisės šio Įstatymo 11 straipsnio 3 dalyje ir 13 straipsnio 3 dalyje nustatytais atvejais būti priimti į valstybės tarnautojo pareigas. Laikas, kai šie asmenys ėjo pakaitinių valstybės tarnautojų pareigas, neįskaičiuojamas į šio Įstatymo 16 straipsnio 2, 3 ir 5 dalyse bei 43 straipsnio 2 ir 3 dalyse nustatytus terminus.“
 
-\#### 2 straipsnis. Įstatymo papildymas 182 straipsniu
+## 2 straipsnis. Įstatymo papildymas 182 straipsniu
 
 Papildyti Įstatymą 18^2 straipsniu:
 
@@ -46,7 +46,7 @@ Papildyti Įstatymą 18^2 straipsniu:
 
 Politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar pakaitinio politinio (asmeninio) pasitikėjimo valstybės tarnautojo rašytiniu prašymu, suderintu su jį pasirinkusiu valstybės politiku ar kolegialia valstybės institucija, jis gali būti perkeltas į kitas politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar pakaitinio politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje į šias pareigas priimančio asmens sprendimu, jeigu pretendentas atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus.“
 
-\#### 3 straipsnis. 20 straipsnio pakeitimas
+## 3 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -64,19 +64,19 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 6. Valstybės tarnautojo perkėlimo tarnybinio kaitumo būdu į kitas valstybės tarnautojo pareigas tvarką nustato Vyriausybė.“
 
-\#### 4 straipsnis. 22 straipsnio 14 dalies 4 punkto pakeitimas
+## 4 straipsnis. 22 straipsnio 14 dalies 4 punkto pakeitimas
 
 22 straipsnio 14 dalies 4 punkte po žodžio „priedą“ įrašyti žodį „arba“ ir šį punktą išdėstyti taip:
 
 „4) įstaigos vadovui ar karjeros valstybės tarnautojui palikti turimą pirmą (aukščiausią) kvalifikacinę klasę ir skirti jam pareiginės algos dydžio vienkartinį priedą, arba“.
 
-\#### 5 straipsnis. 42 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 42 straipsnio 1 dalies pakeitimas
 
 42 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „2 dalį“ įrašyti skaičių ir žodį „3 dalį“ ir šią dalį išdėstyti taip:
 
 „1. Pagal šį Įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio Įstatymo 4 straipsnio 3 ir 4 dalyse, 5 dalies 1–4 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, iki jam sueis treji metai, atleidimo nuo tarnybinių pareigų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose pagal šio Įstatymo 16 straipsnio 1 dalies 8 punktą,perkėlimo į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijoje pagal šio Įstatymo 19 straipsnio 3 dalį, darbo tarptautinėje institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogos dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose,mokymosi atostogos, pagal šio Įstatymo 37, 38 ir 39 straipsnius suteiktų atostogų laikas ir ligos pašalpos gavimo laikotarpiai. Atsižvelgiant į tarnybos stažą, nustatomas šio Įstatymo 25 straipsnio 1 dalies 1 punkte nurodyto priedo dydis ir šio Įstatymo 36 straipsnio 2 dalyje nurodytų kasmetinių papildomų atostogų trukmė.“
 
-\#### 6 straipsnis. 43 straipsnio 2, 3 ir 5 dalių pakeitimas
+## 6 straipsnis. 43 straipsnio 2, 3 ir 5 dalių pakeitimas
 
 1. 43 straipsnio 2 dalyje po žodžių „dėl negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo“ įrašyti žodžius „arba atleidimo“ ir šią dalį išdėstyti taip:
 
@@ -108,13 +108,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 9) kai valstybės tarnautojai pagal šio Įstatymo 19 straipsnio 3 dalį yra laikinai perkelti į pareigas tarptautinėse institucijose ar užsienio valstybių institucijose. Nustatytas darbo užmokestis valstybės tarnautojui nemokamas, jeigu darbo užmokestį jam moka institucija, įstaiga ar organizacija, į kurią eiti pareigas jis perkeltas.“
 
-\#### 7 straipsnis. 44 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 44 straipsnio 2 dalies pakeitimas
 
 Pakeisti 44 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Valstybės tarnautojas, dėl laikinojo nedarbingumo nedirbantis ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jį į pareigas priėmusio asmens sprendimu gali būti atleistas iš pareigų. Į šiuos laikotarpius neįskaitomas laikas, per kurį valstybės tarnautojas gavo ligos socialinio draudimo pašalpą sergantiems šeimos nariams slaugyti bei ligos pašalpą dėl užkrečiamųjų ligų protrūkių arba epidemijų nušalintiems nuo darbo. Valstybės tarnautojams, netekusiems darbingumo dėl sužalojimo darbe arba profesinės ligos, darbo vieta ir pareigos paliekamos, kol bus atgautas darbingumas arba nustatytas darbingumo lygis.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 1 straipsnio 2 dalį, 6 straipsnio 2 dalį ir šio straipsnio 2 ir 3 dalis, įsigalioja 2013 m. birželio 1 d.
 

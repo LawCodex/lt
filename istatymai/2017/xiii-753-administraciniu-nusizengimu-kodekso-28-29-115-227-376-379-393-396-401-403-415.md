@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/00bcf5a0d40811e7910a89ac20768b0f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.00BCF5A0D408.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 28, 29, 115, 227, 376, 379, 393, 396, 401, 403, 415, 426, 427, 428, 440, 464, 481, 482, 483, 484, 485, 488, 494, 573, 589, 595, 602, 610, 611, 681, 683, 685, 686 straipsnių ir priedo pakeitimo ir Kodekso papildymo 396-1, 413-1 straipsniais įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.950DCB7820B4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.950DCB7820B4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 2, 13, 16, 32 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 18-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 2004, Nr. [21-617](https://www.e-tar.lt/portal/lt/legalAct/TAR.1C65A214E386); 2006, Nr. [66-2429](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C32BA5677B5); 2009, Nr. [144-6351](https://www.e-tar.lt/portal/lt/legalAct/TAR.8FE41B704664), Nr. [159-7205](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9BA9457080D); 2010, Nr. [65-3195](https://www.e-tar.lt/portal/lt/legalAct/TAR.61A7EA3AFEBD), Nr. [84-4404](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDF2E51F8E58); 2011, Nr. [163-7757](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC59F66C0CE3))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 10 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 4. Buvusias 2 straipsnio 22–43 dalis laikyti atitinkamai 23–44 dalimis.
 
-\#### 2 straipsnis. 13 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas
+## 2 straipsnis. 13 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas
 
 1. Papildyti 13 straipsnio 1 dalį 7 punktu:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „5) rezervuoti teritorijas komunikaciniams koridoriams, susisiekimo komunikacijoms, infrastruktūros ir kitiems visuomenės poreikiams reikalingiems objektams, taip pat ypatingos valstybinės svarbos projektams.“
 
-\#### 3 straipsnis. 16 straipsnio papildymas
+## 3 straipsnis. 16 straipsnio papildymas
 
 1. Papildyti 16 straipsnio 1 dalį 4 punktu:
 
@@ -62,7 +62,7 @@ Vilnius
 
 „5. Ypatingos valstybinės svarbos projektų specialiųjų planų sprendiniai taikomi tiesiogiai ir yra pakankamas pagrindas atlikti projektavimo ir statybos darbus Statybos įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. Įstatymo papildymas 181 straipsniu
+## 4 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti Įstatymą 18^1straipsniu:
 
@@ -98,13 +98,13 @@ Papildyti Įstatymą 18^1straipsniu:
 
 10. Ypatingos valstybinės svarbos projektų specialiųjų planų pakeitimai rengiami, derinami ir tvirtinami ta pačia tvarka kaip ir ypatingos valstybinės svarbos projektų specialieji planai.“
 
-\#### 5 straipsnis. 32 straipsnio papildymas 7 dalimi
+## 5 straipsnis. 32 straipsnio papildymas 7 dalimi
 
 Papildyti 32 straipsnį 7 dalimi:
 
 „7. Bylas dėl viešojo intereso gynimo, susijusias su ypatingos valstybinės svarbos projektų teritorijų planavimu, nagrinėja administraciniai teismai. Šio straipsnio 4 dalyje nurodyti subjektai turi teisę apygardos administraciniam teismui paduoti pareiškimą dėl viešojo intereso gynimo, susijusį su ypatingos valstybinės svarbos projektų teritorijų planavimu, ne vėliau kaip per tris mėnesius nuo skundžiamo administracinio akto įsigaliojimo. Šis pareiškimas turi būti išnagrinėtas per 45 darbo dienas nuo jo priėmimo dienos, o apeliacinis skundas – per 45 darbo dienas nuo apeliacinio skundo priėmimo dienos. Lietuvos vyriausiasis administracinis teismas atskirąjį skundą šiose bylose turi išnagrinėti ne vėliau kaip per 7 dienas nuo skundo gavimo dienos.“
 
-\#### 6 straipsnis. Baigiamosios nuostatos
+## 6 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo 4 straipsnis įsigalioja 2012 m. liepos 1 d.
 

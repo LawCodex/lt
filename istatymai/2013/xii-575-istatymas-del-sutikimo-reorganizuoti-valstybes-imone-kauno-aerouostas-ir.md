@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A988E613899B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A988E613899B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl sutikimo reorganizuoti valstybės įmonę "Kauno aerouostas" ir valstybės įmonę Tarptautinį Palangos oro uostą
@@ -22,19 +22,19 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL SUTIKIMO REORGANIZUOTI VALSTYBĖS ĮMONĘ �
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šio įstatymo paskirtis – sutikti reorganizuoti valstybės įmonę „Kauno aerouostas“ ir valstybės įmonę Tarptautinį Palangos oro uostą.
 
-\#### 2 straipsnis. Reorganizavimo tikslas
+## 2 straipsnis. Reorganizavimo tikslas
 
 Reorganizavimo tikslas yra optimizuoti ir sumažinti reorganizavime dalyvaujančių valstybės įmonės Tarptautinio Vilniaus oro uosto, valstybės įmonės „Kauno aerouostas“ ir valstybės įmonės Tarptautinio Palangos oro uosto valdymo išlaidas ir sukurti efektyvų oro uostų valdymo modelį, leidžiantį darniai plėtoti tarptautinius Vilniaus, Kauno ir Palangos oro uostus.
 
-\#### 3 straipsnis. Reorganizavimo būdas
+## 3 straipsnis. Reorganizavimo būdas
 
 Valstybės įmonė „Kauno aerouostas“ ir valstybės įmonė Tarptautinis Palangos oro uostas reorganizuojamos prijungimo būdu – prie reorganizavime dalyvaujančios valstybės įmonės Tarptautinio Vilniaus oro uosto prijungiant reorganizuojamas valstybės įmonę „Kauno aerouostas“ ir valstybės įmonę Tarptautinį Palangos oro uostą.
 
-\#### 4 straipsnis. Po reorganizavimo veiksiančios įmonės numatomi veiklos tikslai
+## 4 straipsnis. Po reorganizavimo veiksiančios įmonės numatomi veiklos tikslai
 
 Po reorganizavimo veiksiančios valstybės įmonės Tarptautinio Vilniaus oro uosto numatomi veiklos tikslai:
 
@@ -42,7 +42,7 @@ Po reorganizavimo veiksiančios valstybės įmonės Tarptautinio Vilniaus oro uo
 
 2) vykdyti kitą veiklą, siekiant tenkinti viešuosius interesus.
 
-\#### 5 straipsnis. Teisės reorganizuoti valstybės įmonę „Kauno aerouostas“ ir valstybės įmonę Tarptautinį Palangos oro uostą suteikimas
+## 5 straipsnis. Teisės reorganizuoti valstybės įmonę „Kauno aerouostas“ ir valstybės įmonę Tarptautinį Palangos oro uostą suteikimas
 
 Lietuvos Respublikos susisiekimo ministerijai, valstybės įmonės „Kauno aerouostas“, valstybės įmonės Tarptautinio Palangos oro uosto ir valstybės įmonės Tarptautinio Vilniaus oro uosto savininko teises ir pareigas įgyvendinančiai institucijai, suteikiama teisė reorganizuoti valstybės įmonę „Kauno aerouostas“ ir valstybės įmonę Tarptautinį Palangos oro uostą, prijungiant jas prie reorganizavime dalyvaujančios valstybės įmonės Tarptautinio Vilniaus oro uosto.
 

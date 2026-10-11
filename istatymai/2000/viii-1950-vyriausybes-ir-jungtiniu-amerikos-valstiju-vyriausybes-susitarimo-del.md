@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.90AA8AA8C39C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.90AA8AA8C39C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimo dėl tarpusavio pagalbos muitinės veiklos srityje ratifikavimo įstatymas
@@ -26,7 +26,7 @@ VYRIAUSYBĖS IR JUNGTINIŲ AMERIKOS VALSTIJŲ VYRIAUSYBĖS SUSITARIMO DĖL TARPU
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje, sudarytą 1999 m. kovo 17 d. Vašingtone.
 

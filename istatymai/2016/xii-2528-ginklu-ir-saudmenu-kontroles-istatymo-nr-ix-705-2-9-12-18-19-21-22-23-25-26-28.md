@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b2f9b6d048e111e6b5d09300a16a686c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B2F9B6D048E1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 9, 12, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31 ir 38 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 2, 9, 12, 18, 19, 21, 22, 
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „7. **Europos juridinis asmuo** – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo,kita organizacija arba jų padalinys.“
 
-\#### 2 straipsnis. 9 straipsnio pakeitimas
+## 2 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą tvarko Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) kartu su apskričių vyriausiaisiais policijos komisariatais (toliau – teritorinė policijos įstaiga) (toliau Policijos departamentas ir teritorinės policijos įstaigos kartu vadinamos policijos įstaigomis). Duomenis apie civilinėje apyvartoje esančius A, B, C kategorijų ginklus, jų savininkus ir valdytojus Ginklų registro nuostatuose nustatyta tvarka Ginklų registrui teikia vidaus reikalų ministro įgaliota įstaiga.“
 
-\#### 3 straipsnis. 12 straipsnio pakeitimas
+## 3 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,13 +56,13 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „12. Leidimas įsigyti, leidimas laikyti ir leidimas nešiotis B, C kategorijų ginklus neišduodamas fiziniam asmeniui, dėl kurio dėl mokestinės nepriemokos ar baudos už administracinį nusižengimą priimtas sprendimas dėl priverstinio išieškojimo.“
 
-\#### 4 straipsnis. 18 straipsnio pakeitimas
+## 4 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 2 dalies 11 punktą ir jį išdėstyti taip:
 
 „11) kuris, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, per pastaruosius 3 metus ne mažiau kaip 2 kartus padarė administracinius nusižengimus;“.
 
-\#### 5 straipsnis. 19 straipsnio pakeitimas
+## 5 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 19. Pareiškėjas ar jo įgaliotas asmuo, taip pat licencijos ar rašytinio sutikimo turėtojas šiame straipsnyje nurodytus dokumentus licencijas išduodančiai institucijai gali pateikti per atstumą, elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą, per Policijos elektroninių paslaugų sistemą arba tiesiogiai.“
 
-\#### 6 straipsnis. 21 straipsnio pakeitimas
+## 6 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 4. Ginklų apskaitos tvarką nustato Vyriausybės įgaliota institucija.“
 
-\#### 7 straipsnis. 22 straipsnio pakeitimas
+## 7 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 „2. A kategorijos ginklai, jų šaudmenys, A kategorijos ginklų priedėliai gali būti gaminami tik suderinus su Policijos departamentu.“
 
-\#### 8 straipsnis. 23 straipsnio pakeitimas
+## 8 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -216,7 +216,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 6. Licencijos ir rašytinio sutikimo turėtojas, norintis įvežti ginklus, šaudmenis, jų dalis į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, turi gauti išankstinį Policijos departamento sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Lietuvos Respubliką. Šis išankstinis sutikimas galioja ne ilgiau kaip 3 metus. Be išankstinio sutikimo galima įvežti senovinius ginklus.“
 
-\#### 9 straipsnis. 25 straipsnio pakeitimas
+## 9 straipsnis. 25 straipsnio pakeitimas
 
 1. Pakeisti 25 straipsnio 6 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -230,25 +230,25 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 „7) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su ginklų, šaudmenų, jų dalių, ginklų priedėlių apyvarta, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo;“.
 
-\#### 10 straipsnis. 26 straipsnio pakeitimas
+## 10 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Europos fizinis asmuo ar Europos juridinis asmuo, norintys taisyti ginklus, perdirbti ginklus ir šaudmenis, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija taisyti ginklus, perdirbti ginklus ir šaudmenis suteikia teisę įsigyti Lietuvos Respublikoje ir įsivežti iš užsienio valstybių šiai veiklai reikalingas ginklų dalis.“
 
-\#### 11 straipsnis. 28 straipsnio pakeitimas
+## 11 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Europos fizinis asmuo ar Europos juridinis asmuo, norintys nuomoti ginklus medžioklei, sportui, profesinei veiklai ar mokymui, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija nuomoti ginklus suteikia teisę licencijos ir rašytinio sutikimoturėtojui įsigyti šaudmenų iš subjektų, turinčių teisę prekiauti šaudmenimis, ir juos parduoti asmeniui, išsinuomojusiam ginklą.“
 
-\#### 12 straipsnis. 29 straipsnio pakeitimas
+## 12 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 6 punktą ir jį išdėstyti taip:
 
 „6) sudaryti sąlygas kontroliuojančiųjų institucijų valstybės tarnautojams patekti į ginklų, šaudmenų gamybos, taisymo ir perdirbimo, prekybos, laikymo, nuomos, tirų, šaudyklų eksploatavimo vietas ir teikti jiems reikiamą pagalbą atliekant patikrinimą.“
 
-\#### 13 straipsnis. 30 straipsnio pakeitimas
+## 13 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -258,7 +258,7 @@ Pakeisti 29 straipsnio 6 punktą ir jį išdėstyti taip:
 
 „8) sudaryti kliūtis kontroliuojančiųjų institucijų valstybėstarnautojams apžiūrėti ginklus, šaudmenis, jų laikymo vietas ir ginklų, šaudmenų įsigijimo, laikymo, apskaitos dokumentus.“
 
-\#### 14 straipsnis. 31 straipsnio pakeitimas
+## 14 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -288,13 +288,13 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 3. D kategorijos ginklo naudotojui draudžiama be D kategorijos ginklo savininko rašytinio sutikimo ginklą perduoti kitam asmeniui naudoti.“
 
-\#### 15 straipsnis. 38 straipsnio pakeitimas
+## 15 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Pažymą, kad ginklas yra visiškai netinkamas naudoti, išduoda policijos įstaigos.“
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2017 m. sausio 1 d.
 

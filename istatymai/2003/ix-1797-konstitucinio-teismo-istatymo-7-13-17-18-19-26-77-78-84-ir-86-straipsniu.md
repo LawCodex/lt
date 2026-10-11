@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.24C8CE9FDB29"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.24C8CE9FDB29.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo 7, 13, 17, 18, 19, 26, 77, 78, 84 ir 86 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1993, Nr. [6-120](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEEB2C5600E3), Nr. [68-1277](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E25080DC0EB); 1996, Nr. [73-1749](https://www.e-tar.lt/portal/lt/legalAct/TAR.28B7811F3364); 1998, Nr. [55-1519](https://www.e-tar.lt/portal/lt/legalAct/TAR.C37A41E4C344))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 ir 2 dalis, 3 dalį pripažinti netekusia galios, 4, 5, 6 dalis laikyti atitinkamai 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -62,31 +62,31 @@ Priesaika priimama laikantis tų taisyklių, kurios nustatytos Seimo narių prie
 
 Konstitucinio Teismo teisėjas, įstatymų nustatyta tvarka neprisiekęs arba prisiekęs su išlyga, netenka teisėjo įgaliojimų. Dėl to Seimas priima nutarimą.“
 
-\#### 2 straipsnis. 13 straipsnio 1 dalies 6 punkto pakeitimas
+## 2 straipsnis. 13 straipsnio 1 dalies 6 punkto pakeitimas
 
 Pakeisti 13 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) teikia Konstituciniam Teismui tvirtinti jo aparato struktūrą, tvirtina Konstitucinio Teismo aparato valstybės tarnautojų pareigybių aprašymus ir sąrašus;“.
 
-\#### 3 straipsnis. 17 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 17 straipsnio 4 dalies pakeitimas
 
 17 straipsnio 4 dalyje vietoj žodžių „masinės informacijos“ įrašyti žodžius „visuomenės informavimo“ ir šią dalį išdėstyti taip:
 
 „Apie bandymus daryti poveikį Konstituciniam Teismui, atskiriems jo teisėjams Konstitucinio Teismo pirmininkas ar teisėjas privalo nedelsdamas pranešti Seimui, paskelbti per visuomenės informavimopriemones.“
 
-\#### 4 straipsnis. 18 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 18 straipsnio 1 dalies pakeitimas
 
 18 straipsnio 1 dalyje po žodžio „patalpose“ įrašyti žodžius „taip pat Konstitucinio Teismo interneto tinklalapyje“, žodžius „per Lietuvos telegramų agentūrą (ELTA)“ išbraukti ir šią dalį išdėstyti taip:
 
 „Apie Konstitucinio Teismo teisminius posėdžius paskelbiama Konstitucinio Teismo patalpose, taip pat Konstitucinio Teismo interneto tinklalapyje ir pranešama visuomenės informavimo priemonėms.“
 
-\#### 5 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Konstitucinis Teismas bylas nagrinėja ir nutarimus, išvadas ar sprendimus (toliau – Konstitucinio Teismo aktai) priima kolegialiai, dalyvaujant ne mažiau kaip 2/3 visų jo teisėjų.“
 
-\#### 6 straipsnis. 26 straipsnio pakeitimas
+## 6 straipsnis. 26 straipsnio pakeitimas
 
 26 straipsnio 1 dalyje prieš žodžius „arba kai jis“ įrašyti žodžius „ir įstatymus“, 2 dalyje vietoj žodžių „arba specialiame Seimo leidinyje, arba laikraščiuose per Lietuvos telegramų agentūrą (ELTA)“ įrašyti žodžius „taip pat Konstitucinio Teismo interneto tinklalapyje“, 3 dalyje vietoj žodžių „nurodytuose leidiniuose“ įrašyti žodžius „nustatyta tvarka“ ir šį straipsnį išdėstyti taip:
 
@@ -98,19 +98,19 @@ Jeigu Konstitucinis Teismas priima sprendimą priimti nagrinėti prašymą, Kons
 
 Tais atvejais, kai Konstitucinis Teismas, išnagrinėjęs bylą, priima nutarimą, kad ginčijamas aktas neprieštarauja Konstitucijai, Konstitucinio Teismo pirmininkas tuoj pat apie tai oficialiai paskelbia šio straipsnio antrojoje dalyje nustatyta tvarka. Šiame Konstitucinio Teismo pirmininko pranešime nurodomas tikslus ginčijamo akto pavadinimas, priėmimo data, Konstitucinio Teismo nutarimo šiuo klausimu esmė, jo priėmimo data, taip pat tai, kad nuo šio nutarimo paskelbimo dienos atstatomas sustabdytojo akto galiojimas.“
 
-\#### 7 straipsnis. 77 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 77 straipsnio 2 dalies pakeitimas
 
 Pakeisti 77 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
 „Konstitucinis Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl rinkimų įstatymų pažeidimų tais atvejais, kai sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta pasibaigus balsavimui renkant Seimo narius ar Respublikos Prezidentą.“
 
-\#### 8 straipsnis. 78 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 78 straipsnio 1 dalies pakeitimas
 
 78 straipsnio 1 dalyje vietoj žodžių „daugiau kaip pusės visų Seimo narių balsų dauguma“ įrašyti žodžius „Seimo statuto nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 „Paklausimą Konstituciniam Teismui, ar Respublikos Prezidento sveikatos būklė leidžia jam ir toliau eiti pareigas, turi teisę pateikti tik Seimas. Paklausimas turi būti patvirtintas nutarimu, priimtu Seimo statuto nustatyta tvarka.“
 
-\#### 9 straipsnis. 84 straipsnio pakeitimas
+## 9 straipsnis. 84 straipsnio pakeitimas
 
 Pakeisti 84 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Konstitucinio Teismo aktai, kurie nepaskelbiami šio straipsnio ketvirtojoje dal
 
 Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2 punktuose nurodytais klausimais įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose potvarkiuose nenustatyta kita jų įsigaliojimo data.“
 
-\#### 10 straipsnis. 86 straipsnio pakeitimas
+## 10 straipsnis. 86 straipsnio pakeitimas
 
 Pakeisti 86 straipsnį ir jį išdėstyti taip:
 

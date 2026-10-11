@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4326F4B5799D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4326F4B5799D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ TRANSPORTO PRIEMONIŲ SAVININKŲ IR VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės draudimo biuro steigimas
+## 1 straipsnis. Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės draudimo biuro steigimas
 
 1. Lietuvos Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės draudimo biuro (toliau – Biuras) steigiamasis susirinkimas, kurį inicijuoja Finansų ministerija, turi būti sušauktas po trijų mėnesių nuo šio įstatymo įsigaliojimo dienos, bet ne vėliau kaip iki 2001 m. lapkričio 1 d. Finansų ministerija apie šaukiamą Biuro steigiamąjį susirinkimą praneša kiekvienai draudimo įmonei, gavusiai Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos valdybos leidimą vykdyti transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomąjį draudimą, ne vėliau kaip prieš 15 dienų iki Biuro steigiamojo susirinkimo dienos, o apie pakartotinį Biuro susirinkimą – ne vėliau kaip prieš 10 dienų. Pranešime apie Biuro steigiamąjį susirinkimą nurodoma Biuro steigiamojo susirinkimo data, vieta ir darbotvarkės projektas. Atvykę į Biuro steigiamąjį susirinkimą asmenys pasirašytinai registruojami registravimo sąraše, o šį sąrašą pasirašo susirinkimo pirmininkas ir sekretorius.
 
@@ -38,7 +38,7 @@ Vilnius
 
 5. Biuras turi būti įregistruotas įstatymų nustatyta tvarka iki 2002 m. sausio 1 d.
 
-\#### 2 straipsnis. Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymas
+## 2 straipsnis. Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymas
 
 1. Transporto priemonių savininkai, kurie šio įstatymo įsigaliojimo momentu yra įregistravę transporto priemones, privalo sudaryti transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo sutartis nuo 2002 m. sausio 1 d., bet ne vėliau kaip iki 2002 m. kovo 31 d.
 
@@ -48,7 +48,7 @@ Vilnius
 
 4. Nuo 2002 m. kovo 1 d. įleidžiamos į Lietuvos Respubliką tik tos transporto priemonės, kurių vairuotojai turi Lietuvos Respublikoje galiojančius transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo liudijimus (polisus). Nuo 2002 m. balandžio 1 d. transporto priemonių vairuotojai, išvažiuojantys iš Lietuvos Respublikos, privalo turėti Lietuvos Respublikoje galiojančius transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo liudijimus (polisus).
 
-\#### 3 straipsnis. Pasiūlymai Vyriausybei
+## 3 straipsnis. Pasiūlymai Vyriausybei
 
 1. Vyriausybė iki 2001 m. rugpjūčio 1 d. patvirtina Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo taisykles.
 
@@ -66,7 +66,7 @@ Vilnius
 
 3. Vyriausybė arba jos įgaliota institucija inicijuoja policijos ir pasienio policijos veiklą reglamentuojančių teisės aktų pakeitimus, kuriuose būtų nustatomos policijos ir pasienio policijos teisės ir pareigos kontroliuojant transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomąjį draudimą.
 
-\#### 4 straipsnis. Pasiūlymai Finansų ministerijai
+## 4 straipsnis. Pasiūlymai Finansų ministerijai
 
 Finansų ministerija:
 
@@ -78,7 +78,7 @@ Finansų ministerija:
 
 4) iki 2001 m. gruodžio 1 d. patvirtina Biuro finansinių ataskaitų paskelbimo tvarką.
 
-\#### 5 straipsnis. Baigiamosios nuostatos
+## 5 straipsnis. Baigiamosios nuostatos
 
 1. Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 5 straipsnio 4 punkto, 6 straipsnio 2 dalies, 11 straipsnio 2 dalies ir 27 straipsnio 7 punkto nuostatos įsigalioja, kai Lietuvos Respublika prisijungia prie tarptautinės transporto priemonių civilinės atsakomybės privalomojo draudimo sistemos.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b0cb00b0337c11efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B0CB00B0337C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos apsaugotų duomenų pakartotinio naudojimo, duomenų tarpininkavimo ir duomenų altruizmo veiklos priežiūros įstatymas
@@ -26,21 +26,21 @@ APSAUGOTŲ DUOMENŲ PAKARTOTINIO NAUDOJIMO, DUOMENŲ TARPININKAVIMO IR DUOMENŲ 
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+### 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato Reglamente (ES) 2022/868 nurodytų priemonių įgyvendinimą Lietuvos Respublikoje, Reglamentą (ES) 2022/868 įgyvendinančių valstybės institucijų įgaliojimus ir funkcijas, duomenų tarpininkavimo paslaugų teikėjų ir pripažintų duomenų altruizmo organizacijų sąrašų sudarymą ir skelbimą, atlyginimo už tarpininkavimą pakartotinai naudojant duomenis nustatymo ir mokėjimo tvarką, duomenų tarpininkavimo paslaugų teikėjų ir pripažintų duomenų altruizmo organizacijų teisinės atsakomybės pagrindus ir sąlygas, skundų dėl žalos atlyginimo už tarpininkavimą pakartotinai naudojant duomenis pateikimo ir nagrinėjimo bei žalos atlyginimo nustatymo tvarką.
 
 2. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente [(ES) 2022/868](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R0868&locale=lt).
 
-\## II SKYRIUS. VALSTYBĖS INSTITUCIJŲ ĮGALIOJIMAI IR FUNKCIJOS
+II SKYRIUS. VALSTYBĖS INSTITUCIJŲ ĮGALIOJIMAI IR FUNKCIJOS
 
-\#### 3 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija
+### 3 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija
 
 Vyriausybė:
 
@@ -50,7 +50,7 @@ Vyriausybė:
 
 3) tvirtina kompetentingos įstaigos tarpininkavimo atlyginimo skaičiavimo metodiką.
 
-\#### 4 straipsnis. Kompetentingos įstaigos kompetencija
+### 4 straipsnis. Kompetentingos įstaigos kompetencija
 
 1. Kompetentinga įstaiga turi Reglamento (ES) 2022/868 7 straipsnio 1, 2 ir 4 dalyse ir 8 straipsnio 1 ir 2 dalyse nustatytą kompetentingos įstaigos ir bendrojo informacinio punkto kompetenciją.
 
@@ -62,7 +62,7 @@ Vyriausybė:
 
 3. Kompetentinga įstaiga turi kitas Reglamente (ES) 2022/868, įstatymuose ir kituose teisės aktuose, reguliuojančiuose duomenų valdymą ir pakartotinį naudojimą, nustatytas teises.
 
-\#### 5 straipsnis. Kompetentingos institucijos kompetencija
+### 5 straipsnis. Kompetentingos institucijos kompetencija
 
 1. Kompetentinga institucija turi Reglamente (ES) 2022/868 nustatytą už duomenų tarpininkavimo paslaugas ir už pripažintų duomenų altruizmo organizacijų registraciją atsakingos kompetentingos institucijos kompetenciją.
 
@@ -88,23 +88,23 @@ Vyriausybė:
 
 3. Kompetentinga institucija turi kitas Reglamente (ES) 2022/868, įstatymuose ir kituose teisės aktuose, reguliuojančiuose duomenų tarpininkavimą ir duomenų altruizmą, nustatytas teises.
 
-\## III SKYRIUS. DUOMENŲ TARPININKAVIMO PASLAUGŲ TEIKĖJŲ IR PRIPAŽINTŲ DUOMENŲ ALTRUIZMO ORGANIZACIJŲ SĄRAŠŲ SUDARYMAS IR SKELBIMAS
+III SKYRIUS. DUOMENŲ TARPININKAVIMO PASLAUGŲ TEIKĖJŲ IR PRIPAŽINTŲ DUOMENŲ ALTRUIZMO ORGANIZACIJŲ SĄRAŠŲ SUDARYMAS IR SKELBIMAS
 
-\#### 6 straipsnis. Duomenų tarpininkavimo paslaugų teikėjų sąrašų sudarymas ir skelbimas
+### 6 straipsnis. Duomenų tarpininkavimo paslaugų teikėjų sąrašų sudarymas ir skelbimas
 
 1. Duomenų tarpininkavimo paslaugų teikėjų sąrašus sudaro, tvarko ir skelbia kompetentinga institucija.
 
 2. Pranešimų apie ketinimą teikti duomenų tarpininkavimo paslaugas teikimo, jų nagrinėjimo, Europos Komisijos informavimo apie gautus pranešimus, informacijos apie šių pranešimų pateikimą skelbimo ir duomenų tarpininkavimo paslaugų teikėjų sąrašo sudarymo ir skelbimo tvarką nustato kompetentinga institucija.
 
-\#### 7 straipsnis. Pripažintų duomenų altruizmo organizacijų sąrašų sudarymas ir skelbimas
+### 7 straipsnis. Pripažintų duomenų altruizmo organizacijų sąrašų sudarymas ir skelbimas
 
 1. Viešus pripažintų duomenų altruizmo organizacijų sąrašus sudaro, tvarko ir skelbia kompetentinga institucija.
 
 2. Paraiškų dėl įtraukimo į viešą pripažintų duomenų altruizmo organizacijų sąrašą teikimo, jų nagrinėjimo, Europos Komisijos informavimo, viešo pripažintų duomenų altruizmo organizacijų sąrašo sudarymo, šio sąrašo skelbimo bei pašalinimo iš jo tvarką nustato kompetentinga institucija.
 
-\## IV SKYRIUS. ATLYGINIMO UŽ KOMPETENTINGOS ĮSTAIGOS TARPININKAVIMĄ NUSTATYMAS IR MOKĖJIMAS
+IV SKYRIUS. ATLYGINIMO UŽ KOMPETENTINGOS ĮSTAIGOS TARPININKAVIMĄ NUSTATYMAS IR MOKĖJIMAS
 
-\#### 8 straipsnis. Atlyginimo už kompetentingos įstaigos tarpininkavimą skaičiavimo ir mokėjimo tvarka
+### 8 straipsnis. Atlyginimo už kompetentingos įstaigos tarpininkavimą skaičiavimo ir mokėjimo tvarka
 
 1. Viešojo sektoriaus įstaigų Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų kategorijų duomenys pakartotinai naudoti teikiami naudojant kompetentingos įstaigos valdomą valstybės informacinę sistemą šios įstaigos nustatyta tvarka.
 
@@ -116,17 +116,17 @@ Vyriausybė:
 
 5. Kompetentingos įstaigos tarpininkavimo atlyginimas mokamas šios įstaigos nustatyta tvarka.
 
-\#### 9 straipsnis. Atlyginimo už kompetentingos įstaigos tarpininkavimą mokėjimo išimtys
+### 9 straipsnis. Atlyginimo už kompetentingos įstaigos tarpininkavimą mokėjimo išimtys
 
 1. Kompetentingos įstaigos tarpininkavimo atlyginimas nėra imamas, kai Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų kategorijų duomenys pakartotinai naudojami nekomerciniais tikslais.
 
 2. Kompetentinga įstaiga tvirtina Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų kategorijų duomenų pakartotinių naudotojų, kurie nemoka už kompetentingos įstaigos tarpininkavimą nustatyto atlyginimo, kategorijų sąrašą kartu su jam sudaryti naudojamais kriterijais.
 
-\## V SKYRIUS. DUOMENŲ TARPININKAVIMO PASLAUGŲ TEIKĖJO IR PRIPAŽINTOS DUOMENŲ ALTRUIZMO ORGANIZACIJOS TEISINĖ ATSAKOMYBĖ
+V SKYRIUS. DUOMENŲ TARPININKAVIMO PASLAUGŲ TEIKĖJO IR PRIPAŽINTOS DUOMENŲ ALTRUIZMO ORGANIZACIJOS TEISINĖ ATSAKOMYBĖ
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 10 straipsnis. Skundą pateikusio asmens ir pažeidimo padarymu įtariamo asmens teisės ir pareigos
+### 10 straipsnis. Skundą pateikusio asmens ir pažeidimo padarymu įtariamo asmens teisės ir pareigos
 
 1. Skundą dėl duomenų tarpininkavimo paslaugų teikėjo arba dėl pripažintos duomenų altruizmo organizacijos veiksmų pateikęs asmuo (toliau – pareiškėjas) ir pažeidimo padarymu įtariamas asmuo turi Reglamente (ES) 2022/868 ir šiame įstatyme nustatytas teises ir pareigas.
 
@@ -160,23 +160,23 @@ Vyriausybė:
 
 4) dokumentų, siunčiamų elektroninių ryšių priemonėmis, – kita darbo diena, einanti po kompetentingos institucijos dokumentų išsiuntimo dienos.
 
-\#### 11 straipsnis. Informacijos apie kompetentingos institucijos atliekamą pažeidimo nagrinėjimą teikimas
+### 11 straipsnis. Informacijos apie kompetentingos institucijos atliekamą pažeidimo nagrinėjimą teikimas
 
 Kompetentinga institucija informacijos apie atliekamą pažeidimo nagrinėjimą visuomenės informavimo priemonėms, kitiems su patikrinimo atlikimu arba skundo nagrinėjimu nesusijusiems asmenims neteikia tol, kol patikrinimas arba skundo nagrinėjimas nėra baigtas, ir tiek, kiek informacijos teikimas gali pakenkti atliekamam pažeidimo nagrinėjimui.
 
-\#### 12 straipsnis. Kompetentingos institucijos reikalavimų privalomumas
+### 12 straipsnis. Kompetentingos institucijos reikalavimų privalomumas
 
 Juridiniai ir fiziniai asmenys privalo vykdyti kompetentingos institucijos reikalavimus nepagrįstai nedelsdami, bet ne vėliau kaip per kompetentingos institucijos nurodytą terminą, pateikti informaciją ir (ar) paaiškinimus, dokumentų kopijas ir nuorašus, duomenų kopijas, sudaryti sąlygas susipažinti su visais duomenimis ir (ar) įranga, susijusiais su Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R0868&locale=lt) reikalavimų vykdymu, ir dokumentais, reikalingais kompetentingos institucijos funkcijoms atlikti.
 
-\### ANTRASIS SKIRSNIS. PATIKRINIMO KOMPETENTINGOS INSTITUCIJOS INICIATYVA ATLIKIMAS
+ANTRASIS SKIRSNIS. PATIKRINIMO KOMPETENTINGOS INSTITUCIJOS INICIATYVA ATLIKIMAS
 
-\#### 13 straipsnis. Patikrinimas kompetentingos institucijos iniciatyva ir jo atlikimo tvarka
+### 13 straipsnis. Patikrinimas kompetentingos institucijos iniciatyva ir jo atlikimo tvarka
 
 1. Kompetentinga institucija gali savo iniciatyva pradėti patikrinimą.
 
 2. Kompetentinga institucija patikrinimą savo iniciatyva atlieka Reglamento (ES) 2022/868, šio įstatymo, Viešojo administravimo įstatymo ir savo nustatyta tvarka.
 
-\#### 14 straipsnis. Patikrinimo kompetentingos institucijos iniciatyva atlikimo terminai
+### 14 straipsnis. Patikrinimo kompetentingos institucijos iniciatyva atlikimo terminai
 
 1. Patikrinimas kompetentingos institucijos iniciatyva gali būti atliekamas ne ilgiau kaip 4 mėnesius nuo sprendimo atlikti patikrinimą priėmimo dienos.
 
@@ -184,7 +184,7 @@ Juridiniai ir fiziniai asmenys privalo vykdyti kompetentingos institucijos reika
 
 3. Šio straipsnio 1 ir 2 dalyse nustatytų terminų skaičiavimas sustabdomas, jeigu kompetentinga institucija dėl jos nurodymų nevykdymo pradeda sankcijos skyrimo tikrinamam asmeniui procedūrą.
 
-\#### 15 straipsnis. Kompetentingos institucijos sprendimai atlikus patikrinimą savo iniciatyva
+### 15 straipsnis. Kompetentingos institucijos sprendimai atlikus patikrinimą savo iniciatyva
 
 1. Kompetentinga institucija, baigusi patikrinimą savo iniciatyva, motyvuotai nusprendžia:
 
@@ -196,15 +196,15 @@ Juridiniai ir fiziniai asmenys privalo vykdyti kompetentingos institucijos reika
 
 3. Kompetentingos institucijos sprendimai gali būti skundžiami Lietuvos administracinių ginčų komisijai Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\### TREČIASIS SKIRSNIS. SKUNDŲ NAGRINĖJIMAS
+TREČIASIS SKIRSNIS. SKUNDŲ NAGRINĖJIMAS
 
-\#### 16 straipsnis. Skundų nagrinėjimo tvarka
+### 16 straipsnis. Skundų nagrinėjimo tvarka
 
 1. Kompetentinga institucija nagrinėja skundus dėl pažeidimų Reglamento (ES) 2022/868, šio įstatymo ir savo nustatyta tvarka.
 
 2. Jeigu kompetentinga institucija nustato, kad ji nagrinėja pareiškėjo pateiktus 2 ar daugiau skundų dėl to paties skundžiamo asmens arba skundai pateikti skirtingų pareiškėjų, tačiau dėl tų pačių pažeidimų ir to paties skundžiamo asmens, jos sprendimu šie skundai iki skundo nagrinėjimo termino pabaigos gali būti sujungiami ir nagrinėjami kartu.
 
-\#### 17 straipsnis. Teisė pateikti skundą ir skundo turinys
+### 17 straipsnis. Teisė pateikti skundą ir skundo turinys
 
 1. Skundą kompetentingai institucijai, vadovaudamasis Reglamento (ES) 2022/868 27 straipsnio 1 dalimi, turi teisę pateikti bet kuris fizinis ar juridinis asmuo individualiai arba kolektyviai.
 
@@ -232,7 +232,7 @@ c) atstovavimo pagrindas, kai skundą pateikia pareiškėjo atstovas;
 
 3. Prie skundo pridedama pareiškėjo turima informacija ir dokumentai, jo manymu, pagrindžiantys skunde pateiktas aplinkybes. Prie pareiškėjo atstovo pateikiamo skundo pridedamas ir pareiškėjo atstovo įgaliojimus patvirtinantis dokumentas.
 
-\#### 18 straipsnis. Atsisakymas nagrinėti skundą
+### 18 straipsnis. Atsisakymas nagrinėti skundą
 
 1. Kompetentinga institucija priima sprendimą atsisakyti nagrinėti skundą ar jo dalį ir apie tai ne vėliau kaip per 5 darbo dienas nuo skundo gavimo šioje institucijoje dienos praneša pareiškėjui ir nurodo atsisakymo nagrinėti skundą ar jo dalį teisinį pagrindą, jeigu:
 
@@ -254,7 +254,7 @@ c) atstovavimo pagrindas, kai skundą pateikia pareiškėjo atstovas;
 
 2. Jeigu kompetentinga institucija šio straipsnio 1 dalyje nustatyta tvarka neinformuoja apie atsisakymą nagrinėti skundą ar jo dalį, laikoma, kad priimtas nagrinėti visas skundas.
 
-\#### 19 straipsnis. Papildomų dokumentų ir (ar) informacijos reikalavimas iš pareiškėjo
+### 19 straipsnis. Papildomų dokumentų ir (ar) informacijos reikalavimas iš pareiškėjo
 
 1. Kompetentingos institucijos reikalavimas iš pareiškėjo pateikti papildomus dokumentus ir (ar) informaciją, reikalingus skundui ar jo daliai nagrinėti, turi būti motyvuotas. Pareiškėjui pranešama apie papildomų dokumentų ir (ar) informacijos nepateikimo padarinius.
 
@@ -262,7 +262,7 @@ c) atstovavimo pagrindas, kai skundą pateikia pareiškėjo atstovas;
 
 3. Kompetentinga institucija iš pareiškėjo reikalauja tik tų dokumentų ir informacijos, kurių nėra registrų informacinėse sistemose, valstybės informacinėse sistemose ir (ar) kitose informacinėse sistemose, finansuojamose iš valstybės ar savivaldybės biudžeto ir (ar) valstybės pinigų fondų, ir kurių neturi galimybės gauti pati.
 
-\#### 20 straipsnis. Skundo nagrinėjimo nutraukimas
+### 20 straipsnis. Skundo nagrinėjimo nutraukimas
 
 Kompetentinga institucija priima sprendimą nutraukti skundo ar jo dalies nagrinėjimą, jeigu nagrinėjant skundą ar jo dalį:
 
@@ -278,7 +278,7 @@ Kompetentinga institucija priima sprendimą nutraukti skundo ar jo dalies nagrin
 
 6) nėra galimybės įteikti skundžiamam asmeniui dokumentų ir kompetentinga institucija išnaudojo visas šiame įstatyme nustatytas galimybes įteikti dokumentus.
 
-\#### 21 straipsnis. Pareiškėjo informavimo ir skundo nagrinėjimo terminai
+### 21 straipsnis. Pareiškėjo informavimo ir skundo nagrinėjimo terminai
 
 1. Kompetentinga institucija pareiškėjui Reglamento (ES) 2022/868 27 straipsnio 2 dalyje nurodytą informaciją pateikia ne vėliau kaip per 3 mėnesius nuo skundo gavimo šioje institucijoje dienos.
 
@@ -286,7 +286,7 @@ Kompetentinga institucija priima sprendimą nutraukti skundo ar jo dalies nagrin
 
 3. Šio straipsnio 2 dalyje nustatytų terminų skaičiavimas sustabdomas, jeigu kompetentinga institucija dėl jos nurodymų nevykdymo pradeda sankcijos skyrimo procedūrą. Apie skundo nagrinėjimo terminų skaičiavimo sustabdymą ir šių terminų sustabdymo priežastis pranešama pareiškėjui.
 
-\#### 22 straipsnis. Kompetentingos institucijos sprendimai išnagrinėjus skundą
+### 22 straipsnis. Kompetentingos institucijos sprendimai išnagrinėjus skundą
 
 1. Kompetentinga institucija, baigusi skundo ar jo dalies nagrinėjimą, motyvuotai nusprendžia:
 
@@ -300,15 +300,15 @@ Kompetentinga institucija priima sprendimą nutraukti skundo ar jo dalies nagrin
 
 4. Kompetentingos institucijos sprendimas gali būti skundžiamas Lietuvos administracinių ginčų komisijai Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\### KETVIRTASIS SKIRSNIS. SANKCIJOS
+KETVIRTASIS SKIRSNIS. SANKCIJOS
 
-\#### 23 straipsnis. Sankcijų skyrimo duomenų tarpininkavimo paslaugų teikėjams ir pripažintoms duomenų altruizmo organizacijoms bendrosios nuostatos
+### 23 straipsnis. Sankcijų skyrimo duomenų tarpininkavimo paslaugų teikėjams ir pripažintoms duomenų altruizmo organizacijoms bendrosios nuostatos
 
 1. Kompetentinga institucija už pažeidimą ir už kompetentingos institucijos teisėtų nurodymų nevykdymą, trukdymą kompetentingai institucijai atlikti pažeidimo nagrinėjimą, patikrinimą ar nagrinėti skundą skiria sankcijas, kurios gali būti skiriamos ir kaip periodinės sankcijos, (toliau – sankcija) duomenų tarpininkavimo paslaugų teikėjams ir pripažintoms duomenų altruizmo organizacijoms, vadovaudamasi Reglamentu (ES) 2022/868 ir šiuo įstatymu.
 
 2. Sprendimas dėl sankcijos skyrimo gali būti priimtas, jeigu praėjo ne daugiau kaip 3 metai nuo pažeidimo padarymo dienos, o kai pažeidimas trunkamasis, – nuo jo paaiškėjimo dienos.
 
-\#### 24 straipsnis. Sankcijos skyrimas
+### 24 straipsnis. Sankcijos skyrimas
 
 1. Kompetentinga institucija duomenų tarpininkavimo paslaugų teikėjams ar pripažintoms duomenų altruizmo organizacijoms už Reglamento (ES) 2022/868 pažeidimus turi teisę skirti sankciją iki 4 procentų duomenų tarpininkavimo paslaugų teikėjų ar pripažintų duomenų altruizmo organizacijų bendrosios pasaulinės metinės apyvartos praėjusiais finansiniais metais.
 
@@ -318,7 +318,7 @@ Kompetentinga institucija priima sprendimą nutraukti skundo ar jo dalies nagrin
 
 4. Duomenų tarpininkavimo paslaugų teikėjams ar pripažintoms duomenų altruizmo organizacijoms sankcija neskiriama, jeigu sankcijos skyrimo procedūros metu paaiškėja, kad nebuvo padarytas pažeidimas.
 
-\#### 25 straipsnis. Sankcijos skyrimo tvarka
+### 25 straipsnis. Sankcijos skyrimo tvarka
 
 1. Duomenų tarpininkavimo paslaugų teikėjams ar pripažintoms duomenų altruizmo organizacijoms skiriamos sankcijos diferencijuojamos atsižvelgiant į Reglamento (ES) 2022/868 34 straipsnio 2 dalyje nurodytus kriterijus, taip pat į:
 
@@ -392,15 +392,15 @@ f) tokį patį Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content
 
 13. Kompetentingos institucijos sprendimas dėl sankcijos skyrimo gali būti skundžiamas Lietuvos administracinių ginčų komisijai Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 26 straipsnis. Sprendimo dėl sankcijos skyrimo vykdymas
+### 26 straipsnis. Sprendimo dėl sankcijos skyrimo vykdymas
 
 1. Kompetentingos institucijos sprendimas dėl sankcijos skyrimo turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo dienos, kurią jis buvo įteiktas asmeniui, kuriam sankcija paskirta. Apskundus kompetentingos institucijos sprendimą dėl sankcijos skyrimo, jis turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo teismo sprendimo įsiteisėjimo dienos. Sankcija turi būti sumokėta į valstybės biudžetą.
 
 2. Kompetentingos institucijos sprendimas dėl sankcijos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos.
 
-\## VI SKYRIUS. ŽALOS ATLYGINIMAS
+VI SKYRIUS. ŽALOS ATLYGINIMAS
 
-\#### 27 straipsnis. Skundų dėl žalos atlyginimo pateikimas ir nagrinėjimas
+### 27 straipsnis. Skundų dėl žalos atlyginimo pateikimas ir nagrinėjimas
 
 1. Fizinis ar juridinis asmuo (toliau kartu šiame straipsnyje – asmenys), kuriems kompetentingos įstaigos priimtas sprendimas, kaip nurodyta Reglamento (ES) 2022/868 9 straipsnio 1 dalyje, suteikti ar atsisakyti suteikti jam prieigą prie Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų duomenų pakartotiniam naudojimui daro tiesioginį poveikį, turi teisę reikalauti iš kompetentingos įstaigos žalos atlyginimo.
 
@@ -408,7 +408,7 @@ f) tokį patį Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content
 
 3. Asmenų skundai dėl kompetentingos įstaigos priimto sprendimo netenkinti prašymo suteikti jiems prieigą prie Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų duomenų pakartotiniam naudojimui priėmimo, šios įstaigos netinkamo veikimo (neveikimo) jiems prašant suteikti prieigą prie duomenų pakartotiniam naudojimui turi būti pateikti šio straipsnio 2 dalyje nurodytoms ikiteisminio arba teisminio nagrinėjimo institucijoms ne vėliau kaip per vieną mėnesį nuo kompetentingos įstaigos sprendimo priėmimo, jos netinkamo veikimo (neveikimo) aplinkybių paaiškėjimo dienos.
 
-\#### 28 straipsnis. Atlygintinos žalos dydžio nustatymas
+### 28 straipsnis. Atlygintinos žalos dydžio nustatymas
 
 1. Žala asmenims dėl kompetentingos įstaigos priimto sprendimo, jos netinkamo veikimo (neveikimo) jiems prašant suteikti prieigą prie Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų duomenų pakartotiniam naudojimui yra atlyginama visiškai.
 
@@ -418,11 +418,9 @@ f) tokį patį Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content
 
 4. Kai dėl kompetentingos įstaigos priimto sprendimo, jos netinkamo veikimo (neveikimo) asmenims prašant suteikti prieigą prie Reglamento (ES) 2022/868 3 straipsnio 1 dalyje nurodytų duomenų pakartotiniam naudojimui Lietuvos administracinių ginčų komisija arba administracinis teismas, remdamiesi byloje esančiais įrodymais, negali nustatyti tikslaus žalos dydžio arba jiems tai padaryti pernelyg sudėtinga, jie nustato apytikrį žalos dydį.
 
-\## VII SKYRIUS
+## VII SKYRIUS. baigiamosios nuostatos
 
-**baigiamosios nuostatos**
-
-\#### 29 straipsnis. Kompetentingos institucijos sprendimų skelbimas
+### 29 straipsnis. Kompetentingos institucijos sprendimų skelbimas
 
 1. Kompetentinga institucija, siekdama didinti visuomenės informuotumą apie su Reglamento (ES) 2022/868 taikymu susijusius reikalavimus, saugumo priemones, teises ir pavojus ir jų supratimą, savo sprendimus, priimtus atlikus patikrinimą ir (ar) išnagrinėjus skundą, išskyrus sprendimus, priimtus vadovaujantis šio įstatymo 18 ir 20 straipsniais, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos paskelbia viešai savo interneto svetainėje, nepažeisdama asmens duomenų apsaugos, valstybės, tarnybos, profesinės, komercinės, kitos įstatymų saugomą paslaptį sudarančios ar kitos įstatymų saugomos informacijos apsaugos reikalavimų. Kai kompetentinga institucija, atlikusi patikrinimą ir (ar) išnagrinėjusi skundą, nenustato Reglamento (ES) 2022/868 ir šio įstatymo pažeidimų, skelbdama savo sprendimą ji neatskleidžia duomenų tarpininkavimo paslaugų teikėjo ir (ar) pripažintos duomenų altruizmo organizacijos, dėl kurių priimtas šis sprendimas, tapatybės.
 
@@ -430,11 +428,11 @@ f) tokį patį Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content
 
 3. Išsamią sprendimų paskelbimo tvarką nustato kompetentinga institucija.
 
-\#### 30 straipsnis. Informacijos teikimas Europos Komisijai
+### 30 straipsnis. Informacijos teikimas Europos Komisijai
 
 Lietuvos Respublikos ekonomikos ir inovacijų ministerija teikia informaciją Europos Komisijai apie Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R0868&locale=lt)įgyvendinimą vadovaudamasi Reglamento [(ES) 2022/868](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R0868&locale=lt) 7straipsnio 5 dalimi, 13 straipsnio 1 dalimi, 16 straipsniu, 23 straipsnio 2 dalimi, 34 straipsnio 1 dalimi ir 35 straipsniu.
 
-\#### 31 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 31 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. rugsėjo 1 d.
 

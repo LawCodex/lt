@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/31d1c3d04c2f11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.31D1C3D04C2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 31, 37-1 straipsnių ir priedo pakeitimo įstatymas
@@ -26,25 +26,25 @@ GAMTINIŲ DUJŲ ĮSTATYMO NR. VIII-1973 2, 7, 9, 31, 371 STRAIPSNIŲ IR PRIEDO P
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 69 dalį ir ją išdėstyti taip:
 
 „69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme, Lietuvos Respublikos energijos išteklių rinkos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos statybos įstatyme ir Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatyme.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) vadovaudamasi skaidrumo kriterijais, energijos vartojimo efektyvumo didinimo pirmumo principu, poreikiu didinti tiekimo saugumą, integruoti rinką, nustatyti ar patvirtinti perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainų ir (ar) pajamų viršutines ribas, jų skaičiavimo metodikas ir nustatyti ar patvirtinti konkrečias buitinių vartotojų prijungimo prie tinklo ir SGD perkrovos paslaugų kainas;“.
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) užtikrina, kad perdavimo ir skirstymo sistemos operatoriams būtų suteiktos tinkamos paskatos diegti energetikos inovacijas, trumpalaikiu ir ilgalaikiu laikotarpiu didinti energijos vartojimo efektyvumą, skatinti rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekdama didinti gamtinių dujų vartojimo efektyvumą, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl energijos vartojimo efektyvumo didinimo priemonių diegimo, įskaitant sutaupymą dėl gamtinių dujų perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo.“
 
-\#### 4 straipsnis. 31 straipsnio pakeitimas
+## 4 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 7. Taryba atlieka dešimties metų tinklo plėtros plano įgyvendinimo stebėseną, įskaitant vertinimą, kaip perdavimo sistemos operatorius taiko energijos vartojimo efektyvumo didinimo pirmumo principą Energijos vartojimo efektyvumo didinimo įstatymo 4 straipsnyje nustatyta tvarka, stebėsenos vertinimą ir paskelbia gautus rezultatus. Dešimties metų tinklo plėtros plano nevykdantį perdavimo sistemos operatorių Taryba įpareigoja vykdyti dešimties metų tinklo plėtros planą ir gali skirti sankcijas Energetikos įstatymo nustatyta tvarka ir sąlygomis.“
 
-\#### 5 straipsnis. 371 straipsnio pakeitimas
+## 5 straipsnis. 371 straipsnio pakeitimas
 
 Pakeisti 37^1 straipsnį ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 37^1 straipsnį ir jį išdėstyti taip:
 
 8. Taryba vertina, kaip skirstymo sistemos operatorius taiko energijos vartojimo efektyvumo didinimo pirmumo principą Energijos vartojimo efektyvumo didinimo įstatymo 4 straipsnyje nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo priedo pakeitimas
+## 6 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -130,7 +130,7 @@ priedas
 
 ––––––––––––––––“.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. spalio 1 d.
 

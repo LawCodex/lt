@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7d0631e255cd11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7D0631E255CD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 9 straipsnio pakeitimo įstatymo Nr. XIV-3118 1 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO NR. VIII-1183 9 STRAIPSNIO PAKEITIMO 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 

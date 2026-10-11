@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E70F310BB00C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E70F310BB00C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolo ratifikavimo" papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [97-4313](https://www.e-tar.lt/portal/lt/legalAct/TAR.7CAB01DC9682))
 
-\#### 1 straipsnis. Įstatymo papildymas 2 straipsniu
+## 1 straipsnis. Įstatymo papildymas 2 straipsniu
 
 Papildyti Įstatymą 2 straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EE03A85CB721"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EE03A85CB721.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1997, Nr. [23-542](https://www.e-tar.lt/portal/lt/legalAct/TAR.1BCF61ADEE2A); 1998, Nr. [16-379](https://www.e-tar.lt/portal/lt/legalAct/TAR.F745A1030FB0), Nr. [20-504](https://www.e-tar.lt/portal/lt/legalAct/TAR.B925020919B6), Nr. [41-1096](https://www.e-tar.lt/portal/lt/legalAct/TAR.57619CF39FA5), Nr. [63-1802](https://www.e-tar.lt/portal/lt/legalAct/TAR.5336CEE37824); 2000, Nr. [67-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF931FB86A84), Nr. [113-3605](https://www.e-tar.lt/portal/lt/legalAct/TAR.B11CBE70DA60); 2001, Nr. [48-1658](https://www.e-tar.lt/portal/lt/legalAct/TAR.E353363A1DEB); 2002, Nr. [62-2493](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3709A6F6C0F), Nr. [64-2577](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0C5051A13E3), Nr. [116-5191](https://www.e-tar.lt/portal/lt/legalAct/TAR.864A2A5C8486); 2003, Nr. [73-3353](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C139AE665CB))
 
-\#### 1 straipsnis. Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymą ir jį išdėstyti taip:
 
@@ -38,15 +38,15 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 Į S T A T Y M A S
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau - turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo arba piniginės socialinės paramos skyrimo.
 
-\## II SKYRIUS. TURTO DEKLARAVIMAS
+II SKYRIUS. TURTO DEKLARAVIMAS
 
-\#### 2 straipsnis. Turtą deklaruojantys gyventojai
+## 2 straipsnis. Turtą deklaruojantys gyventojai
 
 1. Pagal šį Įstatymą turtą deklaruoja šie gyventojai:
 
@@ -98,7 +98,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 4. Valstybės tarnybos tvarkymo funkcijas atliekanti įstaiga, vadovaudamasi Valstybės tarnautojų registre esančiais duomenimis, iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, vardinį sąrašą.
 
-\#### 3 straipsnis. Deklaruojamas turtas
+## 3 straipsnis. Deklaruojamas turtas
 
 1. Šio Įstatymo 2 straipsnio 1 dalyje nurodyti gyventojai privalo deklaruoti jų turimą šį turtą:
 
@@ -122,7 +122,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 4. Turtas, gautas už suteiktą pagalbą slaptai bendradarbiaujant su operatyvinės veiklos subjektais ir kitais įstatymų nustatytais atvejais, nedeklaruojamas.
 
-\#### 4 straipsnis. Deklaruoto turto įsigijimo šaltinių pagrindimas
+## 4 straipsnis. Deklaruoto turto įsigijimo šaltinių pagrindimas
 
 1. Vietos mokesčio administratorius turi teisę duoti gyventojui privalomą vykdyti nurodymą pagrįsti deklaruoto turto (išskyrus turtą, kurio įsigijimo šaltinius nuolatinis Lietuvos gyventojas jau buvo pagrindęs deklaruodamas šį turtą pagal kitus teisės aktus) įsigijimo šaltinius.
 
@@ -130,7 +130,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 3. Prie užsienio kalba surašytų dokumentų turi būti pridėtas vertėjo patvirtintas vertimas į lietuvių kalbą, o užsienio valstybėse išduoti dokumentai, kurių legalizavimas numatytas tarptautiniuose ir Lietuvos Respublikos teisės aktuose, privalo būti legalizuoti.
 
-\#### 5 straipsnis. Turto deklaravimo tvarka
+## 5 straipsnis. Turto deklaravimo tvarka
 
 1. Šio Įstatymo 2 straipsnio 1 dalies 1–19 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
 
@@ -142,7 +142,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 5. Lietuvos Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojai ir pareigūnai, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos nariai turtą deklaruoja atskirais Vyriausybės arba jos įgaliotos institucijos nustatytais terminais ir tvarka.
 
-\#### 6 straipsnis. Kandidatų į valstybės politikus ir į Europos Parlamento narius, išrinktų arba paskirtų į pareigas valstybės politikų ir Europos Parlamento narių, priimtų arba paskirtų į pareigas valstybės tarnautojų, nustojusių eiti pareigas valstybės politikų ir Europos Parlamento narių, iš pareigų atleistų valstybės tarnautojų ir jų šeimos narių turto deklaravimas
+## 6 straipsnis. Kandidatų į valstybės politikus ir į Europos Parlamento narius, išrinktų arba paskirtų į pareigas valstybės politikų ir Europos Parlamento narių, priimtų arba paskirtų į pareigas valstybės tarnautojų, nustojusių eiti pareigas valstybės politikų ir Europos Parlamento narių, iš pareigų atleistų valstybės tarnautojų ir jų šeimos narių turto deklaravimas
 
 1. Kandidatai į valstybės politikus bei į Europos Parlamento narius ir jų šeimos nariai privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais kandidatuojama, gruodžio 31 dieną turimą turtą. Šiems gyventojams vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių deklaracijos duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų komisijai ar apygardos rinkimų komisijai.
 
@@ -150,7 +150,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 3. Nustoję eiti pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai, taip pat iš pareigų atleisti valstybės tarnautojai ir jų šeimos nariai šio Įstatymo 5 straipsnyje nustatyta tvarka privalo deklaruoti kalendorinių metų, kuriais nustojo eiti pareigas arba buvo atleisti iš pareigų, gruodžio 31 dieną turimą turtą.
 
-\#### 7 straipsnis. Gyventojų, pageidaujančių gauti valstybės garantuojamą teisinę pagalbą, taip pat gyventojų, pageidaujančių gauti piniginę socialinę paramą, ir jų šeimos narių turto (įskaitant gautų pajamų) deklaravimas
+## 7 straipsnis. Gyventojų, pageidaujančių gauti valstybės garantuojamą teisinę pagalbą, taip pat gyventojų, pageidaujančių gauti piniginę socialinę paramą, ir jų šeimos narių turto (įskaitant gautų pajamų) deklaravimas
 
 1. Gyventojai, pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, privalo turimą turtą (įskaitant gautas pajamas) deklaruoti prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo.
 
@@ -164,17 +164,17 @@ GYVENTOJŲ TURTO DEKLARAVIMO
 
 6. Šiame straipsnyje nurodytų turtą (įskaitant gautas pajamas) deklaravusių gyventojų pageidavimu gali būti pateikiami trys deklaracijos egzemplioriai. Du deklaracijos egzemplioriai su žyma, kad deklaracija yra pateikta, grąžinami deklaraciją pateikusiam gyventojui.
 
-\## III SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+III SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 8 straipsnis. Duomenų kaupimas ir kontrolė
+## 8 straipsnis. Duomenų kaupimas ir kontrolė
 
 Mokesčio administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisingi, kaupia ir saugo pateiktas deklaracijas bei iš kitų šaltinių gautus duomenis apie gyventojų turimą turtą.
 
-\#### 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
+## 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
 
 Šio Įstatymo 2 straipsnio 1 dalies 1–19 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.
 
-\#### 10 straipsnis. Deklaracijos duomenų paskelbimo tvarka
+## 10 straipsnis. Deklaracijos duomenų paskelbimo tvarka
 
 1. Deklaracijos duomenys gali būti skelbiami, kai yra gyventojo rašytinis sutikimas.
 
@@ -184,7 +184,7 @@ Mokesčio administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisi
 
 4. Kiti valstybės tarnautojai ir jų šeimos nariai gali skelbti „Valstybės žinių“ specialiame priede savo deklaracijų duomenis valstybės lėšomis. Patvirtintą pagrindinių deklaracijos duomenų išrašą ir rašytinį sutikimą skelbti deklaracijos duomenis „Valstybės žinių“ redakcijai pateikia pats gyventojas. Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra tokie pat, kaip nurodyta šio straipsnio 3 dalyje.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

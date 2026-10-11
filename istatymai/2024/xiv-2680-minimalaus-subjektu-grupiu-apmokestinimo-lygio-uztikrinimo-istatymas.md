@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/817253802e4111efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.817253802E41.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos minimalaus subjektų grupių apmokestinimo lygio užtikrinimo įstatymas
@@ -26,15 +26,15 @@ MINIMALAUS SUBJEKTŲ GRUPIŲ APMOKESTINIMO LYGIO UŽTIKRINIMO
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato informacijos, reikalingos minimaliam Lietuvos subjektų grupių ar tarptautinių subjektų grupių uždirbto pelno efektyviajam apmokestinimo lygiui Europos Sąjungoje užtikrinti, teikimo tvarką.
 
 2. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas taikomas apmokestinamiesiems subjektams, kurių buvimo vieta pagal šio įstatymo II skyrių laikoma Lietuvos Respublikos (toliau – Lietuva) teritorija ir kurie priklauso Lietuvos subjektų grupei ar tarptautinei subjektų grupei, kurios pagrindinio patronuojančiojo subjekto konsoliduotosiose finansinėse ataskaitose nurodomos metinės pajamos, įskaitant šio straipsnio 3 ir 4 dalyse nurodytų subjektų pajamas, ne mažiau kaip 2 iš 4 finansinių metų, einančių iš karto prieš tikrinamus finansinius metus, yra 750 000 000 eurų arba didesnės.
 
@@ -62,7 +62,7 @@ Vilnius
 
 5. Duomenis teikiantis apmokestinamasis subjektas gali pasirinkti šio straipsnio 4 dalyje nurodyto subjekto nelaikyti neįtrauktuoju subjektu ir toks jo pasirinkimas galioja 5 finansinius metus iš eilės, skaičiuojant nuo finansinių metų, kuriems duomenis teikiantis apmokestinamasis subjektas šį pasirinkimą pradeda taikyti. Jeigu duomenis teikiantis apmokestinamasis subjektas neatšaukia šio pasirinkimo pasibaigus 5 finansiniams metams, jis automatiškai pratęsiamas ir taikomas iki tų finansinių metų, kuriems duomenis teikiantis apmokestinamasis subjektas šį pasirinkimą atšaukia. Jeigu duomenis teikiantis apmokestinamasis subjektas šį pasirinkimą atšaukia, jis negali pasirinkti šio straipsnio 4 dalyje nurodyto subjekto laikyti neįtrauktuoju subjektu 5 finansinius metus iš eilės, skaičiuojant nuo finansinių metų, kuriems duomenis teikiantis apmokestinamasis subjektas šį pasirinkimo atšaukimą pradeda taikyti.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Apmokestinamasis pelnas – papildiniu mokesčiu apmokestinamas pelnas, apskaičiuojamas pagal Direktyvos (ES) 2022/2523 27 straipsnyje nustatytas taisykles.
 
@@ -284,9 +284,9 @@ c) beveik visas jo pajamas sudaro pagal Direktyvos [(ES) 2022/2523](http://eur-l
 
 50. Šiame įstatyme vartojamos su finansine apskaita susijusios sąvokos suprantamos taip, kaip jos suprantamos pagal priimtinus finansinės apskaitos standartus arba bendrai priimtinus apskaitos principus.
 
-\## II SKYRIUS. APMOKESTINAMOJO SUBJEKTO BUVIMO VIETOS NUSTATYMAS
+II SKYRIUS. APMOKESTINAMOJO SUBJEKTO BUVIMO VIETOS NUSTATYMAS
 
-\#### 4 straipsnis. Subjekto ir nuolatinės buveinės buvimo vieta
+## 4 straipsnis. Subjekto ir nuolatinės buveinės buvimo vieta
 
 1. Šio įstatymo tikslais subjekto, išskyrus pereiginį subjektą, buvimo vieta laikoma jurisdikciją turinti teritorija, kurioje šis subjektas laikomas rezidentu mokesčių tikslais (pagal vadovybės buvimo vietos, įkūrimo vietos ar panašius kriterijus).
 
@@ -302,7 +302,7 @@ c) beveik visas jo pajamas sudaro pagal Direktyvos [(ES) 2022/2523](http://eur-l
 
 7. Jeigu taikant šio straipsnio 1 ir 2 dalis apmokestinamojo subjekto buvimo vieta, išskyrus nuolatinę buveinę, yra dviejose jurisdikciją turinčiose teritorijose, taikomas šio įstatymo 5 straipsnis.
 
-\#### 5 straipsnis. Apmokestinamojo subjekto, kurio buvimo vieta yra dviejose jurisdikciją turinčiose teritorijose, buvimo vietos nustatymas
+## 5 straipsnis. Apmokestinamojo subjekto, kurio buvimo vieta yra dviejose jurisdikciją turinčiose teritorijose, buvimo vietos nustatymas
 
 1. Jeigu apmokestinamojo subjekto buvimo vieta yra dviejose jurisdikciją turinčiose teritorijose, kurios yra sudariusios ir taiko dvigubo apmokestinimo išvengimo sutartį, laikoma, kad tokio apmokestinamojo subjekto buvimo vieta yra toje jurisdikciją turinčioje teritorijoje, kurioje jis laikomas rezidentu mokesčių tikslais pagal nurodytos sutarties nuostatas.
 
@@ -318,7 +318,7 @@ c) beveik visas jo pajamas sudaro pagal Direktyvos [(ES) 2022/2523](http://eur-l
 
 7. Taikant šio straipsnio nuostatas, jeigu patronuojantysis subjektas jo buvimo vietos, nustatytos pagal šio straipsnio 1–6 dalis, jurisdikciją turinčioje teritorijoje netaiko reikalavimus atitinkančios pajamų įtraukimo taisyklės, toks patronuojantysis subjektas turi taikyti šią taisyklę kitoje jurisdikciją turinčioje teritorijoje, išskyrus atvejį, kai tai prieštarauja dvigubo apmokestinimo išvengimo sutarties nuostatoms.
 
-\#### 6 straipsnis. Pereiginio subjekto buvimo vieta
+## 6 straipsnis. Pereiginio subjekto buvimo vieta
 
 1. Pereiginis subjektas, kaip jis suprantamas pagal šio straipsnio 3–6 dalis, laikomas nepriskirtinu jokiai jurisdikciją turinčiai teritorijai.
 
@@ -338,13 +338,13 @@ c) beveik visas jo pajamas sudaro pagal Direktyvos [(ES) 2022/2523](http://eur-l
 
 3) jo pajamos, sąnaudos, pelnas ar nuostoliai nepriskiriami nuolatinei buveinei.
 
-\#### 7 straipsnis. Apmokestinamojo subjekto buvimo vietos pasikeitimas
+## 7 straipsnis. Apmokestinamojo subjekto buvimo vietos pasikeitimas
 
 Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, laikoma, kad šio apmokestinamojo subjekto buvimo vieta yra jurisdikciją turinčioje teritorijoje, kurioje jo buvimo vieta pagal šio įstatymo 4–6 straipsnius buvo finansinių metų pradžioje.
 
-\## III SKYRIUS. INFORMACIJOS TEIKIMAS
+III SKYRIUS. INFORMACIJOS TEIKIMAS
 
-\#### 8 straipsnis. Tarptautinių subjektų grupių prievolė pateikti duomenis
+## 8 straipsnis. Tarptautinių subjektų grupių prievolė pateikti duomenis
 
 1. Tarptautinės subjektų grupės pagrindinis patronuojantysis subjektas, kurio buvimo vieta yra Lietuvoje, privalo užtikrinti, kad būtų teikiami duomenys, reikalingi tos grupės apmokestinamųjų subjektų, kurių buvimo vieta yra kitose Europos Sąjungos valstybėse narėse, prievolėms pagal Direktyvą (ES) 2022/2523 įvykdyti.
 
@@ -370,9 +370,9 @@ Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, lai
 
 8. Šio straipsnio 4 dalyje nurodyto patvirtinimo ir šio straipsnio 6 dalyje nurodyto pranešimo turinį, pateikimo tvarką ir terminus nustato Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
 
-\## IV SKYRIUS. PEREINAMOJO LAIKOTARPIO NUOSTATOS
+IV SKYRIUS. PEREINAMOJO LAIKOTARPIO NUOSTATOS
 
-\#### 9 straipsnis. Subjektų grupių, įgyvendinančių veiklos pradinį etapą, apmokestinamųjų subjektų atleidimas nuo pajamų įtraukimo ir nepakankamai apmokestinamo pelno taisyklių taikymo
+## 9 straipsnis. Subjektų grupių, įgyvendinančių veiklos pradinį etapą, apmokestinamųjų subjektų atleidimas nuo pajamų įtraukimo ir nepakankamai apmokestinamo pelno taisyklių taikymo
 
 1. Papildinis mokestis, kuris būtų apskaičiuotas Lietuvoje buvimo vietą turinčiam Lietuvos subjektų grupės ar tarptautinės subjektų grupės pagrindiniam patronuojančiajam subjektui pagal Direktyvos (ES) 2022/2523 5 straipsnio 2 dalį arba tarpiniam patronuojančiajam subjektui, jeigu pagrindinis patronuojantysis subjektas laikomas neįtrauktuoju subjektu, pagal Direktyvos (ES) 2022/2523 7 straipsnio 2 dalį, sumažinamas iki nulio:
 
@@ -396,7 +396,7 @@ Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, lai
 
 7. Lietuvos subjektų grupė laikoma įgyvendinanti veiklos pradinį etapą pirmuosius 5 finansinius metus, kuriais tokia grupė pirmą kartą patenka į šio įstatymo taikymo sritį.
 
-\#### 10 straipsnis. Veiklos pradinio etapo pradžios nustatymas
+## 10 straipsnis. Veiklos pradinio etapo pradžios nustatymas
 
 1. Šio įstatymo 9 straipsnio 1 ir 2 dalyse nustatytas 5 metų laikotarpis pradedamas skaičiuoti nuo finansinių metų, kuriais Lietuvos subjektų grupė ar tarptautinė subjektų grupė pirmą kartą pasiekia šio įstatymo 2 straipsnio 1 dalyje nurodytą metinių pajamų ribą, pradžios.
 
@@ -404,7 +404,7 @@ Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, lai
 
 3. Jeigu tarptautinė subjektų grupė yra pasiekusi šio įstatymo 2 straipsnio 1 dalyje nurodytą metinių pajamų ribą 2022 m. gruodžio 23 d., 5 metų laikotarpis, nustatytas šio įstatymo 9 straipsnio 2 dalyje, prasideda 2024 m. gruodžio 31 d.
 
-\#### 11 straipsnis. Prievolė informuoti apie veiklos pradinio etapo pradžią
+## 11 straipsnis. Prievolė informuoti apie veiklos pradinio etapo pradžią
 
 1. Lietuvos subjektų grupės ar tarptautinės subjektų grupės apmokestinamasis subjektas, kurio buvimo vieta yra Lietuvoje, privalo, pasibaigus pirmiesiems finansiniams metams, kuriais tokiam apmokestinamajam subjektui pradedamos taikyti šio įstatymo 9 straipsnio 1 arba 2 dalies nuostatos, Valstybinę mokesčių inspekciją informuoti apie tos grupės veiklos pradinio etapo, kaip jis suprantamas pagal šio įstatymo 9 straipsnio 3 arba 7 dalies nuostatas, pradžią, nustatytą pagal šio įstatymo 10 straipsnį, pateikdamas pranešimą.
 
@@ -414,9 +414,9 @@ Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, lai
 
 4. Pranešimo turinį, pateikimo tvarką ir terminus nustato Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
 
-\## V SKYRIUS. SPECIALIOSIOS NUOSTATOS
+V SKYRIUS. SPECIALIOSIOS NUOSTATOS
 
-\#### 12 straipsnis. Metinių pajamų ribos taikymas jungiant subjektų grupes ir subjektus
+## 12 straipsnis. Metinių pajamų ribos taikymas jungiant subjektų grupes ir subjektus
 
 1. Jeigu bet kuriais iš pastarųjų 4 iš eilės einančių finansinių metų, einančių iš karto prieš tikrinamus finansinius metus, 2 arba daugiau subjektų grupių sujungiamos į vieną subjektų grupę, laikoma, kad šio įstatymo 2 straipsnio 1 dalyje nurodyta Lietuvos subjektų grupės ar tarptautinės subjektų grupės metinių pajamų riba, kartu atsižvelgiant į šio įstatymo 2 straipsnio 2 dalį, yra pasiekta kiekvienais prieš susijungimą finansiniais metais, kuriais bendra šių grupių į konsoliduotąsias finansines ataskaitas įtrauktų tų finansinių metų pajamų suma yra 750 000 000 eurų arba didesnė.
 
@@ -428,7 +428,7 @@ Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, lai
 
 2) subjektas, kuris nepriklauso subjektų grupei, pradedamas bendrai kontroliuoti su kitu subjektu ar subjektų grupe taip, kad jie sudaro jungtinę subjektų grupę.
 
-\#### 13 straipsnis. Metinių pajamų ribos taikymas dalijant subjektų grupę
+## 13 straipsnis. Metinių pajamų ribos taikymas dalijant subjektų grupę
 
 1. Jeigu Lietuvos subjektų grupė ar tarptautinė subjektų grupė, kuriai finansiniais metais taikomos Direktyvos (ES) 2022/2523 nuostatos, tais finansiniais metais padalijama į 2 ar daugiau subjektų grupių, laikoma, kad tokia padalyta subjektų grupė pasiekė šio įstatymo 2 straipsnio 1 dalyje nustatytą metinių pajamų ribą, kartu atsižvelgiant į šio įstatymo 2 straipsnio 2 dalį:
 
@@ -438,7 +438,7 @@ Jeigu apmokestinamojo subjekto buvimo vieta finansiniais metais pasikeičia, lai
 
 2. Šio straipsnio tikslais Lietuvos subjektų grupės ar tarptautinės subjektų grupės dalijimu laikomas bet koks susitarimas, pagal kurį vienos subjektų grupės subjektai atskiriami taip, kad jie sudaro 2 ar daugiau atskirų subjektų grupių, kurių nebekonsoliduoja tas pats pagrindinis patronuojantysis subjektas.
 
-\#### 14 straipsnis. Lygiavertiškumo įvertinimas
+## 14 straipsnis. Lygiavertiškumo įvertinimas
 
 Teisinė sistema, nustatyta trečiosios valstybės jurisdikciją turinčios teritorijos vidaus teisės aktais, laikoma lygiaverte reikalavimus atitinkančiai pajamų įtraukimo taisyklei, nustatytai Direktyvos [(ES) 2022/2523](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022L2523&locale=lt) II skyriuje, ir nėra laikoma kontroliuojamųjų užsienio subjektų apmokestinimo tvarka, jeigu tenkinamos visos šios sąlygos:
 
@@ -450,19 +450,19 @@ Teisinė sistema, nustatyta trečiosios valstybės jurisdikciją turinčios teri
 
 4) apskaičiuojant papildinį mokestį pagal lygiavertę reikalavimus atitinkančią pajamų įtraukimo taisyklę, šia sistema nustatoma papildinio mokesčio, kuris buvo sumokėtas Europos Sąjungos valstybėje narėje taikant reikalavimus atitinkančią pajamų įtraukimo taisyklę ir reikalavimus atitinkančio vietos papildinio mokesčio taisyklių rinkinį, nustatytus Direktyvoje (ES) 2022/2523, lengvata.
 
-\## VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 15 straipsnis. Įstatymo laikymosi kontrolė
+## 15 straipsnis. Įstatymo laikymosi kontrolė
 
 Valstybinė mokesčių inspekcija kontroliuoja šio įstatymo reikalavimų laikymąsi. Šiuo tikslu Valstybinės mokesčių inspekcijos (jos pareigūnų) ir apmokestinamųjų subjektų, kurių buvimo vieta yra Lietuvoje, santykiams *mutatis mutandis*taikomos Mokesčių administravimo įstatymo nuostatos dėl mokesčių administratoriaus (jo pareigūnų) ir mokesčių mokėtojų teisių ir pareigų.
 
-\#### 16 straipsnis. Atsakomybė
+## 16 straipsnis. Atsakomybė
 
 1. Už šiame įstatyme nustatytų reikalavimų nevykdymą ir netinkamą vykdymą taikoma Lietuvos Respublikos administracinių nusižengimų kodekse nustatyta atsakomybė.
 
 2. Šio straipsnio 1 dalis netaikoma už šio įstatymo pažeidimą, padarytą finansiniais metais, kurie prasideda iki 2026 m. gruodžio 31 d. ir baigiasi iki 2028 m. birželio 30 d., jeigu Valstybinei mokesčių inspekcijai (jos pareigūnams) apmokestinamasis subjektas įrodo, kad jis dėjo visas pastangas, kad būtų laikomasi šio įstatymo reikalavimų.
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 17 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. liepos 1 d.
 

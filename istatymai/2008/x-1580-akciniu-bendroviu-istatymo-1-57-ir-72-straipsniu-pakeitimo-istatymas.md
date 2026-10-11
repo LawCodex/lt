@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.59CD814E8A9B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.59CD814E8A9B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 1, 57 ir 72 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2005, Nr. [84-3109](https://www.e-tar.lt/portal/lt/legalAct/TAR.63035C474AB7); 2006, Nr. [77-2964](https://www.e-tar.lt/portal/lt/legalAct/TAR.55ECB9FE9974))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Akcinių bendrovių, kurios pagal Vertybinių popierių įstatymą laikomos vertybinių popierių emitentais, reglamentavimo ypatumus nustato Vertybinių popierių įstatymas.“
 
-\#### 2 straipsnis. 57 straipsnio 5 dalies pakeitimas
+## 2 straipsnis. 57 straipsnio 5 dalies pakeitimas
 
 57 straipsnio 5 dalyje išbraukti žodį „rinkos“ ir šią dalį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) išleidžiamų akcijų ar konvertuojamųjų obligacijų skaičius, kurį kiekvienas iš nurodytų asmenų gali įsigyti (jei šiuos duomenis būtina nurodyti pagal šioje dalyje nustatytas sąlygas).“
 
-\#### 3 straipsnis. 72 straipsnio 8 ir 9 dalių pakeitimas
+## 3 straipsnis. 72 straipsnio 8 ir 9 dalių pakeitimas
 
 1. Pakeisti 72 straipsnio 8 dalį ir ją išdėstyti taip:
 

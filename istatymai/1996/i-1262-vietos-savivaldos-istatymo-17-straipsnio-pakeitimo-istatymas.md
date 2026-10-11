@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8193977EE680"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8193977EE680.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 17 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 1995, Nr. [30-683](https://www.e-tar.lt/portal/lt/legalAct/TAR.373D22A2269E), Nr. [59-1486](https://www.e-tar.lt/portal/lt/legalAct/TAR.74BCF79EB1FF), Nr. [79-1820](https://www.e-tar.lt/portal/lt/legalAct/TAR.86756EF8B757))
 
-\#### 1 straipsnis. 17 straipsnio ketvirtosios dalies pakeitimas
+## 1 straipsnis. 17 straipsnio ketvirtosios dalies pakeitimas
 
 17 straipsnio ketvirtosios dalies 4 punkte po žodžių „kitomis savivaldybėmis“ įrašyti žodžius „o jeigu savivaldybės teritorijoje yra laisvoji ekonominė zona, – taip pat sutartis ir susitarimus su šios zonos valdymo bendrove;“ ir visą dalį išdėstyti taip:
 

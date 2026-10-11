@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e65e2a00cd9911e6a2cac7383cbb90a3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E65E2A00CD99.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 3, 9, 10, 12, 13, 16, 21, 22, 25, 26, 27, 29, 31, 33, 34, 35, 44 straipsnių, V skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymo Nr. XII-2607 23 ir 24 straipsnių pakeitimo įstatymas

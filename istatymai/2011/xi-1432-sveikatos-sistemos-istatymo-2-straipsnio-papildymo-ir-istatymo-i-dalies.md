@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9C78AC4A4C38"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9C78AC4A4C38.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 2 straipsnio papildymo ir Įstatymo I dalies papildymo III skyriumi įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A); 2000, Nr. [92-2876](https://www.e-tar.lt/portal/lt/legalAct/TAR.4688980C7C83); 2004, Nr. [171-6309](https://www.e-tar.lt/portal/lt/legalAct/TAR.2F79E8698F3A); 2007, Nr. [64-2456](https://www.e-tar.lt/portal/lt/legalAct/TAR.5490EE6DF9CD); 2008, Nr. [50-1850](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A558A8E794A))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 18 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 18 dalimi
 
 Papildyti 2 straipsnį 18 dalimi:
 
 „18. **Elektroninė sveikatos sistema (e. sveikatos sistema)**– priemonių, skirtų sveikatinimo veiklai, pasitelkiant informacines ir ryšių technologijas, visuma.“
 
-\#### 2 straipsnis. Įstatymo I dalies papildymas III skyriumi
+## 2 straipsnis. Įstatymo I dalies papildymas III skyriumi
 
 Papildyti Įstatymo I dalį III skyriumi:
 
@@ -42,7 +42,7 @@ Papildyti Įstatymo I dalį III skyriumi:
 
 LIETUVOS RESPUBLIKOS ELEKTRONINĖ SVEIKATOS SISTEMA
 
-\#### 131 straipsnis. Lietuvos Respublikos elektroninės sveikatos sistemos valdymas
+## 131 straipsnis. Lietuvos Respublikos elektroninės sveikatos sistemos valdymas
 
 1. Lietuvos Respublikos elektroninės sveikatos sistemos įgyvendinimą koordinuoja ir prižiūri Sveikatos apsaugos ministerija.
 
@@ -52,7 +52,7 @@ LIETUVOS RESPUBLIKOS ELEKTRONINĖ SVEIKATOS SISTEMA
 
 4. Valstybės elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinė sistema finansuojama iš valstybės biudžeto, Europos Sąjungos struktūrinių fondų, taip pat kitų teisės aktuose nustatytų finansavimo šaltinių.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. rugpjūčio 1 d.
 

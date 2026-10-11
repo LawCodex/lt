@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1D47091C33E1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D47091C33E1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymo 6 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [32-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B); 2004, Nr. [171-6324](https://www.e-tar.lt/portal/lt/legalAct/TAR.35FB1DCF3DA2))
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas
+## 1 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Savivaldybės, kurių teritorijoje yra švietimo ir sveikatos priežiūros įsta
 
 3) kaimuose ir miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir miesteliuose esančių sveikatos priežiūros įstaigų gydytojams, jų darbo šiose mokyklose ar įstaigose dienomis važiavusiems į darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus susisiekimo laivais ir keltais.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.
 

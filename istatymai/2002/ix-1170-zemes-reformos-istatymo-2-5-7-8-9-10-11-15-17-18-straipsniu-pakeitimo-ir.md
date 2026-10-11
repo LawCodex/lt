@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0372FCB845EF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0372FCB845EF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 2, 5, 7, 8, 9, 10, 11, 15, 17, 18 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2001, Nr. 71-2524, Nr. 108-3905; 2002, Nr. 68-2763)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnyje vietoj žodžių „Lietuvos Respublikos piliečių“ įrašyti žodžius „asmenų“ ir šį straipsnį išdėstyti taip:
 
@@ -38,19 +38,19 @@ Vilnius
 
 Žemės reformos tikslai: užtikrinant gamtos išteklių apsaugą, įgyvendinti asmenųteisę į žemės nuosavybę bei naudojimą įstatymų nustatyta tvarka ir sąlygomis grąžinant neteisėtai nusavintą žemę, perduodant ar suteikiant neatlygintinai nuosavybėn bei parduodant pageidaujantiems ją pirkti, išnuomojant ar suteikiant naudotis valstybinę žemę; sudaryti teisines ir ekonomines prielaidas žemės rinkai plėtotis, įgyvendinti socialinį teisingumą privatizuojant valstybinę žemę.“
 
-\#### 2 straipsnis. 5 straipsnio 4 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 4 punkto pakeitimas
 
 5 straipsnio 4 punkte išbraukti žodį „piliečių“ ir šį punktą išdėstyti taip:
 
 „4) civiliniai sandoriai dėl žemės.“
 
-\#### 3 straipsnis. 7 straipsnio papildymas nauju 1 punktu
+## 3 straipsnis. 7 straipsnio papildymas nauju 1 punktu
 
 Papildyti 7 straipsnį nauju 1 punktu:
 
 „1) apdovanotiems Vyčio Kryžiaus ordinu ir Vyčio Kryžiumi, žuvusių (mirusių) tokių fizinių asmenų sutuoktiniams, o jeigu sutuoktinio nėra, – tėvams (įtėviams) arba vaikams (įvaikiams) – Vyriausybės nustatyto dydžio vienas žemės sklypas individualiai statybai, jeigu jų prašymai dėl žemės sklypo suteikimo nuosavybėn neatlygintinai pateikti iki Žemės reformos įstatymo 7 straipsnio pakeitimo įstatymo įsigaliojimo (2002 m. liepos 3 d.). Šie žemės sklypai turi būti suprojektuoti iki 2003 m. gruodžio 31 d. savivaldybių tarybų patvirtintose teritorijose.“
 
-\#### 4 straipsnis. 8 straipsnio 1 ir 4 dalių pakeitimas ir papildymas
+## 4 straipsnis. 8 straipsnio 1 ir 4 dalių pakeitimas ir papildymas
 
 1. 8 straipsnio 1 dalies pirmame sakinyje vietoj žodžio „Piliečiams“ įrašyti žodį „Asmenims“, po žodžių „miškas ir vandens telkiniai“ įrašyti žodžius „(suformuotais žemės sklypais)“, antrame sakinyje vietoj žodžio „Piliečiai“ įrašyti žodį „Asmenys“, vietoj skaičiaus „10“ įrašyti skaičių „15“, papildyti dalį trečiu sakiniu ir visą dalį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Papildyti 7 straipsnį nauju 1 punktu:
 
 „4. Užsienio subjektams žemė parduodama pagal Lietuvos Respublikos Konstitucijos 47 straipsnyje nurodytą Konstitucinį įstatymą.“
 
-\#### 5 straipsnis. 9 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 5 straipsnis. 9 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. 9 straipsnio 2 dalies pirmame sakinyje vietoj žodžio „Piliečiams“ įrašyti žodį „Asmenims“ ir šią dalį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Papildyti 7 straipsnį nauju 1 punktu:
 
 „4. Jeigu gyvenamasis namas priklauso kartu keliems savininkams, fiziniams asmenims parduodamas bendras namų valdos naudojamas žemės sklypas, pažymėtas namų valdos techninės apskaitos byloje ir teritorijų planavimo dokumentuose nustatytų ribų, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha – kituose miestuose. Parduodamo žemės sklypo plotas apskrities viršininko sprendimu gali būti padidintas iki naudojamo namų valdos žemės sklypo viso ploto, bet negali būti didesnis kaip atitinkamai 0,2 ha arba 0,3 ha kiekvienam gyvenamojo namo dalies savininkui, jeigu šio žemės sklypo arba jo dalies pagal teritorijų planavimo dokumentus nenumatoma panaudoti miesto ūkio, visuomenės poreikiams ar individualiai statybai suformavus atskirą atidalijamą žemės sklypą.“
 
-\#### 6 straipsnis. 10 straipsnio pavadinimo, 1 ir 4 dalių pakeitimas ir papildymas
+## 6 straipsnis. 10 straipsnio pavadinimo, 1 ir 4 dalių pakeitimas ir papildymas
 
 1. 10 straipsnio pavadinime vietoj žodžio „Piliečių“ įrašyti žodį „Asmenų“ ir pavadinimą išdėstyti taip:
 
@@ -108,13 +108,13 @@ Papildyti 7 straipsnį nauju 1 punktu:
 
 „4. Kai tą patį žemės sklypą pageidauja gauti nuosavybėn neatlygintinai keli vienodąpirmumo teisę turintys piliečiai ar pirkti keli vienodą pirmumo teisę turintys asmenys, žemės sklypas perduodamas ar suteikiamas nuosavybėn neatlygintinai arba parduodamas jį nuomojančiam asmeniui. Jeigu žemės sklypas, kurį pageidauja įsigyti keli vienodą pirmumo teisę turintys piliečiai, nebuvo išnuomotas, jis perduodamas ar suteikiamas nuosavybėn neatlygintinai tam piliečiui, kurio nuosavybės teise priklausantis žemės sklypas ribojasi su perduodamu ar suteikiamu nuosavybėn neatlygintinai žemės sklypu, o jeigu tokių piliečių yra keletas arba tokių nėra, – piliečiui, kuris pirmiau pateikė prašymą. Kai tą patį neišnuomotą žemės sklypą pageidauja pirkti keli vienodą pirmumo teisę turintys asmenys, sklypas parduodamas aukciono būdu. Aukciono organizavimo tvarką nustato Vyriausybė.“
 
-\#### 7 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 11 straipsnio 2 dalyje vietoj žodžio „pilietis“ įrašyti žodį „asmuo“ ir šią dalį išdėstyti taip:
 
 „2. Sprendimai sugrąžinti žemę, perduoti nuosavybėn neatlygintinai lygiavertį turėtajam žemės sklypą, suteikti žemės sklypą nuosavybėn neatlygintinai priimami ir valstybinės žemės pirkimo-pardavimo sutartys sudaromos, jeigu asmuosutinka su įsigyjamo žemės sklypo žemės reformos žemėtvarkos projektuose ir kituose teritorijų planavimo dokumentuose nustatytomis žemės, miško ir vandens telkinių specialiosiomis naudojimo sąlygomis, žemės servitutais ir ūkinės veiklos apribojimais.“
 
-\#### 8 straipsnis. 15 straipsnio 1, 3, 5, 6, 7, 8 dalių pakeitimas ir papildymas
+## 8 straipsnis. 15 straipsnio 1, 3, 5, 6, 7, 8 dalių pakeitimas ir papildymas
 
 1. 15 straipsnio 1 dalyje išbraukti žodį „Piliečių“, vietoj žodžio „piliečių“ įrašyti žodžius „fizinių asmenų“ ir šią dalį išdėstyti taip:
 
@@ -140,7 +140,7 @@ Papildyti 7 straipsnį nauju 1 punktu:
 
 „8. Asmeninio ūkio žemė neparduodama ir vietoj jos kiti žemės sklypai asmeniniam ūkiui skirtoje teritorijoje nesuteikiami naudotis fiziniams asmenims, kuriems asmeninio ūkio žemė suteikta pažeidžiant įstatymus, taip pat fiziniams asmenims, kurie patys nenaudoja jiems suteiktos žemės asmeninio ūkio poreikiams Vyriausybės nustatyta tvarka.“
 
-\#### 9 straipsnis. 17 straipsnio pakeitimas
+## 9 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnio pirmame sakinyje išbraukti žodžius „Fizinių asmenų“ ir šį straipsnį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Papildyti 7 straipsnį nauju 1 punktu:
 
 Prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai, pirkti valstybinę žemę, mišką bei vandens telkinius nagrinėja ir sprendimus priima apskričių viršininkai arba kita įstatymų nustatyta institucija. Prašymus išsinuomoti valstybinę žemę bei gauti naudotis valstybine žeme nagrinėja ir sprendimus priima apskričių viršininkai, savivaldybių institucijos ar kita įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.“
 
-\#### 10 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+## 10 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 18 straipsnio 1 dalyje vietoj žodžio „piliečiai“ įrašyti žodį „asmenys“ ir šią dalį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai, pirkti v
 
 „2. Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 3 straipsnį, įsigalioja nuo Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymo įsigaliojimo dienos.
 

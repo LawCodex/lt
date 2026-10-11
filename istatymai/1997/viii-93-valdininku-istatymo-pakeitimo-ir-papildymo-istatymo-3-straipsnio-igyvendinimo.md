@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E92657FB8335"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E92657FB8335.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valdininkų įstatymo pakeitimo ir papildymo įstatymo 3 straipsnio įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ VALDININKŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO ĮGYVENDINIM
 
 Vilnius
 
-\#### 1 straipsnis. Valdininkų įstatymo 17 straipsnio 5 dalies įgyvendinimas
+## 1 straipsnis. Valdininkų įstatymo 17 straipsnio 5 dalies įgyvendinimas
 
 1. Vyriausybė iki 1997 m. birželio 30 d. parengia ir patvirtina valdininkų atestavimo laikinųjų nuostatų pataisas ir papildymus, kuriais būtų nustatyta Valdininkų įstatymo 17 straipsnio 5 dalyje numatyta valdininkų atestacijos prieš laiką procedūra.
 

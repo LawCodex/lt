@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.843A50E6618E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.843A50E6618E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 2, 4, 5, 6, 8, 9-1, 11, 12, 14, 15, 17, 18, 25, 26 straipsnių pakeitimo ir papildymo, IV skyriaus pavadinimo pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 2003, Nr. [117-5317](https://www.e-tar.lt/portal/lt/legalAct/TAR.084B9677FCAF); 2005, Nr. [142-5105](https://www.e-tar.lt/portal/lt/legalAct/TAR.4DCF5210CEB9);2006, Nr. [61-2175](https://www.e-tar.lt/portal/lt/legalAct/TAR.360031558A9A),Nr. [73-2765](https://www.e-tar.lt/portal/lt/legalAct/TAR.4EC890A40CDB);2008, Nr. [76-3006](https://www.e-tar.lt/portal/lt/legalAct/TAR.870134494A56); 2010, Nr. [145-7433](https://www.e-tar.lt/portal/lt/legalAct/TAR.1259CE58151F); 2011, Nr. [86-4178](https://www.e-tar.lt/portal/lt/legalAct/TAR.7BC1471553C7), Nr. [153-7203](https://www.e-tar.lt/portal/lt/legalAct/TAR.B45D0CA140C3))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -70,19 +70,19 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 19. Užsienio juridinis asmuo – Europos ekonominės erdvės susitarimo dalyvėje, išskyrus Lietuvos Respubliką, ar kitoje užsienio valstybėje įsteigtas juridinis asmuo ar kita organizacija.“
 
-\#### 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
 
 4 straipsnio 3 dalyje vietoj žodžio „valstybių“ įrašyti žodžius „susitarimo dalyvių“, po žodžio „patvirtintose“ įrašyti žodį „(akredituotose)“ ir šią dalį išdėstyti taip:
 
 „3. Sveikatos apsaugos ministerija, taip pat institucija, Lietuvos Respublikos Vyriausybės įgaliota prižiūrėti, kaip laikomasi tabako gaminių sudėties ir kokybės reikalavimų, turi teisę iš tabako gaminių gamintojų ar importuotojų reikalauti atlikti papildomus bandymus tam, kad būtų nustatyti šio straipsnio 2 dalyje nenurodytų tabako gaminiuose esančių ar iš jų išsiskiriančių medžiagų kiekis ir įvertintas jų poveikis sveikatai, ypač jei šios medžiagos pasižymi priklausomybę lemiančiu poveikiu. Papildomai bandomi kiekvieno pavadinimo, prekės ženklo, rūšies tabako gaminiai. Šie bandymai turi būti atlikti Europos ekonominės erdvės susitarimo dalyvių ar Turkijos kompetentingų institucijų patvirtintose (akredituotose) laboratorijose. Šioje dalyje nurodytų bandymų rezultatai kasmet pateikiami Sveikatos apsaugos ministerijai šios nustatyta tvarka. Sveikatos apsaugos ministerija gali nustatyti kitokį bandymų rezultatų pateikimo dažnumą, jei tabako gaminių sudėtis nesikeičia per šios ministerijos nustatytą laikotarpį. Tačiau jei tabako gaminio sudėtis pasikeičia, tabako gaminių gamintojai ar importuotojai privalo pranešti apie tai Sveikatos apsaugos ministerijai.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 5 straipsnio 1 dalyje vietoj žodžio „valstybių“ įrašyti žodžius „susitarimo dalyvių“, po žodžio „patvirtintose“ įrašyti žodį „(akredituotose)“, vietoj žodžių „įmonės gamintojos“ įrašyti žodžius „tabako gaminių gamintojo“ ir šią dalį išdėstyti taip:
 
 „1. Kad tabako gaminiai atitinka teisės aktų nustatytus reikalavimus, įskaitant reikalavimus dėl dervų, nikotino ir anglies monoksido kiekio cigaretėse, turi būti patvirtinta Europos ekonominės erdvės susitarimo dalyvių ar Turkijos kompetentingų institucijų patvirtintose (akredituotose) bandymų laboratorijose atliktų bandymų pagrindu tabako gaminių gamintojo išduotais tabako gaminių atitiktį patvirtinančiais dokumentais.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 3. Sveikatos apsaugos ministerija praneša Europos Bendrijų Komisijai šio straipsnio 1 dalyje nurodytų laboratorijų Lietuvos Respublikoje sąrašą, kriterijus ir taikytus stebėsenos (monitoringo) metodus, kuriais vadovaujantis laboratorijos buvo patvirtintos (akredituotos) bandymams atlikti, taip pat su tuo susijusius pasikeitimus.“
 
-\#### 5 straipsnis. 8 straipsnio 3, 4 ir 5 dalių pakeitimas
+## 5 straipsnis. 8 straipsnio 3, 4 ir 5 dalių pakeitimas
 
 1. 8 straipsnio 3 dalyje vietoj žodžių „prekybos tabako gaminiais“ įrašyti žodžius „tabako gaminių prekybos“ ir šią dalį išdėstyti taip:
 
@@ -108,13 +108,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „5. Tabako gaminių gamintojai, ženklindami tabako gaminius, be kitos teisės aktuose nustatytos informacijos, ant kiekvieno vartotojui parduoti skirto tabako gaminių pakelio (pakuotės), taip pat bet kokios išorinės tabako gaminių pakuotės, kurioje supakuoti tabako gaminiai gali būti parduodami vartotojui mažmeninės prekybos vietose, Lietuvos Respublikos valstybine kalba privalo pateikti įspėjamuosius užrašus apie tabako gaminių kenksmingą poveikį sveikatai, o ženklindami cigaretes – nurodyti ir dervų, nikotino bei anglies monoksido kiekius cigaretėse.“
 
-\#### 6 straipsnis. 91 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 91 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9^1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio juridinių asmenų filialai, turintys licenciją verstis didmenine prekybatabako gaminiais, kas ketvirtį iki kito ketvirčio pirmo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių realizavimo per ketvirtį ataskaitą.“
 
-\#### 7 straipsnis. 11 straipsnio pakeitimas
+## 7 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 16. Šio straipsnio 6, 7, 8, 10, 11, 12 ir 13 dalyse nustatyti licencijų išdavimo, sustabdymo, panaikinimo, įspėjimo apie galimą licencijos galiojimo sustabdymą atvejai ir tvarka taikomi ir ūkininkams, norintiems gauti ar turintiems licencijas verstis tabako auginimu.“
 
-\#### 8 straipsnis. 12 straipsnio pakeitimas
+## 8 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 8. Licencijos verstis tabako auginimu, tabako gaminių gamyba, didmenine ar mažmenine prekyba tabako gaminiais turėtojams leidžiama auginti tabaką, gaminti, parduoti ir (ar) laikyti tabako gaminius tik tose vietose, kurios įrašytos į licenciją. Tabako auginimo, tabako gaminių gamybos, pardavimo ir (ar) laikymo vietą nustatančius duomenis, kurie turi būti įrašyti į licenciją, nustato Lietuvos Respublikos Vyriausybė atitinkamos veiklos rūšies licencijavimo taisyklėse.“
 
-\#### 9 straipsnis. 14 straipsnio 1, 2 dalių pakeitimas, 3 dalies 1 punkto pakeitimas ir papildymas 8 punktu
+## 9 straipsnis. 14 straipsnio 1, 2 dalių pakeitimas, 3 dalies 1 punkto pakeitimas ir papildymas 8 punktu
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -224,7 +224,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „8) neturint tabako gaminių pardavimo ir (ar) laikymo vietoje arba jų gabenimo metu juridinę galią turinčių privalomų tų gaminių įsigijimą arba gabenimą patvirtinančių dokumentų egzemplioriaus.“
 
-\#### 10 straipsnis. 15 straipsnio pavadinimo ir 3 punkto pakeitimas
+## 10 straipsnis. 15 straipsnio pavadinimo ir 3 punkto pakeitimas
 
 1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -234,7 +234,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „3) parduotuvėse, kioskuose ir kitose mažmeninės prekybos vietose, kuriose vaikams skirtų prekių dalis sudaro 50 ir daugiau procentų mažmeninės prekių apyvartos;“.
 
-\#### 11 straipsnis. 17 straipsnio pakeitimas
+## 11 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -268,13 +268,13 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 3 dalyje nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, tabako gaminių prekybos vietose draudžiama pateikti tabako gaminių ar jų pakuočių imitacijas ir atvaizdus. Tabako gaminių prekybos vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio 3 ir 4 dalyse nenustatyta vaizdinė ar grafinė informacija.“
 
-\#### 12 straipsnis. 18 straipsnio 2 dalies pakeitimas
+## 12 straipsnis. 18 straipsnio 2 dalies pakeitimas
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Lietuvos Respublikoje juridiniams asmenims ir užsienio juridinių asmenų filialams, gaminantiems tabako gaminius arba kurių pagrindinė veikla yra prekyba tabako gaminiais, draudžiama remti renginius, skirtus asmenims iki 18 metų, televizijos ir radijo programas, taip pat veiklą ir renginius, kuriuose dalyvauja kelios valstybės arba kurie vykdomi keliose valstybėse, arba kitokiais būdais galinčius turėti poveikį už Lietuvos Respublikos teritorijos ribų.“
 
-\#### 13 straipsnis. IV skyriaus pavadinimo pakeitimas
+## 13 straipsnis. IV skyriaus pavadinimo pakeitimas
 
 IV skyriaus pavadinime įrašyti žodžius „Veiklos, susijusios su tabako gaminiais, priežiūra ir“ ir šį pavadinimą išdėstyti taip:
 
@@ -284,7 +284,7 @@ IV skyriaus pavadinime įrašyti žodžius „Veiklos, susijusios su tabako gami
 
 **už tabako kontrolės įstatymo pažeidimus**“.
 
-\#### 14 straipsnis. 25 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 25 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -296,7 +296,7 @@ IV skyriaus pavadinime įrašyti žodžius „Veiklos, susijusios su tabako gami
 
 3. Buvusias 25 straipsnio 1, 2 ir 3 dalis laikyti atitinkamai 2, 3 ir 4 dalimis.
 
-\#### 15 straipsnis. 26 straipsnio 5, 6, 12 ir 13 dalių pakeitimas
+## 15 straipsnis. 26 straipsnio 5, 6, 12 ir 13 dalių pakeitimas
 
 1. Pakeisti 26 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -326,11 +326,11 @@ IV skyriaus pavadinime įrašyti žodžius „Veiklos, susijusios su tabako gami
 
 6) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos pareigūnai – už 14 straipsnio 3 dalies 1, 3 ir 8 punktų nuostatų pažeidimus.“
 
-\#### 16 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
+## 16 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas
+## 17 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 16 straipsnį, įsigalioja 2012 m. rugsėjo 1 d.
 

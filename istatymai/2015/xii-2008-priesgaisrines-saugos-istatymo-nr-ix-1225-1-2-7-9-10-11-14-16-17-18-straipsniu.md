@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/31fa4e608e0011e5a6f4e928c954d72b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.31FA4E608E00.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 2, 7, 9, 10, 11, 14, 16, 17, 18 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymo Nr. XII-1330 12 straipsnio pakeitimo įstatymas

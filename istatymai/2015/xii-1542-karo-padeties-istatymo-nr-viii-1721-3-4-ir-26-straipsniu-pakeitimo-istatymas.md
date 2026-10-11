@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9c39f470d45511e4bcd1a882e9a189f1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9C39F470D455.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ KARO PADĖTIES ĮSTATYMO NR. VIII-1721 3, 4 IR 26 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 3) šio Įstatymo nustatyti naudojimosi Konstitucijos 22, 24, 25, 32, 35, 36 straipsniuose nurodytomis teisėmis ir laisvėmis ribojimai.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Karo padėtis atšaukiama, kai Seimas panaikina Respublikos Prezidento sprendimą dėl karo padėties įvedimo, priima sprendimą dėl karo padėties atšaukimoarbakai išnyko priežastys, dėl kurių ji buvo įvesta.“
 
-\#### 3 straipsnis. 26 straipsnio pakeitimas
+## 3 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 

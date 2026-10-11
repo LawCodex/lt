@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/59b54ac059ba11e487eff7b424bd0f08"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.59B54AC059BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių įstatinio kapitalo ir vertybinių popierių nominalios vertės išraiškos eurais ir šių bendrovių įstatų keitimo įstatymas
@@ -26,13 +26,13 @@ AKCINIŲ BENDROVIŲ IR UŽDARŲJŲ AKCINIŲ BENDROVIŲ ĮSTATINIO KAPITALO IR VE
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato akcinių bendrovių ir uždarųjų akcinių bendrovių, įsteigtų iki 2014 m. gruodžio 31 d., įstatinio kapitalo, akcijų ir obligacijų, įskaitant konvertuojamąsias obligacijas, nominalios vertės išraiškos litais keitimo į išraišką eurais ir šių bendrovių įstatų keitimo procedūras.
 
 2. Lietuvos Respublikos akcinių bendrovių įstatymo (toliau – Akcinių bendrovių įstatymas) nuostatos šio įstatymo reglamentuojamiems santykiams taikomos tiek, kiek šis įstatymas nenustato kitaip.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatyme (toliau – Euro įvedimo Lietuvos Respublikoje įstatymas), Akcinių bendrovių įstatyme ir kituose įstatymuose.
 
@@ -40,7 +40,7 @@ Vilnius
 
 3. Kai šio įstatymo normos taikomos ir bendrovės akcijoms, ir obligacijoms, vartojamas terminas „vertybiniai popieriai“.
 
-\#### 3 straipsnis. Bendrovės įstatinio kapitalo ir vertybinių popierių nominalios vertės išraiška eurais
+## 3 straipsnis. Bendrovės įstatinio kapitalo ir vertybinių popierių nominalios vertės išraiška eurais
 
 1. Vertybinių popierių nominalios vertės išraiška keičiama vadovaujantis Euro įvedimo Lietuvos Respublikoje įstatymo nuostatomis.
 
@@ -48,7 +48,7 @@ Vilnius
 
 3. Dėl akcijos nominalios vertės eurais euro centų tikslumu suapvalinimo susidaręs įstatinio kapitalo dydžio pokytis nelaikomas įstatinio kapitalo didinimu ar mažinimu ir registruojamas apskaitoje kaip bendrovės finansinių metų, kurie apima euro įvedimo dieną, pajamos (kai pokytis neigiamas) arba sąnaudos (kai pokytis teigiamas).
 
-\#### 4 straipsnis. Vertybinių popierių savininkų teisės ir pareigos
+## 4 straipsnis. Vertybinių popierių savininkų teisės ir pareigos
 
 1. Vertybinių popierių nominalios vertės išraiškos litais keitimas į išraišką eurais neturi įtakos vertybinių popierių savininkų turimoms teisėms ir pareigoms.
 
@@ -56,13 +56,13 @@ Vilnius
 
 3. Likusią nesumokėtą litais išreikštą akcijų emisijos kainą, nurodytą akcijų pasirašymo sutartyse, taip pat steigimo sutartyje ar steigimo akte, bendrovės akcininkai turi sumokėti eurais euro centų tikslumu minėtuose dokumentuose nurodytais terminais. Likusi nesumokėta litais išreikšta akcijų emisijos kaina perskaičiuojama į eurus Euro įvedimo Lietuvos Respublikoje įstatyme nustatyta tvarka ir už šios sąlygos laikymąsi atsako bendrovės vadovas.
 
-\#### 5 straipsnis. Bendrovės pareigos obligacijų savininkams
+## 5 straipsnis. Bendrovės pareigos obligacijų savininkams
 
 1. Bendrovės įsipareigojimai obligacijų pasirašymo sutartyse nurodytais obligacijų išpirkimo terminais sumokėti obligacijų savininkams pinigų sumas, kurias sudaro obligacijų nominali vertė ir metinės palūkanos, vykdomi eurais euro centų tikslumu.
 
 2. Bendrovės įsipareigojimai konvertuojamųjų obligacijų pasirašymo sutartyse nurodytais terminais keisti konvertuojamąsias obligacijas į sutartyse nurodytų klasių akcijų skaičių, vykdomi akcijų nominalias vertes išreiškiant eurais euro centų tikslumu.
 
-\#### 6 straipsnis. Bendrovės įstatų keitimas
+## 6 straipsnis. Bendrovės įstatų keitimas
 
 1. Bendrovės įstatai turi būti pakeisti, įstatinio kapitalo dydį ir akcijų nominalią vertę juose išreiškiant eurais. Pakeisti bendrovių įstatai juridinių asmenų registro tvarkytojui turi būti pateikti per 24 mėnesius nuo šio įstatymo įsigaliojimo dienos.
 
@@ -70,7 +70,7 @@ Vilnius
 
 3. Sprendimą pakeisti bendrovės įstatus, kai jie keičiami įskaitant, bet neapsiribojant bendrovės įstatuose nurodyto įstatinio kapitalo dydžio ir akcijų nominalios vertės išraiškos litais keitimu į išraišką eurais, priima visuotinis akcininkų susirinkimas Akcinių bendrovių įstatymo nustatyta tvarka.
 
-\#### 7 straipsnis. Bendrovės vertybinių popierių ir įrašų apie juos keitimas
+## 7 straipsnis. Bendrovės vertybinių popierių ir įrašų apie juos keitimas
 
 1. Akcinės bendrovės, taip pat uždarosios akcinės bendrovės vertybinių popierių savininkų sąskaitose, kurias tvarko sąskaitų tvarkytojai, esančių įrašų pakeitimai, susiję su vertybinių popierių nominalios vertės išraiška eurais, atliekami Lietuvos centrinio vertybinių popierių depozitoriumo nustatyta tvarka.
 
@@ -86,11 +86,11 @@ Vilnius
 
 3. Už šio straipsnio 2 dalyje nurodytų uždarosios akcinės bendrovės veiksmų atlikimą atsako uždarosios akcinės bendrovės vadovas.
 
-\#### 8 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 8 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Asmenys, pažeidę šio įstatymo nustatytus reikalavimus, atsako įstatymų nustatyta tvarka.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 

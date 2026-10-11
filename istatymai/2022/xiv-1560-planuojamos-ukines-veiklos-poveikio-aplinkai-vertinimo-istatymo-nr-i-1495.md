@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/61773d4076c611edbc04912defe897d1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.61773D4076C6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas
@@ -614,8 +614,6 @@ AR1, AR2, ... ARn – ribinis vietų atitinkamos rūšies gyvūnams auginti dydi
 
 __________________
 
-part_72746cb125eb4482bbde7eee3321cdea_end
-
 Lietuvos Respublikos
 
 planuojamos ūkinės veiklos poveikio
@@ -960,8 +958,6 @@ AR1, AR2, ... ARn – ribinis vietų atitinkamos rūšies gyvūnams auginti dydi
 
 _______________
 
-part_e90a5c7203264724aede5b574514a599_end
-
 Lietuvos Respublikos
 
 planuojamos ūkinės veiklos poveikio
@@ -978,14 +974,6 @@ aplinkai vertinimo įstatymo
 
 _______________“.
 
-part_b3430245472b4735b4d38309ad4a407b_end
-
-part_c6dc6a6daa3b4d2eb481965d7df1102d_end
-
-part_cc90b3251fc04e9d9ab2844fa7e0eec7_end
-
-part_cfc33776de0f4e858378907e4ac33d70_end
-
 ### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2023 m. sausio 1 d.
@@ -997,5 +985,3 @@ part_cfc33776de0f4e858378907e4ac33d70_end
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_707b6561ea48425fb6217655cddaefed_end

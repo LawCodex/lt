@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9002EA33A3D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9002EA33A3D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 172, 173, 174, 175 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2003, Nr. [38-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.975256606460); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC))
 
-\#### 1 straipsnis. 172 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 172 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 172 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 2 straipsnis. 173 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 173 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 173 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 3 straipsnis. 174 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 174 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 174 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ baudžiamas areštu, arba bauda, arba laisvės atėmimu iki penkerių metų.
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 4 straipsnis. 175 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 175 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 175 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

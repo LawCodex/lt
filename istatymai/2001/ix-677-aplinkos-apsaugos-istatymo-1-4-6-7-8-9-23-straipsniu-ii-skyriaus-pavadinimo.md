@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3D555BF4BF16"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3D555BF4BF16.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 4, 6, 7, 8, 9, 23 straipsnių, II skyriaus pavadinimo pakeitimo ir įstatymo papildymo 22(1) straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62); 1996, Nr. [57-1335](https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124); 2000, Nr. [39-1093](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA03EC25C86C))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 1 straipsnį ir jį išdėstyti taip:
 
@@ -66,13 +66,13 @@ Pakeisti bei papildyti 1 straipsnį ir jį išdėstyti taip:
 
 15) genetiškai modifikuotas organizmas – organizmas (išskyrus žmogų), kurio genetinė medžiaga yra taip pakeista ir įgijusi tokių savybių, kurios negalėtų atsirasti organizmui dauginantis natūraliu būdu.“
 
-\#### 2 straipsnis. 4 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 4 dalies pakeitimas
 
 4 straipsnio 4 dalyje vietoj žodžių „savalaike ekologine informacija“ įrašyti žodžius „laiku sukaupta informacija apie aplinką“ ir šią dalį išdėstyti taip:
 
 „Aplinkos apsauga grindžiama visapusiška, teisinga ir laiku sukaupta informacija apie aplinką.“
 
-\#### 3 straipsnis. 6 straipsnio 5 dalies 6, 7, 9, 16 punktų bei 7 dalies 7 punkto pakeitimas ir papildymas
+## 3 straipsnis. 6 straipsnio 5 dalies 6, 7, 9, 16 punktų bei 7 dalies 7 punkto pakeitimas ir papildymas
 
 1. 6 straipsnio 5 dalies 6 punkte išbraukti žodžius „valstybinių rezervatų, draustinių, valstybinių parkų, gamtos paminklų, kitų gamtinio pobūdžio“ ir šį punktą išdėstyti taip:
 
@@ -94,13 +94,13 @@ Pakeisti bei papildyti 1 straipsnį ir jį išdėstyti taip:
 
 „7) tvarko miestų ir kaimų gyvenamųjų vietovių želdynus, rengia ir tvirtina želdinių apsaugos taisykles, skelbia saugotinais vertingus dendrologiniu, ekologiniu, estetiniu, kultūriniu bei kraštovaizdžio formavimo požiūriu medžius ir krūmus, augančius valstybinėje ne miškų ūkio paskirties žemėje ir privačioje žemėje. Vyriausybės įgaliota institucija nustato kriterijus, pagal kuriuos medžiai ir krūmai priskiriami saugotiniems.“
 
-\#### 4 straipsnis. II skyriaus pavadinimo pakeitimas
+## 4 straipsnis. II skyriaus pavadinimo pakeitimas
 
 Pakeisti II skyriaus pavadinimą ir jį išdėstyti taip:
 
 „**II****SKYRIUS.****LIETUVOS RESPUBLIKOS PILIEČIŲ, VISUOMENINIŲ ORGANIZACIJŲ, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS**“.
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Piliečiai, visuomeninės organizacijos, kiti juridiniai ir fiziniai asmenys tur
 
 9) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas nustatyta tvarka.“
 
-\#### 6 straipsnis. 8 straipsnio pavadinimo, 2, 8 ir 9 punktų pakeitimas
+## 6 straipsnis. 8 straipsnio pavadinimo, 2, 8 ir 9 punktų pakeitimas
 
 1. Pakeisti 8 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -144,7 +144,7 @@ Piliečiai, visuomeninės organizacijos, kiti juridiniai ir fiziniai asmenys tur
 
 „9) skatinti piliečius, visuomenines organizacijas, kitus juridinius ir fizinius asmenis dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Piliečiai, visuomeninės organizacijos, kiti juridiniai ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos išteklius ir nepažeisti kitų gamtos išteklių naudotojų teisių bei interesų.“
 
-\#### 8 straipsnis. Įstatymo papildymas 221 straipsniu
+## 8 straipsnis. Įstatymo papildymas 221 straipsniu
 
 Papildyti Įstatymą 22^1 straipsniu:
 
@@ -160,7 +160,7 @@ Papildyti Įstatymą 22^1 straipsniu:
 
 Veiklą, susijusią su genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais, jų naudojimo valstybinį valdymą reglamentuoja, taip pat šių organizmų ir produktų naudotojų teises, pareigas ir atsakomybę nustato Genetiškai modifikuotų organizmų įstatymas.“
 
-\#### 9 straipsnis. 23 straipsnio pakeitimas
+## 9 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.53935ABD28C4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.53935ABD28C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1662](https://www.e-tar.lt/portal/lt/legalAct/TAR.55BCCA64A827))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1 straipsnio 1 dalį pakeisti, 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Lietuvos Respublikos Seimas, vadovaudamasis Valstybės skolos įstatymo 5 straipsnio 1 dalimi bei 7 straipsnio 1 dalimi, nusprendžia imti užsienio paskolas iš užsienio bankų, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir (ar) suteikti valstybės garantijas šiems bankams dėl teikiamų paskolų akcinei bendrovei „Būtingės nafta“ Būtingės naftos terminalo projektui finansuoti.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Iš 2 straipsnio išbraukti pirmojo sakinio žodžius „1 straipsnyje išvardytais“ bei paskutinįjį sakinį ir šį straipsnį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Iš 2 straipsnio išbraukti pirmojo sakinio žodžius „1 straipsnyje išvardyt
 
 Įgalioti Lietuvos Respublikos Vyriausybę derėtis su užsienio bankais dėl konkrečių kiekvienos paskolos suteikimo sąlygų, taip pat konkrečios kiekvienos paskolos sumos ir nustatyti tai Vyriausybės nutarimuose.“
 
-\#### 3 straipsnis. Įstatymo papildymas 3 straipsniu
+## 3 straipsnis. Įstatymo papildymas 3 straipsniu
 
 Papildyti įstatymą 3 straipsniu:
 

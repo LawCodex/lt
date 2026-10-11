@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.25E43DCC8953"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25E43DCC8953.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 78 ir 80 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0))
 
-\#### 1 straipsnis. 78 straipsnio pakeitimas
+## 1 straipsnis. 78 straipsnio pakeitimas
 
 Pakeisti 78 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šis įstatymas įsigalioja nuo Civilinio kodekso (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB)) įsigaliojimo dienos.“
 
-\#### 2 straipsnis. 80 straipsnio pakeitimas
+## 2 straipsnis. 80 straipsnio pakeitimas
 
 Pakeisti 80 straipsnio 1 dalį ir ją išdėstyti taip:
 

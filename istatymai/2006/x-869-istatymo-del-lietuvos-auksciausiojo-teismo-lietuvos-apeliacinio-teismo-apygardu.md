@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4B2A9EF208DE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4B2A9EF208DE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 7 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Bylų perdavimo tvarka
+## 1 straipsnis. Bylų perdavimo tvarka
 
 1. Apylinkių ir apygardų teismai, kurių veiklos teritorijos, įsigaliojus Lietuvos Respublikos įstatymo „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“ 7 straipsnio pakeitimo įstatymui, pasikeitė, iki 2006 m. gruodžio 31 d. gautas baudžiamąsias bylas, ieškinio pareiškimus, pareiškimus, prašymus ar skundus nagrinėja iš esmės ir priima sprendimus.
 

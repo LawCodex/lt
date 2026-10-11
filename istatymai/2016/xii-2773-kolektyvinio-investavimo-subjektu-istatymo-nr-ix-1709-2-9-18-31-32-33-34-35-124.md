@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e34d88c0ac9611e6b844f0f29024f5ac"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E34D88C0AC96.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 9, 18, 31, 32, 33, 34, 35, 124, 152, 167, 168, 170, 171, 173, 174 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 14-1, 32-1, 163-1 straipsniais ir Kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 170 straipsnio pakeitimo įstatymo Nr. XII-2453 pripažinimo netekusiu galios įstatymas

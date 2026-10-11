@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.79ABBBD469EE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.79ABBBD469EE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 69 straipsnio pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2001, Nr. 37-1231, Nr. 63-2278, Nr. 85-2972, Nr. 92-3210)
 
-\#### 1 straipsnis. 69 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 69 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,15 +50,11 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai viešojo administravimo valstybės tarnautojams – M (viešojo administravimo) ir paslaugų valstybės tarnautojams – M (paslaugų):
 
-\| Metai | 2001 | 2002 | 2003 | 2004 | | |
-
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| Pusmečiai | II | I | II | I | II | I |
-
-\| M (viešojo administravimo) | 0,1 | 0,3 | 0,5 | 0,7 | 0,8 | 0,9 |
-
-\| M (paslaugų) | 0 | 0 | 0,2 | 0,4 | 0,6 | 0,9 |
+| Metai | 2001 | 2002 | 2003 | 2004 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pusmečiai | II | I | II | I | II | I |
+| M (viešojo administravimo) | 0,1 | 0,3 | 0,5 | 0,7 | 0,8 | 0,9 |
+| M (paslaugų) | 0 | 0 | 0,2 | 0,4 | 0,6 | 0,9 |
 
 P – šio įstatymo 34 straipsnio 1 dalies 1 ir 3 punktuose numatytos priemokos;
 
@@ -78,11 +74,9 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai didinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
 
-\| Metai | 2001 | 2002 (II pusmetis) | 2003 | 2004 | 2005 | 2006 |
-
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| D | 0 | 0,1 | 0,3 | 0,5 | 0,7 | 0,9 |
+| Metai | 2001 | 2002 (II pusmetis) | 2003 | 2004 | 2005 | 2006 |
+| --- | --- | --- | --- | --- | --- | --- |
+| D | 0 | 0,1 | 0,3 | 0,5 | 0,7 | 0,9 |
 
 P – šio įstatymo 34 straipsnio 1 dalies 1 ir 3 punktuose numatytos priemokos;
 
@@ -94,7 +88,7 @@ S – šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatyti prieda
 
 4. 69 straipsnio buvusią 6 dalį laikyti 7 dalimi.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
 

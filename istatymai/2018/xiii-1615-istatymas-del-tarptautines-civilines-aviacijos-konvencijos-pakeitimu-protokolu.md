@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4ba13310e8cf11e88dd9e201dd8ee4f2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4BA13310E8CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės civilinės aviacijos konvencijos pakeitimų protokolų ratifikavimo
@@ -26,7 +26,7 @@ DĖL TARPTAUTINĖS CIVILINĖS AVIACIJOS KONVENCIJOS PAKEITIMŲ PROTOKOLŲ RATIFI
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos pakeitimų protokolų ratifikavimas
+## 1 straipsnis. Konvencijos pakeitimų protokolų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2018 m. rugsėjo 3 d. dekretą Nr. 1K-1397, ratifikuoja Tarptautinės civilinės aviacijos konvencijos 50 straipsnio a dalies pakeitimo protokolą, priimtą 2016 m. spalio 6 d. Monrealyje, ir Tarptautinės civilinės aviacijos konvencijos 56 straipsnio pakeitimo protokolą, priimtą 2016 m. spalio 6 d. Monrealyje.
 

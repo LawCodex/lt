@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8C85316BE73E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8C85316BE73E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kredito unijų įstatymo 9, 17 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [26-578](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01))
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 1. 9 straipsnio 2 dalyje po žodžių „unijos nariui“ įrašyti žodžius „ar asocijuotam nariui“, papildyti straipsnį nauja 3 dalimi ir šias dalis išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2. Buvusią 3 dalį laikyti 4 dalimi.
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 Iš 17 straipsnio 8 dalies išbraukti žodžius „ir gauti iš kredito unijos naujų paskolų“, papildyti straipsnį 9 dalimi ir šias dalis išdėstyti taip:
 

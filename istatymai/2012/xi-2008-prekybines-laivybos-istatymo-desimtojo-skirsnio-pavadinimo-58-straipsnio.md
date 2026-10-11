@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.86A9F11A7BD4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.86A9F11A7BD4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo dešimtojo skirsnio pavadinimo, 58 straipsnio, Įstatymo priedo pakeitimo ir papildymo, įstatymo papildymo 58-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [101-2300](https://www.e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8); 2000, Nr. [75-2266](https://www.e-tar.lt/portal/lt/legalAct/TAR.7669EDB22079), Nr. [85-2584](https://www.e-tar.lt/portal/lt/legalAct/TAR.10908B23A308); 2003, Nr. [73-3355](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2AC442F66BD); 2005, Nr. [31-973](https://www.e-tar.lt/portal/lt/legalAct/TAR.C31BE8587CCB))
 
-\#### 1 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
+## 1 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
 
 Dešimtojo skirsnio pavadinime po žodžio „ribojimas“ įrašyti žodžius „ir laivo valdytojo prievolių įvykdymo užtikrinimas“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -36,7 +36,7 @@ Dešimtojo skirsnio pavadinime po žodžio „ribojimas“ įrašyti žodžius �
 
 LAIVO VALDYTOJO IR GELBĖTOJO ATSAKOMYBĖS RIBOJIMAS IR LAIVO VALDYTOJO PRIEVOLIŲ ĮVYKDYMO UŽTIKRINIMAS“.
 
-\#### 2 straipsnis. 58 straipsnio pakeitimas
+## 2 straipsnis. 58 straipsnio pakeitimas
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
 2. Asmuo, už kurio veiksmus, aplaidumą ar įsipareigojimų nevykdymą atsako laivo valdytojas ar gelbėtojas, turi teisę pasinaudoti Konvencijoje dėl atsakomybės pagal jūrinius reikalavimus ribojimo ir kitose Lietuvos Respublikos tarptautinėse sutartyse nustatyta teise riboti atsakomybę.“
 
-\#### 3 straipsnis. Įstatymo papildymas 581 straipsniu
+## 3 straipsnis. Įstatymo papildymas 581 straipsniu
 
 Papildyti Įstatymą 58^1straipsniu:
 
@@ -68,13 +68,13 @@ Papildyti Įstatymą 58^1straipsniu:
 
 4. Lietuvos saugios laivybos administracija ir Lietuvos Respublikos jūrų uostus valdančios įmonės prižiūri, kaip laivų valdytojai laikosi šio straipsnio 1 ir 2 dalyse nurodytų nuostatų.“
 
-\#### 4 straipsnis. Įstatymo priedo papildymas 4 punktu
+## 4 straipsnis. Įstatymo priedo papildymas 4 punktu
 
 Papildyti Įstatymo priedą 4 punktu:
 
 „4. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/20/EB dėl laivų savininkų atsakomybės pagal jūrinius reikalavimus draudimo (OL 2009 L 131, p. 128).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

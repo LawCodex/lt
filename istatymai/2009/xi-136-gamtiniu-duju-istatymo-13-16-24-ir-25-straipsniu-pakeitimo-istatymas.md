@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A9CD52D96299"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A9CD52D96299.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo 13, 16, 24 ir 25 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C); 2007, Nr. [43-1626](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CA9E36B4EA1))
 
-\#### 1 straipsnis. 13 straipsnio 1 dalies 4 punkto pakeitimas
+## 1 straipsnis. 13 straipsnio 1 dalies 4 punkto pakeitimas
 
 13 straipsnio 1 dalies 4 punkte vietoj žodžių „Ūkio ministerijai“ įrašyti žodžius „Energetikos ministerijai“, vietoj žodžių „Ūkio ministerija“ įrašyti žodžius „Energetikos ministerija“ ir šį punktą išdėstyti taip:
 
 „4) kiekvienais metais rengia metines veiklos ir saugumo užtikrinimo ataskaitas ir pateikia jas Komisijai bei Energetikos ministerijai. Sistemų operatorių metinių veiklos ir saugumo užtikrinimo ataskaitų turinį nustato Energetikos ministerija.“
 
-\#### 2 straipsnis. 16 straipsnio 5 ir 6 dalių pakeitimas
+## 2 straipsnis. 16 straipsnio 5 ir 6 dalių pakeitimas
 
 1. 16 straipsnio 5 dalyje vietoj žodžių „Ūkio ministerijai“ įrašyti žodžius „Energetikos ministerijai“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „6. Tiekimo įmonė turi parengti metines savo veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas Komisijai bei Energetikos ministerijai. Tiekimo įmonių metinių veiklos ir saugumo užtikrinimo ataskaitų turinį nustato Energetikos ministerija.“
 
-\#### 3 straipsnis. 24 straipsnio 1, 2, 7 ir 8 dalių pakeitimas
+## 3 straipsnis. 24 straipsnio 1, 2, 7 ir 8 dalių pakeitimas
 
 1. 24 straipsnio 1 dalyje vietoj žodžių „Ūkio ministerijai“ įrašyti žodžius „Energetikos ministerijai“ ir šią dalį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Vilnius
 
 „8. Energetikos ministerija teikia informaciją apie dujų saugumo užtikrinimo priemones, nurodytas šio straipsnio 1 dalyje, Europos Komisijai ir Europos Sąjungos valstybėms narėms. Energetikos ministerija kiekvienais metais ne vėliau kaip iki liepos 31 dienos parengia ir paskelbia apibendrintą saugumo ataskaitą ir pateikia ją Europos Komisijai.“
 
-\#### 4 straipsnis. 25 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 25 straipsnio 2 dalies pakeitimas
 
 25 straipsnio 2 dalyje vietoj žodžių „Ūkio ministerijos“ įrašyti žodžius „Energetikos ministerijos“ ir šią dalį išdėstyti taip:
 
 „2. Valstybinė energetikos inspekcija prie Energetikos ministerijos išankstine neteismine skundų nagrinėjimo tvarka nagrinėja skundus dėl įrenginių, apskaitos priemonių, sistemų įrengimo, eksploatavimo, avarijų ir sutrikimų, dujų apskaitos ir mokėjimo už sunaudotas dujas pažeidimų, vartotojų sistemų prijungimo sąlygų bei perdavimo, laikymo, skirstymo ar SGD sistemų techninės saugos ir patikimumo.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.
 

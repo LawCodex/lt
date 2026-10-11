@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ffa7dd423bc611f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FFA7DD423BC6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 34 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ SAUGOMŲ TERITORIJŲ ĮSTATYMO NR. I-301 34 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 34 straipsnio pakeitimas
+## 1 straipsnis. 34 straipsnio pakeitimas
 
 1. Pakeisti 34 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „8. Šiame straipsnyje nustatytas teisinis reglamentavimas taip pat taikomas kompensuojant už apribojimus, kurie šio įstatymo nustatytais atvejais nustatomi su žemės, esančios valstybės ar savivaldybių įsteigtose ar nustatytose saugomose teritorijose, „Natura 2000“ tinklo teritorijose, „Natura 2000“ tinklo teritorijos artimoje aplinkoje, savininku ar valdytoju sudarant apsaugos sutartis dėl veiklos apribojimų, konkrečių žemės, miško ir vandens telkinio naudojimo sąlygų.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0538DEE125C2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0538DEE125C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 10, 15, 22, 33, 38, 39, 56, 68(1) - 68(7) straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 60-1411, Nr. 100-2265)
 
-\#### 1 straipsnis. 10 straipsnio papildymas
+## 1 straipsnis. 10 straipsnio papildymas
 
 1. Papildyti 10 straipsnį šia 2 dalimi:
 
@@ -38,19 +38,19 @@ Nr. 60-1411, Nr. 100-2265)
 
 2. 10 straipsnio buvusią 2 dalį laikyti 3 dalimi.
 
-\#### 2 straipsnis. 15 straipsnio papildymas
+## 2 straipsnis. 15 straipsnio papildymas
 
 Papildyti 15 straipsnį 3 dalimi:
 
 „Apylinkės teismo hipotekos skyriaus kompetencija nustatyta šio įstatymo XVI skirsnyje.“
 
-\#### 3 straipsnis. 22 straipsnio 2 dalies papildymas
+## 3 straipsnis. 22 straipsnio 2 dalies papildymas
 
 Papildyti 22 straipsnio 2 dalies paskutinįjį sakinį žodžiais „taip pat gali atlikti hipotekos teisėjo funkcijas“ ir visą dalį išdėstyti taip:
 
 „Apylinkės teismo teisėju taip pat gali būti skiriamas ne jaunesnis kaip 23 metų nepriekaištingos reputacijos asmuo, turintis aukštąjį teisinį universitetinį išsilavinimą, įvykdęs šio įstatymo 22^1 straipsnyje kandidatui į apylinkės teismo teisėjus keliamus reikalavimus ir išlaikęs apylinkės teismo teisėjo egzaminus. Toks teisėjas, iki jam sueis 25 metai, nagrinėja administracinių teisės pažeidimų, alimentų nepilnamečiams vaikams išieškojimo nesant ginčo civilines ir kitas įstatymų numatytas bylas, taip pat gali atlikti hipotekos teisėjo funkcijas.“
 
-\#### 4 straipsnis. 33 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 33 straipsnio pakeitimas ir papildymas
 
 1. 33 straipsnio pavadinime po žodžių „skyrių pirmininkų“ įrašyti žodžius „hipotekos teisėjų“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -62,7 +62,7 @@ Papildyti 22 straipsnio 2 dalies paskutinįjį sakinį žodžiais „taip pat ga
 
 Apylinkių teismų pirmininkai, jų pavaduotojai, taip pat hipotekos skyrių hipotekos teisėjai skiriami 5 metams.“
 
-\#### 5 straipsnis. 38 straipsnio papildymas
+## 5 straipsnis. 38 straipsnio papildymas
 
 1. 38 straipsnio pavadinime po žodžių „apylinkių teismų teisėjų“ įrašyti žodžius „ir hipotekos teisėjų“ ir šio straipsnio pavadinimą išdėstyti taip:
 
@@ -72,7 +72,7 @@ Apylinkių teismų pirmininkai, jų pavaduotojai, taip pat hipotekos skyrių hip
 
 „Apylinkės teismo hipotekos skyriaus hipotekos teisėjui susirgus arba dėl kitų jo nebuvimo priežasčių teisingumo ministras, apylinkės teismo pirmininkui pasiūlius, šias pareigas gali pavesti laikinai eiti kitam to paties apylinkės teismo teisėjui arba kito apylinkės teismo hipotekos skyriaus hipotekos teisėjui.“
 
-\#### 6 straipsnis. 39 straipsnio 1 ir 3 dalių papildymas
+## 6 straipsnis. 39 straipsnio 1 ir 3 dalių papildymas
 
 1. 39 straipsnio 1 dalyje po žodžių „atleidžia iš darbo teismo raštinės“ įrašyti žodžius „hipotekos skyriaus“ ir visą dalį išdėstyti taip:
 
@@ -82,19 +82,19 @@ Apylinkių teismų pirmininkai, jų pavaduotojai, taip pat hipotekos skyrių hip
 
 „Teismų pirmininkai, jų pavaduotojai ir skyrių pirmininkai, nagrinėdami bylas, o apylinkės teismų hipotekos skyrių hipotekos teisėjai, vykdydami įstatymų jiems pavestas funkcijas, turi tokias pat teises ir pareigas kaip ir kiti teisėjai.“
 
-\#### 7 straipsnis. 56 straipsnio 8 dalies papildymas
+## 7 straipsnis. 56 straipsnio 8 dalies papildymas
 
 56 straipsnio 8 dalyje po žodžių „skyrių pirmininkus“ įrašyti žodžius „taip pat apylinkių teismų hipotekos skyrių hipotekos teisėjus“ ir visą dalį išdėstyti taip:
 
 „Kitų teismų pirmininkų pavaduotojus ar skyrių pirmininkus, taip pat apylinkių teismų hipotekos skyrių hipotekos teisėjus atleidžia iš pareigų teisingumo ministras.“
 
-\#### 8 straipsnis. XVI skirsnio pavadinimo pakeitimas
+## 8 straipsnis. XVI skirsnio pavadinimo pakeitimas
 
 Pakeisti XVI skirsnio pavadinimą ir jį išdėstyti taip:
 
 „APYLINKĖS TEISMO HIPOTEKOS SKYRIUS“
 
-\#### 9 straipsnis. 681 straipsnio pakeitimas
+## 9 straipsnis. 681 straipsnio pakeitimas
 
 Pakeisti 68^1 straipsnį bei jo pavadinimą ir visą straipsnį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Hipotekos skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais
 
 Hipotekos skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir sąskaitą banke.“
 
-\#### 10 straipsnis. 682 straipsnio pakeitimas
+## 10 straipsnis. 682 straipsnio pakeitimas
 
 Pakeisti 68^2 straipsnį ir jį išdėstyti taip:
 
@@ -122,7 +122,7 @@ Hipotekos teisėjo pasiūlymu apylinkės teismo pirmininkas gali įgalioti kitus
 
 Hipotekos teisėjo nutartys skundžiamos ta pačia tvarka ir terminais kaip apylinkės teismo sprendimai, nutartys ir nutarimai civilinėse bylose.“
 
-\#### 11 straipsnis. 683 straipsnio pakeitimas
+## 11 straipsnis. 683 straipsnio pakeitimas
 
 Pakeisti 68^3 straipsnį bei jo pavadinimą ir visą straipsnį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Hipotekos skyrių veiklą užtikrina ir prižiūri teisingumo ministras, laikyda
 
 Teisingumo ministerija tikrina hipotekos skyrių ūkinę ir finansinę veiklą teisingumo ministro nustatyta tvarka.“
 
-\#### 12 straipsnis. 684 straipsnio pakeitimas
+## 12 straipsnis. 684 straipsnio pakeitimas
 
 Pakeisti 68^4 straipsnį bei jo pavadinimą ir visą straipsnį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Hipotekos registro duomenys apie įregistruotus įkeitimus yra vieši. Hipotekos
 
 Hipotekos skyriai atsako už hipotekos registro duomenų teisingumą ir jų išduotų dokumentų atitikimą hipotekos registro duomenims.“
 
-\#### 13 straipsnis. 685 straipsnio pakeitimas
+## 13 straipsnis. 685 straipsnio pakeitimas
 
 Pakeisti 68^5 straipsnį bei jo pavadinimą ir visą straipsnį išdėstyti taip:
 
@@ -154,7 +154,7 @@ Priteista atlygintinos žalos suma išieškoma iš hipotekos skyriaus lėšų, g
 
 Valstybė, atlyginusi žalą, įgyja atgręžtinio reikalavimo teisę į hipotekos teisėją bei kitus hipotekos skyriaus darbuotojus, kurių neteisėtais veiksmais buvo padaryta žala. Atgręžtinio reikalavimo tvarka išieškotos sumos sumokamos į valstybės biudžetą.“
 
-\#### 14 straipsnis. 686 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 686 straipsnio pakeitimas ir papildymas
 
 68^6 straipsnio pavadinime ir 1 dalyje vietoj žodžio „įstaigų“ įrašyti žodį „skyrių“, pakeisti 2 dalį, papildyti 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -166,7 +166,7 @@ Atlyginimo už įkeitimų įregistravimą bei hipotekos registro duomenų naudoj
 
 Atlyginimo už hipotekos skyriaus atliekamus notarinius veiksmus dydis nustatomas Notariato įstatymo 19 straipsnyje nustatyta tvarka, o gautos lėšos pervedamos į valstybės biudžetą.“
 
-\#### 15 straipsnis. 687 straipsnio pripažinimas netekusiu galios
+## 15 straipsnis. 687 straipsnio pripažinimas netekusiu galios
 
 68^7 straipsnį pripažinti netekusiu galios.
 

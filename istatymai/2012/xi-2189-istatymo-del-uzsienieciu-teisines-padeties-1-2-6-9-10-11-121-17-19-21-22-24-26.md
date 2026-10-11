@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.935939A2F479"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.935939A2F479.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" 1, 2, 6, 9, 10, 11, 121, 17, 19, 21, 22, 24, 26, 33, 37, 38, 40, 43, 49-1, 50, 53, 54, 55, 57, 58, 89, 97, 98, 99, 100, 101, 102, 104, 106, 113, 128, 131, 133, 139, 140-1, 141-1 straipsnių ir priedo pakeitimo ir papildymo, Įstatymo papildymo 44-1, 49-3, 98-1, 99-1, 103-1, 105, 105-1, 105-2, 105-3, 105-4, 106-1 straipsniais ir 12-2, 13, 14, 15, 16, 18, 20, 145 straipsnių pripažinimo netekusiais galios įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2539](https://www.e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD); 2006, Nr. [137-5199](https://www.e-tar.lt/portal/lt/legalAct/TAR.D79EF0646F5C); 2008, Nr. [22-803](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB2157F6318A); 2009, Nr. [93-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.78766B5EAE80); 2011, Nr. [156-7384](https://www.e-tar.lt/portal/lt/legalAct/TAR.0E7B5845B244))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 21 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 21 dalimi
 
 Papildyti 1 straipsnį 2^1 dalimi:
 
 „2^1. Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiams taikomos šio Įstatymo I, II, V, VI, VII, IX, X ir XI skyrių nuostatos, o jų šeimos nariams ir kitiems asmenims, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, – ir šio Įstatymo III skyriaus pirmojo skirsnio nuostatos.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas 111 ir 251 dalimis, 3, 71 ir 274 dalių pakeitimas, 41 dalies pripažinimas netekusia galios
+## 2 straipsnis. 2 straipsnio papildymas 111 ir 251 dalimis, 3, 71 ir 274 dalių pakeitimas, 41 dalies pripažinimas netekusia galios
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -60,13 +60,13 @@ Papildyti 1 straipsnį 2^1 dalimi:
 
 „27^4. **Šengeno viza** – Šengeno valstybėsviza, išduodama vadovaujantis 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 810/2009, nustatančio Bendrijos vizų kodeksą (Vizų kodeksą), (toliau – Vizų kodeksas) ir Šengeno *acquis* nuostatomis.“
 
-\#### 3 straipsnis. 6 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 2 dalies pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Užsienietis, kirsdamas išorinę Europos Sąjungos sieną arba vidinę Europos Sąjungos sieną, kai jos kontrolė laikinai atnaujinama, pasienio kontrolės punkte privalo pateikti galiojantį kelionės dokumentą.“
 
-\#### 4 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Valstybės sienos apsaugos tarnybos pareigūnai, įleisdami užsienietį į Lietuvos Respubliką, turi nustatyti, ar jis atitinka Šengeno sienų kodekse nustatytas sąlygas ir ar nėra priežasčių, nustatytų Šengeno sienų kodekse, dėl kurių užsienietis turi būti neįleidžiamas į Lietuvos Respubliką.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 Užsieniečio atvykimas į Lietuvos Respubliką laikomas neteisėtu, jeigu jis atvyko pažeisdamas Šengeno sienų kodekso nuostatas.“
 
-\#### 6 straipsnis. 11 straipsnio 3 ir 4 dalių pakeitimas
+## 6 straipsnis. 11 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -94,7 +94,7 @@ Užsieniečio atvykimas į Lietuvos Respubliką laikomas neteisėtu, jeigu jis a
 
 „4. Užsienietis, kuris nėra Europos Sąjungos valstybės narės pilietis, bet turi vienos iš Europos Sąjungos valstybių narių išduotą Europos Sąjungos leidimo gyventi kortelę, galiatvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje iki 3 mėnesių per pusę metų be vizos.“
 
-\#### 7 straipsnis. 121 straipsnio pakeitimas
+## 7 straipsnis. 121 straipsnio pakeitimas
 
 Pakeisti 12^1 straipsnį ir jį išdėstyti taip:
 
@@ -104,27 +104,27 @@ Pakeisti 12^1 straipsnį ir jį išdėstyti taip:
 
 2. Iš užsieniečio, pateikiančio dokumentus Šengeno vizai gauti, paimami ir į Užsieniečių registrą įrašomi biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dešimties pirštų atspaudai, išskyrus Vizų kodekse numatytus atvejus.“
 
-\#### 8 straipsnis. 122 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 122 straipsnio pripažinimas netekusiu galios
 
 12^2 straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 13 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 13 straipsnio pripažinimas netekusiu galios
 
 13 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. 14 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 14 straipsnio pripažinimas netekusiu galios
 
 14 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 15 straipsnio pripažinimas netekusiu galios
+## 11 straipsnis. 15 straipsnio pripažinimas netekusiu galios
 
 15 straipsnį pripažinti netekusiu galios.
 
-\#### 12 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 16 straipsnio pripažinimas netekusiu galios
 
 16 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. 17 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
+## 13 straipsnis. 17 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -134,11 +134,11 @@ Pakeisti 12^1 straipsnį ir jį išdėstyti taip:
 
 „6. Iš užsieniečio, pateikiančio dokumentus nacionalinei vizai gauti, paimami ir į Užsieniečių registrą įrašomi biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dešimties pirštų atspaudai, išskyrus atvejus, kai šis reikalavimas netaikomas išduodant Šengeno vizą pagal Vizų kodeksą.“
 
-\#### 14 straipsnis. 18 straipsnio pripažinimas netekusiu galios
+## 14 straipsnis. 18 straipsnio pripažinimas netekusiu galios
 
 18 straipsnį pripažinti netekusiu galios.
 
-\#### 15 straipsnis. 19 straipsnio pakeitimas ir papildymas
+## 15 straipsnis. 19 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 19 straipsnį ir jį išdėstyti taip:
 
@@ -166,11 +166,11 @@ Nacionalinę vizą užsieniečiui atsisakoma išduoti, o išduota nacionalinė v
 
 10) yra rimtas pagrindas manyti, kad jis gali kelti nelegalios migracijos grėsmę.“
 
-\#### 16 straipsnis. 20 straipsnio pripažinimas netekusiu galios
+## 16 straipsnis. 20 straipsnio pripažinimas netekusiu galios
 
 20 straipsnį pripažinti netekusiu galios.
 
-\#### 17 straipsnis. 21 straipsnio pakeitimas
+## 17 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -204,7 +204,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 9. Kvietimo patvirtinimo, dokumentų vizai gauti pateikimo, konsultacijų vykdymo, vizos išdavimo ar atsisakymo ją išduoti, jos pratęsimo ar atsisakymo ją pratęsti, jos panaikinimo ir Šengeno vizos atšaukimo, taip pat komercinių tarpininkų akreditavimo ir išorės paslaugų teikėjų pasirinkimo tvarką nustato vidaus reikalų ministras kartu su užsienio reikalų ministru. Ši tvarka taikoma tiek, kiek šių klausimų nereglamentuoja Vizų kodeksas.“
 
-\#### 18 straipsnis. 22 straipsnio papildymas 2 dalimi
+## 18 straipsnis. 22 straipsnio papildymas 2 dalimi
 
 Papildyti 22 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -230,7 +230,7 @@ Papildyti 22 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Jeigu galiojanti viza įklijuota negaliojančiame kelionės dokumente, kurio visi puslapiai panaudoti vizoms arba atvykimo ir (arba) išvykimo spaudams, ji pripažįstama galiojančia, jeigu užsienietis kartu pateikia kitą galiojantį kelionės dokumentą.“
 
-\#### 19 straipsnis. 24 straipsnio papildymas 2 dalimi
+## 19 straipsnis. 24 straipsnio papildymas 2 dalimi
 
 Papildyti 24 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -240,7 +240,7 @@ Papildyti 24 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Leidime gyventi elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. Leidimo gyventi formą, vadovaudamasis Reglamentu (EB) Nr. 1030/2002, nustato vidaus reikalų ministras.“
 
-\#### 20 straipsnis. 26 straipsnio 2 ir 6 dalių pakeitimas
+## 20 straipsnis. 26 straipsnio 2 ir 6 dalių pakeitimas
 
 1. Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -250,7 +250,7 @@ Papildyti 24 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „6. Jeigu išduodant ar keičiant leidimą gyventi nustatoma, kad kita Šengeno valstybė į centrinę Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl užsieniečio neįsileidimo pagal Šengeno konvencijos nuostatas, Migracijos departamentas turi konsultuotis su šia Šengeno valstybe ir atsižvelgti į jos interesus. Leidimas gyventi gali būti išduodamas ar keičiamas tik dėl humanitarinių priežasčių arba dėl tarptautinių įsipareigojimų.“
 
-\#### 21 straipsnis. 33 straipsnio 1 dalies papildymas 11 punktu ir 1 dalies 2 punkto pakeitimas
+## 21 straipsnis. 33 straipsnio 1 dalies papildymas 11 punktu ir 1 dalies 2 punkto pakeitimas
 
 1. Papildyti 33 straipsnio 1 dalį 11 punktu:
 
@@ -260,7 +260,7 @@ Papildyti 24 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „2) dėl leidimo laikinai gyventi išdavimo, išskyrus šio straipsnio 1 dalies 1 ir 1^1 punktuose numatytus atvejus, – ne vėliau kaip per 6 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos;“.
 
-\#### 22 straipsnis. 37 straipsnio papildymas 2 dalimi
+## 22 straipsnis. 37 straipsnio papildymas 2 dalimi
 
 Papildyti 37 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -270,7 +270,7 @@ Papildyti 37 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Užsieniečio pase elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus.“
 
-\#### 23 straipsnis. 38 straipsnio papildymas 2 dalimi
+## 23 straipsnis. 38 straipsnio papildymas 2 dalimi
 
 Papildyti 38 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -280,7 +280,7 @@ Papildyti 38 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Asmens be pilietybės kelionės dokumente elektroniniu būdu fiksuojami asmens be pilietybės biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus.“
 
-\#### 24 straipsnis. 40 straipsnio 1 dalies 4 ir 12 punktų pakeitimas, 1 dalies papildymas 41 ir 14 punktais, 6 dalies pakeitimas
+## 24 straipsnis. 40 straipsnio 1 dalies 4 ir 12 punktų pakeitimas, 1 dalies papildymas 41 ir 14 punktais, 6 dalies pakeitimas
 
 1. Pakeisti 40 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -302,7 +302,7 @@ Papildyti 38 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „6. Šeimos nariams, atvykstantiems gyventi į Lietuvos Respubliką kartu su užsieniečiu, gavusiu leidimą laikinai gyventi šio straipsnio 1 dalies 1–5, 9, 10, 13 ir 14 punktuose nustatytais pagrindais, leidimai laikinai gyventi gali būti išduoti tokiam pat laikotarpiui kaip ir šiam užsieniečiui.“
 
-\#### 25 straipsnis. 43 straipsnio 6 dalies 2, 3 punktų ir 7 dalies pakeitimas
+## 25 straipsnis. 43 straipsnio 6 dalies 2, 3 punktų ir 7 dalies pakeitimas
 
 1. 43 straipsnio 6 dalies 2 punkte prieš skaičių „13“ įrašyti skaičių ir žodį „41 ar“ ir šį punktą išdėstyti taip:
 
@@ -316,7 +316,7 @@ Papildyti 38 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „7. Šio straipsnio 1 dalies 5 punkto nuostatos dėl šeimos susijungimo taikomos, kai abu užsieniečiai sutuoktiniai arba užsieniečiai, sudarę registruotos partnerystės sutartį, yra ne jaunesni kaip 21 metų, išskyrus atvejus, kai užsienietis, pas kurį atvyksta sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, turi leidimą laikinai gyventi, išduotą šio Įstatymo 40 straipsnio 1 dalies 14 punkte nustatytu pagrindu.“
 
-\#### 26 straipsnis. Įstatymo papildymas 441 straipsniu
+## 26 straipsnis. Įstatymo papildymas 441 straipsniu
 
 Papildyti Įstatymą 44^1 straipsniu:
 
@@ -338,7 +338,7 @@ Papildyti Įstatymą 44^1 straipsniu:
 
 5. Jeigu užsienietis per pirmuosius dvejus teisėto darbo Lietuvos Respublikoje metus pageidauja pakeisti darbdavį, tai ne vėliau kaip prieš 3 mėnesius iki darbo sutarties su naujuoju darbdaviu sudarymo dienos turi pateikti Migracijos departamentui prašymą pakeisti leidimą laikinai gyventi. Patikrinęs, ar užsienietis atitinka nustatytas sąlygas dirbti šį aukštos profesinės kvalifikacijos reikalaujantį darbą, Migracijos departamentas priima sprendimą dėl leidimo laikinai gyventi keitimo.“
 
-\#### 27 straipsnis. 491 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 27 straipsnis. 491 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. 491 straipsnio pavadinime po žodžių „susijusiais su prekyba žmonėmis“ įrašyti žodžius „ar su nelegaliu darbu“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -348,7 +348,7 @@ Papildyti Įstatymą 44^1 straipsniu:
 
 „1. Leidimas laikinai gyventi gali būti išduotas užsieniečiui, kuris yra ar buvo prekybos žmonėmis arba nelegalaus darbo auka ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar su nusikaltimais, susijusiais su prekyba žmonėmis arba su nelegaliu darbu, kai dirbta ypatingai išnaudojamo darbo sąlygomis arba kai dirbo nepilnametis, jeigu dėl leidimo laikinai gyventi išdavimo tokiam užsieniečiui tarpininkauja ikiteisminio tyrimo įstaiga arba teismas.“
 
-\#### 28 straipsnis. Įstatymo papildymas 493 straipsniu
+## 28 straipsnis. Įstatymo papildymas 493 straipsniu
 
 Papildyti Įstatymą 49^3 straipsniu:
 
@@ -358,7 +358,7 @@ Papildyti Įstatymą 49^3 straipsniu:
 
 2. Šio straipsnio 1 dalyje nurodytam užsieniečiui leidimas laikinai gyventi išduodamas arba keičiamas ne ilgiau kaip vieniems metams.“
 
-\#### 29 straipsnis. 50 straipsnio 1 dalies 16 punkto, 2 dalies pakeitimas ir 1 dalies papildymas 18 punktu
+## 29 straipsnis. 50 straipsnio 1 dalies 16 punkto, 2 dalies pakeitimas ir 1 dalies papildymas 18 punktu
 
 1. Pakeisti 50 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip:
 
@@ -372,7 +372,7 @@ Papildyti Įstatymą 49^3 straipsniu:
 
 „2. Šio straipsnio 1 dalies 4–12, 16–18punktuose nustatytais pagrindais leidimas laikinai gyventi panaikinamas, jei tai buvo pagrindas gauti leidimą laikinai gyventi.“
 
-\#### 30 straipsnis. 53 straipsnio 1 dalies papildymas 81, 10 punktais, 3, 6, 8 dalių pakeitimas ir straipsnio papildymas 9, 10 dalimis
+## 30 straipsnis. 53 straipsnio 1 dalies papildymas 81, 10 punktais, 3, 6, 8 dalių pakeitimas ir straipsnio papildymas 9, 10 dalimis
 
 1. Papildyti 53 straipsnio 1 dalį 81 punktu:
 
@@ -402,7 +402,7 @@ Papildyti Įstatymą 49^3 straipsniu:
 
 „10. Leidimą nuolat gyventi išduodant užsieniečiui šio straipsnio 1 dalies 8 ir 8^1 punktuose nustatytais pagrindais, pragyvento laikotarpio nepertraukia buvimo už atitinkamai Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teritorijos ribų laikas, jeigu jis netrunka ilgiau kaip 6 mėnesius iš eilės ir iš viso per 5 metų laikotarpį nesudaro daugiau kaip 10 mėnesių.“
 
-\#### 31 straipsnis. 54 straipsnio 1 dalies 3 punkto pakeitimas ir dalies papildymas 4 punktu
+## 31 straipsnis. 54 straipsnio 1 dalies 3 punkto pakeitimas ir dalies papildymas 4 punktu
 
 1. Pakeisti 54 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -412,13 +412,13 @@ Papildyti Įstatymą 49^3 straipsniu:
 
 „4) užsienietis kitoje Europos Sąjungos valstybėje narėje gyvena ilgiau negu 6 metus arba kitoje Europos Sąjungos valstybėje narėje įgyja ilgalaikio gyventojo statusą.“
 
-\#### 32 straipsnis. 55 straipsnio 4 dalies pakeitimas
+## 32 straipsnis. 55 straipsnio 4 dalies pakeitimas
 
 55 straipsnio 4 dalyje vietoj skaičių ir žodžio „1 ir 3“ įrašyti skaičius ir žodį „1, 3 ir 4“ ir šią dalį išdėstyti taip:
 
 „4. Sprendimą dėl leidimo nuolat gyventi panaikinimo šio Įstatymo 54 straipsnio 1 dalies 1,3 ir 4 punktuose nustatytais pagrindais priima Migracijos departamentas.“
 
-\#### 33 straipsnis. 57 straipsnio 5 ir 6 dalių pakeitimas
+## 33 straipsnis. 57 straipsnio 5 ir 6 dalių pakeitimas
 
 1. 57 straipsnio 5 dalyje po žodžio „ministras“ įrašyti žodžius „suderinęs su vidaus reikalų ministru“ ir šią dalį išdėstyti taip:
 
@@ -428,7 +428,7 @@ Papildyti Įstatymą 49^3 straipsniu:
 
 „6. Leidimą dirbti užsieniečiui išduoda ir panaikina Lietuvos darbo birža.“
 
-\#### 34 straipsnis. 58 straipsnio 1 dalies 1 punkto pakeitimas ir dalies papildymas 11 punktu
+## 34 straipsnis. 58 straipsnio 1 dalies 1 punkto pakeitimas ir dalies papildymas 11 punktu
 
 1. 58 straipsnio 1 dalies 1 punkte po skaičiaus „3“ įrašyti skaičių „41“, po skaičiaus „10“ – skaičių „13“ ir šį punktą išdėstyti taip:
 
@@ -438,19 +438,19 @@ Papildyti Įstatymą 49^3 straipsniu:
 
 „1^1) turi leidimą laikinai gyventi Lietuvos Respublikoje, išduotą pagal šio Įstatymo 40 straipsnio 1 dalies 14 punktą, ir, turėdamas tokį leidimą gyventi ir leidimą dirbti, dirbo Lietuvos Respublikoje ne mažiau negu vienus metus;“.
 
-\#### 35 straipsnis. 89 straipsnio 3 dalies pakeitimas
+## 35 straipsnis. 89 straipsnio 3 dalies pakeitimas
 
 Pakeisti 89 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pabėgėliui, kuris nuolat gyvena Lietuvos Respublikoje, išvykti į užsienio valstybę vidaus reikalų ministro nustatyta tvarka išduodamas pabėgėlio kelionės dokumentas. Pabėgėlio kelionės dokumente elektroniniu būdu fiksuojami pabėgėlio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus.“
 
-\#### 36 straipsnis. 97 straipsnio papildymas 3 dalimi
+## 36 straipsnis. 97 straipsnio papildymas 3 dalimi
 
 Papildyti 97 straipsnį 3 dalimi:
 
 „3. Šio Įstatymo V skyriaus nuostatos dėl Europos Sąjungos valstybės narės piliečio šeimos narių, išskyrus šio Įstatymo 101^1 ir 105straipsnius, taikomos ir kitiems asmenims, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise.“
 
-\#### 37 straipsnis. 98 straipsnio pakeitimas
+## 37 straipsnis. 98 straipsnio pakeitimas
 
 Pakeisti 98 straipsnį ir jį išdėstyti taip:
 
@@ -464,7 +464,7 @@ Europos Sąjungos valstybės narės pilietis ir jo šeimos narys į Lietuvos Res
 
 3) jie serga epideminį potencialą turinčiomis ligomis, kurios apibrėžtos Pasaulinės sveikatos organizacijos dokumentuose, arba kitomis žmonių užkrečiamosiomis (infekcinėmis ar parazitinėmis) ligomis, kurioms pagal Lietuvos Respublikos įstatymus taikomi kontrolės reikalavimai.“
 
-\#### 38 straipsnis. Įstatymo papildymas 981 straipsniu
+## 38 straipsnis. Įstatymo papildymas 981 straipsniu
 
 Papildyti Įstatymą 98^1 straipsniu:
 
@@ -474,7 +474,7 @@ Papildyti Įstatymą 98^1 straipsniu:
 
 2. Sprendimas, kuriuo Europos Sąjungos valstybės narės pilietis arba jo šeimos narys dėl jo keliamos grėsmės valstybės saugumui ar viešajai tvarkai neįleidžiamas į Lietuvos Respubliką ar jam panaikinama teisė gyventi Lietuvos Respublikoje, turi būti pagrįstas objektyviais duomenimis (faktais) ir būti proporcingas.“
 
-\#### 39 straipsnis. 99 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 39 straipsnis. 99 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 99 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -488,7 +488,7 @@ Papildyti Įstatymą 98^1 straipsniu:
 
 „4. Sprendimus dėl pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išdavimo, Europos Sąjungos leidimo laikinai gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir pažymą Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išduoda, Europos Sąjungos leidimo laikinai gyventi kortelę išduoda, keičia ir panaikina vidaus reikalų ministro įgaliotos institucijos.“
 
-\#### 40 straipsnis. Įstatymo papildymas 991 straipsniu
+## 40 straipsnis. Įstatymo papildymas 991 straipsniu
 
 Papildyti Įstatymą 99^1 straipsniu:
 
@@ -496,7 +496,7 @@ Papildyti Įstatymą 99^1 straipsniu:
 
 Prašymas išduoti ar pakeisti pažymą Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti turi būti išnagrinėtas ir šis dokumentas turi būti išduotas ne vėliau kaip per 10 darbo dienų nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.“
 
-\#### 41 straipsnis. 100 straipsnio pakeitimas
+## 41 straipsnis. 100 straipsnio pakeitimas
 
 Pakeisti 100 straipsnį ir jį išdėstyti taip:
 
@@ -504,7 +504,7 @@ Pakeisti 100 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti Europos Sąjungos leidimo laikinai gyventi kortelę turi būti išnagrinėtas ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.“
 
-\#### 42 straipsnis. 101 straipsnio pakeitimas ir papildymas
+## 42 straipsnis. 101 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 101 straipsnį ir jį išdėstyti taip:
 
@@ -536,7 +536,7 @@ Pakeisti ir papildyti 101 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 1 dalies 3 punkte nurodytu atveju kaip Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, turi teisę apsigyventi tik sutuoktinis, asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi vaikai ir Europos Sąjungos valstybės narės piliečio, jo sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi artimieji giminaičiai pagal tiesiąją aukštutinę liniją.“
 
-\#### 43 straipsnis. 102 straipsnio pakeitimas
+## 43 straipsnis. 102 straipsnio pakeitimas
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
@@ -544,7 +544,7 @@ Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
 Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti ir Europos Sąjungos leidimo laikinai gyventi kortelė išduodamos ir keičiamos 5 metams arba numatomam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiui, jeigu šis laikotarpis yra trumpesnis negu 5 metai.“
 
-\#### 44 straipsnis. Įstatymo papildymas 1031 straipsniu
+## 44 straipsnis. Įstatymo papildymas 1031 straipsniu
 
 Papildyti Įstatymą 103^1 straipsniu:
 
@@ -572,7 +572,7 @@ Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Li
 
 10) ar Europos Sąjungos valstybės narės pilietis, ar jo šeimos narys miršta.“
 
-\#### 45 straipsnis. 104 straipsnio pakeitimas
+## 45 straipsnis. 104 straipsnio pakeitimas
 
 Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
@@ -590,7 +590,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 6. Tvarką, nustatančią pažymos Europos Sąjungos valstybės narės piliečiui jo teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išdavimą ir Europos Sąjungos leidimo nuolat gyventi kortelės išdavimą, keitimą ir panaikinimą Europos Sąjungos valstybės narės piliečio šeimos nariams, kurie nėra Europos Sąjungos valstybės narės piliečiai, nustato vidaus reikalų ministras.“
 
-\#### 46 straipsnis. Įstatymo papildymas 105 straipsniu
+## 46 straipsnis. Įstatymo papildymas 105 straipsniu
 
 Papildyti Įstatymą 105 straipsniu:
 
@@ -618,7 +618,7 @@ Papildyti Įstatymą 105 straipsniu:
 
 2) jis mirė dėl nelaimingo atsitikimo darbe ar profesinės ligos.“
 
-\#### 47 straipsnis. Įstatymo papildymas 1051 straipsniu
+## 47 straipsnis. Įstatymo papildymas 1051 straipsniu
 
 Papildyti Įstatymą 105^1 straipsniu:
 
@@ -626,7 +626,7 @@ Papildyti Įstatymą 105^1 straipsniu:
 
 Prašymas išduoti ar pakeisti pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti turi būti išnagrinėtas ir šis dokumentas turi būti išduotas ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.“
 
-\#### 48 straipsnis. Įstatymo papildymas 1052 straipsniu
+## 48 straipsnis. Įstatymo papildymas 1052 straipsniu
 
 Papildyti Įstatymą 105^2 straipsniu:
 
@@ -634,7 +634,7 @@ Papildyti Įstatymą 105^2 straipsniu:
 
 Prašymas išduoti ar pakeisti Europos Sąjungos leidimo nuolat gyventi kortelę turi būti išnagrinėtas ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.“
 
-\#### 49 straipsnis. Įstatymo papildymas 1053 straipsniu
+## 49 straipsnis. Įstatymo papildymas 1053 straipsniu
 
 Papildyti Įstatymą 105^3 straipsniu:
 
@@ -652,7 +652,7 @@ Pažyma Europos Sąjungos valstybės narės piliečio teisei laikinai ar nuolat 
 
 5) dokumentas yra prarastas.“
 
-\#### 50 straipsnis. Įstatymo papildymas 1054 straipsniu
+## 50 straipsnis. Įstatymo papildymas 1054 straipsniu
 
 Papildyti Įstatymą 105^4 straipsniu:
 
@@ -662,7 +662,7 @@ Papildyti Įstatymą 105^4 straipsniu:
 
 2. Vaikui, gimusiam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiu, išduodamas toks pat kaip abiejų tėvų ar vieno iš jų turimas dokumentas. Šis dokumentas galioja tiek, kiek galioja vienam iš vaiko tėvų išduotas dokumentas.“
 
-\#### 51 straipsnis. 106 straipsnio pakeitimas
+## 51 straipsnis. 106 straipsnio pakeitimas
 
 Pakeisti 106 straipsnį ir jį išdėstyti taip:
 
@@ -698,7 +698,7 @@ Pakeisti 106 straipsnį ir jį išdėstyti taip:
 
 6. Netekus teisės gyventi Lietuvos Respublikoje, Europos Sąjungos valstybės narės pilietis ir (ar) jo šeimos nariai įpareigojami išvykti iš Lietuvos Respublikos, o šio įpareigojimo neįvykdę arba šio straipsnio 1 dalies 1 punkte, 2 dalies 1 punkte ir 3 dalyje numatytais atvejais jie yra išsiunčiami šio Įstatymo nustatyta tvarka.“
 
-\#### 52 straipsnis. Įstatymo papildymas 1061 straipsniu
+## 52 straipsnis. Įstatymo papildymas 1061 straipsniu
 
 Papildyti Įstatymą 106^1 straipsniu:
 
@@ -724,7 +724,7 @@ Pažyma Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Liet
 
 9) ar Europos Sąjungos valstybės narės pilietis, ar jo šeimos narys miršta.“
 
-\#### 53 straipsnis. 113 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
+## 53 straipsnis. 113 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. Pakeisti 113 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -752,13 +752,13 @@ Pažyma Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Liet
 
 2) kai siekiama jį išsiųsti iš Lietuvos Respublikos.“
 
-\#### 54 straipsnis. 128 straipsnio 2 dalies 1 punkto pakeitimas
+## 54 straipsnis. 128 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 128 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) sprendimas dėl užsieniečio išsiuntimo iš Lietuvos Respublikos apskundžiamas teismui, išskyrus atvejus, kai užsienietis turi būti išsiųstas dėl jo keliamos grėsmės valstybės saugumui ar viešajai tvarkai, o Europos Sąjungos valstybės narės pilietis, jo šeimos narys arba kitas asmuo, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, – dėl jo keliamos labai rimtos grėsmės valstybės saugumui;“.
 
-\#### 55 straipsnis. 131 straipsnio 1 dalies papildymas 4 punktu ir 2 dalies pakeitimas
+## 55 straipsnis. 131 straipsnio 1 dalies papildymas 4 punktu ir 2 dalies pakeitimas
 
 1. Papildyti 131 straipsnio 1 dalį 4 punktu:
 
@@ -768,19 +768,19 @@ Pakeisti 128 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „2. Jeigu nėra lėšų, nurodytų šio straipsnio 1 dalyje, užsienietis iš Lietuvos Respublikos išsiunčiamas arba grąžinamas valstybės lėšomis. Šios valstybės lėšos teisės aktų nustatyta tvarka išieškomos iš fizinių ar juridinių asmenų, kurių išsiunčiamas užsienietis buvo pakviestas į Lietuvos Respubliką, iš darbdavio, pas kurį nelegaliai dirbo išsiunčiamas užsienietis, arba iš vežėjų, kurių išsiunčiamas užsienietis buvo atvežtas į Lietuvos Respubliką, arba kreipiamasi dėl lėšų grąžinimo į sprendimą užsienietį išsiųsti priėmusią kitą valstybę, kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo, vadovaujantis 2004 m. vasario 23 d. Tarybos sprendimu 2004/191/EB, nustatančiu finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones.“
 
-\#### 56 straipsnis. 133 straipsnio papildymas 21 dalimi
+## 56 straipsnis. 133 straipsnio papildymas 21 dalimi
 
 Papildyti 133 straipsnį 2^1 dalimi:
 
 „2^1. Europos Sąjungos valstybės narės piliečiui ir (arba) jo šeimos nariui arba kitam asmeniui, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui tik tuo atveju, jeigu jo atvykimas į Lietuvos Respubliką ir buvimas joje gali kelti grėsmę valstybės saugumui ar viešajai tvarkai.“
 
-\#### 57 straipsnis. 139 straipsnio 2 dalies pakeitimas
+## 57 straipsnis. 139 straipsnio 2 dalies pakeitimas
 
 Pakeisti 139 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalies 4 punkto nuostatos netaikomos tuo atveju, kai išsiuntimo pagrindas yra susijęs su užsieniečio buvimo Lietuvos Respublikoje keliama grėsme valstybės saugumui arba viešajai tvarkai. Europos Sąjungos valstybės narės piliečiui, jo šeimos nariui arba kitam asmeniui, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, šio straipsnio 1 dalies 4 punkto nuostata netaikoma, kai jo buvimas Lietuvos Respublikoje kelia labai rimtą grėsmę valstybės saugumui.“
 
-\#### 58 straipsnis. 1401 straipsnio 1 ir 2 dalių pakeitimas
+## 58 straipsnis. 1401 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 1401 straipsnio 1 dalyje vietoj skaičių ir žodžių „106 straipsnio 1 dalyje“ įrašyti skaičius ir žodžius „106 straipsnio 1 dalies 1 punkte, 2 dalies 1 punkte, 3 dalyje“ ir šią dalį išdėstyti taip:
 
@@ -790,7 +790,7 @@ Pakeisti 139 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Dėl šio Įstatymo 54 straipsnio 1 dalies 2 punkte, 90 straipsnio 1 dalies 8 punkte ir 2 dalies 4 punkte, 106 straipsnio 1 dalies 1 punkte, 2 dalies 1 punkte, 3 dalyje ir 126 straipsnio 1 dalies 3 punkte nurodytos užsieniečio grėsmės viešajai tvarkai į Vilniaus apygardos administracinį teismą su prašymu priimti sprendimą panaikinti užsieniečiui teisę gyventi Lietuvos Respublikoje ir (ar) išsiųsti užsienietį iš Lietuvos Respublikos kreipiasi Policijos departamentas prie Vidaus reikalų ministerijos ar Lietuvos policijos generalinio komisaro pavedimu – teritorinė policijos įstaiga arba Valstybės sienos apsaugos tarnyba ar Valstybės sienos apsaugos tarnybos vado pavedimu – Valstybės sienos apsaugos tarnybos rinktinė.“
 
-\#### 59 straipsnis. 1411 straipsnio pakeitimas
+## 59 straipsnis. 1411 straipsnio pakeitimas
 
 Pakeisti 141^1 straipsnį ir jį išdėstyti taip:
 
@@ -812,11 +812,11 @@ Išskyrus Lietuvos Respublikos rinkliavų įstatyme nustatytas išimtis, Vyriaus
 
 7) pažymos, patvirtinančios Europos Sąjungos valstybės narės piliečio teisę gyventi Lietuvos Respublikoje, ir pažymos, patvirtinančios Europos Sąjungos valstybės narės piliečio teisę nuolat gyventi Lietuvos Respublikoje, išdavimą.“
 
-\#### 60 straipsnis. 145 straipsnio pripažinimas netekusiu galios
+## 60 straipsnis. 145 straipsnio pripažinimas netekusiu galios
 
 Pripažinti 145 straipsnį netekusiu galios.
 
-\#### 61 straipsnis. Įstatymo priedo pakeitimas
+## 61 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -882,7 +882,7 @@ priedas
 
 26. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).“
 
-\#### 62 straipsnis. Baigiamosios nuostatos
+## 62 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2013 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E1E4C402E081"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E1E4C402E081.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 2001 m.Tarptautinės konvencijos dėl laivuose naudojamų kenksmingų apsaugos nuo užsiteršimo sistemų kontrolės ratifikavimo
@@ -26,7 +26,7 @@ DĖL 2001 M.TARPTAUTINĖS KONVENCIJOS DĖL LAIVUOSE NAUDOJAMŲ KENKSMINGŲ APSAU
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 723, ratifikuoja 2001 m. spalio 5 d. Londone priimtą 2001 m. Tarptautinę konvenciją dėl laivuose naudojamų kenksmingų apsaugos nuo užsiteršimo sistemų kontrolės.
 

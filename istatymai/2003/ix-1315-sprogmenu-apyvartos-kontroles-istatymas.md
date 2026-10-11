@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.423D6799832E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
@@ -884,5 +884,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1742, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00154
 
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 straipsnių ir priedo pakeitimo įstatymas
-
-part_3cea148130a84b5281ba9bd2eb7420e2_end

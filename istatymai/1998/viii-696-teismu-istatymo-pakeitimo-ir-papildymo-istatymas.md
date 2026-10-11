@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7A20D27F92FF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A20D27F92FF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo įstatymas
@@ -28,31 +28,31 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52), Nr. [89-1709](https://www.e-tar.lt/portal/lt/legalAct/TAR.6F5F36EA929B), Nr. [96-1880](https://www.e-tar.lt/portal/lt/legalAct/TAR.645BD10A1B7B); 1995, Nr. [17-386](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB4A2F9114AD), Nr. [29-647](https://www.e-tar.lt/portal/lt/legalAct/TAR.060D050B3CEE); 1996, Nr. [60-1411](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBE3241186F), Nr. [67-1600](https://www.e-tar.lt/portal/lt/legalAct/TAR.844FFF4EB67A), Nr. [92-2149](https://www.e-tar.lt/portal/lt/legalAct/TAR.D67B2AA16DDC), Nr. [100-2265](https://www.e-tar.lt/portal/lt/legalAct/TAR.2A0497640168); 1997, Nr. [63-1470](https://www.e-tar.lt/portal/lt/legalAct/TAR.0538DEE125C2))
 
-\#### 1 straipsnis. 3 straipsnio pripažinimas netekusiu galios
+## 1 straipsnis. 3 straipsnio pripažinimas netekusiu galios
 
 3 straipsnį pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 5 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 5 straipsnio pripažinimas netekusiu galios
 
 5 straipsnį pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 6 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 6 straipsnio pripažinimas netekusiu galios
 
 6 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Dalyvaujantys civilinėje bei administracinio teisės pažeidimo byloje asmenys, proceso dalyviai baudžiamojoje byloje, taip pat prokuroras savo procesinėms funkcijoms vykdyti, teismo posėdžio pirmininkui leidus, gali daryti garso įrašą teismo posėdžiui užfiksuoti. Apie daromą garso įrašą proceso dalyviai privalo informuoti posėdžio pirmininką. Asmenys, darantys garso įrašą be teismo leidimo, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.“
 
-\#### 5 straipsnis. 10 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio 1 dalies pakeitimas
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Apylinkės teisme yra apylinkės teismo pirmininkas, jo pavaduotojai, kiti teisėjai ir teismo raštinė. Teismo pirmininko pavaduotojai skiriami teisme, kuriame yra ne mažiau kaip 6 teisėjai. Apylinkės teismuose galima teisėjų specializacija, kurią nustato teismo pirmininkas.“
 
-\#### 6 straipsnis. 14 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 14 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 14 straipsnį nauja 2 dalimi:
 
@@ -60,7 +60,7 @@ Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2. Buvusias 14 straipsnio 2 ir 3 dalis laikyti 3 ir 4 dalimis.
 
-\#### 7 straipsnis. 16 straipsnio 1 ir 2 dalių pakeitimas
+## 7 straipsnis. 16 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Apygardos teismas analizuoja teismų praktiką susipažindamas su savo veiklos teritorijoje esančių apylinkės teismų darbu vietose bei kitais būdais.“
 
-\#### 8 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 Pakeisti 17 straipsnio 1 dalį, papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Apeliacinis teismas yra apeliacinė instancija byloms, kurias išnagrinėjo apyg
 
 Apeliacinis teismas taip pat nagrinėja kitas bylas, kurias Lietuvos Respublikos įstatymai priskiria jo kompetencijai, bei atlieka kitas šio teismo kompetencijai įstatymo priskirtas su teisingumo vykdymu susijusias funkcijas.“
 
-\#### 9 straipsnis. 18 straipsnio pakeitimas
+## 9 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Biuletenis finansuojamas iš valstybės biudžeto ir iš jį pardavus gautų lė
 
 Lietuvos Aukščiausiojo Teismo veiklą reguliuoja Lietuvos Respublikos Konstitucija, šis įstatymas, įstatymu patvirtintas Lietuvos Aukščiausiojo Teismo statutas, Lietuvos Respublikosbaudžiamojo proceso kodeksas, Lietuvos Respublikos civilinio proceso kodeksas bei kiti specialūs įstatymai*.*“
 
-\#### 10 straipsnis. 19 straipsnio pakeitimas
+## 10 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Lietuvos Aukščiausiojo Teismo senato pirmininkas yra Lietuvos Aukščiausiojo 
 
 Lietuvos Aukščiausiojo Teismo senatas iš savo narių renka Senato sekretorių.“
 
-\#### 11 straipsnis. 20 straipsnio pakeitimas
+## 11 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Lietuvos Aukščiausiojo Teismo senatas:
 
 Seimo Teisės ir teisėtvarkos komiteto pirmininkas, teisingumo ministras, generalinis prokuroras, apygardų teismų pirmininkai ir Apeliacinio teismo pirmininkas turi teisę siūlyti Lietuvos Aukščiausiojo Teismo senato pirmininkui nagrinėti įstatymų taikymo teismų praktikoje klausimus, dalyvauti Senato posėdžiuose svarstant šiuos klausimus ir reikšti savo nuomonę.“
 
-\#### 12 straipsnis. 21 straipsnio pakeitimas
+## 12 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Lietuvos Aukščiausiojo Teismo senato posėdis yra teisėtas, jeigu jame dalyva
 
 Lietuvos Aukščiausiojo Teismo senato nutarimus pasirašo Senato pirmininkas ir sekretorius.“
 
-\#### 13 straipsnis. 22 straipsnio pakeitimas
+## 13 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Apylinkės teismo teisėjas nagrinėja visas apylinkės teismui priskirtas bylas
 
 Asmenys, turintys teisėjo darbo stažą, jeigu nuo darbo teisėju praėjo ne daugiau kaip 5 metai, apylinkės teismų teisėjais gali būti skiriami iš karto.“
 
-\#### 14 straipsnis. 221 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 221 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 22^1 straipsnį ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ Kandidatas, pateikęs Teismų departamentui praktikos vadovo teigiamą išvadą 
 
 Kandidato praktikos vadovas turi teisę Teismų departamento direktoriui siūlyti nutraukti sutartį su kandidatu, jei šis nesilaiko darbo drausmės, sutarties sąlygų arba jei paaiškėja, kad jis dėl savo profesinių, asmeninių savybių nesugebės įgyti teisėjo pareigoms atlikti reikiamos kvalifikacijos, arba jei jo elgesys nesuderinamas su teisėjo vardui keliamais reikalavimais. Išklausęs kandidato į teisėjus paaiškinimo, sutarties nutraukimo klausimą sprendžia Teismų departamento direktorius. Teismų departamento direktoriaus nutarimas nutraukti su kandidatu sutartį per 10 dienų gali būti skundžiamas teisingumo ministrui.“
 
-\#### 15 straipsnis. Įstatymo papildymas 222 ir 223 straipsniais
+## 15 straipsnis. Įstatymo papildymas 222 ir 223 straipsniais
 
 Papildyti Įstatymą 22^2 ir 22^3straipsniais:
 
@@ -218,7 +218,7 @@ Jeigu kandidato į apylinkės teismo teisėjus sutartis nutraukiama dėl kandida
 
 Kandidatui taikomi tokie pat reikalavimai kaip ir teisėjui.
 
-\#### 223 straipsnis. Teisėjo nepriekaištinga reputacija
+## 223 straipsnis. Teisėjo nepriekaištinga reputacija
 
 Asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
 
@@ -232,7 +232,7 @@ Asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
 
 5) jo elgesys ar veikla nėra suderinama su teisėjų profesinės etikos taisyklių reikalavimais.“
 
-\#### 16 straipsnis. 23 straipsnio pakeitimas
+## 16 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -246,7 +246,7 @@ Apygardos ar Apeliacinio teismo teisėjo kandidatūrai išrinkti Teisingumo mini
 
 Teisės krypties socialinių mokslų daktarai ir habilituoti daktarai, turintys ne mažesnį kaip 10 metų bendrąjį teisinio pedagoginio ir (ar) mokslinio darbo stažą, buvę Lietuvos Aukščiausiojo Teismo (taip pat ir iki 1994 m. gruodžio 31 d. veikusio Aukščiausiojo Teismo) teisėjai, atleisti iš pareigų savo noru, išrinkti į kitas pareigas arba jų sutikimu perkelti į kitą darbą, apylinkių, apygardų teismų ir Apeliacinio teismo teisėjais gali būti skiriami iš karto.“
 
-\#### 17 straipsnis. 24 straipsnio pakeitimas
+## 17 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -264,7 +264,7 @@ Lietuvos Aukščiausiojo Teismo teisėju gali būti skiriamas:
 
 Lietuvos Aukščiausiojo Teismo teisėjas, jam pageidaujant, gali būti skiriamas bet kurios grandies teismo teisėju.“
 
-\#### 18 straipsnis. 241 straipsnio pakeitimas
+## 18 straipsnis. 241 straipsnio pakeitimas
 
 Pakeisti 24^1 straipsnį ir jį išdėstyti taip:
 
@@ -272,13 +272,13 @@ Pakeisti 24^1 straipsnį ir jį išdėstyti taip:
 
 Konstitucinio Teismo teisėjas, pasibaigus jo įgaliojimų laikui, jam pageidaujant, gali būti iš karto paskirtas apylinkės, apygardos teismų, Apeliacinio teismo ar Lietuvos Aukščiausiojo Teismo teisėju.“
 
-\#### 19 straipsnis. 25 straipsnio papildymas 2 dalimi
+## 19 straipsnis. 25 straipsnio papildymas 2 dalimi
 
 Papildyti 25 straipsnį 2 dalimi:
 
 „Teisėjas negali būti skiriamas dirbti teisme, kuriame teisėju dirba jo sutuoktinis (buvęs sutuoktinis), vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), pusbroliai, pusseserės. Jeigu teisėjas yra byloje dalyvaujantis asmuo arba bylos dalyvis, o byla teisminga teismui, kuriame jis arba jo artimi giminaičiai dirba teisėju (išskyrus Lietuvos Aukščiausiąjį Teismą ir Lietuvos apeliacinį teismą), aukštesniosios instancijos teismo pirmininkas perduoda šią bylą nagrinėti kitam tos pačios grandies teismui.“
 
-\#### 20 straipsnis. Įstatymo papildymas 251 straipsniu
+## 20 straipsnis. Įstatymo papildymas 251 straipsniu
 
 Papildyti Įstatymą 25^1 straipsniu:
 
@@ -290,7 +290,7 @@ Teisėjų profesinės kvalifikacijos kėlimo formos yra privalomosios ir fakulta
 
 Teisinis pedagoginis ar kūrybinis darbas, taip pat įgytas teisės krypties socialinių mokslų mokslinis laipsnis laikomas intensyviu teisėjo profesinės kvalifikacijos kėlimu.“
 
-\#### 21 straipsnis. 26 straipsnio pakeitimas
+## 21 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -302,11 +302,11 @@ Teisėjų egzaminų komisijos posėdis yra teisėtas, jeigu jame dalyvauja ne ma
 
 Teisėjų egzaminų komisijos nuostatus parengia Teisingumo ministerija, o tvirtina Lietuvos Aukščiausiojo Teismo pirmininkas ir teisingumo ministras.“
 
-\#### 22 straipsnis. 27 straipsnio pripažinimas netekusiu galios
+## 22 straipsnis. 27 straipsnio pripažinimas netekusiu galios
 
 27 straipsnį pripažinti netekusiu galios.
 
-\#### 23 straipsnis. 28 straipsnio pakeitimas
+## 23 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -316,7 +316,7 @@ Teisėjų egzaminus asmenys raštu ir žodžiu laiko tik prieš jų skyrimą tei
 
 Teisėjų egzaminų programas rengia Teisingumo ministerija, o tvirtina Lietuvos Aukščiausiojo Teismo pirmininkas ir teisingumo ministras.“
 
-\#### 24 straipsnis. VII skirsnio pavadinimo pakeitimas
+## 24 straipsnis. VII skirsnio pavadinimo pakeitimas
 
 Pakeisti VII skirsnio pavadinimą taip:
 
@@ -324,7 +324,7 @@ Pakeisti VII skirsnio pavadinimą taip:
 
 TEISĖJŲ TARYBA, VISUOTINIS TEISĖJŲ SUSIRINKIMAS IR TEISĖJŲ SAVIVALDA“
 
-\#### 25 straipsnis. 30 straipsnio pakeitimas
+## 25 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -352,7 +352,7 @@ Teisėjų taryba:
 
 6) išklauso Teismų departamento direktoriaus metinę teismų darbo ataskaitą.“
 
-\#### 26 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
+## 26 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -362,7 +362,7 @@ Teisėjų taryba:
 
 „Teisėjų tarybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip pusė Teisėjų tarybos narių. Teisėjų tarybos nutarimai priimami atviru balsavimu. Nutarimas laikomas priimtu, jeigu už jį balsavo dauguma dalyvavusių posėdyje Teisėjų tarybos narių. Balsams pasiskirsčius po lygiai, lemia pirmininko balsas.“
 
-\#### 27 straipsnis. 32 straipsnio pakeitimas
+## 27 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -376,7 +376,7 @@ Visuotinis teisėjų susirinkimas:
 
 2) sprendžia kitus klausimus.“
 
-\#### 28 straipsnis. Įstatymo papildymas 321 straipsniu
+## 28 straipsnis. Įstatymo papildymas 321 straipsniu
 
 Papildyti Įstatymą 32^1 straipsniu:
 
@@ -388,31 +388,31 @@ Lietuvos teisėjų asociacijos turi teisę pareikšti nuomonę dėl savo narių.
 
 Lietuvos teisėjų asociacija padeda kelti teisėjų profesinę kvalifikaciją.“
 
-\#### 29 straipsnis. 33 straipsnio 1 dalies pakeitimas
+## 29 straipsnis. 33 straipsnio 1 dalies pakeitimas
 
 Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Apylinkių, apygardų teismų teisėjų, šių teismų pirmininkų kandidatūras parenka teisingumo ministras Teismų departamento direktoriaus teikimu. Esant galimybei, Teisėjų tarybai pasiūloma ne mažiau kaip 2 kandidatai į vieną vietą. Iš jų Teisėjų taryba atrenka vieną ir pataria Respublikos Prezidentui jį skirti teisėju.“
 
-\#### 30 straipsnis. 34 straipsnio 1 dalies papildymas
+## 30 straipsnis. 34 straipsnio 1 dalies papildymas
 
 34 straipsnio 1 dalyje po žodžio „ministras“ įrašyti žodžius „šio įstatymo 33 straipsnio pirmojoje dalyje nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 „Apeliacinio teismo teisėjų, teismo pirmininko kandidatūras parenka teisingumo ministras šio įstatymo 33 straipsnio pirmojoje dalyje nustatyta tvarka.“
 
-\#### 31 straipsnis. 36 straipsnio 2 dalies pakeitimas
+## 31 straipsnis. 36 straipsnio 2 dalies pakeitimas
 
 Iš 36 straipsnio 2 dalies išbraukti žodžius „o Aukščiausiojo Teismo teisėjai – iki 70 metų amžiaus“ ir šią dalį išdėstyti taip:
 
 „Kitų Lietuvos Respublikos teismų teisėjai iš karto skiriami iki 65 metų amžiaus.“
 
-\#### 32 straipsnis. 39 straipsnio pakeitimas
+## 32 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Teismų pirmininkai yra teisminės administracijos pareigūnai, kurie vadovauja teismų organizaciniam darbui. Teismų pirmininkai šio įstatymo bei teisingumo ministro nustatyta tvarka kontroliuoja teisėjų administracinę veiklą ir kaip laikomasi teisėjo etikos, vadovauja teismo raštinės darbui, priima ir atleidžia iš darbo teismo raštinės tarnautojus bei kitus darbuotojus, taip pat vykdo kitas įstatymų jiems nustatytas funkcijas.“
 
-\#### 33 straipsnis. 40 straipsnio pakeitimas
+## 33 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -420,7 +420,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 Apylinkių teismų pirmininkai organizuoja teisėjų darbą taip, kad šie turėtų vienodą darbo krūvį, kontroliuoja šių teismų (teisėjų) administracinę veiklą, kaip laikomasi teisėjų etikos ir kaip teisėjai tikrina teismų antstolių kontorų darbą. Bylų paskirstymo teisėjams, išskyrus Lietuvos Aukščiausiajame Teisme, taisykles tvirtina teisingumo ministras Teismų departamento direktoriaus teikimu.“
 
-\#### 34 straipsnis. 41 straipsnio papildymas 2 ir 3 dalimis
+## 34 straipsnis. 41 straipsnio papildymas 2 ir 3 dalimis
 
 Papildyti 41 straipsnį 2 ir 3 dalimis:
 
@@ -428,13 +428,13 @@ Papildyti 41 straipsnį 2 ir 3 dalimis:
 
 Apeliacinio teismo pirmininkas asmeniškai ar per jo paskirtus teisėjus kontroliuoja Apeliacinio bei apygardų teismų administracinę veiklą ir kaip laikomasi teisėjų etikos.“
 
-\#### 35 straipsnis. 43 straipsnio 3 dalies pakeitimas
+## 35 straipsnis. 43 straipsnio 3 dalies pakeitimas
 
 Pakeisti 43 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Apylinkės teisme, kuriame nėra pirmininko pavaduotojo, nesant pirmininko, jo pareigas Teismų departamento direktorius paveda laikinai eiti vienam iš to apylinkės teismo teisėjų.“
 
-\#### 36 straipsnis. 45 straipsnio 1 ir 6 dalių pakeitimas
+## 36 straipsnis. 45 straipsnio 1 ir 6 dalių pakeitimas
 
 1. Pakeisti 45 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -448,7 +448,7 @@ Tepadeda man Dievas.“
 
 „Teisėjas prisiekia tik vieną kartą.“
 
-\#### 37 straipsnis. Įstatymo papildymas 471 straipsniu
+## 37 straipsnis. Įstatymo papildymas 471 straipsniu
 
 Papildyti Įstatymą 47^1 straipsniu:
 
@@ -456,7 +456,7 @@ Papildyti Įstatymą 47^1 straipsniu:
 
 Asmenys, kurie savo veiksmais ar neveikimu trukdo teismui vykdyti teisingumą, siekia įtakoti bylos baigtį, žemina teismo ar teisėjo autoritetą, traukiami atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.“
 
-\#### 38 straipsnis. 51 straipsnio 3 dalies pakeitimas ir papildymas 4, 5 dalimis
+## 38 straipsnis. 51 straipsnio 3 dalies pakeitimas ir papildymas 4, 5 dalimis
 
 1. Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -468,7 +468,7 @@ Asmenys, kurie savo veiksmais ar neveikimu trukdo teismui vykdyti teisingumą, s
 
 Šio straipsnio trečiojoje dalyje nustatytas terminas teisėjo sutikimu gali būti pratęstas.“
 
-\#### 39 straipsnis. Įstatymo papildymas 511 straipsniu
+## 39 straipsnis. Įstatymo papildymas 511 straipsniu
 
 Papildyti Įstatymą 51^1 straipsniu:
 
@@ -478,13 +478,13 @@ Teisėjas darbo ir laisvu nuo darbo metu privalo savo elgesiu saugoti bei puosel
 
 Teisėjas privalo nedelsdamas raštu informuoti teismo pirmininką apie teismo procesą, kuriame jis yra byloje dalyvaujantis asmuo.“
 
-\#### 40 straipsnis. 54 straipsnio 2 dalies pakeitimas
+## 40 straipsnis. 54 straipsnio 2 dalies pakeitimas
 
 Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Apylinkių, apygardų teismų bei Apeliacinio teismo pirmininkams atostogas suteikia Teismų departamento direktorius. Kitiems šių teismų teisėjams atostogas suteikia atitinkamo teismo pirmininkas.“
 
-\#### 41 straipsnis. 56 straipsnio 6 ir 8 dalių pakeitimas
+## 41 straipsnis. 56 straipsnio 6 ir 8 dalių pakeitimas
 
 56 straipsnio 6 ir 8 dalyse po žodžių „teisingumo ministras“ įrašyti žodžius „Teismų departamento direktoriaus teikimu arba savo iniciatyva“ ir šias dalis išdėstyti taip:
 
@@ -492,7 +492,7 @@ Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Kitų teismų pirmininkų pavaduotojus ar skyrių pirmininkus, taip pat apylinkių teismų hipotekos skyrių hipotekos teisėjus atleidžia iš pareigų teisingumo ministras Teismų departamento direktoriaus teikimu arba savo iniciatyva.“
 
-\#### 42 straipsnis. 58 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 42 straipsnis. 58 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 58 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -506,7 +506,7 @@ Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Lietuvos Aukščiausiojo Teismo teisėjų garbės teismą iš 3 narių 5 metams Lietuvos Aukščiausiojo Teismo senato teikimu skiria Respublikos Prezidentas. Lietuvos Aukščiausiojo Teismo teisėjų garbės teismas nagrinėja Lietuvos Aukščiausiojo Teismo teisėjų drausmines bylas vadovaudamasis šiuo įstatymu ir Lietuvos Aukščiausiojo Teismo senato tvirtinamais Lietuvos Aukščiausiojo Teismo teisėjų garbės teismo nuostatais.“
 
-\#### 43 straipsnis. 59 straipsnio pakeitimas
+## 43 straipsnis. 59 straipsnio pakeitimas
 
 1. 59 straipsnio 2 dalį pripažinti netekusia galios.
 
@@ -524,7 +524,7 @@ Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Iškėlus teisėjui drausmės bylą, atitinkamo teismo pirmininkas drausmės bylą iškėlusio pareigūno teikimu paima iš teisėjo bylą, kuri buvo pagrindas drausmės bylai iškelti, ir perduoda jos nagrinėjimą kitam teisėjui arba pakeičia teisėjų kolegijos sudėtį.“
 
-\#### 44 straipsnis. 60 straipsnio 1 dalies papildymas 8 ir 9 punktais
+## 44 straipsnis. 60 straipsnio 1 dalies papildymas 8 ir 9 punktais
 
 60 straipsnio 1 dalį papildyti 8 ir 9 punktais:
 
@@ -532,7 +532,7 @@ Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 
 9) nustatyti draudimą laikotarpiui iki 3 metų perkelti teisėją į aukštesniosios grandies teismą. Ši nuobauda gali būti taikoma kaip pagrindinė ir papildoma.“
 
-\#### 45 straipsnis. 683 straipsnio pakeitimas
+## 45 straipsnis. 683 straipsnio pakeitimas
 
 68^3straipsnyje vietoj žodžių „teisingumo ministras“, „Teisingumo ministerija“ įrašyti žodžius „Teismų departamentas“ ir šį straipsnį išdėstyti taip:
 
@@ -542,7 +542,7 @@ Hipotekos skyrių veiklą užtikrina ir prižiūri Teismų departamentas, laikyd
 
 Teismų departamentas tikrina hipotekos skyrių ūkinę ir finansinę veiklą teisingumo ministro nustatyta tvarka.“
 
-\#### 46 straipsnis. Įstatymo papildymas 691 straipsniu
+## 46 straipsnis. Įstatymo papildymas 691 straipsniu
 
 Papildyti Įstatymą 69^1 straipsniu:
 
@@ -556,7 +556,7 @@ Teismų departamentas planuoja teismo įstaigų išdėstymą, teisėjų skaiči�
 
 Teismų departamento veiklą reglamentuoja nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 47 straipsnis. 73 straipsnio pakeitimas ir papildymas
+## 47 straipsnis. 73 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 73 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -584,7 +584,7 @@ Teismų (teisėjų) administracinės veiklos kontrolė apima:
 
 „Lietuvos Aukščiausiojo Teismo ūkinę ir finansinę veiklą tikrina Seimo sudaroma komisija. Teismų valstybinio mokesčio paėmimo teisingumą gali tikrinti Valstybinė mokesčių inspekcija. Kitos teismo veiklos šios institucijos tikrinti negali. Lietuvos teismų, hipotekos skyrių, teismo antstolių kontorų ūkinę bei finansinę veiklą įstatymo nustatyta tvarka ir pagal savo įgaliojimus taip pat gali tikrinti Lietuvos Respublikos valstybės kontrolė.“
 
-\#### 48 straipsnis. 77 straipsnio 1 ir 2 dalių pakeitimas ir papildymas 4 dalimi
+## 48 straipsnis. 77 straipsnio 1 ir 2 dalių pakeitimas ir papildymas 4 dalimi
 
 1. Pakeisti 77 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -598,19 +598,19 @@ Teismų (teisėjų) administracinės veiklos kontrolė apima:
 
 „Teismų antstoliai periodiškai atestuojami Teismų departamento direktoriaus nustatyta tvarka. Neigiami atestacijos rezultatai yra pagrindas darbo sutarčiai su teismo antstoliu nutraukti.“
 
-\#### 49 straipsnis. 78 straipsnio 1 dalies pakeitimas
+## 49 straipsnis. 78 straipsnio 1 dalies pakeitimas
 
 Pakeisti 78 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Vyresnįjį teismo antstolį skiria Teismų departamento direktorius.“
 
-\#### 50 straipsnis. 79 straipsnio 1 dalies pakeitimas
+## 50 straipsnis. 79 straipsnio 1 dalies pakeitimas
 
 79 straipsnio 1 dalyje vietoj žodžių „teisingumo ministras“ įrašyti žodžius „Teismų departamento direktorius“ ir ją išdėstyti taip:
 
 „Vyresniojo teismo antstolio pavaduotoju Teismų departamento direktorius skiria vieną iš teismo antstolių, pasiūlius vyresniajam teismo antstoliui.“
 
-\#### 51 straipsnis. 82 straipsnio 1 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios
+## 51 straipsnis. 82 straipsnio 1 dalies pakeitimas ir 4 dalies pripažinimas netekusia galios
 
 1. Pakeisti 82 straipsnio 1 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62ECABB31F99"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62ECABB31F99.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 71 straipsnio papildymo ir pakeitimo ir Įstatymo papildymo 88-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8): 2011, Nr. 85-4131)
 
-\#### 1 straipsnis. 71 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 71 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 71 straipsnį nauja 2 dalimi:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „7. Jeigu pažeidžiami draudimai, nurodyti šio straipsnio 3dalyje, kaltiems asmenims teismo nutartimi skiriama iki 1 000 litų bauda.“
 
-\#### 2 straipsnis. Įstatymo papildymas 881 straipsniu
+## 2 straipsnis. Įstatymo papildymas 881 straipsniu
 
 Papildyti Įstatymą 88^1straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FB4C5F44B52"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FB4C5F44B52.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Jungtinių Tautų vaiko teisių konvencijos ratifikavimo
@@ -112,19 +112,19 @@ Valstybės, šios Konvencijos dalyvės,
 
 susitarė:
 
-\# I DALIS
+## I DALIS
 
-\#### 1 straipsnis
+### 1 straipsnis
 
 Šioje Konvencijoje vaiku laikomas kiekvienas žmogus, neturintis 18-os metų, jei pagal taikomą įstatymą jo pilnametystė nepripažinta anksčiau.
 
-\#### 2 straipsnis
+### 2 straipsnis
 
 1. Valstybės dalyvės gerbia ir garantuoja visas šioje Konvencijoje numatytas teises kiekvienam vaikui, priklausančiam jos jurisdikcijai, be jokios diskriminacijos, nepriklausomai nuo vaiko, jo tėvų arba teisėtų globėjų rasės, odos spalvos, lyties, kalbos, religijos, politinių ar kitokių pažiūrų, tautybės, etninės ar socialinės kilmės, turto, sveikatos, luomo ar kokių nors kitų aplinkybių.
 
 2. Valstybės dalyvės imasi visų reikiamų priemonių, kad vaikas būtų apsaugotas nuo bet kokios diskriminacijos ar bausmių dėl vaiko tėvų, teisių globėjų ar kitų šeimos narių statuso, veiklos, pažiūrų ar įsitikinimų.
 
-\#### 3 straipsnis
+### 3 straipsnis
 
 1. Imantis bet kokių vaiką liečiančių veiksmų, nesvarbu, ar tai darytų valstybinės ar privačios įstaigos, užsiimančios socialiniu aprūpinimu, teismai, administracijos ar įstatymų leidimo organai, svarbiausia – vaiko interesai.
 
@@ -132,33 +132,33 @@ susitarė:
 
 3. Valstybės dalyvės rūpinasi, kad tiek už vaikų globą ar apsaugą atsakingos įstaigos, tarnybos ir organai, ypač saugumo, sveikatos apsaugos sritys, jų darbuotojų skaičius bei tinkamumas, tiek kompetentinga jų priežiūra atitiktų kompetentingų organų nustatytas normas.
 
-\#### 4 straipsnis
+### 4 straipsnis
 
 Valstybės dalyvės imasi visų reikiamų teisinių, administracinių ir kitų priemonių šioje Konvencijoje pripažintoms teisėms įgyvendinti. Ekonominėms, socialinėms ir kultūrinėms teisėms įgyvendinti valstybės dalyvės panaudoja kiek įmanoma daugiau savo turimų išteklių, o prireikus pasitelkia ir tarptautinį bendradarbiavimą.
 
-\#### 5 straipsnis
+### 5 straipsnis
 
 Valstybės dalyvės gerbia tėvų arba, tam tikrais atvejais, išplėstinės šeimos arba bendruomenės narių, jei to reikalauja vietiniai papročiai, globėjų ar kitų, pagal įstatymą už viską atsakančių asmenų atsakomybę, teises ir pareigas tinkamai, pagal didėjančius sugebėjimus, vaiką pakreipti ir, jam naudojantis šia Konvencija pripažintomis teisėmis, vadovauti.
 
-\#### 6 straipsnis
+### 6 straipsnis
 
 1. Valstybės dalyvės pripažįsta kiekvieno vaikų neatimamą teisę gyventi.
 
 2. Valstybės dalyvės užtikrina didžiausią galimybę vaikui gyventi ir sveikai vystytis.
 
-\#### 7 straipsnis
+### 7 straipsnis
 
 1. Vaikas įregistruojamas tuoj po gimimo ir nuo gimimo momento turi teisę į vardą ir pilietybę, taip pat, kiek tai įmanoma, teisę žinoti savo tėvus ir būti jų globojamas.
 
 2. Valstybės dalyvės užtikrina, kad šios teisės bus įgyvendintos vadovaujantis jų įstatymais ir jų įsipareigojimais pagal atitinkamus šios srities tarptautinius dokumentus, ypač tuo atveju, jei antraip vaikas neturėtų pilietybės.
 
-\#### 8 straipsnis
+### 8 straipsnis
 
 1. Valstybės dalyvės įsipareigoja gerbti vaiko teisę išsaugoti savo identiškumą, įskaitant pilietybę, vardą ir šeimos ryšius, kaip tai numatyta įstatymu, neleisdamos neteisėto kišimosi.
 
 2. Jei vaikui neteisėtai atimama dalis ar visi jo identiškumo elementai, valstybės dalyvės suteikia jam paramą ir apsaugą, reikalingą jo identiškumui kuo skubiau atstatyti.
 
-\#### 9 straipsnis
+### 9 straipsnis
 
 1. Valstybės dalyvės užtikrina, kad vaikas nebūtų išskirtas su savo tėvais prieš jų norą, išskyrus tuos atvejus, kai kompetentingi organai, vadovaudamiesi teismo sprendimu ir taikytinais įstatymais, atitinkama tvarka nustato, kad toks atskyrimas yra būtinas vaiko interesams. Tai nustatyti gali prireikti tam tikru konkrečiu atveju, pavyzdžiui, kai tėvai žiauriai elgiasi su vaiku arba juo nesirūpina, arba kai tėvai gyvena atskirai ir reikia nuspręsti, kur turi gyventi vaikas.
 
@@ -168,25 +168,25 @@ Valstybės dalyvės gerbia tėvų arba, tam tikrais atvejais, išplėstinės še
 
 4. Kai vaikas su tėvais išskiriamas dėl kokio nors valstybės dalyvės priimto sprendimo, pavyzdžiui, dėl vieno ar abiejų tėvų arba vaiko arešto, įkalinimo, ištrėmimo, deportacijos arba mirties (įskaitant mirtį dėl kokios nors priežasties tam asmeniui esant valstybės žinioje), valstybė dalyvė suteikia tėvams, vaikui arba, jeigu reikia, kitam šeimos nariui, jų prašymu, reikalingą informaciją apie nesančio šeimos nario ar narių buvimo vietą, jei ši informacija nekenkia vaiko gerovei. Valstybės dalyvės rūpinasi, kad toks prašymas nesukeltų neigiamų pasekmių atitinkamam asmeniui ar asmenims.
 
-\#### 10 straipsnis
+### 10 straipsnis
 
 1. Vadovaudamosios valstybių dalyvių 9 straipsnio 1 punkte pareikštu įsipareigojimu, vaiko ar jų tėvų pareiškimus dėl įvažiavimo į valstybę dalyvę arba išvykimo iš jos, kad šeima galėtų susijungti, valstybės dalyvė turi svarstyti humaniškai, operatyviai ir priimti teigiamą sprendimą. Valstybės dalyvės rūpinasi, kad toks prašymas nesukeltų neigiamų pasekmių pareiškėjams ir jų šeimos nariams.
 
 2. Vaikas, kurio tėvai gyvena skirtingose valstybėse, turi teisę, išskyrus ypatingas aplinkybes, nuolat ir tiesiogiai bendrauti su abiem tėvais. Todėl, vadovaudamosios savo 9 straipsnio 1 punktu priimtais įsipareigojimais, valstybės dalyvės gerbia vaiko ir jo tėvų teisę palikti bet kurią šalį, įskaitant ir jų pačių, ir grįžti į ją. Teisę palikti bet kurią šalį galima apriboti tik tiek, kiek tai nustatyta įstatymu ir būtina valstybės saugumui, viešajai tvarkai (ordre public), gyventojų sveikatai ar dorovei arba kitų asmenų teisėms ir laisvėms apsaugoti ir yra suderinama su šioje Konvencijoje pripažintomis kitomis teisėmis.
 
-\#### 11 straipsnis
+### 11 straipsnis
 
 1. Valstybės dalyvės kovoja su neteisėtu vaikų perkėlimu ir negrąžinimu iš užsienio.
 
 2. Šiam tikslui valstybės dalyvės skatina sudaryti dvišalius arba daugiašalius susitarimus arba prisijungti prie galiojančių susitarimų.
 
-\#### 12 straipsnis
+### 12 straipsnis
 
 1. Valstybės dalyvės garantuoja vaikui, sugebančiam suformuluoti savo pažiūras, teisę laisvai jas reikšti visais jį liečiančiais klausimais; be to, vaiko pažiūroms, atsižvelgiant į jo amžių ir brandumą, skiriama daug dėmesio.
 
 2. Todėl vaikui būtinai suteikiama galimybė būti išklausytam bet kokio jį liečiančio teisminio ar administracinio nagrinėjimo metu tiesiogiai arba per atstovą ar atitinkamą organą nacionalinių įstatymų numatyta tvarka.
 
-\#### 13 straipsnis
+### 13 straipsnis
 
 1. Vaikas turi teisę laisvai reikšti savo nuomonę; todėl ši teisė apima laisvę ieškoti, gauti ir perduoti bet kokio pobūdžio informaciją ir idėjas nepaisant sienų žodine: rašytine arba spausdinta forma, meno kūriniais arba kitais vaiko pasirinktais būdais.
 
@@ -196,7 +196,7 @@ a) siekiant garantuoti pagarbą kitų asmenų teisėms ir reputacijai; arba
 
 b) būtini valstybės saugumui, viešajai tvarkai (ordre public), gyventojų sveikatai ar dorovei apsaugoti.
 
-\#### 14 straipsnis
+### 14 straipsnis
 
 1. Valstybės dalyvės gerbia vaiko teisę į minties, sąžinės ir religijos laisvę.
 
@@ -204,19 +204,19 @@ b) būtini valstybės saugumui, viešajai tvarkai (ordre public), gyventojų sve
 
 3. Laisvė išpažinti savo religiją arba tikėjimą gali būti ribojama tik tiek, kiek tai nustatyta įstatymu ir yra būtina valstybės saugumo, viešosios tvarkos, gyventojų dorovės ir sveikatos arba kitų asmenų pagrindinių teisių ir laisvių apsaugai.
 
-\#### 15 straipsnis
+### 15 straipsnis
 
 1. Valstybės dalyvės pripažįsta vaiko teisę į asociacijų ir taikių susirinkimų laisvę.
 
 2. Šiai teisei įgyvendinti neturi būti jokių apribojimų, išskyrus tuos, kurie taikomi pagal įstatymą ir yra būtini demokratinėje visuomenėje valstybės ar visuomenės augumo, viešosios tvarkos (ordre public), gyventojų sveikatos, dorovės arba kitų asmenų teisių ir laisvių apsaugai.
 
-\#### 16 straipsnis
+### 16 straipsnis
 
 1. Nė vienas vaikas neturi patirti savavališko ar neteisėto kišimosi į jo asmeninį, šeimyninį gyvenimą, buto neliečiamybę, susirašinėjimo paslaptį arba neteisėto kėsinimosi į jo garbę ir reputaciją.
 
 2. Vaikas turi teisę nuo tokio kišimosi ar kėsinimosi būti įstatymo ginamas.
 
-\#### 17 straipsnis
+### 17 straipsnis
 
 Valstybės dalyvės pripažįsta svarbų masinės informacijos priemonių vaidmenį ir rūpinasi, kad vaikas galėtų naudotis įvairių nacionalinių ir tarptautinių šaltinių informacija ir medžiaga, ypač tokia informacija ir medžiaga, kuri prisideda prie vaiko socialinės, dvasinės ir dorovinės gerovės ir skatina jo fizinį bei psichinį vystymąsi. Šiam tikslui valstybės dalyvės:
 
@@ -230,7 +230,7 @@ d) skatina masinės informacijos priemones skirti ypač daug dėmesio vaikų, pr
 
 e) skatina formuoti principus, padedančius apginti vaiką nuo jo gerovei kenkiančios informacijos ir medžiagos, pagal 13 ir 18 straipsnio nuostatas.
 
-\#### 18 straipsnis
+### 18 straipsnis
 
 1. Valstybės dalyvės deda visas pastangas, kad būtų pripažintas bendros ir vienodos abiejų tėvų atsakomybės už vaiko auklėjimą ir vystymąsi principas. Tėvams arba, atitinkamais atvejais, teisėtiems globėjams tenka pagrindinė atsakomybė už vaiko auklėjimą ir vystymąsi. Pagrindinis jų rūpestis turi būti vaiko interesai.
 
@@ -238,13 +238,13 @@ e) skatina formuoti principus, padedančius apginti vaiką nuo jo gerovei kenkia
 
 3. Valstybės dalyvės imasi visų reikiamų priemonių, kad vaikai, kurių tėvai dirba, turėtų teisę naudotis jiems skirtomis vaikų priežiūros tarnybomis ir įstaigomis.
 
-\#### 19 straipsnis
+### 19 straipsnis
 
 1. Valstybės dalyvės, siekdamos apginti vaiką nuo įvairiausio pobūdžio fizinio ar psichologinio smurto, įžeidimų ar piktnaudžiavimo, priežiūros nebuvimo ar nerūpestingo elgesio, grubaus elgesio ar išnaudojimo, įskaitant seksualinį piktnaudžiavimą, kuriuos jis gali patirti iš tėvų, teisėtų globėjų ar kurio nors kito jį globojančio asmens, imasi visų reikiamų teisinių, administracinių, socialinių ir švietimo priemonių.
 
 2. Tarp tokių apsaugos priemonių reikiamais atvejais gali būti ir veiksmingos socialinės programos, leidžiančios suteikti paramą vaikui ir jį globojantiems asmenims ir išaiškinti, pranešti, perduoti nagrinėti, tirti, gydyti ir imtis kitų priemonių minėtais žiauraus elgesio su vaiku atvejais, o prireikus iškelti baudžiamąją bylą.
 
-\#### 20 straipsnis
+### 20 straipsnis
 
 1. Vaikas, kuris laikinai arba visam laikui yra netekęs savo šeimos aplinkos arba kuris dėl savo interesų negali toje aplinkoje būti, turi teisę į ypatingą valstybės teikiamą apsaugą ir paramą.
 
@@ -252,7 +252,7 @@ e) skatina formuoti principus, padedančius apginti vaiką nuo jo gerovei kenkia
 
 3. Tokia priežiūra gali reikšti perdavimą perauklėti, „kafalą“ pagal islamo teisę, įvaikinimą arba, esant reikalui, atidavimą į atitinkamas vaikų priežiūros įstaigas. Pageidautina, svarstant pakeitimo variantus, atsižvelgti į vaiko auklėjimo paveldimumą, jo etninę kilmę, religinę ir kultūrinę priklausomybę ir gimtąją kalbą.
 
-\#### 21 straipsnis
+### 21 straipsnis
 
 Valstybės dalyvės, kurios pripažįsta įvaikinimo sistemą, rūpinasi, kad pirmiausia būtų atsižvelgiama į vaiko interesus, taip pat:
 
@@ -266,13 +266,13 @@ d) imasi visų reikiamų priemonių, kad įvaikinimas kitoje šalyje neleistų s
 
 e) padeda prireikus pasiekti šio straipsnio tikslų sudarydamos dvišalius ir daugiašalius susitarimus ir rūpinasi, kad vaiką kitoje šalyje įkurdintų kompetentingi valdžios organai ar pareigūnai.
 
-\#### 22 straipsnis
+### 22 straipsnis
 
 1. Valstybės dalyvės imasi reikiamų priemonių, kad užtikrintų vaikui, norinčiam gauti pabėgėlio statusą arba laikomam pabėgėliu pagal taikytiną tarptautinę arba vidaus teisę ir nustatytą tvarką, nepriklausomai nuo to, ar jį lydi, ar nelydi jo tėvai ar koks nors kitas asmuo, deramą apsaugą ir humanitarinę pagalbą naudodamosios taikytinomis teisėmis, išdėstytomis šioje Konvencijoje ir kituose tarptautiniuose žmogaus teisių arba humanitariniuose dokumentuose, kurių dalyvės yra nurodytos valstybės.
 
 2. Šio tikslo siekdamos valstybės dalyvės remia, jeigu joms atrodo, kad tai reikalinga, Jungtinių Tautų ir kitų kompetentingų tarpvyriausybinių arba nevyriausybinių organizacijų, bendradarbiaujančių su Jungtinėmis Tautomis, pastangas ginti tokį vaiką, teikti jam paramą ir ieškoti kiekvieno vaiko bėglio tėvų arba kitų šeimos narių, gauti iš jų reikalingą informaciją, kad būtų galima grąžinti vaiką į šeimą. Jei tėvų ar kitų šeimos narių negalima surasti, tokiam vaikui teikiama tokia pat apsauga, kaip ir bet kuriam kitam vaikui, dėl kokios nors priežasties visam laikui ar laikinai netekusiam savo šeimos aplinkos, kaip tai numato ši Konvencija.
 
-\#### 23 straipsnis
+### 23 straipsnis
 
 1. Valstybės dalyvės pripažįsta, kad psichiškai ar fiziškai nepilnavertis vaikas turi gyventi pilnavertį ir prideramą gyvenimą, kuris garantuotų jo orumą, ugdytų pasitikėjimą savimi ir leistų aktyviai dalyvauti visuomenės veikloje.
 
@@ -282,7 +282,7 @@ e) padeda prireikus pasiekti šio straipsnio tikslų sudarydamos dvišalius ir d
 
 4. Valstybės dalyvės, plėtodamos tarptautinį bendradarbiavimą, skatina keitimąsi atitinkama informacija apie nepilnaverčių vaikų profilaktinę sveikatos apsaugą ir medicinos, psichologinį ir funkcinį gydymą, įskaitant informaciją apie reabilitacijos, bendrojo lavinimo ir profesinio rengimo metodus, taip pat rūpinasi, jog būtų galimybė šia informacija naudotis, kad valstybės dalyvės turėtų daugiau žinių ir galėtų išplėsti savo patirtį. Ypač daug dėmesio šiuo atveju turi būti skiriama besivystančių šalių poreikiams.
 
-\#### 24 straipsnis
+### 24 straipsnis
 
 1. Valstybės dalyvės pripažįsta vaiko teisę naudotis tobuliausiomis sveikatos sistemos paslaugomis ir ligų gydymo bei sveikatos atstatymo priemonėmis. Valstybės dalyvės rūpinasi, kad nė vienam vaikui nebūtų atimta teisė naudotis tokiomis sveikatos apsaugos sistemos paslaugomis.
 
@@ -304,17 +304,17 @@ f) plėtoti švietimą ir paslaugas sveikatos priežiūros, tėvų konsultavimo 
 
 4. Valstybės dalyvės įsipareigoja skatinti ir plėtoti tarptautinį bendradarbiavimą siekdamos laipsniškai įgyvendinti šiame straipsnyje pripažintą teisę. Šiuo požiūriu ypač didelis dėmesys turi būti skiriamas besivystančių šalių poreikiams.
 
-\#### 25 straipsnis
+### 25 straipsnis
 
 Valstybės dalyvės pripažįsta vaiko, kompetentingų organų atiduoto globoti ir rūpintis juo, ginti jį arba fiziškai ar psichiškai gydyti, teisę nuolat vertinti jo gydymą ir kitas su jo globa susijusias sąlygas.
 
-\#### 26 straipsnis
+### 26 straipsnis
 
 1. Valstybės dalyvės pripažįsta kiekvieno vaiko teisę naudotis socialiniu aprūpinimu, įskaitant socialinį draudimą, ir imasi reikiamų priemonių šiai teisei įgyvendinti pagal savo įstatymus.
 
 2. Socialinis aprūpinimas pagal reikalingumą teikiamas atsižvelgiant į vaiko ir asmenų, atsakančių už vaiko išlaikymą, turimus išteklius ir galimybes, taip pat kitais sumetimais, susijusiais su gėrybių gavimu vaikui arba jo vardu.
 
-\#### 27 straipsnis
+### 27 straipsnis
 
 1. Valstybės dalyvės pripažįsta kiekvieno vaiko teisę turėti tokias gyvenimo sąlygas, kokių reikia jo fiziniam, protiniam, dvasiniam, doroviniam ir socialiniam vystymuisi.
 
@@ -324,7 +324,7 @@ Valstybės dalyvės pripažįsta vaiko, kompetentingų organų atiduoto globoti 
 
 4. Valstybės dalyvės imasi visų reikiamų priemonių, kad vaikas gautų geresnį išlaikymą iš tėvų ar kitų finansiškai už jį atsakančių asmenų tiek valstybės viduje, tiek iš užsienio. Jei finansiškai už vaiką atsakantis asmuo ir vaikas gyvena skirtingose valstybėse, valstybės dalyvės ragina pripažinti tarptautinius susitarimus arba sudaryti kitus atitinkamus susitarimus.
 
-\#### 28 straipsnis
+### 28 straipsnis
 
 1. Valstybės dalyvės pripažįsta vaiko teisę mokytis. Siekdamos palaipsniui šią teisę įgyvendinti ir sudaryti vienodas galimybes, jos:
 
@@ -340,7 +340,7 @@ e) imasi priemonių, skatinančių nuolat lankyti mokyklą ir mažinančių moks
 
 3. Valstybės dalyvės skatina ir plėtoja tarptautinį bendradarbiavimą sprendžiant švietimo problemas. Ypač jos siekia prisidėti prie tamsumo ir neraštingumo visame pasaulyje panaikinimo ir sudaryti galimybę naudotis mokslo ir technikos žiniomis bei šiuolaikiniais mokymo metodais. Šiuo atveju ypač daug dėmesio reikia skirti besivystančių šalių poreikiams.
 
-\#### 29 straipsnis
+### 29 straipsnis
 
 1. Valstybės dalyvės susitaria, kad vaiko lavinimo tikslas turi būti:
 
@@ -356,17 +356,17 @@ e) ugdyti pagarbą gamtai.
 
 2. Jokia šio arba 28 straipsnio dalis neturi būti suprantama kaip apribojanti atskirų asmenų ir organų teisę steigti mokymo įstaigas ir joms vadovauti, su sąlyga, kad visuomet bus laikomasi šio straipsnio 1 punkte išdėstytų principų ir reikalavimų, kad mokslas tokiose įstaigose atitiks minimalias normas, kurias gali būti nustačiusi valstybė.
 
-\#### 30 straipsnis
+### 30 straipsnis
 
 Tose valstybėse, kuriose gyvena etninių, religinių ar kalbinių mažumų arba vietinių gyventojų, iš vaiko, priklausančio tam tikrai mažumai, ar vietinio gyventojo vaiko negali būti apimta teisė kartu su kitais savo grupės nariais naudotis savo kultūra, išpažinti savo religiją, atlikinėti jos apeigas ir vartoti gimtąją kalbą.
 
-\#### 31 straipsnis
+### 31 straipsnis
 
 1. Valstybės dalyvės pripažįsta vaiko teisę į poilsį ir laisvalaikį, teisę dalyvauti žaidynėse ir jo amžių atitinkančiuose pramoginiuose renginiuose, laisvai dalyvauti kultūriniame gyvenime ir kurti meno kūrinius.
 
 2. Valstybės dalyvės gerbia ir skatina vaiko teisę visapusiškai dalyvauti kultūriniame ir kūrybiniame gyvenime ir prisideda prie to, kad jam būtų suteiktos atitinkamos ir vienodos galimybės dalyvauti kultūrinėje ir kūrybinėje veikloje, praleisti laisvalaikį ir poilsiauti.
 
-\#### 32 straipsnis
+### 32 straipsnis
 
 1. Valstybės dalyvės pripažįsta vaiko teisę būti apsaugotam nuo ekonominio išnaudojimo ir nuo bet kokio darbo, kuris gali būti pavojingas jo sveikatai arba trukdyti jam mokytis, gali kenkti jo sveikatai ir fiziniam, protiniam, dvasiniam, doroviniam bei socialiniam vystymuisi.
 
@@ -378,11 +378,11 @@ b) numato darbo dienos trukmę ir darbo sąlygas;
 
 c) numato atitinkamas bausmes arba kitas sankcijas, leidžiančias veiksmingai įgyvendinti šį straipsnį.
 
-\#### 33 straipsnis
+### 33 straipsnis
 
 Valstybės dalyvės imasi visų reikiamų priemonių, įskaitant teisines, administracines, socialines ir šviečiamąsias, kad apsaugotų vaikus nuo neteisėto narkotinių priemonių ir psichotropinių medžiagų, kaip jos apibrėžtos atitinkamose tarptautinėse sutartyse, vartojimo ir neleistų panaudoti vaikų tokias medžiagas neteisėtai gaminant ir pardavinėjant.
 
-\#### 34 straipsnis
+### 34 straipsnis
 
 Valstybės dalyvės įsipareigoja ginti vaiką nuo visų seksualinio išnaudojimo ir seksualinio suvedžiojimo formų. Šiam tikslui valstybės dalyvės imasi visų reikiamų priemonių nacionaliniu, dvišaliu ir daugiašaliu lygiu siekdamos uždrausti:
 
@@ -392,15 +392,15 @@ b) išnaudoti vaikus verčiant juos užsiimti prostitucija arba kita neteisėta 
 
 c) išnaudoti vaikus pornografijai ir pornografiniams leidiniams.
 
-\#### 35 straipsnis
+### 35 straipsnis
 
 Valstybės dalyvės imasi visų reikiamų priemonių nacionaliniu, dvišaliu ir daugiašaliu lygiu siekdamos užkirsti kelią vaikų grobimui, prekybai arba jų kontrabandai, nesvarbu, kokiems tikslams ir kokia forma.
 
-\#### 36 straipsnis
+### 36 straipsnis
 
 Valstybės dalyvės gina vaiką nuo visų kitų išnaudojimo formų, darančių kokią nors žalą jo gerovei.
 
-\#### 37 straipsnis
+### 37 straipsnis
 
 Valstybės dalyvės užtikrina, kad:
 
@@ -412,7 +412,7 @@ c) su kiekvienu vaiku, kuriam atimta laisvė, būtų elgiamasi žmoniškai, kad 
 
 d) kiekvienas vaikas, kuriam atimta laisvė, turėtų teisę tuoj pat gauti teisinę ir kitokią pagalbą, taip pat teisę ginčyti savo laisvės atėmimo teisėtumą prieš teismą ar kitą kompetentingą, nepriklausomą ir nešališką organą ir teisę reikalauti, kad jie neatidėliodami priimtų sprendimą dėl bet kurio tokio procesinio veiksmo.
 
-\#### 38 straipsnis
+### 38 straipsnis
 
 1. Valstybės dalyvės įsipareigoja gerbti tarptautinės humanitarinės teisės sprendimus, kurie gali būti priimami dėl vaikų kilus jose ginkluotiems konfliktams, ir jų laikytis.
 
@@ -422,11 +422,11 @@ d) kiekvienas vaikas, kuriam atimta laisvė, turėtų teisę tuoj pat gauti teis
 
 4. Vadovaudamosios savo įsipareigojimais, atitinkamai pagal tarptautinę humanitarinę teisę, apsaugoti civilius gyventojus kilus jose ginkluotiems konfliktams, valstybės dalyvės imasi visų priemonių, kad apsauga būtų garantuota, o per ginkluotą konfliktą nukentėjusiais vaikais pasirūpinta.
 
-\#### 39 straipsnis
+### 39 straipsnis
 
 Valstybės dalyvės imasi visų reikiamų priemonių, kad padėtų fiziškai ir psichologiškai atsistatyti ir socialiai reintegruotis vaikui, tapusiam bet kokio pobūdžio nesirūpinimo, išnaudojimo, piktnaudžiavimo; kankinimo ar kitokio žiauraus, nežmoniško arba orumą žeminančio elgesio ar bausmės; ginkluotų konfliktų auka.
 
-\#### 40 straipsnis
+### 40 straipsnis
 
 1. Valstybės dalyvės pripažįsta kiekvieno vaiko, įtariamo pažeidus baudžiamuosius įstatymus, kaltinamo arba pripažįstamo kaltu dėl jų pažeidimo, teisę, kad su juo būtų elgiamasi stengiantis ugdyti jo orumą ir reikšmingumą, pagarbą žmogaus teisėms ir pagrindinėms laisvėms, kad būtų atsižvelgiama į jo amžių ir jaustųsi noras padėti jam reintegruotis ir atlikti naudingą vaidmenį visuomenėje.
 
@@ -458,7 +458,7 @@ b) prireikus ir pageidaujant imtis priemonių, kad tokiems vaikams nebūtų taik
 
 4. Kad elgesys su vaiku nepakenktų jo interesams, jo padėčiai ir atitiktų nusikaltimo pobūdį, reikia būti numačius priežiūrai įstaigose alternatyvią priežiūros, globos ir vadovavimo tvarką, konsultacines paslaugas, bandomojo laikotarpio skyrimą, auklėjimą, mokymą ir profesinį rengimą bei kt.
 
-\#### 41 straipsnis
+### 41 straipsnis
 
 Šia Konvencija netrukdoma laikytis nuostatų, kurios padeda geriau įgyvendinti vaiko teises ir gali būti suformuluotos:
 
@@ -466,13 +466,13 @@ a) valstybės dalyvės įstatyme; arba
 
 b) tarptautinės teisės normose, galiojančiose atitinkamoje valstybėje.
 
-\# II DALIS
+## II DALIS
 
-\#### 42 straipsnis
+### 42 straipsnis
 
 Valstybės dalyvės įsipareigoja tinkamais ir veiksmingais būdais plačiai informuoti apie Konvencijos principus ir nuostatas tiek suaugusiuosius, tiek vaikus.
 
-\#### 43 straipsnis
+### 43 straipsnis
 
 1. Siekiant susipažinti su pažanga, valstybių dalyvių pasiekta vykdant pagal šią Konvenciją prisiimtus įsipareigojimus, įsteigiamas Vaiko teisių komitetas, kuris atlieka toliau numatytas funkcijas.
 
@@ -498,7 +498,7 @@ Valstybės dalyvės įsipareigoja tinkamais ir veiksmingais būdais plačiai inf
 
 12. Pagal šią Konvenciją įkurto Komiteto nariai gauna Generalinės Asamblėjos patvirtintą atlyginimą iš Jungtinių Tautų lėšų tokia tvarka ir sąlygomis, kokias nustato Generalinė Asamblėja.
 
-\#### 44 straipsnis
+### 44 straipsnis
 
 1. Valstybės dalyvės įsipareigoja informuoti Komitetą per Jungtinių Tautų Generalinį sekretorių, ką nuveikė Konvencijoje pripažintoms teisėms įtvirtinti ir kokią pažangą, įgyvendindamos šias teises, padarė:
 
@@ -516,7 +516,7 @@ b) vėliau kas penkeri metai.
 
 6. Valstybės dalyvės garantuoja savo ataskaitų viešumą savo šalyse.
 
-\#### 45 straipsnis
+### 45 straipsnis
 
 Siekiant prisidėti prie veiksmingo Konvencijos įgyvendinimo ir skatinti tarptautinį bendradarbiavimą šios Konvencijos aprėpiamoje srityje:
 
@@ -528,27 +528,27 @@ c) Komitetas gali rekomenduoti Generalinei Asamblėjai, kad ji pasiūlytų Gener
 
 d) Komitetas gali teikti bendrų pasiūlymų ir rekomendacijų, pagrįstų pagal šios Konvencijos 44 ir 45 straipsnį gauta informacija. Tokie bendri pasiūlymai ir rekomendacijos perduodami kiekvienai suinteresuotai valstybei dalyvei ir pranešami Generalinei Asamblėjai kartu su valstybių dalyvių pastabomis, jeigu jų būna.
 
-\# III DALIS
+## III DALIS
 
-\#### 46 straipsnis
+### 46 straipsnis
 
 Šią Konvenciją gali pasirašyti visos valstybės.
 
-\#### 47 straipsnis
+### 47 straipsnis
 
 Ši Konvencija ratifikuotina. Ratifikavimo raštai atiduodami saugoti Jungtinių Tautų Generaliniam sekretoriui.
 
-\#### 48 straipsnis
+### 48 straipsnis
 
 Prie šios Konvencijos gali prisijungti bet kuri valstybė. Prisijungimo dokumentai atiduodami saugoti Jungtinių Tautų Generaliniam sekretoriui.
 
-\#### 49 straipsnis
+### 49 straipsnis
 
 1. Ši Konvencija įsigalioja trisdešimtą dieną po dvidešimto ratifikavimo rašto ar prisijungimo dokumentų atidavimo saugoti Jungtinių Tautų Generaliniam sekretoriui dienos.
 
 2. Kiekvienoje valstybėje, kuri ratifikuoja šią Konvenciją arba prie jos prisijungia po dvidešimto ratifikavimo rašto ar prisijungimo dokumento atidavimo saugoti dienos, ši Konvencija įsigalioja trisdešimtą dieną po jos pačios ratifikavimo rašto ar prisijungimo dokumento atidavimo saugoti dienos.
 
-\#### 50 straipsnis
+### 50 straipsnis
 
 1. Kiekviena valstybė dalyvė gali pasiūlyti pataisą ir pateikti ją Jungtinių Tautų Generaliniam sekretoriui. Generalinis sekretorius išsiuntinėja pasiūlytą pataisą valstybėms dalyvėms prašydamas nurodyti, ar jos pritaria, kad būtų sušaukta valstybių dalyvių konferencija, tie pasiūlymai svarstomi ir už juos balsuojama. Jei per keturis mėnesius nuo tokio panešimo dienos bent trečdalis valstybių dalyvių tam pritaria, Generalinis sekretorius šaukia šią Jungtinių Tautų globojamą konferenciją. Kiekviena pataisa, priimta šioje konferencijoje dalyvaujančių ir balsuojančių valstybių dalyvių balsų dauguma, pateikiama tvirtinti Generalinei Asamblėjai.
 
@@ -556,7 +556,7 @@ Prie šios Konvencijos gali prisijungti bet kuri valstybė. Prisijungimo dokumen
 
 3. Įsigaliojusi pataisa yra privaloma ją priėmusioms valstybėms dalyvėms, o kitoms valstybėms dalyvėms yra privalomos šios Konvencijos nuostatos ir visos ankstesnės pataisos, kurias jos yra priėmusios.
 
-\#### 51 straipsnis
+### 51 straipsnis
 
 1. Jungtinių Tautų Generalinis sekretorius gauna ir išsiuntinėja visoms valstybėms ratifikavimo arba prisijungimo metu valstybių padarytų išlygų tekstus.
 
@@ -564,15 +564,15 @@ Prie šios Konvencijos gali prisijungti bet kuri valstybė. Prisijungimo dokumen
 
 3. Išlygas galima bet kuriuo metu atšaukti informuojant apie tai Jungtinių Tautų Generalinį sekretorių, kuris savo ruožtu informuoja apie tai visas valstybes. Tokia informacija įsigalioja nuo tos dienos, kai ją gauna Generalinis sekretorius.
 
-\#### 52 straipsnis
+### 52 straipsnis
 
 Kiekviena valstybė dalyvė gali denonsuoti šią Konvenciją raštu pranešdama apie tai Jungtinių Tautų Generaliniam sekretoriui. Denonsavimas įsigalioja po vienerių metų nuo tos dienos, kai Generalinis sekretorius gauna pranešimą.
 
-\#### 53 straipsnis
+### 53 straipsnis
 
 Jungtinių Tautų Generlainis sekretorius skiriamas šios Konvencijos depozitarijumi.
 
-\#### 54 straipsnis
+### 54 straipsnis
 
 Šios Konvencijos, kurios tekstai yra autentiški anglų, arabų, ispanų, kinų, prancūzų ir rusų kalbomis, originalas atiduodamas saugoti Jungtinių Tautų Generaliniam sekretoriui.
 

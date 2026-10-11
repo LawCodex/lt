@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dc7630e0a62811eea5a28c81c82193a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DC7630E0A628.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos odontologų rūmų įstatymas
@@ -26,19 +26,19 @@ ODONTOLOGŲ RŪMŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Lietuvos Respublikos odontologų rūmų (toliau – Rūmai) funkcijas, valdymo, veiklos ypatumus.
 
-\#### 2 straipsnis. Rūmų samprata
+## 2 straipsnis. Rūmų samprata
 
 1. Rūmai yra pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kuris vienija odontologus ir burnos priežiūros specialistus bei įgyvendina jų savivaldą. Rūmų, kaip juridinio asmens, teisinė forma yra asociacija.
 
 2. Rūmų veiklą reglamentuoja Lietuvos Respublikos asociacijų įstatymas, kiek šis įstatymas nenustato kitaip, ir Rūmų statutas.
 
-\#### 3 straipsnis. Rūmų uždaviniai
+## 3 straipsnis. Rūmų uždaviniai
 
 Rūmų pagrindiniai uždaviniai yra šie:
 
@@ -48,7 +48,7 @@ Rūmų pagrindiniai uždaviniai yra šie:
 
 3) rūpintis odontologijos veiklos Lietuvos Respublikoje plėtra, pacientų švietimu, odontologų ir burnos priežiūros specialistų mokymu ir kvalifikacijos tobulinimu, medicinine kultūra.
 
-\#### 4 straipsnis. Rūmų funkcijos ir teisės
+## 4 straipsnis. Rūmų funkcijos ir teisės
 
 1. Rūmai atlieka šias funkcijas:
 
@@ -88,13 +88,13 @@ Rūmų pagrindiniai uždaviniai yra šie:
 
 8) įgyvendinti kitas teisės aktuose nustatytas teises.
 
-\#### 5 straipsnis. Rūmų teritoriniai skyriai
+## 5 straipsnis. Rūmų teritoriniai skyriai
 
 Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų tarybos nustatytoms funkcijoms tam tikroje teritorijoje atlikti.
 
-\## II SKYRIUS. RŪMŲ NARIAI, JŲ TEISĖS IR PAREIGOS
+II SKYRIUS. RŪMŲ NARIAI, JŲ TEISĖS IR PAREIGOS
 
-\#### 6 straipsnis. Rūmų nariai
+## 6 straipsnis. Rūmų nariai
 
 1. Kiekvienas asmuo, kuris verčiasi odontologo ar burnos priežiūros specialisto praktika, yra Rūmų narys nuo jo įrašymo į Rūmų narių sąrašą. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šiame ir kituose įstatymuose nustatyta tvarka išduotą ir galiojančią odontologijos praktikos licenciją. Verstis burnos priežiūros praktika Lietuvos Respublikoje turi teisę burnos priežiūros specialistas, turintis šiame ir kituose įstatymuose nustatyta tvarka išduotą ir galiojančią burnos priežiūros praktikos licenciją. Odontologo ir burnos priežiūros specialisto sąvokos šiame įstatyme suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatyme.
 
@@ -112,7 +112,7 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 6. Narystė Rūmuose sustabdoma sustabdžius odontologui ar burnos priežiūros specialistui išduotos odontologijos praktikos ar burnos priežiūros praktikos licencijos galiojimą. Narystės Rūmuose sustabdymas panaikinamas panaikinus odontologui ar burnos priežiūros specialistui išduotos odontologijos praktikos ar burnos priežiūros praktikos licencijos galiojimo sustabdymą.
 
-\#### 7 straipsnis. Rūmų narių teisės ir pareigos
+## 7 straipsnis. Rūmų narių teisės ir pareigos
 
 1. Rūmų narys turi teisę:
 
@@ -146,9 +146,9 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 4) vykdyti ir kitas Rūmų statute ir Odontologų profesinės etikos kodekse nustatytas pareigas.
 
-\## III SKYRIUS. RŪMŲ VALDYMAS
+III SKYRIUS. RŪMŲ VALDYMAS
 
-\#### 8 straipsnis. Rūmų organai
+## 8 straipsnis. Rūmų organai
 
 1. Rūmų organai yra:
 
@@ -166,7 +166,7 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 2. Tie patys asmenys vienu metu negali būti Rūmų tarybos, Rūmų revizijos komisijos ar Rūmų garbės teismo nariais.
 
-\#### 9 straipsnis. Rūmų visuotinis narių susirinkimas
+## 9 straipsnis. Rūmų visuotinis narių susirinkimas
 
 1. Rūmų visuotinis narių susirinkimas (toliau – visuotinis narių susirinkimas) yra aukščiausiasis Rūmų organas. Eilinį visuotinį narių susirinkimą Rūmų taryba šaukia ne rečiau kaip kartą per metus. Rūmų tarybos sprendimu gali būti šaukiamas ir neeilinis visuotinis narių susirinkimas.
 
@@ -196,7 +196,7 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 6. Rūmų statute gali būti nustatyta, kad vietoj visuotinio narių susirinkimo šaukiamas Rūmų narių įgaliotinių susirinkimas (konferencija), kuris atlieka šiame straipsnyje ir kitas šiame įstatyme visuotiniam narių susirinkimui nustatytas funkcijas. Rūmų narių įgaliotinius renka Rūmų teritoriniai skyriai, remdamiesi Rūmų tarybos nustatytomis atstovavimo normomis. Į Rūmų narių įgaliotinių susirinkimą (konferenciją) be rinkimų kviečiami ir turi teisę balsuoti Rūmų tarybos nariai, Rūmų garbės teismo nariai, Rūmų revizijos komisijos nariai ir Rūmų teritorinių skyrių vadovai. Rūmų narių įgaliotinių susirinkimo (konferencijos) kvorumas nustatomas, pakartotinis susirinkimas (konferencija) šaukiamas ir susirinkimo (konferencijos) sprendimai priimami šio straipsnio 3–5 dalyse nustatyta tvarka.
 
-\#### 10 straipsnis. Rūmų taryba
+## 10 straipsnis. Rūmų taryba
 
 1. Rūmų taryba yra Rūmų valdymo organas.
 
@@ -240,7 +240,7 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 7. Rūmų taryba turi ir kitų Rūmų statute nustatytų funkcijų ir teisių.
 
-\#### 11 straipsnis. Rūmų revizijos komisija
+## 11 straipsnis. Rūmų revizijos komisija
 
 1. Rūmų revizijos komisija yra Rūmų kontrolės organas. Ją 4 metams iš Rūmų narių renka visuotinis narių susirinkimas. Rūmų revizijos komisija sudaroma iš 5 narių. Rūmų revizijos komisijos nariai turi būti nepriekaištingos reputacijos.
 
@@ -260,7 +260,7 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 5. Rūmų revizijos komisijos darbo tvarką nustato šios komisijos nuostatai.
 
-\#### 12 straipsnis. Rūmų garbės teismas
+## 12 straipsnis. Rūmų garbės teismas
 
 1. Rūmų garbės teismas yra Rūmų organas, kuris, vadovaudamasis šiuo įstatymu, Odontologų profesinės etikos kodeksu ir savo nuostatais, nagrinėja Rūmų narių drausmės bylas dėl šio įstatymo, Odontologijos praktikos ir burnos priežiūros praktikos įstatymo, kitų teisės aktų, reglamentuojančių odontologijos praktikos ir burnos priežiūros praktikos bei odontologijos ir burnos priežiūros veiklos reikalavimus, Odontologų profesinės etikos kodekso pažeidimų.
 
@@ -280,7 +280,7 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 7. Visi Rūmų garbės teismo posėdžiai yra protokoluojami.
 
-\#### 13 straipsnis. Rūmų komisijos
+## 13 straipsnis. Rūmų komisijos
 
 1. Odontologų licencijavimo komisija yra Rūmų tarybos sudaryta nuolatinė komisija, kuri teisės aktuose nustatyta tvarka išduoda odontologijos praktikos ir burnos priežiūros praktikos licencijas, jas tikslina, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą, panaikina jų galiojimą.
 
@@ -300,11 +300,11 @@ Rūmų statute gali būti numatytas Rūmų teritorinių skyrių steigimas Rūmų
 
 9. Odontologų licencijavimo komisijos ir kitų Rūmų komisijų sprendimai gali būti skundžiami per vieną mėnesį nuo sprendimo gavimo dienos Lietuvos Respublikos administracinių bylų teisenos įstatyme nustatyta tvarka.
 
-\#### 14 straipsnis. Nepriekaištinga reputacija
+## 14 straipsnis. Nepriekaištinga reputacija
 
 Asmeniui, siekiančiam tapti Rūmų tarybos, Rūmų garbės teismo, Rūmų revizijos komisijos, Odontologų licencijavimo komisijos ar kitos komisijos nariu, taikomi Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams nustatyti nepriekaištingos reputacijos kriterijai.
 
-\#### 15 straipsnis. Rūmų ir Sveikatos apsaugos ministerijos santykiai
+## 15 straipsnis. Rūmų ir Sveikatos apsaugos ministerijos santykiai
 
 1. Rūmai kiekvienais metais iki balandžio 1 dienos pateikia Sveikatos apsaugos ministerijai ataskaitą apie Odontologų licencijavimo komisijos darbą ir šios ministerijos prašymu – duomenis apie išduotas odontologijos praktikos ir burnos priežiūros praktikos licencijas ir kitus su Rūmų veikla susijusius duomenis.
 
@@ -318,9 +318,9 @@ Asmeniui, siekiančiam tapti Rūmų tarybos, Rūmų garbės teismo, Rūmų reviz
 
 6. Sveikatos apsaugos ministras, turėdamas pagrindo manyti, kad Rūmų sprendimai neatitinka Lietuvos Respublikos įstatymų, gali pateikti skundą teismui Administracinių bylų teisenos įstatyme nustatyta tvarka. Šis skundas turi būti pateikiamas per vieną mėnesį nuo skundžiamo sprendimo gavimo dienos.
 
-\## IV SKYRIUS. RŪMŲ NARIŲ DRAUSMINĖ ATSAKOMYBĖ
+IV SKYRIUS. RŪMŲ NARIŲ DRAUSMINĖ ATSAKOMYBĖ
 
-\#### 16 straipsnis. Drausmės bylos Rūmų nariui iškėlimas ir nagrinėjimas
+## 16 straipsnis. Drausmės bylos Rūmų nariui iškėlimas ir nagrinėjimas
 
 1. Už Odontologijos praktikos ir burnos priežiūros praktikos įstatymo, šio įstatymo, kitų teisės aktų, reglamentuojančių odontologijos praktikos ir burnos priežiūros praktikos bei odontologijos ir burnos priežiūros veiklos reikalavimus, ar Odontologų profesinės etikos kodekso pažeidimus Rūmų nariui gali būti keliama drausmės byla.
 
@@ -332,7 +332,7 @@ Asmeniui, siekiančiam tapti Rūmų tarybos, Rūmų garbės teismo, Rūmų reviz
 
 5. Rūmų drausmės bylos nagrinėjamos pagal Rūmų statute nustatytas taisykles.
 
-\#### 17 straipsnis. Drausminės nuobaudos ir kiti Rūmų garbės teismo sprendimai
+## 17 straipsnis. Drausminės nuobaudos ir kiti Rūmų garbės teismo sprendimai
 
 1. Už pažeidimus, nurodytus šio įstatymo 16 straipsnio 1 dalyje, Rūmų garbės teismas gali skirti šias nuobaudas:
 
@@ -356,9 +356,9 @@ Asmeniui, siekiančiam tapti Rūmų tarybos, Rūmų garbės teismo, Rūmų reviz
 
 7. Rūmų garbės teismo sprendimų rezoliucinės dalys skelbiamos Rūmų interneto svetainėje.
 
-\## V SKYRIUS. RŪMŲ TURTAS
+V SKYRIUS. RŪMŲ TURTAS
 
-\#### 18 straipsnis. Rūmų turtas
+## 18 straipsnis. Rūmų turtas
 
 Rūmų turtą sudaro:
 
@@ -376,13 +376,13 @@ Rūmų turtą sudaro:
 
 7) kitas teisėtai įgytas turtas ir lėšos.
 
-\## VI SKYRIUS. RŪMŲ REORGANIZAVIMAS IR LIKVIDAVIMAS
+VI SKYRIUS. RŪMŲ REORGANIZAVIMAS IR LIKVIDAVIMAS
 
-\#### 19 straipsnis. Rūmų reorganizavimas ir likvidavimas
+## 19 straipsnis. Rūmų reorganizavimas ir likvidavimas
 
 Rūmai reorganizuojami ar likviduojami įstatymuose nustatyta tvarka.
 
-\#### 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2025 m. sausio 1 d.
 

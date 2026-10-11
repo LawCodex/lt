@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3725D8DB2ADE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3725D8DB2ADE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ne pelno organizacijų (įmonių) reorganizavimo įstatymas
@@ -26,11 +26,11 @@ NE PELNO ORGANIZACIJŲ (ĮMONIŲ) REORGANIZAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Ne pelno organizacijos (įmonės), įsteigtos pagal Lietuvos Respublikos Vyriausybės 1992 m. gegužės 26 d. nutarimą Nr. 393 „Dėl ne pelno organizacijų (įmonių) įstatų pagrindinių nuostatų patvirtinimo“ (Žin., 1992, Nr. [21-628](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FFF793940FC); 1995, Nr. [42-1035](https://www.e-tar.lt/portal/lt/legalAct/TAR.7408315286DD), Nr. [58-1454](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6E03E4CB1DC)) ir Vyriausybės 1993 m. gegužės 24 d. nutarimą Nr. 354 „Dėl ne pelno organizacijų (įmonių) registravimo“ (Žin., 1993, Nr. [17-446](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF80FF295D42); 1994, Nr. [78-1473](https://www.e-tar.lt/portal/lt/legalAct/TAR.A2FF62829D7C)), taip pat ne pelno organizacijos (įmonės), nurodytos Vyriausybės nutarimo Nr. 393 2.10 punkte, turi būti reorganizuotos į ne pelno organizacijas ar įmones, kurias nustato Asociacijų įstatymas (Žin., 1996, Nr. [32-786](https://www.e-tar.lt/portal/lt/legalAct/TAR.90792DF37CFF)), Labdaros ir paramos fondų įstatymas (Žin., 1996, Nr. [32-787](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1)), Viešųjų įstaigų įstatymas (1996 m. liepos 3 d. Nr. I-1428), Visuomeninių organizacijų įstatymas (Žin., 1995, Nr. [18-400](https://www.e-tar.lt/portal/lt/legalAct/TAR.D65FBAE9B378)) ir Įmonių įstatymo 6 straipsnis (Žin., 1990, Nr. [14-395](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B); 1991, Nr. [13-330](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E99A7EB52A3); 1993, Nr. [20-492](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6C3B043493), Nr. [32-729](https://www.e-tar.lt/portal/lt/legalAct/TAR.EF3C41AA3E76); 1995, Nr. [60-1503](https://www.e-tar.lt/portal/lt/legalAct/TAR.E62A4DD81007)).
 
-\#### 2 straipsnis. Reorganizavimo tvarka
+## 2 straipsnis. Reorganizavimo tvarka
 
 1. Kiekviena ne pelno organizacija (įmonė), įsteigta šio įstatymo 1 straipsnyje nurodytų Vyriausybės nutarimų nustatyta tvarka, turi teisę reorganizuotis į jos aukščiausiojo valdymo organo nutarimu pasirinktos rūšies ne pelno organizaciją ar įmonę.
 
@@ -60,7 +60,7 @@ f) reorganizavimo terminai;
 
 5) reorganizuota ne pelno organizacija (įmonė) išregistruojama, o po reorganizavimo veiksianti organizacija ar įmonė įregistruojama Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 1. Ne pelno organizacijos (įmonės), įsteigtos šio įstatymo 1 straipsnyje nurodytų Vyriausybės nutarimų nustatyta tvarka, privalo reorganizuotis ir įsiregistruoti per vienerius metus nuo šio įstatymo įsigaliojimo dienos. Per šį laiką nepersiregistravusios ne pelno organizacijos (įmonės) likviduojamos teismo sprendimu šia tvarka:
 

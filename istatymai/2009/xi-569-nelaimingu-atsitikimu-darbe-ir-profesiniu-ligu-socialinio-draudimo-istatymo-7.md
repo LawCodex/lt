@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DCF704A5E0A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DCF704A5E0A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 7 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F); 2003, Nr. [114-5114](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E0C66E475F9); 2004, Nr. [98-3624](https://www.e-tar.lt/portal/lt/legalAct/TAR.8FFD82C82278); 2005, Nr. [71-2557](https://www.e-tar.lt/portal/lt/legalAct/TAR.F84C1050A429))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 1. 7 straipsnio 2 dalies 1 punktą pripažinti netekusiu galios.
 

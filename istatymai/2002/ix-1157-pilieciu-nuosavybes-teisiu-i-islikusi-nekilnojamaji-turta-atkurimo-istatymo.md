@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2117BD8F47B7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2117BD8F47B7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo preambulės, 2, 12, 13, 15, 16, 20 straipsnių pakeitimo ir papildymo įstatymas
@@ -32,23 +32,23 @@ Vilnius
 
 Nr. 40-1464, Nr. 41-1526)
 
-\#### 1 straipsnis. Įstatymo preambulės papildymas
+## 1 straipsnis. Įstatymo preambulės papildymas
 
 Įstatymo preambulėje prieš pastraipą „priima šį įstatymą“ įrašyti pastraipą:
 
 „pabrėždamas, kad šio įstatymo specialiosiomis teisės normomis reglamentuojami nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo teisiniai santykiai,“.
 
-\#### 2 straipsnis. 2 straipsnio 1 dalies 5 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 2 straipsnio 1 dalies 5 punkto pripažinimas netekusiu galios
 
 2 straipsnio 1 dalies 5 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 12 straipsnio 13 punkto pakeitimas
+## 3 straipsnis. 12 straipsnio 13 punkto pakeitimas
 
 Pakeisti 12 straipsnio 13 punktą ir jį išdėstyti taip:
 
 „13) užimta gyvenamųjų namų, jų dalių, butų, kurie pagal šio įstatymo 15 straipsnio 1 dalies 4, 5 ir 6 punktus priskirti valstybės išperkamiems, ir jų valdų, suplanuotų pagal Teritorijų planavimo įstatymą.“
 
-\#### 4 straipsnis. 13 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 13 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 13 straipsnį nauju 6 punktu:
 
@@ -56,7 +56,7 @@ Pakeisti 12 straipsnio 13 punktą ir jį išdėstyti taip:
 
 2. Buvusį 13 straipsnio 6 punktą laikyti 7 punktu.
 
-\#### 5 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 4. Savivaldybės vykdomoji institucija paimtus iš piliečių gyvenamuosius namus, jų dalis, butus nuomoja juose gyvenantiems nuomininkams.“
 
-\#### 6 straipsnis. 16 straipsnio 10 dalies pakeitimas
+## 6 straipsnis. 16 straipsnio 10 dalies pakeitimas
 
 16 straipsnio 10 dalyje vietoj žodžių „atskaičius jų pagerinimo ir pertvarkymo išlaidas“ įrašyti žodžius „pagal rinkos vertę remdamasi Turto ir verslo vertinimo pagrindų įstatymu“ ir šią dalį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 7) pinigais ir (ar) vertybiniais popieriais.“
 
-\#### 7 straipsnis. 20 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 20 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 20 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Nuomininkų ir savininkų teisės ir pareigos
 
 4. Šio straipsnio 1 dalies nuostatos galioja ir pasikeitus namo, jo dalies, buto savininkui.“
 
-\#### 8 straipsnis. Pasiūlymas Vyriausybei
+## 8 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė iki 2002 m. gruodžio 1 d. parengia ir Seimui pateikia Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo pakeitimo įstatymo projektą bei patvirtina lydimuosius teisės aktus.
 

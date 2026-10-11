@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.00D4DDE880D9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.00D4DDE880D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 6 straipsnių ir 4 priedėlio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [92-2873](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B); 2004, Nr. [171-6302](https://www.e-tar.lt/portal/lt/legalAct/TAR.3DF7815A4AD1); 2006, Nr. [73-2761](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB4D95E578BB); 2007, Nr. [69-2724](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C6EF9E29A6D); 2008, Nr. [75-2919](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8889B2B1556); 2011, Nr. [40-1916](https://www.e-tar.lt/portal/lt/legalAct/TAR.79C4B23283D3))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Kelių įstatyme.“
 
-\#### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
 
 6 straipsnio 3 dalyje vietoj žodžio „valstybinės“ įrašyti žodį „privalomosios“ ir šią dalį išdėstyti taip:
 
 „3. Mokestis į Programos finansavimo sąskaitą sumokamas iki transporto priemonės privalomosios techninės apžiūros.“
 
-\#### 3 straipsnis. 4 priedėlio pakeitimas ir papildymas
+## 3 straipsnis. 4 priedėlio pakeitimas ir papildymas
 
 1. Pakeisti 4 priedėlio II skirsnio 1 punktą ir jį išdėstyti taip:
 
@@ -86,17 +86,12 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „1. Jei transporto priemonės (jų junginio) bendroji masė viršija leidžiamą bendrąją masę, nustatytą Lietuvos Respublikos susisiekimo ministro įsakymu, mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje:
 
-\| Leidžiama bendroji masė viršyta (t) | Vienkartiniai ribiniai tarifai už kiekvieną viršytą toną, Lt/10 km | Metų ribiniai tarifai, Lt (šalies teritorijoje)* |
-
-\| --- | --- | --- |
-
-\| iki 10,0 | 3,50–4,00 | 750–1350 |
-
-\| 11,0–20,0 | 4,00–4,50 | – |
-
-\| 21,0–40,0 | 4,50–5,00 | – |
-
-\| > 40 | 5,00–6,50 | – |
+| Leidžiama bendroji masė viršyta (t) | Vienkartiniai ribiniai tarifai už kiekvieną viršytą toną, Lt/10 km | Metų ribiniai tarifai, Lt (šalies teritorijoje)* |
+| --- | --- | --- |
+| iki 10,0 | 3,50–4,00 | 750–1350 |
+| 11,0–20,0 | 4,00–4,50 | – |
+| 21,0–40,0 | 4,50–5,00 | – |
+| > 40 | 5,00–6,50 | – |
 
 *Taikoma, kai transporto priemonės, kurios ašies (ašių) apkrova neviršija leidžiamos apkrovos, bendroji masė viršija leidžiamą bendrąją masę ir yra ne didesnė kaip 48 t.“
 
@@ -104,11 +99,11 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „4. Papildomus reikalavimus, taikomus valstybinės reikšmės keliais važiuojančioms transporto priemonėms (jų junginiams), kurių ašies (ašių) apkrova neviršija leidžiamos apkrovos, o jų bendroji masė viršija leidžiamą bendrąją masę ir yra ne didesnė kaip 48 t, nustato Susisiekimo ministerija, o kai šios transporto priemonės (jų junginiai) važiuoja vietinės reikšmės keliais – savivaldybės. Sumokėjus atitinkamo dydžio mokestį leidžiama važiuoti šiomis transporto priemonėmis (jų junginiais) tik su kelio savininku suderintais maršrutais arba kelio savininko nustatytais keliais ir kelio savininko nustatytomis sąlygomis.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus šio įstatymo 5 straipsnį, įsigalioja 2013 m. sausio 1 d.
 
-\#### 5 straipsnis. Įstatymo įgyvendinimas
+## 5 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministerija ir savivaldybių institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 

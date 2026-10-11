@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3989c2c0670011e7b85cfdc787069b42"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3989C2C06700.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 7, 8, 12, 14, 15, 18, 20, 28, 32, 34, 37, 38, 39, 40, 41, 41-1, 43, 44, 45, 45-1, 46, 47, 51, 52, 54, 57, 59 ir 67 straipsnių pakeitimo ir Įstatymo papildymo 40-1, 47-1, 47-2 ir 53-1 straipsniais įstatymas

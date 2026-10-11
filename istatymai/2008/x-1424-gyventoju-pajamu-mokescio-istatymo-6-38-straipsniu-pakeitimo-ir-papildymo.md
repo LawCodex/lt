@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A98399150BF9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A98399150BF9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 38 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2003, Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [116-5254](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BE08993974A), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6), Nr. [88-3293](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A19475ECAFE), Nr. [153-5634](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3F7168AFD0D); 2006, Nr. [82-3249](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C07B356A407))
 
-\#### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 4) asmenims, kurie laikotarpiu, kuriam įsigyjamas verslo liudijimas, gauna su darbo santykiais ar jų esmę atitinkančiais santykiais susijusių pajamų.“
 
-\#### 2 straipsnis. 38 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 38 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 38 straipsnį nauja 5 dalimi:
 
@@ -46,7 +46,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 
 2. Buvusias 38 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis.
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo 1 straipsnio nuostatos taikomos nuo 2008 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.782A9D3AD8A8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.782A9D3AD8A8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 7, 9, 10 ir 15 straipsnių pakeitimo įstatymas
@@ -24,25 +24,25 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2002, Nr. [102-4550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA5CC14EC47); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. 91(1)-4106; 2004, Nr. 169-6215; 2006, Nr. 72-2679; 2008, Nr. 38-1377)
 
-\#### 1 straipsnis. 7 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 7 straipsnio 6 dalies pakeitimas
 
 Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Krašto apsaugos ministru, viceministrais ir ministerijos kancleriu gali būti tik civiliai.“
 
-\#### 2 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Krašto apsaugos ministerijai vadovauja ministras. Vadovaudamasis Vyriausybės įstatymu, šiuo įstatymu ir kitais teisės aktais, ministras nustato viceministrų, ministerijos kanclerio ir Gynybos štabo viršininko kompetenciją bei funkcijas.“
 
-\#### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
 
 Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Krašto apsaugos ministras savo įsakymais gali deleguoti dalį šiame įstatyme numatytų teisių, pareigų ir atsakomybės viceministrams, ministerijos kancleriui, kariuomenės vadui, kitiems vadams ir krašto apsaugos sistemos institucijų bei padalinių vadovams, nustatydamas naudojimosi jo deleguotomis teisėmis ir sprendimų priėmimo sąlygas, procedūras ir tvarką.“
 
-\#### 4 straipsnis. 15 straipsnio pakeitimas
+## 4 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 7. Gynybos štabo struktūrą nustato krašto apsaugos ministras.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. liepos 1 d.
 

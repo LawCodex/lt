@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5b445220b02711ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5B445220B027.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 1, 2, 3, 5, 11, 15, 21, 22, 23, 25, 32, 40, 42, 46, 48, 51, 53, 55, 56, 58, 59, 63, 65, 68, 70, 72-9, 72-10, 72-12, 72-13, 72-30, 72-31, 75, 78, 80, 87, 89, 91, 92, 93, 95, 96 straipsnių, 3 priedo pakeitimo ir Įstatymo papildymo 15-1, 15-2, 21-1, 22-1, 22-2, 40-1, 40-2, 40-3, 57-1, 65-1 straipsniais, VIII ir IX skyriais įstatymas

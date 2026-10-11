@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1731C09C38C4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1731C09C38C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos religinių bendrijų teisės į išlikusį nekilnojamąjį turtą atkūrimo tvarkos įstatymo 11 ir 15 straipsnių papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [27-600](https://www.e-tar.lt/portal/lt/legalAct/TAR.579F0B8C810D))
 
-\#### 1 straipsnis. 11 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 11 straipsnio papildymas 2 dalimi
 
 Papildyti 11 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pagal šį įstatymą religinėms bendrijoms grąžintų patalpų nuomininkai, s
 
 Iki 1995 m. kovo 30 d. religinėms bendruomenėms ar bendrijoms natūra grąžintų gyvenamųjų namų, jų dalių, butų nuomininkų prašymu institucija, priėmusi sprendimą grąžinti religinei bendruomenei ar bendrijai natūra gyvenamąjį namą, jo dalį, butą, o kai šios institucijos nėra, – savivaldybės meras privalo jiems išduoti valstybės garantinį dokumentą. Valstybės garantijas, jų įvykdymą, garantijų turėtojų teises ir pareigas nustato Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas.“
 
-\#### 2 straipsnis. 15 straipsnio 2 dalies papildymas
+## 2 straipsnis. 15 straipsnio 2 dalies papildymas
 
 15 straipsnio 2 dalį papildyti žodžiais „išskyrus atvejus, kai išnyksta šio įstatymo 4 straipsnyje numatytos aplinkybės“ ir šią dalį išdėstyti taip:
 

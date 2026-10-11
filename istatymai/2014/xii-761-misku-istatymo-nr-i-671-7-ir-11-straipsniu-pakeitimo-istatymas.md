@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/171e2eb089a511e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.171E2EB089A5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 7 ir 11 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „2. Bendrosioms miškų ūkio reikmėms tenkinti Vyriausybės nustatyta tvarka miško valdytojams nustatomi privalomieji 5 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos, valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti, stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško kelių ir susijusių miško žemės sausinimo sistemų įrenginių priežiūrai ir taisymui (remontui), informacijai apie miškus viešinti, Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų ūkio srityje bei kitoms bendrosioms miškų ūkio reikmėms finansuoti). Lėšas administruoja ir jų naudojimo tvarką nustato Aplinkos ministerija.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 11. Miško iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (medelynams įrengti, miško ūkiniams keliams tiesti, priešgaisrinėms juostoms, technologiniams proskiebiams, poilsio aikštelėms ir medienos sandėliams įrengti, nustatyta tvarka žvyrui ir smėliui kasti miško ūkio reikmėms) nėra miško žemės pavertimas kitomis naudmenomis.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 1 straipsnio 2 dalį ir šio straipsnio 3 dalį, įsigalioja 2014 m. vasario 1 d.
 

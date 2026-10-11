@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.78DAA65E2B2A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.78DAA65E2B2A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 34, 36, 37(1), 38 straipsnių, IV skyriaus pavadinimo pakeitimo ir 28, 28(1), 29, 30, 31, 32, 33, 35 straipsnių pripažinimo netekusiais galios įstatymas
@@ -32,53 +32,53 @@ Vilnius
 
 1999, Nr. 32-900, Nr. 50-1599, Nr. 88-2583; 2000, Nr. 28-763, Nr. 56–1652, Nr. 111-3577)
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 2 straipsnio 2 dalyje vietoj žodžių „tvirtinamos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės, Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatai, Valstybinio savanoriškojo socialinio pensijų draudimo taisyklės, Valstybinio savanoriškojo socialinio draudimo ligos, nėštumo ir gimdymo pašalpoms taisyklės, taip pat Valstybinio socialinio draudimo fondo įstaigų nuostatai“ įrašyti žodžius „patvirtinti teisės aktai“ ir šią dalį išdėstyti taip:
 
 „Šių įstatymų nuostatų įgyvendinimo tvarką reglamentuoja Lietuvos Respublikos Vyriausybės patvirtinti teisės aktai.“
 
-\#### 2 straipsnis. 4 straipsnio 1 dalies 3 punkto papildymas
+## 2 straipsnis. 4 straipsnio 1 dalies 3 punkto papildymas
 
 4 straipsnio 1 dalies 3 punkte po žodžių „teisingumo ministerijos“ įrašyti žodžius „bei jam pavaldžių įstaigų“ ir šį punktą išdėstyti taip:
 
 „3) Vidaus reikalų ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir kitų vidaus reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kariai, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigųpareigūnai;“.
 
-\#### 3 straipsnis. IV skyriaus pavadinimo pakeitimas
+## 3 straipsnis. IV skyriaus pavadinimo pakeitimas
 
 IV skyriaus pavadinime vietoj žodžio „finansai“ įrašyti žodžius „įmokos, delspinigiai ir baudos“ ir jį išdėstyti taip:
 
 „**IV****SKYRIUS.****VALSTYBINIO SOCIALINIO DRAUDIMO ĮMOKOS, DELSPINIGIAI IR BAUDOS**“.
 
-\#### 4 straipsnis. 28 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 28 straipsnio pripažinimas netekusiu galios
 
 28straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 281 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 281 straipsnio pripažinimas netekusiu galios
 
 28^1straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 29 straipsnio pripažinimas netekusiu galios
+## 6 straipsnis. 29 straipsnio pripažinimas netekusiu galios
 
 29straipsnį pripažinti netekusiu galios.
 
-\#### 7 straipsnis. 30 straipsnio pripažinimas netekusiu galios
+## 7 straipsnis. 30 straipsnio pripažinimas netekusiu galios
 
 30straipsnį pripažinti netekusiu galios.
 
-\#### 8 straipsnis. 31 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 31 straipsnio pripažinimas netekusiu galios
 
 31straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 32 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 32 straipsnio pripažinimas netekusiu galios
 
 32straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. 33 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 33 straipsnio pripažinimas netekusiu galios
 
 33 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 34 straipsnio 4 ir 6 dalių pakeitimas
+## 11 straipsnis. 34 straipsnio 4 ir 6 dalių pakeitimas
 
 1. 34 straipsnio 4 dalyje išbraukti žodžius „ir jiems Lietuvos Respublikos Vyriausybės nustatyta tvarka prilyginti savarankiškai dirbantys asmenys“, po žodžių „gaunantys šalpos“ įrašyti žodžius „(socialinę) pensiją, senatvės pensijos amžių sukakę asmenys, kurie gauna šalpos (socialinę)“ ir šią dalį išdėstyti taip:
 
@@ -88,17 +88,17 @@ IV skyriaus pavadinime vietoj žodžio „finansai“ įrašyti žodžius „įm
 
 „6. Įmokų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 12 straipsnis. 35 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 35 straipsnio pripažinimas netekusiu galios
 
 35 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. 36 straipsnio 5 dalies pakeitimas
+## 13 straipsnis. 36 straipsnio 5 dalies pakeitimas
 
 36 straipsnio 5 dalyje vietoj žodžių „Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymas“ įrašyti žodžius „Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija“ ir šią dalį išdėstyti taip:
 
 „Įmokų mokėjimo ir jų mokėjimo atidėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 14 straipsnis. 371 straipsnio pakeitimas
+## 14 straipsnis. 371 straipsnio pakeitimas
 
 37^1 straipsnio pavadinime po žodžio „draudimo“ įrašyti žodį „fondo“, straipsnio 1 dalį pakeisti ir visą straipsnį išdėstyti taip:
 
@@ -108,13 +108,13 @@ Lietuvos bankų įstaigos Valstybinio socialinio draudimo fondo lėšų apyvarto
 
 Lietuvos bankų įstaigos, pažeidusios šio straipsnio nuostatas ir padariusios žalos Valstybinio socialinio draudimo fondui, privalo ją atlyginti.“
 
-\#### 15 straipsnis. 38 straipsnio 1 dalies papildymas
+## 15 straipsnis. 38 straipsnio 1 dalies papildymas
 
 38 straipsnio 1 dalį papildyti sakiniu „Delspinigiai skaičiuojami Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 „Už pavėluotai pervestas į Valstybinio socialinio draudimo fondą įmokas skaičiuojami delspinigiai pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčių mokėjimą. Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai įmokos turėjo būti sumokėtos arba pervestos, ir baigiami skaičiuoti įmokų sumokėjimo (pervedimo) dieną įskaitytinai. Delspinigiai skaičiuojami Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 16 straipsnis. Baigiamosios nuostatos
+## 16 straipsnis. Baigiamosios nuostatos
 
 1. Ūkininkų bei jų ūkių narių socialinio draudimo nuo 2000 m. sausio 1 d. iki 2001 m. kovo 1 d. stažas skaičiuojamas pagal į Valstybinio socialinio draudimo fondo biudžetą faktiškai sumokėtas sumas.
 

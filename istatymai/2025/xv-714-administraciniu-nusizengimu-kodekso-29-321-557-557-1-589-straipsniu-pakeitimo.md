@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/75e8aab0eac311f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.75E8AAB0EAC3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 29, 321, 557, 557-1, 589 straipsnių pakeitimo ir Kodekso papildymo 514-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 29, 321, 557, 5571, 589 STRAIPSNIŲ PAKEI
 
 Vilnius
 
-\#### 1 straipsnis. 29 straipsnio pakeitimas
+## 1 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 4 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234^2 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 284 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dalyse, 285 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 dalyse, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6, 7, 8, 9 dalyse, 293 straipsnio 3, 4, 5 dalyse, 299 straipsnio 2, 3, 4, 5 dalyse, 303 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 dalyse, 304^2 straipsnio 3, 4, 5, 6 dalyse, 309 straipsnio 9, 10, 11 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 514^1 straipsnio 3, 4, 7 dalyse, 515 straipsnio 1, 2 dalyse, 524, 557^1 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:“.
 
-\#### 2 straipsnis. 321 straipsnio pakeitimas
+## 2 straipsnis. 321 straipsnio pakeitimas
 
 Pakeisti 321 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ užtraukia baudą nuo dviejų šimtų iki penkių šimtų eurų.
 
 užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.“
 
-\#### 3 straipsnis. Kodekso papildymas 5141 straipsniu
+## 3 straipsnis. Kodekso papildymas 5141 straipsniu
 
 Papildyti Kodeksą 514^1 straipsniu:
 
@@ -86,7 +86,7 @@ užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eu
 
 8. Už šio straipsnio 3, 4, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas neteisėtai gautos vaizdinės informacijos ir jai gauti naudotų priemonių ar įrangos konfiskavimas.“
 
-\#### 4 straipsnis. 557 straipsnio pakeitimas
+## 4 straipsnis. 557 straipsnio pakeitimas
 
 Pakeisti 557 straipsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.“
 
-\#### 5 straipsnis. 5571 straipsnio pakeitimas
+## 5 straipsnis. 5571 straipsnio pakeitimas
 
 Pakeisti 557^1 straipsnį ir jį išdėstyti taip:
 
@@ -124,7 +124,7 @@ užtraukia baudą nuo penkių šimtų iki devynių šimtų eurų.
 
 4. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas neteisėtai gautos vaizdinės informacijos ir jai gauti naudotų priemonių ar įrangos konfiskavimas.“
 
-\#### 6 straipsnis. 589 straipsnio pakeitimas
+## 6 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 49 punktą ir jį išdėstyti taip:
 

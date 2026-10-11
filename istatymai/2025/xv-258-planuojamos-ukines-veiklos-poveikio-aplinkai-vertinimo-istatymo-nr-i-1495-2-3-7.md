@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fedec2204c3311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FEDEC2204C33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 7, 8, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas
@@ -26,13 +26,13 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO NR. I-1495 2,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip:
 
 „18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos žemės gelmių įstatyme.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -46,13 +46,13 @@ Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip:
 
 „8^2. Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, kuriai iki ūkinės veiklos vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo šio įstatymo nustatyta tvarka nebuvo atliktas poveikio aplinkai vertinimas ir galioja bent viena iš Aplinkos apsaugos įstatymo 15^1 straipsnio 4 dalyje nurodytų sąlygų, privalo atlikti šio įstatymo 6 straipsnio 2 dalyje nustatytas funkcijas, privalomas atliekant poveikio aplinkai vertinimą. Fizinis ar juridinis asmuo, atsižvelgdamas į šiame įstatyme nustatytus poveikio aplinkai vertinimo atlikimo terminus, privalo šio įstatymo 8 arba 9 straipsnyje nustatyta tvarka pradėti poveikio aplinkai vertinimo procedūras ir užtikrinti, kad poveikio aplinkai vertinimas būtų atliktas per Aplinkos apsaugos įstatymo 15^1 straipsnio 5 dalyje nurodytą terminą. Rengiant poveikio aplinkai vertinimo ataskaitą, papildomai aplinkos ministro nustatyta tvarka vertinamas dėl ūkinės veiklos vykdymo iki poveikio aplinkai vertinimo įvykęs aplinkos pokytis ir, jeigu reikia, nustatomos priemonės vykdant ūkinę veiklą padarytam reikšmingam neigiamam poveikiui aplinkai kompensuoti ir (ar) atkurti, kas pažeista.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Kai planuojamos ūkinės veiklos organizatoriaus ar poveikio aplinkai vertinimo dokumentų rengėjo pateikta atrankos informacija neatitinka aplinkos ministro nustatytų reikalavimų ar kai planuojamą ūkinę veiklą numatoma įgyvendinti Europos ekologinio tinklo „Natura 2000“ teritorijoje ar šios teritorijos artimoje aplinkoje, bet planuojamos ūkinės veiklos organizatorius ar poveikio aplinkai vertinimo dokumentų rengėjas nepateikia aplinkos ministro įgaliotos saugomų teritorijų institucijos išvados, kad planuojamos ūkinės veiklos įgyvendinimas nedarys reikšmingo poveikio Europos ekologinio tinklo „Natura 2000“ teritorijoms, atsakingoji institucija neatlieka atrankos dėl poveikio aplinkai vertinimo ir ne vėliau kaip per 5 darbo dienas nuo atrankos informacijos gavimo dienos aplinkos ministro nustatyta tvarka apie tai informuoja planuojamos ūkinės veiklos organizatorių ir (ar) poveikio aplinkai vertinimo dokumentų rengėją.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -66,13 +66,13 @@ Pakeisti 7 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „6. Jeigu iki programos patvirtinimo, tačiau ne vėliau kaip per 20 darbo dienų nuo programos gavimo savivaldybės administracijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba, veikdama pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus, kuriuose nustatoma savivaldybių institucijų kompetencija, neviršydama nustatytos kompetencijos, priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiamos tol, kol galioja savivaldybės tarybos priimtas neigiamas motyvuotas sprendimas, išskyrus atvejus, kai planuojama ūkinė veikla yra pripažinta valstybei svarbiu projektu ar yra regioninės svarbos projektas arba planuojama ūkinė veikla reikalinga valstybei svarbiam ar regioninės svarbos projektuiįgyvendinti, arba nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčiai infrastruktūrai, nurodytai Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, įrengti.Apie savivaldybės tarybos priimtą neigiamą motyvuotą sprendimą savivaldybės administracija nedelsdama, ne vėliau kaip per 3 darbo dienas nuo šioje dalyje nurodyto sprendimo priėmimo dienos, informuoja atsakingąją instituciją ir planuojamos ūkinės veiklos organizatorių ir kartu pateikia neigiamą motyvuotą savivaldybės tarybos sprendimą. Atsakingoji institucija, gavusi šį savivaldybės tarybos sprendimą, apie tai informuoja visuomenę aplinkos ministro nustatyta tvarka.“
 
-\#### 5 straipsnis. 11 straipsnio pakeitimas
+## 5 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Poveikio aplinkai vertinimo dokumentų rengėjas rengdamas ataskaitą atsižvelgia į su planuojama ūkine veikla susijusio strateginio pasekmių aplinkai vertinimo, poveikio aplinkai vertinimo ar kito pagal teisės aktų reikalavimus atlikto vertinimo rezultatus.“
 
-\#### 6 straipsnis. Įstatymo 1 priedo pakeitimas
+## 6 straipsnis. Įstatymo 1 priedo pakeitimas
 
 1. Papildyti Įstatymo 1 priedą 1.5 papunkčiu:
 
@@ -90,7 +90,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8.5. geležinkelių linijų, įskaitant antruosius ir (ar) trečiuosius geležinkelio kelius jose,tiesimas;“.
 
-\#### 7 straipsnis. Įstatymo 2 priedo pakeitimas
+## 7 straipsnis. Įstatymo 2 priedo pakeitimas
 
 1. Pakeisti Įstatymo 2 priedo 1.2 papunktį ir jį išdėstyti taip:
 
@@ -112,7 +112,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „10.3. Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 8.5 papunktyje nenurodytų geležinkelio kelių (2 km ar ilgesnių) tiesimas, išskyrus geležinkelių transporto eismo saugos ir aplinkos apsaugos priemonių įrengimą;“.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 8 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 3 straipsnį, 4 straipsnio 1 dalį, 6 ir 7 straipsnius ir šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

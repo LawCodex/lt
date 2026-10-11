@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D0E0A0E75030"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D0E0A0E75030.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 123-5585; 2004, Nr. 25-749, Nr. 60-2118, Nr. 73-2535, Nr. 158-5757, Nr. 167-6108; 2005, Nr. 76-2744, Nr. 81-2943, Nr. 153-5634)
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies 28 ir 29 punktų pakeitimas
+## 1 straipsnis. 17 straipsnio 1 dalies 28 ir 29 punktų pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 28 punktą ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Nr. 123-5585; 2004, Nr. 25-749, Nr. 60-2118, Nr. 73-2535, Nr. 158-5757, Nr. 167-
 
 „29) mokymo įstaigų studentų ir moksleivių stipendijos, kurioms mokėti naudojamos Lietuvos Respublikos ir užsienio valstybių įstatymų nustatyta tvarka įsteigtų pelno nesiekiančių vienetų lėšos, jeigu stipendijų mokėjimas yra numatytas šių vienetų veiklą reglamentuojančiuose teisės aktuose ir jeigu stipendijos gavėjas nėra stipendiją mokančio vieneto dalyvis, darbuotojas arba šio vieneto dalyvio arba darbuotojo šeimos narys, ir jeigu tokia stipendija nėra susijusi su stipendijos gavėjo šiems vienetams atliktais arba atliekamais darbais, suteiktomis arba teikiamomis paslaugomis;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2006 m. spalio 1 d.
 

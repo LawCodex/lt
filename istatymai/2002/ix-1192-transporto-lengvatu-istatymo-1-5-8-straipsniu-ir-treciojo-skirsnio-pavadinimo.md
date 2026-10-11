@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.22FCF55710DB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.22FCF55710DB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymo 1, 5, 8 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [32-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje vietoj žodžių „vežėjų negautų pajamų, susijusių su lengvatų teikimu, atlyginimo“ įrašyti žodžius „vežėjų išlaidų (negautų pajamų), susijusių su lengvatų taikymu, kompensavimo (atlyginimo)“ ir šią dalį išdėstyti taip:
 
 „1. Šis įstatymas nustato asmenų, kuriems teikiamos važiavimo keleiviniu transportu lengvatos, kategorijas, lengvatų rūšis, išlaidų keleiviniam transportui kompensavimą ir vežėjų išlaidų (negautų pajamų), susijusių su lengvatų taikymu, kompensavimo (atlyginimo) tvarką bei šaltinius.“
 
-\#### 2 straipsnis. 5 straipsnio 1, 2, 3 dalių ir 6 dalies 1 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 1, 2, 3 dalių ir 6 dalies 1 punkto pakeitimas
 
 1. 5 straipsnio 1 dalyje vietoj žodžio „mėnesinį“ įrašyti žodį „terminuotą“ ir šią dalį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „1) 80 procentų – įsigyjantiems terminuotą vardinį važiavimo bilietą;“.
 
-\#### 3 straipsnis. Įstatymo trečiojo skirsnio pavadinimo pakeitimas
+## 3 straipsnis. Įstatymo trečiojo skirsnio pavadinimo pakeitimas
 
 Pakeisti Įstatymo trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti Įstatymo trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **VEŽĖJŲ IŠLAIDŲ KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO) TVARKA IR ŠALTINIAI**“.
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 

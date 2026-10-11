@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.86ABF680AA33"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.86ABF680AA33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės saugumo departamento įstatymo 27 straipsnio pakeitimo įstatymo papildymo 3 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [39-1338](https://www.e-tar.lt/portal/lt/legalAct/TAR.4EEF2E1EF485))
 
-\#### 1 straipsnis. Įstatymo papildymas 3 straipsniu
+## 1 straipsnis. Įstatymo papildymas 3 straipsniu
 
 Papildyti Įstatymą 3 straipsniu:
 

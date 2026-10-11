@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f3ca16a0ce9211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F3CA16A0CE92.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 2, 5, 6 ir 7 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ NESĄŽININGOS KOMERCINĖS VEIKLOS VARTOTOJAMS DRAUDIMO ĮSTATYMO NR. X-1409 2, 
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį nauja 1 dalimi:
 
@@ -78,7 +78,7 @@ Vilnius
 
 „21. Šiame įstatyme vartojamos sąvokos „elektroninės prekyvietės paslauga“, „elektroninės prekyvietės paslaugos teikėjas“,„funkcionalumas“, „patvarumas“, „prekė“ ir „produktų reitingas“ yra suprantamos taip, kaip apibrėžiamos Civiliniame kodekse.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 1. Pakeisti 5 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Vilnius
 
 „5) pranašumų, kurie yra nereikšmingi ir nėra susiję su jokia produkto ar komercinės veiklos subjekto ypatybe, reklamą vartotojams.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 1. Papildyti 6 straipsnį nauja 6 dalimi:
 
@@ -100,7 +100,7 @@ Vilnius
 
 2. Buvusią 6 straipsnio 6 dalį laikyti 7 dalimi.
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 1. Papildyti 7 straipsnį nauju 3 punktu:
 
@@ -156,7 +156,7 @@ Vilnius
 
 „39) nesuteikimas vartotojui informacijos apie prekės funkcionalumo pablogėjimą, jei bus naudojamos ne pirminio gamintojo teikiamos keičiamosios priemonės, atsarginės dalys ar priedai, arba apgaulingas tvirtinimas, kad toks prekės funkcionalumas pablogės.“
 
-\#### 5 straipsnis. Įstatymo priedo pakeitimas
+## 5 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ priedas
 
 ___________________“.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. rugsėjo 27 d.
 

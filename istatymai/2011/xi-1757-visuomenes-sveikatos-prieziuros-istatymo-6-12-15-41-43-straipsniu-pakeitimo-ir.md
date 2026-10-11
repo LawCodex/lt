@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8BC8223C4120"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8BC8223C4120.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6, 12, 15, 41, 43 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 15-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2225](https://www.e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782); 2007, Nr. [64-2455](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BCCDA9AAF34); 2010, Nr. [57-2809](https://www.e-tar.lt/portal/lt/legalAct/TAR.DAE329DD4C36))
 
-\#### 1 straipsnis. 6 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 6 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 6 straipsnio 1 dalį nauju 12 punktu:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusį 6 straipsnio 1 dalies 12 punktą laikyti 13 punktu.
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 Visuomenės sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės įstaigos, visuomenės sveikatos centrai apskrityse, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba), Radiacinės saugos centras, kitos valstybės ir savivaldybių institucijos ir įstaigos.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Visuomenės sveikatos centrai apskrityse:
 
 15) atlieka kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias reglamentuoja šis ir kiti įstatymai bei teisės aktai.“
 
-\#### 4 straipsnis. Įstatymo papildymas 151 straipsniu
+## 4 straipsnis. Įstatymo papildymas 151 straipsniu
 
 Papildyti Įstatymą 15^1 straipsniu:
 
@@ -92,7 +92,7 @@ Papildyti Įstatymą 15^1 straipsniu:
 
 2. Konsultacijos visuomenės sveikatos priežiūros veiklos klausimais Viešojo administravimo įstatymo 363 straipsnio pagrindu teikiamos Sveikatos apsaugos ministerijos nustatyta tvarka.“
 
-\#### 5 straipsnis. 41 straipsnio 6, 7, 8 ir 9 dalių pakeitimas
+## 5 straipsnis. 41 straipsnio 6, 7, 8 ir 9 dalių pakeitimas
 
 1. Pakeisti 41 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -120,13 +120,13 @@ Papildyti Įstatymą 15^1 straipsniu:
 
 „9. Visuomenės sveikatos centrų apskrityse tarnautojų veiksmai gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. 43 straipsnio 17 dalies pakeitimas
+## 6 straipsnis. 43 straipsnio 17 dalies pakeitimas
 
 Pakeisti 43 straipsnio 17 dalį ir ją išdėstyti taip:
 
 „17. Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos apsaugos ministro nustatyta tvarka vykdo visuomenės sveikatos centrai apskrityse.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

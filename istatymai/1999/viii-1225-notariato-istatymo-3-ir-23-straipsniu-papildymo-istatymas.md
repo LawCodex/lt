@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3C62C6893990"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3C62C6893990.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 3 ir 23 straipsnių papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 1994, Nr. [78-1463](https://www.e-tar.lt/portal/lt/legalAct/TAR.5653694FA9E6); 1998, Nr. [49-1329](https://www.e-tar.lt/portal/lt/legalAct/TAR.D19DD3E4FAA6); 1999, Nr. [19-509](https://www.e-tar.lt/portal/lt/legalAct/TAR.5E757066D3A0))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies papildymas
+## 1 straipsnis. 3 straipsnio 2 dalies papildymas
 
 Papildyti 3 straipsnio 2 dalį sakiniu ir ją išdėstyti taip:
 
 „Notaru gali būti Lietuvos Respublikos pilietis, turintis teisės magistro arba teisės bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą), ne mažiau kaip vienerius metus buvęs kandidatu į notarus (asesoriumi) ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka išlaikęs notaro kvalifikacinį egzaminą. Lietuvos Respublikos pilietis, apgynęs socialinių mokslų teisės krypties daktaro ar habilituoto daktaro disertaciją ir turintis ne mažesnį kaip penkerių metų pedagoginio darbo stažą, taip pat Lietuvos Respublikos pilietis, turintis ne mažesnį kaip penkerių metų teisinio darbo stažą, gali būti skiriamas notaru, jei išlaikė notaro kvalifikacinį egzaminą ir laimėjo viešą konkursą bei atliko ne trumpesnę kaip trijų mėnesių notaro praktiką, kurios atlikimo tvarką nustato Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu. Notaru negali būti asmuo, buvęs SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) kadriniu darbuotoju, kuriam taikomi įstatyme „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos“ numatyti apribojimai.“
 
-\#### 2 straipsnis. 23 straipsnio 1 dalies papildymas 12 punktu
+## 2 straipsnis. 23 straipsnio 1 dalies papildymas 12 punktu
 
 Papildyti 23 straipsnio 1 dalį 12 punktu:
 

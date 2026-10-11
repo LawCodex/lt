@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.89D1F2C1B1D3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.89D1F2C1B1D3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 1, 5, 20 straipsnių papildymo ir įstatymo papildymo priedu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 3 dalimi
 
 1 straipsnį papildyti 3 dalimi:
 
 „3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.“
 
-\#### 2 straipsnis. 5 straipsnio 2 dalies papildymas
+## 2 straipsnis. 5 straipsnio 2 dalies papildymas
 
 5 straipsnio 2 dalį papildyti nauju 12 punktu, buvusį 12 punktą laikyti 13 punktu ir visą dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 13) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.“
 
-\#### 3 straipsnis. 20 straipsnio papildymas 6 dalimi
+## 3 straipsnis. 20 straipsnio papildymas 6 dalimi
 
 20 straipsnį papildyti 6 dalimi:
 
@@ -80,7 +80,7 @@ Vilnius
 
 4) pastatuose įrengtų didesnės kaip 12 kW vardinės atiduodamosios galios oro kondicionavimo sistemų – kartą per trejus metus.“
 
-\#### 4 straipsnis. Įstatymo papildymas priedu
+## 4 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -110,7 +110,7 @@ priedas
 
 9. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/91/EB dėl pastatų energinio naudingumo.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.
 

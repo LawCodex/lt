@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DA8FE0831A84"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA8FE0831A84.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 2, 4, 6, 16, 17, 21, 27, 28 straipsnių ir priedo pakeitimo ir papildymo bei Įstatymo papildymo 7-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2003, Nr. [69-3118](https://www.e-tar.lt/portal/lt/legalAct/TAR.16DE92067E6F); 2005, Nr. [142-5104](https://www.e-tar.lt/portal/lt/legalAct/TAR.89D1F2C1B1D3); 2007, Nr. [55-2124](https://www.e-tar.lt/portal/lt/legalAct/TAR.429CC7FAB351))
 
-\#### 1 straipsnis. 2 straipsnio 25 dalies pakeitimas ir straipsnio papildymas 27 ir 28 dalimis
+## 1 straipsnis. 2 straipsnio 25 dalies pakeitimas ir straipsnio papildymas 27 ir 28 dalimis
 
 1. Pakeisti 2 straipsnio 25 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „28. **Reguliuojama veikla –**energetikos veikla, kuri yra licencijuojama arba kuriai taikomos valstybės reguliuojamos kainos.“
 
-\#### 2 straipsnis. 4 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 4 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 4 straipsnio 1 dalį nauju 4 punktu:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „6) skatinti juridinius asmenis organizuoti energijos vartojimo auditą.“
 
-\#### 3 straipsnis. 6 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 6 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 6 straipsnį nauju 16 punktu:
 
@@ -70,7 +70,7 @@ Vilnius
 
 5. Buvusį 6 straipsnio 16 punktą laikyti 20 punktu.
 
-\#### 4 straipsnis. Įstatymo papildymas 71 straipsniu
+## 4 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1 straipsniu:
 
@@ -88,13 +88,13 @@ Susisiekimo ministerija:
 
 5) vykdo informavimo ir švietėjišką veiklą, skatinančią transporto objektuose efektyviai naudoti energijos išteklius ir energiją.“
 
-\#### 5 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Energetikos veiklai licencijas, leidimus ar atestatus nustato šis ir kiti įstatymai. Licencijuojamos veiklos rūšis, energetinės veiklos licencijų išdavimą, pakeitimą, galiojimo sustabdymą ir galiojimo panaikinimą nustato energetikos sektorių įstatymai ir kiti įstatymai. Veiklos rūšių, kurioms reikalingas leidimas, sąrašą tvirtina Vyriausybė. Įmonės, eksploatuojančios energetikos įrenginius, turi būti atestuotos.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 12. Komisijos veiklai taikomas Biudžetinių įstaigų įstatymas, jeigu šis Įstatymas nenumato kitaip.“
 
-\#### 7 straipsnis. 21 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 3 dalimi
+## 7 straipsnis. 21 straipsnio pavadinimo pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. 21 straipsnio pavadinime po žodžio „Darbuotojų“ įrašyti žodžius „ir energijos vartojimo auditą atliekančių specialistų kvalifikacinis“ ir šio straipsnio pavadinimą išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 „3. Energijos vartojimo auditą atlieka atitinkamai Ūkio ministerijos arba Susisiekimo ministerijos nustatyta tvarka atestuoti specialistai.“
 
-\#### 8 straipsnis. 27 straipsnio pakeitimas
+## 8 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -230,7 +230,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 12. Skundą dėl Komisijos nutarimo nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama piniginė bauda energetikos įmonei, kuri pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą.“
 
-\#### 9 straipsnis. 28 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 28 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 28 straipsnio 1 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
@@ -246,7 +246,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 „4. Šio straipsnio 3 dalies nuostatos netaikomos sąžiningai įgytiems ir teisėtai valdomiems energetikos objektams, nors jų valdytojai įgyjamąja senatimi dar nėra įgiję nuosavybės teisės į šiuos objektus.“
 
-\#### 10 straipsnis. Įstatymo priedo 3 punkto pripažinimas netekusiu galios ir papildymas 8, 10, 11 ir 12 punktais
+## 10 straipsnis. Įstatymo priedo 3 punkto pripažinimas netekusiu galios ir papildymas 8, 10, 11 ir 12 punktais
 
 1. Įstatymo priedo 3 punktą pripažinti netekusiu galios.
 
@@ -268,7 +268,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 „12. 2006 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2006/32/EB dėl energijos galutinio vartojimo efektyvumo ir energetinių paslaugų, panaikinanti Tarybos direktyvą 93/76/EEB (OL 2006 L 114, p. 64).“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 6 straipsnį, įsigalioja 2009 m. sausio 1 d.
 

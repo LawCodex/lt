@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/38879c00b26211e7be72a4385c9bc055"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.38879C00B262.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Minamatos konvencijos dėl gyvsidabrio ratifikavimo
@@ -26,11 +26,11 @@ DĖL MINAMATOS KONVENCIJOS DĖL GYVSIDABRIO RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2017 m. liepos 13 d. dekretą Nr. 1K-1031, ratifikuoja 2013 m. spalio 10 d.Kumamoto mieste priimtą Minamatos konvenciją dėl gyvsidabrio (toliau – Konvencija).
 
-\#### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė, vadovaudamasi Konvencijos 17 straipsnio 4 dalimi, paskiria nacionalinę kontaktinę instituciją, kuri būtų atsakinga už keitimąsi informacija pagal šią Konvenciją, įskaitant dėl importuojančiųjų Šalių sutikimo pagal Konvencijos 3 straipsnį.
 

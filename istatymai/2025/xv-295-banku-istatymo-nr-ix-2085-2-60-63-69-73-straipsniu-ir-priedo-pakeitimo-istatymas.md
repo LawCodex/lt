@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ee4fb14055bf11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EE4FB14055BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 60, 63, 69, 73 straipsnių ir priedo pakeitimo įstatymas
@@ -26,19 +26,19 @@ BANKŲ ĮSTATYMO NR. IX-2085 2, 60, 63, 69, 73 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip:
 
 „12. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente [(ES) Nr. 575/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R0575&locale=lt) dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas [(ES) Nr. 648/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0648&locale=lt) (su visais pakeitimais), 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente [(ES) Nr. 648/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0648&locale=lt) dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais) ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 60 straipsnio pakeitimas
+## 2 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Bankas privalo tvarkyti finansinę apskaitą vadovaudamasis Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat banko pasirinkta apskaitos politika, kuri įgyvendinama atsižvelgiant į konkrečias sąlygas, verslo pobūdį bei vadovaujantis tarptautiniais finansinės atskaitomybės standartais.“
 
-\#### 3 straipsnis. 63 straipsnio pakeitimas
+## 3 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
@@ -46,19 +46,19 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas.“
 
-\#### 4 straipsnis. 69 straipsnio pakeitimas
+## 4 straipsnis. 69 straipsnio pakeitimas
 
 Pakeisti 69 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) asmenys, su kuriais bankas yra sudaręs sandorius dėl banko veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies 1, 2, 3 ir 4 punktuose nurodyti subjektai yra perdavę funkcijų ar veiklos vykdymą, įskaitant informacinių ir ryšių technologijų paslaugas teikiančias trečiąsias šalis, nustatytas Reglamento [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) V skyriuje.“
 
-\#### 5 straipsnis. 73 straipsnio pakeitimas
+## 5 straipsnis. 73 straipsnio pakeitimas
 
 Papildyti 73 straipsnio 1 dalį 13^1 punktu:
 
 „13^1) pažeidžiami Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 6 straipsnis. Įstatymo priedo pakeitimas
+## 6 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 9 punktu:
 

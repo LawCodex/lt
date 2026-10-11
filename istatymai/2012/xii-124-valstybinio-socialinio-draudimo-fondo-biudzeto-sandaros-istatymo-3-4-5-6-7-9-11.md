@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.35D6F153100B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.35D6F153100B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymo 3, 7 ir 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2012, Nr. [127-6393](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C3633469181))
 
-\#### 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 3 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 3 straipsnį nauja 3 dalimi:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Buvusias 3 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis.
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -94,7 +94,7 @@ Vilnius
 
 3. Buvusią 7 straipsnio 2 dalį laikyti 3 dalimi.
 
-\#### 3 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5FA6E8079BD9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5FA6E8079BD9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 13, 21 ir 46 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8))
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas
+## 1 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 5. Lietuvos vyriausiasis administracinis teismas leidžia biuletenį „Administracinių teismų praktika“.“
 
-\#### 2 straipsnis. 21 straipsnio pakeitimas
+## 2 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -56,13 +56,13 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 3. Specialios teisėjų kolegijos posėdžiams pirmininkauja Lietuvos Aukščiausiojo Teismo Civilinių bylų skyriaus pirmininkas. Sprendimas priimamas bendru sutarimu arba kolegijos narių balsų dauguma. Jei balsai pasiskirsto po lygiai, lemia kolegijos posėdžio pirmininko balsas. Nutartis dėl bylos teismingumo neskundžiama.“
 
-\#### 3 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 46 straipsnio 2 dalyje išbraukti žodžius „ar septynių“, dalį papildyti trečiu sakiniu ir ją išdėstyti taip:
 
 „2. Lietuvos vyriausiajame administraciniame teisme bylas nagrinėja trijų teisėjų kolegija. Sudėtingoms byloms nagrinėti teismo pirmininko iniciatyva ar kolegijos siūlymu gali būti sudaroma išplėstinė penkių teisėjų kolegija arba byla gali būti perduota nagrinėti teismo plenarinei sesijai. Teismo plenarinės sesijos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip du trečdaliai teismo teisėjų.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e596b1d0a5b911e69ad4c8713b612d0f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E596B1D0A5B9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Šiaurės Atlanto sutarties protokolo dėl Juodkalnijos prisijungimo ratifikavimo
@@ -26,7 +26,7 @@ DĖL ŠIAURĖS ATLANTO SUTARTIES PROTOKOLO DĖL JUODKALNIJOS PRISIJUNGIMO RATIFI
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2016 m. rugpjūčio 30 d. dekretą Nr. 1K-750, ratifikuoja 2016 m. gegužės 19 d. Briuselyje pasirašytą Šiaurės Atlanto sutarties protokolą dėl Juodkalnijos prisijungimo.
 

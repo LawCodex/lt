@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CFC90490B19E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CFC90490B19E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E); 2002, Nr. [112-4967](https://www.e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8), Nr. [123-5548](https://www.e-tar.lt/portal/lt/legalAct/TAR.25A3A951B261))
 
-\#### 1 straipsnis. 1 straipsnio 3 dalies papildymas
+## 1 straipsnis. 1 straipsnio 3 dalies papildymas
 
 1 straipsnio 3 dalyje po žodžio „investicinių“ įrašyti žodžius „kintamojo kapitalo“ ir šią dalį išdėstyti taip:
 

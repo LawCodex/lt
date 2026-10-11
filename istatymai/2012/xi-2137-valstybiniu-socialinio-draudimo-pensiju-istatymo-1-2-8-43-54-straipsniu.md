@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.08304BBFC746"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08304BBFC746.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 1, 2, 8, 43, 54 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 1-1 straipsniu ir priedu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D); 2005, Nr. [71-2555](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FC84684F94), Nr. [144-5235](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6AF69C46A46); 2006, Nr. [72-2675](https://www.e-tar.lt/portal/lt/legalAct/TAR.309180C69F27); 2007, Nr. [138-5648](https://www.e-tar.lt/portal/lt/legalAct/TAR.17D151BF1A54), Nr. [138-5650](https://www.e-tar.lt/portal/lt/legalAct/TAR.E43AEF2A5725); 2008, Nr. [135-5237](https://www.e-tar.lt/portal/lt/legalAct/TAR.6DD1BC389420), Nr. [149-6003](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D0039B70E7F); 2009, Nr. [25-970](https://www.e-tar.lt/portal/lt/legalAct/TAR.8452021244AD); 2010, Nr. [86-4516](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3EC92DAA470); 2011, Nr. [86-4168](https://www.e-tar.lt/portal/lt/legalAct/TAR.29CCFD5518B8))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 5. Asmenys, gyvenantys valstybėse, kuriose jiems netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo, jeigu jie yra įgiję ne mažesnį už minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti dirbdami Lietuvos įmonėse, įstaigose, organizacijose, turi teisę gauti valstybines socialinio draudimo pensijas pagal šį įstatymą už šio įstatymo 8 straipsnyje (išskyrus 8 straipsnio 4 dalį) ir 54 straipsnyje nurodytus laikotarpius Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos teisės aktų nustatyta tvarka reabilituotiems politiniams kaliniams ir tremtiniams, dalį stažo įgijusiems kalinimo metu ar tremtyje, sąlyga įgyti minimalų stažą dirbant Lietuvos įmonėse, įstaigose, organizacijose netaikoma.“
 
-\#### 2 straipsnis. Įstatymo papildymas 11 straipsniu
+## 2 straipsnis. Įstatymo papildymas 11 straipsniu
 
 Papildyti Įstatymą 1^1 straipsniu:
 
@@ -48,19 +48,19 @@ Papildyti Įstatymą 1^1 straipsniu:
 
 Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“
 
-\#### 3 straipsnis. 2 straipsnio 1 dalies 8 punkto pakeitimas
+## 3 straipsnis. 2 straipsnio 1 dalies 8 punkto pakeitimas
 
 Pakeisti 2 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) individualių įmonių savininkai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai, taip pat asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme (advokatai, advokatų padėjėjai, notarai, antstoliai ir kiti asmenys), išskyrus individualią veiklą, kuria verčiamasi turint verslo liudijimą (toliau – savarankiškai dirbantys asmenys), taip pat ūkininkai ir jų partneriai, kaip jie apibrėžti Valstybinio socialinio draudimo įstatyme (toliau – ūkininkai ir jų partneriai), šeimynos dalyviai, kaip jie apibrėžti Šeimynų įstatyme (toliau – šeimynos dalyviai);“.
 
-\#### 4 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 4 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Asmenų, išvardytų 2 straipsnio 1 dalies 2, 6, 7, 8, 10, 12 ir 13 punktuose, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu. Šiam stažui prilyginami iki 2009 m. sausio 1 d. buvę laikotarpiai, kuriais 2 straipsnio 1 dalies 8 punkte nurodyti savarankiškai dirbantys asmenys privalomai draudėsi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti. Asmenims, išvardytiems 2 straipsnio 1 dalies 7 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2005 m. sausio 1 d. Asmenims, išvardytiems 2 straipsnio 1 dalies 10 ir 12 punktuose, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2008 m. sausio 1 d. Asmenų, nurodytų 2 straipsnio 1 dalies 2 punkte, taip pat ūkininkų ir jų partnerių, nurodytų 2 straipsnio 1 dalies 8 punkte, privalomojo draudimosi valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2009 m. sausio 1 d. Šeimynos dalyvių, nurodytų 2 straipsnio 1 dalies 8 punkte, privalomojo draudimosi valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2010 m. liepos 1 d. Asmenų, nurodytų 2 straipsnio 1 dalies 2 ir 8 punktuose, valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, taip pat prilyginamas valstybinio socialinio draudimo pašalpų gavimo laikas. Asmenų, nurodytų 2 straipsnio 1 dalies 13 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, nuo 2010 m. rugpjūčio 1 d.“
 
-\#### 5 straipsnis. 43 straipsnio pakeitimas
+## 5 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -74,13 +74,13 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 4. Lietuvos Respublikai prisijungus prie tarptautinių konvencijų arba sudarius tarptautines sutartis dėl pensijos mokėjimo, pensija mokama taip, kaip nustatyta tarptautinėse konvencijose arba sutartyse.“
 
-\#### 6 straipsnis. 54 straipsnio papildymas 5 dalimi
+## 6 straipsnis. 54 straipsnio papildymas 5 dalimi
 
 Papildyti 54 straipsnį 5 dalimi:
 
 „5. Šio įstatymo 1 straipsnio 5 dalyje ir 43 straipsnio 1 dalyje nurodytiems asmenims į valstybinio socialinio pensijų draudimo stažą įskaitomi tik tie šiame straipsnyje išvardyti laikotarpiai, kuriais asmuo dirbo Lietuvos įmonėse, įstaigose ir organizacijose.“
 
-\#### 7 straipsnis. Įstatymo papildymas priedu
+## 7 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -96,7 +96,7 @@ priedas
 
 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).“
 
-\#### 8 straipsnis. Baigiamosios nuostatos
+## 8 straipsnis. Baigiamosios nuostatos
 
 1. Valstybinės socialinio draudimo pensijos, iki šio įstatymo įsigaliojimo paskirtos Lietuvos Respublikos piliečiams, nuolat gyvenantiems užsienyje, mokamos tol, kol pasibaigs jų mokėjimo terminas.
 
@@ -104,7 +104,7 @@ priedas
 
 3. Jeigu asmuo, kuris Valstybinių socialinio draudimo pensijų įstatymo nustatytą laiką buvo privalomai draudžiamas arba pats draudėsi valstybiniu socialiniu pensijų draudimu, tačiau iki šio įstatymo įsigaliojimo neturėjo teisės gauti valstybinės socialinio draudimo pensijos pagal Valstybinių socialinio draudimo pensijų įstatymą dėl pilietybės ir (arba) gyvenamosios vietos užsienyje, prašymą skirti valstybinę socialinio draudimo pensiją pateikia per dvejus metus nuo šio įstatymo įsigaliojimo dienos, valstybinė socialinio draudimo pensija skiriama nuo šio įstatymo įsigaliojimo dienos. Jeigu asmuo prašymą pateikia praėjus dvejiems metams nuo šio įstatymo įsigaliojimo dienos, valstybinė socialinio draudimo pensija skiriama nuo kreipimosi dėl pensijos skyrimo dienos.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos.
 

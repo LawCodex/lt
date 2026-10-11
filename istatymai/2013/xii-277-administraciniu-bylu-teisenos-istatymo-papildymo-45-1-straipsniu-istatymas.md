@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0C567BACB776"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0C567BACB776.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo papildymo 45-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8))
 
-\#### 1 straipsnis. Įstatymo papildymas 451 straipsniu
+## 1 straipsnis. Įstatymo papildymas 451 straipsniu
 
 Papildyti Įstatymą 45^1 straipsniu:
 
@@ -34,7 +34,7 @@ Papildyti Įstatymą 45^1 straipsniu:
 
 2. Jeigu valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo klausimas nebuvo išspręstas priimant sprendimą išnagrinėjus bylą iš esmės, valstybės garantuojamos teisinės pagalbos teikimą organizuojanti institucija turi teisę ne vėliau kaip per keturiolika dienų nuo šio sprendimo įsiteisėjimo pateikti teismui prašymą dėl valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei. Šį prašymą teismas išnagrinėja šio įstatymo 45 straipsnio 2 dalyje nurodyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

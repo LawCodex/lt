@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5336CEE37824"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5336CEE37824.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 2, 3, 6, 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1998, Nr. [16-379](https://www.e-tar.lt/portal/lt/legalAct/TAR.F745A1030FB0), Nr. [20-504](https://www.e-tar.lt/portal/lt/legalAct/TAR.B925020919B6), Nr. [41-1096](https://www.e-tar.lt/portal/lt/legalAct/TAR.57619CF39FA5))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,13 +46,13 @@ d) turimus pinigus, tarp jų pasiskolintus;
 
 2) per kalendorinius metus gautas visų rūšių pajamas, išskyrus pajamas, gautas už parduotas akcijas, obligacijas, vekselius ir kitus vertybinius popierius, taip pat atsiimtų indėlių, sugrąžintų paskolintų lėšų bei gautų palūkanų ir dividendų sumas, kurios pagal kiekvieną rūšį yra mažesnės kaip 2000 litų, ir sumokėtą pajamų mokestį.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies papildymas ir pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies papildymas ir pakeitimas
 
 3 straipsnio 1 dalyje po žodžių „Lietuvos Respublikos gyventojai“ įrašyti žodžius „nurodyti šio įstatymo 11 straipsnyje“, vietoj žodžių „ne mažiau kaip 183 dienas per metus“ įrašyti žodžius „183 dienas ir ilgiau“, vietoj žodžių „pagal gyvenamąją vietą“ įrašyti žodžius „gyvenamosios vietos teritorinei“, po žodžių „valstybinei mokesčių inspekcijai“ įrašyti žodį „du“, vietoj žodžio „deklaracijas“ įrašyti žodžius „deklaracijos egzempliorius“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos Respublikos gyventojai, nurodyti šio įstatymo 11 straipsnyje, gyvenę Lietuvos Respublikoje ataskaitiniais metais su pertraukomis arba ištisai 183 dienas ir ilgiau, išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulinių įstaigų darbuotojus – užsienio valstybių piliečius, deklaruoja turtą ir pajamas, pateikdami gyvenamosios vietos teritorinei valstybinei mokesčių inspekcijai du Vyriausybės nustatytos formos turto ir pajamų deklaracijos egzempliorius. Nepilnamečių asmenų ir pilnamečių asmenų invalidų bei pensininkų, reikalaujančių globos, gyvenančių kartu su šeima, turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 
 4. Lietuvos Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų valdininkams ir pareigūnams, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimos nariams pažymų pateikimo terminus ir tvarką nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 4 straipsnis. 11 straipsnio 5 punkto pripažinimas netekusiu galios
+## 4 straipsnis. 11 straipsnio 5 punkto pripažinimas netekusiu galios
 
 11 straipsnio 5 punktą pripažinti netekusiu galios.
 

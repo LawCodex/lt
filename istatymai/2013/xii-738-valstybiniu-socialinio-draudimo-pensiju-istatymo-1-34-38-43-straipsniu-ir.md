@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5c56c6a0723911e3b29084acd991add8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5C56C6A07239.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 1, 34, 38, 43 straipsnių ir priedo pakeitimo ir papildymo ĮSTATYMAS
@@ -28,11 +28,11 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=5901); 2005, Nr. [71-2555](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=256803); 2006, Nr. [139-5295](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=289259); 2007, Nr. [138-5648](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=312028); 2009, Nr. [151-6775](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=360856); 2011, Nr. [144-6752](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=411897); 2012, Nr. [80-4141](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=429162))
 
-\#### 1 straipsnis. Šio įstatymo tikslas
+## 1 straipsnis. Šio įstatymo tikslas
 
 Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo 6 straipsnyje išdėstytame Valstybinių socialinio draudimo pensijų įstatymo priedo 2 punkte.
 
-\#### 2 straipsnis. 1 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 1 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -42,19 +42,19 @@ Vilnius
 
 „4. Užsienyje nuolat gyvenantys asmenys, kurie šio įstatymo nustatytą laiką buvo privalomai draudžiami arba patys draudėsi valstybiniu socialiniu pensijų draudimu, turi teisę gauti valstybines socialinio draudimo pensijas pagal šį įstatymą ir Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka. Užsienyje gyvenantys asmenys, kuriems taikomi šio įstatymo priede nurodyti Europos Sąjungos teisės aktai, turi teisę gauti valstybinę socialinio draudimo pensiją šio straipsnio 5 dalyje nustatytomis sąlygomis.“
 
-\#### 3 straipsnis. 34 straipsnio papildymas 5 dalimi
+## 3 straipsnis. 34 straipsnio papildymas 5 dalimi
 
 Papildyti 34 straipsnį 5 dalimi:
 
 „5. Šiame įstatyme nustatyta tvarka teisę gauti našlių ar našlaičių pensiją įgyja asmenys, gyvenantys valstybėse, kuriose jiems netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo, taip pat asmenys, kuriems taikomi šio įstatymo priede nurodyti Europos Sąjungos teisės aktai, jeigu mirusysis (nustatyta tvarka pripažintas mirusiu ar nežinia kur esančiu) buvo įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti (atsižvelgiant į asmens amžių mirties (pripažinimo nežinia kur esančiu) dieną) dirbdamas Lietuvos įmonėse, įstaigose, organizacijose arba buvo Lietuvos Respublikos teisės aktų nustatyta tvarka reabilituotas politinis kalinys ar tremtinys, dalį stažo įgijęs kalinimo metu ar tremtyje.“
 
-\#### 4 straipsnis. 38 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 38 straipsnio 2 dalies pakeitimas
 
 Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Švietimoįstaigų bendrojo ugdymo programų ar formaliojo profesinio ugdymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai, sukakę 18 metų, turi teisę gauti našlaičių pensiją iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.“
 
-\#### 5 straipsnis. 43 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 43 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 43 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti ir papildyti 43 straipsnį ir jį išdėstyti taip:
 
 5. Lietuvos Respublikai prisijungus prie tarptautinių konvencijų arba sudarius tarptautines sutartis dėl pensijos mokėjimo, pensija mokama taip, kaip nustatyta tarptautinėse konvencijose arba sutartyse.“
 
-\#### 6 straipsnis. Įstatymo priedo papildymas ir pakeitimas
+## 6 straipsnis. Įstatymo priedo papildymas ir pakeitimas
 
 Papildyti Įstatymo priedą antru punktu ir visą priedą išdėstyti taip:
 
@@ -90,11 +90,11 @@ priedas
 
 2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).“
 
-\#### 7 straipsnis. Baigiamosios nuostatos
+## 7 straipsnis. Baigiamosios nuostatos
 
 Asmenims, kuriems iki šio įstatymo įsigaliojimo paskirtosios valstybinės socialinio draudimo našlių ar našlaičių pensijos buvo mokamos pagal Valstybinių socialinio draudimo pensijų įstatymo 43 straipsnį, toliau mokamos pagal iki šio įstatymo įsigaliojimo galiojusias Valstybinių socialinio draudimo pensijų įstatymo 43 straipsnio nuostatas.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dfcfb4706eb511ec993ff5ca6e8ba60c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DFCFB4706EB5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 11, 14, 16, 17, 18, 19, 21, 27, 29, 30, 47, 49 ir 51 straipsnių pakeitimo ir 37 straipsnio pripažinimo netekusiu galios įstatymas

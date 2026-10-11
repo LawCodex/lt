@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D243E084DD95"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D243E084DD95.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 43 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74); 2003, Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610); 2004, Nr. [116-4323](https://www.e-tar.lt/portal/lt/legalAct/TAR.519B021AB4AF), Nr. [163-5940](https://www.e-tar.lt/portal/lt/legalAct/TAR.A23B0D0DCEFB); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72), Nr. [72-2689](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE1C008B5565); 2007, Nr. [69-2723](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB5F2FB6C07B); 2010, Nr. [81-4230](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F4D4CDAFCE7); 2011, Nr. [86-4153](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E4C4AAA272C))
 
-\#### 1 straipsnis. 43 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 43 straipsnio 4 dalies pakeitimas
 
 Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip:
 

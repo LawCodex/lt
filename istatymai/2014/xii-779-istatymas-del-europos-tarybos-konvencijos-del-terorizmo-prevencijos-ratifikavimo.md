@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/18b1be70b58011e3ad2eed5a4e1b7108"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.18B1BE70B580.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas „Dėl Europos Tarybos konvencijos dėl terorizmo prevencijos ratifikavimo“
@@ -26,7 +26,7 @@ DĖL EUROPOS TARYBOS KONVENCIJOS DĖL TERORIZMO PREVENCIJOS RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. lapkričio 25.d. dekretą Nr. 1K-1659, ratifikuoja 2005 m. gegužės 16 d. Varšuvoje priimtą Europos Tarybos konvenciją dėl terorizmo prevencijos.
 

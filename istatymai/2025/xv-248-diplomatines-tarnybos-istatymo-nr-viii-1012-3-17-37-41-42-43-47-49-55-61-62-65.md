@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/597da3c04c3111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.597DA3C04C31.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 3, 17, 37, 41, 42, 43, 47, 49, 55, 61, 62, 65, 87, 92, 95 straipsnių, X skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 67-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ DIPLOMATINĖS TARNYBOS ĮSTATYMO NR. VIII-1012 3, 17, 37, 41, 42, 43, 47, 49, 55
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Papildyti 3 straipsnį nauja 5 dalimi:
 
@@ -38,13 +38,13 @@ Vilnius
 
 3. Buvusias 3 straipsnio 5, 6, 7 ir 8 dalis laikyti atitinkamai 7, 8, 9 ir 10 dalimis.
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas
+## 2 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Su diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos administracinio techninio personalo ir aptarnaujančio personalo nariais, kurie nėra valstybės tarnautojai ar profesinės karo tarnybos kariai, (administratoriais, padėjėjais, vyriausiaisiais specialiaisiais kurjeriais, raštvedžiais, sekretoriais, specialiaisiais kurjeriais, ūkvedžiais, vairuotojais, vyresniaisiais specialiaisiais kurjeriais, valytojais, kiemsargiais) Užsienio reikalų ministerija ar jos įgaliotos diplomatinės atstovybės, konsulinės įstaigos, specialiosios misijos, atsižvelgdamos į Lietuvos Respublikos darbo kodekso 68 straipsnio 4 dalį, sudaro terminuotas darbo sutartis. Užsienio reikalų ministras tvirtina atrankos į šias pareigas ir įdarbinimo tvarkos aprašą, šių pareigybių skaičių, tipines šių pareigybių aprašymų, kuriuose nurodomi bendri specialieji reikalavimai, taikomi pareigybei, ir bendros (konkrečiam darbui atlikti reikalingos) darbo funkcijos, formas (toliau – tipinė pareigybės aprašymo forma). Darbuotojų pareigybių aprašymus, kuriuose gali būti nurodyti ir kiti, negu nurodyta tipinėje pareigybės aprašymo formoje, specialieji reikalavimai, taikomi konkrečiai pareigybei, ir funkcijos, tvirtina užsienio reikalų ministras arba jo įgaliotas asmuo.“
 
-\#### 3 straipsnis. 37 straipsnio pakeitimas
+## 3 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 37 straipsnio 3 dalį ir ją išdėstyti taip:
 
 7) diplomato tarnybinę veiklą įvertinus kaip viršijančią lūkesčius arba kaip neatitinkančią lūkesčių, – šio įstatymo 41 straipsnio 5 ir 6 dalyse nustatyta tvarka.“
 
-\#### 4 straipsnis. 41 straipsnio pakeitimas
+## 4 straipsnis. 41 straipsnio pakeitimas
 
 1. Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 37 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „9. Neeilinis diplomato tarnybinės veiklos vertinimas atliekamas ne dažniau kaip vieną kartą per vertinamąjį laikotarpį, jeigu nuo eilinio diplomato tarnybinės veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai, išskyrus atvejus, kai nustatomas trumpesnis diplomato tarnybinės veiklos gerinimo plano laikotarpis, arba jeigu diplomatas ne trumpiau kaip 6 mėnesius per vertinamąjį laikotarpį, įskaitant parengiamąjį laikotarpį, ėjo pareigas diplomatinėje tarnyboje.“
 
-\#### 5 straipsnis. 42 straipsnio pakeitimas
+## 5 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) dėl diplomato ar jo šeimos narių ligos arba dėl kitų svarbių šeiminių aplinkybių diplomatas gali būti paliekamas dirbti Užsienio reikalų ministerijoje ilgesniam negu 3 metų laikotarpiui, bet paprastai ne ilgiau negu 6 metams.“
 
-\#### 6 straipsnis. 43 straipsnio pakeitimas
+## 6 straipsnis. 43 straipsnio pakeitimas
 
 1. Pakeisti 43 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,13 +102,13 @@ Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Diplomatas Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka gali būti laikinai perkeltas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje. Dėl tokio perkėlimo diplomato tarnybos sutartis nenutrūksta, diplomatui paliekamas iki perkėlimo turėtas diplomatinis rangas, perkėlimo laikas įskaitomas į diplomatinės tarnybos stažą. Diplomatams, laikinai perkeltiems į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybės institucijas, Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka mokamas darbo užmokestis ir kitos delegavimo išlaidos. Diplomatams darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu taikomos tarptautinių ir Europos Sąjungos institucijų darbo sąlygas reglamentuojančios taisyklės ar užsienio valstybės darbo santykius reglamentuojantys teisės aktai. Pasibaigus laikino perkėlimo laikui, diplomatas grąžinamas į Užsienio reikalų ministeriją ir, atsižvelgus į delegavimo metu eitas pareigas, diplomato tarnybinės veiklos pobūdį, sudėtingumą, atsakomybės lygį, turimą ar šio įstatymo 61 straipsnio 3 dalyje nustatyta tvarka suteiktą diplomatinį rangą, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimą, darbo užsienio ir (ar) Europos Sąjungos politikos srityje patirtį ir į jo veiklos tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, į kurią jis buvo laikinai perkeltas, vertinimą, Atestacijos komisijos siūlymu paskiriamas į pareigas, kurios yra ne žemesnės negu tos, kurias jis ėjo iki laikino perkėlimo į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, o jeigu tokios galimybės nėra, Atestacijos komisijos siūlymu diplomatas gali būti skiriamas į žemesnes pareigas. Diplomatui nustatomas ne mažesnis, negu iki jo laikino perkėlimo į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės institucijąjam nustatytas pareiginės algos koeficientas, bet ne didesnis, negu pareigybei, į kurią jis skiriamas, nustatytas maksimalus, ir ne mažesnis, negu tai pareigybei nustatytas minimalus pareiginės algos koeficientas. Diplomatas gali būti iš karto skiriamas į diplomatinę atstovybę ar konsulinę įstaigą, neviršijant šio įstatymo 42 straipsnio 1 dalies 2 punkte nustatytų terminų.“
 
-\#### 7 straipsnis. 47 straipsnio pakeitimas
+## 7 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Diplomato, dirbančio diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje, užsienio valstybėje kartu gyvenantis sutuoktinis arba partneris turi teisę įsidarbinti toje valstybėje, jeigu tai numatyta Lietuvos Respublikos tarptautinėse sutartyse arba leidžiama pagal tos valstybės įstatymus. Apie įsidarbinimą diplomato sutuoktinis arba partneris turi informuoti Užsienio reikalų ministeriją.“
 
-\#### 8 straipsnis. 49 straipsnio pakeitimas
+## 8 straipsnis. 49 straipsnio pakeitimas
 
 1. Papildyti 49 straipsnį nauja 3 dalimi:
 
@@ -116,7 +116,7 @@ Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2. Buvusias 49 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis.
 
-\#### 9 straipsnis. 55 straipsnio pakeitimas
+## 9 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -124,7 +124,7 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 Jeigu diplomatinėje atstovybėje nėra šio įstatymo 49 straipsnyje nustatyta tvarka paskirto diplomatinio atstovo, kuris vadovautų diplomatinei atstovybei, užsienio reikalų ministras skiria laikinąjį reikalų patikėtinį užsienio valstybėje ar prie tarptautinės organizacijos. Laikinasis reikalų patikėtinis skiriamas ir tada, kai diplomatinis atstovas laikinai negali eiti savo pareigų. Šiuo atveju laikinąjį reikalų patikėtinį ne ilgiau kaip vienam mėnesiui gali paskirti pats diplomatinis atstovas, o ilgesniam laikotarpiui – užsienio reikalų ministras.“
 
-\#### 10 straipsnis. 61 straipsnio pakeitimas
+## 10 straipsnis. 61 straipsnio pakeitimas
 
 1. Pakeisti 61 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -134,13 +134,13 @@ Jeigu diplomatinėje atstovybėje nėra šio įstatymo 49 straipsnyje nustatyta 
 
 „3^1. Šio straipsnio 2 dalyje nustatyta rangų teikimo eilė taikoma ir diplomatams, laikinai perkeltiems į šio įstatymo 43 straipsnio 4 dalyje nurodytas pareigas, ir atkuriantiems diplomato statusą buvusiems diplomatams, ėjusiems politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje ar Vyriausybės kanceliarijoje.“
 
-\#### 11 straipsnis. 62 straipsnio pakeitimas
+## 11 straipsnis. 62 straipsnio pakeitimas
 
 Pakeisti 62 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Šio straipsnio 3 dalyje nustatytas 5 metų terminas netaikomas, kai, esant tarnybinei būtinybei, diplomato statusas atkuriamas užsienio reikalų ministro nustatyta tvarka buvusiems diplomatams, nutraukusiems diplomato tarnybos sutartį šio įstatymo 92 straipsnio 9 dalyje nurodytu pagrindu ir priimtiems dirbti į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės instituciją, buvusiems diplomatams, ėjusiems politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje ar Vyriausybės kanceliarijoje, taip pat buvusiems diplomatams, nutraukusiems diplomato tarnybos sutartį šio įstatymo 92 straipsnio 9 dalyje nurodytu pagrindu ir išvykusiems kartu su sutuoktiniais arba partneriais, perkeltais, paskirtais arba išrinktais dirbti į tarptautinę ir Europos Sąjungos instituciją ar užsienio valstybės instituciją. Šie asmenys teisę atkurti diplomato statusą turi per 6 mėnesius nuo darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje, Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje ar Vyriausybės kanceliarijoje pabaigos arba per 6 mėnesius po sutuoktinio arba partnerio darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pabaigos, arba per 6 mėnesius nuo prašymo atkurti diplomato statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio arba partnerio darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiui.“
 
-\#### 12 straipsnis. X skyriaus pavadinimo pakeitimas
+## 12 straipsnis. X skyriaus pavadinimo pakeitimas
 
 Pakeisti X skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -148,13 +148,13 @@ Pakeisti X skyriaus pavadinimą ir jį išdėstyti taip:
 
 **DIPLOMATINIS PASAS****,****DIPLOMATINIS PAŠTAS IR DIPLOMATINIAI KROVINIAI**“.
 
-\#### 13 straipsnis. 65 straipsnio pakeitimas
+## 13 straipsnis. 65 straipsnio pakeitimas
 
 Pakeisti 65 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Diplomatiniai pasai išduodami Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko, užsienio reikalų ministro, Lietuvos Respublikos piliečių, išrinktų Europos Parlamento nariais, šeimos nariams, kaip jie apibrėžiami šio įstatymo 18 straipsnio 1 dalyje. Diplomatiniai pasai taip pat išduodami Seimo nario sutuoktiniui arba partneriui ir specialiosios misijos vadovo sutuoktiniui arba partneriui, jeigu šių asmenų vykimą kartu su Seimo nariu ar specialiosios misijos vadovu į užsienį lemia tarnybinės užduoties ar misijos specifika.“
 
-\#### 14 straipsnis. Įstatymo papildymas 671 straipsniu
+## 14 straipsnis. Įstatymo papildymas 671 straipsniu
 
 Papildyti Įstatymo X skyrių 67^1 straipsniu:
 
@@ -174,13 +174,13 @@ Papildyti Įstatymo X skyrių 67^1 straipsniu:
 
 4. Diplomatinio pašto siuntų, kuriose yra įslaptintos informacijos, gabenimui taikomi Valstybės ir tarnybos paslapčių įstatymo reikalavimai.“
 
-\#### 15 straipsnis. 87 straipsnio pakeitimas
+## 15 straipsnis. 87 straipsnio pakeitimas
 
 Pakeisti 87 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Už diplomato šeimos narius, nurodytus šio įstatymo 18 straipsnyje, Užsienio reikalų ministerija iš jai skirtų valstybės biudžeto asignavimų moka privalomojo sveikatos draudimo įmokas, jeigu diplomato šeimos nariai turi mokėti privalomojo sveikatos draudimo įmokas už save pagal Sveikatos draudimo įstatymo 17 straipsnio 6 ar 11 dalį.“
 
-\#### 16 straipsnis. 92 straipsnio pakeitimas
+## 16 straipsnis. 92 straipsnio pakeitimas
 
 1. Pakeisti 92 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -190,27 +190,25 @@ Pakeisti 87 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „9. Diplomatas (išskyrus diplomatinį atstovą ir diplomatą, su kuriuo sudaryta terminuota diplomato tarnybos sutartis parengiamajam laikotarpiui) turi teisę nutraukti diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį, pateikęs prašymą Užsienio reikalų ministerijai ne vėliau kaip prieš 20 darbo dienų, išskyrus atvejus, kai jį į pareigas priimantis asmuo sutinka sutrumpinti šį terminą. Diplomatas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis parengiamajam laikotarpiui, turi teisę nutraukti terminuotą diplomato tarnybos sutartį, pateikęs prašymą ne vėliau kaip prieš 5 darbo dienas. Pasibaigus 20 darbo dienų ar 5 darbo dienų terminui, diplomatas turi teisę nutraukti darbą, o Užsienio reikalų ministerija privalo įforminti sutarties nutraukimą. Jeigu sutartį prašoma nutraukti dėl diplomato ligos ar negalios, trukdančios tinkamai atlikti funkcijas, sutartis turi būti nutraukta nuo diplomato prašyme nurodytos datos.“
 
-\#### 17 straipsnis. 95 straipsnio pakeitimas
+## 17 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 2 punkte nurodytu pagrindu, diplomatui išmokama kompensacija, ne didesnė negu šio straipsnio 2 dalyje nurodyta išeitinė išmoka. Kai diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 8 dalyje nurodytu pagrindu, diplomatui gali būti išmokama kompensacija, ne didesnė negu šio straipsnio 2 dalyje nurodyta išeitinė išmoka.“
 
-\#### 18 straipsnis. Įstatymo priedo pakeitimas
+## 18 straipsnis. Įstatymo priedo pakeitimas
 
 1. Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 
-\| „3. | ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), departamento direktoriaus pavaduotojas, vyriausiasis patarėjas | ambasadorius ypatingiems pavedimams, laikinasis reikalų patikėtinis, generalinis konsulas, įgaliotasis ministras | 1,44“. |
-
-\| --- | --- | --- | --- |
+| „3. | ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), departamento direktoriaus pavaduotojas, vyriausiasis patarėjas | ambasadorius ypatingiems pavedimams, laikinasis reikalų patikėtinis, generalinis konsulas, įgaliotasis ministras | 1,44“. |
+| --- | --- | --- | --- |
 
 2. Pakeisti Įstatymo priedo 4 punktą ir jį išdėstyti taip:
 
-\| „4. | skyriaus vedėjas, vyresnysis patarėjas | konsulas – konsulinės įstaigos vadovas, ministras patarėjas | 1,32“. |
+| „4. | skyriaus vedėjas, vyresnysis patarėjas | konsulas – konsulinės įstaigos vadovas, ministras patarėjas | 1,32“. |
+| --- | --- | --- | --- |
 
-\| --- | --- | --- | --- |
-
-\#### 19 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 19 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

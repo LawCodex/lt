@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3D63C513159C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3D63C513159C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2010 metų rodiklių patvirtinimo įstatymo 3 ir 6 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2009, Nr. [151-6783](https://www.e-tar.lt/portal/lt/legalAct/TAR.E687EC571F8D))
 
-\#### 1 straipsnis. 3 straipsnio 6 ir 7 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 6 ir 7 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „7. Nustatyti, kad nuo pajamų, kurias pagal autorines sutartis gavo asmenys, nenurodyti Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje, yra apskaičiuojamos šio straipsnio 4 ir 5 dalyse nustatyto dydžio valstybinio socialinio draudimo įmokos. Nuo pajamų, gautų iš sporto veiklos ar atlikėjo veiklos iš draudėjo, su kuriuoasmuo nėra susijęs darbo santykiais arba jų esmę atitinkančiais santykiais (Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 5 dalis), yra apskaičiuojamos šio straipsnio 4 dalyje nustatyto dydžio apdraustojo ir šio straipsnio 5 dalies 1 ir 3 punktuose ir 8 dalies 2 punkte nustatyto dydžio draudėjo valstybinio socialinio draudimo įmokos.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 2. Patvirtinti sumažinto tarifo valstybinio socialinio draudimo įmokas (išskyrus sveikatos draudimo įmokas) 2010 metams asmenims, nurodytiems Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje ir gaunantiems pajamas pagal autorines sutartis, taip pat asmenims, gaunantiems pajamas iš sporto veiklos ar atlikėjo veiklos iš draudėjo, su kuriuo asmuo yra susijęs darbo santykiais arba jų esmę atitinkančiais santykiais: draudėjui – 14 procentų dydžio tarifą (proporcingai šio įstatymo 3 straipsnio 1 dalies 1, 2 ir 3 punktuose ir 2 dalyje nurodytoms valstybinio socialinio draudimo rūšims, tai yra: pensijų socialiniam draudimui – 11,65 procento; ligos ir motinystės socialiniam draudimui – 1,7 procento; nedarbo socialiniam draudimui – 0,55 procento; nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui – 0,1 procento) ir 3 procentų dydžio sveikatos draudimo įmokos tarifą; apdraustajam – 2 procentų dydžio pensijų socialinio draudimo įmokos tarifą ir 6 procentų dydžio sveikatos draudimo įmokos tarifą.“
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos asmenų, kurie pagal Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies nuostatas privalomai draudžiami visomis socialinio draudimo rūšimis, mokamiems socialinio draudimo įmokų tarifams.
 

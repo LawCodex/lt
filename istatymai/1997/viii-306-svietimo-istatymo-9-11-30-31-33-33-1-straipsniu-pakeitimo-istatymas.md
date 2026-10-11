@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AB93FA983D44"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AB93FA983D44.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo 9, 11, 30, 31, 33, 33(1) straipsnių pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 1994, Nr. 8-122; 1995, Nr. 57-1419)
 
-\#### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojai“, „apskričių valdytojams“ įrašyti atitinkamai žodžius „apskričių viršininkai“, „apskričių viršininkams“ ir šią dalį išdėstyti taip:
 
 „Valstybines ir savivaldybių švietimo įstaigas steigia, reorganizuoja ir likviduoja Švietimo ir mokslo ministerija, taip pat apskričių viršininkai ir savivaldybių tarybos Švietimo ir mokslo ministerijai ir apskričių viršininkams raštu sutikus.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 11 straipsnyje vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šį straipsnį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Vilnius
 
 Švietimo įstaigose sudaromos sąlygos auklėtinių bei pedagogų sveikatai išsaugoti ir stiprinti. Ministerijos ir kitos Lietuvos Respublikos Vyriausybės įstaigos, apskričių viršininkai, vietos savivaldos institucijos, organizacijos ir piliečiai, turintys savo žinioje švietimo įstaigas, užtikrina norminiuose aktuose nustatytas auklėtinių mokymosi, mitybos, kūno kultūros ir sporto, poilsio, medicinos bei psichologinės pagalbos teikimo sąlygas šiose mokyklose.“
 
-\#### 3 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 30 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šią dalį išdėstyti taip:
 
 „Visų švietimo įstaigų pedagoginę veiklą prižiūri vieninga valstybinė švietimo inspekcija, sudaryta iš Švietimo ir mokslo ministerijos bei apskričių viršininkų administracijos švietimo inspektorių ir veikianti pagal Švietimo ir mokslo ministerijos patvirtintus nuostatus. Valstybinė švietimo inspekcija periodiškai informuoja visuomenę apie Lietuvos ir atskirų jos regionų švietimo būklę, švietimo įstaigų teikiamo ugdymo kokybę Švietimo ir mokslo ministerijos nustatyta tvarka.“
 
-\#### 4 straipsnis. 31 straipsnio 9 ir 20 punktų pakeitimas
+## 4 straipsnis. 31 straipsnio 9 ir 20 punktų pakeitimas
 
 31 straipsnio 9 ir 20 punktuose vietoj žodžių „apskričių valdytojų“, „apskričių valdytojams“ įrašyti atitinkamai žodžius „apskričių viršininkų“, „apskričių viršininkams“ ir šiuos punktus išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „20) prižiūri ir koordinuoja apskričių viršininkų administracijos ir savivaldybių administracijos švietimo padalinių veiklą.“
 
-\#### 5 straipsnis. 33 straipsnio pakeitimas
+## 5 straipsnis. 33 straipsnio pakeitimas
 
 33 straipsnio pavadinime ir straipsnyje vietoj žodžių „apskrities valdytojo“, „apskrities valdytojas“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskrities viršininkas“ ir šį straipsnį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Apskrities viršininkas:
 
 13) nustatyta tvarka teikia informaciją Švietimo ir mokslo ministerijai apie švietimo būklę ir problemas apskrityje.“
 
-\#### 6 straipsnis. 331 straipsnio 1, 2 ir 10 punktų pakeitimas
+## 6 straipsnis. 331 straipsnio 1, 2 ir 10 punktų pakeitimas
 
 33^1 straipsnio 1, 2 ir 10 punktuose vietoj žodžių „apskrities valdytojui“ įrašyti žodžius „apskrities viršininkui“ ir šiuos punktus išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3994397C810D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3994397C810D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 13 straipsnio pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 104-2622; 1998, Nr. 98-2709, Nr. 114-3192)
 
-\#### 1 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 13 straipsnio pavadinime po žodžio „invalidais“ įrašyti žodžius „sukakusių senatvės pensijos amžių, kalėjusių ar išbuvusių tremtyje ne mažiau kaip 15 kalendorinių metų buvusios TSRS Tolimosios Šiaurės rajonuose ar jiems prilygintose vietovėse“, straipsnį papildyti nauja 4 dalimi, buvusią 4 dalį laikyti 5 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Nukentėjusių asmenų valstybinė pensija mokama šio straipsnio 2dalyje išvar
 
 Nukentėjusiųjų asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams, tapusiems I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.
 

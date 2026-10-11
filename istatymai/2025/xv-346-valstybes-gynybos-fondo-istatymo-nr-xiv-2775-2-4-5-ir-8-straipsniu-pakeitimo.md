@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/835b9800535c11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.835B9800535C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės gynybos fondo įstatymo Nr. XIV-2775 2, 4, 5 ir 8 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS GYNYBOS FONDO ĮSTATYMO NR. XIV-2775 2, 4, 5 IR 8 STRAIPSNIŲ PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba suprantamos Lietuvos Respublikos akcizų įstatyme, Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos laikinojo solidarumo įnašo įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos nekilnojamojo turto mokesčio įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos saugumo įnašo įstatyme ir Lietuvos Respublikos valstybės iždo įstatyme.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „3. Šio straipsnio 1 dalies 1, 3, 4, 6–10 punktuose nurodytas lėšas į Valstybės gynybos fondo sąskaitą perveda Lietuvos Respublikos finansų ministerija finansų ministro nustatyta tvarka.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Šio įstatymo 4 straipsnio 1 dalies 8 punkte nurodyta lėšų suma skiriama šio įstatymo 3 straipsnio 1 dalies 5 punkte nurodytai programai įgyvendinti savivaldybėse.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 5 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Šio įstatymo 4 straipsnio 1 dalies 6, 8 ir 10 punktai galioja iki 2030 m. gruodžio 31 d.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

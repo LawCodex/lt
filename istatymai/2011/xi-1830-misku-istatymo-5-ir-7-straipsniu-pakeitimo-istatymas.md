@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D057322CDAA3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D057322CDAA3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981); 2003, Nr. [123-5593](https://www.e-tar.lt/portal/lt/legalAct/TAR.7501477AA243); 2005, Nr. [31-977](https://www.e-tar.lt/portal/lt/legalAct/TAR.C456F906EDA1); 2009, Nr. [54-2137](https://www.e-tar.lt/portal/lt/legalAct/TAR.24CA29E669DF); 2010, Nr. [145-7431](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB295747C61D))
 
-\#### 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 3 dalies pakeitimas
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 10) atlieka kituose teisės aktuose numatytas funkcijas.“
 
-\#### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Miškų urėdijos veikia pagal Valstybės ir savivaldybės įmonių įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose, Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami. Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės veiklos sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam saugoti miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų veiksmų, darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos integruotoms informacinėms sistemoms įsigyti. Jungtinės veiklos sutarties įgyvendinimo kontrolę nustatyta tvarka vykdo Aplinkos ministerija.“
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo 1 straipsnis įsigalioja 2012 m. sausio 1 d.
 

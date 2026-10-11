@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/830310d0ad3c11e98451fa7b5933515d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.830310D0AD3C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymas
@@ -404,5 +404,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1584, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25139
 
 Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymo Nr. XIII-2310 10 ir 11 straipsnių pakeitimo įstatymas
-
-part_9725ca69de1c45a0af3b696c4d70f7d7_end

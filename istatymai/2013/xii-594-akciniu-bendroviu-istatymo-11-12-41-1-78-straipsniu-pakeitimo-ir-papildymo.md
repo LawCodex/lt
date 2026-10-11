@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C64239FAF056"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C64239FAF056.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 11, 12, 41-1, 78 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 2000, Nr. 64-1914; 2003, Nr. 123-5574; 2006, Nr. 82-3252; 2007, Nr. 12-489; 2009, Nr. 91-3914, Nr. 154-6945; 2010, Nr. 1-22; 2011, Nr. 146-6835, Nr. 160-7565)
 
-\#### 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Bendrovė įregistruojama po to, kai yra įvertinti nepiniginiai įnašai, kuriais iš dalies apmokamos akcijos, sudaryta steigimo sutartis ar steigimo aktas, pasirašyti steigiamos bendrovės įstatai, įmokėti visi pradiniai įnašai už pasirašytas akcijas, įvyko steigiamasis susirinkimas (išskyrus šio Įstatymo 10 straipsnio 5 dalyje nustatytą atvejį), kuriame išrinktaspagal bendrovės įstatus visuotinio akcininkų susirinkimo renkamas bendrovės organas,patvirtintaakcinėsbendrovės steigimo ataskaita, taip pat išrinkta valdyba (jeigu įstatuose nustatyta, kad ji sudaroma), išrinktas bendrovės vadovas ir įvykdytos kituose įstatymuose ir steigimo sutartyje ar steigimo akte nustatytos prievolės, taip pat juridinių asmenų registro tvarkytojui pateikti įstatymų nustatyti dokumentai.“
 
-\#### 2 straipsnis. 12 straipsnio 1 dalies 4 punkto pakeitimas
+## 2 straipsnis. 12 straipsnio 1 dalies 4 punkto pakeitimas
 
 Pakeisti 12 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) duomenys apie bendrovės akcininką irvisų akcijų įgijimo data (steigiant bendrovę visų akcijų įgijimo data laikoma bendrovės įregistravimo juridinių asmenų registre data), kai bendrovės akcininkas yra vienas asmuo;“.
 
-\#### 3 straipsnis. 411 straipsnio pavadinimo, 1, 7, 8, 9, 11 dalių pakeitimas, 10 dalies pripažinimas netekusia galios ir straipsnio papildymas 12, 13 dalimis
+## 3 straipsnis. 411 straipsnio pavadinimo, 1, 7, 8, 9, 11 dalių pakeitimas, 10 dalies pripažinimas netekusia galios ir straipsnio papildymas 12, 13 dalimis
 
 1. Pakeisti 411 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -78,13 +78,13 @@ Pakeisti 12 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „13. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.“
 
-\#### 4 straipsnis. 78 straipsnio 3 dalies pakeitimas
+## 4 straipsnis. 78 straipsnio 3 dalies pakeitimas
 
 Pakeisti 78 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Uždarosios akcinės bendrovės, įsteigtos iki 2014 m. sausio 1 d., kuriose yra daugiau negu vienas akcininkas ir kurių akcininkai ar duomenys apie juos nesikeitė nuo 2014 m. sausio 1 d. iki 2014 m. liepos 1 d., šio Įstatymo 41^1 straipsnio 2 dalies 2–6 punktuose nurodytus duomenis apie savo akcininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui turi pateikti iki 2014 m. liepos 10 d.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

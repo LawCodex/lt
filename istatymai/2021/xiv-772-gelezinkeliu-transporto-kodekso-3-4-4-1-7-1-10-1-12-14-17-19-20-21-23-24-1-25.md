@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ac3feb3067e311eca9ac839120d251c4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AC3FEB3067E3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso 3, 4, 4-1, 7-1, 10-1, 12, 14, 17, 19, 20, 21, 23, 24-1, 25, 25-2, 26, 28, 29, 29-1, 29-2, 29-3, 29-5, 29-6, 29-7, 29-8, 30-1, 30-2, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 25-3, 29-9, 29-10 straipsniais ir 25-1 straipsnio pripažinimo netekusiu galios įstatymas

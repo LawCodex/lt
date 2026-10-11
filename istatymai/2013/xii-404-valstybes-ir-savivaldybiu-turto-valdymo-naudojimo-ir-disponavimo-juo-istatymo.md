@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F4EC6FEEC91B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F4EC6FEEC91B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 17, 19 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [54-1492](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98); 2002, Nr. [60-2412](https://www.e-tar.lt/portal/lt/legalAct/TAR.89CCCC443F04); 2003, Nr. [47-2065](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDFDD895FAE5), Nr. [57-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FB0968E7583); 2006, Nr. [87-3397](https://www.e-tar.lt/portal/lt/legalAct/TAR.E0DDE9E7A2B7); 2008, Nr. [19-673](https://www.e-tar.lt/portal/lt/legalAct/TAR.D8AF0EE8D561); 2009, Nr. [71-2891](https://www.e-tar.lt/portal/lt/legalAct/TAR.29F6134810E4), Nr. [93-3967](https://www.e-tar.lt/portal/lt/legalAct/TAR.C61A07E271A8); 2010, Nr. [158-8020](https://www.e-tar.lt/portal/lt/legalAct/TAR.8361F154082C); 2011, Nr. [146-6847](https://www.e-tar.lt/portal/lt/legalAct/TAR.574690F1458A); 2013, Nr. [57-2851](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDC3219AAF2))
 
-\#### 1 straipsnis. 17 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 17 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 17 straipsnio 1 dalį nauju 7 punktu:
 
@@ -56,7 +56,7 @@ Vilnius
 
 3) atitinkamai valstybės ar savivaldybės institucija, įgaliota sudaryti dalininko teisių pirkimo–pardavimo sutartį.“
 
-\#### 2 straipsnis. 19 straipsnio 1 dalies 1 ir 3 punktų pakeitimas
+## 2 straipsnis. 19 straipsnio 1 dalies 1 ir 3 punktų pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -66,11 +66,11 @@ Vilnius
 
 „3) viešajai įstaigai nustatant (formuojant) dalininkų kapitalą, jeigu įstatymų nustatytais atvejais biudžetinė įstaiga pertvarkoma į viešąją įstaigą;“.
 
-\#### 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2014 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2014 m. sausio 1 d.
 

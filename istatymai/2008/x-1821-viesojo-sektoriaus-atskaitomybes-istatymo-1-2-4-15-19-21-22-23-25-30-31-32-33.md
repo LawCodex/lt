@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9A9825575BCD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9A9825575BCD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 4, 15, 19, 21, 22, 23, 25, 30, 31, 32, 33, 36, 37 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3046](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E))
 
-\#### 1 straipsnis. 1 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 1 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Šis įstatymas taikomas viešojo sektoriaus subjektams. Lietuvos bankas, kiti juridiniai asmenys, kurių akcininkai (dalininkai) yra viešojo sektoriaus subjektai, ir valstybės bei savivaldybių įmonės viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų nustatyta tvarka teikia savo finansines ataskaitas, parengtas pagal jų finansinę atskaitomybę reglamentuojančius teisės aktus.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -98,13 +98,13 @@ Vilnius
 
 „42. Sąvoka „viešojo sektoriaus subjektų grupės konsoliduotųjų ataskaitų rinkinys“ apima viešojo sektoriaus subjektų grupės konsoliduotųjų finansinių ataskaitų rinkinį ir viešojo sektoriaus subjektų grupės konsoliduotųjų biudžeto vykdymo ataskaitų rinkinį.“
 
-\#### 3 straipsnis. 4 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 4 straipsnio 3 dalies pakeitimas
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Išteklių fondo tvarkytojas šio fondo apskaitą tvarko atskirai nuo savo, kaip asignavimų valdytojo, apskaitos. Į išteklių fondo apskaitą įtraukiamas Lietuvos Respublikos teisės aktuose nurodytas turtas ir su juo susiję įsipareigojimai, pajamos ir sąnaudos.“
 
-\#### 4 straipsnis. 15 straipsnio pakeitimas
+## 4 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį, 2 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
@@ -112,7 +112,7 @@ Pakeisti 15 straipsnio 1 dalį, 2 dalį pripažinti netekusia galios ir visą st
 
 Ataskaitų rinkiniai yra aukštesniojo ir žemesniojo lygio. Žemesniojo lygio ataskaitų rinkinį rengia kiekvienas viešojo sektoriaus subjektas ir viešojo sektoriaus subjektų grupė. Aukštesniojo lygio ataskaitų rinkinį rengia valstybė ir savivaldybės.“
 
-\#### 5 straipsnis. 19 straipsnio 1 ir 5 dalių pakeitimas
+## 5 straipsnis. 19 straipsnio 1 ir 5 dalių pakeitimas
 
 1. 19 straipsnio 1 dalyje išbraukti žodžius „Finansų ministerijos nustatytais terminais“ ir šią dalį išdėstyti taip:
 
@@ -122,19 +122,19 @@ Ataskaitų rinkiniai yra aukštesniojo ir žemesniojo lygio. Žemesniojo lygio a
 
 „5. Išteklių fondai, išskyrus Valstybinio socialinio draudimo fondą ir Privalomojo sveikatos draudimo fondą, mokesčių fondai ir sveikatos priežiūros viešosios įstaigos nesudaro biudžeto vykdymo ataskaitų, jei kituose teisės aktuose nenustatyta ko kita.“
 
-\#### 6 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Tarpines ataskaitas viešojo sektoriaus subjektai sudaro kas ketvirtį, prireikus arba kitų teisės aktų nustatytais ataskaitiniais laikotarpiais.“
 
-\#### 7 straipsnis. 22 straipsnio 4 dalies pakeitimas
+## 7 straipsnis. 22 straipsnio 4 dalies pakeitimas
 
 Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Valstybės, savivaldybės, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo konsoliduotosiose biudžeto vykdymo ataskaitose turi būti parodytos visos atitinkamo biudžeto pajamos ir išlaidos, o kitų viešojo sektoriaus subjektų grupių konsoliduotosiose biudžeto vykdymo ataskaitose turi būti parodyta tik viešojo sektoriaus subjekto grupės atitinkamo biudžeto išlaidų dalis.“
 
-\#### 8 straipsnis. 23 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 23 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „6. Nacionalinį ataskaitų rinkinį rengia Vyriausybės įgaliota institucija.“
 
-\#### 9 straipsnis. 25 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 9 straipsnis. 25 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „1. Poataskaitiniai ūkiniai įvykiai, rengiant finansines ataskaitas, registruojami viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų nustatyta tvarka.“
 
-\#### 10 straipsnis. 30 straipsnio pakeitimas
+## 10 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -180,7 +180,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 Viešojo sektoriaus subjekto metinių ataskaitų rinkinių ir (arba) viešojo sektoriaus subjektų grupių konsoliduotųjų ataskaitų rinkinių auditą ir (arba) patikrinimą atlieka Lietuvos Respublikos valstybės kontrolė, savivaldybių kontrolierių tarnybos, audito įmonės pagal Valstybės kontrolės įstatymą, Biudžeto sandaros įstatymą, Vietos savivaldos įstatymą, Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymą, Audito įstatymą ir kitus teisės aktus.“
 
-\#### 11 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -190,7 +190,7 @@ Viešojo sektoriaus subjekto metinių ataskaitų rinkinių ir (arba) viešojo se
 
 „2. Viešojo sektoriaus subjektų grupės konsoliduotąsias ataskaitas pasirašo jas rengusio viešojo sektoriaus subjekto vadovas.“
 
-\#### 12 straipsnis. 32 straipsnio 1 ir 3 dalių pakeitimas ir straipsnio papildymas 6 dalimi
+## 12 straipsnis. 32 straipsnio 1 ir 3 dalių pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -204,7 +204,7 @@ Viešojo sektoriaus subjekto metinių ataskaitų rinkinių ir (arba) viešojo se
 
 „6. Tarpinių ataskaitų rinkinį viešojo sektoriaus subjektai teikia Finansų ministerijos nustatyta tvarka.“
 
-\#### 13 straipsnis. 33 straipsnio 1, 4, 5 dalių pakeitimas ir straipsnio papildymas 7 dalimi
+## 13 straipsnis. 33 straipsnio 1, 4, 5 dalių pakeitimas ir straipsnio papildymas 7 dalimi
 
 1. Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -222,7 +222,7 @@ Viešojo sektoriaus subjekto metinių ataskaitų rinkinių ir (arba) viešojo se
 
 „7. Tarpines ataskaitas viešojo sektoriaus subjektai skelbia Finansų ministerijos nustatyta tvarka ir terminais.“
 
-\#### 14 straipsnis. 36 straipsnio 2 ir 3 dalių pakeitimas
+## 14 straipsnis. 36 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -232,7 +232,7 @@ Viešojo sektoriaus subjekto metinių ataskaitų rinkinių ir (arba) viešojo se
 
 „3. Pagal šį įstatymą rengiamos 2010 metų ir vėlesnių metų metinės viešojo sektoriaus subjektų grupių konsoliduotosios ataskaitos, įskaitant valstybės, savivaldybių, Privalomojo sveikatos draudimo fondo ir Valstybinio socialinio draudimo fondo konsoliduotąsias ataskaitas.“
 
-\#### 15 straipsnis. 37 straipsnio pakeitimas
+## 15 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 

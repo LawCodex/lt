@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4E795F3A5D6E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4E795F3A5D6E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių gynimo įstatymo 1, 2, 4, 30 straipsnių pakeitimo ir papildymo bei įstatymo papildymo devintuoju, dešimtuoju skirsniais ir priedu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [94-1833](https://www.e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE); 2000, Nr. [85-2581](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC65E64745F4))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 3 dalimi
 
 Papildyti 1 straipsnį 3 dalimi:
 
 „3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio 1, 11 dalių pakeitimas ir straipsnio papildymas 15, 16, 17, 18 dalimis
+## 2 straipsnis. 2 straipsnio 1, 11 dalių pakeitimas ir straipsnio papildymas 15, 16, 17, 18 dalimis
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Papildyti 1 straipsnį 3 dalimi:
 
 „18. **Finansinių paslaugų teikimo sutartis, sudaroma ryšio priemonėmis** – vartotojo ir paslaugų teikėjo finansinių paslaugų teikimo sutartis, sudaroma naudojant tik ryšio priemones (vieną ar kelias).“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 4 straipsnyje vietoj žodžio „devintajame“ įrašyti žodį „vienuoliktajame“ ir šį straipsnį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Valstybės, savivaldybių institucijos, įstaigos ir visuomeninės vartotojų te
 
 2) rengia ir leidžia specialius leidinius vartotojų teisių įgyvendinimo ir gynimo klausimais, kitais būdais supažindina vartotojus su jų teisėmis.“
 
-\#### 4 straipsnis. Įstatymo papildymas nauju devintuoju skirsniu
+## 4 straipsnis. Įstatymo papildymas nauju devintuoju skirsniu
 
 Papildyti Įstatymą nauju devintuoju skirsniu:
 
@@ -82,7 +82,7 @@ Papildyti Įstatymą nauju devintuoju skirsniu:
 
 **RYŠIO PRIEMONėmis**
 
-\#### 281 straipsnis. Finansinių paslaugų teikimas pagal sutartį, sudaromą ryšio priemonėmis
+## 281 straipsnis. Finansinių paslaugų teikimas pagal sutartį, sudaromą ryšio priemonėmis
 
 1. Vyriausybė ar jos įgaliota institucija tvirtina finansinių paslaugų teikimo, kai sutartys sudaromos ryšio priemonėmis, taisykles.
 
@@ -130,7 +130,7 @@ Papildyti Įstatymą nauju devintuoju skirsniu:
 
 10. Bet kokia sutarties sąlyga, numatanti, kad pagal šį skirsnį finansinės paslaugos teikėjui privalomų įsipareigojimų ar jų dalies pažeidimo faktą turėtų įrodyti vartotojas, yra nesąžininga nuostata.
 
-\#### 282 straipsnis. Vartotojo teisė atsisakyti finansinių paslaugų sutarties, sudarytos ryšio priemonėmis, ar ją nutraukti
+## 282 straipsnis. Vartotojo teisė atsisakyti finansinių paslaugų sutarties, sudarytos ryšio priemonėmis, ar ją nutraukti
 
 1. Vartotojas turi teisę atsisakyti finansinių paslaugų teikimo sutarties, sudarytos ryšio priemonėmis, pranešdamas apie tai raštu paslaugos teikėjui per 14 dienų nuo sutarties sudarymo dienos, jeigu šio straipsnio 2 dalyje nenumatyta kitaip.
 
@@ -158,13 +158,13 @@ Papildyti Įstatymą nauju devintuoju skirsniu:
 
 10. Finansinių paslaugų teikėjas ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą gavimo dienos grąžina vartotojui pagal sutartį gautus pinigus (ir (ar) turtą), išskyrus nurodytus šio straipsnio 8 dalyje. Vartotojas, atsisakęs sutarties pagal šio straipsnio 1 ir 2 dalis, ne vėliau kaip per 30 dienų, nuo pranešimo apie sutarties atsisakymą išsiuntimo dienos, grąžina finansinių paslaugų teikėjui pagal sutartį gautus pinigus (ir (ar) turtą).
 
-\#### 283 straipsnis. Finansinių paslaugų teikimas be vartotojo sutikimo
+## 283 straipsnis. Finansinių paslaugų teikimas be vartotojo sutikimo
 
 1. Draudžiama teikti finansines paslaugas vartotojui be jo sutikimo, jeigu už jas reikalaujama mokėti.
 
 2. Jeigu vartotojui buvo suteiktos finansinės paslaugos be jo sutikimo, vartotojas gali naudotis jomis savo nuožiūra neatlygintinai.
 
-\#### 284 straipsnis. Šiame skirsnyje numatytų vartotojų teisių gynimas
+## 284 straipsnis. Šiame skirsnyje numatytų vartotojų teisių gynimas
 
 1. Vartotojų prašymus (skundus) dėl paslaugų teikėjų veiksmų, kuriais finansinių paslaugų teikėjas pažeidžia šio skirsnio reikalavimus ir (ar) vartotojo teisėtus interesus, nagrinėja finansinių paslaugų teikėjas. Finansinių paslaugų teikėjas privalo išnagrinėti rašytinius vartotojo prašymus (skundus) ir raštu atsakyti vartotojui per 30 dienų nuo prašymo gavimo dienos. Vartotojų prašymus (skundus) finansinių paslaugų teikėjas nagrinėja nemokamai.
 
@@ -184,7 +184,7 @@ Papildyti Įstatymą nauju devintuoju skirsniu:
 
 9. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad finansinių paslaugų teikėjas kliudė vykdyti tyrimą, tęsė pažeidimą, nepaisydamas įpareigojimo jį nutraukti, jei vartotojams buvo padaryta žala arba pažeidimas padarytas pakartotinai per metus.“
 
-\#### 5 straipsnis. Įstatymo papildymas nauju dešimtuoju skirsniu
+## 5 straipsnis. Įstatymo papildymas nauju dešimtuoju skirsniu
 
 Papildyti Įstatymą nauju dešimtuoju skirsniu:
 
@@ -192,7 +192,7 @@ Papildyti Įstatymą nauju dešimtuoju skirsniu:
 
 VARTOTOJŲ VIEŠO INTERESO GYNIMAS
 
-\#### 285 straipsnis. Šio skirsnio taikymo ribos
+## 285 straipsnis. Šio skirsnio taikymo ribos
 
 1. Šio skirsnio nuostatos taikomos siekiant uždrausti veiksmus, pažeidžiančius vartotojų viešą interesą šiose srityse:
 
@@ -214,7 +214,7 @@ VARTOTOJŲ VIEŠO INTERESO GYNIMAS
 
 3. Šio straipsnio reikalavimai neriboja vartotojo teisių pačiam ginti pažeistas teises.
 
-\#### 286 straipsnis. Europos Sąjungos valstybių narių institucijų ar organizacijų teisė pareikšti ieškinį Lietuvoje ginant vartotojų viešą interesą
+## 286 straipsnis. Europos Sąjungos valstybių narių institucijų ar organizacijų teisė pareikšti ieškinį Lietuvoje ginant vartotojų viešą interesą
 
 1. Europos Sąjungos valstybių narių institucijos ar organizacijos, kurias Europos Komisija įtraukia į Europos Parlamento ir Tarybos direktyvoje 98/27/EB dėl draudimų ginant vartotojų interesus numatytą sąrašą ir jas paskelbia Europos Bendrijų oficialiajame leidinyje, turi teisę pagal Lietuvos Respublikos civilinio proceso kodekso 49 straipsnio 1 dalį Lietuvos Respublikos teismuose pareikšti ieškinį dėl įpareigojimo prekių ar paslaugų pardavėjui (teikėjui) nutraukti vartotojų viešą interesą pažeidžiančius veiksmus.
 
@@ -222,7 +222,7 @@ VARTOTOJŲ VIEŠO INTERESO GYNIMAS
 
 3. Taryba praneša Europos Komisijai apie Lietuvoje priimtą išankstinių konsultacijų procedūrą, numatytą šio straipsnio 2 dalyje.
 
-\#### 287 straipsnis. Vartotojų viešo intereso gynimas Europos Sąjungos valstybėse narėse
+## 287 straipsnis. Vartotojų viešo intereso gynimas Europos Sąjungos valstybėse narėse
 
 1. Taryba turi teisę kreiptis į Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį prekių ar paslaugų pardavėją (teikėją), veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešo intereso pažeidimus.
 
@@ -230,17 +230,17 @@ VARTOTOJŲ VIEŠO INTERESO GYNIMAS
 
 3. Taryba praneša Europos Komisijai įgaliotų pagal šio straipsnio 2 dalį institucijų ir organizacijų pavadinimus bei jų įgaliojimų mastą.“
 
-\#### 6 straipsnis. Buvusio devintojo skirsnio numeracijos pakeitimas
+## 6 straipsnis. Buvusio devintojo skirsnio numeracijos pakeitimas
 
 Buvusį devintąjį skirsnį „Vartotojų teisių gynimo institucijos ir atsakomybė už šio įstatymo pažeidimus“ laikyti vienuoliktuoju skirsniu.
 
-\#### 7 straipsnis. 30 straipsnio 1 dalies 3 punkto pakeitimas
+## 7 straipsnis. 30 straipsnio 1 dalies 3 punkto pakeitimas
 
 30 straipsnio 1 dalies 3 punkte vietoj žodžių „ir aštuntajame“ įrašyti žodžius „aštuntajame ir devintajame“ ir šį punktą išdėstyti taip:
 
 „3) nagrinėja vartotojų skundus dėl vartojimo sutarčių nesąžiningų sąlygų taikymo ir dėl šio įstatymo penktajame, šeštajame, septintajame, aštuntajame ir devintajame skirsniuose numatytų vartotojų teisių pažeidimų;“.
 
-\#### 8 straipsnis. Įstatymo papildymas priedu
+## 8 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -272,11 +272,11 @@ priedas
 
 9. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis paslaugomis ir iš dalies pakeičianti Tarybos direktyvą 90/619/EEB ir direktyvas 97/7/EB ir 98/27/EB.“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 Šio Įstatymo 4 straipsnis įsigalioja nuo 2004 m. rugsėjo 1 d.
 
-\#### 10 straipsnis. Įstatymo įgyvendinimas
+## 10 straipsnis. Įstatymo įgyvendinimas
 
 Vyriausybė iki 2004 m. rugsėjo 1 d. priima šiam Įstatymui įgyvendinti būtinus teisės aktus.
 

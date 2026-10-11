@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1ff86f305d9811eca9ac839120d251c4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1FF86F305D98.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 2, 6, 7, 10, 11, 14, 18, 19, 23 straipsnių pakeitimo ir 15, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas

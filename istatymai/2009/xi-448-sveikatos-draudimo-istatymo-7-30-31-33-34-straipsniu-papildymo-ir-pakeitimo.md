@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.175200C251A9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.175200C251A9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 7, 30, 31, 33, 34 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2004, Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62); 2005, Nr. [58-2001](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA280B9F023B); 2007, Nr. [77-3052](https://www.e-tar.lt/portal/lt/legalAct/TAR.4997EB612974); 2008, Nr. [137-5377](https://www.e-tar.lt/portal/lt/legalAct/TAR.7AD85D49167B))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 5. Vyriausybės nustatytais atvejais ir tvarka asmenims, apdraustiems privalomuoju sveikatos draudimu, išduodami privalomojo sveikatos draudimo pažymėjimai.“
 
-\#### 2 straipsnis. 30 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 30 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 30 straipsnio 6 punktą ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 3. Buvusį 30 straipsnio 7 punktą laikyti 8 punktu.
 
-\#### 3 straipsnis. 31 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 31 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 31 straipsnį nauju 7 punktu:
 
@@ -60,13 +60,13 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 2. Buvusius 31 straipsnio 7–10 punktus laikyti atitinkamai 8–11 punktais.
 
-\#### 4 straipsnis. 33 straipsnio 3 punkto pakeitimas
+## 4 straipsnis. 33 straipsnio 3 punkto pakeitimas
 
 Pakeisti 33 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) Valstybės registrų įstatymo, Pacientų teisių ir žalos sveikatai atlyginimo įstatymo, Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;“.
 
-\#### 5 straipsnis. 34 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 34 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 34 straipsnį nauju 6 punktu:
 
@@ -74,7 +74,7 @@ Pakeisti 33 straipsnio 3 punktą ir jį išdėstyti taip:
 
 2. Buvusius 34 straipsnio 6–11 punktus laikyti atitinkamai 7–12 punktais.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. sausio 1 d.
 

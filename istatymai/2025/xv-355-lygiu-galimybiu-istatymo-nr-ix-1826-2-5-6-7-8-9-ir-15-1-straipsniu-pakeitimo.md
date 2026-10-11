@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b113806055cc11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B113806055CC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 5, 6, 7, 8, 9 ir 15-1 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LYGIŲ GALIMYBIŲ ĮSTATYMO NR. IX-1826 2, 5, 6, 7, 8, 9 IR 151 STRAIPSNIŲ PAKE
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį nauja 10 dalimi:
 
@@ -40,7 +40,7 @@ Vilnius
 
 4. Buvusią 2 straipsnio 11 dalį laikyti 13 dalimi.
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 3. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 1. Papildyti 6 straipsnį nauja 4 dalimi:
 
@@ -72,13 +72,13 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 2. Buvusią 6 straipsnio 4 dalį laikyti 5 dalimi.
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „8) imtis tinkamų priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti darbą, dirbti, siekti karjeros arba mokytis;“.
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 1. Papildyti 8 straipsnį nauja 3 dalimi:
 
@@ -90,7 +90,7 @@ Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 3. Buvusią 8 straipsnio 3 dalį laikyti 5 dalimi.
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 1. Papildyti 9 straipsnį nauja 2 dalimi:
 
@@ -98,13 +98,13 @@ Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 2. Buvusias 9 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis.
 
-\#### 7 straipsnis. 151 straipsnio pakeitimas
+## 7 straipsnis. 151 straipsnio pakeitimas
 
 Pakeisti 15^1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Komisijos narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

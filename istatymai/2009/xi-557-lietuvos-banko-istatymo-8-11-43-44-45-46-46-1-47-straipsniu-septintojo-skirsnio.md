@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E1B210518AB0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E1B210518AB0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 8, 11, 43, 44, 45, 46, 46-1, 47 straipsnių, septintojo skirsnio pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 2001, Nr. [28-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.2560251F7F7F); 2003, Nr. [38-1710](https://www.e-tar.lt/portal/lt/legalAct/TAR.4130AFCF39FD), Nr. [61-2755](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6C56545FEC); 2004, Nr. [28-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD7270B1038C), Nr. [54-1830](https://www.e-tar.lt/portal/lt/legalAct/TAR.62C4AA472431); 2006, Nr. [48-1699](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D36321FB46F); 2009, Nr. [38-1441](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF6FC42DF0B1))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies 6 ir 7 punktų pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies 6 ir 7 punktų pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „7) nustato Lietuvos Respublikos kredito ir mokėjimo įstaigų ir užsienio valstybių kredito įstaigų filialų, veikiančių Lietuvos Respublikoje, finansinės apskaitos principus ir atskaitomybės tvarką;“.
 
-\#### 2 straipsnis. 11 straipsnio 1 dalies 6, 13, 14 ir 18 punktų pakeitimas
+## 2 straipsnis. 11 straipsnio 1 dalies 6, 13, 14 ir 18 punktų pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „18) sprendžia klausimus dėl įstatymuose nustatytų licencijų, leidimų, sutikimų išdavimo kredito ir mokėjimo įstaigoms ir jų atšaukimo dėl prieštaravimo (neprieštaravimo) kredito ir mokėjimo įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimui (padidinimui), taip pat dėl asmenų, turinčių kredito ir mokėjimo įstaigos kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, teisės naudotis balsavimo teise sustabdymo ar sustabdymo atšaukimo;“.
 
-\#### 3 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
+## 3 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
 
 Septintojo skirsnio pavadinime po žodžio „kredito“ įrašyti žodžius „ir mokėjimo“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -60,11 +60,11 @@ Septintojo skirsnio pavadinime po žodžio „kredito“ įrašyti žodžius „
 
 KREDITO IR MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS IR PRIEŽIŪRA“.
 
-\#### 4 straipsnis. 42 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 42 straipsnio pripažinimas netekusiu galios
 
 42 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 43 straipsnio pakeitimas
+## 5 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 2. Licencijų suteikimo sąlygas ir tvarką nustato kredito ir mokėjimo įstaigų steigimą bei jų veiklą reglamentuojantys ir kiti Lietuvos Respublikos įstatymai bei Lietuvos banko teisės aktai.“
 
-\#### 6 straipsnis. 44 straipsnio pakeitimas
+## 6 straipsnis. 44 straipsnio pakeitimas
 
 Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
 Lietuvos bankas nustato kredito ir mokėjimo įstaigų veiklos riziką ribojančius normatyvus, jų dydžius ir skaičiavimo metodiką ar kitus reikalavimus dėl veiklos rizikos ribojimo.“
 
-\#### 7 straipsnis. 45 straipsnio pakeitimas
+## 7 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 4) įstatymuose nustatytų poveikio priemonių taikymas kredito ir mokėjimo įstaigoms.“
 
-\#### 8 straipsnis. 46 straipsnio pakeitimas
+## 8 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
@@ -118,13 +118,13 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
 2. Informacija, kurią Lietuvos bankas gauna kredito ir mokėjimo įstaigų priežiūros tikslais, negali būti skelbiama viešai, kam nors perduodama ar kitokiu būdu padaroma prieinama, išskyrus kredito ir mokėjimo įstaigų veiklą reglamentuojančių įstatymų nustatytus atvejus.“
 
-\#### 9 straipsnis. 461 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 461 straipsnio 1 dalies pakeitimas
 
 46^1straipsnio 1 dalyje po žodžio „kredito“ įrašyti žodžius „ir mokėjimo“ ir šią dalį išdėstyti taip:
 
 „1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su kredito ir mokėjimoįstaigų priežiūros funkcijų atlikimu, atlyginama tik tuo atveju, jei nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų kaltės.“
 
-\#### 10 straipsnis. 47 straipsnio pakeitimas
+## 10 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 

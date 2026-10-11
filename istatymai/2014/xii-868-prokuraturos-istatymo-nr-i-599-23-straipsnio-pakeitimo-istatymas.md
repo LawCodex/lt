@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5e3737f0da9b11e39a43a3f57c05722e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5E3737F0DA9B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 23 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PROKURATŪROS ĮSTATYMO NR. I-599 23 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas
+## 1 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip:
 

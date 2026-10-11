@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F39C1B85F819"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F39C1B85F819.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl Druskininkų sanatorijos "Baltarusija" ratifikavimo įstatymas
@@ -26,7 +26,7 @@ VYRIAUSYBĖS IR BALTARUSIJOS RESPUBLIKOS VYRIAUSYBĖS SUSITARIMO DĖL DRUSKININK
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 12 d. dekretą Nr. 885, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Druskininkų sanatorijos „Baltarusija“, pasirašytą 1995 m. vasario 6 d. Vilniuje.
 

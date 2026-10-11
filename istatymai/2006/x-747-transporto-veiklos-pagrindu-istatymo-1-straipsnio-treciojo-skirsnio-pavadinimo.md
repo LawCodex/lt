@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F659A19082E9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F659A19082E9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 1 straipsnio, trečiojo skirsnio pavadinimo, 20, 21, 22, 23, 25 straipsnių pakeitimo, Įstatymo papildymo 19(1) straipsniu bei Įstatymo priedo pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1991, Nr. [30-804](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B); 2002, Nr. [29-1034](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBEAE76BC38); 2005, Nr. [71-2560](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A8B512C3193))
 
-\#### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
 
 1 straipsnio 3 dalyje vietoj žodžių „aktu, nurodytu“ įrašyti žodžius „aktais, nurodytais“ ir šią dalį išdėstyti taip:
 
 „3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.“
 
-\#### 2 straipsnis. Įstatymo trečiojo skirsnio pavadinimo pakeitimas
+## 2 straipsnis. Įstatymo trečiojo skirsnio pavadinimo pakeitimas
 
 Įstatymo trečiojo skirsnio pavadinime išbraukti žodžius „už užsieniečių vežimą be reikiamų kelionės dokumentų“ ir šį pavadinimą išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 VEŽĖJŲ PAREIGOS VEŽANT UŽSIENIEČIUS IR ATSAKOMYBĖ“.
 
-\#### 3 straipsnis. Įstatymo papildymas 191 straipsniu
+## 3 straipsnis. Įstatymo papildymas 191 straipsniu
 
 Papildyti Įstatymą 19^1 straipsniu:
 
@@ -74,19 +74,19 @@ Papildyti Įstatymą 19^1 straipsniu:
 
 4. Vyriausybė ar jos įgaliota institucija nustato šio straipsnio 2 dalyje nurodytos informacijos pateikimo ir tvarkymo taisykles.“
 
-\#### 4 straipsnis. 20 straipsnio papildymas 4 dalimi
+## 4 straipsnis. 20 straipsnio papildymas 4 dalimi
 
 Papildyti 20 straipsnį 4 dalimi:
 
 „4. Jeigu Valstybės sienos apsaugos tarnyba nustato, kad šio Įstatymo 19^1 straipsnio 1 dalyje nurodytas vežėjas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nepateikė arba pateikė ne visą ar neteisingą šio Įstatymo 19^1 straipsnio 2 dalyje nurodytą informaciją, tokiam vežėjui skiriama nuo vienuolikos tūkstančių iki aštuoniolikos tūkstančių litų bauda už kiekvieną reisą, kuriuo buvo vežami užsieniečiai, apie kuriuos vežėjas nepateikė šio Įstatymo 19^1 straipsnio 2 dalyje nurodytos informacijos arba pateikė ne visą ar neteisingą informaciją.“
 
-\#### 5 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 21 straipsnio 1 dalies pirmame sakinyje po žodžių „pažeisti šio Įstatymo“ įrašyti skaičius ir žodžius „19^1 straipsnio 1 dalies arba“ ir šią dalį išdėstyti taip:
 
 „1. Valstybės sienos apsaugos tarnybos įgalioti darbuotojai (pareigūnai), nustatę, kad pažeisti šio Įstatymo 19^1 straipsnio 1 dalies arba 20 straipsnio 1 dalies reikalavimai, surašo įstatymo pažeidimo protokolą. Protokole nurodoma jo surašymo data ir vieta, protokolą surašiusio asmens pareigos, pavardė, vardas, žinios apie šį Įstatymą pažeidusį asmenį, šio Įstatymo pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo straipsnis, straipsnio dalis, kurios reikalavimus pažeidė asmuo, liudytojų ir nukentėjusiųjų, jeigu jų yra, pavardės, adresai, šį Įstatymą pažeidusio asmens paaiškinimas, kitokios žinios, būtinos bylai išspręsti.“
 
-\#### 6 straipsnis. 22 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 22 straipsnio 1 dalyje po žodžių „šio Įstatymo“ įrašyti skaičius ir žodžius „19^1 straipsnio 1 dalyje arba“ ir šią dalį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Papildyti 20 straipsnį 4 dalimi:
 
 4) Valstybės sienos apsaugos tarnybos sprendimu – ekspertai, specialistai bei kiti asmenys.“
 
-\#### 7 straipsnis. 23 straipsnio pakeitimas
+## 7 straipsnis. 23 straipsnio pakeitimas
 
 23 straipsnyje po žodžių „šio Įstatymo“ įrašyti skaičius ir žodžius „19^1 straipsnio 1 dalyje arba“ ir šį straipsnį išdėstyti taip:
 
@@ -108,13 +108,13 @@ Papildyti 20 straipsnį 4 dalimi:
 
 Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo raštu pranešama apie nustatytus šio Įstatymo 19^1 straipsnio 1 dalyje arba 20 straipsnio 1 dalyje numatytus pažeidimus, bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti paaiškinimus. Apie bylos nagrinėjimo vietą ir laiką kitiems proceso dalyviams pranešama raštu ne vėliau kaip prieš 3 darbo dienas iki bylos nagrinėjimo.“
 
-\#### 8 straipsnis. 25 straipsnio 1 dalies 2 punkto pakeitimas
+## 8 straipsnis. 25 straipsnio 1 dalies 2 punkto pakeitimas
 
 25 straipsnio 1 dalies 2 punkte po žodžių „šio Įstatymo“ įrašyti skaičius ir žodžius „19^1 straipsnio 1 dalyje arba“ ir šį punktą išdėstyti taip:
 
 „2) atsisakyti skirti baudą ir bylą nutraukti, kai nėra šio Įstatymo 19^1 straipsnio 1 dalyje arba 20 straipsnio 1 dalyje numatyto pažeidimo.“
 
-\#### 9 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+## 9 straipsnis. Įstatymo priedo pakeitimas ir papildymas
 
 Pakeisti ir papildyti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -130,11 +130,11 @@ priedas
 
 2. 2004 m. balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti keleivių duomenis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 74).“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 11 straipsnį, įsigalioja nuo 2006 m. rugsėjo 1 d.
 
-\#### 11 straipsnis. Pasiūlymas Vyriausybei ar jos įgaliotai institucijai
+## 11 straipsnis. Pasiūlymas Vyriausybei ar jos įgaliotai institucijai
 
 Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo dienos peržiūri teisės aktus, susijusius su šio įstatymo nuostatų įgyvendinimu, ir, jei reikia, parengia atitinkamų teisės aktų pakeitimus ar priima naujus teisės aktus.
 

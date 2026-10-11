@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3E3615DFCA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7B3E3615DFCA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti įstatymo pavadinimo pakeitimo, 1, 2 straipsnių pakeitimo bei papildymo ir įstatymo papildymo penktuoju skirsniu įstatymas
@@ -26,25 +26,25 @@ VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO PAVADINIMO PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo pavadinimo pakeitimas
 
 Įstatymo pavadinime po žodžio „išsinuomoti“ įrašyti žodžius „bei daugiabučiams namams modernizuoti“ ir jį išdėstyti taip:
 
 „**Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymas**“.
 
-\#### 2 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje požodžių „(toliau – įsigyti) bei“ įrašyti žodžius „daugiabučiams namams modernizuoti ir“ ir šią dalį išdėstyti taip:
 
 „1. Šis įstatymas nustato valstybės paramos, teikiamos fiziniams asmenims (šeimoms), turintiems nuolatinę gyvenamąją vietą Lietuvos Respublikoje, būstui pirkti, statyti (rekonstruoti) (toliau – įsigyti) bei daugiabučiams namams modernizuoti ir savivaldybių socialinio būsto fondui sudaryti, formas, sąlygas ir tvarką, taip pat savivaldybių socialinio būsto nuomos sąlygas ir tvarką.“
 
-\#### 3 straipsnis. 2 straipsnio papildymas
+## 3 straipsnis. 2 straipsnio papildymas
 
 Papildyti 2 straipsnį 12 dalimi:
 
 „12. **Daugiabučio namo modernizavimas**– statybos darbai, kuriais iš dalies arba visiškai atnaujinamos ir pagerinamos pastato ir (ar) jo inžinerinių sistemų fizinės ir energinės savybės.“
 
-\#### 4 straipsnis. Įstatymo papildymas penktuoju skirsniu
+## 4 straipsnis. Įstatymo papildymas penktuoju skirsniu
 
 Papildyti Įstatymą penktuoju skirsniu:
 
@@ -52,7 +52,7 @@ Papildyti Įstatymą penktuoju skirsniu:
 
 VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
-\#### 13 straipsnis. Valstybės paramos daugiabučiams namams modernizuoti teikimo sąlygos ir būdai
+## 13 straipsnis. Valstybės paramos daugiabučiams namams modernizuoti teikimo sąlygos ir būdai
 
 1. Valstybės parama daugiabučiams namams modernizuoti teikiama:
 
@@ -62,7 +62,7 @@ VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
 2. Šio straipsnio 1 dalyje nurodyto valstybės paramos teikimo ir investicijų projektų energinio efektyvumo nustatymo taisykles nustato Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos, atsižvelgdamos į valstybės biudžeto asignavimus daugiabučių namų modernizavimo programai įgyvendinti.
 
-\#### 14 straipsnis. Valstybės paramos daugiabučiams namams modernizuoti finansavimas
+## 14 straipsnis. Valstybės paramos daugiabučiams namams modernizuoti finansavimas
 
 Valstybės parama daugiabučiams namams modernizuoti teikiama iš Lietuvos Respublikos valstybės biudžeto lėšų, skiriamų Lietuvos Respublikos Vyriausybės patvirtintai daugiabučių namų modernizavimo programai įgyvendinti.“
 

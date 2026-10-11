@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D0981EEA50A2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D0981EEA50A2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 2, 15, 23, 24 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2225](https://www.e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782);2007, Nr. [64-2455](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BCCDA9AAF34); 2010, Nr. [57-2809](https://www.e-tar.lt/portal/lt/legalAct/TAR.DAE329DD4C36); 2011, Nr. [153-7194](https://www.e-tar.lt/portal/lt/legalAct/TAR.8BC8223C4120))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 17 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 17 dalimi
 
 Papildyti 2 straipsnį 17 dalimi:
 
 „17. **Sanitarinės apsaugos zona** – aplink stacionarų taršos šaltinį arba kelis šaltinius esanti teritorija, kurioje dėl galimo neigiamo vykdomos ūkinės veiklos poveikio visuomenės sveikatai galioja įstatymais ar Vyriausybės nutarimais nustatytos specialiosios žemės naudojimo sąlygos.“
 
-\#### 2 straipsnis. 15 straipsnio 1 dalies 4 ir 6 punktų pakeitimas
+## 2 straipsnis. 15 straipsnio 1 dalies 4 ir 6 punktų pakeitimas
 
 1. Pakeisti 15 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Papildyti 2 straipsnį 17 dalimi:
 
 „6) vykdo sanitarinės apsaugos zonų valstybinę visuomenės sveikatos saugos kontrolę;“.
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas
+## 3 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Užtikrinti, kad teritorijų planavimo dokumentai, žemėtvarkos planavimo dokum
 
 2) statybos dalyviai, prisijungimo sąlygas, specialiuosius architektūros reikalavimus, specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus nustatančios, statybos ar rekonstravimo projektus tikrinančios ir statybą leidžiančius dokumentus išduodančios, statybos užbaigimą tvirtinančios ir statybos valstybinę priežiūrą vykdančios institucijos ir subjektai.“
 
-\#### 4 straipsnis. 24 straipsnio pakeitimas
+## 4 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 5. Kontrolę, kaip laikomasi sanitarinės apsaugos zonų nustatymo ir zonoms nustatytų reikalavimų, pagal kompetenciją vykdo savivaldybių institucijos, Sveikatos apsaugos ministerijos įgaliotos institucijos ir kitos valstybės valdymo institucijos.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E4C9F196E6BF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E4C9F196E6BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 9, 10, 11, 13, 14, 15, 16, 52, 54 ir 57 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2002, Nr. 92-2858, Nr. [102-4550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA5CC14EC47); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. 91(1)-4106; 2004, Nr. 169-6215; 2005, Nr. 143-5183; 2006, Nr. 72-2679)
 
-\#### 1 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „2. Krašto apsaugos ministerijai vadovauja ministras. Vadovaudamasis Vyriausybės įstatymu, šiuo įstatymu ir kitais teisės aktais, ministras nustato viceministro, ministerijos valstybės sekretoriaus, ministerijos sekretorių ir Gynybos štabo viršininko kompetenciją ir funkcijas.“
 
-\#### 2 straipsnis. 10 straipsnio 2 dalies 14 ir 15 punktų pakeitimas
+## 2 straipsnis. 10 straipsnio 2 dalies 14 ir 15 punktų pakeitimas
 
 1. Pakeisti 10 straipsnio 2 dalies 14 punktą ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „15) skiria į pareigas ir iš jų atleidžia krašto apsaugos generalinį inspektorių, Lietuvos karo akademijos viršininką, Gynybos štabo viršininką, Jungtinio štabo viršininką, Savanorių pajėgų vadą, kariuomenės pajėgų rūšių vadus, puskarininkių mokyklos ir kitų karinių mokymo įstaigų viršininkus, pagal įstatymų suteiktus įgaliojimus ir kompetenciją nustato jų teises ir pareigas;“.
 
-\#### 3 straipsnis. 11 straipsnio 5 dalies papildymas ir 8 dalies pakeitimas
+## 3 straipsnis. 11 straipsnio 5 dalies papildymas ir 8 dalies pakeitimas
 
 1. Papildyti 11 straipsnio 5 dalį 4 punktu:
 
@@ -54,13 +54,13 @@ Vilnius
 
 „8. Karinėms operacijoms vykdyti sudaromos operacinės pajėgos. Jas sudaro kariuomenės pajėgų rūšių ir kitokie kariniai vienetai, kariuomenės vado paskirti Jungtinio štabo viršininko operaciniam vadovavimui.“
 
-\#### 4 straipsnis. 13 straipsnio papildymas 10 dalimi
+## 4 straipsnis. 13 straipsnio papildymas 10 dalimi
 
 Papildyti 13 straipsnį 10 dalimi:
 
 „10. Kai kariuomenės vado nėra arba jis laikinai negali vykdyti pareigų, krašto apsaugos ministro įsakymu jį pavaduoja Gynybos štabo viršininkas arba kitas karininkas, turintis generolo (admirolo) laipsnį.“
 
-\#### 5 straipsnis. 14 straipsnio 3, 8, 9, 10, 11, 12 ir 13 dalių pakeitimas
+## 5 straipsnis. 14 straipsnio 3, 8, 9, 10, 11, 12 ir 13 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Papildyti 13 straipsnį 10 dalimi:
 
 „13. Jungtinio štabo viršininko funkcijas vykdyti padeda jam tiesiogiai pavaldus Jungtinis štabas, kurio struktūrą nustato krašto apsaugos ministras.“
 
-\#### 6 straipsnis. 15 straipsnio pakeitimas
+## 6 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 6. Gynybos štabo struktūrą nustato krašto apsaugos ministras.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas
+## 7 straipsnis. 16 straipsnio pakeitimas
 
 1. Papildyti 16 straipsnį nauja 4 dalimi:
 
@@ -116,7 +116,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 2. Buvusią 16 straipsnio 4 dalį laikyti 5 dalimi.
 
-\#### 8 straipsnis. 52 straipsnio 3 dalies pakeitimas
+## 8 straipsnis. 52 straipsnio 3 dalies pakeitimas
 
 52 straipsnio 3 dalyje po žodžio „sausumos“ įrašyti žodžius „specialiųjų operacijų“ ir šią dalį išdėstyti taip:
 
@@ -124,57 +124,33 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 Sausumos, specialiųjų operacijų ir karinių oro pajėgų karių Karinių jūrų pajėgų karių
 
-\| 1) kareivių ir jūreivių | | |
+| 1) kareivių ir jūreivių |  |  |
+| --- | --- | --- |
+| eilinis |  | jūreivis |
+| grandinis |  | grandinis |
+| 2) seržantų ir viršilų |  |  |
+| jaunesnysis seržantas |  | jaunesnysis seržantas |
+| seržantas |  | seržantas |
+| vyresnysis seržantas |  | vyresnysis seržantas |
+| viršila |  | laivūnas |
+| 3) puskarininkių |  |  |
+| jaunesnysis puskarininkis |  | jaunesnysis puskarininkis |
+| puskarininkis |  | puskarininkis |
+| vyresnysis puskarininkis |  | vyresnysis puskarininkis |
+| 4) jaunesniųjų karininkų |  |  |
+| leitenantas |  | leitenantas |
+| vyresnysis leitenantas |  | vyresnysis leitenantas |
+| kapitonas |  | kapitonas leitenantas |
+| 5) vyresniųjų karininkų |  |  |
+| majoras |  | komandoras leitenantas |
+| pulkininkas leitenantas |  | komandoras |
+| pulkininkas |  | jūrų kapitonas |
+| 6) generolų ir admirolų |  |  |
+| brigados generolas |  | flotilės admirolas |
+| generolas majoras |  | kontradmirolas |
+| generolas leitenantas |  | viceadmirolas.“ |
 
-\| --- | --- | --- |
-
-\| eilinis | | jūreivis |
-
-\| grandinis | | grandinis |
-
-\| 2) seržantų ir viršilų | | |
-
-\| jaunesnysis seržantas | | jaunesnysis seržantas |
-
-\| seržantas | | seržantas |
-
-\| vyresnysis seržantas | | vyresnysis seržantas |
-
-\| viršila | | laivūnas |
-
-\| 3) puskarininkių | | |
-
-\| jaunesnysis puskarininkis | | jaunesnysis puskarininkis |
-
-\| puskarininkis | | puskarininkis |
-
-\| vyresnysis puskarininkis | | vyresnysis puskarininkis |
-
-\| 4) jaunesniųjų karininkų | | |
-
-\| leitenantas | | leitenantas |
-
-\| vyresnysis leitenantas | | vyresnysis leitenantas |
-
-\| kapitonas | | kapitonas leitenantas |
-
-\| 5) vyresniųjų karininkų | | |
-
-\| majoras | | komandoras leitenantas |
-
-\| pulkininkas leitenantas | | komandoras |
-
-\| pulkininkas | | jūrų kapitonas |
-
-\| 6) generolų ir admirolų | | |
-
-\| brigados generolas | | flotilės admirolas |
-
-\| generolas majoras | | kontradmirolas |
-
-\| generolas leitenantas | | viceadmirolas.“ |
-
-\#### 9 straipsnis. 54 straipsnio 6 dalies pripažinimas netekusia galios ir 8 dalies pakeitimas
+## 9 straipsnis. 54 straipsnio 6 dalies pripažinimas netekusia galios ir 8 dalies pakeitimas
 
 1. 54 straipsnio 6 dalį pripažinti netekusia galios.
 
@@ -182,7 +158,7 @@ Sausumos, specialiųjų operacijų ir karinių oro pajėgų karių Karinių jūr
 
 „8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 3 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį Gynybos štabo viršininku, Jungtinio štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.“
 
-\#### 10 straipsnis. 57 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 57 straipsnio 1 dalies pakeitimas
 
 Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
 

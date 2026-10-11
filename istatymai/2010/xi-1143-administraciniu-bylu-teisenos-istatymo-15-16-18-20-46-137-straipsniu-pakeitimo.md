@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0BFC4BB604DB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0BFC4BB604DB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 15, 16, 18, 20, 46, 137 straipsnių pakeitimo, aštuonioliktojo skirsnio ir 128, 144 straipsnių pripažinimo netekusiais galios įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8); 2002, Nr. [31-1125](https://www.e-tar.lt/portal/lt/legalAct/TAR.5FA6E8079BD9); 2003, Nr. [38-1675](https://www.e-tar.lt/portal/lt/legalAct/TAR.322A6CD11CBB); 2004, Nr. [171-6320](https://www.e-tar.lt/portal/lt/legalAct/TAR.B515345EB7B6); 2007, Nr. [72-2830](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F44E333859B), Nr. [140-5758](https://www.e-tar.lt/portal/lt/legalAct/TAR.3A378859D262); 2010, Nr. [76-3872](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA77F805EA51))
 
-\#### 1 straipsnis. 15 straipsnio 1 dalies 10 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 15 straipsnio 1 dalies 10 punkto pripažinimas netekusiu galios
 
 15 straipsnio 1 dalies 10 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 16 straipsnio 3 dalies pripažinimas netekusia galios
+## 2 straipsnis. 16 straipsnio 3 dalies pripažinimas netekusia galios
 
 16 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 18 straipsnio 2 dalies 7 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 18 straipsnio 2 dalies 7 punkto pripažinimas netekusiu galios
 
 18 straipsnio 2 dalies 7 punktą pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 20 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 20 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 20 straipsnio 1 dalies 1 punkte išbraukti žodžius „įskaitant bylas dėl administracinių teisės pažeidimų“ ir šį punktą išdėstyti taip:
 
@@ -48,29 +48,29 @@ Vilnius
 
 „2. Lietuvos vyriausiasis administracinis teismas nagrinėja prašymus dėl proceso atnaujinimo administracinėse bylose, kurios užbaigtos įsiteisėjusiu teismo sprendimu, nutarimu ar nutartimi.“
 
-\#### 5 straipsnis. 46 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 46 straipsnio 1 dalies pakeitimas
 
 Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Administraciniuose teismuose bylas, numatytas šio įstatymo 15 straipsnio 1 dalies 3, 4 ir 5 punktuose, nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms numatytas vienasmenis nagrinėjimas.“
 
-\#### 6 straipsnis. Aštuonioliktojo skirsnio pripažinimas netekusiu galios
+## 6 straipsnis. Aštuonioliktojo skirsnio pripažinimas netekusiu galios
 
 Aštuonioliktąjį skirsnį „Skundai dėl nutarimų administracinių teisės pažeidimų bylose“ pripažinti netekusiu galios.
 
-\#### 7 straipsnis. 128 straipsnio pripažinimas netekusiu galios
+## 7 straipsnis. 128 straipsnio pripažinimas netekusiu galios
 
 128 straipsnį pripažinti netekusiu galios.
 
-\#### 8 straipsnis. 137 straipsnio 2 dalies pripažinimas netekusia galios
+## 8 straipsnis. 137 straipsnio 2 dalies pripažinimas netekusia galios
 
 137 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 9 straipsnis. 144 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 144 straipsnio pripažinimas netekusiu galios
 
 144 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2011 m. sausio 1 d.
 

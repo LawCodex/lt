@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EF92C250258A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EF92C250258A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas

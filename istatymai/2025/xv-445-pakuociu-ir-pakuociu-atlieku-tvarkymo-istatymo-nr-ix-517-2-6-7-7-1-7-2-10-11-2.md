@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0d799a52a27211f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0D799A52A272.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO NR. IX-517 2, 6, 7, 71, 72,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 6 dalį.
 
@@ -48,19 +48,19 @@ Vilnius
 
 „30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos mokesčio už aplinkos teršimą įstatyme.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 30 dalį ir ją išdėstyti taip:
 
 „30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos augalų apsaugos įstatyme, Lietuvos Respublikos mokesčio už aplinkos teršimą įstatyme.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Ūkinės veiklos vykdytojai, nurodyti šio įstatymo 2 straipsnio 26 dalies 1 punkte, pakuočių apskaitą tvarko ir pagal šios apskaitos duomenis atsiskaito aplinkos ministro įgaliotai institucijai aplinkos ministro nustatyta tvarka.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -78,19 +78,19 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „7. Gamintojai ir importuotojai, organizuodami savo reikmėms sunaudotų pakuočių atliekų tvarkymą, tokių atliekų sutvarkymo sutartis sudaro su atliekų tvarkytojais, kurie pagal Atliekų tvarkymo įstatymo 34^31 straipsnio 1 dalį turi teisę išrašyti pakuočių atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 5 straipsnis. 71 straipsnio pakeitimas
+## 5 straipsnis. 71 straipsnio pakeitimas
 
 Papildyti 7^1 straipsnio 2 dalį 3 punktu:
 
 „3) jeigu Lietuvos Respublikos teritorijoje pagaminama ar įvežama (importuojama) į Lietuvos Respublikos teritoriją ir sunaudojama valstybės institucijos reikmėms arperleidžiama kitai valstybės institucijai supakuota alyva, baterijos ir akumuliatoriai, apmokestinamieji gaminiai, transporto priemonės, elektros ir elektroninė įranga ar kita įranga arba gaminiai, skirti krašto apsaugos tikslams. Pakuočių atliekų, susidariusių valstybės institucijai naudojant šiuos gaminius ar įrangą, tvarkymas organizuojamas Atliekų tvarkymo įstatymo 4 straipsnio 1 dalyje nustatyta tvarka.“
 
-\#### 6 straipsnis. 72 straipsnio pakeitimas
+## 6 straipsnis. 72 straipsnio pakeitimas
 
 Pakeisti 7^2 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) apmokėti šios dalies 1 ir 2 punktuose nurodyto vienkartinių plastikinių gaminių, nurodytų šio įstatymo 1^1 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, įskaitant išlaidas, patirtas nustatant šio straipsnio 9 dalyje ir šio įstatymo 10 straipsnio 5^4 dalyje nurodytus referencinius skaičius, taip pat šios dalies 3 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -154,7 +154,7 @@ Pakeisti 7^2 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „15. Organizacija šio straipsnio 4 dalies 3 ir 4 punktuose nurodytas sutartis sudaro su atliekų tvarkytojais, kurie pagal Atliekų tvarkymo įstatymo 34^31 straipsnio 1 dalį turi teisę išrašyti pakuočių atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 8 straipsnis. Įstatymo papildymas 101 straipsniu
+## 8 straipsnis. Įstatymo papildymas 101 straipsniu
 
 Papildyti Įstatymą 10^1 straipsniu:
 
@@ -192,13 +192,13 @@ Papildyti Įstatymą 10^1 straipsniu:
 
 9. Augalų apsaugos produktų pakuočių organizacija steigiama ir veikia, gamintojai ir importuotojai jos veikloje dalyvauja laikydamiesi Atliekų tvarkymo įstatymo 3422 straipsnyje nustatytų reikalavimų.“
 
-\#### 9 straipsnis. 112 straipsnio pakeitimas
+## 9 straipsnis. 112 straipsnio pakeitimas
 
 Papildyti 11^2 straipsnį 13 dalimi:
 
 „13. Užstato už vienkartines pakuotes sistemos administratorius šio straipsnio 2 dalies 2 punkte nustatyta tvarka parenka užstato už vienkartines pakuotes sistemoje surinktas vienkartinių pakuočių atliekas perdirbančius atliekų tvarkytojus, kurie pagal Atliekų tvarkymo įstatymo 34^31 straipsnio 1 dalį turi teisę išrašyti pakuočių atliekų sutvarkymą įrodančius dokumentus, ir sudaro su jais sutartis.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 10 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 2 straipsnis, 4 straipsnio 1, 3 ir 4 dalys, 7 straipsnio 2, 4, 7–9, 11 dalys ir 9 straipsnis įsigalioja 2026 m. sausio 1 d.
 

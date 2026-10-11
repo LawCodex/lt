@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.458F8FD3C75E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.458F8FD3C75E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 11 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [92-2873](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B); 2001, Nr. [112-4089](https://www.e-tar.lt/portal/lt/legalAct/TAR.EFF9ECF45C6E); 2003, Nr. [59-2637](https://www.e-tar.lt/portal/lt/legalAct/TAR.3AB62FA7785D))
 
-\#### 1 straipsnis. 11 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 11 straipsnio 5 dalies pakeitimas
 
 Pakeisti 11 straipsnio 5 dalį ir ją išdėstyti taip:
 

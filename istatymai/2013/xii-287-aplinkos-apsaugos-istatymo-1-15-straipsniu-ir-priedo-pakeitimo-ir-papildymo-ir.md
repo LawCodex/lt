@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.112A062E2DA5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.112A062E2DA5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 15 straipsnių ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 19-1, 19-2 straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62); 1996, Nr. [57-1335](https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124); 2000, Nr. [39-1093](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA03EC25C86C); 2002, Nr. [2-49](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D555BF4BF16); 2004, Nr. [36-1179](https://www.e-tar.lt/portal/lt/legalAct/TAR.0311855FCC59); 2005, Nr. [47-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.247DAE8A3F57); 2010, Nr. [70-3472](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0BA557D67F1))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 23, 24 ir 25 punktais
+## 1 straipsnis. 1 straipsnio papildymas 23, 24 ir 25 punktais
 
 1. Papildyti 1 straipsnį 23 punktu:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „25)**aplinkos kokybės norma**– teisės aktuose nustatyti reikalavimai, kuriuos konkrečiu laikotarpiu turi atitikti aplinka arba konkreti jos dalis.“
 
-\#### 2 straipsnis. 15 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 15 straipsnio 2 dalies pakeitimas
 
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Ūkinės veiklos leidimas, skirtas planuojamai veiklai, kuriai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą privaloma atlikti poveikio aplinkai vertinimą ar atranką dėl poveikio aplinkai vertinimo, gali būti išduotas esant galiojančiam atsakingos institucijos teigiamam sprendimui dėl planuojamos ūkinės veiklos galimybių ar atrankos dėl poveikio aplinkai vertinimo išvadai, kad atlikti poveikio aplinkai vertinimą yra neprivaloma.“
 
-\#### 3 straipsnis. Įstatymo papildymas 191 straipsniu
+## 3 straipsnis. Įstatymo papildymas 191 straipsniu
 
 Papildyti Įstatymą 19^1 straipsniu:
 
@@ -104,7 +104,7 @@ Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta esminės žalos šio įs
 
 Aplinkos ministro įgaliota institucija (įgaliotos institucijos) privalo šio straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka peržiūrėti TIPK leidimo sąlygas ir šio straipsnio 10 dalies 3 punkte nurodytais atvejais informuoti TIPK leidimo turėtoją apie pareigą per nustatytą terminą pakeisti TIPK leidimą.“
 
-\#### 4 straipsnis. Įstatymo papildymas 192 straipsniu
+## 4 straipsnis. Įstatymo papildymas 192 straipsniu
 
 Papildyti Įstatymą 19^2 straipsniu:
 
@@ -156,17 +156,17 @@ Taršos leidimo galiojimas panaikinamas jį išdavusios institucijos motyvuotu s
 
 Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta esminės žalos šio įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių šio straipsnio 2 dalyje nurodytų įrenginių (jo dalių, kelių įrenginių ar jų dalių) eksploatavimą, saugomiems interesams ir kuriuo nepadaryta esminės žalos aplinkai, žmonių sveikatai, ir asmuo, turintis taršos leidimą, nutraukė veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų padarinius ir atlygino žalą, o šio įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, aplinkos ministro įgaliota institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali nepanaikinti taršos leidimo galiojimo.“
 
-\#### 5 straipsnis. Įstatymo priedo 3 punkto pakeitimas
+## 5 straipsnis. Įstatymo priedo 3 punkto pakeitimas
 
 Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 
 „3. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).“
 
-\#### 6 straipsnis. Įstatymo įgyvendinimas
+## 6 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos aplinkos ministerija iki 2013 m. birželio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas, išskyrus 6 straipsnį, įsigalioja 2013 m. birželio 1 d.
 

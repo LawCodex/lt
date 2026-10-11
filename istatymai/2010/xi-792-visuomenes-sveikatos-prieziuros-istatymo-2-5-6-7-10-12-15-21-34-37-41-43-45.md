@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DAE329DD4C36"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DAE329DD4C36.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 2, 5, 6, 7, 10, 12, 15, 21, 34, 37, 41, 43, 45 straipsnių pakeitimo ir papildymo ir 22, 32, 44 straipsnių pripažinimo netekusiais galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2225](https://www.e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782); 2007, Nr. [64-2455](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BCCDA9AAF34))
 
-\#### 1 straipsnis. 2 straipsnio 10 dalies pripažinimas netekusia galios ir straipsnio papildymas 15, 16 dalimis
+## 1 straipsnis. 2 straipsnio 10 dalies pripažinimas netekusia galios ir straipsnio papildymas 15, 16 dalimis
 
 1. 2 straipsnio 10 dalį pripažinti netekusia galios.
 
@@ -36,13 +36,13 @@ Vilnius
 
 „16.**Radiotechninis objektas** –radijo ryšio įrenginys, spinduliuojantis radijo bangas, veikiantis nuo 10 kHz iki 300 GHz radijo dažnių juostoje.“
 
-\#### 2 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 5 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) kiti Lietuvos Respublikoje įsteigti juridiniai asmenys, kitų Europos Sąjungos valstybių narių juridiniai asmenys, organizacijos ar jų filialai, taip pat kitose Europos Sąjungos valstybėse narėse ar kitose užsienio valstybėse įsteigtų juridinių asmenų ar organizacijų registruoti filialai Lietuvos Respublikoje, kurie įgyvendina organizacines, teisines, ekonomines, technines ir (ar) socialines priemones, skirtas ligų ir traumų profilaktikai, visuomenės sveikatai išsaugoti ir stiprinti, ir įstatymų nustatyta tvarka yra sudarę sutartis su Lietuvos nacionalinės sveikatos sistemos veiklos užsakovais – šių sutarčių galiojimo laikotarpiu.“
 
-\#### 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 12) vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.“
 
-\#### 4 straipsnis. 7 straipsnio 3 dalies 4 punkto ir 4 dalies pakeitimas ir 5, 6 dalių pripažinimas netekusiomis galios
+## 4 straipsnis. 7 straipsnio 3 dalies 4 punkto ir 4 dalies pakeitimas ir 5, 6 dalių pripažinimas netekusiomis galios
 
 1. Pakeisti 7 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4. 7 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 10 straipsnio pavadinimo ir 4 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio pavadinimo ir 4 dalies pakeitimas
 
 1. Pakeisti 10 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Savivaldybių institucijos Lietuvos nacionalinę visuomenės sveikatos priežiūros strategiją įgyvendina per savivaldybių sveikatos programas.“
 
-\#### 6 straipsnis. 12 straipsnio pakeitimas
+## 6 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 Visuomenės sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės įstaigos, Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė visuomenės sveikatos priežiūros tarnyba), Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba), Radiacinės saugos centras, kitos valstybės ir savivaldybių institucijos ir įstaigos.“
 
-\#### 7 straipsnis. 15 straipsnio pakeitimas
+## 7 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -154,7 +154,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 4. Valstybinei visuomenės sveikatos priežiūros tarnybai pavaldžių teritorinių visuomenės sveikatos priežiūros įstaigų nuostatus ir struktūrą tvirtina Valstybinė visuomenės sveikatos priežiūros tarnyba.“
 
-\#### 8 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -248,15 +248,15 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 „13. Leidimas-higienos pasas išduodamas neribotam laikui. Už leidimo-higienos paso ar jo dublikato išdavimą, leidimo-higienos paso patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai leidimas-higienos pasas patikslinamas siekiant ištaisyti klaidas, padarytas išduodant leidimą-higienos pasą. Leidimai-higienos pasai apskaitomi ir registruojami Taisyklėse nustatyta tvarka.“
 
-\#### 9 straipsnis. 22 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 22 straipsnio pripažinimas netekusiu galios
 
 22 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. 32 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 32 straipsnio pripažinimas netekusiu galios
 
 32 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 34 straipsnio 4 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios
+## 11 straipsnis. 34 straipsnio 4 dalies pakeitimas ir 7 dalies pripažinimas netekusia galios
 
 1. Pakeisti 34 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -264,11 +264,11 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 2. 34 straipsnio 7 dalį pripažinti netekusia galios.
 
-\#### 12 straipsnis. 37 straipsnio 2 dalies pripažinimas netekusia galios
+## 12 straipsnis. 37 straipsnio 2 dalies pripažinimas netekusia galios
 
 37 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 13 straipsnis. 41 straipsnio 4, 5, 6 dalies pakeitimas ir 11 dalies pripažinimas netekusia galios
+## 13 straipsnis. 41 straipsnio 4, 5, 6 dalies pakeitimas ir 11 dalies pripažinimas netekusia galios
 
 1. Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -294,7 +294,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 4. 41 straipsnio 11 dalį pripažinti netekusia galios.
 
-\#### 14 straipsnis. 43 straipsnio pakeitimas
+## 14 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -372,11 +372,11 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 17. Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos apsaugos ministro nustatyta tvarka vykdo Valstybinė visuomenės sveikatos priežiūros tarnyba ir jai pavaldžios teritorinės visuomenės sveikatos priežiūros įstaigos.“
 
-\#### 15 straipsnis. 44 straipsnio pripažinimas netekusiu galios
+## 15 straipsnis. 44 straipsnio pripažinimas netekusiu galios
 
 44 straipsnį pripažinti netekusiu galios.
 
-\#### 16 straipsnis. 45 straipsnio 2 dalies 1, 3, 4 punktų ir 4 dalies pakeitimas
+## 16 straipsnis. 45 straipsnio 2 dalies 1, 3, 4 punktų ir 4 dalies pakeitimas
 
 1. Pakeisti 45 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -394,11 +394,11 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 „4. Visuomenės sveikatos priežiūros specialistų profesinis tobulinimas vykdomas sveikatos apsaugos ministro nustatyta tvarka.“
 
-\#### 17 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 17 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2010 m. liepos 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 18 straipsnis. Įstatymo įsigaliojimas
+## 18 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 8 straipsnio 5 dalyje išdėstyto Visuomenės sveikatos priežiūros įstatymo 21 straipsnio 7 dalies 4 punktą ir šio įstatymo 17 straipsnį, įsigalioja 2010 m. liepos 1 d.
 

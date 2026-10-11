@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.45D45191ECBC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.45D45191ECBC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2005, Nr. [71-2558](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C))
 
-\#### 1 straipsnis. 16 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 16 straipsnio 6 dalies pakeitimas
 
 Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Pensininkui, kuris nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą, prie pareigūnų ir karių valstybinės pensijos už tarnybą mokamas valstybinės socialinio draudimo bazinės pensijos dydžio priedas, iki jis įgis teisę gauti valstybinę socialinio draudimo pensiją. Kai pensininkas įgyja šią teisę, šioje dalyje nurodytas priedas nebemokamas, neatsižvelgiant į valstybinio socialinio draudimo įmokų mokėjimą, nuo tos dienos, nuo kurios jis tapo vienu iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, arba ūkininku ar jo partneriu.“
 
-\#### 2 straipsnis. Pasiūlymas Vyriausybei
+## 2 straipsnis. Pasiūlymas Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2007 m. sausio 1 d. įgyvendina pareigūnų ir karių, išleidžiamų į pensiją, socialinio prisitaikymo, medicininės reabilitacijos bei profesinio orientavimo į kitas veiklos sritis sistemą.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.
 

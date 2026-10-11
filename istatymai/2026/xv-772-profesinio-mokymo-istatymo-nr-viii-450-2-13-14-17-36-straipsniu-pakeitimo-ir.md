@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2ac29d40282e11f1a552c76556910e9c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2AC29D40282E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 13, 14, 17, 36 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
@@ -26,19 +26,19 @@ PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 2, 13, 14, 17, 36 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnį 27 dalimi:
 
 „27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ ir Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme.“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Profesinio mokymo programų ar jų modulių rengimą ir tobulinimą turi teisę inicijuoti ir (arba) šias programas ar jų modulius rengti profesinio mokymo teikėjas, Lietuvos Respublikos pilietis, Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, jų šeimos nariai ir kiti asmenys, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo (toliau – fizinis ar juridinis asmuo) arba kita juridinio asmens statuso neturinti organizacija ir jų padaliniai. Profesinio mokymo programų ar jų modulių rengimą ir atnaujinimą koordinuoja ir (arba) vykdo kvalifikacijų tvarkymo institucija, derindama su sektoriniu profesiniu komitetu.“
 
-\#### 3 straipsnis. Įstatymo papildymas 131 straipsniu
+## 3 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -46,7 +46,7 @@ Papildyti Įstatymą 13^1 straipsniu:
 
 Profesinis mokymas pagal formaliojo profesinio mokymo programas ar jų modulius vykdomas lietuvių kalba. Pagal formaliojo profesinio mokymo programas pirmajai kvalifikacijai įgyti besimokantiems lietuvių kalbos nemokantiems užsieniečiams garantuojamas lietuvių kalbos mokymasis, taip pat jiems mokymosi laikotarpiu švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti taikomos priemonės – dvikalbis (lietuvių kalba ir kita kalba) mokymas ar kita pagalba. Šios priemonės taikomos tol, kol besimokantysis pasiekia profesinei veiklai reikalingą lietuvių kalbos mokėjimo lygį. Kai pagal tęstinio profesinio mokymo programas mokosi mokiniai užsieniečiai, profesinis mokymas jų pasirinkimu gali būti vykdomas lietuvių kalba arba švietimo, mokslo ir sporto ministro nustatyta tvarka taikant dvikalbį (lietuvių kalba ir kita kalba) mokymą.“
 
-\#### 4 straipsnis. 14 straipsnio pakeitimas
+## 4 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -156,7 +156,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 4) pradėti vykdyti formaliojo profesinio mokymo programą ar jos modulį per vienus metus nuo licencijos išdavimo dienos.“
 
-\#### 5 straipsnis. 17 straipsnio pakeitimas
+## 5 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -166,13 +166,13 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 „19. Profesinio mokymo įstaigos dalininkas gali būti fizinis arba juridinis asmuo ar juridinio asmens statuso neturinti valstybės narės organizacija.“
 
-\#### 6 straipsnis. 36 straipsnio pakeitimas
+## 6 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Valstybės finansuojamose profesinio mokymo vietose pagal tęstinio profesinio mokymo programas mokęsi asmenys, kai profesinį mokymą jie nutraukė savo noru arba su jais profesinio mokymo sutartis buvo nutraukta ją pažeidus, švietimo, mokslo ir sporto ministro nustatyta tvarka privalo į valstybės biudžetą grąžinti profesiniam mokymui skirtas lėšas arba jų dalį.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 8 dalį, įsigalioja 2026 m. rugsėjo 1 d.
 

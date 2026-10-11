@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/77def150a54511eea5a28c81c82193a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77DEF150A545.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymas
@@ -26,11 +26,11 @@ SOCIALINIŲ PASLAUGŲ ĮSTATYMO NR. X-493 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 19 straipsnio pakeitimas
+## 1 straipsnis. 19 straipsnio pakeitimas
 
 Pripažinti netekusia galios 19 straipsnio 8 dalį.
 
-\#### 2 straipsnis. įstatymo papildymas nauju 191 straipsniu
+## 2 straipsnis. įstatymo papildymas nauju 191 straipsniu
 
 Papildyti Įstatymą nauju 19^1straipsniu:
 
@@ -56,11 +56,11 @@ Papildyti Įstatymą nauju 19^1straipsniu:
 
 10. Socialinių paslaugų įstaigos vadovą į pareigas priimantis asmuo privalo įsitikinti, kad į socialinių paslaugų įstaigos vadovo pareigas būtų priimti tik nepriekaištingos reputacijos reikalavimus atitinkantys asmenys.“
 
-\#### 3 straipsnis. Įstatymo 191–193 straipsnių pernumeravimas
+## 3 straipsnis. Įstatymo 191–193 straipsnių pernumeravimas
 
 buvusius Įstatymo 19^1–19^3 straipsnius laikyti atitinkamai 19^2–19^4 straipsniais.
 
-\#### 4 straipsnis. Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 nauja redakcija
+## 4 straipsnis. Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 nauja redakcija
 
 Pakeisti Lietuvos Respublikos socialinių paslaugų įstatymą Nr. X-493 ir jį išdėstyti taip:
 
@@ -70,15 +70,15 @@ Pakeisti Lietuvos Respublikos socialinių paslaugų įstatymą Nr. X-493 ir jį 
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas apibrėžia socialinių paslaugų sampratą, jų tikslus ir rūšis, reglamentuoja socialinių paslaugų valdymą, skyrimą ir teikimą, socialinės globos įstaigų licencijavimą, socialinių paslaugų akreditavimą, finansavimą, mokėjimą už socialines paslaugas, ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimą, socialinio darbo sampratą, jo įgyvendinimo sritis ir principus, socialinio darbo lygmenis.
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Asmuo su sunkia negalia:
 
@@ -146,13 +146,13 @@ Pakeisti Lietuvos Respublikos socialinių paslaugų įstatymą Nr. X-493 ir jį 
 
 30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
 
-\#### 3 straipsnis. Socialinių paslaugų samprata ir tikslai
+## 3 straipsnis. Socialinių paslaugų samprata ir tikslai
 
 1. Socialinėmis paslaugomis siekiama socialinių problemų ir (ar) socialinės rizikos asmeniui (šeimai) ir (ar) bendruomenei atsiradimo prevencijos ir (ar) suteikiama pagalba asmeniui (šeimai), dėl amžiaus, negalios, socialinės rizikos, socialinių problemų iš dalies ar visiškai neturinčiam (neturinčiai) gebėjimų (jų neturėjusiam arba jų turėjusiam, bet praradusiam) ar galimybių savarankiškai rūpintis savo (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
 
 2. Socialinių paslaugų tikslas – padėti asmeniui (šeimai) ir (ar) bendruomenei išvengti socialinių problemų ir (ar) socialinės rizikos atsiradimo, sudaryti sąlygas asmeniui (šeimai) ugdyti ir (ar) stiprinti gebėjimus savarankiškai spręsti socialines problemas, palaikyti socialinius ryšius su visuomene, didinti jų socialinę įtrauktį.
 
-\#### 4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai
+## 4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai
 
 Socialinės paslaugos valdomos, skiriamos ir teikiamos vadovaujantis šiais principais:
 
@@ -180,7 +180,7 @@ Socialinės paslaugos valdomos, skiriamos ir teikiamos vadovaujantis šiais prin
 
 12) partnerystės. Savivaldybių institucijos, organizuodamos socialines paslaugas, įtraukia savivaldybės teritorijoje veikiančius socialinių paslaugų teikėjus į socialinių paslaugų planavimą, teikimą ir stebėseną.
 
-\#### 5 straipsnis. Teisė į socialines paslaugas
+## 5 straipsnis. Teisė į socialines paslaugas
 
 Gauti socialines paslaugas turi teisę:
 
@@ -190,15 +190,15 @@ Gauti socialines paslaugas turi teisę:
 
 3) kiti asmenys Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais.
 
-\#### 6 straipsnis. Asmens duomenų tvarkymas
+## 6 straipsnis. Asmens duomenų tvarkymas
 
 1. Asmens duomenys socialinių paslaugų valdymo, skyrimo, teikimo, informavimo apie savivaldybės teritorijoje teikiamas socialines paslaugas ir jų teikėjus, budinčio globotojo ar nuolatinio globotojo vykdomos likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūros, socialinių paslaugų srities darbuotojų reguliacijos vykdymo, ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimo, socialinių paslaugų apskaitos ir (ar) atskaitomybės tikslais tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Reglamentu (ES) 2016/679, jų saugojimo terminai nustatomi šio įstatymo įgyvendinamuosiuose teisės aktuose.
 
 2. Socialinių paslaugų įstaigos ir socialines paslaugas teikiantys fiziniai asmenys šio straipsnio 1 dalyje nurodytais tikslais tvarko asmens duomenis, įskaitant specialių kategorijų asmens duomenis, susijusius su asmens sveikatos būkle (diagnozuotos ligos, gydymas, medikamentai, neįgalumo ar dalyvumo lygis), vadovaudamiesi Reglamentu (ES) 2016/679, Asmens duomenų teisinės apsaugos įstatymu ir kitais asmens duomenų apsaugą ir tvarkymą reglamentuojančiais teisės aktais.
 
-\### ANTRASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ RŪŠYS
+ANTRASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ RŪŠYS
 
-\#### 7 straipsnis. Socialinių paslaugų rūšys ir turinys
+## 7 straipsnis. Socialinių paslaugų rūšys ir turinys
 
 1. Socialinės paslaugos yra:
 
@@ -210,7 +210,7 @@ Gauti socialines paslaugas turi teisę:
 
 2. Socialines paslaugas, jų turinį (apibrėžtį, gavėjus, paslaugos teikimo vietą, trukmę ir dažnumą, paslaugos sudėtį, paslaugas teikiančių specialistų kategorijas, paslaugos teikimo ypatumus), socialinių paslaugų teikėjus, socialinių paslaugų įstaigų tipus apibrėžia socialinių paslaugų katalogas, tvirtinamas socialinės apsaugos ir darbo ministro.
 
-\#### 8 straipsnis. Prevencinės socialinės paslaugos
+## 8 straipsnis. Prevencinės socialinės paslaugos
 
 1. Prevencinės socialinės paslaugos teikiamos visiems asmenims (šeimoms) ir (ar) bendruomenėms, siekiantiems (siekiančioms) stiprinti asmens (šeimos) gebėjimą savarankiškai rūpintis savo (šeimos) gyvenimu, skatinti asmens (šeimos) dalyvavimą visuomenės gyvenime, bendruomenės socialinį aktyvumą ir socialinę įtrauktį, taip pat gilinti asmens (šeimos) žinias ir ugdyti jo (jos) įgūdžius, kad ateityje būtų išvengta galimų socialinių problemų ir socialinės rizikos atsiradimo.
 
@@ -218,13 +218,13 @@ Gauti socialines paslaugas turi teisę:
 
 3. Socialinės apsaugos ir darbo ministras nustato prevencinių socialinių paslaugų organizavimo ir teikimo tvarką.
 
-\#### 9 straipsnis. Bendrosios socialinės paslaugos
+## 9 straipsnis. Bendrosios socialinės paslaugos
 
 1. Bendrosios socialinės paslaugos teikiamos asmeniui (šeimai), kurio gebėjimai savarankiškai rūpintis savo (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime gali būti ugdomi ar kompensuojami atskiromis, be nuolatinės specialistų pagalbos teikiamomis paslaugomis.
 
 2. Bendrosioms socialinėms paslaugoms priskiriamos konsultavimo, tarpininkavimo ir atstovavimo, transporto organizavimo, maitinimo organizavimo, aprūpinimo būtiniausiais drabužiais ir avalyne ir kitos paslaugos, numatytos socialinės apsaugos ir darbo ministro tvirtinamame socialinių paslaugų kataloge.
 
-\#### 10 straipsnis. Specialiosios socialinės paslaugos
+## 10 straipsnis. Specialiosios socialinės paslaugos
 
 1. Specialiosios socialinės paslaugos teikiamos asmeniui (šeimai), kurio (-ios) gebėjimams savarankiškai rūpintis savo (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime ugdyti ar jiems kompensuoti prevencinių ir (ar) bendrųjų socialinių paslaugų neužtenka.
 
@@ -240,15 +240,15 @@ Gauti socialines paslaugas turi teisę:
 
 4. Socialinė globa pagal trukmę skirstoma į dienos, trumpalaikę ir ilgalaikę.
 
-\#### 11 straipsnis. Pagalbos pinigai
+## 11 straipsnis. Pagalbos pinigai
 
 1. Savivaldybės tarybos nustatytais atvejais, kai vaikus prižiūri ar juos globoja (jais rūpinasi) vaikus globojančios šeimos, šeimynos, budintys globotojai ar nuolatiniai globotojai arba kai bendrąsias socialines paslaugas ir socialinę priežiūrą asmeniui (šeimai) veiksmingiau organizuoti pinigais, vaikus globojančiai šeimai, šeimynai, budintiems globotojams ar nuolatiniams globotojams per globos centrą arba asmeniui (šeimai) gali būti mokama piniginė išmoka – pagalbos pinigai.
 
 2. Pagalbos pinigų dydžio nustatymas ir jų mokėjimas reglamentuojamas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos tvirtinamame mokėjimo už socialines paslaugas tvarkos apraše.
 
-\### TREČIASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ VALDYMAS
+TREČIASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ VALDYMAS
 
-\#### 12 straipsnis. Socialinių paslaugų valdymas ir valdymo subjektai
+## 12 straipsnis. Socialinių paslaugų valdymas ir valdymo subjektai
 
 1. Socialinių paslaugų valdymas apima socialinių paslaugų planavimą, teikimo organizavimą, socialinių paslaugų kokybės vertinimą bei socialinių paslaugų teikėjų veiklos priežiūrą valstybės ir savivaldybės lygmenimis.
 
@@ -260,7 +260,7 @@ Gauti socialines paslaugas turi teisę:
 
 3) Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Socialinių paslaugų priežiūros departamentas).
 
-\#### 13 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija
+## 13 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija
 
 Socialinės apsaugos ir darbo ministerija:
 
@@ -272,7 +272,7 @@ Socialinės apsaugos ir darbo ministerija:
 
 4) dalyvauja rengiant Nacionalinį pažangos planą, kuriame nustatomi strateginiai socialinių paslaugų politikos tikslai ir (ar) uždaviniai. Rengia nacionalines plėtros programas, kuriomis įgyvendinami šios politikos pažangos uždaviniai, ir teikia jas Vyriausybei tvirtinti, numato priemones šiems uždaviniams įgyvendinti, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą.
 
-\#### 14 straipsnis. Savivaldybės institucijų ir kitų administravimo subjektų kompetencija
+## 14 straipsnis. Savivaldybės institucijų ir kitų administravimo subjektų kompetencija
 
 1. Savivaldybės institucijos atsako už socialinių paslaugų teikimo savivaldybės gyventojams užtikrinimą planuodamos socialines paslaugas, organizuodamos jų teikimą, vertindamos prevencinių, bendrųjų socialinių paslaugų, socialinės priežiūros ir laikino atokvėpio paslaugos kokybę.
 
@@ -320,7 +320,7 @@ Socialinės apsaugos ir darbo ministerija:
 
 6. Socialinių paslaugų įstaigos, sudariusios sutartis dėl duomenų teikimo SPIS, teikia SPIS šio straipsnio 5 dalies 7 punkte nurodytus duomenis.
 
-\#### 15 straipsnis. Socialinių paslaugų priežiūros departamento kompetencija
+## 15 straipsnis. Socialinių paslaugų priežiūros departamento kompetencija
 
 Socialinių paslaugų priežiūros departamentas:
 
@@ -346,13 +346,13 @@ Socialinių paslaugų priežiūros departamentas:
 
 11) atlieka įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
-\#### 16 straipsnis. Valstybės duomenų agentūros kompetencija
+## 16 straipsnis. Valstybės duomenų agentūros kompetencija
 
 Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos ir darbo ministerija suderintą statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas.
 
-\### KETVIRTASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ SKYRIMAS
+KETVIRTASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ SKYRIMAS
 
-\#### 17 straipsnis. Kreipimasis dėl socialinių paslaugų skyrimo asmeniui (šeimai)
+## 17 straipsnis. Kreipimasis dėl socialinių paslaugų skyrimo asmeniui (šeimai)
 
 1. Dėl socialinių paslaugų, kurios finansuojamos iš savivaldybės biudžeto lėšų ar iš valstybės biudžeto dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, aprūpintojas savivaldybės mero nustatyta tvarka rašytiniu prašymu kreipiasi į asmens (šeimos) gyvenamosios vietos savivaldybės administraciją ar socialinių paslaugų įstaigą.
 
@@ -364,7 +364,7 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 5. Kreipimosi dėl socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, asmeniui (šeimai) tvarka reglamentuojama socialinės apsaugos ir darbo ministro tvirtinamame asmens (šeimos) socialinių paslaugų poreikio nustatymo, skyrimo ir organizavimo tvarkos apraše.
 
-\#### 18 straipsnis. Asmens (šeimos) socialinių paslaugų poreikio nustatymas
+## 18 straipsnis. Asmens (šeimos) socialinių paslaugų poreikio nustatymas
 
 1. Asmens socialinių paslaugų poreikis, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, laikino atokvėpio paslaugą, nustatomas individualiai pagal asmens savarankiškumą bei galimybes jį ugdyti ar kompensuoti jo interesus ir poreikius atitinkančiomis socialinėmis paslaugomis.
 
@@ -382,7 +382,7 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 8. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikio nustatymo, socialinių paslaugų skyrimo, sustabdymo ir nutraukimo, jų organizavimo tvarka reglamentuojama socialinės apsaugos ir darbo ministro tvirtinamuose asmens (šeimos) socialinių paslaugų poreikio nustatymo, skyrimo ir organizavimo tvarkos apraše bei vaiko su negalia, suaugusio asmens su negalia, senyvo amžiaus asmens socialinės globos poreikio nustatymo metodikose.
 
-\#### 19 straipsnis. Sprendimas dėl socialinių paslaugų asmeniui (šeimai) skyrimo, jų teikimo sustabdymo ir nutraukimo
+## 19 straipsnis. Sprendimas dėl socialinių paslaugų asmeniui (šeimai) skyrimo, jų teikimo sustabdymo ir nutraukimo
 
 1. Sprendimas dėl socialinių paslaugų, kurios finansuojamos iš savivaldybės biudžeto lėšų ar iš valstybės biudžeto dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, asmeniui (šeimai) skyrimo, jų teikimo sustabdymo ir nutraukimo priimamas socialinio darbuotojo ir (ar) savivaldybės administracijos valstybės tarnautojo ar darbuotojo, atitinkančio šio įstatymo 26 straipsnio 6 dalyje nustatytus reikalavimus, teikimu savivaldybės mero nustatyta tvarka.
 
@@ -394,9 +394,9 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 3) savivaldybės administracija, kuri priėmė sprendimą dėl ilgalaikės (trumpalaikės) socialinės globos skyrimo, – dėl socialinių paslaugų asmenims, kurie jau gauna ilgalaikę (trumpalaikę) socialinę globą, skyrimo, arba savivaldybės administracija, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta iki jo apsigyvenimo socialinės globos įstaigoje, – dėl ilgalaikės (trumpalaikės) socialinės globos skyrimo.
 
-\### PENKTASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ TEIKIMAS
+PENKTASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ TEIKIMAS
 
-\#### 20 straipsnis. Bendrosios socialinių paslaugų teikimo asmeniui (šeimai) nuostatos
+## 20 straipsnis. Bendrosios socialinių paslaugų teikimo asmeniui (šeimai) nuostatos
 
 1. Socialinės paslaugos asmeniui (šeimai) teikiamos atsižvelgiant į individualius jo (jos) interesus ir poreikius, nustatytus pagal šio įstatymo 18 straipsnio nuostatas, padedant asmeniui (šeimai) spręsti socialines problemas ir (ar) jų išvengti ateityje, nuolat vertinant, ar teikiamos socialinės paslaugos leidžia veiksmingai ugdyti ar kompensuoti asmens (šeimos) galimybes ir gebėjimus rūpintis savo (šeimos) gyvenimu ar dalyvauti visuomenės gyvenime.
 
@@ -416,7 +416,7 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 9. Vaikus globojančiai šeimai, globėjams (rūpintojams), budintiems globotojams ar nuolatiniams globotojams, įtėviams (įtėvių prašymu) ir šeimynų dalyviams ar besirengiantiems jais tapti asmenims kiekvienoje savivaldybėje socialinės apsaugos ir darbo ministro nustatyta tvarka globos centro specialistai nuolat teikia pagalbą, padedančią užtikrinti visapusį jų prižiūrimų, globojamų (rūpinamų) ar įvaikintų vaikų vystymąsi ir ugdymą.
 
-\#### 21 straipsnis. Socialinių paslaugų teikėjai
+## 21 straipsnis. Socialinių paslaugų teikėjai
 
 1. Prevencines ir bendrąsias socialines paslaugas teikia socialinių paslaugų įstaigos, kurių veiklos sritis – socialinių paslaugų teikimas. Socialinių paslaugų įstaigų teikiamos socialinės paslaugos turi atitikti prevencinėms ir bendrosioms socialinėms paslaugoms keliamus reikalavimus, nustatytus socialinės apsaugos ir darbo ministro tvirtinamame socialinių paslaugų kataloge.
 
@@ -476,7 +476,7 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 2) atsisakyti dirbti su agresyviai besielgiančiu asmeniu (šeima), jeigu toks asmens (šeimos) elgesys kelia grėsmę jo sveikatai ir (ar) gyvybei ir jeigu darbdavys neužtikrina dar bent vieno socialinių paslaugų srities darbuotojo dalyvavimo.
 
-\#### 22 straipsnis. Socialinių paslaugų įstaigų vadovai
+## 22 straipsnis. Socialinių paslaugų įstaigų vadovai
 
 1. Valstybės ir savivaldybių biudžetinių socialinių paslaugų įstaigų ir viešųjų socialinių paslaugų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė (toliau šiame straipsnyje – viešoji socialinių paslaugų įstaiga), vadovai į pareigas priimami konkurso būdu penkerių metų kadencijai, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, kai socialinių paslaugų įstaigos vadovas be konkurso skiriamas antrajai kadencijai. Konkursai į valstybės ir savivaldybių biudžetinių socialinių paslaugų įstaigų ir viešųjų socialinių paslaugų įstaigų vadovų pareigas organizuojami ir vykdomi Vyriausybės nustatyta tvarka.
 
@@ -498,7 +498,7 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 10. Socialinių paslaugų įstaigos vadovą į pareigas priimantis asmuo privalo įsitikinti, kad į socialinių paslaugų įstaigos vadovo pareigas būtų priimti tik nepriekaištingos reputacijos reikalavimus atitinkantys asmenys.
 
-\#### 23 straipsnis. Budinčio globotojo ar nuolatinio globotojo vykdoma likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūra
+## 23 straipsnis. Budinčio globotojo ar nuolatinio globotojo vykdoma likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūra
 
 1. Budintis globotojas vienu metu negali prižiūrėti daugiau kaip 3 likusių be tėvų globos vaikų ir (ar) socialinę riziką patiriančių vaikų (toliau šiame straipsnyje – prižiūrimas vaikas, vaikas). Bendras vaikų (su kitais šeimoje augančiais vaikais) skaičius budinčio globotojo šeimoje – ne daugiau kaip 6. Bendras vaikų skaičius gali būti didesnis, jeigu neišskiriami broliai ir seserys ir (ar) nepilnametis tėvas (motina) su vaiku (vaikais), jei vaikas (vaikai) gimė tėvo (motinos) priežiūros pas budintį globotoją metu.
 
@@ -598,7 +598,7 @@ Valstybės duomenų agentūra kiekvienais metais pagal su Socialinės apsaugos i
 
 14. Socialinės apsaugos ir darbo ministras tvirtina globos centro veiklos aprašą.
 
-\#### 24 straipsnis. Globos centro funkcijos, susijusios su vaikų globa (rūpyba)
+## 24 straipsnis. Globos centro funkcijos, susijusios su vaikų globa (rūpyba)
 
 Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
@@ -614,7 +614,7 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 6) teikia kitas teisės aktuose numatytas paslaugas, susijusias su vaikų globa (rūpyba).
 
-\#### 25 straipsnis. Bendruomeninių šeimos namų veikla ir funkcijos
+## 25 straipsnis. Bendruomeninių šeimos namų veikla ir funkcijos
 
 1. Bendruomeniniai šeimos namai vieno langelio principu organizuoja, o prireikus ir teikia asmeniui (šeimai) kompleksines paslaugas šeimai kuo arčiau asmens (šeimos) gyvenamosios vietos arba asmens (šeimos) gyvenamojoje vietoje.
 
@@ -636,7 +636,7 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 4. Metodinę pagalbą dėl kompleksinių paslaugų šeimai organizavimo ir (ar) teikimo, jų kokybės gerinimo teikia ir gerąja patirtimi teikiant šias paslaugas dalijasi Metodinis kompleksinių paslaugų šeimai centras socialinės apsaugos ir darbo ministro nustatyta tvarka.
 
-\#### 26 straipsnis. Socialinis darbas
+## 26 straipsnis. Socialinis darbas
 
 1. Socialinis darbas yra į praktinę veiklą orientuota profesinė veikla, įgalinanti asmenis, šeimas, asmenų (šeimų) grupes ir bendruomenes spręsti tarpusavio santykių, socialines problemas ir (ar) išvengti galimų socialinių problemų ateityje, skatinanti socialinę kaitą, gerinanti gyvenimo kokybę, užtikrinanti žmogaus teises, didinanti socialinę įtrauktį ir stiprinanti solidarumą bei socialinį teisingumą.
 
@@ -696,7 +696,7 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 12. Šio straipsnio 6 dalyje nustatyti reikalavimai netaikomi iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos ne ilgiau kaip 2 metams į Lietuvos Respubliką komandiruojamam socialiniam darbuotojui, jeigu jis atitinka darbovietės, iš kurios yra siunčiamas, įsisteigimo reikalavimus, nustatytus tos valstybės teisės aktuose.
 
-\#### 27 straipsnis. Socialinių paslaugų srities darbuotojų reguliacija
+## 27 straipsnis. Socialinių paslaugų srities darbuotojų reguliacija
 
 1. Socialinių paslaugų srities darbuotojų reguliacija apima visumą veiksmų ir (ar) priemonių, padedančių vykdyti socialinį darbą, kaip profesinę veiklą, laikytis Socialinių paslaugų srities darbuotojų etikos kodekso nuostatų ir socialinio darbo įgyvendinimo principų, užtikrinti socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimą įvairiose socialinio darbo įgyvendinimo srityse.
 
@@ -710,7 +710,7 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 3. Laikas, skirtas socialinių paslaugų srities darbuotojų kompetencijai tobulinti, kaip nurodyta šio straipsnio 2 dalyje, įskaitomas į jų darbo laiką, mokant darbo užmokestį. Mokymai ir supervizija apmokami darbdavio lėšomis.
 
-\#### 28 straipsnis. Socialinių paslaugų srities darbuotojų reguliaciją vykdantys subjektai ir jų kompetencija
+## 28 straipsnis. Socialinių paslaugų srities darbuotojų reguliaciją vykdantys subjektai ir jų kompetencija
 
 1. Socialinių paslaugų srities darbuotojų reguliaciją vykdo Lietuvos socialinio darbo taryba, Socialinių paslaugų priežiūros departamentas, Socialinių paslaugų srities darbuotojų etikos komisija (toliau šiame straipsnyje – Etikos komisija), socialinės apsaugos ir darbo ministro nustatyta tvarka atrinktas juridinis asmuo ar kita organizacija, jų padalinys, kuris organizuoja ir (ar) vykdo socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimą.
 
@@ -734,9 +734,9 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 7. Socialinės apsaugos ir darbo ministro nustatyta tvarka atrinktas juridinis asmuo ar kita organizacija, jų padalinys organizuoja ir (ar) vykdo socialinių darbuotojų ir kitų socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimą socialinės apsaugos ir darbo ministro nustatyta tvarka.
 
-\### ŠEŠTASIS SKIRSNIS. SOCIALINĖS GLOBOS ĮSTAIGŲ LICENCIJAVIMAS IR SOCIALINĖS PRIEŽIŪROS, LAIKINO ATOKVĖPIO PASLAUGOS AKREDITAVIMAS
+ŠEŠTASIS SKIRSNIS. SOCIALINĖS GLOBOS ĮSTAIGŲ LICENCIJAVIMAS IR SOCIALINĖS PRIEŽIŪROS, LAIKINO ATOKVĖPIO PASLAUGOS AKREDITAVIMAS
 
-\#### 29 straipsnis. Veiklos licencijos
+## 29 straipsnis. Veiklos licencijos
 
 1. Teikti socialinę globą socialinės globos įstaigoje (toliau – institucinė socialinė globa) arba asmens namuose galima tik turint licenciją.
 
@@ -758,7 +758,7 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 4. Socialinės apsaugos ir darbo ministras tvirtina Socialinės globos įstaigų licencijavimo taisykles (toliau – licencijavimo taisyklės), kuriose nustatoma licencijų išdavimo, patikslinimo, atsisakymo jas išduoti, licencijų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarka.
 
-\#### 30 straipsnis. Licencijos išdavimo sąlygos
+## 30 straipsnis. Licencijos išdavimo sąlygos
 
 1. Licencija išduodama socialinės globos įstaigai, kuri atitinka šiuos reikalavimus, išskyrus šio straipsnio 2 dalyje nurodytą atvejį:
 
@@ -786,7 +786,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 5. Sprendimo dėl licencijos išdavimo ar atsisakymo išduoti šią licenciją nepriėmimas per šio straipsnio 4 dalyje nustatytą terminą nelaikomas licencijos išdavimu.
 
-\#### 31 straipsnis. Atsisakymas išduoti licenciją, licencijos galiojimo sustabdymas, jos galiojimo sustabdymo panaikinimas ir licencijos galiojimo panaikinimas
+## 31 straipsnis. Atsisakymas išduoti licenciją, licencijos galiojimo sustabdymas, jos galiojimo sustabdymo panaikinimas ir licencijos galiojimo panaikinimas
 
 1. Socialinių paslaugų priežiūros departamentas atsisako išduoti licenciją, jeigu:
 
@@ -832,7 +832,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 14. Jeigu Socialinių paslaugų priežiūros departamentas nustato, kad socialinės globos įstaiga, kuriai licencija išduota taikant šio įstatymo 30 straipsnio 2 dalį, neatitinka visų ar dalies šio įstatymo 30 straipsnio 2 dalyje nustatytų reikalavimų, po 6 mėnesių nuo šios licencijos išdavimo dienos – socialinės apsaugos ir darbo ministro tvirtinamame socialinę globą teikiančių darbuotojų darbo laiko sąnaudų normatyvų sąraše nustatytų socialinę globą teikiančių darbuotojų struktūros ir skaičiaus reikalavimų, o po 24 mėnesių nuo šios licencijos išdavimo dienos – ir šio įstatymo 32 straipsnio 1 dalies 3 punkte bei socialinės apsaugos ir darbo ministro tvirtinamame socialinės globos normų apraše nustatytų likusių be tėvų globos vaikų socialinės globos reikalavimų, teikiant įspėjimą socialinės globos įstaigai, kad per nustatytą terminą nepašalinus nurodytų trūkumų, licencijos galiojimas bus sustabdytas, šalinant nustatytus institucinės socialinės globos teikimo pažeidimus, stabdant šios licencijos galiojimą ar ją panaikinant, mutatis mutandis taikomos šio straipsnio 2–13 dalių nuostatos.
 
-\#### 32 straipsnis. Licencijos turėtojo teisės ir pareigos
+## 32 straipsnis. Licencijos turėtojo teisės ir pareigos
 
 1. Socialinės globos įstaiga, teikdama socialinę globą, privalo:
 
@@ -864,7 +864,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 3. Licencijos turėtojas neturi teisės įgalioti kitų asmenų teikti šioje licencijoje nurodytą socialinę globą ar pagal sutartį perduoti jiems teisę teikti šioje licencijoje nurodytą socialinę globą.
 
-\#### 33 straipsnis. Teisės teikti akredituotą socialinę priežiūrą, laikino atokvėpio paslaugą suteikimas, šios teisės galiojimo panaikinimas
+## 33 straipsnis. Teisės teikti akredituotą socialinę priežiūrą, laikino atokvėpio paslaugą suteikimas, šios teisės galiojimo panaikinimas
 
 1. Socialinė priežiūra, laikino atokvėpio paslauga yra akredituojamos socialinės paslaugos.
 
@@ -904,7 +904,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 11. Teikėjas kartu su Socialinės apsaugos ir darbo ministerija ir savivaldybės, kurioje priimtas sprendimas dėl akredituotų socialinių paslaugų skyrimo, ir (ar) savivaldybės, kurios teritorijoje veikia teikėjas, administracija koordinuoja socialinių paslaugų gavėjams reikalingų ir geriausiai jų socialinių paslaugų poreikius atitinkančių paslaugų tęstinumo užtikrinimą ir interesų apsaugą, kai panaikinamas teisės teikti akredituotas socialines paslaugas galiojimas ar nustatoma, kad akredituotos socialinės paslaugos teikiamos neturint šios teisės ar nesilaikant šio straipsnio 5 dalyje nustatytų reikalavimų.
 
-\#### 34 straipsnis. Akredituotų socialinių paslaugų teikėjų teisės ir pareigos
+## 34 straipsnis. Akredituotų socialinių paslaugų teikėjų teisės ir pareigos
 
 1. Teikėjas privalo:
 
@@ -924,9 +924,9 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 3. Teikėjas neturi teisės įgalioti kitų asmenų teikti akredituotas socialines paslaugas ar pagal sutartį perduoti jiems teisę teikti akredituotas socialines paslaugas.
 
-\### SEPTINTASIS SKIRSNIS. MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
+SEPTINTASIS SKIRSNIS. MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 
-\#### 35 straipsnis. Bendrosios mokėjimo už socialines paslaugas nuostatos
+## 35 straipsnis. Bendrosios mokėjimo už socialines paslaugas nuostatos
 
 1. Mokėjimo už socialines paslaugas dydis nustatomas atsižvelgiant į socialinių paslaugų, teikiamų asmeniui (šeimai), rūšį, į asmens (šeimos) pajamas, turtą, įvertinus asmens (šeimos) finansines galimybes.
 
@@ -948,7 +948,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 10. Šio skirsnio nuostatos taikomos mokant už socialines paslaugas, kurias planuoja ir savivaldybės teritorijos gyventojams organizuoja savivaldybės meras ir kurios finansuojamos iš savivaldybės biudžeto lėšų ar iš valstybės biudžeto dotacijų savivaldybių biudžetams.
 
-\#### 36 straipsnis. Asmens (šeimos) finansinių galimybių vertinimas
+## 36 straipsnis. Asmens (šeimos) finansinių galimybių vertinimas
 
 1. Asmuo (vienas iš suaugusių šeimos narių), pageidaujantis gauti socialines paslaugas, ar jo globėjas, rūpintojas, aprūpintojas turi pateikti informaciją apie asmens (šeimos) turimas pajamas, išvardytas šio įstatymo 39 straipsnyje (pajamų sumas).
 
@@ -958,7 +958,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 4. Asmuo (vienas iš suaugusių šeimos narių), gaunantis socialines paslaugas, ar jo globėjas, rūpintojas privalo pranešti savivaldybės administracijai apie asmens (šeimos) pajamų, turto pasikeitimus, įvykusius per šių paslaugų gavimo laikotarpį ar per laikotarpį nuo asmens (šeimos) finansinių galimybių įvertinimo iki šių paslaugų suteikimo.
 
-\#### 37 straipsnis. Mokėjimo už prevencines ir bendrąsias socialines paslaugas dydis
+## 37 straipsnis. Mokėjimo už prevencines ir bendrąsias socialines paslaugas dydis
 
 1. Prevencinės socialinės paslaugos, kurios finansuojamos iš savivaldybės biudžeto lėšų ar iš valstybės biudžeto dotacijų savivaldybių biudžetams arba iš Europos Sąjungos struktūrinių fondų lėšų, teikiamos nemokamai.
 
@@ -966,7 +966,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 
 3. Mokėjimo už transporto organizavimo ir maitinimo organizavimo paslaugas dydis nustatomas ir apskaičiuojamas savivaldybės tarybos nustatyta tvarka.
 
-\#### 38 straipsnis. Mokėjimo už specialiąsias socialines paslaugas dydis
+## 38 straipsnis. Mokėjimo už specialiąsias socialines paslaugas dydis
 
 1. Mokėjimas už socialinę priežiūrą:
 
@@ -1010,7 +1010,7 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 5. Jeigu asmuo gauna individualios pagalbos teikimo išlaidų kompensaciją, mokamą pagal Tikslinių kompensacijų įstatymą, mokėjimo už šio straipsnio 4 dalyje nurodytas paslaugas dydis neturi viršyti 40 procentų šios kompensacijos dydžio, kai asmeniui nustatytas pirmo ar antro lygio individualios pagalbos teikimo išlaidų kompensacijos poreikis, arba 60 procentų šios kompensacijos dydžio, kai asmeniui nustatytas trečio arba ketvirto lygio individualios pagalbos teikimo išlaidų kompensacijos poreikis.
 
-\#### 39 straipsnis. Asmens (šeimos) pajamos ir jų apskaičiavimas
+## 39 straipsnis. Asmens (šeimos) pajamos ir jų apskaičiavimas
 
 1. Nustatant asmens finansines galimybes, į jo gaunamas pajamas įskaitomos šios pajamos:
 
@@ -1062,7 +1062,7 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 6. Jeigu suaugęs asmuo su negalia ar vaikas su negalia gauna individualios pagalbos teikimo išlaidų kompensaciją, mokamą pagal Tikslinių kompensacijų įstatymą, nustatant asmens finansines galimybes (kai skiriama ir teikiama socialinė priežiūra, dienos socialinė globa), į jo pajamas įskaitomos tik šio straipsnio 1 dalies 7 punkte nurodytos pajamos.
 
-\#### 40 straipsnis. Asmens turtas ir jo apskaičiavimas, turto vertės normatyvo nustatymas
+## 40 straipsnis. Asmens turtas ir jo apskaičiavimas, turto vertės normatyvo nustatymas
 
 1. Nustatant asmens finansines galimybes (kai asmeniui skiriama ar teikiama ilgalaikė socialinė globa), įskaitomas šis asmens nuosavybės teise turimas ar per praėjusius 24 mėnesius iki kreipimosi dėl socialinių paslaugų skyrimo ar asmens finansinių galimybių vertinimo turėtas turtas:
 
@@ -1084,9 +1084,9 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 7. Turto vertės normatyvui nustatyti taikomos valstybės įmonės Registrų centro nustatomos ir šios įmonės interneto svetainėje skelbiamos nekilnojamojo turto ploto vieneto normatyvinės vertės piniginei socialinei paramai nepasiturintiems gyventojams gauti pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose ir savivaldybių centruose, kitose savivaldybių teritorijose.
 
-\### AŠTUNTASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ FINANSAVIMAS
+AŠTUNTASIS SKIRSNIS. SOCIALINIŲ PASLAUGŲ FINANSAVIMAS
 
-\#### 41 straipsnis. Bendrosios socialinių paslaugų finansavimo nuostatos
+## 41 straipsnis. Bendrosios socialinių paslaugų finansavimo nuostatos
 
 1. Socialinės paslaugos finansuojamos iš valstybės, savivaldybių biudžetų lėšų, socialinių paslaugų įstaigų lėšų, Europos Sąjungos struktūrinių fondų, užsienio fondų, paramos (aukų), asmens (šeimos) mokėjimų už socialines paslaugas ir kitų lėšų.
 
@@ -1102,7 +1102,7 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 7. Jeigu asmeniui teikiama socialinė globa grupinio gyvenimo namuose ar šeiminiuose namuose ir jam nustatytas socialinės priežiūros paslaugų poreikis arba jam reikalingos prevencinės socialinės paslaugos, šių paslaugų teikimas finansuojamas iš tos savivaldybės biudžeto lėšų ir (ar) iš valstybės biudžeto dotacijų savivaldybės, kurios administracija priėmė sprendimą dėl socialinės globos skyrimo, biudžetui.
 
-\#### 42 straipsnis. Savivaldybės institucijų planuojamų ir savivaldybės gyventojams organizuojamų socialinių paslaugų finansavimo šaltiniai
+## 42 straipsnis. Savivaldybės institucijų planuojamų ir savivaldybės gyventojams organizuojamų socialinių paslaugų finansavimo šaltiniai
 
 1. Prevencinės socialinės paslaugos, išskyrus kompleksines paslaugas šeimai, atvirąjį darbą su jaunimu ir mobilųjį darbą su jaunimu, finansuojamos iš savivaldybių biudžetų lėšų. Kompleksinės paslaugos šeimai, jų organizavimas ir teikimas, atvirasis darbas su jaunimu, mobilusis darbas su jaunimu finansuojami iš Europos Sąjungos struktūrinių fondų lėšų ir (ar) valstybės biudžeto dotacijų savivaldybių biudžetams, ir (ar) savivaldybių biudžetų lėšų.
 
@@ -1124,9 +1124,9 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 10. Valstybės biudžeto dotacijų savivaldybių biudžetams panaudojimą socialinėms paslaugoms finansuoti reglamentuoja Vyriausybės ar jos įgaliotos institucijos tvirtinama socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika.
 
-\### DEVINTASIS SKIRSNIS. GINČŲ, SUSIJUSIŲ SU SOCIALINĖMIS PASLAUGOMIS, NAGRINĖJIMAS
+DEVINTASIS SKIRSNIS. GINČŲ, SUSIJUSIŲ SU SOCIALINĖMIS PASLAUGOMIS, NAGRINĖJIMAS
 
-\#### 43 straipsnis. Sprendimų, susijusių su socialinėmis paslaugomis, apskundimas
+## 43 straipsnis. Sprendimų, susijusių su socialinėmis paslaugomis, apskundimas
 
 1. Savivaldybės mero nustatyta tvarka paskirtų socialinių darbuotojų, savivaldybės administracijos valstybės tarnautojų ar darbuotojų, atitinkančių šio įstatymo 26 straipsnio 6 dalyje nustatytus reikalavimus, ir (ar) šio įstatymo 18 straipsnio 6 dalyje nurodytų socialinių paslaugų įstaigų socialinių darbuotojų išvadas dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, aprūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės merui.
 
@@ -1174,7 +1174,7 @@ priedas
 
 –––––––––––––––––––––––––––––––“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3–22 dalis ir šio įstatymo 1, 2, 3 straipsnius bei 6 straipsnio 1, 2, 7 ir 8 dalis, įsigalioja 2024 m. liepos 1 d.
 
@@ -1258,7 +1258,7 @@ priedas
 
 „1) teikti socialinę globą, atitinkančią socialinės apsaugos ir darbo ministro tvirtinamame socialinių paslaugų kokybės reikalavimų apraše nustatytus reikalavimus ir socialinės apsaugos ir darbo ministro tvirtinamame socialinę globą teikiančių darbuotojų darbo laiko sąnaudų normatyvų sąraše nustatytus socialinę globą teikiančių darbuotojų struktūros ir skaičiaus reikalavimus;“.
 
-\#### 6 straipsnis. Įstatymo įgyvendinimas ir taikymas
+## 6 straipsnis. Įstatymo įgyvendinimas ir taikymas
 
 1. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, socialinės apsaugos ir darbo ministras:
 
@@ -1300,7 +1300,7 @@ priedas
 
 14. Socialinės globos įstaigos, teikiančios institucinę socialinę globą tik iš užsienio valstybės (-ių), kurią (-ias), Užsienio reikalų ministerijos Socialinių paslaugų priežiūros departamentui pateiktais duomenimis, ištiko humanitarinė krizė, atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams, per 6 mėnesius nuo 2024 m. liepos 1 d. turi užtikrinti, kad būtų laikomasi socialinės apsaugos ir darbo ministro tvirtinamame socialinę globą teikiančių darbuotojų darbo laiko sąnaudų normatyvų sąraše nustatytų socialinę globą teikiančių darbuotojų struktūros ir skaičiaus reikalavimų.
 
-\#### 7 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimas
+## 7 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimas
 
 1. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija atlieka šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyto galiojančio teisinio reguliavimo, susijusio su prevencinėmis socialinėmis paslaugomis ir laikino atokvėpio paslaugomis, poveikio ex post vertinimą (toliau – ex post vertinimas).
 

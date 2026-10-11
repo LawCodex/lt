@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3C07B356A407"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3C07B356A407.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 17 ir 21 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [102-4586](https://www.e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [50-1633](https://www.e-tar.lt/portal/lt/legalAct/TAR.CE002F94C290), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15), Nr. [73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4), Nr. [98-3628](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B246085AC76), Nr. [158-5757](https://www.e-tar.lt/portal/lt/legalAct/TAR.770DDEDE7A78), Nr. [167-6108](https://www.e-tar.lt/portal/lt/legalAct/TAR.50CB57548C2E); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6), Nr. [76-2744](https://www.e-tar.lt/portal/lt/legalAct/TAR.176D8F1C555D), Nr. [81-2943](https://www.e-tar.lt/portal/lt/legalAct/TAR.908201CFCB80), Nr. [88-3293](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A19475ECAFE), Nr. [121-4332](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3513BAA7B85), Nr. [153-5634](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3F7168AFD0D); 2006, Nr. [41-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0E0A0E75030), Nr. [50-1801](https://www.e-tar.lt/portal/lt/legalAct/TAR.1E474A7255C6), Nr. [48-1702](https://www.e-tar.lt/portal/lt/legalAct/TAR.B15884538315))
 
-\#### 1 straipsnis. 6 straipsnio 2 dalies 10, 11, 12, 13, 14 ir 15 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 2 dalies 10, 11, 12, 13, 14 ir 15 punktų pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 „15) grąžinamoms gyvybės draudimo įmokoms pagal nutrauktą gyvybės draudimo sutartį, sudarytą nuo 2004 m. gegužės 1 d. su Europos ekonominės erdvės valstybės narės draudimo įmone, kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui, jeigu sutartis nutraukta ne anksčiau kaip praėjus 10 metų nuo sutarties sudarymo dienos arba jeigu įmokos grąžinamos gyventojui, kuris yra sulaukęs pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, arba gyventojui, kuriam nustatytas 0-25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30-40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai);“.
 
-\#### 2 straipsnis. 17 straipsnio 1 dalies 9, 10 ir 45 punktų pakeitimas
+## 2 straipsnis. 17 straipsnio 1 dalies 9, 10 ir 45 punktų pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
@@ -68,13 +68,13 @@ Vilnius
 
 „45) pasibaigus draudimo sutarties galiojimo terminui gauta gyvybės draudimo išmokų dalis, viršijanti gyvybės draudimo įmokas, sumokėtas pagal gyvybės draudimo sutartis, sudarytas nuo 2004 m. gegužės 1 d. ir vėliau su Europos ekonominės erdvės valstybių narių draudimo įmonėmis, kuriose numatyta, kad draudimo išmoka išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui, jei gyvybės draudimo sutarties terminas yra ne trumpesnis kaip 10 metų arba išmokos gavimo momentu išmokos gavėjas yra sulaukęs pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, arba išmokos gavimo momentu išmokos gavėjui yra nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai), arba išmokos gavėjas yra neįgalus vaikas, kuriam nustatytas specialusis nuolatinės slaugos poreikis (ir iki 18 metų vaikams, kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia), taip pat, nutraukus tokią sutartį, išmokamos sumos dalis, viršijanti pagal šią sutartį sumokėtas gyvybės draudimo įmokas, jeigu sutartis nutraukta ne anksčiau kaip praėjus 10 metų nuo jos sudarymo dienos arba gyventojas yra sulaukęs pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, arba gyventojui yra nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai);“.
 
-\#### 3 straipsnis. 21 straipsnio 1 dalies 2 punkto pakeitimas
+## 3 straipsnis. 21 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 21 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) savo, sutuoktinio bei iki 18 metų ir vyresnių neįgaliųjų vaikų (įvaikių), kuriems nustatytas specialusis nuolatinės slaugos poreikis (iki 18 metų ir vyresnių vaikų (įvaikių), kuriems iki 2005 m. birželio 30 d. buvo nustatyta visiška negalia), naudai sumokėtos pensijų įmokos į pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių Europos ekonominės erdvės valstybėje narėje, turimus pensijų fondus;“.
 
-\#### 4 straipsnis. Įstatymo taikymas
+## 4 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2007 m. ir vėlesnių metų pajamas.
 

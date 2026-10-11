@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.88B95BAFAD55"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88B95BAFAD55.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 2, 4, 6, 10, 12, 16, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 64-1934, Nr. 89-2753)
 
-\#### 1 straipsnis. 2 straipsnio 3 ir 4 dalių pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio 3 ir 4 dalių pakeitimas ir papildymas
 
 1. 2 straipsnio 3 dalies pirmajame sakinyje po žodžio „turtą“ įrašyti žodžius ir skaičius „iki 2001 m. gruodžio 31 d.“, papildyti dalį nauju sakiniu „Neatsižvelgiant į piliečių, kurie pagal sutartį dėl teisės perleidimo įgijo teisę atkurti nuosavybės teises į miesto žemę, skaičių, šios teisės jiems atkuriamos tokiomis pat sąlygomis ir tvarka, kaip jos būtų atkuriamos šių teisių perleidėjui“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Nr. 64-1934, Nr. 89-2753)
 
 „4. Šio straipsnio 1 dalies 4 punkte nurodytiems piliečiams atkuriamos nuosavybės teisės į turto savininko mirusiam vaikui (įvaikiui) tenkančią išlikusio nekilnojamojo turto dalį. Jeigu kiti turto savininko vaikai (įvaikiai), jų sutuoktiniai ir vaikai (įvaikiai) yra taip pat mirę arba šio įstatymo nustatytais terminais nepateikia prašymo atkurti nuosavybės teises, šio straipsnio 1 dalies 4 punkte nurodytų piliečių prašymu gali būti atkuriamos nuosavybės teisės į visą savininko išlikusį nekilnojamąjį turtą.“
 
-\#### 2 straipsnis. 4 straipsnio 2, 3, 11 dalių pakeitimas ir straipsnio papildymas 13 dalimi
+## 2 straipsnis. 4 straipsnio 2, 3, 11 dalių pakeitimas ir straipsnio papildymas 13 dalimi
 
 1. Papildyti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -58,13 +58,13 @@ Nr. 64-1934, Nr. 89-2753)
 
 „13. Laisvos žemės fondo žemė, kurią iki šio įstatymo įsigaliojimo ne mažiau kaip dvejus metus iš eilės naudojo nustatyta tvarka savo ūkius įregistravę ūkininkai ar žemės ūkio bendrovės, gali būti perduodama nuosavybėn neatlygintinai lygiaverčio ploto turėtam žemės plotui tik šią žemę naudojantiems ūkininkams ar šią žemę naudojančių žemės ūkio bendrovių nariams.“
 
-\#### 3 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 6 straipsnio 4 dalyje vietoj žodžių „buvusio miško ir vandens telkinių plotus, kurių šio straipsnio 3 dalyje nustatytu atveju“ įrašyti žodžius „už mišką, kurio“, po žodžio „nepageidauja“ įrašyti žodžius „arba už vandens telkinius saugomose teritorijose, kurių susigrąžinti natūra turėtoje vietoje piliečiai nepageidauja“ ir šią dalį išdėstyti taip:
 
 „4. Už mišką ir vandens telkinius, pagal šio įstatymo 13 straipsnį priskirtus valstybės išperkamiems, taip pat už mišką, kuriosusigrąžinti turėtoje vietoje piliečiai nepageidauja, arba už vandens telkinius saugomose teritorijose, kurių susigrąžinti natūra turėtoje vietoje piliečiai nepageidauja**,**valstybė jiems atlygina pagal šio įstatymo 16 straipsnį.“
 
-\#### 4 straipsnis. 10 straipsnio pakeitimas
+## 4 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 4. Kartu su prašymu atkurti nuosavybės teises pateikiamas pilietybę patvirtinantis dokumentas ir pridedami nuosavybės teises bei giminystės ryšį su savininku patvirtinantys dokumentai. Piliečiai, padavę prašymus atkurti nuosavybės teises į nekilnojamąjį turtą, bet nepateikę nuosavybės teises bei giminystės ryšį su savininku patvirtinančių dokumentų, šiuos dokumentus iki 2002 m. liepos 1 d. turi pateikti šio įstatymo 17 straipsnyje nurodytoms institucijoms. Piliečiai, praleidę nustatytą terminą pateikti šiuos dokumentus, netenka teisės į nuosavybės teisių atkūrimą pagal šį įstatymą.“
 
-\#### 5 straipsnis. 12 straipsnio 8, 10 punktų pakeitimas ir straipsnio papildymas 11 punktu
+## 5 straipsnis. 12 straipsnio 8, 10 punktų pakeitimas ir straipsnio papildymas 11 punktu
 
 1. 12 straipsnio 8 punkte po žodžio „suteikta“ įrašyti žodžius „kaimo vietovėje“ ir šį punktą išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 „11) pagal įstatymus suteikta ir naudojama valstiečių ūkiui, jeigu šią žemę jos naudotojui buvo leista pirkti ir už ją sumokėti pinigai ar valstybės vienkartinės išmokos.“
 
-\#### 6 straipsnis. 16 straipsnio 5, 7 ir 9 dalių pakeitimas
+## 6 straipsnis. 16 straipsnio 5, 7 ir 9 dalių pakeitimas
 
 1. 16 straipsnio 5 dalyje vietoj žodžių „,Žemė, kurios“ įrašyti žodžius „Už žemę, taip pat vandens telkinius saugomose teritorijose, kurių“, vietoj žodžio „grąžinama“ įrašyti žodį „atlyginama“, po žodžio „turėtajam“ įrašyti žodį „atitinkamai“, po žodžių „žemės sklypą“ įrašyti žodžius „ar vandens telkinį“, po žodžių „nustatytą žemės“ įrašyti žodžius „vandens telkinių“ ir šią dalį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 „4) perduodama neatlygintinai nuosavybėn lygiavertį turėtajam naują žemės sklypą individualiai statybai miestuose ir kaimo vietovėse, kur buvo turėtoji žemė, lygiavertį turėtajam žemės sklypą prie nuosavybės teise turimų pastatų (nepaisant turėtos žemės vietos). Vyriausybės nustatyta tvarka piliečio pageidavimu lygiavertis turėtajam naujas žemės sklypas individualiai statybai gali būti perduotas neatlygintinai nuosavybėn kituose, negu buvo turėtas žemės sklypas, miestuose bei kaimo vietovėse, išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos, Birštono ir Neringos miestus;“.
 
-\#### 7 straipsnis. 21 straipsnio 3 dalies pakeitimas ir papildymas
+## 7 straipsnis. 21 straipsnio 3 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 

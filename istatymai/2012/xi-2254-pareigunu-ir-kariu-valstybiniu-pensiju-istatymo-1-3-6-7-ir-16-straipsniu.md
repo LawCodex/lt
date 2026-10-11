@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4FD3BE7029F5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4FD3BE7029F5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 3, 6, 7 ir 16 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2005, Nr. [71-2558](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C), Nr. [153-5644](https://www.e-tar.lt/portal/lt/legalAct/TAR.45D45191ECBC); 2006, Nr. [17-601](https://www.e-tar.lt/portal/lt/legalAct/TAR.852B90E0B68E), Nr. [134-5064](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FBB7047630);2007, Nr. [8-314](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AFBD8793C7C); 2009, Nr. [49-1938](https://www.e-tar.lt/portal/lt/legalAct/TAR.0B2D8487AB1F); 2011, Nr. [86-4158](https://www.e-tar.lt/portal/lt/legalAct/TAR.BAD02D141563))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies 7 punkto pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies 7 punkto pakeitimas
 
 1 straipsnio 1 dalies 7 punktevietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
 
 „7) muitinės mobiliųjų grupių pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies 1, 4 ir 5 punktų ir 2 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies 1, 4 ir 5 punktų ir 2 dalies pakeitimas
 
 1. 3 straipsnio 1 dalies 1 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
 
@@ -48,19 +48,19 @@ Vilnius
 
 „2. Pareigūnams ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių).“
 
-\#### 3 straipsnis. 6 straipsnio 1 punkto pakeitimas
+## 3 straipsnis. 6 straipsnio 1 punkto pakeitimas
 
 6 straipsnio 1 punkte vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šį punktą išdėstyti taip:
 
 „1) tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente, jam pavaldžiose įstaigose bei valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) laikas nuo paskyrimo į pareigūno ar kario pareigas dienos;“.
 
-\#### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip:
 
 „1.Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių dvylikos mėnesių jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) mažiau negu dvylika mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį.Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.“
 
-\#### 5 straipsnis. 16 straipsnio 1, 3 ir 12 dalių pakeitimas
+## 5 straipsnis. 16 straipsnio 1, 3 ir 12 dalių pakeitimas
 
 1. 16 straipsnio 1 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Vilnius
 
 „12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16 straipsnių pakeitimo ir papildymo įstatymo Nr. X-1027 įsigaliojimo.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

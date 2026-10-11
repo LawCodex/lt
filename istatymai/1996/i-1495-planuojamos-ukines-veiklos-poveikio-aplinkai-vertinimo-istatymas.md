@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0539E2FEB29E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas
@@ -647,8 +647,6 @@ AR1, AR2, ... ARn – ribinis vietų atitinkamos rūšies gyvūnams auginti dydi
 
 __________________
 
-part_cea8cdb1497048db9a2629e0fe5c97aa_end
-
 Lietuvos Respublikos
 
 planuojamos ūkinės veiklos poveikio
@@ -993,8 +991,6 @@ AR1, AR2, ... ARn – ribinis vietų atitinkamos rūšies gyvūnams auginti dydi
 
 _______________
 
-part_2ad26c8974f94027b97b77a7dc805700_end
-
 Lietuvos Respublikos
 
 planuojamos ūkinės veiklos poveikio
@@ -1010,8 +1006,6 @@ aplinkai vertinimo įstatymo
 2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES.
 
 _______________
-
-part_5c502ca86f07460fb63370f340f8a179_end
 
 Pakeitimai:
 

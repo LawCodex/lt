@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C61A07E271A8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C61A07E271A8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 17, 19 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 2006, Nr. 87-3397; 2008, Nr. 19-673; 2009, Nr. 71-2891)
 
-\#### 1 straipsnis. 17 straipsnio papildymas 7 dalimi
+## 1 straipsnis. 17 straipsnio papildymas 7 dalimi
 
 Papildyti 17straipsnį 7 dalimi:
 
 „7. Visos sutarčių dėl valstybės turto perdavimo juridiniams ar fiziniams asmenims nuostatos, kurios atima ar apriboja valstybės teises, nustatytas įstatymuose, negalioja. Valstybės teisės gali būti apribotos tik įstatymuose nustatyta tvarka ir pagrindais.“
 
-\#### 2 straipsnis. 19 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 19 straipsnio 2 dalies pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 

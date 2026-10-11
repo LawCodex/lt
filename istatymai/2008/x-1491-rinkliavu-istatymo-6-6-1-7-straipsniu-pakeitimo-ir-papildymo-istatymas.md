@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1476A41152C4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1476A41152C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 6, 6-1, 7 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [52-1484](https://www.e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D); 2007, Nr. [101-4107](https://www.e-tar.lt/portal/lt/legalAct/TAR.D85A75CD037B), Nr. [114-4632](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA90B718DF71))
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 1. 6 straipsnio 6 punkte po žodžių „paso išdavimą bei keitimą“ įrašyti žodžius „dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir“ ir šį punktą išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 11. Buvusius 6 straipsnio 18, 19, 20, 21 ir 22 punktus laikyti atitinkamai 20, 21, 22, 23 ir 24 punktais.
 
-\#### 2 straipsnis. 61 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 61 straipsnio pakeitimas ir papildymas
 
 Pakeisti 6^1 straipsnio 1 dalį, straipsnį papildyti 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 6^1 straipsnio 1 dalį, straipsnį papildyti 2 ir 3 dalimis ir visą st
 
 3. Nuo valstybės rinkliavos už civilinės būklės aktų įregistravimą ir dokumentų išdavimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 8 punkte, atlikimą.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 Papildyti 7 straipsnį nauja 1 dalimi, buvusią 1 dalį laikyti 2 dalimi ir visą straipsnį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F46A3FFFA89"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F46A3FFFA89.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl darbuotojų dalyvavimo priimant sprendimus Europos bendrovėse
@@ -26,15 +26,15 @@ DĖL DARBUOTOJŲ DALYVAVIMO PRIIMANT SPRENDIMUS EUROPOS BENDROVĖSE
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šio įstatymo tikslas – užtikrinti darbuotojų dalyvavimą priimant sprendimus Europos bendrovėse (SE) (toliau – Europos bendrovė).
 
 2. Įstatymo nuostatos įgyvendina šio įstatymo priede pateiktą Europos Sąjungos teisės aktą.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas taikomas, jei Europos bendrovės buveinė yra arba steigiamos Europos bendrovės buveinė bus Lietuvos Respublikoje.
 
@@ -48,7 +48,7 @@ Vilnius
 
 4) specialiojo derybų komiteto, Europos bendrovės darbo tarybos narių, taip pat į Europos bendrovės administravimo ar priežiūros organus darbuotojų arba jų atstovų išrinktų, paskirtų, pasiūlytų narių ar narių, kurių paskyrimui pritarė darbuotojai arba jų atstovai, garantijas ir teisių apsaugą, jų teisę į kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidų atlyginimą, kai šie nariai yra darbo santykiais susiję su Lietuvos Respublikoje buveinę turinčia steigime dalyvaujančia bendrove, susijusia kontroliuojamąja bendrove ar Lietuvos Respublikoje veikiančiu susijusiu padaliniu arba su Lietuvos Respublikoje buveinę turinčia Europos bendrovės kontroliuojamąja bendrove ar Lietuvos Respublikoje veikiančiu Europos bendrovės padaliniu ar jos kontroliuojamosios bendrovės padaliniu.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Centrinė vadovybė – kompetentingas Europos bendrovės valdymo arba administravimo organas.
 
@@ -80,21 +80,21 @@ Vilnius
 
 15. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominei erdvei priklausanti valstybė.
 
-\### ANTRASIS SKIRSNIS. DARBUOTOJŲ DALYVAVIMO PRIIMANT SPRENDIMUS EUROPOS BENDROVĖJE PAGRINDAI
+ANTRASIS SKIRSNIS. DARBUOTOJŲ DALYVAVIMO PRIIMANT SPRENDIMUS EUROPOS BENDROVĖJE PAGRINDAI
 
-\#### 4 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje prielaidos
+## 4 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje prielaidos
 
 1. Šio įstatymo nustatyta tvarka darbuotojai dalyvauja priimant sprendimus Europos bendrovėje, taip pat kitose valstybėse narėse buveinę turinčiose Europos bendrovės kontroliuojamosiose bendrovėse ar jose veikiančiuose Europos bendrovės padaliniuose.
 
 2. Dalyvavimas priimant sprendimus turi apimti klausimus, kurie susiję su pačia Europos bendrove, su kitose valstybėse narėse buveinę turinčiomis jos kontroliuojamosiomis bendrovėmis ar jose veikiančiais padaliniais arba klausimus, kurių sprendimas peržengia sprendimus priimančio organo ar kito lygmens vadovybės vienoje valstybėje narėje kompetencijos ribas.
 
-\#### 5 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje įgyvendinimas
+## 5 straipsnis. Darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje įgyvendinimas
 
 1. Darbuotojų dalyvavimui priimant sprendimus Europos bendrovėje įgyvendinti šio įstatymo nustatyta tvarka sudaroma Europos bendrovės darbo taryba arba nustatoma šio įstatymo 19 straipsnio 2 dalies 6 ir 7 punktuose nurodyta kita informavimo, konsultavimo ir dalyvavimo tvarka.
 
 2. Centrinė vadovybė privalo sudaryti sąlygas ir užtikrinti priemones, būtinas Europos bendrovės darbo tarybai sudaryti ir veikti.
 
-\#### 6 straipsnis. Bendradarbiavimo principai
+## 6 straipsnis. Bendradarbiavimo principai
 
 1. Šiame įstatyme reglamentuojamas centrinės vadovybės ar kito lygmens vadovybės ir darbuotojų atstovų bendradarbiavimas turi vykti laikantis šalių kooperacijos, lygiateisiškumo, geranoriškumo, pagarbos teisėtiems savitarpio interesams ir kitų socialinės partnerystės principų.
 
@@ -104,7 +104,7 @@ Vilnius
 
 4. Jei netrukus po Europos bendrovės įsteigimo Europos bendrovėje ir jos kontroliuojamosiose bendrovėse vyksta esminiai pasikeitimai, kurie aiškiai parodo, jog Europos bendrovės steigimo tikslas yra atimti iš darbuotojų teises dalyvauti priimant sprendimus, būtina pradėti naujas derybas pagal šio įstatymo trečiojo skirsnio nuostatas. Esminiai pasikeitimai bendrovėje reiškia Europos bendrovės, jos kontroliuojamųjų bendrovių darbuotojų skaičiaus ar bendrovės steigimo būdo pakeitimus, kurie būtų išplėtę darbuotojų dalyvavimo bendrovės valdyme teises, jei būtų buvę įgyvendinti prieš Europos bendrovės įsteigimą.
 
-\#### 7 straipsnis. Teisė į informaciją
+## 7 straipsnis. Teisė į informaciją
 
 1. Centrinė vadovybė privalo laiku teikti informaciją Europos bendrovės darbo tarybai, Europos bendrovės darbo tarybos komitetui, taip pat specialiajam derybų komitetui ir atsako už informacijos teisingumą. Informacija turi būti teikiama tokiu būdu ir mastu, kad darbuotojų atstovai galėtų nuodugniai įvertinti galimą poveikį ir prireikus pasirengti konsultacijoms su centrine vadovybe.
 
@@ -118,7 +118,7 @@ Vilnius
 
 6. Supažindinimą su valstybės, tarnybos, profesinėmis paslaptimis ir atsakomybę už jų atskleidimą ar neteisėtą panaudojimą reglamentuoja kiti įstatymai.
 
-\#### 8 straipsnis. Darbuotojų atstovų teisių apsauga ir garantijos
+## 8 straipsnis. Darbuotojų atstovų teisių apsauga ir garantijos
 
 1. Su Lietuvos Respublikoje buveinę turinčia Europos bendrove, jos kontroliuojamąja bendrove arba su steigime dalyvaujančia bendrove, susijusia kontroliuojamąja bendrove, taip pat su Lietuvos Respublikoje veikiančiu Europos bendrovės padaliniu, kontroliuojamosios bendrovės padaliniu ar susijusiu padaliniu darbo santykiais susijusiems Europos bendrovės darbo tarybos nariams, specialiojo derybų komiteto nariams turi būti sudaromos sąlygos dalyvauti Europos bendrovės darbo tarybos, Europos bendrovės darbo tarybos komiteto posėdžiuose, taip pat bendruose posėdžiuose su centrine vadovybe ir derybose dėl darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje, paliekant jiems darbo vietą ir vidutinį darbo užmokestį. Ta pati taisyklė taikoma ir tuomet, kai darbuotojų arba jų atstovų rinkti Europos bendrovės priežiūros ar administravimo organo nariai dalyvauja Europos bendrovės priežiūros ar administravimo organo posėdžiuose.
 
@@ -126,9 +126,9 @@ Vilnius
 
 3. Europos bendrovės darbo tarybos, specialiojo derybų komiteto nariams, darbuotojų arba jų atstovų rinktiems Europos bendrovės priežiūros ar administravimo organo nariams nuo jų paskyrimo (išrinkimo) į pareigas dienos taikoma teisių apsauga ir garantijos pagal tos valstybės narės, kurioje yra juos įdarbinusios bendrovės buveinė ar kurioje veikia juos įdarbinęs padalinys, teisės aktus ir (ar) nusistovėjusią praktiką.
 
-\### TREČIASIS SKIRSNIS. DERYBŲ ORGANIZAVIMAS
+TREČIASIS SKIRSNIS. DERYBŲ ORGANIZAVIMAS
 
-\#### 9 straipsnis. Derybų inicijavimas ir informavimas
+## 9 straipsnis. Derybų inicijavimas ir informavimas
 
 1. Steigiant Europos bendrovę, steigime dalyvaujančių bendrovių, susijusių kontroliuojamųjų bendrovių ar susijusių padalinių valdymo ar administravimo organai privalo inicijuoti derybas dėl darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje.
 
@@ -146,7 +146,7 @@ Vilnius
 
 3. Steigime dalyvaujančios bendrovės, susijusios kontroliuojamosios bendrovės ir susijusio padalinio darbuotojų skaičius, taip pat visų steigime dalyvaujančių bendrovių, susijusių kontroliuojamųjų bendrovių ir susijusių padalinių darbuotojų skaičius kiekvienoje valstybėje narėje ir bendras darbuotojų valstybėse narėse skaičius apskaičiuojamas remiantis Lietuvos Respublikos Europos darbo tarybų įstatymo 7 straipsniu.
 
-\#### 10 straipsnis. Specialiojo derybų komiteto sudėtis
+## 10 straipsnis. Specialiojo derybų komiteto sudėtis
 
 1. Deryboms su kompetentingu steigime dalyvaujančių bendrovių organu dėl darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje turi būti sudaromas specialusis derybų komitetas.
 
@@ -176,7 +176,7 @@ Vilnius
 
 4. Jeigu valstybei narei skirta daugiau negu viena vieta, darbuotojų atstovai turi būti skiriami iš skirtingų bendrovių.
 
-\#### 11 straipsnis. Specialiojo derybų komiteto sudarymas
+## 11 straipsnis. Specialiojo derybų komiteto sudarymas
 
 1. Jei steigime dalyvaujančios bendrovės, susijusios kontroliuojamosios bendrovės buveinė yra Lietuvos Respublikoje ar Lietuvos Respublikoje veikia susijęs padalinys, specialiojo derybų komiteto narį (narius) iš Lietuvos Respublikos skiria atitinkamai tos bendrovės ar to padalinio darbuotojai ar jų atstovai. Jei Lietuvos Respublikoje buveinę turi kelios steigime dalyvaujančios bendrovės, susijusios kontroliuojamosios bendrovės ir (ar) veikia vienas ar keli susiję padaliniai, specialiojo derybų komiteto narys (nariai) skiriamas visų tų bendrovių ir (ar) padalinių darbuotojų ar jų atstovų bendru sutarimu.
 
@@ -192,7 +192,7 @@ Vilnius
 
 7. Šiame straipsnyje nustatyta tvarka taikoma ir skiriant ar renkant naujus specialiojo derybų komiteto narius.
 
-\#### 12 straipsnis. Specialiojo derybų komiteto veiklos organizavimas
+## 12 straipsnis. Specialiojo derybų komiteto veiklos organizavimas
 
 1. Specialusis derybų komitetas išsirenka pirmininką ir sekretorių, pasitvirtina darbo reglamentą.
 
@@ -206,7 +206,7 @@ Vilnius
 
 4. Dalyvavimo teisių atsisakymas ar naudojimosi jomis apribojimas reiškia, kad Europos bendrovės priežiūros ar administravimo organų narių, kuriuos renka, skiria, siūlo ar pritaria jų skyrimui darbuotojai ir (ar) jų atstovai, dalis yra mažesnė už darbuotojų ir (ar) jų atstovų renkamų, skiriamų, siūlomų priežiūros ar administravimo organo narių ar narių, kurių skyrimui jie pritaria, dalį bet kurioje steigime dalyvaujančioje bendrovėje.
 
-\#### 13 straipsnis. Specialiojo derybų komiteto posėdžiai
+## 13 straipsnis. Specialiojo derybų komiteto posėdžiai
 
 1. Pirmąjį specialiojo derybų komiteto posėdį sušaukia kompetentingas steigime dalyvaujančių bendrovių organas.
 
@@ -218,7 +218,7 @@ Vilnius
 
 5. Specialiojo derybų komiteto posėdžiai protokoluojami. Posėdžio protokolą pasirašo posėdžio pirmininkas ir komiteto įgaliotas narys.
 
-\#### 14 straipsnis. Specialiojo derybų komiteto sudarymo ir veiklos išlaidos
+## 14 straipsnis. Specialiojo derybų komiteto sudarymo ir veiklos išlaidos
 
 1. Visos išlaidos, susijusios su specialiojo derybų komiteto sudarymu ir jo narių dalyvavimu komiteto posėdžiuose ar derybose su kompetentingu steigime dalyvaujančių bendrovių organu, padengiamos steigime dalyvaujančių bendrovių lėšomis jų susitarimu. Šioms išlaidoms taip pat priskiriamos specialiojo derybų komiteto narių kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidos. Tokių išlaidų dydį ir atlyginimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -230,7 +230,7 @@ Vilnius
 
 5. Jei nėra susitarimo tarp steigime dalyvaujančių bendrovių dėl išlaidų, susijusių su specialiojo derybų komiteto sudarymu ir specialiojo derybų komiteto narių dalyvavimu komiteto posėdžiuose ar derybose, atlyginimo, išlaidas, išskyrus numatytas šio straipsnio 2 dalyje, šios bendrovės atlygina solidariai.
 
-\#### 15 straipsnis. Specialiojo derybų komiteto kompetencija
+## 15 straipsnis. Specialiojo derybų komiteto kompetencija
 
 1. Specialusis derybų komitetas turi teisę nuspręsti:
 
@@ -246,7 +246,7 @@ Vilnius
 
 5. Priėmus sprendimą nepradėti derybų ar jas nutraukti, derybos atnaujinamos, kai ne mažiau kaip 10 procentų Europos bendrovės, jos kontroliuojamųjų bendrovių padalinių darbuotojų arba jų atstovų raštu kreipiasi į centrinę vadovybę ir ne anksčiau kaip praėjus dvejiems metams nuo šio sprendimo priėmimo, jeigu šalys nesusitaria derybų atnaujinti anksčiau. Jeigu specialusis derybų komitetas nusprendžia atnaujinti derybas su kompetentingu steigime dalyvaujančių bendrovių organu, bet derybose susitarimas nepriimamas, šio įstatymo ketvirtajame skirsnyje nurodytos taisyklės netaikomos.
 
-\#### 16 straipsnis. Derybų pradžia
+## 16 straipsnis. Derybų pradžia
 
 1. Kompetentingas steigime dalyvaujančių bendrovių organas, gavęs specialiojo derybų komiteto pranešimą apie sprendimą pradėti derybas, per 30 dienų turi sušaukti pirmąjį specialiojo derybų komiteto ir kompetentingo steigime dalyvaujančių bendrovių organo derybų posėdį.
 
@@ -264,13 +264,13 @@ Vilnius
 
 5) specialiojo derybų komiteto narių kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidų padengimo terminai ir tvarka.
 
-\#### 17 straipsnis. Derybų trukmė
+## 17 straipsnis. Derybų trukmė
 
 1. Derybos gali trukti šešis mėnesius nuo specialiojo derybų komiteto sudarymo dienos.
 
 2. Specialusis derybų komitetas ir kompetentingas steigime dalyvaujančių bendrovių organas bendru sutarimu gali nuspręsti pratęsti derybas iki vienų metų nuo specialiojo derybų komiteto sudarymo dienos.
 
-\#### 18 straipsnis. Derybų posėdžių tvarka
+## 18 straipsnis. Derybų posėdžių tvarka
 
 1. Kompetentingas steigime dalyvaujančių bendrovių organas ir specialusis derybų komitetas susitaria dėl derybų posėdžio vedimo tvarkos, derybų posėdžių vietos ir terminų, pranešimų apie posėdžius pateikimo terminų ir tvarkos, pirmininkavimo ir sekretoriavimo posėdžiams tvarkos.
 
@@ -278,7 +278,7 @@ Vilnius
 
 3. Specialusis derybų komitetas gali kviestis savo nuožiūra pasirinktus ekspertus.
 
-\#### 19 straipsnis. Derybų rezultatas
+## 19 straipsnis. Derybų rezultatas
 
 1. Derybos baigiamos, kai pasiekiamas susitarimas tarp specialiojo derybų komiteto ir kompetentingo steigime dalyvaujančių bendrovių organo dėl darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje.
 
@@ -306,9 +306,9 @@ Vilnius
 
 5. Susitarimas tarp specialiojo derybų komiteto ir kompetentingo steigime dalyvaujančių bendrovių organo turi būti įforminamas raštu ir pasirašomas bent dviejų kompetentingo steigime dalyvaujančių bendrovių organo įgaliotų asmenų ir dviejų įgaliotų specialiojo derybų komiteto narių.
 
-\### KETVIRTASIS SKIRSNIS. STANDARTINĖS TAISYKLĖS
+KETVIRTASIS SKIRSNIS. STANDARTINĖS TAISYKLĖS
 
-\#### 20 straipsnis. Standartinių taisyklių taikymo prielaidos
+## 20 straipsnis. Standartinių taisyklių taikymo prielaidos
 
 1. Šiame skirsnyje nustatytos standartinės taisyklės taikomos, kai:
 
@@ -318,7 +318,7 @@ Vilnius
 
 2. Šiame skirsnyje nustatytos taisyklės Lietuvos Respublikoje buveinę turinčiai Europos bendrovei taikomos nuo Europos bendrovės įsteigimo dienos.
 
-\#### 21 straipsnis. Europos bendrovės darbo tarybos sudėtis ir sudarymas
+## 21 straipsnis. Europos bendrovės darbo tarybos sudėtis ir sudarymas
 
 1. Europos bendrovės darbo tarybos sudėčiai mutatis mutandis taikomos šio įstatymo 10 straipsnio 2 dalies nuostatos.
 
@@ -346,7 +346,7 @@ Vilnius
 
 11. Jei dėl Europos bendrovės struktūros ir darbuotojų skaičiaus valstybėse narėse ar kontroliuojamosiose bendrovėse, padaliniuose ar kontroliuojamųjų bendrovių padaliniuose pasikeitimų būtina padidinti Europos bendrovės darbo tarybos narių skaičių, Europos bendrovės darbo taryba, atsižvelgdama į centrinės vadovybės nuomonę, sprendžia dėl papildomo Europos bendrovės darbo tarybos nario skyrimo (rinkimo). Priėmusi tokį sprendimą, Europos bendrovės darbo taryba kreipiasi į centrinę vadovybę su prašymu inicijuoti naujo Europos bendrovės darbo tarybos nario (narių) skyrimo (rinkimo) procedūrą pagal šio įstatymo nuostatas.
 
-\#### 22 straipsnis. Narystės Europos bendrovės darbo taryboje pradžia ir pabaiga
+## 22 straipsnis. Narystės Europos bendrovės darbo taryboje pradžia ir pabaiga
 
 1. Europos bendrovės darbo tarybos nariu darbuotojas tampa nuo jo paskyrimo ar išrinkimo dienos.
 
@@ -364,7 +364,7 @@ Vilnius
 
 3. Kai narystė pasibaigia šio straipsnio 2 dalies 1–3, 5 punktuose nurodytais pagrindais ir iki Europos bendrovės darbo tarybos kadencijos pabaigos yra likę ne mažiau kaip 6 mėnesiai, šio įstatymo nustatyta tvarka turi būti skiriamas ar renkamas naujas narys. Jis skiriamas ar renkamas tik iki Europos bendrovės darbo tarybos kadencijos pabaigos.
 
-\#### 23 straipsnis. Pranešimas apie Europos bendrovės darbo tarybos sudėtį
+## 23 straipsnis. Pranešimas apie Europos bendrovės darbo tarybos sudėtį
 
 1. Darbuotojų atstovas (atstovai), paskyręs Europos bendrovės darbo tarybos narį (narius), raštu praneša centrinei vadovybei Europos bendrovės darbo tarybos nario vardą, pavardę, padalinio ar bendrovės, kuriame ar kurioje jis dirba, pavadinimą ir jo pareigas, adresą ryšiams. Tokia pati prievolė pranešti centrinei vadovybei apie išrinktą Europos bendrovės darbo tarybos narį (narius) tenka visuotinį darbuotojų kolektyvo susirinkimą ar bendrąją bendrovės padalinių ar (ir) bendrovių darbuotojų delegatų konferenciją, kur buvo renkamas narys (nariai), sušaukusiam atitinkamai padalinio vadovui ar bendrovės valdymo organui.
 
@@ -374,11 +374,11 @@ Vilnius
 
 4. Gavę šio straipsnio 3 dalyje nurodytą pranešimą, centrinė vadovybė ir valdymo organai bei padalinių vadovai pranešime esančią informaciją nedelsdami pateikia bendrovėje ar padalinyje veikiantiems darbuotojų atstovams.
 
-\#### 24 straipsnis. Europos bendrovės darbo tarybos kadencija
+## 24 straipsnis. Europos bendrovės darbo tarybos kadencija
 
 Europos bendrovės darbo tarybos kadencija – ketveri metai. Kadencija pradedama skaičiuoti Europos bendrovės darbo tarybai susirinkus į pirmąjį posėdį. Apie pirmojo Europos bendrovės darbo tarybos posėdžio sušaukimą ne vėliau kaip prieš 14 dienų turi būti raštu pranešta Europos bendrovės darbo tarybos nariams ir dalyvaujančių bendrovių, susijusių kontroliuojamųjų bendrovių ir susijusių padalinių, kurių dirba Europos bendrovės darbo tarybos nariai, atitinkamai valdymo ar administravimo organams arba vadovui.
 
-\#### 25 straipsnis. Europos bendrovės darbo tarybos veiklos organizavimas
+## 25 straipsnis. Europos bendrovės darbo tarybos veiklos organizavimas
 
 1. Savo pirmajame posėdyje Europos bendrovės darbo taryba visų narių balsų dauguma išsirenka Europos bendrovės darbo tarybos pirmininką ir jo pavaduotoją, patvirtina Europos bendrovės darbo tarybos darbo reglamentą.
 
@@ -396,7 +396,7 @@ Europos bendrovės darbo tarybos kadencija – ketveri metai. Kadencija pradedam
 
 4. Savo sprendimus Europos bendrovės darbo taryba ar Europos bendrovės darbo tarybos komitetas priima visų narių balsų dauguma. Kiekvienas narys turi po vieną balsą.
 
-\#### 26 straipsnis. Europos bendrovės darbo tarybos ir Europos bendrovės darbo tarybos komiteto posėdžiai
+## 26 straipsnis. Europos bendrovės darbo tarybos ir Europos bendrovės darbo tarybos komiteto posėdžiai
 
 1. Pirmąjį ir eilinius Europos bendrovės darbo tarybos posėdžius sušaukia centrinė vadovybė. Pirmąjį posėdį centrinė vadovybė turi sušaukti per 90 dienų.
 
@@ -412,11 +412,11 @@ Europos bendrovės darbo tarybos kadencija – ketveri metai. Kadencija pradedam
 
 7. Europos bendrovės darbo tarybos ar Europos bendrovės darbo tarybos komiteto posėdžiai protokoluojami. Posėdžio protokolą pasirašo posėdžio pirmininkas ir tarybos ar komiteto įgaliotas narys.
 
-\#### 27 straipsnis. Ekspertų dalyvavimas
+## 27 straipsnis. Ekspertų dalyvavimas
 
 Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas gali kviestis savo nuožiūra pasirinktus ekspertus.
 
-\#### 28 straipsnis. Europos bendrovės darbo tarybos sudarymo ir veiklos išlaidos
+## 28 straipsnis. Europos bendrovės darbo tarybos sudarymo ir veiklos išlaidos
 
 1. Visas išlaidas, susijusias su Europos bendrovės darbo tarybos sudarymu ir Europos bendrovės darbo tarybos narių dalyvavimu Europos bendrovės darbo tarybos ar Europos bendrovės darbo tarybos komiteto posėdžiuose, taip pat bendruose posėdžiuose su centrine vadovybe ar šio įstatymo 30 straipsnyje nurodytuose posėdžiuose su kito lygmens vadovybe, padengia Europos bendrovė. Šioms išlaidoms taip pat priskiriamos Europos bendrovės darbo tarybos narių kelionės, sveikatos ir gyvybės draudimo, nakvynės ir pragyvenimo išlaidos. Tokių išlaidų dydį ir atlyginimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -428,7 +428,7 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 
 5. Europos bendrovės darbo tarybos nariams turi būti skiriama laiko dalyvauti mokymuose, būtinuose jų funkcijoms atlikti; už mokymosi laiką mokamas ne mažesnis už vidutinį darbo užmokestis.
 
-\#### 29 straipsnis. Reguliarusis informavimas ir konsultavimas
+## 29 straipsnis. Reguliarusis informavimas ir konsultavimas
 
 1. Pasibaigus kalendoriniams metams, centrinė vadovybė per tris mėnesius turi parengti ir pateikti Europos bendrovės darbo tarybai metų ataskaitą apie Europos bendrovės, jos padalinių, taip pat jos kontroliuojamųjų bendrovių ir jų padalinių ekonominę būklę ir perspektyvas.
 
@@ -462,7 +462,7 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 
 5. Metų ataskaitą kartu su bendro Europos bendrovės darbo tarybos ir centrinės vadovybės posėdžio protokolu centrinė vadovybė per 30 dienų privalo pateikti kito lygmens vadovybei.
 
-\#### 30 straipsnis. Informavimas ir konsultavimas esant ypatingoms aplinkybėms
+## 30 straipsnis. Informavimas ir konsultavimas esant ypatingoms aplinkybėms
 
 1. Apie ypatingų aplinkybių atsiradimą turi būti nedelsiant raštu pranešama Europos bendrovės darbo tarybos komitetui, o jei toks nesudarytas, – Europos bendrovės darbo tarybai. Ypatingomis aplinkybėmis yra laikomos aplinkybės, turinčios didelės įtakos Europos bendrovės, jos padalinio, Europos bendrovės kontroliuojamosios bendrovės ar jos padalinio darbuotojų interesams, o ypač bendrovės, gamybos ar verslo arba jo dalies perkėlimas į kitą vietą, padalinio arba bendrovės veiklos nutraukimas, grupės darbuotojų atleidimas iš darbo. Pranešti privalo centrinė vadovybė arba kito lygmens vadovybė, kuri turi teisę priimti savarankiškus sprendimus dėl ypatingų aplinkybių.
 
@@ -474,7 +474,7 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 
 5. Jeigu centrinė vadovybė ar kito lygmens vadovybė nusprendžia nesivadovauti Europos bendrovės darbo tarybos komiteto ar Europos bendrovės darbo tarybos pareikšta nuomone, Europos bendrovės darbo tarybos komitetas ar Europos bendrovės darbo taryba turi teisę dar kartą susitikti su centrine vadovybe ar kito lygmens vadovybe.
 
-\#### 31 straipsnis. Dalyvavimas
+## 31 straipsnis. Dalyvavimas
 
 1. Taisyklės, kuriomis buvo vadovaujamasi reglamentuojant darbuotojų dalyvavimą bendrovės administravimo ar priežiūros organo veikloje iki jos pertvarkymo į Europos bendrovę, taikomos ir tuo atveju, kai tokią bendrovę pertvarkius yra įsteigta Europos bendrovė. Tokioms taisyklėms mutatis mutandis taikomos šio straipsnio nuostatos.
 
@@ -504,13 +504,13 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 
 10. Apie šio straipsnio 6, 7 ir 9 dalyse nurodytus sprendimus specialusis derybų komitetas turi nedelsdamas pranešti kompetentingiems steigime dalyvaujančių bendrovių organams.
 
-\#### 32 straipsnis. Darbuotojų atstovų informavimas
+## 32 straipsnis. Darbuotojų atstovų informavimas
 
 1. Europos bendrovės darbo taryba, Europos bendrovės darbo tarybos komitetas apie savo veiklą ir informavimo bei konsultavimo rezultatus ne rečiau kaip kartą per metus turi pranešti Europos bendrovės ir jos padalinio, Europos bendrovės kontroliuojamųjų bendrovių ir jų padalinių darbuotojų atstovams, o jei tokių nėra, – darbuotojams.
 
 2. Europos bendrovės darbo taryba gali įpareigoti savo narį šio straipsnio 1 dalyje nurodytą informaciją pateikti tam tikro bendrovės padalinio arba kontroliuojamosios bendrovės darbuotojų atstovams ar tiesiogiai darbuotojams valstybėje narėje.
 
-\#### 33 straipsnis. Europos bendrovės darbo tarybos veiklos pabaiga
+## 33 straipsnis. Europos bendrovės darbo tarybos veiklos pabaiga
 
 1. Savo funkcijas Europos bendrovės darbo taryba atlieka iki kadencijos pabaigos, išskyrus šiame straipsnyje nustatytas išimtis.
 
@@ -518,9 +518,9 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 
 3. Jei centrinė vadovybė per šešis mėnesius nuo pranešimo apie šio straipsnio 2 dalyje nurodyto Europos bendrovės darbo tarybos sprendimą gavimo nepradeda derybų arba per vienus metus nuo šio pranešimo gavimo susitarimas nepasiekiamas, toliau taikomos šio skirsnio taisyklės ir šio skirsnio nustatyta tvarka turi būti sudaroma nauja Europos bendrovės darbo taryba.
 
-\### PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 34 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 34 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Pažeidę šį įstatymą asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 

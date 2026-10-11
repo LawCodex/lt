@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9974358B4B50"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9974358B4B50.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 29, 31, 36 ir 38 straipsnių pakeitimo įstatymas
@@ -24,21 +24,21 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2006, Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340))
 
-\#### 1 straipsnis. 29 straipsnio 5 dalies pripažinimas netekusia galios
+## 1 straipsnis. 29 straipsnio 5 dalies pripažinimas netekusia galios
 
 29 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 31 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 31 straipsnio 3 dalies pakeitimas
 
 31 straipsnio 3 dalyje vietoj žodžių „kaip už viršvalandinį darbą“ įrašyti žodžius „Valstybės tarnybos įstatymo nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 „3. Už budėjimą, kai viršijama darbo laiko trukmė, per artimiausią mėnesį pareigūnui privalo būti suteiktas poilsio laikas tokios pat trukmės kaip viršytas darbo laikas arba pareigūno pageidavimu šis poilsio laikas gali būti pridedamas prie kasmetinių atostogų, arba apmokama Valstybės tarnybos įstatymo nustatyta tvarka.“
 
-\#### 3 straipsnis. 36 straipsnio 6 dalies pripažinimas netekusia galios
+## 3 straipsnis. 36 straipsnio 6 dalies pripažinimas netekusia galios
 
 36 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 38 straipsnio pakeitimas
+## 4 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 3. Valstybės tarnybos įstatymo 26 straipsnio 1 dalyje nustatytų priemokų pareigūnams mokėjimo tvarką nustato atitinkamos vidaus reikalų centrinės įstaigos vadovas.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

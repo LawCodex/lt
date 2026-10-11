@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0ed71b90747911e3b675ad30753d4b1b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0ED71B907479.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3 straipsnio pakeitimo ĮSTATYMAS
@@ -30,7 +30,7 @@ Vilnius
 
 2005, Nr. 71-2557, Nr. 153-5642; 2006, Nr. 72-2684; 2007, Nr. 138-5656; 2010, Nr. 1-35)
 
-\#### 1 straipsnis. 3 straipsnio 11 ir 12 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 11 ir 12 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 11 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 4) kitos darbovietės. Šiuo atveju nelaimingą atsitikimą pakeliui į darbą tiria darbdavio, pas kurį vykstama, sudaryta komisija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. gegužės 1 d.
 

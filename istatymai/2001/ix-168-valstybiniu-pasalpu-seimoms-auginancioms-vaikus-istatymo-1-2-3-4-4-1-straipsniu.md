@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8C4A000A4D04"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8C4A000A4D04.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 1, 2, 3, 4, 4(1) straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 1997, Nr. [99-2506](https://www.e-tar.lt/portal/lt/legalAct/TAR.59166173AB26); 1998, Nr. [35-934](https://www.e-tar.lt/portal/lt/legalAct/TAR.B97537087EDC))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Jei šio straipsnio antrojoje dalyje nurodytas sąlygas atitinka tik vienas iš tėvų, šio įstatymo 2, 4, 4^1, 6 straipsniuose nustatytos pašalpos mokamos jam tuomet, kai vaikas gyvena kartu su juo.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Gimus kūdikiui, šeimai mokama 6 minimalių gyvenimo lygių (toliau – MGL) dydžio vienkartinė pašalpa. Ji mokama už kiekvieną gimusį gyvą kūdikį vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei tėvai arba vienas iš tėvų yra miręs, atsisakė kūdikio, jo neaugina arba tėvai yra išsituokę, pašalpa išmokama vaiką auginančiai motinai (tėvui) ar globėjui.“
 
-\#### 3 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 3 straipsnio 1 dalyje vietoj žodžio „Valstybinio“ įrašyti žodžius „Ligos ir motinystės“ ir šią dalį išdėstyti taip:
 
 „Moterims, besimokančioms mokymo įstaigų dieniniuose skyriuose ir pagal Ligos ir motinystės socialinio draudimo įstatymą nėštumo ir gimdymo laikotarpiu neturinčioms teisės gauti motinystės pašalpos, mokama 0,75 MGL dydžio nėštumo pašalpa kas mėnesį.“
 
-\#### 4 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei vienas iš tėvų yra miręs, atsisakė vaiko, jo neaugina arba tėvai yra išsituokę, pašalpa mokama vaiką auginančiai motinai (tėvui). Už vaiką, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės finansuojamoje įstaigoje, ir už vaiką, kuriam įstatymų nustatyta tvarka įsteigta globa, ši pašalpa nemokama.“
 
-\#### 5 straipsnis. 41 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 41 straipsnio pakeitimas ir papildymas
 
 Pakeisti 4^1 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 4^1 straipsnį ir jį išdėstyti taip:
 
 Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei vienas iš tėvų yra miręs, atsisakė vaikų, jų neaugina arba tėvai yra išsituokę, pašalpa mokama vaikus auginančiai motinai (tėvui). Už vaiką, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės finansuojamoje įstaigoje, ir už vaiką, kuriam įstatymų nustatyta tvarka įsteigta globa, ši pašalpa nemokama.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d., išskyrus šio įstatymo 3 straipsnį ir 4 straipsnyje išdėstyto 4 straipsnio 1 ir 2 dalis.
 

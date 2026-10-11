@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.635F202D5FFE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.635F202D5FFE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo 23, 24, 25, 26, 30 ir 31 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2001, Nr. 98-3482; 2010, Nr. 45-2174, Nr. 148-7560; 2011, Nr. 141-6614, Nr. 150-7047; 2012, Nr. 153-7830)
 
-\#### 1 straipsnis. 23 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 23 straipsnio 1 dalies pakeitimas
 
 23 straipsnio 1 dalyje vietoj skaičiaus „8,5“ įrašyti skaičių „9,35“ ir šią dalį išdėstyti taip:
 
 „1. Alui taikomas 9,35litouž 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.“
 
-\#### 2 straipsnis. 24 straipsnio pakeitimas
+## 2 straipsnis. 24 straipsnio pakeitimas
 
 24 straipsnio 1 punkte vietoj skaičiaus „58“ įrašyti skaičių „85“, 2 punkte vietoj skaičiaus „198“ įrašyti skaičių „225“ ir šį straipsnį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie
 
 2) šio straipsnio 1 punkte nenurodytiems gėrimams – 225 litai už produkto hektolitrą.“
 
-\#### 3 straipsnis. 25 straipsnio pakeitimas
+## 3 straipsnis. 25 straipsnio pakeitimas
 
 25 straipsnio 1 punkte vietoj skaičiaus ir žodžio „216 litų“ įrašyti skaičių ir žodį „281 litas“, 2 punkte vietoj skaičiaus ir žodžio „304 litai“ įrašyti skaičių ir žodį „400 litų“ ir šį straipsnį išdėstyti taip:
 
@@ -54,13 +54,13 @@ Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 400 litų už produkto hektolitrą.“
 
-\#### 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 26 straipsnio 1 dalyje vietoj skaičiaus „4 416“ įrašyti skaičių „4 460“ ir šią dalį išdėstyti taip:
 
 „1. Etilo alkoholiui taikomas 4 460 litų už gryno etilo alkoholio hektolitrą akcizų tarifas.“
 
-\#### 5 straipsnis. 30 straipsnio 2 dalies 1 punkto ir 3 dalies pakeitimas
+## 5 straipsnis. 30 straipsnio 2 dalies 1 punkto ir 3 dalies pakeitimas
 
 1. 30 straipsnio 2 dalies 1 punkte vietoj skaičiaus „148“ įrašyti skaičių „157“ ir šį punktą išdėstyti taip:
 
@@ -70,13 +70,13 @@ Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 „3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 256 litai už 1 000 cigarečių.“
 
-\#### 6 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 31 straipsnio 1 dalyje vietoj skaičiaus „88“ įrašyti skaičių „93“ ir šią dalį išdėstyti taip:
 
 „1. Cigarams ir cigarilėms taikomas 93 litų už kilogramą produkto akcizų tarifas.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 1, 2, 3 ir 4 straipsniai įsigalioja 2014 m. balandžio 1 d.
 

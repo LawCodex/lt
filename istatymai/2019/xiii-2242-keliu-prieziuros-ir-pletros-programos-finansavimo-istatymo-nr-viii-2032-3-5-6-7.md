@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1b88ba1098c711e9ae2e9d61b1f977b3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1B88BA1098C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 3, 5, 6, 7, 9 straipsnių ir 3 priedo pakeitimo įstatymas
@@ -182,7 +182,7 @@ savivaldybės teritorijoje
 
 –
 
-\* Automagistralėse ir I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.“
+* Automagistralėse ir I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.“
 
 2. Pakeisti Įstatymo 3 priedo 2 punktą ir jį išdėstyti taip:
 
@@ -216,7 +216,7 @@ Metų ribiniai tarifai*, eurais
 
 –
 
-\> 40
+> 40
 
 1,59–1,88
 
@@ -224,7 +224,7 @@ Metų ribiniai tarifai*, eurais
 
 –
 
-\* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurių ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą ir masė yra didesnė už didžiausiąją leidžiamąją masę, tačiau ne didesnė kaip 48 t.“
+* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurių ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą ir masė yra didesnė už didžiausiąją leidžiamąją masę, tačiau ne didesnė kaip 48 t.“
 
 ## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 

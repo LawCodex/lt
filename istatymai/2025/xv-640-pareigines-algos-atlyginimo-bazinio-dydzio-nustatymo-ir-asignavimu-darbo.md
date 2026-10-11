@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/eff0b982d69411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EFF0B982D694.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo Nr. XIV-2011 pakeitimo įstatymas
@@ -26,7 +26,7 @@ PAREIGINĖS ALGOS (ATLYGINIMO) BAZINIO DYDŽIO NUSTATYMO IR ASIGNAVIMŲ DARBO U�
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo Nr. XIV-2011 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo Nr. XIV-2011 nauja redakcija
 
 Pakeisti Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymą Nr. XIV-2011 ir jį išdėstyti taip:
 
@@ -36,15 +36,15 @@ PAREIGINĖS ALGOS (ATLYGINIMO) BAZINIO DYDŽIO NUSTATYMO
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato pareiginės algos (atlyginimo) bazinį dydį ir jo nustatymo tvarką.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šis įstatymas taikomas apskaičiuojant valstybės politikų, valstybės pareigūnų, prokurorų, žvalgybos pareigūnų, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnų, Lietuvos Respublikos specialiųjų tyrimų tarnybos pareigūnų, Lietuvos Respublikos Konstitucinio Teismo, bendrosios kompetencijos ir specializuotų teismų teisėjų,valstybės tarnautojų, įskaitant statutinius valstybės tarnautojus, regionų plėtros tarybų administracijų direktorių ir šių administracijų darbuotojų, valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų, darbuotojų, viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovų ir darbuotojų pareiginę algą (atlyginimą), karių tarnybinį atlyginimą, įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo, Lietuvos mokslo tarybos valdybos ir ekspertų komitetų), finansuojamų iš valstybės biudžeto ir savivaldybių biudžetų, pirmininkų, pirmininkų pavaduotojų ir narių atlygį už darbą.
 
-\#### 3 straipsnis. Pareiginės algos (atlyginimo) bazinis dydis ir jo nustatymo tvarka
+## 3 straipsnis. Pareiginės algos (atlyginimo) bazinis dydis ir jo nustatymo tvarka
 
 1. Šio įstatymo 2 straipsnyje nurodytų darbuotojų pareiginei algai (atlyginimui) apskaičiuoti taikomas pareiginės algos (atlyginimo) bazinis dydis 2026 metais – 1798 eurai.
 
@@ -54,7 +54,7 @@ PAREIGINĖS ALGOS (ATLYGINIMO) BAZINIO DYDŽIO NUSTATYMO
 
 4. Pareiginės algos (atlyginimo) bazinis dydis nedidinamas, jeigu dėl krizių ar kitų ypatingų aplinkybių iš esmės pablogėja valstybės ekonominė ir finansinė būklė.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

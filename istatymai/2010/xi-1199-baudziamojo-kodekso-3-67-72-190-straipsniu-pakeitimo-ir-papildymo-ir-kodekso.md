@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3999918E0656"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3999918E0656.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 3, 67, 72, 190 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 72-3, 189-1 straipsniais įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 2008, Nr. 73-2796)
 
-\#### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
 
 Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Skiriamos tos baudžiamojo ar auklėjamojo poveikio priemonės bei priverčiamosios medicinos priemonės, kurias numato teismo sprendimo priėmimo metu galiojantis baudžiamasis įstatymas. Išplėstinis turto konfiskavimas skiriamas tik tuo atveju, jeigu jis numatytas šio kodekso uždraustos veikos padarymo metu galiojusiame baudžiamajame įstatyme.“
 
-\#### 2 straipsnis. 67 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 67 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 67 straipsnio 2 dalį 8 punktu:
 
@@ -50,7 +50,7 @@ Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „5. Juridiniam asmeniui gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.“
 
-\#### 3 straipsnis. 72 straipsnio pakeitimas
+## 3 straipsnis. 72 straipsnio pakeitimas
 
 Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
 6. Teismas, skirdamas turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto vertę pinigais.“
 
-\#### 4 straipsnis. Kodekso papildymas 723 straipsniu
+## 4 straipsnis. Kodekso papildymas 723 straipsniu
 
 Papildyti Kodeksą 72^3 straipsniu:
 
@@ -110,7 +110,7 @@ Papildyti Kodeksą 72^3 straipsniu:
 
 6. Teismas, skirdamas išplėstinį turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto ar jo dalies vertę pinigais.“
 
-\#### 5 straipsnis. Kodekso papildymas 1891 straipsniu
+## 5 straipsnis. Kodekso papildymas 1891 straipsniu
 
 Papildyti Kodeksą 189^1 straipsniu:
 
@@ -124,7 +124,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 6 straipsnis. 190 straipsnio papildymas
+## 6 straipsnis. 190 straipsnio papildymas
 
 Papildyti 190 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Papildyti 190 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Šio skyriaus 1891 straipsnyje nurodytos teisėtos pajamos yra iš teisės aktų neuždraustos veiklos gautos pajamos, nesvarbu, ar jos buvo apskaitytos teisės aktų nustatyta tvarka, ar ne.“
 
-\#### 7 straipsnis. Įstatymo įgyvendinimas
+## 7 straipsnis. Įstatymo įgyvendinimas
 
 1. Šio įstatymo 4 straipsnyje išdėstytame Baudžiamojo kodekso 723 straipsnyje numatytas išplėstinis turto konfiskavimas taikomas tik turtui, kurį baudžiamajame įstatyme uždraustą veiką padaręs asmuo įgijo po šio įstatymo įsigaliojimo.
 

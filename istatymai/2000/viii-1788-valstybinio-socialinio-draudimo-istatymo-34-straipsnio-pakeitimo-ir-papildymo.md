@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.88A7E3C1FCAD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88A7E3C1FCAD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 34 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 1994, Nr. [96-1874](https://www.e-tar.lt/portal/lt/legalAct/TAR.9DE7514DA6E8); 1995, Nr. [59-1481](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51C1018DDC3), Nr. [89-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.54DAE0F876A2); 1998, Nr. [115-3242](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8E047470B8C); 1999, Nr. [50-1599](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3AE5CB7BBC), Nr. [88-2583](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0A9E5CE95E5); 2000, Nr. [28-763](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDB369D8BA86))
 
-\#### 1 straipsnis. 34 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 34 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 34 straipsnį ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti ir papildyti 34 straipsnį ir jį išdėstyti taip:
 
 6. Įmokų mokėjimo tvarką nustato Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymas.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 1. Valstybinio socialinio draudimo įstatymo 34 straipsnyje nustatyta tvarka taikoma ir valstybinio socialinio draudimo įmokų mokėjimui už 2000 metų I ir II ketvirčius.
 

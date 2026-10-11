@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8F174855C1B1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8F174855C1B1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bankų įstatymo 2, 5, 8, 17, 23, 24, 25, 26, 34, 66 straipsnių bei priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [54-1832](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A); 2005, Nr. [84-3110](https://www.e-tar.lt/portal/lt/legalAct/TAR.011268BD3F38); 2007, Nr. [12-499](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CC2DBE83E12))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 10 dalimi:
 
@@ -32,7 +32,7 @@ Vilnius
 
 2. Buvusią 2 straipsnio 10 dalį laikyti 11 dalimi.
 
-\#### 2 straipsnis. 5 straipsnio 4 dalies pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 2 straipsnis. 5 straipsnio 4 dalies pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. 5 straipsnio 4 dalyje išbraukti paskutinį sakinį ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 2. 5 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 8 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Vilnius
 
 6. Buvusias 8 straipsnio 4–9 dalis laikyti atitinkamai 6–11 dalimis.
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Leidimas užsienio bankui įsteigti banką Lietuvos Respublikoje ir licencija įsteigtam bankui išduodama šio Įstatymo 8 ir 9 straipsniuose nustatyta tvarka.“
 
-\#### 5 straipsnis. 23 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 23 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 23 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Leidimas užsienio bankui įsteigti banką Lietuvos Respublikoje ir licencija į
 
 „5. Bankas privalo Finansų įstaigų įstatymo nustatyta tvarka tvarkyti banko dalyvių (akcininkų) sąrašą. Bankas privalo ne vėliau kaip per 5 dienas priežiūros institucijai pranešti apie kiekvieną atvejį, kai sužino apie banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimą, padidinimą, perleidimą ar sumažinimą, dėl kurio yra peržengiamos šio Įstatymo 24 straipsnio 1 dalyje nustatytos ribos. Be to, banko dalyvių (akcininkų) sąrašo duomenis bankas privalo pateikti priežiūros institucijai per 10 dienų po eilinio visuotinio akcininkų susirinkimo ar priežiūros institucijos pareikalavimu kitais atvejais.“
 
-\#### 6 straipsnis. 24 straipsnio pakeitimas
+## 6 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 4. Jei banko kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis įsigyta ar padidinta apie tai nepranešus priežiūros institucijai pagal šio straipsnio 1 dalį arba nepasibaigus šio Įstatymo 25 straipsnio 4 dalyje nustatytam terminui (išskyrus atvejį, kai nepasibaigus šio Įstatymo 25 straipsnio 4 dalyje nustatytam terminui gautas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui), arba esant priežiūros institucijos prieštaravimui siūlomam įsigijimui, taip pat priežiūros institucijai priėmus sprendimą sustabdyti teisę naudotis balsavimo teise, visa įsigyjančio asmens turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis banko visuotiniame akcininkų susirinkime praranda balsavimo teisę. Balsavimo teisė vėl įgyjama tą dieną, kurią yra gaunamas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui arba jei priežiūros institucija nepareiškia prieštaravimo siūlomam įsigijimui, arba kai priežiūros institucija priima sprendimą atšaukti sprendimą sustabdyti teisę visuotiniame akcininkų susirinkime naudotis balsavimo teise šio Įstatymo 26 straipsnio 3 dalyje nustatytu atveju.“
 
-\#### 7 straipsnis. 25 straipsnio pakeitimas
+## 7 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 17. Kilus įtarimui, kad siūlomo įsigijimo metu gali būti vykdoma ar yra įvykdyta arba buvo bandyta įvykdyti pinigų plovimo ar teroristų finansavimo veikla, ar kad siūlomas įsigijimas gali padidinti to pavojų, priežiūros institucija kreipiasi į valstybės institucijas, atsakingas už pinigų plovimo ir (ar) teroristų finansavimo prevenciją, prašydama jas pateikti turimus duomenis ir išvadas. Už pinigų plovimą ir (ar) teroristų finansavimo prevenciją atsakingos valstybės institucijos, kitos valstybės ir savivaldybių institucijos, taip pat kiti asmenys priežiūros institucijos prašymu privalo nedelsdami jai pateikti turimą informaciją apie įsigyjantį asmenį, jo dalyvius, vadovus, finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas, kitą informaciją, kuri priežiūros institucijai reikalinga įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti.“
 
-\#### 8 straipsnis. 26 straipsnio pakeitimas
+## 8 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 4. Sprendimas sustabdyti asmens teisę naudotis balsavimo teise visuotiniame akcininkų susirinkime turi būti motyvuotas ir priimamas atsižvelgiant į šio Įstatymo 73 straipsnio 2 dalies nuostatas.“
 
-\#### 9 straipsnis. 34 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 12 ir 13 dalimis
+## 9 straipsnis. 34 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 12 ir 13 dalimis
 
 1. Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -222,7 +222,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 5) kitas reikšmingas aplinkybes, dėl kurių asmens reputacija negali būti laikoma nepriekaištinga.“
 
-\#### 10 straipsnis. 66 straipsnio pakeitimas
+## 10 straipsnis. 66 straipsnio pakeitimas
 
 Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
@@ -236,13 +236,13 @@ Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
 4. Apie priimtą sprendimą dėl leidimo išdavimo priežiūros institucija ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo informuoja pareiškėjus, jeigu šiame Įstatyme nenustatyta kitaip. Priežiūros institucijos atsisakymas išduoti leidimą turi būti motyvuotas.“
 
-\#### 11 straipsnis. Įstatymo priedo papildymas
+## 11 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 10 punktu:
 
 „10. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).“
 
-\#### 12 straipsnis. Įstatymo taikymas
+## 12 straipsnis. Įstatymo taikymas
 
 Iki šio Įstatymo įsigaliojimo priežiūros institucijai paduoti prašymai dėl sutikimo įsigyti banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį nagrinėjami ir sprendimai priimami prašymo padavimo metu galiojusių teisės aktų nustatyta tvarka.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C8159B839774"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C8159B839774.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 3, 8, 20, 21, 23, 24, 25, 26 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 26(1) straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [65-2635](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B))
 
-\#### 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 4 dalies pakeitimas
 
 3 straipsnio 4 dalyje po žodžių „paprastaisiais vekseliais“ įrašyti žodžius „pagal Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymą išleistos hipotekinės obligacijos“ ir šią dalį išdėstyti taip:
 
@@ -50,13 +50,13 @@ Vilnius
 
 8) įmonių, kurios verčiasi lizingu (finansine nuoma).“
 
-\#### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
 
 8 straipsnio 2 dalį papildyti sakiniu „Delspinigiai yra išieškomi, jeigu jų išieškojimo sąnaudos neviršija išieškomos sumos“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu draudėjas per draudimo įmonės tarybos nustatytą terminą nesumoka draudimo įmokos arba jos dalies į draudimo įmonės sąskaitą, už kiekvieną pavėluotą dieną yra skaičiuojami delspinigiai. Delspinigių dydį nustato draudimo įmonės taryba, atsižvelgdama į vidutinę praėjusio kalendorinio ketvirčio palūkanų normą, mokamą už Vyriausybės ne ilgiau kaip vieneriems metams išleistas obligacijas litais. Delspinigiai apskaičiuojami ir mokami draudimo įmonės tarybos patvirtinta delspinigių už laiku nesumokėtą draudimo įmoką skaičiavimo ir mokėjimo tvarka. Jeigu draudėjas nesumoka draudimo įmokų, reikiama suma ir delspinigiai iš jo išieškomi Lietuvos Respublikos įstatymų nustatyta tvarka. Delspinigiai yra išieškomi, jeigu jų išieškojimo sąnaudos neviršija išieškomos sumos.“
 
-\#### 3 straipsnis. 20 straipsnio 1 dalies papildymas ir pakeitimas
+## 3 straipsnis. 20 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 20 straipsnio 1 dalį nauju 11punktu:
 
@@ -68,7 +68,7 @@ Vilnius
 
 3. Buvusį 20 straipsnio 1 dalies 11 punktą laikyti 13 punktu.
 
-\#### 4 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 1. 21 straipsnio 4 dalį pripažinti netekusia galios.
 
@@ -82,7 +82,7 @@ Vilnius
 
 4. Buvusį 21 straipsnio 6 dalies 15 punktą laikyti 16 punktu.
 
-\#### 5 straipsnis. 23 straipsnio 1 ir 3 dalių pakeitimas
+## 5 straipsnis. 23 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 23 straipsnio 1 dalyje po žodžių „į Indėlių draudimo fondą draudėjų“ įrašyti žodžius „ir kitos Indėlių draudimo fondo pajamos ir sąnaudos“, po žodžių „į Įsipareigojimų investuotojams draudimo fondą draudėjų“ įrašyti žodžius „ir kitų Įsipareigojimų investuotojams draudimo fondo pajamų“ ir šią dalį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Vilnius
 
 „3. Tuo atveju, kai draudimo išmokoms mokėti viename iš fondų trūksta pinigų, o kitame jų yra, draudimo išmokos gali būti mokamos iš fondo, kuriame yra lėšų, tačiau prieš naudojant kitą fondą, visų pirma panaudojamas pelno rezervas.Po to draudimo įmokos, mokamos į fondą, kuriame trūko lėšų draudimo išmokoms išmokėti, pirmiausia naudojamos lėšoms grąžinti į kitą fondą.“
 
-\#### 6 straipsnis. 24 straipsnio pakeitimas
+## 6 straipsnis. 24 straipsnio pakeitimas
 
 1. Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -106,7 +106,7 @@ Vilnius
 
 „3. Pagal šio straipsnio 2 dalį panaudota draudimo įmonės įstatinio kapitalo dalis iki draudimo įmonės įstatuose nustatyto įstatinio kapitalo dydžio yra atkuriama iš Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo lėšų. Įstatiniam kapitalui atkurti naudojami Indėlių draudimo fondas ir Įsipareigojimų investuotojams draudimo fondas turi atitikti sumas, kuriomis sumažintas įstatinis kapitalas kiekvieno šių fondų draudimo išmokoms mokėti. Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo lėšos naudojamos įstatiniam kapitalui atkurti prieš lėšų grąžinimą į kitą fondą šio Įstatymo 23 straipsnio 3 dalyje nustatyta tvarka.“
 
-\#### 7 straipsnis. 25 straipsnio 1 ir 2 dalių pakeitimas
+## 7 straipsnis. 25 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 25 straipsnio 1 dalį papildyti žodžiais „lėšos, gautos pardavus banko, kurio akcijos iš akcininkų paimtos visuomenės poreikiams, akcijas ar turtą, taip pat kitos sumos“ ir šią dalį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Vilnius
 
 „2. Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo sąnaudas sudaro draudimo išmokos, Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo sąnaudos, sumos paimtoms banko akcijoms iš banko akcininkų visuomenės poreikiams apmokėti, taip pat sumos, skirtos banko, kurio akcijos iš akcininkų paimtos visuomenės poreikiams, veiklos saugumui ir patikimumui atkurti.“
 
-\#### 8 straipsnis. 26 straipsnio pakeitimas
+## 8 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 2. Pajamos, gautos iš draudimo įmonės kapitalo lėšų ir administruojamų fondų investavimo, priskiriamos draudimo įmonės pajamoms ir administruojamų fondų pajamoms proporcingai pagal draudimo įmonės kapitalo, Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo dydžius.“
 
-\#### 9 straipsnis. Įstatymo papildymas 261 straipsniu
+## 9 straipsnis. Įstatymo papildymas 261 straipsniu
 
 Papildyti Įstatymą 26^1straipsniu:
 
@@ -146,7 +146,7 @@ Papildyti Įstatymą 26^1straipsniu:
 
 3. Draudimo įmonės pelno rezervo dydžiui netaikomos Valstybės ir savivaldybės įmonių įstatymo nuostatos.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6734dec0afcd11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6734DEC0AFCD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ STATYBOS ĮSTATYMO NR. I-1240 2, 27 IR 272 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 113 dalį ir ją išdėstyti taip:
 
 „113. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Architektūros įstatyme, Lietuvos Respublikos architektų rūmų įstatyme, Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatyme, Nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos nekilnojamojo turto registro įstatyme, Lietuvos Respublikos pajūrio juostos įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatyme, Lietuvos Respublikos ūkininko ūkio įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos žemės įstatyme.“
 
-\#### 2 straipsnis. 27 straipsnio pakeitimas
+## 2 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 1^1 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) statant naują statinį, rekonstruojant statinį, kuris skirtas Investicijų įstatyme nurodytiems stambiems projektams, išskyrus stambius projektus, Vyriausybės nutarimu pripažintus užtikrinančiais neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti arba kuris skirtas Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatyme nurodytų laisvųjų ekonominių zonų įmonių veiklai vykdyti, arba kuris skirtas Gynybos ir saugumo pramonės įstatyme nurodytiems gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti, arba nugriaunant statinį, esantį stambaus projekto, išskyrus stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinimui skirtoje teritorijoje arba laisvųjų ekonominių zonų teritorijoje, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti skirtoje teritorijoje.“
 
-\#### 3 straipsnis. 272 straipsnio pakeitimas
+## 3 straipsnis. 272 straipsnio pakeitimas
 
 1. Pakeisti 272 straipsnio 51 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 27 straipsnio 1^1 dalies 8 punktą ir jį išdėstyti taip:
 
 „6. Už šio straipsnio 5 ir 5^1 dalyse nurodytų dokumentų tikrumą atsako statytojas (užsakovas).“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. lapkričio 2 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a7974f10d9b311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A7974F10D9B3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo Nr. X-987 1, 2, 4, 6 ir 8 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ VAIKŲ IŠLAIKYMO IŠMOKŲ ĮSTATYMO NR. X-987 1, 2, 4, 6 IR 8 STRAIPSNIŲ PAKEI
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2.Šis įstatymas taikomas asmenims, nesukakusiems 18 metų, taip pat vyresniems negu 18 metų asmenims, kuriems nustatytas 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis ar didelių specialiųjų poreikių lygis arba iki 2005 m. birželio 30 d. – I invalidumo grupė) ir kuriems iki sukankant 18 metų buvo nustatytas neįgalumo lygis (toliau – vaikas), ir vienam iš tėvų, su kuriuo teismo sprendimu arba tėvų susitarimu nustatyta vaiko gyvenamoji vieta, arba globėjui (rūpintojui), kurie kreipiasi dėl išmokų ir kurie atitinka šiame įstatyme nustatytas sąlygas, taip pat asmenims, kurie teismo sprendimu arba pagal teismo patvirtintą vaiko išlaikymo sutartį privalo mokėti vaiko išlaikymo lėšas, bet nevykdo teismo sprendimo arba nemoka visos teismo priteistos sumos.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. **Pareiškėjas** – vienas iš tėvų, su kuriuo teismo sprendimu arba tėvų susitarimu nustatyta vaiko gyvenamoji vieta, arba vyresnis negu 18 metų asmuo, kuriam nustatytas 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis ar didelių specialiųjų poreikių lygis arba iki 2005 m. birželio 30 d. – I invalidumo grupė) ir kuriam iki sukankant 18 metų buvo nustatytas neįgalumo lygis, arba globėjas (rūpintojas), kurie kreipiasi į išmokų administratorių dėl išmokų.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -46,19 +46,19 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 Išmokų administratoriaus patiriamos išmokų skyrimo, mokėjimo ir išieškojimo sąnaudos kompensuojamos pagal Lietuvos Respublikos valstybės socialinių fondų biudžetų atitinkamų metųrodiklių patvirtinimo įstatyme nustatytą procentinį dydį šioms sąnaudoms kompensuoti iš Socialinės apsaugos ir darbo ministerijai skirtų valstybės biudžeto asignavimų.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 1 ir 2 dalyse nustatytais atvejais išmoka vienam vaikui per mėnesį negali būti didesnė negu 2,5 bazinės socialinės išmokos dydžio, galiojusio mėnesį, už kurį mokama išmoka.“
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „Pareiškėjas, kreipdamasis į išmokų administratorių, socialinės apsaugos ir darbo ministrotvirtinamuose vaikų išlaikymo išmokų nuostatuose (toliau – Nuostatai) nustatyta tvarka turi pateikti:“.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 5 straipsnis įsigalioja 2026 m. sausio 1 d.
 

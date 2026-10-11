@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CE9F87B933C8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CE9F87B933C8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutarties ratifikavimo įstatymas
@@ -26,7 +26,7 @@ IR ČEKIJOS RESPUBLIKOS LAISVOSIOS PREKYBOS SUTARTIES RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 24 d. dekretą Nr. 1153, ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. spalio 14 d. Prahoje.
 

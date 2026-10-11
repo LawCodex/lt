@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.84DB7F995602"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.84DB7F995602.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 2 ir 28 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. 17-1706; 2000, Nr. [75-2272](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77), Nr. [102-3215](https://www.e-tar.lt/portal/lt/legalAct/TAR.7181DF7AABFF))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį naujomis 24 ir 25 dalimis:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2. Buvusias 2 straipsnio 24–41 dalis atitinkamai laikyti 26–43 dalimis.
 
-\#### 2 straipsnis. 28 straipsnio pakeitimas
+## 2 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 

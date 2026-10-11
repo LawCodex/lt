@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D7491F2A71FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D7491F2A71FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 15, 16, 17, 19, 20, 29, 44 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6), Nr. [61-1527](https://www.e-tar.lt/portal/lt/legalAct/TAR.9761FC251F63); 1996, Nr. [8-195](https://www.e-tar.lt/portal/lt/legalAct/TAR.8E13ADB62DC6), Nr. [53-1247](https://www.e-tar.lt/portal/lt/legalAct/TAR.2BF2C93368EB); 1997, Nr. [33-809](https://www.e-tar.lt/portal/lt/legalAct/TAR.766F69D3E8D2), Nr. [67-1660](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C4DB7169F34); 1998, Nr. [114-3188](https://www.e-tar.lt/portal/lt/legalAct/TAR.18C5908A6316); 1999, Nr. [57-1835](https://www.e-tar.lt/portal/lt/legalAct/TAR.548C58007EE0))
 
-\#### 1 straipsnis. 12 straipsnio pakeitimas
+## 1 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnio 1 ir 2 dalyse vietoj žodžių „leidimą, leidimas, leidimuose“ atitinkamai įrašyti žodžius „licenciją, licencija, licencijose“, pakeisti 3 dalį ir šį straipsnį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Licencijose turi būti įrašytos leidžiamų gaminti alkoholio produktų, įska
 
 Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas
+## 2 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnyje vietoj žodžio „leidimą“ įrašyti žodį „licenciją“ ir šį straipsnį išdėstyti taip:
 
@@ -48,13 +48,13 @@ Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo bei Įmoni�
 
 Tik įmonėms, turinčioms Lietuvos Respublikos Vyriausybės ar jos pavedimu VTAKT išduotą licencijągaminti alkoholio produktus, šio įstatymo ir kitų teisės aktų nustatyta tvarka leidžiama importuoti nedenatūruotą etilo alkoholį be teisės jį realizuoti kitoms įmonėms.“
 
-\#### 3 straipsnis. 16 straipsnio 1 dalies 1 punkto pakeitimas
+## 3 straipsnis. 16 straipsnio 1 dalies 1 punkto pakeitimas
 
 16 straipsnio 1 dalies 1 punkte vietoj žodžio „leidimą“ įrašyti žodį „licenciją“ ir šį punktą išdėstyti taip:
 
 „1) šio įstatymo ir Lietuvos Respublikos Vyriausybės nutarimų nustatyta tvarka išduotą licenciją;“.
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnio pavadinime ir 1–4 dalyse vietoj žodžių „leidimų, leidimus, leidimai, leidimuose“ atitinkamai įrašyti žodžius „licencijų, licencijas, licencijos, licencijose“, pakeisti 5 dalį ir šį straipsnį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Licencijose importuoti alkoholio produktus įrašomos leidžiamų importuoti alk
 
 Alkoholio produktų importo licencijavimo taisykles, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencijos importuoti alkoholio produktus neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai (akcininkai) arba administracijos vadovai yra įmonių, kurioms buvo panaikintas licencijųgaliojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai (akcininkai, kurių turimų akcijų nominali vertė didesnė kaip 1/10 įstatinio kapitalo).“
 
-\#### 5 straipsnis. 19 straipsnio pakeitimas
+## 5 straipsnis. 19 straipsnio pakeitimas
 
 19 straipsnio pavadinime ir 1–5 dalyse vietoj žodžių „leidimai, leidimus, leidimą, leidimuose“ atitinkamai įrašyti žodžius „licencijos, licencijas, licenciją, licencijose“, pakeisti 6 dalį ir šį straipsnį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Mažmeninės prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įm
 
 Alkoholio produktų vidaus prekybos licencijavimo taisykles, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencijos verstis vidaus prekyba alkoholio produktais neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai yra įmonių, kurioms buvo panaikintas licencijųgaliojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai.“
 
-\#### 6 straipsnis. 20 straipsnio pakeitimas
+## 6 straipsnis. 20 straipsnio pakeitimas
 
 1. 20 straipsnio 1 dalies 2, 10, 11, 14 punktuose vietoj žodžių „leidimus, leidimą, leidimas, leidimo, leidimai“ įrašyti atitinkamai žodžius „licencijas, licenciją, licencija, licencijos“ ir šiuos punktus išdėstyti taip:
 
@@ -110,13 +110,13 @@ Didmeninės prekybos įmonėms, turinčioms teisę parduoti alkoholinius gėrimu
 
 Įmonėms, turinčioms licencijas gaminti alkoholinius gėrimus, leidžiama juos realizuoti įmonėms, turinčioms licencijas verstis didmenine ir mažmenine prekyba alkoholiniais gėrimais, ir įmonėms, naudojančioms šiuos gėrimus kaip konditerijos gaminių žaliavą. Įmonėms, turinčioms licencijas gaminti, importuoti denatūruotą etilo alkoholį, importuoti techninį etilo alkoholį, leidžiama juos realizuoti įmonėms, įstaigoms ir organizacijoms, naudojančioms juos gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose. Įmonėms, turinčioms licencijas gaminti nedenatūruotą etilo alkoholį, leidžiama jį realizuoti įmonėms, įstaigoms ir organizacijoms, naudojančioms jį gamybos, techninėms, medicinos, veterinarijos reikmėms, mokslo ir tyrimo darbuose, bei įmonėms, turinčioms licencijas verstis didmenine prekyba juo (aprūpinančioms ūkio subjektus, kurie naudoja jį medicinos bei veterinarijos reikmėms).“
 
-\#### 7 straipsnis. 29 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 29 straipsnio 2 dalies pakeitimas
 
 29 straipsnio 2 dalyje vietoj žodžio „leidimus“ įrašyti žodį „licencijas“ ir šią dalį išdėstyti taip:
 
 „Lietuvos Respublikos Vyriausybė įmonėms, kurios turi nustatyta tvarka išduotas licencijas prekiauti alkoholiniais gėrimais, turi teisę nustatyti ir kitus alkoholinių gėrimų pardavimo skatinimo ribojimus.“
 
-\#### 8 straipsnis. 44 straipsnio 2, 8, 10, 11, 12 ir 13 dalių pakeitimas
+## 8 straipsnis. 44 straipsnio 2, 8, 10, 11, 12 ir 13 dalių pakeitimas
 
 1. 44 straipsnio 2 dalyje vietoj žodžio „leidimo“ įrašyti žodį „licencijos“ ir šią dalį išdėstyti taip:
 

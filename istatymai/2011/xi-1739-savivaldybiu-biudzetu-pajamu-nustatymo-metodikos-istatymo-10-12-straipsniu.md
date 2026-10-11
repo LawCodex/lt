@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BFACC66FD692"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BFACC66FD692.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 10, 12 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005); 2001, Nr. [94-3307](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CB6C63497C9); 2002, Nr. [68-2773](https://www.e-tar.lt/portal/lt/legalAct/TAR.42838C716F20), Nr. [123-5527](https://www.e-tar.lt/portal/lt/legalAct/TAR.604034235568); 2003, Nr. [117-5320](https://www.e-tar.lt/portal/lt/legalAct/TAR.3E1CB10AC3E6); 2005, Nr. [150-5463](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8829877B34F); 2007, Nr. [132-5361](https://www.e-tar.lt/portal/lt/legalAct/TAR.C05D62AE03CF); 2008, Nr. [149-6037](https://www.e-tar.lt/portal/lt/legalAct/TAR.98C4E019B535); 2009, Nr. [147-6552](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9073B487A66); 2010, Nr. [145-7421](https://www.e-tar.lt/portal/lt/legalAct/TAR.764EBB0F2237))
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 7. Kai Seimas priima įstatymus arba Vyriausybė, vykdydama įstatymus, priima nutarimus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų metų įsipareigojimai, valstybės institucijos ir įstaigos bei savivaldybių vykdomosios institucijos patikslina valstybės biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.“
 
-\#### 2 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 12 straipsnio 3 dalyje vietoj žodžių ir skaičių „ir 2011“ įrašyti skaičius „2012“ ir šią dalį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 „4. 2010–2012 biudžetiniais metais valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių 2010–2012 metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) didėja, palyginti su 2009 biudžetiniais metais apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.“
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos rengiant 2012 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DE6703D1629A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE6703D1629A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 78, 79, 80, 81 ir 83 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [101-2300](https://www.e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8); 2000, Nr. [75-2266](https://www.e-tar.lt/portal/lt/legalAct/TAR.7669EDB22079), Nr. [85-2584](https://www.e-tar.lt/portal/lt/legalAct/TAR.10908B23A308); 2001, Nr. [99-3527](https://www.e-tar.lt/portal/lt/legalAct/TAR.481E9CD7F1B9))
 
-\#### 1 straipsnis. 78 straipsnio pakeitimas
+## 1 straipsnis. 78 straipsnio pakeitimas
 
 78 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikos hipotekos bei“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekso ir“, 2 dalyje vietoj žodžių „Lietuvos Respublikos hipotekos įstatyme“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekse“ ir šį straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar Lietuvos Respublikos civilinio proceso kodekse, taikomos šio Įstatymo nuostatos.“
 
-\#### 2 straipsnis. 79 straipsnio pakeitimas
+## 2 straipsnis. 79 straipsnio pakeitimas
 
 Pakeisti 79 straipsnio 1 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 79 straipsnio 1 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 3. Hipotekos sandoryje arba sprendime dėl priverstinės hipotekos nustatymo laivo buvimo vieta hipotekos sudarymo momentu gali būti nenurodyta.“
 
-\#### 3 straipsnis. 80 straipsnio pakeitimas
+## 3 straipsnis. 80 straipsnio pakeitimas
 
 Pakeisti 80 straipsnį ir jį išdėstyti taip:
 
@@ -58,19 +58,19 @@ Pakeisti 80 straipsnį ir jį išdėstyti taip:
 
 Prašymas nustatyti, pakeisti ar baigti priverstinęlaivo hipoteką, kai tokia hipoteka nustatoma teismo sprendimu, pateikiamas Klaipėdos miesto apylinkės teismui.“
 
-\#### 4 straipsnis. 81 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 81 straipsnio 2 dalies pakeitimas
 
 81 straipsnio 2 dalyje vietoj žodžių „Klaipėdos miesto apylinkės teismo Hipotekos skyriui, kuris apie tai privalo įspėti visus hipotekos kreditorius“ įrašyti žodžius „visiems Hipotekos registre nurodytiems hipotekos kreditoriams“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu pagal Laivų registravimo taisykles įkeistas laivas privalo būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro kitais negu laivo pardavimas atvejais, apie tai turi būti pranešta visiems Hipotekos registre nurodytiems hipotekos kreditoriams, kad šie turėtų laiko imtis veiksmų savo interesams apsaugoti. Šioje dalyje nurodytu atveju įkeistas laivas negali būti išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos kreditorių įspėjimo. Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti anksčiau.“
 
-\#### 5 straipsnis. 83 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 83 straipsnio 1 dalies pakeitimas
 
 83 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikos hipotekos įstatymo“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekso“ ir šią dalį išdėstyti taip:
 
 „1. Sprendimas priverstinai parduoti Lietuvos Respublikoje įkeistą laivą priimamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“
 
-\#### 6 straipsnis. Baigiamosios nuostatos
+## 6 straipsnis. Baigiamosios nuostatos
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 

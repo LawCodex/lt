@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EDF2E51F8E58"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EDF2E51F8E58.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 2, 10, 22, 25, 28, 32, 34, 35, 36 straipsnių pakeitimo ir papildymo ir 29 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,17 +24,17 @@ Vilnius
 
 (Žin., 1995, Nr. 107-2391; 2004, Nr. 21-617, Nr. 152-5532; 2006, Nr. 66-2429; 2008, Nr. 10-337, Nr. 135-5232; 2009, Nr. 144-6351, Nr. 159-7205; 2010, Nr. 65-3195)
 
-\#### 1 straipsnis. 2 straipsnio 44 dalies pripažinimas netekusia galios
+## 1 straipsnis. 2 straipsnio 44 dalies pripažinimas netekusia galios
 
 2 straipsnio 44 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 10 straipsnio 7 dalies pakeitimas
+## 2 straipsnis. 10 straipsnio 7 dalies pakeitimas
 
 Pakeisti 10 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Patvirtinus bendrąjį planą, vykdoma šių teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsena (monitoringas), priežiūra ir kontrolė, nuolat kaupiama ir analizuojama informacija, nustatomas investicijų poreikis, rengiamos programos bendrojo plano sprendiniams įgyvendinti.“
 
-\#### 3 straipsnis. 22 straipsnio 3 dalies 1 punkto pakeitimas ir šios dalies papildymas 14 punktu
+## 3 straipsnis. 22 straipsnio 3 dalies 1 punkto pakeitimas ir šios dalies papildymas 14 punktu
 
 1. Pakeisti 22 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Pakeisti 10 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „14) pagal Lietuvos Respublikos sodininkų bendrijų įstatymo nuostatas statant statinius mėgėjiško sodo teritorijose.“
 
-\#### 4 straipsnis. 25 straipsnio papildymas 7 dalimi
+## 4 straipsnis. 25 straipsnio papildymas 7 dalimi
 
 Papildyti 25 straipsnį 7 dalimi:
 
 „7. Jeigu planavimo sąlygos ar jų sąvadas per nustatytą terminą nebuvo išduoti ir planavimo organizatoriui nepranešta apie neišdavimo priežastis, planavimo organizatorius turi teisę kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kuri Administracinių teisės pažeidimų kodekso nustatyta tvarka atsakingiems už planavimo sąlygų ar planavimo sąlygų sąvado išdavimą asmenims surašo administracinių teisės pažeidimų protokolus ir siunčia šiuos protokolus teismui.“
 
-\#### 5 straipsnis. 28 straipsnio pakeitimas
+## 5 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -72,11 +72,11 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 6. Duomenis Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkytojui jo prašymu nustatyta tvarka teikia valstybės registrų, kadastrų, klasifikatorių, specializuotų duomenų bazių tvarkytojai.“
 
-\#### 6 straipsnis. 29 straipsnio pripažinimas netekusiu galios
+## 6 straipsnis. 29 straipsnio pripažinimas netekusiu galios
 
 29 straipsnį pripažinti netekusiu galios.
 
-\#### 7 straipsnis. 32 straipsnio 3, 4, 5 dalių pakeitimas ir straipsnio papildymas 6 dalimi
+## 7 straipsnis. 32 straipsnio 3, 4, 5 dalių pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 „6. Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos priimti administraciniai sprendimai yra privalomi viešojo administravimo subjektams, dėl kurių priimtų administracinių sprendimų ar neveikimo buvo pradėta administracinė procedūra.“
 
-\#### 8 straipsnis. 34 straipsnio 1 ir 4 dalių pakeitimas
+## 8 straipsnis. 34 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -112,13 +112,13 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 „4. Valstybinę teritorijų planavimo priežiūrą atliekanti institucija teritorijų planavimo dokumento patikrinimo aktą turi pateikti per 20 darbo dienų nuo teritorijosplanavimo dokumento pateikimo dienos.“
 
-\#### 9 straipsnis. 35 straipsnio 4 punkto pakeitimas
+## 9 straipsnis. 35 straipsnio 4 punkto pakeitimas
 
 Pakeisti 35 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) pagal kompetenciją vienus metus po viešojo administravimo subjekto priimto su teritorijų planavimu susijusio administracinio sprendimo šio Įstatymo ir Viešojo administravimo įstatymo nustatyta tvarka nagrinėja su šiuo administraciniu sprendimu susijusius skundus ir pranešimus;“.
 
-\#### 10 straipsnis. 36 straipsnio 6 dalies pakeitimas
+## 10 straipsnis. 36 straipsnio 6 dalies pakeitimas
 
 Pakeisti 36 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -132,15 +132,15 @@ Pakeisti 36 straipsnio 6 dalį ir ją išdėstyti taip:
 
 4) suteikiantis subjektinę teisę specialisto ar vyriausiojo architekto priimtas administracinis sprendimas panaikintas teismo sprendimu kaip neteisėtas.“
 
-\#### 11 straipsnis. Baigiamosios nuostatos
+## 11 straipsnis. Baigiamosios nuostatos
 
 Iki teritorijų planavimo valstybinės priežiūros tvarką reglamentuojančio įstatymo priėmimo teritorijų planavimo valstybinės priežiūros tvarką nustato Aplinkos ministerija ir Žemės ūkio ministerija.
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas
+## 12 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2010 m. spalio 1 d.
 
-\#### 13 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 13 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos RespublikosVyriausybė iki 2012 m. sausio 1 d. parengia ir pateikia Seimui teritorijų planavimo valstybinės priežiūros tvarką reglamentuojančio įstatymo projektą.
 

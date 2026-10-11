@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.889406B54717"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.889406B54717.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 1970 metų Europos konvencijos dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo ratifikavimo įstatymas
@@ -26,17 +26,17 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1970 metų Europos konvenciją dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo“, ratifikuoja su pareiškimu ir išlygomis 1970 metų Europos konvenciją dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo, pasirašytą 1995 m. liepos 10 d. Strasbūre.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Lietuvos Respublikos Seimas pareiškia, kad:
 
 Vadovaudamasi Konvencijos 19 straipsnio 2 dalimi, Lietuva pasilieka teisę reikalauti, jog prie prašymų bei juos lydinčiųjų dokumentų, pateikiamų Lietuvos Respublikai, būtų pridedami atitinkami vertimai į anglų, vokiečių, rusų arba lietuvių kalbas, jei minėti dokumentai nėra surašyti viena iš šių kalbų.
 
-\#### 3 straipsnis. Lietuvos Respublikos išlygos
+## 3 straipsnis. Lietuvos Respublikos išlygos
 
 Remdamasi Konvencijos 61 straipsnio 1 dalimi, Lietuva pareiškia, kad pasilieka teisę:
 

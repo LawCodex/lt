@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5DEE319118E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5DEE319118E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl koncesijos suteikimo ir Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimo Visagino branduolinės (atominės) elektrinės projekte
@@ -26,13 +26,13 @@ DĖL KONCESIJOS SUTEIKIMO IR LIETUVOS RESPUBLIKOS ESMINIŲ TURTINIŲ ĮSIPAREIGO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šio įstatymo paskirtis – pritarti koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte ir pritarti Lietuvos Respublikos, strateginio investuotojo ir projekto įgyvendinimo bendrovės sudaromos koncesijos sutarties (toliau – koncesijos sutartis) projektui, įskaitant koncesijos sutarties projekte nustatytus Lietuvos Respublikos esminius turtinius įsipareigojimus.
 
 2. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos koncesijų įstatyme (toliau – Koncesijų įstatymas) ir Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme (toliau – Branduolinės (atominės) elektrinės įstatymas).
 
-\#### 2 straipsnis. Sprendimas dėl koncesijos
+## 2 straipsnis. Sprendimas dėl koncesijos
 
 1. Lietuvos Respublikos Seimas pritaria:
 
@@ -46,7 +46,7 @@ Vilnius
 
 2. Koncesija projekto įgyvendinimo bendrovei valstybės vardu suteikiama Koncesijų įstatymo ir Branduolinės (atominės) elektrinės įstatymo nustatyta tvarka.
 
-\#### 3 straipsnis. Esminiai turtiniai įsipareigojimai
+## 3 straipsnis. Esminiai turtiniai įsipareigojimai
 
 1. Valstybė įstatymu prisiima visus esminius turtinius įsipareigojimus pagal koncesijos sutartį, įskaitant, bet neapsiribojant:
 
@@ -64,11 +64,11 @@ Vilnius
 
 2. Lietuvos Respublikos esminiai turtiniai įsipareigojimai prisiimami koncesijos sutartyje nustatytomis sąlygomis, mastu ir tvarka.
 
-\#### 4 straipsnis. Ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarka
+## 4 straipsnis. Ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarka
 
 Lietuvos Respublikos Seimas pritaria susitarimui dėl ginčų, kylančių iš koncesijos sutarties ar su ja susijusių, sprendimo arbitražo tvarka, kaip numatyta koncesijos sutarties projekto 45 punkte ir kitose koncesijos sutarties nuostatose.
 
-\#### 5 straipsnis. Papildomų teisių nesuteikimas
+## 5 straipsnis. Papildomų teisių nesuteikimas
 
 Šis įstatymas strateginiam investuotojui, jo susijusioms įmonėms, koncesijos sutarties projekte nurodytiems generaliniam rangovui, branduolinio kuro tiekėjui ir kitiems projekto įgyvendinimo bendrovės akcininkams bei kitiems asmenims nesuteikia daugiau teisių, negu koncesijos sutartis, ir be konkrečios koncesijos sutarties nuostatos taikymo atskirai negali būti taikomas nustatant Lietuvos Respublikos atsakomybę.
 
@@ -106,9 +106,8 @@ and
 
 [PCO]
 
-\| CONCESSION AGREEMENT WITH THE STRATEGIC INVESTOR AND PROJECT COMPANY IN RELATION TO THE VISAGINAS NEW NUCLEAR POWER PLANT PROJECT |
-
-\| --- |
+| CONCESSION AGREEMENT WITH THE STRATEGIC INVESTOR AND PROJECT COMPANY IN RELATION TO THE VISAGINAS NEW NUCLEAR POWER PLANT PROJECT |
+| --- |
 
 **TABLE OF CONTENTS**
 
@@ -1484,17 +1483,12 @@ provided that in the case of (3) and (4) above, the relevant person is not, at t
 
 where for the purposes of this Clause 31.4 (*Strategic Investor transfer of ownership restrictions*):
 
-\| "Japanese Company" | means a company, body corporate or other legal person of any kind formed under the laws of Japan and at least one of its headquarters, principal place of business, or place of central management and control is situated in Japan, together with any wholly-owned direct or indirect subsidiaries thereof; |
-
-\| --- | --- |
-
-\| "American Company" | means a company or body corporate or other legal person of any kind formed under the laws of any of the States of the United States of America or the District of Columbia and at least one of its headquarters, principal place of business, or place of central management and control is situated in the United States, together with any wholly-owned direct or indirect subsidiaries thereof; |
-
-\| "EPC Sub-Contractor" | means any person who is or is anticipated to be (i) a party to a contract with the EPC Contractor in connection with the Project and provides, pursuant to such contract, material work, goods or services to the EPC Contractor in connection with the Project; (ii) an Associated Company of a person covered by (i) above; or (iii) a direct or indirect supplier of material work, goods or services to a person covered by either (i) or (ii) above (material work, goods or services being that which has, or is anticipated to have, a value in excess of €50,000,000); |
-
-\| "Restricted Group" | means an Ultimate Holding Company and each of its Associated Companies the principal business activity of which (taken together) is generating, supplying, transmitting or distributing electricity, regardless in each case of the geographical location in which any such activities are carried out; and |
-
-\| "Ultimate Holding Company" | means a body corporate which does not have a holding company (where holding company has the meaning given to it in section 1159 of the Companies Act 2006). |
+| "Japanese Company" | means a company, body corporate or other legal person of any kind formed under the laws of Japan and at least one of its headquarters, principal place of business, or place of central management and control is situated in Japan, together with any wholly-owned direct or indirect subsidiaries thereof; |
+| --- | --- |
+| "American Company" | means a company or body corporate or other legal person of any kind formed under the laws of any of the States of the United States of America or the District of Columbia and at least one of its headquarters, principal place of business, or place of central management and control is situated in the United States, together with any wholly-owned direct or indirect subsidiaries thereof; |
+| "EPC Sub-Contractor" | means any person who is or is anticipated to be (i) a party to a contract with the EPC Contractor in connection with the Project and provides, pursuant to such contract, material work, goods or services to the EPC Contractor in connection with the Project; (ii) an Associated Company of a person covered by (i) above; or (iii) a direct or indirect supplier of material work, goods or services to a person covered by either (i) or (ii) above (material work, goods or services being that which has, or is anticipated to have, a value in excess of €50,000,000); |
+| "Restricted Group" | means an Ultimate Holding Company and each of its Associated Companies the principal business activity of which (taken together) is generating, supplying, transmitting or distributing electricity, regardless in each case of the geographical location in which any such activities are carried out; and |
+| "Ultimate Holding Company" | means a body corporate which does not have a holding company (where holding company has the meaning given to it in section 1159 of the Companies Act 2006). |
 
 31.4.2 The Strategic Investor undertakes not to register any transfer of Strategic Investor Shares by any Strategic Investor Shareholder if it is aware, after due enquiry, that such transfer would constitute a breach by it of Clause 31.4.1. The Strategic Investor shall, within twenty (20) Business Days of receiving a written request from the RoL, provide the RoL with a certified copy of the register of members (*akcininkų asmeninių vertybinių popierių sąskaitos*) of the Strategic Investor.
 
@@ -1848,405 +1842,208 @@ DEFINITIONS
 
 **DEFINITIONS**
 
-\| "Abandonment" | means, in the period from the Concession Date until the date on which a positive FID or a final negative FID is taken, the occurrence of any of the following events: (A) (1) the Shareholders adopt a decision to liquidate the PCO; (2) a court ruling to initiate bankruptcy proceedings in respect of the PCO comes into effect and which proceedings are not withdrawn or dismissed within twenty (20) Business Days of such court ruling; or (3) any creditor(s) of the PCO (other than the RoL or any Associated Company of the RoL) adopt a decision to initiate out-of-court bankruptcy proceedings against the PCO and: (i) which decision is not withdrawn prior to the commencement of such out-of-court bankruptcy proceedings; or (ii) if proceedings are commenced pursuant to such decision, such proceedings are not frivolous or vexatious or withdrawn or dismissed within twenty (20) Business Days of their commencement; or (B) other than as a result of a Force Majeure Event or applicable law (save where such applicable law, including any Regulatory Requirement is in response to an act or omission of the PCO or any of its Subcontractors), neither a positive nor negative FID has been taken by the Shareholders by the earlier of 31 December 2015 or by the date thirty three (33) Months after the date of the issuance of the first LNTP or such later date as may have been agreed by the RoL; (C) the PCO commits a repudiatory breach of this Concession Agreement, other than where such event is as a direct result of a RoL Event or any failure of the RoL to meet its obligations under this Concession Agreement; |
-
-\| --- | --- |
-
-\| "Access Road" | has the meaning given to it in Paragraph 1 (Definitions and Interpretation) of Schedule 2 (Road Access Works); |
-
-\| "Access Road Construction Contracts" | means any construction contract, professional appointment or similar or related agreement entered into by or on behalf of the RoL with a Third Party in connection with the design, construction or maintenance of the Access Road Works; |
-
-\| "Access Road Works" | has the meaning given to it in Paragraph 1 (Definitions and Interpretation) of Schedule 2 (Access Road Works); |
-
-\| "Affected Party" | means the Party or Parties affected by a Force Majeure Event; |
-
-\| "Amended Vienna Convention" | means the Vienna Convention on Civil Liability for Nuclear Damage 1963 as amended by the Vienna Protocol; |
-
-\| "American Company" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
-
-\| "Ancillary Contract" | means the EPC Contract and, if applicable, the O&M Support Contract and/or Fuel Supply Contract and "Ancillary Contracts" shall be construed accordingly; |
-
-\| "Ancillary Contractor" | means any contractor providing works or services which is a party to an Ancillary Contract; |
-
-\| "Associated Company" | means any Formation which directly or indirectly Controls, is Controlled by, or is under common Control with the relevant entity (and, where the relevant entity is a consortium, any member of the consortium); |
-
-\| "Business Day" | means a Calendar Day other than a Saturday, Sunday or a legal or bank holiday in Lithuania; |
-
-\| "Calculation Date" | means for the purpose of the calculation of Invested Capital and the proportion of the Invested Capital Statement under Clause 26 (RoL Event Mandatory Transfer of Shares), the date on which the relevant RoL Event is agreed or determined to have occurred under Clause 20.2 (Termination for a RoL Event); |
-
-\| --- | --- |
-
-\| "Calendar Day" | means a period of twenty-four (24) hours ending at twelve (12) midnight; |
-
-\| --- | --- |
-
-\| "Centre" | has the meaning given to it in Clause 45.3 (Dispute Resolution Procedure and Arbitration); |
-
-\| "Challenging Entity" | has the meaning given to it in Clause 16.5.3(B) (Breach of warranty); |
-
-\| "Claim" | means any claim, demand, action or suit, cause of action or proceeding under or in connection with this Concession Agreement; |
-
-\| "COD" or "Commercial Operation Date" | means the date that the NNPP begins generating electricity for export to the national transmission grid for commercial purposes (and not solely for the purposes of testing the completed NNPP); |
-
-\| "Competent Authority" | means any national or supra-national agency, authority, inspectorate at the international, European Union, State or municipal level, court or tribunal of the European Union or the Republic of Lithuania or any part of it which has jurisdiction over all or any part of the PCO, the PCO Assets, the Shares and/or the Project; |
-
-\| "Competitor" "Concession" | has the meaning given to it in the Shareholders' Agreement; has the meaning given to it in Recital E; |
-
-\| "Concession Date" | means the date of this Concession Agreement being also the date on which the RoL awards the Concession to the PCO; |
-
-\| "Consents" | means any authorisation, consent, licence, permit, permission, order, agreement, notice or other form of approval by or with any Competent Authority which is required by Law, relating to the acquisition, ownership, occupation, construction, start-up, commissioning, testing, fuelling, operation, repair, decommissioning or maintenance of the NNPP (including the Construction and Operation Licence) and, without prejudice to the generality of the foregoing, shall include any condition precedent or other requirement of any Competent Authority which must as a matter of Law be satisfied prior to the grant, issuance, renewal, variation, extension, continuation and/or reconfirmation of any such authorisation, consent, licence, permit, permission, order, agreement, notice or other form of approval (including the Construction and Operation Licence); |
-
-\| "Construction and Operation Licence" | means a licence granted under the Law on Nuclear Safety on the Republic of Lithuania of 28 June 2011, No. XI-1539 to construct and operate nuclear energy object(s); |
-
-\| "Contract Claim" | has the meaning given to it in Clause 16.2.2 (Concurrent Claims); |
-
-\| "Contract Term" | has the meaning given to it in Clause 2.2 (Award of Concession and Term); |
-
-\| "Contractual National Security Criteria" | means the criteria set out in Schedule 4 (National Security Criteria); |
-
-\| "Control" | including, with its correlative meanings, "Controlled by" and "under common Control with" means: |
-
-\| | (A) the power (whether directly or indirectly, and whether by the ownership of share capital, the possession of voting power, contract or otherwise): (i) to appoint and/or remove all or such of the members of the board of directors or other governing body of a person as are able to cast a majority of the votes capable of being cast by the members of that board or body; and/or (ii) to control the policies and affairs of that person, in both cases in all, or substantially all, matters; or |
-
-\| | (B) the holding and/or possession of the beneficial interest in and/or the ability to exercise the voting rights applicable to shares or other securities in any person (whether directly or by means of holding such interests in one or more other persons) which confer in aggregate on the holders thereof 50 per cent or more of the total voting rights exercisable at general meetings of that person on all, or substantially all, matters. |
-
-\| | For the avoidance of doubt, the appointment of a receiver, receiver and manager, administrative receiver, administrator, liquidator, insolvency official or similar in any jurisdiction in respect of any person or the property of any person (or the exercise by any such receiver, receiver and manager, administrative receiver, administrator, liquidator, insolvency official or similar, of any of its powers other than a power of sale in respect of relevant shares or securities) shall not be considered to alter who Controls such person; |
-
-\| "Convention on Supplementary Compensation" | means the Convention on Supplementary Compensation for Nuclear Damage 1997; |
-
-\| "Credit Payments" | has the meaning given to it in the Shareholders' Agreement; |
-
-\| "Decommissioning Phase" | means the period from and including the date that the decommissioning of the NNPP in accordance with applicable Law commences; |
-
-\| "Decommissioning and Waste Funding Principles" | means the principles set out in Schedule 6 (Decommissioning and Waste Funding Principles); |
-
-\| "Development Timetable" | means the overall timetable for the development of the Project as prepared by the PCO; |
-
-\| "Disclosing Party" | has the meaning given to it in Clause 13.2 (Confidential Information); |
-
-\| "Dispute" | has the meaning given to it in the Dispute Resolution Procedure in Clause 45 (Dispute Resolution Procedure and Arbitration); |
-
-\| "Dispute Resolution Procedure" | means the dispute resolution procedure set out in Clause 45 (Dispute Resolution Procedure and Arbitration); |
-
-\| "Eesti Energia" | [means Eesti Energia AS, a company incorporated under the laws of Estonia with registration number 10421629 whose registered office is at: Laki tn. 24, 12915 Tallinn, Estonia;] |
-
-\| "Encumbrance" | means any charge, mortgage, lien, option, equity, power of sale, hypothecation, usufruct, retentioned title, right of pre-emption, right of first refusal or other third party right in the nature of a security interest or an agreement, arrangement or obligation to create any of the foregoing; |
-
-\| "Energy Charter Treaty" | means the Energy Charter Treaty as opened for signature in Lisbon on 17 December 1994 and in force as of 16 April 1998; |
-
-\| "Energy Charter Treaty Replacement" | has the meaning given to it in Paragraph 1.3 of Schedule 8 (Fundamental Change); |
-
-\| "ENSREG" | means the European Nuclear Safety Regulators Group and/or any organisation which has taken over, or carries out on behalf of the ENSREG, all or part of the functions or responsibilities of the ENSREG; |
-
-\| "Environment" | means air (including air within buildings and air within other natural or man-made structures above or below ground), water (including territorial and coastal and inland waters, groundwater and water within any natural or man-made structure) and land (including land under water, surface land and sub-surface land) and any organisms or ecosystems supported by the air, water or land; |
-
-\| "Environmental Regulations" | means each applicable Law relating to the pollution or protection of the Environment, or human health and safety, or the generation, transportation, storage, treatment, disposal or presence of any Hazardous Substance; |
-
-\| "EPC Contract" | means any engineering, procurement and construction contract under which the EPC Contractor will provide engineering, procurement and construction services, support services and, if agreed under the terms of that contract, certain fuel services to the PCO for the purposes of the Project; |
-
-\| "EPC Contractor" | means any one or more Associated Companies of the Strategic Investor, which may be or include Hitachi-GE Nuclear Energy, Ltd., (the identity of which, if not Hitachi-GE Nuclear Energy, Ltd. or not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd. (in a form accepted by the PCO) shall be subject to acceptance by the RoL) that enters into an EPC Contract with the PCO; |
-
-\| "EPC Contractor Default" | means where the EPC Contractor is in breach or default of the EPC Contract and such breach entitles the PCO to terminate the EPC Contract; |
-
-\| "EPC Sub-Contractor" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
-
-\| "EURATOM" | means the European Atomic Energy Community and/or any organisation which has taken over, or carries out on behalf of the EURATOM, all or part of the functions or responsibilities of the EURATOM; |
-
-\| "EURIBOR" | means, in relation to an overdue amount, the percentage rate equal to the six (6) Month Euro Interbank Offered Rate determined by the Banking Federation of the European Union displayed on the appropriate page of the Reuters screen at 11.00 a.m. on the date on which such amount became due; |
-
-\| "Excepted Property" | has the meaning given to it in Clause 46.3 (Sovereign Immunity Waiver); |
-
-\| "Exiting Shareholder" | has the meaning given to it in Clause 20.2.1 (Termination for a RoL Event); |
-
-\| "FID" | means a final investment decision in relation to the Project as provided for in the Shareholders' Agreement and "positive FID" shall be construed as a final investment decision to proceed with the Project and "negative FID" shall be construed as a final investment decision not to proceed with the Project; |
-
-\| "final negative FID" | has the meaning given to it in Clause 11.4.1 (Notification of taking FID); |
-
-\| "Financier" | means: (A) any person who provides, commits to provide, underwrites, insures and/or guarantees any direct or indirect financial accommodation (including, without limitation, loans, securities, letters of credit, performance guarantees, other documentary credits, derivatives or other forms of financial indebtedness) to or for the account of the PCO or any Shareholder(s); and |
-
-\| | (B) any agent or trustee on behalf of any of the persons referred to in paragraph (A) above; and (C) any rating agency who may issue a public or private rating in respect of any such financial accommodation; |
-
-\| "First Concrete" | means the commencement of the first reactor building structural concrete pour by the EPC Contractor in accordance with the EPC Contract and as shown on the Development Timetable; |
-
-\| "Force Majeure Event" | means any act, event or occurrence affecting any Party's performance of its obligations under this Concession Agreement, the cause of which is not of such Party's making nor within that Party's reasonable control (and, in relation to the PCO having acted in accordance with Good Industry Practice or, in relation to the RoL having acted in a reasonable and prudent manner to avoid such act, event or occurrence), including (to the extent not of that Party's making nor within that Party's reasonable control): (A) epidemic, war, hostilities (whether or not war has been declared), blockades, terrorist acts or acts of any civil or military authority; (B) riot, insurrection, civil commotion, public disobedience, public demonstration, sabotage or acts of vandalism; (C) acts of God including fire, flood, earthquake, adverse weather, meteorological and sea conditions, landslides, lightning, volcanic eruption or explosion; (D) impact from aircraft or things falling from aircraft; (E) any strike, lock-out, trade dispute or other labour disruptions (i) not involving solely the personnel or subcontractors of that Party; and (ii) not originating with that Party's personnel or subcontractors or the personnel or subcontractors of any Associated Company of that Party; or (F) any ionising radiation, contamination by radioactivity, radioactive, chemical or biological contamination; |
-
-\| "Formation" | means any company, partnership, limited liability partnership, trust, fund or other entity (whether being a legal person or not); |
-
-\| "Fuel Supply Contract" | means any nuclear fuel supply and related services contract which may be entered into by the PCO and the Nuclear Fuel Supplier as contemplated by the Nuclear Fuel Supply Terms; |
-
-\| "Full Notice to Proceed" or "FNTP" | means the "FNTP" or Full Notice to Proceed issued under the EPC Contract; |
-
-\| "GE-Hitachi Nuclear Energy Americas LLC" | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶; |
-
-\| "Global Nuclear Fuel-Americas, LLC" | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶; |
-
-\| "Good Industry Practice" | means exercising the degree of skill and care, diligence, prudence and foresight which would reasonably and ordinarily be expected of a skilled and experienced contractor, owner or operator (as applicable) engaged in activities: (A) as applicable to the PCO (i) of a similar nature, scope, value and complexity to the Concession activities and under the same or similar circumstances, (ii) in relation to the maintenance and operation of a new nuclear power plant of a similar nature, scope, value and complexity to the completed NNPP, and (iii) in relation to clean-up and/or decommissioning activities of a nuclear site and new nuclear power plant of a similar nature, scope, value and complexity to the completed NNPP; and (B) as applicable to the RoL, activities of a similar nature, scope, value and complexity to the design, construction and maintenance of the Access Road, in each case (as applicable), where such contractor, owner or operator (as applicable) is seeking to comply with its contractual obligations, including in relation to all applicable Laws, Consents, codes of practice and standards; |
-
-\| "Hazardous Substance" | means any natural or artificial substance or thing (whether in solid, liquid or gaseous form) which is (alone or in combination) capable of causing harm to the Environment or harm to human health; |
-
-\| "Highly Sensitive Information" | means: (A) information relating to the design and construction of all or any part of a Hitachi, Ltd., Hitachi-GE Nuclear Energy, Ltd., GE-Hitachi Nuclear Energy Americas LLC or one of their Associated Company's ABWR nuclear power plants; |
-
-\| | (B) information relating to the design or manufacturing of any nuclear fuel by Global Nuclear Fuel – Americas, LLC; and (C) pricing information to be provided by the EPC Contractor, the Nuclear Fuel Supplier and/or the O&M Support Contractor under or in connection with the EPC Contract, the Fuel Supply Contract and/or the O&M Support Contract, but not for the avoidance of doubt information in respect of the overall price relating to (i) the LNTP and FNTP phases under the EPC Contract, (ii) the Fuel Supply Contract, or (iii) the O&M Support Contract; |
-
-\| "Hitachi-GE Nuclear Energy, Ltd." | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶; |
-
-\| "Hitachi, Ltd." | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶ being the [ultimate] parent company of the Strategic Investor; |
-
-\| "Hitachi, Ltd. Group" | means Hitachi, Ltd. and its Associated Companies; |
-
-\| "IAEA" | means the International Atomic Energy Agency and/or any organisation which has taken over, or carries out on behalf of the IAEA, all or part of the functions or responsibilities of the IAEA; |
-
-\| "IAEA Agreement" | means the Agreement on the Privileges and Immunities of the International Atomic Energy Agency of 1967; |
-
-\| "IAEA Statute" | means the Statute of the International Atomic Energy Agency of 1956; |
-
-\| "ICSID Convention" | has the meaning given to it in Clause 45.4.1 (ICSID Arbitration); |
-
-\| "Indemnified Person" | has the meaning given to it in Clause 16.5.3 (Breach of warranty); |
-
-\| "indexation rate" | means the Production Price Index for Lithuania, published by EUROSTAT; |
-
-\| "Individual" | means a physical person who is a director, officer, partner, member, employee and/or consultant of a Project Participant or a Related Person; |
-
-\| "Intellectual Property Rights" | means any and all worldwide: (A) patent rights and inventions (whether patentable or not), including all patent applications and disclosures thereto, design rights, utility models, copyrights and neighbouring rights and related rights (including rights in software), moral rights, mask work rights, semiconductor topography rights, database rights, trade marks, trade names, business names, domain names and know-how; |
-
-\| | (B) applications for registration and the right to apply for registration thereto; and |
-
-\| | (C) other intellectual property, industrial property or proprietary rights of a corresponding or similar nature recognised in any country or jurisdiction worldwide, |
-
-\| | in each case regardless of whether existing under statute, common law or equity, whether registered or unregistered, and all tangible embodiments thereof; |
-
-\| "Invested Capital" | means in respect of each Exiting Shareholder the aggregate on the Calculation Date of (i) the capital sums invested by that Exiting Shareholder in the PCO by way of either Subscription Payments or Principal Amounts and (ii) Credit Payments in respect of that Exiting Shareholder; |
-
-\| "Invested Capital Statement" | means the table in agreed form set out in Schedule 9 (Invested Capital Statement); |
-
-\| "Investment Date" | means the date on which the Shareholders fund the PCO pursuant to the Shareholders' Agreement in order to provide it with the funding required for the first LNTP; |
-
-\| "Investment Protection Treaty" | means any investment protection treaty between the RoL and one or more other countries (and includes the Energy Charter Treaty); |
-
-\| "Japanese Company" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
-
-\| "Joint Protocol" | means the Joint Protocol Relating to the Application of the Vienna Convention and the Paris Convention of 1988; |
-
-\| "Key Subcontractor" | means an entity who enters into any Key Subcontract with the PCO; |
-
-\| "Key Subcontract" | means a Subcontract which is of material importance to the performance of the Concession, whether because it is of significant value, key to the performance of the PCO's obligations under this Concession Agreement (including a Subcontract with a key technology provider, a supplier of key materials or a key development works contractor), relates to goods or services where there are limited alternative sources or otherwise (and includes any Ancillary Contract); |
-
-\| "Latvenergo" | [means Latvenergo AS, a company incorporated under the laws of Latvia with registration number 40003032949 whose registered office is at: Pulkveza Brieza iela 12, Riga, LV-1230, Latvia;] |
-
-\| "Law" | means: (A) any law passed by the Parliament of the Republic of Lithuania; |
-
-\| | (B) any resolution passed by the Government of the Republic of Lithuania that has the force of the law; (C) any Regulatory Requirement; (D) any decision, order, resolution, regulation, rule, notice adopted at the State or municipal level within the Republic of Lithuania that has the force of the law; (E) the Lithuanian Constitution; (F) any stock exchange regulation, court practices and rulings within the Republic of Lithuania that have the force of law; and (G) any EU law, treaties or other international law acts, in each case as effective in the Republic of Lithuania; |
-
-\| "Law on Concessions" | means the Law on Concessions of the Republic of Lithuania of 24 June 2003, No. IX-1647 (as amended); |
-
-\| "liability" | has the meaning given to it in Clause 1.2.18; |
-
-\| "Limited Notice to Proceed" or "LNTP" | means the "LNTP" or Limited Notice to Proceed issued under the EPC Contract; |
-
-\| "Lithuanian Constitution" | means the Constitution of the Republic of Lithuania adopted by citizens of the Republic of Lithuania under the referendum of 25th October 1992 (as amended from time to time); |
-
-\| "Lithuanian Investor" | means UAB "Visagino atominė elektrinė", a company registered and incorporated in Lithuania under company number 301844044 whose address is at Žvejų g. 14, LT-09310 Vilnius, Lithuania; |
-
-\| "LIV IP" | means all Intellectual Property Rights in the studies and reports relating to the Project as set out in Schedule 7 (LIV IP); |
-
-\| "Losses" | means all losses, damages, liabilities, costs and expenses (including reasonable legal fees and expenses) and "Loss" shall be construed accordingly; |
-
-\| "Mandatory Transfer Price" | has the meaning given to it in Clause 26.2 (Calculation and notification of Mandatory Transfer Price); |
-
-\| "Margin" | has the meaning given to it in Clause 26.2.1 (Calculation and notification of Mandatory Transfer Price); |
-
-\| "MoE" | means the Ministry of Energy of the Republic of Lithuania; |
-
-\| "Month" | means a calendar month which is a period of time consisting of thirty (30) Calendar Days if the period commences in April, June, September and November, and thirty one (31) Calendar Days if it commences in any other month excepting February when it consists of twenty-eight (28) Calendar Days or twenty-nine (29) Calendar Days in a leap year and "Monthly" shall be construed accordingly; |
-
-\| "National Security Criteria" | means the criteria indicated in Part 10, Article 7 and Article 8 of the Law on Enterprises and Facilities of Strategic Importance to National Security and Other Enterprises of Importance to Ensuring National Security of the Republic of Lithuania of 21 July 2009, No. XI-375 and such criteria that substitute or amend the former from time to time; |
-
-\| "New York Convention" | means the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards 1958; |
-
-\| "New York Convention Replacement" | has the meaning given to it in Paragraph 1.4 of Schedule 8 (Fundamental Change); |
-
-\| "NNPP" | has the meaning given to it in Recital C; |
-
-\| "non-Affected Party" | means the Party or Parties not affected by a Force Majeure Event; |
-
-\| "Non-EEA State" | shall mean, from time to time, any State that has not acceded to the European Economic Area as a full member; |
-
-\| "Non-NATO State" | shall mean, from time to time, any State that has not acceded to the North Atlantic Treaty Organisation as a full member; |
-
-\| "Non-Proliferation Treaty" | means the Treaty on the Non Proliferation of Nuclear Weapons of 1968; |
-
-\| "Notice of Dispute" | has the meaning given to it in Clause 45.2 (Dispute Resolution Procedure and Arbitration); |
-
-\| "Nuclear Fuel Supplier" | means an Associated Company of the Strategic Investor (the identity of which, if not Hitachi-GE Nuclear Energy, Ltd. and not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd. (in a form accepted by the PCO) shall be subject to acceptance by the RoL) which enters into the Fuel Supply Contract; |
-
-\| "Nuclear Fuel Supply Terms" | means the terms (in the form of an initialled termsheet) agreed in principle on or about the Concession Date between the PCO and the Nuclear Fuel Supplier in relation to the supply of nuclear fuel and related services to the PCO by the Nuclear Fuel Supplier; |
-
-\| "Nuclear Indemnified Parties" | has the meaning given to it in Clause 15.2 (Nuclear); |
-
-\| "Nuclear Safety Treaty" | means (a) the Convention on Early Notification of a Nuclear Accident of 1986; (b) the Convention on Nuclear Safety of 1994; (c) the Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency of 1986; (d) the Convention on the Physical Protection of Nuclear Material of 1980; or (e) the Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management of 1997, and "Nuclear Safety Treaties" shall mean all or any of them; |
-
-\| "O&M Support Contract" | means any operations and maintenance support services contract which may be entered into by the PCO and the O&M Support Contractor as contemplated by the O&M Support Terms; |
-
-\| "O&M Support Contractor" | means an Associated Company of the Strategic Investor (the identity of which, if not Hitachi-GE Nuclear Energy, Ltd. and not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd. (in a form accepted by the PCO) shall be subject to acceptance by the RoL) which enters into the O&M Support Contract; |
-
-\| "O&M Support Terms" | means the terms (in the form of an initialled termsheet) agreed in principle on or about the Concession Date between the PCO and the O&M Support Contractor or the Strategic Investor on behalf of the O&M Support Contractor in relation to the provision of operations and maintenance support services to the PCO by the O&M Support Contractor; |
-
-\| "Official Gazette" | means Official Gazette of the Republic of Lithuania (Valstybės žinios), including the supplementary issue Information Notices (Informaciniai pranešimai); |
-
-\| "Offtake Right" | has the meaning given to it in Clause 42.1 (Further Assurances and Co-operation in relation to the Power at Cost Structure); |
-
-\| "PCO Assets" | means all assets owned by the PCO to the extent that the same are used or required for the performance by the PCO of the Concession and its obligations under this Concession Agreement; |
-
-\| "PCO Default" | has the meaning given to it in Clause 21 (PCO Default); |
-
-\| "PCO Default Notice" | has the meaning given to it in Clause 21.2.1 (Termination for PCO Default); |
-
-\| "Post-COD Report" | has the meaning given to it in Clause 11.1.1(B) (Project Management); |
-
-\| "Pre-COD Report" | has the meaning given to it in Clause 11.1.1(A) (Project Management); |
-
-\| "Pre-Existing Arbitration" | has the meaning given to it in Clause 45.5.8 (LCIA Arbitration); |
-
-\| "Pre-FID Fundamental Change" | has the meaning given to it in Paragraph 1 (Pre-FID Fundamental Changes) of Schedule 8 (Fundamental Change); |
-
-\| "Principal Amount" | shall mean in respect of a Shareholder any amount of principal drawn down by the PCO from that Shareholder under a Shareholder Loan, excluding any amount of interest paid in kind and capitalised as principal under that Shareholder Loan, less any amount of such draw down principal repaid or prepaid by the PCO to such Shareholder; |
-
-\| "Principles, Standards or Guidelines" | has the meaning given to it in Paragraph 2.1.4(B) of Schedule 8 (Fundamental Change); |
-
-\| "Prohibited Change of Control" | has the meaning given to it in the Shareholders' Agreement; |
-
-\| "Project" | means the design, development, manufacture, supply, construction, operation and decommissioning of the NNPP; |
-
-\| "Project Agreements" | means this Concession Agreement, the Ancillary Contracts and the Shareholders' Agreement, and "Project Agreement" shall be construed accordingly; |
-
-\| "Project Participants" | means each of: (A) Hitachi, Ltd.; |
-
-\| | (B) the Strategic Investor, the EPC Contractor, the O&M Support Contractor and the Nuclear Fuel Supplier; (C) any sub-contractor (of any type and tier) or supplier (of any type and tier) of any of the entities referred to in paragraph (B) above; (D) any Financier; (E) the advisers or agents of any of the entities referenced in paragraph (A), (B), (C) (above) and (F) (below); and (F) the Associated Companies of each of the entities or persons referred to in paragraphs (A), (B), (C), (D) and (C) above, and once a person is or becomes a Project Participant it shall remain a Project Participant notwithstanding that it may subsequently cease to meet any or all of the criteria referred to above; |
-
-\| "Recipient" | has the meaning given to it in Clause 13.2 (Confidentiality); |
-
-\| "Recommended Measure(s)" | has the meaning given to it in Paragraph 2.1.5 of Schedule 8 (Fundamental Change); |
-
-\| "Regional Partner" | shall be such of Latvenergo AS and Eesti Energia AS and PGE Polska Grupa Energetyczna S.A. and any other key partners of the Republic of Lithuania from time to time which may, subject to agreement in accordance with the Shareholders' Agreement and applicable Law, participate in the Project as a Shareholder, and "Regional Partners" will be construed accordingly; |
-
-\| "Regulators" | means the State Nuclear Power Safety Inspectorate (Valstybinė atominės energetikos saugos inspekcija VATESI), the State Territorial Planning and Construction Inspectorate under the Ministry of Environment (Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos) and Utena Region Environmental Protection Department of the Ministry of Environment of the Republic of Lithuania (Lietuvos Respublikos aplinkos ministerijos Utenos regiono aplinkos apsaugos departamentas) and others specific to the relevant Party's obligations under this Concession Agreement and as applicable in the relevant jurisdiction (including in relation to international waters) where that Party's obligations under this Concession Agreement are carried out and "Regulator" shall mean any one of them; |
-
-\| "Regulatory Requirement" | means any legally enforceable requirement of any Regulator in Lithuania; |
-
-\| "Related Agreement" | means any agreement entered into by any Party, including any such agreement with any Third Party, as may be required for the Project, but shall exclude the Access Road Construction Contracts; |
-
-\| "Related Dispute" | has the meaning given to it in Clause 45.5.8 (LCIA Arbitration); |
-
-\| "Related Persons" | means: (A) the Ultimate Holding Company of any Project Participant; (B) the Associated Companies of any entity within paragraph (A) above; and (C) Individuals, and that once an entity is or becomes a Related Person it shall remain a Related Person notwithstanding that it may subsequently cease to meet any or all of the criteria referred to above. It is acknowledged that The General Electric Company is a Related Person; |
-
-\| "Relevant Claim" | has the meaning given to it in Clause 16.5.3 (Breach of warranty); |
-
-\| "Relevant Obligations" | shall have the meaning given to it in the Shareholders' Agreement; |
-
-\| "Replacement Measure" | has the meaning given to it in Paragraph 3 of Schedule 8 (Fundamental Change); |
-
-\| "Report" | has the meaning given to it in Clause 11.1.1 (Project Management); |
-
-\| "Required Insurances" | means those insurances required to be taken out and held by Law; |
-
-\| "Restricted Group" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
-
-\| "Retender Process" | means any reasonable process initiated by the RoL to retender the Concession (and/or any of the unperformed works and services provided under any one or more of the Ancillary Contracts) and/or to retender the Strategic Investor's role in the Concession; |
-
-\| "Retendering Costs" | means those reasonable costs and expenses reasonably and properly incurred by the RoL and/or its nominee directly in connection with undertaking a Retender Process; |
-
-\| "RoL entity" | has the meaning given to it in Clause 13.10 (RoL entity); |
-
-\| "RoL Event" | means any of the events described in Clause 20.1 (Events of RoL Event); |
-
-\| "RoL Event Notice" | has the meaning given to it in Clause 20.2.1 (Termination for a RoL Event); |
-
-\| "RoL Nominee" | means any Lithuanian company nominated by the RoL which is not a Competitor and which does not have a Competitor as a direct or indirect legal or beneficial owner of any of its shares; |
-
-\| "RoL NSC Offer" | has the meaning given to it in Clause 32.1.1 (National Security Criteria Put Option); |
-
-\| "Rules" | has the meaning given to it in Clause 45.5.1 (LCIA Arbitration); |
-
-\| "SCC Transfer Notice" | means a notice sent to the Strategic Companies Commission pursuant to the Shareholders' Agreement and applicable Law in relation to an intended transfer by a Shareholder of all or any of its Shares; |
-
-\| "Shares" | means all or any of the share capital of any class in the PCO; |
-
-\| "Shareholder Loan" | means, in respect of a Shareholder, any loan made to the PCO by that Shareholder in accordance with the Shareholders' Agreement; |
-
-\| "Shareholders" | means the holders of the Shares from time to time, the initial holders being those set out in Schedule 3 (Initial Shareholders' Details and Shareholding); |
-
-\| "Shareholders' Agreement" | means the agreement in force from time to time to which all of the Shareholders are party in relation to (inter alia) their investment in, and the governance and funding of, the PCO which includes a term explicitly identifying such agreement as the "Shareholders' Agreement" for the purposes of this Concession Agreement; |
-
-\| "Shareholder's Interest" | means, in respect of a Shareholder, its Shares and Shareholder Loans; |
-
-\| "Site" | has the meaning given to it in Schedule 5 (Site); |
-
-\| "Specified Nuclear Treaty Replacement" | has the meaning given to it in Paragraph 1.2 of Schedule 8 (Fundamental Change); |
-
-\| "Strategic Companies Commission" | means the Commission for Assessment of Compliance to the Interests of National Security of Potential Members of Companies of Strategic or Significant Importance to National Security (Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija) as indicated in Part 3, Article 7 of the Law on Enterprises and Facilities of Strategic Importance to National Security and Other Enterprises of Importance to Ensuring National Security of 21 July 2009, No. XI-375 as amended, any successors thereof and any bodies to which functions thereof are transferred in part or in full; |
-
-\| "Strategic Investor Default" | has the meaning given to it in Clause 22.1 (Strategic Investor Default); |
-
-\| "Strategic Investor Default Notice" | has the meaning given to it in Clause 22.2.3 (Termination of the Strategic Investor's rights and obligations); |
-
-\| "Strategic Investor Shareholder" | means the legal or beneficial owner of any Strategic Investor Shares from time to time; |
-
-\| "Strategic Investor Shares" | means all or any of the share capital of any class in the Strategic Investor; |
-
-\| "Subcontract" | means any agreement entered into by the PCO in connection with the performance of its obligations under this Concession Agreement or in relation to carrying out the Concession including any Ancillary Contract and any agreement entered into between the PCO and any Key Subcontractor; |
-
-\| "Subcontractor" | means any person who has entered into a Subcontract with the PCO including the EPC Contractor and any O&M Support Contractor, Nuclear Fuel Supplier and/or Key Subcontractor; |
-
-\| "Subscription Payments" | shall mean the payments received by the PCO from a Shareholder in subscription for Shares (whether in partial or full payment up of nominal value, and whether in respect of nominal value or Share premium) issued by the PCO to such Shareholder, less any amounts of such Share capital returned to such Shareholder by the PCO; |
-
-\| "Supplementary Margin" | means an amount equal to the Invested Capital as agreed or finally determined under Clause 26.3 (Disputing the Mandatory Transfer Price), multiplied by (i) the Margin, multiplied by (ii) the number of Calendar Days comprising the period from the Calculation Date to the date on which the payment of the Mandatory Transfer Price (or part thereof) is made under Clause 26.4, divided by (iii) 360, less (iv) the aggregate of any (a) interest paid in cash or cash equivalent by the PCO and received by the relevant Exiting Shareholder, in respect of any Tranche of a Shareholder Loan comprising Invested Capital, and (b) any distribution of income or profit paid in cash or cash equivalents by the PCO and received by the relevant Exiting Shareholder in respect of any Tranche of Shares issued to such Exiting Shareholder in consideration for its Subscription Payments, in each case ((a) and (b)) during the period referred to in (ii) above; |
-
-\| "Tax" | means any of the following tax, levy, impost, duty, charge or withholding of a similar nature, including any penalty or interest payable in connection with any failure to pay or delay in paying any of the same; |
-
-\| "Tender Process" | means the process by which the MoE, on behalf of the RoL, sought to identify an investor to take an interest in a new nuclear power plant project-implementing company pursuant to the notice published in the Official Journal of the EU on 10 December 2009 (No. 2009/S 238-340935); |
-
-\| "Third Party" | means any person other than the Parties; |
-
-\| "Third Party Claimant" | means any Third Party other than: (A) any Shareholder; (B) any party to an Ancillary Contract or any subcontractor (of any types and tier) or supplier (of any type and tier) of any Ancillary Contractor under an Ancillary Contract; and (C) any Associated Company of any entity referred to in paragraphs (A) and (B) above; |
-
-\| "Third Party recipient" | has the meaning given to it in Clause 13.6 (Liability); |
-
-\| "Tranche" | means each separate payment being a Subscription Payment, Principal Amount, or Credit Payment; |
-
-\| "Transfer Decision Notice" | has the meaning given to it in Clause 32.1.2 (National Security Criteria Put Option); |
-
-\| "Transfer Decision Period" | has the meaning given to it in Clause 32.1.2 (National Security Criteria Put Option); |
-
-\| "Transfer Notice" | means the transfer notice issued by any Shareholder(s) under the Shareholders' Agreement; |
-
-\| "Transfer Price" | shall mean the cash consideration offered by a transferee to a Transferring Shareholder determined in accordance with the Shareholders' Agreement; |
-
-\| "Transferring Shareholder" | has the meaning given to it in Clause 31.2.2 (Rights granted to the RoL in relation to Share Transfers and Prohibited Change of Control under the Shareholders' Agreement); |
-
-\| "Transferring Interest" | means in respect of a Transferring Shareholder its Shares, and any rights and interests under any Shareholder Loan; |
-
-\| "Transnational Laws" | has the meaning given to it in Paragraph 2.1.4(B) of Schedule 8 (Fundamental Change); |
-
-\| "Treaty Claim" | has the meaning given to it in Clause 16.2.2 (Concurrent Claims); |
-
-\| "Ultimate Holding Company" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
-
-\| "VATESI" | means the State Nuclear Power Safety Inspectorate (Valstybinė atominės energetikos saugos inspekcija); |
-
-\| "Visaginas New Nuclear Power Plant" | has the meaning given to it in Recital C; |
-
-\| "Vienna Convention 1963" | means the Vienna Convention on Civil Liability for Nuclear Damage of 1963; |
-
-\| "Vienna Protocol" | means the Protocol to Amend the Vienna Convention on Civil Liability for Nuclear Damage of 1997; |
-
-\| "Voluntary Encumbrance" | means in respect of an Exiting Shareholder an Encumbrance put in place by, or resulting from the action, initiative or consent of, such Exiting Shareholder, over such Exiting Shareholder's Shareholder's Interest or any part thereof; |
-
-\| "Wasted Costs" | means: (A) in respect of the RoL, those reasonable costs and expenses reasonably and properly incurred by the RoL or on behalf of the RoL by the Lithuanian Investor; or |
-
-\| | (B) in respect of the Strategic Investor, those reasonable costs and expenses reasonably and properly incurred by the Strategic Investor or on behalf of the Strategic Investor by an Associated Company of the Strategic Investor, during the period from (and including) 14 July 2011 up to (and including) the Concession Date in connection with the Tender Process, including the costs and expenses of activities, works or services performed to progress the Project and the costs and expenses incurred in negotiating this Concession Agreement and each of the Ancillary Contracts; and |
-
-\| "WENRA" | means the Western European Nuclear Regulators' Association and/or any organisation which has taken over, or carries out on behalf of the WENRA, all or part of the functions or responsibilities of the WENRA. |
+| "Abandonment" | means, in the period from the Concession Date until the date on which a positive FID or a final negative FID is taken, the occurrence of any of the following events: (A) (1) the Shareholders adopt a decision to liquidate the PCO; (2) a court ruling to initiate bankruptcy proceedings in respect of the PCO comes into effect and which proceedings are not withdrawn or dismissed within twenty (20) Business Days of such court ruling; or (3) any creditor(s) of the PCO (other than the RoL or any Associated Company of the RoL) adopt a decision to initiate out-of-court bankruptcy proceedings against the PCO and: (i) which decision is not withdrawn prior to the commencement of such out-of-court bankruptcy proceedings; or (ii) if proceedings are commenced pursuant to such decision, such proceedings are not frivolous or vexatious or withdrawn or dismissed within twenty (20) Business Days of their commencement; or (B) other than as a result of a Force Majeure Event or applicable law (save where such applicable law, including any Regulatory Requirement is in response to an act or omission of the PCO or any of its Subcontractors), neither a positive nor negative FID has been taken by the Shareholders by the earlier of 31 December 2015 or by the date thirty three (33) Months after the date of the issuance of the first LNTP or such later date as may have been agreed by the RoL; (C) the PCO commits a repudiatory breach of this Concession Agreement, other than where such event is as a direct result of a RoL Event or any failure of the RoL to meet its obligations under this Concession Agreement; |
+| --- | --- |
+| "Access Road" | has the meaning given to it in Paragraph 1 (Definitions and Interpretation) of Schedule 2 (Road Access Works); |
+| "Access Road Construction Contracts" | means any construction contract, professional appointment or similar or related agreement entered into by or on behalf of the RoL with a Third Party in connection with the design, construction or maintenance of the Access Road Works; |
+| "Access Road Works" | has the meaning given to it in Paragraph 1 (Definitions and Interpretation) of Schedule 2 (Access Road Works); |
+| "Affected Party" | means the Party or Parties affected by a Force Majeure Event; |
+| "Amended Vienna Convention" | means the Vienna Convention on Civil Liability for Nuclear Damage 1963 as amended by the Vienna Protocol; |
+| "American Company" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
+| "Ancillary Contract" | means the EPC Contract and, if applicable, the O&M Support Contract and/or Fuel Supply Contract and "Ancillary Contracts" shall be construed accordingly; |
+| "Ancillary Contractor" | means any contractor providing works or services which is a party to an Ancillary Contract; |
+| "Associated Company" | means any Formation which directly or indirectly Controls, is Controlled by, or is under common Control with the relevant entity (and, where the relevant entity is a consortium, any member of the consortium); |
+| "Business Day" | means a Calendar Day other than a Saturday, Sunday or a legal or bank holiday in Lithuania; |
+
+| "Calculation Date" | means for the purpose of the calculation of Invested Capital and the proportion of the Invested Capital Statement under Clause 26 (RoL Event Mandatory Transfer of Shares), the date on which the relevant RoL Event is agreed or determined to have occurred under Clause 20.2 (Termination for a RoL Event); |
+| --- | --- |
+
+| "Calendar Day" | means a period of twenty-four (24) hours ending at twelve (12) midnight; |
+| --- | --- |
+| "Centre" | has the meaning given to it in Clause 45.3 (Dispute Resolution Procedure and Arbitration); |
+| "Challenging Entity" | has the meaning given to it in Clause 16.5.3(B) (Breach of warranty); |
+| "Claim" | means any claim, demand, action or suit, cause of action or proceeding under or in connection with this Concession Agreement; |
+| "COD" or "Commercial Operation Date" | means the date that the NNPP begins generating electricity for export to the national transmission grid for commercial purposes (and not solely for the purposes of testing the completed NNPP); |
+| "Competent Authority" | means any national or supra-national agency, authority, inspectorate at the international, European Union, State or municipal level, court or tribunal of the European Union or the Republic of Lithuania or any part of it which has jurisdiction over all or any part of the PCO, the PCO Assets, the Shares and/or the Project; |
+| "Competitor" "Concession" | has the meaning given to it in the Shareholders' Agreement; has the meaning given to it in Recital E; |
+| "Concession Date" | means the date of this Concession Agreement being also the date on which the RoL awards the Concession to the PCO; |
+| "Consents" | means any authorisation, consent, licence, permit, permission, order, agreement, notice or other form of approval by or with any Competent Authority which is required by Law, relating to the acquisition, ownership, occupation, construction, start-up, commissioning, testing, fuelling, operation, repair, decommissioning or maintenance of the NNPP (including the Construction and Operation Licence) and, without prejudice to the generality of the foregoing, shall include any condition precedent or other requirement of any Competent Authority which must as a matter of Law be satisfied prior to the grant, issuance, renewal, variation, extension, continuation and/or reconfirmation of any such authorisation, consent, licence, permit, permission, order, agreement, notice or other form of approval (including the Construction and Operation Licence); |
+| "Construction and Operation Licence" | means a licence granted under the Law on Nuclear Safety on the Republic of Lithuania of 28 June 2011, No. XI-1539 to construct and operate nuclear energy object(s); |
+| "Contract Claim" | has the meaning given to it in Clause 16.2.2 (Concurrent Claims); |
+| "Contract Term" | has the meaning given to it in Clause 2.2 (Award of Concession and Term); |
+| "Contractual National Security Criteria" | means the criteria set out in Schedule 4 (National Security Criteria); |
+| "Control" | including, with its correlative meanings, "Controlled by" and "under common Control with" means: |
+|  | (A) the power (whether directly or indirectly, and whether by the ownership of share capital, the possession of voting power, contract or otherwise): (i) to appoint and/or remove all or such of the members of the board of directors or other governing body of a person as are able to cast a majority of the votes capable of being cast by the members of that board or body; and/or (ii) to control the policies and affairs of that person, in both cases in all, or substantially all, matters; or |
+|  | (B) the holding and/or possession of the beneficial interest in and/or the ability to exercise the voting rights applicable to shares or other securities in any person (whether directly or by means of holding such interests in one or more other persons) which confer in aggregate on the holders thereof 50 per cent or more of the total voting rights exercisable at general meetings of that person on all, or substantially all, matters. |
+|  | For the avoidance of doubt, the appointment of a receiver, receiver and manager, administrative receiver, administrator, liquidator, insolvency official or similar in any jurisdiction in respect of any person or the property of any person (or the exercise by any such receiver, receiver and manager, administrative receiver, administrator, liquidator, insolvency official or similar, of any of its powers other than a power of sale in respect of relevant shares or securities) shall not be considered to alter who Controls such person; |
+| "Convention on Supplementary Compensation" | means the Convention on Supplementary Compensation for Nuclear Damage 1997; |
+| "Credit Payments" | has the meaning given to it in the Shareholders' Agreement; |
+| "Decommissioning Phase" | means the period from and including the date that the decommissioning of the NNPP in accordance with applicable Law commences; |
+| "Decommissioning and Waste Funding Principles" | means the principles set out in Schedule 6 (Decommissioning and Waste Funding Principles); |
+| "Development Timetable" | means the overall timetable for the development of the Project as prepared by the PCO; |
+| "Disclosing Party" | has the meaning given to it in Clause 13.2 (Confidential Information); |
+| "Dispute" | has the meaning given to it in the Dispute Resolution Procedure in Clause 45 (Dispute Resolution Procedure and Arbitration); |
+| "Dispute Resolution Procedure" | means the dispute resolution procedure set out in Clause 45 (Dispute Resolution Procedure and Arbitration); |
+| "Eesti Energia" | [means Eesti Energia AS, a company incorporated under the laws of Estonia with registration number 10421629 whose registered office is at: Laki tn. 24, 12915 Tallinn, Estonia;] |
+| "Encumbrance" | means any charge, mortgage, lien, option, equity, power of sale, hypothecation, usufruct, retentioned title, right of pre-emption, right of first refusal or other third party right in the nature of a security interest or an agreement, arrangement or obligation to create any of the foregoing; |
+| "Energy Charter Treaty" | means the Energy Charter Treaty as opened for signature in Lisbon on 17 December 1994 and in force as of 16 April 1998; |
+| "Energy Charter Treaty Replacement" | has the meaning given to it in Paragraph 1.3 of Schedule 8 (Fundamental Change); |
+| "ENSREG" | means the European Nuclear Safety Regulators Group and/or any organisation which has taken over, or carries out on behalf of the ENSREG, all or part of the functions or responsibilities of the ENSREG; |
+| "Environment" | means air (including air within buildings and air within other natural or man-made structures above or below ground), water (including territorial and coastal and inland waters, groundwater and water within any natural or man-made structure) and land (including land under water, surface land and sub-surface land) and any organisms or ecosystems supported by the air, water or land; |
+| "Environmental Regulations" | means each applicable Law relating to the pollution or protection of the Environment, or human health and safety, or the generation, transportation, storage, treatment, disposal or presence of any Hazardous Substance; |
+| "EPC Contract" | means any engineering, procurement and construction contract under which the EPC Contractor will provide engineering, procurement and construction services, support services and, if agreed under the terms of that contract, certain fuel services to the PCO for the purposes of the Project; |
+| "EPC Contractor" | means any one or more Associated Companies of the Strategic Investor, which may be or include Hitachi-GE Nuclear Energy, Ltd., (the identity of which, if not Hitachi-GE Nuclear Energy, Ltd. or not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd. (in a form accepted by the PCO) shall be subject to acceptance by the RoL) that enters into an EPC Contract with the PCO; |
+| "EPC Contractor Default" | means where the EPC Contractor is in breach or default of the EPC Contract and such breach entitles the PCO to terminate the EPC Contract; |
+| "EPC Sub-Contractor" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
+| "EURATOM" | means the European Atomic Energy Community and/or any organisation which has taken over, or carries out on behalf of the EURATOM, all or part of the functions or responsibilities of the EURATOM; |
+| "EURIBOR" | means, in relation to an overdue amount, the percentage rate equal to the six (6) Month Euro Interbank Offered Rate determined by the Banking Federation of the European Union displayed on the appropriate page of the Reuters screen at 11.00 a.m. on the date on which such amount became due; |
+| "Excepted Property" | has the meaning given to it in Clause 46.3 (Sovereign Immunity Waiver); |
+| "Exiting Shareholder" | has the meaning given to it in Clause 20.2.1 (Termination for a RoL Event); |
+| "FID" | means a final investment decision in relation to the Project as provided for in the Shareholders' Agreement and "positive FID" shall be construed as a final investment decision to proceed with the Project and "negative FID" shall be construed as a final investment decision not to proceed with the Project; |
+| "final negative FID" | has the meaning given to it in Clause 11.4.1 (Notification of taking FID); |
+| "Financier" | means: (A) any person who provides, commits to provide, underwrites, insures and/or guarantees any direct or indirect financial accommodation (including, without limitation, loans, securities, letters of credit, performance guarantees, other documentary credits, derivatives or other forms of financial indebtedness) to or for the account of the PCO or any Shareholder(s); and |
+|  | (B) any agent or trustee on behalf of any of the persons referred to in paragraph (A) above; and (C) any rating agency who may issue a public or private rating in respect of any such financial accommodation; |
+| "First Concrete" | means the commencement of the first reactor building structural concrete pour by the EPC Contractor in accordance with the EPC Contract and as shown on the Development Timetable; |
+| "Force Majeure Event" | means any act, event or occurrence affecting any Party's performance of its obligations under this Concession Agreement, the cause of which is not of such Party's making nor within that Party's reasonable control (and, in relation to the PCO having acted in accordance with Good Industry Practice or, in relation to the RoL having acted in a reasonable and prudent manner to avoid such act, event or occurrence), including (to the extent not of that Party's making nor within that Party's reasonable control): (A) epidemic, war, hostilities (whether or not war has been declared), blockades, terrorist acts or acts of any civil or military authority; (B) riot, insurrection, civil commotion, public disobedience, public demonstration, sabotage or acts of vandalism; (C) acts of God including fire, flood, earthquake, adverse weather, meteorological and sea conditions, landslides, lightning, volcanic eruption or explosion; (D) impact from aircraft or things falling from aircraft; (E) any strike, lock-out, trade dispute or other labour disruptions (i) not involving solely the personnel or subcontractors of that Party; and (ii) not originating with that Party's personnel or subcontractors or the personnel or subcontractors of any Associated Company of that Party; or (F) any ionising radiation, contamination by radioactivity, radioactive, chemical or biological contamination; |
+| "Formation" | means any company, partnership, limited liability partnership, trust, fund or other entity (whether being a legal person or not); |
+| "Fuel Supply Contract" | means any nuclear fuel supply and related services contract which may be entered into by the PCO and the Nuclear Fuel Supplier as contemplated by the Nuclear Fuel Supply Terms; |
+| "Full Notice to Proceed" or "FNTP" | means the "FNTP" or Full Notice to Proceed issued under the EPC Contract; |
+| "GE-Hitachi Nuclear Energy Americas LLC" | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶; |
+| "Global Nuclear Fuel-Americas, LLC" | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶; |
+| "Good Industry Practice" | means exercising the degree of skill and care, diligence, prudence and foresight which would reasonably and ordinarily be expected of a skilled and experienced contractor, owner or operator (as applicable) engaged in activities: (A) as applicable to the PCO (i) of a similar nature, scope, value and complexity to the Concession activities and under the same or similar circumstances, (ii) in relation to the maintenance and operation of a new nuclear power plant of a similar nature, scope, value and complexity to the completed NNPP, and (iii) in relation to clean-up and/or decommissioning activities of a nuclear site and new nuclear power plant of a similar nature, scope, value and complexity to the completed NNPP; and (B) as applicable to the RoL, activities of a similar nature, scope, value and complexity to the design, construction and maintenance of the Access Road, in each case (as applicable), where such contractor, owner or operator (as applicable) is seeking to comply with its contractual obligations, including in relation to all applicable Laws, Consents, codes of practice and standards; |
+| "Hazardous Substance" | means any natural or artificial substance or thing (whether in solid, liquid or gaseous form) which is (alone or in combination) capable of causing harm to the Environment or harm to human health; |
+| "Highly Sensitive Information" | means: (A) information relating to the design and construction of all or any part of a Hitachi, Ltd., Hitachi-GE Nuclear Energy, Ltd., GE-Hitachi Nuclear Energy Americas LLC or one of their Associated Company's ABWR nuclear power plants; |
+|  | (B) information relating to the design or manufacturing of any nuclear fuel by Global Nuclear Fuel – Americas, LLC; and (C) pricing information to be provided by the EPC Contractor, the Nuclear Fuel Supplier and/or the O&M Support Contractor under or in connection with the EPC Contract, the Fuel Supply Contract and/or the O&M Support Contract, but not for the avoidance of doubt information in respect of the overall price relating to (i) the LNTP and FNTP phases under the EPC Contract, (ii) the Fuel Supply Contract, or (iii) the O&M Support Contract; |
+| "Hitachi-GE Nuclear Energy, Ltd." | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶; |
+| "Hitachi, Ltd." | means a company registered and incorporated in [•] [under company number [•¶ whose address is at [•¶ being the [ultimate] parent company of the Strategic Investor; |
+| "Hitachi, Ltd. Group" | means Hitachi, Ltd. and its Associated Companies; |
+| "IAEA" | means the International Atomic Energy Agency and/or any organisation which has taken over, or carries out on behalf of the IAEA, all or part of the functions or responsibilities of the IAEA; |
+| "IAEA Agreement" | means the Agreement on the Privileges and Immunities of the International Atomic Energy Agency of 1967; |
+| "IAEA Statute" | means the Statute of the International Atomic Energy Agency of 1956; |
+| "ICSID Convention" | has the meaning given to it in Clause 45.4.1 (ICSID Arbitration); |
+| "Indemnified Person" | has the meaning given to it in Clause 16.5.3 (Breach of warranty); |
+| "indexation rate" | means the Production Price Index for Lithuania, published by EUROSTAT; |
+| "Individual" | means a physical person who is a director, officer, partner, member, employee and/or consultant of a Project Participant or a Related Person; |
+| "Intellectual Property Rights" | means any and all worldwide: (A) patent rights and inventions (whether patentable or not), including all patent applications and disclosures thereto, design rights, utility models, copyrights and neighbouring rights and related rights (including rights in software), moral rights, mask work rights, semiconductor topography rights, database rights, trade marks, trade names, business names, domain names and know-how; |
+|  | (B) applications for registration and the right to apply for registration thereto; and |
+|  | (C) other intellectual property, industrial property or proprietary rights of a corresponding or similar nature recognised in any country or jurisdiction worldwide, |
+|  | in each case regardless of whether existing under statute, common law or equity, whether registered or unregistered, and all tangible embodiments thereof; |
+| "Invested Capital" | means in respect of each Exiting Shareholder the aggregate on the Calculation Date of (i) the capital sums invested by that Exiting Shareholder in the PCO by way of either Subscription Payments or Principal Amounts and (ii) Credit Payments in respect of that Exiting Shareholder; |
+| "Invested Capital Statement" | means the table in agreed form set out in Schedule 9 (Invested Capital Statement); |
+| "Investment Date" | means the date on which the Shareholders fund the PCO pursuant to the Shareholders' Agreement in order to provide it with the funding required for the first LNTP; |
+| "Investment Protection Treaty" | means any investment protection treaty between the RoL and one or more other countries (and includes the Energy Charter Treaty); |
+| "Japanese Company" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
+| "Joint Protocol" | means the Joint Protocol Relating to the Application of the Vienna Convention and the Paris Convention of 1988; |
+| "Key Subcontractor" | means an entity who enters into any Key Subcontract with the PCO; |
+| "Key Subcontract" | means a Subcontract which is of material importance to the performance of the Concession, whether because it is of significant value, key to the performance of the PCO's obligations under this Concession Agreement (including a Subcontract with a key technology provider, a supplier of key materials or a key development works contractor), relates to goods or services where there are limited alternative sources or otherwise (and includes any Ancillary Contract); |
+| "Latvenergo" | [means Latvenergo AS, a company incorporated under the laws of Latvia with registration number 40003032949 whose registered office is at: Pulkveza Brieza iela 12, Riga, LV-1230, Latvia;] |
+| "Law" | means: (A) any law passed by the Parliament of the Republic of Lithuania; |
+|  | (B) any resolution passed by the Government of the Republic of Lithuania that has the force of the law; (C) any Regulatory Requirement; (D) any decision, order, resolution, regulation, rule, notice adopted at the State or municipal level within the Republic of Lithuania that has the force of the law; (E) the Lithuanian Constitution; (F) any stock exchange regulation, court practices and rulings within the Republic of Lithuania that have the force of law; and (G) any EU law, treaties or other international law acts, in each case as effective in the Republic of Lithuania; |
+| "Law on Concessions" | means the Law on Concessions of the Republic of Lithuania of 24 June 2003, No. IX-1647 (as amended); |
+| "liability" | has the meaning given to it in Clause 1.2.18; |
+| "Limited Notice to Proceed" or "LNTP" | means the "LNTP" or Limited Notice to Proceed issued under the EPC Contract; |
+| "Lithuanian Constitution" | means the Constitution of the Republic of Lithuania adopted by citizens of the Republic of Lithuania under the referendum of 25th October 1992 (as amended from time to time); |
+| "Lithuanian Investor" | means UAB "Visagino atominė elektrinė", a company registered and incorporated in Lithuania under company number 301844044 whose address is at Žvejų g. 14, LT-09310 Vilnius, Lithuania; |
+| "LIV IP" | means all Intellectual Property Rights in the studies and reports relating to the Project as set out in Schedule 7 (LIV IP); |
+| "Losses" | means all losses, damages, liabilities, costs and expenses (including reasonable legal fees and expenses) and "Loss" shall be construed accordingly; |
+| "Mandatory Transfer Price" | has the meaning given to it in Clause 26.2 (Calculation and notification of Mandatory Transfer Price); |
+| "Margin" | has the meaning given to it in Clause 26.2.1 (Calculation and notification of Mandatory Transfer Price); |
+| "MoE" | means the Ministry of Energy of the Republic of Lithuania; |
+| "Month" | means a calendar month which is a period of time consisting of thirty (30) Calendar Days if the period commences in April, June, September and November, and thirty one (31) Calendar Days if it commences in any other month excepting February when it consists of twenty-eight (28) Calendar Days or twenty-nine (29) Calendar Days in a leap year and "Monthly" shall be construed accordingly; |
+| "National Security Criteria" | means the criteria indicated in Part 10, Article 7 and Article 8 of the Law on Enterprises and Facilities of Strategic Importance to National Security and Other Enterprises of Importance to Ensuring National Security of the Republic of Lithuania of 21 July 2009, No. XI-375 and such criteria that substitute or amend the former from time to time; |
+| "New York Convention" | means the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards 1958; |
+| "New York Convention Replacement" | has the meaning given to it in Paragraph 1.4 of Schedule 8 (Fundamental Change); |
+| "NNPP" | has the meaning given to it in Recital C; |
+| "non-Affected Party" | means the Party or Parties not affected by a Force Majeure Event; |
+| "Non-EEA State" | shall mean, from time to time, any State that has not acceded to the European Economic Area as a full member; |
+| "Non-NATO State" | shall mean, from time to time, any State that has not acceded to the North Atlantic Treaty Organisation as a full member; |
+| "Non-Proliferation Treaty" | means the Treaty on the Non Proliferation of Nuclear Weapons of 1968; |
+| "Notice of Dispute" | has the meaning given to it in Clause 45.2 (Dispute Resolution Procedure and Arbitration); |
+| "Nuclear Fuel Supplier" | means an Associated Company of the Strategic Investor (the identity of which, if not Hitachi-GE Nuclear Energy, Ltd. and not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd. (in a form accepted by the PCO) shall be subject to acceptance by the RoL) which enters into the Fuel Supply Contract; |
+| "Nuclear Fuel Supply Terms" | means the terms (in the form of an initialled termsheet) agreed in principle on or about the Concession Date between the PCO and the Nuclear Fuel Supplier in relation to the supply of nuclear fuel and related services to the PCO by the Nuclear Fuel Supplier; |
+| "Nuclear Indemnified Parties" | has the meaning given to it in Clause 15.2 (Nuclear); |
+| "Nuclear Safety Treaty" | means (a) the Convention on Early Notification of a Nuclear Accident of 1986; (b) the Convention on Nuclear Safety of 1994; (c) the Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency of 1986; (d) the Convention on the Physical Protection of Nuclear Material of 1980; or (e) the Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management of 1997, and "Nuclear Safety Treaties" shall mean all or any of them; |
+| "O&M Support Contract" | means any operations and maintenance support services contract which may be entered into by the PCO and the O&M Support Contractor as contemplated by the O&M Support Terms; |
+| "O&M Support Contractor" | means an Associated Company of the Strategic Investor (the identity of which, if not Hitachi-GE Nuclear Energy, Ltd. and not guaranteed by Hitachi-GE Nuclear Energy, Ltd. or Hitachi, Ltd. (in a form accepted by the PCO) shall be subject to acceptance by the RoL) which enters into the O&M Support Contract; |
+| "O&M Support Terms" | means the terms (in the form of an initialled termsheet) agreed in principle on or about the Concession Date between the PCO and the O&M Support Contractor or the Strategic Investor on behalf of the O&M Support Contractor in relation to the provision of operations and maintenance support services to the PCO by the O&M Support Contractor; |
+| "Official Gazette" | means Official Gazette of the Republic of Lithuania (Valstybės žinios), including the supplementary issue Information Notices (Informaciniai pranešimai); |
+| "Offtake Right" | has the meaning given to it in Clause 42.1 (Further Assurances and Co-operation in relation to the Power at Cost Structure); |
+| "PCO Assets" | means all assets owned by the PCO to the extent that the same are used or required for the performance by the PCO of the Concession and its obligations under this Concession Agreement; |
+| "PCO Default" | has the meaning given to it in Clause 21 (PCO Default); |
+| "PCO Default Notice" | has the meaning given to it in Clause 21.2.1 (Termination for PCO Default); |
+| "Post-COD Report" | has the meaning given to it in Clause 11.1.1(B) (Project Management); |
+| "Pre-COD Report" | has the meaning given to it in Clause 11.1.1(A) (Project Management); |
+| "Pre-Existing Arbitration" | has the meaning given to it in Clause 45.5.8 (LCIA Arbitration); |
+| "Pre-FID Fundamental Change" | has the meaning given to it in Paragraph 1 (Pre-FID Fundamental Changes) of Schedule 8 (Fundamental Change); |
+| "Principal Amount" | shall mean in respect of a Shareholder any amount of principal drawn down by the PCO from that Shareholder under a Shareholder Loan, excluding any amount of interest paid in kind and capitalised as principal under that Shareholder Loan, less any amount of such draw down principal repaid or prepaid by the PCO to such Shareholder; |
+| "Principles, Standards or Guidelines" | has the meaning given to it in Paragraph 2.1.4(B) of Schedule 8 (Fundamental Change); |
+| "Prohibited Change of Control" | has the meaning given to it in the Shareholders' Agreement; |
+| "Project" | means the design, development, manufacture, supply, construction, operation and decommissioning of the NNPP; |
+| "Project Agreements" | means this Concession Agreement, the Ancillary Contracts and the Shareholders' Agreement, and "Project Agreement" shall be construed accordingly; |
+| "Project Participants" | means each of: (A) Hitachi, Ltd.; |
+|  | (B) the Strategic Investor, the EPC Contractor, the O&M Support Contractor and the Nuclear Fuel Supplier; (C) any sub-contractor (of any type and tier) or supplier (of any type and tier) of any of the entities referred to in paragraph (B) above; (D) any Financier; (E) the advisers or agents of any of the entities referenced in paragraph (A), (B), (C) (above) and (F) (below); and (F) the Associated Companies of each of the entities or persons referred to in paragraphs (A), (B), (C), (D) and (C) above, and once a person is or becomes a Project Participant it shall remain a Project Participant notwithstanding that it may subsequently cease to meet any or all of the criteria referred to above; |
+| "Recipient" | has the meaning given to it in Clause 13.2 (Confidentiality); |
+| "Recommended Measure(s)" | has the meaning given to it in Paragraph 2.1.5 of Schedule 8 (Fundamental Change); |
+| "Regional Partner" | shall be such of Latvenergo AS and Eesti Energia AS and PGE Polska Grupa Energetyczna S.A. and any other key partners of the Republic of Lithuania from time to time which may, subject to agreement in accordance with the Shareholders' Agreement and applicable Law, participate in the Project as a Shareholder, and "Regional Partners" will be construed accordingly; |
+| "Regulators" | means the State Nuclear Power Safety Inspectorate (Valstybinė atominės energetikos saugos inspekcija VATESI), the State Territorial Planning and Construction Inspectorate under the Ministry of Environment (Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos) and Utena Region Environmental Protection Department of the Ministry of Environment of the Republic of Lithuania (Lietuvos Respublikos aplinkos ministerijos Utenos regiono aplinkos apsaugos departamentas) and others specific to the relevant Party's obligations under this Concession Agreement and as applicable in the relevant jurisdiction (including in relation to international waters) where that Party's obligations under this Concession Agreement are carried out and "Regulator" shall mean any one of them; |
+| "Regulatory Requirement" | means any legally enforceable requirement of any Regulator in Lithuania; |
+| "Related Agreement" | means any agreement entered into by any Party, including any such agreement with any Third Party, as may be required for the Project, but shall exclude the Access Road Construction Contracts; |
+| "Related Dispute" | has the meaning given to it in Clause 45.5.8 (LCIA Arbitration); |
+| "Related Persons" | means: (A) the Ultimate Holding Company of any Project Participant; (B) the Associated Companies of any entity within paragraph (A) above; and (C) Individuals, and that once an entity is or becomes a Related Person it shall remain a Related Person notwithstanding that it may subsequently cease to meet any or all of the criteria referred to above. It is acknowledged that The General Electric Company is a Related Person; |
+| "Relevant Claim" | has the meaning given to it in Clause 16.5.3 (Breach of warranty); |
+| "Relevant Obligations" | shall have the meaning given to it in the Shareholders' Agreement; |
+| "Replacement Measure" | has the meaning given to it in Paragraph 3 of Schedule 8 (Fundamental Change); |
+| "Report" | has the meaning given to it in Clause 11.1.1 (Project Management); |
+| "Required Insurances" | means those insurances required to be taken out and held by Law; |
+| "Restricted Group" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
+| "Retender Process" | means any reasonable process initiated by the RoL to retender the Concession (and/or any of the unperformed works and services provided under any one or more of the Ancillary Contracts) and/or to retender the Strategic Investor's role in the Concession; |
+| "Retendering Costs" | means those reasonable costs and expenses reasonably and properly incurred by the RoL and/or its nominee directly in connection with undertaking a Retender Process; |
+| "RoL entity" | has the meaning given to it in Clause 13.10 (RoL entity); |
+| "RoL Event" | means any of the events described in Clause 20.1 (Events of RoL Event); |
+| "RoL Event Notice" | has the meaning given to it in Clause 20.2.1 (Termination for a RoL Event); |
+| "RoL Nominee" | means any Lithuanian company nominated by the RoL which is not a Competitor and which does not have a Competitor as a direct or indirect legal or beneficial owner of any of its shares; |
+| "RoL NSC Offer" | has the meaning given to it in Clause 32.1.1 (National Security Criteria Put Option); |
+| "Rules" | has the meaning given to it in Clause 45.5.1 (LCIA Arbitration); |
+| "SCC Transfer Notice" | means a notice sent to the Strategic Companies Commission pursuant to the Shareholders' Agreement and applicable Law in relation to an intended transfer by a Shareholder of all or any of its Shares; |
+| "Shares" | means all or any of the share capital of any class in the PCO; |
+| "Shareholder Loan" | means, in respect of a Shareholder, any loan made to the PCO by that Shareholder in accordance with the Shareholders' Agreement; |
+| "Shareholders" | means the holders of the Shares from time to time, the initial holders being those set out in Schedule 3 (Initial Shareholders' Details and Shareholding); |
+| "Shareholders' Agreement" | means the agreement in force from time to time to which all of the Shareholders are party in relation to (inter alia) their investment in, and the governance and funding of, the PCO which includes a term explicitly identifying such agreement as the "Shareholders' Agreement" for the purposes of this Concession Agreement; |
+| "Shareholder's Interest" | means, in respect of a Shareholder, its Shares and Shareholder Loans; |
+| "Site" | has the meaning given to it in Schedule 5 (Site); |
+| "Specified Nuclear Treaty Replacement" | has the meaning given to it in Paragraph 1.2 of Schedule 8 (Fundamental Change); |
+| "Strategic Companies Commission" | means the Commission for Assessment of Compliance to the Interests of National Security of Potential Members of Companies of Strategic or Significant Importance to National Security (Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija) as indicated in Part 3, Article 7 of the Law on Enterprises and Facilities of Strategic Importance to National Security and Other Enterprises of Importance to Ensuring National Security of 21 July 2009, No. XI-375 as amended, any successors thereof and any bodies to which functions thereof are transferred in part or in full; |
+| "Strategic Investor Default" | has the meaning given to it in Clause 22.1 (Strategic Investor Default); |
+| "Strategic Investor Default Notice" | has the meaning given to it in Clause 22.2.3 (Termination of the Strategic Investor's rights and obligations); |
+| "Strategic Investor Shareholder" | means the legal or beneficial owner of any Strategic Investor Shares from time to time; |
+| "Strategic Investor Shares" | means all or any of the share capital of any class in the Strategic Investor; |
+| "Subcontract" | means any agreement entered into by the PCO in connection with the performance of its obligations under this Concession Agreement or in relation to carrying out the Concession including any Ancillary Contract and any agreement entered into between the PCO and any Key Subcontractor; |
+| "Subcontractor" | means any person who has entered into a Subcontract with the PCO including the EPC Contractor and any O&M Support Contractor, Nuclear Fuel Supplier and/or Key Subcontractor; |
+| "Subscription Payments" | shall mean the payments received by the PCO from a Shareholder in subscription for Shares (whether in partial or full payment up of nominal value, and whether in respect of nominal value or Share premium) issued by the PCO to such Shareholder, less any amounts of such Share capital returned to such Shareholder by the PCO; |
+| "Supplementary Margin" | means an amount equal to the Invested Capital as agreed or finally determined under Clause 26.3 (Disputing the Mandatory Transfer Price), multiplied by (i) the Margin, multiplied by (ii) the number of Calendar Days comprising the period from the Calculation Date to the date on which the payment of the Mandatory Transfer Price (or part thereof) is made under Clause 26.4, divided by (iii) 360, less (iv) the aggregate of any (a) interest paid in cash or cash equivalent by the PCO and received by the relevant Exiting Shareholder, in respect of any Tranche of a Shareholder Loan comprising Invested Capital, and (b) any distribution of income or profit paid in cash or cash equivalents by the PCO and received by the relevant Exiting Shareholder in respect of any Tranche of Shares issued to such Exiting Shareholder in consideration for its Subscription Payments, in each case ((a) and (b)) during the period referred to in (ii) above; |
+| "Tax" | means any of the following tax, levy, impost, duty, charge or withholding of a similar nature, including any penalty or interest payable in connection with any failure to pay or delay in paying any of the same; |
+| "Tender Process" | means the process by which the MoE, on behalf of the RoL, sought to identify an investor to take an interest in a new nuclear power plant project-implementing company pursuant to the notice published in the Official Journal of the EU on 10 December 2009 (No. 2009/S 238-340935); |
+| "Third Party" | means any person other than the Parties; |
+| "Third Party Claimant" | means any Third Party other than: (A) any Shareholder; (B) any party to an Ancillary Contract or any subcontractor (of any types and tier) or supplier (of any type and tier) of any Ancillary Contractor under an Ancillary Contract; and (C) any Associated Company of any entity referred to in paragraphs (A) and (B) above; |
+| "Third Party recipient" | has the meaning given to it in Clause 13.6 (Liability); |
+| "Tranche" | means each separate payment being a Subscription Payment, Principal Amount, or Credit Payment; |
+| "Transfer Decision Notice" | has the meaning given to it in Clause 32.1.2 (National Security Criteria Put Option); |
+| "Transfer Decision Period" | has the meaning given to it in Clause 32.1.2 (National Security Criteria Put Option); |
+| "Transfer Notice" | means the transfer notice issued by any Shareholder(s) under the Shareholders' Agreement; |
+| "Transfer Price" | shall mean the cash consideration offered by a transferee to a Transferring Shareholder determined in accordance with the Shareholders' Agreement; |
+| "Transferring Shareholder" | has the meaning given to it in Clause 31.2.2 (Rights granted to the RoL in relation to Share Transfers and Prohibited Change of Control under the Shareholders' Agreement); |
+| "Transferring Interest" | means in respect of a Transferring Shareholder its Shares, and any rights and interests under any Shareholder Loan; |
+| "Transnational Laws" | has the meaning given to it in Paragraph 2.1.4(B) of Schedule 8 (Fundamental Change); |
+| "Treaty Claim" | has the meaning given to it in Clause 16.2.2 (Concurrent Claims); |
+| "Ultimate Holding Company" | has the meaning given to it in Clause 31.4.1 (Strategic Investor transfer of ownership restrictions); |
+| "VATESI" | means the State Nuclear Power Safety Inspectorate (Valstybinė atominės energetikos saugos inspekcija); |
+| "Visaginas New Nuclear Power Plant" | has the meaning given to it in Recital C; |
+| "Vienna Convention 1963" | means the Vienna Convention on Civil Liability for Nuclear Damage of 1963; |
+| "Vienna Protocol" | means the Protocol to Amend the Vienna Convention on Civil Liability for Nuclear Damage of 1997; |
+| "Voluntary Encumbrance" | means in respect of an Exiting Shareholder an Encumbrance put in place by, or resulting from the action, initiative or consent of, such Exiting Shareholder, over such Exiting Shareholder's Shareholder's Interest or any part thereof; |
+| "Wasted Costs" | means: (A) in respect of the RoL, those reasonable costs and expenses reasonably and properly incurred by the RoL or on behalf of the RoL by the Lithuanian Investor; or |
+|  | (B) in respect of the Strategic Investor, those reasonable costs and expenses reasonably and properly incurred by the Strategic Investor or on behalf of the Strategic Investor by an Associated Company of the Strategic Investor, during the period from (and including) 14 July 2011 up to (and including) the Concession Date in connection with the Tender Process, including the costs and expenses of activities, works or services performed to progress the Project and the costs and expenses incurred in negotiating this Concession Agreement and each of the Ancillary Contracts; and |
+| "WENRA" | means the Western European Nuclear Regulators' Association and/or any organisation which has taken over, or carries out on behalf of the WENRA, all or part of the functions or responsibilities of the WENRA. |
 
 SCHEDULE 2
 
@@ -2654,17 +2451,12 @@ SCHEDULE 3
 
 INITIAL SHAREHOLDERS' DETAILS AND SHAREHOLDING
 
-\| Shareholder | Potential shareholding |
-
-\| --- | --- |
-
-\| Lithuanian Investor | 38 % |
-
-\| Strategic Investor | 20 % |
-
-\| Latvenergo AS | 20 % |
-
-\| Eesti Energia AS | 22 % |
+| Shareholder | Potential shareholding |
+| --- | --- |
+| Lithuanian Investor | 38 % |
+| Strategic Investor | 20 % |
+| Latvenergo AS | 20 % |
+| Eesti Energia AS | 22 % |
 
 SCHEDULE
 
@@ -2696,17 +2488,12 @@ PART I
 
 EASTERN SITE
 
-\| No. | Unique/Cadastral No. | Area (ha) | Purpose/Type of Use |
-
-\| --- | --- | --- | --- |
-
-\| 1. | 4400-2110-7279 4535/0003:7 Karlu k.v. | 212.4183 | Other, territories for industry and storage objects (for construction of industry and storage companies) |
-
-\| 2. | 4400-2110-7380 4535/0002:19 Karlu k.v. | 28.9150 | |
-
-\| 3. | 4400-2110-7024 4535/0002:17 Karlu k.v. | 11.9552 | Other, territories for engineering infrastructure (for corridors of communication and infrastructure networks) |
-
-\| 4. | 4400-2110-7446 4535/0002:20 Karlu k.v. | 34.4229 | |
+| No. | Unique/Cadastral No. | Area (ha) | Purpose/Type of Use |
+| --- | --- | --- | --- |
+| 1. | 4400-2110-7279 4535/0003:7 Karlu k.v. | 212.4183 | Other, territories for industry and storage objects (for construction of industry and storage companies) |
+| 2. | 4400-2110-7380 4535/0002:19 Karlu k.v. | 28.9150 |  |
+| 3. | 4400-2110-7024 4535/0002:17 Karlu k.v. | 11.9552 | Other, territories for engineering infrastructure (for corridors of communication and infrastructure networks) |
+| 4. | 4400-2110-7446 4535/0002:20 Karlu k.v. | 34.4229 |  |
 
 The infrastructure on the eastern site comprises the Cooling Water Facilities located on the land plot unique No. 4400-2110-7446, cadastral No. 4535/0002:20 Karlu k.v.
 
@@ -2714,19 +2501,13 @@ PART II
 
 WESTERN SITE
 
-\| No. | Unique/Cadastral No. | Area (ha) | Purpose/Type of Use |
-
-\| --- | --- | --- | --- |
-
-\| 1. | 4400-2110-8854 4535/0002:22 Karlu k.v. | 63.6512 | Other, territories for industry and storage objects (for construction of industry and storage companies) |
-
-\| 2. | 4400-2110-7598 4535/0002:21 Karlu k.v. | 29.7316 | Other, type of use not specified |
-
-\| 3. | 4400-2103-1594 4535/0002:16 Karlu k.v. | 10.6823 | Other, territories for industry and storage objects (for construction of industry and storage companies) |
-
-\| 4. | 4400-2110-9138 4535/0002:23 Karlu k.v. | 9.4718 | Other, territories for engineering infrastructure (for corridors of communication and infrastructure networks) |
-
-\| 5. | 4400-2110-7446 4535/0002:20 Karlu k.v. | 34.4229 | |
+| No. | Unique/Cadastral No. | Area (ha) | Purpose/Type of Use |
+| --- | --- | --- | --- |
+| 1. | 4400-2110-8854 4535/0002:22 Karlu k.v. | 63.6512 | Other, territories for industry and storage objects (for construction of industry and storage companies) |
+| 2. | 4400-2110-7598 4535/0002:21 Karlu k.v. | 29.7316 | Other, type of use not specified |
+| 3. | 4400-2103-1594 4535/0002:16 Karlu k.v. | 10.6823 | Other, territories for industry and storage objects (for construction of industry and storage companies) |
+| 4. | 4400-2110-9138 4535/0002:23 Karlu k.v. | 9.4718 | Other, territories for engineering infrastructure (for corridors of communication and infrastructure networks) |
+| 5. | 4400-2110-7446 4535/0002:20 Karlu k.v. | 34.4229 |  |
 
 The infrastructure on the western site comprises the Cooling Water Facilities located on the land plot unique No. 4400-2110-7446, cadastral No. 4535/0002:20 Karlu k.v., the land plot unique No. 4400-2110-9138, cadastral No. 4535/0002:23 Karlu k.v. (which can serve for connection to the Cooling Water Facilities) and transmission lines.
 
@@ -2862,79 +2643,43 @@ SCHEDULE 7
 
 LIV IP
 
-\| No. | Object | Date | Agreement | Parties |
-
-\| --- | --- | --- | --- | --- |
-
-\| 1. | Description of Physical Protection Requirements and Feasibility, Phase 1 Report No (9.17-3)-P17-4/G_2009-176. (LT, EN) | 30 January 2009 | Agreement on Order of Author’s Work No S_113-2009-3 dated 15 January 2009 | VAE Vaidas Brasiūnas (Service Provider) |
-
-\| 2. | Description of Physical Protection Requirements and Feasibility, Phase 2 Report No G_2009-224 (5.2) (LT, EN) | 24 March 2009 | | |
-
-\| 3. | Description of Physical Protection Requirements and Feasibility, Phase 3 Report No G_2009-317 (LT, EN) | 19 April 2009 | | |
-
-\| 4. | Possible Means of Equipment of Physical Protection System for Visaginas Power Plant No (9.17.2)-P17-12 (LT) | 13 July 2009 | | |
-
-\| 5. | Environmental Impact Assessment Report New Nuclear Power Plant in Lithuania (LT, EN, RU) | 27 March 2009 | Agreement No 87-08 dated 4 February 2008 | AB “Lietuvos energija” Consortium of Poyry Energy Oy and Lietuvos energetikos institutas (Lithuanian Energy Institute) (Service Provider) |
-
-\| 6. | Agreement on Transfer of Consultancy Services Agreement No 951-08 dated 19 November 2008 | VAE AB “Lietuvos energija” Poyry Energy Oy and Lietuvos energetikos institutas (Lithuanian Energy Institute) (Service Provider) | | |
-
-\| 7. | Pro-Forma Business Model and Financing Plan (Project White Knight) (EN) | October 2009 | Agreement on Provision of Services No S_113-2009-33 dated 19 June 2009 | VAE N M Rothschild & Sons Limited (Service Provider) However, the Project White Knight: Baltic Power Market Report has been prepared by NERA Economic Consulting and the Project White Knight Technical Analysis Report – by FICHTNER |
-
-\| 8. | Project White Knight: Baltic Power Market Report (EN) | 21 August 2009 | | |
-
-\| 9. | Project White Knight Technical Analysis Report No 6757P02/FICHT-5172339-v3 (EN) | July 2009 | | |
-
-\| 10. | Project of “New Nuclear Power Plant Oversized and Super Heavy Load Transportation Route Research” Feasibility Study No 01-02-625 | 2009 | Agreement on Provision of Services No S_113-2009-11 dated 24 March 2009 | VAE UAB “Hidroprojektas” (Service Provider) |
-
-\| 11. | Selection of Design Solutions of Visaginas Nuclear Power Plant Oversized, Super Heavy and Other Load Transportation Route and their Economic Evaluation: Researches of Lithuanian Road Transport Network, Part 1, No MIS-2010-24-PP-B (LT) | 2010 | Agreement on Provision of Services No MIS-2010-24 dated 1 April 2010 | VAE VĮ Transporto ir kelių tyrimo institutas (Service Provider) UAB “Kelprojektas” (Service Provider) |
-
-\| 12. | Selection of Design Solutions of Visaginas Nuclear Power Plant Oversized, Super Heavy and Other Load Transportation Route and their Economic Evaluation: Researches of Lithuanian Road Transport Network, Part 2, No MIS-2011-29-PP-T (LT) | 2011 | Agreement on Provision of Services No MIS-2011-29 dated 23 May 2011 | VAE (VĮ Transporto ir kelių tyrimo institutas (Service Provider) |
-
-\| 13. | Special Communication Plan No 10076 (LT) | 10 October 2011 | Agreement on Preparation of the Special Communication Plan and Provision of Services Related to it No MIS-2010-47-1 dated 30 August 2010 | VAE UAB “Sweco Lietuva” (Service Provider) |
-
-\| 14. | Safety Audit of Solutions of Special Plan Related to the Roads of State Importance (LT) | November 2010 | Agreement on Provision of Audit Services No MIS-2010-48 dated 2 September 2010 | VAE UAB “Strateginio transportavimo sprendimai” (Service Provider) |
-
-\| 15. | Selection of Design Solutions of Visaginas Nuclear Power Plant Oversized, Super Heavy and Other Load Transportation Route and their Economic Evaluation: Researches of Inland Water Transport Network in Lithuania (LT) | 2011 | Agreement on Provision of Services No MIS-2011-05 dated 8 February 2011 | VAE UAB “Vilniaus hidroprojektas” (Service Provider) |
-
-\| 16. | Renewal and Supplement of Assessment of Potential New Nuclear Power Plant Construction Sites in Respect of External Events No S/17-1219.10.12-G4-V:01 (LT) | 20 December 2010 | Agreement on Provision of Services No MIS-2010-58 dated 15 October 2010 | VAE Lietuvos energetikos institutas (Service Provider) |
-
-\| 17. | Investigation of Deep Geological Setting of Potential Construction Sites of Visaginas NPP by Using 2D/3D Seismic Survey (EN) | 15 November 2010 | Agreement on Provision of Services No 8-50/MIS-2010-31 dated 1 June 2010 | VAE Ministry of Energy of the Republic of Lithuania AB Lietuvos elektrinė Lietuvos ir Danijos UAB “Minijos nafta” (Service Provider) |
-
-\| 18. | Constructional Remains and Subsurface Geologic Setting Survey of Potential Visaginas NPP Sites Using Electrical Tomography Method (LT, EN) | 2009 | Service Agreement No. S_113-2009-17 dated 17 April 2009. The agreement was terminated by the agreement of the parties dated 12 June 2009. | VAE UAB “Geobaltic” (Service Provider) |
-
-\| 19. | Geotechnical, Geological and Seismological (GG&S) Data Inventory for the Visaginas Sites (EN) | 2012 | Service Agreement No. MIS-2009-1 dated 31 July 2009 | VAE UAB “Eldra” (Service Provider) |
-
-\| 20. | Report on Investigations of Contamination with Radionuclides of Potential Plots for a New Nuclear Power Plant (LT, EN) | 23 June 2009 | Service Agreement No. S_113-2009-13/2009/PES-64 dated 3 April 2009 | VAE Radiacinės saugos centras (Service Provider) |
-
-\| 21. | Preliminary Ecogeological Survey of Construction Site of New Visaginas NPP (I Var) in Drūkšiniai vil. Visaginas TN No 2031-2009 (LT, EN) | 2009 | Service Agreement No. S_113-2009-18 dated 28 April 2009 | VAE UAB “Geotestus” (Service Provider) |
-
-\| 22. | Preparation of Connection of New Nuclear Power Plant to the Transmission Network Infrastructure. Stages for Connection of New Nuclear Power Plant to the Transmission Network (Design Proposals) No 729 – PP – T1 (LT) | 2009 | Service Agreement No. S_113/17-70-2009-29 dated 19 May 2009 | VAE UAB “Energetikos pajėgos” (Service Provider) |
-
-\| 23. | Fuel Strategy Report (EN) | August 2009 | Agreement No. S_116-2009-15 dated 8 April 2009 | VAE TVO Nuclear Services Oy (Service Provider) |
-
-\| 24. | Proposal for Radioactive Waste Management Strategy (EN) | September 2009 | | |
-
-\| 25. | Feasibility and Capabilities of the Regional Supply Chain to Support the Visaginas NPP Construction Project (EN) | 16 August 2010 | Service Agreement No MIS-2010-21 dated 29 March 2010 | VAE UAB “Deloitte Lietuva” (Service Provider) |
-
-\| 26. | Design Proposals for Removal of Construction Waste from the Construction Site of Visaginas NPP No 7964 (LT, EN) | 2010 | Service Agreement No 038-09/MIS-2009-16 dated 8 October 2009 | VAE AB “Pramprojektas” (Service Provider) |
-
-\| 27. | Evaluation of Geological and Seismological Conditions at Potential VAE Sites Using Seismic Exploration Data (Volume 1, Volume 2) | June 2009 | Service Agreement No S_113-2009-14 dated 10 April 2009 | VAE AB “Geonafta” (Service Provider) |
-
-\| 28. | Investigations of Engineering Geological and Geotechnical Conditions of the Potential Construction Sites of Visaginas NPP (Verification Stage and Confirmation Stage) | September 2010 | Service Agreement No MIS-2010-1 dated 12 January 2010 | VAE UAB “Geotestus” (Service Provider) |
-
-\| 29. | Feasibility Study of Use of the Near-Surface Repositories of Short-Lived Radioactive Waste of Very Low, Low and Intermediate Activity (Intended for Radioactive Waste from the Ignalina Nuclear Power Plant) for the Disposal of Radioactive Waste from the Visaginas Nuclear Power Plant (LT, EN) | 18 September 2009 | N/A | Developed by VAE |
-
-\| 30. | Visaginas Nuclear Power Plant Site Evaluation Report (EN) | 2 December 2011 | N/A | Developed by VAE |
-
-\| 31. | Taking Over of the INPP Industrial Area Existing Infrastructure Project P022 (Project First Stage Report) (EN) | 2009 | N/A | Developed by VAE |
-
-\| 32. | Determining Possibilities to Connect to the Engineering Networks No P023-4 (LT) | 7 August 2009 | N/A | Developed by VAE |
-
-\| 33. | Pre-Design Solutions on Supply of Electricity Power to VAE Construction Sites No P037 (LT) | 2011 | N/A | Developed by VAE |
-
-\| 34. | Legal and Regulatory Environment for the New Nuclear Power Plant in Lithuania No (9.13.3)-P13-8 (LT) | 10 April 2009 | N/A | Developed by VAE |
-
-\| 35. | The Lithuanian New Nuclear Power Plant Build Programme (Lithuanian Human Resources Capability and Ability to Participate in the NPP Project) (EN) | 2009 | N/A | Developed by VAE |
+| No. | Object | Date | Agreement | Parties |
+| --- | --- | --- | --- | --- |
+| 1. | Description of Physical Protection Requirements and Feasibility, Phase 1 Report No (9.17-3)-P17-4/G_2009-176. (LT, EN) | 30 January 2009 | Agreement on Order of Author’s Work No S_113-2009-3 dated 15 January 2009 | VAE Vaidas Brasiūnas (Service Provider) |
+| 2. | Description of Physical Protection Requirements and Feasibility, Phase 2 Report No G_2009-224 (5.2) (LT, EN) | 24 March 2009 |  |  |
+| 3. | Description of Physical Protection Requirements and Feasibility, Phase 3 Report No G_2009-317 (LT, EN) | 19 April 2009 |  |  |
+| 4. | Possible Means of Equipment of Physical Protection System for Visaginas Power Plant No (9.17.2)-P17-12 (LT) | 13 July 2009 |  |  |
+| 5. | Environmental Impact Assessment Report New Nuclear Power Plant in Lithuania (LT, EN, RU) | 27 March 2009 | Agreement No 87-08 dated 4 February 2008 | AB “Lietuvos energija” Consortium of Poyry Energy Oy and Lietuvos energetikos institutas (Lithuanian Energy Institute) (Service Provider) |
+| 6. | Agreement on Transfer of Consultancy Services Agreement No 951-08 dated 19 November 2008 | VAE AB “Lietuvos energija” Poyry Energy Oy and Lietuvos energetikos institutas (Lithuanian Energy Institute) (Service Provider) |  |  |
+| 7. | Pro-Forma Business Model and Financing Plan (Project White Knight) (EN) | October 2009 | Agreement on Provision of Services No S_113-2009-33 dated 19 June 2009 | VAE N M Rothschild & Sons Limited (Service Provider) However, the Project White Knight: Baltic Power Market Report has been prepared by NERA Economic Consulting and the Project White Knight Technical Analysis Report – by FICHTNER |
+| 8. | Project White Knight: Baltic Power Market Report (EN) | 21 August 2009 |  |  |
+| 9. | Project White Knight Technical Analysis Report No 6757P02/FICHT-5172339-v3 (EN) | July 2009 |  |  |
+| 10. | Project of “New Nuclear Power Plant Oversized and Super Heavy Load Transportation Route Research” Feasibility Study No 01-02-625 | 2009 | Agreement on Provision of Services No S_113-2009-11 dated 24 March 2009 | VAE UAB “Hidroprojektas” (Service Provider) |
+| 11. | Selection of Design Solutions of Visaginas Nuclear Power Plant Oversized, Super Heavy and Other Load Transportation Route and their Economic Evaluation: Researches of Lithuanian Road Transport Network, Part 1, No MIS-2010-24-PP-B (LT) | 2010 | Agreement on Provision of Services No MIS-2010-24 dated 1 April 2010 | VAE VĮ Transporto ir kelių tyrimo institutas (Service Provider) UAB “Kelprojektas” (Service Provider) |
+| 12. | Selection of Design Solutions of Visaginas Nuclear Power Plant Oversized, Super Heavy and Other Load Transportation Route and their Economic Evaluation: Researches of Lithuanian Road Transport Network, Part 2, No MIS-2011-29-PP-T (LT) | 2011 | Agreement on Provision of Services No MIS-2011-29 dated 23 May 2011 | VAE (VĮ Transporto ir kelių tyrimo institutas (Service Provider) |
+| 13. | Special Communication Plan No 10076 (LT) | 10 October 2011 | Agreement on Preparation of the Special Communication Plan and Provision of Services Related to it No MIS-2010-47-1 dated 30 August 2010 | VAE UAB “Sweco Lietuva” (Service Provider) |
+| 14. | Safety Audit of Solutions of Special Plan Related to the Roads of State Importance (LT) | November 2010 | Agreement on Provision of Audit Services No MIS-2010-48 dated 2 September 2010 | VAE UAB “Strateginio transportavimo sprendimai” (Service Provider) |
+| 15. | Selection of Design Solutions of Visaginas Nuclear Power Plant Oversized, Super Heavy and Other Load Transportation Route and their Economic Evaluation: Researches of Inland Water Transport Network in Lithuania (LT) | 2011 | Agreement on Provision of Services No MIS-2011-05 dated 8 February 2011 | VAE UAB “Vilniaus hidroprojektas” (Service Provider) |
+| 16. | Renewal and Supplement of Assessment of Potential New Nuclear Power Plant Construction Sites in Respect of External Events No S/17-1219.10.12-G4-V:01 (LT) | 20 December 2010 | Agreement on Provision of Services No MIS-2010-58 dated 15 October 2010 | VAE Lietuvos energetikos institutas (Service Provider) |
+| 17. | Investigation of Deep Geological Setting of Potential Construction Sites of Visaginas NPP by Using 2D/3D Seismic Survey (EN) | 15 November 2010 | Agreement on Provision of Services No 8-50/MIS-2010-31 dated 1 June 2010 | VAE Ministry of Energy of the Republic of Lithuania AB Lietuvos elektrinė Lietuvos ir Danijos UAB “Minijos nafta” (Service Provider) |
+| 18. | Constructional Remains and Subsurface Geologic Setting Survey of Potential Visaginas NPP Sites Using Electrical Tomography Method (LT, EN) | 2009 | Service Agreement No. S_113-2009-17 dated 17 April 2009. The agreement was terminated by the agreement of the parties dated 12 June 2009. | VAE UAB “Geobaltic” (Service Provider) |
+| 19. | Geotechnical, Geological and Seismological (GG&S) Data Inventory for the Visaginas Sites (EN) | 2012 | Service Agreement No. MIS-2009-1 dated 31 July 2009 | VAE UAB “Eldra” (Service Provider) |
+| 20. | Report on Investigations of Contamination with Radionuclides of Potential Plots for a New Nuclear Power Plant (LT, EN) | 23 June 2009 | Service Agreement No. S_113-2009-13/2009/PES-64 dated 3 April 2009 | VAE Radiacinės saugos centras (Service Provider) |
+| 21. | Preliminary Ecogeological Survey of Construction Site of New Visaginas NPP (I Var) in Drūkšiniai vil. Visaginas TN No 2031-2009 (LT, EN) | 2009 | Service Agreement No. S_113-2009-18 dated 28 April 2009 | VAE UAB “Geotestus” (Service Provider) |
+| 22. | Preparation of Connection of New Nuclear Power Plant to the Transmission Network Infrastructure. Stages for Connection of New Nuclear Power Plant to the Transmission Network (Design Proposals) No 729 – PP – T1 (LT) | 2009 | Service Agreement No. S_113/17-70-2009-29 dated 19 May 2009 | VAE UAB “Energetikos pajėgos” (Service Provider) |
+| 23. | Fuel Strategy Report (EN) | August 2009 | Agreement No. S_116-2009-15 dated 8 April 2009 | VAE TVO Nuclear Services Oy (Service Provider) |
+| 24. | Proposal for Radioactive Waste Management Strategy (EN) | September 2009 |  |  |
+| 25. | Feasibility and Capabilities of the Regional Supply Chain to Support the Visaginas NPP Construction Project (EN) | 16 August 2010 | Service Agreement No MIS-2010-21 dated 29 March 2010 | VAE UAB “Deloitte Lietuva” (Service Provider) |
+| 26. | Design Proposals for Removal of Construction Waste from the Construction Site of Visaginas NPP No 7964 (LT, EN) | 2010 | Service Agreement No 038-09/MIS-2009-16 dated 8 October 2009 | VAE AB “Pramprojektas” (Service Provider) |
+| 27. | Evaluation of Geological and Seismological Conditions at Potential VAE Sites Using Seismic Exploration Data (Volume 1, Volume 2) | June 2009 | Service Agreement No S_113-2009-14 dated 10 April 2009 | VAE AB “Geonafta” (Service Provider) |
+| 28. | Investigations of Engineering Geological and Geotechnical Conditions of the Potential Construction Sites of Visaginas NPP (Verification Stage and Confirmation Stage) | September 2010 | Service Agreement No MIS-2010-1 dated 12 January 2010 | VAE UAB “Geotestus” (Service Provider) |
+| 29. | Feasibility Study of Use of the Near-Surface Repositories of Short-Lived Radioactive Waste of Very Low, Low and Intermediate Activity (Intended for Radioactive Waste from the Ignalina Nuclear Power Plant) for the Disposal of Radioactive Waste from the Visaginas Nuclear Power Plant (LT, EN) | 18 September 2009 | N/A | Developed by VAE |
+| 30. | Visaginas Nuclear Power Plant Site Evaluation Report (EN) | 2 December 2011 | N/A | Developed by VAE |
+| 31. | Taking Over of the INPP Industrial Area Existing Infrastructure Project P022 (Project First Stage Report) (EN) | 2009 | N/A | Developed by VAE |
+| 32. | Determining Possibilities to Connect to the Engineering Networks No P023-4 (LT) | 7 August 2009 | N/A | Developed by VAE |
+| 33. | Pre-Design Solutions on Supply of Electricity Power to VAE Construction Sites No P037 (LT) | 2011 | N/A | Developed by VAE |
+| 34. | Legal and Regulatory Environment for the New Nuclear Power Plant in Lithuania No (9.13.3)-P13-8 (LT) | 10 April 2009 | N/A | Developed by VAE |
+| 35. | The Lithuanian New Nuclear Power Plant Build Programme (Lithuanian Human Resources Capability and Ability to Participate in the NPP Project) (EN) | 2009 | N/A | Developed by VAE |
 
 SCHEDULE 8
 
@@ -3100,77 +2845,54 @@ INVESTED CAPITAL STATEMENT
 
 *To be completed by the PCO in respect of each Exiting Shareholder under Clause 26 and delivered to the RoL. The boxes in Sections 1-3 below are to be expanded as necessary to account for every Tranche of Invested Capital.*
 
-\| As at | ___________________ | |
-
-\| --- | --- | --- |
-
-\| | (Calculation Date) | |
-
-\| Invested Capital (x) of | ___________________ | = €EURAI ______________ |
-
-\| | Name of Exiting Shareholder | |
+| As at | ___________________ |  |
+| --- | --- | --- |
+|  | (Calculation Date) |  |
+| Invested Capital (x) of | ___________________ | = €EURAI ______________ |
+|  | Name of Exiting Shareholder |  |
 
 **SECTION 1 – SUBSCRIPTION PAYMENTS**
 
 *Complete a line entry for each Tranche of Subscription Payment made by the Exiting Shareholder*
 
-\| Date of Subscription Payment | Number of Calendar Days between Subscription Payment and the Calculation Date (c) | Amount of Subscription Payment (€EURAI) (a) |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | TOTAL | |
+| Date of Subscription Payment | Number of Calendar Days between Subscription Payment and the Calculation Date (c) | Amount of Subscription Payment (€EURAI) (a) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | TOTAL |  |
 
 **SECTION 2 – PRINCIPAL AMOUNTS**
 
 *Complete a line entry for each Tranche of Principal Amount drawn down from the Exiting Shareholder*
 
-\| Date of draw down of Principal Amount | Number of Calendar Days between draw down of Principal Amount and the Calculation Date (c) | Amount of Principal Amount (€EURAI) (a) |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | TOTAL | |
+| Date of draw down of Principal Amount | Number of Calendar Days between draw down of Principal Amount and the Calculation Date (c) | Amount of Principal Amount (€EURAI) (a) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | TOTAL |  |
 
 **SECTION 3 – CREDIT PAYMENTS**
 
 *Complete a line entry for each Tranche of payment made under Exiting Shareholder credit support for PCO obligations*
 
-\| Date of Credit Payment | Number of Calendar Days between Credit Payment and the Calculation Date (c) | Amount of Credit Payment (€EURAI) (a) |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | TOTAL | |
+| Date of Credit Payment | Number of Calendar Days between Credit Payment and the Calculation Date (c) | Amount of Credit Payment (€EURAI) (a) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | TOTAL |  |
 
 **SECTION 4 – INTEREST PAID**
 
 *State the total amount of interest paid to the Exiting Shareholder under Shareholder Loans*
 
-\| | | Aggregate amount of interest paid (€EURAI) (d) |
-
-\| --- | --- | --- |
-
-\| | | |
+|  |  | Aggregate amount of interest paid (€EURAI) (d) |
+| --- | --- | --- |
+|  |  |  |
 
 ____________________________ ____________________
 
@@ -3192,9 +2914,8 @@ ir
 
 [PB]
 
-\| KONCESIJOS SUTARTIS SU STRATEGINIU INVESTUOTOJU IR PROJEKTO BENDROVE DĖL VISAGINO NAUJOS ATOMINĖS ELEKTRINĖS PROJEKTO |
-
-\| --- |
+| KONCESIJOS SUTARTIS SU STRATEGINIU INVESTUOTOJU IR PROJEKTO BENDROVE DĖL VISAGINO NAUJOS ATOMINĖS ELEKTRINĖS PROJEKTO |
+| --- |
 
 TURINYS
 
@@ -4570,17 +4291,12 @@ su sąlyga, kad pirmiau esančiuose 3 ir 4 punktuose nurodytais atvejais atitink
 
 šio 31.4 punkto (Strateginio investuotojo nuosavybės perleidimo apribojimai) tikslais:
 
-\| „Japonijos bendrovė “ | reiškia bendrovę, ūkio subjektą ar bet kokio pobūdžio pagal Japonijos įstatymus įsteigtą bet kokios rūšies įmonę, kurios bent viena pagrindinė buveinė, pagrindinė veiklos ar kontrolės vieta yra Japonijoje kartu su bet kuria jos tiesiogiai ar netiesiogiai visiškai valdoma dukterine įmone; |
-
-\| --- | --- |
-
-\| „Amerikos bendrovė“ | reiškia bendrovę, ūkio subjektą ar bet kokio pobūdžio pagal bet kurios Jungtinių Amerikos Valstijų valstijos ar Kolumbijos apygardos įstatymus įsteigtą bet kokios rūšies įmonę, kurios bent viena pagrindinė buveinė, pagrindinė veiklos ar kontrolės vieta yra Jungtinėse Amerikos Valstijose kartu su bet kuria jos tiesiogiai ar netiesiogiai visiškai valdoma dukterine įmone; |
-
-\| „EPC subrangovas“ | reiškia bet kurį asmenį, kuris yra ar iš kurio tikimasi, kad jis yra i) sutarties su EPC rangovu šalis ir pagal tokią sutartį vykdo EPC rangovui svarbius darbus, teikia prekes ir paslaugas įgyvendinant Projektą; ii) i) punkte nurodyto asmens susijusią bendrovę; arba iii) tiesioginį ar netiesioginį i) ar ii) punkte nurodytų asmenų darbų, prekių ar paslaugų teikėją (svarbūs darbai, prekės ir paslaugos yra tokios, kurių vertė yra, arba manoma, kad yra didesnė, nei EUR 50 000 000); |
-
-\| „Ribota grupė“ | reiškia Tikrąją kontroliuojančiąją bendrovę ir su ja susijusias bendroves, kurių pagrindinė veikla (kartu paėmus) yra elektros energijos gamyba, tiekimas, perdavimas ar skirstymas, visais atvejais nepriklausimai nuo geografinės vietovės, kurioje tokia veikla yra vykdoma; ir |
-
-\| „Tikroji kontroliuojančioji bendrovė“ | reiškia juridinį asmenį, kuris neturi kontroliuojančios bendrovės (kai kontroliuojanti bendrovė reiškia bendrovę, apibrėžtą 2006 m. Bendrovių įstatymo 1159 skyriuje). |
+| „Japonijos bendrovė “ | reiškia bendrovę, ūkio subjektą ar bet kokio pobūdžio pagal Japonijos įstatymus įsteigtą bet kokios rūšies įmonę, kurios bent viena pagrindinė buveinė, pagrindinė veiklos ar kontrolės vieta yra Japonijoje kartu su bet kuria jos tiesiogiai ar netiesiogiai visiškai valdoma dukterine įmone; |
+| --- | --- |
+| „Amerikos bendrovė“ | reiškia bendrovę, ūkio subjektą ar bet kokio pobūdžio pagal bet kurios Jungtinių Amerikos Valstijų valstijos ar Kolumbijos apygardos įstatymus įsteigtą bet kokios rūšies įmonę, kurios bent viena pagrindinė buveinė, pagrindinė veiklos ar kontrolės vieta yra Jungtinėse Amerikos Valstijose kartu su bet kuria jos tiesiogiai ar netiesiogiai visiškai valdoma dukterine įmone; |
+| „EPC subrangovas“ | reiškia bet kurį asmenį, kuris yra ar iš kurio tikimasi, kad jis yra i) sutarties su EPC rangovu šalis ir pagal tokią sutartį vykdo EPC rangovui svarbius darbus, teikia prekes ir paslaugas įgyvendinant Projektą; ii) i) punkte nurodyto asmens susijusią bendrovę; arba iii) tiesioginį ar netiesioginį i) ar ii) punkte nurodytų asmenų darbų, prekių ar paslaugų teikėją (svarbūs darbai, prekės ir paslaugos yra tokios, kurių vertė yra, arba manoma, kad yra didesnė, nei EUR 50 000 000); |
+| „Ribota grupė“ | reiškia Tikrąją kontroliuojančiąją bendrovę ir su ja susijusias bendroves, kurių pagrindinė veikla (kartu paėmus) yra elektros energijos gamyba, tiekimas, perdavimas ar skirstymas, visais atvejais nepriklausimai nuo geografinės vietovės, kurioje tokia veikla yra vykdoma; ir |
+| „Tikroji kontroliuojančioji bendrovė“ | reiškia juridinį asmenį, kuris neturi kontroliuojančios bendrovės (kai kontroliuojanti bendrovė reiškia bendrovę, apibrėžtą 2006 m. Bendrovių įstatymo 1159 skyriuje). |
 
 31.4.2 Strateginis investuotojas įsipareigoja neregistruoti bet kurio Strateginio investuotojo akcininkų įvykdyto akcijų perleidimo sandorio, jeigu tinkamai įvertinęs padėtį, Strateginis investuotojas sužino, kad toks perleidimo sandoris pažeistų šį 31.4.1 punktą. Gavęs iš LR raštišką prašymą Strateginis investuotojas per dvidešimt (20) Darbo dienų LR pateikia patvirtintas Strateginio investuotojo narių registro (*akcininkų asmeninių vertybinių popierių sąskaitos*) kopijas.
 
@@ -4932,403 +4648,205 @@ SĄVOKOS
 
 **SĄVOKOS**
 
-\| „Atsisakymas“ | bet kuris iš toliau išvardytų įvykių, įvykęs laikotarpiu nuo Koncesijos dienos iki tos dienos, kurią yra priimamas teigiamas GIS arba galutinis neigiamas GIS: (A) (1) Akcininkai priima sprendimą likviduoti PB; arba (2) įsigalioja teismo sprendimas pradėti PB bankroto procesą, ir toks procesas nėra nutraukiamas arba panaikinamas per dvidešimt (20) Darbo dienų nuo tokio teismo sprendimo; arba (3) PB kreditorius ar kreditoriai (išskyrus LR ar su LR Susijusias bendroves) priima sprendimą pradėti neteisminį PB bankroto procesą, (i) ir šis sprendimas nepanaikinamas iki tokio neteisminio bankroto proceso pradžios; arba (ii) jeigu procesas pagal tokį sprendimą yra pradedamas, jis nėra paviršutiniškas ar pradėtas nepagrįstai, panaikinamas ar nutraukiamas per dvidešimt (20) Darbo dienos nuo jo pradžios; arba (B) ne dėl Nenugalimos jėgos įvykio arba taikomo įstatymo (išskyrus tuos atvejus, kai toks taikomas įstatymas, įskaitant visus Reguliavimo reikalavimus, priimtus reaguojant į PB arba kurio nors jos Subrangovo veikimą ar neveikimą) Akcininkai iki 2015 m. gruodžio 31 d. arba per trisdešimt tris (33) Mėnesius nuo pirmojo RPPD pateikimo dienos – kuri diena ankstesnė, ar vėlesnės su LR suderintos datos nepriėmė nei teigiamo, nei neigiamo GIS; (C) PB padaro esminį šios Koncesijos sutarties pažeidimą, išskyrus tuos atvejus, kai toks įvykis yra tiesioginė LR įvykio arba LR šia Koncesijos sutartimi prisiimtų savo įsipareigojimų nevykdymo pasekmė; |
-
-\| --- | --- |
-
-\| „Privažiavimo kelias“ | kaip apibrėžta 2 priedėlio (Privažiavimo kelio darbai) 1 punkte (Sąvokos ir jų aiškinimas); |
-
-\| „Privažiavimo kelio statybos sutartys“ | bet kuri statybos sutartis, profesinio paskyrimo, panaši ar susijusi sutartis, kurią LR sudaro arba kuri LR vardu sudaroma su Trečiąja šalimi dėl Privažiavimo kelio darbų projektavimo, vykdymo ar priežiūros; |
-
-\| „Privažiavimo kelio darbai“ | kaip apibrėžta 2 priedėlio (Privažiavimo kelio darbai) 1 punkte (Sąvokos ir jų aiškinimas); |
-
-\| „Nukentėjusioji šalis“ | Šalis arba Šalys, nukentėjusios nuo Nenugalimos jėgos įvykio; |
-
-\| „Vienos konvencija su pakeitimais“ | 1963 m. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą, su pakeitimais, padarytais Vienos protokolu; |
-
-\| „Amerikos bendrovė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai); |
-
-\| „Papildoma sutartis“ | EPC rangos sutartis ir, jei taikoma, O&M pagalbinių paslaugų sutartis ir (arba) Kuro tiekimo sutartis; sąvoka „Papildomos sutartys“ aiškinama atitinkamai; |
-
-\| „Papildomas rangovas“ | bet koks darbus atliekantis arba paslaugas teikiantis rangovas, kuris yra Papildomos sutarties šalis; |
-
-\| „Susijusi bendrovė“ | bet koks Vienetas, tiesiogiai ar netiesiogiai Kontroliuojantis ar Kontroliuojamas, arba bendrai Kontroliuojamas su susijusiu subjektu (ir bet kuris konsorciumo narys, tais atvejais, kai susijęs subjektas yra konsorciumas); |
-
-\| „Darbo diena“ | Kalendorinė diena, išskyrus šeštadienius ir sekmadienius, valstybines šventes ar kitas nedarbo dienas Lietuvoje; |
-
-\| „Apskaičiavimo diena“ | apskaičiuojant Investuotą kapitalą ir Investuoto kapitalo ataskaitos dalį pagal 26 punktą (LR įvykis. Privalomasis akcijų perleidimas), diena, kurią pagal susitarimą arba nustatymą pagal 20.2 punktą (LR įvykio pabaiga) įvyksta atitinkamas LR įvykis; |
-
-\| „Kalendorinė diena“ | dvidešimt keturių (24) valandų laikotarpis, kuris baigiasi vidurnaktį dvyliktą (12) valandą; |
-
-\| „Centras“ | kaip apibrėžta 45.3 punkte (Ginčų sprendimo tvarka ir arbitražas); |
-
-\| „Ginčijantis subjektas“ | kaip apibrėžta 16.5.3(B) punkte (Garantijų pažeidimas); |
-
-\| „Ieškinys“ | bet kokia pretenzija, reikalavimas, ieškinys arba ieškininis pareiškimas, ieškinio pagrindas ar procesas pagal šią Koncesijos sutartį arba su ja susijęs; |
-
-\| „KED“ arba „Komercinės eksploatacijos diena“ | data, nuo kurios NAE pradeda gaminti elektros energiją, perduodamą į nacionalinį perdavimo tinklą komerciniais tikslais (ne vien tik bandant užbaigtą NAE); |
-
-\| „Kompetentinga institucija“ | bet kuri nacionalinė ar viršesnė agentūra, institucija, inspekcija tarptautiniu, Europos Sąjungos, nacionaliniu ar savivaldos lygmeniu, Europos Sąjungos arba Lietuvos Respublikos teismas ar tribunolas arba jo dalis, turinti jurisdikciją visai PB, PB turtui, Akcijoms ir (arba) Projektui arba jų daliai; |
-
-\| „Konkurentas“ „Koncesija“ | kaip apibrėžta Akcininkų sutartyje; kaip apibrėžta preambulės E punkte; |
-
-\| „Koncesijos diena“ | šios Koncesijos sutarties diena, kuri sutampa su diena, kurią LR suteikia Koncesiją PB; |
-
-\| „Sutikimai“ | visi bet kokios Kompetentingos institucijos reikalaujami ar išduodami įgalinimai, sutikimai, licencijos, leidimai, įsakymai, susitarimai, pranešimai ar kitos formos patvirtinimai, kurie reikalingi pagal Įstatymus, susiję su NAE įsigijimu, nuosavybe, laikinu valdymu, statyba, eksploatacijos pradžia, eksploatavimu, bandymu, aprūpinimu kuru, veikimu, remontu, eksploatacijos nutraukimu (įskaitant Statybos ir eksploatavimo licenciją), ir, nepažeidžiant ankstesnės nuostatos bendrumo, apima visas Kompetentingos institucijos išankstines sąlygas ar kitus reikalavimus, kuriuos pagal Įstatymus būtina patenkinti prieš suteikiant, išduodant, atnaujinant, pakeičiant, išplečiant, pratęsiant ir (arba) iš naujo patvirtinant tokį įgalinimą, sutikimą, licenciją, leidimą, įsakymą, susitarimą, pranešimą ar kitos formos patvirtinimą (įskaitant Statybos ir eksploatavimo licenciją); |
-
-\| „Statybos ir eksploatavimo licencija“ | pagal 2011 m. birželio 28 d. Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 nuostatas išduota licencija statyti ir eksploatuoti branduolinės energetikos objektą ar objektus; |
-
-\| „Ieškinys pagal Sutartį“ | kaip apibrėžta 16.2.2 punkte (Paraleliniai ieškiniai); |
-
-\| „Sutarties terminas“ | kaip apibrėžta 2.2 punkte (Koncesijos suteikimas ir terminas); |
-
-\| „Sutartiniai nacionalinio saugumo kriterijai“ | kriterijai, išvardyti 4 priedėlyje (Nacionalinio saugumo kriterijai); |
-
-\| „Kontrolė“ | įskaitant visas susijusias reikšmes, „Kontroliuojamas“ ir „bendrai Kontroliuojamas kartu su“: |
-
-\| | (A) galimybė (tiesiogiai ar netiesiogiai, turint nuosavybės teise įstatinį kapitalą, balsavimo teises, pagal sutartį ar kitaip): (i) paskirti ir (arba) atleisti visus ar kai kuriuos juridinio asmens valdybos ar kito valdymo organo narius, kurie turi tokią balsų daugumą, kokią gali turėti tokios valdybos ar valdymo organo nariai; ir (arba) (ii) abiem atvejais visiškai ar didžiąja dalimi kontroliuoti tokios įmonės veiklą; arba |
-
-\| | (B) įmonės kontrolinio paketo turėjimas savo nuosavybėje ir (arba) jo valdymas, ir (arba) galimybė naudotis bet kurio asmens turimų akcijų suteikiamomis balsavimo teisėmis (tiesiogiai ar turint tokių akcijų viename ar keliuose asmenyse), kurios suteikia tokių akcijų turėtojams 50 ar daugiau proc. balsavimo teisių visuotiniame tokio asmens akcininkų susirinkime sprendžiant visus, ar didžiąją dalį klausimų. |
-
-\| | Siekiant išvengti abejonių, yra laikoma, kad dėl asmens ar asmens turto administratoriaus, administratoriaus ir valdytojo, lėšų administratoriaus, likvidatoriaus, bankroto administratoriaus ar panašaus asmens paskyrimas bet kurioje jurisdikcijoje (arba tokio administratoriaus, administratoriaus ir valdytojo, lėšų administratoriaus, likvidatoriaus, bankroto administratoriaus ar panašaus asmens pasinaudojimas jam suteiktais įgalinimais, išskyrus įgalinimą parduoti atitinkamas akcijas ar vertybinius popierius) nepakeičia, kas Kontroliuoja tokį asmenį; |
-
-\| „Papildomos kompensacijos konvencija“ | 1997 m. Papildomos kompensacijos už branduolinę žalą konvencija; |
-
-\| „Kredito mokėjimai“ | kaip apibrėžta Akcininkų sutartyje; |
-
-\| „Eksploatavimo nutraukimo etapas“ | laikotarpis nuo tos dienos, kurią pagal taikomus Įstatymus pradedamas NAE eksploatavimo nutraukimas (imtinai); |
-
-\| „Eksploatavimo nutraukimo ir atliekų tvarkymo finansavimo principai“ | 6 priedėlyje (Eksploatavimo nutraukimo ir atliekų tvarkymo finansavimo principai) išdėstyti principai; |
-
-\| „Vystymo grafikas“ | PB parengtas bendras Projekto vystymo grafikas; |
-
-\| „Informuojanti šalis“ | kaip apibrėžta 13.2 punkte (Konfidenciali informacija); |
-
-\| „Ginčas“ | kaip apibrėžta 45 punkte (Ginčų sprendimo tvarka ir arbitražas) aprašytoje Ginčų sprendimo tvarkoje; |
-
-\| „Ginčų sprendimo tvarka“ | 45 punkte (Ginčų sprendimo tvarka ir arbitražas) nustatyta Ginčų sprendimo tvarka; |
-
-\| „Eesti Energia“ | [„Eesti Energia AS“, pagal Estijos įstatymus įsteigta bendrovė, įmonės kodas 10421629, kurios buveinė yra adresu Laki tn. 24, 12915 Talinas, Estija;] |
-
-\| „Suvaržymas“ | suvaržymas, įkeitimas, areštas, pasirinkimo sandoris, kapitalo dalis, įgalinimas parduoti, hipoteka, uzufruktas, nuosavybės išlaikymo teisė, pirmumo teisė, pirmojo atsisakymo teisė ar kitokia trečiosios šalies teisė, įkeitimo pobūdžio teisė arba sutartis, susitarimas ar įsipareigojimas tai padaryti; |
-
-\| „Energetikos chartijos sutartis“ | Energetikos chartijos sutartis, pateikta pasirašyti Lisabonoje 1994 m. gruodžio 17 d. ir įsigaliojusi 1998 m. balandžio 16 d.; |
-
-\| „Energetikos chartijos sutarties pakeitimas“ | kaip apibrėžta 8 priedėlio 1.3 punkte (Esminiai pakeitimai); |
-
-\| „ENSREG“ | Europos branduolinės saugos reguliuotojų grupė ir (arba) organizacija, kuri perima arba ENSREG vardu vykdo visas ENSREG funkcijas ar įsipareigojimus; |
-
-\| „Aplinka“ | oras (įskaitant orą pastatuose ir orą kituose natūraliuose ar dirbtiniuose objektuose, esančiuose ant žemės arba po žeme), vanduo (įskaitant teritorinius, pakrantės ir vidaus vandenis, požeminį vandenį ir vandenį natūraliuose ar dirbtiniuose objektuose) ir žemė (įskaitant žemę po vandeniu, žemę paviršiuje ir žemės gelmes), taip pat organizmai ar ekosistemos, kuriems reikalingas oras, vanduo ar žemė; |
-
-\| „Aplinkosauginės taisyklės“ | kiekvienas taikomas Įstatymas, susijęs su Aplinkos tarša arba apsauga, žmonių sveikata ir sauga, Pavojingų medžiagų gamyba, transportu, sandėliavimu, apdorojimu, šalinimu ar buvimu; |
-
-\| „EPC rangos sutartis“ | projektavimo, tiekimo ir statybos sutartis, pagal kurią EPC rangovas PB teikia projektavimo, tiekimo ir statybos paslaugas, pagalbines paslaugas ir, jeigu dėl to susitariama pagal tos sutarties sąlygas, tam tikras kuro tiekimo paslaugas įgyvendinant Projektą; |
-
-\| „EPC rangovas“ | viena arba kelios su Strateginiu investuotoju Susijusios bendrovės, kuriomis gali būti „Hitachi-GE Nuclear Energy, Ltd.“, (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“ (PB priimtina forma), tokiai bendrovei turi pritarti LR), su PB sudarančios EPC rangos sutartį; |
-
-\| „EPC rangovo įsipareigojimų nevykdymas“ | atvejai, kai EPC rangovas nevykdo įsipareigojimų arba pažeidžia EPC rangos sutartį, o PB dėl tokio pažeidimo įgyja teisę nutraukti EPC rangos sutartį; |
-
-\| „EPC subrangovas“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) |
-
-\| „EURATOMAS“ | Europos atominės energetikos bendrija ir (arba) organizacija, kuri perima arba EURATOMO vardu vykdo visas EURATOMO funkcijas ar įsipareigojimus arba jų dalį; |
-
-\| „EURIBOR“ | įsiskolinimo sumai taikoma palūkanų norma, lygi Europos Sąjungos bankų asociacijos nustatytai šešių (6) Mėnesių tarpbankinei rinkos palūkanų normai, kuria bankai pageidauja (pasiruošę) paskolinti lėšų eurais kitiems bankams, skelbiama atitinkamame „Reuters“ ekrano lange 11:00 val. tą dieną, kurią suėjo šios sumos mokėjimo terminas; |
-
-\| „Išskiriamas turtas“ | kaip apibrėžta 46.3 punkte (Teisių į imunitetą atsisakymas); |
-
-\| „Pasitraukiantis akcininkas“ | kaip apibrėžta 20.2.1 punkte (LR įvykio pabaiga); |
-
-\| „GIS“ | galutinis investavimo sprendimas dėl Projekto, kaip numatyta Akcininkų sutartyje; „teigiamas GIS“ aiškinamas kaip galutinis investavimo sprendimas įgyvendinti Projektą, o „neigiamas GIS“ aiškinamas kaip galutinis investavimo sprendimas neįgyvendinti Projekto; |
-
-\| „galutinis neigiamas GIS" | kaip apibrėžta 11.4.1 punkte (Pranešimas apie GIS priėmimą); |
-
-\| „Finansininkas“ | (A) asmuo, teikiantis, įsipareigojantis teikti, platinantis, apdraudžiantis ir (arba) garantuojantis tiesiogines ar netiesiogines finansines priemones (įskaitant, bet ne tik, paskolas, vertybinius popierius, akredityvus, įsipareigojimų įvykdymo užtikrinimus, kitus dokumentinius kreditus, išvestines finansines priemones ar kitos rūšies finansinius įsiskolinimus) PB arba Akcininkui ar Akcininkams ar jų naudai; ir |
-
-\| | (B) agentas ar patikėtinis, veikiantis A punkte išvardytų asmenų vardu; ir (C) reitingų agentūra, kuri tokiai finansinei priemonei gali priskirti viešą ar privatų reitingą; |
-
-\| „Pirmasis betonas“ | pirmojo reaktoriaus pastato betonavimas, kurį atlieka EPC rangovas vadovaujantis EPC rangos sutartimi, kaip parodyta Vystymo grafike; |
-
-\| „Nenugalimos jėgos įvykis“ | veiksmas, įvykis ar atsitikimas, turintis įtakos bet kurios Šalies įsipareigojimų pagal šią Koncesijos sutartį vykdymui, kuris įvyko ne dėl šios Šalies kaltės ir kuris nepriklauso nuo šios Šalies valios (su sąlyga, kad PB veikė vadovaudamasi Gera sektoriaus praktika, o LR veikė protingai ir atsargiai, kad išvengtų tokio veiksmo, įvykio ar atsitikimo), įskaitant (tiek, kiek dėl to nėra kalta atitinkama Šalis ir tai nepriklauso nuo jos valios): (A) epidemiją, karą, karo veiksmus (paskelbus karą arba ne), blokadas, teroristinius išpuolius arba civilinės ar karinės organizacijos veiksmus; (B) riaušes, sukilimą, pilietinius neramumus, viešosios tvarkos nesilaikymą, viešas demonstracijas, sabotažą ar vandalizmą; (C) gaivalines nelaimes, įskaitant gaisrą, potvynį, žemės drebėjimą, prastą orą, meteorologines ir jūrines sąlygas, nuošliaužas, žaibą, ugnikalnio išsiveržimą ar sprogimą; (D) orlaivio arba iš orlaivio iškritusių daiktų poveikį; (E) streiką, lokautą, darbo ginčą ar kitokį darbo santykių pertraukimą, i) kuriame dalyvauja ne vien tos Šalies personalas ar subrangovai ir ii) kurio nesuorganizavo tos Šalies personalas ar subrangovas arba tos Šalies Susijusios bendrovės personalas ar subrangovai; arba (F) jonizuojančią spinduliuotę, taršą dėl radioaktyvumo, radioaktyvią, cheminę ar biologinę taršą; |
-
-\| „Vienetas“ | bendrovė, partnerystė, ribotos atsakomybės ūkinė bendrija, trestas, fondas ar kitoks subjektas (nesvarbu, juridinis asmuo, ar ne); |
-
-\| „Kuro tiekimo sutartis“ | branduolinio kuro tiekimo ir susijusių paslaugų sutartis, kurią gali sudaryti PB ir Branduolinio kuro tiekėjas, kaip numatyta Branduolinio kuro tiekimo sąlygose; |
-
-\| „Galutinis pranešimas pradėti darbus“ arba „GPPD“ | „GPPD“ arba galutinis pranešimas pradėti darbus, pateiktas pagal EPC rangos sutartį; |
-
-\| „GE-Hitachi Nuclear Energy Americas LLC“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•]; |
-
-\| „Global Nuclear Fuel-Americas, LLC“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•]; |
-
-\| „Gera sektoriaus praktika“ | tam tikri gebėjimais ir rūpestingumas, uolumas, atsargumas ir įžvalgumas, kurių pagrįstai ir įprastai tikimasi iš kvalifikuoto ir patyrusio rangovo, savininko ar operatoriaus (atitinkamai), kuris verčiasi veikla, kuri: (A) PB atveju i) yra panašaus pobūdžio, apimties, vertės ir sudėtingumo į Koncesijos veiklą ir tokiomis ar panašiomis aplinkybėmis, ii) susijusi su naujos atominės elektrinės, kuri yra panašaus pobūdžio, apimties, vertės ir sudėtingumo į užbaigtą NAE, priežiūra ir eksploatavimu, ir iii) susijusi su atominės elektrinės aikštelės ir naujos atominės elektrinės, kuri yra panašaus pobūdžio, apimties, vertės ir sudėtingumo į užbaigtą NAE, sutvarkymo ir (arba) eksploatavimo nutraukimo veikla; ir (B) LR atveju, savo pobūdžiu, apimtimi, verte ir sudėtingumu yra panaši į Privažiavimo kelio projektavimą, tiesimą ir priežiūrą, kiekvienu atveju (atitinkamai), kai toks rangovas, savininkas ar operatorius (atitinkamai) siekia vykdyti savo sutartinius įsipareigojimus, įskaitant susijusius su taikomais Įstatymais, Sutikimais, praktikos kodeksais ir standartais; |
-
-\| „Pavojinga medžiaga“ | natūrali ar dirbtinė cheminė medžiaga ar daiktas (kietos, skystos ar dujinės būsenos), galintis (atskirai arba sąveikaudamas) pakenkti Aplinkai arba žmonių sveikatai; |
-
-\| „Ypač slapta informacija“ | (A) informacija, susijusi su „Hitachi, Ltd.“, „Hitachi-GE Nuclear Energy, Ltd.“, „GE-Hitachi Nuclear Energy Americas LLC“ ar kurios nors iš jų Susijusios bendrovės ABWR tipo atominių elektrinių projektu ir statyba arba jų dalimi; |
-
-\| | (B) informacija, susijusi su „Global Nuclear Fuel – Americas, LLC“ kuriamu ir gaminamu branduoliniu kuru; ir (C) kainų nustatymo informacija, kurią turi pateikti EPC rangovas, Branduolinio kuro tiekėjas ir (arba) O&M pagalbinių paslaugų rangovas pagal EPC rangos sutartį, Kuro tiekimo sutartį ir (arba) O&M pagalbinių paslaugų sutartį arba kainų nustatymo informacija, kuri yra susijusi su šiomis sutartimis, tačiau, siekiant išvengti abejonių, nėra priskiriama informacija apie bendrą kainą, susijusią su i) RPPD ir GPPD etapais pagal EPC rangos sutartį, ii) Kuro tiekimo sutartį arba iii) O&M pagalbinių paslaugų sutartį; |
-
-\| „Hitachi-GE Nuclear Energy, Ltd.“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•]; |
-
-\| „Hitachi, Ltd.“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•], kuri yra Strateginio investuotojo [tikroji] patronuojančioji bendrovė; |
-
-\| „Hitachi, Ltd. grupė“ | „Hitachi, Ltd.“ ir su ja Susijusios bendrovės; |
-
-\| „TATENA“ | Tarptautinė atominės energijos agentūra ir (arba) organizacija, kuri perima arba TATENA vardu vykdo visas TATENA funkcijas ar įsipareigojimus;; |
-
-\| „TATENA sutartis“ | 1967 m. sutartis dėl Tarptautinės atominės energijos agentūros privilegijų ir imunitetų; |
-
-\| „TATENA statutas“ | 1956 m. Tarptautinės atominės energijos agentūros statutas; |
-
-\| „TIGSC konvencija“ | kaip apibrėžta 45.4.1 punkte (TIGSC arbitražas); |
-
-\| „Nuo atsakomybės apsaugotas asmuo“ | kaip apibrėžta 16.5.3 punkte (Garantijų pažeidimas); |
-
-\| „indeksavimo koeficientas“ | EUROSTATO skelbiamas Lietuvos gamintojų kainų indeksas; |
-
-\| „Asmuo“ | fizinis asmuo, kuris yra Projekto dalyvio ar Susijusio asmens vadovas, tarnautojas, partneris, narys, darbuotojas ir (arba) konsultantas; |
-
-\| „Pradinė akcininkų sutartis“ | sutartis dėl PB, kurią suderina ir sudaro akcijas pasirašantys akcininkai-steigėjai Koncesijos dieną arba iki jos; |
-
-\| „Intelektinės nuosavybės teisės“ | visame pasaulyje: (A) patentinės teisės ir išradimai (patentuotini ar ne), įskaitant visas patentines paraiškas ir informacijos atskleidimą, teisės į dizainą, pramoniniai pavyzdžiai, autorių ir gretutinės teisės bei susijusios teisės (įskaitant programinės įrangos teises), moralinės autoriaus teisės, integrinių grandynų teisės, puslaidininkių topografijos teisės, duomenų bazių teisės, prekių ženklai, prekių pavadinimai, įmonių pavadinimai, domenų pavadinimai ir know-how; |
-
-\| | (B) registracijos prašymai ir teisė teikti registracijos prašymus; ir |
-
-\| | (C) atitinkamo ar panašaus pobūdžio kitos intelektinės nuosavybės, pramoninės nuosavybės ar patentinės teisės, pripažįstamos bet kurioje pasaulio šalyje ar jurisdikcijoje, |
-
-\| | kiekvienu atveju neatsižvelgiant į egzistavimo pagrindą – teisinį, bendrąją teisę ar teisingumo principus, registracijos buvimą ar nebuvimą bei materialinį jų įkūnijimą; |
-
-\| „Investuotas kapitalas“ | kiekvieno Pasitraukiančio akcininko atžvilgiu – i) kapitalo, kurį šis Pasitraukiantis akcininkas investavo į PB savo Mokėjimais už pasirašytas akcijas arba Pagrindinėmis sumomis, ir ii) šio Pasitraukiančio akcininko Kredito mokėjimų bendra suma Apskaičiavimo dieną; |
-
-\| „Investuoto kapitalo ataskaita“ | suderintos formos, pateiktos 9 priedėlyje (Investuoto kapitalo ataskaita), lentelė; |
-
-\| „Investavimo diena“ | diena, kurią Akcininkai investuoja į PB pagal Akcininkų sutartį, tam kad būtų suteiktas investavimas, reikalingas pirmajam RPPD; |
-
-\| „Investicijų apsaugos sutartis“ | LR ir vienos ar kelių šalių sudaryta investicijų apsaugos sutartis (įskaitant Energetikos chartijos sutartį); |
-
-\| „Japonijos bendrovė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) |
-
-\| „Jungtinis protokolas“ | 1988 m. Jungtinis protokolas, susijęs su Vienos konvencijos ir Paryžiaus konvencijos taikymu; |
-
-\| „Pagrindinis subrangovas“ | subjektas, su PB sudaręs Pagrindinę subrangos sutartį; |
-
-\| „Pagrindinė subrangos sutartis“ | Subrangos sutartis, kuri ypač svarbi Koncesijos vykdymui dėl savo didelės vertės, svarbos vykdant PB įsipareigojimus pagal šią Koncesijos sutartį (įskaitant Subrangos sutartį, sudarytą su pagrindinių technologijų tiekėju, pagrindinių medžiagų tiekėju ar pagrindinių vystymo darbų vykdytoju), yra susijusi su prekėmis ar paslaugomis, kai alternatyvių šaltinių yra mažai, ir pan. (įskaitant Papildomas sutartis); |
-
-\| „Latvenergo“ | [„Latvenergo AS“, pagal Latvijos įstatymus įsteigta bendrovė, įmonės kodas 40003032949, kurios buveinė yra adresu Pulkveza Brieza iela 12, Ryga, LV-1230, Latvija;] |
-
-\| „Įstatymai“ | (A) Lietuvos Respublikos Seimo priimtas įstatymas; |
-
-\| | (B) Lietuvos Respublikos Vyriausybės priimtas nutarimas, turintis teisinę galią; (C) Reguliavimo reikalavimas; (D) Lietuvos Respublikoje nacionaliniu ar savivaldos lygiu priimtas sprendimas, įsakymas, nutarimas, reglamentas, taisyklė ar pranešimas, turintis teisinę galią; (E) Lietuvos Konstitucija; (F) vertybinių popierių biržos reglamentas, teismų praktika ir sprendimai Lietuvos Respublikoje, turintys įstatymo galią; ir (G) ES teisės aktas, sutartys ar kiti tarptautinės teisės aktai, kurių kiekvienas galioja Lietuvos Respublikoje, ir (H) visi kiti taikomi įstatymai, reglamentai, direktyvos, įsakymai, sprendimai ir kitos taisyklės, kiekvienoje jurisdikcijoje turintys įstatymo galią (įskaitant tarptautinių vandenų atžvilgiu), kurių atžvilgiu PB turi įsipareigojimų pagal Koncesiją; |
-
-\| „Koncesijų įstatymas“ | 2003 m. birželio 24 d. Lietuvos Respublikos koncesijų įstatymas Nr. IX-1647 (su pakeitimais); |
-
-\| „atsakomybė“ | kaip apibrėžta 1.2.18 punkte; |
-
-\| „Ribotas pranešimas pradėti darbus“ arba „RPPD“ | „RPPD“ arba Ribotas pranešimas pradėti darbus, pateiktas pagal EPC rangos sutartį; |
-
-\| „Lietuvos Konstitucija“ | Lietuvos Respublikos piliečių 1992 m. spalio 25 d. referendume priimta Lietuvos Respublikos Konstitucija (su visais pakeitimais); |
-
-\| „Lietuvos investuotojas“ | UAB „Visagino atominė elektrinė“, Lietuvoje įregistruota ir įsteigta bendrovė, įmonės kodas 301844044, kurios adresas yra Žvejų g. 14, LT-09310 Vilnius, Lietuva; |
-
-\| „LIV intelektinė nuosavybė“ | su projektu susijusių tyrimų ir ataskaitų Intelektinės nuosavybės teisės, kaip nurodyta 7 priedėlyje (LIV intelektinė nuosavybė); |
-
-\| „Nuostoliai“ | visi nuostoliai, žala, įsipareigojimai, išlaidos ir sąnaudos (įskaitant pagrįstą advokatų honorarą); sąvoka „Nuostolis“ aiškinama atitinkamai; |
-
-\| „Privalomojo akcijų perleidimo kaina“ | kaip apibrėžta 26.2 punkte (Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas); |
-
-\| „Marža“ | kaip apibrėžta 26.2.1 punkte (Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas); |
-
-\| „EM“ | Lietuvos Respublikos energetikos ministerija; |
-
-\| „Mėnuo“ | kalendorinis mėnuo, kurį sudaro trisdešimties (30) Kalendorinių dienų laikotarpis, jeigu šis laikotarpis prasideda balandžio, birželio, rugsėjo ir lapkričio mėnesį, arba trisdešimt viena (31) Kalendorinė diena, jeigu laikotarpis prasideda kurį nors kitą mėnesį, išskyrus vasario mėn., kurį sudaro dvidešimt aštuonios (28) Kalendorinės dienos arba dvidešimt devynios (29) Kalendorinės dienos keliamaisiais metais; sąvoka „Mėnesinis“ aiškinama atitinkamai; |
-
-\| „Nacionalinio saugumo kriterijai“ | Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių 2009 m. liepos 21 d. įstatymo Nr. XI-375 7 straipsnio 10 dalyje ir 8 straipsnyje numatyti kriterijai, taip pat juos pakeičiantys arba patikslinantys kriterijai; |
-
-\| „Niujorko konvencija“ | 1958 m. Jungtinių Tautų konvencija dėl užsienio arbitražo sprendimų pripažinimo ir vykdymo; |
-
-\| „Niujorko konvencijos pakeitimas“ | kaip apibrėžta 8 priedėlio 1.4 punkte (Esminiai pakeitimai); |
-
-\| „NAE“ | kaip apibrėžta preambulės C punkte; |
-
-\| „Nenukentėjusioji Šalis“ | Šalis arba Šalys, nenukentėjusios nuo Nenugalimos jėgos įvykio; |
-
-\| „Ne EEE valstybė“ | valstybė, kuri tuo metu nėra visateisė Europos ekonominės erdvės narė; |
-
-\| „Ne NATO valstybė“ | valstybė, kuri tuo metu nėra visateisė Šiaurės Atlanto sutarties organizacijos narė; |
-
-\| „Neplatinimo sutartis“ | 1968 m. Sutartis dėl branduolinio ginklo neplatinimo; |
-
-\| „Pranešimas apie ginčą“ | kaip apibrėžta 45.2 punkte (Ginčų sprendimo tvarka ir arbitražas); |
-
-\| „Branduolinio kuro tiekėjas“ | su Strateginiu investuotoju Susijusi bendrovė (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“ (PB priimtina forma), tokiai bendrovei turi pritarti LR), su PB sudaranti Kuro tiekimo sutartį; |
-
-\| „Branduolinio kuro tiekimo sąlygos“ | sąlygos (nurodytos pagrindinių sąlygų sąvade su Šalių inicialais), dėl kurių Koncesijos dieną ar panašiu metu iš principo susitaria PB ir Branduolinio kuro tiekėjas dėl branduolinio kuro tiekimo ir susijusių paslaugų, kurias PB teikia Branduolinio kuro tiekėjas; |
-
-\| „Nuo branduolinės atsakomybės apsaugotos šalys“ | kaip apibrėžta 15.2 punkte (Branduolinės žalos atlyginimas); |
-
-\| „Branduolinės saugos sutartis“ | a) 1986 m. Konvencija dėl ankstyvo pranešimo apie branduolinę avariją; b) 1994 m. Branduolinės saugos konvencija; c) 1986 m. Konvencija dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui; d) 1980 m. Branduolinių medžiagų fizinės saugos konvencija; arba e) 1997 m. Jungtinė panaudoto kuro tvarkymo saugos ir radioaktyviųjų atliekų tvarkymo saugos konvencija; sąvoka „Branduolinės saugos sutartys“ reiškia kurią nors vieną ar visas šias sutartis; |
-
-\| „O&M pagalbinių paslaugų sutartis“ | bet kokia eksploatacijos ir priežiūros paslaugų sutartis, kurią gali sudaryti PB ir O&M pagalbinių paslaugų rangovas, kaip numatyta O&M pagalbinių paslaugų sąlygose; |
-
-\| „O&M pagalbinių paslaugų rangovas“ | su Strateginiu investuotoju Susijusi bendrovė (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“ (PB priimtina forma), tokiai bendrovei turi pritarti LR), kuri sudaro O&M pagalbinių paslaugų sutartį; |
-
-\| „O&M pagalbinių paslaugų sąlygos“ | sąlygos (nurodytos pagrindinių sąlygų sąvade su Šalių inicialais), dėl kurių Koncesijos dieną ar panašiu metu iš principo susitaria PB ir O&M pagalbinių paslaugų rangovas arba Strateginis investuotojas O&M pagalbinių paslaugų rangovo vardu dėl eksploatacijos ir priežiūros paslaugų, kurias PB teikia O&M pagalbinių paslaugų rangovas; |
-
-\| „Valstybės žinios“ | Oficialus Lietuvos Respublikos leidinys „Valstybės žinios“, įskaitant priedą „Informaciniai pranešimai“; |
-
-\| „Realizavimo teisė“ | kaip apibrėžta 42.1 punkte (Kiti užtikrinimai ir bendradarbiavimas, susiję su energijos už savikainą struktūra); |
-
-\| „PB turtas“ | visas PB nuosavybės teise priklausantis turtas, naudojamas arba reikalingas PB vykdant Koncesiją bei PB įsipareigojimus pagal šią Koncesijos sutartį; |
-
-\| „PB įsipareigojimų nevykdymas“ | kaip apibrėžta 21 punkte (PB įsipareigojimų nevykdymas); |
-
-\| „Pranešimas apie PB įsipareigojimų nevykdymą“ | kaip apibrėžta 21.2.1 punkte (Nutraukimas dėl PB įsipareigojimų nevykdymo); |
-
-\| „Ataskaita po KED“ | kaip apibrėžta 11.1.1(B) punkte (Projekto valdymas); |
-
-\| „Ataskaita iki KED“ | kaip apibrėžta 11.1.1(A) punkte (Projekto valdymas); |
-
-\| „Ankstesnis arbitražo procesas“ | kaip apibrėžta 45.5.8 punkte (LTAT arbitražas); |
-
-\| „Esminiai pakeitimai iki GIS“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 1 punkte (Esminiai pakeitimai iki GIS); |
-
-\| „Pagrindinė suma“ | Akcininko atžvilgiu pagrindinė suma, kurią PB panaudojo pagal Akcininko paskolą, išskyrus natūra sumokėtų palūkanų sumą, kuri buvo kapitalizuota į pagrindinę sumą pagal šią Akcininko paskolą, atėmus panaudotą pagrindinę sumą, kurią PB grąžino arba sumokėjo anksčiau termino šiam Akcininkui; |
-
-\| „Principai, standartai arba gairės“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 2.1.4(B) punkte; |
-
-\| „Draudžiamas kontrolės pasikeitimas“ | kaip apibrėžta Akcininkų sutartyje; |
-
-\| „Projektas“ | NAE projektavimas, vystymas, gamyba, tiekimas, statyba, eksploatavimas ir jos eksploatacijos nutraukimas; |
-
-\| „Projekto sutartys“ | ši Koncesijos sutartis, Papildomos sutartys ir Akcininkų sutartis; sąvoka „Projekto sutartis“ aiškinama atitinkamai; |
-
-\| „Projekto dalyviai“ | vienas iš: (A) „Hitachi, Ltd.“; |
-
-\| | (B) Strateginis investuotojas, EPC rangovas, O&M pagalbinių paslaugų tiekėjas ir Branduolinio kuro tiekėjas; (C) vieno iš subjektų, minimų B punkte, subrangovas (bet kurios rūšies ir lygio) arba tiekėjas (bet kurios rūšies ir lygio); (D) Finansininkas; (E) A, B, C ir F punktuose minimų subjektų patarėjai arba agentai; ir (F) su A, B, C, D ir C punktuose minimais subjektais ar asmenimis Susijusios bendrovės, asmeniui esant arba tapus Projekto dalyviu, jis Projekto dalyviu išlieka net ir tada, jeigu vėliau nustoja tenkinti kurį nors arba visus nurodytus kriterijus; |
-
-\| „Gavėjas“ | kaip apibrėžta 13.2 punkte (Konfidencialumas); |
-
-\| „Rekomenduojama (os) priemonė(s)“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 2.1.5 punkte; |
-
-\| „Regioninis partneris“ | „Latvenergo AS“, „Eesti Energia AS“, „PGE Polska Grupa Energetyczna S.A.“ ir bet kurie kiti pagrindiniai Lietuvos Respublikos partneriai, kurie, pagal susitarimus, sudarytus pagal Akcininkų sutartį ir taikomus Įstatymus, gali dalyvauti Projekte kaip Akcininkai, sąvoka „Regioniniai partneriai“ aiškinama atitinkamai; |
-
-\| „Reguliuotojai“ | Valstybinė atominės energetikos saugos inspekcija (VATESI), Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos ir Lietuvos Respublikos aplinkos ministerijos Utenos regiono aplinkos apsaugos departamentas bei kitos institucijos, veikiančios atitinkamos Šalies įsipareigojimų pagal šią Konvencijos sutartį srityje ir atitinkamoje jurisdikcijoje (įskaitant ir teritoriniuose vandenyse) kurioje yra vykdomi tos Šalies įsipareigojimai pagal šią Koncesijos sutartį; sąvoka „Reguliuotojas“ reiškia vieną iš šių institucijų; |
-
-\| „Reguliavimo reikalavimas“ | pagal teisės aktus Lietuvoje privalomas vykdyti Reguliuotojo reikalavimas; |
-
-\| „Susijusi sutartis“ | Šalies sudaryta sutartis, įskaitant bet kokius susitarimus su Trečiąja šalimi, kuriuos gali prireikti sudaryti įgyvendinant Projektą, išskyrus Privažiavimo kelio statybos sutartis; |
-
-\| „Susijęs ginčas“ | kaip apibrėžta 45.5.8 punkte (LTAT arbitražas); |
-
-\| „Susiję asmenys“ | (A) Projekto dalyvio tikroji kontroliuojančioji bendrovė; (B) su (A) punkte nurodytu subjektu Susijusi bendrovė; ir (C) fiziniai asmenys, asmeniui esant arba tapus Susijusiu asmeniu, jis Susijusiu asmeniu išlieka net ir tada, jeigu vėliau nustoja tenkinti kurį nors arba visus nurodytus kriterijus. Pripažįstama, kad „The General Electric Company“ yra susijęs asmuo; |
-
-\| „Susijęs ieškinys“ | kaip apibrėžta 16.5.3 punkte (Garantijų pažeidimas); |
-
-\| „Atitinkami įsipareigojimai“ | kaip apibrėžta Akcininkų sutartyje; |
-
-\| „Pakeitimo priemonė“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 3 punkte; |
-
-\| „Ataskaita“ | kaip apibrėžta 11.1.1 punkte (Projekto valdymas); |
-
-\| „Būtinas draudimas“ | draudimas, kurį būtina turėti pagal Įstatymus; |
-
-\| „Ribota grupė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai); |
-
-\| „Papildomas konkursas“ | pagrįsta procedūra, kurią LR pradeda dėl Koncesijos skyrimo (ir (arba) kurių nors neatliktų darbų ir nesuteiktų paslaugų pagal vieną ar kelias Papildomas sutartis) ir (arba) kito Strateginio investuotojo vykdant Koncesijos procedūrą pasirinkimo; |
-
-\| „Papildomo konkurso išlaidos“ | pagrįstos išlaidos ir sąnaudos, kurias tiesiogiai pagrįstai ir tinkamai patiria LR ir (arba) jos patikėtinis vykdant Papildomą konkursą; |
-
-\| „LR subjektas“ | kaip apibrėžta 13.10 punkte (LR subjektas); |
-
-\| „LR įvykis“ | vienas iš įvykių, apibūdintų 20.1 punkte (LR įvykio įvykiai); |
-
-\| „Pranešimas apie LR įvykį“ | kaip apibrėžta 20.2.1 punkte (LR įvykio pabaiga); |
-
-\| „LR patikėtinis“ | LR paskirta Lietuvos bendrovė, kuri nėra Konkurentas ir kurios akcijos tiesiogiai ar netiesiogiai priklauso Konkurentui kaip tikrajam savininkui arba naudos gavėjui; |
-
-\| „LR NSK pasiūlymas“ | kaip apibrėžta 32.1.1 punkte (Pasirinkimo parduoti sandoris pagal nacionalinio saugumo kriterijus); |
-
-\| „Taisyklės“ | kaip apibrėžta 45.5.1 punkte (LTAT arbitražas); |
-
-\| „Pranešimas SĮK apie akcijų perleidimą“ | pranešimas, išsiųstas Strateginių įmonių komisijai pagal Akcininkų sutartį ir taikomus Įstatymus dėl numatomo visų arba dalies Akcininko Akcijų perleidimo; |
-
-\| „Akcijos“ | visas bet kurios klasės PB akcinis kapitalas arba jo dalis; |
-
-\| „Akcininko paskola“ | Paskola, kurią PB suteikė Akcininkas pagal Akcininkų sutartį; |
-
-\| „Akcininkai“ | Akcijų turėtojai konkrečiu metu; pradiniai turėtojai nurodyti 3 priedėlyje (Informacija apie pradinius akcininkus ir akcijų dalys); |
-
-\| „Akcininkų sutartis“ | sutartis, kurios šalimis yra visi Akcininkai, susijusi su jų investavimu (inter alia), valdymu ir lėšų teikimu PB, į kurios pavadinimą šios Koncesijos sutarties tikslams aiškiai įeina sutartį identifikuojanti sąvoka „Akcininkų sutartis“; |
-
-\| „Akcininko turima turto dalis“ | Akcininko turimos Akcijos ir Akcininko paskolos; |
-
-\| „Statybvietė“ | kaip apibrėžta 5 priedėlyje (Statybvietė); |
-
-\| „Nurodytas branduolinės sutarties pakeitimas” | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 1.2 punkte; |
-
-\| „Strateginių įmonių komisija“ | Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija, nurodyta 2009 m. liepos 21 d. Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. XI-375, su pakeitimais, 7 straipsnio 3 dalyje, jos teisių perėmėjai ir vienetai, kuriems perduodamos visos jos funkcijos ar jų dalis; |
-
-\| „Strateginio investuotojo įsipareigojimų nevykdymas“ | kaip apibrėžta 22.1 punkte (Strateginio investuotojo įsipareigojimų nevykdymas); |
-
-\| „Pranešimas apie strateginio investuotojo įsipareigojimų nevykdymą“ | kaip apibrėžta 22.2.3 punkte (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas); |
-
-\| „Strateginio investuotojo akcininkas“ | tikrasis Strateginio investuotojo akcijų turėtojas arba naudos gavėjas tuo metu; |
-
-\| „Strateginio investuotojo akcijos“ | Strateginio investuotojo bet kokios klasės akcijų kapitalas arba jo dalis; |
-
-\| „Subrangos sutartis“ | sutartis, kurią PB sudaro dėl savo įsipareigojimų pagal šią Koncesijos sutartį vykdymo arba dėl Koncesijos vykdymo, įskaitant Papildomas sutartis ir susitarimus, kuriuos PB sudaro su Pagrindiniu subrangovu; |
-
-\| „Subrangovas“ | asmuo, su PB sudaręs Subrangos sutartį, įskaitant EPC rangovą ir O&M pagalbinių paslaugų rangovą, Branduolinio kuro tiekėją ir (arba) Pagrindinį subrangovą; |
-
-\| „Mokėjimai už pasirašytas akcijas“ | mokėjimai, kuriuos PB gauna iš Akcininko už pasirašytas Akcijas (visas arba dalinis nominalios vertės apmokėjimas, nominalios vertės arba Akcijos priedo apmokėjimas), kurias PB išleidžia tokiam Akcininkui, atėmus Akcinio kapitalo dalis, kurias PB grąžino Akcininkui; |
-
-\| „Papildoma marža“ | suma, lygi Investuotam kapitalui, suderintam arba galutinai nustatytam pagal 26.3 punktą (Privalomojo akcijų perleidimo kainos ginčijimas), padauginta iš (i) Maržos, padauginta iš (ii) Kalendorinių dienų, sudarančių laikotarpį nuo Apskaičiavimo dienos iki dienos, kurią pagal 26.4 punktą atliekamas privalomojo akcijų perleidimo kainos (arba jos dalies) mokėjimas, skaičiaus, padalyta iš (iii) 360, atėmus (iv) (a) palūkanų, kurias grynaisiais arba pinigų ekvivalentais sumokėjo PB ir gavo atitinkamas Pasitraukiantis akcininkas už Akcininko paskolos dalį, sudarančių Investuotą kapitalą, ir (b) paskirstytų pajamų arba pelno, kuriuos grynaisiais arba pinigų ekvivalentais išmokėjo PB ir gavo atitinkamas Pasitraukiantis akcininkas kaip atlygį už atitinkamą Dalį Akcijų, išleistų šiam Pasitraukiančiam akcininkui pagal jo Mokėjimą už pasirašytas akcijas, sumą, kiekvienu atveju ((a) ir (b) atvejais) per (ii) punkte nurodytą laikotarpį; |
-
-\| „Mokestis“ | mokestis, rinkliava, muitas, įkainis arba panašaus pobūdžio mokėjimas, įskaitant baudas ar delspinigius, mokėtinus už nesumokėtą ar laiku nesumokėtą sumą; |
-
-\| „Konkursas“ | procedūra, kurią EM vykdė LR vardu siekdama surasti investuotoją, suinteresuotą investuoti į naujos atominės elektrinės projektą įgyvendinančią bendrovę, pagal konkurso skelbimą, 2009 m. gruodžio 10 d. paskelbtą ES oficialiajame leidinyje (Nr. 2009/S 238-340935); |
-
-\| „Trečioji šalis“ | bet kuris asmuo, išskyrus Šalis; |
-
-\| „Trečiosios šalies ieškovas“ | Bet kuri Trečioji šalis, išskyrus: (A) Akcininką; (B) Papildomos sutarties šalį arba Papildomos sutarties Papildomo rangovo subrangovą (bet kokios rūšies ir lygio) arba tiekėją (bet kokios rūšies ir lygio); ir (C) su (A) ir (B) punktuose minimais subjektais Susijusią bendrovę; |
-
-\| „Trečiosios šalies gavėjas“ | kaip apibrėžta 13.6 punkte (Atsakomybė); |
-
-\| „Dalis“ | bet kuris Mokėjimas už pasirašytas akcijas, Pagrindinė suma arba Kredito mokėjimas; |
-
-\| „Pranešimas apie sprendimą perleisti akcijas“ | kaip apibrėžta 32.1.2 punkte (Pasirinkimo parduoti sandoris pagal nacionalinio saugumo kriterijus); |
-
-\| „Sprendimo perleisti akcijas laikotarpis“ | kaip apibrėžta 32.1.2 punkte (Pasirinkimo parduoti sandoris pagal nacionalinio saugumo kriterijus); |
-
-\| „Pranešimas apie akcijų perleidimą“ | Akcininko pranešimas apie akcijų perleidimą, paskelbtas pagal Akcininkų sutartį; |
-
-\| „Akcijų perleidimo kaina“ | kaina, kurį gavėjas siūlo Perleidžiančiam akcininkui, nustatyta vadovaujantis Akcininkų sutartimi; |
-
-\| „Perleidžiantis akcininkas“ | kaip apibrėžta 31.2.2 punkte (LR suteikiamos teisės perleidžiant akcijas ir draudimas keisti kontrolę pagal akcininkų sutartį); |
-
-\| „Perleidžiama turto dalis“ | Perleidžiančio akcininko Akcijos, taip pat teisės ir turto dalis pagal Akcininko paskolą; |
-
-\| „Tarpvalstybiniai įstatymai“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 2.1.4(B) punkte; |
-
-\| „Ieškinys pagal tarptautinę sutartį“ | kaip apibrėžta 16.2.2 punkte (Paraleliniai ieškiniai); |
-
-\| „Tikroji kontroliuojančioji bendrovė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai); |
-
-\| „VATESI“ | Valstybinė atominės energetikos saugos inspekcija; |
-
-\| „Visagino atominė elektrinė“ | kaip apibrėžta preambulės C punkte; |
-
-\| „1963 m. Vienos konvencija“ | 1963 m. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą; |
-
-\| „Vienos protokolas“ | 1997 m. protokolas, iš dalies keičiantis Vienos konvenciją dėl civilinės atsakomybės už branduolinę žalą; |
-
-\| „Savanoriškas suvaržymas“ | Pasitraukiančio akcininko turimos turto dalies visiškas arba dalinis Suvaržymas, atliktas Pasitraukiančio akcininko arba atsiradęs dėl jo veikimo, iniciatyvos ar sutikimo; |
-
-\| „Patirtos išlaidos“ | (A) LR atžvilgiu, pagrįstos išlaidos ir sąnaudos, kurias pagrįstai ir tinkamai patyrė LR arba Lietuvos investuotojas LR vardu; arba |
-
-\| | (B) Strateginio investuotojo atžvilgiu, pagrįstos išlaidos ir sąnaudos, kurias pagrįstai ir tinkamai patyrė Strateginis investuotojas arba su juo Susijusi bendrovė Strateginio investuotojo vardu, per laikotarpį nuo (imtinai) 2011 m. liepos 14 d. iki (imtinai) Koncesijos dienos vykdant Konkursą, įskaitant veiklos, darbų ar paslaugų, atliktų įgyvendinant Projektą, išlaidas ir sąnaudas bei derybose dėl šios Koncesijos sutarties ir kiekvienos Papildomos sutarties patirtos išlaidos ir sąnaudos; ir |
-
-\| „WENRA“ | Vakarų Europos branduolinę saugą reguliuojančių institucijų asociacija ir (arba) organizacija, kuri perima arba WENRA vardu vykdo visas WENRA funkcijas ar įsipareigojimus. |
+| „Atsisakymas“ | bet kuris iš toliau išvardytų įvykių, įvykęs laikotarpiu nuo Koncesijos dienos iki tos dienos, kurią yra priimamas teigiamas GIS arba galutinis neigiamas GIS: (A) (1) Akcininkai priima sprendimą likviduoti PB; arba (2) įsigalioja teismo sprendimas pradėti PB bankroto procesą, ir toks procesas nėra nutraukiamas arba panaikinamas per dvidešimt (20) Darbo dienų nuo tokio teismo sprendimo; arba (3) PB kreditorius ar kreditoriai (išskyrus LR ar su LR Susijusias bendroves) priima sprendimą pradėti neteisminį PB bankroto procesą, (i) ir šis sprendimas nepanaikinamas iki tokio neteisminio bankroto proceso pradžios; arba (ii) jeigu procesas pagal tokį sprendimą yra pradedamas, jis nėra paviršutiniškas ar pradėtas nepagrįstai, panaikinamas ar nutraukiamas per dvidešimt (20) Darbo dienos nuo jo pradžios; arba (B) ne dėl Nenugalimos jėgos įvykio arba taikomo įstatymo (išskyrus tuos atvejus, kai toks taikomas įstatymas, įskaitant visus Reguliavimo reikalavimus, priimtus reaguojant į PB arba kurio nors jos Subrangovo veikimą ar neveikimą) Akcininkai iki 2015 m. gruodžio 31 d. arba per trisdešimt tris (33) Mėnesius nuo pirmojo RPPD pateikimo dienos – kuri diena ankstesnė, ar vėlesnės su LR suderintos datos nepriėmė nei teigiamo, nei neigiamo GIS; (C) PB padaro esminį šios Koncesijos sutarties pažeidimą, išskyrus tuos atvejus, kai toks įvykis yra tiesioginė LR įvykio arba LR šia Koncesijos sutartimi prisiimtų savo įsipareigojimų nevykdymo pasekmė; |
+| --- | --- |
+| „Privažiavimo kelias“ | kaip apibrėžta 2 priedėlio (Privažiavimo kelio darbai) 1 punkte (Sąvokos ir jų aiškinimas); |
+| „Privažiavimo kelio statybos sutartys“ | bet kuri statybos sutartis, profesinio paskyrimo, panaši ar susijusi sutartis, kurią LR sudaro arba kuri LR vardu sudaroma su Trečiąja šalimi dėl Privažiavimo kelio darbų projektavimo, vykdymo ar priežiūros; |
+| „Privažiavimo kelio darbai“ | kaip apibrėžta 2 priedėlio (Privažiavimo kelio darbai) 1 punkte (Sąvokos ir jų aiškinimas); |
+| „Nukentėjusioji šalis“ | Šalis arba Šalys, nukentėjusios nuo Nenugalimos jėgos įvykio; |
+| „Vienos konvencija su pakeitimais“ | 1963 m. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą, su pakeitimais, padarytais Vienos protokolu; |
+| „Amerikos bendrovė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai); |
+| „Papildoma sutartis“ | EPC rangos sutartis ir, jei taikoma, O&M pagalbinių paslaugų sutartis ir (arba) Kuro tiekimo sutartis; sąvoka „Papildomos sutartys“ aiškinama atitinkamai; |
+| „Papildomas rangovas“ | bet koks darbus atliekantis arba paslaugas teikiantis rangovas, kuris yra Papildomos sutarties šalis; |
+| „Susijusi bendrovė“ | bet koks Vienetas, tiesiogiai ar netiesiogiai Kontroliuojantis ar Kontroliuojamas, arba bendrai Kontroliuojamas su susijusiu subjektu (ir bet kuris konsorciumo narys, tais atvejais, kai susijęs subjektas yra konsorciumas); |
+| „Darbo diena“ | Kalendorinė diena, išskyrus šeštadienius ir sekmadienius, valstybines šventes ar kitas nedarbo dienas Lietuvoje; |
+| „Apskaičiavimo diena“ | apskaičiuojant Investuotą kapitalą ir Investuoto kapitalo ataskaitos dalį pagal 26 punktą (LR įvykis. Privalomasis akcijų perleidimas), diena, kurią pagal susitarimą arba nustatymą pagal 20.2 punktą (LR įvykio pabaiga) įvyksta atitinkamas LR įvykis; |
+| „Kalendorinė diena“ | dvidešimt keturių (24) valandų laikotarpis, kuris baigiasi vidurnaktį dvyliktą (12) valandą; |
+| „Centras“ | kaip apibrėžta 45.3 punkte (Ginčų sprendimo tvarka ir arbitražas); |
+| „Ginčijantis subjektas“ | kaip apibrėžta 16.5.3(B) punkte (Garantijų pažeidimas); |
+| „Ieškinys“ | bet kokia pretenzija, reikalavimas, ieškinys arba ieškininis pareiškimas, ieškinio pagrindas ar procesas pagal šią Koncesijos sutartį arba su ja susijęs; |
+| „KED“ arba „Komercinės eksploatacijos diena“ | data, nuo kurios NAE pradeda gaminti elektros energiją, perduodamą į nacionalinį perdavimo tinklą komerciniais tikslais (ne vien tik bandant užbaigtą NAE); |
+| „Kompetentinga institucija“ | bet kuri nacionalinė ar viršesnė agentūra, institucija, inspekcija tarptautiniu, Europos Sąjungos, nacionaliniu ar savivaldos lygmeniu, Europos Sąjungos arba Lietuvos Respublikos teismas ar tribunolas arba jo dalis, turinti jurisdikciją visai PB, PB turtui, Akcijoms ir (arba) Projektui arba jų daliai; |
+| „Konkurentas“ „Koncesija“ | kaip apibrėžta Akcininkų sutartyje; kaip apibrėžta preambulės E punkte; |
+| „Koncesijos diena“ | šios Koncesijos sutarties diena, kuri sutampa su diena, kurią LR suteikia Koncesiją PB; |
+| „Sutikimai“ | visi bet kokios Kompetentingos institucijos reikalaujami ar išduodami įgalinimai, sutikimai, licencijos, leidimai, įsakymai, susitarimai, pranešimai ar kitos formos patvirtinimai, kurie reikalingi pagal Įstatymus, susiję su NAE įsigijimu, nuosavybe, laikinu valdymu, statyba, eksploatacijos pradžia, eksploatavimu, bandymu, aprūpinimu kuru, veikimu, remontu, eksploatacijos nutraukimu (įskaitant Statybos ir eksploatavimo licenciją), ir, nepažeidžiant ankstesnės nuostatos bendrumo, apima visas Kompetentingos institucijos išankstines sąlygas ar kitus reikalavimus, kuriuos pagal Įstatymus būtina patenkinti prieš suteikiant, išduodant, atnaujinant, pakeičiant, išplečiant, pratęsiant ir (arba) iš naujo patvirtinant tokį įgalinimą, sutikimą, licenciją, leidimą, įsakymą, susitarimą, pranešimą ar kitos formos patvirtinimą (įskaitant Statybos ir eksploatavimo licenciją); |
+| „Statybos ir eksploatavimo licencija“ | pagal 2011 m. birželio 28 d. Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 nuostatas išduota licencija statyti ir eksploatuoti branduolinės energetikos objektą ar objektus; |
+| „Ieškinys pagal Sutartį“ | kaip apibrėžta 16.2.2 punkte (Paraleliniai ieškiniai); |
+| „Sutarties terminas“ | kaip apibrėžta 2.2 punkte (Koncesijos suteikimas ir terminas); |
+| „Sutartiniai nacionalinio saugumo kriterijai“ | kriterijai, išvardyti 4 priedėlyje (Nacionalinio saugumo kriterijai); |
+| „Kontrolė“ | įskaitant visas susijusias reikšmes, „Kontroliuojamas“ ir „bendrai Kontroliuojamas kartu su“: |
+|  | (A) galimybė (tiesiogiai ar netiesiogiai, turint nuosavybės teise įstatinį kapitalą, balsavimo teises, pagal sutartį ar kitaip): (i) paskirti ir (arba) atleisti visus ar kai kuriuos juridinio asmens valdybos ar kito valdymo organo narius, kurie turi tokią balsų daugumą, kokią gali turėti tokios valdybos ar valdymo organo nariai; ir (arba) (ii) abiem atvejais visiškai ar didžiąja dalimi kontroliuoti tokios įmonės veiklą; arba |
+|  | (B) įmonės kontrolinio paketo turėjimas savo nuosavybėje ir (arba) jo valdymas, ir (arba) galimybė naudotis bet kurio asmens turimų akcijų suteikiamomis balsavimo teisėmis (tiesiogiai ar turint tokių akcijų viename ar keliuose asmenyse), kurios suteikia tokių akcijų turėtojams 50 ar daugiau proc. balsavimo teisių visuotiniame tokio asmens akcininkų susirinkime sprendžiant visus, ar didžiąją dalį klausimų. |
+|  | Siekiant išvengti abejonių, yra laikoma, kad dėl asmens ar asmens turto administratoriaus, administratoriaus ir valdytojo, lėšų administratoriaus, likvidatoriaus, bankroto administratoriaus ar panašaus asmens paskyrimas bet kurioje jurisdikcijoje (arba tokio administratoriaus, administratoriaus ir valdytojo, lėšų administratoriaus, likvidatoriaus, bankroto administratoriaus ar panašaus asmens pasinaudojimas jam suteiktais įgalinimais, išskyrus įgalinimą parduoti atitinkamas akcijas ar vertybinius popierius) nepakeičia, kas Kontroliuoja tokį asmenį; |
+| „Papildomos kompensacijos konvencija“ | 1997 m. Papildomos kompensacijos už branduolinę žalą konvencija; |
+| „Kredito mokėjimai“ | kaip apibrėžta Akcininkų sutartyje; |
+| „Eksploatavimo nutraukimo etapas“ | laikotarpis nuo tos dienos, kurią pagal taikomus Įstatymus pradedamas NAE eksploatavimo nutraukimas (imtinai); |
+| „Eksploatavimo nutraukimo ir atliekų tvarkymo finansavimo principai“ | 6 priedėlyje (Eksploatavimo nutraukimo ir atliekų tvarkymo finansavimo principai) išdėstyti principai; |
+| „Vystymo grafikas“ | PB parengtas bendras Projekto vystymo grafikas; |
+| „Informuojanti šalis“ | kaip apibrėžta 13.2 punkte (Konfidenciali informacija); |
+| „Ginčas“ | kaip apibrėžta 45 punkte (Ginčų sprendimo tvarka ir arbitražas) aprašytoje Ginčų sprendimo tvarkoje; |
+| „Ginčų sprendimo tvarka“ | 45 punkte (Ginčų sprendimo tvarka ir arbitražas) nustatyta Ginčų sprendimo tvarka; |
+| „Eesti Energia“ | [„Eesti Energia AS“, pagal Estijos įstatymus įsteigta bendrovė, įmonės kodas 10421629, kurios buveinė yra adresu Laki tn. 24, 12915 Talinas, Estija;] |
+| „Suvaržymas“ | suvaržymas, įkeitimas, areštas, pasirinkimo sandoris, kapitalo dalis, įgalinimas parduoti, hipoteka, uzufruktas, nuosavybės išlaikymo teisė, pirmumo teisė, pirmojo atsisakymo teisė ar kitokia trečiosios šalies teisė, įkeitimo pobūdžio teisė arba sutartis, susitarimas ar įsipareigojimas tai padaryti; |
+| „Energetikos chartijos sutartis“ | Energetikos chartijos sutartis, pateikta pasirašyti Lisabonoje 1994 m. gruodžio 17 d. ir įsigaliojusi 1998 m. balandžio 16 d.; |
+| „Energetikos chartijos sutarties pakeitimas“ | kaip apibrėžta 8 priedėlio 1.3 punkte (Esminiai pakeitimai); |
+| „ENSREG“ | Europos branduolinės saugos reguliuotojų grupė ir (arba) organizacija, kuri perima arba ENSREG vardu vykdo visas ENSREG funkcijas ar įsipareigojimus; |
+| „Aplinka“ | oras (įskaitant orą pastatuose ir orą kituose natūraliuose ar dirbtiniuose objektuose, esančiuose ant žemės arba po žeme), vanduo (įskaitant teritorinius, pakrantės ir vidaus vandenis, požeminį vandenį ir vandenį natūraliuose ar dirbtiniuose objektuose) ir žemė (įskaitant žemę po vandeniu, žemę paviršiuje ir žemės gelmes), taip pat organizmai ar ekosistemos, kuriems reikalingas oras, vanduo ar žemė; |
+| „Aplinkosauginės taisyklės“ | kiekvienas taikomas Įstatymas, susijęs su Aplinkos tarša arba apsauga, žmonių sveikata ir sauga, Pavojingų medžiagų gamyba, transportu, sandėliavimu, apdorojimu, šalinimu ar buvimu; |
+| „EPC rangos sutartis“ | projektavimo, tiekimo ir statybos sutartis, pagal kurią EPC rangovas PB teikia projektavimo, tiekimo ir statybos paslaugas, pagalbines paslaugas ir, jeigu dėl to susitariama pagal tos sutarties sąlygas, tam tikras kuro tiekimo paslaugas įgyvendinant Projektą; |
+| „EPC rangovas“ | viena arba kelios su Strateginiu investuotoju Susijusios bendrovės, kuriomis gali būti „Hitachi-GE Nuclear Energy, Ltd.“, (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“ (PB priimtina forma), tokiai bendrovei turi pritarti LR), su PB sudarančios EPC rangos sutartį; |
+| „EPC rangovo įsipareigojimų nevykdymas“ | atvejai, kai EPC rangovas nevykdo įsipareigojimų arba pažeidžia EPC rangos sutartį, o PB dėl tokio pažeidimo įgyja teisę nutraukti EPC rangos sutartį; |
+| „EPC subrangovas“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) |
+| „EURATOMAS“ | Europos atominės energetikos bendrija ir (arba) organizacija, kuri perima arba EURATOMO vardu vykdo visas EURATOMO funkcijas ar įsipareigojimus arba jų dalį; |
+| „EURIBOR“ | įsiskolinimo sumai taikoma palūkanų norma, lygi Europos Sąjungos bankų asociacijos nustatytai šešių (6) Mėnesių tarpbankinei rinkos palūkanų normai, kuria bankai pageidauja (pasiruošę) paskolinti lėšų eurais kitiems bankams, skelbiama atitinkamame „Reuters“ ekrano lange 11:00 val. tą dieną, kurią suėjo šios sumos mokėjimo terminas; |
+| „Išskiriamas turtas“ | kaip apibrėžta 46.3 punkte (Teisių į imunitetą atsisakymas); |
+| „Pasitraukiantis akcininkas“ | kaip apibrėžta 20.2.1 punkte (LR įvykio pabaiga); |
+| „GIS“ | galutinis investavimo sprendimas dėl Projekto, kaip numatyta Akcininkų sutartyje; „teigiamas GIS“ aiškinamas kaip galutinis investavimo sprendimas įgyvendinti Projektą, o „neigiamas GIS“ aiškinamas kaip galutinis investavimo sprendimas neįgyvendinti Projekto; |
+| „galutinis neigiamas GIS" | kaip apibrėžta 11.4.1 punkte (Pranešimas apie GIS priėmimą); |
+| „Finansininkas“ | (A) asmuo, teikiantis, įsipareigojantis teikti, platinantis, apdraudžiantis ir (arba) garantuojantis tiesiogines ar netiesiogines finansines priemones (įskaitant, bet ne tik, paskolas, vertybinius popierius, akredityvus, įsipareigojimų įvykdymo užtikrinimus, kitus dokumentinius kreditus, išvestines finansines priemones ar kitos rūšies finansinius įsiskolinimus) PB arba Akcininkui ar Akcininkams ar jų naudai; ir |
+|  | (B) agentas ar patikėtinis, veikiantis A punkte išvardytų asmenų vardu; ir (C) reitingų agentūra, kuri tokiai finansinei priemonei gali priskirti viešą ar privatų reitingą; |
+| „Pirmasis betonas“ | pirmojo reaktoriaus pastato betonavimas, kurį atlieka EPC rangovas vadovaujantis EPC rangos sutartimi, kaip parodyta Vystymo grafike; |
+| „Nenugalimos jėgos įvykis“ | veiksmas, įvykis ar atsitikimas, turintis įtakos bet kurios Šalies įsipareigojimų pagal šią Koncesijos sutartį vykdymui, kuris įvyko ne dėl šios Šalies kaltės ir kuris nepriklauso nuo šios Šalies valios (su sąlyga, kad PB veikė vadovaudamasi Gera sektoriaus praktika, o LR veikė protingai ir atsargiai, kad išvengtų tokio veiksmo, įvykio ar atsitikimo), įskaitant (tiek, kiek dėl to nėra kalta atitinkama Šalis ir tai nepriklauso nuo jos valios): (A) epidemiją, karą, karo veiksmus (paskelbus karą arba ne), blokadas, teroristinius išpuolius arba civilinės ar karinės organizacijos veiksmus; (B) riaušes, sukilimą, pilietinius neramumus, viešosios tvarkos nesilaikymą, viešas demonstracijas, sabotažą ar vandalizmą; (C) gaivalines nelaimes, įskaitant gaisrą, potvynį, žemės drebėjimą, prastą orą, meteorologines ir jūrines sąlygas, nuošliaužas, žaibą, ugnikalnio išsiveržimą ar sprogimą; (D) orlaivio arba iš orlaivio iškritusių daiktų poveikį; (E) streiką, lokautą, darbo ginčą ar kitokį darbo santykių pertraukimą, i) kuriame dalyvauja ne vien tos Šalies personalas ar subrangovai ir ii) kurio nesuorganizavo tos Šalies personalas ar subrangovas arba tos Šalies Susijusios bendrovės personalas ar subrangovai; arba (F) jonizuojančią spinduliuotę, taršą dėl radioaktyvumo, radioaktyvią, cheminę ar biologinę taršą; |
+| „Vienetas“ | bendrovė, partnerystė, ribotos atsakomybės ūkinė bendrija, trestas, fondas ar kitoks subjektas (nesvarbu, juridinis asmuo, ar ne); |
+| „Kuro tiekimo sutartis“ | branduolinio kuro tiekimo ir susijusių paslaugų sutartis, kurią gali sudaryti PB ir Branduolinio kuro tiekėjas, kaip numatyta Branduolinio kuro tiekimo sąlygose; |
+| „Galutinis pranešimas pradėti darbus“ arba „GPPD“ | „GPPD“ arba galutinis pranešimas pradėti darbus, pateiktas pagal EPC rangos sutartį; |
+| „GE-Hitachi Nuclear Energy Americas LLC“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•]; |
+| „Global Nuclear Fuel-Americas, LLC“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•]; |
+| „Gera sektoriaus praktika“ | tam tikri gebėjimais ir rūpestingumas, uolumas, atsargumas ir įžvalgumas, kurių pagrįstai ir įprastai tikimasi iš kvalifikuoto ir patyrusio rangovo, savininko ar operatoriaus (atitinkamai), kuris verčiasi veikla, kuri: (A) PB atveju i) yra panašaus pobūdžio, apimties, vertės ir sudėtingumo į Koncesijos veiklą ir tokiomis ar panašiomis aplinkybėmis, ii) susijusi su naujos atominės elektrinės, kuri yra panašaus pobūdžio, apimties, vertės ir sudėtingumo į užbaigtą NAE, priežiūra ir eksploatavimu, ir iii) susijusi su atominės elektrinės aikštelės ir naujos atominės elektrinės, kuri yra panašaus pobūdžio, apimties, vertės ir sudėtingumo į užbaigtą NAE, sutvarkymo ir (arba) eksploatavimo nutraukimo veikla; ir (B) LR atveju, savo pobūdžiu, apimtimi, verte ir sudėtingumu yra panaši į Privažiavimo kelio projektavimą, tiesimą ir priežiūrą, kiekvienu atveju (atitinkamai), kai toks rangovas, savininkas ar operatorius (atitinkamai) siekia vykdyti savo sutartinius įsipareigojimus, įskaitant susijusius su taikomais Įstatymais, Sutikimais, praktikos kodeksais ir standartais; |
+| „Pavojinga medžiaga“ | natūrali ar dirbtinė cheminė medžiaga ar daiktas (kietos, skystos ar dujinės būsenos), galintis (atskirai arba sąveikaudamas) pakenkti Aplinkai arba žmonių sveikatai; |
+| „Ypač slapta informacija“ | (A) informacija, susijusi su „Hitachi, Ltd.“, „Hitachi-GE Nuclear Energy, Ltd.“, „GE-Hitachi Nuclear Energy Americas LLC“ ar kurios nors iš jų Susijusios bendrovės ABWR tipo atominių elektrinių projektu ir statyba arba jų dalimi; |
+|  | (B) informacija, susijusi su „Global Nuclear Fuel – Americas, LLC“ kuriamu ir gaminamu branduoliniu kuru; ir (C) kainų nustatymo informacija, kurią turi pateikti EPC rangovas, Branduolinio kuro tiekėjas ir (arba) O&M pagalbinių paslaugų rangovas pagal EPC rangos sutartį, Kuro tiekimo sutartį ir (arba) O&M pagalbinių paslaugų sutartį arba kainų nustatymo informacija, kuri yra susijusi su šiomis sutartimis, tačiau, siekiant išvengti abejonių, nėra priskiriama informacija apie bendrą kainą, susijusią su i) RPPD ir GPPD etapais pagal EPC rangos sutartį, ii) Kuro tiekimo sutartį arba iii) O&M pagalbinių paslaugų sutartį; |
+| „Hitachi-GE Nuclear Energy, Ltd.“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•]; |
+| „Hitachi, Ltd.“ | bendrovė, įregistruota ir įsteigta [•], įmonės kodas [•], kurios adresas yra [•], kuri yra Strateginio investuotojo [tikroji] patronuojančioji bendrovė; |
+| „Hitachi, Ltd. grupė“ | „Hitachi, Ltd.“ ir su ja Susijusios bendrovės; |
+| „TATENA“ | Tarptautinė atominės energijos agentūra ir (arba) organizacija, kuri perima arba TATENA vardu vykdo visas TATENA funkcijas ar įsipareigojimus;; |
+| „TATENA sutartis“ | 1967 m. sutartis dėl Tarptautinės atominės energijos agentūros privilegijų ir imunitetų; |
+| „TATENA statutas“ | 1956 m. Tarptautinės atominės energijos agentūros statutas; |
+| „TIGSC konvencija“ | kaip apibrėžta 45.4.1 punkte (TIGSC arbitražas); |
+| „Nuo atsakomybės apsaugotas asmuo“ | kaip apibrėžta 16.5.3 punkte (Garantijų pažeidimas); |
+| „indeksavimo koeficientas“ | EUROSTATO skelbiamas Lietuvos gamintojų kainų indeksas; |
+| „Asmuo“ | fizinis asmuo, kuris yra Projekto dalyvio ar Susijusio asmens vadovas, tarnautojas, partneris, narys, darbuotojas ir (arba) konsultantas; |
+| „Pradinė akcininkų sutartis“ | sutartis dėl PB, kurią suderina ir sudaro akcijas pasirašantys akcininkai-steigėjai Koncesijos dieną arba iki jos; |
+| „Intelektinės nuosavybės teisės“ | visame pasaulyje: (A) patentinės teisės ir išradimai (patentuotini ar ne), įskaitant visas patentines paraiškas ir informacijos atskleidimą, teisės į dizainą, pramoniniai pavyzdžiai, autorių ir gretutinės teisės bei susijusios teisės (įskaitant programinės įrangos teises), moralinės autoriaus teisės, integrinių grandynų teisės, puslaidininkių topografijos teisės, duomenų bazių teisės, prekių ženklai, prekių pavadinimai, įmonių pavadinimai, domenų pavadinimai ir know-how; |
+|  | (B) registracijos prašymai ir teisė teikti registracijos prašymus; ir |
+|  | (C) atitinkamo ar panašaus pobūdžio kitos intelektinės nuosavybės, pramoninės nuosavybės ar patentinės teisės, pripažįstamos bet kurioje pasaulio šalyje ar jurisdikcijoje, |
+|  | kiekvienu atveju neatsižvelgiant į egzistavimo pagrindą – teisinį, bendrąją teisę ar teisingumo principus, registracijos buvimą ar nebuvimą bei materialinį jų įkūnijimą; |
+| „Investuotas kapitalas“ | kiekvieno Pasitraukiančio akcininko atžvilgiu – i) kapitalo, kurį šis Pasitraukiantis akcininkas investavo į PB savo Mokėjimais už pasirašytas akcijas arba Pagrindinėmis sumomis, ir ii) šio Pasitraukiančio akcininko Kredito mokėjimų bendra suma Apskaičiavimo dieną; |
+| „Investuoto kapitalo ataskaita“ | suderintos formos, pateiktos 9 priedėlyje (Investuoto kapitalo ataskaita), lentelė; |
+| „Investavimo diena“ | diena, kurią Akcininkai investuoja į PB pagal Akcininkų sutartį, tam kad būtų suteiktas investavimas, reikalingas pirmajam RPPD; |
+| „Investicijų apsaugos sutartis“ | LR ir vienos ar kelių šalių sudaryta investicijų apsaugos sutartis (įskaitant Energetikos chartijos sutartį); |
+| „Japonijos bendrovė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai) |
+| „Jungtinis protokolas“ | 1988 m. Jungtinis protokolas, susijęs su Vienos konvencijos ir Paryžiaus konvencijos taikymu; |
+| „Pagrindinis subrangovas“ | subjektas, su PB sudaręs Pagrindinę subrangos sutartį; |
+| „Pagrindinė subrangos sutartis“ | Subrangos sutartis, kuri ypač svarbi Koncesijos vykdymui dėl savo didelės vertės, svarbos vykdant PB įsipareigojimus pagal šią Koncesijos sutartį (įskaitant Subrangos sutartį, sudarytą su pagrindinių technologijų tiekėju, pagrindinių medžiagų tiekėju ar pagrindinių vystymo darbų vykdytoju), yra susijusi su prekėmis ar paslaugomis, kai alternatyvių šaltinių yra mažai, ir pan. (įskaitant Papildomas sutartis); |
+| „Latvenergo“ | [„Latvenergo AS“, pagal Latvijos įstatymus įsteigta bendrovė, įmonės kodas 40003032949, kurios buveinė yra adresu Pulkveza Brieza iela 12, Ryga, LV-1230, Latvija;] |
+| „Įstatymai“ | (A) Lietuvos Respublikos Seimo priimtas įstatymas; |
+|  | (B) Lietuvos Respublikos Vyriausybės priimtas nutarimas, turintis teisinę galią; (C) Reguliavimo reikalavimas; (D) Lietuvos Respublikoje nacionaliniu ar savivaldos lygiu priimtas sprendimas, įsakymas, nutarimas, reglamentas, taisyklė ar pranešimas, turintis teisinę galią; (E) Lietuvos Konstitucija; (F) vertybinių popierių biržos reglamentas, teismų praktika ir sprendimai Lietuvos Respublikoje, turintys įstatymo galią; ir (G) ES teisės aktas, sutartys ar kiti tarptautinės teisės aktai, kurių kiekvienas galioja Lietuvos Respublikoje, ir (H) visi kiti taikomi įstatymai, reglamentai, direktyvos, įsakymai, sprendimai ir kitos taisyklės, kiekvienoje jurisdikcijoje turintys įstatymo galią (įskaitant tarptautinių vandenų atžvilgiu), kurių atžvilgiu PB turi įsipareigojimų pagal Koncesiją; |
+| „Koncesijų įstatymas“ | 2003 m. birželio 24 d. Lietuvos Respublikos koncesijų įstatymas Nr. IX-1647 (su pakeitimais); |
+| „atsakomybė“ | kaip apibrėžta 1.2.18 punkte; |
+| „Ribotas pranešimas pradėti darbus“ arba „RPPD“ | „RPPD“ arba Ribotas pranešimas pradėti darbus, pateiktas pagal EPC rangos sutartį; |
+| „Lietuvos Konstitucija“ | Lietuvos Respublikos piliečių 1992 m. spalio 25 d. referendume priimta Lietuvos Respublikos Konstitucija (su visais pakeitimais); |
+| „Lietuvos investuotojas“ | UAB „Visagino atominė elektrinė“, Lietuvoje įregistruota ir įsteigta bendrovė, įmonės kodas 301844044, kurios adresas yra Žvejų g. 14, LT-09310 Vilnius, Lietuva; |
+| „LIV intelektinė nuosavybė“ | su projektu susijusių tyrimų ir ataskaitų Intelektinės nuosavybės teisės, kaip nurodyta 7 priedėlyje (LIV intelektinė nuosavybė); |
+| „Nuostoliai“ | visi nuostoliai, žala, įsipareigojimai, išlaidos ir sąnaudos (įskaitant pagrįstą advokatų honorarą); sąvoka „Nuostolis“ aiškinama atitinkamai; |
+| „Privalomojo akcijų perleidimo kaina“ | kaip apibrėžta 26.2 punkte (Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas); |
+| „Marža“ | kaip apibrėžta 26.2.1 punkte (Privalomojo akcijų perleidimo kainos apskaičiavimas ir pranešimas); |
+| „EM“ | Lietuvos Respublikos energetikos ministerija; |
+| „Mėnuo“ | kalendorinis mėnuo, kurį sudaro trisdešimties (30) Kalendorinių dienų laikotarpis, jeigu šis laikotarpis prasideda balandžio, birželio, rugsėjo ir lapkričio mėnesį, arba trisdešimt viena (31) Kalendorinė diena, jeigu laikotarpis prasideda kurį nors kitą mėnesį, išskyrus vasario mėn., kurį sudaro dvidešimt aštuonios (28) Kalendorinės dienos arba dvidešimt devynios (29) Kalendorinės dienos keliamaisiais metais; sąvoka „Mėnesinis“ aiškinama atitinkamai; |
+| „Nacionalinio saugumo kriterijai“ | Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių 2009 m. liepos 21 d. įstatymo Nr. XI-375 7 straipsnio 10 dalyje ir 8 straipsnyje numatyti kriterijai, taip pat juos pakeičiantys arba patikslinantys kriterijai; |
+| „Niujorko konvencija“ | 1958 m. Jungtinių Tautų konvencija dėl užsienio arbitražo sprendimų pripažinimo ir vykdymo; |
+| „Niujorko konvencijos pakeitimas“ | kaip apibrėžta 8 priedėlio 1.4 punkte (Esminiai pakeitimai); |
+| „NAE“ | kaip apibrėžta preambulės C punkte; |
+| „Nenukentėjusioji Šalis“ | Šalis arba Šalys, nenukentėjusios nuo Nenugalimos jėgos įvykio; |
+| „Ne EEE valstybė“ | valstybė, kuri tuo metu nėra visateisė Europos ekonominės erdvės narė; |
+| „Ne NATO valstybė“ | valstybė, kuri tuo metu nėra visateisė Šiaurės Atlanto sutarties organizacijos narė; |
+| „Neplatinimo sutartis“ | 1968 m. Sutartis dėl branduolinio ginklo neplatinimo; |
+| „Pranešimas apie ginčą“ | kaip apibrėžta 45.2 punkte (Ginčų sprendimo tvarka ir arbitražas); |
+| „Branduolinio kuro tiekėjas“ | su Strateginiu investuotoju Susijusi bendrovė (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“ (PB priimtina forma), tokiai bendrovei turi pritarti LR), su PB sudaranti Kuro tiekimo sutartį; |
+| „Branduolinio kuro tiekimo sąlygos“ | sąlygos (nurodytos pagrindinių sąlygų sąvade su Šalių inicialais), dėl kurių Koncesijos dieną ar panašiu metu iš principo susitaria PB ir Branduolinio kuro tiekėjas dėl branduolinio kuro tiekimo ir susijusių paslaugų, kurias PB teikia Branduolinio kuro tiekėjas; |
+| „Nuo branduolinės atsakomybės apsaugotos šalys“ | kaip apibrėžta 15.2 punkte (Branduolinės žalos atlyginimas); |
+| „Branduolinės saugos sutartis“ | a) 1986 m. Konvencija dėl ankstyvo pranešimo apie branduolinę avariją; b) 1994 m. Branduolinės saugos konvencija; c) 1986 m. Konvencija dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui; d) 1980 m. Branduolinių medžiagų fizinės saugos konvencija; arba e) 1997 m. Jungtinė panaudoto kuro tvarkymo saugos ir radioaktyviųjų atliekų tvarkymo saugos konvencija; sąvoka „Branduolinės saugos sutartys“ reiškia kurią nors vieną ar visas šias sutartis; |
+| „O&M pagalbinių paslaugų sutartis“ | bet kokia eksploatacijos ir priežiūros paslaugų sutartis, kurią gali sudaryti PB ir O&M pagalbinių paslaugų rangovas, kaip numatyta O&M pagalbinių paslaugų sąlygose; |
+| „O&M pagalbinių paslaugų rangovas“ | su Strateginiu investuotoju Susijusi bendrovė (jeigu tai ne „Hitachi-GE Nuclear Energy, Ltd.“ ir nėra „Hitachi-GE Nuclear Energy, Ltd.“ garantijos arba ne „Hitachi, Ltd.“ (PB priimtina forma), tokiai bendrovei turi pritarti LR), kuri sudaro O&M pagalbinių paslaugų sutartį; |
+| „O&M pagalbinių paslaugų sąlygos“ | sąlygos (nurodytos pagrindinių sąlygų sąvade su Šalių inicialais), dėl kurių Koncesijos dieną ar panašiu metu iš principo susitaria PB ir O&M pagalbinių paslaugų rangovas arba Strateginis investuotojas O&M pagalbinių paslaugų rangovo vardu dėl eksploatacijos ir priežiūros paslaugų, kurias PB teikia O&M pagalbinių paslaugų rangovas; |
+| „Valstybės žinios“ | Oficialus Lietuvos Respublikos leidinys „Valstybės žinios“, įskaitant priedą „Informaciniai pranešimai“; |
+| „Realizavimo teisė“ | kaip apibrėžta 42.1 punkte (Kiti užtikrinimai ir bendradarbiavimas, susiję su energijos už savikainą struktūra); |
+| „PB turtas“ | visas PB nuosavybės teise priklausantis turtas, naudojamas arba reikalingas PB vykdant Koncesiją bei PB įsipareigojimus pagal šią Koncesijos sutartį; |
+| „PB įsipareigojimų nevykdymas“ | kaip apibrėžta 21 punkte (PB įsipareigojimų nevykdymas); |
+| „Pranešimas apie PB įsipareigojimų nevykdymą“ | kaip apibrėžta 21.2.1 punkte (Nutraukimas dėl PB įsipareigojimų nevykdymo); |
+| „Ataskaita po KED“ | kaip apibrėžta 11.1.1(B) punkte (Projekto valdymas); |
+| „Ataskaita iki KED“ | kaip apibrėžta 11.1.1(A) punkte (Projekto valdymas); |
+| „Ankstesnis arbitražo procesas“ | kaip apibrėžta 45.5.8 punkte (LTAT arbitražas); |
+| „Esminiai pakeitimai iki GIS“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 1 punkte (Esminiai pakeitimai iki GIS); |
+| „Pagrindinė suma“ | Akcininko atžvilgiu pagrindinė suma, kurią PB panaudojo pagal Akcininko paskolą, išskyrus natūra sumokėtų palūkanų sumą, kuri buvo kapitalizuota į pagrindinę sumą pagal šią Akcininko paskolą, atėmus panaudotą pagrindinę sumą, kurią PB grąžino arba sumokėjo anksčiau termino šiam Akcininkui; |
+| „Principai, standartai arba gairės“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 2.1.4(B) punkte; |
+| „Draudžiamas kontrolės pasikeitimas“ | kaip apibrėžta Akcininkų sutartyje; |
+| „Projektas“ | NAE projektavimas, vystymas, gamyba, tiekimas, statyba, eksploatavimas ir jos eksploatacijos nutraukimas; |
+| „Projekto sutartys“ | ši Koncesijos sutartis, Papildomos sutartys ir Akcininkų sutartis; sąvoka „Projekto sutartis“ aiškinama atitinkamai; |
+| „Projekto dalyviai“ | vienas iš: (A) „Hitachi, Ltd.“; |
+|  | (B) Strateginis investuotojas, EPC rangovas, O&M pagalbinių paslaugų tiekėjas ir Branduolinio kuro tiekėjas; (C) vieno iš subjektų, minimų B punkte, subrangovas (bet kurios rūšies ir lygio) arba tiekėjas (bet kurios rūšies ir lygio); (D) Finansininkas; (E) A, B, C ir F punktuose minimų subjektų patarėjai arba agentai; ir (F) su A, B, C, D ir C punktuose minimais subjektais ar asmenimis Susijusios bendrovės, asmeniui esant arba tapus Projekto dalyviu, jis Projekto dalyviu išlieka net ir tada, jeigu vėliau nustoja tenkinti kurį nors arba visus nurodytus kriterijus; |
+| „Gavėjas“ | kaip apibrėžta 13.2 punkte (Konfidencialumas); |
+| „Rekomenduojama (os) priemonė(s)“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 2.1.5 punkte; |
+| „Regioninis partneris“ | „Latvenergo AS“, „Eesti Energia AS“, „PGE Polska Grupa Energetyczna S.A.“ ir bet kurie kiti pagrindiniai Lietuvos Respublikos partneriai, kurie, pagal susitarimus, sudarytus pagal Akcininkų sutartį ir taikomus Įstatymus, gali dalyvauti Projekte kaip Akcininkai, sąvoka „Regioniniai partneriai“ aiškinama atitinkamai; |
+| „Reguliuotojai“ | Valstybinė atominės energetikos saugos inspekcija (VATESI), Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos ir Lietuvos Respublikos aplinkos ministerijos Utenos regiono aplinkos apsaugos departamentas bei kitos institucijos, veikiančios atitinkamos Šalies įsipareigojimų pagal šią Konvencijos sutartį srityje ir atitinkamoje jurisdikcijoje (įskaitant ir teritoriniuose vandenyse) kurioje yra vykdomi tos Šalies įsipareigojimai pagal šią Koncesijos sutartį; sąvoka „Reguliuotojas“ reiškia vieną iš šių institucijų; |
+| „Reguliavimo reikalavimas“ | pagal teisės aktus Lietuvoje privalomas vykdyti Reguliuotojo reikalavimas; |
+| „Susijusi sutartis“ | Šalies sudaryta sutartis, įskaitant bet kokius susitarimus su Trečiąja šalimi, kuriuos gali prireikti sudaryti įgyvendinant Projektą, išskyrus Privažiavimo kelio statybos sutartis; |
+| „Susijęs ginčas“ | kaip apibrėžta 45.5.8 punkte (LTAT arbitražas); |
+| „Susiję asmenys“ | (A) Projekto dalyvio tikroji kontroliuojančioji bendrovė; (B) su (A) punkte nurodytu subjektu Susijusi bendrovė; ir (C) fiziniai asmenys, asmeniui esant arba tapus Susijusiu asmeniu, jis Susijusiu asmeniu išlieka net ir tada, jeigu vėliau nustoja tenkinti kurį nors arba visus nurodytus kriterijus. Pripažįstama, kad „The General Electric Company“ yra susijęs asmuo; |
+| „Susijęs ieškinys“ | kaip apibrėžta 16.5.3 punkte (Garantijų pažeidimas); |
+| „Atitinkami įsipareigojimai“ | kaip apibrėžta Akcininkų sutartyje; |
+| „Pakeitimo priemonė“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 3 punkte; |
+| „Ataskaita“ | kaip apibrėžta 11.1.1 punkte (Projekto valdymas); |
+| „Būtinas draudimas“ | draudimas, kurį būtina turėti pagal Įstatymus; |
+| „Ribota grupė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai); |
+| „Papildomas konkursas“ | pagrįsta procedūra, kurią LR pradeda dėl Koncesijos skyrimo (ir (arba) kurių nors neatliktų darbų ir nesuteiktų paslaugų pagal vieną ar kelias Papildomas sutartis) ir (arba) kito Strateginio investuotojo vykdant Koncesijos procedūrą pasirinkimo; |
+| „Papildomo konkurso išlaidos“ | pagrįstos išlaidos ir sąnaudos, kurias tiesiogiai pagrįstai ir tinkamai patiria LR ir (arba) jos patikėtinis vykdant Papildomą konkursą; |
+| „LR subjektas“ | kaip apibrėžta 13.10 punkte (LR subjektas); |
+| „LR įvykis“ | vienas iš įvykių, apibūdintų 20.1 punkte (LR įvykio įvykiai); |
+| „Pranešimas apie LR įvykį“ | kaip apibrėžta 20.2.1 punkte (LR įvykio pabaiga); |
+| „LR patikėtinis“ | LR paskirta Lietuvos bendrovė, kuri nėra Konkurentas ir kurios akcijos tiesiogiai ar netiesiogiai priklauso Konkurentui kaip tikrajam savininkui arba naudos gavėjui; |
+| „LR NSK pasiūlymas“ | kaip apibrėžta 32.1.1 punkte (Pasirinkimo parduoti sandoris pagal nacionalinio saugumo kriterijus); |
+| „Taisyklės“ | kaip apibrėžta 45.5.1 punkte (LTAT arbitražas); |
+| „Pranešimas SĮK apie akcijų perleidimą“ | pranešimas, išsiųstas Strateginių įmonių komisijai pagal Akcininkų sutartį ir taikomus Įstatymus dėl numatomo visų arba dalies Akcininko Akcijų perleidimo; |
+| „Akcijos“ | visas bet kurios klasės PB akcinis kapitalas arba jo dalis; |
+| „Akcininko paskola“ | Paskola, kurią PB suteikė Akcininkas pagal Akcininkų sutartį; |
+| „Akcininkai“ | Akcijų turėtojai konkrečiu metu; pradiniai turėtojai nurodyti 3 priedėlyje (Informacija apie pradinius akcininkus ir akcijų dalys); |
+| „Akcininkų sutartis“ | sutartis, kurios šalimis yra visi Akcininkai, susijusi su jų investavimu (inter alia), valdymu ir lėšų teikimu PB, į kurios pavadinimą šios Koncesijos sutarties tikslams aiškiai įeina sutartį identifikuojanti sąvoka „Akcininkų sutartis“; |
+| „Akcininko turima turto dalis“ | Akcininko turimos Akcijos ir Akcininko paskolos; |
+| „Statybvietė“ | kaip apibrėžta 5 priedėlyje (Statybvietė); |
+| „Nurodytas branduolinės sutarties pakeitimas” | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 1.2 punkte; |
+| „Strateginių įmonių komisija“ | Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija, nurodyta 2009 m. liepos 21 d. Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. XI-375, su pakeitimais, 7 straipsnio 3 dalyje, jos teisių perėmėjai ir vienetai, kuriems perduodamos visos jos funkcijos ar jų dalis; |
+| „Strateginio investuotojo įsipareigojimų nevykdymas“ | kaip apibrėžta 22.1 punkte (Strateginio investuotojo įsipareigojimų nevykdymas); |
+| „Pranešimas apie strateginio investuotojo įsipareigojimų nevykdymą“ | kaip apibrėžta 22.2.3 punkte (Strateginio investuotojo teisių ir įsipareigojimų nutraukimas); |
+| „Strateginio investuotojo akcininkas“ | tikrasis Strateginio investuotojo akcijų turėtojas arba naudos gavėjas tuo metu; |
+| „Strateginio investuotojo akcijos“ | Strateginio investuotojo bet kokios klasės akcijų kapitalas arba jo dalis; |
+| „Subrangos sutartis“ | sutartis, kurią PB sudaro dėl savo įsipareigojimų pagal šią Koncesijos sutartį vykdymo arba dėl Koncesijos vykdymo, įskaitant Papildomas sutartis ir susitarimus, kuriuos PB sudaro su Pagrindiniu subrangovu; |
+| „Subrangovas“ | asmuo, su PB sudaręs Subrangos sutartį, įskaitant EPC rangovą ir O&M pagalbinių paslaugų rangovą, Branduolinio kuro tiekėją ir (arba) Pagrindinį subrangovą; |
+| „Mokėjimai už pasirašytas akcijas“ | mokėjimai, kuriuos PB gauna iš Akcininko už pasirašytas Akcijas (visas arba dalinis nominalios vertės apmokėjimas, nominalios vertės arba Akcijos priedo apmokėjimas), kurias PB išleidžia tokiam Akcininkui, atėmus Akcinio kapitalo dalis, kurias PB grąžino Akcininkui; |
+| „Papildoma marža“ | suma, lygi Investuotam kapitalui, suderintam arba galutinai nustatytam pagal 26.3 punktą (Privalomojo akcijų perleidimo kainos ginčijimas), padauginta iš (i) Maržos, padauginta iš (ii) Kalendorinių dienų, sudarančių laikotarpį nuo Apskaičiavimo dienos iki dienos, kurią pagal 26.4 punktą atliekamas privalomojo akcijų perleidimo kainos (arba jos dalies) mokėjimas, skaičiaus, padalyta iš (iii) 360, atėmus (iv) (a) palūkanų, kurias grynaisiais arba pinigų ekvivalentais sumokėjo PB ir gavo atitinkamas Pasitraukiantis akcininkas už Akcininko paskolos dalį, sudarančių Investuotą kapitalą, ir (b) paskirstytų pajamų arba pelno, kuriuos grynaisiais arba pinigų ekvivalentais išmokėjo PB ir gavo atitinkamas Pasitraukiantis akcininkas kaip atlygį už atitinkamą Dalį Akcijų, išleistų šiam Pasitraukiančiam akcininkui pagal jo Mokėjimą už pasirašytas akcijas, sumą, kiekvienu atveju ((a) ir (b) atvejais) per (ii) punkte nurodytą laikotarpį; |
+| „Mokestis“ | mokestis, rinkliava, muitas, įkainis arba panašaus pobūdžio mokėjimas, įskaitant baudas ar delspinigius, mokėtinus už nesumokėtą ar laiku nesumokėtą sumą; |
+| „Konkursas“ | procedūra, kurią EM vykdė LR vardu siekdama surasti investuotoją, suinteresuotą investuoti į naujos atominės elektrinės projektą įgyvendinančią bendrovę, pagal konkurso skelbimą, 2009 m. gruodžio 10 d. paskelbtą ES oficialiajame leidinyje (Nr. 2009/S 238-340935); |
+| „Trečioji šalis“ | bet kuris asmuo, išskyrus Šalis; |
+| „Trečiosios šalies ieškovas“ | Bet kuri Trečioji šalis, išskyrus: (A) Akcininką; (B) Papildomos sutarties šalį arba Papildomos sutarties Papildomo rangovo subrangovą (bet kokios rūšies ir lygio) arba tiekėją (bet kokios rūšies ir lygio); ir (C) su (A) ir (B) punktuose minimais subjektais Susijusią bendrovę; |
+| „Trečiosios šalies gavėjas“ | kaip apibrėžta 13.6 punkte (Atsakomybė); |
+| „Dalis“ | bet kuris Mokėjimas už pasirašytas akcijas, Pagrindinė suma arba Kredito mokėjimas; |
+| „Pranešimas apie sprendimą perleisti akcijas“ | kaip apibrėžta 32.1.2 punkte (Pasirinkimo parduoti sandoris pagal nacionalinio saugumo kriterijus); |
+| „Sprendimo perleisti akcijas laikotarpis“ | kaip apibrėžta 32.1.2 punkte (Pasirinkimo parduoti sandoris pagal nacionalinio saugumo kriterijus); |
+| „Pranešimas apie akcijų perleidimą“ | Akcininko pranešimas apie akcijų perleidimą, paskelbtas pagal Akcininkų sutartį; |
+| „Akcijų perleidimo kaina“ | kaina, kurį gavėjas siūlo Perleidžiančiam akcininkui, nustatyta vadovaujantis Akcininkų sutartimi; |
+| „Perleidžiantis akcininkas“ | kaip apibrėžta 31.2.2 punkte (LR suteikiamos teisės perleidžiant akcijas ir draudimas keisti kontrolę pagal akcininkų sutartį); |
+| „Perleidžiama turto dalis“ | Perleidžiančio akcininko Akcijos, taip pat teisės ir turto dalis pagal Akcininko paskolą; |
+| „Tarpvalstybiniai įstatymai“ | kaip apibrėžta 8 priedėlio (Esminiai pakeitimai) 2.1.4(B) punkte; |
+| „Ieškinys pagal tarptautinę sutartį“ | kaip apibrėžta 16.2.2 punkte (Paraleliniai ieškiniai); |
+| „Tikroji kontroliuojančioji bendrovė“ | kaip apibrėžta 31.4.1 punkte (Strateginio investuotojo nuosavybės perleidimo apribojimai); |
+| „VATESI“ | Valstybinė atominės energetikos saugos inspekcija; |
+| „Visagino atominė elektrinė“ | kaip apibrėžta preambulės C punkte; |
+| „1963 m. Vienos konvencija“ | 1963 m. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą; |
+| „Vienos protokolas“ | 1997 m. protokolas, iš dalies keičiantis Vienos konvenciją dėl civilinės atsakomybės už branduolinę žalą; |
+| „Savanoriškas suvaržymas“ | Pasitraukiančio akcininko turimos turto dalies visiškas arba dalinis Suvaržymas, atliktas Pasitraukiančio akcininko arba atsiradęs dėl jo veikimo, iniciatyvos ar sutikimo; |
+| „Patirtos išlaidos“ | (A) LR atžvilgiu, pagrįstos išlaidos ir sąnaudos, kurias pagrįstai ir tinkamai patyrė LR arba Lietuvos investuotojas LR vardu; arba |
+|  | (B) Strateginio investuotojo atžvilgiu, pagrįstos išlaidos ir sąnaudos, kurias pagrįstai ir tinkamai patyrė Strateginis investuotojas arba su juo Susijusi bendrovė Strateginio investuotojo vardu, per laikotarpį nuo (imtinai) 2011 m. liepos 14 d. iki (imtinai) Koncesijos dienos vykdant Konkursą, įskaitant veiklos, darbų ar paslaugų, atliktų įgyvendinant Projektą, išlaidas ir sąnaudas bei derybose dėl šios Koncesijos sutarties ir kiekvienos Papildomos sutarties patirtos išlaidos ir sąnaudos; ir |
+| „WENRA“ | Vakarų Europos branduolinę saugą reguliuojančių institucijų asociacija ir (arba) organizacija, kuri perima arba WENRA vardu vykdo visas WENRA funkcijas ar įsipareigojimus. |
 
 2 PRIEDĖLIS
 
@@ -5426,13 +4944,10 @@ TURINYS
 
 101. INFORMAcija apie projektą
 
-\| 101.1 | Savininkas: | Lietuvos Respublika (LR) |
-
-\| --- | --- | --- |
-
-\| 101.2 | Projekto pavadinimas: | Visagino atominė elektrinė (VAE) |
-
-\| 101.3 | Projekto vieta: | Lietuva |
+| 101.1 | Savininkas: | Lietuvos Respublika (LR) |
+| --- | --- | --- |
+| 101.2 | Projekto pavadinimas: | Visagino atominė elektrinė (VAE) |
+| 101.3 | Projekto vieta: | Lietuva |
 
 102. DArbų apimtis
 
@@ -5742,17 +5257,12 @@ o. „Hitachi-GE Nuclear Energy” raštas XL-LT-0029, Rev.0, 2012 m. kovo 29 d.
 
 INFORMACIJA APIE PRADINIUS AKCININKUS IR AKCIJŲ DALYS
 
-\| Akcininkas | Potenciali akcijų dalis |
-
-\| --- | --- |
-
-\| Lietuvos investuotojas | 38 % |
-
-\| Strateginis investuotojas | 20 % |
-
-\| Latvenergo AS | 20 % |
-
-\| Eesti Energia AS | 22 % |
+| Akcininkas | Potenciali akcijų dalis |
+| --- | --- |
+| Lietuvos investuotojas | 38 % |
+| Strateginis investuotojas | 20 % |
+| Latvenergo AS | 20 % |
+| Eesti Energia AS | 22 % |
 
 4 PRIEDĖLIS
 
@@ -5780,37 +5290,26 @@ STATYBVIETĖ
 
 2. Jei po Koncesijos dienos šio 5 Priedėlio (Statybvietė) I dalyje aprašyta statybvietė PB (protingai veikiančio) pripažįstama netinkama Projektui, PB apie tai praneš LR taip greitai, kai praktiškai įmanoma, ir bet kuriuo atveju ne vėliau nei iki aštuoniolika (18) Mėnesių nuo Investavimo dienos, kad „Statybvietė“ turėtų būti vakarinė statybvietė (įskaitant vakarinės statybvietės infrastruktūrą), kuri tiksliau aprašoma šio 5 Priedėlio (Statybvietė) II dalyje.
 
-\# I DALIS. RYTINĖ STATYBVIETĖ
+I DALIS. RYTINĖ STATYBVIETĖ
 
-\| Nr. | Unikalus/kadastrinis Nr. | Plotas (ha) | Paskirtis/panaudojimo rūšis |
-
-\| --- | --- | --- | --- |
-
-\| 1. | 4400-2110-7279 4535/0003:7 Karlų k.v. | 212.4183 | Kita, teritorijos pramonės ir sandėliavimo objektams (pramonės ir sandėliavimo bendrovių statybai) |
-
-\| 2. | 4400-2110-7380 4535/0002:19 Karlų k.v. | 28.9150 | |
-
-\| 3. | 4400-2110-7024 4535/0002:17 Karlų k.v. | 11.9552 | Kita, teritorijos inžinerinei infrastruktūrai (ryšių koridoriams ir infrastruktūros tinklams) |
-
-\| 4. | 4400-2110-7446 4535/0002:20 Karlų k.v. | 34.4229 | |
+| Nr. | Unikalus/kadastrinis Nr. | Plotas (ha) | Paskirtis/panaudojimo rūšis |
+| --- | --- | --- | --- |
+| 1. | 4400-2110-7279 4535/0003:7 Karlų k.v. | 212.4183 | Kita, teritorijos pramonės ir sandėliavimo objektams (pramonės ir sandėliavimo bendrovių statybai) |
+| 2. | 4400-2110-7380 4535/0002:19 Karlų k.v. | 28.9150 |  |
+| 3. | 4400-2110-7024 4535/0002:17 Karlų k.v. | 11.9552 | Kita, teritorijos inžinerinei infrastruktūrai (ryšių koridoriams ir infrastruktūros tinklams) |
+| 4. | 4400-2110-7446 4535/0002:20 Karlų k.v. | 34.4229 |  |
 
 Rytinės statybvietės infrastruktūrą sudaro Aušinimo vandens įrengimai, esantys sklype, kurio unikalus Nr. 4400-2110-7446, kadastrinis Nr. 4535/0002:20 Karlų k.v.
 
-\# II DALIS. VAKARINĖ STATYBVIETĖ
+II DALIS. VAKARINĖ STATYBVIETĖ
 
-\| Nr. | Unikalus/kadastrinis Nr. | Plotas (ha) | Paskirtis/panaudojimo rūšis |
-
-\| --- | --- | --- | --- |
-
-\| 1. | 4400-2110-8854 4535/0002:22 Karlų k.v. | 63.6512 | Kita, teritorijos pramonės ir sandėliavimo objektams (pramonės ir sandėliavimo bendrovių statybai) |
-
-\| 2. | 4400-2110-7598 4535/0002:21 Karlų k.v. | 29.7316 | Kita, paskirtis nenurodyta |
-
-\| 3. | 4400-2103-1594 4535/0002:16 Karlų k.v. | 10.6823 | Kita, teritorijos pramonės ir sandėliavimo objektams (pramonės ir sandėliavimo bendrovių statybai) |
-
-\| 4. | 4400-2110-9138 4535/0002:23 Karlų k.v. | 9.4718 | Kita, teritorijos inžinerinei infrastruktūrai (ryšių koridoriams ir infrastruktūros tinklams) |
-
-\| 5. | 4400-2110-7446 4535/0002:20 Karlų k.v. | 34.4229 | |
+| Nr. | Unikalus/kadastrinis Nr. | Plotas (ha) | Paskirtis/panaudojimo rūšis |
+| --- | --- | --- | --- |
+| 1. | 4400-2110-8854 4535/0002:22 Karlų k.v. | 63.6512 | Kita, teritorijos pramonės ir sandėliavimo objektams (pramonės ir sandėliavimo bendrovių statybai) |
+| 2. | 4400-2110-7598 4535/0002:21 Karlų k.v. | 29.7316 | Kita, paskirtis nenurodyta |
+| 3. | 4400-2103-1594 4535/0002:16 Karlų k.v. | 10.6823 | Kita, teritorijos pramonės ir sandėliavimo objektams (pramonės ir sandėliavimo bendrovių statybai) |
+| 4. | 4400-2110-9138 4535/0002:23 Karlų k.v. | 9.4718 | Kita, teritorijos inžinerinei infrastruktūrai (ryšių koridoriams ir infrastruktūros tinklams) |
+| 5. | 4400-2110-7446 4535/0002:20 Karlų k.v. | 34.4229 |  |
 
 Vakarinės statybvietės infrastruktūrą sudaro Aušinimo vandens įrengimai, esantys sklype, kurio unikalus Nr. 4400-2110-7446, kadastrinis Nr. 4535/0002:20 Karlų k.v., bei sklypas, kurio unikalus Nr. 4400-2110-9138, kadastrinis Nr. 4535/0002:23 Karlų k.v. (kuris gali tarnauti prijungimui prie Aušinimo vandens įrengimų) ir perdavimo linijos.
 
@@ -5946,79 +5445,43 @@ EKSPLOATAVIMO NUTRAUKIMO IR ATLIEKŲ TVARKYMO FINANSAVIMO PRINCIPAI
 
 **LIV Intelektinė nuosavybė**
 
-\| Nr. | Objektas | Data | Sutartis | Šalys |
-
-\| --- | --- | --- | --- | --- |
-
-\| 1. | Fizinės apsaugos reikalavimų ir galimybių aprašymas, 1 stadijos ataskaita Nr. (9.17-3)-P17-4/G_2009-176. (Lt., angl.) | 2009 m. sausio 30 d. | Sutartis dėl autorinio darbo užsakymo Nr. S_113-2009-3, data: 2009 m. sausio 15 d. | VAE Vaidas Brasiūnas (Paslaugos teikėjas) |
-
-\| 2. | Fizinės apsaugos reikalavimų ir galimybių aprašymas, 2 stadijos ataskaita Nr. G_2009-224 (5.2) (Lt., angl.) | 2009 m. kovo 24 d. | | |
-
-\| 3. | Fizinės apsaugos reikalavimų ir galimybių aprašymas, 3 stadijos ataskaita Nr. G_2009-317 (Lt., angl.) | 2009 m. balandžio 19 d. | | |
-
-\| 4. | Fizinės apsaugos sistemos įrengimų galimos priemonės Visagino atominei elektrinei Nr. (9.17.2)-P17-12 (Lt.) | 2009 m. liepos 13 d. | | |
-
-\| 5. | Naujos atominės elektrinės Lietuvoje poveikio aplinkai įvertinimo ataskaita (Lt., angl., rus.) | 2009 m. kovo 27 d. | Sutartis Nr. 87-08, data: 2008 m. vasario 4 d. | AB „Lietuvos energija” Consortium of Poyry Energy Oy ir Lietuvos energetikos institutas (Paslaugos teikėjas) |
-
-\| 6. | Sutartis dėl konsultavimo paslaugų sutarties perleidimo Nr. 951-08, data: 2008 m. lapkričio 19 d. | VAE AB „Lietuvos energija” Poyry Energy Oy ir Lietuvos energetikos institutas (Paslaugos teikėjas) | | |
-
-\| 7. | Pro-Forma verslo modelis ir finansavimo planas (Project White Knight) (Angl.) | 2009 m. spalis | Paslaugų teikimo sutartis Nr. S_113-2009-33, data: 2009 m. birželio 19 d. | VAE N M Rothschild & Sons Limited (Paslaugos teikėjas) Tačiau, Project White Knight: Baltijos energetikos rinka ataskaitą parengė NERA Economic Consulting ir Project White Knight Techninės analizės ataskaita - FICHTNER |
-
-\| 8. | Project White Knight: Baltijos energetikos rinkos ataskaita (Angl.) | 2009 m. rugpjūčio 21 d. | | |
-
-\| 9. | Project White Knight Techninės analizės ataskaita Nr. 6757P02/FICHT-5172339-v3 (Angl.) | 2009 m. liepa | | |
-
-\| 10. | „Naujos atominės elektrinės didelių matmenų ir didelio svorio krovinių transportavimo maršruto tyrimo“ projektas Galimybių studija Nr. 01-02-625 | 2009 m. | Paslaugų teikimo sutartis Nr. S_113-2009-11, data: 2009 m. kovo 24 d. | VAE UAB „Hidroprojektas” (Paslaugos teikėjas) |
-
-\| 11. | Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, 1 dalis, Nr. MIS-2010-24-PP-B (Lt.) | 2010 m. | Paslaugų teikimo sutartis Nr. MIS-2010-24, data: 2010 m. balandžio 1 d. | VAE VĮ Transporto ir kelių tyrimo institutas (Paslaugos teikėjas) UAB Kelprojektas (Paslaugos teikėjas) |
-
-\| 12. | Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, 2 dalis, Nr. MIS-2011-29-PP-T (Lt.) | 2011 m. | Paslaugų teikimo sutartis Nr. MIS-2011-29, data: 2011 m. gegužės 23 d. | VAE (VĮ Transporto ir kelių tyrimo institutas (Paslaugos teikėjas) |
-
-\| 13. | Specialusis susisiekimo kominikacijų planas Nr. 10076 (Lt.) | 2011 m. spalio 10 d. | Sutartis dėl specialiojo susisiekimo komunikacijų plano parengimo ir su juo susijusių paslaugų teikimo Nr. MIS-2010-47-1, data: 2010 m. rugpjūčio 30 d. | VAE UAB „Sweco Lietuva” (Paslaugos teikėjas) |
-
-\| 14. | Specialiojo plano, skirto valstybinės reikšmės keliams, sprendimų saugos auditas (Lt.) | 2010 m. lapkritis | Audito paslaugų teikimo sutartis Nr. MIS-2010-48, data: 2010 m. rugsėjo 2 d. | VAE UAB „Strateginio transportavimo sprendimai” (Paslaugos teikėjas) |
-
-\| 15. | Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektinių sprendimų pasirinkimas ir jų ekonominis įvertinimas: vandens transporto tinklo Lietuvos viduje tyrimai (Lt.) | 2011 m. | Paslaugų teikimo sutartis Nr. MIS-2011-05, data: 2011 m. vasario 8 d. | VAE UAB „Vilniaus hidroprojektas” (Paslaugos teikėjas) |
-
-\| 16. | Galimų naujos atominės elektrinės statybviečių įvertinimo atnaujinimas ir papildymas, atsižvelgiant į išorinius įvykius Nr. S/17-1219.10.12-G4-V:01 (Lt.) | 2010 m. gruodžio 20 d. | Paslaugų teikimo sutartis Nr. MIS-2010-58, data: 2010 m. spalio 15 d. | VAE Lietuvos energetikos institutas (Paslaugos teikėjas) |
-
-\| 17. | Galimų Visagino AE statybviečių giluminės geologinės aplinkos tyrimas 2D/3D seisminės apžvalgos pagalba (Angl.) | 2010 m. lapkričio 15 d. | Paslaugų teikimo sutartis Nr. 8-50/MIS-2010-31, data 2010 m. birželio 1 d. | VAE Lietuvos Respublikos Energetikos Ministerija AB Lietuvos elektrinė Lietuvos ir Danijos UAB „Minijos nafta” (Paslaugos teikėjas) |
-
-\| 18. | Galimų Visagino AE statybviečių statybinių liekanų ir popaviršinės geologinės aplinkos tyrimas, panaudojant elektrinės tomografijos metodą (Lt., angl.) | 2009 m. | Paslaugų sutartis Nr. S_113-2009-17, data: 2009 m. balandžio 17 d. Sutartis buvo nutraukta šalių sutarimu 2009 m. birželio 12 d. | VAE UAB „Geobaltic” (Paslaugos teikėjas) |
-
-\| 19. | Geotechninių, geologinių ir seismologinių (GG&S) duomenų aprašas Visagino statybvietėms (Angl.) | 2012 m. | Paslaugų sutartis Nr. MIS-2009-1, data: 2009 m. liepos 31 d. | VAE UAB „Eldra” (Paslaugos teikėjas) |
-
-\| 20. | Galimų naujos atominės elektrinės sklypų užteršimo radionuklidais tyrimo ataskaita (Lt., angl.) | 2009 m. birželio 23 d. | Paslaugų sutartis Nr. S_113-2009-13/2009/PES-64, data: 2009 m. balandžio 3 d. | VAE Radiacinės saugos centras (Paslaugos teikėjas) |
-
-\| 21. | Parengiamasis ekogeologinis naujos Visagino AE statybvietės tyrimas (I Var.) Drūkšinių km., Visagine, Lietuvoje Nr. 2031-2009 (Lt., angl.) | 2009 m. | Paslaugų sutartis Nr. S_113-2009-18, data: 2009 m. balandžio 28 d. | VAE UAB „Geotestus” (Paslaugos teikėjas) |
-
-\| 22. | Pasirengimas naujos atominės elektrinės prijungimui prie perdavimo tinklo infrastruktūros. Naujos atominės elektrinės prijungimo prie perdavimo tinklo stadijos (Projektavimo pasiūlymai) Nr. 729 – PP – T1 (Lt.) | 2009 m. | Paslaugų sutartis Nr. S_113/17-70-2009-29, data: 2009 m. gegužės 19 d. | VAE UAB „Energetikos pajėgos” (Paslaugos teikėjas) |
-
-\| 23. | Kuro strategijos ataskaita (Angl.) | 2009 m. rugpjūtis | Sutartis Nr. S_116-2009-15, data: 2009 m. balandžio 8 d. | VAE TVO Nuclear Services Oy (Paslaugos teikėjas) |
-
-\| 24. | Pasiūlymas radioaktyvių atliekų tvarkymo strategijai (Angl.) | 2009 m. rugsėjis | | |
-
-\| 25. | Regioninio tiekimo tinklo galimybės ir pajėgumai, siekiant paremti Visagino AE statybos projektą (Angl.) | 2010 m. rugpjūčio 16 d. | Paslaugų sutartis Nr. MIS-2010-2, data: 2010 m. kovo 29 d. | VAE UAB „Deloitte Lietuva” (Paslaugos teikėjas) |
-
-\| 26. | Projektiniai pasiūlymai statybinių atliekų pašalinimui iš Visagino AE statybvietės Nr. 7964 (Lt., angl.) | 2010 m. | Paslaugų sutartis Nr. 038-09/MIS-2009-16, data: 2009 m. spalio 8 d. | VAE AB “Pramprojektas” (Paslaugos teikėjas) |
-
-\| 27. | Geologinių ir seismologinių sąlygų potencialiose VAE statybvietėse įvertinimas, panaudojant seisminio tyrinėjimo duomenis (1 tomas, 2 tomas) | 2009 m. birželis | Paslaugų sutartis Nr. S_113-2009-14, data: 2009 m. balandžio 10 d. | VAE AB „Geonafta” (Paslaugos teikėjas) |
-
-\| 28. | Galimų Visagino AE statybviečių geologinių ir geotechninių sąlygų kūrimo technologijų tyrimas (patikrinimo stadija ir patvirtinimo stadija) | 2010 m. rugsėjis | Paslaugų sutartis Nr. MIS-2010-, data: 2010 m. sausio 12 d. | VAE UAB „Geotestus” (Paslaugos teikėjas) |
-
-\| 29. | Galimybių studija, skirta šalia paviršiaus esančių trumpalaikių labai žemo, žemo ir vidutinio aktyvumo radioaktyvių atliekų talpyklų panaudojimui (numatomam radioaktyvioms atliekoms iš Ignalinos atominės elektrinės) radioaktyvių atliekų iš Visagino atominės elektrinės tvarkymui (Lt. angl.) | 2009 m. rugsėjo 18 d. | Netaik. | Sukurta VAE |
-
-\| 30. | Visagino atominės elektrinės statybviečių įvertinimo ataskaita (Angl.) | 2011 m. gruodžio 2 d. | Netaik. | Sukurta VAE |
-
-\| 31. | IAE pramoninėje zonoje esančios infrastruktūros perėmimo projektas P022 (Projekto pirmos stadijos ataskaita) (Angl.) | 2009 m. | Netaik. | Sukurta VAE |
-
-\| 32. | Galimybių prisijungti prie inžinierinių tinklų nustatymas Nr. P023-4 (Lt.) | 2009 m. rugpjūčio 7 d. | Netaik. | Sukurta VAE |
-
-\| 33. | Elektros energijos tiekimo į VAE statybvietes prieš projektiniai sprendimai Nr. P037 (LT) | 2011 m. | Netaik. | Sukurta VAE |
-
-\| 34. | Teisinė ir reguliavimo aplinka naujai atominei elektrinei Lietuvoje Nr. (9.13.3)-P13-8 (Lt.) | 2009 m. balandžio 10 d. | Netaik. | Sukurta VAE |
-
-\| 35. | Lietuvos naujos atominės elektrinės statymo programa (Lietuvos žmogiškųjų išteklių pajėgumas ir sugebėjimas dalyvauti AE projekte) (Angl.) | 2009 m. | Netaik. | Sukurta VAE |
+| Nr. | Objektas | Data | Sutartis | Šalys |
+| --- | --- | --- | --- | --- |
+| 1. | Fizinės apsaugos reikalavimų ir galimybių aprašymas, 1 stadijos ataskaita Nr. (9.17-3)-P17-4/G_2009-176. (Lt., angl.) | 2009 m. sausio 30 d. | Sutartis dėl autorinio darbo užsakymo Nr. S_113-2009-3, data: 2009 m. sausio 15 d. | VAE Vaidas Brasiūnas (Paslaugos teikėjas) |
+| 2. | Fizinės apsaugos reikalavimų ir galimybių aprašymas, 2 stadijos ataskaita Nr. G_2009-224 (5.2) (Lt., angl.) | 2009 m. kovo 24 d. |  |  |
+| 3. | Fizinės apsaugos reikalavimų ir galimybių aprašymas, 3 stadijos ataskaita Nr. G_2009-317 (Lt., angl.) | 2009 m. balandžio 19 d. |  |  |
+| 4. | Fizinės apsaugos sistemos įrengimų galimos priemonės Visagino atominei elektrinei Nr. (9.17.2)-P17-12 (Lt.) | 2009 m. liepos 13 d. |  |  |
+| 5. | Naujos atominės elektrinės Lietuvoje poveikio aplinkai įvertinimo ataskaita (Lt., angl., rus.) | 2009 m. kovo 27 d. | Sutartis Nr. 87-08, data: 2008 m. vasario 4 d. | AB „Lietuvos energija” Consortium of Poyry Energy Oy ir Lietuvos energetikos institutas (Paslaugos teikėjas) |
+| 6. | Sutartis dėl konsultavimo paslaugų sutarties perleidimo Nr. 951-08, data: 2008 m. lapkričio 19 d. | VAE AB „Lietuvos energija” Poyry Energy Oy ir Lietuvos energetikos institutas (Paslaugos teikėjas) |  |  |
+| 7. | Pro-Forma verslo modelis ir finansavimo planas (Project White Knight) (Angl.) | 2009 m. spalis | Paslaugų teikimo sutartis Nr. S_113-2009-33, data: 2009 m. birželio 19 d. | VAE N M Rothschild & Sons Limited (Paslaugos teikėjas) Tačiau, Project White Knight: Baltijos energetikos rinka ataskaitą parengė NERA Economic Consulting ir Project White Knight Techninės analizės ataskaita - FICHTNER |
+| 8. | Project White Knight: Baltijos energetikos rinkos ataskaita (Angl.) | 2009 m. rugpjūčio 21 d. |  |  |
+| 9. | Project White Knight Techninės analizės ataskaita Nr. 6757P02/FICHT-5172339-v3 (Angl.) | 2009 m. liepa |  |  |
+| 10. | „Naujos atominės elektrinės didelių matmenų ir didelio svorio krovinių transportavimo maršruto tyrimo“ projektas Galimybių studija Nr. 01-02-625 | 2009 m. | Paslaugų teikimo sutartis Nr. S_113-2009-11, data: 2009 m. kovo 24 d. | VAE UAB „Hidroprojektas” (Paslaugos teikėjas) |
+| 11. | Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, 1 dalis, Nr. MIS-2010-24-PP-B (Lt.) | 2010 m. | Paslaugų teikimo sutartis Nr. MIS-2010-24, data: 2010 m. balandžio 1 d. | VAE VĮ Transporto ir kelių tyrimo institutas (Paslaugos teikėjas) UAB Kelprojektas (Paslaugos teikėjas) |
+| 12. | Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektiniai sprendimai ir jų ekonominis įvertinimas: Lietuvos kelių transporto tinklo tyrimai, 2 dalis, Nr. MIS-2011-29-PP-T (Lt.) | 2011 m. | Paslaugų teikimo sutartis Nr. MIS-2011-29, data: 2011 m. gegužės 23 d. | VAE (VĮ Transporto ir kelių tyrimo institutas (Paslaugos teikėjas) |
+| 13. | Specialusis susisiekimo kominikacijų planas Nr. 10076 (Lt.) | 2011 m. spalio 10 d. | Sutartis dėl specialiojo susisiekimo komunikacijų plano parengimo ir su juo susijusių paslaugų teikimo Nr. MIS-2010-47-1, data: 2010 m. rugpjūčio 30 d. | VAE UAB „Sweco Lietuva” (Paslaugos teikėjas) |
+| 14. | Specialiojo plano, skirto valstybinės reikšmės keliams, sprendimų saugos auditas (Lt.) | 2010 m. lapkritis | Audito paslaugų teikimo sutartis Nr. MIS-2010-48, data: 2010 m. rugsėjo 2 d. | VAE UAB „Strateginio transportavimo sprendimai” (Paslaugos teikėjas) |
+| 15. | Visagino atominės elektrinės didelių matmenų, didelio svorio ir kitų krovinių transportavimo maršruto projektinių sprendimų pasirinkimas ir jų ekonominis įvertinimas: vandens transporto tinklo Lietuvos viduje tyrimai (Lt.) | 2011 m. | Paslaugų teikimo sutartis Nr. MIS-2011-05, data: 2011 m. vasario 8 d. | VAE UAB „Vilniaus hidroprojektas” (Paslaugos teikėjas) |
+| 16. | Galimų naujos atominės elektrinės statybviečių įvertinimo atnaujinimas ir papildymas, atsižvelgiant į išorinius įvykius Nr. S/17-1219.10.12-G4-V:01 (Lt.) | 2010 m. gruodžio 20 d. | Paslaugų teikimo sutartis Nr. MIS-2010-58, data: 2010 m. spalio 15 d. | VAE Lietuvos energetikos institutas (Paslaugos teikėjas) |
+| 17. | Galimų Visagino AE statybviečių giluminės geologinės aplinkos tyrimas 2D/3D seisminės apžvalgos pagalba (Angl.) | 2010 m. lapkričio 15 d. | Paslaugų teikimo sutartis Nr. 8-50/MIS-2010-31, data 2010 m. birželio 1 d. | VAE Lietuvos Respublikos Energetikos Ministerija AB Lietuvos elektrinė Lietuvos ir Danijos UAB „Minijos nafta” (Paslaugos teikėjas) |
+| 18. | Galimų Visagino AE statybviečių statybinių liekanų ir popaviršinės geologinės aplinkos tyrimas, panaudojant elektrinės tomografijos metodą (Lt., angl.) | 2009 m. | Paslaugų sutartis Nr. S_113-2009-17, data: 2009 m. balandžio 17 d. Sutartis buvo nutraukta šalių sutarimu 2009 m. birželio 12 d. | VAE UAB „Geobaltic” (Paslaugos teikėjas) |
+| 19. | Geotechninių, geologinių ir seismologinių (GG&S) duomenų aprašas Visagino statybvietėms (Angl.) | 2012 m. | Paslaugų sutartis Nr. MIS-2009-1, data: 2009 m. liepos 31 d. | VAE UAB „Eldra” (Paslaugos teikėjas) |
+| 20. | Galimų naujos atominės elektrinės sklypų užteršimo radionuklidais tyrimo ataskaita (Lt., angl.) | 2009 m. birželio 23 d. | Paslaugų sutartis Nr. S_113-2009-13/2009/PES-64, data: 2009 m. balandžio 3 d. | VAE Radiacinės saugos centras (Paslaugos teikėjas) |
+| 21. | Parengiamasis ekogeologinis naujos Visagino AE statybvietės tyrimas (I Var.) Drūkšinių km., Visagine, Lietuvoje Nr. 2031-2009 (Lt., angl.) | 2009 m. | Paslaugų sutartis Nr. S_113-2009-18, data: 2009 m. balandžio 28 d. | VAE UAB „Geotestus” (Paslaugos teikėjas) |
+| 22. | Pasirengimas naujos atominės elektrinės prijungimui prie perdavimo tinklo infrastruktūros. Naujos atominės elektrinės prijungimo prie perdavimo tinklo stadijos (Projektavimo pasiūlymai) Nr. 729 – PP – T1 (Lt.) | 2009 m. | Paslaugų sutartis Nr. S_113/17-70-2009-29, data: 2009 m. gegužės 19 d. | VAE UAB „Energetikos pajėgos” (Paslaugos teikėjas) |
+| 23. | Kuro strategijos ataskaita (Angl.) | 2009 m. rugpjūtis | Sutartis Nr. S_116-2009-15, data: 2009 m. balandžio 8 d. | VAE TVO Nuclear Services Oy (Paslaugos teikėjas) |
+| 24. | Pasiūlymas radioaktyvių atliekų tvarkymo strategijai (Angl.) | 2009 m. rugsėjis |  |  |
+| 25. | Regioninio tiekimo tinklo galimybės ir pajėgumai, siekiant paremti Visagino AE statybos projektą (Angl.) | 2010 m. rugpjūčio 16 d. | Paslaugų sutartis Nr. MIS-2010-2, data: 2010 m. kovo 29 d. | VAE UAB „Deloitte Lietuva” (Paslaugos teikėjas) |
+| 26. | Projektiniai pasiūlymai statybinių atliekų pašalinimui iš Visagino AE statybvietės Nr. 7964 (Lt., angl.) | 2010 m. | Paslaugų sutartis Nr. 038-09/MIS-2009-16, data: 2009 m. spalio 8 d. | VAE AB “Pramprojektas” (Paslaugos teikėjas) |
+| 27. | Geologinių ir seismologinių sąlygų potencialiose VAE statybvietėse įvertinimas, panaudojant seisminio tyrinėjimo duomenis (1 tomas, 2 tomas) | 2009 m. birželis | Paslaugų sutartis Nr. S_113-2009-14, data: 2009 m. balandžio 10 d. | VAE AB „Geonafta” (Paslaugos teikėjas) |
+| 28. | Galimų Visagino AE statybviečių geologinių ir geotechninių sąlygų kūrimo technologijų tyrimas (patikrinimo stadija ir patvirtinimo stadija) | 2010 m. rugsėjis | Paslaugų sutartis Nr. MIS-2010-, data: 2010 m. sausio 12 d. | VAE UAB „Geotestus” (Paslaugos teikėjas) |
+| 29. | Galimybių studija, skirta šalia paviršiaus esančių trumpalaikių labai žemo, žemo ir vidutinio aktyvumo radioaktyvių atliekų talpyklų panaudojimui (numatomam radioaktyvioms atliekoms iš Ignalinos atominės elektrinės) radioaktyvių atliekų iš Visagino atominės elektrinės tvarkymui (Lt. angl.) | 2009 m. rugsėjo 18 d. | Netaik. | Sukurta VAE |
+| 30. | Visagino atominės elektrinės statybviečių įvertinimo ataskaita (Angl.) | 2011 m. gruodžio 2 d. | Netaik. | Sukurta VAE |
+| 31. | IAE pramoninėje zonoje esančios infrastruktūros perėmimo projektas P022 (Projekto pirmos stadijos ataskaita) (Angl.) | 2009 m. | Netaik. | Sukurta VAE |
+| 32. | Galimybių prisijungti prie inžinierinių tinklų nustatymas Nr. P023-4 (Lt.) | 2009 m. rugpjūčio 7 d. | Netaik. | Sukurta VAE |
+| 33. | Elektros energijos tiekimo į VAE statybvietes prieš projektiniai sprendimai Nr. P037 (LT) | 2011 m. | Netaik. | Sukurta VAE |
+| 34. | Teisinė ir reguliavimo aplinka naujai atominei elektrinei Lietuvoje Nr. (9.13.3)-P13-8 (Lt.) | 2009 m. balandžio 10 d. | Netaik. | Sukurta VAE |
+| 35. | Lietuvos naujos atominės elektrinės statymo programa (Lietuvos žmogiškųjų išteklių pajėgumas ir sugebėjimas dalyvauti AE projekte) (Angl.) | 2009 m. | Netaik. | Sukurta VAE |
 
 8 PRIEDĖLIS
 
@@ -6184,77 +5647,54 @@ INVESTUOTO KAPITALO ATASKAITA
 
 *Turi užpildyti PB apie kiekvieną Pasitraukiantį akcininką pagal 26 punktą ir pateikti LR. Jei reikia, 1-3 skyriuose esančios lentelės gali būti praplėstos, siekiant įtraukti kiekvieną Investuoto kapitalo dalį.*
 
-\| Data | _________________ | |
-
-\| --- | --- | --- |
-
-\| | (Skaičiavimo data) | |
-
-\| Investuotas kapitalas (x) | _________________ | = €EURAI _______________ |
-
-\| | Pasitraukiančio akcininko vardas | |
+| Data | _________________ |  |
+| --- | --- | --- |
+|  | (Skaičiavimo data) |  |
+| Investuotas kapitalas (x) | _________________ | = €EURAI _______________ |
+|  | Pasitraukiančio akcininko vardas |  |
 
 **1 SKYRIUS – MOKĖJIMAI UŽ PASIRAŠYTAS AKCIJAS**
 
 *Į eilutę įrašykite kiekvieną Mokėjimo už pasirašytas akcijas dalį, kurią sumokėjo Pasitraukiantis akcininkas.*
 
-\| Mokėjimo už pasirašytas akcijas data | Kalendorinių dienų skaičius tarp Mokėjimo už pasirašytas akcijas ir Skaičiavimo datos (c) | Mokėjimo už pasirašytas akcijas suma (€EURAI) (a) |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | VISO | |
+| Mokėjimo už pasirašytas akcijas data | Kalendorinių dienų skaičius tarp Mokėjimo už pasirašytas akcijas ir Skaičiavimo datos (c) | Mokėjimo už pasirašytas akcijas suma (€EURAI) (a) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | VISO |  |
 
 **2 SKYRIUS – PAGRINDINĖS SUMOS**
 
 *Į eilutę įrašykite kiekvieną Pagrindinės sumos Dalį, kurią išmoka Pasitraukiantis akcininkas.*
 
-\| Pagrindinės sumos išmokėjimo data | Kalendorinių dienų skaičius tarp Pagrindinės sumos išmokėjimo ir Skaičiavimo datos (c) | Pagrindinė suma(€EURAI) (a) |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | VISO | |
+| Pagrindinės sumos išmokėjimo data | Kalendorinių dienų skaičius tarp Pagrindinės sumos išmokėjimo ir Skaičiavimo datos (c) | Pagrindinė suma(€EURAI) (a) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | VISO |  |
 
 **3 SKYRIUS – KREDITO MOKĖJIMAI**
 
 *Į eilutę įrašykite kiekvieną mokėjimo Dalį, sumokamą pagal Pasitraukiančio akcininko kreditą paremiant PB įsipareigojimus.*
 
-\| Kredito mokėjimo data | Kalendorinių dienų skaičius tarp Kredito mokėjimo ir Skaičiavimo datos (c) | Kredito mokėjimo suma (€EURAI) (a) |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| | | |
-
-\| | | |
-
-\| | VISO | |
+| Kredito mokėjimo data | Kalendorinių dienų skaičius tarp Kredito mokėjimo ir Skaičiavimo datos (c) | Kredito mokėjimo suma (€EURAI) (a) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | VISO |  |
 
 **4 SKYRIUS – SUMOKĖTOS PALŪKANOS**
 
 *Nurodykite visą Pasitraukiančio akcininko sumokėtų palūkanų sumą pagal Akcininko paskolas.*
 
-\| | | Bendra sumokėtų palūkanų suma (€EURAI) (d) |
-
-\| --- | --- | --- |
-
-\| | | |
+|  |  | Bendra sumokėtų palūkanų suma (€EURAI) (d) |
+| --- | --- | --- |
+|  |  |  |
 
 ____________________________ ____________________
 

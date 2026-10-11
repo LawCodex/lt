@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d69a3e50e59511e7acd7ea182930b17f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D69A3E50E595.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 2018 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
@@ -4075,7 +4075,7 @@ Numatomas lėšų likutis 2019 m. sausio 1 d. (1 + 2 – 3)
 
 283 548
 
-\* Iš šios sumos 183 808 tūkst. eurų pagal 2017 metų Rezervinio (stabilizavimo) fondo lėšų sąmatą, patvirtintą Lietuvos Respublikos 2017 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu, 2018 metais naudojami grąžintinai iki 2018 m. gruodžio 31 d.
+* Iš šios sumos 183 808 tūkst. eurų pagal 2017 metų Rezervinio (stabilizavimo) fondo lėšų sąmatą, patvirtintą Lietuvos Respublikos 2017 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu, 2018 metais naudojami grąžintinai iki 2018 m. gruodžio 31 d.
 
 Lietuvos Respublikos
 
@@ -4151,7 +4151,7 @@ Numatomas Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutr
 
 0
 
-\* Mokėjimo pavedimų užsienio valiuta išlaidos, komisinis mokestis Lietuvos Respublikos Vyriausybės vertybiniams popieriams įsigyti ir saugoti, valiutos keitimo paslaugų išlaidos, Vyriausybės vertybinių popierių nominaliosios vertės ir pirkimo kainos skirtumas, palūkanų išlaidos ir kitos išlaidos.
+* Mokėjimo pavedimų užsienio valiuta išlaidos, komisinis mokestis Lietuvos Respublikos Vyriausybės vertybiniams popieriams įsigyti ir saugoti, valiutos keitimo paslaugų išlaidos, Vyriausybės vertybinių popierių nominaliosios vertės ir pirkimo kainos skirtumas, palūkanų išlaidos ir kitos išlaidos.
 
 Lietuvos Respublikos
 

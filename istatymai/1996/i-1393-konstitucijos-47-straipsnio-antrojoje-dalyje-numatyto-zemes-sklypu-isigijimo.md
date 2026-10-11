@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A1678AE1348E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1678AE1348E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo įrašymo į Konstitucinių įstatymų sąrašą įstatymas
@@ -26,7 +26,7 @@ KONSTITUCIJOS 47 STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ ĮSIGIJIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo įrašymas į Konstitucinių įstatymų sąrašą
+## 1 straipsnis. Įstatymo įrašymas į Konstitucinių įstatymų sąrašą
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 69 straipsnio trečiąja dalimi, įrašo į Konstitucinių įstatymų sąrašą Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinį įstatymą.
 

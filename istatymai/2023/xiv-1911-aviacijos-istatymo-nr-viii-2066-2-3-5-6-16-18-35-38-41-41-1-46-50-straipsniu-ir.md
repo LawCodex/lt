@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e21c3590eb1a11ed9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E21C3590EB1A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 3, 5, 6, 16, 18, 35, 38, 41, 41-1, 46, 50 straipsnių ir 1, 2, 3 priedų pakeitimo, įstatymo papildymo 19-1, 41-2 straipsniais ir III skyriaus papildymo vienuoliktuoju skirsniu įstatymas

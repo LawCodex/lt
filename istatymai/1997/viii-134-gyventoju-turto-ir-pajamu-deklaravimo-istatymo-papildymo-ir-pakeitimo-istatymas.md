@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1BCF61ADEE2A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1BCF61ADEE2A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo papildymo ir pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97))
 
-\#### 1 straipsnis. 7 straipsnio papildymas
+## 1 straipsnis. 7 straipsnio papildymas
 
 7 straipsnio 1 dalyje po žodžių „bei turtą“ įrašyti žodžius „patvirtina, siunčia „Valstybės žinių“ redakcijai ir išduoda deklaravusiajam turtą ir pajamas Lietuvos Respublikos gyventojų turto ir pajamų deklaracijos nuorašus“, vietoj žodžių „nurodytų asmenų“ įrašyti žodžius „nurodytų Lietuvos Respublikos gyventojų“, vietoj žodžių „šių asmenų“ įrašyti žodžius „šių Lietuvos Respublikos gyventojų“ ir šią dalį išdėstyti taip:
 
 „1. Valstybinė mokesčių inspekcija tikrina turto ir pajamų deklaracijose nurodytų duomenų teisingumą, kaupia ir saugo šio įstatymo 3 straipsnyje nurodytų Lietuvos Respublikos gyventojų pateiktas turto ir pajamų deklaracijas bei iš kitų šaltinių gautą informaciją apie šių Lietuvos Respublikos gyventojų pajamas ir turtą, patvirtina, siunčia „Valstybės žinių“ redakcijai ir išduoda deklaravusiajam turtą ir pajamas Lietuvos Respublikos gyventojų turto ir pajamų deklaracijos nuorašus.“
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 10 straipsnio 1 ir 2 dalis ir jas išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „3. Šio įstatymo 2 priedėlyje išvardinti Lietuvos Respublikos gyventojai – valstybės tarnautojai ir jų šeimos nariai gali skelbti „Valstybės žinių“ specialiame priede valstybės lėšomis savo turto ir pajamų deklaracijų informaciją. Patvirtintą deklaracijos nuorašą ir raštišką sutikimą skelbti deklaraciją „Valstybės žinių“ redakcijai pateikia pats deklaruojantysis. Deklaracijų nuorašų pristatymo ir skelbimo terminai yra tokie pat, kaip nurodyta 10 straipsnio 2 dalyje.“
 
-\#### 3 straipsnis. 1 priedėlyje išdėstyto sąrašo pakeitimas ir papildymas
+## 3 straipsnis. 1 priedėlyje išdėstyto sąrašo pakeitimas ir papildymas
 
 Papildyti 1 priedėlyje išdėstyto sąrašo 3 punktą žodžiais „viceministrai, ministerijų sekretoriai“, 5 punktą – žodžiais „generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovai“, papildyti sąrašą naujais 7, 8 ir 11 punktais, pakeisti buvusių 7–12 punktų numeraciją ir visą šį priedėlį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Papildyti 1 priedėlyje išdėstyto sąrašo 3 punktą žodžiais „viceministr
 
 15. Seimo kontrolieriai“.
 
-\#### 4 straipsnis. 2 priedėlyje išdėstyto sąrašo pakeitimas
+## 4 straipsnis. 2 priedėlyje išdėstyto sąrašo pakeitimas
 
 Iš 2 priedėlyje išdėstyto sąrašo 1 punkto išbraukti žodžius „(pagal Lietuvos Respublikos Seimo 1995 m. birželio 27 d. nutarimo Nr. I-965 priedėlį)“, išbraukti 5, 6, 7, 12 punktus, 13 ir 14 punktuose vietoj žodžių „Apskričių valdytojų“ įrašyti žodžius „Apskričių viršininkų“ , iš 17 punkto išbraukti žodžius „Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovai, jų pavaduotojai“, pakeisti buvusių 5–20 punktų numeraciją ir visą priedėlį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Iš 2 priedėlyje išdėstyto sąrašo 1 punkto išbraukti žodžius „(pagal L
 
 16. Įmonių administracijų vadovai, administracijų vadovų pavaduotojai, tarybų ir valdybų nariai, vyriausieji buhalteriai (finansininkai)“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1 priedėlio 13 punkte išvardinti valstybės tarnautojai bei jų šeimos nariai, taip pat viceministrai bei jų šeimos nariai deklaracijas už 1996 metus gali užpildyti ir pateikti valstybinei mokesčių inspekcijai iki 1997 m. kovo 20 d.
 

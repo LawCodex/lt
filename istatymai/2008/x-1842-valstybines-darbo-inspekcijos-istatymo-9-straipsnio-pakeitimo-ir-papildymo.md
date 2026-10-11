@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B8CF18F9CDB1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B8CF18F9CDB1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 9 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [102-4585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A))
 
-\#### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas
 
 1. 9 straipsnio 1 dalies 3 punkte prieš žodį „paaiškinimus“ įrašyti žodžius „kitų tikrinamoje darbo vietoje esančių asmenų“ ir šį punktą išdėstyti taip:
 

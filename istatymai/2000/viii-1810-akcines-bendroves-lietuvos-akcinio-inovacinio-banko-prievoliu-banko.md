@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2C36F4D2274E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2C36F4D2274E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo 3, 4 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [35-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4DC70F7969B), Nr. [118-3039](https://www.e-tar.lt/portal/lt/legalAct/TAR.35874BEFBD06))
 
-\#### 1 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 3 straipsnio 1 dalyje išbraukti žodžius „dešimties metų trukmės vieno lito nominalios vertės“, po žodžių „ilgalaikius VVP“ įrašyti žodžius „ir nustato jų emisijų sąlygas, taip pat gali juos konvertuoti Vyriausybės nustatyta tvarka, atsižvelgdama į 4 straipsnio 1 dalies 3 punkte nurodytus VVP išpirkimo terminus“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „2. VVP, išleistų 2 straipsnio 1 dalies 2 punkte nustatytoms prievolėms įvykdyti, antrinė apyvarta draudžiama.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 4 straipsnio 1 dalies 3 punktą, papildyti dalį 4 punktu ir juos išdėstyti taip:
 

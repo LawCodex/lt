@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B515345EB7B6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B515345EB7B6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 15, 18, 19, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8))
 
-\#### 1 straipsnis. 15 straipsnio 1 dalies papildymas ir pakeitimas
+## 1 straipsnis. 15 straipsnio 1 dalies papildymas ir pakeitimas
 
 1. Papildyti 15 straipsnio 1 dalį nauju 7 punktu:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusius 15 straipsnio 1 dalies 7, 8, 9, 10, 11, 12 punktus laikyti atitinkamai 8, 9, 10, 11, 12, 13 punktais.
 
-\#### 2 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 18 straipsnio 1 dalyje po skaičiaus „6“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip:
 
@@ -46,13 +46,13 @@ Vilnius
 
 3. Buvusius 18 straipsnio 2 dalies 3, 4, 5, 6, 7, 8, 9, 10 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9 punktais.
 
-\#### 3 straipsnis. 19 straipsnio 2 dalies 1 punkto pakeitimas
+## 3 straipsnis. 19 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 19 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) dėl Seimo kontrolieriaus kreipimosi (pareiškimo) dėl tarnybos santykių su valstybės tarnautojais nutraukimo;“.
 
-\#### 4 straipsnis. 22 straipsnio 5 dalies pakeitimas
+## 4 straipsnis. 22 straipsnio 5 dalies pakeitimas
 
 22 straipsnio 5 dalyje vietoj skaičiaus „9“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip:
 

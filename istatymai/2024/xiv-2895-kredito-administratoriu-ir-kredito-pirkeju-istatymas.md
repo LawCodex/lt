@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/461b0ed049a311efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.461B0ED049A3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatymas
@@ -26,15 +26,15 @@ KREDITO ADMINISTRATORIŲ IR KREDITO PIRKĖJŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šio įstatymo paskirtis – reglamentuoti kredito administratorių licencijavimo tvarką, kredito administratorių ir kredito pirkėjų teises ir pareigas, susijusias su skolininkais, kredito administratorių ir kredito pirkėjų priežiūrą bei atsakomybę vykdant kredito administravimą.
 
 2. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
 
-\#### 2 straipsnis. Įstatymo taikymo sritis
+## 2 straipsnis. Įstatymo taikymo sritis
 
 1. Šis įstatymas taikomas:
 
@@ -66,7 +66,7 @@ c) vartojimo kredito davėjas ar kredito davėjas, kurie nėra kredito įstaiga 
 
 4. Šio įstatymo nuostatos, susijusios su teisių pagal kredito sutartis, vartotojų ar skolininkų apsauga, taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, Lietuvos Respublikos vartojimo kredito įstatymas, Su nekilnojamuoju turtu susijusio kredito įstatymas, 2008 m. birželio 17 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 593/2008 dėl sutartinėms prievolėms taikytinos teisės (Roma I) su visais pakeitimais, 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo su visais pakeitimais ir kiti Lietuvos Respublikos ir Europos Sąjungos teisės aktai, reglamentuojantys vartotojų apsaugą ir skolininkų teises.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Buveinės valstybė narė – valstybė narė, kurioje yra:
 
@@ -116,11 +116,11 @@ c) vartojimo kredito davėjas ar kredito davėjas, kurie nėra kredito įstaiga 
 
 18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Su nekilnojamuoju turtu susijusio kredito įstatyme, Vartojimo kredito įstatyme.
 
-\## II SKYRIUS. KREDITO ADMINISTRATORIUS
+II SKYRIUS. KREDITO ADMINISTRATORIUS
 
-\### PIRMASIS SKIRSNIS. KREDITO ADMINISTRATORIAUS LICENCIJAVIMAS
+PIRMASIS SKIRSNIS. KREDITO ADMINISTRATORIAUS LICENCIJAVIMAS
 
-\#### 4 straipsnis. Kredito administratorius
+## 4 straipsnis. Kredito administratorius
 
 Teisę vykdyti kredito administravimą juridinis asmuo turi tik turėdamas priežiūros institucijos išduotą kredito administratoriaus licenciją (toliau – licencija) ir jeigu atitinka šiuos reikalavimus:
 
@@ -136,7 +136,7 @@ Teisę vykdyti kredito administravimą juridinis asmuo turi tik turėdamas prie�
 
 6) asmuo, turintis kredito administratoriaus kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atitinka šio įstatymo 8 straipsnio 3 dalyje nustatytus reikalavimus.
 
-\#### 5 straipsnis. Licencijos išdavimo tvarka
+## 5 straipsnis. Licencijos išdavimo tvarka
 
 1. Juridinis asmuo, norėdamas gauti licenciją, priežiūros institucijai turi pateikti prašymą ir šiuos dokumentus bei duomenis, išskyrus, kai tie dokumentai ir duomenys prieinami registrų informacinėse sistemose:
 
@@ -174,7 +174,7 @@ Teisę vykdyti kredito administravimą juridinis asmuo turi tik turėdamas prie�
 
 2) prašymą pateikęs juridinis asmuo, juridinio asmens vadovai ir (ar) asmuo, turintis juridinio asmens kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatitinka šio įstatymo 4 straipsnyje nustatytų reikalavimų.
 
-\#### 6 straipsnis. Licencijos galiojimo sustabdymas, sustabdymo panaikinimas, licencijos galiojimo panaikinimas
+## 6 straipsnis. Licencijos galiojimo sustabdymas, sustabdymo panaikinimas, licencijos galiojimo panaikinimas
 
 1. Licencijos galiojimas gali būti sustabdomas šio įstatymo 30 straipsnyje nustatytais pagrindais ir tvarka.
 
@@ -204,13 +204,13 @@ Teisę vykdyti kredito administravimą juridinis asmuo turi tik turėdamas prie�
 
 7. Sustabdžius licencijos galiojimą ar panaikinus jos galiojimą, kredito administratorius neturi teisės vykdyti kredito administravimo.
 
-\#### 7 straipsnis. Viešasis kredito administratorių sąrašas
+## 7 straipsnis. Viešasis kredito administratorių sąrašas
 
 Priežiūros institucija apie licencijų išdavimą, jų galiojimo panaikinimą ar sustabdymą ir sustabdymo panaikinimą, licencijų duomenų ar informacijos pakeitimą skelbia ir šią informaciją atnaujina priežiūros institucijos interneto svetainėje esančiame viešajame kredito administratorių sąraše priežiūros institucijos nustatyta tvarka ir Licencijų informacinės sistemos interneto svetainėje. Skelbiama informacija apima duomenis apie kredito administravimopaslaugų teikimą kitose valstybėse narėse, taip pat apie kitų valstybių narių kredito administratorius, teikiančius paslaugas Lietuvos Respublikoje.
 
-\### ANTRASIS SKIRSNIS. KREDITO ADMINISTRATORIAUS VALDYMAS
+ANTRASIS SKIRSNIS. KREDITO ADMINISTRATORIAUS VALDYMAS
 
-\#### 8 straipsnis. Kredito administratoriaus vadovai ir dalyviai
+## 8 straipsnis. Kredito administratoriaus vadovai ir dalyviai
 
 1. Kredito administratoriaus vadovas turi turėti kvalifikaciją ir darbo patirtį, užtikrinančią tinkamą šiame įstatyme nustatytų pareigų vykdymą. Kredito administratoriaus vadovo kvalifikacija ir darbo patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai. Kredito administratoriaus vadovo kvalifikacija ir darbo patirtis vertinamos priežiūros institucijos nustatyta tvarka, vadovaujantis Europos bankininkystės institucijos gairėmis, priimtomis įgyvendinant Direktyvos (ES) 2021/2167 5 straipsnio 2 dalį.
 
@@ -240,11 +240,11 @@ Priežiūros institucija apie licencijų išdavimą, jų galiojimo panaikinimą 
 
 2) priežiūros institucijai paprašius pateikti trūkstamus ar patikslintus dokumentus, duomenis ir (arba) informaciją, reikalingus sprendimui priimti, per priežiūros institucijos nurodytą terminą nepateikia prašomų dokumentų, duomenų ir (arba) informacijos.
 
-\## III SKYRIUS. KREDITO ADMINISTRAVIMO REIKALAVIMAI
+III SKYRIUS. KREDITO ADMINISTRAVIMO REIKALAVIMAI
 
-\### PIRMASIS SKIRSNIS. KREDITO ADMINISTRATORIAUS IR KREDITO PIRKĖJO SANTYKIAI SU SKOLININKU, SKOLININKO INFORMAVIMAS
+PIRMASIS SKIRSNIS. KREDITO ADMINISTRATORIAUS IR KREDITO PIRKĖJO SANTYKIAI SU SKOLININKU, SKOLININKO INFORMAVIMAS
 
-\#### 9 straipsnis. Kredito administratoriaus ir kredito pirkėjo santykių su skolininku palaikymo principai
+## 9 straipsnis. Kredito administratoriaus ir kredito pirkėjo santykių su skolininku palaikymo principai
 
 Kredito administratorius ir kredito pirkėjas, palaikydami santykius su skolininkais, turi:
 
@@ -256,7 +256,7 @@ Kredito administratorius ir kredito pirkėjas, palaikydami santykius su skolinin
 
 4) bendrauti su skolininkais etiškai.
 
-\#### 10 straipsnis. Skolininko informavimas apie kreditoriaus teisių pagal neveiksnią kredito sutartį perleidimą
+## 10 straipsnis. Skolininko informavimas apie kreditoriaus teisių pagal neveiksnią kredito sutartį perleidimą
 
 1. Perleidus teises pagal neveiksnią kredito sutartį kredito pirkėjui, visais atvejais prieš pirmą reikalavimą sumokėti skolą ir bet kada skolininko prašymu kredito pirkėjas, šio įstatymo 2 straipsnio 2 dalies 1 punkto a ar c papunkčiuose nurodytas subjektas, pasitelktas vykdyti kredito administravimą, arba kredito administratorius turi skolininkui pateikti patvariojoje laikmenoje aiškia kalba surašytą pranešimą, kuriame būtų nurodyta bent ši informacija:
 
@@ -282,9 +282,9 @@ Kredito administratorius ir kredito pirkėjas, palaikydami santykius su skolinin
 
 3. Pasikeitus kredito administratoriui, kredito pirkėjas privalo informuoti skolininką, pateikdamas informaciją apie naujai pasitelktą kredito administratorių pagal šio straipsnio 1 dalies 3, 4 ir 6 punktus.
 
-\### ANTRASIS SKIRSNIS. SUTARTINIAI KREDITO ADMINISTRATORIAUS IR KREDITO PIRKĖJO SANTYKIAI
+ANTRASIS SKIRSNIS. SUTARTINIAI KREDITO ADMINISTRATORIAUS IR KREDITO PIRKĖJO SANTYKIAI
 
-\#### 11 straipsnis. Kredito administravimo sutarčiai taikomi reikalavimai ir kredito administratoriaus pareiga informuoti kredito pirkėją apie licencijos galiojimo sustabdymą ar licencijos galiojimo panaikinimą
+## 11 straipsnis. Kredito administravimo sutarčiai taikomi reikalavimai ir kredito administratoriaus pareiga informuoti kredito pirkėją apie licencijos galiojimo sustabdymą ar licencijos galiojimo panaikinimą
 
 1. Kai kredito pirkėjas pats nevykdo kredito administravimo ir šiai veiklai vykdyti pasitelkia kredito administratorių, naujai pasitelktas kredito administratorius savo paslaugas, susijusias su kreditoriaus teisių pagal neveiksnią kredito sutartį administravimu ir vykdymo užtikrinimu, teikia vadovaudamasis su kredito pirkėju sudaryta kredito administravimo sutartimi, kurioje turi būti nurodyta:
 
@@ -304,9 +304,9 @@ Kredito administratorius ir kredito pirkėjas, palaikydami santykius su skolinin
 
 3. Sustabdžius licencijos galiojimą ar panaikinus licencijos galiojimą, kredito administratorius apie tai privalo nedelsdamas, ne vėliau kaip per 2 darbo dienas nuo priežiūros institucijos pranešimo apie licencijos galiojimo sustabdymą ar panaikinimą gavimo dienos, informuoti kredito pirkėją.
 
-\### TREČIASIS SKIRSNIS. IŠ SKOLININKŲ GAUTŲ LĖŠŲ APSAUGA, FINANSINIŲ ATASKAITŲ RINKINIAI IR DUOMENŲ TEIKIMAS
+TREČIASIS SKIRSNIS. IŠ SKOLININKŲ GAUTŲ LĖŠŲ APSAUGA, FINANSINIŲ ATASKAITŲ RINKINIAI IR DUOMENŲ TEIKIMAS
 
-\#### 12 straipsnis. Kredito administratorių laikomų iš skolininko (skolininkų) gautų lėšų apsaugos reikalavimai
+## 12 straipsnis. Kredito administratorių laikomų iš skolininko (skolininkų) gautų lėšų apsaugos reikalavimai
 
 1. Kredito administratoriai, vykdantys kredito administravimą, turi teisę gauti ir turėti lėšų iš skolininkų, kad tas lėšas pervestų kredito pirkėjams, jeigu licencijoje suteikta tokia teisė. Kredito administratorius, iš skolininko (skolininkų) gavęs lėšų ir jas laikydamas, privalo šias lėšas apsaugoti jas atskirdamas nuo savo ir kitų fizinių arba juridinių asmenų lėšų. Iš skolininko (skolininkų) gautos lėšos turi būti laikomos atskiroje depozitinėje sąskaitoje, atidarytoje Lietuvos Respublikos arba priimančiosios valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), ar, jeigu sudaroma tokia galimybė, Lietuvos banke arba priimančiosios valstybės narės centriniame banke, kol jos bus perduotos atitinkamam kredito pirkėjui pagal sąlygas, dėl kurių susitarta su kredito pirkėju. Kredito administratorius privalo imtis priemonių, užtikrinančių kredito pirkėjo (pirkėjų) nuosavybės teisių apsaugą, ypač jeigu kredito administratorius yra nemokus. Į skolininko (skolininkų) lėšas, perduotas kredito administratoriui, negali būti nukreiptas išieškojimas dėl kredito administratoriaus prievolių. Kai skolininkas (skolininkai) atlieka mokėjimą kredito administratoriui, kad iš dalies arba visiškai grąžintų mokėtinas sumas, susijusias su kreditoriaus teisėmis pagal neveiksnią kredito sutartį, tas mokėjimas laikomas mokėjimu kredito pirkėjui.
 
@@ -314,19 +314,19 @@ Kredito administratorius ir kredito pirkėjas, palaikydami santykius su skolinin
 
 3. Kredito administratorius privalo apie numatomus šiame straipsnyje nustatytų apsaugos reikalavimų, taikomų iš skolininko (skolininkų) gautoms lėšoms, esminius pasikeitimus prieš vieną mėnesį pranešti priežiūros institucijai.
 
-\#### 13 straipsnis. Kredito administratoriaus finansinių ataskaitų rinkiniai
+## 13 straipsnis. Kredito administratoriaus finansinių ataskaitų rinkiniai
 
 1. Kredito administratoriaus metiniai finansinių ataskaitų rinkiniai turi būti audituoti.
 
 2. Metinių finansinių ataskaitų rinkinio sudarymui taikomi Įmonių atskaitomybės įstatyme, Įmonių grupių konsoliduotosios atskaitomybės įstatyme, Akcinių bendrovių įstatyme ir Finansų įstaigų įstatyme nustatyti reikalavimai, o finansinių ataskaitų auditui ir jo atlikimo tvarkai – Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Akcinių bendrovių įstatyme ir Finansų įstaigų įstatyme nustatyti reikalavimai.
 
-\#### 14 straipsnis. Duomenų teikimas priežiūros institucijai ir tvarkymas
+## 14 straipsnis. Duomenų teikimas priežiūros institucijai ir tvarkymas
 
 Kredito administratoriai, atitinkantys priežiūros institucijos nustatyta tvarka apskaičiuotą reikšmingumo kriterijų pagal užimamą rinkos dalį, priežiūros institucijai privalo teikti pagal priežiūros institucijos reikalavimus detalizuotus duomenis apie skolininkus, kurių skolinius įsipareigojimus administruoja, ir turi teisę naudotis šiais duomenimis priežiūros institucijos nustatyta tvarka. Priežiūros institucija, vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais, turi teisę kaupti ir kitaip tvarkyti duomenis apie skolininkus pagal kredito administratorių administruojamas kredito sutartis.
 
-\## IV SKYRIUS. KREDITO ADMINISTRAVIMO PERDAVIMAS
+IV SKYRIUS. KREDITO ADMINISTRAVIMO PERDAVIMAS
 
-\#### 15 straipsnis. Reikalavimai, kai kredito administravimas perduodamas kredito administravimo paslaugų teikėjui
+## 15 straipsnis. Reikalavimai, kai kredito administravimas perduodamas kredito administravimo paslaugų teikėjui
 
 1. Jeigu kredito administratorius naudojasi kredito administravimo paslaugų teikėjo paslaugomis, taikomi šie reikalavimai:
 
@@ -346,9 +346,9 @@ Kredito administratoriai, atitinkantys priežiūros institucijos nustatyta tvark
 
 3. Kredito administravimo paslaugų teikėjai neturi teisės gauti ir turėti lėšų iš skolininkų.
 
-\## V SKYRIUS. KREDITO ADMINISTRATORIAUS TEISĖ VYKDYTI VEIKLĄ PRIIMANČIOJOJE VALSTYBĖJE NARĖJE IR KITOS VALSTYBĖS NARĖS KREDITO ADMINISTRATORIAUS TEISĖ VYKDYTI VEIKLĄ LIETUVOS RESPUBLIKOJE
+V SKYRIUS. KREDITO ADMINISTRATORIAUS TEISĖ VYKDYTI VEIKLĄ PRIIMANČIOJOJE VALSTYBĖJE NARĖJE IR KITOS VALSTYBĖS NARĖS KREDITO ADMINISTRATORIAUS TEISĖ VYKDYTI VEIKLĄ LIETUVOS RESPUBLIKOJE
 
-\#### 16 straipsnis. Kredito administratoriaus teisė vykdyti kredito administravimą priimančiojoje valstybėje narėje
+## 16 straipsnis. Kredito administratoriaus teisė vykdyti kredito administravimą priimančiojoje valstybėje narėje
 
 1. Kredito administratorius turi teisę šiame straipsnyje nustatyta tvarka vykdyti kredito administravimą priimančiojoje valstybėje narėje įsteigęs filialą ar vykdyti šią veiklą neįsteigęs filialo.
 
@@ -382,7 +382,7 @@ Kredito administratoriai, atitinkantys priežiūros institucijos nustatyta tvark
 
 8. Priežiūros institucija, atlikdama kredito administratoriaus, kuris vykdo kredito administravimą priimančiojoje valstybėje narėje, priežiūrą ir taikydama poveikio priemones, bendradarbiauja ir keičiasi informacija su priimančiosios valstybės narės priežiūros institucija ar valstybės narės, kurioje buvo suteiktas kreditas, priežiūros institucija, jeigu kreditas buvo suteiktas ne Lietuvos Respublikoje ar valstybėje narėje, kurioje kredito administratorius vykdo kredito administravimą.
 
-\#### 17 straipsnis. Kitos valstybės narės kredito administratoriaus teisė vykdyti kredito administravimą Lietuvos Respublikoje
+## 17 straipsnis. Kitos valstybės narės kredito administratoriaus teisė vykdyti kredito administravimą Lietuvos Respublikoje
 
 1. Kitos valstybės narės kredito administratorius šiame straipsnyje nustatyta tvarka turi teisę vykdyti kredito administravimą Lietuvos Respublikoje įsteigęs filialą arba neįsteigęs filialo.
 
@@ -392,13 +392,13 @@ Kredito administratoriai, atitinkantys priežiūros institucijos nustatyta tvark
 
 4. Priežiūros institucija bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija ar valstybės narės, kurioje buvo suteiktas kreditas, priežiūros institucija, jeigu kreditas buvo suteiktas ne Lietuvos Respublikoje ar valstybėje narėje, kurioje kredito administratorius vykdo kredito administravimą, kitos valstybės narės priežiūros institucijai atliekant šios valstybės narės kredito administratoriaus priežiūrą ir taikant poveikio priemones.
 
-\## VI SKYRIUS. KREDITO PIRKĖJAS
+VI SKYRIUS. KREDITO PIRKĖJAS
 
-\#### 18 straipsnis. Kredito pirkėjo teisė vykdyti kredito administravimą
+## 18 straipsnis. Kredito pirkėjo teisė vykdyti kredito administravimą
 
 Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administravimą, kai jis atitinka šio įstatymo 4 straipsnyje nustatytus reikalavimus ir šio įstatymo 5 straipsnyje nustatyta tvarka iš priežiūros institucijos gauna licenciją.
 
-\#### 19 straipsnis. Informacijos apie kreditoriaus teises pagal neveiksnią kredito sutartį pateikimas kredito pirkėjui ir priežiūros institucijai
+## 19 straipsnis. Informacijos apie kreditoriaus teises pagal neveiksnią kredito sutartį pateikimas kredito pirkėjui ir priežiūros institucijai
 
 1. Kredito įstaiga kredito pirkėjui privalo pateikti būtiną informaciją apie kreditoriaus teises pagal neveiksnią kredito sutartį ir užtikrinimo priemones, kad kredito pirkėjas galėtų įvertinti kreditoriaus teisių pagal neveiksnią kredito sutartį vertę ir tos sutarties vertės susigrąžinimo tikimybę, prieš sudarydamas sutartį dėl kreditoriaus teisių pagal neveiksnią kredito sutartį perleidimo. Kredito pirkėjas turi užtikrinti kredito įstaigos pateiktos informacijos apsaugą ir verslo duomenų konfidencialumą.
 
@@ -418,7 +418,7 @@ Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administ
 
 5. Kredito įstaiga šio straipsnio 1 dalyje nurodytą informaciją teikia kredito pirkėjui arba kitai kredito įstaigai, kai perleidžia kreditoriaus teises pagal neveiksnią kredito sutartį, vadovaudamasi 2023 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) 2023/2083, kuriuo nustatomi Europos Parlamento ir Tarybos direktyvos (ES) 2021/2167 16 straipsnio 1 dalies taikymo techniniai įgyvendinimo standartai, susiję su šablonais, kuriuos turi naudoti kredito įstaigos, teikdamos pirkėjams informaciją apie jų kredito pozicijas bankinėje knygoje, nustatytais reikalavimais.
 
-\#### 20 straipsnis. Kredito pirkėjo pareigos
+## 20 straipsnis. Kredito pirkėjo pareigos
 
 1. Kredito pirkėjas, kurio buveinė yra valstybėje narėje arba kuris turi registruotą buveinę valstybėje narėje ar, jeigu jis registruotos buveinės neturi, kurio pagrindinė buveinė yra valstybėje narėje, turi pasitelkti šio įstatymo 2 straipsnio 2 dalies 1 punkto a arba c papunktyje nurodytą subjektą arba kredito administratorių vykdyti kredito administravimą, susijusį su kreditoriaus teisėmis pagal neveiksnią kredito sutartį, sudarytą su vartotojais, išskyrus atvejus, kai pats kredito pirkėjas yra kredito administratorius.
 
@@ -432,7 +432,7 @@ Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administ
 
 6. Jeigu kredito pirkėjo pasitelkto kredito administratoriaus licencijos galiojimas buvo sustabdytas ir po 3 mėnesių licencijos galiojimo sustabdymas nebuvo panaikintas, kredito pirkėjas privalo nedelsdamas, bet ne vėliau kaip per 10 darbo dienų, su kitu kredito administratoriumi sudaryti naują kredito administravimo sutartį ir apie tai pranešti priežiūros institucijai ne vėliau kaip tą dieną, kai pradedamas kredito administravimas.
 
-\#### 21 straipsnis. Kredito pirkėjo pareigos, pasitelkiant kredito administratorių ar kitus subjektus
+## 21 straipsnis. Kredito pirkėjo pareigos, pasitelkiant kredito administratorių ar kitus subjektus
 
 1. Kai kredito pirkėjas arba kredito pirkėjo atstovas pasitelkia šio įstatymo 2 straipsnio 2 dalies 1 punkto a arba c papunktyje nurodytą subjektą ar kredito administratorių vykdyti kredito administravimą, susijusį su perleistomis kreditoriaus teisėmis pagal neveiksnią kredito sutartį, kredito pirkėjas arba jo atstovas turi pateikti priežiūros institucijai šio įstatymo 2 straipsnio 2 dalies 1 punkto a arba c papunktyje nurodyto subjekto ar kredito administratoriaus identifikavimo duomenis (juridinio asmens pavadinimą, juridinio asmens kodą) ir nurodyti adresą ne vėliau kaip tą dieną, kai pradedamas kredito administravimas.
 
@@ -440,13 +440,13 @@ Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administ
 
 3. Priežiūros institucija nedelsdama, bet ne vėliau kaip per 10 darbo dienų, perduoda pagal šio straipsnio 1 ir 2 dalis gautą informaciją priimančiosios valstybės narės priežiūros institucijai, kitos valstybės narės, kurioje kreditas buvo suteiktas, priežiūros institucijai ir naujo kredito administratoriaus buveinės valstybės narės priežiūros institucijai.
 
-\#### 22 straipsnis. Trečiosios šalies kredito pirkėjo atstovo paskyrimas
+## 22 straipsnis. Trečiosios šalies kredito pirkėjo atstovo paskyrimas
 
 1. Susitarus dėl kreditoriaus teisių pagal neveiksnią kredito sutartį perleidimo, kredito pirkėjas, kuris neturi buveinės ar registruotos buveinės arba pagrindinės buveinės Lietuvos Respublikoje arba kitoje valstybėje narėje, turi rašytiniu dokumentu paskirti atstovą, kurio buveinė ar registruota buveinė arba pagrindinė buveinė yra Lietuvos Respublikoje arba kitoje valstybėje narėje.
 
 2. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, be trečiosios šalies kredito pirkėjo arba vietoj jo dėl šiame įstatyme nustatytų reikalavimų laikymosi kreipiasi tiesiogiai į šio straipsnio 1 dalyje nurodytą trečiosios šalies kredito pirkėjo atstovą. Šio straipsnio 1 dalyje nurodytas trečiosios šalies kredito pirkėjo atstovas yra atsakingas už kredito pirkėjo pareigų, nustatytų šiame įstatyme, vykdymą.
 
-\#### 23 straipsnis. Kreditoriaus teisių pagal neveiksnią kredito sutartį perleidimas kredito pirkėjui ir priežiūros institucijos informavimas
+## 23 straipsnis. Kreditoriaus teisių pagal neveiksnią kredito sutartį perleidimas kredito pirkėjui ir priežiūros institucijos informavimas
 
 1. Kredito pirkėjas arba kredito pirkėjo atstovas, perleidžiantis kreditoriaus teises pagal neveiksnią kredito sutartį kitam kredito pirkėjui, privalo ne rečiau kaip kas 2 metus priežiūros instituciją informuoti apie naujo kredito pirkėjo ir kredito pirkėjo atstovo, jeigu jis yra paskirtas, juridinio asmens kodą arba, jeigu tokio kodo nėra, turi informuoti apie naujo kredito pirkėjo ar paskirto kredito pirkėjo atstovo arba naujo kredito pirkėjo ar jo atstovo vadovo ir asmenų, turinčių juridinio asmens – kredito pirkėjo ar jo atstovo kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, tapatybės duomenis ir naujo kredito pirkėjo arba jo atstovo adresą.
 
@@ -462,9 +462,9 @@ Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administ
 
 4. Priežiūros institucija pagal šio straipsnio 1, 2 ir 3 dalis gautą informaciją turi nedelsdama, bet ne vėliau kaip per 10 darbo dienų nuo informacijos gavimo dienos, perduoti priimančiosios valstybės narės priežiūros institucijai ir kredito pirkėjo buveinės valstybės narės priežiūros institucijai.
 
-\## VII SKYRIUS. PRIEŽIŪRA
+VII SKYRIUS. PRIEŽIŪRA
 
-\#### 24 straipsnis. Priežiūros institucija
+## 24 straipsnis. Priežiūros institucija
 
 1. Priežiūros institucija atlieka kredito administratorių, įskaitant jų filialus kitose valstybėse narėse, ir kredito administravimo paslaugų teikėjų priežiūrą pagal šio įstatymo nuostatas.
 
@@ -474,7 +474,7 @@ Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administ
 
 4. Priežiūros institucija nevykdo šiame įstatyme ir kituose teisės aktuose nustatytų asmens duomenų apsaugos užtikrinimo reikalavimų laikymosi priežiūros.
 
-\#### 25 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
+## 25 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
 1. Priežiūros institucija atlieka šias funkcijas:
 
@@ -508,11 +508,11 @@ Kredito pirkėjas, kuris yra juridinis asmuo, pats gali vykdyti kredito administ
 
 5. Priežiūros institucija, vertindama, kaip kredito administratorius įgyvendina šio įstatymo 4 straipsnio 2–4 punktuose nustatytus reikalavimus, vadovaujasi rizika pagrįstu požiūriu ir atsižvelgia į kredito administratoriaus veiklos dydį, pobūdį, mastą ir sudėtingumą bei apie vertinimo rezultatus priimančiųjų valstybių narių priežiūros institucijų prašymu arba savo iniciatyva informuoja priimančiosios valstybės narės priežiūros instituciją ir valstybės narės, kurioje suteiktas kredito administratoriaus administruojamas kreditas, priežiūros instituciją, jeigu ši valstybė narė nėra Lietuvos Respublika ar priimančioji valstybė narė. Priežiūros institucija šioje dalyje nurodytas kitų valstybių narių priežiūros institucijas visais atvejais informuoja apie kredito administratoriui skirtas poveikio priemones, keičiasi su jomis visa informacija, reikalinga šiame įstatyme nustatytoms funkcijoms ir pareigoms tinkamai atlikti.
 
-\#### 26 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+## 26 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
 
-\#### 27 straipsnis. Priežiūros institucijos atliekami patikrinimai
+## 27 straipsnis. Priežiūros institucijos atliekami patikrinimai
 
 1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir finansų rinką reglamentuojančių kitų teisės aktų, kurių laikymosi priežiūra priskirta jai.
 
@@ -522,7 +522,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 4. Priežiūros institucija turi pranešti kitos valstybės narės priežiūros institucijai apie ketinimą atlikti kredito administratoriaus filialo ar kredito administravimo paslaugų teikėjo patikrinimą kitoje valstybėje narėje.
 
-\#### 28 straipsnis. Kitų valstybių narių kredito administratorių, veikiančių Lietuvos Respublikoje, priežiūra
+## 28 straipsnis. Kitų valstybių narių kredito administratorių, veikiančių Lietuvos Respublikoje, priežiūra
 
 1. Kitų valstybių narių kredito administratorių, kurie vykdo kredito administravimą Lietuvos Respublikoje neįsteigę filialo, ir kitų valstybių narių kredito administratorių Lietuvos Respublikoje įsteigtų filialų priežiūrą atlieka kitos valstybės narės priežiūros institucija, tačiau tai neriboja priežiūros institucijos teisės atlikti jų priežiūrą atsižvelgiant į šio straipsnio nuostatas.
 
@@ -536,7 +536,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 4. Priežiūros institucija savo sprendimu turi teisę uždrausti kitos valstybės narės kredito administratoriui, kuris vykdo kredito administravimą neįsteigęs filialo arba per įsteigtą filialą Lietuvos Respublikoje, pažeisdamas šio įstatymo ir jo įgyvendinamųjų teisės aktų nuostatas, vykdyti kredito administravimą, kol kitos valstybės narės priežiūros institucija priima atitinkamą sprendimą arba kredito administratorius nutraukia pažeidimų vykdymą.
 
-\#### 29 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
+## 29 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
 
 Priežiūros institucija taiko asmenims šias poveikio priemones:
 
@@ -554,7 +554,7 @@ Priežiūros institucija taiko asmenims šias poveikio priemones:
 
 7) kitoje valstybėje narėje įsteigtam kredito administratoriui, veikiančiam Lietuvos Respublikoje, pažeidžiančiam šio įstatymo reikalavimus, uždraudžia vykdyti kredito administravimą Lietuvos Respublikoje.
 
-\#### 30 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
+## 30 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 1. Šiame įstatyme nustatytos poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
 
@@ -606,7 +606,7 @@ Priežiūros institucija taiko asmenims šias poveikio priemones:
 
 4. Poveikio priemones, kai šio įstatymo 5 straipsnio 1 dalies 5 punkte nurodytos kredito administratoriaus valdymo tvarkos ir vidaus kontrolės sistemos neužtikrina, kad būtų laikomasi Reglamento (ES) 2016/679 reikalavimų, taiko Valstybinė duomenų apsaugos inspekcija. Tokias poveikio priemones ir jų taikymo tvarką nustato Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas ir Reglamentas (ES) 2016/679.
 
-\#### 31 straipsnis. Baudos
+## 31 straipsnis. Baudos
 
 1. Priežiūros institucija skiria baudas:
 
@@ -624,21 +624,21 @@ Priežiūros institucija taiko asmenims šias poveikio priemones:
 
 6. Baudos dydis apskaičiuojamas vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
 
-\## VIII SKYRIUS. SKUNDŲ IR GINČŲ NAGRINĖJIMO TVARKA
+VIII SKYRIUS. SKUNDŲ IR GINČŲ NAGRINĖJIMO TVARKA
 
-\#### 32 straipsnis. Skundų (prašymų) nagrinėjimas
+## 32 straipsnis. Skundų (prašymų) nagrinėjimas
 
 1. Kredito administratoriai privalo priežiūros institucijos nustatyta tvarka nagrinėti skolininkų skundus (prašymus), susijusius su kredito administratorių vykdoma veikla (toliau – skundai).
 
 2. Kredito administratorius privalo išnagrinėti rašytinį skolininko skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą, naudodamas patvariąją laikmeną, jeigu dėl to susitarė kredito administratorius ir skolininkas. Išskirtiniais atvejais, kai dėl priežasčių, kurių kredito administratorius negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi informuoti skolininką, aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio skolininkas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Kredito administratorius skundus nagrinėja neatlygintinai.
 
-\#### 33 straipsnis. Skolininko ir kredito administratoriaus ar kredito pirkėjo ginčų nagrinėjimas
+## 33 straipsnis. Skolininko ir kredito administratoriaus ar kredito pirkėjo ginčų nagrinėjimas
 
 Kai skolininkas yra vartotojas, ginčai, kylantys dėl galiojančių neveiksnių kredito sutarčių, su kredito administratoriumi ar kredito pirkėju nagrinėjami Lietuvos banko įstatyme nustatyta vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka. Kiti vartojimo ginčai su kredito administratoriumi ar kredito pirkėju nagrinėjami Vartotojų teisių apsaugos įstatymo 22 straipsnyje nustatyta tvarka. Kai skolininkas yra juridinis asmuo, ginčai nagrinėjami civilinio proceso tvarka.
 
-\## IX SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+IX SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 34 straipsnis. Informacijos saugojimas ir asmens duomenų apsauga
+## 34 straipsnis. Informacijos saugojimas ir asmens duomenų apsauga
 
 1. Kredito administratorius ir kredito administravimo paslaugų teikėjas privalo 5 metus nuo šio įstatymo 11 straipsnio 1 dalyje nurodytos kredito administravimo sutarties ir, kai taikoma, šio įstatymo 15 straipsnio 1 dalies 3 punkte nurodytos sutarties dėl kredito administravimo perdavimo galiojimo pabaigos, išskyrus atvejus, jeigu kituose teisės aktuose nustatytas ilgesnis informacijos ir dokumentų saugojimo terminas, saugoti ir tvarkyti šią informaciją ir dokumentus:
 
@@ -656,7 +656,7 @@ Kai skolininkas yra vartotojas, ginčai, kylantys dėl galiojančių neveiksnių
 
 3. Asmens duomenys šio įstatymo įgyvendinimo tikslais tvarkomi vadovaujantis Reglamentu (ES) 2016/679, 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1725 dėl fizinių asmenų apsaugos Sąjungos institucijoms, organams, tarnyboms ir agentūroms tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinamas Reglamentas (EB) Nr. 45/2001 ir Sprendimas Nr. 1247/2002/EB, Asmens duomenų teisinės apsaugos įstatymu ir kitais asmens duomenų tvarkymą reglamentuojančiais teisės aktais.
 
-\#### 35 straipsnis. Tarpvalstybinis priežiūros institucijų bendradarbiavimas
+## 35 straipsnis. Tarpvalstybinis priežiūros institucijų bendradarbiavimas
 
 1. Priežiūros institucija, atlikdama šiame įstatyme jai pavestas funkcijas, bendradarbiauja, keičiasi informacija ir koordinuoja veiksmus su kitų valstybių narių priežiūros institucijomis.
 
@@ -664,7 +664,7 @@ Kai skolininkas yra vartotojas, ginčai, kylantys dėl galiojančių neveiksnių
 
 3. Priežiūros institucija, gavusi iš kitos valstybės narės konfidencialią informaciją, susijusią su šio įstatymo nuostatomis, privalo ją tinkamai naudoti ir saugoti profesinę paslaptį Lietuvos banko įstatymo 19 straipsnyje nustatyta tvarka.
 
-\#### 36 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 36 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. rugpjūčio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/90a95f50faf811e4b733cba410730a6c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.90A95F50FAF8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokesčio įstatymo Nr. X-864 pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ PAPILDOMOS BALTOJO CUKRAUS GAMYBOS KVOTOS IR PRIDĖTINĖS IZOGLIUKOZĖS GAMYBOS 
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokesčio įstatymo Nr. X-864 pripažinimas netekusiu galios
+## 1 straipsnis. Lietuvos Respublikos papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokesčio įstatymo Nr. X-864 pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokesčio įstatymą Nr. X-864.
 

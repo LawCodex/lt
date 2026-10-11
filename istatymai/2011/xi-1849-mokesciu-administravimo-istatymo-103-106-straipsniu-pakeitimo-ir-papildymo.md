@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DB0DFC8F3945"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DB0DFC8F3945.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 103, 106 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2004, Nr. [63-2243](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485))
 
-\#### 1 straipsnis. 103 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 103 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 103 straipsnį ir jį išdėstyti taip:
 
@@ -40,13 +40,13 @@ Pakeisti ir papildyti 103 straipsnį ir jį išdėstyti taip:
 
 2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka.“
 
-\#### 2 straipsnis. 106 straipsnio 1 dalies papildymas 5 punktu
+## 2 straipsnis. 106 straipsnio 1 dalies papildymas 5 punktu
 
 Papildyti 106 straipsnio 1 dalį 5 punktu:
 
 „5) priimant sprendimą dėl priverstinio mokestinės nepriemokos, užtikrintos priverstine hipoteka (įkeitimu), išieškojimo iš įkeisto turto. Šis sprendimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.“
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 

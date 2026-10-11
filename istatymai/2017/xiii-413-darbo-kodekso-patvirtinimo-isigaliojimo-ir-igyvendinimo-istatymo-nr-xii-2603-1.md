@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a959cf4050fe11e7846ef01bfffb9b64"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A959CF4050FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. XII-2603 1 straipsniu patvirtinto Lietuvos Respublikos darbo kodekso 21, 23, 31, 32, 38, 40, 41, 43, 48, 52, 53, 57, 63, 65, 71, 72, 73, 75, 76, 79, 112, 114, 115, 117, 120, 127, 144, 147, 168, 169, 171, 179, 181, 185, 195, 197, 204, 209, 217, 221, 237, 240, 241, 242 ir 250 straipsnių pakeitimo įstatymas

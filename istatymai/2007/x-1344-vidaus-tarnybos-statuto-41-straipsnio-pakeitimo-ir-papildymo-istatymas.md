@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DAC54711BFE8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DAC54711BFE8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 41 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2004, Nr. [167-6105](https://www.e-tar.lt/portal/lt/legalAct/TAR.5FD3703F0FB2), Nr. [171-6296](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A607C85C6E); 2006, Nr. [72-2681](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AA62FAA4FCE), Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340))
 
-\#### 1 straipsnis. 41 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 41 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 41 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 4. Buvusią 5 dalį laikyti 6 dalimi.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja 2008 m. sausio 1 d.
 
@@ -52,7 +52,7 @@ Vilnius
 
 3. Vidaus tarnybos pareigūnams, esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
 
-\#### 3 straipsnis. Pasiūlymai Vyriausybei
+## 3 straipsnis. Pasiūlymai Vyriausybei
 
 Pasiūlyti Vyriausybei parengti ir iki 2009 m. sausio 1 d. patvirtinti vidutinio darbo užmokesčio (vidutinio atlyginimo) apskaičiavimo tvarką reglamentuojančių teisės aktų pakeitimus – nustatyti, kad nuo 2009 m. sausio 1 d. vidutinis darbo užmokestis (vidutinis atlyginimas), mokamas pareigūnams (profesinės karo tarnybos kariams) nėštumo ir gimdymo atostogų laikotarpiu bei vaiko priežiūros atostogų laikotarpiu, būtų apskaičiuojamas iš šešių paeiliui einančių mėnesių, buvusių prieš nėštumo ir gimdymo bei vaiko priežiūros atostogų suteikimo mėnesį.
 

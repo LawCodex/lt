@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/205d24303aa311efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.205D24303AA3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo Nr. IX-1046 pripažinimo netekusiu galios įstatymas
@@ -26,11 +26,11 @@ LICENCIJUOTŲ SANDĖLIŲ IR SANDĖLIAVIMO DOKUMENTŲ ĮSTATYMO NR. IX-1046 PRIPA
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo Nr. IX-1046 pripažinimas netekusiu galios
+## 1 straipsnis. Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo Nr. IX-1046 pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymą Nr. IX-1046 su visais pakeitimais ir papildymais.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. rugsėjo 1 d.
 

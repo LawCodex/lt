@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2995A49BB881"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2995A49BB881.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 22 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [94-1833](https://www.e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE); 2007, Nr. [12-488](https://www.e-tar.lt/portal/lt/legalAct/TAR.0B0FDEFFCD5C))
 
-\#### 1 straipsnis. 22 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 22 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 22 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) Lietuvos bankas – Lietuvos banko įstatymo numatytais atvejais ir tvarka;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 

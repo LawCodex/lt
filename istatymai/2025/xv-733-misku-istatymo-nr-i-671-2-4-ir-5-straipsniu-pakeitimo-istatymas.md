@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/16f8d060eac411f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.16F8D060EAC4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4 ir 5 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ MIŠKŲ ĮSTATYMO NR. I-671 2, 4 IR 5 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip:
 
 „14. **Miško medelynas***–*iš vieno ar daugiau žemės sklypų sudarytas plotas, kuriame atvirame grunte ir (ar) šiltnamiuose auginami miško sodmenys ir įrengta jiems auginti reikalinga infrastruktūra – komposto ruošimo vieta, laistymo sistema ir (ar) vandens telkinys, inžineriniai statiniai ir administracinių, augalams auginti, garažų ir sandėliavimo paskirčių pastatai.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip:
 
 „12. Valstybinės žemės sklypus, skirtus miškui veisti ir (ar) kuriuose yra miško žemė, patikėjimo teise valdo miškų urėdija, saugomų teritorijų direkcijos, savivaldybės, Nacionalinė žemės tarnyba prie Aplinkos ministerijos ir kiti juridiniai asmenys. Šiems subjektams (išskyrus Nacionalinę žemės tarnybą) valstybinės žemės sklypai, kurie skirti miškui įveisti ir (ar) kuriuose yra miško žemė, patikėjimo teise perduodami Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Žemės įstatyme nustatyta tvarka arba miškų urėdija veikia valstybės vardu valstybei įsigyjant nuosavybėn privačius žemės sklypus, kurie skirti miškui įveisti ir (ar) kuriuose yra miško žemė, šiame įstatyme nustatytoms valstybinėms funkcijoms atlikti.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 5 dalies 1 punktą ir jį išdėstyti taip:
 

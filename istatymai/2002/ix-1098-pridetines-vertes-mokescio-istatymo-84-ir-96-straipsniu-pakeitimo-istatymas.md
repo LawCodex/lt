@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B70CF4AB48EF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B70CF4AB48EF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 84 ir 96 straipsnių pakeitimo įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5))
 
-\#### 1 straipsnis. 84 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 84 straipsnio 4 dalies pakeitimas
 
 Pakeisti 84 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Fizinio asmens PVM mokėtojo mokestinis laikotarpis yra kalendorinis pusmetis, jeigu fizinis asmuo nesikreipia į vietos mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį mėnesį. Mokestinis laikotarpis gali būti pakeistas į kalendorinį mėnesį nuo kito (po prašymo pateikimo) kalendorinio pusmečio pradžios. Jeigu mokestiniu laikotarpiu fizinis asmuo pasirenka kalendorinį mėnesį, jis gali kreiptis su prašymu mokestiniu laikotarpiu vėl laikyti kalendorinį pusmetį, tačiau mokestinis laikotarpis gali būti taip pakeistas ne anksčiau kaip nuo kito (po prašymo pateikimo) kalendorinio pusmečio pradžios.“
 
-\#### 2 straipsnis. 96 straipsnio 1 dalies pripažinimas netekusia galios
+## 2 straipsnis. 96 straipsnio 1 dalies pripažinimas netekusia galios
 
 96 straipsnio 1 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 Fiziniams asmenims PVM mokėtojams, kurie 2002 m. II pusmetį kreipsis į vietos mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį mėnesį, mokestinis laikotarpis gali būti pakeistas anksčiau negu nuo 2003 m. sausio mėnesio, t. y. nuo kito po prašymo pateikimo 2002 m. II pusmečio kalendorinio mėnesio pradžios. Toks PVM mokėtojas privalo pateikti PVM deklaraciją už visus (iki mokestinio laikotarpio pakeitimo pradžios) 2002 m. II pusmečio kalendorinius mėnesius iki mokestinio laikotarpio pakeitimo pirmojo kalendorinio mėnesio 25 dienos. Mokėtina į biudžetą PVM suma apskaičiuojama laikantis 89 straipsnio nuostatų ir turi būti sumokėta iki PVM deklaracijos pateikimo termino pabaigos. Susidariusi grąžintina PVM suma įskaitoma ir grąžinama laikantis 91 straipsnio nuostatų.“
 

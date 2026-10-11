@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2d87d380cc3311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2D87D380CC33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 16, 17, 21-1, 22, 22-1, 31, 35, 39, 39-1, 40-1, 41-1, 46, 46-2, 46-3, 47, 48, 48-2, 48-3, 48-4, 51, 52, 52-1, 61, 61-1, 61-2, 67, 69, 73-2, 76 straipsnių, priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas
@@ -26,7 +26,7 @@ ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 2, 6, 7, 9, 16, 17, 211, 22, 221, 3
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 „110^2. Sąvokos „pajėgumų užtikrinimo mechanizmas“, „piko mažinimo produktas“, „piko valanda“, „skirtasis matuoklis“ suprantamos taip, kaip apibrėžiamos Reglamente [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt).“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 1. Papildyti 6 straipsnio 2 dalį nauju 5 punktu:
 
@@ -74,7 +74,7 @@ Vilnius
 
 2. Buvusį 6 straipsnio 2 dalies 5 punktą laikyti 6 punktu.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Vilnius
 
 3. Buvusį 7 straipsnio 20 punktą laikyti 21 punktu.
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 3 dalies 22 punktą ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Vilnius
 
 „13) kaip užtikrinamos aktyviųjų vartotojų ir piliečių energetikos bendrijų teisės ir teisėti interesai, įskaitant nepagrįstų kliūčių ir apribojimų jų veiklaiir su pasigaminamos elektros energijos vartojimu susijusios veiklos plėtrai šalinimą;“.
 
-\#### 5 straipsnis. 16 straipsnio pakeitimas
+## 5 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 19 dalį ir ją išdėstyti taip:
 
@@ -126,13 +126,13 @@ Vilnius
 
 „29. Leidimai plėtoti energijos kaupimo pajėgumus ir generuoti elektros energiją iš energijos kaupimo įrenginių nereikalingi, jeigu asmuo numato statyti ar įrengti energijos kaupimo įrenginį tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, tai yra kai leistina generuoti galia lygi nuliui, taip pat jeigu asmuo generuoja iš energijos kaupimo įrenginio elektros energiją, pagamintą ne didesnės kaip 100 kW elektros energijos įrengtosios galios iš atsinaujinančių išteklių gamybos įrenginiuose, kai energijos kaupimo įrenginio įrengtoji galia ne didesnė kaip 100 kW.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio straipsnio 2 dalyje nustatyta sąlyga dėl licencijos ar leidimo išdavimo termino netaikoma, kai vyksta teisminiai ginčai su kitais asmenimis dėl licencijuojamos ar leidimais reguliuojamos veiklos sąlygų (teritorijos) ir kai yra prašoma išduoti elektros energijos perdavimo, skirstymo ar visuomeninio tiekimo veiklos licenciją teritorijoje, kurioje jau yra išduota elektros energijos perdavimo, skirstymo ar visuomeninio tiekimo veiklos licencija, ar dėl kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjas apie tai yra informuotas Licencijavimo taisyklėse ar Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. Šiuo atveju licencija ar leidimas išduodami arba rašytinis motyvuotas atsisakymas pareiškėjui išduoti licenciją ar leidimą pateikiamas ne vėliau kaip per 30 kalendorinių dienų, pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus kitų priežasčių, pateisinamų svarbiais visuomenės interesais, dėl kurių buvo atidėtas sprendimo dėl licencijos ar leidimo išdavimo priėmimas.“
 
-\#### 7 straipsnis. 211 straipsnio pakeitimas
+## 7 straipsnis. 211 straipsnio pakeitimas
 
 Pakeisti 21^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 21^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
 5) priimamas šio įstatymo 732 straipsnyje nurodytas sprendimas, kad šis asmuo neatitinka nacionalinio saugumo interesų.“
 
-\#### 8 straipsnis. 22 straipsnio pakeitimas
+## 8 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 9 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -158,13 +158,13 @@ Pakeisti 21^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „9^7. Gamintojas, kurio gamybos įrenginių prijungimo taške planuojama leistina generuoti galia yra ne mažesnė kaip 6 MW, tinklų operatoriui pateiktame prašyme pasirašyti ketinimų protokolą kartu privalo pateikti informaciją apie su juridiniu asmeniu, kai gamintojas yra juridinis asmuo, susijusius asmenis, tai yra fizinius ir juridinius asmenis, kurie tiesiogiai ar netiesiogiai (per juridinį asmenį, kuriame valdo ne mažiau kaip 25 procentus akcijų (teisių, pajų), suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime) valdo daugiau kaip 25 procentus juridinio asmens akcijų (teisių, pajų), suteikiančių teisę balsuoti šio juridinio asmens dalyvių susirinkime. Jeigu ketinimų protokolo galiojimo laikotarpiu keičiasi su juridiniu asmeniu susiję asmenys, gamintojas privalo pateikti tinklų operatoriui informaciją apie su juridiniu asmeniu susijusių asmenų pasikeitimus, o tuo atveju, kai keičiasi su gamintoju, kurio gamybos įrenginių prijungimo taške planuojama leistina generuoti galia yra ne mažesnė kaip 50 MW, susiję asmenys, gamintojas apie su juridiniu asmeniu susijusių asmenų pasikeitimus, dėl kurių turi būti atlikta šio įstatymo 73^2 straipsnyje numatyta patikra, privalo informuoti tinklų operatorių. Šios dalies nuostata netaikoma gamintojui, siekiančiam dalyvauti Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 22^1 straipsniuose nurodytuose konkursuose.“
 
-\#### 9 straipsnis. 221 straipsnio pakeitimas
+## 9 straipsnis. 221 straipsnio pakeitimas
 
 Papildyti 22^1 straipsnį 5^2 dalimi:
 
 „5^2. Elektros energijos gamybos įrenginyje, kurio prijungimo prie elektros tinklų taškas nesutampa su elektros energijos vartojimo vietos prijungimo tašku, visas pagamintas elektros energijos kiekis ar atskiram aktyviajam vartotojui priskirta jo dalis laikomi patiektais į elektros tinklus, nepaisant aktyviojo vartotojo ar jų grupės elektros energijos vartojimo kiekio. Tokiu atveju su aktyviojo vartotojo viena elektros energijos vartojimo vieta gali būti susieti tik to paties aktyviojo vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomi elektros energijos gamybos įrenginiai arba jų dalys. Vienai elektros energijos vartojimo vietai aktyvusis vartotojas gali priskirti kelis elektros energijos gamybos įrenginius ar jų dalis, nepaisant jų buvimo vietos.“
 
-\#### 10 straipsnis. 31 straipsnio pakeitimas
+## 10 straipsnis. 31 straipsnio pakeitimas
 
 1. Papildyti 31 straipsnio 1 dalį nauju 36 punktu:
 
@@ -204,19 +204,19 @@ Papildyti 22^1 straipsnį 5^2 dalimi:
 
 „10. Perdavimo sistemos operatorius, siekdamas skatinti paklausos telkimo plėtrą, konsultuojasi su rinkos dalyviais ir, atsižvelgdamas į paklausos telkimo galimybes (paklausos telkimo potencialą ir galimybes jį panaudoti elektros energetikos sistemoje), remdamasis elektros energetikos sistemos techniniais reikalavimais ir poreikiais, nustato ir savo interneto svetainėje paskelbia paklausos telkėjų dalyvavimo elektros energijos rinkoje nediskriminacines technines sąlygas, kuriomis įgyvendinama paklausos telkėjų teisė teikti prekybos pasiūlymus viename ar daugiau elektros energijos rinkos segmentų, tarp jų ir balansavimo paslaugų rinkoje, ir (ar) siūlyti paslaugas elektros energijos rinkoje. Perdavimo sistemos operatorius taip pat rengia telkiant perdavimo sistemos operatoriui suteiktų paslaugų apimties nustatymo tvarkos aprašą, kurį suderina su Taryba ir paskelbia savo interneto svetainėje. Šiame apraše nustatyta pradinės elektros energijos paklausos nustatymo tvarka diferencijuojama pagal perdavimo sistemos operatoriaus numatytą telkimo modelį, teikiamas papildomas paslaugas ir (ar) naudojamo elektros įrenginio pobūdį.“
 
-\#### 11 straipsnis. 35 straipsnio pakeitimas
+## 11 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Skirstomųjų tinklų operatorius privalo užtikrinti tinklų naudotojams, įskaitant piliečių energetikos bendrijas ir atsinaujinančių išteklių energijos bendrijas, ir paklausos telkėjams nediskriminacines naudojimosi skirstomaisiais tinklais sąlygas, atsižvelgdamas į technines paklausos telkimo galimybes ir sąlygas.“
 
-\#### 12 straipsnis. 39 straipsnio pakeitimas
+## 12 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnio 2^1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „2^1. Tarybos nustatytais principais ir kriterijais Pasinaudojimo elektros tinklais tvarkos apraše nustatoma elektros tinklų pralaidumų rezervavimo tvarka. Prijungimo pajėgumų arba eksploatavimo apribojimų nustatymo principai ir (ar) kriterijai turi užtikrinti efektyvaus tinklo išnaudojimo principų laikymąsi. Siekiant užtikrinti efektyvų elektros tinklų išnaudojimą, tinklų naudotojų elektros įrenginiai taip pat gali būti Pasinaudojimo elektros tinklais tvarkos apraše nurodyta tvarka ir sąlygomis prijungti prie skirstomųjų elektros tinklų, nustatant jų elektros įrenginių eksploatavimo apribojimus pagal kintančią leistiną generuoti galią ir (ar) kintančią leistiną naudoti galią. Eksploatavimo apribojimų pagal kintančią leistiną generuoti galią ir (ar) kintančią leistiną naudoti galią taikymas negali riboti esamų tinklų naudotojų bei tinklų naudotojų, rezervavusių ar siekiančių rezervuoti leistiną generuoti galią ir (ar) leistiną naudoti galią, pasinaudojimo elektros tinklais galimybių, o tinklų naudotojas, sutikęs su šiais apribojimais, gali naudotis elektros tinklais tol, kol yra laisvos kintančios leistinos generuoti galios ir (ar) laisvos kintančios leistinos naudoti galios. Pasinaudojimo elektros tinklais tvarkos apraše turi būti užtikrinamos sąlygos įgyvendinti Atsinaujinančių išteklių energetikos įstatyme nustatytus tikslus ir uždavinius, taip pat strateginio lygmens planavimo dokumentuose nustatytus energetikos politikos strateginius tikslus ir (ar) pažangos uždavinius ir (ar) Nacionaliniame energetikos ir klimato srities veiksmų plane numatytas įgyvendinimo priemones. Prie skirstomųjų elektros tinklų pralaidumai rezervuojami prioriteto tvarka:“.
 
-\#### 13 straipsnis. 39 straipsnio pakeitimas
+## 13 straipsnis. 39 straipsnio pakeitimas
 
 1. Papildyti 39 straipsnio 1 dalį 13 punktu:
 
@@ -250,19 +250,19 @@ Pakeisti 39 straipsnio 2^1 dalies nuostatą iki dvitaškio ir ją išdėstyti ta
 
 5) nuostata, kad tinklų naudotojas įdiegtų prijungiamų elektros įrenginių valdymo sistemą, užtikrinančią leistinos naudoti galios ir (ar) leistinos generuoti galios ribojimą ar kontrolę pagal lanksčiojo prijungimo sąlygas.“
 
-\#### 14 straipsnis. 391 straipsnio pakeitimas
+## 14 straipsnis. 391 straipsnio pakeitimas
 
 Pakeisti 39^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Skirstomųjų tinklų plėtra ir jai skirtos investicijos grindžiamos tinklo plėtros planu. Skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, kas 2 metus rengia 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, grindžiamą jo veiklos licencijoje nurodytoje teritorijoje esama ir numatoma elektros energijos pasiūla ir paklausa (planuojamais naujai prijungti gamybos pajėgumais ir vartotojų skaičiumi, įskaitant įkrovimo prieigas) bei perdavimo sistemos operatoriaus pagrįstomis prielaidomis apie elektros energijos gamybos, tiekimo, vartojimo ir tarpsisteminių elektros energijos srautų tendencijas, elektros tinklo patikimumu, leistinu įrangos tarnavimo amžiumi, taip pat strateginio lygmens planavimo dokumentuose nustatytais energetikos politikos strateginiais tikslais ir (ar) pažangos uždaviniais ir (ar) Nacionaliniame energetikos ir klimato srities veiksmų plane numatytomis įgyvendinimo priemonėmis, įskaitant išmaniųjų energijos tinklų ir išmaniųjų apskaitos sistemų plėtros tikslus ir (ar) uždavinius, elektros energetikos sektoriaus veiklos reguliavimo bendraisiais principais, taip pat tinklo optimizavimo galimybėmis, grindžiamomis energijos vartojimo efektyvumo didinimu siekiant įgyvendinti Energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą, reikiamomis vidutinės trukmės ir (ar) ilgalaikėmis lankstumo paslaugomis. Taip pat skirstomųjų tinklų operatoriaus 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plane stebėjimo duomenų pagrindu kiekybiškai įvertina bendrą skirstomųjų tinklų operatoriaus skirstomųjų tinklų elektros energijos nuostolių dydį, nurodo skirstomųjų tinklų optimizavimo ir efektyvumo didinimo priemones, kurias įmanoma techniškai ir finansiškai įgyvendinti, ir mažinant skirstomųjų tinklų elektros energijos nuostolius numatomą sutaupyti energijos kiekį. Skirstomųjų tinklų operatoriaus licencijoje nurodyta teritorija planavimo tikslais skirstoma į atskiras planavimo teritorijas pagal skirstomųjų tinklų operatoriaus analitiškai įvertinamą skirstomojo tinklo savybių vienarūšiškumą, taip pat atsižvelgiant į Lietuvos Respublikos teritorijos bendrojo plano koncepcijoje numatytas erdvinio vystymo kryptis ir teritorijų naudojimo funkcinius prioritetus.“
 
-\#### 15 straipsnis. 401 straipsnio pakeitimas
+## 15 straipsnis. 401 straipsnio pakeitimas
 
 Pakeisti 40^1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Skirstomųjų tinklų operatorius, įsigydamas lankstumo paslaugas ir jomis naudodamasis, taiko prekybos lankstumo paslaugomis tvarkos apraše nustatytas lankstumo paslaugų specifikacijas. Prekybos lankstumo paslaugomis tvarkos apraše nustatant lankstumo paslaugų specifikacijas ir (ar) standartizuotus lankstumo paslaugų produktus, turi būti užtikrintos visų rinkos dalyvių galimybės dalyvauti teikiant šias paslaugas nediskriminacinėmis sąlygomis. Rengdamas prekybos lankstumo paslaugomis tvarkos aprašą ir jį taikydamas, skirstomųjų tinklų operatorius privalo užtikrinti, kad lankstumo paslaugoms įsigyti būtų taikoma skaidri, dalyvavimu ir rinkos veikimu grindžiama procedūra, užtikrinanti veiksmingą ir nediskriminacinį visų susijusių rinkos dalyvių, įskaitant rinkos dalyvius, vykdančius elektros energijos gamybą iš atsinaujinančių išteklių, elektros energijos pasiūlos ir paklausos valdymą, paklausos telkimą ir energijos kaupimą, dalyvavimą. Skirstomųjų tinklų operatorius, rengdamas prekybos lankstumo paslaugomis tvarkos aprašą, įtraukia pradinės elektros energijos paklausos kiekio apskaičiavimo tvarką ir sąlygas, kurios diferencijuojamos pagal skirstomųjų tinklų operatoriaus taikomą telkimo modelį, teikiamas lankstumo paslaugas ir (ar) naudojamo elektros įrenginio pobūdį.“
 
-\#### 16 straipsnis. 411 straipsnio pakeitimas
+## 16 straipsnis. 411 straipsnio pakeitimas
 
 Pakeisti 41^1 straipsnį ir jį išdėstyti taip:
 
@@ -276,7 +276,7 @@ Pakeisti 41^1 straipsnį ir jį išdėstyti taip:
 
 4. Įkrovimo prieigos ir įkrovimo stotelės gali būti prijungiamos prie bendrosios dalinės nuosavybės teisės objektuose esančio lokaliojo elektros tinklo arba elektros tinklų vieno iš bendraturčių iniciatyva (įskaitant įkrovimo stotelės montavimą prie statinio konstrukcijos) be kitų bendraturčių sutikimo, jeigu dėl įkrovimo prieigos ir (ar) įkrovimo stotelės prijungimo kiti bendraturčiai nepatirs išlaidų, dėl kurių jie nėra davę sutikimo.“
 
-\#### 17 straipsnis. 46 straipsnio pakeitimas
+## 17 straipsnis. 46 straipsnio pakeitimas
 
 1. Pakeisti 46 straipsnio 6 dalies 8 punktą ir jį išdėstyti taip:
 
@@ -286,11 +286,11 @@ Pakeisti 41^1 straipsnį ir jį išdėstyti taip:
 
 „10. Vartotojai, sudarę fiksuotos kainos sutartį, turi teisę dalyvauti vartotojo elektros energijos paklausos pokyčio valdyme ir prisidėti prie elektros energijos sistemos lankstumo poreikių užtikrinimo.“
 
-\#### 18 straipsnis. 462 straipsnio pakeitimas
+## 18 straipsnis. 462 straipsnio pakeitimas
 
 Pripažinti netekusia galios 46^2 straipsnio 3 dalį.
 
-\#### 19 straipsnis. 463 straipsnio pakeitimas
+## 19 straipsnis. 463 straipsnio pakeitimas
 
 1. Pakeisti 463 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -304,7 +304,7 @@ Pripažinti netekusia galios 46^2 straipsnio 3 dalį.
 
 „10. Taryba apskaičiuoja buitinių vartotojų patirtą nuostolių sumą proporcingai prievolių įvykdymo užtikrinimo sumos ir visų buitinių vartotojų pateiktų reikalavimų santykiui Vyriausybės nustatyta tvarka. Apskaičiuota nuostolio suma visiems į Tarybą besikreipusiems buitiniams vartotojams išmokama ne vėliau kaip per 5 darbo dienas nuo išmokos gavimo šio straipsnio 11 dalyje nustatyta tvarka Taryboje dienos.“
 
-\#### 20 straipsnis. 47 straipsnio pakeitimas
+## 20 straipsnis. 47 straipsnio pakeitimas
 
 1. Pakeisti 47 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -314,7 +314,7 @@ Pripažinti netekusia galios 46^2 straipsnio 3 dalį.
 
 „3. Buitiniai vartotojai, labai mažos įmonės ir mažos įmonės, kaip jos apibrėžiamos Smulkiojo ir vidutinio verslo plėtros įstatyme, turi teisę vienašališkai nutraukti elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju ir turi teisę pakeisti nepriklausomą tiekėją apie tai raštu įspėdami nepriklausomą tiekėją ne vėliau kaip prieš 2 savaites ir ne vėliau kaip per vieną mėnesį nuo šio įstatymo 51 straipsnio 9 dalyje nurodytos galutinės (uždarymo) sąskaitos gavimo dienos visiškai atsiskaitydami su nepriklausomu tiekėju už suvartotą elektros energiją ir (ar) suteiktas paslaugas. Elektros energijos pirkimo–pardavimo sutartyse arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartyse, sudarytose su buitiniais vartotojais, labai mažomis įmonėmis ir mažomis įmonėmis, kaip jos apibrėžiamos Smulkiojo ir vidutinio verslo plėtros įstatyme, draudžiama numatyti sutarties nutraukimo, tiekėjo keitimo mokesčius ir (ar) netesybas, kurie būtų taikomi šioje dalyje nurodytiems vartotojams už vienašališką elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimą.“
 
-\#### 21 straipsnis. 48 straipsnio pakeitimas
+## 21 straipsnis. 48 straipsnio pakeitimas
 
 1. Pakeisti 48 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -326,7 +326,7 @@ Pripažinti netekusia galios 46^2 straipsnio 3 dalį.
 
 3. Pripažinti netekusia galios 48 straipsnio 9 dalį.
 
-\#### 22 straipsnis. 482 straipsnio pakeitimas
+## 22 straipsnis. 482 straipsnio pakeitimas
 
 1. Pakeisti 482 straipsnio 13 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -340,19 +340,19 @@ Pripažinti netekusia galios 46^2 straipsnio 3 dalį.
 
 „27. Energijos kaupimo įrenginį planuojantis statyti ar įrengti asmuo, kurio energijos kaupimo įrenginio ar įrenginių prijungimo taške planuojama leistina generuoti galia yra ne mažesnė kaip 6 MW, tinklų operatoriui pateiktame prašyme pasirašyti ketinimų protokolą privalo pateikti informaciją apie su juridiniu asmeniu, kai energijos kaupimo įrenginį planuojantis statyti ar įrengti asmuo yra juridinis asmuo, susijusius asmenis, tai yra fizinius ir juridinius asmenis, kurie tiesiogiai ar netiesiogiai (per juridinį asmenį, kuriame valdo ne mažiau kaip 25 procentus akcijų (teisių, pajų), suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime) valdo daugiau kaip 25 procentus juridinio asmens akcijų (teisių, pajų), suteikiančių teisę balsuoti šio juridinio asmens dalyvių susirinkime. Jeigu ketinimų protokolo galiojimo laikotarpiu keičiasi su juridiniu asmeniu susiję asmenys, energijos kaupimo įrenginį planuojantis statyti ar įrengti asmuo privalo pateikti tinklų operatoriui informaciją apie su juridiniu asmeniu susijusių asmenų pasikeitimus, o tuo atveju, kai keičiasi su energijos kaupimo įrenginį planuojančiu statyti ar įrengti asmeniu, kurio energijos kaupimo įrenginio ar įrenginių prijungimo taške planuojama leistina generuoti galia yra ne mažesnė kaip 50 MW, susiję asmenys, energijos kaupimo įrenginį planuojantis statyti ar įrengti asmuo apie su juridiniu asmeniu susijusių asmenų pasikeitimus, dėl kurių turi būti atlikta šio įstatymo 73^2 straipsnyje numatyta patikra, privalo informuoti tinklų operatorių.“
 
-\#### 23 straipsnis. 483 straipsnio pakeitimas
+## 23 straipsnis. 483 straipsnio pakeitimas
 
 Pakeisti 48^3 straipsnio 2^1 dalį ir ją išdėstyti taip:
 
 „2^1. Šio straipsnio 1 dalis netaikoma ir perdavimo tinklų operatorius neprivalo Tarybai teikti prašymo leisti turėti nuosavybės teise, plėtoti, valdyti arba eksploatuoti šio įstatymo 2 straipsnio 63 dalyje nurodytus įrenginius, kai šie įrenginiai yra kondensatoriai ar kitos technologijos ir bus naudojami tik elektros tinklų įtampos parametrams gerinti, reaktyvios ir aktyvios galios balansui tinkle užtikrinti, įtampos kokybės ar kitoms tinklo saugumą, stabilumą ir (ar) patikimumą užtikrinančioms funkcijoms atlikti bei prisidėti prie skirtingų elektros energetikos sistemos dalių sinchronizavimo, o ne energijai kaupti.“
 
-\#### 24 straipsnis. 484 straipsnio pakeitimas
+## 24 straipsnis. 484 straipsnio pakeitimas
 
 Pakeisti 48^4 straipsnio 2^1dalį ir ją išdėstyti taip:
 
 „2^1. Šio straipsnio 1 dalis netaikoma ir skirstomųjų tinklų operatorius neprivalo Tarybai teikti prašymo leisti turėti nuosavybės teise, plėtoti, valdyti arba eksploatuoti šio įstatymo 2 straipsnio 63 dalyje nurodytus įrenginius, kai šie įrenginiai yra kondensatoriai ar kitos technologijos ir bus naudojami tik elektros tinklų įtampos parametrams gerinti, reaktyvios ir aktyvios galios balansui tinkle užtikrinti, įtampos kokybės ar kitoms tinklo saugumą, stabilumą ir (ar) patikimumą užtikrinančioms funkcijoms vykdyti bei prisidėti prie skirtingų elektros energetikos sistemos dalių sinchronizavimo, o ne energijai kaupti.“
 
-\#### 25 straipsnis. 51 straipsnio pakeitimas
+## 25 straipsnis. 51 straipsnio pakeitimas
 
 1. Pakeisti 51 straipsnio 2 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -362,7 +362,7 @@ Pakeisti 48^4 straipsnio 2^1dalį ir ją išdėstyti taip:
 
 „2^1. Prieš sudarant, keičiant ar pratęsiant fiksuotos kainos sutartį ar kintamosios kainos sutartį, nepriklausomi tiekėjai privalo pateikti vartotojams suprantamą ir glaustą pagrindinių sutarties sąlygų santrauką, apimančią šio straipsnio 2 ir 3 dalyse nurodytą informaciją, taip pat informaciją apie elektros energijos kainą, nurodydami jos sudedamąsias dalis ir paaiškindami, ar elektros energijos kaina yra fiksuota ar kintamoji, lanksčius atsiskaitymo pasiūlymus, vienkartinius mokėjimus, papildomas paslaugas ir nuolaidas. Nepriklausomi tiekėjai santraukoje privalo informuoti vartotojus, su kuriais ketinama sudaryti fiksuotos kainos sutartį ar kintamosios kainos sutartį, apie fiksuotos kainos sutarčių ar kintamosios kainos sutarčių teikiamas galimybes, veiksnius, kurie turi įtakos kintamosios elektros energijos kainos sandarai ir kainos kitimui, su tokiomis sutartimis susijusias išlaidas ir jų keliamą riziką, taip pat kintamosios elektros energijos kainos sutarties atveju informuoti apie reikalingumą įrengti išmaniąsias apskaitos sistemas.“
 
-\#### 26 straipsnis. 52 straipsnio pakeitimas
+## 26 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -382,7 +382,7 @@ Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip:
 
 7) garantinis elektros energijos tiekėjas ar tiekėjas, sudaręs elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį ar fiksuotos kainos sutartį su pažeidžiamu vartotoju ar energijos nepriteklių patiriančiu asmeniu, nustatęs 30 ir daugiau procentų didesnį negu praėjusio mėnesio elektros energijos suvartojimą, informuoja tokį vartotoją apie elektros energijos suvartojimo pokyčius.“
 
-\#### 27 straipsnis. 521 straipsnio pakeitimas
+## 27 straipsnis. 521 straipsnio pakeitimas
 
 1. Pakeisti 521 straipsnio 7 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -392,7 +392,7 @@ Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „9. Nepriklausomi tiekėjai Tarybos nustatyta tvarka, terminais ir (ar) periodiškumu privalo pateikti Tarybai, kai ji yra palyginimo priemonę valdantis asmuo, informaciją apie nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymus, įskaitant mažmeninės kintamosios elektros energijos kainos ir fiksuotos kainos pasiūlymus, teikiamus šio straipsnio 1 dalyje nurodytiems asmenims, ir (ar) viešai skelbti nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymus, įskaitant mažmeninės kintamosios elektros energijos kainos ir fiksuotos kainos pasiūlymus, šio straipsnio 1 dalyje nurodytiems asmenims.“
 
-\#### 28 straipsnis. 61 straipsnio pakeitimas
+## 28 straipsnis. 61 straipsnio pakeitimas
 
 1. Papildyti 61 straipsnį 6 dalimi:
 
@@ -422,7 +422,7 @@ Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „9. Nekilnojamojo turto savininkai už elektros energiją bendroms reikmėms, elektros energijos persiuntimą bei viešuosius interesus atitinkančias paslaugas atsiskaito su bendrojo naudojimo objektų valdytoju.“
 
-\#### 29 straipsnis. 611 straipsnio pakeitimas
+## 29 straipsnis. 611 straipsnio pakeitimas
 
 Pakeisti 61^1 straipsnį ir jį išdėstyti taip:
 
@@ -452,7 +452,7 @@ Pakeisti 61^1 straipsnį ir jį išdėstyti taip:
 
 6. Vartotojas turi teisę vienašališkai nutraukti sutartį su paklausos telkėju, įskaitant telkėjo pakeitimą šio įstatymo 47 straipsnio 2 dalyje ir 49 straipsnio 2 dalies 2 punkte nustatyta tvarka ir sąlygomis.“
 
-\#### 30 straipsnis. Įstatymo papildymas 612 straipsniu
+## 30 straipsnis. Įstatymo papildymas 612 straipsniu
 
 Papildyti Įstatymą 61^2 straipsniu:
 
@@ -492,13 +492,13 @@ Papildyti Įstatymą 61^2 straipsniu:
 
 10. Perdavimo sistemos operatorius ir skirstomųjų tinklų operatorius turi teisę gauti duomenis iš skirtųjų matuoklių. Duomenų mainų sąlygos nustatomos perdavimo sistemos operatoriaus rengiamame telkiant perdavimo sistemos operatoriui suteiktų paslaugų apimties nustatymo tvarkos apraše ir skirstomųjų tinklų operatoriaus rengiamame prekybos lankstumo paslaugomis tvarkos apraše.“
 
-\#### 31 straipsnis. 612 straipsnio pakeitimas
+## 31 straipsnis. 612 straipsnio pakeitimas
 
 Papildyti 61^2 straipsnį 11 dalimi:
 
 „11. Kai dėl paklausos telkėjo tinklų operatoriui suteiktos paklausos telkimo paslaugos kitas rinkos dalyvis ar to rinkos dalyvio už disbalansą atsakinga šalis patiria sąnaudų, šios sąnaudos kompensuojamos Tarybos nustatyta tvarka. Tokios finansinės kompensacijos dydis turi būti pagrįstas sąnaudų, kurias patiria telkiant paklausą dalyvaujančių vartotojų tiekėjai arba tiekėjų už disbalansą atsakingos šalys ir kurios patiriamos tuo metu, kai buvo aktyvuotas paklausos telkėjo pasiūlymas, dydžiu ir negali jų viršyti. Dėl tokios finansinės kompensacijos neturi būti sudaromos kliūtys patekti į rinką paklausos telkimu užsiimantiems rinkos dalyviams arba kliūtys tinklų operatoriams užsitikrinti reikalingas lankstumo paslaugas. Nustatant kompensacijos apskaičiavimo metodą, įvertinama nepriklausomų telkėjų kitiems rinkos dalyviams teikiama nauda. Tarybos tvirtinamame kompensavimo dėl elektros energijos paklausos telkimo aktyvavimo tvarkos apraše nustatoma kompensacijos apskaičiavimo tvarka, subjektai, atsakingi už kompensacijos apskaičiavimą, duomenų, reikalingų kompensacijai apskaičiuoti, pateikimo ir (ar) apsikeitimo tvarka, kompensacijų mokėjimo ar įskaitymo tvarka.“
 
-\#### 32 straipsnis. 67 straipsnio pakeitimas
+## 32 straipsnis. 67 straipsnio pakeitimas
 
 1. Pakeisti 67 straipsnio 7 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -508,7 +508,7 @@ Papildyti 61^2 straipsnį 11 dalimi:
 
 „7) vartotojai, siekiantys pirmą kartą prijungti elektros įrenginius statiniuose, kuriems elektros įrenginių prijungimo prie elektros tinklų paslaugos sutarties sudarymo momentu leidimas statyti naują statinį nėra privalomas, apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį. Jeigu vartotojas per 3 metus nuo prijungimo paslaugos užbaigimo pateikia skirstomųjų tinklų operatoriui statinio ar nebaigto statinio įregistravimo Nekilnojamojo turto registro informacinėje sistemoje išrašą, skirstomųjų tinklų operatorius šiam vartotojui Energetikos ministerijos nustatyta tvarka ir sąlygomis kompensuoja 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba pagal šį dydį apskaičiuoto ir Tarybos patvirtinto įkainio; tuo atveju, kai prijungiami pažeidžiamo vartotojo elektros įrenginiai, – 80 procentų skirstomųjų tinklų operatoriaus sąnaudų arba pagal šį dydį apskaičiuoto ir Tarybos patvirtinto įkainio. Vartotojai, kurie kreipdamiesi dėl prijungimo paslaugos suteikimo pateikia skirstomųjų tinklų operatoriui statinio ar nebaigto statinio įregistravimo Nekilnojamojo turto registro informacinėje sistemoje išrašą, apmoka 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, pažeidžiami vartotojai – 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį;“.
 
-\#### 33 straipsnis. 69 straipsnio pakeitimas
+## 33 straipsnis. 69 straipsnio pakeitimas
 
 1. Pakeisti 69 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -532,13 +532,13 @@ gaunančioms (-iems) elektros energiją iš žemos įtampos elektros tinklų, at
 
 „15. Bendruomeninėms organizacijoms ir asociacijoms, kurios perka elektros energiją iš žemos įtampos elektros tinklų savo dalyvių fizinių asmenų poreikiams, nesusijusiems su verslu ar profesija, tenkinti ir kurių steigimo dokumentuose nurodyta veikla nėra susijusi su verslu ar profesija, jų prašymu taikomos tokios pačios elektros energijos persiuntimo paslaugos kainos ir tarifai kaip ir buitiniams vartotojams. Bendruomeninės organizacijos ir asociacijos kartu su prašymu taikyti elektros energijos persiuntimo paslaugos kainas ir tarifus kaip ir buitiniams vartotojams turi pateikti garantiniam elektros energijos tiekėjui, tiekėjui ir (ar) skirstomųjų tinklų operatoriui bendruomeninės organizacijos ir asociacijos steigimo dokumentų kopijas ir dokumentus, patvirtinančius objekto, kuriame vartojama elektros energija, valdymą nuosavybės ar kita teise.“
 
-\#### 34 straipsnis. 69 straipsnio pakeitimas
+## 34 straipsnis. 69 straipsnio pakeitimas
 
 Pakeisti 69 straipsnio 14 dalį ir ją išdėstyti taip:
 
 „14. Bendrojo naudojimo objektų valdytojams, perkantiems elektros energiją mėgėjų sodo sklypų, gyvenamųjų pastatų (vienbučių, dvibučių, daugiabučių ir socialinės grupės – bendrabučių), negyvenamųjų transporto grupės – garažų pastatų, kai pastatas skirtas transporto priemonėms laikyti, pasaugoti ir (ar) remontuoti, neteikiant paslaugų, savininkų bendroms reikmėms, taikomos tokios pačios elektros energijos persiuntimo paslaugos kainos ir tarifai kaip ir buitiniams vartotojams.“
 
-\#### 35 straipsnis. 732 straipsnio pakeitimas
+## 35 straipsnis. 732 straipsnio pakeitimas
 
 Pakeisti 73^2 straipsnį ir jį išdėstyti taip:
 
@@ -546,19 +546,19 @@ Pakeisti 73^2 straipsnį ir jį išdėstyti taip:
 
 Siekiant užtikrinti elektros energetikos sistemos stabilumą ir saugumą, kai šioje sistemoje planuojami plėtoti elektros energijos gamybos, vartojimo ir energijos kaupimo pajėgumai, galintys daryti reikšmingą įtaką jos veikimui, tai yra kai gamintojas, vartotojas ar energijos kaupimo įrenginio savininkas su tinklų operatoriumi sudaro ketinimų protokolą dėl elektros energijos gamybos įrenginių, vartotojo energetikos įrenginių ir (ar) energijos kaupimo įrenginių prijungimo, kai prijungimo taške numatoma leistina generuoti galia ir (ar) leistina naudoti galia yra ne mažesnė kaip 50 MW ir tinklų operatoriui pateikia prievolių įvykdymo užtikrinimą atitinkamai šio įstatymo 21^1 straipsnio 1 dalyje, 48^2 straipsnio 10 dalyje ar 48^5 straipsnio 3 dalyje nustatyta tvarka, išskyrus atvejus, kai sudaromas ketinimų protokolas dėl Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalyje planuojamų plėtoti elektros gamybos įrenginių prijungimo, turi būti įsitikinta, kad elektros energijos gamybos, vartojimo ar energijos kaupimo pajėgumų plėtotojas atitinka nacionalinio saugumo interesus. Elektros energijos gamybos, vartojimo ar energijos kaupimo pajėgumų plėtotojų patikra taip pat gali būti atliekama pakartotinai bet kuriuo metu ketinimų protokolo galiojimo laikotarpiu šio įstatymo 22 straipsnio 9^7 dalyje, 48^2 straipsnio 24 dalyje ar kitais Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme numatytais atvejais. Kai atlikus nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatytus veiksmus priimamas sprendimas, patvirtinantis, kad elektros energijos gamybos, vartojimo ar energijos kaupimo pajėgumų plėtotojas neatitinka nacionalinio saugumo interesų, laikoma, kad toks asmuo netenka teisės plėtoti elektros energijos gamybos, vartojimo ar energijos kaupimo pajėgumus, nuo tokio sprendimo įsigaliojimo momento ketinimų protokolas netenka galios dėl gamintojo ar vartotojo energijos kaupimo įrenginio savininko kaltės be atskiro įspėjimo, o tinklų operatorius pasinaudoja prievolių įvykdymo užtikrinimu atitinkamai šio įstatymo 21^1 straipsnio 5 dalyje ar 48^2 straipsnio 24 dalyje nustatyta tvarka.“
 
-\#### 36 straipsnis. 76 straipsnio pakeitimas
+## 36 straipsnis. 76 straipsnio pakeitimas
 
 Pakeisti 76 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Taryba, bendradarbiaudama su kitų valstybių narių nacionalinėmis reguliavimo institucijomis elektros energetikos sektoriuje, užtikrina, kad bendroji paskirstymo platforma, veikianti pagal Reglamentą [(ES) 2016/1719](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R1719&locale=lt),Europos elektros energijos perdavimo sistemos operatorių tinklas (ENTSO-E), veikiantis pagal Reglamentą [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt), (toliau – Europos elektros energijos perdavimo sistemos operatorių tinklas) ir skirstomųjų tinklų operatorių Europos Sąjungoje organizacija, veikianti pagal Reglamentą [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt), vykdytų Reglamente [(ES) 2019/943](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0943&locale=lt), tinklo kodeksuose ir gairėse, kituose Europos Sąjungos reglamentuose ir (ar) kituose teisės aktuose, įskaitant teisės aktus, reglamentuojančius tarpvalstybinius santykius, taip pat Energetikos reguliavimo institucijų bendradarbiavimo agentūros privalomuose sprendimuose nustatytas pareigas, ir konsultuojasi su nurodytomis institucijomis siekdama kartu nustatyti atvejus, kai šios organizacijos nevykdo joms priskirtų pareigų. Jeigu nacionalinėms reguliavimo institucijoms nepavyksta susitarti per 4 mėnesių laikotarpį nuo konsultacijų siekiant kartu nustatyti atvejus, kai šios organizacijos nevykdo joms priskirtų pareigų, pradžios, klausimas perduodamas svarstyti Energetikos reguliavimo institucijų bendradarbiavimo agentūrai.“
 
-\#### 37 straipsnis. Įstatymo priedo pakeitimas
+## 37 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 21 punktu:
 
 „21. 2023 m. birželio 6 d. Komisijos įgyvendinimo reglamentas [(ES) 2023/1162](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R1162&locale=lt) dėl sąveikumo reikalavimų ir nediskriminacinių bei skaidrių prieigos prie matavimo ir suvartojimo duomenų procedūrų.“
 
-\#### 38 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 38 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1 straipsnio 5, 6, 7, 8, 9 dalis, 3 straipsnį, 4 straipsnio 2, 5, 6 dalis, 5 straipsnio 1 dalį, 6 straipsnį, 10 straipsnio 5, 6, 7, 8 dalis, 12 straipsnį, 13 straipsnio 2, 3, 4 dalis, 19, 20, 28, 31 straipsnius, 32 straipsnio 2 dalį, 33 straipsnio 2, 3, 4, 5 dalis, 34 straipsnį ir šio straipsnio 7, 8, 9, 10, 11, 12, 13, 14 ir 15 dalis, įsigalioja 2026 m. sausio 1 d.
 

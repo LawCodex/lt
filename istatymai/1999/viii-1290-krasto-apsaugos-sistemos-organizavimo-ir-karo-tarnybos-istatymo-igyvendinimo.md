@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E22F0AD746D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E22F0AD746D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo įgyvendinimo įstatymo 5 ir 8 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1326](https://www.e-tar.lt/portal/lt/legalAct/TAR.65514894CBFC))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 5 straipsnio 1 dalyje vietoj žodžio „šio“ įrašyti žodį „to“ ir šią dalį išdėstyti taip:
 
 „1. Karininkams, kurie iki 1993 m. rugpjūčio 31 d. pradėjo tarnauti ir nepertraukiamai tarnauja krašto apsaugos sistemoje, iki tolaiko turėjusiems jaunesniojo karininko laipsnį, netaikoma Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 45 straipsnio 4 dalyje nustatyta jaunesniųjų karininkų ir majorų (komandorų leitenantų) išleidimo į atsargą amžiaus sąlyga.“
 
-\#### 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 8 straipsnio 2 dalies pakeitimas
 
 Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 

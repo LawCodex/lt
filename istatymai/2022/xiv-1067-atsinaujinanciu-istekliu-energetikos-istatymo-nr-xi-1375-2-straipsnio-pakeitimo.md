@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5f476aa0cd0111ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5F476AA0CD01.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2 straipsnio pakeitimo ir Įstatymo papildymo septintuoju-1 skirsniu įstatymas
@@ -161,5 +161,3 @@ TVARUS BIOMASĖS KURO NAUDOJIMAS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS GAMYBAI
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_04108fb42bad4145a631fe5af796a4d7_end

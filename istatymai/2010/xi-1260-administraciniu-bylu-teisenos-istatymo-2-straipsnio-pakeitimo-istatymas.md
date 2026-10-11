@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E8C4EDEAD48A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E8C4EDEAD48A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 2009, Nr. [75-3063](https://www.e-tar.lt/portal/lt/legalAct/TAR.0C148091EB60))
 
-\#### 1 straipsnis. 2 straipsnio 4, 5, 6, 9 dalių pakeitimas ir 10 dalies pripažinimas netekusia galios
+## 1 straipsnis. 2 straipsnio 4, 5, 6, 9 dalių pakeitimas ir 10 dalies pripažinimas netekusia galios
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pastaba. Valstybės tarnautojų (pareigūnų) skirstymą pagal jiems suteiktus v
 
 5. 2 straipsnio 10 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ECBD14170736"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ECBD14170736.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Laikinojo įvežimo konvencijos (Stambulo konvencijos) ratifikavimo
@@ -26,7 +26,7 @@ DĖL LAIKINOJO ĮVEŽIMO KONVENCIJOS (STAMBULO KONVENCIJOS) RATIFIKAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 22 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Laikinojo įvežimo konvenciją (Stambulo konvenciją)“ ir į Baltijos Asamblėjos 1995 m. gruodžio 2 d. rezoliuciją „Dėl prisijungimo prie Konvencijos dėl laikinojo įvežimo“, ratifikuoja 1990 m. birželio 26 d. Stambule pasirašytą Laikinojo įvežimo konvenciją (Stambulo konvenciją) ir šiuos jos priedus:
 
@@ -48,7 +48,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 9) D priedą dėl gyvūnų.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlygos
+## 2 straipsnis. Lietuvos Respublikos išlygos
 
 Remdamasi Laikinojo įvežimo konvencijos (Stambulo konvencijos) 29 straipsnio 1 dalimi, Lietuvos Respublika daro šias išlygas dėl Konvencijos priedų taikymo:
 

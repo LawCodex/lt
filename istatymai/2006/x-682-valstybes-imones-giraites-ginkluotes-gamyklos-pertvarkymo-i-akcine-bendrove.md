@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.097E94513452"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.097E94513452.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės įmonės Giraitės ginkluotės gamyklos pertvarkymo į akcinę bendrovę įstatymas
@@ -26,15 +26,15 @@ VALSTYBĖS ĮMONĖS GIRAITĖS GINKLUOTĖS GAMYKLOS PERTVARKYMO Į AKCINĘ BENDRO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šio įstatymo paskirtis – pertvarkyti valstybės įmonę Giraitės ginkluotės gamyklą.
 
-\#### 2 straipsnis. Teisės pakeisti valstybės įmonės Giraitės ginkluotės gamyklos teisinę formą suteikimas
+## 2 straipsnis. Teisės pakeisti valstybės įmonės Giraitės ginkluotės gamyklos teisinę formą suteikimas
 
 Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos Vyriausybės, kaip valstybės įmonės Giraitės ginkluotės gamyklos savininko teises ir pareigas įgyvendinančiai institucijai, suteikiama teisė pertvarkyti valstybės įmonę Giraitės ginkluotės gamyklą į akcinę bendrovę Giraitės ginkluotės gamyklą.
 
-\#### 3 straipsnis. Pasiūlymas Vyriausybei
+## 3 straipsnis. Pasiūlymas Vyriausybei
 
 Pasiūlyti Vyriausybei šio įstatymo 2 straipsnyje nurodytai institucijai priėmus sprendimą pertvarkyti valstybės įmonę Giraitės ginkluotės gamyklą pateikti Seimui atitinkamą Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymo projektą.
 

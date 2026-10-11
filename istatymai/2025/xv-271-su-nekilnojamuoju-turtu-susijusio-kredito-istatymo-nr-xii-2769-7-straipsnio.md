@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f858df724cde11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F858DF724CDE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 7 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ SU NEKILNOJAMUOJU TURTU SUSIJUSIO KREDITO ĮSTATYMO NR. XII-2769 7 STRAIPSNIO PA
 
 Vilnius
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „10. Jeigu su kredito gavėju kalbama balso telefonijos ryšiu, kaip nustatyta Vartotojų teisių apsaugos įstatymo 37 straipsnio 4 ir 5 dalyse, jam būtinai turi būti pateikta bent informacija apie pagrindinius kredito ypatumus, kredito palūkanų normą ir kitas išlaidas, kredito įmokų mokėjimo periodiškumą ir skaičių bei kiekvienos kredito įmokos sumą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. birželio 19 d.
 

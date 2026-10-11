@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5ac854b05ed711eb9dc7b575f08e8bea"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5AC854B05ED7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2, 3, 4, 8, 8-1, 9, 10, 10-1, 10-4, 12, 13, 14, 15, 16, 21, 21-1, 21-4, 21-7, 23 straipsnių, priedo pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas

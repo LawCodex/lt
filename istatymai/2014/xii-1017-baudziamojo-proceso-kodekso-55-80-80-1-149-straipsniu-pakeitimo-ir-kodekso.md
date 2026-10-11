@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6f42b1e00e7211e4adf3c8c5d7681e73"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6F42B1E00E72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 55, 80, 80-1, 149 straipsnių pakeitimo ir Kodekso papildymo 150-1 straipsniu įstatymas
@@ -26,19 +26,19 @@ BAUDŽIAMOJO PROCESO KODEKSO 55, 80, 801, 149 STRAIPSNIŲ PAKEITIMO IR KODEKSO P
 
 Vilnius
 
-\#### 1 straipsnis. 55 straipsnio pakeitimas
+## 1 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Nukentėjusiojo, civilinio ieškovo, civilinio atsakovo, liudytojo,užstato davėjo, asmens, kurio nuosavybės teisės laikinai apribotos ar konfiskuotas turtas,asmens, kurį siekiama įpareigoti atskleisti informacijos šaltinio paslaptį, įgaliotuoju atstovu laikomas asmuo, teikiantis teisinę pagalbą šiems proceso dalyviams, ginantis jų teises ir teisėtus interesus.“
 
-\#### 2 straipsnis. 80 straipsnio pakeitimas
+## 2 straipsnis. 80 straipsnio pakeitimas
 
 Pakeisti 80 straipsnio 5 punktą ir jį išdėstyti taip:
 
 „5) viešosios informacijos rengėjai, skleidėjai, jų dalyviai, žurnalistai – dėl to, kas pagal Lietuvos Respublikos visuomenės informavimo įstatymą sudaro informacijos šaltinio paslaptį, išskyrus atvejus, kai šie asmenys patys sutinka duoti parodymus arba kai yra priimtas teismo sprendimas, kad būtina atskleisti informacijos šaltinį dėl gyvybiškai svarbių ar kitų ypač reikšmingų visuomenės interesų, taip pat siekiant užtikrinti, kad būtų apgintos asmenų konstitucinės teisės ir laisvės ir kad būtų vykdomas teisingumas, ir kai kitomis priemonėmis atskleisti informacijos šaltinį nėra galimybės arba jos jau yra išnaudotos.“
 
-\#### 3 straipsnis. 801 straipsnio pakeitimas
+## 3 straipsnis. 801 straipsnio pakeitimas
 
 Pakeisti 80^1 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 80^1 straipsnį ir jį išdėstyti taip:
 
 5. Šiame straipsnyje nurodytu klausimu priimta ikiteisminio tyrimo teisėjo ar teismo nutartis skundžiama šio Kodekso X dalyje nustatyta tvarka.“
 
-\#### 4 straipsnis. 149 straipsnio pakeitimas
+## 4 straipsnis. 149 straipsnio pakeitimas
 
 1. Papildyti 149 straipsnį nauja 9 dalimi:
 
@@ -74,7 +74,7 @@ Pakeisti 80^1 straipsnį ir jį išdėstyti taip:
 
 2. Buvusią 149 straipsnio 9 dalį laikyti 10 dalimi.
 
-\#### 5 straipsnis. Kodekso papildymas 1501 straipsniu
+## 5 straipsnis. Kodekso papildymas 1501 straipsniu
 
 Papildyti Kodeksą 150^1 straipsniu:
 

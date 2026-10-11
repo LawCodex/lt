@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BAD02D141563"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BAD02D141563.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1, 9, 10 ir 16 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2005, Nr. [71-2558](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C), Nr. [153-5644](https://www.e-tar.lt/portal/lt/legalAct/TAR.45D45191ECBC); 2006, Nr. [17-601](https://www.e-tar.lt/portal/lt/legalAct/TAR.852B90E0B68E), Nr. [134-5064](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FBB7047630), Nr. [141-5404](https://www.e-tar.lt/portal/lt/legalAct/TAR.67BD9271B92F); 2007, Nr. [8-314](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AFBD8793C7C))
 
-\#### 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 3 dalies pakeitimas
 
 Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Teisę gauti pareigūnų ir karių netekto darbingumo pensijas turi privalomosios karo tarnybos kariai, tapę nedarbingi ar iš dalies darbingi tarnybos, mokymų, pratybų ar užduočių vykdymo metu dėl priežasčių, susijusių su tarnyba, mokymais, pratybomis ar užduočių vykdymu. Šiems asmenims žuvus tarnybos, mokymų, pratybų ar užduočių vykdymo metu dėl priežasčių, susijusių su tarnyba, mokymais, pratybomis ar užduočių vykdymu, teisę gauti pareigūnų ir karių valstybines našlių ir našlaičių pensijas turi jų sutuoktiniai ir vaikai.“
 
-\#### 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 3 dalies pakeitimas
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -46,19 +46,19 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 3) asmenims, netekusiems 45–55 procentų darbingumo, – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.“
 
-\#### 3 straipsnis. 10 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 5 dalies pakeitimas
 
 Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Privalomosios karo tarnybos kariui mirus tarnybos, mokymų, pratybų ar užduočių vykdymo metu dėl priežasčių, susijusių su tarnyba, mokymais, pratybomis ar užduočių vykdymu, skiriama našlių ir našlaičių pensija šio straipsnio 1–4 dalyse nustatyta tvarka. Ji apskaičiuojama kaip šio įstatymo 9 straipsnio 3 dalies 2 punkte nustatyta pareigūnų ir karių valstybinė netekto darbingumo pensija asmenims, netekusiems 60–70 procentų darbingumo.“
 
-\#### 4 straipsnis. 16 straipsnio 11 dalies pakeitimas
+## 4 straipsnis. 16 straipsnio 11 dalies pakeitimas
 
 16 straipsnio 11 dalyje išbraukti žodžius „ir karių savanorių“ ir šią dalį išdėstyti taip:
 
 „11. Nuo 2007 m. sausio 1 d. skiriamos mažesnės kaip 430 litų pareigūnų ir karių valstybinės pensijos už tarnybą arba netekto darbingumo pensijos, išskyrus privalomosios karo tarnybos karių netekto darbingumo pensijas, didinamos vieną kartą (pensijos skyrimo metu) 20 litų, bet ne daugiau kaip iki 430 litų.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
 

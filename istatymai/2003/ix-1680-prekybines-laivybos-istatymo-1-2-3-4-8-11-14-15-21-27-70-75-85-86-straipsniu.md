@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D2AC442F66BD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D2AC442F66BD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 straipsnių pakeitimo ir papildymo, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77 straipsnių pripažinimo netekusiais galios, šeštojo ir devintojo skirsnių pavadinimų pakeitimo, įstatymo papildymo 40-1 ir 57-1 straipsniais bei įstatymo papildymo priedu įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2000, Nr. 75-2266, Nr. 85-2584; 2001, Nr. 99-3527)
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
 
 1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „28. **Jūrininko reisas** – nepertraukiamas laiko tarpas, kai jūrininkas užima jam skirtas pareigas ar atlieka pavestą darbą laive, įskaitant kelionės į laivą ir iš laivo į nuolatinę gyvenamąją vietą laiką.“
 
-\#### 3 straipsnis. 3 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 3 straipsnis. 3 straipsnio pavadinimo pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. 3 straipsnio pavadinime vietoj žodžio „jūra“ įrašyti žodį „kabotažu“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -72,13 +72,13 @@ Vilnius
 
 2. 3 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 4 straipsnio papildymas 4 dalimi
+## 4 straipsnis. 4 straipsnio papildymas 4 dalimi
 
 Papildyti 4 straipsnį 4 dalimi:
 
 „4. Vežti keleivius ir krovinius jūra tarptautiniais maršrutais turi teisę įmonės, turinčios Vyriausybės įgaliotos institucijos išduotą licenciją verstis keleivių ir krovinių vežimu jūra tarptautiniais maršrutais. Licencijavimo taisykles tvirtina Vyriausybė.“
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 8 straipsnį nauja 3 dalimi:
 
@@ -92,13 +92,13 @@ Papildyti 4 straipsnį 4 dalimi:
 
 2. Buvusią 8 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 6 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Laivo įgulą (įskaitant laivo kapitoną ir laivo kapitono vyriausiąjį padėjėją) turi sudaryti ne mažiau kaip du trečdaliai Europos Sąjungos valstybių narių piliečių ar nuolatinių Lietuvos Respublikos gyventojų. Laivo kapitono ir laivo kapitono vyriausiojo padėjėjo pareigas gali eiti tik Lietuvos Respublikos piliečiai.“
 
-\#### 7 straipsnis. 14 straipsnio pakeitimas
+## 7 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 3. Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių sutarimu nenustatyta kitaip.“
 
-\#### 8 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas bei straipsnio papildymas 3 dalimi
+## 8 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas bei straipsnio papildymas 3 dalimi
 
 1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -124,23 +124,23 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 „3. Krovinių siuntėjas turi laiku perduoti vežėjui visus su kroviniais susijusius dokumentus, kurių reikalauja uosto, muitinės, sanitarijos arba kitos institucijos, ir atsakyti už nuostolius, atsiradusius vežėjui dėl to, kad šie dokumentai buvo perduoti ne laiku, netinkami arba neišsamūs.“
 
-\#### 9 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 16 straipsnio pripažinimas netekusiu galios
 
 16 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. 17 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 17 straipsnio pripažinimas netekusiu galios
 
 17 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 18 straipsnio pripažinimas netekusiu galios
+## 11 straipsnis. 18 straipsnio pripažinimas netekusiu galios
 
 18 straipsnį pripažinti netekusiu galios.
 
-\#### 12 straipsnis. 19 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 19 straipsnio pripažinimas netekusiu galios
 
 19 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. 21 straipsnio pakeitimas
+## 13 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnio pavadinimą, 1 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 21 straipsnio pavadinimą, 1 dalį pripažinti netekusia galios ir vis�
 
 Jeigu kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į kitą laivą tik krovinių siuntėjui sutikus, išskyrus krovinių perkrovimą dėl techninio būtinumo, atsiradusio pradėjus krovimo darbus.“
 
-\#### 14 straipsnis. 27 straipsnio pavadinimo pakeitimas, 1 ir 2 dalių pripažinimas netekusiomis galios
+## 14 straipsnis. 27 straipsnio pavadinimo pakeitimas, 1 ir 2 dalių pripažinimas netekusiomis galios
 
 1. Pakeisti 27 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -158,21 +158,21 @@ Jeigu kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į k
 
 3. 27 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 15 straipsnis. 28 straipsnio pripažinimas netekusiu galios
+## 15 straipsnis. 28 straipsnio pripažinimas netekusiu galios
 
 28 straipsnį pripažinti netekusiu galios.
 
-\#### 16 straipsnis. 30 straipsnio pripažinimas netekusiu galios
+## 16 straipsnis. 30 straipsnio pripažinimas netekusiu galios
 
 30 straipsnį pripažinti netekusiu galios.
 
-\#### 17 straipsnis. Įstatymo šeštojo skirsnio pavadinimo pakeitimas
+## 17 straipsnis. Įstatymo šeštojo skirsnio pavadinimo pakeitimas
 
 Įstatymo šeštojo skirsnio pavadinime po žodžio „frachtavimas“ įrašyti žodžius „laivų agentavimas“ ir šį pavadinimą išdėstyti taip:
 
 „LAIVO FRACHTAVIMAS, LAIVŲ AGENTAVIMAS, LAIVO NUOMA BE ĮGULOS (BAREBOAT CHARTER), LAIVO IŠPERKAMOJI NUOMA“.
 
-\#### 18 straipsnis. Įstatymo papildymas 401 straipsniu
+## 18 straipsnis. Įstatymo papildymas 401 straipsniu
 
 Papildyti Įstatymą 40^(1) straipsniu:
 
@@ -192,13 +192,13 @@ Laivų agentavimas apima šių paslaugų teikimą:
 
 6) laivo aprūpinimo ir aptarnavimo organizavimą uoste.“
 
-\#### 19 straipsnis. Įstatymo devintojo skirsnio pavadinimo pakeitimas
+## 19 straipsnis. Įstatymo devintojo skirsnio pavadinimo pakeitimas
 
 Įstatymo devintojo skirsnio pavadinime po žodžio „susidūrimas“ įrašyti žodžius „nuostolių, atsiradusių siekiant išvengti povandeninio kabelio ar vamzdyno pažeidimo, atlyginimas“ ir šį pavadinimą išdėstyti taip:
 
 „GELBĖJIMAS JŪROJE, LAIVŲ SUSIDŪRIMAS, NUOSTOLIŲ, ATSIRADUSIŲ SIEKIANT IŠVENGTI POVANDENINIO KABELIO AR VAMZDYNO PAŽEIDIMO, ATLYGINIMAS“.
 
-\#### 20 straipsnis. Įstatymo papildymas 571 straipsniu
+## 20 straipsnis. Įstatymo papildymas 571 straipsniu
 
 Papildyti Įstatymą 57^1 straipsniu:
 
@@ -208,33 +208,33 @@ Papildyti Įstatymą 57^1 straipsniu:
 
 2. Šio straipsnio 1 dalyje nustatyta prievolė atlyginti nuostolius atsiranda tik tuomet, jei laivo savininkai ėmėsi visų protingų priemonių, kad būtų išvengta nuostolių.“
 
-\#### 21 straipsnis. 69 straipsnio pripažinimas netekusiu galios
+## 21 straipsnis. 69 straipsnio pripažinimas netekusiu galios
 
 69 straipsnį pripažinti netekusiu galios.
 
-\#### 22 straipsnis. 70 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
+## 22 straipsnis. 70 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
 
 1. 70 straipsnio 2 dalį pripažinti netekusia galios.
 
 2. 70 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 23 straipsnis. 71 straipsnio pripažinimas netekusiu galios
+## 23 straipsnis. 71 straipsnio pripažinimas netekusiu galios
 
 71 straipsnį pripažinti netekusiu galios.
 
-\#### 24 straipsnis. 72 straipsnio pripažinimas netekusiu galios
+## 24 straipsnis. 72 straipsnio pripažinimas netekusiu galios
 
 72 straipsnį pripažinti netekusiu galios.
 
-\#### 25 straipsnis. 73 straipsnio pripažinimas netekusiu galios
+## 25 straipsnis. 73 straipsnio pripažinimas netekusiu galios
 
 73 straipsnį pripažinti netekusiu galios.
 
-\#### 26 straipsnis. 74 straipsnio pripažinimas netekusiu galios
+## 26 straipsnis. 74 straipsnio pripažinimas netekusiu galios
 
 74 straipsnį pripažinti netekusiu galios.
 
-\#### 27 straipsnis. 75 straipsnio pakeitimas
+## 27 straipsnis. 75 straipsnio pakeitimas
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
@@ -268,11 +268,11 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 9. Reikalavimams, kuriems ieškinio senaties terminai šiame įstatyme nenumatyti, taikomas bendrasis ieškinio senaties terminas, nustatytas Lietuvos Respublikos civiliniame kodekse.“
 
-\#### 28 straipsnis. 77 straipsnio pripažinimas netekusiu galios
+## 28 straipsnis. 77 straipsnio pripažinimas netekusiu galios
 
 77 straipsnį pripažinti netekusiu galios.
 
-\#### 29 straipsnis. 85 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 29 straipsnis. 85 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. Pakeisti 85 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -282,7 +282,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 „1. Laivo valdytojas privalo pasirūpinti, kad jūrininkų reiso metu būtų sudarytos tinkamos darbo ir poilsio sąlygos.“
 
-\#### 30 straipsnis. 86 straipsnio pavadinimo ir 1, 2 dalių pakeitimas
+## 30 straipsnis. 86 straipsnio pavadinimo ir 1, 2 dalių pakeitimas
 
 1. Pakeisti 86 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -296,7 +296,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 „2. Jūrininkas turi teisę į darbą ir į poilsį. Darbo laiko ir poilsio laiko ypatumus jūrų transporte nustato Vyriausybė.“
 
-\#### 31 straipsnis. Įstatymo papildymas priedu
+## 31 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -316,7 +316,7 @@ priedas
 
 3. 1999 m. liepos 21 d. Tarybos direktyva Nr. 1999/63/EB dėl susitarimo dėl jūrininkų darbo laiko, sudaryto tarp Europos Bendrijų laivų savininkų asociacijos (ECSA) ir Transporto darbuotojų sąjungų federacijos.“
 
-\#### 32 straipsnis. Įstatymo įsigaliojimas
+## 32 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio Įstatymo 6 straipsnis įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

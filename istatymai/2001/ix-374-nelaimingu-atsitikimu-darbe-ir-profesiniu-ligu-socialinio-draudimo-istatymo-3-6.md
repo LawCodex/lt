@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E8FECB6200"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E9E8FECB6200.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 6, 24 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F); 2000, Nr. [95-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.48FBE8E79625))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 3 straipsnį nauja 2 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. Buvusias 3 straipsnio 2, 3, 4, 5, 6, 7, 8, 9 ir 10 dalis laikyti atitinkamai 3, 4, 5, 6, 7, 8, 9, 10 ir 11 dalimis.
 
-\#### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3) nelaimingi atsitikimai, kai apdraustieji atlieka teisės aktais nustatytas pareigas ar darbdavio pavedimu – visuomenines pareigas, susijusias su tos įmonės veikla, kai už tai mokamas darbo užmokestis.“
 
-\#### 3 straipsnis. 24 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 24 straipsnio 2 dalies pakeitimas
 
 Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 

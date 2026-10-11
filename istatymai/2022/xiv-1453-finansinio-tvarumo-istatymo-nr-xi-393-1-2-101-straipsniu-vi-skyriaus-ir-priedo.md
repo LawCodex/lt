@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/931acd305ea711edbc04912defe897d1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.931ACD305EA7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 101 straipsnių, VI skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
@@ -203,5 +203,3 @@ Papildyti Įstatymo priedą 4 punktu:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_2a81c730f55b4779a82e47d5d6949179_end

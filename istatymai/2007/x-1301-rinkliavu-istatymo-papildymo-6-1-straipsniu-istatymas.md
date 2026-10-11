@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DA90B718DF71"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA90B718DF71.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo papildymo 6-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [52-1484](https://www.e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D))
 
-\#### 1 straipsnis. Įstatymo papildymas 61 straipsniu
+## 1 straipsnis. Įstatymo papildymas 61 straipsniu
 
 Papildyti Įstatymą 6^1 straipsniu:
 
@@ -36,7 +36,7 @@ Papildyti Įstatymą 6^1 straipsniu:
 
 Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 1 dalies 4 ir 5 punktuose, atlikimą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4D7B8FE76FBF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4D7B8FE76FBF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3050](https://www.e-tar.lt/portal/lt/legalAct/TAR.C99649764C64))
 
-\#### 1 straipsnis. Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymą ir jį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 stra
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies 4, 5, 6 punktų pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies 4, 5, 6 punktų pakeitimas
 
 1. Pakeisti 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -46,13 +46,13 @@ Pakeisti Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 stra
 
 „6) užtikrinti pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir statistinių ataskaitų teisingumą ir pateikimą laiku;“.
 
-\#### 2 straipsnis. 7 straipsnio 3 punkto pakeitimas
+## 2 straipsnis. 7 straipsnio 3 punkto pakeitimas
 
 Pakeisti 7 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) buhalterinės apskaitos organizavimą, ataskaitų rinkinių pagal Viešojo sektoriaus atskaitomybės įstatymą ir kitų teisės aktų reikalavimus rengimą bei pateikimą.“
 
-\#### 3 straipsnis. 35 straipsnio pakeitimas
+## 3 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
 6. Biudžeto finansuojamų įstaigų gaunama negrąžintina finansinė parama biudžetinių įstaigų apskaitoje registruojama atskiroje sąskaitoje.“
 
-\#### 4 straipsnis. 36 straipsnio pakeitimas
+## 4 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -84,13 +84,13 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 4. Suvestinį visų savivaldybių biudžetų vykdymo ataskaitų rinkinį rengia Finansų ministerija ir pateikia Vyriausybei Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka.“
 
-\#### 5 straipsnis. 37 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 37 straipsnio 3 dalies pakeitimas
 
 Pakeisti 37 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Savivaldybių biudžetų vykdymo, savivaldybių biudžetų asignavimų valdytojų programų sąmatų, savivaldybių biudžetų lėšų apskaitos ir savivaldybių konsoliduotųjų ataskaitų rinkinių auditą atlieka savivaldybių kontrolierių tarnybos.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.“
 

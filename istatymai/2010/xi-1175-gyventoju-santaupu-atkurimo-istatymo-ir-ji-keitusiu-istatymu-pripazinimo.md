@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.197BE4CAFD43"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.197BE4CAFD43.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO IR JĮ KEITUSIŲ �
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymų pripažinimas netekusiais galios
+## 1 straipsnis. Įstatymų pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios:
 
@@ -42,7 +42,7 @@ Pripažinti netekusiais galios:
 
 8) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 2, 3, 4, 5, 6 ir 7 straipsnių pakeitimo įstatymą (Žin., 2005, Nr. 118-4266).
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 1. Gyventojai, praleidę santaupų atkūrimo terminą – iki 1998 m. kovo 31 d. – dėl nuo jų nepriklausančių priežasčių, rašytinį prašymą atidaryti atkuriamąją sąskaitą gali pateikti Komisijai gyventojų prašymams atidaryti atkuriamąją sąskaitą nagrinėti (toliau – Komisija) iki 2011 m. kovo 31 d. Komisija nagrinėja tik tuos gyventojų prašymus, jeigu yra pateikti visi teisės aktuose, reglamentuojančiuose santaupų atkūrimą, nurodyti dokumentai. Komisija veiklą baigia 2011 m. liepos 31 d.
 
@@ -56,7 +56,7 @@ Pripažinti netekusiais galios:
 
 6. Rusijos Federacijai grąžinus buvusios okupacinės sovietinės valdžios nusavintus gyventojų indėlius, laikytus likviduotame buvusios SSRS Ekonominių ryšių su užsieniu banko Lietuvos skyriuje 1992 m. kovo 15 d., Lietuvos Respublikos Vyriausybė nustato tvarką, pagal kurią indėlininkams bus grąžinti indėliai užsienio valiuta.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 2 straipsnio 1, 2, 3, 4 ir 5 dalis, įsigalioja 2011 m. rugpjūčio1 d.
 

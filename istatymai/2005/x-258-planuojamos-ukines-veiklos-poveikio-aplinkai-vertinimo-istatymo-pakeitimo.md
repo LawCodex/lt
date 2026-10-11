@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D55090DE1883"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D55090DE1883.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [82-1965](https://www.e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E); 2000, Nr. [39-1092](https://www.e-tar.lt/portal/lt/legalAct/TAR.BBDACDD3FD39))
 
-\#### 1 straipsnis. Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą ir jį išdėstyti taip:
 
@@ -38,15 +38,15 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO
 
 Į S T A T Y M A S
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas reglamentuoja planuojamos ūkinės veiklos poveikio aplinkai vertinimo procesą ir šio proceso dalyvių tarpusavio santykius.
 
 2. Šiuo įstatymu siekiama suderinti planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso reglamentavimą su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 3 priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Atsakinga institucija – Aplinkos ministerija ar kita Vyriausybės įgaliota institucija, koordinuojanti poveikio aplinkai vertinimo procesą ir vykdanti kitas šio įstatymo nustatytas funkcijas.
 
@@ -68,7 +68,7 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO
 
 10. Visuomenė – vienas arba keli fiziniai ar juridiniai asmenys bei jų organizacijos, asociacijos ar grupės.
 
-\#### 3 straipsnis. Poveikio aplinkai vertinimo objektas ir procesas
+## 3 straipsnis. Poveikio aplinkai vertinimo objektas ir procesas
 
 1. Poveikio aplinkai vertinimo objektas yra planuojama ūkinė veikla, kuri dėl savo pobūdžio, masto ar numatomos vietos ypatumų gali daryti reikšmingą poveikį aplinkai. Ši veikla yra įrašyta į:
 
@@ -94,7 +94,7 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO
 
 6. Kai Lietuvos Respublikos teisės aktų nustatyta tvarka planuojamai ūkinei veiklai yra suteiktas valstybės sienos, krašto apsaugos objekto statusas, o šio įstatymo nuostatų taikymas tokiai veiklai gali turėti neigiamą poveikį valstybės gynybos tikslams, kiekvienu konkrečiu atveju atsakinga institucija sprendžia, ar tokiai veiklai taikytini šio įstatymo reikalavimai.
 
-\#### 4 straipsnis. Poveikio aplinkai vertinimo tikslai
+## 4 straipsnis. Poveikio aplinkai vertinimo tikslai
 
 Poveikio aplinkai vertinimo tikslai:
 
@@ -104,7 +104,7 @@ Poveikio aplinkai vertinimo tikslai:
 
 3) nustatyti, ar planuojama ūkinė veikla, įvertinus jos pobūdį ir poveikį aplinkai, leistina pasirinktoje vietoje.
 
-\#### 5 straipsnis. Poveikio aplinkai vertinimo proceso dalyviai
+## 5 straipsnis. Poveikio aplinkai vertinimo proceso dalyviai
 
 1. Poveikio aplinkai vertinimo proceso dalyviai yra:
 
@@ -120,7 +120,7 @@ Poveikio aplinkai vertinimo tikslai:
 
 2. Poveikio aplinkai vertinimo subjektai gali būti ir kitos šio straipsnio 1 dalies 2 punkte nenurodytos valstybės institucijos, jei jas pakviečia dalyvauti atsakinga institucija ar jos pačios suinteresuotos dalyvauti poveikio aplinkai vertinimo procese ir atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos pobūdį, mastą ar vietos ypatumus, tam pritaria. Tokiais atvejais atsakinga institucija raštu praneša visiems poveikio aplinkai vertinimo subjektams bei planuojamos ūkinės veiklos organizatoriui (užsakovui) ar poveikio aplinkai vertinimo dokumentų rengėjui, kokios kitos valstybės institucijos dalyvauja poveikio aplinkai vertinimo procese.
 
-\#### 6 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių funkcijos
+## 6 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių funkcijos
 
 1. Atsakinga institucija:
 
@@ -138,9 +138,9 @@ Poveikio aplinkai vertinimo tikslai:
 
 5. Visuomenė Aplinkos ministerijos nustatyta tvarka teikia motyvuotus pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir šios veiklos galimo poveikio aplinkai.
 
-\## II SKYRIUS. POVEIKIO APLINKAI VERTINIMAS
+II SKYRIUS. POVEIKIO APLINKAI VERTINIMAS
 
-\#### 7 straipsnis. Atranka ir poveikio aplinkai vertinimas
+## 7 straipsnis. Atranka ir poveikio aplinkai vertinimas
 
 1. Poveikio aplinkai vertinimas atliekamas, kai:
 
@@ -182,7 +182,7 @@ Poveikio aplinkai vertinimo tikslai:
 
 15. Planuojamos ūkinės veiklos organizatorius (užsakovas) gali pradėti poveikio aplinkai vertinimą be atrankos procedūros.
 
-\#### 8 straipsnis. Poveikio aplinkai vertinimo programa
+## 8 straipsnis. Poveikio aplinkai vertinimo programa
 
 1. Poveikio aplinkai vertinimo programa rengiama, kai pagal šio įstatymo 7 straipsnio 1 dalies nuostatas privaloma vertinti planuojamos ūkinės veiklos poveikį aplinkai.
 
@@ -224,7 +224,7 @@ Poveikio aplinkai vertinimo tikslai:
 
 12. Kai poveikio aplinkai vertinimo subjektų išvados prieštarauja viena kitai, atsakinga institucija, prieš tvirtindama programą, kviečia atvykti poveikio aplinkai vertinimo subjektus dalyvauti, kai svarstomos jų išvados, taip pat kviečia ir motyvuotus pasiūlymus pateikusius visuomenės atstovus.
 
-\#### 9 straipsnis. Poveikio aplinkai vertinimo ataskaita
+## 9 straipsnis. Poveikio aplinkai vertinimo ataskaita
 
 1. Poveikio aplinkai vertinimo ataskaitą rengia poveikio aplinkai vertinimo dokumentų rengėjas pagal atsakingos institucijos patvirtintą programą. Šioje ataskaitoje privalo būti išsamiai išnagrinėti visi programoje numatyti klausimai bei pateikta ši informacija: susidarysiančių teršalų aprašymas; atliekų susidarymo, jų tvarkymo aprašymas; aplinkos komponentų, kuriuos planuojama ūkinė veikla gali paveikti, aprašymas; galimo tiesioginio ir netiesioginio planuojamos ūkinės veiklos poveikio visuomenės sveikatai, gyvūnijai ir augalijai, dirvožemiui, žemės paviršiui ir jos gelmėms, orui, vandeniui, klimatui, kraštovaizdžiui, biologinei įvairovei, materialinėms vertybėms ir nekilnojamosioms kultūros vertybėms bei šių aplinkos komponentų tarpusavio sąveikai apibūdinimas ir įvertinimas; priemonių, numatytų neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ar jo padariniams likviduoti, aprašymas; poveikio aplinkai vertinimo dokumentų rengėjo išnagrinėtų alternatyvų analizė, nurodant jų pasirinkimo priežastis, atsižvelgus į geriausius prieinamus gamybos būdus bei galimą poveikį aplinkai; informacija apie techninio ar praktinio pobūdžio problemas, kurios poveikio aplinkai vertinimo dokumentų rengėjui kilo atliekant poveikio aplinkai vertinimą; informacija apie galimas ekstremalias situacijas ir priemones joms išvengti bei padariniams likviduoti; vykdytos aplinkos stebėsenos duomenų analizė (jei tokia buvo vykdyta), numatomos aplinkos stebėsenos metmenys, taip pat visos ataskaitoje nagrinėjamos informacijos santrauka.
 
@@ -242,7 +242,7 @@ Poveikio aplinkai vertinimo tikslai:
 
 8. Visi poveikio aplinkai vertinimo proceso dalyviai planuojamos ūkinės veiklos poveikio aplinkai vertinimo procedūrų vykdymo metu, iki atsakinga institucija priima sprendimą, turi teisę kreiptis į atsakingą instituciją ir poveikio aplinkai vertinimo subjektus jų kompetencijos klausimais, raštu pateikdami informaciją dėl galimų pažeidimų nustatant, apibūdinant ir įvertinant galimą planuojamos ūkinės veiklos poveikį aplinkai ar vykdant poveikio aplinkai vertinimo procedūras.
 
-\#### 10 straipsnis. Sprendimas dėl planuojamos ūkinės veiklos galimybių
+## 10 straipsnis. Sprendimas dėl planuojamos ūkinės veiklos galimybių
 
 1. Atsakinga institucija, išnagrinėjusi ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir planuojamos ūkinės veiklos galimybių, argumentuotą suinteresuotos visuomenės pasiūlymų įvertinimą bei raštu gautus suinteresuotos visuomenės motyvuotus prašymus, per 25 darbo dienas nuo ataskaitos gavimo dienos:
 
@@ -262,9 +262,9 @@ Poveikio aplinkai vertinimo tikslai:
 
 7. Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas) nustatyta tvarka praneša visuomenei motyvuotą sprendimą, ar planuojama ūkinė veikla, atsižvelgiant į atitinkamų įstatymų ir kitų teisės aktų nuostatas, veiklos pobūdį ir poveikį aplinkai, leistina pasirinktoje vietoje, ir suteikia galimybę su juo susipažinti.
 
-\## III SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+III SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 11 straipsnis. Tarpvalstybinio poveikio aplinkai vertinimas
+## 11 straipsnis. Tarpvalstybinio poveikio aplinkai vertinimas
 
 1. Jei atliekant atranką arba rengiant programą paaiškėja, kad Lietuvos Respublikos teritorijoje planuojama ūkinė veikla gali turėti reikšmingą neigiamą poveikį kitos Europos Sąjungos valstybės narės aplinkai, arba kita Europos Sąjungos valstybė narė, kuri, jos nuomone, gali tapti poveikį patiriančia valstybe, to pareikalauja, Lietuvos Respublika informuoja Europos Sąjungos valstybę narę apie planuojamą ūkinę veiklą, galimą tos veiklos tarpvalstybinį poveikį, nurodo laikotarpius, per kuriuos galima pateikti pranešimą, ar galinti patirti poveikį Europos Sąjungos valstybė narė pageidauja pradėti konsultacijas dėl tarpvalstybinio poveikio aplinkai vertinimo, bei nurodo, kada numatoma parengti ataskaitą.
 
@@ -274,11 +274,11 @@ Poveikio aplinkai vertinimo tikslai:
 
 4. Kai Lietuvos Respublikos teritorijoje planuojama ūkinė veikla gali turėti reikšmingą neigiamą poveikį užsienio valstybei, kuri yra prisijungusi prie Jungtinių Tautų Organizacijos 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, arba kai tokia valstybė reikalauja, poveikio aplinkai vertinimas atliekamas vadovaujantis Konvencija, tarptautinėmis sutartimis, kurias Lietuvos Respublika ir atitinkama užsienio valstybė yra sudariusi.
 
-\#### 12 straipsnis. Informacijos, reikalingos poveikio aplinkai vertinimui atlikti, prieinamumas
+## 12 straipsnis. Informacijos, reikalingos poveikio aplinkai vertinimui atlikti, prieinamumas
 
 Valstybės ar savivaldybių institucijos, disponuojančios informacija apie aplinką, reikalinga poveikio aplinkai vertinimui atlikti, privalo planuojamos ūkinės veiklos organizatoriui (užsakovui) ar poveikio aplinkai vertinimo dokumentų rengėjui suteikti galimybę šia informacija pasinaudoti Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-\#### 13 straipsnis. Poveikio aplinkai vertinimo proceso viešumas
+## 13 straipsnis. Poveikio aplinkai vertinimo proceso viešumas
 
 1. Poveikio aplinkai vertinimo metu suinteresuota visuomenė turi teisę įstatymų nustatyta tvarka gauti iš kitų planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso dalyvių informaciją apie galimą planuojamos ūkinės veiklos poveikį aplinkai.
 
@@ -288,11 +288,11 @@ Valstybės ar savivaldybių institucijos, disponuojančios informacija apie apli
 
 4. Atsakinga institucija ir poveikio aplinkai vertinimo subjektai saugo planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar poveikio aplinkai vertinimo dokumentų rengėjo pateiktos informacijos konfidencialumą ir intelektinės nuosavybės teises, jeigu tokia informacija, vadovaujantis Lietuvos Respublikos teisės aktais, yra neskelbtina.
 
-\#### 14 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių atsakomybė
+## 14 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių atsakomybė
 
 Poveikio aplinkai vertinimo proceso dalyviai įstatymų nustatyta tvarka atsako už šio įstatymo nuostatų vykdymą, teisingos informacijos pateikimą ir pagal savo kompetenciją padarytas išvadas ir sprendimus.
 
-\#### 15 straipsnis. Ginčų nagrinėjimas
+## 15 straipsnis. Ginčų nagrinėjimas
 
 1. Ginčai dėl šio įstatymo taikymo, poveikio aplinkai vertinimo subjektų išvadų, atsakingos institucijos išvadų ir sprendimų, šio įstatymo 8 straipsnio 9 dalyje nurodyto savivaldybės tarybos sprendimo nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
@@ -674,7 +674,7 @@ poveikio aplinkai vertinimo įstatymo
 
 2. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šio įstatymo normos, reglamentuojančios planuojamos ūkinės veiklos poveikio aplinkai vertinimą, taikomos procedūroms, pradėtoms įsigaliojus šiam įstatymui. Poveikio aplinkai vertinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos pagal tuo metu galiojusias teisės normas.
 

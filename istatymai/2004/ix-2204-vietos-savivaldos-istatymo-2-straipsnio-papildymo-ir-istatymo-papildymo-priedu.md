@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.747A11448DDE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.747A11448DDE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 2 straipsnio papildymo ir įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 2 dalimi
 
 Papildyti 2 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 2 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“
 
-\#### 2 straipsnis. Įstatymo papildymas priedu
+## 2 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

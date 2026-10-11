@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AF5E1EF50041"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AF5E1EF50041.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 7, 11, 14 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [14-352](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5DA698A4015))
 
-\#### 1 straipsnis. 7 straipsnio 4 punkto pakeitimas
+## 1 straipsnis. 7 straipsnio 4 punkto pakeitimas
 
 7 straipsnio 4 punkte vietoj žodžių „apskričių valdytojai“ įrašyti žodžius „apskričių viršininkai“ ir šį punktą išdėstyti taip:
 
 „4) apskričių viršininkai;“.
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 11 straipsnio pavadinime vietoj žodžių „Apskrities valdytojo“ įrašyti žodžius „Apskrities viršininko“, straipsnyje vietoj žodžių „Apskrities valdytojas“ įrašyti žodžius „Apskrities viršininkas“ ir šį straipsnį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Apskrities viršininkas:
 
 5) skiria ir atleidžia apskrities muziejaus vadovą bei vyriausiąjį fondų saugotoją, gavęs Kultūros ministerijos raštišką sutikimą.“
 
-\#### 3 straipsnis. 14 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 14 straipsnio 5 dalies pakeitimas
 
 14 straipsnio 5 dalyje vietoj žodžių „apskrities valdytojas“ įrašyti žodžius „apskrities viršininkas“ ir šią dalį išdėstyti taip:
 

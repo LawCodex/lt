@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6E4F763534E5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6E4F763534E5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymo 1, 2 ir 7 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2010, Nr. [86-4533](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF54104D1286))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3) motinystės (tėvystės) – kol vaikui sueis vieni arba dveji metai.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 6 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Maksimaluskompensuojamasis uždarbis pašalpoms apskaičiuoti negali viršyti teisės į atitinkamą pašalpą atsiradimo mėnesį galiojusių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų keturių dydžių sumos.“
 
-\#### 3 straipsnis. 7 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 7 straipsnio 3 dalies pakeitimas
 
 Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 

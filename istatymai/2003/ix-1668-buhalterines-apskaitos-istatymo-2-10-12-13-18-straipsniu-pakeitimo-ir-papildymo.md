@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.003C43F3CE8D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.003C43F3CE8D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 10, 12, 13, 18 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,25 +28,25 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E), Nr. [110-3995](https://www.e-tar.lt/portal/lt/legalAct/TAR.7900E9A27110); 2002, Nr. [112-4967](https://www.e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8), Nr. [123-5548](https://www.e-tar.lt/portal/lt/legalAct/TAR.25A3A951B261))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 2 straipsnio 1 dalyje vietoj skaičiaus „4“ įrašyti skaičių „7“ ir šią dalį išdėstyti taip:
 
 „1. **Apskaitos dokumentas** – popierinis arba elektroninis liudijimas, patvirtinantis ūkinę operaciją arba ūkinį įvykį ir turintis rekvizitus, pagal kuriuos galima nustatyti ūkinės operacijos arba ūkinio įvykio tapatumą, taip pat šio įstatymo 13 straipsnio 7dalyje nurodytas dokumentas.“
 
-\#### 2 straipsnis. 10 straipsnio 1 dalies 4 punkto pakeitimas
+## 2 straipsnis. 10 straipsnio 1 dalies 4 punkto pakeitimas
 
 Pakeisti 10 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) ūkininkas arba ūkininko partneriai.“
 
-\#### 3 straipsnis. 12 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 12 straipsnio 3 dalies pakeitimas
 
 12 straipsnio 3 dalyje po žodžių „teikimo pagal sutartis“ įrašyti žodžius „arba paslaugų, įgytų naudojantis telekomunikacijų įranga“ ir šią dalį išdėstyti taip:
 
 „3. Nuolatinių ir ilgalaikių paslaugų (energijos, dujų, ryšių, nuomos ir kitų) teikimo pagal sutartis arba paslaugų, įgytų naudojantis telekomunikacijų įranga, praėjusio laikotarpio, kuris negali būti ilgesnis negu vienas mėnuo, apskaitos dokumentai išrašomi ir pateikiami (išsiunčiami) paslaugos gavėjui ne vėliau kaip iki kito mėnesio 10 dienos. Ūkine veikla nesiverčiantiems fiziniams asmenims Vyriausybės nustatyta tvarka gali būti išrašomi ir pateikiami (išsiunčiami) ne ilgesnio kaip du mėnesiai laikotarpio nuolatinių ir ilgalaikių paslaugų teikimo apskaitos dokumentai.“
 
-\#### 4 straipsnis. 13 straipsnio 3 ir 4 dalių pakeitimas ir straipsnio papildymas nauja 6 dalimi
+## 4 straipsnis. 13 straipsnio 3 ir 4 dalių pakeitimas ir straipsnio papildymas nauja 6 dalimi
 
 1. 13 straipsnio 3 dalyje vietoj žodžių ir skaičių „šio straipsnio 1, 2 ir 4 dalyse“ įrašyti žodžius „šiame straipsnyje“ ir šią dalį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 10 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 4. Buvusią 13 straipsnio 6 dalį laikyti 7 dalimi.
 
-\#### 5 straipsnis. 18 straipsnio 4 dalies pakeitimas
+## 5 straipsnis. 18 straipsnio 4 dalies pakeitimas
 
 18 straipsnio 4 dalies pirmame ir trečiame sakinyje po žodžio „sudarymo“ įrašyti žodžius „ir patvirtinimo“ ir šią dalį išdėstyti taip:
 

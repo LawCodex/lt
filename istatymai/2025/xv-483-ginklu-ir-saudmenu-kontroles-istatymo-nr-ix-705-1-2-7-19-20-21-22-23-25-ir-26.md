@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0d5b8c82afcf11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0D5B8C82AFCF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 2, 7, 19, 20, 21, 22, 23, 25 ir 26 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 1, 2, 7, 19, 20, 21, 22, 2
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -154,7 +154,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 24. Pripažinti netekusia galios 2 straipsnio 66 dalį.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „6. Šio straipsnio 5 dalyje nurodytus sprendimus ekspertų komisija, nurodyta šio įstatymo 1 straipsnio 4 dalyje, priima per 30 darbo dienų nuo šiems sprendimams priimti reikalingos informacijos ir (arba) dokumentų gavimo dienos. Šių sprendimų priėmimo ir ekspertų komisijos darbo organizavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 4 straipsnis. 19 straipsnio pakeitimas
+## 4 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „9. Rašytinis sutikimas neišduodamas ir tuo atveju, kai iš paslaugų teikėjo registracijos valstybės narės gaunama informacija, kad paslaugų teikėjo registracija, licencija ir (ar) leidimas negalioja, licencijos ir (ar) leidimo galiojimas sustabdytas, taip pat jeigu į patikrintų darbuotojų, kurie dirba su licencijuojama veikla tiesiogiai susijusį darbą, sąrašus yra įtraukti asmenys, neturintys teisės dirbti su licencijuojama veikla tiesiogiai susijusio darbo.“
 
-\#### 5 straipsnis. 20 straipsnio pakeitimas
+## 5 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -182,7 +182,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kitos organizacijos arba jų padalinio, kuris verčiasi licencijuojama veikla, darbuotoju, dirbančiu su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininku negali būti asmuo, kuriam taikomos šio įstatymo 17 straipsnio 1 dalies 3, 10, 11 punktų ir (ar) 18 straipsnio 2 dalies nuostatos.“
 
-\#### 6 straipsnis. 21 straipsnio pakeitimas
+## 6 straipsnis. 21 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kit
 
 „8) prieš priimdamas į darbą naują darbuotoją, kuris dirbs su licencijuojama veikla tiesiogiai susijusį darbą, pateikti policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, jeigu asmens kodo neturi – gimimo datą, gyvenamosios vietos adresą) ir informuoti šį asmenį apie jo pareigą gauti sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo;“.
 
-\#### 7 straipsnis. 22 straipsnio pakeitimas
+## 7 straipsnis. 22 straipsnio pakeitimas
 
 1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -206,13 +206,13 @@ Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kit
 
 „3) ant pagamintų ginklų, jų dalių ir ginklų priedėlių nurodyti šalį gamintoją, gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus (jeigu jie nėra identifikacinio numerio dalis) ir identifikacinį numerį. Kai ginklo dalis yra pernelyg maža, kad būtų pažymėta pagal šiame punkte nustatytus reikalavimus, ji žymima bent identifikaciniu numeriu;“.
 
-\#### 8 straipsnis. 23 straipsnio pakeitimas
+## 8 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Europos fiziniai ir Europos juridiniai asmenys, kurie verčiasi ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba, importu ar ginklų taisymu, ginklų ir šaudmenų perdirbimu, A kategorijos ginklus, ginklų priedėlius, šaudmenis, jų dalis importuoja, eksportuoja, siunčia Strateginių prekių kontrolės įstatymo nustatyta tvarka.“
 
-\#### 9 straipsnis. 25 straipsnio pakeitimas
+## 9 straipsnis. 25 straipsnio pakeitimas
 
 1. Pakeisti 25 straipsnio 6 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -226,13 +226,13 @@ Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „7) prieš priimdamas į darbą naują darbuotoją, kuris dirbs su ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta tiesiogiai susijusį darbą, pateikti policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, jeigu asmens kodo neturi – gimimo datą, gyvenamosios vietos adresą) ir informuoti šį asmenį apie jo pareigą gauti sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo;“.
 
-\#### 10 straipsnis. 26 straipsnio pakeitimas
+## 10 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Europos fizinis asmuo ar Europos juridinis asmuo ginklus, jų dalis gali paimti taisyti, perdirbti tik įsitikinęs, kad taisyti, perdirbti ginklą, jų dalis atiduodantis asmuo juos turi teisėtai (turi leidimą laikyti ginklus ar leidimą nešiotis ginklus). Ginklo perdirbimo atveju Europos fizinis asmuo ar Europos juridinis asmuo, kuris priima ginklą perdirbti, papildomai turi pareikalauti pateikti leidimą perdirbti ginklą.“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.519B021AB4AF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.519B021AB4AF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 4, 8, 15, 16, 17, 22, 25, 30, 43 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [73-3103](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF), Nr. [116-5192](https://www.e-tar.lt/portal/lt/legalAct/TAR.E1D44CE564C0), Nr. [123-5541](https://www.e-tar.lt/portal/lt/legalAct/TAR.77A336B3902C); 2003, Nr. [17-705](https://www.e-tar.lt/portal/lt/legalAct/TAR.86426B5C8851), Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610), Nr. [116-5258](https://www.e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9); 2004, Nr. [4-32](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA), Nr. [36-1180](https://www.e-tar.lt/portal/lt/legalAct/TAR.AADCB2D9993D))
 
-\#### 1 straipsnis. 4 straipsnio 3 dalies papildymas
+## 1 straipsnis. 4 straipsnio 3 dalies papildymas
 
 Papildyti 4 straipsnio 3 dalį nauju antru sakiniu ir šią dalį išdėstyti taip:
 
 „3. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams taikoma šio Įstatymo 33 straipsnio 3 dalis. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio Įstatymo 36 straipsnis.Valstybės saugumo departamento generaliniam direktoriui, jo pavaduotojams, Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams bei policijos generaliniam komisarui taikomos šio Įstatymo VI skyriaus nuostatos.“
 
-\#### 2 straipsnis. 8 straipsnio 3 ir 5 dalių pakeitimas ir papildymas
+## 2 straipsnis. 8 straipsnio 3 ir 5 dalių pakeitimas ir papildymas
 
 1. Pakeisti 8 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -48,13 +48,13 @@ Papildyti 4 straipsnio 3 dalį nauju antru sakiniu ir šią dalį išdėstyti ta
 
 „5. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių tvirtina: Vyriausybė – Vyriausybės kanceliarijoje,ministerijose, Vyriausybės įstaigose ir įstaigose prie ministerijų, apskričių viršininkų administracijose ir Vyriausybės atstovų tarnybose; Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento institucijoje ir Respublikos Prezidentui atskaitingose institucijose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš savivaldybės biudžeto, pareigybiųskaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba.“
 
-\#### 3 straipsnis. 15 straipsnio 1 dalies 11 punkto papildymas
+## 3 straipsnis. 15 straipsnio 1 dalies 11 punkto papildymas
 
 Papildyti 15 straipsnio 1 dalies 11 punktą žodžiais „taip pat savivaldybės tarybos nario pareigų atlikimą“ ir šį punktą išdėstyti taip:
 
 „11) nedalyvauti šio Įstatymo 17 straipsnyje nurodytoje su valstybės tarnautojo pareigomis nesuderinamoje veikloje ir nenaudoti tarnybos(darbo) laiko kitiems tikslams, išskyrus mokslinį ir pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose ir neformalųjį suaugusiųjų švietimą, taip pat savivaldybės tarybos nario pareigų atlikimą.“
 
-\#### 4 straipsnis. 16 straipsnio 1 dalies 7 punkto ir 2 dalies pakeitimas
+## 4 straipsnis. 16 straipsnio 1 dalies 7 punkto ir 2 dalies pakeitimas
 
 1. 16 straipsnio 1 dalies 7 punkte po žodžio „laiku“ įrašyti žodžius „išskyrus valstybės tarnautojus, atliekančius savivaldybės tarybos nario pareigas“ ir šį punktą išdėstyti taip:
 
@@ -64,7 +64,7 @@ Papildyti 15 straipsnio 1 dalies 11 punktą žodžiais „taip pat savivaldybės
 
 „2. Kai pasibaigia asmens paskyrimo į valstybės politiko, valstybės pareigūno arba valstybės tarnautojo – įstaigos vadovo, kolegialios valstybės institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu, pareigas laikas, Seimo, Europos Parlamento ar savivaldybės tarybos kadencija arba asmuo atsistatydina ar prieš terminą atleidžiamas iš valstybės politiko, valstybės pareigūno arba iš valstybės tarnautojo – įstaigos vadovo, kolegialios valstybės institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu pareigų, asmuo, kuris prieš paskiriant į valstybės politiko, valstybės pareigūno arba valstybės tarnautojo – įstaigos vadovo, kolegialios valstybės institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu, pareigas ar išrenkant Seimo, Europos Parlamento ar savivaldybės tarybos nariu buvo valstybės tarnautojas, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus, turi teisę per 3 mėnesius nuo šioje dalyje nurodytų aplinkybių atsiradimo Vyriausybės nustatyta tvarka atkurti valstybės tarnautojo (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo) statusą – grįžti į eitas arba, jeigu nėra galimybės, kitas tos pačios ar žemesnės kategorijos pareigas. Per 3 mėnesius nuo darbo tarptautinėje organizacijoje ar institucijoje, Europos Sąjungos institucijoje ar įstaigoje pabaigos teisę atkurti karjeros valstybės tarnautojo statusą – grįžti į eitas arba, jeigu nėra galimybės, kitas tos pačios ar žemesnės kategorijos pareigas turi iki paskyrimo dirbti tarptautinėje organizacijoje ar institucijoje, Europos Sąjungos institucijoje ar įstaigoje savo noru atsistatydinę iš karjeros valstybės tarnautojo pareigų asmenys. Tokios teisės neturi asmenys, kurie buvo atleisti iš tarptautinės organizacijos ar institucijos, Europos Sąjungos institucijos ar įstaigos dėl priežasčių, susijusių su netinkamu pareigų vykdymu ar nepatenkinamais tarnybinės veiklos rezultatais, ar už tarnybinius nusižengimus. Atlikusiam privalomąją pradinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą valstybės tarnautojui užtikrinama teisė grįžti į eitas pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje.“
 
-\#### 5 straipsnis. 17 straipsnio 2 ir 4 punktų papildymas
+## 5 straipsnis. 17 straipsnio 2 ir 4 punktų papildymas
 
 1. Papildyti 17 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Papildyti 15 straipsnio 1 dalies 11 punktą žodžiais „taip pat savivaldybės
 
 „4) dirbti samdomu darbuotoju, patarėju, ekspertu ar konsultantu privačiuosiuose juridiniuose asmenyse, valstybės ar savivaldybės įmonėse, viešosiose įstaigose, taip pat gauti kitą negu šio Įstatymo nustatytą darbo užmokestį, išskyrus atlyginimą už darbą visų lygių rinkimų, referendumo komisijose bei už darbą pagal sutartis su rinkimų arba referendumo komisijomis, už mokslinį ir pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą, už teisės aktų projektų rengimą (jei ši funkcija nenurodyta valstybės tarnautojo pareigybės aprašyme), kai jis Seimo nutarimu ar Seimo valdybos sprendimu, Seimo Pirmininko potvarkiu, Respublikos Prezidento dekretu, Vyriausybės nutarimu ar Ministro Pirmininko potvarkiu paskiriamas rengti teisės aktų projektus, taip pat išskyrus autorinį atlyginimą už kūrinius, kurie yra intelektinės nuosavybės teisių objektai, ir atlyginimą už darbą atliekant savivaldybės tarybos nario pareigas ne tarnybos (darbo) metu, arba tarnybos (darbo) laiku, jeigu už tą darbo laiką neturi būti mokamas valstybės tarnautojo darbo užmokestis;“.
 
-\#### 6 straipsnis. 22 straipsnio 5, 8, 9 ir 13 dalių pakeitimas ir papildymas
+## 6 straipsnis. 22 straipsnio 5, 8, 9 ir 13 dalių pakeitimas ir papildymas
 
 1. 22 straipsnio 5 dalyje išbraukti žodžius „valstybės ar savivaldybės institucijoje ar įstaigoje“, vietoj skaičiaus „20“ įrašyti skaičių „10“ ir šią dalį išdėstyti taip:
 
@@ -92,11 +92,11 @@ Papildyti 15 straipsnio 1 dalies 11 punktą žodžiais „taip pat savivaldybės
 
 „13. Kai iškyla abejonių dėl įstaigos vadovo ar karjeros valstybės tarnautojo tarnybinės veiklos rezultatų arba yra valstybės tarnautojo rašytinis prašymas perkelti į aukštesnes pareigas, tiesioginio valstybės tarnautojo vadovo rašytiniu motyvuotu pasiūlymu ir valstybės tarnautoją į pareigas priėmusio asmens sprendimu (įsakymu) gali būti neeilinis valstybės tarnautojo vertinimas. Be to, neeilinis valstybės tarnautojo vertinimas gali būti ir tuo atveju, kai yra valstybės tarnautojo tiesioginio vadovo pasiūlymas suteikti valstybės tarnautojui trečią arba aukštesnę kvalifikacinę klasę.Neeilinis valstybės tarnautojo vertinimas gali būti ne anksčiau kaip praėjus 6 mėnesiams nuo eilinio valstybės tarnautojo vertinimo dienos.“
 
-\#### 7 straipsnis. 25 straipsnio 4 dalies pripažinimas netekusia galios
+## 7 straipsnis. 25 straipsnio 4 dalies pripažinimas netekusia galios
 
 25 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 8 straipsnis. 30 straipsnio 1 ir 4 dalių pakeitimas
+## 8 straipsnis. 30 straipsnio 1 ir 4 dalių pakeitimas
 
 1. 30 straipsnio 1 dalyje vietoj žodžių „Tarnybinių nuobaudų skyrimo procedūra pradedama įstaigos vadovo, tiesioginio valstybės tarnautojo vadovo“ įrašyti žodžius „Tarnybinio nusižengimo tyrimas pradedamas valstybės tarnautoją į pareigas priėmusio asmens“, vietoj žodžio „jie“ įrašyti žodį „jis“ ir šią dalį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Papildyti 15 straipsnio 1 dalies 11 punktą žodžiais „taip pat savivaldybės
 
 „4. Kai paaiškėja, kad tarnybinis nusižengimas turi baudžiamosios veikos ar administracinio teisės pažeidimo požymių, tarnybinio nusižengimo tyrimassustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti atitinkamas bylas. Jeigu atsisakoma iškelti baudžiamąją arba administracinę bylą ar asmuo atleidžiamas nuo baudžiamosios arba administracinės atsakomybės, tarnybinio nusižengimo tyrimastęsiamas ir tarnybinė nuobauda turi būti paskirta šio straipsnio 1 dalyje nustatyta tvarka ir terminais.“
 
-\#### 9 straipsnis. 43 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 43 straipsnio pakeitimas ir papildymas
 
 1. 43 straipsnio 1 dalies trečiame sakinyje vietoj žodžių „Karjeros valstybės“ įrašyti žodį „Valstybės“ ir šią dalį išdėstyti taip:
 

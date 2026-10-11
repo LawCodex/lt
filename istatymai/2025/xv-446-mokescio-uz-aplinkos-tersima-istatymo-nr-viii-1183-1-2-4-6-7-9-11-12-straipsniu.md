@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/625cdd70a27211f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.625CDD70A272.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 1, 2, 4, 6, 7, 9, 11, 12 straipsnių ir 3, 7, 8 priedų pakeitimo
@@ -26,13 +26,13 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO NR. VIII-1183 1, 2, 4, 6, 7, 9, 11, 1
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Papildyti 1 straipsnį 4 dalimi:
 
 „4. Asmens duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu [(ES) 2016/679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R0679&locale=lt) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva [95/46/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31995L0046&locale=lt) (Bendruoju duomenų apsaugos reglamentu) ir kitais teisės aktais, reglamentuojančiais asmens duomenų tvarkymą ir mokesčių administravimą.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 6 dalį.
 
@@ -66,7 +66,7 @@ Papildyti 1 straipsnį 4 dalimi:
 
 5) likviduojamų arba reorganizuojamų mokesčio mokėtojų gaminių ir (ar) tuščių ar pripildytų pakuočių, neperleistų kitam asmeniui, pagaminimas, įvežimas iš kitos valstybės narės ar trečiosios šalies į Lietuvos Respublikos teritoriją, įskaitant muitinės sandėlius, laikinojo saugojimo sandėlius ir laisvąsias zonas.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -80,11 +80,11 @@ Papildyti 1 straipsnį 4 dalimi:
 
 „9) Lietuvos Respublikos vidaus rinkai tiektos padangos, nurodytos šio įstatymo 3 priede, kaip atskiri gaminiai, neįeinantys į kito gaminio sudėtį, ir kaip gaminiai, įeinantys į kito gaminio, išskyrus Atliekų tvarkymo įstatymo 2 straipsnio 65 dalyje nurodytas transporto priemones, sudėtį.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 6 straipsnio 8 dalies 1 punktą.
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pripažinti netekusiu galios 6 straipsnio 8 dalies 1 punktą.
 
 11. Mokestinių metų vartotojų kainų indeksas šio įstatymo 8 priede nurodytiems mokesčio už aplinkos teršimą tarifams nustatomas prieš atitinkamus mokestinius metus einančių metų liepos mėnesio kainas palyginus su 2018 metų liepos mėnesio kainomis.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -224,7 +224,7 @@ b) skiriamos ekonominės sankcijos dydis lygus apskaičiuoto nuslėpus taršą p
 
 10. Nesumokėtas mokestis už aplinkos teršimą, ekonominė sankcija sumokami arba išieškomi, delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių administravimo įstatyme nustatyta tvarka.“
 
-\#### 7 straipsnis. 11 straipsnio pakeitimas
+## 7 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -234,7 +234,7 @@ b) skiriamos ekonominės sankcijos dydis lygus apskaičiuoto nuslėpus taršą p
 
 „5. Ginčai dėl mokesčio už aplinkos teršimą, su juo susijusių delspinigių ir ekonominių sankcijų apskaičiavimo, deklaravimo ir sumokėjimo privaloma ikiteismine tvarka nagrinėjami Mokestinių ginčų komisijoje prie Lietuvos Respublikos Vyriausybės. Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės sprendimai gali būti skundžiami teismui.“
 
-\#### 8 straipsnis. 12 straipsnio pakeitimas
+## 8 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -250,7 +250,7 @@ b) skiriamos ekonominės sankcijos dydis lygus apskaičiuoto nuslėpus taršą p
 
 3. Buvusią 12 straipsnio 3 dalį laikyti 4 dalimi.“
 
-\#### 9 straipsnis. Įstatymo 3 priedo pakeitimas
+## 9 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Pakeisti Įstatymo 3 priedą ir jį išdėstyti taip:
 
@@ -262,73 +262,57 @@ mokesčio už aplinkos teršimą įstatymo
 
 GAMINIŲ SĄRAŠAS IR MOKESČIO UŽ APLINKOS TERŠIMĄ TARIFAI
 
-\| Gaminys | Kodas | Tarifas, Eur/t | | |
-
-\| --- | --- | --- | --- | --- |
-
-\| naujos | restauruotos | naudotos | | |
-
-\| 1. Motociklų ir lengvųjų automobilių padangos | 4011 10 00, 4011 40 00 | 4012 11 00, ex 4012 19 00 | ex 4012 20 00 | 536 |
-
-\| 2. Autobusų, krovininių automobilių, žemės ūkio, miško ūkio, orlaivių, statybos, pramonės paskirties transporto priemonių padangos ir kitos padangos, sveriančios daugiau kaip 3 kg | ex 4011 20, ex 4011 30 00, ex 4011 70 00, ex 4011 80 00, ex 4011 90 00 | ex 4012 12 00, ex 4012 13 00, ex 4012 19 00 | ex 4012 20 00 | 536 |
-
-\| 4012 90 20 | | | | |
-
-\| 3. Akumuliatoriai | 8507 | 222 | | |
-
-\| 4. Baterijos (galvaniniai elementai) | 8506 | 4 469 | | |
-
-\| 5. Vidaus degimo variklių degalų arba tepalų filtrai, jų dalys ir komponentai | 8421 23 00, ex 8421 99 90 | 714 | | |
-
-\| 6. Vidaus degimo variklių įsiurbiamo oro filtrai, jų dalys ir komponentai | 8421 31 00, ex 8421 99 90 | 714 | | |
-
-\| 7. Autotransporto priemonių amortizatoriai | ex 8708 80 | 535 | | |
+| Gaminys | Kodas | Tarifas, Eur/t |  |  |
+| --- | --- | --- | --- | --- |
+| naujos | restauruotos | naudotos |  |  |
+| 1. Motociklų ir lengvųjų automobilių padangos | 4011 10 00, 4011 40 00 | 4012 11 00, ex 4012 19 00 | ex 4012 20 00 | 536 |
+| 2. Autobusų, krovininių automobilių, žemės ūkio, miško ūkio, orlaivių, statybos, pramonės paskirties transporto priemonių padangos ir kitos padangos, sveriančios daugiau kaip 3 kg | ex 4011 20, ex 4011 30 00, ex 4011 70 00, ex 4011 80 00, ex 4011 90 00 | ex 4012 12 00, ex 4012 13 00, ex 4012 19 00 | ex 4012 20 00 | 536 |
+| 4012 90 20 |  |  |  |  |
+| 3. Akumuliatoriai | 8507 | 222 |  |  |
+| 4. Baterijos (galvaniniai elementai) | 8506 | 4 469 |  |  |
+| 5. Vidaus degimo variklių degalų arba tepalų filtrai, jų dalys ir komponentai | 8421 23 00, ex 8421 99 90 | 714 |  |  |
+| 6. Vidaus degimo variklių įsiurbiamo oro filtrai, jų dalys ir komponentai | 8421 31 00, ex 8421 99 90 | 714 |  |  |
+| 7. Autotransporto priemonių amortizatoriai | ex 8708 80 | 535 |  |  |
 
 **Pastaba.** Prekių kodai pateikti pagal Kombinuotąją nomenklatūrą, patvirtintą 1987 m. liepos 23 d. Tarybos reglamentu [(EEB) Nr. 2658/87](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31987R2658&locale=lt) dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo su visais pakeitimais. Prie kodo nurodomas raidžių junginys *ex* reiškia, kad apmokestinami tik atitinkamam Kombinuotosios nomenklatūros kodui priskiriami gaminiai, atitinkantys lentelės pirmoje skiltyje pateiktų atitinkamų gaminių aprašymą.
 
 ––––––––––––––––––“.
 
-\#### 10 straipsnis. Įstatymo 7 priedo pakeitimas
+## 10 straipsnis. Įstatymo 7 priedo pakeitimas
 
 1. Pakeisti Įstatymo 7 priedo 1 punktą ir jį išdėstyti taip:
 
-\| „1. Geležinkelių, vidaus vandenų transporto priemonės ir ne keliais judantys mechanizmai, kuriuose įrengtas vidaus degimo variklis, atitinkantis V etapo išmetamų teršalų ribines vertes, nustatytas 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/1628 dėl reikalavimų, susijusių su ne keliais judančių mechanizmų vidaus degimo variklių dujinių ir kietųjų dalelių išmetamųjų teršalų ribinėmis vertėmis ir tipo patvirtinimu, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1024/2012 ir (ES) Nr. 167/2013 ir iš dalies keičiama bei panaikinama Direktyva 97/68/EB su visais pakeitimais | 0,4“. |
-
-\| --- | --- |
+| „1. Geležinkelių, vidaus vandenų transporto priemonės ir ne keliais judantys mechanizmai, kuriuose įrengtas vidaus degimo variklis, atitinkantis V etapo išmetamų teršalų ribines vertes, nustatytas 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/1628 dėl reikalavimų, susijusių su ne keliais judančių mechanizmų vidaus degimo variklių dujinių ir kietųjų dalelių išmetamųjų teršalų ribinėmis vertėmis ir tipo patvirtinimu, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1024/2012 ir (ES) Nr. 167/2013 ir iš dalies keičiama bei panaikinama Direktyva 97/68/EB su visais pakeitimais | 0,4“. |
+| --- | --- |
 
 2. Pakeisti Įstatymo 7 priedo 2.1 papunktį ir jį išdėstyti taip:
 
-\| „2.1. mažiau kaip prieš 5 metus | 0,5“. |
+| „2.1. mažiau kaip prieš 5 metus | 0,5“. |
+| --- | --- |
 
-\| --- | --- |
-
-\#### 11 straipsnis. Įstatymo 8 priedo pakeitimas
+## 11 straipsnis. Įstatymo 8 priedo pakeitimas
 
 1. Pakeisti Įstatymo 8 priedo 1 punktą ir jį išdėstyti taip:
 
-\| „1. Nepavojingųjų atliekų sąvartyne šalinamos atliekos, išskyrus šio priedo 2 punkte nurodytas atskirose sekcijose šalinamas asbesto atliekas ir nepavojingųjų atliekų sąvartyne šalinamas fosfogipso atliekas | 50,00“. |
-
-\| --- | --- |
+| „1. Nepavojingųjų atliekų sąvartyne šalinamos atliekos, išskyrus šio priedo 2 punkte nurodytas atskirose sekcijose šalinamas asbesto atliekas ir nepavojingųjų atliekų sąvartyne šalinamas fosfogipso atliekas | 50,00“. |
+| --- | --- |
 
 2. Papildyti Įstatymo 8 priedą 5 punktu:
 
-\| „5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos | 0,50“. |
-
-\| --- | --- |
+| „5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos | 0,50“. |
+| --- | --- |
 
 3. Pakeisti Įstatymo 8 priedo 5 punktą ir jį išdėstyti taip:
 
-\| „5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos | 0,75“. |
-
-\| --- | --- |
+| „5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos | 0,75“. |
+| --- | --- |
 
 4. Pakeisti Įstatymo 8 priedo 5 punktą ir jį išdėstyti taip:
 
-\| „5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos | 1,00“. |
+| „5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos | 1,00“. |
+| --- | --- |
 
-\| --- | --- |
-
-\#### 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 3 straipsnio 1 ir 3 dalys, 5, 8 ir 9 straipsniai įsigalioja 2026 m. sausio 1 d.
 

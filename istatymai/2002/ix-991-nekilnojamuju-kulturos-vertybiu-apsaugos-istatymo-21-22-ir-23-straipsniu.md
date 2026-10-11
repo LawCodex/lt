@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D2E537C5D790"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D2E537C5D790.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo 21, 22 ir 23 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [3-37](https://www.e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8); 1997, Nr. [96-2421](https://www.e-tar.lt/portal/lt/legalAct/TAR.75B34F7B7CCF); 2000, Nr. [40-1114](https://www.e-tar.lt/portal/lt/legalAct/TAR.D479C6B5E9F6))
 
-\#### 1 straipsnis. 21 straipsnio pakeitimas
+## 1 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Stichinių ar žmonių išprovokuotų nelaimių sunaikinta ar išardyta nekilnoj
 
 Nekilnojamąją kultūros vertybę draudžiama perkelti, išskyrus atvejus, kai perkėlimas yra būtinas užtikrinant tokios vertybės išsaugojimą. Turi būti imtasi visų būtinų atsargos priemonių tokį objektą išardant, pervežant ir vėl pastatant tinkamoje vietoje.“
 
-\#### 2 straipsnis. 22 straipsnio pakeitimas
+## 2 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Tyrimų metu rasti istorinę, kultūrinę ar archeologinę vertę turintys radin
 
 Nekilnojamosios kultūros vertybės tvarkymo metu išaiškėjus naujiems kultūrinės vertės požymiams, valstybės biudžeto lėšomis atliekami būtini tyrimai, pagal kuriuos tokia vertybė gali būti papildomai konservuojama ar restauruojama.“
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas
+## 3 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Nekilnojamųjų kultūros vertybių tvarkymo darbų priėmimo tvarką nustato ku
 
 Nekilnojamosios kultūros vertybės tvarkymo darbų programos galioja penkerius metus. Tokios vertybės konservavimo, pritaikymo, restauravimo ir atkūrimo darbų projekto galiojimo laikas nustatomas šių darbų leidime, tačiau projektas netenka galios, jei per trejus metus nuo leidimo išdavimo darbai nebuvo pradėti vykdyti.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
 

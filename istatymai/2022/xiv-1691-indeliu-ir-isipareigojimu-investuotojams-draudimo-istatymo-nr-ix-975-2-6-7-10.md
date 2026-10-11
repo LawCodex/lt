@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7e545790881911ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7E5457908819.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 6, 7, 10, 11, 12, 13, 14, 16, 17, 18, 22, 23, 25, 26, 27, 28, 29, 30, 38, 39, 40, 42, 43, 45 straipsnių, penktojo, šeštojo skirsnių pavadinimų ir 1 priedo pakeitimo, Įstatymo papildymo 16-1, 48 straipsniais ir 36, 37, 41 straipsnių pripažinimo netekusiais galios įstatymas

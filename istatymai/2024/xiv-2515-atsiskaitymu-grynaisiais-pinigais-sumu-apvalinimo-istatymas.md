@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9926c840f1be11ee9f5b8ffa077f9188"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9926C840F1BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymas
@@ -26,15 +26,15 @@ ATSISKAITYMŲ GRYNAISIAIS PINIGAIS SUMŲ APVALINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato atsiskaitymų už prekes (paslaugas) grynaisiais pinigais sumų apvalinimo tvarką.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos rinkliavų įstatyme, Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, Lietuvos Respublikos valiutos keityklos operatorių įstatyme.
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas taikomas:
 
@@ -62,7 +62,7 @@ Vilnius
 
 9) kai bendra mokėtina suma už vienu metu grąžinamas (-ą) prekes (-ę), įsigyjamas ar parduodamas prekes (paslaugas) (toliau – bendra mokėtina suma) yra mažesnė nei 5 euro centai, išskyrus šio įstatymo 4 straipsnio 2 dalyje numatytus atvejus.
 
-\#### 4 straipsnis. Atsiskaitymų grynaisiais pinigais sumų apvalinimas
+## 4 straipsnis. Atsiskaitymų grynaisiais pinigais sumų apvalinimas
 
 1. Asmeniui (pirkėjui) atsiskaitant už prekes (paslaugas) grynaisiais pinigais, ūkio subjektas bendrą mokėtiną sumą privalo apvalinti iki artimiausio 5 euro centų kartotinio. Apvalinama taip:
 
@@ -78,15 +78,15 @@ Vilnius
 
 3. Šio straipsnio 1 dalies nuostatos taikomos ir ūkio subjekto grąžinamoms sumoms grynaisiais pinigais asmeniui (pirkėjui) už šio grąžinamą (-as) prekę (-es). Apvalinama grynaisiais pinigais grąžinama suma, nepriklausomai nuo grąžinamų prekių skaičiaus ir mokėjimo priemonės, kuria buvo atsiskaityta įsigyjant tą (tas) prekę (-es).
 
-\#### 5 straipsnis. Įstatymo įgyvendinimo kontrolė
+## 5 straipsnis. Įstatymo įgyvendinimo kontrolė
 
 Lietuvos bankas konsultuoja šio įstatymo laikymosi klausimais ir kontroliuoja, kaip jo laikomasi.
 
-\#### 6 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 6 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Asmenys, pažeidę šį įstatymą, atsako Administracinių nusižengimų kodekse nustatyta tvarka.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. gegužės 1 d.
 

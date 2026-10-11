@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F6CC50D6D3F1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F6CC50D6D3F1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO ĮGYVENDIN
 
 Vilnius
 
-\#### 1 straipsnis. Pasiūlymai Vyriausybei
+## 1 straipsnis. Pasiūlymai Vyriausybei
 
 Lietuvos Respublikos Vyriausybė:
 
@@ -40,11 +40,11 @@ Lietuvos Respublikos Vyriausybė:
 
 5) iki 1997 m. liepos 1 d. pateikia Seimui tvirtinti Centro ir Lietuvos archyvų departamento Valdymo ir metodikos tarybos nuostatus.
 
-\#### 2 straipsnis. Centro darbuotojų darbo apmokėjimo tvarka
+## 2 straipsnis. Centro darbuotojų darbo apmokėjimo tvarka
 
 Iki bus priimtas įstatymas, reglamentuojantis iš valstybės ir savivaldybių biudžetų finansuojamų įstaigų ir organizacijų apmokėjimą, Centro generaliniam direktoriui darbo užmokestį nustato Seimo valdyba. Kitiems Centro darbuotojams darbo užmokestį nustato Centro generalinis direktorius, vadovaudamasis Vyriausybės nustatyta Vyriausybės įstaigų darbuotojų darbo apmokėjimo tvarka.
 
-\#### 3 straipsnis. Netekę galios teisės aktai
+## 3 straipsnis. Netekę galios teisės aktai
 
 Įsigaliojus šiam įstatymui, netenka galios Seimo nutarimai “Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatų patvirtinimo” (Žin., 1994, Nr. [33-588](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6D8C81B717F)) ir “Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatų papildymo” (Žin., 1995, Nr. [56-1393](https://www.e-tar.lt/portal/lt/legalAct/TAR.D32B322EAB88)).
 

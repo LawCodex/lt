@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3CB6C63497C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3CB6C63497C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005); 1999, Nr. [93-2709](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF0E7CBDD75))
 
-\#### 1 straipsnis. Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymąir jį išdėstyti taip:
 
@@ -38,15 +38,15 @@ SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS
 
 Į S T A T Y M A S
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis Įstatymas nustato savivaldybių biudžetų pajamų šaltinius ir savivaldybių biudžetams skiriamų valstybės biudžeto dotacijų bei lėšų apskaičiavimo, tvirtinimo ir pervedimo tvarką.
 
-\### ANTRASIS SKIRSNIS. SAVIVALDYBIŲ BIUDŽETŲ PAJAMOS
+ANTRASIS SKIRSNIS. SAVIVALDYBIŲ BIUDŽETŲ PAJAMOS
 
-\#### 2 straipsnis. Savivaldybių biudžetų pajamos
+## 2 straipsnis. Savivaldybių biudžetų pajamos
 
 1. Savivaldybių biudžetų pajamas sudaro:
 
@@ -58,7 +58,7 @@ SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS
 
 2. Šio straipsnio 1 dalyje nurodytos pajamos savivaldybių biudžetams priskiriamos vadovaujantis Biudžeto sandaros įstatymu.
 
-\#### 3 straipsnis. Mokestinių ir nemokestinių pajamų pervedimas į savivaldybės biudžetą
+## 3 straipsnis. Mokestinių ir nemokestinių pajamų pervedimas į savivaldybės biudžetą
 
 Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinė valstybinė mokesčių inspekcija – vietos mokesčių administratorius į savivaldybės biudžetą perveda:
 
@@ -68,13 +68,13 @@ Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinė valst
 
 3) nemokestines pajamas, kurias savivaldybės biudžetui pagal įstatymus sumoka fiziniai ir juridiniai asmenys.
 
-\#### 4 straipsnis. Valstybės biudžeto dotacijos savivaldybių biudžetams
+## 4 straipsnis. Valstybės biudžeto dotacijos savivaldybių biudžetams
 
 Savivaldybės gauna valstybės biudžeto dotacijų. Jų apskaičiavimo, tvirtinimo ir pervedimo tvarką nustato šis Įstatymas.
 
-\### TREČIASIS SKIRSNIS. SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NUSTATYMO TVARKA
+TREČIASIS SKIRSNIS. SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NUSTATYMO TVARKA
 
-\#### 5 straipsnis. Valstybės biudžeto dotacijos ir jų dydžio nustatymas
+## 5 straipsnis. Valstybės biudžeto dotacijos ir jų dydžio nustatymas
 
 1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių biudžetams skiriama:
 
@@ -94,11 +94,11 @@ Savivaldybės gauna valstybės biudžeto dotacijų. Jų apskaičiavimo, tvirtini
 
 4. Dotacijų dydžiai savivaldybėms tvirtinami atitinkamų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu.
 
-\#### 6 straipsnis. Lėšų, skiriamų savivaldybių fizinių asmenų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dydis
+## 6 straipsnis. Lėšų, skiriamų savivaldybių fizinių asmenų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dydis
 
 Lėšas (L), skiriamas savivaldybių fizinių asmenų pajamų mokesčiui ir išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių fizinių asmenų pajamų mokesčio dalis P~i (procentais), kurią Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2 punktas, (L =åP~i).
 
-\#### 7 straipsnis. Lėšų, skiriamų savivaldybių fizinių asmenų pajamų mokesčiui išlyginti, paskirstymas
+## 7 straipsnis. Lėšų, skiriamų savivaldybių fizinių asmenų pajamų mokesčiui išlyginti, paskirstymas
 
 1. Iš lėšų (L), skiriamų savivaldybių fizinių asmenų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dalies savivaldybių fizinių asmenų pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės, kurių faktinės praėjusio mėnesio pajamos iš fizinių asmenų pajamų mokesčio vienam savivaldybės gyventojui yra mažesnės už faktines praėjusio mėnesio visų savivaldybių vidutines pajamas iš fizinių asmenų pajamų mokesčio vienam gyventojui.
 
@@ -130,7 +130,7 @@ Lėšas (L), skiriamas savivaldybių fizinių asmenų pajamų mokesčiui ir išl
 
 5. Faktinės pajamos iš fizinių asmenų pajamų mokesčio vienam savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.
 
-\#### 8 straipsnis. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms
+## 8 straipsnis. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms
 
 1. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas pagal formulę L2 = L – L1.
 
@@ -152,9 +152,9 @@ Lėšas (L), skiriamas savivaldybių fizinių asmenų pajamų mokesčiui ir išl
 
 3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuojama pagal formulę , čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik tų savivaldybių, kurių fizinių asmenų pajamų mokesčio dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.
 
-\### KETVIRTASIS SKIRSNIS. RODIKLIŲ TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
+KETVIRTASIS SKIRSNIS. RODIKLIŲ TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
 
-\#### 9 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai
+## 9 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai
 
 1. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų fizinių asmenų pajamų mokesčiui išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama fizinių asmenų pajamų mokesčio dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys šių rodiklių įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:
 
@@ -176,7 +176,7 @@ Lėšas (L), skiriamas savivaldybių fizinių asmenų pajamų mokesčiui ir išl
 
 2. Savivaldybės gyventojų skaičius, demografinių, socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys, kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių fizinių asmenų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių duomenų bazėse.
 
-\#### 10 straipsnis. Finansinių rodiklių tvirtinimas bei lėšų pervedimas
+## 10 straipsnis. Finansinių rodiklių tvirtinimas bei lėšų pervedimas
 
 1. Vyriausybė, su Lietuvos savivaldybių asociacija apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
 
@@ -204,11 +204,11 @@ Lėšas (L), skiriamas savivaldybių fizinių asmenų pajamų mokesčiui ir išl
 
 6. Kai Seimas priima įstatymus arba Vyriausybė vykdydama įstatymus, priima nutarimus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų metų įsipareigojimai, Finansų ministerija bei savivaldybių vykdomosios institucijos patikslina valstybės biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.
 
-\#### 11 straipsnis. Finansinių rodiklių derinimas
+## 11 straipsnis. Finansinių rodiklių derinimas
 
 Vyriausybė ir Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytus rodiklius bei savivaldybių demografinių, socialinių ir kitų rodiklių pirminius statistinius duomenis svarsto pagal Vyriausybės patvirtintą šių rodiklių derinimo tvarką.“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 1. Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
 
@@ -216,7 +216,7 @@ Vyriausybė ir Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytu
 
 3. Pereinamuoju 2002 ir 2003 metų laikotarpiu valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose numatomos reikiamo dydžio bendrosios dotacijos kompensacijos valstybės biudžetui iš tų savivaldybių, kurių 2002 ir 2003 biudžetiniais metais prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos didėja daugiau negu 7 procentais, palyginti su 2001 metų prognozuotomis pajamomis. Šios kompensacijos valstybės biudžetui grąžinamos iš savivaldybių biudžetų.
 
-\#### 3 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 2001, 2002 ir 2003 metams įstatymo pripažinimas netekusiu galios
+## 3 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 2001, 2002 ir 2003 metams įstatymo pripažinimas netekusiu galios
 
 Nuo 2002 m. sausio 1 d. netenka galios Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 2001, 2002 ir 2003 metams įstatymas (Žin., 2001, Nr. [4-86](https://www.e-tar.lt/portal/lt/legalAct/TAR.B642443A25DE)).
 
@@ -236,68 +236,37 @@ priedėlis
 
 SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO DALYS (PROCENTAIS)
 
-\| Savivaldybės pavadinimas | Fizinių asmenų pajamų mokesčio dalis (proc.) | | Savivaldybės pavadinimas | Fizinių asmenų pajamų mokesčio dalis (proc.) |
-
-\| --- | --- | --- | --- | --- |
-
-\| Vilniaus miesto | 40 | | Pakruojo rajono | 100 |
-
-\| Alytaus miesto | 100 | | Panevėžio rajono | 100 |
-
-\| Birštono | 100 | | Pasvalio rajono | 100 |
-
-\| Druskininkų | 100 | | Plungės rajono | 100 |
-
-\| Kauno miesto | 74 | | Prienų rajono | 100 |
-
-\| Klaipėdos miesto | 64 | | Radviliškio rajono | 100 |
-
-\| Marijampolės | 100 | | Raseinių rajono | 100 |
-
-\| Neringos | 100 | | Rokiškio rajono | 100 |
-
-\| Palangos miesto | 70 | | Skuodo rajono | 100 |
-
-\| Panevėžio miesto | 84 | | Šakių rajono | 100 |
-
-\| Šiaulių miesto | 96 | | Šalčininkų rajono | 100 |
-
-\| Visagino miesto | 100 | | Šiaulių rajono | 100 |
-
-\| Akmenės rajono | 100 | | Šilalės rajono | 100 |
-
-\| Alytaus rajono | 100 | | Šilutės rajono | 100 |
-
-\| Anykščių rajono | 100 | | Širvintų rajono | 100 |
-
-\| Biržų rajono | 100 | | Švenčionių rajono | 100 |
-
-\| Ignalinos rajono | 78 | | Tauragės rajono | 100 |
-
-\| Jonavos rajono | 100 | | Telšių rajono | 100 |
-
-\| Joniškio rajono | 100 | | Trakų rajono | 100 |
-
-\| Jurbarko rajono | 100 | | Ukmergės rajono | 100 |
-
-\| Kaišiadorių rajono | 100 | | Utenos rajono | 100 |
-
-\| Kauno rajono | 100 | | Varėnos rajono | 100 |
-
-\| Kėdainių rajono | 100 | | Vilkaviškio rajono | 100 |
-
-\| Kelmės rajono | 100 | | Vilniaus rajono | 100 |
-
-\| Klaipėdos rajono | 100 | | Zarasų rajono | 100 |
-
-\| Kretingos rajono | 100 | | Elektrėnų | 100 |
-
-\| Kupiškio rajono | 100 | | Kalvarijos | 100 |
-
-\| Lazdijų rajono | 100 | | Kazlų Rūdos | 100 |
-
-\| Mažeikių rajono | 55 | | Pagėgių | 100 |
-
-\| Molėtų rajono | 100 | | Rietavo | 100 |
+| Savivaldybės pavadinimas | Fizinių asmenų pajamų mokesčio dalis (proc.) |  | Savivaldybės pavadinimas | Fizinių asmenų pajamų mokesčio dalis (proc.) |
+| --- | --- | --- | --- | --- |
+| Vilniaus miesto | 40 |  | Pakruojo rajono | 100 |
+| Alytaus miesto | 100 |  | Panevėžio rajono | 100 |
+| Birštono | 100 |  | Pasvalio rajono | 100 |
+| Druskininkų | 100 |  | Plungės rajono | 100 |
+| Kauno miesto | 74 |  | Prienų rajono | 100 |
+| Klaipėdos miesto | 64 |  | Radviliškio rajono | 100 |
+| Marijampolės | 100 |  | Raseinių rajono | 100 |
+| Neringos | 100 |  | Rokiškio rajono | 100 |
+| Palangos miesto | 70 |  | Skuodo rajono | 100 |
+| Panevėžio miesto | 84 |  | Šakių rajono | 100 |
+| Šiaulių miesto | 96 |  | Šalčininkų rajono | 100 |
+| Visagino miesto | 100 |  | Šiaulių rajono | 100 |
+| Akmenės rajono | 100 |  | Šilalės rajono | 100 |
+| Alytaus rajono | 100 |  | Šilutės rajono | 100 |
+| Anykščių rajono | 100 |  | Širvintų rajono | 100 |
+| Biržų rajono | 100 |  | Švenčionių rajono | 100 |
+| Ignalinos rajono | 78 |  | Tauragės rajono | 100 |
+| Jonavos rajono | 100 |  | Telšių rajono | 100 |
+| Joniškio rajono | 100 |  | Trakų rajono | 100 |
+| Jurbarko rajono | 100 |  | Ukmergės rajono | 100 |
+| Kaišiadorių rajono | 100 |  | Utenos rajono | 100 |
+| Kauno rajono | 100 |  | Varėnos rajono | 100 |
+| Kėdainių rajono | 100 |  | Vilkaviškio rajono | 100 |
+| Kelmės rajono | 100 |  | Vilniaus rajono | 100 |
+| Klaipėdos rajono | 100 |  | Zarasų rajono | 100 |
+| Kretingos rajono | 100 |  | Elektrėnų | 100 |
+| Kupiškio rajono | 100 |  | Kalvarijos | 100 |
+| Lazdijų rajono | 100 |  | Kazlų Rūdos | 100 |
+| Mažeikių rajono | 55 |  | Pagėgių | 100 |
+| Molėtų rajono | 100 |  | Rietavo | 100 |
 
 ______________

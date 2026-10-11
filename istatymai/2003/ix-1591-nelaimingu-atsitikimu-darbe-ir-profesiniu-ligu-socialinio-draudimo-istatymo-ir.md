@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.03F964956D2B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.03F964956D2B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo ir Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo pakeitimo ir papildymo įstatymas
@@ -22,41 +22,37 @@ LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALIN
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 36 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
+## PIRMASIS SKIRSNIS. NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 36 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F); 2000, Nr. [95-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.48FBE8E79625); 2001, Nr. [55-1946](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E8FECB6200);
 
 2002, Nr. 102-4548, Nr. 123-5535)
 
-\#### 1 straipsnis. 3 straipsnio 6 dalies pakeitimas
+### 1 straipsnis. 3 straipsnio 6 dalies pakeitimas
 
 3 straipsnio 6 dalyje vietoj žodžio „privalo“ įrašyti žodžius „mokėjo arba privalėjo“, vietoj žodžių „šis asmuo“ įrašyti žodį „apdraustasis“ ir šią dalį išdėstyti taip:
 
 „6.**Apdraustasis** – asmuo, už kurį draudėjas įstatymų nustatyta tvarka mokėjo arba privalėjo mokėti valstybinio socialinio draudimo įmokas. Apdraustasis, nukentėjęs nuo nelaimingo atsitikimo darbe ar susirgęs profesine liga, šio įstatymo nustatyta tvarka turi teisę gauti draudimo išmoką.“
 
-\#### 2 straipsnis. 36 straipsnio 2 dalies papildymas
+### 2 straipsnis. 36 straipsnio 2 dalies papildymas
 
 Papildyti 36 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo nuostatos taikomos draudiminiams įvykiams, įvykusiems šiam įstatymui įsigaliojus, taip pat asmenims, kuriems profesinė liga nustatyta po 2000 m. sausio 1 d., jeigu šie asmenys po šios datos buvo drausti nelaimingų atsitikimų darbe socialiniu draudimu.“
 
-\### ANTRASIS SKIRSNIS
-
-ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO 23 STRAIPSNIO PAKEITIMAS
+## ANTRASIS SKIRSNIS. ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO 23 STRAIPSNIO PAKEITIMAS
 
 (Žin., 1997, Nr. [67-1656](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8); 2002, Nr. [102-4546](https://www.e-tar.lt/portal/lt/legalAct/TAR.19C29F1E7E23), Nr. [123-5535](https://www.e-tar.lt/portal/lt/legalAct/TAR.A67EC51F0EB9))
 
-\#### 1 straipsnis. 23 straipsnio 7 dalies 2 punkto pakeitimas
+### 1 straipsnis. 23 straipsnio 7 dalies 2 punkto pakeitimas
 
 Pakeisti23 straipsnio 7 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) dėl susirgimų profesine liga, nustatyta tvarka pripažintų profesinėmis ligomis po 2000 m. sausio 1 d. tiems nukentėjusiesiems, kurie po 2000 m. sausio 1 d. nebuvo drausti pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatas.“
 
-\### TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Šio Įstatymo taikymas
+### 1 straipsnis. Šio Įstatymo taikymas
 
 Šis Įstatymas taikomas nuo 2000 m. sausio 1 d.
 

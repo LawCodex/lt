@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CF190663136F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CF190663136F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 11, 16 ir 18 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2004, Nr. [4-29](https://www.e-tar.lt/portal/lt/legalAct/TAR.83D9F662C0E4); 2010, Nr. [86-4522](https://www.e-tar.lt/portal/lt/legalAct/TAR.65496F280187), Nr. [157-7971](https://www.e-tar.lt/portal/lt/legalAct/TAR.66F2D68D6507); 2012, Nr. [82-4269](https://www.e-tar.lt/portal/lt/legalAct/TAR.5ED7FDCC3C07), Nr. [129-6469](https://www.e-tar.lt/portal/lt/legalAct/TAR.F48FE5BC4C7C))
 
-\#### 1 straipsnis. 11 straipsnio 4 dalies 10 punkto pakeitimas
+## 1 straipsnis. 11 straipsnio 4 dalies 10 punkto pakeitimas
 
 11 straipsnio 4 dalies 10 punkte po žodžių „Lietuvos Respublikoje“ įrašyti žodžius „Europos Sąjungos ar NATO valstybėse narėse“ ir šį punktą išdėstyti taip:
 
 „10) paslapčių subjektams tarpininkaujant, sprendžia klausimus dėl galimybės išduoti asmens patikimumo pažymėjimus arba leidimus dirbti ar susipažinti su įslaptinta informacija asmenims, turintiems dvigubą pilietybę, arba asmenims, neturintiems šio Įstatymo 16 straipsnio 2 dalies 2 punkte nustatyto nuolatinio gyvenimo Lietuvos Respublikoje, Europos Sąjungos ar NATO valstybėse narėse cenzo;“.
 
-\#### 2 straipsnis. 16 straipsnio pakeitimas
+## 2 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 9. Sprendimą dėl leidimo dirbti ar susipažinti su įslaptinta informacija neišdavimo, asmens patikimumo pažymėjimo neišdavimo, Valstybės saugumo departamento motyvuotą prieštaravimą, kad asmeniui būtų išduotas toks leidimas, taip pat kandidatūrą tikrinančių institucijų sprendimą nutraukti kandidatūros tikrinimą, nustačius šio straipsnio 2 dalyje nurodytas aplinkybes, paslapčių subjekto vadovo sprendimą uždrausti dirbti ar susipažinti su įslaptinta informacija per 30 kalendorinių dienų nuo tokio sprendimo gavimo dienos pats asmuo arba paslapčių subjektas turi teisę apskųsti teismui.“
 
-\#### 3 straipsnis. 18 straipsnio 1 dalies 4 punkto pakeitimas
+## 3 straipsnis. 18 straipsnio 1 dalies 4 punkto pakeitimas
 
 Pakeisti 18 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/08cb15c0f25111e88568e724760eeafa"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08CB15C0F251.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl amnestijos akto
@@ -28,7 +28,7 @@ Vilnius
 
 Lietuvos Respublikos Seimas, 2018 m. minėdamas Lietuvos valstybės atkūrimo šimtmetį, 25-ąsias Šv. Jono Pauliaus II lankymosi Lietuvoje metines bei popiežiaus Pranciškaus vizitą ir vadovaudamasis humanizmo principais, p r i i m a šį amnestijos aktą.
 
-\#### 1 straipsnis. Atleidimas nuo neatliktosios arešto ar laisvės atėmimo bausmės dalies
+## 1 straipsnis. Atleidimas nuo neatliktosios arešto ar laisvės atėmimo bausmės dalies
 
 1. Nuo neatliktosios arešto bausmės dalies atleidžiami nuteistieji, atliekantys arešto bausmę savo poilsio dienomis, taip pat švenčių dienomis ir savo atostogų metu, išskyrus nuteistuosius, kuriems arešto bausmė buvo paskirta už vengimą atlikti kitą bausmę ar baudžiamojo poveikio priemonę.
 
@@ -42,15 +42,15 @@ Lietuvos Respublikos Seimas, 2018 m. minėdamas Lietuvos valstybės atkūrimo š
 
 4) pusiaukelės namuose bausmę atliekantys nuteistieji, nuo perkėlimo į pusiaukelės namus atlikę vieną trečdalį neatliktosios laisvės atėmimo bausmės.
 
-\#### 2 straipsnis. Neatliktosios arešto bausmės dalies sumažinimas arešto bausmę atliekantiems asmenims
+## 2 straipsnis. Neatliktosios arešto bausmės dalies sumažinimas arešto bausmę atliekantiems asmenims
 
 Arešto bausmę atliekantiems nuteistiesiems, išskyrus nuteistuosius, kuriems arešto bausmė paskirta už vengimą atlikti kitą bausmę ar baudžiamojo poveikio priemonę, neatliktoji arešto bausmės dalis sumažinama pusiau.
 
-\#### 3 straipsnis. Neatliktosios laisvės atėmimo bausmės dalies sumažinimas asmenims, pirmą kartą atliekantiems laisvės atėmimo bausmę iki trejų metų
+## 3 straipsnis. Neatliktosios laisvės atėmimo bausmės dalies sumažinimas asmenims, pirmą kartą atliekantiems laisvės atėmimo bausmę iki trejų metų
 
 Pirmą kartą atliekantiems laisvės atėmimo bausmę nuteistiesiems, kuriems paskirta bausmė neviršija trejų metų laisvės atėmimo ir kurių nusikalstamo elgesio rizika yra žymiai sumažėjusi arba žema, išskyrus nuteistuosius, kurie atlieka laisvės atėmimo bausmę panaikinus bausmės vykdymo atidėjimą arba lygtinį paleidimą iš pataisos įstaigos, neatliktoji laisvės atėmimo bausmės dalis sumažinama vienais metais.
 
-\#### 4 straipsnis. Neatliktosios laisvės atėmimo bausmės dalies sumažinimas nėščioms moterims ir motinoms, auginančioms vaiką pataisos įstaigose
+## 4 straipsnis. Neatliktosios laisvės atėmimo bausmės dalies sumažinimas nėščioms moterims ir motinoms, auginančioms vaiką pataisos įstaigose
 
 Neatliktoji laisvės atėmimo bausmė nėščioms moterims ir motinoms, auginančioms vaiką pataisos įstaigose, sumažinama:
 
@@ -58,7 +58,7 @@ Neatliktoji laisvės atėmimo bausmė nėščioms moterims ir motinoms, auginan�
 
 2) vienu trečdaliu, bet ne daugiau kaip trejais metais, – nuteistoms laisvės atėmimo bausme daugiau kaip šešeriems metams už tyčinius nusikaltimus.
 
-\#### 5 straipsnis. Neatliktosios laisvės atėmimo bausmės dalies sumažinimas asmenims, nuteistiems už nusikaltimus, padarytus dėl neatsargumo
+## 5 straipsnis. Neatliktosios laisvės atėmimo bausmės dalies sumažinimas asmenims, nuteistiems už nusikaltimus, padarytus dėl neatsargumo
 
 Asmenims, nuteistiems už nusikaltimus, padarytus dėl neatsargumo, neatliktoji laisvės atėmimo bausmė sumažinama:
 
@@ -66,11 +66,11 @@ Asmenims, nuteistiems už nusikaltimus, padarytus dėl neatsargumo, neatliktoji 
 
 2) vienu ketvirtadaliu, bet ne daugiau kaip dvejais metais, – nuteistiems laisvės atėmimo bausme daugiau kaip šešeriems metams.
 
-\#### 6 straipsnis. Amnestijos taikymas atsižvelgiant į nuteistųjų elgesį bausmės atlikimo metu
+## 6 straipsnis. Amnestijos taikymas atsižvelgiant į nuteistųjų elgesį bausmės atlikimo metu
 
 Asmenims, sistemingai pažeidinėjantiems arba itin piktybiškai pažeidusiems laisvės atėmimo ar arešto bausmės atlikimo režimą, amnestijos komisijos sprendimu šio įstatymo 1, 2, 3, 4 ir 5 straipsniuose numatytas atleidimas nuo bausmės ar bausmės sumažinimas netaikomas.
 
-\#### 7 straipsnis. Nusikaltimai ir baudžiamieji nusižengimai, už kuriuos nuteistiems asmenims amnestija netaikoma
+## 7 straipsnis. Nusikaltimai ir baudžiamieji nusižengimai, už kuriuos nuteistiems asmenims amnestija netaikoma
 
 1. Amnestija netaikoma asmenims, nuteistiems už šiuos Lietuvos Respublikos baudžiamajame kodekse, įsigaliojusiame 2003 m. gegužės 1 d. (toliau – Baudžiamasis kodeksas), numatytus nusikaltimus ir baudžiamuosius nusižengimus:
 
@@ -122,7 +122,7 @@ Asmenims, sistemingai pažeidinėjantiems arba itin piktybiškai pažeidusiems l
 
 2. Amnestija taip pat netaikoma asmenims, nuteistiems už analogiškus nusikaltimus, nustatytus 1961 m. birželio 26 d. įstatymu patvirtintame Baudžiamajame kodekse.
 
-\#### 8 straipsnis. Nuteistieji, kuriems netaikoma amnestija
+## 8 straipsnis. Nuteistieji, kuriems netaikoma amnestija
 
 Amnestija netaikoma:
 
@@ -142,7 +142,7 @@ Amnestija netaikoma:
 
 8) recidyvistams ar pavojingiems recidyvistams.
 
-\#### 9 straipsnis. Amnestijos taikymas
+## 9 straipsnis. Amnestijos taikymas
 
 1. Asmenims, kuriems šio įstatymo įsigaliojimo dieną dar nėra įsiteisėjęs apkaltinamasis nuosprendis, amnestija taikoma, jei nusikaltimas yra padarytas iki 2018 m. spalio 1 d. Asmenims, padariusiems trunkamuosius ar tęstinius nusikaltimus, amnestija taikoma tik tuo atveju, jei šie nusikaltimai buvo baigti iki 2018 m. spalio 1 d.
 
@@ -154,11 +154,11 @@ Amnestija netaikoma:
 
 2) teismai – šio straipsnio 1 dalyje nurodytais atvejais, taip pat kai byla nagrinėjama kasacine tvarka.
 
-\#### 10 straipsnis. Amnestijos taikymas asmenims, atliekantiems areštą ar laisvės atėmimo bausmę Lietuvos Respublikoje
+## 10 straipsnis. Amnestijos taikymas asmenims, atliekantiems areštą ar laisvės atėmimo bausmę Lietuvos Respublikoje
 
 Amnestija pagal šį įstatymą taikoma asmenims, atliekantiems areštą ar laisvės atėmimo bausmę Lietuvos Respublikoje.
 
-\#### 11 straipsnis. Amnestijos komisijos
+## 11 straipsnis. Amnestijos komisijos
 
 1. Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius jam pavaldžiose įstaigose sudaro amnestijos komisijas, tvirtina jų personalinę sudėtį ir darbo reglamentą. Amnestijos komisija sudaroma iš nelyginio narių skaičiaus, minimalus amnestijos komisijos narių skaičius – 5, iš jų du komisijos nariai – visuomenės atstovai. Amnestijos komisijos nariai turi būti nepriekaištingos reputacijos, kaip tai apibrėžta Lietuvos Respublikos valstybės tarnybos įstatymo 4 straipsnyje.
 
@@ -172,11 +172,11 @@ Amnestija pagal šį įstatymą taikoma asmenims, atliekantiems areštą ar lais
 
 6. Amnestijos komisija, vadovaudamasi šiame įstatyme nustatytais amnestijos taikymo pagrindais ir sąlygomis, sprendimą dėl amnestijos priima atviru balsavimu balsų dauguma. Kai balsai pasidalija po lygiai, sprendimą lemia komisijos pirmininko balsas. Prieš priimdama sprendimą, amnestijos komisija gali išklausyti nuteistąjį. Amnestijos komisijos posėdžiai protokoluojami, daromi posėdžių garso ir (ar) vaizdo įrašai. Amnestijos komisijų sprendimai skelbiami Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos interneto svetainėje šio departamento direktoriaus nustatyta tvarka. Amnestijos komisijų sprendimai skelbiami nepažeidžiant asmens duomenų apsaugos reikalavimų, taip pat laikantis kitų įstatymuose nustatytų apribojimų ir draudimų.
 
-\#### 12 straipsnis. Amnestija, teistumas ir prievolės
+## 12 straipsnis. Amnestija, teistumas ir prievolės
 
 Amnestija nepanaikina teistumo ir teismo nuosprendžiu nustatytos prievolės atlyginti žalą ar kitų teismo paskirtų įpareigojimų ir (ar) draudimų.
 
-\#### 13 straipsnis. Amnestijos komisijų sprendimų apskundimas
+## 13 straipsnis. Amnestijos komisijų sprendimų apskundimas
 
 1. Amnestijos komisijų sprendimai dėl amnestijos taikymo ar netaikymo gali būti apskųsti bausmės atlikimo vietos apylinkės teismui per 15 kalendorinių dienų nuo sprendimo priėmimo.
 
@@ -186,19 +186,19 @@ Amnestija nepanaikina teistumo ir teismo nuosprendžiu nustatytos prievolės atl
 
 4. Apygardos teismas skundą gali išnagrinėti nekviesdamas nuteistojo, jo gynėjo ar prokuroro. Apygardos teismo sprendimas yra galutinis ir neskundžiamas.
 
-\#### 14 straipsnis. Šio amnestijos akto taikymas
+## 14 straipsnis. Šio amnestijos akto taikymas
 
 1. Amnestija pagal šį įstatymą gali būti taikoma ir tuo atveju, kai asmeniui iki šio įstatymo įsigaliojimo dienos buvo taikytas anksčiau priimtas įstatymas dėl amnestijos.
 
 2. Amnestija taikoma asmenims, nuteistiems už nusikalstamas veikas, padarytas iki 2018 m. spalio 1 d.
 
-\#### 15 straipsnis. Amnestijos įvykdymo terminas
+## 15 straipsnis. Amnestijos įvykdymo terminas
 
 1. Amnestija turi būti įvykdyta per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos.
 
 2. Šio straipsnio 1 dalyje nustatytas amnestijos įvykdymo terminas netaikomas, kai amnestiją taiko teismai.
 
-\#### 16 straipsnis. Nuteistųjų, kurie paleisti iš pataisos įstaigų pritaikius amnestiją, priežiūra ir amnestijos panaikinimas
+## 16 straipsnis. Nuteistųjų, kurie paleisti iš pataisos įstaigų pritaikius amnestiją, priežiūra ir amnestijos panaikinimas
 
 1. Nuteistieji, kuriems taikyta amnestija pagal šio įstatymo 1 straipsnyje nustatytas sąlygas, prilyginami probuojamiesiems – lygtinai paleistiems iš pataisos įstaigų nuteistiesiems ir vienus metus nuo paleidimo iš pataisos įstaigos vykdoma jų, kaip probuojamųjų, priežiūra.
 
@@ -208,7 +208,7 @@ Amnestija nepanaikina teistumo ir teismo nuosprendžiu nustatytos prievolės atl
 
 4. Jeigu šio straipsnio 1 dalyje nurodytas nuteistasis priežiūros metu padarė administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, be pateisinamų priežasčių nevykdo individualiame probuojamojo priežiūros plane nustatytų probuojamojo priežiūros priemonių arba nevykdo kitų įstatymuose nustatytų pareigų, nuteistojo gyvenamosios vietos apylinkės teismas Lietuvos probacijos tarnybos teikimu priima sprendimą panaikinti priežiūrą ir vykdyti likusią bausmės dalį, nuo kurios nuteistasis buvo atleistas pagal šį įstatymą.
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2019 m. sausio 1 d.
 

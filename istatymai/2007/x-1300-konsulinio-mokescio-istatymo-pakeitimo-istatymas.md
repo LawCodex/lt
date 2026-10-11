@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.968C87488824"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.968C87488824.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konsulinio mokesčio įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [51-951](https://www.e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794); 1996, Nr. [46-1111](https://www.e-tar.lt/portal/lt/legalAct/TAR.E954D121AD66); 1997, Nr. [97-2441](https://www.e-tar.lt/portal/lt/legalAct/TAR.24363B95B46A); 1998, Nr. [6-115](https://www.e-tar.lt/portal/lt/legalAct/TAR.C2058B270648); 2003, Nr. [38-1727](https://www.e-tar.lt/portal/lt/legalAct/TAR.11641352AA5B); 2004, Nr. [61-2188](https://www.e-tar.lt/portal/lt/legalAct/TAR.2F2B455B6D12); 2005, Nr. [47-1557](https://www.e-tar.lt/portal/lt/legalAct/TAR.CD8512664DC0); 2006, Nr. [137-5201](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED05699FD196))
 
-\#### 1 straipsnis. Lietuvos Respublikos konsulinio mokesčio įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos konsulinio mokesčio įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos konsulinio mokesčio įstatymą ir jį išdėstyti taip:
 
@@ -38,17 +38,17 @@ KONSULINIO MOKESČIO
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas reglamentuoja konsulinio mokesčio ėmimą už šio įstatymo 3 straipsnyje numatytus Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų (toliau – konsulinės įstaigos) veiksmus atliekant konsulines funkcijas, išduodamus teisinę galią turinčius dokumentus ir teikiamas kitas paslaugas (toliau – konsuliniai veiksmai) ir Lietuvos Respublikos užsienio reikalų ministerijos Konsulinio departamento atliekamą dokumentų legalizavimą ir tvirtinimą pažyma (Apostille).
 
 2. Šis įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą.
 
-\#### 2 straipsnis. Mokesčio mokėtojai
+## 2 straipsnis. Mokesčio mokėtojai
 
 Konsulinį mokestį moka fiziniai ir juridiniai asmenys, išskyrus Lietuvos banką.
 
-\#### 3 straipsnis. Mokesčio objektas
+## 3 straipsnis. Mokesčio objektas
 
 Konsulinis mokestis imamas už:
 
@@ -80,7 +80,7 @@ Konsulinis mokestis imamas už:
 
 14) pinigų pasinaudojant Lietuvos Respublikos užsienio reikalų ministerijos ar konsulinių įstaigų sąskaitomis pervedimą, jei to reikia konsulinei pagalbai suteikti ir nukentėjusiam asmeniui dėl svarbių priežasčių negalima pervesti pinigų kitais būdais.
 
-\#### 4 straipsnis. Mokesčio dydis
+## 4 straipsnis. Mokesčio dydis
 
 1. Konsulinis mokestis yra ne mažesnis kaip 2 eurai ir ne didesnis kaip 500 eurų. Jis apskaičiuojamas atsižvelgiant į:
 
@@ -96,11 +96,11 @@ Konsulinis mokestis imamas už:
 
 3. Vyriausybė turi teisę kalendoriniams metams pasibaigus patikslinti konkretų konsulinio mokesčio dydį, atsižvelgdama į faktinį išlaidų, susijusių su konsulinių veiksmų atlikimu, padidėjimą arba sumažėjimą.
 
-\#### 5 straipsnis. Mokesčio dydžio ir lengvatų taikymas pariteto pagrindais
+## 5 straipsnis. Mokesčio dydžio ir lengvatų taikymas pariteto pagrindais
 
 Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, turi teisę pariteto pagrindais padidinti, sumažinti arba neimti konsulinio mokesčio už vizas, dokumentų pareikalavimą ir jų legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims, atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos Respublikos juridinių ir fizinių asmenų.
 
-\#### 6 straipsnis. Mokesčio lengvatos
+## 6 straipsnis. Mokesčio lengvatos
 
 Konsulinis mokestis neimamas už:
 
@@ -144,13 +144,13 @@ Konsulinis mokestis neimamas už:
 
 20) konsulinių pažymų apie atsisakymą atlikti notarinius veiksmus ir konsulinės pažymos, kad asmens, kuris kreipėsi į konsulinę įstaigą, prašymas netenkintinas, išdavimą.
 
-\#### 7 straipsnis. Mokesčio mokėjimas
+## 7 straipsnis. Mokesčio mokėjimas
 
 1. Konsulinis mokestis turi būti sumokėtas iki konsulinių veiksmų įvykdymo konsulinėse įstaigose arba iki dokumento legalizavimo ar tvirtinimo pažyma (Apostille) Lietuvos Respublikos užsienio reikalų ministerijos Konsuliniame departamente.
 
 2. Konsulinio mokesčio mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-\#### 8 straipsnis. Mokesčio permokos grąžinimas
+## 8 straipsnis. Mokesčio permokos grąžinimas
 
 1. Sumokėto konsulinio mokesčio permoka grąžinama, kai sumokėta daugiau mokesčio, negu reikia pagal galiojančius teisės aktus.
 
@@ -158,13 +158,13 @@ Konsulinis mokestis neimamas už:
 
 3. Konsulinio mokesčio permokos grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-\#### 9 straipsnis. Mokesčio mokėjimo kontrolė
+## 9 straipsnis. Mokesčio mokėjimo kontrolė
 
 1. Konsulinio mokesčio mokėjimą kontroliuoja valstybinė mokesčių inspekcija.
 
 2. Neteisingai paimtas arba nepaimtas konsulinis mokestis išieškomas iš konsulinės įstaigos, dėl kurios kaltės buvo paimtas neteisingas arba visai nepaimtas mokestis, Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
-\#### 10 straipsnis. Mokesčio įskaitymas į biudžetą
+## 10 straipsnis. Mokesčio įskaitymas į biudžetą
 
 Konsulinis mokestis įskaitomas į valstybės biudžetą.
 
@@ -182,7 +182,7 @@ priedas
 
 3. 2006 m. birželio 1 d. Tarybos sprendimas 2006/440/EB, iš dalies keičiantis Bendrųjų konsulinių instrukcijų 12 priedą ir Bendrojo vadovo 14a priedą dėl taikytinų mokesčių, atitinkančių prašymų išduoti vizą tvarkymo administracines išlaidas (OL 2006 L 175, p. 77).“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 

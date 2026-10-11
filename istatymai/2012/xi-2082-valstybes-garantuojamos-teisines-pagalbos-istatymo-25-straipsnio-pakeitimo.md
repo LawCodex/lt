@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CE9D35370029"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CE9D35370029.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 25 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [30-827](https://www.e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1); 2005, Nr. [18-572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C76F84D85C53))
 
-\#### 1 straipsnis. 25 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 25 straipsnio 3 dalies pakeitimas
 
 25 straipsnio 3 dalyje po žodžių „šiame skirsnyje“ įrašyti žodžius „ir Europos Sąjungos reglamentuose“ ir šią dalį išdėstyti taip:
 

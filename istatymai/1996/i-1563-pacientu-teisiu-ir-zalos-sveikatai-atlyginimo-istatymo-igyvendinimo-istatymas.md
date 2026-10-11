@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F1A1C4F2DBD6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F1A1C4F2DBD6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ PACIENTŲ TEISIŲ IR ŽALOS SVEIKATAI ATLYGINIMO ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Teisės aktų rengimas
+## 1 straipsnis. Teisės aktų rengimas
 
 1. Lietuvos Respublikos Vyriausybė iki 1998 m. sausio 1 d. parengia ir patvirtina:
 

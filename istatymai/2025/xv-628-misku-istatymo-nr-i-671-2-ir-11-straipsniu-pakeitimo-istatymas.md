@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/71baa7f0d1d611f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.71BAA7F0D1D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 11 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ MIŠKŲ ĮSTATYMO NR. I-671 2 IR 11 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnį 36 dalimi:
 
 „36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos žemės įstatyme.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Papildyti 2 straipsnį 36 dalimi:
 
 „13. Jeigu šio straipsnio 1 dalies 1 punkte nurodyti atvejai numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio 5 ir 6 dalyse nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams, stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektams, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti ir kai Vyriausybė priima nutarimą paversti tam tikrus miško žemės plotus kitomis naudmenomis, jeigu tai valstybinės reikšmės miškai, – ir nutarimą išbraukti tam tikrus valstybinės reikšmės miškų plotus iš valstybinės reikšmės miškų plotų.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

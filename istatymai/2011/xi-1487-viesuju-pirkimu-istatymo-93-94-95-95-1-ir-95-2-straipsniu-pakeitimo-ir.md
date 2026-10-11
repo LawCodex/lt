@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A5B8E4760D4A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A5B8E4760D4A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 93, 94, 95, 95-1 ir 95-2 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 2006, Nr. [4-102](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0DE35FFA738); 2008, Nr. [81-3179](https://www.e-tar.lt/portal/lt/legalAct/TAR.81433CB2B6DF); 2010, Nr. [25-1174](https://www.e-tar.lt/portal/lt/legalAct/TAR.A91EE63FD1A6); 2011, Nr. [2-36](https://www.e-tar.lt/portal/lt/legalAct/TAR.E02E9F9B4BC7))
 
-\#### 1 straipsnis. 93 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 93 straipsnio pakeitimas ir papildymas
 
 1. 93 straipsnio 1 dalies 1 punktą pripažinti netekusiu galios.
 
@@ -42,13 +42,13 @@ Vilnius
 
 „3. Tiekėjas, norėdamas iki pirkimo sutarties sudarymo ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia turi pateikti pretenziją perkančiajai organizacijai šiame skyriuje nustatyta tvarka. Pretenzija turi būti pateikta faksu, elektroninėmis priemonėmis ar pasirašytinai per kurjerį. Perkančiosios organizacijos sprendimas, priimtas išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyriuje nustatyta tvarka.“
 
-\#### 2 straipsnis. 94 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 94 straipsnio 2 dalies pakeitimas
 
 94 straipsnio 2 dalyje po žodžių „turi teisę“ įrašyti žodžius „pateikti prašymą ar“ ir šią dalį išdėstyti taip:
 
 „2. Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo tos dienos, kurią perkančioji organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems kandidatams ir suinteresuotiems dalyviams.“
 
-\#### 3 straipsnis. 95 straipsnio pakeitimas
+## 3 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
@@ -68,19 +68,19 @@ Pakeisti 95 straipsnį ir jį išdėstyti taip:
 
 4. Perkančioji organizacija, sužinojusi apie teismo sprendimą dėl tiekėjo prašymo ar ieškinio, nedelsdama raštu informuoja suinteresuotus kandidatus ir suinteresuotus dalyvius apie teismo priimtus sprendimus.“
 
-\#### 4 straipsnis. 951 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 951 straipsnio 2 dalies pakeitimas
 
 95^1 straipsnio 2 dalyje išbraukti žodį „imperatyvių“ ir šią dalį išdėstyti taip:
 
 „2. Teismas gali pripažinti pirkimo sutartį negaliojančia ir kitų, šio straipsnio 1 dalyje nenurodytų, šio įstatymo nuostatų pažeidimo atvejais.“
 
-\#### 5 straipsnis. 952 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 952 straipsnio 2 dalies pakeitimas
 
 95^2 straipsnio 2 dalyje vietoj žodžio „dalies“ įrašyti žodžius ir skaičių „ir 2 dalių“ ir šią dalį išdėstyti taip:
 
 „2. Teismas gali nepripažinti pirkimo sutarties negaliojančia ir taikyti alternatyvias sankcijas pagal šio straipsnio 4 dalį, nors pirkimo sutartis buvo sudaryta neteisėtai pagal šio įstatymo 95^1 straipsnio 1 ir 2 dalių nuostatas, jeigu dėl viešojo intereso, įskaitant su pirkimo sutartimi nesusijusius ekonominius interesus, dėl kurių pirkimo sutarties pripažinimas negaliojančia turėtų neproporcingų pasekmių, būtina išsaugoti pirkimo sutarties pasekmes. Tiesiogiai su pirkimo sutartimi susiję ekonominiai interesai apima inter alia išlaidas, susidariusias dėl vėlavimo vykdyti pirkimo sutartį, naujos pirkimo procedūros pradėjimo, pirkimo sutartį vykdančio tiekėjo pakeitimo, teisinių pareigų, kurios atsirado pripažinus pirkimo sutartį negaliojančia.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2011 m. spalio 1 d.
 

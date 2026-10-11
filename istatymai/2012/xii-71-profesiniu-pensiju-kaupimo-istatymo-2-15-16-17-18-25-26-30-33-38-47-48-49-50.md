@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.53D94263C998"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.53D94263C998.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymo 2, 15, 16, 17, 18, 25, 26, 30, 33, 38, 47, 48, 49, 50 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2006, Nr. [82-3248](https://www.e-tar.lt/portal/lt/legalAct/TAR.103565D95E60); 2011, Nr. [146-6824](https://www.e-tar.lt/portal/lt/legalAct/TAR.82B45D5C8282), Nr. [163-7776](https://www.e-tar.lt/portal/lt/legalAct/TAR.472ADC85D27F); 2012, Nr. [77-3980](https://www.e-tar.lt/portal/lt/legalAct/TAR.043D0BE89236), Nr. [127-6386](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5030DE19C5B))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. 2 straipsnio 4 dalį pripažinti netekusia galios.
 
@@ -48,7 +48,7 @@ Vilnius
 
 „33. **Perleidžiamieji vertybiniai popieriai** – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų kaupimo įstatyme.“
 
-\#### 2 straipsnis. 15 straipsnio 3 dalies 7 ir 8 punktų pakeitimas
+## 2 straipsnis. 15 straipsnio 3 dalies 7 ir 8 punktų pakeitimas
 
 1. 15 straipsnio 3 dalies 7 punkte vietoj žodžio „apskaitos“ įrašyti žodžius „pensijų fondo“ ir šį punktą išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „8) pensijų įmokų ir į kitą tos pačios ar kitos pensijų asociacijos pensijų fondą ar į gyvybės draudimo įmonę tęsti profesinių pensijų kaupimą pagal gyvybės draudimo sutartį pervedamų pensijų fondo dalyviui priklausančių lėšų konvertavimo į pensijų fondovienetus, taip pat pensijų fondovienetų konvertavimo į pinigus tvarka;“.
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 16 straipsnyje išbraukti žodį „apskaitos“ ir šį straipsnį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 Kiekvienam pensijų fondo dalyviui turi būti atidaroma pensijų sąskaita. Sąskaitoje fiksuojami dalyviui tenkantys pensijų fondo, kuriam jis priklauso, vienetai.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 5. Kai šiame įstatyme ar kituose teisės aktuose nustatytais atvejais turi būti išmokamos dalyviui apskaičiuotos lėšos ar jų dalis, pensijų fondo vienetai konvertuojami į pinigus. Jie išmokami ar pervedami ne vėliau kaip per vieną mėnesį nuo atitinkamo dokumento, pagal kurį turi būti išmokama, gavimo ar teisinio pagrindo juos išmokėti atsiradimo. Konvertuojama pensijų fondo vienetų verte, apskaičiuota pensijų fondo vienetų konvertavimo dieną.“
 
-\#### 5 straipsnis. 18 straipsnio 2, 4 ir 9 dalių pakeitimas
+## 5 straipsnis. 18 straipsnio 2, 4 ir 9 dalių pakeitimas
 
 1. 18 straipsnio 2 dalyje vietoj žodžio „apskaitos“ įrašyti žodžius „pensijų fondo“ ir šią dalį išdėstyti taip:
 
@@ -96,19 +96,19 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 „9. Pensijų fondo grynųjų aktyvų vertė turi būti reguliariai apskaičiuojama, kad būtų galima nustatyti pensijų fondo vieneto vertę kiekvieną kartą, kai mokamos pensijų įmokos ar atliekami išmokėjimai, bet ne rečiau kaip kartą per mėnesį pensijų fondo taisyklėse nustatyta tvarka.“
 
-\#### 6 straipsnis. 25 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 25 straipsnio 3 dalies pakeitimas
 
 25 straipsnio 3 dalyje vietoj žodžio „apskaitos“ įrašyti žodžius „pensijų fondo“ ir šią dalį išdėstyti taip:
 
 „3. Finansuojančio subjekto mokamos įmokos tampa pensijų fondo dalyvio nuosavybe nuo to momento, kai jos konvertuojamos į pensijų fondovienetus ir įrašomos į pensijų sąskaitą, išskyrus atvejus, kai pensijų asociacijos įstatuose ar pensijų fondo taisyklėse yra nustatytas minimalus dalyvavimo laikotarpis.“
 
-\#### 7 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Teisė į pensijų išmokas įgyjama pensijų fondo dalyviui sukakus pensijų fondo taisyklėse nurodytą senatvės pensijos amžių. Šis amžius negali būti mažesnis kaip 5 metai iki Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme nustatyto senatvės pensijos amžiaus.“
 
-\#### 8 straipsnis. 30 straipsnio 5 dalies 4 punkto ir 6 dalies pakeitimas
+## 8 straipsnis. 30 straipsnio 5 dalies 4 punkto ir 6 dalies pakeitimas
 
 1. 30 straipsnio 5 dalies 4 punkte po žodžio „sąlygas“ įrašyti žodžius „ir tvarką“ ir šį punktą išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „6. Pasibaigus dalyvavimui pensijų fonde, dalyvio vardu sukaupta pensijų turto suma, gauta konvertavus jo pensijų sąskaitoje įrašytus pensijų fondovienetus į pinigus, išmokama arba pervedama į kito pensijų fondo sąskaitą, išskyrus atvejus, kai yra nepasibaigęs pensijų fondo taisyklėse nustatytas minimalus dalyvavimo laikotarpis ir dėl to dalyvis neturi teisių į jo vardu apskaičiuotą pensijų fondo turtą ar jo dalį.“
 
-\#### 9 straipsnis. 33 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
+## 9 straipsnis. 33 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 33 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2) užtikrinti, kad pensijų fondų vienetų vertė būtų skaičiuojama pagal teisės aktų ir pensijų fondo taisyklių reikalavimus;“.
 
-\#### 10 straipsnis. 38 straipsnio pakeitimas
+## 10 straipsnis. 38 straipsnio pakeitimas
 
 38 straipsnyje vietoj žodžių ir skaičių „šio įstatymo 27 ir 29 straipsniuose“ įrašyti žodžius ir skaičių „pensijų fondo taisyklėse ir šio įstatymo 29 straipsnyje“ ir šį straipsnį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu pensijų fondo taisyklėse ir šio įstatymo 29 straipsnyjenurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos Draudimo įstatymo šeštojoskyriaus nuostatos.“
 
-\#### 11 straipsnis. 47 straipsnio 3, 4 ir 6 dalių pakeitimas
+## 11 straipsnis. 47 straipsnio 3, 4 ir 6 dalių pakeitimas
 
 1. 47 straipsnio 3 dalyje po žodžio „Vyriausybės“ įrašyti žodį „perleidžiamuosius“ ir šią dalį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali b
 
 „6. Pensijų fondo lėšomis taip pat negali būti sudaromi sandoriai dėl perleidžiamųjų vertybinių popierių, pinigų rinkos priemonių, kurių jis neturi, perleidimo.“
 
-\#### 12 straipsnis. 48 straipsnio 1, 4 ir 5 dalių pakeitimas
+## 12 straipsnis. 48 straipsnio 1, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 48 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -164,7 +164,7 @@ Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali b
 
 „5. Ne daugiau kaip 5 procentai pensijų fondo grynųjų aktyvų gali būti investuojama į akcijas ir kitus perleidžiamuosius vertybinius popierius, lygiaverčius bendrovių akcijoms, obligacijas, skolos vertybinius popierius ir kitas pinigines bei kapitalo rinkos priemones, išleistas to paties subjekto, taip pat ne daugiau kaip 10 procentų – į akcijas ir kitus perleidžiamuosius vertybinius popierius, laikomus akcijomis, obligacijas, skolos vertybinius popierius ir kitas pinigines bei kapitalo rinkos priemones, kurias išleido vienai grupei priklausantys subjektai.“
 
-\#### 13 straipsnis. 49 straipsnio 2 ir 5 dalių pakeitimas
+## 13 straipsnis. 49 straipsnio 2 ir 5 dalių pakeitimas
 
 1. Pakeisti 49 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -174,7 +174,7 @@ Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali b
 
 „5. Metinių finansinių ataskaitų auditas turi būti atliktas Lietuvos Respublikos audito įstatymo ir kitų teisės aktų nustatyta tvarka. Finansinių ataskaitų audito ataskaita turi būti pateikiama kaip auditoriaus išvados priedas. Finansinių ataskaitų audito ataskaitoje turi būti nurodyta, ar tinkamai vykdomas grynųjų aktyvų vertės skaičiavimas, ar pensijų turtas investuotas pagal nustatytas taisykles, taip pat išvardyti visi šio įstatymo ir kitų teisės aktų pažeidimai. Priežiūros institucijos reikalavimu pensijų asociacija ir (ar) auditorius privalo pateikti visą finansinių ataskaitų audito ataskaitą ir paaiškinimus dėl pensijų asociacijos turto ir pensijų fondo finansinių ataskaitų.“
 
-\#### 14 straipsnis. 50 straipsnio 1 dalies pakeitimas
+## 14 straipsnis. 50 straipsnio 1 dalies pakeitimas
 
 50 straipsnio 1 dalyje vietoj žodžio „apskaitos“ įrašyti žodžius „pensijų fondo“ ir šią dalį išdėstyti taip:
 

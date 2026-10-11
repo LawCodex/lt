@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f6f991a041d111e6a8ae9e1795984391"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F6F991A041D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso 3, 4, 4-1, 7, 11, 14, 23, 24, 25, 28, 29 straipsnių, priedo pakeitimo ir Kodekso papildymo 6-1, 7-1 straipsniais, ketvirtuoju-1 skirsniu įstatymas

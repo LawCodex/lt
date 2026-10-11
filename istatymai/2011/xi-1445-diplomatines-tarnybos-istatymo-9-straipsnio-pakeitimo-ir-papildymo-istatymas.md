@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BB3228014822"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BB3228014822.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 9 straipsnio pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9))
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 9 straipsnio pavadinimą ir jį išdėstyti taip:
 

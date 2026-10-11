@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FAB4C87501AC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FAB4C87501AC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 10, 13, 25, 55, 60, 71, 72, 73, 74, 75, 77(1) straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E))
 
-\#### 1 straipsnis. 10 straipsnio 2 dalies 6 punkto pakeitimas
+## 1 straipsnis. 10 straipsnio 2 dalies 6 punkto pakeitimas
 
 Pakeisti 10 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) nustato Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijosduomenų kaupimo, apdorojimo ir teikimo tvarką;“.
 
-\#### 2 straipsnis. 13 straipsnio 7 dalies 10 punkto pakeitimas
+## 2 straipsnis. 13 straipsnio 7 dalies 10 punkto pakeitimas
 
 Pakeisti 13 straipsnio 7 dalies 10 punktą ir jį išdėstyti taip:
 
 „10) nustato bendruosius karinės tarnybos reikalavimus visam krašto apsaugos sistemos kariniam personalui, kurį sudaro visi krašto apsaugos sistemos tikrosios karo tarnybos kariai, išskyrus Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijostarnaujančius karius;“.
 
-\#### 3 straipsnis. 25 straipsnio pakeitimas
+## 3 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 2. Statutai, kurie reglamentuoja karių drausminę atsakomybę ir ginklo panaudojimą, civilinę krašto apsaugos tarnybą ir tarnybą Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos, tvirtinami įstatymais. Kitus statutus tvirtina krašto apsaugos ministras.“
 
-\#### 4 straipsnis. 55 straipsnio 3 dalies 3 punkto ir 5 dalies pakeitimas
+## 4 straipsnis. 55 straipsnio 3 dalies 3 punkto ir 5 dalies pakeitimas
 
 1. Pakeisti 55 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -60,31 +60,31 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 „5. Antrajame operatyvinių tarnybų departamente tarnaujantiemskariams aukštesnius karininkų laipsnius iki pulkininko leitenanto (komandoro) imtinai suteikia krašto apsaugos ministras.“
 
-\#### 5 straipsnis. 60 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 60 straipsnio 3 dalies pakeitimas
 
 Pakeisti 60 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Profesinės karo tarnybos kario tarnybinio atlyginimo dydis priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų. Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijostarnaujančių profesinės karo tarnybos karių tarnybinio atlyginimo dydis priklauso nuo pareigų, karinio laipsnio ir tiesioginės tarnybos krašto apsaugos sistemoje bei kitose Operatyvinės veiklos įstatymo 3 straipsnio 3 dalyje nurodytose institucijoseištarnauto laiko.“
 
-\#### 6 straipsnis. 71 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 71 straipsnio 2 dalies pakeitimas
 
 Pakeisti 71 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Civilinė krašto apsaugos tarnyba nustatyta tvarka atliekama krašto apsaugos sistemos institucijose, kitose valstybės institucijose, taip pat užsienio valstybių bei tarptautinėse karinėse ir gynybos institucijose,kai tarnybinėms funkcijoms atlikti nebūtina būti profesinės karo tarnybos kariu, tačiau reikia turėti specialių žinių ir (ar) patirties krašto apsaugos sistemoje, ir tarnybos specifikai ar atliekamoms funkcijoms būtini statutiniai santykiai.“
 
-\#### 7 straipsnis. 72 straipsnio 1 dalies 2 punkto pakeitimas
+## 7 straipsnis. 72 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 72 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) Civilinės krašto apsaugos tarnybos statuto arba Tarnybos Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos statuto nustatyta tvarka gali būti suteikiamos kvalifikacinės kategorijos;“.
 
-\#### 8 straipsnis. 73 straipsnio 6 dalies pakeitimas
+## 8 straipsnis. 73 straipsnio 6 dalies pakeitimas
 
 Pakeisti 73 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti Valstybės tarnybos įstatymo apibrėžta su valstybės tarnyba nesuderinama veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 7, 8, 9, 10 bei 12 dalyse numatyti karių tarnybai taikomi apribojimai. Tarnautojų, atliekančių civilinę krašto apsaugos tarnybą Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos, tarnybai, be šių apribojimų, dar taikomi karių tarnybai galiojantys apribojimai, nustatyti šio įstatymo 36 straipsnio 1 dalies 2 ir 3 punktuose bei 2 ir 3 dalyse.“
 
-\#### 9 straipsnis. 74 straipsnio pakeitimas
+## 9 straipsnis. 74 straipsnio pakeitimas
 
 Pakeisti 74 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 74 straipsnį ir jį išdėstyti taip:
 
 3. Kvalifikacinės kategorijos pavaldumo nežymi.“
 
-\#### 10 straipsnis. 75 straipsnio pakeitimas
+## 10 straipsnis. 75 straipsnio pakeitimas
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 Civilinės krašto apsaugos tarnybos valstybės tarnautojų darbo apmokėjimą reglamentuoja Lietuvos Respublikos valstybės tarnybos įstatymas.“
 
-\#### 11 straipsnis. 771 straipsnio pakeitimas
+## 11 straipsnis. 771 straipsnio pakeitimas
 
 Pakeisti 77^1straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62C4AA472431"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62C4AA472431.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 8, 11, 42, 43, 45, 46 ir 47 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 2001, Nr. [28-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.2560251F7F7F); 2003, Nr. [38-1710](https://www.e-tar.lt/portal/lt/legalAct/TAR.4130AFCF39FD), Nr. [61-2755](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6C56545FEC); 2004, Nr. [28-869](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD7270B1038C))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies 6 punkto pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies 6 punkto pakeitimas
 
 Pakeisti 8 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka išduoda bei atšaukia licencijas Lietuvos Respublikos kredito įstaigoms bei užsienio valstybių kredito įstaigų filialams ir prižiūri jų veiklą, taip pat atlieka kitas įstatymų nustatytas funkcijas, susijusias su kredito įstaigų veikla;“.
 
-\#### 2 straipsnis. 11 straipsnio 1 dalies 18 punkto pakeitimas
+## 2 straipsnis. 11 straipsnio 1 dalies 18 punkto pakeitimas
 
 Pakeisti 11 straipsnio 1 dalies 18 punktą ir jį išdėstyti taip:
 
 „18) sprendžia klausimus dėl įstatymuose nustatytų licencijų, leidimų, sutikimų išdavimo kredito įstaigoms ir jų atšaukimo;“.
 
-\#### 3 straipsnis. 42 straipsnio pakeitimas
+## 3 straipsnis. 42 straipsnio pakeitimas
 
 42 straipsnyje vietoj žodžių „kurių veikla pagal teisės aktus priskiriama kredito įstaigų veiklai ir kurie“ įrašyti žodį „kuris“, vietoj žodžių „ar leidimą atlikti įstatymų numatytas operacijas“ įrašyti žodžius „teikti licencines finansines paslaugas“ ir šį straipsnį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 11 straipsnio 1 dalies 18 punktą ir jį išdėstyti taip:
 
 Kredito įstaiga – tai bankas, kitas juridinis asmuo ar užsienio valstybės kredito įstaigos padalinys, kuris turi Lietuvos banko išduotą licenciją teikti licencines finansines paslaugas.“
 
-\#### 4 straipsnis. 43 straipsnio pakeitimas
+## 4 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 2. Licencijų suteikimo sąlygas ir tvarką nustato kredito įstaigų steigimą bei jų veiklą reglamentuojantys ir kiti Lietuvos Respublikos įstatymai bei Lietuvos banko teisės aktai.“
 
-\#### 5 straipsnis. 45 straipsnio pakeitimas
+## 5 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 4) įstatymuose nustatytų poveikio priemonių taikymas kredito įstaigoms.“
 
-\#### 6 straipsnis. 46 straipsnio pakeitimas
+## 6 straipsnis. 46 straipsnio pakeitimas
 
 1. Pakeisti 46 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 4. 46 straipsnio 3 ir 4 dalis pripažinti netekusiomis galios.
 
-\#### 7 straipsnis. 47 straipsnio pakeitimas
+## 7 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 Atlikdamas kredito įstaigų priežiūros funkcijas, Lietuvos bankas turi teisę keistis su kitų valstybių kredito įstaigų priežiūros institucijomis informacija apie bet kurios kredito įstaigos veiklą, užtikrindamas tokios informacijos konfidencialumą. Gauta iš kitos kredito įstaigų priežiūros institucijos informacija gali būti perduodama kitiems asmenims tik kredito įstaigų veiklą reglamentuojančių įstatymų numatytais atvejais.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

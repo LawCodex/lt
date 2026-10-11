@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B407B2BA6998"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B407B2BA6998.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 2, 3, 4, 6, 7, 8, 10, 11, 14, 34, 46, 47, 48, 49, 50, 51, 56, 59 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [55-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B); 2003, Nr. [75-3473](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C7D1D0B8510); 2004, Nr. [98-3627](https://www.e-tar.lt/portal/lt/legalAct/TAR.EA934522AD36); 2006, Nr. [65-2386](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8BF7EBCEC7C))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 26. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominei erdvei (EEE) priklausanti valstybė.“
 
-\#### 2 straipsnis. 3 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 4 dalies pakeitimas
 
 3 straipsnio 4 dalyje vietoj žodžio „investicijų“ įrašyti žodžius „finansinių priemonių“, vietoj žodžio „investicines“ įrašyti žodį „finansines“ ir šią dalį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 2) saugoti ir tvarkyti investicinių fondų investicinius vienetus ar investicinių kintamojo kapitalo bendrovių akcijas.“
 
-\#### 3 straipsnis. 4 straipsnio 2 dalies 4 ir 9 punktų pakeitimas
+## 3 straipsnis. 4 straipsnio 2 dalies 4 ir 9 punktų pakeitimas
 
 1. 4 straipsnio 2 dalies 4 punkte vietoj žodžių „vertybinių popierių biržos“ įrašyti žodžius „Lietuvos Respublikoje veikiančios reguliuojamos rinkos operatoriaus“ ir šį punktą išdėstyti taip:
 
@@ -108,13 +108,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „9) bendrovė yra glaudžiu ryšiu susijusi su asmeniu iš tokios ne valstybės narės, kurios teisės aktai, reglamentuojantys šio asmens veiklą, ar tų teisės aktų laikymosi užtikrinimo sunkumai gali trukdyti veiksmingai atlikti priežiūrą.“
 
-\#### 4 straipsnis. 6 straipsnio 7 punkto pakeitimas
+## 4 straipsnis. 6 straipsnio 7 punkto pakeitimas
 
 6 straipsnio 7 punkte prieš žodžius „vertybinių popierių sandorius“ įrašyti žodį „perleidžiamųjų“ ir šią dalį išdėstyti taip:
 
 „7) vykdyti vidaus kontrolę, kontroliuoti savo vadovų ir darbuotojų sudaromus perleidžiamųjų vertybinių popierių sandorius laikantis Vertybinių popierių komisijos nustatytos vidaus kontrolės vykdymo tvarkos;“.
 
-\#### 5 straipsnis. 7 straipsnio 1 ir 4 dalių pakeitimas
+## 5 straipsnis. 7 straipsnio 1 ir 4 dalių pakeitimas
 
 1. 7 straipsnio 1 dalyje vietoj žodžių „investicijų“ įrašyti žodžius „finansinių priemonių“ ir šią dalį išdėstyti taip:
 
@@ -124,19 +124,19 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „4. Ne mažiau kaip 125 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio Įstatymo 46, 47 ir 49 straipsniuose nustatyti reikalavimai. Likusią nuosavo kapitalo dalį valdymo įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų teisės aktų nustatytos tvarkos.“
 
-\#### 6 straipsnis. 8 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 8 straipsnio 2 dalies pakeitimas
 
 8 straipsnio 2 dalyje vietoj žodžio „investicijų“ įrašyti žodžius „finansinių priemonių“ ir šią dalį išdėstyti taip:
 
 „2. Garantijų rezervas investuojamas į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio Įstatymo 46, 47 ir 49 straipsniuose nustatyti reikalavimai.“
 
-\#### 7 straipsnis. 10 straipsnio 2 dalies 2 punkto pakeitimas
+## 7 straipsnis. 10 straipsnio 2 dalies 2 punkto pakeitimas
 
 10 straipsnio 2 dalies 2 punkte išbraukti žodį „valstybės“, vietoj žodžių „Europos Sąjungos“ įrašyti žodį „valstybės“ ir šį punktą išdėstyti taip:
 
 „2) Vertybinių popierių komisija su atitinkamos ne valstybės narės, kurioje licencijuotai įmonei yra pavedama dalis funkcijų, priežiūros institucija yra sudariusi susitarimą dėl keitimosi informacija;“.
 
-\#### 8 straipsnis. 11 straipsnio 1, 2 dalių, 3 dalies 3 ir 5 punktų, 5 dalies pakeitimas
+## 8 straipsnis. 11 straipsnio 1, 2 dalių, 3 dalies 3 ir 5 punktų, 5 dalies pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „5. Fizinis ar juridinis asmuo, ketinantis tiesiogiai ar netiesiogiai sumažinti jau turimą valdymo įmonės akcijų paketą, jei dėl planuojamo akcijų paketo sumažinimo asmeniui priklausančių balsavimo teisių ar kapitalo dalis taptų mažesnė kaip 10, 20, 33 ar 50 procentų, arba valdymo įmonė nustotų buvusi to juridinio asmens dukterine įmone, apie tai taip pat turi pranešti Vertybinių popierių komisijai.“
 
-\#### 9 straipsnis. 14 straipsnio 2, 3 ir 4 dalių pakeitimas
+## 9 straipsnis. 14 straipsnio 2, 3 ir 4 dalių pakeitimas
 
 1. 14 straipsnio 2 dalyje prieš žodžius „vertybinių popierių“ įrašyti žodį „perleidžiamųjų“ ir šią dalį išdėstyti taip:
 
@@ -172,13 +172,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „4. Valdymo įmonė, veikianti pensijų fondo lėšomis, negali skolintis, išskyrus paskolas iki 10 procentų grynųjų aktyvų vertės iki 3 mėnesių terminui, kurios būtinos likvidumui palaikyti. Tai nereiškia draudimo skolintis užsienio valiutą, už kurią perkami perleidžiamieji vertybiniai popieriai ar pinigų rinkos priemonės, jei paskolos grąžinimui užtikrinti paskolos davėjui duodama ne mažesnė suma kita valiuta.“
 
-\#### 10 straipsnis. 34 straipsnio 8 dalies pakeitimas
+## 10 straipsnis. 34 straipsnio 8 dalies pakeitimas
 
 34 straipsnio 8 dalyje vietoj žodžių „per vertybinių popierių biržą“ įrašyti žodžius „reguliuojamoje rinkoje“ ir šią dalį išdėstyti taip:
 
 „8. Jeigu pensijų fondas panaikinamas ir jo pensijų turto valdymas bei įsipareigojimai pagal pensijų kaupimo sutartis neperduodami kitai valdymo įmonei, panaikinto pensijų fondo pensijų turtas padalijamas dalyviams proporcingai jų pensijų sąskaitose įrašytų apskaitos vienetų kiekiui pagal jo būklę sprendimo panaikinti pensijų fondą priėmimo dieną arba pagal jo būklę teismo sprendimo likviduoti bankrutavusią valdymo įmonę priėmimo dieną. Visas panaikinto pensijų fondo pensijų turtas turi būti realizuotas ir su pensijų fondo dalyviais turi būti atsiskaityta už jį gautais pinigais. Panaikinto pensijų fondo pensijų turtas turi būti parduodamas reguliuojamoje rinkoje ar aukcione pagal Vertybinių popierių komisijos nustatytas taisykles.“
 
-\#### 11 straipsnis. 46 straipsnio pakeitimas
+## 11 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
@@ -214,7 +214,7 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
 5. Vertybinių popierių komisija nustato tvarką, kuria valdymo įmonė, siekdama veiksmingai valdyti finansinių priemonių portfelį, turi teisę naudoti būdus ir finansines priemones, susijusias su perleidžiamaisiais vertybiniais popieriais ar pinigų rinkos priemonėmis. Tokių būdų ar finansinių priemonių naudojimas nereiškia, kad leidžiama nukrypti nuo pensijų fondo taisyklėse nustatytų investavimo tikslų.“
 
-\#### 12 straipsnis. 47 straipsnio pakeitimas
+## 12 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -236,7 +236,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotas finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.“
 
-\#### 13 straipsnis. 48 straipsnio 2 dalies 2 punkto, 3 ir 4 dalių pakeitimas
+## 13 straipsnis. 48 straipsnio 2 dalies 2 punkto, 3 ir 4 dalių pakeitimas
 
 1. 48 straipsnio 2 dalies 2 punkte vietoj žodžio „skolos“ įrašyti žodžius „obligacijų ir kitų formų ne nuosavybės“ ir šį punktą išdėstyti taip:
 
@@ -250,7 +250,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 „4. Šio straipsnio 2 dalies 2 ir 3 punktuose numatytos ribos netaikomos valstybės ar savivaldybės išleistiems ar garantuotiems perleidžiamiesiems vertybiniams popieriams ar pinigų rinkos priemonėms.“
 
-\#### 14 straipsnis. 49 straipsnio 1 dalies 1 ir 2 punktų ir 3 dalies pakeitimas
+## 14 straipsnis. 49 straipsnio 1 dalies 1 ir 2 punktų ir 3 dalies pakeitimas
 
 1. Pakeisti 49 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -264,7 +264,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 „3. Bendra investicijų į kolektyvinio investavimo subjektus, kurie veikia ne pagal 1985 m. gruodžio 20 d. Tarybos direktyvos 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB) nustatytas taisykles, suma gali būti ne didesnė kaip 30 procentų pensijų fondo grynųjų aktyvų.“
 
-\#### 15 straipsnis. 50 straipsnio pakeitimas
+## 15 straipsnis. 50 straipsnio pakeitimas
 
 Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
@@ -274,19 +274,19 @@ Pakeisti 50 straipsnį ir jį išdėstyti taip:
 
 2. Naujai sukurto pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio Įstatymo 47–49 straipsnių reikalavimų.“
 
-\#### 16 straipsnis. 51 straipsnio 2 dalies pakeitimas
+## 16 straipsnis. 51 straipsnio 2 dalies pakeitimas
 
 51 straipsnio 2 dalyje vietoj žodžio „investicijų“ įrašyti žodžius „finansinių priemonių“ ir šią dalį išdėstyti taip:
 
 „2. Valdymo įmonė turi užtikrinti, kad dalyviui j o pageidavimu būtų visada prieinamos periodinės ataskaitos, pensijų fondo taisyklės (jo prašymu valdymo įmonė turi padaryti ataskaitų ir taisyklių kopijas, o mokestis už jas negali viršyti pagaminimo sąnaudų), taip pat suteikta teisinga ir išsami informacija apie asmeninėje pensijų sąskaitoje sukaupto turto dydį bei įmokų mokėjimą, valdymo įmonės finansinės veiklos audito išvadas, investavimo galimybių pasirinkimą, dabartinį finansinių priemonių portfelį, su investicijomis susijusias rizikas ir išlaidas bei kitą šio straipsnio 1 dalyje nurodytą informaciją.“
 
-\#### 17 straipsnis. 56 straipsnio 2 dalies pakeitimas
+## 17 straipsnis. 56 straipsnio 2 dalies pakeitimas
 
 56 straipsnio 2 dalyje vietoj žodžių „Vertybinių popierių rinkos“ įrašyti žodžius „Finansinių priemonių rinkų“ ir šią dalį išdėstyti taip:
 
 „2. Vertybinių popierių komisija priežiūros funkcijas atlieka vadovaudamasi šiuo Įstatymu ir Finansinių priemonių rinkų įstatymu bei turi šio ir kitų įstatymų numatytas teises ir pareigas.“
 
-\#### 18 straipsnis. 59 straipsnio pakeitimas
+## 18 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 

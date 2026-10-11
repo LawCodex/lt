@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0558F08B2FBB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0558F08B2FBB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 2, 6, 20, 23, 29, 31, 37 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 23-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [73-3093](https://www.e-tar.lt/portal/lt/legalAct/TAR.C961DAD4DB40), Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5), Nr. [123-5592](https://www.e-tar.lt/portal/lt/legalAct/TAR.50C78CEF37AA); 2004, Nr. [73-2545](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F5AD6471BE); 2005, Nr. [43-1355](https://www.e-tar.lt/portal/lt/legalAct/TAR.09D05091487D), Nr. [143-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.0AA2765486A5); 2006, Nr. [116-4402](https://www.e-tar.lt/portal/lt/legalAct/TAR.7C06B2CCB290); 2007, Nr. [55-2127](https://www.e-tar.lt/portal/lt/legalAct/TAR.946EB061E6BD))
 
-\#### 1 straipsnis. 2 straipsnio 3, 6 dalių pakeitimas ir straipsnio papildymas 89, 90, 91 dalimis
+## 1 straipsnis. 2 straipsnio 3, 6 dalių pakeitimas ir straipsnio papildymas 89, 90, 91 dalimis
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -46,13 +46,13 @@ Vilnius
 
 „91.**Tipinis statinio projektas**–statybos techniniuose reglamentuose nustatytos sudėties dokumentų, kuriuose pateikiami kartotinių statinių sprendiniai, visuma.“
 
-\#### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
 
 Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Projektuojant, statant, rekonstruojant ar kapitališkai remontuojant pastatus (išskyrus atnaujinamus (modernizuojamus) daugiabučius namus) ir inžinerinius statinius, būtina juos pritaikyti specialiesiemsneįgaliųjų poreikiams, vadovaujantis Neįgaliųjų socialinės integracijos įstatymu.“
 
-\#### 3 straipsnis. 20 straipsnio 2 dalies 5 punkto ir 3, 5, 15 dalių pakeitimas
+## 3 straipsnis. 20 straipsnio 2 dalies 5 punkto ir 3, 5, 15 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „15. Privalomųjų statinio projekto rengimo dokumentų ir statinio projekto rengimo tvarką bei sudėtį nustato Vyriausybės įgaliota institucija, o kai vyksta kultūros paveldo statinių tvarkomieji statybos darbai ar statinių statyba kultūros paveldo objektų teritorijose, – ši institucija kartu su Kultūros ministerija. Statiniams, kurių projektavimą, statybą, rekonstravimą arba remontą numatoma įrašyti į Valstybės investicijų programą arba kurie visiškai ar iš dalies finansuojami iš valstybės ir (ar) savivaldybių biudžetų ar kitų fondų, taip pat statiniams, kurių statybos darbų pirkimams taikomas Viešųjų pirkimų įstatymas, privalomas statybos sąnaudų ir statinio naudojimo įvertinimas investicijų efektyvumo požiūriu Investicijų įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 4 straipsnis. 23 straipsnio 5 dalies ir 6 dalies 4 punkto pakeitimas
+## 4 straipsnis. 23 straipsnio 5 dalies ir 6 dalies 4 punkto pakeitimas
 
 1. Papildyti 23 straipsnio 5 dalį nauju 2 punktu:
 
@@ -92,7 +92,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „4) statinio projektą ir kompiuterinę laikmeną su statinio projekto įrašu;“.
 
-\#### 5 straipsnis. Įstatymo papildymas 231 straipsniu
+## 5 straipsnis. Įstatymo papildymas 231 straipsniu
 
 Papildyti Įstatymą 23^1 straipsniu:
 
@@ -122,19 +122,19 @@ Papildyti Įstatymą 23^1 straipsniu:
 
 8. Išduodant statybos leidimą supaprastinta tvarka, be šiame straipsnyje nustatytų reikalavimų, taikomi šio Įstatymo 23 straipsnio 1, 2, 4, 5, 15, 17, 18, 19, 21, 22, 23 ir 24 dalių reikalavimai.“
 
-\#### 6 straipsnis. 29 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 29 straipsnio 1 dalies pakeitimas
 
 Pakeisti 29 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Ypatingo statinio ir statinio, įrašyto į Valstybės investicijų programą, projektų ekspertizė yra privaloma, išskyrus atvejus, kai pastatai atnaujinami (modernizuojami) pagal Aplinkos ministerijos ar jos įgaliotos institucijos patvirtintus tipinius statinių projektus, pritaikytus konkretiems atnaujinamiems (modernizuojamiems) pastatams, arba pagal projektus, parengtus naudojant Aplinkos ministerijos ar jos įgaliotos institucijos patvirtintus tipinius konstrukcinius elementus. Ar kultūros paveldo statinių tvarkomųjų statybos darbų projektų ekspertizė yra privaloma, nustato Vyriausybės įgaliota institucija kartu su Kultūros ministerija. Kitus statinio projekto ar atskirų statinio projekto dalių ekspertizės privalomumo atvejus nustato Vyriausybės įgaliota institucija.“
 
-\#### 7 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Statant, rekonstruojant, kapitališkai remontuojant ypatingą statinį ar statinį saugomoje teritorijoje, jo projekto vykdymo priežiūra yra privaloma, išskyrus atvejus, kai pastatai atnaujinami (modernizuojami) pagal Aplinkos ministerijos ar jos įgaliotos institucijos patvirtintus tipinius statinių projektus, pritaikytus konkretiems atnaujinamiems (modernizuojamiems) pastatams.“
 
-\#### 8 straipsnis. 37 straipsnio 5 ir 7 dalių pakeitimas
+## 8 straipsnis. 37 straipsnio 5 ir 7 dalių pakeitimas
 
 1. Pakeisti 37 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -144,7 +144,7 @@ Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „7. Draudimo galiojimo terminai nustatomi Lietuvos Respublikos draudimo priežiūros komisijos tvirtinamose Statinio projektuotojo civilinės atsakomybės privalomojo draudimo taisyklėse ir Rangovo civilinės atsakomybės privalomojo draudimo taisyklėse.“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas
+## 9 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. rugsėjo 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3AE5CB7BBC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7B3AE5CB7BBC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 3, 4, 7, 26, 28, 30, 31, 32, 34, 35, 36, 38, 39, 40, 41, 42 straipsnių pakeitimo ir papildymo 28-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 1994, Nr. [96-1874](https://www.e-tar.lt/portal/lt/legalAct/TAR.9DE7514DA6E8); 1995, Nr. [59-1481](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51C1018DDC3), Nr. [89-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.54DAE0F876A2); 1996, Nr.[53-1250](https://www.e-tar.lt/portal/lt/legalAct/TAR.18280923D118), Nr. [57-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5EEEA24CFC1); 1997, Nr. [67-1651](https://www.e-tar.lt/portal/lt/legalAct/TAR.026F4848FF0C); 1998, Nr. [114-3191](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9EFDCFC17E3), Nr. [115-3242](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8E047470B8C); 1999, Nr. [32-900](https://www.e-tar.lt/portal/lt/legalAct/TAR.E72FF7F74CCB))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Valstybinį socialinį draudimą reglamentuoja šis, Valstybinio socialinio drau
 
 Šių įstatymų nuostatų įgyvendinimo tvarką reglamentuoja Lietuvos Respublikos Vyriausybės tvirtinamos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės, Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatai, Valstybinio socialinio draudimo pašalpų nuostatai, Valstybinio savanoriškojo socialinio pensijų draudimo taisyklės, Valstybinio savanoriškojo socialinio draudimo ligos, nėštumo ir gimdymo pašalpoms taisyklės, taip pat Valstybinio socialinio draudimo fondo įstaigų nuostatai.“
 
-\#### 2 straipsnis. 3 straipsnio 4, 5 punktų pakeitimas
+## 2 straipsnis. 3 straipsnio 4, 5 punktų pakeitimas
 
 3 straipsnio 4 punkte vietoj žodžių „Gyventojų užimtumo“ įrašyti žodžius „Bedarbių rėmimo“, 5 punkte vietoj žodžio „gamyboje“ įrašyti žodį „darbe“ ir šiuos punktus išdėstyti taip:
 
@@ -46,7 +46,7 @@ Valstybinį socialinį draudimą reglamentuoja šis, Valstybinio socialinio drau
 
 5) draudimas nuo nelaimingų atsitikimų darbe, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme.“
 
-\#### 3 straipsnis. 4 straipsnio 2 dalies pakeitimas ir papildymas
+## 3 straipsnis. 4 straipsnio 2 dalies pakeitimas ir papildymas
 
 4 straipsnio 2 dalies 1 punkte po žodžio „sutartis“ įrašyti žodžius „diplomato tarnybos ar terminuotas diplomato tarnybos sutartis“, punktą papildyti žodžiais „bei diplomatų sutuoktiniai“, 3 punkte vietoj žodžio „šeimų“ įrašyti žodį „ūkių“ ir 1, 3 punktus išdėstyti taip:
 
@@ -54,19 +54,19 @@ Valstybinį socialinį draudimą reglamentuoja šis, Valstybinio socialinio drau
 
 „3) ūkininkai ir dirbantys ūkyje pilnamečiai jų ūkių nariai.“
 
-\#### 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalyje po žodžio „straipsnio“ įrašyti skaičių ir žodį „2 dalies“, vietoj žodžių „yrapalaisvinami nuo darbo ar tarnybinių pareigų ir dėl to praranda savo darbo pajamas“ įrašyti žodžius „nedirba arba laikinai perkeliami į kitą darbą“ ir šią dalį išdėstyti taip:
 
 „Teisę į ligos pašalpą turi apdraustieji, išvardyti šio įstatymo 4 straipsnio 2 dalies 1 punkte, jei jie dėl šio įstatymo 6 straipsnyje numatytų priežasčių nedirba arba laikinai perkeliami į kitą darbą. Šią teisę jie įgyja nuo pirmosios darbo (draudimo) dienos.“
 
-\#### 5 straipsnis. 26 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 26 straipsnio 3 dalies pakeitimas
 
 26 straipsnio 3 dalyje vietoj žodžio „tarybos“ įrašyti žodį „valdybos“ ir šią dalį išdėstyti taip:
 
 „Šio straipsnio pirmojoje dalyje išvardytiems asmenims, kuriems dėl sutrikusių judėjimo funkcijų sunku naudotis visuomeniniu transportu, mokama specialiųjų lengvųjų automobilių arba motorinių vežimėlių įsigijimo ir jų techninio pritaikymo išlaidų kompensacija, jeigu pagal invalidumą nustatančių komisijų sprendimą ir nustatytos formos pažymą šie asmenys turi teisę įsigyti ir gali vairuoti šiuos lengvuosius automobilius arba motorinius vežimėlius. Šių kompensacijų mokėjimo tvarką ir dydžius tvirtina Lietuvos Respublikos Vyriausybė Valstybinio socialinio draudimo fondo valdybosteikimu.“
 
-\#### 6 straipsnis. 28 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 28 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 28 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Lietuvos Respublikos Vyriausybė apsvarsto Valstybinio socialinio draudimo fondo
 
 Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo tvarką nustato Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymas bei nuostatos, reglamentuotos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse.“
 
-\#### 7 straipsnis. Įstatymo papildymas 281 straipsniu
+## 7 straipsnis. Įstatymo papildymas 281 straipsniu
 
 Papildyti Įstatymą 28^1 straipsniu:
 
@@ -94,13 +94,13 @@ Valstybinio socialinio draudimo fondo valdyba sudaro sutartį su audito įmone, 
 
 Kasmet, ne vėliau kaip iki balandžio 15 d., audito įmonė patikrina Valstybinio socialinio draudimo fondo ir Valstybinio socialinio draudimo fondovaldybos finansinę atskaitomybę ir pagal tarptautinius apskaitos standartus parengia išvadas dėl biudžetinių metų finansinės veiklos.“
 
-\#### 8 straipsnis. 30 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 30 straipsnio 2 dalies pakeitimas
 
 Pakeisti30 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Valstybinio socialinio draudimo fondo biudžeto pajamos apskaitomos atskirose sąskaitose pagal kiekvienos valstybinio socialinio draudimo rūšies draudimo įmokų dydžius.“
 
-\#### 9 straipsnis. 31 straipsnio pakeitimas
+## 9 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti31 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti31 straipsnį ir jį išdėstyti taip:
 
 Valstybinio socialinio draudimo fondo biudžeto išlaidos skirstomos ir apskaitomos pagal valstybinio socialinio draudimo rūšis. Išlaidų straipsnių klasifikaciją nustato Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymas.“
 
-\#### 10 straipsnis. 32 straipsnio 3, 4 dalių pakeitimas
+## 10 straipsnis. 32 straipsnio 3, 4 dalių pakeitimas
 
 1. 32 straipsnio 3 dalyje vietoj žodžio „tarybos“ įrašyti žodį „valdybos“ ir šią dalį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Valstybinio socialinio draudimo fondo biudžeto išlaidos skirstomos ir apskaito
 
 „Valstybinio socialinio draudimo fondo valdyba privalo užtikrinti Valstybinio socialinio draudimo fondo rezervo lėšų realiosios vertės išsaugojimą.***“***
 
-\#### 11 straipsnis. 34 straipsnio pakeitimas ir papildymas
+## 11 straipsnis. 34 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 34 straipsnį ir jį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Asmenys, išvardyti šio įstatymo 4 straipsnio 2 dalies 2 ir 3 punktuose, valst
 
 Įmokų mokėjimo tvarką nustato Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymas.“
 
-\#### 12 straipsnis. 35 straipsnio pakeitimas
+## 12 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti35 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti35 straipsnį ir jį išdėstyti taip:
 
 Bendrasis privalomojo valstybinio socialinio draudimo įmokų tarifas ir jo dydžiai atskiroms draudimo rūšims, taip pat apdraustųjų, išvardytų šio įstatymo 4 straipsnio 2 dalies 1 punkte, įmokų tarifas Vyriausybės teikimu tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
-\#### 13 straipsnis. 36 straipsnio 3, 4, 5 dalių pakeitimas ir papildymas
+## 13 straipsnis. 36 straipsnio 3, 4, 5 dalių pakeitimas ir papildymas
 
 1. Iš 36 straipsnio 3 dalies išbraukti žodžius „Valstybinio socialinio draudimo fondo tarybos sprendimu“ ir šią dalį išdėstyti taip:
 
@@ -164,7 +164,7 @@ Bendrasis privalomojo valstybinio socialinio draudimo įmokų tarifas ir jo dyd�
 
 „Įmokų mokėjimo ir jų mokėjimo atidėjimo tvarką nustatoValstybinio socialinio draudimo fondo biudžeto sandaros įstatymas.“
 
-\#### 14 straipsnis. 38 straipsnio 3, 5 dalių pakeitimas
+## 14 straipsnis. 38 straipsnio 3, 5 dalių pakeitimas
 
 1. 38 straipsnio 3 dalyje vietoj žodžio „taryba“ įrašyti žodį „valdyba“ ir šią dalį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Bendrasis privalomojo valstybinio socialinio draudimo įmokų tarifas ir jo dyd�
 
 „Valstybinio socialinio draudimo fondo valdyba gali atleisti draudėjus nuo baudų mokėjimo, jei draudėjas įrodo, kad apskaičiavo per mažas įmokas dėl aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo numatyti. Kad kaltės nėra, draudėjas turi įrodyti pats. Ši lengvata netaikoma draudėjui, kuris padarė bent vieną šiame straipsnyje nurodytą piktybinį įstatymų pažeidimą.“
 
-\#### 15 straipsnis. 39 straipsnio pakeitimas
+## 15 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
@@ -190,7 +190,7 @@ Lietuvos Respublikos valstybinio socialinio draudimo valdymo sistemą sudaro:
 
 4) draudėjai.“
 
-\#### 16 straipsnis. 40 straipsnio pakeitimas
+## 16 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti40 straipsnį ir jį išdėstyti taip:
 
@@ -200,7 +200,7 @@ Valstybinio socialinio draudimo fondo, kaip savarankiškos finansų sistemos gra
 
 Tarybai vadovauja socialinės apsaugos ir darbo ministras arba jo įgaliotas tarybos narys.“
 
-\#### 17 straipsnis. 41 straipsnio pakeitimas
+## 17 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti41 straipsnį ir jį išdėstyti taip:
 
@@ -222,7 +222,7 @@ Valstybinio socialinio draudimo fondo taryba:
 
 Tarybos sprendimai priimami paprasta jos narių balsų dauguma. Esant vienodam balsų skaičiui, Tarybos pirmininko balsas yra lemiamas. Tarybos darbas organizuojamas pagal jos pačios patvirtintą reglamentą.“
 
-\#### 18 straipsnis. 42 straipsnio pakeitimas
+## 18 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnį ir jį išdėstyti taip:
 
@@ -264,7 +264,7 @@ Valdyba turi teisę:
 
 Valdybai vadovauja direktorius, kurį socialinės apsaugos ir darbo ministro teikimu, įvertinusi Valstybinio socialinio draudimo fondo tarybos rekomendacijas, skiria Vyriausybė. Valstybinio socialinio draudimo fondo valdybos direktorius yra tiesiogiai atskaitingas socialinės apsaugos ir darbo ministrui.“
 
-\#### 19 straipsnis. Baigiamosios nuostatos
+## 19 straipsnis. Baigiamosios nuostatos
 
 1. Lietuvos Respublikos Vyriausybė iki 1999 m. birželio 1 d. parengia patentus įsigijusių asmenų valstybinio socialinio draudimo tvarką.
 

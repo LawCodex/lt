@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.06438E0A26EC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.06438E0A26EC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl amnestijos
@@ -28,23 +28,23 @@ Vilnius
 
 Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį amnestijos įstatymą.
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Atleisti nuo neatliktosios bausmės dalies asmenis, nuteistus iki 1990 m. kovo 10 d. imtinai, išskyrus nuteistus už šiuos nusikaltimus:
 
 banditizmą (Baudžiamojo kodekso 75 straipsnis); masines riaušes (Baudžiamojo kodekso 78 straipsnis); susisiekimo kelių ir transporto priemonių sugadinimą (Baudžiamojo kodekso 85 straipsnis); tyčinį nužudymą (Baudžiamojo kodekso 104 straipsnis); tyčinį nužudymą sunkinančiomis aplinkybėmis (Baudžiamojo kodekso 105 straipsnis); tyčinį sunkų kūno sužalojimą (Baudžiamojo kodekso 111 straipsnio 2 dalis); išžaginimą (Baudžiamojo kodekso 118 straipsnio 3 ir 4 dalys); įkaitų paėmimą (Baudžiamojo kodekso 131^1 straipsnis); kėsinimąsi į policininko ar policijos rėmėjo gyvybę (Baudžiamojo kodekso 203^1 straipsnis); chuliganizmą (Baudžiamojo kodekso 225 straipsnio 3 dalis); neteisėtą narkotinių priemonių gaminimą, įsigijimą, laikymą, gabenimą, siuntimą arba realizavimą (Baudžiamojo kodekso 232^1 straipsnio 3 ir 4 dalys); narkotinių priemonių grobimą (Baudžiamojo kodekso 232^2 straipsnio 2 ir 3 dalys); neteisėtą šaunamojo ginklo, šaudmenų ir sprogstamųjų medžiagų nešiojimą, laikymą, įsigijimą, gaminimą ir realizavimą (Baudžiamojo kodekso 234 straipsnio 2 dalis); šaunamojo ginklo, šaudmenų ar sprogstamųjų medžiagų grobimą, plėšimą (Baudžiamojo kodekso 234^1 straipsnis); orlaivio nuvarymą (Baudžiamojo kodekso 249^2 straipsnis); plėšimą (Baudžiamojo kodekso 272 straipsnis); turto prievartavimą (Baudžiamojo kodekso 273 straipsnis); laisvės atėmimo įstaigų darbo dezorganizavimą (Baudžiamojo kodekso 303 straipsnis).
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Atleisti nuo neatliktosios bausmės dalies nuteistas laisvės atėmimu iki penkerių metų įskaitytinai moteris, vyresnius kaip 65 metų vyrus, 1 ir 2 grupės invalidus ir nepilnamečius.
 
 Nepilnamečiais pagal šį įstatymą laikomi asmenys, gimę po 1977 m. gruodžio 1 d., o vyresniais kaip 65 metų vyrais – asmenys, kuriems šitiek metų sukako iki šio įstatymo įsigaliojimo dienos.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Sumažinti neatliktąją bausmės dalį pusiau asmenims, nuteistiems laisvės atėmimu iki penkerių metų įskaitytinai už nusikaltimus, padarytus dėl neatsargumo. Jeigu tokių asmenų neatliktoji bausmės dalis yra vieneri metai arba trumpesnė, tai jie atleidžiami nuo neatliktosios bausmės.
 
-\#### 4 straipsnis
+## 4 straipsnis
 
 Sumažinti neatliktąją bausmės dalį 1/3, bet ne daugiau kaip 2 metais, asmenims, nuteistiems laisvės atėmimu iki septynerių metų įskaitytinai, ir ne daugiau kaip 1,5 metų asmenims, nuteistiems laisvės atėmimu nuo septynerių metų iki penkiolikos metų įskaitytinai.
 
@@ -56,7 +56,7 @@ Asmenims, atliekantiems laisvės atėmimo bausmę:
 
 šio straipsnio pirmojoje dalyje numatytas bausmės sumažinimas taikomas, jei taip nusprendžia amnestijos komisija.
 
-\#### 5 straipsnis
+## 5 straipsnis
 
 Amnestijos komisija, kurioje turi būti pataisos darbų įstaigos viršininkas, jo pavaduotojai auklėjamajam darbui (auklėjamojo darbo skyriaus viršininkas, vyr. instruktorius) ir režimui, įstaigos skyriaus viršininkas (vyr. inspektorius), teritorinės prokuratūros prokuroras bei Kalinių globos draugijos atstovas, sudaroma kiekvienoje pataisos darbų įstaigoje. Komisijų darbą organizuoja įstaigų viršininkai, kurie yra šių komisijų pirmininkai. Komisijos posėdžiai teisėti, kai juose dalyvauja ne mažiau kaip keturi nariai. Komisija, atsižvelgusi į nuteistojo elgesį bausmės atlikimo metu, požiūrį į darbą ir reakciją į auklėjamąsias priemones, sprendimą dėl amnestijos taikymo priima atviru balsavimu balsų dauguma. Balsams pasidalijus po lygiai, lemia komisijos pirmininko balsas. Prieš priimdama sprendimą, komisija išklauso patį nuteistąjį. Komisijos posėdžiai protokoluojami.
 
@@ -64,7 +64,7 @@ Motyvuotą sprendimą netaikyti amnestijos nuteistasis per 10 dienų nuo sprendi
 
 Teismas tokius skundus, taip pat skundus dėl amnestijos netaikymo, jei ji pagal šį įstatymą galėjo būti taikyta, nagrinėja įstatymų nustatyta tvarka.
 
-\#### 6 straipsnis
+## 6 straipsnis
 
 Amnestija netaikoma:
 
@@ -78,19 +78,19 @@ Amnestija netaikoma:
 
 5) asmenims, nuteistiems už valstybės išdavimą (Baudžiamojo kodekso 62 straipsnis); šnipinėjimą (Baudžiamojo kodekso 63 straipsnis); kėsinimąsi į Lietuvos Respublikos Prezidento, Seimo nario, Ministro Pirmininko, ministro arba kito pareigūno gyvybę (Baudžiamojo kodekso 64 straipsnis); kėsinimąsi į užsienio valstybės atstovo gyvybę (Baudžiamojo kodekso 65 straipsnis); diversiją (Baudžiamojo kodekso 66 straipsnis); kenkimą (Baudžiamojo kodekso 67 straipsnis); viešus raginimus smurtu pažeisti Lietuvos Respublikos suverenitetą (Baudžiamojo kodekso 68 straipsnis); karo kurstymą (Baudžiamojo kodekso 69 straipsnis); antivalstybinių organizacijų kūrimą ir aktyvų dalyvavimą jų veikloje (Baudžiamojo kodekso 70 straipsnis); banditizmą (Baudžiamojo kodekso 75 straipsnis); masines riaušes (Baudžiamojo kodekso 78 straipsnis); vengimą eilinio šaukimo į tikrąją krašto apsaugos tarnybą (Baudžiamojo kodekso 79 straipsnis); tyčinį nužudymą sunkinančiomis aplinkybėmis (Baudžiamojo kodekso 105 straipsnis); išžaginimą (Baudžiamojo kodekso 118 straipsnio 3 ir 4 dalys); įkaitų paėmimą (Baudžiamojo kodekso 1311 straipsnis); kėsinimąsi į policininko ar policijos rėmėjo gyvybę (Baudžiamojo kodekso 2031 straipsnis); nusikalstamo susivienijimo organizavimą, vadovavimą ar dalyvavimą jame (Baudžiamojo kodekso 2271 straipsnis); asmens terorizavimą (Baudžiamojo kodekso 2272 straipsnis); šaunamojo ginklo, šaudmenų ar sprogstamųjų medžiagų grobimą (Baudžiamojo kodekso 2341 straipsnis); radioaktyviųjų medžiagų grobimą (Baudžiamojo kodekso 2342 straipsnis); nusikalstamų grupių ginklavimą (Baudžiamojo kodekso 2344 straipsnis); orlaivio nuvarymą (Baudžiamojo kodekso 2492 straipsnis); plėšimą (Baudžiamojo kodekso 272 straipsnio 3 dalis); turto prievartavimą (Baudžiamojo kodekso 273 straipsnis); sukčiavimą (Baudžiamojo kodekso 274 straipsnio 3 dalis); turto pasisavinimą arba iššvaistymą (Baudžiamojo kodekso 275 straipsnio 3 dalis); turto sunaikinimą arba sužalojimą tyčia (Baudžiamojo kodekso 278 straipsnio 2 dalis); kyšio priėmimą (Baudžiamojo kodekso 282 straipsnis); operacijų su pinigais ir vertybiniais popieriais taisyklių pažeidimą (Baudžiamojo kodekso 329 straipsnis) bei už nusikaltimus, padarytus laisvės atėmimo vietose.
 
-\#### 7 straipsnis
+## 7 straipsnis
 
 Asmenims, kurie laisvės atėmimo vietose gydosi nuo venerinių ligų, amnestija taikoma tik baigus gydymo kursą.
 
-\#### 8 straipsnis
+## 8 straipsnis
 
 Amnestijos pritaikymas nepanaikina teistumo.
 
-\#### 9 straipsnis
+## 9 straipsnis
 
 Šis įstatymas taikomas asmenims, atliekantiems bausmę Lietuvos Respublikoje ir nuteistiems už nusikaltimus, padarytus iki 1995 m. gruodžio 1 d. įskaitytinai, taip pat asmenims, kuriuos nuteisė Lietuvos Respublikos teismai už nusikaltimus, padarytus iki 1995 m. gruodžio 1 d. įskaitytinai. Asmenims, padariusiems trunkamuosius ar tęstinius nusikaltimus, amnestija taikoma tik tada, jei šie nusikaltimai buvo baigti iki 1995 m. gruodžio 1 d. įskaitytinai.
 
-\#### 10 straipsnis
+## 10 straipsnis
 
 Šį įstatymą taiko ir vykdo:
 
@@ -102,7 +102,7 @@ asmenims, kurių bylos ar medžiagos iki šio įstatymo įsigaliojimo neišnagri
 
 šio įstatymo 4 straipsnyje numatytais atvejais.
 
-\#### 11 straipsnis
+## 11 straipsnis
 
 Amnestija turi būti įvykdyta (išskyrus tuos atvejus, kai ją taiko ir vykdo teismai) per tris mėnesius nuo šio įstatymo įsigaliojimo dienos.
 
@@ -110,7 +110,7 @@ Teismai, taikydami šį įstatymą, neatliktąjį bausmės dalies laiką skaiči
 
 Ginčus dėl amnestijos taikymo, kilusius po šio įstatymo įvykdymo, sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnyje nustatyta tvarka.
 
-\#### 12 straipsnis
+## 12 straipsnis
 
 Papildyti Lietuvos Respublikos įstatymo „Dėl amnestijos pažymint Lietuvos Respublikos Konstitucijos priėmimą“ (Žin., 1993, Nr. [25-580](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD83D2A7535D)) 6 straipsnį 4 punktu:
 

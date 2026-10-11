@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.33B21E7F180B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.33B21E7F180B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 29 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A); 2003, Nr. [38-1717](https://www.e-tar.lt/portal/lt/legalAct/TAR.8E1C78EEDD8E))
 
-\#### 1 straipsnis. 29 straipsnio pakeitimas
+## 1 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 Teismo psichiatrijos ekspertizė atliekama pagal ikiteisminio tyrimo teisėjo ar teismo nutartį. Ekspertizes atlieka Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos, taip pat kiti asmenys, turintys teismo psichiatro eksperto kvalifikaciją, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą. Stacionarinę teismo psichiatrijos ekspertizę atlieka tik Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos. Teismo psichiatrijos ekspertizės organizavimo ir atlikimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
 

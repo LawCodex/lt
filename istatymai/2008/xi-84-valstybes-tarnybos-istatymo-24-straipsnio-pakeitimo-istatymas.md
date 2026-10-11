@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EFB966D5F72A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EFB966D5F72A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 24 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72), Nr. [87-3400](https://www.e-tar.lt/portal/lt/legalAct/TAR.6BCE507FA0F6); 2007, Nr. [135-5453](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FD4C316A480); 2008, Nr. [63-2376](https://www.e-tar.lt/portal/lt/legalAct/TAR.23DA801CF472))
 
-\#### 1 straipsnis. 24 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 24 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 

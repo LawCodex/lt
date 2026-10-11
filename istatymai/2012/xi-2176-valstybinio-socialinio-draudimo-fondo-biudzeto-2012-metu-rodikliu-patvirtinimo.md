@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ABB223511308"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ABB223511308.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2012 metų rodiklių patvirtinimo įstatymo 3 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2011, Nr. [161-7620](https://www.e-tar.lt/portal/lt/legalAct/TAR.8669E7B4876B))
 
-\#### 1 straipsnis. 3 straipsnio 8 ir 9 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 8 ir 9 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „9. Nustatyti, kad individualių įmonių savininkams, mažųjų bendrijų nariams ir ūkinių bendrijų tikriesiems nariams apskaičiuojamos šio straipsnio 8 dalies 1 ir 3 punktuose nustatytos valstybinio socialinio draudimo įmokos.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
 

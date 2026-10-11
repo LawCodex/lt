@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FF2A8FD2BD52"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FF2A8FD2BD52.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3, 9, 14 ir 42 straipsnių pakeitimo įstatymas
@@ -24,31 +24,31 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B), Nr. [92-2858](https://www.e-tar.lt/portal/lt/legalAct/TAR.BD36F0ABFB35); 2002, Nr. [102-4550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA5CC14EC47); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E); 2004, Nr. [169-6215](https://www.e-tar.lt/portal/lt/legalAct/TAR.86209F68A21F); 2008, Nr. [38-1377](https://www.e-tar.lt/portal/lt/legalAct/TAR.E4C9F196E6BF); 2009, Nr. [29-1142](https://www.e-tar.lt/portal/lt/legalAct/TAR.782A9D3AD8A8))
 
-\#### 1 straipsnis. 3 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 3 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) kariuomenė, o įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) atveju, – ir kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai ir kiti koviniai piliečių bei jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei;“.
 
-\#### 2 straipsnis. 9 straipsnio 3 dalies 6 punkto pakeitimas
+## 2 straipsnis. 9 straipsnio 3 dalies 6 punkto pakeitimas
 
 9 straipsnio 3 dalies 6 punkte vietoj žodžio „Šaulių“ įrašyti žodžius „Lietuvos šaulių“ ir šį punktą išdėstyti taip:
 
 „6) administruoti viešosios informacijos apie krašto apsaugos sistemą teikimą, kariuomenės bendradarbiavimą su civilinėmis institucijomis, Lietuvos šaulių sąjunga ir kitomis asociacijomis bei viešosiomis įstaigomis, tiesiogiai prisidedančiomis prie krašto apsaugos sistemos stiprinimo ir visuomenės parengimo gynybai;“.
 
-\#### 3 straipsnis. 14 straipsnio 14 dalies pakeitimas
+## 3 straipsnis. 14 straipsnio 14 dalies pakeitimas
 
 Pakeisti 14 straipsnio 14 dalį ir ją išdėstyti taip:
 
 „14. Krašto apsaugos generalinis inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos ir Lietuvos šaulių sąjungos pasirengimą bendriems su kariuomene gynybos veiksmams, taip pat atlieka kitas teisės aktų nustatytas funkcijas.“
 
-\#### 4 straipsnis. 42 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 42 straipsnio 4 dalies pakeitimas
 
 Pakeisti 42 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Profesinės karo tarnybos karininkas krašto apsaugos ministro įsakymu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos vado, jo pavaduotojo ar rinktinės vado pareigas.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.
 

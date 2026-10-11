@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e30cadd005a111e4b836947d492f2f50"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E30CADD005A1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 75, 76 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ AKCINIŲ BENDROVIŲ ĮSTATYMO NR. VIII-1835 75, 76 STRAIPSNIŲ IR PRIEDO PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. 75 straipsnio pakeitimas
+## 1 straipsnis. 75 straipsnio pakeitimas
 
 1. Papildyti 75 straipsnį 11 dalimi:
 
@@ -40,19 +40,19 @@ Vilnius
 
 „13. Užsienio bendrovės filialas filialo vadovo iniciatyva turi būti išregistruotas iš juridinių asmenų registro iki užsienio bendrovės išregistravimo, išskyrus atvejus, kai užsienio bendrovė išregistruota iš registro šią bendrovę pertvarkius, reorganizavus ar jos buveinę perkėlus į kitą Europos Sąjungos valstybę narę ar Europos ekonominei erdvei priklausančią valstybę.“
 
-\#### 2 straipsnis. 76 straipsnio pakeitimas
+## 2 straipsnis. 76 straipsnio pakeitimas
 
 Pakeisti 76 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) užsienio bendrovės metinių finansinių ataskaitų rinkinys ir metinis pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinis konsoliduotųjų finansinių ataskaitų rinkinys ir konsoliduotasis metinis pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), kurie yra sudaryti (parengti) ir atskleisti pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę;“.
 
-\#### 3 straipsnis. Įstatymo priedo pakeitimas
+## 3 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 10 punktu:
 
 „10. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).“
 
-\#### 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 4 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė:
 
@@ -60,7 +60,7 @@ Lietuvos Respublikos Vyriausybė:
 
 2) iki 2014 m. rugsėjo 30 d. parengia šio įstatymo 2 straipsniui įgyvendinti reikalingus teisės aktus.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 1 ir 3 straipsniai įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.747D9F22C4A4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.747D9F22C4A4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo įgyvendinimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3020](https://www.e-tar.lt/portal/lt/legalAct/TAR.0308952F6448); 2000, Nr. [27-714](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C1DAA8065A4))
 
-\#### 1 straipsnis. 1 straipsnio 3 punkto pakeitimas
+## 1 straipsnis. 1 straipsnio 3 punkto pakeitimas
 
 Pakeisti 1 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) įgalioti Lietuvos Respublikos archyvų departamentą iki 2000 m. kovo 1 d. parengti Lietuvos Respublikos įslaptintų dokumentų apskaitos, raštvedybos organizavimo, tvarkymo bei kontrolės taisykles.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 

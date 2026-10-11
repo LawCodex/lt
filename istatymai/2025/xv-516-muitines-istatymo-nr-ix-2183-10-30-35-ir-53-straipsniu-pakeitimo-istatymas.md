@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/23501660c9ff11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.23501660C9FF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 10, 30, 35 ir 53 straipsnių pakeitimo įstatymas
@@ -26,11 +26,11 @@ MUITINĖS ĮSTATYMO NR. IX-2183 10, 30, 35 IR 53 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 10 straipsnio 5 punktą.
 
-\#### 2 straipsnis. 30 straipsnio pakeitimas
+## 2 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pripažinti netekusiu galios 10 straipsnio 5 punktą.
 
 „2. Registruotąja pašto siunta, įteikiama pasirašytinai, sprendimai ir (arba) dokumentai siunčiami pagal prašyme ar kitame asmens muitinės įstaigai pateiktame dokumente ar informacijoje nurodytą jo adresą arba asmens nurodytą adresą korespondencijai gauti. Tais atvejais, kai adreso duomenų muitinės įstaiga neturi, dokumentai siunčiami pagal Muitinės prievolininkų registro informacinėje sistemoje nurodytą asmens adresą. Dokumentų, siunčiamų registruotąja pašto siunta, įteikiama pasirašytinai, įteikimo diena laikoma registruotosios pašto siuntos įteikimo asmeniui diena.“
 
-\#### 3 straipsnis. 35 straipsnio pakeitimas
+## 3 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 
 Šio įstatymo 34 straipsnyje nurodyti sprendimai ne vėliau kaip kitą darbo dieną po jų priėmimo turi būti įteikti skundą pateikusiam asmeniui pasirašytinai arba išsiųsti registruotąja pašto siunta skunde arba prašyme nurodytu adresu.“
 
-\#### 4 straipsnis. 53 straipsnio pakeitimas
+## 4 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 9. Muitinės prievolininkų registro duomenų tvarkymo Muitinės prievolininkų registro informacinėje sistemoje tikslas – užtikrinti muitinės kontrolę, palengvinti muitinės formalumų atlikimą ir sumažinti mokesčių vengimo ar kitų pažeidimų riziką.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. liepos 1 d.
 

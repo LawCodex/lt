@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5CA1A6B352F1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5CA1A6B352F1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos principinės kariuomenės struktūros 2011 metais, planuojamos principinės kariuomenės struktūros 2016 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2011 metais ir 2016 metais patvirtinimo įstatymas
@@ -26,7 +26,7 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2011 METAIS, PLANUOJAMOS PRINCIPINĖS KARI
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato 2011 metų:
 
@@ -68,7 +68,7 @@ Vilnius
 
 3. Šis įstatymas nustato principinės kariuomenės struktūros 6 metų planavimo gaires, tai yra planuojamą principinę kariuomenės struktūrą, planuojamus ribinius tarnaujančių karių skaičius ir statutinių valstybės tarnautojų ribinį skaičių 2016 metais.
 
-\#### 2 straipsnis. Principinė kariuomenės struktūra, ribiniai karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2011 metais
+## 2 straipsnis. Principinė kariuomenės struktūra, ribiniai karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2011 metais
 
 1. Principinė kariuomenės struktūra, tai yra nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra, 2011 metais:
 
@@ -112,7 +112,7 @@ Vilnius
 
 4. Ribinis statutinių valstybės tarnautojų skaičius 2011 metais nustatomas nuo 150 iki 180.
 
-\#### 3 straipsnis. Principinė kariuomenės struktūra, ribiniai karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2016 metais
+## 3 straipsnis. Principinė kariuomenės struktūra, ribiniai karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2016 metais
 
 1. Principinė kariuomenės struktūra, tai yra nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra, 2016 metais:
 
@@ -156,7 +156,7 @@ Vilnius
 
 4. Ribinis statutinių valstybės tarnautojų skaičius 2016 metais nustatomas nuo 150 iki 180.
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo 1 straipsnio 1 dalis, 2 straipsnio 2 dalis ir 3 straipsnio 2 dalis galioja iki 2011 m. rugpjūčio 31 d.
 

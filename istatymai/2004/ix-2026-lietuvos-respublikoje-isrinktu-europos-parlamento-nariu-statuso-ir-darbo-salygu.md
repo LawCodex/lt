@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2091FFDA9D20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2091FFDA9D20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo įgyvendinimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS RESPUBLIKOJE IŠRINKTŲ EUROPOS PARLAMENTO NARIŲ STATUSO IR DARBO SĄL
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos Seimo stebėtojų Europos Parlamente delegacijos narių laikinas paskyrimas Europos Parlamento nariais
+## 1 straipsnis. Lietuvos Respublikos Seimo stebėtojų Europos Parlamente delegacijos narių laikinas paskyrimas Europos Parlamento nariais
 
 1. Nuo 2004 m. gegužės 1 d. iki 2004–2009 m. Europos Parlamento kadencijos pradžios Europos Parlamento nariais į Lietuvos Respublikai skirtas vietas laikinai paskiriami Lietuvos Respublikos Seimo nariai, paskirti Lietuvos Respublikos Seimo stebėtojų Europos Parlamente delegacijos nariais pagal 2003 m. balandžio 17 d. Lietuvos Respublikos Seimo nutarimą Nr. IX-1517 „Dėl Lietuvos Respublikos Seimo stebėtojų Europos Parlamente delegacijos“ (Žin., 2003, Nr. 39-1770, Nr. 51-2256) ir įvykdę šiame Įstatyme numatytas sąlygas.
 
 2. Lietuvos Respublikos Seimo stebėtojų Europos Parlamente delegacijos narys, pagal Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutartį dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos stojimo į Europos Sąjungą, pasirašytą 2003 m. balandžio 16 d. Atėnuose (toliau – Stojimo į Europos Sąjungą sutartis), laikinai paskirtas Europos Parlamento nariu, iki 2004 m. birželio 20 d. turi raštu pranešti Vyriausiajai rinkimų komisijai apie savo sprendimą atsistatydinti iš Lietuvos Respublikos Seimo nario pareigų. Šio Lietuvos Respublikos Seimo nario įgaliojimai laikomi nutrūkusiais nuo 2004 m. birželio 20 d. Jei Lietuvos Respublikos Seimo narys, laikinai paskirtas Europos Parlamento nariu, neatsistatydina iš Lietuvos Respublikos Seimo narių iki 2004 m. birželio 20 d., Lietuvos Respublikos Seimas svarsto naujo Lietuvos Respublikos Seimo nario paskyrimo į Europos Parlamento narius klausimą.
 
-\#### 2 straipsnis. Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo taikymas
+## 2 straipsnis. Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo taikymas
 
 Vadovaujantis Stojimo į Europos Sąjungą sutarties 25 straipsnio 2 dalimi, Lietuvos Respublikos Seimo nariams, laikinai paskirtiems Europos Parlamento nariais, laikotarpiui nuo 2004 m. gegužės 1 d. iki 2004–2009 m. Europos Parlamento kadencijos pradžios taikomos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo nuostatos, išskyrus 5 ir 10 straipsnių nuostatas.
 

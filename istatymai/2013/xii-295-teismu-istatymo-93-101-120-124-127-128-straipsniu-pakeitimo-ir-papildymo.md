@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FD5B5A6048F3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FD5B5A6048F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 93, 101, 120, 124, 127, 128 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 2002, Nr. [17-649](https://www.e-tar.lt/portal/lt/legalAct/TAR.390AEF086CE3); 2006, Nr. [60-2121](https://www.e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982); 2008, Nr. [81-3186](https://www.e-tar.lt/portal/lt/legalAct/TAR.C297668F27C1), Nr. [131-5023](https://www.e-tar.lt/portal/lt/legalAct/TAR.54A0C21F0C79); 2011, Nr. [67-3157](https://www.e-tar.lt/portal/lt/legalAct/TAR.574C89ED03E9), Nr. [85-4128](https://www.e-tar.lt/portal/lt/legalAct/TAR.2C8798A88F41))
 
-\#### 1 straipsnis. 93 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 93 straipsnio 1 dalies pakeitimas
 
 93 straipsnio 1 dalyje vietoj žodžių „ir įgytų žinių patikrinimo taisykles, aprobavus Teisėjų tarybai, tvirtina teisingumo ministras“ įrašyti žodžius „suderinusi su Teisingumo ministerija, tvirtina Teisėjų taryba“ ir šią dalį išdėstyti taip:
 
 „1. Teisėjų mokymo programas, suderinusi su Teisingumo ministerija, tvirtina Teisėjų taryba.“
 
-\#### 2 straipsnis. 101 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 101 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 101 straipsnį nauja 5 dalimi:
 
@@ -60,25 +60,25 @@ Vilnius
 
 5. Buvusias 101 straipsnio 6 ir 7 dalis laikyti atitinkamai 9 ir 10 dalimis.
 
-\#### 3 straipsnis. 120 straipsnio 18 punkto pakeitimas
+## 3 straipsnis. 120 straipsnio 18 punkto pakeitimas
 
 120 straipsnio 18 punkte vietoj žodžio „aprobuoja“ įrašyti žodį „tvirtina“, išbraukti žodžius „ir įgytų žinių patikrinimo“ ir šį punktą išdėstyti taip:
 
 „18) tvirtina Teisėjų mokymo organizavimo taisykles, mokymo programas, metinius kvalifikacijos tobulinimo planus ir kvalifikacinius reikalavimus lektoriams;“.
 
-\#### 4 straipsnis. 124 straipsnio 2 dalies 7 punkto pakeitimas
+## 4 straipsnis. 124 straipsnio 2 dalies 7 punkto pakeitimas
 
 124 straipsnio 2 dalies 7 punkte vietoj žodžių „ir investicijų projektų (investicijų programų) teismams įgyvendinimą“ įrašyti žodžius „įgyvendina teismų investicijų projektus (investicijų programas)“ ir šį punktą išdėstyti taip:
 
 „7) siekdama užtikrinti efektyvų ir racionalų valstybės lėšų valdymą ir naudojimą, organizuoja teismų vykdomų valstybės biudžeto programų projektų ir programų sąmatų projektų rengimą, įgyvendina teismų investicijų projektus (investicijų programas);“.
 
-\#### 5 straipsnis. 127 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 127 straipsnio 1 dalies pakeitimas
 
 127 straipsnio 1 dalyje išbraukti žodžius „ir investicinių programų“ ir šią dalį išdėstyti taip:
 
 „1. Biudžeto projektus sudaro asignavimų valdytojai – teismai.“
 
-\#### 6 straipsnis. 128 straipsnio pakeitimas
+## 6 straipsnis. 128 straipsnio pakeitimas
 
 Pakeisti 128 straipsnį ir jį išdėstyti taip:
 

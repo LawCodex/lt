@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8869165081dc11ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8869165081DC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas
@@ -26,9 +26,9 @@ GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir tikslas
+### 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 1. Šis įstatymas nustato gaminių ir paslaugų, nurodytų šio įstatymo 2 straipsnio 2 ir 4 dalyse, prieinamumo reikalavimus, siekiant laisvo gaminių ir paslaugų judėjimo Europos ekonominėje erdvėje.
 
@@ -82,7 +82,7 @@ Vilnius
 
 7. Paslaugos, kurios atitinka prieinamos informacijos ir informacijos apie prieinamumą teikimo reikalavimus, nustatytus 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 261/2004, nustatančiame bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinančiame Reglamentą (EEB) Nr. 295/91, 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru, 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004, 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004, 2011 m. gegužės 5 d. Komisijos reglamente (ES) Nr. 454/2011 dėl transeuropinės geležinkelių sistemos telematikos priemonių keleivių vežimo paslaugoms posistemio techninės sąveikos specifikacijos su visais pakeitimais, 2014 m. lapkričio 18 d. Komisijos reglamente (ES) Nr. 1300/2014 dėl Sąjungos geležinkelių sistemos prieinamumo neįgaliesiems ir riboto judumo asmenims techninių sąveikos specifikacijų su visais pakeitimais, 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (ES) 2021/782 dėl geležinkelių keleivių teisių ir pareigų, laikomos atitinkančiomis šio įstatymo reikalavimus. Jeigu šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose numatomi reikalavimai, kuriais papildomi šioje dalyje nurodytų teisės aktų nustatyti reikalavimai, turi būti taikomi ir šie papildomi reikalavimai.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Audiovizualinės žiniasklaidos paslaugų prieigos paslaugos – paslaugos, kurios teikiamos elektroninių ryšių tinklais ir kuriomis naudojamasi siekiant identifikuoti, pasirinkti, peržiūrėti audiovizualinės žiniasklaidos paslaugas ir naudotis visomis teikiamomis funkcijomis, kaip antai subtitrais kurtiesiems ir klausos sutrikimų turintiems asmenims, garsiniu vaizdavimu, įgarsintais subtitrais ir vertimu į gestų kalbą, sukuriamais įgyvendinant priemones, kuriomis siekiama užtikrinti paslaugų prieinamumą, kaip tai numatyta Lietuvos Respublikos visuomenės informavimo įstatymo 34 straipsnyje, ir gauti apie jas informaciją, įskaitant ir elektroninius programų vadovus.
 
@@ -126,7 +126,7 @@ Vilnius
 
 21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (EB) Nr. 1107/2006, 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame akreditavimo reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2019/1020 dėl rinkos priežiūros ir gaminių atitikties, kuriuo iš dalies keičiama Direktyva 2004/42/EB ir reglamentai (EB) Nr. 765/2008 ir (ES) Nr. 305/2011, su visais pakeitimais, Reglamente (ES) Nr. 1177/2010, Reglamente (ES) Nr. 181/2011, 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais, Reglamente (ES) 2021/782, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos bendrojo pagalbos centro įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos paslaugų įstatyme, Visuomenės informavimo įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, Smulkiojo ir vidutinio verslo plėtros įstatyme, Mokėjimų įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme.
 
-\## II SKYRIUS. GAMINIŲ IR PASLAUGŲ PRIEINAMUMO INSTITUCINĖ SISTEMA#### 4 straipsnis. Gaminių ir paslaugų prieinamumo politikos formavimas
+II SKYRIUS. GAMINIŲ IR PASLAUGŲ PRIEINAMUMO INSTITUCINĖ SISTEMA#### 4 straipsnis. Gaminių ir paslaugų prieinamumo politikos formavimas
 
 1. Lietuvos Respublikos Vyriausybė tvirtina nacionalines plėtros programas, kuriose suplanuojamos gaminių ir paslaugų prieinamumo skatinimo priemonės.
 
@@ -202,9 +202,9 @@ Vilnius
 
 2) 2 straipsnio 4 dalies 2 punkte nurodytų paslaugų atžvilgiu.
 
-\## III SKYRIUS. PRIEINAMUMO REIKALAVIMAI
+III SKYRIUS. PRIEINAMUMO REIKALAVIMAI
 
-\#### 8 straipsnis. Gamintojų pareigos
+### 8 straipsnis. Gamintojų pareigos
 
 1. Gamintojai užtikrina, kad rinkai pateikiami gaminiai, nurodyti šio įstatymo 2 straipsnio 2 dalyje, būtų suprojektuoti ir pagaminti laikantis šio įstatymo 1 priede nustatytų prieinamumo reikalavimų.
 
@@ -230,7 +230,7 @@ Vilnius
 
 12. Šiame įstatyme importuotojas arba platintojas laikomas gamintoju, jam taikomos šiame straipsnyje nustatytos gamintojo pareigos, jeigu jis gaminį rinkai pateikia savo vardu ar naudodamas savo prekių ženklą arba taip pakeičia rinkai jau pateiktą gaminį, kad gali būti padarytas poveikis šio gaminio atitikčiai taikytiniems prieinamumo reikalavimams.
 
-\#### 9 straipsnis. Įgaliotieji atstovai
+### 9 straipsnis. Įgaliotieji atstovai
 
 1. Gamintojas rašytiniu įgaliojimu (nurodomas įgaliojamo juridinio asmens pavadinimas, juridinio asmens kodas, įgaliojant fizinį asmenį – vardas ir pavardė) gali paskirti įgaliotąjį atstovą. Įgaliotasis atstovas negali būti įgaliojamas vykdyti šio įstatymo 8 straipsnio 1 dalyje nustatytų pareigų ir rengti šio įstatymo 16 straipsnyje nurodytų techninių dokumentų.
 
@@ -242,7 +242,7 @@ Vilnius
 
 3) rinkos priežiūros institucijų prašymu bendradarbiauti su jomis dėl visų veiksmų, kurių imamasi, siekiant pašalinti gaminių, nurodytų įgaliotojo atstovo įgaliojime, neatitiktį taikytiniems prieinamumo reikalavimams.
 
-\#### 10 straipsnis. Importuotojų pareigos
+### 10 straipsnis. Importuotojų pareigos
 
 1. Importuotojai pateikia rinkai tik prieinamumo reikalavimus atitinkančius gaminius, nurodytus šio įstatymo 2 straipsnio 2 dalyje.
 
@@ -262,7 +262,7 @@ Vilnius
 
 9. Gavę motyvuotą rinkos priežiūros institucijos prašymą, importuotojai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 3 darbo dienos, raštu pateikia jai visą gaminio atitikčiai prieinamumo reikalavimams įrodyti būtiną, šiai institucijai lengvai suprantamą informaciją ir dokumentus ar jų kopijas. Importuotojai rinkos priežiūros institucijų prašymu bendradarbiauja su jomis dėl visų veiksmų, kurių imamasi, siekiant pašalinti gaminių, kuriuos jie pateikė rinkai, neatitiktį taikytiniems prieinamumo reikalavimams.
 
-\#### 11 straipsnis. Platintojų pareigos
+### 11 straipsnis. Platintojų pareigos
 
 1. Platintojai, tiekdami rinkai gaminius, nurodytus šio įstatymo 2 straipsnio 2 dalyje, veikia laikydamiesi šiame straipsnyje nustatytų reikalavimų.
 
@@ -276,7 +276,7 @@ Vilnius
 
 6. Gavę motyvuotą rinkos priežiūros institucijos prašymą, platintojai per jos nurodytą terminą, kuris turi būti ne trumpesnis kaip 3 darbo dienos, raštu pateikia jai visą gaminio atitikčiai prieinamumo reikalavimams įrodyti būtiną informaciją ir dokumentus ar jų kopijas. Rinkos priežiūros institucijos prašymu platintojai su ja bendradarbiauja dėl visų veiksmų, kurių imamasi, siekiant pašalinti gaminių, kuriuos jie tiekia rinkai, neatitiktį taikytiniems prieinamumo reikalavimams.
 
-\#### 12 straipsnis. Ekonominės veiklos vykdytojų atsekamumas
+### 12 straipsnis. Ekonominės veiklos vykdytojų atsekamumas
 
 1. Rinkos priežiūros institucijų prašymu šio įstatymo 8–11 straipsniuose nurodyti ekonominės veiklos vykdytojai turi pateikti informaciją (veiklos vietos adresas, elektroninio pašto adresas, telefono numeris, juridinio asmens pavadinimas ir juridinio asmens kodas, fizinio asmens vardas ir pavardė) apie šiuos subjektus:
 
@@ -286,7 +286,7 @@ Vilnius
 
 2. Šio įstatymo 8–11 straipsniuose nurodyti ekonominės veiklos vykdytojai šio straipsnio 1 dalyje nurodytą informaciją turi galėti pateikti dar 5 metus po to, kai gaminys jiems buvo patiektas, ir 5 metus po to, kai jie patiekė gaminį rinkai.
 
-\#### 13 straipsnis. Paslaugų teikėjų pareigos
+### 13 straipsnis. Paslaugų teikėjų pareigos
 
 1. Šio įstatymo 2 straipsnio 4 dalyje nurodytų paslaugų teikėjai užtikrina, kad jų paslaugos būtų projektuojamos ir teikiamos pagal joms taikytinus prieinamumo reikalavimus.
 
@@ -306,7 +306,7 @@ Vilnius
 
 6. Gavę motyvuotą rinkos priežiūros institucijos prašymą, paslaugų teikėjai per jos nurodytą terminą, kuris turi būti ne trumpesnis kaip 3 darbo dienos, raštu pateikia jai visą paslaugos atitikčiai jai taikytiniems prieinamumo reikalavimams įrodyti būtiną informaciją ir dokumentus ar jų kopijas. Rinkos priežiūros institucijos prašymu paslaugų teikėjai bendradarbiauja su ja dėl visų veiksmų, kurių imamasi, siekiant užtikrinti paslaugos atitiktį jai taikytiniems prieinamumo reikalavimams.
 
-\#### 14 straipsnis. Esminis keitimas ir neproporcinga našta
+### 14 straipsnis. Esminis keitimas ir neproporcinga našta
 
 1. Prieinamumo reikalavimai taikomi tik tokia apimtimi, kad dėl šių reikalavimų laikymosi:
 
@@ -332,7 +332,7 @@ Vilnius
 
 7. Jeigu ekonominės veiklos vykdytojai dėl kurio nors gaminio ar paslaugos remiasi šio straipsnio 1 dalimi, jie raštu perduoda informaciją, nurodytą šio straipsnio 3 dalyje, atitinkamai rinkos priežiūros institucijai jos nustatyta tvarka nedelsdami, bet ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 2 dalyje nurodyto vertinimo atlikimo dienos. Ši pareiga netaikoma labai mažoms įmonėms.
 
-\## V SKYRIUS. GAMINIŲ IR PASLAUGŲ ATITIKTIS PRIEINAMUMO REIKALAVIMAMS, JŲ ŽYMĖJIMAS CE ŽENKLU#### 15 straipsnis. Atitikties prieinamumo reikalavimams prezumpcija
+V SKYRIUS. GAMINIŲ IR PASLAUGŲ ATITIKTIS PRIEINAMUMO REIKALAVIMAMS, JŲ ŽYMĖJIMAS CE ŽENKLU#### 15 straipsnis. Atitikties prieinamumo reikalavimams prezumpcija
 
 1. Jeigu gaminiai ir paslaugos atitinka darniuosius standartus arba tam tikras jų dalis, į kuriuos nuorodos buvo paskelbtos ES oficialiajame leidinyje, preziumuojama, kad jie atitinka taikytinus prieinamumo reikalavimus tiek, kiek tie standartai ar jų dalys tuos reikalavimus apima.
 
@@ -344,7 +344,7 @@ Vilnius
 
 5. Remiantis atitiktimi darniesiems standartams ir techninėms specifikacijoms arba jų dalims, nurodytiems šio straipsnio 1 ir 2 dalyse, preziumuojama, kad atitiktis šio straipsnio 3 ir 4 dalims užtikrinama tiek, kiek tie standartai ir techninės specifikacijos ar jų dalys atitinka taikytinus prieinamumo reikalavimus.
 
-\#### 16 straipsnis. Gaminių ES atitikties deklaracija ir techniniai dokumentai
+### 16 straipsnis. Gaminių ES atitikties deklaracija ir techniniai dokumentai
 
 1. Gaminių, nurodytų šio įstatymo 2 straipsnio 2 dalyje, gamintojo parengtoje ES atitikties deklaracijoje nurodoma, jog šiems gaminiams taikytini prieinamumo reikalavimai yra įvykdyti. Jeigu išimtiniu atveju buvo pasinaudota šio įstatymo 14 straipsnio 1 dalyje nurodyta išlyga, ES atitikties deklaracijoje nurodoma, kurių prieinamumo reikalavimų atžvilgiu ši išlyga taikoma.
 
@@ -372,9 +372,9 @@ Vilnius
 
 3. Rinkos priežiūros institucijos užtikrina gaminių, nurodytų šio įstatymo 2 straipsnio 2 dalyje, žymėjimo CE ženklu rinkos priežiūrą.
 
-\## VI SKYRIUS. RINKOS PRIEŽIŪRA PRIEINAMUMO REIKALAVIMŲ ATŽVILGIU
+VI SKYRIUS. RINKOS PRIEŽIŪRA PRIEINAMUMO REIKALAVIMŲ ATŽVILGIU
 
-\#### 18 straipsnis. Gaminių rinkos priežiūra
+### 18 straipsnis. Gaminių rinkos priežiūra
 
 1. Gaminiams taikoma Reglamento (EB) Nr. 765/2008 15 straipsnio 3 dalis, 16–19 straipsniai, 21 straipsnis, 23–28 straipsniai ir 29 straipsnio 2 ir 3 dalys.
 
@@ -432,7 +432,7 @@ Vilnius
 
 15. Rinkos priežiūros institucijų sprendimai dėl tiekimo rinkai draudimo arba ribojimo vykdomi nuo jų gavimo momento, jeigu tuose sprendimuose nenustatyta vėlesnė jų vykdymo data.
 
-\#### 20 straipsnis. Paslaugų atitikties priežiūra
+### 20 straipsnis. Paslaugų atitikties priežiūra
 
 1. Šio įstatymo 6 straipsnyje nurodytos rinkos priežiūros institucijos atsako už prieinamumo reikalavimų, kurių turi laikytis paslaugų teikėjai, laikymosi priežiūrą, įskaitant šio įstatymo 14 straipsnyje numatyto vertinimo, kuriam mutatis mutandis taikoma šio įstatymo 18 straipsnio 2 dalis, priežiūrą ir tikrinimą, ar ekonominės veiklos vykdytojas ėmėsi būtinų veiksmų trūkumams pašalinti.
 
@@ -486,9 +486,9 @@ Vilnius
 
 5. Ekonominės veiklos vykdytojai turi teises, nurodytas Reglamento (ES) 2019/1020 18 straipsnyje.
 
-\## VIII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VIII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 29 straipsnis. Asmens duomenų apsauga ir dokumentų saugojimas
+### 29 straipsnis. Asmens duomenų apsauga ir dokumentų saugojimas
 
 1. Šiame įstatyme nurodytų asmens duomenų tvarkymo tikslai – tvarkyti fizinių asmenų asmens duomenis, kad būtų užtikrintas gaminių ir paslaugų, nurodytų šio įstatymo 2 straipsnyje, prieinamumo reikalavimų laikymasis ir šių gaminių ir paslaugų rinkos priežiūra, siekiant laisvo gaminių ir paslaugų judėjimo Europos ekonominėje erdvėje. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) bei kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą ir tvarkymą, nuostatomis.
 
@@ -496,7 +496,7 @@ Vilnius
 
 3. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679.
 
-\#### 30 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+### 30 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. birželio 28 d.
 
@@ -504,7 +504,7 @@ Vilnius
 
 3. Paslaugų teikėjai iki 2030 m. birželio 28 d. turi teisę toliau teikti paslaugas, naudodami gaminius, kuriuos jie teisėtai naudojo iki įsigaliojant šiam įstatymui, teikdami panašaus pobūdžio paslaugas. Paslaugų teikimo sutartys, sudaromos iki 2025 m. birželio 28 d., galioja be pakeitimų iki jų galiojimo pabaigos, tačiau ne ilgiau kaip iki 2030 m. birželio 28 d.
 
-\#### 31 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
+### 31 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
 
 1. Socialinės apsaugos ir darbo ministerija atlieka šiame įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą (toliau – ex post vertinimas).
 
@@ -526,7 +526,7 @@ gaminių ir paslaugų prieinamumo reikalavimų įstatymo
 
 GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMAI
 
-\## I SKYRIUS. VISIEMS GAMINIAMS, KURIEMS TAIKOMAS LIETUVOS RESPUBLIKOS GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ ĮSTATYMAS, TAIKOMI PRIEINAMUMO REIKALAVIMAI
+I SKYRIUS. VISIEMS GAMINIAMS, KURIEMS TAIKOMAS LIETUVOS RESPUBLIKOS GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ ĮSTATYMAS, TAIKOMI PRIEINAMUMO REIKALAVIMAI
 
 1. Gaminiai, kuriems taikomas Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas, turi būti projektuojami ir gaminami taip, kad jais pagal numatytą paskirtį galėtų naudotis kuo daugiau asmenų su negalia ir kad su jais (jeigu įmanoma, juose arba ant jų) būtų pateikta prieinama informacija apie jų veikimą, prieinamumo savybes.
 
@@ -612,7 +612,7 @@ GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMAI
 
 5. Kai įmanoma, paramos tarnybos (pagalbos tarnybos, skambučių centrai, techninės paramos tarnybos, perdavimo paslaugų tarnybos ir mokymo tarnybos) prieinamais komunikacijos būdais suteikia informaciją apie gaminio prieinamumą ir jo suderinamumą su pagalbinėmis technologijomis.
 
-\## II SKYRIUS. TAM TIKRIEMS GAMINIAMS TAIKOMI PRIEINAMUMO REIKALAVIMAI
+II SKYRIUS. TAM TIKRIEMS GAMINIAMS TAIKOMI PRIEINAMUMO REIKALAVIMAI
 
 6. Savitarnos terminalai turi atitikti šiuos prieinamumo reikalavimus:
 
@@ -644,7 +644,7 @@ GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMAI
 
 9. Vartotojo prieigos prie audiovizualinės žiniasklaidos paslaugų interaktyviuosiuose įrenginiuose asmenims su negalia turi būti sudaryta galimybė naudotis audiovizualinės žiniasklaidos paslaugų teikėjo teikiamais prieinamumo komponentais, susijusiais su naudotojo prieiga, pasirinkimu, valdymu ir personalizavimu bei perdavimu į pagalbinius prietaisus.
 
-\## III SKYRIUS. VISOMS PASLAUGOMS PAGAL GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ ĮSTATYMĄ TAIKOMI PRIEINAMUMO REIKALAVIMAI
+III SKYRIUS. VISOMS PASLAUGOMS PAGAL GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ ĮSTATYMĄ TAIKOMI PRIEINAMUMO REIKALAVIMAI
 
 10. Siekiant užtikrinti, kad paslaugomis pagal numatytą jų paskirtį galėtų naudotis kuo daugiau asmenų su negalia, jos teikiamos:
 
@@ -670,7 +670,7 @@ GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMAI
 
 10.4. kai įmanoma, paramos tarnyboms (pagalbos tarnyboms, skambučių centrams, techninės paramos tarnyboms, perdavimo paslaugų tarnyboms ir mokymo tarnyboms) prieinamais komunikacijos būdais teikiant informaciją apie paslaugų prieinamumą ir jų suderinamumą su pagalbinėmis technologijomis.
 
-\## IV SKYRIUS. TAM TIKROMS PASLAUGOMS TAIKOMI PRIEINAMUMO REIKALAVIMAI
+IV SKYRIUS. TAM TIKROMS PASLAUGOMS TAIKOMI PRIEINAMUMO REIKALAVIMAI
 
 11. Siekiant užtikrinti, kad paslaugomis pagal numatytą jų paskirtį galėtų naudotis kuo daugiau asmenų su negalia, jos teikiamos užtikrinant funkcijas, praktiką, politiką ir procedūras bei paslaugos teikimo pakeitimus, kad būtų atsižvelgiama į asmenų su negalia poreikius ir užtikrinamas sąveikumas su pagalbinėmis technologijomis:
 
@@ -724,9 +724,7 @@ GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMAI
 
 11.7.3. numatomi tapatybės nustatymo metodai, elektroniniai parašai ir mokėjimo paslaugos, kurie būtų suvokiami, tinkami naudoti, suprantami ir tvarūs.
 
-\## V SKYRIUS
-
-GAMINIŲ IR PASLAUGŲ SAVYBIŲ, ELEMENTŲ ARBA FUNKCIJŲ PRIEINAMUMO REIKALAVIMAI PAGAL GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ ĮSTATYMO 15 STRAIPSNIO 4 DALĮ
+## V SKYRIUS. GAMINIŲ IR PASLAUGŲ SAVYBIŲ, ELEMENTŲ ARBA FUNKCIJŲ PRIEINAMUMO REIKALAVIMAI PAGAL GAMINIŲ IR PASLAUGŲ PRIEINAMUMO REIKALAVIMŲ ĮSTATYMO 15 STRAIPSNIO 4 DALĮ
 
 12. Preziumuojant, kad kituose Europos Sąjungos teisės aktuose nurodytos atitinkamos pareigos, susijusios su gaminių ir paslaugų savybėmis, elementais arba funkcijomis, yra įvykdytos, turi būti įvykdytos šiame skyriuje nurodytos sąlygos.
 
@@ -740,7 +738,7 @@ GAMINIŲ IR PASLAUGŲ SAVYBIŲ, ELEMENTŲ ARBA FUNKCIJŲ PRIEINAMUMO REIKALAVIMA
 
 14. Paslaugų savybių, elementų ir funkcijų prieinamumas atitinka atitinkamus tų savybių, elementų ir funkcijų prieinamumo reikalavimus, išdėstytus šio priedo punktuose, susijusiuose su paslaugomis.
 
-\## VI SKYRIUS. GAMINIŲ IR PASLAUGŲ FUNKCINIO VEIKSMINGUMO KRITERIJAI
+VI SKYRIUS. GAMINIŲ IR PASLAUGŲ FUNKCINIO VEIKSMINGUMO KRITERIJAI
 
 15. Jeigu šio priedo 2–14 ir 17, 18 punktuose nustatyti prieinamumo reikalavimai neapima vienos ar daugiau gaminių projektavimo ir gamybos funkcijų arba paslaugų teikimo, tos funkcijos arba priemonės turi būti prieinamos laikantis susijusių funkcinio veiksmingumo kriterijų, kad kuo daugiau asmenų su negalia galėtų jais naudotis.
 
@@ -770,7 +768,7 @@ GAMINIŲ IR PASLAUGŲ SAVYBIŲ, ELEMENTŲ ARBA FUNKCIJŲ PRIEINAMUMO REIKALAVIMA
 
 17.11. naudojimasis išsaugant privatumą – kai gaminys arba paslauga pasižymi savybėmis, kuriomis suteikiamas prieinamumas, užtikrinamas bent vienas veikimo režimas, kuriuo išlaikomas privatumas tuo metu, kai naudojamasi tomis savybėmis, kuriomis suteikiamas prieinamumas.
 
-\## VII^1 SKYRIUS
+VII^1 SKYRIUS
 
 TAM TIKRI PRIEINAMUMO REIKALAVIMAI, SUSIJĘ SU BENDROJO PAGALBOS CENTRO ATSAKYMŲ Į PAGALBOS PRANEŠIMUS, KURIE GAUNAMI SKUBIOSIOS PAGALBOS TARNYBŲ RYŠIO NUMERIU 112
 

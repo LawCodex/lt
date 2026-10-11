@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/44f99e3076d811e38da4e231c7b4cf37"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.44F99E3076D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 18-1 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74); 2008, Nr. [120-4549](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EB830B086D0))
 
-\#### 1 straipsnis. 181 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 181 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 181 straipsnio 1 dalį ir ją išdėstyti taip:
 

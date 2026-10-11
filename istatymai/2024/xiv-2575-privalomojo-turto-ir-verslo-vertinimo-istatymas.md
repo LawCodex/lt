@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ed3eaf90087c11efbcbfb318996800a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ED3EAF90087C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymas
@@ -26,9 +26,9 @@ PRIVALOMOJO TURTO IR VERSLO VERTINIMO
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas ir taikymas
+## 1 straipsnis. Įstatymo tikslas ir taikymas
 
 1. Šio įstatymo tikslas – sudaryti teisines prielaidas sprendimams, kurie leistų užtikrinti patikimą privalomąjį turto arba verslo vertinimą.
 
@@ -38,7 +38,7 @@ Vilnius
 
 4. Šis įstatymas netaikomas turto arba verslo vertintojų teikiamoms paslaugoms, kai jos teikiamos ne pagal šio įstatymo reikalavimus.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Europos vertinimo standartai – Europos vertintojų asociacijos grupės parengti ir patvirtinti dokumentai, kuriuose nustatomi turto arba verslo vertinimo metodiniai reikalavimai.
 
@@ -66,15 +66,15 @@ Vilnius
 
 13. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Tarptautiniuose vertinimo standartuose, Europos vertinimo standartuose.
 
-\## II SKYRIUS. VERTINIMO REGLAMENTAVIMAS
+II SKYRIUS. VERTINIMO REGLAMENTAVIMAS
 
-\#### 3 straipsnis. Vertinimo reikalavimai
+## 3 straipsnis. Vertinimo reikalavimai
 
 1. Vertinimas atliekamas vadovaujantis šiuo įstatymu, kitais teisės aktais, kuriuose nustatomas reikalavimas atlikti vertinimą, ir Tarptautiniais vertinimo standartais arba Europos vertinimo standartais. Tarptautiniais vertinimo standartais arba Europos vertinimo standartais vadovaujamasi tiek, kiek jie neprieštarauja šio įstatymo ir kitų teisės aktų, kuriuose nustatomas reikalavimas atlikti vertinimą, nuostatoms.
 
 2. Vertinimą atlieka vertintojas, turintis galiojančią civilinės atsakomybės draudimo, kurio minimali civilinės atsakomybės draudimo suma yra 60 000 eurų vienam draudžiamajam įvykiui ir 150 000 eurų visiems draudžiamiesiems įvykiams per metus, sutartį.
 
-\#### 4 straipsnis. Vertintojo nepriklausomumas
+## 4 straipsnis. Vertintojo nepriklausomumas
 
 1. Vertintojas turi būti nepriklausomas. Vertintojas nelaikomas nepriklausomu, jeigu jis yra:
 
@@ -86,7 +86,7 @@ Vilnius
 
 2. Vertintojo juridinio asmens dalyviams, organų nariams taikomi šio straipsnio 1 dalyje nustatyti nepriklausomumo kriterijai.
 
-\#### 5 straipsnis. Vertintojo kvalifikacija
+## 5 straipsnis. Vertintojo kvalifikacija
 
 1. Vertintojo kvalifikacija pagrindžiama Vertintojų rūmams pateikiant:
 
@@ -102,11 +102,11 @@ Vilnius
 
 5. Vertintojų rūmai, organizuodami vertintojo kvalifikacijos suteikimą ir vertintojo kvalifikaciją turinčių asmenų sąrašo skelbimą ir tvarkymą, turi užtikrinti savo veiklos tęstinumą ir kartą per metus pateikti Tarnybai informaciją apie savo funkcijų atlikimą. Tarnybos prašymu ši informacija turi būti teikiama ir dažniau.
 
-\#### 6 straipsnis. Vertintojo teisė gauti duomenis ir informaciją
+## 6 straipsnis. Vertintojo teisė gauti duomenis ir informaciją
 
 Vertintojas turi teisę gauti iš vertinimo užsakovo, valstybės ir savivaldybės institucijų ir įstaigų, įmonių ir viešųjų įstaigų bei valstybės ir savivaldybės valdomų subjektų, nurodytų Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo 2 straipsnio 1 dalies 1 ir 2 punktuose, taip pat valstybės informacinių sistemų valdytojų, valstybės informacinių sistemų tvarkytojų, registrų valdytojų, registrų tvarkytojųinformaciją ir duomenis (įskaitant asmens duomenis), kurie būtini vertinimui atlikti.
 
-\#### 7 straipsnis. Privalomojo turto arba verslo vertinimo ataskaitos reikalavimai
+## 7 straipsnis. Privalomojo turto arba verslo vertinimo ataskaitos reikalavimai
 
 1. Vertintojas, atlikęs vertinimą, parengia privalomojo turto arba verslo vertinimo ataskaitą (toliau – vertinimo ataskaita) pagal Tarptautinių vertinimo standartų arba Europos vertinimo standartų reikalavimus.
 
@@ -114,9 +114,9 @@ Vertintojas turi teisę gauti iš vertinimo užsakovo, valstybės ir savivaldyb�
 
 3. Vertinimo ataskaitą pasirašo vertinimą atlikęs vertintojas fizinis asmuo ir, jeigu su vertinimo užsakovu sutartį sudarė vertintojas juridinis asmuo, šio juridinio asmens vadovas arba jo įgaliotas atstovas.
 
-\## III SKYRIUS. TARNYBA IR GINČAI DĖL VERTINIMO ATASKAITOJE NUSTATYTOS VERTĖS
+III SKYRIUS. TARNYBA IR GINČAI DĖL VERTINIMO ATASKAITOJE NUSTATYTOS VERTĖS
 
-\#### 8 straipsnis. Tarnyba
+## 8 straipsnis. Tarnyba
 
 1. Tarnyba atlieka šias funkcijas:
 
@@ -138,13 +138,13 @@ Vertintojas turi teisę gauti iš vertinimo užsakovo, valstybės ir savivaldyb�
 
 3. Jeigu Vertintojų rūmai laiku neįvykdo Tarnybos pateiktų nurodymų, Tarnyba kreipiasi į Lietuvos Respublikos finansų ministeriją dėl Vertintojų rūmams pavestų funkcijų atšaukimo inicijavimo.
 
-\#### 9 straipsnis. Ginčai dėl vertinimo ataskaitoje nustatytos vertės teisingumo
+## 9 straipsnis. Ginčai dėl vertinimo ataskaitoje nustatytos vertės teisingumo
 
 Ginčai dėl vertinimo ataskaitoje nustatytos vertės teisingumo sprendžiami teismo tvarka, jeigu įstatymuose, reguliuojančiuose vertinimą, nenustatyta kitaip.
 
-\## IV SKYRIUS. VERTINIMO ATASKAITŲ INFORMACINĖ SISTEMA
+IV SKYRIUS. VERTINIMO ATASKAITŲ INFORMACINĖ SISTEMA
 
-\#### 10 straipsnis. Vertinimo ataskaitos teikimas ir saugojimas
+## 10 straipsnis. Vertinimo ataskaitos teikimas ir saugojimas
 
 1. Vertintojas parengtą vertinimo ataskaitą ne vėliau kaip kitą darbo dieną nuo parengimo dienos teikia į vertinimo ataskaitų informacinę sistemą vertinimo ataskaitų informacinės sistemos valdytojo (toliau – valdytojas) nustatyta tvarka.
 
@@ -156,7 +156,7 @@ Ginčai dėl vertinimo ataskaitoje nustatytos vertės teisingumo sprendžiami te
 
 5. Tik vertinimo ataskaitų informacinėje sistemoje esančios vertinimo ataskaitos gali būti naudojamos teisės aktuose, kuriuose nustatomas reikalavimas atlikti vertinimą, nustatytiems sprendimams priimti.
 
-\#### 11 straipsnis. Vertinimo ataskaitos duomenų ir viešojo sektoriaus turto vertinimo ataskaitos viešinimas
+## 11 straipsnis. Vertinimo ataskaitos duomenų ir viešojo sektoriaus turto vertinimo ataskaitos viešinimas
 
 1. Siekiant suteikti visuomenei galimybę priimti pagrįstus finansinius sprendimus, vertinimo ataskaitų informacinės sistemos tvarkytojo (toliau – tvarkytojas) interneto svetainėje viešinama:
 
@@ -186,9 +186,9 @@ Ginčai dėl vertinimo ataskaitoje nustatytos vertės teisingumo sprendžiami te
 
 2. Šio straipsnio 1 dalyje nurodyta informacija tvarkytojo interneto svetainėje viešinama 5 metus nuo vertinimo ataskaitos pateikimo į vertinimo ataskaitų informacinę sistemą dienos.
 
-\## V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 
@@ -210,11 +210,11 @@ b) nuorodos į sąvokas „individualusis turto arba verslo vertinimas“, „tu
 
 5. Vertinimas, pradėtas iki šio įstatymo įsigaliojimo dienos, turi būti užbaigtas vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusiomis Turto ir verslo vertinimo pagrindų įstatymo nuostatomis.
 
-\#### 13 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 13 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Įsigaliojus šiam įstatymui, netenka galios Turto ir verslo vertinimo pagrindų įstatymas Nr. VIII-1202 su visais pakeitimais ir papildymais.
 
-\#### 14 straipsnis. Įstatyme nustatyto teisinio reguliavimo poveikio ex post vertinimas
+## 14 straipsnis. Įstatyme nustatyto teisinio reguliavimo poveikio ex post vertinimas
 
 Finansų ministerija po 3 metų nuo šio įstatymo įsigaliojimo dienos per 9 mėnesius atlieka vertinimo ataskaitų teikimo ir saugojimo bei vertinimo ataskaitų viešinimo teisinio reguliavimo poveikio *ex post* vertinimą.
 

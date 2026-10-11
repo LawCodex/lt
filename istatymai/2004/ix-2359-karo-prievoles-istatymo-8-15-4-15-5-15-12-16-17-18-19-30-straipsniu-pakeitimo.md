@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DBD68D60EB9E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DBD68D60EB9E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 8, 15(4), 15(5), 15(12), 16, 17, 18, 19, 30 straipsnių pakeitimo ir papildymo bei II skyriaus trečiojo skirsnio ir 15(1) straipsnio pripažinimo netekusiais galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [106-2427](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255); 1999, Nr. [59-1918](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ACCD429C6E8); 2000, Nr. [64-1933](https://www.e-tar.lt/portal/lt/legalAct/TAR.59F959087B0F); 2003, Nr. [38-1725](https://www.e-tar.lt/portal/lt/legalAct/TAR.40D275B34EDF), Nr. [42-1912](https://www.e-tar.lt/portal/lt/legalAct/TAR.E36BD2A89CB8), Nr. [104-4644](https://www.e-tar.lt/portal/lt/legalAct/TAR.60767749EC22))
 
-\#### 1 straipsnis. 8 straipsnio 3, 5, 6 ir 7 dalių pakeitimas
+## 1 straipsnis. 8 straipsnio 3, 5, 6 ir 7 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -46,21 +46,21 @@ Vilnius
 
 „7. Pretenduojantiems į vidaus tarnybą asmenims privalomoji pradinė karo tarnyba šio straipsnio 4 dalies 4 punkte nurodytu būdu pakeičiama krašto apsaugos ministro nustatyta tvarka.“
 
-\#### 2 straipsnis. II skyriaus trečiojo skirsnio pripažinimas netekusiu galios
+## 2 straipsnis. II skyriaus trečiojo skirsnio pripažinimas netekusiu galios
 
 II skyriaus trečiąjį skirsnį pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 151 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 151 straipsnio pripažinimas netekusiu galios
 
 15^1straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 154 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 154 straipsnio 2 dalies pakeitimas
 
 15^4 straipsnio 2 dalyje vietoj žodžio „administratorius“ įrašyti žodžius „administracijos direktorius“ ir šią dalį išdėstyti taip:
 
 „2.Šio straipsnio 1 dalyje numatytas karo prievolės administravimo funkcijas, išskyrus priskirtas savivaldybės karo prievolininkų atrankos komisijai (toliau – savivaldybės atrankos komisija), atlieka šaukimui organizuoti savivaldybės paskirtas ir reikalingus įgaliojimus turintis tarnautojas (toliau – savivaldybės administracijos tarnautojas). Jo pareiginius nuostatus, atitinkančius pavyzdinių nuostatų reikalavimus, tvirtina, jį skiria bei atleidžia savivaldybės administracijos direktorius.“
 
-\#### 5 straipsnis. 155 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
+## 5 straipsnis. 155 straipsnio 1 dalies 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 155 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ II skyriaus trečiąjį skirsnį pripažinti netekusiu galios.
 
 „2) organizuoja vengiančių įsirašyti į karinę įskaitą, vengiančių sveikatos tikrinimo ikišauktinio amžiaus jaunuolių ir šauktinių paiešką bei jų patraukimą administracinėn ar baudžiamojon atsakomybėn;“.
 
-\#### 6 straipsnis. 1512 straipsnio 1 ir 2 dalių pakeitimas
+## 6 straipsnis. 1512 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 1512 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ II skyriaus trečiąjį skirsnį pripažinti netekusiu galios.
 
 „2. Šauktiniams apmokamos kelionės iš gyvenamosios vietos į regioninį karo prievolės centrą ar savivaldybės atrankos komisijąir atgal arba į tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus taksi) bilietus, o tokių bilietų nepateikus – pagal nustatyta tvarka patvirtintus važiavimo paprastu autobusu ir (ar) traukinio bendruoju keleiviniu vagonu maksimalius tarifinius įkainius. Kelionės išlaidos neapmokamos, kai karo prievolininkas vežamas Administravimo tarnybos transportu arba kai jis šio transporto atsisako.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas
+## 7 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį, 2 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
@@ -88,25 +88,25 @@ Pakeisti 16 straipsnio 1 dalį, 2 dalį pripažinti netekusia galios ir visą st
 
 Privalomosios pradinės karo tarnybos kariai tarnybą atlieka Lietuvos kariuomenėje.“
 
-\#### 8 straipsnis. 17 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 17 straipsnio 1 dalies pakeitimas
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą savivaldybės atrankos komisijaiarbaregioniniam karo prievolės centrui, tarnybą gali pradėti ir būdami 18 metų, o krašto apsaugosministro sutikimu taip pat ir 27 metų, išskyrus šio įstatymo 8 straipsnio 1 ir 3dalyse numatytus atvejus.“
 
-\#### 9 straipsnis. 18 straipsnio papildymas 4 dalimi
+## 9 straipsnis. 18 straipsnio papildymas 4 dalimi
 
 Papildyti 18 straipsnį 4 dalimi:
 
 „4. Paleidimo iš privalomosios pradinės karo tarnybos tvarką nustato krašto apsaugos ministras.“
 
-\#### 10 straipsnis. 19 straipsnio 7 dalies pakeitimas
+## 10 straipsnis. 19 straipsnio 7 dalies pakeitimas
 
 19 straipsnio 7 dalyje vietoj skaičiaus „3“ įrašyti skaičių „4“ ir šią dalį išdėstyti taip:
 
 „7. Būtinųjų karinių mokymų metu karo prievolininkams taikomos privalomosios pradinės karo tarnybos kariams nustatytos socialinės garantijos, jie maitinami ir jiems išduodama nustatyto pavyzdžio apranga. Taip pat jiems mokamos privalomosios pradinės karo tarnybos kariams nustatytos išmokos buitinėms išlaidoms iš Krašto apsaugos ar Vidaus reikalų ministerijoms skiriamų valstybės biudžeto lėšų, atsižvelgiant į tai, kurios sistemos institucijoje jie atlieka būtinuosius karinius mokymus. Šios socialinės garantijos, aprūpinimo sąlygos ir išmokos tokia pačia tvarka taikomos ir karo prievolininkams, atliekantiems tarnybą šio įstatymo 8 straipsnio 4 dalies 1 punkte nustatytu būdu.“
 
-\#### 11 straipsnis. 30 straipsnio 3 dalies pakeitimas
+## 11 straipsnis. 30 straipsnio 3 dalies pakeitimas
 
 30 straipsnio 3 dalyje vietoj skaičiaus „3“ įrašyti skaičių „4“ ir šią dalį išdėstyti taip:
 

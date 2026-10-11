@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.85A85B9A1783"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.85A85B9A1783.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareiškimų pagal Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 25 ir 46 straipsnius įstatymas
@@ -26,7 +26,7 @@ PAREIŠKIMŲ PAGAL EUROPOS ŽMOGAUS TEISIŲ IR PAGRINDINIŲ LAISVIŲ APSAUGOS KO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos pareiškimai
+## 1 straipsnis. Lietuvos Respublikos pareiškimai
 
 1. Lietuvos Respublikos Seimas, vadovaudamasis Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 25 ir 46 straipsniais, daro šiuos pareiškimus:
 

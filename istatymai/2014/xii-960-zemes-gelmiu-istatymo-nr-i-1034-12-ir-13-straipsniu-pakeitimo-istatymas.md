@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/708ff400fcfb11e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.708FF400FCFB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 12 ir 13 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 12 straipsnio pakeitimas
+## 1 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Pripažinti netekusia galios 12 straipsnio 3 dalį.
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 13 straipsnio 2 dalį.
 
@@ -46,7 +46,7 @@ Vilnius
 
 „3. Lietuvos geologijos tarnyba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda leidimus naudoti žemės gelmių išteklius, nenurodytus šio straipsnio 1 dalyje.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 1 straipsnio 2 dalį ir šio straipsnio 3 dalį, įsigalioja 2014 m. liepos 1 d.
 

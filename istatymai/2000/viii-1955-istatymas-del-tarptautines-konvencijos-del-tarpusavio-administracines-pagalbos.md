@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.19DCC0351E9F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.19DCC0351E9F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės konvencijos dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant (Nairobio konvencija) ir jos I, II, III, IX, X priedų ratifikavimo
@@ -26,7 +26,7 @@ DĖL TARPTAUTINĖS KONVENCIJOS DĖL TARPUSAVIO ADMINISTRACINĖS PAGALBOS UŽKERT
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę konvenciją dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant (Nairobio konvenciją) ir jos I, II, III, IX, X priedus“, ratifikuoja 1977 m. birželio 9 d. pasirašyta Nairobyje Tarptautinę konvenciją dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant ir šiuos jos priedus:
 

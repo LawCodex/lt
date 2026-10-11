@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.60425D312256"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.60425D312256.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 7 ir 21 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2006, Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340))
 
-\#### 1 straipsnis. 7 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 7 straipsnio 5 dalies pakeitimas
 
 7 straipsnio 5 dalyje vietoj žodžių „Vidaus reikalų ministerija“ įrašyti žodžius „vidaus reikalų centrinės įstaigos vadovas, atsižvelgdamas į vidaus reikalų ministro nustatytą pareigūnų rengimo pagal atitinkamas studijų programas poreikį“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 3) asmeniui, pageidaujančiam mokytis kitoje švietimo įstaigoje, – siuntimą stoti į kitą švietimo įstaigą.“
 
-\#### 2 straipsnis. 21 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 21 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 21 straipsnio 1 dalyje vietoj žodžių „Vidaus reikalų ministerijos“ įrašyti žodžius „vidaus reikalų centrinės įstaigos vadovo“ ir šią dalį išdėstyti taip:
 
@@ -50,11 +50,11 @@ Vilnius
 
 „2. Asmenys, turintys ne žemesnį kaip aukštąjį neuniversitetinį, aukštesnįjį arba iki 1995 metų įgytą specialųjį vidurinį išsilavinimą ir profesijas, įgytas ne vidaus reikalų profesinio mokymo įstaigose, ir siekiantys tarnauti, turi baigti įvadinio mokymo kursus (išskyrus asmenis, baigusius kitas švietimo įstaigas Vidaus reikalų ministerijos arba vidaus reikalų centrinės įstaigos vadovosiuntimu) vidaus reikalų profesinio mokymo įstaigose.“
 
-\#### 3 straipsnis. Pasiūlymas vidaus reikalų ministrui
+## 3 straipsnis. Pasiūlymas vidaus reikalų ministrui
 
 Vidaus reikalų ministras iki šio įstatymo įsigaliojimo parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2012 m. balandžio 1 d.
 

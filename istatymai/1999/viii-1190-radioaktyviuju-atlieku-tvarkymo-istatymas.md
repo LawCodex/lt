@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.951DF53F837F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
@@ -834,5 +834,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1883, 2023-04-18, paskelbta TAR 2023-04-21, i. k. 2023-07768
 
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 11 ir 17 straipsnių pakeitimo įstatymas
-
-part_4da19803f12b4089954382e6f5b29670_end

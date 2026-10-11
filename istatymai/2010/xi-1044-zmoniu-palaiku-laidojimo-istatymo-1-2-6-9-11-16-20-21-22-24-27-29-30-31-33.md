@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.80352CADA9F2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.80352CADA9F2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymo 1, 2, 6, 9, 11, 16, 20, 21, 22, 24, 27, 29, 30, 31, 33 straipsnių pakeitimo ir papildymo, 8 straipsnio pripažinimo netekusiu galios, Įstatymo papildymo 11-1, 16-1 straipsniais ir priedu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2007, Nr. [140-5763](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE); 2008, Nr. [81-3185](https://www.e-tar.lt/portal/lt/legalAct/TAR.B01661A08740))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 4 dalimi
 
 Papildyti 1 straipsnį 4 dalimi:
 
 „4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Papildyti 1 straipsnį 4 dalimi:
 
 „27. **Žmogaus palaikų vežimas laidoti**– žmogaus palaikų ir (ar) balzamuotų žmogaus palaikų po jų paruošimo šarvoti ir (ar) šarvojimo gabenimas į kapines laidoti.“
 
-\#### 3 straipsnis. 6 straipsnio 2 dalies 2 punkto pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 3 straipsnis. 6 straipsnio 2 dalies 2 punkto pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 6 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -80,17 +80,17 @@ Papildyti 1 straipsnį 4 dalimi:
 
 2. 6 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 8 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 8 straipsnio pripažinimas netekusiu galios
 
 8 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas
+## 5 straipsnis. 9 straipsnio 1 dalies 1 punkto pakeitimas
 
 9 straipsnio 1 dalies 1 punkte išbraukti žodžius „išskyrus šio įstatymo 8 straipsnio 1 dalyje nurodytus atvejus“ ir šį punktą išdėstyti taip:
 
 „1) jeigu yra šio įstatymo 7 straipsnyje nurodytų aplinkybių;“.
 
-\#### 6 straipsnis. 11 straipsnio 1 ir 3 dalių pakeitimas
+## 6 straipsnis. 11 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Papildyti 1 straipsnį 4 dalimi:
 
 „3. Kremavimo įmonė privalo turėti kremavimo veiklai vykdyti reikiamos kvalifikacijos personalą, reikalingą įrangą ir patalpas, atitinkančias Vyriausybės ar jos įgaliotos institucijos nustatytus visuomenės sveikatos saugos, darbuotojų saugos ir sveikatos bei aplinkosaugos reikalavimus.“
 
-\#### 7 straipsnis. Įstatymo papildymas 111 straipsniu
+## 7 straipsnis. Įstatymo papildymas 111 straipsniu
 
 Papildyti Įstatymą 11^1straipsniu:
 
@@ -164,13 +164,13 @@ Papildyti Įstatymą 11^1straipsniu:
 
 17. Apie kremavimo veiklos licencijų išdavimą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijų galiojimo panaikinimą Aplinkos ministerija ar jos įgaliota institucija praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir savo interneto svetainėje.“
 
-\#### 8 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Balzamavimą gali atlikti Lietuvos Respublikoje įsteigti juridiniai asmenys, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigti juridiniai asmenys ar kitos organizacijos arba jųfilialai, turintys Vyriausybės įgaliotos institucijos (toliau – licencijas išduodanti institucija) išduotą balzamavimo licenciją (toliau – balzamavimo licencijos turėtojas). Licencijas išduodanti institucija balzamavimo licencijas išduoda, keičia, išduoda jų dublikatus, atsisako išduoti licenciją, įspėja apie galimą licencijos galiojimo sustabdymą, sustabdo ar panaikina licencijos galiojimą, panaikina įspėjimą apie galimą licencijos galiojimo sustabdymą arba panaikina licencijos galiojimo sustabdymą vadovaudamasi šiuo įstatymu ir Vyriausybės patvirtintomis Balzamavimo licencijavimo taisyklėmis. Balzamavimo licencijos išduodamos asmenims, kurie atitinka šio įstatymo 16^1straipsnio 1 dalyje nustatytus reikalavimus.“
 
-\#### 9 straipsnis. Įstatymo papildymas 161 straipsniu
+## 9 straipsnis. Įstatymo papildymas 161 straipsniu
 
 Papildyti Įstatymą 16^1straipsniu:
 
@@ -242,7 +242,7 @@ Papildyti Įstatymą 16^1straipsniu:
 
 17. Apie balzamavimo licencijų išdavimą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijų galiojimo panaikinimą licencijas išduodanti institucija praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir savo interneto svetainėje.“
 
-\#### 10 straipsnis. 20 straipsnio pakeitimas
+## 10 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -264,7 +264,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 5) laikytis kitų laidojimo paslaugų teikėjui teisės aktuose nustatytų pareigų.“
 
-\#### 11 straipsnis. 21 straipsnio pakeitimas
+## 11 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -288,19 +288,19 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 5. Laidojantis asmuo turi teisę Lietuvos Respublikos įstatymo „Dėl paramos mirties atveju“ nustatyta tvarka gauti laidojimo pašalpą ir privalo palaidoti palaikus asmens, kuriam laidoti išmokėta laidojimo pašalpa.“
 
-\#### 12 straipsnis. 22 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 Pakeisti22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Teikiant laidojimo paslaugas, žmogaus palaikai gabenami Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis. Žmogaus palaikų gabenimo patologinės anatomijos tyrimams ar teismo medicinos ekspertizėms ir tyrimams tvarką nustato Vyriausybės įgaliotos institucijos.“
 
-\#### 13 straipsnis. 24 straipsnio 5 dalies pakeitimas
+## 13 straipsnis. 24 straipsnio 5 dalies pakeitimas
 
 Pakeisti 24 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Paminklų, antkapių ir kapavietės aptvėrimo, kurie pagal Lietuvos Respublikos statybos įstatymą nepriskirti statiniams, įrengimo kapavietėse tvarką nustato Kapinių tvarkymo taisyklės.“
 
-\#### 14 straipsnis. 27 straipsnio pakeitimas
+## 14 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -322,13 +322,13 @@ Kapinių prižiūrėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta 
 
 7) laidojančio asmens arba kito asmens, atsakingo už kapavietės ar kolumbariumo nišos priežiūrą: fizinio asmens vardą, pavardę, adresą, telefono numerį; juridinio asmens pavadinimą, teisinę formą, kodą, buveinę, telefono numerį.“
 
-\#### 15 straipsnis. 29 straipsnio 4 dalies pakeitimas
+## 15 straipsnis. 29 straipsnio 4 dalies pakeitimas
 
 Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Draudžiama panaikinti įstatymų nustatyta tvarka į Kultūros vertybių registrą įrašytuskapus ir kapines.Karių kapai ir kapinėsgali būti panaikinti tik tada, kai Krašto apsaugos ministerija pritaria tokiam sprendimui.“
 
-\#### 16 straipsnis. 30 straipsnio pakeitimas
+## 16 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -340,7 +340,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytos institucijos, nustačiusios šio įstatymo ir kitų teisės aktų nustatytų kremavimo veiklai ir balzamavimui taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos ir balzamavimo licencijas išduodančioms institucijoms dėl licencijos galiojimo sustabdymo.“
 
-\#### 17 straipsnis. 31 straipsnio pakeitimas
+## 17 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -348,13 +348,13 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 Savivaldybių vykdomosios institucijos, vadovaudamosi šiuo įstatymu ir kitais teisės aktais, Vyriausybės nustatyta tvarka organizuoja kapinių priežiūrą, koordinuoja ir kontroliuoja kapinių prižiūrėtojų darbą.“
 
-\#### 18 straipsnis. 33 straipsnio 3 dalies pakeitimas
+## 18 straipsnis. 33 straipsnio 3 dalies pakeitimas
 
 Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Kapinių teritorijose iki 2014 m. sausio 1 d. privaloma atlikti kapinių inventorizaciją ir kapinių žemės sklypus įregistruoti Nekilnojamojo turto registre Lietuvos Respublikos nekilnojamojo turto registro įstatymo ir kitų teisės aktų nustatyta tvarka, teikiant pirmenybę į Kultūros vertybių registrą įrašytų kapinių žemės sklypų įregistravimui.“
 
-\#### 19 straipsnis. Įstatymo papildymas priedu
+## 19 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -366,11 +366,11 @@ priedas
 
 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje (OL 2006 L 376, p. 36).“
 
-\#### 20 straipsnis. Įstatymo įsigaliojimas
+## 20 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 21 straipsnį, įsigalioja 2011 m. sausio 1 d.
 
-\#### 21 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms valstybės institucijoms
+## 21 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms valstybės institucijoms
 
 Lietuvos Respublikos Vyriausybė ir kitos valstybės institucijos iki 2011 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7A3423ED809B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A3423ED809B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1997, Nr. [69-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE); 2000, Nr. [56-1649](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE90D023124C))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies papildymas
+## 1 straipsnis. 8 straipsnio 1 dalies papildymas
 
 8 straipsnio 1 dalies pirmajame sakinyje po žodžių „žemėtvarkos projektus“ įrašyti žodžius „kitus teritorijų planavimo dokumentus“ ir šią dalį išdėstyti taip:
 
 „1. Piliečiams žemės reformos metu žemė, miškas ir vandens telkiniai parduodami laikantis šio įstatymo 10 straipsnyje nurodytos eilės ir pagal žemės reformos žemėtvarkos projektus, kitus teritorijų planavimo dokumentus. Piliečiai, pirkdami iš valstybės žemę, gali įsigyti ją iš karto arba išsimokėtinai, bet ne per ilgesnį kaip 10 metų laikotarpį Vyriausybės nustatyta tvarka.“
 
-\#### 2 straipsnis. 9 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 9 straipsnio papildymas ir pakeitimas
 
 1. 9 straipsnio 8 dalyje po žodžių „žemės sklypas“ įrašyti žodį „individualaus“ ir šią dalį išdėstyti taip:
 
@@ -42,13 +42,13 @@ Vilnius
 
 2. 9 straipsnio 9 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 4 dalies pakeitimas
 
 Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Kai tą patį žemės sklypą pageidauja gauti nuosavybėn neatlygintinai ar pirkti keli vienodą pirmumo teisę turintys piliečiai, žemės sklypas perduodamas ar suteikiamas nuosavybėn neatlygintinai arba parduodamas jį nuomojančiam piliečiui. Jeigu žemės sklypas, kurį pageidauja įsigyti keli vienodą pirmumo teisę turintys piliečiai, nebuvo išnuomotas, žemės sklypas perduodamas ar suteikiamas nuosavybėn neatlygintinai tam piliečiui, kuris anksčiau pateikė prašymą. Kai tą patį neišnuomotą žemės sklypą pageidauja pirkti keli vienodą pirmumo teisę turintys piliečiai, sklypas parduodamas aukciono būdu. Aukciono organizavimo tvarką nustato Vyriausybė.“
 
-\#### 4 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. 13 straipsnio 1 punkto pirmajame sakinyje po žodžio „kelių“ įrašyti žodžius „bendrojo naudojimo geležinkelių, jūrų uostų“, antrajame sakinyje po žodžio „natūra“ įrašyti žodžius „taip pat privatizuojamus namų valdų bei asmeniniam ūkiui suteiktus žemės sklypus“ ir šį punktą išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 3. Buvusius 13 straipsnio 10 ir 11 punktus laikyti atitinkamai 9 ir 10 punktais.
 
-\#### 5 straipsnis. 15 straipsnio 2, 4, 5, 6 dalių pakeitimas ir papildymas
+## 5 straipsnis. 15 straipsnio 2, 4, 5, 6 dalių pakeitimas ir papildymas
 
 1. 15 straipsnio 2 dalyje vietoj žodžių „formuojamos naujai rengiamuose“ įrašyti žodį „nustatomos“ ir šią dalį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „6. Jeigu pilietis mirė, teisę gauti nuosavybėn neatlygintinai, pirkti iš valstybės ar nuomoti jo naudotą asmeninio ūkio žemę įgyja jo įpėdiniai Civilinio kodekso nustatyta tvarka.“
 
-\#### 6 straipsnis. 16 straipsnio 1 ir 2 dalių pakeitimas
+## 6 straipsnis. 16 straipsnio 1 ir 2 dalių pakeitimas
 
 1.Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „2. Žemės reformos žemėtvarkos projektų rengimui ir žemės privatizavimo darbams kaimo vietovėse ir miestuose metodiškai vadovauja ir juos kontroliuoja Vyriausybės įgaliota institucija. Žemės reformos žemėtvarkos projektų sudarymo techninių instrukcijų, normatyvų ir standartų parengimą, projektų autorių aprūpinimą žemėtvarkos, dirvožemių bei kitų tyrinėjimų kartografine ir geodezine medžiaga, taip pat žemės reformos informacijos kaupimą organizuoja Vyriausybės įgaliota institucija.“
 
-\#### 7 straipsnis. 17 straipsnio pakeitimas
+## 7 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -94,13 +94,13 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Fizinių asmenų prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai, pirkti valstybinę žemę, mišką bei vandens telkinius nagrinėja ir sprendimus priima apskričių viršininkai arba kita įstatymų nustatyta institucija. Prašymus išsinuomoti valstybinę žemę bei gauti naudotis valstybine žeme nagrinėja ir sprendimus priima apskričių viršininkai, savivaldybių institucijos ar kita įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.“
 
-\#### 8 straipsnis. 18 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 18 straipsnio 2 dalies pakeitimas
 
 18 straipsnio 2 dalyje vietoj žodžių „Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos“ įrašyti žodžius „Vyriausybės įgaliota institucija“ ir šią dalį išdėstyti taip:
 
 „2. Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų.“
 
-\#### 9 straipsnis. 19 straipsnio 2, 3 ir 7 dalių pakeitimas
+## 9 straipsnis. 19 straipsnio 2, 3 ir 7 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -114,7 +114,7 @@ Fizinių asmenų prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlyg
 
 „7. Žemės servitutų nustatymą reglamentuoja Civilinis kodeksas.“
 
-\#### 10 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 1. 21 straipsnio 1 dalyje vietoj žodžių „Žemėtvarkos ir teisės departamento prie Žemės ūkio ministerijos“ įrašyti žodžius „Vyriausybės įgaliotos institucijos“ ir šią dalį išdėstyti taip:
 
@@ -124,7 +124,7 @@ Fizinių asmenų prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlyg
 
 „3. Vietovėje paženklintos privačios žemės, miško sklypų ribos vėliau atliekant kadastrinius matavimus nekeičiamos, o už nustatytą žemės, miško sklypo ploto skirtumą, neviršijantį leistino matavimo tikslumo, nustatyto Vyriausybės įgaliotos institucijos patvirtintoje metodikoje, valstybei arbaprivačios žemės savininkui nekompensuojama.“
 
-\#### 11 straipsnis. 22 straipsnio pakeitimas ir papildymas
+## 11 straipsnis. 22 straipsnio pakeitimas ir papildymas
 
 22 straipsnyje vietoj žodžio „Savivaldos“ įrašyti žodį „Savivaldybių“, vietoj datos „2001 m. sausio 1 d.“ įrašyti datą „2002 m. liepos 1 d.“, po žodžio „parengia“ įrašyti žodžius „ir patvirtina“ ir šį straipsnį išdėstyti taip:
 

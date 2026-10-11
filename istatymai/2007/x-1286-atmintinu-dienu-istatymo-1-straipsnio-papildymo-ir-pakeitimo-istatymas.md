@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2BC4966B30E4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2BC4966B30E4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1672](https://www.e-tar.lt/portal/lt/legalAct/TAR.D570962773F8); 1998, Nr. [61-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.8E9E01A7590B); 2000, Nr. [42-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3B0CBDC7381), Nr. [57-1679](https://www.e-tar.lt/portal/lt/legalAct/TAR.744B5812BA0F); 2001, Nr. [43-1499](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E3BC9F8D864), Nr. [57-2027](https://www.e-tar.lt/portal/lt/legalAct/TAR.13DD67D633C5); 2002, Nr. [15-554](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD3C35CBE156), Nr. [48-1835](https://www.e-tar.lt/portal/lt/legalAct/TAR.04FC573BAE14), Nr. [73-3105](https://www.e-tar.lt/portal/lt/legalAct/TAR.A61A8611E88A); 2003, Nr. [69-3116](https://www.e-tar.lt/portal/lt/legalAct/TAR.6A714D16F88C), Nr. [74-3420](https://www.e-tar.lt/portal/lt/legalAct/TAR.3FE88E66800D); 2004, Nr. [55-1890](https://www.e-tar.lt/portal/lt/legalAct/TAR.35B3AF89859E), Nr. [141-5159](https://www.e-tar.lt/portal/lt/legalAct/TAR.68DE2DBDA1DD); 2005, Nr. [67-2403](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A4567F89934); 2006, Nr. [87-3408](https://www.e-tar.lt/portal/lt/legalAct/TAR.70214821BA57))
 
-\#### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 1 straipsnio papildymas ir pakeitimas
 
 Papildyti 1 straipsnį nauja 1 dalimi, buvusią 1 dalį laikyti 2 dalimi, 2 dalį papildyti naujais 4, 10, 13, 20 ir 42 punktais, buvusius 4–44 punktus laikyti atitinkamai 5–49 punktais ir visą straipsnį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.24241C68BA15"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.24241C68BA15.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 14 ir 28 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2006, Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340))
 
-\#### 1 straipsnis. 14 straipsnio 11 dalies pakeitimas
+## 1 straipsnis. 14 straipsnio 11 dalies pakeitimas
 
 14 straipsnio 11 dalyje po žodžių „Valstybės sienos apsaugos tarnybos“ įrašyti žodžius „Viešojo saugumo tarnybos“ ir šią dalį išdėstyti taip:
 
 „11. Vidaus tarnybos generolo laipsnis gali būti suteikiamas Ministro Pirmininko potvarkiu vidaus reikalų ministro teikimu. Vidaus tarnybos generolo laipsnis suteikiamas turinčiam vidaus tarnybos pulkininko laipsnį pareigūnui, kuris paskirtas Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos vadu, Priešgaisrinės apsaugos ir gelbėjimo departamento, Finansinių nusikaltimų tyrimo tarnybos ar Vadovybės apsaugos departamento direktoriumi ir šias pareigas eina ne trumpiau kaip 6 mėnesius.“
 
-\#### 2 straipsnis. 28 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 28 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 28 straipsnio 2 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5F576CA1068D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5F576CA1068D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo 7 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210); 2010, Nr. [145-7419](https://www.e-tar.lt/portal/lt/legalAct/TAR.B1C39951F79A); 2011, Nr. [146-6855](https://www.e-tar.lt/portal/lt/legalAct/TAR.7427A73C8004))
 
-\#### 1 straipsnis. 7 straipsnio l dalies 1 punkto pakeitimas
+## 1 straipsnis. 7 straipsnio l dalies 1 punkto pakeitimas
 
 Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 

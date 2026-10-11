@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6b9d94401d4c11e9875cdc20105dd260"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6B9D94401D4C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas
@@ -350,5 +350,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2087, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13988
 
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymo Nr. XIII-1928 2 straipsnio pakeitimo įstatymas
-
-part_82dd3e147b7a49d38f688bbdad5490d3_end

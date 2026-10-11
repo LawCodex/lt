@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/07d0a5e055c811f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.07D0A5E055C8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo Nr. XIV-2811 1, 2, 3, 4, 16, 17, 19, 20, 23, 31, 32, 35, 36, 37, 40, 41 straipsnių ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šis įstatymas nustato įmonių (įmonių grupių) Juridinių asmenų registro duomenų tvarkytojui teikiamų ir įmonių interneto svetainėse skelbiamų (konsoliduotųjų) ataskaitų ir (arba) jų rinkinių sudėties, juose teikiamos informacijos reikalavimus, (konsoliduotųjų) ataskaitų parengimo, pateikimo ir paskelbimo tvarką, (konsoliduotųjų) ataskaitų kokybės užtikrinimo reikalavimus ir atsakomybę.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „7. Kai įmonė savo nuožiūra pasirenka rengti šiame įstatyme nustatytas finansines ataskaitas, vadovybės ataskaitą, informaciją tvarumo klausimais, mokėjimų valdžios institucijoms ataskaitą, pelno mokesčio informacijos ataskaitą, įmonių grupė – konsoliduotąsias finansines ataskaitas, konsoliduotąją vadovybės ataskaitą, kurioje gali būti pateikiama ir informacija tvarumo klausimais, konsoliduotąją mokėjimų valdžios institucijoms ataskaitą, kurių šis įstatymas neįpareigoja jų rengti, šiame įstatyme nustatytus šioms (konsoliduotosioms) ataskaitoms keliamus reikalavimus dėl (konsoliduotųjų) ataskaitų parengimo, pateikimo Juridinių asmenų registro duomenų tvarkytojui, paskelbimo įmonės interneto svetainėje, (konsoliduotųjų) finansinių ataskaitų audito ir (konsoliduotosios) tvarumo atskaitomybės užtikrinimo jos taiko savo nuožiūra.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -52,19 +52,19 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatyme, Lietuvos Respublikos ūkinių bendrijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos finansinės atskaitomybės standartuose, Europos tvarumo atskaitomybės standartuose.“
 
-\#### 4 straipsnis. 4 straipsnio pakeitimas
+## 4 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Įmonės, finansines ataskaitas rengiančios pagal tarptautinius finansinės atskaitomybės standartus, investicinės bendrovės, mažosios bendrijos, kredito unijos į šiame straipsnyje nurodytas kategorijas neskirstomos tik dėl šio įstatymo nuostatų dėl finansinių ataskaitų rengimo.“
 
-\#### 5 straipsnis. 16 straipsnio pakeitimas
+## 5 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Patronuojančioji įmonė, išskyrus mažą ir vidutinęįmonių grupę, kurioje nėra viešojo intereso įmonių, ir šio įstatymo 17 straipsnyje nurodytas išimtis, privalo parengti metines konsoliduotąsias finansines ataskaitas ir konsoliduotąją vadovybės ataskaitą.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 5) jos vadovybės ataskaitoje nurodytas patronuojančiosios įmonės, kuri rengia šios dalies 2 punkte nurodytą konsoliduotąją vadovybės ataskaitą, pavadinimas, kodas, buveinės adresas, sprendimas atleisti nuo konsoliduotosios vadovybės ataskaitos rengimo ir atleidimo priežastys bei data, kada patronuojančioji įmonė, jeigu ji yra kitos valstybės narės arba trečiosios valstybės įmonė, parengs konsoliduotąją vadovybės ataskaitą.“
 
-\#### 7 straipsnis. 19 straipsnio pakeitimas
+## 7 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Vidutinės įmonių grupės, kurioje yra viešojo intereso įmonių, patronuojančioji įmonė konsoliduotojoje vadovybės ataskaitoje turi pateikti šio įstatymo 20 straipsnio 3 dalyje nurodytą informaciją.“
 
-\#### 8 straipsnis. 20 straipsnio pakeitimas
+## 8 straipsnis. 20 straipsnio pakeitimas
 
 1. Pripažinti netekusiais galios 20 straipsnio 1 dalies 13, 14 ir 15 punktus.
 
@@ -102,7 +102,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Įmonė, rengianti konsoliduotąją vadovybės ataskaitą, savo vadovybės ataskaitą, įskaitant informaciją tvarumo klausimais, gali sujungti su konsoliduotąja vadovybės ataskaita, apimančia ir konsoliduotąją informaciją tvarumo klausimais.“
 
-\#### 9 straipsnis. 23 straipsnio pakeitimas
+## 9 straipsnis. 23 straipsnio pakeitimas
 
 1. Pakeisti 23 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Kai šio straipsnio 1 dalyje nurodytos (patronuojančiosios) įmonės patronuojančioji įmonė konsoliduotąją vadovybės ataskaitą arba konsoliduotąją tvarumo ataskaitą parengia ir paskelbia vėliau, negu (konsoliduotąją) vadovybės ataskaitą turi parengti ir pateikti Juridinių asmenų registro duomenų tvarkytojui šio straipsnio 1 dalyje nurodyta (patronuojančioji) įmonė, šio straipsnio 1 dalyje nurodyta (patronuojančioji) įmonė:“.
 
-\#### 10 straipsnis. 31 straipsnio pakeitimas
+## 10 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -144,7 +144,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 2 ir 4 dalyse nustatytos pareigos nebetaikomos, kai 2 finansinius metus iš eilės netenkinamas šio straipsnio 2 dalyje nurodytas kriterijus.“
 
-\#### 11 straipsnis. 32 straipsnio pakeitimas
+## 11 straipsnis. 32 straipsnio pakeitimas
 
 1. Pakeisti 32 straipsnio 2 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -154,7 +154,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 „3. Šio įstatymo 30 straipsnio 1 dalyje ir 31 straipsnio 4 dalyje nurodyta pelno mokesčio informacijos ataskaita turi būti parengta elektroniniu formatu, nustatytu 2024 m. lapkričio 29 d. Komisijos įgyvendinimo reglamentu [(ES) 2024/2952](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R2952&locale=lt), kuriuo dėl informacijos, pateiktinos pelno mokesčio informacijos ataskaitose, pagal Europos Parlamento ir Tarybos direktyvą [2013/34/ES](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013L0034&locale=lt) nustatomas bendrasis šablonas ir elektroninio ataskaitų teikimo formatai.“
 
-\#### 12 straipsnis. 35 straipsnio pakeitimas
+## 12 straipsnis. 35 straipsnio pakeitimas
 
 1. Pakeisti 35 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 „4. Jeigu stebėsenos institucija, atlikdama ataskaitų kokybės stebėseną, nustato reikšmingų trūkumų, Juridinių asmenų registro duomenų tvarkytojui pateikia pranešimą apie tai. Šio pranešimo pagrindu Juridinių asmenų registro informacinėje sistemoje įregistruojamas faktas, kad atliekant ataskaitų kokybės stebėseną buvo nustatyta reikšmingų trūkumų. Šis faktas neturi būti išregistruotas iš Juridinių asmenų registro informacinės sistemos tol, kol Juridinių asmenų registro informacinėje sistemoje tvarkomos atitinkamos ataskaitos. Reikšmingų trūkumų kriterijus nustato stebėsenos institucija.“
 
-\#### 13 straipsnis. 36 straipsnio pakeitimas
+## 13 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 8. Juridinių asmenų registro duomenų tvarkytojui pateiktų (konsoliduotųjų) finansinių ataskaitų ir (konsoliduotosios) vadovybės ataskaitos formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada ir, kai vadovybės ataskaitoje pateikta informacija tvarumo klausimais, tvarumo atskaitomybės užtikrinimo išvada.“
 
-\#### 14 straipsnis. 37 straipsnio pakeitimas
+## 14 straipsnis. 37 straipsnio pakeitimas
 
 1. Pakeisti 37 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -196,7 +196,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 „4. Šio įstatymo 30 straipsnio 1 dalyje ir 31 straipsnio 1 ir 4 dalyse nurodytapelno mokesčio informacijos ataskaita ir, kai taikytina, šio įstatymo 31 straipsnio 4 dalyje nurodytas pareiškimas turi būti paskelbti lietuvių ir (arba) anglų kalbomis (kalba) ne vėliau kaip per 12 mėnesių nuo finansinių metų, už kuriuos parengta pelno mokesčio informacijos ataskaita, paskutinės dienos įmonės, nurodytos šio įstatymo 30 straipsnio 1 dalyje, patronuojamosios įmonės, nurodytos šio įstatymo 31 straipsnio 3 dalies 1 ir 3 punktuose, arba filialo, nurodyto šio įstatymo 31 straipsnio 3 dalies 2 ir 3 punktuose, interneto svetainėje.“
 
-\#### 15 straipsnis. 40 straipsnio pakeitimas
+## 15 straipsnis. 40 straipsnio pakeitimas
 
 1. Pakeisti 40 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -218,7 +218,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 „7. Už (konsoliduotosios) mokėjimų valdžios institucijoms ataskaitos parengimą ir pateikimą Juridinių asmenų registro duomenų tvarkytojui atsako (patronuojamosios) įmonės vadovas.“
 
-\#### 16 straipsnis. 41 straipsnio pakeitimas
+## 16 straipsnis. 41 straipsnio pakeitimas
 
 1. Pakeisti 41 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -238,13 +238,13 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 „13. Mažos ir vidutinės įmonės, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, informaciją tvarumo klausimais (konsoliduotojoje) vadovybės ataskaitoje pateikia pradedant 2028 m. sausio 1 d. ar vėliau prasidedančiais ataskaitiniais laikotarpiais.“
 
-\#### 17 straipsnis. Įstatymo priedo pakeitimas
+## 17 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 7 punktu:
 
 „7. 2025 m. balandžio 14 d. Europos Parlamento ir Tarybos direktyva [(ES) 2025/794](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32025L0794&locale=lt), kuria iš dalies keičiamos direktyvos [(ES) 2022/2464](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022L2464&locale=lt) ir [(ES) 2024/1760](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024L1760&locale=lt), kiek tai susiję su datomis, nuo kurių valstybės narės turi taikyti tam tikrus įmonių informacijos apie tvarumą teikimo ir įmonių tvarumo išsamaus patikrinimo reikalavimus.“
 
-\#### 18 straipsnis. Įstatymo taikymas
+## 18 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo nuostatos, išskyrus šio įstatymo 11 straipsnio 2 dalyje išdėstytą Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo 32 straipsnio 3 dalį, taikomos 2024 m. birželio 22 d. ir vėliau prasidedančių ataskaitinių laikotarpių pelno mokesčio informacijos ataskaitoms ir (konsoliduotosioms) ataskaitoms.
 

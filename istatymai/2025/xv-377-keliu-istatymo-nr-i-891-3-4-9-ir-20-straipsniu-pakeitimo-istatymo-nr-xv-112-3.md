@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1aa64c3055d011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1AA64C3055D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 3 ir 4 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ KELIŲ ĮSTATYMO NR. I-891 3, 4, 9 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMO NR. XV-
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Kelių kategorijos nustatomos atsižvelgiant į kelių funkcinę paskirtį, transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis aplinkos ministro ir susisiekimo ministro nustatyta tvarka ir kriterijais. Kelio kategoriją priskiria kelio savininkai ar valdytojai: valstybinės reikšmės kelių kategorijas priskiria valstybinės reikšmės kelių valdytojas, vietinės reikšmės viešųjų kelių ir rajoninių kelių miestų ir miestelių teritorijose kategorijas – savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys.“.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 

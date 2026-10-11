@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AF942F6D0ED6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AF942F6D0ED6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 1, 6, 8, 9, 10, 11, 18, 21, 29 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2000, Nr. 1-4, Nr. 28-758, Nr. 61-1832)
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 1. Papildyti 1 straipsnio 7 pastraipą ir ją išdėstyti taip:
 
@@ -42,13 +42,13 @@ Vilnius
 
 socialinė reklama – socialinės gerovės, apimančios sveikos gyvensenos, sveikatos stiprinimo, ligų ir žalingų sveikatai įpročių profilaktiką, propagavimas bet kokiomis reklamos formomis ir priemonėmis.“
 
-\#### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 6 straipsnio 1 dalyje išbraukti žodžius „ir kasmet perregistruojama“ ir šią dalį išdėstyti taip:
 
 „Lietuvos Respublikoje įmonėms draudžiama gaminti tabako gaminius be Lietuvos Respublikos Vyriausybės ar jos pavedimu Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės (toliau – VTAKT) nustatyta tvarka išduotos licencijos. Licencija gaminti tabako gaminius išduodama neterminuotam laikui.“
 
-\#### 3 straipsnis. 8 straipsnio 2 dalies 2 punkto ir 4 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 2 dalies 2 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -58,13 +58,13 @@ socialinė reklama – socialinės gerovės, apimančios sveikos gyvensenos, sve
 
 „Tabako ir tabako gaminių importo licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencija importuoti tabako gaminius išduodama neterminuotam laikui.“
 
-\#### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalyje išbraukti žodžius „ir kasmet perregistruojama“ ir šią dalį išdėstyti taip:
 
 „Didmeninė prekyba tabako gaminiais leidžiama tik turint Lietuvos Respublikos Vyriausybės ar jos pavedimu VTAKT išduotas licencijas. Licencija didmeninei prekybai tabako gaminiais išduodama neterminuotam laikui.“
 
-\#### 5 straipsnis. 10 straipsnio 2 dalies 1 ir 9 punktų pakeitimas, papildymas 12 punktu ir 6 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio 2 dalies 1 ir 9 punktų pakeitimas, papildymas 12 punktu ir 6 dalies pakeitimas
 
 1. Pakeisti 10 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ socialinė reklama – socialinės gerovės, apimančios sveikos gyvensenos, sve
 
 „Prekybos tabako gaminiais vietose, išskyrus patalpas, kuriose vykdoma tabako gaminių didmeninė prekyba, privalo būti užrašai apie kenksmingą tabako poveikį sveikatai ir informuojantys, kad yra draudžiama parduoti tabako gaminius asmenims iki 18 metų. Įspėjimų tekstus ir jų užrašymo tvarką bei apipavidalinimo reikalavimus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -130,7 +130,7 @@ Tabako gaminių gamintojai ir (ar) importuotojai kiekvienais metais ne vėliau k
 
 3) informacija apie Lietuvos Respublikoje parduodamus visų rūšių tabako gaminius, nurodant visas sudedamąsias dalis, dedamas į tabaką, išskyrus komercine paslaptimi laikomą informaciją apie konkretaus gaminio sudėtį.
 
-\#### 7 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+## 7 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -140,7 +140,7 @@ Tabako gaminių gamintojai ir (ar) importuotojai kiekvienais metais ne vėliau k
 
 „Tabako gaminių reklamos draudimo laikymąsi, įskaitant klaidinančią ir lyginamąją reklamą, taip pat paslėptą tabako gaminių reklamą, pagal savo kompetenciją kontroliuoja VTAKT, Nacionalinė vartotojų teisių apsaugos taryba, Lietuvos Respublikos konkurencijos taryba, savivaldybių vykdomosios institucijos ir valstybės įstaiga, atsakinga už kultūros vertybių apsaugą. Šių institucijų kompetenciją tabako gaminių reklamos kontrolės srityje nustato šis ir kiti Lietuvos Respublikos įstatymai bei teisės aktai.“
 
-\#### 8 straipsnis. 21 straipsnio 1 ir 3 dalių, 6 dalies 1, 2 ir 3 punktų, 7 dalies pakeitimas ir papildymas
+## 8 straipsnis. 21 straipsnio 1 ir 3 dalių, 6 dalies 1, 2 ir 3 punktų, 7 dalies pakeitimas ir papildymas
 
 1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -166,7 +166,7 @@ Tabako gaminių gamintojai ir (ar) importuotojai kiekvienais metais ne vėliau k
 
 „Tabako gaminių rėmimo ribojimo ir reklamos draudimo reikalavimų, nustatytų 11 straipsnio pirmojoje, trečiojoje, ketvirtojoje ir penktojoje dalyse, nesilaikymas užtraukia komercinės-ūkinės veiklos subjektams penkių tūkstančių litų baudą, o šių reikalavimų pakartotinis pažeidimas, padarytas per vienerius metus nuo ankstesnio pažeidimo, – dešimties tūkstančių litų baudą. Baudas už šiuos pažeidimus skiria Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės (išskyrus pažeidimus visuomenės informavimo priemonėse). Baudas už šio įstatymo 11 straipsnio pirmojoje, trečiojoje, ketvirtojoje ir penktojoje dalyse nustatytų reikalavimų pažeidimus visuomenės informavimo priemonėse skiria Nacionalinė vartotojų teisių apsaugos taryba.“
 
-\#### 9 straipsnis. 29 straipsnio pakeitimas
+## 9 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti29 straipsnį ir jį išdėstyti taip:
 

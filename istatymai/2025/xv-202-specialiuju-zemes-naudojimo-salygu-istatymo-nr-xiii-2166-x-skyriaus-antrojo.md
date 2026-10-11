@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3eebdb5036f411f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3EEBDB5036F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 X skyriaus antrojo skirsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ ĮSTATYMO NR. XIII-2166 X SKYRIAUS ANTR
 
 Vilnius
 
-\#### 1 straipsnis. X skyriaus antrojo skirsnio pakeitimas
+## 1 straipsnis. X skyriaus antrojo skirsnio pakeitimas
 
 Pakeisti X skyriaus antrąjį skirsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti X skyriaus antrąjį skirsnį ir jį išdėstyti taip:
 
 TERITORIJOSE, KURIOSE, ATSIŽVELGIANT Į NACIONALINIO SAUGUMO REIKALAVIMUS, TAIKOMI ŪKINĖS IR (AR) KITOKIOS VEIKLOS APRIBOJIMAI, TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 
-\#### 135 straipsnis. Specialiosios žemės naudojimo sąlygos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi ūkinės ir (ar) kitokios veiklos apribojimai
+## 135 straipsnis. Specialiosios žemės naudojimo sąlygos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi ūkinės ir (ar) kitokios veiklos apribojimai
 
 1. Teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi ūkinės ir (ar) kitokios veiklos apribojimai, draudžiama:
 
@@ -48,7 +48,7 @@ TERITORIJOSE, KURIOSE, ATSIŽVELGIANT Į NACIONALINIO SAUGUMO REIKALAVIMUS, TAIK
 
 3. Lietuvos kariuomenės vadas nepritaria projektui, jeigu planuojamos statyti vėjo elektrinės nurodytose statybos vietose kliudys stebėti, kontroliuoti ir ginti oro erdvę, kitos nacionalinį saugumą užtikrinančios institucijos – jeigu planuojamos statyti vėjo elektrinės nurodytose statybos vietose kliudys atlikti tiesiogines jų funkcijas, susijusias su nacionalinio saugumo užtikrinimu. Vėjo elektrinių statybos vietų su Lietuvos kariuomenės vadu ir kitomis nacionalinį saugumą užtikrinančiomis institucijomis derinimo sąlygos nustatomos Atsinaujinančių išteklių energetikos įstatyme.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

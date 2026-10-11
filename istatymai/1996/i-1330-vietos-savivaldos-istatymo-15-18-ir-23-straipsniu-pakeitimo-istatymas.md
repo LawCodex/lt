@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.587826FB9EA2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.587826FB9EA2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 15, 18 ir 23 straipsnių pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1820; 1996, Nr. 33-804, Nr. 35-869)
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas
+## 1 straipsnis. 15 straipsnio pakeitimas
 
 Iš 15 straipsnio 10 punkto išbraukti žodžius „fondų ir“ ir visą straipsnį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Taryba:
 
 29) teikia siūlymus dėl savivaldybės teritorijos ribų keitimo.“
 
-\#### 2 straipsnis. 18 straipsnio pirmosios dalies pakeitimas
+## 2 straipsnis. 18 straipsnio pirmosios dalies pakeitimas
 
 18 straipsnio pirmosios dalies 9 ir 10 punktus pripažinti netekusiais galios ir visą pirmąją dalį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Jeigu taryba sudaro valdybą, tai ši, vykdydama savo įgaliojimus:
 
 15) rengia gyventojų susirinkimus, kuriuose ne rečiau kaip kartą per metus pateikia informaciją apie savivaldybės reikalus, taip pat kartą per metus ir pagal reikalavimą atsiskaito už savo veiklą tarybai.“
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas
+## 3 straipsnis. 23 straipsnio pakeitimas
 
 1. Pakeisti 23 straipsnio pirmąją dalį – išbraukti žodžius „fondai ir“, vietoj žodžio „nebiudžetiniai“ įrašyti žodį „nebiudžetinės“ ir šią dalį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Jeigu taryba sudaro valdybą, tai ši, vykdydama savo įgaliojimus:
 
 2. 23 straipsnio devintąją dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1997 metų sausio 1 dienos.
 

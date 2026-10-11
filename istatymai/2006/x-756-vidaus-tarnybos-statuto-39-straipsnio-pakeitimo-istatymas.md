@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D49E484674BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D49E484674BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 39 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE))
 
-\#### 1 straipsnis. 39 straipsnio pakeitimas
+## 1 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
@@ -44,11 +44,11 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 5. Į pareigūnams teikiamas iš valstybės biudžeto remiamas sveikatos priežiūros paslaugas asmens sveikatos priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija, turi teisę ir buvę pareigūnai – pareigūnų ir karių valstybinių pensijų gavėjai.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnis įsigalioja nuo 2006 m. rugsėjo 1 d.
 
-\#### 3 straipsnis. Pasiūlymas Vyriausybei
+## 3 straipsnis. Pasiūlymas Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2006 m. rugsėjo 1 d. priima šiam įstatymui įgyvendinti būtinus teisės aktus.
 

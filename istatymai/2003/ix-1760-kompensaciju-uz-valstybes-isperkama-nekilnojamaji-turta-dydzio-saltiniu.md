@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AA480B3B3926"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA480B3B3926.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 1999, Nr. [48-1523](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A15499BDBAE), Nr. [98-2810](https://www.e-tar.lt/portal/lt/legalAct/TAR.2588D87B5491), Nr. [113-3292](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CA111E5FFEF); 2000, Nr. [28-767](https://www.e-tar.lt/portal/lt/legalAct/TAR.779887BF71CF); 2003, Nr. [14-539](https://www.e-tar.lt/portal/lt/legalAct/TAR.4BB451F57E95))
 
-\#### 1 straipsnis. Lietuvos Respublikos Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymą ir jį išdėstyti taip:
 
@@ -38,35 +38,35 @@ Pakeisti Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnoja
 
 **kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokĖjimo terminų bei tvarkos, taip pat Valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme,**
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis Įstatymas nustato kompensacijų, numatytų Lietuvos Respublikos piliečiams pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą už valstybės išperkamą nekilnojamąjį turtą, dydį, šaltinius, mokėjimo terminus ir tvarką, taip pat valstybėsgarantijų sugrąžintų gyvenamųjų namų, jų dalių, butų savininkams ir nuomininkams, kurie gyvena piliečiams bei religinėms bendruomenėms ir bendrijoms grąžintuose gyvenamuosiuose namuose, jų dalyse, butuose, įgyvendinimo tvarką ir sąlygas, garantijų turėtojųteises ir pareigas bei lengvatas I grupės invalidams, 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15 d.apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams),asmenims, kuriems reikalingos endoprotezavimo operacijos, ir asmenims, sergantiems sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą.
 
-\#### 2 straipsnis. Atlyginimo už išlikusį nekilnojamąjį turtą principas
+## 2 straipsnis. Atlyginimo už išlikusį nekilnojamąjį turtą principas
 
 Atlyginant piliečiams už išlikusį nekilnojamąjį turtą pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, laikomasi negrąžinamo turto ir vietoj jo perduodamo kito turto, kuriuo atlyginama už valstybės išperkamą turtą, lygiavertiškumo principo.
 
-\#### 3 straipsnis. Atlyginimas už valstybės išperkamą žemę, mišką, vandens telkinius
+## 3 straipsnis. Atlyginimas už valstybės išperkamą žemę, mišką, vandens telkinius
 
 1. Atlyginant už valstybės išperkamą žemę, mišką, vandens telkinius, perduodamų neatlygintinai nuosavybėn žemės, miško, vandens telkinio vertė, mokamų pinigų suma, išduodamų vertybinių popierių skaičius ir vertė, įskaitomos piniginės prievolės valstybei dydis yra apskaičiuojami pagal Vyriausybės patvirtintą metodiką.
 
 2. Atlyginant už miesto teritorijoje esančią žemę, laikomasi nuostatos, kad po neteisėto žemės nacionalizavimo miestams priskirta žemė vertinama priemiestinėse teritorijose esančios žemės ūkio paskirties žemės vidutine rinkos kaina, o kita miestų teritorijose esanti žemė vertinama tam miestui Vyriausybės nustatyta vidutine atlyginimo kaina.
 
-\#### 4 straipsnis. Atlyginimas už valstybės išperkamus ūkinės komercinės paskirties pastatus ir jų priklausinius
+## 4 straipsnis. Atlyginimas už valstybės išperkamus ūkinės komercinės paskirties pastatus ir jų priklausinius
 
 Atlyginant už valstybės išperkamus ūkinės komercinės paskirties pastatus ir jų priklausinius, išduodamų vertybinių popierių skaičius ir vertė yra apskaičiuojami pagal Vyriausybės patvirtintą metodiką.
 
-\#### 5 straipsnis. Atlyginimas už valstybės išperkamus gyvenamuosius namus, jų dalis, butus
+## 5 straipsnis. Atlyginimas už valstybės išperkamus gyvenamuosius namus, jų dalis, butus
 
 Atlyginant už valstybės išperkamus gyvenamuosius namus, jų dalis, butus,perduodamo neatlygintinai turto, mokamų pinigų suma, išduodamų vertybinių popierių skaičius ir vertė, įskaitomos piniginės prievolės valstybei dydis yra apskaičiuojami pagal išperkamo turto rinkos vertę, nustatytą pagal Turto ir verslo vertinimo pagrindų įstatymą.
 
-\#### 6 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai
+## 6 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai
 
 1. Atlyginimo piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą šaltiniai yra: valstybei priklausantis turtas, valstybei priklausantys vertybiniai popieriai, valstybės biudžeto lėšos, valstybės pasiskolintos lėšos ir kiti įstatymuose nurodyti šaltiniai.
 
 2. Vyriausybė ar jos įgaliota institucija turi teisę leisti vertybinius popierius arba Lietuvos Respublikos vardu imti paskolas kompensacijoms už valstybės išperkamą išlikusį nekilnojamąjį turtą mokėti. Šias lėšas paskirsto Vyriausybė ar jos įgaliota institucija.
 
-\#### 7 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą terminai
+## 7 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą terminai
 
 1. Atlyginimo už išperkamus atskirus nekilnojamojo turto objektus (žemę, mišką, vandens telkinius, ūkinės komercinės paskirties pastatus ir jų priklausinius, gyvenamuosius namus, jų dalis, butus) dydžius, jo mokėjimo terminus ir tvarką kasmet, patvirtinus valstybės biudžeto ir savivaldybių biudžetų finansinius rodiklius, nustato Vyriausybė, atsižvelgdama į valstybės finansines išgales, įskaitant naujus valstybės turtinius įsipareigojimus ir valstybės pajamų šaltinius.
 
@@ -82,7 +82,7 @@ Atlyginant už valstybės išperkamus gyvenamuosius namus, jų dalis, butus,perd
 
 3. Iš kompensacijoms mokėti numatytų valstybės biudžeto lėšų 20 procentų kasmet skiriama asmenims, sergantiems sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą.
 
-\#### 8 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą pinigais ir vertybiniais popieriais tvarka
+## 8 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą pinigais ir vertybiniais popieriais tvarka
 
 1. Vyriausybės nustatyta tvarka sudaromi piliečių sąrašai kompensacijoms už valstybės išperkamą išlikusį nekilnojamąjį turtą mokėti pinigais. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius patvirtina apskričių viršininkai. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus patvirtina savivaldybių vykdomosios institucijos.
 
@@ -90,7 +90,7 @@ Atlyginant už valstybės išperkamus gyvenamuosius namus, jų dalis, butus,perd
 
 3. Atlyginimo už valstybės išperkamą nekilnojamąjį turtą vertybiniais popieriais tvarką nustato Vyriausybė.
 
-\#### 9 straipsnis. Valstybės garantijos sugrąžintų natūra gyvenamųjų namų, jų dalių, butų nuomininkams ir savininkams, šių garantijų įvykdymo tvarka ir sąlygos, garantijų turėtojų teisės ir pareigos
+## 9 straipsnis. Valstybės garantijos sugrąžintų natūra gyvenamųjų namų, jų dalių, butų nuomininkams ir savininkams, šių garantijų įvykdymo tvarka ir sąlygos, garantijų turėtojų teisės ir pareigos
 
 1. Savivaldybės vykdomoji institucija savininkams ir nuomininkams, gyvenantiems savininkui (piliečiui, religinei bendruomenei ar bendrijai) grąžintame gyvenamajame name, jo dalyje, bute, privalo išduoti valstybės garantinį dokumentą (toliau – valstybės garantija).
 
@@ -130,13 +130,13 @@ Atlyginant už valstybės išperkamus gyvenamuosius namus, jų dalis, butus,perd
 
 14. Valstybės garantijos nuomininkams vykdomos Vyriausybės nustatyta tvarka, bet ne vėliau kaip šio straipsnio 11 dalyje nustatyti terminai. Vyriausybė kasmet, atsižvelgdama į valstybės finansines išgales, valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekte numato lėšas valstybės garantijoms vykdyti, bet ne vėliau kaip iki 2009 m.
 
-\#### 10 straipsnis. Atlyginimo už žemę, mišką padidinimo tvarka
+## 10 straipsnis. Atlyginimo už žemę, mišką padidinimo tvarka
 
 1. Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą įstatymo 4 straipsnio 8 dalyje nurodytiems piliečiams siūlomo lygiaverčio turėtajam žemės sklypo plotas gali būti iki 30 arba iki 100 procentų padidintas apskrities viršininko sprendimu ir Vyriausybės nustatyta tvarka.
 
 2. Lietuvos Respublikos piliečiams 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos arba atkuriamos nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms dalims, apskrities viršininko sprendimu atlyginimo dydis pinigais padidinamas 15 procentų.“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimo tvarka
+## 2 straipsnis. Įstatymo įgyvendinimo tvarka
 
 Vyriausybė per 3 mėnesius nuo šio Įstatymo įsigaliojimo dienos priima šiam Įstatymui įgyvendinti reikalingus lydimuosius aktus.
 

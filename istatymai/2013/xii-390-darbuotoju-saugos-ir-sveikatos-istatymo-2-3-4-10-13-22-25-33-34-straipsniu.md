@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4064778BA081"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4064778BA081.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 2, 3, 4, 10, 13, 22, 25, 33, 34 straipsnių pakeitimo ir įstatymo priedo papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. 70-3170, Nr. 112-4996; 2004, Nr. 28-876, Nr. 163-5945; 2007, Nr. 69-2720; 2010, Nr. 60-2961, Nr. 148-7567; 2012, Nr. 69-3525)
 
-\#### 1 straipsnis. 2 straipsnio 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -34,19 +34,19 @@ Vilnius
 
 „4.**Darbdaviui atstovaujantis asmuo** – įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros (toliau – įmonė) vadovas arba darbdavys fizinis asmuo.“
 
-\#### 2 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Darbuotojo teisę turėti saugias ir sveikas darbo sąlygas garantuoja Lietuvos Respublikos Konstitucija, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. Saugias ir sveikas darbo sąlygas darbuotojams privalo sudaryti darbdaviai. Dėl saugių ir sveikų darbo sąlygų sudarymo darbuotojas turi teisę kreiptis į darbuotojų atstovą, padalinio vadovą ar kitą darbdavio įgaliotą asmenį, darbdaviui atstovaujantį asmenį, darbuotojų saugos ir sveikatos komitetą, Valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) ar kitas valstybės institucijas, teikdamas pasiūlymus ar reikalaudamas, kad būtų sudarytos saugios ir sveikatai nekenksmingos darbo sąlygos.“
 
-\#### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 4 straipsnio 1 dalyje po žodžio „teritorijoje“ įrašyti žodžius „taip pat laivuose, plaukiojančiuose su Lietuvos valstybės vėliava“ ir šią dalį išdėstyti taip:
 
 „1. Šis Įstatymas taikomas kiekvienai įmonei, esančiai Lietuvos Respublikos teritorijoje, taip pat laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, atsižvelgiant į šio straipsnio 2 ir 4 dalyse numatytus šio Įstatymo taikymo ypatumus.“
 
-\#### 4 straipsnis. 10 straipsnio pakeitimas
+## 4 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 2. Kolektyvinėse sutartyse gali būti nustatytos papildomos ir palankesnės saugių ir sveikatai nekenksmingų darbo sąlygų sudarymo darbuotojams nuostatos negu galiojančiuose darbuotojų saugos ir sveikatos norminiuose teisės aktuose. Tokių nuostatų vykdymą kontroliuoja darbdaviui atstovaujantys asmenys, darbdavio įgalioti asmenys, darbuotojų atstovai kolektyvinėse sutartyse nustatyta tvarka ir Valstybinė darbo inspekcija.“
 
-\#### 5 straipsnis. 13 straipsnio pavadinimo ir 1, 2, 3, 4 dalių pakeitimas
+## 5 straipsnis. 13 straipsnio pavadinimo ir 1, 2, 3, 4 dalių pakeitimas
 
 1. 13 straipsnio pavadinime išbraukti žodį „Įmonių“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 „4. Vadovaudamasi įmonės komiteto nuostatais, įmonės profesinė sąjunga, o jeigu profesinės sąjungos nėra, – kiti darbuotojų atstovai, įmonės darbuotojų kolektyvo susirinkime organizuoja darbuotojų atstovų saugai ir sveikatai rinkimus ir iš jų išrenka komiteto narius. Įmonės padalinių ir darbuotojų, kuriems atstovauja darbuotojų atstovas saugai ir sveikatai, skaičių nustato darbuotojų atstovai. Jeigu įmonėje yra daugiau kaip vienas darbuotojų atstovas saugai ir sveikatai, vienas iš jų renkamas vyresniuoju darbuotojų atstovu ir koordinuoja visų įmonės darbuotojų atstovų saugai ir sveikatai veiklą. Kiekvienoje darbo pamainoje privalo būti ne mažiau kaip vienas darbuotojų atstovas saugai ir sveikatai. Laive, vadovaujantis laivo komiteto nuostatais, darbuotojų atstovas (atstovai) saugai ir sveikatai ir laivo komiteto narys (nariai) renkamas (renkami) laivo darbuotojų susirinkime.“
 
-\#### 6 straipsnis. 22 straipsnio 9 dalies 1, 2 ir 5 punktų pakeitimas
+## 6 straipsnis. 22 straipsnio 9 dalies 1, 2 ir 5 punktų pakeitimas
 
 1. Pakeisti 22 straipsnio 9 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -104,35 +104,35 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 „5) kol bus įvykdytas darbuotojų atstovo, darbuotojų saugos ir sveikatos komiteto ar darbo inspektoriaus reikalavimas sustabdyti darbus, darbuotojai, kurių saugai ir sveikatai gresia pavojus, turi teisę nutraukti darbą, palikti darbo vietą ar patalpą. Šiuo atveju darbdaviui atstovaujantis asmuo negali skirti drausminių nuobaudų ar taikyti kitokios atsakomybės.“
 
-\#### 7 straipsnis. 25 straipsnio 7 punkto pakeitimas
+## 7 straipsnis. 25 straipsnio 7 punkto pakeitimas
 
 25 straipsnio 7 punkte po žodžio „tarnybos“ išbraukti žodį „įmonės“ ir šį punktą išdėstyti taip:
 
 „7) sudaro sąlygas šio Įstatymo 12 ir 13 straipsniuose numatytų įmonės darbuotojų saugos ir sveikatos tarnybos, darbuotojų saugos ir sveikatos komiteto veiklai;“.
 
-\#### 8 straipsnis. 33 straipsnio 1 dalies 4 punkto pakeitimas
+## 8 straipsnis. 33 straipsnio 1 dalies 4 punkto pakeitimas
 
 33 straipsnio 1 dalies 4 punkte po žodžio „darbuotojams“ išbraukti žodį „įmonės“ ir šį punktą išdėstyti taip:
 
 „4) nedelsdami pranešti darbuotojų atstovui saugai ir sveikatai, padalinio vadovui, įmonės darbuotojų saugos ir sveikatos tarnybai ar jos darbuotojams, darbuotojų saugos ir sveikatos komitetui, darbdaviui atstovaujančiam asmeniui apie situaciją darbo vietose, darbo patalpose ar kitose įmonės vietose, kuri, jų įsitikinimu, gali kelti pavojų darbuotojų saugai ir sveikatai. Pranešti darbuotojų atstovui saugai ir sveikatai, padalinio vadovui, įmonės darbuotojų saugos ir sveikatos tarnybai ar jos darbuotojams, darbdaviui atstovaujančiam asmeniui apie darbuotojų saugos ir sveikatos reikalavimų pažeidimus, kurių patys pašalinti negali arba neprivalo;“.
 
-\#### 9 straipsnis. 34 straipsnio 7 punkto pakeitimas
+## 9 straipsnis. 34 straipsnio 7 punkto pakeitimas
 
 Pakeisti 34 straipsnio 7 punktą ir jį išdėstyti taip:
 
 „7) iškilus klausimų dėl saugos ir sveikatos būklės darbo vietoje ar įmonėje, kreiptis į darbuotojų atstovą saugai ir sveikatai, padalinio vadovą, įmonės darbuotojų saugos ir sveikatos tarnybą, darbuotojų saugos ir sveikatos komitetą, darbuotojų atstovus, darbdaviui atstovaujantį asmenį, Valstybinę darbo inspekciją, kitas valstybės institucijas ir įstaigas.“
 
-\#### 10 straipsnis. Įstatymo priedo papildymas 3 punktu
+## 10 straipsnis. Įstatymo priedo papildymas 3 punktu
 
 Papildyti Įstatymo priedą 3 punktu:
 
 „3. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB (OL 2009 L 124, p. 30).“
 
-\#### 11 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir socialinės apsaugos ir darbo ministrui
+## 11 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir socialinės apsaugos ir darbo ministrui
 
 Lietuvos Respublikos Vyriausybė ir socialinės apsaugos ir darbo ministras iki 2013 m. rugpjūčio 20 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas
+## 12 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 11 straipsnį, įsigalioja 2013 m. rugpjūčio 20 d.
 

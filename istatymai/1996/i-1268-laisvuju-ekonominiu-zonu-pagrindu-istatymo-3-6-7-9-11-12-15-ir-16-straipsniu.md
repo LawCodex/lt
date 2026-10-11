@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.33B28FE8DE03"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.33B28FE8DE03.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 3, 6, 7, 9, 11, 12, 15 ir 16 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 1995, Nr.[59-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D))
 
-\#### 1 straipsnis. 3 straipsnio antrosios dalies pripažinimas netekusia galios
+## 1 straipsnis. 3 straipsnio antrosios dalies pripažinimas netekusia galios
 
 3 straipsnio antrąją dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 6 straipsnio pirmosios dalies pakeitimas
+## 2 straipsnis. 6 straipsnio pirmosios dalies pakeitimas
 
 Pakeisti 6 straipsnio pirmosios dalies antrąjį sakinį ir šią dalį išdėstyti taip:
 
 „1. Zonos valdymo bendrovė yra juridinis asmuo. Zonos valdymo bendrovėje privačios nuosavybės teise fiziniams ir juridiniams asmenims priklausanti akcijų dalis turi būti ne mažesnė kaip suteikianti 51 procentą balsų. Ji veikia pagal Akcinių bendrovių įstatymą. Zonos valdymo bendrovė registruojama Įmonių rejestro įstatymo nustatyta tvarka.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 7 straipsnio pirmojoje dalyje išbraukti žodžius „zonos valdymo bendrovės“, antrojoje dalyje vietoj žodžių „zonos statutas“ įrašyti žodžius „įmonės steigimo tvarką reglamentuojantys įstatymai ir zonos įstatymas“, trečiojoje dalyje po žodžių „šiuo įstatymu“ įrašyti žodžius „zonos įstatymu“, pakeisti penktąją ir šeštąją dalis, septintąją dalį pripažinti netekusia galios, aštuntąją dalį laikyti septintąja ir joje po žodžių „šiame įstatyme“ įrašyti žodžius „zonos įstatyme“, devintąją dalį laikyti aštuntąja, ją pakeisti ir papildyti trečiuoju sakiniu ir visą straipsnį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Zonos įmonėse darbai gali būti sustabdomi Žmonių saugos darbe įstatymo nus
 
 8. Zonos įmonė negali steigti filialų ir atstovybių už zonos ribų. Zonos įmonė gali būti įmonės, esančios už zonos ribų, steigėja. Už zonos ribų esanti įmonė gali būti zonos įmonės steigėja.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 Pakeisti 9 straipsnio pirmąją dalį, šią dalį papildyti penktąja ir šeštąja pastraipomis, antrosios dalies antrajame sakinyje po žodžio „terminas“ įrašyti žodžius „konkurso sąlygos ir kriterijai zonos steigimo konkurso laimėtojams parinkti, zonos valdymo bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai, atsakomybė, zonos valdymo bendrovės likvidavimo, nelikviduojant zonos, bei naujos bendrovės suformavimo tvarka, svarbių valstybės (savivaldybių) objektų santykių su zonos valdymo bendrove dėl šių objektų naudojimo zonai aptarnauti pagrindai, rinkliavų iš zonos įmonių bendriems zonos reikalams nustatymo tvarka“, pakeisti trečiosios dalies antrąją pastraipą, ketvirtosios dalies 2 punkte po žodžio „bendrovės“ įrašyti žodį „valdybos“ ir pakeisti 4 punktą, penktąją dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Tarptautinį konkursą organizuoja Lietuvos Respublikos Vyriausybės įgaliota i
 
 4) zonos teritorijos įsisavinimo etapų, zonos veiklos.“
 
-\#### 5 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 Pakeisti 11 straipsnio pirmąjį sakinį, antrajame sakinyje vietoj žodžio „bendrovės“ įrašyti žodžius „bendrovės valdybos“ ir vietoj žodžio „siūlo“ įrašyti žodį „renka“, paskutiniame sakinyje vietoj žodžio „bendrovės“ įrašyti žodžius „bendrovės valdybos“, straipsnį papildyti antrąja pastraipa ir visą straipsnį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Zonos steigimo grupė, laimėjusi zonos verslo plano ir statuto rengimo bei stei
 
 Zonos valdymo bendrovėje stebėtojų taryba nesudaroma.“
 
-\#### 6 straipsnis. 12 straipsnio pirmosios dalies pakeitimas ir papildymas
+## 6 straipsnis. 12 straipsnio pirmosios dalies pakeitimas ir papildymas
 
 12 straipsnio pirmosios dalies antrojoje pastraipoje vietoj žodžių „registruoti zonoje ūkio subjektus pagal Lietuvos Respublikos įmonių rejestro ir šį įstatymą“ įrašyti žodžius „priimti sprendimą išduoti leidimą ūkio subjekto veiklai zonoje“, išbraukti aštuntąją pastraipą, papildyti dešimtąja pastraipa ir visą pirmąją dalį išdėstyti taip:
 
@@ -140,7 +140,7 @@ teikti pasiūlymus Lietuvos Respublikos Vyriausybei bei laisvųjų ekonominių z
 
 nustatyti rinkliavas zonos įmonėms zonos įstatymo nustatyta tvarka.“
 
-\#### 7 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 15 straipsnio pirmąją dalį papildyti aštuntąja pastraipa, pakeisti ir antruoju sakiniu papildyti antrąją dalį, papildyti straipsnį nauja trečiąja dalimi, buvusią trečiąją dalį laikyti ketvirtąja ir joje vietoj žodžių „dviejų milijonų“ įrašyti žodžius „vieno milijono“, vietoj žodžių „nuo pelno gavimo pradžios“ įrašyti žodžius „nuo įregistravimo dienos“, vietoj skaičiaus „3“ po žodžio „įmonė“ įrašyti skaičių „5“, o po žodžio „Kitus“ vietoj skaičiaus ir žodžio „3 metus“ įrašyti skaičių ir žodį „10 metų“, penktąją dalį pripažinti netekusia galios, o buvusią ketvirtąją dalį laikyti penktąja ir joje po žodžio „Įmonės“ įrašyti žodžius „ir zonos valdymo bendrovės“, aštuntosios dalies antrajame sakinyje po žodžio „Žemės“ įrašyti žodį „nuomos“ ir visą straipsnį išdėstyti taip:
 
@@ -178,7 +178,7 @@ valstybinio privalomo socialinio draudimo įmokas;
 
 8. Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius. Žemės nuomos mokestį, surinktą iš zonos įmonių, moka zonos valdymo bendrovė.“
 
-\#### 8 straipsnis. 16 straipsnio pirmosios dalies pakeitimas
+## 8 straipsnis. 16 straipsnio pirmosios dalies pakeitimas
 
 16 straipsnio pirmosios dalies pirmąją ir ketvirtąją pastraipas pripažinti netekusiomis galios ir šią dalį išdėstyti taip:
 

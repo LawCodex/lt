@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.862AECF3AD2F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.862AECF3AD2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinės saugos įstatymo 30 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [115-3230](https://www.e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA); 2004, Nr. [28-872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DE412CFBD0B), Nr. [163-5941](https://www.e-tar.lt/portal/lt/legalAct/TAR.4481742C3EEC))
 
-\#### 1 straipsnis. 30 straipsnio 10 dalies pakeitimas
+## 1 straipsnis. 30 straipsnio 10 dalies pakeitimas
 
 Pakeisti 30 straipsnio 10 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1DB8EE3B237C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1DB8EE3B237C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo įgyvendinimo įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1288](https://www.e-tar.lt/portal/lt/legalAct/TAR.245743EB7AB3))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 1 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti ir papildyti 1 straipsnį ir jį išdėstyti taip:
 
 6. 1996 metais buvusi sveikatos priežiūros įstaigų finansavimo tvarka galioja iki 1997 m. liepos 1 d.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 

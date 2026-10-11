@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0831B34FACCD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0831B34FACCD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Kauno miesto ir Kauno rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas
@@ -26,7 +26,7 @@ KAUNO MIESTO IR KAUNO RAJONO SAVIVALDYBIŲ TERITORIJŲ ADMINISTRACINIŲ RIBŲ PA
 
 Vilnius
 
-\#### 1 straipsnis. Kauno miesto savivaldybei priskiriamos gyvenamųjų vietovių dalys
+## 1 straipsnis. Kauno miesto savivaldybei priskiriamos gyvenamųjų vietovių dalys
 
 Priskirti Kauno miesto savivaldybei:
 
@@ -38,7 +38,7 @@ Priskirti Kauno miesto savivaldybei:
 
 4) Vytėnų ir Salių gyvenamųjų vietovių dalis (sodininkų bendrijos „Kampas“ naudojama žemė 4,43 ha, sodininkų bendrijos „Panerys“ – 17 ha, sodininkų bendrijos „Saliai“ – 3,55 ha, sodininkų bendrijos „Šlaitas“ – 3,5 ha, Kauno šiaurinio apvažiavimo – 1,6 ha, individualių garažų kooperatyvo Nr.2 – 0,04 ha, individualių garažų kooperatyvo Vytėnuose – 0,05 ha, mašinų išbandymo stoties vandens pakėlimo siurblinės – 1,20 ha, kelio Nr. 1905 Kaunas-Šėta-Truskava – 5,71 ha, pusės Neries upės – 20,5 ha, taip pat privačių žemių – 4,96 ha ir valstybės žemės – 170,46 ha), iš viso – 233 hektarai.
 
-\#### 2 straipsnis. Kauno miesto savivaldybės teritorijos administracinės ribos
+## 2 straipsnis. Kauno miesto savivaldybės teritorijos administracinės ribos
 
 Nustatyti šias Kauno miesto savivaldybės teritorijos administracines ribas:
 
@@ -50,11 +50,11 @@ Nustatyti šias Kauno miesto savivaldybės teritorijos administracines ribas:
 
 4) miesto vakarų riba – Kauno vakarinis apvažiavimo kelias, Lietuvos žemės ūkio akademijos mokomosios gamybinės bazės pietų riba, Marvelės upės vidurys, buvusio Lietuvos žemės ūkio akademijos mokomojo ūkio 16, 18, 19 miško kvartalų šiaurės ribos, Nemuno upės vidurys.
 
-\#### 3 straipsnis. Ribų pažymėjimas geodeziniais ženklais
+## 3 straipsnis. Ribų pažymėjimas geodeziniais ženklais
 
 Įpareigoti Kauno miesto savivaldybę per metus nuo šio įstatymo įsigaliojimo pažymėti Kauno miesto savivaldybės teritorijos administracines ribas geodeziniais ženklais.
 
-\#### 4 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsako pripažinimo netekusiu galios
+## 4 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsako pripažinimo netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1984 m. kovo 28 d. įsaką Nr. 3850 „Dėl Kauno miesto ribų nustatymo“.
 

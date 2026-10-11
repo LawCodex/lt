@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F5232662ECCF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F5232662ECCF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 ir 9 straipsnių papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2000, Nr. [45-1297](https://www.e-tar.lt/portal/lt/legalAct/TAR.36D1D62CBACC))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies papildymas
+## 1 straipsnis. 5 straipsnio 1 dalies papildymas
 
 Papildyti 5 straipsnio 1 dalį 27 punktu:
 
 „27) tyrimo poligrafu išvada ir tyrimo metu padaryti garso ir (ar) vaizdo įrašai.“
 
-\#### 2 straipsnis. 9 straipsnio 3 dalies papildymas
+## 2 straipsnis. 9 straipsnio 3 dalies papildymas
 
 9 straipsnio 3 dalies antrajame sakinyje po žodžio „prireikus“ įrašyti žodžius „jei šis asmuo sutinka, patikrinti poligrafu arba“ ir šią dalį išdėstyti taip:
 

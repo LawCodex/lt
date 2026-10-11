@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D6AF37995FCA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D6AF37995FCA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo IV skyriaus pavadinimo ir 15 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1995, Nr. [59-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D); 1996, Nr. [35-871](https://www.e-tar.lt/portal/lt/legalAct/TAR.33B28FE8DE03); 2000, Nr. [83-2509](https://www.e-tar.lt/portal/lt/legalAct/TAR.0940C79BFBA0))
 
-\#### 1 straipsnis. IV skyriaus pavadinimo pakeitimas
+## 1 straipsnis. IV skyriaus pavadinimo pakeitimas
 
 Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
 „MOKESČIŲ, MUITŲ, VALSTYBĖS RINKLIAVOS, KITŲ ĮMOKŲ, VALIUTINĖSIR FINANSINĖS SĄLYGOS LAISVOJOJE EKONOMINĖJE ZONOJE“.
 
-\#### 2 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 2 straipsnis. 15 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip:
 

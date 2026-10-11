@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.93CE20E820CA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.93CE20E820CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 3, 6, 7, 8, 9, 10, 17, 18, 19, 22 straipsnių bei priedo pakeitimo ir papildymo ir 24 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E); 2002, Nr. [112-4967](https://www.e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8), Nr. [123-5548](https://www.e-tar.lt/portal/lt/legalAct/TAR.25A3A951B261); 2003, Nr. [61-2771](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2C08FB23CAB), Nr. [73-3347](https://www.e-tar.lt/portal/lt/legalAct/TAR.003C43F3CE8D), Nr. [74-3427](https://www.e-tar.lt/portal/lt/legalAct/TAR.CFC90490B19E), Nr. [123-5586](https://www.e-tar.lt/portal/lt/legalAct/TAR.146094DDC821); 2007, Nr. [68-2654](https://www.e-tar.lt/portal/lt/legalAct/TAR.2341757E0199))
 
-\#### 1 straipsnis. 2 straipsnio 5, 17 ir 22 dalių pakeitimas, papildymas 25 dalimi ir 3, 4, 20 dalių pripažinimas netekusiomis galios
+## 1 straipsnis. 2 straipsnio 5, 17 ir 22 dalių pakeitimas, papildymas 25 dalimi ir 3, 4, 20 dalių pripažinimas netekusiomis galios
 
 1. 2 straipsnio 3 dalį pripažinti netekusia galios.
 
@@ -48,7 +48,7 @@ Vilnius
 
 „25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos vartojamos Įmonių finansinės atskaitomybės įstatyme, Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose.“
 
-\#### 2 straipsnis. 3 straipsnio 2, 3, 4, 5, 6 ir 7 dalių pakeitimas ir papildymas 8 dalimi
+## 2 straipsnis. 3 straipsnio 2, 3, 4, 5, 6 ir 7 dalių pakeitimas ir papildymas 8 dalimi
 
 Pakeisti 3 straipsnio 2, 3, 4, 5, 6, 7 dalis, papildyti 8 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 3 straipsnio 2, 3, 4, 5, 6, 7 dalis, papildyti 8 dalimi ir visą straip
 
 8. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartų paaiškinimus teikia ir apskaitos tvarką taikantiems šiuos standartus viešojo sektoriaus subjektams nustato Finansų ministerija.“
 
-\#### 3 straipsnis. 6 straipsnio pavadinimo ir 1, 5 dalių pakeitimas ir straipsnio papildymas 6, 7 dalimis
+## 3 straipsnis. 6 straipsnio pavadinimo ir 1, 5 dalių pakeitimas ir straipsnio papildymas 6, 7 dalimis
 
 1. 6 straipsnio pavadinime išbraukti žodį „sistemos“ ir pavadinimą išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 3 straipsnio 2, 3, 4, 5, 6, 7 dalis, papildyti 8 dalimi ir visą straip
 
 „7. Ilgalaikio turto nusidėvėjimo minimalius ir maksimalius ekonominius normatyvus viešojo sektoriaus subjektams, išskyrus įmones, priskiriamas viešojo sektoriaus subjektams, ir Lietuvos banką, nustato Vyriausybė.“
 
-\#### 4 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 3 straipsnio 2, 3, 4, 5, 6, 7 dalis, papildyti 8 dalimi ir visą straip
 
 „2. Viešojo sektoriaus subjektams, išskyrus įmones, priskiriamas viešojo sektoriaus subjektams, ir Lietuvos banką, privalomąjį bendrąjį sąskaitų planą, kitiems pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims pavyzdinį sąskaitų planą rengia, tvirtina ir „Valstybės žiniose“ skelbia Finansų ministerija.“
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 Valdymo (vidaus) apskaitą ūkio subjektai pasirenka savarankiškai.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -120,13 +120,13 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 2. Ūkio subjekto vadovas turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į konkrečias sąlygas, veiklos pobūdį ir vadovaudamasis arba verslo apskaitos standartais, arba tarptautiniais apskaitos standartais, arba viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais, arba kitais teisės aktais.“
 
-\#### 7 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Biudžetinių įstaigų apskaita tvarkoma šio straipsnio 1 dalies 1 punkte nustatyta tvarka arba centralizuotai.“
 
-\#### 8 straipsnis. 17 straipsnio pakeitimas
+## 8 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -134,13 +134,13 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Finansinės ataskaitos sudaromos pagal sąskaitų duomenis Įmonių finansinės atskaitomybės įstatymo, Viešojo sektoriaus atskaitomybės įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 9 straipsnis. 18 straipsnio 4 dalies pakeitimas
+## 9 straipsnis. 18 straipsnio 4 dalies pakeitimas
 
 18 straipsnio 4 dalyje vietoj žodžių „metinės finansinės atskaitomybės“ įrašyti žodžius „metinių finansinių ataskaitų“ ir šią dalį išdėstyti taip:
 
 „4. Klaidos apskaitos registruose, pastebėtos iki metinių finansinių ataskaitų sudarymo ir patvirtinimo, gali būti taisomos perbraukiant klaidingą tekstą ir skaičių taip, kad būtų galima juos perskaityti, ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę pažymą. Šalia ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir nurodoma taisymo data. Klaidos apskaitos registruose, pastebėtos po metinių finansinių ataskaitų sudarymo ir patvirtinimo, taisomos tik surašant buhalterinę pažymą.“
 
-\#### 10 straipsnis. 19 straipsnio pavadinimo, 1, 2, 4 ir 5 dalių pakeitimas
+## 10 straipsnis. 19 straipsnio pavadinimo, 1, 2, 4 ir 5 dalių pakeitimas
 
 Pakeisti 19 straipsnio pavadinimą, 1, 2, 4, 5 dalis ir visą straipsnį išdėstyti taip:
 
@@ -156,7 +156,7 @@ Pakeisti 19 straipsnio pavadinimą, 1, 2, 4, 5 dalis ir visą straipsnį išdės
 
 5. Ūkio subjektų, perduodančių apskaitos dokumentus valstybės archyvui, finansinės ataskaitos saugomos nuolat, o ūkio subjektų, neperduodančių dokumentų valstybės archyvui, finansinės ataskaitos saugomos 15 metų.“
 
-\#### 11 straipsnis. 22 straipsnio pakeitimas
+## 11 straipsnis. 22 straipsnio pakeitimas
 
 22 straipsnyje vietoj žodžių „finansinėje atskaitomybėje“ įrašyti žodžius „finansinėse ataskaitose“ ir visą straipsnį išdėstyti taip:
 
@@ -164,11 +164,11 @@ Pakeisti 19 straipsnio pavadinimą, 1, 2, 4, 5 dalis ir visą straipsnį išdės
 
 Apskaitos informacija, kuri nenurodoma finansinėse ataskaitose ir metiniame pranešime arba veiklos ataskaitoje, neskelbiama.“
 
-\#### 12 straipsnis. 24 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 24 straipsnio pripažinimas netekusiu galios
 
 24 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. Įstatymo priedo pakeitimas
+## 13 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -186,13 +186,13 @@ priedas
 
 3. 2003 m. rugsėjo 29 d. Komisijos reglamentas (EB) Nr. 1725/2003, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 4).“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas
+## 14 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 2 straipsnyje išdėstyto Buhalterinės apskaitos įstatymo 3 straipsnio 8 dalį, šio įstatymo 3 straipsnio 4, 5 dalis ir 4 straipsnio 2 dalį, įsigalioja 2008 m. rugsėjo 1 d.
 
 2. Šio įstatymo 2 straipsnyje išdėstyto Buhalterinės apskaitos įstatymo 3 straipsnio 8 dalis, šio įstatymo 3 straipsnio 4, 5 dalys ir 4 straipsnio 2 dalis įsigalioja nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 
-\#### 15 straipsnis. Pasiūlymai Vyriausybei arba jos įgaliotai institucijai ir Finansų ministerijai
+## 15 straipsnis. Pasiūlymai Vyriausybei arba jos įgaliotai institucijai ir Finansų ministerijai
 
 1. Vyriausybė arba jos įgaliota institucija iki 2008 m. rugsėjo 1 d. užtikrina viešosios įstaigos Lietuvos Respublikos apskaitos instituto pavadinimo pakeitimą į Audito ir apskaitos tarnybą.
 

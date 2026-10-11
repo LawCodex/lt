@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.502659EE6565"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.502659EE6565.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 2, 6, 7, 8, 9, 10 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 7-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [85-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518); 2005, Nr. [86-3206](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FBA9263E5AE); 2008, Nr. [71-2699](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B2AE00143EA); 2011, Nr. [138-6526](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C297D07FCEC))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 12. Buvusias 2 straipsnio 19, 20, 21 ir 22 dalis laikyti atitinkamai 25, 26, 27 ir 28 dalimis.
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 Ūkinės veiklos vykdytojai, nurodyti šio įstatymo 2 straipsnio 26 dalies 1 punkte, pakuočių ir pakuočių atliekų apskaitą tvarko ir pagal šios apskaitos duomenis atsiskaito Vyriausybės įgaliotos institucijos nustatyta tvarka.“
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 8. Gamintojai ir importuotojai Vyriausybės nustatyta tvarka privalo Aplinkos ministerijos įgaliotai institucijai teikti duomenis apie Lietuvos Respublikos vidaus rinkai tiekiamas pakuotes.“
 
-\#### 4 straipsnis. Įstatymo papildymas 71 straipsniu
+## 4 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1 straipsniu:
 
@@ -122,11 +122,11 @@ Papildyti Įstatymą 7^1 straipsniu:
 
 Gamintojai ir importuotojai, per ataskaitinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos atsiskaityti ir nuo šio įstatymo 7 straipsnio 3 dalyje nustatytos pareigos mokėti mokestį už aplinkos teršimą pakuočių atliekomis.“
 
-\#### 5 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
+## 5 straipsnis. 8 straipsnio 2 dalies pripažinimas netekusia galios
 
 8 straipsnio 2 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 2. Vartotojai ir komunalinių atliekų sraute susidarančių pakuočių atliekų turėtojai privalo naudotis organizuotomis pakuočių ir pakuočių atliekų tvarkymo sistemomis.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 9. Organizacijos atstovai į kontrolės tarybą skiriami organizacijos valdymo organų sprendimu. Organizacijos valdymo organas atstovus į kontrolės tarybą paskiria ne ilgesnei negu trejų metų kadencijai, užtikrindamas galimybę kiekvienam organizacijos dalyviui tapti kontrolės tarybos nariu. Tas pats asmuo negali eiti pareigų dvi kadencijas iš eilės.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 3 ir 7 straipsniai įsigalioja 2013 m. sausio 1 d.
 

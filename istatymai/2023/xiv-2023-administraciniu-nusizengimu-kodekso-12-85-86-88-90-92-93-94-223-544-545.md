@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fec78a900a9c11ee9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FEC78A900A9C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 85, 86, 88, 90, 92, 93, 94, 223, 544, 545 straipsnių, XI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 85-1 straipsniu įstatymo Nr. XIV-1382 11 straipsnio pakeitimo įstatymas
@@ -59,5 +59,3 @@ užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų orga
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_5fe622ed1211493bb3838a0ea3d72e48_end

@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b7522400882311ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B75224008823.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymas
@@ -416,5 +416,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
 
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymo Nr. XIV-1770 2 straipsnio pakeitimo įstatymas
-
-part_b922050159584908bca43ec4deec3474_end

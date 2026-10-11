@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7390D2DE95E0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7390D2DE95E0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo 18(1) straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1656](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8); 1999, Nr. [102-2918](https://www.e-tar.lt/portal/lt/legalAct/TAR.36D3D6622CFA))
 
-\#### 1 straipsnis. 181 straipsnio 1 dalies 2 ir 3 punktų pakeitimas ir papildymas
+## 1 straipsnis. 181 straipsnio 1 dalies 2 ir 3 punktų pakeitimas ir papildymas
 
 1. 181 straipsnio 1 dalies 2 punkte vietoj žodžių „dėl bankroto“ įrašyti žodžius „ir (ar) išregistruota, kai nėra jų teisių ir pareigų perėmėjo“ ir šį punktą išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bd35d8b256fe11f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BD35D8B256FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ RINKLIAVŲ ĮSTATYMO NR. VIII-1725 11 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 11 straipsnio pakeitimas
+## 1 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „4) leidimo organizuoti komercinius renginius savivaldybei priklausančiose ar savivaldybės valdytojo teise valdomose viešojo naudojimo teritorijose, vietinės reikšmės keliuose ir gatvėse, atitverti juos ar jų dalį arba apriboti eismą juose išdavimą;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. rugpjūčio 1 d.
 

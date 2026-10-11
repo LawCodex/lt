@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.296722248400"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.296722248400.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 14, 15, 21, 24, 25 straipsnių ir priedo pakeitimo bei papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [65-2635](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B); 2004, Nr. [54-1829](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8159B839774); 2005, Nr. [18-578](https://www.e-tar.lt/portal/lt/legalAct/TAR.E50815397CBD))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje vietoj žodžių „investicinių fondų ar investicinių kintamojo kapitalo bendrovių valdymo įmonių“ įrašyti žodžius „valdymo įmonių, turinčių teisę teikti investicines paslaugas“ ir šią dalį išdėstyti taip:
 
 „1. Šis Įstatymas nustato indėlių, laikomų Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtuose bankuose (toliau – bankai), Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose (toliau – bankų filialai) bei Centrinėje kredito unijoje ir kredito unijose (toliau – kredito unijos), draudimo tvarką ir šių indėlių draudimo išmokų dydį bei bankų, finansų maklerio įmonių ir valdymo įmonių, turinčių teisę teikti investicines paslaugas (toliau – įmonės), taip pat bankų filialuose, užsienio finansų maklerio įmonių ir valdymo įmonių filialuose (toliau – įmonių filialai) prisiimtų įsipareigojimų investuotojams draudimo tvarką ir draudimo išmokų dydį.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 18. Vertybiniai popieriai – finansinės priemonės, nurodytos Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalyje.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. 3 straipsnio 1 dalyje po žodžio „narių“ įrašyti žodžius „ir Europos ekonominės erdvės valstybių (toliau – Europos valstybių)“ ir šią dalį išdėstyti taip:
 
@@ -110,13 +110,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 9) kolektyvinio investavimo subjektų.“
 
-\#### 4 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 4 straipsnio 1 dalyje išbraukti žodžius „Sąjungos“, „narės“ ir šią dalį išdėstyti taip:
 
 „1. Jeigu Europos valstybės jurisdikcijai nepriklausančio užsienio banko ar įmonės Lietuvos Respublikoje įsteigtame filiale laikomi indėliai ar prisiimti įsipareigojimai investuotojams yra apdraudžiami (kompensuojami) arba kitaip užtikrinamas jų saugumas pagal užsienio valstybės teisės aktus, tačiau draudimo įmonės taryba nustato, kad šios indėlių ar įsipareigojimų investuotojams apdraudimo (kompensavimo) arba kitokios saugumo užtikrinimo sąlygos yra blogesnės, negu nustatyta šiame Įstatyme, tai filialą įsteigęs užsienio bankas ar įmonė privalo draudimo įmonės tarybos nustatyta ir „Valstybės žiniose“ paskelbta tvarka papildomai apdrausti filiale laikomus indėlininkų indėlius, užsienio banko ar įmonės filiale prisiimtus įsipareigojimus investuotojams. Europos valstybės jurisdikcijai priklausantis užsienio bankas ar įmonė, įsteigę filialą Lietuvos Respublikoje, šiuo atveju turi teisę papildomai apdrausti filiale laikomus indėlius ir filiale prisiimtus įsipareigojimus investuotojams.“
 
-\#### 5 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
+## 5 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 5 straipsnio 1 dalyje vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“, 4 punkte vietoj skaičiaus „20 000“ įrašyti skaičių „22 000“ ir šią dalį išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 4) 22 000 eurų atitinkanti suma litais – nuo 2008 m. sausio 1 d.“
 
-\#### 6 straipsnis. 7 straipsnio pakeitimas
+## 6 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -152,13 +152,13 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 2. Įmonės, vykdančios pavedimus klientų sąskaita, papildomai moka metinės įmokos dalį – 0,01 procento per praėjusius kalendorinius metus įvykdytų pavedimų bendros vertės, tačiau ši dalis turi būti ne mažesnė kaip 1 000 litų ir ne didesnė kaip 10 000 litų.“
 
-\#### 7 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 8 straipsnio 3 dalyje vietoj žodžio „draudiminis“ įrašyti žodį „draudžiamasis“, vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir šią dalį išdėstyti taip:
 
 „3. Nuo tos dienos, kurią draudėjui įvyksta draudžiamasis įvykis arba draudimo įmonės taryba nutraukia draudėjo indėlių draudimą, draudimo įmokos nebemokamos. Šiuo atveju iki draudžiamojo įvykio dienos arba iki draudimo nutraukimo dienos nesumokėtos draudimo įmokos dalis laikoma draudėjo įsiskolinimu, o delspinigiai, nustatyti šio straipsnio 2 dalyje, nėra skaičiuojami nuo draudžiamojo įvykio dienos arba draudimo nutraukimo dienos.“
 
-\#### 8 straipsnis. 9 straipsnio pakeitimas
+## 8 straipsnis. 9 straipsnio pakeitimas
 
 9 straipsnio 1 dalyje vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“, 3 dalies 5 punkte vietoj skaičiaus „20 000“ įrašyti skaičių „22 000“, 4 ir 5 dalyse vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir visą straipsnį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 5. Draudimo išmokos investuotojams dydis skaičiuojamas pagal investuotojo vertybinių popierių rinkos vertę, buvusią draudžiamojo įvykio dieną.“
 
-\#### 9 straipsnis. 10 straipsnio pakeitimas
+## 9 straipsnis. 10 straipsnio pakeitimas
 
 10 straipsnio 1, 2 ir 3 dalyse vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir visą straipsnį išdėstyti taip:
 
@@ -200,19 +200,19 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 5. Ginčus dėl indėlininko ar investuotojo teisės į draudimo išmoką sprendžia teismas.“
 
-\#### 10 straipsnis. 12 straipsnio 1 dalies 2 punkto pakeitimas
+## 10 straipsnis. 12 straipsnio 1 dalies 2 punkto pakeitimas
 
 12 straipsnio 1 dalies 2 punkte vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir šį punktą išdėstyti taip:
 
 „2) indėlininkams ar investuotojams, kurių indėliai ar įsipareigojimai investuotojams pagal sutartis ar kitokiu būdu (išskyrus paveldėjimą) yra perleisti po draudžiamojo įvykio dienos;“.
 
-\#### 11 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu draudėjo priežiūros institucija atšaukia draudėjui teisę laikinai ar visam laikui priimti indėlius, tokiam draudėjui draudimo įmonės taryba be išankstinio įspėjimo atitinkamai laikinai ar visam laikui nutraukia indėlių draudimą. Jeigu priežiūros institucija panaikina laikinai ar visam laikui draudėjui teisę teikti investicines paslaugas, tokio draudėjo įsipareigojimų investuotojams draudimas nutraukiamas atitinkamai laikinai ar visam laikui.“
 
-\#### 12 straipsnis. 15 straipsnio pakeitimas
+## 12 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnyje vietoj žodžio „draudiminis“ įrašyti žodį „draudžiamasis“, vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir šį straipsnį išdėstyti taip:
 
@@ -220,25 +220,25 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 Jeigu draudėjui, kuriam buvo nutrauktas draudimas, įvyksta draudžiamasis įvykis, draudimo įmonė išmoka draudimo išmokas tik už tuos indėlius bei įsipareigojimus, kurie buvo prisiimti iki sprendimo apie draudimo nutraukimą įsigaliojimo ir nebuvo grąžinti ar įvykdyti iki draudžiamojo įvykio dienos.“
 
-\#### 13 straipsnis. 21 straipsnio 5 dalies 5 punkto pakeitimas
+## 13 straipsnis. 21 straipsnio 5 dalies 5 punkto pakeitimas
 
 Pakeisti 21 straipsnio 5 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) tvirtina draudimo įmonės nuosavo kapitalo lėšų ir administruojamų fondų investavimo politiką;“.
 
-\#### 14 straipsnis. 24 straipsnio 1 dalies pakeitimas
+## 14 straipsnis. 24 straipsnio 1 dalies pakeitimas
 
 24 straipsnio 1 dalyje po žodžių „perkainojimo rezervas“ įrašyti žodį „(rezultatas)“ ir šią dalį išdėstyti taip:
 
 „1. Draudimo įmonės nuosavą kapitalą sudaro draudimo įmonės savininko kapitalas, privalomasis rezervas, perkainojimo rezervas (rezultatas) ir nepaskirstytas einamųjų metų pelnas (nuostoliai). Draudimo įmonės savininko kapitalas yra nurodomas draudimo įmonės įstatuose.“
 
-\#### 15 straipsnis. 25 straipsnio 3 dalies pakeitimas
+## 15 straipsnis. 25 straipsnio 3 dalies pakeitimas
 
 25 straipsnio 3 dalyje vietoj žodžio „išlaidas“ įrašyti žodį „sąnaudas“, po žodžio „tvirtindama“ vietoj žodžio „įmonės“ įrašyti žodžius „Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo“ ir šią dalį išdėstyti taip:
 
 „3. Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo sąnaudų dydį, įvertinusi kiekvieno iš fondų laukiamas administravimo sąnaudas ir fondų dydžius, nustato draudimo įmonės taryba, tvirtindama Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo sąnaudų sąmatą.“
 
-\#### 16 straipsnis. Įstatymo priedo pakeitimas
+## 16 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

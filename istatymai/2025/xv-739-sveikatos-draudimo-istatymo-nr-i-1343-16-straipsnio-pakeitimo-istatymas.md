@@ -10,7 +10,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/252b7fb2eac511f09cfce49e7aeb76fe"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/252b7fb2eac511f09cfce49e7aeb76fe.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 16 straipsnio pakeitimo įstatymas

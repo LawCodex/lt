@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.899BF6B46D69"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.899BF6B46D69.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 2 ir 11 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [101-2300](https://www.e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8); 1998, Nr. [53-1448](https://www.e-tar.lt/portal/lt/legalAct/TAR.C44A380BE347))
 
-\#### 1 straipsnis. 2 straipsnio papildymas
+## 1 straipsnis. 2 straipsnio papildymas
 
 1. Papildyti 2 straipsnį nauja 24 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusias 24, 25 ir 26 dalis laikyti atitinkamai 25, 26 ir 27 dalimis.
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 11 straipsnio 1 dalyje vietoj žodžių „Susisiekimo ministerija“ įrašyti žodžius „Susisiekimo ministerijos įgaliota institucija“, papildyti straipsnį nauja 2 dalimi, buvusias 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis, 3 dalies pirmajame sakinyje vietoj žodžio „radistu“ įrašyti žodį „radiooperatoriumi“, po žodžio „turintiems“ įrašyti žodį „galiojančius“, antrajame sakinyje po žodžių „Susisiekimo ministerija“ įrašyti žodžius „vadovaudamasi 1978 m. tarptautine jūrininkų mokymo, diplomavimo ir budėjimo normų konvencija (1995 m. jos pataisomis)“ ir visą straipsnį išdėstyti taip:
 

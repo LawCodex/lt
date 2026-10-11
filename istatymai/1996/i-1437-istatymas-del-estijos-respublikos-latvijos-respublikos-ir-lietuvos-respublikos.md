@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CD8663B304C8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CD8663B304C8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos sutarties dėl laisvosios prekybos žemės ūkio prekėmis ratifikavimo
@@ -26,7 +26,7 @@ DĖL ESTIJOS RESPUBLIKOS, LATVIJOS RESPUBLIKOS IR LIETUVOS RESPUBLIKOS SUTARTIES
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 1 d. dekretą Nr.981, ratifikuoja Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos sutartį dėl laisvosios prekybos žemės ūkio prekėmis, pasirašytą 1996 m. birželio 16 d. Vilniuje.
 

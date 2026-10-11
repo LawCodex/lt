@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4d92853055cd11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4D92853055CD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymo Nr. XIV-3117 1 ir 2 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 4 straipsnio 6 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) 10 procentų – į Nacionalinės žemės tarnybos sąskaitą valstybinės žemės ūkio paskirties žemės sklypams formuoti apleistuose valstybinės žemės plotuose ar Žemės įstatymo 22 straipsnio 2dalies 8 punkte nurodytais atvejais žemės ūkio paskirties žemės sklypų servitutams nustatyti, ar žemės ūkio paskirties žemėje teisėtai pastatytiems statiniams ir (ar) įrenginiams išpirkti Vyriausybės nustatyta tvarka, atlyginant jų rinkos vertę, apskaičiuotą taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, ir 10 procentų – į valstybės įmonėsŽemės ūkio duomenų centro sąskaitą valstybei nuosavybės teise priklausančių melioracijos statinių ir (ar) sistemų rekonstravimo ir projektavimo darbams atlikti ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, įskaitant privačios žemės įsigijimą valstybės nuosavybėn pasinaudojus šio įstatymo 5 straipsnio 2 dalyje nustatyta pirmumo teise;“.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 

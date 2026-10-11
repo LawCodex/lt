@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.01FE54C6278F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.01FE54C6278F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo 32 straipsnio papildymo ir pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [34-620](https://www.e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343); 1995, Nr. [53-1294](https://www.e-tar.lt/portal/lt/legalAct/TAR.7847E47234C5); 1997, Nr. [66-1598](https://www.e-tar.lt/portal/lt/legalAct/TAR.CB80663F7E52))
 
-\#### 1 straipsnis. 32 straipsnio 1, 4, 6, 7, 8 dalių papildymas ir pakeitimas
+## 1 straipsnis. 32 straipsnio 1, 4, 6, 7, 8 dalių papildymas ir pakeitimas
 
 1. Papildyti 32 straipsnio 1 dalį 9 punktu:
 

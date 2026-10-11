@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5731B4156027"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5731B4156027.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 5 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1993, Nr. [28-640](https://www.e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2); 1996, Nr. [35-867](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC9299319CC))
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 5 straipsnyje vietoj žodžių „Užsienio kapitalo investicijų Lietuvos Respublikoje“ įrašyti žodžius „Lietuvos Respublikos investicijų“ ir straipsnį išdėstyti taip:
 

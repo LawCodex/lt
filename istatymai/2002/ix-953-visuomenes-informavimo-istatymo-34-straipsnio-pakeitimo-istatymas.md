@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.81565E539CBC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.81565E539CBC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 34 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2000, Nr. [75-2272](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77))
 
-\#### 1 straipsnis. 34 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 34 straipsnio 1 dalies pakeitimas
 
 34 straipsnio 1 dalyje išbraukti žodžius „prie Lietuvos Respublikos Seimo“ ir šią dalį išdėstyti taip:
 

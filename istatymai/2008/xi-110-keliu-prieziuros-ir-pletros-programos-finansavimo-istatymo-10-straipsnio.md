@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DAFABDEBACBE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DAFABDEBACBE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymo pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [140-5761](https://www.e-tar.lt/portal/lt/legalAct/TAR.749F5C4CDB0A))
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 10 straipsnio pakeitimo įstatymą pripažinti netekusiu galios.
 

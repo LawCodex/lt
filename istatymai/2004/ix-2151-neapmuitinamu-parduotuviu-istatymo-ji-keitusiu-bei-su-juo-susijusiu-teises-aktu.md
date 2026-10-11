@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AA12DDC170C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA12DDC170C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas
@@ -26,7 +26,7 @@ NEAPMUITINAMŲ PARDUOTUVIŲ ĮSTATYMO, JĮ KEITUSIŲ BEI SU JUO SUSIJUSIŲ TEIS�
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimas netekusiais galios
+## 1 straipsnis. Lietuvos Respublikos neapmuitinamų parduotuvių įstatymo, jį keitusių bei su juo susijusių teisės aktų pripažinimas netekusiais galios
 
 Įsigaliojus šiam Įstatymui, netenka galios šie teisės aktai:
 
@@ -40,13 +40,13 @@ Vilnius
 
 5) Lietuvos Respublikos Seimo nutarimas „Dėl Neapmuitinamų parduotuvių įstatymo įgyvendinimo“ (Žin., 1996, Nr. 116-2698).
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 1. Neapmuitinamos parduotuvės, įsteigtos vadovaujantis Neapmuitinamų parduotuvių įstatymu bei jo taikymą reglamentuojančiais teisės aktais tarptautiniuose oro ar jūrų uostuose ir pradėjusios veiklą iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d., atlikus jose esančių prekių inventorizaciją ir prekių likučiams teisės aktų nustatyta tvarka įforminus muitinės sankcionuotus veiksmus, gali toliau tęsti veiklą teisės aktų nustatyta tvarka kaip neapmuitinamos parduotuvės.
 
 2. Neapmuitinamos parduotuvės, įsteigtos vadovaujantis Neapmuitinamų parduotuvių įstatymu bei jo taikymą reglamentuojančiais teisės aktais valstybės sienos sausumos perėjimo punktuose ir pradėjusios veiklą iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d., atlikus jose esančių prekių inventorizaciją ir prekių likučiams teisės aktų nustatyta tvarka įforminus muitinės sankcionuotus veiksmus, gali toliau veikti kaip parduotuvės, teisės aktų nustatyta tvarka vykdančios mažmeninę prekybą laisvoje apyvartoje esančiomis prekėmis.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

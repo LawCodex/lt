@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C00CF698563C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C00CF698563C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 22 straipsnio pakeitimo ir VI dalies pripažinimo netekusia galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A))
 
-\#### 1 straipsnis. 22 straipsnio pakeitimas
+## 1 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 2. Žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos sąlygas bei tvarką nustato Žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymas.“
 
-\#### 2 straipsnis. VI dalies pripažinimas netekusia galios
+## 2 straipsnis. VI dalies pripažinimas netekusia galios
 
 VI dalį pripažinti netekusia galios.
 

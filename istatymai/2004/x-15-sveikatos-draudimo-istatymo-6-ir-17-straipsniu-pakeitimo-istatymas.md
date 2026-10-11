@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5A9D53671BAE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5A9D53671BAE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6 ir 17 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239))
 
-\#### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 6 straipsnio 4 dalyje sakinyje iki dvitaškio vietoj skaičių ir žodžių „1, 2, 3, 4 ir 5 dalis“ įrašyti skaičius ir žodžius „1, 2, 3 ir 4 dalis“ ir šią dalį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Vilnius
 
 16) asmenys, kuriems įstatymų nustatyta tvarka yra pripažintas Afganistano karo dalyvių teisinis statusas.“
 
-\#### 2 straipsnis. 17 straipsnio 5 dalies pakeitimas
+## 2 straipsnis. 17 straipsnio 5 dalies pakeitimas
 
 Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:
 
 2) asmeninio ūkio naudotojai (iki 3 ha žemės naudmenų) už save ir už dirbančius ūkyje pilnamečius šeimos narius moka po 1,5 procento minimalios mėnesinės algos dydžio privalomojo sveikatos draudimo įmokas.“
 
-\#### 3 straipsnis. Atleidimas nuo nesumokėtų privalomojo sveikatos draudimo įmokų ir baudų bei delspinigių
+## 3 straipsnis. Atleidimas nuo nesumokėtų privalomojo sveikatos draudimo įmokų ir baudų bei delspinigių
 
 1. Ūkininkai, žemės naudotojai ir kiti asmeninio ūkio naudotojai, kurie per laikotarpį nuo 2003 m. sausio 1 d. iki šio įstatymo įsigaliojimo buvo apdrausti privalomuoju sveikatos draudimu, nuo to laikotarpio nesumokėtų privalomojo sveikatos draudimo įmokų bei su šiomis įmokomis susijusių baudų ir delspinigių mokėjimo atleidžiami.
 

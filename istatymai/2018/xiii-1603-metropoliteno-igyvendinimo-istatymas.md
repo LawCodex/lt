@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/855cbb50e42511e89acab3ff12d77081"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.855CBB50E425.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas
@@ -42,15 +42,15 @@ atsižvelgdamas į įvairių visuomenės sluoksnių kelis dešimtmečius vykusi�
 
 priima šį Lietuvos Respublikos metropoliteno įgyvendinimo įstatymą.
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir tikslas
+### 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 1. Šio įstatymo paskirtis ir tikslas – sukurti palankias teisines ir organizacines sąlygas, padedančias Lietuvos miestuose įgyvendinti naujas visuomeninio transporto sistemas – metropolitenus.
 
 2. Šiame įstatyme nustatytas metropoliteno sistemų planavimas, metropoliteno sistemos projekto įgyvendinimas, Lietuvos Respublikos Vyriausybės, savivaldybių institucijų, kuriose įgyvendinami metropolitenų projektai, investuotojo ir metropolitenų projektų įgyvendinimo bendrovių tarpusavio santykių bendrieji principai.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Metropolitenas – atskiro eismo antžeminė, požeminė ar estakadinė bėginio transporto sistema miestų gyventojams aptarnauti.
 
@@ -66,15 +66,15 @@ priima šį Lietuvos Respublikos metropoliteno įgyvendinimo įstatymą.
 
 7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos žemės gelmių įstatyme.
 
-\### ANTRASIS SKIRSNIS. METROPOLITENO PROJEKTO ĮGYVENDINIMAS
+ANTRASIS SKIRSNIS. METROPOLITENO PROJEKTO ĮGYVENDINIMAS
 
-\#### 3 straipsnis. Metropoliteno sistemų planavimas
+### 3 straipsnis. Metropoliteno sistemų planavimas
 
 1. Savivaldybės, nusprendusios įgyvendinti metropoliteno projektą, yra atsakingos už šio projekto įgyvendinimo organizavimą ir kontrolę.
 
 2. Savivaldybės, kurios apsisprendė dėl metropoliteno poreikio, organizuoja visus metropolitenui įrengti reikalingus teritorijų planavimo, sprendinių parengimo ir jų priėmimo darbus Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos statybos įstatyme nustatyta tvarka.
 
-\#### 4 straipsnis. Planuojamų metropoliteno sistemų įgyvendinimo organizavimas
+### 4 straipsnis. Planuojamų metropoliteno sistemų įgyvendinimo organizavimas
 
 1. Savivaldybės institucijos organizuoja savivaldybės teritorijoje planuojamos metropoliteno sistemos statybą, pasirinkdamos metropoliteno projekto įgyvendinimo ir dalyvavimo metropoliteno projekte būdą.
 
@@ -82,7 +82,7 @@ priima šį Lietuvos Respublikos metropoliteno įgyvendinimo įstatymą.
 
 3. Savivaldybės institucijos, įvertinusios, kokius finansinius įsipareigojimus savivaldybė bus pajėgi prisiimti, priima sprendimą tiek dėl dalyvavimo metropoliteno projekte, tiek dėl metropoliteno projekto įgyvendinimo būdo.
 
-\#### 5 straipsnis. Metropoliteno projekto įgyvendinimas
+### 5 straipsnis. Metropoliteno projekto įgyvendinimas
 
 1. Metropoliteno projektas įgyvendinamas pagal pasirinktą jo įgyvendinimo būdą atitinkamuose teisės aktuose nustatyta tvarka:
 
@@ -94,7 +94,7 @@ priima šį Lietuvos Respublikos metropoliteno įgyvendinimo įstatymą.
 
 2. Projekto įgyvendinimo bendrovės dalyviai patys pasirenka, kaip finansuoti savo investicijas, įskaitant skolinimąsi, akcijų išleidimą ir (arba) kitus įstatymų nustatytus būdus. Be Seimo sutikimo projektui įgyvendinti neskiriamos valstybės biudžeto ir Europos Sąjungos lėšos, gautos bendra tvarka. Vyriausybė arba jos įgaliota institucija gali dalyvauti projekte, suteikdama žemę ir žemės ertmes metropoliteno transporto infrastruktūrai įrengti. Vyriausybė, jos įgaliota institucija arba savivaldybių tarybos neturi teisės įpareigoti valstybės arba savivaldybės kontroliuojamų įmonių, o valstybės arba savivaldybės įmonės neturi teisės skolinti lėšų projekto įgyvendinimo bendrovei.
 
-\#### 6 straipsnis. Metropoliteno projekto įgyvendinimas taikant koncesiją
+### 6 straipsnis. Metropoliteno projekto įgyvendinimas taikant koncesiją
 
 1. Koncesijos sutartis dėl metropoliteno projekto įgyvendinimo gali būti sudaroma Koncesijų įstatyme nustatyta tvarka ir sąlygomis. Koncesijos sutarties terminas negali būti ilgesnis už laikotarpį, per kurį koncesininkas pagrįstai gali tikėtis atgauti investicijas, reikalingas metropoliteno projektui įgyvendinti, ir būtų gauta investuoto kapitalo grąža, atsižvelgiant į investicijas, būtinas metropoliteno projektui įgyvendinti. Investicijos apima pradines investicijas ir investicijas, atliktas įgyvendinant koncesijos sutartį.
 
@@ -102,11 +102,11 @@ priima šį Lietuvos Respublikos metropoliteno įgyvendinimo įstatymą.
 
 3. Metropoliteno projektą įgyvendinant koncesijos būdu, šio įstatymo 10 straipsnyje numatyta viešųjų paslaugų teikimo sutartis nėra sudaroma, o viešųjų paslaugų teikimo sąlygos ir reikalavimai yra nustatomi koncesijos sutartyje.
 
-\#### 7 straipsnis. Metropoliteno projekto įgyvendinimas taikant institucinės viešojo ir privataus sektorių partnerystės būdą
+### 7 straipsnis. Metropoliteno projekto įgyvendinimas taikant institucinės viešojo ir privataus sektorių partnerystės būdą
 
 Metropoliteno projektą įgyvendinant institucinės viešojo ir privataus sektorių partnerystės būdu, savivaldybė gali turtą investuoti Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 22 straipsnio 4 dalyje nustatyta tvarka.
 
-\#### 8 straipsnis. Metropolitenų ribų parinkimas, žemės ir žemės gelmių suteikimas
+### 8 straipsnis. Metropolitenų ribų parinkimas, žemės ir žemės gelmių suteikimas
 
 1. Metropoliteno ribas bendrajame plane ir kituose planavimo dokumentuose nustato savivaldybės, kuriose įgyvendinamas metropoliteno projektas, Lietuvos Respublikos teritorijų planavimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
@@ -114,11 +114,9 @@ Metropoliteno projektą įgyvendinant institucinės viešojo ir privataus sektor
 
 3. Požeminės metropoliteno dalies statybai netaikomas reikalavimas statytojui valdyti žemės sklypą nuosavybės teise.
 
-\### TREČIASIS SKIRSNIS
+## TREČIASIS SKIRSNIS. metropoliteno transporto VEIKLOS REGuliavimas
 
-**metropoliteno transporto VEIKLOS REGuliavimas**
-
-\#### 9 straipsnis. Metropoliteno transporto veiklos reguliavimas, saugus metropoliteno naudojimas ir metropoliteno įmonių sertifikavimas
+### 9 straipsnis. Metropoliteno transporto veiklos reguliavimas, saugus metropoliteno naudojimas ir metropoliteno įmonių sertifikavimas
 
 1. Metropoliteno transporto viešojo administravimo, metropoliteno transporto sistemos valdytojų veiklos, valstybės pagalbos diegiant metropoliteno transportą miestuose, metropoliteno transporto sistemos valdytojų teisinį statusą, jų santykį su metropoliteno transporto sistemos savininkais ir naudotojais, visuomenės aptarnavimo įsipareigojimais, saugaus eismo užtikrinimą reglamentuoja Transporto veiklos pagrindų įstatymas ir šis įstatymas.
 
@@ -134,7 +132,7 @@ Metropoliteno projektą įgyvendinant institucinės viešojo ir privataus sektor
 
 5. Vyriausybės įgaliota institucija priima sprendimus dėl sertifikatų išdavimo metropoliteno įmonėms, šių sertifikatų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo, atnaujinimo ir pakeitimo bei prižiūri, kaip metropoliteno įmonės laikosi sertifikuojamos veiklos sąlygų, taip pat teisės aktų, reglamentuojančių metropoliteno eismo saugą, reikalavimų.
 
-\#### 10 straipsnis. Viešųjų keleivių vežimo metropoliteno transportu paslaugų teikimas
+### 10 straipsnis. Viešųjų keleivių vežimo metropoliteno transportu paslaugų teikimas
 
 1. Savivaldybės institucijos nustato viešųjų keleivių vežimo metropoliteno transportu paslaugų (toliau – viešosios paslaugos) poreikį ir organizuoja jų teikimą, sudarydamos viešųjų paslaugų teikimo sutartis.
 
@@ -144,9 +142,9 @@ Metropoliteno projektą įgyvendinant institucinės viešojo ir privataus sektor
 
 4. Keleivių ir bagažo vežimo metropoliteno transportu tarifus, sąlygas ir tvarką, taip pat metropoliteno įmonės, keleivio, bagažo siuntėjo (gavėjo) teises, pareigas ir atsakomybę, metropoliteno transportu keliaujančių neįgaliųjų arba ribotos judėsenos asmenų apsaugą ir pagalbos taisykles nustato savivaldybės, kurios teritorijoje yra metropolitenas, institucijos, vadovaudamosi Lietuvos Respublikos civiliniu kodeksu, Reglamentu (EB) Nr. 1370/2007 ir atsižvelgdamos į viešųjų paslaugų teikimo sutarčių nuostatas.
 
-\### KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2020 m. sausio 1 d.
 

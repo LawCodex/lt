@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/140318f089da11e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.140318F089DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio pakeitimo ĮSTATYMAS
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=41848); 2001, Nr. [94-3307](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=153434); 2002, Nr. [123-5527](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=197554); 2008, Nr. [81-3184](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=324513))
 
-\#### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Savivaldybės gyventojų skaičius ir šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodyti rodikliai nustatomi pagal einamųjų biudžetinių metų sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Šio straipsnio 1 dalies 1, 2, 6, 7, 8 ir 9 punktuose nurodyti rodikliai nustatomi pagal duomenis, paskelbtus praėjusių biudžetinių metų statistiką tvarkančių institucijų, įstaigų leidinių duomenų bazėse.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. kovo 1 d.
 

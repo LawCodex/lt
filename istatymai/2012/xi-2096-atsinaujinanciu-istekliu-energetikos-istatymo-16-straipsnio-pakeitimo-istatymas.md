@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E5F6C85D3D2F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E5F6C85D3D2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 16 straipsnio pakeitimo įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 (Žin., 2011, Nr. [62-2936](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291))
 
-\#### 1 straipsnis. 16 straipsnio 5 dalies 3 punkto pakeitimas
+## 1 straipsnis. 16 straipsnio 5 dalies 3 punkto pakeitimas
 
 Pakeisti 16 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) žemės sklypo, kuriame bus statoma elektrinė arba didinami gamintojo jau esamos elektrinės pajėgumai, dokumentus, patvirtinančius gamintojo teisę valdyti ir naudoti žemės sklypą nuosavybės teise ar kitais įstatymų nustatytais pagrindais. Jeigu gamintojas žemės sklypą valdo bendrosios nuosavybės teise arba kitokia ne nuosavybės teise, gamintojas pateikia ir žemės sklypo bendraturčių ar savininko sutikimą dėl elektrinės statybos tokiame žemės sklype ir jos eksploatavimo ne mažiau kaip 20 metų. Tuo atveju, kai elektros energijos gamybos įrenginius planuojama įrengti ant pastato ar jo konstrukcijos dalies, gamintojas pateikia tik pastato bendraturčių ar savininko sutikimą dėl elektrinės statybos ir jos eksploatavimo ne mažiau kaip 20 metų, o reikalavimas valdyti ir naudoti žemės sklypą nuosavybės teise ar kitais įstatymų nustatytais pagrindais šiuo atveju netaikomas;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 

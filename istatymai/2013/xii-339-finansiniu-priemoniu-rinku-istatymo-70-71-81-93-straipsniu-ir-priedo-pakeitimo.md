@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1D3F7AAD6359"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1D3F7AAD6359.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymo 70, 71, 81, 93 straipsnių ir priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [17-627](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2); 2011, Nr. [145-6818](https://www.e-tar.lt/portal/lt/legalAct/TAR.2647F9CEB215), Nr. [163-7770](https://www.e-tar.lt/portal/lt/legalAct/TAR.2776152B6C2C))
 
-\#### 1 straipsnis. 70 straipsnio 2 dalies 5 ir 6 punktų pakeitimas
+## 1 straipsnis. 70 straipsnio 2 dalies 5 ir 6 punktų pakeitimas
 
 1. Pakeisti 70 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -34,19 +34,19 @@ Vilnius
 
 „6) taiko šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas sankcijas asmenims, pažeidusiems šį įstatymą, Reglamentą (ES) Nr. 648/2012 ir priežiūros institucijos nutarimus;“.
 
-\#### 2 straipsnis. 71 straipsnio 1 dalies 6 punkto pakeitimas
+## 2 straipsnis. 71 straipsnio 1 dalies 6 punkto pakeitimas
 
 Pakeisti 71 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) reikalauti nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo, jį detalizuojančių teisės aktų ar Reglamento (ES) Nr. 648/2012nuostatas;“.
 
-\#### 3 straipsnis. 81 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 81 straipsnio 1 dalies pakeitimas
 
 Pakeisti 81 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio įstatymo, jo pagrindu priimtų teisės aktų ir Reglamento (ES) Nr. 648/2012.“
 
-\#### 4 straipsnis. 93 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 93 straipsnio pakeitimas ir papildymas
 
 1. 93 straipsnio pavadinime išbraukti žodžius „už šio įstatymo pažeidimus“ ir šio straipsnio pavadinimą išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 81 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2. Jeigu dėl šio straipsnio 1 dalies 1–8ir 12 punktuose išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar žalos dydis viršijo minėtuose punktuose nurodytų baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.“
 
-\#### 5 straipsnis. Įstatymo priedo papildymas 8 punktu
+## 5 straipsnis. Įstatymo priedo papildymas 8 punktu
 
 Papildyti Įstatymo priedą 8 punktu:
 

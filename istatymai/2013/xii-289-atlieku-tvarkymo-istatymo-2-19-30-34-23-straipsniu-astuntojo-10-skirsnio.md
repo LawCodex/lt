@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0883A9A6E1E7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0883A9A6E1E7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 19, 30, 34-23 straipsnių, aštuntojo-10 skirsnio pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1726](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1); 2002, Nr. [72-3016](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D5E88FF9E5A); 2004, Nr. [73-2544](https://www.e-tar.lt/portal/lt/legalAct/TAR.01BB1CB0D2CF); 2005, Nr. [84-3111](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C4D507335E2); 2008, Nr. [76-2999](https://www.e-tar.lt/portal/lt/legalAct/TAR.DBE45E39FB46), Nr. [81-3180](https://www.e-tar.lt/portal/lt/legalAct/TAR.353FCA5A0773); 2009, Nr. [154-6961](https://www.e-tar.lt/portal/lt/legalAct/TAR.69542DFA6B8E); 2011, Nr. [52-2501](https://www.e-tar.lt/portal/lt/legalAct/TAR.305C119D5D4E); 2012, Nr. [6-188](https://www.e-tar.lt/portal/lt/legalAct/TAR.E627311CC883), Nr. [6-190](https://www.e-tar.lt/portal/lt/legalAct/TAR.3DF7E3BF2E6E), Nr. [50-2445](https://www.e-tar.lt/portal/lt/legalAct/TAR.ACA76B0970E8), Nr. [77-3983](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D8748686997))
 
-\#### 1 straipsnis. 2 straipsnio 44 ir 46 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 44 ir 46 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 44 dalį ir ją išdėstyti taip:
 
@@ -34,11 +34,11 @@ Vilnius
 
 „46.**Leidimas** – taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, rengiami ir išduodami teisės aktų nustatyta tvarka.“
 
-\#### 2 straipsnis. 5 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 5 straipsnio pripažinimas netekusiu galios
 
 5 straipsnį pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 19 straipsnio pakeitimas
+## 3 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -48,19 +48,19 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 2. Įvykus avarijai arba išsipylus pavojingosioms atliekoms ar jų pavojingiems komponentams, galintiems sukelti pavojų žmonių sveikatai ar aplinkai, avarija nedelsiant turi būti likviduojama pagal ekstremaliųjų situacijų valdymo planus ir nustatomos avarijos priežastys.“
 
-\#### 4 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Kelios ar visos į komunalinių atliekų tvarkymo regioną įeinančios savivaldybės, didindamos atliekų tvarkymo sistemos efektyvumą, gali bendradarbiauti ir kartu įsteigti juridinį asmenį – komunalinių atliekų tvarkymo sistemos administratorių.“
 
-\#### 5 straipsnis. 3423 straipsnio 13 dalies 2 punkto pakeitimas
+## 5 straipsnis. 3423 straipsnio 13 dalies 2 punkto pakeitimas
 
 Pakeisti 34^23 straipsnio 13 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) paaiškėja, kad ataskaitiniam laikotarpiui pasibaigus licencijos turėtojo nariai ir pavedimo davėjaiLietuvos Respublikos vidaus rinkai verslo tikslais tiekia mažiau kaip 10 procentų visos Lietuvos Respublikos vidaus rinkai verslo tikslais tiekiamos elektros ir elektroninės įrangos ar Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia mažiau kaip 25 procentus visų Lietuvos Respublikos vidaus rinkai tiekiamų pakuočių;“.
 
-\#### 6 straipsnis. Aštuntojo10 skirsnio pakeitimas
+## 6 straipsnis. Aštuntojo10 skirsnio pakeitimas
 
 Pakeisti aštuntąjį^10 skirsnį ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti aštuntąjį^10 skirsnį ir jį išdėstyti taip:
 
 REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ ATLIEKŲ SUTVARKYMĄ ĮRODANČIUS DOKUMENTUS
 
-\#### 3425 straipsnis. Reikalavimai atliekų tvarkytojams, kurie išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus
+## 3425 straipsnis. Reikalavimai atliekų tvarkytojams, kurie išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus
 
 1. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti tie gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuotės atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, kurie atitinka šiame straipsnyje nustatytus reikalavimus ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka yra įrašyti į Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąrašą (toliau šiame straipsnyje – Atliekų tvarkytojų sąrašas). Gaminių ir (ar) pakuočių atliekų naudotojai (perdirbėjai), gaminių ir (ar) pakuočių atliekų eksportuotojai, gaminių ir (ar) pakuočių atliekų surinkėjai ir (ar) atliekų tvarkytojai, apdorojantys surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuotės atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus vadovaudamiesi aplinkos ministro nustatyta tvarka. Draudžiamas neteisėtas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymas.
 
@@ -166,7 +166,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 
 17. Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta esminė žala šio Įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių atliekų tvarkymą, saugomiems interesams ir kuriuo nepadaryta esminė žala aplinkai, žmonių sveikatai, ir gaminių ir (ar) pakuočių atliekų naudotojas (perdirbėjas), gaminių ir (ar) pakuočių atliekų eksportuotojas, gaminių ir (ar) pakuočių atliekų surinkėjas ir (ar) atliekų tvarkytojas, apdorojantis surinktas mišrias komunalines atliekas, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, nutraukė veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų padarinius ir atlygino žalą, o šio Įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, Aplinkos ministerijos įgaliota institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali gaminių ir (ar) pakuočių atliekų naudotojo (perdirbėjo), gaminių ir (ar) pakuočių atliekų eksportuotojo, gaminių ir (ar) pakuočių atliekų surinkėjo neįspėti apie galimą išbraukimą iš Atliekų tvarkytojų sąrašo ir (ar) neišbraukti iš Atliekų tvarkytojų sąrašo.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. birželio 1 d.
 

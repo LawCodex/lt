@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AB5C4F8C996B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
@@ -532,5 +532,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1823, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05725
 
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 pakeitimo įstatymo Nr. XIV-1738 1 straipsnio pakeitimo įstatymas
-
-part_0d08171aea5544a58bac83bce0707039_end

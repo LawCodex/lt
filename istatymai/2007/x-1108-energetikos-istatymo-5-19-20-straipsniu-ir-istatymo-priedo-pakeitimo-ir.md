@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.429CC7FAB351"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.429CC7FAB351.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 5, 19, 20 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2005, Nr. [142-5104](https://www.e-tar.lt/portal/lt/legalAct/TAR.89D1F2C1B1D3))
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies papildymas ir pakeitimas
+## 1 straipsnis. 5 straipsnio 2 dalies papildymas ir pakeitimas
 
 1. Papildyti 5 straipsnio 2 dalį nauju 13 punktu:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusį 5 straipsnio 2 dalies 13 punktą laikyti 14 punktu.
 
-\#### 2 straipsnis. 19 straipsnio 1, 4 dalių pakeitimas ir papildymas 5 dalimi
+## 2 straipsnis. 19 straipsnio 1, 4 dalių pakeitimas ir papildymas 5 dalimi
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -50,11 +50,11 @@ Vilnius
 
 „5. Energetikos įmonių informacija apie sąnaudas, susijusias su teisės aktų nustatyta tvarka licencijuojama veikla, kurios kainos yra reguliuojamos, yra vieša.“
 
-\#### 3 straipsnis. 20 straipsnio 3 dalies pripažinimas netekusia galios
+## 3 straipsnis. 20 straipsnio 3 dalies pripažinimas netekusia galios
 
 20 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

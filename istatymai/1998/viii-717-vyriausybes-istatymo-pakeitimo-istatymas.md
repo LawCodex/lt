@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.466AEC33D854"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.466AEC33D854.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1996, Nr. [115-2667](https://www.e-tar.lt/portal/lt/legalAct/TAR.B8BEF13F91BA), Nr. [120-2819](https://www.e-tar.lt/portal/lt/legalAct/TAR.324E272F5F86), Nr. [121-2850](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E70B72CB9C8), Nr. [122-2864](https://www.e-tar.lt/portal/lt/legalAct/TAR.A56E2F05829E); 1997, Nr. [30-704](https://www.e-tar.lt/portal/lt/legalAct/TAR.C05E7B951303))
 
-\#### 1 straipsnis. Lietuvos Respublikos Vyriausybės įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos Vyriausybės įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos Vyriausybės įstatymą ir jį išdėstyti taip:
 
@@ -40,25 +40,25 @@ Pakeisti Lietuvos Respublikos Vyriausybės įstatymą ir jį išdėstyti taip:
 
 BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Lietuvos Respublikos Vyriausybės sudėtis
+## 1 straipsnis. Lietuvos Respublikos Vyriausybės sudėtis
 
 Lietuvos Respublikos Vyriausybę (toliau – Vyriausybė) sudaro Ministras Pirmininkas ir ministrai.
 
-\#### 2 straipsnis. Vyriausybės galios
+## 2 straipsnis. Vyriausybės galios
 
 1. Vyriausybė įgyvendina vykdomąją valdžią Lietuvoje.
 
 2. Vyriausybės galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai.
 
-\#### 3 straipsnis. Vyriausybės veiklos teisiniai pagrindai
+## 3 straipsnis. Vyriausybės veiklos teisiniai pagrindai
 
 Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa, Respublikos Prezidento dekretais ir šiuo įstatymu.
 
-\#### 4 straipsnis. Svarbiausieji Vyriausybės veiklos principai
+## 4 straipsnis. Svarbiausieji Vyriausybės veiklos principai
 
 Vyriausybė savo veiklą grindžia kolegialumo, demokratijos, teisėtumo ir viešumo principais.
 
-\#### 5 straipsnis. Vyriausybės atsakomybė ir atskaitomybė
+## 5 straipsnis. Vyriausybės atsakomybė ir atskaitomybė
 
 1. Vyriausybė solidariai atsako Seimui už bendrą savo veiklą. Vyriausybė ne rečiau kaip kartą per metus pateikia Seimui Vyriausybės programos įgyvendinimo ataskaitą.
 
@@ -70,7 +70,7 @@ Vyriausybė savo veiklą grindžia kolegialumo, demokratijos, teisėtumo ir vie�
 
 VYRIAUSYBĖS SUDARYMAS
 
-\#### 6 straipsnis. Vyriausybės sudarymo tvarka ir Vyriausybės programa
+## 6 straipsnis. Vyriausybės sudarymo tvarka ir Vyriausybės programa
 
 1. Ministrą Pirmininką Seimo pritarimu skiria ir atleidžia Respublikos Prezidentas.
 
@@ -80,7 +80,7 @@ VYRIAUSYBĖS SUDARYMAS
 
 4. Kai Seimas pritaria Vyriausybės programai, Vyriausybė privalo per 3 mėnesius parengti ir patvirtinti konkrečias priemones šiai programai įgyvendinti.
 
-\#### 7 straipsnis. Ministro Pirmininko ir ministrų prisaikdinimas
+## 7 straipsnis. Ministro Pirmininko ir ministrų prisaikdinimas
 
 1. Pradėdami eiti savo pareigas, Ministras Pirmininkas ir ministrai prisiekia. Nustatomas toks jų priesaikos tekstas:
 
@@ -108,7 +108,7 @@ Tepadeda man Dievas!“
 
 VYRIAUSYBĖS ĮGALIOJIMŲ GRĄŽINIMAS IR ATSISTATYDINIMAS
 
-\#### 8 straipsnis. Vyriausybės įgaliojimų grąžinimas
+## 8 straipsnis. Vyriausybės įgaliojimų grąžinimas
 
 1. Vyriausybė grąžina įgaliojimus išrinkus Respublikos Prezidentą.
 
@@ -124,7 +124,7 @@ VYRIAUSYBĖS ĮGALIOJIMŲ GRĄŽINIMAS IR ATSISTATYDINIMAS
 
 7. Kai Vyriausybė grąžina įgaliojimus šio straipsnio 1 dalies numatytu pagrindu, Respublikos Prezidentas per 15 dienų teikia Seimui svarstyti įgaliojimus grąžinusios Vyriausybės Ministro Pirmininko kandidatūrą. Kai Seimas pritaria Ministro Pirmininko kandidatūrai ir Respublikos Prezidentas paskiria Ministrą Pirmininką, jei Ministro Pirmininko pateiktoje ir Respublikos Prezidento patvirtintoje Vyriausybėje nepasikeitė daugiau nei pusė iki įgaliojimų grąžinimo dirbusių ministrų, Vyriausybė iš naujo gauna įgaliojimus veikti pagal Seimo anksčiau patvirtintą programą. Jeigu Seimas nepritaria Ministro Pirmininko kandidatūrai, Vyriausybė privalo atsistatydinti.
 
-\#### 9 straipsnis. Vyriausybės atsistatydinimas
+## 9 straipsnis. Vyriausybės atsistatydinimas
 
 1. Vyriausybė privalo atsistatydinti šiais atvejais:
 
@@ -144,7 +144,7 @@ VYRIAUSYBĖS ĮGALIOJIMŲ GRĄŽINIMAS IR ATSISTATYDINIMAS
 
 4. Vyriausybės atsistatydinimą priima Respublikos Prezidentas ir prireikus paveda jai toliau eiti pareigas. Jis gali pavesti vienam iš ministrų eiti Ministro Pirmininko pareigas, kol bus sudaryta nauja Vyriausybė.
 
-\#### 10 straipsnis. Ministro skyrimas, atleidimas ir atsistatydinimas
+## 10 straipsnis. Ministro skyrimas, atleidimas ir atsistatydinimas
 
 1. Ministrus Ministro Pirmininko teikimu skiria ir atleidžia Respublikos Prezidentas. Laikinai pavaduodamas Respublikos Prezidentą, Seimo Pirmininkas negali atleisti ar skirti ministrų be Seimo sutikimo.
 
@@ -154,7 +154,7 @@ VYRIAUSYBĖS ĮGALIOJIMŲ GRĄŽINIMAS IR ATSISTATYDINIMAS
 
 4. Ministro atsistatydinimą priima Respublikos Prezidentas. Jis gali pasiūlyti ministrui eiti pareigas, kol bus paskirtas naujas ministras.
 
-\#### 11 straipsnis. Interpeliacijos pateikimas Ministrui Pirmininkui ar ministrui arba nutarimo projekto dėl nepasitikėjimo Vyriausybe pateikimas
+## 11 straipsnis. Interpeliacijos pateikimas Ministrui Pirmininkui ar ministrui arba nutarimo projekto dėl nepasitikėjimo Vyriausybe pateikimas
 
 1. Seimo sesijos metu ne mažesnė kaip 1/5 Seimo narių grupė gali pateikti interpeliaciją Ministrui Pirmininkui ar ministrui, taip pat pateikti nutarimo projektą dėl nepasitikėjimo Vyriausybe.
 
@@ -168,11 +168,11 @@ VYRIAUSYBĖS ĮGALIOJIMŲ GRĄŽINIMAS IR ATSISTATYDINIMAS
 
 VYRIAUSYBĖS NARIŲ IR VYRIAUSYBĖJE DIRBANČIŲ POLITINIŲ PAREIGŪNŲ GARANTIJOS
 
-\#### 12 straipsnis. Ministro Pirmininko ir ministrų neliečiamumo garantijos
+## 12 straipsnis. Ministro Pirmininko ir ministrų neliečiamumo garantijos
 
 Ministras Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomybėn ar suimti, taip pat negali būti kitaip suvaržyta jų laisvė be išankstinio Seimo sutikimo, o tarp Seimo sesijų – be išankstinio Respublikos Prezidento sutikimo.
 
-\#### 13 straipsnis. Vyriausybės narių, Ministro Pirmininko ir ministrų skiriamų politinių pareigūnų darbo sąlygos bei socialinės garantijos
+## 13 straipsnis. Vyriausybės narių, Ministro Pirmininko ir ministrų skiriamų politinių pareigūnų darbo sąlygos bei socialinės garantijos
 
 1. Vyriausybės narių ir politinių pareigūnų atlyginimo už darbą dydį nustato valstybės politikų darbo užmokesčio įstatymas. Iki įsigalios šis įstatymas, tarnybinis atlyginimai nustatomi: Ministro Pirmininko – 60 procentų Respublikos Prezidento atlyginimo, ministrų – 50 procentų Respublikos Prezidento atlyginimo, o politinių pareigūnų – Vyriausybės nutarimu pagal šalies vidutinio darbo užmokesčio koeficientą.
 
@@ -198,7 +198,7 @@ Ministras Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomy
 
 10. Vyriausybės nariai ir jų skiriami politiniai pareigūnai negali turėti socialinių privilegijų.
 
-\#### 14 straipsnis. Draudimas Ministrui Pirmininkui, ministrams bei politiniams pareigūnams eiti kitas renkamas ar skiriamas pareigas ir dirbti kitą darbą
+## 14 straipsnis. Draudimas Ministrui Pirmininkui, ministrams bei politiniams pareigūnams eiti kitas renkamas ar skiriamas pareigas ir dirbti kitą darbą
 
 Ministras Pirmininkas, ministrai bei politiniai pareigūnai negali eiti jokių kitų renkamų ar skiriamų pareigų (išskyrus galimybę Seimo nariams eiti Ministro Pirmininko ar ministro pareigas), negali dirbti verslo, komercijos ar kitose privačiose įstaigose ar įmonėse, taip pat gauti kitą atlyginimą, išskyrus jiems nustatytą pagal pareigas Vyriausybėje ar politinio pareigūno atlyginimą bei užmokestį už kūrybinę veiklą. Atlyginimu už kūrybinę veiklą laikomas autorinis honoraras už paskaitas, meno kūrinius bei jų atlikimą, už publikacijas bei knygas, už dalyvavimą radijo bei televizijos laidose bei šių laidų įrašus, taip pat atlygis už pedagoginį darbą valstybinėse mokslo įstaigose.
 
@@ -206,21 +206,21 @@ Ministras Pirmininkas, ministrai bei politiniai pareigūnai negali eiti jokių k
 
 YPATINGIEJI VYRIAUSYBĖS SANTYKIAI SU SEIMU IR RESPUBLIKOS PREZIDENTU
 
-\#### 15 straipsnis. Vyriausybės teisė teikti siūlymą dėl pirmalaikių Seimo rinkimų
+## 15 straipsnis. Vyriausybės teisė teikti siūlymą dėl pirmalaikių Seimo rinkimų
 
 Vyriausybė turi teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo rinkimus, jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
 
-\#### 16 straipsnis. Vyriausybės teisė skelbti Respublikos Prezidento rinkimus
+## 16 straipsnis. Vyriausybės teisė skelbti Respublikos Prezidento rinkimus
 
 1. Jeigu Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje numatytais atvejais Seimas negali per 10 dienų susirinkti ir paskelbti Respublikos Prezidento rinkimų, rinkimus skelbia Vyriausybė, priimdama nutarimą.
 
 2. Šį Vyriausybės nutarimą pavedama vykdyti Vyriausiajai rinkimų komisijai.
 
-\#### 17 straipsnis. Ministro Pirmininko ir ministrų dalyvavimas Seimo darbe
+## 17 straipsnis. Ministro Pirmininko ir ministrų dalyvavimas Seimo darbe
 
 Ministras Pirmininkas ir ministrai turi teisę Seimo statuto nustatyta tvarka dalyvauti Seimo, jo komitetų, komisijų bei frakcijų posėdžiuose ir pareikšti savo nuomonę svarstomais klausimais.
 
-\#### 18 straipsnis. Vyriausybės narių atsakymų į Seimo narių paklausimus tvarka
+## 18 straipsnis. Vyriausybės narių atsakymų į Seimo narių paklausimus tvarka
 
 1. Ministras Pirmininkas arba ministras, kuriam Seimo sesijoje yra pateiktas Seimo nario paklausimas dėl Vyriausybės, ministerijų ar kitų Vyriausybės įstaigų veiklos, privalo atsakyti žodžiu ar raštu Seimo statuto nustatyta tvarka.
 
@@ -228,17 +228,17 @@ Ministras Pirmininkas ir ministrai turi teisę Seimo statuto nustatyta tvarka da
 
 3. Seimo komiteto, komisijos ar frakcijos kvietimu Seimo statuto nustatyta tvarka ministrai ar ministro įgaliotas pareigūnas privalo dalyvauti komiteto, komisijos ar frakcijos posėdyje ir pateikti paaiškinimus svarstomais klausimais.
 
-\#### 19 straipsnis. Ministro Pirmininko ir ministrų pareiga pasirašyti Respublikos Prezidento dekretus
+## 19 straipsnis. Ministro Pirmininko ir ministrų pareiga pasirašyti Respublikos Prezidento dekretus
 
 Ministras Pirmininkas arba atitinkamas ministras Lietuvos Respublikos Konstitucijos 85 straipsnyje nurodytais klausimais ne vėliau kaip per 3 dienas pasirašo Respublikos Prezidento dekretus. Atsakomybė už tokį dekretą tenka jį pasirašiusiam Ministrui Pirmininkui arba ministrui.
 
-\#### 20 straipsnis. Vyriausybės įstatymų leidybos iniciatyvos teisė
+## 20 straipsnis. Vyriausybės įstatymų leidybos iniciatyvos teisė
 
 1. Vyriausybė turi įstatymų leidybos iniciatyvos teisę Seime.
 
 2. Vyriausybė dėl Seimui teikiamų įstatymų ar Seimo nutarimų projektų priima nutarimą.
 
-\#### 21 straipsnis. Pasitikėjimo Vyriausybe patikrinimas
+## 21 straipsnis. Pasitikėjimo Vyriausybe patikrinimas
 
 Vyriausybė turi teisę teikti siūlymą Seimui balsuoti dėl pasitikėjimo Vyriausybe.
 
@@ -246,7 +246,7 @@ Vyriausybė turi teisę teikti siūlymą Seimui balsuoti dėl pasitikėjimo Vyri
 
 VYRIAUSYBĖS KOMPETENCIJA
 
-\#### 22 straipsnis. Pagrindiniai Vyriausybės įgaliojimai
+## 22 straipsnis. Pagrindiniai Vyriausybės įgaliojimai
 
 Vyriausybė:
 
@@ -282,7 +282,7 @@ Vyriausybė:
 
 16) vykdo kitas pareigas, kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai.
 
-\#### 23 straipsnis. Vyriausybės santykiai su savivaldybėmis
+## 23 straipsnis. Vyriausybės santykiai su savivaldybėmis
 
 Vyriausybė:
 
@@ -294,7 +294,7 @@ Vyriausybė:
 
 MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
-\#### 24 straipsnis. Ministras Pirmininkas
+## 24 straipsnis. Ministras Pirmininkas
 
 1. Ministras Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai.
 
@@ -340,7 +340,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
 3. Jeigu Ministras Pirmininkas nepritaria ministro veiklos Vyriausybėje nuostatoms, jis turi teisę pateikti Respublikos Prezidentui siūlymą šį ministrą atleisti.
 
-\#### 25 straipsnis. Ministro, einančio Ministro Pirmininko pareigas ar pavaduojančio Ministrą Pirmininką, įgaliojimai
+## 25 straipsnis. Ministro, einančio Ministro Pirmininko pareigas ar pavaduojančio Ministrą Pirmininką, įgaliojimai
 
 1. Ministras, einantis Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas.
 
@@ -348,7 +348,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
 3. Ministras, einantis Ministro Pirmininko pareigas ar pavaduojantis Ministrą Pirmininką, dokumentuose nurodo savo pareigas ir daro įrašą „einantis Ministro Pirmininko pareigas“ ar „pavaduojantis Ministrą Pirmininką“.
 
-\#### 26 straipsnis. Ministrai
+## 26 straipsnis. Ministrai
 
 1. Ministrai yra atsakingi už jiems pavestas valdymo sritis.
 
@@ -386,7 +386,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
 4. Ministras, turintis atskirąją nuomonę apie Vyriausybės sprendimus ar atskirų jos narių darbą, turėtų ją pareikšti Vyriausybės posėdyje.
 
-\#### 27 straipsnis. Vyriausybės komisijos
+## 27 straipsnis. Vyriausybės komisijos
 
 1. Vyriausybė prireikus gali sudaryti nuolatines ir laikinąsias komisijas.
 
@@ -394,7 +394,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
 3. Komisijų uždavinius, funkcijas, įgaliojimus, veiklos tvarką ir finansavimą nustato Vyriausybė. Lėšos nuolatinėms komisijoms finansuoti turi būti numatytos valstybės biudžete; nenumatytiems atvejams jų gali būti skiriama iš Vyriausybės rezervo fondo.
 
-\#### 28 straipsnis. Ministro Pirmininko sudaromos darbo grupės
+## 28 straipsnis. Ministro Pirmininko sudaromos darbo grupės
 
 1. Ministras Pirmininkas įvairiems klausimams nagrinėti ir pasiūlymams rengti gali sudaryti darbo grupes.
 
@@ -410,7 +410,7 @@ MINISTERIJOS, VYRIAUSYBĖS ĮSTAIGOS IR APSKRIČIŲ
 
 VIRŠININKŲ ADMINISTRACIJOS
 
-\#### 29 straipsnis. Ministerijos
+## 29 straipsnis. Ministerijos
 
 1. Lietuvos Respublikoje yra šios ministerijos:
 
@@ -460,7 +460,7 @@ VIRŠININKŲ ADMINISTRACIJOS
 
 10. Ministerijų uždaviniai, funkcijos ir teisės nustatomi įstatymuose, ministerijų nuostatuose, Vyriausybės nutarimuose.
 
-\#### 30 straipsnis. Ministerijų struktūra
+## 30 straipsnis. Ministerijų struktūra
 
 1. Ministerijos susideda iš departamentų, skyrių ir kitų padalinių.
 
@@ -468,7 +468,7 @@ VIRŠININKŲ ADMINISTRACIJOS
 
 3. Departamentui prie ministerijos vadovauja direktorius arba viceministras.
 
-\#### 31 straipsnis. Viceministrai ir ministerijų sekretoriai
+## 31 straipsnis. Viceministrai ir ministerijų sekretoriai
 
 1. Ministro teikimu Ministras Pirmininkas politinio pasitikėjimo pagrindu skiria viceministrus ir atleidžia juos iš pareigų. Viceministrai gali būti atleisti iš pareigų, kai Ministras Pirmininkas pareiškia nepasitikėjimą jais. Viceministrų skaičių nustato Ministras Pirmininkas, atsižvelgdamas į ministro siūlymus. Ministerijos sekretorių – aukščiausiąjį ministerijos karjeros pareigūną skiria ir atleidžia ministras.
 
@@ -494,13 +494,13 @@ VIRŠININKŲ ADMINISTRACIJOS
 
 6) vykdo kitas ministro jam pavestas funkcijas.
 
-\#### 32 straipsnis. Ministerijų kolegijos
+## 32 straipsnis. Ministerijų kolegijos
 
 1. Ministerijoje yra sudaroma kolegija, kaip ministro patariamoji institucija. Kolegijos nariai yra ministras (kolegijos pirmininkas), viceministrai, ministerijos sekretorius. Į kolegijos sudėtį gali būti įtraukti ministerijos sekretoriaus pavaduotojai (sekretoriai) ir kiti ministerijos, kitų institucijų bei organizacijų atstovai. Į kolegijos posėdžius gali būti kviečiami kitų ministerijų, valstybės ir kitų institucijų bei organizacijų atstovai ir mokslininkai šių sutikimu.
 
 2. Kolegijos narių skaičių nustato ir kolegijos personalinę sudėtį bei darbo reglamentą tvirtina ministras. Jis taip pat teikia klausimus kolegijai svarstyti.
 
-\#### 33 straipsnis. Vyriausybės įstaigos
+## 33 straipsnis. Vyriausybės įstaigos
 
 1. Ministerijų funkcijoms nepriskirtiems klausimams spręsti Vyriausybė, nedidindama valstybės valdymui atitinkamų metų biudžete skirtų lėšų, gali steigti Vyriausybės įstaigas (departamentus, kontrolės ar apskaitos funkcijas vykdančias tarnybas, agentūras, inspekcijas ir kitas įstaigas).
 
@@ -514,13 +514,13 @@ VIRŠININKŲ ADMINISTRACIJOS
 
 6. Vyriausybės įstaigos vadovas leidžia įsakymus ir įsakymu patvirtintus kitus teisės aktus, tikrina, kaip jie vykdomi.
 
-\#### 34 straipsnis. Vyriausybės vykdoma ministerijų, Vyriausybės įstaigų kontrolė, šių institucijų priimtų teisės aktų įsigaliojimo tvarka
+## 34 straipsnis. Vyriausybės vykdoma ministerijų, Vyriausybės įstaigų kontrolė, šių institucijų priimtų teisės aktų įsigaliojimo tvarka
 
 1. Vyriausybė koordinuoja ministerijų veiklą per ministrus. Vyriausybė turi teisę panaikinti ministrų ir ministerijoms pavaldžių įstaigų, taip pat Vyriausybės įstaigų teisės aktus, jeigu šie prieštarauja Lietuvos Respublikos Konstitucijai, įstatymams, Lietuvos Respublikos tarptautinėms sutartims, kitiems Seimo priimtiems teisės aktams, Respublikos Prezidento dekretams, Vyriausybės nutarimams ar Ministro Pirmininko potvarkiams.
 
 2. Ministerijų ir Vyriausybės įstaigų teisės aktai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, įsigalioja įstatymų nustatyta tvarka.
 
-\#### 35 straipsnis. Apskričių valdymo organizavimas ir savivaldybių veiklos administracinė priežiūra
+## 35 straipsnis. Apskričių valdymo organizavimas ir savivaldybių veiklos administracinė priežiūra
 
 1. Vyriausybė valdymą apskrityje – Lietuvos Respublikos teritorijos aukštesniajame administraciniame vienete – organizuoja per apskrities viršininką, ministerijas bei Vyriausybės įstaigas.
 
@@ -536,11 +536,11 @@ VIRŠININKŲ ADMINISTRACIJOS
 
 VYRIAUSYBĖS VEIKLOS ORGANIZAVIMAS
 
-\#### 36 straipsnis. Vyriausybės darbo reglamentas
+## 36 straipsnis. Vyriausybės darbo reglamentas
 
 Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
-\#### 37 straipsnis. Vyriausybės posėdžiai
+## 37 straipsnis. Vyriausybės posėdžiai
 
 1. Vyriausybė valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus.
 
@@ -550,13 +550,13 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 4. Svarbiausi klausimai gali būti aptariami prieš Vyriausybės posėdžius Ministro Pirmininko sudarytuose nuolatiniuose arba laikinuosiuose Vyriausybės komitetuose, taip pat Vyriausybės sekretoriaus šaukiamuose ministerijų sekretorių pasitarimuose.
 
-\#### 38 straipsnis. Teisės aktų projektų ir kitų dokumentų pateikimo Vyriausybei tvarka
+## 38 straipsnis. Teisės aktų projektų ir kitų dokumentų pateikimo Vyriausybei tvarka
 
 1. Vyriausybei teikiamus įstatymų, nutarimų ir kitų teisės aktų projektus turi pasirašyti ministras. Vyriausybės įstaigų, apskričių viršininkų, kitų valstybės ir savivaldybių institucijų teikiamus teisės aktų projektus vizuoja Vyriausybės priskirtas ministras.
 
 2. Tais atvejais, kai ministro teikiamas teisės aktas ar kitas dokumentas apima valdymo sritis, pavestas ir kitiems ministrams, iki pateikdamas tokį dokumentą Vyriausybei, ministras derina jį su kitais ministrais.
 
-\#### 39 straipsnis. Nesutarimų, kylančių derinant teisės aktų projektus, sprendimo tvarka
+## 39 straipsnis. Nesutarimų, kylančių derinant teisės aktų projektus, sprendimo tvarka
 
 1. Teisės aktų projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę nesutarimai paprastai svarstomi Ministro Pirmininko aparate.
 
@@ -568,7 +568,7 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 5. Vyriausybės posėdyje svarstant nutarimo projektą, prieš tai aptartą komitete, šio komiteto posėdžio pirmininkas informuoja apie ministrų (jų įgaliotų atstovų) susitarimus ar diskusijų išvadas.
 
-\#### 40 straipsnis. Vyriausybės posėdžių darbotvarkės sudarymo ir klausimų svarstymo tvarka
+## 40 straipsnis. Vyriausybės posėdžių darbotvarkės sudarymo ir klausimų svarstymo tvarka
 
 1. Vyriausybės nutarimų ir kitų teisės aktų projektai rengiami, svarstomi ir priimami Vyriausybės posėdžiuose Vyriausybės reglamento nustatyta tvarka.
 
@@ -582,7 +582,7 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 6. Vyriausybės posėdyje išklausomas pranešimas ir Vyriausybės narių nuomonė. Jeigu posėdžio pirmininkas leidžia, savo nuomonę gali pareikšti ir kiti posėdyje dalyvaujantys asmenys.
 
-\#### 41 straipsnis. Vyriausybės nutarimai
+## 41 straipsnis. Vyriausybės nutarimai
 
 1. Vyriausybės nutarimai ir sprendimai priimami Vyriausybės posėdžiuose visų Vyriausybės narių balsų dauguma.
 
@@ -594,11 +594,11 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 5. Vyriausybės nutarimai įsigalioja įstatymų nustatyta tvarka.
 
-\#### 42 straipsnis. Vyriausybės posėdžių protokolai
+## 42 straipsnis. Vyriausybės posėdžių protokolai
 
 Vyriausybės posėdžiai yra protokoluojami. Protokole nurodomas posėdžio eilės numeris, posėdyje dalyvaujantys asmenys, svarstomą klausimą pateikęs pranešėjas bei nuomonę šiuo klausimu pareiškę kalbėtojai ir pateikiamas priimtas sprendimas. Protokolą pasirašo Ministras Pirmininkas.
 
-\#### 43 straipsnis. Ministro Pirmininko potvarkiai ir rezoliucijos
+## 43 straipsnis. Ministro Pirmininko potvarkiai ir rezoliucijos
 
 1. Ministras Pirmininkas pagal savo kompetenciją organizaciniais, personaliniais ir kitais klausimais leidžia potvarkius arba priima operatyvius sprendimus – pavedimus, įforminamus rezoliucijomis.
 
@@ -608,7 +608,7 @@ Vyriausybės posėdžiai yra protokoluojami. Protokole nurodomas posėdžio eil�
 
 VYRIAUSYBĖS KANCELIARIJA
 
-\#### 44 straipsnis. Vyriausybės kanceliarija ir Ministro Pirmininko aparatas
+## 44 straipsnis. Vyriausybės kanceliarija ir Ministro Pirmininko aparatas
 
 1. Vyriausybė turi kanceliariją (toliau – Vyriausybės kanceliarija), kuri aptarnauja Vyriausybę, Ministrą Pirmininką ir Ministro Pirmininko aparatą.
 
@@ -626,7 +626,7 @@ VYRIAUSYBĖS KANCELIARIJA
 
 8. Vyriausybės kanceliarijos sudėtį Vyriausybės sekretoriaus teikimu tvirtina Ministras Pirmininkas.
 
-\#### 45 straipsnis. Vyriausybės kancleris ir Vyriausybės sekretorius
+## 45 straipsnis. Vyriausybės kancleris ir Vyriausybės sekretorius
 
 1. Vyriausybės kancleris yra Ministrui Pirmininkui atskaitingas politinis pareigūnas ir atsako už politinio ar asmeninio pasitikėjimo pagrindu skiriamų valstybės tarnautojų – Ministro Pirmininko aparato tarnautojų ir departamentų prie Vyriausybės vadovų darbą įgyvendinant Vyriausybės programą, padeda Ministrui Pirmininkui organizuoti Vyriausybės kanceliarijos ir ministerijų bei kitų Vyriausybės įstaigų veiklą įgyvendinant Vyriausybės patvirtintas konkrečias priemones Vyriausybės programai vykdyti, taip pat palaiko ryšius su visuomeninėmis ir politinėmis organizacijomis.
 
@@ -638,7 +638,7 @@ VYRIAUSYBĖS KANCELIARIJA
 
 5. Vyriausybės sekretorius yra Vyriausybės antspaudo saugotojas ir atsako už antspaudo naudojimą.
 
-\#### 46 straipsnis. Vyriausybės dokumentų saugojimo tvarka
+## 46 straipsnis. Vyriausybės dokumentų saugojimo tvarka
 
 1. Vyriausybės kanceliarijoje saugomi Lietuvos Respublikos įstatymai, Seimo nutarimai, Respublikos Prezidento dekretai, Konstitucinio Teismo sprendimai, Vyriausybės nutarimų ir Ministro Pirmininko potvarkių projektai bei originalai, taip pat Vyriausybės posėdžių protokolai.
 

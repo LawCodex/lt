@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.496CB2651071"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.496CB2651071.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 9 ir 14 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [51-1243](https://www.e-tar.lt/portal/lt/legalAct/TAR.61BB05227699); 2001, Nr. 112- 4070; 2003, Nr. 73-3346)
 
-\#### 1 straipsnis. 9 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 5 dalimi
+## 1 straipsnis. 9 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 5 dalimi
 
 1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „5. Valstybės kontrolė rengia savivaldybių kontrolierių tarnyboms audito metodikas bei valstybės kontrolieriaus nustatyta tvarka atlieka savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) atliekamo audito išorinę peržiūrą.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 4. Seimas nutarimu gali pavesti Valstybės kontrolei atlikti valstybinį auditą pagal jos kompetenciją.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

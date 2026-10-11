@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EB5D0EA7EAA4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EB5D0EA7EAA4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 17, 34 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2004, Nr. [47-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.65C0438E6F29), Nr. [168-6174](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3FBB6CF91CD))
 
-\#### 1 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 1 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 1. Pakeisti 17 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „10) alkoholio produktus neturint prekybos (sandėliavimo) vietoje ir (ar) jų gabenimo metu juridinę galią turinčių privalomų tų produktų įsigijimo arba gabenimo dokumentų egzemplioriaus.“
 
-\#### 2 straipsnis. 34 straipsnio 2, 3, 11, 12 ir 17 dalių pakeitimas
+## 2 straipsnis. 34 straipsnio 2, 3, 11, 12 ir 17 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 

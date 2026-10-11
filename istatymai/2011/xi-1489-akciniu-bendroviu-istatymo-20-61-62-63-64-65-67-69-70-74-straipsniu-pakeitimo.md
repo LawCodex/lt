@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6D309B92794E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6D309B92794E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 20, 61, 62, 63, 64, 65, 67, 69, 70, 74 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 65-1, 70-1 straipsniais ir įstatymo priedo pakeitimo įstatymas
@@ -34,19 +34,19 @@ Vilnius
 
 2009, Nr. [91-3914](https://www.e-tar.lt/portal/lt/legalAct/TAR.63BE523B049E), Nr. [154-6945](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F036B79E1F2); 2010, Nr. [1-22](https://www.e-tar.lt/portal/lt/legalAct/TAR.02380721CB11))
 
-\#### 1 straipsnis. 20 straipsnio 1 dalies 17 punkto pakeitimas
+## 1 straipsnis. 20 straipsnio 1 dalies 17 punkto pakeitimas
 
 Pakeisti 20 straipsnio 1 dalies 17 punktą ir jį išdėstyti taip:
 
 „17) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis;“.
 
-\#### 2 straipsnis. 61 straipsnio papildymas 3 dalimi
+## 2 straipsnis. 61 straipsnio papildymas 3 dalimi
 
 Papildyti 61 straipsnį 3 dalimi:
 
 „3. Reorganizavime gali dalyvauti tik tos pačios teisinės formos bendrovės.“
 
-\#### 3 straipsnis. 62 straipsnio 1 ir 2 dalių pakeitimas
+## 3 straipsnis. 62 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 62 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Papildyti 61 straipsnį 3 dalimi:
 
 „2. Sprendimas dėl reorganizavimo gali būti priimtas ne anksčiau kaip praėjus 30 dienų nuo dienos, kai juridinių asmenų registro tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo 63 straipsnio 9 ar 10 dalyje.“
 
-\#### 4 straipsnis. 63 straipsnio pakeitimas
+## 4 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 13. Nuo viešo paskelbimo bendrovės įstatuose nurodytame šaltinyje apie reorganizavimo sąlygų sudarymą dienos bendrovė, kuri po reorganizavimo pasibaigia, įgyja reorganizuojamos bendrovės statusą, o bendrovė, kuri po reorganizavimo tęsia veiklą, – dalyvaujančios reorganizavime bendrovės statusą.“
 
-\#### 5 straipsnis. 64 straipsnio 1 ir 2 dalių pakeitimas
+## 5 straipsnis. 64 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 64 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nurodyta ataskaita apie numatomą akcinės bendrovės reorganizavimą nerengiama, jeigu visi kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime akcinės bendrovės akcininkai su tuo sutinka. Akcinės bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje nurodyta forma.“
 
-\#### 6 straipsnis. 65 straipsnio pakeitimas
+## 6 straipsnis. 65 straipsnio pakeitimas
 
 Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
@@ -156,7 +156,7 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 6. Nereikalaujama, kad reorganizuojamos ir dalyvaujančios reorganizavime bendrovės vadovas pateiktų šio straipsnio 5 dalyje nustatytą informaciją, jeigu visi kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime bendrovės akcininkai su tuo sutinka. Bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje nurodyta forma.“
 
-\#### 7 straipsnis. Įstatymo papildymas 651 straipsniu
+## 7 straipsnis. Įstatymo papildymas 651 straipsniu
 
 Papildyti Įstatymą 65^1 straipsniu:
 
@@ -170,7 +170,7 @@ Papildyti Įstatymą 65^1 straipsniu:
 
 2. Kai yra šio straipsnio 1 dalyje nurodytos sąlygos, sprendimą dėl reorganizavimo išdalijimo būdu priima po reorganizavimo tęsiančių veiklą bendrovių visuotiniai akcininkų susirinkimai.“
 
-\#### 8 straipsnis. 67 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 67 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 67 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -182,13 +182,13 @@ Papildyti Įstatymą 65^1 straipsniu:
 
 3. Buvusias 67 straipsnio 3, 4, 5 dalis laikyti atitinkamai 4, 5, 6 dalimis.
 
-\#### 9 straipsnis. 69 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 69 straipsnio 2 dalies pakeitimas
 
 Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Iki bendrovės, kuri po reorganizavimo tęs veiklą, dokumentų pateikimo juridinių asmenų registro tvarkytojui sušaukiamas šios bendrovės visuotinis akcininkų susirinkimas tais atvejais, kai tai numatyta šiame Įstatyme ar reorganizavimo sąlygose. Šiame visuotiniame akcininkų susirinkime turi teisę dalyvauti ir balsuoti tiek po reorganizavimo tęsiančios veiklą bendrovės akcininkai, tiek po reorganizavimo pasibaigiančių bendrovių akcininkai, kuriems pagal reorganizavimo sąlygas priskirtos po reorganizavimo tęsiančios veiklą bendrovės akcijos.“
 
-\#### 10 straipsnis. 70 straipsnio pakeitimas
+## 10 straipsnis. 70 straipsnio pakeitimas
 
 Pakeisti 70 straipsnį ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ Pakeisti 70 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu šio straipsnio 2 dalyje nustatytu atveju visuotinis akcininkų susirinkimas nešaukiamas, sprendimą dėl reorganizavimo prijungimo būdu pasibaigus šio straipsnio 2 dalies 3 punkte nurodytam terminui priima po reorganizavimo tęsiančios veiklą bendrovės valdyba, jeigu valdyba nesudaroma – bendrovės vadovas. Sprendimu dėl reorganizavimo patvirtinamos reorganizavimo sąlygos ir pakeisti po reorganizavimo tęsiančios veiklą bendrovės įstatai. Dokumentas, patvirtinantis sprendimą reorganizuoti bendrovę, ne vėliau kaip per 5 dienas turi būti pateiktas juridinių asmenų registro tvarkytojui.“
 
-\#### 11 straipsnis. Įstatymo papildymas 701 straipsniu
+## 11 straipsnis. Įstatymo papildymas 701 straipsniu
 
 Papildyti įstatymą 70^1 straipsniu:
 
@@ -224,13 +224,13 @@ Papildyti įstatymą 70^1 straipsniu:
 
 3. Šis straipsnis netaikomas prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė.“
 
-\#### 12 straipsnis. 74 straipsnio 2 dalies papildymas 7 punktu
+## 12 straipsnis. 74 straipsnio 2 dalies papildymas 7 punktu
 
 Papildyti 74 straipsnio 2 dalį 7 punktu:
 
 „7) panaikinti bendrovės interneto svetainės adresą, jeigu bendrovė jį turi.“
 
-\#### 13 straipsnis. Įstatymo priedo pakeitimas
+## 13 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -266,7 +266,7 @@ priedas
 
 12. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/109/EB, iš dalies keičianti Tarybos direktyvų 77/91/EEB, 78/855/EEB ir 82/891/EEB bei Direktyvos 2005/56/EB nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungiant ir skaidant bendroves (OL 2009 L 259, p. 14).“
 
-\#### 14 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 14 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybės institucija iki 2011 m. rugsėjo 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

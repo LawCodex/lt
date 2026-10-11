@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6AFA618BB47C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6AFA618BB47C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pilietybės įstatymo 12, 18, 20, 26, 28, 30 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [95-4087](https://www.e-tar.lt/portal/lt/legalAct/TAR.9675AD03F3E1); 2003, Nr. [38-1701](https://www.e-tar.lt/portal/lt/legalAct/TAR.C4FF540756F8); 2004, Nr. [180-6659](https://www.e-tar.lt/portal/lt/legalAct/TAR.856BE99FAD9A))
 
-\#### 1 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 12 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „4. Šio straipsnio 1 dalies 6 punkto nuostatos užsienio valstybių piliečiams, turintiems pabėgėlio statusą Lietuvos Respublikoje, netaikomos.“
 
-\#### 2 straipsnis. 18 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 2 straipsnis. 18 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 „4. Šio straipsnio 2 dalyje nurodyti asmenys, įgiję kitos valstybės pilietybę ar gavę kitos valstybės piliečio pasą arba kitą tos valstybės pilietybę patvirtinantį dokumentą iki 2002 m. gruodžio 31 d., laikomi netekusiais Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos ar tos valstybės piliečio paso ar kito tos valstybės pilietybę patvirtinančio dokumento išdavimo dienos.“
 
-\#### 3 straipsnis. 20 straipsnio pakeitimas
+## 3 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 3. Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio Įstatymo 18 straipsnyje nustatytais pagrindais, šio Įstatymo 16 straipsnio nuostatos netaikomos.“
 
-\#### 4 straipsnis. 26 straipsnio pakeitimas
+## 4 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 13. Asmenys, nurodyti šio Įstatymo 17 straipsnio 1 dalyje, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda vidaus reikalų ministrui ar jo įgaliotai institucijai, migracijos tarnybai arba Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms užsienyje.“
 
-\#### 5 straipsnis. 28 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 6 dalimi
+## 5 straipsnis. 28 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. 28 straipsnio 2 dalyje po žodžio „pilietybę“ įrašyti žodžius „išskyrus asmenis, nurodytus šio Įstatymo 18 straipsnio 2 dalyje“, po skaičių ir žodžių „18 straipsnio 1 dalies 2 punktą“ įrašyti žodžius ir skaičių „ar 4 dalį“ ir šią dalį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 „6. Lietuvos Respublikos pilietybės atsisakymo ir grąžinimo pagal šio Įstatymo 20 straipsnio 2 dalį klausimus sprendžia vidaus reikalų ministras ar jo įgaliota institucija.“
 
-\#### 6 straipsnis. 30 straipsnio pakeitimas
+## 6 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 

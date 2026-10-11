@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7F91F341E8F5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7F91F341E8F5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prokuratūros įstatymo 22 straipsnio papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. 81-1514; 2003, Nr. 42-1919; 2010, Nr. 64-3142)
 
-\#### 1 straipsnis. 22 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 22 straipsnio papildymas ir pakeitimas
 
 Papildyti 22 straipsnį nauja 6 dalimi, buvusias 6, 7 dalis laikyti atitinkamai 7, 8 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Papildyti 22 straipsnį nauja 6 dalimi, buvusias 6, 7 dalis laikyti atitinkamai 
 
 5) jam įsiteisėja apkaltinamasis teismo nuosprendis.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

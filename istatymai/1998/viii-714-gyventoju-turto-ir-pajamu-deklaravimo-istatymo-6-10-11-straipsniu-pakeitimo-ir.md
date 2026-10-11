@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.57619CF39FA5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.57619CF39FA5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 6, 10, 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1997, Nr. [23-542](https://www.e-tar.lt/portal/lt/legalAct/TAR.1BCF61ADEE2A); 1998, Nr. [16-379](https://www.e-tar.lt/portal/lt/legalAct/TAR.F745A1030FB0), Nr. [20-504](https://www.e-tar.lt/portal/lt/legalAct/TAR.B925020919B6))
 
-\#### 1 straipsnis. 6 straipsnio papildymas
+## 1 straipsnis. 6 straipsnio papildymas
 
 6 straipsnį papildyti 2 dalimi:
 
 „2. Lietuvos Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų valdininkams ir pareigūnams, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų nariams pažymų pateikimo terminus ir tvarką nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 2 straipsnis. 10 straipsnio 2 dalies papildymas
+## 2 straipsnis. 10 straipsnio 2 dalies papildymas
 
 10 straipsnio 2 dalyje po žodžių „ir valstybės tarnautojai“ įrašyti žodžius „išskyrus operatyvinės veiklos subjektų teises turinčių valstybės institucijų valdininkus ir pareigūnus, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų narius“ ir šią dalį išdėstyti taip:
 
 „2. Šio įstatymo 1 priedėlyje išvardyti Lietuvos Respublikos gyventojai – politikai ir valstybės tarnautojai, išskyrus operatyvinės veiklos subjektų teises turinčių valstybės institucijų valdininkus ir pareigūnus, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų narius, skelbia „Valstybės žinių“ specialiame priede valstybės lėšomis savo bei savo šeimos narių turto ir pajamų deklaracijų informaciją. Jų patvirtintų deklaracijų nuorašus „Valstybės žinių“ redakcijai kasmet iki liepos 1 dienos pateikia mokesčių inspekcijos. „Valstybės žinios“ deklaracijų informaciją kasmet paskelbia iki rugsėjo 1 dienos.“
 
-\#### 3 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 11 straipsnio 2 punkte po žodžių „pareigūnai ir jų šeimų nariai“ įrašyti žodžius „išskyrus šio straipsnio 4 punkte nurodytus asmenis“, papildyti straipsnį nauju 4 punktu, buvusį 4 punktą laikyti 5 punktu ir visą straipsnį išdėstyti taip:
 

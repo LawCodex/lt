@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8F2EC27AECAF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8F2EC27AECAF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 115-2911; 1998, Nr. 56-1546)
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 5 straipsnio pakeitimas ir papildymas
 
 Pakeisti 5 straipsnio pavadinimą, straipsnį papildyti nauja 7 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo p
 
 Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir išauginusioms bei gerai išauklėjusioms 10 ir daugiau vaikų. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

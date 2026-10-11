@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/483e2152358111f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.483E21523581.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 2 ir 13 straipsnių bei priedo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ TARPTAUTINIŲ SANKCIJŲ ĮSTATYMO NR. IX-2160 2 IR 13 STRAIPSNIŲ BEI PRIEDO PAK
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį naujomis 1 ir 2 dalimis:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusias 2 straipsnio 1–3 dalis laikyti atitinkamai 3–5 dalimis.
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 3. Juridiniai asmenys už tarptautinių sankcijų pažeidimus atsako pagal šį įstatymą, jeigu juridinių asmenų padaryti pažeidimai pagal galiojančius įstatymus neužtraukia juridiniams asmenims baudžiamosios atsakomybės.“
 
-\#### 3 straipsnis. Įstatymo papildymas 131 straipsniu
+## 3 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -76,7 +76,7 @@ Tarptautinių sankcijų pažeidimas yra:
 
 10) Lietuvos Respublikoje įgyvendinant tarptautines sankcijas nustatytos pareigos pateikti kompetentingoms institucijoms informaciją apie subjektui, kuriam taikomos sankcijos, nuosavybės teise priklausančias, jo valdomas ar kontroliuojamas įšaldytas lėšas ar ekonominius išteklius arba turimą informaciją apie Lietuvos Respublikoje esančias lėšas ar ekonominius išteklius, kurie nebuvo įšaldyti, jei ši informacija buvo gauta vykdant profesinę pareigą, nevykdymas.“
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 32 punktu:
 

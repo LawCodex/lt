@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5a4e41924c2e11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5A4E41924C2E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 pakeitimo įstatymas
@@ -26,7 +26,7 @@ ENERGIJOS VARTOJIMO EFEKTYVUMO DIDINIMO ĮSTATYMO NR. XII-2702 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo papildymas 121 straipsniu
+## 1 straipsnis. Įstatymo papildymas 121 straipsniu
 
 Papildyti Įstatymo III skyrių 12^1 straipsniu:
 
@@ -52,13 +52,13 @@ Papildyti Įstatymo III skyrių 12^1 straipsniu:
 
 7) Valstybinė energetikos reguliavimo taryba (toliau – Taryba) – informaciją apie kintamas sąnaudas, faktiškai priskirtas šilumos reguliuojamų kainų paslaugai (produktui), šilumos generavimo techninius rodiklius, išduotus leidimus gaminti ir plėtoti elektros energijos gamybą, piliečių energetikos bendrijų statuso turėtojus, atsinaujinančių išteklių energijos bendrijų statuso turėtojus, pastatuose įrengtų šildymo sistemų ir kombinuotųjų šildymo ir vėdinimo sistemų bei oro kondicionavimo arba kombinuotųjų oro kondicionavimo ir vėdinimo sistemų atitikties energinio efektyvumo reikalavimams periodinius tikrinimus.“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir Tarybos patvirtintos taisyklės.“
 
-\#### 3 straipsnis. Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 nauja redakcija
+## 3 straipsnis. Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 nauja redakcija
 
 Pakeisti Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymą
 
@@ -70,9 +70,9 @@ ENERGIJOS VARTOJIMO EFEKTYVUMO DIDINIMO
 
 **įstatymas**
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir tikslas
+## 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 1. Šis įstatymas nustato energijos vartojimo efektyvumo didinimo valstybinio valdymo, reglamentavimo ir priežiūros teisinius pagrindus.
 
@@ -80,7 +80,7 @@ ENERGIJOS VARTOJIMO EFEKTYVUMO DIDINIMO
 
 3. Šio įstatymo nuostatos yra suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Bendradarbiavimo dėl energijos vartojimo efektyvumo didinimo gairės (toliau – bendradarbiavimo gairės) – visuma tikslų, metodų ir procesų, kaip į energijos vartojimo efektyvumo didinimo politikos formavimą įtraukti visus suinteresuotus asmenis valstybės ar savivaldybių lygmeniu, įskaitant pilietinės visuomenės atstovus, vartotojų organizacijas, siekiant didinti jų informuotumą, gauti grįžtamąjį ryšį apie tokią politiką ir didinti visuomenės pritarimą jai.
 
@@ -122,7 +122,7 @@ c) turi administraciją, valdymo ar priežiūros organą, kurio daugiau kaip pus
 
 15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos nekilnojamojo turto registro įstatyme, Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatyme, Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1099/2008 dėl energetikos statistikos su visais pakeitimais, Deleguotajame reglamente (ES) 2024/1364.
 
-\#### 3 straipsnis. Energijos vartojimo efektyvumo didinimo principai
+## 3 straipsnis. Energijos vartojimo efektyvumo didinimo principai
 
 Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
@@ -134,7 +134,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 4) energijos vartojimo efektyvumo didinimo pirmumo – kaip tai apibrėžta 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) 2018/1999 dėl energetikos sąjungos ir klimato politikos veiksmų valdymo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 663/2009 ir (EB) Nr. 715/2009, Europos Parlamento ir Tarybos direktyvos 94/22/EB, 98/70/EB, 2009/31/EB, 2009/73/EB, 2010/31/ES, 2012/27/ES ir 2013/30/ES, Tarybos direktyvos 2009/119/EB ir (ES) 2015/652 ir panaikinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 525/2013, su visais pakeitimais 2 straipsnio 18 punkte.
 
-\#### 4 straipsnis. Energijos efektyvumo didinimo pirmumo principo taikymas ir stebėsena
+## 4 straipsnis. Energijos efektyvumo didinimo pirmumo principo taikymas ir stebėsena
 
 1. Viešiesiems subjektams ar ūkio subjektams priimant planavimo, politikos ir investicijų sprendimus, kai atskiro (individualaus) investicijų projekto vertė yra daugiau kaip 100 milijonų eurų arba daugiau kaip 175 milijonai eurų transporto infrastruktūros atskirų (individualių) investicijų projektų atveju, jeigu nuo to priklauso energijos suvartojimas ir energijos vartojimo efektyvumas, privalo būti atliekama kaštų ir naudos analizė ir pateikiamos sprendimų alternatyvos. Atliekant kaštų ir naudos analizę kartu su kitais kaštų ir naudos aspektais privalo būti vertinamos energijos vartojimo efektyvumo didinimo alternatyvos, kurias teikiant taip pat turi būti įvertintas energijos nepritekliaus mažinimo aspektas, jeigu planuojami sprendimai paveiks energijos nepriteklių patiriančių asmenų padėtį. Kaip energijos vartojimo efektyvumo didinimo alternatyvos nurodyti energijos vartojimo efektyvumą didinantys sprendimai turi būti įgyvendinami, kai jų nauda yra didesnė už su energijos pasiūla susijusių sprendimų naudą.
 
@@ -148,9 +148,9 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 6. Taryba tvirtina sektorių ar sričių, kuriuose energijos vartojimo efektyvumo didinimo pirmumo principo taikymo ir įgyvendinimo stebėseną Taryba vykdo pagal šio straipsnio 4 dalį, kaštų ir naudos apskaičiavimo aprašą (-us), pagal kurį (-iuos) priimant investicijų sprendimus atliekama šio straipsnio 1 dalyje nurodyta kaštų ir naudos analizė. Energetikos ministro įgaliota institucija ar įstaiga tvirtina sektorių ar sričių, kurių energijos vartojimo efektyvumo didinimo pirmumo principo taikymo ir įgyvendinimo stebėsenos Taryba nevykdo pagal šio straipsnio 4 dalį, kaštų ir naudos apskaičiavimo metodiką, pagal kurią atliekama šio straipsnio 1 dalyje nurodyta kaštų ir naudos analizė. Kaštų ir naudos apskaičiavimo apraše (-uose) ir kaštų ir naudos apskaičiavimo metodikoje įvertinama platesnė efektyvaus energijos vartojimo sprendimų nauda, atsižvelgiant į projekto gyvavimo ciklą, sistemų ir išlaidų efektyvumą, tiekimo saugumą ir kiekybinį įvertinimą visuomenės, sveikatos, ekonomikos ir poveikio klimatui neutralumo požiūriu, taip pat atsižvelgiant į tvarumą ir žiedinę ekonomiką.
 
-\## II SKYRIUS. ENERGIJOS VARTOJIMO EFEKTYVUMO DIDINIMO TIKSLO ĮGYVENDINIMAS
+II SKYRIUS. ENERGIJOS VARTOJIMO EFEKTYVUMO DIDINIMO TIKSLO ĮGYVENDINIMAS
 
-\#### 5 straipsnis. Privalomo sutaupyti galutinės energijos kiekio apskaičiavimas ir įgyvendinimas
+## 5 straipsnis. Privalomo sutaupyti galutinės energijos kiekio apskaičiavimas ir įgyvendinimas
 
 1. Lietuvos Respublikai privalomas sutaupyti galutinės energijos kiekis yra nustatomas remiantis Europos Sąjungos energijos vartojimo efektyvumą reglamentuojančiais teisės aktais. Šis kiekis lygus:
 
@@ -180,7 +180,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 5. Į šio straipsnio 1 dalies 2 punkte nurodytą sutaupytą energijos kiekį yra įskaičiuojami po 2020 m. gruodžio 31 d. esamų ar patvirtintų naujų energijos vartojimo efektyvumo didinimo politikos priemonių sutaupyti galutinės energijos kiekiai.
 
-\#### 6 straipsnis. Energijos vartojimo efektyvumo didinimo politikos priemonės
+## 6 straipsnis. Energijos vartojimo efektyvumo didinimo politikos priemonės
 
 1. Energijos vartojimo efektyvumo didinimo politikos priemonės apima šias priemones ir (arba) jų derinius:
 
@@ -206,7 +206,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 5. Už energijos vartojimo efektyvumo didinimo politikos priemones, išskyrus nurodytąsias šio straipsnio 1 dalies 1 punkte, atsakingos institucijos įdiegia matavimo, kontrolės ir tikrinimo sistemas, pagal kurias būtų patikrinta ne mažiau kaip 10 procentų įdiegtų energijos vartojimo efektyvumo didinimo priemonių. Matavimo, kontrolės ir tikrinimo išvados ir rezultatai turi būti dokumentuoti ir matavimas, kontrolė ir tikrinimas atliekami nepriklausomai nuo energijos vartojimo efektyvumo priemones įsidiegusių asmenų.
 
-\#### 7 straipsnis. Viešųjų subjektų pareigos didinant energijos vartojimo efektyvumą
+## 7 straipsnis. Viešųjų subjektų pareigos didinant energijos vartojimo efektyvumą
 
 1. Bendras visų viešųjų subjektų galutinės energijos suvartojimas kiekvienais metais turi mažėti ne mažiau kaip 1,9 procento, palyginti su viešųjų subjektų 2021 m. bendru galutiniu energijos suvartojimu, kuris yra lygus 5,5 TWh. Viešųjų subjektų galutinės energijos suvartojimo duomenys kiekvienais metais teikiami ir kaupiami Valstybės turto informacinėje paieškos sistemoje Vyriausybės nustatyta tvarka.
 
@@ -246,7 +246,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 10. Prieš atnaujinant viešiesiems subjektams nuosavybės teise priklausančius ar viešųjų subjektų patikėjimo teise valdomus pastatus, kurie įtraukti į šio straipsnio 8 dalyje nurodytus sąrašus ir kurių naudingasis plotas yra didesnis kaip 750 m2, viešieji subjektai privalo įvertinti, ar įmanoma sudaryti šio įstatymo 11 straipsnio 2 dalyje nurodytas energijos taupymo paslaugų sutartis ir naudotis kitomis energijos vartojimo efektyvumą didinančiomis paslaugomis. Viešieji subjektai, prieš atnaujindami jiems nuosavybės teise priklausančius ar viešųjų subjektų patikėjimo teise valdomus pastatus, kurių naudingasis plotas yra didesnis kaip 750 m2, sudaro šio įstatymo 11 straipsnio 2 dalyje nurodytas energijos taupymo paslaugų sutartis ir (ar) naudojasi kitomis energijos vartojimo efektyvumą didinančiomis paslaugomis, jeigu atliktas vertinimas parodė, kad sudaryti tokias sutartis ir (ar) naudotis kitomis energijos vartojimo efektyvumą didinančiomis paslaugomis techniškai įmanoma (be apribojimų yra galimybė sudaryti tokias sutartis ir (ar) naudotis kitomis energijos vartojimo efektyvumą didinančiomis paslaugomis) ir dėl naudojimosi tokiomis paslaugomis bus didesnis skirtumas tarp dėl tokių paslaugų teikimo sukuriamos naudos ir dėl jų teikimo patiriamų sąnaudų nei skirtumas tarp atnaujinant pastatą sukuriamos naudos ir pastato atnaujinimo sąnaudų viešiesiems subjektams atnaujinant tokius pastatus patiems.
 
-\#### 8 straipsnis. Savivaldybių energijos vartojimo efektyvumo didinimo veiksmų planai
+## 8 straipsnis. Savivaldybių energijos vartojimo efektyvumo didinimo veiksmų planai
 
 1. Jeigu pagal Atsinaujinančių išteklių energetikos įstatymo 57 straipsnį savivaldybių rengiamuose savivaldybių atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planuose ir (ar) pagal Lietuvos Respublikos šilumos ūkio įstatymo 8 straipsnį savivaldybių rengiamuose savivaldybių šilumos ūkio specialiuosiuose planuose nėra aptartos konkrečios energijos vartojimo efektyvumo priemonės šio įstatymo 1 straipsnio 2 dalyje, 7 straipsnio 1 dalyje ir 7 straipsnio 3 dalyje nustatytiems rodikliams pasiekti, atitinkamos savivaldybės taryba patvirtina ir viešai paskelbia savo energijos vartojimo efektyvumo didinimo veiksmų planą iki 2030 m., o po 2030 m. ir visais kitais vėlesniais laikotarpiais – atitinkamos savivaldybės ateinančių 10 kalendorinių metų energijos vartojimo efektyvumo didinimo veiksmų planą.
 
@@ -264,7 +264,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 8. Energetikos ministro įgaliota institucija ar įstaiga Vyriausybės įgaliotos institucijos nustatyta tvarka renka, kaupia ir sistemina šio straipsnio 3 ir 4 dalyse nurodytą informaciją ir ją viešai skelbia savo interneto svetainėje bei kiekvienais metais ją atnaujina.
 
-\#### 9 straipsnis. Susitarimai dėl energijos sutaupymo
+## 9 straipsnis. Susitarimai dėl energijos sutaupymo
 
 1. Elektros ir dujų perdavimo sistemos ir skirstomųjų tinklų operatoriai, kuriuose valstybei nuosavybės teise priklausančios akcijos tiesiogiai ar netiesiogiai suteikia daugiau kaip 1/2 balsų bendrovės visuotiniame akcininkų susirinkime, (toliau – valstybės valdomi operatoriai), valstybės ir savivaldybių valdomos įmonės sudaro su Energetikos ministerija viešai skelbiamus susitarimus dėl energijos sutaupymo.
 
@@ -288,7 +288,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 7. Energetikos įmonių investicijos, susijusios su susitarimuose dėl energijos sutaupymo nustatytų energijos vartojimo efektyvumo didinimo priemonių diegimu galutinės energijos vartotojų objektuose, kaip nurodyta šio straipsnio 6 dalyje, nėra pripažįstamos pagrįstomis valstybės reguliuojamoms kainoms peržiūrėti. Apskaitą, susijusią su energijos vartojimo efektyvumo didinimo priemonių diegimu, energetikos įmonės privalo tvarkyti atskirai nuo reguliuojamos veiklos apskaitos.
 
-\#### 10 straipsnis. Susitarimai dėl vartotojų švietimo ir konsultavimo
+## 10 straipsnis. Susitarimai dėl vartotojų švietimo ir konsultavimo
 
 1. Energijos tiekėjai sudaro su Energetikos ministerija viešai skelbiamus susitarimus dėl vartotojų švietimo ir konsultavimo.
 
@@ -312,9 +312,9 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 7. Šio straipsnio nuostatos taip pat taikomos elektros ir dujų skirstomųjų tinklų operatoriams, teikiantiems garantinio tiekimo paslaugą.
 
-\## III SKYRIUS. KITI NACIONALINIU MASTU TAIKOMI VEIKSMAI, DIDINANTYS ENERGIJOS VARTOJIMO EFEKTYVUMĄ
+III SKYRIUS. KITI NACIONALINIU MASTU TAIKOMI VEIKSMAI, DIDINANTYS ENERGIJOS VARTOJIMO EFEKTYVUMĄ
 
-\#### 11 straipsnis. Energijos taupymo paslaugos
+## 11 straipsnis. Energijos taupymo paslaugos
 
 1. Energijos taupymo paslauga gali apimti pastatų, transporto priemonių, technologinių (nuoseklių produkcijos gaminimo) procesų ir įrenginių eksploatavimą ar techninę priežiūrą. Teikiant šią paslaugą, atsiranda galimybė vartotojams patikrinti ir išmatuoti ar apskaičiuoti suvartojamos pirminės ar galutinės energijos kiekį.
 
@@ -334,7 +334,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 4. Skundai ir ginčai dėl energijos taupymo paslaugų teikimo nagrinėjami Energetikos įstatymo ir Lietuvos Respublikos vartotojų teisių apsaugos įstatymo nustatyta tvarka.
 
-\#### 12 straipsnis. Vartotojų skatinimas, konsultavimas ir su vartotojais susijusių sprendimų koordinavimas
+## 12 straipsnis. Vartotojų skatinimas, konsultavimas ir su vartotojais susijusių sprendimų koordinavimas
 
 1. Energetikos sektoriaus planavimo dokumentuose gali būti numatytos energijos vartotojų elgesio keitimo priemonės, skatinančios energijos vartotojus efektyviai vartoti energiją:
 
@@ -386,7 +386,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 6) galimybės gauti finansavimą, dotacijas ar subsidijas, susietas su sutaupytinu minimaliu energijos kiekiu, siekiant sudaryti sąlygas gauti palankesnį kredito įstaigų finansavimą.
 
-\#### 13 straipsnis. Energijos naudojimo vadybos sistema ir energijos vartojimo auditas
+## 13 straipsnis. Energijos naudojimo vadybos sistema ir energijos vartojimo auditas
 
 1. Įmonės, kurių vidutinis metinis galutinės energijos suvartojimas per paskutinius 3 kalendorinius metus (toliau – vertinamas laikotarpis) buvo didesnis kaip 23,6 GWh, ne vėliau kaip per 2 kalendorinius metus nuo vertinamo laikotarpio pabaigos privalo įgyvendinti energijos naudojimo vadybos sistemą.
 
@@ -408,7 +408,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 10. Šio straipsnio 1–3 ir 5–7 dalyse nurodytų įmonių pareigų laikymosi priežiūrą ir energijos vartojimo audito atlikimo kokybės priežiūrą atlieka energetikos ministro įgaliota institucija ar įstaiga energetikos ministro nustatyta tvarka.
 
-\#### 14 straipsnis. Šildymo ir vėsinimo vertinimas ir planavimas
+## 14 straipsnis. Šildymo ir vėsinimo vertinimas ir planavimas
 
 1. Pagal Reglamento (ES) 2018/1999 3 ir 14 straipsnius teikdama Europos Komisijai nacionalinį energetikos ir klimato srities veiksmų planą ar jo atnaujinimus, Energetikos ministerija rengia ir Europos Komisijai pateikia išsamų nacionalinį šildymo ir vėsinimo potencialo vertinimą, kurio tikslas yra identifikuoti ir vėliau panaudoti šildymo ir vėsinimo potencialą planavimo tikslams ir jiems įgyvendinti.
 
@@ -416,7 +416,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 3. Rengiant šio straipsnio 1 dalyje nurodytą išsamų nacionalinį šildymo ir vėsinimo potencialo vertinimą, yra viešai konsultuojamasi su atitinkamais suinteresuotaisiais subjektais, kuriuos galėtų paveikti šio straipsnio 1 dalyje nurodytas vertinimas.
 
-\#### 15 straipsnis. Įrenginių ar duomenų centro kaštų ir naudos analizė
+## 15 straipsnis. Įrenginių ar duomenų centro kaštų ir naudos analizė
 
 1. Asmuo, kuriam nuosavybės teise priklauso arba priklausys šilumos ir (arba) elektros energijos gamybos (išskyrus didelio naudingumo kogeneracijos), pramoninės gamybos technologiniuose procesuose, paslaugoms teikti naudojamas įrenginys, duomenų centras (toliau kartu – objektas) arba šių objektų statytojas privalo atlikti kaštų ir naudos analizę pagal Vyriausybės nustatytą tvarką šiam planuojamam įrengti naujam objektui ar planuojamam atnaujinti objektui, kurio atnaujinimo išlaidos viršija 50 procentų investicijų, reikalingų naujam tos pačios galios objektui įrengti:
 
@@ -444,7 +444,7 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 6. Asmuo, prieš pateikdamas prašymą jam išduoti statybą leidžiantį dokumentą, atliktą objekto kaštų ir naudos analizę privalo pateikti energetikos ministro įgaliotai institucijai ar įstaigai ir gauti pritarimą dėl jos atitikties Vyriausybės nustatytai tvarkai. Energetikos ministro įgaliota institucija ar įstaiga pritaria asmens atliktai objekto kaštų ir naudos analizei, jeigu ji parengta pagal Vyriausybės nustatytos tvarkos apraše nurodytus reikalavimus ir šioje analizėje nurodyta, kad sukuriama nauda viršija objekto kaštus. Energetikos ministro įgaliota institucija ar įstaiga nepritaria asmens atliktai objekto kaštų ir naudos analizei, jeigu ji parengta nesilaikant Vyriausybės nustatytos tvarkos apraše nurodytų reikalavimų ir (ar) šioje analizėje nurodyta, kad objekto kaštai viršija objekto sukuriamą naudą.
 
-\#### 16 straipsnis. Duomenų centrų savininkų ar valdytojų pareigos
+## 16 straipsnis. Duomenų centrų savininkų ar valdytojų pareigos
 
 1. Kiekvienais metais ne vėliau kaip iki gegužės 15 d. 500 kW ir didesnės informacinių technologijų įrengtosios galios poreikio duomenų centrų valdytojai turi savo interneto svetainėje viešai skelbti ir į Europos Komisijos sukurtą Europos Sąjungos duomenų centrų bazę tiesiogiai teikti šią informaciją:
 
@@ -492,9 +492,9 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 5. Daugiau kaip 1 MW bendros vardinės galios duomenų centruose privaloma naudoti atliekinę šilumą, išskyrus atvejus, kai pagal šio įstatymo 15 straipsnį atliktos kaštų ir naudos analizės rezultatai rodo, kad naudoti atliekinę šilumą yra techniškai neįmanoma (nėra prieinamų techninių sprendimų, kaip naudoti atliekinę šilumą nepakenkiant duomenų centro paskirčiai, saugumui ir pagrindinei veiklai) ar ekonomiškai neįmanoma (atliekinės šilumos naudojimas negeneruoja pajamų, padengiančių su tokiu naudojimu susijusių investicijų ir neužtikrinamas atlygis už riziką bei investicijų grąža).
 
-\## IV SKYRIUS. ENERGIJOS GEOGRAFINĖ INFORMACINĖ SISTEMA
+IV SKYRIUS. ENERGIJOS GEOGRAFINĖ INFORMACINĖ SISTEMA
 
-\#### 17 straipsnis. Energijos geografinė informacinė sistema
+## 17 straipsnis. Energijos geografinė informacinė sistema
 
 1. Energijos geografinė informacinė sistema (toliau – ENERGIS) yra valstybės informacinė sistema, skirta šio įstatymo 14 straipsnio 1 dalyje nurodytam nacionaliniam šildymo ir vėsinimo potencialui identifikuoti ir jį išnaudoti.
 
@@ -516,21 +516,21 @@ Energijos vartojimo efektyvumo didinimo pagrindiniai principai yra šie:
 
 7) Taryba – informaciją apie kintamas sąnaudas, faktiškai priskirtas šilumos reguliuojamų kainų paslaugai (produktui), šilumos generavimo techninius rodiklius, išduotus leidimus gaminti ir plėtoti elektros energijos gamybą, piliečių energetikos bendrijų statuso turėtojus, atsinaujinančių išteklių energijos bendrijų statuso turėtojus, pastatuose įrengtų šildymo sistemų ir kombinuotųjų šildymo ir vėdinimo sistemų bei oro kondicionavimo arba kombinuotųjų oro kondicionavimo ir vėdinimo sistemų atitikties energinio efektyvumo reikalavimams periodinius tikrinimus.
 
-\## V SKYRIUS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+V SKYRIUS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
-\#### 18 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 18 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako šio įstatymo nustatyta tvarka.
 
 2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir Tarybos tvirtinamos sankcijų už šio įstatymo pažeidimus skyrimo taisyklės.
 
-\#### 19 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
+## 19 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
 
 1. Šio įstatymo pažeidimus nagrinėja ir sankcijas skiria Taryba.
 
 2. Jeigu Taryba gauna duomenų apie galimą šio įstatymo pažeidimą, ji privalo motyvuotu sprendimu pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą.
 
-\#### 20 straipsnis. Tarybos teisės ir pareigos
+## 20 straipsnis. Tarybos teisės ir pareigos
 
 Taryba:
 
@@ -544,7 +544,7 @@ Taryba:
 
 5) atlieka kitas šiame įstatyme nustatytas funkcijas.
 
-\#### 21 straipsnis. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai
+## 21 straipsnis. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai
 
 1. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai yra:
 
@@ -556,7 +556,7 @@ Taryba:
 
 2. Procedūros dalyviams gali atstovauti jų atstovai.
 
-\#### 22 straipsnis. Šio įstatymo pažeidimo nagrinėjimo tvarka ir terminai
+## 22 straipsnis. Šio įstatymo pažeidimo nagrinėjimo tvarka ir terminai
 
 1. Taryba šio įstatymo pažeidimo nagrinėjimo procedūrą pradeda savo iniciatyva arba gavusi informaciją iš Energetikos ministerijos, energetikos ministro įgaliotos institucijos ar įstaigos, kitų valstybės institucijų ar įstaigų.
 
@@ -582,11 +582,11 @@ Taryba:
 
 7. Procedūros dalyviai turi teisę duoti žodinius ar rašytinius paaiškinimus, teikti prašymus, pateikti papildomą informaciją ir kitus dokumentus.
 
-\#### 23 straipsnis. Pareiga teikti informaciją
+## 23 straipsnis. Pareiga teikti informaciją
 
 Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, privalo Tarybai per jos nurodytą terminą pateikti informaciją ir dokumentus galimiems šio įstatymo pažeidimams nagrinėti.
 
-\#### 24 straipsnis. Tarybos sprendimas atlikus šio įstatymo pažeidimo nagrinėjimo procedūrą
+## 24 straipsnis. Tarybos sprendimas atlikus šio įstatymo pažeidimo nagrinėjimo procedūrą
 
 1. Taryba, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą ir šio įstatymo 22 straipsnio 5 dalyje nurodytus veiksmus, turi teisę priimti šiuos sprendimus:
 
@@ -622,7 +622,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 3. Asmeniui, dėl kurio priimtas šiame straipsnyje nurodytas Tarybos sprendimas, apie tai pranešama raštu per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-\#### 25 straipsnis. Sankcijos
+## 25 straipsnis. Sankcijos
 
 1. Taryba, nustačiusi, kad šio įstatymo 21 straipsnio 1 dalies 1 punkte nurodyti asmenys padarė šio įstatymo pažeidimus, šiame straipsnyje nustatyta tvarka skiria vieną iš sankcijų:
 
@@ -666,13 +666,13 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 10. Skundai dėl Tarybos sprendimų ir veiksmų (neveikimo) teisėtumo ir pagrįstumo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 26 straipsnis. Tarybos sprendimo vykdymas
+## 26 straipsnis. Tarybos sprendimo vykdymas
 
 1. Tarybos sprendimu paskirta bauda turi būti sumokėta per 30 kalendorinių dienų nuo sprendimo dėl baudos skyrimo įteikimo dienos. Apskundus Tarybos sprendimą, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo įsiteisėjimo dienos.
 
 2. Tarybos sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-\#### 27 straipsnis. Tarybos sprendimo arba veiksmų (neveikimo) apskundimas
+## 27 straipsnis. Tarybos sprendimo arba veiksmų (neveikimo) apskundimas
 
 Asmuo, nesutikdamas su Tarybos sprendimu arba veiksmais (neveikimu), turi teisę juos skųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -690,7 +690,7 @@ vartojimo efektyvumo didinimo
 
 ––––––––––––––––––––“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1, 2 straipsnius ir šio straipsnio 2–4 dalis, įsigalioja 2025 m. spalio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B4DC70F7969B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B4DC70F7969B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymas
@@ -522,7 +522,7 @@ savivaldybių biudžetų išlaikomoms įstaigoms ir organizacijoms pasibaigia š
 
 nurodytiems kitiems kreditoriams laikomos pasibaigusiomis, o jų sąskaitos LAIB
 
-\- uždarytomis, šio įstatymo 2 straipsnio 5 dalies nustatyta tvarka patvirtinus
+- uždarytomis, šio įstatymo 2 straipsnio 5 dalies nustatyta tvarka patvirtinus
 
 šių kreditorių sąrašą ir jį paskelbus “Valstybės žiniose”.
 

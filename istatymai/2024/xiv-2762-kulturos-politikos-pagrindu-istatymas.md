@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/66f348502fc411efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.66F348502FC4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kultūros politikos pagrindų įstatymas
@@ -50,9 +50,9 @@ pripažindamassavaiminę ir savarankišką kultūros vertę, kuri padeda siekti 
 
 priima šį įstatymą.
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas nustato kultūros politikos tikslą ir uždavinius, kultūros politikos principus, valstybės ir savivaldybių institucijų ir įstaigų vaidmenį formuojant ir (ar) įgyvendinant kultūros politiką, savivaldybių kultūros politikos santykį su valstybės kultūros politika, kultūros dalyvių sistemą, nacionalinių kultūros įstaigų, nevyriausybinių organizacijų, meno kūrėjų ir meno kūrėjų organizacijų vaidmenį kultūros politikoje, kultūros dalyvių kompetencijų tobulinimą.
 
@@ -60,7 +60,7 @@ priima šį įstatymą.
 
 3. Jeigu kituose kultūros sritį reguliuojančiuose įstatymuose nustatytos kitokios, nei šiame įstatyme įtvirtintos, nuostatos, taikomos šio įstatymo nuostatos.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Kultūra – žmonių individualios ir (ar) kolektyvinės kūrybinės veiklos rezultatas, istoriškai susiformavusi ir nuolat kuriama reikšmių, simbolių ir įgūdžių sistema, įkūnijanti žmonių pasaulėžiūrą ir vertybes, apimanti kalbą, žinias, menus, raštiją, tikėjimus, moralę, papročius, kitus materialius objektus ir nematerialius reiškinius, su tuo susijusias technologijas ir kitus vertingus asmenų ir bendruomenių gebėjimus ir veiklas.
 
@@ -78,7 +78,7 @@ priima šį įstatymą.
 
 8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatyme, Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos profesionaliojo scenos meno įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos tautinio paveldo produktų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.
 
-\#### 3 straipsnis. Kultūros politikos tikslas ir pagrindiniai uždaviniai
+## 3 straipsnis. Kultūros politikos tikslas ir pagrindiniai uždaviniai
 
 1. Kultūros politikos tikslas – užtikrinti Lietuvos kultūros išsaugojimą, tęstinumą ir tarptautinį konkurencingumą, skatinti tolygią ir tvarią kultūros raidą ir plėtrą, didinti kultūrinę įtrauktį.
 
@@ -94,7 +94,7 @@ priima šį įstatymą.
 
 5) stiprinti valstybės institucijų ir įstaigų, savivaldybių institucijų ir įstaigų ir kultūros dalyvių bendradarbiavimą.
 
-\#### 4 straipsnis. Kultūros politikos principai
+## 4 straipsnis. Kultūros politikos principai
 
 Kultūros politika formuojama ir įgyvendinama remiantis šiais principais:
 
@@ -114,7 +114,7 @@ Kultūros politika formuojama ir įgyvendinama remiantis šiais principais:
 
 8) savitumo. Kultūros politikos sprendimai priimami siekiant išsaugoti ir puoselėti unikalius Lietuvos nacionalinės kultūros aspektus, nulemtus Lietuvos kultūrinių, istorinių, geografinių, etninių, socialinių, religinių, politinių ir kitų aplinkybių.
 
-\#### 5 straipsnis. Kultūros horizontalumo principo taikymas kitose valstybės politikos srityse
+## 5 straipsnis. Kultūros horizontalumo principo taikymas kitose valstybės politikos srityse
 
 Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam tikros srities veiksnius ir sąsajas su kultūra bei atitinkamus kultūros politikos sprendimus:
 
@@ -144,9 +144,9 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 13) kitose srityse – įvertinami šioms sritims reikšmingi kultūros veiksniai.
 
-\## II SKYRIUS. VALSTYBĖS IR SAVIVALDYBIŲ KULTŪROS POLITIKA
+II SKYRIUS. VALSTYBĖS IR SAVIVALDYBIŲ KULTŪROS POLITIKA
 
-\#### 6 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų vaidmuo formuojant ir (ar) įgyvendinant kultūros politiką
+## 6 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų vaidmuo formuojant ir (ar) įgyvendinant kultūros politiką
 
 1. Lietuvos Respublikos Seimas, Lietuvos Respublikos Vyriausybė, ministerijos, kitos valstybės institucijos ir įstaigos, savivaldybių institucijos ir įstaigos, regionų plėtros tarybos, veikdami pagal Lietuvos Respublikos Konstitucijos, įstatymų, Lietuvos Respublikos tarptautinių sutarčių, Vyriausybės nutarimų ir kitų teisės aktų suteiktą kompetenciją, priima sprendimus, užtikrinančius kultūros politikos principų taikymą, ir yra atsakingi už kultūros politikos tikslo pasiekimą.
 
@@ -158,7 +158,7 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 5. Kultūros ministras nustato savivaldybių kultūros politikos gaires, kuriose įtvirtinamos kultūros politikos tikslo ir uždavinių įgyvendinimo savivaldybėse stebėsenos, renkamų kultūros statistikos rodiklių, tolygaus ir kokybiško kultūros paslaugų teikimo savivaldybių teritorijose, šio įstatymo 7 straipsnio 3 dalyje numatytų bendradarbiavimo sričių įgyvendinimo ir kitos kultūros politikos įgyvendinimo savivaldybėse rekomendacijos.
 
-\#### 7 straipsnis. Savivaldybių kultūros politikos santykis su valstybės kultūros politika
+## 7 straipsnis. Savivaldybių kultūros politikos santykis su valstybės kultūros politika
 
 1. Savivaldybių institucijos, įgyvendindamos šį įstatymą ir kitus kultūros srities įstatymus, vertina objektyvius kultūros būklės ir procesų rezultatus ir rodiklius, teikiamų ar numatomų teikti kultūros paslaugų kiekį, mastą, kokybę, savivaldybės bendruomenių viešųjų interesų tenkinimą.
 
@@ -176,9 +176,9 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 5) vykdydamos kultūros politikos įgyvendinimo ir žmogaus kultūrinių teisių ir laisvių įgyvendinimo stebėseną.
 
-\## III SKYRIUS. KULTŪROS DALYVIAI
+III SKYRIUS. KULTŪROS DALYVIAI
 
-\#### 8 straipsnis. Kultūros dalyviai
+## 8 straipsnis. Kultūros dalyviai
 
 1. Kultūros dalyviai yra:
 
@@ -192,13 +192,13 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 2. Už kultūros politikos formavimą ir (ar) įgyvendinimą atsakingos valstybės ir savivaldybių institucijos, pasitelkdamos šio straipsnio 1 dalies 1–3 punktuose nurodytus kultūros dalyvius, užtikrina tolygų ir kokybišką kultūros paslaugų teikimą visoje Lietuvos Respublikos teritorijoje ir sudaro sąlygas visoms visuomenės grupėms dalyvauti kultūroje ir pažinti kultūros įvairovę.
 
-\#### 9 straipsnis. Nacionalinių kultūros įstaigų vaidmuo kultūros politikoje
+## 9 straipsnis. Nacionalinių kultūros įstaigų vaidmuo kultūros politikoje
 
 1. Nacionalinės kultūros įstaigos atlieka lyderių vaidmenį įstatymų ar kitų teisės aktų pavestose srityse, užtikrina ilgalaikę kultūros politikos įgyvendinimo raidą, savo veikloje taikydamos pažangias kultūros kūrybos, kultūros paveldo puoselėjimo ir aktualizavimo, kultūros sklaidos priemones.
 
 2. Nacionalinių kultūros įstaigų savininkė yra valstybė. Valstybės kaip nacionalinės kultūros įstaigos savininkės teises ir pareigas įgyvendina Kultūros ministerija.
 
-\#### 10 straipsnis. Nevyriausybinių organizacijų vaidmuo kultūros politikoje
+## 10 straipsnis. Nevyriausybinių organizacijų vaidmuo kultūros politikoje
 
 1. Nevyriausybinės organizacijos, savo kultūrinės ir kūrybinės veiklos tikslus ir jų įgyvendinimo formas pasirinkdamos savarankiškai ir nepriklausomai, prisideda prie kultūros politikos tikslo įgyvendinimo:
 
@@ -216,7 +216,7 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 2. Kultūros įstaigos, kurių savininkė ar dalininkė (-ės) yra valstybė ar savivaldybė (-ės), bendradarbiauja su nevyriausybinėmis organizacijomis, sudarydamos joms sąlygas teikti kultūros paslaugas ir (ar) įgyvendindamos bendrus projektus ar veiklas.
 
-\#### 11 straipsnis. Meno kūrėjų ir meno kūrėjų organizacijų vaidmuo kultūros politikoje
+## 11 straipsnis. Meno kūrėjų ir meno kūrėjų organizacijų vaidmuo kultūros politikoje
 
 1. Meno kūrėjai ir meno kūrėjų organizacijos užtikrina kultūros gyvybingumą ir aktualumą, kultūrinio tapatumo tęstinumą, reflektuodami ir kūrybiškai reaguodami į kylančius kultūrinius ir vertybinius iššūkius, kintančias geopolitines, ekonomines, socialines ir kitas aplinkybes.
 
@@ -224,7 +224,7 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 3. Meno kūrėjai ir meno kūrėjų organizacijos teikia nuomonę, išvadas ar siūlymus valstybės ir savivaldybės institucijoms ir įstaigoms dėl kultūros politikos formavimo ir (ar) įgyvendinimo, kultūros politikos prioritetų nustatymo, kultūros srities teisinio reglamentavimo tobulinimo.
 
-\#### 12 straipsnis. Kultūros dalyvių kompetencijų tobulinimas
+## 12 straipsnis. Kultūros dalyvių kompetencijų tobulinimas
 
 1. Valstybė sudaro galimybes įgyti kultūros dalyvių funkcijoms atlikti reikalingų bendrųjų ir (ar) profesinių kompetencijų (toliau – kompetencijos) ir (ar) jas tobulinti.
 
@@ -240,9 +240,9 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 3) tikslingumo – kompetencijų ugdymas yra pagrįstas konkrečiais kultūros dalyvių poreikiais.
 
-\## IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 6 straipsnio 3 dalį, 12 straipsnį ir šio straipsnio 4 dalį, įsigalioja 2025 m. sausio 1 d.
 
@@ -252,7 +252,7 @@ Sprendimai kitose valstybės politikos srityse priimami įvertinus šiuos tam ti
 
 4. Kultūros ministras iki 2024 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 14 straipsnis. Teisinio reguliavimo ex post vertinimas
+## 14 straipsnis. Teisinio reguliavimo ex post vertinimas
 
 1. Kultūros ministerija atlieka šiame įstatyme nustatyto teisinio reguliavimo poveikio ex post vertinimą (toliau – ex post vertinimas).
 

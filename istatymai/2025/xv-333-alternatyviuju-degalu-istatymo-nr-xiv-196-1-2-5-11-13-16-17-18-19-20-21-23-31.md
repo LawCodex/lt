@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7527063155c711f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7527063155C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 1, 2, 5, 11, 13, 16, 17, 18, 19, 20, 21, 23, 31, 32, 33 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ ALTERNATYVIŲJŲ DEGALŲ ĮSTATYMO NR. XIV-196 1, 2, 5, 11, 13, 16, 17, 18, 19, 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo tikslas – mažinti transporto sektoriaus poveikį klimato kaitai ir aplinkos oro taršai, siekiant, kad 2030 metais atsinaujinančių energijos išteklių dalis transporto sektoriuje, palyginti su bendruoju galutiniu energijos suvartojimu transporto sektoriuje, sudarytų ne mažiau kaip 29 procentus. Šiuo įstatymu taip pat siekiama, kad, nesukeliant ekosistemų degradacijos pavojaus, iki 2030 metų naftos degalų suvartojimas kelių transporte, palyginti su naftos degalų suvartojimu 2021 metais, sumažėtų ne mažiau kaip 39 procentais.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -40,13 +40,13 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Pripažinti netekusia galios 2 straipsnio 15 dalį.
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) tvirtina DAEI apskaitos vienetų sistemos administravimo tvarkos aprašą energetikos ministro įgaliotos įstaigos ar įmonės teikimu;“.
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 5 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) skiria šio įstatymo 32 straipsnio 1 dalyje nustatytas sankcijas;“.
 
-\#### 5 straipsnis. 13 straipsnio pakeitimas
+## 5 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba):
 
 4) skiria šio įstatymo 32 straipsnio 2 dalyje nustatytas sankcijas.“
 
-\#### 6 straipsnis. 16 straipsnio pakeitimas
+## 6 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -140,13 +140,13 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 16. Apskaičiuojant, kokią procentinę dalį kiekvieno degalų tiekėjo transporto sektoriui patiektų degalų ir degalų iš atsinaujinančių energijos išteklių energinės vertės dalyje pagal šio straipsnio 1 dalyje nustatytus tikslus turi sudaryti pažangieji biodegalai ir iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras, į apskaičiavimo formulės vardiklį nėra įtraukiamas degalų tiekėjo transporto sektoriui patiektas iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas
+## 7 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „1. Kiekvienais kalendoriniais metais degalai iš atsinaujinančių energijos išteklių turi sudaryti atitinkamą bendros degalų tiekėjo transporto sektoriui patiektų degalų ir degalų iš atsinaujinančių energijos išteklių energinės vertės dalį:“.
 
-\#### 8 straipsnis. 17 straipsnio pakeitimas
+## 8 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 10. DAEI apskaitos vienetai viešai prieinamų įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis ir geležinkelio įmonėms (vežėjams) suteikiami už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones, jeigu jie atitinka dalyvavimo DAEI apskaitos vienetų sistemoje ir elektros energijos, patiektos į elektrines transporto priemones, kiekio apskaičiavimo reikalavimus, nustatytus DAEI apskaitos vienetų sistemos administravimo tvarkos apraše. Viešai prieinamų ir privačių įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis DAEI apskaitos vienetai suteikiami tik už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones per jiems priklausančias ir (ar) kitais teisėtais pagrindais valdomas elektromobilių įkrovimo prieigas. DAEI apskaitos vienetai energetikos ministro nustatyta tvarka taip pat gali būti suteikiami už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones per privačias (įskaitant namų ūkiuose naudojamas) elektromobilių įkrovimo prieigas. Elektros energijos iš atsinaujinančių energijos išteklių kiekis, patiektas į elektrines transporto priemones, nustatomas vadovaujantis energetikos ministro nustatyta tvarka, atsižvelgiant į Lietuvoje suvartotos elektros energijos iš atsinaujinančių išteklių vidutinę procentinę dalį, nustatytą per pastaruosius dvejus metus iki einamųjų metų.“
 
-\#### 9 straipsnis. 18 straipsnio pakeitimas
+## 9 straipsnis. 18 straipsnio pakeitimas
 
 1. Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -256,7 +256,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 11. Pasibaigus finansiniams metams, DAEI apskaitos vienetų sistemos valdytojas iki po jų einančių metų gegužės 1 dienos privalo pateikti Tarybai finansinių ataskaitų rinkinį, kuriame būtų aiškiai nurodytos DAEI apskaitos vienetų sistemos administravimo veiklos sąnaudos. Taryba, įvertinusi DAEI apskaitos vienetų sistemos valdytojo veiklos sąnaudas, gali pareikalauti, kad DAEI apskaitos vienetų sistemos valdytojas peržiūrėtų patvirtintas įmokas už jo teikiamas paslaugas, siekdama užtikrinti, kad DAEI apskaitos vienetų sistemos dalyvių mokamos įmokos būtų pagrįstos DAEI apskaitos vienetų sistemos valdytojo veiklos sąnaudomis.“
 
-\#### 10 straipsnis. 19 straipsnio pakeitimas
+## 10 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -274,7 +274,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 „5. Tarnyba, gavusi degalų mėginių, paimtų šio straipsnio 1 dalyje nurodytų patikrinimų metu, laboratorinių tyrimų rezultatus apie juos Tarnybos nustatyta tvarka informuoja Tarybą.“
 
-\#### 11 straipsnis. 20 straipsnio pakeitimas
+## 11 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -288,7 +288,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 „3. Biodegalų, taip pat transporto sektoriuje suvartoto biokuro, jeigu jie pagaminti iš maistinių ir (ar) pašarinių augalų, naudoto kepimo aliejaus ir (ar) 1 ir 2 kategorijų gyvūninių riebalų, kaip apibrėžiama Reglamente [(EB) Nr. 1069/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R1069&locale=lt), dalis, viršijanti šio straipsnio 1 ir 2 dalyse nustatytas ribas, nėra įskaičiuojama į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų įgyvendinimą.“
 
-\#### 12 straipsnis. Įstatymo papildymas 201 straipsniu
+## 12 straipsnis. Įstatymo papildymas 201 straipsniu
 
 Papildyti Įstatymą 20^1straipsniu:
 
@@ -304,7 +304,7 @@ Papildyti Įstatymą 20^1straipsniu:
 
 5. Šio straipsnio 1 dalyje nurodyti subjektai užtikrina, kad į Europos Sąjungos degalų duomenų bazę teikiamų duomenų tikslumas ir išsamumas būtų patikrintas pasitelkus sertifikavimo įmones, kurios atlieka sertifikavimą pagal Europos Komisijos sprendimu pripažintą savanorišką schemą. Šio straipsnio 1 dalyje nurodytų subjektų į Europos Sąjungos degalų duomenų bazę teikiamų duomenų tikslumas ir išsamumas taip pat gali būti užtikrinami per DAEI apskaitos vienetų sistemą, jeigu degalai iš atsinaujinančių energijos išteklių yra tiekiami vidaus rinkai, o DAEI apskaitos vienetai yra suteikti panaudojant pagal Europos Komisijos sprendimu pripažintą savanorišką schemą išduotą atitiktį tvarumo charakteristikoms patvirtinantį sertifikatą, kuris taip pat gali būti papildytas atsinaujinančių išteklių kilmės garantija.“
 
-\#### 13 straipsnis. 21 straipsnio pakeitimas
+## 13 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -342,13 +342,13 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 12. Pakeistas žaliavų sąrašas įsigalioja ne anksčiau kaip po 90 kalendorinių dienų nuo jo patvirtinimo dienos.“
 
-\#### 14 straipsnis. 23 straipsnio pakeitimas
+## 14 straipsnis. 23 straipsnio pakeitimas
 
 Papildyti 23 straipsnį 28 dalimi:
 
 „28. Elektrinių kelių transporto priemonių gamintojai suprantami taip, kaip apibrėžiami 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamente [(ES) 2018/858](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018R0858&locale=lt) dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai [(EB) Nr. 715/2007](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32007R0715&locale=lt) ir [(EB) Nr. 595/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R0595&locale=lt) bei panaikinama Direktyva [2007/46/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32007L0046&locale=lt), turi užtikrinti, kad pagamintose elektrinėse transporto priemonėse būtų įdiegta tokia transporto priemonės informacinė valdymo sistema, kuri leistų elektrinių kelių transporto priemonių savininkams ir naudotojams, taip pat savininkų ir naudotojų vardu veikiančioms trečiosioms šalims tikruoju laiku nediskriminacinėmis sąlygomis, nemokamai, laikantis duomenų apsaugos taisyklių, susipažinti su elektrinėje kelių transporto priemonėje sukauptais duomenimis, susijusiais su elektrinės kelių transporto priemonės baterijos būkle, įkrovos būsena, įkrovimo galios parametrais ir baterijos talpa, taip pat elektrinės kelių transporto priemonės buvimo vieta, kai elektrinės kelių transporto priemonės savininkas tokį veiksmą įgalina elektrinės kelių transporto priemonės informacinėje sistemoje.“
 
-\#### 15 straipsnis. 31 straipsnio pakeitimas
+## 15 straipsnis. 31 straipsnio pakeitimas
 
 1. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -362,7 +362,7 @@ Papildyti 23 straipsnį 28 dalimi:
 
 „7. Vartotojų informavimo tikslu subjektai, vykdantys mažmeninę prekybą degalais, energetikos ministro nustatyta tvarka turi skelbti informaciją apie žaliavas, iš kurių buvo pagaminti biodegalai, kurie praeitais kalendoriniais metais buvo įmaišyti į degalinėje parduotų degalų ir biodegalų mišinius. Informacija turi apimti žaliavų pavadinimą ir kilmės šalį. Informacija gali būti pateikiama degalinės, kurioje buvo vykdoma prekyba degalų ir biodegalų mišiniais, teritorijoje, vartotojams prieinamoje vietoje, arba subjekto, vykdančio mažmeninę prekybą degalais, interneto svetainėje.“
 
-\#### 16 straipsnis. 32 straipsnio pakeitimas
+## 16 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -388,7 +388,7 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 3) už reikalavimų, nustatytų šio įstatymo 31 straipsnio 2 dalyje, nevykdymą skiria įspėjimą arba baudą iki penkių tūkstančių eurų.“
 
-\#### 17 straipsnis. 33 straipsnio pakeitimas
+## 17 straipsnis. 33 straipsnio pakeitimas
 
 1. Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -416,7 +416,7 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 „12. Tarybos ar Tarnybos sprendimo, kuriuo skiriama bauda, nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos. Tarybos ar Tarnybos sprendimai, kuriais skiriama bauda, skelbiami viešai, interneto svetainėje, Tarybos ir Tarnybos nustatyta tvarka, nepažeidžiant asmens duomenų apsaugos, valstybės, tarnybos, komercinės, banko, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat fizinio asmens teisės į privataus gyvenimo neliečiamumą. Sprendimai skelbiami 5 metus nuo jų paskelbimo dienos.“
 
-\#### 18 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 18 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 5, 7 ir 15 straipsnius ir šio straipsnio 3 dalį, įsigalioja 2025 m. liepos 14 d.
 

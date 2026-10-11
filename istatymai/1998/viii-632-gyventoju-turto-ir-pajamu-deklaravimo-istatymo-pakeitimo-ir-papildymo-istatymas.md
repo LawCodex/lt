@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B925020919B6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B925020919B6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1997, Nr. [23-542](https://www.e-tar.lt/portal/lt/legalAct/TAR.1BCF61ADEE2A))
 
-\#### 1 straipsnis. 11 straipsnio papildymas
+## 1 straipsnis. 11 straipsnio papildymas
 
 11 straipsnį papildyti nauju 2 punktu, buvusius 2, 3 punktus laikyti atitinkamai 3, 4 punktais ir straipsnį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 4) kiti Lietuvos Respublikos gyventojai turtą ir pajamas pradeda deklaruoti nuo 1998 metų.“
 
-\#### 2 straipsnis. 1 priedėlio pakeitimas ir papildymas
+## 2 straipsnis. 1 priedėlio pakeitimas ir papildymas
 
 1 priedėlio pavadinime po žodžio „metų“ įrašyti žodžius ir skaičius „ir už 1997 metus“, papildyti 4 punktą žodžiais „teismo antstoliai“, 12 punkte vietoj žodžių „Vidaus reikalų ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų bei rajonų komisariatų ekonominių nusikaltimų tyrimų skyrių (poskyrių) pareigūnai“ įrašyti žodžius „Vidaus reikalų sistemos valdininkai ir pareigūnai“, išbraukti 13 punktą, buvusius 14, 15 punktus laikyti atitinkamai 13, 14 punktais, sąrašą papildyti nauju 15 punktu ir visą priedėlį išdėstyti taip:
 

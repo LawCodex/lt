@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A8CBF536BB5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8A8CBF536BB5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos centrinės kredito unijos įstatymo 9, 31, 50 straipsnių ir priedo pakeitimo ir papildymo įstatymas
@@ -28,25 +28,25 @@ Vilnius
 
 (Žin., 2000, Nr. [45-1288](https://www.e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0); 2004, Nr. [61-2181](https://www.e-tar.lt/portal/lt/legalAct/TAR.816EAAB9F0CD))
 
-\#### 1 straipsnis. 9 straipsnio 9 dalies pakeitimas
+## 1 straipsnis. 9 straipsnio 9 dalies pakeitimas
 
 9 straipsnio 9 dalyje po žodžio „struktūra“ įrašyti žodžius „rizikos valdymo sistema“ ir šią dalį išdėstyti taip:
 
 „9. Licencijos prašančios Centrinės kredito unijos įstatai, veiklos planas, valdymo ir organizacinė struktūra, rizikos valdymo sistema, apskaitos sistema, vidaus kontrolės sistema, techninės, informacinės, technologinės apsaugos priemonės, patalpos, turto draudimas turi užtikrinti saugią ir patikimą Centrinės kredito unijos veiklą ir atitikti tai reglamentuojančius teisės aktus. Taip pat Centrinė kredito unija turi atitikti kitus šio Įstatymo nustatytus reikalavimus, tarp jų teisinės formos, minimalaus kapitalo, reikalavimus buveinei, Centrinės kredito unijos nariams, Centrinės kredito unijos vadovams, ir būti pasirengusi saugiai ir patikimai teikti finansines paslaugas.“
 
-\#### 2 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 31 straipsnio 1 dalyje po skaičiaus „3“ įrašyti skaičių „6“ ir šią dalį išdėstyti taip:
 
 „1. Šio Įstatymo 29 straipsnio 1 dalies 1, 2, 3, 6 punktuose nustatytų Centrinės kredito unijos nuosavo kapitalo dalių suma, išreikšta eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį, turi būti ne mažesnė kaip 1 milijonas eurų.“
 
-\#### 3 straipsnis. 50 straipsnio 2 dalies papildymas
+## 3 straipsnis. 50 straipsnio 2 dalies papildymas
 
 Papildyti 50 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 
 „2. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu ir priežiūros institucijos teisės aktais. Atliekant Centrinės kredito unijos finansinės grupės jungtinę (konsoliduotą) priežiūrą, *mutatis mutandis*taikomos Bankų įstatymo ir priežiūros institucijos teisės aktų nuostatos, reglamentuojančios finansinių grupių jungtinę (konsoliduotą) priežiūrą.“
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

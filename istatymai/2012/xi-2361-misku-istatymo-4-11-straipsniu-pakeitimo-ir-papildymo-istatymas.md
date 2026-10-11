@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F3C5B7B4057F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F3C5B7B4057F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 4, 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981); 2003, Nr. [123-5593](https://www.e-tar.lt/portal/lt/legalAct/TAR.7501477AA243); 2011, Nr. [74-3548](https://www.e-tar.lt/portal/lt/legalAct/TAR.B37C11B10EEE))
 
-\#### 1 straipsnis. 4 straipsnio 3 dalies papildymas 4 punktu
+## 1 straipsnis. 4 straipsnio 3 dalies papildymas 4 punktu
 
 Papildyti 4 straipsnio 3 dalį 4 punktu:
 
 „4) atidalijama privati miško valda buvusiai sodybai atstatyti.“
 
-\#### 2 straipsnis. 11 straipsnio 1, 2, 3 dalių papildymas ir pakeitimas
+## 2 straipsnis. 11 straipsnio 1, 2, 3 dalių papildymas ir pakeitimas
 
 1. Papildyti 11 straipsnio 1 dalį 7 punktu:
 
@@ -50,11 +50,11 @@ Papildyti 4 straipsnio 3 dalį 4 punktu:
 
 „3. Valstybiniuose parkuose, biosferos rezervatuose ir biosferos poligonuose esančią miško žemę paversti kitomis naudmenomis leidžiama tik reikmėms, susijusioms su saugomų teritorijų apsauga, tvarkymu, pritaikymu visuomenės poreikiams ir naudojimu rekreacijai, jeigu tai numatyta šių saugomų teritorijų planavimo dokumentuose ir neprieštarauja valstybinių parkų, biosferos rezervatų ir biosferos poligonų nuostatams. Šie apribojimai netaikomi šio straipsnio 1 dalies 7 punkte nustatytu atveju.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2013 m. sausio 1 d.
 
-\#### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
+## 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

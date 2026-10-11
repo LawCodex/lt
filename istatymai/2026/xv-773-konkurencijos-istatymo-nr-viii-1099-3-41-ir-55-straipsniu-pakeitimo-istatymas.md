@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7944e180282e11f1a552c76556910e9c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7944E180282E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 41 ir 55 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ KONKURENCIJOS ĮSTATYMO NR. VIII-1099 3, 41 IR 55 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 29 dalį ir ją išdėstyti taip:
 
 „29. Šiame įstatyme vartojama sąvoka „valstybės pagalba“ suprantama taip, kaip apibrėžiama Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje. Šiame įstatyme vartojama sąvoka „nereikšminga (*de minimis*) pagalba“ suprantama taip, kaip apibrėžiama 2023 m. gruodžio 13 d. Komisijos reglamente [(ES) 2023/2831](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R2831&locale=lt) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo *de minimis* pagalbai su visais pakeitimais, 2013 m. gruodžio 18 d. Komisijos reglamente [(ES) Nr. 1408/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R1408&locale=lt) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo *de minimis* pagalbai žemės ūkio sektoriuje su visais pakeitimais, 2014 m. birželio 27 d. Komisijos reglamente [(ES) Nr. 717/2014](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32014R0717&locale=lt) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo *de minimis* pagalbai žuvininkystės ir akvakultūros sektoriuje su visais pakeitimais ir 2023 m. gruodžio 13 d. Komisijos reglamente [(ES) 2023/2832](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R2832&locale=lt) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo *de minimis* pagalbai, skiriamai visuotinės ekonominės svarbos paslaugas teikiančioms įmonėms, su visais pakeitimais.“
 
-\#### 2 straipsnis. 41 straipsnio pakeitimas
+## 2 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Teismas ne vėliau kaip kitą darbo dieną nuo sprendimo taikyti šio įstatymo 40 straipsnio 1 dalyje nustatytas sankcijas įsiteisėjimo dienos pateikia Juridinių asmenų registro duomenų tvarkytojui šio sprendimo kopiją. Asmenų, kuriems įsiteisėjusiu teismo sprendimu apribota teisė eiti viešojo ir (arba) privataus juridinio asmens vadovo pareigas ar būti kolegialaus organo nariu, sąrašas skelbiamas Juridinių asmenų registro duomenų tvarkytojo interneto svetainėje, *mutatis mutandis* vadovaujantis Lietuvos Respublikos juridinių asmenų nemokumo įstatymo 14 straipsnio nuostatomis.“
 
-\#### 3 straipsnis. 55 straipsnio pakeitimas
+## 3 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 7. Pagalbos registro informacinėje sistemoje objektai yra registruojami ir joje tvarkomi duomenys teikiami neatlygintinai.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 3 straipsnis įsigalioja 2026 m. gegužės 1 d.
 

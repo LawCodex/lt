@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.795F9BE0DF6E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.795F9BE0DF6E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 1, 51, 70, 72, 73, 74, 75, 76, 122, 437 straipsnių pakeitimo ir papildymo bei kodekso papildymo 17(1), 69(1), 71(1), 77(1) straipsniais ir priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777))
 
-\#### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 2 dalimi
 
 Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 1 straipsnį 2 dalimi ir šį straipsnį išdėstyti taip:
 
 2. Baudžiamojo proceso taisyklės yra suderintos su Europos Sąjungos teisės aktų, nurodytų Lietuvos Respublikos baudžiamojo proceso kodekso priede, nuostatomis.“
 
-\#### 2 straipsnis. Kodekso papildymas 171 straipsniu
+## 2 straipsnis. Kodekso papildymas 171 straipsniu
 
 Papildyti Kodeksą 17^1 straipsniu:
 
@@ -48,13 +48,13 @@ Papildyti Kodeksą 17^1 straipsniu:
 
 2. Europos arešto orderiu pripažįstamas ir šio straipsnio 1 dalyje nurodytas sprendimas, perduotas faksimilinio ryšio ar kitokiais elektroninių ryšių galiniais įrenginiais, jeigu yra užtikrintas perduodamos informacijos vientisumas ir autentiškumas.“
 
-\#### 3 straipsnis. 51 straipsnio 1 dalies 8 punkto papildymas
+## 3 straipsnis. 51 straipsnio 1 dalies 8 punkto papildymas
 
 51 straipsnio 1 dalies 8 punkte po žodžio „teismui“ įrašyti žodžius „ar pagal Europos arešto orderį“ ir šį punktą išdėstyti taip:
 
 „8) kai sprendžiama dėl asmens išdavimo (ekstradicijos) arba perdavimo Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį.“
 
-\#### 4 straipsnis. Kodekso papildymas 691 straipsniu
+## 4 straipsnis. Kodekso papildymas 691 straipsniu
 
 Papildyti Kodeksą 69^1 straipsniu:
 
@@ -66,7 +66,7 @@ Papildyti Kodeksą 69^1 straipsniu:
 
 3. Europos arešto orderio išdavimo ir asmens perėmimo pagal Europos arešto orderį tvarką nustato Lietuvos Respublikos generalinis prokuroras ir Lietuvos Respublikos teisingumo ministras.“
 
-\#### 5 straipsnis. 70 straipsnio pakeitimas
+## 5 straipsnis. 70 straipsnio pakeitimas
 
 Pakeisti 70 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 70 straipsnį ir jį išdėstyti taip:
 
 5. Jeigu užsienio valstybės pagal Europos arešto orderį perduotas asmuo sutinka būti išduotas ar perduotas trečiajai valstybei už nusikalstamas veikas, padarytas iki jo perdavimo Lietuvos Respublikai, jis išduodamas (perduodamas) trečiajai valstybei šio Kodekso 75 straipsnyje nustatyta tvarka.“
 
-\#### 6 straipsnis. Kodekso papildymas 711 straipsniu
+## 6 straipsnis. Kodekso papildymas 711 straipsniu
 
 Papildyti Kodeksą 71^1 straipsniu:
 
@@ -114,7 +114,7 @@ Papildyti Kodeksą 71^1 straipsniu:
 
 7. Europos arešto orderį išdavusios valstybės prašymu Lietuvos Respublikos generalinė prokuratūra užtikrina daiktų ir dokumentų, turinčių reikšmės nusikalstamai veikai tirti, ir asmens, dėl kurio išduotas Europos arešto orderis, nusikalstamu būdu įgyto turto paėmimą ir perdavimą Europos arešto orderį išdavusiai valstybei. Jeigu šie daiktai turi būti konfiskuojami ar perduodami teisėtiems savininkams pagal Lietuvos Respublikos įstatymus, Lietuvos Respublikos generalinė prokuratūra juos gali perduoti tik laikinai, kol jie reikalingi baudžiamajam procesui Europos arešto orderį išdavusioje valstybėje.“
 
-\#### 7 straipsnis. 72 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 72 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 72 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti bei papildyti 72 straipsnį ir jį išdėstyti taip:
 
 4. Asmenims, kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, gali būti taikomos ir kitos šiame Kodekse numatytos kardomosios priemonės, jeigu jų pakanka užtikrinti, kad asmuo nepabėgtų (nepasislėptų) nuo Lietuvos Respublikos teisėsaugos institucijų.“
 
-\#### 8 straipsnis. 73 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 73 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 73 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti bei papildyti 73 straipsnį ir jį išdėstyti taip:
 
 3) likusiais atvejais atsižvelgiama į visas asmens išdavimui reikšmingas aplinkybes, ypač į padarytos nusikalstamos veikos pavojingumo pobūdį ir mastą, veikos padarymo vietą ir atitinkamų prašymų išduoti (perduoti) asmenį datas. Teisės aktuose numatytais atvejais teismas atsižvelgia ir į tarptautinių baudžiamojo persekiojimo institucijų (įskaitant Eurojustą) konsultacijas.“
 
-\#### 9 straipsnis. 74 straipsnio 1 ir 2 dalių papildymas
+## 9 straipsnis. 74 straipsnio 1 ir 2 dalių papildymas
 
 1. 74 straipsnio 1 dalyje po žodžių „teismui“ įrašyti žodžius „ar pagal Europos arešto orderį“ ir šią dalį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti bei papildyti 73 straipsnį ir jį išdėstyti taip:
 
 „2. Lietuvos apeliacinio teismo teisėjas privalo išnagrinėti skundą ne vėliau kaip per keturiolika dienų nuo jo padavimo dienos. Skundui nagrinėti gali būti surengtas posėdis, į kurį šaukiami išduotinas (perduotinas) asmuo ir jo gynėjas arba tik gynėjas. Prokuroro dalyvavimas tokiame posėdyje būtinas. Lietuvos apeliacinio teismo teisėjas gali priimti nutartį panaikinti Vilniaus apygardos teismo nutartį arba palikti ją galioti.“
 
-\#### 10 straipsnis. 75 straipsnio pakeitimas
+## 10 straipsnis. 75 straipsnio pakeitimas
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 4. Vilniaus apygardos teismo teisėjas, nustatęs, kad išduotinas (perduotinas) asmuo savo noru sutiko būti išduotas (perduotas) iš Lietuvos Respublikos ir žino teisines išdavimo (perdavimo) pasekmes, o ekstradicijos atvejais – taip pat kad yra Lietuvos Respublikos generalinės prokuratūros pritarimas taikyti supaprastintą išdavimo iš Lietuvos Respublikos tvarką, priima nutartį išduoti (perduoti) asmenį. Jeigu išduotinas (perduotinas) asmuo atsisako savo sutikimo, teisėjas turi priimti nutartį taikyti šio Kodekso 73 straipsnyje numatytą išdavimo (perdavimo) tvarką.“
 
-\#### 11 straipsnis. 76 straipsnio pakeitimas
+## 11 straipsnis. 76 straipsnio pakeitimas
 
 Pakeisti 76 straipsnį ir jį išdėstyti taip:
 
@@ -190,7 +190,7 @@ Pakeisti 76 straipsnį ir jį išdėstyti taip:
 
 5. Jeigu asmuo nebuvo perduotas per šio straipsnio 2 ar 3 dalyje numatytus terminus, jam paskirta kardomoji priemonė panaikinama.“
 
-\#### 12 straipsnis. Kodekso papildymas 771 straipsniu
+## 12 straipsnis. Kodekso papildymas 771 straipsniu
 
 Papildyti Kodeksą 77^1 straipsniu:
 
@@ -208,19 +208,19 @@ Papildyti Kodeksą 77^1 straipsniu:
 
 3. Užsienio valstybės suimtą Lietuvos Respublikos pilietį vežti tranzitu per Lietuvos Respublikos teritoriją į trečiąją valstybę baudžiamojo persekiojimo tikslais gali būti leidžiama tuo atveju, kai nuteistas asmuo galės atlikti paskirtą su laisvės atėmimu susijusią bausmę Lietuvos Respublikoje, jei to pageidautų.“
 
-\#### 13 straipsnis. 122 straipsnio 5 dalies papildymas
+## 13 straipsnis. 122 straipsnio 5 dalies papildymas
 
 122 straipsnio 5 dalyje po žodžio „teismui“ įrašyti žodžius „ar pagal Europos arešto orderį, taip pat užsienio valstybės prašymas laikinai sulaikyti ieškomą asmenį, kol bus atsiųstas prašymas dėl asmens ekstradicijos ar Europos arešto orderis“ ir šią dalį išdėstyti taip:
 
 „5. Be to, suėmimo pagrindas yra prašymas išduoti asmenį užsienio valstybei arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, taip pat užsienio valstybės prašymas laikinai sulaikyti ieškomą asmenį, kol bus atsiųstas prašymas dėl asmens ekstradicijos ar Europos arešto orderis.“
 
-\#### 14 straipsnis. 437 straipsnio 2 dalies papildymas
+## 14 straipsnis. 437 straipsnio 2 dalies papildymas
 
 437 straipsnio 2 dalyje po žodžio „tvarka“ įrašyti žodžius „ar pagal Europos arešto orderį“ ir šią dalį išdėstyti taip:
 
 „2. Priimtas ir įsiteisėjęs nuosprendis iki nuteistojo sulaikymo ar jo pristatymo ekstradicijos tvarka ar pagal Europos arešto orderį vykdomas tik tiek, kiek jį įmanoma įvykdyti be nuteistojo.“
 
-\#### 15 straipsnis. Kodekso papildymas priedu
+## 15 straipsnis. Kodekso papildymas priedu
 
 Papildyti Kodeksą priedu:
 
@@ -234,7 +234,7 @@ priedas
 
 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų.“
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas
+## 16 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

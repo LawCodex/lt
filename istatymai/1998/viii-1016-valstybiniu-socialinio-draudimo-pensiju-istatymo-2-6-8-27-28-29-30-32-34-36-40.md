@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A8E5AC7C3449"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A8E5AC7C3449.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymo 17 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [98-2707](https://www.e-tar.lt/portal/lt/legalAct/TAR.51DE78DB400F))
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 17 straipsnio 1 dalies pakeitimas
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 

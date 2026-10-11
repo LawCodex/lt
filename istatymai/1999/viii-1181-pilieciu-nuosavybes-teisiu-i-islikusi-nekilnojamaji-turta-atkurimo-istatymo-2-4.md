@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9F8B117346DA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9F8B117346DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 2, 4, 5, 10, 12, 13, 15, 16, 18, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [65-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. 2 straipsnio 1 dalies 2 punkte po žodžių „palikimo faktą“ įrašyti žodžius „o šiems mirus, – jų sutuoktiniui, tėvams (įtėviams), vaikams (įvaikiams) ar šių asmenų sutuoktiniui bei vaikams“, 3 punkte po žodžių „nepaliko testamento“ įrašyti žodžius „ar okupacijos metais (1939–1990 metais) emigravo į užsienį ir ten, netekdamas Lietuvos Respublikos pilietybės, priėmė kitos šalies pilietybę“, vietoj žodžių „į jiems tenkančią išlikusio nekilnojamojo turto dalį“ įrašyti žodžius „jei šie asmenys yra Lietuvos Respublikos piliečiai“, iš 4 punkto išbraukti žodžius „į mirusiajam tenkančią išlikusio nekilnojamojo turto dalį“, papildyti dalį 5 punktu ir šią dalį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „3. Šio straipsnio 1 dalyje nurodyti piliečiai teisę atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą gali perleisti notariškai patvirtinta sutartimi savo vaikams (įvaikiams), tėvams (įtėviams), sutuoktiniui bei vaikaičiams ir kitiems asmenims, jeigu šie yra Lietuvos Respublikos piliečiai. „
 
-\#### 2 straipsnis. 4 straipsnio 6, 8, 10, 11 dalių pakeitimas ir papildymas 12 dalimi
+## 2 straipsnis. 4 straipsnio 6, 8, 10, 11 dalių pakeitimas ir papildymas 12 dalimi
 
 1. Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 „12. Žemė, pertvarkyta į tvenkinius, grąžinama natūra piliečiams ribotam tiksliniam naudojimui (išskyrus tvenkinio užtvankos įrenginius, jeigu jie priskirti pavojingiems įrenginiams). Žemė, kurioje įrengti pramoniniai žuvininkystės tvenkiniai, grąžinama natūra piliečiams ribotam tiksliniam naudojimui, jeigu šios žemės savininkai sutinka sudaryti žemės nuomos sutartį su žuvininkystės tvenkinių naudotojais ne mažiau kaip 5 metams. Žuvininkystės tvenkinių naudotojai šiuos tvenkinius nuomoja ir už juos savininkui moka Žemės nuomos įstatymo nustatyta tvarka valstybinės žemės nuomos dydžio žemės nuomos mokestį. Jeigu pilietis atsisako imti pertvarkytą į tvenkinį žemės sklypą arba nesutinka sudaryti šios žemės nuomos sutarties su žuvininkystės tvenkinių naudotojais, ši žemė valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį. Pramoninių žuvininkystės tvenkinių sąrašą ir plotus tvirtina Vyriausybė.“
 
-\#### 3 straipsnis. 5 straipsnio 2 dalies 1 ir 2 punktų pakeitimas ir papildymas
+## 3 straipsnis. 5 straipsnio 2 dalies 1 ir 2 punktų pakeitimas ir papildymas
 
 Pakeisti ir papildyti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti ir papildyti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) perduodant neatlygintinai nuosavybėn piliečiui naują Vyriausybės nustatyta tvarka įrengtą arba neįrengtą žemės sklypą, Vyriausybei patvirtinus jo dydį tame mieste, kuriame buvo turėtoji žemė, išskyrus Kuršių nerijos nacionalinio parko teritoriją, arba piliečių pageidavimu mieste, kuriame jie gyvena (išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos, Birštono miestus ir Kuršių nerijos nacionalinio parko teritoriją). Miestų teritorijų dalyse, kurios įrašytos į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą (kultūros vietovių sąrašą), nauji žemės sklypai individualiai statybai bei kitai paskirčiai nuosavybėn neperduodami (išskyrus atvejus, kai šioje teritorijoje pagal teritorijų planavimo dokumentus piliečiui nuosavybės teise turėtoje žemėje numatoma individuali statyba); neatlygintinai nuosavybėn perduodami naudojami žemės sklypai tik tiems asmenims, kuriems šiose miestų teritorijų dalyse nuosavybės teise priklauso gyvenamieji namai arba kiti pastatai. Piliečiui atsisakius jam perduodamo neatlygintinai nuosavybėn naujo Vyriausybės nustatyta tvarka įrengto arba neįrengto (pasirinktinai) žemės sklypo individualiai statybai, jam pageidaujant, kompensuojama vidutinė Vyriausybės nustatyto dydžio žemės sklypo tame mieste vertės pinigų suma pagal šio įstatymo 16 straipsnį. Šią pinigų sumą nustato Vyriausybė.“
 
-\#### 4 straipsnis. 10 straipsnio 2 ir 3 dalių pakeitimas ir papildymas, 4 dalies pripažinimas netekusia galios
+## 4 straipsnis. 10 straipsnio 2 ir 3 dalių pakeitimas ir papildymas, 4 dalies pripažinimas netekusia galios
 
 1. Pakeisti ir papildyti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti ir papildyti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3. 10 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas bei papildymas
+## 5 straipsnis. 12 straipsnio pakeitimas bei papildymas
 
 Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusius 8 ir 9 punktus laikyti atitinkamai 7 ir 8 punktais, pakeisti 8 punktą, papildyti straipsnį naujais 9 ir 10 punktais ir visus šiuos punktus išdėstyti taip:
 
@@ -106,17 +106,17 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 
 10) atitinka šio įstatymo 4 straipsnio 8, 10 ir 12 dalyse bei 16 straipsnio 5 dalyje nurodytas sąlygas.“
 
-\#### 6 straipsnis. 13 straipsnio 4 punkto pripažinimas netekusiu galios
+## 6 straipsnis. 13 straipsnio 4 punkto pripažinimas netekusiu galios
 
 13 straipsnio 4 punktą pripažinti netekusiu galios, buvusius 5, 6 ir 7 punktus laikyti atitinkamai 4, 5 ir 6 punktais.
 
-\#### 7 straipsnis. 15 straipsnio 2 punkto pakeitimas
+## 7 straipsnis. 15 straipsnio 2 punkto pakeitimas
 
 15 straipsnio 2 punkte vietoj žodžių „daugiau kaip 60 procentų“ įrašyti žodžius „daugiau kaip 50 procentų“ ir šį punktą išdėstyti taip:
 
 „2) iš esmės pertvarkyti taip, kad pakeista daugiau kaip 50 procentų pagrindinių konstrukcijų ir sukurto naujo bendrojo ploto negalima atskirti nuo buvusiojo, jei visas bendras plotas 30 procentų viršija buvusįjį;“.
 
-\#### 8 straipsnis. 16 straipsnio 5–10 dalių pakeitimas ir papildymas
+## 8 straipsnis. 16 straipsnio 5–10 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 16 straipsnio 5 dalį, ją išskirti į šias 5 ir 6 dalis:
 
@@ -138,7 +138,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 
 „8) pinigais – piliečiams, atsisakiusiems jiems perduodamo neatlygintinai nuosavybėn naujo žemės sklypo individualiai statybai miestuose, kompensuojant Vyriausybės nustatyto dydžio žemės sklypo tame mieste vidutinės vertės sumą, kurią nustato Vyriausybė;“.
 
-\#### 9 straipsnis. 18 straipsnio 2 dalies pakeitimas ir papildymas nauja 4 dalimi
+## 9 straipsnis. 18 straipsnio 2 dalies pakeitimas ir papildymas nauja 4 dalimi
 
 1. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 
 3. Buvusias 18 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 10 straipsnis. 20 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 20 straipsnio pakeitimas ir papildymas
 
 20 straipsnio pavadinimo pirmajame sakinyje po žodžio „nuomininkams“ įrašyti žodžius „ir savininkams“, 1 dalyje vietoj žodžių „nuomininkui suteiks kitą gyvenamąją patalpą arba kitaip su juo atsiskaitys šiame įstatyme nurodytais būdais“ įrašyti žodžius „įvykdys jiems suteiktas garantijas“, pakeisti 3 ir 4 dalis, papildyti straipsnį nauja 5 dalimi, 6 dalį pripažinti netekusia galios, buvusią 5 dalį laikyti 6 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 
 7. Šio straipsnio 1 ir 2 dalių nuostatos galioja ir pasikeitus namo, namo dalies, buto savininkui.“
 
-\#### 11 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 11 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/58f00710c07c11e38c43fee5c144a67d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.58F00710C07C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Maroko Karalystės Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS IR MAROKO KARALYSTĖS VYRIAUSYBĖS SUTART
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. lapkričio 25 d. dekretą Nr. 1K-1650, ratifikuoja 2013 m. balandžio 19 d. Vašingtone pasirašytą Lietuvos Respublikos Vyriausybės ir Maroko Karalystės Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B07F6DFD836A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B07F6DFD836A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 2, 3, 13, 14, 24 straipsnių, įstatymo priedo pakeitimo bei papildymo ir 14 straipsnio 9 dalies pripažinimo netekusia galios įstatymas
@@ -28,11 +28,11 @@ Vilnius
 
 (Žin., 1996, Nr. [14-352](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5DA698A4015); 1997, Nr. [65-1550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AF5E1EF50041); 2000, Nr. [87-2655](https://www.e-tar.lt/portal/lt/legalAct/TAR.579DE4857D73); 2002, Nr. [123-5559](https://www.e-tar.lt/portal/lt/legalAct/TAR.81B823F41744); 2003, Nr. [123-5572](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF64AD95845B))
 
-\#### 1 straipsnis. Įstatymo tikslas
+## 1 straipsnis. Įstatymo tikslas
 
 Šiuo Įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo 7 straipsnyje.
 
-\#### 2 straipsnis. 2 straipsnio 1, 5, 10 punktų pakeitimas ir straipsnio papildymas 12, 13, 14 punktais
+## 2 straipsnis. 2 straipsnio 1, 5, 10 punktų pakeitimas ir straipsnio papildymas 12, 13, 14 punktais
 
 1. 2 straipsnio 1 dalies 1 punkte išbraukti žodžius ir skaičių „prieš 50 metų ir anksčiau sukurti“, po žodžio „reiškinius“ įrašyti žodžius „ir įtraukti į valstybinę kilnojamųjų kultūros vertybių apskaitą“, išbraukti žodžius ir skaičių „kilnojamąja kultūros vertybe gali būti ir vėliau nei prieš 50 metų sukurtas kūrinys, turintis didelę kultūrinę vertę“ ir šį punktą išdėstyti taip:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „14) **neteisėtai išvežti iš Europos Sąjungos valstybės narės teritorijos kultūros objektai** – objektai, apibrėžti 1993 m. kovo 15 d. Tarybos direktyvoje 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo, kurie neteisėtai išvežti iš Europos Sąjungos valstybės narės teritorijos. Šiame įstatyme sąvoka „Europos Sąjungos valstybė narė“ apima ir Europos ekonominės erdvės valstybes.“
 
-\#### 3 straipsnis. 3 straipsnio 1 dalies 5, 7, 10, 11 punktų pakeitimas ir 1 dalies papildymas 12, 13, l4 punktais
+## 3 straipsnis. 3 straipsnio 1 dalies 5, 7, 10, 11 punktų pakeitimas ir 1 dalies papildymas 12, 13, l4 punktais
 
 1. 3 straipsnio 1 dalyje išbraukti žodžius „kilnojamosios kultūros“, po žodžio „yra“ įrašyti žodį „meno“ ir šią dalį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Vilnius
 
 „14) kiti daiktai, sukurti prieš 50 metų ir anksčiau.“
 
-\#### 4 straipsnis. 13 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
+## 4 straipsnis. 13 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Vilnius
 
 „6. Kilnojamoji kultūros vertybė išbraukiama iš valstybinės apskaitos, kai ji negrąžinamai išvežama pagal tarpvalstybinius susitarimus šio įstatymo 24 straipsnyje nustatytais atvejais.“
 
-\#### 5 straipsnis. 14 straipsnio 1 dalies pakeitimas ir 9 dalies pripažinimas netekusia galios
+## 5 straipsnis. 14 straipsnio 1 dalies pakeitimas ir 9 dalies pripažinimas netekusia galios
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -112,7 +112,7 @@ Vilnius
 
 3. Buvusias 14 straipsnio 10 ir 11 dalis laikyti atitinkamai 9 ir 10 dalimis.
 
-\#### 6 straipsnis. 24 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 24 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 24 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Vilnius
 
 „16. Dėl neteisėtai išvežtų iš Lietuvos Respublikos teritorijos kilnojamųjų kultūros vertybių ir antikvarinių daiktų išreikalavimo (grąžinimo) į Europos Sąjungos valstybės narės įgaliotą instituciją su reikalavimu grąžinti neteisėtai išvežtus iš Lietuvos Respublikos teritorijos kilnojamąsias kultūros vertybes ir antikvarinius daiktus kreipiasi ir jų susigrąžinimu rūpinasi Kultūros ministerija.“
 
-\#### 7 straipsnis. Įstatymo priedo pakeitimas
+## 7 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

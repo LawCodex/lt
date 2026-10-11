@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.86C3C7186895"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.86C3C7186895.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 3 ir 4 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2001, Nr. 68-2469, Nr. 112-4075)
 
-\#### 1 straipsnis. 3 straipsnio 1, 2, 6 dalių pakeitimas ir straipsnio papildymas 8 dalimi
+## 1 straipsnis. 3 straipsnio 1, 2, 6 dalių pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. 3 straipsnio 1 dalies 2 punkte vietoj žodžių „kartu su nurodytosiomis šio straipsnio 1 dalies 1 punkte neviršija 49,5 procento akcinės bendrovės „Mažeikių nafta“ įstatinio kapitalo“ įrašyti žodžius „skaičiuojant po tokio įstatinio kapitalo padidinimo, sudaro ne daugiau kaip 15,4 procento tuo metu įregistruoto akcinės bendrovės „Mažeikių nafta“ įstatinio kapitalo“ ir šį punktą išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „8. Pranešimas apie pirmąjį akcinės bendrovės „Mažeikių nafta“ akcininkų susirinkimą, vyksiantį po to, kai Lietuvos Respublikos Vyriausybės ir strateginio investuotojo sudarytoje sutartyje nurodyta finansų institucija ir (ar) bet kuris kitas akcinės bendrovės „Mažeikių nafta“ finansinio patarėjo nurodytas asmuo, įskaitant žaliavinės naftos tiekėją pagal ilgalaikę žaliavinės naftos tiekimo sutartį (ir (ar) jo kontroliuojamas asmuo ar kitas žaliavinės naftos tiekėjo pasiūlytas asmuo, kurį nurodo akcinės bendrovės „Mažeikių nafta“ finansinis patarėjas), įsigis naujų išleidžiamų akcinės bendrovės „Mažeikių nafta“ akcijų, nurodytų šio straipsnio 2 dalyje, viešai skelbiamas ne vėliau kaip prieš 10 dienų iki susirinkimo dienos, o paskelbtas susirinkimo darbotvarkės projektas netikslinamas. Šiuo atveju netaikomos Akcinių bendrovių įstatymo 27 straipsnio 2 ir 3 dalių, 28 straipsnio 1 bei 4 dalių ir 30 straipsnio 2 ir 3 dalių nuostatos.“
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 

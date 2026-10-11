@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.70214821BA57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.70214821BA57.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio papildymo ir pakeitimo įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 2003, Nr. 69-3116, Nr. 74-3420; 2004, Nr. 55-1890, Nr. 141-5159; 2005, Nr. 67-2403)
 
-\#### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 1 straipsnio papildymas ir pakeitimas
 
 Papildyti 1 straipsnį naujais 3, 8, 9, 18, 35, 39 punktais, atitinkamai pakeisti kitų punktų numeraciją ir visą straipsnį išdėstyti taip:
 

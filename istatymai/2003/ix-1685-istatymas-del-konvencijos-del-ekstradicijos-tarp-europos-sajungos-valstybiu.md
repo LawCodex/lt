@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6184FF48FDA6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6184FF48FDA6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl konvencijos dėl ekstradicijos tarp Europos Sąjungos valstybių narių, parengtos remiantis Europos Sąjungos sutarties K.3 straipsniu, ratifikavimo
@@ -26,17 +26,17 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 118, ratifikuoja su pareiškimais 1996 m. rugsėjo 27 d. Briuselyje priimtą Konvenciją dėl ekstradicijos tarp Europos Sąjungos valstybių narių, parengtą remiantis Europos Sąjungos sutarties K.3 straipsniu.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimai
+## 2 straipsnis. Lietuvos Respublikos pareiškimai
 
 1. Vadovaudamasis Konvencijos 13 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Teisingumo ministerija ir Generalinė prokuratūra paskiriamos centrinėmis įstaigomis Konvencijoje numatytoms funkcijoms atlikti.
 
 2. Vadovaudamasis Konvencijos 18 straipsnio 4 dalimi, Lietuvos Respublikos Seimas pareiškia, kad jei iki Lietuvos Respublikos įstojimo į Europos Sąjungą dienos Konvencija nebus įsigaliojusi, Konvencija bus taikoma Lietuvos Respublikos santykiams su kitomis Europos Sąjungos valstybėmis narėmis, pateikusiomis tokį pat pareiškimą.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

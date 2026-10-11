@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.932273BC5680"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.932273BC5680.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 4, 5, 6, 10, 18, 23 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0); 2000, Nr. [18-431](https://www.e-tar.lt/portal/lt/legalAct/TAR.B24AF3538B14))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnio 1 dalyje vietoj žodžių „administracinius įgalinimus“ įrašyti žodžius „administravimo įgaliojimus“, 2 dalį pripažinti netekusia galios, buvusias 3, 4, 5, 6, 7, 8 dalis laikyti atitinkamai 2, 3, 4, 5, 6, 7 dalimis ir šį straipsnį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 7. Įmonė – visų rūšių ūkinės, komercinės, kredito ir finansinės įmonės, bendrovės, įstaigos, bendrijos, asociacijos, susivienijimai ir organizacijos.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Iš 4 straipsnio išbraukti žodžius „bei kandidatai“ ir šį straipsnį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Iš 4 straipsnio išbraukti žodžius „bei kandidatai“ ir šį straipsnį i�
 
 Valstybinėje tarnyboje nuolat dirbantys asmenys privalo pildyti vienodos formos privačių interesų metinę (praėjusių kalendorinių metų) deklaraciją, o paaiškėjus naujoms aplinkybėms, – papildomą deklaraciją.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 5. Respublikos Prezidentas ir Vyriausiosios tarnybinės etikos komisijos nurodytų valstybės ar savivaldybės institucijų vadovai metinę ir kitas privačių interesų deklaracijas pateikia Vyriausiajai tarnybinės etikos komisijai.“
 
-\#### 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Iš 6 straipsnio 1 dalies išbraukti žodžius „ir kandidato“, 5 punkte po skaičiaus ir santrumpos „5 MGL“ įrašyti žodžius „ir jeigu tai gali sukelti viešųjų ir privačių interesų konfliktą“ ir šią dalį išdėstyti taip:
 
@@ -92,13 +92,13 @@ Iš 6 straipsnio 1 dalies išbraukti žodžius „ir kandidato“, 5 punkte po s
 
 7) artimieji giminaičiai ir šeimos nariai, kiti deklaruojančiajam žinomi asmenys, dėl kurių, jo nuomone, tarnyboje gali kilti interesų konfliktas, galimo interesų konflikto pagrindai.“
 
-\#### 5 straipsnis. 10 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio 1 dalies pakeitimas
 
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Respublikos Prezidento, Seimo narių, Ministro Pirmininko, ministrų, viceministrų, ministerijų sekretorių, Konstitucinio Teismo pirmininko ir teisėjų, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo ir apygardų teismų pirmininkų, skyrių pirmininkų ir teisėjų, Lietuvos vyriausiojo administracinio teismo, apygardų administracinių teismų ir apylinkių teismų pirmininkų, teismų pirmininkų pavaduotojų ir teisėjų, generalinio prokuroro ir generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, Valstybės kontrolės vadovaujančių pareigūnų, apskričių viršininkų, apskričių viršininkų pavaduotojų, Vyriausybės atstovų apskrityse, Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių muitinių vadovaujančių pareigūnų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus reikalų ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų bei rajonų komisariatų ekonominių nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių pareigūnų, policijos generalinio komisaro, vyriausiųjų komisarų, vyresniųjų komisarų, komisarų, vadovaujančių miestų bei rajonų policijos komisariatams, Specialiųjų tyrimų tarnybos direktoriaus, Specialiųjų tyrimų tarnybos direktoriaus pirmojo pavaduotojo ir pavaduotojo, savivaldybių valdybų narių, merų, vicemerų, administratorių, savivaldybių kontrolierių, Seimo kontrolierių metinių privačių interesų deklaracijų suvestiniai duomenys kiekvienais metais ne vėliau kaip iki liepos 15 d. valstybės lėšomis yra skelbiami Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka. Vardinį šioje dalyje išvardytų pareigų sąrašą kiekvienais metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos komisija.“
 
-\#### 6 straipsnis. 18 straipsnio pakeitimas
+## 6 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus neturi dirbti įmonės vadovu, vadovo pavaduotoju, būti įmonės tarybos ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai susijusias su sprendimų priėmimu įmonės valdymo, turto tvarkymo, finansų apskaitos bei kontrolės srityse, jeigu per paskutinius darbo metus jo tarnyba buvo tiesiogiai susijusi su šių įmonių veiklos priežiūra ar kontrole arba jeigu asmuo dalyvavo svarstant ir priimant palankius šioms įmonėms sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.“
 
-\#### 7 straipsnis. 23 straipsnio 6 dalies papildymas
+## 7 straipsnis. 23 straipsnio 6 dalies papildymas
 
 23 straipsnio 6 dalį papildyti 6 punktu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.01F154A0F6C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.01F154A0F6C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 4 ir 14 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [72-3008](https://www.e-tar.lt/portal/lt/legalAct/TAR.74602705CADB); 2004, Nr. [63-2247](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD7E768CEF0D))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 4 straipsnio 1 dalyje vietoj skaičiaus ir žodžių „50 procentų atsargų“ įrašyti žodžius ir skaičių „tiek naftos produktų atsargų, kad jų pakaktų ne mažiau kaip 30 dienų“ ir šią dalį išdėstyti taip:
 
 „1. Atsargos kaupiamos ir tvarkomos įmonių lėšomis, valstybės biudžeto asignavimais, kurie nustatyti valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme atskirai specialiajai programai (toliau – valstybės lėšomis), kitomis teisėtai gautomis lėšomis. Valstybės lėšomis sukaupiama ir tvarkoma tiek naftos produktų atsargų, kad jų pakaktų ne mažiau kaip 30 dienų.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 14 straipsnyje vietoj datos „2009 m. liepos 31 d.“ įrašyti datą „2009 m. gruodžio 31 d.“ ir šį straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 Šio Įstatymo 6 straipsnio 1 dalyje nustatytos atsargos turi būti sukauptos iki 2009 m. gruodžio 31 d.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

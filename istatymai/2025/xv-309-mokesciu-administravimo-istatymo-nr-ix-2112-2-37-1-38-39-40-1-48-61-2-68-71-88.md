@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/20200b4255c311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.20200B4255C3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 37-1, 38, 39, 40-1, 48, 61-2, 68, 71, 88, 100, 108, 140, 141, 148, 155, 159 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-2, 61-5 ir 61-6 straipsniais įstatymas
@@ -26,13 +26,13 @@ MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO NR. IX-2112 2, 371, 38, 39, 401, 48, 612, 68
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 33 dalį ir ją išdėstyti taip:
 
 „33. Pagal šį Įstatymą Europos Sąjungos muitų teisės aktais laikomi teisės aktai, nurodyti 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento [(ES) Nr. 952/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R0952&locale=lt), kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais 5 straipsnio 2 punkte.“
 
-\#### 2 straipsnis. 371 straipsnio pakeitimas
+## 2 straipsnis. 371 straipsnio pakeitimas
 
 1. Pakeisti 371 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 2 straipsnio 33 dalį ir ją išdėstyti taip:
 
 „5. Jeigu po šio straipsnio 3 dalies 1 punkte nurodyto sprendimo priėmimo dienos Lietuvos vyriausiojo administracinio teismo biuletenyje arba Europos Sąjungos oficialiajame leidinyje paskelbiami Lietuvos vyriausiojo administracinio teismo arba Europos Sąjungos teisminių institucijų įstatymų ir kitų teisės aktų taikymo išaiškinimai, kuriems šis sprendimas prieštarauja, mokesčių administratorius pakeičia sprendimo galiojimo laikotarpį ir apie tai nedelsdamas, ne vėliau kaip per 3 darbo dienas nuo atitinkamo išaiškinimo paskelbimo dienos praneša mokesčių mokėtojui nurodydamas, kadsprendimas galioja iki atitinkamo išaiškinimo paskelbimo dienos.“
 
-\#### 3 straipsnis. Įstatymo papildymas 372 straipsniu
+## 3 straipsnis. Įstatymo papildymas 372 straipsniu
 
 Papildyti Įstatymą 37^2 straipsniu:
 
@@ -84,7 +84,7 @@ Papildyti Įstatymą 37^2 straipsniu:
 
 13. Šiame straipsnyje nurodytų prašymų formas, šių prašymų pateikimo ir nagrinėjimo tvarką (be kita ko, detalizuojant kartu su prašymu privalomus pateikti dokumentus), ataskaitų formas, šių ataskaitų pateikimo mokesčių administratoriui tvarką ir terminus, mokesčių administratoriaus sprendimų dėl šiame straipsnyje nurodytų prašymų priėmimo ir sprendimų pakeitimo tvarką ir šių sprendimų formas nustato centrinis mokesčių administratorius.“
 
-\#### 4 straipsnis. 38 straipsnio pakeitimas
+## 4 straipsnis. 38 straipsnio pakeitimas
 
 1. Pakeisti 38 straipsnio 2 dalies 6 punkto c papunktį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Papildyti Įstatymą 37^2 straipsniu:
 
 „d) duomenys apie juridiniams ir fiziniams asmenims suteiktus ar panaikintus leidimus steigti pridėtinės vertės mokesčio lengvatų sandėlį, kaip jis suprantamas pagal Pridėtinės vertės mokesčio įstatymą, (toliau šiame papunktyje – sandėlis): mokesčių mokėtojo vardas ir pavardė ar pavadinimas, centrinio mokesčių administratoriaus sprendimo dėl suteikto ar panaikinto leidimo steigti sandėlį data, šio sprendimo galiojimo panaikinimo data, sandėlio adresas, sandėlio veiklos pradžios ir pabaigos datos. Šie duomenys skelbiami už einamuosius ir 3 praėjusius kalendorinius metus.“
 
-\#### 5 straipsnis. 39 straipsnio pakeitimas
+## 5 straipsnis. 39 straipsnio pakeitimas
 
 1. Pakeisti 39 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -108,7 +108,7 @@ Papildyti Įstatymą 37^2 straipsniu:
 
 2) bet kuriam tikslui, kuriam taikomas Sutarties dėl Europos Sąjungos veikimo 215 straipsniu grindžiamas aktas, ir tuo tikslu informacija dalytis su tos Europos Sąjungos valstybės narės, kuriai informacija yra teikiama, už ribojamąsias priemones atsakinga institucija.“
 
-\#### 6 straipsnis. 401 straipsnio pakeitimas
+## 6 straipsnis. 401 straipsnio pakeitimas
 
 Pakeisti 40^1 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 40^1 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio 1 dalies nuostatos netaikomos asmenims, nurodytiems Pelno mokesčio įstatymo 3 straipsnio 2 dalyje.“
 
-\#### 7 straipsnis. 48 straipsnio pakeitimas
+## 7 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
@@ -144,13 +144,13 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
 5. Šis straipsnis taikomas tretiesiems asmenims vykdant informacijos apie asmenų teisinį statusą, veiklą, turtą, pajamas ir (ar) išlaidas arba kituose mokesčių įstatymuose ir (ar) jų įgyvendinamuosiuose teisės aktuose nustatytos kitos informacijos, reikalingos mokesčių administratoriaus funkcijoms atlikti ir jo teisėms įgyvendinti, teikimo mokesčių administratoriui pareigą.“
 
-\#### 8 straipsnis. 612 straipsnio pakeitimas
+## 8 straipsnis. 612 straipsnio pakeitimas
 
 Pakeisti 61^2 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Tais atvejais, kai tarpininko nėra arba kai tarpininkas praneša suinteresuotam mokesčių mokėtojui ar kitam tarpininkui apie naudojimąsi profesinės paslapties neatskleidimo teise būti atleistam nuo prievolės pateikti informaciją apie praneštiną tarpvalstybinį susitarimą, prievolė pateikti Valstybinei mokesčių inspekcijai informaciją apie praneštiną tarpvalstybinį susitarimą tenka kitam tarpininkui, kuriam pranešta apie naudojimąsi profesinės paslapties neatskleidimo teise ir kuris yra pranešusio tarpininko klientas, o kai tokio tarpininko nėra, suinteresuotam mokesčių mokėtojui, kuris yra pranešusio tarpininko klientas. Suinteresuotu mokesčių mokėtoju šiame straipsnyje laikomas asmuo, kuriam sudarytos sąlygos įgyvendinti praneštiną tarpvalstybinį susitarimą arba kuris pasirengęs įgyvendinti praneštiną tarpvalstybinį susitarimą, arba kuris pradėjo įgyvendinti praneštiną tarpvalstybinį susitarimą. Klientu šioje dalyje laikomas tarpininkas arba suinteresuotas mokesčių mokėtojas, kuris iš tarpininko, kuriam praneštino tarpvalstybinio susitarimo atžvilgiu taikoma profesinės paslapties neatskleidimo teisė, gauna paslaugas, įskaitant pagalbą, patarimus, konsultacijas ar rekomendacijas.“
 
-\#### 9 straipsnis. Įstatymo papildymas 615 straipsniu
+## 9 straipsnis. Įstatymo papildymas 615 straipsniu
 
 Papildyti Įstatymą 61^5 straipsniu:
 
@@ -198,7 +198,7 @@ Papildyti Įstatymą 61^5 straipsniu:
 
 11. Centrinis mokesčių administratorius, atsižvelgdamas į Europos Sąjungos teisės aktų, susijusių su informacijos apie kriptoturto naudotojus teikimu, ir Lietuvos Respublikos tarptautinėse sutartyse ar susitarimuose dėl automatinių informacijos apie kriptoturtą mainų nuostatas, nustato šiame straipsnyje nurodytų reikalavimų įgyvendinimo tvarką, be kita ko, detalizuoja, kada ir apie kuriuos asmenis duomenis teikiantys kriptoturto paslaugų teikėjai neturi teikti Valstybinei mokesčių inspekcijai šio straipsnio 1 dalyje nurodytos informacijos, taip pat duomenis teikiančių kriptoturto paslaugų teikėjų atliekamas procedūras, kuriomis siekiama nustatyti kriptoturto naudotojus, apie kuriuos turi būti pranešama, ir atvejus, kada tokių procedūrų nereikia atlikti, šio straipsnio 1 dalyje nurodytos informacijos apimtį ir jos teikimo Valstybinei mokesčių inspekcijai ir kitų valstybių narių kompetentingoms institucijoms tvarką, informacijos apie kriptoturto operatorius, kurie turi Europos Sąjungoje reziduojančių praneštinų kriptoturto naudotojų, tačiau nevykdo pareigos registruotis Valstybinėje mokesčių inspekcijoje, teikimo Europos Komisijai tvarką, kaip tai numatyta šio straipsnio 6 dalyje, kriptoturto operatorių registravimo pagal šio straipsnio 4 dalį ir tokios registracijos panaikinimo tvarką, procedūras, skirtas patikrinti, ar duomenis teikiantys kriptoturto paslaugų teikėjai laikosi šio straipsnio 1 dalyje nurodytų informacijos teikimo, įskaitant veiksmus, kai pateikiama neišsami ar netiksli informacija, reikalavimų.“
 
-\#### 10 straipsnis. Įstatymo papildymas 616 straipsniu
+## 10 straipsnis. Įstatymo papildymas 616 straipsniu
 
 Papildyti Įstatymą 61^6 straipsniu:
 
@@ -208,7 +208,7 @@ Papildyti Įstatymą 61^6 straipsniu:
 
 2. Neatsižvelgiant į šio straipsnio 1 dalį, Valstybinei mokesčių inspekcijai informaciją teikiantys subjektai, nurodyti šio Įstatymo 611, 612 613 ir 615 straipsniuose, bet kokiu atveju prieš pateikdami informaciją Valstybinei mokesčių inspekcijai privalo kiekvieną fizinį asmenį informuoti apie tai, kad, kiek tai susiję su keitimusi informacija automatizuotu būdu, renkami ir užsienio valstybių mokesčių administracijoms (kompetentingoms institucijoms) bei Valstybinei mokesčių inspekcijai perduodami su juo susiję duomenys, ir kiekvienam fiziniam asmeniui iš anksto pateikti visą informaciją, kurią jis turi teisę gauti iš duomenų valdytojo pagal Reglamentą (ES) 2016/679, kad tas fizinis asmuo galėtų pasinaudoti teisėmis į asmens duomenų apsaugą.“
 
-\#### 11 straipsnis. 68 straipsnio pakeitimas
+## 11 straipsnis. 68 straipsnio pakeitimas
 
 1. Pakeisti 68 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -218,7 +218,7 @@ Papildyti Įstatymą 61^6 straipsniu:
 
 „5) kai siekiama įrodyti skolų beviltiškumą ir pastangas susigrąžinti šias skolas pagal Pridėtinės vertės mokesčio įstatymo 89^1 straipsnį, Gyventojų pajamų mokesčio įstatymo 18 straipsnį, Pelno mokesčio įstatymo 25 straipsnį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu šio straipsnio 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe;“.
 
-\#### 12 straipsnis. 71 straipsnio pakeitimas
+## 12 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
@@ -230,35 +230,35 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio nuostatos netaikomos administruojant muitus.“
 
-\#### 13 straipsnis. 88 straipsnio pakeitimas
+## 13 straipsnis. 88 straipsnio pakeitimas
 
 Pakeisti 88 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Šio Įstatymo 100 straipsnio 1 dalyje nustatytais pagrindais mokesčių mokėtojas gali būti atleidžiamas nuo skaičiuojamų (apskaičiuotų) palūkanų, padidintų palūkanų, palūkanų delspinigių ar jų dalies. Šiam atleidimui *mutatis mutandis* taikomos šio Įstatymo 100 straipsnio nuostatos, reglamentuojančios atleidimo nuo delspinigių tvarką.“
 
-\#### 14 straipsnis. 100 straipsnio pakeitimas
+## 14 straipsnis. 100 straipsnio pakeitimas
 
 Pakeisti 100 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „1. Mokesčių mokėtojas gali būti atleidžiamas nuo skaičiuojamų (apskaičiuotų) delspinigių ar jų dalies, jeigu:“.
 
-\#### 15 straipsnis. 108 straipsnio pakeitimas
+## 15 straipsnis. 108 straipsnio pakeitimas
 
 Pakeisti 108 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) šio straipsnio 1 dalies 2 punkte nurodytu atveju – nuo dienos, kai įgyjama teisė priverstinai išieškoti mokestinę nepriemoką priėmus sprendimą neatidėti arba neišdėstyti jos sumokėjimo termino arba priėmus sprendimą nutrauktimokestinės paskolos sutartį;“.
 
-\#### 16 straipsnis. 140 straipsnio pakeitimas
+## 16 straipsnis. 140 straipsnio pakeitimas
 
 Pakeisti 140 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) asmuo pripažino mokesčio įstatymo pažeidimą ir (arba) bendradarbiavo su mokesčių administratoriumi šio pažeidimo tyrimo metu (sudarė sąlygas tinkamai mokesčių administratoriaus veiklai tiriant pažeidimą, pateikė mokesčių administratoriui prašomą informaciją, padėjo mokesčių administratoriui išaiškinti šį pažeidimą ir jame dalyvavusius asmenis);“.
 
-\#### 17 straipsnis. 141 straipsnio pakeitimas
+## 17 straipsnis. 141 straipsnio pakeitimas
 
 Pripažinti netekusia galios 141 straipsnio 2 dalį.
 
-\#### 18 straipsnis. 148 straipsnio pakeitimas
+## 18 straipsnis. 148 straipsnio pakeitimas
 
 1. Pakeisti 148 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -280,25 +280,25 @@ Pripažinti netekusia galios 141 straipsnio 2 dalį.
 
 „9. Komisijos pirmininkas Komisijos nariams suteikia atostogas, papildomas poilsio dienas, siunčia juos į komandiruotes ir priima kitus sprendimus, susijusius su Komisijos narių tarnybos santykiais, išskyrus šio straipsnio 4 ir 5 dalyse nurodytus sprendimus dėl Komisijos narių skyrimo į pareigas ar atleidimo iš jų ir Ministro Pirmininko priimamus sprendimus dėl Komisijos narių skatinimo, tarnybinių nuobaudų jiems skyrimo. Sprendimus dėl Komisijos pirmininko tarnybos santykių (išskyrus šio straipsnio 4 ir 5 dalyse nurodytus sprendimus dėl skyrimo į pareigas ir atleidimo iš jų, taip pat Ministro Pirmininko priimamus sprendimus dėl skatinimo, tarnybinių nuobaudų skyrimo) Vyriausybės pavedimu priima finansų ministras. Komisijos pirmininkui ir nariams tarnybinės nuobaudos *mutatis mutandis* skiriamos, jie skatinami, kasmetinės atostogos suteikiamos Valstybės tarnybos įstatymo nustatyta tvarka.“
 
-\#### 19 straipsnis. 155 straipsnio pakeitimas
+## 19 straipsnis. 155 straipsnio pakeitimas
 
 Pakeisti 155 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Centrinis mokesčių administratorius per 3 darbo dienas nuo skundo gavimo dienos parengia mokestinio ginčo bylą ir perduoda ją Mokestinių ginčų komisijai. Mokesčių mokėtojas ir mokesčių administratorius turi teisę Mokestinių ginčų komisijoje susipažinti su mokestinio ginčo byloje esančia medžiaga.Mokesčių mokėtojas turi teisę gauti mokamas mokestinio ginčo bylos dokumentų kopijas ir (arba) skaitmenines kopijas, išskyrus atvejus, kai dokumentų duomenys sudaro valstybės, tarnybos, profesinę, komercinę ar kitą įstatymų saugomą paslaptį. Mokesčių mokėtojo prašymu mokestinio ginčo bylos dokumentų kopijos ir (arba) skaitmeninės kopijos gaunamos mokesčių mokėtojui atvykus į Mokestinių ginčų komisiją arba gali būti jam išsiunčiamos registruotu laišku arba elektroninių ryšių priemonėmis. Mokestinio ginčo bylos dokumentų kopijų ir (arba) skaitmeninių kopijų pateikimo tvarką, taip pat šių kopijų įkainius, kurių dydžiai negali viršyti įkainių, nustatytų Ikiteisminio tyrimo įstaigose, prokuratūrose ir teismuose esančių baudžiamųjų bylų ir jose esančių dokumentų kopijų, teismuose esančių administracinių, civilinių bylų ir jose esančių dokumentų kopijų įkainių nustatymo ir mokėjimo už bylos medžiagos kopijas tvarkos apraše, patvirtintame Lietuvos Respublikos Vyriausybės 2004 m. lapkričio 3 d. nutarimu Nr. 1368 „Dėl Ikiteisminio tyrimo įstaigose, prokuratūrose ir teismuose esančių baudžiamųjų bylų ir jose esančių dokumentų kopijų, teismuose esančių administracinių, civilinių bylų ir jose esančių dokumentų kopijų įkainių nustatymo ir mokėjimo už bylos medžiagos kopijas tvarkos aprašo patvirtinimo“, ir mokėjimo už šias kopijas tvarką nustato Mokestinių ginčų komisija.“
 
-\#### 20 straipsnis. 159 straipsnio pakeitimas
+## 20 straipsnis. 159 straipsnio pakeitimas
 
 Papildyti 159 straipsnį 6 dalimi:
 
 „6. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto mokesčių įstatymo pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes, dėl kurių asmeniui skirta bauda akivaizdžiai per didelė ir neproporcinga (neadekvati) jo padarytam mokesčių įstatymo pažeidimui ir dėl to neteisinga, turi teisę skirti mažesnio, negu nustatyta šio Įstatymo 139 straipsnyje ar specialiajame mokesčio įstatyme, dydžio baudą.“
 
-\#### 21 straipsnis. Įstatymo priedo pakeitimas
+## 21 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedo 2 punktą ir jį išdėstyti taip:
 
 „2. 2011 m. vasario 15 d. Tarybos direktyva [2011/16/ES](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011L0016&locale=lt) dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą [77/799/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31977L0799&locale=lt) su paskutiniais pakeitimais, padarytais 2023 m. spalio 17 d. Tarybos direktyva [(ES) 2023/2226](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2226&locale=lt).“
 
-\#### 22 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 22 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1, 13, 14, 15, 16, 17, 18 straipsnius ir šio straipsnio 2 ir 3 dalis, įsigalioja 2026 m. sausio 1 d.
 

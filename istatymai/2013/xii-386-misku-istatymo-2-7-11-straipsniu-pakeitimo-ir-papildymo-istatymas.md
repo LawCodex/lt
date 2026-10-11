@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DD20D28F2D52"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DD20D28F2D52.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 2, 7, 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. 96-1872; 2001, Nr. 35-1161; 2003, Nr. 123-5593; 2005, Nr. 31-977; 2009, Nr. 54-2137; 2010, Nr. 145-7431; 2011, Nr. 74-3548, Nr. 163-7744; 2012, Nr. 132-6687, Nr. 132-6688)
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. **Miškas** – ne mažesnis kaip 0,1 hektaro žemės plotas, apaugęs medžiais, kurių aukštis natūralioje augavietėje brandos amžiuje siekia ne mažiau kaip 5 metrus, kita miško augalija, taip pat išretėjęs ar dėl žmogaus veiklos ir gamtinių veiksnių netekęs augalijos (kirtavietės, degavietės, aikštės). Laukuose, pakelėse, prie vandens telkinių, gyvenamosiose vietovėse ir kapinėse esančios medžių grupės, kelio juostose ar geležinkelių želdinių apsaugos zonose įveisti želdiniai, siauros – iki 10 metrų pločio – medžių juostos, gyvatvorės, pavieniai medžiai ir krūmai bei miestuose ir kaimo vietovėse ne miškų ūkio paskirties žemėje esantys žmogaus įveisti želdynai nelaikomi mišku. Šių želdinių priežiūrą, apsaugą ir naudojimą reglamentuoja Želdynų įstatymas.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 2 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 7 straipsnio 2 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 3. Bendrosioms valstybės biudžeto reikmėms tenkinti Vyriausybės nustatyta tvarka valstybinių miškų valdytojams nustatomi privalomieji 10 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką.“
 
-\#### 3 straipsnis. 11 straipsnio 1, 2 ir 8 dalių pakeitimas ir papildymas
+## 3 straipsnis. 11 straipsnio 1, 2 ir 8 dalių pakeitimas ir papildymas
 
 1. Pakeisti 11 straipsnio 1 dalies 3 ir 4 punktus, dalį papildyti 8 ir 9 punktais ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 7 straipsnio 2 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 „8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 2 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2013 m. rugsėjo 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/82fae5204c2f11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.82FAE5204C2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 7, 8, 8-2, 10-2, 29 straipsnių, priedo pakeitimo ir Įstatymo papildymo 8-3 straipsniu įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 10 dalį.
 
@@ -34,25 +34,25 @@ Vilnius
 
 „10^1.**Efektyvus centralizuotas šilumos tiekimas** – šilumos tiekimas per efektyvaus centralizuoto šilumos tiekimo sistemą.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „Energetikos ministerija, atlikusi Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo 14 straipsnio 1 dalyje nurodytą išsamų nacionalinį šildymo ir vėsinimo potencialo vertinimą ir atsižvelgdama į Vyriausybės tvirtinamame 2021–2030 metų nacionaliniame pažangos plane (toliau – Nacionalinis pažangos planas) nustatytus valstybės energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius, rengia ir teikia Vyriausybei tvirtinti nacionalines plėtros programas, kuriose suplanuojamos šilumos ūkio priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą. Šiose nacionalinėse plėtros programose suplanuojama:“.
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams pagrįstomis būtinosiomis sąnaudomis neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais ir Energijosvartojimo efektyvumo didinimo įstatyme nurodytu energijos vartojimo efektyvumo didinimo pirmumo principu, įvertinamas techninio sprendinio ekonominis efektyvumas, energijos vartojimo efektyvumas ir poveikis aplinkai, įskaitant sąnaudas, patiriamas dėl techninio sprendinio keliamos taršos sveikatai ir ekosistemoms.“
 
-\#### 4 straipsnis. 82 straipsnio pakeitimas
+## 4 straipsnis. 82 straipsnio pakeitimas
 
 Pakeisti 8^2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šilumos tiekėjas, siekdamas įgyvendinti šilumos ūkio specialiojo plano tikslus ir priemones, parengia dešimties metų šilumos ūkio plėtros investicijų planą ir teikia jį tvirtinti savivaldybės institucijai. Šilumos ūkio plėtros investicijų planas periodiškai atnaujinamas, užtikrinant, kad centralizuoto šilumos tiekimo sistema būtų laikoma efektyvia šio įstatymo 8^3 straipsnio 1 ir 2 dalyse nurodytais terminais, bet ne rečiau kaip kas 3 metus ir iki einamųjų metų spalio 1 dienos teikiamas savivaldybės institucijai tvirtinti.“
 
-\#### 5 straipsnis. Įstatymo papildymas 83 straipsniu
+## 5 straipsnis. Įstatymo papildymas 83 straipsniu
 
 Papildyti Įstatymo trečiąjį skirsnį 8^3 straipsniu:
 
@@ -80,19 +80,19 @@ Papildyti Įstatymo trečiąjį skirsnį 8^3 straipsniu:
 
 3. Šilumos tiekėjai privalo užtikrinti, kad šio įstatymo 82 straipsnyje nurodytų dešimties metų šilumos ūkio plėtros investicijų planų nuostatos atitiktų šio straipsnio 1 ir 2 dalyse nurodytus reikalavimus.“
 
-\#### 6 straipsnis. 102 straipsnio pakeitimas
+## 6 straipsnis. 102 straipsnio pakeitimas
 
 Pakeisti 10^2 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Šiame straipsnyje nustatyti atliekinę šilumą tiekiančių įrenginių prijungimo prie šilumos perdavimo tinklų ir atliekinės šilumos supirkimo ir panaudojimo bendrieji principai *mutatis mutandis* taikomi ir atliekinę šilumą bendros šilumos ir elektros energijos gamybos (kogeneracijos) būdu generuojantiems asmenims, kurių pagrindinė veikla nėra elektros energijos ir (ar) šilumos gamyba, taip pat prijungiant, superkant ir panaudojant aplinkos energiją.“
 
-\#### 7 straipsnis. 29 straipsnio pakeitimas
+## 7 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Šilumos vartotojai turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartis ir atjungti viso pastato šildymo ir (ar) karšto vandens sistemos įrenginius nuo šilumos tiekimo sistemos, jeigu ši sistema neatitinka efektyvaus centralizuoto šilumos tiekimo sistemos reikalavimų ir šilumos vartotojams neužtikrinamas efektyvus centralizuotas šilumos tiekimas, kaip tai numatyta šio įstatymo 8^3 straipsnio 1 dalyje ir (ar) 2 dalyje, ir šilumos ūkio specialiajame plane šio įstatymo 8^3 straipsnio 1 dalyje nustatytais terminais nėra numatyta juos atitikti, ir šilumos vartotojai pastato energinio naudingumo sertifikatu gali pagrįsti, kad numatytas pastato apsirūpinimo šiluma ir (ar) karštu vandeniu iš atsinaujinančių išteklių energijos būdas užtikrins ne mažiau kaip 20 procentų didesnį šilumos tiekimo sistemos energinį naudingumą. Kai šilumos ir (ar) karšto vandens pirkimo–pardavimo sutarties nutraukimas yra susijęs su šilumos vartotojų įrenginių atjungimu nuo šilumos tiekimo sistemos, šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartį nutraukti galima tik tuo atveju, jeigu šilumos ir (ar) karšto vandens tiekėjui kompensuojamos išlaidos, tiesiogiai patirtos dėl fizinio atjungimo, ir neamortizuota turto dalis (likutinė vertė), reikalinga šilumai ir (ar) karštam vandeniui vartotojui tiekti. Daugiabučio namo šildymo ir (ar) apsirūpinimo karštu vandeniu būdas keičiamas Statybos įstatymo nustatyta tvarka remontuojant pastatą.“
 
-\#### 8 straipsnis. Įstatymo priedo pakeitimas
+## 8 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ priedas
 
 _______________“.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 9 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. spalio 1 d.
 

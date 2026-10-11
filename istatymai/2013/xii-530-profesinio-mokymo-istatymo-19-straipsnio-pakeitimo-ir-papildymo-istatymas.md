@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.78D7BFF62892"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.78D7BFF62892.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [98-2478](https://www.e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F); 2007, Nr. [43-1627](https://www.e-tar.lt/portal/lt/legalAct/TAR.520097AFEB05); 2009, Nr. [93-3973](https://www.e-tar.lt/portal/lt/legalAct/TAR.45091AEC328E); 2010, Nr. [67-3338](https://www.e-tar.lt/portal/lt/legalAct/TAR.537420FEDA68))
 
-\#### 1 straipsnis. 19 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 19 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 19 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti ir papildyti 19 straipsnį ir jį išdėstyti taip:
 
 5. Užsienyje įgytos kvalifikacijos pripažinimą Lietuvoje įgytai kvalifikacijai ir Lietuvoje įgytos kvalifikacijos patvirtinimą vykstantiems į užsienį asmenims reglamentuoja Europos Sąjungos ir Lietuvos Respublikos teisės aktai ir tarptautinės sutartys.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. rugsėjo 1 d.
 

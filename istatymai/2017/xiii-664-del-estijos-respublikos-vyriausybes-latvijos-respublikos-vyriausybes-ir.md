@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a2b9bc70b26211e7be72a4385c9bc055"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A2B9BC70B262.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės susitarimo dėl geležinkelių jungties „Rail Baltic / Rail Baltica“ plėtros ratifikavimo
@@ -26,7 +26,7 @@ DĖL ESTIJOS RESPUBLIKOS VYRIAUSYBĖS, LATVIJOS RESPUBLIKOS VYRIAUSYBĖS IR LIET
 
 Vilnius
 
-\#### 1 straipsnis. Susitarimo ratifikavimas
+## 1 straipsnis. Susitarimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2017 m. liepos 20 d. dekretą Nr. 1K-1054, ratifikuoja Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės susitarimą dėl geležinkelių jungties „Rail Baltic / Rail Baltica“ plėtros, pasirašytą 2017 m. sausio 31 d. Taline.
 

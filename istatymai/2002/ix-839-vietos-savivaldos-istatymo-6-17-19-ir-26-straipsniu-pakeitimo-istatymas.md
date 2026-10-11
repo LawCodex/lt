@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.348B9DD92898"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.348B9DD92898.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6, 17, 19 ir 26 straipsnių pakeitimo įstatymas
@@ -28,25 +28,25 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [85-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.BC2C53BF0A7B), Nr. [110-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BB7B6C28341))
 
-\#### 1 straipsnis. 6 straipsnio 5 punkto pakeitimas
+## 1 straipsnis. 6 straipsnio 5 punkto pakeitimas
 
 6 straipsnio 5 punkte po žodžio „įstaigų“ įrašyti žodį „šeimynų“ ir šį punktą išdėstyti taip:
 
 „5) socialinių paslaugų įstaigų, šeimynų steigimas, išlaikymas ir bendradarbiavimas su visuomeninėmis organizacijomis;“.
 
-\#### 2 straipsnis. 17 straipsnio 23 punkto pakeitimas
+## 2 straipsnis. 17 straipsnio 23 punkto pakeitimas
 
 17 straipsnio 23 punkte po žodžių „savivaldybės įmonių“ įrašyti žodžius „bei šeimynų“, po žodžių „dėl šių įstaigų ir įmonių“ įrašyti žodžius „bei šeimynų“, po žodžio „reorganizavimo“ įrašyti žodį „pertvarkymo“, po žodžio „reorganizuojant“ įrašyti žodį „pertvarkant“ ir šį punktą išdėstyti taip:
 
 „23) priima sprendimus dėl biudžetinių įstaigų, savivaldybės įmonių bei šeimynų steigimo, dėl viešųjų įstaigų bei akcinių bendrovių steigimo ar dalyvavimo jas steigiant, dalies steigėjo funkcijų perdavimo kitoms savivaldybės institucijoms, dėl šių įstaigų ir įmonių beišeimynų reorganizavimo, pertvarkymo ir likvidavimo arba dalyvavimo jas reorganizuojant, pertvarkant ir likviduojant;“.
 
-\#### 3 straipsnis. 19 straipsnio 1 dalies 13 punkto pakeitimas
+## 3 straipsnis. 19 straipsnio 1 dalies 13 punkto pakeitimas
 
 19 straipsnio 1 dalies 13 punkte po žodžio „įstaigas“ įrašyti žodį „šeimynas“ bei po žodžio „jas“ įrašyti žodį „pertvarkyti“ ir šį punktą išdėstyti taip:
 
 „13) teikia savivaldybės tarybai pasiūlymus steigti įmones ir iš savivaldybės biudžeto išlaikomas įstaigas, šeimynas, jas pertvarkyti, reorganizuoti ir likviduoti;“.
 
-\#### 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 

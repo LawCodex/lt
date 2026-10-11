@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a02827f4cc3311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A02827F4CC33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 11, 13-1, 23 straipsnių ir 3 priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO NR. I-1863 2, 11, 131, 23 STRAIPSNIŲ IR 
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 3. Buvusias 2 straipsnio 8–20 dalis laikyti atitinkamai 10–22 dalimis.
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 „5. Žala, atsiradusi dėl netinkamų intelektinių transporto sistemų ir sąveikiųjų intelektinių transporto sistemų prietaikų ir paslaugų, atlyginama vadovaujantis Lietuvos Respublikos civilinio kodekso nuostatomis.“
 
-\#### 3 straipsnis. 131 straipsnio pakeitimas
+## 3 straipsnis. 131 straipsnio pakeitimas
 
 Pakeisti 13^1 straipsnį ir jį išdėstyti taip:
 
@@ -66,13 +66,13 @@ Pakeisti 13^1 straipsnį ir jį išdėstyti taip:
 
 3. Viešojo keleivinio transporto kelionių duomenys kaupiami Viešojo transporto kelionių duomenų informacinėje sistemoje. Viešojo transporto kelionių duomenų informacinės sistemos valdytoja ir duomenų valdytoja yra Susisiekimo ministerija. Viešojo transporto kelionių duomenų kaupimo tvarką nustato susisiekimo ministras. Vežėjai ir savivaldybės teikia viešojo transporto kelionių duomenis, susijusius su tvarkaraščiais ir tarifais, ir informuoja duomenų tvarkytoją apie jų pasikeitimus.“
 
-\#### 4 straipsnis. 23 straipsnio pakeitimas
+## 4 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikomas pranešimas, išsiųstas registruotąja pašto siunta Juridinių asmenų registro informacinės sistemos nurodytu proceso šalies buveinės adresu, išskyrus atvejus, kai proceso šalis nurodo kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registro informacinės sistemos nurodytu proceso šalies elektroninių siuntų pristatymo adresu, arba pranešimas, pasirašytinai įteiktas proceso šaliai ar kitam proceso dalyviui, arba pranešimas, proceso šalims ar kitiems proceso dalyviams išsiųstas registruotąja pašto siunta jų deklaruotos gyvenamosios vietos ar kitu jų raštu nurodytu adresu.“
 
-\#### 5 straipsnis. Įstatymo 3 priedo pakeitimas
+## 5 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Pakeisti Įstatymo 3 priedo 3 punktą ir jį išdėstyti taip:
 

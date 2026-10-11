@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3218F3F7DC5D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3218F3F7DC5D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 2, 3, 20, 22, 28, 31, 32 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765); 2009, Nr. [10-355](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C5DEC45B23B), Nr. [61-2402](https://www.e-tar.lt/portal/lt/legalAct/TAR.43A67B9687BB); 2010, Nr. [1-6](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA))
 
-\#### 1 straipsnis. 2 straipsnio 22 ir 37 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 22 ir 37 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „37. **Šilumos punktas** – prie šilumos įvado prijungtas pastato šildymo ir karšto vandens sistemos įrenginys, su šilumnešiu gaunamą šilumą transformuojantis pristatymui į pastato šildymo prietaisus. Daugiabučio namo šilumos punkto įrenginiai, būtini namo tinkamam eksploatavimui ir naudojimui, yra neatskiriama namo dalis ir šio namo butų ir patalpų savininkų bendroji dalinė nuosavybė, kurią draudžiama perduoti tretiesiems asmenims (kurie nėra šio namo butų ir patalpų savininkai).“
 
-\#### 2 straipsnis. 3 straipsnio papildymas 5 dalimi
+## 2 straipsnis. 3 straipsnio papildymas 5 dalimi
 
 Papildyti 3 straipsnį 5 dalimi:
 
 „5. Konkurencijos taryba kontroliuoja, kaip šilumos ūkyje laikomasi Konkurencijos įstatymo reikalavimų, *inter alia*, kad šilumos gamintojai, tiekėjai ir pastato šildymo ir karšto vandens sistemos prižiūrėtojai (eksploatuotojai) nepiktnaudžiautų dominuojančia padėtimi ar nesudarytų draudžiamų susitarimų.“
 
-\#### 3 straipsnis. 20 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 20 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,19 +64,19 @@ Papildyti 3 straipsnį 5 dalimi:
 
 5. Buvusias šio straipsnio 2, 3 ir 4 dalis laikyti atitinkamai 5, 6 ir 7 dalimis.
 
-\#### 4 straipsnis. 22 straipsnio papildymas 5 dalimi
+## 4 straipsnis. 22 straipsnio papildymas 5 dalimi
 
 Papildyti 22 straipsnį 5 dalimi:
 
 „5. Pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) informacija apie jo veiklos pajamas, sąnaudas, sistemų eksploatavimą, kainas ir tarifus, jų struktūrą, paslaugų teikimo sąlygas, taip pat pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) ketvirtiniai ir metiniai finansiniai-balansiniai rodikliai, investicijų dydžiai, duomenys apie investuotojus, darbuotojų skaičių, savininkams (dalyviams) išmokėtų dividendų ar tantjemų dydį, bendrovės valdymo organų narių ir vadovaujančių darbuotojų (stebėtojų tarybos, valdybos narių, vadovų, jų pavaduotojų, padalinių vadovų, vyriausiųjų finansininkų (buhalterių) ir jų pavaduotojų) darbo užmokesčio dydį bei jiems kitais pagrindais išmokėtas lėšas yra vieši ir turi būti skelbiami energetikos ministro nustatyta tvarka.“
 
-\#### 5 straipsnis. 28 straipsnio 5 dalies pakeitimas
+## 5 straipsnis. 28 straipsnio 5 dalies pakeitimas
 
 Pakeisti 28 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Šilumos ir karšto vandens tiekėjas gali nuskaityti šilumos ir karšto vandens apskaitos prietaisų rodmenis teisės aktų reikalavimus atitinkančiu nuotoliniu būdu.“
 
-\#### 6 straipsnis. 31 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 31 straipsnio pakeitimas ir papildymas
 
 Pakeisti 31 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 31 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir jį išdėstyti
 
 2. Valstybinė energetikos inspekcija prie Energetikos ministerijos, nustačiusi, kad pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) veikla neatitinka šio įstatymo reikalavimų, ir atsižvelgdama į pažeidimo trukmę, pažeidimo sukeltas pasekmes, atsakomybę lengvinančias ar sunkinančias aplinkybes, gali energetikos ministro nustatyta tvarka sustabdyti ar panaikinti atestato galiojimą ir (ar) skirti iki 10 procentų jo metinių pajamų dydžio piniginę baudą.“
 
-\#### 7 straipsnis. 32 straipsnio 2 ir 3 dalių pakeitimas
+## 7 straipsnis. 32 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 31 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir jį išdėstyti
 
 „3. Šilumos kainos, atsižvelgiant į patiriamas sąnaudas, gali būti diferencijuojamos pagal šilumos tiekimo sistemas, vartotojų grupes, šilumos pirkimo–pardavimo vietą, tiekimo–vartojimo ribą, šilumos vartojimo mastą, šilumnešius ir jų kokybę, tiekimo patikimumą, vartojimo sezoniškumą, periodiškumą ir apskaitos būdus. Diferencijuojant kainas, kryžminis subsidijavimas tarp vartotojų grupių yra draudžiamas.“
 
-\#### 8 straipsnis. Baigiamosios nuostatos
+## 8 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2011 m. lapkričio 1 d.
 

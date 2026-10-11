@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9fe750106eff11e484b9c12b550436a3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9FE750106EFF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 1, 2, 3 ir 4 priedų pakeitimo įstatymas
@@ -98,7 +98,7 @@ nuo 40 t (įskaitytinai) iki 44 t didžiausiosios leidžiamosios masės**
 
 967–1 937
 
-\* Kai ašis (ašys) su pneumatine pakaba.
+* Kai ašis (ašys) su pneumatine pakaba.
 
 ** Kai yra kita ašies (ašių) pakabų sistema.
 
@@ -234,7 +234,7 @@ transporto priemonė, skirta specialioms funkcijoms atlikti, naudojant speciali�
 
 5–11
 
-\* Transporto priemonių emisijos klasės pagal motorinių transporto priemonių variklių išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
+* Transporto priemonių emisijos klasės pagal motorinių transporto priemonių variklių išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
 
 ** Didžiausioji leidžiamoji masė pagal Saugaus eismo automobilių keliais įstatymą.
 
@@ -348,7 +348,7 @@ savivaldybės teritorijoje
 
 1 368–1 436
 
-\* I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.
+* I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.
 
 2. Jeigu transporto priemonės ar jų junginio matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamuosius matmenis daugiau, negu nurodyta lentelėje, transporto priemonė ar jų junginys tampa ypač pavojingi saugiam eismui. Tokioms didžiagabaritėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis mokestis, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo pridedamas papildomas 0,28 euro mokestis už kiekvieno didžiausiojo leidžiamojo matmens viršijimą, t. y. už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir dauginama iš koeficiento 1,5. Visais atvejais, jeigu viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų didžiausiųjų leidžiamųjų matmenų viršijimą.
 
@@ -554,13 +554,13 @@ Mėnesio ribiniai tarifai, eurais (šalies teritorijoje)*
 
 –
 
-\> 40
+> 40
 
 1,59–1,88
 
 –
 
-\* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabė) su suporintais ratais ir kurių ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 t.
+* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabė) su suporintais ratais ir kurių ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 t.
 
 9. Mokesčio už naudojimąsi keliais važiuojant sunkiasvoriais traktoriais ir savaeigėmis mašinomis ar jų junginiais, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę, ribiniai tarifai:
 
@@ -576,7 +576,7 @@ Vienkartiniai ribiniai tarifai už kiekvieną viršytą toną, eurais už 10 km
 
 0,19–0,28
 
-\> 40
+> 40
 
 0,28–0,41
 

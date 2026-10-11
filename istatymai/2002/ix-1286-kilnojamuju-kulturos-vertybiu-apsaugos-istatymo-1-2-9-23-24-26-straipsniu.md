@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.81B823F41744"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.81B823F41744.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 1, 2, 9, 23, 24, 26 straipsnių pakeitimo ir papildymo, 25 straipsnio pripažinimo netekusiu galios bei įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [14-352](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5DA698A4015); 1997, Nr. [97-2442](https://www.e-tar.lt/portal/lt/legalAct/TAR.D43A4B2B2DB8); 2000, Nr. [87-2655](https://www.e-tar.lt/portal/lt/legalAct/TAR.579DE4857D73))
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 Papildyti 1 straipsnį 2 dalimi ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 1 straipsnį 2 dalimi ir jį išdėstyti taip:
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
 11) Lietuvos Respublikos Vyriausybės įsipareigojimas dėl laikinai įvežamų į Lietuvos Respubliką užsienio valstybių kilnojamųjų kultūros vertybių – rašytinis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos įsipareigojimas atlyginti Lietuvos nacionalinei ar respublikinei kultūros įstaigai nuostolius, atsiradusius dėl laikinai į Lietuvos Respubliką įvežtų kilnojamųjų kultūros vertybių sužalojimo, sunaikinimo ar dingimo.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 9 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti bei papildyti 9 straipsnį ir jį išdėstyti taip:
 
 15) atlieka kitas Kultūros ministerijos pavestas funkcijas.“
 
-\#### 4 straipsnis. 23 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 23 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 23 straipsnį nauja 1 dalimi:
 
@@ -140,7 +140,7 @@ Pakeisti bei papildyti 9 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias 23 straipsnio 1, 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis.
 
-\#### 5 straipsnis. 24 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 24 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 24 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -178,17 +178,17 @@ Pakeisti bei papildyti 9 straipsnį ir jį išdėstyti taip:
 
 „14. Užsienio valstybės įgaliota institucija su ieškiniu dėl pavogtų kilnojamųjų kultūros vertybių ir antikvarinių daiktų išreikalavimo (grąžinimo) arba su reikalavimu grąžinti neteisėtai išvežtas kilnojamąsias kultūros vertybes ir antikvarinius daiktus šiame straipsnyje nustatytais terminais kreipiasi į Lietuvos Respublikos kultūros ministeriją; ši yra Lietuvos Respublikos institucija, priimanti ieškinius dėl pavogtų kilnojamųjų kultūros vertybių ir antikvarinių daiktų išreikalavimo (grąžinimo) arba reikalavimus grąžinti kilnojamąsias kultūros vertybes ar antikvarinius daiktus ir pateikianti juos Lietuvos Respublikos teismams.“
 
-\#### 6 straipsnis. 25 straipsnio pripažinimas netekusiu galios
+## 6 straipsnis. 25 straipsnio pripažinimas netekusiu galios
 
 25 straipsnį pripažinti netekusiu galios.
 
-\#### 7 straipsnis. 26 straipsnio 2 dalies 6 punkto pakeitimas
+## 7 straipsnis. 26 straipsnio 2 dalies 6 punkto pakeitimas
 
 26 straipsnio 2 dalies 6 punkte vietoj žodžio „pagrobtų“ įrašyti žodį „pavogtų“ ir šį punktą išdėstyti taip:
 
 „6) neteisėtai išvežtų ar pavogtų kilnojamųjų kultūros vertybių paieška ir sugrąžinimas;“.
 
-\#### 8 straipsnis. Įstatymo papildymas priedu
+## 8 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

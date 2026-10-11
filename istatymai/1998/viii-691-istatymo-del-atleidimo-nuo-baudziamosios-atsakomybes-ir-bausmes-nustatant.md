@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.892E429156C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.892E429156C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatant Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą" pripažinimo netekusiu galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [32-857](https://www.e-tar.lt/portal/lt/legalAct/TAR.4AD845B1B7CA))
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl atleidimo nuo baudžiamosios atsakomybės ir bausmės, nustatytų Baudžiamojo kodekso 310 straipsnyje už spirito ir jo skiedinių (mišinių) laikymą bei gabenimą“.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.90BEAC15E295"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.90BEAC15E295.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos Seimo statuto pereinamųjų nuostatų
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS SEIMO STATUTO PEREINAMŲJŲ NUOSTATŲ
 
 Vilnius
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Įstatymų ir kitų Seimo norminių aktų projektų, kurie užregistruoti, pateikti ar pradėti svarstyti Lietuvos Respublikos Seime iki Seimo statuto įsigaliojimo, svarstymo procedūra yra tokia:
 
@@ -46,11 +46,11 @@ Vilnius
 
 5) projektų, kuriuos Seimas pradėjo priiminėti (sąrašas pridedamas), priėmimo procedūra tęsiama.
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Nuo 1994 m. balandžio 10 d. institucijos ir asmenys, kurie pagal Lietuvos Respublikos Konstituciją turi įstatymų leidybos iniciatyvos teisę Seime, pateikia projektus bei, kaip Seimo statutas reikalauja, su jais susijusią medžiagą ne tik spausdintą, bet ir jų kompiuterinį variantą (įrašą disketėje arba elektroniniu paštu). Seimo valdyba garantuoja Seimo nariams šios nuostatos įgyvendinimą.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Šis įstatymas yra Seimo statuto sudedamoji dalis.
 

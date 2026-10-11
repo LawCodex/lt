@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C1C8B48C1A4D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C1C8B48C1A4D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 2, 3, 4, 5, 6, 7, 9, 12, 24, 27 straipsnių ir priedo pakeitimo bei papildymo ir įstatymo papildymo 5(2) ir 7(2) straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [112-3100](https://www.e-tar.lt/portal/lt/legalAct/TAR.746227138BCB); 2002, Nr. [68-2761](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F624633BA4A); 2003, Nr. [38-1678](https://www.e-tar.lt/portal/lt/legalAct/TAR.32162EC659EB), Nr. [104-4641](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF7EC56F4BAA); 2004, Nr. [115-4280](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8F7111AEBD5); 2005, Nr. [88-3281](https://www.e-tar.lt/portal/lt/legalAct/TAR.677003A820B9); 2006, Nr. [57-2026](https://www.e-tar.lt/portal/lt/legalAct/TAR.7977B0637F3E))
 
-\#### 1 straipsnis. 2 straipsnio 4 ir 5 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -50,19 +50,19 @@ Vilnius
 
 „5. **Netiesioginė diskriminacija –**veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika, kurie formaliai yra vienodi moterims ir vyrams, bet juos įgyvendinant ar taikant vienos lyties asmenys gali atsidurti ar atsiduria tam tikroje mažiau palankioje padėtyje negu kitos lyties asmenys, nebent šį veikimą ar neveikimą, teisės normą, vertinimo kriterijų ar praktiką objektyviai pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.“
 
-\#### 2 straipsnis. 3 straipsnio 3 punkto pakeitimas
+## 2 straipsnis. 3 straipsnio 3 punkto pakeitimas
 
 3 straipsnio 3 punkte išbraukti žodžius „visuomeninių organizacijų“ ir šį punktą išdėstyti taip:
 
 „3) įstatymų nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes.“
 
-\#### 3 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+## 3 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) priimant į profesinio mokymo įstaigas, aukštąsias mokyklas, keliant kvalifikaciją, ugdant profesinius įgūdžius ir suteikiant praktinę darbo patirtį;“.
 
-\#### 4 straipsnis. 5 straipsnio pakeitimas
+## 4 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 5) imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis ar teikiantis paaiškinimus, būtų apsaugotas nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.“
 
-\#### 5 straipsnis. Įstatymo papildymas 52 straipsniu
+## 5 straipsnis. Įstatymo papildymas 52 straipsniu
 
 Papildyti Įstatymą 5^2 straipsniu:
 
@@ -88,7 +88,7 @@ Papildyti Įstatymą 5^2 straipsniu:
 
 Draudžiama diskriminacija dėl lyties narystės ir dalyvavimo darbuotojų ir darbdavių organizacijose ar kitose organizacijose (asociacijose), kurių nariai turi tam tikrą profesiją, įskaitant tokių organizacijų (asociacijų) teikiamą naudą, pagrindu.“
 
-\#### 6 straipsnis. 6 straipsnio 1 ir 4 punktų pakeitimas
+## 6 straipsnis. 6 straipsnio 1 ir 4 punktų pakeitimas
 
 1. 6 straipsnio 1 punkte prieš žodžius „arba apmokėjimo“ įrašyti žodžius „perkėlimo į kitas pareigas“ ir šį punktą išdėstyti taip:
 
@@ -98,13 +98,13 @@ Draudžiama diskriminacija dėl lyties narystės ir dalyvavimo darbuotojų ir da
 
 „4) persekioja darbuotoją, darbuotojo atstovą, darbuotoją, liudijantį ar teikiantį paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos lyties pagrindu.“
 
-\#### 7 straipsnis. 7 straipsnio 1 punkto pakeitimas
+## 7 straipsnis. 7 straipsnio 1 punkto pakeitimas
 
 Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) taikomi skirtingi reikalavimai ir sąlygos priimant mokytis ar studijuoti, rengiant mokymo ir studijų programas, vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar suteikiant praktinę darbo patirtį;“.
 
-\#### 8 straipsnis. Įstatymo papildymas 72 straipsniu
+## 8 straipsnis. Įstatymo papildymas 72 straipsniu
 
 Papildyti Įstatymą 7^2 straipsniu:
 
@@ -112,7 +112,7 @@ Papildyti Įstatymą 7^2 straipsniu:
 
 Bet kurie veiksmai, kliudantys dėl lyties tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų (asociacijų), kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose organizacijose (asociacijose), įskaitant tokių organizacijų (asociacijų) teikiamą naudą, yra pripažįstami pažeidžiantys moterų ir vyrų lygias teises.“
 
-\#### 9 straipsnis. 9 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 9 straipsnio pakeitimas ir papildymas
 
 Pakeisti 9 straipsnio pavadinimą, straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti 9 straipsnio pavadinimą, straipsnį papildyti 2 dalimi ir visą straip
 
 2. Darbuotojų ir darbdavių organizacijos arba kiti juridiniai asmenys, turintys teisėtą interesą, gavę asmens rašytinį sutikimą, gali įstatymų nustatyta tvarka atstovauti jam teisminėse arba administracinėse procedūrose.“
 
-\#### 10 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
+## 10 straipsnis. 12 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi
 
 1. 12 straipsnio 1 dalyje po žodžių „seksualinio priekabiavimo“ įrašyti žodžius „ir teikia su tuo susijusias objektyvias ir nešališkas konsultacijas“ ir šią dalį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 9 straipsnio pavadinimą, straipsnį papildyti 2 dalimi ir visą straip
 
 „3. Lygių galimybių kontrolierius keičiasi turima informacija su analogiškas funkcijas atliekančiomis Europos Sąjungos įstaigomis.“
 
-\#### 11 straipsnis. 24 straipsnio 2 ir 5 punktų pakeitimas
+## 11 straipsnis. 24 straipsnio 2 ir 5 punktų pakeitimas
 
 1. 24 straipsnio 2 punkte prieš žodžius „ar panaikinti“ įrašyti žodį „pakeisti“ ir šį punktą išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 9 straipsnio pavadinimą, straipsnį papildyti 2 dalimi ir visą straip
 
 „5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas pakeičiamas ar panaikinamas;“.
 
-\#### 12 straipsnis. 27 straipsnio pakeitimas
+## 12 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 Lygių galimybių kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių galimybių kontrolieriaus tarnybos ataskaitą, kuri nagrinėjama Seime. Ši nepriklausoma ataskaita apima Lygių galimybių kontrolieriaus veiklos ataskaitą, padėties apžvalgą, išvadas ir rekomendacijas. Visa ataskaita turi būti paskelbta Lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.“
 
-\#### 13 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+## 13 straipsnis. Įstatymo priedo pakeitimas ir papildymas
 
 Pakeisti ir papildyti Įstatymo priedą ir jį išdėstyti taip:
 

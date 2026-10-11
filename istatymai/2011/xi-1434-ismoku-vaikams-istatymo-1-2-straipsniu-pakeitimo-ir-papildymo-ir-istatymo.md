@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.53E1A0AC60A2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.53E1A0AC60A2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 1, 2 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 2004, Nr. 88-3208, Nr. [152-5534](https://www.e-tar.lt/portal/lt/legalAct/TAR.49F68EB98DA9); 2006, Nr. [17-592](https://www.e-tar.lt/portal/lt/legalAct/TAR.52D3D1B8E992), Nr. [68-2496](https://www.e-tar.lt/portal/lt/legalAct/TAR.E14C789C8A3B); 2008, Nr. [81-3175](https://www.e-tar.lt/portal/lt/legalAct/TAR.958BDFBD83AA))
 
-\#### 1 straipsnis. 1 straipsnio 2, 3 dalių pakeitimas ir straipsnio papildymas 4 dalimi
+## 1 straipsnis. 1 straipsnio 2, 3 dalių pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,13 +50,13 @@ Vilnius
 
 „4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 4 dalies pakeitimas
 
 Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. **Lietuvos Respublikoje nuolat gyvenantys asmenys** – Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje nuolat gyvenantys užsieniečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą.“
 
-\#### 3 straipsnis. Įstatymo papildymas priedu
+## 3 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

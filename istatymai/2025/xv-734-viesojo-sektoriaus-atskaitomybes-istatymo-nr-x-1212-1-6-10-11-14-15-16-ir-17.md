@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a9fa05f2eac411f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A9FA05F2EAC4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 6, 10, 11, 14, 15, 16 ir 17 straipsnių, IV skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo VI skyriumi įstatymas
@@ -26,19 +26,19 @@ VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO NR. X-1212 1, 6, 10, 11, 14, 15, 16
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šis įstatymas nustato visuomenei skelbiamų viešojo sektoriaus subjektų ataskaitų rinkinių sudėties, finansinėse, biudžeto vykdymo, veiklos ataskaitose teikiamos informacijos, ataskaitų rinkinių, tarp jų ir pagrindinių rezultatų valstybės veiklos srityse ataskaitos, bei Valstybės pažangos strategijos ataskaitos rengimo reikalavimus ir atsakomybę už jų parengimą, pateikimą ir paskelbimą.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) metinė veiklos ataskaita, kurioje pateikiama informacija apie veiklos tikslų pasiekimą;“.
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 10 straipsnio 1 punkto a papunktį.
 
@@ -54,7 +54,7 @@ c) savivaldybių biudžetų vykdymo duomenys;
 
 d) informacija apie valstybės skolą.“
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 4) papildomą informaciją, jeigu savivaldybės taryba nurodo tokią informaciją pateikti.“
 
-\#### 5 straipsnis. IV skyriaus pavadinimo pakeitimas
+## 5 straipsnis. IV skyriaus pavadinimo pakeitimas
 
 Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -100,25 +100,25 @@ Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
 **ATASKAITŲ RINKINIŲ IR ATASKAITŲ RENGIMAS, PASIRAŠYMAS, TEIKIMAS, SKELBIMAS, SAUGOJIMAS, ATASKAITŲ RINKINIŲ AUDITAS**“.
 
-\#### 6 straipsnis. 14 straipsnio pakeitimas
+## 6 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybės metinių ataskaitų rinkinį ir nacionalinį metinių ataskaitų rinkinį, išskyrus pagrindinių rezultatų valstybės veiklos srityse ataskaitą, rengia Finansų ministerija. Pagrindinių rezultatų valstybės veiklos srityse ataskaitą rengia Vyriausybės kanceliarija.“
 
-\#### 7 straipsnis. 15 straipsnio pakeitimas
+## 7 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Nacionalinį metinių ataskaitų rinkinį pasirašo Ministras Pirmininkas ir finansų ministras.“
 
-\#### 8 straipsnis. 16 straipsnio pakeitimas
+## 8 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Valstybės kontrolė, savivaldybės kontrolės ir audito tarnyba, auditorius arba audito įmonė nustato ir valstybinio audito išvadoje ar auditoriaus išvadoje nurodo, ar veiklos ataskaitoje, jeigu pagal teisės aktų reikalavimus ji rengiama, pagrindinių rezultatų valstybės veiklos srityse ataskaitoje pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų rinkinių ir biudžeto vykdymo ataskaitų rinkinių duomenis.“
 
-\#### 9 straipsnis. 17 straipsnio pakeitimas
+## 9 straipsnis. 17 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 17 straipsnio 5 dalies 1 punktą.
 
@@ -138,7 +138,7 @@ b) nacionalinį metinių ataskaitų rinkinį, išskyrus pagrindinių rezultatų 
 
 4) Vyriausybė kanceliarija – pagrindinių rezultatų valstybės veiklos srityse ataskaitą.“
 
-\#### 10 straipsnis. Įstatymo papildymas VI skyriumi
+## 10 straipsnis. Įstatymo papildymas VI skyriumi
 
 Papildyti Įstatymą VI skyriumi:
 
@@ -146,7 +146,7 @@ Papildyti Įstatymą VI skyriumi:
 
 ATSKAITOMYBĖ UŽ PASIEKTUS REZULTATUS VALSTYBĖS LYGMENIU
 
-\#### 21 straipsnis. Atsiskaitymas už valstybės veiklos rezultatus
+## 21 straipsnis. Atsiskaitymas už valstybės veiklos rezultatus
 
 1. Atsiskaitymas už valstybės veiklos rezultatus, kuris užtikrina tinkamą sprendimų priėmimą ir visuomenės informavimą apie valstybės veiklą ir veiklos rezultatus, įgyvendinamas kasmet rengiant sudedamąją nacionalinio metinių ataskaitų rinkinio dalį – pagrindinių rezultatų valstybės veiklos srityse ataskaitą – ir kas ketverius metus rengiant Valstybės pažangos strategijos ataskaitą.
 
@@ -154,7 +154,7 @@ ATSKAITOMYBĖ UŽ PASIEKTUS REZULTATUS VALSTYBĖS LYGMENIU
 
 3. Valstybės pažangos strategijos ataskaita apima Ministro Pirmininko pranešimą, pasiektų rezultatų įgyvendinant Valstybės pažangos strategiją analizę, rodiklių reikšmių tendencijų apžvalgą ir prognozes, Valstybės pažangos strategijos pritaikymo prie besikeičiančios realybės poreikio nustatymą, atliktą ateities įžvalgų metodais.
 
-\#### 22 straipsnis. Pagrindinių rezultatų valstybės veiklos srityse ataskaitos ir Valstybės pažangos strategijos ataskaitos rengimas, teikimas, tvirtinimas, skelbimas ir atsakomybė
+## 22 straipsnis. Pagrindinių rezultatų valstybės veiklos srityse ataskaitos ir Valstybės pažangos strategijos ataskaitos rengimas, teikimas, tvirtinimas, skelbimas ir atsakomybė
 
 1. Pagrindinių rezultatų valstybės veiklos srityse ataskaita rengiama remiantis viešojo sektoriaus subjektų, kuriems taikomas Strateginio valdymo įstatymas, ir viešojo sektoriaus subjektų grupių metinių ataskaitų rinkiniuose pateikta informacija, taip pat kita aktualia informacija, kuri užtikrina tinkamą sprendimų priėmimą ir visuomenės informavimą apie viešojo sektoriaus subjektų, jų grupių, tarp jų valstybės, veiklą ir veiklos rezultatus.
 
@@ -176,7 +176,7 @@ ATSKAITOMYBĖ UŽ PASIEKTUS REZULTATUS VALSTYBĖS LYGMENIU
 
 5) Valstybės pažangos strategijos ataskaitai mutatis mutandis taikomos šio įstatymo 3 straipsnio 4 ir 6 dalių, 15 straipsnio 5 dalies, 19 straipsnio ir 20 straipsnio 1 dalies, 2 dalies 1 ir 2 punkto bei 3 dalies nuostatos.“
 
-\#### 11 straipsnis. Įstatymo priedo pakeitimas
+## 11 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -188,45 +188,28 @@ priedas
 
 METINIŲ ATASKAITŲ RINKINIŲ IR ATASKAITŲ TEIKIMO IR AUDITO ATLIKIMO TERMINAI
 
-\| Eil. Nr. | Metinių ataskaitų rinkiniai ir ataskaitos | Pateikimo Vyriausybei data | Pateikimo Valstybės kontrolei arba savivaldybės kontrolės ir audito tarnybai data | Audito ataskaitų, audito išvadų, metinių ataskaitų rinkinių ir ataskaitų pateikimo Seimui arba savivaldybės tarybai data |
-
-\| --- | --- | --- | --- | --- |
-
-\| 1. | Viešojo sektoriaus subjekto metinių ataskaitų rinkinys | – | Iki kovo 1 d. | – |
-
-\| 2. | Viešojo sektoriaus subjektų grupės metinių ataskaitų rinkinys | – | Iki kovo 20 d. | – |
-
-\| 3. | Valstybės socialinių fondų metinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 1 d. | Iki gegužės 15 d. |
-
-\| 4. | Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 1 d. | Iki gegužės 15 d. |
-
-\| 5. | Pensijų anuitetų fondo metinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 1 d. | Iki gegužės 15 d. |
-
-\| 6. | Savivaldybių: | | | |
-
-\| 6.1. | Savivaldybės veiklos ataskaita | – | Iki balandžio 20 d. | Iki gegužės 15 d. |
-
-\| 6.2. | Finansinių ataskaitų rinkinys | – | Iki balandžio 20 d. | |
-
-\| 6.3. | Biudžeto vykdymo ataskaitų rinkinys | Iki kovo 15 d. | Iki kovo 15 d. | |
-
-\| 7. | Valstybės: | | | |
-
-\| 7.1. | Finansinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 20 d. | Iki gegužės 15 d. |
-
-\| 7.2. | Biudžeto vykdymo ataskaitų rinkinys | Iki kovo 15 d. | Iki kovo 15 d. | |
-
-\| 8. | Nacionalinis metinių ataskaitų rinkinys: | | | |
-
-\| 8.1. | Pagrindinių rezultatų valstybės veiklos srityse ataskaita | Iki gegužės 5 d. | Iki gegužės 11 d. | Iki birželio 5 d. |
-
-\| 8.2. | Nacionalinio metinių ataskaitų rinkinio dalys, už kurių rengimą atsakinga Lietuvos Respublikos finansų ministerija | Iki gegužės 25 d. | Iki gegužės 15 d. | |
-
-\| 9. | Valstybės pažangos strategijos ataskaita | Iki gegužės 5 d. (kas ketverius metus) | – | Iki birželio 5 d. (kas ketverius metus) |
+| Eil. Nr. | Metinių ataskaitų rinkiniai ir ataskaitos | Pateikimo Vyriausybei data | Pateikimo Valstybės kontrolei arba savivaldybės kontrolės ir audito tarnybai data | Audito ataskaitų, audito išvadų, metinių ataskaitų rinkinių ir ataskaitų pateikimo Seimui arba savivaldybės tarybai data |
+| --- | --- | --- | --- | --- |
+| 1. | Viešojo sektoriaus subjekto metinių ataskaitų rinkinys | – | Iki kovo 1 d. | – |
+| 2. | Viešojo sektoriaus subjektų grupės metinių ataskaitų rinkinys | – | Iki kovo 20 d. | – |
+| 3. | Valstybės socialinių fondų metinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 1 d. | Iki gegužės 15 d. |
+| 4. | Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 1 d. | Iki gegužės 15 d. |
+| 5. | Pensijų anuitetų fondo metinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 1 d. | Iki gegužės 15 d. |
+| 6. | Savivaldybių: |  |  |  |
+| 6.1. | Savivaldybės veiklos ataskaita | – | Iki balandžio 20 d. | Iki gegužės 15 d. |
+| 6.2. | Finansinių ataskaitų rinkinys | – | Iki balandžio 20 d. |  |
+| 6.3. | Biudžeto vykdymo ataskaitų rinkinys | Iki kovo 15 d. | Iki kovo 15 d. |  |
+| 7. | Valstybės: |  |  |  |
+| 7.1. | Finansinių ataskaitų rinkinys | Iki gegužės 5 d. | Iki balandžio 20 d. | Iki gegužės 15 d. |
+| 7.2. | Biudžeto vykdymo ataskaitų rinkinys | Iki kovo 15 d. | Iki kovo 15 d. |  |
+| 8. | Nacionalinis metinių ataskaitų rinkinys: |  |  |  |
+| 8.1. | Pagrindinių rezultatų valstybės veiklos srityse ataskaita | Iki gegužės 5 d. | Iki gegužės 11 d. | Iki birželio 5 d. |
+| 8.2. | Nacionalinio metinių ataskaitų rinkinio dalys, už kurių rengimą atsakinga Lietuvos Respublikos finansų ministerija | Iki gegužės 25 d. | Iki gegužės 15 d. |  |
+| 9. | Valstybės pažangos strategijos ataskaita | Iki gegužės 5 d. (kas ketverius metus) | – | Iki birželio 5 d. (kas ketverius metus) |
 
 ____________________“.
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. vasario 1 d.
 

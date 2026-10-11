@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DDF6460C319B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DDF6460C319B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 15 straipsnio papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 2006, Nr. [4-102](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0DE35FFA738); 2010, Nr. [25-1174](https://www.e-tar.lt/portal/lt/legalAct/TAR.A91EE63FD1A6))
 
-\#### 1 straipsnis. 15 straipsnio papildymas 4, 5 ir 6 dalimis
+## 1 straipsnis. 15 straipsnio papildymas 4, 5 ir 6 dalimis
 
 1. Papildyti 15 straipsnį 4 dalimi:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „6. Centrinė perkančioji organizacija ketvirčiui pasibaigus per 5 darbo dienas privalo pateikti Viešųjų pirkimų tarnybai informaciją apie perkančiųjų organizacijų pirkimus, atliktus per ketvirtį iš centrinės perkančiosios organizacijos arba per ją, ir kartu nurodyti informaciją apie atliktus žaliuosius pirkimus ir jų vertes bei energijos vartojimo efektyvumo reikalavimų taikymą.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnio 2 ir 3 dalys įsigalioja 2014 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.677003A820B9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.677003A820B9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1, 2, 5, 6, 7(1), 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 24(1), 25, 26, 27, 28 straipsnių bei priedo pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [112-3100](https://www.e-tar.lt/portal/lt/legalAct/TAR.746227138BCB); 2001, Nr. [39-1343](https://www.e-tar.lt/portal/lt/legalAct/TAR.F7734C74FF57), Nr. [64-2328](https://www.e-tar.lt/portal/lt/legalAct/TAR.037EDB5B8BF1); 2002, Nr. [68-2761](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F624633BA4A); 2003, Nr. [38-1678](https://www.e-tar.lt/portal/lt/legalAct/TAR.32162EC659EB), Nr. [104-4641](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF7EC56F4BAA); 2004, Nr. [115-4280](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8F7111AEBD5), Nr. [171-6305](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8070B771752))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas
 
 1 straipsnio 1 dalyje išbraukti žodžius „tiesioginę ir netiesioginę“, po žodžio „lyties“ įrašyti žodžius „ypač kai tai susiję su šeimine ar santuokine padėtimi“ ir šią dalį išdėstyti taip:
 
 „1. Šio įstatymo paskirtis – užtikrinti, kad būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir vyrų lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties, ypač kai tai susiję su šeimine ar santuokine padėtimi.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Papildyti 2 straipsnį nauja 2 dalimi, buvusias 2 straipsnio 2, 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis, jas pakeisti, straipsnį papildyti 7 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Papildyti 2 straipsnį nauja 2 dalimi, buvusias 2 straipsnio 2, 3, 4, 5 dalis la
 
 7. Priekabiavimas – nepageidaujamas elgesys, kai dėl asmens lyties siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -88,19 +88,19 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 5) imtis priemonių, kad darbuotojas būtų apsaugotas nuo priešiško elgesio, neigiamų pasekmių bei kitokio persekiojimo, kai reaguojama į jo skundą dėl diskriminacijos.“
 
-\#### 4 straipsnis. 6 straipsnio 1 punkto pakeitimas
+## 4 straipsnis. 6 straipsnio 1 punkto pakeitimas
 
 6 straipsnio 1 punkte išbraukti žodžius „už tokį pat darbą“, „darbo“, po žodžio „apmokėjimo“ įrašyti žodžius „už tokį pat ar vienodos vertės darbą“ ir šį punktą išdėstyti taip:
 
 „1) taiko asmeniui mažiau (daugiau) palankias įdarbinimo arba apmokėjimo už tokį pat ar vienodos vertės darbą sąlygas;“.
 
-\#### 5 straipsnis. 71 straipsnio papildymas 3 punktu
+## 5 straipsnis. 71 straipsnio papildymas 3 punktu
 
 Papildyti 7^1 straipsnį 3 punktu:
 
 „3) persekiojamas asmuo, pateikęs skundą dėl diskriminacijos.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 8 straipsnyje vietoj skaičiaus ir žodžio „3 dalies“ įrašyti skaičių ir žodį „4 dalies“ ir šį straipsnį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Papildyti 7^1 straipsnį 3 punktu:
 
 Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę vienai iš lyčių, išskyrus 2 straipsnio 4 dalies 5 punkte nurodytą atvejį, reikalauti iš darbo ieškančių asmenų informacijos apie jų šeiminę padėtį, amžių (išskyrus įstatyme numatytus atvejus), privatų gyvenimą ar šeimos planus.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Asmuo, manantis, kad jam buvo taikomi šiame skyriuje nurodyti diskriminuojantys veiksmai, arba tapęs seksualinio priekabiavimo ar kitokio priekabiavimo objektu, turi teisę kreiptis į lygių galimybių kontrolierių.“
 
-\#### 8 straipsnis. 10 straipsnio pakeitimas
+## 8 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 2. Lygių galimybių kontrolieriaus darbui užtikrinti steigiama Lygių galimybių kontrolieriaus tarnyba.“
 
-\#### 9 straipsnis. 11 straipsnio pakeitimas
+## 9 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 3. Lygių galimybių kontrolieriaus tarnybai vadovauja lygių galimybių kontrolierius.“
 
-\#### 10 straipsnis. 12 straipsnio pakeitimas
+## 10 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 2. Lygių galimybių kontrolierius teikia išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos valdžios ir valdymo institucijoms dėl teisės aktų tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.“
 
-\#### 11 straipsnis. 13 straipsnio pakeitimas
+## 11 straipsnis. 13 straipsnio pakeitimas
 
 13 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -156,7 +156,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį išsilavinimą ir ne mažesnį kaip penkerių metų teisinio darbo arba darbo valstybės valdžios bei valdymo institucijose stažą.“
 
-\#### 12 straipsnis. 14 straipsnio pakeitimas
+## 12 straipsnis. 14 straipsnio pakeitimas
 
 14 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -166,7 +166,7 @@ Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputaci
 
 2. Lygių galimybių kontrolieriaus kadencijų skaičius neribojamas.“
 
-\#### 13 straipsnis. 15 straipsnio pakeitimas
+## 13 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputaci
 
 2. Lygių galimybių kontrolieriaus įgaliojimai pasibaigia jam mirus.“
 
-\#### 14 straipsnis. 16 straipsnio pakeitimas
+## 14 straipsnis. 16 straipsnio pakeitimas
 
 16 straipsnyje išbrauktižodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputaci
 
 2. Lygių galimybių kontrolierius negali gauti kito atlyginimo, išskyrus nustatytąjį pagal einamas pareigas bei užmokestį už pedagoginę ar kūrybinę veiklą.“
 
-\#### 15 straipsnis. 17 straipsnio pakeitimas
+## 15 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -204,7 +204,7 @@ Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputaci
 
 Lygių galimybių kontrolieriaus tarnybos veikla finansuojama iš valstybės biudžeto.“
 
-\#### 16 straipsnis. 18 straipsnio pakeitimas
+## 16 straipsnis. 18 straipsnio pakeitimas
 
 18 straipsnyje išbrauktižodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -218,7 +218,7 @@ Lygių galimybių kontrolieriaus tarnybos veikla finansuojama iš valstybės biu
 
 4. Anoniminiai skundai nenagrinėjami, jeigu lygių galimybių kontrolierius nenusprendžia kitaip.“
 
-\#### 17 straipsnis. 19 straipsnio pakeitimas
+## 17 straipsnis. 19 straipsnio pakeitimas
 
 19 straipsnyje išbrauktižodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -248,7 +248,7 @@ Lygių galimybių kontrolieriaus tarnybos veikla finansuojama iš valstybės biu
 
 3. Šio straipsnio 1 dalyje nurodytų skundo reikalavimų nesilaikymas ar rekvizitų nenurodymas negali būti pagrindas atsisakyti nagrinėti skundą.“
 
-\#### 18 straipsnis. 20 straipsnio pakeitimas
+## 18 straipsnis. 20 straipsnio pakeitimas
 
 20 straipsnyje išbrauktižodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -256,7 +256,7 @@ Lygių galimybių kontrolieriaus tarnybos veikla finansuojama iš valstybės biu
 
 Skundą galima paduoti per 3 mėnesius nuo skundžiamų veiksmų padarymo. Skundai, paduoti praėjus šiam terminui, nenagrinėjami, jeigu lygių galimybių kontrolierius nenusprendžia kitaip.“
 
-\#### 19 straipsnis. 21 straipsnio pakeitimas
+## 19 straipsnis. 21 straipsnio pakeitimas
 
 21 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -280,7 +280,7 @@ Skundą galima paduoti per 3 mėnesius nuo skundžiamų veiksmų padarymo. Skund
 
 4. Jeigu skundo tyrimo metu išaiškėja šio straipsnio 1 dalyje nurodytos aplinkybės arba jeigu pareiškėjas nepateikia duomenų, be kurių neįmanoma pradėti skundo tyrimo, skundas paliekamas nenagrinėtas.“
 
-\#### 20 straipsnis. 22 straipsnio pakeitimas
+## 20 straipsnis. 22 straipsnio pakeitimas
 
 22 straipsnyje išbrauktižodžius „moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -288,7 +288,7 @@ Skundą galima paduoti per 3 mėnesius nuo skundžiamų veiksmų padarymo. Skund
 
 Skundas turi būti ištirtas ir pareiškėjui atsakyta per vieną mėnesį nuo skundo gavimo dienos. Prireikus lygių galimybių kontrolierius tyrimo terminą gali pratęsti iki dviejų mėnesių. Apie tai turi būti informuojamas pareiškėjas.“
 
-\#### 21 straipsnis. 23 straipsnio pakeitimas
+## 21 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -312,7 +312,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 4. Su tyrimo rezultatais supažindinamas skundo autorius, institucijos, kurioje buvo atliekamas tyrimas, vadovas ir asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami pažymos nuorašai.“
 
-\#### 22 straipsnis. 24 straipsnio pakeitimas
+## 22 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -334,7 +334,7 @@ Atlikęs tyrimą, lygių galimybių kontrolierius gali priimti sprendimą:
 
 7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs.“
 
-\#### 23 straipsnis. 241 straipsnio pakeitimas
+## 23 straipsnis. 241 straipsnio pakeitimas
 
 24^1straipsnyje išbraukti žodį „ar“, po žodžio „priekabiavimą“ įrašyti žodžius „ar priekabiavimą“ ir šį straipsnį išdėstyti taip:
 
@@ -342,7 +342,7 @@ Atlikęs tyrimą, lygių galimybių kontrolierius gali priimti sprendimą:
 
 Asmuo, patyręs diskriminaciją dėl lyties, seksualinį priekabiavimą ar priekabiavimą, turi teisę reikalauti iš kaltų asmenų atlyginti turtinę ir neturtinę žalą Lietuvos Respublikos civilinio kodekso nustatyta tvarka.“
 
-\#### 24 straipsnis. 25 straipsnio pakeitimas
+## 24 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -354,7 +354,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 3. Asmenys, trukdantys lygių galimybių kontrolieriui atlikti pareigas, atsako pagal įstatymus.“
 
-\#### 25 straipsnis. 26 straipsnio pakeitimas
+## 25 straipsnis. 26 straipsnio pakeitimas
 
 26 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -366,7 +366,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 3. Lygių galimybių kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo įstatymo nustatyta tvarka.“
 
-\#### 26 straipsnis. 27 straipsnio pakeitimas
+## 26 straipsnis. 27 straipsnio pakeitimas
 
 27 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -374,7 +374,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 Lygių galimybių kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių galimybių kontrolieriaus tarnybos veiklos ataskaitą, kuri nagrinėjama Seime. Visa ataskaita turi būti paskelbta Lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.“
 
-\#### 27 straipsnis. 28 straipsnio pakeitimas
+## 27 straipsnis. 28 straipsnio pakeitimas
 
 28 straipsnyje išbrauktižodžius „Moterų ir vyrų“ ir šį straipsnį išdėstyti taip:
 
@@ -382,7 +382,7 @@ Lygių galimybių kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui
 
 Lygių galimybių kontrolieriaus tarnyba informaciją spaudai ir kitoms visuomenės informavimo priemonėms apie skundo dėl lygių teisių pažeidimo tyrimą teikia tik pareiškėjui sutikus.“
 
-\#### 28 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+## 28 straipsnis. Įstatymo priedo pakeitimas ir papildymas
 
 Papildyti ir pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

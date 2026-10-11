@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBEAE76BC38"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0FBEAE76BC38.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1997, Nr. 96-2423; 1998, Nr. 105-2894)
 
-\#### 1 straipsnis. Lietuvos Respublikos transporto veiklos pagrindų įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos transporto veiklos pagrindų įstatymo nauja redakcija
 
 PakeistiLietuvos Respublikos transporto veiklos pagrindų įstatymą ir jį išdėstyti taip:
 
@@ -40,15 +40,15 @@ TRANSPORTO VEIKLOS PAGRINDŲ
 
 Į S T A T Y M A S
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas nustato Lietuvos Respublikos transporto viešojo administravimo, vežėjų (operatorių) ir transporto infrastruktūros valdytojų veiklos, valstybės pagalbos plėtojant transporto infrastruktūrą ir jos valdymo bendruosius principus, transporto infrastruktūros valdytojų teisinį statusą, jų santykius su transporto infrastruktūros savininkais bei naudotojais, visuomenės aptarnavimo įsipareigojimų, saugaus eismo užtikrinimo ir kitų su transporto veikla susijusių santykių reglamentavimo pagrindus.
 
 2. Šis Įstatymas nereglamentuoja karinio, bevariklio ir vamzdynų transporto veiklos, jeigu kiti įstatymai nenustato ko kita.
 
-\#### 2 straipsnis. Pagrindinės Įstatymo sąvokos
+## 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 1. Rinkliava – transporto infrastruktūros objekto savininko nustatytas užmokestis už naudojimąsi transporto infrastruktūros objektu, kurį transporto infrastruktūros objekto naudotojas moka transporto infrastruktūros objekto valdytojui (savininkui).
 
@@ -76,7 +76,7 @@ TRANSPORTO VEIKLOS PAGRINDŲ
 
 13. Visuomenės aptarnavimo įsipareigojimai - įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas (operatorius), atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą - įsipareigojimas nustatytas vežėjui (operatoriui), kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti - įpareigojimas, nustatytas vežėjui (operatoriui) priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų - įpareigojimas, nustatytas vežėjui (operatoriui), kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo (operatoriaus) komercinių interesų.
 
-\#### 3 straipsnis. Transporto veiklos užtikrinimas
+## 3 straipsnis. Transporto veiklos užtikrinimas
 
 Valstybė teisinėmis, o prireikus ir finansinėmis priemonėmis užtikrina:
 
@@ -92,7 +92,7 @@ Valstybė teisinėmis, o prireikus ir finansinėmis priemonėmis užtikrina:
 
 6) kombinuotų vežimų sistemos kūrimo ir plėtojimo skatinimą, taip pat šiuo pagrindu remiantis ir tranzito skatinimą.
 
-\#### 4 straipsnis. Transporto viešasis administravimas
+## 4 straipsnis. Transporto viešasis administravimas
 
 1. Transporto viešąjį administravimą vykdo Vyriausybė, Susisiekimo ministerija bei savivaldybių institucijos.
 
@@ -116,11 +116,11 @@ Valstybė teisinėmis, o prireikus ir finansinėmis priemonėmis užtikrina:
 
 4. Savivaldybių institucijos formuoja viešojo vietinio transporto veiklos strategiją ir organizuoja jos įgyvendinimą.
 
-\#### 5 straipsnis. Transporto rūšys
+## 5 straipsnis. Transporto rūšys
 
 Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūrų, oro ir vidaus vandenų transportas. Šių transporto rūšių, taip pat kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių įstatymai irkodeksai bei kiti teisės aktai.
 
-\#### 6 straipsnis. Transporto objektų nuosavybė
+## 6 straipsnis. Transporto objektų nuosavybė
 
 1. Transporto objektai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybių institucijoms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims.
 
@@ -130,19 +130,19 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 4. Viešosios transporto infrastruktūros objektus, žemę, akvatoriją (vandens plotus), kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktūros valdytojas valdo, naudoja bei disponuoja turto patikėjimo teisėmis vadovaudamasis šiuo ir kitais įstatymais, administraciniu aktu ar sutartimi.
 
-\#### 7 straipsnis. Transporto teisinių santykių reglamentavimas
+## 7 straipsnis. Transporto teisinių santykių reglamentavimas
 
 1. Transporto teisinius santykius reglamentuoja Lietuvos Respublikos tarptautinės sutartys, šis Įstatymas, specialieji transporto rūšių įstatymai ir kodeksai bei kiti teisės aktai. Jeigu specialiuosiuose transporto rūšių įstatymuose ir kodeksuose numatytos kitokios nuostatos negu šiame Įstatyme, taikomos specialiųjų transporto rūšių įstatymų ir kodeksų nuostatos.
 
 2. Jeigu Lietuvos Respublikos tarptautinės sutartys nustato kitokias taisykles negu šis Įstatymas, taikomos tarptautinių sutarčių nuostatos.
 
-\#### 8 straipsnis. Transporto veiklos licencijavimas
+## 8 straipsnis. Transporto veiklos licencijavimas
 
 1. Licencijuojamos transporto ūkinės komercinės veiklos sritys nustatomos specialiuosiuose transporto rūšių įstatymuose ir kodeksuose. Kiekvienai šiuose įstatymuose nustatytai transporto licencijuojamos ūkinės komercinės veiklos sričiai licencijos (leidimai) išduodamos pagal Vyriausybės patvirtintas licencijavimo taisykles.
 
 2. Įmonė, norinti gauti licenciją (leidimą), turi atitikti geros reputacijos, profesinės kompetencijos bei finansinio pajėgumo reikalavimus. Šie reikalavimai detalizuojami šio straipsnio 1 dalyje nurodytose taisyklėse. Taisyklėse gali būti nustatyti ir kiti reikalavimai, atsižvelgiant į atitinkamos transporto rūšies ypatumus.
 
-\#### 9 straipsnis. Tarifai, kainos, rinkliavos
+## 9 straipsnis. Tarifai, kainos, rinkliavos
 
 1. Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos kainodaros principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai nenustato ko kita.
 
@@ -150,7 +150,7 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 3. Lėšos, gautos už naudojimąsi viešąja transporto infrastruktūra, naudojamos tik šios infrastruktūros funkcionavimui užtikrinti ir šio Įstatymo 15 straipsnio 2 dalyje numatytoms programoms finansuoti.
 
-\#### 10 straipsnis. Eismo sauga transporte
+## 10 straipsnis. Eismo sauga transporte
 
 1. Saugus eismas transporte užtikrinamas laikantis techninių, technologinių, socialinių ir organizacinių reikalavimų transporto infrastruktūrai, transporto priemonėms ir eismo dalyviams.
 
@@ -164,19 +164,19 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 6. Teisės vairuoti (valdyti, pilotuoti) transporto priemones įgijimo tvarką nustato Vyriausybė ar jos įgaliotos institucijos. Teisės vairuoti (valdyti, pilotuoti) transporto priemonę suteikimo dokumentų, išduotų kitose valstybėse, pripažinimo Lietuvos Respublikoje tvarką nustato specialieji transporto rūšių įstatymai ir kodeksai arba Vyriausybė ar jos įgaliota institucija.
 
-\#### 11 straipsnis. Aplinkosaugos ir kiti reikalavimai
+## 11 straipsnis. Aplinkosaugos ir kiti reikalavimai
 
 1. Transporto veiklos subjektai privalo vykdyti aplinkosaugos, pavojingų krovinių gabenimo, saugos darbe, darbo ir poilsio režimo, higienos reikalavimus, nustatytus Lietuvos Respublikos tarptautinėse sutartyse, įstatymuose ir kituose teisės aktuose. Už šių reikalavimų nesilaikymą pažeidėjai atsako įstatymų nustatyta tvarka.
 
 2. Viešojo transporto objektai, skirti keleiviams aptarnauti, turi būti nuosekliai pritaikomi patogiai ir saugiai jais naudotis neįgaliesiems.
 
-\#### 12 straipsnis. Kombinuoti vežimai
+## 12 straipsnis. Kombinuoti vežimai
 
 1. Kombinuoti vežimai - krovinių gabenimas naudojant ne mažiau kaip dvi transporto rūšis, kai tas pats krovinys esantis sunkvežimyje, priekaboje ar puspriekabėje (su vilkiku ar be jo), keičiamoje talpykloje arba 20 ar daugiau pėdų konteineryje didžiąją maršruto dalį yra gabenamas geležinkelių, vidaus vandenų arba jūrų transportu, o pradinę ir (arba) galutinę maršruto dalį - kelių transporto priemonėmis.
 
 2. Vyriausybė gali nustatyti kombinuotų vežimų konkurencingumą skatinančias priemones.
 
-\#### 13 straipsnis. Visuomenės aptarnavimo organizavimas
+## 13 straipsnis. Visuomenės aptarnavimo organizavimas
 
 1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei. Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių. Šiems visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami konkurso tvarka.
 
@@ -184,9 +184,9 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 3. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybės institucija, priėmusi sprendimą nutraukti visuomenės aptarnavimo sutartį, privalo sudaryti galimybę visuomenei naudotis alternatyvia transporto paslauga.
 
-\### ANTRASIS SKIRSNIS. VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
+ANTRASIS SKIRSNIS. VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
 
-\#### 14 straipsnis. Transporto infrastruktūros rūšys ir valdytojai
+## 14 straipsnis. Transporto infrastruktūros rūšys ir valdytojai
 
 1. Transporto infrastruktūra yra viešoji ir privati.
 
@@ -196,7 +196,7 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 4. Viešosios transporto infrastruktūros valdytoją skiria Vyriausybė ar jos įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama įmonė.
 
-\#### 15 straipsnis. Viešosios transporto infrastruktūros valdytojo veiklos ypatumai
+## 15 straipsnis. Viešosios transporto infrastruktūros valdytojo veiklos ypatumai
 
 1. Viešosios transporto infrastruktūros objekto valdytojas, garantuodamas optimalų šio objekto funkcionavimą, išlaidų ir pajamų subalansavimą:
 
@@ -206,7 +206,7 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra (jūrų uostų rinkliavas, taip pat rinkliavas už oro navigacijos paslaugas ir naudojimąsi oro uostais, geležinkelių infrastruktūra, pajamas, gautas už jūrų uostų žemės nuomą, kelių priežiūros ir plėtros programos lėšas), valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas specialiąsias programas šio straipsnio 1 dalyje numatytiems tikslams vykdyti.
 
-\#### 16 straipsnis. Viešosios transporto infrastruktūros finansavimas
+## 16 straipsnis. Viešosios transporto infrastruktūros finansavimas
 
 1. Vyriausybės patvirtintų viešosios transporto infrastruktūros kūrimo, plėtros bei modernizavimo programų įgyvendinimas finansuojamas iš šių lėšų šaltinių:
 
@@ -224,11 +224,11 @@ Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūr
 
 2. Atskirų transporto rūšių viešajai infrastruktūrai finansuoti gali būti steigiami nebiudžetiniai piniginiai fondai, jei tai yra suderinta su Europos Bendrijų teise arba Biudžeto sandaros įstatymo nustatyta tvarka, - programos.
 
-\#### 17 straipsnis. Viešosios transporto infrastruktūros valdymo kontrolė
+## 17 straipsnis. Viešosios transporto infrastruktūros valdymo kontrolė
 
 Viešosios transporto infrastruktūros valdytojo veiklą kontroliuoja valstybės ir (ar) savivaldybių institucijos įstatymų nustatyta tvarka.
 
-\#### 18 straipsnis. Viešosios transporto infrastruktūros valdytojo santykiai su transporto infrastruktūros savininku
+## 18 straipsnis. Viešosios transporto infrastruktūros valdytojo santykiai su transporto infrastruktūros savininku
 
 Viešosios transporto infrastruktūros savininko ir valdytojo tarpusavio santykius nustato turto patikėjimo sutartis.“
 

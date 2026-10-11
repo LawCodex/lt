@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.01873B0117D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.01873B0117D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 1, 2, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 21, 23, 24, 26, 33 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2000, Nr. [30-827](https://www.e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1); 2005, Nr. [18-572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C76F84D85C53); 2006, Nr. [130-4890](https://www.e-tar.lt/portal/lt/legalAct/TAR.EAF6EBB83D06))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje išbraukti žodį „fiziniams“ ir šią dalį išdėstyti taip:
 
 „1. Šis įstatymas nustato valstybės garantuojamos teisinės pagalbos teikimą asmenims, kad šie galėtų tinkamai ginti pažeistas ar ginčijamas savo teises ir įstatymų saugomus interesus.“
 
-\#### 2 straipsnis. 2 straipsnio 2, 4 ir 10 dalių pakeitimas
+## 2 straipsnis. 2 straipsnio 2, 4 ir 10 dalių pakeitimas
 
 1. 2 straipsnio 2 dalį papildyti trečiu sakiniu ir šią dalį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Vilnius
 
 „10. **Koordinatorius –**advokatas, padedantis organizuoti antrinės teisinės pagalbos teikimą baudžiamosiose bylose pagal šio įstatymo 9 straipsnio 3 dalies 5 punkte nurodytą sutartį.“
 
-\#### 3 straipsnis. 4 straipsnio 4 punkto pakeitimas
+## 3 straipsnis. 4 straipsnio 4 punkto pakeitimas
 
 Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) kasmet nuo sprendimo suteikti antrinę teisinę pagalbą priėmimo dienos pateikti valstybės garantuojamos teisinės pagalbos tarnyboms metinę gyventojo (šeimos) turto deklaraciją su vietos mokesčių administratoriaus žyma, kad deklaracija pateikta, jei antrinė teisinė pagalba teikiama ilgiau kaip metus. Tokia deklaracija turi būti pateikta ne vėliau kaip praėjus 5 dienoms nuo metų pabaigos;“.
 
-\#### 4 straipsnis. 7 straipsnio 1, 3 dalių pakeitimas ir papildymas
+## 4 straipsnis. 7 straipsnio 1, 3 dalių pakeitimas ir papildymas
 
 1. Papildyti 7 straipsnio 1 dalį nauju 7 punktu:
 
@@ -62,13 +62,13 @@ Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „3. Koordinavimo tarybą sudaro Lietuvos Respublikos Seimo Teisės ir teisėtvarkos bei Žmogaus teisių komitetų, Teisingumo ministerijos, Finansų ministerijos, Lietuvos savivaldybių asociacijos, Lietuvos advokatūros, Lietuvos teisininkų draugijos, Teisėjų tarybos, kitų institucijų ir asociacijų, kurių veikla susijusi su valstybės garantuojamos teisinės pagalbos teikimu arba žmogaus teisių apsauga, atstovai. Koordinavimo tarybos nuostatus ir sudėtį tvirtina teisingumo ministras.“
 
-\#### 5 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 8 straipsnio 3 dalyje vietoj žodžių „Teisingumo ministerijai šios“ įrašyti žodžius „tarnyboms teisingumo ministro“ ir šią dalį išdėstyti taip:
 
 „3. Savivaldybių institucijos privalo kiekvienais metais pateikti tarnyboms teisingumo ministro nustatyta tvarka veiklos organizuojant ir teikiant pirminę teisinę pagalbą ataskaitas.“
 
-\#### 6 straipsnis. 9 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5, 6, 7 dalimis
+## 6 straipsnis. 9 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 5, 6, 7 dalimis
 
 1. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 
 5) teikia pasiūlymus Teisingumo ministerijai dėl teisės aktų, reglamentuojančių antrinės teisinės pagalbos teikimo organizavimą ir pavyzdinių antrinės teisinės pagalbos teikimo sutarčių sąlygas, tobulinimo.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 1. 10 straipsnio 1 punktą pripažinti netekusiu galios.
 
@@ -130,7 +130,7 @@ Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) atlieka kitas šio įstatymo, Lietuvos Respublikos advokatūros įstatymo ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 10. Valstybės garantuojama teisinė pagalba neteikiama asmenims, turintiems teisę į bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu) draudimo išmoką, jeigu ši išmoka pagal draudimo sutarties sąlygas išmokama prieš patiriant bylinėjimosi išlaidas (išlaidas, susijusias su bylos nagrinėjimu) ir jeigu draudimo išmoka apima visas išlaidas, kurias apimtų pagal šį įstatymą teikiama valstybės garantuojama teisinė pagalba. Pareiškėjas privalo nurodyti, ar yra sudaręs bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu) draudimo sutartį, ir jei šią sutartį yra sudaręs, – kokias išlaidas apimtų draudimo išmoka.“
 
-\#### 9 straipsnis. 12 straipsnio pakeitimas
+## 9 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -228,7 +228,7 @@ Teisę gauti antrinę teisinę pagalbą, neatsižvelgiant į Lietuvos Respubliko
 
 13) kiti asmenys Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais.“
 
-\#### 10 straipsnis. 13 straipsnio pakeitimas
+## 10 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -264,7 +264,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 15. Šio straipsnio 1, 4 ir 7 dalyse nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.“
 
-\#### 11 straipsnis. 14 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 8 dalimi
+## 11 straipsnis. 14 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. 14 straipsnio 2 dalyje po žodžio „rinkimu“ įrašyti žodį „vertimu“ ir šią dalį išdėstyti taip:
 
@@ -274,13 +274,13 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 „8. Antrinę teisinę pagalbą administracinėse ir civilinėse bylose teikiantys advokatai privalo pateikti tarnybai prašymą dėl antrinės teisinės pagalbos išlaidų dydžio apskaičiavimo ir šį apskaičiavimą pateikti teismui administracinių ir civilinių bylų nagrinėjimą reglamentuojančių teisės aktų nustatyta tvarka.“
 
-\#### 12 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Asmenys, norintys gauti pirminę teisinę pagalbą, turi teisę kreiptis į savivaldybės vykdomąją instituciją pagal savo deklaruotą gyvenamąją vietą arba, jei asmuo neturi gyvenamosios vietos, į savivaldybės, kurioje asmuo gyvena, vykdomąją instituciją. Asmenys, atliekantys laisvės atėmimo bausmę, laikomi kardomojo kalinimo vietose, turi teisę kreiptis į savivaldybės vykdomąją instituciją pagal laisvės atėmimo vietą.“
 
-\#### 13 straipsnis. 17 straipsnio pakeitimas
+## 13 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -302,7 +302,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 6. Antrinę teisinę pagalbą teikiantys advokatai renka ir kaupia duomenis apie suteiktą (teikiamą) antrinę teisinę pagalbą teisingumo ministro nustatyta tvarka. Duomenims rinkti, kaupti ir perduoti gali būti naudojamos informacinės technologijos, sudarančios valstybės garantuojamos teisinės pagalbos informacinę sistemą. Šios sistemos nuostatus tvirtina teisingumo ministras. Renkant, kaupiant ir perduodant duomenis apie suteiktą (teikiamą) antrinę teisinę pagalbą, turi būti užtikrinama advokato profesinės paslapties apsauga.“
 
-\#### 14 straipsnis. 18 straipsnio pakeitimas
+## 14 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -356,7 +356,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 13. Tarnyba turi teisę iš valstybės ir savivaldybių institucijų, valstybės registrų, kitų fizinių ar juridinių asmenų Lietuvos Respublikos įstatymų nustatyta tvarka gauti jų turimą informaciją, reikalingą nustatyti, ar asmuo turi teisę gauti antrinę teisinę pagalbą, ar pareiškėjų prašymuose ir prie jų pridėtuose dokumentuose pateikti duomenys yra teisingi. Šios institucijos ir asmenys prašomą informaciją turi pateikti tarnybai ne vėliau kaip per 7 dienas nuo prašymo gavimo dienos.“
 
-\#### 15 straipsnis. 19 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 15 straipsnis. 19 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -370,7 +370,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 „3. Pareiškėjas šio straipsnio 2 dalyje nurodytas išlaidas sumoka per tarnybos nurodytą terminą, bet ne vėliau kaip per 30 dienų nuo pranešimo gavimo dienos. Jeigu jis šio straipsnio 2 dalyje nurodytų išlaidų nesumoka, jos išieškomos įstatymų nustatyta tvarka.“
 
-\#### 16 straipsnis. 21 straipsnio pakeitimas
+## 16 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -390,11 +390,11 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 7. Pagal Baudžiamojo proceso kodekso 388 straipsnio 3 dalį trauktino baudžiamojon atsakomybėn juridinio asmens atstovu gali būti skiriamas ir antrinę teisinę pagalbą teikiantis advokatas, mutatis mutandis taikant šio skirsnio nuostatas, reguliuojančias antrinės teisinės pagalbos teikimą.“
 
-\#### 17 straipsnis. 22 straipsnio pripažinimas netekusiu galios
+## 17 straipsnis. 22 straipsnio pripažinimas netekusiu galios
 
 22 straipsnį pripažinti netekusiu galios.
 
-\#### 18 straipsnis. 23 straipsnio 1 dalies pakeitimas ir papildymas
+## 18 straipsnis. 23 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -424,7 +424,7 @@ Pakeisti ir papildyti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
 12) pareiškėjas miršta.“
 
-\#### 19 straipsnis. 24 straipsnio papildymas ir pakeitimas
+## 19 straipsnis. 24 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 24 straipsnį nauja 5 dalimi:
 
@@ -432,7 +432,7 @@ Pakeisti ir papildyti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2. Buvusią 24 straipsnio 5 dalį laikyti 6 dalimi.
 
-\#### 20 straipsnis. 26 straipsnio pakeitimas
+## 20 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -440,13 +440,13 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 Jeigu kitose Europos Sąjungos valstybėse narėse teisėtai gyvenančių fizinių asmenų turtas ir pajamos viršija Lietuvos Respublikos Vyriausybės nustatytus turto ir pajamų lygius valstybės garantuojamai teisinei pagalbai pagal šį įstatymą gauti, tačiau jie nurodo, kad neturi galimybės atlyginti bylinėjimosi išlaidas, tarnyba privalo nustatyti, ar pareiškėjas gali sumokėti bylinėjimosi išlaidas, atsižvelgiant į jo nuolatinės gyvenamosios vietos ar vietos, kurioje pareiškėjas paprastai gyvena, kitoje Europos Sąjungos valstybėje narėje pragyvenimo išlaidas, ir turi teisę priimti sprendimą suteikti antrinę teisinę pagalbą.“
 
-\#### 21 straipsnis. 33 straipsnio 3 dalies pakeitimas
+## 21 straipsnis. 33 straipsnio 3 dalies pakeitimas
 
 Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Biudžeto lėšos, išskyrus šio straipsnio 2 dalyje nurodytą specialią tikslinę dotaciją savivaldybėms, valstybės garantuojamai teisinei pagalbai teikti yra skiriamos Teisingumo ministerijai.“
 
-\#### 22 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 22 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 5 straipsnis, šio įstatymo 6 straipsniu keičiamo Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 9 straipsnio 3 dalies 1 ir 8 punktai ir 5, 6, 7 dalys, šio įstatymo 7 straipsnio 2 ir 4 dalys, šio įstatymo 13 straipsniu keičiamo Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 17 straipsnio 6 dalis, šio įstatymo 14 straipsniu keičiamo Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 18 straipsnio 3 dalis įsigalioja 2008 m. liepos 1 d.
 

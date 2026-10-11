@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0A6112D16B2C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0A6112D16B2C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [23-593](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0); 1998, Nr. [67-1940](https://www.e-tar.lt/portal/lt/legalAct/TAR.85CFB188C5F8); 2003, Nr. [63-2853](https://www.e-tar.lt/portal/lt/legalAct/TAR.0546D91E9C63); 2004, Nr. [103-3755](https://www.e-tar.lt/portal/lt/legalAct/TAR.89EF7B0C62B3))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Papildyti 2 straipsnį naujomis 2 ir 29 dalimis, buvusias 2–40 dalis laikyti 3–42 dalimis, 3 dalyje vietoj žodžių „vykdanti priešmokyklinio, pradinio“ įrašyti žodžius „kurios pagrindinė veikla yra ugdymas pagal formaliojo švietimo pradinio“, 4 dalyje vietoj žodžių „Vyriausybės arba jos įgaliotos institucijos“ įrašyti žodžius „teisės aktų“, po žodžio „patvirtintas“ įrašyti žodžius „ir įregistruotas ugdymo“, 8 dalyje prieš žodį „asmuo“ įrašyti žodį „fizinis“, vietoj žodžių „turintis licenciją individualiai verstis švietimo veikla“ įrašyti žodžius „užsiimantis individualia švietimo teikėjo veikla“, 9 dalyje išbraukti žodžius „ar fiziniam“, vietoj žodžio „švietimo“ įrašyti žodį „ugdymo“, 19 dalyje vietoj žodžių „Vyriausybės įgaliotą instituciją“ įrašyti žodžius „Vyriausybės įstaigas, įstaigas prie ministerijų“, 41 dalyje vietoj žodžių „Vyriausybės įgaliotos institucijos“ įrašyti žodžius „Vyriausybės įstaigos, įstaigos prie ministerijos“ ir visą straipsnį išdėstyti taip:
 

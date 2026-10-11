@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.660AA6ED1DFA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.660AA6ED1DFA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo bei Įstatymo priedėlio papildymo V skyriumi įstatymo 3 straipsnio pakeitimo įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOK�
 
 (Žin., 2012, Nr. [129-6470](https://www.e-tar.lt/portal/lt/legalAct/TAR.52508DC27E0E))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -34,35 +34,23 @@ Papildyti Įstatymo priedėlį V skyriumi:
 
 (Baziniais dydžiais)
 
-\| Pareigų pavadinimas | Pareiginės algos koeficientas |
-
-\| --- | --- |
-
-\| Direktorius | 12,3 |
-
-\| Direktoriaus pavaduotojas | 11,5 |
-
-\| Valdybos viršininkas | 10,4 |
-
-\| Valdybos vir ininko pavaduotojas | 10 |
-
-\| Skyriaus vir ininkas | 9,4 |
-
-\| Skyriaus vir ininko pavaduotojas | 8,8 |
-
-\| Poskyrio vir ininkas | 8,5 |
-
-\| Vyriausiasis specialistas | 8,3 |
-
-\| Vyresnysis specialistas | 7,6 |
-
-\| Specialistas | 6,3 |
-
-\| Jaunesnysis specialistas | 4,9 |
+| Pareigų pavadinimas | Pareiginės algos koeficientas |
+| --- | --- |
+| Direktorius | 12,3 |
+| Direktoriaus pavaduotojas | 11,5 |
+| Valdybos viršininkas | 10,4 |
+| Valdybos vir ininko pavaduotojas | 10 |
+| Skyriaus vir ininkas | 9,4 |
+| Skyriaus vir ininko pavaduotojas | 8,8 |
+| Poskyrio vir ininkas | 8,5 |
+| Vyriausiasis specialistas | 8,3 |
+| Vyresnysis specialistas | 7,6 |
+| Specialistas | 6,3 |
+| Jaunesnysis specialistas | 4,9 |
 
 “.
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -74,39 +62,27 @@ Papildyti Įstatymo priedėlį V skyriumi:
 
 (Baziniais dydžiais)
 
-\| Pareigų pavadinimas | Pareiginės algos koeficientas |
-
-\| --- | --- |
-
-\| Direktorius | 15 |
-
-\| Direktoriaus pavaduotojas | 14 |
-
-\| Valdybos viršininkas | 12,5 |
-
-\| Valdybos viršininko pavaduotojas | 12 |
-
-\| Skyriaus viršininkas | 11 |
-
-\| Skyriaus viršininko pavaduotojas | 10 |
-
-\| Poskyrio viršininkas | 9,5 |
-
-\| Vyriausiasis specialistas | 9 |
-
-\| Vyresnysis specialistas | 8 |
-
-\| Specialistas | 6,5 |
-
-\| Jaunesnysis specialistas | 5 |
+| Pareigų pavadinimas | Pareiginės algos koeficientas |
+| --- | --- |
+| Direktorius | 15 |
+| Direktoriaus pavaduotojas | 14 |
+| Valdybos viršininkas | 12,5 |
+| Valdybos viršininko pavaduotojas | 12 |
+| Skyriaus viršininkas | 11 |
+| Skyriaus viršininko pavaduotojas | 10 |
+| Poskyrio viršininkas | 9,5 |
+| Vyriausiasis specialistas | 9 |
+| Vyresnysis specialistas | 8 |
+| Specialistas | 6,5 |
+| Jaunesnysis specialistas | 5 |
 
 “.
 
-\#### 3 straipsnis. Šio įstatymo įgyvendinimas
+## 3 straipsnis. Šio įstatymo įgyvendinimas
 
 Jeigu žvalgybos pareigūno darbo užmokestis (pareiginė alga su priedais), nustatytas nuo 2013 m. sausio 1 d., yra mažesnis, negu gautas iki šio įstatymo įsigaliojimo, žvalgybos pareigūnui nuo 2013 m. sausio 1 d. iki 2013 m. gruodžio 31 d. mokamas buvusio dydžio darbo užmokestis.
 
-\#### 4 straipsnis. Šio įstatymo įsigaliojimas
+## 4 straipsnis. Šio įstatymo įsigaliojimas
 
 1. Šio įstatymo 1 straipsnis galioja iki 2013 m. gruodžio 31 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.84CF9F27446F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.84CF9F27446F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 6, 18, 19, 20, 22, 24, 25, 31, 33 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62); 1996, Nr. [57-1335](https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124); 1997, Nr. [65-1540](https://www.e-tar.lt/portal/lt/legalAct/TAR.FEB34C56FC81); 2002, Nr. [2-49](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D555BF4BF16); 2003, Nr. [61-2763](https://www.e-tar.lt/portal/lt/legalAct/TAR.F6BF0759BD62))
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas
+## 1 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnyje vietoj žodžių „Aplinkos apsaugos ministerija“, „Aplinkos apsaugos ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „aplinkos ministerijos“, 5 dalies 9 punkte išbraukti žodžius „radioaktyviųjų medžiagų“, „bei radiacinio saugumo normatyvus“ ir šį straipsnį išdėstyti taip:
 
@@ -118,31 +118,31 @@ Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyr
 
 10) vykdo kitas įstatymų nustatytas funkcijas.“
 
-\#### 2 straipsnis. 18 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 18 straipsnio 2 dalies pakeitimas
 
 18 straipsnio 2 dalyje vietoj žodžių „Aplinkos apsaugos ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip:
 
 „Priimant pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja Aplinkos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.“
 
-\#### 3 straipsnis. 19 straipsnis 1 dalies pakeitimas
+## 3 straipsnis. 19 straipsnis 1 dalies pakeitimas
 
 19 straipsnio 1 dalyje vietoj žodžių „Aplinkos apsaugos ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip:
 
 „Juridiniai ir fiziniai asmenys, prieš pradėdami eksploatuoti ūkinės veiklos objektus, privalo Aplinkos ministerijos nustatyta tvarka gauti gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimą (gamtos išteklių naudojimo leidimą).“
 
-\#### 4 straipsnis. 20 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 20 straipsnio 2 dalies pakeitimas
 
 20 straipsnio 2 dalyje vietoj žodžių „Aplinkos apsaugos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
 
 „Pavojingų cheminių medžiagų naudojimo, saugojimo, apskaitos ir leidimų išdavimo, laidojimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką nustato Aplinkos ministerija.“
 
-\#### 5 straipsnis. 22 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 22 straipsnio 1 dalyje vietoj žodžių „Aplinkos apsaugos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
 
 „Potencialių biologinių taršos šaltinių naudojimo, saugojimo, apskaitos, kūrimo, dauginimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką bei normatyvus nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija.“
 
-\#### 6 straipsnis. 24 straipsnio 3, 4 ir 6 dalių pakeitimas
+## 6 straipsnis. 24 straipsnio 3, 4 ir 6 dalių pakeitimas
 
 1. 24 straipsnio 3 dalyje vietoj žodžių „Aplinkos apsaugos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
 
@@ -156,13 +156,13 @@ Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyr
 
 „Ekologinio pavojaus ir ekologinės nelaimės zonose sustabdoma, ribojama arba uždraudžiama neigiamos įtakos aplinkai ir žmonių sveikatai turinti veikla. Ekologinio pavojaus zonos režimą nustato Aplinkos ministerija, o ekologinės nelaimės zonos režimą – Lietuvos Respublikos Vyriausybė.“
 
-\#### 7 straipsnis. 25 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 25 straipsnio 1 dalies pakeitimas
 
 25 straipsnio 1 dalyje vietoj žodžių „Aplinkos apsaugos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šią dalį išdėstyti taip:
 
 „Aplinkai ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos monitoringą. Aplinkos ministerija vykdo aplinkos monitoringą ir koordinuoja ūkio subjektų vykdomą aplinkos monitoringą.“
 
-\#### 8 straipsnis. 31 straipsnio 1 ir 3 dalių pakeitimas
+## 8 straipsnis. 31 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 31 straipsnio 1 dalyje vietoj žodžių „Aplinkos apsaugos ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šią dalį išdėstyti taip:
 
@@ -172,13 +172,13 @@ Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyr
 
 „Aplinkos ministerija, vykdydama valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę, steigia neetatinių aplinkos apsaugos inspektorių institucijas, tvirtina jų nuostatus.“
 
-\#### 9 straipsnis. 33 straipsnio 2 punkto pakeitimas
+## 9 straipsnis. 33 straipsnio 2 punkto pakeitimas
 
 33 straipsnio 2 punkte vietoj žodžių „Lietuvos Respublikos aplinkos apsaugos ministerijos“ įrašyti žodžius „Aplinkos ministerijos“ ir šį punktą išdėstyti taip:
 
 „2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

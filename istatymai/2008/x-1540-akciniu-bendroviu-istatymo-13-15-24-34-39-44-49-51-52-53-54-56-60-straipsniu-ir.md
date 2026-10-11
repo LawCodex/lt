@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8FF4E34B9483"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8FF4E34B9483.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymo 13, 15, 24, 34, 39, 44, 49, 51, 52, 53, 54, 56, 60 straipsnių ir priedo pakeitimo ir papildymo, įstatymo papildymo 45(1) straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [64-1914](https://www.e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0); 2003, Nr. [123-5574](https://www.e-tar.lt/portal/lt/legalAct/TAR.26CE87C19C05); 2005, Nr. [84-3109](https://www.e-tar.lt/portal/lt/legalAct/TAR.63035C474AB7); 2006, Nr. [82-3252](https://www.e-tar.lt/portal/lt/legalAct/TAR.348FD207192A); 2007, Nr. [12-489](https://www.e-tar.lt/portal/lt/legalAct/TAR.E02B42A2E6B4))
 
-\#### 1 straipsnis. 13 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 13 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 13 straipsnį nauja 3 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „4. Turto vertinimo ataskaita arba šio Įstatymo 45^1 straipsnio 5 dalyje nurodyta pažyma ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo turi būti pateikta akcinei bendrovei ir juridinių asmenų registro tvarkytojui.“
 
-\#### 2 straipsnis. 15 straipsnio papildymas
+## 2 straipsnis. 15 straipsnio papildymas
 
 Papildyti 15 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -60,19 +60,19 @@ Papildyti 15 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Šio straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nurodytas teises akcinėse bendrovėse turi asmenys, kurie buvo akcinės bendrovės akcininkai dešimtos darbo dienos po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo pabaigoje (toliau – teisių apskaitos dienos pabaigoje).“
 
-\#### 3 straipsnis. 24 straipsnio 2 dalies 4 punkto pakeitimas
+## 3 straipsnis. 24 straipsnio 2 dalies 4 punkto pakeitimas
 
 Pakeisti 24 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) audito įmonė nutraukia sutartį su bendrove ar dėl kitų priežasčių negali patikrinti bendrovės metinės finansinės atskaitomybės, jeigu auditas privalomas pagal įstatymus ar yra numatytas įstatuose;“.
 
-\#### 4 straipsnis. 34 straipsnio 4 dalies 8 punkto pakeitimas
+## 4 straipsnis. 34 straipsnio 4 dalies 8 punkto pakeitimas
 
 Pakeisti 34 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) kitus šiame Įstatyme, bendrovės įstatuose ar visuotinio akcininkų susirinkimo sprendimuose valdybos kompetencijai priskirtus sprendimus.“
 
-\#### 5 straipsnis. 39 straipsnio 4, 5 ir 7 dalių pakeitimas
+## 5 straipsnis. 39 straipsnio 4, 5 ir 7 dalių pakeitimas
 
 1. Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -86,13 +86,13 @@ Pakeisti 34 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
 
 „7. Perkainojimo rezervas – tai ilgalaikio materialiojo turto ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Perkainojimo rezervu arba jo dalimi gali būti didinamas įstatinis kapitalas. Iš perkainojimo rezervo negali būti mažinami nuostoliai.“
 
-\#### 6 straipsnis. 44 straipsnio 9 dalies pakeitimas
+## 6 straipsnis. 44 straipsnio 9 dalies pakeitimas
 
 Pakeisti 44 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Bendrovė negali tiesiogiai ar netiesiogiai iš anksto mokėti lėšų, suteikti paskolos ar užtikrinti prievolių įvykdymo tretiesiems asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas kitiems asmenims įsigyti tos bendrovės akcijų.“
 
-\#### 7 straipsnis. Įstatymo papildymas 451 straipsniu
+## 7 straipsnis. Įstatymo papildymas 451 straipsniu
 
 Papildyti Įstatymą 45^1 straipsniu:
 
@@ -130,19 +130,19 @@ Papildyti Įstatymą 45^1 straipsniu:
 
 8. Už šiame straipsnyje nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas.“
 
-\#### 8 straipsnis. 49 straipsnio 5 dalies pakeitimas
+## 8 straipsnis. 49 straipsnio 5 dalies pakeitimas
 
 Pakeisti 49 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Pirmumo teise įsigyti bendrovės išleidžiamų akcijų gali bendrovės akcininkai proporcingai nominaliai vertei akcijų, kurios jiems nuosavybės teise priklauso visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą papildomais įnašais, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje), išskyrus šio Įstatymo 57 straipsnyje nustatytas išimtis. Jeigu bendrovės, turinčios skirtingų klasių akcijas, įstatinis kapitalas didinamas išleidžiant vienos klasės akcijų emisiją, kitos klasės akcijų turintys akcininkai pirmumo teisę įsigyti bendrovės išleidžiamų akcijų įgyja po to, kai šia teise pasinaudojo tos klasės, kurios akcijos yra išleidžiamos, akcijų turintys akcininkai.“
 
-\#### 9 straipsnis. 51 straipsnio 4 dalies pakeitimas
+## 9 straipsnis. 51 straipsnio 4 dalies pakeitimas
 
 Pakeisti 51 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Kai bendrovė didina įstatinį kapitalą iš bendrovės lėšų išleisdama naujas akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą atvejį, turi teisę nemokamai gauti naujų paprastųjų akcijų, kurių skaičius būtų proporcingas jiems visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) nuosavybės teise priklausančių akcijų nominaliai vertei.“
 
-\#### 10 straipsnis. 52 straipsnio 6 dalies 2 punkto ir 8 dalies pakeitimas
+## 10 straipsnis. 52 straipsnio 6 dalies 2 punkto ir 8 dalies pakeitimas
 
 1. Papildyti 52 straipsnio 6 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 51 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „8. Sumažinus įstatinį kapitalą, siekiant akcininkams išmokėti bendrovės lėšų, su akcininkais atsiskaitoma tik pinigais. Pinigai akcininkams gali būti išmokami ne anksčiau, negu pakeisti bendrovės įstatai įregistruojami juridinių asmenų registre, ir turi būti išmokėti per vieną mėnesį nuo pakeistų bendrovės įstatų įregistravimo dienos. Išmokas turi teisę gauti asmenys, kurie visuotinio akcininkų susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turi tokią teisę, o išmokų dydžiai turi būti proporcingi jų turėtų akcijų nominalių verčių sumai. Per šioje dalyje nustatyto vieno mėnesio terminą išmokų negavę asmenys turi teisę jiems priklausančias lėšas išreikalauti iš bendrovės kaip jos kreditoriai.“
 
-\#### 11 straipsnis. 53 straipsnio papildymas ir pakeitimas
+## 11 straipsnis. 53 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 53 straipsnį nauja 5 dalimi:
 
@@ -170,7 +170,7 @@ Pakeisti 51 straipsnio 4 dalį ir ją išdėstyti taip:
 
 3) įstatinis kapitalas mažinamas, kad būtų ištaisytos įstatinio kapitalo sudarymo ar didinimo metu padarytos klaidos.“
 
-\#### 12 straipsnis. 54 straipsnio 1 ir 4 dalių pakeitimas
+## 12 straipsnis. 54 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -180,25 +180,25 @@ Pakeisti 51 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Bendrovė negali įsigyti savų akcijų, jeigu tokiu atveju jos nuosavas kapitalas taptų mažesnis už apmokėto įstatinio kapitalo, privalomojo rezervo ir rezervo savoms akcijoms įsigyti sumą.“
 
-\#### 13 straipsnis. 56 straipsnio 6 dalies pakeitimas
+## 13 straipsnis. 56 straipsnio 6 dalies pakeitimas
 
 Pakeisti 56 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Pirmumo teise įsigyti bendrovės išleidžiamų konvertuojamųjų obligacijų gali bendrovės akcininkai proporcingai nominaliai vertei akcijų, kurios jiems nuosavybės teise priklauso visuotinio akcininkų susirinkimo, priėmusio sprendimą išleisti konvertuojamąsias obligacijas, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje), išskyrus šio Įstatymo 57 straipsnyje nustatytas išimtis.“
 
-\#### 14 straipsnis. 60 straipsnio 6 dalies pakeitimas
+## 14 straipsnis. 60 straipsnio 6 dalies pakeitimas
 
 Pakeisti 60 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Dividendus turi teisę gauti tie asmenys, kurie visuotinio akcininkų susirinkimo, paskelbusio dividendus, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turėjo teisę į dividendus.“
 
-\#### 15 straipsnis. Įstatymo priedo papildymas
+## 15 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 9 punktu:
 
 „9. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/68/EB, iš dalies keičianti Tarybos direktyvos 77/91/EEB nuostatas, susijusias su ribotos atsakomybės akcinių bendrovių steigimu ir jų kapitalo palaikymu ir keitimu (OL 2006 L 264, p. 32).“
 
-\#### 16 straipsnis. Baigiamosios nuostatos
+## 16 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas įsigalioja 2008 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.88411BB381E7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.88411BB381E7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2011 metų rodiklių patvirtinimo įstatymas
@@ -22,15 +22,15 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2011 METŲ 
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2011 metų pajamos, išlaidos ir planuojamas 2011 metų rezultatas
+## 1 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2011 metų pajamos, išlaidos ir planuojamas 2011 metų rezultatas
 
 Patvirtinti Lietuvos Respublikos valstybinio socialinio draudimo fondo 2011 metų biudžetą – 10 943 405 tūkst. litų pajamų, 13 576 398 tūkst. litų išlaidų (planuojamas metų rezultatas – išlaidos viršija pajamas 2 632 993 tūkst. litų) (1 priedėlis).
 
-\#### 2 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2011 metų pinigų srautai ir kasos apyvartos lėšos
+## 2 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2011 metų pinigų srautai ir kasos apyvartos lėšos
 
 Patvirtinti Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2011 metų pinigų srautus (2 priedėlis) ir 219 000 tūkst. litų kasos apyvartos lėšų.
 
-\#### 3 straipsnis. Valstybinio socialinio draudimo įmokų tarifai 2011 metais
+## 3 straipsnis. Valstybinio socialinio draudimo įmokų tarifai 2011 metais
 
 1. Patvirtinti draudėjų bendrąjį valstybinio pensijų, ligos ir motinystės, nedarbo socialinio draudimo ir sveikatos draudimo įmokų 30,8 procento dydžio tarifą ir jo dydžius atskiroms socialinio draudimo rūšims:
 
@@ -96,11 +96,11 @@ Patvirtinti Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto
 
 14. Patvirtinti valstybinio pensijų socialinio draudimo įmokos tarifo dalį, skirtą valstybinės socialinio draudimo senatvės pensijos papildomai daliai, – 9,3 procento.
 
-\#### 4 straipsnis. Valstybinio socialinio draudimo įmokų, pervedamų į pensijų kaupiamuosius fondus, kompensavimas
+## 4 straipsnis. Valstybinio socialinio draudimo įmokų, pervedamų į pensijų kaupiamuosius fondus, kompensavimas
 
 Valstybinio socialinio draudimo įmokoms, pervedamoms į pensijų kaupiamuosius fondus, kompensuoti 2011 metams skirti 351 600 tūkst. litų iš Lietuvos Respublikos valstybės biudžeto ir kitų valstybės piniginių išteklių.
 
-\#### 5 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto laikino lėšų trūkumo dengimas ir atsiskaitymas su fondais
+## 5 straipsnis. Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto laikino lėšų trūkumo dengimas ir atsiskaitymas su fondais
 
 1. Lėšų, reikalingų valstybinio socialinio draudimo išmokoms, trūkumas dengiamas skolintomis lėšomis arba prireikus – Lietuvos Respublikos Vyriausybės sprendimu iš kitų šaltinių.
 
@@ -126,63 +126,35 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO
 
 2011 METŲ BIUDŽETAS
 
-\| | tūkst. Lt |
-
-\| --- | --- |
-
-\| 1. Pajamos | 10 943 405 |
-
-\| | |
-
-\| 1.1. Draudėjų valstybinio socialinio draudimo įmokos | 8 032 553 |
-
-\| 1.2. Apdraustųjų valstybinio socialinio draudimo įmokos | 2 316 828 |
-
-\| 1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos | 110 356 |
-
-\| 1.4. Valstybinio savanoriškojo socialinio draudimo įmokos | 2 981 |
-
-\| 1.5. Baudos ir delspinigiai | 6 200 |
-
-\| 1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto ir kitų valstybės piniginių išteklių | 351 600 |
-
-\| 1.7. Atgautos į ankstesnių metų išlaidas iškeltos abejotinai atgautinos sumos | 9 000 |
-
-\| 1.8. Veiklos pajamos ir iš įtraukto į Valstybinio socialinio draudimo fondo (toliau – Fondas) biudžeto apskaitą turto gaunamos pajamos | 7 000 |
-
-\| 1.9. Sveikatos draudimo įmokos iš socialinio draudimo pašalpų | 106 887 |
-
-\| | |
-
-\| 2. Išlaidos | 13 576 398 |
-
-\| | |
-
-\| 2.1. Pensijų socialiniam draudimui | 7 714 308 |
-
-\| 2.2. Ligos ir motinystės socialiniam draudimui | 1 781 448 |
-
-\| 2.3. Nedarbo socialiniam draudimui | 447 477 |
-
-\| 2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui | 52 884 |
-
-\| 2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą | 2 406 581 |
-
-\| 2.6. Lėšos, pervedamos į pensijų fondus | 351 600 |
-
-\| 2.7. Neatgautinos ir abejotinai atgautinos sumos | 49 000 |
-
-\| 2.8. Veiklos sąnaudos: | 773 100 |
-
-\| 2.8.1. Fondo administravimo įstaigų finansavimo sąnaudos | 246 500 |
-
-\| 2.8.2. ilgalaikio turto nusidėvėjimas ir amortizacija | 27 000 |
-
-\| 2.8.3. kitos Fondo veiklos sąnaudos | 499 600 |
-
-\| | |
-
-\| 3. Einamųjų metų rezultatas | -2 632 993 |
+|  | tūkst. Lt |
+| --- | --- |
+| 1. Pajamos | 10 943 405 |
+|  |  |
+| 1.1. Draudėjų valstybinio socialinio draudimo įmokos | 8 032 553 |
+| 1.2. Apdraustųjų valstybinio socialinio draudimo įmokos | 2 316 828 |
+| 1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos | 110 356 |
+| 1.4. Valstybinio savanoriškojo socialinio draudimo įmokos | 2 981 |
+| 1.5. Baudos ir delspinigiai | 6 200 |
+| 1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto ir kitų valstybės piniginių išteklių | 351 600 |
+| 1.7. Atgautos į ankstesnių metų išlaidas iškeltos abejotinai atgautinos sumos | 9 000 |
+| 1.8. Veiklos pajamos ir iš įtraukto į Valstybinio socialinio draudimo fondo (toliau – Fondas) biudžeto apskaitą turto gaunamos pajamos | 7 000 |
+| 1.9. Sveikatos draudimo įmokos iš socialinio draudimo pašalpų | 106 887 |
+|  |  |
+| 2. Išlaidos | 13 576 398 |
+|  |  |
+| 2.1. Pensijų socialiniam draudimui | 7 714 308 |
+| 2.2. Ligos ir motinystės socialiniam draudimui | 1 781 448 |
+| 2.3. Nedarbo socialiniam draudimui | 447 477 |
+| 2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui | 52 884 |
+| 2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą | 2 406 581 |
+| 2.6. Lėšos, pervedamos į pensijų fondus | 351 600 |
+| 2.7. Neatgautinos ir abejotinai atgautinos sumos | 49 000 |
+| 2.8. Veiklos sąnaudos: | 773 100 |
+| 2.8.1. Fondo administravimo įstaigų finansavimo sąnaudos | 246 500 |
+| 2.8.2. ilgalaikio turto nusidėvėjimas ir amortizacija | 27 000 |
+| 2.8.3. kitos Fondo veiklos sąnaudos | 499 600 |
+|  |  |
+| 3. Einamųjų metų rezultatas | -2 632 993 |
 
 _________________
 
@@ -200,108 +172,57 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO
 
 2011 METŲ PINIGŲ SRAUTAI
 
-\| | tūkst. Lt |
-
-\| --- | --- |
-
-\| 1. Įprastinė veikla | -2 724 867 |
-
-\| 1.1. Fondo įprastinė veikla | -2 731 301 |
-
-\| 1.1.1. Pinigų įplaukos | 10 796 897 |
-
-\| 1.1.1.1. Draudėjų valstybinio socialinio draudimo įmokos | 7 928 151 |
-
-\| 1.1.1.2. Apdraustųjų valstybinio socialinio draudimo įmokos | 2 286 709 |
-
-\| 1.1.1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos | 109 254 |
-
-\| 1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos | 2 981 |
-
-\| 1.1.1.5. Baudos ir delspinigiai | 5 704 |
-
-\| 1.1.1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto ir kitų valstybės piniginių išteklių | 351 600 |
-
-\| 1.1.1.7. Veiklos pajamos ir iš įtraukto į Fondo biudžeto apskaitą turto gaunamos pajamų įplaukos | 7 000 |
-
-\| 1.1.1.8. Įmokų sveikatos draudimui įplaukos iš socialinio draudimo pašalpų | 105 498 |
-
-\| 1.1.2. Pinigų išlaidos | -13 528 198 |
-
-\| 1.1.2.1. Pensijų socialiniam draudimui | -7 714 308 |
-
-\| 1.1.2.2. Ligos ir motinystės socialiniam draudimui | -1 781 448 |
-
-\| 1.1.2.3. Nedarbo socialiniam draudimui | -447 477 |
-
-\| 1.1.2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui | -52 884 |
-
-\| 1.1.2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą | -2 406 581 |
-
-\| 1.1.2.6. Lėšos, pervedamos į pensijų fondus | -379 700 |
-
-\| 1.1.2.7. Fondo administravimo įstaigų finansavimas | -246 500 |
-
-\| 1.1.2.8. Kitos Fondo veiklos sąnaudos | -499 300 |
-
-\| 1.2. Kita Fondui pavesta veikla | 0 |
-
-\| 1.2.1. Pinigų įplaukos | 226 306 |
-
-\| 1.2.2. Pinigų išlaidos | -226 306 |
-
-\| 1.3. Europos Sąjungos finansinės paramos lėšos | 6 434 |
-
-\| 2. Investicinė veikla | -14 037 |
-
-\| 2.1. Išlaidos nematerialiajam turtui įsigyti | -5 157 |
-
-\| 2.2. Įplaukos, gautos pardavus nematerialųjį turtą | 0 |
-
-\| 2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti | -8 880 |
-
-\| 2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą | 0 |
-
-\| 2.5. Išlaidos akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti | 0 |
-
-\| 2.6. Įplaukos, gautos pardavus akcijas, obligacijas, kitus vertybinius popierius | 0 |
-
-\| | |
-
-\| 3. Finansinė veikla | 2 720 904 |
-
-\| 3.1. Gautos trumpalaikės paskolos | 0 |
-
-\| 3.2. Grąžintos trumpalaikės paskolos | -590 000 |
-
-\| 3.3. Gautos ilgalaikės paskolos | 3 310 904 |
-
-\| 3.4. Grąžintos ilgalaikės paskolos | 0 |
-
-\| 3.5. Įsipareigojimų pagal lizingo (finansinės nuomos) sutartis padengimas | 0 |
-
-\| | |
-
-\| 4. Grynųjų pinigų ir jų ekvivalentų pokytis | -18 000 |
-
-\| | |
-
-\| 5. Grynųjų pinigų ir jų ekvivalentų cirkuliacija | |
-
-\| 5.1. Metų pradžioje | 237 000 |
-
-\| 5.2. Pokytis | -18 000 |
-
-\| 5.3. Metų pabaigoje | 219 000 |
-
-\| iš jų – kaupiamosios pensijų įmokos: | |
-
-\| 5.1.1. metų pradžioje | 57 200 |
-
-\| 5.2.1. pokytis | -27 200 |
-
-\| 5.3.1. metų pabaigoje | 30 000 |
-
-\| 6. Kasos apyvartos lėšos | 219 000 |
+|  | tūkst. Lt |
+| --- | --- |
+| 1. Įprastinė veikla | -2 724 867 |
+| 1.1. Fondo įprastinė veikla | -2 731 301 |
+| 1.1.1. Pinigų įplaukos | 10 796 897 |
+| 1.1.1.1. Draudėjų valstybinio socialinio draudimo įmokos | 7 928 151 |
+| 1.1.1.2. Apdraustųjų valstybinio socialinio draudimo įmokos | 2 286 709 |
+| 1.1.1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos | 109 254 |
+| 1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos | 2 981 |
+| 1.1.1.5. Baudos ir delspinigiai | 5 704 |
+| 1.1.1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto ir kitų valstybės piniginių išteklių | 351 600 |
+| 1.1.1.7. Veiklos pajamos ir iš įtraukto į Fondo biudžeto apskaitą turto gaunamos pajamų įplaukos | 7 000 |
+| 1.1.1.8. Įmokų sveikatos draudimui įplaukos iš socialinio draudimo pašalpų | 105 498 |
+| 1.1.2. Pinigų išlaidos | -13 528 198 |
+| 1.1.2.1. Pensijų socialiniam draudimui | -7 714 308 |
+| 1.1.2.2. Ligos ir motinystės socialiniam draudimui | -1 781 448 |
+| 1.1.2.3. Nedarbo socialiniam draudimui | -447 477 |
+| 1.1.2.4. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui | -52 884 |
+| 1.1.2.5. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą | -2 406 581 |
+| 1.1.2.6. Lėšos, pervedamos į pensijų fondus | -379 700 |
+| 1.1.2.7. Fondo administravimo įstaigų finansavimas | -246 500 |
+| 1.1.2.8. Kitos Fondo veiklos sąnaudos | -499 300 |
+| 1.2. Kita Fondui pavesta veikla | 0 |
+| 1.2.1. Pinigų įplaukos | 226 306 |
+| 1.2.2. Pinigų išlaidos | -226 306 |
+| 1.3. Europos Sąjungos finansinės paramos lėšos | 6 434 |
+| 2. Investicinė veikla | -14 037 |
+| 2.1. Išlaidos nematerialiajam turtui įsigyti | -5 157 |
+| 2.2. Įplaukos, gautos pardavus nematerialųjį turtą | 0 |
+| 2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti | -8 880 |
+| 2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą | 0 |
+| 2.5. Išlaidos akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti | 0 |
+| 2.6. Įplaukos, gautos pardavus akcijas, obligacijas, kitus vertybinius popierius | 0 |
+|  |  |
+| 3. Finansinė veikla | 2 720 904 |
+| 3.1. Gautos trumpalaikės paskolos | 0 |
+| 3.2. Grąžintos trumpalaikės paskolos | -590 000 |
+| 3.3. Gautos ilgalaikės paskolos | 3 310 904 |
+| 3.4. Grąžintos ilgalaikės paskolos | 0 |
+| 3.5. Įsipareigojimų pagal lizingo (finansinės nuomos) sutartis padengimas | 0 |
+|  |  |
+| 4. Grynųjų pinigų ir jų ekvivalentų pokytis | -18 000 |
+|  |  |
+| 5. Grynųjų pinigų ir jų ekvivalentų cirkuliacija |  |
+| 5.1. Metų pradžioje | 237 000 |
+| 5.2. Pokytis | -18 000 |
+| 5.3. Metų pabaigoje | 219 000 |
+| iš jų – kaupiamosios pensijų įmokos: |  |
+| 5.1.1. metų pradžioje | 57 200 |
+| 5.2.1. pokytis | -27 200 |
+| 5.3.1. metų pabaigoje | 30 000 |
+| 6. Kasos apyvartos lėšos | 219 000 |
 
 _________________

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4EE517F572ED"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4EE517F572ED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [45-1295](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9F7B0246626))
 
-\#### 1 straipsnis. Lietuvos Respublikos specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo įstatymo nauja redakcija
 
 Pakeisti Specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo įstatymą ir jį išdėstyti taip:
 
@@ -40,13 +40,13 @@ SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS
 
 Į S T A T Y M A S
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo būdą ir tvarką.
 
 2. Specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimui netaikomi Akcinių bendrovių įstatymo 54 straipsnio 6, 10 ir 14 dalių, 66 straipsnio 2 dalies, 67, 68 straipsnių, 69 straipsnio 1, 2 ir 3 dalių, 70 straipsnio 2 ir 3 dalių, 71 straipsnio 2 ir 4 dalių bei 72 straipsnio 1 ir 10 dalių reikalavimai. Kiti Akcinių bendrovių įstatymo straipsniai bei kiti Lietuvos Respublikos įstatymai reorganizuojant specialios paskirties akcinę bendrovę „Lietuvos energija“ taikomi tiek, kiek šis įstatymas nenustato kitaip.
 
-\#### 2 straipsnis. Reorganizavimo būdas
+## 2 straipsnis. Reorganizavimo būdas
 
 1. Specialios paskirties akcinė bendrovė „Lietuvos energija“ reorganizuojama bendrovių skaidymo būdu, t. y. iš specialios paskirties akcinės bendrovės „Lietuvos energija“, kuri po reorganizavimo tęsia veiklą kaip akcinė bendrovė, išskiriant turto, teisių bei pareigų dalis ir jų pagrindu steigiant naujas bendroves. Iki specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo bendrovių skaidymo būdu (iki reorganizavimo projekto patvirtinimo) šios bendrovės filialui Lietuvos elektrinei priskirto pagalbinio ir komunalinio ūkio turto pagrindu įsteigiama bendrovė, kurios akcijos Vyriausybės nutarimu nuosavybės teise perduodamos Elektrėnų savivaldybei, sumažinant specialios paskirties akcinės bendrovės „Lietuvos energija“ įstatinį kapitalą ir valstybei nuosavybės teise priklausančių specialios paskirties akcinės bendrovės „Lietuvos energija“ akcijų skaičių. Specialios paskirties akcinės bendrovės „Lietuvos energija“ gamybinės ir inžinerinės infrastruktūros objektai, socialiniai objektai, pastatai (jų dalys) Vyriausybės nutarimu turi būti perduoti savivaldybių nuosavybėn, sumažinant specialios paskirties akcinės bendrovės „Lietuvos energija“ įstatinį kapitalą ir valstybei nuosavybės teise priklausančių šios bendrovės akcijų skaičių bei keičiant jos įstatus. Apie specialios paskirties akcinės bendrovės „Lietuvos energija“ įstatinio kapitalo mažinimą viešai skelbiama du kartus ne mažesniu kaip 14 dienų intervalu. Dėl įstatinio kapitalo sumažinimo specialios paskirties akcinės bendrovės „Lietuvos energija“ įstatų pakeitimai įmonių rejestre registruojami ne anksčiau kaip po 14 dienų po to, kai antrą kartą buvo viešai paskelbta apie įstatinio kapitalo mažinimą ir buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams.
 
@@ -56,7 +56,7 @@ SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS
 
 4. Po reorganizavimo veiklą tęsiančios akcinės bendrovės „Lietuvos energija“ funkcijoms vykdyti priskiriamas visas likęs, neperduotas naujai steigiamoms bendrovėms reorganizuojamos specialios paskirties akcinės bendrovės „Lietuvos energija“ turtas, numatytas reorganizavimo projekte.
 
-\#### 3 straipsnis. Reorganizavimo tvarka
+## 3 straipsnis. Reorganizavimo tvarka
 
 1. Seimui pritarus Vyriausybės pateiktam įstatinio kapitalo ir prievolių (įsipareigojimų) paskirstymui tarp naujai steigiamų akcinių bendrovių, numatytam reorganizavimo projekte, ir Vyriausybei pritarus visam pateiktam reorganizavimo projektui, specialios paskirties akcinės bendrovės „Lietuvos energija“ visuotinis akcininkų susirinkimas ne mažiau kaip 2/3 balsų dauguma gali priimti nutarimą reorganizuoti bendrovę ir patvirtinti reorganizavimo projektą bei parengtus reorganizavimo metu steigiamų bendrovių įstatus.
 

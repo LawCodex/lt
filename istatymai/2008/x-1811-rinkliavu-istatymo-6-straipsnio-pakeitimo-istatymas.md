@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0D19B7420EBF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0D19B7420EBF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos rinkliavų įstatymo 6 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [52-1484](https://www.e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D); 2002, Nr. [95-4086](https://www.e-tar.lt/portal/lt/legalAct/TAR.705A8D895FAD); 2005, Nr. [121-4333](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3E3FC5ED28A); 2006, Nr. [137-5200](https://www.e-tar.lt/portal/lt/legalAct/TAR.79A933B29770); 2007, Nr. [61-2343](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F6815C088D0), Nr. [101-4107](https://www.e-tar.lt/portal/lt/legalAct/TAR.D85A75CD037B); 2008, Nr. [50-1840](https://www.e-tar.lt/portal/lt/legalAct/TAR.1476A41152C4))
 
-\#### 1 straipsnis. 6 straipsnio 16 punkto pakeitimas
+## 1 straipsnis. 6 straipsnio 16 punkto pakeitimas
 
 6 straipsnio 16 punkte po žodžio „pareigūnams“ įrašyti žodžius „Lietuvos Respublikos krašto apsaugos sistemos ir užsienio gynybos institucijoms, taip pat jų pareigūnams, vežantiems jiems priklausančius vienetinius tarnybinius ginklus ir jų šaudmenis „ ir šį punktą išdėstyti taip:
 

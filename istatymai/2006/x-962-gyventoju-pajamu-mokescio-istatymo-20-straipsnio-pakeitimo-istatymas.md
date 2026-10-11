@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4F3B8BFDDAEA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4F3B8BFDDAEA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 20 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2003, Nr. [15-601](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CE484E7CF61), Nr. [116-5254](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BE08993974A); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6), Nr. [121-4332](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3513BAA7B85))
 
-\#### 1 straipsnis. 20 straipsnio pakeitimas
+## 1 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 14. Šio Įstatymo 29 straipsnyje nustatytais atvejais iš pajamų atimama MNPD ir MPNPD dalis, apskaičiuota tame straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šiuo įstatymu pakeisti neapmokestinamieji pajamų dydžiai taikomi nuo 2007 m. sausio 1 d.
 

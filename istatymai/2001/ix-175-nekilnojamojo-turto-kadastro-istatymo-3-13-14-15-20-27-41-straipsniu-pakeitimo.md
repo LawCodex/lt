@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C0ACE31655C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C0ACE31655C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 3, 13, 14, 15, 20, 27, 41 straipsnių pakeitimo ir 17 straipsnio bei VIII skyriaus pripažinimo netekusiais galios įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [58-1704](https://www.e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 15 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. 3 straipsnio 17 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 Statinių ir kitų nekilnojamojo turto objektų ribos nustatomos kadastriniais matavimais, kurių atlikimo tvarką nustato Nekilnojamojo turto kadastro nuostatai.“
 
-\#### 3 straipsnis. 14 straipsnio pakeitimas
+## 3 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį, 2, 3 ir 4 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 14 straipsnio 1 dalį, 2, 3 ir 4 dalis pripažinti netekusiomis galios 
 
 Nekilnojamojo turto objektų formavimo procedūrą nustato Nekilnojamojo turto kadastro nuostatai.“
 
-\#### 4 straipsnis. 15 straipsnio pakeitimas
+## 4 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -68,11 +68,11 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 5. Jei asmuo nekilnojamojo turto objekto formavimo metu patiria žalos dėl turto objektą formuojančių asmenų kaltės, žala turi būti atlyginta iki nekilnojamojo turto objekto formavimo procedūros užbaigimo, bet ne vėliau kaip per 1 mėnesį nuo paaiškėjimo apie padarytą žalą, o kai žala paaiškėjo baigus formuoti nekilnojamojo turto objektą, – per 1 mėnesį po formavimo procedūros užbaigimo, jeigu su žalos patyrusiu asmeniu nesusitarta kitaip. Žalą atlygina nekilnojamojo turto objektus formuojantys asmenys, o ginčai dėl žalos atlyginimo sprendžiami įstatymų nustatyta tvarka.“
 
-\#### 5 straipsnis. 17 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 17 straipsnio pripažinimas netekusiu galios
 
 17 straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 20 straipsnio pakeitimas
+## 6 straipsnis. 20 straipsnio pakeitimas
 
 20 straipsnio pirmajame sakinyje išbraukti žodžius „bei šio įstatymo 17 straipsnio nuostatomis“, išbraukti šio straipsnio antrąjį sakinį ir šį straipsnį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 Atidalijant nekilnojamojo turto objektą, vadovaujamasi Žemės įstatymo ir Teritorijų planavimo įstatymo nustatyta tvarka.“
 
-\#### 7 straipsnis. 27 straipsnio pakeitimas
+## 7 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -88,11 +88,11 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
 Prašymų įrašyti duomenis į nekilnojamojo turto kadastrą pateikimo tvarką nustato Nekilnojamojo turto registro nuostatai.“
 
-\#### 8 straipsnis. VIII skyriaus pripažinimas netekusiu galios
+## 8 straipsnis. VIII skyriaus pripažinimas netekusiu galios
 
 VIII skyrių pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 41 straipsnio pakeitimas
+## 9 straipsnis. 41 straipsnio pakeitimas
 
 41 straipsnio 1 punktą pripažinti netekusiu galios, buvusius 2 ir 3 punktus laikyti atitinkamai 1 ir 2 punktais ir visą straipsnį išdėstyti taip:
 

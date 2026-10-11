@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/86c2aaf0ca0411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.86C2AAF0CA04.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 2, 4, 5, 6, 7, 10, 11, 13, 14 ir 22 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ VALSTYBEI IR SAVIVALDYBĖMS PRIKLAUSANČIŲ AKCIJŲ PRIVATIZAVIMO ĮSTATYMO NR. 
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. **Privatizavimo objekto valdytojas** – centralizuotai valdomo valstybės turto valdytojas arba kitas įstatymuose nustatytas patikėjimo teisės subjektas, patikėjimo teise valdantis, naudojantis privatizavimo objektą ir juo disponuojantis.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -68,19 +68,19 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 15) atlieka kitas įstatymuose nustatytas funkcijas, susijusias su valstybei ir savivaldybėms nuosavybės teise priklausančių akcijų privatizavimu.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 4 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) priima sprendimą dėl pritarimo (nepritarimo) reikalavimui, kad būtų nupirkti ar parduoti valstybei (savivaldybei) nuosavybės teise priklausantys akcijų paketai, kurie pagal sutartį perduoti privatizuoti centralizuotai valdomo valstybės turto valdytojui ir kurie suteikia mažiau kaip 1/20 visų balsų, kai Vertybinių popierių įstatyme ir Lietuvos Respublikos akcinių bendrovių įstatyme nustatytais atvejais ir tvarka privalomai perkami, parduodami valstybei (savivaldybei) nuosavybės teise priklausantys akcijų paketai arba gaunamas siūlymas šiuos paketus išpirkti;“.
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Savivaldybės privatizavimo komisija sudaroma 4 metų kadencijai iš ne mažiau kaip 7 narių, iš kurių ne mažiau kaip 2 nariai yra teikiami savivaldybės tarybos opozicijos, o jeigu ji nesudaryta, – savivaldybės tarybos reglamente nustatyta tvarka savivaldybės tarybos mažumos siūlymu. Savivaldybės tarybos opozicijos, o jeigu ji nesudaryta, savivaldybės tarybos reglamente nustatyta tvarka savivaldybės tarybos mažumos siūlymas dėl savivaldybės privatizavimo komisijos narių teikiamas savivaldybės tarybos reglamente nustatyta tvarka. Tas pats asmuo savivaldybės privatizavimo komisijos nariu gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Savivaldybės privatizavimo komisija savivaldybės lygiu atlieka tas pačias funkcijas, kaip ir Privatizavimo komisija. Jeigu savivaldybės taryba savivaldybės privatizavimo komisijos nesudaro, jos funkcijas atlieka Privatizavimo komisija.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3) mokamas Vyriausybės nustatyta tvarka apskaičiuotas atlygis už valstybei nuosavybės teise priklausančių akcijų privatizavimą ir centralizuotai valdomo valstybės turto valdytojo valdomų valstybei perduotų akcijų administravimą ir privatizavimą;“.
 
-\#### 6 straipsnis. 10 straipsnio pakeitimas
+## 6 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -104,13 +104,13 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8. Savivaldybės administracija privalo per Vyriausybės nustatytą laiką perduoti centralizuotai valdomo valstybės turto valdytojui privatizavimo objektų sąrašo ir privatizavimo objektų privatizavimo programų duomenis, kad šie duomenys būtų paskelbti informaciniame biuletenyje.“
 
-\#### 7 straipsnis. 11 straipsnio pakeitimas
+## 7 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Per 2 mėnesius nuo kalendorinių metų pabaigos centralizuotai valdomo valstybės turto valdytojas savo interneto svetainėje paskelbia metines valstybei nuosavybės teise priklausančių akcijų privatizavimo apžvalgas, o savivaldybės administracija savivaldybės interneto svetainėje paskelbia metines savivaldybei nuosavybės teise priklausančių akcijų privatizavimo apžvalgas. Šių apžvalgų turinio reikalavimus nustato Vyriausybė. Apžvalgos yra skelbiamos neribotą laikotarpį užtikrinant jų skelbimo tęstinumą.“
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas
+## 8 straipsnis. 13 straipsnio pakeitimas
 
 1. Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -120,13 +120,13 @@ Pakeisti 11 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „7. Vertybinių popierių įstatyme ir Akcinių bendrovių įstatyme nustatyta tvarka privatizavimo institucijos turi parduoti valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus, kai akcinės bendrovės akcininkas, veikdamas savarankiškai ar sutartinai su kitais asmenimis, įsigyja akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teisę suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balso teisę šios akcinės bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų.“
 
-\#### 9 straipsnis. 14 straipsnio pakeitimas
+## 9 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu viešo akcijų pardavimo būdu yra parduodamas uždarosios akcinės bendrovės akcijų paketas, kuris suteikia valstybei (savivaldybei) 1/2 ar daugiau balsų visuotiniame akcininkų susirinkime, arba akcinės bendrovės akcijų paketas, apie šias bendroves turi būti rengiamas informacinis leidinys centralizuotai valdomo valstybės turto valdytojo nustatyta tvarka. Informaciniai leidiniai apie viešo akcijų pardavimo būdu parduodamus akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami centralizuotai valdomo valstybės turto valdytojo nustatyta tvarka. Šiems informaciniams leidiniams vertybinių popierių rinką reglamentuojančių teisės aktų reikalavimai netaikomi.“
 
-\#### 10 straipsnis. 22 straipsnio pakeitimas
+## 10 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 2. Ginčai sprendžiami Lietuvos Respublikos įstatymuose, Lietuvos Respublikos tarptautinėse sutartyse ir privatizavimo sandoriuose nustatyta tvarka.“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 1 d.
 

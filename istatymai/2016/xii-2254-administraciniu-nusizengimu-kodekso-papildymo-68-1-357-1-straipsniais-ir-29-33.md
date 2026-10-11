@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b96598c0f28a11e5989ee743dd0efbb0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B96598C0F28A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 68-1, 357-1 straipsniais ir 29, 33, 59, 65, 71, 73, 74, 168, 182, 183, 184, 191, 209, 243, 247, 254, 264, 269, 274, 309, 334, 372, 373, 377, 378, 380, 381, 422, 423, 424, 427, 589, 603, 608, 610, 615, 620, 621, 622, 634, 640, 642, 644, 649, 651, 652, 659, 662, 668, 673, 675 straipsnių ir priedo pakeitimo įstatymas

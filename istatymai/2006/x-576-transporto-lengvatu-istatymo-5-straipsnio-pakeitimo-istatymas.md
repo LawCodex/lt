@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5C5F6B5A8EDE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5C5F6B5A8EDE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymo 5 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [32-890](https://www.e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B); 2002, Nr. [116-5190](https://www.e-tar.lt/portal/lt/legalAct/TAR.22FCF55710DB); 2003, Nr. [69-3117](https://www.e-tar.lt/portal/lt/legalAct/TAR.0C83BDD20A8F); 2004, Nr. [171-6324](https://www.e-tar.lt/portal/lt/legalAct/TAR.35FB1DCF3DA2); 2005, Nr. [67-2401](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E222042181E))
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies ir 2 dalies 1, 5 punktų pakeitimas
+## 1 straipsnis. 5 straipsnio 1 dalies ir 2 dalies 1, 5 punktų pakeitimas
 
 1. 5 straipsnio 1 dalyje po žodžių „didelių specialiųjų poreikių lygis“ įrašyti žodžius „ar asmenys, iki 2005 m. liepos 1 d. pripažinti vaikais invalidais ar I grupės invalidais“, vietoj skaičiaus ir žodžio „85 metus“ įrašyti skaičių ir žodį „80 metų“ ir šią dalį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „5) asmenys nuo 70 iki 80 metų.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2007 m. sausio 1 d.
 

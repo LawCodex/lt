@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0EC3C3C3A5CA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0EC3C3C3A5CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 21 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 1999, Nr. [50-1597](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC3AA7061D8); 2000, Nr. [28-758](https://www.e-tar.lt/portal/lt/legalAct/TAR.50567DE00B51))
 
-\#### 1 straipsnis. 21 straipsnio 1, 3 ir 6 dalių pakeitimas
+## 1 straipsnis. 21 straipsnio 1, 3 ir 6 dalių pakeitimas
 
 1. 21 straipsnio 1 dalyje vietoj žodžių “arba Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros tarnybos, arba Lietuvos valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos” įrašyti žodžius “Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos” ir šią dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC3AA7061D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5AC3AA7061D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 1, 2, 7, 8, 10, 11, 13, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 1 straipsnio 5 ir 6 dalis ir jas išdėstyti taip:
 
@@ -40,13 +40,13 @@ Vilnius
 
 „**Švietimo įstaigos**– ikimokyklinio ugdymo įstaigos, bendrojo lavinimo, profesinės, aukštesniosios mokyklos, vaikų papildomo ugdymo įstaigos: meno, sporto, kalbų, technikos, kitokio profilio mokyklos, taip pat vaikų vasaros stovyklos.“
 
-\#### 2 straipsnis. 2 straipsnio 2 dalies papildymas
+## 2 straipsnis. 2 straipsnio 2 dalies papildymas
 
 2 straipsnio 2 dalyje po žodžio „laikymu“ įrašyti žodį „gabenimu“ ir šią dalį išdėstyti taip:
 
 „Šis įstatymas reguliuoja santykius, susijusius su tabako auginimu, tabako gaminių gamyba, vidaus prekyba tabako gaminiais, jų laikymu, gabenimu, importu, tabako reklama, tabako gaminių vartojimu, bei nustato valstybės tabako kontrolės Lietuvos Respublikoje pagrindus.“
 
-\#### 3 straipsnis. 7 straipsnio 1 ir 5 dalių papildymas
+## 3 straipsnis. 7 straipsnio 1 ir 5 dalių papildymas
 
 1. 7 straipsnio 1 dalyje po žodžio „kokybės“ įrašyti žodžius „ir higienos“ ir šią dalį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „Tabako gaminių kokybės ir higienos ekspertizės pagrindus, tvarką ir įkainius nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 4 straipsnis. 8 straipsnio 2 dalies pakeitimas ir papildymas
+## 4 straipsnis. 8 straipsnio 2 dalies pakeitimas ir papildymas
 
 Pakeisti 8 straipsnio 2 dalies 4 punktą, šią dalį papildyti 5 punktu ir visą dalį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 8 straipsnio 2 dalies 4 punktą, šią dalį papildyti 5 punktu ir vis�
 
 5) be įspėjamųjų užrašų lietuvių kalba ant tabako gaminių pakuočių apie kenksmingą tabako poveikį sveikatai.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -122,7 +122,7 @@ Prekybos tabako gaminiais vietose privalo būti užrašai, įspėjantys apie ken
 
 Juridiniai ir fiziniai asmenys, realizuojantys, laikantys arba gabenantys nekokybiškus, falsifikuotus, kontrabandinius tabako gaminius arba tabako gaminius, nustatyta tvarka nepaženklintus banderolėmis, suklastoję tabako gaminių įsigijimą patvirtinančius dokumentus, kokybę liudijančius atitikimo pažymėjimus ar banderoles, realizuojantys tabako gaminius asmenims iki 18 metų, atsako pagal šį ir kitus įstatymus.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 Pakeisti 11 straipsnio 4, 5 ir 6 dalis, papildyti straipsnį 7 dalimi ir šias dalis išdėstyti taip:
 
@@ -170,17 +170,17 @@ Tabako gaminių prekybos vietose Vyriausybės ar jos įgaliotos institucijos nus
 
 Tabako gaminių reklamos platintojai, skleidėjai privalo iki 2000 m. sausio 1 d., teikdami tabako gaminių reklamą, ant išorinių reklamos priemonių bei visuomenės informavimo priemonėse skelbti ne mažesnės apimties informaciją (socialinę reklamą) apie kenksmingą tabako poveikį žmonių sveikatai. Šios informacijos (socialinės reklamos) teikimo tvarką, formą ir turinį ant išorinių reklamos priemonių bei visuomenės informavimo priemonėse nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 7 straipsnis. 13 straipsnio 2, 3 ir 5 dalių pripažinimas netekusiomis galios
+## 7 straipsnis. 13 straipsnio 2, 3 ir 5 dalių pripažinimas netekusiomis galios
 
 13 straipsnio 2, 3 ir 5 dalis pripažinti netekusiomis galios.
 
-\#### 8 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 14 straipsnio 1 dalies 1 punkte vietoj žodžio „ugdymo“ įrašyti žodį „švietimo“ ir šį punktą išdėstyti taip:
 
 „1) visose auklėjimo, švietimo, sveikatos priežiūros įstaigose, taip pat salėse, kuriose vyksta sporto varžybos bei kiti renginiai;“.
 
-\#### 9 straipsnis. 15 straipsnio pakeitimas
+## 9 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnyje vietoj žodžių „ugdymo įstaigos“ įrašyti žodžius „švietimo įstaigos“ ir šį straipsnį išdėstyti taip:
 
@@ -188,7 +188,7 @@ Tabako gaminių reklamos platintojai, skleidėjai privalo iki 2000 m. sausio 1 d
 
 Visos švietimo įstaigos, suderinusios su Sveikatos apsaugos ministerija, privalo įtraukti į ugdymo programas žinias apie tabako gaminius, jų vartojimo daromą žalą sveikatai, sveikatai palankios aplinkos, užkertančios kelią rūkymo daromai žalai, sveikos gyvensenos formavimą.“
 
-\#### 10 straipsnis. 18 straipsnio pakeitimas
+## 10 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -198,7 +198,7 @@ Valstybės tabako kontrolę pagal savo kompetenciją atlieka VTAKT, savivaldos v
 
 Tabako gaminių reklamą, taip pat paslėptą tabako gaminių reklamą kontroliuoja VTAKT, o išorinę reklamą – VTAKT ir savivaldos vykdomosios institucijos.“
 
-\#### 11 straipsnis. 21 straipsnio pakeitimas
+## 11 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.94C8747D9F01"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.94C8747D9F01.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 2, 5, 8 12, 15, 16, 21, 25, 27, 29, 34, 38, 39, 44, 45 straipsnių pakeitimo ir papildymo, V skyriaus pavadinimo pakeitimo bei įstatymo papildymo 121 straipsniu ir priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [70-3170](https://www.e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4), Nr. [112-4996](https://www.e-tar.lt/portal/lt/legalAct/TAR.FCBE50112F5B))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 1 straipsnio 3 punkte vietoj žodžio „invalidams“ įrašyti žodį „neįgaliesiems“, straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 2. Šiuo Įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 15 dalį ir ją išdėstyti taip:
 
@@ -64,13 +64,13 @@ Vilnius
 
 4. Buvusią 2 straipsnio 30 dalį laikyti 31 dalimi.
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 1. 5 straipsnio 2 dalį pripažinti netekusia galios.
 
 2. 5 straipsnio 3 ir 4 dalis laikyti atitinkamai 2 ir 3 dalimis.
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 4. Aukštųjų mokyklų studentai, profesinių mokyklų mokiniai privalo būti mokomi darbuotojų saugos ir sveikatos reikalavimų pagal įgyjamas specialybes ir profesijas.“
 
-\#### 5 straipsnis. 12 straipsnio 1 ir 6 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 5 straipsnis. 12 straipsnio 1 ir 6 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 „6. Darbdavys informuoja darbuotojų saugos ir sveikatos paslaugas teikiančius asmenis apie įmonės darbuotojus, atsakingus už pirmąją medicinos pagalbą ir priešgaisrinių bei evakuavimo priemonių įgyvendinimą.“
 
-\#### 6 straipsnis. Įstatymo papildymas 121 straipsniu
+## 6 straipsnis. Įstatymo papildymas 121 straipsniu
 
 Papildyti Įstatymą 12^1 straipsniu:
 
@@ -148,19 +148,19 @@ Papildyti Įstatymą 12^1 straipsniu:
 
 11. Vyriausybės įgaliota institucija apie licencijos išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos juridiniam asmeniui panaikinimą praneša Juridinių asmenų registrui šio registro nuostatuose nustatyta tvarka. Apie licencijos išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos juridiniam asmeniui arba fiziniam asmeniui panaikinimą Vyriausybės įgaliota institucija taip pat skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir Vyriausybės įgaliotos institucijos interneto svetainėje. Vyriausybės įgaliota institucija, panaikinusi licencijos galiojimą, apie tai nedelsdama, ne vėliau kaip per 3 darbo dienas, raštu praneša darbuotojų saugos ir sveikatos paslaugas teikiančiam juridiniam arba fiziniam asmeniui ir nurodo priežastis. Sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo įsigalioja po 10 darbo dienų nuo jo priėmimo.“
 
-\#### 7 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Statybvietės turi atitikti darbuotojų saugos ir sveikatos reikalavimus, nustatytus socialinės apsaugos ir darbo ministro ir aplinkos ministro patvirtintuose Darboviečių įrengimo statybvietėse nuostatuose. Darbuotojų saugos ir sveikatos reikalavimai konkrečiai statybvietei nustatomi statinio techniniame projekte, vadovaujantis Darboviečių įrengimo statybvietėse nuostatais ir atitinkamais statybos techniniais reglamentais. Statybos darbų technologijos projekte numatomos konkrečios priemonės, užtikrinančios darbuotojų saugą ir sveikatą statinio statybos metu. Kai statinį projektuojant arba statant dalyvauja daugiau negu vienas rangovas, Darboviečių įrengimo statybvietėse nuostatuose nustatyta tvarka privalo būti paskirtas vienas ar keli saugos ir sveikatos koordinatoriai, kurių pareigos ir teisės nustatomos Darboviečių įrengimo statybvietėse nuostatuose.“
 
-\#### 8 straipsnis. 16 straipsnio 4 dalies pakeitimas
+## 8 straipsnis. 16 straipsnio 4 dalies pakeitimas
 
 Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Potencialiai pavojingų įrenginių priežiūros tvarką nustato Potencialiai pavojingų įrenginių priežiūros įstatymas ir Energetikos įstatymas.“
 
-\#### 9 straipsnis. 21 straipsnio pakeitimas
+## 9 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 3. Darbuotojų, vairuojančių antžeminio, oro ir vandens transporto priemones, sveikatos patikrinimų prieš jiems išvykstant į reisą tvarką nustato darbdavys.“
 
-\#### 10 straipsnis. 25 straipsnio 10 ir 13 punktų pakeitimas
+## 10 straipsnis. 25 straipsnio 10 ir 13 punktų pakeitimas
 
 1. 25 straipsnio 10 punkte vietoj žodžių „valstybinės socialinės medicinos ekspertizės komisijos“ įrašyti žodžius „Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos“ ir šį punktą išdėstyti taip:
 
@@ -182,25 +182,25 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 „13) kontroliuoja, kaip darbuotojai laikosi darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimų, įmonėje nustatyta tvarka nušalina nuo darbo darbuotojus, kurie nesilaiko darbuotojų saugos ir sveikatos reikalavimų;“.
 
-\#### 11 straipsnis. 27 straipsnio 8 dalies pakeitimas
+## 11 straipsnis. 27 straipsnio 8 dalies pakeitimas
 
 27 straipsnio 8 dalyje išbraukti žodžius „ir kitas“, „įmonėms“ ir šią dalį išdėstyti taip:
 
 „8. Įstaigoms, teikiančioms mokymo paslaugas darbuotojų saugos ir sveikatos srityje, išskyrus įstaigas, nurodytas šio Įstatymo 8 straipsnio 1 dalyje, kompetencijos reikalavimus nustato Vyriausybė ar jos įgaliota įstaiga.“
 
-\#### 12 straipsnis. 29 straipsnio 3 dalies pakeitimas
+## 12 straipsnis. 29 straipsnio 3 dalies pakeitimas
 
 29 straipsnio 3 dalyje išbraukti žodžius „Profesinės sveikatos priežiūros įstatyme“ ir šią dalį išdėstyti taip:
 
 „3. Įmonių darbuotojų saugos ir sveikatos tarnybos, įmonių darbo medicinos punktai atlieka sveikatos priežiūros funkcijas, numatytas Įmonių darbuotojų saugos ir sveikatos tarnybų pavyzdiniuose nuostatuose. Įmonės kolektyvinėje sutartyje gali būti numatyta teikti įmonės darbuotojams ir kitas sveikatos priežiūros paslaugas.“
 
-\#### 13 straipsnis. 34 straipsnio 3 punkto pakeitimas
+## 13 straipsnis. 34 straipsnio 3 punkto pakeitimas
 
 34 straipsnio 3 punkte vietoj žodžių „valstybinės socialinės medicinos ekspertizės komisija ar sveikatos priežiūros įstaiga nustatė, kad darbuotojas“ įrašyti žodžius „pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos ar sveikatos priežiūros įstaigos išvadą dėl sveikatos būklės“ ir šį punktą išdėstyti taip:
 
 „3) susipažinti su išankstinių ir periodinių privalomų sveikatos tikrinimų rezultatais, nesutikęs su patikrinimo rezultatais, sveikatą pasitikrinti pakartotinai. Reikalauti perkelti į kitą darbą, jeigu pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos ar sveikatos priežiūros įstaigos išvadą dėl sveikatos būklės negali dirbti darbo sutartyje numatyto darbo ar eiti pareigų;“.
 
-\#### 14 straipsnis. Įstatymo V skyriaus pavadinimo pakeitimas
+## 14 straipsnis. Įstatymo V skyriaus pavadinimo pakeitimas
 
 Pakeisti Įstatymo V skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -208,7 +208,7 @@ Pakeisti Įstatymo V skyriaus pavadinimą ir jį išdėstyti taip:
 
 JAUNŲ ASMENŲ, MOTINYSTĖS, NEĮGALIŲJŲ SAUGA“.
 
-\#### 15 straipsnis. 38 straipsnio pakeitimas
+## 15 straipsnis. 38 straipsnio pakeitimas
 
 38 straipsnio 1 dalyje vietoj žodžio „invalidų“ įrašyti žodį „neįgaliųjų“, vietoj žodžio „invalidams“ įrašyti žodį „neįgaliesiems“, papildyti straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -218,13 +218,13 @@ JAUNŲ ASMENŲ, MOTINYSTĖS, NEĮGALIŲJŲ SAUGA“.
 
 2. Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimai dėl neįgaliojo darbo pobūdžio ir sąlygų privalomi darbdaviui ir darbuotojui.“
 
-\#### 16 straipsnis. 39 straipsnio papildymas
+## 16 straipsnis. 39 straipsnio papildymas
 
 Papildyti 39 straipsnį 5 dalimi:
 
 „5. Informaciją apie darbuotojų saugos būklę ir darbo vietų atitiktį darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimams vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka įmonės teikia Valstybinei darbo inspekcijai.“
 
-\#### 17 straipsnis. 44 straipsnio 9 ir 13 dalių pakeitimas
+## 17 straipsnis. 44 straipsnio 9 ir 13 dalių pakeitimas
 
 1. 44 straipsnio 9 dalyje po žodžių „nuostatais ir“ įrašyti žodžius „Vyriausybės patvirtintu“ ir šią dalį išdėstyti taip:
 
@@ -234,13 +234,13 @@ Papildyti 39 straipsnį 5 dalimi:
 
 „13. Ginčus, susijusius su profesinės ligos diagnozės nustatymu, sprendžia Centrinė darbo medicinos ekspertų komisija. Centrinės darbo medicinos ekspertų komisijos teikiamos paslaugos apmokamos valstybės biudžeto lėšomis. Šios komisijos nuostatus ir sudėtį tvirtina sveikatos apsaugos ministras. Centrinės darbo medicinos ekspertų komisijos sprendimas įstatymų nustatyta tvarka gali būti skundžiamas teismui.“
 
-\#### 18 straipsnis. 45 straipsnio 3 dalies pakeitimas
+## 18 straipsnis. 45 straipsnio 3 dalies pakeitimas
 
 45 straipsnio 3 dalį papildyti sakiniu „Profesinių ligų valstybės registro nuostatus tvirtina Vyriausybė“ ir šią dalį išdėstyti taip:
 
 „3. Visų ištirtų nelaimingų atsitikimų darbe aktai, taip pat profesinių ligų patvirtinimo aktai registruojami ir įtraukiami į apskaitą Valstybinėje darbo inspekcijoje vadovaujantis atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatais, Profesinių ligų tyrimo ir apskaitos nuostatais. Profesinių ligų tyrimo ir apskaitos nuostatų bei Profesinių ligų valstybės registro nuostatų nustatyta tvarka profesinės ligos taip pat registruojamos Valstybinės visuomenės sveikatos priežiūros tarnybos apskrities teritorinėje įstaigoje ir Profesinių ligų valstybės registre. Profesinių ligų valstybės registro nuostatus tvirtina Vyriausybė.“
 
-\#### 19 straipsnis. Įstatymo papildymas priedu
+## 19 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -254,11 +254,11 @@ priedas
 
 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1882/2003 (OL 2004 specialusis leidimas, 1 skyrius, 4 tomas, p. 47).“
 
-\#### 20 straipsnis. Įstatymo įsigaliojimas
+## 20 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 5 straipsnio 1 dalis, 6 ir 16 straipsniai įsigalioja nuo 2008 m. liepos 1 d.
 
-\#### 21 straipsnis. Įstatymo įgyvendinimas
+## 21 straipsnis. Įstatymo įgyvendinimas
 
 Vyriausybė ar jos įgaliota institucija iki 2008 m. sausio 1 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

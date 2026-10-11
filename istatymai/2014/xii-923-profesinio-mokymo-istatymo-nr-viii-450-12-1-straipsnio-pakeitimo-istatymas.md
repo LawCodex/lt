@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bd457ce0f77c11e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BD457CE0F77C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 12-1 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 121 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 121 straipsnio pakeitimas
+## 1 straipsnis. 121 straipsnio pakeitimas
 
 1. Pakeisti 121 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „4) kai juridinis asmuo, kita juridinio asmens statuso neturintiLietuvos ar kitos valstybės narėsorganizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo,kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, kuriamlicencijos galiojimas buvo sustabdytas, per nustatytą terminą nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;“.
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos Vyriausybė priima šio įstatymo įgyvendinamuosius teisės aktus.
 

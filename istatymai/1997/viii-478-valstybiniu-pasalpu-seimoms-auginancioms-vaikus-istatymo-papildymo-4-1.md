@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.59166173AB26"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.59166173AB26.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo papildymo 4(1) straipsniu ir 9 bei 11 straipsnių papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE))
 
-\#### 1 straipsnis. Įstatymo papildymas 41 straipsniu
+## 1 straipsnis. Įstatymo papildymas 41 straipsniu
 
 Papildyti Įstatymą 4^1 straipsniu:
 
@@ -40,13 +40,13 @@ Motinoms už tris ir daugiau vaikų iki 16 metų ir vyresnius, iki jie baigs die
 
 Jei motinos nėra, jei ji atsisako vaikų, jei iš jos atimtos motinystės teisės arba jei ji negali prižiūrėti vaikų dėl ligos, pašalpa mokama tėvui arba kitam vaikus auginančiam asmeniui.“
 
-\#### 2 straipsnis. 9 straipsnio 1 dalies papildymas
+## 2 straipsnis. 9 straipsnio 1 dalies papildymas
 
 9 straipsnio 1 dalyje po skaičiaus „4“ įrašyti skaičių „4^1“, dalį papildyti antruoju sakiniu ir išdėstyti taip:
 
 Pašalpos, nurodytos šio įstatymo 2, 4,4^1, 5, 6 ir 8 straipsniuose, mokamos iš savivaldybių biudžeto lėšų. Lėšos, reikalingos 4^1 straipsnyje nurodytoms pašalpoms mokėti 1997 metų gruodžio mėnesį, iš valstybės biudžeto pervedamos į savivaldybių biudžetus.“
 
-\#### 3 straipsnis. 11 straipsnio papildymas 2 dalimi
+## 3 straipsnis. 11 straipsnio papildymas 2 dalimi
 
 11 straipsnį papildyti 2 dalimi:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/48e5e7707f8311e8ae2bfd1913d66d57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.48E5E7707F83.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 56-3 straipsniais įstatymo Nr. XIII-592 15 straipsnio pakeitimo įstatymas

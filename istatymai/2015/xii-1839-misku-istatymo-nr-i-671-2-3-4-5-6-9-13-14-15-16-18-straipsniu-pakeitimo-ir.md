@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d72182901fd911e586708c6593c243ce"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D72182901FD9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ MIŠKŲ ĮSTATYMO NR. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 STRAIPSNIŲ PAK
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 29. Žaliavinė mediena – miško žemėje nukirstų medžių stiebų mediena, skirta medienos gaminiams ruošti.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 7. Miškus miškų grupėms priskiria Aplinkos ministerija, vadovaudamasi Vyriausybės nustatyta tvarka ir normatyvais.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 „6. Valstybinę miško žemę patikėjimo teise valdo miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, valstybės įmonės ir kiti juridiniai asmenys. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Lietuvos Respublikos žemės įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. 5 straipsnio pakeitimas
+## 4 straipsnis. 5 straipsnio pakeitimas
 
 1. Papildyti 5 straipsnio 3 dalį nauju 10 punktu:
 
@@ -148,19 +148,19 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 4. Buvusią 5 straipsnio 5 dalį laikyti 6 dalimi.
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. Valstybiniai miškų pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti pagal darbo sutartis, būti steigėjais ar juridinio asmens dalyviais (akcininkais, nariais, dalininkais) privačiose medienos ruošos, medienos perdirbimo, prekybos mediena ir medžioklės aptarnavimo įmonėse, vykdyti nepriklausomo medienos matuotojo veiklą ir kitais įstatymais draudžiamą veiklą.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Apvaliosios medienos ir nenukirsto miško matavimo ir tūrio nustatymo, apvaliosios medienos apskaitos, klasifikavimo ir ženklinimo tvarką nustato Aplinkos ministerija.“
 
-\#### 7 straipsnis. Įstatymo papildymas 91 straipsniu
+## 7 straipsnis. Įstatymo papildymas 91 straipsniu
 
 Papildyti Įstatymą 9^1 straipsniu:
 
@@ -188,13 +188,13 @@ Papildyti Įstatymą 9^1 straipsniu:
 
 7. Nepriklausomo medienos matuotojo kvalifikacijos atestatas laikomas negaliojančiu nepriklausomam medienos matuotojui mirus.“
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas
+## 8 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Remiantis valstybinės miškų inventorizacijos duomenimis, tvarkoma miškų apskaita ir sudaromas Lietuvos Respublikos miškų valstybės kadastras. Šis kadastras apima visumą duomenų apie miškus, jų priklausomybę, miško išteklių kiekį bei kokybę ir ekonominę vertę. Jo turinį ir sudarymo tvarką nustato Vyriausybė. Lietuvos Respublikos miškų valstybės kadastre registruoti duomenys apie miškus ir miško žemę šio kadastro tvarkytojo teikimu įrašomi į Nekilnojamojo turto registrą Nekilnojamojo turto registro įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 9 straipsnis. 14 straipsnio pakeitimas
+## 9 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -212,13 +212,13 @@ Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „8. Miškotvarkos projektus rengia ir miškų inventorizaciją atlieka fiziniai ir juridiniai asmenys, valstybių narių kitos organizacijos, neturinčios juridinio asmens statuso, ar jų padaliniai Aplinkos ministerijos nustatyta tvarka. Laikantis šios tvarkos, centralizuotai kaupiami ir tvarkomi miškotvarkos duomenys.“
 
-\#### 10 straipsnis. 15 straipsnio pakeitimas
+## 10 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Miškas atkuriamas ir įveisiamas mišką želdinant arba jam želiant, laikantis aplinkos ministro tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų. Kirtavietėse ir želdintinose miško aikštėse miškas turi būti atkurtas ne vėliau kaip per trejus metus po jų atsiradimo. Žuvę želdiniai ir žėliniai turi būti atkurti ne vėliau kaip per dvejus metus, atkurtini žuvę medynai – ne vėliau kaip per trejus metus nuo jų žuvimo fakto nustatymo. Neteisėtai iškirstas miškas turi būti atkurtas ne vėliau kaip per vienus metus nuo neteisėtų kirtimų fakto nustatymo. Miškas laikomas atkurtu tada, kai želdinių ir žėlinių kokybė atitinka aplinkos ministro tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimus.“
 
-\#### 11 straipsnis. 16 straipsnio pakeitimas
+## 11 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -228,13 +228,13 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 2. Medynuose gali būti vykdomi pagrindiniai, ugdomieji, sanitariniai ir specialieji miško kirtimai, išskyrus šio įstatymo 3 straipsnyje nustatytus draudimus ir apribojimus. Miško kirtimo būdai, kirtimų amžius, aplinkosaugos ir technologiniai reikalavimai nustatomi aplinkos ministro tvirtinamose Miško kirtimų taisyklėse.“
 
-\#### 12 straipsnis. 18 straipsnio pakeitimas
+## 12 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Aplinkos ministras nustato specialiąsias apsaugos ir stichinių nelaimių padarinių šalinimo miškuose priemones, privalomas visiems miško valdytojams, savininkams ir naudotojams, kai miškų urėdijos mastu išdžiūvusių, išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip vieną ketvirtąją metinės kirtimo normos dalį.“
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2015 m. spalio 1 d.
 

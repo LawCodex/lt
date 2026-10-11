@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C6A20B677091"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C6A20B677091.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 1, 2, 9, 43 straipsnių pakeitimo ir papildymo, Įstatymo papildymo nauju ketvirtuoju skirsniu ir 9-1 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975; 2008, Nr. [123-4657](https://www.e-tar.lt/portal/lt/legalAct/TAR.C427721C7502); 2009, Nr. [75-3062](https://www.e-tar.lt/portal/lt/legalAct/TAR.824337E8EC19))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1 straipsnyje po žodžių „pranešimų nagrinėjimą“ įrašyti žodžius „įtvirtina kitas asmenų ir viešojo administravimo subjektų teises ir pareigas viešojo administravimo srityje“ ir šį straipsnį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Vilnius
 
 Šis įstatymas sudaro prielaidas įgyvendinti Lietuvos Respublikos Konstitucijos nuostatą, kad visos valdžios įstaigos tarnauja žmonėms; nustato viešojo administravimo principus, viešojo administravimo sritis, viešojo administravimo subjektų sistemą ir administracinės procedūros organizavimo pagrindus; garantuoja asmenų teisę apskųsti viešojo administravimo subjektų veiksmus, neveikimą ar administracinius sprendimus, taip pat teisę į įstatymais pagrįstą ir objektyvų asmenų prašymų, skundų ir pranešimų nagrinėjimą; įtvirtina kitas asmenų ir viešojo administravimo subjektų teises ir pareigas viešojo administravimo srityje.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas 22 ir 23 dalimis
+## 2 straipsnis. 2 straipsnio papildymas 22 ir 23 dalimis
 
 1. Papildyti 2 straipsnį 22 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „23.**Ūkio subjekto veiklos patikrinimas** (toliau – **veiklos patikrinimas**) – teisės aktų reglamentuoti šio ir kitų įstatymų nustatyta tvarka įgaliotų atlikti viešąjį administravimą subjektų vykdomi veiksmai (ūkio subjekto dokumentų, darbų patikrinimas, tyrimas, inspektavimas, dokumentų poėmis ir kiti), kuriais tikrinama ūkio subjekto veikla.“
 
-\#### 3 straipsnis. 9 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 9 straipsnio papildymas ir pakeitimas
 
 9 straipsnį papildyti nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi, ją pakeisti ir šį straipsnį išdėstyti taip:
 
@@ -54,11 +54,11 @@ Vilnius
 
 3. Jeigu priežiūros ar kontrolės subjektas ir forma nenustatyti įstatymuose ir jų įgyvendinamuosiuose teisės aktuose, Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse, priežiūros ar kontrolės subjektą ir formą nustato administracinį aktą išleidęs viešojo administravimo subjektas arba kitas jo įpareigotas ir jam atskaitingas viešojo administravimo subjektas.“
 
-\#### 4 straipsnis. 91 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 91 straipsnio pripažinimas netekusiu galios
 
 9^1 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. Įstatymo papildymas nauju ketvirtuoju skirsniu
+## 5 straipsnis. Įstatymo papildymas nauju ketvirtuoju skirsniu
 
 Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
@@ -66,7 +66,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 ŪKIO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 
-\#### 361 straipsnis. Ūkio subjektų veiklos priežiūra
+## 361 straipsnis. Ūkio subjektų veiklos priežiūra
 
 1. Ūkio subjektų veiklos priežiūra – šio įstatymo nustatyta tvarka įgaliotų atlikti šio straipsnio 2 dalyje nurodytus veiksmus viešojo administravimo subjektų (toliau – priežiūrą atliekantys subjektai) veikla, skirta teikti metodinę pagalbą ūkio subjektams, prižiūrėti, kaip ūkio subjektai laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų, kontroliuoti, ar tinkamai tuos reikalavimus vykdo, ir įgyvendinti kitas priemones, užtikrinančias tinkamą teisės aktų reikalavimų laikymąsi ir mažinančias galimų pažeidimų skaičių.
 
@@ -80,7 +80,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 4) poveikio priemonių ūkio subjektams taikymą įstatymų ir jų pagrindu priimtų kitų teisės aktų nustatyta tvarka.
 
-\#### 362 straipsnis. Ūkio subjektų veiklos priežiūros principai
+## 362 straipsnis. Ūkio subjektų veiklos priežiūros principai
 
 1. Ūkio subjektų veiklos priežiūra atliekama vadovaujantis šiais principais:
 
@@ -98,7 +98,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 2. Kituose įstatymuose, Europos Sąjungos teisės aktuose ir Lietuvos Respublikos tarptautinėse sutartyse gali būti nustatyta ir kitų ūkio subjektų veiklos priežiūros principų.
 
-\#### 363 straipsnis. Ūkio subjektų konsultavimas
+## 363 straipsnis. Ūkio subjektų konsultavimas
 
 1. Ūkio subjektų konsultavimas yra neatsiejama ūkio subjektų veiklos priežiūros dalis.
 
@@ -114,7 +114,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 4) jeigu kituose įstatymuose vadovavimasis klaidinga konsultacija yra numatytas kaip ūkio subjekto atsakomybę lengvinanti aplinkybė skiriant ir (ar) taikant poveikio priemones.
 
-\#### 364 straipsnis. Ūkio subjektų veiklos patikrinimai
+## 364 straipsnis. Ūkio subjektų veiklos patikrinimai
 
 1. Ūkio subjektų veiklos patikrinimai gali būti planiniai ir neplaniniai. Planinių patikrinimų pirminis tikslas – informacijos apie ūkio subjektą vertinimas ir metodinės pagalbos ūkio subjektui teikimas.
 
@@ -160,7 +160,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 16. Šis straipsnis mokesčių administratoriui, muitinei ir licencines finansines paslaugas teikiančių įmonių, emitentų, investicinių bendrovių, draudimo, perdraudimo ir draudimo tarpininkavimo veiklos priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams netaikomas. Šioje dalyje nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės.
 
-\#### 365 straipsnis. Ūkio subjektų veiklos priežiūros informacinė sistema
+## 365 straipsnis. Ūkio subjektų veiklos priežiūros informacinė sistema
 
 1. Priežiūrą atliekančių subjektų interaktyvus sąrašas skelbiamas Lietuvos Respublikos ūkio ministerijos interneto svetainėje. Kartu gali būti skelbiama kita ūkio subjektams aktuali, su ūkio subjektų veiklos priežiūra susijusi informacija.
 
@@ -176,7 +176,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 5) šio įstatymo 364 straipsnio 2 dalies 1 ir 2 punktuose nurodytas taisykles, patvirtintą patikrinimų planą ir jo pakeitimus, 367 straipsnio 2 dalies 1, 2, 3 ir 4 punktuose nurodytą informaciją.
 
-\#### 366 straipsnis. Informacijos priežiūrą atliekantiems subjektams teikimas
+## 366 straipsnis. Informacijos priežiūrą atliekantiems subjektams teikimas
 
 1. Ūkio subjektai teikia priežiūrą atliekantiems subjektams dokumentus, kuriuos privaloma rengti vadovaujantis teisės aktų reikalavimais, taip pat kitą informaciją ūkio subjekto turima forma. Priežiūrą atliekantis subjektas negali reikalauti ūkio subjekto pateikti konkrečios prašomos formos duomenų ar dokumentų, jeigu jų rengimas nenumatytas teisės aktuose, tam reikėtų sukurti dokumentus ar informacijos rinkmenas ir tai būtų susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis.
 
@@ -184,7 +184,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 3. Priežiūrą atliekantys subjektai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka tarpusavyje keičiasi jiems suteiktiems įgaliojimams įgyvendinti būtinais dokumentais ir kita informacija, kuriuos jiems yra pateikę ūkio subjektai.
 
-\#### 367 straipsnis. Priežiūrą atliekančių subjektų veiklos vertinimas ir atskaitomybė
+## 367 straipsnis. Priežiūrą atliekančių subjektų veiklos vertinimas ir atskaitomybė
 
 1. Priežiūrą atliekančių subjektų ir šių subjektų pareigūnų, kitų valstybės tarnautojų ir darbuotojų veiklos efektyvumo ir rezultatyvumo vertinimo kriterijais negali būti paskirtų nuobaudų skaičius, baudų dydis ar kiti su sankcijų ūkio subjektams taikymu susiję rodikliai.
 
@@ -202,11 +202,11 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 4. Ūkio subjektai turi teisę kreiptis dėl priežiūrą atliekančių subjektų korupcinio pobūdžio ar kitų teisės aktų reikalavimų neatitinkančių veikų į aukštesnius pagal pavaldumą viešojo administravimo subjektus, Specialiųjų tyrimų tarnybą, kitas institucijas šio ir kitų įstatymų nustatyta tvarka. Viešojo administravimo subjektai skundus nagrinėja šio įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo ketvirtojo ir penktojo skirsnių numeracijos pakeitimas
+## 6 straipsnis. Įstatymo ketvirtojo ir penktojo skirsnių numeracijos pakeitimas
 
 Buvusius šio įstatymo ketvirtąjį ir penktąjį skirsnius laikyti atitinkamai penktuoju ir šeštuoju skirsniais.
 
-\#### 7 straipsnis. 43 straipsnio pakeitimas
+## 7 straipsnis. 43 straipsnio pakeitimas
 
 1. Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -220,13 +220,13 @@ Buvusius šio įstatymo ketvirtąjį ir penktąjį skirsnius laikyti atitinkamai
 
 Jeigu kituose įstatymuose nustatyti ūkio subjektų veiklos priežiūrai taikytini reikalavimai prieštarauja šio įstatymo ketvirtojo skirsnio nuostatoms, taikomas šis įstatymas, išskyrus atvejus, kai kiti specialūs priežiūrą reglamentuojantys įstatymai įtvirtina privalomus Europos Sąjungos teisės aktų ar Lietuvos Respublikos tarptautinių sutarčių reikalavimus arba įtvirtina ūkio subjektams palankesnį reglamentavimą.“
 
-\#### 8 straipsnis. Įstatymo galiojimas
+## 8 straipsnis. Įstatymo galiojimas
 
 1. Šio įstatymo 7 straipsnio 1 dalis galioja iki 2010 m. gruodžio 31 d.
 
 2. Šio įstatymo 7 straipsnio 2 dalis įsigalioja 2011 m. sausio 1 d.
 
-\#### 9 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 9 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2010 m. rugsėjo 10 d. parengia ir pateikia Lietuvos Respublikos Seimui ūkio subjektų veiklos priežiūrą reglamentuojančių specialių įstatymų pakeitimo projektus, kurių nuostatos būtų suderintos su šio įstatymo reikalavimais.
 

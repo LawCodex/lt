@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FEFAEB8630FA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FEFAEB8630FA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės "Aurabankas" reorganizavimo įstatymas
@@ -26,19 +26,19 @@ AKCINĖS BENDROVĖS „AURABANKAS“ REORGANIZAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Bendroji reorganizavimo nuostata
+## 1 straipsnis. Bendroji reorganizavimo nuostata
 
 Šiuo įstatymu akcinė bendrovė „Aurabankas“ reorganizuojama į turto valdymo įmonę – akcinę bendrovę Turto bankas.
 
-\#### 2 straipsnis. Reorganizavimo planas
+## 2 straipsnis. Reorganizavimo planas
 
 Šio įstatymo 1 straipsnio nuostata įgyvendinama pagal akcinės bendrovės „Aurabankas“ reorganizavimo planą (pridedamas).
 
-\#### 3 straipsnis. Akcinės bendrovės Turto bankas įsteigimas
+## 3 straipsnis. Akcinės bendrovės Turto bankas įsteigimas
 
 Vyriausybei suteikiama teisė vykdyti akcinės bendrovės Turto bankas steigėjos funkcijas – valdyti nustatyta tvarka perimtą turtą ir juo disponuoti.
 
-\#### 4 straipsnis. Akcinės bendrovės Turto bankas įstatai
+## 4 straipsnis. Akcinės bendrovės Turto bankas įstatai
 
 Akcinės bendrovės Turto bankas įstatus tvirtina Seimas.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E010091D4F20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E010091D4F20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 70 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 70-1 straipsniu įstatymas
@@ -24,11 +24,11 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A);2003, Nr. [115-5195](https://www.e-tar.lt/portal/lt/legalAct/TAR.50F140E1783E))
 
-\#### 1 straipsnis. 70 straipsnio pripažinimas netekusiu galios
+## 1 straipsnis. 70 straipsnio pripažinimas netekusiu galios
 
 70 straipsnį pripažinti netekusiu galios.
 
-\#### 2 straipsnis. Įstatymo papildymas 701 straipsniu
+## 2 straipsnis. Įstatymo papildymas 701 straipsniu
 
 Papildyti Įstatymą 70^1 straipsniu:
 
@@ -56,17 +56,17 @@ Papildyti Įstatymą 70^1 straipsniu:
 
 9) atlieka kitas įstatymų, Departamento nuostatų ir kitų teisės aktų nustatytas funkcijas.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 ir 5 straipsnius, įsigalioja 2011 m. balandžio 1 d.
 
-\#### 4 straipsnis. Įstatymo įgyvendinimas
+## 4 straipsnis. Įstatymo įgyvendinimas
 
 1. Iki šio įstatymo įsigaliojimo Vyriausybė reorganizuoja Valstybinę tabako ir alkoholio kontrolės tarnybą prie Lietuvos Respublikos Vyriausybės ir Narkotikų kontrolės departamentą prie Lietuvos Respublikos Vyriausybės sujungimo būdu į Narkotikų, tabako ir alkoholio kontrolės departamentą – Vyriausybės įstaigą ir patvirtina narkotinių ir psichotropinių medžiagų, narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių), tabako ir alkoholio kontrolės koncepciją.
 
 2. Iki šio įstatymo įsigaliojimo Vyriausybė parengia ir pateikia Seimui svarstyti įstatymų projektus, kuriais valstybės politikos įgyvendinimo funkcijas alkoholio, tabako, narkotinių ir psichotropinių medžiagų vartojimo prevencijos ir kontrolės srityse paveda Socialinės apsaugos ir darbo ministerijai, Sveikatos apsaugos ministerijai, Švietimo ir mokslo ministerijai, Ūkio ministerijai, Vidaus reikalų ministerijai ir Žemės ūkio ministerijai ar jų įgaliotoms institucijoms.
 
-\#### 5 straipsnis. Pasiūlymas Vyriausybei ar jos įgaliotai institucijai
+## 5 straipsnis. Pasiūlymas Vyriausybei ar jos įgaliotai institucijai
 
 Vyriausybė ar jos įgaliota institucija iki 2011 m. kovo 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 

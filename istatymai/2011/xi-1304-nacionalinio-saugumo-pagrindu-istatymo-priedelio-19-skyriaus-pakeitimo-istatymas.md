@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D1034FE099E5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D1034FE099E5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 19 skyriaus pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 2004, Nr. [39-1270](https://www.e-tar.lt/portal/lt/legalAct/TAR.532A15EA12B5); 2006, Nr. [102-3936](https://www.e-tar.lt/portal/lt/legalAct/TAR.9AC839EBCD86))
 
-\#### 1 straipsnis. Priedėlio 19 skyriaus 6 dalies pakeitimas
+## 1 straipsnis. Priedėlio 19 skyriaus 6 dalies pakeitimas
 
 Pakeisti Priedėlio 19 skyriaus 6 dalį ir ją išdėstyti taip:
 

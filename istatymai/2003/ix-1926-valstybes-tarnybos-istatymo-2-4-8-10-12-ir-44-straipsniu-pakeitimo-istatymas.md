@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9EDAB4EAFABA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2, 4, 8, 10, 12 ir 44 straipsnių pakeitimo įstatymas
@@ -28,25 +28,25 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [73-3103](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF), Nr. [127-5750](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3898659EAFB); 2003, Nr. [17-705](https://www.e-tar.lt/portal/lt/legalAct/TAR.86426B5C8851), Nr. [38-1671](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B), Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610), Nr. [112-4993](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0DC47DB2573), Nr. [116-5258](https://www.e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9))
 
-\#### 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 7 dalies pakeitimas
 
 2 straipsnio 7 dalyje po žodžio „laikui“ įrašyti žodžius „arba kituose įstatymuose nustatytam terminui“ ir šią dalį išdėstyti taip:
 
 „7. Politinio (asmeninio) pasitikėjimo valstybės tarnautojas – valstybės tarnautojas, priimtas į pareigas jį priėmusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimų laikui arba kituose įstatymuose nustatytam laikui.“
 
-\#### 2 straipsnis. 4 straipsnio 3 dalies pakeitimas ir papildymas
+## 2 straipsnis. 4 straipsnio 3 dalies pakeitimas ir papildymas
 
 4 straipsnio 3 dalyje po žodžių „Valstybės saugumo departamento generaliniam direktoriui, jo pavaduotojams“ išbraukti žodį „bei“, po žodžių „Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams“ įrašyti žodžius „bei policijos generaliniam komisarui“ ir šią dalį išdėstyti taip:
 
 „3. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams taikoma šio Įstatymo 33 straipsnio 3 dalis. Valstybės saugumo departamento generaliniam direktoriui, jo pavaduotojams, Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams bei policijos generaliniam komisarui taikomos šio Įstatymo VI skyriaus nuostatos.“
 
-\#### 3 straipsnis. 8 straipsnio 3 dalies 5 punkto pakeitimas
+## 3 straipsnis. 8 straipsnio 3 dalies 5 punkto pakeitimas
 
 8 straipsnio 3 dalies 5 punkte išbraukti žodį „ir“, po žodžio „atstovų“ įrašyti žodžius „ir Vyriausybės įgaliotinių bei jų pavaduotojų“ ir šį punktą išdėstyti taip:
 
 „5) apskričių viršininkų, jų pavaduotojų, Vyriausybės atstovų ir Vyriausybės įgaliotinių bei jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras.“
 
-\#### 4 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas bei papildymas
+## 4 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas bei papildymas
 
 1. 10 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3, 4, 5, 6, 7 punktus laikyti atitinkamai 2, 3, 4, 5, 6 punktais ir šią dalį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Vilnius
 
 6) savivaldybės institucijoje – savivaldybės meras.“
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas
+## 5 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 Į politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigas priimama be konkurso valstybės politiko ar kolegialios valstybės institucijos pasirinkimu.“
 
-\#### 6 straipsnis. 44 straipsnio 1 dalies 2 ir 7 punktų pakeitimas
+## 6 straipsnis. 44 straipsnio 1 dalies 2 ir 7 punktų pakeitimas
 
 1. 44 straipsnio 1 dalies 2 punkte po žodžių „savivaldybės kontrolierius“ įrašyti žodžius „savivaldybės kontrolieriaus tarnybos valstybės tarnautojas“, po žodžių „nario pareigas arba“ įrašyti žodžius „apskrities viršininkas, jo pavaduotojas ar“, žodžius „kurios administracinę priežiūrą jis vykdo“ išbraukti ir šį punktą išdėstyti taip:
 

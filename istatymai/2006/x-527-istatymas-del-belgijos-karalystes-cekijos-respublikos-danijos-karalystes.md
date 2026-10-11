@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9BD46CA2C55E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9BD46CA2C55E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Bulgarijos Respublikos bei Rumunijos sutarties dėl Bulgarijos Respublikos ir Rumunijos stojimo į Europos Sąjungą ratifikavimo
@@ -26,7 +26,7 @@ DĖL BELGIJOS KARALYSTĖS, ČEKIJOS RESPUBLIKOS, DANIJOS KARALYSTĖS, VOKIETIJOS
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir atsižvelgdamas į Respublikos Prezidento 2005 m. spalio 21 d. dekretą Nr. 438, ratifikuoja 2005 m. balandžio 25 d. Liuksemburge pasirašytą Belgijos Karalystės, Čekijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos Respublikos, Maltos Respublikos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Bulgarijos Respublikos bei Rumunijos sutartį dėl Bulgarijos Respublikos ir Rumunijos stojimo į Europos Sąjungą.
 

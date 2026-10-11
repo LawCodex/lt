@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fb4c2732ca0311f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FB4C2732CA03.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33, 39 ir 93 straipsnių pakeitimo įstatymas
@@ -26,11 +26,11 @@ MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO NR. IX-2112 33, 39 IR 93 STRAIPSNIŲ PAKEITI
 
 Vilnius
 
-\#### 1 straipsnis. 33 straipsnio pakeitimas
+## 1 straipsnis. 33 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 33 straipsnio 16 punktą.
 
-\#### 2 straipsnis. 39 straipsnio pakeitimas
+## 2 straipsnis. 39 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 39 straipsnio 1 dalies 8 punktą.
 
@@ -42,11 +42,11 @@ Pripažinti netekusiu galios 33 straipsnio 16 punktą.
 
 „5. Juridiniai asmenys, gaunantys informaciją pagal šio straipsnio 1 dalies 1, 4–7 punktus, privalo užtikrinti, kad gaunama informacija būtų prieinama tik tiems juridinio asmens darbuotojams, kurie tiesiogiai atlieka funkcijas, kurioms atlikti informacija yra gaunama. Nurodyti juridiniai asmenys taip pat privalo užtikrinti, kad būtų fiksuojamas kiekvienas gaunamos informacijos naudojimo atvejis.“
 
-\#### 3 straipsnis. 93 straipsnio pakeitimas
+## 3 straipsnis. 93 straipsnio pakeitimas
 
 Pripažinti netekusia galios 93 straipsnio 3 dalį.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 1 d.
 

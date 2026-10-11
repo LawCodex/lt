@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.63F0DB115080"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.63F0DB115080.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos farmacijos įstatymo 1, 2, 60, 62, 74 straipsnių, penkioliktojo skirsnio pavadinimo, įstatymo priedo pakeitimo, įstatymo papildymo 24-1 straipsniu ir tryliktojo skirsnio, 68 straipsnio pripažinimo netekusiais galios įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2006, Nr. [78-3056](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje išbraukti žodžius „bei medicininės paskirties produktais“ ir šią dalį išdėstyti taip:
 
 „1. Šis įstatymas reglamentuoja farmacinę ir kitą veiklą, susijusią su vaistiniais, tiriamaisiais vaistiniais preparatais, veterinariniais vaistais, veikliosiomis ir kitomis vaistinėmis medžiagomis, veterinarinės farmacijos veiklą, taip pat šios veiklos valstybinį valdymą ir kontrolę.“
 
-\#### 2 straipsnis. 2 straipsnio 10 dalies pakeitimas ir 26 dalies pripažinimas netekusia galios
+## 2 straipsnis. 2 straipsnio 10 dalies pakeitimas ir 26 dalies pripažinimas netekusia galios
 
 1. 2 straipsnio 10 dalyje išbraukti žodžius „medicininės paskirties produktas“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2. 2 straipsnio 26 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. Įstatymo papildymas 241 straipsniu
+## 3 straipsnis. Įstatymo papildymas 241 straipsniu
 
 Papildyti Įstatymą 24^1 straipsniu:
 
@@ -52,11 +52,11 @@ Papildyti Įstatymą 24^1 straipsniu:
 
 4. Gaminti pažangios terapijos vaistinius preparatus iš žmogaus embriono audinių, embriono kamieninių ląstelių ir jų linijų ar vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų arba kitaip naudoti žmogaus embriono audinius, embriono kamienines ląsteles ir jų linijas ar vaisiaus audinius ir iš jų paimtas kamienines ląsteles ir jų linijas tokių vaistinių preparatų gamyboje draudžiama. Šis draudimas netaikomas pažangios terapijos vaistinių preparatų gamybai iš kamieninių ląstelių, išgaunamų iš virkštelės ar placentos po vaiko gimimo.“
 
-\#### 4 straipsnis. Tryliktojo skirsnio pripažinimas netekusiu galios
+## 4 straipsnis. Tryliktojo skirsnio pripažinimas netekusiu galios
 
 Tryliktąjį skirsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 60 straipsnio pakeitimas
+## 5 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
@@ -98,35 +98,35 @@ Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
 8. Kitus reikalavimus veiklai, susijusiai su medicininės paskirties produktais, nustato sveikatos apsaugos ministras.“
 
-\#### 6 straipsnis. 62 straipsnio 3 dalies 8 punkto pakeitimas
+## 6 straipsnis. 62 straipsnio 3 dalies 8 punkto pakeitimas
 
 62 straipsnio 3 dalies 8 punkte išbraukti žodžius „medicininės paskirties produktų“, „ir Reklamos įstatymo“ ir šį punktą išdėstyti taip:
 
 „8) vaistinių preparatų reklamos vykdymą pagal šio įstatymo reikalavimus;“.
 
-\#### 7 straipsnis. Penkioliktojo skirsnio pavadinimo pakeitimas
+## 7 straipsnis. Penkioliktojo skirsnio pavadinimo pakeitimas
 
 Penkioliktojo skirsnio pavadinime išbraukti žodžius „ir medicininės paskirties produkto“ ir skirsnio pavadinimą išdėstyti taip:
 
 „SANKCIJOS DĖL VAISTINIO PREPARATO RINKODAROS“.
 
-\#### 8 straipsnis. 68 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 68 straipsnio pripažinimas netekusiu galios
 
 68 straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 74 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 74 straipsnio 1 dalies pakeitimas
 
 74 straipsnio 1 dalyje išbraukti žodžius „medicininės paskirties produktų registracijos pažymėjimų“ ir šią dalį išdėstyti taip:
 
 „1. Asmenys, dalyvaujantys priimant sprendimus, susijusius su vaistinių preparatų registracija, lygiagretaus importo leidimų, klinikinių tyrimų leidimų, farmacinės veiklos licencijų išdavimu, vykdantys veiklos su farmacijos produktais kontrolę, neturi turėti finansinių ar kitų interesų, susijusių su svarstomu klausimu, farmacijos pramone ar kitais asmenimis, galinčiais daryti poveikį jų nešališkumui. Asmenys, turintys tokių interesų, privalo teisės aktų nustatyta tvarka juos deklaruoti ir nusišalinti nuo nurodytų sprendimų priėmimo.“
 
-\#### 10 straipsnis. Įstatymo priedo pakeitimas
+## 10 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 
 „3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, susijusio su žmonėms skirtais vaistais (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentu 1394/2007 (OL 2007 L 324, p. 121).“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1, 2, 4, 6, 7 ir 8 straipsniai įsigalioja po 6 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“.
 

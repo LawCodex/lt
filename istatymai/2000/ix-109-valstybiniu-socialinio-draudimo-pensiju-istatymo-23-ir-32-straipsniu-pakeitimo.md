@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC9E0D94B1F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5AC9E0D94B1F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 23 ir 32 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D), Nr. [101-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.F36279EFAD41); 1995, Nr. [59-1475](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F1DFB95F88D); 1998, Nr. [98-2707](https://www.e-tar.lt/portal/lt/legalAct/TAR.51DE78DB400F))
 
-\#### 1 straipsnis. 23 straipsnio pakeitimas
+## 1 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Turintiems draudžiamųjų pajamų pensininkams, kurie neturi būtinojo senatvė
 
 Ištarnauto laiko pensijos, paskirtos iki šio įstatymo įsigaliojimo galiojusia tvarka (45 straipsnio ketvirtoji dalis), šių pensijų gavėjams, turintiems draudžiamųjų pajamų, mokamos šio straipsnio pirmojoje ir antrojoje dalyse nustatyta tvarka.“
 
-\#### 2 straipsnis. 32 straipsnio pakeitimas
+## 2 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Nesukakusiems senatvės pensijos amžiaus invalidams, kurie po valstybinės soci
 
 Šio straipsnio pirmojoje ir antrojoje dalyse nurodytiems invalidams, kurie turi draudžiamųjų pajamų, jeigu jie neturi būtinojo invalidumo pensijai valstybinio socialinio pensijų draudimo stažo, valstybinė socialinio draudimo invalidumo pensija nemokama (išskyrus šio straipsnio antrojoje dalyje nurodytus I grupės invalidus, kuriems mokant pensiją būtinojo stažo reikalavimas netaikomas).“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

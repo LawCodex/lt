@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f1c971f0131611e9b2b6e7cdb14007b4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F1C971F01316.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
@@ -26,17 +26,17 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pripažinti netekusia galios 2 straipsnio 11^2 dalį.
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Užsienietis teisėsaugos institucijos pareigūnų ar Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) valstybės tarnautojų reikalavimu privalo pateikti asmens tapatybę patvirtinantį dokumentą (kelionės dokumentą, leidimą gyventi ar kita), taip pat kitus dokumentus, kuriuose nurodytas buvimo valstybėje tikslas ir sąlygos ir kurie įrodo, kad jis Lietuvos Respublikoje yra teisėtai.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 7. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam suteiktas pabėgėlio statusas, papildoma arba laikinoji apsauga, kelia grėsmę valstybės saugumui, policija arba Valstybės sienos apsaugos tarnyba, nustatę, kad užsienietis, kuriam suteikta papildoma apsauga, kelia grėsmę visuomenei, užsienietis, kuriam suteiktas pabėgėlio statusas arba laikinoji apsauga, įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir kelia grėsmę visuomenei, nedelsdami apie tai informuoja Migracijos departamentą. Migracijos departamentas sprendimą dėl pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo priima ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos, gavęs užsieniečio paaiškinimus žodžiu arba raštu. Migracijos departamentui priėmus sprendimą panaikinti pabėgėlio statusą, papildomą arba laikinąją apsaugą, užsieniečiui turi būti išaiškinta šio sprendimo apskundimo tvarka.“
 
-\#### 4 straipsnis. Įstatymo papildymas 41 straipsniu
+## 4 straipsnis. Įstatymo papildymas 41 straipsniu
 
 Papildyti Įstatymą 4^1 straipsniu:
 
@@ -64,7 +64,7 @@ Papildyti Įstatymą 4^1 straipsniu:
 
 Fizinis ar juridinis asmuo (kaip kviečiantysis asmuo), kviesdamas užsienietį į Lietuvos Respubliką, įsipareigoja pasirūpinti, kad užsienietis jo buvimo ar gyvenimo Lietuvos Respublikoje laikotarpiu turėtų atitinkamai Vizų kodekse arba šiame Įstatyme nustatytus reikalavimus atitinkantį sveikatos draudimą, ir atlyginti šio Įstatymo 131 straipsnio 3 dalyje nurodytas valstybės išlaidas bei valstybės išlaidas, patirtas dėl užsieniečio sveikatos priežiūros.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -76,13 +76,13 @@ Užsieniečio atvykimas į Lietuvos Respubliką laikomas neteisėtu, jeigu jis:
 
 2) atvyko, nors yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Nacionalinė viza išduodama užsieniečiui, turinčiam sveikatos draudimą patvirtinantį dokumentą. Be kitų šio Įstatymo 6^1 straipsnyje nustatytų užsieniečio sveikatos draudimo reikalavimų, užsieniečio sveikatos draudimas turi galioti visose Šengeno valstybėse ir draudimo suma turi būti ne mažesnė kaip 30 000 eurų. Reikalavimas turėti sveikatos draudimą patvirtinantį dokumentą netaikomas paskirtiems užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų ir tarptautinių organizacijų atstovybių nariams, vykstantiems į Lietuvos Respubliką akreditacijai, ir jų šeimos nariams, taip pat užsieniečiams, turintiems diplomatinius pasus.“
 
-\#### 7 straipsnis. 19 straipsnio pakeitimas
+## 7 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -124,7 +124,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 2. Nacionalinė viza gali būti atšaukta vizos turėtojo prašymu.“
 
-\#### 8 straipsnis. 21 straipsnio pakeitimas
+## 8 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -158,13 +158,13 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 9. Dokumentų vizai gauti pateikimo, konsultacijų vykdymo, vizos išdavimo ar atsisakymo ją išduoti, jos pratęsimo ar atsisakymo ją pratęsti, jos panaikinimo ir vizos atšaukimo, taip pat komercinių tarpininkų akreditavimo ir išorės paslaugų teikėjų pasirinkimo tvarką nustato vidaus reikalų ministras kartu su užsienio reikalų ministru. Ši tvarka taikoma tiek, kiek šių klausimų nereglamentuoja Vizų kodeksas.“
 
-\#### 9 straipsnis. 22 straipsnio pakeitimas
+## 9 straipsnis. 22 straipsnio pakeitimas
 
 Papildyti 22 straipsnio 1 dalį 9 punktu:
 
 „9) jeigu ji atšaukta.“
 
-\#### 10 straipsnis. 23 straipsnio pakeitimas
+## 10 straipsnis. 23 straipsnio pakeitimas
 
 1. Pakeisti 23 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -174,13 +174,13 @@ Papildyti 22 straipsnio 1 dalį 9 punktu:
 
 „9) yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, išskyrus Vizų kodekse numatytą atvejį, kai užsieniečiui išduota riboto teritorinio galiojimo viza, ir šios aplinkybės paaiškėja užsieniečio buvimo Lietuvos Respublikoje metu.“
 
-\#### 11 straipsnis. 26 straipsnio pakeitimas
+## 11 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Migracijos departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi išdavimo tokiam užsieniečiui, kai įspėjimą dėl jo neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas yra pateikusi Lietuvos Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika užsieniečiui išduoda leidimą gyventi arba jeigu šis jau turi vienos iš susitariančiųjų šalių išduotą galiojantį leidimą gyventi, įspėjimas dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas centrinėje antrosios kartos Šengeno informacinėje sistemoje atšaukiamas, tačiau duomenys apie tokį užsienietį turi būti perkelti į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą.“
 
-\#### 12 straipsnis. 28 straipsnio pakeitimas
+## 12 straipsnis. 28 straipsnio pakeitimas
 
 1. Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -194,19 +194,19 @@ Pakeisti 26 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „4. Šio Įstatymo nustatytais atvejais Migracijos departamentui prašymą išduoti leidimą laikinai gyventi užsieniečiui gali pateikti ne pats užsienietis, o šio Įstatymo 43 straipsnio 2 dalyje, 44 straipsnio 4 dalyje, 44^1 straipsnio 2 dalyje, 44^2 straipsnio 4 dalyje ar 49^2 straipsnio 2 dalyje nurodyti subjektai.“
 
-\#### 13 straipsnis. 29 straipsnio pakeitimas
+## 13 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Užsienietis dėl leidimo gyventi keitimo prašymą turi pateikti Migracijos departamentui.“
 
-\#### 14 straipsnis. 31 straipsnio pakeitimas
+## 14 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Turintis leidimą gyventi užsienietis, kurio gyvenimo Lietuvos Respublikoje laikotarpiu gimė vaikas, per 3 mėnesius nuo vaiko gimimo dienos turi kreiptis į Migracijos departamentą dėl leidimo gyventi vaikui išdavimo.“
 
-\#### 15 straipsnis. 33 straipsnio pakeitimas
+## 15 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -252,11 +252,11 @@ b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui;
 
 4. Jeigu nepakanka prašymą išduoti ar pakeisti leidimą gyventi pagrindžiančių duomenų ir (ar) dokumentų, Migracijos departamentas ne vėliau kaip per vieną mėnesį nuo prašymo išduoti ar pakeisti leidimą gyventi gavimo dienos šio straipsnio 1 dalyje nurodytais atvejais ir ne vėliau kaip per 10 darbo dienų nuo prašymo dėl leidimo nuolat gyventi pakeitimo gavimo dienos – šio straipsnio 2 dalyje nurodytais atvejais raštu apie tai informuoja šį prašymą pateikusį asmenį ir nustato pagrįstą terminą reikiamiems duomenims ir (ar) dokumentams pateikti. Prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo terminas sustabdomas nuo minėto rašto išsiuntimo dienos ir atnaujinamas nuo sprendimui dėl leidimo gyventi išdavimo ar pakeitimo priimti reikiamų duomenų ir (ar) dokumentų gavimo toje institucijoje dienos.“
 
-\#### 16 straipsnis. 34 straipsnio pripažinimas netekusiu galios
+## 16 straipsnis. 34 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 34 straipsnį.
 
-\#### 17 straipsnis. 341 straipsnio pakeitimas
+## 17 straipsnis. 341 straipsnio pakeitimas
 
 Pakeisti 34^1 straipsnį ir jį išdėstyti taip:
 
@@ -272,13 +272,13 @@ Pakeisti 34^1 straipsnį ir jį išdėstyti taip:
 
 5. Valstybės rinkliavos už prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimą, šio dokumento išdavimą ar keitimą ir leidimo laikinai gyventi šio Įstatymo 40 straipsnio 2 dalyje nustatytais atvejais naują įforminimą skubos tvarka dydžius nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 18 straipsnis. 35 straipsnio pakeitimas
+## 18 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) dėl jo kita Šengeno valstybė į centrinę antrosios kartos Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas ir nėra pagrindo išduoti leidimą gyventi dėl humanitarinių priežasčių ar tarptautinių įsipareigojimų arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą;“.
 
-\#### 19 straipsnis. 36 straipsnio pakeitimas
+## 19 straipsnis. 36 straipsnio pakeitimas
 
 1. Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -316,7 +316,7 @@ Pakeisti 35 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 3. Pripažinti netekusia galios 36 straipsnio 4 dalį.
 
-\#### 20 straipsnis. 43 straipsnio pakeitimas
+## 20 straipsnis. 43 straipsnio pakeitimas
 
 1. Pakeisti 43 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
@@ -338,7 +338,7 @@ Pakeisti 35 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 6) kuris turi leidimą laikinai gyventi, išduotą šio Įstatymo 45 straipsnio 1 dalies 1–22 punktuose nustatytais pagrindais.“
 
-\#### 21 straipsnis. 44 straipsnio pakeitimas
+## 21 straipsnis. 44 straipsnio pakeitimas
 
 1. Pakeisti 44 straipsnio 1 dalies 3 punkto b papunktį ir jį išdėstyti taip:
 
@@ -350,7 +350,7 @@ Pakeisti 35 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 3. Pripažinti netekusia galios 44 straipsnio 8 dalį.
 
-\#### 22 straipsnis. 441 straipsnio pakeitimas
+## 22 straipsnis. 441 straipsnio pakeitimas
 
 1. Pakeisti 441 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -362,19 +362,19 @@ Pakeisti 35 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 3. Pripažinti netekusia galios 441 straipsnio 7 dalį.
 
-\#### 23 straipsnis. 442 straipsnio pakeitimas
+## 23 straipsnis. 442 straipsnio pakeitimas
 
 Pakeisti 44^2straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Jeigu numatytas perkeliamo įmonės viduje užsieniečio judėjimas tarp priimančiųjų įmonių, įsteigtų Lietuvos Respublikoje ir kitose Europos Sąjungos valstybėse narėse, prašymas išduoti leidimą laikinai gyventi gali būti pateiktas, jeigu į priimančiąją įmonę, įsteigtą Lietuvos Respublikoje, jis atvyksta pirmiausia arba ilgiausiam laikotarpiui. Apie numatomą perkeliamo įmonės viduje užsieniečio judėjimą į priimančiąsias įmones, įsteigtas kitose Europos Sąjungos valstybėse narėse (nepaisant to, ar perkėlimas į priimančiąją įmonę, įsteigtą kitoje Europos Sąjungos valstybėje narėje, truks ne ilgiau negu 90 dienų per 180 dienų laikotarpį ar ilgesnį laikotarpį), turi būti nurodyta pateikiant prašymą išduoti leidimą laikinai gyventi arba pagal šio Įstatymo 36 straipsnio 3 dalies 6punkte nustatytus reikalavimus, kai tokios aplinkybės paaiškėjo.“
 
-\#### 24 straipsnis. 46 straipsnio pakeitimas
+## 24 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Šio straipsnio 1 dalies 1 punkte nurodytas užsienietis turi teisę pateikti prašymą būti priimtas studijuoti į kitos mokslo ir studijų institucijos lygiavertę studijų programą arba į doktorantūrą, jeigu paaiškėja šio Įstatymo 50 straipsnio 1 dalies 19 punkte nurodytos aplinkybės. Tokiu atveju sprendimas dėl leidimo laikinai gyventi panaikinimo nepriimamas tol, kol sprendžiamas klausimas dėl jo priėmimo studijuoti. Apie kitai mokslo ir studijų institucijai pateiktą prašymą užsienietis privalo pranešti Migracijos departamentui pagal šio Įstatymo 36 straipsnio 1 dalies 5 punktą. Jeigu užsienietis per 2 mėnesius nuo pranešimo Migracijos departamentuipateikimo datos nepateikia įrodymų, patvirtinančių, kad jis buvo priimtas studijuoti į kitos mokslo ir studijų institucijos lygiavertę studijų programą arba į doktorantūrą, leidimas laikinai gyventi panaikinamas pagal šio Įstatymo 50 straipsnio 1 dalies 19 punktą.“
 
-\#### 25 straipsnis. 50 straipsnio pakeitimas
+## 25 straipsnis. 50 straipsnio pakeitimas
 
 1. Pakeisti 50 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -384,7 +384,7 @@ Pakeisti 46 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „18) užsienietis neatitinka tų šio Įstatymo 44^1 straipsnyje nustatytų sąlygų dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, pagal kurias jam buvo išduotas leidimas laikinai gyventi (išskyrus šio Įstatymo 44^1 straipsnio 6 dalyje nurodytą atvejį), arba per pirmuosius dvejus teisėto darbo Lietuvos Respublikoje metus pakeitė darbdavį ar darbo funkciją nesilaikydamas šio Įstatymo 44^1 straipsnio 5 dalyje nustatytų reikalavimų, arba tapo bedarbiu ilgiau negu 3 mėnesiams iš eilės ar daugiau negu vieną kartą per leidimo laikinai gyventi galiojimo laikotarpį, kai leidimas laikinai gyventi buvo išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 4^1 punktą;“.
 
-\#### 26 straipsnis. 51 straipsnio pakeitimas
+## 26 straipsnis. 51 straipsnio pakeitimas
 
 Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
@@ -396,7 +396,7 @@ Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
 3. Prašymų išduoti ar pakeisti leidimą laikinai gyventi pateikimo ir leidimų laikinai gyventi užsieniečiams išdavimo, keitimo, panaikinimo tvarką, taip pat tvarką, kaip įvertinama, ar užsienietis atitinka leidimo laikinai gyventi išdavimo ar keitimo sąlygas, ar nėra atsisakymo išduoti ar pakeisti leidimą laikinai gyventi ir leidimo laikinai gyventi panaikinimo pagrindų, ir tvarką, kaip įvertinama, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs, nustato vidaus reikalų ministras, suderinęs su užsienio reikalų ministru.“
 
-\#### 27 straipsnis. 55 straipsnio pakeitimas
+## 27 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -408,17 +408,17 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 3. Tvarką, reglamentuojančią dokumentų leidimui nuolat gyventi gauti pateikimą ir leidimų nuolat gyventi užsieniečiams išdavimą, keitimą, panaikinimą, taip pat fiktyvios santuokos sudarymo, fiktyvios registruotos partnerystės ar fiktyvaus įvaikinimo įvertinimą nustato vidaus reikalų ministras.“
 
-\#### 28 straipsnis. 57 straipsnio pakeitimas
+## 28 straipsnis. 57 straipsnio pakeitimas
 
 Pakeisti 57 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) pateikiama darbdavio informacija apie užsieniečio turimą kvalifikaciją ir ne mažesnę negu vienerių metų darbo patirtį pagal turimą kvalifikaciją per pastaruosius dvejus metus, išskyrus užsienietį, kuris atvyksta dirbti kaip stažuotojas ar praktikantas.“
 
-\#### 29 straipsnis. 58 straipsnio pakeitimas
+## 29 straipsnis. 58 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 58 straipsnio 12 punktą.
 
-\#### 30 straipsnis. 62 straipsnio pakeitimas
+## 30 straipsnis. 62 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 62 straipsnio 21 dalį.
 
@@ -430,23 +430,23 @@ Pripažinti netekusiu galios 58 straipsnio 12 punktą.
 
 „6. Užsienietis negali dirbti pagal laikinojo darbo sutartį taip, kaip ji apibrėžiama Darbo kodekse.“
 
-\#### 31 straipsnis. 63 straipsnio pakeitimas
+## 31 straipsnis. 63 straipsnio pakeitimas
 
 Pripažinti netekusiu galios 63 straipsnio 2 dalies 4 punktą.
 
-\#### 32 straipsnis. 67 straipsnio pakeitimas
+## 32 straipsnis. 67 straipsnio pakeitimas
 
 Pakeisti 67 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) Lietuvos Respublikos teritorijoje, išskyrus nurodytą šios dalies 1 punkte, – Valstybės sienos apsaugos tarnybai ar Migracijos departamentui.“
 
-\#### 33 straipsnis. 68 straipsnio pakeitimas
+## 33 straipsnis. 68 straipsnio pakeitimas
 
 Pakeisti 68 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Informacija, susijusi su prašymo suteikti prieglobstį pateikimu ir nagrinėjimu, gali būti įslaptinama Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.“
 
-\#### 34 straipsnis. 69 straipsnio pakeitimas
+## 34 straipsnis. 69 straipsnio pakeitimas
 
 Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
@@ -474,25 +474,25 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
 5. Veiksmai, išvardyti šio straipsnio 1 ir 3 dalyse, atliekami per 24 valandas nuo prašymo suteikti prieglobstį pateikimo momento.“
 
-\#### 35 straipsnis. 74 straipsnio pakeitimas
+## 35 straipsnis. 74 straipsnio pakeitimas
 
 Pakeisti 74 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nurodytą sprendimą vykdo Valstybės sienos apsaugos tarnyba.“
 
-\#### 36 straipsnis. 86 straipsnio pakeitimas
+## 36 straipsnis. 86 straipsnio pakeitimas
 
 Pakeisti 86 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Priėmęs sprendimą dėl pabėgėlio statuso suteikimo, Migracijos departamentas pabėgėliui jam suprantama kalba suteikia informaciją apie teises ir pareigas, susijusias su pabėgėlio statusu.“
 
-\#### 37 straipsnis. 87 straipsnio pakeitimas
+## 37 straipsnis. 87 straipsnio pakeitimas
 
 Pakeisti 87 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Priėmęs sprendimą dėl papildomos apsaugos suteikimo, Migracijos departamentas šią apsaugą gavusiam užsieniečiui jam suprantama kalba suteikia informaciją apie teises ir pareigas, susijusias su papildoma apsauga.“
 
-\#### 38 straipsnis. 90 straipsnio pakeitimas
+## 38 straipsnis. 90 straipsnio pakeitimas
 
 Pakeisti 90 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -506,7 +506,7 @@ Pakeisti 90 straipsnio 2 dalį ir ją išdėstyti taip:
 
 4) yra rimtas pagrindas manyti, kad jo buvimas Lietuvos Respublikoje kelia grėsmę valstybės saugumui ar visuomenei.“
 
-\#### 39 straipsnis. 99 straipsnio pakeitimas
+## 39 straipsnis. 99 straipsnio pakeitimas
 
 Pakeisti 99 straipsnį ir jį išdėstyti taip:
 
@@ -520,13 +520,13 @@ Pakeisti 99 straipsnį ir jį išdėstyti taip:
 
 4. Sprendimus dėl teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo, Europos Sąjungos leidimo laikinai gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir teisės laikinai gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos leidimo laikinai gyventi kortelę išduoda, keičia ir panaikina vidaus reikalų ministro įgaliotos institucijos.“
 
-\#### 40 straipsnis. 99 straipsnio pakeitimas
+## 40 straipsnis. 99 straipsnio pakeitimas
 
 Pakeisti 99 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Sprendimus dėl teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo, Europos Sąjungos leidimo laikinai gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir teisės laikinai gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos leidimo laikinai gyventi kortelę išduoda, keičia ir panaikina Migracijos departamentas.“
 
-\#### 41 straipsnis. 991 straipsnio pakeitimas
+## 41 straipsnis. 991 straipsnio pakeitimas
 
 Pakeisti 99^1 straipsnį ir jį išdėstyti taip:
 
@@ -534,7 +534,7 @@ Pakeisti 99^1 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti teisės laikinai gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.“
 
-\#### 42 straipsnis. 991 straipsnio pakeitimas
+## 42 straipsnis. 991 straipsnio pakeitimas
 
 Pakeisti 99^1 straipsnį ir jį išdėstyti taip:
 
@@ -542,7 +542,7 @@ Pakeisti 99^1 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti teisės laikinai gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.“
 
-\#### 43 straipsnis. 100 straipsnio pakeitimas
+## 43 straipsnis. 100 straipsnio pakeitimas
 
 Pakeisti 100 straipsnį ir jį išdėstyti taip:
 
@@ -550,7 +550,7 @@ Pakeisti 100 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti Europos Sąjungos leidimo laikinai gyventi kortelę turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.“
 
-\#### 44 straipsnis. 102 straipsnio pakeitimas
+## 44 straipsnis. 102 straipsnio pakeitimas
 
 Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
@@ -558,7 +558,7 @@ Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
 Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungos leidimo laikinai gyventi kortelė išduodami ir keičiami 5 metams arba numatomam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiui, jeigu šis laikotarpis yra trumpesnis negu 5 metai.“
 
-\#### 45 straipsnis. 1031 straipsnio pakeitimas
+## 45 straipsnis. 1031 straipsnio pakeitimas
 
 Pakeisti 103^1 straipsnį ir jį išdėstyti taip:
 
@@ -586,7 +586,7 @@ Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungo
 
 10) ar Europos Sąjungos valstybės narės pilietis, ar jo šeimos narys miršta.“
 
-\#### 46 straipsnis. 104 straipsnio pakeitimas
+## 46 straipsnis. 104 straipsnio pakeitimas
 
 1. Pakeisti 104 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -604,7 +604,7 @@ Teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungo
 
 „7. Sprendimus dėl teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo, Europos Sąjungos leidimo nuolat gyventi kortelės išdavimo, keitimo ir panaikinimo priima ir teisės nuolat gyventi Lietuvos Respublikoje pažymėjimą, Europos Sąjungos leidimo nuolat gyventi kortelę išduoda, keičia ir panaikina Migracijos departamentas.“
 
-\#### 47 straipsnis. 1051 straipsnio pakeitimas
+## 47 straipsnis. 1051 straipsnio pakeitimas
 
 Pakeisti 105^1 straipsnį ir jį išdėstyti taip:
 
@@ -612,7 +612,7 @@ Pakeisti 105^1 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti teisės nuolat gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo vidaus reikalų ministro įgaliotai institucijai dienos.“
 
-\#### 48 straipsnis. 1051 straipsnio pakeitimas
+## 48 straipsnis. 1051 straipsnio pakeitimas
 
 Pakeisti 105^1 straipsnį ir jį išdėstyti taip:
 
@@ -620,7 +620,7 @@ Pakeisti 105^1 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti teisės nuolat gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.“
 
-\#### 49 straipsnis. 1052 straipsnio pakeitimas
+## 49 straipsnis. 1052 straipsnio pakeitimas
 
 Pakeisti 105^2 straipsnį ir jį išdėstyti taip:
 
@@ -628,7 +628,7 @@ Pakeisti 105^2 straipsnį ir jį išdėstyti taip:
 
 Prašymas išduoti ar pakeisti Europos Sąjungos leidimo nuolat gyventi kortelę turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.“
 
-\#### 50 straipsnis. 1053 straipsnio pakeitimas
+## 50 straipsnis. 1053 straipsnio pakeitimas
 
 Pakeisti 105^3 straipsnį ir jį išdėstyti taip:
 
@@ -646,7 +646,7 @@ Teisės gyventi Lietuvos Respublikoje pažymėjimas ar Europos Sąjungos leidimo
 
 5) dokumentas yra prarastas.“
 
-\#### 51 straipsnis. 1054 straipsnio pakeitimas
+## 51 straipsnis. 1054 straipsnio pakeitimas
 
 Pakeisti 105^4 straipsnį ir jį išdėstyti taip:
 
@@ -656,13 +656,13 @@ Pakeisti 105^4 straipsnį ir jį išdėstyti taip:
 
 2. Vaikui, gimusiam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiu, išduodamas toks pat kaip abiejų tėvų ar vieno iš jų turimas dokumentas. Šis dokumentas galioja tiek, kiek galioja vienam iš vaiko tėvų išduotas dokumentas.“
 
-\#### 52 straipsnis. 1054 straipsnio pakeitimas
+## 52 straipsnis. 1054 straipsnio pakeitimas
 
 Pakeisti 105^4straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Europos Sąjungos valstybės narės pilietis, turintis teisės gyventi Lietuvos Respublikoje pažymėjimą ir kurio gyvenimo Lietuvos Respublikoje laikotarpiu gimė vaikas, nepaisant jo gimimo vietos, ne vėliau kaip per 6 mėnesius nuo jo vaiko gimimo dienos turi kreiptis į Migracijos departamentą dėl teisės gyventi Lietuvos Respublikoje pažymėjimo ar Europos Sąjungos leidimo gyventi kortelės jam išdavimo.“
 
-\#### 53 straipsnis. 1061 straipsnio pakeitimas
+## 53 straipsnis. 1061 straipsnio pakeitimas
 
 Pakeisti 106^1 straipsnį ir jį išdėstyti taip:
 
@@ -670,19 +670,19 @@ Pakeisti 106^1 straipsnį ir jį išdėstyti taip:
 
 Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas ir Europos Sąjungos leidimo nuolat gyventi kortelė negalioja, kai yra nors vienas iš šio Įstatymo 103^1 straipsnio 1–7, 9 ir 10 punktuose nustatytų pagrindų.“
 
-\#### 54 straipsnis. 113 straipsnio pakeitimas
+## 54 straipsnis. 113 straipsnio pakeitimas
 
 Pakeisti 113 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip:
 
 „10) prašymo suteikti prieglobstį nagrinėjimo metu arba sprendžiant užsieniečio grąžinimo į užsienio valstybę klausimą užsienietis nebendradarbiauja su kompetentingų institucijų valstybės tarnautojais ir darbuotojais.“
 
-\#### 55 straipsnis. 114 straipsnio pakeitimas
+## 55 straipsnis. 114 straipsnio pakeitimas
 
 Pakeisti 114 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Teisėsaugos institucijos pareigūno rašytiniu sprendimu užsienietis gali būti sulaikomas ne ilgiau kaip 48 valandoms. Teisėsaugos institucijos, sulaikiusios užsienietį ir nustačiusios, kad yra pagrindas jį sulaikyti ilgiau kaip 48 valandoms, per 5 valandas nuo užsieniečio sulaikymo momento perduoda jį Valstybės sienos apsaugos tarnybos pareigūnams.“
 
-\#### 56 straipsnis. 115 straipsnio pakeitimas
+## 56 straipsnis. 115 straipsnio pakeitimas
 
 Pakeisti 115 straipsnį ir jį išdėstyti taip:
 
@@ -706,13 +706,13 @@ Pakeisti 115 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 2 dalies 4 punkte nurodyta alternatyvi sulaikymui priemonė gali būti skirta tik prieglobsčio prašytojams.“
 
-\#### 57 straipsnis. 116 straipsnio pakeitimas
+## 57 straipsnis. 116 straipsnio pakeitimas
 
 Pakeisti 116 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu yra šio Įstatymo nustatytas užsieniečio sulaikymo pagrindas, su teikimu sulaikyti užsienietį ilgiau negu 48 valandoms arba skirti jam alternatyvią sulaikymui priemonę į apylinkės teismą pagal užsieniečio buvimo Lietuvos Respublikos teritorijoje vietą kreipiasi Valstybės sienos apsaugos tarnybos pareigūnas per 48 valandas nuo užsieniečio sulaikymo momento. Užsieniečio dalyvavimas teismo posėdyje yra būtinas. Teikimo sulaikyti užsienietį arba skirti jam alternatyvią sulaikymui priemonę nagrinėjimo teisme metu jis turi teisę į Lietuvos valstybės garantuojamą teisinę pagalbą.“
 
-\#### 58 straipsnis. 120 straipsnio pakeitimas
+## 58 straipsnis. 120 straipsnio pakeitimas
 
 Pakeisti 120 straipsnį ir jį išdėstyti taip:
 
@@ -724,13 +724,13 @@ Pakeisti 120 straipsnį ir jį išdėstyti taip:
 
 3. Sulaikyto užsieniečio duomenys gali būti perduodami užsienio valstybei jo asmens tapatybės nustatymo tikslu vadovaujantis Lietuvos Respublikos įstatymais ir tarptautinės teisės aktais.“
 
-\#### 59 straipsnis. 121 straipsnio pakeitimas
+## 59 straipsnis. 121 straipsnio pakeitimas
 
 Pakeisti 121 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Užsieniečių pirštų atspaudus registruoja vidaus reikalų ministro įgaliota institucija. Jie tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1)ir Asmens duomenų teisinės apsaugos įstatymo reikalavimais.“
 
-\#### 60 straipsnis. 125 straipsnio pakeitimas
+## 60 straipsnis. 125 straipsnio pakeitimas
 
 1. Pakeisti 125 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -740,7 +740,7 @@ Pakeisti 121 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2^1. Apie galimybę pateikti prašymą leisti savanoriškai grįžti į užsienio valstybę šio straipsnio 1 dalies 7 punkte nurodytą užsienietį jam suprantama kalba informuoja institucija, nustačiusi, kad užsienietis neteisėtai atvyko į Lietuvos Respubliką ar neteisėtai joje yra ir bendradarbiauja grąžinimo į užsienio valstybę klausimu, – Valstybės sienos apsaugos tarnyba arba Migracijos departamentas.“
 
-\#### 61 straipsnis. 127 straipsnio pakeitimas
+## 61 straipsnis. 127 straipsnio pakeitimas
 
 1. Pakeisti 127 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -758,7 +758,7 @@ Pakeisti 121 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Sprendimą dėl užsieniečio grąžinimo į užsienio valstybę ar jo vykimo tranzitu per Lietuvos Respublikos teritoriją priima ir jo įvykdymą kontroliuoja institucija, nustačiusi užsieniečio grąžinimo į užsienio valstybę pagrindą, – Migracijos departamentas arba Valstybės sienos apsaugos tarnyba.“
 
-\#### 62 straipsnis. 131 straipsnio pakeitimas
+## 62 straipsnis. 131 straipsnio pakeitimas
 
 Pakeisti 131 straipsnį ir jį išdėstyti taip:
 
@@ -780,7 +780,7 @@ Pakeisti 131 straipsnį ir jį išdėstyti taip:
 
 4. Savanoriškai grįžtančiam į užsienio valstybę užsieniečiui vieną kartą gali būti suteikiama pagalba grįžti į užsienio valstybę pagal savanoriško grįžimo ir reintegracijos programas, įgyvendinamas Lietuvos Respublikos valstybės, Europos Sąjungos fondų, tarptautinių organizacijų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšomis.“
 
-\#### 63 straipsnis. 133 straipsnio pakeitimas
+## 63 straipsnis. 133 straipsnio pakeitimas
 
 1. Pakeisti 133 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -790,19 +790,19 @@ Pakeisti 131 straipsnį ir jį išdėstyti taip:
 
 „8. Sprendimą uždrausti (neuždrausti) užsieniečiui atvykti į Lietuvos Respubliką priima Valstybės sienos apsaugos tarnyba, jeigu ji priėmė šio Įstatymo 127 straipsnio 5 dalyje nurodytą sprendimą, arba Migracijos departamentas. Sprendimą uždrausti užsieniečiui atvykti į Lietuvos Respubliką šio straipsnio 4 dalyje nurodytais pagrindais užsienio reikalų ministro siūlymu priima vidaus reikalų ministras. Draudimo atvykti į Lietuvos Respubliką trukmė nustatoma kiekvienu atveju tinkamai atsižvelgus į visas su konkrečiu atveju susijusias aplinkybes.“
 
-\#### 64 straipsnis. 140 straipsnio pakeitimas
+## 64 straipsnis. 140 straipsnio pakeitimas
 
 Pakeisti 140 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Administracinės bylos pagal skundus dėl sprendimų, kurie priimti dėl užsieniečio keliamos grėsmės valstybės saugumui, viešajai tvarkai ar visuomenei, gali būti nagrinėjamos naudojant faktinius duomenis, sudarančius valstybės ar tarnybos paslaptį, ir dalyvaujant Valstybės saugumo departamentui, policijos generalinio komisaro įgaliotai policijos įstaigai ir (arba) Valstybės sienos apsaugos tarnybai. Šiems duomenims netaikomos Administracinių bylų teisenos įstatyme numatytos nuostatos dėl išslaptinimo.“
 
-\#### 65 straipsnis. 1401 straipsnio pakeitimas
+## 65 straipsnis. 1401 straipsnio pakeitimas
 
 Pakeisti 140^1straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 5, 6 arba 7 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti Vilniaus apygardos administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos.“
 
-\#### 66 straipsnis. 141 straipsnio pakeitimas
+## 66 straipsnis. 141 straipsnio pakeitimas
 
 Pakeisti 141 straipsnį ir jį išdėstyti taip:
 
@@ -820,13 +820,13 @@ Pakeisti 141 straipsnį ir jį išdėstyti taip:
 
 4) turi kitas šiame Įstatyme nustatytas teises.“
 
-\#### 67 straipsnis. 142 straipsnio pakeitimas
+## 67 straipsnis. 142 straipsnio pakeitimas
 
 Papildyti 142 straipsnį 1^1 dalimi:
 
 „1^1. Užsieniečių registras yra valstybės registras.“
 
-\#### 68 straipsnis. Įstatymo papildymas 1421 straipsniu
+## 68 straipsnis. Įstatymo papildymas 1421 straipsniu
 
 Papildyti Įstatymą 142^1 straipsniu:
 
@@ -834,7 +834,7 @@ Papildyti Įstatymą 142^1 straipsniu:
 
 Lietuvos migracijos informacinė sistema yra valstybės informacinė sistema, skirta informacinių technologijų priemonėmis tvarkyti duomenis, kurių reikia sprendimams dėl užsieniečių teisinės padėties Lietuvos Respublikoje nustatymo priimti, taip pat kitoms migracijos paslaugoms, teikiamoms asmenims, ir procedūroms, kurios reglamentuojamos Lietuvos Respublikos įstatymuose, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse, centralizuotai valdyti ir kaupti bei teikti visus susijusius duomenis.“
 
-\#### 69 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 69 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 5 ir 6 dalis, 19 straipsnio 3 dalį, 21, 22, 25, 28, 29, 30, 31, 39, 41, 44, 45 straipsnius, 46 straipsnio 1–3 dalis, 47, 50, 51 ir 53 straipsnius, įsigalioja 2019 m. liepos 1 d.
 

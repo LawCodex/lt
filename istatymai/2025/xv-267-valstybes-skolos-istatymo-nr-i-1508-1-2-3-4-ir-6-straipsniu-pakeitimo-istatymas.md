@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e57ae2724cdb11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E57AE2724CDB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 1, 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS SKOLOS ĮSTATYMO NR. I-1508 1, 2, 3, 4 IR 6 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -34,13 +34,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Šis įstatymas nustato Lietuvos Respublikos Vyriausybės skolinimąsi valstybės vardu, valstybės vardu skolinantis prisiimtų įsipareigojimų valdymą, kitų centrinės valdžios sektoriaus subjektų skolinimąsi, valstybės garantijų teikimą, taip pat santykius, susijusius su valstybės reikalavimo teise į valstybės skolininkus ir valstybės garantuojamus skolininkus.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 30 dalį ir ją išdėstyti taip:
 
 „30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nacionalinio plėtros banko įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės iždo įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatyme.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3) į centrinės valdžios sektoriaus subjektų bendrą skolinimosi limitą – skoliniai įsipareigojimai, kurie prisiimami ir įvykdomi tais pačiais biudžetiniais metais ir (arba) skirti ankstesniems skoliniams įsipareigojimams refinansuoti.“
 
-\#### 4 straipsnis. 4 straipsnio pakeitimas
+## 4 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 7) paskolų ar ne nuosavybės vertybinių popierių, kurių lėšos skiriamos investicijoms į Lietuvos Respublikoje kuriamą gynybos ir saugumo pramonę.“
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Sprendimą suteikti valstybės garantiją dėl ne didesnės kaip 100 mln. eurų arba ekvivalentu kita valiuta paskolos ar ne nuosavybės vertybinių popierių, sprendimą suteikti valstybės garantiją dėl paskolų ar ne nuosavybės vertybinių popierių (valstybės garantuojamų ne nuosavybės vertybinių popierių), kurie naudojami ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir verslo finansiniam likvidumui didinti arba kurių lėšos skiriamos investicijoms į Lietuvos Respublikoje kuriamą gynybos ir saugumo pramonę,ir sprendimą suteikti valstybės garantiją tarptautinei finansų institucijai priima Vyriausybė, neviršydama Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatyto valstybės garantijų limito ir vadovaudamasi Europos Sąjungos teisės aktais, Europos Sąjungos institucijų, įstaigų ar agentūrų sprendimais ir (arba) susijusiomis sutartimis ar susitarimais, Lietuvos Respublikos tarptautinėmis sutartimis ar šių sutarčių pagrindu pasirašytais susitarimais arba kitais įstatymais.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4e982b5256ff11f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4E982B5256FF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymo Nr. IX-2152 4 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATY
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 2. Vadovaujantis Reglamento (ES) 2021/782 2 straipsnio 2 dalimi, Geležinkelių transporto kodeksas, išskyrus šio Kodekso 101, 19 straipsnius ir 33 straipsnio 2 dalį, netaikomas siauriesiems (750 mm pločio vėžės) geležinkeliams.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2025 m. rugpjūčio 1 d.
 

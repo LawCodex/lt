@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.642FCB884E2F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.642FCB884E2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos fitosanitarijos įstatymo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr.[113-3285](https://www.e-tar.lt/portal/lt/legalAct/TAR.6A3C7C36CD07))
 
-\#### 1 straipsnis. Lietuvos Respublikos fitosanitarijos įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos fitosanitarijos įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip:
 
@@ -34,9 +34,9 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 **įstatymAS**
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas
+## 1 straipsnis. Įstatymo tikslas
 
 1. Šio įstatymo tikslas – nustatyti prevencines priemones, kad į Lietuvos Respublikos ir Europos Sąjungos teritoriją nebūtų įvežami ir nepaplistų augalams ir augaliniams produktams kenksmingi organizmai.
 
@@ -44,7 +44,7 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Augalas – daugialąstis fotosintezę vykdantis organizmas ar jo dalys (vaisiai ir daržovės, išskyrus užšaldytus, stiebagumbiai, svogūnai, gumbasvogūniai, šakniastiebiai, skintos gėlės, nupjauti medžiai ir šakos su lapais, lapai, augalų audinių kultūros, gyvos žiedadulkės, įskiepiai, auginiai, ūgliai ir kitos dalys), įskaitant sėklas, skirtas sėjai.
 
@@ -64,9 +64,9 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 9. Su augalais ir augaliniais produktais susiję objektai (toliau – kiti objektai) – gaminių fasavimo ar pakavimo augaliniai produktai, dirvožemis, organinis ir mineralinis substratas augalams auginti, medžiagos augalams ar augaliniams produktams apdoroti, žemės ūkio technika ir padargai, įvairi tara, sandėliavimo vietos, transporto priemonės ir kiti objektai, galintys būti terpe kenksmingiesiems organizmams plisti.
 
-\### ANTRASIS SKIRSNIS. BENDROSIOS FITOSANITARIJOS PRIEMONĖS
+ANTRASIS SKIRSNIS. BENDROSIOS FITOSANITARIJOS PRIEMONĖS
 
-\#### 3 straipsnis. Augalų, augalinių produktų ir kitų objektų fitosanitarinės būklės valstybinė kontrolė
+## 3 straipsnis. Augalų, augalinių produktų ir kitų objektų fitosanitarinės būklės valstybinė kontrolė
 
 1. Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos (toliau – Tarnyba) atlieka augalų, augalinių produktų ir kitų objektų fitosanitarinės būklės valstybinę kontrolę:
 
@@ -88,7 +88,7 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 5. Fiziniai ir juridiniai asmenys, jiems nuosavybės teise priklausančiuose, nuomojamuose arba kitokia forma naudojamuose žemės plotuose, sandėliuose ar kitose patalpose pastebėję naujų ar neįprastų kenksmingųjų organizmų, privalo nedelsdami apie tai pranešti Tarnybai.
 
-\#### 4 straipsnis. Apsaugos nuo kenksmingųjų organizmų priemonės
+## 4 straipsnis. Apsaugos nuo kenksmingųjų organizmų priemonės
 
 1. Augalai, augaliniai produktai ir kiti objektai turi atitikti fitosanitarijos reikalavimus įvežimo, išvežimo, vežimo ir vežimo tranzitu, auginimo, dauginimo, gamybos, sandėliavimo, supirkimo ir realizavimo metu.
 
@@ -132,9 +132,9 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 7. Lietuvos Respublikos Vyriausybės nustatyta tvarka augalų augintojams gali būti kompensuojami nuostoliai, patirti dėl nurodytų fitosanitarijos priemonių naudojimo.
 
-\### TREČIASIS SKIRSNIS. FITOSANITARINIS REGISTRAS
+TREČIASIS SKIRSNIS. FITOSANITARINIS REGISTRAS
 
-\#### 5 straipsnis. Registravimas Fitosanitariniame registre
+## 5 straipsnis. Registravimas Fitosanitariniame registre
 
 1. Fiziniai ir juridiniai asmenys, auginantys, dauginantys, įvežantys, išvežantys, vežantys, sandėliuojantys, superkantys ir realizuojantys augalus, taip pat gaminantys, įvežantys, išvežantys, vežantys, sandėliuojantys, superkantys ir realizuojantys augalinius produktus ir kitus objektus, kurių fitosanitarinė kontrolė būtina, registruojami Fitosanitariniame registre. Fiziniai ir juridiniai asmenys, vykdantys veiklą, nurodytą šio įstatymo 4 straipsnio 3 dalies 5 punkte, privalo registruotis Fitosanitariniame registre.
 
@@ -142,15 +142,15 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 3. Vežėjai, įvežantys augalų ar augalinių produktų, skirtų jų savininkams ar gavėjams suvartoti nepramoniniais ir nekomerciniais tikslais arba skirtų suvartoti kelionės metu, jeigu dėl to nekyla kenksmingųjų organizmų išplitimo pavojaus, neregistruojami. Augalų ir augalinių produktų, kurių registracija Fitosanitariniame registre nėra būtina, kiekius nustato žemės ūkio ministras.
 
-\### KETVIRTASIS SKIRSNIS. ĮVEŽAMŲ, IŠVEŽAMŲ, VEŽAMŲ IR VEŽAMŲ TRANZITU KROVINIŲ FITOSANITARINĖ KONTROLĖ
+KETVIRTASIS SKIRSNIS. ĮVEŽAMŲ, IŠVEŽAMŲ, VEŽAMŲ IR VEŽAMŲ TRANZITU KROVINIŲ FITOSANITARINĖ KONTROLĖ
 
-\#### 6 straipsnis. Įvežamų, vežamų ir vežamų tranzitu krovinių fitosanitarinė kontrolė
+## 6 straipsnis. Įvežamų, vežamų ir vežamų tranzitu krovinių fitosanitarinė kontrolė
 
 1. Į Lietuvos Respublikos ir Europos Sąjungos teritoriją įvežami, vežami ar vežami tranzitu augalai, augaliniai produktai ir kiti objektai turi būti neužteršti kenksmingaisiais organizmais, nurodytais žemės ūkio ministro patvirtintuose sąrašuose.
 
 2. Šio straipsnio 1 dalies nuostata netaikoma, kai augalai, augaliniai produktai ir kiti objektai vežami tranzitu sandariose užplombuotose talpyklose, neperkraunami Lietuvos Respublikos teritorijoje ir nėra kenksmingųjų organizmų išplitimo pavojaus.
 
-\#### 7 straipsnis. Augalų, augalinių produktų ir kitų objektų įvežimo, vežimo ir vežimo tranzitu tvarka
+## 7 straipsnis. Augalų, augalinių produktų ir kitų objektų įvežimo, vežimo ir vežimo tranzitu tvarka
 
 1. Augalus, augalinius produktus ir kitus objektus galima įvežti tik per tuos pasienio kontrolės punktus, kuriuose veikia fitosanitarijos postai.
 
@@ -164,11 +164,11 @@ Pakeisti Lietuvos Respublikos fitosanitarijos įstatymą ir jį išdėstyti taip
 
 6. Į Lietuvos Respublikos ir Europos Sąjungos teritoriją įvežamų augalų, augalinių produktų ir kitų objektų fitosanitarinio tikrinimo tvarką, galutiniam vartojimui įvežti leistinus augalų ir augalinių produktų kiekius, pasienio kontrolės punktų fitosanitarijos postų sąrašą tvirtina žemės ūkio ministras ir finansų ministras.
 
-\#### 8 straipsnis. Augalų, augalinių produktų ir kitų objektų įvežimo išimtys
+## 8 straipsnis. Augalų, augalinių produktų ir kitų objektų įvežimo išimtys
 
 Tarnyba žemės ūkio ministro nustatyta tvarka gali leisti įvežti į Lietuvos Respublikos teritoriją tam tikrų augalams ir augaliniams produktams kenksmingų organizmų, augalų, augalinių produktų ir kitų objektų, kurie skirti moksliniams tyrimams ir selekcijos tikslams.
 
-\#### 9 straipsnis. Tarnybos pareigūnų sprendimai tikrinant įvežamus augalus, augalinius produktus ir kitus objektus
+## 9 straipsnis. Tarnybos pareigūnų sprendimai tikrinant įvežamus augalus, augalinius produktus ir kitus objektus
 
 Tarnybos pareigūnas, atsižvelgdamas į įvežamų augalų, augalinių produktų ir kitų objektų fitosanitarinio tikrinimo rezultatus, priima vieną iš šių sprendimų:
 
@@ -182,7 +182,7 @@ Tarnybos pareigūnas, atsižvelgdamas į įvežamų augalų, augalinių produkt�
 
 5) sulaikyti arba grąžinti į šalį siuntėją augalų, augalinių produktų ir kitų objektų krovinį, jeigu vežėjas neturi pagal fitosanitarinio tikrinimo tvarką reikalingų dokumentų arba jie neatitinka reikalavimų.
 
-\#### 10 straipsnis. Išvežamų krovinių fitosanitarinė kontrolė
+## 10 straipsnis. Išvežamų krovinių fitosanitarinė kontrolė
 
 1. Eksportuotojas, norėdamas išvežti augalų, augalinių produktų ir kitų objektų krovinį, privalo turėti jo fitosanitarinį sertifikatą, kuris išduodamas, jeigu krovinio fitosanitarinė būklė atitinka šalies, į kurią įvežamas krovinys, reikalavimus.
 
@@ -190,31 +190,31 @@ Tarnybos pareigūnas, atsižvelgdamas į įvežamų augalų, augalinių produkt�
 
 3. Išvežamų augalų, augalinių produktų ir kitų objektų fitosanitarinius sertifikatus nustatyta tvarka išduoda Tarnyba.
 
-\#### 11 straipsnis. Įvežamų, išvežamų, vežamų ir vežamų tranzitu krovinių fitosanitarinės kontrolės išlaidų apmokėjimas
+## 11 straipsnis. Įvežamų, išvežamų, vežamų ir vežamų tranzitu krovinių fitosanitarinės kontrolės išlaidų apmokėjimas
 
 Visas išlaidas, susijusias su įvežamų, išvežamų, vežamų ir vežamų tranzitu augalų, augalinių produktų ir kitų objektų fitosanitariniu tikrinimu, jų padarymu nekenksmingų, sunaikinimu ar grąžinimu, apmoka augalų, augalinių produktų ir kitų objektų krovinio importuotojas, vežėjas, eksportuotojas arba jų įgalioti atstovai.
 
-\### PENKTASIS SKIRSNIS. TARPTAUTINIS BENDRADARBIAVIMAS IR TREČIŲJŲ VALSTYBIŲ FITOSANITARIJOS PRIEMONIŲ PRIPAŽINIMAS
+PENKTASIS SKIRSNIS. TARPTAUTINIS BENDRADARBIAVIMAS IR TREČIŲJŲ VALSTYBIŲ FITOSANITARIJOS PRIEMONIŲ PRIPAŽINIMAS
 
-\#### 12 straipsnis. Tarptautinis bendradarbiavimas
+## 12 straipsnis. Tarptautinis bendradarbiavimas
 
 1. Tarnyba bendradarbiauja su atitinkamomis kitų valstybių augalų apsaugos institucijomis, keičiasi informacija, atlieka kitus veiksmus tarptautiniams įsipareigojimams fitosanitarijos srityje įgyvendinti.
 
 2. Tarnybos vadovas ir pareigūnai nustatyta tvarka pagal savo kompetenciją atstovauja Lietuvos Respublikai Europos Sąjungos institucijose ir tarptautinėse organizacijose.
 
-\#### 13 straipsnis. Trečiųjų valstybių fitosanitarijos priemonių pripažinimas
+## 13 straipsnis. Trečiųjų valstybių fitosanitarijos priemonių pripažinimas
 
 1. Trečiųjų valstybių taikomos fitosanitarijos priemonės yra pripažįstamos lygiavertėmis taikomoms Bendrijoje, jeigu trečiosios valstybės objektyviai pagrindžia Bendrijai, kad jų taikomos priemonės yra atitinkamo fitosanitarinės apsaugos lygio ir patikrinimų, tyrimų ir kitas procedūras įvertina Europos Komisijos tam sudaryta ekspertų komisija.
 
 2. Trečiajai valstybei pareikalavus, Europos Komisija pradeda tartis dėl dvišalių ar daugiašalių sutarčių sudarymo ir trečiųjų valstybių taikomų tam tikrų fitosanitarijos priemonių pripažinimo lygiavertėmis.
 
-\### ŠEŠTASIS SKIRSNIS. ATSAKOMYBĖ
+ŠEŠTASIS SKIRSNIS. ATSAKOMYBĖ
 
-\#### 14 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 14 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
 
-\#### 15 straipsnis. Tarnybos pareigūnų sprendimų apskundimo tvarka
+## 15 straipsnis. Tarnybos pareigūnų sprendimų apskundimo tvarka
 
 1. Tarnybos pareigūnų sprendimai dėl fitosanitarijos priemonių naudojimo į Lietuvos Respublikos teritoriją įvežamiems augalams, augaliniams produktams ir kitiems objektams gali būti skundžiami Tarnybos vadovui ne vėliau kaip per vieną darbo dieną nuo sprendimo priėmimo.
 
@@ -222,7 +222,7 @@ Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, atsako į
 
 3. Tarnybos vadovo sprendimai per dešimt dienų gali būti skundžiami teismui.
 
-\#### 16 straipsnis. Valstybės rinkliava
+## 16 straipsnis. Valstybės rinkliava
 
 Už registro objektų registravimą Fitosanitariniame registre, augalų, augalinių produktų fitosanitarinį tikrinimą, fitosanitarinių sertifikatų išdavimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
@@ -238,11 +238,11 @@ priedas
 
 2. 2000 m. gegužės 8 d. Tarybos direktyva 2000/29/EB dėl apsaugos priemonių nuo augalams ir augaliniams produktams kenksmingų organizmų įvežimo į Bendriją ir išplitimo joje (OL 2004 m. specialusis leidimas, 3 skyrius, 29 tomas, p. 258) su paskutiniais pakeitimais, padarytais 2009 m. vasario 10 d. Komisijos direktyva 2009/7/EB (OL 2009 L 140, p. 12).“
 
-\#### 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2010 m. liepos 1 d.
 

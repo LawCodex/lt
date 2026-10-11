@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.015665144F7A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.015665144F7A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 19 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1997, Nr. [69-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE); 2000, Nr. [56-1649](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE90D023124C); 2001, Nr. [71-2524](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A3423ED809B); 2002, Nr. [112-4975](https://www.e-tar.lt/portal/lt/legalAct/TAR.1943C0B5C98B))
 
-\#### 1 straipsnis. 19 straipsnio 1, 2 ir 10 dalių pakeitimas
+## 1 straipsnis. 19 straipsnio 1, 2 ir 10 dalių pakeitimas
 
 1. 19 straipsnio 1 dalyje vietoj žodžių „Žemėtvarkos ir teisės departamento prie Žemės ūkio ministerijos“ įrašyti žodžius „žemės ūkio ministro“ ir šią dalį išdėstyti taip:
 

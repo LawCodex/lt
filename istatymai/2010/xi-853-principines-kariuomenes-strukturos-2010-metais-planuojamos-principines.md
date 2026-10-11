@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.565DECB4F501"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.565DECB4F501.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos principinės kariuomenės struktūros 2010 metais, planuojamos principinės kariuomenės struktūros 2015 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2010 metais ir 2015 metais patvirtinimo įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2010 METAIS, PLANUOJA
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas nustato principinę kariuomenės struktūrą 2010 metais, tai yra nuolatinius junginius, dalinius ir jiems prilygintus karinius vienetus, taip pat ribinius krašto apsaugos sistemoje (toliau – KAS) tarnaujančių karių skaičius ir ribinį statutinių valstybės tarnautojų skaičių paskutinę 2010 metų dieną:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Šis įstatymas nustato principinės kariuomenės struktūros 6 metų planavimo gaires, tai yra planuojamą principinę kariuomenės struktūrą, planuojamus ribinius KAS tarnaujančių karių skaičius ir statutinių valstybės tarnautojų ribinį skaičių 2015 metais.
 
-\#### 2 straipsnis. Principinė kariuomenės struktūra, ribiniai KAS karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2010 metais
+## 2 straipsnis. Principinė kariuomenės struktūra, ribiniai KAS karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2010 metais
 
 1. Principinė kariuomenės struktūra, tai yra nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra, 2010 metais:
 
@@ -66,7 +66,7 @@ Vilnius
 
 3. Ribinis KAS civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų skaičius 2010 metais nustatomas nuo 150 iki 180.
 
-\#### 3 straipsnis. Principinė kariuomenės struktūra, ribiniai KAS karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2015 metais
+## 3 straipsnis. Principinė kariuomenės struktūra, ribiniai KAS karių skaičiai ir statutinių valstybės tarnautojų ribinis skaičius 2015 metais
 
 1. Principinė kariuomenės struktūra, tai yra nuolatinių junginių, dalinių ir jiems prilygintų karinių vienetų struktūra, 2015 metais:
 

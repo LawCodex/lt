@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.580D6610AE80"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.580D6610AE80.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1949 metų Ženevos konvencijų dėl karo aukų apsaugos ir jų 1977 metų papildomų protokolų ratifikavimo
@@ -38,7 +38,7 @@ remdamasis Lietuvos Respublikos Konstitucijos 138 straipsnio 3 dalimi, nustatan�
 
 priima šį įstatymą.
 
-\#### 1 straipsnis. Konvencijų ir protokolų ratifikavimas
+## 1 straipsnis. Konvencijų ir protokolų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1949 metų Ženevos konvencijas dėl karo aukų apsaugos ir jų 1977 metų papildomus protokolus“, ratifikuoja:
 
@@ -54,7 +54,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 6) 1949 m. rugpjūčio 12 d. Ženevos konvencijų Papildomą protokolą dėl netarptautinių ginkluotų konfliktų aukų apsaugos (II protokolą), sudarytą 1977 m. birželio 8 d.
 
-\#### 2 straipsnis. Lietuvos Respublikos pareiškimas
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 Lietuvos Respublika, vadovaudamasi 1949 m. rugpjūčio 12 d. Ženevos konvencijų Papildomo protokolo dėl tarptautinių ginkluotų konfliktų aukų apsaugos (I protokolo) 90 straipsnio 2 dalies a punktu, pareiškia, kad pripažįsta *ipso facto* ir be specialaus susitarimo Tarptautinės faktų nustatymo komisijos kompetenciją pagal 1949 m. rugpjūčio 12 d. Ženevos konvencijų Papildomo protokolo dėl tarptautinių ginkluotų konfliktų aukų apsaugos (I protokolo) 90 straipsnį dėl bet kurios kitos Aukštosios Susitariančiosios Šalies, prisiimančios tokį pat įsipareigojimą.
 

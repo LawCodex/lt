@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/98ed2682dfec11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.98ED2682DFEC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 6, 13-1, 16, 17, 18, 18-2, 19, 20, 21, 23, 27, 29, 34 ir 35 straipsnių pakeitimo įstatymo Nr. XV-343 1, 3, 6, 8 ir 9 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO NR. IX-1007 6, 131, 16, 17, 18, 182, 19, 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 11. Apskaičiuojant metinei pajamų daliai pagal šio straipsnio 1 dalį taikomą pajamų mokesčio tarifą, į šią pajamų dalį pirmiausia įskaičiuojama metinė pajamų dalis, apmokestinama pagal šio straipsnio 2, 7 ir 8 dalis.“.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo 6 straipsnio 1, 2, 6, 8 ir 9 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo 21 straipsnyje nustatyta tvarka.“.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 11. Jeigu metinė apmokestinamųjų individualios veiklos pajamų, išskyrus pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 9 dalyje nustatytas pajamų mokesčio tarifas, suma viršija 42 500 eurų per metus, nuo tokių individualios veiklos pajamų mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo 6 straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą gautos sumos atimant papildomo pajamų mokesčio kredito už kiekvieną auginamą vaiką (įvaikį, globotinį) sumą, apskaičiuotą pagal šio straipsnio 10 dalį.“.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti 8 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „12. Teikiant metinę pajamų mokesčio deklaraciją gyventojo pasirinkimu taikomas arba šio straipsnio 11 dalyje nustatytas papildomas NPD, arba šio Įstatymo 18^2 straipsnio 10 ar 11 dalyje nustatytas papildomas pajamų mokesčio kreditas.“.“
 
-\#### 5 straipsnis. 9 straipsnio pakeitimas
+## 5 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 

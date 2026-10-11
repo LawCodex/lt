@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C06792A3BA03"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C06792A3BA03.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 6, 8, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2003, Nr. [113-5058](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6E07E950C5B); 2004, Nr. [68-2370](https://www.e-tar.lt/portal/lt/legalAct/TAR.D417EB571239), Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62), 6325, Nr. [188-7002](https://www.e-tar.lt/portal/lt/legalAct/TAR.41AE07789F2A); 2005, Nr. [61-2159](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DB690AFBE93), Nr. [86-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.61D84FD9FC5C), Nr. [144-5236](https://www.e-tar.lt/portal/lt/legalAct/TAR.A084FA4B0D41); 2006, Nr. [57-2023](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4EF4E7BE664); 2008, Nr. [135-5239](https://www.e-tar.lt/portal/lt/legalAct/TAR.1866A40EE952), Nr. [149-6022](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB86E35BB7CC); 2009, Nr. [25-985](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CF9D15015A1))
 
-\#### 1 straipsnis. 6 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 3 dalies 1 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 6 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Vilnius
 
 19) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu.“
 
-\#### 2 straipsnis. 8 straipsnio 2 ir 4 dalių pakeitimas
+## 2 straipsnis. 8 straipsnio 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Vilnius
 
 „4. Asmenys, nurodyti šio Įstatymo 6 straipsnio 4 dalyje ir 17 straipsnio 1–7 ir 9 dalyse, šio Įstatymo 9–12 straipsniuose nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai už juos nustota mokėti arba kai jie patys nustoja mokėti privalomojo sveikatos draudimo įmokas. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.“
 
-\#### 3 straipsnis. 17 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 17 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 17 straipsnio 1 dalį 3 punktu:
 
@@ -110,7 +110,7 @@ Vilnius
 
 „8. Nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme, gaunantys Ligos ir motinystės socialinio draudimo įstatyme nurodytas iš Valstybinio socialinio draudimo fondo lėšų mokamas pašalpas, nuo kurių Gyventojų pajamų mokesčio įstatymo nustatyta tvarka turi būti išskaičiuotas gyventojų pajamų mokestis, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas.“
 
-\#### 4 straipsnis. 18 straipsnio pakeitimas
+## 4 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 8. Šio Įstatymo 17 straipsnio 10 ir 11 dalyse nurodytų nuostatų įgyvendinimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 5 straipsnis. 19 straipsnio 1 ir 2 dalių pakeitimas
+## 5 straipsnis. 19 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -142,7 +142,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 „2. Pažeidus šio Įstatymo 17 straipsnio 5, 7 ir 9 dalyse nurodytų įmokų apskaičiavimo ir mokėjimo tvarką, asmenims, kurie privalo mokėti ir (ar) apskaičiuoti šias įmokas, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d. ir taikomas apskaičiuojant ir mokant 2010 ir vėlesnių metų privalomojo sveikatos draudimo įmokas.
 

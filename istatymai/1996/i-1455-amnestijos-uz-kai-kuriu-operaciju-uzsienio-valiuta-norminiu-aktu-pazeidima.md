@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B8A886BF69F7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B8A886BF69F7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos amnestijos už kai kurių operacijų užsienio valiuta norminių aktų pažeidimą įstatymas
@@ -26,7 +26,7 @@ AMNESTIJOS UŽ KAI KURIŲ OPERACIJŲ UŽSIENIO VALIUTA NORMINIŲ AKTŲ PAŽEIDIM
 
 Vilnius
 
-\#### 1 straipsnis. Amnestijos taikymas ir vykdymas
+## 1 straipsnis. Amnestijos taikymas ir vykdymas
 
 1. Lietuvos Respublikos Seimas, atsižvelgdamas į tai, kad 1993 metais, įvedus Lietuvos nacionalinę valiutą litą, įvairiems atsiskaitymams buvo naudojama Rusijos valiuta rublis ir padarytos veikos, numatytos iki 1995 m. sausio 1 d. galiojusiame Lietuvos Respublikos baudžiamojo kodekso 87 straipsnyje, vadovaudamasis teisingumo principais, priima šį įstatymą.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/77e52fd0a62a11eea5a28c81c82193a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77E52FD0A62A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-1732 9, 18 ir 19 straipsnių pakeitimo įstatymas

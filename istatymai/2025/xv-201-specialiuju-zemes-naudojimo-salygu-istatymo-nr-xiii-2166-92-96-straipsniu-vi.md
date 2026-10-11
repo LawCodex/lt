@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/03be521036f411f08fdabd4950271e2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.03BE521036F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 92, 96 straipsnių, VI skyriaus antrojo skirsnio pavadinimo pakeitimo ir 91, 93, 94 straipsnių pripažinimo netekusiais galios įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. VI skyriaus antrojo skirsnio pavadinimo pakeitimas
+## 1 straipsnis. VI skyriaus antrojo skirsnio pavadinimo pakeitimas
 
 Pakeisti VI skyriaus antrojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -34,11 +34,11 @@ Pakeisti VI skyriaus antrojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **MELIORUOTOJE ŽEMĖJE****TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS**“.
 
-\#### 2 straipsnis. 91 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 91 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 91 straipsnį.
 
-\#### 3 straipsnis. 92 straipsnio pakeitimas
+## 3 straipsnis. 92 straipsnio pakeitimas
 
 Pakeisti 92 straipsnį ir jį išdėstyti taip:
 
@@ -68,11 +68,11 @@ c) įrengti nepratekamus dirbtinius vandens telkinius;
 
 3. Savivaldybės administracija nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 2 dalyje nurodyti darbai trukdys tinkamai funkcionuoti ar darys neigiamą įtaką melioracijos grioviams, bendrojo naudojimo drenažo rinktuvams ir (ar) polderiams.“
 
-\#### 4 straipsnis. 93 ir 94 straipsnių pripažinimas netekusiais galios
+## 4 straipsnis. 93 ir 94 straipsnių pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios 93 ir 94 straipsnius.
 
-\#### 5 straipsnis. 96 straipsnio pakeitimas
+## 5 straipsnis. 96 straipsnio pakeitimas
 
 Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
 Natūralias pievas ir ganyklas draudžiama suarti, persėti, kalkinti,sausinti įrengiant naujas melioracijos sistemas, užsodinti želdiniais ar įveisti mišką arba kitaip jas pažeisti ar keisti jų žolynų būklę ir sudėtį, išskyrus natūralių pievų ir ganyklų kaitą dėl krūmų kirtimo, invazinių rūšių naikinimo, gyvulių ganymo ar šienavimo ir atvejus, kai laukinių gyvūnų pažeistos natūralių pievų ir ganyklų dalys išlyginamos ir užsėjamos laukinių žolių mišiniais.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B190CE219B2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2B190CE219B2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 20, 21, 25 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2008, Nr. 15-512; 2009, Nr. 93-3969)
 
-\#### 1 straipsnis. Įstatymo papildymas 121 straipsniu
+## 1 straipsnis. Įstatymo papildymas 121 straipsniu
 
 Papildyti Įstatymą 12^1 straipsniu:
 
@@ -48,7 +48,7 @@ Papildyti Įstatymą 12^1 straipsniu:
 
 4. Draudimo įmonės dalyvavimas banko turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime šio straipsnio 2 dalies 2 punkte nurodytu būdu prilyginamas draudimo išmokos banko indėlininkams ir investuotojams išmokėjimui, ir bankas, kurio turtas, teisės ir įsipareigojimai perduodami, panaudota finansavimui suma privalo padidinti įsipareigojimus draudimo įmonei.“
 
-\#### 2 straipsnis. 20 straipsnio 1 dalies 12 punkto pakeitimas ir 13 punkto pripažinimas netekusiu galios
+## 2 straipsnis. 20 straipsnio 1 dalies 12 punkto pakeitimas ir 13 punkto pripažinimas netekusiu galios
 
 1. Pakeisti 20 straipsnio 1 dalies 12 punktą ir jį išdėstyti taip:
 
@@ -56,13 +56,13 @@ Papildyti Įstatymą 12^1 straipsniu:
 
 2. 20 straipsnio 1 dalies 13 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 21 straipsnio 5 dalies 10 punkto pakeitimas
+## 3 straipsnis. 21 straipsnio 5 dalies 10 punkto pakeitimas
 
 Pakeisti 21 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip:
 
 „10) suderinusi sudraudimo įmonėssavininko teises ir pareigas įgyvendinančia institucija, priima sprendimą šio Įstatymo 12^1 straipsnyje nustatytais būdais ir sąlygomis dalyvauti banko turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime;“.
 
-\#### 4 straipsnis. 25 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 25 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip:
 

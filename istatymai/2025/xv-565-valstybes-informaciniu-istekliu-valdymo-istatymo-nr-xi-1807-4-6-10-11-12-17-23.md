@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3730ca12cc3611f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3730CA12CC36.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 4, 6, 10, 11, 12, 17, 23, 24, 25, 26, 27, 28, 29, 34, 43, 45 ir 46 straipsnių pakeitimo įstatymas
@@ -26,25 +26,25 @@ VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMO NR. XI-1807 4, 6, 10, 11, 
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Duomenų paiešką, mainus, tvarkymą, įskaitant ir jų pakartotinį naudojimą, užtikrina metaduomenys. Metaduomenys rengiami ir tvarkomi pagal Vyriausybės nustatytą valstybės informacinių išteklių valdymo ir tvarkymo tvarką, taikant bendrą duomenų architektūros valdymo modelį. Tvarkant metaduomenis, turi būti integruojami vienodi Europos Sąjungos pagrindiniai žodynai, tezaurai, duomenų erdvių ir sričių ontologijos, siekiant užtikrinti duomenų suderinamumą ne tik su Lietuvos Respublikos, bet ir su kitų Europos Sąjungos valstybių narių ir (ar) Europos ekonominės erdvės valstybių, ir (ar) Europos Sąjungos institucijų informacinėmis sistemomis.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Duomenų mainai vykdomi vadovaujantis ekonomikos ir inovacijų ministro (toliau – ministras) įgaliotos institucijos nustatytais duomenų teikimo formatais ir standartais.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „8) tvirtina valstybės informacinių išteklių valdymo ir tvarkymo tvarkos aprašą;“.
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 11 straipsnio 2 dalies 6 punktą.
 
@@ -52,7 +52,7 @@ Pakeisti 10 straipsnio 8 punktą ir jį išdėstyti taip:
 
 3. Pripažinti netekusiu galios 11 straipsnio 3 dalies 4 punktą.
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas
+## 5 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -68,13 +68,13 @@ Pakeisti 10 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „20) teikia informacinių sistemų valdytojams išvadas dėl informacinių sistemų steigimo, atnaujinimo, pertvarkymo ir likvidavimo tikslingumo.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Komitetą sudaro Vyriausybės kanclerio sprendimu skiriamas Vyriausybės kanceliarijos atstovas, ministro sprendimu skiriamas Ministerijos atstovas, Reglamento [(EB) Nr. 223/2009](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32009R0223&locale=lt) įgyvendinimą atliekančios institucijos vadovas arba jo pavaduotojas, Reglamento [(ES) 2016/679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32016R0679&locale=lt) taikymo priežiūrą atliekančios institucijos vadovas arba jo pavaduotojas ir archyvų ir dokumentų srities valstybinį administravimą įgyvendinančios institucijos vadovas arba jo pavaduotojas.“
 
-\#### 7 straipsnis. 23 straipsnio pakeitimas
+## 7 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 7. Naudojama tik įteisinta ir Vyriausybės nustatyta valstybės informacinių išteklių valdymo ir tvarkymo tvarka akredituota informacinė sistema arba jos dalis (posistemis).“
 
-\#### 8 straipsnis. 24 straipsnio pakeitimas
+## 8 straipsnis. 24 straipsnio pakeitimas
 
 1. Papildyti 24 straipsnio 2 dalį 4–6 punktais:
 
@@ -116,13 +116,13 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 „4. Informacinė sistema atnaujinama, pertvarkoma ar likviduojama Vyriausybės nustatyta valstybės informacinių išteklių valdymo ir tvarkymotvarka.“
 
-\#### 9 straipsnis. 25 straipsnio pakeitimas
+## 9 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Informacinė sistema gali turėti tik vieną informacinės sistemos valdytoją, kuris skiriamas Vyriausybės nustatyta valstybės informacinių išteklių valdymo ir tvarkymo tvarka. Informacinės sistemos valdytojas skiria ir informacinės sistemos tvarkytoją ar tvarkytojus, ir duomenų tvarkytoją ar tvarkytojus, kurį (-iuos) pasirenka ir jam pasiūlo skirti duomenų valdytojas, išskyrus atvejus, kai duomenų valdytojas ir informacinės sistemos valdytojas yra tas pats subjektas.“
 
-\#### 10 straipsnis. 26 straipsnio pakeitimas
+## 10 straipsnis. 26 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 26 straipsnio 4 dalies 6 punktą.
 
@@ -130,7 +130,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8) bendradarbiauti su informacinės sistemos tvarkytoju, tvarkant metaduomenis pagal Vyriausybės nustatytą valstybės informacinių išteklių valdymo ir tvarkymo tvarką;“.
 
-\#### 11 straipsnis. 27 straipsnio pakeitimas
+## 11 straipsnis. 27 straipsnio pakeitimas
 
 1. Pakeisti 27 straipsnio 4 dalies 8 punktą ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 4. Buvusius 27 straipsnio 4 dalies 10 ir 11 punktus laikyti atitinkamai 11 ir 12 punktais.
 
-\#### 12 straipsnis. 28 straipsnio pakeitimas
+## 12 straipsnis. 28 straipsnio pakeitimas
 
 1. Pakeisti 28 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8. Informacinės sistemos tvarkytojas, gavęs susijusioje informacinėje sistemoje tvarkomus duomenis, šiuos duomenis gali teikti duomenų gavėjams tik kartu su savo informacinėje sistemoje tvarkomais duomenimis.“
 
-\#### 13 straipsnis. 29 straipsnio pakeitimas
+## 13 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
@@ -180,13 +180,13 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 7. Informacinių sistemų registro informacinėje sistemoje objektai yra registruojami ir joje tvarkomi duomenys yra teikiami neatlygintinai.“
 
-\#### 14 straipsnis. 34 straipsnio pakeitimas
+## 14 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Informacinės sistemos tvarkytojo sąnaudos kartu su duomenų tvarkytojo ar tvarkytojų sąnaudomis, kurias jie patyrė dėl šio įstatymo 30 straipsnio 2 dalyje, 31 straipsnio 1, 3 ir 4 dalyse ir 32 straipsnyje ar kituose Lietuvos Respublikos įstatymuose, tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse nurodyto neatlygintino objektų registravimo registrų informacinėse sistemose, informacinėse sistemose tvarkomų duomenų, įskaitant ir pakartotinai naudojamus duomenis, teikimo naudojantis Valstybės duomenų valdysenos informacinės sistemos funkcionalumu ar Lietuvos atvirų duomenų portalo priemonėmis, ir (ar) kitų su duomenų tvarkymu susijusių veiksmų atlikimo, taip pat lengvatų taikymo Lietuvos Respublikos įstatymuose nurodytoms tikslinėms asmenų grupėms, atlyginamos iš valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto lėšų, kitų valstybės pinigų fondų ir (ar) Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių ir (ar) sumažinant šias sąnaudas mokėtina jų pelno įmokos suma, kai informacinės sistemos tvarkytojas ar duomenų tvarkytojas ar tvarkytojai pagal savo teisinę formą gali siekti pelno, Vyriausybės nustatyta atlyginimo apskaičiavimo tvarka.“
 
-\#### 15 straipsnis. 43 straipsnio pakeitimas
+## 15 straipsnis. 43 straipsnio pakeitimas
 
 1. Pakeisti 43 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -198,19 +198,19 @@ Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
 11. Atlyginimas už nestandartinių parametrų IT paslaugas yra apskaičiuojamas Vyriausybės nustatyta tvarka.“
 
-\#### 16 straipsnis. 45 straipsnio pakeitimas
+## 16 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Vyriausybė, atsižvelgdama į atskiro subjekto pateiktą valstybės informacinių išteklių įgyvendinimo alternatyvų analizę ir rizikos valdymo priemonių planą bei nacionalinio saugumo interesus, gali atskiru nutarimu atskiram subjektui suteikti teisę laikyti jų valdomus ypatingos svarbos ir svarbius valstybės informacinius išteklius Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esančiuose privačiuose duomenų centruose, šių valstybės informacinių išteklių kopijas Vyriausybės nustatyta tvarka kartu laikant ir valstybiniuose duomenų centruose. Pasikeitus aplinkybėms, kurios suteikia teisę ypatingos svarbos ir svarbius valstybės informacinius išteklius ir jų kopijas laikyti ne valstybiniuose duomenų centruose, nelikus šių aplinkybių arba atsiradus *force majeure* aplinkybėms, Vyriausybė pripažįsta netekusiu galios anksčiau priimtą nutarimą.“
 
-\#### 17 straipsnis. 46 straipsnio pakeitimas
+## 17 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybės informacinių išteklių valdysena, valdymas ir tvarkymas (įskaitant pasirengimą steigti ir kurti informacines sistemas) bei kibernetinio saugumo reikalavimų įgyvendinimas yra finansuojami iš subjekto veiklai užtikrinti skirtų valstybės biudžeto (įskaitant Europos Sąjungos lėšas) ar savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir kitų valstybės pinigų fondų lėšų, taip pat lėšų, gautų už objektų registravimą, duomenų teikimą ir kitus su duomenų tvarkymu susijusius veiksmus, bei kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių.“
 
-\#### 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

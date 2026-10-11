@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A9EF86641C77"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A9EF86641C77.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 28, 34, 35 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [51-1243](https://www.e-tar.lt/portal/lt/legalAct/TAR.61BB05227699); 2001, Nr. [112-4070](https://www.e-tar.lt/portal/lt/legalAct/TAR.820E9B3007ED))
 
-\#### 1 straipsnis. 28 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 28 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 28 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti ir papildyti 28 straipsnį ir jį išdėstyti taip:
 
 4. Valstybės kontrolieriaus pavaduotojai, pradėdami eiti pareigas, prisiekia Lietuvos Respublikai. Valstybės kontrolieriaus pavaduotojų priesaiką priima Respublikos Prezidentas.“
 
-\#### 2 straipsnis. 34 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 34 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 34 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti ir papildyti 34 straipsnį ir jį išdėstyti taip:
 
 8. Atsiradus šio straipsnio 1 dalies 3, 4, 5, 6 punktuose nurodytiems valstybės kontrolieriaus atleidimo pagrindams, Seimo nutarimu Valstybės kontrolės darbą organizuoja valstybės kontrolieriaus pavaduotojas šio Įstatymo nustatyta tvarka tol, kol Seimas paskiria valstybės kontrolierių.“
 
-\#### 3 straipsnis. 35 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 35 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 35 straipsnį ir jį išdėstyti taip:
 
@@ -104,7 +104,7 @@ Pakeisti ir papildyti 35 straipsnį ir jį išdėstyti taip:
 
 7. Pasibaigus valstybės kontrolieriaus pavaduotojo įgaliojimų laikui, valstybės kontrolieriaus pavaduotojas turi teisę Valstybės tarnybos įstatymo nustatyta tvarka atkurti valstybės tarnautojo statusą ir gauti trijų mėnesių vidutinio darbo užmokesčio dydžio išeitinę išmoką, kuri mokama Valstybės tarnybos įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas įsigalioja 2013 m. birželio 1 d.
 

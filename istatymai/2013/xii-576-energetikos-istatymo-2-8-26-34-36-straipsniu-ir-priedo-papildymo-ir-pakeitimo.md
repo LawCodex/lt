@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C6493AE7D10E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C6493AE7D10E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo 2, 8, 26, 34, 36 straipsnių ir priedo papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [56-2224](https://www.e-tar.lt/portal/lt/legalAct/TAR.44235B485568); 2011, Nr. [160-7576](https://www.e-tar.lt/portal/lt/legalAct/TAR.C2DAB42D5532); 2013, Nr. [68-3414](https://www.e-tar.lt/portal/lt/legalAct/TAR.3FF76B311D7A))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 4 dalimi:
 
@@ -32,7 +32,7 @@ Vilnius
 
 2. Buvusias 2 straipsnio 4–35 dalis laikyti atitinkamai 5–36 dalimis.
 
-\#### 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 8 straipsnio papildymas ir pakeitimas
 
 1. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 „17. Komisija, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, vadovaujasi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, taip pat laikosi visų teisiškai privalomų Energetikos reguliavimo institucijų bendradarbiavimo agentūros (ACER), veikiančios pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 713/2009, įsteigiantį Energetikos reguliavimo institucijų bendradarbiavimo agentūrą, ir Europos Komisijos sprendimų ir juos įgyvendina. Komisijos vykdomų konsultacijų ir nacionalinio bei tarptautinio bendradarbiavimo principus nustato šio įstatymo 26 straipsnis ir atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nuostatos.“
 
-\#### 3 straipsnis. 26 straipsnio papildymas 5 ir 6 dalimis
+## 3 straipsnis. 26 straipsnio papildymas 5 ir 6 dalimis
 
 1. Papildyti 26 straipsnį 5 dalimi:
 
@@ -80,7 +80,7 @@ Vilnius
 
 „6. Jeigu Europos Komisija, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvos 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinančios Direktyvą 2003/54/EB, 39 straipsnyje nustatyta tvarka ir sąlygomis nurodo panaikinti Komisijos priimtą sprendimą, Komisija ne vėliau kaip per du mėnesius privalo panaikinti arba pakeisti atitinkamą sprendimą, atsižvelgdama į Europos Sąjungos teisės aktų reikalavimus, ir apie tai informuoti Europos Komisiją.“
 
-\#### 4 straipsnis. 34 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 19 dalimi
+## 4 straipsnis. 34 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 19 dalimi
 
 1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Vilnius
 
 „19. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija, priimdama sprendimą dėl pareiškėjo skunde ar prašyme išspręsti ginčą pateiktų reikalavimų pagrįstumo ir jų patenkinimo, taip pat teikdama pasiūlymą dėl ginčo sprendimo taikinamojo tarpininkavimo procedūros metu, visais atvejais privalo įvertinti vartotojo patirtas ir prašomas grąžinti ir (ar) kompensuoti išlaidas ir, patenkinus šį reikalavimą, įpareigoti energetikos įmonę atitinkamai grąžinti ir (ar) kompensuoti vartotojo patirtas išlaidas ar jų dalį.“
 
-\#### 5 straipsnis. 36 straipsnio pakeitimas
+## 5 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -154,13 +154,13 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 19. Komisija, vadovaudamasi šio straipsnio nuostatomis, patvirtina sankcijų skyrimo taisykles.“
 
-\#### 6 straipsnis. Įstatymo priedo papildymas 16 punktu
+## 6 straipsnis. Įstatymo priedo papildymas 16 punktu
 
 Papildyti Įstatymo priedą 16 punktu:
 
 „16. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1).“
 
-\#### 7 straipsnis. Lietuvos Respublikos energetikos įstatymo 36 straipsnio 1 dalies taikymas
+## 7 straipsnis. Lietuvos Respublikos energetikos įstatymo 36 straipsnio 1 dalies taikymas
 
 Šio įstatymo 5 straipsnyje išdėstyta Lietuvos Respublikos energetikos įstatymo 36 straipsnio 1 dalies nuostata, kad energetikos įmonėms už pažeidimus vykdant reguliuojamąją veiklą, užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Komisija skiria sankcijas nenumatydama pažeidimų pašalinimo termino, taikoma tik po šio įstatymo įsigaliojimo energetikos įmonių padarytiems pažeidimams.
 

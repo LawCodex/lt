@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d2986290b3b611e598c4c7724bda031b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D2986290B3B6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4-1, 5, 7, 8, 10, 11, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 11-1, 11-2, 12-1, 12-2, 12-3 straipsniais įstatymo Nr. XII-864 5 ir 7 straipsnių pakeitimo įstatymas

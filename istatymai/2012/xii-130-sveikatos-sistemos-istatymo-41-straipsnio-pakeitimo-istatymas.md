@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.70BC705B2493"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.70BC705B2493.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 41 straipsnio pakeitimo įstatymas
@@ -24,11 +24,11 @@ Vilnius
 
 (Žin., 1994, Nr. 63-1231; 1998, Nr. 112-3099; 2004, Nr. 171-6309; 2010, Nr. 51-2476)
 
-\#### 1 straipsnis. 41 straipsnio 2 dalies 2 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 41 straipsnio 2 dalies 2 punkto pripažinimas netekusiu galios
 
 41 straipsnio 2 dalies 2 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

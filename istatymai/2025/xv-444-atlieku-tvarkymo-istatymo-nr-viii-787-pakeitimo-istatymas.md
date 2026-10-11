@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ac6ca1d0a27111f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AC6CA1D0A271.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 pakeitimo įstatymas
@@ -26,13 +26,13 @@ ATLIEKŲ TVARKYMO ĮSTATYMO NR. VIII-787 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šis Įstatymas nustato bendruosius atliekų prevencijos ir tvarkymo reikalavimus, kad būtų išvengta atliekų neigiamo poveikio visuomenės sveikatai ir aplinkai; sąlygas, kai medžiaga ar daiktas gali būti nelaikomi atliekomis; atliekų tvarkymo valstybinį reglamentavimą; pagrindinius atliekų tvarkymo sistemų organizavimo ir planavimo principus; reikalavimus atliekų turėtojams ir atliekų tvarkytojams; atliekų tvarkymo ekonomines ir finansines priemones; alyvos, elektros ir elektroninės įrangos, transporto priemonių, apmokestinamųjų gaminių, iš aerobiškai skaidaus plastiko pagamintų gaminių, vienkartinių plastikinių gaminių, žvejybos įrankių, kurių sudėtyje yra plastiko, ir pakuočių gamintojų, importuotojų, platintojų teises ir pareigas.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -164,13 +164,13 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „75. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Civiliniame kodekse, Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme, Lietuvos Respublikos statybos įstatyme.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. Įmonės, ketinančios vykdyti atliekų surinkimą, vežimą, atliekų apdorojimą, prekiavimą atliekomis, tarpininkavimą, įmonės, atliekų susidarymo vietoje pavojingąsias atliekas ketinančios laikyti ilgiau kaip šešis mėnesius, nepavojingąsias – ilgiau kaip vienus metus, turi registruotis Atliekų tvarkytojų registro informacinėje sistemoje. Šis reikalavimas netaikomas įmonėms, kurioms atliekų surinkimas ir (ar) vežimas nėra profesinė veikla ir jos teikia nepavojingųjų atliekų surinkimo ir (ar) vežimo paslaugą Lietuvos Respublikoje kitoms įmonėms ne dažniau kaip tris kartus per kalendorinius metus.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -196,7 +196,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 3. Įmonės, apdorojančios atliekas, turi laikytis aplinkos ministro šio straipsnio 2 dalies 1–6 punktuose išvardytoms atliekų apdorojimo veikloms nustatytų reikalavimų, įskaitant reikalavimus dėl pavojingųjų medžiagų kiekio atliekose ir išmetamųjų teršalų ribinių verčių.“
 
-\#### 5 straipsnis. 61 straipsnio pakeitimas
+## 5 straipsnis. 61 straipsnio pakeitimas
 
 Pakeisti 6^1 straipsnį ir jį išdėstyti taip:
 
@@ -218,7 +218,7 @@ Pakeisti 6^1 straipsnį ir jį išdėstyti taip:
 
 4. Atliekų tvarkytojų registro informacinės sistemos ir duomenų valdytoja – Aplinkos ministerija.“
 
-\#### 6 straipsnis. 7 straipsnio pakeitimas
+## 6 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -228,7 +228,7 @@ Pakeisti 6^1 straipsnį ir jį išdėstyti taip:
 
 „3) atliekų darytojai, atsižvelgdami į susidarančių atliekų kiekį ir (ar) rūšį, ir (ar) vykdomą veiklą, ir (ar) įmonės dydį, aplinkos ministro nustatytais atvejais.“
 
-\#### 7 straipsnis. 112 straipsnio pakeitimas
+## 7 straipsnis. 112 straipsnio pakeitimas
 
 Pakeisti 11^2straipsnį ir jį išdėstyti taip:
 
@@ -256,19 +256,19 @@ Pakeisti 11^2straipsnį ir jį išdėstyti taip:
 
 6. Šio straipsnio 1 dalyje nurodytos įmonės privalo užtikrinti, kad šio straipsnio 2 dalyje nurodytą veiklą vykdytų tik šio straipsnio 1 dalyje nurodytus reikalavimus atitinkantys asmenys.“
 
-\#### 8 straipsnis. 181 straipsnio pakeitimas
+## 8 straipsnis. 181 straipsnio pakeitimas
 
 Pakeisti 18^1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Buityje susidarančioms pavojingosioms atliekoms šio Įstatymo 7, 9, 15 ir 17 straipsnių reikalavimai netaikomi tol, kol jas priima atliekas surenkanti, šalinanti arba naudojanti įmonė, kuri turi leidimą ir (ar) yra registruota Atliekų tvarkytojų registro informacinėje sistemoje.“
 
-\#### 9 straipsnis. 20 straipsnio pakeitimas
+## 9 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Aplinkos ministerija formuoja atliekų, kurioms taikomas šis įstatymas, prevencijos ir tvarkymo valstybės politiką, reglamentuoja laikinąjį atliekų laikymą ir tvarkymą, kontroliuoja Europos Sąjungos ir Lietuvos Respublikos teisės aktuose nustatytų reikalavimų ir užduočių įgyvendinimą.“
 
-\#### 10 straipsnis. 251 straipsnio pakeitimas
+## 10 straipsnis. 251 straipsnio pakeitimas
 
 1. Pakeisti 251 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -286,7 +286,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4) Tarybos pajamos, gautos pagal šią dalį ir pervestos į valstybės biudžetą, gali būti naudojamos tik Tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms, įgyvendinamoms atliekant komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sektoriaus reguliavimą, finansuoti.“
 
-\#### 11 straipsnis. 30 straipsnio pakeitimas
+## 11 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 3 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -454,7 +454,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „19. Siekdamos komunalinių atliekų tvarkymo paslaugų kainodaroje vadovautis atliekų tvarkymo srityje taikomu principu „teršėjas moka“, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti Pakuočių ir pakuočių atliekų tvarkymo įstatymo 7^2 ir 10 straipsniuose nurodytas vienkartinių plastikinių gaminių atliekų ir šiukšlių išrinkimo ir tvarkymo finansavimo sutartis. Komunalinių atliekų sraute susidarančių vienkartinių plastikinių gaminių atliekų ir šiukšlių surinkėjus, vežėjus, apdorotojus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. Aplinkos ministras tvirtina šių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų rekomendacijas.“
 
-\#### 12 straipsnis. 301 straipsnio pakeitimas
+## 12 straipsnis. 301 straipsnio pakeitimas
 
 1. Pakeisti 301 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -472,7 +472,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „6. Reikalavimai dėl laiku nesumokėtos rinkliavos priteisimo iš rinkliavos mokėtojo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Dėl laiku nesumokėtos rinkliavos priteisimo gali būti kreipiamasi į Regionų administracinį teismą su pareiškimu išduoti teismo įsakymą.“
 
-\#### 13 straipsnis. 302 straipsnio pakeitimas
+## 13 straipsnis. 302 straipsnio pakeitimas
 
 Pakeisti 30^2 straipsnį ir jį išdėstyti taip:
 
@@ -538,13 +538,13 @@ Pakeisti 30^2 straipsnį ir jį išdėstyti taip:
 
 18. Tarybos nutarimas dėl komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo oficialiai skelbiamas Teisės aktų registre, o juo nustatyta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba įsigalioja nuo kito mėnesio pirmosios dienos.“
 
-\#### 14 straipsnis. 303 straipsnio pakeitimas
+## 14 straipsnis. 303 straipsnio pakeitimas
 
 Pakeisti 30^3 straipsnio 9 punktą ir jį išdėstyti taip:
 
 „9) derina regioninės kainos apskaičiavimo projektą su komunalinių atliekų tvarkymo regiono savivaldybėmis šio Įstatymo 30^2 straipsnyje numatyta tvarka;“.
 
-\#### 15 straipsnis. 305 straipsnio pakeitimas
+## 15 straipsnis. 305 straipsnio pakeitimas
 
 Pakeisti 30^5 straipsnį ir jį išdėstyti taip:
 
@@ -576,25 +576,25 @@ Pakeisti 30^5 straipsnį ir jį išdėstyti taip:
 
 5. Rinkliavos ar įmokos lėšos gali būti naudojamos tik regioninės kainos būtinosioms sąnaudoms finansuoti ir šio Įstatymo 302 straipsnio 9 dalyje nurodytoms savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinosioms sąnaudoms padengti.“
 
-\#### 16 straipsnis. 306 straipsnio pakeitimas
+## 16 straipsnis. 306 straipsnio pakeitimas
 
 Pakeisti 30^6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Regioniniai atliekų tvarkymo centrai, vadovaudamiesi šiame įstatyme, kituose teisės aktuose nustatyta tvarka, užtikrina reguliuojamosios veiklos komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sektoriuje efektyvumą ir sąnaudų pagrįstumą. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, vadovaudamiesi šiame įstatyme, kituose teisės aktuose nustatyta tvarka, užtikrina reguliuojamosios veiklos komunalinių atliekų tvarkymo sektoriuje efektyvumą ir sąnaudų pagrįstumą.“
 
-\#### 17 straipsnis. 309 straipsnio pakeitimas
+## 17 straipsnis. 309 straipsnio pakeitimas
 
 Pakeisti 30^9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kai nesąžiningos konkurencijos veiksmus ar vartotojų nediskriminavimo principų pažeidimą komunalinių atliekų ar komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sektoriuje pagal kompetenciją tiria Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui duodami ir atsakomybė už pažeidimus nustatoma Lietuvos Respublikos konkurencijos įstatymo nustatyta tvarka ir sąlygomis. Šiuo tikslu Taryba ir Konkurencijos taryba bendradarbiauja tarpusavyje, siekdamos efektyviai nustatyti nesąžiningos konkurencijos veiksmų ar vartotojų nediskriminavimo principų pažeidimų komunalinių atliekų ar komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sektoriuje mastą ir poveikį komunalinių atliekų tvarkymo paslaugos vartotojams ir (ar) kitiems regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojams. Regioniniai atliekų tvarkymo centrai, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai už tuos pačius pažeidimus atsako tik pagal šį įstatymą arba pagal Konkurencijos įstatymą, atsižvelgiant į nustatytą Tarybos ar Konkurencijos tarybos kompetenciją.“
 
-\#### 18 straipsnis. 31 straipsnio pakeitimas
+## 18 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vadovaudamosi šio Įstatymo 30 straipsnio 8 dalyje nurodytais reikalavimais, savivaldybių tarybos turi patvirtinti taisykles, kuriomis reglamentuojamas savivaldybės komunalinių atliekų tvarkymo sistemos organizavimas, komunalinių atliekų tvarkymo paslaugų teikimas ir užtikrinama, kad šios paslaugos atitiktų teisės aktuose, reguliuojančiuose aplinkosaugos ir visuomenės sveikatos saugos sritis, nustatytus reikalavimus ir savivaldybių bei regioninių atliekų prevencijos ir tvarkymo planų įgyvendinimą nustatančias komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sąlygas.“
 
-\#### 19 straipsnis. 311 straipsnio pakeitimas
+## 19 straipsnis. 311 straipsnio pakeitimas
 
 1. Pakeisti 311 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -604,7 +604,7 @@ Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Keičiantis rinkliavos ar įmokos dydžiui, regioniniai atliekų tvarkymo centrai, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, juridinis asmuo, savivaldybių pavedimu vykdantis komunalinių atliekų tvarkymo lėšų administravimo funkcijas, ir savivaldybė viešai savo interneto svetainėse, taip pat regioniniame laikraštyje ar kitomis visuomenės informavimo priemonėmis informuoja atliekų turėtojus apie pasikeitusias ir nustatytas rinkliavas ar įmokas.“
 
-\#### 20 straipsnis. 312 straipsnio pakeitimas
+## 20 straipsnis. 312 straipsnio pakeitimas
 
 Pakeisti 31^2 straipsnį ir jį išdėstyti taip:
 
@@ -618,29 +618,29 @@ Pakeisti 31^2 straipsnį ir jį išdėstyti taip:
 
 4. Atliekų turėtojų skundus ir ginčus tarp atliekų turėtojo ir regioninio atliekų tvarkymo centro, juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, arba komunalinių atliekų tvarkymo sistemos administratoriaus dėl teikiamos komunalinių atliekų tvarkymo paslaugos kokybės, tai yra surinkimo, vežimo, naudojimo ir šalinimo kokybės, komunalinių atliekų tvarkymo paslaugų teikimo organizavimo ne teismo tvarka nagrinėja savivaldybės vykdomoji institucija arba savivaldybės vykdomosios institucijos Vietos savivaldos įstatymo nustatyta tvarka įgaliotas asmuo. Nagrinėjami tik skundai ir ginčai, dėl kurių kreipiamasi raštu. Šioje dalyje nurodyti ginčai ir skundai nagrinėjami Viešojo administravimo įstatyme ir savivaldybės tarybos patvirtintose ginčų ir skundų nagrinėjimo taisyklėse nustatyta tvarka. Nesutinkant su savivaldybės vykdomosios institucijos Vietos savivaldos įstatyme nustatyta tvarka įgalioto asmens priimtu sprendimu arba kai sprendimas per nustatytus terminus nepriimamas, gali būti kreipiamasi į savivaldybės vykdomąją instituciją. Nesutinkant su savivaldybės vykdomosios institucijos priimtu sprendimu arba kai sprendimas per nustatytus terminus nepriimamas, savivaldybės vykdomosios institucijos sprendimas arba neveikimas gali būti skundžiamas Viešojo administravimo įstatyme nustatyta tvarka administraciniam teismui.“
 
-\#### 21 straipsnis. 313 straipsnio pripažinimas netekusiu galios
+## 21 straipsnis. 313 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 31^3 straipsnį.
 
-\#### 22 straipsnis. 321 straipsnio pakeitimas
+## 22 straipsnis. 321 straipsnio pakeitimas
 
 Pakeisti 32^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šio Įstatymo aštuntajame^1–aštuntajame^6 ir aštuntajame^11 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės ar jos įgaliotos institucijos nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą, Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis, visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.“
 
-\#### 23 straipsnis. 34 straipsnio pakeitimas
+## 23 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Programos lėšas sudaro Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą gaminių ir pakuočiųatliekomis ir mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis, taip pat lėšos, gaunamos pagal šio Įstatymo 34^1 straipsnio 7 dalyje, 34^2 straipsnio 3 dalyje, 34^5 straipsnio 2 dalyje, 34^12 straipsnio 2 dalyje, 34^16 straipsnio 2 dalyje nurodytus dokumentus, kuriais užtikrinamas atliekų tvarkymo finansavimas.“
 
-\#### 24 straipsnis. 34 straipsnio pakeitimas
+## 24 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Programos lėšas sudaro Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą gaminių ir pakuočių atliekomis ir mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis, taip pat lėšos, gaunamos pagal šio Įstatymo 34^1 straipsnio 7 dalyje, 34^2 straipsnio 3 dalyje, 34^5 straipsnio 3 dalyje, 34^12 straipsnio 2 dalyje, 34^16 straipsnio 2 dalyje nurodytus dokumentus, kuriais užtikrinamas atliekų tvarkymo finansavimas.“
 
-\#### 25 straipsnis. 341 straipsnio pakeitimas
+## 25 straipsnis. 341 straipsnio pakeitimas
 
 1. Pakeisti 341 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -654,7 +654,7 @@ Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „27. Elektros ir elektroninės įrangos atliekų tvarkytojai privalo elektros ir elektroninės įrangos atliekas surinkti atskirai, nemaišyti jų su kitomis atliekomis ar medžiagomis, tvarkyti pagal atliekų tvarkymo prioritetus ir visuomenės sveikatai saugiu būdu, taikydami elektros ir elektroninės įrangos atliekų tvarkymo geriausiai prieinamus gamybos būdus. Elektros ir elektroninės įrangos atliekų tvarkytojai, atsižvelgdami į vykdomą elektros ir elektroninės įrangos atliekų tvarkymo veiklą ir tvarkomos elektros ir elektroninės įrangos rūšis, privalo atitikti ir taikyti atitinkamus Europos standartus.“
 
-\#### 26 straipsnis. 342 straipsnio pakeitimas
+## 26 straipsnis. 342 straipsnio pakeitimas
 
 1. Pakeisti 342 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -688,7 +688,7 @@ Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Organizacija šio straipsnio 4 dalies 2–4 punktuose nurodytas sutartis dėl elektros ir elektroninės įrangos atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo 34^31 straipsnio 1 dalį turi teisę išrašyti elektros ir elektroninės įrangos atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 27 straipsnis. 343 straipsnio pakeitimas
+## 27 straipsnis. 343 straipsnio pakeitimas
 
 Pakeisti 34^3 straipsnį ir jį išdėstyti taip:
 
@@ -714,7 +714,7 @@ Pakeisti 34^3 straipsnį ir jį išdėstyti taip:
 
 4. Individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai šio straipsnio 1 dalies 2 ir 3 punktuose, 2 dalies 1 punkte nurodytas sutartis dėl elektros ir elektroninės įrangos atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo 3431 straipsnio 1 dalį turi teisę išrašyti elektros ir elektroninės įrangos atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 28 straipsnis. 344 straipsnio pakeitimas
+## 28 straipsnis. 344 straipsnio pakeitimas
 
 1. Pakeisti 344 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -748,7 +748,7 @@ Pakeisti 34^3 straipsnį ir jį išdėstyti taip:
 
 6. Buvusias 344 straipsnio 9, 10 ir 11 dalis laikyti atitinkamai 10, 11 ir 12 dalimis.
 
-\#### 29 straipsnis. 345 straipsnio pakeitimas
+## 29 straipsnis. 345 straipsnio pakeitimas
 
 Pakeisti 34^5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -764,7 +764,7 @@ Pakeisti 34^5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir 4 punktuose nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi eksploatuoti netinkamų transporto priemonių tvarkymo įkainiai, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams.“
 
-\#### 30 straipsnis. 345 straipsnio pakeitimas
+## 30 straipsnis. 345 straipsnio pakeitimas
 
 Pakeisti 34^5 straipsnį ir jį išdėstyti taip:
 
@@ -798,11 +798,11 @@ Pakeisti 34^5 straipsnį ir jį išdėstyti taip:
 
 5. Organizacija šio straipsnio 4 dalies 1, 2 ir 4 punktuose nurodytas sutartis dėl eksploatuoti netinkamų transporto priemonių tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo 3431 straipsnio 1 dalį turi teisę išrašyti eksploatuoti netinkamų transporto priemonių sutvarkymą įrodančius dokumentus.“
 
-\#### 31 straipsnis. 346 straipsnio pripažinimas netekusiu galios
+## 31 straipsnis. 346 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 34^6 straipsnį.
 
-\#### 32 straipsnis. 347 straipsnio pakeitimas
+## 32 straipsnis. 347 straipsnio pakeitimas
 
 1. Pakeisti 347 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -824,13 +824,13 @@ Pripažinti netekusiu galios 34^6 straipsnį.
 
 „4. Šio straipsnio 1 dalies 3 ir 4 punktų nuostatos netaikomos alyvą Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savo reikmėms naudojantiems gamintojams ir (ar) importuotojams.“
 
-\#### 33 straipsnis. 348 straipsnio pakeitimas
+## 33 straipsnis. 348 straipsnio pakeitimas
 
 Pakeisti 34^8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Transporto priemonių techninės priežiūros ir remonto paslaugas teikiančios įmonės privalo aplinkos ministro ir susisiekimo ministro nustatyta tvarka registruotis Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje, tikslinti įrašytus duomenis ne vėliau kaip per 5 darbo dienas pasikeitus deklaracijoje, kurios forma tvirtinama aplinkos ministro ir susisiekimo ministro, nurodytiems duomenimsar išsiregistruoti, jei registruotoje veiklos vietoje nebeteikia transporto priemonių techninės priežiūros ir remonto paslaugų, iš Vieningos gaminių, pakuočių ir atliekų apskaitos informacinės sistemos.“
 
-\#### 34 straipsnis. 3412 straipsnio pakeitimas
+## 34 straipsnis. 3412 straipsnio pakeitimas
 
 1. Pakeisti 3412 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -850,7 +850,7 @@ Pakeisti 34^8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Siekdama gauti alyvos atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo 34^25 straipsnio 1 dalyje ir 34^26 straipsnyje nurodytų dokumentų, turi turėti banko garantiją ir (ar) laidavimo draudimo sutartį, įrodančią, kad visų alyvos atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti alyvos atliekų tvarkymą pavedusių gamintojų ir (ar) importuotojų tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais alyvą, tvarkymas bus finansuojamas. Tokių dokumentų sudarymo, pateikimo ir jų reikalavimų vykdymo tvarką, banko garantijos ir (ar) laidavimo draudimo sutarties sumos apskaičiavimo atsižvelgiant į alyvos atliekų, kurios neturi vertės rinkoje arba jų vertė yra neigiama, kiekį (tonomis) ir aplinkos ministro nustatyta tvarka apskaičiuotasalyvos atliekų, kurios neturi vertės rinkoje arba jų vertė yra neigiama, surinkimo, vežimo ir naudojimo vidutines sąnaudas tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato aplinkos ministras.“
 
-\#### 35 straipsnis. 3412 straipsnio pakeitimas
+## 35 straipsnis. 3412 straipsnio pakeitimas
 
 1. Pakeisti 3412 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -880,7 +880,7 @@ Pakeisti 34^8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Organizacija šio straipsnio 3 dalyje nurodytas sutartis dėl alyvos atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo 34^31 straipsnio 1 dalį turi teisę išrašyti alyvos atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 36 straipsnis. 3413 straipsnio pakeitimas
+## 36 straipsnis. 3413 straipsnio pakeitimas
 
 1. Pakeisti 3413 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -896,7 +896,7 @@ Pakeisti 34^8 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „4. Individualiai alyvos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai šio straipsnio 1 dalyjenurodytas sutartis dėl alyvos atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo 34^31 straipsnio 1 dalį turi teisę išrašyti alyvos atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 37 straipsnis. 3414 straipsnio pakeitimas
+## 37 straipsnis. 3414 straipsnio pakeitimas
 
 Pakeisti 34^14 straipsnį ir jį išdėstyti taip:
 
@@ -906,7 +906,7 @@ Pakeisti 34^14 straipsnį ir jį išdėstyti taip:
 
 2. Aplinkos apsaugos valstybinę kontrolę atliekančių institucijų reikalavimu šio straipsnio 1 dalyje nurodytos alyvos gamintojai, importuotojai, platintojai, tokios alyvos atliekų turėtojai privalo pateikti šios alyvos techninius aprašymus ar kitus dokumentus, patvirtinančius, kad jų pagaminta, importuota, naudojama, platinama alyva atitinka šio straipsnio 1 dalyje nurodytą paskirtį ir (ar) cheminę sudėtį, ir (ar) fizikines savybes.“
 
-\#### 38 straipsnis. 3418 straipsnio pakeitimas
+## 38 straipsnis. 3418 straipsnio pakeitimas
 
 1. Pakeisti 3418 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -938,7 +938,7 @@ Pakeisti 34^14 straipsnį ir jį išdėstyti taip:
 
 „12. Šio straipsnio 1 dalies 3 punkto nuostatos netaikomos apmokestinamuosius gaminius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savo reikmėms naudojantiems gamintojams ir (ar) importuotojams.“
 
-\#### 39 straipsnis. 3418 straipsnio pakeitimas
+## 39 straipsnis. 3418 straipsnio pakeitimas
 
 1. Pakeisti 3418 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -972,7 +972,7 @@ Pakeisti 34^14 straipsnį ir jį išdėstyti taip:
 
 4) sudaryti šio Įstatymo 3419 straipsnio 3 dalies 2 punkte numatytas sutartis.“
 
-\#### 40 straipsnis. 3419 straipsnio pakeitimas
+## 40 straipsnis. 3419 straipsnio pakeitimas
 
 Pakeisti 34^19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -988,7 +988,7 @@ Pakeisti 34^19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir 4 punktuose nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi apmokestinamųjų gaminių atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų apmokestinamųjų gaminių atliekų tvarkymo užduočių įvykdymo lygio, nuostolių kompensavimo tvarka, jei, Organizacijai neįvykdžius įsipareigojimo įvykdyti Vyriausybės ar jos įgaliotos institucijos nustatytas apmokestinamųjų gaminių atliekų tvarkymo užduotis, gamintojams ir (ar) importuotojams reikėtų sumokėti mokestį už aplinkos teršimą gaminių atliekomis, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams.“
 
-\#### 41 straipsnis. 3419 straipsnio pakeitimas
+## 41 straipsnis. 3419 straipsnio pakeitimas
 
 Pakeisti 34^19 straipsnį ir jį išdėstyti taip:
 
@@ -1016,11 +1016,11 @@ Pakeisti 34^19 straipsnį ir jį išdėstyti taip:
 
 4. Organizacija šio straipsnio 3 dalies 1 punkte nurodytas sutartis dėl apmokestinamųjų gaminių atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo 3431 straipsnio 1 dalį turi teisę išrašyti apmokestinamųjų gaminių atliekų sutvarkymą įrodančius dokumentus.“
 
-\#### 42 straipsnis. 3420 straipsnio pripažinimas netekusiu galios
+## 42 straipsnis. 3420 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 34^20 straipsnį.
 
-\#### 43 straipsnis. 3422 straipsnio pakeitimas
+## 43 straipsnis. 3422 straipsnio pakeitimas
 
 1. Pakeisti 3422 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -1046,7 +1046,7 @@ Pripažinti netekusiu galios 34^20 straipsnį.
 
 „10. Organizacija ne mažiau kaip 3 procentus gautų pajamų turi skirti visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais.“
 
-\#### 44 straipsnis. 3422 straipsnio pakeitimas
+## 44 straipsnis. 3422 straipsnio pakeitimas
 
 1. Pakeisti 3422 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -1056,7 +1056,7 @@ Pripažinti netekusiu galios 34^20 straipsnį.
 
 „12. Šio straipsnio 7 dalyje nurodytoje sutartyje Organizacija turi numatyti įsipareigojimą kompensuoti Organizacijos nariams ir pavedimo davėjams nuostolius, jei jiems reikėtų sumokėti mokestį už aplinkos teršimą gaminių ar pakuočių atliekomis Organizacijai neįvykdžius šioje sutartyje numatyto sutartinio įsipareigojimo įvykdyti Vyriausybės ar jos įgaliotos institucijos nustatytas gaminių ar pakuočių atliekų tvarkymo užduotis.“
 
-\#### 45 straipsnis. 3423 straipsnio pakeitimas
+## 45 straipsnis. 3423 straipsnio pakeitimas
 
 1. Pakeisti 3423 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -1066,7 +1066,7 @@ Pripažinti netekusiu galios 34^20 straipsnį.
 
 „4. Licencijuojamos veiklos priežiūrą atliekanti institucija, konsultuodamasi su Lietuvos auditorių rūmais, turi kiekvienais metais iki vasario 15 dienos patvirtinti gamintojų ir importuotojų organizacijųveiklos patikrinimo techninę užduotį.“
 
-\#### 46 straipsnis. 3424 straipsnio pakeitimas
+## 46 straipsnis. 3424 straipsnio pakeitimas
 
 1. Pakeisti 3424 straipsnio 6 punktą ir jį išdėstyti taip:
 
@@ -1086,7 +1086,7 @@ Pripažinti netekusiu galios 34^20 straipsnį.
 
 „14) konkrečių gaminių pakuočių atliekų tvarkymo organizavimo licencija. Tokia licencija išduodama organizuoti konkrečių gaminių pakuočių atliekų atskiro surinkimo sistemą.“
 
-\#### 47 straipsnis. 3425 straipsnio pakeitimas
+## 47 straipsnis. 3425 straipsnio pakeitimas
 
 1. Pakeisti 3425 straipsnio 1 dalies 2 punkto a papunktį ir jį išdėstyti taip:
 
@@ -1096,13 +1096,13 @@ Pripažinti netekusiu galios 34^20 straipsnį.
 
 „3. Licencijos turėtojui, kurio nariai Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia ne tik transporto priemones, bet ir apmokestinamuosius gaminius ir (ar) alyvą, su šio Įstatymo 34^24 straipsnio 9 punkte nurodyta licencija gali būti išduodamos šio Įstatymo 34^24 straipsnio 1, 2 ir (ar) 3 punktuose nurodytos licencijos.“
 
-\#### 48 straipsnis. 3425 straipsnio pakeitimas
+## 48 straipsnis. 3425 straipsnio pakeitimas
 
 Pakeisti 34^25 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „1. Gaminių ar pakuočių atliekų tvarkymo organizavimo licencija (toliau – licencija) išduodama atitinkamų gaminių ar pakuočių atliekų tvarkymo organizavimo veiklai, vykdomai pagal šio Įstatymo 34^2, 34^5, 34^12, 34^16, 34^19, 34^22, 34^39 straipsniuose ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nustatytus kolektyvaus gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo reikalavimus, ir licencijas išduodančiai institucijai pateikus:“.
 
-\#### 49 straipsnis. 3426 straipsnio pakeitimas
+## 49 straipsnis. 3426 straipsnio pakeitimas
 
 1. Pakeisti 3426 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -1128,7 +1128,7 @@ Pakeisti 34^25 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti t
 
 „15) sudaryti Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 4^2 dalyje nurodytas sutartis bei šiose sutartyse ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 5^3 dalyje nustatyta tvarka finansuoti atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimą ir tvarkymą.“
 
-\#### 50 straipsnis. 3426 straipsnio pakeitimas
+## 50 straipsnis. 3426 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 3426 straipsnio 1 dalies 6 punktą.
 
@@ -1140,7 +1140,7 @@ Pakeisti 34^25 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti t
 
 „12) sudaryti šio Įstatymo 34^5 straipsnio 4 ir 5 dalyse, 34^16 straipsnio 3 ir 4 dalyse, 34^19 straipsnio 3 ir 4 dalyse nurodytas sutartis ir šiose sutartyse nustatyta tvarka finansuoti eksploatuoti netinkamų transporto priemonių, baterijų ir akumuliatorių, apmokestinamųjų gaminių (išskyrus baterijas ir akumuliatorius) atliekų tvarkymą;“.
 
-\#### 51 straipsnis. 3427 straipsnio pakeitimas
+## 51 straipsnis. 3427 straipsnio pakeitimas
 
 1. Pakeisti 3427 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -1150,7 +1150,7 @@ Pakeisti 34^25 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti t
 
 „2^1. Paaiškėjus, kad licencijoje nurodyti duomenys apie gaminius ar pakuotes, kurių atliekų tvarkymą organizuoti išduota licencija, nebeatitinka pasikeitusių gaminių ar pakuočių atliekų tvarkymo organizavimą reglamentuojančių teisės aktų nuostatų, arba pagal viešai skelbiamus duomenis pastebėjusi, kad pasikeitę licencijos turėtojo rekvizitai, licencijas išduodanti institucija ne vėliau kaip per 3 darbo dienas apie tai informuoja licencijos turėtoją ir ne vėliau kaip per 20 darbo dienų pakeičia licenciją, kad joje būtų skelbiami naujausi licencijos turėtojo rekvizitai, jos duomenys atitiktų gaminių ar pakuočių atliekų tvarkymo organizavimą reglamentuojančių teisės aktų reikalavimus.“
 
-\#### 52 straipsnis. 3428 straipsnio pakeitimas
+## 52 straipsnis. 3428 straipsnio pakeitimas
 
 1. Pakeisti 3428 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -1182,7 +1182,7 @@ Pakeisti 34^25 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti t
 
 „6. Reikalavimas įspėti licencijos turėtoją apie ketinimą stabdyti licencijos galiojimąnustatant terminą trūkumams pašalinti netaikomas, kai tokio termino nustatyti negalima, nes tai pažeistų visuomenės interesą, ir todėl licencijos galiojimas turi būti sustabdomas nedelsiant.“
 
-\#### 53 straipsnis. 3428 straipsnio pakeitimas
+## 53 straipsnis. 3428 straipsnio pakeitimas
 
 1. Pakeisti 3428 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -1192,13 +1192,13 @@ Pakeisti 34^25 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti t
 
 „1) ne trumpesnis kaip 5 darbo dienos ir ne ilgesnis kaip 20 darbo dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo sustabdymą (toliau – įspėjimas) gavimo dienos, nustačius, kad licencijos turėtojas nesilaiko šio Įstatymo 34^26straipsnio 1 dalies 3 punkte ir (ar) 4 punkte, ir (ar) 5 punkte, ir (ar) 7 punkte nurodytų licencijuojamos veiklos sąlygų, arba nustačius šio straipsnio 1 dalies 2 punkte nurodytą pažeidimą;“.
 
-\#### 54 straipsnis. 3429 straipsnio pakeitimas
+## 54 straipsnis. 3429 straipsnio pakeitimas
 
 Papildyti 34^29 straipsnį 3 dalimi:
 
 „3. Jei licencijos galiojimas panaikinamas šio straipsnio 1 dalies 3 ar 4 punkte nurodytu pagrindu, subjektui, kuriam panaikinamas licencijos galiojimas, nauja licencija gali būti išduodama ne anksčiau kaip po 6 mėnesių nuo licencijos galiojimo panaikinimo dienos.“
 
-\#### 55 straipsnis. Aštuntojo9 skirsnio pakeitimas
+## 55 straipsnis. Aštuntojo9 skirsnio pakeitimas
 
 Pakeisti aštuntąjį^9 skirsnį ir jį išdėstyti taip:
 
@@ -1206,7 +1206,7 @@ Pakeisti aštuntąjį^9 skirsnį ir jį išdėstyti taip:
 
 AŠTUNTOJO1, AŠTUNTOJO2, AŠTUNTOJO3, AŠTUNTOJO4 IR AŠTUNTOJO5 SKIRSNIŲ TAIKYMAS
 
-\#### 3430 straipsnis. Aštuntojo1, aštuntojo2, aštuntojo3, aštuntojo4 ir aštuntojo5 skirsnių taikymas
+## 3430 straipsnis. Aštuntojo1, aštuntojo2, aštuntojo3, aštuntojo4 ir aštuntojo5 skirsnių taikymas
 
 1. Šio Įstatymo aštuntojo1 skirsnio nuostatos netaikomos:
 
@@ -1238,7 +1238,7 @@ AŠTUNTOJO1, AŠTUNTOJO2, AŠTUNTOJO3, AŠTUNTOJO4 IR AŠTUNTOJO5 SKIRSNIŲ TAIK
 
 3. Šio Įstatymo aštuntojo2, aštuntojo3 ir aštuntojo5 skirsnių nuostatos netaikomos krašto apsaugos tikslams skirtoms transporto priemonėms, alyvai ir apmokestinamiesiems gaminiams (išskyrus baterijas ir akumuliatorius), kuriuos valstybės institucijos pagamina Lietuvos Respublikos teritorijoje ar įveža (importuoja) į Lietuvos Respublikos teritoriją ir naudoja savo reikmėms arba perleidžia kitoms valstybės institucijoms. Atliekos, susidariusios valstybės institucijoms naudojant išvardytus gaminius, tvarkomos šio Įstatymo 4 straipsnio 1 dalyje nustatyta tvarka.“
 
-\#### 56 straipsnis. 3431 straipsnio pakeitimas
+## 56 straipsnis. 3431 straipsnio pakeitimas
 
 1. Pakeisti 3431 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -1318,7 +1318,7 @@ c) apdorojant atskirtas netinkamas perdirbti gaminių ir (ar) pakuočių atlieka
 
 3) turi svėrimo įrenginį teritorijoje, kurioje apdorojamos komunalinės atliekos, atskiriant gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) panaudoti energijai gauti, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone.“
 
-\#### 57 straipsnis. 3432 straipsnio pakeitimas
+## 57 straipsnis. 3432 straipsnio pakeitimas
 
 1. Pakeisti 3432 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -1346,11 +1346,11 @@ c) apdorojant atskirtas netinkamas perdirbti gaminių ir (ar) pakuočių atlieka
 
 „7. Šio straipsnio 6 dalyje nurodytus referencinius skaičius, apskaičiuojant tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 4 dalyje nurodytas finansavimas, aplinkos ministras nustato trejiems kalendoriniams metams ne vėliau kaip iki einamojo trejų kalendorinių metų laikotarpio pabaigos.“
 
-\#### 58 straipsnis. 3433 ir 3434 straipsnių pripažinimas netekusiais galios
+## 58 straipsnis. 3433 ir 3434 straipsnių pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios 34^33ir 34^34straipsnius.
 
-\#### 59 straipsnis. 3435 straipsnio pakeitimas
+## 59 straipsnis. 3435 straipsnio pakeitimas
 
 1. Pakeisti 3435 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -1376,11 +1376,11 @@ Pripažinti netekusiais galios 34^33ir 34^34straipsnius.
 
 „7. Šio straipsnio 6 dalyje nurodytus referencinius skaičius, apskaičiuojant drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 4 dalyje nurodytas finansavimas, aplinkos ministras nustato trejiems kalendoriniams metams ne vėliau kaip iki einamojo trejų kalendorinių metų laikotarpio pabaigos.“
 
-\#### 60 straipsnis. 3436 ir 3437 straipsnių pripažinimas netekusiais galios
+## 60 straipsnis. 3436 ir 3437 straipsnių pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios 34^36ir 34^37straipsnius.
 
-\#### 61 straipsnis. 35 straipsnio pakeitimas
+## 61 straipsnis. 35 straipsnio pakeitimas
 
 1. Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -1390,19 +1390,19 @@ Pripažinti netekusiais galios 34^36ir 34^37straipsnius.
 
 „3.Gavus pranešimą apie Europos Komisijos Lietuvos Respublikai už Direktyvos [2008/98/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008L0098&locale=lt) 11 straipsnio 2 dalies c, d, e punktuose ir (ar) 5 dalyje nustatytų tikslų nepasiekimą atitinkamais kalendoriniais metais skirtą finansinę sankciją (toliau šioje dalyje – finansinė sankcija), savivaldybė, neįgyvendinusi Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane (toliau šioje dalyje – VAPTP) tai savivaldybei nustatytų kiekybinių užduočių, susijusių su komunalinių atliekų rūšiuojamuoju surinkimu ir perdirbimu, (toliau šioje dalyje – savivaldybės kiekybinės užduotys), prisideda prie finansinės sankcijos apmokėjimo. Kiekvienos savivaldybės prisidėjimo sumą (toliau – PS) apskaičiuoja Aplinkos ministerija pagal formulę: PS = (finansinės sankcijos suma) x (atliekų kiekis, kurio trūksta iki savivaldybės kiekybinių užduočių pasiekimo atitinkamais kalendoriniais metais, už kuriuos paskirta finansinė sankcija) / (bendras visų savivaldybių, kurios nepasiekia savivaldybės kiekybinių užduočių, atliekų kiekis, kurio trūksta iki VAPTP toms savivaldybėms nustatytų kiekybinių užduočių pasiekimo atitinkamais kalendoriniais metais, už kuriuos paskirta finansinė sankcija) x 0,8.“
 
-\#### 62 straipsnis. 351 straipsnio pakeitimas
+## 62 straipsnis. 351 straipsnio pakeitimas
 
 Pakeisti 35^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šio Įstatymo 7, 34^1, 34^2, 34^3, 34^4, 34^5, 34^6, 34^7, 34^8,34^9, 34^12, 34^13, 34^15, 34^16, 34^17, 34^18, 34^19, 34^20, 34^23, 34^25,34^27, 34^28, 34^29, 34^31, 34^32, 34^35, 34^38, 34^39 ir 34^40 straipsniuose nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu, ataskaitų teikimu, gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymu, banko garantijos ir (ar) laidavimo draudimo sutarties pateikimu, gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijavimu, vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema.“
 
-\#### 63 straipsnis. 351 straipsnio pakeitimas
+## 63 straipsnis. 351 straipsnio pakeitimas
 
 Pakeisti 35^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šio Įstatymo 7, 34^1, 34^2, 34^3, 34^4, 34^5, 34^7, 34^8,34^9, 34^12, 34^13, 34^15, 34^16, 34^17, 34^18, 34^19, 34^23, 34^25, 34^27, 34^28, 34^29, 34^31, 34^32, 34^35, 34^38, 34^39 ir 34^40 straipsniuose nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu, ataskaitų teikimu, gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymu, banko garantijos ir (ar) laidavimo draudimo sutarties pateikimu, gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijavimu, vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema.“
 
-\#### 64 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 64 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šio įstatymo 11 straipsnio 32 dalis, 46 straipsnio 4 dalis, 48 straipsnis, 49 straipsnio 4 ir 5 dalys, 57, 58, 59 ir 60 straipsniai įsigalioja 2025 m. gruodžio 31 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7DEEB4C9EE2F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7DEEB4C9EE2F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 19 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6), Nr. [61-1527](https://www.e-tar.lt/portal/lt/legalAct/TAR.9761FC251F63); 1997, Nr. [33-809](https://www.e-tar.lt/portal/lt/legalAct/TAR.766F69D3E8D2); 1998, Nr. [114-3188](https://www.e-tar.lt/portal/lt/legalAct/TAR.18C5908A6316); 2000, Nr. [28-759](https://www.e-tar.lt/portal/lt/legalAct/TAR.D7491F2A71FE); 2002, Nr. [65-2632](https://www.e-tar.lt/portal/lt/legalAct/TAR.013EB8EE4545))
 
-\#### 1 straipsnis. 19 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 19 straipsnio 3 dalies pakeitimas
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/2cf13750d9b111f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2CF13750D9B1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 5, 10, 11 ir 12 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 5, 10, 11 IR 12 STRAIPSNIŲ
 
 Vilnius
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Fiziniai asmenys, kurie verčiasi individualia žemės ūkio veikla, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 4 ekonominio dydžio vienetams arba didesnis, (toliau – ūkininkai), šeimynos dalyviai ir asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžiama Gyventojų pajamų mokesčio įstatyme, išskyrus tuos, kurie nurodyti šio straipsnio 3 dalyje, draudžiami pensijų, ligos ir motinystės socialiniu draudimu. Individualių įmonių savininkai, mažųjų bendrijų nariai, tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrieji nariai draudžiami pensijų, ligos, motinystės, nedarbo socialiniu draudimu, gavę šio įstatymo 10 straipsnio 3 dalyje numatytas pajamas.“
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „9. Apdraustųjų asmenų, nurodytų šio įstatymo 4 straipsnyje, socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, taip pat draudėjų už kiekvieną jų apdraustąjį asmenį, nurodytą šio įstatymo 4 straipsnyje, mokamos socialinio draudimo įmokos pagal Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu patvirtintus tarifus skaičiuojamos nuo sumos, ne didesnės kaip 60 VDU, o šią sumą viršijančiai pajamų daliai taikomas 0 procentų įmokų tarifas. Apskaičiavus pagal Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu patvirtintus tarifus vienos iš socialinio draudimo rūšies socialinio draudimo įmokas nuo šioje dalyje nurodytos maksimalios sumos, toliau pagal tuos tarifus skaičiuojamos tik kitų socialinio draudimo rūšių socialinio draudimo įmokos, iki bus pasiekta maksimali atitinkamų kalendorinių metų atitinkamos socialinio draudimo rūšies įmokų suma.“
 
-\#### 3 straipsnis. 11 straipsnio pakeitimas
+## 3 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 17 punktą ir jį išdėstyti taip:
 
@@ -60,13 +60,13 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3. Individualių įmonių savininkai, mažųjų bendrijų nariai, tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrieji nariai, ūkininkai ir asmenys, vykdantys individualią veiklą, kaip ji apibrėžiama Gyventojų pajamų mokesčio įstatyme, vienus metus nuo pirmosios veiklos pradžios socialinio draudimo įmokų gali nemokėti. Pirmosios veiklos pradžia laikoma diena, kurią po 2018 m. sausio 1 d. asmuo pirmą kartą tampa savarankiškai dirbančiu asmeniu. Šios dalies nuostata taikoma ir asmenims, kurie po 2018 m. sausio 1 d. per ne trumpesnį kaip dešimties metų laikotarpį nebuvo savarankiškai dirbančiais asmenimis.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Individualių įmonių savininkų, mažųjų bendrijų narių, tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrųjų narių ir šeimynos dalyvių socialinio draudimo įmokos mokamos kartą per mėnesį ne vėliau kaip iki einamojo mėnesio paskutinės dienos. Kiti šio įstatymo 5 straipsnio 2 dalyje nurodyti asmenys turi teisę skaičiuoti ir mokėti socialinio draudimo įmokas avansu ir mokėti jas kartą per mėnesį ne vėliau kaip iki einamojo mėnesio paskutinės dienos. Ūkininkų, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymą ir kurie nedeklaruoja individualios žemės ūkio veiklos pajamų, mėnesio socialinio draudimo įmokos apskaičiuojamos ir sumokamos nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Socialinio draudimo įmokos (sumokėtų įmokų ir mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens pajamų, gautų praėjusiais metais, turi būti sumokėtos iki metinės pajamų mokesčio deklaracijos pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 2 straipsnio 1 ir 2 dalis bei šio straipsnio 5 dalį, įsigalioja 2026 m. sausio 1 d.
 

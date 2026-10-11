@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FAEACBBB325"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FAEACBBB325.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde didinimo įstatymas
@@ -24,11 +24,11 @@ LIETUVOS RESPUBLIKOS KVOTOS TARPTAUTINIAME VALIUTOS FONDE DIDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Pritarimas Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde didinimui
+## 1 straipsnis. Pritarimas Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde didinimui
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 128 straipsniu, pritaria Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde didinimui nuo 183,9 mln. specialiųjų skolinimosi teisių (toliau – SST) iki 441,6 mln. SST.
 
-\#### 2 straipsnis. Lietuvos Respublikos finansinių įsipareigojimų, susijusių su Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde didinimu, vykdymas
+## 2 straipsnis. Lietuvos Respublikos finansinių įsipareigojimų, susijusių su Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde didinimu, vykdymas
 
 Lietuvos Respublikos Vyriausybė, vadovaudamasi Tarptautinio valiutos fondo steigimo sutarties III straipsnio 3 ir 4 dalimis, vykdo Lietuvos Respublikos finansinius įsipareigojimus, susijusius su Lietuvos Respublikos kvotos Tarptautiniame valiutos fonde padidinimu 257,7 mln. SST, ir tam tikslui:
 

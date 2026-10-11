@@ -10,8 +10,8 @@ in_force_from: 2023-05-31
 status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ffe3e680fea811ed9978886e85107ab2"
-text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FFE3E680FEA8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/ffe3e680fea811ed9978886e85107ab2.md"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytos 1994 m. rugpjūčio 9 d., pakeitimo protokolo ratifikavimo
@@ -25,3 +25,15 @@ DĖL LIETUVOS RESPUBLIKOS IR KAZACHSTANO RESPUBLIKOS SUTARTIES DĖL TEISINĖS PA
 2023 m. gegužės 23 d. Nr. XIV-1977
 
 Vilnius
+
+## 1 straipsnis. Sutarties pakeitimo protokolo ratifikavimas
+
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2023 m. balandžio 14 d. dekretą Nr. 1K-1303 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytos 1994 m. rugpjūčio 9 d., pakeitimo protokolą“, ratifikuoja 2022 m. rugpjūčio 31 d. Vilniuje pasirašytą Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytos 1994 m. rugpjūčio 9 d., pakeitimo protokolą (toliau – Protokolas).
+
+## 2 straipsnis. Lietuvos Respublikos pareiškimas
+
+Seimas, vadovaudamasis Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytos 1994 m. rugpjūčio 9 d., 4 straipsniu, pakeistu Protokolo 1 straipsniu, pareiškia, kad Lietuvos Respublikos centrinėmis institucijomis skiriamos Lietuvos Respublikos teisingumo ministerija ir Lietuvos Respublikos generalinė prokuratūra.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+Respublikos Prezidentas Gitanas Nausėda

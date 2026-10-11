@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D43A4B2B2DB8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D43A4B2B2DB8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 9, 21, 23 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr .14-352)
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekusiu galios, pakeisti 2 dalies 11 punktą, 9–14 punktus laikyti 8–13 punktais ir visą straipsnį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekus
 
 13) atlieka kitas Kultūros ministerijos pavestas funkcijas.“
 
-\#### 2 straipsnis. 21 straipsnio pakeitimas
+## 2 straipsnis. 21 straipsnio pakeitimas
 
 21 straipsnio 1 dalį pripažinti netekusia galios, pakeisti 2 dalį, 2–4 dalis laikyti 1–3 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekus
 
 3. Konservavimo ir restauravimo tvarką nustato Kultūros ministerija, o kontroliuoja, kaip jos laikomasi, Kultūros vertybių apsaugos departamentas.“
 
-\#### 3 straipsnis. 23 straipsnio pakeitimas
+## 3 straipsnis. 23 straipsnio pakeitimas
 
 23 straipsnio 1 dalį pripažinti netekusia galios, 2–5 dalis laikyti 1–4 dalimis ir visą straipsnį išdėstyti taip:
 

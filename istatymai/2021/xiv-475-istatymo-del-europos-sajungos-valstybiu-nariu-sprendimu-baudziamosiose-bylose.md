@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/25eee810d9a411eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25EEE810D9A4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 3, 4, 5, 6, 7, 11, 12, 14, 17, 18, 20, 21, 22, 23, 24, 26, 37, 43, 52, 67, 74 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymo Nr. XIII-3349 pavadinimo ir 22, 23 straipsnių pakeitimo įstatymas

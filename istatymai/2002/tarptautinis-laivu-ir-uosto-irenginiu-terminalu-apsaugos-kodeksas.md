@@ -9,7 +9,7 @@ status: in_force
 issuer: "Tarptautinius dokumentus pasirašiusios šalys"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7E0CBE846565"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/TAR.7E0CBE846565.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Tarptautinis laivų ir uosto įrenginių (terminalų) apsaugos kodeksas

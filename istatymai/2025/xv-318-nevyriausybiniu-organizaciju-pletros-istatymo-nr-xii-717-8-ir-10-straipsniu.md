@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3e15c35055c411f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3E15C35055C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 8 ir 10 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ NEVYRIAUSYBINIŲ ORGANIZACIJŲ PLĖTROS ĮSTATYMO NR. XII-717 8 IR 10 STRAIPSNI�
 
 Vilnius
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „3. Vyriausybės įgaliota institucija, vertindama nevyriausybinės organizacijos, siekiančios būti pripažinta viešosios naudos nevyriausybine organizacija, veiklą, įvertina jos įstatus, Juridinių asmenų registro duomenų tvarkytojui pateiktas 2 paskutinių finansinių metų, kurių ataskaitų pateikimo terminas jau suėjęs, veiklos ataskaitas ir metinių finansinių ataskaitų rinkinius arba metines ataskaitas ir pateiktus 1 praėjusių kalendorinių metų veiklos socialinio poveikio rezultatus, jeigu nevyriausybinės organizacijos pagrindinis tikslas – teikti viešąsias paslaugas.“
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „7) juridinis asmuo savo interneto svetainėje (jeigu ją turi) viešai neskelbia informacijos apie įgyvendinamus ir įgyvendintus projektus.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2025 m. rugpjūčio 1 d.
 

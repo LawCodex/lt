@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62CBCCAAFBBD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62CBCCAAFBBD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 2, 3, 6, 25 straipsnių ir priedo pakeitimo ir papildymo, Įstatymo papildymo 6-1 straipsniu įstatymas
@@ -26,19 +26,19 @@ Vilnius
 
 (Žin., 1998, Nr. [112-3100](https://www.e-tar.lt/portal/lt/legalAct/TAR.746227138BCB); 2002, Nr. [68-2761](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F624633BA4A); 2005, Nr. [88-3281](https://www.e-tar.lt/portal/lt/legalAct/TAR.677003A820B9); 2007, Nr. [140-5755](https://www.e-tar.lt/portal/lt/legalAct/TAR.C1C8B48C1A4D); 2008, Nr. [75-2923](https://www.e-tar.lt/portal/lt/legalAct/TAR.0477A626B71A))
 
-\#### 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 4 dalies pakeitimas
 
 Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. **Tiesioginė diskriminacija** – ne toks palankus asmens traktavimas dėl lyties, negu panašiomis aplinkybėmis yra, buvo ar būtų traktuojamas kitas asmuo.“
 
-\#### 2 straipsnis. 3 straipsnio papildymas 4 punktu
+## 2 straipsnis. 3 straipsnio papildymas 4 punktu
 
 Papildyti 3 straipsnį 4 punktu:
 
 „4) teikiant administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių teisių.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Moterų ir vyrų lygių teisių pažeidimu laikomi bet kokie veiksmai ar kitoks 
 
 8) prekių pardavimą ar paslaugų teikimą vien tik ar visų pirma vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.“
 
-\#### 4 straipsnis. Įstatymo papildymas 61 straipsniu
+## 4 straipsnis. Įstatymo papildymas 61 straipsniu
 
 Papildyti Įstatymą 6^1 straipsniu:
 
@@ -78,7 +78,7 @@ Darbdavio veiksmai yra pripažįstami pažeidžiančiais moterų ir vyrų lygias
 
 4) persekioja darbuotoją, darbuotojo atstovą, darbuotoją, liudijantį ar teikiantį paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos lyties pagrindu.“
 
-\#### 5 straipsnis. 25 straipsnio pakeitimas
+## 5 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 3. Asmenys, trukdantys lygių galimybių kontrolieriui atlikti pareigas, atsako pagal įstatymus.“
 
-\#### 6 straipsnis. Įstatymo priedo papildymas 7 punktu
+## 6 straipsnis. Įstatymo priedo papildymas 7 punktu
 
 Papildyti Įstatymo priedą 7 punktu:
 

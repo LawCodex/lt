@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/34499bb29eaf11f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.34499BB29EAF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, 18 straipsnių ir III skyriaus pakeitimo įstatymas
@@ -26,7 +26,7 @@ ATITIKTIES VERTINIMO ĮSTATYMO NR. VIII-870 6, 15, 17, 18 STRAIPSNIŲ IR III SKY
 
 Vilnius
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas
+## 1 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „2. Nacionalinė akreditacijos įstaiga atlieka šias funkcijas:“.
 
-\#### 2 straipsnis. III skyriaus pakeitimas
+## 2 straipsnis. III skyriaus pakeitimas
 
 Pakeisti III skyrių ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti III skyrių ir jį išdėstyti taip:
 
 AKREDITAVIMO PROCESAS
 
-\#### 9 straipsnis. Akreditavimo pažymėjimų išdavimas. Akredituotų atitikties vertinimo įstaigų priežiūra
+## 9 straipsnis. Akreditavimo pažymėjimų išdavimas. Akredituotų atitikties vertinimo įstaigų priežiūra
 
 1. Atitikties vertinimo įstaiga paraišką dėl akreditavimo bei paraišką dėl akreditavimo srities išplėtimo (toliau kartu – paraiška) ir prašymą dėl akreditavimo srities susiaurinimo, akreditavimo pažymėjimo galiojimo sustabdymo, akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo, akreditavimo pažymėjimo galiojimo panaikinimo, akreditavimo pažymėjimo keitimo (toliau kartu – prašymas) nacionalinei akreditacijos įstaigai pateikia elektroninėmis priemonėmis arba kreipdamasi tiesiogiai. Paraiškos ir prašymai nagrinėjami šiame įstatyme ir procedūriniuose akreditavimo dokumentuose nustatyta tvarka.
 
@@ -96,7 +96,7 @@ AKREDITAVIMO PROCESAS
 
 12. Apie priimtą sprendimą išduoti akreditavimo pažymėjimą arba apie priimtą sprendimą atsisakyti išduoti akreditavimo pažymėjimą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-\#### 10 straipsnis. Paraiškos atmetimas, vertinimo proceso nutraukimas
+## 10 straipsnis. Paraiškos atmetimas, vertinimo proceso nutraukimas
 
 1. Atitikties vertinimo įstaigos paraiška atmetama, kai:
 
@@ -116,7 +116,7 @@ AKREDITAVIMO PROCESAS
 
 3. Apie priimtą sprendimą atmesti paraišką arba nutraukti vertinimo procesą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-\#### 11 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymas
+## 11 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymas
 
 1. Akreditavimo pažymėjimų galiojimas sustabdomas:
 
@@ -132,7 +132,7 @@ AKREDITAVIMO PROCESAS
 
 4. Apie priimtą sprendimą sustabdyti akreditavimo pažymėjimo galiojimą nacionalinė akreditacijos įstaiga informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-\#### 12 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymo panaikinimas
+## 12 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymo panaikinimas
 
 1. Akreditavimo pažymėjimo galiojimo sustabdymas panaikinamas, kai atitikties vertinimo įstaiga pateikia prašymą kartu su šio straipsnio 2 dalyje nurodyta informacija ir nacionalinė akreditacijos įstaiga, šios informacijos pagrindu atlikusi vertinimą procedūriniuose akreditavimo dokumentuose nustatyta tvarka, nustato, kad atitikties vertinimo įstaiga atitinka jai taikomus reikalavimus.
 
@@ -148,7 +148,7 @@ AKREDITAVIMO PROCESAS
 
 4. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos ir nurodo tokio sprendimo pagrindą.
 
-\#### 13 straipsnis. Akreditavimo pažymėjimų galiojimo panaikinimas
+## 13 straipsnis. Akreditavimo pažymėjimų galiojimo panaikinimas
 
 1. Akreditavimo pažymėjimo galiojimas panaikinamas:
 
@@ -168,7 +168,7 @@ AKREDITAVIMO PROCESAS
 
 3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-\#### 14 straipsnis. Akreditavimo srities susiaurinimas ir išplėtimas, akreditavimo pažymėjimų keitimas
+## 14 straipsnis. Akreditavimo srities susiaurinimas ir išplėtimas, akreditavimo pažymėjimų keitimas
 
 1. Akredituotos atitikties vertinimo įstaigos akreditavimo sritis susiaurinama:
 
@@ -190,13 +190,13 @@ AKREDITAVIMO PROCESAS
 
 4. Apie priimtą sprendimą susiaurinti ar išplėsti akreditavimo sritį, pakeisti akreditavimo pažymėjimą nacionalinė akreditacijos įstaiga informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Akreditavimo siekiančios arba akredituotos atitikties vertinimo įstaigos išlaidas, susijusias su jų atitikties vertinimu ir akreditavimu, apmoka pagal Vyriausybės nustatyta tvarka apskaičiuojamus ir nacionalinės akreditacijos įstaigos laikantis šios tvarkos tvirtinamus įkainius.“
 
-\#### 4 straipsnis. 17 straipsnio pakeitimas
+## 4 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -204,7 +204,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Apie visus nacionalinės akreditacijos įstaigos sprendimus, priimtus pagal šį įstatymą, atitikties vertinimo įstaigoms pranešama elektroninėmis priemonėmis šių įstaigų nurodytu elektroninio pašto adresu.“
 
-\#### 5 straipsnis. 18 straipsnio pakeitimas
+## 5 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -216,7 +216,7 @@ Nacionalinės akreditacijos įstaigos sprendimai, priimti pagal šį įstatymą,
 
 2) administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

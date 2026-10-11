@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.16DE749576B5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.16DE749576B5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Seimo nutarimo "Dėl 1957 m. gruodžio 13 d. Europos konvencijos dėl ekstradicijos, 1975 m. spalio 15 d. Europos konvencijos dėl ekstradicijos papildomo protokolo ir 1978 m. kovo 17 d. Europos konvencijos dėl ekstradicijos antrojo papildomojo protokolo ratifikavimo" 2 punkto papildymo
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. 34-819)
 
-\#### 1 straipsnis. 2 punkto papildymas
+## 1 straipsnis. 2 punkto papildymas
 
 Papildyti 2 punktą šiuo pareiškimu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9C8B639E7C00"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9C8B639E7C00.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 13, 23 ir 24 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2003, Nr. 91^1-4106; 2004, Nr. [169-6215](https://www.e-tar.lt/portal/lt/legalAct/TAR.86209F68A21F))
 
-\#### 1 straipsnis. 13 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 1 straipsnis. 13 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -62,7 +62,7 @@ ginti Lietuvos valstybę, jos laisvę ir nepriklausomybę.“
 
 2. 13 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 23 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 2 straipsnis. 23 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 l. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ pasižadu būti doras ir garbingas Lietuvos karys.“
 
 2. 23 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 24 straipsnio 2 ir 3 dalių pakeitimas
+## 3 straipsnis. 24 straipsnio 2 ir 3 dalių pakeitimas
 
 l. Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 

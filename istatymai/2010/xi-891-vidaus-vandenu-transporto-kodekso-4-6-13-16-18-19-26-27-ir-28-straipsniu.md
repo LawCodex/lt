@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B5186A7469BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B5186A7469BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 4, 6, 13, 16, 18, 19, 26, 27 ir 28 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [105-2393](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F); 2000, Nr. [75-2267](https://www.e-tar.lt/portal/lt/legalAct/TAR.6E0FCC1A8975), Nr. [85-2585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AF91E2599F0); 2001, Nr. [39-1359](https://www.e-tar.lt/portal/lt/legalAct/TAR.51335015B53C); 2002, Nr. [123-5510](https://www.e-tar.lt/portal/lt/legalAct/TAR.610AFB0427D6); 2005, Nr. [72-2589](https://www.e-tar.lt/portal/lt/legalAct/TAR.0C065743BD9B); 2008, Nr. [134-5177](https://www.e-tar.lt/portal/lt/legalAct/TAR.DFCF664927C1); 2010, Nr. [41-1943](https://www.e-tar.lt/portal/lt/legalAct/TAR.1F3FD07097CB))
 
-\#### 1 straipsnis. 4 straipsnio 1 ir 4 dalių pakeitimas
+## 1 straipsnis. 4 straipsnio 1 ir 4 dalių pakeitimas
 
 1. 4 straipsnio 1 dalyje vietoj žodžių „Valstybinė vidaus vandenų laivybos inspekcija“ įrašyti žodžius „Lietuvos saugios laivybos administracija“ ir šią dalį išdėstyti taip:
 
@@ -34,13 +34,13 @@ Vilnius
 
 „4. Lietuvos saugios laivybos administracija nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus,atlieka vidaus vandenų transporto veiklą reglamentuojančių teisės aktų vykdymo kontrolę ir vykdo kitas funkcijas, nustatytas šiame kodekse ir kituose teisės aktuose.“
 
-\#### 2 straipsnis. 6 straipsnio 7 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio 7 dalies pakeitimas
 
 Pakeisti 6 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Lietuvos saugios laivybos administracija atlieka vidaus vandenų kelių būklės ir juose esančių navigacinių įrenginių funkcionavimo valstybinę kontrolę.“
 
-\#### 3 straipsnis. 13 straipsnio 5, 6, 7 ir 8 dalių pakeitimas
+## 3 straipsnis. 13 straipsnio 5, 6, 7 ir 8 dalių pakeitimas
 
 1. Pakeisti 13 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 6 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „8. Vidaus vandenų uostų kapitonus steigėjo teikimu tvirtina Lietuvos saugios laivybos administracija.“
 
-\#### 4 straipsnis. 16 straipsnio 5, 6 ir 8 dalių pakeitimas
+## 4 straipsnis. 16 straipsnio 5, 6 ir 8 dalių pakeitimas
 
 1. 16 straipsnio 5 dalyje vietoj žodžių „Valstybinė vidaus vandenų laivybos inspekcija“ įrašyti žodžius „Lietuvos saugios laivybos administracija“ ir šią dalį išdėstyti taip:
 
@@ -72,13 +72,13 @@ Pakeisti 6 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „8. Lietuvos Respublikos vidaus vandenų laivųregistre įregistruotų vidaus vandenų transporto priemonių žurnalus registruoja, statybos, pertvarkymo, modernizavimo dokumentus ir brėžinius tvirtina, jų ekspertizę atlieka Lietuvos saugios laivybos administracija. Lietuvos saugios laivybos administracija atlieka vykdomų vidaus vandenų transporto priemonių statybos, pertvarkymo, rekonstrukcijos ar remonto darbų techninę priežiūrą.“
 
-\#### 5 straipsnis. 18 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 18 straipsnio 3 dalies pakeitimas
 
 18 straipsnio 3 dalyje vietoj žodžių „Valstybinė vidaus vandenų laivybos inspekcija“ įrašyti žodžius „Lietuvos saugios laivybos administracija“ ir šią dalį išdėstyti taip:
 
 „3. Vidaus vandenų transporto specialistus ir motorinių pramoginių laivų laivavedžius pagal susisiekimo ministro patvirtintas programas rengia susisiekimo ministro nustatyta tvarka akredituotos mokymo įstaigos, įmonės ar organizacijos. Juos egzaminuoja ir vidaus vandenų transporto specialisto laipsnio diplomus, diplomų patvirtinimus, vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių dokumentų dublikatus susisiekimo ministro nustatyta tvarka išduoda Lietuvos saugios laivybos administracija.“
 
-\#### 6 straipsnis. 19 straipsnio pakeitimas
+## 6 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 4. Burinių jachtų laivavedžių diplomus ir kitus pažymėjimus išduoda Lietuvos buriuotojų sąjungos patvirtintos kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų išdavimo sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo taisyklės, kurias, suderinusi su Lietuvos saugios laivybos administracija, tvirtina Lietuvos buriuotojų sąjunga.“
 
-\#### 7 straipsnis. 26 straipsnio pakeitimas
+## 7 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 2. Lietuvos saugios laivybos administracijos pareigūnai, įtarę, kad vidaus vandenų transporto priemonę vairuojantis asmuo yra neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, turi nušalinti jį nuo vidaus vandenų transporto priemonės vairavimo, specialiosiomis techninėmis priemonėmis jį patikrinti arba Vyriausybės nustatyta tvarka siųsti neblaivumui (girtumui) arba apsvaigimui nuo psichiką veikiančių medžiagų nustatyti.“
 
-\#### 8 straipsnis. 27 straipsnio pakeitimas
+## 8 straipsnis. 27 straipsnio pakeitimas
 
 27 straipsnyje vietoj žodžių „Valstybinė vidaus vandenų laivybos inspekcija“ įrašyti žodžius „Lietuvos saugios laivybos administracija“ ir šį straipsnį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 Lietuvos Respublikos vidaus vandenyse įvykusias avarijas susisiekimo ministro nustatyta tvarka registruoja ir tiria Lietuvos saugios laivybos administracija.“
 
-\#### 9 straipsnis. 28 straipsnio pakeitimas
+## 9 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 Už Susisiekimo ministerijos ir Lietuvos saugios laivybos administracijos veiksmus, susijusius su šiame kodekse numatytų atitinkamų dokumentų išdavimu, mokama nustatyto dydžio valstybės rinkliava.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
 

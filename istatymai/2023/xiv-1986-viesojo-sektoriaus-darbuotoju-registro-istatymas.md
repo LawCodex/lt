@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/47baaac006bf11ee9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.47BAAAC006BF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus darbuotojų registro įstatymas
@@ -26,11 +26,11 @@ VIEŠOJO SEKTORIAUS DARBUOTOJŲ REGISTRO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato Viešojo sektoriaus darbuotojų registro (toliau – Registras) statusą, paskirtį, steigimo tvarką, Registro valdytoją, Registro tvarkytojų skyrimo tvarką, Registro objektus, Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų (toliau – Registro duomenys) tvarkymą, Registro finansavimo šaltinius, reorganizavimo ir likvidavimo tvarką.
 
-\#### 2 straipsnis. Registro statusas ir paskirtis
+## 2 straipsnis. Registro statusas ir paskirtis
 
 1. Registras yra valstybės registras.
 
@@ -44,19 +44,19 @@ Vilnius
 
 3. Registro duomenų pagrindu sudaromi ir vidaus reikalų ministro nustatyta tvarka išduodami šio įstatymo 5 straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nurodytų asmenų elektroninės atpažinties ir kvalifikuoto elektroninio parašo sertifikatai, jeigu jie reikalingi šiems asmenims tarnybos (darbo) funkcijoms atlikti. Asmens elektroninės atpažinties sertifikate naudojamas asmens kodas.
 
-\#### 3 straipsnis. Registro steigimas
+## 3 straipsnis. Registro steigimas
 
 1. Registras steigiamas reorganizuojant Valstybės tarnautojų registrą ir Vidaus reikalų pareigūnų registrą, juos sujungiant.
 
 2. Registro nuostatus tvirtina ir Registro veiklos pradžią nustato Lietuvos Respublikos Vyriausybė.
 
-\#### 4 straipsnis. Registro valdytojas ir tvarkytojai
+## 4 straipsnis. Registro valdytojas ir tvarkytojai
 
 1. Registro valdytoja ir asmens duomenų valdytoja yra Lietuvos Respublikos vidaus reikalų ministerija.
 
 2. Registro tvarkytojai skiriami Vyriausybės nutarimu, kuriuo tvirtinami Registro nuostatai.
 
-\#### 5 straipsnis. Registro objektai ir duomenys
+## 5 straipsnis. Registro objektai ir duomenys
 
 1. Registro objektai yra:
 
@@ -74,7 +74,7 @@ Vilnius
 
 2. Valstybės ar tarnybos paslapties kategorijai priskirtini duomenys Registrui neteikiami ir jame netvarkomi.
 
-\#### 6 straipsnis. Registro duomenų tvarkymas
+## 6 straipsnis. Registro duomenų tvarkymas
 
 1. Registro duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Registro nuostatais, kitais Lietuvos Respublikos ir Europos Sąjungos teisės aktais.
 
@@ -82,15 +82,15 @@ Vilnius
 
 3. Registro duomenų teikimo pakartotinai naudoti sąlygos nustatomos Registro nuostatuose.
 
-\#### 7 straipsnis. Registro finansavimas
+## 7 straipsnis. Registro finansavimas
 
 Registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos struktūrinių fondų lėšų ir kitų Registro nuostatuose nustatytų finansavimo šaltinių.
 
-\#### 8 straipsnis. Registro reorganizavimas ir likvidavimas
+## 8 straipsnis. Registro reorganizavimas ir likvidavimas
 
 Registras reorganizuojamas ir likviduojamas Valstybės informacinių išteklių valdymo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. sausio 1 d.
 

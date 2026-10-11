@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.33907EA7C2DC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.33907EA7C2DC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymas
@@ -28,15 +28,15 @@ Vilnius
 
 (Žin., 2004, Nr. [4-27](https://www.e-tar.lt/portal/lt/legalAct/TAR.C7A984833333))
 
-\#### 1 straipsnis. Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą ir jį išdėstyti taip:
 
 „LIETUVOS RESPUBLIKOS GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
+## 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
 1. Šis įstatymas nustato valstybės institucijų ir įstaigų teises bei pareigas formuojant ir įgyvendinant geležinkelių transporto eismo saugos politiką; reikalavimus geležinkelių infrastruktūros valdytojams ir geležinkelio įmonėms (vežėjams) geležinkelių transporto eismo saugos srityje; geležinkelių infrastruktūros ir geležinkelių riedmenų naudojimo, valdymo ir priežiūros, geležinkelių transporto eismo organizavimo ir valdymo bendruosius principus; geležinkelių transporto eismo įvykių tyrimo tvarką, reikalavimus darbuotojams, kurių darbas susijęs su geležinkelių transporto eismu, ir kitiems asmenims; asmenų atsakomybę už šio įstatymo pažeidimus, siekiant apsaugoti asmenų gyvybę, sveikatą ir turtą, gerinti geležinkelių transporto eismo sąlygas, taip pat mažinti neigiamą poveikį aplinkai ir užtikrinti bendrųjų geležinkelių transporto eismo saugos tikslų įgyvendinimą.
 
@@ -44,7 +44,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 3. Šio įstatymo nuostatos yra suderintos su jo priede pateiktais Europos Sąjungos teisės aktais.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Agentūra – Europos geležinkelių agentūra (Bendrijos geležinkelių transporto eismo saugos ir sąveikos agentūra).
 
@@ -92,7 +92,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 23. Kitos šiame įstatyme vartojamos sąvokos paaiškintos Geležinkelių transporto kodekse ir Transporto veiklos pagrindų įstatyme bei kituose įstatymuose.
 
-\#### 3 straipsnis. Geležinkelių transporto eismo organizavimo tvarka
+## 3 straipsnis. Geležinkelių transporto eismo organizavimo tvarka
 
 1. Geležinkelių transporto eismo tvarką reglamentuoja TSS, traukinių eismo grafikas, Techninio geležinkelių naudojimo nuostatai (toliau – Nuostatai), Geležinkelių eismo taisyklės, Geležinkelių signalizacijos taisyklės, patvirtintos Lietuvos Respublikos susisiekimo ministro, ir kitos nacionalinės eismo saugos taisyklės.
 
@@ -104,7 +104,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 5. Darbuotojai, kurių darbas susijęs su geležinkelių transporto eismu, ir valstybės institucijų (muitinės, Valstybės sienos apsaugos tarnybos, policijos ir kt.) pareigūnai jiems priskirtas funkcijas traukinių eismo metu privalo atlikti nustatytu laiku, nepažeisdami traukinių eismo grafiko, jeigu įstatymai ir kiti teisės aktai nenustato kitaip.
 
-\#### 4 straipsnis. Nacionalinės eismo saugos taisyklės
+## 4 straipsnis. Nacionalinės eismo saugos taisyklės
 
 1. Nacionalinių eismo saugos taisyklių sąrašą tvirtina Lietuvos Respublikos susisiekimo ministras. Šis sąrašas pateikiamas Europos Komisijai.
 
@@ -116,9 +116,9 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 5. Nacionalinių eismo saugos taisyklių, kuriomis nustatomas aukštesnis eismo saugos lygis, nei reikalingas pagal bendruosius eismo saugos tikslus, ar kurios gali turėti įtakos kitų Europos Sąjungos valstybių narių geležinkelio įmonių (vežėjų) veiklai Lietuvos Respublikos teritorijoje, projektus, nurodydama šių projektų inicijavimo priežastis, Lietuvos Respublikos susisiekimo ministerija teikia nagrinėti Europos Komisijai, prieš tai pasikonsultavusi su visomis suinteresuotomis šalimis teisės aktų nustatyta tvarka.
 
-\## II SKYRIUS. EISMO SAUGOS VALDYMO SISTEMA
+II SKYRIUS. EISMO SAUGOS VALDYMO SISTEMA
 
-\#### 5 straipsnis. Eismo saugos valdymas
+## 5 straipsnis. Eismo saugos valdymas
 
 1. Eismo saugos politiką formuoja Lietuvos Respublikos Vyriausybė. Šios politikos įgyvendinimą koordinuoja Lietuvos Respublikos susisiekimo ministerija.
 
@@ -126,7 +126,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 3. Eismo saugą užtikrina geležinkelių infrastruktūros valdytojai, geležinkelio įmonės (vežėjai) ir asmenys, kurių veikla susijusi su geležinkelių transporto eismu.
 
-\#### 6 straipsnis. Eismo saugos institucija
+## 6 straipsnis. Eismo saugos institucija
 
 1. Eismo saugos institucija yra biudžetinė įstaiga. Ji atlieka šias funkcijas:
 
@@ -212,7 +212,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 15. Eismo saugos institucijos funkcijas atlieka Valstybinė geležinkelių inspekcija prie Susisiekimo ministerijos.
 
-\#### 7 straipsnis. Eismo saugos valdymo sistema
+## 7 straipsnis. Eismo saugos valdymo sistema
 
 1. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) privalo turėti eismo saugos valdymo sistemas ir jas įgyvendinti. Eismo saugos valdymo sistemos sukuriamos vadovaujantis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais reikalavimais.
 
@@ -220,9 +220,9 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 3. Geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) iki kiekvienų kalendorinių metų birželio 30 dienos pateikia eismo saugos institucijai praėjusių metų eismo saugos ataskaitą. Eismo saugos ataskaitos reikalavimus nustato eismo saugos institucija.
 
-\## III SKYRIUS. SAUGOS SERTIFIKAVIMAS IR ĮGALIOJIMŲ EISMO SAUGOS SRITYJE SUTEIKIMAS
+III SKYRIUS. SAUGOS SERTIFIKAVIMAS IR ĮGALIOJIMŲ EISMO SAUGOS SRITYJE SUTEIKIMAS
 
-\#### 8 straipsnis. Geležinkelio įmonių (vežėjų) sertifikavimas ir įgaliojimų eismo saugos srityje suteikimas geležinkelių infrastruktūros valdytojams
+## 8 straipsnis. Geležinkelio įmonių (vežėjų) sertifikavimas ir įgaliojimų eismo saugos srityje suteikimas geležinkelių infrastruktūros valdytojams
 
 1. Geležinkelio įmonės (vežėjai), pageidaujančios naudotis geležinkelių infrastruktūra, turi turėti saugos sertifikatą, galiojantį visame Lietuvos Respublikos geležinkelių tinkle ar tik tam tikroje jo dalyje.
 
@@ -234,7 +234,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 5. Šio straipsnio 2 dalyje nustatytas reikalavimas netaikomas geležinkelių infrastruktūros valdytojams, kurių geležinkelių infrastruktūroje nevykdoma geležinkelių transporto ūkinė komercinė veikla.
 
-\#### 9 straipsnis. Mokymo pajėgumų suteikimas
+## 9 straipsnis. Mokymo pajėgumų suteikimas
 
 1. Geležinkelio įmonių (vežėjų), pageidaujančių gauti saugos sertifikatus, darbuotojų, kurių darbas susijęs su geležinkelių transporto eismu, kvalifikacija turi atitikti reikalavimus, nustatytus saugos sertifikatui gauti.
 
@@ -244,9 +244,9 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 4. Mokymo pajėgumų teikimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
 
-\## IV SKYRIUS. BENDRIEJI EISMO SAUGOS REIKALAVIMAI
+IV SKYRIUS. BENDRIEJI EISMO SAUGOS REIKALAVIMAI
 
-\#### 10 straipsnis. Geležinkelių transporto objektų, posistemių, sąveikos sudedamųjų dalių ir jų tarpusavio sąsajų projektavimo, konstravimo, įdiegimo, modernizavimo, rekonstravimo, naudojimo ir techninės priežiūros reikalavimai
+## 10 straipsnis. Geležinkelių transporto objektų, posistemių, sąveikos sudedamųjų dalių ir jų tarpusavio sąsajų projektavimo, konstravimo, įdiegimo, modernizavimo, rekonstravimo, naudojimo ir techninės priežiūros reikalavimai
 
 1. Geležinkelių transporto objektų, posistemių ir sąveikos sudedamųjų dalių, taip pat jų tarpusavio sąsajų projektavimas, konstravimas, įdiegimas, modernizavimas, rekonstravimas, naudojimas ir techninė priežiūra turi atitikti šio įstatymo ir kitų įstatymų reikalavimus ir atitinkamus esminius reikalavimus.
 
@@ -256,7 +256,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 4. Struktūrinių posistemių valdytojai ir (ar) naudotojai privalo užtikrinti, kad struktūriniai posistemiai pradedant juos naudoti, naudojant ir techniškai prižiūrint atitiktų jiems keliamus esminius reikalavimus. Vadovaudamasi šiuo įstatymu, Nuostatais ir kitais teisės aktais, eismo saugos institucija, pradedant naudoti struktūrinius posistemius ir juos naudojant, reguliariai tikrina, ar šie posistemiai naudojami ir techniškai prižiūrimi pagal jiems keliamus esminius reikalavimus.
 
-\#### 11 straipsnis. Reikalavimai geležinkelių infrastruktūrai
+## 11 straipsnis. Reikalavimai geležinkelių infrastruktūrai
 
 1. Geležinkelių infrastruktūrą valdo, naudoja ir jos priežiūrą atlieka geležinkelių infrastruktūros valdytojai šio įstatymo, Statybos įstatymo, TSS, Nuostatų ir kitų teisės aktų nustatyta tvarka.
 
@@ -266,7 +266,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 4. Geležinkelių infrastruktūros objektų statybos ir eksploatavimo poveikis aplinkai ir visuomenės sveikatai turi būti įvertintas pagal Lietuvos Respublikos teisės aktus objekto projektavimo stadijoje.
 
-\#### 12 straipsnis. Geležinkelių riedmenų reikalavimai
+## 12 straipsnis. Geležinkelių riedmenų reikalavimai
 
 1. Kad būtų užtikrinta eismo sauga, geležinkelių riedmenys turi būti techniškai tvarkingi.
 
@@ -290,7 +290,7 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 11. Vadovaujantis šiuo įstatymu ir Geležinkelių transporto kodeksu Lietuvos Respublikos teritorijoje leidžiama naudoti geležinkelių riedmenis, kurie pirmą kartą buvo pradėti naudoti trečiojoje valstybėje ir identifikuoti pagal kitokią, nei nustatyta Europos Sąjungoje, tvarką. Duomenis apie tokius geležinkelių riedmenis, jų savininkus ir valdytojus privalo kaupti eismo saugos institucija Lietuvos Respublikos geležinkelių riedmenų ir konteinerių registre ir teikti suinteresuotiems asmenims bei geležinkelio įmonėms (vežėjams), naudojančioms šioje dalyje nurodytus geležinkelių riedmenis, Lietuvos Respublikos Vyriausybės nustatyta tvarka. Eismo saugos institucija neprivalo kaupti šių duomenų, kai juos galima gauti iš geležinkelio įmonių (vežėjų), naudojančių šioje dalyje nurodytus geležinkelių riedmenis.
 
-\#### 13 straipsnis. Reikalavimai darbuotojams, kurių darbas susijęs su geležinkelių transporto eismu
+## 13 straipsnis. Reikalavimai darbuotojams, kurių darbas susijęs su geležinkelių transporto eismu
 
 1. Darbuotojų, kurių darbas susijęs su geležinkelių transporto eismu, kvalifikacija, sveikatos būklė ir darbuotojų saugos sąlygos turi atitikti šio įstatymo ir kitų įstatymų reikalavimus, esminius reikalavimus ir TSS.
 
@@ -306,17 +306,17 @@ Pakeisti Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymą 
 
 7. Darbuotojų, kurių darbas susijęs su geležinkelių transporto eismu, žinios tikrinamos eismo saugos institucijos nustatyta tvarka.
 
-\#### 14 straipsnis. Reikalavimai asmenims, atsakingiems už krovinių krovimą ir tvirtinimą vagonuose
+## 14 straipsnis. Reikalavimai asmenims, atsakingiems už krovinių krovimą ir tvirtinimą vagonuose
 
 Asmenų, atsakingų už krovinių krovimą ir tvirtinimą vagonuose (darbų vadovų), žinios turi būti patikrintos ir darbų vadovų pažymėjimai jiems išduodami eismo saugos institucijos nustatyta tvarka.
 
-\#### 15 straipsnis. Bendrieji reikalavimai
+## 15 straipsnis. Bendrieji reikalavimai
 
 Pašaliniams asmenims vaikščioti ar važinėti geležinkelių keliais ir apsaugos zonose nenustatytose vietose draudžiama.
 
-\## V SKYRIUS. EISMO ĮVYKIŲ TYRIMAS IR JŲ PADARINIŲ LIKVIDAVIMAS
+V SKYRIUS. EISMO ĮVYKIŲ TYRIMAS IR JŲ PADARINIŲ LIKVIDAVIMAS
 
-\#### 16 straipsnis. Eismo įvykių tyrimas
+## 16 straipsnis. Eismo įvykių tyrimas
 
 1. Eismo saugos institucija tiria visus eismo įvykius, siekdama nustatyti asmenis, pažeidusius eismo saugos reikalavimus, ir teisės aktų nustatyta tvarka traukti juos atsakomybėn.
 
@@ -330,19 +330,19 @@ Pašaliniams asmenims vaikščioti ar važinėti geležinkelių keliais ir apsau
 
 6. Eismo įvykių tyrimo medžiaga saugoma teisės aktų nustatyta tvarka.
 
-\## VI SKYRIUS. ATSAKOMYBĖ
+VI SKYRIUS. ATSAKOMYBĖ
 
-\#### 17 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+## 17 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 Šį įstatymą pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\## VII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 18 straipsnis. Įstatymo įsigaliojimas
+## 18 straipsnis. Įstatymo įsigaliojimas
 
 Sis įstatymas, išskyrus 19 straipsnį, įsigalioja nuo 2006 m. gegužės 1 d.
 
-\#### 19 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 19 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija išnagrinėja teisės aktus, susijusius su šio įstatymo nuostatų įgyvendinimu, ir prireikus parengia atitinkamus jų pakeitimo projektus ar priima naujus teisės aktus.
 

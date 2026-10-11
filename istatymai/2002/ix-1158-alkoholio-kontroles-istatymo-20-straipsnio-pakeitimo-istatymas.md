@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F7F5B09FB114"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F7F5B09FB114.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 20 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2002, Nr. [65-2632](https://www.e-tar.lt/portal/lt/legalAct/TAR.013EB8EE4545))
 
-\#### 1 straipsnis. 20 straipsnio 1 dalies 15 punkto pakeitimas
+## 1 straipsnis. 20 straipsnio 1 dalies 15 punkto pakeitimas
 
 Pakeisti 20 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip:
 

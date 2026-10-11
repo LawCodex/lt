@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6B682C588EAC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6B682C588EAC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo 9, 10, 22, 24 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 2003, Nr. [75-3472](https://www.e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7); 2004, Nr. [96-3521](https://www.e-tar.lt/portal/lt/legalAct/TAR.31256C6857AA); 2005, Nr. [127-4535](https://www.e-tar.lt/portal/lt/legalAct/TAR.DF0CCACFB878); 2006, Nr. [144-5462](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCC252BAF81))
 
-\#### 1 straipsnis. 9 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 9 straipsnio 4 dalies pakeitimas
 
 Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Po dalyvio mirties jam priklausanti pensijų turto dalis paveldima įstatymų nustatyta tvarka. Paveldėtas turtas turi būti išmokėtas įpėdiniams pinigais, bet ne anksčiau, negu pervestos pensijų įmokos už kalendorinį mėnesį, kurį dalyvis mirė.“
 
-\#### 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pensijų įmokos pervedamos per 30 kalendorinių dienų nuo tos dienos, iki kurios draudėjai Vyriausybės nustatyta tvarka privalo pateikti VSDF įstaigoms informaciją apie kiekvienam apdraustajam apskaičiuotas draudžiamųjų pajamų ir socialinio draudimo įmokų sumas.“
 
-\#### 3 straipsnis. 22 straipsnio 4 ir 6 dalių pakeitimas ir straipsnio papildymas 9 dalimi
+## 3 straipsnis. 22 straipsnio 4 ir 6 dalių pakeitimas ir straipsnio papildymas 9 dalimi
 
 1. Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „9. Pensijų išmokos sutartis gali būti nutraukta pensijų išmokos sutarties šalių susitarimu, jeigu dalyviui nėra išmokėta pensijų išmoka (ar jos dalis) ir (ar) nenupirktas pensijų anuitetas. Pensijų kaupimo bendrovė apie pensijų išmokos sutarties nutraukimo faktą privalo per 3 darbo dienas elektroniniu būdu pranešti VSDF valdybai suderinta informacijos pateikimo tvarka.“
 
-\#### 4 straipsnis. 24 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi
+## 4 straipsnis. 24 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. Pakeisti 24 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „8. Pensijų anuiteto sutarčiai *mutatis mutandis* (t. y. su tam tikrais pakeitimais) taikomos Lietuvos Respublikos draudimo įstatymo nuostatos, reglamentuojančios draudimo sutarties nutraukimą lengvatinėmis sąlygomis. Kai draudėjas šiuo pagrindu nutraukia pensijų anuiteto sutartį, gyvybės draudimo įmonė ne vėliau kaip per vieną darbo dieną raštu (ar tarpusavyje suderinus informacijos pateikimo tvarką – elektroniniu būdu) apie tai turi pranešti pensijų kaupimo bendrovei, kurios valdomame pensijų fonde yra sukauptas dalyvio pensijų turtas.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 2 straipsnis ir 3 straipsnio 2 dalis įsigalioja 2011 m. sausio 1 d.
 

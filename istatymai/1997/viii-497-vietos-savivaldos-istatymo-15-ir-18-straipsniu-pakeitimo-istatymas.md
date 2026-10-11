@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B1A1F90F6E0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2B1A1F90F6E0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 1996, Nr. [50-1196](https://www.e-tar.lt/portal/lt/legalAct/TAR.587826FB9EA2); 1997, Nr. [20-446](https://www.e-tar.lt/portal/lt/legalAct/TAR.5B552C063746))
 
-\#### 1 straipsnis. 15 straipsnio 19 punkto pakeitimas
+## 1 straipsnis. 15 straipsnio 19 punkto pakeitimas
 
 15 straipsnio 19 punktą pakeisti ir išdėstyti taip:
 
 „19) tvirtina savivaldybės teritorijos ir jos dalių bendruosius planus, taip pat pagal kompetenciją detaliuosius planus, jų pakeitimus ir papildymus, priima sprendimus dėl savivaldybės teritorijos dalių bendrųjų planų rengimo;“.
 
-\#### 2 straipsnis. 18 straipsnio 1 dalies 5 ir 6 punktų pakeitimas
+## 2 straipsnis. 18 straipsnio 1 dalies 5 ir 6 punktų pakeitimas
 
 18 straipsnio 1 dalies 5 ir 6 punktus pakeisti ir išdėstyti taip:
 

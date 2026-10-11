@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6968A8A8F932"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6968A8A8F932.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [63-1582](https://www.e-tar.lt/portal/lt/legalAct/TAR.13E108ED3981); 2001, Nr. [35-1164](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC99661E0C1C); 2004, Nr. [167-6097](https://www.e-tar.lt/portal/lt/legalAct/TAR.746E5B0683A6))
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 2. Savivaldybių institucijos pagal savo kompetenciją, nustatytą įstatymų ir kitų teisės aktų, derina dokumentus, reglamentuojančius žemės gelmių naudojimą ir apsaugą.“
 
-\#### 2 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 

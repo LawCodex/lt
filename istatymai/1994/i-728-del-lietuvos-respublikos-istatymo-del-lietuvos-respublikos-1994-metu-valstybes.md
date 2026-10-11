@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C009EED98181"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C009EED98181.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1994 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų" pakeitimo
@@ -52,122 +52,66 @@ ATSKAITYMŲ Į SAVIVALDYBIŲ BIUDŽETUS
 
 NORMATYVAI IR DOTACIJOS
 
-\| | Dotacija (tūkst. Lt) |
-
-\| --- | --- |
-
-\| Miestai | |
-
-\| Vilnius | 63998 |
-
-\| Alytus | 12827 |
-
-\| Birštonas | 339 |
-
-\| Druskininkai | 1738 |
-
-\| Kaunas | 12194 |
-
-\| Klaipėda | 5668 |
-
-\| Marijampolė | 437 |
-
-\| Neringa | 777 |
-
-\| Palanga | 304 |
-
-\| Panevėžys | 4627 |
-
-\| Šiauliai | 4438 |
-
-\| Rajonai | |
-
-\| Akmenės | 4494 |
-
-\| Alytaus | 12638 |
-
-\| Anykščių | 7131 |
-
-\| Jonavos | 11513 |
-
-\| Joniškio | 5431 |
-
-\| Jurbarko | 6250 |
-
-\| Kaišiadorių | 1572 |
-
-\| Kauno | 10354 |
-
-\| Kėdainių | 7799 |
-
-\| Kelmės | 9231 |
-
-\| Kretingos | 3244 |
-
-\| Kupiškio | 5328 |
+|  | Dotacija (tūkst. Lt) |
+| --- | --- |
+| Miestai |  |
+| Vilnius | 63998 |
+| Alytus | 12827 |
+| Birštonas | 339 |
+| Druskininkai | 1738 |
+| Kaunas | 12194 |
+| Klaipėda | 5668 |
+| Marijampolė | 437 |
+| Neringa | 777 |
+| Palanga | 304 |
+| Panevėžys | 4627 |
+| Šiauliai | 4438 |
+| Rajonai |  |
+| Akmenės | 4494 |
+| Alytaus | 12638 |
+| Anykščių | 7131 |
+| Jonavos | 11513 |
+| Joniškio | 5431 |
+| Jurbarko | 6250 |
+| Kaišiadorių | 1572 |
+| Kauno | 10354 |
+| Kėdainių | 7799 |
+| Kelmės | 9231 |
+| Kretingos | 3244 |
+| Kupiškio | 5328 |
 
 Priedėlio tęsinys
 
-\| | Dotacija (tūkst. Lt) |
-
-\| --- | --- |
-
-\| Lazdijų | 4716 |
-
-\| Marijampolės | 18127 |
-
-\| Molėtų | 3268 |
-
-\| Pakruojo | 8127 |
-
-\| Panevėžio | 6900 |
-
-\| Pasvalio | 6688 |
-
-\| Plungės | 5062 |
-
-\| Prienų | 9887 |
-
-\| Radviliškio | 7354 |
-
-\| Raseinių | 6006 |
-
-\| Rokiškio | 5423 |
-
-\| Skuodo | 5756 |
-
-\| Šakių | 9089 |
-
-\| Šalčininkų | 11841 |
-
-\| Šiaulių | 4424 |
-
-\| Šilalės | 8754 |
-
-\| Šilutės | 18171 |
-
-\| Širvintų | 4525 |
-
-\| Švenčionių | 4073 |
-
-\| Tauragės | 5764 |
-
-\| Telšių | 6193 |
-
-\| Trakų | 9919 |
-
-\| Ukmergės | 3672 |
-
-\| Utenos | 4226 |
-
-\| Varėnos | 7041 |
-
-\| Vilkaviškio | 4024 |
-
-\| Vilniaus | 12925 |
-
-\| Zarasų | 6829 |
-
-\| Iš viso | 401116 |
+|  | Dotacija (tūkst. Lt) |
+| --- | --- |
+| Lazdijų | 4716 |
+| Marijampolės | 18127 |
+| Molėtų | 3268 |
+| Pakruojo | 8127 |
+| Panevėžio | 6900 |
+| Pasvalio | 6688 |
+| Plungės | 5062 |
+| Prienų | 9887 |
+| Radviliškio | 7354 |
+| Raseinių | 6006 |
+| Rokiškio | 5423 |
+| Skuodo | 5756 |
+| Šakių | 9089 |
+| Šalčininkų | 11841 |
+| Šiaulių | 4424 |
+| Šilalės | 8754 |
+| Šilutės | 18171 |
+| Širvintų | 4525 |
+| Švenčionių | 4073 |
+| Tauragės | 5764 |
+| Telšių | 6193 |
+| Trakų | 9919 |
+| Ukmergės | 3672 |
+| Utenos | 4226 |
+| Varėnos | 7041 |
+| Vilkaviškio | 4024 |
+| Vilniaus | 12925 |
+| Zarasų | 6829 |
+| Iš viso | 401116 |
 
 ______________

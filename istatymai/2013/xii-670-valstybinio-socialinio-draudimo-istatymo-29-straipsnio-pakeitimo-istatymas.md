@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/da6cd18089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA6CD18089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 29 straipsnio pakeitimo ĮSTATYMAS
@@ -30,7 +30,7 @@ Vilnius
 
 2008, Nr. [149-6019](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=334546); 2010, Nr. [67-3343](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=373539); 2012, Nr. [127-6391](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=435610); 2013, Nr. [73-3656](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=452594))
 
-\#### 1 straipsnis. 29 straipsnio 1 dalies 9 punkto pakeitimas
+## 1 straipsnis. 29 straipsnio 1 dalies 9 punkto pakeitimas
 
 Pakeisti 29 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 

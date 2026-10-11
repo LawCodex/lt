@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DE3B2103AC1C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE3B2103AC1C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 48 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2000, Nr. [75-2272](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77); 2004, Nr. [73-2515](https://www.e-tar.lt/portal/lt/legalAct/TAR.005AF89A8A3F))
 
-\#### 1 straipsnis. 48 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 48 straipsnio 4 dalies pakeitimas
 
 48 straipsnio 4 dalyje vietoj skaičiaus „12“ įrašyti skaičių „13“, po žodžių „Lietuvos katalikų bažnyčios Vyskupų konferencija“ įrašyti žodžius „Lietuvos periodinės spaudos leidėjų asociacija“ ir šią dalį išdėstyti taip:
 

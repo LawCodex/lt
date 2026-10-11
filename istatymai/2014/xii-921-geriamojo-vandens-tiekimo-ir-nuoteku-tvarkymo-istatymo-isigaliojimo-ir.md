@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/34b2b770f62411e39cfacd978b6fd9bb"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.34B2B770F624.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo įsigaliojimo ir įgyvendinimo įstatymo Nr. X-765 pripažinimo netekusiu galios įstatymas
@@ -26,11 +26,11 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVE
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo įsigaliojimo ir įgyvendinimo įstatymą Nr. X-765.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. lapkričio 1 d.
 

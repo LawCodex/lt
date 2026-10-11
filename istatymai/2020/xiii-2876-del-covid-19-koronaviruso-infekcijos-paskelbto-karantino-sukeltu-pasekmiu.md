@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dcf0e110945b11ea9515f752ff221ec9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DCF0E110945B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos dėl COVID-19 (koronaviruso infekcijos) paskelbto karantino sukeltų pasekmių poveikio vartojimo sutarčių dėl renginių organizavimo paslaugų teikimo vykdymui įstatymas
@@ -26,7 +26,7 @@ DĖL COVID-19 (KORONAVIRUSO INFEKCIJOS) PASKELBTO KARANTINO SUKELTŲ PASEKMIŲ P
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas reguliuoja vartojimo sutarčių dėl sporto, kultūros, pramogų ar kitų renginių (toliau – renginiai) organizavimo paslaugų teikimo vykdymą, kai tai tapo neįmanoma ar teikti tokias paslaugas tapo gerokai sunkiau dėl COVID-19 (koronaviruso infekcijos) Lietuvos Respublikos teritorijoje paskelbto karantino (toliau – karantinas) metu nustatytų asmens teisių ir laisvių draudimų ir (ar) ribojimų, įskaitant draudimą atvirose ir uždarose erdvėse organizuoti renginius ir susibūrimus (toliau – draudimai, dėl kurių organizuoti renginius tapo neįmanoma ar gerokai sunkiau).
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Šis įstatymas netaikomas vartojimo sutartims, sudarytoms dėl renginių organizavimo paslaugų, kurios yra nutrauktos Lietuvos Respublikos civiliniame kodekse ar paslaugų teikėjo patvirtintose paslaugų teikimo taisyklėse nustatyta tvarka, teikimo.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Bilietas – dokumentas, įskaitant elektroninį, kuriuo patvirtinamas vartojimo sutarties dėl renginio organizavimo paslaugų teikimo sudarymas ir atsiskaitymas už paslaugą.
 
@@ -46,13 +46,13 @@ Vilnius
 
 3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Civiliniame kodekse ir Lietuvos Respublikos vartotojų teisių apsaugos įstatyme.
 
-\#### 3 straipsnis. Sutarties nutraukimo apribojimai
+## 3 straipsnis. Sutarties nutraukimo apribojimai
 
 1. Vartotojas, įsigijęs bilietą, neturi teisės kitomis, negu šio įstatymo 4 straipsnyje nurodytos, sąlygomis vienašališkai nutraukti vartojimo sutarties dėl renginio organizavimo paslaugų teikimo ir reikalauti grąžinti už bilietą sumokėtą kainą dėl to, kad dėl karantino metu nustatytų draudimų, dėl kurių organizuoti renginius tapo neįmanoma ar gerokai sunkiau, paslaugų teikėjas negali suteikti paslaugų šioje dalyje nurodytoje sutartyje numatytomis sąlygomis.
 
 2. Šis įstatymas neužkerta kelio paslaugų teikėjui ar vartotojui nutraukti vartojimo sutarties dėl renginio organizavimo paslaugų teikimo kitais Civiliniame kodekse ir (ar) paslaugų teikėjo patvirtintose paslaugų teikimo taisyklėse nustatytais pagrindais.
 
-\#### 4 straipsnis. Už bilietą sumokėtos kainos grąžinimas
+## 4 straipsnis. Už bilietą sumokėtos kainos grąžinimas
 
 1. Kai renginys neįvyksta dėl karantino metu nustatytų draudimų, dėl kurių organizuoti renginius tapo neįmanoma ar gerokai sunkiau, arba renginio data yra šio įstatymo 1 straipsnio 2 dalies 2 punkte nurodytu laikotarpiu, paslaugų teikėjas per 30 dienų nuo šio draudimo panaikinimo turi teisę nustatyti vėlesnę renginio datą. Renginys turi įvykti per protingą terminą nuo pradinės renginio datos, tačiau ne vėliau kaip per 12 mėnesių nuo karantino metu nustatytų draudimų, dėl kurių organizuoti renginius tapo neįmanoma ar gerokai sunkiau, panaikinimo. Tokiu atveju paslaugų teikėjas neturi teisės iš vartotojo reikalauti jokių papildomų mokesčių. Paslaugų teikėjas vartotojams privalo pateikti informaciją apie vėlesnę renginio datą ir kitą informaciją, nurodytą Lietuvos Respublikos Vyriausybės tvirtinamose Sporto, kultūros ir pramogų paslaugų teikimo ir vartotojų informavimo teikiant šias paslaugas taisyklėse. Paslaugų teikėjo pranešimas apie vėlesnę renginio datą turi būti skelbiamas tokiomis pačiomis arba lygiavertėmis priemonėmis ir būdais, kokiais buvo pateikiama informacija apie pradinę renginio datą bilietų pardavimo vietose.
 
@@ -66,7 +66,7 @@ Vilnius
 
 6. Kai paslaugų teikėjas nenustato vėlesnės renginio datos pagal šio straipsnio 1 dalį, vartotojas turi teisę reikalauti, kad paslaugų teikėjas grąžintų vartotojui už bilietą sumokėtą kainą ne vėliau kaip per 14 dienų nuo šio straipsnio 1 dalyje nustatytos paslaugų teikėjo teisės įgyvendinimo laikotarpio pabaigos.
 
-\#### 5 straipsnis. Vartojimo ginčų dėl šio įstatymo taikymo neteisminis sprendimas
+## 5 straipsnis. Vartojimo ginčų dėl šio įstatymo taikymo neteisminis sprendimas
 
 Vartotojų ir paslaugų teikėjų ginčus dėl šio įstatymo taikymo ne teismo tvarka sprendžia Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi Vartotojų teisių apsaugos įstatymu.
 

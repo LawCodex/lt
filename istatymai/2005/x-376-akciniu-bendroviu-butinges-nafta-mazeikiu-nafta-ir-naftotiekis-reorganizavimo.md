@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.79F88F4003F3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.79F88F4003F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1998, Nr. [90-2482](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E6FCCBC800C); 1999, Nr. [50-1606](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B38E9CED3CB), Nr. [86-2560](https://www.e-tar.lt/portal/lt/legalAct/TAR.2EE06A538589); 2001, Nr. [68-2469](https://www.e-tar.lt/portal/lt/legalAct/TAR.8660A23A3E1D), Nr. [112-4075](https://www.e-tar.lt/portal/lt/legalAct/TAR.63B5FEF94FD5); 2002, Nr. [56-2231](https://www.e-tar.lt/portal/lt/legalAct/TAR.86C3C7186895), Nr. [91-3892](https://www.e-tar.lt/portal/lt/legalAct/TAR.3B05D28C29A0))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 1 straipsnio 2 dalyje po žodžių „šis įstatymas“ įrašyti žodžius „ar kiti įstatymai“ ir šią dalį išdėstyti taip:
 
 „2. Akcinių bendrovių „Būtingės nafta“, „Mažeikių nafta“ ir „Naftotiekis“ reorganizavimo tvarką bei po reorganizavimo veiksiančios bendrovės veiklą ir valdymą reglamentuoja Akcinių bendrovių įstatymas, o privatizavimą – Valstybės ir savivaldybių turto privatizavimo įstatymas, jeigu šis įstatymas ar kiti įstatymainenustato kitaip.“
 
-\#### 2 straipsnis. 3 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 3 dalies pakeitimas
 
 3 straipsnio 3 dalies paskutiniame sakinyje įrašyti žodžius „jeigu kiti įstatymai nenustato kitaip“ ir šią dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.606495E318F6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.606495E318F6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 12, 16, 17, 18, 22, 29, 34 straipsnių pakeitimo ir papildymo, Įstatymo papildymo III skyriaus ketvirtuoju skirsniu ir 34-1 straipsniu įstatymas
@@ -24,25 +24,25 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2004, Nr. [47-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.65C0438E6F29), Nr. [168-6174](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3FBB6CF91CD); 2006, Nr. [53-1928](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB5D0EA7EAA4), Nr. [127-4822](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2541E9A3D87); 2007, Nr. [77-3041](https://www.e-tar.lt/portal/lt/legalAct/TAR.6EDFAB619E76); 2008, Nr. [48-1771](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE1DC8808AAD))
 
-\#### 1 straipsnis. 2 straipsnio 18 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 18 dalies pakeitimas
 
 2 straipsnio 18 dalyje išbraukti žodžius „išskyrus aukštąsias mokyklas“ ir šią dalį išdėstyti taip:
 
 „18. **Ugdymo įstaigos –**formaliojo ir neformaliojo švietimo įstaigos.“
 
-\#### 2 straipsnis. 12 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 12 straipsnio 3 dalies pakeitimas
 
 12 straipsnio 3 dalyje išbraukti antrą ir trečią sakinius ir šią dalį išdėstyti taip:
 
 „3. Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo Įstatymu, Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas) ir Europos Sąjungos teisės reikalavimais, tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 3 straipsnis. 16 straipsnio 7 dalies pakeitimas
+## 3 straipsnis. 16 straipsnio 7 dalies pakeitimas
 
 16 straipsnio 7 dalyje išbraukti antrą, trečią ir ketvirtą sakinius ir šią dalį išdėstyti taip:
 
 „7. Didmeninės ir mažmeninės prekybos alkoholio produktais licencijavimo taisykles, remdamasi šiuo Įstatymu, Civiliniu kodeksu ir Europos Sąjungos teisės reikalavimais, nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 4 straipsnis. 17 straipsnio 2 dalies papildymas 11 punktu ir 3, 4 dalių pakeitimas
+## 4 straipsnis. 17 straipsnio 2 dalies papildymas 11 punktu ir 3, 4 dalių pakeitimas
 
 1. Papildyti 17 straipsnio 2 dalį 11 punktu:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „4. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 5 straipsnis. 18 straipsnio 1 ir 3 dalių pakeitimas
+## 5 straipsnis. 18 straipsnio 1 ir 3 dalių pakeitimas
 
 1. 18 straipsnio 1 dalies 1 punkte po žodžio „pastatuose“ įrašyti žodžius „viešbučių kambariuose įrengtuose minibaruose“ ir šį punktą išdėstyti taip:
 
@@ -98,7 +98,7 @@ Vilnius
 
 „11) nuo 22 valandos iki 8 valandos mažmeninės prekybos įmonėse (išskyrus savivaldybių tarybų ribojamus atvejus). Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, neapmuitinamose parduotuvėse ir specialiose prekybos vietose, kuriose alkoholiniai gėrimai parduodami tik iš Lietuvos Respublikos išvykstantiems keleiviams.“
 
-\#### 6 straipsnis. III skyriaus papildymas ketvirtuoju skirsniu
+## 6 straipsnis. III skyriaus papildymas ketvirtuoju skirsniu
 
 Papildyti III skyrių ketvirtuoju skirsniu:
 
@@ -106,7 +106,7 @@ Papildyti III skyrių ketvirtuoju skirsniu:
 
 ATSISAKYMAS IŠDUOTI LICENCIJĄ
 
-\#### 181 straipsnis. Atsisakymas išduoti licenciją
+## 181 straipsnis. Atsisakymas išduoti licenciją
 
 Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar mažmenine prekyba alkoholiniais gėrimais neišduodamos šiais atvejais:
 
@@ -126,7 +126,7 @@ Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar mažme
 
 8) norinčių įsigyti licencijas įmonių steigėjai ar vadovai yra ar buvo įmonių, kuriose nustatyta atvejų, kai buvo gaminami, parduodami ir (ar) laikomi, gabenami alkoholio produktai, neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, steigėjai ar vadovai (licencijos neišduodamos penkerius metus nuo šio pažeidimo nustatymo dienos).
 
-\#### 182 straipsnis. Kiti atsisakymo išduoti licenciją atvejai
+## 182 straipsnis. Kiti atsisakymo išduoti licenciją atvejai
 
 1. Be šio Įstatymo 181 straipsnyje nustatytų atvejų, licencijos gaminti alkoholio produktus neišduodamos ir šiais atvejais:
 
@@ -156,7 +156,7 @@ Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar mažme
 
 4) įmonė nevykdo įsipareigojimų muitinei (taikoma įmonėms, norinčioms įsigyti licencijas verstis mažmenine prekyba alkoholiniais gėrimais neapmuitinamose parduotuvėse).“
 
-\#### 7 straipsnis. 22 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 22 straipsnio pakeitimas ir papildymas
 
 22 straipsnio 1 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“, papildyti straipsnį 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -176,13 +176,13 @@ Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar mažme
 
 3. Įmonės, turinčios licencijas verstis mažmenine prekyba alkoholiniais gėrimais ir vykdančios viešojo maitinimo veiklą, privalo užtikrinti, kad prekybos alkoholiniais gėrimais vietose asmenys iki 18 metų nevartotų alkoholinių gėrimų.“
 
-\#### 8 straipsnis. 29 straipsnio 7 dalies pakeitimas
+## 8 straipsnis. 29 straipsnio 7 dalies pakeitimas
 
 Pakeisti 29 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Kaip laikomasi šio straipsnio reikalavimų, kontroliuoja Tarnyba, savivaldybių institucijos (išorinės reklamos draudimo pažeidimus).“
 
-\#### 9 straipsnis. 34 straipsnio 1, 3, 6, 11, 12, 14, 17, 18 ir 20 dalių pakeitimas
+## 9 straipsnis. 34 straipsnio 1, 3, 6, 11, 12, 14, 17, 18 ir 20 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -242,7 +242,7 @@ Pakeisti 29 straipsnio 7 dalį ir ją išdėstyti taip:
 
 9) įmonė, kuri buvo įspėta apie galimą licencijos galiojimo panaikinimą, per nustatytą terminą nepašalina nurodytų licencijuojamos veiklos pažeidimų.“
 
-\#### 10 straipsnis. Įstatymo papildymas 341 straipsniu
+## 10 straipsnis. Įstatymo papildymas 341 straipsniu
 
 Papildyti Įstatymą 34^1 straipsniu:
 
@@ -250,7 +250,7 @@ Papildyti Įstatymą 34^1 straipsniu:
 
 Už licencijuojamos veiklos sąlygų pažeidimus įmonės, turinčios licencijas verstis didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais gėrimais, įspėjamos apie galimą licencijų galiojimo sustabdymą ar panaikinimą, taip pat jų licencijų galiojimas sustabdomas Lietuvos Respublikos Vyriausybės patvirtintose Didmeninės ir mažmeninės prekybos alkoholio produktais licencijavimo taisyklėse nustatytais atvejais ir tvarka. Už licencijuojamos veiklos sąlygų pažeidimus įmonės, turinčios licencijas gaminti alkoholio produktus, įspėjamos apie galimą licencijų galiojimo panaikinimą Lietuvos Respublikos Vyriausybės patvirtintose Alkoholio produktų gamybos licencijavimo taisyklėse nustatytais atvejais ir tvarka.“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir patvirtina būtinus šiam įstatymui įgyvendinti teisės aktus.
 

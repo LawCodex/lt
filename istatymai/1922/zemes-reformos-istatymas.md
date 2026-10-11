@@ -9,7 +9,7 @@ status: in_force
 issuer: "Lietuvos valstybės 1918-1940 m. dokumentai"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.550E926ACCE5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.550E926ACCE5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Žemės reformos įstatymas
@@ -252,17 +252,12 @@ VIIskyrius.
 
 48 §. Miestu sričių zonos nustatomos radiusais nuo miestų gyvenamojo ploto sienos šiuo būdu:
 
-\| Prie miestų, turinčių gyventojų: | I-aja zona laikomi žemės plotai ne toliau, kaip: | II-aja zona laikomi žemės plotai ne toliau, kaip: |
-
-\| --- | --- | --- |
-
-\| 1) nuo 3000 ligi 10000 | 1 klm. nuo miesto sienos | 3 klm. nuo miesto sienos |
-
-\| 2) „ 10000 „ 50000 | 2 „ „ „ „ | 5 „ „ „ „ |
-
-\| 3) „ 50000 „ 100000 | 3 „ „ „ „ | 7 „ „ „ „ |
-
-\| 4) virš 100000 | 4 „ „ „ „ | 10 „ „ „ „ |
+| Prie miestų, turinčių gyventojų: | I-aja zona laikomi žemės plotai ne toliau, kaip: | II-aja zona laikomi žemės plotai ne toliau, kaip: |
+| --- | --- | --- |
+| 1) nuo 3000 ligi 10000 | 1 klm. nuo miesto sienos | 3 klm. nuo miesto sienos |
+| 2) „ 10000 „ 50000 | 2 „ „ „ „ | 5 „ „ „ „ |
+| 3) „ 50000 „ 100000 | 3 „ „ „ „ | 7 „ „ „ „ |
+| 4) virš 100000 | 4 „ „ „ „ | 10 „ „ „ „ |
 
 Nusavinamų (l, 2 ir 8 §§) dvarų nuomojamos ar činšo teisėmis laikomos miestų ir miestelių ribose ir I-os zonos srityse žemės negali būti savininkų pasiliktos. Tokios žemės po šio įstatymo paskelbimo pereina žemės reformos fondan ir naudojamos šio įstatymo numatytiems tikslams.
 
@@ -380,10 +375,8 @@ Vietose žemės reformos įstatymą vykdo Žemės Reformos Valdybos atstovai ir 
 
 77 §. Nuo šio įstatymo paskelbimo dienos nustoja veikę: l) įstatymas žemei perleisti, įgyti ir įkeisti iš 1920 metų birželio mėnesio 28 dienos, išskyrus 3, 6 ir S §§ (V. Ž. Nr. 39, eilinis 414), ir 2) įstatymas kariškiams žeme aprūpinti 1920 metų rugpjūčio mėnesio 3 dienos, išskyrus 6 ir 8 §§ (V. Ž. Nr. 47, eilinis. Nr. 465), ir visi kiti įstatymai, jeigu jie prieštarauja šiam įstatymui.
 
-\| E. Respublikos Prezidento Pareigas Steigiamojo Seimo Pirmininkas | A. Stulginskis |
-
-\| --- | --- |
-
-\| Ministeris Pirmininkas | Galvanauskas |
+| E. Respublikos Prezidento Pareigas Steigiamojo Seimo Pirmininkas | A. Stulginskis |
+| --- | --- |
+| Ministeris Pirmininkas | Galvanauskas |
 
 Kaunas, 1922 m. kovo mėn. 29 d.

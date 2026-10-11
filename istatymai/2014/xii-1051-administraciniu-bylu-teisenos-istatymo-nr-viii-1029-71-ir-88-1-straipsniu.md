@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dfae60a0197611e4b542dec0b12e28b0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DFAE60A01976.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 71 ir 88-1 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 71 straipsnio pakeitimas
+## 1 straipsnis. 71 straipsnio pakeitimas
 
 Pakeisti 71 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Teismas arba teisėjas proceso dalyvių motyvuotu prašymu ar savo iniciatyva negali taikyti šio straipsnio 3 dalyje nustatytų reikalavimo užtikrinimo priemonių, jeigu tai numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą kredito įstaigoms.“
 
-\#### 2 straipsnis. 881 straipsnio pakeitimas
+## 2 straipsnis. 881 straipsnio pakeitimas
 
 Pakeisti 88^1 straipsnį ir jį išdėstyti taip:
 

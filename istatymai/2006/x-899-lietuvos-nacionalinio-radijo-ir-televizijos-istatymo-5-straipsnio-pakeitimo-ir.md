@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.78A525653E48"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.78A525653E48.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [102-2319](https://www.e-tar.lt/portal/lt/legalAct/TAR.1559303036A8); 2005, Nr. [153-5639](https://www.e-tar.lt/portal/lt/legalAct/TAR.0870CDD65717))
 
-\#### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas ir papildymas 13 dalimi
+## 1 straipsnis. 5 straipsnio 5 dalies pakeitimas ir papildymas 13 dalimi
 
 1. Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 

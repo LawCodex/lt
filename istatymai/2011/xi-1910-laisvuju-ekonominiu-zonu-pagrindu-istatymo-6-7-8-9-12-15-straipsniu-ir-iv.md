@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E59CA999B22E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E59CA999B22E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo 6, 7, 8, 9, 12, 15 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1995, Nr. [59-1462](https://www.e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D); 1996, Nr. [35-871](https://www.e-tar.lt/portal/lt/legalAct/TAR.33B28FE8DE03); 1997, Nr. [65-1547](https://www.e-tar.lt/portal/lt/legalAct/TAR.78684A19B5F4); 1999, Nr. [98-2814](https://www.e-tar.lt/portal/lt/legalAct/TAR.BB2F1EF9C263); 2000, Nr. [83-2509](https://www.e-tar.lt/portal/lt/legalAct/TAR.0940C79BFBA0); 2001, Nr. [39-1355](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6AF37995FCA), Nr. [112-4084](https://www.e-tar.lt/portal/lt/legalAct/TAR.77D0D5A1C96D); 2002, Nr. [68-2772](https://www.e-tar.lt/portal/lt/legalAct/TAR.25CA1A623645); 2004, Nr. [32-1006](https://www.e-tar.lt/portal/lt/legalAct/TAR.4EBC2479335E), Nr. [73-2525](https://www.e-tar.lt/portal/lt/legalAct/TAR.31610DD31C28), Nr. [171-6298](https://www.e-tar.lt/portal/lt/legalAct/TAR.6D4A06291FF1), Nr. [171-6314](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F5BE1BA17A9); 2010, Nr. [48-2287](https://www.e-tar.lt/portal/lt/legalAct/TAR.E089B891912B))
 
-\#### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Zonos valdymo bendrovė yra juridinis asmuo. Zonos valdymo bendrovė yra įsteigiama zonos veiklos terminui. Zonos valdymo bendrovėje privačios nuosavybės teise fiziniams ir juridiniams asmenims priklausanti akcijų dalis turi būti ne mažesnė kaip suteikianti 51 procentą balsų. Zonos valdymo bendrovė veikia pagal Lietuvos Respublikos akciniųbendrovių įstatymą.“
 
-\#### 2 straipsnis. 7 straipsnio 1, 2 ir 5 dalių pakeitimas
+## 2 straipsnis. 7 straipsnio 1, 2 ir 5 dalių pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Steigėjai, pageidaujantys įregistruoti zonos įmonę, Juridinių asmenų registro tvarkytojui pateikia teisės aktų nustatytusregistravimo dokumentus ir zonos valdymo bendrovės leidimą veiklai zonoje.“
 
-\#### 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,13 +82,13 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 14) darbo migracijos klausimų tvarkymas.“
 
-\#### 4 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Zona steigiama Lietuvos Respublikos įstatymu. Įstatyme turi būti nustatytos zonos teritorijos ribos (jeigu įstatyme nenustatyta kitaip), zonos veiklos rūšis (rūšys), zonos veiklos terminas, konkurso sąlygos ir kriterijai zonos steigimo konkurso laimėtojams parinkti, zonos valdymo bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai, atsakomybė, zonos valdymo bendrovės likvidavimo nelikviduojant zonos ir naujos bendrovės suformavimo tvarka, svarbių valstybės (savivaldybių) objektų santykių su zonos valdymo bendrove dėl šių objektų naudojimo zonai aptarnauti pagrindai, įmokų iš zonos įmonių bendriems zonos reikalams nustatymo tvarka.“
 
-\#### 5 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 10) suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos, skelbti zonos teritorijos dalis laisvosiomis teritorijomis ir nustatyti šių teritorijų ribas.“
 
-\#### 6 straipsnis. 15 straipsnio pakeitimas
+## 6 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 7. Šio straipsnio 2, 3, 4 ir 5 dalyse nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai.“
 
-\#### 7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 7 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija parengia atitinkamus Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo pakeitimo įstatymo ir Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo pakeitimo įstatymo projektus.
 

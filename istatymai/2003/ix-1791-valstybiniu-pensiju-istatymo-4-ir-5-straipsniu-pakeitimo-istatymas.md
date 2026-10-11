@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5D1B9E08D358"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5D1B9E08D358.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84), Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194); 1997, Nr. [104-2622](https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1), Nr. [115-2911](https://www.e-tar.lt/portal/lt/legalAct/TAR.901DC8BD80E5); 1998, Nr. [56-1546](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5179D300BC1); 2000, Nr. [111-3578](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F2EC27AECAF); 2003, Nr. [32-1314](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFE572A4C3AC))
 
-\#### 1 straipsnis. 4 straipsnio 4 dalies pripažinimas netekusia galios
+## 1 straipsnis. 4 straipsnio 4 dalies pripažinimas netekusia galios
 
 4 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 5 straipsnio 5 dalies pakeitimas
+## 2 straipsnis. 5 straipsnio 5 dalies pakeitimas
 
 1. 5 straipsnio 5 dalį pripažinti netekusia galios.
 
 2. Buvusias šio straipsnio 6, 7 ir 8 dalis laikyti atitinkamai 5, 6 ir 7 dalimis.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

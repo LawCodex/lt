@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CFDC80FFE0CD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CFDC80FFE0CD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Hagos tarptautinės privatinės teisės konferencijos statuto pakeitimų ratifikavimo
@@ -26,7 +26,7 @@ DĖL HAGOS TARPTAUTINĖS PRIVATINĖS TEISĖS KONFERENCIJOS STATUTO PAKEITIMŲ RA
 
 Vilnius
 
-\#### 1 straipsnis. Statuto pakeitimų ratifikavimas
+## 1 straipsnis. Statuto pakeitimų ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 30 d. dekretą Nr. 735, ratifikuoja 2005 m. birželio 30 d. dvidešimtojoje diplomatinėje sesijoje priimtus Hagos tarptautinės privatinės teisės konferencijos statuto pakeitimus.
 

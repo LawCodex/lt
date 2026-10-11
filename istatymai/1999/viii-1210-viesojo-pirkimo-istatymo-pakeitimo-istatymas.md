@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1528F405144D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1528F405144D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo pirkimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 1997, Nr. [117-3000](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF2AF1AC19EB))
 
-\#### 1 straipsnis. Lietuvos Respublikos viešojo pirkimo įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos viešojo pirkimo įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos viešojo pirkimo įstatymą ir jį išdėstyti taip:
 
@@ -38,9 +38,9 @@ VIEŠŲJŲ PIRKIMŲ
 
 ĮSTATYMAS
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis įstatymas reglamentuoja:
 
@@ -74,7 +74,7 @@ VIEŠŲJŲ PIRKIMŲ
 
 6. Jei yra valstybei svarbių ekonominių ir socialinių priežasčių, Lietuvos Respublikos Vyriausybė gali priimti sprendimą dėl preferencijų taikymo atliekant prekių, darbų ar paslaugų viešuosius pirkimus. Ši nuostata taikoma iki baigsis Europos sutartyje, kuria steigiama Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociacija, nurodytas pereinamasis laikotarpis (1999 m. gruodžio 31 d.).
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Viešasis pirkimas (toliau – pirkimas) – prekių, darbų, paslaugų pirkimas (įskaitant turto nuomą), kai jį atlieka šio įstatymo nustatyta tvarka 1 straipsnio 1 dalyje nurodytos perkančiosios organizacijos, atsiskaitydamos iš karto, dalimis arba išsimokėtinai.
 
@@ -140,15 +140,15 @@ VIEŠŲJŲ PIRKIMŲ
 
 5) eksploatuoja bendrųjų telekomunikacijų tinklus bei teikia telekomunikacijų paslaugas.
 
-\#### 3 straipsnis. Su pirkimais susiję valstybės tarptautiniai įsipareigojimai
+## 3 straipsnis. Su pirkimais susiję valstybės tarptautiniai įsipareigojimai
 
 Jeigu Lietuvos Respublikos Seimoratifikuotostarptautinės sutartys nustato ką kita negu šis įstatymas, taikomos tarptautinių sutarčių nuostatos.
 
-\#### 4 straipsnis. Viešųjų pirkimų reguliavimas ir skundų nagrinėjimas
+## 4 straipsnis. Viešųjų pirkimų reguliavimas ir skundų nagrinėjimas
 
 Viešuosius pirkimus Lietuvos Respublikoje, vadovaudamasi šiuo įstatymu, reguliuoja Vyriausybė ir Viešųjų pirkimų tarnyba, o skundus, susijusius su viešaisiais pirkimais, nagrinėja Nepriklausoma viešųjų pirkimų ginčų nagrinėjimo komisija.
 
-\#### 5 straipsnis. Viešųjų pirkimų tarnyba
+## 5 straipsnis. Viešųjų pirkimų tarnyba
 
 1. Viešųjų pirkimų tarnyba – pirkimų veiklą koordinuojanti ir prižiūrinti, kaip juos atliekant laikomasi šio įstatymo ir su jo įgyvendinimu susijusių teisės aktų, institucija prie Lietuvos Respublikos Vyriausybės, veikianti pagal šį ir kitus Lietuvos Respublikos įstatymus, teisės aktus, tarptautinius įsipareigojimus, savo nuostatus ir finansuojama iš valstybės biudžeto. Viešųjų pirkimų tarnybos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
@@ -198,7 +198,7 @@ Viešuosius pirkimus Lietuvos Respublikoje, vadovaudamasi šiuo įstatymu, regul
 
 5) įstatymų nustatyta tvarka šį įstatymą pažeidusius asmenis traukti administracinėn atsakomybėn.
 
-\#### 6 straipsnis. Viešojo pirkimo komisija
+## 6 straipsnis. Viešojo pirkimo komisija
 
 1. Perkančioji organizacija pirkimams organizuoti ir jiems atlikti privalo sudaryti Viešojo pirkimo komisiją (toliau – Komisija), nustatyti jai užduotis ir suteikti visus įgaliojimus nustatytoms užduotims vykdyti. Komisija yra atskaitinga perkančiajai organizacijai ir vykdo tik raštiškas jos užduotis bei įpareigojimus. Už pirkimo sutarties sudarymą, jos vykdymą yra atsakinga perkančioji organizacija. Už Komisijos veiksmus atsako perkančioji organizacija. Perkančioji organizacija tvirtina Komisijos darbo reglamentą.
 
@@ -210,7 +210,7 @@ Viešuosius pirkimus Lietuvos Respublikoje, vadovaudamasi šiuo įstatymu, regul
 
 5. Komisijos narys ir ekspertas už savo veiką atsako pagal Lietuvos Respublikos įstatymus.
 
-\#### 7 straipsnis. Tiekėjų (rangovų) kvalifikacija
+## 7 straipsnis. Tiekėjų (rangovų) kvalifikacija
 
 1. Perkančioji organizacija privalo išsiaiškinti, ar tiekėjas (rangovas) yra kompetentingas, patikimas ir pajėgus įvykdyti pirkimo sąlygas. Todėl tam tikruose pirkimo etapuose ji turi teisę pareikalauti, kad tiekėjas (rangovas) pateiktų šio straipsnio 2 dalyje nustatytus dokumentus ir informaciją.
 
@@ -252,17 +252,17 @@ Viešuosius pirkimus Lietuvos Respublikoje, vadovaudamasi šiuo įstatymu, regul
 
 8. Tiekėjų (rangovų) kvalifikaciniai duomenys vertinami vadovaujantis jiems pateiktuose pirkimo dokumentuose nustatytais kriterijais ir procedūromis. Komisija priima sprendimą dėl kiekvieno paraišką pateikusio tiekėjo (rangovo) kvalifikacinių duomenų ir kiekvienam iš jų raštu praneša apie šio patikrinimo rezultatus. Teisę dalyvauti tolesnėse pirkimo procedūrose turi tik tie tiekėjai (rangovai), kurių kvalifikaciniai duomenys atitinka perkančiosios organizacijos reikalavimus.
 
-\#### 8 straipsnis. Pranešimo būdas
+## 8 straipsnis. Pranešimo būdas
 
 1. Perkančiosios organizacijos ir tiekėjų (rangovų) pranešimai vienas kitam, atliekant šio įstatymo reglamentuotas procedūras, turi būti perduodami raštu.
 
 2. Perkančioji organizacija privalo užtikrinti, kad pirkimo dokumentai, sprendimai ar kiti pranešimai būtų perduodami visiems tiekėjams (rangovams) vienodomis sąlygomis.
 
-\#### 9 straipsnis. Užsienio tiekėjų (rangovų)pateiktų dokumentų legalizavimas
+## 9 straipsnis. Užsienio tiekėjų (rangovų)pateiktų dokumentų legalizavimas
 
 Perkančioji organizacija turi teisę pareikalauti, kad užsienio tiekėjai (rangovai) pateiktų nustatyta tvarka legalizuotus dokumentus, patvirtinančius jų pateiktus kvalifikacinius duomenis.
 
-\#### 10 straipsnis. Prekių, darbų ar paslaugų aprašymas
+## 10 straipsnis. Prekių, darbų ar paslaugų aprašymas
 
 1. Pirkimo dokumentuose pateikiami prekių, darbų ar paslaugų techniniai (kokybės, prekių įpakavimo, ženklinimo, saugumo, sertifikavimo, išbandymo) reikalavimai ir terminologija neturi sudaryti kliūčių bet kuriems tiekėjams (rangovams) dalyvauti pirkimuose, išskyrus atvejus, kai tokie reikalavimai būtini dėl pirkimo objekto ar jo naudojimo ypatumų. Prekių, darbų ar paslaugų aprašymuose negali būti nurodomas konkretus prekės ženklas, patentas, modelis ar prekės kilmė, konkretus prekės gamintojas, darbų atlikėjas ar paslaugų teikėjas. Šios nuorodos leidžiamos tik tais atvejais, kai perkančioji organizacija negali apibūdinti pirkimo objekto pagal pakankamai tikslius, visiems suprantamus techninius reikalavimus, tačiau po šių nuorodų turi būti įrašyti žodžiai „arba ekvivalentiškas“.
 
@@ -270,11 +270,11 @@ Perkančioji organizacija turi teisę pareikalauti, kad užsienio tiekėjai (ran
 
 3. Pirkimo dokumentuose pateikiamų techninių reikalavimų rengimo metodiką tvirtina Viešųjų pirkimų tarnyba.
 
-\#### 11 straipsnis. Dokumentų kalba
+## 11 straipsnis. Dokumentų kalba
 
 Perkančioji organizacija pirkimų dokumentus rengia valstybine kalba. Užsienio valstybių tiekėjams (rangovams) pirkimo dokumentai pateikiami anglų,o jeigu jie pageidauja, irviena iš šių kalbų – vokiečių, prancūzų ar rusų, kai apie pirkimus pagal šio įstatymo 12straipsnio 3dalies reikalavimus skelbiama tarptautiniu mastu populiariame ar specialiame leidinyje.
 
-\#### 12 straipsnis. Informaciniai skelbimai
+## 12 straipsnis. Informaciniai skelbimai
 
 1. Informacinių skelbimų (išankstinių informacinių pranešimų, kvietimų, informacijos apie sudarytas pirkimų sutartis ir sutarčių įvykdymo rezultatus) reikalavimus nustato Viešųjų pirkimų tarnyba.
 
@@ -298,13 +298,13 @@ Perkančioji organizacija pirkimų dokumentus rengia valstybine kalba. Užsienio
 
 4. Šio straipsnio 3 dalyje nurodytos pirkimų vertės yra be pridėtinės vertės mokesčio. Jos kas 2 metai tikslinamos, atsižvelgus į Europos Sąjungos direktyvose nurodytas patikslintas vertes.
 
-\## II SKYRIUS. PIRKIMO BŪDAI
+II SKYRIUS. PIRKIMO BŪDAI
 
-\### PIRMASIS SKIRSNIS. PIRKIMO BŪDAI, JŲ PASIRINKIMAS IR PIRKIMŲ
+PIRMASIS SKIRSNIS. PIRKIMO BŪDAI, JŲ PASIRINKIMAS IR PIRKIMŲ
 
 NEDALOMUMAS
 
-\#### 13 straipsnis. Viešojo pirkimo būdai
+## 13 straipsnis. Viešojo pirkimo būdai
 
 Viešasis pirkimas atliekamas šiais būdais:
 
@@ -318,11 +318,11 @@ Viešasis pirkimas atliekamas šiais būdais:
 
 5) kainų apklausos.
 
-\#### 14 straipsnis. Pirkimo būdo pasirinkimo tvarka
+## 14 straipsnis. Pirkimo būdo pasirinkimo tvarka
 
 Perkančioji organizacija pirkimo būdą – konkurencinių derybų, pirkimo iš vienintelio šaltinio ar kainų apklausos – gali pasirinkti tik esant šio įstatymo II skyriaus ketvirtajame, penktajame ir šeštajame skirsniuose numatytoms sąlygoms. Visais kitais atvejais perkama konkurso būdu.
 
-\#### 15 straipsnis. Pirkimų nedalomumas
+## 15 straipsnis. Pirkimų nedalomumas
 
 1. Perkančioji organizacija neturi teisės skaidyti pirkimo vertės į dalis, jeigu taip gali būti išvengta šio įstatymo nustatytos pirkimų tvarkos. Perkančioji organizacija turi teisę skaidyti pirkimo vertę į dalis tik tuo atveju, jei visoms išskaidytoms pirkimo dalims bus taikomas pirkimo būdas, pasirinktas pagal šio įstatymo reikalavimus visai pirkimo vertei.
 
@@ -330,13 +330,13 @@ Perkančioji organizacija pirkimo būdą – konkurencinių derybų, pirkimo iš
 
 3. Pirkimo vertė apskaičiuojama ir prekės, paslaugos bei darbai identifikuojami (individualizuojami, atskiriami nuo tapačių) pagal Viešųjų pirkimų tarnybos patvirtintą metodiką.
 
-\### ANTRASIS SKIRSNIS. ATVIRASIS KONKURSAS
+ANTRASIS SKIRSNIS. ATVIRASIS KONKURSAS
 
-\#### 16 straipsnis. Atvirasis konkursas
+## 16 straipsnis. Atvirasis konkursas
 
 Perkančioji organizacija, rengdama atvirąjį konkursą, šio įstatymo 12straipsnyje nustatyta tvarka kviečia visus tiekėjus (rangovus) dalyvauti konkurse ir pateikti pasiūlymus.
 
-\#### 17 straipsnis. Kvietimo dalyvauti konkurse turinys
+## 17 straipsnis. Kvietimo dalyvauti konkurse turinys
 
 Kvietime dalyvauti konkurse turi būti ši informacija:
 
@@ -356,13 +356,13 @@ Kvietime dalyvauti konkurse turi būti ši informacija:
 
 8) kita Viešųjų pirkimų tarnybos nustatyta informacija tiekėjui (rangovui).
 
-\#### 18 straipsnis. Konkurso dokumentų pateikimas
+## 18 straipsnis. Konkurso dokumentų pateikimas
 
 1. Perkančioji organizacija pageidaujantiems dalyvauti konkurse tiekėjams (rangovams) konkurso dokumentus pateikia kvietime dalyvauti konkurse nurodyta tvarka. Už konkurso dokumentus iš visų tiekėjų (rangovų) gali būti imamas vienodo dydžio užmokestis, kurį sudaro dokumentų kopijavimo ir jų pateikimo tiekėjams (rangovams) išlaidos. Už konkurso dokumentų vertimą į užsienio kalbą gali būti imamas papildomas užmokestis, kurį sudaro vertimo į užsienio kalbą išlaidos.
 
 2. Perkančioji organizacija privalo pateikti konkurso dokumentus tiekėjams (rangovams) ne vėliau kaip per 6 dienas nuo jų paraiškos gavimo dienos.
 
-\#### 19 straipsnis. Konkurso dokumentų turinys
+## 19 straipsnis. Konkurso dokumentų turinys
 
 Konkurso dokumentuose pateikiama:
 
@@ -406,7 +406,7 @@ Konkurso dokumentuose pateikiama:
 
 20) nuoroda į išankstinį informacinį pranešimą, paskelbtą „Valstybės žinių“ priede „Informaciniai pranešimai“ ir (ar) tarptautiniu mastu populiariame ar specialiame leidinyje, apie konkurso rengimą.
 
-\#### 20 straipsnis. Konkurso dokumentų paaiškinimai
+## 20 straipsnis. Konkurso dokumentų paaiškinimai
 
 1. Tiekėjas (rangovas) gali paprašyti, kad perkančioji organizacija duotų konkurso dokumentų paaiškinimus. Perkančioji organizacija atsako į kiekvieną tiekėjo (rangovo) rašytinį prašymą paaiškinti (patikslinti) konkurso dokumentus, jeigu jis gautas ne vėliau kaip prieš 15 dienų iki konkurso pasiūlymų pateikimo termino pabaigos. Perkančioji organizacija į gautą prašymą turi atsakyti ne vėliau kaip per 6 dienas nuo prašymo gavimo dienos. Perkančioji organizacija, atsakydama tiekėjui (rangovui), kartu siunčia paaiškinimus ir visiems tiekėjams (rangovams), kuriems ji pateikė konkurso dokumentus, bet nenurodo, iš ko gavo prašymą duoti paaiškinimą.
 
@@ -418,7 +418,7 @@ Konkurso dokumentuose pateikiama:
 
 5. Pranešimai apie kiekvieną pasiūlymų pateikimo galutinio termino nukėlimą turi būti išsiųsti visiems tiekėjams (rangovams), kuriems buvo pateikti konkurso dokumentai, ne vėliau kaip kitą darbo dieną po sprendimo priėmimo.
 
-\#### 21 straipsnis. Konkurso pasiūlymų pateikimas
+## 21 straipsnis. Konkurso pasiūlymų pateikimas
 
 1. Perkančioji organizacija nustato datą ir valandą, kuri laikoma galutiniu konkurso pasiūlymų pateikimo terminu. Pasiūlymų pateikimo terminas negali būti trumpesnis kaip 30 dienų nuo kvietimo dalyvauti konkurse paskelbimo dienos „Valstybės žinių“ priede „Informaciniai pranešimai“, o tais atvejais, kai skelbiama tarptautiniu mastu populiariame ar specialiame leidinyje, – 52 dienos nuo kvietimo paskelbimo šiame leidinyje dienos, išskyrus atvejus, kai apie būsimą konkursą buvo skelbta iš anksto šio įstatymo 12 straipsnyje nustatyta tvarka ir terminais. Šiais atvejais konkurso pasiūlymų pateikimo terminai gali būti sutrumpinti atitinkamai iki 20 ir 36 dienų.
 
@@ -428,7 +428,7 @@ Konkurso dokumentuose pateikiama:
 
 4. Jeigu konkurso pasiūlymas gaunamas pavėluotai, neatplėštas vokas su pasiūlymu grąžinamas jį atsiuntusiam tiekėjui (rangovui).
 
-\#### 22 straipsnis. Konkurso pasiūlymų galiojimo terminai, jų keitimas ir atšaukimas
+## 22 straipsnis. Konkurso pasiūlymų galiojimo terminai, jų keitimas ir atšaukimas
 
 1. Pasiūlymai galioja konkurso dokumentuose nurodytą laiką, kuris negali būti ilgesnis kaip 90 dienų nuo konkurso pasiūlymų pateikimo galutinio termino dienos.
 
@@ -438,7 +438,7 @@ Konkurso dokumentuose pateikiama:
 
 4. Kol nepasibaigė galutinis konkurso pasiūlymų pateikimo terminas, tiekėjas (rangovas) gali pakeisti arba atšaukti savo pasiūlymą, neprarasdamas teisės į savo pasiūlymo galiojimo užtikrinimą, jeigu konkurso dokumentuose nenumatyta kitaip. Toks pakeitimas arba pranešimas, kad pasiūlymas atšaukiamas, pripažįstami galiojančiais, jeigu perkančioji organizacija jį gavo prieš pasibaigiant galutiniam konkurso pasiūlymų pateikimo terminui.
 
-\#### 23 straipsnis. Konkurso pasiūlymų galiojimo ir pirkimo sutarties įvykdymo užtikrinimas
+## 23 straipsnis. Konkurso pasiūlymų galiojimo ir pirkimo sutarties įvykdymo užtikrinimas
 
 1. Perkančioji organizacija privalo pareikalauti, kad konkurso pasiūlymų galiojimas ir pirkimo sutarties įvykdymas būtų užtikrinamas Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
 
@@ -448,7 +448,7 @@ Konkurso dokumentuose pateikiama:
 
 4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija turi teisę nustatyti konkurso pasiūlymų galiojimo užtikrinimo ir pirkimo sutarties įvykdymo užtikrinimo papildomus privalomuosius reikalavimus.
 
-\#### 24 straipsnis. Vokų su konkurso pasiūlymais atplėšimas
+## 24 straipsnis. Vokų su konkurso pasiūlymais atplėšimas
 
 1. Vokai su konkurso pasiūlymais atplėšiami Komisijos posėdyje, vykstančiame konkurso dokumentuose nurodytoje vietoje, nurodytą dieną ir valandą. Diena ir valanda turi sutapti su pasiūlymų pateikimo galutiniu terminu. Jį pakeitus, atitinkamai turi būti pakeistas ir vokų su konkurso pasiūlymais atplėšimo laikas. Nustatytu laiku turi būti atplėšti visi vokai su pasiūlymais, gauti nepasibaigus jų pateikimo terminui. Vokų atplėšimo procedūroje turi teisę dalyvauti visi pasiūlymus pateikę tiekėjai (rangovai) arba jų atstovai.
 
@@ -462,11 +462,11 @@ Konkurso dokumentuose pateikiama:
 
 6. Konkursui pateiktų pasiūlymų tolesnes nagrinėjimo, vertinimo ir palyginimo procedūras Komisija atlieka nedalyvaujant pasiūlymus pateikusiems tiekėjams (rangovams).
 
-\#### 25 straipsnis. Derybų su tiekėjais (rangovais) draudimas
+## 25 straipsnis. Derybų su tiekėjais (rangovais) draudimas
 
 Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių derybų dėl tiekėjo (rangovo) pateikto konkurso pasiūlymo turinio. Įstatymo nustatyta tvarka įrodžius neteisėtą derybų faktą, perkančioji organizacija skelbia konkursą negaliojančiu „Valstybės žinių“ priede „Informaciniai pranešimai“, o kalti asmenys traukiami atsakomybėn įstatymų nustatyta tvarka.
 
-\#### 26 straipsnis. Konkurso pasiūlymų nagrinėjimas, vertinimas ir palyginimas
+## 26 straipsnis. Konkurso pasiūlymų nagrinėjimas, vertinimas ir palyginimas
 
 1. Perkančioji organizacija gali prašyti, kad tiekėjai (rangovai) paaiškintų savo konkurso pasiūlymus. Tačiau ji negali prašyti, siūlyti arba leisti pakeisti konkurso pasiūlymo esmę – pakeisti kainą arba padaryti kitų pakeitimų, dėl kurių konkurso dokumentų reikalavimų neatitinkantis konkurso pasiūlymas taptų atitinkančiu konkurso dokumentų reikalavimus.
 
@@ -502,9 +502,9 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 9. Jeigu iki perkančiosios organizacijos nustatyto galutinio konkurso pasiūlymų pateikimo termino gaunama mažiau kaip 3 pasiūlymai arba, atmetus pasiūlymus pagal šio straipsnio reikalavimus, lieka mažiau kaip 3 pasiūlymai, konkursas laikomas neįvykusiu ir apie tai ne vėliau kaip per 3 darbo dienas išsiunčiamas pranešimas pasiūlymus pateikusiems tiekėjams (rangovams).
 
-\### TREČIASIS SKIRSNIS. RIBOTAS KONKURSAS
+TREČIASIS SKIRSNIS. RIBOTAS KONKURSAS
 
-\#### 27 straipsnis. Ribotas konkursas
+## 27 straipsnis. Ribotas konkursas
 
 1. Ribotas konkursas skelbiamas tuo atveju, kai numatoma daug tiekėjų (rangovų) ir pasiūlymams įvertinti reikėtų didelių sąnaudų.
 
@@ -536,9 +536,9 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 6. Jeigu iki perkančiosios organizacijos nustatyto galutinio konkurso pasiūlymų pateikimo termino gaunama mažiau kaip 3 pasiūlymai arba, atmetus pasiūlymus pagal šio įstatymo 26 straipsnio reikalavimus, lieka mažiau kaip 3 pasiūlymai, ribotas konkursas laikomas neįvykusiu ir apie tai ne vėliau kaip per 3 darbo dienas išsiunčiamas pranešimas pasiūlymus pateikusiems tiekėjams (rangovams).
 
-\### KETVIRTASIS SKIRSNIS. KONKURENCINĖS DERYBOS
+KETVIRTASIS SKIRSNIS. KONKURENCINĖS DERYBOS
 
-\#### 28 straipsnis. Konkurencinių derybų sąlygos
+## 28 straipsnis. Konkurencinių derybų sąlygos
 
 1. Konkurencinės derybos gali būti skelbiamos esant bent vienai šių sąlygų:
 
@@ -552,7 +552,7 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju perkančioji organizacija, neskelbdama kvietimo pateikti pirminius pasiūlymus konkurencinėms deryboms, gali rengti konkurencines derybas su dviem pasiūlymus konkursui pateikusiais tiekėjais (rangovais). Tokiu atveju konkurencinės derybos vykdomos vadovaujantis šio įstatymo 29 straipsnio 4 dalyje, 30 ir 31 straipsniuose nurodytomis procedūromis, iš esmės nekeičiant pirkimo sąlygų.
 
-\#### 29 straipsnis. Tiekėjų (rangovų) atranka deryboms
+## 29 straipsnis. Tiekėjų (rangovų) atranka deryboms
 
 1. Pirkimui konkurencinių derybų būdu perkančioji organizacija šio įstatymo 12 straipsnyje nustatyta tvarka kviečia tiekėjus (rangovus) pateikti pirminius pasiūlymus atrankai dalyvauti derybose. Kvietime pateikti pirminius pasiūlymus turi būti ši informacija:
 
@@ -578,7 +578,7 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 4. Raštiškame kvietime derėtis, kuris išsiunčiamas tiekėjams (rangovams), turi būti pateikiama informacija apie derybų laiką, vietą ir siūlomą derybų kalbą.
 
-\#### 30 straipsnis. Derybos su atrinktais tiekėjais (rangovais)
+## 30 straipsnis. Derybos su atrinktais tiekėjais (rangovais)
 
 1. Komisija turi teisę derėtis su tiekėju (rangovu) dėl pasiūlymų turinio.
 
@@ -590,7 +590,7 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 3) derybos turi būti protokoluojamos. Derybų protokolą pasirašo Komisijos pirmininkas ir derybose dalyvavę Komisijos nariai.
 
-\#### 31 straipsnis. Galutinių pasiūlymų pateikimas ir vertinimas
+## 31 straipsnis. Galutinių pasiūlymų pateikimas ir vertinimas
 
 1. Perkančioji organizacija, atsižvelgusi į derybų rezultatus, kviečia atrinktus tiekėjus (rangovus) pateikti galutinius pasiūlymus. Kvietime pateikti galutinius pasiūlymus turi būti ši informacija:
 
@@ -622,9 +622,9 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 6. Perkančioji organizacija pirkimo sutartį sudaro su tuo tiekėju (rangovu), kurio pasiūlymas Komisijos sprendimu pripažįstamas laimėjusiu.
 
-\### PENKTASIS SKIRSNIS. PIRKIMAS IŠ VIENINTELIO ŠALTINIO
+PENKTASIS SKIRSNIS. PIRKIMAS IŠ VIENINTELIO ŠALTINIO
 
-\#### 32 straipsnis. Pirkimas iš vienintelio šaltinio
+## 32 straipsnis. Pirkimas iš vienintelio šaltinio
 
 1. Perkančioji organizacija gali nusipirkti prekių, darbų arba paslaugų, pakvietusi pateikti pasiūlymą vienintelį tiekėją (rangovą), su kuriuo perkančioji organizacija gali derėtis dėl pasiūlymo turinio, kainos ir sutarties sąlygų.
 
@@ -650,9 +650,9 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 6. Komisija, nustačiusi, kad tiekėjo (rangovo) pasiūlymas atitinka perkančiosios organizacijos sąlygas, o kaina yra pagrįsta ir priimtina, priima sprendimą sudaryti pirkimo sutartį su šiuo tiekėju (rangovu).
 
-\### ŠEŠTASIS SKIRSNIS. KAINŲ APKLAUSA
+ŠEŠTASIS SKIRSNIS. KAINŲ APKLAUSA
 
-\#### 33 straipsnis. Kainų apklausa
+## 33 straipsnis. Kainų apklausa
 
 1. Pirkimas kainų apklausos būdu gali būti atliekamas tik esant visoms šioms sąlygoms:
 
@@ -690,9 +690,9 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 8. Jeigu iki perkančiosios organizacijos nustatyto pasiūlymų pateikimo termino gaunami mažiau kaip 3 pasiūlymai arba, atmetus pasiūlymus pagal šio įstatymo 26 straipsnio reikalavimus, lieka mažiau kaip 3 pasiūlymai, kainų apklausa laikoma neįvykusia ir apie tai ne vėliau kaip per 3 darbo dienas išsiunčiamas pranešimas pasiūlymus pateikusiems tiekėjams (rangovams).
 
-\### SEPTINTASIS SKIRSNIS. PIRKIMO SUTARTIES SUDARYMAS
+SEPTINTASIS SKIRSNIS. PIRKIMO SUTARTIES SUDARYMAS
 
-\#### 34 straipsnis. Pirkimo sutarties sudarymas ir keitimas
+## 34 straipsnis. Pirkimo sutarties sudarymas ir keitimas
 
 1. Pirkimo sutartis sudaroma ir nutraukiama vadovaujantis Lietuvos Respublikos civiliniu kodeksu ir šiuo įstatymu.
 
@@ -708,9 +708,9 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 7. Draudžiama didinti pirkimo kainą per visą pirkimo sutarties galiojimo laiką ir keisti privalomas konkurso metu nustatytas sudarytos pirkimo sutarties sąlygas, išskyrus kainos indeksavimą dėl infliacijos antraisiais ir vėlesniais metais, kai pirkimo sutartis sudaryta dėl viso objekto statybos, kurios trukmė ilgesnė nei 1 metai.
 
-\### AŠTUNTASIS SKIRSNIS. PIRKIMO PROCEDŪRŲ ATASKAITA
+AŠTUNTASIS SKIRSNIS. PIRKIMO PROCEDŪRŲ ATASKAITA
 
-\#### 35 straipsnis. Pirkimo procedūrų ataskaita
+## 35 straipsnis. Pirkimo procedūrų ataskaita
 
 1. Perkančioji organizacija ne vėliau kaip per 10 dienų nuo pirkimo sutarties sudarymo arba po pirkimų procedūrų pasibaigimo pateikia kiekvieno pirkimo procedūrų ataskaitą pagal Viešųjų pirkimų tarnybos patvirtintą formą. Ataskaitoje nurodoma:
 
@@ -742,17 +742,17 @@ Tarp perkančiosios organizacijos ir tiekėjo (rangovo) negali būti jokių dery
 
 5. Įvykdytos pirkimo sutartys, protokolai bei kiti su pirkimu susiję dokumentai saugomi Lietuvos Respublikos archyvų įstatymo nustatyta tvarka.
 
-\## III SKYRIUS. SKUNDŲ NAGRINĖJIMAS IR NUOSTOLIŲ
+III SKYRIUS. SKUNDŲ NAGRINĖJIMAS IR NUOSTOLIŲ
 
 ATLYGINIMAS
 
-\#### 36 straipsnis. Teisė pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus bei sprendimus
+## 36 straipsnis. Teisė pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus bei sprendimus
 
 1. Kiekvienas pirkimu suinteresuotas tiekėjas (rangovas), kuris mano, kad perkančioji organizacija nesilaikė šio įstatymo reikalavimų ir pažeidė jo teisėtus interesus, turi teisę iki Komisijos sprendimo apie laimėjusį pasiūlymą priėmimo pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus ar sprendimus šio įstatymo 37–41 straipsniuose nustatyta tvarka ir terminais.
 
 2. Tiekėjas (rangovas), nesutinkantis su Komisijos sprendimu dėl laimėjusio pasiūlymo pripažinimo ar manąs, kad sudaryta pirkimo sutartis pažeidžia jo teisėtus interesus, turi teisę kreiptis į teismą įstatymų nustatyta tvarka.
 
-\#### 37 straipsnis. Pretenzijų pateikimo, nagrinėjimo tvarka ir terminai
+## 37 straipsnis. Pretenzijų pateikimo, nagrinėjimo tvarka ir terminai
 
 1. Pretenzijos pateikiamos perkančiajai organizacijai raštu per 5 dienas nuo dienos, kurią tiekėjas (rangovas) sužinojo arba turėjo sužinoti apie savo teisėtų interesų pažeidimą.
 
@@ -766,7 +766,7 @@ ATLYGINIMAS
 
 6. Jeigu perkančioji organizacija neišnagrinėja pretenzijų per šio straipsnio 5 dalyje nurodytą terminą arba jas atmeta, tiekėjas (rangovas) gali pateikti skundą Viešųjų pirkimų tarnybai.
 
-\#### 38 straipsnis. Skundų pateikimo tvarka ir terminai
+## 38 straipsnis. Skundų pateikimo tvarka ir terminai
 
 1. Tiekėjas (rangovas) turi teisę pateikti skundą Viešųjų pirkimų tarnybai ir nepateikęs pretenzijos perkančiajai organizacijai.
 
@@ -778,7 +778,7 @@ ATLYGINIMAS
 
 5. Perkančioji organizacija turi pratęsti pirkimo procedūrų terminus pirkimo procedūrų sustabdymo laikui. Jei dėl skundo nagrinėjimo pratęsiami anksčiau tiekėjams (rangovams) pranešti pirkimo procedūrų terminai, apie tai perkančioji organizacija išsiunčia pranešimus kitiems tiekėjams (rangovams) ir nurodo terminų pratęsimo priežastis.
 
-\#### 39 straipsnis. Skundo forma ir turinys
+## 39 straipsnis. Skundo forma ir turinys
 
 1. Skundas Viešųjų pirkimų tarnybai pateikiamas raštu. Jame nurodoma:
 
@@ -794,7 +794,7 @@ ATLYGINIMAS
 
 2. Tiekėjas (rangovas) prie skundo prideda skundą pagrindžiančius dokumentus.
 
-\#### 40 straipsnis. Nepriklausoma viešųjų pirkimų ginčų nagrinėjimo komisija
+## 40 straipsnis. Nepriklausoma viešųjų pirkimų ginčų nagrinėjimo komisija
 
 1. Nepriklausoma viešųjų pirkimų ginčų nagrinėjimo komisija (toliau – Nepriklausoma komisija) – tai tiekėjų (rangovų) skundus nagrinėjanti komisija, veikianti pagal šį įstatymą bei Lietuvos Respublikos Vyriausybės patvirtintus nuostatus.
 
@@ -806,7 +806,7 @@ ATLYGINIMAS
 
 5. Nepriklausomos komisijos narių darbo apmokėjimo bei skundų nagrinėjimo Nepriklausomoje komisijoje išlaidų apmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-\#### 41 straipsnis. Skundų nagrinėjimo tvarka ir terminai
+## 41 straipsnis. Skundų nagrinėjimo tvarka ir terminai
 
 1. Nepriklausoma komisija nagrinėja tik tuos tiekėjų (rangovų) skundus, kurie gauti iki Komisijos sprendimo apie laimėjusį pasiūlymą priėmimo ir pateikti laikantis šio įstatymo 38 ir 39 straipsnių reikalavimų.
 
@@ -828,25 +828,25 @@ ATLYGINIMAS
 
 7. Skundų nagrinėjimo bei Nepriklausomos komisijos narių nušalinimo nuo ginčų nagrinėjimo sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-\#### 42 straipsnis. Viešųjų pirkimų tarnybos veiksmų ir Nepriklausomos komisijos sprendimų apskundimas
+## 42 straipsnis. Viešųjų pirkimų tarnybos veiksmų ir Nepriklausomos komisijos sprendimų apskundimas
 
 Tiekėjas (rangovas) ir perkančioji organizacijaturi teisę Viešųjų pirkimų tarnybos veiksmus ir Nepriklausomos komisijos sprendimus įstatymų nustatyta tvarka apskųsti teismui.
 
-\#### 43 straipsnis. Tiekėjo (rangovo) teisė išieškoti nuostolius
+## 43 straipsnis. Tiekėjo (rangovo) teisė išieškoti nuostolius
 
 Jeigu perkančioji organizacija nevykdo šio įstatymo ir kitų teisės aktų nustatytų reikalavimų ar pažeidžia tiekėjo (rangovo) teises, tiekėjas (rangovas) turi teisę įstatymų nustatyta tvarka kreiptis į teismą ir išieškoti padarytus nuostolius.
 
-\#### 44 straipsnis. Tiekėjo (rangovo) atsakomybė
+## 44 straipsnis. Tiekėjo (rangovo) atsakomybė
 
 Jei tiekėjas (rangovas) perkančiajai organizacijai pateikia suklastotus dokumentus ar neteisingus duomenis arba nevykdo šio įstatymo ir kitų teisės aktų nustatytų reikalavimų, perkančioji organizacija įstatymų nustatyta tvarka gali kreiptis į teismą ir išieškoti iš tiekėjo (rangovo) padarytus nuostolius.
 
-\#### 45 straipsnis. Perkančiosios organizacijos vadovų ar kitų įgaliotų asmenų atsakomybė
+## 45 straipsnis. Perkančiosios organizacijos vadovų ar kitų įgaliotų asmenų atsakomybė
 
 Perkančiosios organizacijos vadovai ar kiti įgalioti asmenys (Komisijos nariai ir ekspertai), pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
-\## IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 46 straipsnis. Įstatymo įsigaliojimas
+## 46 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 1999 m. spalio 1 d., išskyrus III skyrių, kuris įsigalioja nuo 2000 m. sausio 1 d.
 

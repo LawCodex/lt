@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B9E1D301256F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymas
@@ -2999,4 +2999,4 @@ Nr. XV-83, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23078
 
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 43 straipsnio pakeitimo įstatymas
 
-\* Jeigu yra centrinio mokesčių administratoriaus ir kitos valstybės narės kompetentingos institucijos susitarimas, visiems arba kai kuriems šiame priede nurodytiems tarp Lietuvos Respublikos ir kitos valstybės narės gabenamiems energiniams produktams gali būti netaikomi visi Lietuvos Respublikos akcizų įstatyme nustatyti akcizais apmokestinamų prekių gabenimo tarp valstybių narių reikalavimai arba jų dalis.
+* Jeigu yra centrinio mokesčių administratoriaus ir kitos valstybės narės kompetentingos institucijos susitarimas, visiems arba kai kuriems šiame priede nurodytiems tarp Lietuvos Respublikos ir kitos valstybės narės gabenamiems energiniams produktams gali būti netaikomi visi Lietuvos Respublikos akcizų įstatyme nustatyti akcizais apmokestinamų prekių gabenimo tarp valstybių narių reikalavimai arba jų dalis.

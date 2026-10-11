@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E8FE7C311C62.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45-1 straipsniu įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55-6 straipsniu ir VII skyriumi įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo, Ligos ir motinystės socialinio draudimo įstatymo pakeitimo ir papildymo įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.059A886EC6B9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.059A886EC6B9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 3, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981); 2002, Nr. [105-4691](https://www.e-tar.lt/portal/lt/legalAct/TAR.FA95BD27DA54))
 
-\#### 1 straipsnis. 3 straipsnio 4, 5 ir 6 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 4, 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „6. II, III ir IV grupių miškuose plynų sanitarinių kirtimų plotas neribojamas. Pagrindiniai plyni kirtimai draudžiami nacionaliniuose parkuose esančiuose III ir IV grupių miškuose, išskyrus pelkinius ir užpelkėjusių augaviečių medynus ir blogos sanitarinės būklės medynus, kurių būklės negalima pagerinti neplynais kirtimais.“
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas
+## 2 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 6. Miško valdytojams, savininkams ir naudotojams leidimas pagrindiniams miško kirtimams neišduodamas, jei jų valdoje per šio straipsnio 4 dalyje nustatytus terminus neatkurtas iškirstasis miškas.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 

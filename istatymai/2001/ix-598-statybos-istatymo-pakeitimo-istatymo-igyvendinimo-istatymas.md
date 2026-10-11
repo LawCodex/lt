@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6C809874B3E6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6C809874B3E6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ STATYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos statybos įstatymo pakeitimo įstatymo įsigaliojimas
+## 1 straipsnis. Lietuvos Respublikos statybos įstatymo pakeitimo įstatymo įsigaliojimas
 
 1. Statybos įstatymo pakeitimo įstatymas, išskyrus jame išdėstyto Statybos įstatymo vienuoliktąjį skirsnį, įsigalioja nuo 2002 m. liepos 1 d.
 
@@ -38,7 +38,7 @@ Vilnius
 
 2) kitam bet kuriam statiniui – savivaldybės mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo).
 
-\#### 2 straipsnis. Pasiūlymai Vyriausybei
+## 2 straipsnis. Pasiūlymai Vyriausybei
 
 1. Vyriausybė iki 2002 m. kovo 1 d. parengia ir pateikia Seimui Nekilnojamųjų kultūros vertybių apsaugos įstatymo pakeitimo įstatymo projektą.
 

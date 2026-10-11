@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.65D094A8CB46"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.65D094A8CB46.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 6, 10, 12, 16, 17, 18, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [15-601](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CE484E7CF61), Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [102-4586](https://www.e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3), Nr. [116-5254](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BE08993974A), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [50-1633](https://www.e-tar.lt/portal/lt/legalAct/TAR.CE002F94C290), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15), Nr. [73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4), Nr. [98-3628](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B246085AC76), Nr. [134-4837](https://www.e-tar.lt/portal/lt/legalAct/TAR.7EF06B095A43), Nr. [158-5757](https://www.e-tar.lt/portal/lt/legalAct/TAR.770DDEDE7A78), Nr. [167-6108](https://www.e-tar.lt/portal/lt/legalAct/TAR.50CB57548C2E); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6), 2744, Nr. [81-2943](https://www.e-tar.lt/portal/lt/legalAct/TAR.908201CFCB80), Nr. [88-3293](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A19475ECAFE), Nr. [121-4332](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3513BAA7B85), Nr. [153-5634](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3F7168AFD0D), 5636; 2006, Nr. 41-1462, Nr. 50-1801, Nr. 48-1702, Nr. 82-3249, 3263, Nr. 111-4197, Nr. 127-4821, Nr. 141-5396; 2007, Nr. 43-1629; 2008, Nr. 15-510, Nr. 47-1750, Nr. 63-2381, Nr. 149-6028, 6029, 6033; 2009, Nr. 25-978, Nr. 93-3977, Nr. 153-6882; 2010, Nr. 41-1931)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 7 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 7. Buvusią 2 straipsnio 35 dalį laikyti 36 dalimi.
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 6 straipsnį nauja 3 dalimi:
 
@@ -68,13 +68,13 @@ Vilnius
 
 „6. Gyventojas gali pasirinkti mokėti fiksuoto dydžio pajamų mokestį nuo nekilnojamojo pagal prigimtį daikto nuomos pajamų, jeigu pajamos iš šios nuomos per mokestinį laikotarpį neviršija Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 71 straipsnio 2 dalyje nustatyto atlygio už suteiktas paslaugas dydžio. Šių sąlygų neatitinkančio verslo liudijimą įsigijusio gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą, kuris pradedamas taikyti gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamoms, gautoms mėnesį, einantį po mėnesio, kurį gyventojas neteko teisės pasirinkti mokėti fiksuoto dydžio pajamų mokestį. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.“
 
-\#### 3 straipsnis. 10 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 10 straipsnio 1 dalies pakeitimas
 
 10 straipsnio 1 dalyje po žodžių „individualios veiklos turto“ įrašyti žodžius „išskyrus nekilnojamąjį pagal prigimtį daiktą, nuomos“ ir šią dalį išdėstyti taip:
 
 „1. Individualios veiklos pajamoms priskiriamos pajamos iš individualios veiklos, įskaitant pajamas iš individualios veiklos turto, išskyrus nekilnojamąjį pagal prigimtį daiktą, nuomos, pardavimo ar kitokio perleidimo nuosavybėn.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 Pajamomis iš paskirstytojo pelno laikomi dividendai. Dividendais laikomos ir skirstant vieneto pelną ar mažinant vieneto įstatinį kapitalą, sudarytą ne iš vieneto dalyvių įnašų, vieneto dalyvio gautos lėšos ir (arba) vieneto dalyviui perleisto turto tikroji rinkos kaina to turto nuosavybės teisės perleidimo vieneto dalyviui dieną. Mažinant vieneto įstatinį kapitalą, laikoma, kad pirmiausia vieneto dalyviams išmokama ta įstatinio kapitalo dalis, kuri buvo sudaryta padidinus įstatinį kapitalą iš vieneto lėšų, o ne iš vieneto dalyvių įnašų.“
 
-\#### 5 straipsnis. 16 straipsnio 1 dalies 4 ir 6 punktų pakeitimas
+## 5 straipsnis. 16 straipsnio 1 dalies 4 ir 6 punktų pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pajamomis iš paskirstytojo pelno laikomi dividendai. Dividendais laikomos ir sk
 
 „6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 1 dalyje nustatytas pajamų mokesčio tarifas) – šio Įstatymo 21 straipsnyje nustatyta tvarka.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pajamomis iš paskirstytojo pelno laikomi dividendai. Dividendais laikomos ir sk
 
 „2. Šio straipsnio 1 dalies 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 23, 24, 27, 28, 29, 30, 32, 33, 34, 36, 39, 40, 42, 46 ir 53 punktuose nustatytos lengvatos, taip pat 26 punkte nustatyta lengvata dovanojimo būdu iš kitų negu sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys, vaikaičiai ir seneliai gautoms pajamoms netaikomos, jeigu gyventojo atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar gyventojų, kurių nuolatinė gyvenamoji vieta yra tikslinėje teritorijoje.“
 
-\#### 7 straipsnis. 18 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 13 dalimi
+## 7 straipsnis. 18 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 13 dalimi
 
 1. 18 straipsnio 4 dalies pirmojoje pastraipoje vietoj skaičiaus „2“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pajamomis iš paskirstytojo pelno laikomi dividendai. Dividendais laikomos ir sk
 
 „13. Iš pajamų, pripažįstamų pagal kaupimo apskaitos principą, atskaitoma mokestiniu laikotarpiu atsiradusi beviltiškų skolų suma, jeigu ta suma buvo įtraukta į gyventojo individualios veiklos pajamas. Iš pajamų, pripažįstamų pagal pinigų apskaitos principą, atskaitoma mokestiniu laikotarpiu atsiradusioms beviltiškoms skoloms tenkanti sąnaudų dalis, jeigu šių skolų atsiradimas buvo užfiksuotas individualios veiklos pajamų apskaitos dokumentuose. Jeigu atskaitytas beviltiškas skolas skolininkas ar kitas asmuo vėliau grąžina, visa grąžintų skolų suma priskiriama pajamoms. Skolos yra laikomos beviltiškomis, jeigu gyventojas negali jų susigrąžinti praėjus ne mažiau kaip vieniems metams nuo skolos sumos įtraukimo į individualios veiklos pajamas ar nuo skolų atsiradimo užfiksavimo individualios veiklos pajamų apskaitos dokumentuose arba jeigu skolininkas yra miręs ar paskelbtas mirusiu, arba likviduotas, arba bankrutavęs. Visais šiais atvejais gyventojas turi įrodyti skolos beviltiškumą ir pastangas šioms skoloms susigrąžinti. Skolų beviltiškumo, pastangų šioms skoloms susigrąžinti įrodymo ir beviltiškų skolų sumų apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Šios dalies nuostatos netaikomos tais atvejais, kai skolininkas ir kreditorius yra susiję asmenys arba jais tapo mokestiniu laikotarpiu, einančiu po to mokestinio laikotarpio, kurį skola buvo pripažinta beviltiška ir įtraukta į leidžiamus atskaitymus šioje dalyje nustatyta tvarka.“
 
-\#### 8 straipsnis. 19 straipsnio pavadinimo ir 1, 2, 6 dalių pakeitimas
+## 8 straipsnis. 19 straipsnio pavadinimo ir 1, 2, 6 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -150,19 +150,19 @@ Pajamomis iš paskirstytojo pelno laikomi dividendai. Dividendais laikomos ir sk
 
 „6. Lietuvos Respublikos Vyriausybė turi teisę nustatyti turto įsigijimo kainos nustatymo tam tikrais atvejais taisykles.“
 
-\#### 9 straipsnis. 20 straipsnio 7 dalies pakeitimas
+## 9 straipsnis. 20 straipsnio 7 dalies pakeitimas
 
 20 straipsnio 7 dalyje po žodžio „išskyrus“ įrašyti žodžius „apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 3 dalyje nustatytas mokesčio tarifas, pajamas, nuo kurių mokestis sumokėtas įsigyjant verslo liudijimą,taip pat“ ir šią dalį išdėstyti taip:
 
 „7. GMP yra lygios gyventojo mokestinio laikotarpio apmokestinamųjų pajamų, išskyrus apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 3 dalyje nustatytas mokesčio tarifas, pajamas, nuo kurių mokestis sumokėtas įsigyjant verslo liudijimą, taip pat išmokas, mokamas pasibaigus ar nutraukus gyvybės draudimo ar pensijų kaupimo sutartį, neviršijančias sumokėtų įmokų dydžio, sumai, neatėmus šio Įstatymo 21 straipsnyje nurodytų išlaidų ir gyventojui taikytino MNPD, ir metinio papildomo neapmokestinamojo pajamų dydžio (toliau – MPNPD).“
 
-\#### 10 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 10 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 21 straipsnio 3 dalyje po žodžių „apmokestinamųjų pajamų“ įrašyti žodžius „kurioms taikomas šio Įstatymo 6 straipsnio 1 dalyje nustatytas mokesčio tarifas“ ir šią dalį išdėstyti taip:
 
 „3. Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomas šio Įstatymo 6 straipsnio 1 dalyje nustatytas pajamų mokesčio tarifas, sumos, apskaičiuotos šio Įstatymo 16 straipsnio 1 dalyje nustatyta tvarka, atėmus 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas.“
 
-\#### 11 straipsnis. 22 straipsnio 2 dalies pakeitimas
+## 11 straipsnis. 22 straipsnio 2 dalies pakeitimas
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) iš nuolatinio Lietuvos gyventojo gautos su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos, sporto veiklos pajamos, atlikėjo veiklos pajamos, palūkanos ir honorarai, taip pat iš nuolatinio Lietuvos gyventojo, vykdančio individualią netauriųjų metalų laužo supirkimo veiklą, už parduotą arba kitaip perleistą nuosavybėn netauriųjų metalų laužą gautos individualios ir ne individualios veiklos pajamos.“
 
-\#### 12 straipsnis. Įstatymo taikymas
+## 12 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo 1, 3, 4, 5, 7, 8, 9, 10, 11 straipsnių, 2 straipsnio 1 ir 2 dalių ir 6 straipsnio 2, 4, 5 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
 

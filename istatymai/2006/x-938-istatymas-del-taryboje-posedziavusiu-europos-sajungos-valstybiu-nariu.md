@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E3D25A5674BC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E3D25A5674BC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimo dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų ratifikavimo
@@ -26,7 +26,7 @@ DĖL TARYBOJE POSĖDŽIAVUSIŲ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ VYRIAUSYBIŲ 
 
 Vilnius
 
-\#### 1 straipsnis. Sprendimo ratifikavimas
+## 1 straipsnis. Sprendimo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 27 d. dekretą Nr. 788, ratifikuoja 2004 m. lapkričio 10 d. Briuselyje priimtą Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimą dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų.
 

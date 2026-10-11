@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A6493C2121D2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A6493C2121D2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymo 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [66-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76); 2002, Nr. [123-5558](https://www.e-tar.lt/portal/lt/legalAct/TAR.98F43C3F0156); 2004, Nr. [116-4324](https://www.e-tar.lt/portal/lt/legalAct/TAR.35857BF6BFA9); 2006, Nr. [77-2972](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5B49B4387E9))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. 2 straipsnio 1 dalį pripažinti netekusia galios.
 
@@ -38,7 +38,7 @@ Vilnius
 
 „7. **Regionų socialinių ir ekonominių skirtumų mažinimo programa –**nacionalinės regioninės politikos strateginio planavimo dokumentas, kuriame nurodomi plėtros laikotarpio nacionalinės regioninės politikos tikslai, uždaviniai ir prioritetai, taip pat išskirtų probleminių teritorijų plėtros strateginiai tikslai ir uždaviniai bei pasiūlymai dėl regionų, turinčių atskirų ūkio šakų (sektorių) specifinių regioninių ir vietinių problemų, kurios spręstinos per tų ūkio šakų (sektorių) plėtros strategijas ir programas, plėtros.“
 
-\#### 2 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas
+## 2 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas
 
 1. 4 straipsnio 3 dalyje išbraukti žodžius „jeigu Nacionaliniame plėtros plane (Bendrajame programavimo dokumente) yra numatyta remti tos probleminės teritorijos plėtros programą atitinkančius projektus“ ir šią dalį išdėstyti taip:
 
@@ -48,25 +48,25 @@ Vilnius
 
 „4. Socialinės ir ekonominės plėtros bei infrastruktūros projektai, skirti konkrečių regionų atskirų ūkio šakų (sektorių) specifinėms regioninėms ir vietinėms problemoms spręsti, gali būti finansuojami iš valstybės biudžeto, jeigu jie yra įtraukti į atskirų ūkio šakų (sektorių) plėtros strategijas, atitinka galiojančius teritorijų bendruosius ir specialiuosius planus ir neprieštarauja Lietuvos Respublikos teritorijos bendrajam planui, taip pat iš kitų finansavimo šaltinių ir iš Europos Sąjungos paramos fondų.“
 
-\#### 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
 
 Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Prieš Vyriausybei sudarant regionus, kurių ribos nesutampa su apskričių teritorijų ribomis, Vidaus reikalų ministerija šį klausimą derina su į tokį regioną įeisiančių savivaldybių tarybomis ir apskričių viršininkais.“
 
-\#### 4 straipsnis. 6 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 6 straipsnio 2 dalies pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Sprendimą dėl probleminių teritorijų išskyrimo priima Vyriausybė Vidaus reikalų ministerijos teikimu. Iki teikimo klausimas dėl probleminių teritorijų išskyrimo turi būti apsvarstytas Nacionalinėje regioninės plėtros taryboje.“
 
-\#### 5 straipsnis. 7 straipsnio 1 dalies 2 punkto pakeitimas
+## 5 straipsnis. 7 straipsnio 1 dalies 2 punkto pakeitimas
 
 7 straipsnio 1 dalies 2 punkte vietoj žodžių „iniciatyvos (planas)“ įrašyti žodį „programa“ ir šį punktą išdėstyti taip:
 
 „2) regionų socialinių ir ekonominių skirtumų mažinimo programa; probleminių teritorijų plėtros programos.“
 
-\#### 6 straipsnis. 8 straipsnio 1 dalies 1 punkto ir 3 dalies pakeitimas
+## 6 straipsnis. 8 straipsnio 1 dalies 1 punkto ir 3 dalies pakeitimas
 
 1. 8 straipsnio 1 dalies 1 punkte vietoj žodžių „Nacionalinį plėtros planą (Bendrąjį programavimo dokumentą)“ įrašyti žodžius „nacionalinius Europos Sąjungos struktūrinės paramos programavimo dokumentus“ ir šį punktą išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3. Regionų plėtros planai rengiami vadovaujantis metodika, kurią tvirtina Vidaus reikalų ministerija.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 4. Vyriausybei išskyrus problemines teritorijas ir patvirtinus regionų socialinių ir ekonominių skirtumų mažinimo programą, Vidaus reikalų ministerija, bendradarbiaudama su apskričių, kuriose yra probleminė teritorija, ir savivaldybių administracijomis, organizuoja probleminės teritorijos plėtros programos parengimą. Probleminės teritorijos plėtros programą svarsto Nacionalinė regioninės plėtros taryba. Nacionalinės regioninės plėtros tarybos pritarimu probleminės teritorijos plėtros programą tvirtina Vyriausybė.“
 
-\#### 8 straipsnis. 10 straipsnio papildymas ir pakeitimas
+## 8 straipsnis. 10 straipsnio papildymas ir pakeitimas
 
 Papildyti 10 straipsnį nauju 4 punktu, buvusius 4, 5, 6 punktus laikyti atitinkamai 5, 6,7 punktais, 5 ir 6 punktus pakeisti ir visą straipsnį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Vyriausybė, nustatydama ir įgyvendindama nacionalinę regioninę politiką:
 
 7) sudaro regionus iš kelių bendras ribas turinčių apskričių ar savivaldybių, nustato jų plėtros tarybų sudarymo tvarką ir paskiria instituciją šio Įstatymo 14 straipsnyje numatytiems įgaliojimams vykdyti.“
 
-\#### 9 straipsnis. 11 straipsnio pakeitimas
+## 9 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 3. Ministerijos, kurioms Vidaus reikalų ministerija pateikė rekomendacijas dėl regionų socialinių ir ekonominių skirtumų mažinimo programos įgyvendinimo, turi pateikti Vidaus reikalų ministerijai motyvuotą informaciją, į kokias rekomendacijas neatsižvelgta.“
 
-\#### 10 straipsnis. 12 straipsnio 4 dalies 2 ir 4 punktų pakeitimas
+## 10 straipsnis. 12 straipsnio 4 dalies 2 ir 4 punktų pakeitimas
 
 1. 12 straipsnio 4 dalies 2 punkte vietoj žodžių „iniciatyvas (planą)“ įrašyti žodį „programą“, vietoj žodžių „siūlymus Vyriausybės įgaliotai institucijai dėl šių iniciatyvų (plano)“ įrašyti žodžius „Vidaus reikalų ministerijai išvadas dėl šios programos“ ir šį punktą išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „4) svarsto ir teikia Vidaus reikalų ministerijai išvadas dėl regionų plėtros programos, skirtos teikti pagalbą rengiant regionų plėtros planus, vietines iniciatyvas atitinkančius projektinius pasiūlymus bei įgyvendinant tarptautinį bendradarbiavimą regioninės politikos srityje, dėl lėšų panaudojimo;“.
 
-\#### 11 straipsnis. 13 straipsnio 2 dalies, 6 dalies 3, 4, 5, 6, 7 punktų ir 8 dalies pakeitimas
+## 11 straipsnis. 13 straipsnio 2 dalies, 6 dalies 3, 4, 5, 6, 7 punktų ir 8 dalies pakeitimas
 
 1. 13 straipsnio 2 dalyje išbraukti žodžius „teritorinės darbo biržos atstovo“ ir šią dalį išdėstyti taip:
 
@@ -200,7 +200,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „8. Regiono plėtros taryba sprendimus dėl regiono plėtros plano, jo įgyvendinimo, probleminės teritorijos išskyrimo bei tos probleminės teritorijos plėtros programos, aktualiausių regiono socialinės ir ekonominės plėtros projektų, taip pat kitus sprendimus, galinčius turėti esminės įtakos to regiono (apskrities) socialinei ir ekonominei plėtrai, priima pasikonsultavusi su socialiniais ir ekonominiais partneriais bei teritorinių darbo biržų atstovais. Šiam tikslui regiono plėtros taryba gali sudaryti konsultacinę socialinių ir ekonominių partnerių darbo grupę, kuri pateikia išvadas dėl numatomo priimti sprendimo. Priimdama sprendimą, regiono plėtros taryba įvertina darbo grupės išvadas.“
 
-\#### 12 straipsnis. 14 straipsnio pakeitimas ir papildymas
+## 12 straipsnis. 14 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 14 straipsnį ir jį išdėstyti taip:
 

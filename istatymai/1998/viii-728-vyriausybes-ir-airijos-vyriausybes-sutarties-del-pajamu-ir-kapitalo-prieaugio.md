@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7D87CF842F0D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7D87CF842F0D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutarties dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ratifikavimo įstatymas
@@ -26,7 +26,7 @@ VYRIAUSYBĖS IR AIRIJOS VYRIAUSYBĖS SUTARTIES DĖL PAJAMŲ IR KAPITALO PRIEAUGI
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 26 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutartį dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja 1997 m. lapkričio 18 d. Dubline pasirašytą Lietuvos Respublikos Vyriausybės ir Airijos Vyriausybės sutartį dėl pajamų ir kapitalo prieaugio pajamų dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo.
 

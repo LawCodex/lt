@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FDC9EB39912D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FDC9EB39912D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [54-1492](https://www.e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98))
 
-\#### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 1 dalies pakeitimas
 
 Iš 13 straipsnio 1 dalies 3 punkto išbraukti žodžius „jei tų visuomeninių organizacijų šiuo metu naudojamas ilgalaikis materialusis turtas iki 1940 metų joms priklausė nuosavybės teise“, įrašyti žodžius „ir politinėms partijoms“ ir šį punktą išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1CB190FE2386"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1CB190FE2386.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E); 2010, Nr. [123-6260](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A0A728FEF4C))
 
-\#### 1 straipsnis. 47 straipsnio pakeitimas
+## 1 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 19. Komisijos nariams ir administracijai draudžiama platinti informaciją, kuri yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų komercinė paslaptis.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas įsigalioja 2013 m. sausio 1 d. Įsigaliojus šiam įstatymui, Lietuvos radijo ir televizijos komisija sudaroma iš naujo ir Komisijos nariai skiriami vadovaujantis šio įstatymo nuostatomis. Komisijos nariai eina pareigas iki tol, kol bus sudaryta nauja Komisija.
 

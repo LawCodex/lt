@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8ec71db24cde11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8EC71DB24CDE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.228-3, 6.228-7, 6.228-10 straipsnių ir priedo pakeitimo įstatymas
@@ -26,19 +26,19 @@ CIVILINIO KODEKSO 6.2283, 6.2287, 6.22810 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 6.2283 straipsnio pakeitimas
+## 1 straipsnis. 6.2283 straipsnio pakeitimas
 
 Pakeisti 6.228^3 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) sutartims dėl finansinių paslaugų, išskyrus nuotolines finansinių paslaugų sutartis. Nuotolinėms finansinių paslaugų sutartims taikomos šio kodekso 6.228^1, 6.228^2 straipsnių, 6.228^5 straipsnio 3 ir 5 dalių, 6.228^7 straipsnio 6 dalies,6.228^8 straipsnio 5 dalies, 6.228^10 straipsnio 11–16 dalių ir 6.228^16 straipsnio nuostatos;“.
 
-\#### 2 straipsnis. 6.2287 straipsnio pakeitimas
+## 2 straipsnis. 6.2287 straipsnio pakeitimas
 
 Pakeisti 6.228^7 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) teisė atsisakyti sutarties: šios teisės įgyvendinimo sąlygos, terminas ir tvarka pagal šio kodekso 6.228^10 straipsnį, taip pat pavyzdinė sutarties atsisakymo forma ir, jei reikalinga, informacija apie sutarties atsisakymo funkciją ir jos pateikimo vietą arba informacija, kad vartotojas neturi teisės atsisakyti sutarties pagal šio kodekso 6.228^10 straipsnį, arba, jei reikalinga, aplinkybės, kuriomis vartotojas praranda teisę atsisakyti sutarties;“.
 
-\#### 3 straipsnis. 6.22810 straipsnio pakeitimas
+## 3 straipsnis. 6.22810 straipsnio pakeitimas
 
 Papildyti 6.228^10 straipsnį 11–16 dalimis:
 
@@ -60,13 +60,13 @@ Papildyti 6.228^10 straipsnį 11–16 dalimis:
 
 16. Jeigu Europos Sąjungos teisės aktuose ar kituose Europos Sąjungos teisės aktų įgyvendinamuosiuose įstatymuose nustatytos kitokios, negu nustatyta šio straipsnio 11–15 dalyse, sutarties atsisakymo taisyklės, šis kodeksas taikomas tiek, kiek nurodyti kiti įstatymai ar Europos Sąjungos teisės aktai nenustato kitaip.“
 
-\#### 4 straipsnis. Kodekso priedo pakeitimas
+## 4 straipsnis. Kodekso priedo pakeitimas
 
 Pakeisti Kodekso priedo 4 punktą ir jį išdėstyti taip:
 
 „4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva [2011/83/ES](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011L0083&locale=lt) dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva [93/13/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31993L0013&locale=lt) ir Europos Parlamento ir Tarybos direktyva [1999/44/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31999L0044&locale=lt) bei panaikinamos Tarybos direktyva [85/577/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31985L0577&locale=lt) ir Europos Parlamento ir Tarybos direktyva [97/7/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31997L0007&locale=lt), su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva [(ES) 2023/2673](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2673&locale=lt).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 19 d.
 

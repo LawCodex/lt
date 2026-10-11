@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/41329930ccfd11ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.41329930CCFD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo socialinio draudimo pensijų ir valstybinių pensijų indeksavimo 2022 metais įstatymas
@@ -26,7 +26,7 @@ PAPILDOMO SOCIALINIO DRAUDIMO PENSIJŲ IR VALSTYBINIŲ PENSIJŲ INDEKSAVIMO 2022
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šio įstatymo paskirtis – siekiant mažinti dėl infliacijos kilusius neigiamus ekonominius ir socialinius padarinius, nustatyti papildomą socialinio draudimo pensijų ir valstybinių pensijų indeksavimą 2022 metais, papildomai indeksuotų šio straipsnio 2 dalyje nurodytų pensijų mokėjimo tvarką ir papildomo indeksavimo finansavimo šaltinius.
 
@@ -38,13 +38,13 @@ Vilnius
 
 3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Socialinio draudimo pensijų įstatyme ir Valstybinių pensijų įstatyme.
 
-\#### 2 straipsnis. Papildomo indeksavimo finansavimo šaltiniai
+## 2 straipsnis. Papildomo indeksavimo finansavimo šaltiniai
 
 1. Papildomas pensijų, nurodytų šio įstatymo 1 straipsnio 2 dalies 1 punkte, indeksavimas finansuojamas iš Valstybinio socialinio draudimo fondo biudžeto lėšų ir iš Lietuvos Respublikos valstybės biudžeto lėšų pagal Socialinio draudimo pensijų įstatymo 9 straipsnį.
 
 2. Papildomas valstybinių pensijų, pareigūnų ir karių valstybinės pensijos priedo, nurodytų šio įstatymo 1 straipsnio 2 dalies 2 punkte, indeksavimas finansuojamas iš Valstybės biudžeto lėšų pagal Valstybinių pensijų įstatymo 2 straipsnį bei Pareigūnų ir karių valstybinių pensijų įstatymo 2 straipsnį.
 
-\#### 3 straipsnis. Papildomo pensijų indeksavimo koeficientai 2022 metais
+## 3 straipsnis. Papildomo pensijų indeksavimo koeficientai 2022 metais
 
 1. Šio įstatymo 1 straipsnio 2 dalies 1 punkte nurodytoms pensijoms, mokamoms už laikotarpį nuo 2022 m. birželio 1 d. iki 2022 m. gruodžio 31 d., apskaičiuoti Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto 2022 metų rodiklių patvirtinimo įstatyme patvirtinami papildomo socialinio draudimo pensijų indeksavimo koeficientas ir pagal šį koeficientą indeksuoti socialinio draudimo bazinės pensijos ir pensijų apskaitos vieneto vertės dydžiai.
 
@@ -54,7 +54,7 @@ Vilnius
 
 2) papildomo valstybinių pensijų indeksavimo koeficientas, pagal kurį indeksuojamos pensijos, nurodytos Valstybinių pensijų įstatymo 1 straipsnio 1 dalies 3 ir 5 punktuose.
 
-\#### 4 straipsnis. Pensijų apskaičiavimo, taikant papildomą indeksavimą, ir mokėjimo tvarka
+## 4 straipsnis. Pensijų apskaičiavimo, taikant papildomą indeksavimą, ir mokėjimo tvarka
 
 1. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus įgaliota (-os) Valstybinio socialinio draudimo fondo administravimo įstaiga (-os) (toliau – Valstybinio socialinio draudimo fondo administravimo įstaiga):
 
@@ -70,7 +70,7 @@ Vilnius
 
 3. Papildomai indeksuotos pensijos, nurodytos šio įstatymo 1 straipsnio 2 dalies 1 punkte, ir papildomai indeksuotos valstybinės pensijos, nurodytos šio įstatymo 1 straipsnio 2 dalies 2 punkte, kurios mokamos už einamąjį mėnesį, jų gavėjams pradedamos mokėti ne vėliau kaip 2022 m. liepos mėnesį, kartu išmokant nuo 2022 m. birželio 1 d. susidariusią jų nepriemoką (jeigu tokia susidarė). Papildomai indeksuotos pensijos, nurodytos šio įstatymo 1 straipsnio 2 dalies 1 punkte, ir papildomai indeksuotos valstybinės pensijos, nurodytos šio įstatymo 1 straipsnio 2 dalies 2 punkte, kurios mokamos už praėjusį mėnesį, bei pareigūnų ir karių valstybinės pensijos priedas pradedami mokėti nuo 2022 m. liepos mėnesio (už 2022 m. birželio mėnesį).
 
-\#### 5 straipsnis. Asmens duomenų tvarkymas
+## 5 straipsnis. Asmens duomenų tvarkymas
 
 1. Asmens duomenų, gautų įgyvendinant šį įstatymą, tvarkymo tikslas – šio įstatymo 1 straipsnio 2 dalyje nurodytų pensijų bei pareigūnų ir karių valstybinės pensijos priedo mokėjimas ir lėšų, skirtų šioms pensijoms ir priedui mokėti, apskaita.
 
@@ -78,7 +78,7 @@ Vilnius
 
 3. Įgyvendindami šį įstatymą, duomenų valdytojai užtikrina, kad jų atliekamas asmens duomenų tvarkymas atitiktų Reglamento (ES) 2016/679, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nuostatas.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2022 m. birželio 1 d.
 

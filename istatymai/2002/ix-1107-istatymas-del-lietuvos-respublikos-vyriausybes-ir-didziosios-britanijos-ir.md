@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4311A74D2DCA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4311A74D2DCA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Didžiosios Britanijos ir Šiaurės Airijos Jungtinės Karalystės Vyriausybės protokolo, pakeičiančio Lietuvos Respublikos Vyriausybės ir Didžiosios Britanijos ir Šiaurės Airijos Jungtinės Karalystės Vyriausybės sutartį dėl pajamų bei kapitalo prieaugio pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, ratifikavimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS IR DIDŽIOSIOS BRITANIJOS IR ŠIAURĖS AI
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 5 d. dekretą Nr. 1880, ratifikuoja Lietuvos Respublikos Vyriausybės ir Didžiosios Britanijos ir Šiaurės Airijos Jungtinės Karalystės Vyriausybės protokolą, pakeičiantį Lietuvos Respublikos Vyriausybės ir Didžiosios Britanijos ir Šiaurės Airijos Jungtinės Karalystės Vyriausybės sutartį dėl pajamų bei kapitalo prieaugio pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2002 m. gegužės 21 d. Londone.
 

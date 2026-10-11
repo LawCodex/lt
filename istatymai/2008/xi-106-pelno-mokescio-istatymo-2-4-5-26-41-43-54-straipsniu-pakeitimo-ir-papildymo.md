@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.205BA06D38C6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.205BA06D38C6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 5, 26, 41, 43, 54 straipsnių pakeitimo ir papildymo įstatymo 1, 3 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [87-3457](https://www.e-tar.lt/portal/lt/legalAct/TAR.25B208150093))
 
-\#### 1 straipsnis. 1 straipsnio 12 dalies pakeitimas ir straipsnio papildymas 13, 14 dalimis
+## 1 straipsnis. 1 straipsnio 12 dalies pakeitimas ir straipsnio papildymas 13, 14 dalimis
 
 1. Pakeisti 1 straipsnio 12 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „14. Buvusią 2 straipsnio 38 dalį laikyti 41 dalimi.“
 
-\#### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 1 dalies pakeitimas
 
 Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 

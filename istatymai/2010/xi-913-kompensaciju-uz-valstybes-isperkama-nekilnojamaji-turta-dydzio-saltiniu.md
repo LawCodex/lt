@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E44503750D78"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E44503750D78.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 8, 9 ir 10 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 2003, Nr. [102-4582](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA480B3B3926); 2004, Nr. [117-4374](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CB43D4773A6), Nr. [156-5696](https://www.e-tar.lt/portal/lt/legalAct/TAR.57D6265C3F49); 2005, Nr. [153-5647](https://www.e-tar.lt/portal/lt/legalAct/TAR.C7F7F17B0A27); 2010, Nr. [13-622](https://www.e-tar.lt/portal/lt/legalAct/TAR.63D1E42E01B3))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Piniginės kompensacijos už valstybės išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus tvirtina savivaldybių administracijų direktoriai.“
 
-\#### 2 straipsnis. 9 straipsnio pakeitimas
+## 2 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 15. Ginčai dėl valstybės garantijų nagrinėjami teismo tvarka. Šiose bylose šalys atleidžiamos nuo žyminio mokesčio.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 2. Lietuvos Respublikos piliečiams 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos arba atkuriamos nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms daloms, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu atlyginimo dydis pinigais padidinamas 15 procentų.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
 

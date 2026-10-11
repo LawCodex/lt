@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7a1006c0792d11e8ae2bfd1913d66d57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7A1006C0792D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 2, 14, 16, 18, 19, 20, 21, 22, 23, 24 straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas

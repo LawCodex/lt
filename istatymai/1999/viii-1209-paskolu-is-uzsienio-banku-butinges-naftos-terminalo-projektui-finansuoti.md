@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4004446C676A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4004446C676A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos paskolų iš užsienio bankų Būtingės naftos terminalo projektui finansuoti įstatymo pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1662](https://www.e-tar.lt/portal/lt/legalAct/TAR.55BCCA64A827); 1998, Nr. [44-1202](https://www.e-tar.lt/portal/lt/legalAct/TAR.53935ABD28C4))
 
-\#### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo pavadinimo pakeitimas
 
 Pakeisti Įstatymo pavadinimą ir jį išdėstyti taip:
 
 „**Lietuvos Respublikos paskolų iš užsienio bankų akcinės bendrovės „Mažeikių nafta“ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“ apyvartinėms lėšoms papildyti įstatymas**“.
 
-\#### 2 straipsnis. 1 straipsnio pakeitimas
+## 2 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 

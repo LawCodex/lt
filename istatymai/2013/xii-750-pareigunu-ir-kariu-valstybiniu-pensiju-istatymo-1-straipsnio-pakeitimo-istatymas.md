@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e41eddd0723811e3b29084acd991add8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E41EDDD07238.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 1 straipsnio pakeitimo ĮSTATYMAS
@@ -30,13 +30,13 @@ Vilnius
 
 2011, Nr. [86-4158](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=402818); 2012, Nr. [122-6113](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=434546), Nr. [129-6475](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=435672))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies 4 punkto pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies 4 punkto pakeitimas
 
 Pakeisti 1 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) Valstybės saugumo departamento sistemos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai ir Vyriausybinių ryšių centro prie Krašto apsaugos ministerijos civiliai statutiniai valstybės tarnautojai;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

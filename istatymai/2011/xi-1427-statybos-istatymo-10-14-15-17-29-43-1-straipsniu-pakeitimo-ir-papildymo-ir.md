@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F1FBF4C9424F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F1FBF4C9424F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 10, 14, 15, 17, 29, 43-1 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 18-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5); 2004, Nr. [73-2545](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0F5AD6471BE); 2005, Nr. [143-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.0AA2765486A5); 2006, Nr. [116-4402](https://www.e-tar.lt/portal/lt/legalAct/TAR.7C06B2CCB290); 2007, Nr. [55-2127](https://www.e-tar.lt/portal/lt/legalAct/TAR.946EB061E6BD); 2009, Nr. [117-4993](https://www.e-tar.lt/portal/lt/legalAct/TAR.0558F08B2FBB), Nr. [144-6352](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9F34394E9C6))
 
-\#### 1 straipsnis. 10 straipsnio 3, 4 dalių pakeitimas ir straipsnio papildymas 11, 12, 13, 14, 15, 16, 17, 18 ir 19 dalimis
+## 1 straipsnis. 10 straipsnio 3, 4 dalių pakeitimas ir straipsnio papildymas 11, 12, 13, 14, 15, 16, 17, 18 ir 19 dalimis
 
 1. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -98,7 +98,7 @@ Vilnius
 
 „19. Eiti branduolinės energetikos objektų statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę atestuoti architektai ir statybos inžinieriai. Šias pareigas einantiems asmenims taikomus kvalifikacinius reikalavimus (išsilavinimo, darbo patirties), kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų panaikinimo tvarką, suderinusi su Valstybine atominės energetikos saugos inspekcija, nustato Vyriausybės įgaliota institucija, laikydamasi šio straipsnio 11, 12, 13, 14, 15, 16, 17 ir 18 dalyse nustatytų reikalavimų. Atestavimą atlieka Vyriausybės įgaliota institucija.“
 
-\#### 2 straipsnis. 14 straipsnio 1 dalies 3 punkto, 2 ir 4 dalių pakeitimas
+## 2 straipsnis. 14 straipsnio 1 dalies 3 punkto, 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -112,7 +112,7 @@ Vilnius
 
 „4. Šio straipsnio 2 dalyje nurodytų užsienio juridinių asmenų, kitų užsienio organizacijų, juridinio asmens ar kitos užsienio organizacijos padalinių kilmės valstybėje turimos teisės pripažinimo tvarką, išduoto šios teisės pripažinimo dokumento papildymo, patikslinimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir teisės pripažinimo dokumento panaikinimo tvarką nustato Vyriausybės įgaliota institucija. Teisės pripažinimą atlieka valstybės įmonė Statybos produkcijos sertifikavimo centras.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Vilnius
 
 5. Buvusias 15 straipsnio 5–9 dalis laikyti atitinkamai 6–10 dalimis.
 
-\#### 4 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas
+## 4 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -154,7 +154,7 @@ Vilnius
 
 3) architektas ar statybos inžinierius.“
 
-\#### 5 straipsnis. Įstatymo papildymas 181 straipsniu
+## 5 straipsnis. Įstatymo papildymas 181 straipsniu
 
 Papildyti Įstatymą 18^1 straipsniu:
 
@@ -202,7 +202,7 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 8. Atestavimą atliekanti organizacija gali pareikšti įspėjimą, kai kvalifikacijos atestato ar teisės pripažinimo dokumento turėtojas padaro neesminių (nenurodytų šio straipsnio 5 ir 6 dalyse) pažeidimų. Jeigu kvalifikacijos atestato ar teisės pripažinimo dokumento turėtojui per kalendorinius metus pareiškiami du įspėjimai, atestavimą atliekanti organizacija gali sustabdyti kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimą šio straipsnio 5 dalyje nustatytam laikotarpiui.“
 
-\#### 6 straipsnis. 29 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 7 ir 8 dalimis
+## 6 straipsnis. 29 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 7 ir 8 dalimis
 
 1. Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -220,7 +220,7 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 „8. Branduolinės energetikos objektų statinių projekto ekspertizės rangovams ir statinio ekspertizės rangovams taikomus kvalifikacinius reikalavimus, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų panaikinimo tvarką, suderinusi su Valstybine atominės energetikos saugos inspekcija, nustato Vyriausybės įgaliota institucija, laikydamasi šio įstatymo 18^1 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka Vyriausybės įgaliota institucija.“
 
-\#### 7 straipsnis. 431 straipsnio papildymas 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalimis
+## 7 straipsnis. 431 straipsnio papildymas 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalimis
 
 1. Papildyti 431 straipsnį 6 dalimi:
 
@@ -278,11 +278,11 @@ Papildyti Įstatymą 18^1 straipsniu:
 
 „14. Atestavimą atliekanti organizacija gali pareikšti įspėjimą kvalifikacijos atestato turėtojui, kai kvalifikacijos atestato turėtojas padaro neesminių (nenurodytų šio straipsnio 11 ir 12 dalyse) pažeidimų. Jeigu kvalifikacijos atestato turėtojui per kalendorinius metus pareiškiami du įspėjimai, atestavimą atliekanti organizacija gali sustabdyti kvalifikacijos atestato galiojimą šio straipsnio 11 dalyje nurodytam laikotarpiui.“
 
-\#### 8 straipsnis. Baigiamosios nuostatos
+## 8 straipsnis. Baigiamosios nuostatos
 
 Iki šio įstatymo įsigaliojimo dienos išduoti kvalifikacijos atestatai ir teisės pripažinimo dokumentai turi tokią pačią teisinę galią kaip šiame įstatyme nurodyti kvalifikacijos atestatai ir teisės pripažinimo dokumentai ir galioja iki juose nurodytos datos bei keičiami į neterminuotus kvalifikacijos atestatus ir teisės pripažinimo dokumentus Vyriausybės įgaliotos institucijos nustatyta tvarka.
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
 

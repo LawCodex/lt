@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F6D8B21CE41C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F6D8B21CE41C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo 3, 10 straipsnių pakeitimo ir papildymo, 13, 16 straipsnių pripažinimo netekusiais galios ir įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C); 2007, Nr. [43-1626](https://www.e-tar.lt/portal/lt/legalAct/TAR.9CA9E36B4EA1); 2009, Nr. [10-358](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9CD52D96299), Nr. [91-3913](https://www.e-tar.lt/portal/lt/legalAct/TAR.E719E27D0C44))
 
-\#### 1 straipsnis. 3 straipsnio 3, 40 dalių pakeitimas ir straipsnio papildymas 44 dalimi
+## 1 straipsnis. 3 straipsnio 3, 40 dalių pakeitimas ir straipsnio papildymas 44 dalimi
 
 1. 3 straipsnio 3 dalyje išbraukti žodį „juridinis“, vietoj žodžio „bei“ įrašyti žodį „ar“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „44. Asmens sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas). Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Energetikos įstatyme ir kituose įstatymuose.“
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -220,15 +220,15 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 35. Kai dujų įmonė nutraukia savo veiklą ir (ar) kyla grėsmė saugiam vartotojų aprūpinimui dujomis, Vyriausybė, siekdama užtikrinti saugumą ir patenkinti visuomenės poreikius, turi teisę priimti sprendimą nušalinti šių įmonių valdymo organus ir įmonėms valdyti laikinai paskirti savo atstovus arba sprendimą dėl tos dujų įmonės turto išpirkimo. Vyriausybės atstovai, atlikdami įmonėse jų valdybų ir administracijos vadovų funkcijas, vadovaujasi Lietuvos Respublikos įstatymais ir Vyriausybės suteiktais įgaliojimais.“
 
-\#### 3 straipsnis. 13 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 13 straipsnio pripažinimas netekusiu galios
 
 13 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 16 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 16 straipsnio pripažinimas netekusiu galios
 
 16 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
+## 5 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
 
 Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -236,7 +236,7 @@ Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 VEIKLOS RŪŠIŲ ATSKYRIMAS IR BENDROJO NAUDOJIMO SISTEMOS“.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 

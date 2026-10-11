@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BBD3B531B0EF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BBD3B531B0EF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 8, 12, 13, 22, 27 straipsnių pakeitimo ir 12-1 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [70-3170](https://www.e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4); 2004, Nr. [28-876](https://www.e-tar.lt/portal/lt/legalAct/TAR.609D02CF376B), Nr. [163-5945](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A18A8986B22); 2007, Nr. [69-2720](https://www.e-tar.lt/portal/lt/legalAct/TAR.94C8747D9F01))
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 5. Statinių projektavimo, statinių statybos saugos ir sveikatos koordinatorių mokymo ir jų žinių tikrinimo tvarkos aprašą tvirtina aplinkos ministras ir socialinės apsaugos ir darbo ministras.“
 
-\#### 2 straipsnis. 12 straipsnio pakeitimas
+## 2 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -62,17 +62,17 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 8. Juridiniai ar fiziniai asmenys, pagal sutartis su darbdaviais atliekantys darbuotojų saugos ir sveikatos tarnybos funkcijas ar jų dalį, už neteisingos informacijos pateikimą ar informacijos nepateikimą, Įmonių darbuotojų saugos ir sveikatos tarnybų pavyzdinių nuostatų reikalavimų nesilaikymą atsako įstatymų nustatyta tvarka.“
 
-\#### 3 straipsnis. 121 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 121 straipsnio pripažinimas netekusiu galios
 
 12^1 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 13 straipsnio 5 dalies 2 punkto pakeitimas
+## 4 straipsnis. 13 straipsnio 5 dalies 2 punkto pakeitimas
 
 13 straipsnio 5 dalies 2 punkte vietoj žodžio „evakuavimą“ įrašyti žodį „evakavimą“ ir šį punktą išdėstyti taip:
 
 „2) dalyvauja darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui parenkant ir paskiriant darbuotojus, atsakingus už pirmosios medicinos pagalbos suteikimą, taip pat parenkant ir paskiriant darbuotojus, atsakingus už gelbėjimo darbų organizavimą,darbuotojų evakavimą galimų avarijų, stichinių nelaimių ar gaisrų atvejais (prieš paskirdamas tokius darbuotojus, darbdaviui atstovaujantis asmuo su darbuotojų atstovais saugai ir sveikatai konsultuojasi, juos paskyręs jiems praneša apie šių darbuotojų darbo vietas, įpareigojimus);“.
 
-\#### 5 straipsnis. 22 straipsnio pavadinimo, 1, 2 dalių ir 4 dalies 5 punkto pakeitimas
+## 5 straipsnis. 22 straipsnio pavadinimo, 1, 2 dalių ir 4 dalies 5 punkto pakeitimas
 
 1. 22 straipsnio pavadinime vietoj žodžio „evakuavimo“ įrašyti žodį „evakavimo“ ir šį pavadinimą išdėstyti taip:
 
@@ -90,17 +90,17 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 „5) organizuoja pirmosios medicinos pagalbos suteikimą nukentėjusiesiems, taip pat darbuotojų evakavimą.“
 
-\#### 6 straipsnis. 27 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 27 straipsnio 2 dalies pakeitimas
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Darbuotojas, darbdavių susitarimu pasiųstas laikinam darbui į įmonę iš kitos įmonės, negali pradėti dirbti tol, kol jis neinformuotas apie esančius ir galimus rizikos veiksnius įmonėje, į kurią jis pasiųstas dirbti, neinstruktuotas saugiai dirbti konkrečioje darbo vietoje, nepaisant to, kad įmonėje, kurioje jis nuolat dirba, buvo nustatyta tvarka instruktuotas ir apmokytas saugiai dirbti. Į kitą įmonę pasiųstiems dirbti darbuotojams taip pat privalo būti suteikta informacija apie įmonėje paskirtus darbuotojus, atsakingus už pirmosios medicinos pagalbos suteikimą, taip pat jie turi būti supažindinti su šio Įstatymo 22 straipsnyje nurodytais darbuotojų evakavimo planais. Darbuotojus, atliekančius kitose įmonėse darbus ar teikiančius paslaugas, ir darbuotojus, atliekančius įstatymų ar kitų norminių teisės aktų nustatytas kontrolės funkcijas, instruktuoja jų darbdaviai.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 8 straipsnį, įsigalioja 2010 m. birželio 1 d.
 
-\#### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2010 m. birželio 1 d. parengia šio įstatymo įgyvendinamuosius teisės aktus.
 

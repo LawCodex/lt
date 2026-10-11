@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A9AD240EA87B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A9AD240EA87B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 19 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [53-1245](https://www.e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7); 1999, Nr. [86-2561](https://www.e-tar.lt/portal/lt/legalAct/TAR.3266F3F55E43); 2000, Nr. [75-2265](https://www.e-tar.lt/portal/lt/legalAct/TAR.F1ADBF19DC03))
 
-\#### 1 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 19 straipsnio 1 dalyje vietoj žodžių „Pasienio policijos departamentu prie Vidaus reikalų ministerijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šią dalį išdėstyti taip:
 
 „1. Asmenys ir transporto priemonės į laisvąjį uostą įleidžiami pateikę leidimus. Leidimų išdavimo tvarką ir pavyzdžius tvirtina susisiekimo ministras suderinęs su Muitinės departamentu prie Finansų ministerijos ir Valstybės sienos apsaugos tarnyba.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
 

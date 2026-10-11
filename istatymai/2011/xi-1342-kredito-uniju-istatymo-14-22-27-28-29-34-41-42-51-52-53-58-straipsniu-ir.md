@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.637089159802"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.637089159802.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kredito unijų įstatymo 14, 22, 27, 28, 29, 34, 41, 42, 51, 52, 53, 58 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1995, Nr. [26-578](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01); 2008, Nr. [76-3003](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA5DEF72950D); 2010, Nr. [1-8](https://www.e-tar.lt/portal/lt/legalAct/TAR.17D380DFBEF6))
 
-\#### 1 straipsnis. 14 straipsnio 1 dalies 3 punkto pakeitimas
+## 1 straipsnis. 14 straipsnio 1 dalies 3 punkto pakeitimas
 
 14 straipsnio 1 dalies 3 punkte vietoj žodžių „metinę ir tarpinę finansinę atskaitomybę“ įrašyti žodžius „metinių ir tarpinių finansinių ataskaitų rinkinius“ ir šį punktą išdėstyti taip:
 
 „3) gauti informaciją apie kredito unijos metinių ir tarpinių finansinių ataskaitų rinkinius, valdybos ataskaitas dėl kredito unijos veiklos, visuotinių narių susirinkimų protokolus ir sprendimus. Atsisakyti suteikti informaciją galima, jeigu joje yra kredito unijos paslapčių. Atsisakymas pateikti prašomus dokumentus ar informaciją turi būti įforminamas raštu, jeigu to reikalauja kredito unijos narys. Ginčus dėl kredito unijos nario teisės gauti informaciją sprendžia teismas;“.
 
-\#### 2 straipsnis. 22 straipsnio 2 dalies 6 ir 8 punktų pakeitimas
+## 2 straipsnis. 22 straipsnio 2 dalies 6 ir 8 punktų pakeitimas
 
 1. 22 straipsnio 2 dalies 6 punkte vietoj žodžių „finansinės atskaitomybės“ įrašyti žodžius „finansinių ataskaitų“ ir šį punktą išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 ,‚8) tvirtinti metinių finansinių ataskaitų rinkinį, priimti nutarimą dėl pelno paskirstymo ir nuostolių atlyginimo tvarkos;“.
 
-\#### 3 straipsnis. 27 straipsnio 1 dalies 7 punkto ir 7 dalies pakeitimas
+## 3 straipsnis. 27 straipsnio 1 dalies 7 punkto ir 7 dalies pakeitimas
 
 1. 27 straipsnio 1 dalies 7 punkte vietoj žodžių „metinės finansinės atskaitomybės“ įrašyti žodžius „metinių finansinių ataskaitų rinkinio“ ir šį punktą išdėstyti taip:
 
@@ -54,19 +54,19 @@ Vilnius
 
 „7. Stebėtojų taryba turi teisę pasikviesti ekspertą arba nepriklausomą auditorių patikrinti ir įvertinti kredito unijos finansines ataskaitas ir buhalterinę apskaitą.“
 
-\#### 4 straipsnis. 28 straipsnio 3 dalies 7 punkto pakeitimas
+## 4 straipsnis. 28 straipsnio 3 dalies 7 punkto pakeitimas
 
 28 straipsnio 3 dalies 7 punkte vietoj žodžių „metinės finansinės atskaitomybės“ įrašyti žodžius „metinių finansinių ataskaitų rinkinių“ ir šį punktą išdėstyti taip:
 
 „7) rengia kredito unijos metinių finansinių ataskaitų rinkinių, pelno paskirstymo ir nuostolių atlyginimo tvarkos projektus;“.
 
-\#### 5 straipsnis. 29 straipsnio 7 dalies 6 punkto pakeitimas
+## 5 straipsnis. 29 straipsnio 7 dalies 6 punkto pakeitimas
 
 29 straipsnio 7 dalies 6 punkte vietoj žodžių „metinės finansinės atskaitomybės“ įrašyti žodžius „metinių finansinių ataskaitų rinkinių“ ir šį punktą išdėstyti taip:
 
 „6) atsako už kredito unijos metinių finansinių ataskaitų rinkinių sudarymą;“.
 
-\#### 6 straipsnis. 34 straipsnio 3 ir 4 dalių pakeitimas
+## 6 straipsnis. 34 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -76,19 +76,19 @@ Vilnius
 
 „4. Revizijos komisijos (revizoriaus) išvada dėl kredito unijos metinių finansinių ataskaitų rinkinio pateikiama tais pačiais klausimais, kokiais pagal šį įstatymą privalo būti pateikiama auditoriaus išvada.“
 
-\#### 7 straipsnis. 41 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 41 straipsnio 1 dalies pakeitimas
 
 Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Kredito unijos atsargos kapitalas sudaromas iš kredito unijos narių papildomų įnašų, atskaitymų iš kredito unijos pelno ir (ar) kitų negrąžintinų lėšų. Kredito unijos atsargos kapitalo paskirtis – garantuoti kredito unijos finansinį stabilumą. Kredito unijos atsargos kapitalas kredito unijos eilinio visuotinio narių susirinkimo sprendimu gali būti panaudojamas tik kredito unijos veiklos nuostoliams padengti.“
 
-\#### 8 straipsnis. 42 straipsnio 3 dalies pakeitimas
+## 8 straipsnis. 42 straipsnio 3 dalies pakeitimas
 
 42 straipsnio 3 dalyje vietoj žodžių „metinę finansinę atskaitomybę“ įrašyti žodžius „metinių finansinių ataskaitų rinkinį“ ir šią dalį išdėstyti taip:
 
 „3. Per finansinius metus gautas grynasis finansinis metinės veiklos rezultatas (pelnas arba nuostoliai) turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus finansiniams metams, kai eilinis kredito unijos visuotinis narių susirinkimas tvirtina metinių finansinių ataskaitų rinkinį.“
 
-\#### 9 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
+## 9 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
 
 Septintojo skirsnio pavadinime vietoj žodžių „finansinė atskaitomybė“ įrašyti žodžius „finansinių ataskaitų rinkiniai“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -96,7 +96,7 @@ Septintojo skirsnio pavadinime vietoj žodžių „finansinė atskaitomybė“ �
 
 KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS“.
 
-\#### 10 straipsnis. 51 straipsnio 2 dalies ir 3 dalies 1 punkto pakeitimas
+## 10 straipsnis. 51 straipsnio 2 dalies ir 3 dalies 1 punkto pakeitimas
 
 1. 51 straipsnio 2 dalyje vietoj žodžių „finansinei atskaitomybei“ įrašyti žodžius „finansinių ataskaitų rinkiniams“ ir šią dalį išdėstyti taip:
 
@@ -106,7 +106,7 @@ KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS“.
 
 „1) finansinių ataskaitų rinkiniai rodytų tikrą kredito unijos finansinę būklę ir veiklos rezultatus;“.
 
-\#### 11 straipsnis. 52 straipsnio pakeitimas
+## 11 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
@@ -140,7 +140,7 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 7. Premijos ir kitos kredito unijos įstatuose nustatytos išmokos kredito unijos vadovams išmokamos metams pasibaigus, jeigu tokį sprendimą priima kredito unijos visuotinis narių susirinkimas, tvirtindamas metinių finansinių ataskaitų rinkinį.“
 
-\#### 12 straipsnis. 53 straipsnio pakeitimas
+## 12 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 3. Kredito unija iki einamųjų finansinių metų pirmojo pusmečio pabaigos privalo su kredito unijos visuotinio narių susirinkimo išrinkta audito įmone sudaryti sutartį dėl metinių finansinių ataskaitų rinkinių audito ir pateikti ją priežiūros institucijai.“
 
-\#### 13 straipsnis. 58 straipsnio 1 dalies 4, 5 punktų ir 2 dalies 3 punkto pakeitimas
+## 13 straipsnis. 58 straipsnio 1 dalies 4, 5 punktų ir 2 dalies 3 punkto pakeitimas
 
 1. 58 straipsnio 1 dalies 4 punkte vietoj žodžių „finansinės atskaitomybės“ įrašyti žodžius „finansinių ataskaitų rinkinių“ ir šį punktą išdėstyti taip:
 

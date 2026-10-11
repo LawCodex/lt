@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B37C11B10EEE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B37C11B10EEE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 2, 4, 11, 13 ir 14 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981); 2003, Nr. [123-5593](https://www.e-tar.lt/portal/lt/legalAct/TAR.7501477AA243); 2005, Nr. [31-977](https://www.e-tar.lt/portal/lt/legalAct/TAR.C456F906EDA1); 2006, Nr. [61-2174](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE6172F73647))
 
-\#### 1 straipsnis. 2 straipsnio 1 ir 9 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1 ir 9 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „9. **Miško valda**– nuosavybės teise valdomas miškų ūkio paskirties žemės sklypas.“
 
-\#### 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 3) atidalijama privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė, kurioje yra teisėtai pastatytas gyvenamasis namas arba gyvenamasis namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas atskiru nekilnojamojo turto objektu (pagrindiniu daiktu), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas gyvenamajam namui kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotam atskiru nekilnojamojo turto objektu (pagrindiniu daiktu), eksploatuoti.“
 
-\#### 3 straipsnis. 11 straipsnio pakeitimas
+## 3 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 11. Miško iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (medelynams įrengti, miško ūkiniams keliams tiesti, priešgaisrinėms juostoms, technologiniams proskiebiams, poilsio aikštelėms ir medienos sandėliams įrengti, nustatyta tvarka žvyrui ir smėliui kasti miško ūkio reikmėms) nėra miško žemės pavertimas kitomis naudmenomis.“
 
-\#### 4 straipsnis. 13 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 4 straipsnis. 13 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „4. Lietuvos Respublikoje valstybinė miškų inventorizacija atliekama atrankos metodu. Ji skirta strateginiam miškų sektoriaus planavimui valstybės lygmeniu. Miškų sklypų inventorizacija atliekama miško ūkiui organizuoti miško žemėje ir yra skirta miškotvarkos projektams rengti.“
 
-\#### 5 straipsnis. 14 straipsnio 2 dalies 2 punkto ir 4 dalies pakeitimas
+## 5 straipsnis. 14 straipsnio 2 dalies 2 punkto ir 4 dalies pakeitimas
 
 1. Pakeisti 14 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „4. Aplinkos ministerija, atsižvelgdama į miško valdos plotą arba ne miškų ūkio paskirties žemės sklype esančios miško žemės plotą, nustato miškotvarkos projekto turinį ir kitus rodiklius, taip pat medynų kirtimo amžių visuose miškuose. Pagrindiniai miško kirtimai atliekami brandžiuose, perbrendusiuose miškuose ir bręstančiuose medynuose Miško kirtimų taisyklėse nustatytais atvejais. Tarpiniai miško kirtimai atliekami medynų produktyvumo didinimo, sanitarinės miškų būklės gerinimo, biologinės įvairovės išsaugojimo, medienos išteklių panaudojimo, medynų rekonstrukcijos ir kitais teisės aktuose nustatytais tikslais. Metinė pagrindinių miško kirtimų norma nustatoma kiekvienam miško valdytojui ir savininkui pagal Aplinkos ministerijos patvirtintą metodiką.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. liepos 1 d.
 

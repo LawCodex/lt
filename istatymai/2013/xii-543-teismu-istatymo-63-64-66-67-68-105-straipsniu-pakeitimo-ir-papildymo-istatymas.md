@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C7390F65284F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C7390F65284F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 63, 64, 66, 67, 68, 105 straipsnių pakeitimo ir papildymo įstatymas
@@ -32,7 +32,7 @@ Nr. 17-700; 2004, Nr. 84-3042; 2006, Nr. 60-2121, Nr. 68-2493;
 
 2008, Nr. 81-3186; 2010, Nr. 157-7975; 2011, Nr. 67-3157)
 
-\#### 1 straipsnis. 63 straipsnio 6, 7 ir
+## 1 straipsnis. 63 straipsnio 6, 7 ir
 
 1. Pakeisti 63 straipsnio 6 dalį ir ją išdėstyti
 
@@ -88,7 +88,7 @@ teismo, į kurį teisėjas yra perkeliamas, teisėjo nuomonė ir argumentai dėl
 
 galimo perkėlimo, taip pat kitos esminės aplinkybės.“
 
-\#### 2 straipsnis. 64 straipsnio papildymas
+## 2 straipsnis. 64 straipsnio papildymas
 
 Papildyti 64 straipsnį 6 dalimi:
 
@@ -114,7 +114,7 @@ paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos, 
 
 pat ir pirmumo teisė be atrankos būti paskirtam į ankstesnes pareigas.“
 
-\#### 3 straipsnis. 66 straipsnio pakeitimas
+## 3 straipsnis. 66 straipsnio pakeitimas
 
 Pakeisti 66 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio darbo stažas
 
 nėra sumuojami.“
 
-\#### 4 straipsnis. 67 straipsnio 1 dalies
+## 4 straipsnis. 67 straipsnio 1 dalies
 
 Pakeisti 67 straipsnio 1 dalį ir ją išdėstyti
 
@@ -160,7 +160,7 @@ stažą tokiu laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio
 
 darbo stažas nėra sumuojami.“
 
-\#### 5 straipsnis. 68 straipsnio pakeitimas
+## 5 straipsnis. 68 straipsnio pakeitimas
 
 Pakeisti 68 straipsnį ir jį išdėstyti taip:
 
@@ -182,7 +182,7 @@ laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio darbo stažas
 
 nėra sumuojami.“
 
-\#### 6 straipsnis. 105 straipsnio 8 dalies
+## 6 straipsnis. 105 straipsnio 8 dalies
 
 Pakeisti 105 straipsnio 8 dalį ir ją išdėstyti
 

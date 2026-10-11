@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.090274CC8130"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.090274CC8130.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0); 2000, Nr. [18-431](https://www.e-tar.lt/portal/lt/legalAct/TAR.B24AF3538B14); 2001, Nr. [35-1165](https://www.e-tar.lt/portal/lt/legalAct/TAR.932273BC5680), Nr. [71-2517](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AFC9AF000A6); 2003, Nr. [38-1683](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEFB2B895E9C), Nr. [111-4929](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF478C6250F4))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 

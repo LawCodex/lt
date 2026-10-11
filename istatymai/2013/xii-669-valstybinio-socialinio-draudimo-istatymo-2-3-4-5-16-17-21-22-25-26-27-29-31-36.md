@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/dcdc4ae089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DCDC4AE089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 straipsnių pakeitimo ir papildymo įstatymo 15 straipsnio pakeitimo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2012, Nr. [127-6391](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=435610), Nr. [154-7932](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=440397))
 
-\#### 1 straipsnis. 15 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 15 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 

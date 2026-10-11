@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.95BF57B68217"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.95BF57B68217.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 4 skyriaus papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 2003, Nr. [42-1922](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6DEB099CF05); 2004, Nr. [39-1270](https://www.e-tar.lt/portal/lt/legalAct/TAR.532A15EA12B5))
 
-\#### 1 straipsnis. Įstatymo priedėlio 4 skyriaus skirsnio „Viešojo saugumo politika“ papildymas
+## 1 straipsnis. Įstatymo priedėlio 4 skyriaus skirsnio „Viešojo saugumo politika“ papildymas
 
 Papildyti Įstatymo priedėlio 4 skyriaus skirsnį „Viešojo saugumo politika“ 3 dalimi:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0477A626B71A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0477A626B71A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 3, 12, 13, 25 straipsnių pakeitimo ir Įstatymo papildymo 53, 73 straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [112-3100](https://www.e-tar.lt/portal/lt/legalAct/TAR.746227138BCB); 2002, Nr. [68-2761](https://www.e-tar.lt/portal/lt/legalAct/TAR.3F624633BA4A); 2005, Nr. [88-3281](https://www.e-tar.lt/portal/lt/legalAct/TAR.677003A820B9); 2007, Nr. [140-5755](https://www.e-tar.lt/portal/lt/legalAct/TAR.C1C8B48C1A4D))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 3) įstatymų nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes.“
 
-\#### 2 straipsnis. Įstatymo papildymas 53 straipsniu
+## 2 straipsnis. Įstatymo papildymas 53 straipsniu
 
 Papildyti Įstatymą 5^3 straipsniu:
 
@@ -56,7 +56,7 @@ Papildyti Įstatymą 5^3 straipsniu:
 
 3. Draudimas diskriminuoti dėl lyties taikomas dirbantiems asmenims, įskaitant savarankiškai dirbančius asmenis, asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams, neįgaliems darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti išmokų.“
 
-\#### 3 straipsnis. Įstatymo papildymas 73 straipsniu
+## 3 straipsnis. Įstatymo papildymas 73 straipsniu
 
 Papildyti Įstatymą 7^3 straipsniu:
 
@@ -84,13 +84,13 @@ Bet koks veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika
 
 10) nustatyti skirtingi įmokų dydžiai, išskyrus apibrėžtų įmokų sistemos atveju, kai siekiama kuo labiau suvienodinti galutinių išmokų sumą abiejų lyčių dalyviams, o apibrėžtų išmokų sistemų atveju, kai įmokos yra skirtos lėšų, reikalingų garantuotų išmokų sąnaudoms padengti, pakankamumui užtikrinti.“
 
-\#### 4 straipsnis. 12 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 12 straipsnio 2 dalies pakeitimas
 
 12 straipsnio 2 dalyje vietoj žodžių „valdžios ir valdymo institucijoms“ įrašyti žodžius „valstybės ir savivaldybių institucijoms ir įstaigoms“ ir šią dalį išdėstyti taip:
 
 „2. Lygių galimybių kontrolierius teikia išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos valstybės ir savivaldybių institucijoms ir įstaigoms dėl teisės aktų tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.“
 
-\#### 5 straipsnis. 13 straipsnio pakeitimas
+## 5 straipsnis. 13 straipsnio pakeitimas
 
 13 straipsnyje vietoj žodžių „valdžios bei valdymo institucijose“ įrašyti žodžius „valstybės ir savivaldybių institucijose ir įstaigose“ ir šį straipsnį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Bet koks veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika
 
 Lygių galimybių kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį išsilavinimą ir ne mažesnį kaip penkerių metų teisinio darbo arba darbo valstybės ir savivaldybių institucijose ir įstaigose stažą.“
 
-\#### 6 straipsnis. 25 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 25 straipsnio 1 dalies pakeitimas
 
 Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip:
 

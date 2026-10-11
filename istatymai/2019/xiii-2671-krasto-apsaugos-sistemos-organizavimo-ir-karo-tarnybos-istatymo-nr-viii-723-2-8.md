@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/defa6290287411eabe008ea93139d588"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DEFA62902874.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 8, 10, 10-1, 13, 21, 22, 23, 28, 29, 32-1, 34, 35, 36, 37, 38, 43, 44, 48, 49, 50, 54, 55, 59, 60, 61, 61-1, 63, 64, 65, 68, 69 straipsnių pakeitimo ir Įstatymo papildymo 32-2 straipsniu įstatymas

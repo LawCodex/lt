@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CC175643188C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CC175643188C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Varėnos rajono Varėnos miesto bei Varėnos apylinkės administracinių ribų pakeitimo
@@ -50,53 +50,30 @@ Lietuvos Respublikos
 
 **Varėnos rajono Varėnos apylinkės teritorijai (hektarais)**
 
-\| Žemės naudotojai | Sklypų Nr. | Bendras plotas | |
-
-\| --- | --- | --- | --- |
-
-\| | | | |
-
-\| Laisvas valstybinis žemės fondas | 1 | 248,9 | |
-
-\| Varėnos valstybinė kelių valdyba | 2, 21 | 13,0 | |
-
-\| Varėnos valstybinė akcinė statybos įmonė | 3, 4 | 9,8 | |
-
-\| Varėnos valstybinė paslaugų įmonė | 5 | 2,7 | |
-
-\| Varėnos švietimo, kultūros ir sporto skyrius | 6 | 4,5 | |
-
-\| Varėnos vartotojų kooperatyvų sąjunga | 7 | 0,1 | |
-
-\| Bendra Lietuvos ir Vokietijos įmonė„Varbitas“ | 8 | 0,4 | |
-
-\| Akcinė bendrovė „Merkys“ | 9 | 0,2 | |
-
-\| Valstybinė akcinė firma „Autoservisas“ | 10 | 0,1 | |
-
-\| Valstybinė komercinė įmonė „Varėnė“ | 11 | 0,1 | |
-
-\| Varėnos meteorologijos stotis | 12 | 0,7 | |
-
-\| Varėnos senamiesčio paštas | 13 | 0,1 | |
-
-\| Varėnos apylinkės kapinės | 14 | 0,8 | |
-
-\| Valstybinio komunalinių įmonių kombinato kapinės | 15 | 2,3 | |
-
-\| I Varėnos katalikų parapijos komiteto bažnyčia | 16 | 0,2 | |
-
-\| I Varėnos katalikų bažnyčios klebonija | 17 | 0,3 | |
-
-\| Varėnos miškų urėdijos Merkio girininkija | 18, 19, 20 | 3,27 | |
-
-\| Valstybinis vandenų fondas (Merkio upė) | 22 | 5,3 | |
-
-\| | | | |
-
-\| | Iš viso: | 1-22 | 292,77 |
-
-\| | | | |
+| Žemės naudotojai | Sklypų Nr. | Bendras plotas |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Laisvas valstybinis žemės fondas | 1 | 248,9 |  |
+| Varėnos valstybinė kelių valdyba | 2, 21 | 13,0 |  |
+| Varėnos valstybinė akcinė statybos įmonė | 3, 4 | 9,8 |  |
+| Varėnos valstybinė paslaugų įmonė | 5 | 2,7 |  |
+| Varėnos švietimo, kultūros ir sporto skyrius | 6 | 4,5 |  |
+| Varėnos vartotojų kooperatyvų sąjunga | 7 | 0,1 |  |
+| Bendra Lietuvos ir Vokietijos įmonė„Varbitas“ | 8 | 0,4 |  |
+| Akcinė bendrovė „Merkys“ | 9 | 0,2 |  |
+| Valstybinė akcinė firma „Autoservisas“ | 10 | 0,1 |  |
+| Valstybinė komercinė įmonė „Varėnė“ | 11 | 0,1 |  |
+| Varėnos meteorologijos stotis | 12 | 0,7 |  |
+| Varėnos senamiesčio paštas | 13 | 0,1 |  |
+| Varėnos apylinkės kapinės | 14 | 0,8 |  |
+| Valstybinio komunalinių įmonių kombinato kapinės | 15 | 2,3 |  |
+| I Varėnos katalikų parapijos komiteto bažnyčia | 16 | 0,2 |  |
+| I Varėnos katalikų bažnyčios klebonija | 17 | 0,3 |  |
+| Varėnos miškų urėdijos Merkio girininkija | 18, 19, 20 | 3,27 |  |
+| Valstybinis vandenų fondas (Merkio upė) | 22 | 5,3 |  |
+|  |  |  |  |
+|  | Iš viso: | 1-22 | 292,77 |
+|  |  |  |  |
 
 ______________
 
@@ -112,12 +89,9 @@ Lietuvos Respublikos
 
 **priskiriami Varėnos miesto teritorijai (hektarais)**
 
-\| Žemės naudotojai | Sklypų Nr. | Bendras plotas |
-
-\| --- | --- | --- |
-
-\| | | |
-
-\| Varėnos miesto savivaldybės individualių gyvenamųjų namų kvartalai | 23, 24 | 0,76 |
+| Žemės naudotojai | Sklypų Nr. | Bendras plotas |
+| --- | --- | --- |
+|  |  |  |
+| Varėnos miesto savivaldybės individualių gyvenamųjų namų kvartalai | 23, 24 | 0,76 |
 
 ______________

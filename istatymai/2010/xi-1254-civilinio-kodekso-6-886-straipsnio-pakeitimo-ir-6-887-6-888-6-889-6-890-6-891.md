@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E11F2C08FF7C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E11F2C08FF7C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.886 straipsnio pakeitimo ir 6.887, 6.888, 6.889, 6.890, 6.891 straipsnių pripažinimo netekusiais galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB))
 
-\#### 1 straipsnis. 6.886 straipsnio pakeitimas
+## 1 straipsnis. 6.886 straipsnio pakeitimas
 
 Pakeisti 6.886 straipsnį ir jį išdėstyti taip:
 
@@ -38,27 +38,27 @@ Pakeisti 6.886 straipsnį ir jį išdėstyti taip:
 
 4. Pagal šį straipsnį kredito davėjas yra asmuo, kuris įstatymų nustatyta tvarka ir atvejais dėl savo komercinės veiklos teikia arba įsipareigoja teikti vartojimo kreditus.“
 
-\#### 2 straipsnis. 6.887 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 6.887 straipsnio pripažinimas netekusiu galios
 
 6.887 straipsnį pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 6.888 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 6.888 straipsnio pripažinimas netekusiu galios
 
 6.888 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 6.889 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 6.889 straipsnio pripažinimas netekusiu galios
 
 6.889 straipsnį pripažinti netekusiu galios.
 
-\#### 5 straipsnis. 6.890 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 6.890 straipsnio pripažinimas netekusiu galios
 
 6.890 straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 6.891 straipsnio pripažinimas netekusiu galios
+## 6 straipsnis. 6.891 straipsnio pripažinimas netekusiu galios
 
 6.891 straipsnį pripažinti netekusiu galios.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. balandžio 1 d.
 

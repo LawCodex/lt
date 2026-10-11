@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A03517D9FD6D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A03517D9FD6D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 2, 17, 20 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 1997, Nr. [65-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.35FEBD3CDB87))
 
-\#### 1 straipsnis. 2 straipsnio papildymas
+## 1 straipsnis. 2 straipsnio papildymas
 
 2 straipsnį papildyti dviem pastraipomis:
 
@@ -36,7 +36,7 @@ Vilnius
 
 **žemės sklypo (teritorijos) naudojimo pobūdis** – konkrečiai įvardyta veikla (ją detalizuojant), kurią teisės aktų nustatyta tvarka leidžiama vykdyti pagrindinės tikslinės žemės naudojimopaskirties žemėje.“
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 1. 17 straipsnio 1 dalį papildyti žodžiais „išskyrus šio straipsnio 3 dalyje nurodytus atvejus“ ir šią dalį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 3. Buvusią 17 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 3 straipsnis. 20 straipsnio 1, 2, 3, 5, 8 ir 9 dalių pakeitimas
+## 3 straipsnis. 20 straipsnio 1, 2, 3, 5, 8 ir 9 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalį, 2 dalį papildyti nauju sakiniu, pakeisti 3 dalį ir šias dalis išdėstyti taip:
 

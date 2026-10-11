@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/57771670663d11e7b85cfdc787069b42"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.57771670663D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos patentinių patikėtinių įstatymas
@@ -26,25 +26,25 @@ PATENTINIŲ PATIKĖTINIŲ
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas reglamentuoja reikalavimus asmenims, siekiantiems tapti patentiniais patikėtiniais, pripažinimą patentiniu patikėtiniu, patentinių patikėtinių veiklos sustabdymą ir nutraukimą, patentinių patikėtinių profesinės veiklos ir savivaldos sąlygas, patentinių patikėtinių profesines teises ir pareigas.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Patentinis patikėtinis – fizinis asmuo, teikiantis paslaugas pramoninės nuosavybės apsaugos srityje pagal šį įstatymą.
 
 2. Patentinių patikėtinių institutas (toliau – Institutas) – ribotos civilinės atsakomybės viešasis juridinis asmuo, vienijantis patentinius patikėtinius ir įgyvendinantis jų profesinę savivaldą. Instituto teisinė forma yra asociacija.
 
-\#### 3 straipsnis. Patentinių patikėtinių profesinė veikla
+## 3 straipsnis. Patentinių patikėtinių profesinė veikla
 
 1. Patentinis patikėtinis yra nepriklausomas kliento patarėjas ir atstovas pramoninės nuosavybės apsaugos srityje.
 
 2. Patentiniai patikėtiniai teikia paslaugas (teikia konsultacijas, rengia dokumentus, atstovauja klientams) pramoninės nuosavybės apsaugos srityje. Patentiniai patikėtiniai turi teisę teikti paslaugas kitose intelektinės nuosavybės apsaugos srityse, jeigu kituose įstatymuose nenustatyta kitaip.
 
-\#### 4 straipsnis. Patentinių patikėtinių profesinės veiklos principai
+## 4 straipsnis. Patentinių patikėtinių profesinės veiklos principai
 
 Pagrindiniai patentinių patikėtinių profesinės veiklos principai:
 
@@ -56,9 +56,9 @@ Pagrindiniai patentinių patikėtinių profesinės veiklos principai:
 
 4) profesinės paslapties neatskleidimas.
 
-\### ANTRASIS SKIRSNIS. REIKALAVIMAI KANDIDATAMS Į PATENTINIUS PATIKĖTINIUS
+ANTRASIS SKIRSNIS. REIKALAVIMAI KANDIDATAMS Į PATENTINIUS PATIKĖTINIUS
 
-\#### 5 straipsnis. Reikalavimai asmenims, siekiantiems tapti patentiniais patikėtiniais
+## 5 straipsnis. Reikalavimai asmenims, siekiantiems tapti patentiniais patikėtiniais
 
 Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
@@ -70,7 +70,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 4) išlaikyti patentinių patikėtinių kvalifikacinį egzaminą.
 
-\#### 6 straipsnis. Nepriekaištinga reputacija
+## 6 straipsnis. Nepriekaištinga reputacija
 
 1. Asmuo, siekiantis tapti patentiniu patikėtiniu, nelaikomas nepriekaištingos reputacijos, jeigu:
 
@@ -86,7 +86,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 2. Lietuvos Respublikos valstybinis patentų biuras (toliau – Valstybinis patentų biuras), siekdamas nustatyti, ar asmenys atitinka šio straipsnio 1 dalies 1 ir 2 punktuose nustatytus reikalavimus, turi teisę gauti duomenis iš Įtariamųjų, kaltinamųjų ir nuteistųjų registro.
 
-\#### 7 straipsnis. Patentinių patikėtinių kvalifikacinis egzaminas
+## 7 straipsnis. Patentinių patikėtinių kvalifikacinis egzaminas
 
 1. Patentinių patikėtinių kvalifikacinį egzaminą (toliau – egzaminas) organizuoja Valstybinis patentų biuras, jį vykdo patentinių patikėtinių kvalifikacinio egzamino komisija (toliau – egzamino komisija). Egzamino programą ir egzamino organizavimo ir laikymo tvarką, suderinęs su Institutu, nustato Lietuvos Respublikos teisingumo ministras (toliau – teisingumo ministras).
 
@@ -96,7 +96,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 4. Egzaminas rengiamas ne rečiau kaip kartą per metus, išskyrus atvejus, kai negauta prašymų laikyti egzaminą. Egzamino perlaikymų skaičius neribojamas.
 
-\#### 8 straipsnis. Egzamino komisija
+## 8 straipsnis. Egzamino komisija
 
 1. Egzamino komisija sudaroma iš septynių narių. Po tris narius teikia Institutas ir Valstybinis patentų biuras, vieną narį – teisingumo ministras. Egzamino komisijoje negali būti daugiau kaip trys patentiniai patikėtiniai.
 
@@ -108,9 +108,9 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 5. Egzamino komisijos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\### TREČIASIS SKIRSNIS. PRIPAŽINIMAS PATENTINIU PATIKĖTINIU. PATENTINIŲ PATIKĖTINIŲ VEIKLOS SUSTABDYMAS IR NUTRAUKIMAS
+TREČIASIS SKIRSNIS. PRIPAŽINIMAS PATENTINIU PATIKĖTINIU. PATENTINIŲ PATIKĖTINIŲ VEIKLOS SUSTABDYMAS IR NUTRAUKIMAS
 
-\#### 9 straipsnis. Pripažinimas patentiniu patikėtiniu
+## 9 straipsnis. Pripažinimas patentiniu patikėtiniu
 
 1. Asmuo, atitinkantis šio įstatymo 5 straipsnyje nustatytus reikalavimus, jeigu nuo patentinio patikėtinio kvalifikacinio egzamino išlaikymo nepraėjo daugiau negu penkeri metai, prieš pradėdamas teikti patentinių patikėtinių paslaugas, privalo pateikti Institutui prašymą pripažinti jį patentiniu patikėtiniu.
 
@@ -130,7 +130,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 7. Valstybinis patentų biuras teikia Institutui informaciją apie patentinių patikėtinių kvalifikacinio egzamino išlaikymą ir kitą informaciją dėl patentinių patikėtinių. Informacijos pateikimo tvarką nustato Valstybinis patentų biuras, suderinęs su Institutu.
 
-\#### 10 straipsnis. Patentinių patikėtinių sąrašas
+## 10 straipsnis. Patentinių patikėtinių sąrašas
 
 1. Institutas sudaro ir tvarko Patentinių patikėtinių sąrašą. Visi asmenys, pripažinti patentiniais patikėtiniais, įrašomi į Patentinių patikėtinių sąrašą. Patentiniai patikėtiniai į Patentinių patikėtinių sąrašą įrašomi sprendimo pripažinti asmenį patentiniu patikėtiniu priėmimo dieną.
 
@@ -142,7 +142,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 5. Patentiniai patikėtiniai privalo raštu pranešti Institutui apie Patentinių patikėtinių sąraše nurodytų duomenų pasikeitimą.
 
-\#### 11 straipsnis. Patentinių patikėtinių profesinės civilinės atsakomybės privalomasis draudimas
+## 11 straipsnis. Patentinių patikėtinių profesinės civilinės atsakomybės privalomasis draudimas
 
 1. Patentinių patikėtinių profesinė civilinė atsakomybė už vykdant patentinių patikėtinių veiklą fiziniams ar juridiniams asmenims padarytą žalą, viršijančią 200 eurų, turi būti apdrausta privalomuoju draudimu. Kai patentinis patikėtinis veikia sudaręs darbo sutartį ir jo darbdavys neteikia pramoninės nuosavybės apsaugos paslaugų tretiesiems asmenims, patentinių patikėtinių profesinės civilinės atsakomybės draudimas neprivalomas.
 
@@ -160,7 +160,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 8. Patentiniai patikėtiniai gali papildomai draustis patentinių patikėtinių profesinės civilinės atsakomybės už vykdant patentinių patikėtinių veiklą fiziniams ar juridiniams asmenims padarytą žalą draudimu.
 
-\#### 12 straipsnis. Patentinių patikėtinių veiklos formos
+## 12 straipsnis. Patentinių patikėtinių veiklos formos
 
 1. Patentiniai patikėtiniai gali veikti:
 
@@ -174,7 +174,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 2. Patentinis patikėtinis gali veikti pasirinkęs vienos ar kelių formų veiklą, taip pat keisti veiklos formą.
 
-\#### 13 straipsnis. Patentinių patikėtinių veiklos sustabdymas ir atnaujinimas
+## 13 straipsnis. Patentinių patikėtinių veiklos sustabdymas ir atnaujinimas
 
 1. Patentinio patikėtinio veikla sustabdoma:
 
@@ -186,7 +186,7 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 3. Patentinio patikėtinio veikla, sustabdyta pagal šio straipsnio 1 dalies 1 punktą daugiau negu penkeriems metams, gali būti atnaujinta šio įstatymo 7 straipsnyje nustatyta tvarka išlaikius egzaminą ir patikrinus atitiktį šio įstatymo 6 straipsnyje nustatytiems reikalavimams.
 
-\#### 14 straipsnis. Patentinių patikėtinių veiklos nutraukimas
+## 14 straipsnis. Patentinių patikėtinių veiklos nutraukimas
 
 1. Patentinių patikėtinių veikla nutraukiama, jeigu:
 
@@ -206,15 +206,15 @@ Asmuo, siekiantis tapti patentiniu patikėtiniu, privalo:
 
 2. Institutas priima motyvuotus sprendimus dėl patentinių patikėtinių veiklos nutraukimo, išskyrus šio straipsnio 1 dalies 2 ir 3 punktuose nurodytus atvejus. Šio straipsnio 1 dalies 3 punkte nustatytais atvejais motyvuotus sprendimus dėl patentinių patikėtinių veiklos nutraukimo priima Valstybinis patentų biuras.
 
-\### KETVIRTASIS SKIRSNIS. PATENTINIŲ PATIKĖTINIŲ PROFESINĖS TEISĖS IR PAREIGOS
+KETVIRTASIS SKIRSNIS. PATENTINIŲ PATIKĖTINIŲ PROFESINĖS TEISĖS IR PAREIGOS
 
-\#### 15 straipsnis. Patentinių patikėtinių veiklos apribojimai
+## 15 straipsnis. Patentinių patikėtinių veiklos apribojimai
 
 1. Patentinis patikėtinis negali priimti kliento pavedimo, kuris yra susijęs su tuo pačiu pramoninės nuosavybės objektu, dėl kurio jis konsultavo kitus klientus, turinčius priešingų interesų, ar rengė jiems dokumentus, ar jiems atstovavo, išskyrus atvejus, kai gaunamas visų šių klientų sutikimas.
 
 2. Šiame straipsnyje nurodytas apribojimas taikomas ir patentinių patikėtinių darbdaviams.
 
-\#### 16 straipsnis. Patentinių patikėtinių profesinės pareigos
+## 16 straipsnis. Patentinių patikėtinių profesinės pareigos
 
 Patentiniai patikėtiniai privalo:
 
@@ -236,13 +236,13 @@ Patentiniai patikėtiniai privalo:
 
 9) mokėti įmokas, skirtas Instituto veiklai finansuoti.
 
-\#### 17 straipsnis. Profesinės paslapties apsauga
+## 17 straipsnis. Profesinės paslapties apsauga
 
 1. Patentinio patikėtinio profesinę paslaptį sudaro kreipimosi į patentinį patikėtinį faktas, sutarties su klientu sąlygos, kliento suteikta informacija ir pateikti duomenys, konsultacijos pobūdis ir pagal kliento pavedimą patentinio patikėtinio surinkti duomenys, išskyrus informaciją ir duomenis, kuriuos paskelbė pats klientas arba dėl kurių paskelbimo pats klientas aiškiai išreiškė savo sutikimą.
 
 2. Patentiniai patikėtiniai privalo saugoti profesinę paslaptį nuo trečiųjų asmenų, taip pat užtikrinti, kad ją saugotų ir kiti asmenys, kuriuos patentiniai patikėtiniai pasitelkia teikdami paslaugas, ir už tai atsako.
 
-\#### 18 straipsnis. Patentinių patikėtinių profesinės teisės
+## 18 straipsnis. Patentinių patikėtinių profesinės teisės
 
 Patentiniai patikėtiniai turi teisę teikti konsultacijas pramoninės nuosavybės apsaugos klausimais ir atstovauti fiziniams ir (ar) juridiniams asmenims Valstybiniame patentų biure, taip pat šiems palaikant santykius su kitais fiziniais ir juridiniais asmenimis, t. y.:
 
@@ -264,19 +264,19 @@ Patentiniai patikėtiniai turi teisę teikti konsultacijas pramoninės nuosavyb�
 
 9) pasirinkti specializaciją.
 
-\#### 19 straipsnis. Kliento ir patentinio patikėtinio santykiai
+## 19 straipsnis. Kliento ir patentinio patikėtinio santykiai
 
 1. Patentinį patikėtinį pasirenka klientas ar jo atstovas.
 
 2. Patentinis patikėtinis teikia paslaugas klientui sutarties arba įgaliojimo pagrindu. Be to, sutartis gali būti sudaroma su patentinio patikėtinio darbdaviu.
 
-\#### 20 straipsnis. Užmokestis už patentinių patikėtinių teikiamas paslaugas
+## 20 straipsnis. Užmokestis už patentinių patikėtinių teikiamas paslaugas
 
 Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjimo tvarka nustatoma patentinio patikėtinio ar jo darbdavio ir kliento ar jo atstovo susitarimu.
 
-\### PENKTASIS SKIRSNIS. PATENTINIŲ PATIKĖTINIŲ SAVIVALDA
+PENKTASIS SKIRSNIS. PATENTINIŲ PATIKĖTINIŲ SAVIVALDA
 
-\#### 21 straipsnis. Institutas ir jo funkcijos
+## 21 straipsnis. Institutas ir jo funkcijos
 
 1. Lietuvos patentiniai patikėtiniai vienijasi į Institutą.
 
@@ -302,7 +302,7 @@ Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjim
 
 8) atlieka kitas Instituto įstatuose nustatytas funkcijas.
 
-\#### 22 straipsnis. Instituto organai
+## 22 straipsnis. Instituto organai
 
 1. Instituto organai yra:
 
@@ -320,7 +320,7 @@ Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjim
 
 3. Instituto organų sprendimai gali būti skundžiami Vilniaus apygardos teismui per 30 dienų nuo sprendimo įteikimo suinteresuotam asmeniui dienos.
 
-\#### 23 straipsnis. Visuotinis patentinių patikėtinių susirinkimas
+## 23 straipsnis. Visuotinis patentinių patikėtinių susirinkimas
 
 1. Visuotinis patentinių patikėtinių susirinkimas yra aukščiausiasis Instituto organas.
 
@@ -346,7 +346,7 @@ Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjim
 
 4. Visuotinis patentinių patikėtinių susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė visų patentinių patikėtinių. Visuotinio patentinių patikėtinių susirinkimo sprendimai priimami susirinkime dalyvaujančių patentinių patikėtinių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia Instituto pirmininko balsas.
 
-\#### 24 straipsnis. Instituto valdyba
+## 24 straipsnis. Instituto valdyba
 
 1. Instituto valdyba yra Instituto valdymo organas. Instituto valdybos nariais gali būti patentiniai patikėtiniai, turintys ne trumpesnį kaip trejų metų patentinio patikėtinio veiklos stažą. Instituto valdybos nariai renkami trejiems metams. Instituto valdybai vadovauja Instituto pirmininkas.
 
@@ -366,7 +366,7 @@ Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjim
 
 6) vykdo kitas Instituto įstatuose nustatytas funkcijas.
 
-\#### 25 straipsnis. Instituto pirmininkas
+## 25 straipsnis. Instituto pirmininkas
 
 1. Instituto pirmininkas vadovauja Instituto valdybai.
 
@@ -382,9 +382,9 @@ Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjim
 
 3. Jeigu yra išrinktas Instituto pirmininko pavaduotojas, jis prireikus gali atlikti Instituto pirmininko pareigas.
 
-\### ŠEŠTASIS SKIRSNIS. PATENTINIŲ PATIKĖTINIŲ DRAUSMINĖ ATSAKOMYBĖ
+ŠEŠTASIS SKIRSNIS. PATENTINIŲ PATIKĖTINIŲ DRAUSMINĖ ATSAKOMYBĖ
 
-\#### 26 straipsnis. Patentinių patikėtinių drausminė atsakomybė
+## 26 straipsnis. Patentinių patikėtinių drausminė atsakomybė
 
 1. Patentiniam patikėtiniui už šio įstatymo ir Patentinių patikėtinių profesinės etikos kodekso pažeidimus gali būti keliama drausmės byla.
 
@@ -406,21 +406,21 @@ Užmokesčio už patentinių patikėtinių teikiamas paslaugas dydis ir mokėjim
 
 7. Patentinių patikėtinių profesinės etikos komisija, išnagrinėjusi drausmės bylą, gali apsiriboti drausmės bylos svarstymu.
 
-\#### 27 straipsnis. Patentinių patikėtinių profesinės etikos komisija ir Patentinių patikėtinių profesinės etikos kodeksas
+## 27 straipsnis. Patentinių patikėtinių profesinės etikos komisija ir Patentinių patikėtinių profesinės etikos kodeksas
 
 1. Patentinių patikėtinių profesinės etikos komisija sudaroma iš penkių narių. Tris Patentinių patikėtinių profesinės etikos komisijos narius renka visuotinis patentinių patikėtinių susirinkimas, du narius skiria teisingumo ministras. Patentinių patikėtinių profesinės etikos komisiją ir iš jos narių pirmininką trejiems metams tvirtina teisingumo ministras.
 
 2. Patentinių patikėtinių profesinės etikos kodeksą tvirtina visuotinis patentinių patikėtinių susirinkimas. Patentinių patikėtinių profesinės etikos kodeksas skelbiamas Instituto ir Valstybinio patentų biuro interneto svetainėse.
 
-\### SEPTINTASIS SKIRSNIS. KITOSE VALSTYBĖSE PROFESINĘ KVALIFIKACIJĄ ĮGIJUSIŲ PATENTINIŲ PATIKĖTINIŲ TEISĖ TEIKTI PASLAUGAS LIETUVOS RESPUBLIKOJE
+SEPTINTASIS SKIRSNIS. KITOSE VALSTYBĖSE PROFESINĘ KVALIFIKACIJĄ ĮGIJUSIŲ PATENTINIŲ PATIKĖTINIŲ TEISĖ TEIKTI PASLAUGAS LIETUVOS RESPUBLIKOJE
 
-\#### 28 straipsnis. Kitose valstybėse profesinę kvalifikaciją įgijusių patentinių patikėtinių teisė teikti paslaugas Lietuvos Respublikoje
+## 28 straipsnis. Kitose valstybėse profesinę kvalifikaciją įgijusių patentinių patikėtinių teisė teikti paslaugas Lietuvos Respublikoje
 
 Kitose valstybėse profesinę kvalifikaciją įgiję patentiniai patikėtiniai turi teisę teikti paslaugas Lietuvos Respublikoje pagal Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymą ir teisės aktus, reglamentuojančius trečiųjų šalių piliečių reglamentuojamų profesinių kvalifikacijų pripažinimą. Kompetentingos institucijos, pripažįstančios kitose valstybėse įgytą patentinių patikėtinių profesinę kvalifikaciją, funkcijas atlieka Institutas. Patentinių patikėtinių profesinės kvalifikacijos pripažinimo Lietuvos Respublikoje tvarką nustato Valstybinis patentų biuras.
 
-\### AŠTUNTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+AŠTUNTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 29 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 29 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir 5 dalis, įsigalioja 2018 m. gegužės 1 d.
 

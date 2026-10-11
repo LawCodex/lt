@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.782851B49395"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.782851B49395.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo įgyvendinimo įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [66-1610](https://www.e-tar.lt/portal/lt/legalAct/TAR.5F749F26E10F))
 
-\#### 1 straipsnis. 1 straipsnio 2 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 1 straipsnio 2 punkto pripažinimas netekusiu galios
 
 1 straipsnio 2 punktą pripažinti netekusiu galios.
 

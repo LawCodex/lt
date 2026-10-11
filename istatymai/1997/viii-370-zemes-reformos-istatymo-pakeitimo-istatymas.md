@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0EF9122D15BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo pakeitimo įstatymas
@@ -40,25 +40,25 @@ Pakeisti Lietuvos Respublikos žemės reformos įstatymą ir jį išdėstyti tai
 
 BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas reglamentuoja žemės reformos ir žemės privatizavimo tvarką.
 
-\#### 2 straipsnis. Žemės reformos tikslas
+## 2 straipsnis. Žemės reformos tikslas
 
 Žemės reformos tikslai: užtikrinant gamtos išteklių apsaugą**,** įgyvendinti Lietuvos Respublikos piliečių teisę į žemės nuosavybę bei naudojimą įstatymų nustatyta tvarka ir sąlygomis grąžinant neteisėtai nusavintą žemę, perduodant ar suteikiant neatlygintinai nuosavybėn bei parduodant pageidaujantiems ją pirkti**,** išnuomojant ar suteikiant naudotis valstybinę žemę; sudaryti teisines ir ekonomines prielaidas žemės rinkai plėtotis, įgyvendinti socialinį teisingumą privatizuojant valstybinę žemę.
 
-\#### 3 straipsnis. Žemės reformos objektas
+## 3 straipsnis. Žemės reformos objektas
 
 Žemės reformos objektas – Lietuvos Respublikos žemės fondas.
 
-\#### 4 straipsnis. Žemės reformos vykdymo sąlygos
+## 4 straipsnis. Žemės reformos vykdymo sąlygos
 
 1. Žemės reforma vykdoma pagal žemės reformos žemėtvarkos projektus, kitus teritorijų planavimo dokumentus, vadovaujantis šiuo ir kitais žemės santykius reglamentuojančiais įstatymais ir atsižvelgiant į suformuotas privačias ir valstybines žemėnaudas.
 
 2. Žemės reformos procesas apima žemės naudojimo dabartinės situacijos analizę, parengiamuosius žemėtvarkos darbus, žemės reformos žemėtvarkos projektų parengimą, jų derinimą, teisinį, ekonominį ir ekologinį pagrindimą bei tvirtinimą, tikslinės žemės naudojimo paskirties, žemės, miško ir vandens telkinių naudojimo specialiųjų sąlygų, žemės servitutų ir kitų įstatymuose numatytų ūkinės veiklos apribojimų nustatymą.
 
-\#### 5 straipsnis. Žemės nuosavybės formos ir žemės įsigijimo būdai
+## 5 straipsnis. Žemės nuosavybės formos ir žemės įsigijimo būdai
 
 1. Žemės nuosavybės formos yra privati ir valstybinė.
 
@@ -84,13 +84,13 @@ BENDROSIOS NUOSTATOS
 
 **ŽEMĖs įsigIjimas privaČION nuosavybėn**
 
-\>
+>
 
-\#### 6 straipsnis. Nuosavybės teisių į žemę atkūrimas
+## 6 straipsnis. Nuosavybės teisių į žemę atkūrimas
 
 Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikiant nuosavybėn neatlygintinai bei išperkant kaimo vietovėse ir miestuose tvarką bei sąlygas nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas.
 
-\#### 7 straipsnis. Valstybinės žemės suteikimas nuosavybėn neatlygintinai
+## 7 straipsnis. Valstybinės žemės suteikimas nuosavybėn neatlygintinai
 
 Žemė Vyriausybės nustatyta tvarka suteikiama nuosavybėn neatlygintinai Lietuvos Respublikos piliečiams:
 
@@ -100,7 +100,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 3) kurių šeimos buvo įkeldintos į Lietuvos Respublikos teritoriją po 1939 metų iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, – žemės sklypai pagal šio įstatymo 10 straipsnyje nustatytą eilę žemei įsigyti, bet ne didesnio ploto, negu šie asmenys turėjo žemės nuosavybės teise arba gavo naudotis įkeldinant juos į Lietuvos Respublikos teritoriją, ir ne didesni kaip 150 ha bendro ploto.
 
-\#### 8 straipsnis. Valstybinės žemės pardavimas
+## 8 straipsnis. Valstybinės žemės pardavimas
 
 1. Piliečiams žemės ūkio paskirties žemė, miškas ir vandens telkiniai kaimo vietovėje parduodami laikantis šio įstatymo 10 straipsnyje nurodytos eilės ir pagal žemės reformos žemėtvarkos projektus. Piliečiai, pirkdami iš valstybės žemę, gali įsigyti ją iš karto arba išsimokėtinai, bet ne ilgiau kaip per 10 metų laikotarpį Vyriausybės nustatyta tvarka.
 
@@ -112,7 +112,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 5. Užsienio valstybių diplomatinėms ir konsulinėms įstaigoms žemė parduodama Žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymo nustatyta tvarka.
 
-\#### 9 straipsnis. Parduodamų žemės sklypų dydžiai
+## 9 straipsnis. Parduodamų žemės sklypų dydžiai
 
 1. Piliečiams, įsigyjantiems žemę (įskaitant miškus ir vandens telkinius) žemės ūkio veiklai, žemės reformos metu galima parduoti tiek valstybinės žemės, kad bendras vienai šeimai sugrąžintos natūra, perduotos, suteiktos nuosavybėn neatlygintinai ir pirktos iš valstybės žemės plotas sudarytų ne daugiau kaip 150 ha.
 
@@ -128,7 +128,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 7. Nauji žemės sklypai vienbučiams ir daugiabučiams gyvenamiesiems namams statyti parduodami Vyriausybės nustatyta tvarka ir Vyriausybės nustatyto dydžio pagal teritorijų planavimo dokumentus.
 
-\#### 10 straipsnis. Piliečių, įsigyjančių žemę, mišką ir vandens telkinius, eilė
+## 10 straipsnis. Piliečių, įsigyjančių žemę, mišką ir vandens telkinius, eilė
 
 1. Vykdant žemės reformą, kaimo vietovėje esantys žemė, miškas ir vandens telkiniai sugrąžinami natūra ar perduodami arba suteikiami nuosavybėn neatlygintinai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą bei šį įstatymą, taip pat parduodami pagal šį įstatymą piliečiams žemės reformos žemėtvarkos projektuose nustatytų ribų šia eilės tvarka:
 
@@ -164,7 +164,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 5. Privatizuotini valstybinėje žemėje esantys miškai ir vandens telkiniai, įsiterpę į žemės ūkio paskirties žemėnaudas, gali būti parduodami šių žemėnaudų savininkams, o besiribojantys su žemės ūkio paskirties žemėnaudomis valstybinėje žemėje esantys miškai ir vandens telkiniai gali būti parduodami šių žemėnaudų savininkams, jeigu miškai sudaro atskirus, ne didesnius kaip 10 ha masyvus, o vandens telkiniai yra iki 3 ha dydžio. Šiais atvejais miškai ir vandens telkiniai parduodami žemėnaudų savininkams nesilaikant šiame straipsnyje nustatytos eilės.
 
-\#### 11 straipsnis. Riboto ūkinio naudojimo žemės privatizavimas
+## 11 straipsnis. Riboto ūkinio naudojimo žemės privatizavimas
 
 1. Saugomų vietovių žemė, kurioje ūkinė veikla ribojama pagal teritorijų planavimo dokumentus, privatizuojama ribotam ūkiniam naudojimui.
 
@@ -172,7 +172,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 3. Savininkams, nesilaikantiems nustatytų žemės, miško ir vandens telkinių specialiųjų naudojimo sąlygų, žemės servitutų ir ūkinės veiklos apribojimų, taikoma įstatymų nustatyta atsakomybė.
 
-\#### 12 straipsnis. Disponavimas žeme ir jos naudojimo apribojimai
+## 12 straipsnis. Disponavimas žeme ir jos naudojimo apribojimai
 
 1. Disponavimo žeme tvarką bei jos naudojimo apribojimus nustato Žemės įstatymas, Miškų įstatymas, Saugomų teritorijų įstatymas ir kiti įstatymai.
 
@@ -182,7 +182,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 
 VALSTYBINĖ ŽEMĖ
 
-\#### 13 straipsnis. Neprivatizuojama žemė
+## 13 straipsnis. Neprivatizuojama žemė
 
 Žemė neprivatizuojama, jeigu ji:
 
@@ -204,7 +204,7 @@ VALSTYBINĖ ŽEMĖ
 
 9) yra bažnyčių (religinių konfesijų ir jų institucijų) nuosavybės teise turėta žemė.
 
-\#### 14 straipsnis. Neprivatizuojami miškai ir vandens telkiniai
+## 14 straipsnis. Neprivatizuojami miškai ir vandens telkiniai
 
 Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
@@ -220,7 +220,7 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
 6) miškų mokslinio tyrimo ir mokymo bei selekcinės sėklininkystės objektams.
 
-\#### 15 straipsnis. Asmeninio ūkio žemė
+## 15 straipsnis. Asmeninio ūkio žemė
 
 1. Piliečių asmeninio ūkio žeme laikoma žemė, kuri pagal įstatymus buvo suteikta ir piliečių naudojama asmeniniam ūkiui iki šio įstatymo įsigaliojimo dienos.
 
@@ -244,9 +244,9 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
 **Žemės reformos vykdymas**
 
-\>
+>
 
-\#### 16 straipsnis. Žemės reformos vykdytojai, jų teisės ir pareigos
+## 16 straipsnis. Žemės reformos vykdytojai, jų teisės ir pareigos
 
 1. Žemės reformą įgyvendina ir sprendimus grąžinti, perduoti, suteikti nuosavybėn neatlygintinai ar parduoti žemę priima apskričių viršininkai.
 
@@ -254,13 +254,13 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
 3. Žemės reformos žemėtvarkos projektus rengia konkursą laimėję fiziniai ir juridiniai asmenys, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus. Parengti šiuos projektus užsako apskričių viršininkai.
 
-\#### 17 straipsnis. Prašymų žemei įsigyti pateikimo ir nagrinėjimo tvarka
+## 17 straipsnis. Prašymų žemei įsigyti pateikimo ir nagrinėjimo tvarka
 
 1. Fiziniai ir juridiniai asmenys, pageidaujantys įsigyti privačion nuosavybėn žemę, prašymus pateikia Vyriausybės nustatyta tvarka jos įgaliotai institucijai. Piliečių ir juridinių asmenų prašymai, pateikti atitinkamoms institucijoms iki 1997 m. vasario 1 d., galioja.
 
 2. Piliečių prašymus susigrąžinti nuosavybėn, perduoti ar suteikti nuosavybėn neatlygintinai, parduoti ar išnuomoti žemę, mišką bei vandens telkinius nagrinėja ir sprendimus priima apskričių viršininkai.
 
-\#### 18 straipsnis. Skundų dėl žemės reformos vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
+## 18 straipsnis. Skundų dėl žemės reformos vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
 
 1. Sprendimus dėl žemės įsigijimo piliečiai gali apskųsti teismui.
 
@@ -272,9 +272,9 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
 **Žemėtvarkos darbai**
 
-\>
+>
 
-\#### 19 straipsnis. Žemės reformos žemėtvarkos projektų sudarymas ir žemės servitutų nustatymas
+## 19 straipsnis. Žemės reformos žemėtvarkos projektų sudarymas ir žemės servitutų nustatymas
 
 1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal Žemės ir miškų ūkio ministerijos patvirtintą metodiką.
 
@@ -294,11 +294,11 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
 9. Apskrities viršininkas, priimdamas sprendimą dėl žemės grąžinimo, perdavimo arba suteikimo neatlygintinai, pardavimo ir nuomos, jame nurodo žemės servitutus ir jų naudojimo sąlygas.
 
-\#### 20 straipsnis. Žemės reformos žemėtvarkos projektų svarstymo, derinimo ir tvirtinimo tvarka
+## 20 straipsnis. Žemės reformos žemėtvarkos projektų svarstymo, derinimo ir tvirtinimo tvarka
 
 Žemės reformos žemėtvarkos projektai svarstomi ir derinami pagal Teritorijų planavimo įstatymą ir žemės reformos žemėtvarkos projektų rengimo metodikos nustatyta tvarka. Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities viršininkas.
 
-\#### 21 straipsnis. Žemės sklypų ženklinimas ir žemės nuosavybės bei žemės naudojimo teisės dokumentų išdavimas
+## 21 straipsnis. Žemės sklypų ženklinimas ir žemės nuosavybės bei žemės naudojimo teisės dokumentų išdavimas
 
 1. Žemės reformos žemėtvarkos projektuose ir kituose teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numatomi įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų plotai apskaičiuojami pagal Žemės ir miškų ūkio ministerijos patvirtintą metodiką.
 
@@ -306,7 +306,7 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 
 3. Žemės savininkams ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami Vyriausybės nustatyta tvarka.
 
-\#### 22 straipsnis. Specialiosios nuostatos
+## 22 straipsnis. Specialiosios nuostatos
 
 Miestų (rajonų) savivaldybės iki 1999 m. sausio 1 d. biudžeto lėšomis parengia miestų vietovių, kuriose numatoma už nuosavybės teise turėtą žemę suteikti žemės sklypus individualiai statybaiar kitai paskirčiai, teritorijų planavimo dokumentus (detaliuosius planus) ir Vyriausybės nustatyta tvarka šias teritorijas įrengia.“
 

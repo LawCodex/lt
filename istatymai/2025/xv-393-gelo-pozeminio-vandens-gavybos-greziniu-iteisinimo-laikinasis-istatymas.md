@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/44ae53f057e811f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.44AE53F057E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinasis įstatymas
@@ -26,11 +26,11 @@ GĖLO POŽEMINIO VANDENS GAVYBOS GRĘŽINIŲ ĮTEISINIMO LAIKINASIS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šio įstatymo paskirtis – šio įstatymo galiojimo laikotarpiu sudaryti teisines prielaidas asmenims įregistruoti esamus ir Žemės gelmių registre neregistruotus gėlo požeminio vandens gavybos gręžinius (toliau – gręžinys) Žemės gelmių registre arba įrašyti į Žemės gelmių registrą gręžinio savininko duomenis, kai šiame registre gręžinio savininko duomenų nėra, kad šie asmenys, vadovaudamiesi Lietuvos Respublikos žemės gelmių įstatymu, galėtų gauti leidimą naudoti požeminio vandens išteklius (toliau – leidimas) ir jiems nebūtų taikoma Lietuvos Respublikos administracinių nusižengimų kodekse numatyta administracinė ir Lietuvos Respublikos aplinkos apsaugos įstatyme nustatyta juridinių asmenų atsakomybė, Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatyme nustatyta ekonominė sankcija už be leidimo išgautą požeminio vandens išteklių kiekį ir nebūtų Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka iš naujo apskaičiuotas (perskaičiuotas) mokestis už požeminio vandens išteklius.
 
-\#### 2 straipsnis. Atleidimas nuo atsakomybės
+## 2 straipsnis. Atleidimas nuo atsakomybės
 
 1. Asmeniui, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį ir kuriam pagal Žemės gelmių įstatymą požeminio vandens ištekliams naudoti reikalingas leidimas, administracinių nusižengimų teisena už Administracinių nusižengimų kodekso 262 straipsnio 19, 20, 21 ir 231 dalyse numatytas veikas nepradedama, netaikoma juridinių asmenų atsakomybė už Aplinkos apsaugos įstatymo 114 straipsnio ir 1231 straipsnio 8 dalyje numatytas veikas ir netaikoma Mokesčio už valstybinius gamtos išteklius įstatyme nustatyta ekonominė sankcija už be leidimo išgautus požeminio vandens išteklius, jeigu šis asmuo iki šio įstatymo įsigaliojimo dienos likvidavo Žemės gelmių registre neregistruotą gręžinį arba jeigu šis asmuo šio įstatymo galiojimo laikotarpiu šio įstatymo 3 straipsnyje nustatyta tvarka savo noru nusprendžia likviduoti sau nuosavybės ar patikėjimo teise priklausantį arba savo valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį, arba jeigu šis asmuo šio įstatymo 6 straipsnyje nustatyta tvarka sumokėjo vienkartinę gręžinio įteisinimo įmoką (toliau – vienkartinė įmoka), išskyrus atvejus, kai šis asmuo neįvykdė bent vieno iš šio įstatymo 3 straipsnio 2 dalies 2 punkte, 4–7 dalyse nurodytų veiksmų.
 
@@ -44,7 +44,7 @@ Vilnius
 
 6. Asmuo, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba Žemės gelmių registre registruotas gręžinys, kurio savininko duomenų Žemės gelmių registre nėra, arba kuris valdo ir (arba) naudoja tokį gręžinį ir kuriam pagal Žemės gelmių įstatymą požeminio vandens ištekliams naudoti reikalingas leidimas, neturi mokėti Mokesčio už valstybinius gamtos išteklius įstatyme nustatyto mokesčio už išgautus požeminio vandens išteklius už paskutinius trejus metus iki šio įstatymo įsigaliojimo dienos, taip pat šis mokestis už paskutinius trejus metus iki šio įstatymo įsigaliojimo dienos negali būti Mokesčių administravimo įstatymo nustatyta tvarka iš naujo apskaičiuotas (perskaičiuotas), jeigu šis asmuo Mokesčio už valstybinius gamtos išteklius įstatymo nustatyta tvarka sumokėjo mokestį už išgautus požeminio vandens išteklius už paskutinius trejus metus iki šio įstatymo įsigaliojimo dienos ir šio įstatymo 3 straipsnyje nustatyta tvarka savivaldybės merui arba jo įgaliotam savivaldybės administracijos direktoriui pateikė paraišką dėl savivaldybės mero arba jo įgalioto savivaldybės administracijos direktoriaus pritarimo naudoti gręžinį arba jeigu šis asmuo Mokesčio už valstybinius gamtos išteklius įstatymo nustatyta tvarka sumokėjo mokestį už išgautus požeminio vandens išteklius už paskutinius trejus metus iki šio įstatymo įsigaliojimo dienos ir šio įstatymo galiojimo laikotarpiu šio įstatymo 3 straipsnyje nustatyta tvarka savo noru nusprendžia likviduoti sau nuosavybės ar patikėjimo teise priklausantį arba savo valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį, arba jeigu šis asmuo Mokesčio už valstybinius gamtos išteklius įstatymo nustatyta tvarka sumokėjo mokestį už išgautus požeminio vandens išteklius už paskutinius trejus metus iki šio įstatymo įsigaliojimo dienos ir šio įstatymo 4 straipsnyje nustatyta tvarka informavo Aplinkos apsaugos departamentą prie Aplinkos ministerijos (toliau – Aplinkos apsaugos departamentas) apie sprendimą įrašyti gręžinio savininko duomenis į Žemės gelmių registrą.
 
-\#### 3 straipsnis. Žemės gelmių registre neregistruoto gręžinio registravimas ir likvidavimas
+## 3 straipsnis. Žemės gelmių registre neregistruoto gręžinio registravimas ir likvidavimas
 
 1. Asmuo, norintis įregistruoti Žemės gelmių registre sau nuosavybės ar patikėjimo teise priklausantį arba savo valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį, turi gauti savivaldybės, kurios teritorijoje planuojama naudoti anksčiau įrengtą gręžinį, mero arba jo įgalioto savivaldybės administracijos direktoriaus pritarimą. Šis asmuo savivaldybės merui arba jo įgaliotam savivaldybės administracijos direktoriui teikia paraišką dėl savivaldybės mero arba jo įgalioto savivaldybės administracijos direktoriaus pritarimo naudoti gręžinį aplinkos ministro nustatyta tvarka. Savivaldybės meras arba jo įgaliotas savivaldybės administracijos direktorius, atsižvelgdamas į geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planus arba į savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentą, pateikia pagrįstą nuomonę dėl pritarimo ar nepritarimo naudoti gręžinį. Savivaldybės meras arba jo įgaliotas savivaldybės administracijos direktorius nepritaria gręžinio naudojimui šiais atvejais:
 
@@ -74,17 +74,17 @@ Vilnius
 
 8. Gręžiniai likviduojami aplinkos ministro nustatyta tvarka.
 
-\#### 4 straipsnis. Žemės gelmių registre registruoto gręžinio, kurio savininko duomenų šiame registre nėra, savininko duomenų įrašymas į Žemės gelmių registrą
+## 4 straipsnis. Žemės gelmių registre registruoto gręžinio, kurio savininko duomenų šiame registre nėra, savininko duomenų įrašymas į Žemės gelmių registrą
 
 1. Asmuo, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre registruotas gręžinys, kurio savininko duomenų Žemės gelmių registre nėra, arba kuris valdo ir (arba) naudoja tokį gręžinį sau nuosavybės teise priklausančiame žemės sklype, nusprendęs įrašyti į Žemės gelmių registrą sau nuosavybės ar patikėjimo teise priklausančio arba savo valdomo ir (arba) naudojamo Žemės gelmių registre registruoto gręžinio savininko duomenis, apie šį sprendimą turi raštu informuoti Aplinkos apsaugos departamentą ir per 2 mėnesius nuo šios informacijos pateikimo dienos Žemės gelmių registro nuostatuose ir kituose teisės aktuose nustatyta tvarka pateikti Lietuvos geologijos tarnybai dokumentus, reikalingus gręžinio savininko duomenims įrašyti į Žemės gelmių registrą.
 
 2. Viešasis geriamojo vandens tiekėjas, kuris valdo ir (arba) naudoja Žemės gelmių registre registruotą gręžinį, kurio savininko duomenų Žemės gelmių registre nėra, raštu kreipiasi į savivaldybę dėl viešojo vandens tiekėjo valdomo ir (arba) naudojamo Žemės gelmių registre registruoto gręžinio, kurio savininko duomenų Žemės gelmių registre nėra, gręžinio savininko duomenų įrašymo į Žemės gelmių registrą (toliau – kreipimasis) ir raštu informuoja Aplinkos apsaugos departamentą apie šį kreipimąsi. Savivaldybės meras arba jo įgaliotas savivaldybės administracijos direktorius, gavęs viešojo geriamojo vandens tiekėjo kreipimąsi, vadovaudamasis Lietuvos Respublikos civilinio kodekso nuostatomis, teikia pareiškimą teismui dėl bešeimininkio gręžinio perdavimo savivaldybės nuosavybėn ir apie tai raštu informuoja viešąjį geriamojo vandens tiekėją. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius teismo sprendimu perduotą savivaldybės nuosavybėn bešeimininkį gręžinį perduoda nuosavybės teise valdyti viešojo geriamojo vandens tiekėjui. Viešasis geriamojo vandens tiekėjas per 18 mėnesių nuo kreipimosi į savivaldybę pateikimo dienos Žemės gelmių registro nuostatuose ir kituose teisės aktuose nustatyta tvarka privalo pateikti Lietuvos geologijos tarnybai dokumentus, reikalingus gręžinio savininko duomenims įrašyti į Žemės gelmių registrą.
 
-\#### 5 straipsnis. Įregistruoto Žemės gelmių registre gręžinio tolesnis naudojimas
+## 5 straipsnis. Įregistruoto Žemės gelmių registre gręžinio tolesnis naudojimas
 
 Šiame įstatyme nustatytais atvejais Žemės gelmių registre įregistravus gręžinį arba įrašius į Žemės gelmių registrą gręžinio savininko duomenis, asmuo, kuriam nuosavybės ar patikėjimo teise priklauso gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį, įgyja teisę naudoti požeminio vandens išteklius neturėdamas leidimo, nors pagal Žemės gelmių įstatymą toks leidimas privalomas, bet ne ilgiau kaip 4 mėnesius nuo gręžinio įregistravimo Žemės gelmių registre dienos arba nuo gręžinio savininko duomenų įrašymo į Žemės gelmių registrą dienos.
 
-\#### 6 straipsnis. Vienkartinės įmokos sumokėjimas ir įskaitymas
+## 6 straipsnis. Vienkartinės įmokos sumokėjimas ir įskaitymas
 
 1. Asmuo, kuris šio įstatymo 3 straipsnyje nustatyta tvarka kreipėsi į savivaldybės merą arba jo įgaliotą savivaldybės administracijos direktorių dėl pritarimo naudoti gręžinį ar šio įstatymo 4 straipsnyje nustatyta tvarka informavo Aplinkos apsaugos departamentą apie sprendimą įrašyti į Žemės gelmių registrą gręžinio savininko duomenis, per 30 kalendorinių dienų nuo kreipimosi į savivaldybės merą arba jo įgaliotą savivaldybės administracijos direktorių ar Aplinkos apsaugos departamento informavimo dienos turi sumokėti vienkartinę įmoką.
 
@@ -94,13 +94,13 @@ Vilnius
 
 4. Leidime nurodomas požeminio vandens išteklių kiekis yra nustatomas pagal sumokėtos vienkartinės įmokos dydį. Vienkartinė įmoka sumokama į valstybės biudžetą, o vėliau šios lėšos įskaitomos taip: 4/5 vienkartinės įmokos įskaitoma į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojama Aplinkos apsaugos rėmimo programai finansuoti, o 1/5 vienkartinės įmokos įskaitoma į savivaldybės, kurios teritorijoje išgaunami požeminio vandens ištekliai, biudžetą.
 
-\#### 7 straipsnis. Požeminio vandens išteklių naudojimas iš neregistruoto Žemės gelmių registre gręžinio ar gręžinio, kurio savininko duomenų Žemės gelmių registre nėra
+## 7 straipsnis. Požeminio vandens išteklių naudojimas iš neregistruoto Žemės gelmių registre gręžinio ar gręžinio, kurio savininko duomenų Žemės gelmių registre nėra
 
 1. Asmens, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį, iš šio gręžinio iki 2026 m. gruodžio 31 d. išgauti požeminio vandens ištekliai nelaikomi išgautais neteisėtai, jeigu šis asmuo šio įstatymo 3 straipsnyje nustatyta tvarka savivaldybės merui arba jo įgaliotam savivaldybės administracijos direktoriui pateikė paraišką dėl savivaldybės mero arba jo įgalioto savivaldybės administracijos direktoriaus pritarimo naudoti gręžinį arba jeigu šis asmuo šio įstatymo galiojimo laikotarpiu savo noru nusprendžia likviduoti sau nuosavybės ar patikėjimo teise priklausantį arba savo valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį ir apie tai šio įstatymo 3 straipsnio 7 dalyje nustatyta tvarka informuoja Aplinkos apsaugos departamentą.
 
 2. Asmens, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre registruotas gręžinys, kurio savininko duomenų Žemės gelmių registre nėra, arba kuris valdo ir (arba) naudoja Žemės gelmių registre registruotą gręžinį, kurio savininko duomenų Žemės gelmių registre nėra, iki 2026 m gruodžio 31 d. išgauti požeminio vandens ištekliai nelaikomi išgautais neteisėtai, jeigu šis asmuo šio įstatymo galiojimo laikotarpiu nusprendžia įrašyti į Žemės gelmių registrą tokio gręžinio savininko duomenis ir apie tai šio įstatymo 4 straipsnyje nustatyta tvarka informuoja Aplinkos apsaugos departamentą.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas, galiojimas, įgyvendinimas ir taikymas
+## 8 straipsnis. Įstatymo įsigaliojimas, galiojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. rugpjūčio 1 d. ir galioja iki 2026 m. gruodžio 31 d.
 

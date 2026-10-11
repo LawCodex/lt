@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4FFAD9D4DF74"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4FFAD9D4DF74.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 3, 6, 8 ir 15 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84); 1996, Nr. [73-1750](https://www.e-tar.lt/portal/lt/legalAct/TAR.A766B68AB31D); 1997, Nr. [30-708](https://www.e-tar.lt/portal/lt/legalAct/TAR.62B08B2B3D87), Nr. [104-2622](https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1), Nr. 115-2991; 1998, Nr. [114-3192](https://www.e-tar.lt/portal/lt/legalAct/TAR.7594F69437BF); 1999, Nr. [99-2846](https://www.e-tar.lt/portal/lt/legalAct/TAR.9648FA9BCFC6); 2000, Nr. [52-1487](https://www.e-tar.lt/portal/lt/legalAct/TAR.4693BF65085E); 2001, Nr. [21-693](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E4F258254FF); 2002, Nr. 68-2515, Nr. [73-3089](https://www.e-tar.lt/portal/lt/legalAct/TAR.B51EB2073886); 2003, Nr. [115-5221](https://www.e-tar.lt/portal/lt/legalAct/TAR.099AB72E40EC); 2004, Nr. [88-3209](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C6EDA02A66F); 2005, Nr. [71-2554](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D1E439FB91A); 2006, Nr. [141-5404](https://www.e-tar.lt/portal/lt/legalAct/TAR.67BD9271B92F); 2007, Nr. [138-5646](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D45898ABE61); 2008, Nr. [134-5175](https://www.e-tar.lt/portal/lt/legalAct/TAR.3225C2892463), Nr. [149-6014](https://www.e-tar.lt/portal/lt/legalAct/TAR.C5CBD04F5C9A))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–5 punktuose nustatytos valst
 
 Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su asmens draudžiamosiomis pajamomis, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, permokai dėl to, kad valstybinės pensijos gavėjas turėjo draudžiamųjų pajamų už tą laikotarpį, per kurį jam buvo paskirta ir mokėta pensija, permoka valstybinę pensiją mokančios institucijos vadovo sprendimu išieškoma iš valstybinės pensijos gavėjo ne ginčo tvarka.“
 
-\#### 2 straipsnis. 6 straipsnio 3, 5 dalių pakeitimas ir 7 dalies pripažinimas netekusia galios
+## 2 straipsnis. 6 straipsnio 3, 5 dalių pakeitimas ir 7 dalies pripažinimas netekusia galios
 
 1. Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -50,19 +50,19 @@ Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su
 
 3. 6 straipsnio 7 dalį pripažinti netekusia galios.
 
-\#### 3 straipsnis. 8 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 3 dalies pakeitimas
 
 Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Pirmojo ar antrojo laipsnio valstybinės pensijos gavėjui mirus, pensija išmokama jį palaidojusiems asmenims už mirties mėnesį, jei ji dar nebuvo išmokėta, ir dar paskirtos pensijos už vieną mėnesį dydžio suma.“
 
-\#### 4 straipsnis. 15 straipsnio 7 dalies pakeitimas
+## 4 straipsnis. 15 straipsnio 7 dalies pakeitimas
 
 Pakeisti 15 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „Nukentėjusiųjų asmenų valstybinės pensijos gavėjui mirus, ši pensija išmokama jį laidojusiems asmenims už mirties mėnesį, jei ji dar nebuvo išmokėta, ir dar paskirtos pensijos už vieną mėnesį dydžio suma.“
 
-\#### 5 straipsnis. Baigiamosios nuostatos
+## 5 straipsnis. Baigiamosios nuostatos
 
 1. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CD8512664DC0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CD8512664DC0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konsulinio mokesčio įstatymo 1, 3, 6, 8 straipsnių papildymo bei pakeitimo ir įstatymo papildymo priedu įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [51-951](https://www.e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794); 1996, Nr. [46-1111](https://www.e-tar.lt/portal/lt/legalAct/TAR.E954D121AD66); 1997, Nr. [97-2441](https://www.e-tar.lt/portal/lt/legalAct/TAR.24363B95B46A); 2003, Nr. [38-1727](https://www.e-tar.lt/portal/lt/legalAct/TAR.11641352AA5B))
 
-\#### 1 straipsnis. 1 straipsnio papildymas
+## 1 straipsnis. 1 straipsnio papildymas
 
 Papildyti 1 straipsnį trečiąja dalimi:
 
 „Šis įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymą.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Papildyti 1 straipsnį trečiąja dalimi:
 
 „8) kitas konsulines paslaugas, nustatytas tarptautinėse sutartyse, Lietuvos Respublikos įstatymuose ir Lietuvos Respublikos Vyriausybės nutarimuose.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Konsulinis mokestis neimamas už:
 
 20) asmens grįžimo pažymėjimo ar Lietuvos Respublikos paso išdavimą ar keitimą, su tuo susijusių dokumentų pareikalavimą iš Lietuvos Respublikos ar užsienio valstybių kompetentingų institucijų ir įstaigų ar kitas konsulines paslaugas, kurių reikia užsienio valstybėje likusiam be tėvų globos vaikui, kuriam buvo išduotas Lietuvos Respublikos pilietybę patvirtinantis dokumentas arba kurio tėvai (ar turimas vienintelis iš tėvų) yra Lietuvos Respublikos piliečiai, parvežti į Lietuvos Respubliką.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Konsulinis mokestis grąžinamas per Lietuvos Respublikos mokesčių administrav
 
 Konsulinio mokesčio grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 5 straipsnis. Įstatymo papildymas priedu
+## 5 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu ir jį išdėstyti taip:
 
@@ -126,7 +126,7 @@ priedas
 
 3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr. 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB.“
 
-\#### 6 straipsnis. Pasiūlymai Vyriausybei
+## 6 straipsnis. Pasiūlymai Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2005 m. birželio 1 d. parengia šį įstatymą įgyvendinančių teisės aktų pakeitimus.
 

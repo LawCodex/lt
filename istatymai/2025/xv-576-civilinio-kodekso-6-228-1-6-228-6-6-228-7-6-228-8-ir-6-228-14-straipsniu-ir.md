@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8f2aa892ce9211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8F2AA892CE92.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-6, 6.228-7, 6.228-8 ir 6.228-14 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ CIVILINIO KODEKSO 6.2281, 6.2286, 6.2287, 6.2288 IR 6.22814 STRAIPSNIŲ IR PRIED
 
 Vilnius
 
-\#### 1 straipsnis. 6.2281 straipsnio pakeitimas
+## 1 straipsnis. 6.2281 straipsnio pakeitimas
 
 1. Papildyti 6.2281 straipsnį 16 dalimi:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „18. Nemokamas naujinys – be užmokesčio prieinamas naujinys, įskaitant saugumo naujinius, kuris būtinas skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų kokybės reikalavimams užtikrinti pagal šio kodekso 6.228^19 ir (ar) 6.363 straipsnius.“
 
-\#### 2 straipsnis. 6.2286 straipsnio pakeitimas
+## 2 straipsnis. 6.2286 straipsnio pakeitimas
 
 Pakeisti 6.228^6straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 6.228^6straipsnio 1 dalį ir ją išdėstyti taip:
 
 14) jeigu šios dalies 13 punktas netaikomas, informacija apie atsarginių dalių, kurių reikia prekės kokybės reikalavimų atitikčiai užtikrinti, prieinamumą, numatomas išlaidas ir šių dalių užsakymo tvarką, taip pat informacija apie taisymo ir techninės priežiūros instrukcijų prieinamumą ir taisymo apribojimus, jeigu gamintojas verslininkui tokią informaciją pateikia.“
 
-\#### 3 straipsnis. 6.2287 straipsnio pakeitimas
+## 3 straipsnis. 6.2287 straipsnio pakeitimas
 
 Pakeisti 6.228^7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 6.228^7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 24) jeigu šios dalies 23 punktas netaikomas, informacija apie atsarginių dalių, kurių reikia prekės kokybės reikalavimų atitikčiai užtikrinti, prieinamumą, numatomas išlaidas ir šių dalių užsakymo tvarką, taip pat informacija apie taisymo ir techninės priežiūros instrukcijų prieinamumą ir taisymo apribojimus, jeigu gamintojas verslininkui tokią informaciją pateikia.“
 
-\#### 4 straipsnis. 6.2288 straipsnio pakeitimas
+## 4 straipsnis. 6.2288 straipsnio pakeitimas
 
 1. Pakeisti 6.2288 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -138,19 +138,19 @@ Pakeisti 6.228^7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.228^7 straipsnio 1 dalies 1, 2, 4, 7 ir 16 punktuose nurodytą informaciją, išskyrus pavyzdinę sutarties atsisakymo formą. Kitą šio kodekso 6.228^7 straipsnio 1 dalyje nurodytą informaciją, įskaitant pavyzdinę sutarties atsisakymo formą, verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.“
 
-\#### 5 straipsnis. 6.22814 straipsnio pakeitimas
+## 5 straipsnis. 6.22814 straipsnio pakeitimas
 
 Papildyti 6.228^14straipsnį 6 dalimi:
 
 „6. Prekės patvarumo garantija – kokybės garantija, pagal kurią gamintojas visą šios garantijos galiojimo laikotarpį yra tiesiogiai atsakingas vartotojui už tai, kad prekė būtų pataisyta ar pakeista pagal šio kodekso 6.364^2 straipsnį, kai neišlaiko savo patvarumo.“
 
-\#### 6 straipsnis. Kodekso priedo pakeitimas
+## 6 straipsnis. Kodekso priedo pakeitimas
 
 Pakeisti Kodekso priedo 4 punktą ir jį išdėstyti taip:
 
 „4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva [2011/83/ES](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011L0083&locale=lt) dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva [93/13/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31993L0013&locale=lt) ir Europos Parlamento ir Tarybos direktyva [1999/44/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31999L0044&locale=lt) bei panaikinamos Tarybos direktyva [85/577/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31985L0577&locale=lt) ir Europos Parlamento ir Tarybos direktyva [97/7/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31997L0007&locale=lt), su paskutiniais pakeitimais, padarytais 2024 m. vasario 28 d. Europos Parlamento ir Tarybos direktyva [(ES) 2024/825](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024L0825&locale=lt).“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. rugsėjo 27 d.
 

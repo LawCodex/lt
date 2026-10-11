@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c3667e30dda111ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C3667E30DDA1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 343, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 343-1 straipsniu įstatymas
@@ -176,5 +176,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1449, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21164
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 343, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 343-1 straipsniu įstatymo Nr. XIV-1091 3 straipsnio pakeitimo įstatymas
-
-part_2698f77c7cb2472880929fb7eec36abf_end

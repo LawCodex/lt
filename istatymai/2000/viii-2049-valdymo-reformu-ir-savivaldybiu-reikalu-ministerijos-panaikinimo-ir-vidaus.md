@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CCC8D6A9B945"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CCC8D6A9B945.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valdymo reformų ir savivaldybių reikalų ministerijos panaikinimo ir Vidaus reikalų ministerijos reorganizavimo įstatymas
@@ -26,11 +26,11 @@ VALDYMO REFORMŲ IR SAVIVALDYBIŲ REIKALŲ MINISTERIJOS PANAIKINIMO IR VIDAUS RE
 
 Vilnius
 
-\#### 1 straipsnis. Valdymo reformų ir savivaldybių reikalų ministerijos panaikinimas ir jos funkcijų, teisių, pareigų bei turto perdavimas
+## 1 straipsnis. Valdymo reformų ir savivaldybių reikalų ministerijos panaikinimas ir jos funkcijų, teisių, pareigų bei turto perdavimas
 
 Panaikinti nuo 2001 m. sausio 1 d. Valdymo reformų ir savivaldybių reikalų ministeriją. Jos funkcijas, teises, pareigas ir turtą perduoti reorganizuojamai Vidaus reikalų ministerijai ir kitoms valstybės institucijoms pagal Vyriausybės patvirtintą šių ministerijų reorganizavimo planą.
 
-\#### 2 straipsnis. Pasiūlymai Vyriausybei
+## 2 straipsnis. Pasiūlymai Vyriausybei
 
 Vyriausybė:
 

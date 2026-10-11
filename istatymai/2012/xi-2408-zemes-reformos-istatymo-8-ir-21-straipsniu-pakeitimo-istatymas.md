@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EEBF56A06A20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EEBF56A06A20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 8 ir 21 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1997, Nr. [69-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE); 2000, Nr. [56-1649](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE90D023124C); 2001, Nr. [71-2524](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A3423ED809B), Nr. [108-3905](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3F03852F140); 2002, Nr. [112-4974](https://www.e-tar.lt/portal/lt/legalAct/TAR.0372FCB845EF); 2004, Nr. [4-41](https://www.e-tar.lt/portal/lt/legalAct/TAR.99A9BFE2011A), Nr. [124-4491](https://www.e-tar.lt/portal/lt/legalAct/TAR.C01DB97E7B8A); 2010, Nr. [72-3618](https://www.e-tar.lt/portal/lt/legalAct/TAR.63FA09C265AB))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Asmenims žemės reformos metu žemė, miškas ir vandens telkiniai (suformuotais žemės sklypais) parduodami laikantis šio įstatymo 10 straipsnyje nurodytos eilės ir pagal žemės reformos žemėtvarkos projektus, kitus teritorijų planavimo dokumentus. Asmenys, pirkdami iš valstybės žemę, išskyrus miškų ūkio paskirties žemę, gali įsigyti ją iš karto arba išsimokėtinai, bet ne per ilgesnį kaip 15 metų laikotarpį Vyriausybės nustatyta tvarka. Asmenys, pirkdami iš valstybės miškų ūkio paskirties žemę, privalo iš karto sumokėti visą žemės kainą. Priverstinė hipoteka išsimokėtinai parduotiems valstybinės žemės sklypams nustatoma Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu Civilinio kodekso nustatyta tvarka. Valstybės paramos įsigyjant žemės ūkio paskirties žemę subjektai gali įsigyti valstybinę žemės ūkio paskirties žemę Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 21 straipsnio 3 dalies antrajame sakinyje išbraukti žodžius „arba vertybiniais popieriais“ ir šią dalį išdėstyti taip:
 

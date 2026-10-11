@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/df2d3a30d33611eba2bad9a0748ee64d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DF2D3A30D336.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvės gynėjo teisinio statuso įstatymas
@@ -64,11 +64,11 @@ Lietuvos Respublikos Aukščiausioji Taryba 1991 m. vasario 28 d. įstatymu „D
 
 priima šį įstatymą.
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas įtvirtina laisvės gynėjo teisinį statusą, apibrėžia laisvės gynėjo kario savanorio, laisvės gynėjo Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriaus pareigūno, laisvės gynėjo Valstybės saugumo departamento pareigūno, laisvės gynėjo Muitinėsdepartamento pareigūno, laisvės gynėjo policijos pareigūno, laisvės gynėjo šaulio sąvoką ir nustato pagrindinius laisvės gynėjo teisinio statuso pripažinimo kriterijus.
 
-\#### 2 straipsnis. Laisvės gynėjas
+## 2 straipsnis. Laisvės gynėjas
 
 1. Laisvės gynėjas – Lietuvos Respublikos pilietis, kuris 1990 m. kovo 11 d. – 1991 m. rugpjūčio 21 d. Sovietų Sąjungos karinės agresijos metu dalyvavo atkuriant Lietuvos valstybingumą ar šalinant grėsmę Lietuvos valstybingumui ir vientisumui, įvairiomis nesmurtinio pasipriešinimo formomis priešinosi agresyviems SSRS ekonominiams ar kariniams veiksmams, saugojo ar gynė valstybės sieną, kitus valstybinės svarbos ir ūkio objektus, kūrė krašto apsaugos struktūras, muitines, specifinėmis priemonėmis padėjo atkurti Lietuvos Respublikos valstybingumą, tarnaudamas Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje, Krašto apsaugos departamente prie Lietuvos Respublikos Vyriausybės ir jo struktūriniuose padaliniuose, Pasienio apsaugos tarnyboje, Savanoriškojoje krašto apsaugos tarnyboje, Valstybės saugumo departamente, Lietuvos Respublikos policijoje, Lietuvos šaulių sąjungoje, ir prisiekė Lietuvos valstybei iki 1991 m. rugpjūčio 21 d., priklausydamas vienai iš šio straipsnio 2 dalyje išvardytų laisvės gynėjų grupių ir šio įstatymo 3–8 straipsniuose numatytais teisiniais pagrindais.
 
@@ -86,7 +86,7 @@ priima šį įstatymą.
 
 6) šauliai.
 
-\#### 3 straipsnis. Laisvės gynėjo kario savanorio teisinio statuso pripažinimas
+## 3 straipsnis. Laisvės gynėjo kario savanorio teisinio statuso pripažinimas
 
 1. Laisvės gynėjo kario savanorio teisinis statusas pripažįstamas:
 
@@ -96,7 +96,7 @@ priima šį įstatymą.
 
 2. Laisvės gynėjo kario savanorio teisinis statusas pripažįstamas asmeniui ir po jo mirties.
 
-\#### 4 straipsnis. Laisvės gynėjo Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriaus pareigūno teisinio statuso pripažinimas
+## 4 straipsnis. Laisvės gynėjo Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriaus pareigūno teisinio statuso pripažinimas
 
 1. Laisvės gynėjo Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriaus pareigūno teisinis statusas pripažįstamas:
 
@@ -106,31 +106,31 @@ priima šį įstatymą.
 
 2. Laisvės gynėjo Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriaus pareigūno teisinis statusas pripažįstamas asmeniui ir po jo mirties.
 
-\#### 5 straipsnis. Laisvės gynėjo Valstybės saugumo departamento pareigūno teisinio statuso pripažinimas
+## 5 straipsnis. Laisvės gynėjo Valstybės saugumo departamento pareigūno teisinio statuso pripažinimas
 
 1. Laisvės gynėjo Valstybės saugumo departamento pareigūno teisinis statusas pripažįstamas asmenims, kurie atitinka šio įstatymo 2 straipsnio 1 dalyje apibrėžiamą laisvės gynėjo sąvoką, prisiekę būti ištikimi Lietuvos Respublikai, tarnavo Lietuvos Respublikos Vyriausybės 1990 m. gegužės 17 d. nutarimu Nr. 155 „Dėl Lietuvos Respublikos Vyriausybės departamentų pagrindinių funkcijų“ įkurtame Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės, įgyvendinant svarbiausią uždavinį – specifinėmis priemonėmis padėti atkurti Lietuvos Respublikos valstybingumą.
 
 2. Laisvės gynėjo Valstybės saugumo departamento pareigūno teisinis statusas pripažįstamas asmeniui ir po jo mirties.
 
-\#### 6 straipsnis. Laisvės gynėjo Muitinės departamento pareigūno teisinio statuso pripažinimas
+## 6 straipsnis. Laisvės gynėjo Muitinės departamento pareigūno teisinio statuso pripažinimas
 
 1. Laisvės gynėjo Muitinės departamento pareigūno teisinis statusas pripažįstamas asmenims, kurie atitinka šio įstatymo 2 straipsnio 1 dalyje apibrėžiamą laisvės gynėjo sąvoką, prisiekę būti ištikimi Lietuvos Respublikai, tarnavo 1990 m. spalio 9 d. Lietuvos Respublikos muitinės laikinojo įstatymo Nr. I-653 pagrindu įkurtuose Lietuvos Respublikos muitinės departamente, muitinėse ir muitinių postuose ir kuriems buvo taikomos karinę tarnybą atliekančio asmens valstybinio draudimo sąlygos.
 
 2. Laisvės gynėjo Muitinės departamento pareigūno teisinis statusas pripažįstamas asmeniui ir po jo mirties.
 
-\#### 7 straipsnis. Laisvės gynėjo policijos pareigūno teisinio statuso pripažinimas
+## 7 straipsnis. Laisvės gynėjo policijos pareigūno teisinio statuso pripažinimas
 
 1. Laisvės gynėjo policijos pareigūno teisinis statusas pripažįstamas asmenims, kurie atitinka šio įstatymo 2 straipsnio 1 dalyje apibrėžiamą laisvės gynėjo sąvoką, prisiekę būti ištikimi Lietuvos Respublikai, tarnavo Lietuvos Respublikos policijoje, kuri, vadovaujantis Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. gruodžio 11 d. nutarimu Nr. I-852 „Dėl Lietuvos Respublikos policijos įstatymo įsigaliojimo“ reorganizavus Lietuvos Respublikos vidaus reikalų ministerijos milicijos struktūras į Lietuvos Respublikos policijos struktūras ir patvirtinus Lietuvos Respublikos policijos įstatymą, priesaikos priėmimo ir priėmimo į Lietuvos Respublikos policiją tvarkos taisykles kaip sudedamąją Tarnybos policijoje statuto, atitinkančio Jungtinių Tautų Generalinės Asamblėjos 1979 m. gruodžio 17 d. rezoliucija patvirtintą Teisėtvarkos apsaugos pareigūnų elgesio kodeksą, dalį ir vadovaujantis Lietuvos Respublikos Vyriausybės 1990 m. gegužės 17 d. nutarimu Nr. 154 „Dėl Lietuvos Respublikos ministerijų pagrindinių funkcijų“, įgyvendino valstybės politiką kovos su nusikalstamumu, viešosios tvarkos ir visuomenės rimties srityje, vykdant kelių eismo saugumo priežiūrą, organizuojant ir vykdant kovą su nusikaltimais ir teisėtvarkos pažeidimais.
 
 2. Laisvės gynėjo policijos pareigūno teisinis statusas pripažįstamas asmeniui ir po jo mirties.
 
-\#### 8 straipsnis. Laisvės gynėjo Lietuvos šaulių sąjungos nario šaulio teisinio statuso pripažinimas
+## 8 straipsnis. Laisvės gynėjo Lietuvos šaulių sąjungos nario šaulio teisinio statuso pripažinimas
 
 1. Laisvės gynėjo Lietuvos šaulių sąjungos nario šaulio teisinis statusas pripažįstamas asmenims, kurie atitinka šio įstatymo 2 straipsnio 2 dalyje apibrėžiamą laisvės gynėjo sąvoką, prisiekę būti ištikimi Lietuvos Respublikai, buvo 1919 m. birželio 27 d. įkurtos Lietuvos šaulių sąjungos ir iki 1940 m. birželio 15 d. veikusios organizacijos bei atkūrus 1990 m. kovo 11 d. Lietuvos valstybės nepriklausomybę tęsiančios veiklą organizacijos nariai, kartu su krašto apsaugos sistemos padaliniais aktyviai dalyvavo ir gynė krašto teritoriją, saugojo valstybės sieną, svarbius valstybinius, ūkio ir kitus civilinius objektus.
 
 2. Laisvės gynėjo Lietuvos šaulių sąjungos nario šaulio teisinis statusas pripažįstamas asmeniui ir po jo mirties.
 
-\#### 9 straipsnis. Laisvės gynėjo teisinio statuso pripažinimo komisija
+## 9 straipsnis. Laisvės gynėjo teisinio statuso pripažinimo komisija
 
 1. Laisvės gynėjo teisinį statusą pripažįsta, pažymėjimus išduoda ir jų apskaitą tvarko Laisvės gynėjo teisinio statuso pripažinimo komisija (toliau – Komisija), sudaryta iš Lietuvos Respublikos krašto apsaugos ministerijos, Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos valstybės saugumo departamento, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnybos, Lietuvos gyventojų genocido ir rezistencijos tyrimo centro ir Lietuvos šaulių sąjungos atstovų. Komisijos narių skaičių, jos kompetenciją, sudarymo ir pirmininko skyrimo, sprendimų priėmimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
@@ -146,7 +146,7 @@ priima šį įstatymą.
 
 7. Laisvės gynėjo teisinis statusas gali būti panaikintas tik teismo sprendimu.
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2021 m. rugpjūčio 21 d.
 

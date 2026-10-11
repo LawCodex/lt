@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1513E88A244C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1513E88A244C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio papildymo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 Nr. 123-5585; 2004, Nr. 25-749, Nr. 60-2118, Nr. 73-2535, Nr. 158-5757, Nr. 167-6108; 2005, Nr. 76-2744, Nr. 81-2943, Nr. 153-5634; 2006, Nr. 41-1462, Nr. 48-1702, Nr. 50-1801)
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies papildymas 52 punktu
+## 1 straipsnis. 17 straipsnio 1 dalies papildymas 52 punktu
 
 Papildyti 17 straipsnio 1 dalį 52 punktu:
 
 „52) apyvartai proporcingos išmokos, mokamos vieneto (kooperatinės bendrovės (kooperatyvo) dalyviams (nariams) iš šio vieneto pelno, jei mokestinio laikotarpio, už kurį mokamos tos išmokos, pabaigoje daugiau kaip 70 procentų šio vieneto narių, įrašytų į jo narių registrą, buvo fiziniai asmenys ir (ar) kiti vienetai, kurių pajamų iš žemės ūkio veiklos dalis sudarė 50 ir daugiau procentų visų pajamų, o jų pajų vertė – daugiau kaip 70 procentų visų šio vieneto narių pajų vertės.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2007 m. ir vėlesnių metų pajamas.
 

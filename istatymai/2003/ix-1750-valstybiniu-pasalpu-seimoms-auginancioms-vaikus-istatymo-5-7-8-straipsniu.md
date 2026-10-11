@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.97205ACB4F37"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.97205ACB4F37.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 5, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 1998, Nr. [35-934](https://www.e-tar.lt/portal/lt/legalAct/TAR.B97537087EDC), Nr. [115-3240](https://www.e-tar.lt/portal/lt/legalAct/TAR.62F5567CB5FC); 2002, Nr. [53-2044](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CD8A1102F78))
 
-\#### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
+## 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „Kai šio straipsnio pirmojoje ar antrojoje dalyse nurodytas asmuo įstatymų nustatyta tvarka gauna našlaičių pensiją ir (arba) alimentus, vaiko globos (rūpybos) pašalpos dydis yra lygus skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto vaiko globos (rūpybos) pašalpos dydžio ir gaunamos našlaičių pensijos bei (arba) gaunamų alimentų dydžio.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 7 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Nedirbantiems asmenims, kuriems iki pilnametystės, emancipacijos ar santuokos s
 
 Šio straipsnio pirmojoje dalyje nurodytiems asmenims, įstatymų nustatyta tvarka gaunantiems našlaičių pensiją, našlaičio stipendijos dydis yra lygus skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto našlaičio stipendijos dydžio ir gaunamos našlaičių pensijos dydžio.“
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 8 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti ir papildyti 8 straipsnį ir jį išdėstyti taip:
 
 Asmenims, kuriems buvo nustatyta vaiko globa (rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo, skiriama vienkartinė 50 MGL dydžio pašalpa gyvenamajam namui, butui (gyvenamajai patalpai) įsigyti arba įsikurti. Dėl šios pašalpos asmenys gali kreiptis, iki jiems sukanka 25 metai, jeigu jie nėra toliau išlaikomi (nakvynė ir maistas) valstybės ar savivaldybės finansuojamose įstaigose.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

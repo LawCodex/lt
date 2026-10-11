@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/41c6f620629811e99676cb74c51fe1f4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.41C6F6206298.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas

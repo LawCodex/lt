@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4AD93DDDD51A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4AD93DDDD51A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 2000, Nr. [58-1710](https://www.e-tar.lt/portal/lt/legalAct/TAR.BDC4B579ACEC); 2003, Nr. [42-1922](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6DEB099CF05); 2004, Nr. [39-1270](https://www.e-tar.lt/portal/lt/legalAct/TAR.532A15EA12B5); 2008, Nr. [149-6045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5B1D0ACD2C8F); 2009, Nr. [141-6203](https://www.e-tar.lt/portal/lt/legalAct/TAR.13433551DC4A))
 
-\#### 1 straipsnis. Įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimas
+## 1 straipsnis. Įstatymo priedėlio III dalies 14 skyriaus antrojo skirsnio pakeitimas
 
 Pakeisti Įstatymo priedėlio III dalies 14 skyriaus antrąjį skirsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Krizių prevenciją ir pasirengimą jas valdyti koordinuoja Vyriausybės kanceli
 
 Krizių valdymą reglamentuoja įstatymai ir kiti teisės aktai.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. gegužės 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1FA9669A28A2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1FA9669A28A2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 45 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 1992, Nr. [13-350](https://www.e-tar.lt/portal/lt/legalAct/TAR.7FACF934B613); 1994, Nr. [39-702](https://www.e-tar.lt/portal/lt/legalAct/TAR.F88F05066479), Nr.[88-1666](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A4AF83FE50D), Nr. [96-1874](https://www.e-tar.lt/portal/lt/legalAct/TAR.9DE7514DA6E8); 1995, Nr. [36-889](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D3516019CC8), Nr. [59-1481](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51C1018DDC3), Nr. [89-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.54DAE0F876A2); 1996, Nr. [53-1250](https://www.e-tar.lt/portal/lt/legalAct/TAR.18280923D118))
 
-\#### 1 straipsnis. 45 straipsnio antrosios, trečiosios ir ketvirtosios dalių pakeitimas ir papildymas
+## 1 straipsnis. 45 straipsnio antrosios, trečiosios ir ketvirtosios dalių pakeitimas ir papildymas
 
 Pakeisti ir papildyti 45 straipsnio antrąją, trečiąją ir ketvirtąją dalis ir jas išdėstyti taip:
 

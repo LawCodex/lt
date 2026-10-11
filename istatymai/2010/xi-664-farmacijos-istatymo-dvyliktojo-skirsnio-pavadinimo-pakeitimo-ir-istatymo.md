@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2FC72C4180BE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2FC72C4180BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos farmacijos įstatymo dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 59-1 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2006, Nr. [78-3056](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD))
 
-\#### 1 straipsnis. Įstatymo dvyliktojo skirsnio pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo dvyliktojo skirsnio pavadinimo pakeitimas
 
 Pakeisti Įstatymo dvyliktojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ VAISTINIŲ PREPARATŲ IR MEDICINOS PAGALBOS
 
 PRIEMONIŲ KAINODARA“.
 
-\#### 2 straipsnis. Įstatymo papildymas 591 straipsniu
+## 2 straipsnis. Įstatymo papildymas 591 straipsniu
 
 Papildyti Įstatymą 59^1 straipsniu:
 
@@ -52,7 +52,7 @@ Papildyti Įstatymą 59^1 straipsniu:
 
 6. Nekompensuojamosios medicinos pagalbos priemonės parduodamos rinkos kaina.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. balandžio 1 d.
 

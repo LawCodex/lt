@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.67A180F4961C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.67A180F4961C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 32 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 1999, Nr. [56-1809](https://www.e-tar.lt/portal/lt/legalAct/TAR.1528F405144D), Nr. [86-2565](https://www.e-tar.lt/portal/lt/legalAct/TAR.61AF95F68878); 2000, Nr. [7-177](https://www.e-tar.lt/portal/lt/legalAct/TAR.9848B97B719C))
 
-\#### 1 straipsnis. 32 straipsnio 2 ir 3 dalių papildymas
+## 1 straipsnis. 32 straipsnio 2 ir 3 dalių papildymas
 
 1. Papildyti 32 straipsnio 2 dalį 8 punktu:
 

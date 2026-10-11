@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8FE41B704664"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8FE41B704664.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 5, 32, 34 ir 35 straipsnių pakeitimo įstatymas
@@ -24,11 +24,11 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 2004, Nr. [21-617](https://www.e-tar.lt/portal/lt/legalAct/TAR.1C65A214E386); 2006, Nr. [66-2429](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C32BA5677B5))
 
-\#### 1 straipsnis. 5 straipsnio 5 dalies 3 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 5 straipsnio 5 dalies 3 punkto pripažinimas netekusiu galios
 
 5 straipsnio 5 dalies 3 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 32 straipsnio pakeitimas
+## 2 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 4 dalyje nurodyti asmenys, nesutikdami su Vyriausybės ar Aplinkos ministerijos įgaliotos institucijos sprendimu, turi teisę dėl viešojo intereso gynimo kreiptis į teismą.“
 
-\#### 3 straipsnis. 34 straipsnio 1, 2 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 3 straipsnis. 34 straipsnio 1, 2 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,11 +56,11 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
 3. 34 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 35 straipsnio 5 punkto pripažinimas netekusiu galios
+## 4 straipsnis. 35 straipsnio 5 punkto pripažinimas netekusiu galios
 
 35 straipsnio 5 punktą pripažinti netekusiu galios.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/64e8d6f09a5611eea5a28c81c82193a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.64E8D6F09A56.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos dėl Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 8 ir 16 straipsnių pakeitimo įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.610AFB0427D6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.610AFB0427D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 31, 61 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo, 73, 74, 75 straipsnių pripažinimo netekusiais galios ir kodekso papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [105-2393](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F); 2000, Nr. [75-2267](https://www.e-tar.lt/portal/lt/legalAct/TAR.6E0FCC1A8975), Nr. [85-2585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AF91E2599F0))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. 1 straipsnio 1 dalyje išbraukti žodžius „bei draudimo“ ir šią dalį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „3. Kodekso nuostatos suderintos su šio kodekso priede pateiktais Europos Sąjungos teisės aktais.“
 
-\#### 2 straipsnis. 6 straipsnio 2 dalies papildymas
+## 2 straipsnis. 6 straipsnio 2 dalies papildymas
 
 6 straipsnio 2 dalyje po žodžio „ministerija“ įrašyti žodžius „suderinusi su Aplinkos ministerija“ ir šią dalį išdėstyti taip:
 
 „2. Vidaus vandenų keliai skirstomi į valstybinės ir vietinės reikšmės. Valstybinės reikšmės vidaus vandenų kelių sąrašą tvirtina Vyriausybė, o vietinės reikšmės ir perspektyvinių vidaus vandenų kelių sąrašus – Susisiekimo ministerija, suderinusi su Aplinkos ministerija.“
 
-\#### 3 straipsnis. 13 straipsnio papildymas ir pakeitimas
+## 3 straipsnis. 13 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 13 straipsnį nauja 3 dalimi:
 
@@ -58,13 +58,13 @@ Vilnius
 
 „5. Vidaus vandenų uostai gali būti valstybės, savivaldybių ir privatūs. Valstybės vidaus vandenų uostų teritorijos ir akvatorijos ribas nustato Vyriausybė Susisiekimo ministerijos teikimu; savivaldybės vidaus vandenų uostų teritorijos ir akvatorijos ribas – savivaldybės taryba, suderinusi su apskrities viršininku; privačių vidaus vandenų uostų teritorijos ir akvatorijos ribas – steigėjas, suderinęs su apskrities viršininku ir savivaldybe. Vidaus vandenų uostus steigiant saugomose teritorijose, uostų teritorijos ir akvatorijos ribos turi būti suderintos su saugomos teritorijos administracija.“
 
-\#### 4 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vidaus vandenų laivas – bet kokio tipo savaeigis ar nesavaeigis plaukiojantis statinys, kuris yra arba gali būti naudojamas laivybai vidaus vandenyse.“
 
-\#### 5 straipsnis. 16 straipsnio 2 dalies 4 punkto pakeitimas, 2 dalies papildymas 5 punktu ir 3 dalies pakeitimas
+## 5 straipsnis. 16 straipsnio 2 dalies 4 punkto pakeitimas, 2 dalies papildymas 5 punktu ir 3 dalies pakeitimas
 
 1. 16 straipsnio 2 dalies 4 punkte po žodžio „kanojos“ įrašyti žodžius „irklinės ir“ ir šį punktą išdėstyti taip:
 
@@ -78,13 +78,13 @@ Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Lietuvos Respublikos vidaus vandenų laivų registre įregistruoto laivo valdytojui išduodamas laivo bilietas, laivo tinkamumo plaukioti liudijimas, leidimas plaukioti su Lietuvos valstybės vėliava ir laivo įgulos minimalios sudėties liudijimas.“
 
-\#### 6 straipsnis. 31 straipsnio 1 dalies papildymas
+## 6 straipsnis. 31 straipsnio 1 dalies papildymas
 
 31 straipsnio 1 dalyje po žodžio „įmonės“ įrašyti žodžius „įsteigtos Lietuvos Respublikoje ir“, po žodžio „vežimu“ įrašyti žodžius „taip pat įmonės, įsteigtos bet kurioje Europos Sąjungos ar Pasaulio prekybos organizacijos valstybėje narėje pagal šios valstybės narės įstatymus ir turinčios šios valstybės narės kompetentingų institucijų išduotą dokumentą, suteikiantį teisę vežti keleivius laivais tarptautiniais maršrutais“ ir visą dalį išdėstyti taip:
 
 „1. Vežti keleivius vidaus vandenų keliais turi teisę įmonės, įsteigtos Lietuvos Respublikoje ir turinčios licenciją (leidimą) verstis keleivių vežimu, taip pat įmonės, įsteigtos bet kurioje Europos Sąjungos ar Pasaulio prekybos organizacijos valstybėje narėje pagal šios valstybės narės įstatymus ir turinčios šios valstybės narės kompetentingų institucijų išduotą dokumentą, suteikiantį teisę vežti keleivius laivais tarptautiniais maršrutais.“
 
-\#### 7 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
+## 7 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
 
 Dešimtojo skirsnio pavadinime išbraukti žodžius „ir draudimas“ ir šio skirsnio pavadinimą išdėstyti taip:
 
@@ -92,7 +92,7 @@ Dešimtojo skirsnio pavadinime išbraukti žodžius „ir draudimas“ ir šio s
 
 **ATSAKOMYBĖ**“.
 
-\#### 8 straipsnis. 61 straipsnio pakeitimas
+## 8 straipsnis. 61 straipsnio pakeitimas
 
 Pakeisti 61 straipsnį ir jį išdėstyti taip:
 
@@ -100,19 +100,19 @@ Pakeisti 61 straipsnį ir jį išdėstyti taip:
 
 Žala, atsiradusi dėl laivo įgulos nario sveikatos sužalojimo ar gyvybės atėmimo, atlyginama įstatymų nustatyta tvarka.“
 
-\#### 9 straipsnis. 73 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 73 straipsnio pripažinimas netekusiu galios
 
 73 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. 74 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 74 straipsnio pripažinimas netekusiu galios
 
 74 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. 75 straipsnio pripažinimas netekusiu galios
+## 11 straipsnis. 75 straipsnio pripažinimas netekusiu galios
 
 75 straipsnį pripažinti netekusiu galios.
 
-\#### 12 straipsnis. Kodekso papildymas priedu
+## 12 straipsnis. Kodekso papildymas priedu
 
 Papildyti Kodeksą priedu:
 

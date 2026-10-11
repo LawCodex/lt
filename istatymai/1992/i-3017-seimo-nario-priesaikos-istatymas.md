@@ -11,7 +11,7 @@ status: in_force
 issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.82B3923041D2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.82B3923041D2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Seimo nario priesaikos įstatymas
@@ -26,11 +26,11 @@ SEIMO NARIO PRIESAIKOS
 
 Vilnius
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Pagal Lietuvos Respublikos Konstitucijos 59 straipsnį Seimo narys prisiekia būti ištikimas Lietuvos Respublikai.
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos“ nustatytas toks Seimo nario priesaikos tekstas:
 
@@ -46,27 +46,27 @@ Tepadeda man Dievas!“
 
 Prisiekti leidžiama ir be paskutiniojo sakinio.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Seimo nariai prisiekia Lietuvos Respublikos Seimo posėdžių salėje.
 
 Seimo nario priesaiką priima Lietuvos Konstitucinio Teismo pirmininkas, o jeigu jo nėra – Lietuvos Aukščiausiojo Teismo pirmininkas.
 
-\#### 4 straipsnis
+## 4 straipsnis
 
 Seimo narys prisiekia, stovėdamas priešais priimantį priesaiką asmenį, skaitydamas priesaikos tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos.
 
 Baigęs skaityti priesaikos tekstą, Seimo narys pasirašo vardinį priesaikos lapą.
 
-\#### 5 straipsnis
+## 5 straipsnis
 
 Priesaikos tekstas netaisomas ir nekeičiamas. Šios nuostatos nesilaikymas, kaip ir atsisakymas pasirašyti vardinį priesaikos lapą arba pasirašymas su išlyga reiškia, kad Seimo narys neprisiekė. Tokiais atvejais pagal Lietuvos Respublikos Konstitucijos 59 straipsnį Seimo narys netenka Seimo nario mandato.
 
-\#### 6 straipsnis
+## 6 straipsnis
 
 Vardiniai priesaikos lapai perduodami valstybės pareigūnui, kuris priiminėjo priesaiką. Patikrinęs vardinius priesaikos lapus, šis valstybės pareigūnas perskaito sąrašą tų Seimo narių, kurie įgijo visas Tautos atstovo teises.
 
-\#### 7 straipsnis
+## 7 straipsnis
 
 Šis įstatymas įsigalioja kartu su Lietuvos Respublikos Konstitucija.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AB211091584F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AB211091584F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E); 2005, Nr. [28-875](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6EF4B6F3E3A); 2006, Nr. [72-2679](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13009B46413))
 
-\#### 1 straipsnis. 68 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 68 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 68 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 4. Buvusią 8 dalį laikyti 9 dalimi.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja 2008 m. sausio 1 d.
 
@@ -52,7 +52,7 @@ Vilnius
 
 3. Profesinės karo tarnybos kariams, esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems išmokos mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
 
-\#### 3 straipsnis. Pasiūlymai Vyriausybei
+## 3 straipsnis. Pasiūlymai Vyriausybei
 
 Pasiūlyti Vyriausybei parengti ir iki 2009 m. sausio 1 d. patvirtinti vidutinio darbo užmokesčio (vidutinio atlyginimo) apskaičiavimo tvarką reglamentuojančių teisės aktų pakeitimus – nustatyti, kad nuo 2009 m. sausio 1 d. vidutinis darbo užmokestis (vidutinis atlyginimas), mokamas pareigūnams (profesinės karo tarnybos kariams) nėštumo ir gimdymo atostogų laikotarpiu bei vaiko priežiūros atostogų laikotarpiu, būtų apskaičiuojamas iš šešių paeiliui einančių mėnesių, buvusių prieš nėštumo ir gimdymo bei vaiko priežiūros atostogų suteikimo mėnesį.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.32913702641E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.32913702641E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210); 1999, Nr. [66-2117](https://www.e-tar.lt/portal/lt/legalAct/TAR.513EC0FDEEE4), Nr. [113-3293](https://www.e-tar.lt/portal/lt/legalAct/TAR.9861C6727E54))
 
-\#### 1 straipsnis. 2 straipsnio 2, 3, 10 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 2, 3, 10 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „10. **Valstybės garantija už garantijų institucijos arba draudimo įmonės įsipareigojimus pagal garantijas ar draudimo sutartis –**Lietuvos Respublikos turtinis įsipareigojimas įvykdyti garantijų institucijos arba draudimo įmonės, už kurios įsipareigojimų pagal garantijas ar draudimo sutartis įvykdymą garantuoja valstybė, įsipareigojimusbankams, jeigu garantijos institucija arba draudimo įmonė neįvykdo arba įvykdo ne visus garantijose ar draudimo sutartyse numatytus įsipareigojimus.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -130,13 +130,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 7) prisiimti naujų turtinių įsipareigojimų pagal paskolos sutartis ar kitus įsipareigojamuosius skolos dokumentus.“
 
-\#### 3 straipsnis. 4 straipsnio 2 punkto pakeitimas
+## 3 straipsnis. 4 straipsnio 2 punkto pakeitimas
 
 Iš 4 straipsnio 2 punkto išbraukti žodžius „ir įmonių apyvartinėms lėšoms papildyti“ ir šį punktą išdėstyti taip:
 
 „2) valstybės investicijoms finansuoti;“.
 
-\#### 4 straipsnis. 5 straipsnio 3 ir 4 dalių pakeitimas, 5 ir 7 dalių pripažinimas netekusiomis galios
+## 4 straipsnis. 5 straipsnio 3 ir 4 dalių pakeitimas, 5 ir 7 dalių pripažinimas netekusiomis galios
 
 1. Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -148,7 +148,7 @@ Iš 4 straipsnio 2 punkto išbraukti žodžius „ir įmonių apyvartinėms lė�
 
 3. 5 straipsnio 5 ir 7 dalis pripažinti netekusiomis galios, o 6 dalį laikyti 5 dalimi.
 
-\#### 5 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas
+## 5 straipsnis. 6 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -158,7 +158,7 @@ Iš 4 straipsnio 2 punkto išbraukti žodžius „ir įmonių apyvartinėms lė�
 
 „2. Lietuvos Respublikos Vyriausybės vertybiniai popieriai, išleidžiami vidaus valiuta,yra įtraukiami į vertybinių popierių apskaitą. Vertybinių popierių apskaita tvarkoma Lietuvos Respublikos įstatymų, kitų teisės aktų ir akcinės bendrovės Lietuvos centrinio vertybinių popierių depozitoriumonustatyta tvarka arba pagal reikalavimus, nustatytus atsiskaitymams už vertybinius popierius per tarptautines atsiskaitymų sistemas.“
 
-\#### 6 straipsnis. 7 straipsnio 3 dalies pakeitimas, 4 ir 5 dalių pripažinimas netekusiomis galios
+## 6 straipsnis. 7 straipsnio 3 dalies pakeitimas, 4 ir 5 dalių pripažinimas netekusiomis galios
 
 1. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -166,7 +166,7 @@ Iš 4 straipsnio 2 punkto išbraukti žodžius „ir įmonių apyvartinėms lė�
 
 2. 7 straipsnio 4 ir 5 dalis pripažinti netekusiomis galios.
 
-\#### 7 straipsnis. 8 straipsnio 2 ir 3 dalių pakeitimas
+## 7 straipsnis. 8 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -176,7 +176,7 @@ Iš 4 straipsnio 2 punkto išbraukti žodžius „ir įmonių apyvartinėms lė�
 
 „3. Garantijų institucijos arba draudimo įmonės garantijas ar draudimo sutartis Lietuvos Respublikos Vyriausybės nustatyta tvarka pasirašo garantijų institucijos arba draudimo įmonės vadovas. Lietuvos Respublikos Vyriausybės įsteigtų garantijų institucijų ar draudimo įmonių įsipareigojimai bankams pagal garantijas ar draudimo sutartis prilyginami valstybės garantijai.“
 
-\#### 8 straipsnis. 9 straipsnio pakeitimas
+## 8 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 4. Skolininkas arba skolininkas, už kurio įsipareigojimų įvykdymą garantuoja valstybė, privalo pateikti Finansų ministerijai arba akcinei bendrovei Turto bankui, kai ši bendrovė administruoja Finansų ministerijos perduotas paskolas ir kitus turtinius įsipareigojimus, audito įmonėms, kontrolės institucijoms ir įstaigoms jų reikalaujamus dokumentus jų nustatytais terminais, išskyrus dokumentus, kurių pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 9 straipsnis. 10 straipsnio pakeitimas
+## 9 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 6. Skolininkas arba skolininkas, už kurio įsipareigojimų įvykdymą garantuoja valstybė, laiku nepateikę Finansų ministerijai arba akcinei bendrovei Turto bankui, kai ši bendrovė administruoja Finansų ministerijos perduotas paskolas ir kitus turtinius įsipareigojimus, reikalingų dokumentų (paskolų su valstybės garantija panaudojimo ir grąžinimo ataskaitos Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, taip pat ūkinės ir finansinės veiklos ataskaitos arba kitų su ūkine veikla susijusių dokumentų), suteikę neteisingą informaciją ar be leidimo atlikę veiksmus, kuriems pagal šio įstatymo 3 straipsnio 15 dalį reikalingas Finansų ministerijos ar akcinės bendrovės Turto banko leidimas, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.“
 
-\#### 10 straipsnis. Įstatymo papildymas 101 straipsniu
+## 10 straipsnis. Įstatymo papildymas 101 straipsniu
 
 Papildyti Įstatymą 10^1 straipsniu:
 
@@ -238,13 +238,13 @@ Papildyti Įstatymą 10^1 straipsniu:
 
 5. Paskolų arba skolų, pripažintų beviltiškomis, nurašymo, apskaitos, taip pat revizavimo tvarką ir išieškojimo išlaidų apskaičiavimo metodiką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
 
-\#### 11 straipsnis. 11 straipsnio 1 dalies papildymas
+## 11 straipsnis. 11 straipsnio 1 dalies papildymas
 
 Papildyti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Lietuvos Respublikos Vyriausybė, pasibaigus biudžetiniams metams, kartu su valstybės biudžeto įvykdymo apyskaita privalo pateikti Seimui valstybės skolos ataskaitą. Ataskaitos formą, atitinkančią šio įstatymo ir Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nuostatas, nustato finansų ministras.“
 
-\#### 12 straipsnis. Įstatymo papildymas 12 straipsniu
+## 12 straipsnis. Įstatymo papildymas 12 straipsniu
 
 Papildyti Įstatymą 12 straipsniu:
 

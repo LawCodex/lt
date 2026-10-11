@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.797DA59D50C9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.797DA59D50C9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 1, 6, 7, 8 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 **(**Žin., 2000, Nr. [92-2883](https://www.e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB); 2002, Nr. [123-5543](https://www.e-tar.lt/portal/lt/legalAct/TAR.C4D9EA53EF60); 2003, Nr. [38-1715](https://www.e-tar.lt/portal/lt/legalAct/TAR.E97AA5728BE4), Nr. [70-3166](https://www.e-tar.lt/portal/lt/legalAct/TAR.067C4A318AEB))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies papildymas
+## 1 straipsnis. 1 straipsnio 1 dalies papildymas
 
 1 straipsnio 1 dalyje po žodžio „policijos“ įrašyti žodį „muitinės“ ir šią dalį išdėstyti taip:
 
 „1. Šis įstatymas nustato saugaus eismo automobilių keliais Lietuvos Respublikoje teisinius pagrindus, valstybės institucijų pareigas įgyvendinant saugaus eismo politiką, pagrindines eismo dalyvių, kelių priežiūros institucijų, policijos, muitinės pareigūnų teises ir pareigas, taip pat pagrindinius su transporto priemonių technine būkle, techninės būklės tikrinimu, transporto priemonių registravimu susijusius reikalavimus, siekiant apsaugoti eismo dalyvių bei kitų asmenų gyvybę, sveikatą ir turtą, gerinti transporto ir pėsčiųjų eismo sąlygas, taip pat mažinti neigiamą motorinių transporto priemonių poveikį aplinkai.“
 
-\#### 2 straipsnis. 6 straipsnio papildymas
+## 2 straipsnis. 6 straipsnio papildymas
 
 Papildyti 6 straipsnį 5 dalimi:
 
@@ -46,7 +46,7 @@ Papildyti 6 straipsnį 5 dalimi:
 
 3) esant tarnybiniam būtinumui, pasiųsti transporto priemonę detaliam jos ir krovinio patikrinimui į tam pritaikytą vietą.“
 
-\#### 3 straipsnis. 7 straipsnio 1, 7, 9, 10 dalių papildymas
+## 3 straipsnis. 7 straipsnio 1, 7, 9, 10 dalių papildymas
 
 1. 7 straipsnio 1 dalyje po žodžio „policijos“ įrašyti žodį „muitinės“ ir šią dalį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Papildyti 6 straipsnį 5 dalimi:
 
 „10. Transporto priemonių vairuotojai privalo vykdyti Policijos įstatyme, šiame įstatyme, kituose Lietuvos Respublikos įstatymuose numatytus teisėtus policijos ar muitinės pareigūnų nurodymus, laikytis Kelių eismo taisyklėse nustatytos elgesio tvarkos, kai policijos ar muitinės pareigūnas sustabdo.“
 
-\#### 4 straipsnis. 8 straipsnio 3 dalies 1 punkto papildymas
+## 4 straipsnis. 8 straipsnio 3 dalies 1 punkto papildymas
 
 8 straipsnio 3 dalies 1 punkte po žodžio „policijos“ įrašyti žodžius „muitinės“ ir šį punktą išdėstyti taip:
 
 „1) laikytis Kelių eismo taisyklių, vykdyti policijos, muitinės ir reguliuotojų nurodymus dėl eismo tvarkos;“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

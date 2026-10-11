@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4CFF86643370"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4CFF86643370.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2001, Nr. 103-3656; 2002, Nr. 38-1360; 2003, Nr. 38-1670)
 
-\#### 1 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas ir 2 dalies papildymas
+## 1 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas ir 2 dalies papildymas
 
 1. 5 straipsnio 1 dalies 3 punkte išbraukti žodžius „specialių ženklų“, vietoj žodžio „elementų“ įrašyti žodį „priemonių“ ir šį punktą išdėstyti taip:
 

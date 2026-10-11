@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0CCCA9F0A188"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0CCCA9F0A188.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 2, 3, 5, 6, 8, 9, 10, 11 straipsnių ir Įstatymo 1, 2 priedų pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [82-1965](https://www.e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E); 2005, Nr. 84-3105)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 3. Buvusias 2 straipsnio 9 ir 10 dalis laikyti atitinkamai 10 ir 11 dalimis.
 
-\#### 2 straipsnis. 3 straipsnio 5 dalies 2 ir 4 punktų pakeitimas
+## 2 straipsnis. 3 straipsnio 5 dalies 2 ir 4 punktų pakeitimas
 
 1. 3 straipsnio 5 dalies 2 punkte po žodžio „rengimas“ įrašyti žodžius „pranešimas visuomenei apie parengtą programą“ ir šį punktą išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „4) sprendimo priėmimas ir poveikio aplinkai vertinimo proceso dalyvių informavimas apie priimtą sprendimą.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas
 
 1. 5 straipsnio 1 dalies 2 punkte vietoj žodžių „ūkio plėtrą ir žemės ūkio plėtrą“ įrašyti žodžius „ir apskričių“, vietoj žodžio „ir“ įrašyti žodį „bei“ ir šį punktą išdėstyti taip:
 
@@ -56,13 +56,13 @@ Vilnius
 
 „2. Poveikio aplinkai vertinimo subjektai gali būti ir kitos šio straipsnio 1 dalies 2 punkte nenurodytos valstybės institucijos, jei jas pakviečia dalyvauti atsakinga institucija ar jos pačios suinteresuotos dalyvauti poveikio aplinkai vertinimo procese ir atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos pobūdį, mastą ar vietos ypatumus, tam pritaria. Tokiais atvejais atsakinga institucija raštu praneša visiems poveikio aplinkai vertinimo subjektams bei planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui, kokios kitos valstybės institucijos dalyvauja poveikio aplinkai vertinimo procese.“
 
-\#### 4 straipsnis. 6 straipsnio 1 dalies 2 punkto pakeitimas
+## 4 straipsnis. 6 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 6 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) atlieka atranką, nagrinėja ir tvirtina programas, nagrinėja suinteresuotos visuomenės pasiūlymų įvertinimą, motyvuotus suinteresuotos visuomenės pasiūlymus, ataskaitas, poveikio aplinkai vertinimo subjektų išvadas dėl programų, ataskaitų bei planuojamos ūkinės veiklos galimybių ir priima sprendimą;“.
 
-\#### 5 straipsnis. 8 straipsnio 5, 6, 9, 12 dalių pakeitimas ir straipsnio papildymas 13 dalimi
+## 5 straipsnis. 8 straipsnio 5, 6, 9, 12 dalių pakeitimas ir straipsnio papildymas 13 dalimi
 
 1. Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 6 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „13. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal Jungtinių Tautų Organizacijos 1991 m. Konvenciją dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste (toliau – Konvencija), atsakinga institucija tvirtina programą, gavusi galinčios patirti neigiamą poveikį aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio valstybės, kuri yra prisijungusi prie Konvencijos, (toliau – užsienio valstybė) atsakymą apie ketinimą dalyvauti tarpvalstybinio poveikio aplinkai vertinimo procese. Programa tvirtinama ir tuo atveju, kai pagal šio įstatymo 11 straipsnio 2 dalį negaunamas atsakymas iš Europos Sąjungos valstybės narės ar pagal Konvencijos reikalavimus iš užsienio valstybės.“
 
-\#### 6 straipsnis. 9 straipsnio 1 ir 6 dalių pakeitimas
+## 6 straipsnis. 9 straipsnio 1 ir 6 dalių pakeitimas
 
 1. 9 straipsnio 1 dalies antrame sakinyje vietoj žodžių „ir priemones joms išvengti bei“ įrašyti žodžius „priemones joms išvengti ar sušvelninti ir“, žodžius „(jei tokia buvo vykdyta)“ išbraukti, po žodžio „metmenys“ įrašyti žodžius „informacija apie galimą reikšmingą neigiamą poveikį kitos Europos Sąjungos valstybės narės ir (ar) užsienio valstybės aplinkai“ ir šią dalį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 6 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „6. Poveikio aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir planuojamos ūkinės veiklos galimybių bei argumentuotą suinteresuotos visuomenės pasiūlymų įvertinimą. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal Konvenciją, poveikio aplinkai vertinimo dokumentų rengėjas pateikia ir argumentuotą galinčios patirti neigiamą poveikį aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio valstybės pasiūlymų įvertinimą.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 8. Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas) Aplinkos ministerijos nustatyta tvarka praneša visuomenei apie sprendimą ir suteikia galimybę su juo susipažinti. Kai planuojamai ūkinei veiklai buvo atliktos tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal Konvenciją, atsakinga institucija informaciją apie sprendimą pateikia ir galinčiai patirti neigiamą poveikį aplinkai Europos Sąjungos valstybei narei ir (ar) užsienio valstybei.“
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 5. Kai Lietuvos Respublikos teritorijoje planuojama ūkinė veikla gali turėti reikšmingą neigiamą poveikį užsienio valstybei arba kai tokia užsienio valstybė reikalauja, poveikio aplinkai vertinimas atliekamas vadovaujantis Konvencija, tarptautinėmis sutartimis, kurias Lietuvos Respublika ir atitinkama užsienio valstybė yra sudariusi.“
 
-\#### 9 straipsnis. Įstatymo 1 priedo pakeitimas
+## 9 straipsnis. Įstatymo 1 priedo pakeitimas
 
 1. Pakeisti Įstatymo 1 priedo 9.6 punktą ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „9.7. Nepavojingų atliekų naudojimas energijai gauti ar šalinimas jas deginant ar apdorojant cheminiu būdu, kaip nurodyta Atliekų tvarkymo įstatymo 3 priede (D9 būdas) (kai numatoma naudoti ar šalinti 100 ir daugiau tonų per parą atliekų);“.
 
-\#### 10 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
+## 10 straipsnis. Įstatymo 2 priedo pakeitimas ir papildymas
 
 1. Pakeisti Įstatymo 2 priedo 11.2 punktą ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 11.20.2. pavojingų atliekų naudojimą Atliekų tvarkymo įstatymo 2 priede nurodytu R13 būdu, kai vienu metu saugoma ne daugiau kaip 10 tonų atliekų.“
 
-\#### 11 straipsnis. Įstatymo taikymas
+## 11 straipsnis. Įstatymo taikymas
 
 Poveikio aplinkai vertinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos pagal tuo metu galiojusias teisės normas.
 

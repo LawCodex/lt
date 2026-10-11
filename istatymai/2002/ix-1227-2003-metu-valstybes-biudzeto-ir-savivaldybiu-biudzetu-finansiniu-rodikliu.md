@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BCA0F623B8BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BCA0F623B8BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
@@ -6966,11 +6966,11 @@ Aušrinė Trapinskienė (2003-07-14)
 
 autrap@lrs.lt
 
-\* Iš šių lėšų 12000 tūkst. litų
+* Iš šių lėšų 12000 tūkst. litų
 
 skirti bendroms biudžeto reikmėms.
 
-\* Iš šių lėšų 25600 tūkst. Lt
+* Iš šių lėšų 25600 tūkst. Lt
 
 skirti bendroms biudžeto reikmėms.
 
@@ -6978,6 +6978,6 @@ skirti bendroms biudžeto reikmėms.
 
 skirti bendroms biudžeto reikmėms.
 
-\* Iš jų 35000 tūkst. litų naudojama pagal atskirą Vyriausybės
+* Iš jų 35000 tūkst. litų naudojama pagal atskirą Vyriausybės
 
 sprendimą.

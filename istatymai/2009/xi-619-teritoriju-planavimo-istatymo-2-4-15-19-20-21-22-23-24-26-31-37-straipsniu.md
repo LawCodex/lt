@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B9BA9457080D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B9BA9457080D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 15, 19, 20, 21, 22, 23, 24, 26, 31, 37 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [107-2391](https://www.e-tar.lt/portal/lt/legalAct/TAR.26B563184529); 2004, Nr. [21-617](https://www.e-tar.lt/portal/lt/legalAct/TAR.1C65A214E386), Nr. [152-5532](https://www.e-tar.lt/portal/lt/legalAct/TAR.DCEB029AA163); 2006, Nr. [66-2429](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C32BA5677B5), Nr. [82-3256](https://www.e-tar.lt/portal/lt/legalAct/TAR.4BD03D991231); 2007, Nr. [39-1437](https://www.e-tar.lt/portal/lt/legalAct/TAR.E1F713BDE3EE); 2008, Nr. [10-337](https://www.e-tar.lt/portal/lt/legalAct/TAR.6CA9529EC2B6), Nr. [50-1847](https://www.e-tar.lt/portal/lt/legalAct/TAR.8CEC2952733C), Nr. [135-5232](https://www.e-tar.lt/portal/lt/legalAct/TAR.04CE396ACA9E))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -70,19 +70,19 @@ Vilnius
 
 14. Buvusias 2 straipsnio 46–54 dalis laikyti atitinkamai 52–60 dalimis.
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies 5 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 2 dalies 5 punkto pakeitimas
 
 Pakeisti 4 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) savivaldybės (dokumentus tvirtina savivaldybės taryba ar savivaldybės administracijos direktorius).“
 
-\#### 3 straipsnis. 15 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 15 straipsnio 3 dalies pakeitimas
 
 Pakeisti 15 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Tais atvejais, kai savivaldybės teritorijos ar jos dalių bendrieji planai neparengti arba parengtų bendrųjų planų sprendiniuose kraštovaizdžio tvarkymo, infrastruktūros plėtros, aukštybinių pastatų ir svarbių valstybės ar savivaldybės objektųišdėstymo klausimai nespręsti, privaloma rengti specialiuosius teritorijų planavimo dokumentus – kraštovaizdžio tvarkymo, infrastruktūros plėtros, aukštybinių pastatų ir svarbių valstybės ar savivaldybės objektųišdėstymo schemas ir (ar) planus (projektus). Aukštybinių pastatų išdėstymo planai nerengiami, jei tokių pastatų statyba nenumatoma.“
 
-\#### 4 straipsnis. 19 straipsnio pakeitimas
+## 4 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -118,13 +118,13 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 5) nustatyti ar pakeisti užstatymo, erdvių, socialinės infrastruktūros išdėstymo principus ir teritorijų naudojimo tipus.“
 
-\#### 5 straipsnis. 20 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 20 straipsnio 2 dalies pakeitimas
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Savivaldybė ar valstybinės žemės valdytojai Vyriausybės nustatyta tvarka, atvejais ir sąlygomis gali sudaryti sutartį dėl detaliojo teritorijų planavimo organizatoriaus teisių ir pareigų perdavimo žemės sklypų valdytojui ar naudotojui.“
 
-\#### 6 straipsnis. 21 straipsnio pakeitimas
+## 6 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 4. Pramoniniuose parkuose, laisvosiose ekonominėse zonose ir valstybinių jūrų uostų teritorijose, kuriems yra parengti detalieji planai, žemės sklypai padalijami, atidalijami, sujungiami ar perdalijami (vykdoma amalgamacija) (išskyrus atvejus, kai tai draudžia įstatymai) Vyriausybės įgaliotos institucijos nustatyta tvarka, o parengti žemės sklypų planai prilyginami detaliojo teritorijų planavimo dokumentams. Ši Įstatymo nuostata taikoma tik tuo atveju, jei nekeičiamas pradiniame detaliajame plane numatytas privalomas teritorijos tvarkymo ir naudojimo režimas.“
 
-\#### 7 straipsnis. 22 straipsnio pakeitimas
+## 7 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -214,7 +214,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 2) daugiabučių ir gyvenamųjų namų bei socialinės infrastruktūros objektams atnaujinti (modernizuoti), jei keičiamas pastato užimamas plotas, aukštis ar tūris, išskyrus šio straipsnio 3 dalies 4 punkte nurodytus atvejus.“
 
-\#### 8 straipsnis. 23 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 5, 6 dalimis
+## 8 straipsnis. 23 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 5, 6 dalimis
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -244,7 +244,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 „6. Detaliajame plane išnagrinėjami galimi teritorijos aprūpinimo inžineriniais tinklais ir susisiekimo komunikacijomis būdai. Konkretus teritorijos aprūpinimas inžineriniais tinklais ir susisiekimo komunikacijomis nustatomas statinių techninių projektų sprendiniais.“
 
-\#### 9 straipsnis. 24 straipsnio 1 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios
+## 9 straipsnis. 24 straipsnio 1 dalies pakeitimas ir 5 dalies pripažinimas netekusia galios
 
 1. Pakeisti 24 straipsnio 1 dalį ir ją išdėstytai taip:
 
@@ -252,7 +252,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 2. 24 straipsnio 5 dalį pripažinti netekusia galios.
 
-\#### 10 straipsnis. 26 straipsnio 4, 5 ir 8 dalių pakeitimas
+## 10 straipsnis. 26 straipsnio 4, 5 ir 8 dalių pakeitimas
 
 1. Pakeisti 26 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -266,7 +266,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 „8.Patvirtintas detalusis planas įsigalioja kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės interneto tinklalapyje. Patvirtintas detalusis planas turi būti paskelbtas ne vėliau kaip per 5 darbo dienas nuo jo patvirtinimo dienos.“
 
-\#### 11 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 31 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -276,7 +276,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 „2. Fiziniai ir juridiniai asmenys turi teisę susipažinti su patvirtintomis teritorijų planavimo dokumentų koncepcijomis, jei jos rengiamos, parengtais ir patvirtintais teritorijų planavimo dokumentais teritorijų planavimą organizavusioje institucijoje, gauti teritorijų planavimo dokumentų ar jų dalių, brėžinių kopijas už mokestį, kuris nustatomas apskaičiavus išlaidas, susijusias su šių dokumentų parengimu (kopijavimu, leidyba ir pan.).“
 
-\#### 12 straipsnis. 37 straipsnio pakeitimas
+## 12 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
@@ -284,13 +284,13 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 
 Žala, atsiradusi dėl neteisėtais veiksmais įgyvendinamų teritorijų planavimo dokumentų, taip pat už teritorijų planavimo dokumentų rengimo, tvirtinimo ar motyvuoto atsisakymo pateikimo vilkinimą, atlyginama Civilinio kodekso, Žemės įstatymo ir kitų teisės aktų nustatyta tvarka. Ginčus dėl žalos atlyginimo sprendžia teismas.“
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 13 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas, išskyrus 13 ir 14 straipsnius, įsigalioja 2010 m. sausio 1 d.
 
 2. Iki 2010 m. sausio 1 d. pradėti rengti teritorijų planavimo dokumentai, dėl kurių yra išduotos planavimo sąlygos, sudarytos planavimo darbų sutartys ir pradėtos viešo svarstymo su visuomene procedūros, baigiami rengti ir tvirtinami pagal Teritorijų planavimo įstatymo nuostatas, galiojusias iki 2010 m. sausio 1 d., ir kitus teritorijų planavimą reglamentavusius teisės aktus.
 
-\#### 14 straipsnis. Pasiūlymas Vyriausybei
+## 14 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė ar jos įgaliota institucija iki 2010 m. sausio 1 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

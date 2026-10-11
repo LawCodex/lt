@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D051CE1AEC6F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D051CE1AEC6F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymo 2, 28 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2001, Nr. [43-1495](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4); 2002, Nr. [72-3010](https://www.e-tar.lt/portal/lt/legalAct/TAR.24BFFD4DDB86))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. 2 straipsnio 14 dalį pripažinti netekusia galios.
 
 2. Buvusias 2 straipsnio 15 ir 16 dalis laikyti atitinkamai 14 ir 15 dalimis.
 
-\#### 2 straipsnis. 28 straipsnio papildymas 7 punktu
+## 2 straipsnis. 28 straipsnio papildymas 7 punktu
 
 Papildyti 28 straipsnį 7 punktu:
 
 „7) tvarko Lietuvos lošimo įrenginių registrą.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio Įstatymo 1 straipsnis įsigalioja nuo 2003 m. sausio 1 d.
 

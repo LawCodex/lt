@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.23DA801CF472"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.23DA801CF472.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 5(11) ir 24 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74); 2003, Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610); 2006, Nr. [4-97](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72), Nr. [87-3400](https://www.e-tar.lt/portal/lt/legalAct/TAR.6BCE507FA0F6); 2007, Nr. [135-5453](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FD4C316A480))
 
-\#### 1 straipsnis. 51 straipsnio pakeitimas
+## 1 straipsnis. 51 straipsnio pakeitimas
 
 Pakeisti 5^1 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 5^1 straipsnį ir jį išdėstyti taip:
 
 4. Įstaigos kolektyvinėje sutartyje negali būti nustatyta papildomų sąlygų, susijusių su papildomomis valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų lėšomis.“
 
-\#### 2 straipsnis. 24 straipsnio 2 dalies pakeitimas ir straipsnio papildymas nauja 3 dalimi
+## 2 straipsnis. 24 straipsnio 2 dalies pakeitimas ir straipsnio papildymas nauja 3 dalimi
 
 1. Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 5^1 straipsnį ir jį išdėstyti taip:
 
 3. Buvusias 24 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis.
 
-\#### 3 straipsnis. Įstatymo taikymas
+## 3 straipsnis. Įstatymo taikymas
 
 Šis įstatymas taikomas nustatant 2009 metų ir vėlesnių metų pareiginės algos bazinį dydį.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FD567219749A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FD567219749A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2002, Nr. [65-2636](https://www.e-tar.lt/portal/lt/legalAct/TAR.31D4F92E1FE8); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB); 2004 m. balandžio 8 d. Nr. IX-2102)
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 3 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios, buvusius 2 dalies 4–7 punktus laikyti atitinkamai 3–6 punktais ir šią dalį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 6) Europos ekonominių interesų grupės.“
 
-\#### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 2 straipsnis. 5 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „4. Pelno nesiekiančių vienetų, kurių mokestinio laikotarpio pajamos iš ūkinės komercinės veiklos neviršija 1 milijono litų, apmokestinamojo pelno dalis, atitinkanti 25 tūkstančių litų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o likusi apmokestinamojo pelno dalis – taikant 15 procentų mokesčio tarifą.“
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 1. Šio Įstatymo 2 straipsnio 1 dalies nuostatos taikomos apskaičiuojant 2004 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 

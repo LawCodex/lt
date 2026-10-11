@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.91E2B02C340D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.91E2B02C340D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo įgyvendinimo įstatymas
@@ -26,29 +26,29 @@ AKCINĖS BENDROVĖS LIETUVOS AKCINIO INOVACINIO BANKO PRIEVOLIŲ BANKO KREDITORI
 
 Vilnius
 
-\#### 1 straipsnis. Perimto Lietuvos akcinio inovacinio banko turto įvertinimas
+## 1 straipsnis. Perimto Lietuvos akcinio inovacinio banko turto įvertinimas
 
 Vyriausybė perimtą Lietuvos akcinio inovacinio banko (toliau – LAIB) turtą įvertina Vyriausybės nustatyta tvarka ir terminais.
 
-\#### 2 straipsnis. Perimto LAIB turto realizavimas
+## 2 straipsnis. Perimto LAIB turto realizavimas
 
 1. Vyriausybė perimtą LAIB turtą perduoda valdyti, naudoti ir juo disponuoti akcinei bendrovei Turto bankas (toliau – Turto bankas), išskyrus turtą, reikalingą valdžios ir valdymo institucijoms ar kitiems subjektams valstybės funkcijoms vykdyti.
 
 2. Turto bankas organizuoja perduoto jam LAIB turto realizavimą ir kitokį jo panaudojimą Vyriausybės nustatyta tvarka.
 
-\#### 3 straipsnis. Atstovavimas Vyriausybei teismuose
+## 3 straipsnis. Atstovavimas Vyriausybei teismuose
 
 Vyriausybei civilinėse bylose dėl LAIB atstovauja ir jos interesus gina Turto bankas.
 
-\#### 4 straipsnis. Perimto LAIB turto teisinė registracija
+## 4 straipsnis. Perimto LAIB turto teisinė registracija
 
 Vyriausybės perimtas LAIB nekilnojamasis turtas ir kitoks turtas, kurio teisinė registracija yra privaloma, registruojamas nustatyta tvarka atitinkamose turto registravimo įstaigose valstybės vardu. Registruojant šį turtą ir teises į jį, valstybei atstovauja Vyriausybė ar jos įgaliota institucija.
 
-\#### 5 straipsnis. Sustabdytų civilinių bylų nagrinėjimas
+## 5 straipsnis. Sustabdytų civilinių bylų nagrinėjimas
 
 Pasibaigus LAIB laikinojo administratoriaus įgaliojimams, atnaujintos bylos baigiamos nagrinėti pagal Akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymo nuostatas.
 
-\#### 6 straipsnis. Vykdomųjų bylų nutraukimas
+## 6 straipsnis. Vykdomųjų bylų nutraukimas
 
 Pasibaigus LAIB laikinojo administratoriaus įgaliojimams bei atnaujinus vykdomąsias bylas, teismo antstoliai, patikrinę ir nustatę, kad išieškotojo reikalavimai pagal Akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymą yra visiškai patenkinti, kreipiasi į apylinkės teismą dėl vykdomosios bylos nutraukimo Civilinio proceso kodekso nustatyta tvarka. Tuo atveju, jeigu išieškojimas pagal vykdomąjį dokumentą įvykdytas nevisiškai, vykdomasis dokumentas grąžinamas išieškotojui. Grąžinus vykdomąjį dokumentą, išieškotojas per 1 mėnesį kreipiasi į LAIB likvidatorių dėl likusios dalies reikalavimų patenkinimo.
 

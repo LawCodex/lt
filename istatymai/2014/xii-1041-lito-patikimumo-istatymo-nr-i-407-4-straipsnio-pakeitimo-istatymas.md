@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/99c4e2701b9d11e4b542dec0b12e28b0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.99C4E2701B9D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos lito patikimumo įstatymo Nr. I-407 4 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ LITO PATIKIMUMO ĮSTATYMO NR. I-407 4 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Lietuvos bankas nustato maksimalius atlyginimo už valiutos keitimo operacijas d
 
 Asmenys, vykdantys valiutos keitimo veiklą, atsako pagal įstatymus už valiutos keitimo operacijų tvarkos nesilaikymą.“
 
-\#### 2 straipsnis. Bendrosios nuostatos
+## 2 straipsnis. Bendrosios nuostatos
 
 Šis įstatymas įsigalioja 2014 m. lapkričio 1 d. ir galioja iki dienos, kurią Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1BB68551E1E9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1BB68551E1E9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės ūkio rūmų įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Bendrosios nuostatos
+## 1 straipsnis. Bendrosios nuostatos
 
 1. Šis įstatymas nustato Lietuvos Respublikos žemės ūkio rūmų (toliau – Rūmų) valdymą, veiklą ir veiklos pabaigą.
 
@@ -38,7 +38,7 @@ Vilnius
 
 5. Rūmai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu ir kitais teisės aktais bei Rūmų statutu (toliau – statutas).
 
-\#### 2 straipsnis. Rūmų nariai
+## 2 straipsnis. Rūmų nariai
 
 1. Rūmų nariais gali būti žemės ūkio produkcijos gamintojų, perdirbėjų, prekiautojų šiais produktais ir gamybinių bei intelektinių paslaugų žemės ūkiui teikėjų interesams atstovaujančios ne pelno žemdirbių organizacijos (draugijos, sąjungos, asociacijos ir kt.). Rūmai gali turėti mažiausiai 3 narius.
 
@@ -62,7 +62,7 @@ Vilnius
 
 6. Rūmų garbės nariai renkami statuto nustatyta tvarka ir dalyvauja posėdžiuose patariamuoju balsu.
 
-\#### 3 straipsnis. Rūmų statutas
+## 3 straipsnis. Rūmų statutas
 
 1. Rūmų statute turi būti numatyta:
 
@@ -86,7 +86,7 @@ Vilnius
 
 2. Statute gali būti numatytos ir kitos Rūmų veiklos nuostatos, jeigu jos neprieštarauja Lietuvos Respublikos Konstitucijai, šiam ir kitiems įstatymams.
 
-\#### 4 straipsnis. Rūmų teisės ir pareigos
+## 4 straipsnis. Rūmų teisės ir pareigos
 
 1. Rūmai turi teisę:
 
@@ -112,7 +112,7 @@ Vilnius
 
 2. Rūmai tvarko finansinę apskaitą, teikia informaciją valstybės institucijoms ir moka mokesčius įstatymų nustatyta tvarka.
 
-\#### 5 straipsnis. Rūmų veikla
+## 5 straipsnis. Rūmų veikla
 
 1. Rūmai atlieka šias pagrindines funkcijas:
 
@@ -142,11 +142,11 @@ Vilnius
 
 2. Rūmai gali atlikti ir kitas funkcijas, kurios neprieštarauja Rūmų veiklos pagrindams ir Lietuvos Respublikos įstatymams.
 
-\#### 6 straipsnis. Rūmų valdymas
+## 6 straipsnis. Rūmų valdymas
 
 Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 
-\#### 7 straipsnis. Rūmų suvažiavimas
+## 7 straipsnis. Rūmų suvažiavimas
 
 1. Aukščiausiasis Rūmų valdymo organas yra suvažiavimas.
 
@@ -172,7 +172,7 @@ Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 
 6. Statute nustatytais klausimais ir tvarka vietoj suvažiavimo gali būti šaukiama konferencija.
 
-\#### 8 straipsnis. Rūmų taryba ir prezidiumas
+## 8 straipsnis. Rūmų taryba ir prezidiumas
 
 1. Tarp suvažiavimų Rūmų veiklai vadovauja taryba, kuri renkama statuto nustatyta tvarka ir nustatytam laikui. Statute gali būti numatyti papildomi reikalavimai tarybos nariui.
 
@@ -182,7 +182,7 @@ Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 
 4. Tarybai ir prezidiumui vadovauja Rūmų pirmininkas.
 
-\#### 9 straipsnis. Rūmų administracija
+## 9 straipsnis. Rūmų administracija
 
 1. Rūmų operatyvią veiklą organizuoja ir vykdo administracija.
 
@@ -196,13 +196,13 @@ Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 
 3) priima ir atleidžia iš darbo administracijos darbuotojus, nustato jų pareiginius atlyginimus.
 
-\#### 10 straipsnis. Finansinės veiklos kontrolė
+## 10 straipsnis. Finansinės veiklos kontrolė
 
 1. Revizijos komisija ne rečiau kaip kartą per metus tikrina Rūmų finansinę veiklą.
 
 2. Revizijos komisijos nariais negali būti Rūmų tarybos, prezidiumo nariai ir administracijos darbuotojai.
 
-\#### 11 straipsnis. Rūmų turtas ir pajamų šaltiniai
+## 11 straipsnis. Rūmų turtas ir pajamų šaltiniai
 
 1. Rūmams nuosavybės teise priklauso nustatyta tvarka neatlygintinai perduotos naudotis patalpos. Tokia pat teise Rūmams priklauso transporto priemonės, įrenginiai, kitas turtas, reikalingas jų statute numatytiems tikslams ir uždaviniams įgyvendinti, kuris gali būti įgytas už Rūmams priklausančias lėšas, taip pat dovanojimo, paveldėjimo ar kitokiu teisėtu būdu.
 
@@ -230,7 +230,7 @@ Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 
 3. Valstybė finansiškai remia konsultavimo tarnybos darbą.
 
-\#### 12 straipsnis. Rūmų veiklos pasibaigimas
+## 12 straipsnis. Rūmų veiklos pasibaigimas
 
 1. Rūmų veikla nutraukiama:
 
@@ -242,7 +242,7 @@ Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 
 2. Rūmų reorganizavimo ir veiklos nutraukimo pagrindus ir tvarką nustato Lietuvos Respublikos įstatymai ir Rūmų statutas.
 
-\#### 13 straipsnis. Baigiamosios nuostatos
+## 13 straipsnis. Baigiamosios nuostatos
 
 1. Įsigaliojus šiam įstatymui, Rūmai turi per 6 mėnesius parengti ir sušaukti suvažiavimą, priimti statutą ir nustatyta tvarka jį įregistruoti.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8210A097DA2B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8210A097DA2B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 15 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2000, Nr. [111-3574](https://www.e-tar.lt/portal/lt/legalAct/TAR.068516AF734B))
 
-\#### 1 straipsnis. 15 straipsnio 1 dalies 1 punkto pakeitimas
+## 1 straipsnis. 15 straipsnio 1 dalies 1 punkto pakeitimas
 
 15 straipsnio 1 dalies 1 punkte vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“ ir šį punktą išdėstyti taip:
 
 „1) tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas nusikalstamą veiką;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

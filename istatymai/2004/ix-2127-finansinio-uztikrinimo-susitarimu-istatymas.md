@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.291FFED8D558.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
@@ -414,5 +414,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1458, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22569
 
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3 straipsnio ir priedo pakeitimo įstatymas
-
-part_d385bc25ff604860886c7e9ca4cb4c50_end

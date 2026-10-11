@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DE6172F73647"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE6172F73647.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 14 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. 96-1872; 2001, Nr. 35-1161)
 
-\#### 1 straipsnis. 14 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 14 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 

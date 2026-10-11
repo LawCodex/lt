@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D5959B048C2C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D5959B048C2C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės "Alytaus tekstilė" akcijų įsigijimo įstatymas
@@ -36,17 +36,17 @@ pabrėždamas, kad šio Įstatymo specialiomis nuostatomis *ad hoc* reglamentuoj
 
 priima šį Įstatymą.
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šio Įstatymo paskirtis – suteikti Vyriausybei teisę organizuoti ir atlikti valstybės turto investavimą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms įsigyti iš fizinių ir (ar) privačių juridinių asmenų bei nustatyti šio investavimo sąlygas, kad valstybei nuosavybės teise priklausytų akcinės bendrovės „Alytaus tekstilė“ akcijų paketas, suteikiantis daugiau kaip 1/2 balsų šios bendrovės visuotiniame akcininkų susirinkime.
 
 2. Šiame Įstatyme reglamentuojamiems teisiniams santykiams netaikomas Valstybės turto fondo įstatymo 5 straipsnio 1 dalies 5 punktas.
 
-\#### 2 straipsnis. Teisė investuoti valstybės turtą
+## 2 straipsnis. Teisė investuoti valstybės turtą
 
 Vyriausybė turi teisę investuoti valstybės turtą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms, priklausančioms fiziniams ir (ar) privatiems juridiniams asmenims, įsigyti valstybės nuosavybėn šio Įstatymo 3 straipsnyje nurodytomis sąlygomis.
 
-\#### 3 straipsnis. Valstybės turto investavimo sąlygos
+## 3 straipsnis. Valstybės turto investavimo sąlygos
 
 1. Akcinės bendrovės „Alytaus tekstilė“ paprastosios vardinės akcijos įsigyjamos su fiziniais ir (ar) privačiais juridiniais asmenimis sudarant akcijų pirkimo-pardavimo sutartis.
 
@@ -62,7 +62,7 @@ Vyriausybė turi teisę investuoti valstybės turtą akcinės bendrovės „Alyt
 
 2) dėl atleidimo nuo visų ar dalies prievolių, atsiradusių pagal šios dalies 1 punkte nurodytą sutartį, įvykdymo.
 
-\#### 4 straipsnis. Įstatymo įgyvendinimo tvarka
+## 4 straipsnis. Įstatymo įgyvendinimo tvarka
 
 1. Sprendimą dėl akcinės bendrovės „Alytaus tekstilė“ akcijų pirkimo-pardavimo sutarčių, nurodytų šio Įstatymo 3 straipsnio 1 dalyje, sudarymo priima Vyriausybė. Vyriausybei pritarus šių sutarčių projektams, jas su fiziniais ir (ar) privačiais juridiniais asmenimis pasirašo valstybės įmonė Valstybės turto fondas.
 

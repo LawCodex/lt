@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C456F906EDA1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C456F906EDA1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo 2, 5, 6 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [96-1872](https://www.e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C); 2001, Nr. [35-1161](https://www.e-tar.lt/portal/lt/legalAct/TAR.960DBFBF5981); 2003, Nr. [38-1692](https://www.e-tar.lt/portal/lt/legalAct/TAR.6D4C2D715032), Nr. [123-5593](https://www.e-tar.lt/portal/lt/legalAct/TAR.7501477AA243))
 
-\#### 1 straipsnis. 2 straipsnio 13 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 13 dalies pakeitimas
 
 Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
 
 „13. **Valstybiniai miškų pareigūnai (vyriausieji valstybiniai miškų pareigūnai, vyresnieji valstybiniai miškų pareigūnai ir valstybiniai miškų pareigūnai)** – miškų ūkio valstybinio valdymo, valstybinės miškų kontrolės įstaigų, Generalinės miškų urėdijos prie Aplinkos ministerijos valstybės tarnautojai ir miškų urėdijų miško apsaugos darbuotojai, dirbantys pagal darbo sutartis ir turintys įstatymų nustatytus įgaliojimus. Vyriausiųjų valstybinių miškų pareigūnų, vyresniųjų valstybinių miškų pareigūnų ir valstybinių miškų pareigūnų statusas suteikiamas aplinkos ministro įsakymu.“
 
-\#### 2 straipsnis. 5 straipsnio 4 dalies 1 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 4 dalies 1 punkto pakeitimas
 
 5 straipsnio 4 dalies 1 punkte vietoj žodžio „steigėjo“ įrašyti žodžius „savininko teises ir pareigas įgyvendinančios institucijos“ ir šį punktą išdėstyti taip:
 
 „1) atlieka miškų urėdijų savininko teises ir pareigas įgyvendinančios institucijos funkcijas ir koordinuoja jų veiklą;“.
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 

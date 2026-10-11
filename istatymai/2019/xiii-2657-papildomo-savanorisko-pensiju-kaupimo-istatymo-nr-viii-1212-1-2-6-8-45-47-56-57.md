@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0910aee022fd11eabe008ea93139d588"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0910AEE022FD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1237 19 ir 20 straipsnių pakeitimo įstatymas

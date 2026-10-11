@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d55bc650617c11e7b85cfdc787069b42"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D55BC650617C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas
@@ -782,7 +782,7 @@ Produktų iš elastomerų gamyba ar perdirbimas (kai gamybos ar perdirbimo pajė
 
 14.*** Į Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas, rūšių sąrašą ar į Planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai vertinimo, rūšių sąrašą įrašytos planuojamos ūkinės veiklos bet koks keitimas ar išplėtimas, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą, kai planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti neigiamą poveikį aplinkai, išskyrus šio įstatymo 1 priedo 10 punkte nurodytus atvejus.
 
-\* Viena vieta atitinka vieną suaugusį gyvūną ar paukštį, t. y. jaunikliai neskaičiuojami.
+* Viena vieta atitinka vieną suaugusį gyvūną ar paukštį, t. y. jaunikliai neskaičiuojami.
 
 ** Šio priedo 11.18 papunktis netaikomas veiklai, įrašytai į šio įstatymo 1 priedą ar šį priedą.
 
@@ -824,4 +824,4 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentė Dalia Grybauskaitė
 
-\* Atominės elektrinės ar kiti branduoliniai reaktoriai nebepriskiriami šios rūšies įrenginiams, kai branduolinis kuras ir kitos radionuklidais užterštos dalys visam laikui pašalinamos iš įrenginio vietos.
+* Atominės elektrinės ar kiti branduoliniai reaktoriai nebepriskiriami šios rūšies įrenginiams, kai branduolinis kuras ir kitos radionuklidais užterštos dalys visam laikui pašalinamos iš įrenginio vietos.

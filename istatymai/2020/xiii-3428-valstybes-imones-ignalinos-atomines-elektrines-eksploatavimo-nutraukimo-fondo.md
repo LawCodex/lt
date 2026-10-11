@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/08f67c702b3311eb932eb1ed7f923910"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08F67C702B33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo Nr. IX-466 pripažinimo netekusiu galios įstatymas
@@ -28,11 +28,11 @@ PRIPAŽINIMO NETEKUSIU GALIOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galiosLietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymą Nr. IX-466 su visais pakeitimais ir papildymais.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2020 m. gruodžio 1 d.
 

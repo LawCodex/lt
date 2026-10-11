@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A83544104B07"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A83544104B07.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 24 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9); 2004, Nr. [170-6236](https://www.e-tar.lt/portal/lt/legalAct/TAR.810096E93D62); 2009, Nr. [85-3580](https://www.e-tar.lt/portal/lt/legalAct/TAR.13AC476AC21E); 2010, Nr. [71-3548](https://www.e-tar.lt/portal/lt/legalAct/TAR.36662FF58D83))
 
-\#### 1 straipsnis. 24 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 24 straipsnio 2 dalies pakeitimas
 
 Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 

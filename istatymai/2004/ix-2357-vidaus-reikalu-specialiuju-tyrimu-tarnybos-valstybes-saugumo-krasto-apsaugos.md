@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0079FBD960D1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0079FBD960D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 7 ir 9 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 1998, Nr. [62-1777](https://www.e-tar.lt/portal/lt/legalAct/TAR.892535EB668D), Nr. [98-2710](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D9B5B8570F2); 2000, Nr. [64-1923](https://www.e-tar.lt/portal/lt/legalAct/TAR.E45D780C0808))
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį, 2 ir 3 dalyse vietoj žodžio „mokama“ įrašyti žodį „skiriama“ ir visą straipsnį išdėstyti taip:
 
@@ -40,13 +40,13 @@ Už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, s
 
 Atleistiems dėl sveikatos (3 straipsnio pirmosios dalies 4 punktas) pareigūnams ir kariams, ištarnavusiems nuo 5 iki 10 metų, už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, skiriama po 2% šio straipsnio pirmojoje dalyje nurodyto darbo užmokesčio, ištarnavusiems nuo 10 iki 20 metų – 20% šio darbo užmokesčio, o ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio antrojoje dalyje nurodyto dydžio pensija.“
 
-\#### 2 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalyje vietoj žodžio „mokama“ įrašyti žodį „skiriama“ ir šią dalį išdėstyti taip:
 
 „Pareigūnų ir karių valstybinė invalidumo pensija skiriamapareigūnams ir kariams už kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti, po 1,2% I grupės, 1% II grupės ir 0,5% III grupės invalidams darbo užmokesčio, nurodyto šio įstatymo 7 straipsnio pirmojoje dalyje.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Iki 1991 m. liepos 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydį, nuo 2004 m. rugsėjo 1 d. didinamos vieną kartą 30 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams dydžio.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DFD244DAFECA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DFD244DAFECA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 2, 13, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 2002, Nr. [116-5188](https://www.e-tar.lt/portal/lt/legalAct/TAR.531C156856EF); 2003, Nr. [48-2109](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFDEC8C27807); 2005, Nr. [47-1554](https://www.e-tar.lt/portal/lt/legalAct/TAR.7B3E3615DFCA); 2008, Nr. [71-2703](https://www.e-tar.lt/portal/lt/legalAct/TAR.93048EAC26E5), Nr. [120-4544](https://www.e-tar.lt/portal/lt/legalAct/TAR.3A71C19CF624); 2009, Nr. [93-3961](https://www.e-tar.lt/portal/lt/legalAct/TAR.242A7F8A7730); 2010, Nr. [125-6378](https://www.e-tar.lt/portal/lt/legalAct/TAR.2EB5B5F6E5DD); 2011, Nr. [143-6708](https://www.e-tar.lt/portal/lt/legalAct/TAR.095F39F89CAF), Nr. [155-7357](https://www.e-tar.lt/portal/lt/legalAct/TAR.58F4B19E4CE5), Nr. [155-7358](https://www.e-tar.lt/portal/lt/legalAct/TAR.4A763C45A145); 2013, Nr. [10-420](https://www.e-tar.lt/portal/lt/legalAct/TAR.DCAA856E7A72))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 15 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 15 dalimi
 
 Papildyti 2 straipsnį 15 dalimi:
 
 „15.**Savivaldybės programos įgyvendinimo administratorius**– savivaldybės paskirtas asmuo, turintis teisę būti statinio statybos valdytoju pagal Lietuvos Respublikos statybos įstatymą. Tokiu asmeniu gali būti:bendrojo naudojimo objektų valdytojas, administruojantis savivaldybės tarybos patvirtintoje programoje, kuri atitinka Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą (toliau – savivaldybės programa), nurodytus daugiabučius namus; savivaldybės įsteigta pelno nesiekianti įstaiga arba kita jos kontroliuojama įmonė. Šiems asmenims pavedamateikti daugiabučių namų atnaujinimo (modernizavimo) projektų (toliau – atnaujinimo (modernizavimo) projektas) parengimo ir (ar) įgyvendinimo, ir (ar) finansavimo organizavimo paslaugas.“
 
-\#### 2 straipsnis. 13 straipsnio 1, 2 ir 7 dalių pakeitimas ir straipsnio papildymas 8 dalimi
+## 2 straipsnis. 13 straipsnio 1, 2 ir 7 dalių pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Papildyti 2 straipsnį 15 dalimi:
 
 6) organizuoja Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimo stebėseną.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 4. Dėl būsto šildymo išlaidų kompensavimo nepasiturintiems gyventojams pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius butų ir kitų patalpų savininkų sprendimo dėl atnaujinimo (modernizavimo) projekto įgyvendinimo protokolo išrašą teikia savivaldybės administracijai.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2013 m. birželio 1 d.
 

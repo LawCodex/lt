@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.78766B5EAE80"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.78766B5EAE80.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" 2, 4, 5, 8, 10, 11, 21, 26, 34, 35, 43, 45, 51, 53, 62, 63, 64, 80, 81, 93, 101, 102, 106, 125 ir 140-1 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 141-1 straipsniu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2539](https://www.e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD); 2006, Nr. [137-5199](https://www.e-tar.lt/portal/lt/legalAct/TAR.D79EF0646F5C); 2008, Nr. [22-803](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB2157F6318A))
 
-\#### 1 straipsnis. 2 straipsnio papildymas 111 dalimi
+## 1 straipsnis. 2 straipsnio papildymas 111 dalimi
 
 Papildyti 2 straipsnį 11^1dalimi:
 
 „11^1.**Kvietimas**– dokumentas, patvirtinantis Lietuvos Respublikos fizinio arba juridinio asmens įsipareigojimą pasirūpinti, kad į Lietuvos Respubliką atvykstantis užsienietis būtų tinkamai apgyvendintas jo buvimo Lietuvos Respublikoje turint vizą laikotarpiu ir kad prireikus būtų padengtos užsieniečio grįžimo į kilmės ar užsienio valstybę, į kurią jis turi teisę vykti, išlaidos.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja policija, Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas),Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), bendradarbiaudami su Lietuvos Respublikos valstybės ir savivaldybių institucijomis bei įstaigomis.“
 
-\#### 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 3 dalies pakeitimas
 
 5 straipsnio 3 dalyje išbraukti žodžius „prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas)“ ir šią dalį išdėstyti taip:
 
 „3. Jeigu užsienietis pateikia prašymą suteikti prieglobstį Lietuvos Respublikoje, sprendimą dėl užsieniečio neįleidimo arba įleidimo į Lietuvos Respubliką priima Migracijos departamentas.“
 
-\#### 4 straipsnis. 8 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 4 straipsnis. 8 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. 8 straipsnio 2 dalyje išbraukti žodžius „prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba)“, įrašyti žodžius „išskyrus šio Įstatymo 5 straipsnio 3 dalyje numatytą atvejį“ ir šią dalį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja policija,
 
 2. 8 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 10 straipsnio 1 ir 2 punktų pakeitimas
+## 5 straipsnis. 10 straipsnio 1 ir 2 punktų pakeitimas
 
 1. Pakeisti 10 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja policija,
 
 „2) atvyksta į Lietuvos Respubliką, kirsdamas Europos Sąjungos išorės sieną, kaip tai apibrėžta Šengeno sienų kodekso 2 straipsnio 2 punkte, ne per pasienio kontrolės punktą;“.
 
-\#### 6 straipsnis. 11 straipsnio 7 dalies pakeitimas
+## 6 straipsnis. 11 straipsnio 7 dalies pakeitimas
 
 Pakeisti 11 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų įgulų nariams, taip pat jūrininkams, atvykusiems į laivą vizos galiojimo laiku ir įtrauktiems į laivo įgulos sąrašą, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje, bet ne ilgiau kaip tris mėnesius.“
 
-\#### 7 straipsnis. 21 straipsnio papildymas ir pakeitimas
+## 7 straipsnis. 21 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 21 straipsnį nauja 8 dalimi:
 
@@ -78,17 +78,17 @@ Pakeisti 11 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „9. Kvietimo patvirtinimo, dokumentų vizai gauti pateikimo ir vizos išdavimo, taip pat kelionių organizatorių ir kelionių agentūrų akreditavimo, vizos išdavimo pasienio kontrolės punktuose, vizos panaikinimo tvarkai taikomos Bendrosios konsulinės instrukcijos ir vidaus reikalų ministro kartu su užsienio reikalų ministru nustatyta tvarka tiek, kiek ji neprieštarauja Bendrosioms konsulinėms instrukcijoms.“
 
-\#### 8 straipsnis. 26 straipsnio 4 dalies pripažinimas netekusia galios
+## 8 straipsnis. 26 straipsnio 4 dalies pripažinimas netekusia galios
 
 26 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 9 straipsnis. 34 straipsnio 3 dalies pakeitimas
+## 9 straipsnis. 34 straipsnio 3 dalies pakeitimas
 
 34 straipsnio 3 dalyje vietoj žodžių „Migracijos departamentui“ įrašyti žodžius „vidaus reikalų ministro įgaliotai institucijai“ ir šią dalį išdėstyti taip:
 
 „3. Ligos atveju ar esant kitų svarbių nuo užsieniečio nepriklausančių priežasčių, apie kurių buvimą užsienietis turi raštu pranešti vidaus reikalų ministro įgaliotai institucijai, gali būti pratęstas sprendimo, nurodyto šio straipsnio 1 dalyje, galiojimas, bet ne ilgiau kaip iki 3 mėnesių.“
 
-\#### 10 straipsnis. 35 straipsnio 1 dalies 3 punkto pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 10 straipsnis. 35 straipsnio 1 dalies 3 punkto pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 35 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 11 straipsnio 7 dalį ir ją išdėstyti taip:
 
 2. 35 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 11 straipsnis. 43 straipsnio 6 dalies pakeitimas
+## 11 straipsnis. 43 straipsnio 6 dalies pakeitimas
 
 Pakeisti 43 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -112,31 +112,31 @@ Pakeisti 43 straipsnio 6 dalį ir ją išdėstyti taip:
 
 5) kuris tiesiogiai dalyvaudamas valstybei svarbiuose projektuose yra investavęs Lietuvos Respublikoje nuosavą, skolintą ar patikėjimo teise valdomą ir naudojamą turtą.“
 
-\#### 12 straipsnis. 45 straipsnio 1 dalies 1 punkto pakeitimas
+## 12 straipsnis. 45 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 45 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) įregistruoja įmonę, įstaigą ar organizaciją Lietuvos Respublikoje kaip savininkas arba bendraturtis, kurio turimo įmonės įstatinio kapitalo dalies nominalioji vertė turi sudaryti ne mažiau kaip 50 tūkstančių litų, ir jo buvimas Lietuvos Respublikoje yra būtinas siekiant įmonės, įstaigos, organizacijos tikslų ir vykdant veiklą;“.
 
-\#### 13 straipsnis. 51 straipsnio 3 dalies pakeitimas
+## 13 straipsnis. 51 straipsnio 3 dalies pakeitimas
 
 51 straipsnio 3 dalyje vietoj žodžių „Migracijos departamentas“ įrašyti žodį „ir“ ir šią dalį išdėstyti taip:
 
 „3. Sprendimą dėl leidimo laikinai gyventi užsieniečiui keitimo priima ir leidimą laikinai gyventi užsieniečiams keičia vidaus reikalų ministro įgaliotos institucijos.“
 
-\#### 14 straipsnis. 53 straipsnio 1 dalies 9 punkto pakeitimas
+## 14 straipsnis. 53 straipsnio 1 dalies 9 punkto pakeitimas
 
 53 straipsnio 1 dalies 9 punkte vietoj skaičiaus „3“ įrašyti skaičių „2“ ir šį punktą išdėstyti taip:
 
 „9) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ įgyvendinimo įstatymo 2 straipsnyje numatytu atveju.“
 
-\#### 15 straipsnis. 62 straipsnio 2 dalies pakeitimas
+## 15 straipsnis. 62 straipsnio 2 dalies pakeitimas
 
 Pakeisti 62 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Darbdavys gali sudaryti darbo sutartį tik su užsieniečiu, turinčiu leidimą dirbti, išskyrus šio Įstatymo 58 straipsnyje nurodytus atvejus. Darbo sutartis turi būti sudaryta ir jos kopiją, patvirtintą teisės aktų nustatyta tvarka, teritorinei darbo biržai registruoti darbdavys turi pateikti per 2 mėnesius nuo leidimo dirbti išdavimo dienos.“
 
-\#### 16 straipsnis. 63 straipsnio papildymas 5 ir 6 punktais
+## 16 straipsnis. 63 straipsnio papildymas 5 ir 6 punktais
 
 1. Papildyti 63 straipsnį 5 punktu:
 
@@ -146,7 +146,7 @@ Pakeisti 62 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6) nustatoma, kad užsienietis neatitinka būtinų leidimo dirbti išdavimo sąlygų.“
 
-\#### 17 straipsnis. 64 straipsnio 1, 2 ir 3 punktų pakeitimas
+## 17 straipsnis. 64 straipsnio 1, 2 ir 3 punktų pakeitimas
 
 Pakeisti 64 straipsnį ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Užsieniečio darbas arba užsiėmimas kita veikla Lietuvos Respublikoje laikomi
 
 3) studijuoja, mokosi švietimo įstaigoje, stažuoja, dalyvauja kvalifikacijos kėlimo kursuose ar profesiniuose mokymuose be leidimo laikinai gyventi ar vizos, išskyrus atvejus, nurodytus šio Įstatymo 32 straipsnio 2 dalies 2 punkte ir 71 straipsnio 2 dalyje.“
 
-\#### 18 straipsnis. 80 straipsnio pakeitimas
+## 18 straipsnis. 80 straipsnio pakeitimas
 
 80 straipsnyje vietoj skaičiaus „89“ įrašyti skaičių „88“ ir šį straipsnį išdėstyti taip:
 
@@ -168,17 +168,17 @@ Užsieniečio darbas arba užsiėmimas kita veikla Lietuvos Respublikoje laikomi
 
 Prašymą suteikti prieglobstį iš esmės nagrinėja Migracijos departamentas, atlikdamas tyrimą, kurio tikslas – nustatyti, ar prieglobsčio prašytojas atitinka šio Įstatymo 86 ar 87 straipsnyje nustatytus kriterijus, taip pat ar nėra priežasčių, nurodytų šio Įstatymo 88 straipsnyje.“
 
-\#### 19 straipsnis. 81 straipsnio 1 dalies pakeitimas
+## 19 straipsnis. 81 straipsnio 1 dalies pakeitimas
 
 81 straipsnio 1 dalyje vietoj skaičiaus „77“ įrašyti skaičių „76“ ir šią dalį išdėstyti taip:
 
 „1. Prašymas suteikti prieglobstį turi būti išnagrinėtas iš esmės ne vėliau kaip per 3 mėnesius nuo Migracijos departamento sprendimo dėl laikino teritorinio prieglobsčio suteikimo priėmimo dienos arba sprendimo dėl laikino teritorinio prieglobsčio pratęsimo dienos šio Įstatymo 76 straipsnio 4 dalyje nustatytais atvejais.“
 
-\#### 20 straipsnis. 93 straipsnio 1 dalies pakeitimas
+## 20 straipsnis. 93 straipsnio 1 dalies pakeitimas
 
 93 straipsnio 1 dalies 1 ir 2 punktus, einančius po 3 punkto, laikyti atitinkamai 4 ir 5 punktais.
 
-\#### 21 straipsnis. 101 straipsnio pakeitimas ir papildymas
+## 21 straipsnis. 101 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 101 straipsnį nauja 3 dalimi:
 
@@ -186,7 +186,7 @@ Prašymą suteikti prieglobstį iš esmės nagrinėja Migracijos departamentas, 
 
 2. Buvusią 101 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 22 straipsnis. 102 straipsnio pakeitimas
+## 22 straipsnis. 102 straipsnio pakeitimas
 
 102 straipsnyje vietoj žodžio „įforminamas“ įrašyti žodžius „išduodamas ir pratęsiamas“ ir šį straipsnį išdėstyti taip:
 
@@ -194,25 +194,25 @@ Prašymą suteikti prieglobstį iš esmės nagrinėja Migracijos departamentas, 
 
 Europos Sąjungos leidimas gyventi išduodamas ir pratęsiamas 5 metams arba numatomam Europos Sąjungos valstybės narės piliečio gyvenimo Lietuvos Respublikoje laikotarpiui, jei šis laikotarpis yra trumpesnis negu 5 metai.“
 
-\#### 23 straipsnis. 106 straipsnio 1 dalies pakeitimas
+## 23 straipsnis. 106 straipsnio 1 dalies pakeitimas
 
 Pakeisti 106 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Europos Sąjungos valstybės narės piliečio ir (ar) jo šeimos narių teisė gyventi Lietuvos Respublikoje gali būti panaikinta, jeigu šio piliečio ir (ar) jo šeimos narių buvimas Lietuvos Respublikoje keltų grėsmę valstybės saugumui ar viešajai tvarkai. Nepilnamečio Europos Sąjungos valstybės narės piliečio, jeigu tai atitinka geriausius jo interesus, arba Europos Sąjungos valstybės narės piliečio, pragyvenusio Lietuvos Respublikoje be pertraukos pastaruosius 10 metų,teisė gyventi Lietuvos Respublikoje gali būti panaikinama tik grėsmės valstybės saugumui atveju.“
 
-\#### 24 straipsnis. 125 straipsnio papildymas
+## 24 straipsnis. 125 straipsnio papildymas
 
 Papildyti 125 straipsnį 7 punktu:
 
 „7) į Lietuvos Respubliką jis atvyko turėdamas kitos Šengeno valstybės išduotą vizą, kuri nesuteikia jam teisės būti Lietuvos Respublikos teritorijoje.“
 
-\#### 25 straipsnis. 1401 straipsnio 2 dalies pakeitimas
+## 25 straipsnis. 1401 straipsnio 2 dalies pakeitimas
 
 Pakeisti 140^1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Dėl šio Įstatymo 54 straipsnio 1 dalies 2 punkte, 90 straipsnio 1 dalies 8 punkte ir 2 dalies 4 punkte, 106 straipsnio 1 dalyje ir 126 straipsnio 1 dalies 3 punkte nurodytos užsieniečio grėsmės viešajai tvarkai į Vilniaus apygardos administracinį teismą su prašymu priimti sprendimą panaikinti užsieniečiui teisę gyventi Lietuvos Respublikoje ir (ar) išsiųsti užsienietį iš Lietuvos Respublikos kreipiasi Policijos departamentas prie Vidaus reikalų ministerijos ar Lietuvos policijos generalinio komisaro pavedimu – teritorinė policijos įstaiga arba Valstybės sienos apsaugos tarnyba ar Valstybės sienos apsaugos tarnybos vado pavedimu – Valstybės sienos apsaugos tarnybos rinktinė.“
 
-\#### 26 straipsnis. Įstatymo papildymas 1411 straipsniu
+## 26 straipsnis. Įstatymo papildymas 1411 straipsniu
 
 Papildyti Įstatymą 141^1straipsniu:
 
@@ -234,7 +234,7 @@ Išskyrus Rinkliavų įstatyme nustatytas išimtis, Vyriausybės nustatyto dydž
 
 7) pažymos, patvirtinančios Europos Sąjungos valstybės narės piliečio teisę gyventi Lietuvos Respublikoje, ir pažymos, patvirtinančios Europos Sąjungos valstybės narės piliečio teisę nuolat gyventi Lietuvos Respublikoje, išdavimą.“
 
-\#### 27 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 27 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos ne vėliau kaip iki 2010 m. sausio 1 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

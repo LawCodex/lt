@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3E3D529E5AC3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3E3D529E5AC3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 34 straipsnio pakeitimo ir papildymo įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 2001, Nr. 91-3189, Nr. 103-3657; 2002, Nr. 52-1983)
 
-\#### 1 straipsnis. 34 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 34 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 4. 34 straipsnio buvusias 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimi.
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 Valstybinio socialinio draudimo įstatymo 34 straipsnyje nustatyta tvarka taikoma mokant valstybinio socialinio draudimo įmokas nuo pajamų, gautų nuo 2002 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0742F54602BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0742F54602BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio ir Kodekso priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2004, Nr. [72-2492](https://www.e-tar.lt/portal/lt/legalAct/TAR.ECF5798E6803), Nr. [188-6995](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D7722C941FC); 2005, Nr. [81-2945](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC5B5908CC19); 2006, Nr. [77-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5BA1A8418B6); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC); 2008, Nr. [59-2200](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCB3FDD669C6); 2010, Nr. [1-1](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB24057B6BC0), Nr. [75-3792](https://www.e-tar.lt/portal/lt/legalAct/TAR.9039A758A526); 2011, Nr. [163-7777](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE26D84C866D); 2012, Nr. [4-115](https://www.e-tar.lt/portal/lt/legalAct/TAR.5CC68712A93B), Nr. [82-4276](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F2EE9AFA966))
 
-\#### 1 straipsnis. 91 straipsnio 5 dalies pakeitimas ir papildymas
+## 1 straipsnis. 91 straipsnio 5 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 9^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti ir papildyti 9^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
 4) tuo atveju, kai sprendimas asmeniui nebuvo asmeniškai įteiktas, tačiau Europos arešto orderyje patvirtinama, kad po asmens perdavimo šis sprendimas bus nedelsiant asmeniškai įteiktas ir šis asmuo bus aiškiai informuotas apie teisę į bylos persvarstymą arba teisę paduoti apeliacinį skundą, kuriuos nagrinėjant šis asmuo turės teisę dalyvauti ir kurie suteikia galimybę bylą, įskaitant naujus įrodymus, pakartotinai nagrinėti iš esmės, o po šio proceso pirminis sprendimas galės būti panaikintas, taip pat kad asmuo bus informuotas apie laikotarpį, per kurį jis turi reikalauti persvarstyti bylą arba paduoti apeliacinį skundą, kaip nurodyta Europos arešto orderyje.“
 
-\#### 2 straipsnis. Kodekso priedo papildymas ir pakeitimas
+## 2 straipsnis. Kodekso priedo papildymas ir pakeitimas
 
 1. Papildyti Kodekso priedą nauju 21 punktu:
 
@@ -46,7 +46,7 @@ Pakeisti ir papildyti 9^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
 2. Buvusius Kodekso priedo 21, 22, 23 punktus laikyti atitinkamai 22, 23, 24 punktais.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. liepos 1 d.
 

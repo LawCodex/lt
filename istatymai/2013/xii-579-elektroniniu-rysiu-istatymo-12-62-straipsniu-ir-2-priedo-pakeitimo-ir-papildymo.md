@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FA088D60A3D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FA088D60A3D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 12, 62 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [69-2382](https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049); 2008, Nr. [137-5383](https://www.e-tar.lt/portal/lt/legalAct/TAR.168E39B9FB8E); 2011, Nr. [91-4327](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E37A1598E0C), Nr. [153-7200](https://www.e-tar.lt/portal/lt/legalAct/TAR.990F3139C625); 2012, Nr. [132-6650](https://www.e-tar.lt/portal/lt/legalAct/TAR.2421B8282903))
 
-\#### 1 straipsnis. 12 straipsnio 5 dalies pakeitimas ir papildymas
+## 1 straipsnis. 12 straipsnio 5 dalies pakeitimas ir papildymas
 
 1. Pakeisti 12 straipsnio 5 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -34,13 +34,13 @@ Vilnius
 
 „5) įgyvendina Reglamentą (ES) Nr. 611/2013.“
 
-\#### 2 straipsnis. 62 straipsnio 7 dalies pakeitimas
+## 2 straipsnis. 62 straipsnio 7 dalies pakeitimas
 
 Pakeisti 62 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Šio straipsnio 4 dalyje nurodyti pranešimai teikiami vadovaujantis Reglamentu (ES) Nr. 611/2013.“
 
-\#### 3 straipsnis. Įstatymo 2 priedo papildymas ir pakeitimas
+## 3 straipsnis. Įstatymo 2 priedo papildymas ir pakeitimas
 
 1. Papildyti Įstatymo 2 priedą 13 punktu:
 

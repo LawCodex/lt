@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9C297D07FCEC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9C297D07FCEC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1, 2, 3, 4, 6, 8 straipsnių pakeitimo ir papildymo, įstatymo papildymo 4-1, 4-2, 8-1 straipsniais įstatymas
@@ -32,13 +32,13 @@ Vilnius
 
 (Žin., 2001, Nr. [85-2968](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518); 2005, Nr. [86-3206](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FBA9263E5AE); 2008, Nr. [71-2699](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B2AE00143EA))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šis įstatymas taikomas visiems pakuočių vartotojams ir ūkinės veiklos vykdytojams.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Buvusią 2 straipsnio 7 dalį laikyti 2 dalimi, ją pakeisti ir išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų tvarkymo įstatyme.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -112,7 +112,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 5) šio įstatymo ir kitų teisės aktų nustatyta tvarka saugiai šalinti susidariusias pakuočių atliekas, kad jos nekeltų pavojaus aplinkai ir žmonių sveikatai.“
 
-\#### 4 straipsnis. 4 straipsnio pakeitimas
+## 4 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -130,7 +130,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 6. Lietuvos Respublikos vidaus rinkai tiekiamų pakuočių atitikties šiame įstatyme nurodytų pakuočių reikalavimams įgyvendinimo tvarką nustato Vyriausybės įgaliota institucija.“
 
-\#### 5 straipsnis. Įstatymo papildymas 41 straipsniu
+## 5 straipsnis. Įstatymo papildymas 41 straipsniu
 
 Papildyti Įstatymą 4^1 straipsniu:
 
@@ -142,7 +142,7 @@ Papildyti Įstatymą 4^1 straipsniu:
 
 3. Pakartotinio naudojimo pakuotėms tapus atliekomis, šios turi atitikti šio įstatymo 42 straipsnyje nustatytus pakuočių atliekų naudojimo reikalavimus.“
 
-\#### 6 straipsnis. Įstatymo papildymas 42 straipsniu
+## 6 straipsnis. Įstatymo papildymas 42 straipsniu
 
 Papildyti Įstatymą 4^2 straipsniu:
 
@@ -154,7 +154,7 @@ Papildyti Įstatymą 4^2 straipsniu:
 
 3. Biologiškai skaidžios pakuočių atliekos turi fiziškai, chemiškai, termiškai ir biologiškai suirti taip, kad didžioji pagaminto komposto dalis galėtų skaidytis į anglies dioksidą, biomasę ir vandenį.“
 
-\#### 7 straipsnis. 6 straipsnio pakeitimas
+## 7 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 Ūkinės veiklos vykdytojai, nurodyti šio įstatymo 2 straipsnio 20 dalies 1 punkte, pakuočių ir pakuočių atliekų apskaitą tvarko ir ataskaitas teikia Vyriausybės įgaliotos institucijos nustatyta tvarka.“
 
-\#### 8 straipsnis. 8 straipsnio pakeitimas
+## 8 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 3. Pakuočių pardavėjai prekybos vietose turi teikti informaciją apie tai, kaip pakuočių vartotojai gali grąžinti pakuotes ir pakuočių atliekas.“
 
-\#### 9 straipsnis. Įstatymo papildymas 81 straipsniu
+## 9 straipsnis. Įstatymo papildymas 81 straipsniu
 
 Papildyti Įstatymą 8^1 straipsniu:
 
@@ -190,7 +190,7 @@ Papildyti Įstatymą 8^1 straipsniu:
 
 2. Aplinkos ministerija savo interneto svetainėje turi skelbti Valstybiniame atliekų tvarkymo plane nustatytus pakuočių ir pakuočių atliekų tvarkymo reikalavimus ir užduotis.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas
+## 10 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 9 straipsnis įsigalioja 2012 m. sausio 1 d.
 

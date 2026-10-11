@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.77F5BCC514DC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77F5BCC514DC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 86 straipsnio papildymo ir 89, 119 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 2006, Nr. [4-102](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0DE35FFA738))
 
-\#### 1 straipsnis. 86 straipsnio 13 dalies papildymas 6 punktu
+## 1 straipsnis. 86 straipsnio 13 dalies papildymas 6 punktu
 
 Papildyti 86 straipsnio 13 dalį 6 punktu:
 
 „6) perkamos literatūros ir meno kūrinių autorių, atlikėjų ar jų kolektyvo paslaugos.“
 
-\#### 2 straipsnis. 89 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 89 straipsnio 1 dalies pakeitimas
 
 Pakeisti 89 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Perkančioji organizacija privalo paskelbti apie kiekvieną pirkimą, atliekamą supaprastinto atviro konkurso, supaprastinto riboto konkurso, skelbiamų supaprastintų derybų būdu, arba kai vykdomas supaprastintas projekto konkursas. Perkančioji organizacija, sudariusi pirkimo sutartį ar preliminariąją sutartį dėl šio įstatymo 2 priedėlio B paslaugų sąraše nurodytų paslaugų, kai pirkimo vertė yra didesnė, nei nustatyta šio įstatymo 11 straipsnio 1 dalies 4 punkte, privalo išsiųsti skelbimą Viešųjų pirkimų tarnybai. Skelbime turi būti nurodyta, ar perkančioji organizacija sutinka, kad šis skelbimas būtų paskelbtas.“
 
-\#### 3 straipsnis. 119 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 119 straipsnio 1 dalies pakeitimas
 
 Pakeisti 119 straipsnio 1 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.11F6ACE48AA7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.11F6ACE48AA7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 47, 82, 89, 91 ir 97 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52); 2002, Nr. [17-649](https://www.e-tar.lt/portal/lt/legalAct/TAR.390AEF086CE3), Nr. [73-3090](https://www.e-tar.lt/portal/lt/legalAct/TAR.6655A7BA14A7))
 
-\#### 1 straipsnis. 47 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 47 straipsnio 3 dalies pakeitimas
 
 47 straipsnio 3 dalyje vietoj žodžių „teisėjui iškeliama baudžiamoji byla“ įrašyti žodžius „teisėjas yra įtariamas arba kaltinamas padaręs nusikalstamą veiką“ ir šią dalį išdėstyti taip:
 
 „3. Jeigu teisėjas yra įtariamas arba kaltinamas padaręs nusikalstamą veiką, jo įgaliojimus gali sustabdyti Seimas, o tarp Seimo sesijų – Respublikos Prezidentas. Teisėjo įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei teisėjas pripažįstamas nekaltu, jo įgaliojimai atnaujinami ir jam sumokamas atlyginimas už įgaliojimų sustabdymo laiką.“
 
-\#### 2 straipsnis. 82 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 82 straipsnio 1 dalies pakeitimas
 
 82 straipsnio 1 dalyje vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“ ir šią dalį išdėstyti taip:
 
 „1. Aukščiausiojo Teismo pirmininką ar Apeliacinio teismo pirmininką už šiurkštų Lietuvos Respublikos Konstitucijos pažeidimą arba priesaikos sulaužymą, taip pat jei paaiškėja, kad jis padarė nusikalstamą veiką, Seimas gali pašalinti iš teismo pirmininko ir teisėjo pareigų apkaltos proceso tvarka.“
 
-\#### 3 straipsnis. 89 straipsnio pakeitimas
+## 3 straipsnis. 89 straipsnio pakeitimas
 
 Pakeisti 89 straipsnį ir jį išdėstyti taip:
 
@@ -50,19 +50,19 @@ Pakeisti 89 straipsnį ir jį išdėstyti taip:
 
 2. Pradėti ikiteisminį tyrimą, kai įtariamasis yra teisėjas, gali tik generalinis prokuroras.“
 
-\#### 4 straipsnis. 91 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 91 straipsnio 1 dalies pakeitimas
 
 91 straipsnio 1 dalyje vietoj žodžio „nusikaltimą“ įrašyti žodžius „nusikalstamą veiką“ ir šią dalį išdėstyti taip:
 
 „1. Aukščiausiojo Teismo teisėją, Apeliacinio teismo teisėją už šiurkštų Lietuvos Respublikos Konstitucijos pažeidimą arba priesaikos sulaužymą, taip pat jei paaiškėja, kad teisėjas padarė nusikalstamą veiką, Seimas gali pašalinti iš pareigų apkaltos proceso tvarka.“
 
-\#### 5 straipsnis. 97 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 97 straipsnio 2 dalies pakeitimas
 
 97 straipsnio 2 dalyje po žodžio „tardytoju“ įrašyti žodžius „ikiteisminio tyrimo pareigūnu (tardytoju)“ ir šią dalį išdėstyti taip:
 
 „2. Į teisėjo darbo stažą priedams apskaičiuoti ir atostogų trukmei nustatyti įskaitomas ir darbo Lietuvos Respublikos Konstitucinio Teismo teisėju, prokuroru, prokuroro pavaduotoju, prokuratūros tardytoju, ikiteisminio tyrimo pareigūnu (tardytoju), valstybiniu arbitru stažas, darbo valstybės tarnyboje stažas, taip pat asmenų, turinčių teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį, pedagoginis darbo stažas.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

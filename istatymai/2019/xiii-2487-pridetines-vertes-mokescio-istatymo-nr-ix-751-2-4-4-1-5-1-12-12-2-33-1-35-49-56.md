@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/93ce7cb0fbbb11e99681cd81dcdca52c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.93CE7CB0FBBB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4-1, 5-1, 12, 12-2, 33-1, 35, 49, 56, 78, 88-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 4-2, 9-2 straipsniais įstatymas

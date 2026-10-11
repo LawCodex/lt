@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F4A6802773D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F4A6802773D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4, 5, 12 ir 13 straipsnių pakeitimo ir papildymo įstatymas
@@ -32,19 +32,19 @@ Nr. 35-1163, Nr. 71-2518, Nr. 108-3904; 2002, Nr. 5-161, Nr. 40-1464, Nr. 41-152
 
 Nr. 112-4965; 2003, Nr. 101-4542; 2004, Nr. 53-1791)
 
-\#### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
 
 Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Žemė grąžinama natūra nedelsiant. Piliečiams, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, žemė grąžinama natūra tik pagal žemės reformos žemėtvarkos projektus Vyriausybės nustatyta tvarka, išskyrus atvejus, kai šie piliečiai prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki apskrities viršininko sprendimo dėl žemės reformos žemėtvarkos projekto rengimui parinktos teritorijos ribų patvirtinimo priėmimo. Toje Lietuvos valstybės teritorijos dalyje, kur buvo likusi rėžių sistema, žemė grąžinama bei kompensuojama natūra pagal sudarytus žemės reformos žemėtvarkos projektus. Tokiu pat būdu perduodamas neatlygintinai nuosavybėn lygiavertis savininko turėtajam žemės sklypas.“
 
-\#### 2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 2 dalies 1 punkto pakeitimas
 
 Pakeisti 5 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) grąžinant natūra laisvą (neužstatytą) žemę turėtoje vietoje piliečiui ar piliečiams bendrosios nuosavybės teise, taip pat piliečiui, nuosavybės teise turinčiam pastatus, jo naudojamą teritorijų planavimo dokumentuose nustatytų ribų žemės sklypą, išskyrus žemę, pagal šio įstatymo 12 straipsnį priskirtą valstybės išperkamai žemei, ir žemę, kurios susigrąžinti turėtoje vietoje pilietis nepageidauja. Grąžinamos natūra laisvos (neužstatytos) žemės plotas sumažinamas iki 1 ha ploto žemės sklypo dydžio, jeigu jame yra suprojektuoti žemės sklypai, perduodami neatlygintinai piliečiams individualiai statybai pagal šio straipsnio 2 dalies 3 punktą ir jų negalima suprojektuoti kitose miesto teritorijose dėl laisvos (neužstatytos) žemės šiame mieste trūkumo. Laisvos (neužstatytos) žemės plotuose grąžinamų natūra turėtoje vietoje žemės sklypų formavimą ir jų planų rengimą Vyriausybės nustatyta tvarka ir sąlygomis organizuoja ir planus tvirtina savivaldybės administracijos direktorius. Piliečiams, kuriems teismo sprendimu yra atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, nuosavybės teisės atkuriamos grąžinant žemę natūra teritorijose, kur buvo likusi rėžių sistema, jeigu šie piliečiai prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki savivaldybės administracijos direktoriaus sprendimo dėl grąžintinų natūra žemės sklypų planų patvirtinimo priėmimo;“.
 
-\#### 3 straipsnis. 12 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 12 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 12 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ Pakeisti 5 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 2) iki 1995 m. birželio 1 d. buvo miestams nustatyta tvarka priskirtose teritorijose, kur buvo likusi rėžių sistema, ir pagal nustatyta tvarka savivaldybės administracijos direktoriaus patvirtintus žemės sklypų planus numatoma grąžinti piliečiams, kurie prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki sprendimo dėl šių planų patvirtinimo priėmimo.“
 
-\#### 4 straipsnis. 13 straipsnio papildymas 2 dalimi
+## 4 straipsnis. 13 straipsnio papildymas 2 dalimi
 
 Papildyti 13 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 

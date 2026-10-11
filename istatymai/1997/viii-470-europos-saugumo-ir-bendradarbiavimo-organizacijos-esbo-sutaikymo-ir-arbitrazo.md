@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ED5B4DCE2DC1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ED5B4DCE2DC1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos ratifikavimo įstatymas
@@ -26,11 +26,11 @@ EUROPOS SAUGUMO IR BENDRADARBIAVIMO ORGANIZACIJOS (ESBO) SUTAIKYMO IR ARBITRAŽO
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją“, ratifikuoja su išlyga Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją, sudarytą 1992 m. gruodžio 15 d. Stokholme.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlyga
+## 2 straipsnis. Lietuvos Respublikos išlyga
 
 Vadovaudamasi Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvencijos 19 straipsnio 4 dalimi, Lietuvos Respublika pasilieka teisę į ginčų sprendimo procedūras, numatytas esamose ar būsimose Lietuvos Respublikos dvišalėse ar daugiašalėse tarptautinėse sutartyse, su sąlyga, kad šios procedūros gali būti pradėtos vienašališkai. Lietuvos Respublika taip pat pasilieka teisę perduoti konkretų ginčą ar keletą konkrečių ginčų spręsti pagal ginčų sprendimo procedūras, dėl kurių yra ar bus susitarta *ad hoc.*
 

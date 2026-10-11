@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c7425020094511efbcbfb318996800a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C74250200945.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos turto ir verslo vertintojų rūmų įstatymas
@@ -26,9 +26,9 @@ TURTO IR VERSLO VERTINTOJŲ RŪMŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir tikslas
+## 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 1. Šis įstatymas nustato Lietuvos Respublikos turto ir verslo vertintojų rūmų (toliau – Rūmai) steigimą, narystę Rūmuose, Rūmų funkcijas, veiklą ir valdymą.
 
@@ -36,7 +36,7 @@ Vilnius
 
 3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatyme.
 
-\#### 2 straipsnis. Rūmų teisinis statusas
+## 2 straipsnis. Rūmų teisinis statusas
 
 1. Rūmai yra viešasis juridinis asmuo, kurio teisinė forma yra asociacija ir kuris vienija šio įstatymo 5 straipsnio 1 dalyje nurodytus vertintojus ir įgyvendina vertintojų profesinę savivaldą.
 
@@ -44,7 +44,7 @@ Vilnius
 
 3. Rūmų veiklą reglamentuoja šis įstatymas, Lietuvos Respublikos asociacijų įstatymas, kiek šis įstatymas nenustato kitaip, ir Rūmų statutas (toliau – Statutas).
 
-\#### 3 straipsnis. Rūmų funkcijos ir įgaliojimai
+## 3 straipsnis. Rūmų funkcijos ir įgaliojimai
 
 1. Rūmai atlieka šias funkcijas:
 
@@ -66,7 +66,7 @@ Vilnius
 
 3. Sprendžiant klausimą dėl drausmės bylos iškėlimo vertintojui arba nagrinėjant vertintojo drausmės bylą, Rūmai turi teisę gauti visus šiems klausimams spręsti reikalingus duomenis (skaitmeninės ir neskaitmeninės išraiškos informaciją, dokumentus ir (ar) jų nuorašus arba išrašus) ir iš kitų, šio straipsnio 2 dalyje nenurodytų, fizinių ir juridinių asmenų. Tokie fiziniai ir juridiniai asmenys, išskyrus vertintojus, gali reikalauti, kad Rūmai padengtų pagrįstus duomenų surinkimo, apdorojimo ir pateikimo kaštus.
 
-\#### 4 straipsnis. Statutas
+## 4 straipsnis. Statutas
 
 1. Statutas yra steigimo dokumentas, kuriuo Rūmai vadovaujasi savo veikloje.
 
@@ -100,9 +100,9 @@ Vilnius
 
 3. Statute gali būti ir kitų įstatymams neprieštaraujančių nuostatų.
 
-\## II SKYRIUS. RŪMŲ NARIAI
+II SKYRIUS. RŪMŲ NARIAI
 
-\#### 5 straipsnis. Rūmų nariai, jų teisės ir pareigos
+## 5 straipsnis. Rūmų nariai, jų teisės ir pareigos
 
 1. Fizinis asmuo, šio įstatymo nustatyta tvarka išlaikęs kvalifikacijos egzaminą arba kurio profesinė kvalifikacija pripažinta vadovaujantis šio įstatymo 12 straipsniu, siekiantis Lietuvos Respublikoje verstis privalomojo turto arba verslo vertinimo veikla, privalo tapti Rūmų nariu.
 
@@ -136,7 +136,7 @@ Vilnius
 
 6) vykdyti kitas pareigas, kurias nustato Statutas.
 
-\#### 6 straipsnis. Narystės Rūmuose pradžia, jos sustabdymas, atnaujinimas ir pasibaigimas. Vertintojų juridinių asmenų sąrašo sudarymas
+## 6 straipsnis. Narystės Rūmuose pradžia, jos sustabdymas, atnaujinimas ir pasibaigimas. Vertintojų juridinių asmenų sąrašo sudarymas
 
 1. Vertintojas fizinis asmuo tampa Rūmų nariu, jeigu jis:
 
@@ -218,7 +218,7 @@ Vilnius
 
 14. Rūmų taryba ne vėliau kaip per 3 darbo dienas nuo šiame straipsnyje nurodytų sprendimų priėmimo dienos informaciją apie priimtą sprendimą paskelbia viešai.
 
-\#### 7 straipsnis. Nepriekaištinga reputacija
+## 7 straipsnis. Nepriekaištinga reputacija
 
 Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
@@ -226,7 +226,7 @@ Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
 2) yra atleistas iš darbo už šiurkštų darbo pareigų pažeidimą ar iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ir nuo atleidimo nepraėjo 3 metai.
 
-\#### 8 straipsnis. Vertintojų kvalifikacijos pažymėjimas
+## 8 straipsnis. Vertintojų kvalifikacijos pažymėjimas
 
 1. Fiziniam asmeniui, šio įstatymo nustatyta tvarka išlaikiusiam nekilnojamojo turto, kilnojamojo turto arba verslo vertintojo kvalifikacijos egzaminą, suteikiama nekilnojamojo turto, kilnojamojo turto arba verslo srities vertintojo asistento (žemiausia), vertintojo (aukštesnė) arba vertintojo eksperto (aukščiausia) kvalifikacija (toliau – kvalifikacija) ir jam išduodamas kvalifikacijos pažymėjimas. Kvalifikacijos pažymėjimą išduoda Rūmų taryba pagal savo nustatytą tvarką.
 
@@ -242,7 +242,7 @@ Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
 5) vertintojo kvalifikacijos pažymėjimą išdavusi įstaiga.
 
-\#### 9 straipsnis. Bendrieji reikalavimai vertintojo kvalifikacijos egzaminą siekiantiems laikyti asmenims
+## 9 straipsnis. Bendrieji reikalavimai vertintojo kvalifikacijos egzaminą siekiantiems laikyti asmenims
 
 Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
@@ -254,7 +254,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 4) turi ne mažesnę kaip 7 metų nekilnojamojo turto arba kilnojamojo turto, arba verslo vertintojo praktinę atitinkamos srities vertinimo patirtį ir yra parengęs ne mažiau kaip 50 atitinkamai turto arba verslo vertinimo ataskaitų, kai siekiama atitinkamai nekilnojamojo turto arba kilnojamojo turto, arba verslo vertintojo eksperto kvalifikacijos.
 
-\#### 10 straipsnis. Vertintojų kvalifikacijos egzaminai
+## 10 straipsnis. Vertintojų kvalifikacijos egzaminai
 
 1. Vertintojų kvalifikacijos egzaminai yra:
 
@@ -280,7 +280,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 9. Šio straipsnio 7 dalies nuostata mutatis mutandis taikoma asmenims, kurie pagal šio įstatymo 22 straipsnio 2 dalį turėjo teisę tapti Rūmų steigėjais, bet tokia teise nepasinaudojo.
 
-\#### 11 straipsnis. Vertintojų kvalifikacijos egzaminų komisijos
+## 11 straipsnis. Vertintojų kvalifikacijos egzaminų komisijos
 
 1. Vertintojų kvalifikacijos egzaminų komisijas Rūmų narių susirinkimo nustatyta tvarka sudaro Rūmų taryba.
 
@@ -290,7 +290,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 4. Vertintojų kvalifikacijos egzaminų komisijų sprendimai dėl vertintojo kvalifikacijos egzaminų išlaikymo prilyginami sprendimams egzaminus išlaikiusiems asmenims suteikti vertintojo asistento, vertintojo arba vertintojo eksperto kvalifikaciją. Šių sprendimų pagrindu ne vėliau kaip per 10 darbo dienų nuo jų apskundimo termino pabaigos, jeigu sprendimai nebuvo apskųsti, Rūmų taryba išduoda atitinkamus vertintojo kvalifikacijos pažymėjimus ir apie tai viešai paskelbiama Rūmų tarybos nustatyta tvarka.
 
-\#### 12 straipsnis. Vertintojo teisės laikinai ir kartais teikti privalomojo turto arba verslo vertinimo paslaugas Lietuvoje įgyvendinimo tvarka ir vertintojo profesinės kvalifikacijos pripažinimas.
+## 12 straipsnis. Vertintojo teisės laikinai ir kartais teikti privalomojo turto arba verslo vertinimo paslaugas Lietuvoje įgyvendinimo tvarka ir vertintojo profesinės kvalifikacijos pripažinimas.
 
 1. Sprendimą pripažinti Europos Sąjungos valstybių narių piliečių, Europos ekonominės erdvės valstybių piliečių, Šveicarijos Konfederacijos piliečių (toliau – valstybių narių piliečiai), trečiųjų valstybių piliečių vertintojo kvalifikaciją, įgytą kitose Europos Sąjungos, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje bei trečiosiose valstybėse, priima Rūmų taryba savo nustatyta tvarka.
 
@@ -298,9 +298,9 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 3. Europos Sąjungos, Europos ekonominės erdvės valstybėje ar Šveicarijos Konfederacijoje (toliau – valstybė narė) teisėtai įsisteigęs vertintojas, Rūmams pateikęs išankstinę deklaraciją dėl laikinai ir kartais teikiamų privalomojo turto arba verslo vertinimo paslaugų, gali teikti privalomojo turto arba verslo vertinimo paslaugas laikinai ir kartais. Šios deklaracijos formą ir pateikimo tvarką nustato Rūmai, vadovaudamiesi Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu. Valstybėje narėje teisėtai įsisteigusiam vertintojui, norinčiam laikinai ir kartais teikti privalomojo turto arba verslo vertinimo paslaugas Lietuvos Respublikoje, netaikoma pareiga tapti Rūmų nariu.
 
-\## III SKYRIUS. RŪMŲ ORGANAI IR JŲ ĮGALIOJIMAI
+III SKYRIUS. RŪMŲ ORGANAI IR JŲ ĮGALIOJIMAI
 
-\#### 13 straipsnis. Rūmų organai
+## 13 straipsnis. Rūmų organai
 
 1. Rūmų organai yra:
 
@@ -314,7 +314,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 2. Statute gali būti numatyti ir kiti Rūmų organai.
 
-\#### 14 straipsnis. Rūmų narių susirinkimas
+## 14 straipsnis. Rūmų narių susirinkimas
 
 1. Rūmų narių susirinkimas yra aukščiausiasis Rūmų organas.
 
@@ -358,7 +358,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 9. Rūmų narių įgaliotinių susirinkimo (konferencijos) dalyvių skaičių, atstovavimo principus nustato Statutas. Narių dalyvavimo ir balsavimo Rūmų narių įgaliotinių susirinkime (konferencijoje) nuotoliniu būdu tvarką nustato Rūmų taryba.
 
-\#### 15 straipsnis. Rūmų taryba
+## 15 straipsnis. Rūmų taryba
 
 1. Rūmų taryba yra Rūmų valdymo organas.
 
@@ -402,7 +402,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 15) atlieka kitas šiame įstatyme ir Statute nustatytas funkcijas.
 
-\#### 16 straipsnis. Vertintojų garbės teismas
+## 16 straipsnis. Vertintojų garbės teismas
 
 1. Vertintojų garbės teismas, vadovaudamasis šiuo įstatymu, kitais įstatymais, Statutu ir Etikos kodeksu, nagrinėja Rūmų narių drausmės bylas dėl Etikos kodekso pažeidimų ir Rūmų tarybos prašymu aiškina Etikos kodekso nuostatas. Kreiptis į Rūmų tarybą dėl drausmės bylos Rūmų nariui iškėlimo gali bet kuris Rūmų narys, vertinimo užsakovas arba Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Tarnyba).
 
@@ -422,7 +422,7 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 9. Vertintojas dėl jo priimtą Vertintojų garbės teismo sprendimą gali skųsti Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 17 straipsnis. Rūmų revizijos komisija
+## 17 straipsnis. Rūmų revizijos komisija
 
 1. Rūmų revizijos komisija yra Rūmų kontrolės organas. Rūmų revizijos komisiją ir jos pirmininką iš Rūmų narių 4 metams renka Rūmų narių susirinkimas.
 
@@ -440,19 +440,19 @@ Vertintojo kvalifikacijos egzaminą gali laikyti fizinis asmuo, kuris:
 
 4. Rūmų revizijos komisijos nariais ir pirmininku negali būti Rūmų tarybos ar Vertintojų garbės teismo nariai, ar vertintojų juridinių asmenų, kuriuose dirba Rūmų tarybos ar Vertintojų garbės teismo nariai, vadovai, dalyviai ir (ar) darbuotojai.
 
-\#### 18 straipsnis. Rūmų organų sprendimų apskundimas
+## 18 straipsnis. Rūmų organų sprendimų apskundimas
 
 Rūmų organų priimti sprendimai gali būti skundžiami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-\## IV SKYRIUS. RŪMŲ FINANSINĖ ATSKAITOMYBĖ, ATASKAITOS, PAJAMOS IR TURTAS
+IV SKYRIUS. RŪMŲ FINANSINĖ ATSKAITOMYBĖ, ATASKAITOS, PAJAMOS IR TURTAS
 
-\#### 19 straipsnis. Rūmų finansinė apskaita, finansinė atskaitomybė ir auditas
+## 19 straipsnis. Rūmų finansinė apskaita, finansinė atskaitomybė ir auditas
 
 1. Rūmų finansinę apskaitą, jos organizavimą, tvarkymą ir finansinės atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai.
 
 2. Rūmų auditas atliekamas auditą reglamentuojančių teisės aktų nustatytais atvejais ir tvarka. Auditas taip pat atliekamas Rūmų narių susirinkimui arba Rūmų tarybai priėmus sprendimą ir išrinkus audito įmonę.
 
-\#### 20 straipsnis. Rūmų veiklos ataskaita
+## 20 straipsnis. Rūmų veiklos ataskaita
 
 1. Rūmų taryba rengia ir teikia Rūmų narių susirinkimui metinę Rūmų veiklos ataskaitą. Ši ataskaita yra vieša.
 
@@ -470,7 +470,7 @@ Rūmų organų priimti sprendimai gali būti skundžiami Lietuvos Respublikos ci
 
 6) kita Rūmų narių susirinkimo nustatyta informacija.
 
-\#### 21 straipsnis. Rūmų pajamų šaltiniai
+## 21 straipsnis. Rūmų pajamų šaltiniai
 
 Rūmų pajamų šaltiniai yra šie:
 
@@ -484,9 +484,9 @@ Rūmų pajamų šaltiniai yra šie:
 
 5) kitos teisėtai gautos lėšos.
 
-\## V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 22 straipsnis. Rūmų steigimas
+## 22 straipsnis. Rūmų steigimas
 
 1. Rūmai steigiami Rūmų steigiamajame susirinkime.
 
@@ -506,11 +506,11 @@ Rūmų pajamų šaltiniai yra šie:
 
 9. Jeigu nustatoma, kad nėra Rūmų steigiamojo susirinkimo kvorumo, Rūmų steigiamajame susirinkime Statutas nepatvirtinamas arba neišrenkama Rūmų taryba, per 30 dienų nuo Rūmų steigiamojo susirinkimo sušaukimo dienos turi būti sušauktas pakartotinis susirinkimas, kurio metu tvirtinamas Statutas, renkama Rūmų taryba, Rūmų revizijos komisija ir Vertintojų garbės teismo nariai.
 
-\#### 23 straipsnis. Rūmų reorganizavimas ir likvidavimas
+## 23 straipsnis. Rūmų reorganizavimas ir likvidavimas
 
 Rūmai reorganizuojami ar likviduojami įstatymų nustatyta tvarka.
 
-\#### 24 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 24 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 22 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

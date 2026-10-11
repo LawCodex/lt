@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C31BE8587CCB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C31BE8587CCB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 8, 58 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo ir papildymo, įstatymo papildymo 4(1) straipsniu ir 59, 60, 61 straipsnių pripažinimo netekusiais galios įstatymas
@@ -28,23 +28,23 @@ Vilnius
 
 (Žin., 1996, Nr. [101-2300](https://www.e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8); 1999, Nr. [60-1951](https://www.e-tar.lt/portal/lt/legalAct/TAR.899BF6B46D69); 2000, Nr. [75-2266](https://www.e-tar.lt/portal/lt/legalAct/TAR.7669EDB22079), Nr. [85-2584](https://www.e-tar.lt/portal/lt/legalAct/TAR.10908B23A308); 2001, Nr. [99-3527](https://www.e-tar.lt/portal/lt/legalAct/TAR.481E9CD7F1B9); 2003, Nr. [73-3355](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2AC442F66BD))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šis įstatymas reglamentuoja santykius, atsirandančius vežant jūrų laivais krovinius, keleivius ir bagažą, nustato darbo laive ypatumus ir socialines garantijas jūrininkams, taip pat reglamentuoja kitus civilinius teisinius santykius, susijusius su laivyba jūra tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos tarptautinės sutartys.“
 
-\#### 2 straipsnis. 2 straipsnio papildymas 29 dalimi
+## 2 straipsnis. 2 straipsnio papildymas 29 dalimi
 
 Papildyti 2 straipsnį 29 dalimi:
 
 „29. **Gelbėtojas** – asmuo, teikiantis paslaugas, tiesiogiai susijusias su gelbėjimo operacijomis.“
 
-\#### 3 straipsnis. 4 straipsnio 4 dalies pripažinimas netekusia galios
+## 3 straipsnis. 4 straipsnio 4 dalies pripažinimas netekusia galios
 
 4 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. Įstatymo papildymas 41 straipsniu
+## 4 straipsnis. Įstatymo papildymas 41 straipsniu
 
 Papildyti Įstatymą 4^1straipsniu:
 
@@ -74,7 +74,7 @@ Papildyti Įstatymą 4^1straipsniu:
 
 5. Licencijavimo taisykles tvirtina Vyriausybė.“
 
-\#### 5 straipsnis. 8 straipsnio 2, 4 dalių pakeitimas ir papildymas 5 dalimi
+## 5 straipsnis. 8 straipsnio 2, 4 dalių pakeitimas ir papildymas 5 dalimi
 
 1. 8 straipsnio 2 dalyje išbraukti žodžius „Jūrų laivų registravimo taisyklių nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
@@ -88,13 +88,13 @@ Papildyti Įstatymą 4^1straipsniu:
 
 „5. Lietuvos Respublikos jūrų laivų registro vadovaujančiosios registro tvarkymo įstaigos funkcijas atlieka Susisiekimo ministerija, registro tvarkymo įstaigos funkcijas – Lietuvos saugios laivybos administracija.“
 
-\#### 6 straipsnis. Įstatymo dešimtojo skirsnio pavadinimo pakeitimas
+## 6 straipsnis. Įstatymo dešimtojo skirsnio pavadinimo pakeitimas
 
 Pakeisti dešimtojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 „LAIVO VALDYTOJO IR GELBĖTOJO ATSAKOMYBĖS RIBOJIMAS“.
 
-\#### 7 straipsnis. 58 straipsnio pakeitimas
+## 7 straipsnis. 58 straipsnio pakeitimas
 
 Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
@@ -104,23 +104,23 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
 2. Asmuo, už kurio veiksmą, aplaidumą ar įsipareigojimų nevykdymą atsako laivo valdytojas ar gelbėtojas, turi teisę pasinaudoti 1976 m. tarptautinėje konvencijoje dėl atsakomybės pagal jūrinius reikalavimus ribojimo bei kitose Lietuvos Respublikos tarptautinėse sutartyse nustatyta teise riboti atsakomybę.“
 
-\#### 8 straipsnis. 59 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 59 straipsnio pripažinimas netekusiu galios
 
 59 straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 60 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 60 straipsnio pripažinimas netekusiu galios
 
 60 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. 61 straipsnio pripažinimas netekusiu galios
+## 10 straipsnis. 61 straipsnio pripažinimas netekusiu galios
 
 61 straipsnį pripažinti netekusiu galios.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2005 m. liepos 1 d.
 
-\#### 12 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 12 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2005 m. liepos 1 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

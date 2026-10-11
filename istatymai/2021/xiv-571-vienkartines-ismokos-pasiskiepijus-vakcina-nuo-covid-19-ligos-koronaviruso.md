@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/307a9de02cf311ecad73e69048767e8c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.307A9DE02CF3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vienkartinės išmokos pasiskiepijus vakcina nuo COVID-19 ligos (koronaviruso infekcijos) įstatymas
@@ -26,7 +26,7 @@ VIENKARTINĖS IŠMOKOS PASISKIEPIJUS VAKCINA NUO COVID-19 LIGOS (KORONAVIRUSO IN
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šio įstatymo paskirtis – nustatyti vienkartinės išmokos pasiskiepijus vakcina nuo COVID-19 ligos (koronaviruso infekcijos) (toliau – vienkartinė išmoka) dydį, teisę ją gauti turinčius asmenis, jos mokėjimo tvarką.
 
@@ -34,11 +34,11 @@ Vilnius
 
 3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
 
-\#### 2 straipsnis. Vienkartinės išmokos dydis
+## 2 straipsnis. Vienkartinės išmokos dydis
 
 Vienkartinės išmokos dydis yra 100 eurų.
 
-\#### 3 straipsnis. Teisė į vienkartinę išmoką
+## 3 straipsnis. Teisė į vienkartinę išmoką
 
 1. Teisę į vienkartinę išmoką turi asmuo, kuris:
 
@@ -70,7 +70,7 @@ b) 2022 m. kovo 31 d., jeigu asmuo pasiskiepijo šios dalies 2 punkte nustatyta 
 
 2. Asmuo turi teisę gauti tik vieną vienkartinę išmoką.
 
-\#### 4 straipsnis. Vienkartinės išmokos mokėjimas
+## 4 straipsnis. Vienkartinės išmokos mokėjimas
 
 1. Vienkartines išmokas, vadovaudamosi Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (toliau – ESPBI IS) tvarkytojo valstybės įmonės Registrų centro pateiktais duomenimis apie asmens pasiskiepijimą vakcina ir persirgimą COVID-19 liga (koronaviruso infekcija), šio straipsnio 3–5 dalyse nustatyta tvarka išmoka Valstybinio socialinio draudimo fondo administravimo įstaigos, nereikalaudamos iš asmenų, kurie pagal šį įstatymą turi teisę gauti vienkartinę išmoką, prašymų, išskyrus šio straipsnio 5 dalyje nustatytą atvejį.
 
@@ -82,23 +82,23 @@ b) 2022 m. kovo 31 d., jeigu asmuo pasiskiepijo šios dalies 2 punkte nustatyta 
 
 5. Jeigu asmeniui nėra (nebuvo) mokama jokia Valstybinio socialinio draudimo fondo administravimo įstaigos mokama išmoka, vienkartinė išmoka jam išmokama į prašyme išmokėti vienkartinę išmoką nurodytą sąskaitą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje kitą kalendorinį mėnesį, einantį po kalendorinio mėnesio, kurį jis pasiskiepijo šio įstatymo 3 straipsnio 1 dalies 1, 2 ar 3 punkte nustatyta tvarka. Jeigu prašymas pateiktas ne tą patį kalendorinį mėnesį, kurį asmuo pasiskiepijo šio įstatymo 3 straipsnio 1 dalies 1, 2 ar 3 punkte nustatyta tvarka, vienkartinė išmoka jam išmokama kitą kalendorinį mėnesį, einantį po kalendorinio mėnesio, kurį Valstybinio socialinio draudimo fondo administravimo įstaiga gavo asmens prašymą, bet ne vėliau kaip iki 2022 m. balandžio 30 d. Prašymą Valstybinio socialinio draudimo fondo administravimo įstaigai asmuo turi pateikti ne vėliau kaip iki 2022 m. balandžio 6 d.
 
-\#### 5 straipsnis. Vienkartinės išmokos ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
+## 5 straipsnis. Vienkartinės išmokos ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
 
 Pagal šį įstatymą išmokama vienkartinė išmoka neturi įtakos kitoms asmeniui pagal įstatymus priklausančioms kas mėnesį mokamoms išmokoms ir (ar) kompensacijoms, taip pat skiriamai piniginei socialinei paramai, apmokėjimui už socialines paslaugas.
 
-\#### 6 straipsnis. Išskaitos iš vienkartinės išmokos
+## 6 straipsnis. Išskaitos iš vienkartinės išmokos
 
 Išskaitos iš vienkartinės išmokos pagal vykdomuosius dokumentus ir (ar) Valstybinio socialinio draudimo fondo administravimo įstaigos vadovo sprendimus nedaromos.
 
-\#### 7 straipsnis. Vienkartinės išmokos permokų išieškojimas
+## 7 straipsnis. Vienkartinės išmokos permokų išieškojimas
 
 Vienkartinės išmokos permokos, susidariusios ne dėl jų gavėjų kaltės, neišieškomos.
 
-\#### 8 straipsnis. Vienkartinių išmokų finansavimo šaltinis
+## 8 straipsnis. Vienkartinių išmokų finansavimo šaltinis
 
 Vienkartinės išmokos išmokamos iš Valstybinio socialinio draudimo fondo biudžetui skiriamų valstybės biudžeto tikslinių asignavimųišmokoms iš valstybės biudžeto finansuoti.
 
-\#### 9 straipsnis. Asmens duomenų tvarkymas
+## 9 straipsnis. Asmens duomenų tvarkymas
 
 1. Asmens duomenų, gautų įgyvendinant šį įstatymą, tvarkymo tikslas – vienkartinių išmokų mokėjimas ir lėšų, skiriamų šioms išmokoms mokėti, apskaita.
 
@@ -106,11 +106,11 @@ Vienkartinės išmokos išmokamos iš Valstybinio socialinio draudimo fondo biud
 
 3. Įgyvendindami šį įstatymą, duomenų valdytojai užtikrina, kad jų atliekamas asmens duomenų tvarkymas atitiktų Reglamento (ES) 2016/679, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nuostatas.
 
-\#### 10 straipsnis. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimų ir veiksmų (neveikimo) apskundimas
+## 10 straipsnis. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimų ir veiksmų (neveikimo) apskundimas
 
 Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimai vienkartinių išmokų mokėjimo klausimais, taip pat jų veiksmai (neveikimas) gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2021 m. spalio 18 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2D73CC0D50DD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2D73CC0D50DD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 7, 12, 15, 18, 19 skyrių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 1998, Nr. [55-1520](https://www.e-tar.lt/portal/lt/legalAct/TAR.6004A90751D2); 1999, Nr. [11-245](https://www.e-tar.lt/portal/lt/legalAct/TAR.8D4EE979B475))
 
-\#### 1 straipsnis. Priedėlio 7 skyriaus pakeitimas
+## 1 straipsnis. Priedėlio 7 skyriaus pakeitimas
 
 1. 7 skyriaus antrojo skirsnio 3 dalyje vietoj žodžių „pasienio policija, kiti“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „Krašto gynybos operatyvinė vadovybė privalo užtikrinti, kad pasienio provokacijos, vietinio įsibrovimo į Lietuvos teritoriją ar Lietuvos oro erdvės pažeidimo atvejais būtų nedelsiant duoti įsakymai dėl adekvačių kariuomenės ir Valstybės sienos apsaugos tarnybos veiksmų ir imtasi diplomatinių priemonių.“
 
-\#### 2 straipsnis. Priedėlio 12 skyriaus papildymas
+## 2 straipsnis. Priedėlio 12 skyriaus papildymas
 
 12 skyriaus antrojoje dalyje po pastraipos „kariuomenė“ įrašyti pastraipą „Valstybės sienos apsaugos tarnyba“ ir šią dalį išdėstyti taip:
 
@@ -62,13 +62,13 @@ Vilnius
 
 – Ginklų fondas.“
 
-\#### 3 straipsnis. Priedėlio 15 skyriaus pakeitimas
+## 3 straipsnis. Priedėlio 15 skyriaus pakeitimas
 
 15 skyriaus pirmojo skirsnio 5 dalyje vietoj žodžių „pasienio policijos, kitų“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šią dalį išdėstyti taip:
 
 „Seimas įgyvendina šių pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę – įstatymais reglamentuoja šias sritis: krašto apsaugos taikos metu; visuotinės gynybos ir pasipriešinimo agresoriui ar okupantui; Krašto apsaugos ministerijos veiklos; kariuomenės; privalomosios krašto apsaugos tarnybos; Savanoriškosios krašto apsaugos tarnybos; alternatyviosios krašto apsaugos tarnybos; Valstybės sienos apsaugos tarnybos, policijos dalinių pasirengimo ir dalyvavimo krašto gynyboje; mobilizacijos; vieningos civilinės saugos ir gelbėjimo sistemos; piliečių rengimo pasipriešinimui, įskaitant institucinę mokymo struktūrą; Valstybės gynimo tarybos; kariškių pareigų, teisių ir atsakomybės; kolaboravimo veikų ir atsakomybės už jas; valstybės paslapčių apsaugos; Valstybės saugumo departamento veiklos: žvalgybos, kontržvalgybos ir kovos su ardomąja veikla; operatyvinės veiklos; Ginklų fondo ir kitas.“
 
-\#### 4 straipsnis. Priedėlio 18 skyriaus pakeitimas
+## 4 straipsnis. Priedėlio 18 skyriaus pakeitimas
 
 1. 18 skyriaus trečiojo skirsnio 3 dalyje vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šią dalį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Vilnius
 
 „Respublikos Prezidentas arba krašto apsaugos ministras be Seimo sutikimo gali įsakyti panaudoti kariuomenę gelbėjimo darbams avarijų ir katastrofų atvejais. Kariuomenė Respublikos Prezidento arba krašto apsaugos ministro įsakymu taip pat gali būti pasiųsta į pagalbą Valstybės sienos apsaugos tarnybai, kai prireikia sustiprinti valstybės sienos apsaugą.“
 
-\#### 5 straipsnis. Priedėlio 19 skyriaus pakeitimas ir papildymas
+## 5 straipsnis. Priedėlio 19 skyriaus pakeitimas ir papildymas
 
 Pakeisti ir papildyti 19 skyrių ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Valstybės sienos apsaugos tarnybos paskirtis – įgyvendinti valstybės sienos
 
 Valstybės sienos apsaugos tarnybos, o prireikus ir specializuoti policijos daliniai karo padėties ir valstybės gynybos (karo) metu priskiriami ginkluotosioms pajėgoms.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
 

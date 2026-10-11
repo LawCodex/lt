@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.325695DC88AF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.325695DC88AF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 9, 20, 36, 50, 55, 59, 60, 63, 64, 65, 68, 71, 72, 77, 77-2 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 65-1 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986), Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2002, Nr. [102-4550](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA5CC14EC47); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E), Nr. 91(1)-4106; 2004, Nr. 4-28, Nr. 169-6215; 2005, Nr. 28-875, Nr. 122-4362; 2006, Nr. 17-602, Nr. 72-2679; 2007, Nr. 46-1718, Nr. 132-5351; 2008, Nr. 38-1377, Nr. 65-2457, Nr. 74-2868; 2009, Nr. 29-1142, Nr. 95-4035; 2010, Nr. 63-3099, Nr. 86-4539; 2011, Nr. 46-2155, Nr. 72-3466, Nr. 86-4151, Nr. 163-7756; 2012, Nr. 129-6466)
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 29 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusias 2 straipsnio 29, 30 ir 31 dalis laikyti atitinkamai 30, 31 ir 32 dalimis.
 
-\#### 2 straipsnis. 9 straipsnio 4 dalies 7 punkto pakeitimas ir 5 dalies papildymas
+## 2 straipsnis. 9 straipsnio 4 dalies 7 punkto pakeitimas ir 5 dalies papildymas
 
 1. Pakeisti 9 straipsnio 4 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 2) Vyriausybės nustatytais atvejais, sąlygomis ir tvarka teikti paramą asmenims, aukštosiose mokyklose finansuojamose studijų vietose studijuojantiems pagal krašto apsaugos sistemai reikalingų specialybių studijų programas, pasirašiusi su šiais asmenimis susitarimus.“
 
-\#### 3 straipsnis. 20 straipsnio 1, 2, 5 ir 8 dalių pakeitimas
+## 3 straipsnis. 20 straipsnio 1, 2, 5 ir 8 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vilnius
 
 „8. Pagal Krašto apsaugos ministerijos susitarimus su kitomis valstybės institucijomis ar atitinkamomis kitų valstybių institucijomis Akademijos statuto ir kitų teisės aktų nustatyta tvarka Akademijoje gali studijuoti kitų valstybės institucijų valstybės tarnautojai, taip pat gali studijuoti užsienio valstybių piliečiai.“
 
-\#### 4 straipsnis. 36 straipsnio 7, 10 dalių pakeitimas ir straipsnio papildymas 12 dalimi
+## 4 straipsnis. 36 straipsnio 7, 10 dalių pakeitimas ir straipsnio papildymas 12 dalimi
 
 1. Pakeisti 36 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -82,13 +82,13 @@ Vilnius
 
 „12. Laisvu nuo tarnybos metu, krašto apsaugos ministrui ar jo įgaliotam asmeniui leidus, profesinės karo tarnybos kariai turi teisę dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio, teikti komercinio pobūdžio paslaugas ir gauti už tai darbo užmokestį ar atlyginimą, jeigu tai nesukelia viešųjų ir privačių interesų konflikto tarnyboje, nesudaro prielaidų tarnybą panaudoti asmeniniais interesais, nediskredituoja tarnybos autoriteto, nekliudo profesinės karo tarnybos kariui tinkamai atlikti savo pareigas. Prašymai leisti dirbti kitą darbą ar teikti komercinio pobūdžio paslaugas nagrinėjami, sprendimai priimami ir atšaukiami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Sprendimas dėl leidimo dirbti kitą darbą ar teikti komercinio pobūdžio paslaugas galioja vienus metus nuo sprendimo priėmimo dienos. Sprendimą dėl leidimo profesinės karo tarnybos kariui dirbti kitą darbą priėmęs asmuo gali šį sprendimą atšaukti, jeigu atsiranda šioje dalyje nurodytos aplinkybės, dėl kurių toks leidimas negalėjo būti išduotas.“
 
-\#### 5 straipsnis. 50 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 50 straipsnio 3 dalies pakeitimas
 
 Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu karys atleidžiamas šio įstatymo 38 straipsnio 2 dalies 6, 7, 8 ir 9 punktuose nustatytais atvejais arba profesinės karo tarnybos sutartis su kariu nutraukiama prieš terminą dėl jo kaltės, pažymėjime įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą, praleidus žodį „garbingai“. Žodis „garbingai“ krašto apsaugos ministro sprendimu taip pat gali būti nerašomas, jeigu karys tarnybos metu buvo baustas už šiurkščius karių drausmės pažeidimus, už kuriuos jis nebuvo atleistas iš tarnybos.“
 
-\#### 6 straipsnis. 55 straipsnio 4 ir 6 dalių pakeitimas
+## 6 straipsnis. 55 straipsnio 4 ir 6 dalių pakeitimas
 
 1. 55 straipsnio 4 dalyje vietoj skaičių ir žodžio „12, 14 ir 15“ įrašyti skaičius ir žodį „13 ir 14“ ir šią dalį išdėstyti taip:
 
@@ -102,13 +102,13 @@ Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „6. Šio įstatymo 54 straipsnio 13 ir 14 dalyse numatytais atvejais karininkų laipsnius iki pulkininko (jūrų kapitono) imtinai suteikia krašto apsaugos ministras kariuomenės vado teikimu, o priimamiems į profesinę karo tarnybą, savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve Lietuvos Respublikos piliečiams šio įstatymo 36 straipsnio 11 dalyje numatytais atvejais – patariamosios komisijos teikimu.“
 
-\#### 7 straipsnis. 59 straipsnio 6 dalies pakeitimas
+## 7 straipsnis. 59 straipsnio 6 dalies pakeitimas
 
 59 straipsnio 6 dalyje vietoj žodžių „kol vaikui sueis treji metai“ įrašyti žodžius„Atostogos vaikui prižiūrėti profesinės karo tarnybos kariams suteikiamos darbo įstatymuose nustatytam terminui“ ir šią dalį išdėstyti taip:
 
 „6. Atostogos vaikui prižiūrėti profesinės karo tarnybos kariams darbo įstatymų nustatyta tvarka suteikiamos jų prašymu tiesioginio vado (viršininko) sprendimu. Atostogos vaikui prižiūrėti profesinės karo tarnybos kariams suteikiamos darbo įstatymuose nustatytam terminui, bet ne ilgiau, negu pasibaigs kario, kuriam suteikiamos atostogos, profesinės karo tarnybos sutarties terminas. Tarptautinių operacijų kariniuose vienetuose tarnaujantiems profesinės karo tarnybos kariams, atsižvelgiant į karinio vieneto buvimo vietą ir jo parengties reikalavimus, atostogos vaikui prižiūrėti suteikiamos ne vėliau kaip per 6 mėnesius po prašymo pateikimo dienos. Suteikus vaiko priežiūros atostogas, karys atleidžiamas iš pareigų ir perkeliamas į laikinąjį profesinės karo tarnybos personalo rezervą. Nesibaigus atostogoms karys gali grįžti į tarnybą, ne vėliau kaip prieš 14 dienų raštu apie tai įspėjęs krašto apsaugos ministrą ar jo įgaliotą vadą (viršininką). Grįžęs į tarnybą karys skiriamas į jo laipsnį atitinkančias pareigas.“
 
-\#### 8 straipsnis. 60 straipsnio 1, 6 ir 9 dalių pakeitimas
+## 8 straipsnis. 60 straipsnio 1, 6 ir 9 dalių pakeitimas
 
 1. Pakeisti 60 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „9. Išmokos ir premijos, numatytos šio straipsnio 1, 6 ir 8 dalyse, mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos mokamos iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų.“
 
-\#### 9 straipsnis. 63 straipsnio pakeitimas
+## 9 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 10. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio 4–6 dalių nuostatos netaikomos.“
 
-\#### 10 straipsnis. 64 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 64 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 64 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 4. Buvusias 64 straipsnio 6 ir 7 dalis laikyti atitinkamai 7 ir 8 dalimis.
 
-\#### 11 straipsnis. 65 straipsnio pakeitimas
+## 11 straipsnis. 65 straipsnio pakeitimas
 
 Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
@@ -190,7 +190,7 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 4. Kariuomenės padaliniuose iš Krašto apsaugos ministerijai skirtų asignavimų organizuojama ir vykdoma tik neapmokama iš Privalomojo sveikatos draudimo fondo sveikatinimo veikla, išskyrus odontologinės priežiūros (pagalbos) ir burnos priežiūros paslaugas bei sveikatinimo veiklą karinių operacijų metu.“
 
-\#### 12 straipsnis. Įstatymo papildymas 651 straipsniu
+## 12 straipsnis. Įstatymo papildymas 651 straipsniu
 
 Papildyti Įstatymą 65^1 straipsniu:
 
@@ -200,7 +200,7 @@ Papildyti Įstatymą 65^1 straipsniu:
 
 2. Reintegracija taikoma grįžusiems iš tarptautinės operacijos ar specialiosios misijos kariams, valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis. Reintegracijos tvarką nustato krašto apsaugos ministras, šios paslaugos finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.“
 
-\#### 13 straipsnis. 68 straipsnio 3 ir 6 dalių pakeitimas
+## 13 straipsnis. 68 straipsnio 3 ir 6 dalių pakeitimas
 
 1. 68 straipsnio 3 dalyje po žodžio „rezervo“ įrašyti žodžius „ir parengtojo rezervo“ ir šią dalį išdėstyti taip:
 
@@ -210,13 +210,13 @@ Papildyti Įstatymą 65^1 straipsniu:
 
 „6. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas arba jo dalis. Mokamo vidutinio atlyginimo ar jo dalies dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis. Antraisiais vaiko priežiūros metais profesinės karo tarnybos kariui mokant vidutinio jo atlyginimo dalies dydžio motinystės (tėvystės) pašalpą, jis neprivalo būti išleistas vaiko priežiūros atostogų.“
 
-\#### 14 straipsnis. 71 straipsnio 2 dalies pakeitimas
+## 14 straipsnis. 71 straipsnio 2 dalies pakeitimas
 
 Pakeisti 71 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Civilinė krašto apsaugos tarnyba nustatyta tvarka atliekama krašto apsaugos sistemos institucijose, kitose valstybės ar savivaldybių institucijose ar įstaigose, taip pat tarptautinėse ar Europos Sąjungos institucijose arba užsienio valstybių institucijose, kai tarnybinėms funkcijoms atlikti nebūtina būti profesinės karo tarnybos kariu, tačiau reikia turėti specialių žinių ir (ar) patirties krašto apsaugos sistemoje, ir tarnybos specifikai ar atliekamoms funkcijoms būtini statutiniai santykiai.“
 
-\#### 15 straipsnis. 72 straipsnio pakeitimas ir papildymas
+## 15 straipsnis. 72 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 72 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -228,13 +228,13 @@ Pakeisti 71 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3. Buvusias 72 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 4, 5 ir 6 dalimis.
 
-\#### 16 straipsnis. 77 straipsnio 2 dalies pakeitimas
+## 16 straipsnis. 77 straipsnio 2 dalies pakeitimas
 
 Pakeisti 77 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Civilinės krašto apsaugos tarnybos tarnautojams, nepriekaištingai atliekantiems tarnybines pareigas, du kartus per metus (Kalėdų ir Velykų proga) gali būti išmokamos iki vieno pareiginio atlyginimo dydžio šventinės premijos ir ne daugiau kaip kartą per metus iki vieno mėnesinio tarnybinio atlyginimo (be pareiginio priedo) premijos už pavyzdingą tarnybą, įvertinus jų tarnybinę veiklą labai gerai ar gerai. Premijos mokamos iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų. Premijų dydį, mokėjimo sąlygas ir premijavimo tvarką nustato krašto apsaugos ministras.“
 
-\#### 17 straipsnis. 772 straipsnio pakeitimas
+## 17 straipsnis. 772 straipsnio pakeitimas
 
 77^2straipsnyje vietoj skaičių ir žodžių „65 ir 67 straipsniuose“ įrašyti skaičių ir žodį „67 straipsnyje“ ir šį straipsnį išdėstyti taip:
 
@@ -242,13 +242,13 @@ Pakeisti 77 straipsnio 2 dalį ir ją išdėstyti taip:
 
 Civiliams statutiniams valstybės tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniuose vienetuose, taikomos šio įstatymo 67 straipsnyjenustatytos garantijos. Taikant šio įstatymo 67 straipsnyje nustatytas garantijas, jame nustatyto dydžio kompensacijos apskaičiuojamos pagal vidutinį žuvusio ar nukentėjusio tarnautojo darbo užmokestį.“
 
-\#### 18 straipsnis. Įstatymo įsigaliojimas
+## 18 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 19 straipsnio 3 ir 4 dalis, įsigalioja 2013 m. sausio 1 d.
 
 2. Šio įstatymo 19 straipsnio 3 dalis įsigalioja įsigaliojus šio įstatymo 19 straipsnio 4 dalyje numatytam (numatytiems) įstatymui (įstatymams).
 
-\#### 19 straipsnis. Įstatymo įgyvendinimas
+## 19 straipsnis. Įstatymo įgyvendinimas
 
 1. Asmenys, kuriems tarnybiniai butai (atskiros tarnybinės gyvenamosios patalpos) buvo suteikti iki šio įstatymo įsigaliojimo, turi teisę naudotis šiais tarnybiniais butais (atskiromis tarnybinėmis gyvenamosiomis patalpomis) vienus metus nuo šio įstatymo įsigaliojimo, bet ne ilgiau, negu jie tarnauja (dirba) krašto apsaugos sistemoje ar yra perkeliami į kitą tarnybos vietovę. Aprūpinimo tarnybiniu butu (atskira tarnybine gyvenamąja patalpa) laikotarpiu butpinigiai kariams nemokami.
 

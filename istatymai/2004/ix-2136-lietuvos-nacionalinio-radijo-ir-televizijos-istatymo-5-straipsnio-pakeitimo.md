@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F82D1F876489"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F82D1F876489.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 5 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [102-2319](https://www.e-tar.lt/portal/lt/legalAct/TAR.1559303036A8); 2000, Nr. [58-1712](https://www.e-tar.lt/portal/lt/legalAct/TAR.A84A37E84BD7))
 
-\#### 1 straipsnis. 5 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 5 straipsnio 5 dalies pakeitimas
 
 Pakeisti 5 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. LRT turi teisę transliuoti 2 televizijos ir 4 radijo programas. Šiai nuostatai įgyvendinti reikalingas teises pirmumo tvarka LRT suteikia Lietuvos radijo ir televizijos komisija Visuomenės informavimo įstatymo ir Elektroninių ryšių įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 

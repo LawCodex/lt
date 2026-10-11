@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0E189739EC80"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0E189739EC80.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 20 ir 32 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765); 2009, Nr. [61-2402](https://www.e-tar.lt/portal/lt/legalAct/TAR.43A67B9687BB); 2010, Nr. [1-6](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA); 2011, Nr. [123-5816](https://www.e-tar.lt/portal/lt/legalAct/TAR.3218F3F7DC5D))
 
-\#### 1 straipsnis. 20 straipsnio 3 ir 6 dalių pakeitimas
+## 1 straipsnis. 20 straipsnio 3 ir 6 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „6. Pastato šildymo ir karšto vandens sistemų priežiūra atliekama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Daugiabučio namo šildymo ir karšto vandens sistemų periodinius patikrinimus dėl jų atitikties nustatytiems reikalavimams ne rečiau kaip kartą per ketverius metus atlieka Valstybinė energetikos inspekcija prie Energetikos ministerijos.“
 
-\#### 2 straipsnis. 32 straipsnio 5 dalies 4 punkto pakeitimas
+## 2 straipsnis. 32 straipsnio 5 dalies 4 punkto pakeitimas
 
 Pakeisti 32 straipsnio 5 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) vadovaudamosi Valstybinės kainų ir energetikos kontrolės komisijos patvirtinta daugiabučių namų šildymo ir karšto vandens sistemų priežiūros (eksploatavimo) maksimalių tarifų nustatymo metodika – daugiabučių namų šildymo ir karšto vandens sistemų priežiūros (eksploatavimo) maksimalius tarifus.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2013 m. liepos 1 d.
 

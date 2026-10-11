@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.71D4D4ACA7A9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.71D4D4ACA7A9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kariuomenės vienetų dalyvavimo tarptautinėse operacijose ir pratybose, taip pat tarptautinių pratybų rengimo Lietuvos teritorijoje įstatymo pavadinimo, 1, 6, 8, 9, 10, 11 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [58-1133](https://www.e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A); 1996, Nr. [92-2148](https://www.e-tar.lt/portal/lt/legalAct/TAR.57B5FA190626); 1998, Nr. [17-399](https://www.e-tar.lt/portal/lt/legalAct/TAR.2A090536927A))
 
-\#### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo pavadinimo pakeitimas
 
 Pakeisti įstatymo pavadinimą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ TARPTAUTINIŲ OPERACIJŲ, KARINIŲ PRATYBŲ IR KITŲ RENGINIŲ
 
 Į S T A T Y M A S“.
 
-\#### 2 straipsnis. 1 straipsnio pakeitimas
+## 2 straipsnis. 1 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ TARPTAUTINIŲ OPERACIJŲ, KARINIŲ PRATYBŲ IR KITŲ RENGINIŲ
 
 4) kariuomenės vienetas – kiekvienas bet kokio dydžio Lietuvos ar kitos valstybės kariuomenės vienetas, vadovaujamas vieno vado ir turintis bendrą užduotį dalyvauti tarptautinėse pratybose ir kituose tarptautiniuose renginiuose bei tarptautinėse operacijose.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnio pavadinime po žodžio „rengimas“ įrašyti žodžius „kitų tarptautinių renginių organizavimas“, vietoj žodžio „jose“ įrašyti žodį „juose“, 1 punkte po žodžio „pratybos“ įrašyti žodžius „taip pat organizuojami kiti tarptautiniai renginiai“, 2 punkte po žodžio „pratybose“ įrašyti žodžius „ir kituose tarptautiniuose renginiuose“ ir visą straipsnį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Vykdant Lietuvos Respublikos tarptautines sutartis ir tarptautinio karinio bendr
 
 2) Lietuvos kariuomenės vienetai gali dalyvauti tarptautinėse pratybose ir kituose tarptautiniuose renginiuose kitų valstybių teritorijose.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 7. Siunčiamam į užsienį Lietuvos kariuomenės vienetui krašto apsaugos ministro nustatyta tvarka kariuomenės vadas išleidžia judėjimo arba kelionės įsakymą, kuriuo tvirtinamas išsivežamos ginkluotės, amunicijos ir technikos sąrašas. Šio įsakymo pagrindu Lietuvos kariuomenės vienetas išveža sąraše nurodytą turtą per Lietuvos valstybės sieną, o grįždamas įveža atgal į Lietuvos teritoriją nedeklaruodamas. Specialiąją sienos perėjimo tvarką tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 5 straipsnis. 9 straipsnio 1, 3, 4, 5 dalių papildymas
+## 5 straipsnis. 9 straipsnio 1, 3, 4, 5 dalių papildymas
 
 9 straipsnio 1 ir 3 dalyse po žodžio „pratybas“ įrašyti žodžius „ar kitus tarptautinius renginius“, 4 dalyje po žodžio „vienetai“ įrašyti žodžius „išimtinai savo vartojimui“, po žodžių „įsivežti tiek“ įrašyti žodį „amunicijos“, po žodžio „atsargų“ įrašyti žodžius „(įskaitant akcizų objektu esančias prekes)“, po žodžio „kiek“ įrašyti žodį „jiems“, po žodžio „būtina“ įrašyti žodžius „jų dalyvavimui tarptautinėse pratybose ar kituose tarptautiniuose renginiuose užtikrinti bei“, 5 dalyje po žodžio „pratybas“ įrašyti žodžius „ar kitus tarptautinius renginius“, po žodžio „mokesčių“ įrašyti žodžius „ir rinkliavų“ ir visą straipsnį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 6. Užsienio valstybių kariuomenės vienetams pereinant Lietuvos valstybės sieną, valstybės sienos kontrolės institucijų pareigūnams kilusius klausimus sprendžia krašto apsaugos ministro įgalioti atstovai.“
 
-\#### 6 straipsnis. 10 straipsnio pavadinimo, 1 ir 2 dalių papildymas bei pakeitimas
+## 6 straipsnis. 10 straipsnio pavadinimo, 1 ir 2 dalių papildymas bei pakeitimas
 
 10 straipsnio pavadinime po žodžio „pratybas“ įrašyti žodžius „ar kitus tarptautinius renginius“, 1 dalyje po žodžių „tarptautines pratybas“ įrašyti žodžius „ar kitus tarptautinius renginius“, 1 ir 2 dalyse vietoj žodžių „ar pratybas“ įrašyti žodžius „pratybas ar kitus tarptautinius renginius“ ir visą straipsnį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 3. Vykstantį kitos valstybės kariuomenės vienetą per Lietuvos teritoriją lydi Lietuvos kariuomenės vado paskirta karinė palyda, o judėjimo maršrutas ir sąlygos derinamos su Lietuvos kelių policija.“
 
-\#### 7 straipsnis. 11 straipsnio pakeitimas
+## 7 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.25CE5490BD7F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25CE5490BD7F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo 4, 39, 55-2, 55-10, 172-1, 187, 197, 198 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2003, Nr. [94-4246](https://www.e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9); 2004, Nr. [156-5688](https://www.e-tar.lt/portal/lt/legalAct/TAR.C8D4494D7A7A); 2006, Nr. [87-3409](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E60768A92C1); 2007, Nr. [125-5092](https://www.e-tar.lt/portal/lt/legalAct/TAR.1A00F937A7E3); 2009, Nr. [38-1439](https://www.e-tar.lt/portal/lt/legalAct/TAR.21603FBE2547))
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtosperdraudimo įmonės: akcinės bendrovės, uždarosios akcinės bendrovės ir Europos bendrovės (*Societas Europaea*), šio Įstatymo nustatyta tvarka gavusios perdraudimo veiklos licenciją;“.
 
-\#### 2 straipsnis. 39 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 39 straipsnio 4 dalies pakeitimas
 
 Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -42,25 +42,25 @@ Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip:
 
 3) techninių atidėjinių perdraudimo veiklai suma sudaro daugiau negu 10 procentų visos techninių atidėjinių sumos.“
 
-\#### 3 straipsnis. 552 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 552 straipsnio 1 dalies pakeitimas
 
 Pakeisti 55^2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Perdraudimo įmonės valdymui *mutatis mutandis* taikomos šio Įstatymo 20, 21 ir 27 straipsnių nuostatos.“
 
-\#### 4 straipsnis. 5510 straipsnio 6 dalies 3 punkto pakeitimas
+## 4 straipsnis. 5510 straipsnio 6 dalies 3 punkto pakeitimas
 
 55^10 straipsnio 6 dalies 3 punkte vietoj žodžio „draudimo“ įrašyti žodį „perdraudimo“ ir šį punktą išdėstyti taip:
 
 „3) perdavus teises ir pareigas pagal perdraudimo sutartis, bus išlaikyta teisės aktų reikalaujama subjektų, perimančių teises ir pareigas pagal perdraudimo sutartis, mokumo atsarga.“
 
-\#### 5 straipsnis. 1721 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 1721 straipsnio 1 dalies pakeitimas
 
 Pakeisti 172^1straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Subjektai, nurodyti šio Įstatymo 3 straipsnio 1 dalies 1 ir 3 punktuose, 4 straipsnio 1 dalies 1 ir 3 punktuose ir 5 straipsnio 2 dalies 1 punkte, taip pat 5 straipsnio 2 dalies 3 punkte nurodyti užsienio valstybių nepriklausomų draudimo tarpininkų filialai turi teisę verstis perdraudimo tarpininkavimo veikla tik kai Priežiūros komisija jos nustatyta tvarka įrašo juos į Priežiūros komisijos tvarkomą perdraudimo tarpininkų sąrašą. Perdraudimo tarpininkų sąrašas skelbiamas Priežiūros komisijos interneto tinklalapyje.“
 
-\#### 6 straipsnis. 187 straipsnio pakeitimas
+## 6 straipsnis. 187 straipsnio pakeitimas
 
 Pakeisti 187 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 187 straipsnį ir jį išdėstyti taip:
 
 4. Už praleistą terminą į Priežiūros komisijos sąskaitą draudimo įmonės, perdraudimo įmonės, kitų Europos Sąjungos valstybių narių draudimo ar perdraudimo įmonių filialai ir užsienio valstybių draudimo ar perdraudimo įmonių filialai privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Priežiūros komisijos ieškiniams dėl delspinigių išieškojimo taikomas 5 metų ieškinio senaties terminas. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą atskaitymų sumą.“
 
-\#### 7 straipsnis. 197 straipsnio 10 ir 12 punktų pakeitimas
+## 7 straipsnis. 197 straipsnio 10 ir 12 punktų pakeitimas
 
 1. Pakeisti 197 straipsnio 10 punktą ir jį išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 187 straipsnį ir jį išdėstyti taip:
 
 „12) esant šio Įstatymo 19 straipsnio 2 dalies 1, 2, 4–7 punktuose, 66 straipsnio 2 dalies 1, 2, 4–11 punktuose, 150 straipsnio 2 dalies 1, 2, 4, 5 punktuose ar 179 straipsnio 2 dalies 1, 2, 4, 5 punktuose nustatytiems pagrindams, panaikinti draudimo veiklos licencijos, perdraudimo veiklos licencijos, licencijos draudimo brokerių įmonės veiklai, leidimo užsienio valstybės draudimo ar perdraudimo įmonės filialo draudimo veiklai ar kitos užsienio valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje galiojimą, visam laikui uždrausti priklausomam draudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą.“
 
-\#### 8 straipsnis. 198 straipsnio papildymas 6 dalimi
+## 8 straipsnis. 198 straipsnio papildymas 6 dalimi
 
 Papildyti 198 straipsnį 6 dalimi:
 

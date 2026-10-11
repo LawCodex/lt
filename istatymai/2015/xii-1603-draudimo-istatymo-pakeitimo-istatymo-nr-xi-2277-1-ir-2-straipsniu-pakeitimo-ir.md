@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b606e370e4f611e4a4809231b4b55019"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B606E370E4F6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymo Nr. XI-2277 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 4 ir 5 straipsniais įstatymas
@@ -26,7 +26,7 @@ DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMO NR. XI-2277 1 IR 2 STRAIPSNIŲ PAKEITIMO 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio 25 dalį ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „74. **Rinkos rizika** – nuostolių arba nepalankių finansinės padėties pokyčių rizika, atsirandanti tiesiogiai ar netiesiogiai dėl turto, įsipareigojimų ir finansinių priemonių rinkos kainų lygio ir jų kintamumo svyravimo.“
 
-\#### 2 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 19 straipsnio pakeitimas
+## 2 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 19 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Gyvybės draudimo veiklą vykdanti draudimo įmonė, ketinanti vykdyti ne gyvybės draudimo šakai priklausančių šio įstatymo 7 straipsnio 3 dalies 1 ir 2 punktuose nurodytų draudimo grupių draudimo veiklą, arba šio įstatymo 7 straipsnio 3 dalies 1 ir 2 punktuose nurodytų ne gyvybės draudimo grupių veiklą vykdanti draudimo įmonė, ketinanti vykdyti gyvybės draudimo šakai priklausančių šio įstatymo 7 straipsnio 2 dalyje nurodytų draudimo grupių veiklą, privalo priežiūros institucijai pateikti dokumentus, kuriais įrodoma, kad draudimo įmonės tinkamos pagrindinės nuosavos lėšos minimalaus kapitalo reikalavimui padengti atitinka gyvybės draudimo įmonių minimalaus kapitalo reikalavimo absoliučią mažiausiąją ribą ir ne gyvybės draudimo įmonių minimalaus kapitalo reikalavimo absoliučią mažiausiąją ribą, kaip nurodyta šio įstatymo 40 straipsnio 4 dalies 5 punkte, ir įsipareigoja ir toliau vykdyti šiuos minimalius finansinius įsipareigojimus.“
 
-\#### 3 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 26 straipsnio pakeitimas
+## 3 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 26 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimoįstatymo 26 straipsnį ir jį išdėstyti taip:
 
@@ -126,19 +126,19 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimoįstatymo 26 str
 
 22. Draudimo ar perdraudimo įmonė turi paskirti asmenį, atsakingą už rizikos valdymo funkcijos įgyvendinimą. Asmens funkcijas, teises, pareigas ir atsakomybę nustato draudimo ar perdraudimo įmonės vidaus teisės aktai, draudimo ar perdraudimo įmonės ir paslaugų teikėjo (veiklos rangos) sutartis, jeigu šioms funkcijoms atlikti pasitelkiamas trečiasis asmuo.“
 
-\#### 4 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 27 straipsnio pakeitimas
+## 4 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 27 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 27 straipsnio 1 dalies 9 punktą ir jį išdėstyti taip:
 
 „9) prisidėjimą prie veiksmingo rizikos valdymo sistemos įgyvendinimo, visų pirma tiek, kiek tai susiję su rizikos modeliavimu, kuriuo grindžiamas mokumo kapitalo ir minimalaus kapitalo reikalavimų skaičiavimas, ir prie draudimo ar perdraudimo įmonės savo rizikos ir mokumo vertinimo.“
 
-\#### 5 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 straipsnio pakeitimas
+## 5 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti draudimo ar perdraudimo įmonės pasitelkto kitos Europos ekonominės erdvės valstybės asmens patikrinimą. Priežiūros institucija turi teisę, informavusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48) (toliau – Reglamentas (ES) Nr. 1094/2010), 19 straipsnį, kai priežiūros institucijai neleidžiama pasinaudoti teise atlikti patikrinimą.“
 
-\#### 6 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 40 straipsnio pakeitimas
+## 6 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 40 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 40 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 st
 
 „5. Draudimo ar perdraudimo įmonė privalo apskaičiuoti minimalaus kapitalo reikalavimą ne rečiau kaip kas ketvirtį, nuolat stebėti ir užtikrinti minimalaus kapitalo reikalavimo padengimą tinkamomis pagrindinėmis nuosavomis lėšomis ir informuoti priežiūros instituciją apie apskaičiuotą minimalaus kapitalo reikalavimą ir jo padengimą. Draudimo ar perdraudimo įmonė, apskaičiuodama minimalaus kapitalo reikalavimą pagal šio straipsnio 3 dalies nuostatas, neprivalo mokumo kapitalo reikalavimo apskaičiuoti kas ketvirtį, tačiau jį apskaičiuoja ne rečiau, negu nustatyta šio įstatymo 37 straipsnio 8 dalyje.“
 
-\#### 7 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 41 straipsnio pakeitimas
+## 7 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 41 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 41 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 st
 
 „1. Draudimo ar perdraudimo įmonė privalo skaičiuoti techninius atidėjinius, atsižvelgdama į visus savo įsipareigojimus pagal draudimo ir perdraudimo sutartis.“
 
-\#### 8 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 42 straipsnio pakeitimas
+## 8 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 42 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -186,7 +186,7 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 st
 
 „11. Įsipareigojimus pagal gyvybės draudimo sutartis, susijusias su investiciniais fondais, dengiantis turtas investuojamas laikantis apdairumo principo ir taisyklių, nustatytų priežiūros institucijos teisės aktuose.“
 
-\#### 9 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 45 straipsnio pakeitimas
+## 9 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 45 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 45 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -200,13 +200,13 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 30 st
 
 „5. Šio straipsnio 4 dalyje minimas termino pratęsimas turi būti atšauktas, jeigu draudimo ar perdraudimo įmonė nuo momento, kai pastebėtas mokumo kapitalo reikalavimo nevykdymas, iki pažangos ataskaitos pateikimo nepadarė esminės pažangos, kad būtų įvykdytas mokumo kapitalo reikalavimas.“
 
-\#### 10 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 46 straipsnio pakeitimas
+## 10 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 46 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 46 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Draudimo ar perdraudimo įmonė, pastebėjusi, kad nevykdo minimalaus kapitalo reikalavimo, privalo per vieną mėnesį pateikti priežiūros institucijos nustatytos formos ir pagal nustatytus reikalavimus parengtą pagrįstą trumpalaikį finansinės būklės atkūrimo planą, kad per 3 mėnesius nuo to laiko, kai buvo pastebėta, kad nesilaikoma minimalaus kapitalo reikalavimo, minimalaus kapitalo reikalavimas būtų padengtas tinkamomis draudimo ar perdraudimo įmonės nuosavomis lėšomis arba, siekiant užtikrinti minimalaus kapitalo reikalavimo vykdymą, būtų sumažintas draudimo ar perdraudimo įmonės rizikos pobūdis. Trumpalaikis finansinės būklės atkūrimo planas turi būti suderintas su priežiūros institucija.“
 
-\#### 11 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 48 straipsnio pakeitimas
+## 11 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 48 straipsnio pakeitimas
 
 1. Papildyti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 48 straipsnio 1 dalį 4 punktu:
 
@@ -218,25 +218,25 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 46 st
 
 3. Pripažinti netekusia galios 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 48 straipsnio 7 dalį.
 
-\#### 12 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 51 straipsnio pakeitimas
+## 12 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 51 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstytoLietuvos Respublikos draudimo įstatymo 51 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Perdraudimo sutartys, sudarytos su įmonėmis, kurių pagrindinės buveinės yra trečiosiose valstybėse, kurių mokumo sistema pripažįstama lygiaverte šiame įstatyme nustatytai mokumo sistemai ir kurių sąrašas skelbiamas Europos draudimo ir profesinių pensijų institucijos interneto svetainėje, vertinamos taip pat, kaip ir perdraudimo sutartys, sudarytos su įmonėmis, gavusiomis licenciją pagal šį įstatymą.“
 
-\#### 13 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 59 straipsnio pakeitimas
+## 13 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 59 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimoįstatymo 59 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) grupės lygiu nėra šio įstatymo 48 straipsnio 1 dalyje nurodytų aplinkybių;“.
 
-\#### 14 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 62 straipsnio pakeitimas
+## 14 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 62 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 62 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Grupės priežiūros institucija turi teisę leisti, kad dalyvaujanti draudimo ar perdraudimo įmonė, draudimo kontroliuojančioji įmonė ar mišrios veiklos finansų kontroliuojančioji įmonė, atlikdama savos rizikos ir mokumo vertinimą grupės lygiu, apimtų ir patronuojamosios draudimo ar perdraudimo įmonės savo rizikos ir mokumo vertinimą ir parengtų vieną bendrą dokumentą.“
 
-\#### 15 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 63 straipsnio pakeitimas
+## 15 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 63 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 63 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -250,13 +250,13 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 62 st
 
 „6. Jeigu bendras priežiūros institucijų sprendimas nėra priimamas, grupės priežiūros funkcijas atlieka institucija, nustatoma pagal šio straipsnio 3 dalyje nurodytus kriterijus.“
 
-\#### 16 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 64 straipsnio pakeitimas
+## 16 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 64 straipsnio pakeitimas
 
 Papildyti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 64 straipsnį 4 dalimi:
 
 „4. Draudimo ir perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ir mišrios veiklos draudimo kontroliuojančiosios įmonės, vadovaudamosi 2014 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2015/35, kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), kiekvienais metais viešai atskleidžia grupės valdymo ir organizacinę struktūrą, apimdamos visas grupei priklausančias patronuojamąsias įmones, susijusias įmones ir svarbius filialus.“
 
-\#### 17 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 65 straipsnio pakeitimas
+## 17 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 65 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 65 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -266,7 +266,7 @@ Papildyti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 64 s
 
 „4. Europos draudimo ir profesinių pensijų institucija gali naudotis teise dalyvauti atliekant patikrinimą, kai jį atlieka dvi ar daugiau priežiūros institucijų.“
 
-\#### 18 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo papildymas 691 straipsniu
+## 18 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo papildymas 691 straipsniu
 
 Papildyti 1 straipsnyje išdėstytą Lietuvos Respublikos draudimo įstatymą 69^1 straipsniu:
 
@@ -276,7 +276,7 @@ Papildyti 1 straipsnyje išdėstytą Lietuvos Respublikos draudimo įstatymą 69
 
 2. Pateikdama informaciją apie šio įstatymo 7 straipsnio 3 dalies 10 punkte numatytos draudimo grupės (išskyrus vežėjų civilinės atsakomybės draudimą) veiklą, draudimo įmonė taip pat informuoja apie draudimo išmokų dažnumą ir joms skirtų išlaidų vidurkį.“
 
-\#### 19 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 200 straipsnio pakeitimas
+## 19 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 200 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 200 straipsnio 14 punktą ir jį išdėstyti taip:
 
@@ -284,7 +284,7 @@ Papildyti 1 straipsnyje išdėstytą Lietuvos Respublikos draudimo įstatymą 69
 
 2. Pripažinti netekusiu galios 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 200 straipsnio 15 punktą.
 
-\#### 20 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 203 straipsnio pakeitimas
+## 20 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 203 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 203 straipsnio 7 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -310,13 +310,13 @@ Papildyti 1 straipsnyje išdėstytą Lietuvos Respublikos draudimo įstatymą 69
 
 „12. Šio straipsnio 3, 4, 6 dalys ir 7 dalies 4 ir 10 punktai nedaro poveikio Europos Parlamento tyrimo įgaliojimams, suteiktiems pagal Sutarties dėl Europos Sąjungos veikimo 226 straipsnį.“
 
-\#### 21 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 209 straipsnio pakeitimas
+## 21 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 209 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 209 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Jeigu paaiškėja, kad šio straipsnio 5 dalyje numatytos priemonės nėra pakankamos pažeidimams pašalinti, priežiūros institucija, prieš tai įspėjusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, turi teisę taikyti poveikio priemones, numatytas šio straipsnio 4 dalies 2, 4 ir 5 punktuose. Kai neatidėliotinai būtina, priežiūros institucija taiko šias poveikio priemones neatsižvelgdama į šio straipsnio 5 dalies nuostatas. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 19 straipsnį.“
 
-\#### 22 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 212 straipsnio pakeitimas
+## 22 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 212 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 212 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -330,7 +330,7 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 209 s
 
 „8. Europos draudimo ir profesinių pensijų institucija gali naudotis teise dalyvauti atliekant patikrinimą, kai jį atlieka dvi ar daugiau priežiūros institucijų.“
 
-\#### 23 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo VIII skyriaus trečiojo skirsnio pavadinimo pakeitimas
+## 23 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo VIII skyriaus trečiojo skirsnio pavadinimo pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo VIII skyriaus trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -338,7 +338,7 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo VIII 
 
 **BENDRADARBIAVIMAS SU KOMISIJA, EUROPOS DRAUDIMO IR PROFESINIŲ PENSIJŲ INSTITUCIJA IR KITŲ EUROPOS EKONOMINĖS ERDVĖS VALSTYBIŲ PRIEŽIŪROS INSTITUCIJOMIS**“.
 
-\#### 24 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 214 straipsnio pakeitimas
+## 24 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 214 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 214 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -376,7 +376,7 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo VIII 
 
 12) kiekvienais metais apie grupių, kurioms sumažinti reguliariai priežiūros tikslais teikiamų ataskaitų reikalavimai, skaičių ir šių grupių mokumo kapitalo reikalavimus, draudimo įmokas, techninius atidėjinius ir turtą, išreikštus procentais atitinkamai nuo visų grupių mokumo kapitalo reikalavimų, draudimo įmokų, techninių atidėjinių ir turto.“
 
-\#### 25 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 216 straipsnio pakeitimas
+## 25 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 216 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 216 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -390,17 +390,17 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo VIII 
 
 2) trečiosios valstybės juridinio asmens ar asmenų įgytas draudimo ar perdraudimo įmonės akcijas, jeigu ši įmonė tampa patronuojamąja draudimo ar perdraudimo įmone.“
 
-\#### 26 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 223 straipsnio pripažinimas netekusiu galios
+## 26 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 223 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 223 straipsnį.
 
-\#### 27 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo priedo pakeitimas
+## 27 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo priedo pakeitimas
 
 Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo priedo 14 punktą ir jį išdėstyti taip:
 
 „14. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/51/ES (OL 2014 L 153, p. 1).“
 
-\#### 28 straipsnis. 2 straipsnio pakeitimas
+## 28 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -408,7 +408,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Šis įstatymas, išskyrus šio įstatymo 3 ir 4 straipsnius ir 5 straipsnio 9 dalį, įsigalioja 2016 m. sausio 1 d.“
 
-\#### 29 straipsnis. Įstatymo papildymas 4 straipsniu
+## 29 straipsnis. Įstatymo papildymas 4 straipsniu
 
 Papildyti Įstatymą 4 straipsniu:
 
@@ -426,7 +426,7 @@ Papildyti Įstatymą 4 straipsniu:
 
 6. Priežiūros institucija iki 2016 m. sausio 1 d. informuoja Europos draudimo ir profesinių pensijų instituciją šios nustatyta tvarka apie grupės, į kurią įeina patronuojamoji draudimo ar perdraudimo įmonė, struktūrą, jeigu veiklos licencija išduota draudimo ar perdraudimo įmonei, kuri tiesiogiai ar netiesiogiai yra trečiosios valstybės juridinio asmens ar asmenų patronuojamoji įmonė ir trečiosios valstybės juridinio asmens ar asmenų įgytas draudimo ar perdraudimo įmonės akcijas, jeigu ši įmonė tampa patronuojamąja draudimo ar perdraudimo įmone.“
 
-\#### 30 straipsnis. Įstatymo papildymas 5 straipsniu
+## 30 straipsnis. Įstatymo papildymas 5 straipsniu
 
 Papildyti įstatymą 5 straipsniu:
 

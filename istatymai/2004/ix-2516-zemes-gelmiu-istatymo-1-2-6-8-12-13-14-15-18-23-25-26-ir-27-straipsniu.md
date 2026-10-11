@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.746E5B0683A6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.746E5B0683A6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [63-1582](https://www.e-tar.lt/portal/lt/legalAct/TAR.13E108ED3981); 2001, Nr. [35-1164](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC99661E0C1C))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 1 straipsnyje vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupių, veikiančių pagal jungtinės veiklos sutartis“, straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 2. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“ ir visą straipsnį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 Žemės gelmės sausumoje ir vidaus vandenyse yra išimtinė valstybės nuosavybė, o kontinentiniame šelfe ir ekonominėje zonoje Baltijos jūroje valstybei priklauso išimtinės teisės į žemės gelmes. Žemės gelmių naudojimo pagrindas yra naudojimosi teisė, kurią šio įstatymo ir kitų įstatymų nustatyta tvarka juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, gali suteikti Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 4. Apie leidimo tirti žemės gelmes išdavimą arba panaikinimą skelbiama „Valstybės žinių“ priede „Informaciniai pranešimai“.“
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 4. Naudingųjų iškasenų ir požeminio geriamojo gėlo (išskyrus pavienių gręžtinių šulinių) bei mineralinio vandens ištekliai, neatsižvelgiant į tai, kieno lėšomis jie tiriami, klasifikuojami pagal Vyriausybės įgaliotos institucijos patvirtintą išteklių klasifikaciją. Išžvalgytus išteklius aprobuoja Lietuvos geologijos tarnyba jos nustatyta tvarka.“
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas
+## 5 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 8. Žemės savininkas ar naudotojas nuosavybės teise priklausančiame, suteiktame naudoti ar nuomojamame žemės sklype savo ūkio reikmėms (ne pardavimui) turi teisę be šio straipsnio 1 dalyje nurodyto leidimo naudoti žemės gelmių išteklius kitų įstatymų bei teisės aktų nustatyta tvarka.“
 
-\#### 6 straipsnis. 13 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 6 straipsnis. 13 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 13 straipsnio 1 dalyje išbraukti žodžius „juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių“, 2 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“, 3 ir 4 dalyse išbraukti žodžius „juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių“ ir visą straipsnį išdėstyti taip:
 
@@ -122,13 +122,13 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 6. Apie leidimo naudoti žemės gelmių išteklius ir ertmes išdavimą ar jo panaikinimą juos išduodanti institucija skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.“
 
-\#### 7 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 14 straipsnio 1 dalies pirmame sakinyje vietoj skaičiaus „6“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip:
 
 „1. Naudoti žemės gelmių išteklius ir ertmes, išskyrus ertmes radioaktyviosioms ir toksiškoms medžiagoms laikyti ar laidoti, požeminį geriamąjį gėlą ir gamybinį vandenį, šiluminę energiją bei 12 straipsnio 8 dalyje numatytus atvejus, galima tik pagal žemės gelmių išteklių arba ertmių naudojimo projektą (toliau – naudojimo projektas). Šis projektas turi būti suderintas su vietos savivaldos vykdomąja institucija, apskrities viršininku, valstybine darbo inspekcija ir patvirtintas Aplinkos ministerijos arba jos įgaliotos institucijos.“
 
-\#### 8 straipsnis. 15 straipsnio pakeitimas
+## 8 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnio 3 ir 4 dalyse prieš žodį „naudojimo“ įrašyti žodžius „išteklių ar ertmių“ ir šias dalis išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 4. Naudojant žemės gelmių išteklius, būtina stebėti jų būklę, prognozuoti kiekio ir kokybės kaitą, tvarkyti išgaunamų ir liekančių telkinyje išteklių apskaitą, ūkio subjektams vykdyti žemės gelmių monitoringą, jeigu tai yra numatyta išteklių ar ertmių naudojimo sutartyje, ir nustatyta tvarka teikti duomenis Žemės gelmių registrui.“
 
-\#### 9 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
+## 9 straipsnis. 18 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 18 straipsnio 1 dalyje prieš žodį „naudojimo“ įrašyti žodžius „išteklių ar ertmių“ ir šią dalį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 6) veikia kaip asmenų grupė ir pasibaigia sudaryta jungtinės veiklos sutartis.“
 
-\#### 10 straipsnis. 23 straipsnio pakeitimas
+## 10 straipsnis. 23 straipsnio pakeitimas
 
 23 straipsnyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis“ ir šį straipsnį išdėstyti taip:
 
@@ -166,7 +166,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 
 Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, privalo nemokamai teikti Lietuvos geologijos tarnybai jos nustatyta tvarka duomenis apie žemės gelmes, gautus jų atliekamų žemės gelmių tyrimų ir jų išteklių naudojimo metu, išskyrus ne valstybės lėšomis atliktų netiesioginių tyrimų duomenis.“
 
-\#### 11 straipsnis. 25 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
+## 11 straipsnis. 25 straipsnio 1, 2, 3 ir 4 dalių pakeitimas
 
 25 straipsnio 1 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“, 2 ir 3 dalyse vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis“, 4 dalyje vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupių, veikiančių pagal jungtinės veiklos sutartis“ ir visą straipsnį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jun
 
 7. Geologinės kolekcijos, muziejų geologiniai eksponatai, gręžinių kernas ar jo mėginiai gali būti išvežti iš Lietuvos Respublikos tik gavus Lietuvos geologijos tarnybos leidimą, išduotą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
-\#### 12 straipsnis. 26 straipsnio pakeitimas
+## 12 straipsnis. 26 straipsnio pakeitimas
 
 26 straipsnyje vietoj žodžių „įmonės, neturinčios juridinio asmens teisių, pažeidę“ įrašyti žodžius „šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, pažeidusios“ ir šį straipsnį išdėstyti taip:
 
@@ -194,13 +194,13 @@ Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jun
 
 Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, pažeidusios Žemės gelmių įstatymą, atsako įstatymų nustatyta tvarka.“
 
-\#### 13 straipsnis. 27 straipsnio 1 dalies pakeitimas
+## 13 straipsnis. 27 straipsnio 1 dalies pakeitimas
 
 27 straipsnio 1 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“ ir šią dalį išdėstyti taip:
 
 „1. Valstybei padaryta žala juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, naudojant žemės gelmes, kai dėl to sumažėja jų ištekliai ar pablogėja jų naudojimo sąlygos, pasikeičia vertingosios savybės arba kiti aplinkos elementai, turi būti atlyginta.“
 
-\#### 14 straipsnis. Įstatymo papildymas priedu
+## 14 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -214,7 +214,7 @@ priedas
 
 1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/22/EB dėl leidimų žvalgyti, tirti ir išgauti angliavandenilius išdavimo ir naudojimo sąlygų.“
 
-\#### 15 straipsnis. Pasiūlymas Vyriausybei
+## 15 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė per du mėnesius nuo šio įstatymo įsigaliojimo parengia ir patvirtina šio įstatymo lydimuosius teisės aktus.
 

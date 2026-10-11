@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.45BC14BF2697"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.45BC14BF2697.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo 2 straipsnio pakeitimo ir papildymo 7(1) straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210) )
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. 2 straipsnio 2 ir 3 dalyje po žodžių „bet dar negrąžintos“ įrašyti žodžius „taip pat pagal šį įstatymą įsteigtos garantijų institucijos neįvykdytų įsipareigojimų pagal suteiktas garantijas bankams suma“ ir šias dalis išdėstyti taip:
 
@@ -52,7 +52,7 @@ Vilnius
 
 16. Paskolos valiuta – užsienio ar vidaus valiuta, kuria skolininkas turi grąžinti paskolą, mokėti palūkanas ir kitas įmokas, numatytas paskolos sutartyje.“
 
-\#### 2 straipsnis. Įstatymo papildymas 71 straipsniu
+## 2 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1 straipsniu:
 

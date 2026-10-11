@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.561A01E330CB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.561A01E330CB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 40 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE); 2006, Nr. [87-3412](https://www.e-tar.lt/portal/lt/legalAct/TAR.43029F53D340))
 
-\#### 1 straipsnis. 40 straipsnio 3 ir 5 dalių pakeitimas
+## 1 straipsnis. 40 straipsnio 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 40 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „5. Ar pareigūno mirtis, susižalojimas, sužalojimas arba sveikatos sutrikdymas yra susijęs su tarnybinių pareigų atlikimu ar pareigūno statusu, o kursanto – su profesiniu ar įvadiniu mokymu, taip pat ar tarnybinių pareigų atlikimas, profesinis ar įvadinis mokymas susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno ar kursanto gyvybei ar sveikatai, taip pat kompensacijos dydis lengvo sveikatos sutrikdymo atveju nustatoma vidaus reikalų ministro nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Pareigūnui, kuris buvo sužalotas, susižalojo arba jo sveikata buvo sutrikdyta iki šio įstatymo įsigaliojimo, taikomos Vidaus tarnybos statuto 40 straipsnio 3 dalies nuostatos, galiojusios iki šio įstatymo įsigaliojimo.
 

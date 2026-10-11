@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/146da500e55b11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.146DA500E55B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 24 straipsnio pakeitimo įstatymas
@@ -26,13 +26,13 @@ AVIACIJOS ĮSTATYMO NR. VIII-2066 24 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 24 straipsnio pakeitimas
+## 1 straipsnis. 24 straipsnio pakeitimas
 
 Papildyti 24 straipsnį 15 dalimi:
 
 „15. Civiliniai orlaiviai, kuriems nustatyta privaloma teisinė registracija Lietuvos Respublikos civilinių orlaivių registro informacinėje sistemoje, nėra prilyginami nekilnojamiesiems daiktams.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

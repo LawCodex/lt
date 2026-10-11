@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/987474520fc811f08e9f87c0d053bf09"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.987474520FC8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymo Nr. XIV-3094 2 straipsnio pakeitimo įstatymas

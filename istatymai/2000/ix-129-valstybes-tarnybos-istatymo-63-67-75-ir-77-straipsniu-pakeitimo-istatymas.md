@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0F34BB8F50CA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0F34BB8F50CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 63, 67, 75 ir 77 straipsnių pakeitimo įstatymas
@@ -28,31 +28,31 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B))
 
-\#### 1 straipsnis. 63 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 63 straipsnio 2 dalies pakeitimas
 
 63 straipsnio 2 dalyje vietoj žodžių „Valdymo reformų ir savivaldybių ministerijai“ įrašyti žodžius „Vidaus reikalų ministerijai“ ir šią dalį išdėstyti taip:
 
 „2. Suklasifikuotų pareigybių sąrašai, patvirtinti šio įstatymo 8 straipsnyje nustatytų institucijų, ne vėliau kaip per 6 mėnesius nuo šio įstatymo įsigaliojimo perduodami Vidausreikalų ministerijai bei Valstybės tarnautojų registrui.“
 
-\#### 2 straipsnis. 67 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 67 straipsnio 1 dalies pakeitimas
 
 67 straipsnio 1 dalyje vietoj žodžių „Valdymo reformų ir savivaldybių reikalų ministerijos“ įrašyti žodžius „už valstybės tarnybą atsakingo ministro“ ir šią dalį išdėstyti taip:
 
 „1. Iki Vyriausybė ar jos įgaliota institucijanustatys priėmimo į valstybės tarnybą viešų ir uždarų konkursų organizavimo tvarką, bet ne ilgiau kaip 2 metus nuo šio įstatymo įsigaliojimo, konkursus rengia valstybės institucijos, įstaigos ir savivaldybės už valstybės tarnybą atsakingo ministro nustatyta tvarka. Konkursus organizuoja už personalo valdymą atsakingi asmenys.“
 
-\#### 3 straipsnis. 75 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 75 straipsnio 2 dalies pakeitimas
 
 75 straipsnio 2 dalyje vietoj žodžių „valdymo reformų ir savivaldybių reikalų ministras“ įrašyti žodžius „už valstybės tarnybą atsakingas ministras“ ir šią dalį išdėstyti taip:
 
 „2. Per 3 metus parengiami valstybės tarnautojų pažymėjimai. Pažymėjimų pavyzdžius tvirtina už valstybės tarnybą atsakingasministras.“
 
-\#### 4 straipsnis. 77 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 77 straipsnio 2 dalies pakeitimas
 
 77 straipsnio 2 dalyje vietoj žodžių „valdymo reformų ir savivaldybių reikalų ministro“ įrašyti žodžius „už valstybės tarnybą atsakingo ministro“ ir šią dalį išdėstyti taip:
 
 „2. Po šio įstatymo įsigaliojimo Valstybės tarnautojų registras 3 metus tvarkomas pagal už valstybės tarnybą atsakingo ministro patvirtintus laikinuosius nuostatus.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8bd5dcb00a9e11e9a5eaf2cd290f1944"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8BD5DCB00A9E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 33, 64, 99, 108, 109, 127, 132, 137, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 188, 189, 190, 191, 192, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 217-1, 218, 426, 505, 546, 589, 599, 610, 613, 665 straipsnių pakeitimo ir Kodekso papildymo 49-1, 209-1 straipsniais įstatymas

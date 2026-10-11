@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.49B87F32AD0E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.49B87F32AD0E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 7 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [105-2393](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F); 2000, Nr. [75-2267](https://www.e-tar.lt/portal/lt/legalAct/TAR.6E0FCC1A8975), Nr. [85-2585](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AF91E2599F0))
 
-\#### 1 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalyje išbraukti žodžius „ir nustatyta tvarka gavę Aplinkos ministerijos ar jos įgaliotos institucijos leidimus naudoti vandens telkinius laivybai“ ir šią dalį išdėstyti taip:
 

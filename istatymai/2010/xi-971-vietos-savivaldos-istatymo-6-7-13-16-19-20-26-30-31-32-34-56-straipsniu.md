@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C6D81071DC40"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C6D81071DC40.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 13, 16, 19, 20, 26, 30, 31, 32, 34, 56 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2008, Nr. [113-4290](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF599A1A6DD5), Nr. [137-5379](https://www.e-tar.lt/portal/lt/legalAct/TAR.18F4EB30E002); 2009, Nr. [77-3165](https://www.e-tar.lt/portal/lt/legalAct/TAR.C30DB229877B), Nr. [159-7206](https://www.e-tar.lt/portal/lt/legalAct/TAR.E88921718FB6); 2010, Nr. [25-1177](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CDF7CF05F4F), Nr. [51-2480](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2EB5CBFF6C7))
 
-\#### 1 straipsnis. 6 straipsnio 6, 8, 9, 11, 21 ir 27 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 6, 8, 9, 11, 21 ir 27 punktų pakeitimas
 
 1. Pakeisti 6 straipsnio 6 punktą ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „27) adresų (gatvių, pastatų, statinių ir kitų savivaldybės teritorijoje esančių ir jai nuosavybės teise priklausančių objektų pavadinimų, pastatų ir šių pastatų butų ar patalpųnumerių) suteikimas ir keitimas;“.
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 7 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 7 straipsnį nauju 7 punktu:
 
@@ -74,13 +74,13 @@ Vilnius
 
 7. Buvusį 7 straipsnio 33 punktą laikyti 36 punktu.
 
-\#### 3 straipsnis. 13 straipsnio 9 dalies pakeitimas
+## 3 straipsnis. 13 straipsnio 9 dalies pakeitimas
 
 Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia mero balsas. Jeigu meras posėdyje nedalyvauja, o balsai pasiskirsto po lygiai, laikoma, kad sprendimas nepriimtas.Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai renkamas meras, skiriamas mero pavaduotojas, administracijos direktorius, administracijos direktoriaus pavaduotojai, sprendžiamas nepasitikėjimo meru, mero pavaduotojais, kolegija, kitų personalijų klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai renkamas meras, skiriamas mero pavaduotojas, administracijos direktorius, administracijos direktoriaus pavaduotojai, sprendžiamas nepasitikėjimo meru, mero pavaduotojais, kolegija, kitų personalijų klausimas, yra vieši.Tarybos narių balsavimo rezultatai yra saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto tinklalapyje.“
 
-\#### 4 straipsnis. 16 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
+## 4 straipsnis. 16 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 16 straipsnio 2 dalies 13 punktą ir jį išdėstyti taip:
 
@@ -102,31 +102,31 @@ Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „12) sprendimų dėl pagrindinės žemės naudojimo paskirties keitimo priėmimas teisės aktų nustatytais atvejais ir tvarka.“
 
-\#### 5 straipsnis. 19 straipsnio 12 dalies pakeitimas
+## 5 straipsnis. 19 straipsnio 12 dalies pakeitimas
 
 19 straipsnio 12 dalies pirmame sakinyje po žodžių „savivaldybės tarybos“ įrašyti žodžius „ar jos įgalioto asmens“ ir šią dalį išdėstyti taip:
 
 „12. Merui ir mero pavaduotojui atostogos suteikiamos savivaldybės tarybos ar jos įgalioto asmenssprendimu reglamento nustatyta tvarka. Meras ir mero pavaduotojas turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias atostogas. Vadovaujantis Darbo kodekso nuostatomis, merui ir mero pavaduotojui gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos. Nemokamos atostogos dėl dalyvavimo Seimo, Respublikos Prezidento rinkimuose, rinkimuose į Europos Parlamentą ar savivaldybių tarybų rinkimuose suteikiamos įstatymų nustatyta tvarka. Atostogų metu meras ir mero pavaduotojas neatlieka mero ar mero pavaduotojo pareigų, tačiau gali atlikti tarybos nario pareigas.“
 
-\#### 6 straipsnis. 20 straipsnio 2 dalies 14 punkto pakeitimas
+## 6 straipsnis. 20 straipsnio 2 dalies 14 punkto pakeitimas
 
 Pakeisti 20 straipsnio 2 dalies 14 punktą ir jį išdėstyti taip:
 
 „14) pagal savivaldybės tarybos nustatytą tvarką reprezentacijos reikmėms naudoja mero fondo lėšas ir už jas atsiskaito.“
 
-\#### 7 straipsnis. 26 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 26 straipsnio 2 dalies pakeitimas
 
 Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Tarybos nariui su jo,kaip tarybos nario, veikla susijusioms kanceliarijos, pašto, telefono, interneto ryšio,transporto paslaugoms, kiek jų nesuteikia ar tiesiogiai neapmoka savivaldybės administracija, apmokėti kas mėnesį gali būti skiriamaišmoka atsiskaitytinai.Šiosišmokos dydis ir atsiskaitymo tvarka nustatoma reglamente.“
 
-\#### 8 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Savivaldybės administracija yra savivaldybės įstaiga, kurią sudaro struktūriniai padaliniai, į struktūrinius padalinius neįeinantys valstybės tarnautojai ir savivaldybės administracijos filialai – seniūnijos(savivaldybės administracijos struktūriniai teritoriniai padaliniai). Savivaldybės administracijos struktūrą, jos veiklos nuostatus ir darbo užmokesčio fondą, didžiausią leistiną valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių užmokestį iš savivaldybės biudžeto, skaičių savivaldybės administracijos direktoriaus siūlymu mero teikimu tvirtina ir keičia savivaldybės taryba, o pareigybes tvirtina savivaldybės administracijos direktorius. Savivaldybės administracijos įgaliojimai nėra susiję su savivaldybės tarybos įgaliojimų pabaiga. Savivaldybės administracija turi herbinį antspaudą ir sąskaitų bankuose.“
 
-\#### 9 straipsnis. 31 straipsnio 1 ir 4 dalių pakeitimas
+## 9 straipsnis. 31 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -136,13 +136,13 @@ Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų asignavimų valdytojas. Jis yra karjeros valstybės tarnautojas. Seniūną į pareigas skiria ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo ir Valstybės tarnybos įstatymais. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių bendruomenių atstovai – seniūnaičiai.“
 
-\#### 10 straipsnis. 32 straipsnio 2 dalies 3 punkto pakeitimas
+## 10 straipsnis. 32 straipsnio 2 dalies 3 punkto pakeitimas
 
 Pakeisti 32 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) pagal kompetenciją organizuoja vaiko teisių apsaugąir darbą su probleminėmis šeimomis, kuriose auga vaikai arba kurioms apribotos tėvų teisės į vaikus;“.
 
-\#### 11 straipsnis. 34 straipsnio 4 ir 6 punktų pakeitimas
+## 11 straipsnis. 34 straipsnio 4 ir 6 punktų pakeitimas
 
 1. Pakeisti 34 straipsnio 4 punktą ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 32 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „6) teikia informaciją seniūnaitijos gyventojams apie savivaldybės institucijų, savivaldybės administracijos ir jos padalinių, kitų savivaldybės viešojo administravimo subjektų, Vyriausybės atstovo funkcijas, jų darbo laiką ir darbo tvarką.“
 
-\#### 12 straipsnis. 56 straipsnio 2 ir 3 dalių pakeitimas
+## 12 straipsnis. 56 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 56 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 32 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „3. Savivaldybių herbai yra savivaldybių nuosavybė ir Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo nenustatytais atvejais gali būti naudojami tik savivaldybių tarybų leidimu.“
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 4 straipsnio 2 dalis ir 5, 6, 7 straipsniai įsigalioja 2010 m. spalio 1 d.
 

@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ba70d940b66611ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BA70D940B666.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 11, 13, 14, 16, 18, 20, 20-1, 21, 22, 23, 26, 29, 49, 50, 55, 56, 57, 63 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo, 54 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 15-1 straipsniu įstatymas
@@ -704,5 +704,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1697, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27270
 
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 11, 13, 14, 16, 18, 20, 20-1, 21, 22, 23, 26, 29, 49, 50, 55, 56, 57, 63 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo, 54 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIV-1001 10, 15 ir 27 straipsnių pakeitimo įstatymas
-
-part_a19731e318c2411d8f224803a1033697_end

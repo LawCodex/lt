@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C982CC289E97"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C982CC289E97.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 27 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [116-5254](https://www.e-tar.lt/portal/lt/legalAct/TAR.3BE08993974A), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [158-5757](https://www.e-tar.lt/portal/lt/legalAct/TAR.770DDEDE7A78); 2005, Nr. [76-2743](https://www.e-tar.lt/portal/lt/legalAct/TAR.EBBAE1CAFDF6); 2008, Nr. [47-1750](https://www.e-tar.lt/portal/lt/legalAct/TAR.706AFBAFD66E), Nr. [149-6033](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0FCF5DD97FC))
 
-\#### 1 straipsnis. 27 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 27 straipsnio 3 dalies pakeitimas
 
 Pakeisti 27 straipsnio 3 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.41095379B5DB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.41095379B5DB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 4, 7, 8, 9, 10, 11, 13, 15, 19, 20 ir 21 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1991, Nr. 24-635; 1997, Nr. 69-1735; 2000, Nr. 56-1649; 2001, Nr. 71-2524, Nr. 108-3905; 2002, Nr. 68-2763, Nr. 112-4974, Nr. 112-4975; 2004, Nr. 4-41, Nr. 117-4371, Nr. 124-4491; 2006, Nr. 116-4401; 2007, Nr. 59-2281; 2009, Nr. 81-3358; 2010, Nr. 72-3618;2012, Nr. 36-1773, Nr. 136-6962)
 
-\#### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 4 straipsnio 1 dalyje po žodžio „kitus“ įrašyti žodžius „žemės valdos projektus ar“ ir šią dalį išdėstyti taip:
 
 „1. Žemės reforma vykdoma pagal žemės reformos žemėtvarkos projektus, kitus žemės valdos projektus ar teritorijų planavimo dokumentus, vadovaujantis šiuo ir kitais žemės santykius reglamentuojančiais įstatymais ir atsižvelgiant į suformuotus privačios ir valstybinės žemės sklypus.“
 
-\#### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 7 straipsnio 2 dalyje po žodžio „dokumentuose“ įrašyti žodžius „ar žemės valdos projektuose“ ir šią dalį išdėstyti taip:
 
 „2. Religinėms bendrijoms, bendruomenėms ir centrams, kurie veikė iki 1940 m. liepos 21 d., o jų nekilnojamasis turtas pagal TSRS (LTSR) įstatymus buvo nacionalizuotas ar kitaip neteisėtai nusavintas, ir kurie nuosavybės teise turi pastatų ir kitų statinių, Vyriausybės nustatyta tvarka suteikiami nuosavybėn neatlygintinai jų naudojami šiems pastatams ir kitiems statiniams eksploatuoti teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų ribų žemės sklypai.“
 
-\#### 3 straipsnis. 8 straipsnio 1 ir 7 dalių pakeitimas
+## 3 straipsnis. 8 straipsnio 1 ir 7 dalių pakeitimas
 
 1. 8 straipsnio 1 dalyje po žodžio „kitus“ įrašyti žodžius „žemės valdos projektus ar“ ir šią dalį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „7. Sodininkų bendrijoms, šių bendrijų nariams ir kitiems asmenims valstybinė žemė parduodama Vyriausybės nustatyta tvarka. Sodininkų bendrijai skirtoje mėgėjų sodo teritorijoje ne aukciono būdu parduodama žemė, reikalinga bendro naudojimo statinių išdėstymui, rekreacijai. Fiziniams asmenims mėgėjų sodo teritorijoje ne aukciono būdu parduodami jų naudojami žemės sklypai. Tais atvejais, kai keičiant mėgėjų sodo teritorijos žemės valdos projektą ar teritorijų planavimo dokumentą atskiro žemės sklypo neįmanoma suformuoti ir atliekamos žemės nenumatoma naudoti sodininkų bendrijos bei visuomenės poreikiams, ji ne aukciono būdu pirmiausia parduodama sodų sklypų, kurie tiesiogiai ribojasi su parduodamu sklypu, savininkams, o jeigu šie atsisako, – kitiems sodų sklypų savininkams uždaro aukciono būdu arba, jeigu jis neįvyksta, atviro aukciono būdu.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 8. Lietuvos Nepriklausomybės Akto signatarams arba, jiems mirus, jų sutuoktiniams, o jeigu sutuoktinio nėra, – vaikams (įvaikiams) ne aukciono būdu parduodamas vienas žemės sklypas individualaus gyvenamojo namo statybai jų pageidaujamame mieste (išskyrus Neringos miestą) Vyriausybės patvirtinto dydžio, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha kituose miestuose. Šie žemės sklypai turi būti suprojektuoti iki 2003 m. gruodžio 31 d. savivaldybių tarybų patvirtintose teritorijose.“
 
-\#### 5 straipsnis. 10 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 10 straipsnio 1 dalies pakeitimas
 
 10 straipsnio 1 dalyje vietoj žodžių „arba kituose“ įrašyti žodžius „kituose žemės valdos projektuose ar“, vietoj žodžių „kadastrinėje“ įrašyti žodžius „kadastro“ iršią dalį išdėstyti taip:
 
@@ -110,19 +110,19 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 18) parduodami žemės sklypai, išskyrus žemės ūkio paskirties žemės sklypus, kitiems asmenims.“
 
-\#### 6 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 11 straipsnio 2 dalyje vietoj žodžių „ir kituose“ įrašyti žodžius „kituose žemės valdos projektuose ar“ ir šią dalį išdėstyti taip:
 
 „2. Sprendimai sugrąžinti žemę, perduoti nuosavybėn neatlygintinai lygiavertį turėtajam žemės sklypą, suteikti žemės sklypą nuosavybėn neatlygintinai priimami ir valstybinės žemės pirkimo–pardavimo sutartys sudaromos, jeigu asmuosutinka su įsigyjamo žemės sklypo žemės reformos žemėtvarkos projektuose, kituose žemės valdos projektuose ar teritorijų planavimo dokumentuose nustatytomis žemės, miško ir vandens telkinių specialiosiomis naudojimo sąlygomis, žemės servitutais ir ūkinės veiklos apribojimais.“
 
-\#### 7 straipsnis. 13 straipsnio 2 punkto pakeitimas
+## 7 straipsnis. 13 straipsnio 2 punkto pakeitimas
 
 13 straipsnio 2 punkte po žodžio „dokumentuose“ įrašyti žodžius „ar žemės valdos projektuose“ ir šį punktą išdėstyti taip:
 
 „2) užimta bendroms gyventojų ar kitoms visuomenės reikmėms naudojamų teritorijų (gatvių, aikščių, skverų, kapinių, vandenviečių ir kt.). Šių žemės sklypų (teritorijų) plotai ir ribos nustatomi teritorijų planavimo dokumentuose ar žemės valdos projektuose;“.
 
-\#### 8 straipsnis. 15 straipsnio 8 ir 9 dalių pakeitimas
+## 8 straipsnis. 15 straipsnio 8 ir 9 dalių pakeitimas
 
 1. 15 straipsnio 8 dalyje vietoj žodžio „kadastrinėje“ įrašyti žodį „kadastro“ ir šią dalį išdėstyti taip:
 
@@ -132,13 +132,13 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 „9. Rengiant žemės reformos žemėtvarkos projektą, asmeninio ūkio žemės sklypų vietos ir ribos gali būti keičiamos pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą ir siekiant sukurti racionalių ribų žemės sklypus teritorijoje, kurią apima vietinis (kadastro vietovės) žemės reformos žemėtvarkos projektas. Asmeninio ūkio žemės sklypų, kurie buvo nuolat naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš toje kadastro vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės fondo toje kadastro vietovėje nepakanka, šie sklypai projektuojami asmeniniam ūkiui naudojamoje teritorijoje.“
 
-\#### 9 straipsnis. 19 straipsnio 7 dalies pakeitimas
+## 9 straipsnis. 19 straipsnio 7 dalies pakeitimas
 
 19 straipsnio 7 dalyje po žodžio „kodeksas“ įrašyti žodžius „ir Žemės įstatymas“ ir šią dalį išdėstyti taip:
 
 „7. Žemės servitutų nustatymą reglamentuoja Civilinis kodeksas ir Žemės įstatymas.“
 
-\#### 10 straipsnis. 20 straipsnio pakeitimas
+## 10 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -146,13 +146,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 Apie žemės reformos žemėtvarkos projektus skelbiama viešai, šie projektai svarstomi ir derinami žemės reformos žemėtvarkos projektų rengimo metodikoje nustatyta tvarka, nepažeidžiant fizinių ir juridinių asmenų ar jų grupių, savivaldybių ir valstybės interesų ir teisių, užtikrinant gamtos ir jos išteklių apsaugą, atsižvelgiant į aplinkosaugos ir paveldosaugos reikalavimus. Suderintus žemės reformos žemėtvarkos projektus tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas ar jo įgaliotas teritorinio padalinio vadovas.“
 
-\#### 11 straipsnis. 21 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 21 straipsnio 1 dalies pakeitimas
 
 21 straipsnio 1 dalyje vietoj žodžių „ir kituose“ įrašyti žodžius „kituose žemės valdos projektuose ar“ ir šią dalį išdėstyti taip:
 
 „1. Žemės reformos žemėtvarkos projektuose, kituose žemės valdos projektuose ar teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numatomi įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą metodiką.“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2014 m. sausio 1 d.
 

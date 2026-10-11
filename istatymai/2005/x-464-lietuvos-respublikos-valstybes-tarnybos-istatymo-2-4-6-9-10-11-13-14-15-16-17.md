@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FDA590A67D72"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FDA590A67D72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO 2, 4, 6, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27, 30, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 49, 50 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 16(1) IR 31(1) STRAIPSNIAIS ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74), Nr. [73-3103](https://www.e-tar.lt/portal/lt/legalAct/TAR.B5537B935AEF), Nr. [116-5192](https://www.e-tar.lt/portal/lt/legalAct/TAR.E1D44CE564C0), Nr. [123-5541](https://www.e-tar.lt/portal/lt/legalAct/TAR.77A336B3902C), Nr. [127-5750](https://www.e-tar.lt/portal/lt/legalAct/TAR.C3898659EAFB); 2003, Nr. [17-705](https://www.e-tar.lt/portal/lt/legalAct/TAR.86426B5C8851), Nr. [38-1671](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EDD7649960B), Nr. [73-3358](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9E0D56BCC08), Nr. [101-4534](https://www.e-tar.lt/portal/lt/legalAct/TAR.11A16AFF3610), Nr. [112-4993](https://www.e-tar.lt/portal/lt/legalAct/TAR.F0DC47DB2573), Nr. [116-5258](https://www.e-tar.lt/portal/lt/legalAct/TAR.796EF31709E9); 2004, Nr. [4-32](https://www.e-tar.lt/portal/lt/legalAct/TAR.9EDAB4EAFABA), Nr. [36-1180](https://www.e-tar.lt/portal/lt/legalAct/TAR.AADCB2D9993D), Nr. [104-3827](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB72296AE71C),Nr. [116-4323](https://www.e-tar.lt/portal/lt/legalAct/TAR.519B021AB4AF), Nr. [163-5940](https://www.e-tar.lt/portal/lt/legalAct/TAR.A23B0D0DCEFB), Nr. [171-6296](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A607C85C6E))
 
-\#### 1 straipsnis. 2 straipsnio 8 ir 10 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 8 ir 10 dalių pakeitimas
 
 1. 2 straipsnio 8 dalyje išbraukti žodžius „konkurso būdu ar politinio (asmeninio) pasitikėjimo pagrindu“ ir šią dalį išdėstyti taip:
 
@@ -38,19 +38,19 @@ Vilnius
 
 „10.**Pakaitinis valstybės tarnautojas** – valstybės tarnautojas, priimtas į karjeros valstybės tarnautojo pareigas, iki šio Įstatymo nustatyta tvarka į jas bus priimtas karjeros valstybės tarnautojas, taip pat valstybės tarnautojas,pakeičiantis laikinai negalintį eiti pareigų karjeros arba politinio (asmeninio) pasitikėjimo valstybės tarnautoją.“
 
-\#### 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 2 dalies pakeitimas
 
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Statutiniams valstybės tarnautojams šio Įstatymo 16 straipsnio 4 ir 5 dalys, 19 straipsnio 2 ir 3 dalys, 39 straipsnio 1 dalis, 43 straipsnio 5 dalies 9 punktas ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojamstaikomos tiek, kiek jų statuso nereglamentuoja statutai ar Diplomatinės tarnybos įstatymas.“
 
-\#### 3 straipsnis. 6 straipsnio 4 punkto pakeitimas
+## 3 straipsnis. 6 straipsnio 4 punkto pakeitimas
 
 6 straipsnio 4 punkte vietoj žodžio „pakaitinių“ įrašyti žodį „statutinių“ ir šį punktą išdėstyti taip:
 
 „4) statutinių.“
 
-\#### 4 straipsnis. 9 straipsnio pavadinimo pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 4 straipsnis. 9 straipsnio pavadinimo pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. 9 straipsnio pavadinime išbraukti žodį „bendrieji“ ir straipsnio pavadinimą išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. 9 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 5 straipsnis. 10 straipsnio 2 dalies 4 punkto ir 4 dalies pakeitimas, straipsnio papildymas 6, 7, 8 ir 9 dalimis
+## 5 straipsnis. 10 straipsnio 2 dalies 4 punkto ir 4 dalies pakeitimas, straipsnio papildymas 6, 7, 8 ir 9 dalimis
 
 1. 10 straipsnio 2 dalies 4 punkte po žodžio „vadovai“ įrašyti žodžius „Vyriausybės įstaigose ir Vyriausybės kanceliarijoje – Ministras Pirmininkas“ ir šį punktą išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „9. Priėmimo į valstybės tarnautojo pareigas tvarką nustato šis Įstatymas, statutai, Diplomatinės tarnybos įstatymas ir Vyriausybės patvirtintas konkursų į valstybės tarnautojo pareigas organizavimo tvarkos aprašas.“
 
-\#### 6 straipsnis. 11 straipsnio 2 ir 3 dalių pakeitimas, 4 dalies pripažinimas netekusia galios
+## 6 straipsnis. 11 straipsnio 2 ir 3 dalių pakeitimas, 4 dalies pripažinimas netekusia galios
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3. 11 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 7 straipsnis. 13 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti13 straipsnį ir jį išdėstyti taip:
 
@@ -108,19 +108,19 @@ Pakeisti ir papildyti13 straipsnį ir jį išdėstyti taip:
 
 3. Be konkurso į įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigas gali būti priimama šio Įstatymo 16 straipsnio 2 ir 3 dalyse bei 43 straipsnio 3 dalyje nurodytais atvejais.“
 
-\#### 8 straipsnis. 14 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 14 straipsnio 2 dalies pakeitimas
 
 Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pakaitiniai valstybės tarnautojai priimami įpareigas po konkurso į karjeros valstybės tarnautojo pareigas paskelbimo, iki šio Įstatymo nustatyta tvarka į jas bus priimtas karjeros valstybės tarnautojas, bet ne ilgesniam negu 3 mėnesių laikotarpiui, taip pat įlaikinai negalinčio eiti karjeros arba politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas, iki sugrįžta negalėjęs eiti pareigų karjeros arba politinio (asmeninio) pasitikėjimo valstybės tarnautojas, bet ne ilgesniam negu trejųmetų laikotarpiui, išskyrus, kai kiti įstatymai, tarptautinės sutartys ar Europos Sąjungos teisės aktai nustato galimybę karjeros valstybės tarnautoją, į kurio pareigas priimtas pakaitinis valstybės tarnautojas, ilgesniam laikui perkelti į kitą darbą.“
 
-\#### 9 straipsnis. 15 straipsnio 1 dalies 11 punkto pakeitimas
+## 9 straipsnis. 15 straipsnio 1 dalies 11 punkto pakeitimas
 
 Pakeisti 15 straipsnio 1 dalies 11 punktą ir jį išdėstyti taip:
 
 „11) nedalyvauti šio Įstatymo 17 straipsnyje nurodytoje su valstybės tarnautojo pareigomis nesuderinamoje veikloje ir nenaudoti tarnybos(darbo) laiko kitiems tikslams, išskyrus kitą darbą, dirbamą turint valstybės tarnautoją į pareigas priėmusio asmens leidimą šio Įstatymo 16^1 straipsnyje nustatyta tvarka, jei tai netrukdys valstybės tarnautojui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat savivaldybės tarybos nario pareigų atlikimą.“
 
-\#### 10 straipsnis. 16 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 16 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 16 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -164,7 +164,7 @@ e) taip pat gauti atlyginimą šio Įstatymo 17 straipsnio 1 punkte nurodytu atv
 
 7. Buvusias 16 straipsnio 3 ir 4 dalis laikyti atitinkamai 7 ir 8 dalimis.
 
-\#### 11 straipsnis. Įstatymo papildymas 161 straipsniu
+## 11 straipsnis. Įstatymo papildymas 161 straipsniu
 
 Papildyti Įstatymą 16^1 straipsniu:
 
@@ -180,13 +180,13 @@ Papildyti Įstatymą 16^1 straipsniu:
 
 5. Sprendimas neleisti valstybės tarnautojui dirbti kito darbo gali būti skundžiamas teismui įstatymų nustatyta tvarka.“
 
-\#### 12 straipsnis. 17 straipsnio 4 punkto pakeitimas
+## 12 straipsnis. 17 straipsnio 4 punkto pakeitimas
 
 Pakeisti 17 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) dirbti įmonėse, įstaigose, organizacijose,taip pat gauti už šį darbąatlyginimą, jeigu tai sukelia viešųjų ir privačių interesų konfliktą valstybės tarnyboje, sudaro prielaidas valstybės tarnybą panaudoti asmeniniais interesais, diskredituoja valstybės tarnybos autoritetą, kliudo asmeniui, einančiam pareigas valstybės tarnyboje, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai yra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu valstybės tarnautojas turi valdingus įgaliojimus arba kontroliuoja, prižiūri jų veiklą arba priima kokius nors kitus sprendimus dėl tos įmonės, įstaigos ar organizacijos, ir kai yra kitų aplinkybių, dėl kurių valstybės tarnautojai negali dirbti kito darbo ir gauti atlyginimo;“.
 
-\#### 13 straipsnis. 18 straipsnio pakeitimas
+## 13 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 10. Laikinai perkeltam į kitas pareigas karjeros valstybės tarnautojui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.“
 
-\#### 14 straipsnis. 19 straipsnio pakeitimas
+## 14 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -228,13 +228,13 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 5. Karjeros valstybės tarnautojų perkėlimo į šio straipsnio 1 dalyje nurodytas pareigas ir atšaukimo iš šių pareigų tvarką, socialinių garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai.“
 
-\#### 15 straipsnis. 21 straipsnio 2 dalies pakeitimas
+## 15 straipsnis. 21 straipsnio 2 dalies pakeitimas
 
 21 straipsnio 2 dalyje vietoj skaičiaus „20“ įrašyti skaičių „10“ ir šią dalį išdėstyti taip:
 
 „2. Priimant valstybės tarnautojus į pareigas, vertinimo būdu jiems gali būti suteikiama trečia kvalifikacinė klasė. Šiuo atveju netaikomas 22 straipsnio 5 dalyje nustatytas 10 darbo dienų pranešimo terminas.“
 
-\#### 16 straipsnis. 22 straipsnio pakeitimas ir papildymas
+## 16 straipsnis. 22 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -262,25 +262,25 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 7. Buvusias 22 straipsnio 13, 14, 15 ir 16 dalis laikyti atitinkamai 15, 16, 17 ir 18 dalimis.
 
-\#### 17 straipsnis. 24 straipsnio papildymas 4 dalimi
+## 17 straipsnis. 24 straipsnio papildymas 4 dalimi
 
 Papildyti 24 straipsnį 4 dalimi:
 
 „4. Valstybės tarnautojų, naudojančių tarnybos laiką kitam darbui, dirbamam turint valstybės tarnautoją į pareigas priėmusio asmens leidimą šio Įstatymo 16^1 straipsnyje nustatyta tvarka, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui.“
 
-\#### 18 straipsnis. 27 straipsnio 1 dalies pakeitimas
+## 18 straipsnis. 27 straipsnio 1 dalies pakeitimas
 
 27 straipsnio 1 dalyje po žodžių „priėmęs asmuo“ įrašyti žodžius „o kai jį į pareigas priima Vyriausybė, savivaldybės taryba, – Ministras Pirmininkas, savivaldybės meras“ ir šią dalį išdėstyti taip:
 
 „1. Už nepriekaištingą tarnybinių pareigų atlikimą valstybės tarnautojus į pareigas priėmęs asmuo, o kai jį į pareigas priima Vyriausybė, savivaldybės taryba, – Ministras Pirmininkas, savivaldybės meras gali skatinti šio Įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 19 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 19 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 30 straipsnyje po žodžio „asmens“ įrašyti žodžius „arba, jeigu valstybės tarnautoją į pareigas priima Vyriausybė, savivaldybės taryba, – Ministro Pirmininko, savivaldybės mero“, vietoj žodžio „drausminė“ įrašyti žodį „tarnybinė“ ir šią dalį išdėstyti taip:
 
 „1. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuotarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį valstybės tarnautojas nebuvo darbe dėl ligos, buvo komandiruotėje arba atostogavo, o iškėlus baudžiamąją bylą arba atliekant tarnybinį ar kitą kompetentingos institucijos patikrinimą – ne vėliau kaip per du mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo dienos. Tarnybinio nusižengimo tyrimas pradedamas valstybės tarnautoją į pareigas priėmusio asmens arba, jeigu valstybės tarnautoją į pareigas priima Vyriausybė, savivaldybės taryba, – Ministro Pirmininko, savivaldybės meroiniciatyva arba kai jie gauna oficialią informaciją apie valstybės tarnautojo tarnybinį nusižengimą. Negalima skirti tarnybinės nuobaudos, jei praėjo 6 mėnesiai nuo nusižengimo padarymo dienos, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba tarnybinį ar kitą kompetentingos institucijos patikrinimą. Šiais atvejais tarnybinė nuobauda turi būti skiriama ne vėliau kaip per trejus metus nuo nusižengimo padarymo dienos.“
 
-\#### 20 straipsnis. Įstatymo papildymas 311 straipsniu
+## 20 straipsnis. Įstatymo papildymas 311 straipsniu
 
 Papildyti Įstatymą 31^1 straipsniu:
 
@@ -292,7 +292,7 @@ Papildyti Įstatymą 31^1 straipsniu:
 
 3. Įstaigos vadovą į pareigas priėmęs asmuo turi teisę reikalauti panaikinti neteisėtą sprendimą leisti valstybės tarnautojui dirbti kitą darbą ir spręsti įstaigos vadovo atsakomybės klausimą.“
 
-\#### 21 straipsnis. 34 straipsnio 1, 2 ir 5 dalių pakeitimas
+## 21 straipsnis. 34 straipsnio 1, 2 ir 5 dalių pakeitimas
 
 1. 34 straipsnio 1 dalies pirmame ir antrame sakiniuose vietoj žodžių „tiesioginis jo vadovas“ įrašyti žodžius „valstybės tarnautoją į pareigas priėmęs asmuo, o kai valstybės tarnautoją į pareigas priima Vyriausybė, savivaldybės taryba, – Ministras Pirmininkas, savivaldybės meras“ ir šią dalį išdėstyti taip:
 
@@ -306,7 +306,7 @@ Papildyti Įstatymą 31^1 straipsniu:
 
 „5. Valstybės tarnautojas, kuris jį į pareigas priėmusio asmens, o kai valstybės tarnautoją į pareigas priima Vyriausybė, savivaldybės taryba, – Ministro Pirmininko, savivaldybės mero arba įgaliotų valstybės ar savivaldybės institucijų ar įstaigų, arba pareigūnų reikalavimu buvo nušalintas nuo pareigų nepagrįstai, turi teisę reikalauti, kad jam būtų įstatymų nustatyta tvarka atlyginta žala.“
 
-\#### 22 straipsnis. 35 straipsnio pakeitimas ir papildymas
+## 22 straipsnis. 35 straipsnio pakeitimas ir papildymas
 
 Pakeisti 35 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -316,7 +316,7 @@ Pakeisti 35 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir visą straipsn�
 
 2. Valstybės tarnautojai turi teisę į šio Įstatymo nustatytas atostogas. Valstybės tarnautojai taip pat turi teisę į Darbo kodekso nustatytas nėštumo ir gimdymo atostogas, atostogas vaikui prižiūrėti, iki jam sueis treji metai, ir mokymosi atostogas.“
 
-\#### 23 straipsnis. 36 straipsnio 1 ir 2 dalių pakeitimas
+## 23 straipsnis. 36 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -326,7 +326,7 @@ Pakeisti 35 straipsnio 1 dalį, straipsnį papildyti 2 dalimi ir visą straipsn�
 
 „2. Valstybės tarnautojui, turinčiam didesnį kaip penkerių metų tarnybos stažą, už kiekvienų paskesnių trejų metų tarnybos stažą suteikiamos 3 kalendorinės dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 42 kalendorinės dienos.“
 
-\#### 24 straipsnis. 39 straipsnio pakeitimas
+## 24 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
@@ -336,13 +336,13 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 2. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 18 straipsnyje (išskyrus šio Įstatymo 18 straipsnio 1 ir 2 dalyse nustatytą perkėlimą) nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje, moka valstybės ar savivaldybės institucija ar įstaiga, į kurią perkeltas valstybės tarnautojas. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 19 straipsnio 1 dalyje nustatyto perkėlimo, moka valstybės ar savivaldybės institucija ar įstaiga, iš kurios perkeliamas valstybės tarnautojas. Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.“
 
-\#### 25 straipsnis. 40 straipsnio 3 ir 4 dalių pripažinimas netekusiomis galios
+## 25 straipsnis. 40 straipsnio 3 ir 4 dalių pripažinimas netekusiomis galios
 
 1. 40 straipsnio 3 dalį pripažinti netekusia galios.
 
 2. 40 straipsnio 4 dalį pripažinti netekusia galios.
 
-\#### 26 straipsnis. 41 straipsnio pakeitimas ir papildymas
+## 26 straipsnis. 41 straipsnio pakeitimas ir papildymas
 
 1. 41 straipsnio 1 dalyje po žodžio „punktuose“ įrašyti skaičių ir žodį „2 dalyje“ ir šią dalį išdėstyti taip:
 
@@ -362,13 +362,13 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 
 „7. Valstybės tarnautojams, kurių darbo vieta yra užsienyje,Vyriausybės nustatyta tvarka mokamos įstatymų ir kitų teisės aktų nustatytos su jų darbu užsienyje susijusių išlaidų kompensacijos bei kompensacijos valstybės tarnautojų sutuoktiniams ir vaikams (įvaikiams), išvykusiems į užsienį kartu su valstybės tarnautojais, išlaikyti.“
 
-\#### 27 straipsnis. 42 straipsnio 1 dalies pakeitimas
+## 27 straipsnis. 42 straipsnio 1 dalies pakeitimas
 
 Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pagal šį Įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio Įstatymo 4 straipsnio 3 ir 4 dalyse, 5 dalies 1–4 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo atostogų, atostogų vaikui prižiūrėti, iki jam sueis treji metai, perkėlimo į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijojepagal šio Įstatymo 19 straipsnio 2 dalį, darbo tarptautinėje institucijoje ar užsienio valstybės institucijojelaikotarpiai, dalyvavimo Europos Sąjungos ar tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, mokymosi atostogosir pagal šio Įstatymo 37, 38 ir 39 straipsnius suteiktų atostogų laikas bei ligos pašalposgavimo laikotarpiai. Atsižvelgiant į tarnybos stažą, nustatomas šio Įstatymo 25 straipsnio 1 dalies 1 punkte nurodyto priedo dydis ir šio Įstatymo 36 straipsnio 2 dalyje nurodytų kasmetinių papildomų atostogų trukmė.“
 
-\#### 28 straipsnis. 43 straipsnio pakeitimas
+## 28 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
@@ -426,7 +426,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 
 15. Kiti įstatymai gali nustatyti ir kitų garantijų.“
 
-\#### 29 straipsnis. 44 straipsnio pakeitimas
+## 29 straipsnis. 44 straipsnio pakeitimas
 
 Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
@@ -478,7 +478,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
 7. Ginčai dėl valstybės tarnautojo atleidimo iš pareigų nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 30 straipsnis. 45 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 ir 4 dalimis
+## 30 straipsnis. 45 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 ir 4 dalimis
 
 1. Pakeisti 45 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -496,7 +496,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
 „4. Valstybės tarnautojų siuntimo tobulinti kvalifikaciją kitose valstybės ar savivaldybių institucijose ar įstaigose, tarptautinėse institucijose ar užsienio valstybių institucijose tvarką nustato Vyriausybė.“
 
-\#### 31 straipsnis. 49 straipsnio pakeitimas
+## 31 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir išdėstyti jį taip:
 
@@ -534,7 +534,7 @@ Pakeisti 49 straipsnį ir išdėstyti jį taip:
 
 2) nustačiusi, kad savivaldybių institucijos ir įstaigos pažeidė šį Įstatymą ir su juo susijusius teisės aktus, informaciją apie tai teikia atitinkamos savivaldybės administracinę priežiūrą atliekančiam Vyriausybės atstovui ir atitinkamai savivaldybės institucijai ar įstaigai.“
 
-\#### 32 straipsnis. 50 straipsnio 2 dalies 4 punkto pripažinimas netekusiu galios ir 3 dalies pakeitimas
+## 32 straipsnis. 50 straipsnio 2 dalies 4 punkto pripažinimas netekusiu galios ir 3 dalies pakeitimas
 
 1. 50 straipsnio 2 dalies 4 punktą pripažinti netekusiu galios.
 
@@ -542,7 +542,7 @@ Pakeisti 49 straipsnį ir išdėstyti jį taip:
 
 „3. Valstybės ir savivaldybių institucijos ir įstaigosteisės aktų nustatyta tvarka tvarko duomenis Valstybės tarnautojų registre.“
 
-\#### 33 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 33 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 5 straipsnio 3, 4, 5 ir 6 dalys, 9 straipsnis, 10 straipsnio 1 dalis, 10 straipsnio 2 ir 3 dalys, kiek tai susiję su įstaigos vadovo statuso atkūrimu, 10 straipsnio 4 dalis, 11, 12, 14, 17, 20 straipsniai ir 30 straipsnio 2 ir 3 dalys įsigalioja nuo 2006 m. liepos 1 d.
 
@@ -562,7 +562,7 @@ Pakeisti 49 straipsnį ir išdėstyti jį taip:
 
 9. Valstybės tarnautoją į pareigas priėmusio asmens sprendimas įpareigoti valstybės tarnautoją nedirbti kito darbo (nutraukti darbo santykius) gali būti skundžiamas teismui įstatymų nustatyta tvarka.
 
-\#### 34 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 34 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2006 m. liepos 1 d. priima šio įstatymo 33 straipsnio 1 dalyje nurodytiems straipsniams įgyvendinti būtinus teisės aktus.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5a4aaa5256fe11f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5A4AAA5256FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos laisvės gynėjo teisinio statuso įstatymo Nr. XIV-389 2, 7, 9 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ LAISVĖS GYNĖJO TEISINIO STATUSO ĮSTATYMO NR. XIV-389 2, 7, 9 STRAIPSNIŲ PAKE
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -50,13 +50,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 7) šauliai.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Laisvės gynėjo policijos pareigūno teisinis statusas pripažįstamas asmenims, kurie atitinka šio įstatymo 2 straipsnio 1 dalyje apibrėžiamą laisvės gynėjo sąvoką ir kurie, prisiekę būti ištikimi Lietuvos Respublikai, tarnavo Lietuvos Respublikos policijoje, kuri, vadovaujantis Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. gruodžio 11 d. nutarimu Nr. I-852 „Dėl Lietuvos Respublikos policijos įstatymo įsigaliojimo“ reorganizavus Lietuvos Respublikos vidaus reikalų ministerijos milicijos struktūras į Lietuvos Respublikos policijos struktūras ir patvirtinus Lietuvos Respublikos policijos įstatymą, priesaikos priėmimo ir priėmimo į Lietuvos Respublikos policiją tvarkos taisykles kaip sudedamąją Tarnybos Lietuvos Respublikos vidaus reikalų sistemoje statuto, atitinkančio Jungtinių Tautų Generalinės Asamblėjos 1979 m. gruodžio 17 d. rezoliucija patvirtintą Teisėtvarkos apsaugos pareigūnų elgesio kodeksą, dalį ir vadovaujantis Lietuvos Respublikos Vyriausybės 1990 m. gegužės 17 d. nutarimu Nr. 154 „Dėl Lietuvos Respublikos ministerijų pagrindinių funkcijų“, įgyvendino valstybės politiką kovos su nusikalstamumu, viešosios tvarkos ir visuomenės rimties užtikrinimo srityje, vykdant kelių eismo saugumo priežiūrą, organizuojant ir vykdant kovą su nusikaltimais ir teisėtvarkos pažeidimais.“
 
-\#### 3 straipsnis. Įstatymo papildymas 71 straipsniu
+## 3 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1 straipsniu:
 
@@ -66,7 +66,7 @@ Papildyti Įstatymą 7^1 straipsniu:
 
 2. Laisvės gynėjo Lietuvos policijos akademijos pareigūno ar studento (klausytojo) teisinis statusas pripažįstamas asmeniui ir po jo mirties.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -76,7 +76,7 @@ Papildyti Įstatymą 7^1 straipsniu:
 
 „6. Pareiškėjas Komisijos sprendimą nepripažinti laisvės gynėjo teisinio statuso gali apskųsti administraciniam teismui per 30 dienų nuo pranešimo gavimo dienos, vadovaudamasis Lietuvos Respublikos administracinių bylų teisenos įstatymu. Dėl Komisijos priimtų sprendimų pripažinti laisvės gynėjo statusą ar nepripažinti laisvės gynėjo statuso organizacijos ar fiziniai asmenys gali kreiptis į teismą su pareiškimu, kad būtų apgintas viešasis interesas arba apgintos asmenų teisės bei įstatymų saugomi interesai.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. rugsėjo 1 d.
 

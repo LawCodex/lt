@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C427721C7502"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C427721C7502.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 2, 5, 7, 8 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 9-1 ir 43 straipsniais įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975)
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. **Viešasis administravimas –**įstatymų ir kitų teisės aktų reglamentuojama viešojo administravimo subjektų veikla, skirta įstatymams ir kitiems norminiams teisės aktams įgyvendinti priimant norminius administracinius aktus ir kitus administracinius sprendimus, atliekant įstatymų ir administracinių sprendimų įgyvendinimo kontrolę, teikiant įstatymų nustatytas administracines paslaugas, administruojant viešųjų paslaugų teikimą ir atliekant viešojo administravimo subjekto vidaus administravimą.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -48,19 +48,19 @@ Pagrindinės viešojo administravimo sritys:
 
 5) viešojo administravimo subjekto vidaus administravimas.“
 
-\#### 3 straipsnis. 7 straipsnio papildymas 3 dalimi
+## 3 straipsnis. 7 straipsnio papildymas 3 dalimi
 
 Papildyti 7 straipsnį 3 dalimi:
 
 „3. Informacija apie konsultavimosi būdą, jo dalyvius ir rezultatus turi būti skelbiama administracinio sprendimo projektą parengusio viešojo administravimo subjekto tinklalapyje.“
 
-\#### 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Individualus administracinis aktas turi būti pagrįstas objektyviais duomenimis (faktais) ir teisės aktų normomis, o taikomos poveikio priemonės turi būti motyvuotos.“
 
-\#### 5 straipsnis. Įstatymo papildymas 91 straipsniu
+## 5 straipsnis. Įstatymo papildymas 91 straipsniu
 
 Papildyti Įstatymą 9^1 straipsniu:
 
@@ -102,7 +102,7 @@ Papildyti Įstatymą 9^1 straipsniu:
 
 9. Pasibaigus kalendoriniams metams, verslą prižiūrintys subjektai aukštesniųjų pagal pavaldumą viešojo administravimo subjektų nustatyta tvarka rengia ir jiems teikia metines vykdytos veiklos ataskaitas, taip pat ataskaitas dėl verslo subjektams įstatymuose ir kituose teisės aktuose nustatytų reikalavimų nesilaikymo ar netinkamo vykdymo masto, priežasčių, taikytų prevencinių ir poveikio priemonių bei siūlymus keisti ar priimti naujus teisės aktus.“
 
-\#### 6 straipsnis. Įstatymo papildymas 43 straipsniu
+## 6 straipsnis. Įstatymo papildymas 43 straipsniu
 
 Papildyti Įstatymą 43 straipsniu:
 
@@ -110,11 +110,11 @@ Papildyti Įstatymą 43 straipsniu:
 
 Šio įstatymo nuostatos verslo subjektų veiklos priežiūrą, įskaitant dokumentų teikimą bei verslą prižiūrinčių subjektų metinių ataskaitų rengimą ir teikimą, vykdantiems viešojo administravimo subjektams taikomos, jei šios priežiūros nereglamentuoja kiti įstatymai.“
 
-\#### 7 straipsnis. Pasiūlymai viešojo administravimo subjektams
+## 7 straipsnis. Pasiūlymai viešojo administravimo subjektams
 
 Viešojo administravimo subjektai iki 2009 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 7 straipsnį, įsigalioja 2009 m. sausio 1 d.
 

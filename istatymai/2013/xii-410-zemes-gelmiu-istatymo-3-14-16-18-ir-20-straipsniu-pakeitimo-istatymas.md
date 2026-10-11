@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9D9E7CCB56BC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9D9E7CCB56BC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 3, 14, 16, 18 ir 20 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1995, Nr. 63-1582; 2001, Nr. 35-1164; 2004, Nr. 167-6097; 2010, Nr. 86-4526; 2013, Nr. 64-3176)
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. 3 straipsnio 17–20 dalis laikyti atitinkamai 16–19 dalimis.
 
 2. 3 straipsnio 19 dalį pripažinti netekusia galios.
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas
+## 2 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 5. Gręžinių geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens šiluminei energijai vartoti įrengimo ir likvidavimo tvarką nustato Aplinkos ministerija.“
 
-\#### 3 straipsnis. 16 straipsnio pakeitimas
+## 3 straipsnis. 16 straipsnio pakeitimas
 
 16 straipsnyje po žodžio „išnuomojamas“ įrašyti žodžius „Civilinio kodekso“, išbraukti žodžius „Žemės nuomos įstatymo“ ir visą straipsnį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 Žemės sklypas, reikalingas žemės gelmių ištekliams ar ertmėms naudoti, perkamas, paimamas visuomenės poreikiams ar išnuomojamas Civilinio kodekso, Žemės įstatymo, kitų teisės aktų nustatyta tvarka.“
 
-\#### 4 straipsnis. 18 straipsnio 1 dalies 2 punkto ir 2 dalies 1 punkto pakeitimas
+## 4 straipsnis. 18 straipsnio 1 dalies 2 punkto ir 2 dalies 1 punkto pakeitimas
 
 1. Pakeisti 18 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -76,13 +76,13 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 „1) pažeidžia išteklių ar ertmių naudojimo sutarties sąlygas ar naudojimo plane numatytus reikalavimus arba darbų atlikimo terminus ir kontroliuojančios institucijos nurodytu laiku nepašalina pažeidimų;“.
 
-\#### 5 straipsnis. 20 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 20 straipsnio 2 dalies pakeitimas
 
 Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Visų lygių ir rūšių teritorijų planavimo dokumentų sprendiniai ir planuojamos ūkinės veiklos poveikio aplinkai pasekmės, susijusios su žemės gelmių ir jų išteklių naudojimu bei apsauga, rengiami, vertinami ir vykdomi Teritorijų planavimo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymų ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2014 m. sausio 1 d.
 

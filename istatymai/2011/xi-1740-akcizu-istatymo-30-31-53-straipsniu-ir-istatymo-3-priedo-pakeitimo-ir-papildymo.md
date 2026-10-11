@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8DA52EE025B9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8DA52EE025B9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo 30, 31, 53 straipsnių ir įstatymo 3 priedo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [98-3482](https://www.e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F); 2010, Nr. [45-2174](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E421A12D76D), Nr. [148-7560](https://www.e-tar.lt/portal/lt/legalAct/TAR.BA2BC055D8D5))
 
-\#### 1 straipsnis. 30 straipsnio 2 dalies 1 punkto ir 3, 5 dalių pakeitimas
+## 1 straipsnis. 30 straipsnio 2 dalies 1 punkto ir 3, 5 dalių pakeitimas
 
 1. 30 straipsnio 2 dalies 1 punkte vietoj skaičiaus ir žodžio „132 litai“ įrašyti skaičių ir žodį „140 litų“ ir šį punktą išdėstyti taip:
 
@@ -42,13 +42,13 @@ Vilnius
 
 „5. Vidutinę svertinę mažmeninę cigarečių pardavimo kainą, kuri naudojama nustatant Lietuvos Respublikoje cigaretėms taikomo akcizų tarifo ir 2011 m. birželio 21 d. Tarybos direktyvoje 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų nustatyto minimalaus akcizų tarifo atitikimą, pagal patvirtintą metodiką nustato finansų ministras.“
 
-\#### 2 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 31 straipsnio 1 dalyje vietoj skaičiaus „80“ įrašyti skaičių „84“ ir šią dalį išdėstyti taip:
 
 „1. Cigarams ir cigarilėms taikomas 84 litų už kilogramą produkto akcizų tarifas.“
 
-\#### 3 straipsnis. 53 straipsnio pakeitimas
+## 3 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 Nuo akcizų už akmens anglis, koksą ir lignitą atleidžiami akmens anglys, koksas ir lignitas, kai jie parduodami ar kitaip perduodami nuosavybėn gyventojams, taip pat viešiesiems juridiniams asmenims, kurie pagal Labdaros ir paramos įstatymą yra paramos gavėjai.“
 
-\#### 4 straipsnis. Įstatymo 3 priedo 2, 3, 9 punktų pripažinimas netekusiais galios ir priedo papildymas 13 punktu
+## 4 straipsnis. Įstatymo 3 priedo 2, 3, 9 punktų pripažinimas netekusiais galios ir priedo papildymas 13 punktu
 
 1. Įstatymo 3 priedo 2 punktą pripažinti netekusiu galios.
 
@@ -68,7 +68,7 @@ Nuo akcizų už akmens anglis, koksą ir lignitą atleidžiami akmens anglys, ko
 
 „13. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų (OL 2011 L 176, p. 24).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 1 straipsnio 1 ir 2 dalys ir 2 straipsnis įsigalioja 2012 m. kovo 1 d.
 

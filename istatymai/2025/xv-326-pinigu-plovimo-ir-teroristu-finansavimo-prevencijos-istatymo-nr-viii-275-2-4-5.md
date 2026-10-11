@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/435af85255cc11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.435AF85255CC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 6, 7, 8, 9, 10, 15, 22, 23, 26, 27, 28, 29, 39, 40, 42 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 2, 
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „8) savivaldybės įmonės, akcinės bendrovės, uždarosios akcinės bendrovės, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymą, valdymo ar priežiūros organo narys;“.
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -50,25 +50,25 @@ Vilnius
 
 „16. Šio straipsnio 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo įdiegti informaciją teikiančio asmens konfidencialumą užtikrinančias priemones, kuriomis naudodamiesi asmenys saugiais kanalais praneštų nurodytoms institucijoms apie šio įstatymo pažeidimus.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Papildyti 5 straipsnio 1 dalį 11 punktu:
 
 „11) pagal Reglamentą [(ES) 2024/1620](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1620&locale=lt) bendradarbiauja su Kovos su pinigų plovimu ir teroristų finansavimu institucija ir teikia jos užduotims atlikti būtiną informaciją.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) neatlygintinai gauti iš šio įstatymo 4 straipsnio 1 dalyje nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, kitų valstybės institucijų, finansų įstaigų, kitų įpareigotųjų subjektų reikalingus duomenis ir dokumentus apie pinigines operacijas ir sandorius, finansinių ir (ar) mokėjimo priemonių panaudojimą ar kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti;“.
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) gauti iš šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese ar dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, reikalingus duomenis ir dokumentus apie pinigines operacijas ar sandorius arba kriptoturto operacijas ar sandorius arba operacijas virtualiąja valiuta ar sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti;“.
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -78,13 +78,13 @@ Pakeisti 7 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „2. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos bendradarbiauja ir keičiasi informacija su užsienio valstybių ir Europos Sąjungos institucijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones.“
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 13 dalį ir ją išdėstyti taip:
 
 „13. Finansų įstaigos ir kiti įpareigotieji subjektai kliento ir naudos gavėjo tapatybės nustatymo metu imasi pagrįstų priemonių, kad suprastų kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūrą ir veiklos pobūdį.“
 
-\#### 8 straipsnis. 10 straipsnio pakeitimas
+## 8 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 9 straipsnio 13 dalį ir ją išdėstyti taip:
 
 „5. Kai klientas yra juridinis asmuo, atstovaujamas fizinio asmens, arba klientui – fiziniam asmeniui atstovauja kitas fizinis asmuo, finansų įstaiga ar kitas įpareigotasis subjektas turi pareikalauti iš jo įgaliojimo ir patikrinti jo galiojimą (tai yra jį išdavusio asmens teisę išduoti tokį įgaliojimą), įgaliojimo galiojimo laiką, kokius veiksmus atlikti nurodyta įgaliojime (įgaliojimas turi atitikti Lietuvos Respublikos civilinio kodekso reikalavimus). Užsienyje išduotas įgaliojimas turi būti legalizuotas arba patvirtintas dokumentų tvirtinimo pažyma (*apostille*), išskyrus įgaliojimus, išduotus Europos Sąjungos valstybėse narėse.“
 
-\#### 9 straipsnis. 15 straipsnio pakeitimas
+## 9 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -152,31 +152,31 @@ d) remiantis Finansinių veiksmų darbo grupės kovai su pinigų plovimu ir tero
 
 8. Jeigu vykdant nuolatinę kliento dalykinių santykių stebėseną nustatoma, kad pinigų plovimo ir (ar) teroristų finansavimo rizika nebėra maža, finansų įstaigos ir kiti įpareigotieji subjektai privalo imtis šio įstatymo 9 straipsnyje nustatytų priemonių ir nustatyti bei patikrinti ir kliento, ir naudos gavėjo tapatybę.“
 
-\#### 10 straipsnis. 22 straipsnio pakeitimas
+## 10 straipsnis. 22 straipsnio pakeitimas
 
 Papildyti 22 straipsnį 8 dalimi:
 
 „8. Finansų įstaigos, nurodytos Reglamento [(ES) 2024/1620](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1620&locale=lt) 77 straipsnyje, privalo mokėti metinį priežiūros mokestį Kovos su pinigų plovimu ir teroristų finansavimu institucijai. Už praleistą metinio priežiūros mokesčio sumokėjimo terminą finansų įstaigos privalo mokėti delspinigius – 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą. Nesumokėtas metinis priežiūros mokestis ir delspinigiai Kovos su pinigų plovimu ir teroristų finansavimu institucijos sprendimu gali būti išieškomi Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“
 
-\#### 11 straipsnis. 23 straipsnio pakeitimas
+## 11 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, jų darbuotojams, finansų įstaigoms ir jų darbuotojams, kitiems įpareigotiesiems subjektams ir jų darbuotojams draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas pinigines operacijas arba sudaromus sandorius ar bet kokia kita informacija pateikta Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai. Šioje dalyje nustatytas draudimas netaikomas notarams, notaro atstovams ar asmenims, turintiems teisę atlikti notarinius veiksmus, advokatams ir advokatų padėjėjams ir antstoliams ar antstolio atstovams, kai jie siekia įtikinti klientą neužsiimti neteisėta veikla.“
 
-\#### 12 straipsnis. 26 straipsnio pakeitimas
+## 12 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Į Nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus privalo atsižvelgti šio įstatymo 4 straipsnio 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, rengdamos finansų įstaigoms ir kitiems įpareigotiesiems subjektams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui.“
 
-\#### 13 straipsnis. 27 straipsnio pakeitimas
+## 13 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Nacionaliniame pinigų plovimo ir teroristų finansavimo rizikos vertinime dalyvauja visos šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, ir pagal poreikį gali būti pasitelkiamos kitos valstybės ar užsienio valstybės institucijos, įstaigos, organizacijos, ekspertai, specialistai ir kiti asmenys.“
 
-\#### 14 straipsnis. 28 straipsnio pakeitimas
+## 14 straipsnis. 28 straipsnio pakeitimas
 
 1. Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -190,7 +190,7 @@ Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, šio straipsnio 3 dalyje nurodytu tikslu kaupia išsamią statistinę informaciją, susijusią su sektoriaus dydžiu ir svarba, įskaitant kiekvieno sektoriaus subjektų ir asmenų skaičių bei reikšmę ekonomikai; patikrinimų (įskaitant patikrinimų, prižiūrimų finansų įstaigų ir kitų įpareigotųjų subjektų, patalpose skaičių ir patikrinimų ne patalpose skaičių) ir už šio įstatymo pažeidimus taikytų poveikio priemonių skaičių per metus; žmogiškuosius ir finansinius išteklius, skirtus pinigų plovimo ir (ar) teroristų finansavimo prevencijai.“
 
-\#### 15 straipsnis. 29 straipsnio pakeitimas
+## 15 straipsnis. 29 straipsnio pakeitimas
 
 1. Pakeisti 29 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -200,7 +200,7 @@ Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „6. Šio įstatymo 4 straipsnio 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, bei finansų įstaigos ir kiti įpareigotieji subjektai periodiškai ar įvykus svarbiems finansų įstaigų ir kitų įpareigotųjų subjektų valdymo ir veiklos įvykiams ar pokyčiams vykdo vidaus kontrolės procedūrų įgyvendinimo bei pakankamumo stebėseną ir prireikus nurodo griežtinti, griežtina finansų įstaigų ir kitų įpareigotųjų subjektų taikomas vidaus kontrolės procedūras.“
 
-\#### 16 straipsnis. Įstatymo papildymas 321 straipsniu
+## 16 straipsnis. Įstatymo papildymas 321 straipsniu
 
 Papildyti Įstatymą 32^1 straipsniu:
 
@@ -210,25 +210,25 @@ Papildyti Įstatymą 32^1 straipsniu:
 
 2. Prašymą dėl teismo leidimo atlikti patikrinimą vietoje išdavimo rašytinio proceso tvarka, išskyrus atvejus, kai teismas nusprendžia prašymą nagrinėti žodinio proceso tvarka, nagrinėja pirmosios instancijos administracinis teismas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas dėl teismo leidimo atlikti patikrinimą vietoje turi būti išnagrinėtas ir priimta nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Kovos su pinigų plovimu ir teroristų finansavimu institucija nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo nutarties, kuria atmestas jos prašymas dėl teismo leidimo atlikti patikrinimą vietoje, priėmimo šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Kovos su pinigų plovimu ir teroristų finansavimu institucijos atstovas turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo atlikti patikrinimą vietoje išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.“
 
-\#### 17 straipsnis. 39 straipsnio pakeitimas
+## 17 straipsnis. 39 straipsnio pakeitimas
 
 Pakeisti 39 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu finansų įstaiga ar užsienio finansų įstaigos filialas yra patronuojančioji įstaiga arba priklauso patronuojančiajai grupės įstaigai ir rengia konsoliduotąsias finansines ataskaitas Įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.“
 
-\#### 18 straipsnis. 40 straipsnio pakeitimas
+## 18 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Jeigu kiti įpareigotieji subjektai yra patronuojančioji įmonė arba priklauso patronuojančiajai grupės įmonei ir rengia konsoliduotąsias finansines ataskaitas Įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.“
 
-\#### 19 straipsnis. 42 straipsnio pakeitimas
+## 19 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Priežiūros institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos ar teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos.“
 
-\#### 20 straipsnis. Įstatymo priedo pakeitimas
+## 20 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 8 punktu:
 

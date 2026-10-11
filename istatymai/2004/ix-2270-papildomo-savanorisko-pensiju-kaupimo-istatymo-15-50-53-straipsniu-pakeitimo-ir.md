@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EA934522AD36"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EA934522AD36.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 15, 50, 53 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [55-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B); 2003, Nr. [75-3473](https://www.e-tar.lt/portal/lt/legalAct/TAR.9C7D1D0B8510))
 
-\#### 1 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
@@ -60,13 +60,13 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 
 8. Teikti informaciją apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo sutartis valdymo įmonės vardu gali tik nepriekaištingos reputacijos ir pensijų kaupimo veiklą reglamentuojančius teisės aktus išmanantys asmenys.“
 
-\#### 2 straipsnis. 50 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 50 straipsnio 2 dalies pakeitimas
 
 Pakeisti 50 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Naujai sukurto pensijų fondo investicijų portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio Įstatymo 47–49 straipsnių reikalavimų.“
 
-\#### 3 straipsnis. 53 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 53 straipsnio 4 dalies pakeitimas
 
 Pakeisti 53 straipsnio 4 dalį ir ją išdėstyti taip:
 

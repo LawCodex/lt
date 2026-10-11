@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.109E0899B625"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.109E0899B625.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 90, 113 ir 119 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1996, Nr. [102-2315](https://www.e-tar.lt/portal/lt/legalAct/TAR.41490157DAB9))
 
-\#### 1 straipsnis. 90 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 90 straipsnio 3 dalies pakeitimas
 
 Pakeisti 90 straipsnio 3 dalies paskutinįjį sakinį ir šią dalį išdėstyti taip:
 
 „Asmens ar visuomenės sveikatos priežiūros licencijas, sertifikatus, leidimus išduoda, juos atšaukia Valstybinė akreditavimo sveikatos priežiūrai tarnyba prie Sveikatos apsaugos ministerijos. Gydytojams medicinos praktikos licencijas ir sertifikatus išduoda, atnaujina, sustabdo ir panaikina Sveikatos apsaugos ministerija. Farmacijos veiklos leidimus (licencijas) išduoda, juos atšaukia Sveikatos apsaugos ministerija.“
 
-\#### 2 straipsnis. 113 straipsnio pakeitimas
+## 2 straipsnis. 113 straipsnio pakeitimas
 
 Pakeisti 113 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Apskrities gydytojas:
 
 Apskrities gydytojas savo funkcijoms įgyvendinti turi specialistus ir pagalbinį personalą, kurių etatų struktūrą ir skaičių nustato apskrities viršininkas, neviršydamas nustatyto darbo užmokesčio fondo. Prie apskrities gydytojo sudaroma visuomeninė konsultacinė taryba sveikatos priežiūros paslaugų teikimo racionalizavimui apskrityje įgyvendinti.“
 
-\#### 3 straipsnis. 119 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 119 straipsnio 2 dalies pakeitimas
 
 Išbraukti 119 straipsnio 2 dalies 2 punktą, o 3, 4, 5, 6, 7 punktus laikyti atitinkamai 2, 3, 4, 5, 6 punktais ir visą straipsnį išdėstyti taip:
 

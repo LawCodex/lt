@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9467D6FD69D5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9467D6FD69D5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
@@ -24,9 +24,9 @@ GAMTINIŲ DUJŲ ĮSTATYMO PAKEITIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas ir reglamentuojama sritis
+## 1 straipsnis. Įstatymo tikslas ir reglamentuojama sritis
 
 1. Šis įstatymas nustato Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymo (toliau – Gamtinių dujų įstatymas) įgyvendinimo principus ir tvarką. Įstatymas nustato įmonių, neatitinkančių Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimų (toliau – Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų įmonės), prisitaikymo prie Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimų procedūrą.
 
@@ -34,9 +34,9 @@ Vilnius
 
 3. Šio įstatymo nuostatos yra suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
-\### ANTRASIS SKIRSNIS. VEIKLŲ ATSKYRIMO ĮGYVENDINIMAS
+ANTRASIS SKIRSNIS. VEIKLŲ ATSKYRIMO ĮGYVENDINIMAS
 
-\#### 2 straipsnis. Pareiga prisitaikyti prie Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimų
+## 2 straipsnis. Pareiga prisitaikyti prie Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimų
 
 1. Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų įmonės privalo imtis visų būtinų veiksmų, kad būtų pasiekta atitiktis Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimams. Tol, kol Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų įmonės pasiekia atitiktį Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimams, joms yra taikomi iki Gamtinių dujų įstatymo pakeitimo įstatymo įsigaliojimo taikyti veiklų atskyrimo reikalavimai.
 
@@ -54,7 +54,7 @@ Vilnius
 
 6. Pasiekus atitiktį Gamtinių dujų įstatymo aštuntojo skirsnio „Veiklų ir apskaitos atskyrimas“ reikalavimams, nei perdavimo sistemos operatoriaus, kuris priklausė vertikaliai integruotai įmonei, turima informacija, laikoma komercine (gamybine) ar profesine paslaptimi, nei tokio perdavimo sistemos operatoriaus darbuotojai negali būti perduoti gamtinių dujų įmonėms, atliekančioms kurias nors iš gavybos ir tiekimo funkcijų.
 
-\#### 3 straipsnis. Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių kontrolės pertvarkymas
+## 3 straipsnis. Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių kontrolės pertvarkymas
 
 1. Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų įmonės, kad pasiektų atitiktį Gamtinių dujų įstatymo aštuntajame skirsnyje „Veiklų ir apskaitos atskyrimas“ nustatytiems reikalavimams, gali siekti atitikties Gamtinių dujų įstatymo aštuntajame skirsnyje „Veiklų ir apskaitos atskyrimas“ nustatytiems reikalavimams savo iniciatyva pertvarkydamos įmonės kontrolę. Gamtinių dujų įmonės kontrolės pertvarkymas vykdomas per sandorius (turto perleidimo, akcijų perleidimo, teisių suteikimo, akcininkų teisių perleidimo, akcininkų sutarties, įstatinio kapitalo didinimo ar mažinimo ar bet kokius kitus), sudarytus šio straipsnio 2 dalyje nustatyta tvarka.
 
@@ -62,7 +62,7 @@ Vilnius
 
 3. Gamtinių dujų įmonė, įgyvendinusi sandorius atitikties atskyrimo reikalavimams pasiekti, kreipiasi į Komisiją dėl Gamtinių dujų įstatymo draudžiamos kontrolės praradimą patvirtinančios išvados išdavimo. Jeigu Komisija pateikia išvadą, kad buvo prarasta Gamtinių dujų įstatymo draudžiama kontrolė, atitinkama gamtinių dujų įmonė praranda Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų įmonės statusą.
 
-\#### 4 straipsnis. Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių reorganizavimas
+## 4 straipsnis. Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių reorganizavimas
 
 1. Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių valdymo organai, bendradarbiaudami su Komisija, parengia ir Komisijai pateikia atitinkamo juridinio asmens reorganizavimo sąlygas, užtikrinančias atitiktį Gamtinių dujų įstatymo ketvirtajame skirsnyje „Licencijos, atestatai ir leidimai gamtinių dujų sektoriuje“ ir aštuntajame skirsnyje „Veiklų ir apskaitos atskyrimas“ nustatytiems reikalavimams.
 
@@ -72,13 +72,13 @@ Vilnius
 
 4. Kai Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių valdymo organai suderina reorganizavimo sąlygas su Komisija, šios įmonės atlieka visus Lietuvos Respublikos civiliniame kodekse ir Akcinių bendrovių įstatyme numatytus reorganizavimo veiksmus, kad būtų įsteigtos Gamtinių dujų įstatymo reikalavimus atitinkančios savarankiškos gamtinių dujų įmonės.
 
-\#### 5 straipsnis. Reikalavimų pertvarkyti kontrolę arba reorganizuoti Gamtinių dujų įstatymo reikalavimų neatitinkančias gamtinių dujų įmones nesilaikymo pasekmės
+## 5 straipsnis. Reikalavimų pertvarkyti kontrolę arba reorganizuoti Gamtinių dujų įstatymo reikalavimų neatitinkančias gamtinių dujų įmones nesilaikymo pasekmės
 
 Jeigu Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų įmonės nevykdo arba vėluoja vykdyti Gamtinių dujų įstatymo ir šio įstatymo reikalavimus, Komisija, ištyrusi pažeidimą, gali priimti sprendimą dėl baudos skyrimo. Už veiklų atskyrimo reikalavimų ar kitų šiame įstatyme nustatytų reikalavimų nesilaikymą arba numatytų terminų praleidimą skiriama bauda iki dešimties procentų atitinkamos bendrovės metinių pajamų. Skiriant baudą, įvertinamas pažeidimo sunkumas, terminų praleidimo trukmė, Gamtinių dujų įstatymo reikalavimų neatitinkančių gamtinių dujų įmonių bendradarbiavimas tiriant pažeidimą ir įgyvendinant veiklų atskyrimo arba kitus šiame įstatyme nustatytus reikalavimus, pažeidimo pasekmės, atsakomybę lengvinančios ir sunkinančios aplinkybės. Baudų skyrimo tvarką nustato Lietuvos Respublikos energetikos įstatymas.
 
-\### TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+TREČIASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 6 straipsnis. Įstatymo įgyvendinimas
+## 6 straipsnis. Įstatymo įgyvendinimas
 
 1. Vyriausybė ar jos įgaliotos institucijos parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
 
@@ -88,7 +88,7 @@ Jeigu Gamtinių dujų įstatymo reikalavimų neatitinkančios gamtinių dujų į
 
 4. Šio straipsnio 3 dalyje nurodytas terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo datos.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
 

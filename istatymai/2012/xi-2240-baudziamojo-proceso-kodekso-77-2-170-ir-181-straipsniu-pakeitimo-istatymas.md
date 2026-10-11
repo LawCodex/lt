@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CDC6BA2567B4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CDC6BA2567B4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 77-2, 170 ir 181 straipsnių pakeitimo įstatymas
@@ -26,25 +26,25 @@ Vilnius
 
 Nr. 157-7981; 2011, Nr. 81-3965)
 
-\#### 1 straipsnis. 772 straipsnio 5 dalies 1 punkto pakeitimas
+## 1 straipsnis. 772 straipsnio 5 dalies 1 punkto pakeitimas
 
 77^2 straipsnio 5 dalies 1 punkte vietoj žodžių „vykstančiam operatyviniam tyrimui“ įrašyti žodžius „vykstančiai kriminalinei žvalgybai“ ir šį punktą išdėstyti taip:
 
 „1) turto ar įrodymų arešto akto vykdymas pakenktų vykstančiai kriminalinei žvalgybai arba baudžiamajam procesui;“.
 
-\#### 2 straipsnis. 170 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 170 straipsnio 3 dalies pakeitimas
 
 170 straipsnio 3 dalyje po žodžio „nutarimus“ įrašyti žodžius „paveda kriminalinės žvalgybos subjektams panaudoti kriminalinės žvalgybos informacijos rinkimo būdus ar priemones, kuriomis nėra ribojamos šio Kodekso 44 straipsnio 9 dalyje numatytos asmens teisės“ ir šią dalį išdėstyti taip:
 
 „3. Prokuroras duoda ikiteisminio tyrimo pareigūnams privalomus nurodymus, panaikina neteisėtus ar nepagrįstus jų nutarimus, paveda kriminalinės žvalgybos subjektams panaudoti kriminalinės žvalgybos informacijos rinkimo būdus ar priemones, kuriomis nėra ribojamos šio Kodekso 44 straipsnio 9 dalyje numatytos asmens teisės.“
 
-\#### 3 straipsnis. 181 straipsnio 6 dalies 4 punkto pakeitimas
+## 3 straipsnis. 181 straipsnio 6 dalies 4 punkto pakeitimas
 
 181 straipsnio 6 dalies 4 punkte vietoj žodžių „atliekant operatyvinius veiksmus“ įrašyti žodžius „panaudojus kriminalinės žvalgybos informacijos rinkimo būdus ir priemones“, vietoj žodžių „operatyvinės veikos“ įrašyti žodžius „kriminalinės žvalgybos“ ir šį punktą išdėstyti taip:
 
 „4) užfiksuoti proceso veiksmų protokoluose ir jų prieduose (nuotraukose, negatyvuose, garso, vaizdo įrašuose, skaitmeninės informacijos laikmenose ir kitaip fiksuojant techninių priemonių panaudojimo rezultatus), kai informacija gauta panaudojus kriminalinės žvalgybos informacijos rinkimo būdus ir priemones Lietuvos Respublikos kriminalinės žvalgybos įstatymo ar šio Kodekso 154, 155, 158, 159, 160 straipsniuose nustatyta tvarka;“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

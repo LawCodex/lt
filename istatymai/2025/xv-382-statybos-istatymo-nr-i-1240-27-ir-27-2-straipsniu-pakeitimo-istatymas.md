@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/026c195255d111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.026C195255D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-2 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ STATYBOS ĮSTATYMO NR. I-1240 27 IR 272 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 27 straipsnio pakeitimas
+## 1 straipsnis. 27 straipsnio pakeitimas
 
 1. Pakeisti 27 straipsnio 11 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „34. Neturint statybą leidžiančio dokumento gali būti pradėti statyti statiniai, kurie, priėmus sprendimą Lietuvos Respublikoje įvesti nepaprastąją padėtį, Vyriausybės sprendimu pripažinti tiesiogiai susijusiais su nepaprastosios padėties įvedimo tikslų ir priemonių įgyvendinimu.“
 
-\#### 2 straipsnis. 272 straipsnio pakeitimas
+## 2 straipsnis. 272 straipsnio pakeitimas
 
 Papildyti 27^2 straipsnį 5^1 dalimi:
 
@@ -68,7 +68,7 @@ Papildyti 27^2 straipsnį 5^1 dalimi:
 
 7) susisiekimo komunikacijų ir inžinerinių tinklų, kuriems statyti privalomas statybą leidžiantis dokumentas, savininkų, valdytojų ar naudotojų išvada, kad techninio darbo projekto sprendiniai atitinka prisijungimo sąlygose nustatytus reikalavimus (kai rengiant statinio projektą buvo išduotos prisijungimo sąlygos). Inžinerinių tinklų ir susisiekimo komunikacijų savininkas (valdytojas) ar naudotojas išduoda arba motyvuotai atsisako išduoti išvadą, kad techninio darbo projekto sprendiniai atitinka prisijungimo sąlygose nustatytus reikalavimus, per 10 darbo dienų nuo statytojo (užsakovo) prašymo išduoti šią išvadą gavimo ir atitinkamos techninio darbo projekto dalies pateikimo dienos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

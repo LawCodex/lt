@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7582654EDA31"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7582654EDA31.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo bei čekių įstatymo įgyvendinimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 1 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Pasiūlyti Vyriausybei:
 
@@ -34,7 +34,7 @@ Pasiūlyti Vyriausybei:
 
 2) per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos patvirtinti Vekselių ir čekių naudojimo taisykles; Vekselių ir čekių protestavimo taisykles; Notarų vykdomųjų įrašų atlikimo tvarką; kartu su Lietuvos banku organizuoti vekselių blankų spausdinimą ir platinimą.
 
-\#### 2 straipsnis. Teisės akto pripažinimas netekusiu galios
+## 2 straipsnis. Teisės akto pripažinimas netekusiu galios
 
 Įsigaliojus Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymui ir Lietuvos Respublikos čekių įstatymui, netenka galios Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. birželio 30 d. nutarimo Nr. I-2688 „Dėl Lietuvos Respublikos prisijungimo prie Ženevos vekselių ir čekių konvencijų“ (Žin., 1992, Nr. [26-766](https://www.e-tar.lt/portal/lt/legalAct/TAR.CCB8BCCA032C)) 2 punktas.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1724A818D80B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1724A818D80B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo 11, 43(1) straipsnių papildymo ir pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1957](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895); 1996, Nr. [30-731](https://www.e-tar.lt/portal/lt/legalAct/TAR.35EE7B612E1D))
 
-\#### 1 straipsnis. 11 straipsnio 1 dalies papildymas 16 punktu
+## 1 straipsnis. 11 straipsnio 1 dalies papildymas 16 punktu
 
 Papildyti 11 straipsnio 1 dalį 16 punktu:
 
 „16) vykdo komercinio banko tarybos įgaliojimus, kurie pereina Lietuvos banko valdybai pagal Komercinių bankų įstatymo 39 straipsnio ketvirtosios dalies 1 punkto nuostatas.“
 
-\#### 2 straipsnis. 431 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 431 straipsnio 3 dalies pakeitimas
 
 43^1 straipsnio 3 dalyje po žodžių „banko administratorių“ įrašyti žodžius „o jei reikia, ir jo padėjėjus“ ir šią dalį išdėstyti taip:
 

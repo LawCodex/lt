@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.875C391F41F9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.875C391F41F9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymo 65 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2004, Nr. [69-2382](https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049))
 
-\#### 1 straipsnis. 65 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 65 straipsnio 4 dalies pakeitimas
 
 Pakeisti 65 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Viešųjų ryšių tinklų teikėjai ir viešųjų elektroninių ryšių paslaugų teikėjai neatlygintinai teikia vietos nustatymo duomenis (įskaitant ir srauto duomenis) be abonento ar faktinio elektroninių ryšių paslaugų naudotojo sutikimo Bendrajam pagalbos centrui. Įrangos (ir susijusios programinės įrangos), nebūtinos teikėjo ūkinei veiklai užtikrinti, bet reikalingos vietos nustatymo duomenims (įskaitant ir srauto duomenis) teikti, įsigijimo, įdiegimo (pritaikymo), atnaujinimo ir veikimo palaikymo išlaidos viešųjų ryšių tinklų teikėjams ir viešųjų elektroninių ryšių paslaugų teikėjams kompensuojamos valstybės lėšomis Vyriausybės nustatyta tvarka. Kitos detalios šios dalies įgyvendinimo sąlygos ir tvarka gali būti nustatytos šio Įstatymo 34 straipsnio 8 dalyje nurodyta tvarka ir sąlygomis.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja nuo 2007 m. rugsėjo 1 d.
 

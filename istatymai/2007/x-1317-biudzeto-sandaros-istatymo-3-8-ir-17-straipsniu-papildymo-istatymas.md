@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2EBBAC837F9C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2EBBAC837F9C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 3, 8 ir 17 straipsnių papildymo įstatymas
@@ -24,25 +24,25 @@ Vilnius
 
 (Žin., 1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 2000, Nr. [61-1826](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF36F4AB8EDA); 2004, Nr. [4-47](https://www.e-tar.lt/portal/lt/legalAct/TAR.691728933211))
 
-\#### 1 straipsnis. 3 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 3 straipsnio papildymas 4 dalimi
 
 Papildyti 3 straipsnį 4 dalimi:
 
 „4. Lietuvos Respublikos Seimas tvirtina trejų metų nacionalinio biudžeto prognozuojamus rodiklius.“
 
-\#### 2 straipsnis. 8 straipsnio 1 dalies papildymas
+## 2 straipsnis. 8 straipsnio 1 dalies papildymas
 
 Papildyti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis Įstatymas, Fiskalinės drausmės įstatymas, Seimo statutas, Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.“
 
-\#### 3 straipsnis. 17 straipsnio 2 dalies papildymas
+## 3 straipsnis. 17 straipsnio 2 dalies papildymas
 
 Papildyti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Valstybės biudžeto projektas rengiamas trejiems biudžetiniams metams remiantis Vyriausybės programa, Valstybės ilgalaikės raidos strategija, strateginio planavimo principais, šiuo Įstatymu, Fiskalinės drausmės įstatymu, kitais įstatymais bei kitais teisės aktais, šalies ūkio plėtros makroekonominėmis prognozėmis, Europos Sąjungos paramos strateginiais dokumentais, ministerijų ir Vyriausybės įstaigų strateginiais veiklos planais ir Vyriausybės patvirtintais nacionalinio biudžeto prognozuojamais pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų sąmatų projektais.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62BDE4F534B3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62BDE4F534B3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 20, 26, 27, 31, 45, 46, 47, 48, 51 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 1994, Nr. [78-1463](https://www.e-tar.lt/portal/lt/legalAct/TAR.5653694FA9E6); 1998, Nr. [49-1329](https://www.e-tar.lt/portal/lt/legalAct/TAR.D19DD3E4FAA6); 1999, Nr. [32-903](https://www.e-tar.lt/portal/lt/legalAct/TAR.6392CD756973), 905)
 
-\#### 1 straipsnis. 20 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 20 straipsnio 1 dalies pakeitimas
 
 Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Notaras negali dirbti ar eiti kitų apmokamų pareigų įmonėse, įstaigose ir organizacijose, užsiimti verslu, išskyrus darbą notarų savivaldos institucijose ir mokslinį, kūrybinį ar pedagoginį darbą.“
 
-\#### 2 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 17) atlieka kitus įstatymų numatytus notarinius veiksmus.“
 
-\#### 3 straipsnis. 27 straipsnio pakeitimas
+## 3 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -100,19 +100,19 @@ Lietuvos Respublikos konsulinės įstaigos atlieka šiuos notarinius veiksmus:
 
 9) atlieka kitus įstatymų numatytus notarinius veiksmus.“
 
-\#### 4 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Notaras, atlikdamas notarinius veiksmus, nustato fizinių asmenų, jų atstovų arba juridinių asmenų atstovų asmens tapatybę. Lietuvos Respublikos piliečių asmens tapatybė nustatoma pagal pateiktą pasą arba kitą asmens tapatybę patvirtinantį dokumentą, kuriame yra asmens kodas ir nuotrauka. Užsieniečių asmens tapatybė nustatoma pagal valstybės, kurioje yra jų nuolatinė gyvenamoji vieta, išduotus asmens tapatybę patvirtinančius dokumentus. Užsieniečių, kurie ieško prieglobsčio Lietuvos Respublikoje, asmens tapatybė nustatoma pagal valstybės, kurioje buvo jų nuolatinė gyvenamoji vieta, išduotą asmens tapatybę patvirtinantį dokumentą arba užsieniečio registracijos pažymėjimą, arba išduotą leidimą nuolat gyventi Lietuvos Respublikoje.“
 
-\#### 5 straipsnis. IV skyriaus pavadinimo pakeitimas
+## 5 straipsnis. IV skyriaus pavadinimo pakeitimas
 
 Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
 „NOTARINIŲ VEIKSMŲ ATLIKIMO YPATUMAI“.
 
-\#### 6 straipsnis. 45 straipsnio pakeitimas
+## 6 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 Notaras tvirtina sandorius, kuriems Civilinis kodeksas ar Civilinio kodekso numatytais atvejais kiti įstatymai nustato privalomą notarinę formą. Notaras gali tvirtinti ir tuos sandorius, kuriuos įstatymai leidžia sudaryti žodžiu arba kuriems sudaryti įstatymai nustato paprastą rašytinę formą.“
 
-\#### 7 straipsnis. 46 straipsnio pakeitimas
+## 7 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Sandorius, susijusius su nepilnamečio vaiko turtu, Civilinio kodekso nustatytai
 
 Nuosavybės teisės į nekilnojamąjį daiktą perleidimo sutartyse notaras nurodo sutarties sudarymo laiką (valandas ir minutes). Šiose sutartyse taip pat nurodoma, kad nuosavybės teisė į nekilnojamąjį daiktą įgijėjui pereina nuo daikto perdavimo momento, o sutarties šalys prieš trečiuosius asmenis nuosavybės teisės į nekilnojamąjį daiktą perleidimo sutartį gali panaudoti tik tuo atveju, jei nuosavybės teisės perėjimo faktas daikto priėmimo-perdavimo akto ar kito dokumento pagrindu įstatymų nustatyta tvarka įregistruotas viešame registre. Duomenis apie patvirtintą sutartį notaras perduoda viešo registro tvarkytojui per 24 valandas nuo sutarties patvirtinimo momento teisės aktų nustatyta tvarka.“
 
-\#### 8 straipsnis. 47 straipsnio pakeitimas
+## 8 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -150,7 +150,7 @@ Notaras nustato liudytojų, kurie dalyvauja tvirtinant sandorį, asmens tapatyb�
 
 Liudytojais negali būti asmenys, kurių naudai atliekami notariniai veiksmai.“
 
-\#### 9 straipsnis. 48 straipsnio pakeitimas
+## 9 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Testamentai gali būti tvirtinami dalyvaujant asmenims, kuriems paliekamas turta
 
 Notaras oficialiuosius, oficialiesiems testamentams prilyginamus ir asmeninius testamentus saugo seife.“
 
-\#### 10 straipsnis. 51 straipsnio pakeitimas
+## 10 straipsnis. 51 straipsnio pakeitimas
 
 Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 51 straipsnį ir jį išdėstyti taip:
 
 Notaras įstatymų nustatytais atvejais turi pateikti registrams duomenis apie sutartis, testamentus ir palikimo priėmimo faktus teisės aktų nustatyta tvarka.“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus Notariato įstatymo 26 straipsnio 1 dalies 15 ir 16 punktus, įsigalioja nuo Lietuvos Respublikos civilinio kodekso (Žin., 2000, Nr. 74-2262) įsigaliojimo.
 

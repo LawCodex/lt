@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5B9CD1D72680"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5B9CD1D72680.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E); 2003, Nr. [123-5586](https://www.e-tar.lt/portal/lt/legalAct/TAR.146094DDC821); 2007, Nr. [68-2654](https://www.e-tar.lt/portal/lt/legalAct/TAR.2341757E0199); 2008, Nr. [82-3236](https://www.e-tar.lt/portal/lt/legalAct/TAR.93CE20E820CA), Nr. [137-5372](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CBC645A67BD); 2011, Nr. [121-5707](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D456B6A469C); 2012, Nr. [51-2531](https://www.e-tar.lt/portal/lt/legalAct/TAR.85582B6CAA33))
 
-\#### 1 straipsnis. 3 straipsnio 4 ir 5 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 4 ir 5 dalių pakeitimas
 
 1. 3 straipsnio 4 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „5. Viešojo sektoriaus subjektai, tvarkydami apskaitą, vadovaujasi viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais, kuriuos tvirtina ir Teisės aktų registre skelbia Finansų ministerija. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos rengiamą metodiką (nurodymus, studijas).“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 7 straipsnio 1 ir 2 dalyse vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir visą straipsnį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 3. Ūkio subjektas susidaro savo sąskaitų planą. Jį tvirtina to ūkio subjekto vadovas.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

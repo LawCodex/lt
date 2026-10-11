@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3491811EABE2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3491811EABE2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 41 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. 66- 2130; 2002, Nr. 45-1708; 2003, Nr. 101-4534*;*2006, Nr. 4-97; 2007, Nr. 69-2723; 2008, Nr. 143-5688)
 
-\#### 1 straipsnis. 41 straipsnio 1 ir 4 dalių pakeitimas
+## 1 straipsnis. 41 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „4. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo valstybės tarnautojo atleidimo dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šis įstatymas taikomas valstybės tarnautojams, atleistiems iš darbo po šio įstatymo įsigaliojimo.
 

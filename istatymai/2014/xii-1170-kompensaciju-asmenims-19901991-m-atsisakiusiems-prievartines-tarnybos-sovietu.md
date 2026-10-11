@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4a310a704aed11e4a8328599cac64d82"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4A310A704AED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų asmenims, 1990–1991 m. atsisakiusiems prievartinės tarnybos sovietų armijoje ir dėl to nukentėjusiems nuo sovietų armijos veiksmų, įstatymo Nr. XI-2007 3 straipsnio pakeitimo įstatymas

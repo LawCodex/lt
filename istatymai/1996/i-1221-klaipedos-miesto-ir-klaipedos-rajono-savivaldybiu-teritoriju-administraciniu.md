@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.64175F443E4E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.64175F443E4E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos miesto ir Klaipėdos rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas
@@ -26,7 +26,7 @@ KLAIPĖDOS MIESTO IR KLAIPĖDOS RAJONO SAVIVALDYBIŲ TERITORIJŲ ADMINISTRACINI�
 
 Vilnius
 
-\#### 1 straipsnis. Klaipėdos miesto savivaldybei priskiriamos gyvenamosios vietovės ar jų dalys
+## 1 straipsnis. Klaipėdos miesto savivaldybei priskiriamos gyvenamosios vietovės ar jų dalys
 
 Priskirti Klaipėdos miesto savivaldybei šias Klaipėdos rajono savivaldybės gyvenamąsias vietoves ar jų dalis:
 
@@ -38,7 +38,7 @@ Priskirti Klaipėdos miesto savivaldybei šias Klaipėdos rajono savivaldybės g
 
 4) Kairių gyvenamosios vietovės dalį (Kretingos miškų urėdijos Klaipėdos girininkijos naudojama žemė – 6 ha), iš viso – 6 hektarus.
 
-\#### 2 straipsnis. Klaipėdos miesto savivaldybės teritorijos administracinės ribos
+## 2 straipsnis. Klaipėdos miesto savivaldybės teritorijos administracinės ribos
 
 Nustatyti šias Klaipėdos miesto savivaldybės teritorijos administracines ribas:
 
@@ -50,11 +50,11 @@ Nustatyti šias Klaipėdos miesto savivaldybės teritorijos administracines riba
 
 4) miesto vakarų riba – Baltijos jūros krantas.
 
-\#### 3 straipsnis. Klaipėdos miesto savivaldybės teritorijos administracinių ribų pažymėjimas geodeziniais ženklais
+## 3 straipsnis. Klaipėdos miesto savivaldybės teritorijos administracinių ribų pažymėjimas geodeziniais ženklais
 
 Įpareigoti Klaipėdos miesto savivaldybę per metus nuo šio įstatymo įsigaliojimo pažymėti Klaipėdos miesto savivaldybės teritorijos administracines ribas geodeziniais ženklais.
 
-\#### 4 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsako pripažinimas netekusiu galios
+## 4 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsako pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1987 m. rugsėjo 30 d. įsaką Nr. XI-1925 „Dėl Klaipėdos miesto ribų nustatymo“.
 

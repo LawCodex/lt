@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/473d02d2d69411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.473D02D2D694.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 3 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PELNO MOKESČIO ĮSTATYMO NR. IX-675 3 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „7) nacionalinis plėtros bankas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šio įstatymo 1 straipsnio 2 dalis įsigalioja po 10 darbo dienų nuo Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gavimo dienos.
 

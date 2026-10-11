@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F446CD79027E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F446CD79027E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 2, 3, 4, 6, 7, 14, 15, 16, 30 straipsnių, IV skyriaus pirmojo skirsnio pavadinimo ir priedo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [72-3017](https://www.e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055); 2004, Nr. [50-1636](https://www.e-tar.lt/portal/lt/legalAct/TAR.129E43CC42C3); 2006, Nr. [72-2667](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2A987141698); 2007, Nr. [116-4741](https://www.e-tar.lt/portal/lt/legalAct/TAR.E6C566196129); 2008, Nr. [53-1954](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B5CD91B7534))
 
-\#### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 8 dalimi
+## 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. 2 straipsnio 3 dalyje išbraukti žodį „specialių“, po žodžio „veikla“ įrašyti žodžius „ūkio subjektų, kitų fizinių ir juridinių asmenų atžvilgiu“ ir šią dalį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „8. **Ūkio subjektas** – kaip tai apibrėžta Lietuvos Respublikos viešojo administravimo įstatyme (toliau – Viešojo administravimo įstatymas).“
 
-\#### 2 straipsnis. 3 straipsnio 9 punkto pakeitimas ir straipsnio papildymas 13, 14, 15, 16 punktais
+## 2 straipsnis. 3 straipsnio 9 punkto pakeitimas ir straipsnio papildymas 13, 14, 15, 16 punktais
 
 1. 3 straipsnio 9 punkte išbraukti žodžius „gamtos išteklių naudojimo leidimus arba“ ir šį punktą išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „16) vertina teisės aktų nustatyta tvarka gautą informaciją apie ūkio subjektų veiklą.“
 
-\#### 3 straipsnis. 4 straipsnio 2, 7 punktų pakeitimas ir straipsnio papildymas 8, 9, 10 punktais
+## 3 straipsnis. 4 straipsnio 2, 7 punktų pakeitimas ir straipsnio papildymas 8, 9, 10 punktais
 
 1. Pakeisti 4 straipsnio 2 punktą ir jį išdėstyti taip:
 
@@ -82,13 +82,13 @@ Vilnius
 
 „10) metodinės pagalbos teikimo principas – aplinkos apsaugos valstybinės kontrolės institucijos ir pareigūnai bendradarbiauja su ūkio subjektais, konsultuoja ūkio subjektus savo kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones, padedančias ūkio subjektams laikytis teisės aktų reikalavimų, o poveikio priemones taiko kaip ultima ratio priemonę. Šis principas netaikomas ūkio subjektų veiklos patikrinimų metu, jeigu šio principo taikymas trukdo siekti ūkio subjektų veiklos aplinkos apsaugos valstybinės kontrolės tikslų, susijusių su teisės aktų reikalavimų laikymosi priežiūra.“
 
-\#### 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 6 straipsnio 1 dalyje po žodžių „tvarkymo“ įrašyti žodžius „ir EMAS logotipo ir Europos Sąjungos ekologinio ženklo naudojimo“, vietoj žodžių „srityje“ įrašyti žodžius „srityse“ ir šią dalį išdėstyti taip:
 
 „1. Aplinkos apsaugos valstybinę kontrolę, išskyrus aplinkos apsaugos valstybinę kontrolę cheminių medžiagų ir preparatų tvarkymo ir EMAS logotipo ir Europos Sąjungos ekologinio ženklo naudojimo srityse, Lietuvos Respublikoje vykdo Aplinkos ministerijai pavaldūs teritoriniai valstybinio administravimo subjektai – regionų aplinkos apsaugos departamentai, o aplinkos apsaugos valstybinę kontrolę cheminių medžiagų ir preparatų tvarkymo ir EMAS logotipo ir Europos Sąjungos ekologinio ženklo naudojimo srityse Lietuvos Respublikoje vykdo Aplinkos ministerijos įgaliota institucija (toliau – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos).“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 7 straipsnyje po žodžių „tvarkymo“ įrašyti žodžius „ir EMAS logotipo ir Europos Sąjungos ekologinio ženklo naudojimo“, vietoj žodžių „srityje“ įrašyti žodžius „srityse“ ir šį straipsnį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Vilnius
 
 Aplinkos apsaugos valstybinės kontrolės priežiūrą, išskyrus aplinkos apsaugos valstybinės kontrolės priežiūrą cheminių medžiagų ir preparatų tvarkymo ir EMAS logotipo ir Europos Sąjungos ekologinio ženklo naudojimo srityse, atlieka Aplinkos ministerija arba jos įgaliota institucija, o aplinkos apsaugos valstybinės kontrolės priežiūrą cheminių medžiagų ir preparatų tvarkymo ir EMAS logotipo ir Europos Sąjungos ekologinio ženklo naudojimo srityse atlieka Aplinkos ministerija (toliau – aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos). Kai aplinkos apsaugos valstybinės kontrolės priežiūrą atlieka Aplinkos ministerija, ji nevykdo šio Įstatymo 8 straipsnio 2 ir 4 punktuose nurodytų funkcijų.“
 
-\#### 6 straipsnis. IV skyriaus pirmojo skirsnio pavadinimo pakeitimas
+## 6 straipsnis. IV skyriaus pirmojo skirsnio pavadinimo pakeitimas
 
 IV skyriaus pirmojo skirsnio pavadinime prieš žodžius „fizinių ir juridinių asmenų“ įrašyti žodžius „ūkio subjektų konsultavimas, ūkio subjektų ir kitų“, vietoj žodžio „tikrinimas“ įrašyti žodį „patikrinimas“ ir skirsnio pavadinimą išdėstyti taip:
 
@@ -104,7 +104,7 @@ IV skyriaus pirmojo skirsnio pavadinime prieš žodžius „fizinių ir juridini
 
 **ŪKIO SUBJEKTŲ KONSULTAVIMAS, ŪKIO SUBJEKTŲ IR KITŲ FIZINIŲ IR JURIDINIŲ ASMENŲ VEIKLOS PATIKRINIMAS**“.
 
-\#### 7 straipsnis. 14 straipsnio pakeitimas
+## 7 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -116,19 +116,19 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 3. Ūkio subjekto veiklos patikrinimą atlikti ir poveikio priemones jam taikyti gali tas pats aplinkos apsaugos valstybinės kontrolės pareigūnas.“
 
-\#### 8 straipsnis. 15 straipsnio pavadinimo pakeitimas
+## 8 straipsnis. 15 straipsnio pavadinimo pakeitimas
 
 Pakeisti 15 straipsnio pavadinimą ir jį išdėstyti taip:
 
 „**15****straipsnis.****Aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai atliekant fizinių asmenų veiklos patikrinimą**“.
 
-\#### 9 straipsnis. 16 straipsnio pavadinimo pakeitimas
+## 9 straipsnis. 16 straipsnio pavadinimo pakeitimas
 
 Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip:
 
 „**16****straipsnis.****Aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai atliekant juridinių asmenų veiklos patikrinimą**“.
 
-\#### 10 straipsnis. 30 straipsnio pakeitimas
+## 10 straipsnis. 30 straipsnio pakeitimas
 
 30 straipsnyje išbraukti žodžius „gamtos išteklių naudojimo leidimą arba“ ir „gamtos išteklių naudojimo leidimas arba“ ir šį straipsnį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip:
 
 Jeigu aplinkai kenksmingą veiklą vykdo juridinis asmuo, kuriam yra išduotas taršos integruotos prevencijos ir kontrolės leidimas, šią veiklą sustabdyti galima panaikinant taršos integruotos prevencijos ir kontrolės leidimą. Taršos integruotos prevencijos ir kontrolės leidimą panaikina regionų aplinkos apsaugos departamentai arba regionų aplinkos apsaugos departamentų aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija Aplinkos ministerijos nustatyta tvarka.“
 
-\#### 11 straipsnis. Įstatymo priedo papildymas 4 ir 5 punktais
+## 11 straipsnis. Įstatymo priedo papildymas 4 ir 5 punktais
 
 1. Papildyti Įstatymo priedą 4 punktu:
 

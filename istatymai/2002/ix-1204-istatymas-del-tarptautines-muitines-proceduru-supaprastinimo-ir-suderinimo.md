@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E6876993E19F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E6876993E19F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės muitinės procedūrų supaprastinimo ir suderinimo konvencijos ir jos E.3 priedo dėl muitinės sandėlių ratifikavimo
@@ -26,11 +26,11 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ir jos priedo ratifikavimas
+## 1 straipsnis. Konvencijos ir jos priedo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 25 d. dekretą Nr. 1958, ratifikuoja Tarptautinę muitinės procedūrų supaprastinimo ir suderinimo konvenciją, sudarytą 1973 m. gegužės 18 d. Kiote, ir jos E.3 priedą dėl muitinės sandėlių (su išlygomis).
 
-\#### 2 straipsnis. Lietuvos Respublikos išlygos dėl Konvencijos E.3 priedo dėl muitinės sandėlių
+## 2 straipsnis. Lietuvos Respublikos išlygos dėl Konvencijos E.3 priedo dėl muitinės sandėlių
 
 Vadovaudamasis Konvencijos 5 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad:
 

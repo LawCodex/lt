@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.247DAE8A3F57"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.247DAE8A3F57.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 straipsnių ir priedo pakeitimo ir papildymo, 24 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 32(1), 32(2) straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [5-75](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62); 1996, Nr. [57-1335](https://www.e-tar.lt/portal/lt/legalAct/TAR.A497A19DF124); 1997, Nr. [65-1540](https://www.e-tar.lt/portal/lt/legalAct/TAR.FEB34C56FC81); 2000, Nr. [39-1093](https://www.e-tar.lt/portal/lt/legalAct/TAR.DA03EC25C86C); 2002, Nr. [2-49](https://www.e-tar.lt/portal/lt/legalAct/TAR.3D555BF4BF16); 2003, Nr. [61-2763](https://www.e-tar.lt/portal/lt/legalAct/TAR.F6BF0759BD62); 2004, Nr. [36-1179](https://www.e-tar.lt/portal/lt/legalAct/TAR.0311855FCC59), Nr. [60-2121](https://www.e-tar.lt/portal/lt/legalAct/TAR.84CF9F27446F))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 1 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 1 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Vilnius
 
 21) žala aplinkai – tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų (įskaitant ir saugomas teritorijas, kraštovaizdį, biologinę įvairovę) pokytis arba jų funkcijų, turimų savybių, naudingų aplinkai ar žmonėms (visuomenei), (toliau – funkcijos) pablogėjimas.“
 
-\#### 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
+## 2 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -64,19 +64,19 @@ Vilnius
 
 „Šis įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą.“
 
-\#### 3 straipsnis. 6 straipsnio 5 dalies 8 punkto pakeitimas
+## 3 straipsnis. 6 straipsnio 5 dalies 8 punkto pakeitimas
 
 Pakeisti 6 straipsnio 5 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) nustato ir kontroliuoja išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų (ir radioaktyviųjų medžiagų) normas bei apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (ir radioaktyvąsias medžiagas) išdavimo tvarką;“.
 
-\#### 4 straipsnis. 7 straipsnio 8 punkto pakeitimas
+## 4 straipsnis. 7 straipsnio 8 punkto pakeitimas
 
 Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „8) Lietuvos Respublikos įstatymų nustatyta tvarka paduoti skundą (prašymą) reikalaudami imtis atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta iki pradinės aplinkos būklė, bei nubausti asmenis,kaltus dėl kenksmingopoveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai (neveikimas) pažeidė piliečių, visuomeninių organizacijų, kitų juridinių ir fizinių asmenų teises ar įstatymų saugomus interesus;“.
 
-\#### 5 straipsnis. 8 straipsnio 7 punkto pakeitimas ir straipsnio papildymas 10 punktu
+## 5 straipsnis. 8 straipsnio 7 punkto pakeitimas ir straipsnio papildymas 10 punktu
 
 1. Pakeisti 8 straipsnio 7 punktą ir jį išdėstyti taip:
 
@@ -86,13 +86,13 @@ Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „10) nustatyta tvarka reikalauti, kad atsakingi asmenys imtųsi prevencinių, aplinkos atkūrimo ar kitų aplinkos apsaugos priemonių, taip pat kontroliuotų, kaip vykdomos šios priemonės.“
 
-\#### 6 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas
+## 6 straipsnis. 14 straipsnio 3 dalies 2 punkto pakeitimas
 
 14 straipsnio 3 dalies 2 punkte po žodžio „išteklius“ įrašyti žodžius „nepažeisti aplinkos apsaugos reikalavimų“ ir šį punktą išdėstyti taip:
 
 „2) racionaliai ir taupiai naudoti gamtos išteklius, nepažeisti aplinkos apsaugos reikalavimų;“.
 
-\#### 7 straipsnis. 19 straipsnio 1, 4 ir 5 dalių pakeitimas
+## 7 straipsnis. 19 straipsnio 1, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -106,23 +106,23 @@ Pakeisti 7 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „Juridiniai ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus ar vykdantys ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams bei veiklai nustatytų aplinkos apsaugos normatyvų ir standartų.“
 
-\#### 8 straipsnis. 24 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 24 straipsnio pripažinimas netekusiu galios
 
 Pripažinti 24 straipsnį netekusiu galios.
 
-\#### 9 straipsnis. 26 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 26 straipsnio 2 dalies pakeitimas
 
 26 straipsnio 2 dalyje vietoj žodžių „teršalų koncentracijos“ įrašyti žodžius „cheminių, biologinių, fizikinių teršalų koncentracijų ribinių verčių“, vietoj žodžių „teršalų emisijos į aplinką“ įrašyti žodžius „išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų“ ir šią dalį išdėstyti taip:
 
 „Lietuvos Respublikoje nustatomicheminių, biologinių, fizikinių teršalų koncentracijų ribinių verčių aplinkoje bei atskiruose aplinkos komponentuose, išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų, cheminių ir kitokių aplinkai pavojingų medžiagų naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos, elektromagnetinių laukų ir kitokio poveikio, radiacinio saugumo, bendrosios antropogeninės apkrovos ir kiti aplinkos apsaugos normatyvai.“
 
-\#### 10 straipsnis. 31 straipsnio 2 dalies 3 punkto pakeitimas
+## 10 straipsnis. 31 straipsnio 2 dalies 3 punkto pakeitimas
 
 31 straipsnio 2 dalies 3 punkte prieš žodį „surašyti“ įrašyti žodžius „Valstybinės aplinkos apsaugos kontrolės įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka duoti privalomus nurodymus“ ir šį punktą išdėstyti taip:
 
 „3) Valstybinės aplinkos apsaugos kontrolės įstatymo ir kitų įstatymų nustatytais atvejais irtvarka duoti privalomus nurodymus, surašyti protokolus, aktus ir kitokius nustatytos formos dokumentus;“.
 
-\#### 11 straipsnis. 32 straipsnio pakeitimas
+## 11 straipsnis. 32 straipsnio pakeitimas
 
 Pakeisti 32 straipsnį ir jį išdėstyti taip:
 
@@ -146,7 +146,7 @@ Aplinkos būklė atkuriama atgaivinant pažeistą aplinką ar jos elementus arba
 
 Ūkinės veiklos, kurią nustatyta tvarka leidžia vykdyti įgaliotos institucijos ir kuri vykdoma nepažeidžiant aplinkos apsaugos reikalavimų, neigiamą poveikį aplinkai ūkio subjektai atlygina (kompensuoja) vykdydami šiame ir kituose įstatymuose nustatytuosius aplinkos apsaugos bei kitus reikalavimus.“
 
-\#### 12 straipsnis. Įstatymo papildymas 321 straipsniu
+## 12 straipsnis. Įstatymo papildymas 321 straipsniu
 
 Papildyti Įstatymą 32^1 straipsniu:
 
@@ -176,7 +176,7 @@ Jeigu ūkio subjektas nevykdo šiame straipsnyje numatytų pareigų ar neprivalo
 
 Aplinkos atkūrimo priemonės vykdomos tik turint Aplinkos ministerijos ar jos įgaliotos institucijos išankstinį pritarimą. Aplinkos atkūrimo priemonių parinkimo bei išankstinio pritarimo gavimo tvarką nustato aplinkos ministras.“
 
-\#### 13 straipsnis. Įstatymo papildymas 322 straipsniu
+## 13 straipsnis. Įstatymo papildymas 322 straipsniu
 
 Papildyti Įstatymą 32^2 straipsniu:
 
@@ -192,7 +192,7 @@ Visas prevencinių ir (arba) aplinkos atkūrimo priemonių išlaidas atlygina ū
 
 Ūkio subjekto išlaidas vykdant prevencines ir (arba) aplinkos atkūrimo priemones šio straipsnio antrojoje dalyje numatytais atvejais atlygina asmenys, padarę žalos aplinkai, o jeigu šių asmenų nustatyti neįmanoma, – valstybės ar savivaldybių institucijos.“
 
-\#### 14 straipsnis. 33 straipsnio pakeitimas
+## 14 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -210,7 +210,7 @@ Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių insti
 
 Žalos aplinkai ir kitų nuostolių pripažinimo mažareikšme žala tvarką, mažareikšmės žalos išieškojimo išlaidų apskaičiavimo metodiką nustato aplinkos ministras, suderinęs su finansų ministru.“
 
-\#### 15 straipsnis. 34 straipsnio pakeitimas ir papildymas
+## 15 straipsnis. 34 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -226,7 +226,7 @@ Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių insti
 
 4. Buvusias 34 straipsnio 2 ir 3 dalis laikyti atitinkamai 4 ir 5 dalimis.
 
-\#### 16 straipsnis. Įstatymo priedo pakeitimas ir papildymas
+## 16 straipsnis. Įstatymo priedo pakeitimas ir papildymas
 
 Pakeisti bei papildyti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -244,7 +244,7 @@ priedas
 
 2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už žalą aplinkai, numatant žalos aplinkai prevenciją bei jos atlyginimą.“
 
-\#### 17 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 17 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2007 m. balandžio 1 d. priima šiam įstatymui įgyvendinti būtinus teisės aktus.
 

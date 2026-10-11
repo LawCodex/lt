@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3b4c9b30e56111f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3B4C9B30E561.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 priedo pakeitimo ir Įstatymo papildymo devintuoju-7 skirsniu įstatymas
@@ -26,7 +26,7 @@ CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS IR TARPTAUTINĖS TEISĖ
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo papildymas devintuoju7 skirsniu
+## 1 straipsnis. Įstatymo papildymas devintuoju7 skirsniu
 
 Papildyti Įstatymą devintuoju^7 skirsniu:
 
@@ -34,11 +34,11 @@ Papildyti Įstatymą devintuoju^7 skirsniu:
 
 DIREKTYVOS (ES) 2024/1069 ĮGYVENDINIMAS
 
-\#### 3134 straipsnis. Taikymo sritis
+## 3134 straipsnis. Taikymo sritis
 
 Siekiant apsaugoti asmenis, užsiimančius visuomenės dalyvavimo viešojo intereso klausimais veikla, nuo akivaizdžiai nepagrįstų ieškinių ar piktnaudžiaujamojo pobūdžio teismo procesų dėl visuomenės dalyvavimo viešojo intereso klausimais nacionalinėse ir tarpvalstybinėse civilinėse bylose, taikomos Lietuvos Respublikos civilinio proceso kodekse nustatytos taisyklės tiek, kiek šis įstatymas nenustato kitaip.
 
-\#### 3135 straipsnis. Šiame skirsnyje vartojamos sąvokos
+## 3135 straipsnis. Šiame skirsnyje vartojamos sąvokos
 
 1. Visuomenės dalyvavimas viešojo intereso klausimais (toliau – visuomenės dalyvavimas) – bet koks su viešojo intereso klausimais susijęs fizinio ar juridinio asmens pareiškimas ar veikla, padaromi ar vykdomi naudojantis teise į saviraiškos ir informacijos laisvę, menų ir mokslo laisvę arba susirinkimų ir asociacijų laisvę, ir bet kokie su tuo tiesiogiai susiję parengiamieji, paramos ar pagalbos veiksmai.
 
@@ -64,11 +64,11 @@ Siekiant apsaugoti asmenis, užsiimančius visuomenės dalyvavimo viešojo inter
 
 4) nesąžiningą naudojimąsi procesinėmis teisėmis, pavyzdžiui, proceso vilkinimą, nesąžiningą ar piktnaudžiaujamojo pobūdžio palankesnio teisinio reglamentavimo ieškojimą arba nesąžiningą bylų nutraukimą vėlesniame proceso etape.
 
-\#### 3136 straipsnis. Tarpvalstybinės ir nacionalinės bylos
+## 3136 straipsnis. Tarpvalstybinės ir nacionalinės bylos
 
 Taikant šio skirsnio nuostatas byla laikoma tarpvalstybine, išskyrus atvejus, kai abiejų proceso šalių ir teismo, kuriame pareikštas ieškinys, nuolatinė gyvenamoji vieta (buveinė) yra Lietuvos Respublikoje ir su byla susiję įrodymai ir kiti aktualūs elementai, kuriuos kaip susijusius su byla nustato šią bylą nagrinėjantis teismas, yra tik Lietuvos Respublikoje. Tokiais atvejais, taikant šio skirsnio nuostatas, byla laikoma nacionaline. Nuolatinė gyvenamoji vieta (buveinė) nustatoma pagal Reglamentą [(ES) Nr. 1215/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R1215&locale=lt).
 
-\#### 3137 straipsnis. Procesinės apsaugos priemonės
+## 3137 straipsnis. Procesinės apsaugos priemonės
 
 1. Asmuo, prieš kurį pradėtas teismo procesas dėl jo užsiėmimo visuomenės dalyvavimo veikla, turi teisę teismo prašyti:
 
@@ -84,11 +84,11 @@ Taikant šio skirsnio nuostatas byla laikoma tarpvalstybine, išskyrus atvejus, 
 
 2. Asmuo, prieš kurį pradėtas teismo procesas dėl jo užsiėmimo visuomenės dalyvavimo veikla, gali teismo prašyti taikyti šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytas priemones ir tais atvejais, kai ieškovas pasinaudoja Lietuvos Respublikos civilinio proceso kodekso 139, 140 ar 141 straipsnyje nustatytomis teisėmis.
 
-\#### 3138 straipsnis. Atsisakymas pripažinti ir vykdyti valstybės, kuri nėra Europos Sąjungos valstybė narė, teismo sprendimus
+## 3138 straipsnis. Atsisakymas pripažinti ir vykdyti valstybės, kuri nėra Europos Sąjungos valstybė narė, teismo sprendimus
 
 Valstybės, kuri nėra Europos Sąjungos valstybė narė, teismo sprendimą teismo procese dėl asmens, kurio nuolatinė gyvenamoji vieta (buveinė) yra Europos Sąjungos valstybėje narėje, užsiėmimo visuomenės dalyvavimo veikla atsisakoma pripažinti ir vykdyti Lietuvos Respublikoje tarptautinių sutarčių ir Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtojo, penktojo ir šeštojo skirsnių nustatyta tvarka, jeigu pagal Lietuvos Respublikos civilinio proceso kodekso ir šio įstatymo nuostatas toks teismo procesas laikomas akivaizdžiai nepagrįstu ar piktnaudžiaujamojo pobūdžio.
 
-\#### 3139 straipsnis. Jurisdikcija nagrinėti ieškinius, susijusius su procesais valstybėse, kurios nėra Europos Sąjungos valstybės narės
+## 3139 straipsnis. Jurisdikcija nagrinėti ieškinius, susijusius su procesais valstybėse, kurios nėra Europos Sąjungos valstybės narės
 
 1. Asmuo, kurio nuolatinė gyvenamoji vieta (buveinė) yra Lietuvos Respublikoje, turi teisę kreiptis į Lietuvos Respublikos teismus dėl žalos ir bylinėjimosi išlaidų, patirtų dėl valstybės, kuri nėra Europos Sąjungos valstybė narė, teisme ieškovo, kurio nuolatinė gyvenamoji vieta (buveinė) yra valstybėje, kuri nėra Europos Sąjungos valstybė narė, inicijuoto piktnaudžiaujamojo pobūdžio teismo proceso dėl to asmens užsiėmimo visuomenės dalyvavimo veikla, atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
@@ -96,17 +96,17 @@ Valstybės, kuri nėra Europos Sąjungos valstybė narė, teismo sprendimą teis
 
 3. Ieškinys, pareiškiamas tik dėl bylinėjimosi išlaidų, nurodytų šio straipsnio 1 dalyje, atlyginimo, nagrinėjamas Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
 
-\#### 3140 straipsnis. Informacijos viešinimas
+## 3140 straipsnis. Informacijos viešinimas
 
 Informacija apie procesines apsaugos priemones ir teisių gynimo priemones, kuriomis gali pasinaudoti fiziniai ar juridiniai asmenys, užsiimantys visuomenės dalyvavimo veikla, ir informacija apie esamas paramos priemones, pavyzdžiui, teisinę pagalbą ir finansinę bei psichologinę paramą, kai tokia pagalba ir parama yra teikiama fiziniams ar juridiniams asmenims, užsiimantiems visuomenės dalyvavimo veikla, viešinama Lietuvos Respublikos teisingumo ministerijos interneto svetainėje. Šiame straipsnyje nurodyta informacija apima ir informaciją apie informuotumo didinimo kampanijas, kurios gali būti organizuojamos bendradarbiaujant su susijusiomis pilietinės visuomenės organizacijomis ir kitais suinteresuotaisiais subjektais.“
 
-\#### 2 straipsnis. Įstatymo priedo pakeitimas
+## 2 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 15 punktu:
 
 „15. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva [(ES) 2024/1069](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024L1069&locale=lt) dėl asmenų, užsiimančių visuomenės dalyvavimo veikla, apsaugos nuo akivaizdžiai nepagrįstų ieškinių ar piktnaudžiaujamojo pobūdžio teismo procesų (Strateginiai ieškiniai dėl visuomenės dalyvavimo).“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. gegužės 7 d.
 

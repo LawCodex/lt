@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8215BDD3718D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8215BDD3718D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 2, 5, 11, 12, 14, 20, 21, 29, 30, 31, 32, 33, 35 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 2004, Nr. [4-47](https://www.e-tar.lt/portal/lt/legalAct/TAR.691728933211); 2007, Nr. [77-3050](https://www.e-tar.lt/portal/lt/legalAct/TAR.C99649764C64))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -58,11 +58,11 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 14. Valstybės biudžetas – Seimo tvirtinamas valstybės biudžeto pajamų ir asignavimų planas biudžetiniams metams.“
 
-\#### 2 straipsnis. 5 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
+## 2 straipsnis. 5 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios
 
 5 straipsnio 2 ir 3 dalis pripažinti netekusiomis galios.
 
-\#### 3 straipsnis. 11 straipsnio 2 ir 3 dalių pakeitimas
+## 3 straipsnis. 11 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 11 straipsnio 2 dalyje po žodžio „skelbiama“ įrašyti žodį „oficialiame“, vietoj žodžio „puslapyje“ įrašyti žodį „tinklalapyje“ ir šią dalį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „3. Informaciją apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės administracijos direktorius vietinėje spaudoje.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnyje vietoj žodžių „atitinkamų metų“ įrašyti žodžius „atitinkamų biudžetinių metų“, vietoj žodžių „tų metų“ įrašyti žodžius „tų biudžetinių metų“ ir visą straipsnį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Mokesčių įstatymai, kiti įstatymai ir teisės aktai bei jų pakeitimai, darantys įtaką atitinkamų biudžetinių metų biudžeto pajamoms, asignavimams ir valstybės skolai, įsigalioja įstatymų nustatyta tvarka, bet priimami ne vėliau kaip tų biudžetinių metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas.“
 
-\#### 5 straipsnis. 14 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4 dalimis
+## 5 straipsnis. 14 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4 dalimis
 
 1. 14 straipsnio 2 dalyje išbraukti žodžius „ir Europos Sąjungos finansinės paramos lėšų“, vietoj žodžių „nepanaudoti asignavimai, skirti“ įrašyti žodžius „nepanaudotos įmokos į biudžetą, skirtos“, vietoj žodžio „perkelti“ įrašyti žodį „perkeltos“, vietoj žodžio „paliekami“ įrašyti žodį „paliekamos“, vietoj žodžio „naudojami“ įrašyti žodį „naudojamos“ ir šią dalį išdėstyti taip:
 
@@ -94,19 +94,19 @@ Mokesčių įstatymai, kiti įstatymai ir teisės aktai bei jų pakeitimai, dara
 
 „4. Į kitus biudžetinius metus perkeliama ir gali būti naudojama viršijant Seimo patvirtintas bendras asignavimų sumas 2007–2013 metų Europos Sąjungos struktūrinės paramos ir susijusių bendrojo finansavimo lėšų nepanaudota programų asignavimų dalis, susijusi su projektais, dėl kurių priimtas sprendimas skirti paramą.“
 
-\#### 6 straipsnis. 20 straipsnio 5 dalies pakeitimas
+## 6 straipsnis. 20 straipsnio 5 dalies pakeitimas
 
 20 straipsnio 5 dalyje po žodžio „išskyrus“ įrašyti žodžius „programų asignavimų dalį, kurią sudaro“, vietoj žodžio „programas“ įrašyti žodžius „bei kitos gaunamos finansinės paramos lėšos“ ir šią dalį išdėstyti taip:
 
 „5. Atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių asignavimų dydžių apribojimai (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos finansinės paramos lėšos).“
 
-\#### 7 straipsnis. 21 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 21 straipsnio 3 dalies pakeitimas
 
 21 straipsnio 3 dalyje po žodžių „tvirtinami be“ įrašyti žodį „biudžeto“ ir šią dalį išdėstyti taip:
 
 „3. Savivaldybių biudžetai tvirtinami be biudžeto deficito.“
 
-\#### 8 straipsnis. 29 straipsnio pakeitimas
+## 8 straipsnis. 29 straipsnio pakeitimas
 
 29 straipsnyje po žodžio „išskyrus“ įrašyti žodžius „programų asignavimų dalį, kurią sudaro“, vietoj žodžių „programas, kurioms asignavimai pervedami vadovaujantis sudarytomis sutartimis“ įrašyti žodžius „bei kitos gaunamos finansinės paramos lėšos“ ir visą straipsnį išdėstyti taip:
 
@@ -114,19 +114,19 @@ Mokesčių įstatymai, kiti įstatymai ir teisės aktai bei jų pakeitimai, dara
 
 Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudžetų patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusių metų šių biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai kiekvieną mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam asignavimų valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei įstatymuose nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos finansinės paramos lėšos) bei įsiskolinimams dengti.“
 
-\#### 9 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 30 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „2 dalies“ įrašyti skaičius ir žodžius „2 ir 3 dalių“ ir šią dalį išdėstyti taip:
 
 „1. Vykdant valstybės biudžetą gautos viršplaninės pajamos (atsižvelgiant į šio Įstatymo 14 straipsnio 2 ir 3 dalių nuostatas) naudojamos valstybės biudžeto apyvartos lėšoms papildyti ir savivaldybių biudžetų negautoms pajamoms padengti.“
 
-\#### 10 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 10 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 31 straipsnio 1 dalyje po žodžio „išskyrus“ įrašyti žodžius „programų asignavimų dalį, kurią sudaro“, vietoj žodžio „programas“ įrašyti žodžius „bei kitos gaunamos finansinės paramos lėšos“ ir šią dalį išdėstyti taip:
 
 „1. Jeigu nevykdomas valstybės biudžetas, t. y. gaunama mažiau pajamų, negu buvo numatyta, ir nepakanka valstybės biudžeto apyvartos lėšų laikinam pajamų trūkumui padengti, kol bus nustatyta tvarka priimtas atitinkamas biudžeto įstatymo patikslinimas, programos finansuojamos Finansų ministerijos siūlymu Valstybės iždo įstatymo nustatyta tvarka (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos finansinės paramos lėšos). Ši nuostata netaikoma specialiųjų programų lėšoms, jeigu asignavimų valdytojai jas yra įmokėję.“
 
-\#### 11 straipsnis. 32 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 32 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 32 straipsnio 1 dalyje po žodžių „statybos objektams finansuoti“ įrašyti žodžius „nepanaudotą programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos finansinės paramos lėšos“ ir šią dalį išdėstyti taip:
 
@@ -140,7 +140,7 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 „2. Ministerijoms ir kitoms valstybės institucijoms ar įstaigoms paliekami mėnesio išlaidų dydžio pereinamieji lėšų likučiai, esantys Lietuvos Respublikos diplomatinių ir kitų atstovybių, konsulinių įstaigų, specialiųjų bei gynybos atašė ir Lietuvos atstovų, perkeltų į tarptautines ir užsienio institucijas, sąskaitose užsienio kredito įstaigose. Krašto apsaugos ministerijai paliekami trijų mėnesių išlaidų dydžio pereinamieji lėšų likučiai, esantys tarptautinių operacijų karinio vieneto, dislokuoto užsienio valstybėje, sąskaitose užsienio kredito įstaigose ar pas atskaitingus asmenis.“
 
-\#### 12 straipsnis. 33 straipsnio 1 dalies 2 ir 3 punktų pakeitimas
+## 12 straipsnis. 33 straipsnio 1 dalies 2 ir 3 punktų pakeitimas
 
 1. 33 straipsnio 1 dalies 2 punkte vietoj žodžio „atitinkamais“ įrašyti žodį „reglamentuojančiais“, po žodžio „administravimą“ išbraukti žodžius „reglamentuojančiais procedūrų vadovais“ ir šį punktą išdėstyti taip:
 
@@ -150,13 +150,13 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 „3) programų asignavimų dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo lėšos, laikinam lėšų stygiui padengti panaudoti valstybės biudžeto apyvartos ir skolintas lėšas;“.
 
-\#### 13 straipsnis. 35 straipsnio 1 dalies pakeitimas
+## 13 straipsnis. 35 straipsnio 1 dalies pakeitimas
 
 35 straipsnio 1 dalyje po žodžių „direktoriaus rezervo lėšas“ išbraukti žodį „bei“, po žodžių „skirtų specialioms programoms finansuoti, sumas“ įrašyti žodžius „perkeltas Europos Sąjungos finansinės paramos ir kitos gaunamos finansinės paramos viršplanines ir nepanaudotas įmokų į biudžetą sumas, nepanaudotos programų asignavimų dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos finansinės paramos lėšos, sumas“ ir šią dalį išdėstyti taip:
 
 „1. Biudžeto įvykdymo ataskaitos parengiamos atsižvelgiant į atitinkamų metų patvirtinto Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo rodiklius, panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į biudžetą, skirtų specialioms programoms finansuoti, sumas, perkeltas Europos Sąjungos finansinės paramos ir kitos gaunamos finansinės paramos viršplanines ir nepanaudotas įmokų į biudžetą sumas, nepanaudotos programų asignavimų dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos finansinės paramos lėšos, sumas.“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas
+## 14 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E9C11660FD35"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E9C11660FD35.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybinio himno" pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1991, Nr. [32-860](https://www.e-tar.lt/portal/lt/legalAct/TAR.40E832B5515A))
 
-\#### 1 straipsnis. Įstatymo „Dėl Lietuvos valstybinio himno“ nauja redakcija
+## 1 straipsnis. Įstatymo „Dėl Lietuvos valstybinio himno“ nauja redakcija
 
 Pakeisti Įstatymą „Dėl Lietuvos valstybinio himno“ ir jį išdėstyti taip:
 
@@ -38,11 +38,11 @@ Pakeisti Įstatymą „Dėl Lietuvos valstybinio himno“ ir jį išdėstyti tai
 
 **į s t a t y m a s**
 
-\#### 1 straipsnis. Valstybės himnas
+## 1 straipsnis. Valstybės himnas
 
 Lietuvos valstybės himnas – Vinco Kudirkos „Tautiška giesmė“ (tekstas ir gaidos pridedami).
 
-\#### 2 straipsnis. Valstybės himno atlikimo tvarka
+## 2 straipsnis. Valstybės himno atlikimo tvarka
 
 1. Lietuvos valstybės himnas privalo būti giedamas arba grojamas:
 
@@ -62,17 +62,17 @@ Lietuvos valstybės himnas – Vinco Kudirkos „Tautiška giesmė“ (tekstas i
 
 2. Lietuvos valstybės himnas giedamas arba grojamas ir kitais atvejais.
 
-\#### 3 straipsnis. Valstybės himno atlikimas sporto varžybose
+## 3 straipsnis. Valstybės himno atlikimas sporto varžybose
 
 Vykstant vidaus bei tarptautinėms sporto varžyboms, Lietuvos valstybės himnas giedamas arba grojamas, jeigu iškeliama Lietuvos valstybės vėliava.
 
-\#### 4 straipsnis. Valstybės himno oficialaus atlikimo būdas
+## 4 straipsnis. Valstybės himno oficialaus atlikimo būdas
 
 1. Lietuvos valstybės himną gali giedoti choras, choras pritariant orkestrui arba solistas su orkestru, taip pat groti orkestras. Gali būti naudojamas Lietuvos valstybės himno garso įrašas.
 
 2. Šis straipsnis nereiškia, kad neskatinama himną giedoti visiems dalyvaujantiesiems.
 
-\#### 5 straipsnis. Asmenų elgesys, viešai atliekant valstybės himną
+## 5 straipsnis. Asmenų elgesys, viešai atliekant valstybės himną
 
 Viešai giedant ar grojant Lietuvos valstybės himną, susirinkusieji stovi, reiškia pilietinę pagarbą, o krašto apsaugos sistemos bei vidaus tarnybos kariai, policijos ir kitų sukarintų tarnybų pareigūnai himną pagerbia statutų nustatyta tvarka.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B72875FF5E52"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B72875FF5E52.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 47 straipsnio papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9); 2003, Nr. [123-5581](https://www.e-tar.lt/portal/lt/legalAct/TAR.C845666F66DB); 2004, Nr. [44-1439](https://www.e-tar.lt/portal/lt/legalAct/TAR.22EC36FD32AB), Nr. [170-6236](https://www.e-tar.lt/portal/lt/legalAct/TAR.810096E93D62); 2010, Nr. [71-3548](https://www.e-tar.lt/portal/lt/legalAct/TAR.36662FF58D83))
 
-\#### 1 straipsnis. 47 straipsnio 1 dalies papildymas 17 punktu
+## 1 straipsnis. 47 straipsnio 1 dalies papildymas 17 punktu
 
 Papildyti 47 straipsnio 1 dalį 17 punktu:
 

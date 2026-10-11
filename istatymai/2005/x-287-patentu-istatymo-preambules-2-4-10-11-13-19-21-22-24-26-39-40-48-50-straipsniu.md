@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E20261F67EEF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E20261F67EEF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos patentų įstatymo preambulės, 2, 4, 10, 11, 13, 19, 21, 22, 24, 26, 39, 40, 48, 50 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 28-1, 38 straipsniais, X-1 skirsniu ir priedu įstatymas

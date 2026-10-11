@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F78895983AA6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 15, 17 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį nauja 32 dalimi:
 
@@ -40,7 +40,7 @@ Vilnius
 
 2. Buvusią 2 straipsnio 32 dalį laikyti 33 dalimi.
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas
+## 2 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -52,13 +52,13 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 3. Gyventojai, šio Įstatymo nustatyta tvarka apskaičiuodami apmokestinamąsias pajamas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka turi iš naujo apibūdinti pajamas ar išmokas.“
 
-\#### 3 straipsnis. 17 straipsnio 1 dalies papildymas 44 punktu
+## 3 straipsnis. 17 straipsnio 1 dalies papildymas 44 punktu
 
 Papildyti 17 straipsnio 1 dalį 44 punktu:
 
 „44) iš Europos Bendrijų lėšų gautos su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos, kurios buvo apmokestintos mokesčiu Europos Bendrijų naudai.“
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 Šio Įstatymo 3 straipsnio nuostatos taikomos nuo 2003 m. sausio 1 d. gautoms pajamoms.
 

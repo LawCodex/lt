@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.314A49F80076"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.314A49F80076.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio, IX-1 skyriaus pavadinimo pakeitimo ir papildymo ir įstatymo papildymo 17-2, 46-2 straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2001, Nr. 110-3992; 2003, Nr. 74-3417, Nr. 104-4645; 2004, Nr. 25-748; 2005, Nr. 81-2942, Nr. 153-5635; 2007, Nr. 55-2126; 2008, Nr. 47-1749, Nr. 87-3457, Nr. 149-6000, Nr. 149-6030)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 2 straipsnį 101 dalimi:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „41. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir Lietuvos Respublikos kino įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).“
 
-\#### 2 straipsnis. Įstatymo papildymas 172 straipsniu
+## 2 straipsnis. Įstatymo papildymas 172 straipsniu
 
 Papildyti Įstatymą 17^2 straipsniu:
 
@@ -74,7 +74,7 @@ Papildyti Įstatymą 17^2 straipsniu:
 
 9) vaidmenų atlikėjams mokamam atlygiui – suma, viršijanti 4 procentus visų filmo ar jo dalies gamybos išlaidų.“
 
-\#### 3 straipsnis. IX1 skyriaus pavadinimo pakeitimas
+## 3 straipsnis. IX1 skyriaus pavadinimo pakeitimas
 
 Pakeisti IX^1 skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti IX^1 skyriaus pavadinimą ir jį išdėstyti taip:
 
 **APMOKESTINAMOJO PELNO IR PELNO MOKESČIO SUMAŽINIMAS**“.
 
-\#### 4 straipsnis. Įstatymo papildymas 462 straipsniu
+## 4 straipsnis. Įstatymo papildymas 462 straipsniu
 
 Papildyti Įstatymą 46^2 straipsniu:
 
@@ -92,7 +92,7 @@ Papildyti Įstatymą 46^2 straipsniu:
 
 2. Už mokestinį laikotarpį mokėtinas pelno mokestis neatlygintinai suteiktų lėšų filmo arba jo dalies gamybai Lietuvos Respublikoje suma gali būti mažinamas ne daugiau kaip 75 procentais. Jeigu šio straipsnio 1 dalyje nurodytų lėšų suma didesnė kaip 75 procentai už mokestinį laikotarpį mokėtino pelno mokesčio sumos, tiek, kiek ši suma viršijama, gali būti mažinamas už du vėlesnius vienas po kito einančius mokestinius laikotarpius mokėtinas pelno mokestis, tačiau už kiekvieną mokestinį laikotarpį apskaičiuota pelno mokesčio suma negali būti mažinama daugiau kaip 75 procentais.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

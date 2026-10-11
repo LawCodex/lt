@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7f87d9504a7411e6b5d09300a16a686c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7F87D9504A74.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 7, 10, 14, 17, 18, 21, 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir 13, 15, 20 straipsnių pripažinimo netekusiais galios įstatymas

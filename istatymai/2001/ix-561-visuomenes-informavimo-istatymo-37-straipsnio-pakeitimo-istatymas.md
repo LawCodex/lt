@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3620F2EC64C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3620F2EC64C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 37 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2000, Nr. 72-2272, Nr. [102-3215](https://www.e-tar.lt/portal/lt/legalAct/TAR.7181DF7AABFF))
 
-\#### 1 straipsnis. 37 straipsnio 1 dalies 2 punkto pakeitimas ir 3 dalies papildymas
+## 1 straipsnis. 37 straipsnio 1 dalies 2 punkto pakeitimas ir 3 dalies papildymas
 
 1. 37 straipsnio 1 dalies 2 punkte po žodžių „keliose valstybėse Europos Sąjungos narėse“ vietoj žodžio „arba“ įrašyti „ir“, po žodžių „jei Europos Sąjunga“ vietoj žodžio „arba“ įrašyti „ir“ ir šį punktą išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.258A7098DFFF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.258A7098DFFF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18-1, 19 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [149-5999](https://www.e-tar.lt/portal/lt/legalAct/TAR.CD14ABB56F02); 2009, Nr. [25-969](https://www.e-tar.lt/portal/lt/legalAct/TAR.047B2C52D1EA))
 
-\#### 1 straipsnis. 10 straipsnio 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 10 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „4. Savarankiškai dirbančių asmenų draudžiamosiomis pajamomis laikomos pajamos, nuo kurių 2009 metais, o ūkininkų ir jų partnerių – ir 2010 metais, įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio draudimo įmokos ir kurios apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris apskaičiuojamas atitinkamų metų sumažintą ligos ir motinystės socialinio draudimo įmokos tarifą, taikomą savarankiškai dirbančių asmenų gautoms pajamoms, dalijant iš tų metų bendrojo ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto savarankiškai dirbantiems asmenims.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.
 

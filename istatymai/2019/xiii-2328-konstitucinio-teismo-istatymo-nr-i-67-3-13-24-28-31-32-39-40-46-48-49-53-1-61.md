@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/185bc260af9711e98451fa7b5933515d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.185BC260AF97.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 3, 13, 24, 28, 31, 32, 39, 40, 46, 48, 49, 53-1, 61, 65, 66, 67, 68, 69, 70, 76, 84, 86, 88 straipsnių pakeitimo ir Įstatymo papildymo 67-1 ir 67-2 straipsniais įstatymas

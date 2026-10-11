@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8714192D129A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8714192D129A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin.,2001, Nr. [111-4022](https://www.e-tar.lt/portal/lt/legalAct/TAR.309A34330EAD); 2008, Nr. [71-2705](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F6B4CECD51D); 2010, Nr. [137-6989](https://www.e-tar.lt/portal/lt/legalAct/TAR.CAC4DCFCD64C))
 
-\#### 1 straipsnis. Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymą ir jį išdėstyti taip:
 
@@ -38,9 +38,9 @@ PAVOJINGŲJŲ KROVINIŲ VEŽIMO AUTOMOBILIŲ, GELEŽINKELIŲ IR VIDAUS VANDENŲ 
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
+## 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
 1. Šis įstatymas nustato pavojingųjų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų keliais ir su tuo susijusios veiklos teisinius ir organizacinius pagrindus Lietuvos Respublikoje, siekiant užtikrinti pavojingųjų krovinių vežimo ir su tuo susijusios veiklos saugą. Šis įstatymas taikomas, kai pavojingieji kroviniai Lietuvos Respublikoje vežami automobilių ir geležinkelių keliais ar vykdoma su tuo susijusi veikla. Pavojinguosius krovinius vežti vidaus vandenų keliais ir vykdyti su tuo susijusią veiklą draudžiama, išskyrus šio įstatymo 22 straipsnio 5 dalyje nurodytus atvejus.
 
@@ -56,7 +56,7 @@ PAVOJINGŲJŲ KROVINIŲ VEŽIMO AUTOMOBILIŲ, GELEŽINKELIŲ IR VIDAUS VANDENŲ 
 
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. ADR – Europos sutartis dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) ir jos A ir B techniniai priedai.
 
@@ -88,13 +88,13 @@ PAVOJINGŲJŲ KROVINIŲ VEŽIMO AUTOMOBILIŲ, GELEŽINKELIŲ IR VIDAUS VANDENŲ 
 
 15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, ir Lietuvos Respublikos įstatymuose.
 
-\#### 3 straipsnis. Pagrindiniai pavojingųjų krovinių vežimo ir su tuo susijusios veiklos reglamentavimo ir vykdymo principai
+## 3 straipsnis. Pagrindiniai pavojingųjų krovinių vežimo ir su tuo susijusios veiklos reglamentavimo ir vykdymo principai
 
 1. Analogišką veiklą vykdantiems pavojingųjų krovinių vežimo dalyviams, mokymo įstaigoms ir kitiems subjektams, atliekantiems funkcijas, kurios turi įtakos pavojingųjų krovinių vežimui, sudaromos nediskriminacinės sąlygos vežti pavojinguosius krovinius ir vykdyti su tuo susijusią veiklą – tam tikri subjektai, palyginti su kitais subjektais, negali būti traktuojami skirtingai dėl jų pilietybės, gyvenamosios vietos ar valstybės, kurioje jie yra įsteigti, arba kitų jiems būdingų kriterijų, jei tarp jų nėra tokio pobūdžio ir tokio masto skirtumų, kad toks nevienodas traktavimas būtų objektyviai pateisinamas.
 
 2. Pavojingųjų krovinių vežimo patikrinimai organizuojami taip, kad, atsižvelgiant į pavojingųjų krovinių vežimo mastą, būtų tikrinama atitinkama vežamų pavojingųjų krovinių siuntų dalis. Siekiant užtikrinti pavojingųjų krovinių vežimo saugą, patikrinimo objektams priskiriamos ir transporto priemonės, kurios nepatenka į šio įstatymo 2 straipsnio 11 dalyje nustatytą apibrėžimą, jei jomis vežami pavojingieji kroviniai.
 
-\#### 4 straipsnis. Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos teisinis reglamentavimas
+## 4 straipsnis. Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos teisinis reglamentavimas
 
 1. Pavojingųjų krovinių vežimą ir su tuo susijusią veiklą Lietuvos Respublikoje reglamentuoja šis ir kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys, kiti Lietuvos Respublikos teisės aktai.
 
@@ -102,7 +102,7 @@ PAVOJINGŲJŲ KROVINIŲ VEŽIMO AUTOMOBILIŲ, GELEŽINKELIŲ IR VIDAUS VANDENŲ 
 
 3. Tarptautinį pavojingųjų krovinių vežimą Lietuvos Respublikos ir mažiausiai vienos kitos susitariančiosios šalies (išskyrus Europos Sąjungos valstybes nares ir Europos ekonominės erdvės valstybes) teritorijoje ir su tuo susijusią veiklą reglamentuoja Lietuvos Respublikos tarptautinės sutartys, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, ir kitos Lietuvos Respublikos tarptautinės sutartys. Šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nuostatos tokiam vežimui ir su tuo susijusiai veiklai taikomos tiek, kiek tai leidžia Lietuvos Respublikos tarptautinės sutartys, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, ir kitos Lietuvos Respublikos tarptautinės sutartys.
 
-\#### 5 straipsnis. Pagrindinės pavojingųjų krovinių vežimo ir su tuo susijusios veiklos saugos užtikrinimo kryptys
+## 5 straipsnis. Pagrindinės pavojingųjų krovinių vežimo ir su tuo susijusios veiklos saugos užtikrinimo kryptys
 
 Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos sauga užtikrinama:
 
@@ -120,13 +120,13 @@ Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos sauga užtikrinama:
 
 7) materialiai ir finansiškai užtikrinant techninių, technologinių, socialinių ir organizacinių priemonių, reikalingų saugiam pavojingųjų krovinių vežimui ir su tuo susijusiai veiklai, įgyvendinimą.
 
-\### ANTRASIS SKIRSNIS. PAVOJINGŲJŲ KROVINIŲ VEŽIMO IR SU TUO SUSIJUSIOS VEIKLOS VALSTYBINIS VALDYMAS
+ANTRASIS SKIRSNIS. PAVOJINGŲJŲ KROVINIŲ VEŽIMO IR SU TUO SUSIJUSIOS VEIKLOS VALSTYBINIS VALDYMAS
 
-\#### 6 straipsnis. Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos valstybinis valdymas
+## 6 straipsnis. Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos valstybinis valdymas
 
 Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos valstybinį valdymą pagal kompetenciją vykdo Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos, Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos kompetentingos institucijos ir kiti įgalioti viešojo administravimo subjektai.
 
-\#### 7 straipsnis. Lietuvos Respublikos Vyriausybės ir jos įgaliotos institucijos kompetencija
+## 7 straipsnis. Lietuvos Respublikos Vyriausybės ir jos įgaliotos institucijos kompetencija
 
 1. Lietuvos Respublikos Vyriausybė:
 
@@ -144,7 +144,7 @@ Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos valstybinį valdym�
 
 3) prireikus priima sprendimus dėl pavojingųjų krovinių vežimo ir su tuo susijusios veiklos Lietuvos Respublikos teritorijoje specialiųjų saugos reikalavimų nustatymo, kai pavojingieji kroviniai vežami išimtinai Lietuvos Respublikos teritorijoje arba Lietuvos Respublikos ir kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijoje transporto priemonėmis, kurioms šis įstatymas netaikomas, keleiviniais traukiniais ar reikalavimų, susijusių su naudojimuisi nustatytais maršrutais (įskaitant naudojimąsi nustatytais transportavimo būdais), nustatymo.
 
-\#### 8 straipsnis. Lietuvos Respublikos susisiekimo ministerijos kompetencija
+## 8 straipsnis. Lietuvos Respublikos susisiekimo ministerijos kompetencija
 
 1. Lietuvos Respublikos susisiekimo ministerija formuoja bendrą valstybės politiką pavojingųjų krovinių vežimo ir su tuo susijusios veiklos srityse.
 
@@ -168,17 +168,17 @@ Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos valstybinį valdym�
 
 5) priima pavojingųjų krovinių vežimo tikrinimui atlikti reikalingus teisės aktus.
 
-\#### 9 straipsnis. Lietuvos Respublikos kompetentingų institucijų ir kitų viešojo administravimo subjektų, įgaliotų atlikti pavojingųjų krovinių vežimo ar su tuo susijusios veiklos valstybinio valdymo funkcijas, kompetencija
+## 9 straipsnis. Lietuvos Respublikos kompetentingų institucijų ir kitų viešojo administravimo subjektų, įgaliotų atlikti pavojingųjų krovinių vežimo ar su tuo susijusios veiklos valstybinio valdymo funkcijas, kompetencija
 
 Lietuvos Respublikos kompetentingos institucijos ir kiti viešojo administravimo subjektai pagal kompetenciją atlieka pavojingųjų krovinių vežimo ar su tuo susijusios veiklos valstybinio valdymo funkcijas, taip pat teikia pasiūlymus Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai dėl būtinų funkcijų ir jas atliekančių institucijų tikslinimo, atsižvelgiant į Lietuvos Respublikos tarptautinių sutarčių, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, pakeitimus ir papildymus.
 
-\### TREČIASIS SKIRSNIS. PAVOJINGŲJŲ KROVINIŲ VEŽIMO IR SU TUO SUSIJUSIOS VEIKLOS SAUGOS UŽTIKRINIMAS
+TREČIASIS SKIRSNIS. PAVOJINGŲJŲ KROVINIŲ VEŽIMO IR SU TUO SUSIJUSIOS VEIKLOS SAUGOS UŽTIKRINIMAS
 
-\#### 10 straipsnis. Klasifikavimas
+## 10 straipsnis. Klasifikavimas
 
 Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų krovinių vežimo pradžios privalo, jei tai neatlikta anksčiau, pavojingąsias medžiagas klasifikuoti transportavimo tikslais ir suteikti keturženklį Jungtinių Tautų numerį, tinkamą krovinio pavadinimą ir, jei taikoma, pakavimo grupę, klasifikacinį kodą pagal Lietuvos Respublikos tarptautinių sutarčių, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, nuostatas. Jeigu pavojingųjų medžiagų keliančios pavojų savybės neištirtos, jie turi užtikrinti, kad teisės aktų nustatyta tvarka būtų atlikti atitinkami bandymai, jeigu kitų būdų šioms savybėms nustatyti nėra.
 
-\#### 11 straipsnis. Pavojingųjų krovinių vežimo sąlygos
+## 11 straipsnis. Pavojingųjų krovinių vežimo sąlygos
 
 1. Pavojinguosius krovinius, kurie pagal Lietuvos Respublikos tarptautines sutartis, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, klasifikuojami kaip draudžiami vežti arba draudžiamas tam tikras jų transportavimo būdas, tam tikras jų kiekis ar draudimas juos transportuoti nustatomi vadovaujantis kitais draudžiamaisiais kriterijais, vežti tokiomis sąlygomis draudžiama, išskyrus šio įstatymo 22 straipsnio 5 dalyje nurodytus atvejus.
 
@@ -194,7 +194,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 5) kitais reikalavimais, nustatytais Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, ir kituose teisės aktuose.
 
-\#### 12 straipsnis. Pavojingųjų krovinių vežimo dalyvių pareigos
+## 12 straipsnis. Pavojingųjų krovinių vežimo dalyvių pareigos
 
 1. Pagrindinės siuntėjo pareigos:
 
@@ -240,7 +240,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 4. Šio straipsnio 1, 2 ir 3 dalyse nurodytieji ir kiti pavojingųjų krovinių vežimo dalyviai taip pat privalo atlikti ir kitas pareigas, nurodytas Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, šiame ir kituose įstatymuose bei kituose teisės aktuose, kuriais reglamentuojamas pavojingųjų krovinių vežimas.
 
-\#### 13 straipsnis. Pavojingųjų krovinių vežimo saugos specialistas
+## 13 straipsnis. Pavojingųjų krovinių vežimo saugos specialistas
 
 1. Įmonėje, kuri veža pavojinguosius krovinius ar atlieka su tuo susijusį pakavimą, krovimą ar pripildymą, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, Lietuvos Respublikos susisiekimo ministerijos nustatyta tvarka privalo būti paskirtas bent vienas pavojingųjų krovinių vežimo saugos specialistas, atsakingas už pagalbą įmonei vykdant tokiai veiklai būdingos rizikos žmonėms, turtui ir aplinkai prevenciją.
 
@@ -264,7 +264,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 8. Įmonė, paskyrusi pavojingųjų krovinių vežimo saugos specialistą, privalo ne vėliau kaip per 10 kalendorinių dienų apie tai pranešti Lietuvos Respublikos kompetentingai institucijai raštu arba elektroniniu parašu pasirašytu elektroniniu pranešimu.
 
-\#### 14 straipsnis. Pavojinguosius krovinius vežančių kelių transporto priemonių vairuotojų pasirengimas
+## 14 straipsnis. Pavojinguosius krovinius vežančių kelių transporto priemonių vairuotojų pasirengimas
 
 1. Pavojinguosius krovinius vežančių kelių transporto priemonių vairuotojams taikomų reikalavimų, kurių jie privalo laikytis veždami pavojinguosius krovinius, išmanymas patvirtinamas kelių transporto priemonių vairuotojo pasirengimo vežti pavojinguosius krovinius pagal ADR pažymėjimu, išduotu Lietuvos Respublikoje arba kitoje ADR susitariančiojoje šalyje.
 
@@ -276,7 +276,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 5. Pavojinguosius krovinius vežančių kelių transporto priemonių vairuotojai mokomi, egzaminuojami ir kelių transporto priemonių vairuotojo pasirengimo vežti pavojinguosius krovinius pagal ADR pažymėjimai ar jų dublikatai išduodami, panaikinami, pratęsiami Lietuvos Respublikos kompetentingos institucijos nustatyta tvarka ir ADR nustatytomis sąlygomis.
 
-\#### 15 straipsnis. Mokymo įstaiga
+## 15 straipsnis. Mokymo įstaiga
 
 1. Mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, gali mokymo įstaiga, kuriai ši teisė suteikta Lietuvos Respublikos kompetentingos institucijos.
 
@@ -340,7 +340,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 11. Mokymo įstaigos atitikties vertinimas atliekamas, teisė mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, suteikiama, tikslinama, sustabdoma, atnaujinama, panaikinama Lietuvos Respublikos susisiekimo ministerijos nustatyta tvarka.
 
-\#### 16 straipsnis. Mokytojas, mokantis asmenis, susijusius su pavojingųjų krovinių vežimu
+## 16 straipsnis. Mokytojas, mokantis asmenis, susijusius su pavojingųjų krovinių vežimu
 
 1. Mokyti pavojingųjų krovinių vežimo saugos specialistus ir pavojinguosius krovinius vežančių kelių transporto priemonių vairuotojus gali mokytojas, kuriam Lietuvos Respublikoje suteikta teisė mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, pagal atitinkamą transportavimo būdą arba analogiška teisė suteikta kitoje susitariančiojoje šalyje.
 
@@ -354,7 +354,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 6. Mokytojai, mokantys asmenis, susijusius su pavojingųjų krovinių vežimu, asmenys, siekiantys tapti mokytojais ir įgyti teisę mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, atestuojami ir teisė mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, ir įgyti teisę mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, suteikiama, panaikinama Lietuvos Respublikos susisiekimo ministerijos nustatyta tvarka.
 
-\#### 17 straipsnis. Pavojingųjų krovinių fizinė sauga ir ypač pavojingi kroviniai
+## 17 straipsnis. Pavojingųjų krovinių fizinė sauga ir ypač pavojingi kroviniai
 
 1. Pavojingųjų krovinių vežimo dalyviai ir jų personalas, dalyvaujantys atliekant transporto operacijas, atsižvelgiant į atliekamas pareigas, privalo užtikrinti pavojingųjų krovinių fizinę saugą.
 
@@ -362,11 +362,11 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 
 3. Pavojingųjų krovinių fizinės saugos reikalavimus, atitinkamų fizinės saugos užtikrinimo planų parengimą, taip pat nuostatas, susijusias su ypač pavojingais kroviniais, reglamentuoja Lietuvos Respublikos tarptautinės sutartys, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, ir kiti teisės aktai.
 
-\#### 18 straipsnis. Gabenamųjų slėginių įrenginių ir kitų talpyklų priežiūra
+## 18 straipsnis. Gabenamųjų slėginių įrenginių ir kitų talpyklų priežiūra
 
 Gabenamųjų slėginių įrenginių ir kitų talpyklų, naudojamų pavojingiesiems kroviniams vežti, priežiūra organizuojama ir atliekama pagal Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatyme, Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, kituose teisės aktuose, taip pat gamintojų pateiktų techniniuose dokumentuose nustatytus reikalavimus.
 
-\#### 19 straipsnis. Kelių transporto priemonės tinkamumo vežti pavojinguosius krovinius patvirtinimas
+## 19 straipsnis. Kelių transporto priemonės tinkamumo vežti pavojinguosius krovinius patvirtinimas
 
 1. Pavojinguosius krovinius vežančios kelių transporto priemonės atitiktis ADR nustatytiems konstrukcijos ir tinkamumo patvirtinimo reikalavimams patvirtinama transporto priemonių, vežančių tam tikrus pavojinguosius krovinius, patvirtinimo sertifikatu.
 
@@ -378,7 +378,7 @@ Gabenamųjų slėginių įrenginių ir kitų talpyklų, naudojamų pavojingiesie
 
 5. Transporto priemonių, vežančių tam tikrus pavojinguosius krovinius, patvirtinimo sertifikatai ar jų dublikatai išduodami, panaikinami, jų galiojimas pratęsiamas Lietuvos Respublikos kompetentingos institucijos nustatyta tvarka.
 
-\#### 20 straipsnis. Pavojingųjų krovinių vežimo patikrinimai
+## 20 straipsnis. Pavojingųjų krovinių vežimo patikrinimai
 
 1. Pavojingųjų krovinių vežimo (įskaitant su tuo susijusį krovimą ir pripildymą) patikrinimai skirstomi į:
 
@@ -408,7 +408,7 @@ Gabenamųjų slėginių įrenginių ir kitų talpyklų, naudojamų pavojingiesie
 
 5. Pavojingųjų krovinių vežimo patikrinimai atliekami Lietuvos Respublikos viešojo administravimo įstatymo, šio ir kitų įstatymų bei Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-\#### 21 straipsnis. Pavojingųjų krovinių vežimo papildomi reikalavimai, apribojimai ir draudimai
+## 21 straipsnis. Pavojingųjų krovinių vežimo papildomi reikalavimai, apribojimai ir draudimai
 
 1. Papildomi reikalavimai, apribojimai ar draudimai, kurie nėra nustatyti Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, gali būti nustatyti pavojingųjų krovinių vežimui Lietuvos Respublikoje dėl kitų negu transportavimo sauga priežasčių, jeigu tai būtina viešosios tvarkos, visuomenės saugumo, visuomenės sveikatos, aplinkos apsaugos tikslais.
 
@@ -428,7 +428,7 @@ Gabenamųjų slėginių įrenginių ir kitų talpyklų, naudojamų pavojingiesie
 
 4. Motyvuotus siūlymus dėl papildomų reikalavimų, apribojimų ar draudimų, kurie nėra nustatyti Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, Lietuvos Respublikos kompetentingai institucijai teikia Lietuvos Respublikos valstybės ir savivaldybių atsakingos institucijos Lietuvos Respublikos kompetentingos institucijos nustatyta tvarka.
 
-\#### 22 straipsnis. Leidžiančios nukrypti nuostatos
+## 22 straipsnis. Leidžiančios nukrypti nuostatos
 
 1. Jeigu nesumažėja pavojingųjų krovinių vežimo sauga, leidus Europos Komisijai, kai pavojingieji kroviniai vežami išimtinai Lietuvos Respublikos teritorijoje arba Lietuvos Respublikos ir kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijoje, Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija gali pavojingųjų krovinių vežimui ar su tuo susijusiai veiklai Lietuvos Respublikos teritorijoje laikinai nustatyti kitokias (švelnesnes) nuostatas negu nustatytos Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, kai vežamas nedidelis tam tikrų pavojingųjų krovinių kiekis, išskyrus aukšto ir vidutinio radioaktyvumo lygio medžiagas, arba vežama automobilių ar geležinkelių keliais vietoje nedideliais atstumais ar geležinkelių keliais vietoje konkrečiais nustatytais maršrutais. Konkretūs tam tikrų pavojingųjų krovinių kiekio ir jų vežimo atstumo vertinamieji kriterijai nustatomi šių pavojingųjų krovinių vežimą ar su tuo susijusią veiklą reglamentuojančiuose teisės aktuose.
 
@@ -440,9 +440,9 @@ Gabenamųjų slėginių įrenginių ir kitų talpyklų, naudojamų pavojingiesie
 
 5. Susidarius ekstremaliajai situacijai dėl nenugalimos jėgos, Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, esant būtinybei ir jei laikomasi atitinkamų saugos priemonių, kai pavojingieji kroviniai vežami išimtinai Lietuvos Respublikos teritorijoje arba Lietuvos Respublikos ir kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijoje, gali Lietuvos Respublikos teritorijoje leisti vykdyti aiškiai apibrėžtas ribotos trukmės vežimo ar su tuo susijusios veiklos transporto operacijas kitomis negu įprastų aplinkybių sąlygomis ar vežti pavojinguosius krovinius, kuriuos įprastų aplinkybių sąlygomis vežti draudžiama.
 
-\### KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 23 straipsnis. Valstybės rinkliava
+## 23 straipsnis. Valstybės rinkliava
 
 Už šio įstatymo 13 straipsnio 7 dalyje, 14 straipsnio 5 dalyje, 15 straipsnio 11 dalyje, 16 straipsnio 6 dalyje, 19 straipsnio 5 dalyje nurodytas institucijų teikiamas paslaugas, 9 straipsnyje nurodytas funkcijas, susijusias su juridinę galią turinčių dokumentų ir jų dublikatų išdavimu, jų perregistravimu, ir kitų susijusių administracinių paslaugų teikimą asmenims imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
 
@@ -462,11 +462,11 @@ priedas
 
 2. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos direktyva 2008/68/EB dėl pavojingų krovinių vežimo vidaus keliais (OL 2008 L 260, p. 13) su paskutiniais pakeitimais, padarytais 2010 m. kovo 25 d. Komisijos sprendimu 2010/187/ES (OL 2010 L 83, p. 24).“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki šio įstatymo įsigaliojimo dienos priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2012 m. sausio 1 d.
 

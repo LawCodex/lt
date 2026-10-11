@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.808E247D7A99"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.808E247D7A99.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 15 ir 18 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 1996, Nr. [50-1196](https://www.e-tar.lt/portal/lt/legalAct/TAR.587826FB9EA2); 1997, Nr. [20-446](https://www.e-tar.lt/portal/lt/legalAct/TAR.5B552C063746), Nr. [106-2669](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B1A1F90F6E0); 1998, Nr. [51-1393](https://www.e-tar.lt/portal/lt/legalAct/TAR.071C500F1B91))
 
-\#### 1 straipsnis. 15 straipsnio 13 punkto pakeitimas ir papildymas
+## 1 straipsnis. 15 straipsnio 13 punkto pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnio 13 punktą ir jį išdėstyti taip:
 
 „13) tvirtina kainas ir tarifus už savivaldybės įmonių teikiamas paslaugas, taip pat tiekėjo teisėmis nustato elektros energijos, centralizuotos šilumos, šalto ir karšto vandens bei gamtinių dujų tiekimo paslaugų kainas;“.
 
-\#### 2 straipsnis. 18 straipsnio 1 dalies 1 punkto pakeitimas ir papildymas
+## 2 straipsnis. 18 straipsnio 1 dalies 1 punkto pakeitimas ir papildymas
 
 Pakeisti ir papildyti 18 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 

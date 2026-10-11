@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4d09df20ced211ed9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4D09DF20CED2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo Nr. VIII-1517 4 ir 5 straipsnių pakeitimo įstatymas
@@ -61,5 +61,3 @@ Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–1
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_81996caa9e59472eafa0a07b58ab522d_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9BA65B99577E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9BA65B99577E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo preambulės, 2 ir 5 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [60-1398](https://www.e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB))
 
-\#### 1 straipsnis. Įstatymo preambulės pakeitimas
+## 1 straipsnis. Įstatymo preambulės pakeitimas
 
 Pakeisti Įstatymo preambulę ir ją išdėstyti taip:
 
@@ -52,13 +52,13 @@ siekdamas sudaryti sąlygas ištirti Lietuvos piliečių pasipriešinimo okupaci
 
 priima šį įstatymą.“
 
-\#### 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 1 dalies pakeitimas
 
 2 straipsnio 1 dalyje vietoj žodžių „nusikaltimų žmonijai ir žmoniškumui“ įrašyti žodžius „bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų“ ir šią dalį išdėstyti taip:
 
 „1. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras (toliau – Centras) yra tarpžinybinė valstybės institucija, tirianti visas genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų apraiškas, Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų institucijų vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus.“
 
-\#### 3 straipsnis. 5 straipsnio 2 ir 18 punktų pakeitimas
+## 3 straipsnis. 5 straipsnio 2 ir 18 punktų pakeitimas
 
 1. 5 straipsnio 2 punkte po žodžių „genocido bei“ įrašyti žodį „kitų“, žodžius „nustato genocido organizatorius bei vykdytojus ir pateikia medžiagą apie juos; inicijuoja baudžiamųjų bylų iškėlimą“ išbraukti ir šį punktą išdėstyti taip:
 
@@ -68,7 +68,7 @@ priima šį įstatymą.“
 
 „18) fiksuoja genocido ir Lietuvos gyventojų persekiojimo faktus ir teikia medžiagą apie konkrečius genocido vykdytojus valstybės teisėsaugos institucijoms; bendradarbiauja su šiomis institucijomis, deleguodamas savo atstovus į darbo grupes, vykdančias tyrimą ir turinčias ikiteisminio tyrimo teisę; gali būti pareiškėju teismuose dėl genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų;“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

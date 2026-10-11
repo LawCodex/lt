@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6c5b93d255c311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6C5B93D255C3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8, 24-1, 24-2, 25, 26, 36 straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ ENERGETIKOS ĮSTATYMO NR. IX-884 2, 8, 241, 242, 25, 26, 36 STRAIPSNIŲ PAKEITIM
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 4 dalį.
 
@@ -34,13 +34,13 @@ Vilnius
 
 „44^1. Šiame įstatyme vartojama sąvoka „didmeninės rinkos dalyvis“ atitinka Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) 2 straipsnio 7 punkte apibrėžiamą sąvoką „rinkos dalyvis“. Sąvoka „profesionaliai sandorius organizuojantis ar vykdantis asmuo“ suprantama taip, kaip apibrėžiama Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) 2 straipsnio 8a punkte.“
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 11 dalies 20 punktą ir jį išdėstyti taip:
 
 „20) tiria Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) pažeidimus ir atlieka energetikos įmonių veiklos, didmeninės energijos rinkos dalyvių, profesionaliai sandorius organizuojančių ar vykdančių asmenų, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus;“.
 
-\#### 3 straipsnis. 241 straipsnio pakeitimas
+## 3 straipsnis. 241 straipsnio pakeitimas
 
 Pakeisti 24^1 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 24^1 straipsnį ir jį išdėstyti taip:
 
 14. Lietuvos bankas, komerciniai bankai ar kitos kredito bei finansų įstaigos šio straipsnio 1 dalies 3 punkte nurodytą informaciją Tarybai teikia teisės aktų nustatyta tvarka.“
 
-\#### 4 straipsnis. 242 straipsnio pakeitimas
+## 4 straipsnis. 242 straipsnio pakeitimas
 
 1. Pakeisti 242 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -142,19 +142,19 @@ Pakeisti 24^1 straipsnį ir jį išdėstyti taip:
 
 „3) kai atliekant Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) pažeidimo tyrimus nustatoma, kad asmuo, dėl kurio toks tyrimas atliekamas, atliko veiksmus, kurie prieštarauja Reglamentui [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) ar deleguotiesiems aktams, priimtiems remiantis Reglamentu [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) suteiktais įgaliojimais, arba Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) pagrindu priimtiems įgyvendinimo aktams, duodamas privalomasis nurodymas nutraukti tokius veiksmus.“
 
-\#### 5 straipsnis. 25 straipsnio pakeitimas
+## 5 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Fiziniai ir (ar) juridiniai asmenys Tarybos prašymu teikia jai informaciją apie energetikos įmonėms suteiktų paslaugų teikimo ar parduotų prekių tiekimo sąnaudas, pajamas, sutartinius įsipareigojimus ir kainodaras, kurie turi įtakos valstybės reguliuojamoms kainoms, kai energetikos įmonės, kurių veiklai yra taikomos valstybės reguliuojamos kainos, su fiziniais ir (ar) juridiniais asmenimis sudaro paslaugų teikimo ar prekių pirkimo sandorius, informaciją apie asmenų gautas pajamas, kuri būtina Tarybos taikomos sankcijos dydžiui apskaičiuoti, taip pat informaciją, reikalingą stebėsenai pagal Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) nuostatas vykdyti, bei kitą Tarybai teisės aktuose pavestoms funkcijoms atlikti reikalingą informaciją. Taryba, naudodamasi teise gauti iš fizinių ir (ar) juridinių asmenų informaciją, privalo užtikrinti gautos informacijos ar duomenų konfidencialumą, jeigu juos pateikęs asmuo to prašo, tačiau ši pareiga neapriboja galimybės Tarybai skelbti ar kitaip naudoti apibendrintą ar nuasmenintą informaciją ar duomenis, kai iš pateikiamos informacijos ar duomenų negalima nustatyti konkrečių asmenų.“
 
-\#### 6 straipsnis. 26 straipsnio pakeitimas
+## 6 straipsnis. 26 straipsnio pakeitimas
 
 Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Taryba glaudžiai bendradarbiauja su Europos Komisija, Energetikos reguliavimo institucijų bendradarbiavimo agentūra, įskaitant dalyvavimą jos Reguliuotojų valdybos darbe pagal Reglamento [(ES) 2019/942](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0942&locale=lt) 21 straipsnį ir bendradarbiavimą įgyvendinant Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) nuostatas, ir turi teisę sudaryti bendradarbiavimo susitarimą su Energetikos reguliavimo institucijų bendradarbiavimo agentūra. Taryba taip pat bendradarbiauja su kitų valstybių narių reguliavimo institucijomis ir Europos Komisija, įskaitant bendradarbiavimą įgyvendinant Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011R1227&locale=lt) nuostatas, ir turi teisę tuo tikslu sudaryti bendradarbiavimo susitarimus.“
 
-\#### 7 straipsnis. Įstatymo papildymas 261 straipsniu
+## 7 straipsnis. Įstatymo papildymas 261 straipsniu
 
 Papildyti Įstatymą 26^1 straipsniu:
 
@@ -170,7 +170,7 @@ Papildyti Įstatymą 26^1 straipsniu:
 
 5. Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymą sustabdyti gali tik Europos Sąjungos Teisingumo Teismas. Lietuvos Respublikos teismai turi jurisdikciją nagrinėti skundus dėl Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymo tvarkos ar procedūrinių pažeidimų.“
 
-\#### 8 straipsnis. 36 straipsnio pakeitimas
+## 8 straipsnis. 36 straipsnio pakeitimas
 
 1. Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -222,7 +222,7 @@ c) už Reglamento [(ES) Nr. 1227/2011](http://eur-lex.europa.eu/legal-content/LI
 
 5) Reglamento (ES) Nr. 1227/2011 18 straipsnio 7 dalyje nurodytas aplinkybes, kai skiriama sankcija už šio reglamento pažeidimus.“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

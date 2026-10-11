@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9f7c115055c211f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9F7C115055C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 3, 61 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ KREDITO UNIJŲ ĮSTATYMO NR. I-796 2, 3, 61 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 2 dalį.
 
@@ -34,19 +34,19 @@ Vilnius
 
 „11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos centrinių kredito unijų įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme ir Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt).“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Papildyti 3 straipsnį 6 dalimi:
 
 „6. Kredito unijoms, išskyrus kredito unijas, kurios paslaugoms teikti ar veiklai vykdyti valdo ir (ar) tvarko tinklų ir informacines sistemas nepriklausomai nuo centrinių kredito unijų, netaikomi Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai.“
 
-\#### 3 straipsnis. 61 straipsnio pakeitimas
+## 3 straipsnis. 61 straipsnio pakeitimas
 
 Papildyti 61 straipsnio 1 dalį 7^1 punktu:
 
 „7^1) pažeidžiami kredito unijoms, kurios paslaugoms teikti ar veiklai vykdyti valdo ir (ar) tvarko tinklų ir informacines sistemas nepriklausomai nuo centrinių kredito unijų, taikomi Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 4 straipsnis. Įstatymo priedo pakeitimas
+## 4 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 

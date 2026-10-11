@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/213fa7e255ca11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.213FA7E255CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 10-1, 20, 38, 47, 54, 60 straipsnių ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 1
 
 Vilnius
 
-\#### 1 straipsnis. 10 straipsnio pakeitimas
+## 1 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 2 dalies 11 punktą ir jį išdėstyti taip:
 
@@ -36,25 +36,25 @@ Vilnius
 
 „11^1) kiekvienais metais iki kovo 1 d. teikia Seimo Nacionalinio saugumo ir gynybos komitetui informaciją apie tarnaujančių šio įstatymo 10^1 straipsnio 2 dalyje nurodytų karių skaičių;“.
 
-\#### 2 straipsnis. 101 straipsnio pakeitimas
+## 2 straipsnis. 101 straipsnio pakeitimas
 
 Pakeisti 10^1 straipsnio 2 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) ribinis pulkininkų, jūrų kapitonų, generolų ir admirolų skaičius.“
 
-\#### 3 straipsnis. 20 straipsnio pakeitimas
+## 3 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio 13 dalį ir ją išdėstyti taip:
 
 „13. Kariūnų, studijuojančių valstybės finansuojamose studijų vietose, įskaitant tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, studijos, karinis rengimas ir neformalusis švietimas Akademijoje apmokami iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Kariūnų, studijuojančių valstybės finansuojamose studijų vietose, išskyrus tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, išsiųstų studijuoti vadovaujantis šio straipsnio 8 dalies nuostatomis, studijos kitose Lietuvos aukštosiose mokyklose apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Krašto apsaugos ministerija turi teisę apmokėti asmenų, studijuojančių valstybės nefinansuojamose studijų vietose, įskaitant tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, studijų, karinio rengimo ir neformalaus švietimo Akademijoje kainą arba jos dalį iš patvirtintų valstybės biudžeto asignavimų Vyriausybės nustatyta tvarka. Už kariūnų studijas kitose Lietuvos aukštosiose mokyklose mokama ne didesnė negu norminė studijų kaina. Akademijoje studijuojančių kariūnų studijų valstybės nefinansuojamose studijų vietose kaina, susidedanti iš Mokslo ir studijų įstatymo 83 straipsnio 2 ir 3 dalyse nurodytų studijų išlaidų, ir karinio rengimo išlaidų dydis nustatomi krašto apsaugos ministro tvirtinamame priėmimo į Akademiją mokytis pagal universitetinių studijų programas sąlygų apraše ir kariūno tarnybos sutartyje. Kariūnams suteikiama gyvenamoji patalpa (kareivinėse). Išsiųstiems studijuoti į kitas Lietuvos aukštąsias mokyklas kariūnams gyvenamoji patalpa suteikiama krašto apsaugos ministro nustatyta tvarka. Kariūnai aprūpinami arba iš dalies aprūpinami maistu arba Akademijos statute nustatytais atvejais jiems mokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems kariūnams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Kariūnams iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų skiriamos stipendijos. Kariūnams mokamų stipendijų rūšys, jų skaičius ir dydžiai, stipendijų skyrimo ir mokėjimo tvarka nustatomi Akademijos statute. Kariūnams Mokslo ir studijų įstatyme numatytos stipendijos neskiriamos. Kariūnų kelionių išlaidų atlyginimo sąlygos nustatomos Akademijos statute. Kariūnų kelionių išlaidų atlyginimo tvarką, maksimalų per dieną nuvažiuojamą atstumą į abi puses, už kurį atlyginamos kelionės išlaidos, ir kelionės ne viešuoju transportu vieno kilometro atlyginamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 4 straipsnis. 38 straipsnio pakeitimas
+## 4 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) pasibaigia profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutarties terminas arba kariui sukanka šio įstatymo 45 straipsnio 4, 6 dalyse, išskyrus šio įstatymo 46^1straipsnyje nustatytą atvejį ar 32 straipsnio 3 dalyje, 32^1 straipsnio 3 dalyje nustatytas amžius;“.
 
-\#### 5 straipsnis. Įstatymo papildymas 461 straipsniu
+## 5 straipsnis. Įstatymo papildymas 461 straipsniu
 
 Papildyti Įstatymą 46^1 straipsniu:
 
@@ -62,7 +62,7 @@ Papildyti Įstatymą 46^1 straipsniu:
 
 Krašto apsaugos ministras arba jo įgaliotas asmuo, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti kario, sukakusio šio įstatymo 45 straipsnio 4 ir 6 dalyse nustatytą amžių, išskyrus karo kapelionus, profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne ilgiau kaip 4 metams su kario sutikimu. Profesinės karo tarnybos pratęsimo tvarką nustato krašto apsaugos ministras.“
 
-\#### 6 straipsnis. 47 straipsnio pakeitimas
+## 6 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -74,13 +74,13 @@ Pakeisti 47 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) dėl sveikatos būklės tapę netinkami mobilizacijai atsargos kariai, neatsižvelgiant į jų amžių.“
 
-\#### 7 straipsnis. 54 straipsnio pakeitimas
+## 7 straipsnis. 54 straipsnio pakeitimas
 
 Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Tikrosios karo tarnybos kariui aukštesnis laipsnis gali būti suteikiamas vadovaujantis atrankos principais ir atsižvelgiant į krašto apsaugos sistemos struktūrą bei poreikius, taip pat į įstatymu patvirtintus generolų (admirolų), pulkininkų ir jūrų kapitonų ribinius skaičius ir krašto apsaugos ministro nustatytus pareigybių sąrašus. Karių atrankos aukštesniam laipsniui suteikti kriterijus ir tvarką nustato krašto apsaugos ministras.“
 
-\#### 8 straipsnis. 60 straipsnio pakeitimas
+## 8 straipsnis. 60 straipsnio pakeitimas
 
 1. Pakeisti 60 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „14. Profesinės karo tarnybos kariui skiriamų priedų, nurodytų šio straipsnio 4 dalies 1–3^2 punktuose, suma negali viršyti 100 procentų tarnybinio atlyginimo.“
 
-\#### 9 straipsnis. Įstatymo 1 priedo pakeitimas
+## 9 straipsnis. Įstatymo 1 priedo pakeitimas
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
 
@@ -112,55 +112,33 @@ ir karo tarnybos įstatymo
 
 **profesinės karo tarnybos karių****tarnybiniO atlyginimO KOEFICIENTAI**
 
-\| Eil. Nr. | Karių laipsniai | Koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais) | | | | |
-
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| tarnybos metai pagal laipsnį | | | | | | |
-
-\| 1-ieji | 2-ieji | 3-ieji | 4-ieji | 5-ieji ir tolesni | | |
-
-\| 1. | Generolas, admirolas | 3,72 | 3,72 | 3,72 | 3,72 | 3,72 |
-
-\| 2. | Generolas leitenantas, viceadmirolas | 3,48 | 3,51 | 3,51 | 3,51 | 3,51 |
-
-\| 3. | Generolas majoras, kontradmirolas | 3,16 | 3,19 | 3,19 | 3,19 | 3,19 |
-
-\| 4. | Brigados generolas, flotilės admirolas | 2,86 | 2,89 | 2,89 | 2,89 | 2,89 |
-
-\| 5. | Pulkininkas, jūrų kapitonas | 2,49 | 2,52 | 2,55 | 2,58 | 2,58 |
-
-\| 6. | Pulkininkas leitenantas, komandoras | 2,13 | 2,16 | 2,19 | 2,22 | 2,25 |
-
-\| 7. | Majoras, komandoras leitenantas | 1,87 | 1,90 | 1,93 | 1,96 | 1,99 |
-
-\| 8. | Kapitonas, kapitonas leitenantas | 1,63 | 1,65 | 1,67 | 1,69 | 1,69 |
-
-\| 9. | Vyresnysis leitenantas | 1,46 | 1,48 | 1,50 | 1,50 | 1,50 |
-
-\| 10. | Leitenantas | 1,22 | 1,24 | 1,24 | 1,24 | 1,24 |
-
-\| 11. | Seržantas majoras, vyresnysis laivūnas | 1,81 | 1,84 | 1,87 | 1,87 | 1,87 |
-
-\| 12. | Viršila, laivūnas | 1,52 | 1,54 | 1,56 | 1,56 | 1,56 |
-
-\| 13. | Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas | 1,36 | 1,38 | 1,40 | 1,40 | 1,40 |
-
-\| 14. | Vyresnysis seržantas, vyresnysis seržantas specialistas | 1,25 | 1,27 | 1,29 | 1,29 | 1,29 |
-
-\| 15. | Seržantas, seržantas specialistas | 1,12 | 1,14 | 1,14 | 1,14 | 1,14 |
-
-\| 16. | Grandinis | 1,06 | 1,08 | 1,08 | 1,08 | 1,08 |
-
-\| 17. | Vyresnysis eilinis, vyresnysis jūreivis | 0,97 | 0,97 | 0,97 | 0,97 | 0,97 |
-
-\| 18. | Eilinis, jūreivis | 0,89 | 0,89 | 0,89 | 0,89 | 0,89 |
-
-\| 19. | Jaunesnysis eilinis, jaunesnysis jūreivis | 0,87 | 0,87 | 0,87 | 0,87 | 0,87 |
+| Eil. Nr. | Karių laipsniai | Koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| tarnybos metai pagal laipsnį |  |  |  |  |  |  |
+| 1-ieji | 2-ieji | 3-ieji | 4-ieji | 5-ieji ir tolesni |  |  |
+| 1. | Generolas, admirolas | 3,72 | 3,72 | 3,72 | 3,72 | 3,72 |
+| 2. | Generolas leitenantas, viceadmirolas | 3,48 | 3,51 | 3,51 | 3,51 | 3,51 |
+| 3. | Generolas majoras, kontradmirolas | 3,16 | 3,19 | 3,19 | 3,19 | 3,19 |
+| 4. | Brigados generolas, flotilės admirolas | 2,86 | 2,89 | 2,89 | 2,89 | 2,89 |
+| 5. | Pulkininkas, jūrų kapitonas | 2,49 | 2,52 | 2,55 | 2,58 | 2,58 |
+| 6. | Pulkininkas leitenantas, komandoras | 2,13 | 2,16 | 2,19 | 2,22 | 2,25 |
+| 7. | Majoras, komandoras leitenantas | 1,87 | 1,90 | 1,93 | 1,96 | 1,99 |
+| 8. | Kapitonas, kapitonas leitenantas | 1,63 | 1,65 | 1,67 | 1,69 | 1,69 |
+| 9. | Vyresnysis leitenantas | 1,46 | 1,48 | 1,50 | 1,50 | 1,50 |
+| 10. | Leitenantas | 1,22 | 1,24 | 1,24 | 1,24 | 1,24 |
+| 11. | Seržantas majoras, vyresnysis laivūnas | 1,81 | 1,84 | 1,87 | 1,87 | 1,87 |
+| 12. | Viršila, laivūnas | 1,52 | 1,54 | 1,56 | 1,56 | 1,56 |
+| 13. | Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas | 1,36 | 1,38 | 1,40 | 1,40 | 1,40 |
+| 14. | Vyresnysis seržantas, vyresnysis seržantas specialistas | 1,25 | 1,27 | 1,29 | 1,29 | 1,29 |
+| 15. | Seržantas, seržantas specialistas | 1,12 | 1,14 | 1,14 | 1,14 | 1,14 |
+| 16. | Grandinis | 1,06 | 1,08 | 1,08 | 1,08 | 1,08 |
+| 17. | Vyresnysis eilinis, vyresnysis jūreivis | 0,97 | 0,97 | 0,97 | 0,97 | 0,97 |
+| 18. | Eilinis, jūreivis | 0,89 | 0,89 | 0,89 | 0,89 | 0,89 |
+| 19. | Jaunesnysis eilinis, jaunesnysis jūreivis | 0,87 | 0,87 | 0,87 | 0,87 | 0,87 |
 
 _______________________“.
 
-\#### 10 straipsnis. Įstatymo 2 priedo pakeitimas
+## 10 straipsnis. Įstatymo 2 priedo pakeitimas
 
 Pakeisti Įstatymo 2 priedą ir jį išdėstyti taip:
 
@@ -174,51 +152,31 @@ ir karo tarnybos įstatymo
 
 PROFESINĖS KARO TARNYBOS KARIŲ TIESIOGIAI VYKDOMOS PAREIGOS, SUSIJUSIOS SU YPATINGA SPECIFIKA, UŽDUOTYS, KURIOMS ATLIKTI REIKIA YPATINGOS PSICHOLOGINĖS IR FIZINĖS IŠTVERMĖS, IR ŠIAS PAREIGAS BEI UŽDUOTIS ATITINKANČIŲ PRIEDŲ DYDŽIAI
 
-\| 1. Profesinės karo tarnybos karių tiesiogiai vykdomos pareigos, susijusios su ypatinga specifika | Koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais) |
-
-\| --- | --- |
-
-\| 1.1. Specialiosios operacijos ir karinis rengimasis joms | 0,27– 0,57 |
-
-\| 1.2. Specialiosios žvalgybos ir karinis rengimasis joms | 0,27–0,32 |
-
-\| 1.3. Skrydžiai orlaivio įgulos sudėtyje | 0,11–0,21 |
-
-\| 1.4. Pratybos ir kovinis budėjimas kartu su laivo įgula | 0,11–0,21 |
-
-\| 1.5. Nardymas ir kiti veiksmai po vandeniu | 0,11–0,21 |
-
-\| 1.6. Išminavimo ir sprogdinimo darbai | 0,11–0,21 |
-
-\| 1.7. Šuoliai parašiutu | 0,11–0,21 |
-
-\| 1.8. Nusileidimas iš sraigtasparnių virve | 0,11–0,21 |
-
-\| 1.9. Nusileidimas virve nuo aukštų objektų / kopimas virve į juos | 0,11–0,21 |
-
-\| 1.10. Laivų šturmas (iš vandens) | 0,11–0,21 |
-
-\| 1.11. Persikėlimas per gilias (nuo 2 m) vandens kliūtis | 0,11–0,21 |
-
-\| 1.12. Tiesioginis Lietuvos Respublikos oro erdvės stebėjimas, ginkluotės valdymas ir kontroliavimas kovinio budėjimo metu | 0,11–0,21 |
-
-\| 2. Užduotys, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės | Koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais) |
-
-\| 2.1. Lauko pratybos kareivinių režimu | 0,8 |
-
-\| 2.2. Pagalba kitoms valstybės ir savivaldybių institucijoms | 0,32 |
-
-\| 2.3. Tarnyba kareivinių režimu aukštesniu negu įprastiniu budrumo lygiu | 0,27 |
-
-\| 2.4. Budėjimas greitojo reagavimo pajėgose | 0,11 |
-
-\| 2.5. Budėjimas taikos meto užduočių vykdymo pajėgose | 0,11 |
-
-\| 2.6. Tarnybinių užduočių vykdymas ne trumpiau nei 5 tarnybos dienas kitoje tarnybos vietovėje Lietuvos Respublikoje | 0,11 |
+| 1. Profesinės karo tarnybos karių tiesiogiai vykdomos pareigos, susijusios su ypatinga specifika | Koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais) |
+| --- | --- |
+| 1.1. Specialiosios operacijos ir karinis rengimasis joms | 0,27– 0,57 |
+| 1.2. Specialiosios žvalgybos ir karinis rengimasis joms | 0,27–0,32 |
+| 1.3. Skrydžiai orlaivio įgulos sudėtyje | 0,11–0,21 |
+| 1.4. Pratybos ir kovinis budėjimas kartu su laivo įgula | 0,11–0,21 |
+| 1.5. Nardymas ir kiti veiksmai po vandeniu | 0,11–0,21 |
+| 1.6. Išminavimo ir sprogdinimo darbai | 0,11–0,21 |
+| 1.7. Šuoliai parašiutu | 0,11–0,21 |
+| 1.8. Nusileidimas iš sraigtasparnių virve | 0,11–0,21 |
+| 1.9. Nusileidimas virve nuo aukštų objektų / kopimas virve į juos | 0,11–0,21 |
+| 1.10. Laivų šturmas (iš vandens) | 0,11–0,21 |
+| 1.11. Persikėlimas per gilias (nuo 2 m) vandens kliūtis | 0,11–0,21 |
+| 1.12. Tiesioginis Lietuvos Respublikos oro erdvės stebėjimas, ginkluotės valdymas ir kontroliavimas kovinio budėjimo metu | 0,11–0,21 |
+| 2. Užduotys, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės | Koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais) |
+| 2.1. Lauko pratybos kareivinių režimu | 0,8 |
+| 2.2. Pagalba kitoms valstybės ir savivaldybių institucijoms | 0,32 |
+| 2.3. Tarnyba kareivinių režimu aukštesniu negu įprastiniu budrumo lygiu | 0,27 |
+| 2.4. Budėjimas greitojo reagavimo pajėgose | 0,11 |
+| 2.5. Budėjimas taikos meto užduočių vykdymo pajėgose | 0,11 |
+| 2.6. Tarnybinių užduočių vykdymas ne trumpiau nei 5 tarnybos dienas kitoje tarnybos vietovėje Lietuvos Respublikoje | 0,11 |
 
 _______________________“.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

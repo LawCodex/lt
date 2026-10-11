@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/43db5e50d05f11e7910a89ac20768b0f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43DB5E50D05F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 7, 11, 12, 20, 21, 22, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 24-2 straipsniais įstatymas

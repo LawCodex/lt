@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4290772CEE6F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4290772CEE6F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 4, 6, 7, 9, 15(4), 15(5), 15(8), 19, 20, 28 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [106-2427](https://www.e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255); 1999, Nr. [59-1918](https://www.e-tar.lt/portal/lt/legalAct/TAR.7ACCD429C6E8); 2000, Nr. [64-1933](https://www.e-tar.lt/portal/lt/legalAct/TAR.59F959087B0F); 2003, Nr. [38-1725](https://www.e-tar.lt/portal/lt/legalAct/TAR.40D275B34EDF), Nr. [42-1912](https://www.e-tar.lt/portal/lt/legalAct/TAR.E36BD2A89CB8), Nr. [70-3168](https://www.e-tar.lt/portal/lt/legalAct/TAR.A541EF1506F1); 2004, Nr. [115-4282](https://www.e-tar.lt/portal/lt/legalAct/TAR.DBD68D60EB9E))
 
-\#### 1 straipsnis. 4 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 11 dalimi
+## 1 straipsnis. 4 straipsnio 7 dalies pakeitimas ir straipsnio papildymas 11 dalimi
 
 1. 4 straipsnio 7 dalyje išbraukti žodžius „naujokų šaukimo komisijos sprendimu“ ir šį punktą išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „11. **Vietinė teritorinė karinė įstaiga** – Karo prievolės administravimo tarnybos prie Krašto apsaugos ministerijos karo prievolės administravimą vykdantis teritorinis skyrius.“
 
-\#### 2 straipsnis. 6 straipsnio 1, 2 ir 5 dalių pakeitimas
+## 2 straipsnis. 6 straipsnio 1, 2 ir 5 dalių pakeitimas
 
 1. 6 straipsnio 1 dalyje vietoj žodžių „naujokų šaukimo komisiją, o naujokų šaukimo komisija“ įrašyti žodžius „savivaldybės atrankos komisiją, kuri“ ir šią dalį išdėstyti taip:
 
@@ -52,13 +52,13 @@ Vilnius
 
 „5. Šauktiniams, kurie savivaldybės atrankos komisijos yra pripažinti tinkamais privalomajai pradinei karo tarnybai ir paskirti į dalinius, draudžiama išvykti iš Lietuvos Respublikos ilgesniam laikui negu iki paskirto atvykimo į dalinį dienos.“
 
-\#### 3 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 7 straipsnio 2 dalyje vietoj žodžių „naujokų šaukimo komisijai“ įrašyti žodžius „savivaldybės atrankos komisijai“ ir šią dalį išdėstyti taip:
 
 „2. Šio straipsnio 1 dalies 1–3 punktuose nurodytais atvejais šauktiniai privalo turėti pateisinamąjį dokumentą ir pateikti jį savivaldybės atrankos komisijai, o 4 punkte nurodytu atveju šauktiniai privalo pateikti arba atsiųsti registruotu laišku pateisinamąjį dokumentą ir dokumentus dėl tarnybos atidėjimo.“
 
-\#### 4 straipsnis. 9 straipsnio 1 ir 6 dalių pakeitimas
+## 4 straipsnis. 9 straipsnio 1 ir 6 dalių pakeitimas
 
 1. 9 straipsnio 1 dalyje vietoj žodžių „Naujokų šaukimo komisijos“ įrašyti žodžius „Savivaldybės atrankos komisijos“, pakeisti 1 dalies 14 punktą ir visą dalį išdėstyti taip:
 
@@ -96,13 +96,13 @@ Vilnius
 
 „6. Savivaldybių atrankos komisijos privalomąją pradinę karo tarnybą gali atidėti vieneriems metams. Nepasikeitus šiame įstatyme nurodytoms aplinkybėms, šaukimo atidėjimas iš naujo pratęsiamas kiekvieną kartą ne ilgiau kaip vieneriems metams.“
 
-\#### 5 straipsnis. 154 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 154 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15^4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vietos savivaldos institucija tvarko savivaldybės teritorijoje gyvenančių ikišauktinio amžiaus jaunuolių apskaitą ir pradinę šauktinių atranką, siunčia atrinktus šauktinius į regioninius karo prievolės centrus, kontroliuoja, kad šio įstatymo 5 straipsnio 1 dalies nuostata būtų įvykdyta laiku.“
 
-\#### 6 straipsnis. 155 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 155 straipsnio 1 dalies pakeitimas
 
 Pakeisti 15^5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti 15^5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 7) vykdo visuomenės teisinį švietimą karo prievolės klausimais.“
 
-\#### 7 straipsnis. 158 straipsnio pakeitimas
+## 7 straipsnis. 158 straipsnio pakeitimas
 
 Pakeisti 15^8 straipsnį ir jį išdėstyti taip:
 
@@ -144,19 +144,19 @@ Administravimo tarnybos teritorinis skyrius:
 
 7) atlieka kitas teisės aktų nustatytas funkcijas.“
 
-\#### 8 straipsnis. 19 straipsnio 6 dalies pakeitimas
+## 8 straipsnis. 19 straipsnio 6 dalies pakeitimas
 
 19 straipsnio 6 dalyje vietoj žodžių „naujokų šaukimo komisija“ įrašyti žodžius „savivaldybės atrankos komisija“ ir šią dalį išdėstyti taip:
 
 „6. Į būtinuosius karinius mokymus siunčia savivaldybės atrankos komisija. Mokymų pradžią ir pabaigą nustato kariuomenės vadas.“
 
-\#### 9 straipsnis. 20 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 20 straipsnio 1 dalies pakeitimas
 
 20 straipsnio 1 dalyje vietoj žodžių „naujokų šaukimo komisiją“ įrašyti žodžius „savivaldybės atrankos komisiją“ ir šią dalį išdėstyti taip:
 
 „1. Alternatyviąją krašto apsaugos tarnybą pageidaujantys atlikti karo prievolininkai raštu kreipiasi pagal gyvenamąją vietą į savivaldybės atrankos komisiją arba regioninį karoprievolės centrą. Prašymas turi būti motyvuotai pagrįstas.“
 
-\#### 10 straipsnis. 28 straipsnio 4 ir 5 punktų pakeitimas
+## 10 straipsnis. 28 straipsnio 4 ir 5 punktų pakeitimas
 
 1. 28 straipsnio 4 punkte vietoj žodžių „šaukimo komisijas“ įrašyti žodžius „savivaldybių atrankos komisijas“ ir šį punktą išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E9593349BDF5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E9593349BDF5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kai kurių savivaldybių įmonių reorganizavimo į valstybės įmones įstatymo 2 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [35-874](https://www.e-tar.lt/portal/lt/legalAct/TAR.AD441C975AA8))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnio pavadinime ir tekste vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“, vietoj žodžių „Žemės ūkio ministerija“ – žodžius „Žemės ir miškų ūkio ministerija“ ir šį straipsnį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F5E86A122224"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F5E86A122224.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Palangos miesto, Klaipėdos ir Kretingos rajonų savivaldybių teritorijų administracinių ribų pakeitimo įstatymas
@@ -26,7 +26,7 @@ PALANGOS MIESTO, KLAIPĖDOS IR KRETINGOS RAJONŲ SAVIVALDYBIŲ TERITORIJŲ ADMIN
 
 Vilnius
 
-\#### 1 straipsnis. Palangos miesto savivaldybei priskiriamos gyvenamųjų vietovių dalys
+## 1 straipsnis. Palangos miesto savivaldybei priskiriamos gyvenamųjų vietovių dalys
 
 Priskirti Palangos miesto savivaldybei:
 
@@ -34,7 +34,7 @@ Priskirti Palangos miesto savivaldybei:
 
 2) Klaipėdos rajono Anaičių ir Nemirsetos gyvenamųjų vietovių dalis (buvusios Letūkų žemės ūkio įmonės naudota žemė – 80,7 ha, buvusios Girkalių žemės ūkio įmonės naudota žemė – 158,1 ha, Kretingos urėdijos Palangos girininkijos naudojama žemė – 38,2 ha), iš viso – 277 hektarus.
 
-\#### 2 straipsnis. Palangos miesto savivaldybės teritorijos administracinės ribos
+## 2 straipsnis. Palangos miesto savivaldybės teritorijos administracinės ribos
 
 Nustatyti šias Palangos miesto savivaldybės teritorijos administracines ribas:
 
@@ -46,11 +46,11 @@ Nustatyti šias Palangos miesto savivaldybės teritorijos administracines ribas:
 
 4) miesto vakarų riba – Baltijos jūros krantas.
 
-\#### 3 straipsnis. Ribų pažymėjimas geodeziniais ženklais
+## 3 straipsnis. Ribų pažymėjimas geodeziniais ženklais
 
 Įpareigoti Palangos miesto savivaldybę per metus nuo šio įstatymo įsigaliojimo pažymėti Palangos miesto savivaldybės teritorijos administracines ribas geodeziniais ženklais.
 
-\#### 4 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsako pripažinimas netekusiu galios
+## 4 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsako pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1970 m. birželio 30 d. įsaką „Dėl Kretingos rajono Šventosios apylinkės panaikinimo ir Palangos miesto ribų nustatymo“.
 

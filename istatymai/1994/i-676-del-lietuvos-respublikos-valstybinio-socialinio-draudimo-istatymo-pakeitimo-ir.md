@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9DE7514DA6E8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9DE7514DA6E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo pakeitimo ir papildymo
@@ -34,7 +34,7 @@ I. Pakeisti ir papildyti Lietuvos Respublikos valstybinio socialinio draudimo į
 
 Valstybinį socialinį draudimą reguliuoja šis ir kiti Lietuvos Respublikos socialinio aprūpinimo įstatymai, taip pat Valstybinių socialinio draudimo pensijų įstatymas, Lietuvos Respublikos Vyriausybės tvirtinami Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatai, Valstybinio socialinio draudimo pašalpų nuostatai, Valstybinio socialinio draudimo įstaigų nuostatai, taip pat Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės, Savanoriškojo valstybinių socialinio pensijų draudimo taisyklės.
 
-\#### 3 straipsnis. Valstybinio socialinio draudimo rūšys
+## 3 straipsnis. Valstybinio socialinio draudimo rūšys
 
 Lietuvos Respublikoje nustatomos tokios valstybinio socialinio draudimo rūšys:
 
@@ -48,7 +48,7 @@ Lietuvos Respublikoje nustatomos tokios valstybinio socialinio draudimo rūšys:
 
 5) draudimas nuo nelaimingų atsitikimų gamyboje, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme.
 
-\#### 4 straipsnis. Asmenys, draudžiami valstybiniu socialiniu draudimu
+## 4 straipsnis. Asmenys, draudžiami valstybiniu socialiniu draudimu
 
 Asmenų, draudžiamų kiekvienos rūšies draudimu, kategorijas nustato atitinkami įstatymai, reguliuojantys tos rūšies draudimo tvarką.
 
@@ -132,7 +132,7 @@ I grupės invalidams, gaunantiems arba turintiems teisę gauti valstybinę socia
 
 Valstybinio socialinio draudimo fondo biudžeto išlaidos skirstomos ir apskaitomos pagal draudimo rūšis. Išlaidų straipsnių klasifikaciją nustato Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės.
 
-\#### 32 straipsnis. Valstybinio socialinio draudimo fondo rezervas
+## 32 straipsnis. Valstybinio socialinio draudimo fondo rezervas
 
 Valstybinio socialinio draudimo fondui stabilizuoti sudaromas fondo rezervas, kuris yra ne mažesnis kaip 15 procentų metinės pajamų sumos. Šis fondas formuojamas iš pajamų dalies, viršijančios išlaidas.
 
@@ -142,11 +142,11 @@ Rezervo lėšos Valstybinio socialinio draudimo fondo tarybos sprendimu gali bū
 
 Taryba privalo užtikrinti Valstybinio socialinio draudimo fondo rezervo lėšų realiosios vertės išsaugojimą.
 
-\#### 33 straipsnis. Kasos apyvartos lėšos
+## 33 straipsnis. Kasos apyvartos lėšos
 
 Valstybinio socialinio draudimo fondo biudžete sudaromos kasos apyvartos lėšos, būtinos pinigų cirkuliacijai užtikrinti. Šių lėšų dydis nustatomas tvirtinant fondo biudžetą.
 
-\#### 34 straipsnis. Valstybinio socialinio draudimo įmokos
+## 34 straipsnis. Valstybinio socialinio draudimo įmokos
 
 Drausdamas asmenis, išvardintus šio įstatymo 4 straipsnio 1 punkte, darbdavys privalo mokėti nustatyto dydžio valstybinio socialinio draudimo įmokas.
 
@@ -156,7 +156,7 @@ Asmenys, išvardinti šio įstatymo 4 straipsnio 2 ir 3 punktuose, valstybinio s
 
 Įmokų mokėjimo terminus ir tvarką nustato Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės.
 
-\#### 35 straipsnis. Valstybinio socialinio draudimo įmokų tarifai
+## 35 straipsnis. Valstybinio socialinio draudimo įmokų tarifai
 
 Bendrąjį privalomojo valstybinio socialinio draudimo įmokų tarifą ir jo dydžius atskiroms draudimo rūšims nustato Lietuvos Respublikos Vyriausybė, tvirtindama Valstybinio socialinio draudimo fondo biudžetą.
 
@@ -192,13 +192,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo valdymo sistemą sudaro:
 
 4) draudėjai.
 
-\#### 40 straipsnis. Valstybinio socialinio draudimo fondo taryba
+## 40 straipsnis. Valstybinio socialinio draudimo fondo taryba
 
 Valstybinio socialinio draudimo fondui, kaip savarankiškai finansų ir kredito sistemos grandžiai, Lietuvos Respublikoje vadovauja 15 narių taryba. Ji sudaroma iš vienodo skaičiaus lygiateisių narių, atstovaujančių apdraustųjų interesus ginančioms organizacijoms (profesinėms sąjungoms, susivienijimams, asociacijoms ir kt.), darbdavių organizacijoms (susivienijimams, asociacijoms ir kt.) bei valstybės valdymo institucijoms. Apdraustųjų ir darbdavių atstovus deleguoja atstovaujamos organizacijos, o valstybės valdymo institucijų atstovus skiria Lietuvos Respublikos Vyriausybė. Tarybos sudėtį tvirtina Vyriausybė.
 
 Tarybai vadovauja Socialinės apsaugos ir darbo ministras arba jo įgaliotas tarybos narys.
 
-\#### 41 straipsnis. Valstybinio socialinio draudimo fondo tarybos kompetencija
+## 41 straipsnis. Valstybinio socialinio draudimo fondo tarybos kompetencija
 
 Valstybinio socialinio draudimo taryba:
 
@@ -216,7 +216,7 @@ Valstybinio socialinio draudimo taryba:
 
 Tarybos sprendimai priimami jos narių paprasta balsų dauguma. Tarybos darbas organizuojamas pagal jos pačios patvirtintą reglamentą.
 
-\#### 42 straipsnis. Valstybinio socialinio draudimo fondo valdyba
+## 42 straipsnis. Valstybinio socialinio draudimo fondo valdyba
 
 Valstybinio socialinio draudimo fondo valdyba yra iš valstybinio socialinio draudimo fondo biudžeto lėšų išlaikoma įstaiga, turinti juridinio asmens teises, antspaudą su Lietuvos valstybės herbu ir sąskaitas bankuose. Valdyba:
 

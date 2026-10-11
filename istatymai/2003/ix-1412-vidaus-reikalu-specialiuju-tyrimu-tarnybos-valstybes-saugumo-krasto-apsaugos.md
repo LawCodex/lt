@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.205724212DC4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.205724212DC4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 1 ir 6 straipsnių pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 2000, Nr. 36-986, Nr. 41-1167, Nr. 64-1923, Nr. 92-2860)
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Teisę gauti pareigūnų ir karių valstybinę pensiją taip pat turi šio straipsnio pirmojoje dalyje išvardyti pareigūnai ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos, Krašto apsaugos ministerijos kadrų rezervą, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos Respublikos ministerijose, departamentuose, įstaigose ir organizacijose.“
 
-\#### 2 straipsnis. 6 straipsnio 2 punkto pakeitimas
+## 2 straipsnis. 6 straipsnio 2 punkto pakeitimas
 
 Pakeisti 6 straipsnio 2 punktą ir jį išdėstyti taip:
 

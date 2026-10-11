@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7E37B71EA5D2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7E37B71EA5D2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo 1999 metų biudžeto įsipareigojimų pripažinimo valstybės vidaus skola ir jos padengimo įstatymas
@@ -26,15 +26,15 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO 1999 METŲ BIUDŽETO ĮSIPAREIGOJIMŲ PRIP
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šio įstatymo paskirtis – Valstybinio socialinio draudimo fondo 1999 metų biudžeto įsipareigojimus pripažinti valstybės vidaus skola ir nustatyti šios skolos padengimo tvarką.
 
-\#### 2 straipsnis. Valstybės vidaus skolos pripažinimas
+## 2 straipsnis. Valstybės vidaus skolos pripažinimas
 
 Valstybinio socialinio draudimo fondo 1999 metų biudžeto įsipareigojimus – 200000 tūkst. litų pripažinti valstybės vidaus skola.
 
-\#### 3 straipsnis. Valstybės vidaus skolos padengimas
+## 3 straipsnis. Valstybės vidaus skolos padengimas
 
 Šio įstatymo 2 straipsnyje pripažinta valstybės vidaus skola Valstybinio socialinio draudimo fondo biudžetui dengiama 1999–2000 metais Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 

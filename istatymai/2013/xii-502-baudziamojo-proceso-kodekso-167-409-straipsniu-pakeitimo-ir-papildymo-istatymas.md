@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9DEE19596696"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9DEE19596696.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 167, 409 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2003, Nr. [68-3070](https://www.e-tar.lt/portal/lt/legalAct/TAR.86A7362C164A); 2004, Nr. [115-4276](https://www.e-tar.lt/portal/lt/legalAct/TAR.178605FBA01E); 2007, Nr. [81-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCCB8FD78166))
 
-\#### 1 straipsnis. 167 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 167 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 167 straipsnį nauja 3 dalimi:
 
@@ -32,7 +32,7 @@ Vilnius
 
 2. Buvusią 167 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 2 straipsnis. 409 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 409 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 409 straipsnį nauja 3 dalimi:
 

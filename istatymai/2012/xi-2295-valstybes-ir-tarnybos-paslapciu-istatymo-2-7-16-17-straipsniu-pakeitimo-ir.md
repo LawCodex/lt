@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F48FE5BC4C7C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F48FE5BC4C7C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 2, 7, 16, 17 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [105-3019](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF); 2004, Nr. [4-29](https://www.e-tar.lt/portal/lt/legalAct/TAR.83D9F662C0E4), Nr. [68-2364](https://www.e-tar.lt/portal/lt/legalAct/TAR.4D04C2FFE39B), Nr. [116-4322](https://www.e-tar.lt/portal/lt/legalAct/TAR.B06E62A00F3C); 2007, Nr. [46-1715](https://www.e-tar.lt/portal/lt/legalAct/TAR.D02BB9F28A5D), Nr. [140-5762](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5FDC3AA2573); 2010, Nr. [13-617](https://www.e-tar.lt/portal/lt/legalAct/TAR.EFD6B1928B60), Nr. [157-7971](https://www.e-tar.lt/portal/lt/legalAct/TAR.66F2D68D6507); 2012, Nr. [82-4269](https://www.e-tar.lt/portal/lt/legalAct/TAR.5ED7FDCC3C07))
 
-\#### 1 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. **Tarnybos paslaptis** – šio Įstatymo nustatyta tvarka įslaptinta politinė, karinė, žvalgybos, ekonominė, teisėsaugos, švietimo, mokslo, technikos ir kita informacija, kurios praradimas arba neteisėtas atskleidimas gali pakenkti valstybės ar jos institucijų interesams arba sudaryti prielaidas neteisėtam valstybės paslaptį sudarančios informacijos atskleidimui, sukelti pavojų žmogaus sveikatai. Tarnybos paslapčių kategorijų sąrašą nustato šis Įstatymas.“
 
-\#### 2 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 2 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 1. Pakeisti 7 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -120,7 +120,7 @@ Vilnius
 
 „29) detalūs duomenys apie žvalgybos institucijų veiklos organizavimą ir eigą, metodų, techninių sistemų, priemonių, medžiagų naudojimą, žvalgybos užduotis, operacijas, jų finansavimą, rezultatus, materialinį ir techninį aprūpinimą, žvalgybos informacija, jeigu tokia informacija nepriskiriama valstybės paslaptims.“
 
-\#### 3 straipsnis. 16 straipsnio 2 ir 5 dalių pakeitimas
+## 3 straipsnis. 16 straipsnio 2 ir 5 dalių pakeitimas
 
 1. 16 straipsnio 2 dalies 13 punkte vietoj žodžių „operatyvinis tyrimas“ įrašyti žodžius „kriminalinės žvalgybos tyrimas“ ir šį punktą išdėstyti taip:
 
@@ -130,7 +130,7 @@ Vilnius
 
 „5. Asmens patikimumo pažymėjimas ir leidimas dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“, išduodamas ne ilgesniam kaip 5 metų terminui, o su įslaptinta informacija, žymima slaptumo žymomis „Slaptai“, „Konfidencialiai“, – ne ilgesniam kaip 10 metų terminui. Šis terminas skaičiuojamas nuo Valstybės saugumo departamento sutikimo išduoti tokį leidimą pasirašymo dienos arba nuo kandidatūros tikrinimą atlikusios institucijos išvados pateikimo dienos, kai leidimas dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimas išduodamas slaptiesiems kriminalinės žvalgybos dalyviams, įslaptintiems žvalgybos pareigūnams ir žvalgybos slaptiesiems bendradarbiams.“
 
-\#### 4 straipsnis. 17 straipsnio 2 dalies ir 3 dalies 4 punkto pakeitimas
+## 4 straipsnis. 17 straipsnio 2 dalies ir 3 dalies 4 punkto pakeitimas
 
 1. 17 straipsnio 2 dalyje vietoj žodžių „operatyvinės veiklos metodai ir priemonės, išskyrus operatyvinę apklausą ir duomenų, esančių operatyvinėje įskaitoje“ įrašyti žodžius „kriminalinės žvalgybos metodai ir priemonės, išskyrus apklausą ir duomenų, esančių kriminalinės žvalgybos informacinėje sistemoje“ ir šią dalį išdėstyti taip:
 
@@ -140,7 +140,7 @@ Vilnius
 
 „4) slaptųjų kriminalinės žvalgybos dalyvių, įslaptintų žvalgybos pareigūnųir žvalgybos slaptųjų bendradarbių – patys paslapčių subjektai;“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 

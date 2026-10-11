@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A59F48665E62"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A59F48665E62.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 33 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2003, Nr. [73-3340](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2F397D1D0CF))
 
-\#### 1 straipsnis. 33 straipsnio 1 dalies papildymas ir straipsnio papildymas 4 dalimi
+## 1 straipsnis. 33 straipsnio 1 dalies papildymas ir straipsnio papildymas 4 dalimi
 
 1. Papildyti 33 straipsnio 1 dalies paskutinį sakinį ir šią dalį išdėstyti taip:
 

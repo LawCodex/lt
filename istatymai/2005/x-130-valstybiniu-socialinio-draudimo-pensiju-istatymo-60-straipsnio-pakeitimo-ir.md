@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.34DDE2557728"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.34DDE2557728.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 60 straipsnio pakeitimo ir įstatymo papildymo 61 straipsniu įstatymas
@@ -26,13 +26,13 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 60 STRAIPSNIO PAKEITIMO IR �
 
 Vilnius
 
-\#### 1 straipsnis. 60 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 60 straipsnio 3 dalies pakeitimas
 
 Pakeisti 60 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Jeigu asmens draudžiamųjų pajamų koeficientas buvo padidintas pagal 58 straipsnio pirmosios ir trečiosios dalių nuostatas arba prie neperskaičiuotos senatvės ar invalidumo pensijos dydžio buvo pridėtas pensijos prieaugis pagal nurodyto straipsnio antrąją dalį, atsiradus aplinkybėms, dėl kurių pakeistas koeficientas kp ar Kp arba prieaugis PPs ar PPinv gali sumažėti ar padidėti, pakeistas koeficientas ar pensijos prieaugis nekeičiamas, išskyrus šio straipsnio ketvirtojoje dalyje nustatytą atvejįir tuos atvejus, kai, įvertinus atsiradusias aplinkybes, skirtumas tarp padidintos pensijos, apskaičiuotos pagal kp arba Kp, dydžio ir pensijos, apskaičiuotos pagal koeficientą k arba K, dydžio ima viršyti šio įstatymo 58 straipsnyje nustatytą maksimalų, nustatyta tvarka indeksuotą, pensijos prieaugį (dydį „M“). Šiais atvejais pensijos padidinimo nuostatų taikymas reglamentuojamas šio įstatymo 61 straipsnyje.“
 
-\#### 2 straipsnis. Įstatymo papildymas 61 straipsniu
+## 2 straipsnis. Įstatymo papildymas 61 straipsniu
 
 Papildyti Įstatymą 61 straipsniu:
 

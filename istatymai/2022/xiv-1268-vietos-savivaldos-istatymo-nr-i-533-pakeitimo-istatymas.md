@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b8814b70041c11edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B8814B70041C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas
@@ -1794,5 +1794,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymo Nr. XIV-1268 1 ir 2 straipsnių pakeitimo įstatymas
-
-part_db6befe3ae0b40498f7b9ce476efa65a_end

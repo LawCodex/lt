@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E5C55A0A286B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E5C55A0A286B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 2, 12 ir 13 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2002, Nr. [13-467](https://www.e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D))
 
-\#### 1 straipsnis. 2 straipsnio 30 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 30 dalies pakeitimas
 
 2 straipsnio 30 dalyje vietoj žodžių „Ginklų fondas prie Vyriausybės“ įrašyti žodžius „Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės“, vietoj žodžių „muitinės operatyvinę veiklą vykdantys padaliniai“ įrašyti žodį „Respublikos muitinė“ ir šią dalį išdėstyti taip:
 
 „30. **Specialaus statuso subjektai** – Specialiųjų tyrimų tarnyba, Krašto apsaugos ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas, Generalinė prokuratūra prie Lietuvos Aukščiausiojo Teismo, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės (toliau – Ginklų fondas), Kalėjimų departamentas prie Teisingumo ministerijos, Šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, taip pat Lietuvos Respublikos muitinė.“
 
-\#### 2 straipsnis. 12 straipsnio 2 dalies 2 punkto pakeitimas
+## 2 straipsnis. 12 straipsnio 2 dalies 2 punkto pakeitimas
 
 12 straipsnio 2 dalies 2 punkte po žodžio „dalies“ įrašyti skaičių „1“ ir šį punktą išdėstyti taip:
 
 „2) juridiniams asmenims, gavusiems šio Įstatymo 19 straipsnio 1 dalies 1, 5 ir 6 punktuose nurodytas licencijas ir turintiems teisę įsigyti tokių kategorijų ginklus;“.
 
-\#### 3 straipsnis. 13 straipsnio 1 ir 9 dalių pakeitimas
+## 3 straipsnis. 13 straipsnio 1 ir 9 dalių pakeitimas
 
 1. 13 straipsnio 1 dalyje po žodžio „įstaigos“ įrašyti žodžius „taip pat įmonės, kurios verčiasi A kategorijos ginklų, jų priedėlių, šaudmenų A kategorijos ginklams, jų dalių gamyba“ ir šią dalį išdėstyti taip:
 

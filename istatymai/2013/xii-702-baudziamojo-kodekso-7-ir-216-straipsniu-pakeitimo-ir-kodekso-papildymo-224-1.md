@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7de9ff10779011e3996afa27049d9d4e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7DE9FF107790.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 7 ir 216 straipsnių pakeitimo ir Kodekso papildymo 224(1) straipsniu įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 2011, Nr. [38-1805](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=394926), Nr. [81-3959](http://www3.lrs.lt/pls/inter/dokpaieska.showdoc_l?p_id=402516), Nr. 163-7777; 2013, Nr. 75-3768)
 
-\#### 1 straipsnis. 7 straipsnio 5 punkto pakeitimas
+## 1 straipsnis. 7 straipsnio 5 punkto pakeitimas
 
 7 straipsnio 5 punkte vietoj žodžių „įgytų pinigų ar“ įrašyti žodį „gauto“ ir šį punktą išdėstyti taip:
 
 „5) nusikalstamu būdu gauto turto legalizavimą (216 straipsnis);“.
 
-\#### 2 straipsnis. 216 straipsnio pakeitimas
+## 2 straipsnis. 216 straipsnio pakeitimas
 
 Pakeisti 216 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ baudžiamas bauda arbalaisvės atėmimu iki septynerių metų.
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 3 straipsnis. Kodekso papildymas 2241 straipsniu
+## 3 straipsnis. Kodekso papildymas 2241 straipsniu
 
 Papildyti Kodeksą 224^1 straipsniu:
 

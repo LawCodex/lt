@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.945141F312E7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.945141F312E7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 13 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2000, Nr. [41-1167](https://www.e-tar.lt/portal/lt/legalAct/TAR.46DFDD0E4793), Nr. [64-1923](https://www.e-tar.lt/portal/lt/legalAct/TAR.E45D780C0808))
 
-\#### 1 straipsnis. 13 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 3 dalies pakeitimas
 
 13 straipsnio 3 dalyje išbraukti žodžius „o paskirtoji pensija nemokama“ ir šią dalį išdėstyti taip:
 

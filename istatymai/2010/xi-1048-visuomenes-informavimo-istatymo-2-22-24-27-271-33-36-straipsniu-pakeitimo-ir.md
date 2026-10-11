@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5D4039729EAA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5D4039729EAA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 2, 22, 24, 27, 271, 33, 36 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E); 2008, Nr.[87-3456](https://www.e-tar.lt/portal/lt/legalAct/TAR.F018F554591D))
 
-\#### 1 straipsnis. 2 straipsnio papildymas naujomis 28 ir 29 dalimis
+## 1 straipsnis. 2 straipsnio papildymas naujomis 28 ir 29 dalimis
 
 1. Papildyti 2 straipsnį nauja 29 dalimi:
 
@@ -36,13 +36,13 @@ Vilnius
 
 3. Buvusias 2 straipsnio 29–85 dalis laikyti atitinkamai 31–87 dalimis.
 
-\#### 2 straipsnis. 22 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 22 straipsnio 2 dalies pakeitimas
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Lietuvos Respublikoje rengti ir (ar) skleisti informaciją gali visi asmenys, išskyrus šiame ir kituose Lietuvos Respublikos įstatymuose nustatytus atvejus. Lietuvos Respublikoje licencijuojama radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veikla gali verstis tik juridiniai asmenys, Europos ekonominės erdvės valstybėse įsisteigę juridiniai asmenys ir organizacijos, neturinčios juridinio asmens statuso, taip pat Lietuvos Respublikoje ir kitose Europos ekonominės erdvės valstybėse įsteigti tokių juridinių asmenų ir organizacijų, neturinčių juridinio asmens statuso, filialai.“
 
-\#### 3 straipsnis. 24 straipsnio pakeitimas
+## 3 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -56,13 +56,13 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 4. Už šio straipsnio 1 ir 2 dalyse nurodytų duomenų nepateikimą taikoma atsakomybė teisės aktų nustatyta tvarka ir kitos poveikio priemonės.“
 
-\#### 4 straipsnis. 27 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 27 straipsnio 1 dalies pakeitimas
 
 Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybė remia viešosios informacijos rengėjų – juridinių asmenų – kultūrinius ir šviečiamuosius projektus. Valstybės finansinė parama viešosios informacijos rengėjams teikiama konkursų tvarka ir, išskyrus nurodytą šio straipsnio 2 dalyje, per viešąją įstaigą Spaudos, radijo ir televizijos rėmimo fondą (toliau – Fondas). Fondo veiklai lėšas iš valstybės biudžeto kasmet skiria Seimas. Valstybės institucijos ir įstaigos negali teikti finansinės ar jai iš esmės lygiavertės paramos viešosios informacijos rengėjams.“
 
-\#### 5 straipsnis. 271 straipsnio pakeitimas
+## 5 straipsnis. 271 straipsnio pakeitimas
 
 Pakeisti 27^1straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 27^1straipsnį ir jį išdėstyti taip:
 
 2. Valstybės dalinė finansinė parama leidėjams skiriama per Fondą pagal paraiškas dėl pristatymo išlaidų kompensavimo ir pristatymo prenumeratoriams išlaidas patvirtinančius dokumentus.“
 
-\#### 6 straipsnis. 33 straipsnio pakeitimas
+## 6 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 6. Komisija, įvertinusi transliuojamos specialiosios televizijos programos kultūrinę ar visuomeninę vertę, gali transliuotojo prašymu jai suteikti privalomai retransliuojamos programos statusą ir numatyti, kad ją privalo nemokamai retransliuoti programų retransliuotojai. Privalomai retransliuojamomis televizijos programomis pripažįstamos tik specialiosios kultūros, švietimo, mokslo, žinių, sporto ar regioninės televizijos programos. Priimdama tokį sprendimą, Komisija apibrėžia retransliavimo mastą.“
 
-\#### 7 straipsnis. 36 straipsnio pakeitimas
+## 7 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 3. Vyriausybė nustato dokumentų privalomųjų egzempliorių, nemokamai perduodamų bibliotekoms, skaičių.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 6 straipsnis įsigalioja 2011 m. liepos 1 d.
 

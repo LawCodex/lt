@@ -11,7 +11,7 @@ status: in_force
 issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BA5BEE0300D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BA5BEE0300D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo pakeitimo ir papildymo ir Lietuvos Respublikos Aukščiausiosios valstybinės valdžios institucijos pavadinimo pakeitimo
@@ -40,13 +40,13 @@ I. Lietuvos Respublikos Laikinajame Pagrindiniame Įstatyme padaryti šiuos pake
 
 **Rinkimų sistema**
 
-\#### 65 straipsnis
+## 65 straipsnis
 
 Deputatais į Lietuvos Respublikos Seimą, taip pat savivaldybių tarybas renkami Lietuvos Respublikos piliečiai, remiantis visuotine ir lygia rinkimų teise, tiesioginiuose rinkimuose slaptu balsavimu.
 
 Seimo deputatų rinkimo tvarką nustato Seimo rinkimų įstatymas.
 
-\#### 66 straipsnis
+## 66 straipsnis
 
 Deputatų rinkimai yra visuotiniai: teisę rinkti turi Lietuvos Respublikos piliečiai, kurie rinkimų dieną yra ne jaunesni kaip 18 metų.
 
@@ -60,23 +60,23 @@ Seimo deputatais negali būti renkami asmenys, neatlikę bausmės pagal teismo p
 
 Rinkimuose nedalyvauja piliečiai, teismo pripažinti neveiksniais.
 
-\#### 67 straipsnis
+## 67 straipsnis
 
 Deputatų rinkimai yra lygūs: rinkėjo balsas yra lygiavertis kiekvieno kito turinčio teisę rinkti piliečio balsui.
 
-\#### 68 straipsnis
+## 68 straipsnis
 
 Deputatų rinkimai yra tiesioginiai: deputatus piliečiai renka be tarpininkų.
 
-\#### 69 straipsnis
+## 69 straipsnis
 
 Rinkėjai balsuoja asmeniškai ir slaptai. Rinkėjų valią rinkimuose kontroliuoti draudžiama.
 
-\#### 70 straipsnis
+## 70 straipsnis
 
 Teisę kelti kandidatus į Seimo ir savivaldybių tarybų deputatus turi politinės partijos, visuomeniniai politiniai judėjimai, taip pat pavieniai asmenys save, jeigu jų kandidatūrą remia įstatymuose numatytos rinkėjų grupės.
 
-\#### 701 straipsnis
+## 701 straipsnis
 
 Deputatų rinkimai rengiami atvirai ir viešai.
 
@@ -86,7 +86,7 @@ Rinkimų komisijos informuoja piliečius apie savo darbą, rinkimų apygardų ir
 
 Masinės informacijos priemonės informuoja apie rinkimų rengimą ir vykdymą. Jų atstovai turi teisę nekliudomai dalyvauti visuose renginiuose, kuriuos organizuoja rinkimų komisijos, taip pat gauti informaciją apie rinkimų rengimą ir vykdymą.
 
-\#### 71 straipsnis
+## 71 straipsnis
 
 Rinkimų rengimo ir vykdymo išlaidas apmoka valstybė.
 
@@ -94,15 +94,15 @@ Rinkiminė agitacija finansuojama iš valstybės, taip pat iš politinių partij
 
 Rinkimų komisijų narių darbas atlyginamas įstatymų nustatyta tvarka.
 
-\#### 711 straipsnis
+## 711 straipsnis
 
 Lietuvos Respublikos piliečiams, politinėms partijoms, visuomeniniams politiniams judėjimams ir kitoms visuomeninėms organizacijoms garantuojama galimybė laisvai ir nekliudomai apsvarstyti kandidatų į deputatus politines, dalykines, asmenines ir dorovines savybes, taip pat teisė agituoti už ar prieš kandidatą susirinkimuose, spaudoje, per televiziją, radiją, jeigu tai nežemina žmogaus orumo ir nepažeidžia Lietuvos Respublikos įstatymų.
 
-\#### 72 straipsnis
+## 72 straipsnis
 
 Skundus dėl rinkimų apygardų, rinkimų apylinkių, apygardų ir apylinkių rinkimų komisijų sudarymo, taip pat dėl rinkimų komisijų sprendimų nagrinėja atitinkamos rinkimų komisijos ir Lietuvos Respublikos teismai įstatymų nustatyta tvarka.
 
-\#### 721 straipsnis
+## 721 straipsnis
 
 Išrinktas Seimo deputatas privalo nuolat dirbti Seime, išskyrus atvejus, kai jis paskiriamas Vyriausybės nariu.
 

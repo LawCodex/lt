@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1215c42255c511f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1215C42255C5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2 straipsnio pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ MOKĖJIMŲ ĮSTATYMO NR. VIII-1370 2 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnį 65 dalimi:
 
 „65. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme.“
 
-\#### 2 straipsnis. Įstatymo papildymas 551 straipsniu
+## 2 straipsnis. Įstatymo papildymas 551 straipsniu
 
 Papildyti Įstatymo V skyrių 55^1 straipsniu:
 

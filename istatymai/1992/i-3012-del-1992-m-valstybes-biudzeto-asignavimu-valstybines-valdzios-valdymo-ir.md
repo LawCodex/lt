@@ -11,7 +11,7 @@ status: in_force
 issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C17931D8FD20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C17931D8FD20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl 1992 m. valstybės biudžeto asignavimų valstybinės valdžios, valdymo ir teisėsaugos struktūroms išlaikyti patikslinimo
@@ -46,56 +46,31 @@ Nr. I-3012 priedėlis
 
 **Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos struktūrų išlaikymo papildomos išlaidos 1992 metams**
 
-\| Valstybinės įstaigos | Iš viso išlaidų (tūkst. lt.) | Iš jų nepaprastosios |
-
-\| --- | --- | --- |
-
-\| I. Valstybinės valdžios, valdymo organų, atskaitingų Aukščiausiajai Tarybai, centrinis aparatas | | |
-
-\| Aukščiausioji Taryba | 31348 | 16720 |
-
-\| | | |
-
-\| Aukščiausiosios Tarybos Apsaugos skyrius | 1032 | |
-
-\| | | |
-
-\| Aplinkos apsaugos departamentas | 630 | |
-
-\| | | |
-
-\| Kultūros paveldo inspekcija | 1022 | |
-
-\| | | |
-
-\| Valstybės kontrolės departamentas | 1988 | |
-
-\| | | |
-
-\| II. Lietuvos Respublikos Vyriausybės ir jos valdymo organų išlaikymo išlaidos | 87060 | 1800 |
-
-\| | | |
-
-\| III. Teisėsaugos organai ir įstaigos | | |
-
-\| | | |
-
-\| Generalinė ir teritorinės Prokuratūros | 3000 | 1500 |
-
-\| | | |
-
-\| Aukščiausiasis Teismas | 435 | |
-
-\| | | |
-
-\| Valstybinis arbitražas | 348 | |
-
-\| | | |
-
-\| Teismai ir notarinės kontoros | 3901 | |
-
-\| | | |
-
-\| Iš viso | 130764 | 20020 |
+| Valstybinės įstaigos | Iš viso išlaidų (tūkst. lt.) | Iš jų nepaprastosios |
+| --- | --- | --- |
+| I. Valstybinės valdžios, valdymo organų, atskaitingų Aukščiausiajai Tarybai, centrinis aparatas |  |  |
+| Aukščiausioji Taryba | 31348 | 16720 |
+|  |  |  |
+| Aukščiausiosios Tarybos Apsaugos skyrius | 1032 |  |
+|  |  |  |
+| Aplinkos apsaugos departamentas | 630 |  |
+|  |  |  |
+| Kultūros paveldo inspekcija | 1022 |  |
+|  |  |  |
+| Valstybės kontrolės departamentas | 1988 |  |
+|  |  |  |
+| II. Lietuvos Respublikos Vyriausybės ir jos valdymo organų išlaikymo išlaidos | 87060 | 1800 |
+|  |  |  |
+| III. Teisėsaugos organai ir įstaigos |  |  |
+|  |  |  |
+| Generalinė ir teritorinės Prokuratūros | 3000 | 1500 |
+|  |  |  |
+| Aukščiausiasis Teismas | 435 |  |
+|  |  |  |
+| Valstybinis arbitražas | 348 |  |
+|  |  |  |
+| Teismai ir notarinės kontoros | 3901 |  |
+|  |  |  |
+| Iš viso | 130764 | 20020 |
 
 ______________

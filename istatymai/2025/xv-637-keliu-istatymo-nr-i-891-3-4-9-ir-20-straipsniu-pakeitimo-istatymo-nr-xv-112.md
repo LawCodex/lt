@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3ed073e2d9b211f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3ED073E2D9B2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 pakeitimo įstatymas
@@ -26,7 +26,7 @@ KELIŲ ĮSTATYMO NR. I-891 3, 4, 9 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMO NR. XV-
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 nauja redakcija
 
 Pakeisti Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymą Nr. XV-112 ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ KELIŲ ĮSTATYMO NR. I-891 3, 4, 9 IR 20 STRAIPSNIŲ PAKEITIMO
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ KELIŲ ĮSTATYMO NR. I-891 3, 4, 9 IR 20 STRAIPSNIŲ PAKEITIMO
 
 3) vidaus kelius. Tai fizinių ar juridinių asmenų, kitų organizacijų, jų padalinių (toliau – fiziniai ar juridiniai asmenys) reikmėms naudojami keliai: miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų, privažiavimo prie hidrotechninių įrenginių, ribotų teritorijų – kiemų keliai ir visi kiti keliai, nepriskirti viešiesiems keliams ar vietinės reikšmės savivaldybėms perduotiems rajoniniams keliams miestų ir miestelių teritorijose.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ KELIŲ ĮSTATYMO NR. I-891 3, 4, 9 IR 20 STRAIPSNIŲ PAKEITIMO
 
 „5. Rajoninių kelių ruožų, priskiriamų rajoniniams keliams miestų ir miestelių teritorijose, perdavimo savivaldybėms tvarką nustato Vyriausybė.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Kelių kategorijos nustatomos atsižvelgiant į kelių funkcinę paskirtį, transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis aplinkos ministro ir susisiekimo ministro nustatyta tvarka ir kriterijais. Kelio kategoriją priskiria kelio savininkai ar valdytojai: valstybinės reikšmės kelių kategorijas priskiria valstybinės reikšmės kelių valdytojas, vietinės reikšmės viešųjų kelių ir savivaldybėms perduotųrajoninių kelių miestų ir miestelių teritorijose kategorijas – savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys.“
 
-\#### 4 straipsnis. 20 straipsnio pakeitimas
+## 4 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -84,7 +84,7 @@ Kelių kategorijos nustatomos atsižvelgiant į kelių funkcinę paskirtį, tran
 
 „3. Sutikimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis suteikia valstybinės reikšmės kelių valdytojas, o sutikimą naudotis vietinės reikšmės viešaisiais keliais ir savivaldybėms perduotais rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos ar jų įgalioti savivaldybių administracijų direktoriai (toliau kartu – sutikimus suteikiantis subjektas).“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

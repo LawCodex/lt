@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C47354A2B33D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C47354A2B33D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 66, 67, 69-1, 71-1, 73, 365-1 straipsnių ir Kodekso priedo pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2004, Nr. [72-2493](https://www.e-tar.lt/portal/lt/legalAct/TAR.795F9BE0DF6E); 2006, Nr. [68-2494](https://www.e-tar.lt/portal/lt/legalAct/TAR.25D777B9177C); 2007, Nr. [81-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCCB8FD78166), Nr. [140-5748](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4C94F1ECFA0); 2012, Nr. [82-4278](https://www.e-tar.lt/portal/lt/legalAct/TAR.B8233107CCFA))
 
-\#### 1 straipsnis. 66 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 66 straipsnio 2 dalies pakeitimas
 
 Pakeisti 66 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Lietuvos Respublikos teismai ir prokuratūra prašymus užsienio valstybių įstaigoms ir tarptautinėms organizacijoms siunčia per Lietuvos Respublikos teisingumo ministeriją ar Lietuvos Respublikos generalinę prokuratūrą. Neatidėliotinais atvejais Lietuvos Respublikos teismų ir prokuratūros prašymai kitoms Europos Sąjungos valstybėms narėms gali būti siunčiami per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją). Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais Lietuvos Respublikos teismai, prokuratūra ir ikiteisminio tyrimo įstaigos prašymus užsienio valstybių įstaigoms ir tarptautinėms organizacijoms gali siųsti tiesiogiai.“
 
-\#### 2 straipsnis. 67 straipsnio 2 ir 3 dalių pakeitimas
+## 2 straipsnis. 67 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 67 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 66 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3. Užsienio valstybės įstaigos ar tarptautinės organizacijos prašymas, kuris negali būti įvykdytas, grąžinamas tai įstaigai ar organizacijai per Lietuvos Respublikos teisingumo ministeriją, Lietuvos Respublikos generalinę prokuratūrą ar Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją) ir nurodomos prašymo neįvykdymo priežastys.“
 
-\#### 3 straipsnis. 691 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 691 straipsnio pakeitimas ir papildymas
 
 Pakeisti 69^1straipsnio 1 ir 2 dalis, straipsnį papildyti nauja 3 dalimi, buvusią 3 dalį laikyti 4 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 69^1straipsnio 1 ir 2 dalis, straipsnį papildyti nauja 3 dalimi, buvus
 
 4. Europos arešto orderio išdavimo ir asmens perėmimo pagal Europos arešto orderį tvarką nustato Lietuvos Respublikos generalinis prokuroras ir Lietuvos Respublikos teisingumo ministras.“
 
-\#### 4 straipsnis. 711 straipsnio papildymas 8 dalimi
+## 4 straipsnis. 711 straipsnio papildymas 8 dalimi
 
 Papildyti 71^1 straipsnį 8 dalimi:
 
 „8. Lietuvos Respublikos pilietis ar užsienietis, dėl kurio yra išduotas Lietuvos Respublikos baudžiamojo kodekso 9^1 straipsnio 5 dalies 4 punkte nustatytas sąlygas atitinkantis Europos arešto orderis dėl paskirtos su laisvės atėmimu susijusios bausmės vykdymo, turi teisę prašyti, kad jam būtų pateikta teismo sprendimo, kuriuo jam paskirta su laisvės atėmimu susijusi bausmė, kopija. Gavęs šį prašymą, apygardos teismas tiesiogiai kreipiasi į kompetentingą Europos arešto orderį išdavusios valstybės instituciją su prašymu pateikti teismo sprendimo, kuriuo asmeniui paskirta su laisvės atėmimu susijusi bausmė, kopiją. Asmens prašymas pateikti teismo sprendimo kopiją nesustabdo klausimo dėl asmens išdavimo (perdavimo) iš Lietuvos Respublikos pagal Europos arešto orderį nagrinėjimo ir asmens, dėl kurio yra įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos pagal Europos arešto orderį, perdavimo vykdymo.“
 
-\#### 5 straipsnis. 73 straipsnio 5 dalies pakeitimas
+## 5 straipsnis. 73 straipsnio 5 dalies pakeitimas
 
 73 straipsnio 5 dalyje po žodžių „Vilniaus apygardos teismas“ įrašyti žodį „paprastai“ ir šią dalį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Papildyti 71^1 straipsnį 8 dalimi:
 
 3) likusiais atvejais atsižvelgiama į visas asmens išdavimui reikšmingas aplinkybes, ypač į padarytos nusikalstamos veikos pavojingumo pobūdį ir mastą, veikos padarymo vietą ir atitinkamų prašymų išduoti (perduoti) asmenį datas. Teisės aktuose numatytais atvejais teismas atsižvelgia ir į tarptautinių baudžiamojo persekiojimo institucijų (įskaitant Eurojustą) konsultacijas.“
 
-\#### 6 straipsnis. 3651 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 3651 straipsnio pakeitimas ir papildymas
 
 1. 3651 straipsnio 3 dalies 7 punkte vietoj žodžių „nubausto asmens“ įrašyti žodžius „sprendimą priėmusios valstybės“ ir šį punktą išdėstyti taip:
 
@@ -98,7 +98,7 @@ c) jam įteikus sprendimą ir jį aiškiai informavus apie teisę į bylos persv
 
 „4. Šio straipsnio 3 dalies 1, 4, 7, 8, 9, 11 ir 12 punktuose numatytais atvejais teismas kreipiasi į Europos Sąjungos valstybės narės kompetentingą instituciją su prašymu per teismo nustatytą terminą pateikti papildomą informaciją. Tokiu atveju teismas daro posėdžio pertrauką. Jeigu per teismo nustatytą terminą reikalinga informacija nėra gaunama, teismas priima nutartį atsisakyti pripažinti piniginę sankciją.“
 
-\#### 7 straipsnis. Kodekso priedo pakeitimas ir papildymas
+## 7 straipsnis. Kodekso priedo pakeitimas ir papildymas
 
 1. Papildyti Kodekso priedą nauju 2 punktu:
 
@@ -114,7 +114,7 @@ c) jam įteikus sprendimą ir jį aiškiai informavus apie teisę į bylos persv
 
 „8. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2013 m. liepos 1 d.
 

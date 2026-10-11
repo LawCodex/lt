@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a03c5090dfd911f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A03C5090DFD9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių transporto kodekso 8-1, 11, 16, 17-1, 18, 18-2 straipsnių pakeitimo ir Kodekso papildymo 18-2 straipsniu įstatymo Nr. XIV-1827 pavadinimo, 8 straipsnio pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ KELIŲ TRANSPORTO KODEKSO 81, 11, 16, 171, 18, 182 STRAIPSNIŲ PAKEITIMO IR KODE
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo pavadinimo pakeitimas
 
 Pakeisti Įstatymo pavadinimą ir jį išdėstyti taip:
 
@@ -36,11 +36,11 @@ KELIŲ TRANSPORTO KODEKSO 81, 11, 16, 171, 18 STRAIPSNIŲ PAKEITIMO IR KODEKSO P
 
 **ĮSTATYMAS**“.
 
-\#### 2 straipsnis. 7 straipsnio pripažinimas netekusiu galios
+## 2 straipsnis. 7 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 7 straipsnį.
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 

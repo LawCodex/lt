@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/646abea05ea711edbc04912defe897d1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.646ABEA05EA7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 21-1, 42 straipsnių, 1, 3 priedų pakeitimo ir Įstatymo papildymo 2-1 priedu įstatymas
@@ -141,5 +141,3 @@ Lietuvos Respublikoje licencijuotos pagrindinės sandorio šalys
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_74f29d5291ee4c5c9e13795429d1128f_end

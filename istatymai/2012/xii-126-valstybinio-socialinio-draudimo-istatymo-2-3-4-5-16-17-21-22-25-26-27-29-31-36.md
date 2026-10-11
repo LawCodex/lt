@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F13BD89051EF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F13BD89051EF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 straipsnių pakeitimo ir papildymo įstatymo 8 ir 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2012, Nr. [127-6391](https://www.e-tar.lt/portal/lt/legalAct/TAR.ADFFF7DE2E08))
 
-\#### 1 straipsnis. 8 straipsnio papildymas
+## 1 straipsnis. 8 straipsnio papildymas
 
 Papildyti 8 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 8 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „1. Fondo valdyba nedarbo socialinio draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. Nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis nustatomas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.“
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 15 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 

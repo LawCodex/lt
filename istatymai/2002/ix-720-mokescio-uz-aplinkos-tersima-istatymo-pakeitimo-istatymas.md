@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7E966DA54042"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7E966DA54042.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [47-1469](https://www.e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE); 2000, Nr. [90-2774](https://www.e-tar.lt/portal/lt/legalAct/TAR.7919F56F4311))
 
-\#### 1 straipsnis. Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nauja redakcija
 
 Pakeisti Mokesčio už aplinkos teršimą įstatymą ir jį išdėstyti taip:
 
@@ -38,13 +38,13 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ
 
 Į S T A T Y M A S
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas nustato mokesčio už aplinkos teršimą mokėjimo tvarką ir kontrolę.
 
 2. Įstatymo paskirtis – ekonominėmis priemonėmis skatinti teršėjus mažinti aplinkos teršimą, vykdyti atliekų prevenciją ir tvarkymą, neviršyti nustatytų teršalų išmetimo į aplinką normatyvų, taip pat iš mokesčio kaupti lėšas aplinkosaugos priemonėms įgyvendinti.
 
-\#### 2 straipsnis. Pagrindinės Įstatymo sąvokos
+## 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 1. Apmokestinamieji gaminiai – pagal šį Įstatymą apmokestinami gaminiai, nurodyti Įstatymo 3 priedėlyje.
 
@@ -84,7 +84,7 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ
 
 19. Teršalai – į aplinką išmetamos teršiančios medžiagos, kurios kenksmingai veikia žmogaus sveikatą ir aplinką.
 
-\#### 3 straipsnis. Mokesčio objektas
+## 3 straipsnis. Mokesčio objektas
 
 Mokesčio objektas yra:
 
@@ -94,7 +94,7 @@ Mokesčio objektas yra:
 
 3) pripildyta pakuotė, nurodyta Įstatymo 4 priedėlyje.
 
-\#### 4 straipsnis. Mokesčio mokėtojai
+## 4 straipsnis. Mokesčio mokėtojai
 
 1. Mokestį už aplinkos teršimą iš stacionarių taršos šaltinių moka aplinką teršiantys fiziniai ir juridiniai asmenys, kurie Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka privalo turėti gamtos išteklių naudojimo leidimą su nurodytais teršalų išmetimo į aplinką normatyvais.
 
@@ -102,7 +102,7 @@ Mokesčio objektas yra:
 
 3. Mokestį už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis moka gaminių gamintojai ir importuotojai.
 
-\#### 5 straipsnis. Mokesčio lengvatos
+## 5 straipsnis. Mokesčio lengvatos
 
 1. Fiziniai ir juridiniai asmenys, įgyvendinantys priemones, mažinančias teršalų išmetimą į aplinką iš stacionarių taršos šaltinių ne mažiau kaip 10 procentų skaičiuojant nuo nustatyto didžiausios leistinos taršos normatyvo, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už tuos teršalus, kurių kiekis sumažinamas 10 procentų. Atleidimas nuo priemonės įgyvendinimo pradžios galioja ne ilgiau kaip 3 metus.
 
@@ -122,7 +122,7 @@ Mokesčio objektas yra:
 
 5. Apmokestinamųjų gaminių gamintojai ir importuotojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ar pakuotės atliekomis už visą gaminių ar pakuotės kiekį, jei įvykdo Vyriausybės nustatytas apmokestinamųjų gaminių bei apmokestinamosios pakuotės atliekų tvarkymo užduotis ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti kiekį.
 
-\#### 6 straipsnis. Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo tvarka
+## 6 straipsnis. Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo tvarka
 
 1. Mokesčio už aplinkos teršimą tarifai ir tarifų koeficientai nustatomi teršalams ir teršalų grupėms pagal jų kenksmingumą aplinkai.
 
@@ -142,7 +142,7 @@ Mokesčio objektas yra:
 
 9. Mokesčio už aplinkos teršimą tarifai, išskyrus tuos, kurie nustatomi kaip tam tikras kainos procentas, indeksuojami Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, taikant vartotojų prekių ir paslaugų kainų indeksą.
 
-\#### 7 straipsnis. Mokestinis laikotarpis
+## 7 straipsnis. Mokestinis laikotarpis
 
 1. Mokesčio už aplinkos teršimą iš stacionarių ir mobilių taršos šaltinių mokestinis laikotarpis yra:
 
@@ -156,7 +156,7 @@ Mokesčio objektas yra:
 
 4. Pradedantys verstis savo veikla fiziniai ir juridiniai asmenys, kurie teršia iš stacionarių ir (ar) mobilių taršos šaltinių, mokestį už aplinkos teršimą pirmaisiais mokėjimo metais moka pasibaigus kalendoriniam pusmečiui.
 
-\#### 8 straipsnis. Mokesčio už aplinkos teršimą apskaita
+## 8 straipsnis. Mokesčio už aplinkos teršimą apskaita
 
 1. Fiziniai ir juridiniai asmenys, kurie pagal šį Įstatymą privalo mokėti mokestį už aplinkos teršimą, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka tvarko teršalų išmetimo į aplinką apskaitą.
 
@@ -168,7 +168,7 @@ Mokesčio objektas yra:
 
 5. Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už ataskaitoje pateiktus duomenis.
 
-\#### 9 straipsnis. Mokesčio už aplinkos teršimą mokėjimo kontrolė
+## 9 straipsnis. Mokesčio už aplinkos teršimą mokėjimo kontrolė
 
 1. Aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką apskaitą, tikrina mokesčio už aplinkos teršimą apskaičiavimą.
 
@@ -184,7 +184,7 @@ Mokesčio objektas yra:
 
 3) nuslėptą apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį dauginant iš tarifo, nurodyto šio Įstatymo 3 ar 4 priedėlyje, ir koeficiento 2.
 
-\#### 10 straipsnis. Mokesčio sumokėjimas, išieškojimas ir paskirstymas
+## 10 straipsnis. Mokesčio sumokėjimas, išieškojimas ir paskirstymas
 
 1. Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą gaminių ar pakuotės atliekomis, paskirstomas taip:
 
@@ -198,7 +198,7 @@ Mokesčio objektas yra:
 
 4. Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas, delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.
 
-\#### 11 straipsnis. Mokesčio tarifų galiojimo terminas
+## 11 straipsnis. Mokesčio tarifų galiojimo terminas
 
 1. Mokesčio už aplinkos teršimą tarifai, išskyrus mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifus, galioja iki 2005 m. sausio 1 d.
 
@@ -206,11 +206,11 @@ Mokesčio objektas yra:
 
 3. Mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifų maksimalus galiojimo terminas neribojamas, bet yra ne trumpesnis kaip vieneri metai. Tarifai gali būti keičiami ar papildomi ne vėliau kaip prieš vienerius metus iki jų įsigaliojimo.
 
-\#### 12 straipsnis. Pasiūlymai Vyriausybei
+## 12 straipsnis. Pasiūlymai Vyriausybei
 
 Vyriausybė ar jos įgaliota institucija iki 2002 m. spalio 1 d. parengia ir patvirtina šiam Įstatymui įgyvendinti būtinus teisės aktus.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 12 straipsnį, įsigalioja nuo 2003 m. sausio 1 d.
 
@@ -234,61 +234,36 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI
 
 **I****.****Teršalai, išmetami į atmosferą**
 
-\| Teršalai | Mokesčio tarifai (Lt/t) | |
-
-\| --- | --- | --- |
-
-\| | 2003 m. | 2004 m. |
-
-\| SO2 | 288 | 311 |
-
-\| NOx | 479 | 587 |
-
-\| Vanadžio pentoksidas | 11 485 | 11 485 |
-
-\| Kietosios dalelės (organinės ir neorganinės)(* ) | 184 | 184 |
-
-\| Teršalų grupės | | |
-
-\| I | 1210 | 1210 |
-
-\| II | 570 | 570 |
-
-\| III | 74 | 74 |
-
-\| IV | 13 | 13 |
+| Teršalai | Mokesčio tarifai (Lt/t) |  |
+| --- | --- | --- |
+|  | 2003 m. | 2004 m. |
+| SO2 | 288 | 311 |
+| NOx | 479 | 587 |
+| Vanadžio pentoksidas | 11 485 | 11 485 |
+| Kietosios dalelės (organinės ir neorganinės)(* ) | 184 | 184 |
+| Teršalų grupės |  |  |
+| I | 1210 | 1210 |
+| II | 570 | 570 |
+| III | 74 | 74 |
+| IV | 13 | 13 |
 
 **II****.****Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos sluoksnius**
 
-\| Teršalai | Mokesčio tarifai (Lt/t) | |
-
-\| --- | --- | --- |
-
-\| | 2003 m. | 2004 m. |
-
-\| BDS7 | 714 | 765 |
-
-\| Bendrasis azotas | 550 | 600 |
-
-\| Bendrasis fosforas | 2000 | 3000 |
-
-\| Suspenduotos medžiagos | 281 | 309 |
-
-\| Sulfatai | 2 | 2 |
-
-\| Chloridai | 9 | 9 |
-
-\| Teršalų grupės | | |
-
-\| I | 8700 460 | 8700 460 |
-
-\| II | 792 710 | 792 710 |
-
-\| III | 129 250 | 129 250 |
-
-\| IV | 29 290 | 29 290 |
-
-\| V | 2871 | 2871 |
+| Teršalai | Mokesčio tarifai (Lt/t) |  |
+| --- | --- | --- |
+|  | 2003 m. | 2004 m. |
+| BDS7 | 714 | 765 |
+| Bendrasis azotas | 550 | 600 |
+| Bendrasis fosforas | 2000 | 3000 |
+| Suspenduotos medžiagos | 281 | 309 |
+| Sulfatai | 2 | 2 |
+| Chloridai | 9 | 9 |
+| Teršalų grupės |  |  |
+| I | 8700 460 | 8700 460 |
+| II | 792 710 | 792 710 |
+| III | 129 250 | 129 250 |
+| IV | 29 290 | 29 290 |
+| V | 2871 | 2871 |
 
 ______________
 
@@ -304,57 +279,34 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲ TARŠOS ŠALTINIŲ TARIFŲ KOE
 
 **I****.****Teršalai, išmetami į atmosferą**
 
-\| Teršalai | Koeficientai |
-
-\| --- | --- |
-
-\| SO2 | 1,5 |
-
-\| NOx | 1,5 |
-
-\| Vanadžio pentoksidas | 300 |
-
-\| Kietosios dalelės (organinės ir neorganinės)(* ) | 1,5 |
-
-\| Teršalų grupės | |
-
-\| I | 300 |
-
-\| II | 50 |
-
-\| III | 30 |
-
-\| IV | 1,5 |
+| Teršalai | Koeficientai |
+| --- | --- |
+| SO2 | 1,5 |
+| NOx | 1,5 |
+| Vanadžio pentoksidas | 300 |
+| Kietosios dalelės (organinės ir neorganinės)(* ) | 1,5 |
+| Teršalų grupės |  |
+| I | 300 |
+| II | 50 |
+| III | 30 |
+| IV | 1,5 |
 
 **II****.****Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos sluoksnius**
 
-\| Teršalai | Koeficientai |
-
-\| --- | --- |
-
-\| BDS7 | 10 |
-
-\| Bendrasis azotas | 5 |
-
-\| Bendrasis fosforas | 10 |
-
-\| Suspenduotos medžiagos | 1,5 |
-
-\| Sulfatai | 1,5 |
-
-\| Chloridai | 1,5 |
-
-\| Teršalų grupės | |
-
-\| I | 100 |
-
-\| II | 50 |
-
-\| III | 10 |
-
-\| IV | 5 |
-
-\| V | 2 |
+| Teršalai | Koeficientai |
+| --- | --- |
+| BDS7 | 10 |
+| Bendrasis azotas | 5 |
+| Bendrasis fosforas | 10 |
+| Suspenduotos medžiagos | 1,5 |
+| Sulfatai | 1,5 |
+| Chloridai | 1,5 |
+| Teršalų grupės |  |
+| I | 100 |
+| II | 50 |
+| III | 10 |
+| IV | 5 |
+| V | 2 |
 
 ______________
 
@@ -368,37 +320,22 @@ Nr. IX-720
 
 APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
 
-\| Gaminys | Kodas([1]) | Tarifas |
-
-\| --- | --- | --- |
-
-\| 1. Padangos, sveriančios daugiau kaip 3 kg: | | |
-
-\| 1.1. naujos | ex40.11 | 0,30 Lt už 1 kg |
-
-\| 1.2. restauruotos | ex4012.10 | 0,30 Lt už 1 kg |
-
-\| 1.3. naudotos | ex4012.20; ex4012.90 | 0,36 Lt už 1 kg |
-
-\| 2. Akumuliatoriai: | | |
-
-\| 2.1. nikelio-kadmio | 8507.30 | 11 Lt už vienetą |
-
-\| 2.2. nikelio-geležies | 8507.40 | 9 Lt už vienetą |
-
-\| 2.3. rūgštiniai švino | 8507.10; 8507.20 | 7 Lt už vienetą |
-
-\| 3. Gyvsidabrio lempos | 8539.32.10.0 | 15% lempos didmeninės kainos |
-
-\| 4. Galvaniniai elementai | 8506.30 | 4% elemento didmeninės kainos |
-
-\| 5. Vidaus degimo variklių degalų arba tepalų filtrai | 8421.23 | 1 Lt už vienetą |
-
-\| 6. Vidaus degimo variklių įsiurbimo oro filtrai | 8421.31; 8421.31.10.0; 8421.31.90.0; 8421.39; 8421.39.10.0 | 1 Lt už vienetą |
-
-\| 7. Automobilių hidrauliniai (tepaliniai) amortizatoriai | 8708.80; 8708.80.10.0; 8708.80.90.0 | 3 Lt už vienetą |
-
-\| | | |
+| Gaminys | Kodas([1]) | Tarifas |
+| --- | --- | --- |
+| 1. Padangos, sveriančios daugiau kaip 3 kg: |  |  |
+| 1.1. naujos | ex40.11 | 0,30 Lt už 1 kg |
+| 1.2. restauruotos | ex4012.10 | 0,30 Lt už 1 kg |
+| 1.3. naudotos | ex4012.20; ex4012.90 | 0,36 Lt už 1 kg |
+| 2. Akumuliatoriai: |  |  |
+| 2.1. nikelio-kadmio | 8507.30 | 11 Lt už vienetą |
+| 2.2. nikelio-geležies | 8507.40 | 9 Lt už vienetą |
+| 2.3. rūgštiniai švino | 8507.10; 8507.20 | 7 Lt už vienetą |
+| 3. Gyvsidabrio lempos | 8539.32.10.0 | 15% lempos didmeninės kainos |
+| 4. Galvaniniai elementai | 8506.30 | 4% elemento didmeninės kainos |
+| 5. Vidaus degimo variklių degalų arba tepalų filtrai | 8421.23 | 1 Lt už vienetą |
+| 6. Vidaus degimo variklių įsiurbimo oro filtrai | 8421.31; 8421.31.10.0; 8421.31.90.0; 8421.39; 8421.39.10.0 | 1 Lt už vienetą |
+| 7. Automobilių hidrauliniai (tepaliniai) amortizatoriai | 8708.80; 8708.80.10.0; 8708.80.90.0 | 3 Lt už vienetą |
+|  |  |  |
 
 ______________
 
@@ -412,21 +349,14 @@ Nr. IX-720
 
 APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
 
-\| Pakuotės rūšys | Tarifai |
-
-\| --- | --- |
-
-\| 1. Stiklinė pirminė pakuotė | 0,05 Lt/l pripildytos pakuotės tūrio arba 0,09 Lt/kg pakuotės svorio1 |
-
-\| 2. Plastmasinė pirminė pakuotė | 0,07 Lt/l pripildytos pakuotės tūrio arba 1,8 Lt/kg pakuotės svorio1 |
-
-\| 3. Kombinuota pirminė pakuotė | 0,07 Lt/l pripildytos pakuotės tūrio arba 2 Lt/kg pakuotės svorio1 |
-
-\| 4. Metalinė pirminė pakuotė | 0,09 Lt/l pripildytos pakuotės tūrio arba 2,60 Lt/kg pakuotės svorio1 |
-
-\| 5. Popierinė ir kartoninė pirminė pakuotė | 0,1 Lt/kg pakuotės svorio |
-
-\| 6. Kita pirminė pakuotė | 0,2 Lt/kg pakuotės svorio |
+| Pakuotės rūšys | Tarifai |
+| --- | --- |
+| 1. Stiklinė pirminė pakuotė | 0,05 Lt/l pripildytos pakuotės tūrio arba 0,09 Lt/kg pakuotės svorio1 |
+| 2. Plastmasinė pirminė pakuotė | 0,07 Lt/l pripildytos pakuotės tūrio arba 1,8 Lt/kg pakuotės svorio1 |
+| 3. Kombinuota pirminė pakuotė | 0,07 Lt/l pripildytos pakuotės tūrio arba 2 Lt/kg pakuotės svorio1 |
+| 4. Metalinė pirminė pakuotė | 0,09 Lt/l pripildytos pakuotės tūrio arba 2,60 Lt/kg pakuotės svorio1 |
+| 5. Popierinė ir kartoninė pirminė pakuotė | 0,1 Lt/kg pakuotės svorio |
+| 6. Kita pirminė pakuotė | 0,2 Lt/kg pakuotės svorio |
 
 ______________
 
@@ -440,33 +370,20 @@ Nr. IX-720
 
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ MOBILIŲ TARŠOS ŠALTINIŲ TARIFAI
 
-\| Transporto priemonėms | Kuro rūšis arba ciklas | Mokesčio tarifai (litais už toną arba ciklą) | |
-
-\| --- | --- | --- | --- |
-
-\| | | 2003 m. | 2004 m. |
-
-\| 1. Motorinėms transporto priemonėms su vidaus degimo varikliais | benzinas | 21 | 24 |
-
-\| dyzelinas | 22 | 26 | |
-
-\| suskystintos naftos dujos | 20 | 23 | |
-
-\| suslėgtos gamtinės dujos | 16 | 19 | |
-
-\| 2. Laivams | benzinas | 32 | 39 |
-
-\| | dyzelinas | 34 | 41 |
-
-\| | mazutas, kurio sieringumas £0,5% | 8 | 10 |
-
-\| | mazutas, kurio sieringumas nuo 0,5% iki 1,5% | 14 | 16 |
-
-\| | mazutas, kurio sieringumas nuo 1,5% iki 2,5% | 20 | 22 |
-
-\| 3. Geležinkelių transporto priemonėms | dyzelinas | 32 | 39 |
-
-\| 4. Lėktuvų pakilimo ir nusileidimo ciklui | už vieną ciklą | 5 | 6 |
+| Transporto priemonėms | Kuro rūšis arba ciklas | Mokesčio tarifai (litais už toną arba ciklą) |  |
+| --- | --- | --- | --- |
+|  |  | 2003 m. | 2004 m. |
+| 1. Motorinėms transporto priemonėms su vidaus degimo varikliais | benzinas | 21 | 24 |
+| dyzelinas | 22 | 26 |  |
+| suskystintos naftos dujos | 20 | 23 |  |
+| suslėgtos gamtinės dujos | 16 | 19 |  |
+| 2. Laivams | benzinas | 32 | 39 |
+|  | dyzelinas | 34 | 41 |
+|  | mazutas, kurio sieringumas £0,5% | 8 | 10 |
+|  | mazutas, kurio sieringumas nuo 0,5% iki 1,5% | 14 | 16 |
+|  | mazutas, kurio sieringumas nuo 1,5% iki 2,5% | 20 | 22 |
+| 3. Geležinkelių transporto priemonėms | dyzelinas | 32 | 39 |
+| 4. Lėktuvų pakilimo ir nusileidimo ciklui | už vieną ciklą | 5 | 6 |
 
 ______________
 
@@ -482,30 +399,18 @@ Nr. IX-720
 
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ MOBILIŲ TARŠOS ŠALTINIŲ TARIFŲ KOEFICIENTAI
 
-\| Transporto priemonėms | Kuro rūšis arba ciklas | Koeficientas |
-
-\| --- | --- | --- |
-
-\| 1. Motorinėms transporto priemonėms su vidaus degimo varikliais | benzinas | 1,5 |
-
-\| dyzelinas | 6 | |
-
-\| suskystintos naftos dujos | 1,5 | |
-
-\| suslėgtos gamtinės dujos | 1,5 | |
-
-\| 2. Laivams | benzinas | 2 |
-
-\| | dyzelinas | 6 |
-
-\| | mazutas, kurio sieringumas £0,5% | 2 |
-
-\| | mazutas, kurio sieringumas nuo 0,5% iki 1,5% | 3 |
-
-\| | mazutas, kurio sieringumas nuo 1,5% iki 2,5% | 3 |
-
-\| 3. Geležinkelių transporto priemonėms | dyzelinas | 4 |
-
-\| 4. Lėktuvų pakilimo ir nusileidimo ciklui | už vieną ciklą | 4 |
+| Transporto priemonėms | Kuro rūšis arba ciklas | Koeficientas |
+| --- | --- | --- |
+| 1. Motorinėms transporto priemonėms su vidaus degimo varikliais | benzinas | 1,5 |
+| dyzelinas | 6 |  |
+| suskystintos naftos dujos | 1,5 |  |
+| suslėgtos gamtinės dujos | 1,5 |  |
+| 2. Laivams | benzinas | 2 |
+|  | dyzelinas | 6 |
+|  | mazutas, kurio sieringumas £0,5% | 2 |
+|  | mazutas, kurio sieringumas nuo 0,5% iki 1,5% | 3 |
+|  | mazutas, kurio sieringumas nuo 1,5% iki 2,5% | 3 |
+| 3. Geležinkelių transporto priemonėms | dyzelinas | 4 |
+| 4. Lėktuvų pakilimo ir nusileidimo ciklui | už vieną ciklą | 4 |
 
 ______________

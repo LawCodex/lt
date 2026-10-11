@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.958BDFBD83AA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.958BDFBD83AA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 18, 20, 22 straipsnių ir antrojo, trečiojo skirsnių pavadinimų pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 2004, Nr. 88-3208, Nr. [152-5534](https://www.e-tar.lt/portal/lt/legalAct/TAR.49F68EB98DA9); 2006, Nr. [17-592](https://www.e-tar.lt/portal/lt/legalAct/TAR.52D3D1B8E992), Nr. [68-2496](https://www.e-tar.lt/portal/lt/legalAct/TAR.E14C789C8A3B))
 
-\#### 1 straipsnis. 1 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 1 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Vienkartinė išmoka vaikui ir išmoka vaikui skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas nuolat gyvena Lietuvos Respublikoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje. Vienkartinė išmoka įsikurti skiriama tik nuolat Lietuvos Respublikoje gyvenantiems asmenims.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 7. Vaiko globėjas (rūpintojas) – fizinis ar juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Nustatomos šios išmokų rūšys:
 
 6) vienkartinė išmoka nėščiai moteriai.“
 
-\#### 4 straipsnis. Įstatymo antrojo skirsnio pavadinimo pakeitimas
+## 4 straipsnis. Įstatymo antrojo skirsnio pavadinimo pakeitimas
 
 Pakeisti Įstatymo antrojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Pakeisti Įstatymo antrojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI IR IŠMOKA PRIVALOMOSIOS TARNYBOS KARIO VAIKUI“.
 
-\#### 5 straipsnis. 5 straipsnio 1 ir 2 dalių pakeitimas
+## 5 straipsnis. 5 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 5 straipsnio 1 dalyje vietoj skaičiaus ir santrumpos „8 MGL“ įrašyti skaičių ir žodžius „11 bazinių socialinių išmokų“ ir šią dalį išdėstyti taip:
 
@@ -92,7 +92,7 @@ VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI IR IŠMOKA PRIVALOMOSIOS TARNYBOS KA
 
 „2. Įvaikintam vaikui, neatsižvelgiant į tai, kad jau buvo išmokėta išmoka gimusiam vaikui, skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.“
 
-\#### 6 straipsnis. 6 straipsnio pakeitimas
+## 6 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -120,13 +120,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 4) asmuo yra pilnametis, atliekantis bausmę, sulaikytas ar suimtas.“
 
-\#### 7 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalyje vietoj santrumpos „MGL“ įrašyti žodžius „bazinės socialinės išmokos“ ir šią dalį išdėstyti taip:
 
 „1. Kiekvienam privalomosios tarnybos kario vaikui jo tėvo tarnybos laikotarpiu skiriama 1,5 bazinės socialinės išmokos dydžio išmoka per mėnesį.“
 
-\#### 8 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
+## 8 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
 
 Pakeisti Įstatymo trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Pakeisti Įstatymo trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 GLOBOS (RŪPYBOS) IŠMOKA IR VIENKARTINĖ IŠMOKA ĮSIKURTI“.
 
-\#### 9 straipsnis. 8 straipsnio 1, 2, 3 ir 6 dalių pakeitimas
+## 9 straipsnis. 8 straipsnio 1, 2, 3 ir 6 dalių pakeitimas
 
 1. 8 straipsnio 1 dalyje vietoj santrumpos „MGL“ įrašyti žodžius „bazinių socialinių išmokų“ ir šią dalį išdėstyti taip:
 
@@ -152,7 +152,7 @@ GLOBOS (RŪPYBOS) IŠMOKA IR VIENKARTINĖ IŠMOKA ĮSIKURTI“.
 
 „6. Vaikui (asmeniui), kuris mokosi pagal bendrojo lavinimo ir (ar) pagal formaliojo profesinio mokymo programas ir yra išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo lavinimo mokyklos ar profesinio mokymo įstaigos bendrabutyje, skiriama 2 bazinių socialinių išmokų dydžio išmoka per mėnesį.“
 
-\#### 10 straipsnis. 9 straipsnio pakeitimas
+## 10 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 8) žemės sklypui įsigyti.“
 
-\#### 11 straipsnis. 10 straipsnio pakeitimas
+## 11 straipsnis. 10 straipsnio pakeitimas
 
 Įstatymo 10 straipsnyje vietoj santrumpos „MGL“ įrašyti žodžius „bazinių socialinių išmokų“ ir šį straipsnį išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2 bazinių socialinių išmokų dydžio vienkartinė išmoka.“
 
-\#### 12 straipsnis. 12 straipsnio 2, 3, 5 ir 7 dalių pakeitimas ir papildymas 9 dalimi
+## 12 straipsnis. 12 straipsnio 2, 3, 5 ir 7 dalių pakeitimas ir papildymas 9 dalimi
 
 1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -214,25 +214,25 @@ Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio 
 
 „9. Išmoka vaikui mokama vienam iš vaiką (vaikus) auginančių tėvų (ar turimam vieninteliam iš tėvų), globėjui (rūpintojui) arba pačiam 18 metų ir vyresniam asmeniui. Išmokos gavimo būdą pasirenka išmokos gavėjas, išskyrus socialinės rizikos šeimas.“
 
-\#### 13 straipsnis. 13 straipsnio 3 dalies pakeitimas
+## 13 straipsnis. 13 straipsnio 3 dalies pakeitimas
 
 13 straipsnio 3 dalyje išbraukti žodžius „būstui įsigyti arba“, papildyti dalį nauju sakiniu ir visą dalį išdėstyti taip:
 
 „3. Vienkartinė išmoka įsikurti skiriama, jei prašymą šiai išmokai skirti savivaldybės administracijai asmuo pateikė, iki jam sukako 25 metai. Išmoka turi būti panaudota per 24 mėnesius nuo sprendimo skirti išmoką priėmimo dienos.“
 
-\#### 14 straipsnis. 14 straipsnio 3 dalies pakeitimas
+## 14 straipsnis. 14 straipsnio 3 dalies pakeitimas
 
 Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Dėl išmokos gavėjo kaltės permokėta išmokos suma turi būti grąžinama ar išskaičiuojama savivaldybės administracijos sprendimu. Iš gavėjui pagal šį įstatymą priklausančių išmokų išskaitoma ne daugiau kaip po 20 procentų mokėtinos išmokos sumos per mėnesį, išskyrus atvejus, kai gavėjas sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos sumos, tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota, likęs įsiskolinimas išieškomas teismo tvarka.“
 
-\#### 15 straipsnis. 18 straipsnio 3 punkto pakeitimas
+## 15 straipsnis. 18 straipsnio 3 punkto pakeitimas
 
 Pakeisti 18 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) neskirti išmokos, sustabdyti arba nutraukti jos mokėjimą, jeigu išmokos gavėjas (jo atstovas pagal įstatymą) nevykdo šio įstatymo 19 straipsnyje nustatytų pareigų arba savivaldybės vaiko teisių apsaugos institucija informuoja, kad tėvams apribota tėvų valdžia, globėjas (rūpintojas) atleistas ar nušalintas nuo globėjo (rūpintojo) pareigų.“
 
-\#### 16 straipsnis. 20 straipsnio pakeitimas
+## 16 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -244,13 +244,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 3. Išmokos vaikui, paskirtos, iki vaikui sukanka 3, 7, 9 ar 12 metų, mokėjimo terminui pasibaigus, sprendimą skirti ir mokėti pagal šio įstatymo nuostatas priklausančią išmoką savivaldybės administracija priima be naujo asmens prašymo ir apie išmokos vaikui mokėjimo pratęsimą informuoja išmokos gavėją.“
 
-\#### 17 straipsnis. 22 straipsnio 2 dalies pakeitimas
+## 17 straipsnis. 22 straipsnio 2 dalies pakeitimas
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo 6 straipsnio 3 dalyje nustatyta išmoka vieną ar du vaikus auginančių šeimų vaikams nuo 3 iki 7 metų skiriama ir mokama nuo 2004 m. liepos 1 d., o nuo 7 iki 18 metų ir vyresniems, kurie mokosi pagal bendrojo lavinimo programą, skiriama ir pradedama mokėti atsižvelgiant į valstybės finansines galimybes bei Vyriausybės nustatyta tvarka ir terminais, bet ne vėliau kaip nuo 2008 m. sausio 1 d.“
 
-\#### 18 straipsnis. Baigiamosios nuostatos
+## 18 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus 5 straipsnį, įsigalioja 2008 m. rugpjūčio 1 d.
 

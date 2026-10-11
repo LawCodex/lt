@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.528B8A9FE7B8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.528B8A9FE7B8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymo preambulės, 1, 2, 3, 4, 8, 9, 13, 14, 15, 16, 17, 20, 21 straipsnių ir iv skirsnio pavadinimo pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [34-933](https://www.e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087); 1994, Nr. [42-758](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CE5558CB3DE), Nr. [91-1764](https://www.e-tar.lt/portal/lt/legalAct/TAR.0348EF6CF05D); 1995, Nr. [52-1276](https://www.e-tar.lt/portal/lt/legalAct/TAR.AF9A66DCE935); 1997, Nr. [65-1539](https://www.e-tar.lt/portal/lt/legalAct/TAR.A52F7C33F447); 2001, Nr. [28-901](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE742808F31); 2003, Nr. [108-4816](https://www.e-tar.lt/portal/lt/legalAct/TAR.1B79A6779236); 2010, Nr. [1-10](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B58F05322D7), Nr. [41-1937](https://www.e-tar.lt/portal/lt/legalAct/TAR.C71F2CEA1B41))
 
-\#### 1 straipsnis. Preambulės pakeitimas
+## 1 straipsnis. Preambulės pakeitimas
 
 Pakeisti preambulę ir ją išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti preambulę ir ją išdėstyti taip:
 
 Šis įstatymas nustato profesinių sąjungų veiklos pagrindus, jų teises ir atsakomybę santykiuose su darbdaviais, valstybės ir savivaldybių institucijomis bei įstaigomis, profesinėms sąjungoms ginant savo narių interesus.“
 
-\#### 2 straipsnis. 1 straipsnio pakeitimas
+## 2 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Profesinės sąjungos steigėjai gali būti Lietuvos Respublikos piliečiai ir u
 
 Darbdavys, jo įgaliotasis atstovas negali būti jo įmonėje, įstaigoje, organizacijoje veikiančių profesinių sąjungų narys.“
 
-\#### 3 straipsnis. 2 straipsnio pakeitimas
+## 3 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Profesinių sąjungų nariai, teisėtai dirbantys pagal darbo sutartis ar kitais
 
 Kiti profesinių sąjungų nariai turi visas profesinės sąjungos narių teises ir pareigas, nustatytas profesinių sąjungų įstatuose (statute), išskyrus teisę balsuoti priimant sprendimus dėl streiko skelbimo, kolektyvinių sutarčių sudarymo ir vykdymo bei dėl kitų klausimų, kurie gali turėti įtakos darbuotojų ar kitais įstatymų nustatytais pagrindais dirbančių asmenų teisėms ir pareigoms.“
 
-\#### 4 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Valstybės ir savivaldybių institucijoms bei įstaigoms, darbdaviams, jų įgaliotiesiems atstovams, įmonės, įstaigos, organizacijos valdymo organams, administracijai, pareigūnams, politinėms partijoms ir kitoms organizacijoms draudžiama kištis į profesinių sąjungų vidaus reikalus. Asmenys, trukdantys teisėtą profesinių sąjungų veiklą, atsako pagal įstatymus.“
 
-\#### 5 straipsnis. 4 straipsnio pakeitimas
+## 5 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -74,13 +74,13 @@ Profesinės sąjungos veikia, laikydamosi Lietuvos Respublikos Konstitucijos, š
 
 Valstybės, šakos ar teritoriniu lygiu organizuotos profesinės sąjungos pagal steigimo dokumentuose nustatytą kompetenciją įmonėse, įstaigose, organizacijoseturi teisę steigti savo padalinius ir veikti juose.“
 
-\#### 6 straipsnis. 8 straipsnio 2 dalies 8 punkto pakeitimas
+## 6 straipsnis. 8 straipsnio 2 dalies 8 punkto pakeitimas
 
 Pakeisti 8 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip:
 
 „8) atstovaujamieji organai irkiti kolegialūs organai (jei jie sudaromi), jų kompetencija, sudarymo tvarka, narių ir pirmininko skyrimo (rinkimo) ir atšaukimo tvarka;“.
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Teismo sprendimu profesinių sąjungų, jų susivienijimų veikla gali būti sus
 
 Profesinių sąjungų, jų susivienijimų veikla teismo sprendimu taip pat gali būti nutraukta, kai profesinės sąjungos, jų susivienijimai per metus nuo tos dienos, kai jų veikla teismo sprendimu buvo sustabdyta, vėl pažeidžia Lietuvos Respublikos Konstituciją ar šį įstatymą.“
 
-\#### 8 straipsnis. 13 straipsnio pakeitimas
+## 8 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -114,13 +114,13 @@ Darbdavys profesinės sąjungos įgaliotiesiems atstovams, atliekantiems kontrol
 
 Profesinės sąjungos atstovaujamųjų ir (arba) valdymo organų nariai pareigas paprastai atlieka darbo metu. Tuo tikslu šie nariai profesinių sąjungų posėdžiams ir jų pareigoms atlikti atleidžiami nuo darbo ne mažiau kaip 60 darbo valandų per metus, jei kolektyvinėje sutartyje nenumatyta kitaip. Už šį laiką jiems mokamas vidutinis darbo užmokestis.“
 
-\#### 9 straipsnis. IV skirsnio pavadinimo pakeitimas
+## 9 straipsnis. IV skirsnio pavadinimo pakeitimas
 
 IV skirsnio pavadinime vietoj žodžio „organai“ įrašyti žodžius „ir savivaldybių institucijos bei įstaigos“ ir skirsnio pavadinimą išdėstyti taip:
 
 „IV skirsnis. Profesinės sąjungos ir valstybės ir savivaldybių institucijos bei įstaigos“.
 
-\#### 10 straipsnis. 14 straipsnio pakeitimas
+## 10 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 Profesinės sąjungos ir jų susivienijimai teikia pasiūlymus valstybės ir savivaldybių institucijoms bei įstaigoms dėl teisės aktų darbo, ekonominiais ir socialiniais klausimais priėmimo, pakeitimo ar panaikinimo.“
 
-\#### 11 straipsnis. 15 straipsnio pakeitimas
+## 11 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -138,7 +138,7 @@ Profesinės sąjungos atstovauja savo nariams ir įstatymų nustatyta tvarka gin
 
 Profesinės sąjungos, gindamos savo narių teises ir teisėtus interesus, gali sudaryti susitarimus su valstybės ir savivaldybių institucijomis bei įstaigomis.“
 
-\#### 12 straipsnis. 16 straipsnio pakeitimas
+## 12 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Profesinės sąjungos ir jų susivienijimai iš valstybės ir savivaldybių inst
 
 Valstybės ir savivaldybių institucijos bei įstaigos skatina derybas tarp profesinių sąjungų ir darbdavių ar jų organizacijų.“
 
-\#### 13 straipsnis. 17 straipsnio pakeitimas
+## 13 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Profesinės sąjungos turi teisę kontroliuoti, kaip darbdavys laikosi ir vykdo 
 
 Profesinės sąjungos, jų inspekcijos informaciją dėl darbo įstatymų, kitų norminių teisės aktų, kolektyvinių sutarčių normatyvinių nuostatų laikymosi pažeidimo ne vėliau kaip per 3 darbo dienas nuo pažeidimo padarymo arba sužinojimo apie pažeidimo padarymą momento perduoda Valstybinės darbo inspekcijos teritoriniam skyriui.“
 
-\#### 14 straipsnis. 20 straipsnio pakeitimas
+## 14 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -168,7 +168,7 @@ Profesinės sąjungos ir jų nariai įstatymų nustatyta tvarka turi teisę krei
 
 Asmenys, neteisėtais veiksmais padarę žalą profesinei sąjungai, privalo ją atlyginti įstatymų nustatyta tvarka.“
 
-\#### 15 straipsnis. 21 straipsnio pakeitimas
+## 15 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 

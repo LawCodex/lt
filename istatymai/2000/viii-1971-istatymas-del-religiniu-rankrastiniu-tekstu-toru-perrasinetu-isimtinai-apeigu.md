@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.ABAEE4D58609"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ABAEE4D58609.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl religinių rankraštinių tekstų (torų), perrašinėtų išimtinai apeigų paskirčiai, perdavimo žydų religinėms bendruomenėms ar bendrijoms
@@ -26,11 +26,11 @@ DĖL RELIGINIŲ RANKRAŠTINIŲ TEKSTŲ (TORŲ), PERRAŠINĖTŲ IŠIMTINAI APEIG�
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šiuo įstatymu Lietuvos Respublika, rodydama gerą valią ir suprasdama torų, kaip religinių rankraštinių tekstų, perrašinėtų išimtinai apeigų paskirčiai, reikšmę žydų tikėjimo ir kultūros tradicijai, nustato valstybės saugyklose saugomų torų perdavimo žydų bendruomenių ar bendrijų nuosavybėn tvarką.
 
-\#### 2 straipsnis. Torų perdavimas žydų religinėms bendruomenėms ar bendrijoms
+## 2 straipsnis. Torų perdavimas žydų religinėms bendruomenėms ar bendrijoms
 
 1. Žydų religinėms bendruomenėms ar bendrijoms jų prašymu gali būti neatlygintinai nuosavybėn perduodamos Lietuvos nacionalinėje Martyno Mažvydo bibliotekoje saugomos toros.
 
@@ -38,11 +38,11 @@ Vilnius
 
 3. Perduotinų torų atrankos kriterijus bei perduotinų torų sąrašą tvirtina Vyriausybė Kultūros ministerijos teikimu, atsižvelgdama į Lietuvos žydų bendruomenės siūlymus.
 
-\#### 3 straipsnis. Prašymų nagrinėjimo bei torų perdavimo tvarka
+## 3 straipsnis. Prašymų nagrinėjimo bei torų perdavimo tvarka
 
 Prašymų perduoti toras neatlygintinai nuosavybėn nagrinėjimo tvarką, terminus, taip pat torų perdavimo tvarką nustato bei sprendimus dėl torų perdavimo konkrečios žydų bendruomenės ar bendrijos nuosavybėn priima Vyriausybė, atsižvelgdama į Kultūros ministerijos ir Lietuvos žydų bendruomenės siūlymus.
 
-\#### 4 straipsnis. Įstatymo įgyvendinimas
+## 4 straipsnis. Įstatymo įgyvendinimas
 
 Vyriausybė iki 2000 m. gruodžio 15 d. patvirtina torų perdavimo tvarką ir perduotinų torų sąrašą.
 

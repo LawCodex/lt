@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.748CEF5B3ED8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.748CEF5B3ED8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos likvidavimo įstatymas
@@ -26,15 +26,15 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Šiaulių laisvosios ekonominės zonos likvidavimas
+## 1 straipsnis. Šiaulių laisvosios ekonominės zonos likvidavimas
 
 Šiuo Įstatymu likviduojama Šiaulių laisvoji ekonominė zona.
 
-\#### 2 straipsnis. Likvidacinės komisijos sudarymas
+## 2 straipsnis. Likvidacinės komisijos sudarymas
 
 Šiaulių laisvosios ekonominės zonos likvidacinę komisiją sudaro Lietuvos Respublikos Vyriausybė. Likvidacinė komisija veikia pagal Lietuvos Respublikos Vyriausybės patvirtintus nuostatus, taip pat teikia pasiūlymus Lietuvos Respublikos Vyriausybei dėl nepriklausomo audito nustatytų Šiaulių laisvosios ekonominės zonos steigimo metu padarytų išlaidų.
 
-\#### 3 straipsnis. Teisės aktų pripažinimas netekusiais galios
+## 3 straipsnis. Teisės aktų pripažinimas netekusiais galios
 
 Įsigaliojus šiam Įstatymui, netenka galios:
 

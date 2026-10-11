@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8570790DE111"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8570790DE111.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos principinės kariuomenės struktūros 2002 metais nustatymo įstatymas
@@ -26,11 +26,11 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2002 METAIS NUSTATYMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis Įstatymas nustato principinę kariuomenės struktūrą 2002 metais – nuolatinių junginių, batalionų ir jiems prilygintų dalinių bendrus ribinius reguliariųjų pajėgų ir aktyviojo rezervo karių bei kiekvieno laipsnio vyresniųjų karininkų skaičius.
 
-\#### 2 straipsnis. Principinė kariuomenės struktūra
+## 2 straipsnis. Principinė kariuomenės struktūra
 
 1. Nuolatinių junginių, batalionų ir jiems prilygintų dalinių skaičius 2002 metais:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f220b810e56a11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F220B810E56A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO NR. VIII-2032 9 
 
 Vilnius
 
-\#### 1 straipsnis. 9 straipsnio pakeitimas
+## 1 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Vilnius
 
 „2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, Vadovybės apsaugos tarnybos, Viešojo saugumo tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų, Lietuvos kariuomenėje tarnaujančių karių, valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų ir šiame punkte nurodytų institucijų ir tarnybų transporto priemonių;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. sausio 2 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D2C0206DCBBF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D2C0206DCBBF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo 25, 31 ir 39 straipsnių pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 (Žin., 1996, Nr. [71-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E); 2006, Nr. [82-3254](https://www.e-tar.lt/portal/lt/legalAct/TAR.AAFEF516C29E); 2010, Nr. [123-6260](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A0A728FEF4C)
 
-\#### 1 straipsnis. 25 straipsnio 1 dalies 2 punkto pakeitimas
+## 1 straipsnis. 25 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 25 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo pagrindinė buveinė yra Lietuvos Respublikoje, o redakciniai sprendimai dėl visuomenės informavimo audiovizualinėmis priemonėmis paslaugų yra priimami kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, jis yra laikomas įsisteigusiu toje valstybėje narėje, kurioje didesnė jo visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis vykdo šių paslaugų teikimo veiklą. Jeigu didesnė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis vykdo veiklą abiejose valstybėse narėse, visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas laikomas įsisteigusiu Lietuvos Respublikoje. Jeigu didesnė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis nevykdo veiklos nė vienoje iš tų valstybių narių, visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas laikomas įsisteigusiu toje valstybėje narėje, kurioje jis pradėjo savo veiklą laikydamasis tos valstybės narės teisės, jeigujis palaiko nuolatinius ir veiksmingus ekonominius ryšius su ta valstybe nare;“.
 
-\#### 2 straipsnis. 31 straipsnio 1 ir 9 dalių pakeitimas
+## 2 straipsnis. 31 straipsnio 1 ir 9 dalių pakeitimas
 
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 25 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 5) kitais atvejais, kai tai numatyta Radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti strateginiame plane.“
 
-\#### 3 straipsnis. 39 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 39 straipsnio 1 dalies pakeitimas
 
 Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 

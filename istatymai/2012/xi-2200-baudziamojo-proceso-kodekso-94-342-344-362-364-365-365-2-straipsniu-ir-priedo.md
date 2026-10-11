@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B8233107CCFA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B8233107CCFA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 94, 342, 344, 362, 364, 365, 365-2 straipsnių ir priedo pakeitimo ir papildymo ir Kodekso papildymo 17-3, 365-3, 365-4 straipsniais įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2003, Nr. [38-1734](https://www.e-tar.lt/portal/lt/legalAct/TAR.A892013CE410); 2004, Nr. [115-4276](https://www.e-tar.lt/portal/lt/legalAct/TAR.178605FBA01E); 2006, Nr. [68-2494](https://www.e-tar.lt/portal/lt/legalAct/TAR.25D777B9177C); 2007, Nr. [81-3312](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCCB8FD78166), Nr. [140-5748](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4C94F1ECFA0); 2010, Nr. [113-5742](https://www.e-tar.lt/portal/lt/legalAct/TAR.72A530A7A725), Nr. [145-7440](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF31D7BB828A); 2011, Nr. [81-3960](https://www.e-tar.lt/portal/lt/legalAct/TAR.15FBBA4514CC); 2012, Nr. [4-109](https://www.e-tar.lt/portal/lt/legalAct/TAR.599DD2A28AC8))
 
-\#### 1 straipsnis. Kodekso papildymas 173 straipsniu
+## 1 straipsnis. Kodekso papildymas 173 straipsniu
 
 Papildyti Kodeksą 17^3 straipsniu:
 
@@ -32,7 +32,7 @@ Papildyti Kodeksą 17^3 straipsniu:
 
 Europos Sąjungos valstybės narės teismo priimtas sprendimas konfiskuoti – dėl nusikalstamos veikos vykusiame procese Europos Sąjungos valstybės narės teismo priimtas galutinis sprendimas dėl bausmės ar kitokios priemonės, kurios pasekmė yra neatlygintinis turto paėmimas, paskyrimo.“
 
-\#### 2 straipsnis. 94 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 94 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 94 straipsnį nauja 4 dalimi:
 
@@ -40,13 +40,13 @@ Europos Sąjungos valstybės narės teismo priimtas sprendimas konfiskuoti – d
 
 2. Buvusią 94 straipsnio 4 dalį laikyti 5 dalimi.
 
-\#### 3 straipsnis. 342 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 342 straipsnio 5 dalies pakeitimas
 
 Pakeisti 342 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Jeigu nuosprendžiu nuteistajam paskirta bausmė – bauda arba baudžiamojo poveikio ar auklėjamojo poveikio priemonės – įmoka į Nukentėjusių nuo nusikaltimų asmenų fondą arba turto konfiskavimas ar išplėstinis turto konfiskavimas, turtinės žalos atlyginimas arba pašalinimas, arba teismas iš nuteistojo nusprendė išieškoti proceso išlaidas, o nuteistasis ar turtas, į kurį gali būti nukreiptas išieškojimas, arba konfiskuotinas turtas yra kitoje Europos Sąjungos valstybėje narėje, teismas savo iniciatyva arba bausmę (baudžiamojo poveikio ar auklėjamojo poveikio priemonę) vykdančios institucijos teikimu gali šią bausmę ar baudžiamojo poveikio ar auklėjamojo poveikio priemonę arba sprendimą dėl proceso išlaidų išieškojimo perduoti vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai. Sprendimas priimamas šio Kodekso 362 straipsnyje nustatyta tvarka. Lietuvos Respublikos teismų paskirtų piniginių sankcijų ir sprendimų konfiskuoti perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisykles patvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 4 straipsnis. 344 straipsnio pakeitimas
+## 4 straipsnis. 344 straipsnio pakeitimas
 
 Pakeisti 344 straipsnį ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 344 straipsnį ir jį išdėstyti taip:
 
 Nuosprendį vykdyti pateikiantis teismas, jeigu tai nebuvo padaryta anksčiau, privalo imtis priemonių nuteistojo būstui ir kitokiam turtui išsaugoti. Dėl to teismas, pateikdamas nuosprendį vykdyti, tuo pat metu siunčia rašytinį pavedimą turto buvimo vietos savivaldybės vykdomajai institucijaiir apie tai praneša nuteistajam.“
 
-\#### 5 straipsnis. 362 straipsnio papildymas ir pakeitimas
+## 5 straipsnis. 362 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 362 straipsnį nauja 3 dalimi:
 
@@ -62,7 +62,7 @@ Nuosprendį vykdyti pateikiantis teismas, jeigu tai nebuvo padaryta anksčiau, p
 
 2. Buvusias 362 straipsnio 3, 4, 5 dalis laikyti atitinkamai 4, 5, 6 dalimis.
 
-\#### 6 straipsnis. 364 straipsnio 2 ir 4 dalių pakeitimas
+## 6 straipsnis. 364 straipsnio 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 364 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Nuosprendį vykdyti pateikiantis teismas, jeigu tai nebuvo padaryta anksčiau, p
 
 „4. Skundo padavimas sustabdo teismo nutarčių atidėti nuosprendžio vykdymą, atleisti nuteistąjį nuo bausmės atlikimo dėl ligos, pripažinti Europos Sąjungos valstybės narės teismo priimtą sprendimą konfiskuoti ir šio Kodekso 360 straipsnio 5 dalies 1 ir 4 punktuose nurodytų nutarčių vykdymą.“
 
-\#### 7 straipsnis. 365 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 365 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 365 straipsnį ir jį išdėstyti taip:
 
@@ -88,13 +88,13 @@ Pakeisti ir papildyti 365 straipsnį ir jį išdėstyti taip:
 
 5. Užsienio valstybės teismo pritaikytą priverčiamąją medicinos priemonę su Lietuvos Respublikos įstatymais suderina šios priemonės taikymo vietos apylinkės teismas, gavęs Lietuvos Respublikos teisingumo ministerijos prašymą. Teismo nutartis šiuo klausimu priimama ir gali būti skundžiama šio Kodekso 405 straipsnyje nustatyta tvarka.“
 
-\#### 8 straipsnis. 3652 straipsnio 2 dalies pakeitimas
+## 8 straipsnis. 3652 straipsnio 2 dalies pakeitimas
 
 365^2straipsnio 2 dalyje vietoj žodžių „ją pripažinęs apylinkės teismas“ įrašyti žodį „prokuroras“ ir šią dalį išdėstyti taip:
 
 „2. Piniginės sankcijos vykdymą kontroliuoja prokuroras.“
 
-\#### 9 straipsnis. Kodekso papildymas 3653 straipsniu
+## 9 straipsnis. Kodekso papildymas 3653 straipsniu
 
 Papildyti Kodeksą 365^3 straipsniu:
 
@@ -138,7 +138,7 @@ c) jam įteikus sprendimą ir aiškiai informavus apie teisę į bylos persvarst
 
 8. Teismo nutartį pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti ar atsisakyti pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, jo gynėjas, juridinio asmens atstovas, prokuroras ir kiti suinteresuoti asmenys gali skųsti šio Kodekso 364 straipsnyje nustatyta tvarka. Apie gautą skundą teismas nedelsdamas raštu praneša Europos Sąjungos valstybės narės kompetentingai institucijai.“
 
-\#### 10 straipsnis. Kodekso papildymas 3654 straipsniu
+## 10 straipsnis. Kodekso papildymas 3654 straipsniu
 
 Papildyti Kodeksą 365^4 straipsniu:
 
@@ -162,17 +162,17 @@ Papildyti Kodeksą 365^4 straipsniu:
 
 6. Apie sprendimo konfiskuoti įvykdymą, apie visišką ar dalinį sprendimo konfiskuoti neįvykdymą nedelsiant raštu pranešama Europos Sąjungos valstybės narės kompetentingai institucijai ir sprendimo konfiskuoti vykdymo vietos antstoliui.“
 
-\#### 11 straipsnis. Kodekso priedo papildymas 5 punktu
+## 11 straipsnis. Kodekso priedo papildymas 5 punktu
 
 Papildyti Kodekso priedą 5 punktu:
 
 „5. 2006 m. spalio 6 d. Tarybos pamatinis sprendimas 2006/783/TVR dėl tarpusavio pripažinimo principo taikymo nutarimams konfiskuoti (OL 2006 L 328, p. 59).“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas
+## 12 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 ir 13 straipsnius, įsigalioja 2013 m. sausio 1 d.
 
-\#### 13 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir Teisėjų tarybai
+## 13 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei ir Teisėjų tarybai
 
 1. Lietuvos Respublikos Vyriausybė iki 2013 m. sausio 1 d. priima Lietuvos Respublikos teismų paskirtų piniginių sankcijų ir sprendimų konfiskuoti perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisykles.
 

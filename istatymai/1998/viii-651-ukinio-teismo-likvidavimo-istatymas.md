@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.96AFFFA6D4D8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.96AFFFA6D4D8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ūkinio teismo likvidavimo įstatymas
@@ -26,23 +26,23 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos ūkinio teismo likvidavimas
+## 1 straipsnis. Lietuvos Respublikos ūkinio teismo likvidavimas
 
 Lietuvos Respublikos ūkinis teismas likviduojamas ir jo veikla nutraukiama 1998 m. rugsėjo 1 d.
 
-\#### 2 straipsnis. Teisėjų garantijos
+## 2 straipsnis. Teisėjų garantijos
 
 1. Lietuvos Respublikos ūkinio teismo teisėjams pasiūlomos teisėjo pareigos viename iš šių teismų: Lietuvos apeliaciniame teisme, apygardos teisme arba apylinkės teisme.
 
 2. Lietuvos Respublikos ūkinio teismo teisėjai į naujas darbo vietas turi būti perkelti iki 1998 m. rugsėjo 1 d. Naujose darbo vietose jie pradeda dirbti nuo 1998 m. rugsėjo 1 d.
 
-\#### 3 straipsnis. Lietuvos Respublikos ūkinio teismo likvidavimo vykdymas
+## 3 straipsnis. Lietuvos Respublikos ūkinio teismo likvidavimo vykdymas
 
 1. Lietuvos Respublikos ūkinio teismo likvidavimą nustatyta tvarka vykdo Teisingumo ministerija.
 
 2. Likviduojamo Lietuvos Respublikos ūkinio teismo turtą perima Teisingumo ministerija.
 
-\#### 4 straipsnis. Bylų nagrinėjimas likviduojant Lietuvos Respublikos ūkinį teismą
+## 4 straipsnis. Bylų nagrinėjimas likviduojant Lietuvos Respublikos ūkinį teismą
 
 1. Lietuvos Respublikos ūkinis teismas:
 
@@ -54,7 +54,7 @@ Lietuvos Respublikos ūkinis teismas likviduojamas ir jo veikla nutraukiama 1998
 
 2. Skundai dėl Lietuvos Respublikos ūkinio teismo sprendimų ir nutarčių po 1998 m. rugsėjo 1 d. paduodami Civilinio proceso kodekso nustatyta tvarka.
 
-\#### 5 straipsnis. Teisės aktų pripažinimas netekusiais galios
+## 5 straipsnis. Teisės aktų pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios nuo 1998 m. rugsėjo 1 d.:
 

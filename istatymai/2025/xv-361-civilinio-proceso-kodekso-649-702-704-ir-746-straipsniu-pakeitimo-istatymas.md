@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1db6ab6155ce11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1DB6AB6155CE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 649, 702, 704 ir 746 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ CIVILINIO PROCESO KODEKSO 649, 702, 704 IR 746 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 649 straipsnio pakeitimas
+## 1 straipsnis. 649 straipsnio pakeitimas
 
 Pakeisti 649 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu vykdomasis raštas prarastas, tai išieškotojo ar antstolio prašymu išduodamas popierinės ar elektroninės formosvykdomojo rašto dublikatas. Išieškotojo prašymu, grąžinus anksčiau išduotą popierinės formos vykdomąjį raštą, išduodamas elektroninės formos vykdomojo rašto dublikatas. Prašymas išduoti vykdomojo rašto dublikatą paduodamas bylą nagrinėjusiam pirmosios instancijos teismui.“
 
-\#### 2 straipsnis. 702 straipsnio pakeitimas
+## 2 straipsnis. 702 straipsnio pakeitimas
 
 Pakeisti 702 straipsnį ir jį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Pakeisti 702 straipsnį ir jį išdėstyti taip:
 
 3. Nuo turto perdavimo išieškotojui akto surašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą išieškotojui ir jam pereina nuosavybės teisė. Kai išieškotojui perduodamas nekilnojamasis turtas, turto perdavimo išieškotojui aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui.“
 
-\#### 3 straipsnis. 704 straipsnio pakeitimas
+## 3 straipsnis. 704 straipsnio pakeitimas
 
 Pakeisti 704 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Areštuotas turtas skolininko pasiūlytam pirkėjui parduodamas surašant Sprendimų vykdymo instrukcijoje nustatytos formos aktą, kuris yra nuosavybės teisę patvirtinantis dokumentas. Šį turto pardavimo skolininko pasiūlytam pirkėjui aktą antstolis surašo per tris darbo dienas nuo visos kainos už parduotą turtą sumokėjimo, bet ne anksčiau kaip po dvidešimt dienų nuo skolininko pasiūlyto pirkėjo sutikimo pirkti turtą pateikimo antstoliui dienos. Kai skolininko pasiūlytam pirkėjui parduodamas nekilnojamasis turtas, turto pardavimo skolininko pasiūlytam pirkėjui aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui.“
 
-\#### 4 straipsnis. 746 straipsnio pakeitimas
+## 4 straipsnis. 746 straipsnio pakeitimas
 
 Pakeisti 746 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 746 straipsnį ir jį išdėstyti taip:
 
 9. Kai skolininkui (įkeisto turto savininkui) pradėtas bankroto ar restruktūrizavimo procesas, įkeistas turtas parduodamas ir hipotekos ar įkeitimo kreditorių reikalavimai tenkinami atitinkamai Juridinių asmenų nemokumo įstatymo ar Lietuvos Respublikos fizinių asmenų bankroto įstatymo nustatyta tvarka, atsižvelgiant į Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme nustatytas sąlygas dėl užtikrinamojo turto valdymo, disponavimo juo, specialiųjų kreditorių ir investuotojų teisių į užtikrinamąjį turtą.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 5 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. rugsėjo 1 d.
 

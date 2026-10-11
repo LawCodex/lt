@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5eda367059d611e487eff7b424bd0f08"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5EDA367059D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl 1974 m. Atėnų konvencijos dėl keleivių ir jų bagažo vežimo jūra 2002 m. protokolo ratifikavimo
@@ -26,11 +26,11 @@ DĖL 1974 M. ATĖNŲ KONVENCIJOS DĖL KELEIVIŲ IR JŲ BAGAŽO VEŽIMO JŪRA 200
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2014 m. rugpjūčio 25 d. dekretą Nr. 1K-36, ratifikuoja su išlyga 1974 m. Atėnų konvencijos dėl keleivių ir jų bagažo vežimo jūra 2002 m. protokolą, priimtą 2002 m. lapkričio 1 d. Londone.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlyga
+## 2 straipsnis. Lietuvos Respublikos išlyga
 
 1. Lietuvos Respublika pasilieka teisę riboti atsakomybę pagal 1974 m. Atėnų konvencijos dėl keleivių ir jų bagažo vežimo jūra (toliau – Konvencija) 3 straipsnio 1 ir 2 dalis ir prireikus tai daro keleivio mirties ar sužalojimo, kuriuos sukėlė bet kuris iš Konvencijos įgyvendinimo gairių, patvirtintų 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 392/2009 dėl keleivių vežėjų jūra atsakomybės avarijų atveju (OL 2009 L 131, p. 24) II priede „Atėnų konvencijos įgyvendinimo TJO išlyga ir gairės“ (toliau – Konvencijos įgyvendinimo gairės), 2.2 dalyje nurodytų pavojų, atveju iki mažesnės iš toliau nurodytų sumų: 250 000 atsiskaitymo vienetų vienam keleiviui kiekvienu atskiru atveju arba 340 mln. atsiskaitymo vienetų iš viso vienam laivui kiekvienu atskiru atveju.
 

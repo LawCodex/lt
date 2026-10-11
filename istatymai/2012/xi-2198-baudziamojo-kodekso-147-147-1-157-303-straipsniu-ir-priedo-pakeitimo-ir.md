@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0F2EE9AFA966"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0F2EE9AFA966.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 147, 147-1, 157, 303 straipsnių ir priedo pakeitimo ir papildymo ir Kodekso papildymo 147-2 straipsniu įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2004, Nr. [72-2492](https://www.e-tar.lt/portal/lt/legalAct/TAR.ECF5798E6803), Nr. [188-6995](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D7722C941FC); 2005, Nr. [81-2945](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC5B5908CC19); 2006, Nr. [77-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5BA1A8418B6); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC); 2008, Nr. [59-2200](https://www.e-tar.lt/portal/lt/legalAct/TAR.BCB3FDD669C6); 2010, Nr. [1-1](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB24057B6BC0), Nr. [75-3792](https://www.e-tar.lt/portal/lt/legalAct/TAR.9039A758A526); 2011, Nr. [163-7777](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE26D84C866D); 2012, Nr. [4-115](https://www.e-tar.lt/portal/lt/legalAct/TAR.5CC68712A93B))
 
-\#### 1 straipsnis. 147 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 147 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 147 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
 
 4. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 2 straipsnis. 1471 straipsnio pakeitimas
+## 2 straipsnis. 1471 straipsnio pakeitimas
 
 Pakeisti 147^1 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ baudžiamas areštu arba laisvės atėmimu iki aštuonerių metų.
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 3 straipsnis. Kodekso papildymas 1472 straipsniu
+## 3 straipsnis. Kodekso papildymas 1472 straipsniu
 
 Papildyti Kodeksą 147^2 straipsniu:
 
@@ -72,7 +72,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 4 straipsnis. 157 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 157 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 157 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 4. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 5 straipsnis. 303 straipsnio pakeitimas
+## 5 straipsnis. 303 straipsnio pakeitimas
 
 Pakeisti 303 straipsnį ir jį išdėstyti taip:
 
@@ -102,7 +102,7 @@ baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmim
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
 
-\#### 6 straipsnis. Kodekso priedo papildymas 23 punktu
+## 6 straipsnis. Kodekso priedo papildymas 23 punktu
 
 Papildyti Kodekso priedą 23 punktu:
 

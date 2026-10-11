@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.428AFC688F8A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.428AFC688F8A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 151-1, 153 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2006, Nr. [77-2961](https://www.e-tar.lt/portal/lt/legalAct/TAR.F5BA1A8418B6))
 
-\#### 1 straipsnis. 1511 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 1511 straipsnio papildymas ir pakeitimas
 
 Papildyti ir pakeisti 151^1 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 5. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.“
 
-\#### 2 straipsnis. 153 straipsnio pakeitimas
+## 2 straipsnis. 153 straipsnio pakeitimas
 
 Pakeisti 153 straipsnį ir jį išdėstyti taip:
 

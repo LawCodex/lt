@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B09DF76B324F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B09DF76B324F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 5, 6, 8, 10, 13, 14, 45, 52 straipsnių pakeitimo ir papildymo bei valstybinių socialinio draudimo pensijų įstatymo 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 straipsnių pakeitimo ir papildymo įstatymo 1 ir 4 straipsnių pripažinimo netekusiais galios įstatymas

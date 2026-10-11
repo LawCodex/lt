@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2EB5B5F6E5DD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2EB5B5F6E5DD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo 1, 13 ir 16 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 Nr. 120-4544, Nr. 149-6024; 2009, Nr. 93-3961)
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šis Įstatymas nustato valstybės paramos, teikiamos fiziniams asmenims ir šeimoms, turintiems nuolatinę gyvenamąją vietą Lietuvos Respublikoje, būstui pirkti, statyti (rekonstruoti) (toliau – įsigyti) ar išsinuomoti sąlygas ir tvarką, savivaldybės socialinio būsto nuomos sąlygas ir tvarką. Be to, šis Įstatymas nustatovalstybės paramos teikimo butų ir kitų patalpų savininkams, savivaldybėms ir bendrojo naudojimo objektų valdytojams (administratoriams) daugiabučiams namams atnaujinti (modernizuoti) sąlygas ir tvarką.“
 
-\#### 2 straipsnis. 13 straipsnio pakeitimas
+## 2 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -60,7 +60,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 7. Šio straipsnio 1 ir 2 dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo taisykles tvirtina Vyriausybė. Valstybės paramos teikimą administruoja Vyriausybės įgaliota institucija.“
 
-\#### 3 straipsnis. 16 straipsnio pavadinimo ir 3 dalies pakeitimas
+## 3 straipsnis. 16 straipsnio pavadinimo ir 3 dalies pakeitimas
 
 1. Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 „3. Buto ar kitų patalpų perleidimo (paveldėjimo) metu buvę įsiskolinimai pagal atnaujinimo (modernizavimo) projektus padengiami, o vykdytinos prievolės perduodamos buto ar kitų patalpų pirkėjui (įgijėjui).“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2010 m. gruodžio 1 d.
 

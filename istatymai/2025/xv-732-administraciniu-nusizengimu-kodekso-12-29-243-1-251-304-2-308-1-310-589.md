@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/79230e40e56a11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.79230E40E56A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 243-1, 251, 304-2, 308-1, 310, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 243-2, 270-2 straipsniais ir 243-1 straipsnio pripažinimo netekusiu galios įstatymas
@@ -26,19 +26,19 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 12, 29, 2431, 251, 3042, 3081, 310, 589 S
 
 Vilnius
 
-\#### 1 straipsnis. 12 straipsnio pakeitimas
+## 1 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217^2 straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 246 straipsnio 1 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje,  278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnyje, 295 straipsnio 4 ir 5 dalyse, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.“
 
-\#### 2 straipsnis. 29 straipsnio pakeitimas
+## 2 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 4 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234^2 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 270^2 straipsnio 5, 6 dalyse, 272, 273, 274 straipsniuose, 284 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dalyse, 285 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 dalyse, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6, 7, 8, 9 dalyse, 293 straipsnio 3, 4, 5 dalyse, 299 straipsnio 2, 3, 4, 5 dalyse, 303 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 dalyse, 304^2 straipsnio 3, 4, 5, 6 dalyse, 309 straipsnio 9, 10 ir 11 dalyse, 310 straipsnio 5, 9 ir 10 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 514^1 straipsnio 3, 4, 7 dalyse, 515 straipsnio 1, 2 dalyse, 524, 557^1 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:“.
 
-\#### 3 straipsnis. 2431 straipsnio pakeitimas
+## 3 straipsnis. 2431 straipsnio pakeitimas
 
 Pakeisti 243^1 straipsnį ir jį išdėstyti taip:
 
@@ -52,11 +52,11 @@ užtraukia baudą nuo dešimt iki penkiasdešimt eurų už kiekvieną nepranešt
 
 užtraukia baudą nuo penkiasdešimt iki devyniasdešimt eurų už kiekvieną nepraneštą išmetamo šiltnamio efektą sukeliančių dujų ekvivalento toną pagal Įgyvendinimo reglamento [(ES) 2023/1773](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R1773&locale=lt) 16 straipsnio 4 dalį, bet ne didesnę kaip šeši tūkstančiai eurų.“
 
-\#### 4 straipsnis. 2431 straipsnio pripažinimas netekusiu galios
+## 4 straipsnis. 2431 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 243^1 straipsnį.
 
-\#### 5 straipsnis. Kodekso papildymas 2432 straipsniu
+## 5 straipsnis. Kodekso papildymas 2432 straipsniu
 
 Papildyti Kodeksą 243^2 straipsniu:
 
@@ -70,7 +70,7 @@ užtraukia  baudą nuo vieno šimto iki šešių tūkstančių eurų.
 
 užtraukia baudą nuo trijų šimtų iki šešių tūkstančių eurų.“
 
-\#### 6 straipsnis. 251 straipsnio pakeitimas
+## 6 straipsnis. 251 straipsnio pakeitimas
 
 Pakeisti 251 straipsnį ir jį išdėstyti taip:
 
@@ -148,7 +148,7 @@ užtraukia baudą nuo trijų šimtų iki vieno tūkstančio septynių šimtų pe
 
 užtraukia baudą nuo aštuonių šimtų iki trijų tūkstančių eurų.“
 
-\#### 7 straipsnis. Kodekso papildymas 2702 straipsniu
+## 7 straipsnis. Kodekso papildymas 2702 straipsniu
 
 Papildyti Kodeksą 270^2 straipsniu:
 
@@ -180,7 +180,7 @@ užtraukia baudą veiklos vykdytojams fiziniams asmenims nuo dviejų tūkstanči
 
 7. Už šio straipsnio 5, 6 dalyse numatytus administracinius nusižengimus skiriamas Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų ir (arba) iš šių produktų pateikimo arba teikimo rinkai arba eksporto pažeidžiant Reglamento (ES) Nr. 2023/1115 3 straipsnyje nustatytus reikalavimus gautų pajamų konfiskavimas.“
 
-\#### 8 straipsnis. 3042 straipsnio pakeitimas
+## 8 straipsnis. 3042 straipsnio pakeitimas
 
 Pakeisti 304^2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -188,7 +188,7 @@ Pakeisti 304^2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 užtraukia įspėjimą arba baudą asmenims nuo penkiasdešimt iki vieno tūkstančio eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo  devyniasdešimt iki vieno tūkstančio penkių šimtų eurų.“
 
-\#### 9 straipsnis. 3081 straipsnio pakeitimas
+## 9 straipsnis. 3081 straipsnio pakeitimas
 
 Papildyti 308^1 straipsnį 9 dalimi:
 
@@ -196,7 +196,7 @@ Papildyti 308^1 straipsnį 9 dalimi:
 
 užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.“
 
-\#### 10 straipsnis. 310 straipsnio pakeitimas
+## 10 straipsnis. 310 straipsnio pakeitimas
 
 Pakeisti 310 straipsnį ir jį išdėstyti taip:
 
@@ -244,7 +244,7 @@ užtraukia baudą asmenims nuo dviejų tūkstančių iki šešių tūkstančių 
 
 11. Už šio straipsnio 5, 9 ir 10 dalyse numatytus administracinius nusižengimus skiriamas administracinio nusižengimo padarymo įrankių ir priemonių, ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso, pakartotinai neužpildomų ozono sluoksnį ardančių medžiagų talpyklų, kurios yra tuščios arba visiškai ar iš dalies užpildytos, ir už neteisėtą veiklą gautų pajamų konfiskavimas.“
 
-\#### 11 straipsnis. 589 straipsnio pakeitimas
+## 11 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 30 punktą ir jį išdėstyti taip:
 
@@ -262,19 +262,19 @@ užtraukia baudą asmenims nuo dviejų tūkstančių iki šešių tūkstančių 
 
 „70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 49^1 straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 2, 3, 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174, 188^2 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270^1, 270^2 straipsniuose, 308 straipsnio 1, 2, 9, 10, 12, 15, 18, 20, 21, 22 dalyse, 308^1 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 5, 9, 10 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 12 straipsnis. 589 straipsnio pakeitimas
+## 12 straipsnis. 589 straipsnio pakeitimas
 
 Pakeisti 589 straipsnio 40 punktą ir jį išdėstyti taip:
 
 „40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 141^1, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217^1, 217^2, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje,  243^2 straipsnio 2 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalyse, 284 straipsnio 1, 2 dalyse, 285 straipsnio 1, 2, 9, 10 dalyse, 303 straipsnio 1, 2 dalyse, 304^2 straipsnio 3, 4 dalyse, 308 straipsnio 6 dalyje, 308^1 straipsnio 2, 3, 5, 7, 8, 9 dalyse, 309 straipsnio 2, 3, 9, 10, 11 dalyse, 310 straipsnio 5, 9, 10 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 343^1 straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 4^1 dalyse, 507, 508, 510^1, 515, 526^1 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 13 straipsnis. 589 straipsnio pakeitimas
+## 13 straipsnis. 589 straipsnio pakeitimas
 
 Pakeisti 589 straipsnio 31 punktą ir jį išdėstyti taip:
 
 „31) aplinkos apsaugos valstybinės priežiūros pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 114 straipsnyje,  235, 236, 236^1, 237, 238, 239, 241 straipsniuose, 242 straipsnio 1, 2, 3 dalyse, 243 straipsnyje, 243^2 straipsnio 1 dalyje, 244, 246, 247 straipsniuose, 247^1 straipsnio 3, 4 dalyse, 248, 248^1, 248^2, 248^3, 249, 250, 251, 251^1, 252, 253, 255, 255^1, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267 straipsniuose, 268 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 269, 270, 270^1, 270^2 straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6^1, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304^1, 304^2, 305, 307, 308, 308^1, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5^1, 5^2, 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 14 straipsnis. 589 straipsnio pakeitimas
+## 14 straipsnis. 589 straipsnio pakeitimas
 
 1. Pakeisti 589 straipsnio 31 punktą ir jį išdėstyti taip:
 
@@ -284,7 +284,7 @@ Pakeisti 589 straipsnio 31 punktą ir jį išdėstyti taip:
 
 „48) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 45 straipsnyje, 48 straipsnio 1, 2 dalyse, 49 straipsnio 1, 2, 4 dalyse, 52, 53 straipsniuose, 224 straipsnio 1 dalyje, 308^1 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;“.
 
-\#### 15 straipsnis. Kodekso priedo pakeitimas
+## 15 straipsnis. Kodekso priedo pakeitimas
 
 1. Pripažinti netekusiu galios Kodekso priedo 24 punktą.
 
@@ -324,7 +324,7 @@ Pakeisti 589 straipsnio 31 punktą ir jį išdėstyti taip:
 
 12. Buvusį Kodekso priedo 1192 punktą laikyti 1193 punktu.
 
-\#### 16 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 16 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio įstatymo 4, 6, 12, 13, 14 straipsnius ir 15 straipsnio 1, 11 ir 12 dalis, įsigalioja  2026 m. sausio 13 d.
 

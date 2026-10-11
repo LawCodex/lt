@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.026F4848FF0C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.026F4848FF0C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 38 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 1994, Nr. [96-1874](https://www.e-tar.lt/portal/lt/legalAct/TAR.9DE7514DA6E8); 1995, Nr. [89-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.54DAE0F876A2); 1996, Nr. [53-1250](https://www.e-tar.lt/portal/lt/legalAct/TAR.18280923D118))
 
-\#### 1 straipsnis. 4 straipsnio papildymas 3 dalimi
+## 1 straipsnis. 4 straipsnio papildymas 3 dalimi
 
 4 straipsnį papildyti 3 dalimi:
 
 „Šio straipsnio antrosios dalies 2 ir 3 punktuose išvardyti asmenys ligos, nėštumo ir gimdymo pašalpoms gali draustis savanoriškai Vyriausybės nustatyta tvarka.“
 
-\#### 2 straipsnis. 38 straipsnio pakeitimas
+## 2 straipsnis. 38 straipsnio pakeitimas
 
 38 straipsnį pakeisti ir išdėstyti taip:
 

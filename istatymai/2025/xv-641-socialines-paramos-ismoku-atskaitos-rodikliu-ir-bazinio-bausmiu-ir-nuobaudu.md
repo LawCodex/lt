@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6a503d40d69511f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6A503D40D695.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 pakeitimo įstatymas
@@ -26,7 +26,7 @@ SOCIALINĖS PARAMOS IŠMOKŲ ATSKAITOS RODIKLIŲ IR BAZINIO BAUSMIŲ IR NUOBAUD�
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 nauja redakcija
 
 Pakeisti Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymą Nr. X-1710 ir jį išdėstyti taip:
 
@@ -36,15 +36,15 @@ SOCIALINĖS APSAUGOS IŠMOKŲ ATSKAITOS RODIKLIŲ IR BAZINIO BAUSMIŲ IR NUOBAUD
 
 ĮSTATYMAS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato socialinės apsaugos išmokų atskaitos rodiklius, jų dydžių apskaičiavimo tvarką ir šių rodiklių dydžius tvirtinančius subjektus ir apibrėžia bazinį bausmių ir nuobaudų dydį ir jį nustatantį subjektą.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos akcizų įstatyme, Lietuvos Respublikos maisto įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos šalpos pensijų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme ir Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
 
-\#### 3 straipsnis. Socialinės apsaugos išmokų atskaitos rodikliai
+## 3 straipsnis. Socialinės apsaugos išmokų atskaitos rodikliai
 
 1. Socialinės apsaugos išmokos – įstatymų nustatytos piniginės išmokos, skirtos asmenų, atitinkančių įstatymų nustatytus reikalavimus, socialinei apsaugai, mokamos iš Lietuvos Respublikos valstybės biudžeto, savivaldybių biudžetų ir (ar) Valstybinio socialinio draudimo fondo biudžeto.
 
@@ -62,7 +62,7 @@ SOCIALINĖS APSAUGOS IŠMOKŲ ATSKAITOS RODIKLIŲ IR BAZINIO BAUSMIŲ IR NUOBAUD
 
 3. Šio straipsnio 2 dalies 2–5 punktuose nurodyti socialinės apsaugos išmokų atskaitos rodikliai – tai eurais išreiškiami baziniai dydžiai (bazinės socialinės išmokos dydis, šalpos pensijų bazės dydis, tikslinių kompensacijų bazės dydis ir valstybės remiamų pajamų dydis) (toliau kartu – baziniai dydžiai).
 
-\#### 4 straipsnis. Socialinės apsaugos išmokų atskaitos rodiklių dydžių apskaičiavimo bendrosios taisyklės ir šiuos dydžius tvirtinantys subjektai
+## 4 straipsnis. Socialinės apsaugos išmokų atskaitos rodiklių dydžių apskaičiavimo bendrosios taisyklės ir šiuos dydžius tvirtinantys subjektai
 
 1. Ateinančių metų minimalių vartojimo poreikių dydis (toliau – MVPD) ir baziniai dydžiai apskaičiuojami sveikaisiais skaičiais, skaičiuojant pagal matematines skaičių apvalinimo taisykles: jeigu po paskutinio skaitmens, iki kurio apvalinama, yra skaitmuo 5 arba didesnis negu 5, prie paskutinio skaitmens, iki kurio apvalinama, pridedama 1; jeigu skaitmuo po paskutinio skaitmens, iki kurio apvalinama, yra mažesnis negu 5, paskutinis skaitmuo, iki kurio apvalinama, lieka nepakitęs.
 
@@ -72,7 +72,7 @@ SOCIALINĖS APSAUGOS IŠMOKŲ ATSKAITOS RODIKLIŲ IR BAZINIO BAUSMIŲ IR NUOBAUD
 
 4. Socialinės apsaugos ir darbo ministerija kiekvienais metais apskaičiuoja ateinančių kalendorinių metų MVPD euro tikslumu ir iki birželio 30 dienos jį patvirtina socialinės apsaugos ir darbo ministras.
 
-\#### 5 straipsnis. MVPD apskaičiavimo tvarka
+## 5 straipsnis. MVPD apskaičiavimo tvarka
 
 1. MVPD apskaičiuojamas vadovaujantis:
 
@@ -112,7 +112,7 @@ a) SVKI~t – Finansų ministerijos apskaičiuota ir einamųjų metų kovo mėne
 
 b) SVKI~t + 1– Finansų ministerijos apskaičiuota ir einamųjų metų kovo mėnesį Ekonominės raidos scenarijuje skelbiama vidutinės metinės infliacijos, apskaičiuotos pagal SVKI, ateinančių metų prognozė, išreikšta dešimtainiu skaičiumi.
 
-\#### 6 straipsnis. Bazinių dydžių apskaičiavimo tvarka
+## 6 straipsnis. Bazinių dydžių apskaičiavimo tvarka
 
 Ateinančių kalendorinių metų bazinės socialinės išmokos dydis, šalpos pensijų bazės dydis,tikslinių kompensacijų bazės dydis ir valstybės remiamų pajamų dydis atskirai (BD~t + 1) apskaičiuojami pagal formulę:
 
@@ -130,13 +130,13 @@ b) MVPD~t + 1– ateinančių kalendorinių metų MVPD, apskaičiuotas pagal ši
 
 c) VDUP~t + 1– Finansų ministerijos apskaičiuota ir einamųjų metų kovo mėnesį Ekonominės raidos scenarijuje skelbiama ateinančių metų vidutinio mėnesinio bruto darbo užmokesčio pokyčio prognozė, išreikšta dešimtainiu skaičiumi. Jeigu VDUP~t + 1 reikšmė neigiama, taikant šiame straipsnyje nurodytą formulę laikoma, kad ji yra lygi nuliui.
 
-\#### 7 straipsnis. Bazinis bausmių ir nuobaudų dydis
+## 7 straipsnis. Bazinis bausmių ir nuobaudų dydis
 
 1. Bazinis bausmių ir nuobaudų dydis – tai eurais išreiškiamas rodiklis, taikomas kvalifikuojant nusikalstamas veikas ir administracinius nusižengimus bei apibrėžiant ir apskaičiuojant bausmių ir nuobaudų dydžius.
 
 2. Bazinį bausmių ir nuobaudų dydį tvirtina Vyriausybė.“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įgyvendinimas ir taikymas
 
 1. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo 5 straipsnyje nustatyta tvarka 2025 metais euro tikslumu apskaičiuoja ateinančių kalendorinių metų minimalių vartojimo poreikių dydį, kurį iki 2025 m. gruodžio 31 d. patvirtina socialinės apsaugos ir darbo ministras.
 

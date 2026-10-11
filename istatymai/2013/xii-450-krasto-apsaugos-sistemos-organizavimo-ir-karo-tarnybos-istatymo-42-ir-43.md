@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.914BFBBF1481"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.914BFBBF1481.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 42 ir 43 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2000, Nr. [42-1194](https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E); 2004, Nr. [169-6215](https://www.e-tar.lt/portal/lt/legalAct/TAR.86209F68A21F); 2009, Nr. [95-4035](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF2A8FD2BD52); 2010, Nr. [63-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FDE832EEE9B); 2011, Nr. [143-6705](https://www.e-tar.lt/portal/lt/legalAct/TAR.97B8A95B7DCB))
 
-\#### 1 straipsnis. 42 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 42 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 42 straipsnį nauja 8 dalimi:
 
@@ -32,7 +32,7 @@ Vilnius
 
 2. Buvusią 42 straipsnio 8 dalį laikyti 9 dalimi.
 
-\#### 2 straipsnis. 43 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 43 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 43 straipsnį nauja 2 dalimi:
 

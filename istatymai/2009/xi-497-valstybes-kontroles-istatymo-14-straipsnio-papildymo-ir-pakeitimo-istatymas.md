@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0B2E0DB1F43D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0B2E0DB1F43D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės kontrolės įstatymo 14 straipsnio papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1995, Nr. [51-1243](https://www.e-tar.lt/portal/lt/legalAct/TAR.61BB05227699); 2001, Nr.[112-4070](https://www.e-tar.lt/portal/lt/legalAct/TAR.820E9B3007ED); 2003, Nr. [116-5257](https://www.e-tar.lt/portal/lt/legalAct/TAR.496CB2651071); 2006, Nr. [4-101](https://www.e-tar.lt/portal/lt/legalAct/TAR.554AA106A979))
 
-\#### 1 straipsnis. 14 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 14 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 14 straipsnį nauja 4 dalimi:
 

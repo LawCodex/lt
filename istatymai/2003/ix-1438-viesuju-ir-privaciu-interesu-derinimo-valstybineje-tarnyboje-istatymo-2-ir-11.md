@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CEFB2B895E9C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CEFB2B895E9C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2 ir 11 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0); 2000, Nr. [18-431](https://www.e-tar.lt/portal/lt/legalAct/TAR.B24AF3538B14); 2001, Nr. [35-1165](https://www.e-tar.lt/portal/lt/legalAct/TAR.932273BC5680), Nr. [71-2517](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AFC9AF000A6))
 
-\#### 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 5 dalies pakeitimas
 
 2 straipsnio 5 dalyje vietoj skaičiaus „305“ įrašyti skaičių „248“ ir šią dalį išdėstyti taip:
 
 „5. Artimieji giminaičiai ir šeimos nariai – asmenys, nurodyti Baudžiamojo kodekso 248 straipsnyje.“
 
-\#### 2 straipsnis. 11 straipsnio 6 dalies pakeitimas
+## 2 straipsnis. 11 straipsnio 6 dalies pakeitimas
 
 11 straipsnio 6 dalyje vietoj žodžių „tardytojams, kvotėjams“ įrašyti žodžius „ikiteisminio tyrimo pareigūnams“ ir šią dalį išdėstyti taip:
 
 „6. Šio straipsnio nuostatos netaikomos Respublikos Prezidentui, Seimo nariams, teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančių įstatymų.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

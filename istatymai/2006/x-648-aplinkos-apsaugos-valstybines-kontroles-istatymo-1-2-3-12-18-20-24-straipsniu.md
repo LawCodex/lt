@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E2A987141698"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E2A987141698.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 1, 2, 3, 12, 18, 20, 24 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. 72-3017; 2004, Nr. 50-1636)
 
-\#### 1 straipsnis. 1 straipsnio papildymas 2 dalimi
+## 1 straipsnis. 1 straipsnio papildymas 2 dalimi
 
 1 straipsnį papildyti 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio 6 dalies pakeitimas
+## 2 straipsnis. 2 straipsnio 6 dalies pakeitimas
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. **Privalomasis nurodymas –**aplinkos apsaugos valstybinę kontrolę vykdančio pareigūno įpareigojimas fiziniam ar juridiniam asmeniui per tam tikrą terminą įgyvendinti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus arba imtis priemonių, kad aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų arba žalos aplinkai būtų išvengta ar ji sumažinta, arba likviduoti pasekmes, sukeltas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimu, arba įgyvendinti aplinkos atkūrimo priemones.“
 
-\#### 3 straipsnis. 3 straipsnio papildymas 11 ir 12 punktais
+## 3 straipsnis. 3 straipsnio papildymas 11 ir 12 punktais
 
 Papildyti 3 straipsnį 11 ir 12 punktais:
 
@@ -52,7 +52,7 @@ Papildyti 3 straipsnį 11 ir 12 punktais:
 
 12) kontroliuoja, ar genetiškai modifikuoti organizmai ribotai naudojami, išleidžiami į aplinką laikantis teisės aktuose nustatytų reikalavimų.“
 
-\#### 4 straipsnis. 12 straipsnio 1 dalies 1, 6 ir 16 punktų pakeitimas
+## 4 straipsnis. 12 straipsnio 1 dalies 1, 6 ir 16 punktų pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Papildyti 3 straipsnį 11 ir 12 punktais:
 
 „16) išaiškinę aplinkos apsaugą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, kuriuo aplinkai buvo padaryta žala, privalo per 30 dienų pasiūlyti pažeidėjui gera valia atlyginti žalą. Jei pažeidėjas per aplinkos apsaugos valstybinės kontrolės pareigūno nurodytą terminą savanoriškai žalos neatlygina arba ją atlygina nevisiškai, aplinkos apsaugos valstybinės kontrolės pareigūnas ne vėliau kaip per 30 dienų nuo šio termino pabaigos privalo pareikšti ieškinį teisme dėl padarytos aplinkai žalos atlyginimo.“
 
-\#### 5 straipsnis. 18 straipsnio 1 punkto pakeitimas ir straipsnio papildymas 5 punktu
+## 5 straipsnis. 18 straipsnio 1 punkto pakeitimas ir straipsnio papildymas 5 punktu
 
 1. Pakeisti 18 straipsnio 1 punktą ir jį išdėstyti taip:
 
@@ -76,13 +76,13 @@ Papildyti 3 straipsnį 11 ir 12 punktais:
 
 „5) kai padaryta žala aplinkai ir nustatomos aplinkos atkūrimo priemonės ir jų įgyvendinimo terminai.“
 
-\#### 6 straipsnis. 20 straipsnio 1 dalies 4 punkto pakeitimas
+## 6 straipsnis. 20 straipsnio 1 dalies 4 punkto pakeitimas
 
 Pakeisti 20 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) kokius pažeidimus ar jų pasekmes arba veiksnius, sudarančius sąlygas aplinkos apsaugos įstatymų ir kitų teisės aktų pažeidimams ar žalai aplinkai atsirasti, turi pašalinti asmuo, kuriam duodamas privalomasis nurodymas, arba kokias aplinkos atkūrimo priemones turi įgyvendinti asmuo, kuriam duodamas privalomasis nurodymas, ir per kokius terminus jis tai turi padaryti;“.
 
-\#### 7 straipsnis. 24 straipsnio pakeitimas
+## 7 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 Jei privalomasis nurodymas laiku neįvykdomas, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo patraukti administracinėn atsakomybėn asmenį, neįvykdžiusį privalomojo nurodymo, už šio nurodymo neįvykdymą, už aplinkos apsaugos įstatymų ir kitų teisės aktų, dėl kurių buvo duotas privalomasis nurodymas, pažeidimus (jei pažeidimas trunkamasis), taip pat pakartotinai duoti privalomąjį nurodymą, kurio įvykdymo terminai nustatomi remiantis šio skirsnio nuostatomis, arba, jei privalomasis nurodymas duotas dėl priežasčių, nurodytų šio įstatymo 18 straipsnio 5 punkte, pareikšti ieškinį teisme dėl aplinkai padarytos žalos atlyginimo.“
 
-\#### 8 straipsnis. Įstatymo papildymas priedu
+## 8 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 

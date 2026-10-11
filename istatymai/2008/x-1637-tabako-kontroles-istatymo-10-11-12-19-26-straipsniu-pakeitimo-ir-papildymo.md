@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.870134494A56"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.870134494A56.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 10, 11, 12, 19, 26 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 2003, Nr. [117-5317](https://www.e-tar.lt/portal/lt/legalAct/TAR.084B9677FCAF); 2005, Nr. [142-5105](https://www.e-tar.lt/portal/lt/legalAct/TAR.4DCF5210CEB9); 2006, Nr. [61-2175](https://www.e-tar.lt/portal/lt/legalAct/TAR.360031558A9A), Nr. [73-2765](https://www.e-tar.lt/portal/lt/legalAct/TAR.4EC890A40CDB))
 
-\#### 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 10 straipsnio 3 dalies pakeitimas
 
 10 straipsnio 3 dalyje po žodžio „taisykles“ įrašyti žodžius „vadovaudamasi šiuo Įstatymu, Lietuvos Respublikos civiliniu kodeksu ir kitais teisės aktais“ ir šią dalį išdėstyti taip:
 
 „3. Šio straipsnio 1 dalyje nurodytų rūšių veiklos licencijavimo taisykles, vadovaudamasi šiuo Įstatymu, Lietuvos Respublikos civiliniu kodeksu ir kitais teisės aktais, tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -80,13 +80,13 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 6) paaiškėja, kad licencijai gauti pateikti neteisingi duomenys.“
 
-\#### 3 straipsnis. 12 straipsnio papildymas 8 dalimi
+## 3 straipsnis. 12 straipsnio papildymas 8 dalimi
 
 Papildyti 12 straipsnį 8 dalimi:
 
 „8. Įmonėms ar ūkininkams, turintiems licencijas verstis tabako auginimu, tabako gaminių gamyba, didmenine ar mažmenine prekyba tabako gaminiais, leidžiama auginti tabaką, gaminti, parduoti ir (ar) laikyti tabako gaminius tik tose vietose, kurios įrašytos į licenciją. Tabako auginimo, tabako gaminių gamybos, pardavimo ir (ar) laikymo vietą nustatančius duomenis, kurie turi būti įrašyti į licenciją, nustato Lietuvos Respublikos Vyriausybė atitinkamos veiklos rūšies licencijavimo taisyklėse.“
 
-\#### 4 straipsnis. 19 straipsnio 1 dalies 1 ir 5 punktų pakeitimas
+## 4 straipsnis. 19 straipsnio 1 dalies 1 ir 5 punktų pakeitimas
 
 1. 19 straipsnio 1 dalies 1 punkte išbraukti žodžius „interneto kavinėse (interneto klubuose ir pan.), taip pat patalpose, kuriose vyksta sporto varžybos ir kiti renginiai“, po žodžių „visose švietimo“ išbraukti žodį „įstaigose“, vietoj žodžio „jų“ įrašyti žodžius „šių įstaigų“ ir šį punktą išdėstyti taip:
 
@@ -96,7 +96,7 @@ Papildyti 12 straipsnį 8 dalimi:
 
 „5) restoranuose, kavinėse, baruose, kitose viešojo maitinimo įstaigose, klubuose, diskotekose, interneto kavinėse (interneto klubuose ir pan.), lošimo namuose (kazino), automatų ar bingo salonuose, kitose laisvalaikio praleidimo įstaigose, patalpose, kuriose vyksta sporto varžybos ar kiti renginiai, ir kitose žmonėms aptarnauti skirtose patalpose, išskyrus specialiai įrengtus cigarų ir (ar) pypkių klubus. Cigarų ir (ar) pypkių klubų įrengimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 5 straipsnis. 26 straipsnio 13 dalies 3 punkto pakeitimas ir 16, 17, 18 dalių pripažinimas netekusiomis galios
+## 5 straipsnis. 26 straipsnio 13 dalies 3 punkto pakeitimas ir 16, 17, 18 dalių pripažinimas netekusiomis galios
 
 1. 26 straipsnio 13 dalies 3 punkte vietoj žodžių „Nacionalinė vartotojų teisių apsaugos taryba prie Lietuvos Respublikos teisingumo ministerijos“ įrašyti žodžius „Valstybinė vartotojų teisių apsaugos tarnyba“ ir šį punktą išdėstyti taip:
 

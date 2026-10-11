@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.89AB28249073"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.89AB28249073.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 21, 22, 27 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 6-1 straipsniu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1995, Nr. [63-1582](https://www.e-tar.lt/portal/lt/legalAct/TAR.13E108ED3981); 2001, Nr. [35-1164](https://www.e-tar.lt/portal/lt/legalAct/TAR.FC99661E0C1C); 2004, Nr. [167-6097](https://www.e-tar.lt/portal/lt/legalAct/TAR.746E5B0683A6); 2010, Nr. [86-4526](https://www.e-tar.lt/portal/lt/legalAct/TAR.6968A8A8F932))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1.Šis įstatymas nustato pagrindines Lietuvos Respublikos vykdomosios valdžios institucijų, valstybės ir savivaldybių įstaigų, juridinių ir fizinių asmenų bei šių asmenų grupių, veikiančių pagal jungtinės veiklos sutartis, teises ir pareigas tiriant, naudojant ir saugant Lietuvos Respublikos sausumos, vidaus vandenų, kontinentinio šelfo ir ekonominės zonos Baltijos jūroje žemės gelmes.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 Žemės gelmės sausumoje ir vidaus vandenyse yra išimtinė valstybės nuosavybė, o kontinentiniame šelfe ir ekonominėje zonoje Baltijos jūroje valstybei priklauso išimtinės teisės į žemės gelmes. Žemės gelmių geologinio tyrimo ir (arba) naudojimo pagrindas yra tyrimo ir (arba) naudojimosi teisė, kurią šio įstatymo ir kitų įstatymų nustatyta tvarka juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, gali suteikti Lietuvos Respublikos Vyriausybėsįgaliota institucija.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,13 +100,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 12. Buvusias 3 straipsnio 13–16 dalis laikyti atitinkamai 17–20 dalimis.
 
-\#### 4 straipsnis. 4 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Aplinkos ministerija įgyvendina valstybės politiką žemės gelmių apsaugos ir išteklių naudojimo srityje, rengia ir tvirtina žemės gelmių apsaugos, tyrimo ir naudojimo ilgalaikes ir tikslines valstybės programas, organizuoja ir kontroliuoja jų įgyvendinimą, nustato žemės gelmių išteklių tyrimo, naudojimo, apsaugos ir kontrolės tvarką ir ją įgyvendina, nustato žemės gelmių išteklių tyrimo, naudojimo limitus ir sąlygas, reglamentuoja ir kontroliuoja žemės gelmių išteklių apskaitą.“
 
-\#### 5 straipsnis. 5 straipsnio pakeitimas
+## 5 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 2. Savivaldybių institucijos pagal savo kompetenciją, nustatytą įstatymų ir kitų teisės aktų, derina dokumentus, reglamentuojančius žemės gelmių tyrimą, naudojimą ir apsaugą.“
 
-\#### 6 straipsnis. 6 straipsnio pakeitimas
+## 6 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -124,7 +124,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 Tiesioginius ir nuotolinius žemės gelmių tyrimus gali atlikti juridiniai ir fiziniai asmenys ir šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, turintys teisę užsiimti šia veikla ir gavę leidimą atlikti konkretų (konkrečius) atitinkamos rūšies (atitinkamų rūšių) tyrimą (tyrimus) arba sudarę sutartį šiems tyrimams atlikti su leidimą atlikti tiesioginius ir nuotolinius žemės gelmių tyrimus turinčiais juridiniais ir fiziniais asmenimis ir šių asmenų grupėmis, veikiančiomis pagal jungtinės veiklos sutartis. Leidimą atlikti šiuos tyrimus Vyriausybės nustatyta tvarka išduoda Lietuvos geologijos tarnyba, išskyrus šio įstatymo 12 straipsnio 5 dalyje numatytus atvejus, kai leidime naudoti tradicinius ir (arba) išsklaidytuosius angliavandenilius, kurį išduoda Vyriausybė, yra numatyti ir šių žemės gelmių išteklių tyrimai.“
 
-\#### 7 straipsnis. Įstatymo papildymas 61 straipsniu
+## 7 straipsnis. Įstatymo papildymas 61 straipsniu
 
 Papildyti Įstatymą 6^1 straipsniu:
 
@@ -136,7 +136,7 @@ Papildyti Įstatymą 6^1 straipsniu:
 
 3. Apie teisės užsiimti tiesioginiais ir nuotoliniais žemės gelmių tyrimais suteikimą arba atėmimą skelbiama Lietuvos geologijos tarnybos interneto svetainėje.“
 
-\#### 8 straipsnis. 8 straipsnio papildymas 5 ir 6 dalimis
+## 8 straipsnis. 8 straipsnio papildymas 5 ir 6 dalimis
 
 1. Papildyti 8 straipsnį 5 dalimi:
 
@@ -146,7 +146,7 @@ Papildyti Įstatymą 6^1 straipsniu:
 
 „6. Asmenys, turintys Vyriausybės ar jos įgaliotos institucijos išduotą leidimą tirti išsklaidytuosius angliavandenilius, privalo Vyriausybės nustatyta tvarka ir sąlygomis informuoti kompetentingas institucijas apie kiekvieną radioaktyviųjų, toksiškų ar pavojingų žmonių sveikatai ar aplinkai medžiagų, skirtų išsklaidytiesiems angliavandeniliams tirti, panaudojimo atvejį, jų tikslią sudėtį procentais ir kiekį.“
 
-\#### 9 straipsnis. 9 straipsnio pakeitimas
+## 9 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -160,7 +160,7 @@ Leidimo tirti žemės gelmes galiojimą gali sustabdyti arba panaikinti Vyriausy
 
 3) pažeidžiant kitus šio įstatymo ar kitų teisės aktų nustatytus reikalavimus.“
 
-\#### 10 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
 4. Kasybos pramonės atliekos, susidariusios hidraulinio ardymo metu, gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paliekamos dirbtinėse žemės gelmių ertmėse, susidariusiose žemės gelmių išteklių naudojimo (gavybos) metu.“
 
-\#### 11 straipsnis. 12 straipsnio 1, 2, 6 dalių pakeitimas ir straipsnio papildymas 9 dalimi
+## 11 straipsnis. 12 straipsnio 1, 2, 6 dalių pakeitimas ir straipsnio papildymas 9 dalimi
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
 „9. Žemės gelmių tyrimo ir naudojimo metu susidariusios kasybos pramonės atliekos ir kitos atliekos, taip pat gamtinės kilmės radioaktyviosios atliekos, sukauptos žemės paviršiuje, turi būti sutvarkytos laikantis teisės aktuose nustatytų reikalavimų.“
 
-\#### 12 straipsnis. 13 straipsnio 1 ir 6 dalių pakeitimas ir papildymas
+## 12 straipsnis. 13 straipsnio 1 ir 6 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
 „6. Apie leidimo naudoti žemės gelmių išteklius ir ertmes išdavimą ar jo panaikinimą leidimus išduodanti institucija skelbia savo interneto svetainėje.“
 
-\#### 13 straipsnis. 14 straipsnio 1 ir 3 dalių pakeitimas
+## 13 straipsnis. 14 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -232,7 +232,7 @@ Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
 5) išteklių naudojimo metu susidarančių kasybos pramonės atliekų ir kitų atliekų, taip pat gamtinės kilmės radioaktyviųjų atliekų tvarkymo būdai ir priemonės.“
 
-\#### 14 straipsnis. 15 straipsnio papildymas 6, 7 ir 8 dalimis
+## 14 straipsnis. 15 straipsnio papildymas 6, 7 ir 8 dalimis
 
 1. Papildyti 15 straipsnį 6 dalimi:
 
@@ -246,7 +246,7 @@ Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
 „8. Asmenys, turintys leidimą naudoti išsklaidytuosius angliavandenilius, privalo Vyriausybės nustatyta tvarka ir sąlygomis informuoti kompetentingas institucijas apie kiekvieną hidraulinio ardymo atvejį ir tikslią jo metu panaudotų medžiagų sudėtį procentais ir jų kiekį.“
 
-\#### 15 straipsnis. 18 straipsnio 1 dalies pakeitimas
+## 15 straipsnis. 18 straipsnio 1 dalies pakeitimas
 
 Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -258,7 +258,7 @@ Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3) žemės gelmių išteklių naudotojas nesutvarko kasybos pramonės atliekų ir kitų atliekų, taip pat gamtinės kilmės radioaktyviųjų atliekų teisės aktuose nustatyta tvarka.“
 
-\#### 16 straipsnis. 19 straipsnio pakeitimas ir papildymas
+## 16 straipsnis. 19 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 19 straipsnį ir jį išdėstyti taip:
 
@@ -280,13 +280,13 @@ Pakeisti ir papildyti 19 straipsnį ir jį išdėstyti taip:
 
 4. Asmenys, atliekantys išsklaidytųjų angliavandenilių tyrimą ir (arba) naudojimą, privalo užtikrinti, kad medžiagos, naudojamos išsklaidytųjų angliavandenilių tyrimui ir (arba) naudojimui, nepatektų į požeminio ir (arba) paviršinio vandens telkinius, aplinką ir jų neužterštų. Išsklaidytųjų angliavandenilių tyrimą ir (arba) naudojimą atliekantys asmenys privalo užtikrinti, kad kasybos pramonės atliekos ir kitos atliekos, taip pat gamtinės kilmės radioaktyviosios atliekos, susidariusios išsklaidytųjų angliavandenilių tyrimo ir (arba) naudojimo metu, būtų sutvarkytos teisės aktuose nustatyta tvarka.“
 
-\#### 17 straipsnis. 21 straipsnio papildymas 4 dalimi
+## 17 straipsnis. 21 straipsnio papildymas 4 dalimi
 
 Papildyti 21 straipsnį 4 dalimi:
 
 „4. Valstybės įgaliotos institucijos privalo stebėti aplinkos būklę ir vykdyti kompleksinį (hidrogeologinį, seisminį, geocheminį, oro ir kitų rūšių) monitoringą visame išsklaidytųjų angliavandenilių tyrimo ir (arba) naudojimo plote. Kompleksinis monitoringas vykdomas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis. Asmenys, turintys leidimą tirti ir (arba) naudoti išsklaidytuosius angliavandenilius, turi sudaryti sąlygas aplinkos būklės stebėjimui ir monitoringui.“
 
-\#### 18 straipsnis. 22 straipsnio pakeitimas ir papildymas
+## 18 straipsnis. 22 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 22 straipsnį ir jį išdėstyti taip:
 
@@ -296,7 +296,7 @@ Pakeisti ir papildyti 22 straipsnį ir jį išdėstyti taip:
 
 2. Draudžiama atlikti išsklaidytųjų angliavandenilių tyrimą ir (arba) naudojimą naudojant hidraulinį ardymą saugomose teritorijose, vandenviečių sanitarinėse apsaugos zonose, įrenginių, skirtų geriamajam vandeniui vartotojams ruošti, taip pat vartotojų apsirūpinimo geriamuoju vandeniu sistemų (gręžinių, šulinių, vandens ėmimo kolonėlių) zonose.“
 
-\#### 19 straipsnis. 27 straipsnio pakeitimas ir papildymas
+## 19 straipsnis. 27 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 27 straipsnį ir jį išdėstyti taip:
 
@@ -312,7 +312,7 @@ Pakeisti ir papildyti 27 straipsnį ir jį išdėstyti taip:
 
 3. Juridiniams ir fiziniams asmenims ar jų turtui padaryta žala, atsiradusi juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, tiriant ir naudojant žemės gelmes, atlyginama Lietuvos Respublikos įstatymų nustatyta tvarka.“
 
-\#### 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. liepos 1 d.
 

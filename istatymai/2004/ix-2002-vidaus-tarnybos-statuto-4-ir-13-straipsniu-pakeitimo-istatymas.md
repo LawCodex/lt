@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A58B3097D2D1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A58B3097D2D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto 4 ir 13 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [42-1927](https://www.e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE))
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 4 straipsnio 1 punkte po žodžių „Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas)“ įrašyti žodžius „Civilinės saugos departamentas prie Vidaus reikalų ministerijos (toliau – Civilinės saugos departamentas)“ ir šį straipsnį išdėstyti taip:
 
@@ -42,41 +42,31 @@ Vidaus reikalų įstaigos yra:
 
 3) vidaus reikalų profesinio mokymo įstaigos.“
 
-\#### 2 straipsnis. 13 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 13 straipsnio 4 dalies pakeitimas
 
 13 straipsnio 4 dalyje po žodžių „Vadovybės apsaugos departamento bei jiems pavaldžių padalinių“ įrašyti žodžius „Civilinės saugos departamento“ ir šią dalį išdėstyti taip:
 
 „4. Vidaus tarnybos laipsniai suteikiami Valstybės sienos apsaugos tarnybos, Finansinių nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento, Vadovybės apsaugos departamento bei jiems pavaldžių padalinių, Civilinės saugos departamento ir vidaus reikalų profesinio mokymo įstaigų pareigūnams.“
 
-\#### 3 straipsnis. Įstatymo įgyvendinimas
+## 3 straipsnis. Įstatymo įgyvendinimas
 
 1. Šio Įstatymo įsigaliojimo momentu Civilinės saugos departamente prie Krašto apsaugos ministerijos tarnaujantys profesinės krašto apsaugos tarnybos kariai įgyja vidaus tarnybos sistemos pareigūno statusą nuo šio Įstatymo įsigaliojimo dienos. Jei nurodyti asmenys nesutinka įgyti vidaus tarnybos sistemos pareigūno statuso, jie atleidžiami iš tarnybos įstatymų nustatyta tvarka.
 
 2. Civilinės saugos departamento prie Krašto apsaugos ministerijos profesinės krašto apsaugos tarnybos kariams įgijus vidaus tarnybos sistemos pareigūno statusą, šio Įstatymo įsigaliojimo momentu jų turimi karių laipsniai prilyginami vidaus tarnybos sistemos pareigūnų specialiems nekariniams vidaus tarnybos laipsniams ir pervardijami:
 
-\| 1) eilinio laipsnis, grandinio laipsnis | – | vidaus tarnybos grandinio laipsniu; |
+| 1) eilinio laipsnis, grandinio laipsnis | – | vidaus tarnybos grandinio laipsniu; |
+| --- | --- | --- |
+| 2) jaunesniojo seržanto laipsnis, seržanto laipsnis, vyresniojo seržanto laipsnis, viršilos laipsnis, jaunesniojo puskarininkio laipsnis | – | vidaus tarnybos jaunesniojo puskarininkio laipsniu; |
+| 3) puskarininkio laipsnis | – | vidaus tarnybos puskarininkio laipsniu; |
+| 4) vyresniojo puskarininkio laipsnis | – | vidaus tarnybos vyresniojo puskarininkio laipsniu; |
+| 5) leitenanto laipsnis | – | vidaus tarnybos leitenanto laipsniu; |
+| 6) vyresniojo leitenanto laipsnis | – | vidaus tarnybos vyresniojo leitenanto laipsniu; |
+| 7) kapitono laipsnis | – | vidaus tarnybos kapitono laipsniu; |
+| 8) majoro laipsnis | – | vidaus tarnybos majoro laipsniu; |
+| 9) pulkininko leitenanto laipsnis | – | vidaus tarnybos pulkininko leitenanto laipsniu; |
+| 10) pulkininko laipsnis | – | vidaus tarnybos pulkininko laipsniu. |
 
-\| --- | --- | --- |
-
-\| 2) jaunesniojo seržanto laipsnis, seržanto laipsnis, vyresniojo seržanto laipsnis, viršilos laipsnis, jaunesniojo puskarininkio laipsnis | – | vidaus tarnybos jaunesniojo puskarininkio laipsniu; |
-
-\| 3) puskarininkio laipsnis | – | vidaus tarnybos puskarininkio laipsniu; |
-
-\| 4) vyresniojo puskarininkio laipsnis | – | vidaus tarnybos vyresniojo puskarininkio laipsniu; |
-
-\| 5) leitenanto laipsnis | – | vidaus tarnybos leitenanto laipsniu; |
-
-\| 6) vyresniojo leitenanto laipsnis | – | vidaus tarnybos vyresniojo leitenanto laipsniu; |
-
-\| 7) kapitono laipsnis | – | vidaus tarnybos kapitono laipsniu; |
-
-\| 8) majoro laipsnis | – | vidaus tarnybos majoro laipsniu; |
-
-\| 9) pulkininko leitenanto laipsnis | – | vidaus tarnybos pulkininko leitenanto laipsniu; |
-
-\| 10) pulkininko laipsnis | – | vidaus tarnybos pulkininko laipsniu. |
-
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. balandžio 1 d.
 

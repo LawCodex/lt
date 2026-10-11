@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A5D25DCF84A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A5D25DCF84A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005); 2001, Nr. [94-3307](https://www.e-tar.lt/portal/lt/legalAct/TAR.3CB6C63497C9); 2002, Nr. [123-5527](https://www.e-tar.lt/portal/lt/legalAct/TAR.604034235568))
 
-\#### 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas
+## 1 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas
 
 9 straipsnio 1 dalies 8 punkte vietoj žodžių „kurorto statusą turinčių savivaldybių gyventojų tankumui priešingas rodiklis“ įrašyti žodžius „savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurorto statusas, bendras plotas“, vietoj skaičiaus „0,04“ įrašyti skaičių „0,035“, dalį papildyti 9 punktu ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 9) rodiklis R9 – savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurortinės teritorijos statusas, bendras plotas, kurio koeficientas K9 lygus 0,005.“
 
-\#### 2 straipsnis. Įstatymo įgyvendinimas
+## 2 straipsnis. Įstatymo įgyvendinimas
 
 Šio įstatymo 1 straipsnyje išdėstytos Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio 1 dalies 8 ir 9 punktuose nurodyti rodikliai R~8 ir R~9 ir koeficientai K~8 ir K~9 pradedami taikyti rengiant Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
 

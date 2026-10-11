@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/57792590004911e88bcec397524184ce"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.577925900049.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 7, 17, 34-1, 34-2, 34-4, 34-5, 34-7, 34-12, 34-15, 34-16, 34-18, 34-19, 34-22, 34-23 straipsnių pakeitimo, 18 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo devintuoju-1 skirsniu įstatymas

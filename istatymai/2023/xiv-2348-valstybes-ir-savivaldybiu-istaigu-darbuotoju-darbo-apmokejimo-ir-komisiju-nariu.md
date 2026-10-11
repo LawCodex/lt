@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ba3b1f20a54411eea5a28c81c82193a8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BA3B1F20A544.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 7 straipsnio pakeitimo įstatymo Nr. XIV-1731 pripažinimo netekusiu galios įstatymas
@@ -28,11 +28,11 @@ PRIPAŽINIMO NETEKUSIU GALIOS
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 7 straipsnio pakeitimo įstatymo Nr. XIV-1731 pripažinimas netekusiu galios
+## 1 straipsnis. Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 7 straipsnio pakeitimo įstatymo Nr. XIV-1731 pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 7 straipsnio pakeitimo įstatymą Nr. XIV-1731.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2024 m. sausio 1 d.
 

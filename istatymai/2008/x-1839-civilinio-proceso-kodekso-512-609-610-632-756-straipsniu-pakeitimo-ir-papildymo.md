@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BB13C2E43107"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BB13C2E43107.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 512, 609, 610, 632, 756 straipsnių pakeitimo ir papildymo ir 652 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [36-1340](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454))
 
-\#### 1 straipsnis. 512 straipsnio pakeitimas
+## 1 straipsnis. 512 straipsnio pakeitimas
 
 Pakeisti 512 straipsnį ir jį išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti 512 straipsnį ir jį išdėstyti taip:
 
 Skundas dėl antstolių ar notarinių veiksmų gali būti paduodamas ne vėliau kaip per dvidešimt dienų nuo tos dienos, kurią skundą pateikiantis asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą arba atsisakymą jį atlikti, bet ne vėliau kaip per devyniasdešimt dienų nuo skundžiamo veiksmo atlikimo.“
 
-\#### 2 straipsnis. 609 straipsnio pakeitimas
+## 2 straipsnis. 609 straipsnio pakeitimas
 
 Pakeisti 609 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 609 straipsnį ir jį išdėstyti taip:
 
 2. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Sprendimų vykdymo instrukcija.“
 
-\#### 3 straipsnis. 610 straipsnio pakeitimas
+## 3 straipsnis. 610 straipsnio pakeitimas
 
 Pakeisti 610 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 610 straipsnį ir jį išdėstyti taip:
 
 2. Išimtis dėl vykdymo išlaidų apmokėjimo gali nustatyti Sprendimų vykdymo instrukcija.“
 
-\#### 4 straipsnis. 632 straipsnio papildymas 2 dalimi
+## 4 straipsnis. 632 straipsnio papildymas 2 dalimi
 
 Papildyti 632 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -80,11 +80,11 @@ Papildyti 632 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Antstolis, baigdamas vykdomąją bylą šio straipsnio 1 dalies 4 punkte numatytu atveju, nepanaikina priemonių, kurių buvo imtasi išieškojimui vykdyti. Taikytos priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo. Antstolis, priėmęs vykdyti jam persiųstą vykdomąjį dokumentą, turi teisę taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias.“
 
-\#### 5 straipsnis. 652 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 652 straipsnio pripažinimas netekusiu galios
 
 652 straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 756 straipsnio pakeitimas
+## 6 straipsnis. 756 straipsnio pakeitimas
 
 Pakeisti 756 straipsnį ir jį išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 756 straipsnį ir jį išdėstyti taip:
 
 Jeigu yra keli išieškotojai ir neužtenka išieškotos iš skolininko pinigų sumos visiems reikalavimams visiškai patenkinti, antstolis, laikydamasis nustatytos išieškojimų tenkinimo eilės ir proporcingumo principo, patvarkymu išsprendžia pinigų paskirstymą išieškotojams. Antstolio patvarkymo nuorašai siunčiami išieškotojams.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 7 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2009 m. balandžio 1 d.
 

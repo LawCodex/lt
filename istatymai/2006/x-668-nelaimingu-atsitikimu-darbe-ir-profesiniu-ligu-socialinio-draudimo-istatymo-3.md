@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0AF9C044310D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0AF9C044310D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 13, 15 ir 26 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F); 2003, Nr. [114-5114](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E0C66E475F9); 2004, Nr. [98-3624](https://www.e-tar.lt/portal/lt/legalAct/TAR.8FFD82C82278), Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62); 2005, Nr. [71-2557](https://www.e-tar.lt/portal/lt/legalAct/TAR.F84C1050A429), Nr. [153-5642](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E6636C8E517))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 3 straipsnio 2 dalyje po žodžių „reabilitacijos, motinystės“ įrašyti žodį „tėvystės“ ir šią dalį išdėstyti taip:
 
 „2. **Apdraustojo asmens draudžiamosios pajamos –**visos pajamos, nuo kurių buvo mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos nelaimingų atsitikimų darbe socialiniam draudimui, taip pat ligos dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos pašalpos, nustatytos šiame įstatyme, ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, nustatytos Ligos ir motinystės socialinio draudimo įstatyme, bei nedarbo socialinio draudimo išmokos, kurios pagal Nedarbo socialinio draudimo įstatymą yra mokamos bedarbiams. Apdraustojo asmens draudžiamosioms pajamoms taip pat prilyginamos sumos, nuo kurių Biudžeto sandaros įstatyme nurodyti valstybės biudžeto asignavimų valdytojai moka valstybinio socialinio draudimo įmokas nelaimingų atsitikimų darbe socialiniam draudimui už profesinių mokyklų mokinius, aukštesniųjų ir aukštųjų mokyklų studentus bei asmenis, teritorinių darbo biržų siųstus profesiniam mokymui ar profesinei reabilitacijai.“
 
-\#### 2 straipsnis. 13 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 13 straipsnio 2 dalies pakeitimas
 
 13 straipsnio 2 dalyje vietoj žodžių „trijų su puse dydžio“ įrašyti žodžius „penkių dydžių“ ir šią dalį išdėstyti taip:
 
 „2. Mėnesio kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo nedarbingumo nustatymo mėnesį, penkių dydžių sumos.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 Apdraustajam tapus laikinai nedarbingam dėl draudiminio įvykio, pripažinto pagal 6 straipsnį, mokama ligos pašalpa, kurios dydis yra 100 procentų kompensuojamojo uždarbio, taikomo ligos pašalpoms skaičiuoti. Pašalpa mokama už darbo dienas pagal kalendorių (taikoma 5 darbo dienų savaitė), atsižvelgiant į Vyriausybės nutarimu perkeltas poilsio dienas.“
 
-\#### 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,11 +64,11 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 
 5) kitiems pripažintiems nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) arba sukakusiems senatvės pensijos amžių asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo gauti jo išlaikymą. Šių asmenų išlaikymo ar teisių į išlaikymą faktas įrodomas teismo tvarka, o jų nedarbingumo faktas nustatomas NDNT arba teismo sprendimu.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 ir 2 straipsniai įsigalioja nuo 2006 m. liepos 1 d.
 
-\#### 6 straipsnis. Įstatymo taikymas
+## 6 straipsnis. Įstatymo taikymas
 
 Įsigaliojus šio įstatymo 2 straipsniui, ligos pašalpos, mokamos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, perskaičiuojamos vadovaujantis šio įstatymo nuostatomis nuo jų įsigaliojimo dienos. Ligos pašalpos, kurios buvo paskirtos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą ir kurių mokėjimo terminas baigėsi iki nurodytų nuostatų įsigaliojimo, neperskaičiuojamos.
 

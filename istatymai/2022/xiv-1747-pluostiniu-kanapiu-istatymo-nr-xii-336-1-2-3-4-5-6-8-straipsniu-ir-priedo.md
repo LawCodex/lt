@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b7a275a0881d11ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B7A275A0881D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 1, 2, 3, 4, 5, 6, 8 straipsnių ir priedo pakeitimo ir Įstatymo papildymo ketvirtuoju ir penktuoju skirsniais įstatymas
@@ -351,5 +351,3 @@ _______________________“.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_234d63c3d30d4dc18d77d7d229db91a1_end

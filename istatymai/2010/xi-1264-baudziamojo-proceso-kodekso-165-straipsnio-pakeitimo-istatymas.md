@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D6F9232CC93B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D6F9232CC93B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 165 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2003, Nr. [38-1734](https://www.e-tar.lt/portal/lt/legalAct/TAR.A892013CE410); 2006, Nr. [141-5402](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AB9E9D4C6C0))
 
-\#### 1 straipsnis. 165 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 165 straipsnio 1 dalies pakeitimas
 
 165 straipsnio 1 dalyje išbraukti žodžius „Valstybės saugumo departamentas“ ir šią dalį išdėstyti taip:
 
 „1. Ikiteisminio tyrimo įstaiga yra policija. Ikiteisminio tyrimo įstaigomis taip pat yra Valstybės sienos apsaugos tarnyba, Specialiųjų tyrimų tarnyba, Karo policija, Finansinių nusikaltimų tyrimo tarnyba, Lietuvos Respublikos muitinė, Priešgaisrinės apsaugos ir gelbėjimo departamentas, kai tiriamos nusikalstamos veikos, išaiškėjusios šioms institucijoms atliekant tiesiogines funkcijas, numatytas jų veiklą reglamentuojančiuose įstatymuose.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2011 m. vasario 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BF4AA5BF210C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BF4AA5BF210C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 5, 9, 10 ir 13 straipsnių pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 Nr. 103-3656; 2002, Nr. 38-1360)
 
-\#### 1 straipsnis. 5 straipsnio 2 dalies 3 punkto pakeitimas
+## 1 straipsnis. 5 straipsnio 2 dalies 3 punkto pakeitimas
 
 5 straipsnio 2 dalies 3 punkte vietoj žodžio „nusikaltimus“ įrašyti žodžius „nusikalstamas veikas“ ir šį punktą išdėstyti taip:
 
 „3) asmenų, padariusių ar įtariamų padarius nusikalstamas veikas, paieškos ir sulaikymo, policijos kompleksinių priemonių ir operacijų organizavimas bei detalūs planai;“.
 
-\#### 2 straipsnis. 9 straipsnio 5 dalies 5 ir 12 punktų pakeitimas
+## 2 straipsnis. 9 straipsnio 5 dalies 5 ir 12 punktų pakeitimas
 
 1. 9 straipsnio 5 dalies 5 punkte vietoj žodžių „valstybinį nusikaltimą“ įrašyti žodžius „nusikaltimą Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai“, po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šį punktą išdėstyti taip:
 
@@ -46,19 +46,19 @@ Nr. 103-3656; 2002, Nr. 38-1360)
 
 „12) yra asmuo, kurio atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas baudžiamojon atsakomybėn už tyčinę nusikalstamą veiką;“.
 
-\#### 3 straipsnis. 10 straipsnio 1 dalies 4 punkto pakeitimas
+## 3 straipsnis. 10 straipsnio 1 dalies 4 punkto pakeitimas
 
 10 straipsnio 1 dalies 4 punkte vietoj žodžių „valstybinio nusikaltimo ar už tyčinio nusikaltimo“ įrašyti žodžius „nusikaltimo Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar už kitos tyčinės nusikalstamos veikos“ ir šį punktą išdėstyti taip:
 
 „4) asmuo nuteisiamas už nusikaltimo Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar už kitos tyčinės nusikalstamos veikos padarymą;“.
 
-\#### 4 straipsnis. 13 straipsnio 1 dalies 3 punkto pakeitimas
+## 4 straipsnis. 13 straipsnio 1 dalies 3 punkto pakeitimas
 
 13 straipsnio 1 dalies 3 punkte vietoj žodžių „kvotą, iškėlus baudžiamąją bylą“ įrašyti žodžius „ikiteisminį tyrimą“ ir šį punktą išdėstyti taip:
 
 „3) atlieka ikiteisminį tyrimą dėl valstybės paslaptį sudarančios informacijos praradimo ar atskleidimo;“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

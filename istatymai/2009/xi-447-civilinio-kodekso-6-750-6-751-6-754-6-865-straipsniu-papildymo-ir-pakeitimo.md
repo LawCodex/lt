@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2AFAF6A54E09"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2AFAF6A54E09.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 6.750, 6.751, 6.754, 6.865 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB); 2004, Nr. [72-2495](https://www.e-tar.lt/portal/lt/legalAct/TAR.0D3439E4CD13))
 
-\#### 1 straipsnis. 6.750 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 1 straipsnis. 6.750 straipsnio 3 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 6.750 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -34,19 +34,19 @@ Vilnius
 
 „4. Turistas, atsisakęs sutarties dėl aplinkybių, už kurias atsako kelionės organizatorius ar asmuo, kurio pagalba kelionės organizatorius naudojasi, arba dėl su turistu nesusijusių aplinkybių, kurių jis negali kontroliuoti ir kurių sutarties sudarymo metu negalėjo protingai numatyti, turi teisę reikalauti, kad jam būtų grąžinti už kelionę sumokėti pinigai arba jo sutikimu kompensuota kitu būdu.“
 
-\#### 2 straipsnis. 6.751 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 6.751 straipsnio 2 dalies pakeitimas
 
 Pakeisti 6.751 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Jeigu kelionės organizatorius atsisako sutarties dėl aplinkybių, už kurias turistas neatsako, jis privalo pasiūlyti turistui naują tokios pat ar geresnės kokybės kelionę (alternatyvią kelionę).Jeigudėl pagrįstų priežasčių nėra galimybės pasiūlyti alternatyvią kelionę arba turistas pasiūlytos naujos kelionės atsisako, jis turi teisę reikalauti, kad jam būtų grąžinti už neįvykusią kelionę sumokėti pinigai.“
 
-\#### 3 straipsnis. 6.754 straipsnio 4 dalies pakeitimas
+## 3 straipsnis. 6.754 straipsnio 4 dalies pakeitimas
 
 Pakeisti 6.754 straipsnio 4 dalį irją išdėstyti taip:
 
 „4. Jeigu prasidėjus kelionei paaiškėja, kad kelionės organizatorius negalės įvykdyti pagrindinės sutartų paslaugų dalies, tai jis privalo pasiūlyti turistui tinkamas alternatyvias paslaugas už tokią pačią kainą sutartyje nurodytam terminui ir kompensuoti turistui anksčiau pasiūlytų ir faktiškai suteiktų paslaugų kainos skirtumą. Jeigu kelionės organizatorius dėl pagrįstų priežasčių negali pasiūlyti alternatyvių paslaugų arba dėl protingų priežasčių turistas jų atsisakė, kelionės organizatorius, be papildomo užmokesčio, turi užtikrinti turisto grąžinimą atgal arba nuvežimą į kitą vietovę, dėl kurios sutinka turistas, taip pat grąžinti turistui pinigus už nesuteiktas paslaugas.“
 
-\#### 4 straipsnis. 6.865 straipsnio papildymas ir pakeitimas
+## 4 straipsnis. 6.865 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 6.865 straipsnį nauja 3 dalimi:
 

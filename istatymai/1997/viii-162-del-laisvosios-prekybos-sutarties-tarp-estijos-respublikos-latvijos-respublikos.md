@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.52F0C4DAE1AE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.52F0C4DAE1AE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos Jungtinio komiteto rezoliucijos Nr.1/97 "Dėl laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos, pasirašytos 1993 m. rugsėjo 13 d., A Protokolo pataisų" ratifikavimo
@@ -26,7 +26,7 @@ DĖL LAISVOSIOS PREKYBOS SUTARTIES TARP ESTIJOS RESPUBLIKOS, LATVIJOS RESPUBLIKO
 
 Vilnius
 
-\#### 1 straipsnis. Rezoliucijos ratifikavimas
+## 1 straipsnis. Rezoliucijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1997 m. kovo 26 d. dekretą Nr. 1250, ratifikuoja 1997 m. vasario 6 d. Taline pasirašytą laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos Jungtinio komiteto rezoliuciją Nr.1/97 „Dėl Laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos, pasirašytos 1993 m. rugsėjo 13 d., A protokolo pataisų“.
 

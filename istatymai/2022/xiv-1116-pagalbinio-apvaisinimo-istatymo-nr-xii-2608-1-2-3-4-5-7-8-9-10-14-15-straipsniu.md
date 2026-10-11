@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/26de5df0e30d11ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.26DE5DF0E30D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 1, 2, 3, 4, 5, 7, 8, 9, 10, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
@@ -223,5 +223,3 @@ Pagalbinio apvaisinimo paslaugos ir vaisingumo išsaugojimo paslaugos apmokamos 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_e8a595084a194f3d8a5fa6ed49a79be3_end

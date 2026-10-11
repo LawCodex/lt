@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.043D0BE89236"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.043D0BE89236.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymo 2, 4, 5, 8, 14, 15, 18, 19, 22, 31, 32, 33, 34, 35, 42, 47, 52, 53, 54, 56 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2006, Nr. [82-3248](https://www.e-tar.lt/portal/lt/legalAct/TAR.103565D95E60); 2011, Nr. [146-6824](https://www.e-tar.lt/portal/lt/legalAct/TAR.82B45D5C8282), Nr. [163-7776](https://www.e-tar.lt/portal/lt/legalAct/TAR.472ADC85D27F))
 
-\#### 1 straipsnis. 2 straipsnio 22 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 22 dalies pakeitimas
 
 Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
 4) kita veikla, susijusi su šios dalies 1, 2, 3 punktuose nurodyta veikla.“
 
-\#### 2 straipsnis. 4 straipsnio 1, 3 dalių ir 4 dalies 2 punkto pakeitimas
+## 2 straipsnis. 4 straipsnio 1, 3 dalių ir 4 dalies 2 punkto pakeitimas
 
 1. 4 straipsnio 1 dalyje vietoj žodžių „turto valdymo“ įrašyti žodžius „fondo valdymo“ ir šią dalį išdėstyti taip:
 
@@ -56,25 +56,25 @@ Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
 „2) valdymo organų nariai, pasirinktas pensijų fondo valdytojas ar pensijų turto saugotojas, numatomos pensijų asociacijos veiklos sąlygos neatitinka šio įstatymo ir kitų teisės aktų nustatytų reikalavimų ar pensijų asociacijos narių interesų.“
 
-\#### 3 straipsnis. 5 straipsnio 2 dalies 5 punkto pakeitimas
+## 3 straipsnis. 5 straipsnio 2 dalies 5 punkto pakeitimas
 
 5 straipsnio 2 dalies 5 punkte vietoj žodžių „turto valdytoją“ įrašyti žodžius „fondo valdytoją“ ir šį punktą išdėstyti taip:
 
 „5) informacija apie pensijų fondo valdytoją;“.
 
-\#### 4 straipsnis. 8 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 8 straipsnio 4 dalies pakeitimas
 
 8 straipsnio 4 dalyje vietoj žodžių „turto valdytojas“ įrašyti žodžius „fondo valdytojas“ ir šią dalį išdėstyti taip:
 
 „4. Pensijų asociacijos reorganizavimo sąlygose, be kitos Lietuvos Respublikos civilinio kodekso reikalaujamos informacijos, turi būti nurodomas pensijų fondų ir jų dalyvių skaičius, pateikiami duomenys apie perduodamus ir priimamus pensijų fondus ir juos sudarantį pensijų turtą, pensijų fondo valdytojas ir pensijų turto saugotojas, taip pat pensijų asociacijos prievolių perdavimo ir priėmimo sąlygos ir terminai, turtinės ir neturtinės pensijų fondo (fondų) dalyvių teisės po reorganizavimo, šių teisių ir pareigų įgijimo sąlygos ir terminai. Reorganizavimo sąlygoms turi pritarti visuotinis pensijų asociacijos narių susirinkimas ir priežiūros institucija.“
 
-\#### 5 straipsnis. 14 straipsnio 1 dalies 4 punkto pakeitimas
+## 5 straipsnis. 14 straipsnio 1 dalies 4 punkto pakeitimas
 
 14 straipsnio 1 dalies 4 punkte vietoj žodžių „turto valdytoją“ įrašyti žodžius „fondo valdytoją“, vietoj žodžių „turto valdymo“ įrašyti žodžius „fondo valdymo“ ir šį punktą išdėstyti taip:
 
 „4) suderinusi su priežiūros institucija, parenka pensijų fondovaldytoją ir sudaro su juo pensijų fondovaldymo sutartį;“.
 
-\#### 6 straipsnis. 15 straipsnio 3 dalies 12 ir 13 punktų pakeitimas
+## 6 straipsnis. 15 straipsnio 3 dalies 12 ir 13 punktų pakeitimas
 
 1. 15 straipsnio 3 dalies 12 punkte vietoj žodžių „turto valdytojo“ įrašyti žodžius „fondo valdytojo“ ir šį punktą išdėstyti taip:
 
@@ -84,7 +84,7 @@ Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
 „13) atlyginimo pensijų fondovaldytojui ir pensijų turto saugotojui apskaičiavimo metodika, maksimalus dydis ir mokėjimo tvarka, kitų išlaidų, dengiamų iš pensijų fondo turto, baigtinis sąrašas ir apskaičiavimo metodika, taip pat maksimalūs dydžiai;“.
 
-\#### 7 straipsnis. 18 straipsnio 3, 5 ir 11 dalių pakeitimas
+## 7 straipsnis. 18 straipsnio 3, 5 ir 11 dalių pakeitimas
 
 1. Pakeisti 18 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 
 „11. Pensijų fondo turtas negali būti perleistas pensijų asociacijos valdymo organų nariams, pensijų fondovaldytojui, finansuojančiam subjektui, pensijų fondovaldytojo ir finansuojančio subjekto vadovui, valdybos, stebėtojų tarybos nariams ar pensijų asociacijos darbuotojams (ir jų sutuoktiniams). Taip pat draudžiama iš šioje dalyje nurodytų asmenų įsigyti turtą pensijų fondų lėšomis.“
 
-\#### 8 straipsnis. 19 straipsnio pakeitimas
+## 8 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -108,13 +108,13 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 2. Iš pensijų turto galima apmokėti tik tas išlaidas, kurios susijusios su pensijų fondo valdymu ir pensijų turto saugojimu ir kurių baigtinis sąrašas yra nustatytas pensijų fondo taisyklėse. Šių išlaidų suma negali viršyti pensijų fondo taisyklėse nustatytų maksimalių dydžių.“
 
-\#### 9 straipsnis. 22 straipsnio 3 dalies pakeitimas
+## 9 straipsnis. 22 straipsnio 3 dalies pakeitimas
 
 22 straipsnio 3 dalyje vietoj žodžių „turto valdytojui“ įrašyti žodžius „fondo valdytojui“ ir šią dalį išdėstyti taip:
 
 „3. Jeigu informacijos apie pensijų kaupimo profesiniuose pensijų fonduose veiklą teikimas ir (ar) sutarčių su pensijų fondų dalyviais sudarymas pensijų asociacijos vardu yra pavestas pensijų fondo valdytojui, šio straipsnio 2 dalies reikalavimai taikomi taip pat ir pensijų fondo valdytojui. Priežiūros institucijaturi teisę nustatyti asmenų, teikiančių informaciją apie pensijų kaupimo profesiniuose pensijų fonduose veiklą ir (ar) sudarančių sutartis su pensijų fondų dalyviais pensijų asociacijos vardu, kvalifikacinius reikalavimus.“
 
-\#### 10 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
+## 10 straipsnis. Šeštojo skirsnio pavadinimo pakeitimas
 
 Pakeisti šeštojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti šeštojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **PENSIJŲ FONDO VALDYMAS IR PENSIJŲ TURTO SAUGOJIMAS**“.
 
-\#### 11 straipsnis. 31 straipsnio pakeitimas
+## 11 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -156,19 +156,19 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 4. Pensijų fondo valdymo sutartis gali būti pakeista tik tuo atveju, kai tam iš anksto pritarė priežiūros institucija jos nustatyta tvarka.“
 
-\#### 12 straipsnis. 32 straipsnio 3 dalies pakeitimas
+## 12 straipsnis. 32 straipsnio 3 dalies pakeitimas
 
 Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Pensijų turto saugotojais gali būti valstybėje narėje įsteigti ir tinkamai įgalioti veikti subjektai, kaip numatyta Direktyvoje 93/22/EEB arba Direktyvoje 2000/12/EB, arba veikiantys kaip depozitoriumai Direktyvoje 2009/65/EB nustatytiems tikslams pasiekti.“
 
-\#### 13 straipsnis. 33 straipsnio 1 dalies 3 punkto pakeitimas
+## 13 straipsnis. 33 straipsnio 1 dalies 3 punkto pakeitimas
 
 33 straipsnio 1 dalies 3 punkte vietoj žodžio „turto“ įrašyti žodį „fondo“ ir šį punktą išdėstyti taip:
 
 „3) vykdyti pensijų fondovaldytojo nurodymus, jeigu jie neprieštarauja teisės aktų, pensijų asociacijos įstatų ir pensijų fondo taisyklių reikalavimams;“.
 
-\#### 14 straipsnis. 34 straipsnio pakeitimas
+## 14 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 Jeigu pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kitam pensijų fondo valdytojui pensijų fondo valdymas neperduotas, jį laikinai perima pensijų turto saugotojas. Pensijų fondo valdytojas privalo raštu pranešti pensijų turto saugotojui apie teisės valdyti pensijų fondą pasibaigimą. Tokiu atveju pensijų turto saugotojas turi visas pensijų fondo valdytojo teises ir pareigas, jeigu įstatymuose arba pensijų asociacijos įstatuose ar pensijų fondų taisyklėse nenustatyta kitaip. Pensijų turto saugotojas privalo perduoti valdymą kitam pensijų fondo valdytojui per 3 mėnesius nuo pensijų fondo valdymo perėmimo. Per 3 mėnesius kitam pensijų fondo valdytojui neperdavus valdyti pensijų turto, pensijų asociacija turi būti likviduota priverstine tvarka. Priežiūros institucija turi teisę kreiptis į teismą dėl priverstinio pensijų asociacijos likvidavimo.“
 
-\#### 15 straipsnis. 35 straipsnio pakeitimas
+## 15 straipsnis. 35 straipsnio pakeitimas
 
 35 straipsnyje vietoj žodžių „turto valdytojo“, „turto valdytojas“, „turto valdytoją“ įrašyti atitinkamai žodžius „fondo valdytojo“, „fondo valdytojas“, „fondo valdytoją“ ir šį straipsnį išdėstyti taip:
 
@@ -186,7 +186,7 @@ Jeigu pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kita
 
 2. Jeigu pensijų fondo valdytojas ir (ar) pensijų turto saugotojas nesilaiko teisės aktų reikalavimų, nevykdo savo įsipareigojimų ar netinkamai juos vykdo, priežiūros institucija, siekdama apsaugoti pensijų fondų dalyvių interesus, turi teisę nurodyti pensijų asociacijai pakeisti pensijų fondo valdytoją ir (ar) pensijų turto saugotoją.“
 
-\#### 16 straipsnis. 42 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
+## 16 straipsnis. 42 straipsnio 1 dalies 3 ir 4 punktų pakeitimas
 
 1. 42 straipsnio 1 dalies 3 punkte vietoj žodžio „turto“ įrašyti žodį „fondo“ ir šį punktą išdėstyti taip:
 
@@ -196,13 +196,13 @@ Jeigu pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kita
 
 „4) ne rečiau kaip kartą per ketvirtį pensijų asociacijos ir pensijų fondovaldytojo valdyboms teikti pensijų asociacijos valdybos nustatytos formos ataskaitas dėl techninių atidėjinių padengimo būklės ir šio įstatymo 45 straipsnyje nustatytų reikalavimų laikymosi būklės;“.
 
-\#### 17 straipsnis. 47 straipsnio 1 dalies 1 punkto pakeitimas
+## 17 straipsnis. 47 straipsnio 1 dalies 1 punkto pakeitimas
 
 47 straipsnio 1 dalies 1 punkte vietoj žodžio „turto“ įrašyti žodį „fondo“ ir šį punktą išdėstyti taip:
 
 „1) turtas turi būti investuojamas geriausiais dalyvių ir išmokų gavėjų interesais. Galimo interesų konflikto atveju pensijų fondovaldytojas turi užtikrinti, kad būtų investuojama išimtinai dalyvių ir išmokų gavėjų interesais;“.
 
-\#### 18 straipsnis. 52 straipsnio 1 dalies ir 6 dalies 4 punkto pakeitimas
+## 18 straipsnis. 52 straipsnio 1 dalies ir 6 dalies 4 punkto pakeitimas
 
 1. 52 straipsnio 1 dalyje vietoj žodžio „turto“ įrašyti žodį „fondo“ ir šią dalį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Jeigu pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kita
 
 „4) periodiškai gauti iš pensijų asociacijos ir pensijų fondovaldytojo informaciją apie pensijų fondo investavimo politikos principus, metinę finansinę ataskaitą ir metines veiklos ataskaitas bei visus kitus priežiūrai būtinus dokumentus ir ataskaitas;“.
 
-\#### 19 straipsnis. 53 straipsnio 2 dalies 2 ir 4 punktų pakeitimas
+## 19 straipsnis. 53 straipsnio 2 dalies 2 ir 4 punktų pakeitimas
 
 1. 53 straipsnio 2 dalies 2 punkte vietoj žodžių „turto valdytojo“ įrašyti žodžius „fondo valdytojo“ ir šį punktą išdėstyti taip:
 
@@ -222,13 +222,13 @@ Jeigu pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kita
 
 „4) laikinai paimti tikrinamų pensijų asociacijų, pensijų fondovaldytojų, pensijų turto saugotojų dokumentus, kurie gali būti panaudojami kaip pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo ir paimtų dokumentų apyrašą;“.
 
-\#### 20 straipsnis. 54 straipsnio 7 punkto pakeitimas
+## 20 straipsnis. 54 straipsnio 7 punkto pakeitimas
 
 54 straipsnio 7 punkte vietoj žodžių „turto valdytoją“ įrašyti žodžius „fondo valdytoją“ ir šį punktą išdėstyti taip:
 
 „7) įpareigoti pakeisti pensijų fondovaldytoją ir (ar) pensijų turto saugotoją;“.
 
-\#### 21 straipsnis. 56 straipsnio pakeitimas ir papildymas
+## 21 straipsnis. 56 straipsnio pakeitimas ir papildymas
 
 Pakeisti 56 straipsnio 1 dalies 2 punktą, straipsnį papildyti 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 

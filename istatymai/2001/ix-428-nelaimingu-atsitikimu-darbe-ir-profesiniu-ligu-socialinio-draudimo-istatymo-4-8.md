@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.70288B71780F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.70288B71780F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 4, 8, 29, 30, 31 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F))
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
@@ -48,19 +48,19 @@ Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
 2. Šio straipsnio 1 dalyje nurodyti asmenys draudžiami, jei jiems už darbą mokamas darbo užmokestis.“
 
-\#### 2 straipsnis. 8 straipsnio 1 dalies 2 punkto pakeitimas
+## 2 straipsnis. 8 straipsnio 1 dalies 2 punkto pakeitimas
 
 8 straipsnio 1 dalies 2 punkte vietoj žodžių „Žmonių saugos darbe“ įrašyti žodžius „Darbuotojų saugos ir sveikatos“ ir šį punktą išdėstyti taip:
 
 „2) įstatymų nustatyta tvarka pranešti apie nelaimingą atsitikimą darbe, susirgimą profesine liga Darbuotojų saugos ir sveikatos įstatymo nustatytoms institucijoms bei valstybinio socialinio draudimo įstaigai;“.
 
-\#### 3 straipsnis. 29 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 29 straipsnio 1 dalies pakeitimas
 
 29 straipsnio 1 dalyje vietoj žodžių „susirgimo profesine liga“ įrašyti žodžius „profesinės ligos nustatymo“ ir šią dalį išdėstyti taip:
 
 „1. Draudimo išmokos apdraustajam mokamos nuo draudiminio įvykio (nelaimingo atsitikimo darbe ar profesinės ligos nustatymo) dienos.“
 
-\#### 4 straipsnis. 30 straipsnio 1 dalies pakeitimas ir papildymas
+## 4 straipsnis. 30 straipsnio 1 dalies pakeitimas ir papildymas
 
 30 straipsnio 1 dalyje po žodžio „darbe“ įrašyti žodžius „ar ūmios profesinės ligos“, vietoj žodžių „pripažinto draudiminiu įvykiu“ įrašyti žodžius „pripažintų draudiminiais įvykiais“ ir šią dalį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
 4) invalidams – invalidumo laikotarpiu.“
 
-\#### 5 straipsnis. 31 straipsnio 1 dalies pakeitimas ir papildymas
+## 5 straipsnis. 31 straipsnio 1 dalies pakeitimas ir papildymas
 
 31 straipsnio 1 dalyje vietoj žodžio „žuvus“ įrašyti žodį „mirus“, po žodžio „darbe“ įrašyti žodžius „ar ūmios profesinės ligos“, vietoj žodžių „pripažinto draudiminiu įvykiu“ įrašyti žodžius „pripažintų draudiminiais įvykiais“, vietoj žodžio „žuvusiojo“ įrašyti žodį „mirusiojo“ ir šią dalį išdėstyti taip:
 

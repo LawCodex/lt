@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B57FFE1E8C8A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B57FFE1E8C8A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 ir 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [65-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4); 1999, Nr. [48-1522](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F8B117346DA); 2000, Nr. [5-128](https://www.e-tar.lt/portal/lt/legalAct/TAR.E7CEA6C8EAAC), Nr. [64-1934](https://www.e-tar.lt/portal/lt/legalAct/TAR.01A09561A28B); 2001, Nr. [71-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.88B95BAFAD55); 2002, Nr. [5-161](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF38D543B3BA), Nr. [40-1464](https://www.e-tar.lt/portal/lt/legalAct/TAR.EF2985211EF2), Nr. [41-1526](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A5C5BD12DF), Nr. [102-4552](https://www.e-tar.lt/portal/lt/legalAct/TAR.589B558A2903); 2003, Nr. [101-4542](https://www.e-tar.lt/portal/lt/legalAct/TAR.64E7997DADB5); 2005, Nr. [72-2588](https://www.e-tar.lt/portal/lt/legalAct/TAR.B1A9DF157DD8); 2006, Nr. [125-4750](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4A6802773D8); 2009, Nr. [61-2407](https://www.e-tar.lt/portal/lt/legalAct/TAR.6748AEE543A4))
 
-\#### 1 straipsnis. 4 straipsnio 11 ir 13 dalių pakeitimas
+## 1 straipsnis. 4 straipsnio 11 ir 13 dalių pakeitimas
 
 1. Pakeisti 4 straipsnio 11 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „13. Laisvos žemės fondo žemė, kurią nuo 2004 m. rugpjūčio 7 d. naudoja valstybės paramos įsigyjant žemės ūkio paskirties žemę subjektai, atitinkantys Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 2 straipsnyje nurodytas sąlygas, gali būti perduodama nuosavybėn neatlygintinai lygiaverčio ploto turėtam žemės plotui tik šiems piliečiams.“
 
-\#### 2 straipsnis. 21 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 21 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 21 straipsnį nauja 6 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. Buvusias 21 straipsnio 6, 7, 8, 9 ir 10 dalis laikyti atitinkamai 7, 8, 9, 10 ir 11 dalimis.
 
-\#### 3 straipsnis. Baigiamosios nuostatos
+## 3 straipsnis. Baigiamosios nuostatos
 
 1. Jeigu iki šio įstatymo įsigaliojimo priimtas sprendimas dėl žemės reformos žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo, nuosavybės teisių atkūrimo procedūros asmenims perduodant nuosavybėn neatlygintinai lygiaverčius žemės sklypus yra baigiamos pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas.
 

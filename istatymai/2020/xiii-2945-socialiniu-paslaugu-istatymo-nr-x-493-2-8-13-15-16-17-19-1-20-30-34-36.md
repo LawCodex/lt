@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/57542b20a19e11ea9515f752ff221ec9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.57542B20A19E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 8, 13, 15, 16, 17, 19-1, 20, 30, 34, 36 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-2, 25-1, 25-2 straipsniais įstatymas

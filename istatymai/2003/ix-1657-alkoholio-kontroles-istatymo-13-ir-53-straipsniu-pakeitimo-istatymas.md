@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0C43ED860026"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0C43ED860026.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 13 ir 53 straipsnių pakeitimo įstatymas
@@ -30,13 +30,13 @@ Vilnius
 
 2000, Nr. 64-1939; 2002, Nr. 65-2632)
 
-\#### 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 4 dalies pakeitimas
 
 Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „Akcinėms bendrovėms, kuriose valstybei iki jų privatizavimo nuosavybės teise priklausė akcijų, suteikiančių ne mažiau kaip 2/3 visų balsų, suteikiama teisė gaminti iki valstybei priklausiusių akcijų privatizavimo gamintus alkoholio produktus šio įstatymo ir kitų teisės aktų nustatyta tvarka.“
 
-\#### 2 straipsnis. 53 straipsnio pakeitimas
+## 2 straipsnis. 53 straipsnio pakeitimas
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
 

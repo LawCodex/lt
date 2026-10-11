@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D987BA38C086"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D987BA38C086.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 2, 4, 5, 7, 9, 10, 13, 18, 20, 21, 26 straipsnių bei priedo pakeitimo ir papildymo ir 28 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. 65-2635; 2004, Nr. 54-1829; 2005, Nr. 18-578; 2008, Nr. 15-512, Nr. 121-4589)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 3. Buvusias 2 straipsnio 17 ir 18 dalis laikyti atitinkamai 18 ir 19 dalimis.
 
-\#### 2 straipsnis. 4 straipsnio papildymas 4 dalimi
+## 2 straipsnis. 4 straipsnio papildymas 4 dalimi
 
 Papildyti 4 straipsnį 4 dalimi:
 
 „4. Draudimo įmonė bendradarbiauja su užsienio draudimo įmone tos užsienio valstybės, kurioje bankas arba įmonė yra įsteigusi savo filialą arba kurios jurisdikcijai priklausantis bankas arba įmonė yra įsteigusi filialą Lietuvos Respublikoje.“
 
-\#### 3 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
+## 3 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -52,13 +52,13 @@ Papildyti 4 straipsnį 4 dalimi:
 
 „3. Įsipareigojimų investuotojui draudimo suma yra lygi banko ar įmonės, taip pat banko filiale ar įmonės filiale prisiimtiems įsipareigojimams investuotojui draudžiamojo įvykio dieną, tačiau ji negali būti didesnė kaip 22 000 eurų atitinkanti suma litais.“
 
-\#### 4 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 7 straipsnio 2 dalyje po žodžio „metus“ įrašyti žodžius „klientų sąskaita“ ir šią dalį išdėstyti taip:
 
 „2. Įmonės, vykdančios pavedimus klientų sąskaita, papildomai moka metinės įmokos dalį – 0,01 procento per praėjusius kalendorinius metus klientų sąskaita įvykdytų pavedimų bendros vertės, tačiau ši dalis turi būti ne mažesnė kaip 1 000 litų ir ne didesnė kaip 10 000 litų.“
 
-\#### 5 straipsnis. 9 straipsnio 3 dalies pakeitimas
+## 5 straipsnis. 9 straipsnio 3 dalies pakeitimas
 
 Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2) 100 procentų indėlio iki 100 000 eurų atitinkančios sumos litais.“
 
-\#### 6 straipsnis. 10 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
+## 6 straipsnis. 10 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „6. Draudėjai draudimo įmonės reikalavimu privalo draudimo įmonei pateikti duomenis, reikalingus draudimo išmokoms apskaičiuoti.“
 
-\#### 7 straipsnis. 13 straipsnio pakeitimas
+## 7 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 2. Draudimo sąlygos negali būti konkurencijos priemonė, naudojama reklamoje. Reklamoje leidžiama nurodyti tik draudimo įmonę arba užsienio draudimo įmonę, kurioje apdrausti indėliai ir įsipareigojimai investuotojams.“
 
-\#### 8 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 1. 18 straipsnio 6 punkte po žodžio „popierius“ įrašyti žodžius „ir indėlius Lietuvos banke“ ir šį punktą išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 3. Buvusį 18 straipsnio 7 punktą laikyti 8 punktu.
 
-\#### 9 straipsnis. 20 straipsnio 1 dalies pakeitimas ir papildymas
+## 9 straipsnis. 20 straipsnio 1 dalies pakeitimas ir papildymas
 
 1. Papildyti 20 straipsnio 1 dalį nauju 7 punktu:
 
@@ -112,33 +112,33 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 „8) gauti iš draudėjų priežiūros institucijų šią informaciją: apie draudėjams pritaikytas poveikio priemones; apie nustatytas problemas, galinčias sukelti draudžiamąjį įvykį; apie teisės priimti indėlius bankams, kredito unijoms, bankų filialams išdavimą ir atšaukimą; apie bankams, įmonėms, kredito unijoms bei bankų ir įmonių filialams suteiktas teises;“.
 
-\#### 10 straipsnis. 21 straipsnio 2 dalies pakeitimas
+## 10 straipsnis. 21 straipsnio 2 dalies pakeitimas
 
 Pakeisti 21 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Tarybą sudaro 6 nariai. Finansų ministras skiria 3 narius, Lietuvos banko valdybos pirmininkas – 2 narius, Lietuvos Respublikos vertybinių popierių komisijos pirmininkas – 1 narį. Tarybos sudėtį tvirtina finansų ministras. Tarybos sutikimu posėdžiuose patariamojo balso teise gali dalyvauti po vieną bankų, finansų maklerių, valdymo įmonių ir kredito unijų asociacijų atstovą. Už tarybos narių darbą apmoka juos delegavusios institucijos.“
 
-\#### 11 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 26 straipsnio 1 dalyje po žodžio „popierius” įrašyti žodžius „ir indėlius Lietuvos banke“ ir šią dalį išdėstyti taip:
 
 „1. Draudimo įmonės nuosavo kapitalo lėšos ir administruojami fondai gali būti investuojami draudimo įmonės tarybos nustatyta tvarka į tarybos nustatytų valstybių vyriausybių ir centrinių bankų vertybinius popierius ir indėlius Lietuvos banke.“
 
-\#### 12 straipsnis. 28 straipsnio pripažinimas netekusiu galios
+## 12 straipsnis. 28 straipsnio pripažinimas netekusiu galios
 
 28 straipsnį pripažinti netekusiu galios.
 
-\#### 13 straipsnis. Įstatymo priedo papildymas 3 punktu
+## 13 straipsnis. Įstatymo priedo papildymas 3 punktu
 
 Papildyti Įstatymo priedą 3 punktu:
 
 „3. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas dėl kompensacijų lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas
+## 14 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 6 straipsnio 1 dalis įsigalioja 2010 m. gruodžio 31 d.
 
-\#### 15 straipsnis. Įstatymo įgyvendinimas
+## 15 straipsnis. Įstatymo įgyvendinimas
 
 1. Lietuvos Respublikos Vyriausybė ir draudimo įmonės taryba per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos priima ir pakeičia šio įstatymo įgyvendinamuosius teisės aktus.
 

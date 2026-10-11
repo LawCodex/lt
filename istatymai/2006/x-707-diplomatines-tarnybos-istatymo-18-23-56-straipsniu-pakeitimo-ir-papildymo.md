@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FB0A9856B801"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FB0A9856B801.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 18, 23, 56 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9); 2003, Nr. [38-1676](https://www.e-tar.lt/portal/lt/legalAct/TAR.15D704F79271); 2004, Nr. [170-6236](https://www.e-tar.lt/portal/lt/legalAct/TAR.810096E93D62))
 
-\#### 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 18 straipsnio 1 dalies pakeitimas
 
 18 straipsnio 1 dalyje vietoj skaičių ir žodžių „2 ir 3 dalyse“ įrašyti skaičius ir žodžius „2, 3 ir 4 dalyse“ ir šią dalį išdėstyti taip:
 
 „1. Asmenys, išskyrus Lietuvos Respublikos diplomatinius atstovus bei asmenis, nurodytus šio įstatymo 23 straipsnio 2, 3 ir 4 dalyse, į Lietuvos Respublikos diplomatinę tarnybą priimami konkurso būdu. Konkurso nuostatus tvirtina užsienio reikalų ministras.“
 
-\#### 2 straipsnis. 23 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 23 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 23 straipsnį nauja 4 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 2. Buvusias 23 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 3 straipsnis. 56 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 56 straipsnio 2 dalies pakeitimas
 
 56 straipsnio 2 dalyje po žodžių „kartu gyvena jo“ įrašyti žodžius „ir (ar) jo sutuoktinio“ ir šią dalį išdėstyti taip:
 

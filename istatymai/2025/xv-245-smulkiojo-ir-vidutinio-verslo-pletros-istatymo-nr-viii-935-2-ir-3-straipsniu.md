@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b3df7eb04ab511f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B3DF7EB04AB5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 ir 3 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ SMULKIOJO IR VIDUTINIO VERSLO PLĖTROS ĮSTATYMO NR. VIII-935 2 IR 3 STRAIPSNIŲ
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip:
 
 „17. **Startuolis** – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registro informacinėje sistemoje registruota ne ilgiau kaip 5 metus arba, jeigu vykdo mokslinius tyrimus ir eksperimentinę plėtrą, – ne ilgiau kaip 10 metų.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip:
 
 „11. Įmonės, turinčios patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nėra patvirtinti, šio straipsnio 1, 2 ir 3 dalyse nustatytų sąlygų atitiktis nustatoma pagal vidutinį metinį darbuotojų skaičių, finansinius duomenis (pasirinktinai – balanse nurodyto turto vertę arba metines pajamas) nuo įmonės įregistravimo Juridinių asmenų registro informacinėje sistemoje ir planuojamus finansinių metų duomenis.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2025 m. liepos 1 d.
 

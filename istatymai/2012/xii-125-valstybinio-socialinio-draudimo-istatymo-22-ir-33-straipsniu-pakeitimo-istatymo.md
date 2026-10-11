@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A19D080A4F13"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A19D080A4F13.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 22 ir 33 straipsnių pakeitimo įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2009, Nr. [77-3171](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8FDB5578B69); 2012, Nr. [127-6392](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFF7A2B6156A))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja
 
 Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir vykdo jų panaudojimo kontrolę.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 

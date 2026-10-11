@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F84C1050A429"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F84C1050A429.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo bei Valstybinio socialinio draudimo įstatymo pakeitimo ir papildymo įstatymas
@@ -22,13 +22,11 @@ LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO, NELAIMI
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 9, 11, 12, 22 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS BEI ĮSTATYMO PAPILDYMAS NAUJU IV SKIRSNIU
+## PIRMASIS SKIRSNIS. LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 9, 11, 12, 22 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS BEI ĮSTATYMO PAPILDYMAS NAUJU IV SKIRSNIU
 
 (Žin., 2000, Nr. [111-3574](https://www.e-tar.lt/portal/lt/legalAct/TAR.068516AF734B); 2002, Nr. [13-469](https://www.e-tar.lt/portal/lt/legalAct/TAR.8650B5014E08); 2004, Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+### 1 straipsnis. 2 straipsnio pakeitimas
 
 2 straipsnyje po žodžio „prarastų“ įrašyti žodžius „ar dėl dalyvavimo profesinės reabilitacijos programoje negautų“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +34,7 @@ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 9, 11, 12, 22 
 
 Ligos ir motinystės socialinis draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl jų pačių arba šeimos narių ligos, taip pat dėl motinystės, motinystės (tėvystės) dalį prarastų ar dėl dalyvavimo profesinės reabilitacijos programoje negautų darbo pajamų.“
 
-\#### 2 straipsnis. 3 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
+### 2 straipsnis. 3 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
 
 1. 3 straipsnio 2 dalyje po žodžių „(įskaitant darbdavio mokamas 2 pirmąsias ligos dienas)“ įrašyti žodžius „profesinės reabilitacijos“ ir šią dalį išdėstyti taip:
 
@@ -54,7 +52,7 @@ Ligos ir motinystės socialinis draudimas įstatymų nustatytais atvejais kompen
 
 „5. **Pašalpos gavėjas** – fizinis asmuo, kuris turi teisę gauti įstatymų nustatytas ligos, profesinės reabilitacijos, motinystės ar motinystės (tėvystės) pašalpas.“
 
-\#### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,7 +62,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir Valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalyje), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“
 
-\#### 4 straipsnis. 5 straipsnio pavadinimo ir 1 dalies pakeitimas bei šio straipsnio papildymas 4 dalimi
+### 4 straipsnis. 5 straipsnio pavadinimo ir 1 dalies pakeitimas bei šio straipsnio papildymas 4 dalimi
 
 1. Pakeisti 5 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -78,7 +76,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „4. Profesinės reabilitacijos pašalpos skiriamos ir mokamos turintiems teisę jas gauti apdraustiesiems asmenims, kuriems Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT) nustatė profesinės reabilitacijos paslaugų poreikį, jeigu šie asmenys dalyvauja profesinės reabilitacijos programoje.“
 
-\#### 5 straipsnis. 7 straipsnio 1 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+### 5 straipsnis. 7 straipsnio 1 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -86,7 +84,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2. 7 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
+### 6 straipsnis. 9 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -96,19 +94,19 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „2. Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos pašalpa šio įstatymo 5 straipsnio 2 dalies 1 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per kalendorinius metus.“
 
-\#### 7 straipsnis. 11 straipsnio 2 dalies pakeitimas
+### 7 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 11 straipsnio 2 dalyje vietoj žodžio „invalidumo“ įrašyti žodžius „netekto darbingumo (invalidumo)“ , po žodžio „pašalpa“ įrašyti žodžius „šio įstatymo“ ir šią dalį išdėstyti taip:
 
 „2. Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos pašalpa šio įstatymo 5 straipsnio 2 dalies 3 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.“
 
-\#### 8 straipsnis. 12 straipsnio 2 dalies pakeitimas
+### 8 straipsnis. 12 straipsnio 2 dalies pakeitimas
 
 12 straipsnio 2 dalyje vietoj žodžio „invalidumo“ įrašyti žodžius „netekto darbingumo (invalidumo)“, po žodžio „pašalpa“ įrašyti žodžius „šio įstatymo“ ir šią dalį išdėstyti taip:
 
 „2. Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos pašalpa šio įstatymo 5 straipsnio 2 dalies 4 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.“
 
-\#### 9 straipsnis. Įstatymo papildymas nauju ketvirtuoju skirsniu
+### 9 straipsnis. Įstatymo papildymas nauju ketvirtuoju skirsniu
 
 Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
@@ -116,7 +114,7 @@ Papildyti Įstatymą nauju ketvirtuoju skirsniu:
 
 PROFESINĖS REABILITACIJOS PAŠALPA
 
-\#### 211 straipsnis. Teisė gauti profesinės reabilitacijos pašalpą
+### 211 straipsnis. Teisė gauti profesinės reabilitacijos pašalpą
 
 1. Teisę gauti profesinės reabilitacijos pašalpą šio įstatymo 5 straipsnio 4 dalyje nurodytu atveju turi šio įstatymo 4 straipsnio 1 dalyje išvardyti apdraustieji asmenys, jeigu jie:
 
@@ -126,13 +124,13 @@ PROFESINĖS REABILITACIJOS PAŠALPA
 
 2. Pagrindas skirti profesinės reabilitacijos pašalpą yra NDNT sprendimas dėl profesinės reabilitacijos paslaugų poreikio nustatymo ir profesinės reabilitacijos pažymėjimas, išduotas vadovaujantis socialinės apsaugos ir darbo ministro patvirtintomis Profesinės reabilitacijos pažymėjimų davimo taisyklėmis.
 
-\#### 212 straipsnis. Profesinės reabilitacijos pašalpos mokėjimas
+### 212 straipsnis. Profesinės reabilitacijos pašalpos mokėjimas
 
 1. Profesinės reabilitacijos pašalpa turinčiam teisę ją gauti asmeniui skiriama už dalyvavimo profesinės reabilitacijos programoje laikotarpį ir mokama nuo pirmosios dalyvavimo profesinės reabilitacijos programoje dienos, kol asmuo taps darbingu arba bus pripažintas nedarbingu ar iš dalies darbingu, bet ne ilgiau kaip 180 kalendorinių dienų. Ši pašalpa mokama kiekvieną mėnesį (už praėjusį mėnesį).
 
 2. Profesinės reabilitacijos pašalpa neturinčiam pagal šį įstatymą teisės ją gauti asmeniui skiriama už dalyvavimo profesinės reabilitacijos programoje laikotarpį ir mokama Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų.
 
-\#### 213 straipsnis. Profesinės reabilitacijos pašalpos dydis
+### 213 straipsnis. Profesinės reabilitacijos pašalpos dydis
 
 1. Profesinės reabilitacijos pašalpa, mokama pagal šį įstatymą, lygi 85 procentams pašalpos gavėjo kompensuojamojo uždarbio.
 
@@ -140,31 +138,29 @@ PROFESINĖS REABILITACIJOS PAŠALPA
 
 3. Profesinės reabilitacijos pašalpa apskaičiuojama ir mokama Vyriausybės patvirtintų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka. Ši pašalpa mokama iš Valstybinio socialinio draudimo fondo lėšų.
 
-\#### 214 straipsnis. Profesinės reabilitacijos pašalpos nemokėjimas
+### 214 straipsnis. Profesinės reabilitacijos pašalpos nemokėjimas
 
 Jei asmuo nedalyvauja profesinės reabilitacijos programoje, profesinės reabilitacijos pašalpa neskiriama, nepaisant to, kad asmeniui nustatytas profesinės reabilitacijos paslaugų poreikis ir išduotas profesinės reabilitacijos pažymėjimas, o paskirtosios mokėjimas nutraukiamas Vyriausybės patvirtintų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
 
-\#### 215 straipsnis. Reabilitacijos pašalpos mokėjimo atnaujinimas
+### 215 straipsnis. Reabilitacijos pašalpos mokėjimo atnaujinimas
 
 Nutrauktos profesinės reabilitacijos pašalpos mokėjimas Vyriausybės patvirtintų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka atnaujinamas nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės reabilitacijos programą.“
 
-\#### 10 straipsnis. Įstatymo ketvirtojo ir penktojo skirsnių numeracijos pakeitimas
+### 10 straipsnis. Įstatymo ketvirtojo ir penktojo skirsnių numeracijos pakeitimas
 
 Įstatymo ketvirtąjį ir penktąjį skirsnius atitinkamai laikyti penktuoju ir šeštuoju skirsniais.
 
-\#### 11 straipsnis. 22 straipsnio 3 dalies pakeitimas
+### 11 straipsnis. 22 straipsnio 3 dalies pakeitimas
 
 22 straipsnio 3 dalyje po žodžių „nurodytoms ligos“ įrašyti žodžius „profesinės reabilitacijos“ ir šią dalį išdėstyti taip:
 
 „3. Ligos ir motinystės socialinio draudimo išlaidas sudaro lėšos, skirtos šio įstatymo 5 straipsnyje nurodytoms ligos, profesinės reabilitacijos, motinystės ir motinystės (tėvystės)pašalpoms mokėti.“
 
-\### ANTRASIS SKIRSNIS
-
-NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 7, 14, 21, 22, 23, 24, 25, 26, 27 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
+## ANTRASIS SKIRSNIS. NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 7, 14, 21, 22, 23, 24, 25, 26, 27 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1999, Nr. [110-3207](https://www.e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F); 2003, Nr. [114-5114](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E0C66E475F9); 2004, Nr. [98-3624](https://www.e-tar.lt/portal/lt/legalAct/TAR.8FFD82C82278), Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62), 6311)
 
-\#### 1 straipsnis. 3 straipsnio 2, 3, 8, 9 dalių pakeitimas ir papildymas
+### 1 straipsnis. 3 straipsnio 2, 3, 8, 9 dalių pakeitimas ir papildymas
 
 1. Pakeisti 3 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 
@@ -182,7 +178,7 @@ NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO
 
 **„****9****.** **Kompensavimo koeficientas (k) nelaimingo atsitikimo darbe, pakeliui į darbą ar iš** **darbo arba ūmios profesinės ligos atveju** – asmens vidutinių mėnesinių draudžiamųjų pajamų per paskutinius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo pabaigos užpraeito kalendorinio ketvirčio, buvusio prieš nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos nustatymo mėnesį, santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo metu galiojančiomis einamųjų metų draudžiamosiomis pajamomis. Šis koeficientas taip pat taikomas skaičiuojant netekto darbingumo periodinę kompensaciją, kai asmuo, kuriam nustatyta lėtinė profesinė liga, pagal Valstybinių socialinio draudimo pensijų įstatymą neturi teisės gauti netekto darbingumo (invalidumo) arba senatvės pensijos.“
 
-\#### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
+### 2 straipsnis. 4 straipsnio 1 dalies pakeitimas
 
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -198,19 +194,19 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 5) nuteistieji laisvės atėmimu – šių asmenų darbo laikui.“
 
-\#### 3 straipsnis. 7 straipsnio 2 dalies 6 punkto papildymas
+### 3 straipsnis. 7 straipsnio 2 dalies 6 punkto papildymas
 
 7 straipsnio 2 dalies 6 punkte po žodžio „darbu“ įrašyti žodžius „išskyrus atvejus, kai nelaimingas atsitikimas įvyksta pakeliui į darbą ar iš darbo“ ir šį punktą išdėstyti taip:
 
 „6) prieš apdraustąjį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvainesusiję su darbu, išskyrus atvejus, kai nelaimingas atsitikimas įvyksta pakeliui į darbą ar iš darbo.“
 
-\#### 4 straipsnis. 14 straipsnio 1 dalies pakeitimas
+### 4 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Ligos pašalpa mokama už visą laikotarpį, patvirtintą nustatyta tvarka išduotu nedarbingumo pažymėjimu, nuo pirmos laikinojo nedarbingumo dienos iki darbingumo atgavimodienos arba darbingumo lygio nustatymo dienos, taip pat ir už gydymosi laiką sveikatos priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas.Tuo atveju, kai NDNT nustato profesinės reabilitacijos paslaugų poreikį, ligos pašalpa mokama iki pirmos dalyvavimo profesinės reabilitacijos programoje dienos.“
 
-\#### 5 straipsnis. 21 straipsnio 1, 2, 5 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
+### 5 straipsnis. 21 straipsnio 1, 2, 5 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. 21 straipsnio 1 dalyje vietoj santrumpos „VMSEK“ įrašyti santrumpą „NDNT“ ir šią dalį išdėstyti taip:
 
@@ -226,7 +222,7 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4. 21 straipsnio 6 dalį pripažinti netekusia galios.
 
-\#### 6 straipsnis. 22 straipsnio pakeitimas
+### 6 straipsnis. 22 straipsnio pakeitimas
 
 22 straipsnyje vietoj santrumpos „VMSEK“ įrašyti santrumpą „NDNT“ ir šį straipsnį išdėstyti taip:
 
@@ -234,7 +230,7 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 
 Netekto darbingumo periodinė kompensacija mokama iki NDNTnustatyto darbingumo netekimo termino pabaigos.“
 
-\#### 7 straipsnis. 23 straipsnio pakeitimas
+### 7 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -242,7 +238,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai sumažina apdraustajam išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo profesine liga, jeigu NDNT iš naujo nustato, kad apdraustojo netektas darbingumas sumažėjo. Jei darbingumo netekimas dėl draudiminio įvykio buvo nustatytas teismo sprendimu, draudimo išmoka šiame straipsnyje nustatytu atveju gali būti atitinkamai sumažinta tik teismo tvarka.“
 
-\#### 8 straipsnis. 24 straipsnio pakeitimas
+### 8 straipsnis. 24 straipsnio pakeitimas
 
 24 straipsnyje vietoj santrumpos „VMSEK“ įrašyti santrumpą „NDNT“ ir šį straipsnį išdėstyti taip:
 
@@ -250,7 +246,7 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai s
 
 Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai padidina išmokos dydį apdraustajam, netekusiam darbingumo dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo profesine liga, jeigu NDNT iš naujo nustato, kad apdraustojo netektas darbingumas padidėjo.“
 
-\#### 9 straipsnis. 25 straipsnio 2 ir 3 dalių pakeitimas
+### 9 straipsnis. 25 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 25 straipsnio 2 dalyje vietoj santrumpos „VMSEK“ įrašyti santrumpą „NDNT“ ir šią dalį išdėstyti taip:
 
@@ -260,7 +256,7 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai p
 
 „3. Netekto darbingumo periodinė kompensacija skiriama nuo NDNT darbingumo netekimo nustatymo dienos, jeigu dėl jos kreipiamasi per 3 metus nuo teisės į šią išmoką atsiradimo dienos. Jeigu asmuo dėl netekto darbingumo periodinės kompensacijos kreipiasi praėjus 3 metams, išmoka už praėjusį laiką mokama už 12 mėnesių, skaičiuojant atgal nuo kreipimosi dienos.“
 
-\#### 10 straipsnis. 26 straipsnio 1 dalies 4 ir 5 punktų pakeitimas
+### 10 straipsnis. 26 straipsnio 1 dalies 4 ir 5 punktų pakeitimas
 
 1. Pakeisti 26 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -270,37 +266,35 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai p
 
 „5) kitiems pripažintiems nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) arba sukakusiems senatvės pensijos amžių asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo gauti jo išlaikymą. Šių asmenų išlaikymo ar teisių į išlaikymą faktas įrodomas teismo tvarka, o jų nedarbingumo faktas nustatomas NDNT arba teismo sprendimu.“
 
-\#### 11 straipsnis. 27 straipsnio 2 dalies pakeitimas
+### 11 straipsnis. 27 straipsnio 2 dalies pakeitimas
 
 27 straipsnio 2 dalyje vietoj žodžių „tapo invalidais“ įrašyti žodžius „pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais)“ ir šią dalį išdėstyti taip:
 
 „2. Mirusiojo šeimos nariais laikomi jo sutuoktinis, nepilnamečiai vaikai (įvaikiai), kol jiems sukaks 18 metų, taip pat besimokantys nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose, kol jiems sukaks 24 metai, mirusiojo vaikai (įvaikiai), vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikai, gimę po jo mirties, tėvas (įtėvis) ir motina (įmotė).“
 
-\### TREČIASIS SKIRSNIS
-
-ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO 2, 7, 11, 12, 14, 15, 16, 17, 18(1), 22 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
+## TREČIASIS SKIRSNIS. ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO 2, 7, 11, 12, 14, 15, 16, 17, 18(1), 22 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1997, Nr. [67-1656](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8); 1999, Nr. [102-2918](https://www.e-tar.lt/portal/lt/legalAct/TAR.36D3D6622CFA); 2001, Nr. [48-1660](https://www.e-tar.lt/portal/lt/legalAct/TAR.7390D2DE95E0); 2002, Nr. [102-4546](https://www.e-tar.lt/portal/lt/legalAct/TAR.19C29F1E7E23); 2002, Nr. [123-5535](https://www.e-tar.lt/portal/lt/legalAct/TAR.A67EC51F0EB9); 2003, Nr. [47-2064](https://www.e-tar.lt/portal/lt/legalAct/TAR.B47BA891E221))
 
-\#### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas
+### 1 straipsnis. 2 straipsnio 8 dalies pakeitimas
 
 Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. **Darbingumo netekimas** – darbingumo netekimas dėl nelaimingo atsitikimo darbe arba dėl susirgimo profesine liga. Netektas darbingumas išreiškiamas procentais. Jei nukentėjusysis miršta dėl nelaimingo atsitikimo darbe, laikoma, kad netekta 100 procentų darbingumo. Darbingumo netekimo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga procentą nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT). Nukentėjusiajam dėl kelių įvykių nustatomas darbingumo netekimo procentas dėl kiekvieno įvykio atskirai.“
 
-\#### 2 straipsnis. 7 straipsnio 1 dalies 3 punkto pakeitimas
+### 2 straipsnis. 7 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 7 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) asmenims, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), – nedarbingumo ar dalinio darbingumo (invalidumo) laiku;“.
 
-\#### 3 straipsnis. 11 straipsnio 1 dalies pakeitimas
+### 3 straipsnis. 11 straipsnio 1 dalies pakeitimas
 
 11 straipsnio 1 dalyje po žodžio „Darbuotojo“ įrašyti žodžius „ir valstybės tarnautojo“ ir šią dalį išdėstyti taip:
 
 „1. Nukentėjusiojo vidutinis darbo užmokestis apskaičiuojamas laikantis Vyriausybės patvirtintos Darbuotojoir valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos pagal darbo užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo profesine liga nustatymo.“
 
-\#### 4 straipsnis. 12 straipsnio papildymas nauja 5 dalimi
+### 4 straipsnis. 12 straipsnio papildymas nauja 5 dalimi
 
 1. Papildyti 12 straipsnį nauja 5 dalimi:
 
@@ -308,7 +302,7 @@ Pakeisti 7 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 2. Buvusią 12 straipsnio 5 dalį laikyti 6 dalimi.
 
-\#### 5 straipsnis. 14 straipsnio pakeitimas
+### 5 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -320,7 +314,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu nukentėjusiajam, gaunančiam periodinę netekto darbingumo kompensaciją, netekto darbingumo procentai pakartotinai sumažėja iki šio įstatymo 12 straipsnio 1 dalyje nustatyto dydžio, vienkartinė netekto darbingumo kompensacija mokama šio įstatymo 12 straipsnio 5 dalyje nustatyta tvarka.“
 
-\#### 6 straipsnis. 15 straipsnio pakeitimas
+### 6 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnyje vietoj santrumpos „VMSEK“ įrašyti santrumpą „NDNT“ ir šį straipsnį išdėstyti taip:
 
@@ -328,7 +322,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 Periodinė netekto darbingumo kompensacija mokama iki NDNT nustatyto darbingumo netekimo termino pabaigos.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas
+### 7 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -336,7 +330,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 Žalos atlyginimo mokėtojas turi teisę atitinkamai sumažinti nukentėjusiajam žalos atlyginimą dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga, jeigu NDNT iš naujo nustato, kad nukentėjusiojo netekto darbingumo procentai sumažėjo. Jeigu žalos atlyginimas buvo nustatytas teismo sprendimu, jis šiame straipsnyje nustatytu atveju gali būti atitinkamai sumažintas tik teismine tvarka.“
 
-\#### 8 straipsnis. 17 straipsnio pakeitimas
+### 8 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnyje vietoj žodžių „VMSEK naujai nustato, kad jo netektas darbingumas padidėjo“ įrašyti žodžius „NDNT iš naujo nustato, kad jo netekto darbingumo procentai padidėjo“ ir šį straipsnį išdėstyti taip:
 
@@ -344,31 +338,29 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 Iš dalies netekęs darbingumo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga asmuo turi teisę bet kada reikalauti, kad žalos atlyginimo mokėtojas atitinkamai padidintų žalos atlyginimą, jeigu NDNT iš naujo nustato, kad jo netekto darbingumo procentai padidėjo.“
 
-\#### 9 straipsnis. 181 straipsnio 1 dalies 3 punkto pakeitimas
+### 9 straipsnis. 181 straipsnio 1 dalies 3 punkto pakeitimas
 
 18^1 straipsnio 1 dalies 3 punkte vietoj santrumpos „VMSEK“ įrašyti santrumpą „NDNT“ ir šį punktą išdėstyti taip:
 
 „3) kai nukentėjusieji susirgo profesine liga arba buvo sužaloti dėl nelaimingo atsitikimo darbe, dirbdami buvusiose valstybinėse įmonėse ir buvusiose žemės ūkio įmonėse (kolūkiuose, valstybiniuose ūkiuose) iki jų privatizavimo (valstybinių, valstybinių akcinių įmonių ir buvusių žemės ūkio įmonių, reorganizuotų į akcines bendroves, uždarąsias akcines bendroves ar žemės ūkio bendroves, – įregistravimo įmonių rejestre datos). Nustačius profesinę ligą po įmonės privatizavimo, nukentėjusiesiems, dirbantiems toje pačioje ar kitoje įmonėje, kurioje darbo aplinka dėl jos kenksmingo veiksnio (veiksnių) poveikio taip pat turėjo įtakos darbuotojo sveikatos sutrikimui, valstybė atlygina tą darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo sąlygas ir toje įmonėj dirbtą laiką. Kitą darbingumo netekimo dalį atlygina įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine liga. Darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato NDNT. Kilus ginčui, darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju nustato teismas;“.
 
-\#### 10 straipsnis. 22 straipsnio 1 dalies pakeitimas
+### 10 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Žalos atlyginimas nukentėjusiajam mokamas nuo darbingumo netekimo (dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga) nustatymo dienos, jeigu dėl netekto darbingumo kompensacijos skyrimo kreipiamasi per 3 metus nuo teisės į kompensaciją atsiradimo dienos.“
 
-\### KETVIRTASIS SKIRSNIS
-
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 8, 29 IR 31 STRAIPSNIŲ PAKEITIMAS
+## KETVIRTASIS SKIRSNIS. VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 8, 29 IR 31 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 2004, Nr. [171-6295](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB8D4779ABE1))
 
-\#### 1 straipsnis. 4 straipsnio 4 dalies 4 punkto pakeitimas
+### 1 straipsnis. 4 straipsnio 4 dalies 4 punkto pakeitimas
 
 Pakeisti 4 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuose nurodytą neįgalų asmenį. Ši nuostata taip pat taikoma vienam iš tėvų, globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d.“
 
-\#### 2 straipsnis. 8 straipsnio 2 dalies 1 ir 3 punktų pakeitimas
+### 2 straipsnis. 8 straipsnio 2 dalies 1 ir 3 punktų pakeitimas
 
 1. 8 straipsnio 2 dalies 1 punkte vietoj žodžio „invalidumo“ įrašyti žodžius „netekto darbingumo (invalidumo)“ ir šį punktą išdėstyti taip:
 
@@ -378,7 +370,7 @@ Pakeisti 4 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „3) gauna su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo)pensiją iš Europos Sąjungos valstybės narės, taip pat iš šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;“.
 
-\#### 3 straipsnis. 29 straipsnio 2 dalies 9 ir 10 punktų pakeitimas
+### 3 straipsnis. 29 straipsnio 2 dalies 9 ir 10 punktų pakeitimas
 
 Pakeisti 29 straipsnio 2 dalies 9 ir 10 punktus ir juos išdėstyti taip:
 
@@ -386,7 +378,7 @@ Pakeisti 29 straipsnio 2 dalies 9 ir 10 punktus ir juos išdėstyti taip:
 
 10) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ginčyti darbingumo lygio (darbingumo netekimo), jo priežasties, atsiradimo laiko ir termino nustatymo teisingumą;“.
 
-\#### 4 straipsnis. 31 straipsnio 1 dalies 14 ir 15 punktų pakeitimas
+### 4 straipsnis. 31 straipsnio 1 dalies 14 ir 15 punktų pakeitimas
 
 Pakeisti 31 straipsnio 1 dalies 14 ir 15 punktus ir juos išdėstyti taip:
 
@@ -394,13 +386,13 @@ Pakeisti 31 straipsnio 1 dalies 14 ir 15 punktus ir juos išdėstyti taip:
 
 15) tikrina bei Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ginčija darbingumo lygio (darbingumo netekimo), jo priežasties, atsiradimo laiko ir termino nustatymo pagrįstumą ir teisingumą;“.
 
-\### PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo įsigaliojimas
+### 1 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2005 m. liepos 1 d.
 
-\#### 2 straipsnis. Pasiūlymas Vyriausybei
+### 2 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė iki 2005 m. birželio 30 d. parengia ir patvirtinta teisės aktus, būtinus šiam įstatymui įgyvendinti.
 

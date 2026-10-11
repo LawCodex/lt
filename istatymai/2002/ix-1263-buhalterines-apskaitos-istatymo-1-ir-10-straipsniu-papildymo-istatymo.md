@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.25A3A951B261"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25A3A951B261.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 ir 10 straipsnių papildymo įstatymo pripažinimo netekusiu galios ir Buhalterinės apskaitos įstatymo 1, 6, 10 ir 13 straipsnių pakeitimo įstatymas
@@ -26,25 +26,21 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO 1 IR 10 STRAIPSNIŲ PAPILDYMO ĮSTATYMO PRIPA�
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-**Buhalterinės apskaitos įstatymo 1 IR 10 STRAIPSNIŲ PAPILDYMO ĮSTATYMO PRIPAŽINIMas NETEKUSIU GALIOS**
+## PIRMASIS SKIRSNIS. Buhalterinės apskaitos įstatymo 1 IR 10 STRAIPSNIŲ PAPILDYMO ĮSTATYMO PRIPAŽINIMas NETEKUSIU GALIOS
 
 (Žin., 2002, Nr. [112-4967](https://www.e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8))
 
-\#### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Įstatymo pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 ir 10 straipsnių papildymo įstatymą.
 
-\### ANTRASIS SKIRSNIS
-
-**LIETUVOS RESPUBLIKOS buhalterinės apskaitos įstatymo**
+## ANTRASIS SKIRSNIS. LIETUVOS RESPUBLIKOS buhalterinės apskaitos įstatymo
 
 **1, 6, 10 ir 13 STRAIPSNIų PAKEITIMAS**
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E), Nr. [110-3995](https://www.e-tar.lt/portal/lt/legalAct/TAR.7900E9A27110))
 
-\#### 1 straipsnis. 1 straipsnio 1 ir 2 dalių pakeitimas
+### 1 straipsnis. 1 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -54,19 +50,19 @@ Pripažinti netekusiu galios Lietuvos Respublikos buhalterinės apskaitos įstat
 
 „2. Ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla, užsienio ūkio subjektų, veikiančių per nuolatinę buveinę Lietuvos Respublikoje, užsienio ūkio subjektų, kurių atstovybės yra Lietuvos Respublikoje, pelno nesiekiančių ribotos civilinės atsakomybės juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija tiek, kiek šis Įstatymas nenustato kitaip.“
 
-\#### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
+### 2 straipsnis. 6 straipsnio 3 dalies pakeitimas
 
 6 straipsnio 3 dalies antro sakinio pradžioje įrašyti žodžius „Gyventojai, kurie verčiasi individualia veikla“ ir šią dalį išdėstyti taip:
 
 „3. Ūkio subjektai, tvarkydami apskaitą, daro dvejybinį įrašą. Gyventojai, kurie verčiasi individualia veikla, neribotos civilinės atsakomybės juridiniai asmenys, kurie nėra pridėtinės vertės mokesčio mokėtojai ir neturi samdomų darbuotojų ataskaitiniais ir praėjusiais ataskaitiniais metais, gali pasirinkti supaprastintą apskaitą. Supaprastintos apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija.“
 
-\#### 3 straipsnis. 10 straipsnio 1 dalies 3 punkto pakeitimas
+### 3 straipsnis. 10 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 10 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) pats savininkas. Ši nuostata taikoma neribotos civilinės atsakomybės juridiniams asmenims, turintiems vieną savininką, bei gyventojams, kurie verčiasi individualia veikla;“.
 
-\#### 4 straipsnis. 13 straipsnio pakeitimas ir papildymas
+### 4 straipsnis. 13 straipsnio pakeitimas ir papildymas
 
 1. 13 straipsnį papildyti nauja 5 dalimi:
 
@@ -74,7 +70,7 @@ Pakeisti 10 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 2. 13 straipsnio buvusią 5 dalį laikyti 6 dalimi.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+### 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

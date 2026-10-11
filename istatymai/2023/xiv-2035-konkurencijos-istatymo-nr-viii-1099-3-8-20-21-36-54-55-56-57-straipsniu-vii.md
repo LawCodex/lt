@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/29f73dc010b811ee9f7ec2ffce8b47bc"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.29F73DC010B8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 20, 21, 36, 54, 55, 56, 57 straipsnių, VII skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
@@ -229,5 +229,3 @@ Papildyti Įstatymo priedą 7 punktu:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_505144755990437283794903d04271c0_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6DD809CE5741"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6DD809CE5741.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos finansų rinkos priežiūros sistemos pertvarkos įstatymas
@@ -26,13 +26,13 @@ FINANSŲ RINKOS PRIEŽIŪROS SISTEMOS PERTVARKOS
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šiuo įstatymu likviduojamos Lietuvos Respublikos draudimo priežiūros komisija ir Lietuvos Respublikos vertybinių popierių komisija (toliau – priežiūros institucijos).
 
 2. Nuo šio įstatymo įsigaliojimo priežiūros institucijos įgyja likviduojamų biudžetinių įstaigų statusą.
 
-\#### 2 straipsnis. Priežiūros institucijų likvidavimas
+## 2 straipsnis. Priežiūros institucijų likvidavimas
 
 1. Lietuvos Respublikos draudimo priežiūros komisijos (toliau – Draudimo priežiūros komisija) likvidatorius yra Draudimo priežiūros komisijos pirmininkas. Lietuvos Respublikos vertybinių popierių komisijos (toliau – Vertybinių popierių komisija) likvidatorius yra Vertybinių popierių komisijos pirmininkas.
 
@@ -40,13 +40,13 @@ Vilnius
 
 3. Nuo šio įstatymo įsigaliojimo Lietuvos Respublikos finansų ministerija įgyvendina priežiūros institucijų savininko ir priežiūros institucijų pirmininkų ir narių darbdavio teises ir pareigas, taip pat ir teisę pakeisti šio straipsnio 1 dalyje nurodytus likvidatorius.
 
-\#### 3 straipsnis. Priežiūros institucijoms priskirtų funkcijų atlikimas
+## 3 straipsnis. Priežiūros institucijoms priskirtų funkcijų atlikimas
 
 1. Likviduojamos priežiūros institucijos visas įstatymų ir kitų teisės aktų joms priskirtas funkcijas atlieka iki 2011 m. gruodžio 31 d.
 
 2. Draudimo priežiūros komisijos pirmininkas ir Vertybinių popierių komisijos pirmininkas ir šių komisijų nariai savo pareigas ir toliau eina po šio įstatymo įsigaliojimo iki 2011 m. gruodžio 31 d. Draudimo priežiūros komisijos pirmininko ir Vertybinių popierių komisijos pirmininko bei šių komisijų narių pareigybės panaikinamos, jų įgaliojimai baigiasi ir jie atleidžiami iš pareigų 2011 m. gruodžio 31 d.
 
-\#### 4 straipsnis. Su priežiūros institucijoms priskirtomis funkcijomis susijusios veiklos tęstinumo užtikrinimas ir atskaitymų Draudimo priežiūros komisijai mokėjimas
+## 4 straipsnis. Su priežiūros institucijoms priskirtomis funkcijomis susijusios veiklos tęstinumo užtikrinimas ir atskaitymų Draudimo priežiūros komisijai mokėjimas
 
 1. Priežiūros institucijoms atliekant joms priskirtas funkcijas, šių institucijų išduotos licencijos, leidimai, sutikimai, neprieštaravimai, pažymėjimai, priimti teisės aktai ir kiti priežiūros institucijų sprendimai galioja ir po priežiūros institucijų likvidavimo.
 
@@ -56,13 +56,13 @@ Vilnius
 
 4. 2011 m. ketvirto ketvirčio atskaitymai Draudimo priežiūros komisijai išlaikyti iki 2012 m. sausio 30 d. pervedami į likviduojamos Draudimo priežiūros komisijos sąskaitą.
 
-\#### 5 straipsnis. Priežiūros institucijų archyvai ir turtas
+## 5 straipsnis. Priežiūros institucijų archyvai ir turtas
 
 1. Priežiūros institucijų dokumentai perduodami saugoti teisės aktuose nustatyta tvarka, išskyrus dokumentus, reikalingus finansų rinkos priežiūros funkcijai atlikti, kuriuos priežiūros institucijos iki 2011 m. gruodžio 31 d. perduoda Lietuvos bankui.
 
 2. Patenkinus visus likviduojamų institucijų kreditorių reikalavimus, priežiūros institucijų valdomas materialusis ir nematerialusis turtas, kuris Lietuvos bankui reikalingas, patikėjimo ar panaudos pagrindais perduodamas Lietuvos bankui. Likęs turtas perduodamas teisės aktų nustatyta tvarka.
 
-\#### 6 straipsnis. Ginčų nagrinėjimas ir finansinių prievolių vykdymas
+## 6 straipsnis. Ginčų nagrinėjimas ir finansinių prievolių vykdymas
 
 1. Nuo 2012 m. sausio 1 d. ginčuose dėl priežiūros institucijų neteisėtais veiksmais padarytos žalos atlyginimo ir kituose su šių institucijų ankstesne veikla susijusiuose ginčuose valstybei teismuose atstovauja Lietuvos bankas, išskyrus šio straipsnio 2 dalyje nurodytus ginčus.
 
@@ -70,17 +70,17 @@ Vilnius
 
 3. Kai Lietuvos bankas atstovauja valstybei teismuose dėl priežiūros institucijų neteisėtais veiksmais padarytos žalos atlyginimo ir kituose su šių institucijų ankstesne veikla susijusiuose ginčuose, visi teismų sprendimai dėl žalos atlyginimo, taip pat dėl finansinių prievolių vykdymo vykdomi Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatyme ir kituose teisės aktuose nustatyta tvarka.
 
-\#### 7 straipsnis. Priežiūros institucijų likvidavimo užbaigimo finansavimas
+## 7 straipsnis. Priežiūros institucijų likvidavimo užbaigimo finansavimas
 
 1. Finansines prievoles, susijusias su Draudimo priežiūros komisijos ir Vertybinių popierių komisijos pirmininkų, šių komisijų narių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, atleidimu dėl priežiūros institucijų likvidavimo, nuo 2012 m. sausio 1 d. perima valstybė. Šios prievolės vykdomos iš Lietuvos Respublikos finansų ministerijai tam skirtų Lietuvos Respublikos valstybės biudžeto asignavimų.
 
 2. Priežiūros institucijų likvidavimo procedūros užbaigiamos iš Lietuvos Respublikos finansų ministerijai tam skirtų Lietuvos Respublikos valstybės biudžeto asignavimų.
 
-\#### 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 8 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 9 straipsnis. Pasiūlymai Finansų ministerijai, Draudimo priežiūros komisijai, Vertybinių popierių komisijai ir Lietuvos bankui
+## 9 straipsnis. Pasiūlymai Finansų ministerijai, Draudimo priežiūros komisijai, Vertybinių popierių komisijai ir Lietuvos bankui
 
 1. Draudimo priežiūros komisija ir Vertybinių popierių komisija iki 2011 m. gruodžio 31 d. priima sprendimus ir atlieka veiksmus, reikalingus šiam įstatymui įgyvendinti.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0BD4947834DF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6, 17, 27 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0))
 
-\#### 1 straipsnis. 6 straipsnio 2 dalies 2 punkto pripažinimas netekusiu galios
+## 1 straipsnis. 6 straipsnio 2 dalies 2 punkto pripažinimas netekusiu galios
 
 6 straipsnio 2 dalies 2 punktą pripažinti netekusiu galios.
 
-\#### 2 straipsnis. 17 straipsnio 1 dalies 40 punkto pakeitimas
+## 2 straipsnis. 17 straipsnio 1 dalies 40 punkto pakeitimas
 
 Pakeisti 17 straipsnio 1 dalies 40 punktą ir jį išdėstyti taip:
 
 „40) jūrininkų už darbą laivo reiso metu gautos pajamos, kaip jos apibrėžtos šio Įstatymo 14 straipsnyje;“.
 
-\#### 3 straipsnis. 27 straipsnio 1 ir 4 dalių papildymas
+## 3 straipsnis. 27 straipsnio 1 ir 4 dalių papildymas
 
 1. Papildyti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 17 straipsnio 1 dalies 40 punktą ir jį išdėstyti taip:
 
 „4. Ūkininkas ir jo partneriai, per mokestinį laikotarpį gavę pajamų už ūkininko ūkyje, įregistruotame Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio veiklą, taip pat gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti valstybės garantuojamą teisinę pagalbą arba piniginę socialinę paramą, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisant šio straipsnio 3 dalyje nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį gyventojo turto deklaracijos pateikimo terminais.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

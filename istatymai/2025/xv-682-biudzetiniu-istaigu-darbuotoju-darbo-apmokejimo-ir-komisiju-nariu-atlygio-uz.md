@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/29ad93d2dfed11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.29AD93D2DFED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 2, 4, 6, 7, 9 straipsnių ir 1, 2 priedų pakeitimo įstatymas
@@ -26,7 +26,7 @@ BIUDŽETINIŲ ĮSTAIGŲ DARBUOTOJŲ DARBO APMOKĖJIMO IR KOMISIJŲ NARIŲ ATLYGI
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -36,13 +36,13 @@ Vilnius
 
 „4) D lygio – pareigybės, kurioms netaikomi išsilavinimo ar kvalifikacijos reikalavimai.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) specialieji reikalavimai, keliami šias pareigas einančiam darbuotojui (išsilavinimas, darbo patirtis, kvalifikacija ar kiti specialieji reikalavimai);“.
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 4 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 „9. Šio įstatymo 9 straipsnio 9 dalies 1 punkte nurodytu atveju švietimo įstaigos vadovui nustatytas didesnis pareiginės algos koeficientas taikomas, jeigu pasibaigus švietimo įstaigos vadovo pirmajai kadencijai jis be konkurso skiriamas antrajai kadencijai toje pačioje švietimo įstaigoje.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 8. Mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų darbo krūvio sandara (darbo pareigų paskirstymas pagal laiką) pateikiama šio įstatymo 2 priede.“
 
-\#### 5 straipsnis. 9 straipsnio pakeitimas
+## 5 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 „2) biudžetinės įstaigos vadovas ar darbuotojas gali būti perkeliamas į toje pačioje biudžetinėje įstaigoje esančias žemesnes pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos žemesniam pareigybių lygmeniui (pakopai), jeigu tai neprieštarauja Viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas). Perkeliant biudžetinės įstaigos darbuotoją į žemesnes pareigas, jam pagal įstaigos darbo apmokėjimo sistemą gali būti nustatomas ne mažiau kaip 0,06 ir ne daugiau kaip 0,18 mažesnis pareiginės algos koeficientas, kuris negali būti mažesnis kaip nustatytas mažiausias to pareigybių lygmens (pakopos), į kurį darbuotojas perkeliamas, pareigybių pareiginės algos koeficientas, arba“.
 
-\#### 6 straipsnis. Įstatymo 1 priedo pakeitimas
+## 6 straipsnis. Įstatymo 1 priedo pakeitimas
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
 
@@ -126,31 +126,21 @@ BIUDŽETINIŲ ĮSTAIGŲ VADOVŲ PAREIGINĖS ALGOS KOEFICIENTAI
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Eil. Nr. | Pareigybė | Pareigybės lygis | Biudžetinių įstaigų vadovų pareiginės algos koeficientai ir darbuotojų minimalūs pareiginės algos koeficientai |
-
-\| --- | --- | --- | --- |
-
-\| 1. | Biudžetinės įstaigos vadovas | | 1,29–3,98 |
-
-\| 2. | Biudžetinės įstaigos vadovo pavaduotojas | | 1,04 |
-
-\| 3. | Struktūrinio padalinio vadovas (ar kiti specialistai, turintys pavaldžių darbuotojų ar prilyginti vadovaujantiems darbuotojams) | A | 0,88 |
-
-\| B | 0,83 | | |
-
-\| 4. | Struktūrinio padalinio vadovo pavaduotojas | A | 0,83 |
-
-\| B | 0,78 | | |
-
-\| 5. | Specialistas | A | 0,76 |
-
-\| B | 0,73 | | |
-
-\| 6. | Kvalifikuotas darbuotojas | C | 0,71“. |
+| Eil. Nr. | Pareigybė | Pareigybės lygis | Biudžetinių įstaigų vadovų pareiginės algos koeficientai ir darbuotojų minimalūs pareiginės algos koeficientai |
+| --- | --- | --- | --- |
+| 1. | Biudžetinės įstaigos vadovas |  | 1,29–3,98 |
+| 2. | Biudžetinės įstaigos vadovo pavaduotojas |  | 1,04 |
+| 3. | Struktūrinio padalinio vadovas (ar kiti specialistai, turintys pavaldžių darbuotojų ar prilyginti vadovaujantiems darbuotojams) | A | 0,88 |
+| B | 0,83 |  |  |
+| 4. | Struktūrinio padalinio vadovo pavaduotojas | A | 0,83 |
+| B | 0,78 |  |  |
+| 5. | Specialistas | A | 0,76 |
+| B | 0,73 |  |  |
+| 6. | Kvalifikuotas darbuotojas | C | 0,71“. |
 
 ___________________“.
 
-\#### 7 straipsnis. Įstatymo 2 priedo pakeitimas
+## 7 straipsnis. Įstatymo 2 priedo pakeitimas
 
 1. Pakeisti Įstatymo 2 priedo 1 punktą ir jį išdėstyti taip:
 
@@ -158,27 +148,17 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Kvalifikacinė kategorija | Pareiginės algos koeficientai | | | | | | |
-
-\| --- | --- | --- | --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | | | | |
-
-\| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 | |
-
-\| Nesuteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Mokytojas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
-
-\| Suteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Mokytojas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
-
-\| Vyresnysis mokytojas | | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
-
-\| Mokytojas metodininkas | | | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
-
-\| Mokytojas ekspertas | | | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
+| Kvalifikacinė kategorija | Pareiginės algos koeficientai |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |  |  |  |
+| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 |  |
+| Nesuteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Mokytojas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
+| Suteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Mokytojas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
+| Vyresnysis mokytojas |  | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
+| Mokytojas metodininkas |  |  | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
+| Mokytojas ekspertas |  |  | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
 
 2. Pakeisti Įstatymo 2 priedo 12 punktą ir jį išdėstyti taip:
 
@@ -186,27 +166,17 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Kvalifikacinė kategorija | Pareiginės algos koeficientai | | | | | | |
-
-\| --- | --- | --- | --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | | | | |
-
-\| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 | |
-
-\| Nesuteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Mokytojas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
-
-\| Suteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Mokytojas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
-
-\| Vyresnysis mokytojas | | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
-
-\| Mokytojas metodininkas | | | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
-
-\| Mokytojas ekspertas | | | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
+| Kvalifikacinė kategorija | Pareiginės algos koeficientai |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |  |  |  |
+| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 |  |
+| Nesuteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Mokytojas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
+| Suteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Mokytojas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
+| Vyresnysis mokytojas |  | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
+| Mokytojas metodininkas |  |  | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
+| Mokytojas ekspertas |  |  | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
 
 3. Pakeisti Įstatymo 2 priedo 15 punktą ir jį išdėstyti taip:
 
@@ -218,27 +188,17 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Kvalifikacinė kategorija | Pareiginės algos koeficientai | | | | | | |
-
-\| --- | --- | --- | --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | | | | |
-
-\| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 | |
-
-\| Nesuteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Mokytojas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
-
-\| Suteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Mokytojas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
-
-\| Vyresnysis mokytojas | | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
-
-\| Mokytojas metodininkas | | | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
-
-\| Mokytojas ekspertas | | | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
+| Kvalifikacinė kategorija | Pareiginės algos koeficientai |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |  |  |  |
+| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 |  |
+| Nesuteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Mokytojas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
+| Suteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Mokytojas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
+| Vyresnysis mokytojas |  | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
+| Mokytojas metodininkas |  |  | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
+| Mokytojas ekspertas |  |  | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
 
 5. Pakeisti Įstatymo 2 priedo 21 punktą ir jį išdėstyti taip:
 
@@ -250,27 +210,17 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Kvalifikacinė kategorija | Pareiginės algos koeficientai | | | | | | |
-
-\| --- | --- | --- | --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | | | | |
-
-\| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 | |
-
-\| Nesuteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas, karjeros specialistas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
-
-\| Suteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
-
-\| Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas | | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
-
-\| Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas | | | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
-
-\| Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas | | | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
+| Kvalifikacinė kategorija | Pareiginės algos koeficientai |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |  |  |  |
+| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 |  |
+| Nesuteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas, karjeros specialistas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
+| Suteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
+| Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas |  | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
+| Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas |  |  | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
+| Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas |  |  | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
 
 7. Pakeisti Įstatymo 2 priedo 28 punktą ir jį išdėstyti taip:
 
@@ -278,27 +228,17 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Kvalifikacinė kategorija | Pareiginės algos koeficientai | | | | | | |
-
-\| --- | --- | --- | --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | | | | |
-
-\| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 | |
-
-\| Nesuteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Psichologo asistentas, specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
-
-\| Suteiktos kvalifikacinės kategorijos | | | | | | | |
-
-\| Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas, ketvirtos kategorijos psichologas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
-
-\| Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas, vyresnysis socialinis pedagogas, trečios kategorijos psichologas | | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
-
-\| Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas, socialinis pedagogas metodininkas, antros kategorijos psichologas | | | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
-
-\| Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas, pirmos kategorijos psichologas | | | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
+| Kvalifikacinė kategorija | Pareiginės algos koeficientai |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |  |  |  |
+| iki 2 | nuo daugiau kaip 2 iki 5 | nuo daugiau kaip 5 iki 10 | nuo daugiau kaip 10 iki 15 | nuo daugiau kaip 15 iki 20 | nuo daugiau kaip 20 iki 25 | daugiau kaip 25 |  |
+| Nesuteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Psichologo asistentas, specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas | 1,1886 | 1,1930 | 1,2032 | 1,2252 | 1,2633 | 1,2676 | 1,2750 |
+| Suteiktos kvalifikacinės kategorijos |  |  |  |  |  |  |  |
+| Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas, ketvirtos kategorijos psichologas | 1,2764 | 1,2795 | 1,2809 | 1,2881 | 1,2912 | 1,2955 | 1,3057 |
+| Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas, vyresnysis socialinis pedagogas, trečios kategorijos psichologas |  | 1,3073 | 1,3117 | 1,3176 | 1,3704 | 1,3776 | 1,3834 |
+| Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas, socialinis pedagogas metodininkas, antros kategorijos psichologas |  |  | 1,3967 | 1,4216 | 1,4669 | 1,4730 | 1,4832 |
+| Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas, pirmos kategorijos psichologas |  |  | 1,5872 | 1,6136 | 1,6547 | 1,6620 | 1,6693“. |
 
 8. Pakeisti Įstatymo 2 priedo 32 punktą ir jį išdėstyti taip:
 
@@ -306,31 +246,19 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Pareigybė | Pareiginės algos koeficientai | | | |
-
-\| --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | |
-
-\| iki 3 | nuo daugiau kaip 3 iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 | |
-
-\| Nesuteiktos kvalifikacinės kategorijos | | | | |
-
-\| Auklėtojas, koncertmeisteris, akompaniatorius | 0,8940 | 0,9101 | 0,9261 | 0,9350 |
-
-\| | Pedagoginio darbo stažas (metais) | | | |
-
-\| | iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 | |
-
-\| Suteiktos kvalifikacinės kategorijos | | | | |
-
-\| Koncertmeisteris, akompaniatorius | 0,9424 | 0,9511 | 0,9583 | |
-
-\| Vyresnysis koncertmeisteris, vyresnysis akompaniatorius | 0,9658 | 0,9747 | 0,9820 | |
-
-\| Koncertmeisteris metodininkas, akompaniatorius metodininkas | 0,9907 | 0,9982 | 1,0069 | |
-
-\| Koncertmeisteris ekspertas, akompaniatorius ekspertas | 1,0230 | 1,0347 | 1,0611“. | |
+| Pareigybė | Pareiginės algos koeficientai |  |  |  |
+| --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |
+| iki 3 | nuo daugiau kaip 3 iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 |  |
+| Nesuteiktos kvalifikacinės kategorijos |  |  |  |  |
+| Auklėtojas, koncertmeisteris, akompaniatorius | 0,8940 | 0,9101 | 0,9261 | 0,9350 |
+|  | Pedagoginio darbo stažas (metais) |  |  |  |
+|  | iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 |  |
+| Suteiktos kvalifikacinės kategorijos |  |  |  |  |
+| Koncertmeisteris, akompaniatorius | 0,9424 | 0,9511 | 0,9583 |  |
+| Vyresnysis koncertmeisteris, vyresnysis akompaniatorius | 0,9658 | 0,9747 | 0,9820 |  |
+| Koncertmeisteris metodininkas, akompaniatorius metodininkas | 0,9907 | 0,9982 | 1,0069 |  |
+| Koncertmeisteris ekspertas, akompaniatorius ekspertas | 1,0230 | 1,0347 | 1,0611“. |  |
 
 9. Pakeisti Įstatymo 2 priedo 38 punktą ir jį išdėstyti taip:
 
@@ -338,15 +266,11 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Pedagoginio darbo stažas (metais) | Pareiginės algos koeficientai |
-
-\| --- | --- |
-
-\| iki 10 | 1,0230 |
-
-\| nuo daugiau kaip 10 iki 15 | 1,1432 |
-
-\| daugiau kaip 15 | 1,2633“. |
+| Pedagoginio darbo stažas (metais) | Pareiginės algos koeficientai |
+| --- | --- |
+| iki 10 | 1,0230 |
+| nuo daugiau kaip 10 iki 15 | 1,1432 |
+| daugiau kaip 15 | 1,2633“. |
 
 10. Pakeisti Įstatymo 2 priedo 42 punktą ir jį išdėstyti taip:
 
@@ -354,25 +278,16 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Mokinių skaičius | Pareiginės algos koeficientai | | | |
-
-\| --- | --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | | |
-
-\| iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 | | |
-
-\| | | | | |
-
-\| iki 200 | 2,3363 | 2,4213 | 2,4797 | |
-
-\| 201–400 | 2,5524 | 2,5743 | 2,5758 | |
-
-\| 401–600 | 2,5619 | 2,5792 | 2,5855 | |
-
-\| 601–1 000 | 2,7480 | 2,7543 | 2,7590 | |
-
-\| 1 001 ir daugiau | 2,7543 | 2,7573 | 2,7669“. | |
+| Mokinių skaičius | Pareiginės algos koeficientai |  |  |  |
+| --- | --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |  |
+| iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 |  |  |
+|  |  |  |  |  |
+| iki 200 | 2,3363 | 2,4213 | 2,4797 |  |
+| 201–400 | 2,5524 | 2,5743 | 2,5758 |  |
+| 401–600 | 2,5619 | 2,5792 | 2,5855 |  |
+| 601–1 000 | 2,7480 | 2,7543 | 2,7590 |  |
+| 1 001 ir daugiau | 2,7543 | 2,7573 | 2,7669“. |  |
 
 11. Pakeisti Įstatymo 2 priedo 43 punktą ir jį išdėstyti taip:
 
@@ -380,17 +295,12 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Mokinių skaičius | Pareiginės algos koeficientai | | |
-
-\| --- | --- | --- | --- |
-
-\| Pedagoginio darbo stažas (metais) | | | |
-
-\| iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 | |
-
-\| iki 500 | 2,2778 | 2,2827 | 2,2856 |
-
-\| 501 ir daugiau | 2,2920 | 2,3235 | 2,3568“. |
+| Mokinių skaičius | Pareiginės algos koeficientai |  |  |
+| --- | --- | --- | --- |
+| Pedagoginio darbo stažas (metais) |  |  |  |
+| iki 10 | nuo daugiau kaip 10 iki 15 | daugiau kaip 15 |  |
+| iki 500 | 2,2778 | 2,2827 | 2,2856 |
+| 501 ir daugiau | 2,2920 | 2,3235 | 2,3568“. |
 
 12. Pakeisti Įstatymo 2 priedo 47 punktą ir jį išdėstyti taip:
 
@@ -398,15 +308,11 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Pedagoginio darbo stažas (metais) | Pareiginės algos koeficientai |
-
-\| --- | --- |
-
-\| iki 10 | 1,9860 |
-
-\| nuo daugiau kaip 10 iki 15 | 2,0713 |
-
-\| daugiau kaip 15 | 2,1816“. |
+| Pedagoginio darbo stažas (metais) | Pareiginės algos koeficientai |
+| --- | --- |
+| iki 10 | 1,9860 |
+| nuo daugiau kaip 10 iki 15 | 2,0713 |
+| daugiau kaip 15 | 2,1816“. |
 
 13. Pakeisti Įstatymo 2 priedo 50 punktą ir jį išdėstyti taip:
 
@@ -414,29 +320,18 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Pareigybių skaičius | Vadovaujamo darbo patirtis (metais) | Pareiginės algos koeficientai, jeigu pareigybės lygis A | |
-
-\| --- | --- | --- | --- |
-
-\| vadovų | vadovų pavaduotojų | | |
-
-\| 201 ir daugiau pareigybių | iki 5 | 2,3235 | 2,0933 |
-
-\| nuo daugiau kaip 5 iki 10 | 2,3568 | 2,1280 | |
-
-\| daugiau kaip 10 | 2,3883 | 2,1596 | |
-
-\| 51–200 pareigybių | iki 5 | 2,2242 | 2,0286 |
-
-\| nuo daugiau kaip 5 iki 10 | 2,2573 | 2,0617 | |
-
-\| daugiau kaip 10 | 2,2920 | 2,0933 | |
-
-\| 50 ir mažiau pareigybių | iki 5 | 2,1280 | 1,9639 |
-
-\| nuo daugiau kaip 5 iki 10 | 2,1596 | 1,9955 | |
-
-\| daugiau kaip 10 | 2,1928 | 2,0286“. | |
+| Pareigybių skaičius | Vadovaujamo darbo patirtis (metais) | Pareiginės algos koeficientai, jeigu pareigybės lygis A |  |
+| --- | --- | --- | --- |
+| vadovų | vadovų pavaduotojų |  |  |
+| 201 ir daugiau pareigybių | iki 5 | 2,3235 | 2,0933 |
+| nuo daugiau kaip 5 iki 10 | 2,3568 | 2,1280 |  |
+| daugiau kaip 10 | 2,3883 | 2,1596 |  |
+| 51–200 pareigybių | iki 5 | 2,2242 | 2,0286 |
+| nuo daugiau kaip 5 iki 10 | 2,2573 | 2,0617 |  |
+| daugiau kaip 10 | 2,2920 | 2,0933 |  |
+| 50 ir mažiau pareigybių | iki 5 | 2,1280 | 1,9639 |
+| nuo daugiau kaip 5 iki 10 | 2,1596 | 1,9955 |  |
+| daugiau kaip 10 | 2,1928 | 2,0286“. |  |
 
 14. Pakeisti Įstatymo 2 priedo 51 punktą ir jį išdėstyti taip:
 
@@ -444,23 +339,16 @@ ___________________“.
 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
-\| Vadovaujamo darbo patirtis (metais) | Pareigybės lygis | | | | | |
+| Vadovaujamo darbo patirtis (metais) | Pareigybės lygis |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| A | B |  |  |  |  |  |
+| profesinio darbo patirtis (metais) | profesinio darbo patirtis (metais) |  |  |  |  |  |
+| iki 5 | nuo daugiau kaip 5 iki 10 | daugiau kaip 10 | iki 5 | nuo daugiau kaip 5 iki 10 | daugiau kaip 10 |  |
+| iki 5 | 1,8772 | 1,9119 | 1,9435 | 1,5522 | 1,5932 | 1,6579 |
+| nuo daugiau kaip 5 iki 10 | 1,9119 | 1,9435 | 1,9749 | 1,5932 | 1,6579 | 1,6878 |
+| daugiau kaip 10 | 1,9435 | 1,9749 | 2,0065 | 1,6579 | 1,6878 | 1,7193“. |
 
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| A | B | | | | | |
-
-\| profesinio darbo patirtis (metais) | profesinio darbo patirtis (metais) | | | | | |
-
-\| iki 5 | nuo daugiau kaip 5 iki 10 | daugiau kaip 10 | iki 5 | nuo daugiau kaip 5 iki 10 | daugiau kaip 10 | |
-
-\| iki 5 | 1,8772 | 1,9119 | 1,9435 | 1,5522 | 1,5932 | 1,6579 |
-
-\| nuo daugiau kaip 5 iki 10 | 1,9119 | 1,9435 | 1,9749 | 1,5932 | 1,6579 | 1,6878 |
-
-\| daugiau kaip 10 | 1,9435 | 1,9749 | 2,0065 | 1,6579 | 1,6878 | 1,7193“. |
-
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 8 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

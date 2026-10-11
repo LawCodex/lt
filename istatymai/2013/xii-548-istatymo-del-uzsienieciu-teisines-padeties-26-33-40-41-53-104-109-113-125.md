@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.55DE593A0619"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.55DE593A0619.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" 26, 33, 40, 41, 53, 104, 109, 113, 125 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2539](https://www.e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD); 2006, Nr. [137-5199](https://www.e-tar.lt/portal/lt/legalAct/TAR.D79EF0646F5C); 2008, Nr. [22-803](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB2157F6318A); 2009, Nr. [93-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.78766B5EAE80); 2011, Nr. [156-7384](https://www.e-tar.lt/portal/lt/legalAct/TAR.0E7B5845B244); 2012, Nr. [85-4450](https://www.e-tar.lt/portal/lt/legalAct/TAR.935939A2F479); 2013, Nr. [76-3844](https://www.e-tar.lt/portal/lt/legalAct/TAR.2DFF514EE723))
 
-\#### 1 straipsnis. 26 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 26 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Šio straipsnio 1 dalies 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam suteiktas pabėgėlio statusas Lietuvos Respublikoje, papildoma apsauga arba laikina apsauga Lietuvos Respublikoje, taip patužsieniečio, kuriam suteiktas pabėgėlio statusas Lietuvos Respublikoje, šeimos nariams, kurie kreipėsi dėl leidimo gyventi išdavimo šeimos susijungimo atveju per 3 mėnesius nuo pabėgėlio statuso Lietuvos Respublikoje suteikimo.“
 
-\#### 2 straipsnis. 33 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 33 straipsnio 1 dalies pakeitimas
 
 Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,13 +48,13 @@ Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) dėl leidimo laikinai gyventi keitimo – ne vėliau kaip per 2 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos.“
 
-\#### 3 straipsnis. 40 straipsnio 1 dalies 1 punkto pakeitimas
+## 3 straipsnis. 40 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 40 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) jis turi teisę atkurtiLietuvos Respublikos pilietybę Lietuvos Respublikos pilietybės įstatymo nustatyta tvarka;“.
 
-\#### 4 straipsnis. 41 straipsnio pakeitimas
+## 4 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
@@ -64,13 +64,13 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 2. Užsieniečiui, turinčiam teisę atkurti Lietuvos Respublikos pilietybę, leidimas laikinai gyventi išduodamas 5 metams.“
 
-\#### 5 straipsnis. 53 straipsnio 1 dalies 1 punkto pakeitimas
+## 5 straipsnis. 53 straipsnio 1 dalies 1 punkto pakeitimas
 
 Pakeisti 53 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) jis turi teisę atkurtiLietuvos Respublikos pilietybę Lietuvos Respublikos pilietybės įstatymo nustatyta tvarka;“.
 
-\#### 6 straipsnis. 104 straipsnio 1 ir 2 dalių pakeitimas
+## 6 straipsnis. 104 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 104 straipsnio 1 dalyje vietoj žodžių „kuriam išsaugoma teisė į“ įrašyti žodžius „kuris turi teisę atkurti“ ir šią dalį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 53 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nurodyto Europos Sąjungos valstybės narės piliečio šeimos nariai taip pat įgyja teisę nuolat gyventi Lietuvos Respublikoje, jeigu jie Lietuvos Respublikoje teisėtai gyveno pastaruosius 5 metus su Europos Sąjungos valstybės narės piliečiu arba jie yra Europos Sąjungos valstybės narės piliečio, turinčio teisę atkurtiLietuvos Respublikos pilietybę Lietuvos Respublikos pilietybės įstatymo nustatyta tvarka, arba lietuvių kilmės asmens šeimos nariai. Teisę nuolat gyventi Lietuvos Respublikoje taip pat įgyja šio Įstatymo 101^1 straipsnio 1 dalyje nurodyti Europos Sąjungos piliečio šeimos nariai, kurie teisėtai gyveno Lietuvos Respublikoje pastaruosius 5 metus.“
 
-\#### 7 straipsnis. 109 straipsnio 1 ir 3 dalių pakeitimas
+## 7 straipsnis. 109 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 109 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 53 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „3. Socialinės apsaugos ir darbo ministro įgaliota institucija ar įstaiga kartu su savivaldybėmis, tarptautinėmis ir nevyriausybinėmis organizacijomis organizuoja ir įgyvendina Lietuvos valstybės paramos teikimą užsieniečių, gavusių prieglobstį Lietuvos Respublikoje, integracijai.“
 
-\#### 8 straipsnis. 113 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
+## 8 straipsnis. 113 straipsnio 1 dalies 2 punkto ir 2 dalies pakeitimas ir straipsnio papildymas 4 dalimi
 
 1. Pakeisti 113 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -104,13 +104,13 @@ Pakeisti 53 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „4. Prieglobsčio prašytojas šio straipsnio 1 dalies 2 punkte nurodytu pagrindu gali būti sulaikytas tik siekiant nustatyti ir (arba) patikrinti jo tapatybę (pilietybę) ir (arba) išsiaiškinti motyvus, kuriais grindžiamas jo prašymas suteikti prieglobstį, taip pat kai jo prašymas suteikti prieglobstį grindžiamas su persekiojimo pavojumi kilmės šalyje akivaizdžiai nesusijusiais motyvais ar paremtas apgaule arba kai prieglobsčio prašytojui nesuteiktas laikinas teritorinis prieglobstis ir yra pagrindas manyti, kad jis gali pasislėpti siekdamas išvengti grąžinimo į užsienio valstybę ar išsiuntimo iš Lietuvos Respublikos.“
 
-\#### 9 straipsnis. 125 straipsnio 1 dalies papildymas 7 punktu
+## 9 straipsnis. 125 straipsnio 1 dalies papildymas 7 punktu
 
 Papildyti 125 straipsnio 1 dalį 7 punktu:
 
 „7) jis neteisėtai atvyko į Lietuvos Respubliką ar neteisėtai joje yra, yra pažeidžiamas asmuo arba prieglobsčio prašytojas ir sutinka savanoriškai grįžti į užsienio valstybę padedant tarptautinei ar nevyriausybinei organizacijai.“
 
-\#### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus 3, 4, 5, 6, 8, 9 straipsnius ir šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bd0c979255c611f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BD0C979255C6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas
@@ -26,7 +26,7 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 1, 2, 3, 5, 6, 7,
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 3. Buvusią 1 straipsnio 6 dalį laikyti 7 dalimi.
 
-\#### 2 straipsnis. Įstatymo papildymas 11 straipsniu
+## 2 straipsnis. Įstatymo papildymas 11 straipsniu
 
 Papildyti Įstatymą 1^1 straipsniu:
 
@@ -56,7 +56,7 @@ Papildyti Įstatymą 1^1 straipsniu:
 
 Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tikslo įgyvendinimą, iki tol, kol Lietuvos elektros energetikos sektorius taps visiškai klimatui neutralus, kompetentingoms institucijoms ar elektros tinklų operatoriams vykdant leidimų išdavimo procedūras, nurodytas šio įstatymo 16 straipsnio 3 dalies 1–7 punktuose, dėl saulės šviesos energijos elektrinių, vėjo elektrinių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie elektros tinklų reikalingos infrastruktūros, laikoma, kad šių elektrinių ir energijos kaupimo įrenginių planavimas, statyba ir eksploatavimas, prijungimas prie elektros tinklų atitinka viršesnį viešąjį interesą ir visuomenės sveikatos ir saugos tikslą. Planuojant šiame straipsnyje nurodytas veiklas, atitinkančias viršesnį viešąjį interesą ir visuomenės sveikatos bei saugos tikslą, vadovaujamasi specialiomis išlygomis, reglamentuotomis Lietuvos Respublikos saugomų teritorijų įstatymo 24 straipsnio 11 dalyje, Lietuvos Respublikos laukinės gyvūnijos įstatymo 23 straipsnio 1 dalyje, Lietuvos Respublikos vandens įstatymo 14 straipsnio 2 dalyje, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo 14 straipsnio 1 dalyje ir Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 12 straipsnio 12 dalyje.“
 
-\#### 3 straipsnis. 2 straipsnio pakeitimas
+## 3 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -114,7 +114,7 @@ Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tiks
 
 „50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Alternatyviųjų degalų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Vandens įstatyme, Lietuvos Respublikos technologijų ir inovacijų įstatyme, Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme ir Lietuvos Respublikos žemės įstatyme.“
 
-\#### 4 straipsnis. 3 straipsnio pakeitimas
+## 4 straipsnis. 3 straipsnio pakeitimas
 
 1. Papildyti 3 straipsnį 8 dalimi:
 
@@ -124,7 +124,7 @@ Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tiks
 
 „9. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, iš šio straipsnio 8 dalyje nurodytų institucijų ir įstaigų renka ir kiekvienais metais iki liepos 1 dienos viešai paskelbia informaciją, kokią dalį visų per praėjusius kalendorinius metus, pradedant 2026 metais, naujai įrengtų atsinaujinančių išteklių energijos gamybos pajėgumų sudarė pažangios energijos iš atsinaujinančių išteklių gamybos technologijos, siekiant šio įstatymo 1 straipsnio 5 dalies 5 punkte nurodyto uždavinio.“
 
-\#### 5 straipsnis. 5 straipsnio pakeitimas
+## 5 straipsnis. 5 straipsnio pakeitimas
 
 1. Pakeisti 5 straipsnio 2 dalies 14 punktą ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tiks
 
 2. Pripažinti netekusiu galios 5 straipsnio 2 dalies 15 punktą.
 
-\#### 6 straipsnis. 6 straipsnio pakeitimas
+## 6 straipsnis. 6 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 6 straipsnio 9 punktą.
 
@@ -142,7 +142,7 @@ Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tiks
 
 3. Buvusį 6 straipsnio 15 punktą laikyti 16 punktu.
 
-\#### 7 straipsnis. 7 straipsnio pakeitimas
+## 7 straipsnis. 7 straipsnio pakeitimas
 
 1. Papildyti 7 straipsnį nauju 9 punktu:
 
@@ -150,13 +150,13 @@ Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tiks
 
 2. Buvusį 7 straipsnio 9 punktą laikyti 10 punktu.
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „8) nagrinėja šio įstatymo 64 straipsnio 1 ir 2 dalyse nurodytus skundus;“.
 
-\#### 9 straipsnis. 12 straipsnio pakeitimas
+## 9 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -166,7 +166,7 @@ Pakeisti 11 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „Savivaldybių institucijos:“.
 
-\#### 10 straipsnis. 131 straipsnio pakeitimas
+## 10 straipsnis. 131 straipsnio pakeitimas
 
 1. Pakeisti 131 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -180,7 +180,7 @@ Pakeisti 11 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „15. Įmokos administratorius privalo atskirai tvarkyti su gamybos įmokos lėšų administravimo veikla susijusią apskaitą ir Vyriausybės nustatyta tvarka kiekvienais metais subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, teikti gamybos įmokos lėšų panaudojimo ataskaitas.“
 
-\#### 11 straipsnis. 14 straipsnio pakeitimas
+## 11 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 15 dalį ir ją išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 11 straipsnio 8 punktą ir jį išdėstyti taip:
 
 „17. Elektros tinklų operatorius kas mėnesį teikia Energetikos ministerijai, Valstybinei energetikos reguliavimo tarybai ir subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, informaciją apie prijungimo sąlygas, išduotas gamintojams, gaminantiems vartotojams ir asmenims, siekiantiems tapti gaminančiais vartotojais ir numatantiems statyti ar įrengti atsinaujinančius išteklius naudojančias elektrines, kurioms Elektros energetikos įstatymo 16 straipsnio 14 dalyje nustatyta tvarka leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas.“
 
-\#### 12 straipsnis. 141 straipsnio pakeitimas
+## 12 straipsnis. 141 straipsnio pakeitimas
 
 Pakeisti 14^1 straipsnį ir jį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 14^1 straipsnį ir jį išdėstyti taip:
 
 4. Asmenys, kuriems buvo taikomas fiksuotas tarifas, pasibaigus skatinimo laikotarpiui, turi teisę keisti veiklą į elektros energiją gaminančio vartotojo, taikant grynojo atsiskaitymo apskaitos modelį. Tokiu atveju turimi elektros tinklų pralaidumai išlaikomi ir yra priskiriami gaminančių vartotojų pralaidumams, atitinkamai sumažinant gamintojams skirtą elektros tinklų pralaidumų dalį.“
 
-\#### 13 straipsnis. 151 straipsnio pakeitimas
+## 13 straipsnis. 151 straipsnio pakeitimas
 
 Pakeisti 15^1 straipsnį ir jį išdėstyti taip:
 
@@ -222,7 +222,7 @@ Pakeisti 15^1 straipsnį ir jį išdėstyti taip:
 
 2. Subjektas, nurodytas Energetikos įstatymo 131 straipsnyje, remdamasis valstybės ir savivaldybių institucijų, įstaigų ir įmonių interneto svetainėse skelbiama informacija, taip pat Valstybinės energetikos reguliavimo tarybos, Energetikos ministerijos, Aplinkos ministerijos, Sveikatos apsaugos ministerijos, savivaldybių ir elektros tinklų operatorių pateikta informacija apie procedūras ir leidimus, reikalingus atsinaujinančius išteklius naudojančių elektrinių ir (ar) įrenginių statybai ir (ar) įrengimui, modernizavimui, parengia ir savo interneto svetainėje skelbia apibendrintą informaciją apie nurodytas procedūras ir leidimus, veiklos elektros energetikos sektoriuje galimybes, galimas gauti skatinimo priemones atsinaujinančius išteklius naudojantiems įrenginiams. Valstybinė energetikos reguliavimo taryba, Energetikos ministerija, Aplinkos ministerija, Sveikatos apsaugos ministerija, savivaldybės ir elektros tinklų operatoriai užtikrina aktualios informacijos skelbimą savo interneto svetainėse.“
 
-\#### 14 straipsnis. 16 straipsnio pakeitimas
+## 14 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -288,7 +288,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 9. Subjektas, nurodytas Energetikos įstatymo 131 straipsnyje, prižiūri, kaip leidimų išdavimo procedūrą, nurodytą šio straipsnio 3 dalyje, vykdančios institucijos ir elektros tinklų operatoriai užtikrina, kad būtų laikomasi šio straipsnio 4 ir 5 dalyse nurodytų terminų, ir apie galimus pažeidimus informuoja Energetikos ministeriją.“
 
-\#### 15 straipsnis. 19 straipsnio pakeitimas
+## 15 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -312,7 +312,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 5. Jeigu nustatoma, kad elektros tinklų operatorius, prie kurio valdomų elektros tinklų norima prijungti elektrinę, netinkamai eksploatavo, prižiūrėjo, valdė ir plėtojo elektros tinklus (tai yra esant elektros tinklų operatoriaus kaltei) ir dėl to kyla būtinybė taikyti šio straipsnio 4 dalyje nustatytą elektrinės prijungimo reguliavimą, elektros tinklų operatorius atlygina gamintojų, kurie dėl tokio reguliavimo negalėjo gaminti ir (ar) patiekti į elektros tinklus elektros energijos, patirtus tiesioginius nuostolius ir negautas pajamas įstatymų nustatyta tvarka.“
 
-\#### 16 straipsnis. 20 straipsnio pakeitimas
+## 16 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -326,31 +326,31 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 „22. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, kartu su Valstybine energetikos reguliavimo taryba, vadovaudamiesi Vyriausybės nustatyta tvarka, ne rečiau kaip vieną kartą tvarkaraščio galiojimo metu atlieka technologinį, ekonominį ir socialinį atsinaujinančių energijos išteklių technologijų plėtros ir paramos schemos vertinimą, atsižvelgdami į tai, kokį poveikį turėtų galimi paramos schemos pakeitimai, ir šį vertinimą pateikia Vyriausybės įgaliotai institucijai. Vyriausybės įgaliota institucija, remdamasi šiuo vertinimu, ne vėliau kaip per 3 mėnesius nuo vertinimo atlikimo pabaigos, atsižvelgdama į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius ir Valstybinės energetikos reguliavimo tarybos apskaičiuotą elektros energijos iš atsinaujinančių išteklių gamybos kiekį, parengia ir teikia Vyriausybei tvirtinti pakeistą tvarkaraštį arba argumentuotą pagrindimą, kodėl tolesnė atsinaujinančių energijos išteklių plėtra neturėtų būti skatinama.“
 
-\#### 17 straipsnis. 201 straipsnio pakeitimas
+## 17 straipsnis. 201 straipsnio pakeitimas
 
 Pakeisti 20^1 straipsnio 11^1 dalį ir ją išdėstyti taip:
 
 „11^1. Kai gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginiams, nurodytiems šio straipsnio 11 dalies 1 ir 2 punktuose, prijungti reikia įrengti skirstomuosius tinklus pagal kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą ir prijungimo paslaugos kaina nėra apskaičiuojama vadovaujantis Valstybinės energetikos reguliavimo tarybos patvirtintais įkainiais ir kai gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, skirstomųjų tinklų įrengimo darbų sąnaudos yra ne mažiau kaip 10 procentų mažesnės negu skirstomųjų tinklų operatoriaus apskaičiuotos, gaminantys vartotojai ar asmenys, siekiantys tapti gaminančiais vartotojais, turi teisę Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, vykdyti ir (ar) organizuoti skirstomųjų tinklų įrengimo darbus. Skirstomųjų tinklų operatorius energetikos ministro nustatyta tvarka padengia 80 procentų skirstomųjų tinklų įrengimo darbų sąnaudų, kai skirstomieji tinklai įrengiami pažeidžiamų vartotojų elektros įrenginiams, nurodytiems šio straipsnio 11 dalies 1 punkte, prijungti, ir 50 procentų skirstomųjų tinklų įrengimo darbų sąnaudų, kai skirstomieji tinklai įrengiami kitų vartotojų elektros įrenginiams, nurodytiems šio straipsnio 11 dalies 1 ar 2 punkte, prijungti.“
 
-\#### 18 straipsnis. 202 straipsnio pakeitimas
+## 18 straipsnis. 202 straipsnio pakeitimas
 
 Pakeisti 20^2 straipsnio 16 dalį ir ją išdėstyti taip:
 
 „16. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, parengia ir savo interneto svetainėje paskelbia rekomendacijas dėl atsinaujinančių išteklių energijos bendrijų veiklos sąlygų.“
 
-\#### 19 straipsnis. 22 straipsnio pakeitimas
+## 19 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnio 29 dalies 7 punktą ir jį išdėstyti taip:
 
 „7) Vyriausybės nustatyta tvarka ir terminais subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, teikti ataskaitas apie elektrinių plėtros jūrinėje teritorijoje projekto įgyvendinimo eigą ir apie šio straipsnio 11 dalies 2 ir 17 punktuose nurodytų prisiimtų reikalavimų vykdymą.“
 
-\#### 20 straipsnis. 221 straipsnio pakeitimas
+## 20 straipsnis. 221 straipsnio pakeitimas
 
 Pakeisti 22^1 straipsnio 9 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) Vyriausybės nustatyta tvarka ir terminais subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, teikti ataskaitas apie elektrinių plėtros jūrinėje teritorijoje projekto įgyvendinimo eigą ir apie šio įstatymo 22 straipsnio 11 dalies 2 ir 17 punktuose nurodytų prisiimtų reikalavimų vykdymą.“
 
-\#### 21 straipsnis. 23 straipsnio pakeitimas
+## 21 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
@@ -360,13 +360,13 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 2. Aprūpinimas šilumos energija organizuojamas vadovaujantis šilumos ūkio specialiaisiais planais, kurie rengiami atsižvelgiant į šio įstatymo 1 straipsnio 5 dalies 3 punkte nurodytus uždavinius bei šilumos ir vėsumos energijos gamybos iš atsinaujinančių energijos išteklių pajėgumų plėtros prielaidas. Sprendimus dėl šilumos ir vėsumos energijos gamybos iš atsinaujinančių energijos išteklių pajėgumų plėtros, vadovaudamasi šilumos ūkio specialiojo plano nuostatomis, priima savivaldybės taryba.“
 
-\#### 22 straipsnis. 28 straipsnio pakeitimas
+## 22 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Siekiant įrodyti galutiniams vartotojams, kokią energijos tiekėjo tiekiamos energijos dalį ar kokį kiekį energijos tiekėjo energijos rūšių derinyje ir energijoje, kuri vartotojams tiekiama pagal sutartis, sudaro atsinaujinančių išteklių energija, elektros energijos, pagamintos iš atsinaujinančių energijos išteklių ir tiekiamos į elektros tinklus, ir šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių ir tiekiamos į aprūpinimo šiluma sistemą, dujų, pagamintų iš atsinaujinančių energijos išteklių ir tiekiamų į gamtinių dujų sistemą, ir iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro energijos vienetui išduodama kilmės garantija.“
 
-\#### 23 straipsnis. 29 straipsnio pakeitimas
+## 23 straipsnis. 29 straipsnio pakeitimas
 
 1. Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -408,7 +408,7 @@ b) pagal atsiskaitymo už disbalansą laikotarpį, atsižvelgiant į Reglamento 
 
 6) išdavimo data bei valstybė ir unikalus identifikacinis numeris.“
 
-\#### 24 straipsnis. 30 straipsnio pakeitimas
+## 24 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -418,7 +418,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 2. Dujų sistemų operatoriai privalo sudaryti sąlygas biodujas tiekti į dujų sistemas.“
 
-\#### 25 straipsnis. 31 straipsnio pakeitimas
+## 25 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -426,7 +426,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 Energetikos ministras tvirtina technines taisykles, nustatančias privalomus biodujų gamybos įrenginių techninių konstrukcijų ir eksploatavimo reikalavimus, tarp jų dujų kokybės, dujų kvapo neutralizavimo ir dujų slėgio reikalavimus, taikomus biodujų gamybos įrenginių prijungimui prie dujų sistemų. Šios techninės taisyklės nustatomos vadovaujantis objektyviais ir nediskriminaciniais principais.“
 
-\#### 26 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
+## 26 straipsnis. Septintojo skirsnio pavadinimo pakeitimas
 
 Pakeisti septintojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -434,7 +434,7 @@ Pakeisti septintojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS,****ATSINAUJINANČIŲ IŠTEKLIŲ KURO IR****KURO IŠ PERDIRBTŲ NEATSINAUJINANČIŲ IŠTEKLIŲ ATLIEKŲ****GAMYBOS IR NAUDOJIMO PLĖTRA**“.
 
-\#### 27 straipsnis. 37 straipsnio pakeitimas
+## 27 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnįir jį išdėstyti taip:
 
@@ -494,7 +494,7 @@ Pakeisti 37 straipsnįir jį išdėstyti taip:
 
 15. Biodegalai ir skystieji bioproduktai, taip pat biomasės kuras, pagaminti iš atliekų ir liekanų, susidariusių ne miško žemėje, bet žemės ūkio paskirties žemėje, įvertinami apskaičiuojant šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, vertinant energijos gamintojų atitiktį įsipareigojimams naudoti atsinaujinančių išteklių energiją ir teikiant finansinę paramą už biomasės kuro, biodegalų ir skystųjų bioproduktų naudojimą tik tais atvejais, kai ūkinės veiklos vykdytojai arba atitinkamos valstybės institucijos yra parengę stebėsenos arba valdymo planus, skirtus veiklos poveikio dirvožemio kokybei ir dirvožemio angliai vertinti. Informacija apie tai, kaip tas poveikis stebimas ir valdomas, pateikiama auditų, numatytų šio straipsnio 7 dalyje, ataskaitose.“
 
-\#### 28 straipsnis. 38 straipsnio pakeitimas
+## 28 straipsnis. 38 straipsnio pakeitimas
 
 Pakeisti 38 straipsnįir jį išdėstyti taip:
 
@@ -588,7 +588,7 @@ Pakeisti 38 straipsnįir jį išdėstyti taip:
 
 14. Nustatant didelę netiesioginio žemės paskirties naudojimo keitimo riziką keliančias pradines žaliavas, kurių auginimo teritorija plečiama į teritorijas, kuriose yra didelių anglies sankaupų, ir sertifikuojant nedidelę netiesioginio žemės paskirties naudojimo keitimo riziką keliančius biodegalus, skystuosius bioproduktus ir biomasės kurą, taikomi kriterijai, nurodyti 2019 m. kovo 13 d. Europos Komisijos deleguotajame reglamente (ES) 2019/807, kuriuo dėl didelę netiesioginio žemės naudojimo keitimo riziką keliančių pradinių žaliavų, kurių auginimo teritorija reikšmingai plečiama į žemės, kurioje yra didelių anglies sankaupų, plotus, nustatymo ir nedidelę netiesioginio žemės naudojimo keitimo riziką keliančių biodegalų, skystųjų bioproduktų ir biomasės kuro sertifikavimo papildoma Europos Parlamento ir Tarybos direktyva (ES) 2018/2001.“
 
-\#### 29 straipsnis. 391 straipsnio pakeitimas
+## 29 straipsnis. 391 straipsnio pakeitimas
 
 Pakeisti 39^1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -604,7 +604,7 @@ a) didesnis kaip 200 kubinių metrų metano per valandą, matuojant standartinė
 
 b) jeigu biodujas sudaro metano ir kitų nedegių dujų mišinys, metano srautui taikoma šio punkto a papunktyje nustatyta ribinė vertė, proporcingai perskaičiuota metano tūrio daliai mišinyje.“
 
-\#### 30 straipsnis. 393 straipsnio pakeitimas
+## 30 straipsnis. 393 straipsnio pakeitimas
 
 1. Pakeisti 393 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -632,19 +632,19 @@ b) mažiausiai 80 procentų – jų eksploatavimo trukmei pasiekus 15 metų;
 
 „5. Biomasės kuras negali būti pagamintas iš žaliavų, nurodytų šio įstatymo 38 straipsnio 6, 7 ir 9 dalyse, ir privalo būti pagamintas laikantis šio įstatymo 38 straipsnio 10–14 dalyse nustatytų kriterijų.“
 
-\#### 31 straipsnis. 394 straipsnio pakeitimas
+## 31 straipsnis. 394 straipsnio pakeitimas
 
 Pakeisti 39^4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Sertifikavimo įmonė atlieka energijos išteklių rinkos dalyvių, siekiančių gauti savanorišką tarptautinį sertifikatą, nepriklausomą auditą ir išduoda sertifikatą arba pateikia motyvuotą atsisakymą jį išduoti. Sertifikavimo įmonė kiekvienais metais atlieka energijos išteklių rinkos dalyvių, turinčių savanorišką tarptautinį sertifikatą, kuriuo patvirtinama biomasės kuro ar biomasės kuro žaliavų gamybos atitiktis šio įstatymo 39^3 straipsnyje nustatytiems kriterijams, nepriklausomą auditą. Leidžiama atlikti biomasės kuro iš miško biomasės gamintojų vidaus auditą arba antrosios šalies auditą iki pirmosios miško biomasės surinkimo vietos, siekiant įvertinti atitiktį šio įstatymo 38 straipsnio 10 ir 12 dalyse nustatytiems kriterijams. Audito metu patikrinama, ar naudojamos sistemos yra tikslios, patikimos ir apsaugotos nuo klastojimo, užtikrinant, kad medžiagos nebūtų tikslingai pakeistos ar išmestos, kad žaliavos ir kuro partija arba jos dalis galėtų tapti atliekomis ar liekanomis, taip pat įvertinamas ėminių dažnumas, metodika ir informacijos patikimumas.“
 
-\#### 32 straipsnis. 395 straipsnio pakeitimas
+## 32 straipsnis. 395 straipsnio pakeitimas
 
 Pakeisti 39^5 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) pagal duomenų teikimo sutartis tikrinti nacionalinėje schemoje dalyvaujančių energijos išteklių biržos dalyvių pateiktus duomenis ir informaciją Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos, Valstybinės miškų tarnybos, valstybės įmonės Valstybinių miškų urėdijos, Nekilnojamojo turto registro informacinės sistemos, Valstybinės saugomų teritorijų tarnybos prie Aplinkos ministerijos ir (ar) valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro duomenų bazėse.“
 
-\#### 33 straipsnis. 396 straipsnio pakeitimas
+## 33 straipsnis. 396 straipsnio pakeitimas
 
 Pakeisti 39^6 straipsnį ir jį išdėstyti taip:
 
@@ -660,7 +660,7 @@ Pakeisti 39^6 straipsnį ir jį išdėstyti taip:
 
 5. Subjekto, nurodyto Energetikos įstatymo 131 straipsnyje, prašymu sertifikavimo įmonės privalo pateikti nepriklausomo audito ataskaitą, o energijos išteklių biržos operatorius – metinę ataskaitą, kuriomis remiantis energijos išteklių rinkos dalyviams išduotas savanoriškas tarptautinis sertifikatas arba patvirtinta biomasės kuro atitiktis šio įstatymo 393 straipsnyje nustatytiems kriterijams pagal savanorišką nacionalinę schemą. Jeigu subjektas, nurodytas Energetikos įstatymo 131 straipsnyje, nustato, kad nepriklausomo audito ataskaitoje ar energijos išteklių biržos operatoriaus metinėje ataskaitoje pateikta informacija neatitinka šio įstatymo 393 straipsnyje nustatytų kriterijų, jis nedelsdamas apie tai informuoja atitinkamai Europos Komisiją ir Europos Komisijos sprendimu pripažintą savanorišką tarptautinę schemą administruojantį subjektą arba Europos Komisiją ir Energetikos ministeriją apie nustatytas neatitiktis.“
 
-\#### 34 straipsnis. Įstatymo papildymas 397 straipsniu
+## 34 straipsnis. Įstatymo papildymas 397 straipsniu
 
 Papildyti Įstatymo septintąjį^1 skirsnį 39^7 straipsniu:
 
@@ -700,7 +700,7 @@ Papildyti Įstatymo septintąjį^1 skirsnį 39^7 straipsniu:
 
 6. Pagal šio straipsnio 2 dalį, finansinė parama neteikiama žaliavinės medienos ir (ar) miško kirtimo liekanų naudojimui įrenginiuose, kuriuose gaminama tik elektros energija, nebent tokia elektros energija atitinka šio įstatymo 391 straipsnio 3 ir 4 dalyse nustatytus reikalavimus.“
 
-\#### 35 straipsnis. 45 straipsnio pakeitimas
+## 35 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -724,7 +724,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 6. Kitos valstybės narės šio straipsnio 4 dalyje nurodytiems specialistams išduoti atestatai, atitinkantys šio straipsnio 1 dalyje nurodytame tvarkos apraše nustatytus kriterijus, pripažįstami Lietuvos Respublikoje.“
 
-\#### 36 straipsnis. 46 straipsnio pakeitimas
+## 36 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
@@ -738,7 +738,7 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
 4. Gamintojas, kuris naudojasi ar ketina pasinaudoti paramos schema, kai jo eksploatuojamos elektrinės elektros energijos gamybos įrenginiuose elektros energijos gamybai naudojami atsinaujinantys energijos ištekliai ir iškastinis kuras, privalo kiekviename elektros energijos gamybos įrenginyje įrengti atskirus elektros energijos apskaitos prietaisus, fiksuojančius pagamintos elektros energijos kiekį. Kai viename elektros energijos gamybos įrenginyje elektros energijos gamybai naudojami atsinaujinantys energijos ištekliai ir iškastinis kuras, elektros energijos, pagamintos naudojant atsinaujinančius energijos išteklius ir iškastinį kurą, kiekiai apskaičiuojami atsižvelgiant į sunaudoto kuro balansą, kuris nustatomas ir Valstybinės energetikos reguliavimo tarybos patikrinamas pagal Lietuvos Respublikos metrologijos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus atitinkančių apskaitos prietaisų mėnesinius rodmenis, aiškiai atskiriančius į elektros energijos gamybos įrenginį patiektos energijos kiekius iš atsinaujinančius energijos išteklius ir iškastinį kurą naudojančių kurą deginančių įrenginių.“
 
-\#### 37 straipsnis. 48 straipsnio pakeitimas
+## 37 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
@@ -752,7 +752,7 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
 4. Planuojant miestų ir (ar) miesto dalių infrastruktūrą konsultuojamasi su elektros tinklų operatoriais dėl energijos vartojimo efektyvumo, reagavimo į paklausą, gaminančių vartotojų ir atsinaujinančių išteklių energetikos bendrijų poveikio valdomos infrastruktūros plėtros planams.“
 
-\#### 38 straipsnis. Įstatymo papildymas 481 straipsniu
+## 38 straipsnis. Įstatymo papildymas 481 straipsniu
 
 Papildyti Įstatymą 48^1 straipsniu:
 
@@ -774,7 +774,7 @@ Papildyti Įstatymą 48^1 straipsniu:
 
 4. Šio straipsnio 1 dalyje nurodytas žemėlapis peržiūrimas ir atnaujinamas, pasikeitus duomenims, taip pat atnaujinant energetikos ir klimato srities planavimo dokumentus.“
 
-\#### 39 straipsnis. Įstatymo papildymas 482 straipsniu
+## 39 straipsnis. Įstatymo papildymas 482 straipsniu
 
 Papildyti Įstatymą 48^2 straipsniu:
 
@@ -806,7 +806,7 @@ Papildyti Įstatymą 48^2 straipsniu:
 
 13. Perdavimo sistemos ir skirstomųjų tinklų operatoriai, vykdydami elektros tinklų planavimą, vadovaujasi Elektros energetikos įstatymu ir Paspartintos plėtros zonų planu.“
 
-\#### 40 straipsnis. 49 straipsnio pakeitimas
+## 40 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
@@ -888,7 +888,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 24. Vėjo elektrinių statybos vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus, taikomos Specialiųjų žemės naudojimo sąlygų įstatyme nustatytos specialiosios žemės naudojimo sąlygos, kurios iš anksto, teritorijų planavimo metu, o kai teritorijų planavimo dokumentas nerengiamas, – iki statybą leidžiančio dokumento išdavimo, Viešojo administravimo įstatymo 10 straipsnio 4 dalyje nustatytais terminais derinamos su Lietuvos kariuomenės vadu ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo elektrinių statybos vietos derinamos su sąlyga, kad statyti ar įrengti elektrinę planuojantis asmuo ne vėliau kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai institucijai pateiks patvirtintą statybos projektą ir su šia institucija pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų atlikimui užtikrinti, atlyginti, sumokėjimo ir pateiks šios prievolės įvykdymo užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių ar leidime plėtrai ir eksploatacijai, kai elektrinė plėtojama jūrinėje teritorijoje, numatomų įrengti elektrinės pajėgumų dydį (kW) iš 18 eurų už 1 kW. Kompensacijų mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip valstybės biudžeto asignavimai. Vėjo elektrinių statybos vietos derinamos netaikant reikalavimo pasirašyti sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų atlikimui užtikrinti, atlyginti, sumokėjimo, jeigu statyti ar įrengti vėjo elektrinę planuojantis asmuo statybos projekte numato papildomų Vyriausybės nustatyta tvarka su Lietuvos kariuomene ir (ar) kitomis nacionalinį saugumą užtikrinančiomis institucijomis suderintų techninių priemonių (radarų, elektrooptinių įrenginių, ryšių ir duomenų perdavimo (informacinių sistemų) įrangos), užtikrinančių planuojamų statyti vėjo elektrinių keliamų trukdžių vykdomam Lietuvos Respublikos teritorijos ir Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje bei kontinentinio šelfo stebėjimui išvengimą, įrengimą ir iki statybą leidžiančio dokumento išdavimo su Lietuvos kariuomene ir (ar) kitomis nacionalinį saugumą užtikrinančiomis institucijomis pasirašo sutartį dėl šių priemonių įrengimo, priežiūros, eksploatavimo ir gaunamų duomenų perdavimo Lietuvos kariuomenei ir (ar) kitoms nacionalinį saugumą užtikrinančioms institucijoms.“
 
-\#### 41 straipsnis. 51 straipsnio pakeitimas
+## 41 straipsnis. 51 straipsnio pakeitimas
 
 1. Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -898,7 +898,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 „6. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, rengia, teikia ir viešai skelbia informaciją apie sistemas ir įrenginius, naudojančius atsinaujinančius energijos išteklius, jų teikiamą naudą, sąnaudas ir šių išteklių vartojimo efektyvumą; taip pat rengia ir savo interneto svetainėje skelbia rekomendacijas dėl saulės šviesos energijos elektrinės įrengimo ant daugiabučio namo stogo ir standartines daugiabučio namo stogo nuomos (panaudos) sutarties sąlygas, kuriose taip pat turi būti nurodytos saulės šviesos energijos elektrinės įrengimo ant stogo, eksploatavimo ir stogo naudojimo sąlygos, daugiabučio namo patalpų savininkų ir (ar) daugiabučio namo bendrojo naudojimo objektų valdytojo ir saulės šviesos energijos elektrinės valdytojo teisės ir pareigos.“
 
-\#### 42 straipsnis. 55 straipsnio pakeitimas
+## 42 straipsnis. 55 straipsnio pakeitimas
 
 Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
@@ -910,13 +910,13 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 
 3. Valstybės duomenų agentūra užtikrina statistinių duomenų apie visą šalyje suvartotą atsinaujinančių išteklių energiją ir atsinaujinančių išteklių kurą ir (ar) energiją, pagamintą iš atsinaujinančių energijos išteklių, ir pagamintą atsinaujinančių išteklių kurą, taip pat informacijos apie šio įstatymo 1 straipsnio 4 ir 5 dalyse nurodytų uždavinių pasiekimą surinkimą ir paskelbimą savo interneto svetainėje.“
 
-\#### 43 straipsnis. 57 straipsnio pakeitimas
+## 43 straipsnis. 57 straipsnio pakeitimas
 
 Pakeisti 57 straipsnio 10 dalį ir ją išdėstyti taip:
 
 „10. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, Vyriausybės įgaliotos institucijos nustatyta tvarka renka, kaupia ir sistemina šio straipsnio 3 ir 4 dalyse nurodytą informaciją ir ją skelbia savo interneto svetainėje.“
 
-\#### 44 straipsnis. Įstatymo papildymas 581 straipsniu
+## 44 straipsnis. Įstatymo papildymas 581 straipsniu
 
 Papildyti Įstatymą 58^1 straipsniu:
 
@@ -936,7 +936,7 @@ Papildyti Įstatymą 58^1 straipsniu:
 
 5. Iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro kiekis ar jo dalis laikoma perduota tik po to, kai perdavime dalyvavusi Lietuvos Respublika ir kitos valstybės narės apie perdavimą praneša Europos Komisijai.“
 
-\#### 45 straipsnis. 59 straipsnio pakeitimas
+## 45 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
@@ -972,19 +972,19 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 10. Lietuvos Respublikoje vykdomi bendri projektai su kitomis valstybėmis narėmis negali turėti neigiamos įtakos šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu, įgyvendinimui.“
 
-\#### 46 straipsnis. 60 straipsnio pakeitimas
+## 46 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
 „1. Per 3 mėnesius, pasibaigus kiekvieniems šio įstatymo 59 straipsnio 7 dalies 5 punkte nustatyto laikotarpio metams, Vyriausybės nustatyta tvarka jos įgaliota institucija parengia pranešimą, kuriame nurodo:“.
 
-\#### 47 straipsnis. 63 straipsnio pakeitimas
+## 47 straipsnis. 63 straipsnio pakeitimas
 
 Pakeisti 63 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Bendros paramos schemos su kitomis valstybėmis narėmis negali turėti neigiamos įtakos šio įstatymo 1 straipsnio 5 dalyje nustatytų uždavinių įgyvendinimui.“
 
-\#### 48 straipsnis. 64 straipsnio pakeitimas
+## 48 straipsnis. 64 straipsnio pakeitimas
 
 1. Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -992,11 +992,11 @@ Pakeisti 63 straipsnio 5 dalį ir ją išdėstyti taip:
 
 2. Pripažinti netekusia galios 64 straipsnio 8 dalį.
 
-\#### 49 straipsnis. 65 straipsnio pakeitimas
+## 49 straipsnis. 65 straipsnio pakeitimas
 
 Pripažinti netekusia galios 65 straipsnio 3 dalį.
 
-\#### 50 straipsnis. Įstatymo priedo pakeitimas
+## 50 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 7 punktu:
 
@@ -1006,7 +1006,7 @@ Pripažinti netekusia galios 65 straipsnio 3 dalį.
 
 „8. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva [(ES) 2024/1711](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024L1711&locale=lt), kuria dėl Sąjungos elektros energijos rinkos modelio tobulinimo iš dalies keičiamos direktyvos [(ES) 2018/2001](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018L2001&locale=lt) ir [(ES) 2019/944](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019L0944&locale=lt).“
 
-\#### 51 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 51 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 14 d.
 

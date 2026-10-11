@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bedbe0b255c311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BEDBE0B255C3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymo Nr. XIV-1015 1, 3, 7, 10 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
@@ -26,19 +26,19 @@ LIETUVOS KARIUOMENĖS RŪDNINKŲ KARINIO POLIGONO ĮSTATYMO NR. XIV-1015 1, 3, 7
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Šis įstatymas nustato Lietuvos kariuomenės Rūdninkų karinio poligono (toliau – poligonas) teritorijos ribas ir jos suformavimą, žemės, reikalingos poligonui įkurti, paėmimą visuomenės poreikiams, statinių ir įrenginių poligono teritorijoje statybą (įrengimą) (toliau – poligono įkūrimas), žemės, reikalingos poligonui įkurti, paėmimo visuomenės poreikiams procedūras, statinių ir įrenginių statybos (įrengimo) poligono teritorijoje reikalavimus ir sudaro teisines, finansines ir organizacines sąlygas, reikalingas poligonui įkurti, taip pat nustato poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje sąlygas ir žemės paėmimo visuomenės poreikiams procedūras.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šiuo įstatymu poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statyba (įrengimas) ne poligono teritorijoje ir naujų saugomų teritorijų už poligono teritorijos ribų įsteigimas, kuriuo kompensuojamas poligono teritorijos ribų nustatymo ir jo naudojimo neigiamas poveikis jame esančioms gamtos vertybėms, pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektu. Šiam ypatingos valstybinės svarbos krašto apsaugos srities projektui šiame įstatyme nustatytas reglamentavimas, išskyrus šio įstatymo 4 straipsnio 4 dalį, 5 straipsnio 2 dalį ir 8^1 straipsnį, netaikomas.“
 
-\#### 3 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
+## 3 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas
 
 Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **POLIGONO ĮKŪRIMAS IR POLIGONO EFEKTYVŲ NAUDOJIMĄ UŽTIKRINANČIŲ INŽINERINIŲ STATINIŲ IR ĮRENGINIŲ STATYBA (ĮRENGIMAS) NE POLIGONO TERITORIJOJE**“.
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 „7. Krašto apsaugos ministerija šiuo įstatymu jai perduotus patikėjimo teise valdyti valstybinės žemės sklypus gali išnuomoti be aukciono Vyriausybės nustatyta tvarka valdžios ir privataus subjektų partnerystės sutarties, kurios tikslas – užtikrinti Vokietijos Federacinės Respublikos sunkiosios brigados dislokavimą poligono teritorijoje, padidinti infrastruktūros ir paslaugų prieinamumą, siekiant patenkinti numatomos dislokuoti Vokietijos Federacinės Respublikos sunkiosios brigados poreikius, ir padidinti kovinius pajėgumus Lietuvos Respublikos suverenitetui, teritorijos neliečiamybei ir vientisumui saugoti ir ginti, galiojimo laikotarpiui privataus sektoriaus subjektams, kai šie žemės sklypai reikalingi vykdant valdžios ir privataus subjektų partnerystės sutartį, sudarytą vadovaujantis Lietuvos Respublikos investicijų įstatymu. Krašto apsaugos ministerijai šiuo įstatymu patikėjimo teise perduoti valstybinės žemės sklypai, kurie yra reikalingi poligono efektyvų naudojimą užtikrinantiems inžineriniams statiniams ir įrenginiams statyti (įrengti), išnuomojami vadovaujantis Žemės įstatymu.“
 
-\#### 5 straipsnis. Įstatymo papildymas 81 straipsniu
+## 5 straipsnis. Įstatymo papildymas 81 straipsniu
 
 Papildyti Įstatymo trečiąjį skirsnį 8^1 straipsniu:
 
@@ -76,13 +76,13 @@ Papildyti Įstatymo trečiąjį skirsnį 8^1 straipsniu:
 
 7. Šiame straipsnyje nurodytos teisinio reglamentavimo išimtys taikomos tais atvejais, kai Projektą įgyvendinančioji institucija pateikia Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančiajai institucijai duomenis apie inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje poreikį.“
 
-\#### 6 straipsnis. 10 straipsnio pakeitimas
+## 6 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Projektą įgyvendinančioji institucija, gavusi turto vertinimo ataskaitą, kreipiasi į Nacionalinę žemės tarnybą su prašymu priimti sprendimą paimti žemę visuomenės poreikiams, kuriame nurodo visuomenės poreikiams paimamuose žemės sklypuose esančių statinių ir įrenginių savininkus, naudotojus ir patikėjimo teisės subjektus (patikėtinius). Jeigu visuomenės poreikiams paimamas žemės sklypas, jame esantys statiniai ir įrenginiai yra įkeisti, Projektą įgyvendinančioji institucija kartu su prašymu taip pat turi pateikti Projekto įgyvendinančiosios institucijos, turto savininko ir kreditoriaus susitarimą dėl nuostolių atlyginimo.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. liepos 1 d.
 

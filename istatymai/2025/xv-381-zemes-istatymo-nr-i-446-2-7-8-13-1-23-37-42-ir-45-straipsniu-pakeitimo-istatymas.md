@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d8d5e3a055d011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D8D5E3A055D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 51 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos investicijų įstatyme,Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos žemės mokesčio įstatyme, Lietuvos Respublikos žemės reformos įstatyme ir Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatyme.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 12 dalį ir ją išdėstyti taip:
 
@@ -50,13 +50,13 @@ Vilnius
 
 „5) Investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektamsarba gynybos ir saugumo pramonės projektams įgyvendinti;“.
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijai, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais. Vyriausybės įgaliotoms institucijoms pagal su jomis šio įstatymo nustatyta tvarka sudaromas valstybinės žemės panaudos sutartis gali būti perduodami laikinai, iki rezervuoto investicinio valstybinės žemės sklypo nuomos sutarties sudarymo, bet ne ilgiau negu iki rezervuoto investicinio valstybinės žemės sklypo rezervacijos termino pabaigos, neatlygintinai naudotis rezervuoti investiciniai valstybinės žemės sklypai inžinerinei valstybės ir (ar) vietinės reikšmės kelio ir (ar) kitai inžinerinei infrastruktūrai statyti ir (ar) įrengti. Sudarant valstybinės žemės panaudos sutartis, savivaldybėms taip pat gali būti perduoti laikinai, iki rezervuoto investicinio valstybinės žemės sklypo (jo dalies) nuomos sutarties sudarymo, bet ne ilgiau negu iki rezervuoto investicinio valstybinės žemės sklypo (jo dalies) rezervacijos termino pabaigos, neatlygintinai naudotis rezervuoti investiciniai valstybinės žemės sklypai (jų dalys) inžinerinei savivaldybės infrastruktūrai įrengti, sutvarkyti ir (ar) investiciniam valstybinės žemės sklypui (jo daliai) vystyti Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio 38 punkto pagrindu. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai (jų dalys), reikalingi šiems statiniams ar įrenginiams eksploatuoti. Kai panaudos pagrindais perduodamas žemės sklypas (jo dalis) reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka.“
 
-\#### 4 straipsnis. 131 straipsnio pakeitimas
+## 4 straipsnis. 131 straipsnio pakeitimas
 
 1. Pakeisti 131 straipsnio 1 dalį iki dvitaškio ir ją išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3. Valstybinės žemės sklypai, atitinkantys bent vieną šio straipsnio 1 dalyje nustatytą kriterijų, o urbanizuotose ir urbanizuojamose teritorijose esantys valstybinės žemės sklypai – šio straipsnio 1^1 dalyje nustatytus kriterijus, motyvuotu Ekonomikos ir inovacijų ministerijos arba savivaldybės, kurios teritorijoje yra valstybinės žemės sklypas, siūlymu, nurodant faktines aplinkybes, kurios pagrindžia valstybinės žemės sklypo atitiktį šio straipsnio 1 dalyje nustatytiems kriterijams, o urbanizuotose ir urbanizuojamose teritorijose esantys valstybinės žemės sklypai – šio straipsnio 1^1dalyje nustatytiems kriterijams, įtraukiami į rezervuotų investicinių valstybinės žemės sklypų sąrašą Nacionalinės žemės tarnybos vadovo sprendimu. Jeigu minėtą siūlymą Nacionalinei žemės tarnybai teikia savivaldybė, prie jo turi būti pridedamas Ekonomikos ir inovacijų ministerijos pritarimas tokį žemės sklypą įtraukti į rezervuotų investicinių valstybinės žemės sklypų sąrašą. Rezervuotų investicinių valstybinės žemės sklypų sąrašas viešai skelbiamas ir keičiamas Vyriausybės arba jos įgaliotų institucijų nustatyta tvarka. Investicinis valstybinės žemės sklypas rezervuojamas 5 metų laikotarpiui nuo Nacionalinės žemės tarnybos vadovo sprendimo, kuriuo sklypas įtraukiamas į rezervuotų investicinių valstybinės žemės sklypų sąrašą, įsigaliojimo dienos. Rezervuoto investicinio valstybinės žemės sklypo rezervacijos terminas Vyriausybės arba jos įgaliotų institucijų nustatyta tvarka gali būti pratęsiamas Ekonomikos ir inovacijų ministerijos motyvuotu siūlymu dar 5 metams, jeigu nėra baigti inžinerinės savivaldybės infrastruktūros įrengimo, sutvarkymo darbai arba yra investuotojas, planuojantis įgyvendinti investicinį projektą rezervuotame investiciniame valstybinės žemės sklype, arba kitais atvejais, kai investicijoms tinkamų teritorijų paklausa valstybėje viršija esamą pasiūlą. Investicijoms tinkamų teritorijų paklausą ir pasiūlą nustato Ekonomikos ir inovacijų ministerija. Rezervuoto investicinio valstybinės žemės sklypo rezervacijos terminas pratęsiamas Nacionalinės žemės tarnybos vadovo sprendimu. Per 2 metus nuo žemės ūkio paskirties žemės sklypo įtraukimo į rezervuotų investicinių valstybinės žemės sklypų sąrašą neinicijavus žemės sklypo pagrindinės žemės naudojimo paskirties keitimui reikalingų dokumentų rengimo Teritorijų planavimo įstatymo numatyta tvarka, rezervuotas investicinis valstybinės žemės sklypas Nacionalinės žemės tarnybos vadovo sprendimu yra išbraukiamas iš rezervuotų investicinių valstybinės žemės sklypų sąrašo.“
 
-\#### 5 straipsnis. 23 straipsnio pakeitimas
+## 5 straipsnis. 23 straipsnio pakeitimas
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -88,19 +88,19 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „7. Žemės sklypo naudojimo būdas nustatomas ir keičiamas pagal teritorijų planavimo dokumentus ar žemės valdos projektus. Valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, naudojimo būdas nustatomas pagal karinės infrastruktūros projektą. Valstybinės žemės sklypo (-ų), reikalingo (-ų) stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektui įgyvendinti, naudojimo būdas nustatomas ir (ar) keičiamas pagal specialiosios paskirties projektą. Žemės sklypams nustatomi šio įstatymo 24–28 straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliota institucija.Rezervuotų investicinių valstybinės žemės sklypų, esančių neurbanizuotose ir neurbanizuojamose teritorijose, žemės sklypo naudojimo būdas gali būti keičiamas bendra šiame straipsnyje nustatyta tvarka arba pagal teritorijų planavimo dokumentą, parengtą taikant *mutatis mutandis* valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką, numatytą Teritorijų planavimo įstatymo 23 straipsnyje.“
 
-\#### 6 straipsnis. 37 straipsnio pakeitimas
+## 6 straipsnis. 37 straipsnio pakeitimas
 
 Pakeisti 37 straipsnio 11^1 dalį ir ją išdėstyti taip:
 
 „11^1. Specialiosios paskirties projektai rengiami aplinkos ministro ir ekonomikos ir inovacijų ministro nustatyta tvarka. Rengiant specialiosios paskirties projektus teritorijų planavimo dokumentų, išskyrus valstybei svarbių projektų teritorijų planavimo dokumentus, sprendiniai taikomi tiek, kiek jie neprieštarauja šių rengiamų specialiosios paskirties projektų sprendiniams. Specialiosios paskirties projektų rengimą inicijuoja Ekonomikos ir inovacijų ministerija, o organizuoja stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektą įgyvendinantis subjektas arba ekonomikos ir inovacijų ministro įgaliota įstaiga. Specialiosios paskirties projektai tvirtinami Vyriausybės nutarimu. Rengiant, keičiant ar koreguojant savivaldybės lygmens bendrąjį planą, Vyriausybės nutarimu patvirtintų specialiosios paskirties projektų sprendiniai integruojami į tos savivaldybės bendrojo plano sprendinius.“
 
-\#### 7 straipsnis. 42 straipsnio pakeitimas
+## 7 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Specialiosios paskirties projekto rengimas finansuojamas iš stambų projektą, Vyriausybės nutarimu pripažintą užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektą įgyvendinančių subjektų arba ekonomikos ir inovacijų ministro įgaliotos įstaigos lėšų.“
 
-\#### 8 straipsnis. 45 straipsnio pakeitimas
+## 8 straipsnis. 45 straipsnio pakeitimas
 
 1. Pakeisti 45 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 42 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „2. Visuomenės poreikiams reikalingam konkrečiam objektui statyti (įrengti) konkrečios vietos ir ploto motyvuotas pagrindimas turi būti atliktas rengiant vietovės lygmens kompleksinio teritorijų planavimo dokumentą ar specialiojo teritorijų planavimo dokumentą, ar specialiosios paskirties projektą. Konkrečios vietos ir ploto motyvuotas pagrindimas gali būti sudedamoji vietovės lygmens kompleksinio teritorijų planavimo dokumento ar specialiojo teritorijų planavimo dokumento dalis arba gali būti parengtas kaip atskiras dokumentas, teikiamas kartu su vietovės lygmens kompleksinio teritorijų planavimo dokumentu ar specialiojo teritorijų planavimo dokumentu.“
 
-\#### 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 9 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 1 d.
 

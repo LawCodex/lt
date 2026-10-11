@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.419473FF6931"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.419473FF6931.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 1 straipsnio pakeitimo, Kodekso papildymo 4-2 straipsniu ir Kodekso priedo pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [105-2393](https://www.e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F); 2002, Nr. [123-5510](https://www.e-tar.lt/portal/lt/legalAct/TAR.610AFB0427D6); 2008, Nr. [134-5177](https://www.e-tar.lt/portal/lt/legalAct/TAR.DFCF664927C1))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vidaus vandenų transporto kodeksas reguliuoja vidaus vandenų laivybos, uostų veiklos, keleivių, krovinių, bagažo, pašto vežimo, buksyravimo santykius, taip pat nustato atsakomybę už žalą, padarytą vidaus vandenų transporto, ir už kitus šio kodekso nuostatų pažeidimus. Keleiviams, kurie keliauja 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (toliau – Reglamentas (ES) Nr. 1177/2010), 2 straipsnio 1 ir 2 dalyse nustatytomis sąlygomis, šio kodekso nuostatos taikomos tiek, kiek keleivių vežimo sąlygos ir tvarka nenustatyta Reglamente (ES) Nr. 1177/2010.“
 
-\#### 2 straipsnis. Kodekso papildymas 42 straipsniu
+## 2 straipsnis. Kodekso papildymas 42 straipsniu
 
 Papildyti Kodeksą 4^2straipsniu:
 
@@ -40,7 +40,7 @@ Papildyti Kodeksą 4^2straipsniu:
 
 2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių skundus dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų Vartotojų teisių apsaugos įstatymo nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis privalo pateikti skundą vežėjui ar terminalo operatoriui.“
 
-\#### 3 straipsnis. Kodekso priedo pakeitimas ir papildymas
+## 3 straipsnis. Kodekso priedo pakeitimas ir papildymas
 
 1. Pakeisti Kodekso priedo 2 punktą ir jį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.50C78CEF37AA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.50C78CEF37AA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo 2, 5, 20, 23, 27, 33 ir 35 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [32-788](https://www.e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D); 2001, Nr. [101-3597](https://www.e-tar.lt/portal/lt/legalAct/TAR.80A638E6C263); 2002, Nr. [73-3093](https://www.e-tar.lt/portal/lt/legalAct/TAR.C961DAD4DB40), Nr. [124-5625](https://www.e-tar.lt/portal/lt/legalAct/TAR.28171DB80C1A); 2003, Nr. [104-4649](https://www.e-tar.lt/portal/lt/legalAct/TAR.48207ABF65C5))
 
-\#### 1 straipsnis. 2 straipsnio 32 ir 33 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 32 ir 33 dalių pakeitimas
 
 1. 2 straipsnio 32 dalyje vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šią dalį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „33. Statinio projektavimo sąlygų sąvadas – savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) patvirtintas konkrečiam statiniui nustatytų projektavimo sąlygų, įvardytų šio straipsnio 32 dalyje, bendrasis dokumentas.“
 
-\#### 2 straipsnis. 5 straipsnio 3 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 3 punkto pakeitimas
 
 5 straipsnio 3 punkte vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šį punktą išdėstyti taip:
 
 „3) atitiktų savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) išduotame projektavimo sąlygų sąvade nustatytus architektūros ir statybos sklypo tvarkymo urbanistinius reikalavimus, normatyvinius statybos techninius ir normatyvinius statinio saugos ir paskirties dokumentus;“.
 
-\#### 3 straipsnis. 20 straipsnio 2, 3, 4, 5, 9, 10 ir 12 dalių pakeitimas
+## 3 straipsnis. 20 straipsnio 2, 3, 4, 5, 9, 10 ir 12 dalių pakeitimas
 
 1. 20 straipsnio 2 dalyje vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Vilnius
 
 „12. Už statinio projektavimo sąlygų ir įstatymų bei kitų teisės aktų atitikimą pagal kompetenciją atsako jas parengę inžinerinių tinklų ir susisiekimo komunikacijų savininkai (naudotojai) ir institucijos, taip pat savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) Civilinio kodekso ir Viešojo administravimo įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. 23 straipsnio 5 dalies 2 punkto, 6, 7, 9, 10, 11, 12, 14 ir 19 dalių pakeitimas
+## 4 straipsnis. 23 straipsnio 5 dalies 2 punkto, 6, 7, 9, 10, 11, 12, 14 ir 19 dalių pakeitimas
 
 1. 23 straipsnio 5 dalies 2 punkte vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šį punktą išdėstyti taip:
 
@@ -160,19 +160,19 @@ Vilnius
 
 „19. Apskrities viršininko administracija arba Vyriausybės atstovas, arba Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos turi teisę sustabdyti savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) išduoto statybos leidimo galiojimą nuo prašymo (pareiškimo) dėl šio leidimo panaikinimo pateikimo teismui dienos iki teismo sprendimo, jei šie viešojo administravimo subjektai kreipėsi į teismą dėl leidimo panaikinimo. Apskrities viršininko administracijos išduoto statybos leidimo galiojimą ta pačia tvarka turi teisę sustabdyti Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos.“
 
-\#### 5 straipsnis. 27 straipsnio 6 dalies 10 punkto pakeitimas
+## 5 straipsnis. 27 straipsnio 6 dalies 10 punkto pakeitimas
 
 27 straipsnio 6 dalies 10 punkte vietoj žodžių „mero (jo įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)“ įrašyti žodžius „administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo)“ ir šį punktą išdėstyti taip:
 
 „10) sustabdyti savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės administracijos valstybės tarnautojo) neteisėtai išduoto statybos leidimo galiojimą nuo prašymo (pareiškimo) dėl šio leidimo panaikinimo pateikimo teismui dienos iki teismo sprendimo.“
 
-\#### 6 straipsnis. 33 straipsnio 1 dalies 1 punkto pakeitimas
+## 6 straipsnis. 33 straipsnio 1 dalies 1 punkto pakeitimas
 
 33 straipsnio 1 dalies 1 punkte vietoj žodžio „meras“ įrašyti žodžius „administracijos direktorius“ ir šį punktą išdėstyti taip:
 
 „1) savivaldybės administracijos direktorius;“.
 
-\#### 7 straipsnis. 35 straipsnio 1 dalies 4 ir 5 punktų bei 2 dalies pakeitimas
+## 7 straipsnis. 35 straipsnio 1 dalies 4 ir 5 punktų bei 2 dalies pakeitimas
 
 1. Pakeisti 35 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 

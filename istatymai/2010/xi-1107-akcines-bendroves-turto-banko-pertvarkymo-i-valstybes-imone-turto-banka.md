@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.48F5E13B5BC7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.48F5E13B5BC7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinės bendrovės Turto banko pertvarkymo į valstybės įmonę Turto banką įstatymas
@@ -22,11 +22,11 @@ LIETUVOS RESPUBLIKOS AKCINĖS BENDROVĖS TURTO BANKO PERTVARKYMO Į VALSTYBĖS �
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šiuo įstatymu akcinė bendrovė Turto bankas pertvarkoma į valstybės įmonę Turto banką.
 
-\#### 2 straipsnis. Pertvarkymo tvarka ir sąlygos
+## 2 straipsnis. Pertvarkymo tvarka ir sąlygos
 
 1. Akcinė bendrovė Turto bankas pertvarkoma į valstybės įmonę Turto banką vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos akcinių bendrovių įstatymu, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymu ir šiuo įstatymu.
 
@@ -38,7 +38,7 @@ Vilnius
 
 5. Apie sprendimą pertvarkyti akcinę bendrovę Turto banką viešai skelbiama Lietuvos dienraštyje vieną kartą ir pranešama visiems bendrovės kreditoriams raštu.
 
-\#### 3 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 3 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 1. Valstybės įmonės Turto banko savininko teises ir pareigas įgyvendina Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės valdymo institucija.
 

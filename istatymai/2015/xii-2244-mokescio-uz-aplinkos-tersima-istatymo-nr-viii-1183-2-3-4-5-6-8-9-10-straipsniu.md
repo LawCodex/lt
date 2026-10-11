@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6f878c50aeeb11e5b12fbb7dc920ee2c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6F878C50AEEB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 2, 3, 4, 5, 6, 8, 9, 10 straipsnių pakeitimo ir Įstatymo papildymo 7, 8 priedėliais įstatymo Nr. XII-1328 9 straipsnio pakeitimo įstatymas

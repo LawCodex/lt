@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.84940DD2397F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.84940DD2397F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 2, 3, 7, 8, 9, 10, 16, 17, 21, 23, 24 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2003, Nr. [73-3352](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13); 2011, Nr. [155-7353](https://www.e-tar.lt/portal/lt/legalAct/TAR.AFA734FB8321); 2012, Nr. [136-6968](https://www.e-tar.lt/portal/lt/legalAct/TAR.E0E14764588B); 2013, Nr. [10-421](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B6FEBB69134))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. **Bendrai gyvenantys asmenys**– sutuoktiniai ir jų vaikai (įvaikiai) iki 18 metų; susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų nepilnamečiai vaikai (įvaikiai), arba vienas iš tėvų ir jo vaikai (įvaikiai) iki 18 metų; neįregistravę santuokos ir bendrą ūkį tvarkantys pilnamečiai ar veiksniais pripažinti nepilnamečiai vyras ir moteris ir jų vaikai (įvaikiai) iki 18 metų. Į bendrai gyvenančių asmenų sudėtį taip pat įskaitomi dirbantys (taip pat savarankiškai dirbantys), jeigu per mėnesį jų gaunamos pajamos yra mažesnės kaip 1 valstybės remiamų pajamų dydis, arba nedirbantys (taip pat savarankiškai nedirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos.“
 
-\#### 2 straipsnis. 3 straipsnio 1 punkto pakeitimas
+## 2 straipsnis. 3 straipsnio 1 punkto pakeitimas
 
 Pakeisti 3 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) bendradarbiavimo ir dalyvavimo. Piniginės socialinės paramos teikimas remiasi asmenų, kurie kreipiasi dėl piniginės socialinės paramos, bendruomenės, bendrojo naudojimo objektų valdytojų, nevyriausybinių organizacijų, savivaldybės, valstybės institucijų ir įstaigų bendradarbiavimu ir tarpusavio pagalba;“.
 
-\#### 3 straipsnis. 7 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 5 dalimi
+## 3 straipsnis. 7 straipsnio 4 dalies pakeitimas ir straipsnio papildymas 5 dalimi
 
 1. Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 3 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „5. Daugiabučio namo butų savininkai, kurie kreipiasi dėl būsto šildymo išlaidų kompensacijų, turi dalyvauti svarstant ir priimant sprendimą susirinkime dėl daugiabučio namo atnaujinimo (modernizavimo) projekto įgyvendinimo pagal Vyriausybės patvirtintądaugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančią savivaldybės tarybos patvirtintą programą, jeigu toks sprendimas svarstomas ir priimamas, ir dalyvauti įgyvendinant šį projektą.“
 
-\#### 4 straipsnis. 8 straipsnio 1 dalies 2, 3, 6 punktų, 2, 3 dalių ir 5 dalies 3 punkto pakeitimas
+## 4 straipsnis. 8 straipsnio 1 dalies 2, 3, 6 punktų, 2, 3 dalių ir 5 dalies 3 punkto pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -80,7 +80,7 @@ Pakeisti 3 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „3) atlieka su laisvės atėmimu susijusią bausmę ar administracinį areštą, yra suimtas, jam paskirtos Baudžiamajame kodekse nustatytos priverčiamosios medicinos priemonės ar paskirta auklėjamojo poveikio priemonė – atidavimas į specialią auklėjimo įstaigą, jam paskelbta paieška ar jis teismo pripažintas nežinia kur esančiu;“.
 
-\#### 5 straipsnis. 9 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 9 straipsnio 2 dalies pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) trečiam ir paskesniems bendrai gyvenantiems asmenims – 70 procentų skirtumo tarp valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį.“
 
-\#### 6 straipsnis. 10 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 10 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
@@ -122,7 +122,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio 2 dalyje nustatyti socialinės pašalpos mokėjimo laikotarpiai skaičiuojami sudedant laikotarpius, kuriais buvo mokama socialinė pašalpa. Jeigu šio straipsnio 2 dalyje nurodyti asmenys dirbo (taip pat savarankiškai dirbo) 12 mėnesių per paskutinius 24 mėnesius, šio straipsnio 2 dalyje numatyti socialinės pašalpos mokėjimo laikotarpiai pradedami skaičiuoti iš naujo.“
 
-\#### 7 straipsnis. 16 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 16 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 „6. Turto vertės normatyvas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui apskaičiuojamas sudedant nekilnojamojo turto vertės normatyvą, nurodytą šio straipsnio 3 dalyje, kilnojamojo turto, vertybinių popierių ir pajų vertės normatyvą, nurodytą šio straipsnio 4 dalyje, ir piniginių lėšų normatyvą, nurodytą šio straipsnio 5 dalyje.“
 
-\#### 8 straipsnis. 17 straipsnio 1 dalies 1, 2, 6, 7, 12 punktų ir 3, 4 dalių pakeitimas
+## 8 straipsnis. 17 straipsnio 1 dalies 1, 2, 6, 7, 12 punktų ir 3, 4 dalių pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -166,7 +166,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 „4. Skiriant kompensacijas, socialinė pašalpa, išskyrus papildomai mokamą socialinę pašalpą, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas įskaitoma, o kompensacijos – neįskaitomos.“
 
-\#### 9 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 9 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 1. 21 straipsnio 1 dalyje po žodžio „kreipimosi“ įrašyti žodžius „ir sprendimo priėmimo“ ir šią dalį išdėstyti taip:
 
@@ -198,7 +198,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 8. Buvusias 21 straipsnio 11, 12 ir 13 dalis laikyti atitinkamai 14, 15 ir 16 dalimis.
 
-\#### 10 straipsnis. 23 straipsnio 1, 2, 3 dalių pakeitimas ir papildymas
+## 10 straipsnis. 23 straipsnio 1, 2, 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 23 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -272,7 +272,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 „10) nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo 10 straipsnio 2 dalies 1–5 punktuose, jeigu Lietuvos teritorinė darbo birža ar kitos valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos priemonėse.“
 
-\#### 11 straipsnis. 24 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 24 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 24 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -282,7 +282,7 @@ Pakeisti ir papildyti 10 straipsnį ir jį išdėstyti taip:
 
 „2. Valstybės ir savivaldybių įmonės, institucijos, įstaigos ir organizacijos savivaldybių administracijų prašymu privalo nemokamai teikti savivaldybių administracijoms duomenis ir (ar) informaciją, reikalingus piniginei socialinei paramai skirti.“
 
-\#### 12 straipsnis. Įstatymo įgyvendinimas ir įsigaliojimas
+## 12 straipsnis. Įstatymo įgyvendinimas ir įsigaliojimas
 
 1. Piniginės socialinės paramos skyrimas įsigaliojus šiam įstatymui:
 

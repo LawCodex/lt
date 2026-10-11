@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.39357930107A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.39357930107A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 3, 5, 9 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 7-1 straipsniu įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 2003, Nr. [123-5583](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE03A85CB721); 2005, Nr. [18-577](https://www.e-tar.lt/portal/lt/legalAct/TAR.14A032384AFA); 2008, Nr. [138-5445](https://www.e-tar.lt/portal/lt/legalAct/TAR.D202C1148A3A))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies papildymas 22 punktu
+## 1 straipsnis. 2 straipsnio 1 dalies papildymas 22 punktu
 
 Papildyti 2 straipsnio 1 dalį 22 punktu:
 
 „22) šio Įstatymo 3 straipsnio 2 dalyje nurodytą turtą turintys sulaukę 18 metų nuolatiniai Lietuvos gyventojai, taip pat sulaukę 18 metų ir vyresni asmenys, Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgiję teisę nuolat gyventi Lietuvoje.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -68,13 +68,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 5. Šio Įstatymo 2 straipsnio 1 dalies 20 ir 21 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.“
 
-\#### 3 straipsnis. 5 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Deklaracija pateikiama kasmet iki kalendorinių metų, einančių po kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo 6, 7 ir 7^1 straipsniuose nustatytus atvejus.“
 
-\#### 4 straipsnis. Įstatymo papildymas 71 straipsniu
+## 4 straipsnis. Įstatymo papildymas 71 straipsniu
 
 Papildyti Įstatymą 7^1straipsniu:
 
@@ -86,7 +86,7 @@ Papildyti Įstatymą 7^1straipsniu:
 
 3. Atskaitinė deklaracija neteikiama, jeigu asmuo turtą deklaruoti privalo remdamasis šio Įstatymo 2 straipsnio 1 dalies 1–19 punktais.“
 
-\#### 5 straipsnis. 9 straipsnio pakeitimas
+## 5 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 2. Jeigu gyventojas šio Įstatymo nustatyta tvarka turto nedeklaravo, tokiu turtu negali būti pagrindžiami kito turto įsigijimo šaltiniai. Jeigu dėl šio straipsnio 1 dalyje nurodytų asmenų kompetentinga valstybės institucija yra pradėjusi mokestinį patikrinimą arba kitą šio straipsnio 1 dalyje nurodyto teisės pažeidimo tyrimą, šie asmenys netenka galimybės savanoriškai pateikti arba patikslinti atitinkamo laikotarpio turto deklaracijas. Jeigu deklaracija ir būtų pateikta, kompetentinga valstybės institucija į ją neatsižvelgtų ir jos nevertintų.“
 
-\#### 6 straipsnis. Įstatymo taikymas
+## 6 straipsnis. Įstatymo taikymas
 
 1. Šio įstatymo nuostatos taip pat taikomos:
 

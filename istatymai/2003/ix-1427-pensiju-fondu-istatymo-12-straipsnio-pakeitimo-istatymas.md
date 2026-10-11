@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6F87DFE3AFE4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6F87DFE3AFE4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pensijų fondų įstatymo 12 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [55-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B))
 
-\#### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 12 straipsnio 1 dalyje vietoj žodžių „teistumą už nusikaltimus nuosavybei, finansams ar ūkininkavimo tvarkai“ įrašyti žodžius „neišnykusį arba nepanaikintą teistumą už nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, finansų sistemai ar ekonomikai ir verslo tvarkai“ ir šią dalį išdėstyti taip:
 
 „1. Be apribojimų, nustatytų Lietuvos Respublikos Konstitucijoje ir kituose įstatymuose, pensijų fondo stebėtojų tarybos ir valdybos nariais negali būti pensijų fondo auditorius, kito pensijų fondo stebėtojų tarybos ar valdybos nariai, asmenys, susiję su pensijų fondo depozitoriumu ar valdymo įmone, taip pat asmenys, turintys neišnykusį arba nepanaikintą teistumą už nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, finansų sistemai ar ekonomikai ir verslo tvarkai.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

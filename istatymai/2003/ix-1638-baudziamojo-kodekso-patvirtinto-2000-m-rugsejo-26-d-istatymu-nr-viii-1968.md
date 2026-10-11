@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9576BFE018F3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9576BFE018F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 4, 5, 10 straipsnių pakeitimo, Įstatymo papildymo 10-1 straipsniu bei 14 ir 45 straipsnių pripažinimo netekusiais galios įstatymas

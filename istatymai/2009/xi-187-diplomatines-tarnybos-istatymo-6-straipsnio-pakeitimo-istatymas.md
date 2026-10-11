@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F3A1FF8DA188"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F3A1FF8DA188.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymo 6 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1999, Nr. [7-140](https://www.e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9); 2004, Nr. [170-6236](https://www.e-tar.lt/portal/lt/legalAct/TAR.810096E93D62))
 
-\#### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Užsienio reikalų ministerijos kolegija (toliau – Kolegija) yra užsienio reikalų ministro patariamoji institucija. Kolegijai vadovauja, jos sudėtį ir darbo reglamentą tvirtina užsienio reikalų ministras. Jis taip pat teikia klausimus Kolegijai svarstyti. Į Kolegiją pagal pareigas įeina užsienio reikalų ministras, užsienio reikalų viceministrai, ministerijos kancleris, departamentų direktoriai. Užsienio reikalų ministras į Kolegiją gali paskirti ir kitus diplomatus. Į Kolegijos posėdžius kviečiamas Seimo Užsienio reikalų komiteto pirmininkas ar jo įgaliotas asmuo ir Respublikos Prezidento įgaliotas asmuo.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. liepos 1 d.
 

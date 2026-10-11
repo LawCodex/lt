@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AD04B83C77C4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AD04B83C77C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 3, 14, 18, 20, 25, 36, 41 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 71-2515, Nr. 85-2969
 
-\#### 1 straipsnis. 3 straipsnio 2 ir 9 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 2 ir 9 dalių pakeitimas
 
 1. 3 straipsnio 2 dalyje po žodžio „per“ įrašyti žodžius „administracinio vieneto nuolatinių“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Nr. 71-2515, Nr. 85-2969
 
 „9. Bendruomenė – atitinkamoje teritorijoje nuolat gyvenantys asmenys, susieti bendrais viešaisiais poreikiais ir interesais.“
 
-\#### 2 straipsnis. 14 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 14 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 14 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -52,13 +52,13 @@ Nr. 71-2515, Nr. 85-2969
 
 3. Buvusias 14 straipsnio 3, 4, 5, 6, 7, 8, 9 ir 10 dalis laikyti atitinkamai 4, 5, 6, 7, 8, 9, 10 ir 11 dalimis.
 
-\#### 3 straipsnis. 18 straipsnio 2 dalies papildymas
+## 3 straipsnis. 18 straipsnio 2 dalies papildymas
 
 Papildyti 18 straipsnio 2 dalį nauju trečiuoju sakiniu „Valdybos nariais gali būti tik Lietuvos Respublikos piliečiai“, paskutiniajame sakinyje po žodžių „Valdybos narių“ įrašyti žodžius „statusą, jų“ ir šią dalį išdėstyti taip:
 
 „2. Valdybos nariai pagal pareigas yra meras ir mero pavaduotojas (pavaduotojai). Kitų (neetatinių) valdybos narių kandidatūras iš tarybos narių savivaldybės tarybai tvirtinti teikia meras. Valdybos nariais gali būti tik Lietuvos Respublikos piliečiai. Valdybos nariais negali būti Kontrolės komiteto pirmininkas, jo pavaduotojas ir Kontrolės komiteto nariai. Valdybos narių statusą, jų tvirtinimo ir valdybos nario statuso praradimo procedūrą nustato savivaldybės tarybos veiklos reglamentas.“
 
-\#### 4 straipsnis. 20 straipsnio 1 ir 2 dalių papildymas
+## 4 straipsnis. 20 straipsnio 1 ir 2 dalių papildymas
 
 1. Papildyti 20 straipsnio 1 dalį nauju antruoju sakiniu „Meru ir mero pavaduotojais gali būti tik Lietuvos Respublikos piliečiai“ ir šią dalį išdėstyti taip:
 
@@ -68,7 +68,7 @@ Papildyti 18 straipsnio 2 dalį nauju trečiuoju sakiniu „Valdybos nariais gal
 
 „4) kai išvyksta nuolat gyventi į užsienio valstybę.“
 
-\#### 5 straipsnis. 25 straipsnio papildymas 3 ir 4 punktais
+## 5 straipsnis. 25 straipsnio papildymas 3 ir 4 punktais
 
 1. Papildyti 25 straipsnį 3 punktu:
 
@@ -78,13 +78,13 @@ Papildyti 18 straipsnio 2 dalį nauju trečiuoju sakiniu „Valdybos nariais gal
 
 „4) įsiteisėjus teismo sprendimui dėl tarybos nario – ne Lietuvos Respublikos piliečio išsiuntimo iš Lietuvos Respublikos.“
 
-\#### 6 straipsnis. 36 straipsnio 5 dalies pakeitimas
+## 6 straipsnis. 36 straipsnio 5 dalies pakeitimas
 
 36 straipsnio 5 dalies pirmajame sakinyje po žodžio „priimtų“ įrašyti žodį „teisės“, po žodžio „sumos“ įrašyti žodžius „išskyrus sumas, kuriomis savivaldybių biudžetai sumažėja dėl valstybinės žemės laisvosios ekonominės zonos teritorijoje nuomos mokesčio, panaudoto žemei išpirkti iš žemės savininkų šioje teritorijoje“, antrajame sakinyje vietoj žodžio „biudžeto“ įrašyti žodį „biudžetų“, po žodžio „pajamų“ įrašyti žodį „nustatymo“ ir šią dalį išdėstyti taip:
 
 „5. Jeigu savivaldybių biudžetų pajamos ar išlaidos dėl valstybės institucijų priimtų teisės aktų keičiasi, pasikeitusios sumos, išskyrus sumas, kuriomis savivaldybių biudžetai sumažėja dėl valstybinės žemės laisvosios ekonominės zonos teritorijoje nuomos mokesčio, panaudoto žemei išpirkti iš žemės savininkų šioje teritorijoje, kompensuojamos atitinkamai iš Lietuvos valstybės ar savivaldybių biudžetų. Kompensuojamos sumos nustatomos Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nustatyta tvarka. Jeigu kyla ginčas, galutinį sprendimą priima teismas.“
 
-\#### 7 straipsnis. 41 straipsnio 2 ir 3 dalių pakeitimas
+## 7 straipsnis. 41 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 41 straipsnio 2 dalyje vietoj žodžio „piliečių“ įrašyti žodį „gyventojų“ ir šią dalį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Papildyti 18 straipsnio 2 dalį nauju trečiuoju sakiniu „Valdybos nariais gal
 
 „3. Savivaldybės institucijų bei savivaldybės tarnautojų aktai ar veiksmai, pažeidžiantys gyventojų, institucijų, įstaigų, įmonių ir organizacijų teises, gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas, išskyrus 6 straipsnį, įsigalioja nuo Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymo įsigaliojimo dienos.
 

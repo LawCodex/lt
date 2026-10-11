@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0d06a462d9c111f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0D06A462D9C1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 3, 4, 6, 9, 11, 12, 14, 16, 17, 18, 21 straipsnių, II skyriaus pavadinimo ir priedo pakeitimo įstatymas
@@ -26,25 +26,25 @@ IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 2, 3, 4, 6, 9, 11, 12, 14, 16, 17, 18, 21 S
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme ir Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 5 punktą ir jį išdėstyti taip:
 
 „5) išmoka vaiko priežiūrai;“.
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Išmokų dydžio matas yra bazinė socialinė išmoka, kurios dydį Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė.“
 
-\#### 4 straipsnis. II skyriaus pavadinimo pakeitimas
+## 4 straipsnis. II skyriaus pavadinimo pakeitimas
 
 Pakeisti II skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -52,7 +52,7 @@ Pakeisti II skyriaus pavadinimą ir jį išdėstyti taip:
 
 **VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI, IŠMOKA GIMUS VIENU METU DAUGIAU KAIP VIENAM VAIKUI, IŠMOKA PRIVALOMOSIOS PRADINĖS KARO TARNYBOS KARIO VAIKUI, IŠMOKA VAIKO PRIEŽIŪRAI, VAIKO PRIEŽIŪROS KOMPENSACINĖ IŠMOKA IR VIENKARTINĖ IŠMOKA NĖŠČIAI MOTERIAI**“.
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 1. Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti II skyriaus pavadinimą ir jį išdėstyti taip:
 
 3) kiekvienam vaikui (asmeniui) su negalia, kuriam nustatytas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis). Vaikui su negalia nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas su negalia pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui su negalia, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), nustatytam neįgalumo lygio arba 55 procentų ar mažesnio dalyvumo lygio (iki 2023 m. gruodžio 31 d. – darbingumo lygio) terminui, bet ne ilgiau, iki jiems sukaks 23 metai, skiriama ir mokama 1,03 bazinės socialinės išmokos dydžio išmoka per mėnesį.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti II skyriaus pavadinimą ir jį išdėstyti taip:
 
 „2) kitam asmeniui, turinčiam teisę gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, už tą patį vaiką ir laikotarpį yra paskirta ir (ar) už visą priklausiusį laikotarpį buvo išmokėta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą;“.
 
-\#### 7 straipsnis. 9 straipsnio pakeitimas
+## 7 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -102,19 +102,19 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 5. Jeigu išmoka vaiko priežiūrai paskirta šio straipsnio 1 dalyje nurodytam asmeniui, kuriam už tą patį vaiką ir laikotarpį paskirta ir (ar) buvo išmokėta motinystės ar tėvystės išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą, arba jam ar kitam asmeniui, turinčiam teisę gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, už tą patį vaiką ir laikotarpį paskirta ir (ar) už visą priklausiusį laikotarpį buvo išmokėta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą, išmokėta išmoka vaiko priežiūrai grąžinama arba išskaičiuojama šio įstatymo 20 straipsnyje nustatyta tvarka už laikotarpį, už kurį paskirta vaiko priežiūros, motinystės ar tėvystės išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą.“
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Jeigu pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo asmuo mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai) ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymoar atostogų vaikui prižiūrėti, arba atlikti privalomąją pradinę karo tarnybą, laikotarpiu), taip pat tuo atveju, kai yra mirę pilnamečio arba emancipuoto ar santuoką sudariusio nepilnamečio asmens abu tėvai (turėtas vienintelis iš tėvų), mokymosi laikotarpiu, bet ne ilgiau, iki jam sukaks 24 metai, skiriama ir mokama 6,5bazinės socialinės išmokos dydžio išmoka per mėnesį.“
 
-\#### 9 straipsnis. 12 straipsnio pakeitimas
+## 9 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Jeigu pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo asmuo lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) šeimoje, šeimynoje ar globos centre, kuriuose iki pilnametystės, emancipacijos ar santuokos sudarymo jam buvo nustatyta globa (rūpyba), ir mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), bet ne ilgiau, iki jam sukaks 23 metai, įskaitant atvejus, kai asmuo išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) ir bendrojo ugdymo mokyklos, profesinio mokymo teikėjo bendrabutyje ar vaikų socializacijos centre, buvusiam vaiko globėjui (rūpintojui) – šeimai, šeimynai ar globos centrui – skiriamas ir mokamas 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas per mėnesį.“
 
-\#### 10 straipsnis. 14 straipsnio pakeitimas
+## 10 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -124,13 +124,13 @@ Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „6. Jeigu vaiko įtėviui (įmotei) paskirta viso dydžio išmoka įvaikinus vaiką ir už tą patį vaiką ir laikotarpį jam (jai) ar kitam asmeniui, turinčiam teisę gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, paskirta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą, kurios dydis ne mažesnis už šio straipsnio 1 dalyje nustatytą išmokos įvaikinus vaiką dydį, viso dydžio išmokėta išmoka įvaikinus vaiką grąžinama arba išskaičiuojama šio įstatymo 20 straipsnyje nustatyta tvarka už laikotarpį, už kurį paskirta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą. Jeigu vaiko įtėviui (įmotei) paskirta viso dydžio išmoka įvaikinus vaiką ir už tą patį vaiką ir laikotarpį jam (jai) ar kitam asmeniui, turinčiam teisę gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, paskirta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą, kurios dydis yra mažesnis už šio straipsnio 1 dalyje nurodytą išmokos dydį, išmokėta išmokos įvaikinus vaiką dalis, lygi paskirtos vaiko priežiūros išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą dydžiui, grąžinama arba išskaičiuojama šio įstatymo 20 straipsnyje nustatyta tvarka už laikotarpį, už kurį vaiko priežiūros išmoka paskirta pagal Ligos ir motinystės socialinio draudimo įstatymą.“
 
-\#### 11 straipsnis. 16 straipsnio pakeitimas
+## 11 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Dėl išmokos vaikui, išmokos gimus vienu metu daugiau kaip vienam vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui, išmokos vaiko priežiūrai, vaiko priežiūros kompensacinės išmokos, globos (rūpybos) išmokos, globos (rūpybos) išmokos tikslinio priedo ir išmokos įvaikinus vaiką asmuo turi teisę kreiptis nuo teisės gauti išmoką atsiradimo dienos.“
 
-\#### 12 straipsnis. 17 straipsnio pakeitimas
+## 12 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -140,7 +140,7 @@ Pakeisti 16 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „11. Jeigu papildomai skiriama ir mokama išmoka vaikui, nustatyta šio įstatymo 6 straipsnio 2 dalies 1 punkte, bendrai gyvenančių asmenų pilnamečių vaikų (įvaikių) iki 24 metų pajamos nevertinamos. Jeigu papildomai skiriama ir mokama išmoka vaikui, nustatyta šio įstatymo 6 straipsnio 2 dalies 2 punkte, į bendrai gyvenančių asmenų sudėtį įskaitomi ir dirbantys (taip pat savarankiškai dirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (įskaitant asmenis akademinių atostogų, suteiktų dėl ligosarba nėštumo ir gimdymo, arba atlikti privalomąją pradinę karo tarnybą, taip pat dėl asmeninių priežasčių, neprarandant studento statuso, laikotarpiu), taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, nevertinant jų gaunamų pajamų. Kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, pilnamečiai vaikai (įvaikiai), tais pačiais kalendoriniais metais baigę bendrojo ugdymo programą ir įstoję mokytis pagal formaliojo profesinio mokymo programą ar studijuoti į aukštąją mokyklą, į bendrai gyvenančių asmenų sudėtį įskaitomi ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai.“
 
-\#### 13 straipsnis. 18 straipsnio pakeitimas
+## 13 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 12. Kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, asmenys, tais pačiais kalendoriniais metais baigę bendrojo ugdymo programą ir įstoję mokytis pagal profesinio mokymo teikėjų vykdomą profesinio mokymo programą ar studijuoti į aukštąją mokyklą, teisę gauti išmokas, nustatytas šio įstatymo 9 ir (ar) 11 straipsnyje, ar asmenys, tais pačiais kalendoriniais metais baigę mokytis bendrojo ugdymo mokykloje ir įstoję toliau mokytis pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, kurias vykdo profesinio mokymo teikėjai, teisę gauti išmokas, nustatytas šio įstatymo 6, 9, 11 ir (ar) 12 straipsnyje, įgyja ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai, jeigu jie atitinka šiame įstatyme nustatytus reikalavimus išmokoms gauti.“
 
-\#### 14 straipsnis. 18 straipsnio pakeitimas
+## 14 straipsnis. 18 straipsnio pakeitimas
 
 1. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -180,7 +180,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 „12. Kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, asmenys, tais pačiais kalendoriniais metais baigę bendrojo ugdymo programą ir įstoję mokytis pagal profesinio mokymo teikėjų vykdomą profesinio mokymo programą ar studijuoti į aukštąją mokyklą, teisę gauti išmoką, nustatytą šio įstatymo 11 straipsnyje, ar asmenys, tais pačiais kalendoriniais metais baigę mokytis bendrojo ugdymo mokykloje ir įstoję toliau mokytis pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, kurias vykdo profesinio mokymo teikėjai, teisę gauti išmokas, nustatytas šio įstatymo 6, 11 ir (ar) 12 straipsnyje, įgyja ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai, jeigu jie atitinka šiame įstatyme nustatytus reikalavimus išmokoms gauti.“
 
-\#### 15 straipsnis. 21 straipsnio pakeitimas
+## 15 straipsnis. 21 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -202,7 +202,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 „15) vaikas (asmuo), kuriam paskirtos šio įstatymo 6, 11 ar 13 straipsnyje nustatytos išmokos, ir (ar) globojamas vaikas, už kurį globėjui (rūpintojui)paskirta šio įstatymo 12 straipsnyje nustatyta išmoka, ar asmuo, už kurį buvusiam vaiko globėjui (rūpintojui) paskirta šio įstatymo 12 straipsnyje nustatyta išmoka, ar įvaikintas vaikas, kurio vienam iš įtėvių paskirta šio įstatymo 14 straipsnyje nustatyta išmoka, yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška – nuo suėmimo, teismo apkaltinamojo nuosprendžio įsigaliojimo, pradėto priverstinio gydymo, vaiko (asmens) paieškos paskelbimo dienos;“.
 
-\#### 16 straipsnis. Įstatymo priedo pakeitimas
+## 16 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -226,11 +226,11 @@ priedas
 
 6. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių.“
 
-\#### 17 straipsnis. Įstatymo priedo pakeitimas
+## 17 straipsnis. Įstatymo priedo pakeitimas
 
 Pripažinti netekusiu galios Įstatymo priedo 2 punktą.
 
-\#### 18 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 18 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1, 3, 5, 6, 8, 9 ir 10 straipsnius, 12 straipsnio 2 dalį, 13 straipsnį, 15 straipsnio 3–5 dalis, 16 ir 17 straipsnius ir šio straipsnio 3 dalį, įsigalioja 2026 m. birželio 1 d.
 

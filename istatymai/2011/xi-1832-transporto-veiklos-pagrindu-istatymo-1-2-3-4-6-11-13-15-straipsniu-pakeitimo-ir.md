@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2BD638E84D72"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2BD638E84D72.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymo 1, 2, 3, 4, 6, 11, 13, 15 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 13-1 straipsniu ir Įstatymo priedo papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1991, Nr. [30-804](https://www.e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B); 2002, Nr. [29-1034](https://www.e-tar.lt/portal/lt/legalAct/TAR.0FBEAE76BC38); 2003, Nr. [119-5403](https://www.e-tar.lt/portal/lt/legalAct/TAR.CBECCF3EAD08); 2004, Nr. [73-2530](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EF8BB99AD81); 2005, Nr. [71-2560](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A8B512C3193); 2006, Nr. [82-3250](https://www.e-tar.lt/portal/lt/legalAct/TAR.F659A19082E9))
 
-\#### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 1 dalies pakeitimas
 
 1 straipsnio 1 dalyje po žodžio „vežėjų“ išbraukti žodį „(operatorių)“ ir šią dalį išdėstyti taip:
 
 „1. Šis Įstatymas nustato Lietuvos Respublikos transporto viešojo administravimo, vežėjų ir transporto infrastruktūros valdytojų veiklos, valstybės pagalbos plėtojant transporto infrastruktūrą ir jos valdymo bendruosius principus, transporto infrastruktūros valdytojų teisinį statusą, jų santykius su transporto infrastruktūros savininkais bei naudotojais, visuomenės aptarnavimo įsipareigojimų, saugaus eismo užtikrinimo ir kitų su transporto veikla susijusių santykių reglamentavimo pagrindus.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 18. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.“
 
-\#### 3 straipsnis. 3 straipsnio 2, 3 ir 4 punktų pakeitimas
+## 3 straipsnis. 3 straipsnio 2, 3 ir 4 punktų pakeitimas
 
 1. 3 straipsnio 2 punkte po žodžio „vežėjo“ išbraukti žodį „(operatoriaus)“ ir šį punktą išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „4) vežėjų veiklos savarankiškumą, taip pat laisvą ir sąžiningą konkurenciją transporto paslaugų rinkoje;“.
 
-\#### 4 straipsnis. 4 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies 1 punkto pakeitimas
+## 4 straipsnis. 4 straipsnio 2 dalies pripažinimas netekusia galios ir 3 dalies 1 punkto pakeitimas
 
 1. 4 straipsnio 2 dalį pripažinti netekusia galios.
 
@@ -98,13 +98,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 „1) formuoja valstybės transporto politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;“.
 
-\#### 5 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Transporto objektai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams asmenims ir juridiniams asmenims.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 11 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
@@ -120,13 +120,13 @@ Pakeisti ir papildyti 11 straipsnį ir jį išdėstyti taip:
 
 5. Žala, atsiradusi dėl netinkamų intelektinių transporto sistemų prietaikų ir paslaugų, atlyginama vadovaujantis Lietuvos Respublikos civilinio kodekso nuostatomis.“
 
-\#### 7 straipsnis. 13 straipsnio 1 dalies pakeitimas
+## 7 straipsnis. 13 straipsnio 1 dalies pakeitimas
 
 13 straipsnio 1 dalyje po žodžio „vežėjams“ išbraukti žodį „(operatoriams)“, po žodžio „vežėjai“ išbraukti žodį „(operatoriai)“ ir šią dalį išdėstyti taip:
 
 „1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijosužtikrina socialiai būtinų transporto paslaugų teikimą visuomenei. Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams yra kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių. Šiems visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai parenkami konkurso tvarka.“
 
-\#### 8 straipsnis. Įstatymo papildymas 131 straipsniu
+## 8 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -138,13 +138,13 @@ Papildyti Įstatymą 13^1 straipsniu:
 
 3. Viešojo keleivinio transporto kelionių duomenys kaupiami viešojo transporto kelionių duomenų informacinėje sistemoje, kurios valdytoją paskiria Vyriausybė ar jos įgaliota institucija. Viešojo transporto kelionių duomenų kaupimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Vežėjai ir savivaldybės teikia viešojo transporto kelionių duomenis, susijusius su tvarkaraščiais ir tarifais, ir informuoja duomenų tvarkytoją apie jų pasikeitimus.“
 
-\#### 9 straipsnis. 15 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 15 straipsnio 2 dalies pakeitimas
 
 15 straipsnio 2 dalyje po žodžio „patvirtintas“ išbraukti žodį „specialiąsias“ ir šią dalį išdėstyti taip:
 
 „2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra (jūrų uostų rinkliavas, taip pat rinkliavas už oro navigacijos paslaugas ir naudojimąsi oro uostais, geležinkelių infrastruktūra, pajamas, gautas už jūrų uostų žemės nuomą, kelių priežiūros ir plėtros programos lėšas), valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas šio straipsnio 1 dalyje numatytiems tikslams vykdyti.“
 
-\#### 10 straipsnis. Įstatymo priedo papildymas
+## 10 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -164,13 +164,13 @@ priedas
 
 3. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos (OL 2010 L 207, p. 1).“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 6, 8, 10 ir 12 straipsnius, įsigalioja 2012 m. sausio 1 d.
 
 2. Šio įstatymo 6, 8 ir 10 straipsniai įsigalioja 2012 m. vasario 27 d.
 
-\#### 12 straipsnis. Pasiūlymas Vyriausybei
+## 12 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus.
 

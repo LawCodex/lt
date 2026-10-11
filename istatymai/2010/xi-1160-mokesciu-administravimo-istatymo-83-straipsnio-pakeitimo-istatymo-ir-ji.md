@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BC4B49697139"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BC4B49697139.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 83 straipsnio pakeitimo įstatymo ir jį keitusio įstatymo pripažinimo netekusiais galios įstatymas
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 83 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymų pripažinimas netekusiais galios
+## 1 straipsnis. Įstatymų pripažinimas netekusiais galios
 
 Pripažinti netekusiais galios:
 

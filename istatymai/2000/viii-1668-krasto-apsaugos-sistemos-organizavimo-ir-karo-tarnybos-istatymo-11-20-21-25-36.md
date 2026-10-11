@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4C5F42A6CC7B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4C5F42A6CC7B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 11, 20, 21, 25, 36, 38, 39, 40, 42, 63, 71, 72, 73, 74, 75, 77(1) straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [11-246](https://www.e-tar.lt/portal/lt/legalAct/TAR.5A98CDE4F986); Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971))
 
-\#### 1 straipsnis. 11 straipsnio 7 dalies pakeitimas ir papildymas
+## 1 straipsnis. 11 straipsnio 7 dalies pakeitimas ir papildymas
 
 11 straipsnio 7 dalyje išbraukti žodį „naujus“, po žodžio „steigia“ įrašyti žodžius „reorganizuoja ar likviduoja“ ir šią dalį išdėstyti taip:
 
 „7. Detalią kariuomenės struktūrą nustato, kariuomenės junginius bei dalinius steigia, reorganizuoja ar likviduoja krašto apsaugos ministras, vadovaudamasis Seimo patvirtinta principine kariuomenės struktūra.“
 
-\#### 2 straipsnis. 20 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 20 straipsnio 4 dalies pakeitimas
 
 20 straipsnio 4 dalies pirmajame sakinyje vietoj žodžių „kariai arba šauktiniai“ įrašyti žodį „asmenys“ ir šią dalį išdėstyti taip:
 
 „4. Į Akademiją priimami vidurinį išsilavinimą turintysasmenys,atitinkantys priėmimo į ją sąlygas. Priimami į Akademiją šauktiniai kartu pašaukiami ir į privalomąją karo tarnybą, kurią atlieka mokymosi Akademijoje metu. Kariūnams studijų Akademijoje laikotarpiui suteikiami kariūnų laipsniai. Priimamas į Akademiją kariūnu asmuo pasirašo su Akademija sutartį, kuria įsipareigoja gerai studijuoti, tapęs karininku – tarnauti profesinėje karo tarnyboje. Karių turimi kariniai laipsniai studijų Akademijoje laikotarpiui suspenduojami.“
 
-\#### 3 straipsnis. 21 straipsnio 2, 3, 4 dalių pakeitimas ir papildymas
+## 3 straipsnis. 21 straipsnio 2, 3, 4 dalių pakeitimas ir papildymas
 
 Pakeisti 21 straipsnio 2 dalį, 3 dalyje po žodžio „garantijas“ įrašyti žodžius „poilsį ir laisvalaikį“, pakeisti 4 dalį ir šias dalis išdėstyti taip:
 
@@ -50,13 +50,13 @@ Pakeisti 21 straipsnio 2 dalį, 3 dalyje po žodžio „garantijas“ įrašyti 
 
 4. Kario tarnybos dienos ir suminė savaitės tarnybos trukmė nėra apribota ir priklauso nuo tarnybos poreikių. Detalius tarnybos dienos reikalavimus, kariui suteikiamą paros ir savaitės poilsį, užtikrinantį jo sveikatos bei darbingumo atgavimą, nustato statutai ir kiti krašto apsaugos sistemą reglamentuojantys teisės aktai.“
 
-\#### 4 straipsnis. 25 straipsnio 2 dalies pakeitimas ir papildymas
+## 4 straipsnis. 25 straipsnio 2 dalies pakeitimas ir papildymas
 
 25 straipsnio 2 dalies antrajame sakinyje vietoj žodžių „Civilinės krašto apsaugos tarnybos statutą“ įrašyti žodžius „Civilinę krašto apsaugos tarnybą ir tarnybą“, po žodžio „tarnybų“ įrašyti žodžius „padalinyje reglamentuojančius“, išbraukti žodžius „karių bei civilinę krašto apsaugos tarnybą atliekančių darbuotojų tarnybos“ ir šią dalį išdėstyti taip:
 
 „2. Statutus, kurie nustato karių drausminę atsakomybę ir ginklo panaudojimą, tvirtina Seimas įstatymais. Civilinę krašto apsaugos tarnybą ir tarnybą krašto apsaugos sistemos operatyvinių tarnybų padalinyje reglamentuojančius statutus tvirtina Vyriausybė arba jos įgaliotas krašto apsaugos ministras. Kitus statutus tvirtina krašto apsaugos ministras.“
 
-\#### 5 straipsnis. 36 straipsnio 5, 6, 8, 9, 11 dalių pakeitimas ir papildymas
+## 5 straipsnis. 36 straipsnio 5, 6, 8, 9, 11 dalių pakeitimas ir papildymas
 
 1. Pakeisti 36 straipsnio 5 ir 6 dalis ir jas išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 21 straipsnio 2 dalį, 3 dalyje po žodžio „garantijas“ įrašyti 
 
 „11. Profesinės karo tarnybos kariai, kurie yra medicinos gydytojai ir krašto apsaugos sistemoje eina gydytojo (karo gydytojo) pareigas, turi teisę laisvu nuo tarnybos metu, nepažeisdami karinės tarnybos interesų, dirbti kitose valstybės ir savivaldybės biudžetinėse ir viešosiose gydymo įstaigose ir gauti už tai atlyginimą. Savo darbo kitose įstaigose tvarką ir laiką jie privalo suderinti su savo tiesioginiais vadais.“
 
-\#### 6 straipsnis. 38 straipsnio 2 dalies papildymas
+## 6 straipsnis. 38 straipsnio 2 dalies papildymas
 
 38 straipsnio 2 dalies pirmojoje pastraipoje po žodžio „vadovybės“ įrašyti žodžius „iniciatyva arba“, 12 punkte prieš žodį „dalinio“ įrašyti žodžius „ne žemesnio kaip“, vietoj žodžių „tarnybos interesais“ įrašyti žodžius „dėl tarnybos interesų“ ir šią dalį išdėstyti taip:
 
@@ -110,13 +110,13 @@ Pakeisti 21 straipsnio 2 dalį, 3 dalyje po žodžio „garantijas“ įrašyti 
 
 13) jo sirgimo (laikinojo nedarbingumo) trukmė ilgesnė kaip 122 kalendorinės dienos, jeigu susirgimas nesusijęs su sužeidimu ar suluošinimu atliekant tiesiogines tarnybos pareigas.“
 
-\#### 7 straipsnis. 39 straipsnio 1 dalies pakeitimas ir papildymas
+## 7 straipsnis. 39 straipsnio 1 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Krašto apsaugos ministerijos ar kariuomenės vadovybė savo iniciatyva arba valia, jei nėra kario kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12 ir 13punktai), gali nutraukti profesinės karo tarnybos sutartį karį įspėjusi ne mažiau kaip prieš du mėnesius arba ir neįspėjusi, tačiau išmokėdama kariui 40 straipsnio 3 dalyje nustatytą papildomą kompensaciją.“
 
-\#### 8 straipsnis. 40 straipsnio 1, 2 ir 3 dalių papildymas
+## 8 straipsnis. 40 straipsnio 1, 2 ir 3 dalių papildymas
 
 Papildyti 40 straipsnio 1, 2 ir 3 dalis ir jas išdėstyti taip:
 
@@ -134,13 +134,13 @@ Papildyti 40 straipsnio 1, 2 ir 3 dalis ir jas išdėstyti taip:
 
 3. Visiems kariams, su kuriais nutraukiama profesinės karo tarnybos sutartis ne dėl jų kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai) ir jei jie iš anksto neįspėjami, išmokama 1 mėnesio tarnybinio atlyginimo dydžio, o kariui, auginančiam vaiką ar vaikų iki 14 metų, išmokama 2 mėnesių tarnybinių atlyginimų dydžio papildoma kompensacija.“
 
-\#### 9 straipsnis. 42 straipsnio 8 dalies papildymas
+## 9 straipsnis. 42 straipsnio 8 dalies papildymas
 
 Papildyti42 straipsnio 8 dalį ir ją išdėstyti taip:
 
 „8. Kai karys netenka leidimo naudotis valstybės paslaptimi esančia informacija ir atlikti su tokios informacijos naudojimu susijusių pareigų, jis gali būtiperkeliamas į kitas su tokios informacijos naudojimu nesusijusias pareigas, jeigu tokios yra.“
 
-\#### 10 straipsnis. 63 straipsnio 4, 11, 12, 13 dalių pakeitimas ir papildymas
+## 10 straipsnis. 63 straipsnio 4, 11, 12, 13 dalių pakeitimas ir papildymas
 
 1. Pakeisti ir papildyti 63 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -154,7 +154,7 @@ Papildyti42 straipsnio 8 dalį ir ją išdėstyti taip:
 
 13. Kariai savanoriai ir aktyviojo rezervo prievolininkai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.“
 
-\#### 11 straipsnis. 71 straipsnio pakeitimas ir papildymas
+## 11 straipsnis. 71 straipsnio pakeitimas ir papildymas
 
 Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 
 4. Kitų krašto apsaugos sistemos valstybės tarnautojų tarnybos santykius reglamentuoja Valstybės tarnybos įstatymas.“
 
-\#### 12 straipsnis. 72 straipsnio pakeitimas
+## 12 straipsnis. 72 straipsnio pakeitimas
 
 Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
@@ -194,7 +194,7 @@ Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
 4. Siekiant užtikrinti valstybės ar tarnybos paslapčių apsaugą ar patikrinti į civilinę krašto apsaugos tarnybą įstojusio asmens pateiktą informaciją, gali būti naudojamas poligrafas, tačiau tik gavus raštišką šio asmens sutikimą. Jeigu asmuo nesutinka būti tikrinamas poligrafu, jam neleidžiama eiti su valstybės ar tarnybos paslaptimis susijusių pareigų.“
 
-\#### 13 straipsnis. 73 straipsnio pakeitimas ir papildymas 6 dalimi
+## 13 straipsnis. 73 straipsnio pakeitimas ir papildymas 6 dalimi
 
 Pakeisti 73 straipsnį, papildyti jį 6 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -212,7 +212,7 @@ Pakeisti 73 straipsnį, papildyti jį 6 dalimi ir visą straipsnį išdėstyti t
 
 6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti Valstybės tarnybos įstatymo apibrėžta su valstybės tarnyba nesuderinama veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 7, 8, 9, 10 bei 12 dalyse numatyti karių tarnybai taikomi apribojimai. Tarnautojų, atliekančių civilinę krašto apsaugos tarnybą krašto apsaugos sistemos operatyvinėse tarnybose, tarnybai, be šių apribojimų, dar taikomi karių tarnybai galiojantys apribojimai, nustatyti šio įstatymo 36 straipsnio 1 dalies 2 ir 3 punktuose bei 2 ir 3 dalyse.“
 
-\#### 14 straipsnis. 74 straipsnio pavadinimo ir 1 bei 4 dalių pakeitimas
+## 14 straipsnis. 74 straipsnio pavadinimo ir 1 bei 4 dalių pakeitimas
 
 1. Pakeisti 74 straipsnio pavadinimą bei 1 dalį ir juos išdėstyti taip:
 
@@ -224,7 +224,7 @@ Pakeisti 73 straipsnį, papildyti jį 6 dalimi ir visą straipsnį išdėstyti t
 
 „4. Suteiktas rangas galioja tol, kol tarnautojas eina pareigaskrašto apsaugos sistemoje pagal civilinės krašto apsaugos tarnybos sutartį.“
 
-\#### 15 straipsnis. 75 straipsnio pakeitimas
+## 15 straipsnis. 75 straipsnio pakeitimas
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
@@ -238,7 +238,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 2. Šio straipsnio 1 dalyje numatytų priedų dydžius nustato Vyriausybė, laikydamasi Valstybės tarnybos įstatyme nustatytų tokių priedų maksimalių dydžių. Kai civilinės krašto apsaugos tarnybos tarnautojui mokama šio straipsnio 1 dalies 2 punkte numatytas priedas, Valstybės tarnybos įstatyme numatytas priedas už tarnybos stažą nemokamas.“
 
-\#### 16 straipsnis. 771 straipsnio pakeitimas
+## 16 straipsnis. 771 straipsnio pakeitimas
 
 Pakeisti 77^1 straipsnį ir jį išdėstyti taip:
 

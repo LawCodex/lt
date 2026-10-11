@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DB0E33BB3F47"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DB0E33BB3F47.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 5, 12, 26, 35, 36, 37, 53 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 37(1) bei 37(2) straipsniais ir įstatymo 3 priedėlio papildymo įstatymo 8 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A69FC3C021A))
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Papildyti Įstatymą 37^1 straipsniu:
 
 7. Šio straipsnio nuostatos taikomos taip pat valstybėms ir Europos Sąjungos valstybėms narėms priklausomoms teritorijoms, jeigu toks taikymas numatytas Europos Sąjungos teisės aktuose.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

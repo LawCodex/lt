@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A0BAB27D768C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
@@ -201,9 +201,9 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 Nacionalinio saugumo užtikrinimo subjektai yra:
 
-\- valstybė, jos nacionalinio saugumo bei gynybos ir kitos institucijos;
+- valstybė, jos nacionalinio saugumo bei gynybos ir kitos institucijos;
 
-\- piliečiai, jų bendrijos ir organizacijos.
+- piliečiai, jų bendrijos ir organizacijos.
 
 ### TREČIASIS SKIRSNIS. NACIONALINIO SAUGUMO UŽTIKRINIMO BŪDAI
 
@@ -437,7 +437,7 @@ Lietuvos suvereniteto, teritorijos vientisumo ir konstitucinės santvarkos gynim
 
 Konstitucijos kertinės normos, tiesiogiai reglamentuojančios valstybės gynybos klausimus, yra:
 
-\- Konstitucijos 3 straipsnio antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką;
+- Konstitucijos 3 straipsnio antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką;
 
 – Konstitucijos 139 straipsnis, skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių privalomąją karo tarnybą ir alternatyviąją krašto apsaugos tarnybą.
 
@@ -643,15 +643,15 @@ SVARBIAUSIOS NACIONALINIO SAUGUMO UŽTIKRINIMO PRIEMONĖS
 
 Be šių pagrindų pirmojoje dalyje apibrėžtos užsienio, vidaus ir gynybos politikos, kitos nacionalinio saugumo užtikrinimo priemonės yra:
 
-\- dalyvavimas tarptautinėse saugumą stiprinančiose organizacijose;
+- dalyvavimas tarptautinėse saugumą stiprinančiose organizacijose;
 
-\- narystė Šiaurės Atlanto sutarties organizacijoje ir Europos Sąjungoje;
+- narystė Šiaurės Atlanto sutarties organizacijoje ir Europos Sąjungoje;
 
-\- nacionalinio saugumo strateginis planavimas bei ilgalaikių valstybinių saugumo stiprinimo programų parengimas ir vykdymas;
+- nacionalinio saugumo strateginis planavimas bei ilgalaikių valstybinių saugumo stiprinimo programų parengimas ir vykdymas;
 
-\- nacionalinį saugumą užtikrinančių institucijų veikla;
+- nacionalinį saugumą užtikrinančių institucijų veikla;
 
-\- saugumo ir gynybos sistemą reglamentuojantys įstatymai.
+- saugumo ir gynybos sistemą reglamentuojantys įstatymai.
 
 Skirsnio pakeitimai:
 

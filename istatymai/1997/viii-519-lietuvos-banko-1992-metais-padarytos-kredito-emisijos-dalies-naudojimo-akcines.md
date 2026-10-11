@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AA3C044BCE92"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AA3C044BCE92.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos banko 1992 metais padarytos kredito emisijos dalies naudojimo akcinės bendrovės Lietuvos žemės ūkio banko akciniam kapitalui didinti įstatymas
@@ -26,11 +26,11 @@ LIETUVOS BANKO 1992 METAIS PADARYTOS KREDITO EMISIJOS DALIES NAUDOJIMO AKCINĖS 
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato pagal Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. liepos 14 d. nutarimą Nr. I-2745 „Dėl kredito emisijos ir pasirengimo įvesti savus pinigus“ (Žin., 1992, Nr. [22-636](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF48630794A7)) 1992 metais Lietuvos banko padarytos kredito emisijos dalies naudojimą akcinės bendrovės Lietuvos žemės ūkio banko akciniam kapitalui didinti.
 
-\#### 2 straipsnis. Kredito emisijos naudojimas
+## 2 straipsnis. Kredito emisijos naudojimas
 
 1. Kredito emisijos dalis, panaudota kaip kredito ištekliai žemės ūkio produkcijos atsargų supirkimo išlaidoms kredituoti per Lietuvos žemės ūkio banką, bet ne daugiau kaip 55,4 mln. litų, naudojama akcinės bendrovės Lietuvos žemės ūkio banko akciniam kapitalui didinti.
 
@@ -38,7 +38,7 @@ Vilnius
 
 3. Už šio straipsnio 1 dalyje nurodytas lėšas valstybės įsigyjamų akcijų akcininko teises turi Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
-\#### 3 straipsnis. Lietuvos banko pretenzijos dėl kredito išteklių grąžinimo
+## 3 straipsnis. Lietuvos banko pretenzijos dėl kredito išteklių grąžinimo
 
 1. Lietuvos banko pretenzijos akcinei bendrovei Lietuvos žemės ūkio bankui dėl panaudotos 2 straipsnio 1 dalyje nurodytos kredito emisijos dalies grąžinimo netenkinamos.
 

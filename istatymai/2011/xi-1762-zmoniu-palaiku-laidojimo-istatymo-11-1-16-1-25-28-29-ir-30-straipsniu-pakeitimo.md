@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.64D32B4FBDEE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.64D32B4FBDEE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymo 11-1, 16-1, 25, 28, 29 ir 30 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2007, Nr. [140-5763](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE); 2010, Nr. [123-6259](https://www.e-tar.lt/portal/lt/legalAct/TAR.80352CADA9F2))
 
-\#### 1 straipsnis. 111 straipsnio 3 dalies, 9 dalies 4 punkto ir 11 dalies 5 punkto pakeitimas
+## 1 straipsnis. 111 straipsnio 3 dalies, 9 dalies 4 punkto ir 11 dalies 5 punkto pakeitimas
 
 1. Pakeisti 111 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „5)jeigu panaikinamas šio straipsnio 1 dalyje nurodyto leidimo-higienos paso galiojimas. Visuomenės sveikatos centras apskrityjeapie tai raštu informuoja licencijas išduodančią instituciją per 3 darbo dienas nuo leidimo-higienos paso galiojimo panaikinimo dienos.“
 
-\#### 2 straipsnis. 161 straipsnio 3 dalies, 9 dalies 4 punkto ir 11 dalies 5 punkto pakeitimas
+## 2 straipsnis. 161 straipsnio 3 dalies, 9 dalies 4 punkto ir 11 dalies 5 punkto pakeitimas
 
 1. Pakeisti 161 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -56,31 +56,31 @@ Vilnius
 
 „5) jeigu panaikinamas šio straipsnio 1 dalies 2 punkte nurodyto leidimo-higienos paso galiojimas. Visuomenės sveikatos centras apskrityje apie tai raštu informuoja licencijas išduodančią instituciją per 3 darbo dienas nuo leidimo-higienos paso galiojimo panaikinimo.“
 
-\#### 3 straipsnis. 25 straipsnio 5 dalies pakeitimas
+## 3 straipsnis. 25 straipsnio 5 dalies pakeitimas
 
 Pakeisti 25 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Palaidotus žmogaus palaikus galima ekshumuoti nesibaigus kapo ramybės laikotarpiui, kai yra palaidoto žmogaus artimųjų giminaičių prašymas ir Sveikatos apsaugos ministerijos nustatyta tvarka gautas visuomenės sveikatos centro apskrityje leidimas arba prokuroro nurodymu. Ekshumavimo išlaidas apmoka pareiškėjas. Visuomenės sveikatos centro apskrityje leidimas nėra būtinas perkeliant rūsyje palaidotus žmogaus palaikus, nebent būtų atidaromas karstas.“
 
-\#### 4 straipsnis. 28 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 28 straipsnio 2 dalies pakeitimas
 
 Pakeisti 28 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Sprendimą dėl draudimo laidoti kapinių dalyje arba visoje jų teritorijoje priima savivaldybės, kurios teritorijoje yra kapinės, administracijos direktorius, vadovaudamasis visuomenės sveikatos centro apskrityje siūlymu.“
 
-\#### 5 straipsnis. 29 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 29 straipsnio 1 dalies pakeitimas
 
 Pakeisti 29 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Kapinės gali būti panaikinamos iškilus pavojui visuomenės sveikatai. Sprendimą dėl kapinių panaikinimo priima savivaldybės, kurios teritorijoje yra kapinės, taryba, vadovaudamasi visuomenės sveikatos centro apskrityje siūlymu.“
 
-\#### 6 straipsnis. 30 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 30 straipsnio 1 dalies pakeitimas
 
 Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Visuomenės sveikatos centrai apskritysevykdo kremavimo įmonių, balzamavimo licencijų turėtojų ir laidojimo paslaugų teikėjų, teikiančių žmogaus palaikų laikymo, žmogaus palaikų paruošimo šarvoti ir šarvojimo paslaugas, valstybinę visuomenės sveikatos saugos kontrolę sveikatos apsaugos ministro ar jo įgaliotos įstaigos nustatyta tvarka, taip pat kituose įstatymuose nustatytas kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės funkcijas.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.92971BBD8476"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.92971BBD8476.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro reorganizavimo įstatymas
@@ -26,11 +26,11 @@ LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO REORGANIZAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šiuo įstatymu siekiama susisteminti ir paspartinti okupacinių režimų nusikaltimų ir pasipriešinimo okupacijoms procesų tyrimą bei laisvės kovų įamžinimą, numatyti, kaip taupiau ir efektyviau naudoti biudžeto lėšas. Šiuo tikslu reorganizuojamas Lietuvos gyventojų genocido ir rezistencijos tyrimo centras (toliau – Centras).
 
-\#### 2 straipsnis. Pagrindinės Centro reorganizavimo kryptys ir veiklos po reorganizavimo nuostatos
+## 2 straipsnis. Pagrindinės Centro reorganizavimo kryptys ir veiklos po reorganizavimo nuostatos
 
 1. Centras yra tarpžinybinė valstybės institucija, tirianti visas genocido bei nusikaltimų žmonijai ir žmoniškumui apraiškas ir Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido organizatorių ir vykdytojų teisinį įvertinimą.
 
@@ -42,7 +42,7 @@ Vilnius
 
 5. Centrui vadovauja generalinis direktorius. Šį Ministro Pirmininko teikimu skiria ir atleidžia Seimas.
 
-\#### 3 straipsnis. Centro reorganizavimas
+## 3 straipsnis. Centro reorganizavimas
 
 Vyriausybė iki 1997 m. kovo 15 d.:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A1CD8CC02546"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1CD8CC02546.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos notariato įstatymo 3, 19, 22, 23 straipsnių pakeitimo ir įstatymo papildymo 19-1 straipsniu įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1992, Nr. [28-810](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80); 1994, Nr. [78-1463](https://www.e-tar.lt/portal/lt/legalAct/TAR.5653694FA9E6); 1995, Nr. [53-1304](https://www.e-tar.lt/portal/lt/legalAct/TAR.D9610257EFFE); 1998, Nr. [49-1329](https://www.e-tar.lt/portal/lt/legalAct/TAR.D19DD3E4FAA6); 1999, Nr. [19-509](https://www.e-tar.lt/portal/lt/legalAct/TAR.5E757066D3A0), Nr. [57-1831](https://www.e-tar.lt/portal/lt/legalAct/TAR.3C62C6893990); 2003, Nr. [15-598](https://www.e-tar.lt/portal/lt/legalAct/TAR.C727F3F9B3A9), Nr. [38-1703](https://www.e-tar.lt/portal/lt/legalAct/TAR.A95CD5DAED83); 2007, Nr. [68-2651](https://www.e-tar.lt/portal/lt/legalAct/TAR.B78D4FF645E4); 2012, Nr. [4-114](https://www.e-tar.lt/portal/lt/legalAct/TAR.434B4B7F7839))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies 6 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 2 dalies 6 punkto pakeitimas
 
 Pakeisti 3 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) yra ne vyresnis kaip 70 metų;“.
 
-\#### 2 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „Už notarinio veiksmo atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministerija, atsižvelgdama į šio įstatymo 19^1 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus, suderinusi su Lietuvos Respublikos finansų ministerija ir Lietuvos notarų rūmais. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą.“
 
-\#### 3 straipsnis. Įstatymo papildymas 191 straipsniu
+## 3 straipsnis. Įstatymo papildymas 191 straipsniu
 
 Papildyti Įstatymą 19^1 straipsniu:
 
@@ -56,13 +56,13 @@ Notarų atlyginimo už notarinių veiksmų atlikimą, sandorių projektų pareng
 
 6) sąnaudas.“
 
-\#### 4 straipsnis. 22 straipsnio 3 dalies pakeitimas
+## 4 straipsnis. 22 straipsnio 3 dalies pakeitimas
 
 Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Notaro atstovu gali būti asmuo, atitinkantis šio įstatymo 3 straipsnio antrosios dalies 1, 2, 3, 4, 5 ir 6 punktų reikalavimus. Notaro atstovu taip pat gali būti skiriamas buvęs notaras, kurio įgaliojimai yra pasibaigę pagal šio įstatymo 23 straipsnio pirmosios dalies 3punktą, tačiau ne ilgiau kaip iki jam sukaks 70 metų. Notaro atstovas skiriamas pagal atstovaujamo notaro ir asmens, kuris sutinka jam atstovauti, prašymus. Jeigu notaras, negalintis eiti savo pareigų, neprašo skirti notaro atstovo, Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į Notarų rūmų prezidiumo nuomonę, turi teisę paskirti notaro atstovą savo iniciatyva, kai yra būtina užtikrinti negalinčio eiti notaro pareigų notaro biuro veiklą.“
 
-\#### 5 straipsnis. 23 straipsnio pakeitimas
+## 5 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 1 dalies 8 punktą, 3 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 

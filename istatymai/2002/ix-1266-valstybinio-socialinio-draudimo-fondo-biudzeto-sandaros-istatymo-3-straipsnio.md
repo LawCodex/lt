@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.05A212AE4552"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.05A212AE4552.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [91-3190](https://www.e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E); 2002, Nr. [52-1984](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E2FC1C7690C))
 
-\#### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 3 straipsnio 2 dalyje vietoj žodžių „patentus įsigijusių“ įrašyti žodžius „verslo liudijimus turinčių“ ir šią dalį išdėstyti taip:
 
 „2. Fondo biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio draudimo įmokos, individualių (personalinių) įmonių savininkų, individualių (personalinių) įmonių nuomininkų, advokatų, advokatų padėjėjų, notarų, tikrųjų ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, verslo liudijimusturinčių asmenų bei ūkininkų valstybinio socialinio draudimo įmokos, valstybinio savanoriškojo socialinio draudimo įmokos, baudos, delspinigiai bei kitos pajamos, gautinos taikant sankcijas, asignavimai iš valstybės biudžeto, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos, Fondo biudžeto veiklos pajamos ir iš turimo kapitalo gaunamos pajamos.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

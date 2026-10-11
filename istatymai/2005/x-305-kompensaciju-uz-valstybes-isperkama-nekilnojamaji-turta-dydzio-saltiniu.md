@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0E8C5FB7E862"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0E8C5FB7E862.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 1 ir 7 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 2003, Nr. [102-4582](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA480B3B3926))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1 straipsnyje vietoj skaičiaus ir žodžių „I grupės invalidams“ įrašyti žodžius ir skaičius „asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams)“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Šis Įstatymas nustato kompensacijų, numatytų Lietuvos Respublikos piliečiams pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą už valstybės išperkamą nekilnojamąjį turtą, dydį, šaltinius, mokėjimo terminus ir tvarką, taip pat valstybės garantijų sugrąžintų gyvenamųjų namų, jų dalių, butų savininkams ir nuomininkams, kurie gyvena piliečiams bei religinėms bendruomenėms ir bendrijoms grąžintuose gyvenamuosiuose namuose, jų dalyse, butuose, įgyvendinimo tvarką ir sąlygas, garantijų turėtojų teises ir pareigas bei lengvatas asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatytatvarka yrapripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams),1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15 d. apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), asmenims, kuriems reikalingos endoprotezavimo operacijos, ir asmenims, sergantiems sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą.
 
-\#### 2 straipsnis. 7 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
+## 2 straipsnis. 7 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
 
 1. 7 straipsnio 2 dalies 3 punkte vietoj skaičiaus ir žodžių „I grupės invalidams“ įrašyti žodžius ir skaičius „asmenims, pripažintiems nedarbingais Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims, sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka pripažintas didelis specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I grupės invalidams)“ ir šį punktą išdėstyti taip:
 

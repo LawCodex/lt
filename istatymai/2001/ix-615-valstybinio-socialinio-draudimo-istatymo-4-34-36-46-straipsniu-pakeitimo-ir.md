@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.62D069DDF806"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.62D069DDF806.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 34, 36, 46 straipsnių pakeitimo ir papildymo įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 Nr. 88-2583; 2000, Nr. 28-763, Nr. 45-1299, Nr. 56-1652, Nr. 111-3577)
 
-\#### 1 straipsnis. 4 straipsnio 1 ir 3 dalių pakeitimas
+## 1 straipsnis. 4 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Nr. 88-2583; 2000, Nr. 28-763, Nr. 45-1299, Nr. 56-1652, Nr. 111-3577)
 
 „Šio įstatymo 4 straipsnio 1 dalies 3–14 punktuose nurodyti asmenys privalomai draudžiami valstybiniu socialiniu pensijų draudimu (6 punkte nurodyti asmenys privalomai draudžiami bazinei pensijai ir papildomai pensijos daliai 34 straipsnyje nustatyta tvarka, 7 ir 8 punktuose nurodyti asmenys privalomai draudžiami bazinei pensijai). Asmenys, nurodyti 10–14 punktuose, valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
-\#### 2 straipsnis. 34 straipsnio 3 ir 4 dalių papildymas ir pakeitimas
+## 2 straipsnis. 34 straipsnio 3 ir 4 dalių papildymas ir pakeitimas
 
 1. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -62,19 +62,19 @@ Nr. 88-2583; 2000, Nr. 28-763, Nr. 45-1299, Nr. 56-1652, Nr. 111-3577)
 
 „4. Asmenys, išvardyti šio įstatymo 4 straipsnio 1 dalies 6, 7 ir 8 punktuose,gali įmokų nemokėti (tas laikotarpis bus neįskaitytas į valstybinio socialinio draudimo stažą) tik tada, jeigu jie yra Valstybinio socialinio draudimo fondo pensininkai arba I ar II grupės invalidai nuo vaikystės, gaunantys šalpos (socialinę) pensiją, asmenys, sukakę senatvės pensijos amžių, gaunantys šalpos (socialinę) pensiją arba kompensaciją pagal Šalpos (socialinių) pensijų įstatymą, o įsigiję patentus asmenys ir ūkininkai už save ir dirbančius ūkyje pilnamečius savo ūkio narius dar ir tuo atveju,jei yra draudžiami valstybiniu socialiniu draudimu pagal Lietuvos Respublikos įstatymus arba turi būtinąjį stažą valstybinei socialinio draudimo senatvės pensijai gauti.“
 
-\#### 3 straipsnis. 36 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 36 straipsnio 2 dalies pakeitimas
 
 Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „Draudėjai – visi viešieji ir privatūs juridiniai asmenys, kurie privalo apskaičiuoti, išskaityti ir įmokėti į Valstybinio socialinio draudimo fondo biudžetą iš apdraustųjų asmenų pajamų mokamas valstybinio socialinio draudimo įmokas, taip pat fiziniai asmenys, kurie patys privalo mokėti valstybinio socialinio draudimo įmokas Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 4 straipsnis. 46 straipsnio papildymas
+## 4 straipsnis. 46 straipsnio papildymas
 
 Papildyti 46 straipsnį 3 dalimi:
 
 „Ginčus dėl valstybinių socialinio draudimo pensijų stažo ir dėl draudžiamųjų bei joms prilyginamų pajamų nagrinėja teismas.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Įstatymas įsigalioja nuo 2002 m. sausio 1 d.
 

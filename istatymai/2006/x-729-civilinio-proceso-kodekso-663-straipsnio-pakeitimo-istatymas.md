@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.94900C7FDF55"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.94900C7FDF55.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 663 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [36-1340](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454))
 
-\#### 1 straipsnis. 663 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 663 straipsnio 3 dalies pakeitimas
 
 663 straipsnio 3 dalyje vietoj žodžių „tris tūkstančius litų“ įrašyti žodžius „septynis tūkstančius litų“ ir šią dalį išdėstyti taip:
 

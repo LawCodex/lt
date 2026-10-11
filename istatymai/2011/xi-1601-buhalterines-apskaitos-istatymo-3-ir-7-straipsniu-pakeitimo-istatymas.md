@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3D456B6A469C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3D456B6A469C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2001, Nr. [99-3515](https://www.e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E); 2003, Nr. [123-5586](https://www.e-tar.lt/portal/lt/legalAct/TAR.146094DDC821); 2007, Nr. [68-2654](https://www.e-tar.lt/portal/lt/legalAct/TAR.2341757E0199); 2008, Nr. [82-3236](https://www.e-tar.lt/portal/lt/legalAct/TAR.93CE20E820CA), Nr. [137-5372](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CBC645A67BD))
 
-\#### 1 straipsnis. 3 straipsnio 4, 7 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
+## 1 straipsnis. 3 straipsnio 4, 7 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
 
 1. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „7. Verslo apskaitos standartų paaiškinimus teikia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų paaiškinimas neturi teisės akto galios ir išreiškia verslo apskaitos standartų rengėjų nuomonę.“
 
-\#### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalyje vietoj žodžių „Audito ir apskaitos tarnyba“ įrašyti žodžius „Lietuvos RespublikosVyriausybės įgaliota įstaiga“ ir šią dalį išdėstyti taip:
 
 „1. Ribotos civilinės atsakomybės juridiniams asmenims, savo veikla siekiantiems pelno, pavyzdinį sąskaitų planą rengia, tvirtinair „Valstybės žiniose“ skelbiaLietuvos Respublikos Vyriausybės įgaliota įstaiga.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. gegužės 1 d.
 

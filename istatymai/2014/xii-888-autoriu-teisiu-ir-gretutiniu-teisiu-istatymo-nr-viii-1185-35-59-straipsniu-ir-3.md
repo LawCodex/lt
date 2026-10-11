@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c919f5f0e56b11e39ea8c7e1dfdc4b5c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C919F5F0E56B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 35, 59 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 59-1, 59-2 straipsniais įstatymas
@@ -26,13 +26,13 @@ AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO NR. VIII-1185 35, 59 STRAIPSNI
 
 Vilnius
 
-\#### 1 straipsnis. 35 straipsnio pakeitimas
+## 1 straipsnis. 35 straipsnio pakeitimas
 
 Papildyti 35 straipsnį 5 dalimi:
 
 „5. Autorių turtinės teisės į muzikos kūrinį su žodžiais galioja visą muzikos kūrinio su žodžiais autorių (kompozitoriaus ir žodžių autoriaus) gyvenimą ir 70 metų po ilgiausiai išgyvenusio autoriaus mirties, neatsižvelgiant į tai, ar šie asmenys laikomi bendraautoriais, ar ne, su sąlyga, kad jų sukurtos kūrinio dalys (muzika ir žodžiai) buvo specialiai kuriamos tam muzikos kūriniui su žodžiais.“
 
-\#### 2 straipsnis. 59 straipsnio pakeitimas
+## 2 straipsnis. 59 straipsnio pakeitimas
 
 1. Pakeisti 59 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Papildyti 35 straipsnį 5 dalimi:
 
 2) neišleista fonograma teisėtai viešai paskelbiama, fonogramų gamintojų teisės galioja 70 metų nuo pirmojo teisėto viešo paskelbimo datos.“
 
-\#### 3 straipsnis. Įstatymo papildymas 591 straipsniu
+## 3 straipsnis. Įstatymo papildymas 591 straipsniu
 
 Papildyti Įstatymą 59^1 straipsniu:
 
@@ -62,7 +62,7 @@ Papildyti Įstatymą 59^1 straipsniu:
 
 3. Šio straipsnio 1 dalyje nurodyta atlikėjų teisė nutraukti teisių perdavimo ar suteikimo sutartį yra neatšaukiama. Sutartys dėl šios teisės atsisakymo negalioja.“
 
-\#### 4 straipsnis. Įstatymo papildymas 592 straipsniu
+## 4 straipsnis. Įstatymo papildymas 592 straipsniu
 
 Papildyti Įstatymą 59^2 straipsniu:
 
@@ -76,13 +76,13 @@ Papildyti Įstatymą 59^2 straipsniu:
 
 4. Šio straipsnio 1 dalyje nurodyta atlikėjų teisė į papildomą atlyginimą yra neatšaukiama. Sutartys dėl šios teisės atsisakymo negalioja.“
 
-\#### 5 straipsnis. Įstatymo 3 priedo pakeitimas
+## 5 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Papildyti Įstatymo 3 priedą 9 punktu:
 
 „9. 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/77/ES, kuria iš dalies keičiama Direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (OL 2011 L 265, p. 1).“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 4 straipsnis įsigalioja 2014 m. birželio 1 d.
 

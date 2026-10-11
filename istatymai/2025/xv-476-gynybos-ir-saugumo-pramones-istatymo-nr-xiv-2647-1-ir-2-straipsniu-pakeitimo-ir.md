@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5d811d50afcb11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5D811D50AFCB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gynybos ir saugumo pramonės įstatymo Nr. XIV-2647 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
@@ -26,13 +26,13 @@ GYNYBOS IR SAUGUMO PRAMONĖS ĮSTATYMO NR. XIV-2647 1 IR 2 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio įstatymo paskirtis – nustatyti gynybos ir saugumo pramonės politiką formuojančių, ją formuojant dalyvaujančių ir įgyvendinančių institucijų ir įstaigų funkcijas, jų teises ir pareigas, pramoninio bendradarbiavimo gynybos ir saugumo pramonės srityje pagrindus ir sąlygas, gynybos ir saugumo pramonės skatinimo, gynybos ir saugumo technologijų vystymo ir inovacinės veiklos finansavimo priemones.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį nauja 2 dalimi:
 
@@ -40,7 +40,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Buvusias 2 straipsnio 2–4 dalis laikyti atitinkamai 3–5 dalimis.
 
-\#### 3 straipsnis. Įstatymo papildymas 131 straipsniu
+## 3 straipsnis. Įstatymo papildymas 131 straipsniu
 
 Papildyti Įstatymą 13^1 straipsniu:
 
@@ -114,7 +114,7 @@ b) kito juridinio asmens statuso neturinčios organizacijos ar jos padalinio pag
 
 10. Vyriausybės įgaliotos institucijos sprendimas nesuteikti Gamybos projekto statuso arba sprendimas pripažinti netekusiu galios sprendimą dėl Gamybos projekto statuso suteikimo skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. lapkričio 2 d.
 

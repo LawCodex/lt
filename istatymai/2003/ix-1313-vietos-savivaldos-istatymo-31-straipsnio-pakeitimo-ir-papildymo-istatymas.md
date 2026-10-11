@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2851349DA8D6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2851349DA8D6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 31 straipsnio pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2000, Nr. [91-2832](https://www.e-tar.lt/portal/lt/legalAct/TAR.10AE4E66691A); 2001, Nr. [64-2323](https://www.e-tar.lt/portal/lt/legalAct/TAR.03EBC0E3CBDD); 2002, Nr. [112-4976](https://www.e-tar.lt/portal/lt/legalAct/TAR.BBF0762214AC))
 
-\#### 1 straipsnis. 31 straipsnio 3 dalies pakeitimas ir papildymas
+## 1 straipsnis. 31 straipsnio 3 dalies pakeitimas ir papildymas
 
 1. 31 straipsnio 3 dalies 5 punkte išbraukti žodžius „ir įstatymų nustatyta tvarka atlieka notarinius veiksmus“ ir šį punktą išdėstyti taip:
 

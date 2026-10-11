@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1f55812089da11e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1F55812089DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 2 priedo papildymo ĮSTATYMAS
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. 66-2130; 2002, Nr. 45-1708; 2007, Nr. 135-5453)
 
-\#### 1 straipsnis. Įstatymo 2 priedo papildymas
+## 1 straipsnis. Įstatymo 2 priedo papildymas
 
 Papildyti Įstatymo 2 priedą pastaba ir šį priedą išdėstyti taip:
 
@@ -40,49 +40,28 @@ valstybės tarnybos įstatymo
 
 VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITERIJAI
 
-\| Eil. Nr. | Seimą, Respublikos Prezidentą, Vyriausybę, teismų savivaldos institucijas aptarnaujančios įstaigos | Seimui ir (ar) Respublikos Prezidentui atskaitingos institucijos | Teismai ir prokuratūra | Kitos valstybės institucijos ir įstaigos | Savivaldybių institucijos ir įstaigos | Balai |
-
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| 1. | Valstybės ar savivaldybių institucijos ar įstaigos veiklos pobūdis: | | | | | |
-
-\| 1.1. | Seimo aptarnavimo funkcijų vykdymas arba pagalba vykdant Respublikos Prezidento funkcijas arba teismų savivaldos institucijų aptarnavimas arba pagalba vykdant Vyriausybės ir Ministro Pirmininko funkcijas | valstybinio audito funkcijų vykdymas arba dalyvavimas formuojant valstybės politiką nacionalinio saugumo srityje ir jos įgyvendinimas | – | valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse | – | 100 |
-
-\| 1.2. | – | skundų nagrinėjimas dėl pareigūnų ir kitų asmenų veiksmų ar neveikimo, dėl kurių gali būti pažeistos asmens teisės, laisvės ar teisėti interesai arba dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas | – | dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos formavimas ir įgyvendinimas vienoje valdymo srityje arba Europos Sąjungos struktūrinių fondų administravimo ir kontrolės funkcijų vykdymas | – | 80 |
-
-\| 1.3. | – | dalyvavimas formuojant vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos įslaptintos informacijos apsaugos srityje įgyvendinimas | – | dalyvavimas formuojant vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos įgyvendinimas daugiau kaip vienoje valdymo srityje arba neteisminės ginčų nagrinėjimo institucijos funkcijų vykdymas arba savivaldybių administracinės priežiūros funkcijų vykdymas | – | 60 |
-
-\| 1.4. | – | valstybės politikos įgyvendinimas vienoje valdymo srityje | – | valstybės politikos įgyvendinimas vienoje valdymo srityje | – | 40 |
-
-\| 1.5. | – | valstybės politikos formavimo arba įgyvendinimo aptarnavimas | – | valstybės politikos formavimo arba įgyvendinimo aptarnavimas | – | 20 |
-
-\| 2. | Valstybės ar savivaldybių institucijos ar įstaigos veiklos ir sprendimų galiojimo ribos: | | | | | |
-
-\| 2.1. | – | visa Lietuvos teritorija | visa Lietuvos teritorija | visa Lietuvos teritorija | – | 100 |
-
-\| 2.2. | – | teritorija, kurioje yra daugiau kaip 500 000 gyventojų | apygarda | teritorija, kurioje yra daugiau kaip 500 000 gyventojų | teritorija, kurioje yra daugiau kaip 500 000 gyventojų | 80 |
-
-\| 2.3. | – | teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų | apylinkė | teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų | teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų | 60 |
-
-\| 2.4. | – | teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų | – | teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų | teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų | 40 |
-
-\| 2.5. | – | teritorija, kurioje yra mažiau kaip 50 000 gyventojų, arba viena įstaigų sistema | – | teritorija, kurioje yra mažiau kaip 50 000 gyventojų, arba viena įstaigų sistema | teritorija, kurioje yra mažiau kaip 50 000 gyventojų | 20 |
-
-\| 3. | Valstybės ar savivaldybių institucijos ar įstaigos santykis su pavaldžiais ir nepavaldžiais subjektais: | | | | | |
-
-\| 3.1. | – | – | – | vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja ne mažiau kaip 3 pakopų pavaldžių subjektų sistemai, arba funkcinis vadovavimas keliose valdymo srityse | – | 100 |
-
-\| 3.2. | – | – | – | vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 2 pakopų pavaldžių subjektų sistemai | – | 80 |
-
-\| 3.3. | – | – | – | vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 1 pakopos pavaldžių subjektų sistemai, arba funkcinis vadovavimas vienoje valdymo srityje | – | 60 |
-
-\| 3.4. | – | – | – | dalinis funkcinis vadovavimas | – | 40 |
-
-\| 3.5. | – | – | – | valstybės institucija ar įstaiga neturi pavaldžių subjektų | – | 20 |
-
-\| 4. | Valstybės ir savivaldybių institucijų ir įstaigų surinktų balų santykis su valstybės ir savivaldybių institucijų ir įstaigų grupe | | | | | |
-
-\| | I grupė, jeigu įstaiga įvertinta 100 balų | I grupė, jeigu įstaiga įvertinta 200 balų; II grupė, jeigu įstaiga įvertinta 180 balų; III grupė, jeigu įstaiga įvertinta 160 balų; IV grupė, jeigu įstaiga įvertinta 140 balų; V grupė, jeigu įstaiga įvertinta 120 arba mažiau balų (120≥x) | I grupė, jeigu įstaiga įvertinta 100 balų; II grupė, jeigu įstaiga įvertinta 80 balų; III grupė, jeigu įstaiga įvertinta 60 balų | I grupė, jeigu įstaiga įvertinta 260 arba daugiau balų (x≥260); II grupė, jeigu įstaiga įvertinta nuo 200 iki 260 balų (260>x≥200); III grupė, jeigu įstaiga įvertinta nuo 150 iki 200 balų (200>x≥150); IV grupė, jeigu įstaiga įvertinta nuo 100 iki 150 balų (150>x≥100); V grupė, jeigu įstaiga įvertinta mažiau negu 100 balų (100>x) | III grupė, jeigu įstaiga įvertinta nuo 60 iki 80 balų; IV grupė, jeigu įstaiga įvertinta nuo 20 iki 40 balų | |
+| Eil. Nr. | Seimą, Respublikos Prezidentą, Vyriausybę, teismų savivaldos institucijas aptarnaujančios įstaigos | Seimui ir (ar) Respublikos Prezidentui atskaitingos institucijos | Teismai ir prokuratūra | Kitos valstybės institucijos ir įstaigos | Savivaldybių institucijos ir įstaigos | Balai |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. | Valstybės ar savivaldybių institucijos ar įstaigos veiklos pobūdis: |  |  |  |  |  |
+| 1.1. | Seimo aptarnavimo funkcijų vykdymas arba pagalba vykdant Respublikos Prezidento funkcijas arba teismų savivaldos institucijų aptarnavimas arba pagalba vykdant Vyriausybės ir Ministro Pirmininko funkcijas | valstybinio audito funkcijų vykdymas arba dalyvavimas formuojant valstybės politiką nacionalinio saugumo srityje ir jos įgyvendinimas | – | valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse | – | 100 |
+| 1.2. | – | skundų nagrinėjimas dėl pareigūnų ir kitų asmenų veiksmų ar neveikimo, dėl kurių gali būti pažeistos asmens teisės, laisvės ar teisėti interesai arba dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas | – | dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos formavimas ir įgyvendinimas vienoje valdymo srityje arba Europos Sąjungos struktūrinių fondų administravimo ir kontrolės funkcijų vykdymas | – | 80 |
+| 1.3. | – | dalyvavimas formuojant vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos įslaptintos informacijos apsaugos srityje įgyvendinimas | – | dalyvavimas formuojant vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos įgyvendinimas daugiau kaip vienoje valdymo srityje arba neteisminės ginčų nagrinėjimo institucijos funkcijų vykdymas arba savivaldybių administracinės priežiūros funkcijų vykdymas | – | 60 |
+| 1.4. | – | valstybės politikos įgyvendinimas vienoje valdymo srityje | – | valstybės politikos įgyvendinimas vienoje valdymo srityje | – | 40 |
+| 1.5. | – | valstybės politikos formavimo arba įgyvendinimo aptarnavimas | – | valstybės politikos formavimo arba įgyvendinimo aptarnavimas | – | 20 |
+| 2. | Valstybės ar savivaldybių institucijos ar įstaigos veiklos ir sprendimų galiojimo ribos: |  |  |  |  |  |
+| 2.1. | – | visa Lietuvos teritorija | visa Lietuvos teritorija | visa Lietuvos teritorija | – | 100 |
+| 2.2. | – | teritorija, kurioje yra daugiau kaip 500 000 gyventojų | apygarda | teritorija, kurioje yra daugiau kaip 500 000 gyventojų | teritorija, kurioje yra daugiau kaip 500 000 gyventojų | 80 |
+| 2.3. | – | teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų | apylinkė | teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų | teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų | 60 |
+| 2.4. | – | teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų | – | teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų | teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų | 40 |
+| 2.5. | – | teritorija, kurioje yra mažiau kaip 50 000 gyventojų, arba viena įstaigų sistema | – | teritorija, kurioje yra mažiau kaip 50 000 gyventojų, arba viena įstaigų sistema | teritorija, kurioje yra mažiau kaip 50 000 gyventojų | 20 |
+| 3. | Valstybės ar savivaldybių institucijos ar įstaigos santykis su pavaldžiais ir nepavaldžiais subjektais: |  |  |  |  |  |
+| 3.1. | – | – | – | vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja ne mažiau kaip 3 pakopų pavaldžių subjektų sistemai, arba funkcinis vadovavimas keliose valdymo srityse | – | 100 |
+| 3.2. | – | – | – | vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 2 pakopų pavaldžių subjektų sistemai | – | 80 |
+| 3.3. | – | – | – | vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 1 pakopos pavaldžių subjektų sistemai, arba funkcinis vadovavimas vienoje valdymo srityje | – | 60 |
+| 3.4. | – | – | – | dalinis funkcinis vadovavimas | – | 40 |
+| 3.5. | – | – | – | valstybės institucija ar įstaiga neturi pavaldžių subjektų | – | 20 |
+| 4. | Valstybės ir savivaldybių institucijų ir įstaigų surinktų balų santykis su valstybės ir savivaldybių institucijų ir įstaigų grupe |  |  |  |  |  |
+|  | I grupė, jeigu įstaiga įvertinta 100 balų | I grupė, jeigu įstaiga įvertinta 200 balų; II grupė, jeigu įstaiga įvertinta 180 balų; III grupė, jeigu įstaiga įvertinta 160 balų; IV grupė, jeigu įstaiga įvertinta 140 balų; V grupė, jeigu įstaiga įvertinta 120 arba mažiau balų (120≥x) | I grupė, jeigu įstaiga įvertinta 100 balų; II grupė, jeigu įstaiga įvertinta 80 balų; III grupė, jeigu įstaiga įvertinta 60 balų | I grupė, jeigu įstaiga įvertinta 260 arba daugiau balų (x≥260); II grupė, jeigu įstaiga įvertinta nuo 200 iki 260 balų (260>x≥200); III grupė, jeigu įstaiga įvertinta nuo 150 iki 200 balų (200>x≥150); IV grupė, jeigu įstaiga įvertinta nuo 100 iki 150 balų (150>x≥100); V grupė, jeigu įstaiga įvertinta mažiau negu 100 balų (100>x) | III grupė, jeigu įstaiga įvertinta nuo 60 iki 80 balų; IV grupė, jeigu įstaiga įvertinta nuo 20 iki 40 balų |  |
 
 Pastaba. Gyventojų skaičius savivaldybės teritorijoje nustatomas pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais turi vykti eiliniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatytu konkrečios savivaldybės gyventojų skaičiumi vadovaujamasi iki kalendorinių metų, kuriais turi vykti kiti eiliniai savivaldybių tarybų rinkimai, sausio 1 dienos.
 
@@ -114,7 +93,7 @@ Pastaba. Gyventojų skaičius savivaldybės teritorijoje nustatomas pagal kalend
 
 8. Viena įstaigų sistema suprantama kaip ministerijos arba kitos valstybės institucijos ar įstaigos valdymo srityje esančių įstaigų visuma.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2014 m. kovo 1 d.
 

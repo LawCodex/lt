@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F108F83B9282"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F108F83B9282.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 6 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. 56-2225; 2007, Nr. 64-2455; 2010, Nr. 57-2809; 2011, Nr. 153-7194)
 
-\#### 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 1 dalies pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: rengia, tvirtina ir įgyvendina tikslines savivaldybių sveikatos programas, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 

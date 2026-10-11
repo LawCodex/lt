@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.744B5812BA0F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.744B5812BA0F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymo 1 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1672](https://www.e-tar.lt/portal/lt/legalAct/TAR.D570962773F8); 1998, Nr. [61-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.8E9E01A7590B); 2000, Nr. [42-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3B0CBDC7381))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1 straipsnio 16 punktą pripažinti netekusiu galios, buvusius 17–27 punktus laikyti atitinkamai 16–26 punktais ir šį straipsnį išdėstyti taip:
 

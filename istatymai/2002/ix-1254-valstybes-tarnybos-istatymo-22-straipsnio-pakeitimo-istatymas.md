@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.77A336B3902C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.77A336B3902C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 22 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B); 2002, Nr. [45-1708](https://www.e-tar.lt/portal/lt/legalAct/TAR.5603BD9D8D74))
 
-\#### 1 straipsnis. 22 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 22 straipsnio 3 dalies pakeitimas
 
 22 straipsnio 3 dalyje po žodžių „Įstaigos vadovus“ įrašyti žodžius „vidaus audito tarnybos vadovus bei auditorius“ ir šią dalį išdėstyti taip:
 
 „3. Karjeros valstybės tarnautoją vertina valstybės ar savivaldybės institucijos ar įstaigos vadovo sudaryta vertinimo komisija. Įstaigos vadovus, vidaus auditotarnybos vadovus bei auditorius,vertinimo komisijos narius ir 18–20 kategorijų valstybės tarnautojus vertina valstybės tarnybos tvarkymo funkcijas atliekančios įstaigos vadovo sudaryta vertinimo komisija. Valstybės tarnybos tvarkymo funkcijas atliekančios įstaigos vadovas vertinimo komisiją sudaro iš skirtingų valstybės ar savivaldybių institucijų ar įstaigų valstybės tarnautojų. Savivaldybės administratorių, savivaldybės kontrolierių ir savivaldybės institucijų ar įstaigų valstybės tarnautojų vertinimo komisijos narius vertina savivaldybės tarybos sudaryta vertinimo komisija.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 

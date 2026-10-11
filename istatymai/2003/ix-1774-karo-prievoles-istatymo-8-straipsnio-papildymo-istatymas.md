@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.60767749EC22"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.60767749EC22.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos karo prievolės įstatymo 8 straipsnio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. 106-2427; 1999, Nr. 59-1918; 2000, Nr. 64-1933; 2003, Nr. 38-1725, Nr. 42-1912)
 
-\#### 1 straipsnis. 8 straipsnio papildymas
+## 1 straipsnis. 8 straipsnio papildymas
 
 1. Papildyti 8 straipsnį nauja 2 dalimi:
 

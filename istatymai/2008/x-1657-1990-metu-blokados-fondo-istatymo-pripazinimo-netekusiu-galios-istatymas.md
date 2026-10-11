@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2F14CF6CA3A9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2F14CF6CA3A9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 1990 metų blokados fondo įstatymo pripažinimo netekusiu galios įstatymas
@@ -28,17 +28,17 @@ Vilnius
 
 (Žin., 1998, Nr. [53-1447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BE1C9A7DCC9))
 
-\#### 1 straipsnis. 1990 metų blokados fondo likvidavimas ir Įstatymo pripažinimas netekusiu galios
+## 1 straipsnis. 1990 metų blokados fondo likvidavimas ir Įstatymo pripažinimas netekusiu galios
 
 1. 1990 metų blokados fondas likviduojamas.
 
 2. Lietuvos Respublikos 1990 metų blokados fondo įstatymas pripažįstamas netekusiu galios.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 1 straipsnis įsigalioja 2009 m. sausio 1 d.
 
-\#### 3 straipsnis. Įstatymo įgyvendinimas
+## 3 straipsnis. Įstatymo įgyvendinimas
 
 1. 1990 metų blokados fondo (toliau – Fondas) ilgalaikis materialusis turtas (kilnojamieji daiktai) Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka perduodamas patikėjimo teise valstybės biudžetinei įstaigai Lietuvos nacionaliniam muziejui valdyti, naudoti ir disponuoti juo.
 

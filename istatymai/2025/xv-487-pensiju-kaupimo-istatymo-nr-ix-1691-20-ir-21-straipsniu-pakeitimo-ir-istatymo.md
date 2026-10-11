@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ff1bd2f0afcf11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FF1BD2F0AFCF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 20 ir 21 straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ PENSIJŲ KAUPIMO ĮSTATYMO NR. IX-1691 20 IR 21 STRAIPSNIŲ PAKEITIMO IR ĮSTATY
 
 Vilnius
 
-\#### 1 straipsnis. 20 straipsnio pakeitimas
+## 1 straipsnis. 20 straipsnio pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „3. Turto išsaugojimo pensijų fondo lėšos gali būti investuojamos į išvestines finansines priemones tik rizikai valdyti. Kiekviena išvestinė finansinė priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris ir jo rizikai valdyti naudojama išvestinė finansinė priemonė turi būti nurodyti pensijų kaupimo bendrovės periodinėse ataskaitose.“
 
-\#### 2 straipsnis. 21 straipsnio pakeitimas
+## 2 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 6. Pensijų fondo turtą investuojant pagal Papildomo savanoriško pensijų kaupimo įstatyme nustatytus reikalavimus ir tvarką, pensijų kaupimo bendrovėms taikomos Papildomo savanoriško pensijų kaupimo įstatymo 71 straipsnyje nustatytos profesinės civilinės atsakomybės rizikos valdymo priemonės.“
 
-\#### 3 straipsnis. Įstatymo papildymas 261 straipsniu
+## 3 straipsnis. Įstatymo papildymas 261 straipsniu
 
 Papildyti Įstatymą 26^1 straipsniu:
 
@@ -82,7 +82,7 @@ Papildyti Įstatymą 26^1 straipsniu:
 
 7. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms šis straipsnis netaikomas. Tokioms draudimo įmonėms taikomi Draudimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyti kapitalo reikalavimai.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

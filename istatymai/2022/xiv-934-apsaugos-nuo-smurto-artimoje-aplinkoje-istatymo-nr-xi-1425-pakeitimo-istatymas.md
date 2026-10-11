@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1e568520a9ee11ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1E568520A9EE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 pakeitimo įstatymas
@@ -538,5 +538,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
 
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 pakeitimo įstatymo Nr. XIV-934 1 ir 3 straipsnių pakeitimo įstatymas
-
-part_c19e20d8fafc40ff8401f5c834c6b0e2_end

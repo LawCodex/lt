@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e1cc95e0fec011ec8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E1CC95E0FEC0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko teisinio statuso įstatymas
@@ -26,11 +26,11 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKO TEISINIO STATUSO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato pagal 1990 m. kovo 11 d. patvirtintą Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą buvusio aukščiausiojo Lietuvos Respublikos pareigūno, Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko, teisinį statusą.
 
-\#### 2 straipsnis. Lietuvos valstybės vadovas
+## 2 straipsnis. Lietuvos valstybės vadovas
 
 1. Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas, pagal 1990 m. kovo 11 d. patvirtintą Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą būdamas aukščiausiuoju Lietuvos Respublikos pareigūnu, nuo 1990 m. kovo 11 d. iki 1992 m. lapkričio 25 d. turėjo ir vykdė konstitucinius valstybės vadovo įgaliojimus.
 

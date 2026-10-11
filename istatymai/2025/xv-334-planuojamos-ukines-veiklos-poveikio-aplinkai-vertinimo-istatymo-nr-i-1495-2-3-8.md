@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c75cdc9255c711f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C75CDC9255C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 8, 11, 12 straipsnių, 1, 2 ir 3 priedų pakeitimo įstatymas
@@ -26,23 +26,23 @@ PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO NR. I-1495 2,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pripažinti netekusia galios 2 straipsnio 16 dalį.
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Kai atsakingoji institucija yra priėmusi atrankos dėl poveikio aplinkai vertinimo išvadą (toliau – atrankos išvada) ir (ar) sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, tačiau iki ūkinės veiklos vykdymo pradžios ar pradėjus ją vykdyti planuojama ūkinė veikla keičiama, plečiama ir šis keitimas ar plėtimas atitinka šio įstatymo 1 priedo 11 punkte ar 2 priedo 14 ir 15 punktuose nurodytus atvejus, tokiu atveju atranka dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimas atliekamas dėl planuojamos ūkinės veiklos keitimo ar plėtimo.“
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 Papildyti 8 straipsnio 1 dalį 3 punktu:
 
 „3) planuojamos ūkinės veiklos poveikio aplinkai vertinimas atliekamas dėl atsinaujinančius išteklius naudojančių objektų statybos.“
 
-\#### 4 straipsnis. 11 straipsnio pakeitimas
+## 4 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -56,7 +56,7 @@ Papildyti 8 straipsnio 1 dalį 3 punktu:
 
 „8. Poveikio aplinkai vertinimo subjektas, nustatęs ataskaitos dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, trūkumus, prieš pateikdamas motyvuotus reikalavimus, kad poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų ataskaitą, ne vėliau kaip iki šio straipsnio 5 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą nustatytiems ataskaitos trūkumams aptarti.“
 
-\#### 5 straipsnis. 12 straipsnio pakeitimas
+## 5 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -74,13 +74,13 @@ Papildyti 8 straipsnio 1 dalį 3 punktu:
 
 „5. Kai atsakingoji institucija pateikia motyvuotus reikalavimus ataskaitą pataisyti ir (ar) papildyti, poveikio aplinkai vertinimo dokumentų rengėjas turi pataisyti ir (ar) papildyti ataskaitą ir pakartotinai pateikti ją atsakingajai institucijai. Atsakingoji institucija pataisytą ir (ar) papildytą ataskaitą išnagrinėja ir per 15 darbo dienų, o dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, per 10 darbo dienų nuo papildytos ir (ar) pataisytos ataskaitos gavimo dienos priima sprendimą arba, nepažeisdama šio įstatymo 6 straipsnio 8 dalies nuostatų, dar kartą teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti.“
 
-\#### 6 straipsnis. Įstatymo 1 priedo pakeitimas
+## 6 straipsnis. Įstatymo 1 priedo pakeitimas
 
 Pakeisti Įstatymo 1 priedo 3.10.2 papunktį ir jį išdėstyti taip:
 
 „3.10.2. sausumoje, kai planuojama statyti 7 ar daugiau vėjo elektrinių, kurių aukštis – ne mažesnis kaip 50 m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), ir atstumas nuo planuojamų statyti vėjo elektrinių iki pastatytų, statomų ar planuojamų statyti vėjo elektrinių yra 5 km ar mažesnis (matuojant tarp stiebų centrų) arba kai šie skaičiai ir atstumo dydžiai pasiekiami, įskaitant jau pastatytas, statomas ar planuojamas statyti vėjo elektrines, kurių aukštis ne mažesnis kaip 50 m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį).“
 
-\#### 7 straipsnis. Įstatymo 1 priedo pakeitimas
+## 7 straipsnis. Įstatymo 1 priedo pakeitimas
 
 1. Pakeisti Įstatymo 1 priedo 3.10.2 papunktį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti Įstatymo 1 priedo 3.10.2 papunktį ir jį išdėstyti taip:
 
 „8.8. antžeminių elektros perdavimo linijų tiesimas (kai įtampa – 220 kV ar aukštesnė, o linijos ilgis – 15 km ar daugiau), išskyrus atvejus, kai antžeminių elektros energijos perdavimo linijų tiesimas (kai įtampa – 220 kV ar aukštesnė, o linijos ilgis – 15 km ar daugiau) planuojamas teritorijose, numatytose paspartintos atsinaujinančių išteklių energijos plėtros zonų plane (-uose), patvirtintame (-uose) Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka, ir kai veikla atitinka šiame (-uose) plane (-uose) nustatytas plėtros taisykles ir poveikio mažinimo priemones;“.
 
-\#### 8 straipsnis. Įstatymo 2 priedo pakeitimas
+## 8 straipsnis. Įstatymo 2 priedo pakeitimas
 
 1. Pakeisti Įstatymo 2 priedo 3.1 papunktį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Pakeisti Įstatymo 1 priedo 3.10.2 papunktį ir jį išdėstyti taip:
 
 „15. Į šiame priede pateiktą rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą, kai planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti reikšmingą neigiamą poveikį aplinkai, išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 11 punkte nurodytus atvejus ir atsinaujinančius išteklius naudojančių elektrinių (įrenginių) modernizavimą, jeigu jų įrengtoji galia padidinama mažiau kaip 15 procentų. Šio punkto reikalavimas taikomas veiklai, kuriai:“.
 
-\#### 9 straipsnis. Įstatymo 2 priedo pakeitimas
+## 9 straipsnis. Įstatymo 2 priedo pakeitimas
 
 Pakeisti Įstatymo 2 priedo 3.8 papunktį ir jį išdėstyti taip:
 
@@ -128,13 +128,13 @@ Pakeisti Įstatymo 2 priedo 3.8 papunktį ir jį išdėstyti taip:
 
 3.8.3. planuojama statyti 7 ar daugiau vėjo elektrinių, kurių aukštis – ne mažesnis kaip 50 m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), ir atstumas nuo planuojamų statyti vėjo elektrinių iki pastatytų, statomų ar planuojamų statyti vėjo elektrinių yra 5 km ar mažesnis (matuojant tarp stiebų centrų) arba kai šie skaičiai ir atstumo dydžiai pasiekiami, įskaitant jau pastatytas, statomas ar planuojamas statyti vėjo elektrines, kurių aukštis – ne mažesnis kaip 50 m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), kurias planuojama statyti teritorijoje, nurodytoje paspartintos atsinaujinančių išteklių energijosplėtros zonų plane (-uose), patvirtintame (-uose) Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka, ir veikla atitinka paspartintos atsinaujinančių išteklių energijos plėtros zonos plane (-uose) nustatytas plėtros taisykles ir poveikio mažinimo priemones;“.
 
-\#### 10 straipsnis. Įstatymo 3 priedo pakeitimas
+## 10 straipsnis. Įstatymo 3 priedo pakeitimas
 
 Papildyti Įstatymo 3 priedą 3 punktu:
 
 „3. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva [(ES) 2023/2413](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2413&locale=lt), kuria iš dalies keičiami Direktyva [(ES) 2018/2001](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018L2001&locale=lt), Reglamentas [(ES) 2018/1999](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32018R1999&locale=lt) ir Direktyva [98/70/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31998L0070&locale=lt), kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva [(ES) 2015/652](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32015L0652&locale=lt).“
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 11 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 3, 7 ir 9 straipsnius ir šio straipsnio 3 dalį, įsigalioja 2025 m. liepos 14 d.
 

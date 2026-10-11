@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/05dbde9057e811f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.05DBDE9057E8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 2, 7, 12, 13, 24 ir 28 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ SEIMO KONTROLIERIŲ ĮSTATYMO NR. VIII-950 2, 7, 12, 13, 24 IR 28 STRAIPSNIŲ PA
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamosLietuvos Respublikos viešojo administravimo įstatyme ir Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme.“
 
-\#### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -44,19 +44,19 @@ Vilnius
 
 2. Pripažinti netekusia galios 7 straipsnio 2 dalį.
 
-\#### 3 straipsnis. 12 straipsnio pakeitimas
+## 3 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Seimo kontrolieriai tiria pareiškėjų skundus dėl pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeidžiamų žmogaus teisių ir laisvių viešojo administravimo srityje, taip pat skundus dėl pažeidimų, padarytų teikiant viešąsias paslaugas smulkiajam ir vidutiniam verslui.“
 
-\#### 4 straipsnis. 13 straipsnio pakeitimas
+## 4 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pareiškėjasturi teisę pateikti Seimo kontrolieriui skundą dėl pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeistų savo teisių ar laisvių viešojo administravimo srityje, taip pat dėl savo teisių ar laisvių pažeidimų, padarytų teikiant viešąsias paslaugas smulkiajam ir vidutiniam verslui.“
 
-\#### 5 straipsnis. 24 straipsnio pakeitimas
+## 5 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrolierių įstaiga yra juridinis asmuo, valstybės biudžeto asignavimų valdytojas, turintis savo tvarkomą sąskaitą valstybės ižde ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos Seimo kontrolierių įstaiga“ ir finansuojamas iš valstybės biudžeto. Už Seimo kontrolierių įstaigos antspaudo naudojimą ir saugojimą atsako Seimo kontrolierių įstaigos vadovas.“
 
-\#### 6 straipsnis. 28 straipsnio pakeitimas
+## 6 straipsnis. 28 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 28 straipsnio 2 dalį.
 
@@ -72,7 +72,7 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 
 „1^1) pasitaręs su Seimo kontrolieriais nustato veiklos sritis;“.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas įsigalioja 2025 m. rugpjūčio 1 d.
 

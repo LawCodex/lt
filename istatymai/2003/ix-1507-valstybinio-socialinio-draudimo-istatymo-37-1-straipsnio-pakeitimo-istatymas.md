@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B97EDFCDDDFF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B97EDFCDDDFF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 37(1) straipsnio pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1997, Nr. 67-1665; 2001, Nr. 91-3189; 2002, Nr. 52-1983)
 
-\#### 1 straipsnis. 371 straipsnio pakeitimas
+## 1 straipsnis. 371 straipsnio pakeitimas
 
 Pakeisti 37^1 straipsnio pavadinimą, 1 dalį, 2 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip:
 

@@ -10,7 +10,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3143dea0ae7a11f092fda1fd0c194cc5"
 text_source: "https://github.com/legalize-dev/legalize-lt/blob/76c1b579fba5a874079b2d3b99bf471befc4b877/lt/3143dea0ae7a11f092fda1fd0c194cc5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via legalize-lt mirror, snapshot 2026-09-25"
+text_origin: "data.gov.lt TAR open data via legalize-lt mirror (commit of 2026-09-25)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 21, 25, 26, 29, 33-1, 33-4, 35, 40, 41 ir 42 straipsnių pakeitimo įstatymas

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2F79E8698F3A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2F79E8698F3A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos sistemos įstatymo 2, 11, 41, 47, 63, 69 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [63-1231](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182); 1998, Nr. [112-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.E964CE7A637A); 2000, Nr. [92-2876](https://www.e-tar.lt/portal/lt/legalAct/TAR.4688980C7C83))
 
-\#### 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 12 dalies pakeitimas
 
 2 straipsnio 12 dalyje išbraukti žodžius „savivaldybių sveikatos fondų lėšų“ ir šią dalį išdėstyti taip:
 
 „12. **Valstybės laiduojama (nemokama) asmens sveikatos priežiūra** – asmens sveikatos priežiūros paslaugos, apmokamos iš privalomojo sveikatos draudimo fondo, valstybės ar savivaldybių biudžetų.“
 
-\#### 2 straipsnis. 11 straipsnio 2 dalies 1 punkto pakeitimas
+## 2 straipsnis. 11 straipsnio 2 dalies 1 punkto pakeitimas
 
 11 straipsnio 2 dalies 1 punkte vietoj žodžių „savivaldybių sveikatos fondų lėšų“ įrašyti žodžius „savivaldybių visuomenės sveikatos rėmimo specialiosios programos lėšų“ ir šį punktą išdėstyti taip:
 
 „1) asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai tiesiogiai nemoka sveikatos priežiūros įstaigoms, o jos apmokamos iš privalomojo sveikatos draudimo fondo, valstybės ar savivaldybių biudžetų ar savivaldybių visuomenės sveikatos rėmimo specialiosios programos lėšų;“.
 
-\#### 3 straipsnis. 41 straipsnio pakeitimas
+## 3 straipsnis. 41 straipsnio pakeitimas
 
 Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
@@ -64,7 +64,7 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 4. Savivaldybės institucija ataskaitą, o prireikus – ir papildomą informaciją apie Savivaldybės visuomenės sveikatos rėmimo specialiosios programos priemonių vykdymą teikia Sveikatos apsaugos ministerijai jos nustatyta tvarka.“
 
-\#### 4 straipsnis. 47 straipsnio 1 dalies ir 2 dalies 7 punkto pakeitimas
+## 4 straipsnis. 47 straipsnio 1 dalies ir 2 dalies 7 punkto pakeitimas
 
 1. 47 straipsnio 1 dalyje vietoj žodžių „savivaldybių sveikatos fondų lėšų“ įrašyti žodžius „savivaldybių visuomenės sveikatos rėmimo specialiosios programos lėšų“ ir šią dalį išdėstyti taip:
 
@@ -74,13 +74,13 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 „7) asmenų, sergančių tuberkulioze, lytiniu keliu plintančiomis ligomis, ŽIV **(**AIDS), užkrečiamosiomis, endokrininėmis, psichikos, onkologinėmis ligomis, priklausomybės nuo alkoholio sindromu, narkomanijomis, toksikomanijomis ir kitomis Sveikatos apsaugos ministerijos nustatyto sąrašo ligomis, bei nėščiųjų asmens sveikatos priežiūra;“.
 
-\#### 5 straipsnis. 63 straipsnio 5 punkto pakeitimas
+## 5 straipsnis. 63 straipsnio 5 punkto pakeitimas
 
 Pakeisti 63 straipsnio 5 punktą ir jį išdėstyti taip:
 
 „5) tvirtina savivaldybių visuomenės sveikatos rėmimo specialiąją programą, kontroliuoja jai skirtų lėšų naudojimą ir tvirtina jų panaudojimo ataskaitą;“.
 
-\#### 6 straipsnis. 69 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 69 straipsnio 2 dalies pakeitimas
 
 Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.33EF5C6D8443"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.33EF5C6D8443.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl sprendimų, susijusių su išlaikymo pareigomis, pripažinimo ir vykdymo ratifikavimo
@@ -26,11 +26,11 @@ DĖL KONVENCIJOS DĖL SPRENDIMŲ, SUSIJUSIŲ SU IŠLAIKYMO PAREIGOMIS, PRIPAŽIN
 
 Vilnius
 
-\#### 1 straipsnis. Konvencijos ratifikavimas
+## 1 straipsnis. Konvencijos ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 14 d. dekretą Nr. 1664, ratifikuoja su išlygomis 1973 m. spalio 2 d. sudarytą Konvenciją dėl sprendimų, susijusių su išlaikymo pareigomis, pripažinimo ir vykdymo.
 
-\#### 2 straipsnis. Lietuvos Respublikos išlygos
+## 2 straipsnis. Lietuvos Respublikos išlygos
 
 Vadovaudamasis Konvencijos 34 straipsniu, Lietuvos Respublikos Seimas pareiškia, kad:
 

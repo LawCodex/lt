@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/c7267b02e56911f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C7267B02E569.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 4 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO NR. VIII-947 4 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnio pavadinimą ir jį išdėstyti taip:
 

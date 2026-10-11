@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8adde0e2b3fd11f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8ADDE0E2B3FD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 21 straipsnių pakeitimo, Įstatymo papildymo priedu ir 10 straipsnio pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO NR. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „4. **Nedarbo draudimo stažas** – laikotarpiai, per kuriuos mokamos arba pagal įstatymus turėjo būti mokamos valstybinio socialinio draudimo įmokos nedarbo draudimui, taip pat laikotarpiai, per kuriuos apdraustasis gavo šio įstatymo nustatytas dalinio darbo išmokas, ligos (įskaitant darbdavio mokamą išmoką už 2 pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokas, mokamas vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymu, ligos dėl nelaimingų atsitikimų darbe arba profesinės ligos išmokas, mokamas vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu. Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų individualių įmonių savininkų, mažųjų bendrijų narių ir ūkinių bendrijų tikrųjų narių, kurie yra draudžiami nedarbo draudimu, nedarbo draudimo stažas nustatomas pagal sumokėtas nedarbo draudimo įmokas. Jeigu šios įmokos sumokėtos nuo Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio nedarbo draudimo stažas. Jeigu šios įmokos sumokėtos nuo mažesnės arba didesnės negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga sumos, nedarbo draudimo stažas nustatomas proporcingai mažesnis arba didesnis. Nedarbo draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, dalinio darbo socialinio draudimo išmokų iš Valstybinio socialinio draudimo fondo biudžeto gavimo laikotarpius. Nedarbo draudimo stažas apskaičiuojamas socialinės apsaugos ir darbo ministro nustatyta nedarbo draudimo išmokų skyrimo ir mokėjimo tvarka.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -58,13 +58,13 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 3) nuo laikotarpio, už kurį priskaičiuota ankstesnė nedarbo draudimo išmoka, pradžios iki bedarbio statuso įgijimo dienos jų įgytas nedarbo draudimo stažas yra ne trumpesnis kaip 12 mėnesių ir į laikotarpį nedarbo draudimo stažui apskaičiuoti patenka visas arba dalis laikotarpio, už kurį yra priskaičiuota ankstesnė nedarbo draudimo išmoka.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 ir 3 punktuose, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos.“
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 7. Ne viso mėnesio nedarbo draudimo išmoka apskaičiuojama pagal kalendorines to mėnesio, už kurį mokama nedarbo draudimo išmoka, dienas.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -102,11 +102,11 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) bedarbis be pateisinamų priežasčių pažeidė sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro nustatytą elgesio nedarbingumo metu tvarką – nuo dienos, kurią padarytas elgesio nedarbingumo metu tvarkos pažeidimas.“
 
-\#### 7 straipsnis. 10 straipsnio pripažinimas netekusiu galios
+## 7 straipsnis. 10 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 10 straipsnį.
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pripažinti netekusiu galios 10 straipsnį.
 
 2. Pripažinti netekusia galios 11 straipsnio 3 dalį.
 
-\#### 9 straipsnis. 12 straipsnio pakeitimas
+## 9 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -126,19 +126,19 @@ Pripažinti netekusiu galios 10 straipsnį.
 
 „8. Nedarbo draudimo išmokos mokėjimas pratęsiamas dėl ligos arba traumos, taip pat dėl nėštumo ir gimdymo atostogų socialinės apsaugos ir darbo ministro nustatyta nedarbo draudimo išmokų skyrimo ir mokėjimo tvarka.“
 
-\#### 10 straipsnis. 17 straipsnio pakeitimas
+## 10 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu yra Darbo kodekso 48 straipsnio 1 dalyje nustatytos aplinkybės, dėl dalinio darbo išmokos skyrimo darbuotojams darbdavys kreipiasi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių, pateikdamas motyvuotą prašymą skirti dalinio darbo išmoką ir nurodydamas kiekvieno darbuotojo darbo laiko normos sutrumpinimą iki 50 procentų, planuojamą dalinio darbo pradžią, kuri negali būti ankstesnė kaip po 30 dienų nuo kreipimosi dienos, ir pabaigą. Prašymas skirti dalinio darbo išmoką svarstomas Valstybinio socialinio draudimo fondo taryboje. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius sprendimą dėl dalinio darbo išmokos skyrimo priima gavęs Valstybinio socialinio draudimo fondo tarybos išvadą. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius dalinio darbo išmoką skiria socialinės apsaugos ir darbo ministro nustatyta dalinio darbo išmokų skyrimo ir mokėjimo tvarka. Pakartotinai dėl dalinio darbo išmokų skyrimo tam pačiam darbuotojui darbdavys į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių gali kreiptis ne anksčiau kaip po 12 mėnesių nuo dalinio darbo išmokų, skirtų pagal ankstesnį kreipimąsi, mokėjimo paskutinės dienos.“
 
-\#### 11 straipsnis. 21 straipsnio pakeitimas
+## 11 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Nedarbo draudimo ir dalinio darbo išmokas apskaičiuoja, skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai socialinės apsaugos ir darbo ministro nustatytomis nedarbo draudimo išmokų skyrimo ir mokėjimo tvarka bei dalinio darbo išmokų skyrimo ir mokėjimo tvarka.“
 
-\#### 12 straipsnis. Įstatymo papildymas priedu
+## 12 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -156,7 +156,7 @@ priedas
 
 __________________________“.
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 13 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1, 12 straipsnius ir šio straipsnio 2, 3 dalis, įsigalioja 2026 m. liepos 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DE221608A1D2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE221608A1D2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymo 35 ir 36 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A))
 
-\#### 1 straipsnis. 35 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 35 straipsnio 1 dalies pakeitimas
 
 35 straipsnio 1 dalyje vietoj skaičiaus „3“ įrašyti skaičių „4“ ir šią dalį išdėstyti taip:
 
 „1. Teritorinėje ligonių kasoje 4 metams sudaroma stebėtojų taryba. Stebėtojų taryba – kolegialus patariamasis organas. Į teritorinės ligonių kasos stebėtojų tarybą įeina Sveikatos apsaugos ministerijos atstovas, Valstybinės ligonių kasos atstovas, po vieną į aptarnaujamą teritoriją įeinančių apskričių viršininkų deleguotą atstovą ir po vieną į aptarnaujamą teritoriją įeinančių savivaldybių tarybų deleguotą atstovą – tarybos narį. Teritorinės ligonių kasos stebėtojų tarybos darbui vadovauja teritorinės ligonių kasos stebėtojų tarybos pirmininkas, renkamas iš teritorinės ligonių kasos stebėtojų tarybos narių paprasta balsų dauguma dalyvaujant ne mažiau kaip 2/3 teritorinės ligonių kasos stebėtojų tarybos narių. Teritorinės ligonių kasos stebėtojų tarybos pirmininku negali būti Sveikatos apsaugos ministerijos ir Valstybinės ligonių kasos atstovas.“
 
-\#### 2 straipsnis. 36 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 36 straipsnio 1 dalies pakeitimas
 
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 

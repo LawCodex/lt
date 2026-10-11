@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D761F7C89AB0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D761F7C89AB0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 7, 11, 12, 18, 19, 26, 31, 43, 50, 51, 53, 58 straipsnių, 1 priedėlio pakeitimo bei papildymo ir Įstatymo papildymo 38(1), 38(2) straipsniais įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2002, Nr. [73-3086](https://www.e-tar.lt/portal/lt/legalAct/TAR.12825B0ADFAC), Nr. [123-5517](https://www.e-tar.lt/portal/lt/legalAct/TAR.57CC6D81313B); 2003, Nr. [73-3343](https://www.e-tar.lt/portal/lt/legalAct/TAR.FCADF8BCACE2), Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB), 3428, Nr. [104-4645](https://www.e-tar.lt/portal/lt/legalAct/TAR.529B982B975B); 2004, Nr. [25-748](https://www.e-tar.lt/portal/lt/legalAct/TAR.16B90D491165), Nr. [54-1834](https://www.e-tar.lt/portal/lt/legalAct/TAR.F563A541C7E9), Nr. [60-2117](https://www.e-tar.lt/portal/lt/legalAct/TAR.832420D81B1B), Nr. [73-2534](https://www.e-tar.lt/portal/lt/legalAct/TAR.0A69FC3C021A), Nr. [96-3520](https://www.e-tar.lt/portal/lt/legalAct/TAR.D36ECC8333E1), Nr. [158-5758](https://www.e-tar.lt/portal/lt/legalAct/TAR.06FE63BF5A3F); 2005, Nr. [76-2740](https://www.e-tar.lt/portal/lt/legalAct/TAR.610D63A4C95A), Nr. [81-2942](https://www.e-tar.lt/portal/lt/legalAct/TAR.A94E5EDF1953), Nr. [85-3141](https://www.e-tar.lt/portal/lt/legalAct/TAR.085849B44FCC), Nr. [88-3292](https://www.e-tar.lt/portal/lt/legalAct/TAR.1379E1A26C7B), Nr. [153-5635](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FFF201EEF65); 2006, Nr. [72-2694](https://www.e-tar.lt/portal/lt/legalAct/TAR.2029422A8475), Nr.[116-4404](https://www.e-tar.lt/portal/lt/legalAct/TAR.1AABF5D39EA7))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 9 dalimi:
 
@@ -92,13 +92,13 @@ Vilnius
 
 12. Buvusias 2 straipsnio 26, 27, 28, 29, 30, 31, 32 dalis laikyti atitinkamai 31, 32, 33, 34, 35, 36, 37 dalimis.
 
-\#### 2 straipsnis. 4 straipsnio papildymas 7 dalimi
+## 2 straipsnis. 4 straipsnio papildymas 7 dalimi
 
 Papildyti 4 straipsnį 7 dalimi:
 
 „7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 38^1 straipsnio nuostatas taikomas fiksuotas pelno mokestis.“
 
-\#### 3 straipsnis. 7 straipsnio 2 ir 3 dalių pakeitimas
+## 3 straipsnis. 7 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 7 straipsnio 2 dalyje vietoj žodžių „Neigiamas prestižas priskiriamas pajamoms jo“ įrašyti žodžius „Neigiama prestižo vertė priskiriama pajamoms jos“ ir šią dalį išdėstyti taip:
 
@@ -108,19 +108,19 @@ Papildyti 4 straipsnį 7 dalimi:
 
 „3. Kai siekiant valdyti kito vieneto grynąjį turtą ir veiklą įsigyjamos jo akcijos, įsigijimo momentu nustatyta neigiama prestižo vertė pajamoms priskiriama vėlesnio šių vienetų reorganizavimo ar perleidimo, jei tai bus atliekama, momentu.“
 
-\#### 4 straipsnis. 11 straipsnio papildymas 7 dalimi
+## 4 straipsnis. 11 straipsnio papildymas 7 dalimi
 
 Papildyti 11 straipsnį 7 dalimi:
 
 „7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jurų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 38^1 straipsnio nuostatas taikomas fiksuotas pelno mokestis.“
 
-\#### 5 straipsnis. 12 straipsnio 5 punkto pakeitimas
+## 5 straipsnis. 12 straipsnio 5 punkto pakeitimas
 
 12 straipsnio 5 punkte po žodžių „taip pat draudimo įmonių“ išbraukti žodį „gautos“, vietoj žodžių „Papildomo savanoriško“ įrašyti žodį „Profesinių“, po žodžio „nuostatas“ išbraukti žodį „bei“, punktą papildyti žodžiais „bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas“ ir šį punktą išdėstyti taip:
 
 „5) investicinių kintamo kapitalo bendrovių, veikiančių pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, taip pat draudimo įmonių gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų arba jei draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, draudimo įmonių draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas;“.
 
-\#### 6 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 1. 18 straipsnio 1 dalyje vietoj žodžio „prestižas“ įrašyti žodžius „prestižo vertė“ ir šią dalį išdėstyti taip:
 
@@ -142,25 +142,25 @@ Papildyti 11 straipsnį 7 dalimi:
 
 6. Buvusias 18 straipsnio 10 ir 11 dalis laikyti atitinkamai 11 ir 12 dalimis.
 
-\#### 7 straipsnis. 19 straipsnio 2 dalies pakeitimas
+## 7 straipsnis. 19 straipsnio 2 dalies pakeitimas
 
 19 straipsnio 2 dalyje vietoj žodžio „prestižui“ įrašyti žodžius „prestižo vertei“ ir šią dalį išdėstyti taip:
 
 „2. Neskaičiuojama amortizacija paties vieneto susikurtam nematerialiajam ilgalaikiam turtui, nustatytam šio Įstatymo 1 priedėlio grupėse – įsigytos teisės ir kitas nematerialusis turtas, bei prestižo vertei, jei šiame Įstatyme nenustatyta kitaip.“
 
-\#### 8 straipsnis. 26 straipsnio 1 dalies 2 punkto pakeitimas
+## 8 straipsnis. 26 straipsnio 1 dalies 2 punkto pakeitimas
 
 26 straipsnio 1 dalies 2 punkte vietoj žodžių „Papildomo savanoriško“ įrašyti žodį „Profesinių“ ir šį punktą išdėstyti taip:
 
 „2) gyvybės draudimo įmokos, kai draudimo sutarties terminas ne trumpesnis kaip 10 metų arba kai draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, arba“.
 
-\#### 9 straipsnis. 31 straipsnio 1 dalies papildymas 18 punktu
+## 9 straipsnis. 31 straipsnio 1 dalies papildymas 18 punktu
 
 Papildyti 31 straipsnio 1 dalį 18 punktu:
 
 „18) sąnaudos, susijusios su pajamomis iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 38^1 straipsnio nuostatas taikomas fiksuotas pelno mokestis.“
 
-\#### 10 straipsnis. Įstatymo papildymas 381 straipsniu
+## 10 straipsnis. Įstatymo papildymas 381 straipsniu
 
 Papildyti Įstatymą 38^1 straipsniu:
 
@@ -184,7 +184,7 @@ Papildyti Įstatymą 38^1 straipsniu:
 
 5. Apmokestinimo fiksuotu pelno mokesčiu tvarka laivybos vienetui, atitinkančiam šio straipsnio 1 dalyje nustatytus kriterijus, taikoma iki 2016 m. gruodžio 31 d. Laivybos vienetas, atitinkantis šio straipsnio 1 dalyje nustatytus kriterijus ir pasirinkęs taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką, apie pasirinkimą taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką centrinio mokesčių administratoriaus nustatyta tvarka informuoja vietos mokesčių administratorių iki mokestinio laikotarpio, kurį pirmą kartą laivybos vienetas įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį, pirmojo ketvirčio paskutinės dienos.“
 
-\#### 11 straipsnis. Įstatymo papildymas 382 straipsniu
+## 11 straipsnis. Įstatymo papildymas 382 straipsniu
 
 Papildyti Įstatymą 38^2 straipsniu:
 
@@ -210,7 +210,7 @@ Papildyti Įstatymą 38^2 straipsniu:
 
 4. Jei laivybos vieneto pasirinkimu pagal šio straipsnio nuostatas pajamos iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos apmokestinamos fiksuotu pelno mokesčiu, avansinis fiksuotas pelno mokestis nemokamas.“
 
-\#### 12 straipsnis. 43 straipsnio pakeitimas ir papildymas
+## 12 straipsnis. 43 straipsnio pakeitimas ir papildymas
 
 Pakeisti bei papildyti 43 straipsnį ir jį išdėstyti taip:
 
@@ -228,7 +228,7 @@ Pakeisti bei papildyti 43 straipsnį ir jį išdėstyti taip:
 
 6. Kai šio Įstatymo 41 straipsnio 2 dalies 9 punkte nustatytu atveju Lietuvos vienetas perkelia registruotą buveinę, šio Lietuvos vieneto mokestinio laikotarpio nuostolius, susidariusius iki registruotos buveinės perkėlimo ir šio Įstatymo nustatyta tvarka neperkeltus į kitus metus, tęsdamas šių nuostolių perkėlimą, gali perkelti vienetas, toliau vykdantis veiklą Lietuvos Respublikoje per nuolatinę buveinę.“
 
-\#### 13 straipsnis. 50 straipsnio 1 ir 4 dalių papildymas ir pakeitimas
+## 13 straipsnis. 50 straipsnio 1 ir 4 dalių papildymas ir pakeitimas
 
 1. Papildyti 50 straipsnio 1 dalį 6 punktu:
 
@@ -238,7 +238,7 @@ Pakeisti bei papildyti 43 straipsnį ir jį išdėstyti taip:
 
 „4. Šio straipsnio 1 dalies 3, 5, 6 punktuose, 2 dalies 1 punkte ir 3 dalies 1 punkte nustatytos ataskaitos ir deklaracijos pateikiamos tik tuo atveju, jei per mokestinį laikotarpį vienetas atliko atitinkamas ūkines operacijas.“
 
-\#### 14 straipsnis. 51 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas
+## 14 straipsnis. 51 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 51 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -252,37 +252,33 @@ Pakeisti bei papildyti 43 straipsnį ir jį išdėstyti taip:
 
 „2. Metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos kartu su finansine atskaitomybe (jeigu teisės aktų nustatyta tvarka ji privalo būti sudaryta) pateikiamos pasibaigus mokestiniam laikotarpiui iki kito mokestinio laikotarpio dešimto mėnesio pirmos dienos. Lietuvos vieneto arba nuolatinės buveinės paskutinio mokestinio laikotarpio metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos kartu su finansine atskaitomybe (jeigu teisės aktų nustatyta tvarka ji privalo būti sudaryta) pateikiamos per 30 dienų nuo veiklos pabaigos.“
 
-\#### 15 straipsnis. 53 straipsnio 1 dalies pakeitimas
+## 15 straipsnis. 53 straipsnio 1 dalies pakeitimas
 
 Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.“
 
-\#### 16 straipsnis. 58 straipsnio 11 dalies pakeitimas
+## 16 straipsnis. 58 straipsnio 11 dalies pakeitimas
 
 58 straipsnio 11 dalyje vietoj žodžio „prestižui“ įrašyti žodžius „prestižo vertei“ ir šią dalį išdėstyti taip:
 
 „11. Šio Įstatymo 1 priedėlyje nustatyti nusidėvėjimo arba amortizacijos normatyvai taikomi po šio Įstatymo įsigaliojimo dienos įsigytam ilgalaikiam materialiajam ir nematerialiajam turtui bei prestižo vertei.“
 
-\#### 17 straipsnis. Įstatymo 1 priedėlio pakeitimas
+## 17 straipsnis. Įstatymo 1 priedėlio pakeitimas
 
 1. Įstatymo 1 priedėlio eilutėje „Kitas aukščiau neišvardytas materialusis turtas“ po žodžio „tiesinis“ įrašyti žodžius „arba produkcijos“, po skaičiaus „4“ įrašyti žodžius „(išskyrus taikant produkcijos metodą)“ ir šią eilutę išdėstyti taip:
 
-\| „Kitas aukščiau neišvardytas materialusis turtas | tiesinis arba produkcijos | 4 (išskyrus taikant produkcijos metodą)“ |
-
-\| --- | --- | --- |
-
-\| | | |
+| „Kitas aukščiau neišvardytas materialusis turtas | tiesinis arba produkcijos | 4 (išskyrus taikant produkcijos metodą)“ |
+| --- | --- | --- |
+|  |  |  |
 
 2. Įstatymo 1 priedėlio eilutėse „Prestižas“ vietoj žodžių „Prestižas“ įrašyti žodžius „Prestižo vertė“ ir šias eilutes išdėstyti taip:
 
-\| „PRESTIŽO VERTĖ | | | |
+| „PRESTIŽO VERTĖ |  |  |  |
+| --- | --- | --- | --- |
+| Prestižo vertė | tiesinis | 15“ |  |
 
-\| --- | --- | --- | --- |
-
-\| Prestižo vertė | tiesinis | 15“ | |
-
-\#### 18 straipsnis. Baigiamosios nuostatos
+## 18 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo nuostatos, išskyrus 1 straipsnio 2, 5, 6, 7, 8 ir 9 dalių, 3 straipsnio, 6 straipsnio 1, 4, 5 ir 6 dalių, 7 straipsnio, 16 straipsnio ir 17 straipsnio 2 dalies nuostatas, taikomos apskaičiuojant 2007 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 

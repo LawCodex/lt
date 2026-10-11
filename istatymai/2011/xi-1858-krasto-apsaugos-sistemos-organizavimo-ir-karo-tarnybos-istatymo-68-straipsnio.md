@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.BB31606CA787"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BB31606CA787.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2003, Nr. [32-1308](https://www.e-tar.lt/portal/lt/legalAct/TAR.2FCD601F0B4E); 2005, Nr. [28-875](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6EF4B6F3E3A); 2006, Nr. [72-2679](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13009B46413); 2007, Nr. [132-5351](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB211091584F); 2008, Nr. [74-2868](https://www.e-tar.lt/portal/lt/legalAct/TAR.52E5B753BFE6); 2010, Nr. [63-3099](https://www.e-tar.lt/portal/lt/legalAct/TAR.1FDE832EEE9B), Nr. [86-4539](https://www.e-tar.lt/portal/lt/legalAct/TAR.541E9954CEEA); 2011, Nr. [86-4151](https://www.e-tar.lt/portal/lt/legalAct/TAR.E94D27D4E4FD))
 
-\#### 1 straipsnis. 68 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 68 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 68 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Tapusiam laikinai nedarbingu pašauktam į pratybas, mokymus arba kitų tarnybos užduočių vykdymo metu nedirbančiam ir neturinčiam kitų draudžiamųjų pajamų kariui savanoriui ar kitam aktyviojo rezervo kariui laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama šio straipsnio 2 dalyje nustatyto dydžio ligos pašalpa.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 Šio įstatymo nuostatos taikomos apskaičiuojant ligos pašalpas nuo 2012 m. sausio 1 d.
 

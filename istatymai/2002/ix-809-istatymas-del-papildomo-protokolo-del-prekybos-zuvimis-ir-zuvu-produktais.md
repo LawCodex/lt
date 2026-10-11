@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.40F55208ED42"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.40F55208ED42.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Papildomo protokolo dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, ratifikavimo
@@ -26,7 +26,7 @@ DĖL PAPILDOMO PROTOKOLO DĖL PREKYBOS ŽUVIMIS IR ŽUVŲ PRODUKTAIS TVARKOS PRI
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 14 d. dekretą Nr. 1665, ratifikuoja Papildomą protokolą dėl prekybos žuvimis ir žuvų produktais tvarkos prie Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, pasirašytą 2001 m. gruodžio 20 d. Briuselyje.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/4ac06af0cfa311e3a8ded1a0f5aff0a9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4AC06AF0CFA3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9 ir 10 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,13 +38,13 @@ Vilnius
 
 „6. Valstybinių parkų,valstybinių draustinių ir biosferos stebėsenos (monitoringo) teritorijose esančių draustinių, taip pat rekreacinių zonų teritorijose privačion nuosavybėn gali būti parduodami tik namų valdų, asmeninio ūkio, taip pat mėgėjų sodo ir sodininkų bendrijų bendrojo naudojimo žemės sklypai bei tarp privačios žemės sklypų įsiterpę žemės ūkio veiklai tinkami naudoti ne didesni kaip 1 ha žemės plotai. Šie įsiterpę žemės plotai privačion nuosavybėn be aukciono gali būti parduodami tik gretimų žemės sklypų savininkams, nesilaikant šio įstatymo 10 straipsnyje nustatytos eilės.“
 
-\#### 2 straipsnis. 9 straipsnio pakeitimas
+## 2 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Asmenims, įsigyjantiems žemę (įskaitant miškus ir vandens telkinius), žemės reformos metu galima perleistipirkimo–pardavimo būdutiek valstybinės žemės, kad bendras vienam piliečiui sugrąžintos natūra, perduotos, suteiktos nuosavybėn neatlygintinai irpirktos, o kitam asmeniui – suteiktos nuosavybėn neatlygintinai irpirktos iš valstybės žemės, išskyrus žemės ūkio paskirties žemę, plotas sudarytų ne daugiau kaip 150 ha, o žemės ūkio paskirties žemės plotas neviršytų Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo 3 straipsnio 1 dalyje nurodyto ploto.“
 
-\#### 3 straipsnis. 10 straipsnio pakeitimas
+## 3 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 6. Žemės reformos žemėtvarkos projektai, kuriuose suformuoti žemės, miško sklypai ir vandens telkiniai pagal šio straipsnio 1 dalyje nustatytą eilę, įgyvendinami Žemės ūkio ministerijos nustatyta tvarka.“
 
-\#### 4 straipsnis. Baigiamosios nuostatos
+## 4 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas įsigalioja 2014 m. gegužės 1 d.
 

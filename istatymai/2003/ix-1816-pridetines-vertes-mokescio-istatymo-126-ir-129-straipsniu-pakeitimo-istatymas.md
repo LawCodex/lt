@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7B5572C6D059"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7B5572C6D059.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 126 ir 129 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5), Nr. [91-3889](https://www.e-tar.lt/portal/lt/legalAct/TAR.4A3701E8FE58), Nr. [117-5243](https://www.e-tar.lt/portal/lt/legalAct/TAR.1F673E8F0275); 2003, Nr. [104-4647](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C5C22CDA69))
 
-\#### 1 straipsnis. 126 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 126 straipsnio 3 dalies pakeitimas
 
 Pakeisti 126 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Šio Įstatymo 19 straipsnio 3 dalies 3 punktas įsigalioja nuo 2004 m. gegužės 1 d. Iki 2004 m. balandžio 30 d. vaistai bei Lietuvos Respublikos Vyriausybės patvirtintame sąraše nurodytos medicinos prekės PVM neapmokestinamos, tačiau Lietuvos Respublikos Vyriausybė turi teisę patvirtinti vaistų ir medicinos prekių, kurios apmokestinamos taikant lengvatinį 5 procentų PVM tarifą nuo šio Įstatymo įsigaliojimo dienos, sąrašą.“
 
-\#### 2 straipsnis. 129 straipsnio pavadinimo, 1, 2, 4 ir 10 dalių pakeitimas
+## 2 straipsnis. 129 straipsnio pavadinimo, 1, 2, 4 ir 10 dalių pakeitimas
 
 1. Pakeisti 129 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 126 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „10. Neatsižvelgiant į šio Įstatymo IX skyriaus nuostatas, iki 2004 m. balandžio 30 d. (imtinai) pataisos darbų įstaigos, kuriose dirba nuteistieji, ir sveikatos priežiūros įstaigų darbų terapijos padaliniai, kuriuose dirba ligoniai, šio Įstatymo nustatyta tvarka apskaičiuoto mokėtino į biudžetą PVM nemoka. Iki 2004 m. balandžio 30 d. (imtinai)gamybinės įmonės, kuriose dirba aukštųjų ir aukštesniųjų mokyklų studentų ir profesinio mokymo įstaigų mokinių, atliekančių gamybinę praktiką arba praktinį mokymą, III grupės invalidų, apskaičiuotą už mokestinį laikotarpį mokėtiną į biudžetą PVM sumą sumažina per šį mokestinį laikotarpį nurodytiems asmenims apskaičiuota su darbo santykiais susijusių pajamų suma (tačiau neviršijant kiekvienam asmeniui vieno Lietuvos Respublikos ūkio vidutinio mėnesinio bruto darbo užmokesčio, kurį Lietuvos Respublikos statistikos departamentas skelbia „Valstybės žiniose“), o gamybinės įmonės, kuriose dirba I ir II grupių invalidų, apskaičiuotą už mokestinį laikotarpį mokėtiną į biudžetą PVM sumą sumažina per šį mokestinį laikotarpį nurodytiems asmenims apskaičiuota su darbo santykiais susijusių pajamų suma (tačiau neviršijant kiekvienam asmeniui 1,5 Lietuvos Respublikos ūkio vidutinio mėnesinio bruto darbo užmokesčio, kurį Lietuvos Respublikos statistikos departamentas skelbia „Valstybės žiniose“) ir nuo tos su darbo santykiais susijusių pajamų sumos draudėjo apskaičiuotų ir sumokėtų privalomojo valstybinio socialinio draudimo įmokų suma. Įmonių priskyrimo prie gamybinių įmonių kriterijus ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 

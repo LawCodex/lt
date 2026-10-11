@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/073b83f0696f11eca9ac839120d251c4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.073B83F0696F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 pripažinimo netekusiu galios įstatymas
@@ -62,5 +62,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1491, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22679
 
 Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 pripažinimo netekusiu galios įstatymo Nr. XIV-823 2 straipsnio pakeitimo įstatymas
-
-part_b03929fbcb264f7fa10b822825250105_end

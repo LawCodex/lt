@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.EA40F97A5CD2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EA40F97A5CD2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 25 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [53-1245](https://www.e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7); 2000, Nr. [75-2265](https://www.e-tar.lt/portal/lt/legalAct/TAR.F1ADBF19DC03), Nr. [82-2479](https://www.e-tar.lt/portal/lt/legalAct/TAR.232096D12427); 2002, Nr. [123-5519](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D6BD92444EF))
 
-\#### 1 straipsnis. 25 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios ir 6 dalies pakeitimas
+## 1 straipsnis. 25 straipsnio 2 dalies 3 punkto pripažinimas netekusiu galios ir 6 dalies pakeitimas
 
 1. 25 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios.
 

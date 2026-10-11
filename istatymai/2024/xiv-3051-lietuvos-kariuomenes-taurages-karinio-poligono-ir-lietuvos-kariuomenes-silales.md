@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/8020cab2a58911ef90b5ee8931e5ce5e"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8020CAB2A589.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas
@@ -40,27 +40,27 @@ siekdamas užtikrinti Nacionalinio saugumo strategijoje nurodytus Lietuvos Respu
 
 priimašį įstatymą.
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis, tikslas ir taikymas
+## 1 straipsnis. Įstatymo paskirtis, tikslas ir taikymas
 
 1. Šis įstatymas nustato Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono (toliau – poligonai) teritorijų ribas ir šių teritorijų suformavimą, žemės, reikalingos poligonams įkurti, paėmimą visuomenės poreikiams, statinių ir įrenginių poligonų teritorijose statybą (įrengimą) (toliau – poligonų įkūrimas), taip pat žemės, reikalingos poligonams įkurti, paėmimo visuomenės poreikiams procedūras, statinių ir įrenginių statybos (įrengimo) poligonų teritorijose reikalavimus ir sudaro teisines, finansines ir organizacines sąlygas, reikalingas poligonams įkurti.
 
 2. Teisiniams santykiams, atsirandantiems šio įstatymo pagrindu, Lietuvos Respublikos kelių įstatymas, Lietuvos Respublikos miškų įstatymas, Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas, Lietuvos Respublikos nekilnojamojo turto registro įstatymas, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas, Lietuvos Respublikos saugomų teritorijų įstatymas, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas, Lietuvos Respublikos statybos įstatymas, Lietuvos Respublikos teritorijų planavimo įstatymas, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas, Lietuvos Respublikos želdynų įstatymas, Lietuvos Respublikos žemės įstatymas, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas taikomi tiek, kiek to nereglamentuoja šis įstatymas.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Kelių įstatyme, Miškų įstatyme, Nekilnojamojo turto kadastro įstatyme, Nekilnojamojo turto registro įstatyme, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Saugomų teritorijų įstatyme, Specialiųjų žemės naudojimo sąlygų įstatyme, Statybos įstatyme, Teritorijų planavimo įstatyme, Valstybės ir savivaldybės įmonių įstatyme, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Želdynų įstatyme, Žemės įstatyme, Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme.
 
-\## II SKYRIUS. PRIPAŽINIMAS YPATINGOS VALSTYBINĖS SVARBOS PROJEKTAIS, ŠIŲ PROJEKTŲ ĮGYVENDINIMAS IR FINANSAVIMAS
+II SKYRIUS. PRIPAŽINIMAS YPATINGOS VALSTYBINĖS SVARBOS PROJEKTAIS, ŠIŲ PROJEKTŲ ĮGYVENDINIMAS IR FINANSAVIMAS
 
-\#### 3 straipsnis. Sprendimas dėl pripažinimo ypatingos valstybinės svarbos projektais
+## 3 straipsnis. Sprendimas dėl pripažinimo ypatingos valstybinės svarbos projektais
 
 1. Šiuo įstatymu poligonų įkūrimas pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektais (toliau – Projektai).
 
 2. Šiuo įstatymu poligonų efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statyba (įrengimas) ne poligonų teritorijose ir naujų saugomų teritorijų už poligonų teritorijų ribų įsteigimas, kuriuo kompensuojamas poligonų teritorijų ribų nustatymo ir poligonų naudojimo neigiamas poveikis juose esančioms gamtos vertybėms, pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektais. Šiems ypatingos valstybinės svarbos krašto apsaugos srities projektams šiame įstatyme nustatytas reglamentavimas, išskyrus šio įstatymo 4 straipsnio 3 dalį ir 5 straipsnio 2 dalį, netaikomas.
 
-\#### 4 straipsnis. Ypatingos valstybinės svarbos projektų įgyvendinimas
+## 4 straipsnis. Ypatingos valstybinės svarbos projektų įgyvendinimas
 
 1. Projektus įgyvendina Lietuvos Respublikos krašto apsaugos ministerija (toliau – Projektus įgyvendinanti institucija).
 
@@ -70,19 +70,19 @@ priimašį įstatymą.
 
 4. Į poligonų teritorijas patenkanti valstybinė žemė, kurioje yra atskirais žemės sklypais nesuformuotos valstybinės žemės, valstybinės žemės sklypai ir privačios žemės sklypai formuojami, pertvarkomi, jų naudojimo sąlygos (paskirtis, naudojimo būdas, servitutai) nustatomos Žemės įstatymo nustatyta tvarka rengiant karinės infrastruktūros projektus.
 
-\#### 5 straipsnis. Ypatingos valstybinės svarbos projektų finansavimas
+## 5 straipsnis. Ypatingos valstybinės svarbos projektų finansavimas
 
 1. Projektai finansuojami iš Projektus įgyvendinančiai institucijai skirtų valstybės biudžeto asignavimų ir kitų teisėtai gautų lėšų.
 
 2. Šio įstatymo 3 straipsnio 2 dalimi pripažįstami ypatingos valstybinės svarbos krašto apsaugos srities projektai finansuojami iš Vyriausybės paskirtų šiuos projektus įgyvendinančioms institucijoms skirtų valstybės biudžeto asignavimų ir kitų teisėtai gautų lėšų.
 
-\#### 6 straipsnis. Sprendimų priėmimas
+## 6 straipsnis. Sprendimų priėmimas
 
 Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, pagal kompetenciją priimdamos sprendimus, susijusius su Projektų įgyvendinimu, visapusiškai bendradarbiauja tarpusavyje ir su Projektus įgyvendinančia institucija, keičiasi reikalinga informacija, suteikiančia Projektus įgyvendinančiai institucijai ir (ar) kitiems asmenims teisę vykdyti poligonų statinių ir įrenginių projektavimo, statybos (įrengimo) ir kitus susijusius darbus poligonų teritorijose.
 
-\## III SKYRIUS. POLIGONŲ TERITORIJŲ RIBŲ NUSTATYMAS IR ŠIŲ TERITORIJŲ SUFORMAVIMAS, ŽEMĖS NAUDOJIMAS POLIGONAMS ĮKURTI IR VEIKLAI JŲ TERITORIJOSE VYKDYTI
+III SKYRIUS. POLIGONŲ TERITORIJŲ RIBŲ NUSTATYMAS IR ŠIŲ TERITORIJŲ SUFORMAVIMAS, ŽEMĖS NAUDOJIMAS POLIGONAMS ĮKURTI IR VEIKLAI JŲ TERITORIJOSE VYKDYTI
 
-\#### 7 straipsnis. Poligonų teritorijų ribų nustatymas ir šių teritorijų suformavimas
+## 7 straipsnis. Poligonų teritorijų ribų nustatymas ir šių teritorijų suformavimas
 
 1. Lietuvos kariuomenės Tauragės karinio poligono teritorijos ribų schema pateikiama šio įstatymo 1 priede. Į šio poligono teritoriją patenkanti valstybinė žemė, kurioje yra atskirais žemės sklypais nesuformuotos valstybinės žemės, valstybinės žemės sklypai ir jų vertė nurodomi šio įstatymo 2 priede. Į šio poligono teritoriją patenkantys privačios žemės sklypai nurodomi šio įstatymo 3 priede.
 
@@ -110,7 +110,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 6. Krašto apsaugos ministerija šiuo įstatymu jai perduotų patikėjimo teise valdyti valstybinės žemės sklypų negali parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jais naudotis kitu būdu (išskyrus naudojimą Lietuvos kariuomenei Vyriausybės nustatyta tvarka), jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymą.
 
-\#### 8 straipsnis. Žemės naudojimas poligonams įkurti ir veiklai jų teritorijose vykdyti, su statinių ir įrenginių statyba (įrengimu) susijusių darbų vykdymas
+## 8 straipsnis. Žemės naudojimas poligonams įkurti ir veiklai jų teritorijose vykdyti, su statinių ir įrenginių statyba (įrengimu) susijusių darbų vykdymas
 
 1. Poligonų teritorijose esantys keliai ir (ar) jų dalys, kurie dėl poligonų teritorijose vykdomos veiklos nesuderinami su visuomenės saugumu ir interesais dėl eismo ribojimų, paliekami naudoti poligonų reikmėms ir visuomenės poreikiams nutiesiant artimiausią kelio atkarpą susisiekimui užtikrinti.
 
@@ -140,9 +140,9 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 8. Poligonų teritorijose karių ir karinių vienetų mokymams ir pratyboms karinė technika ir ginklai naudojami tik su imitacinėmis priemonėmis (imitaciniais šaudmenimis, pirotechninėmis, šviesos ir garso imitavimo, dūminėmis ir kitomis kovinės aplinkos imitavimo priemonėmis).
 
-\## IV SKYRIUS. POLIGONAMS ĮKURTI REIKALINGOS ŽEMĖS PAĖMIMO VISUOMENĖS POREIKIAMS PROCEDŪRA
+IV SKYRIUS. POLIGONAMS ĮKURTI REIKALINGOS ŽEMĖS PAĖMIMO VISUOMENĖS POREIKIAMS PROCEDŪRA
 
-\#### 9 straipsnis. Žemės paėmimo visuomenės poreikiams procedūra
+## 9 straipsnis. Žemės paėmimo visuomenės poreikiams procedūra
 
 1. Žemės paėmimo visuomenės poreikiams procedūros pradžia yra šio įstatymo įsigaliojimo data. Nuo šio įstatymo įsigaliojimo momento žemės savininkai neturi teisės perleisti, įkeisti ar kitaip suvaržyti daiktinių teisių į šio įstatymo 3 ir 6 prieduose nurodytus žemės sklypus, taip pat neturi teisės šių žemės sklypų pertvarkyti (atidalyti, padalyti, perdalyti, sujungti).
 
@@ -152,7 +152,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 4. Nuo to momento, kai žemės savininkui ir (ar) kitam naudotojui šio straipsnio 2 dalyje nustatyta tvarka yra pranešta apie šio įstatymo įsigaliojimą ir žemės paėmimo visuomenės poreikiams procedūros pradžią, žemės savininkas ir (ar) kitas naudotojas negali kliudyti Projektus įgyvendinančiai institucijai ar jos atstovams įgyvendinti šiame įstatyme nustatytų žemės paėmimo visuomenės poreikiams procedūrų. Asmenims, pažeidusiems šio įstatymo reikalavimus, taikoma Lietuvos Respublikos įstatymų nustatyta administracinė atsakomybė. Be to, tokiais atvejais šio įstatymo nustatyta tvarka žemės savininkui ir (ar) kitam naudotojui pervedamo atlyginimo už visuomenės poreikiams paimamą turtą suma yra sumažinama Projektus įgyvendinančios institucijos išlaidų, patirtų šalinant žemės savininko ir (ar) kito naudotojo sudarytas kliūtis šiame įstatyme nustatytoms žemės paėmimo visuomenės poreikiams procedūroms įgyvendinti, dydžiu.
 
-\#### 10 straipsnis. Žemės paėmimo visuomenės poreikiams akto parengimas ir atlyginimas už visuomenės poreikiams paimamą turtą ir turto vertę
+## 10 straipsnis. Žemės paėmimo visuomenės poreikiams akto parengimas ir atlyginimas už visuomenės poreikiams paimamą turtą ir turto vertę
 
 1. Projektus įgyvendinanti institucija organizuoja paimamo visuomenės poreikiams turto vertinimą, kuris atliekamas Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 13 straipsnyje nustatyta tvarka.
 
@@ -176,7 +176,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 6. Jeigu per šio straipsnio 4 dalyje nurodytą terminą žemės savininkas ir (ar) kitas naudotojas žemės paėmimo visuomenės poreikiams akto nepasirašo, Projektus įgyvendinanti institucija šio įstatymo 11 straipsnyje nustatyta tvarka privalo kreiptis į teismą dėl žemės paėmimo visuomenės poreikiams akto teisėtumo patvirtinimo. Projektus įgyvendinanti institucija iki kreipimosi į teismą dienos perveda žemės paėmimo visuomenės poreikiams akte nurodytą atlyginimo sumą į notaro, banko ar kitos kredito įstaigos depozitinę sąskaitą ir apie tai Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 16 straipsnyje nustatyta tvarka praneša žemės savininkui ir (ar) kitam naudotojui.
 
-\#### 11 straipsnis. Ginčų dėl žemės paėmimo visuomenės poreikiams nagrinėjimas
+## 11 straipsnis. Ginčų dėl žemės paėmimo visuomenės poreikiams nagrinėjimas
 
 1. Projektus įgyvendinanti institucija per 30 dienų nuo žemės savininkui ir (ar) kitam naudotojui suteikto 30 dienų termino pasirašyti žemės paėmimo visuomenės poreikiams aktą pabaigos ir per šį terminą negavusi pasirašyto žemės paėmimo visuomenės poreikiams akto Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka privalo kreiptis į Regionų administracinį teismą pagal visuomenės poreikiams paimamo žemės sklypo buvimo vietą dėl žemės paėmimo visuomenės poreikiams akto teisėtumo patvirtinimo. Teismas, gavęs Projektus įgyvendinančios institucijos pareiškimą, nustato žemės savininkui ir (ar) kitam naudotojui, nesutinkančiam pasirašyti žemės paėmimo visuomenės poreikiams akto, 15 dienų terminą raštu pateikti savo atsiliepimą į Projektus įgyvendinančios institucijos pareiškimą.
 
@@ -198,7 +198,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 6. Teismo nutartis, kuria išsprendžiamas žemės paėmimo visuomenės poreikiams akto teisėtumo patvirtinimo klausimas, ir (ar) sprendimas, kuriuo išsprendžiami kiti su žemės paėmimu visuomenės poreikiams susiję klausimai, skundžiami ir nagrinėjami Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 6 straipsnio 5 dalyje nustatyta tvarka. Byloms dėl viešojo intereso gynimo, susijusioms su šio įstatymo taikymu, taikomos Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 6 straipsnio 6 dalies nuostatos.
 
-\#### 12 straipsnis. Nuosavybės registravimas valstybės vardu
+## 12 straipsnis. Nuosavybės registravimas valstybės vardu
 
 1. Kai paimamos visuomenės poreikiams žemės savininkas ir (ar) kitas naudotojas pasirašo žemės paėmimo visuomenės poreikiams aktą ir Projektus įgyvendinanti institucija žemės paėmimo visuomenės poreikiams akte nurodytą atlyginimo sumą perveda į žemės savininko ir (ar) kito naudotojo nurodytą banko ar kitos kredito įstaigos sąskaitą, Projektus įgyvendinanti institucija tokio žemės sklypo valstybės nuosavybės teisę ir Krašto apsaugos ministerijos patikėjimo teisę į šį žemės sklypą bei valstybės nuosavybės teisę ir Krašto apsaugos ministerijos patikėjimo teisę į statinius ir įrenginius įregistruoja Nekilnojamojo turto registre.
 
@@ -206,9 +206,9 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 3. Nuosavybės teisė valstybei ir patikėjimo teisė Krašto apsaugos ministerijai į visuomenės poreikiams paimamą žemę pereina nuo žemės sklypo valstybės nuosavybės teisės ir Krašto apsaugos ministerijos patikėjimo teisės įregistravimo Nekilnojamojo turto registre momento. Nuosavybės teisė valstybei ir patikėjimo teisė Lietuvos kariuomenei į visuomenės poreikiams paimamus statinius ir įrenginius pereina nuo statinių ir įrenginių valstybės nuosavybės teisės ir Lietuvos kariuomenės patikėjimo teisės įregistravimo Nekilnojamojo turto registre momento. Įregistravus valstybės nuosavybę, juridinis faktas, nurodytas šio įstatymo 9 straipsnio 3 dalyje, išregistruojamas.
 
-\## V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. gruodžio 1 d.
 
@@ -250,59 +250,36 @@ kariuomenės Šilalės karinio poligono įstatymo
 
 **Valstybinė žemė, kurioje nesuformuoti (nesuprojektuoti) žemės sklypai**
 
-\| Eil. Nr. | Valstybinės žemės ploto centro koordinatė Valstybinėje koordinačių sistemoje LKS-94 | Plotas, ha | |
-
-\| --- | --- | --- | --- |
-
-\| 1. | X-6116134 | Y-390061 | 3,19 (Šilinio ežeras) |
-
-\| 2. | X-6116736 | Y-392512 | 0,47 (Raudonmeižio upė) |
-
-\| 3. | X-6115247 | Y-392099 | 0,69 (Raudonmeižio upė) |
-
-\| 4. | X-6116382 | Y-392036 | 0,45 |
-
-\| 5. | X-6114983 | Y-394786 | 4,22 |
-
-\| 6. | X-6113643 | Y-394179 | 0,83 |
-
-\| 7. | X-6113246 | Y-393259 | 1,84 |
-
-\| 8. | X-6112466 | Y-393584 | 0,84 |
-
-\| 9. | X-6116992 | Y-392980 | 5,55 |
+| Eil. Nr. | Valstybinės žemės ploto centro koordinatė Valstybinėje koordinačių sistemoje LKS-94 | Plotas, ha |  |
+| --- | --- | --- | --- |
+| 1. | X-6116134 | Y-390061 | 3,19 (Šilinio ežeras) |
+| 2. | X-6116736 | Y-392512 | 0,47 (Raudonmeižio upė) |
+| 3. | X-6115247 | Y-392099 | 0,69 (Raudonmeižio upė) |
+| 4. | X-6116382 | Y-392036 | 0,45 |
+| 5. | X-6114983 | Y-394786 | 4,22 |
+| 6. | X-6113643 | Y-394179 | 0,83 |
+| 7. | X-6113246 | Y-393259 | 1,84 |
+| 8. | X-6112466 | Y-393584 | 0,84 |
+| 9. | X-6116992 | Y-392980 | 5,55 |
 
 **Valstybinės žemės sklypai ir jų vertė**
 
-\| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha* | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
+| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha* | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. | 440014784118 | 275 (sklypo dalis iš 495,7912) | Nenustatyta | Nėra | 59491 (iš 107257) | 59491 |
+| 2. | 440014785529 | 880 (sklypo dalis iš 1009,4404) | Nenustatyta | Nėra | 2705548 (iš 3103509) | 2705548 |
+| 3. | 440059998097 | 1,2918 | Nenustatyta | Nėra | 615 | 615 |
+| 4. | 440049390443 | 1,8142 | Nenustatyta | Nėra | 2500 | 2500 |
+| 5. | 440062285152 | 0,3341 | Nenustatyta | Nėra | 1946 | 1946 |
+| 6. | 440021015530 | 586 (sklypo dalis iš 656,5486) | Nenustatyta | Nėra | 1948905 (iš 2183538) | 1948905 |
+| 7. | 440016658503 | 488 (sklypo dalis iš 545,4000) | Nenustatyta | Nėra | 404015 (iš 451907) | 404015 |
+| 8. | 440016658458 | 144 (sklypo dalis iš 166,4468) | Nenustatyta | Nėra | 315201 (iš 364342) | 315201 |
+| 9. | 440032020961 | 15,7339 | Nenustatyta | Nėra | 49235 | 49235 |
+| 10. | 440039829771 | 163 (sklypo dalis iš 314,7389) | Nenustatyta | Nėra | 648378 (iš 1253000) | 648378 |
+| 11. | 440062411914 | 1075 (sklypo dalis iš 1110,9653) | Nenustatyta | Nėra | 3929521 (iš 4061005) | 3929521 |
+| 12. | 440050273424 | 0,5906 | Nenustatyta | Nėra | 638 | 638 |
 
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| 1. | 440014784118 | 275 (sklypo dalis iš 495,7912) | Nenustatyta | Nėra | 59491 (iš 107257) | 59491 |
-
-\| 2. | 440014785529 | 880 (sklypo dalis iš 1009,4404) | Nenustatyta | Nėra | 2705548 (iš 3103509) | 2705548 |
-
-\| 3. | 440059998097 | 1,2918 | Nenustatyta | Nėra | 615 | 615 |
-
-\| 4. | 440049390443 | 1,8142 | Nenustatyta | Nėra | 2500 | 2500 |
-
-\| 5. | 440062285152 | 0,3341 | Nenustatyta | Nėra | 1946 | 1946 |
-
-\| 6. | 440021015530 | 586 (sklypo dalis iš 656,5486) | Nenustatyta | Nėra | 1948905 (iš 2183538) | 1948905 |
-
-\| 7. | 440016658503 | 488 (sklypo dalis iš 545,4000) | Nenustatyta | Nėra | 404015 (iš 451907) | 404015 |
-
-\| 8. | 440016658458 | 144 (sklypo dalis iš 166,4468) | Nenustatyta | Nėra | 315201 (iš 364342) | 315201 |
-
-\| 9. | 440032020961 | 15,7339 | Nenustatyta | Nėra | 49235 | 49235 |
-
-\| 10. | 440039829771 | 163 (sklypo dalis iš 314,7389) | Nenustatyta | Nėra | 648378 (iš 1253000) | 648378 |
-
-\| 11. | 440062411914 | 1075 (sklypo dalis iš 1110,9653) | Nenustatyta | Nėra | 3929521 (iš 4061005) | 3929521 |
-
-\| 12. | 440050273424 | 0,5906 | Nenustatyta | Nėra | 638 | 638 |
-
-\* Tikslūs atidalytų žemės sklypų plotai bus nustatyti nustatant jų kadastro duomenis.
+* Tikslūs atidalytų žemės sklypų plotai bus nustatyti nustatant jų kadastro duomenis.
 
 _____________________
 
@@ -318,23 +295,15 @@ kariuomenės Šilalės karinio poligono įstatymo
 
 **Į LIETUVOS KARIUOMENĖS****TAURAGĖS KARINIO POLIGONO teritoriją patenkantYS privačios žemės sklypai**
 
-\| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha |
-
-\| --- | --- | --- |
-
-\| 1. | 771800020085 | 16,3000 |
-
-\| 2. | 771800020084 | 12,5700 |
-
-\| 3. | 771800020107 | 1,6300 |
-
-\| 4. | 440026670744 | 1,1200 |
-
-\| 5. | 440027658190 | 1,0682 |
-
-\| 6. | 440020114889 | 1,0300 |
-
-\| 7. | 440020584767 | 4,4000 |
+| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha |
+| --- | --- | --- |
+| 1. | 771800020085 | 16,3000 |
+| 2. | 771800020084 | 12,5700 |
+| 3. | 771800020107 | 1,6300 |
+| 4. | 440026670744 | 1,1200 |
+| 5. | 440027658190 | 1,0682 |
+| 6. | 440020114889 | 1,0300 |
+| 7. | 440020584767 | 4,4000 |
 
 __________________
 
@@ -368,43 +337,28 @@ kariuomenės Šilalės karinio poligono įstatymo
 
 **Valstybinė žemė, kurioje nesuformuoti (nesuprojektuoti) žemės sklypai**
 
-\| Valstybinės žemės ploto centro koordinatė Valstybinėje koordinačių sistemoje LKS-94 | Plotas, ha | |
-
-\| --- | --- | --- |
-
-\| X-6139813 | Y-391955 | 0,0235 |
-
-\| | | |
+| Valstybinės žemės ploto centro koordinatė Valstybinėje koordinačių sistemoje LKS-94 | Plotas, ha |  |
+| --- | --- | --- |
+| X-6139813 | Y-391955 | 0,0235 |
+|  |  |  |
 
 **Valstybinės žemės sklypai ir jų vertė**
 
-\| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha* | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
+| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha* | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. | 440015183934 | 325 (sklypo dalis iš 452,5569) | Nenustatyta | Nėra | 646690 (iš 901387) | 646690 |
+| 2. | 440015168593 | 628 (sklypo dalis iš 768,0157) | Nenustatyta | Nėra | 881820 (iš 1078478) | 881820 |
+| 3. | 440014805614 | 446 (sklypo dalis iš 481,1149) | Nenustatyta | Nėra | 860919 (iš 928480) | 860919 |
+| 4. | 440014806150 | 97 (sklypo dalis iš 239,6173) | Nenustatyta | Nėra | 158912 (iš 393184) | 158912 |
+| 5. | 440014805920 | 756 (sklypo dalis iš 781,8771) | Nenustatyta | Nėra | 1181187 (iš 1221810) | 1181187 |
+| 6. | 440048820351 | 3 (sklypo dalis iš 4,7711) | Nenustatyta | Nėra | 3237 (iš 5180) | 3237 |
+| 7. | 440014813466 | 10,0343 | Nenustatyta | Nėra | 8271 | 8271 |
+| 8. | 440049173073 | 4 (sklypo dalis iš 4,9903) | Nenustatyta | Nėra | 4345 (iš 5420) | 4345 |
+| 9. | 440014805702 | 54 (sklypo dalis iš 59,1172) | Nenustatyta | Nėra | 148245 (iš 161971) | 148245 |
+| 10. | 440014654425 | 5,1803 | Nenustatyta | Nėra | 5538 | 5538 |
+| 11. | 440049172932 | 2 (sklypo dalis iš 2,1628) | Nenustatyta | Nėra | 2136 (iš 2310) | 2136 |
 
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| 1. | 440015183934 | 325 (sklypo dalis iš 452,5569) | Nenustatyta | Nėra | 646690 (iš 901387) | 646690 |
-
-\| 2. | 440015168593 | 628 (sklypo dalis iš 768,0157) | Nenustatyta | Nėra | 881820 (iš 1078478) | 881820 |
-
-\| 3. | 440014805614 | 446 (sklypo dalis iš 481,1149) | Nenustatyta | Nėra | 860919 (iš 928480) | 860919 |
-
-\| 4. | 440014806150 | 97 (sklypo dalis iš 239,6173) | Nenustatyta | Nėra | 158912 (iš 393184) | 158912 |
-
-\| 5. | 440014805920 | 756 (sklypo dalis iš 781,8771) | Nenustatyta | Nėra | 1181187 (iš 1221810) | 1181187 |
-
-\| 6. | 440048820351 | 3 (sklypo dalis iš 4,7711) | Nenustatyta | Nėra | 3237 (iš 5180) | 3237 |
-
-\| 7. | 440014813466 | 10,0343 | Nenustatyta | Nėra | 8271 | 8271 |
-
-\| 8. | 440049173073 | 4 (sklypo dalis iš 4,9903) | Nenustatyta | Nėra | 4345 (iš 5420) | 4345 |
-
-\| 9. | 440014805702 | 54 (sklypo dalis iš 59,1172) | Nenustatyta | Nėra | 148245 (iš 161971) | 148245 |
-
-\| 10. | 440014654425 | 5,1803 | Nenustatyta | Nėra | 5538 | 5538 |
-
-\| 11. | 440049172932 | 2 (sklypo dalis iš 2,1628) | Nenustatyta | Nėra | 2136 (iš 2310) | 2136 |
-
-\* Tikslūs atidalytų žemės sklypų plotai bus nustatyti nustatant jų kadastro duomenis.
+* Tikslūs atidalytų žemės sklypų plotai bus nustatyti nustatant jų kadastro duomenis.
 
 __________________
 
@@ -420,17 +374,12 @@ kariuomenės Šilalės karinio poligono įstatymo
 
 **Į LIETUVOS KARIUOMENĖS****ŠILALĖS KARINIO POLIGONO teritoriją patenkantYS privačios žemės sklypai**
 
-\| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha |
-
-\| --- | --- | --- |
-
-\| 1. | 773500010044 | 5,0243 |
-
-\| 2. | 440030980575 | 3,1663 |
-
-\| 3. | 440020186136 | 0,3517 |
-
-\| 4. | 440053220045 | 0,1075 |
+| Eil. Nr. | Sklypo unikalus numeris | Sklypo plotas, ha |
+| --- | --- | --- |
+| 1. | 773500010044 | 5,0243 |
+| 2. | 440030980575 | 3,1663 |
+| 3. | 440020186136 | 0,3517 |
+| 4. | 440053220045 | 0,1075 |
 
 ________________
 
@@ -490,16 +439,11 @@ kariuomenės Šilalės karinio poligono įstatymo
 
 KIEKYBINIAI IR KOKYBINIAI RODIKLIAI
 
-\| Pastatų aukštų skaičius (vnt.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo tankis (proc.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo intensyvumas pagal užstatymo tipus | |
-
-\| --- | --- | --- | --- |
-
-\| perimetrinis ar laisvo planavimo užstatymas | atskirai stovintys pastatai | | |
-
-\| 1–3 | 80 | 1,4 | 2,5 |
-
-\| 4 | 80 | 1,5 | 3 |
-
-\| ≥ 5 | 80 | 1,6 | 3 |
+| Pastatų aukštų skaičius (vnt.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo tankis (proc.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo intensyvumas pagal užstatymo tipus |  |
+| --- | --- | --- | --- |
+| perimetrinis ar laisvo planavimo užstatymas | atskirai stovintys pastatai |  |  |
+| 1–3 | 80 | 1,4 | 2,5 |
+| 4 | 80 | 1,5 | 3 |
+| ≥ 5 | 80 | 1,6 | 3 |
 
 ____________________

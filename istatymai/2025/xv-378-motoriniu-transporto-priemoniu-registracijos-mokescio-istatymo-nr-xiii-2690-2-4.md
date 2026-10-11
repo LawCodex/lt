@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/43aac93055d011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.43AAC93055D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 2, 4, 5, 6, 7, 8 straipsnių ir 2 priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ MOTORINIŲ TRANSPORTO PRIEMONIŲ REGISTRACIJOS MOKESČIO ĮSTATYMO NR. XIII-2690
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 
 4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos mokesčių administravimo įstatyme ir Saugaus eismo automobilių keliais įstatyme.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 Mokestį moka motorinės transporto priemonės valdytojas, atliekantis jos registraciją Kelių transporto priemonių registro informacinėje sistemoje.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 Mokestis sumokamas iki motorinės transporto priemonės registracijos Kelių transporto priemonių registro informacinėje sistemoje.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 8. Mokesčio dydžiai indeksuojami kiekvienais metais, pasibaigus kalendoriniams metams, taikant indeksavimo koeficientą, kuris nustatomas Valstybės duomenų agentūros apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su 2019 metų gruodžio mėnesio kainomis. Apskaičiuotas mokestinių metų vartotojų kainų indeksas pradedamas taikyti nuo jo paskelbimo Oficialiosios statistikos portale dienos.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 3. Akcinės bendrovės „Regitra“ sprendimas dėl mokesčio apskaičiavimo, sumokėjimo, perskaičiavimo ir grąžinimo gali būti skundžiamas akcinės bendrovės „Regitra“ vadovui išankstinio ginčų nagrinėjimo ne teismo tvarka per vieną mėnesį nuo skundžiamo sprendimo priėmimo dienos. Akcinės bendrovės „Regitra“ vadovo sprendimas skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -118,13 +118,13 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 Nesumokėjus mokesčio, motorinės transporto priemonės registracija Kelių transporto priemonių registro informacinėje sistemoje neatliekama.“
 
-\#### 7 straipsnis. Įstatymo 2 priedo pakeitimas
+## 7 straipsnis. Įstatymo 2 priedo pakeitimas
 
 Pakeisti Įstatymo 2 priedo pavadinimą ir jį išdėstyti taip:
 
 „**LIETUVOS RESPUBLIKOS KELIŲ TRANSPORTO PRIEMONIŲ REGISTRO INFORMACINĖJE SISTEMOJE REGISTRUOJAMOS MOTORINĖS TRANSPORTO PRIEMONĖS IŠMETAMAM CO~2 KIEKIUI APSKAIČIUOTI NAUDOJAMOS FORMULĖS, KAI NĖRA DUOMENŲ APIE MOTORINĖS TRANSPORTO PRIEMONĖS IŠMETAMĄ CO~2 KIEKĮ**“.
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

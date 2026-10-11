@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6d79c22255d011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6D79C22255D0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 2, 13, 14, 15, 18 ir 20 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO NR. X-1212 1, 2, 13, 14, 15, 18 IR 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Šio įstatymo 4 straipsnio 5 dalis ir 17 straipsnio 2 dalis taikomos valstybės valdomoms įmonėms, savivaldybių valdomoms įmonėms ir kitiems juridiniams asmenims, kurių dalyviai yra viešojo sektoriaus subjektai. Šio įstatymo 2 straipsnio 15 dalis, 13 straipsnio 2 dalis, 14 straipsnio 5 dalis, 15 straipsnio 2 dalis, 18 straipsnio 2 dalis ir 20 straipsnis taikomi valstybės valdomoms įmonėms, jeigu jos kitais įstatymais, kuriais įsteigti fondai, paskirtos fondų valdytojais. Šio įstatymo 17 straipsnio 5 dalies 3 punktas taikomas valstybės kontroliuojamiems pelno siekiantiems subjektams ir savivaldybės kontroliuojamiems pelno siekiantiems subjektams.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 6 dalies nuostatą iki dvitaškio ir ją išdėstyti taip:
 
@@ -42,31 +42,31 @@ Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „15. **Už ataskaitų parengimą atsakingas asmuo**– viešojo sektoriaus subjekto arba kituose įstatymuose, kuriais įsteigti fondai, nurodyto subjekto darbuotojas, kuriam pavesta parengti ataskaitas, arba centralizuotos apskaitos įstaigos vadovas ar jo pavedimu kitas vadovaujamas pareigas einantis asmuo, jeigu už ataskaitų parengimą atsakingu viešojo sektoriaus subjektu yra paskirta centralizuotos apskaitos įstaiga.“
 
-\#### 3 straipsnis. 13 straipsnio pakeitimas
+## 3 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Jeigu yra priimtas sprendimas likviduoti viešojo sektoriaus subjektą, tas viešojo sektoriaus subjektas arba kituose įstatymuose, kuriais įsteigti fondai, nurodytas subjektas turi parengti likvidavimo pabaigos finansinę ataskaitą pagal paskutinės viešojo sektoriaus subjekto veiklos dienos iki likvidavimo pabaigos dienos duomenis. Pagal paskutinės viešojo sektoriaus subjekto veiklos dienos duomenis viešojo sektoriaus subjektas arba kituose įstatymuose, kuriais įsteigti fondai, nurodytas subjektas turi pateikti finansinius duomenis į VSAKI sistemą.“
 
-\#### 4 straipsnis. 14 straipsnio pakeitimas
+## 4 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Kito, negu nurodytas šio straipsnio 3 ir 4 dalyse, išteklių fondo metinių ataskaitų rinkinį rengia išteklių fondą administruojantis viešojo sektoriaus subjektas arba kituose įstatymuose, kuriais įsteigti fondai, nurodytas subjektas, mokesčių fondo – mokesčių administratorius, o fondų fondo – fondų fondo valdytojas arba, jeigu fondų fondo valdytoja yra tarptautinė finansų institucija, ‒ viešojo sektoriaus subjektas, iš kurių asignavimų pervedami piniginiai įnašai į fondų fondą.“
 
-\#### 5 straipsnis. 15 straipsnio pakeitimas
+## 5 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Viešojo sektoriaus subjektų ataskaitų rinkinio ataskaitas pasirašo viešojo sektoriaus subjekto vadovas arba jo įgaliotas asmuo, fondų ataskaitas – viešojo sektoriaus subjekto arba kituose įstatymuose, kuriais įsteigti fondai, nurodyto subjekto, rengiančio fondo metinių ataskaitų rinkinį, vadovas arba jo įgaliotas asmuo. Šioje dalyje nurodytas ataskaitas taip pat pasirašo už ataskaitų parengimą atsakingas asmuo.“
 
-\#### 6 straipsnis. 18 straipsnio pakeitimas
+## 6 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Fondų metinių ataskaitų rinkinius skelbia juos administruojantys viešojo sektoriaus subjektaiarba kituose įstatymuose, kuriais įsteigti fondai, nurodyti subjektai savo interneto svetainėse.“
 
-\#### 7 straipsnis. 20 straipsnio pakeitimas
+## 7 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 3. Už ataskaitų parengimą atsakingas asmuo užtikrina finansinių duomenų ir jų paaiškinimų pateikimą į VSAKI sistemą laiku, ataskaitų parengimą ir pateikimą laiku viešojo sektoriaus subjekto arba kontroliuojančiojo viešojo sektoriaus subjekto vadovui, arba kituose įstatymuose, kuriais įsteigti fondai, nurodyto subjekto vadovui.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 8 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

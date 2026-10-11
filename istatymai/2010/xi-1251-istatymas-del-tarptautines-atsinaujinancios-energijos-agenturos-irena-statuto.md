@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DA578994D838"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DA578994D838.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Tarptautinės atsinaujinančios energijos agentūros (IRENA) statuto priedo – Tarptautinės atsinaujinančios energijos agentūros Steigiamosios konferencijos deklaracijos dėl autentiškų statuto versijų ratifikavimo
@@ -22,7 +22,7 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL TARPTAUTINĖS ATSINAUJINANČIOS ENERGIJOS A
 
 Vilnius
 
-\#### 1 straipsnis. Statuto priedo ratifikavimas
+## 1 straipsnis. Statuto priedo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. spalio 19 d. dekretą Nr. 1K-514, ratifikuoja 2009 m. sausio 26 d. Bonoje priimtą Tarptautinės atsinaujinančios energijos agentūros (IRENA) statuto priedą – Tarptautinės atsinaujinančios energijos agentūros Steigiamosios konferencijos deklaraciją dėl autentiškų statuto versijų.
 

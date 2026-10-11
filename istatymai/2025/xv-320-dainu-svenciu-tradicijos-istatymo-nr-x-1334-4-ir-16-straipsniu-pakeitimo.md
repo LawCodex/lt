@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a58e420055c411f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A58E420055C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos dainų švenčių tradicijos įstatymo Nr. X-1334 4 ir 16 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ DAINŲ ŠVENČIŲ TRADICIJOS ĮSTATYMO NR. X-1334 4 IR 16 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 1. Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -78,7 +78,7 @@ Vilnius
 
 5. Lietuvos dainų šventes, Lietuvos moksleivių dainų šventes ir „Gaudeamus“ šventes, vykstančias Lietuvos Respublikoje, Taryba savo sprendimu gali papildyti ir kitais meno renginiais ir meninėmis programomis. Dėl regioninių dainų švenčių sandaros sprendžia jas organizuojančių savivaldybių institucijos.“
 
-\#### 2 straipsnis. 16 straipsnio pakeitimas
+## 2 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 

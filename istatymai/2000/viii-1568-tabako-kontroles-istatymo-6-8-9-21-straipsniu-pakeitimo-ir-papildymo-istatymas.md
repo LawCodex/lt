@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.50567DE00B51"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.50567DE00B51.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo 6, 8, 9, 21 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [11-281](https://www.e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0); 1999, Nr. [50-1597](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC3AA7061D8))
 
-\#### 1 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 6 straipsnio 1 dalyje vietoj žodžių „išduoto leidimo“ įrašyti žodžius „išduotos licencijos“, papildyti dalį antruoju sakiniu, pakeisti 2 dalį ir visą straipsnį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Lietuvos Respublikoje įmonėms draudžiama gaminti tabako gaminius be Lietuvos 
 
 Tabako gaminių gamybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 2 straipsnis. 8 straipsnio 2 dalies 1 punkto, 4, 5 dalių pakeitimas ir papildymas
+## 2 straipsnis. 8 straipsnio 2 dalies 1 punkto, 4, 5 dalių pakeitimas ir papildymas
 
 1. 8 straipsnio 2 dalies 1 punkte vietoj žodžių „išduoto leidimo“ įrašyti žodžius „išduotos licencijos“ ir šį punktą išdėstyti taip:
 
@@ -50,7 +50,7 @@ Tabako gaminių gamybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Res
 
 Įmonėms, turinčioms licencijas importuoti į Lietuvos Respubliką tabaką ar tabako gaminius, perduoti pagal sutartį teisę importuoti juos kitiems ūkio subjektams naudojant gabenimo dokumentuose šių įmonių pavadinimus draudžiama.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 9 straipsnio pavadinime vietoj žodžio „leidimai“ įrašyti žodį „licencijos“,
 
@@ -64,7 +64,7 @@ Mažmeninė prekyba tabako gaminiais leidžiama tik turint atitinkamos savivaldo
 
 Tabako gaminių prekybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 4 straipsnis. 21 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 21 straipsnio 2 dalies pakeitimas
 
 21 straipsnio 2 dalyje po žodžio „leidimo“ įrašyti žodžius „ar licencijos“ ir šią dalį išdėstyti taip:
 

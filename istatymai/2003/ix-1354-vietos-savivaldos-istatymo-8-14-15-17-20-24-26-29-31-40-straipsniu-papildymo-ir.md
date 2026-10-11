@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9490DA782C64"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9490DA782C64.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 8, 14, 15, 17, 20, 24, 26, 29, 31, 40 straipsnių papildymo ir pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 110-3984; 2002, Nr. 43-1604, Nr. 68-2765, Nr. 96-4171, Nr. 103-4605, Nr. 112-4976; 2003, Nr. 12-439, Nr. 17-704)
 
-\#### 1 straipsnis. 8 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 8 straipsnio papildymas ir pakeitimas
 
 Papildyti 8 straipsnį nauju 16 punktu, buvusius 16–20 punktus laikyti atitinkamai 17–21 punktais ir visą straipsnį išdėstyti taip:
 
@@ -98,25 +98,25 @@ Valstybinės (perduotos savivaldybėms) funkcijos yra:
 
 30) Žemės ūkio bendrovių įstatymo vykdymo priežiūra ir kitos įstatymų perduotos funkcijos.“
 
-\#### 2 straipsnis. 14 straipsnio 8 dalies pakeitimas
+## 2 straipsnis. 14 straipsnio 8 dalies pakeitimas
 
 14 straipsnio 8 dalyje vietoj žodžių „savivaldybės administracijos direktoriaus“ įrašyti žodį „mero“ ir šią dalį išdėstyti taip:
 
 „8. Savivaldybės tarybos posėdžiai protokoluojami. Posėdžių protokolus ir savivaldybės tarybos sprendimus privalo pasirašyti tam posėdžiui pirmininkavęs meras arba jo pavaduotojas ar kitas tarybos narys. Posėdžių protokolus turi pasirašyti ir tarybos sekretorius, o jeigu jo nėra, – mero paskirtas už protokolus atsakingas tarnautojas. Sprendimą dėl mero išrinkimo pasirašo apygardos rinkimų komisijos pirmininkas, pirmininkavęs savivaldybės tarybos posėdžiui.“
 
-\#### 3 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 15 straipsnio 1 dalyje išbraukti žodį „valdybos“ ir šią dalį išdėstyti taip:
 
 „1. Savivaldybės tarybos komitetai sudaromi savivaldybės tarybai teikiamiems klausimams preliminariai nagrinėti ir išvadoms bei pasiūlymams teikti, kontroliuoti, kaip laikomasi įstatymų ir vykdomi savivaldybės tarybos, mero sprendimai.“
 
-\#### 4 straipsnis. 17 straipsnio 19 punkto papildymas
+## 4 straipsnis. 17 straipsnio 19 punkto papildymas
 
 17 straipsnio 19 punkte po žodžio „sekretoriato“ įrašyti žodžius „bei mero politinio (asmeninio) pasitikėjimo (jei sekretoriatas nesudaromas)“ ir šį punktą išdėstyti taip:
 
 „19) mero siūlymu sprendžia dėl savivaldybės tarybos sekretoriato bei mero politinio (asmeninio) pasitikėjimo (jei sekretoriatas nesudaromas) valstybės tarnautojų pareigybių steigimo, nustato jų skaičių;“.
 
-\#### 5 straipsnis. 20 straipsnio 10 ir 12 dalių pakeitimas
+## 5 straipsnis. 20 straipsnio 10 ir 12 dalių pakeitimas
 
 1. 20 straipsnio 10 dalyje išbraukti žodžius „ar valdybos“ ir šią dalį išdėstyti taip:
 
@@ -126,31 +126,31 @@ Valstybinės (perduotos savivaldybėms) funkcijos yra:
 
 „12. Savivaldybės tarybos posėdžiams, komitetams, merui aptarnauti, taip pat savivaldybės tarybos sprendimų projektams rengti, nagrinėti ir išvadų dėl tarybos sprendimų projektams rengti mero siūlymu gali būti steigiamas savivaldybės tarybos sekretoriatas (toliau – sekretoriatas). Sekretoriato finansinį, ūkinį bei materialinį aptarnavimą atlieka savivaldybės administracija. Savivaldybės taryba nustato atskirą sekretoriato išlaidų sąmatą. Sekretoriatas gali būti sudaromas iš politinio (asmeninio) pasitikėjimo valstybės tarnautojų, karjeros valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis. Jei sekretoriatas nesudaromas, savo įgaliojimų laikui meras gali turėti politinio (asmeninio) pasitikėjimo valstybės tarnautojų.“
 
-\#### 6 straipsnis. 24 straipsnio 3 punkto pakeitimas
+## 6 straipsnis. 24 straipsnio 3 punkto pakeitimas
 
 24 straipsnio 3 punkte išbraukti žodžius „taip pat valdybos posėdžiuose“ ir šį punktą išdėstyti taip:
 
 „3) dalyvauti ir pasisakyti komitetų ir komisijų posėdžiuose, kuriuose svarstomi jo pateikti klausimai;“.
 
-\#### 7 straipsnis. 26 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 26 straipsnio 3 dalies pakeitimas
 
 26 straipsnio 3 dalyje išbraukti žodžius „ir valdybos“ ir šią dalį išdėstyti taip:
 
 „3. Savivaldybės tarybos, komitetų posėdžių laiku, taip pat kitais savivaldybės tarybos veiklos reglamento nustatytais atvejais tarybos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje.“
 
-\#### 8 straipsnis. 29 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 29 straipsnio 1 dalies pakeitimas
 
 29 straipsnio 1 dalyje išbraukti žodžius „(išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus)“ ir šią dalį išdėstyti taip:
 
 „1. Savivaldybės administracija yra savivaldybės įstaiga, kurią sudaro struktūriniai, struktūriniai teritoriniai padaliniai – seniūnijos (filialai) ir į struktūrinius padalinius neįeinantys viešojo administravimo bei kiti valstybės tarnautojai. Savivaldybės administracijos struktūrą, jos veiklos nuostatus ir darbo užmokesčio fondą, didžiausią leistiną valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių užmokestį iš savivaldybės biudžeto, skaičių mero teikimu tvirtina arba keičia savivaldybės taryba, o pareigybes tvirtina savivaldybės administracijos direktorius. Savivaldybės administracijos įgaliojimai nesusiję su savivaldybės tarybos įgaliojimų pabaiga. Savivaldybės administracija turi sąskaitų bankuose ir antspaudą su savivaldybės herbu. Savivaldybės administracijos struktūriniai ir struktūriniai teritoriniai padaliniai – seniūnijos paprastai turi sąskaitų bankuose.“
 
-\#### 9 straipsnis. 31 straipsnio 3 dalies 13 punkto pakeitimas
+## 9 straipsnis. 31 straipsnio 3 dalies 13 punkto pakeitimas
 
 31 straipsnio 3 dalies 13 punkte išbraukti žodžius „bei valdybos“ ir šį punktą išdėstyti taip:
 
 „13) mero pavedimu rengia ir teikia savivaldybės tarybos sprendimų ir mero potvarkių projektus seniūnijos veiklos klausimais, organizuoja bei kontroliuoja jų vykdymą;“.
 
-\#### 10 straipsnis. 40 straipsnio 2 dalies pakeitimas
+## 10 straipsnis. 40 straipsnio 2 dalies pakeitimas
 
 40 straipsnio 2 dalyje išbraukti žodžius „valdybos“, „ir mero potvarkiai“ ir šią dalį išdėstyti taip:
 

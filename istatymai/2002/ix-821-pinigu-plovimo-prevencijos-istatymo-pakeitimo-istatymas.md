@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.51454AC29D35"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.51454AC29D35.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo prevencijos įstatymo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [64-1502](https://www.e-tar.lt/portal/lt/legalAct/TAR.C44837068B55); 1998, Nr. [96-2658](https://www.e-tar.lt/portal/lt/legalAct/TAR.380CF7826F83); 1999, Nr. [99-2845](https://www.e-tar.lt/portal/lt/legalAct/TAR.B966C7973F67); 2001, Nr. [48-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.B40BC8B74C73), Nr. [112-4079](https://www.e-tar.lt/portal/lt/legalAct/TAR.5051DC93DEDE))
 
-\#### 1 straipsnis. Lietuvos Respublikos pinigų plovimo prevencijos įstatymo nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos pinigų plovimo prevencijos įstatymo nauja redakcija
 
 Pakeisti Lietuvos Respublikos pinigų plovimo prevencijos įstatymą ir jį išdėstyti taip:
 
@@ -38,13 +38,13 @@ PINIGŲ PLOVIMO PREVENCIJOS
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šio Įstatymo paskirtis – nustatyti pinigų plovimo prevencijos priemones bei valstybės institucijas, atsakingas už pinigų plovimo prevencijos priemonių įgyvendinimą.
 
-\#### 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Pinigų plovimas – veika, kuria siekiama įteisinti arba nuslėpti nusikalstamu būdu įgytų pinigų kilmę.
 
@@ -60,17 +60,17 @@ PINIGŲ PLOVIMO PREVENCIJOS
 
 7. Operacijos pinigais – pinigų padėjimas ar priėmimas, paėmimas ar išdavimas, keitimas finansinėse ir kredito įstaigose, taip pat pinigų skolinimas, dovanojimas bei kitoks pinigų mokėjimas ar gavimas civilinių sandorių ar kitu pagrindu, išskyrus mokėjimus ar atsiskaitymus su valstybės ir savivaldybių institucijomis, kitomis biudžetinėmis įstaigomis, Lietuvos banku bei valstybės ar savivaldybės fondais, užsienio valstybių diplomatinėmis atstovybėmis ar konsulinėmis įstaigomis.
 
-\### ANTRASIS SKIRSNIS. VALSTYBĖS INSTITUCIJOS, ATSAKINGOS UŽ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONIŲ ĮGYVENDINIMĄ
+ANTRASIS SKIRSNIS. VALSTYBĖS INSTITUCIJOS, ATSAKINGOS UŽ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONIŲ ĮGYVENDINIMĄ
 
-\#### 3 straipsnis. Valstybės institucijos, atsakingos už pinigų plovimo prevencijos priemonių įgyvendinimą
+## 3 straipsnis. Valstybės institucijos, atsakingos už pinigų plovimo prevencijos priemonių įgyvendinimą
 
 Lietuvos Respublikos Vyriausybė, Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba), Lietuvos bankas, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Valstybinė draudimo priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos ir Vertybinių popierių komisija yra valstybės institucijos, kurios pagal kompetenciją atsakingos už šiame Įstatyme numatytų pinigų plovimo prevencijos priemonių įgyvendinimą.
 
-\#### 4 straipsnis. Metodinių rekomendacijų kredito įstaigoms pinigų plovimo prevencijos klausimais priėmimas
+## 4 straipsnis. Metodinių rekomendacijų kredito įstaigoms pinigų plovimo prevencijos klausimais priėmimas
 
 Lietuvos bankas priima kredito įstaigoms skirtas metodines rekomendacijas, kuriomis būtų siekiama užkirsti kelią pinigų plovimui.
 
-\#### 5 straipsnis. Finansinių nusikaltimų tyrimo tarnybos funkcijos įgyvendinant pinigų plovimo prevencijos priemones
+## 5 straipsnis. Finansinių nusikaltimų tyrimo tarnybos funkcijos įgyvendinant pinigų plovimo prevencijos priemones
 
 Finansinių nusikaltimų tyrimo tarnyba pagal kompetenciją:
 
@@ -88,7 +88,7 @@ Finansinių nusikaltimų tyrimo tarnyba pagal kompetenciją:
 
 7) ne rečiau kaip kartą per metus pateikia ataskaitą Vyriausybei apie savo veiklą.
 
-\#### 6 straipsnis. Finansinių nusikaltimų tyrimo tarnybos teisės įgyvendinant pinigų plovimo prevencijos priemones
+## 6 straipsnis. Finansinių nusikaltimų tyrimo tarnybos teisės įgyvendinant pinigų plovimo prevencijos priemones
 
 1. Finansinių nusikaltimų tyrimo tarnyba turi teisę:
 
@@ -104,15 +104,15 @@ Finansinių nusikaltimų tyrimo tarnyba pagal kompetenciją:
 
 2. Finansinių nusikaltimų tyrimo tarnybos pareigūnų, atliekančių kvotą bei parengtinį tardymą pinigų plovimo bylose, teises reglamentuoja Baudžiamojo proceso kodeksas.
 
-\#### 7 straipsnis. Valstybės institucijų bendradarbiavimas
+## 7 straipsnis. Valstybės institucijų bendradarbiavimas
 
 1. Teisėsaugos ir kitos valstybės institucijos privalo pranešti Finansinių nusikaltimų tyrimo tarnybai apie pastebėtus galimo pinigų plovimo požymius, šio Įstatymo pažeidimus ir priemones, kurių buvo imtasi prieš pažeidėjus. Duomenis, kuriuos valstybės institucijos turi pranešti Finansinių nusikaltimų tyrimo tarnybai, ir šios informacijos pateikimo tvarką nustato Vyriausybė.
 
 2. Informacija, kurią Finansinių nusikaltimų tyrimo tarnyba gauna iš teisėsaugos ir kitų valstybės institucijų, kredito ir finansinių įstaigų, notarų ir asmenų, turinčių teisę atlikti notarinius veiksmus, kitų juridinių ar fizinių asmenų, pinigų plovimo prevencijos tikslu gali būti įstatymų nustatytais atvejais perduota operatyvinės veiklos subjektams ir kitoms valstybės institucijoms.
 
-\### TREČIASIS SKIRSNIS. PINIGŲ PLOVIMO PREVENCIJOS PRIEMONĖS
+TREČIASIS SKIRSNIS. PINIGŲ PLOVIMO PREVENCIJOS PRIEMONĖS
 
-\#### 8 straipsnis. Operacijų pinigais įtartinumas
+## 8 straipsnis. Operacijų pinigais įtartinumas
 
 1. Jeigu kredito ir finansinės įstaigos įtaria, kad jose atliekamos kliento operacijos pinigais gali būti susijusios su pinigų plovimu, jos privalo nustatyti kliento tapatybę ir nedelsdamos, ne vėliau kaip per 3 darbo dienas nuo operacijos atlikimo dienos, pateikti Finansinių nusikaltimų tyrimo tarnybai, nepaisant operacijos pinigais dydžio, šio Įstatymo 12 straipsnio 1 dalyje nurodytą informaciją apie pinigais atliktą operaciją.
 
@@ -120,7 +120,7 @@ Finansinių nusikaltimų tyrimo tarnyba pagal kompetenciją:
 
 3. Kriterijus, kuriais vadovaujantis operacija pinigais laikoma įtartina, nustato Vyriausybė kartu su Lietuvos banku.
 
-\#### 9 straipsnis. Kliento tapatybės nustatymas
+## 9 straipsnis. Kliento tapatybės nustatymas
 
 1. Kredito ir finansinės įstaigos, prieš atidarydamos sąskaitas, priimdamos indėlius, teikdamos vertybių saugojimo paslaugas, sudarydamos kitokias sutartis su klientu ar atlikdamos operacijas pinigais, kurių suma viršija 50 000 litų arba šią sumą užsienio valiuta, privalo nustatyti kliento tapatybę.
 
@@ -128,11 +128,11 @@ Finansinių nusikaltimų tyrimo tarnyba pagal kompetenciją:
 
 3. Draudžiama atlikti šio straipsnio 1 dalyje nurodytas operacijas, jeigu klientas šio Įstatymo nustatytais atvejais nepateikia duomenų, patvirtinančių jo tapatybę, taip pat jeigu pateikti ne visi duomenys arba jie yra neteisingi.
 
-\#### 10 straipsnis. Operacijos pinigais atlikimas per atstovą
+## 10 straipsnis. Operacijos pinigais atlikimas per atstovą
 
 Kai operacija pinigais, apie kurią pagal šį Įstatymą turi būti pranešta Finansinių nusikaltimų tyrimo tarnybai, atliekama per atstovą, kredito ir finansinės įstaigos privalo nustatyti kliento ir jo atstovo tapatybę.
 
-\#### 11 straipsnis. Informacijos saugojimas
+## 11 straipsnis. Informacijos saugojimas
 
 1. Kredito ir finansinės įstaigos privalo tvarkyti registrą apie kliento atliktas operacijas pinigais, kurių suma viršija 50 000 litų ar ją atitinkančią sumą užsienio valiuta, bei įtartinas operacijas, išskyrus atvejus, kai kredito ir finansinės įstaigos klientas yra kita kredito ar finansinė įstaiga.
 
@@ -142,7 +142,7 @@ Kai operacija pinigais, apie kurią pagal šį Įstatymą turi būti pranešta F
 
 4. Operaciją pinigais patvirtinantys dokumentai ar kiti juridinę galią turintys dokumentai, susiję su operacijų pinigais atlikimu, turi būti saugomi 10 metų nuo ryšių su klientu pabaigos.
 
-\#### 12 straipsnis. Informacijos pateikimas Finansinių nusikaltimų tyrimo tarnybai
+## 12 straipsnis. Informacijos pateikimas Finansinių nusikaltimų tyrimo tarnybai
 
 1. Kredito ir finansinės įstaigos, atliekančios operaciją pinigais, privalo kliento tapatybę patvirtinančius duomenis ir informaciją apie atliktą operaciją pinigais pateikti Finansinių nusikaltimų tyrimo tarnybai, jeigu kliento vienkartinės operacijos pinigais arba kelių tarpusavyje susijusių operacijų suma viršija 50 000 litų arba ją atitinkančią sumą užsienio valiuta. Notarai ar asmenys, turintys teisę atlikti notarinius veiksmus, privalo kliento tapatybę patvirtinančius duomenis ir informaciją apie kliento sudarytą sandorį pranešti Finansinių nusikaltimų tyrimo tarnybai, jei pagal sandorį gaunama ar mokama pinigų suma viršija 50 000 litų ar ją atitinkančią sumą užsienio valiuta. Finansinių nusikaltimų tyrimo tarnybai pateikiamoje informacijoje nurodomi kliento tapatybę patvirtinantys duomenys; jeigu operacija pinigais atliekama per atstovą, – ir atstovo tapatybę patvirtinantys duomenys; operacijos pinigais suma; valiuta, kuria atlikta operacija pinigais; operacijos pinigais atlikimo data; operacijos pinigais atlikimo būdas; subjektas, kurio naudai atlikta operacija pinigais.
 
@@ -182,7 +182,7 @@ Kai operacija pinigais, apie kurią pagal šį Įstatymą turi būti pranešta F
 
 12) prekyba medikamentais.
 
-\#### 13 straipsnis. Muitinės įstaigų veikla
+## 13 straipsnis. Muitinės įstaigų veikla
 
 1. Muitinės įstaigos atlieka į Lietuvos Respubliką įvežamų ir iš jos išvežamų grynųjų pinigų sumų kontrolę Vyriausybės nustatyta tvarka.
 
@@ -190,13 +190,13 @@ Kai operacija pinigais, apie kurią pagal šį Įstatymą turi būti pranešta F
 
 3. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu juridinis ar fizinis asmuo įveža į Lietuvos Respubliką ar išveža iš jos grynųjų pinigų vienkartinę sumą, viršijančią 50 000 litų ar ją atitinkančią sumą užsienio valiuta.
 
-\#### 14 straipsnis. Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų plovimo prevencijos priemonių įgyvendinimą
+## 14 straipsnis. Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų plovimo prevencijos priemonių įgyvendinimą
 
 1. Kredito ir finansinių įstaigų vadovai privalo paskirti asmenis, kurie organizuotų šiame Įstatyme numatytų pinigų plovimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba.
 
 2. Paskyrus šio straipsnio 1 dalyje nustatytus asmenis, apie juos turi būti pranešta Finansinių nusikaltimų tyrimo tarnybai.
 
-\#### 15 straipsnis. Finansinių nusikaltimų tyrimo tarnybai pateiktos informacijos apsauga
+## 15 straipsnis. Finansinių nusikaltimų tyrimo tarnybai pateiktos informacijos apsauga
 
 1. Šiame Įstatyme nurodyta informacija, kurią gauna Finansinių nusikaltimų tyrimo tarnyba, negali būti skelbiama ar perduodama kitoms valstybės valdymo, kontrolės ar teisėsaugos institucijoms, išskyrus šio ir kitų įstatymų numatytus atvejus.
 
@@ -206,21 +206,21 @@ Kai operacija pinigais, apie kurią pagal šį Įstatymą turi būti pranešta F
 
 4. Asmens, padėjusio išaiškinti pinigų plovimo prevencijos priemonių įgyvendinimo pažeidimus ir pinigų plovimo atvejus, anonimiškumą garantuoja šis Įstatymas.
 
-\### KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+KETVIRTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 16 straipsnis. Finansinių nusikaltimų tyrimo tarnybos veiksmų apskundimas
+## 16 straipsnis. Finansinių nusikaltimų tyrimo tarnybos veiksmų apskundimas
 
 Finansinių nusikaltimų tyrimo tarnybos pareigūnų veiksmai gali būti skundžiami įstatymų nustatyta tvarka.
 
-\#### 17 straipsnis. Žalos atlyginimo tvarka
+## 17 straipsnis. Žalos atlyginimo tvarka
 
 Žala, padaryta neteisėtais Finansinių nusikaltimų tyrimo tarnybos pareigūnų, einančių tarnybines pareigas, veiksmais, atlyginama įstatymų nustatyta tvarka.
 
-\#### 18 straipsnis. Atsakomybė
+## 18 straipsnis. Atsakomybė
 
 Pareigūnai ir asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
 

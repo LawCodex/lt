@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5c1f0d70cc3411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5C1F0D70CC34.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 13-1 ir 22 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 131 IR 22 STRAIPS
 
 Vilnius
 
-\#### 1 straipsnis. 131 straipsnio pakeitimas
+## 1 straipsnis. 131 straipsnio pakeitimas
 
 Pakeisti 13^1 straipsnį ir jį išdėstyti taip:
 
@@ -98,13 +98,13 @@ Pakeisti 13^1 straipsnį ir jį išdėstyti taip:
 
 18. Įmokos administratorius, siekdamas skaidrumo elektros energetikos sektoriuje ir didesnės konkurencijos įgyvendinant šio straipsnio 10 dalyje nurodytus projektus bei gerinant bendruomenės, bendruomeninės organizacijos ir (ar) jos narių interesus, Vyriausybės nustatyta informacijos rinkimo ir viešinimo tvarka savo interneto svetainėje skelbia su gamybos įmokos lėšų administravimu susijusią informaciją.“
 
-\#### 2 straipsnis. 22 straipsnio pakeitimas
+## 2 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnio 11 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) Valstybinei energetikos reguliavimo tarybai pateikę patvirtinimą, kad, konkurso dalyvį pripažinus konkurso laimėtoju, laimėtojas, įgyvendindamas elektrinių plėtros jūrinėje teritorijoje projektą, įsipareigoja laikytis Vyriausybės nustatytų reikalavimų, kurie susiję su šiltnamio efektą sukeliančių dujų išmetimo mažinimo tikslais, investicijomis į aplinkos apsaugą ir su mažų ir vidutinių įmonių įtraukimu į projekto įgyvendinimą;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

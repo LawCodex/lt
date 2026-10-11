@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/28204f7002ac11edb32c9f9d8ba206f8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.28204F7002AC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymas
@@ -26,15 +26,15 @@ PAKEITIMO VERTYBINIAIS POPIERIAIS IR PADENGTŲJŲ OBLIGACIJŲ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 1. Šiame įstatyme nustatomi pakeitimo vertybiniais popieriais ir padengtųjų obligacijų reikalavimai ir specialiosios paskirties bendrovių – pakeitimo vertybiniais popieriais bendrovių ir padengtųjų obligacijų bendrovių – steigimo, valdymo, veiklos, reorganizavimo, likvidavimo, pertvarkymo ir priežiūros tvarka bei atsakomybė už šio įstatymo pažeidimus.
 
 2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 1. Šis įstatymas taikomas Lietuvos Respublikoje veikiančioms specialiosios paskirties bendrovėms, padengtųjų obligacijų emitentams, iniciatoriams, pirminiams skolintojams, rėmėjams ir Reglamento (ES) 2017/2402 27 straipsnio 2 dalyje nurodytoms trečiosioms šalims.
 
@@ -50,7 +50,7 @@ Vilnius
 
 7. Šis įstatymas neapriboja galimybės Lietuvos Respublikoje įsteigtiems asmenims leisti turtu užtikrintas obligacijas, kitas, nei šiuo įstatymu reglamentuojamos, padengtąsias obligacijas (toliau – turtu užtikrintos obligacijos). Turtu užtikrintoms obligacijoms šio įstatymo 5–14 straipsnių nuostatos taikomos mutatis mutandis. Asmuo, išleidžiantis turtu užtikrintas obligacijas, privalo užtikrinti, kad užtikrinamasis turtas būtų atskirtas nuo emitento turto, perleisdamas nuosavybės teisę į užtikrinamąjį turtą specialiosios paskirties bendrovei ar užtikrinamąjį turtą įkeisdamas investuotojų ir specialiųjų kreditorių naudai. Emitentas turi teisę išleisti turtu užtikrintas obligacijas ir tais atvejais, kai emisiją užtikrinantis užtikrinamasis turtas perleidžiamas specialiosios paskirties bendrovei ar subjektui, įsteigtiems kitoje valstybėje narėje arba trečiojoje šalyje, išskyrus Reglamento (ES) Nr. 2017/2402 4 straipsnyje nurodytus atvejus.
 
-\#### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Automatinis padengtųjų obligacijų išpirkimas anksčiau termino – situacija, kai laikoma, kad padengtųjų obligacijų mokėjimo įsipareigojimų terminai yra automatiškai suėję ir mokėjimo įsipareigojimai yra nedelsiant vykdytini, pradėjus padengtųjų obligacijų emitento nemokumo, pertvarkymo, likvidavimo ar kitą panašaus pobūdžio procesą.
 
@@ -114,11 +114,11 @@ Vilnius
 
 26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (ES) Nr. 2017/2402, Reglamente (ES) Nr. 575/2013, Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme ir Lietuvos Respublikos vartojimo kredito įstatyme.
 
-\## II SKYRIUS. PAKEITIMAS VERTYBINIAIS POPIERIAIS
+II SKYRIUS. PAKEITIMAS VERTYBINIAIS POPIERIAIS
 
-\### PIRMASIS SKIRSNIS. PAKEITIMO VERTYBINIAIS POPIERIAIS INICIJAVIMAS
+PIRMASIS SKIRSNIS. PAKEITIMO VERTYBINIAIS POPIERIAIS INICIJAVIMAS
 
-\#### 4 straipsnis. Rizikos prisiėmimas
+## 4 straipsnis. Rizikos prisiėmimas
 
 1. Kredito rizika, susijusi su kilnojamojo arba nekilnojamojo, materialiojo arba nematerialiojo turto turėjimu, ar rizika, susijusi su trečiųjų asmenų finansiniais įsipareigojimais, gali būti pakeičiama vertybiniais popieriais.
 
@@ -128,11 +128,11 @@ Vilnius
 
 4. Pakeitimo vertybiniais popieriais bendrovė gali įsigyti ir, laikydamasi šio įstatymo 13 straipsnyje nustatytų apribojimų, perleisti reikalavimo teises ar kitą esamą arba būsimą turtą, sudarydama sandorius.
 
-\#### 5 straipsnis. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, pardavėjo teisė į pakeitimo vertybiniais popieriais bendrovės turtą
+## 5 straipsnis. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, pardavėjo teisė į pakeitimo vertybiniais popieriais bendrovės turtą
 
 Pakeitimo vertybiniais popieriais bendrovės įstatuose, reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo sutartyje (toliau – perleidimo sutartis) ar bet kuriame kitame susitarime gali būti numatoma reikalavimo teisių, sudarančių užtikrinamąjį turtą, pardavėjo (toliau – pardavėjas) teisė į pakeitimo vertybiniais popieriais bendrovės turtą arba jo dalį, liekančius atsiskaičius su visais investuotojais ir kreditoriais.
 
-\#### 6 straipsnis. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo forma ir momentas
+## 6 straipsnis. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo forma ir momentas
 
 1. Sutartis dėl reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo pakeitimo vertybiniais popieriais bendrovei turi būti rašytinės formos. Rašytinės formos nesilaikymas sutartį daro negaliojančią.
 
@@ -142,7 +142,7 @@ Pakeitimo vertybiniais popieriais bendrovės įstatuose, reikalavimo teisių, su
 
 4. Būsimų reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimas vykdomas jų atsiradimo metu, tačiau laikoma, kad toks perleidimas perleidimo sutarties šalims ir tretiesiems asmenims įsigalioja nuo perleidimo sutarties sudarymo momento, nebent perleidimo sutartyje nustatoma kitaip, neatsižvelgiant į pardavėjo nemokumo, veiklos apribojimo (moratoriumo), pertvarkymo, likvidavimo ar kitą panašų procesą, pradėtą iki reikalavimo atsiradimo dienos.
 
-\#### 7 straipsnis. Tikrasis pardavimas
+## 7 straipsnis. Tikrasis pardavimas
 
 1. Pakeitimo vertybiniais popieriais bendrovės nuosavybės teisė į užtikrinamąjį turtą, įgytą pirkimo–pardavimo ar kito tokį pat teisinį poveikį turinčio sandorio pagrindu, yra absoliuti ir galioja be jokių išimčių ar sąlygų pardavėjui ir bet kuriam trečiajam asmeniui. Pardavėjas atsako už perleistų esamų ar būsimų reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo galiojimą, tačiau vykdant pakeitimą vertybiniais popieriais pardavėjas neatsako, jeigu skolininkas neįvykdo iš reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo kylančių mokėjimo prievolių. Ši taisyklė vykdant pakeitimą vertybiniais popieriais neatleidžia pardavėjo nuo jo prievolių ir atsakomybės pirkėjui už pirkimo–pardavimo sutartyje nurodytų pardavėjo pareiškimų ir garantijų, kylančių iš sudaryto sandorio, pažeidimą.
 
@@ -154,7 +154,7 @@ Pakeitimo vertybiniais popieriais bendrovės įstatuose, reikalavimo teisių, su
 
 5. Šio straipsnio 4 dalies nuostatos taip pat taikomos, kai perleidęs reikalavimo teises pardavėjas ir toliau pagal sutartį su pakeitimo vertybiniais popieriais bendrove renka lėšas ir jas administruoja šios pakeitimo vertybiniais popieriais bendrovės naudai bei atlieka kitas užduotis, susijusias su šių lėšų administravimu.
 
-\#### 8 straipsnis. Su užtikrinamuoju turtu susijusio užstato ir kitų prievolių įvykdymo užtikrinimo priemonių perleidimas
+## 8 straipsnis. Su užtikrinamuoju turtu susijusio užstato ir kitų prievolių įvykdymo užtikrinimo priemonių perleidimas
 
 1. Jeigu perleidimo sutarties šalys nesusitaria kitaip, pakeitimo vertybiniais popieriais bendrovei įsigyjant ar perleidžiant nuosavybės teisę į užtikrinamąjį turtą, kartu su ja pereina ir visos su šiuo užtikrinamuoju turtu susijusios garantijos, laidavimai bei kitos prievolių įvykdymo užtikrinimo priemonės, įskaitant hipoteką (įkeitimą), o toks garantijos, laidavimo ar kitos prievolių įvykdymo užtikrinimo priemonės, įskaitant hipoteką (įkeitimą), perleidimas galioja nuo nuosavybės teisės į užtikrinamąjį turtą įgijimo momento ir yra taikytinas visiems asmenims be jokių papildomų sąlygų.
 
@@ -166,19 +166,19 @@ Pakeitimo vertybiniais popieriais bendrovės įstatuose, reikalavimo teisių, su
 
 5. Užstato hipotekos (įkeitimo) teisių perleidimas taip pat galioja iki jį įforminant notarinės formos sutartimi, o hipotekos (įkeitimo) galiojimo negalima ginčyti remiantis vien tuo, kad užstato hipotekos (įkeitimo) teisių perleidimas dar nėra įformintas notarinės formos sutartimi.
 
-\#### 9 straipsnis. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo galiojimas
+## 9 straipsnis. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimo galiojimas
 
 1. Reikalavimo teisių, sudarančių užtikrinamąjį turtą, ir su šiuo užtikrinamuoju turtu susijusių garantijų, laidavimų bei kitų prievolių įvykdymo užtikrinimo priemonių, įskaitant hipoteką (įkeitimą), perleidimas pakeitimo vertybiniais popieriais bendrovei galioja ir tais atvejais, kai pradinė sutartis, pagal kurią atsirado skolininko ar potencialaus skolininko esamos ar būsimos prievolės (toliau – pradinė sutartis), arba su šiuo užtikrinamuoju turtu susijusių garantijų, laidavimų bei kitų prievolių įvykdymo užtikrinimo priemonių, įskaitant hipoteką (įkeitimą), sutartys tą daryti draudžia ar riboja.
 
 2. Šio straipsnio 1 dalies nuostata neatleidžia pardavėjo nuo prievolių ir atsakomybės skolininkui už pradinės sutarties sąlygos, draudžiančios ar ribojančios reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimą, pažeidimą, tačiau negali būti pagrindas nuginčyti reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimą pakeitimo vertybiniais popieriais bendrovei ar nevykdyti prievolių pakeitimo vertybiniais popieriais bendrovei.
 
-\#### 10 straipsnis. Įskaitymo draudimas
+## 10 straipsnis. Įskaitymo draudimas
 
 1. Įskaityti užtikrinamąjį turtą draudžiama nuo dienos, kurią skolininkas sužino ar turėjo sužinoti apie reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimą. Laikoma, kad apie reikalavimo teisių perleidimą skolininkas turėjo sužinoti šio įstatymo 11 straipsnyje nustatyta tvarka.
 
 2. Skolininkas gali įskaityti tik tuos reikalavimus, kurių mokėjimo terminai yra suėję iki dienos, kai skolininkas sužino ar turėjo sužinoti apie reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimą.
 
-\#### 11 straipsnis. Skelbimas apie perleidimą
+## 11 straipsnis. Skelbimas apie perleidimą
 
 1. Skolininkams ir įkaito davėjams, kurie nėra skolininkai, apie reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimą pranešama individualiu pranešimu arba, jeigu informacijos pateikimas neįmanomas arba tam reikia neproporcingų pastangų, informacija gali būti pranešama viešu skelbimu, laikantis Lietuvos Respublikos civilinio kodekso 1.65 straipsnio 2 dalies reikalavimų, įskaitant skelbimą nacionalinių laikraščių, jiems prilygintų masinės informacijos priemonių interneto svetainėse ir pardavėjo interneto svetainėje. Laikoma, kad informavimo pareiga yra tinkamai įvykdyta, jeigu skolininkams ir įkaito davėjams, kurie nėra skolininkai, apie reikalavimo teisių, sudarančių užtikrinamąjį turtą, perleidimą pranešta bendru viešu skelbimu ir pardavėjo interneto svetainėje arba raštu vienu iš šių būdų: asmeniškai, paštu ar elektroninių ryšių priemonėmis – elektroniniu paštu, trumpąja SMS žinute ar per elektroninės bankininkystės sistemas. Laikoma, kad skolininkai ir įkaito davėjai, kurie nėra skolininkai, kuriems apie perleidimą pranešta bendru viešu skelbimu, apie perleidimą sužino ar turėjo sužinoti praėjus 14 dienų nuo paskelbimo apie tai dienos.
 
@@ -186,25 +186,25 @@ Pakeitimo vertybiniais popieriais bendrovės įstatuose, reikalavimo teisių, su
 
 3. Šio straipsnio 1 dalyje nurodyto pranešimo pakanka, neatsižvelgiant į tai, kokie pranešimo būdai yra sutarti pradinėje sutartyje, pagal kurią atsirado skolininko ar potencialaus skolininko esamos ar būsimos prievolės, arba su šiuo užtikrinamuoju turtu susijusių garantijų, laidavimų bei kitų prievolių įvykdymo užtikrinimo priemonių, įskaitant hipoteką (įkeitimą), sutartyse.
 
-\### ANTRASIS SKIRSNIS. RIZIKOS VALDYMAS
+ANTRASIS SKIRSNIS. RIZIKOS VALDYMAS
 
-\#### 12 straipsnis. Pagal reikalavimo teises, sudarančias užtikrinamąjį turtą, gaunamų sumų administravimas
+## 12 straipsnis. Pagal reikalavimo teises, sudarančias užtikrinamąjį turtą, gaunamų sumų administravimas
 
 1. Pakeitimo vertybiniais popieriais bendrovė gali pavesti pardavėjui arba trečiajam asmeniui gauti lėšas pagal jai priklausančias reikalavimo teises ir jas administruoti pakeitimo vertybiniais popieriais bendrovės naudai, taip pat atlikti kitas užduotis, susijusias su šių lėšų administravimu. Turtas, kurį pardavėjas arba trečiasis asmuo gauna pagal reikalavimo teises, priklausančias pakeitimo vertybiniais popieriais bendrovei, turi būti atskirtas nuo pardavėjo arba trečiojo asmens turto. Pardavėjas arba trečiasis asmuo privalo sudaryti ir tvarkyti jam perduoto turto apskaitą, o atsiskaitymams atlikti turi atidaryti atskirą kredito įstaigos sąskaitą pakeitimo vertybiniais popieriais bendrovės vardu.
 
 2. Jeigu pradedamas pardavėjo arba trečiojo asmens, kuriam buvo pavestas gautų lėšų administravimas pagal pakeitimo vertybiniais popieriais bendrovei priklausančias reikalavimo teises, nemokumo, pertvarkymo, veiklos apribojimo (moratoriumo), likvidavimo ar kitas panašus procesas, pakeitimo vertybiniais popieriais bendrovė turi teisę reikalauti jos vardu ar jos naudai gautų lėšų pagal jai priklausančias reikalavimo teises, o pardavėjas arba trečiasis asmuo privalo nedelsdamas gautas lėšas pakeitimo vertybiniais popieriais bendrovei grąžinti pirmumo teise, neatsižvelgdamas į tai, kad atitinkamas procesas jau yra prasidėjęs. Kiti pardavėjo arba trečiojo asmens, kuriam buvo pavestas lėšų administravimas pagal pakeitimo vertybiniais popieriais bendrovei priklausančias reikalavimo teises, kreditoriai neturi jokių teisių į pakeitimo vertybiniais popieriais bendrovės vardu ar jos naudai surinktas lėšas ir šios lėšos negali būti įtraukiamos į bankrutuojančio ar restruktūrizuojamo pardavėjo arba trečiojo asmens, kuriam pavestas tokių lėšų administravimas, turtą, iš kurio tenkinami kreditorių reikalavimai.
 
-\#### 13 straipsnis. Turto perleidimo apribojimai
+## 13 straipsnis. Turto perleidimo apribojimai
 
 Pakeitimo vertybiniais popieriais bendrovė savo turtą gali parduoti, perduoti ar kitaip perleisti tik vadovaudamasi šiame įstatyme ir savo įstatuose nustatyta tvarka.
 
-\#### 14 straipsnis. Apribojimai suvaržyti turtą
+## 14 straipsnis. Apribojimai suvaržyti turtą
 
 Pakeitimo vertybiniais popieriais bendrovei draudžiama bet kokiu būdu perleisti turtą ar apsunkinti jį bet kokiomis daiktinėms ir prievolių teisėmis, taip pat bet kokiu būdu suvaržyti savo teises į jį, išskyrus atvejus, kai užtikrinami su investuotojais į pakeitimo vertybiniais popieriais metu išleistus vertybinius popierius ir specialiaisiais kreditoriais susiję įsipareigojimai, kuriuos prisiėmė pakeitimo vertybiniais popieriais bendrovė.
 
-\### TREČIASIS SKIRSNIS. INVESTUOTOJAI IR SPECIALIEJI KREDITORIAI
+TREČIASIS SKIRSNIS. INVESTUOTOJAI IR SPECIALIEJI KREDITORIAI
 
-\#### 15 straipsnis. Investuotojų ir specialiųjų kreditorių teisės į užtikrinamąjį turtą
+## 15 straipsnis. Investuotojų ir specialiųjų kreditorių teisės į užtikrinamąjį turtą
 
 1. Investuotojai ir specialieji kreditoriai turi teisę tik į pakeitimo vertybiniais popieriais bendrovei priklausantį užtikrinamąjį turtą, skirtą tik investuotojų ir specialiųjų kreditorių reikalavimams tenkinti. Segmentui priskirtų investuotojų ir specialiųjų kreditorių reikalavimai yra lygiaverčiai ir vertinami vienodai pari passu, išskyrus šio straipsnio 3 dalyje nustatytą atvejį.
 
@@ -212,7 +212,7 @@ Pakeitimo vertybiniais popieriais bendrovei draudžiama bet kokiu būdu perleist
 
 3. Emisijos sąlygose arba pakeitimo vertybiniais popieriais bendrovės sutartyje su investuotojais ir (ar) specialiaisiais kreditoriais gali būti nustatyta, kad investuotojų reikalavimai ar dalis jų vykdomi tik kai atsiskaitoma su kitais investuotojais arba specialiaisiais kreditoriais.
 
-\#### 16 straipsnis. Turto įkeitimas investuotojų ir specialiųjų kreditorių naudai
+## 16 straipsnis. Turto įkeitimas investuotojų ir specialiųjų kreditorių naudai
 
 1. Pakeitimo vertybiniais popieriais bendrovė užtikrinamąjį turtą privalo įkeisti investuotojų ir specialiųjų kreditorių naudai. Užtikrinamasis turtas įkeičiamas investuotojų ir specialiųjų kreditorių naudai vadovaujantis Civilinio kodekso ir šio įstatymo nuostatomis.
 
@@ -228,13 +228,13 @@ Pakeitimo vertybiniais popieriais bendrovei draudžiama bet kokiu būdu perleist
 
 7. Patikėtinis, o jeigu jo nėra, investuotojai ar specialieji kreditoriai priverstinio išieškojimo procedūrą vykdo laikydamiesi įkeitimo sutarties ir emisijos sąlygų. Nuo notaro vykdomojo įrašo įregistravimo Nekilnojamojo turto arba Sutarčių ir teisių suvaržymų registruose dienos pakeitimo vertybiniais popieriais bendrovė netenka teisės disponuoti įkeistu užtikrinamuoju turtu, o teisę administruoti šį turtą ir (arba) disponuoti juo įgyja patikėtinis, o jeigu jo nėra, investuotojai ir specialieji kreditoriai. Visos lėšos, kurias patikėtinis gauna iš užtikrinamojo turto, kaupiamos patikėtinio atskiroje sąskaitoje ir paskirstomos investuotojams išieškojimo išlaidoms ir veiklos išlaidoms, jeigu jų yra, apmokėti.
 
-\#### 17 straipsnis. Vertybinių popierių sąlygų laikymosi privalomumas
+## 17 straipsnis. Vertybinių popierių sąlygų laikymosi privalomumas
 
 Pakeitimo vertybiniais popieriais bendrovės išleidžiamų vertybinių popierių išleidimo ir išpirkimo sąlygų nuostatos privalomos ir pakeitimo vertybiniais popieriais bendrovei, ir investuotojams, ir specialiesiems kreditoriams.
 
-\### KETVIRTASIS SKIRSNIS. PATIKĖTINIS
+KETVIRTASIS SKIRSNIS. PATIKĖTINIS
 
-\#### 18 straipsnis. Investuotojų ir specialiųjų kreditorių patikėtinis
+## 18 straipsnis. Investuotojų ir specialiųjų kreditorių patikėtinis
 
 1. Investuotojai ir specialieji kreditoriai atstovavimą jų interesams ir reikalavimų, susijusių su vertybiniais popieriais, įgyvendinimą turi teisę pavesti vienam ar keliems patikėtiniams.
 
@@ -242,7 +242,7 @@ Pakeitimo vertybiniais popieriais bendrovės išleidžiamų vertybinių popieri�
 
 3. Investuotojai ir specialieji kreditoriai įgalioja patikėtinį atstovauti jų interesams patikėjimo pagrindais.
 
-\#### 19 straipsnis. Patikėtinio paskyrimas
+## 19 straipsnis. Patikėtinio paskyrimas
 
 1. Dokumentas, kuriuo paskiriamas patikėtinis, turi būti rašytinės formos. Pakeitimo vertybiniais popieriais bendrovės išleisto vertybinio popieriaus pirkimo dokumento, kurio sąlygose numatytas patikėtinio paskyrimas, pasirašymas laikomas investuotojo sutikimu su patikėtinio paskyrimu ir jo įgaliojimais.
 
@@ -260,23 +260,23 @@ Pakeitimo vertybiniais popieriais bendrovės išleidžiamų vertybinių popieri�
 
 6. Inicijavus patikėtinio nemokumo, pertvarkymo, veiklos apribojimo (moratoriumo), likvidavimo ar kitą panašų procesą, kai patikėtinis yra juridinis asmuo, arba patikėtinio pripažinimą neveiksniu tam tikroje srityje ar kai jo atžvilgiu vykdomas bankrotas, kai jis yra fizinis asmuo, patikėtinis naudojasi savo teisėmis ir vykdo savo, kaip patikėtinio, įgaliojimus tol, kol paskiriamas kitas patikėtinis vadovaujantis šio įstatymo 28 straipsnio 1 dalyje nustatyta tvarka. Patikėtinio mirties atveju, kai jis yra fizinis asmuo, kitas patikėtinis paskiriamas šio įstatymo 28 straipsnio 1 dalyje nustatyta tvarka.
 
-\#### 20 straipsnis. Investuotojų ir specialiųjų kreditorių individualių teisių atsisakymas paskyrus patikėtinį
+## 20 straipsnis. Investuotojų ir specialiųjų kreditorių individualių teisių atsisakymas paskyrus patikėtinį
 
 Patikėtinis, kiek jam pavesta dokumentu, kuriuo jis paskiriamas, atstovauja investuotojams ir specialiesiems kreditoriams santykiuose, susijusiuose su pakeitimo vertybiniais popieriais sandoriu, su pakeitimo vertybiniais popieriais bendrove ir trečiaisiais asmenimis. Kol investuotojų ir specialiųjų kreditorių interesams atstovauja patikėtinis, jie negali individualiai naudotis savo teisėmis, kurioms atstovauti pavesta patikėtiniui. Investuotojų ir specialiųjų kreditorių įgaliojimai kolektyviai kontroliuoti patikėtinio veiklą nustatomi dokumente, kuriuo paskiriamas patikėtinis.
 
-\#### 21 straipsnis. Turtas, į kurį negali būti nukreiptos patikėtinio kreditorių reikalavimo teisės
+## 21 straipsnis. Turtas, į kurį negali būti nukreiptos patikėtinio kreditorių reikalavimo teisės
 
 Patikėtinio kreditorius neturi teisės nukreipti reikalavimo teisių į patikėtiniui šio įstatymo pagrindu patikėtą turtą, nepaisant patikėtinio bankroto, mirties, neveiksnumo tam tikroje srityje, kai jis yra fizinis asmuo, arba jo nemokumo, pertvarkymo, veiklos apribojimo (moratoriumo), likvidavimo ar kito panašaus proceso, kai patikėtinis yra juridinis asmuo.
 
-\#### 22 straipsnis. Patikėto turto ir teisių atskyrimas
+## 22 straipsnis. Patikėto turto ir teisių atskyrimas
 
 Turtas ir teisės, kuriuos patikėtinis įgyja investuotojų ir specialiųjų kreditorių naudai iš patikėto turto, turi būti atskirti nuo jo turto ir įsipareigojimų, taip pat nuo bet kokio kito jam patikėto turto. Patikėtinis privalo užtikrinti šio reikalavimo įgyvendinimą.
 
-\#### 23 straipsnis. Patikėtinis ir obligacijų savininkų patikėtinis
+## 23 straipsnis. Patikėtinis ir obligacijų savininkų patikėtinis
 
 Patikėtiniui gali būti pavesta atlikti ir obligacijų savininkų patikėtinio, kaip jis apibrėžiamas Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatyme, funkcijas, jeigu obligacijų savininkų patikėtinis turi būti paskirtas pagal Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymo nuostatas. Tokiu atveju, vadovaujantis šio įstatymo 19 straipsniu, obligacijų savininkų patikėtinio įgaliojimai nustatomi dokumente, kuriuo paskiriamas patikėtinis, neatsižvelgiant į Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymo nuostatas.
 
-\#### 24 straipsnis. Patikėtinio funkcijos
+## 24 straipsnis. Patikėtinio funkcijos
 
 1. Patikėtinis, vadovaudamasis investuotojų ir specialiųjų kreditorių suteiktais įgaliojimais, turi teisę jų vardu pradėti visus procesus, įskaitant kreipimąsi į teismą, ir ginti jų interesus, kad būtų apgintos investuotojų ir specialiųjų kreditorių teisės, neprivalėdamas atskleisti investuotojų ir specialiųjų kreditorių tapatybės, o tik nurodydamas, kad jis veikia kaip patikėtinis šio įstatymo pagrindu, ir pateikdamas dokumentą, kuriuo paskiriamas patikėtinis. Kai patikėtinis kreipiasi į teismą neatskleisdamas investuotojų ir specialiųjų kreditorių tapatybės, jis pats tampa teismo proceso šalimi.
 
@@ -286,21 +286,21 @@ Patikėtiniui gali būti pavesta atlikti ir obligacijų savininkų patikėtinio,
 
 4. Patikėtinis veikia kaip kito asmens turto administratorius, turintis visus turto administravimo įgaliojimus, nurodytus dokumente, kuriuo paskiriamas patikėtinis.
 
-\#### 25 straipsnis. Patikėtinio funkcijų perdavimo pasekmės
+## 25 straipsnis. Patikėtinio funkcijų perdavimo pasekmės
 
 1. Patikėtinis turi teisę savo nuožiūra pasitelkti paslaugų teikėjus, įskaitant teisės, apskaitos, audito konsultantus, kad tinkamai atliktų savo funkcijas. Patikėtinis, pasitelkęs trečiąjį asmenį patikėtinio teisėms įgyvendinti ar veiksmams atlikti, atsako už pasitelkto trečiojo asmens padarytą žalą, išskyrus atvejus, jeigu įrodo, kad žala buvo padaryta dėl išorės įvykio, kurio patikėtinis negalėjo pagrįstai kontroliuoti ir kurio pasekmių nebūtų galima išvengti nepaisant visų tam pagrįstai dėtų pastangų.
 
 2. Neatsižvelgdami į tai, kad yra patikėtinis, investuotojai ir specialieji kreditoriai turi teisę tiesiogiai nukreipti reikalavimus į pasitelktą trečiąjį asmenį.
 
-\#### 26 straipsnis. Patikėtinio teisė reikalauti nušalinti pakeitimo vertybiniais popieriais bendrovės valdymo ar priežiūros organų narius
+## 26 straipsnis. Patikėtinio teisė reikalauti nušalinti pakeitimo vertybiniais popieriais bendrovės valdymo ar priežiūros organų narius
 
 Patikėtinis, siekdamas apginti investuotojų ir specialiųjų kreditorių interesus, turi teisę kreiptis į teismą su motyvuotu prašymu laikinai ar visiškai nušalinti pakeitimo vertybiniais popieriais bendrovės valdymo ar priežiūros organų narį ar visus narius.
 
-\#### 27 straipsnis. Patikėtinio atsakomybė
+## 27 straipsnis. Patikėtinio atsakomybė
 
 Jeigu kitaip nenustatyta dokumente, kuriuo paskiriamas patikėtinis, arba šiame įstatyme, patikėtinio atsakomybė investuotojams ir specialiesiems kreditoriams, kurių vardu jis veikia, nustatoma vadovaujantis Civiliniu kodeksu.
 
-\#### 28 straipsnis. Patikėtinio pakeitimas ir atsistatydinimas
+## 28 straipsnis. Patikėtinio pakeitimas ir atsistatydinimas
 
 1. Patikėtinis pakeičiamas dokumente, kuriuo jis paskiriamas, nustatyta tvarka.
 
@@ -310,11 +310,11 @@ Jeigu kitaip nenustatyta dokumente, kuriuo paskiriamas patikėtinis, arba šiame
 
 4. Patikėtinio atsistatydinimas įsigalioja tik paskyrus naują patikėtinį.
 
-\## III SKYRIUS. PADENGTOSIOS OBLIGACIJOS
+III SKYRIUS. PADENGTOSIOS OBLIGACIJOS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 29 straipsnis. Bendrosios nuostatos dėl padengtųjų obligacijų
+## 29 straipsnis. Bendrosios nuostatos dėl padengtųjų obligacijų
 
 1. Padengtųjų obligacijų emitentas šio įstatymo 32 straipsnyje nustatytomis sąlygomis turi perleisti nuosavybės teisę į reikalavimo teises, sudarančias užtikrinamąjį turtą, Lietuvos Respublikoje įsteigtai padengtųjų obligacijų bendrovei arba specialiosios paskirties bendrovei ar subjektui, kurių buveinė registruota kitoje valstybėje narėje, jeigu jie buvo įsteigti tik tam, kad užtikrinamasis turtas būtų atskirtas nuo emitento turto, ir kurie atlieka kitus su padengtųjų obligacijų emisija susijusius veiksmus pagal tos valstybės narės teisę (toliau kartu – kitoje valstybėje narėje registruota specialiosios paskirties bendrovė). Jeigu reikalavimo teisės, sudarančios užtikrinamąjį turtą, perleidžiamos kitoje valstybėje narėje registruotai specialiosios paskirties bendrovei, atitinkamai šio įstatymo nuostatos santykiams tarp emitento, užtikrinamojo turto grupės stebėtojo, specialiojo administratoriaus ir kitoje valstybėje narėje registruotos specialiosios paskirties bendrovės taikomos mutatis mutandis.
 
@@ -324,9 +324,9 @@ Jeigu kitaip nenustatyta dokumente, kuriuo paskiriamas patikėtinis, arba šiame
 
 4. Jokie skolininko reikalavimų įskaitymai, susiję su užtikrinamuoju turtu, negalimi pradėjus padengtųjų obligacijų emitento ar padengtųjų obligacijų užtikrinamojo turto formuotojo nemokumo, pertvarkymo, veiklos apribojimo (moratoriumo), likvidavimo ar kitą panašų procesą.
 
-\### ANTRASIS SKIRSNIS. DVIGUBO REIKALAVIMO TEISĖ
+ANTRASIS SKIRSNIS. DVIGUBO REIKALAVIMO TEISĖ
 
-\#### 30 straipsnis. Pirmenybės teisė ir dvigubo reikalavimo teisė
+## 30 straipsnis. Pirmenybės teisė ir dvigubo reikalavimo teisė
 
 1. Padengtųjų obligacijų investuotojai ir specialieji kreditoriai turi dvigubo reikalavimo teisę, kuri suteikia teisę reikalauti, kad:
 
@@ -348,7 +348,7 @@ Jeigu kitaip nenustatyta dokumente, kuriuo paskiriamas patikėtinis, arba šiame
 
 8. Šio straipsnio 5–7 dalys taikomos tik šio straipsnio 1 dalies 2 punkte nurodytu atveju.
 
-\#### 31 straipsnis. Padengtųjų obligacijų neliečiamumas, vykstant padengtųjų obligacijų emitento ir padengtųjų obligacijų užtikrinamojo turto formuotojo nemokumo, pertvarkymo, likvidavimo ar kitam panašiam procesui
+## 31 straipsnis. Padengtųjų obligacijų neliečiamumas, vykstant padengtųjų obligacijų emitento ir padengtųjų obligacijų užtikrinamojo turto formuotojo nemokumo, pertvarkymo, likvidavimo ar kitam panašiam procesui
 
 1. Jeigu, vadovaujantis emisijos sąlygomis, prasidėjus ar vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo, likvidavimo ar kitam panašiam procesui, užtikrinamojo turto nominaliosios vertės pakanka investuotojų ir specialiųjų kreditorių reikalavimams padengti ir pagal emisijos sąlygas nėra pagrindo reikalauti, kad padengtosios obligacijos būtų išpirktos anksčiau termino, padengtosios obligacijos nėra išperkamos anksčiau termino ir užtikrinamasis turtas toliau valdomas šiame įstatyme nustatyta tvarka.
 
@@ -364,9 +364,9 @@ Jeigu kitaip nenustatyta dokumente, kuriuo paskiriamas patikėtinis, arba šiame
 
 7. Padengtųjų obligacijų užtikrinamojo turto formuotojo nemokumo, likvidavimo ar kito panašaus proceso pradėjimas neturi įtakos padengtųjų obligacijų emisijos galiojimui ir padengtosios obligacijos neišperkamos anksčiau termino.
 
-\### TREČIASIS SKIRSNIS. UŽTIKRINAMOJO TURTO ATSKYRIMAS
+TREČIASIS SKIRSNIS. UŽTIKRINAMOJO TURTO ATSKYRIMAS
 
-\#### 32 straipsnis. Užtikrinamojo turto atskyrimas
+## 32 straipsnis. Užtikrinamojo turto atskyrimas
 
 1. Padengtųjų obligacijų emitentas privalo užtikrinti, kad užtikrinamasis turtas būtų atskirtas nuo jo turto, perleisdamas nuosavybės teisę į reikalavimo teises, sudarančias užtikrinamąjį turtą.
 
@@ -378,7 +378,7 @@ Jeigu kitaip nenustatyta dokumente, kuriuo paskiriamas patikėtinis, arba šiame
 
 3. Padengtųjų obligacijų emitentas privalo identifikuoti, registruoti ir perleisti kiekvieną turtą, sudarantį užtikrinamąjį turtą, kad toks turtas bet kada būtų aiškiai identifikuojamas ir pagrindžiamas dokumentais.
 
-\#### 33 straipsnis. Padengtųjų obligacijų emitento įsipareigojimai, susiję su užtikrinamuoju turtu, ir užtikrinamojo turto valdymo ir administravimo sutartis
+## 33 straipsnis. Padengtųjų obligacijų emitento įsipareigojimai, susiję su užtikrinamuoju turtu, ir užtikrinamojo turto valdymo ir administravimo sutartis
 
 Perleisdamas užtikrinamąjį turtą pagal šio įstatymo 32 straipsnį,padengtųjų obligacijų emitentas ir padengtųjų obligacijų bendrovė privalo sudaryti susitarimą dėl užtikrinamojo turto valdymo ir administravimo. Šiame susitarime, be kita ko, turi būti aptarta, kaip bus laikomasi šių reikalavimų:
 
@@ -400,7 +400,7 @@ Perleisdamas užtikrinamąjį turtą pagal šio įstatymo 32 straipsnį,padengt�
 
 9) įvykdžius visus įsipareigojimus investuotojams ir specialiesiems kreditoriams, likęs užtikrinamasis turtas bus grąžintas padengtųjų obligacijų emitentui.
 
-\#### 34 straipsnis. Padengtųjų obligacijų bendrovės pakeitimas
+## 34 straipsnis. Padengtųjų obligacijų bendrovės pakeitimas
 
 1. Padengtųjų obligacijų bendrovė turi teisę į turimų nuosavybės teisių į užtikrinamąjį turtą ir visų kitų teisių ir pareigų pagal su užtikrinamuoju turtu susijusias sutartis perleidimą (toliau šiame straipsnyje – teisių ir pareigų perleidimas) kitai Lietuvos Respublikoje įsteigtai padengtųjų obligacijų bendrovei ar kitoje valstybėje narėje registruotai specialiosios paskirties bendrovei, jeigu gauna išankstinį rašytinį priežiūros institucijos sutikimą dėl teisių ir pareigų perleidimo. Investuotojų sutikimas dėl teisių ir pareigų perleidimo nereikalingas, tačiau jie turi būti informuojami apie įvykusį perleidimą priežiūros institucijos nustatyta tvarka. Padengtųjų obligacijų emitentas informaciją apie planuojamą teisių ir pareigų perleidimą, įskaitant informaciją apie siūlomą naują savininką, turi pateikti priežiūros institucijai vadovaudamasis jos nustatyta tvarka.
 
@@ -412,21 +412,21 @@ Perleisdamas užtikrinamąjį turtą pagal šio įstatymo 32 straipsnį,padengt�
 
 2) galima daryti išvadą, kad numatomas teisių ir pareigų perleidimas turės reikšmingą neigiamą įtaką investuotojų interesams.
 
-\### KETVIRTASIS SKIRSNIS. UŽTIKRINAMOJO TURTO PRIEŽIŪRA IR VALDYMAS, KAI PADENGTŲJŲ OBLIGACIJŲ EMITENTAS NEMOKUS, PERTVARKOMAS, LIKVIDUOJAMAS
+KETVIRTASIS SKIRSNIS. UŽTIKRINAMOJO TURTO PRIEŽIŪRA IR VALDYMAS, KAI PADENGTŲJŲ OBLIGACIJŲ EMITENTAS NEMOKUS, PERTVARKOMAS, LIKVIDUOJAMAS
 
-\#### 35 straipsnis. Užtikrinamojo turto valdymas ir specialusis administratorius
+## 35 straipsnis. Užtikrinamojo turto valdymas ir specialusis administratorius
 
 1. Kai nustatoma, kad padengtųjų obligacijų emitentas atitinka nemokumo sąlygas, nustatytas kredito įstaigų veiklą reglamentuojančiuose įstatymuose, arba kai pagal Finansinio tvarumo įstatymo 42 straipsnio 3 dalį nustatoma, kad padengtųjų obligacijų emitentas žlunga arba galėtų žlugti, ar priimamas sprendimas atšaukti jo licenciją, arba kai priežiūros institucija nustato, kad yra išskirtinės aplinkybės, kada emitentas negali tinkamai veikti, padengtųjų obligacijų programa ir užtikrinamasis turtas turi būti valdomi nepriklausomai nuo padengtųjų obligacijų emitento ir vadovaujantis išimtinai investuotojų interesais.
 
 2. Esant šio straipsnio 1 dalyje nustatytoms sąlygoms ir siekiant užtikrinti, kad įsipareigojimai investuotojams, kylantys iš padengtųjų obligacijų, būtų visiškai įvykdyti investuotojams naudingiausiu būdu, užtikrinamojo turto valdymą, naudojimą ir disponavimą juo perima specialusis administratorius.
 
-\#### 36 straipsnis. Specialiojo administratoriaus teisė valdyti, naudoti užtikrinamąjį turtą ir disponuoti juo
+## 36 straipsnis. Specialiojo administratoriaus teisė valdyti, naudoti užtikrinamąjį turtą ir disponuoti juo
 
 1. Paskyrus specialųjį administratorių, teisę valdyti, naudoti, administruoti užtikrinamąjį turtą ir su juo susijusį užstatą bei kitas prievolių įvykdymo užtikrinimo priemones ir disponuoti jais turi tik specialusis administratorius.
 
 2. Specialusis administratorius šio įstatymo pagrindu užtikrinamąjį turtą valdo, naudoja ir disponuoja juo, sudaro sandorius, susijusius su užtikrinamuoju turtu, užstatu ar kitomis prievolių įvykdymo užtikrinimo priemonėmis, taip pat sudaro kitus sandorius investuotojų interesais, kad būtų visiškai įvykdyti visi įsipareigojimai pagal padengtųjų obligacijų programą.
 
-\#### 37 straipsnis. Specialiojo administratoriaus paskyrimas ir atšaukimas
+## 37 straipsnis. Specialiojo administratoriaus paskyrimas ir atšaukimas
 
 1. Esant šio įstatymo 35 straipsnio 1 dalyje nustatytoms sąlygoms, priežiūros institucija paskiria vieną arba kelis specialiuosius administratorius, kurie perima užtikrinamojo turto valdymą.
 
@@ -438,7 +438,7 @@ Perleisdamas užtikrinamąjį turtą pagal šio įstatymo 32 straipsnį,padengt�
 
 5. Priežiūros institucija nustato specialiojo administratoriaus skyrimo ir atšaukimo tvarką.
 
-\#### 38 straipsnis. Specialiojo administratoriaus funkcijos
+## 38 straipsnis. Specialiojo administratoriaus funkcijos
 
 1. Specialusis administratorius pirmiausia privalo atstovauti investuotojų interesams, siekti, kad būtų visiškai įvykdyti visi įsipareigojimai pagal padengtųjų obligacijų programą.
 
@@ -458,7 +458,7 @@ Perleisdamas užtikrinamąjį turtą pagal šio įstatymo 32 straipsnį,padengt�
 
 3. Specialusis administratorius taip pat naudojasi teisėmis ir vykdo pareigas bei atlieka funkcijas, nurodytas šio įstatymo 65 straipsnyje.
 
-\#### 39 straipsnis. Sutartis su specialiuoju administratoriumi
+## 39 straipsnis. Sutartis su specialiuoju administratoriumi
 
 1. Paskyrus specialųjį administratorių, padengtųjų obligacijų bendrovė, kuriai priklauso užtikrinamasis turtas, privalo:
 
@@ -498,7 +498,7 @@ g) vykdomas šio įstatymo 51 straipsnyje nurodytas likvidumo atsargos reikalavi
 
 5) kitais atvejais, nustatytais sutartyje su specialiuoju administratoriumi ir Civiliniame kodekse.
 
-\#### 40 straipsnis. Specialiojo administratoriaus atlyginimas ir kitos su užtikrinamuoju turtu susijusios išlaidos
+## 40 straipsnis. Specialiojo administratoriaus atlyginimas ir kitos su užtikrinamuoju turtu susijusios išlaidos
 
 1. Specialusis administratorius turi teisę gauti atlyginimą už suteiktas paslaugas.
 
@@ -508,7 +508,7 @@ g) vykdomas šio įstatymo 51 straipsnyje nurodytas likvidumo atsargos reikalavi
 
 4. Priežiūros institucija patvirtina specialiojo administratoriaus atlyginimo ir kitų šio straipsnio 2 dalyje nurodytų administravimo išlaidų apskaičiavimo tvarką.
 
-\#### 41 straipsnis. Užtikrinamojo turto ir įsipareigojimų pagal padengtąsias obligacijas perleidimas
+## 41 straipsnis. Užtikrinamojo turto ir įsipareigojimų pagal padengtąsias obligacijas perleidimas
 
 1. Specialusis administratorius, gavęs išankstinį priežiūros institucijos sutikimą, turi teisę perleisti visą užtikrinamąjį turtą arba jo dalį kartu su įsipareigojimais pagal padengtąsias obligacijas kitam emitentui ir (arba) kitai Lietuvos Respublikoje įsteigtai padengtųjų obligacijų bendrovei ar kitoje valstybėje narėje registruotai specialiosios paskirties bendrovei tik laikydamasis visų šiame straipsnyje nustatytų reikalavimų.
 
@@ -518,9 +518,9 @@ g) vykdomas šio įstatymo 51 straipsnyje nurodytas likvidumo atsargos reikalavi
 
 4. Jeigu visas užtikrinamasis turtas ir visi įsipareigojimai pagal padengtąsias obligacijas perduodami kitam emitentui, šio įstatymo 33 ir 63 straipsniai taikomi mutatis mutandis.
 
-\### PENKTASIS SKIRSNIS. NEMOKAUS ARBA PERTVARKOMO PADENGTŲJŲ OBLIGACIJŲ EMITENTO IR JO KREDITORIŲ TEISĖS Į UŽTIKRINAMĄJĮ TURTĄ
+PENKTASIS SKIRSNIS. NEMOKAUS ARBA PERTVARKOMO PADENGTŲJŲ OBLIGACIJŲ EMITENTO IR JO KREDITORIŲ TEISĖS Į UŽTIKRINAMĄJĮ TURTĄ
 
-\#### 42 straipsnis. Specialiojo administratoriaus, priežiūros institucijos, pertvarkymo institucijos ir nemokumo administratoriaus bendradarbiavimas
+## 42 straipsnis. Specialiojo administratoriaus, priežiūros institucijos, pertvarkymo institucijos ir nemokumo administratoriaus bendradarbiavimas
 
 1. Specialusis administratorius ir padengtųjų obligacijų emitento nemokumo administratorius privalo vienas kitam pateikti informaciją, kuri gali būti svarbi ir vykstant padengtųjų obligacijų emitento nemokumo procesui, ir specialiajam administratoriui valdant užtikrinamąjį turtą.
 
@@ -528,11 +528,11 @@ g) vykdomas šio įstatymo 51 straipsnyje nurodytas likvidumo atsargos reikalavi
 
 3. Specialusis administratorius, priežiūros institucija ir pertvarkymo institucija, atlikdami šiame įstatyme, Finansinio tvarumo įstatyme ir kituose teisės aktuose jiems nustatytas funkcijas, bendradarbiauja ir keičiasi informacija tarpusavyje.
 
-\#### 43 straipsnis. Visiškas įsipareigojimų pagal padengtąsias obligacijas įvykdymas
+## 43 straipsnis. Visiškas įsipareigojimų pagal padengtąsias obligacijas įvykdymas
 
 Specialusis administratorius turtą, likusį padengus investuotojų ir specialiųjų kreditorių reikalavimus bei veiklos išlaidas, susijusias su padengtosiomis obligacijomis, perduoda padengtųjų obligacijų emitento teises ir pareigas perėmusiam emitentui arba bankrutuojančiam, pertvarkomam ar likviduojamam padengtųjų obligacijų emitentui ar kitam subjektui, kai tai nustatyta Finansinio tvarumo įstatyme, taikant pertvarkymo priemones.
 
-\#### 44 straipsnis. Kreditorių reikalavimų tenkinimas iš nemokaus padengtųjų obligacijų emitento turto ar nemokaus padengtųjų obligacijų emitento teises ir pareigas perėmusio emitento turto
+## 44 straipsnis. Kreditorių reikalavimų tenkinimas iš nemokaus padengtųjų obligacijų emitento turto ar nemokaus padengtųjų obligacijų emitento teises ir pareigas perėmusio emitento turto
 
 1. Pradėjus padengtųjų obligacijų emitento nemokumo procesą, investuotojai ir padengtųjų obligacijų specialieji kreditoriai, įgyvendindami šio įstatymo 30 straipsnio 1 dalies 2 punkte nustatytą teisę, gali pateikti reikalavimus, nukreiptus į nemokaus emitento turtą, tik tokia apimtimi, kuri būtina reikalavimams, nepadengtiems užtikrinamuoju turtu, padengti. Ir specialusis administratorius, ir padengtųjų obligacijų emitento nemokumo administratorius turi teisę registruoti investuotojų ir padengtųjų obligacijų bendrovės specialiųjų kreditorių reikalavimus. Užregistravęs investuotojų ir specialiųjų kreditorių reikalavimus, specialusis administratorius privalo nedelsdamas šią informaciją perduoti padengtųjų obligacijų emitento nemokumo administratoriui.
 
@@ -540,9 +540,9 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 3. Specialusis administratorius informaciją apie reikalavimų sumą, nurodytą šio straipsnio 2 dalyje, ir šios sumos pagrindimo dokumentus šio straipsnio 2 dalyje nurodytiems asmenims privalo pateikti ne vėliau kaip per 45 dienas nuo padengtųjų obligacijų emitento bankroto bylos iškėlimo dienos.
 
-\### ŠEŠTASIS SKIRSNIS. UŽTIKRINAMOJO TURTO GRUPĖS SUDĖTIS IR TURTUI TAIKOMI REIKALAVIMAI
+ŠEŠTASIS SKIRSNIS. UŽTIKRINAMOJO TURTO GRUPĖS SUDĖTIS IR TURTUI TAIKOMI REIKALAVIMAI
 
-\#### 45 straipsnis. Užtikrinamojo turto grupės sudėtis
+## 45 straipsnis. Užtikrinamojo turto grupės sudėtis
 
 1. Užtikrinamojo turto grupę sudaro:
 
@@ -574,7 +574,7 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 7. Priežiūros institucija nustato taisykles dėl užtikrinamojo turto grupių sudėties. Šiose taisyklėse prireikus nustatomos sąlygos padengtąsias obligacijas leidžiančioms kredito įstaigoms vyraujantį turtą, kuriam būdingos skirtingos struktūrinės ypatybės, galiojimo laikotarpis arba rizikos profilis, įtraukti į užtikrinamojo turto grupės sudėtį.
 
-\#### 46 straipsnis. Leidžiamas užtikrinamojo turto vyraujantis turtas
+## 46 straipsnis. Leidžiamas užtikrinamojo turto vyraujantis turtas
 
 1. Užtikrinamojo turto vyraujantį turtą gali sudaryti šios turto klasės:
 
@@ -602,9 +602,9 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 8. Padengtųjų obligacijų emitentas privalo turėti nustatytas savo vidaus procedūras, pagal kurias būtų stebima, kad materialusis užstatas, kuriuo užtikrinamas šio straipsnio 1 dalyje nurodytas turtas, būtų tinkamai apdraustas nuo žalos rizikos ir kad draudimo reikalavimai būtų atskirti pagal šio įstatymo 32 straipsnio reikalavimus.
 
-\### SEPTINTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ PADENGIMO UŽTIKRINAMUOJU TURTU REIKALAVIMAI IR PAPILDOMO UŽTIKRINIMO DYDIS
+SEPTINTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ PADENGIMO UŽTIKRINAMUOJU TURTU REIKALAVIMAI IR PAPILDOMO UŽTIKRINIMO DYDIS
 
-\#### 47 straipsnis. Padengtųjų obligacijų padengimo užtikrinamuoju turtu reikalavimai
+## 47 straipsnis. Padengtųjų obligacijų padengimo užtikrinamuoju turtu reikalavimai
 
 1. Visi su padengtosiomis obligacijomis susiję įsipareigojimai turi būti padengti mokėjimo reikalavimais, susietais su užtikrinamuoju turtu.
 
@@ -648,7 +648,7 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 10. Priežiūros institucija nustato išvestinių finansinių priemonių vertinimo taisykles, kai taikomas šio straipsnio 2 dalies 3 punktas ir 3 dalies 4 punktas.
 
-\#### 48 straipsnis. Papildomas užtikrinimas
+## 48 straipsnis. Papildomas užtikrinimas
 
 1. Padengtųjų obligacijų emitentas privalo laikytis minimalaus papildomo užtikrinimo dydžio – užtikrinti, kad bendra užtikrinamojo turto, nurodyto šio įstatymo 47 straipsnio 3 dalyje, pagrindinė suma sudarytų ne mažiau kaip 105 procentus neapmokėtų padengtųjų obligacijų nominaliosios sumos (nominaliosios sumos principas). Priežiūros institucija turi teisę nustatyti kitus apskaičiavimo principus, jeigu apskaičiuojant pagal juos negaunamas didesnis padengimo turtu rodiklis, negu apskaičiuojant pagal nominaliosios sumos principą.
 
@@ -664,7 +664,7 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 7. Padengimo užtikrinamuoju turtu dydis, įskaitant papildomo užtikrinimo dydį, apskaičiuojamas laikantis šio įstatymo 47 ir 49 straipsnių nuostatų.
 
-\#### 49 straipsnis. Paskolos ir turto vertės santykis, skaičiuojant padengimo užtikrinamuoju turtu dydį
+## 49 straipsnis. Paskolos ir turto vertės santykis, skaičiuojant padengimo užtikrinamuoju turtu dydį
 
 1. Maksimalus paskolos ir turto (užstato) vertės santykis, kuriuo remiantis nustatoma paskolos dalis, įtraukiama į padengimo bei papildomo padengimo užtikrinamuoju turtu dydžio skaičiavimą: gyvenamosios paskirties turto paskoloms taikoma 70 procentų, o komercinės paskirties turto paskoloms – 60 procentų. Šis maksimalus paskolos ir turto vertės santykis taikomas visu paskolos, įtrauktos į užtikrinamąjį turtą, laikotarpiu. Skaičiuojant paskolos ir turto vertės santykį, imama užstato rinkos vertė.
 
@@ -672,9 +672,9 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 3. Turto vertės stebėsena, kaip nustatyta Reglamento (ES) Nr. 575/2013 208 straipsnio 3 dalies a punkte, atliekama bent kartą per metus, nebent padengtųjų obligacijų programoje nustatyta dažnesnė stebėsena arba prireikus dažnesnę stebėseną reikalauja atlikti užtikrinamojo turto grupės stebėtojas ar priežiūros institucija.
 
-\### AŠTUNTASIS SKIRSNIS. RIZIKŲ, SUSIJUSIŲ SU UŽTIKRINAMUOJU TURTU, MAŽINIMAS
+AŠTUNTASIS SKIRSNIS. RIZIKŲ, SUSIJUSIŲ SU UŽTIKRINAMUOJU TURTU, MAŽINIMAS
 
-\#### 50 straipsnis. Išvestinių finansinių priemonių naudojimas
+## 50 straipsnis. Išvestinių finansinių priemonių naudojimas
 
 1. Padengtųjų obligacijų emitentas, naudodamasis išvestinėmis finansinėmis priemonėmis, privalo valdyti palūkanų normos ir valiutų kursų svyravimo rizikas, susijusias su užtikrinamuoju turtu.
 
@@ -698,7 +698,7 @@ Specialusis administratorius turtą, likusį padengus investuotojų ir speciali�
 
 3. Priežiūros institucija nustato pagal padengtųjų obligacijų programas sudaromų išvestinių finansinių priemonių sandorių šalių tinkamumo kriterijus, būtinus dokumentus dėl išvestinių finansinių priemonių sandorių, sandorio šalies pakeitimo tvarką ir sąlygas, kai sumažėja šios sandorio šalies kreditingumas.
 
-\#### 51 straipsnis. Likvidumo atsarga
+## 51 straipsnis. Likvidumo atsarga
 
 1. Padengtųjų obligacijų emitentas privalo užtikrinti, kad užtikrinamojo turto grupę nuolatos sudarytų tiek likvidžiojo turto, kad jo bet kuriuo metu pakaktų artimiausių 180 dienų didžiausiam sukauptam grynajam netenkamų pinigų srautui padengti.
 
@@ -728,7 +728,7 @@ e) specialiosios paskirties pakeitimo vertybiniais popieriais bendrovė ar subje
 
 7. Likvidžiajam turtui taikomi šio įstatymo 32 straipsnyje nustatyti atskyrimo reikalavimai.
 
-\#### 52 straipsnis. Testavimas nepalankiausiomis sąlygomis
+## 52 straipsnis. Testavimas nepalankiausiomis sąlygomis
 
 1. Padengtųjų obligacijų emitentas priežiūros institucijos nustatyta tvarka bent kartą per ketvirtį privalo atlikti testavimą nepalankiausiomis sąlygomis, siekdamas nustatyti, ar susidarius finansiškai ypač nepalankioms sąlygoms užtikrinamojo turto, įskaitant papildomą užtikrinimą, pakaktų neapmokėtų padengtųjų obligacijų nominaliajai sumai padengti, kaip nustatyta šio įstatymo 48 straipsnyje.
 
@@ -748,11 +748,11 @@ e) specialiosios paskirties pakeitimo vertybiniais popieriais bendrovė ar subje
 
 3. Atliekant šio straipsnio 1 dalyje nurodytą testavimą nepalankiausiomis sąlygomis atsižvelgiama į tam tikrus riziką mažinančius veiksnius, pavyzdžiui, išvestinių finansinių priemonių sandorius ir kitus susitarimus, sudarytus siekiant sumažinti tokią riziką.
 
-\#### 53 straipsnis. Veiklos politika
+## 53 straipsnis. Veiklos politika
 
 Padengtųjų obligacijų emitentas privalo būti nusistatęs politiką ir procedūras, pagal kurias būtų nuolat visu padengtųjų obligacijų galiojimo laikotarpiu tikrinama, ar padengtųjų obligacijų bendrovė turi pakankamai likvidžiojo ir užtikrinamojo turto, atsižvelgiant į likvidžiojo ir užtikrinamojo turto pobūdį, sudėtį, minimalų papildomo užtikrinimo, įskaitant privalomą ir sutartinį papildomą užtikrinimą, jeigu jis taikomas, dydį, apskaičiuotą pagal šio įstatymo 47 straipsnį ir nurodytą 48 straipsnyje, privalomą likvidumo atsargą, kaip nurodyta šio įstatymo 51 straipsnyje, taip pat įvertinus galimas nepalankias rinkos sąlygas.
 
-\#### 54 straipsnis. Padengtųjų obligacijų išpirkimo terminų pratęsimo struktūra
+## 54 straipsnis. Padengtųjų obligacijų išpirkimo terminų pratęsimo struktūra
 
 1. Padengtųjų obligacijų emitentas gali leisti padengtųjų obligacijų emisijas, emisijos dokumentuose numatydamas išpirkimo terminų pratęsimo struktūrą, jeigu investuotojų apsauga užtikrinama šiais būdais:
 
@@ -778,9 +778,9 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 3. Priežiūros institucija nustato objektyvių padengtųjų obligacijų išpirkimo termino pratęsimo priežasčių sąrašą.
 
-\### DEVINTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ EMITENTAI IR JŲ VEIKLOS REIKALAVIMAI
+DEVINTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ EMITENTAI IR JŲ VEIKLOS REIKALAVIMAI
 
-\#### 55 straipsnis. Viešasis padengtųjų obligacijų programų sąrašas
+## 55 straipsnis. Viešasis padengtųjų obligacijų programų sąrašas
 
 1. Kredito įstaiga turi teisę išleisti padengtąsias obligacijas pagal padengtųjų obligacijų programą, jeigu ši programa yra įtraukta į viešąjį padengtųjų obligacijų programų sąrašą. Viešąjį padengtųjų obligacijų programų sąrašą tvarko priežiūros institucija.
 
@@ -790,7 +790,7 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 4. Priežiūros institucija Europos bankininkystės institucijai kasmet pateikia sąrašus kredito įstaigų, kurių padengtųjų obligacijų programos įtrauktos į viešąjį padengtųjų obligacijų programų sąrašą. Kartu pateikiama informacija apie tai, kurios padengtosios obligacijos bus žymimos terminais „Europos padengtoji obligacija“, „Europos padengtoji obligacija (aukščiausioji rūšis)“ ar kitais žodžių junginiais su šiais terminais.
 
-\#### 56 straipsnis. Prašymas įtraukti į viešąjį padengtųjų obligacijų programų sąrašą ir išbraukimas iš jo
+## 56 straipsnis. Prašymas įtraukti į viešąjį padengtųjų obligacijų programų sąrašą ir išbraukimas iš jo
 
 1. Kredito įstaiga, ketinanti išleisti padengtųjų obligacijų emisiją pagal programą, kuri nėra įtraukta į viešąjį padengtųjų obligacijų programų sąrašą, turi kreiptis į priežiūros instituciją, prašydama įtraukti padengtųjų obligacijų programą į viešąjį padengtųjų obligacijų programų sąrašą.
 
@@ -834,7 +834,7 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 9. Priežiūros institucija išbraukia padengtųjų obligacijų programą iš viešojo padengtųjų obligacijų programų sąrašo tik pasibaigus visoms emisijoms, išleistoms pagal šią padengtųjų obligacijų programą.
 
-\#### 57 straipsnis. Padengtųjų obligacijų emitento pakeitimas
+## 57 straipsnis. Padengtųjų obligacijų emitento pakeitimas
 
 1. Padengtųjų obligacijų emitentas turi teisę perleisti visas teises ir pareigas, susijusias su padengtosiomis obligacijomis, įskaitant teises ir pareigas, susijusias su išvestinių finansinių priemonių sandoriais, kitam padengtųjų obligacijų emitentui, gavusiam išankstinį priežiūros institucijos sutikimą priežiūros institucijos nustatyta tvarka. Padengtųjų obligacijų emitentas privalo užtikrinti, kad sutartys, pagal kurias sudaromi išvestinių finansinių priemonių sandoriai, neribotų šioje dalyje nustatytos teisės perleisti teises ir pareigas, susijusias su išvestinių finansinių priemonių sandoriais, kitam padengtųjų obligacijų emitentui.
 
@@ -854,9 +854,9 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 7. Kredito įstaiga, perėmusi padengtųjų obligacijų emitento teises ir pareigas pagal šio straipsnio 1 dalį, yra laikoma tokių padengtųjų obligacijų emitentu.
 
-\### DEŠIMTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ EMITENTO VEIKLA
+DEŠIMTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ EMITENTO VEIKLA
 
-\#### 58 straipsnis. Padengtųjų obligacijų emitento pareigos
+## 58 straipsnis. Padengtųjų obligacijų emitento pareigos
 
 1. Padengtųjų obligacijų emitentas, išleidęs padengtąsias obligacijas, gautas lėšas paskolina padengtųjų obligacijų bendrovei užtikrinamajam turtui įsigyti, vadovaudamasis šio įstatymo 7 straipsniu. Tokiu atveju šio įstatymo 7 straipsnis taikomas mutatis mutandis.
 
@@ -866,7 +866,7 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 4. Padengtųjų obligacijų emitentas privalo registruoti visus savo sandorius, susijusius su padengtųjų obligacijų programa, ir turėti pakankamas ir tinkamas dokumentavimo sistemas ir procesus.
 
-\#### 59 straipsnis. Atskaitomybės reikalavimai
+## 59 straipsnis. Atskaitomybės reikalavimai
 
 1. Padengtųjų obligacijų emitentas privalo priežiūros institucijai jos nustatyta tvarka teikti įsipareigojimų pagal šį įstatymą laikymosi ataskaitas, kuriose teikiama informacija apie:
 
@@ -886,13 +886,13 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 2. Padengtųjų obligacijų emitentas privalo, vadovaudamasis teisės aktuose, reglamentuojančiuose atskaitomybę, nustatytais terminais, pateikti priežiūros institucijai padengtųjų obligacijų bendrovės metinių finansinių ataskaitų rinkinį kartu su metiniu pranešimu ir auditoriaus išvadą, jeigu auditas privalomas pagal įstatymus ar numatytas padengtųjų obligacijų bendrovės įstatuose.
 
-\#### 60 straipsnis. Informavimo pareiga
+## 60 straipsnis. Informavimo pareiga
 
 1. Padengtųjų obligacijų emitentas privalo nedelsdamas informuoti priežiūros instituciją, jeigu kuriuo nors metu užtikrinamasis turtas neatitinka arba gali neatitikti šio įstatymo 33 straipsnyje nustatytų reikalavimų.
 
 2. Priežiūros institucija nustato informacijos, teikiamos pagal šio straipsnio 1 dalį, pateikimo formą ir būdus.
 
-\#### 61 straipsnis. Veiklos tęstinumo planas
+## 61 straipsnis. Veiklos tęstinumo planas
 
 1. Padengtųjų obligacijų emitentas privalo turėti veiklos tęstinumo planą, kuriame nustatomos procedūros, kurias vykdant užtikrinamas sklandus perėjimas užtikrinamojo turto valdymą perduodant specialiajam administratoriui ir tinkamas padengtųjų obligacijų programos veikimas pertvarkant padengtųjų obligacijų emitentą.
 
@@ -900,7 +900,7 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 3. Priežiūros institucija detalizuoja veiklos tęstinumo plano reikalavimus.
 
-\#### 62 straipsnis. Vienašalis padengtųjų obligacijų sutarties sąlygų pakeitimas
+## 62 straipsnis. Vienašalis padengtųjų obligacijų sutarties sąlygų pakeitimas
 
 1. Padengtųjų obligacijų emitentas turi teisę vienašališkai pakeisti padengtųjų obligacijų sutarties sąlygas tik gavęs išankstinį priežiūros institucijos sutikimą. Priežiūros institucija nustato informacijos apie siūlomą vienašališką padengtųjų obligacijų sutarties sąlygų pakeitimą pateikimo būdą, terminus, formą, apimtį ir kitus reikalavimus. Keičiant informaciją padengtųjų obligacijų emisijos dokumente papildomai taikomos vertybinių popierių rinką reglamentuojančių teisės aktų nuostatos.
 
@@ -912,9 +912,9 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 2) galima daryti išvadą, kad numatomas vienašališkas padengtųjų obligacijų sutartyje nustatytų sąlygų pakeitimas gali turėti neigiamą įtaką investuotojų interesams arba (ir) trukdyti padengtųjų obligacijų emitentui arba padengtųjų obligacijų bendrovei laikytis šiame įstatyme nustatytų reikalavimų.
 
-\### VIENUOLIKTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ UŽTIKRINAMOJO TURTO GRUPĖS STEBĖJIMAS
+VIENUOLIKTASIS SKIRSNIS. PADENGTŲJŲ OBLIGACIJŲ UŽTIKRINAMOJO TURTO GRUPĖS STEBĖJIMAS
 
-\#### 63 straipsnis. Užtikrinamojo turto grupės stebėtojo paskyrimas
+## 63 straipsnis. Užtikrinamojo turto grupės stebėtojo paskyrimas
 
 1. Padengtųjų obligacijų emitentas privalo paskirti nepriklausomą nuo padengtųjų obligacijų emitento ir nuo jo auditoriaus užtikrinamojo turto grupės stebėtoją. Užtikrinamojo turto grupės stebėtoją skiria ir atšaukia padengtųjų obligacijų emitentas.
 
@@ -924,11 +924,11 @@ c) priežiūros institucijos ir specialiojo administratoriaus teises ir pareigas
 
 4. Paskyrus specialųjį administratorių, užtikrinamojo turto grupės stebėtojas perleidžia savo funkcijas specialiajam administratoriui šio įstatymo pagrindu.
 
-\#### 64 straipsnis. Sutartis su užtikrinamojo turto grupės stebėtoju
+## 64 straipsnis. Sutartis su užtikrinamojo turto grupės stebėtoju
 
 Padengtųjų obligacijų emitentas iki padengtųjų obligacijų emisijos išleidimo privalo užtikrinti, kad su užtikrinamojo turto grupės stebėtoju būtų sudaryta sutartis dėl užtikrinamojo turto grupės stebėjimo ir priežiūros.
 
-\#### 65 straipsnis. Užtikrinamojo turto grupės stebėtojo funkcijos, teisės ir pareigos
+## 65 straipsnis. Užtikrinamojo turto grupės stebėtojo funkcijos, teisės ir pareigos
 
 1. Užtikrinamojo turto grupės stebėtojas atlieka šias funkcijas:
 
@@ -950,9 +950,9 @@ Padengtųjų obligacijų emitentas iki padengtųjų obligacijų emisijos išleid
 
 6. Jeigu padengtųjų obligacijų emitentas nepateikia užtikrinamojo turto grupės stebėtojui visos informacijos ir paaiškinimų, kuriuos pastarasis turi teisę gauti pagal šį įstatymą, užtikrinamojo turto grupės stebėtojas nedelsdamas apie tokį faktą informuoja priežiūros instituciją.
 
-\### DVYLIKTASIS SKIRSNIS. INFORMACIJOS TEIKIMAS INVESTUOTOJAMS
+DVYLIKTASIS SKIRSNIS. INFORMACIJOS TEIKIMAS INVESTUOTOJAMS
 
-\#### 66 straipsnis. Padengtųjų obligacijų emitento pareiga teikti informaciją investuotojams
+## 66 straipsnis. Padengtųjų obligacijų emitento pareiga teikti informaciją investuotojams
 
 1. Padengtųjų obligacijų emitentas privalo investuotojams pateikti tiek informacijos, kad jie galėtų įvertinti padengtųjų obligacijų programos pobūdį ir visas su investavimu susijusias rizikas, taip pat atlikti išsamų patikrinimą.
 
@@ -984,11 +984,11 @@ Padengtųjų obligacijų emitentas iki padengtųjų obligacijų emisijos išleid
 
 3. Priežiūros institucija nereikalauja, kad padengtųjų obligacijų emitentas skelbtų šio straipsnio 1 ir 2 dalyse nurodytą informaciją popierine forma.
 
-\## IV SKYRIUS. SPECIALIOSIOS PASKIRTIES BENDROVIŲ VEIKLA
+IV SKYRIUS. SPECIALIOSIOS PASKIRTIES BENDROVIŲ VEIKLA
 
-\### PIRMASIS SKIRSNIS. SPECIALIOSIOS PASKIRTIES BENDROVĖS STEIGIMAS IR VEIKLOS REIKALAVIMAI
+PIRMASIS SKIRSNIS. SPECIALIOSIOS PASKIRTIES BENDROVĖS STEIGIMAS IR VEIKLOS REIKALAVIMAI
 
-\#### 67 straipsnis. Specialiosios paskirties bendrovių steigimas ir skolininkų teisės ir pareigos
+## 67 straipsnis. Specialiosios paskirties bendrovių steigimas ir skolininkų teisės ir pareigos
 
 1. Specialiosios paskirties bendrovės teisinė forma gali būti tik akcinė bendrovė arba uždaroji akcinė bendrovė.
 
@@ -1004,7 +1004,7 @@ Padengtųjų obligacijų emitentas iki padengtųjų obligacijų emisijos išleid
 
 7. Skolininkai, sudarę vartojimo kredito sutartis arba su nekilnojamuoju turtu susijusio kredito sutartis, turi visas teises ir pareigas pagal Vartojimo kredito įstatymą arba Su nekilnojamuoju turtu susijusio kredito įstatymą, neatsižvelgiant į tai, kad reikalavimo teisės yra įtrauktos į užtikrinamąjį turtą.
 
-\#### 68 straipsnis. Specialiosios paskirties bendrovės veiklos apribojimas
+## 68 straipsnis. Specialiosios paskirties bendrovės veiklos apribojimas
 
 1. Specialiosios paskirties bendrovei užtikrinamasis turtas priklauso nuosavybės teise ir ji gali vykdyti tik šio straipsnio 2 ir 3 dalyse nurodytą veiklą.
 
@@ -1014,11 +1014,11 @@ Padengtųjų obligacijų emitentas iki padengtųjų obligacijų emisijos išleid
 
 4. Specialiosios paskirties bendrovė turi teisę naudoti užtikrinamąjį turtą, tiesiogiai ar netiesiogiai prisiimti įsipareigojimus, jeigu tokie sandoriai yra susiję su pakeitimo vertybiniais popieriais ar padengtųjų obligacijų sandoriu ir yra sudaromi užtikrinamojo turto ir investuotojų naudai ir interesais. Specialiosios paskirties bendrovė negali naudoti užtikrinamojo turto ir tiesiogiai ar netiesiogiai prisiimti įsipareigojimų kitu nei šiame straipsnyje nustatytu tikslu.
 
-\#### 69 straipsnis. Specialiosios paskirties bendrovės metinis pranešimas
+## 69 straipsnis. Specialiosios paskirties bendrovės metinis pranešimas
 
 Specialiosios paskirties bendrovės metiniame pranešime, be kita ko, turi būti pateikiama visa informacija apie specialiosios paskirties bendrovės finansinę padėtį, kuri gali turėti įtakos specialiosios paskirties bendrovės tinkamam įsipareigojimų investuotojams vykdymui.
 
-\#### 70 straipsnis. Komercinė paslaptis
+## 70 straipsnis. Komercinė paslaptis
 
 1. Specialiosios paskirties bendrovė privalo saugoti komercinę paslaptį ir visą informaciją, gautą vykdant pakeitimo vertybiniais popieriais arba padengtųjų obligacijų sandorį, privalo laikyti konfidencialia. Ši informacija gali būti teikiama užtikrinamojo turto grupės stebėtojui, specialiajam administratoriui, auditoriams ar kitiems asmenims, kurie teikia paslaugas, susijusias su užtikrinamuoju turtu, jeigu yra pasirašyti susitarimai dėl konfidencialumo laikymosi.
 
@@ -1028,9 +1028,9 @@ Specialiosios paskirties bendrovės metiniame pranešime, be kita ko, turi būti
 
 4. Kai užtikrinamasis turtas perleidžiamas trečiojoje valstybėje įsteigtam subjektui, šiame straipsnyje minėtos konfidencialios informacijos apsauga nustatoma užtikrinamojo turto pardavėjo ir trečiojoje valstybėje įsteigto subjekto rašytiniu susitarimu.
 
-\### ANTRASIS SKIRSNIS. SPECIALIOSIOS PASKIRTIES BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
+ANTRASIS SKIRSNIS. SPECIALIOSIOS PASKIRTIES BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
-\#### 71 straipsnis. Specialiosios paskirties bendrovės reorganizavimas ir pertvarkymas
+## 71 straipsnis. Specialiosios paskirties bendrovės reorganizavimas ir pertvarkymas
 
 Specialiosios paskirties bendrovė gali būti reorganizuojama arba pertvarkoma į kitos formos juridinį asmenį tik po to, kai:
 
@@ -1040,7 +1040,7 @@ Specialiosios paskirties bendrovė gali būti reorganizuojama arba pertvarkoma �
 
 3) pasibaigia padengtųjų obligacijų bendrovės įsipareigojimai pagal išduotą garantiją.
 
-\#### 72 straipsnis. Specialiosios paskirties bendrovės likvidavimas
+## 72 straipsnis. Specialiosios paskirties bendrovės likvidavimas
 
 1. Specialiosios paskirties bendrovė gali būti likviduojama tik patenkinus bent vieną šio įstatymo 71 straipsnyje nurodytą sąlygą.
 
@@ -1048,31 +1048,31 @@ Specialiosios paskirties bendrovė gali būti reorganizuojama arba pertvarkoma �
 
 3. Specialiosios paskirties bendrovės likvidatoriumi gali būti skiriamas taip pat ir pakeitimo vertybiniais popieriais bendrovės patikėtinis arba padengtųjų obligacijų bendrovės specialusis administratorius.
 
-\### TREČIASIS SKIRSNIS. SPECIALIOSIOS PASKIRTIES BENDROVĖS NEMOKUMO PROCESAS
+TREČIASIS SKIRSNIS. SPECIALIOSIOS PASKIRTIES BENDROVĖS NEMOKUMO PROCESAS
 
-\#### 73 straipsnis. Padengtųjų obligacijų bendrovės nemokumo procesas
+## 73 straipsnis. Padengtųjų obligacijų bendrovės nemokumo procesas
 
 Padengtųjų obligacijų bendrovės nemokumo procesas negali būti inicijuojamas, kol yra neapmokėtų padengtųjų obligacijų, išskyrus atvejį, kai prašymą teismui pradėti padengtųjų obligacijų bendrovės nemokumo procesą teikia priežiūros institucija.
 
-\#### 74 straipsnis. Specialiosios paskirties bendrovės nemokumo administratorius
+## 74 straipsnis. Specialiosios paskirties bendrovės nemokumo administratorius
 
 1. Teismas priežiūros institucijos prašymu padengtųjų obligacijų bendrovės specialųjį administratorių skiria šios padengtųjų obligacijų bendrovės nemokumo administratoriumi, nebent, teismo vertinimu, tai gali pakenkti investuotojų ar specialiųjų kreditorių interesams.
 
 2. Jeigu patikėtinis yra asmuo, kuris pagal Juridinių asmenų nemokumo įstatymo reikalavimus gali būti skiriamas nemokumo administratoriumi, teismas gali jį paskirti pakeitimo vertybiniais popieriais bendrovės nemokumo administratoriumi, nebent, teismo vertinimu, tai gali pakenkti investuotojų ar specialiųjų kreditorių interesams.
 
-\## V SKYRIUS. APSAUGA VYKSTANT NEMOKUMO, PERTVARKYMO IR (ARBA) VEIKLOS APRIBOJIMO (MORATORIUMO) PROCESAMS
+V SKYRIUS. APSAUGA VYKSTANT NEMOKUMO, PERTVARKYMO IR (ARBA) VEIKLOS APRIBOJIMO (MORATORIUMO) PROCESAMS
 
-\#### 75 straipsnis. Mokėjimo prievolių vykdymas
+## 75 straipsnis. Mokėjimo prievolių vykdymas
 
 Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apribojimo (moratoriumo) procesui, teisės aktuose nustatyti ribojimai dėl padengtųjų obligacijų emitento finansinių prievolių vykdymo netaikomi padengtosioms obligacijoms ir užtikrinamajam turtui, įskaitant su tuo susijusius ribojimus dėl palūkanų, delspinigių ir pagrindinės sumos apskaičiavimo ir išmokėjimo.
 
-\#### 76 straipsnis. Sandorių apsauga
+## 76 straipsnis. Sandorių apsauga
 
 1. Nei padengtųjų obligacijų užtikrinamojo turto formuotojo ar padengtųjų obligacijų emitento nemokumo administratorius, nei padengtųjų obligacijų užtikrinamojo turto formuotojo ar padengtųjų obligacijų emitento kreditoriai, išskyrus investuotojus arba specialiuosius kreditorius, neturi teisės priimti sprendimų, darančių įtaką padengtųjų obligacijų emitento susitarimų, perleistų specialiajam administratoriui ir susijusių su padengtosiomis obligacijomis, tolesniam vykdymui.
 
 2. Turto pateikimas padengtųjų obligacijų bendrovei ar įtraukimas į užtikrinamąjį turtą bei kiti sandoriai, susiję su užtikrinamuoju turtu ir padengtosiomis obligacijomis, negali būti laikomi negaliojančiais ar pripažinti negaliojančiais, ar panaikinti dėl to, kad turtas pateikiamas padengtųjų obligacijų bendrovei arba įtraukiamas į užtikrinamąjį turtą ar atitinkamas sandoris, susijęs su užtikrinamuoju turtu ir padengtosiomis obligacijomis, sudaromas padengtųjų obligacijų užtikrinamojo turto formuotojo ar padengtųjų obligacijų emitento nemokumo procedūros ar pertvarkymo priemonių taikymo pradžios dieną, bet priėmus sprendimą dėl nemokumo procedūros ar pertvarkymo priemonių.
 
-\#### 77 straipsnis. Užtikrinamojo turto apsauga
+## 77 straipsnis. Užtikrinamojo turto apsauga
 
 1. Padengtųjų obligacijų užtikrinamojo turto formuotojo ar padengtųjų obligacijų emitento nemokumo arba pertvarkymo atveju jų kreditoriai neturi teisės priimti jokių sprendimų dėl užtikrinamojo turto, o padengtųjų obligacijų investuotojai ir specialieji kreditoriai turi tiek teisių, kiek nustatyta padengtųjų obligacijų emisijos sąlygose.
 
@@ -1080,7 +1080,7 @@ Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apri
 
 3. Iš užtikrinamojo turto negali būti išskaičiuojami jokie padengtųjų obligacijų užtikrinamojo turto formuotojo ar padengtųjų obligacijų emitento administravimo, nemokumo, pertvarkymo, likvidavimo ar kito panašaus proceso mokėjimai ar susijusios išlaidos.
 
-\#### 78 straipsnis. Apsauga nuo priverstinio išieškojimo ir arešto
+## 78 straipsnis. Apsauga nuo priverstinio išieškojimo ir arešto
 
 1. Tik investuotojai į pakeitimo vertybiniais popieriais metu išleistus vertybinius popierius ir specialieji kreditoriai gali inicijuoti užtikrinamojo turto areštą ar nukreipti išieškojimą į užtikrinamąjį turtą, kuriuo apmokami su pakeitimo vertybiniais popieriais metu išleistais vertybiniais popieriais susiję įsipareigojimai investuotojams į pakeitimo vertybiniais popieriais metu išleistus vertybinius popierius ir specialiesiems kreditoriams.
 
@@ -1088,11 +1088,11 @@ Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apri
 
 3. Užtikrinamojo turto areštas ir išieškojimo nukreipimas į jį pagal kitų asmenų reikalavimus, nei nurodyta šio straipsnio 1 ir 2 dalyse, negalimas.
 
-\## VI SKYRIUS. PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+VI SKYRIUS. PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
-\### PIRMASIS SKIRSNIS. PRIEŽIŪRA
+PIRMASIS SKIRSNIS. PRIEŽIŪRA
 
-\#### 79 straipsnis. Priežiūros institucija
+## 79 straipsnis. Priežiūros institucija
 
 1. Priežiūros institucija yra Lietuvos bankas. Vadovaudamasis Lietuvos banko įstatymu, šiuo įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, Lietuvos bankas šio įstatymo priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas tai nėra pavesta Europos Centriniam Bankui.
 
@@ -1100,7 +1100,7 @@ Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apri
 
 3. Kitų valstybių narių priežiūros institucijų prašymu priežiūros institucija teikia visą svarbią informaciją, jeigu ji reikalinga jų funkcijoms atlikti. Savo iniciatyva priežiūros institucija kitų valstybių narių priežiūros institucijoms teikia visą būtiną informaciją. Informacija laikoma būtina, jeigu ji gali daryti reikšmingą įtaką vertinant padengtųjų obligacijų emisiją kitoje valstybėje narėje.
 
-\#### 80 straipsnis. Priežiūros institucijos funkcijos
+## 80 straipsnis. Priežiūros institucijos funkcijos
 
 1. Priežiūros institucija atlieka šias funkcijas:
 
@@ -1114,7 +1114,7 @@ Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apri
 
 2. Priežiūros institucija savo interneto svetainėje skelbia ir nuolat atnaujina su padengtųjų obligacijų emisijomis susijusius teisės aktus ir rekomendacijas. Skelbiamos informacijos turi pakakti, kad būtų galima palyginti priežiūros institucijos ir kitų valstybių narių priežiūros institucijų padengtosioms obligacijoms taikomus reikalavimus.
 
-\#### 81 straipsnis. Priežiūros institucijos teisės atliekant jai pavestas funkcijas
+## 81 straipsnis. Priežiūros institucijos teisės atliekant jai pavestas funkcijas
 
 1. Priežiūros institucija, be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta jos kompetencijai, nustatytų pareigų ir teisių, atlikdama jai pavestas funkcijas, turi teisę:
 
@@ -1152,7 +1152,7 @@ Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apri
 
 3. Šio straipsnio 2 dalyje nustatyti privalomi nurodymai gali būti duodami kartu taikant ir poveikio priemones. Asmenys, kuriems duoti privalomi nurodymai, privalo juos vykdyti priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną įvykdę nurodymą, apie tai raštu pranešti priežiūros institucijai.
 
-\#### 82 straipsnis. Priežiūros institucijos teisės nagrinėjant teisės aktų pažeidimus
+## 82 straipsnis. Priežiūros institucijos teisės nagrinėjant teisės aktų pažeidimus
 
 1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 2017/2402 ir jo įgyvendinamųjų teisės aktų reikalavimų.
 
@@ -1160,13 +1160,13 @@ Vykstant padengtųjų obligacijų emitento nemokumo, pertvarkymo ar veiklos apri
 
 3. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
 
-\#### 83 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+## 83 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
 
-\### ANTRASIS SKIRSNIS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+ANTRASIS SKIRSNIS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
-\#### 84 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
+## 84 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
 
 1. Priežiūros institucija taiko šias poveikio priemones:
 
@@ -1186,7 +1186,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 4. Priežiūros institucija informaciją apie pritaikytas poveikio priemones, apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus pateikia Europos bankininkystės institucijai.
 
-\#### 85 straipsnis. Poveikio priemonių taikymo pagrindai
+## 85 straipsnis. Poveikio priemonių taikymo pagrindai
 
 Šiame įstatyme nustatytos poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių pagrindų:
 
@@ -1226,7 +1226,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 18) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
 
-\#### 86 straipsnis. Piniginės baudos
+## 86 straipsnis. Piniginės baudos
 
 1. Priežiūros institucija skiria šias pinigines baudas:
 
@@ -1242,9 +1242,9 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 5. Baudos dydis apskaičiuojamas vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
 
-\## VII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 87 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 87 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2022 m. liepos 22 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4D8160DD444A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4D8160DD444A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo ir papildymo įstatymas
@@ -26,19 +26,19 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. Pajamų padidinimas
+## 1 straipsnis. Pajamų padidinimas
 
 Įskaityti į valstybės biudžeto pajamas 1995 metų valstybės biudžeto nepanaudotų lėšų likutį – 17 429 tūkst. litų.
 
-\#### 2 straipsnis. Asignavimų padidinimas
+## 2 straipsnis. Asignavimų padidinimas
 
 Skirti Finansų ministerijai 64 234 tūkst. litų valstybės investicijoms į reorganizuojamą AB „Aurabankas“.
 
-\#### 3 straipsnis. Biudžeto deficito padidinimas
+## 3 straipsnis. Biudžeto deficito padidinimas
 
 Padidinti 1996 m. valstybės biudžeto deficitą 46 805 tūkst. litų ir suteikti Lietuvos Respublikos Vyriausybei teisę papildomai išleisti valstybės vertybinių popierių.
 
-\#### 4 straipsnis. Įstatymo 1 ir 5 straipsnių, taip pat 1 ir 3 priedėlių pakeitimas
+## 4 straipsnis. Įstatymo 1 ir 5 straipsnių, taip pat 1 ir 3 priedėlių pakeitimas
 
 1. Pakeisti 1 straipsnio pirmąją dalį ir ją išdėstyti taip:
 
@@ -64,45 +64,31 @@ Vyriausybės rezervo fondo lėšas naudoti ir nepaprastosioms išlaidoms. Teikti
 
 „**NEMOKESTINĖS PAJAMOS**
 
-\| Lietuvos banko likutinis pelnas | 6000 |
-
-\| --- | --- |
-
-\| Mokestis už valstybinius gamtos išteklius | 30442 |
-
-\| Palūkanos už valstybinio kapitalo naudojimą | 4952 |
-
-\| Dividendai už akcijas | 7500 |
-
-\| Pajamos iš baudų ir konfiskacijų | 16079 |
-
-\| Mokestis už aplinkos teršimą | 16741 |
-
-\| Kitos | 58230 |
-
-\| IŠ VISO | 4860444“ |
+| Lietuvos banko likutinis pelnas | 6000 |
+| --- | --- |
+| Mokestis už valstybinius gamtos išteklius | 30442 |
+| Palūkanos už valstybinio kapitalo naudojimą | 4952 |
+| Dividendai už akcijas | 7500 |
+| Pajamos iš baudų ir konfiskacijų | 16079 |
+| Mokestis už aplinkos teršimą | 16741 |
+| Kitos | 58230 |
+| IŠ VISO | 4860444“ |
 
 2) išlaidų dalyje skirsnyje „VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos“ po eilutės „Vyriausybės rezervo fondas“ įrašyti eilutę
 
-\| „Valstybės investicijos į reorganizuojamą AB „Aurabankas“ (Finansų ministerija) | 64234 | 64234“, |
-
-\| --- | --- | --- |
+| „Valstybės investicijos į reorganizuojamą AB „Aurabankas“ (Finansų ministerija) | 64234 | 64234“, |
+| --- | --- | --- |
 
 eilutėse „Iš viso“ vietoj skaičiaus „4947438“ įrašyti skaičių „5011672“, vietoj skaičiaus „4177759“ įrašyti skaičių „4241993“, vietoj skaičiaus „5498055“ įrašyti skaičių „5562289“, vietoj skaičiaus „4728376“ įrašyti skaičių „4792610“, eilutėje „Išlaidos viršija pajamas“ vietoj skaičiaus „655040“ įrašyti skaičių „701845“ ir šios dalies pabaigą išdėstyti taip:
 
-\| „Vyriausybės rezervo fondas Valstybės investicijos į reorganizuojamą AB „Aurabankas“ (Finansų ministerija) | 57600 64234 | 57600 64234 | | |
+| „Vyriausybės rezervo fondas Valstybės investicijos į reorganizuojamą AB „Aurabankas“ (Finansų ministerija) | 57600 64234 | 57600 64234 |  |  |
+| --- | --- | --- | --- | --- |
+| IŠ VISO | 5011672 | 4241993 | 1314140 | 769679 |
 
-\| --- | --- | --- | --- | --- |
-
-\| IŠ VISO | 5011672 | 4241993 | 1314140 | 769679 |
-
-\| Perduota dotacija savivaldybėms | 550617 | 550617 | | |
-
-\| --- | --- | --- | --- | --- |
-
-\| IŠ VISO | 5562289 | 4792610 | 1314140 | 769679 |
-
-\| Išlaidos viršija pajamas | 701845“ | | | |
+| Perduota dotacija savivaldybėms | 550617 | 550617 |  |  |
+| --- | --- | --- | --- | --- |
+| IŠ VISO | 5562289 | 4792610 | 1314140 | 769679 |
+| Išlaidos viršija pajamas | 701845“ |  |  |  |
 
 4. Pakeisti 3 priedėlį – eilutėje „Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija“ vietoj skaičiaus „546189“ įrašyti skaičių „535189“, vietoj skaičiaus „231901“ įrašyti skaičių „242901“, eilutėje „Išlaidos, nepriskirtos pagrindinių funkcijų grupėms“ vietoj skaičiaus „992721“ įrašyti skaičių „1056955“, vietoj skaičiaus „975984“ įrašyti skaičių „1040218“, eilutėje „Iš viso“ vietoj skaičiaus „5498055“ įrašyti skaičių „5562289“, vietoj skaičiaus „4728376“ įrašyti skaičių „4781610“, vietoj skaičiaus „769679“ įrašyti skaičių „780679“ ir visą priedėlį išdėstyti taip:
 
@@ -110,41 +96,24 @@ eilutėse „Iš viso“ vietoj skaičiaus „4947438“ įrašyti skaičių „
 
 tūkst. Lt
 
-\| Pavadinimas | Iš viso | Iš jų paprastosios išlaidos | nepapras tosios išlaidos | |
-
-\| --- | --- | --- | --- | --- |
-
-\| iš viso | iš jų darbo užmokestis | | | |
-
-\| Bendras valstybės valdymas | 504529 | 415849 | 220654 | 88680 |
-
-\| Krašto apsauga | 191932 | 173610 | 76715 | 18322 |
-
-\| Viešoji tvarka ir visuomenės apsauga | 896973 | 773057 | 433671 | 123916 |
-
-\| Švietimas | 632616 | 582863 | 264836 | 49753 |
-
-\| Sveikatos apsauga | 449611 | 429216 | 182515 | 20395 |
-
-\| Socialinė apsauga, globa ir rūpyba | 463724 | 436365 | 19967 | 27359 |
-
-\| Butų ir komunalinis ūkis | 572 | 542 | 301 | 30 |
-
-\| Sveikatingumas (sportas), rekreacija, kultūra | 204819 | 171531 | 37040 | 33288 |
-
-\| Kuro ir energijos tiekimo paslaugos | 161029 | 87847 | 2055 | 73182 |
-
-\| Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija | 778090 | 535189 | 44738 | 242901 |
-
-\| Mineralinių išteklių gavyba (išskyrus kurą), pramonė ir statyba | 44243 | 23055 | 4394 | 21188 |
-
-\| Transportas ir ryšiai | 129777 | 67272 | 2270 | 62505 |
-
-\| Kita ekonominė veikla | 47419 | 44996 | 18510 | 2423 |
-
-\| Išlaidos, nepriskirtos pagrindinių funkcijų grupėms | 1056955 | 1040218 | 6834 | 16737 |
-
-\| IŠ VISO | 5562289 | 4781610 | 1314140 | 780679“ |
+| Pavadinimas | Iš viso | Iš jų paprastosios išlaidos | nepapras tosios išlaidos |  |
+| --- | --- | --- | --- | --- |
+| iš viso | iš jų darbo užmokestis |  |  |  |
+| Bendras valstybės valdymas | 504529 | 415849 | 220654 | 88680 |
+| Krašto apsauga | 191932 | 173610 | 76715 | 18322 |
+| Viešoji tvarka ir visuomenės apsauga | 896973 | 773057 | 433671 | 123916 |
+| Švietimas | 632616 | 582863 | 264836 | 49753 |
+| Sveikatos apsauga | 449611 | 429216 | 182515 | 20395 |
+| Socialinė apsauga, globa ir rūpyba | 463724 | 436365 | 19967 | 27359 |
+| Butų ir komunalinis ūkis | 572 | 542 | 301 | 30 |
+| Sveikatingumas (sportas), rekreacija, kultūra | 204819 | 171531 | 37040 | 33288 |
+| Kuro ir energijos tiekimo paslaugos | 161029 | 87847 | 2055 | 73182 |
+| Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija | 778090 | 535189 | 44738 | 242901 |
+| Mineralinių išteklių gavyba (išskyrus kurą), pramonė ir statyba | 44243 | 23055 | 4394 | 21188 |
+| Transportas ir ryšiai | 129777 | 67272 | 2270 | 62505 |
+| Kita ekonominė veikla | 47419 | 44996 | 18510 | 2423 |
+| Išlaidos, nepriskirtos pagrindinių funkcijų grupėms | 1056955 | 1040218 | 6834 | 16737 |
+| IŠ VISO | 5562289 | 4781610 | 1314140 | 780679“ |
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 

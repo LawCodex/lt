@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B39D88068B20"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B39D88068B20.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 10, 33, 85, 92 ir 93 straipsnių pakeitimo ir papildymo įstatymas
@@ -32,7 +32,7 @@ Vilnius
 
 2009, Nr. [93-3986](https://www.e-tar.lt/portal/lt/legalAct/TAR.BDE2B4AF963D); 2010, Nr. [25-1174](https://www.e-tar.lt/portal/lt/legalAct/TAR.A91EE63FD1A6); 2011, Nr. [2-36](https://www.e-tar.lt/portal/lt/legalAct/TAR.E02E9F9B4BC7))
 
-\#### 1 straipsnis. 10 straipsnio 1 dalies 1, 4 ir 8 punktų pakeitimas
+## 1 straipsnis. 10 straipsnio 1 dalies 1, 4 ir 8 punktų pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „8) pirkimams, kuriems taikomas Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas ir kuriems Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas netaikomas vadovaujantis jo 3 straipsnio nuostatomis.“
 
-\#### 2 straipsnis. 33 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 33 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 33 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -60,25 +60,25 @@ Vilnius
 
 „5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalyje ir 2 dalies 1, 2 ar 3 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.“
 
-\#### 3 straipsnis. 85 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 85 straipsnio 1 dalies pakeitimas
 
 Pakeisti 85 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Perkančioji organizacija, išskyrus šio straipsnio 5 dalyje nurodytas organizacijas,atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus, 24 straipsnio 2 dalies 5, 9, 23punktų, 3 ir 5 dalių (išskyrus neskelbiamą pirkimą, kai pateikti pasiūlymą kviečiamas tik vienas tiekėjas, jeigu perkančioji organizacija mano, kad tokia informacija yra nereikalinga), 27 straipsnio 1 dalies,40 straipsnio, 41 straipsnio 1 dalies, IV ir V skyrių reikalavimais (atlikdama mažos vertės pirkimus, neprivalo vadovautis šio įstatymo 17 straipsnio 1, 2, 5, 7, 8 dalių, 18 straipsnio 1, 2, 3, 6 dalių, 24 straipsnio 2 dalies 5, 9, 23 punktų, 3 ir 5 dalių, 27 straipsnio 1 dalies, 40 straipsnioreikalavimais).“
 
-\#### 4 straipsnis. 92 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 92 straipsnio 2 dalies pakeitimas
 
 Pakeisti 92 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Perkančioji organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš šio straipsnio 3**–**7 dalyse nurodytų sąlygų. Atlikdama supaprastintą neskelbiamą pirkimą šio straipsnio 3 dalies 1, 2, 6 punktuose, 4 dalies 1 punkte, 5 dalies 1, 2, 4, 5 punktuose, 6 dalies 1, 5 punktuose, 7 dalies 1 punkte nurodytais atvejais ir priėmusi sprendimą dėl laimėjusio pasiūlymo, perkančioji organizacija privalo paskelbti informacinį pranešimą šio įstatymo 86 straipsnyje nustatyta tvarka, o pirkimo sutartį sudaryti ne anksčiau kaip po 5 darbo dienų nuo informacinio pranešimo paskelbimo dienos.“
 
-\#### 5 straipsnis. 93 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 93 straipsnio 2 dalies pakeitimas
 
 93 straipsnio 2 dalyje vietoj žodžių „raštu šio įstatymo 17 straipsnyje nurodytomis priemonėmis“ įrašyti žodžius „faksu, elektroninėmis priemonėmis ar pasirašytinai per kurjerį“ ir šią dalį išdėstyti taip:
 
 „2. Tiekėjas, norėdamas iki pirkimo sutarties sudarymo ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia turi pateikti pretenziją perkančiajai organizacijai šiame skyriuje nustatyta tvarka. Pretenzija turi būti pateikta faksu, elektroninėmis priemonėmis ar pasirašytinai per kurjerį. Perkančiosios organizacijos sprendimas, priimtas išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyriuje nustatyta tvarka.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 2 straipsnio 2 ir 3 dalis, įsigalioja 2011 m. rugpjūčio 21 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/988882e0ae0a11e98451fa7b5933515d"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.988882E0AE0A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Brazilijos Federacinės Respublikos sutarties dėl nuteistųjų asmenų perdavimo ratifikavimo
@@ -26,7 +26,7 @@ DĖL LIETUVOS RESPUBLIKOS IR BRAZILIJOS FEDERACINĖS RESPUBLIKOS SUTARTIES DĖL 
 
 Vilnius
 
-\#### 1 straipsnis. Sutarties ratifikavimas
+## 1 straipsnis. Sutarties ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2019 m. sausio 3 d. dekretą Nr. 1K-1515, ratifikuoja 2018 m. rugsėjo 26 d. Niujorke pasirašytą Lietuvos Respublikos ir Brazilijos Federacinės Respublikos sutartį dėl nuteistųjų asmenų perdavimo.
 

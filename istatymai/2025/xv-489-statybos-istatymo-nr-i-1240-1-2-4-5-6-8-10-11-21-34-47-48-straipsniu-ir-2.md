@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/514a2f42afd011f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.514A2F42AFD0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 4, 5, 6, 8, 10, 11, 21, 34, 47, 48 straipsnių ir 2 priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ STATYBOS ĮSTATYMO NR. I-1240 1, 2, 4, 5, 6, 8, 10, 11, 21, 34, 47, 48 STRAIPSNI
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) naudojamame statinyje vykdomos ūkinės komercinės ar kitos veiklos reikalavimus.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „105. **Tiekimas rinkai** – kaip apibrėžta Reglamento [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt) 3 straipsnio 4 punkte.“
 
-\#### 3 straipsnis. 4 straipsnio pakeitimas
+## 3 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -130,19 +130,19 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 3. Statinių klasifikavimą pagal jų naudojimo paskirtį pagal jai būdingus funkcinius, inžinerinius, socialinius, nekilnojamojo turto kadastro objektų kiekio, užimamo sklypo ir kitus požymius, statinių paskirties grupes, atsižvelgiant į pagrindinę žemės naudojimo paskirtį ir naudojimo būdus, nekilnojamojo turto kadastro objektų formavimo (kaip atskirus nekilnojamojo turto objektus suformuojant patalpas statinyje, statinius ir (ar) patalpas padalijant, atidalijant, sujungiant, perdalijant) tvarką nustato Vyriausybės įgaliota institucija.“
 
-\#### 4 straipsnis. 5 straipsnio pakeitimas
+## 4 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) ji neprieštarautų esminiams statinių reikalavimams, nustatytiems Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt);“.
 
-\#### 5 straipsnis. 6 straipsnio pakeitimas
+## 5 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Normuojamus atstumus tarp statinių, tarp statinių ir sklypo ribų, atsižvelgdama į Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt)nustatytus esminius statinių iršio straipsnio 1 dalyje nurodytus reikalavimus, nustato Vyriausybės įgaliota institucija normatyviniuose statybos techniniuose dokumentuose.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „7. Teisę Lietuvos Respublikoje rengti ir išduoti Europos techninius įvertinimus turi Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt) nustatytus reikalavimus atitinkančios ir aplinkos ministro nustatyta tvarka paskirtos ir paskelbtos techninio vertinimo įstaigos.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -164,7 +164,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 3. Kontaktinio centro paslaugos turi būti teikiamos pagal 2018 m. spalio 2 d. Europos Parlamento ir Tarybos reglamentą (ES) 2018/1724, kuriuo sukuriami bendrieji skaitmeniniai vartai, skirti suteikti prieigą prie informacijos, procedūrų ir pagalbos bei problemų sprendimo paslaugų, ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012, su visais pakeitimais.“
 
-\#### 8 straipsnis. 11 straipsnio pakeitimas
+## 8 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -176,7 +176,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 3. Esminius statinių reikalavimus ir statinių techninius parametrus nustatančios institucijos privalo Vyriausybės nustatyta tvarka kontaktiniam centrui pagal kompetenciją teikti Reglamento (ES) 2024/3110 72 straipsnio 2 dalyje nustatytą informaciją.“
 
-\#### 9 straipsnis. 21 straipsnio pakeitimas
+## 9 straipsnis. 21 straipsnio pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -190,25 +190,25 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „18. Gamintojų, importuotojų, platintojų ir įgaliotųjų atstovų pateikiamų į rinką ar tiekiamų jai statybos produktų rinkos priežiūrą vykdo Vyriausybės įgaliota institucija. Ši institucija atlieka Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt) nurodytas rinkos priežiūros institucijos ir bendros ryšių palaikymo tarnybos funkcijas.“
 
-\#### 10 straipsnis. 34 straipsnio pakeitimas
+## 10 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) gautas statytojo (užsakovo) ar statinio naudotojo skundas arba yra prielaidų, kad statinys neatitinka esminių statinių reikalavimų, nustatytų Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt).“
 
-\#### 11 straipsnis. 47 straipsnio pakeitimas
+## 11 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) laikytis normatyviniuose statybos techniniuose dokumentuose ar normatyviniuose statinio saugos ir paskirties dokumentuose nustatytų statinio naudojimo ir priežiūros reikalavimų, kad būtų išlaikytos statinio (jo dalių, inžinerinių sistemų) savybės, atitinkančios Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt) nustatytus esminius statinių reikalavimus;“.
 
-\#### 12 straipsnis. 48 straipsnio pakeitimas
+## 12 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Statinio techninis prižiūrėtojas, atlikdamas konkretaus statinio techninę priežiūrą, vykdo organizacines ir technines priemones statinio techninei būklei palaikyti, kad būtų užtikrinti Reglamente [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt) nustatyti esminiai statinių reikalavimai per ekonomiškai pagrįstą statinio naudojimo trukmę.“
 
-\#### 13 straipsnis. Įstatymo 2 priedo pakeitimas
+## 13 straipsnis. Įstatymo 2 priedo pakeitimas
 
 1. Pripažinti netekusiu galios Įstatymo 2 priedo 4 punktą.
 
@@ -220,7 +220,7 @@ Pakeisti 48 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „8. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas [(ES) 2024/3110](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R3110&locale=lt), kuriuo nustatomos suderintos statybos produktų rinkodaros taisyklės ir panaikinamas Reglamentas [(ES) 305/2011](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32305R2011&locale=lt).“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 14 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 2 straipsnio 11 dalį ir šio straipsnio 3 dalį, įsigalioja 2026 m. sausio 8 d.
 

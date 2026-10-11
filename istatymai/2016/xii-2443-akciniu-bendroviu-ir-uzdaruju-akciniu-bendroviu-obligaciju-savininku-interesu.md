@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/25dc33103c5a11e6bcc5c96b48152012"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.25DC33103C5A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas
@@ -308,5 +308,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1333, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15398
 
 Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymo Nr. XII-2443 1 straipsnio pakeitimo įstatymas
-
-part_1ccb556d9d16484f967b3085fb474bfa_end

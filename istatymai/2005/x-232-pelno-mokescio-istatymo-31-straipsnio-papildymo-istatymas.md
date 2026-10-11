@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.610D63A4C95A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.610D63A4C95A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo 31 straipsnio papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2001, Nr. [110-3992](https://www.e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9); 2003, Nr. [74-3417](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C71B07890FB); 2004, Nr. [25-748](https://www.e-tar.lt/portal/lt/legalAct/TAR.16B90D491165))
 
-\#### 1 straipsnis. 31 straipsnio 1 dalies papildymas 16 punktu
+## 1 straipsnis. 31 straipsnio 1 dalies papildymas 16 punktu
 
 Papildyti 31 straipsnio 1 dalį 16 punktu:
 
 „16) socialinis mokestis.“
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Šis įstatymas taikomas apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių apmokestinamąjį pelną.
 

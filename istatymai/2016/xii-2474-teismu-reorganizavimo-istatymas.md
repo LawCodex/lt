@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9136fe603eb211e6a8ae9e1795984391"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9136FE603EB2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų reorganizavimo įstatymas
@@ -26,11 +26,11 @@ TEISMŲ REORGANIZAVIMO
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato 2 straipsnyje nurodytų teismų reorganizavimo būdą ir sąlygas.
 
-\#### 2 straipsnis. Reorganizavimo būdas
+## 2 straipsnis. Reorganizavimo būdas
 
 1. Druskininkų miesto apylinkės teismas, Lazdijų rajono apylinkės teismas, Prienų rajono apylinkės teismas, Varėnos rajono apylinkės teismas reorganizuojami prijungimo būdu, šiuos teismus prijungiant prie Alytaus rajono apylinkės teismo.
 
@@ -56,7 +56,7 @@ Vilnius
 
 12. Klaipėdos apygardos administracinis teismas, Panevėžio apygardos administracinis teismas, Šiaulių apygardos administracinis teismas reorganizuojami prijungimo būdu, šiuos teismus prijungiant prie Kauno apygardos administracinio teismo.
 
-\#### 3 straipsnis. Reorganizavimo sąlygos
+## 3 straipsnis. Reorganizavimo sąlygos
 
 1. Šiuo įstatymu patvirtinami:
 
@@ -86,7 +86,7 @@ Vilnius
 
 2. Visos po reorganizavimo pasibaigusių teismų teisės ir pareigos po reorganizavimo veikiantiems teismams pereina nuo 2018 m. sausio 1 d.
 
-\#### 4 straipsnis. Teismų pavadinimų pakeitimas
+## 4 straipsnis. Teismų pavadinimų pakeitimas
 
 Nuo 2018 m. sausio 1 d. pakeičiami šių teismų pavadinimai:
 
@@ -110,7 +110,7 @@ Nuo 2018 m. sausio 1 d. pakeičiami šių teismų pavadinimai:
 
 10) Kauno apygardos administracinio teismo pavadinimas į pavadinimą – Regionų apygardos administracinis teismas.
 
-\#### 5 straipsnis. Baigiamosios nuostatos
+## 5 straipsnis. Baigiamosios nuostatos
 
 1. Šio įstatymo nuostatos neturi įtakos iki 2017 m. gruodžio 31 d. paskirtų reorganizuojamų teismų teisėjų įgaliojimų vykdymui.
 

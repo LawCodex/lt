@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F7B45D6DAD49"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F7B45D6DAD49.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 3, 5, 7, 13, 14 ir 17 straipsnių pakeitimo įstatymas
@@ -28,37 +28,37 @@ Vilnius
 
 (Žin., 2000, Nr. [30-827](https://www.e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1); 2001, Nr. [71-2521](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE3B30C9F070))
 
-\#### 1 straipsnis. 3 straipsnio 7 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 7 dalies pakeitimas
 
 3 straipsnio 7 dalyje išbraukti žodį „teisiamojo“ ir šią dalį išdėstyti taip:
 
 „7. Gynyba ir atstovavimas bylų procese – įstatymų reglamentuojama procesinė veikla ginant įtariamojo, kaltinamojo, nuteistojo ar atstovaujamojo teises ir interesus baudžiamosiose, civilinėse ir administracinėse bylose.“
 
-\#### 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 5 straipsnio 2 dalies pakeitimas
 
 5 straipsnio 2 dalyje vietoj žodžių „kvotėjas, tardytojas“ įrašyti žodžius „ikiteisminio tyrimo pareigūnas“ ir šią dalį išdėstyti taip:
 
 „2. Teikiant valstybinę teisinę pagalbą, ikiteisminio tyrimo pareigūnas, prokuroras, teisėjas ar teismas turi teisę pareikalauti papildomų rašytinių įrodymų apie asmens, kuriam teikiama valstybinė teisinė pagalba, ir jo šeimos narių turtinę padėtį.“
 
-\#### 3 straipsnis. 7 straipsnio 3 dalies 1 punkto pakeitimas
+## 3 straipsnis. 7 straipsnio 3 dalies 1 punkto pakeitimas
 
 Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) ikiteisminį tyrimą kontroliuojantis prokuroras, kai valstybinė teisinė pagalba buvo teikiama pagal ikiteisminio tyrimo pareigūno sprendimą, jei kaltinamasis aktas neperduotas teismui;“.
 
-\#### 4 straipsnis. 13 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 13 straipsnio 1 dalies pakeitimas
 
 13 straipsnio 1 dalyje vietoj žodžių „kvotėjo, tardytojo“ įrašyti žodžius „ikiteisminio tyrimo pareigūno“ ir šią dalį išdėstyti taip:
 
 „1. Valstybinę teisinę pagalbą teikia advokatai pagal ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ar teismo paskyrimą. Įstatymų numatytais atvejais ir tvarka valstybinę teisinę pagalbą gali teikti advokatų padėjėjai.“
 
-\#### 5 straipsnis. 14 straipsnio 1 punkto pakeitimas
+## 5 straipsnis. 14 straipsnio 1 punkto pakeitimas
 
 14 straipsnio 1 punkte išbraukti žodį „teisiamieji“ ir šį punktą išdėstyti taip:
 
 „1) įtariamieji, kaltinamieji ar nuteistieji baudžiamosiose bylose;“.
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas
+## 6 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnyje išbraukti žodį „teisiamojo“ ir šį straipsnį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 7 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip:
 
 Kai būtinąjį gynėjo dalyvavimą baudžiamųjų bylų procese nustato Baudžiamojo proceso kodeksas, įtariamojo, kaltinamojo ar nuteistojo sutikimu skiriama valstybinė teisinė pagalba.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas
+## 7 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

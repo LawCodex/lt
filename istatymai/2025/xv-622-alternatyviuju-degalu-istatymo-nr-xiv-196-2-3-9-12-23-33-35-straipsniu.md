@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5cae2042d1d511f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5CAE2042D1D5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 3, 9, 12, 23, 33, 35 straipsnių, aštuntojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 14-1, 33-1, 33-2, 33-3, 33-4, 33-5, 33-6 straipsniais įstatymas
@@ -26,19 +26,19 @@ ALTERNATYVIŲJŲ DEGALŲ ĮSTATYMO NR. XIV-196 2, 3, 9, 12, 23, 33, 35 STRAIPSNI
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 26 dalį ir ją išdėstyti taip:
 
 „26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente [(ES) 2023/2405](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R2405&locale=lt), 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamente [(ES) 2024/1679](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1679&locale=lt) dėl transeuropinio transporto tinklo plėtros Sąjungos gairių, kuriuo iš dalies keičiami reglamentai [(ES) 2021/1153](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32021R1153&locale=lt) ir [(ES) Nr. 913/2010](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32010R0913&locale=lt) ir panaikinamas Reglamentas [(ES) Nr. 1315/2013](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32013R1315&locale=lt), Akcizų įstatyme, Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos muitinės įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Papildyti 3 straipsnį 12 punktu:
 
 „12) Lietuvos transporto saugos administracija.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -46,13 +46,13 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 Vidaus reikalų ministerija užtikrina, kad transporto priemonės, naudojančios alternatyviuosius degalus, Lietuvos Respublikos kelių transporto priemonių registro informacinėje sistemoje būtų registruojamos nurodant transporto priemonės naudojamų alternatyviųjų degalų rūšį.“
 
-\#### 4 straipsnis. 12 straipsnio pakeitimas
+## 4 straipsnis. 12 straipsnio pakeitimas
 
 Pakeisti 12 straipsnio 2 punktą ir jį išdėstyti taip:
 
 „2) turi teisę savivaldybės teritorijoje esančiuose miestuose nustatyti mažos taršos zonas ir naudojimosi jomis tvarką. Miestuose, kuriuose gyvena daugiau negu 80 tūkstančių gyventojų, mažos taršos zonos nustatomos privalomai. Mažos taršos zonos nustatomos atsižvelgiant į susisiekimo ministro tvirtinamas mažos taršos zonų nustatymo rekomendacijas, valstybinio aplinkos oro monitoringo ir (ar) savivaldybės aplinkos oro monitoringo duomenis savivaldybių teritorijose;“.
 
-\#### 5 straipsnis. Įstatymo papildymas 141 straipsniu
+## 5 straipsnis. Įstatymo papildymas 141 straipsniu
 
 Papildyti Įstatymo antrąjį skirsnį 14^1 straipsniu:
 
@@ -64,11 +64,11 @@ Lietuvos transporto saugos administracija (toliau – LTSA):
 
 2) nustato tvarką, pagal kurią tikrinama ir į Europos Sąjungos duomenų bazę įtraukiama aviacinių degalų tiekėjų pateikta informacija, nurodyta Reglamento (ES) 2023/2405 10 straipsnyje.“
 
-\#### 6 straipsnis. 23 straipsnio pakeitimas
+## 6 straipsnis. 23 straipsnio pakeitimas
 
 Pripažinti netekusia galios 23 straipsnio 17 dalį.
 
-\#### 7 straipsnis. Įstatymo aštuntojo skirsnio pavadinimo pakeitimas
+## 7 straipsnis. Įstatymo aštuntojo skirsnio pavadinimo pakeitimas
 
 Pakeisti Įstatymo aštuntojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti Įstatymo aštuntojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 **ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ, REGLAMENTO (ES) 2023/2405 PAŽEIDIMUS IR ATSAKOMYBĖS TAIKYMO TVARKA**“.
 
-\#### 8 straipsnis. 33 straipsnio pakeitimas
+## 8 straipsnis. 33 straipsnio pakeitimas
 
 1. Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti Įstatymo aštuntojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 „14.Lėšos, gaunamos už šio įstatymo 32 straipsnyje nustatytas sankcijas, skiriamos atsinaujinančių energijos išteklių transporto sektoriuje naudojimui skatinti.“
 
-\#### 9 straipsnis. Įstatymo papildymas 331 straipsniu
+## 9 straipsnis. Įstatymo papildymas 331 straipsniu
 
 Papildyti Įstatymo aštuntąjį skirsnį 33^1 straipsniu:
 
@@ -118,7 +118,7 @@ Papildyti Įstatymo aštuntąjį skirsnį 33^1 straipsniu:
 
 4. Baudos skyrimas už Reglamento (ES) 2023/2405 pažeidimus neatleidžia aviacinių degalų tiekėjo nuo Reglamente (ES) 2023/2405 nustatytų pareigų įvykdymo.“
 
-\#### 10 straipsnis. Įstatymo papildymas 332 straipsniu
+## 10 straipsnis. Įstatymo papildymas 332 straipsniu
 
 Papildyti Įstatymo aštuntąjį skirsnį 33^2 straipsniu:
 
@@ -144,7 +144,7 @@ Papildyti Įstatymo aštuntąjį skirsnį 33^2 straipsniu:
 
 3) atsakomybę sunkinančios aplinkybės, nurodytos šio įstatymo 33 straipsnio 3 dalies 1 ir 2 punktuose.“
 
-\#### 11 straipsnis. Įstatymo papildymas 333 straipsniu
+## 11 straipsnis. Įstatymo papildymas 333 straipsniu
 
 Papildyti Įstatymo aštuntąjį skirsnį 33^3 straipsniu:
 
@@ -166,7 +166,7 @@ Papildyti Įstatymo aštuntąjį skirsnį 33^3 straipsniu:
 
 5. LTSA direktorius tvirtina Reglamento (ES) 2023/2405 pažeidimų nustatymo ir tyrimo, baudų už Reglamento (ES) 2023/2405 pažeidimus apskaičiavimo ir skyrimo taisykles.“
 
-\#### 12 straipsnis. Įstatymo papildymas 334 straipsniu
+## 12 straipsnis. Įstatymo papildymas 334 straipsniu
 
 Papildyti Įstatymo aštuntąjį skirsnį 33^4 straipsniu:
 
@@ -188,7 +188,7 @@ Papildyti Įstatymo aštuntąjį skirsnį 33^4 straipsniu:
 
 5. LTSA sprendimai ne vėliau kaip per 3 darbo dienas nuo jų priėmimo dienos registruotąja pašto siunta išsiunčiami subjektams, dėl kurių jie priimti.“
 
-\#### 13 straipsnis. Įstatymo papildymas 335 straipsniu
+## 13 straipsnis. Įstatymo papildymas 335 straipsniu
 
 Papildyti Įstatymo aštuntąjį skirsnį 33^5 straipsniu:
 
@@ -198,7 +198,7 @@ Papildyti Įstatymo aštuntąjį skirsnį 33^5 straipsniu:
 
 2. Kreipimasis į teismą nesustabdo sprendimų vykdymo, jeigu teismas nenustato kitaip.“
 
-\#### 14 straipsnis. Įstatymo papildymas 336 straipsniu
+## 14 straipsnis. Įstatymo papildymas 336 straipsniu
 
 Papildyti Įstatymo aštuntąjį skirsnį 33^6 straipsniu:
 
@@ -210,17 +210,17 @@ Papildyti Įstatymo aštuntąjį skirsnį 33^6 straipsniu:
 
 3. Lėšos, gaunamos už Reglamento (ES) 2023/2405 pažeidimus, skiriamos moksliniams tyrimams ir tvarių aviacinių degalų gamybos ir panaudojimo arba mechanizmų, leidžiančių sumažinti tvarių aviacinių degalų ir tradicinių aviacinių degalų kainų skirtumus, kūrimo ir kompetencijų ugdymo inovacijų projektams remti.“
 
-\#### 15 straipsnis. 35 straipsnio pakeitimas
+## 15 straipsnis. 35 straipsnio pakeitimas
 
 Pripažinti netekusia galios 35 straipsnio 7 dalį.
 
-\#### 16 straipsnis. Įstatymo priedo pakeitimas
+## 16 straipsnis. Įstatymo priedo pakeitimas
 
 Papildyti Įstatymo priedą 5 punktu:
 
 „5. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos reglamentas [(ES) 2023/2405](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023R2405&locale=lt) dėl vienodų sąlygų darniajam oro transportui užtikrinimo (iniciatyva „ReFuelEU aviation“).“
 
-\#### 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. gruodžio 15 d.
 

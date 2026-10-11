@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D570E7FBE87F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D570E7FBE87F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo įgyvendinimo įstatymas
@@ -26,15 +26,15 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Specialiųjų tyrimų tarnybos įsteigimas
+## 1 straipsnis. Specialiųjų tyrimų tarnybos įsteigimas
 
 Seimas šiuo įstatymu įsteigia Lietuvos Respublikos specialiųjų tyrimų tarnybą (toliau – Tarnyba).
 
-\#### 2 straipsnis. Teisės aktų galiojimas
+## 2 straipsnis. Teisės aktų galiojimas
 
 Iki Specialiųjų tyrimų tarnybos įstatymo įsigaliojimo priimti teisės aktai ar juose esančios atskiros teisės normos, reglamentuojančios Specialiųjų tyrimų tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos ir jos darbuotojų statusą, galioja tiek, kiek neprieštaraujaSpecialiųjų tyrimų tarnybos įstatymui ir Specialiųjų tyrimų tarnybos statutui bei juos įgyvendinantiems teisės aktams.
 
-\#### 3 straipsnis. Likviduojamos Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos darbuotojų socialinės garantijos
+## 3 straipsnis. Likviduojamos Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos darbuotojų socialinės garantijos
 
 1. Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos darbuotojai, raštiškai prašę būti perkelti į šiuo įstatymu steigiamą Tarnybą, yra perkeliami į ją įstatymų nustatyta tvarka.
 
@@ -44,13 +44,13 @@ Iki Specialiųjų tyrimų tarnybos įstatymo įsigaliojimo priimti teisės aktai
 
 4. Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos darbuotojams, sutikusiems būti perkeltiems ir paskirtiems į šiuo įstatymu steigiamą Tarnybą, išeitinės pašalpos nemokamos.
 
-\#### 4 straipsnis. Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos turto perdavimas
+## 4 straipsnis. Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos turto perdavimas
 
 1. Specialiųjų tyrimų tarnybos prie Vidaus reiklų ministerijos patikėjimo teise valdomas valstybės turtas ir turtiniai įsipareigojimai perduodami patikėjimo teise šiuo įstatymu steigiamai Tarnybai.
 
 2. 2000 m. valstybės biudžeto ir savivaldybių biudžetų finansinių asignavimų rodiklių patvirtinimo įstatyme numatyti asignavimai Specialiųjų tyrimų tarnybai prie Vidaus reikalų ministerijos yra perduodami šiuo įstatymu steigiamai Tarnybai.
 
-\#### 5 straipsnis. Pasiūlymai Vyriausybei
+## 5 straipsnis. Pasiūlymai Vyriausybei
 
 Įsigaliojus šiam įstatymui, Vyriausybė:
 

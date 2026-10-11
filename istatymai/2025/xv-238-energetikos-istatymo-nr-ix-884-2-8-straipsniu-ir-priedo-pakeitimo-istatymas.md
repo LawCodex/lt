@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9e9b26624c2e11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9E9B26624C2E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ ENERGETIKOS ĮSTATYMO NR. IX-884 2, 8 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Papildyti 2 straipsnį 151 dalimi:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme ir Europos Sąjungos reglamentuose, reglamentuojančiuose energetikos sektorių veiklą.“
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 1. Papildyti 8 straipsnį 111 dalimi:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „15. Tarybos strateginio veiklos plano projektas ir strateginis veiklos planas skelbiami viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirtas gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Gamtinių dujų įstatymo 7 straipsnio 2 dalies 5 punkte ir Direktyvos [(ES) 2019/944](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019L0944&locale=lt) 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą [(ES) 2019/942](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32019R0942&locale=lt), (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus, atskiroje veiklos ataskaitos struktūrinėje dalyje nurodo pažangą, padarytą didinant energijos vartojimo efektyvumą, kiek tai susiję su elektros tinklų ir gamtinių dujų sistemų eksploatavimu, įvertina bendrą energijos vartojimo efektyvumą eksploatuojant elektros tinklus ir gamtinių dujų sistemas, nurodo perdavimo sistemos ir skirstomųjų tinklų operatorių įgyvendintas priemones ir, jeigu turi rekomendacijų, perdavimo sistemos ir skirstomųjų tinklų operatoriams pateikia energijos vartojimo efektyvumo didinimo rekomendacijas, įskaitant ekonomiškai efektyvias alternatyvas, kaip sumažinti maksimalias elektros tinklų ir gamtinių dujų sistemų apkrovas ir bendrą elektros energijos ir gamtinių dujų suvartojimą. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė.“
 
-\#### 3 straipsnis. Įstatymo priedo pakeitimas
+## 3 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -96,7 +96,7 @@ priedas
 
 ____________________“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. spalio 1 d.
 

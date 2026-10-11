@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FB2157F6318A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FB2157F6318A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" 2, 5, 8, 26, 32, 35, 40, 43, 46, 50, 53, 71, 72, 90, 99, 104, 113, 124, 125, 126, 127, 131, 133, 134 straipsnių, III skyriaus pirmojo skirsnio ir priedo pakeitimo ir papildymo, Įstatymo papildymo 49-2 straipsniu ir 7 straipsnio pripažinimo netekusiu galios įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2539](https://www.e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD); 2006, Nr. [137-5199](https://www.e-tar.lt/portal/lt/legalAct/TAR.D79EF0646F5C))
 
-\#### 1 straipsnis. 2 straipsnio 20, 24, 33 dalių pakeitimas ir straipsnio papildymas 71, 271, 272, 273, 274 dalimis
+## 1 straipsnis. 2 straipsnio 20, 24, 33 dalių pakeitimas ir straipsnio papildymas 71, 271, 272, 273, 274 dalimis
 
 1. Papildyti 2 straipsnį 71 dalimi:
 
@@ -58,7 +58,7 @@ Vilnius
 
 „33. **Viza –**į užsieniečio kelionės dokumentą įklijuojamas įklijos formos leidimas, leidžiantis atvykti į Lietuvos Respubliką, būti joje ar vykti tranzitu.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -70,11 +70,11 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 3. Jeigu užsienietis pateikia prašymą suteikti prieglobstį Lietuvos Respublikoje, sprendimą dėl užsieniečio neįleidimo arba įleidimo į Lietuvos Respubliką priima Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas).“
 
-\#### 3 straipsnis. 7 straipsnio pripažinimas netekusiu galios
+## 3 straipsnis. 7 straipsnio pripažinimas netekusiu galios
 
 7 straipsnį pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 8 straipsnio pakeitimas
+## 4 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 3. Tvarką, reglamentuojančią sprendimų dėl užsieniečių neįleidimo į Lietuvos Respubliką priėmimą ir jų vykdymą, nustato vidaus reikalų ministras.“
 
-\#### 5 straipsnis. III skyriaus pirmojo skirsnio pakeitimas
+## 5 straipsnis. III skyriaus pirmojo skirsnio pakeitimas
 
 Pakeisti III skyriaus pirmąjį skirsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti III skyriaus pirmąjį skirsnį ir jį išdėstyti taip:
 
 VIZOS
 
-\#### 11 straipsnis. Bevizis režimas ir reikalavimas turėti vizą
+## 11 straipsnis. Bevizis režimas ir reikalavimas turėti vizą
 
 1. Užsieniečio, kuris nėra Europos Sąjungos valstybės narės pilietis, atvykimui į Lietuvos Respubliką ir buvimui joje taikomos 2001 m. kovo 15 d. Tarybos reglamento (EB) Nr. 539/2001, su visais vėlesniais jo pakeitimais ir papildymais, nustatančio trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams toks reikalavimas netaikomas, sąrašus (toliau – Vizų režimo reglamentas), nuostatos. Lietuvos Respublikos Vyriausybė Vizų režimo reglamento nustatytais atvejais gali taikyti vizų režimo išimtis.
 
@@ -110,7 +110,7 @@ VIZOS
 
 7. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų įgulų nariams, taip pat jūrininkams, atvykusiems į laivą vizos galiojimo laiku ir įtrauktiems į laivo įgulos sąrašą, taikomos šio straipsnio 2 dalies nuostatos.
 
-\#### 12 straipsnis. Vizų rūšys
+## 12 straipsnis. Vizų rūšys
 
 Vizų rūšys yra šios:
 
@@ -118,7 +118,7 @@ Vizų rūšys yra šios:
 
 2) nacionalinė viza.
 
-\#### 121 straipsnis. Šengeno viza
+## 121 straipsnis. Šengeno viza
 
 1. Šengeno viza išduodama užsieniečiui, turinčiam galiojantį kelionės dokumentą, kai jo galiojimo laikas ne mažiau kaip 3 mėnesiais ilgesnis už prašomos išduoti vizos galiojimo laiką. Šios nuostatos gali būti nesilaikoma dėl humanitarinių priežasčių, nacionalinių interesų arba tarptautinių įsipareigojimų, jeigu užsieniečio kelionės dokumento galiojimo laikas ilgesnis už vizos galiojimo laiką ir užsienietis atitinka Šengeno acquis nustatytas vizos išdavimo sąlygas. Si straipsnio dalis įgyvendinama šio Įstatymo 21 straipsnio 8 dalyje nustatyta tvarka.
 
@@ -130,7 +130,7 @@ Vizų rūšys yra šios:
 
 5. Užsieniečiui gali būti išduodama riboto teritorinio galiojimo viza.
 
-\#### 122 straipsnis. Šengeno vizų rūšys
+## 122 straipsnis. Šengeno vizų rūšys
 
 Šengeno vizų rūšys yra šios:
 
@@ -140,7 +140,7 @@ Vizų rūšys yra šios:
 
 3) trumpalaikė (C).
 
-\#### 13 straipsnis. Oro uosto tranzitinė viza (A)
+## 13 straipsnis. Oro uosto tranzitinė viza (A)
 
 1. Užsienietis, turintis oro uosto tranzitinę vizą, gali būti Lietuvos Respublikos tarptautinio oro uosto tranzito zonoje, skirtoje susisiekti su kita valstybe, orlaivio tarpinio nusileidimo ar persėdimo iš vieno orlaivio į kitą metu.
 
@@ -148,15 +148,15 @@ Vizų rūšys yra šios:
 
 3. Valstybių, kurios numatytos nacionaliniame sąraše, patvirtintame vidaus reikalų ministro kartu su užsienio reikalų ministru, piliečiai arba asmenys, kurie nėra šių valstybių piliečiai, bet turi šių valstybių kompetentingų institucijų išduotus kelionės dokumentus, taip pat turi turėti oro uosto tranzitinę vizą.
 
-\#### 14 straipsnis. Tranzitinė viza (B)
+## 14 straipsnis. Tranzitinė viza (B)
 
 Užsienietis, turintis tranzitinę vizą, gali vykti tranzitu per Lietuvos Respubliką kiekvieną kartą būdamas Lietuvos Respublikoje ne ilgiau kaip 5 dienas, skaičiuojant nuo pirmosios atvykimo į Lietuvos Respubliką ar kitą Šengeno valstybę dienos.
 
-\#### 15 straipsnis. Trumpalaikė viza (C)
+## 15 straipsnis. Trumpalaikė viza (C)
 
 Užsienietis, turintis trumpalaikę vizą, gali atvykti į Lietuvos Respubliką ir būti joje ne ilgiau kaip 3 mėnesius per pusę metų, skaičiuojant nuo pirmosios atvykimo į Lietuvos Respubliką ar kitą Šengeno valstybę dienos.
 
-\#### 16 straipsnis. Grupinė viza ir riboto teritorinio galiojimo viza
+## 16 straipsnis. Grupinė viza ir riboto teritorinio galiojimo viza
 
 1. Grupinė viza – tranzitinė viza arba trumpalaikė viza, išduodama ne ilgiau kaip 30 dienų iš anksto sudarytai keliauti į Lietuvos Respubliką 5–50 užsieniečių grupei tuo atveju, kai grupės nariai atvyksta į Lietuvos Respubliką, būna joje ir iš jos išvyksta kaip grupė. Grupinė viza tvirtinama prie grupės paso.
 
@@ -170,7 +170,7 @@ Užsienietis, turintis trumpalaikę vizą, gali atvykti į Lietuvos Respubliką 
 
 4) užsienietis per pusės metų laikotarpį jau naudojosi viza, galiojusia 3 mėnesius. Šiuo atveju tam pačiam pusmečiui viza išduodama tik šio Įstatymo 18 straipsnio 1 dalies 1–4 punktuose nurodytais atvejais.
 
-\#### 17 straipsnis. Nacionalinė viza (D)
+## 17 straipsnis. Nacionalinė viza (D)
 
 1. Užsienietis, turintis nacionalinę vizą, gali atvykti į Lietuvos Respubliką ir būti joje ilgiau kaip 3 mėnesius.
 
@@ -182,7 +182,7 @@ Užsienietis, turintis trumpalaikę vizą, gali atvykti į Lietuvos Respubliką 
 
 5. Užsieniečiui, kuris periodiškai atvyksta į Lietuvos Respubliką dirbti ar užsiimti kita teisėta veikla ir kurio pagrindinė gyvenamoji vieta yra užsienio valstybėje, išduodama daugkartinė nacionalinė viza.
 
-\#### 18 straipsnis. Buvimo Lietuvos Respublikoje turint Šengeno vizą laiko pratęsimo pagrindai
+## 18 straipsnis. Buvimo Lietuvos Respublikoje turint Šengeno vizą laiko pratęsimo pagrindai
 
 1. Užsieniečiui, kuriam išduotos Šengeno vizos galiojimas baigiasi, jo buvimo Lietuvos Respublikoje turint vizą laikas gali būti pratęstas dėl vienos iš šių priežasčių, atsiradusių išdavus vizą:
 
@@ -196,7 +196,7 @@ Užsienietis, turintis trumpalaikę vizą, gali atvykti į Lietuvos Respubliką 
 
 2. Užsieniečio buvimas Lietuvos Respublikoje turint Šengeno vizą, kurios galiojimas buvo pratęstas, negali viršyti 3 mėnesių per pusę metų, skaičiuojant nuo pirmosios atvykimo į Lietuvos Respubliką ar kitą Šengeno valstybę dienos.
 
-\#### 19 straipsnis. Atsisakymo išduoti vizą pagrindai
+## 19 straipsnis. Atsisakymo išduoti vizą pagrindai
 
 Vizą užsieniečiui atsisakoma išduoti, jeigu:
 
@@ -218,7 +218,7 @@ Vizą užsieniečiui atsisakoma išduoti, jeigu:
 
 9) jis nepateikia sveikatos draudimą patvirtinančio dokumento, kai būtina jį turėti kelionės metu.
 
-\#### 20 straipsnis. Vizos panaikinimo pagrindai
+## 20 straipsnis. Vizos panaikinimo pagrindai
 
 1. Viza užsieniečiui panaikinama, jeigu:
 
@@ -228,7 +228,7 @@ Vizą užsieniečiui atsisakoma išduoti, jeigu:
 
 2. Panaikinus vizą, užsienietis privalo išvykti iš Lietuvos Respublikos.
 
-\#### 21 straipsnis. Vizos išdavimas, atsisakymas išduoti vizą, konsultacijų vykdymas, buvimo turint vizą laiko pratęsimas, vizos panaikinimas
+## 21 straipsnis. Vizos išdavimas, atsisakymas išduoti vizą, konsultacijų vykdymas, buvimo turint vizą laiko pratęsimas, vizos panaikinimas
 
 1. Užsienietis dokumentus vizai gauti pateikia Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai, o kai tokios nėra, dokumentai Šengeno vizai gauti pateikiami Lietuvos Respublikai atstovaujančiai Šengeno valstybės diplomatinei atstovybei ar konsulinei įstaigai. Užsienietis dokumentus vizai gauti vidaus reikalų ministro kartu su užsienio reikalų ministru nustatytais atvejais taip pat gali pateikti pasienio kontrolės punkte, vidaus reikalų ministro įgaliotoje institucijoje arba Lietuvos Respublikos užsienio reikalų ministerijoje.
 
@@ -254,7 +254,7 @@ Vizą užsieniečiui atsisakoma išduoti, jeigu:
 
 8. Dokumentų vizai gauti pateikimo ir vizos išdavimo, taip pat vizos išdavimo pasienio kontrolės punktuose, vizos panaikinimo tvarkai taikomos Bendrosios konsulinės instrukcijos ir vidaus reikalų ministro kartu su užsienio reikalų ministru nustatyta tvarka tiek, kiek ji neprieštarauja Bendrosioms konsulinėms instrukcijoms.
 
-\#### 22 straipsnis. Negaliojanti viza
+## 22 straipsnis. Negaliojanti viza
 
 Viza yra negaliojanti:
 
@@ -274,7 +274,7 @@ Viza yra negaliojanti:
 
 8) tapus negaliojančiam kelionės dokumentui, į kurį ji buvo įklijuota.
 
-\#### 23 straipsnis. Neteisėtas buvimas Lietuvos Respublikoje
+## 23 straipsnis. Neteisėtas buvimas Lietuvos Respublikoje
 
 Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienietis:
 
@@ -294,7 +294,7 @@ Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienie
 
 8) yra neteisėtai atvykęs į Lietuvos Respubliką.“
 
-\#### 6 straipsnis. 26 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 26 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 26 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -324,13 +324,13 @@ Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienie
 
 „7. Migracijos departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi išdavimo tokiam užsieniečiui, kai įspėjimą dėl jo neįsileidimo yra pateikusi Lietuvos Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika užsieniečiui išduoda leidimą gyventi arba jeigu šis jau turi vienos iš susitariančiųjų šalių išduotą galiojantį leidimą gyventi, įspėjimas dėl neįsileidimo centrinėje Šengeno informacinėje sistemoje atšaukiamas, tačiau duomenys apie tokį užsienietį turi būti perkelti į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą.“
 
-\#### 7 straipsnis. 32 straipsnio 2 dalies 5 punkto pakeitimas
+## 7 straipsnis. 32 straipsnio 2 dalies 5 punkto pakeitimas
 
 32 straipsnio 2 dalies 5 punkte po žodžių „teisine pagalba“ įrašyti žodžius „jeigu Lietuvos Respublikos įstatymai nenumato kitaip“ ir šį punktą išdėstyti taip:
 
 „5) naudotis valstybės garantuojama teisine pagalba, jeigu Lietuvos Respublikos įstatymai nenumato kitaip;“.
 
-\#### 8 straipsnis. 35 straipsnio pakeitimas ir papildymas
+## 8 straipsnis. 35 straipsnio pakeitimas ir papildymas
 
 1. 35 straipsnio 1 dalies 2 punkte po žodžių „sudaryta fiktyvi santuoka“ įrašyti žodžius „fiktyvi registruota partnerystė“ ir šį punktą išdėstyti taip:
 
@@ -348,7 +348,7 @@ Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienie
 
 5. Buvusią 35 straipsnio 3 dalį laikyti 4 dalimi.
 
-\#### 9 straipsnis. 40 straipsnio 1 dalies papildymas 13 punktu ir 6 dalies pakeitimas
+## 9 straipsnis. 40 straipsnio 1 dalies papildymas 13 punktu ir 6 dalies pakeitimas
 
 1. Papildyti 40 straipsnio 1 dalį 13 punktu:
 
@@ -358,7 +358,7 @@ Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienie
 
 „6. Šeimos nariams, atvykstantiems gyventi į Lietuvos Respubliką kartu su užsieniečiu, gavusiu leidimą laikinai gyventi šio straipsnio 1 dalies 1–5, 9, 10 ir 13 punktuose nustatytais pagrindais, leidimai laikinai gyventi gali būti išduoti tokiam pat laikotarpiui kaip ir šiam užsieniečiui.“
 
-\#### 10 straipsnis. 43 straipsnio 1 dalies 2 punkto ir 4, 6 dalių pakeitimas
+## 10 straipsnis. 43 straipsnio 1 dalies 2 punkto ir 4, 6 dalių pakeitimas
 
 1. 43 straipsnio 1 dalies 2 punkte po žodžių „sutuoktinis, kuris“ įrašyti žodžius „yra Lietuvos Respublikos pilietis arba“ ir šį punktą išdėstyti taip:
 
@@ -372,13 +372,13 @@ Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienie
 
 „6. Šio straipsnio 1 dalies 2, 5 ir 6 punktuose nurodytas užsienietis, kurio šeimos nariai atvyksta šeimos susijungimo tikslu, turi būti pragyvenęs Lietuvos Respublikoje pastaruosius 2 metus, turėti ne mažiau kaip vienus metus galiojantį leidimą laikinai gyventi ir turėti pagrįstas perspektyvas įgyti teisę nuolat gyventi Lietuvos Respublikoje, reglamentuojamas šio Įstatymo 51 straipsnio 5 dalyje numatytoje tvarkoje. Šis reikalavimas netaikomas, kai šeimos nariai atvyksta pas užsienietį, kuriam suteiktas pabėgėlio Lietuvos Respublikoje statusas arba kuris turi leidimą laikinai gyventi, išduotą šio Įstatymo 40 straipsnio 1 dalies 13 punkte nustatytu pagrindu.“
 
-\#### 11 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 11 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nurodytam užsieniečiui leidimas laikinai gyventi išduodamas studijų, mokymosi, stažuotės, kvalifikacijos kėlimo kursų ar profesinio mokymo laikui, bet ne ilgiau kaip vieniems metams. Leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio Įstatymo 26 straipsnio 1 dalyje nustatytas sąlygas ir pateikia dokumentus, kad nėra išbrauktas iš studentų, moksleivių, stažuotojų, kvalifikacijos kėlimo kursų ar profesinių mokymų dalyvių sąrašų, taip pat kad studijuodamas laikosi apribojimų, nustatytų šio straipsnio 4 dalyje.“
 
-\#### 12 straipsnis. Įstatymo papildymas 492 straipsniu
+## 12 straipsnis. Įstatymo papildymas 492 straipsniu
 
 Papildyti Įstatymą 49^2 straipsniu:
 
@@ -394,7 +394,7 @@ Papildyti Įstatymą 49^2 straipsniu:
 
 5. Užsienietis, nutraukęs mokslinius tyrimus ir (arba) eksperimentinės plėtros darbus arba pasibaigus užsieniečio darbo sutarčiai, sudarytai su mokslinių tyrimų įstaiga, privalo išvykti iš Lietuvos Respublikos.“
 
-\#### 13 straipsnis. 50 straipsnio 1 dalies papildymas 17 punktu ir 2 dalies pakeitimas
+## 13 straipsnis. 50 straipsnio 1 dalies papildymas 17 punktu ir 2 dalies pakeitimas
 
 1. Papildyti 50 straipsnio 1 dalį 17 punktu:
 
@@ -404,31 +404,31 @@ Papildyti Įstatymą 49^2 straipsniu:
 
 „2. Šio straipsnio 1 dalies 4–12, 16, 17 punktuose nustatytais pagrindais leidimas laikinai gyventi panaikinamas, jei tai buvo pagrindas gauti leidimą laikinai gyventi.“
 
-\#### 14 straipsnis. 53 straipsnio papildymas 8 dalimi
+## 14 straipsnis. 53 straipsnio papildymas 8 dalimi
 
 Papildyti 53 straipsnį 8 dalimi:
 
 „8. Asmenims, kuriems sukako 75 metai, asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – I grupės invalidai), ir asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas specialiųjų poreikių lygis, taip pat sergantiems sunkiomis chroninėmis psichikos ligomis asmenims šio Įstatymo 53 straipsnio 6 dalies reikalavimai netaikomi.“
 
-\#### 15 straipsnis. 71 straipsnio 1 dalies 3 punkto pakeitimas
+## 15 straipsnis. 71 straipsnio 1 dalies 3 punkto pakeitimas
 
 71 straipsnio 1 dalies 3 punkte po žodžių „teisine pagalba“ įrašyti žodžius „jeigu Lietuvos Respublikos įstatymai nenustato kitaip“ ir šį punktą išdėstyti taip:
 
 „3) naudotis valstybės garantuojama teisine pagalba, jeigu Lietuvos Respublikos įstatymai nenustato kitaip;“.
 
-\#### 16 straipsnis. 72 straipsnio 2 dalies pakeitimas
+## 16 straipsnis. 72 straipsnio 2 dalies pakeitimas
 
 72 straipsnio 2 dalyje vietoj žodžių „humanitariniais sumetimais“ įrašyti žodžius „dėl humanitarinių priežasčių“ ir šią dalį išdėstyti taip:
 
 „2. Jei Europos Sąjungos valstybė narė paprašo ir jei prieglobsčio prašytojas to pageidauja, Lietuvos Respublika dėl humanitarinių priežasčių gali sutikti nagrinėti prieglobsčio prašytojo prašymą, net jei ji nėra atsakinga už prašymo suteikti prieglobstį nagrinėjimą.“
 
-\#### 17 straipsnis. 90 straipsnio papildymas 4 dalimi
+## 17 straipsnis. 90 straipsnio papildymas 4 dalimi
 
 Papildyti 90 straipsnį 4 dalimi:
 
 „4. Kai užsieniečiui panaikinamas pabėgėlio statusas arba papildoma apsauga Lietuvos Respublikoje, jis taip pat turi teisę naudotis valstybės garantuojama teisine pagalba, jeigu Lietuvos Respublikos įstatymai nenumato kitaip.“
 
-\#### 18 straipsnis. 99 straipsnio 1, 3 ir 4 dalių pakeitimas
+## 18 straipsnis. 99 straipsnio 1, 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 99 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -442,31 +442,31 @@ Papildyti 90 straipsnį 4 dalimi:
 
 „4. Sprendimus dėl pažymos Europos Sąjungos valstybės narės piliečiui jo teisei gyventi Lietuvos Respublikoje patvirtinti išdavimo, Europos Sąjungos leidimų gyventi išdavimo, galiojimo pratęsimo ir panaikinimo priima ir pažymą Europos Sąjungos valstybės narės piliečiui jo teisei gyventi Lietuvos Respublikoje patvirtinti išduoda, Europos Sąjungos leidimus gyventi išduoda, pratęsia ir panaikina vidaus reikalų ministro įgaliotos institucijos.“
 
-\#### 19 straipsnis. 104 straipsnio 2 dalies pakeitimas
+## 19 straipsnis. 104 straipsnio 2 dalies pakeitimas
 
 Pakeisti 104 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio straipsnio 1 dalyje nurodyto Europos Sąjungos valstybės narės piliečio šeimos nariai taip pat įgyja teisę nuolat gyventi Lietuvos Respublikoje, jeigu jie teisėtai gyveno joje pastaruosius 5 metus su Europos Sąjungos valstybės narės piliečiu arba jiems yra išsaugoma teisė gyventi Lietuvos Respublikoje pagal šio Įstatymo 101^1 straipsnio 1 dalį, arba jie yra Europos Sąjungos valstybės narės piliečio, išsaugojusio teisę į Lietuvos Respublikos pilietybę Pilietybės įstatymo nustatyta tvarka, ar lietuvių kilmės asmens šeimos nariai.“
 
-\#### 20 straipsnis. 113 straipsnio 5 punkto pakeitimas
+## 20 straipsnis. 113 straipsnio 5 punkto pakeitimas
 
 Pakeisti 113 straipsnio 5 punktą ir jį išdėstyti taip:
 
 „5) kai priimamas sprendimas užsienietį išsiųsti iš Lietuvos Respublikos arba iš kitos valstybės, kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo;“.
 
-\#### 21 straipsnis. 124 straipsnio 2 dalies pakeitimas
+## 21 straipsnis. 124 straipsnio 2 dalies pakeitimas
 
 Pakeisti 124 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo 11 straipsnio 2, 4, 5 dalyse užsieniečiams nustatyto buvimo be vizos laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę būti arba gyventi Lietuvos Respublikoje.“
 
-\#### 22 straipsnis. 125 straipsnio 6 punkto pakeitimas
+## 22 straipsnis. 125 straipsnio 6 punkto pakeitimas
 
 Pakeisti 125 straipsnio 6 punktą ir jį išdėstyti taip:
 
 „6) jis yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio 2, 4, 5 dalyse nustatytą užsieniečiams buvimo be vizos laiką.“
 
-\#### 23 straipsnis. 126 straipsnio papildymas ir pakeitimas
+## 23 straipsnis. 126 straipsnio papildymas ir pakeitimas
 
 1. 126 straipsnio 1 dalį papildyti 4 punktu:
 
@@ -478,19 +478,19 @@ Pakeisti 125 straipsnio 6 punktą ir jį išdėstyti taip:
 
 3. 126 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 24 straipsnis. 127 straipsnio 4 dalies pakeitimas
+## 24 straipsnis. 127 straipsnio 4 dalies pakeitimas
 
 Pakeisti 127 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Sprendimą dėl užsieniečio išsiuntimo šio Įstatymo 126 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais ir sprendimą dėl vykdymo galimumo šio Įstatymo 126 straipsnio 1 dalies 4 punkte nustatytu pagrindu priima Migracijos departamentas, sprendimą šio Įstatymo 126 straipsnio 1 dalies 3 punkte nustatytu pagrindu – Vilniaus apygardos administracinis teismas, o juos vykdo Valstybės sienos apsaugos tarnyba arba policija. Vykdydamos priimtą sprendimą šio Įstatymo 126 straipsnio 1 dalies 4 punkte nustatytu pagrindu, nurodytos institucijos dėl sprendimo vykdymo konsultuojasi su sprendimą užsienietį išsiųsti priėmusia valstybe.“
 
-\#### 25 straipsnis. 131 straipsnio 2 dalies pakeitimas
+## 25 straipsnis. 131 straipsnio 2 dalies pakeitimas
 
 Pakeisti 131 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Jei nėra lėšų,nurodytų šio straipsnio 1 dalyje, užsienietis iš Lietuvos Respublikos išsiunčiamas arba grąžinamas valstybės lėšomis. Šios valstybės lėšos teisės aktų nustatyta tvarka išieškomos iš fizinių ar juridinių asmenų, kurių užsienietis buvo pakviestas į Lietuvos Respubliką, arba iš vežėjų, kurių užsienietis buvo atvežtas į Lietuvos Respubliką, arba kreipiamasi dėl lėšų grąžinimo į sprendimą užsienietį išsiųsti priėmusią kitą valstybę, kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo, vadovaujantis 2004 m. vasario 23 d. Tarybos sprendimu 2004/191/EB, nustatančiu finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones.“
 
-\#### 26 straipsnis. 133 straipsnio 1 ir 3 dalių pakeitimas
+## 26 straipsnis. 133 straipsnio 1 ir 3 dalių pakeitimas
 
 1. Pakeisti 133 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -500,7 +500,7 @@ Pakeisti 131 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3. Užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą sudaro, tvarko ir duomenis iš šio sąrašo centrinei Šengeno informacinei sistemai teikia Migracijos departamentas Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 27 straipsnis. 134 straipsnio 2 dalies pakeitimas ir papildymas
+## 27 straipsnis. 134 straipsnio 2 dalies pakeitimas ir papildymas
 
 Pakeisti ir papildyti 134 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -518,7 +518,7 @@ Pakeisti ir papildyti 134 straipsnio 2 dalį ir ją išdėstyti taip:
 
 6) jo perdavimas keltų grėsmę Lietuvos Respublikos valstybės saugumui, viešajai tvarkai, žmonių sveikatai arba Lietuvos Respublikos tarptautiniams santykiams.“
 
-\#### 28 straipsnis. Įstatymo priedo pakeitimas
+## 28 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -604,7 +604,7 @@ priedas
 
 36. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 562/2006, nustatantis taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1).“
 
-\#### 29 straipsnis. Įstatymo įsigaliojimas
+## 29 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 1 straipsnio 4–7 dalys, 2–6 ir 21–27 straipsniai įsigalioja nuo visiško 1990 m. birželio 19 d. Konvencijos dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo įsigaliojimo Lietuvos Respublikai dienos.
 

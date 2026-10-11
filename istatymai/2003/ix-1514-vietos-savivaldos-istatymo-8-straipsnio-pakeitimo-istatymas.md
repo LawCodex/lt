@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6A8CE90C63FE"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6A8CE90C63FE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 8 straipsnio pakeitimo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 2002, Nr. 96-4171; 2003, Nr. 28-1124)
 
-\#### 1 straipsnis. 8 straipsnio 30 punkto pakeitimas
+## 1 straipsnis. 8 straipsnio 30 punkto pakeitimas
 
 Pakeisti 8 straipsnio 30 punktą ir jį išdėstyti taip:
 

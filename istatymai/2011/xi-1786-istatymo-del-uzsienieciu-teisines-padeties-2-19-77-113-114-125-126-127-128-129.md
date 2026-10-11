@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0E7B5845B244"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0E7B5845B244.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo "Dėl užsieniečių teisinės padėties" 2, 19, 77, 113, 114, 125, 126, 127, 128, 129, 132, 133, 139 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas
@@ -26,7 +26,7 @@ Vilnius
 
 (Žin., 2004, Nr. [73-2539](https://www.e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD); 2006, Nr. [137-5199](https://www.e-tar.lt/portal/lt/legalAct/TAR.D79EF0646F5C); 2008, Nr. [22-803](https://www.e-tar.lt/portal/lt/legalAct/TAR.FB2157F6318A); 2009, Nr. [93-3984](https://www.e-tar.lt/portal/lt/legalAct/TAR.78766B5EAE80))
 
-\#### 1 straipsnis. 2 straipsnio 7, 9 dalių pakeitimas ir papildymas 181 dalimi
+## 1 straipsnis. 2 straipsnio 7, 9 dalių pakeitimas ir papildymas 181 dalimi
 
 1. Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -40,13 +40,13 @@ Vilnius
 
 „18^1. **Pažeidžiamas asmuo** – nepilnametis, neįgalusis, vyresnis negu 75 metų amžiaus asmuo, nėščia moteris, vieniši tėvas ar motina, auginantys nepilnamečių vaikų, arba asmuo, kuris buvo kankintas, išprievartautas ar patyrė kitokį sunkų psichologinį, fizinį ar seksualinį smurtą.“
 
-\#### 2 straipsnis. 19 straipsnio 6 punkto pakeitimas
+## 2 straipsnis. 19 straipsnio 6 punkto pakeitimas
 
 Pakeisti 19 straipsnio 6 punktą ir jį išdėstyti taip:
 
 „6) priimtas sprendimas jį įpareigoti išvykti, grąžintiarba išsiųsti iš Šengeno valstybės;“.
 
-\#### 3 straipsnis. 77 straipsnio pakeitimas
+## 3 straipsnis. 77 straipsnio pakeitimas
 
 Pakeisti 77 straipsnį ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 77 straipsnį ir jį išdėstyti taip:
 
 3. Šio straipsnio 1 ir 2 dalys netaikomos nelydimam nepilnamečiui prieglobsčio prašytojui. Šio straipsnio 1 dalis taip pat netaikoma, kai nustatoma Europos Sąjungos valstybė narė, atsakinga už prašymo suteikti prieglobstį nagrinėjimą.“
 
-\#### 4 straipsnis. 113 straipsnio pakeitimas
+## 4 straipsnis. 113 straipsnio pakeitimas
 
 Papildyti 113 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -82,7 +82,7 @@ Papildyti 113 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 2. Kai sprendžiama dėl užsieniečio grąžinimo į užsienio valstybę, išsiuntimo iš Lietuvos Respublikos arba įpareigojimo užsieniečiui išvykti iš Lietuvos Respublikos, užsienietis gali būti sulaikytas tik tuo atveju, jeigu sulaikymas būtinas atitinkamam sprendimui priimti ar vykdyti (jeigu užsienietis trukdo priimti ar vykdyti sprendimą, gali pasislėpti vengdamas išsiuntimo ir pan.).“
 
-\#### 5 straipsnis. 114 straipsnio 3 dalies pakeitimas ir papildymas 4 dalimi
+## 5 straipsnis. 114 straipsnio 3 dalies pakeitimas ir papildymas 4 dalimi
 
 1. Pakeisti 114 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ Papildyti 113 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 „4. Užsienietis negali būti sulaikomas ilgiau kaip 6 mėnesiams, išskyrus atvejus, kai jis nebendradarbiauja siekiant jį išsiųsti iš Lietuvos Respublikos (atsisako pateikti apie save duomenis, teikia klaidinančią informaciją ir pan.) arba negaunami reikiami dokumentai tokio užsieniečio išsiuntimui iš valstybės teritorijos įvykdyti. Šiais atvejais sulaikymo terminas gali būti pratęstas papildomam, ne ilgesniam kaip 12 mėnesių, laikotarpiui.“
 
-\#### 6 straipsnis. 125 straipsnio pakeitimas
+## 6 straipsnis. 125 straipsnio pakeitimas
 
 Pakeisti 125 straipsnį ir jį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pakeisti 125 straipsnį ir jį išdėstyti taip:
 
 2. Jeigu yra bent vienas iš šio straipsnio 1 dalyje nustatytų grąžinimo į užsienio valstybę pagrindų, tačiau užsienietis turi galiojantį kitos Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybės narės išduotą dokumentą, suteikiantį teisę joje būti ar gyventi, užsienietis yra įpareigojamas išvykti iš Lietuvos Respublikos.“
 
-\#### 7 straipsnis. 126 straipsnio pakeitimas
+## 7 straipsnis. 126 straipsnio pakeitimas
 
 Pakeisti 126 straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 126 straipsnį ir jį išdėstyti taip:
 
 2. Tarptautinių ir nevyriausybinių organizacijų atstovai gali stebėti užsieniečio išsiuntimą iš Lietuvos Respublikos.“
 
-\#### 8 straipsnis. 127 straipsnio pakeitimas
+## 8 straipsnis. 127 straipsnio pakeitimas
 
 Pakeisti 127 straipsnį ir jį išdėstyti taip:
 
@@ -152,7 +152,7 @@ Pakeisti 127 straipsnį ir jį išdėstyti taip:
 
 7. Tvarką, reglamentuojančią, sprendimų dėl užsieniečio įpareigojimo išvykti, išsiuntimo iš Lietuvos Respublikos, grąžinimo į užsienio valstybę ir vykimo tranzitu per Lietuvos Respublikos teritoriją priėmimą ir jų vykdymą, nustato vidaus reikalų ministras.“
 
-\#### 9 straipsnis. 128 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 9 straipsnis. 128 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 1. Pakeisti 128 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 127 straipsnį ir jį išdėstyti taip:
 
 4) padaryto teisės pažeidimo pavojingumo pobūdį ir mastą.“
 
-\#### 10 straipsnis. 129 straipsnio pakeitimas
+## 10 straipsnis. 129 straipsnio pakeitimas
 
 Pakeisti 129 straipsnį ir jį išdėstyti taip:
 
@@ -182,7 +182,7 @@ Pakeisti 129 straipsnį ir jį išdėstyti taip:
 
 3. Sprendžiant nelydimo nepilnamečio užsieniečio grąžinimo klausimą, bendradarbiaujama su užsienio valstybėmis ir tarptautinėmis organizacijomis pagal sudarytas tarptautines sutartis.“
 
-\#### 11 straipsnis. 132 straipsnio pakeitimas
+## 11 straipsnis. 132 straipsnio pakeitimas
 
 Pakeisti 132 straipsnį ir jį išdėstyti taip:
 
@@ -190,7 +190,7 @@ Pakeisti 132 straipsnį ir jį išdėstyti taip:
 
 Jeigu užsieniečio išsiuntimas iš Lietuvos Respublikos yra sustabdytas dėl šio Įstatymo 128 straipsnio 2 dalies 2, 3 ir 4 punktuose numatytų aplinkybių, šios aplinkybės per vienerius metus nuo sprendimo išsiųsti užsienietį iš Lietuvos Respublikos vykdymo sustabdymo neišnyko ir užsienietis nėra sulaikytas, jam išduodamas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu.“
 
-\#### 12 straipsnis. 133 straipsnio pakeitimas
+## 12 straipsnis. 133 straipsnio pakeitimas
 
 Pakeisti 133 straipsnį ir jį išdėstyti taip:
 
@@ -206,7 +206,7 @@ Pakeisti 133 straipsnį ir jį išdėstyti taip:
 
 5. Sprendimą uždrausti (neuždrausti) užsieniečiui atvykti į Lietuvos Respubliką priima Migracijos departamentas.“
 
-\#### 13 straipsnis. 139 straipsnio 1 dalies pakeitimas
+## 13 straipsnis. 139 straipsnio 1 dalies pakeitimas
 
 Pakeisti 139 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -220,13 +220,13 @@ Pakeisti 139 straipsnio 1 dalį ir ją išdėstyti taip:
 
 4) užsienietis išsiunčiamas iš Lietuvos Respublikos.“
 
-\#### 14 straipsnis. Įstatymo priedo papildymas
+## 14 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 37 punktu:
 
 „37. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/115/EB dėl bendrų nelegaliai esančių trečiųjų šalių piliečių grąžinimo standartų ir tvarkos valstybėse narėse (OL 2008 L 348, p. 98).“
 
-\#### 15 straipsnis. Baigiamosios nuostatos
+## 15 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2012 m. vasario 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6D62E7BEC7F4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6D62E7BEC7F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 3, 22, 24, 26, 29, 30, 31, 32, 33, 37, 40, 41, 44, 45 straipsnių, dešimtojo skirsnio pavadinimo pakeitimo ir papildymo bei įstatymo papildymo 31(1), 44(1) straipsniais įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 Nr. 92-2843; 2001, Nr. 48-1656, Nr. 66-2407)
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
@@ -38,13 +38,13 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 
 Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės ilgalaikės raidos strategija.“
 
-\#### 2 straipsnis. 22 straipsnio 3 punkto pakeitimas
+## 2 straipsnis. 22 straipsnio 3 punkto pakeitimas
 
 Pakeisti 22 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) koordinuoja ministerijų ir Vyriausybės įstaigų veiklą; svarsto ir aprobuoja ministerijų, Vyriausybės įstaigų strateginius veiklos planus, rengia Valstybės ilgalaikės raidos strategiją ir teikia ją tvirtinti Seimui;“.
 
-\#### 3 straipsnis. 24 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 24 straipsnio 2 dalies pakeitimas
 
 1. Pakeisti 24 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 22 straipsnio 3 punktą ir jį išdėstyti taip:
 
 3. Buvusius 24 straipsnio 2 dalies 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ir 16 punktus laikyti atitinkamai 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ir 14 punktais.
 
-\#### 4 straipsnis. 26 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
+## 4 straipsnis. 26 straipsnio 2 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Pakeisti 22 straipsnio 3 punktą ir jį išdėstyti taip:
 
 12) nustato ministerijos valstybės sekretoriaus, ministerijos sekretorių administravimo sritis;“.
 
-\#### 5 straipsnis. 29 straipsnio 9 ir 10 dalių pakeitimas
+## 5 straipsnis. 29 straipsnio 9 ir 10 dalių pakeitimas
 
 1. Pakeisti 29 straipsnio 9 dalį ir ją išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 22 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „10. Ministerijos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai paskelbtais strateginiais veiklos planais, rengiamais vadovaujantis Vyriausybės programa, kuriai Seimas pritaria, ir derinamais su Valstybės ilgalaikės raidos strategija.“
 
-\#### 6 straipsnis. 30 straipsnio pakeitimas
+## 6 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 2. Ministerijos administraciją sudaro departamentai, skyriai ir kiti padaliniai.“
 
-\#### 7 straipsnis. 31 straipsnio pakeitimas
+## 7 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 5) atlieka kitas ministro jam pavestas funkcijas.“
 
-\#### 8 straipsnis. Įstatymo papildymas 311 straipsniu
+## 8 straipsnis. Įstatymo papildymas 311 straipsniu
 
 Papildyti Įstatymą 31^1 straipsniu:
 
@@ -160,25 +160,25 @@ Papildyti Įstatymą 31^1 straipsniu:
 
 5) vykdo kitas ministro jiems pavestas funkcijas.“
 
-\#### 9 straipsnis. 32 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 32 straipsnio 1 dalies pakeitimas
 
 Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Ministerijoje yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai yra ministras (kolegijos pirmininkas), viceministras, ministerijos valstybės sekretorius ir ministerijos sekretoriai. Į kolegijos sudėtį gali būti įtraukiami kiti ministerijos bei kitų institucijų atstovai.“
 
-\#### 10 straipsnis. 33 straipsnio 7 dalies pakeitimas
+## 10 straipsnis. 33 straipsnio 7 dalies pakeitimas
 
 Pakeisti 33 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Vyriausybės įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai paskelbtaisstrateginiais veiklos planais, rengiamais vadovaujantis Vyriausybės programa, kuriai Seimas pritaria, ir derinamais su Valstybės ilgalaikės raidos strategija.“
 
-\#### 11 straipsnis. 37 straipsnio 4 dalies pakeitimas
+## 11 straipsnis. 37 straipsnio 4 dalies pakeitimas
 
 Pakeisti 37 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Svarbiausi klausimai gali būti aptariami prieš Vyriausybės posėdžius ministrų pasitarimuose,Ministro Pirmininko sudarytuose nuolatiniuose arba laikinuosiuose Vyriausybės komitetuose.“
 
-\#### 12 straipsnis. 40 straipsnio pakeitimas
+## 12 straipsnis. 40 straipsnio pakeitimas
 
 1. Pakeisti 40 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -192,7 +192,7 @@ Pakeisti 37 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „3. Ministras Pirmininkas turi teisę Vyriausybės posėdžio metu pasiūlyti į tvirtinamą darbotvarkę įtraukti ir naujų klausimų. Pasiūlyti Ministrui Pirmininkui įtraukti klausimą į darbotvarkę turi teisę ir ministras Vyriausybės darbo reglamento nustatyta tvarka. Balsuojama, ar klausimą įtraukti į darbotvarkę. Jei šiuo klausimu teigiamas sprendimas nepriimamas, klausimas turi būti teikiamas svarstyti Vyriausybės darbo reglamento nustatyta tvarka.“
 
-\#### 13 straipsnis. 41 straipsnio 1 ir 4 dalių pakeitimas
+## 13 straipsnis. 41 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -202,7 +202,7 @@ Pakeisti 37 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Vyriausybės nutarimai pasirašomi Vyriausybės darbo reglamentonustatyta tvarka, jeigu Vyriausybė nenustato kitaip.“
 
-\#### 14 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
+## 14 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
 
 Pakeisti dešimtojo skirsnio pavadinimą ir jį išdėstyti taip:
 
@@ -210,7 +210,7 @@ Pakeisti dešimtojo skirsnio pavadinimą ir jį išdėstyti taip:
 
 MINISTRO PIRMININKO POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS KANCELIARIJA“.
 
-\#### 15 straipsnis. 44 straipsnio pakeitimas
+## 15 straipsnis. 44 straipsnio pakeitimas
 
 Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
@@ -226,7 +226,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
 3) atlieka kitas Ministro Pirmininko jam pavestas funkcijas.“
 
-\#### 16 straipsnis. Įstatymo papildymas 441 straipsniu
+## 16 straipsnis. Įstatymo papildymas 441 straipsniu
 
 Papildyti Įstatymą 44^1 straipsniu:
 
@@ -238,7 +238,7 @@ Papildyti Įstatymą 44^1 straipsniu:
 
 3. Vyriausybės kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės kancleriui.“
 
-\#### 17 straipsnis. 45 straipsnio pakeitimas
+## 17 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -262,7 +262,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 7) vykdo kitas Ministro Pirmininko jam pavestas funkcijas.“
 
-\#### 18 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 18 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė per 2 mėnesius nuo šio Įstatymo įsigaliojimo peržiūri galiojančius teisės aktus, susijusius su šio Įstatymo nuostatų įgyvendinimu, ir prireikus juos pakeičia arba parengia reikalingus projektus ir juos pateikia Lietuvos Respublikos Seimui.
 

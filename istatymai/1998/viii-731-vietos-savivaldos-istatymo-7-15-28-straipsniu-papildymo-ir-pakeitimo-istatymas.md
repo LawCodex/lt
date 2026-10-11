@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.071C500F1B91"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.071C500F1B91.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 7, 15, 28 straipsnių papildymo ir pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 1995, Nr. [30-683](https://www.e-tar.lt/portal/lt/legalAct/TAR.373D22A2269E); 1996, Nr. [50-1196](https://www.e-tar.lt/portal/lt/legalAct/TAR.587826FB9EA2); 1997, Nr. [20-446](https://www.e-tar.lt/portal/lt/legalAct/TAR.5B552C063746), Nr. [106-2669](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B1A1F90F6E0))
 
-\#### 1 straipsnis. 7 straipsnio papildymas
+## 1 straipsnis. 7 straipsnio papildymas
 
 7 straipsnio 10 dalyje po žodžių „apskrities viršininkas“ įrašyti žodžius „Vyriausybės atstovas“ ir šią dalį išdėstyti taip:
 
 „Tarybos posėdžiai yra vieši. Juose turi teisę dalyvauti ir tarybai leidus pasisakyti savivaldybės kontrolierius, savivaldybės administratorius, apskrities viršininkas, Vyriausybės atstovas**,**Lietuvos Respublikos Seimo nariai. Valstybės institucijų, įmonių, įstaigų, organizacijų atstovų ir gyventojų dalyvavimo tarybos posėdžiuose tvarką nustato tarybos statutas.“
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas
+## 2 straipsnis. 15 straipsnio pakeitimas
 
 15 straipsnio 26 punkte vietoj žodžių „apskrities viršininko“ įrašyti žodžius „Vyriausybės atstovo“ ir šį punktą išdėstyti taip:
 
 „26) savo iniciatyva, Vyriausybės atstovo arba kitų institucijų siūlymu ar reikalavimu panaikina ar atšaukia įstatymams, Vyriausybės nutarimams ar tarybos sprendimams prieštaraujančius tarybos (valdybos, jeigu ji sudaroma) sprendimus ir mero potvarkius, taip pat savivaldybės pareigūnų įsakymus;“.
 
-\#### 3 straipsnis. 28 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 28 straipsnio 1 dalies pakeitimas
 
 28 straipsnio 1 dalyje vietoj žodžių „apskričių viršininkai“ įrašyti žodžius „Vyriausybės skiriami pareigūnai – Vyriausybės atstovai“ ir šią dalį išdėstyti taip:
 

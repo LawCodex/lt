@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/7c86fc7026dc11e5bf92d6af3f6a2e8b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7C86FC7026DC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 121, 123, 125, 126, 127, 130, 131 ir 181 straipsnių pakeitimo įstatymas
@@ -26,13 +26,13 @@ BAUDŽIAMOJO PROCESO KODEKSO 121, 123, 125, 126, 127, 130, 131 IR 181 STRAIPSNI�
 
 Vilnius
 
-\#### 1 straipsnis. 121 straipsnio pakeitimas
+## 1 straipsnis. 121 straipsnio pakeitimas
 
 Pakeisti 121 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kardomosios priemonės gali būti skiriamos tik tuo atveju, kai yra pakankamai duomenų, leidžiančių manyti, kad įtariamasis padarė nusikalstamą veiką. Kai kardomosios priemonės skyrimo klausimą sprendžia ikiteisminio tyrimo teisėjasar teismas, iki teismo posėdžio asmuo, kuriam skiriama kardomoji priemonė, ir jo gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga, kuria grindžiamas pareiškimas dėl kardomosios priemonės skyrimo.“
 
-\#### 2 straipsnis. 123 straipsnio pakeitimas
+## 2 straipsnis. 123 straipsnio pakeitimas
 
 Pakeisti 123 straipsnį ir jį išdėstyti taip:
 
@@ -52,13 +52,13 @@ Pakeisti 123 straipsnį ir jį išdėstyti taip:
 
 7. Teisėjui nagrinėjant suėmimo skyrimo klausimą, rašomas posėdžio protokolas. Jame užrašomi pristatyto teisėjui asmens paaiškinimai, prokuroro ir gynėjo pareiškimai bei pastabos.“
 
-\#### 3 straipsnis. 125 straipsnio pakeitimas
+## 3 straipsnis. 125 straipsnio pakeitimas
 
 Pakeisti 125 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) tikslas, kurio siekiama skiriant kardomąją priemonę, o kai priimama nutartis skirti suėmimą, – suėmimo skyrimo sąlygos, vienas ar keli šio Kodekso 122 straipsnyje nustatyti suėmimo skyrimo pagrindai ir motyvai, taip pat faktinės aplinkybės ir motyvai, kuriais remiantis nebuvo skirtos švelnesnės kardomosios priemonės siekiant šio Kodekso 119 straipsnyje numatytų tikslų.“
 
-\#### 4 straipsnis. 126 straipsnio pakeitimas
+## 4 straipsnis. 126 straipsnio pakeitimas
 
 Pakeisti 126 straipsnį ir jį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 126 straipsnį ir jį išdėstyti taip:
 
 Nutartyje atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu ir nutartyje atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę turi būti nurodomi šio Kodekso 125 straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat faktinės aplinkybės irmotyvai, dėl kurių atsisakoma skirti suėmimą, intensyvią priežiūrą, namų areštą, įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, arba faktinės aplinkybės ir motyvai, dėl kurių atsisakoma skirti suėmimą ir skiriama kita kardomoji priemonė.“
 
-\#### 5 straipsnis. 127 straipsnio pakeitimas
+## 5 straipsnis. 127 straipsnio pakeitimas
 
 Pakeisti 127 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 127 straipsnį ir jį išdėstyti taip:
 
 11. Viso baudžiamojo proceso metu suėmimas negali trukti ilgiau kaip du trečdalius didžiausios laisvės atėmimo bausmės, baudžiamajame įstatyme nustatytos už sunkiausią nusikaltimą, dėl kurio tiriama ir nagrinėjama byla.“
 
-\#### 6 straipsnis. 130 straipsnio pakeitimas
+## 6 straipsnis. 130 straipsnio pakeitimas
 
 Pakeisti 130 straipsnį ir jį išdėstyti taip:
 
@@ -106,7 +106,7 @@ Pakeisti 130 straipsnį ir jį išdėstyti taip:
 
 3. Jei suėmimas paskiriamas ar jo terminas pratęsiamas nagrinėjant bylą Lietuvos apeliaciniame teisme, skundus dėl suėmimo paskyrimo ir pratęsimo nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija, į kurios sudėtį negali įeiti tą bylą nagrinėjantys teisėjai.“
 
-\#### 7 straipsnis. 131 straipsnio pakeitimas
+## 7 straipsnis. 131 straipsnio pakeitimas
 
 1. Pakeisti 131 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -116,13 +116,13 @@ Pakeisti 130 straipsnį ir jį išdėstyti taip:
 
 „2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį paskirtą suėmimą arba pratęstą suėmimo terminą palikti galioti arba pakeisti suėmimo terminą, arba pakeisti suėmimą kita kardomąja priemone, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.“
 
-\#### 8 straipsnis. 181 straipsnio pakeitimas
+## 8 straipsnis. 181 straipsnio pakeitimas
 
 Pakeisti 181 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. Susipažinimo su ikiteisminio tyrimo medžiaga metu proceso dalyviai turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. Prokuroras taip pat neturi teisės neleisti įtariamajam ir jo gynėjui bet kuriuo ikiteisminio tyrimo metu susipažinti su prokuroro pateikta medžiaga, kuri yra ar buvo teikiama teismui prašant skirti ar pratęsti kardomąją priemonę, dėl kurios skyrimo sprendžia ikiteisminio tyrimo teisėjas ar teismas, ar daryti šios medžiagos dalies kopijas ar išrašus šio straipsnio 1 ir 6 dalyse nustatyta tvarka.“
 
-\#### 9 straipsnis. Įstatymo įgyvendinimas
+## 9 straipsnis. Įstatymo įgyvendinimas
 
 1. Suėmimas, kuris buvo paskirtas ar kurio terminas buvo pratęstas iki šio įstatymo įsigaliojimo, taikomas iki paskirto suėmimo taikymo termino pabaigos. Pasibaigus šiam terminui, suėmimas skiriamas ar jo terminas pratęsiamas pagal šio įstatymo nuostatas.
 

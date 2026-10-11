@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a1912670f6c411ec8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1912670F6C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 11, 13, 14, 16, 18, 20, 20-1, 21, 22, 23, 26, 29, 49, 50, 55, 56, 57, 63 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo, 54 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIV-1001 5, 7 ir 15 straipsnių pakeitimo įstatymas
@@ -267,5 +267,3 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_65c95022f4a549e480c1475af10e5914_end

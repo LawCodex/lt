@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A8D99FC9979B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A8D99FC9979B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos principinės kariuomenės struktūros 2012 metais, planuojamos principinės kariuomenės struktūros 2017 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2012 metais ir 2017 metais patvirtinimo įstatymo 2 ir 3 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2011, Nr. [86-4170](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDD1A1349EBB))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 2 straipsnio 2 dalies 1 pastraipoje vietoj skaičiaus „13 700“ įrašyti skaičių „13 880“ ir vietoj skaičiaus „16 425“ įrašyti skaičių „16 625“, 2 punkte vietoj skaičiaus „720“ įrašyti skaičių „900“, vietoj skaičiaus „1 080“ įrašyti skaičių „1 280“, vietoj skaičiaus „20“ įrašyti skaičių „200“, vietoj skaičiaus „80“ įrašyti skaičių „280“ ir šią dalį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 5) ribinis kariūnų skaičius – nuo 180 iki 235.“
 
-\#### 2 straipsnis. 3 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 3 straipsnio 2 dalies pakeitimas
 
 3 straipsnio 2 dalies 1 pastraipoje vietoj skaičiaus „18 340“ įrašyti skaičių „18 770“ ir vietoj skaičiaus „19 720“ įrašyti skaičių „20 200“, 2 punkte vietoj skaičiaus „1 020“ įrašyti skaičių „1 450“, vietoj skaičiaus „1 280“ įrašyti skaičių „1 760“, vietoj skaičiaus „20“ įrašyti skaičių „450“, vietoj skaičiaus „80“ įrašyti skaičių „560“ ir šią dalį išdėstyti taip:
 

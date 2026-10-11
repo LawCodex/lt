@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d29edc324dd311f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D29EDC324DD3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3 straipsnių pakeitimo ir II skyriaus papildymo devintuoju skirsniu įstatymas
@@ -26,7 +26,7 @@ AKCIZŲ ĮSTATYMO NR. IX-569 1, 2, 3 STRAIPSNIŲ PAKEITIMO IR II SKYRIAUS PAPILD
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnio 7 dalį ir ją išdėstyti taip:
 
@@ -40,13 +40,13 @@ Vilnius
 
 „8^1. Apmokestinant akcizais nealkoholinius saldintus gėrimus, kaip jie apibrėžti šio įstatymo 3 straipsnio 22^1 dalyje, taikomos tik šio įstatymo 11, 13 straipsnių, 19 straipsnio 1, 2 ir 4 dalių, 20, 21, 22 straipsnių ir II skyriaus devintojo skirsnio nuostatos.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 Papildyti 2 straipsnio 1 dalį 8 punktu:
 
 „8) nealkoholiniai saldinti gėrimai.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 1. Papildyti 3 straipsnį nauja 111 dalimi:
 
@@ -72,7 +72,7 @@ Papildyti 2 straipsnio 1 dalį 8 punktu:
 
 „27^1. **Saldikliai** – kaip apibrėžta 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento [(EB) Nr. 1333/2008](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32008R1333&locale=lt) dėl maisto priedų su visais pakeitimais I priedo 1 punkte.“
 
-\#### 4 straipsnis. II skyriaus pakeitimas
+## 4 straipsnis. II skyriaus pakeitimas
 
 Papildyti II skyrių devintuoju skirsniu:
 
@@ -80,7 +80,7 @@ Papildyti II skyrių devintuoju skirsniu:
 
 SALDINTŲ GĖRIMŲ APMOKESTINIMAS AKCIZAIS
 
-\#### 75 straipsnis. Prievolė mokėti akcizus už saldintus gėrimus
+## 75 straipsnis. Prievolė mokėti akcizus už saldintus gėrimus
 
 1. Prievolė mokėti akcizus už saldintus gėrimus atsiranda, jeigu už juos akcizai nesumokėti:
 
@@ -98,11 +98,11 @@ SALDINTŲ GĖRIMŲ APMOKESTINIMAS AKCIZAIS
 
 4. Asmuo, verslo reikmėms gaunantis iš kitos valstybės narės ir (arba) Lietuvos Respublikoje gaminantis saldintus gėrimus, privalo centrinio mokesčių administratoriaus nustatyta tvarka įsiregistruoti akcizų už saldintus gėrimus mokėtoju.
 
-\#### 76 straipsnis. Akcizų už saldintus gėrimus mokėtojai
+## 76 straipsnis. Akcizų už saldintus gėrimus mokėtojai
 
 Akcizų už saldintus gėrimus mokėtojai yra registruoti akcizų už saldintus gėrimus mokėtojai, saldintų gėrimų importuotojai ir (arba) asmenys, verslo reikmėms Lietuvos Respublikoje įsigyjantys saldintų gėrimų.
 
-\#### 77 straipsnis. Saldintų gėrimų atleidimas nuo akcizų
+## 77 straipsnis. Saldintų gėrimų atleidimas nuo akcizų
 
 1. Be šio įstatymo 19 straipsnio 1 dalyje nurodytų atvejų, nuo akcizų už saldintus gėrimus atleidžiami:
 
@@ -124,7 +124,7 @@ Akcizų už saldintus gėrimus mokėtojai yra registruoti akcizų už saldintus 
 
 3. Tais atvejais, kai akcizai už saldintus gėrimus, kurie vadovaujantis šio straipsnio nuostatomis yra atleidžiami nuo akcizų, yra sumokėti, jie grąžinami centrinio mokesčių administratoriaus nustatyta tvarka.
 
-\#### 78 straipsnis. Saldintiems gėrimams taikomi akcizų tarifai
+## 78 straipsnis. Saldintiems gėrimams taikomi akcizų tarifai
 
 1. Saldintiems gėrimams (neatsižvelgiant į tai, ar jų sudėtyje yra saldiklių), išskyrus gėrimų koncentratus, taikomi akcizų tarifai:
 
@@ -136,7 +136,7 @@ Akcizų už saldintus gėrimus mokėtojai yra registruoti akcizų už saldintus 
 
 3. Šio straipsnio 1 dalyje nenurodytiems saldintiems gėrimams, turintiems pridėtinių cukrų, kurių 100 ml gėrimo yra iki 2,5 g, ir saldiklių arba tik saldiklių, taikomas šio straipsnio 1 dalies 1 punkte nustatytas akcizų tarifas.
 
-\#### 79 straipsnis. Akcizų už saldintus gėrimus deklaracijos pateikimas ir mokesčio sumokėjimas
+## 79 straipsnis. Akcizų už saldintus gėrimus deklaracijos pateikimas ir mokesčio sumokėjimas
 
 1. Akcizų už saldintus gėrimus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo 75 straipsnio 1 dalies 1, 2 ir 4 punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už saldintus gėrimus, privalo pateikti akcizų už saldintus gėrimus deklaraciją, kurioje privalo būti deklaruota akcizų suma, apskaičiuota už saldintus gėrimus, už kuriuos šio įstatymo 75 straipsnyje nustatytais pagrindais atsirado prievolė tą mokestinį laikotarpį sumokėti akcizus. Akcizų už saldintus gėrimus deklaracijos formą, jos pildymo, tikslinimo ir pateikimo tvarką nustato centrinis mokesčių administratorius. Akcizai už saldintus gėrimus privalo būti sumokėti iki šioje dalyje nustatyto akcizų už saldintus gėrimus deklaracijos pateikimo termino pabaigos.
 
@@ -146,11 +146,11 @@ Akcizų už saldintus gėrimus mokėtojai yra registruoti akcizų už saldintus 
 
 4. Už importuotus saldintus gėrimus akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiam produktui būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose.“
 
-\#### 5 straipsnis. Įstatymo 75 straipsnio pernumeravimas
+## 5 straipsnis. Įstatymo 75 straipsnio pernumeravimas
 
 Buvusį Įstatymo 75 straipsnį laikyti 80 straipsniu.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2026 m. sausio 1 d.
 

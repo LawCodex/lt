@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CE2E0D623A02"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CE2E0D623A02.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 6, 8, 12, 13, 20 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymo 3, 4, 7 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2008, Nr. [149-6016](https://www.e-tar.lt/portal/lt/legalAct/TAR.9665F2D6C990))
 
-\#### 1 straipsnis. 3 straipsnio 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „11. Pasibaigus kiekvienam kalendorinių metų ketvirčiui, paskyrusi išmoką vaikui savivaldybės administracija Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos Išmokų vaikams skyrimo ir mokėjimo nuostatų nustatyta tvarka pateikia naujų išmokos vaikui gavėjų duomenis, išskyrus atvejus, kai išmoka vaikui skiriama vaikui iki 3 metų, vaikui iš šeimos, auginančios tris ir daugiau vaikų, arba globojamam (rūpinamam) vaikui, kuriam mokama globos (rūpybos) išmoka ir (ar) našlaičių pensija.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Išmoka privalomosios tarnybos kario vaikui, globos (rūpybos) išmoka ir išmoka vaikui skiriama ir mokama nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Šio įstatymo 6 straipsnio 8 dalyje nustatytais atvejais išmoka vaikui skiriama 12 mėnesių, o pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie šeimos pajamas už praėjusius kalendorinius metus. Socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą gaunančiai šeimai išmoka vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių.“
 
-\#### 3 straipsnis. 7 straipsnio papildymas 4 dalimi
+## 3 straipsnis. 7 straipsnio papildymas 4 dalimi
 
 Papildyti 7 straipsnį 4 dalimi:
 

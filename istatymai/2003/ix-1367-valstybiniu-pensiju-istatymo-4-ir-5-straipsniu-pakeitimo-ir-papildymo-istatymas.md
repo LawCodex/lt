@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AFE572A4C3AC"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AFE572A4C3AC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [101-2018](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C); 1995, Nr. [59-1476](https://www.e-tar.lt/portal/lt/legalAct/TAR.A6203CE52B84), Nr. [102-2282](https://www.e-tar.lt/portal/lt/legalAct/TAR.770A3DAC5194); 1997, Nr. [104-2622](https://www.e-tar.lt/portal/lt/legalAct/TAR.F270E9DB8FA1), Nr. [115-2911](https://www.e-tar.lt/portal/lt/legalAct/TAR.901DC8BD80E5); 1998, Nr. [56-1546](https://www.e-tar.lt/portal/lt/legalAct/TAR.E5179D300BC1); 2000, Nr. [111-3578](https://www.e-tar.lt/portal/lt/legalAct/TAR.8F2EC27AECAF))
 
-\#### 1 straipsnis. 4 straipsnio papildymas
+## 1 straipsnis. 4 straipsnio papildymas
 
 Papildyti 4 straipsnį 5 dalimi:
 
 „Teisę gauti pirmojo laipsnio valstybinę pensiją šio įstatymo nustatyta tvarka turi Lietuvos Respublikos piliečiai – olimpinių žaidynių čempionai (aukso medalio laimėtojai). Teisę gauti antrojo laipsnio valstybinę pensiją šio įstatymo nustatyta tvarka turi Lietuvos Respublikos piliečiai – olimpinių žaidynių prizininkai (sidabro, bronzos medalių laimėtojai).“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 5 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 5 straipsnį nauja 6 dalimi:
 

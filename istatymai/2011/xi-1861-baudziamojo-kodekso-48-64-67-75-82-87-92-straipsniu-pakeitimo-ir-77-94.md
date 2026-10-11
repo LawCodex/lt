@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B5EDB4B9A33"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2B5EDB4B9A33.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 48, 64, 67, 75, 82, 87, 92 straipsnių pakeitimo ir 77, 94 straipsnių pripažinimo netekusiais galios įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43); 2003, Nr. [38-1733](https://www.e-tar.lt/portal/lt/legalAct/TAR.975256606460); 2004, Nr. [108-4030](https://www.e-tar.lt/portal/lt/legalAct/TAR.4B06DA349A94); 2005, Nr. [81-2945](https://www.e-tar.lt/portal/lt/legalAct/TAR.DC5B5908CC19); 2007, Nr. [81-3309](https://www.e-tar.lt/portal/lt/legalAct/TAR.6286B3B96ECC); 2008, Nr. [73-2796](https://www.e-tar.lt/portal/lt/legalAct/TAR.F851E98BFEB8); 2010, Nr. [145-7439](https://www.e-tar.lt/portal/lt/legalAct/TAR.3999918E0656); 2011, Nr. [81-3959](https://www.e-tar.lt/portal/lt/legalAct/TAR.31B9BBE2605B))
 
-\#### 1 straipsnis. 48 straipsnio 3 dalies 1 punkto pakeitimas
+## 1 straipsnis. 48 straipsnio 3 dalies 1 punkto pakeitimas
 
 48 straipsnio 3 dalies 1 punkte išbraukti žodžius „teismo ar“ ir šį punktą išdėstyti taip:
 
 „1) be bausmę vykdančios institucijos žinios nekeisti gyvenamosios vietos;“.
 
-\#### 2 straipsnis. 64 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 64 straipsnio 1 dalies pakeitimas
 
 64 straipsnio 1 dalyje išbraukti žodžius „arba naują nusikalstamą veiką neatliktos bausmės laikotarpiu padaro asmuo, lygtinai atleistas nuo bausmės prieš terminą“ ir šią dalį išdėstyti taip:
 
 „1. Jeigu nuteistasis, neatlikęs paskirtos bausmės, padaro naują nusikalstamą veiką arba naują nusikalstamą veiką bausmės vykdymo atidėjimo laikotarpiu padaro asmuo, kuriam bausmės vykdymas atidėtas, teismas, paskyręs bausmę už naują nusikaltimą ar baudžiamąjį nusižengimą, bausmes subendrina. Skirdamas subendrintą bausmę, teismas gali bausmes visiškai ar iš dalies sudėti.“
 
-\#### 3 straipsnis. 67 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 67 straipsnio 2 dalies pakeitimas
 
 Pakeisti 67 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -66,7 +66,7 @@ Pakeisti 67 straipsnio 2 dalį ir ją išdėstyti taip:
 
 10) išplėstinis turto konfiskavimas.“
 
-\#### 4 straipsnis. 75 straipsnio pakeitimas
+## 4 straipsnis. 75 straipsnio pakeitimas
 
 Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
@@ -104,11 +104,11 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 5. Bausmės vykdymo atidėjimo vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas.“
 
-\#### 5 straipsnis. 77 straipsnio pripažinimas netekusiu galios
+## 5 straipsnis. 77 straipsnio pripažinimas netekusiu galios
 
 77 straipsnį pripažinti netekusiu galios.
 
-\#### 6 straipsnis. 82 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 82 straipsnio 1 dalies pakeitimas
 
 82 straipsnio 1 dalyje po žodžio „bausmės“ įrašyti žodžius „taip pat nepilnamečiui, kuriam atidėtas bausmės vykdymas arba kuris lygtinai paleistas iš pataisos įstaigųLietuvos Respublikos bausmių vykdymo kodekso XI skyriuje numatytais pagrindais“ ir šią dalį išdėstyti taip:
 
@@ -126,7 +126,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 6) atidavimas į specialią auklėjimo įstaigą.“
 
-\#### 7 straipsnis. 87 straipsnio papildymas ir pakeitimas
+## 7 straipsnis. 87 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 87 straipsnį nauja 4 dalimi:
 
@@ -134,7 +134,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias 87 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis.
 
-\#### 8 straipsnis. 92 straipsnio pakeitimas
+## 8 straipsnis. 92 straipsnio pakeitimas
 
 Pakeisti 92 straipsnį ir jį išdėstyti taip:
 
@@ -146,11 +146,11 @@ Pakeisti 92 straipsnį ir jį išdėstyti taip:
 
 3. Bausmės vykdymo atidėjimo nepilnamečiams vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas.“
 
-\#### 9 straipsnis. 94 straipsnio pripažinimas netekusiu galios
+## 9 straipsnis. 94 straipsnio pripažinimas netekusiu galios
 
 94 straipsnį pripažinti netekusiu galios.
 
-\#### 10 straipsnis. Įstatymo įgyvendinimas
+## 10 straipsnis. Įstatymo įgyvendinimas
 
 1. Asmenims, kurie buvo lygtinai atleisti nuo laisvės atėmimo bausmės prieš terminą, skirti įpareigojimai po šio įstatymo įsigaliojimo vykdomi, iki sueis laisvės atėmimo bausmės terminas.
 
@@ -160,7 +160,7 @@ Pakeisti 92 straipsnį ir jį išdėstyti taip:
 
 4. Asmeniui, lygtinai atleistam nuo laisvės atėmimo bausmės prieš terminą, per neatliktos bausmės laiką padariusiam naują nusikalstamą veiką, teismas skiria bausmę pagal Lietuvos Respublikos baudžiamojo kodekso 64 straipsnyje nustatytas taisykles.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 

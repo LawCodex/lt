@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AE7E5919B8C1"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AE7E5919B8C1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 4, 5, 6, 7, 8, 9, 10 ir 23 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [67-1659](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0); 2000, Nr. [18-431](https://www.e-tar.lt/portal/lt/legalAct/TAR.B24AF3538B14), Nr. [85-2574](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF80B84E46E6); 2001, Nr. [35-1165](https://www.e-tar.lt/portal/lt/legalAct/TAR.932273BC5680); 2003, Nr. [42-1911](https://www.e-tar.lt/portal/lt/legalAct/TAR.979299BCE0EB), Nr. [111-4929](https://www.e-tar.lt/portal/lt/legalAct/TAR.FF478C6250F4), Nr. [123-5584](https://www.e-tar.lt/portal/lt/legalAct/TAR.6AE3851DBCAA); 2004, Nr. [98-3630](https://www.e-tar.lt/portal/lt/legalAct/TAR.31A28B4F31FC))
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 Valstybinėje tarnyboje dirbantis asmuo privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 4. Teisės aktų nustatytais atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja pačios iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės etikos komisijos.“
 
-\#### 3 straipsnis. 6 straipsnio pakeitimas
+## 3 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 3. Deklaruojantis asmuo gali nenurodyti duomenų apie sutuoktinį, jeigu sutuoktiniai kartu negyvena, neturi bendro ūkio ir dėl to šie duomenys jam nėra žinomi.“
 
-\#### 4 straipsnis. 7 straipsnio pakeitimas
+## 4 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -88,7 +88,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 4. Šio straipsnio 1, 2 ir 3 dalyse nustatytais atvejais deklaracija patvirtinama, patikslinama ar papildoma Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka pateikiant deklaracijos priedą dėl duomenų patvirtinimo, patikslinimo ar papildymo. Šis priedas yra neatskiriama deklaracijos dalis.“
 
-\#### 5 straipsnis. 8 straipsnio pakeitimas
+## 5 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 3. Deklaracijos saugomos institucijose, kurioms jos yra pateiktos. Už deklaracijų saugojimą yra atsakingi institucijų vadovai ar jų įgalioti atstovai.“
 
-\#### 6 straipsnis. 9 straipsnio pakeitimas
+## 6 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
@@ -116,7 +116,7 @@ Deklaracijoje pateiktus duomenis gali tikrinti:
 
 4) teisėsaugos institucijos teisės aktų nustatyta tvarka.“
 
-\#### 7 straipsnis. 10 straipsnio pakeitimas
+## 7 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -128,7 +128,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 3. Kitų asmenų, dirbančių valstybinėje tarnyboje, deklaracijų duomenys gali būti skelbiami Vyriausiosios tarnybinės etikos komisijos motyvuotu sprendimu.“
 
-\#### 8 straipsnis. 23 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
+## 8 straipsnis. 23 straipsnio 2, 3, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip:
 

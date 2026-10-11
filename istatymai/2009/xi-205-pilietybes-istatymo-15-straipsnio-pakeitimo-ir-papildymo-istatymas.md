@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9AB9FFBCAE6A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9AB9FFBCAE6A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pilietybės įstatymo 15 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [95-4087](https://www.e-tar.lt/portal/lt/legalAct/TAR.9675AD03F3E1); 2008, Nr. [83-3293](https://www.e-tar.lt/portal/lt/legalAct/TAR.355D7055FE91))
 
-\#### 1 straipsnis. 15 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+## 1 straipsnis. 15 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
 
 1. 15 straipsnio 1 dalyje vietoj skaičiaus „2“ įrašyti žodį „vienus“, vietoj žodžių „Nustatomas toks priesaikos tekstas“ įrašyti žodžius „Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų“, papildyti dalį 2 punktu ir šią dalį išdėstyti taip:
 

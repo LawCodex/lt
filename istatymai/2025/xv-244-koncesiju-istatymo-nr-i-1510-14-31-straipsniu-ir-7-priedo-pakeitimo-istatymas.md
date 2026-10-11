@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/605d16e04c3011f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.605D16E04C30.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 14, 31 straipsnių ir 7 priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ KONCESIJŲ ĮSTATYMO NR. I-1510 14, 31 STRAIPSNIŲ IR 7 PRIEDO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 14 straipsnio pakeitimas
+## 1 straipsnis. 14 straipsnio pakeitimas
 
 Papildyti 14 straipsnį 5^1 dalimi:
 
 „5^1. Suteikiančioji institucija turi siekti, kad vykdant koncesijos sutartis būtų daromas kuo mažesnis neigiamas poveikis aplinkai. Siekdama šio tikslo, Vyriausybė ar jos įgaliota institucija nustato suteikiančiosioms institucijoms keliamus rodiklius ir (ar) jų koncesijose taikytinus reikalavimus, taip pat jų taikymo tvarką.“
 
-\#### 2 straipsnis. 31 straipsnio pakeitimas
+## 2 straipsnis. 31 straipsnio pakeitimas
 
 1. Papildyti 31 straipsnio 2 dalį nauju 26 punktu:
 
@@ -40,7 +40,7 @@ Papildyti 14 straipsnį 5^1 dalimi:
 
 2. Buvusį 31 straipsnio 2 dalies 26 punktą laikyti 27 punktu.
 
-\#### 3 straipsnis. Įstatymo 7 priedo pakeitimas
+## 3 straipsnis. Įstatymo 7 priedo pakeitimas
 
 Pakeisti Įstatymo 7 priedą ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ koncesijų įstatymo
 
 _______________“.
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. spalio 1 d.
 

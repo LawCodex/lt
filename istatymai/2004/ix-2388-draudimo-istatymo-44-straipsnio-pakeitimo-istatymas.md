@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.7EFA914ABE3E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.7EFA914ABE3E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo 44 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2003, Nr. [94-4246](https://www.e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9))
 
-\#### 1 straipsnis. 44 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 44 straipsnio 5 dalies pakeitimas
 
 44 straipsnio 5 dalyje vietoj žodžių „Finansų įstaigų“ įrašyti žodžius „Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros“ ir šią dalį išdėstyti taip:
 
 „5. Draudimo įmonių, priklausančių įmonių grupei, į kurią įeina ir kredito įstaigos, finansų maklerio įmonės ar kitos finansų įstaigos, teises ir pareigas bei Priežiūros komisijos teises ir pareigas atliekant tokių įmonių grupių priežiūrą reglamentuoja Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas. Šioms draudimo įmonėms taip pat taikomos ir šio skirsnio nuostatos.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2004 m. rugpjūčio 11 d.
 

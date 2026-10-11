@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6391879260CB"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6391879260CB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos konsulinio mokesčio įstatymo 3, 6 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [51-951](https://www.e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794); 2007, Nr. [114-4631](https://www.e-tar.lt/portal/lt/legalAct/TAR.968C87488824))
 
-\#### 1 straipsnis. 3 straipsnio 5 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 5 punkto pakeitimas
 
 3 straipsnio 5 punkte prieš žodį „dokumentų“ įrašyti žodžius „paso išdavimą, keitimą arba“ ir šį punktą išdėstyti taip:
 
 „5) paso išdavimą, keitimą arba dokumentų dėl paso išdavimo ir keitimo priėmimą ir perdavimą;“.
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 6 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 
@@ -82,11 +82,11 @@ Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 
 2. Konsulinio mokesčio už paso išdavimą, keitimą arba dokumentų dėl paso išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2010 m. sausio 1 d.
 
-\#### 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+## 4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
 

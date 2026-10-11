@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.473D6C4ED3A0"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.473D6C4ED3A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2, 10 ir 18 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [64-1502](https://www.e-tar.lt/portal/lt/legalAct/TAR.C44837068B55); 2008, Nr. [10-335](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6B0A8737A48); 2011, Nr. [52-2523](https://www.e-tar.lt/portal/lt/legalAct/TAR.CE1D6B9DDB3E), Nr. [52-2524](https://www.e-tar.lt/portal/lt/legalAct/TAR.21F22FEC20E2))
 
-\#### 1 straipsnis. 2 straipsnio 10 dalies 1 punkto, 11 dalies 5 punkto ir 17 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 10 dalies 1 punkto, 11 dalies 5 punkto ir 17 dalies pakeitimas
 
 1. 2 straipsnio 10 dalies 1 punkte vietoj žodžio „Bendrijos“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
@@ -54,13 +54,13 @@ Vilnius
 
 6) valstybės valdomos įmonės valdymo ar priežiūros organo narys.“
 
-\#### 2 straipsnis. 10 straipsnio 1 dalies 1 punkto pakeitimas
+## 2 straipsnis. 10 straipsnio 1 dalies 1 punkto pakeitimas
 
 10straipsnio 1 dalies 1 punkte vietoj žodžio „Bendrijos“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
 „1) bendrovėms, kurių vertybiniais popieriais leista prekiauti vienos ar kelių Europos Sąjungos valstybių narių reguliuojamose rinkose, ir kitoms užsienio valstybių bendrovėms, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje ir kurioms yra taikomi Europos Sąjungos teisės aktus atitinkantys reikalavimai atskleisti informaciją apie savo veiklą;“.
 
-\#### 3 straipsnis. 18 straipsnio pakeitimas
+## 3 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18straipsnį ir jį išdėstyti taip:
 
@@ -88,11 +88,11 @@ Pakeisti 18straipsnį ir jį išdėstyti taip:
 
 2) jeigu asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas
+## 4 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 3 straipsnis įsigalioja 2011 m. liepos 1 d.
 
-\#### 5 straipsnis. Pasiūlymas Vyriausybei
+## 5 straipsnis. Pasiūlymas Vyriausybei
 
 Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 

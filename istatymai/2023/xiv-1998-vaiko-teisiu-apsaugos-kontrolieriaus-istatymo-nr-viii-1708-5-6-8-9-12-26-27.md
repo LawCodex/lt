@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5225dfe006c211ee9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5225DFE006C2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 5, 6, 8, 9, 12, 26, 27 straipsnių ir šeštojo skirsnio pakeitimo įstatymas
@@ -129,5 +129,3 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS SOCIALINĖS GARANTIJOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_eaa8c832315943af8f2233a968623b34_end

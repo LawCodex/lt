@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AF360E514B75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AF360E514B75.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo 2, 5, 7, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 1990, Nr. [17-439](https://www.e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3); 2008, Nr. [45-1679](https://www.e-tar.lt/portal/lt/legalAct/TAR.588BE2CF896C); 2009, Nr. [85-3581](https://www.e-tar.lt/portal/lt/legalAct/TAR.29ED4173CCF7))
 
-\#### 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 6 dalies pakeitimas
 
 2 straipsnio 6 dalyje vietoj žodžio „šių“ įrašyti žodžius „valstybės ar savivaldybės“ ir šią dalį išdėstyti taip:
 
 „6. **Herbinis antspaudas** – šio įstatymo nustatyta tvarka patvirtintas ženklas su Lietuvos valstybės, apskrities, savivaldybės, miesto, miestelio ar kaimo herbu, skirtas valstybės ar savivaldybėssubjektų dokumentų tikrumui ir juos išdavusiam subjektui patvirtinti.“
 
-\#### 2 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas
+## 2 straipsnis. 5 straipsnio 1 dalies 3 punkto pakeitimas
 
 5 straipsnio 1 dalies 3 punkte po žodžio „Vyriausybė“ įrašyti žodžius „Ministro Pirmininko tarnyba“, žodžius „apskričių viršininkų administracijos“ išbraukti ir šį punktą išdėstyti taip:
 
 „3) Lietuvos Respublikos Vyriausybė, Ministro Pirmininko tarnyba,ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų, Vyriausybėsatstovai ir Vyriausybės įgaliotiniai;“.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 2. Asmenys gali naudoti apskrities herbą tik turėdami Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos sutikimą, išskyrus atvejus, kai apskrities herbas ar jo atvaizdas naudojami leidybos, mokslo ir visuomenės informavimo srityse.“
 
-\#### 4 straipsnis. 15 straipsnio 2 dalies pakeitimas ir papildymas
+## 4 straipsnis. 15 straipsnio 2 dalies pakeitimas ir papildymas
 
 15 straipsnio 2 dalyje po žodžių „naudojimą valstybės“ įrašyti žodžius „ir savivaldybių“, dalį papildyti 6 punktu ir šią dalį išdėstyti taip:
 
@@ -64,11 +64,11 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 6) savivaldybių institucijose – savivaldybės vadovas.“
 
-\#### 5 straipsnis. Įstatymo įgyvendinimas
+## 5 straipsnis. Įstatymo įgyvendinimas
 
 Lietuvos Respublikos Vyriausybė iki 2010 m. liepos 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas
+## 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas, išskyrus 5 straipsnį, įsigalioja 2010 m. liepos 1 d.
 

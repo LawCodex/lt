@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A084FA4B0D41"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A084FA4B0D41.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo ir Sveikatos draudimo įstatymo pakeitimo įstatymas
@@ -26,25 +26,21 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO IR SVEIKATOS DRAUDIMO ĮSTATYMO PAKEIT
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 22 STRAIPSNIO PAKEITIMAS
+## PIRMASIS SKIRSNIS. VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 22 STRAIPSNIO PAKEITIMAS
 
 (Žin., 1991, Nr. [17-447](https://www.e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD); 2004, Nr. [171-6295](https://www.e-tar.lt/portal/lt/legalAct/TAR.AB8D4779ABE1))
 
-\#### 1 straipsnis. 22 straipsnio 2 dalies pakeitimas
+### 1 straipsnis. 22 straipsnio 2 dalies pakeitimas
 
 Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Fondo valdyba Sveikatos draudimo įstatymo nustatytas ir gautas privalomojo sveikatos draudimo įmokas, taip pat papildomai išieškotas privalomajam sveikatos draudimui priklausančias draudimo įmokas Sveikatos draudimo įstatymo nustatyta tvarka perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Fondo valdyba atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti Sveikatos draudimo įstatymo nustatyto dydžio privalomojo sveikatos draudimo įmokų ir iš Privalomojo sveikatos draudimo fondo biudžeto finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais.“
 
-\### ANTRASIS SKIRSNIS
-
-SVEIKATOS DRAUDIMO ĮSTATYMO 18 STRAIPSNIO PAKEITIMAS
+## ANTRASIS SKIRSNIS. SVEIKATOS DRAUDIMO ĮSTATYMO 18 STRAIPSNIO PAKEITIMAS
 
 (Žin., 1996, Nr. [55-1287](https://www.e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8); 2002, Nr. [123-5512](https://www.e-tar.lt/portal/lt/legalAct/TAR.8AC83320B76A); 2003, Nr. [113-5058](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6E07E950C5B); 2004, Nr. [171-6300](https://www.e-tar.lt/portal/lt/legalAct/TAR.E8FE7C311C62))
 
-\#### 1 straipsnis. 18 straipsnio 5 dalies pakeitimas
+### 1 straipsnis. 18 straipsnio 5 dalies pakeitimas
 
 Pakeisti 18 straipsnio 5 dalį ir ją išdėstyti taip:
 

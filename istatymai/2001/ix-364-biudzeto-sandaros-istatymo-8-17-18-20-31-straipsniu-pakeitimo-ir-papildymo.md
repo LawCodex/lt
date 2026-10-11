@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3EABEE0A1C02"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3EABEE0A1C02.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo 8, 17, 18, 20, 31 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1990, Nr. [24-596](https://www.e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41); 2000, Nr. [61-1826](https://www.e-tar.lt/portal/lt/legalAct/TAR.BF36F4AB8EDA), Nr. [90-2778](https://www.e-tar.lt/portal/lt/legalAct/TAR.42ED05AB7262))
 
-\#### 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 8 straipsnio 1 dalies pakeitimas
 
 8 straipsnio 1 dalyje po žodžių „šis įstatymas“ įrašyti žodžius „Seimo statutas“ ir šią dalį išdėstyti taip:
 
 „1. Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis įstatymas, Seimo statutas, Vyriausybės patvirtinta biudžetų sudarymo ir vykdymo tvarka, atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymasir kiti biudžeto pajamų gavimą ir išlaidų finansavimą reglamentuojantys teisės aktai.“
 
-\#### 2 straipsnis. 17 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 17 straipsnio 3 dalies pakeitimas
 
 Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Asignavimų valdytojai programas ir išlaidų sąmatų projektus rengia vadovaudamiesi nustatytais valstybės prioritetais.“
 
-\#### 3 straipsnis. 18 straipsnio papildymas nauja 2 dalimi
+## 3 straipsnis. 18 straipsnio papildymas nauja 2 dalimi
 
 1. Papildyti 18 straipsnį nauja 2 dalimi:
 
@@ -48,13 +48,13 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2. Buvusiais 18 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis.
 
-\#### 4 straipsnis. 20 straipsnio 4 dalies pakeitimas
+## 4 straipsnis. 20 straipsnio 4 dalies pakeitimas
 
 Pakeisti 20 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių asignavimų dydžių apribojimai. Seimo kanceliarijai nustatyti asignavimų dydžiai gali būti koreguojami tokia pat tvarka, kokia yra rengiamas atitinkamų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas.“
 
-\#### 5 straipsnis. 31 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 31 straipsnio 1 dalies pakeitimas
 
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 

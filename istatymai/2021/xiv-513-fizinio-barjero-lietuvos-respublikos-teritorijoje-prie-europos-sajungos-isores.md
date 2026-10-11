@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/afe4d3e0faa111eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AFE4D3E0FAA1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas
@@ -42,7 +42,7 @@ priima šį įstatymą.
 
 **Bendrosios nuostatos**
 
-\#### 1 straipsnis. Įstatymo paskirtis ir taikymas
+## 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 1. Šis įstatymas nustato fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo bendruosius principus ir reikalavimus, taip pat sudaro teisines, finansines ir organizacines sąlygas operatyviam fizinio barjero įrengimui, siekiant užtikrinti šio įstatymo preambulėje nurodytų tikslų įgyvendinimą.
 
@@ -50,7 +50,7 @@ priima šį įstatymą.
 
 3. Teisiniams santykiams, atsirandantiems šio įstatymo pagrindu, Lietuvos Respublikos biudžeto sandaros įstatymas, Lietuvos Respublikos miškų įstatymas, Lietuvos Respublikos planuojamo ūkinės veiklos poveikio aplinkai vertinimo įstatymas, Lietuvos Respublikos saugomų teritorijų įstatymas, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas, Lietuvos Respublikos statybos įstatymas, Lietuvos Respublikos teritorijų planavimo įstatymas, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas, Lietuvos Respublikos viešųjų pirkimų įstatymas, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas, Lietuvos Respublikos žemės įstatymas ir juos įgyvendinantys teisės aktai taikomi tiek, kiek to nereglamentuoja šis įstatymas.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Fizinis barjeras – tarpusavyje susiję valstybės sienos apsaugos objektai, sudaryti iš visumos statinių ir įrenginių, reikalingų valstybės sienos apsaugai, stebėjimui ir kontrolei užtikrinti.
 
@@ -60,7 +60,7 @@ priima šį įstatymą.
 
 **Projekto įgyvendinimas ir finansavimas**
 
-\#### 3 straipsnis. Projekto įgyvendinimas
+## 3 straipsnis. Projekto įgyvendinimas
 
 1. Projektas pripažįstamas ypatingos valstybinės svarbos projektu.
 
@@ -70,7 +70,7 @@ priima šį įstatymą.
 
 4. Projekto įgyvendinimo procesą prižiūri ir vertina Vyriausybės nutarimu sudaryta tarpinstitucinė komisija (toliau – komisija), kuri stebi projekto įgyvendinimo eigą, nagrinėja su projekto įgyvendinimu susijusią informaciją ir prireikus teikia Vyriausybei pasiūlymus. Komisijos užduotis ir personalinę sudėtį nustato Vyriausybė.
 
-\#### 4 straipsnis. Projekto įgyvendinimo finansavimas
+## 4 straipsnis. Projekto įgyvendinimo finansavimas
 
 1. Projekto įgyvendinimas finansuojamas valstybės biudžeto lėšomis, finansavimui taip pat gali būti nustatyta tvarka naudojamos Europos Sąjungos paramos ir kitų šaltinių lėšos.
 
@@ -78,21 +78,21 @@ priima šį įstatymą.
 
 3. Projekto vykdytojas, įgyvendinant projektą, neturi gauti su projektu susijusių investicijų grąžos ir (ar) pelno.
 
-\#### 5 straipsnis. Administracinių sprendimų įgyvendinant projektą priėmimas ir teisės laikinai naudotis valstybės turtu suteikimas
+## 5 straipsnis. Administracinių sprendimų įgyvendinant projektą priėmimas ir teisės laikinai naudotis valstybės turtu suteikimas
 
 1. Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, pagal kompetenciją priimdamos sprendimus, susijusius su projekto įgyvendinimu, keičiasi reikalinga informacija ir užtikrina sprendimų, suteikiančių projekto užsakovui, projekto vykdytojui ir (ar) kitiems projekto įgyvendinime dalyvaujantiems asmenims teisę vykdyti fizinio barjero projektavimo, statybų, rangos, įrengimo ir kitus susijusius darbus, priėmimą laiku. Su projekto įgyvendinimu susiję sprendimai turi būti priimami per įmanomai trumpiausią laiką.
 
 2. Projekto vykdytojui projekto įgyvenimo laikotarpiu Vyriausybės nustatyta tvarka gali būti suteikiama teisė laikinai naudotis Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos ir (ar) kitų subjektų patikėjimo teise valdomais valstybei nuosavybės teise priklausančiais sklypais ir (ar) statiniais, reikalingais fiziniam barjerui įrengti, netaikant Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytų procedūrų.
 
-\#### 6 straipsnis. Fizinio barjero nuosavybės teisė
+## 6 straipsnis. Fizinio barjero nuosavybės teisė
 
 Fizinį barjerą sudarantys statiniai ir įrenginiai projekto įgyvendinimo metu ir projektą užbaigus nuosavybės teise priklauso valstybei.
 
-\#### 7 straipsnis. Viešųjų pirkimų, skirtų projekto įgyvendinimui, vykdymas
+## 7 straipsnis. Viešųjų pirkimų, skirtų projekto įgyvendinimui, vykdymas
 
 Projekto užsakovas, projekto vykdytojas ir kitos projekto įgyvendinime dalyvaujančios perkančiosios organizacijos viešuosius pirkimus, skirtus projekto įgyvendinimui, atlieka ir sutartis sudaro neskelbiamų derybų būdu, jas vykdant pagal Viešųjų pirkimų įstatyme arba, kai būtina užtikrinti valstybės ar tarnybos paslaptį sudarančios informacijos apsaugą, – pagal Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme numatytas procedūras.
 
-\#### 8 straipsnis. Žemės naudojimas fizinio barjero įrengimui ir su fizinio barjero įrengimu susijusių darbų vykdymas
+## 8 straipsnis. Žemės naudojimas fizinio barjero įrengimui ir su fizinio barjero įrengimu susijusių darbų vykdymas
 
 1. Žemei, ant kurios turi būti įrengtas fizinis barjeras ir statiniai ar įrenginiai, susiję su projekto įgyvendinimu, arba kuri reikalinga patekti prie vietų, kuriose turi būti įrengtas fizinis barjeras ir statiniai ar įrenginiai, susiję su projekto įgyvendinimu, ir kuri nuosavybės teise ar kitais teisėtais pagrindais nėra valdoma valstybės, projekto užsakovo ar projekto vykdytojo, šiuo įstatymu yra nustatomas žemės servitutas. Konkretus servituto dydis, laikotarpis ir vieta, taip pat servituto turinys yra nustatomi Vyriausybės ar jos įgaliotos institucijos sprendimu.
 
@@ -120,7 +120,7 @@ Projekto užsakovas, projekto vykdytojas ir kitos projekto įgyvendinime dalyvau
 
 **Baigiamosios nuostatos**
 
-\#### 9 straipsnis. Įstatymo įgyvendinimas
+## 9 straipsnis. Įstatymo įgyvendinimas
 
 1. Vyriausybė, naudodamasi jai suteiktomis teisėmis ir atlikdama pavestas pareigas, užtikrina tinkamą teisinių, finansinių ir organizacinių sąlygų įgyvendinimą, kad fizinis barjeras būtų įrengtas kiek įmanoma greičiau.
 

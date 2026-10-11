@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A37FB25D26F4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A37FB25D26F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 14, 64, 81, 91, 98, 106 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [35-1271](https://www.e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5))
 
-\#### 1 straipsnis. 14 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 14 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 14 straipsnį nauja 9 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusią 14 straipsnio 9 dalį laikyti 10 dalimi.
 
-\#### 2 straipsnis. 64 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 10 dalimi
+## 2 straipsnis. 64 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 10 dalimi
 
 1. Papildyti 64 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,7 +46,7 @@ Vilnius
 
 „10. Kai PVM už žemės ūkio produkciją apskaičiuojamas pagal specialią šio Įstatymo 14 straipsnio 9 dalyje nustatytą tvarką, pirkimo PVM už ją gali būti atskaitomas, jeigu PVM mokėtojas turi šio Įstatymo ir kitų teisės aktų reikalavimus atitinkantį žemės ūkio produkcijos pirkimo kvitą, kuriuo įformintas šios žemės ūkio produkcijos tiekimas, ir atlygio mokėjimą įforminantį dokumentą, atitinkantį šio Įstatymo 81 straipsnio reikalavimus.“
 
-\#### 3 straipsnis. 81 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 81 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 81 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 5) mokėjimo data.“
 
-\#### 4 straipsnis. 91 straipsnio 3 dalies pakeitimas ir papildymas
+## 4 straipsnis. 91 straipsnio 3 dalies pakeitimas ir papildymas
 
 91 straipsnio 3 dalyje vietoj skaičių „1–4“ įrašyti skaičius „1–5“, dalį papildyti 5 punktu ir ją išdėstyti taip:
 
@@ -86,13 +86,13 @@ Vilnius
 
 5) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytus ir (arba) importuotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių. Šis punktas taikomas tik PVM mokėtojams, kurių pajamos iš žemės ūkio produkcijos tiekimo ir (arba) paslaugų teikimo praėjusiais kalendoriniais metais sudarė ne mažiau kaip 50 procentų visų pajamų.“
 
-\#### 5 straipsnis. 98 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 98 straipsnio 1 dalies pakeitimas
 
 Pakeisti 98 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Ūkininkai, kuriems taikoma kompensacinio PVM tarifo schema, turi teisę gauti iš pirkėjų (klientų), jei jie yra apmokestinamieji asmenys, kompensacinį priedą. Kompensacinio priedo dydis apskaičiuojamas nuo pirkėjų (klientų) mokamo atlygio (išskyrus patį kompensacinį priedą) už ūkininkų tiekiamą žemės ūkio produkciją ir (arba) teikiamas žemės ūkio paslaugas, taikant šio Įstatymo 100 straipsnyje nustatytą kompensacinį PVM tarifą.“
 
-\#### 6 straipsnis. 106 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 106 straipsnio 2 dalies pakeitimas
 
 Pakeisti 106 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 106 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2) tiekia iš autorių arba jų įpėdinių įsigytus meno kūrinius, kuriuos tiekdami šio Įstatymo nustatyta tvarka buvo apskaičiavę PVM.“
 
-\#### 7 straipsnis. Baigiamosios nuostatos
+## 7 straipsnis. Baigiamosios nuostatos
 
 1. Šis Įstatymas įsigalioja nuo 2003 m. balandžio 1 d.
 

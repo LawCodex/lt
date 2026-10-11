@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/48cdebf291f311efa605b9842742bf37"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.48CDEBF291F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vienkartinių kompensacijų asmenims, kurių sveikatai padaryta žala likviduojant Černobylio atominės elektrinės avarijos padarinius, ir jų šeimos nariams, taip pat asmenims, Antrojo pasaulinio karo ir okupacijų metais išvežtiems priverstiniams darbams, buvusiems getuose, įkalinimo įstaigose ir kitose laisvės atėmimo vietose, įstatymas
@@ -26,9 +26,9 @@ VIENKARTINIŲ KOMPENSACIJŲ ASMENIMS, KURIŲ SVEIKATAI PADARYTA ŽALA LIKVIDUOJA
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas ir paskirtis
+## 1 straipsnis. Įstatymo tikslas ir paskirtis
 
 1. Šio įstatymo tikslas – nustatyti vienkartines kompensacijas asmenims, kurių sveikatai padaryta žala likviduojant Černobylio atominės elektrinės avarijos padarinius, (toliau – vienkartinė kompensacija dalyviui) ir vienkartines kompensacijas dalyvio šeimos nariams (toliau kartu – vienkartinė kompensacija dalyviui ir jo šeimos nariams), taip pat vienkartines kompensacijas asmenims, Antrojo pasaulinio karo ir okupacijų metais išvežtiems priverstiniams darbams, buvusiems getuose, įkalinimo įstaigose ir kitose laisvės atėmimo vietose, taip pat buvusiems mažamečių fašistinių prievartinio įkalinimo vietų kaliniams už ten išbūtą laiką (toliau – vienkartinė kompensacija už priverstinius darbus) (toliau visos kompensacijos kartu – vienkartinės kompensacijos).
 
@@ -36,7 +36,7 @@ Vilnius
 
 3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme.
 
-\#### 2 straipsnis. Vienkartinių kompensacijų finansavimo šaltinis
+## 2 straipsnis. Vienkartinių kompensacijų finansavimo šaltinis
 
 Vienkartinės kompensacijos, jų skyrimo, mokėjimo ir pristatymo išlaidos finansuojamos iš Lietuvos Respublikos valstybės biudžeto lėšų:
 
@@ -44,9 +44,9 @@ Vienkartinės kompensacijos, jų skyrimo, mokėjimo ir pristatymo išlaidos fina
 
 2) vienkartinės kompensacijos už priverstinius darbus – iš Lietuvos Respublikos finansų ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų.
 
-\## II SKYRIUS. VIENKARTINĖS KOMPENSACIJOS DALYVIAMS IR JŲ ŠEIMOS NARIAMS
+II SKYRIUS. VIENKARTINĖS KOMPENSACIJOS DALYVIAMS IR JŲ ŠEIMOS NARIAMS
 
-\#### 3 straipsnis. Asmenys, turintys teisę į vienkartinę kompensaciją dalyviui ir jo šeimos nariams
+## 3 straipsnis. Asmenys, turintys teisę į vienkartinę kompensaciją dalyviui ir jo šeimos nariams
 
 1. Teisę į vienkartinę kompensaciją dalyviui turi asmenys, atitinkantys visas šias sąlygas:
 
@@ -64,7 +64,7 @@ b) kurių sveikatai padaryta žala: šio įstatymo 5 straipsnyje nustatyta tvark
 
 2) kreipimosi dėl vienkartinės kompensacijos dalyvio šeimos nariams skyrimo dieną ir sprendimo dėl šios kompensacijos skyrimo priėmimo dieną deklaravę gyvenamąją vietą Lietuvos Respublikoje arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka.
 
-\#### 4 straipsnis. Vienkartinių kompensacijų dalyviams ir jų šeimos nariams dydžiai
+## 4 straipsnis. Vienkartinių kompensacijų dalyviams ir jų šeimos nariams dydžiai
 
 1. Dalyviams, išskyrus šio straipsnio 3 dalyje ir šio įstatymo 6 straipsnio 2 dalyje nustatytus atvejus, skiriamos ir išmokamos šių dydžių vienkartinės kompensacijos dalyviams:
 
@@ -80,13 +80,13 @@ b) kurių sveikatai padaryta žala: šio įstatymo 5 straipsnyje nustatyta tvark
 
 3. Jeigu šio įstatymo 3 straipsnyje nurodytiems asmenims buvo paskirtos ir išmokėtos kompensacijos pagal Lietuvos Respublikos įstatymą „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22–1991 12 31)“, Lietuvos Respublikos Vyriausybės 1992 m. balandžio 22 d. nutarimą Nr. 281 „Dėl kompensacijų ir lengvatų asmenims, patyrusiems žalą likviduojant Černobylio atominės elektrinės avarijos padarinius“ ir (ar) Lietuvos Respublikos Vyriausybės 1998 m. vasario 18 d. nutarimą Nr. 198 „Dėl vienkartinių kompensacijų ir lengvatų asmenims, patyrusiems žalą likviduojant Černobylio atominės elektrinės avarijos padarinius“, skirtinas ir išmokėtinas vienkartinės kompensacijos dalyviui ir (ar) vienkartinės kompensacijos dalyvio šeimos nariams dydis mažinamas šiems asmenims pagal šioje dalyje nurodytus teisės aktus išmokėtomis kompensacijų sumomis.
 
-\#### 5 straipsnis. Ligų ir mirties sąsajos su dalyvavimu likviduojant Černobylio atominės elektrinės avarijos padarinius nustatymas
+## 5 straipsnis. Ligų ir mirties sąsajos su dalyvavimu likviduojant Černobylio atominės elektrinės avarijos padarinius nustatymas
 
 1. Ligų, kurios gali būti susijusios su dalyvavimu likviduojant Černobylio atominės elektrinės avarijos padarinius, sąrašą tvirtina sveikatos apsaugos ministras.
 
 2. Asmenims nustatytų ligų ir mirties sąsają su dalyvavimu likviduojant Černobylio atominės elektrinės avarijos padarinius sveikatos apsaugos ministro nustatyta tvarka nustato jo sudaryta Specialistų komisija ligų sąsajai su dalyvavimu likviduojant Černobylio atominės elektrinės avarijos padarinius nustatyti (toliau – Komisija).
 
-\#### 6 straipsnis. Vienkartinių kompensacijų dalyviams ir jų šeimos nariams skyrimas ir mokėjimas
+## 6 straipsnis. Vienkartinių kompensacijų dalyviams ir jų šeimos nariams skyrimas ir mokėjimas
 
 1. Vienkartines kompensacijas dalyviams ir jų šeimos nariams, vadovaudamasi šiuo įstatymu, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) direktoriaus nustatyta kreipimosi dėl vienkartinių kompensacijų dalyviams ir jų šeimos nariams skyrimo, šių kompensacijų skyrimo, perskaičiavimo, informavimo apie šios kompensacijos paskyrimą ir jos mokėjimo tvarka ir remdamasi Lietuvos Respublikos gyventojų registro informacinėje sistemoje tvarkomais duomenimis apie asmens deklaruotą gyvenamąją vietą ir giminystės ryšį, Lietuvos Respublikos pilietybę ir kitais asmens teisę į vienkartinę kompensaciją dalyviui ir jo šeimos nariams patvirtinančiais dokumentais ir duomenimis, pateiktais Fondo valdybos direktoriaus nustatyta tvarka ir (ar) gaunamais iš kitų registrų, valstybės ir (ar) vidaus administravimo informacinių sistemų ar pagal asmens duomenų teikimo sutartis, skiria ir moka Fondo valdybos direktoriaus įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga (toliau – Fondo administravimo įstaiga).
 
@@ -98,9 +98,9 @@ b) kurių sveikatai padaryta žala: šio įstatymo 5 straipsnyje nustatyta tvark
 
 5. Fondo administravimo įstaigai pagal Gyventojų registro informacinėje sistemoje tvarkomus duomenis ir šeimos narių pateiktuose prašymuose skirti vienkartinę kompensaciją dalyvio šeimos nariams nurodytus duomenis nustačius, kad yra šeimos narys (-ių), kuris (-ie) per šio straipsnio 4 dalyje nustatytą terminą nesikreipė dėl vienkartinės kompensacijos dalyvio šeimos nariams skyrimo, ir Fondo administravimo įstaiga neturi duomenų, kad šis (šie) šeimos narys (-iai) yra atsisakęs (-ę) savo vienkartinės kompensacijos dalyvio šeimos nariams dalies visų kitų šeimos narių naudai, jam priklausanti vienkartinės kompensacijos dalyvio šeimos nariams dalis kitiems šeimos nariams nedalijama ir neišmokama.
 
-\## III SKYRIUS. VIENKARTINĖS KOMPENSACIJOS UŽ PRIVERSTINIUS DARBUS
+III SKYRIUS. VIENKARTINĖS KOMPENSACIJOS UŽ PRIVERSTINIUS DARBUS
 
-\#### 7 straipsnis. Asmenys, turintys teisę į vienkartinę kompensaciją už priverstinius darbus
+## 7 straipsnis. Asmenys, turintys teisę į vienkartinę kompensaciją už priverstinius darbus
 
 Teisę į vienkartinę kompensacijąuž priverstinius darbusturi asmenys, atitinkantys visas šias sąlygas:
 
@@ -108,31 +108,31 @@ Teisę į vienkartinę kompensacijąuž priverstinius darbusturi asmenys, atitin
 
 2) jiems nebuvo išmokėtos vienkartinės kompensacijos už priverstinius darbus pagal Lietuvos Ministrų Tarybos 1989 m. liepos 24 d. nutarimą Nr. 160 „Dėl žalos atlyginimo reabilituotiems asmenims, suimtiems arba nuteistiems nuo 1940 m. birželio 15 d. iki 1981 m. birželio 1 d.“, Lietuvos Respublikos Vyriausybės 1994 m. kovo 31 d. nutarimą Nr. 222 „Dėl kompensacijų, mokamų kai kuriems reabilituotiems asmenims, padidinimo“ ir Lietuvos Respublikos Vyriausybės 1991 m. rugpjūčio 12 d. nutarimą Nr. 327 „Dėl žalos atlyginimo asmenims, Antrojo pasaulinio karo ir okupacijų metais išvežtiems priverstiniams darbams, buvusiems getuose, įkalinimo įstaigose ir kitose laisvės atėmimo vietose“.
 
-\#### 8 straipsnis. Vienkartinės kompensacijos už priverstinius darbus dydis
+## 8 straipsnis. Vienkartinės kompensacijos už priverstinius darbus dydis
 
 Vienkartinės kompensacijos už priverstinius darbus dydis – 6 eurai už kiekvieną mėnesį, kai asmuo dirbo priverstinius darbus, buvo getuose, įkalinimo įstaigose ir (arba) kitose laisvės atėmimo vietose, ir (arba) buvo mažamečių fašistinių prievartinio įkalinimo vietų kalinys.
 
-\#### 9 straipsnis. Vienkartinių kompensacijų už priverstinius darbus skyrimas ir mokėjimas
+## 9 straipsnis. Vienkartinių kompensacijų už priverstinius darbus skyrimas ir mokėjimas
 
 Vienkartines kompensacijas už priverstinius darbus,vadovaudamasi šiuo įstatymu, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) viršininko nustatyta kreipimosi dėl vienkartinių kompensacijų už priverstinius darbus, jų skyrimo, informavimo apie šių vienkartinių kompensacijų skyrimą ir jų mokėjimo tvarka skiria ir moka Valstybinės mokesčių inspekcijos viršininko įgaliota teritorinė valstybinė mokesčių inspekcija (toliau – teritorinė mokesčių inspekcija).
 
-\## IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 10 straipsnis. Fondo administravimo įstaigos ir teritorinės mokesčių inspekcijos sprendimų ir veiksmų (neveikimo) apskundimas
+## 10 straipsnis. Fondo administravimo įstaigos ir teritorinės mokesčių inspekcijos sprendimų ir veiksmų (neveikimo) apskundimas
 
 1. Fondo administravimo įstaigų sprendimai dėl vienkartinių kompensacijų dalyviams ir jų šeimos nariams skyrimo, perskaičiavimo ir (ar) mokėjimo, taip pat ir veiksmai (neveikimas) skundžiami Fondo valdybai Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka ir terminais.
 
 2. Teritorinių mokesčių inspekcijų sprendimai dėl vienkartinių kompensacijų už priverstinius darbus skyrimo ir (ar) mokėjimo, taip pat ir veiksmai (neveikimas) skundžiami Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka ir terminais.
 
-\#### 11 straipsnis. Vienkartinių kompensacijų permokų išieškojimas
+## 11 straipsnis. Vienkartinių kompensacijų permokų išieškojimas
 
 Vienkartinių kompensacijų permokos, susidariusios ne dėl jų gavėjų kaltės, neišieškomos.
 
-\#### 12 straipsnis. Vienkartinių kompensacijų ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
+## 12 straipsnis. Vienkartinių kompensacijų ir kitų asmeniui priklausančių išmokų ar kompensacijų santykis
 
 Pagal šį įstatymą išmokamos vienkartinės kompensacijos neturi įtakos kitoms asmeniui pagal įstatymus priklausančioms kas mėnesį mokamoms išmokoms ir (ar) kompensacijoms, taip pat skiriamai piniginei socialinei paramai, mokėjimui už socialines paslaugas.
 
-\#### 13 straipsnis. Vienkartinių kompensacijų paveldėjimas
+## 13 straipsnis. Vienkartinių kompensacijų paveldėjimas
 
 1. Vienkartinės kompensacijos dalyviams nepaveldimos.
 
@@ -140,7 +140,7 @@ Pagal šį įstatymą išmokamos vienkartinės kompensacijos neturi įtakos kito
 
 3. Vienkartinės kompensacijos už priverstinius darbus paveldimos Civilinio kodekso nustatyta tvarka.
 
-\#### 14 straipsnis. Asmens duomenų apsauga
+## 14 straipsnis. Asmens duomenų apsauga
 
 1. Asmens duomenų, gautų įgyvendinant šį įstatymą, tvarkymo tikslai – pareiškėjo, jo atstovo ir teisę gauti vienkartinę kompensaciją turinčių asmenų identifikavimas, prašymų skirti vienkartinę kompensaciją nagrinėjimas, vienkartinių kompensacijų skyrimas, mokėjimas, lėšų, skiriamų vienkartinėms kompensacijoms mokėti, apskaita.
 
@@ -150,7 +150,7 @@ Pagal šį įstatymą išmokamos vienkartinės kompensacijos neturi įtakos kito
 
 4. Dokumentai saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 15 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.02D60A14C87C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 27 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB))
 
-\#### 1 straipsnis. 17 straipsnio 1 dalies 25 punkto pakeitimas
+## 1 straipsnis. 17 straipsnio 1 dalies 25 punkto pakeitimas
 
 Pakeisti 17 straipsnio 1 dalies 25 punktą ir jį išdėstyti taip:
 
 „25) ūkininko ir jo partnerių gautos pajamos už ūkininko ūkyje, įregistruotame Lietuvos Respublikos ūkininko ūkio įstatymo (toliau – Ūkininko ūkio įstatymas) nustatyta tvarka, vykdomą žemės ūkio veiklą;“.
 
-\#### 2 straipsnis. 27 straipsnio 4 dalies pakeitimas
+## 2 straipsnis. 27 straipsnio 4 dalies pakeitimas
 
 Pakeisti 27 straipsnio 4 dalį ir ją išdėstyti taip:
 

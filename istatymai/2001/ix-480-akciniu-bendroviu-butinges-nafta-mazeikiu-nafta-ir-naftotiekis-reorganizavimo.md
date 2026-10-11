@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8660A23A3E1D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8660A23A3E1D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcinių bendrovių "Būtingės nafta", "Mažeikių nafta" ir "Naftotiekis" reorganizavimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1998, Nr. [90-2482](https://www.e-tar.lt/portal/lt/legalAct/TAR.4E6FCCBC800C); 1999, Nr. [50-1606](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B38E9CED3CB), Nr. [86-2560](https://www.e-tar.lt/portal/lt/legalAct/TAR.2EE06A538589))
 
-\#### 1 straipsnis. 3 straipsnio 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 3 straipsnio 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Strateginiam investuotojui įsigyjant akcijų pagal šio straipsnio 1 dalies 1 ir 2 punktus, akcinės bendrovės „Mažeikių nafta“ įstatinis kapitalas didinamas netaikant Valstybės ir savivaldybių turto privatizavimo įstatymo 18 straipsnio nuostatų. Parduodant strateginiam investuotojui arba akcinės bendrovės „Mažeikių nafta“ naftos tiekėjams ir (arba) finansų institucijoms šio straipsnio 1 dalies 3 punkte nurodytas valstybei nuosavybės teise priklausančias akcinės bendrovės akcijas, Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatos bei Vertybinių popierių viešosios apyvartos įstatymo 8 straipsnio 2 dalies ir 10 straipsnio reikalavimai netaikomi. Išskyrus šio įstatymo 3 straipsnio 2 dalyje ir 4 straipsnio 2dalyje numatytus atvejus, kitos valstybei nuosavybės teise priklausančios akcinės bendrovės „Mažeikių nafta“ akcijos bus privatizuojamos tik Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. 4 straipsnio 1 dalies pripažinimas netekusia galios
+## 2 straipsnis. 4 straipsnio 1 dalies pripažinimas netekusia galios
 
 1. 4 straipsnio 1 dalį pripažinti netekusia galios.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.63D1E42E01B3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.63D1E42E01B3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7, 9 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1998, Nr. [61-1728](https://www.e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61); 2003, Nr. [102-4582](https://www.e-tar.lt/portal/lt/legalAct/TAR.AA480B3B3926); 2004, Nr. [117-4374](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CB43D4773A6), Nr. [156-5696](https://www.e-tar.lt/portal/lt/legalAct/TAR.57D6265C3F49); 2005, Nr.[88-3282](https://www.e-tar.lt/portal/lt/legalAct/TAR.0E8C5FB7E862), Nr. [153-5647](https://www.e-tar.lt/portal/lt/legalAct/TAR.C7F7F17B0A27))
 
-\#### 1 straipsnis. 7 straipsnio papildymas
+## 1 straipsnis. 7 straipsnio papildymas
 
 Papildyti 7 straipsnį 4 dalimi:
 
 „4. Tuo atveju, kai sprendimas atkurti nuosavybės teises už išperkamą žemę, mišką, vandens telkinius priimtas po 2009 m. sausio 1 d. ir iki 2010 m. gruodžio 31 d., piliečiams piniginė kompensacija išmokama 2011 metais, kai po 2011 m. sausio 1 d. – kitais kalendoriniais metais po tokio sprendimo priėmimo. Kai sprendimas atkurti nuosavybės teises už išperkamus gyvenamuosius namus, jų dalis, butus priimtas po šio straipsnio 2 dalies 2 punkte nurodyto termino, piniginė kompensacija piliečiams išmokama kitais kalendoriniais metais po tokio sprendimo priėmimo. Kai sprendimas atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą dėl asmenų, išvardytų šio straipsnio 2 dalies 3 ir 4 punktuose, priimtas po 2009 m. sausio 1 d. ir iki 2010 m. gruodžio 31 d., jiems piniginė kompensacija išmokama 2011 metais, kai po 2011 m. sausio 1 d. – kitais kalendoriniais metais po tokio sprendimo priėmimo.“
 
-\#### 2 straipsnis. 9 straipsnio 11 ir 14 dalių pakeitimas
+## 2 straipsnis. 9 straipsnio 11 ir 14 dalių pakeitimas
 
 1. Pakeisti 9 straipsnio 11 dalį ir ją išdėstyti taip:
 

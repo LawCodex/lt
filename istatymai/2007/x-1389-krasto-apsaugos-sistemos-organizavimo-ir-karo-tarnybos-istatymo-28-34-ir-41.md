@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.4D9A8824DC1E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.4D9A8824DC1E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 28, 34 ir 41 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1998, Nr. [49-1325](https://www.e-tar.lt/portal/lt/legalAct/TAR.15C705E93776); 1999, Nr. [64-2069](https://www.e-tar.lt/portal/lt/legalAct/TAR.D6C240000971); 2004, Nr. [169-6215](https://www.e-tar.lt/portal/lt/legalAct/TAR.86209F68A21F); 2006, Nr. [72-2679](https://www.e-tar.lt/portal/lt/legalAct/TAR.B13009B46413))
 
-\#### 1 straipsnis. 28 straipsnio 1, 2 ir 3 dalių pakeitimas
+## 1 straipsnis. 28 straipsnio 1, 2 ir 3 dalių pakeitimas
 
 1. Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „3. Profesinės karo tarnybos sutartys sudaromos ir pratęsiamos šio įstatymo 31 straipsnyje nustatyta tvarka.“
 
-\#### 2 straipsnis. 34 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 34 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „2. Asmenims, priimamiems į profesinę karo tarnybą koviniuose vienetuose, kuriuose keliami ypatingi fizinės, psichologinės ištvermės ir kitokie kario pasirengimo reikalavimai, gali būti nustatytas ilgesnis kaip 6 mėnesių, bet ne ilgesnis kaip 1 metų bandomasis laikotarpis, jeigu tai numatyta krašto apsaugos ministro patvirtintuose šio kovinio vieneto nuostatuose.“
 
-\#### 3 straipsnis. 41 straipsnio 1 ir 2 dalių pakeitimas
+## 3 straipsnis. 41 straipsnio 1 ir 2 dalių pakeitimas
 
 Pakeisti 41 straipsnio 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 

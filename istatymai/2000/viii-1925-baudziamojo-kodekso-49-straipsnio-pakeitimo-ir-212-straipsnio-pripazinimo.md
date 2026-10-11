@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5F637C4F7A4D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5F637C4F7A4D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo kodekso 49 straipsnio pakeitimo ir 212 straipsnio pripažinimo netekusiu galios įstatymo įgyvendinimo įstatymas
@@ -26,13 +26,13 @@ BAUDŽIAMOJO KODEKSO 49 STRAIPSNIO PAKEITIMO IR 212 STRAIPSNIO PRIPAŽINIMO NETE
 
 Vilnius
 
-\#### 1 straipsnis. Įstatymo taikymas
+## 1 straipsnis. Įstatymo taikymas
 
 1. Baudžiamojo kodekso 49 straipsnio pakeitimo ir 212 straipsnio pripažinimo netekusiu galios įstatymą taiko teismai, nagrinėję baudžiamąją bylą pirmąja instancija, pagal institucijos, į kurios kompetenciją įeina bausmės vykdymas, teikimus arba nuteistųjų prašymus.
 
 2. Paduodant teikimus, prašymus bei priimant teismo nutartis, vadovaujamasi Baudžiamojo kodekso 7 straipsnio normomis. Asmenų, nuteistų pagal Baudžiamojo kodekso 212 straipsnio 2 dalį už paso suklastojimą ar gyvenimą su suklastotu pasu, veikos perkvalifikuojamos į Baudžiamojo kodekso 207 straipsnio 2 dalį.
 
-\#### 2 straipsnis. Teikimo ar prašymo nagrinėjimo tvarka ir priimami sprendimai
+## 2 straipsnis. Teikimo ar prašymo nagrinėjimo tvarka ir priimami sprendimai
 
 1. Šio įstatymo 1 straipsnyje nurodytas teismas teikimui ar prašymui nagrinėti rengia posėdį, kuriame dalyvauja prokuroras. Dalyvauti posėdyje šaukiami esantis laisvėje nuteistasis ir nuteistojo prašymu gynėjas. Laisvės atėmimo bausmę atliekantis nuteistasis į posėdį šaukiamas prireikus. Nuteistojo ir gynėjo neatvykimas nesustabdo bylos nagrinėjimo, jeigu teismas nepripažįsta, kad jiems dalyvauti būtina.
 
@@ -42,7 +42,7 @@ Vilnius
 
 4. Teismas, nustatęs, kad teikimas ar prašymas yra nepagrįstas, priima nutartį teikimą ar prašymą atmesti.
 
-\#### 3 straipsnis. Teismo priimtos nutarties apskundimas
+## 3 straipsnis. Teismo priimtos nutarties apskundimas
 
 1. Dėl šio įstatymo 2 straipsnyje nurodytų nutarčių prokuroras, asmuo, dėl kurio priimta nutartis, ar jo gynėjas gali paduoti skundą Baudžiamojo proceso kodekso 4151 straipsnio 3 dalyje nustatyta tvarka. Skundas nagrinėjamas dalyvaujant šio įstatymo 2 straipsnio 1 dalyje išvardytiems asmenims.
 

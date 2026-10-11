@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C01DB97E7B8A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C01DB97E7B8A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės reformos įstatymo 7, 8, 9, 10 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1991, Nr. [24-635](https://www.e-tar.lt/portal/lt/legalAct/TAR.075D49C59279); 1997, Nr. [69-1735](https://www.e-tar.lt/portal/lt/legalAct/TAR.0EF9122D15BE); 2000, Nr. [56-1649](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE90D023124C); 2001, Nr. [71-2524](https://www.e-tar.lt/portal/lt/legalAct/TAR.7A3423ED809B), Nr. [108-3905](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3F03852F140); 2002, Nr. [68-2763](https://www.e-tar.lt/portal/lt/legalAct/TAR.101222871FF8), Nr. [112-4974](https://www.e-tar.lt/portal/lt/legalAct/TAR.0372FCB845EF), 4975; 2004, Nr. 4-41)
 
-\#### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 7 straipsnio 2 dalies pakeitimas
 
 7 straipsnio 2 dalyje po žodžio „jų“ įrašyti žodį „nekilnojamasis“ ir šią dalį išdėstyti taip:
 
 „2. Religinėms bendrijoms, bendruomenėms ir centrams, kurie veikė iki 1940 m. liepos 21 d., o jų nekilnojamasis turtas pagal TSRS (LTSR) įstatymus buvo nacionalizuotas ar kitaip neteisėtai nusavintas, ir kurie nuosavybės teise turi pastatų ir kitų statinių, Vyriausybės nustatyta tvarka suteikiami nuosavybėn neatlygintinai jų naudojami šiems pastatams ir kitiems statiniams eksploatuoti teritorijų planavimo dokumentuose nustatytų ribų žemės sklypai.“
 
-\#### 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 8 straipsnio 1 dalies paskutiniame sakinyje vietoj žodžių „Valstybės paramos įsigyjant žemės ūkio paskirties žemę laikinojo įstatymo“ įrašyti žodžius „Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo“ ir šią dalį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Vilnius
 
 „2. Ne žemės ūkio paskirčiai žemė miestuose ir kaimo vietovėse parduodama Vyriausybės nustatyta tvarka.“
 
-\#### 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Asmenims, įsigyjantiems žemę (įskaitant miškus ir vandens telkinius), žemės reformos metu galima perleisti pirkimo–pardavimo ir mainų būdais tiek valstybinės žemės, kad bendras vienam piliečiui sugrąžintos natūra, perduotos, suteiktos nuosavybėn neatlygintinai, pirktos ir mainų būdu įgytos, o kitam asmeniui – suteiktos nuosavybėn neatlygintinai, pirktos ir mainų būdu įgytos iš valstybės žemės, išskyrus žemės ūkio paskirties žemę, plotas sudarytų ne daugiau kaip 150 ha, o žemės ūkio paskirties žemės plotas neviršytų Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 4 straipsnio 1 dalyje nurodyto ploto.“
 
-\#### 4 straipsnis. 10 straipsnio 1 ir 4 dalių pakeitimas
+## 4 straipsnis. 10 straipsnio 1 ir 4 dalių pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 

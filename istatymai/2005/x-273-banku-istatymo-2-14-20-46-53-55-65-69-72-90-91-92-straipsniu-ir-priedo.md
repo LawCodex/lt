@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.011268BD3F38"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.011268BD3F38.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos bankų įstatymo 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 straipsnių ir priedo pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2004, Nr. [54-1832](https://www.e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A))
 
-\#### 1 straipsnis. 2 straipsnio 5, 7 ir 8 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 5, 7 ir 8 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -42,13 +42,13 @@ Vilnius
 
 „8. **Užsienio bankas** – užsienio valstybėje įsteigta kredito įstaiga, kuri turi užsienio valstybės priežiūros institucijos išduotą leidimą ar licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu.“
 
-\#### 2 straipsnis. 14 straipsnio 5 dalies pakeitimas
+## 2 straipsnis. 14 straipsnio 5 dalies pakeitimas
 
 14 straipsnio 5 dalyje vietoj žodžių „Kartu bankas turi pateikti veiklos planą, kuriame, be kita ko“ įrašyti žodį „Pranešime“ ir šią dalį išdėstyti taip:
 
 „5. Bankas, norėdamas teikti finansines paslaugas užsienio valstybėje neįsteigęs filialo, turi apie tai pranešti priežiūros institucijai. Pranešime nurodomos numatomos teikti finansinės paslaugos. Priežiūros institucija per 1 mėnesį šią informaciją turi perduoti užsienio valstybės priežiūros institucijai ar atsisakyti ją perduoti ir apie tai pranešti bankui.“
 
-\#### 3 straipsnis. 20 straipsnio 1, 3, 5 ir 6 dalių pakeitimas
+## 3 straipsnis. 20 straipsnio 1, 3, 5 ir 6 dalių pakeitimas
 
 1. 20 straipsnio 1 dalį papildyti antru sakiniu ir ją išdėstyti taip:
 
@@ -66,13 +66,13 @@ Vilnius
 
 „6. Jei keičiasi pagal šio straipsnio 2 dalies 1 punktą priežiūros institucijai perduota informacija apie filialo veiklos planą, filialo organizacinę struktūrą, filialo buveinę (adresą) Lietuvos Respublikoje ar filialo vadovus, užsienio bankas apie tai turi pranešti Lietuvos priežiūros institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį iki pakeitimo.“
 
-\#### 4 straipsnis. 46 straipsnio 2 dalies pakeitimas
+## 4 straipsnis. 46 straipsnio 2 dalies pakeitimas
 
 46 straipsnio 2 dalyje vietoj žodžių „išmokėtas dividendais ir tantjemomis“ įrašyti žodžius „skiriamas dividendams išmokėti ir kitiems tikslams“ ir šią dalį išdėstyti taip:
 
 „2. Banko pelnas, likęs po privalomųjų mokėjimų iš pelno ir atskaitymų į atsargos bei kitus banko įstatuose nustatytus rezervus ir kapitalus, negali būti skiriamas dividendams išmokėti ir kitiems tikslams, jeigu po visuotinio akcininkų susirinkimo sprendimo kapitalo pakankamumas ar minimalus banko kapitalas tampa mažesnis už šio Įstatymo ir priežiūros institucijos teisės aktų nustatytus dydžius.“
 
-\#### 5 straipsnis. 53 straipsnio 1 dalies 4 punkto pakeitimas ir 2, 3 dalių pripažinimas netekusiomis galios
+## 5 straipsnis. 53 straipsnio 1 dalies 4 punkto pakeitimas ir 2, 3 dalių pripažinimas netekusiomis galios
 
 1. 53 straipsnio 1 dalies 4 punkte po žodžio „straipsnio“ įrašyti žodžius „1 dalies“ ir šį punktą išdėstyti taip:
 
@@ -80,13 +80,13 @@ Vilnius
 
 2. 53 straipsnio 2 ir 3 dalis pripažinti netekusiomis galios.
 
-\#### 6 straipsnis. 55 straipsnio 2 dalies pakeitimas
+## 6 straipsnis. 55 straipsnio 2 dalies pakeitimas
 
 55 straipsnio 2 dalyje po žodžio „dalyse“ įrašyti žodžius „ir kituose įstatymuose“ ir šią dalį išdėstyti taip:
 
 „2. Bankas, banko darbuotojai ir bet kurie kiti asmenys, kurie žino banko paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos, išskyrus šio straipsnio 3-5 dalyse ir kituose įstatymuose nustatytus atvejus.“
 
-\#### 7 straipsnis. 65 straipsnio 5 dalies papildymas 7 ir 8 punktais bei 6 ir 8 dalių pakeitimas
+## 7 straipsnis. 65 straipsnio 5 dalies papildymas 7 ir 8 punktais bei 6 ir 8 dalių pakeitimas
 
 1. 65 straipsnio 5 dalį papildyti 7 punktu:
 
@@ -104,7 +104,7 @@ Vilnius
 
 „8. Priežiūros tikslui iš užsienio valstybės, kuri yra Europos Sąjungos narė, finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijos gauta informacija arba informacija, gauta kitoje Europos Sąjungos valstybėje narėje atlikto inspektavimo (tikrinimo) metu, gali būti perduota pagal šio straipsnio 5 dalies 8 punktą ar šio straipsnio 7 dalį, jei yra gautas informaciją pateikusios institucijos ar Europos Sąjungos valstybės narės, kurioje buvo atliktas inspektavimas (tikrinimas), priežiūros institucijos sutikimas, ir tik tam tikslui, dėl kurio duotas sutikimas.“
 
-\#### 8 straipsnis. 69 straipsnio 6, 7 ir 8 dalių pakeitimas
+## 8 straipsnis. 69 straipsnio 6, 7 ir 8 dalių pakeitimas
 
 1. Pakeisti 69 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -118,13 +118,13 @@ Vilnius
 
 „8. Užsienio valstybės, kuri nėra Europos Sąjungos valstybė narė, priežiūros institucija turi teisę inspektuoti (tikrinti) užsienio banko padalinius Lietuvos Respublikoje ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai, jei tarp jos ir Lietuvos priežiūros institucijos yra sudaryta sutartis, numatanti tokią teisę ir reglamentuojanti inspektavimo (tikrinimo) organizavimo tvarką.“
 
-\#### 9 straipsnis. 72 straipsnio 1 dalies 1 punkto pakeitimas
+## 9 straipsnis. 72 straipsnio 1 dalies 1 punkto pakeitimas
 
 72 straipsnio 1 dalies 1 punkte išbraukti žodžius „veiklos trūkumų“ bei žodžius „ar netinkamo vykdymo“ ir šį punktą išdėstyti taip:
 
 „1) įspėti dėl šio Įstatymo ir kitų teisės aktų, reglamentuojančių saugią ir patikimą veiklą, pažeidimo arba priežiūros institucijos nurodymų nevykdymo;“.
 
-\#### 10 straipsnis. 90 straipsnio pakeitimas
+## 10 straipsnis. 90 straipsnio pakeitimas
 
 Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
@@ -158,19 +158,19 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 8) sprendimo taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko likvidavimo bylą poveikį teisme nagrinėjamam ieškiniui dėl banko turto ar reikalavimo teisės reglamentuoja tos Europos Sąjungos valstybės narės, kurioje yra nagrinėjamas ieškinys, teisė.“
 
-\#### 11 straipsnis. 91 straipsnio 3 dalies pakeitimas
+## 11 straipsnis. 91 straipsnio 3 dalies pakeitimas
 
 91 straipsnio 3 dalyje vietoj žodžių „žurnale *Official Journal of the European Communities*“ įrašyti žodžius „Europos Sąjungos oficialiame leidinyje“ ir šią dalį išdėstyti taip:
 
 „3. Jei banko veiklą ribojančios priemonės gali turėti įtakos trečiųjų asmenų teisių kitoje priimančiojoje Europos Sąjungos valstybėje narėje įgyvendinimui ir sprendimas taikyti banko veiklą ribojančias priemones gali būti Lietuvos Respublikos įstatymų nustatyta tvarka apskųstas, tai nusprendusi imtis veiklą ribojančių priemonių institucija informaciją apie priimtą sprendimą skelbia Europos Sąjungos oficialiame leidinyjeir dviejuose šalies laikraščiuose kiekvienoje kitoje priimančiojoje Europos Sąjungos valstybėje narėje.“
 
-\#### 12 straipsnis. 92 straipsnio 3 dalies pakeitimas
+## 12 straipsnis. 92 straipsnio 3 dalies pakeitimas
 
 92 straipsnio 3 dalyje vietoj žodžių „žurnale *Official Journal of the European Communities*“ įrašyti žodžius „Europos Sąjungos oficialiame leidinyje“ ir šią dalį išdėstyti taip:
 
 „3. Teismas, priėmęs sprendimą pradėti banko likvidavimo bylą, ar jo pavedimu banko likvidatorius (administratorius) informaciją apie priimtą sprendimą skelbia Europos Sąjungos oficialiame leidinyje ir dviejuose šalies laikraščiuose kiekvienoje kitoje priimančiojoje Europos Sąjungos valstybėje narėje.“
 
-\#### 13 straipsnis. Įstatymo priedo 1 punkto pripažinimas netekusiu galios
+## 13 straipsnis. Įstatymo priedo 1 punkto pripažinimas netekusiu galios
 
 Įstatymo priedo 1 punktą pripažinti netekusiu galios.
 

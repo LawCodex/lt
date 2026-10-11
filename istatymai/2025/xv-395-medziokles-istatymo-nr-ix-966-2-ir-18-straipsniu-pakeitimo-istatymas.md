@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e2e0df90570011f0a3d380837a821750"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E2E0DF905700.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ MEDŽIOKLĖS ĮSTATYMO NR. IX-966 2 IR 18 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 23 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „26.Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos vandens įstatyme.“
 
-\#### 2 straipsnis. 18 straipsnio pakeitimas
+## 2 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 9. Laisvėje gyvenančių medžiojamųjų gyvūnų padaryta žala žalą patyrusiems asmenims atlyginama, jeigu pasėlių, pievų, sumedėjusių sodo augalų, miško, bitynų savininkai, valdytojai ir naudotojai ar ūkinių gyvūnų savininkai ir laikytojai vykdo šių pasėlių, pievų, sumedėjusių sodo augalų, miško želdinių ir žėlinių, bitynų, ūkinių gyvūnų apsaugojimo nuo laisvėje gyvenančių medžiojamųjų gyvūnų daromos žalos priemones, nustatytas Metodikoje, o hidrotechninių ir melioracijos statinių atveju – jeigu šiuos statinius jų savininkas prižiūri laikydamasis jų techninės priežiūros reikalavimų, nustatytų Metodikoje.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

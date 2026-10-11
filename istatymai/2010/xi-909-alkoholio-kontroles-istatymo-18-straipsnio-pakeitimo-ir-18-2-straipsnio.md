@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8EA1EF900063"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8EA1EF900063.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio pakeitimo ir 18-2 straipsnio papildymo įstatymas
@@ -26,13 +26,13 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2004, Nr. [47-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.65C0438E6F29), Nr. [168-6174](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3FBB6CF91CD); 2006, Nr. [127-4822](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2541E9A3D87); 2007, Nr. [77-3041](https://www.e-tar.lt/portal/lt/legalAct/TAR.6EDFAB619E76); 2008, Nr. [48-1771](https://www.e-tar.lt/portal/lt/legalAct/TAR.AE1DC8808AAD), Nr. [123-4660](https://www.e-tar.lt/portal/lt/legalAct/TAR.606495E318F6); 2009, Nr. [154-6951](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4B3BF59FCBD))
 
-\#### 1 straipsnis. 18 straipsnio 9 dalies pakeitimas
+## 1 straipsnis. 18 straipsnio 9 dalies pakeitimas
 
 Pakeisti 18 straipsnio 9 dalį ir ją išdėstyti taip:
 
 „9. Savivaldybių tarybos, atsižvelgdamos į prekybos alkoholiniais gėrimais vietą, gyventojų, bendrijų, bendruomenių ar jų atstovų, visuomeninių organizacijų ar kitų institucijų raštu pareikštą nuomonę, policijos komisariatų pasiūlymus, turi teisę riboti laiką, kuriuo leidžiama prekiauti alkoholiniais gėrimais, neišduoti licencijos verstis mažmenine prekyba alkoholiniais gėrimais.“
 
-\#### 2 straipsnis. 182 straipsnio 3 dalies papildymas 5 punktu
+## 2 straipsnis. 182 straipsnio 3 dalies papildymas 5 punktu
 
 Papildyti 18^2 straipsnio 3 dalį 5 punktu:
 

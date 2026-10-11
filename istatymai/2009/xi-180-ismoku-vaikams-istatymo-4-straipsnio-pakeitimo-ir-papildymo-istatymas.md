@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.87D718AF8B13"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.87D718AF8B13.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos išmokų vaikams įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [89-1706](https://www.e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE); 2004, Nr. 88-3208; 2006, Nr. [68-2496](https://www.e-tar.lt/portal/lt/legalAct/TAR.E14C789C8A3B))
 
-\#### 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3 dalimi
+## 1 straipsnis. 4 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3 dalimi
 
 1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „3. Valstybės biudžeto lėšų išmokoms administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+## 2 straipsnis. Baigiamosios nuostatos
 
 Nustatant konkretų išmokoms administruoti skiriamų lėšų procento dydį 2009 metams, netaikoma šio įstatymo 1 straipsnio 1 dalies nuostata dėl termino iki biudžetinių metų pradžios.
 

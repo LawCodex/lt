@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D279160D5598"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D279160D5598.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos audito įstatymo 6 ir 10 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [59-1916](https://www.e-tar.lt/portal/lt/legalAct/TAR.9845F775C518); 2002, Nr. [54-2114](https://www.e-tar.lt/portal/lt/legalAct/TAR.1EB4B66E59C6))
 
-\#### 1 straipsnis. 6 straipsnio 1 ir 5 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 1 ir 5 punktų pakeitimas
 
 1. 6 straipsnio 1 punkte po žodžio „sunkų“ įrašyti žodžius „ar labai sunkų“ ir šį punktą išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „5) jis buvo atleistas iš įmonės, įstaigos ar organizacijos vidaus auditoriaus, revizoriaus, buhalterio, finansininko pareigų Darbo kodekso 136 straipsnio 1 dalies 1 punkte ir 3 dalyje numatytais atvejais;“.
 
-\#### 2 straipsnis. 10 straipsnio pakeitimas
+## 2 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
@@ -46,7 +46,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 Pažymėjimo išdavimo procedūra gali būti sustabdyta, jeigu asmuo, kuris pateikė prašymą dėl auditoriaus vardo suteikimo, yra įtariamas arba kaltinamas padaręs nusikalstamą veiką. Pažymėjimo išdavimas arba egzaminų laikymas sustabdomas iki ikiteisminio tyrimo nutraukimo arba baudžiamosios bylos pabaigos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. [89-2741](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43)) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777)).
 

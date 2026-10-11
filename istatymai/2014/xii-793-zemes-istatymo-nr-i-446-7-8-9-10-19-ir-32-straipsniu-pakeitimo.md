@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/08e696f0bb3411e38766a859941f6073"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.08E696F0BB34.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9, 10, 19 ir 32 straipsnių pakeitimo
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 2. Pripažinti netekusiu galios 7 straipsnio 1 dalies 4 punktą.
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -46,13 +46,13 @@ Vilnius
 
 3. Buvusį 8 straipsnio 3 dalies 3 punktą laikyti 4 punktu.
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui, kai valstybinė žemė priskirta įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui arba kai valstybinė žemė yra reikalinga įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Seimas arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė centralizuotai valdomo valstybės turto valdytojui. Sprendimą išnuomoti valstybinės žemės sklypą priima centralizuotai valdomo valstybės turto valdytojo vadovas, o valstybinės žemės nuomos sutartį sudaro centralizuotai valdomo valstybės turto valdytojo vadovas ar jo įgaliotas darbuotojas;“.
 
-\#### 4 straipsnis. 10 straipsnio pakeitimas
+## 4 straipsnis. 10 straipsnio pakeitimas
 
 1. Pakeisti 10 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -60,13 +60,13 @@ Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 2. Pripažinti netekusiu galios 10 straipsnio 1 dalies 2 punktą.
 
-\#### 5 straipsnis. 19 straipsnio pakeitimas
+## 5 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Savivaldybėms nuosavybės teise priklausantys žemės sklypai perleidžiami, išskyrus perleidimą valstybei, pirkimo–pardavimo būdu, kai jie yra priskirti įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui ir yra reikalingi šiam turtui eksploatuoti. Žemės sklypai, kuriuose nėra statinių ar įrenginių, parduodami aukcione Vyriausybės nustatyta tvarka.“
 
-\#### 6 straipsnis. 32 straipsnio pakeitimas
+## 6 straipsnis. 32 straipsnio pakeitimas
 
 1. Pakeisti 32 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5) veikia valstybės vardu valstybei paveldint ir įsigyjant privačią žemę valstybės nuosavybėn, išskyrus atvejus, kai centralizuotai valdomo valstybės turto valdytojas veikia valstybės vardu įsigyjant privačią žemę valstybės nuosavybėn Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatyto valstybės nekilnojamojo turto atnaujinimo tikslais, ir šio Įstatymo nustatytus atvejus, kai valstybės vardu paveldint ar kitaip įsigyjant privačią žemę valstybės nuosavybėn valstybės vardu veikia Valstybės žemės fondas;“.
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. spalio 1 d.
 

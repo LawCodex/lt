@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D570962773F8.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymas
@@ -29,7 +29,7 @@ ATMINTINŲ DIENŲ
 
 1997 m. liepos 3 d. Nr. VIII-397 Vilnius
 
-\# 1 straipsnis. Atmintinos dienos
+## 1 straipsnis. Atmintinos dienos
 
 1. Atmintina diena – reikšminga diena, susijusi su esminiais Lietuvos valstybingumo kūrimo ir įtvirtinimo faktais ir (ar) įvykiais, visuotinių vertybių propagavimu, atminimo kultūros ir gyvosios istorijos išsaugojimu.
 

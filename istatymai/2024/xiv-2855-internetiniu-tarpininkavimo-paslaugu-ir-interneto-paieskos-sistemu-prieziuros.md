@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bd3736c03aa211efbdaea558de59136c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BD3736C03AA2.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos internetinių tarpininkavimo paslaugų ir interneto paieškos sistemų priežiūros įstatymas
@@ -26,9 +26,9 @@ INTERNETINIŲ TARPININKAVIMO PASLAUGŲ IR INTERNETO PAIEŠKOS SISTEMŲ PRIEŽIŪ
 
 Vilnius
 
-\## I SKYRIUS. BENDROSIOS NUOSTATOS
+I SKYRIUS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo tikslas, paskirtis ir taikymas
+### 1 straipsnis. Įstatymo tikslas, paskirtis ir taikymas
 
 1. Šio įstatymo tikslas – užtikrinti, kad internetinių tarpininkavimo paslaugų verslo klientams ir bendrovių interneto svetainių naudotojams, naudojantiems interneto paieškos sistemas, būtų užtikrinamos veiksmingos teisių ir teisėtų interesų gynimo priemonės.
 
@@ -40,13 +40,13 @@ Vilnius
 
 5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (ES) 2019/1150 ir Lietuvos Respublikos viešojo administravimo įstatyme.
 
-\## II SKYRIUS. PRIEŽIŪROS INSTITUCIJA, VERSLO KLIENTŲ IR BENDROVIŲ INTERNETO SVETAINIŲ NAUDOTOJŲ TEISIŲ IR TEISĖTŲ INTERESŲ GYNIMAS
+II SKYRIUS. PRIEŽIŪROS INSTITUCIJA, VERSLO KLIENTŲ IR BENDROVIŲ INTERNETO SVETAINIŲ NAUDOTOJŲ TEISIŲ IR TEISĖTŲ INTERESŲ GYNIMAS
 
-\#### 3 straipsnis. Priežiūros institucija ir jos funkcijos
+### 3 straipsnis. Priežiūros institucija ir jos funkcijos
 
 1. Lietuvos Respublikos konkurencijos taryba prižiūri, ar internetinių tarpininkavimo paslaugų teikėjai ir interneto paieškos sistemų teikėjai laikosi Reglamente (ES) 2019/1150 jiems nustatytų reikalavimų.
 
@@ -94,7 +94,7 @@ j) 12 straipsnio 1 ir 6 dalių pažeidimų;
 
 11) atlieka kitas Viešojo administravimo įstatyme nustatytas funkcijas, priskirtas ūkio subjektų veiklos priežiūrą vykdančiam subjektui.
 
-\#### 4 straipsnis. Verslo klientų ir bendrovių interneto svetainių naudotojų teisių ir teisėtų interesų gynimas
+### 4 straipsnis. Verslo klientų ir bendrovių interneto svetainių naudotojų teisių ir teisėtų interesų gynimas
 
 1. Verslo klientai ir bendrovių interneto svetainių naudotojai, kurių teisės arba teisėti interesai yra pažeisti internetinių tarpininkavimo paslaugų teikėjų arba interneto paieškos sistemų teikėjų, nesilaikančių Reglamente (ES) 2019/1150 jiems nustatytų reikalavimų, taip pat Europos Sąjungos valstybėse narėse įsteigtos organizacijos, asociacijos ir viešosios įstaigos, kurios suprantamos taip, kaip nustatyta Reglamento (ES) 2019/1150 14 straipsnio 3 ir 4 dalyse, ir kurios turi teisėtą interesą atstovauti verslo klientams ir (ar) bendrovių interneto svetainių naudotojams (toliau – Europos Sąjungos valstybėse narėse įsteigtos organizacijos, asociacijos ir viešosios įstaigos), turi teisę pateikti Konkurencijos tarybai pareiškimą su reikalavimu pradėti tyrimą dėl Reglamento (ES) 2019/1150 galimo pažeidimo vadovaujantis šiuo įstatymu arba kreiptis į teismą su ieškiniu dėl:
 
@@ -106,11 +106,9 @@ j) 12 straipsnio 1 ir 6 dalių pažeidimų;
 
 2. Europos Sąjungos valstybėse narėse įsteigtos organizacijos, asociacijos ir viešosios įstaigos, besikreipiančios į teismą su ieškiniu, privalo pateikti dokumentus, patvirtinančius savo atitiktį Reglamento (ES) 2019/1150 14 straipsnio 3 ir 4 dalyse nustatytiems reikalavimams.
 
-\## III SKYRIUS
+## III SKYRIUS. GALIMŲ PAŽEIDIMŲ TYRIMO PROCEDŪRA, TEISINĖ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2019/1150 IR ŠIO ĮSTATYMO PAŽEIDIMUS IR JOS TAIKYMO TVARKA
 
-GALIMŲ PAŽEIDIMŲ TYRIMO PROCEDŪRA, TEISINĖ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2019/1150 IR ŠIO ĮSTATYMO PAŽEIDIMUS IR JOS TAIKYMO TVARKA
-
-\#### 5 straipsnis. Galimų pažeidimų nagrinėjimo Konkurencijos taryboje iniciatyvos teisė
+### 5 straipsnis. Galimų pažeidimų nagrinėjimo Konkurencijos taryboje iniciatyvos teisė
 
 1. Verslo klientai ir bendrovių interneto svetainių naudotojai, kurių Reglamentu (ES) 2019/1150 užtikrinamos teisės arba teisėti interesai yra pažeisti, turi teisę savo nuožiūra kreiptis arba į teismą su ieškiniu dėl neteisėtų veiksmų nutraukimo ir įpareigojimo įvykdyti teisės aktuose nustatytą pareigą, arba vadovaudamiesi šiuo įstatymu pateikti Konkurencijos tarybai pareiškimą su reikalavimu pradėti tyrimą dėl šio įstatymo 3 straipsnio 2 dalies 1 punkte a–j papunkčiuose nurodytų Reglamento (ES) 2019/1150 galimų pažeidimų.
 
@@ -128,7 +126,7 @@ GALIMŲ PAŽEIDIMŲ TYRIMO PROCEDŪRA, TEISINĖ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 
 
 5) kitais atvejais, kai to reikia Reglamento (ES) 2019/1150 laikymosi priežiūros funkcijoms veiksmingai užtikrinti.
 
-\#### 6 straipsnis. Konkurencijos tarybos ir jos įgaliotų pareigūnų teisės ir pareigos
+### 6 straipsnis. Konkurencijos tarybos ir jos įgaliotų pareigūnų teisės ir pareigos
 
 1. Konkurencijos taryba ir jos įgalioti pareigūnai turi teisę:
 
@@ -152,11 +150,11 @@ GALIMŲ PAŽEIDIMŲ TYRIMO PROCEDŪRA, TEISINĖ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 
 
 3) atlikdami galimo pažeidimo tyrimo veiksmus ir nagrinėdami bylas, užtikrinti Reglamento (ES) 2019/1150 galimu pažeidimu įtariamiems internetinių tarpininkavimo paslaugų teikėjams ir interneto paieškos sistemų teikėjams (toliau – įtariamas asmuo) šio įstatymo 8 straipsnio 1 ir 2 dalyse ir 11 straipsnyje nurodytas teises.
 
-\#### 7 straipsnis. Konfidencialios informacijos apsauga
+### 7 straipsnis. Konfidencialios informacijos apsauga
 
 Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1150 ir šio įstatymo laikymosi priežiūrą nustato Lietuvos Respublikos konkurencijos įstatymas.
 
-\#### 8 straipsnis. Pareiškėjo ir įtariamo asmens teisės
+### 8 straipsnis. Pareiškėjo ir įtariamo asmens teisės
 
 1. Verslo klientai, bendrovių interneto svetainių naudotojai, Europos Sąjungos valstybėse narėse įsteigtos organizacijos, asociacijos ir viešosios įstaigos (toliau – pareiškėjas) ir įtariamas asmuo turi teisę:
 
@@ -174,7 +172,7 @@ Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1
 
 3. Laikoma, kad šio straipsnio 1 dalyje nurodyti asmenys, kiti galimo pažeidimo tyrimu suinteresuoti asmenys ir kiti bylos nagrinėjimo procese (toliau – procesas) dalyvaujantys asmenys (toliau kartu – proceso šalys arba atskirai – proceso šalis) yra tinkamai informuoti ir jiems tinkamai pranešta, jeigu Konkurencijos taryba šiame skyriuje nurodytais atvejais nutarimus, kitus sprendimus, pranešimus, kitus dokumentus ir informaciją proceso šalims siunčia Lietuvos Respublikos juridinių asmenų registre nurodytu buveinės adresu arba Lietuvos Respublikos gyventojų registre nurodytu gyvenamosios vietos adresu, išskyrus atvejus, kai proceso šalis nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre arba Gyventojų registre nurodytu proceso šalies Nacionalinės elektroninių siuntų pristatymo, naudojant pašto tinklą, informacinės sistemos aktyvuotos elektroninio pristatymo dėžutės adresu.
 
-\#### 9 straipsnis. Pareiškimo pateikimas, jo turinys ir nagrinėjimas
+### 9 straipsnis. Pareiškimo pateikimas, jo turinys ir nagrinėjimas
 
 1. Pareiškėjas, gindamas galimai pažeistas teises ir teisėtus interesus, Konkurencijos tarybai turi pateikti rašytinį pareiškimą, kuriame nurodomos jam žinomos Reglamentą (ES) 2019/1150 galimai pažeidžiančių veiksmų (ar neveikimo) faktinės aplinkybės, ir jas patvirtinančius dokumentus.
 
@@ -210,7 +208,7 @@ Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1
 
 9. Konkurencijos tarybos įgaliotam pareigūnui priėmus sprendimą atsisakyti pradėti galimo pažeidimo tyrimą, šio sprendimo kopija ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos išsiunčiama pareiškėjui.
 
-\#### 10 straipsnis. Galimo pažeidimo tyrimo atlikimo, sustabdymo, pratęsimo ir nutraukimo terminai
+### 10 straipsnis. Galimo pažeidimo tyrimo atlikimo, sustabdymo, pratęsimo ir nutraukimo terminai
 
 1. Galimo pažeidimo tyrimas turi būti baigtas per 6 mėnesius nuo sprendimo pradėti galimo pažeidimo tyrimą priėmimo dienos, išskyrus atvejus, kai dėl galimo pažeidimo tyrimo metu paaiškėjusių aplinkybių sudėtingumo, informacijos apimties, įtariamo asmens ir (ar) kitų asmenų vengimo vykdyti Konkurencijos tarybos reikalavimus, tiriamų veikų tęstinio pobūdžio arba kitų objektyvių priežasčių būtina galimo pažeidimo tyrimą pratęsti.
 
@@ -222,7 +220,7 @@ Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1
 
 5. Galimo pažeidimo tyrimas gali būti sustabdomas, kai kreipiamasi į kitos Europos Sąjungos valstybės narės kompetentingas institucijas ar ekspertus, ir atnaujinamas gavus jų atsakymą arba nutraukiamas nustačius šio įstatymo 9 straipsnio 6 dalyje nurodytas aplinkybes, taip pat kai įtariamas asmuo nustoja vykdyti savo veiklą arba yra likviduojamas.
 
-\#### 11 straipsnis. Pranešimas apie galimo pažeidimo tyrimo išvadas ir bylų nagrinėjimas
+### 11 straipsnis. Pranešimas apie galimo pažeidimo tyrimo išvadas ir bylų nagrinėjimas
 
 1. Baigus galimo pažeidimo tyrimą, proceso šalims raštu ne vėliau kaip per 3 darbo dienas pateikiamos galimo pažeidimo tyrimo išvados. Proceso šalims pasiūloma per Konkurencijos tarybos nustatytą terminą, kuris negali būti trumpesnis kaip 10 darbo dienų nuo galimo pažeidimo tyrimo išvadų pateikimo dienos, raštu pateikti savo paaiškinimus dėl galimo pažeidimo tyrimo išvadose išdėstytų aplinkybių, išskyrus atvejus, kai šie paaiškinimai jau buvo gauti atliekant galimo pažeidimo tyrimą ir (ar) nagrinėjant pareiškimą, suteikti informacijos, reikšmingos skiriant baudą ir kitas poveikio priemones, ir pareikšti nuomonę dėl bylos nagrinėjimo žodinio proceso tvarka. Paaiškinimų ir kitos informacijos nepateikimas per šioje dalyje nurodytą terminą netrukdo Konkurencijos tarybai nagrinėti bylos ir priimti nutarimo.
 
@@ -240,7 +238,7 @@ Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1
 
 8. Byla išnagrinėjama ir šio įstatymo 12 straipsnio 1 dalyje nurodytas nutarimas priimamas ne vėliau kaip per 3 mėnesius nuo proceso šalių paaiškinimų ir (ar) informacijos, nurodytų šio straipsnio 1 dalyje, pateikimo termino suėjimo dienos.
 
-\#### 12 straipsnis. Konkurencijos tarybos nutarimas baigus bylos nagrinėjimą
+### 12 straipsnis. Konkurencijos tarybos nutarimas baigus bylos nagrinėjimą
 
 1. Konkurencijos taryba, baigusi bylos nagrinėjimą, priima nutarimą:
 
@@ -256,7 +254,7 @@ Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1
 
 4. Konkurencijos tarybos nutarimas gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-\#### 13 straipsnis. Baudos ir kitos poveikio priemonės
+### 13 straipsnis. Baudos ir kitos poveikio priemonės
 
 1. Konkurencijos taryba, nustačiusi Reglamento (ES) 2019/1150 pažeidimą, vadovaudamasi objektyvumo, protingumo ir proporcingumo principais, turi teisę pažeidimus padariusiems asmenims:
 
@@ -286,15 +284,15 @@ Komercinių ir profesinių paslapčių apsaugą atliekant Reglamento (ES) 2019/1
 
 12. Konkurencijos tarybos nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-\## IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+IV SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. sausio 1 d.
 
 2. Konkurencijos taryba iki 2024 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 15 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
+### 15 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
 
 1. Ekonomikos ir inovacijų ministerija atlieka šiame įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą (toliau – ex post vertinimas).
 

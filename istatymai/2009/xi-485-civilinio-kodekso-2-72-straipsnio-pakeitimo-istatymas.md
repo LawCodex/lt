@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.570E251873D3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.570E251873D3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2000, Nr. [74-2262](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB); 2004, Nr. [72-2495](https://www.e-tar.lt/portal/lt/legalAct/TAR.0D3439E4CD13))
 
-\#### 1 straipsnis. 2.72 straipsnio 4 dalies 2 punkto pakeitimas
+## 1 straipsnis. 2.72 straipsnio 4 dalies 2 punkto pakeitimas
 
 2.72 straipsnio 4 dalies 2 punkte po žodžio „institucijoms“ įrašyti žodžius „ir teismams“ ir šį punktą išdėstyti taip:
 

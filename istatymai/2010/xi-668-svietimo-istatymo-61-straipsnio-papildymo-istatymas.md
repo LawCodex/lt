@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B7AE4E1C25A5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B7AE4E1C25A5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos švietimo įstatymo 61 straipsnio papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1991, Nr. [23-593](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0); 2003, Nr. [63-2853](https://www.e-tar.lt/portal/lt/legalAct/TAR.0546D91E9C63); 2004, Nr. [103-3755](https://www.e-tar.lt/portal/lt/legalAct/TAR.89EF7B0C62B3))
 
-\#### 1 straipsnis. 61 straipsnio 4 dalies papildymas 6 punktu
+## 1 straipsnis. 61 straipsnio 4 dalies papildymas 6 punktu
 
 Papildyti 61 straipsnio 4 dalį 6 punktu ir šią dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2C144EFA184B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2C144EFA184B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1995 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo" pakeitimo ir papildymo
@@ -96,47 +96,27 @@ eilutėje „Žemės ūkio ministerija“ pirmosiose trijose skiltyse vietoj ska
 
 **„****I a. APSKRITYS**
 
-\| Alytaus apskritis | 7964 | 2144 | 1260 | 5820 |
-
-\| --- | --- | --- | --- | --- |
-
-\| iš jų – žemės priežiūrai | 5720 | | | 5720 |
-
-\| Kauno apskritis | 19851 | 3951 | 2485 | 15900 |
-
-\| iš jų – žemės priežiūrai | 15790 | | | 15790 |
-
-\| Klaipėdos apskritis | 21980 | 2540 | 1510 | 19440 |
-
-\| iš jų – žemės priežiūrai | 19340 | | | 19340 |
-
-\| Marijampolės apskritis | 12307 | 3427 | 1379 | 8880 |
-
-\| iš jų – žemės priežiūrai | 8780 | | | 8780 |
-
-\| Panevėžio apskritis | 20017 | 2967 | 1752 | 17050 |
-
-\| iš jų – žemės priežiūrai | 16950 | | | 16950 |
-
-\| Šiaulių apskritis | 21417 | 3487 | 2132 | 17930 |
-
-\| iš jų – žemės priežiūrai | 17830 | | | 17830 |
-
-\| Tauragės apskritis | 11085 | 2233 | 1040 | 8852 |
-
-\| iš jų – žemės priežiūrai | 8772 | | | 8772 |
-
-\| Telšių apskritis | 11527 | 2172 | 1195 | 9355 |
-
-\| iš jų – žemės priežiūrai | 9275 | | | 9275 |
-
-\| Utenos apskritis | 16559 | 2979 | 1842 | 13580 |
-
-\| iš jų – žemės priežiūrai | 13500 | | | 13500 |
-
-\| Vilniaus apskritis | 19518 | 4073 | 2546 | 15445 |
-
-\| iš jų – žemės priežiūrai | 15330 | | | 15330“ |
+| Alytaus apskritis | 7964 | 2144 | 1260 | 5820 |
+| --- | --- | --- | --- | --- |
+| iš jų – žemės priežiūrai | 5720 |  |  | 5720 |
+| Kauno apskritis | 19851 | 3951 | 2485 | 15900 |
+| iš jų – žemės priežiūrai | 15790 |  |  | 15790 |
+| Klaipėdos apskritis | 21980 | 2540 | 1510 | 19440 |
+| iš jų – žemės priežiūrai | 19340 |  |  | 19340 |
+| Marijampolės apskritis | 12307 | 3427 | 1379 | 8880 |
+| iš jų – žemės priežiūrai | 8780 |  |  | 8780 |
+| Panevėžio apskritis | 20017 | 2967 | 1752 | 17050 |
+| iš jų – žemės priežiūrai | 16950 |  |  | 16950 |
+| Šiaulių apskritis | 21417 | 3487 | 2132 | 17930 |
+| iš jų – žemės priežiūrai | 17830 |  |  | 17830 |
+| Tauragės apskritis | 11085 | 2233 | 1040 | 8852 |
+| iš jų – žemės priežiūrai | 8772 |  |  | 8772 |
+| Telšių apskritis | 11527 | 2172 | 1195 | 9355 |
+| iš jų – žemės priežiūrai | 9275 |  |  | 9275 |
+| Utenos apskritis | 16559 | 2979 | 1842 | 13580 |
+| iš jų – žemės priežiūrai | 13500 |  |  | 13500 |
+| Vilniaus apskritis | 19518 | 4073 | 2546 | 15445 |
+| iš jų – žemės priežiūrai | 15330 |  |  | 15330“ |
 
 5) skirsnyje „II. Departamentai, tarnybos ir inspekcijos“:
 
@@ -224,131 +204,71 @@ Pajamos į savivaldybių biudžetus įskaitomos pagal šiuos normatyvus nuo 1995
 
 ATSKAITYMŲ Į SAVIVALDYBIŲ BIUDŽETUS NORMATYVAI IR DOTACIJOS
 
-\| | Iš fizinių asmenų pajamų mokesčio (proc.) | Iš juridinių asmenų pelno mokesčio (proc.) | Dotacija (tūkst. Lt) |
+|  | Iš fizinių asmenų pajamų mokesčio (proc.) | Iš juridinių asmenų pelno mokesčio (proc.) | Dotacija (tūkst. Lt) |
+| --- | --- | --- | --- |
+| Miestai |  |  |  |
+| Vilnius | 53 | 35,3 |  |
+| Alytus | 61,9 | 53,6 |  |
+| Birštonas | 100 | 100 | 677 |
+| Druskininkai | 100 | 100 | 3907 |
+| Kaunas | 80,6 | 57,2 |  |
 
-\| --- | --- | --- | --- |
+| Klaipėda | 56,9 | 16,5 |  |
+| --- | --- | --- | --- |
+| Marijampolė | 66 | 92,4 |  |
+| Neringa | 100 | 100 | 1852 |
+| Palanga | 100 | 100 | 1075 |
+| Panevėžys | 75 | 96,1 |  |
+| Šiauliai | 80,8 | 73,5 |  |
+| Visaginas | 18 | 6,6 |  |
+| Rajonai |  |  |  |
+| Akmenės | 100 | 100 | 6808 |
+| Alytaus | 100 | 100 | 20763 |
+| Anykščių | 100 | 100 | 29508 |
+| Biržų | 100 | 73 |  |
+| Ignalinos | 100 | 100 | 4159 |
+| Jonavos | 100 | 27 |  |
+| Joniškio | 100 | 100 | 7119 |
+| Jurbarko | 100 | 100 | 16512 |
+| Kaišiadorių | 100 | 100 | 2541 |
+| Kauno | 100 | 100 | 12188 |
+| Kėdainių | 100 | 100 | 6400 |
+| Kelmės | 100 | 100 | 15060 |
+| Klaipėdos | 100 | 100 | 10465 |
+| Kretingos | 100 | 100 | 10069 |
+| Kupiškio | 100 | 100 | 6137 |
+| Lazdijų | 100 | 100 | 14260 |
+| Marijampolės | 100 | 100 | 25487 |
+| Mažeikių | 65 | 39,1 |  |
+| Molėtų | 100 | 100 | 7119 |
+| Pakruojo | 100 | 100 | 15665 |
+| Panevėžio | 100 | 100 | 9094 |
+| Pasvalio | 100 | 100 | 7051 |
+| Plungės | 100 | 100 | 10624 |
+| Prienų | 100 | 100 | 13765 |
+| Radviliškio | 100 | 100 | 10166 |
+| Raseinių | 100 | 100 | 11757 |
 
-\| Miestai | | | |
-
-\| Vilnius | 53 | 35,3 | |
-
-\| Alytus | 61,9 | 53,6 | |
-
-\| Birštonas | 100 | 100 | 677 |
-
-\| Druskininkai | 100 | 100 | 3907 |
-
-\| Kaunas | 80,6 | 57,2 | |
-
-\| Klaipėda | 56,9 | 16,5 | |
-
-\| --- | --- | --- | --- |
-
-\| Marijampolė | 66 | 92,4 | |
-
-\| Neringa | 100 | 100 | 1852 |
-
-\| Palanga | 100 | 100 | 1075 |
-
-\| Panevėžys | 75 | 96,1 | |
-
-\| Šiauliai | 80,8 | 73,5 | |
-
-\| Visaginas | 18 | 6,6 | |
-
-\| Rajonai | | | |
-
-\| Akmenės | 100 | 100 | 6808 |
-
-\| Alytaus | 100 | 100 | 20763 |
-
-\| Anykščių | 100 | 100 | 29508 |
-
-\| Biržų | 100 | 73 | |
-
-\| Ignalinos | 100 | 100 | 4159 |
-
-\| Jonavos | 100 | 27 | |
-
-\| Joniškio | 100 | 100 | 7119 |
-
-\| Jurbarko | 100 | 100 | 16512 |
-
-\| Kaišiadorių | 100 | 100 | 2541 |
-
-\| Kauno | 100 | 100 | 12188 |
-
-\| Kėdainių | 100 | 100 | 6400 |
-
-\| Kelmės | 100 | 100 | 15060 |
-
-\| Klaipėdos | 100 | 100 | 10465 |
-
-\| Kretingos | 100 | 100 | 10069 |
-
-\| Kupiškio | 100 | 100 | 6137 |
-
-\| Lazdijų | 100 | 100 | 14260 |
-
-\| Marijampolės | 100 | 100 | 25487 |
-
-\| Mažeikių | 65 | 39,1 | |
-
-\| Molėtų | 100 | 100 | 7119 |
-
-\| Pakruojo | 100 | 100 | 15665 |
-
-\| Panevėžio | 100 | 100 | 9094 |
-
-\| Pasvalio | 100 | 100 | 7051 |
-
-\| Plungės | 100 | 100 | 10624 |
-
-\| Prienų | 100 | 100 | 13765 |
-
-\| Radviliškio | 100 | 100 | 10166 |
-
-\| Raseinių | 100 | 100 | 11757 |
-
-\| Rokiškio | 100 | 100 | 9174 |
-
-\| --- | --- | --- | --- |
-
-\| Skuodo | 100 | 100 | 13034 |
-
-\| Šakių | 100 | 100 | 13727 |
-
-\| Šalčininkų | 100 | 100 | 10047 |
-
-\| Šiaulių | 100 | 100 | 8715 |
-
-\| Šilalės | 100 | 100 | 13813 |
-
-\| Šilutės | 100 | 100 | 19572 |
-
-\| Širvintų | 100 | 100 | 5466 |
-
-\| Švenčionių | 100 | 100 | 8696 |
-
-\| Tauragės | 100 | 100 | 14872 |
-
-\| Telšių | 100 | 100 | 13513 |
-
-\| Trakų | 100 | 100 | 14762 |
-
-\| Ukmergės | 100 | 100 | 12177 |
-
-\| Utenos | 100 | 51 | |
-
-\| Varėnos | 100 | 100 | 7570 |
-
-\| Vilkaviškio | 100 | 100 | 15539 |
-
-\| Vilniaus | 100 | 100 | 23272 |
-
-\| Zarasų | 100 | 100 | 13891 |
-
-\| Iš viso | | | 498068 „ |
+| Rokiškio | 100 | 100 | 9174 |
+| --- | --- | --- | --- |
+| Skuodo | 100 | 100 | 13034 |
+| Šakių | 100 | 100 | 13727 |
+| Šalčininkų | 100 | 100 | 10047 |
+| Šiaulių | 100 | 100 | 8715 |
+| Šilalės | 100 | 100 | 13813 |
+| Šilutės | 100 | 100 | 19572 |
+| Širvintų | 100 | 100 | 5466 |
+| Švenčionių | 100 | 100 | 8696 |
+| Tauragės | 100 | 100 | 14872 |
+| Telšių | 100 | 100 | 13513 |
+| Trakų | 100 | 100 | 14762 |
+| Ukmergės | 100 | 100 | 12177 |
+| Utenos | 100 | 51 |  |
+| Varėnos | 100 | 100 | 7570 |
+| Vilkaviškio | 100 | 100 | 15539 |
+| Vilniaus | 100 | 100 | 23272 |
+| Zarasų | 100 | 100 | 13891 |
+| Iš viso |  |  | 498068 „ |
 
 6. 3 straipsnį išdėstyti taip:
 
@@ -366,119 +286,64 @@ ASIGNAVIMAI KAPITALO INVESTICIJOMS, KURIŲ SĄMATINĖ KAINA VIRŠIJA 5000 TŪKST
 
 tūkst. Lt
 
-\| | Kapitalo investicijoms | Gamtos apsaugos objektams |
+|  | Kapitalo investicijoms | Gamtos apsaugos objektams |
+| --- | --- | --- |
+| Miestai |  |  |
+| Vilnius |  | 21800 |
+| Alytus | 9000 | 2000 |
+| Kaunas | 500 | 29700 |
+| Klaipėda | 4000 | 2500 |
+| Neringa |  | 190 |
+| Palanga |  |  |
+| Šiauliai | 5000 | 5000 |
+| Rajonai |  |  |
+| Akmenės |  |  |
+| Alytaus |  |  |
+| Anykščių | 19000 | 5500 |
+| Biržų |  | 1000 |
+| Ignalinos |  |  |
+| Jonavos | 2040 |  |
+| Joniškio |  | 1700 |
+| Jurbarko | 4500 |  |
+| Kaišiadorių |  |  |
+| Kauno |  |  |
+| Kėdainių |  |  |
+| Kelmės |  | 2100 |
+| Klaipėdos | 4375 |  |
+| Kretingos |  |  |
+| Kupiškio |  |  |
+| Lazdijų | 2400 | 1900 |
+| Marijampolės |  | 2000 |
 
-\| --- | --- | --- |
-
-\| Miestai | | |
-
-\| Vilnius | | 21800 |
-
-\| Alytus | 9000 | 2000 |
-
-\| Kaunas | 500 | 29700 |
-
-\| Klaipėda | 4000 | 2500 |
-
-\| Neringa | | 190 |
-
-\| Palanga | | |
-
-\| Šiauliai | 5000 | 5000 |
-
-\| Rajonai | | |
-
-\| Akmenės | | |
-
-\| Alytaus | | |
-
-\| Anykščių | 19000 | 5500 |
-
-\| Biržų | | 1000 |
-
-\| Ignalinos | | |
-
-\| Jonavos | 2040 | |
-
-\| Joniškio | | 1700 |
-
-\| Jurbarko | 4500 | |
-
-\| Kaišiadorių | | |
-
-\| Kauno | | |
-
-\| Kėdainių | | |
-
-\| Kelmės | | 2100 |
-
-\| Klaipėdos | 4375 | |
-
-\| Kretingos | | |
-
-\| Kupiškio | | |
-
-\| Lazdijų | 2400 | 1900 |
-
-\| Marijampolės | | 2000 |
-
-\| Mažeikių | | |
-
-\| --- | --- | --- |
-
-\| Molėtų | | 2100 |
-
-\| Pakruojo | | 8000 |
-
-\| Panevėžio | | |
-
-\| Pasvalio | | 200 |
-
-\| Plungės | | 800 |
-
-\| Prienų | | 1000 |
-
-\| Radviliškio | | |
-
-\| Raseinių | | 1500 |
-
-\| Rokiškio | | |
-
-\| Skuodo | | 2500 |
-
-\| Šakių | | |
-
-\| Šalčininkų | | 100 |
-
-\| Šiaulių | | |
-
-\| Šilalės | | 2300 |
-
-\| Šilutės | | 4000 |
-
-\| Širvintų | | 1000 |
-
-\| Švenčionių | 1000 | |
-
-\| Tauragės | 3600 | |
-
-\| Telšių | 3592 | |
-
-\| Trakų | 3540 | |
-
-\| Ukmergės | | 2300 |
-
-\| Utenos | 4934 | 700 |
-
-\| Varėnos | | |
-
-\| Vilkaviškio | | 2000 |
-
-\| Vilniaus | 3110 | 500 |
-
-\| Zarasų | 3000 | 2000 |
-
-\| Iš viso | 73591 | 106390 „ |
+| Mažeikių |  |  |
+| --- | --- | --- |
+| Molėtų |  | 2100 |
+| Pakruojo |  | 8000 |
+| Panevėžio |  |  |
+| Pasvalio |  | 200 |
+| Plungės |  | 800 |
+| Prienų |  | 1000 |
+| Radviliškio |  |  |
+| Raseinių |  | 1500 |
+| Rokiškio |  |  |
+| Skuodo |  | 2500 |
+| Šakių |  |  |
+| Šalčininkų |  | 100 |
+| Šiaulių |  |  |
+| Šilalės |  | 2300 |
+| Šilutės |  | 4000 |
+| Širvintų |  | 1000 |
+| Švenčionių | 1000 |  |
+| Tauragės | 3600 |  |
+| Telšių | 3592 |  |
+| Trakų | 3540 |  |
+| Ukmergės |  | 2300 |
+| Utenos | 4934 | 700 |
+| Varėnos |  |  |
+| Vilkaviškio |  | 2000 |
+| Vilniaus | 3110 | 500 |
+| Zarasų | 3000 | 2000 |
+| Iš viso | 73591 | 106390 „ |
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 

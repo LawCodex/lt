@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/1759af40dfaa11eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1759AF40DFAA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1, 2, 4, 6, 9, 10, 15, 17, 22, 26, 27, 28, 31, 32, 33, 35, 40, 41, 42, 43, 62, 63, 64, 77, 94, 95, 103, 104, 110, 111, 114, 130 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 102-1, 102-2, 102-3, 111-1 straipsniais įstatymas

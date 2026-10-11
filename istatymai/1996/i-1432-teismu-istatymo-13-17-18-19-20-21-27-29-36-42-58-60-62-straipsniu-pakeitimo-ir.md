@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.844FFF4EB67A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.844FFF4EB67A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1994, Nr. [46-851](https://www.e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52), Nr. [89-1709](https://www.e-tar.lt/portal/lt/legalAct/TAR.6F5F36EA929B), Nr. [96-1880](https://www.e-tar.lt/portal/lt/legalAct/TAR.645BD10A1B7B); 1995, Nr. 17- 386; 1996, Nr. 60-1411)
 
-\#### 1 straipsnis. 13 straipsnio antrosios dalies pakeitimas
+## 1 straipsnis. 13 straipsnio antrosios dalies pakeitimas
 
 Pakeisti 13 straipsnio antrąją dalį ir ją išdėstyti taip:
 
 „Aukščiausiajame Teisme yra Civilinių bylų skyrius, Baudžiamųjų bylų skyrius ir Aukščiausiojo Teismo senatas.“
 
-\#### 2 straipsnis. 17 straipsnio pakeitimas
+## 2 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 Apeliacinis teismas yra apeliacinė instancija byloms, kurias išnagrinėjo apygardų teismai, kaip pirmosios instancijos teismai, taip pat kasacinė instancija apygardų teismų sprendimams, nuosprendžiams ir nutartims, priimtiems apeliacine tvarka.“
 
-\#### 3 straipsnis. 18 straipsnio pakeitimas
+## 3 straipsnis. 18 straipsnio pakeitimas
 
 Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Biuletenis finansuojamas iš valstybės biudžeto ir iš gautų jį pardavus lė
 
 Aukščiausiojo Teismo veiklą reglamentuoja šis įstatymas, įstatymu patvirtintas Lietuvos Aukščiausiojo Teismo statutas bei kiti įstatymai.“
 
-\#### 4 straipsnis. IV skirsnio pavadinimo pakeitimas
+## 4 straipsnis. IV skirsnio pavadinimo pakeitimas
 
 IV skirsnį pavadinti taip:
 
@@ -82,7 +82,7 @@ IV skirsnį pavadinti taip:
 
 **AUKščIAUSIOJO TEISMO SENATAS“**
 
-\#### 5 straipsnis. 19 straipsnio pakeitimas
+## 5 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Aukščiausiojo Teismo senato pirmininkas yra Aukščiausiojo Teismo pirmininkas
 
 Aukščiausiojo Teismo senatas iš savo narių renka Senato sekretorių.“
 
-\#### 6 straipsnis. 20 straipsnio pakeitimas
+## 6 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Aukščiausiojo Teismo senatas:
 
 Teisingumo ministras, generalinis prokuroras, apygardų teismų ir Apeliacinio teismo pirmininkai turi teisę siūlyti Aukščiausiojo Teismo senato pirmininkui nagrinėti įstatymų taikymo teismų praktikoje klausimus, dalyvauti Senato posėdžiuose ir ten reikšti nuomonę svarstomais klausimais.“
 
-\#### 7 straipsnis. 21 straipsnio pakeitimas
+## 7 straipsnis. 21 straipsnio pakeitimas
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
@@ -134,7 +134,7 @@ Aukščiausiojo Teismo senato nutarimus pasirašo pirmininkas ir sekretorius.
 
 Aukščiausiojo Teismo senato teismo posėdžio, nagrinėjant bylas pagal Aukščiausiojo Teismo pirmininko teikimą, procesą nustato Lietuvos Respublikos baudžiamojo proceso kodekso ir Civilinio proceso kodekso taisyklės.“
 
-\#### 8 straipsnis. 27 straipsnio pakeitimas
+## 8 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnį ir jį išdėstyti taip:
 
@@ -144,13 +144,13 @@ Aukščiausiojo Teismo teisėjų egzaminų komisiją skiria trejiems metams Auk�
 
 Aukščiausiojo Teismo teisėjų egzaminų komisijos nuostatus tvirtina Aukščiausiojo Teismo senatas.“
 
-\#### 9 straipsnis. 29 straipsnio antrosios dalies pakeitimas
+## 9 straipsnis. 29 straipsnio antrosios dalies pakeitimas
 
 Pakeisti 29 straipsnio antrąją dalį ir ją išdėstyti taip:
 
 „Teisėjų egzaminų komisijų išvados per dešimt dienų nuo jų priėmimo gali būti skundžiamos Aukščiausiojo Teismo senatui.“
 
-\#### 10 straipsnis. 36 straipsnio antrosios ir trečiosios dalių pakeitimas
+## 10 straipsnis. 36 straipsnio antrosios ir trečiosios dalių pakeitimas
 
 Pakeisti 36 straipsnio antrąją ir trečiąją dalis ir jas išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 36 straipsnio antrąją ir trečiąją dalis ir jas išdėstyti taip:
 
 Jeigu bylos nagrinėjimo metu teisėjui sueina įstatymo nustatytas amžius, jo įgaliojimai pratęsiami, kol byla bus baigta nagrinėti arba jos svarstymas bus atidėtas.“
 
-\#### 11 straipsnis. 42 straipsnio pakeitimas
+## 11 straipsnis. 42 straipsnio pakeitimas
 
 Pakeisti 42 straipsnį ir jį išdėstyti taip:
 
@@ -166,19 +166,19 @@ Pakeisti 42 straipsnį ir jį išdėstyti taip:
 
 Aukščiausiojo Teismo pirmininkas paskirsto teisėjus į šio teismo skyrius, šaukia Aukščiausiojo Teismo senatą, šaukia pirmąjį visuotinį teisėjų susirinkimą, tvirtina šio teismo raštvedybos instrukciją, tvirtina teismo vidaus struktūrą, siūlo iš paskirtųjų teisėjų Respublikos Prezidentui teikti Seimui Aukščiausiojo Teismo skyrių pirmininkus.“
 
-\#### 12 straipsnis. 58 straipsnio ketvirtosios dalies pakeitimas
+## 12 straipsnis. 58 straipsnio ketvirtosios dalies pakeitimas
 
 Pakeisti 58 straipsnio ketvirtąją dalį ir ją išdėstyti taip:
 
 „Aukščiausiojo Teismo teisėjų garbės teismą iš trijų narių renka Aukščiausiojo Teismo senatas penkeriems metams. Aukščiausiojo Teismo teisėjų garbės teismas nagrinėja Aukščiausiojo Teismo teisėjų drausmines bylas vadovaudamasis šiuo įstatymu ir Aukščiausiojo Teismo senato tvirtinamais Aukščiausiojo Teismo teisėjų garbės teismo nuostatais.“
 
-\#### 13 straipsnis. 60 straipsnio trečiosios dalies pakeitimas
+## 13 straipsnis. 60 straipsnio trečiosios dalies pakeitimas
 
 Pakeisti 60 straipsnio trečiąją dalį ir ją išdėstyti taip:
 
 „Teisėjų garbės teismo sprendimas per dešimt dienų nuo jo priėmimo gali būti skundžiamas Aukščiausiojo Teismo senatui.“
 
-\#### 14 straipsnis. 62 straipsnio pakeitimas ir papildymas
+## 14 straipsnis. 62 straipsnio pakeitimas ir papildymas
 
 Pakeisti 62 straipsnio pirmąją dalį, papildyti nauja antrąja dalimi ir visą straipsnį išdėstyti taip:
 

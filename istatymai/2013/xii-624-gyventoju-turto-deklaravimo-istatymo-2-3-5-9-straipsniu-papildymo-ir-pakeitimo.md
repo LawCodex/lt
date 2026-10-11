@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A3E547BEC8CA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A3E547BEC8CA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2, 3, 5, 9 straipsnių papildymo ir pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 2003, Nr. [123-5583](https://www.e-tar.lt/portal/lt/legalAct/TAR.EE03A85CB721); 2005, Nr. [18-577](https://www.e-tar.lt/portal/lt/legalAct/TAR.14A032384AFA); 2008, Nr. [138-5445](https://www.e-tar.lt/portal/lt/legalAct/TAR.D202C1148A3A); 2010, Nr. [25-1178](https://www.e-tar.lt/portal/lt/legalAct/TAR.39357930107A), Nr. [63-3097](https://www.e-tar.lt/portal/lt/legalAct/TAR.D456A3296B36), Nr. [125-6377](https://www.e-tar.lt/portal/lt/legalAct/TAR.7FC319CFF30B); 2011, Nr. [37-1757](https://www.e-tar.lt/portal/lt/legalAct/TAR.DB3F519CDC20), Nr. [153-7208](https://www.e-tar.lt/portal/lt/legalAct/TAR.616FBF132576), Nr. [153-7210](https://www.e-tar.lt/portal/lt/legalAct/TAR.E17B961ABF42); 2012, Nr. [50-2446](https://www.e-tar.lt/portal/lt/legalAct/TAR.9063E8908094), Nr. [78-4022](https://www.e-tar.lt/portal/lt/legalAct/TAR.F10FD4A3BB48), Nr. [122-6105](https://www.e-tar.lt/portal/lt/legalAct/TAR.585B57A261A7), Nr. [126-6326](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C980D2A2313); 2013, Nr. [54-2676](https://www.e-tar.lt/portal/lt/legalAct/TAR.24B1241D7009))
 
-\#### 1 straipsnis. 2 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 1 dalies papildymas ir 2 dalies pakeitimas
 
 1. Papildyti 2 straipsnio 1 dalį 37 punktu:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „2. Šio straipsnio 1 dalies 1–23 ir 29–36 punktuose nurodyti asmenys privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Šio straipsnio 1 dalies 1–24,27–35, 37 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi dieninėse bendrojo ugdymo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose (mokiniai ar studentai), asmenys laikotarpiu nuo dieninių bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).“
 
-\#### 2 straipsnis. 3 straipsnio 1 ir 5 dalių pakeitimas
+## 2 straipsnis. 3 straipsnio 1 ir 5 dalių pakeitimas
 
 1. 3 straipsnio 1 dalyje vietoj skaičiaus „36“ įrašyti skaičių „37“ ir šią dalį išdėstyti taip:
 
@@ -58,13 +58,13 @@ Vilnius
 
 „5. Šio Įstatymo 2 straipsnio 1 dalies 24, 25, 27, 28 ir 37 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 5 straipsnio 1 dalyje vietoj skaičiaus „36“ įrašyti skaičių „37“ ir šią dalį išdėstyti taip:
 
 „1. Šio Įstatymo 2 straipsnio 1 dalies 1–23, 29–37 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.“
 
-\#### 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 4 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 9 straipsnio 1 dalyje vietoj skaičiaus „36“ įrašyti skaičių „37“ ir šią dalį išdėstyti taip:
 

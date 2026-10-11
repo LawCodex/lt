@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.751DD4F54ADD"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.751DD4F54ADD.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2000, Nr. [92-2873](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B); 2004, Nr. [171-6302](https://www.e-tar.lt/portal/lt/legalAct/TAR.3DF7815A4AD1); 2006, Nr. [77-2969](https://www.e-tar.lt/portal/lt/legalAct/TAR.2B35EA5043F4); 2008, Nr. [75-2919](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8889B2B1556))
 
-\#### 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
+## 1 straipsnis. 3 straipsnio 3 punkto pakeitimas
 
 Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 
 „3) dalis akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams;“.
 
-\#### 2 straipsnis. 5 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas
+## 2 straipsnis. 5 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas
 
 Pakeisti 5 straipsnio pavadinimą, 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 5 straipsnio pavadinimą, 1 ir 2 dalis ir visą straipsnį išdėstyti 
 
 3. Akcizo pajamų atskaitymus kiekvieną mėnesį iki kito mėnesio 25 dienos į Programos finansavimo sąskaitą perveda Finansų ministerija.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

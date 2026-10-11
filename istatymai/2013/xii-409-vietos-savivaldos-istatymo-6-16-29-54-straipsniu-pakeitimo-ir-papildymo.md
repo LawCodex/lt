@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.308C0D333B93"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.308C0D333B93.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vietos savivaldos įstatymo 6, 16, 29, 54 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [55-1049](https://www.e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F); 2008, Nr. [113-4290](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF599A1A6DD5), Nr. [137-5379](https://www.e-tar.lt/portal/lt/legalAct/TAR.18F4EB30E002); 2009, Nr. [77-3165](https://www.e-tar.lt/portal/lt/legalAct/TAR.C30DB229877B), Nr. [159-7206](https://www.e-tar.lt/portal/lt/legalAct/TAR.E88921718FB6); 2010, Nr. [25-1177](https://www.e-tar.lt/portal/lt/legalAct/TAR.2CDF7CF05F4F), Nr. [51-2480](https://www.e-tar.lt/portal/lt/legalAct/TAR.D2EB5CBFF6C7), Nr. [84-4406](https://www.e-tar.lt/portal/lt/legalAct/TAR.284BE0F7FDC7), Nr. [86-4525](https://www.e-tar.lt/portal/lt/legalAct/TAR.C6D81071DC40); 2011, Nr. [52-2504](https://www.e-tar.lt/portal/lt/legalAct/TAR.E36F769AFF4D), Nr. [155-7354](https://www.e-tar.lt/portal/lt/legalAct/TAR.F601633B07B4); 2012, Nr. [136-6958](https://www.e-tar.lt/portal/lt/legalAct/TAR.A8F9C835C922), Nr. [154-7935](https://www.e-tar.lt/portal/lt/legalAct/TAR.69EB095725C2))
 
-\#### 1 straipsnis. 6 straipsnio 19 ir 27 punktų pakeitimas
+## 1 straipsnis. 6 straipsnio 19 ir 27 punktų pakeitimas
 
 1. Pakeisti 6 straipsnio 19 punktą ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „27) adresų suteikimas žemės sklypams, kuriuose pagal jų naudojimo paskirtį (būdą) ar teritorijų planavimo dokumentus leidžiama pastatų statyba, pastatams, butams ir kitoms patalpoms, pavadinimų suteikimas gatvėms, savivaldybės teritorijose esantiems pastatams, statiniams ir kitiems objektams, šių adresų ir pavadinimų keitimas ar panaikinimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;“.
 
-\#### 2 straipsnis. 16 straipsnio 2 dalies 32 punkto ir 3 dalies 8 ir 12 punktų pakeitimas
+## 2 straipsnis. 16 straipsnio 2 dalies 32 punkto ir 3 dalies 8 ir 12 punktų pakeitimas
 
 1. Pakeisti 16 straipsnio 2 dalies 32 punktą ir jį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Vilnius
 
 „12) sprendimų dėl pagrindinės žemės naudojimo paskirties ir būdo keitimo priėmimas teisės aktų nustatytais atvejais ir tvarka;“.
 
-\#### 3 straipsnis. 29 straipsnio 8 dalies 12 punkto pakeitimas ir papildymas 13, 14 ir 15 punktais
+## 3 straipsnis. 29 straipsnio 8 dalies 12 punkto pakeitimas ir papildymas 13, 14 ir 15 punktais
 
 1. Pakeisti 29 straipsnio 8 dalies 12 punktą ir jį išdėstyti taip:
 
@@ -66,13 +66,13 @@ Vilnius
 
 „15) įstatymų nustatytais atvejais organizuoja žemėtvarkos planavimo dokumentų rengimą ir tvirtina juos.“
 
-\#### 4 straipsnis. 54 straipsnio 5 dalies pakeitimas
+## 4 straipsnis. 54 straipsnio 5 dalies pakeitimas
 
 Pakeisti 54 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „5. Savivaldybės turi teisę imtis visų teisėtų priemonių, kad būtų laikomasi savivaldybės bendrojo plano arba savivaldybės dalių bendrųjų planų, detaliųjų planų ir su jų įgyvendinimu susijusių reikalavimų.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 

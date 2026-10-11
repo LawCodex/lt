@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/b9f020c0ea1d11e38557d238694e3fc9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B9F020C0EA1D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 5, 7, 9, 10, 11, 14, 16, 17, 18, 19, 20 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
@@ -26,7 +26,7 @@ PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 2, 
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Vilnius
 
 „21. **Teroristų finansavimas** – veika, kuri laikoma nusikaltimu pagal 1999 m. gruodžio 9 d. Tarptautinės konvencijos dėl kovos su terorizmo finansavimu 2 straipsnį.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 1. Pakeisti 5 straipsnio 3 punktą ir jį išdėstyti taip:
 
@@ -92,13 +92,13 @@ Vilnius
 
 „8) informuoja finansų įstaigas ir kitus subjektus, teisėsaugos ir kitas valstybės institucijas apie jų pranešimų apie įtartinas pinigines operacijas ar sandorius, apie pastebėtus galimo pinigų plovimo ir (ar) teroristų finansavimo požymius ar šio įstatymo pažeidimus, analizės ir tyrimų rezultatus;“.
 
-\#### 3 straipsnis. 7 straipsnio pakeitimas
+## 3 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „5) nurodyti finansų įstaigoms ir kitiems subjektams, išskyrus notarus ar teisę atlikti notarinius veiksmus turinčius asmenis, advokatus ar advokatų padėjėjus ir antstolius arba teisę atlikti antstolių veiksmus turinčius asmenis, iki 10 darbo dienų sustabdyti atliekamas įtartinas pinigines operacijas ar sandorius.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
@@ -132,13 +132,13 @@ Pakeisti 7 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 „15. Finansų įstaigos ir kiti subjektai nėra atsakingi klientui už sutartinių įsipareigojimų nevykdymą ir žalą, padarytą dėl kliento piniginių operacijų ar sandorių nevykdymo, jeigu finansų įstaigos ir kiti subjektai kliento piniginių operacijų ar sandorių nevykdė dėl šio straipsnio 11 dalyje nurodytų priežasčių.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 Pakeisti 10 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) gyvybės draudimo sutarčių, kai metinė draudimo įmoka yra ne didesnė kaip 1 000 eurų arba vienkartinė draudimo įmoka yra ne didesnė kaip 2 500 eurų ar ją atitinkanti suma užsienio valiuta, atvejais;“.
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -162,7 +162,7 @@ Pakeisti 10 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „7. Finansų įstaigos ir kiti subjektai privalo skirti ypatingą dėmesį bet kokiai pinigų plovimo ir (ar) teroristų finansavimo grėsmei, galinčiai kilti dėl bet kokio pobūdžio gaminių, produktų, kitokių žmogaus darbo rezultatų, teikiamų paslaugų naudojimo ar vykdomų sandorių, kai siekiama nuslėpti kliento ar naudos gavėjo tapatybę (linkstama į anonimiškumą), taip pat dėl dalykinių santykių ar sandorių su klientu, kurio tapatybė nebuvo nustatyta jam dalyvaujant fiziškai, ir prireikus nedelsdami imtis priemonių, kad būtų užkirstas kelias turtą panaudoti pinigų plovimui ir (ar) teroristų finansavimui.“
 
-\#### 7 straipsnis. 14 straipsnio pakeitimas
+## 7 straipsnis. 14 straipsnio pakeitimas
 
 1. Pakeisti 14 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -208,7 +208,7 @@ Pakeisti 10 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „17. Šiame straipsnyje nurodytų įtartinų piniginių operacijų ar sandorių sustabdymo ir informacijos apie įtartinas pinigines operacijas ar sandorius pateikimo Finansinių nusikaltimų tyrimo tarnybai tvarką nustato Vyriausybė.“
 
-\#### 8 straipsnis. Įstatymo papildymas 141 straipsniu
+## 8 straipsnis. Įstatymo papildymas 141 straipsniu
 
 Papildyti Įstatymą 14^1straipsniu:
 
@@ -216,7 +216,7 @@ Papildyti Įstatymą 14^1straipsniu:
 
 Finansų įstaigos ir kiti subjektai privalo atkreipti dėmesį į tokią veiklą, kuri, jų nuomone, dėl savo pobūdžio gali būti susijusi su pinigų plovimu ir (ar) teroristų finansavimu, ir ypač į sudėtingus ar neįprastai didelius sandorius ir visas neįprastas sandorių struktūras, kurios neturi akivaizdaus ekonominio ar matomo teisėto tikslo, ir dalykinius santykius ar pinigines operacijas su klientais iš trečiųjų valstybių, kuriose pagal tarptautinių tarpvyriausybinių organizacijų oficialiai paskelbtą informaciją pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonės yra nepakankamos ar neatitinka tarptautinių standartų. Finansų įstaigos ir kiti subjektai privalo išnagrinėti tokių operacijų ar sandorių vykdymo pagrindą ir tikslą, o tyrimo rezultatus įforminti raštu. Raštai, kuriais įforminami šiame straipsnyje nurodyti tyrimo rezultatai, saugomi 5 metus popierinėje arba elektroninėje laikmenoje.“
 
-\#### 9 straipsnis. 16 straipsnio pakeitimas
+## 9 straipsnis. 16 straipsnio pakeitimas
 
 1. Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -244,7 +244,7 @@ Finansų įstaigos ir kiti subjektai privalo atkreipti dėmesį į tokią veikl�
 
 „9. Kliento tapatybę patvirtinančių dokumentų kopijos, sąskaitų ir (ar) sutarčių dokumentacija (dokumentų originalai) turi būti saugomos 10 metų nuo sandorių ar dalykinių santykių su klientu pabaigos dienos. Dalykinių santykių su klientu korespondencija turi būti saugoma 5 metus nuo sandorių ar dalykinių santykių su klientu pabaigos dienos popierinėje arba elektroninėje laikmenoje. Saugojimo terminai gali būti papildomai pratęsti, kai yra motyvuotas kompetentingos institucijos nurodymas.“
 
-\#### 10 straipsnis. 17 straipsnio pakeitimas
+## 10 straipsnis. 17 straipsnio pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -262,25 +262,25 @@ Finansų įstaigos ir kiti subjektai privalo atkreipti dėmesį į tokią veikl�
 
 „8. Šio straipsnio 1, 2 ir 3 dalyse nurodytų duomenų ir informacijos pateikimo Finansinių nusikaltimų tyrimo tarnybai tvarką nustato Vyriausybė.“
 
-\#### 11 straipsnis. 18 straipsnio pakeitimas
+## 11 straipsnis. 18 straipsnio pakeitimas
 
 Papildyti 18 straipsnį 6 dalimi:
 
 „6. Šiame straipsnyje vartojama sąvoka „grynieji pinigai“ atitinka sąvoką, vartojamą Reglamento (EB) Nr. 1889/2005 2 straipsnyje, o sąvoka „Europos Sąjungos valstybė narė“ neapima Europos ekonominės erdvės valstybių.“
 
-\#### 12 straipsnis. 19 straipsnio pakeitimas
+## 12 straipsnis. 19 straipsnio pakeitimas
 
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Finansų įstaigos ir kiti subjektai, išskyrus advokatus ar advokatų padėjėjus, privalo nustatyti atitinkamas vidaus kontrolės procedūras, susijusias su klientų ir naudos gavėjųtapatybės nustatymu, pranešimų ir informacijos pateikimu Finansinių nusikaltimų tyrimo tarnybai, šiame įstatyme nurodytos informacijos saugojimu, rizikos įvertinimu, rizikos (atsižvelgiant į kliento, dalykinių santykių, produkto, paslaugos ar sandorio tipą, geografinę riziką ir pan.) valdymu, reikalavimų vykdymo valdymu ir komunikacija ir kurios užkirstų kelią su pinigų plovimu ir (ar) teroristų finansavimu susijusioms piniginėms operacijoms ir sandoriams, ir užtikrinti, kad finansų įstaigų ir kitų subjektų darbuotojai būtų tinkamai pasirengę ir supažindinti su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonėmis, nurodytomis šiame įstatyme ir kituose teisės aktuose. Šioje dalyje nurodytos vidaus kontrolės procedūros turi atitikti šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų patvirtintus nurodymus.“
 
-\#### 13 straipsnis. 20 straipsnio pakeitimas
+## 13 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) keistis informacija tarp finansų įstaigų, draudimo įmonių, vykdančių gyvybės draudimo veiklą, ir draudimo brokerių įmonių, vykdančių su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, auditorių, buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančių įmonių, notarų ir teisę atlikti notarinius veiksmus turinčių asmenų bei advokatų ir advokatų padėjėjų tokiais atvejais, kurie yra susiję su tuo pačiu klientu ir tuo pačiu sandoriu, apimančiu du arba daugiau iš minėtų subjektų, jeigu jie yra registruoti Europos Sąjungos valstybės narės teritorijoje ar trečiosios valstybės teritorijoje, kurioje galioja šiam įstatymui lygiaverčiai reikalavimai, ir jeigu jie priklauso tos pačios kategorijos profesijai ir turi lygiavertes profesinės paslapties ir asmens duomenų saugojimo pareigas.“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. rugsėjo 1 d.
 

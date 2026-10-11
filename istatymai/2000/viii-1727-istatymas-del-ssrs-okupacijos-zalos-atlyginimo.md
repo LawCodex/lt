@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.03410B6A865C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.03410B6A865C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl SSRS okupacijos žalos atlyginimo
@@ -44,7 +44,7 @@ konstatuodamas,kad Rusija, parodžiusi daug geros valios ir 1992 m. rugsėjo 8 d
 
 priima šį įstatymą.
 
-\#### 1 straipsnis. SSRS okupacijos žalos Lietuvai laikotarpiai
+## 1 straipsnis. SSRS okupacijos žalos Lietuvai laikotarpiai
 
 SSRS okupacijos žalos Lietuvai laikotarpiai:
 
@@ -52,7 +52,7 @@ SSRS okupacijos žalos Lietuvai laikotarpiai:
 
 2) SSRS, jos represinių struktūrų ir kariuomenės padarytos žalos 1990–1991 m. bei SSRS (1992–1993 m. Rusijos Federacijos) kariuomenės padarytos žalos 1991–1993 m. laikotarpis.
 
-\#### 2 straipsnis. Lietuvos Respublikos Vyriausybės prievolės
+## 2 straipsnis. Lietuvos Respublikos Vyriausybės prievolės
 
 Lietuvos Respublikos Vyriausybė:
 
@@ -66,7 +66,7 @@ Lietuvos Respublikos Vyriausybė:
 
 5) iš Rusijos Federacijos gautas SSRS okupacijos padarytos žalos atlyginimo lėšas kaupia Valstybės iždo atskiroje okupacijų žalos atlyginimo sąskaitoje ir jas pirmiausia skiria atlyginti Lietuvos gyventojams žalą, patirtą dėl deportacijų, prievartinio darbo, okupacinio režimo represijų ir prarasto turto.
 
-\#### 3 straipsnis. SSRS deportuotų asmenų grįžimo į Tėvynę fondas
+## 3 straipsnis. SSRS deportuotų asmenų grįžimo į Tėvynę fondas
 
 Atsižvelgdama į tai, kad Rusijos Federacija 1996 m. sausio 25 d. įsipareigojo Europos Tarybai, jog padės asmenims, anksčiau deportuotiems iš okupuotų Baltijos valstybių, ir (ar) jų palikuonims sugrįžti į savo šalį pagal specialias repatrijavimo ir atlyginimo programas, Lietuvos Respublikos Vyriausybė steigia SSRS deportuotų asmenų grįžimo į Tėvynęfondą ir kreipiasi į Rusijos Federaciją, kad ši skirtų lėšų iš Lietuvos deportuotiems asmenims ir jų palikuonims grįžti į Tėvynę.
 

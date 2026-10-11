@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E85DC599AFC7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E85DC599AFC7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės gelmių įstatymo 4, 6, 8, 14, 15 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [63-1582](https://www.e-tar.lt/portal/lt/legalAct/TAR.13E108ED3981))
 
-\#### 1 straipsnis. 4 straipsnio 1 ir 2 dalių pakeitimas
+## 1 straipsnis. 4 straipsnio 1 ir 2 dalių pakeitimas
 
 4 straipsnio 1 dalyje vietoj žodžių „apskričių valdytojus“ įrašyti žodžius „apskričių viršininkus“, 2 dalyje vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šias dalis išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Visos šio įstatymo numatytos valstybinio reguliavimo funkcijos turi būti numatytos ministerijų, Vyriausybės įstaigų ir apskričių viršininkų administracijų nuostatuose.“
 
-\#### 2 straipsnis. 6 straipsnio pavadinimo ir 1 dalies pakeitimas
+## 2 straipsnis. 6 straipsnio pavadinimo ir 1 dalies pakeitimas
 
 6 straipsnio pavadinime vietoj žodžių „Apskrities valdytojo“ įrašyti žodžius „Apskrities viršininko“, 1 dalyje vietoj žodžių „Apskrities valdytojas“ įrašyti žodžius „Apskrities viršininkas“ ir pavadinimą bei šią dalį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Vilnius
 
 1. Apskrities viršininkas sprendžia klausimus, susijusius su žemės, reikalingos žemės gelmių naudojimui, paėmimu, suteikimu naudotis ir nuoma, Lietuvos Respublikos Vyriausybės nustatyta tvarka ir pagal savo kompetenciją, nustatytą Lietuvos Respublikos įstatymų bei Vyriausybės, reguliuoja žemės gelmių naudojimą.“
 
-\#### 3 straipsnis. 8 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 8 straipsnio 2 dalies pakeitimas
 
 8 straipsnio 2 dalyje vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šią dalį išdėstyti taip:
 
 „2. Apie tiesioginį žemės gelmių tyrimą, prieš jį pradedant, turi būti pranešta savivaldybės valdybai, kurios teritorijoje numatomi tyrimai, ir apskrities viršininko administracijos Žemėtvarkos ir geodezijos tarnybai. Šie tyrimai turi būti suderinti su žemės savininkais ir naudotojais Lietuvos Respublikos įstatymų ir Vyriausybės nustatyta tvarka.“
 
-\#### 4 straipsnis. 14 straipsnio 2, 3 ir 6 dalių pakeitimas
+## 4 straipsnis. 14 straipsnio 2, 3 ir 6 dalių pakeitimas
 
 14 straipsnio 2 dalyje vietoj žodžių „Apskrities valdytojas“ įrašyti žodžius „Apskrities viršininkas“, 3 ir 6 dalyse vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šias dalis išdėstyti taip:
 
@@ -62,7 +62,7 @@ Leidimas naudoti geriamąjį gėlą požeminį vandenį centralizuotam vandens t
 
 „6. Apie leidimus naudoti žemės gelmių išteklius ir ertmes juos išduodanti valstybės institucija turi informuoti savivaldybę, apskrities viršininko administracijos Žemėtvarkos ir geodezijos tarnybą ir visuomenę, prieš joms pradedant leidime numatytą veiklą.“
 
-\#### 5 straipsnis. 15 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 15 straipsnio 1 dalies pakeitimas
 
 15 straipsnio 1 dalyje vietoj žodžių „apskrities valdytoju“ įrašyti žodžius „apskrities viršininku“ ir šią dalį išdėstyti taip:
 

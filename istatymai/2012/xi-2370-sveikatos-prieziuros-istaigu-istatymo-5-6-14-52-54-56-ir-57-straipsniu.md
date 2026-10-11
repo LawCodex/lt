@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.52A223569543"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.52A223569543.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 5, 6, 14, 52, 54, 56 ir 57 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [66-1572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6); 1998, Nr. [109-2995](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6CC51EA4ED); 2000, Nr. [61-1811](https://www.e-tar.lt/portal/lt/legalAct/TAR.0CFDE6703857); 2001, Nr. [39-1357](https://www.e-tar.lt/portal/lt/legalAct/TAR.B4D0D5381891); 2010, Nr. [71-3558](https://www.e-tar.lt/portal/lt/legalAct/TAR.5846F3D96938); 2011, Nr. [153-7195](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A206EF4AE22))
 
-\#### 1 straipsnis. 5 straipsnio pakeitimas
+## 1 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -118,7 +118,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
 16. Apie licencijos išdavimą, jos galiojimo sustabdymą, atnaujinimą ar panaikinimą Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba skelbia savo interneto svetainėje.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -138,19 +138,19 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 7. Akreditavimo reikalavimus rengia aukštosios mokyklos ir mokslo įstaigos kartu su sveikatos priežiūros specialistų organizacijomis. Akreditavimo reikalavimų rengimą užsako, juos tvirtina ir registruoja Sveikatos apsaugos ministerija ar jos įgaliota institucija.“
 
-\#### 3 straipsnis. 14 straipsnio 3 punkto pakeitimas
+## 3 straipsnis. 14 straipsnio 3 punkto pakeitimas
 
 14 straipsnio 3 punkte vietoj žodžių „Valstybinės medicininio audito inspekcijos“ įrašyti žodžius „Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos“ ir šį punktą išdėstyti taip:
 
 „3) yra Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos išvada dėl tolesnio įstaigos veiklos netikslingumo;“.
 
-\#### 4 straipsnis. 52 straipsnio 1 dalies 2 punkto pakeitimas
+## 4 straipsnis. 52 straipsnio 1 dalies 2 punkto pakeitimas
 
 52 straipsnio 1 dalies 2 punkte vietoj žodžių „Valstybinė medicininio audito inspekcija“ įrašyti žodžius „Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba“ ir šį punktą išdėstyti taip:
 
 „2) Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba – asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;“.
 
-\#### 5 straipsnis. 54 straipsnio 1 ir 6 dalių pakeitimas
+## 5 straipsnis. 54 straipsnio 1 ir 6 dalių pakeitimas
 
 1. 54 straipsnio 1 dalyje vietoj žodžių „Akreditavimo tarnyba, Valstybinė medicininio audito inspekcija“ įrašyti žodžius „Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba“ ir šią dalį išdėstyti taip:
 
@@ -170,7 +170,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „6. Jei per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą sustabdžiusi institucija kreipiasi į Valstybinę akreditavimo sveikatos priežiūros veiklai tarnybą dėl įstaigos licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.“
 
-\#### 6 straipsnis. 56 straipsnio 6 ir 8 dalių pakeitimas
+## 6 straipsnis. 56 straipsnio 6 ir 8 dalių pakeitimas
 
 1. 56 straipsnio 6 dalyje vietoj žodžių „Akreditavimo tarnybą“ įrašyti žodžius „Valstybinę akreditavimo sveikatos priežiūros veiklai tarnybą“ ir šią dalį išdėstyti taip:
 
@@ -180,7 +180,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 „8. Revizijos metu nustačius įstatymų, kitų teisės aktų ar normatyvinių dokumentų pažeidimus, laikinasis administratorius kreipiasi į Valstybinę akreditavimo sveikatos priežiūros veiklai tarnybą dėl licencijos galiojimo panaikinimo ir informuoja apie tai Sveikatos apsaugos ministeriją.“
 
-\#### 7 straipsnis. 57 straipsnio 1 punkto pakeitimas
+## 7 straipsnis. 57 straipsnio 1 punkto pakeitimas
 
 57 straipsnio 1 punkte vietoj žodžių „Akreditavimo tarnyba“ įrašyti žodžius „Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba“ ir šį punktą išdėstyti taip:
 

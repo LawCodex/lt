@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/34c30a50ca0511f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.34C30A50CA05.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3, 8 ir 9 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ VALSTYBĖS SKOLOS ĮSTATYMO NR. I-1508 3, 8 IR 9 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 1. Pakeisti 3 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „13. Valstybės skolininkai arba valstybės garantuojami skolininkai, išskyrus Lietuvos Respublikos ir užsienio valstybių kredito įstaigas, Mokslo ir studijų įstatyme nurodytos valstybės remiamos paskolos gavėjus, garantijų institucijas ir savivaldybes, iki nėra visiškai įvykdyti turtiniai įsipareigojimai, be Finansų ministerijos arba kito subjekto, administruojančio perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, rašytinio leidimo ir nesuderinę šių veiksmų atlikimo sąlygų neturi teisės:“.
 
-\#### 2 straipsnis. 8 straipsnio pakeitimas
+## 2 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 „5. Valstybės skolininkas arba valstybės garantuojamas skolininkas privalo pateikti Finansų ministerijai arba kitam subjektui, administruojančiam perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, audito įmonėms, kontrolės institucijoms ir įstaigoms jų reikalaujamus dokumentus jų nustatytais terminais, išskyrus dokumentus, kurių pateikimo tvarką nustato Vyriausybė.“
 
-\#### 3 straipsnis. 9 straipsnio pakeitimas
+## 3 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „6. Jeigu valstybės skolininkas arba valstybės garantuojamas skolininkas laiku nevykdo turtinių įsipareigojimų ir ekonominiu požiūriu netikslinga šiam skolininkui keisti perskolinamos paskolos ir (arba) skolos grąžinimo sąlygas arba priimti ir pateikti vykdyti Finansų ministerijos sprendimą išieškoti skolą, Finansų ministerija arba kitas subjektas, administruojantis perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, turi teisę inicijuoti bankroto procesą valstybės skolininkui arba valstybės garantuojamam skolininkui.“
 
-\#### 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 4 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 1 d.
 

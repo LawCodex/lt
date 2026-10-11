@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/9f95fff2eac511f09cfce49e7aeb76fe"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9F95FFF2EAC5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės gynimo tarybos įstatymo Nr. VIII-209 4 ir 5 straipsnių pakeitimo įstatymas
@@ -26,19 +26,19 @@ VALSTYBĖS GYNIMO TARYBOS ĮSTATYMO NR. VIII-209 4 IR 5 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 4 straipsnio pakeitimas
+## 1 straipsnis. 4 straipsnio pakeitimas
 
 Papildyti 4 straipsnio 1 dalį 16 punktu:
 
 „16) tvirtina išorės rizikos veiksnių, pavojų ir grėsmių šalinimo priemones vykdant žvalgybą ir jų taikymo gaires.“
 
-\#### 2 straipsnis. 5 straipsnio pakeitimas
+## 2 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) Lietuvos Respublikos valstybės saugumo departamento direktorius;“.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2026 m. vasario 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.00B95291C3DF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.00B95291C3DF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymo 12 straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2003, Nr. [51-2254](https://www.e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D); 2007, Nr. [130-5259](https://www.e-tar.lt/portal/lt/legalAct/TAR.A601A252F765); 2010, Nr. [1-6](https://www.e-tar.lt/portal/lt/legalAct/TAR.A1311C5AC5DA))
 
-\#### 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti jį taip:
 
 „1. Šilumos vartotojai atsiskaito su šilumos tiekėju už sunaudotą šilumą pagal šilumos pirkimo–pardavimo vietoje įrengtų atsiskaitomųjų šilumos apskaitos prietaisų rodmenis. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka šilumos tiekėjas privalo suteikti slaptažodį šilumos vartotojams, kad šie galėtų elektroninių ryšių priemonėmis susipažinti su šilumos pirkimo–pardavimo vietoje įrengtų atsiskaitomųjų šilumos apskaitos prietaisų rodmenimis.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. lapkričio 1 d.
 

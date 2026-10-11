@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8D4EE979B475"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8D4EE979B475.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1997, Nr. [2-16](https://www.e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C); 1998, Nr. [55-1520](https://www.e-tar.lt/portal/lt/legalAct/TAR.6004A90751D2))
 
-\#### 1 straipsnis. Priedėlio 8 skyriaus 4 dalies papildymas
+## 1 straipsnis. Priedėlio 8 skyriaus 4 dalies papildymas
 
 Papildyti 8 skyriaus 4 dalį žodžiais „išskyrus įstatymų numatytus atvejus” ir ją išdėstyti taip:
 

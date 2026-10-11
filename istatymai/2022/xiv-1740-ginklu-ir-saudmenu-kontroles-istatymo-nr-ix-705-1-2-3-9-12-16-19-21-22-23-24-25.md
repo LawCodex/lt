@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/526995508c1011ed8df094f359a60216"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.526995508C10.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 2, 3, 9, 12, 16, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 34, 36, 37, 38, 39, 40, 41, 42, 43, 45-1, 46 straipsnių ir priedo pakeitimo įstatymas
@@ -643,5 +643,3 @@ _______________“.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_61d34eade6e44d908e778034d10ae593_end

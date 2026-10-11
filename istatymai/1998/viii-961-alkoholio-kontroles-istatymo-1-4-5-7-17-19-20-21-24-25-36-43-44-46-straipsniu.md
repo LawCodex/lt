@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.18C5908A6316"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.18C5908A6316.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 1, 4, 5, 7, 17, 19, 20, 21, 24, 25, 36, 43, 44, 46 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,7 +30,7 @@ Vilnius
 
 1997, Nr. 15-314, Nr. 33-809, Nr. 67-1660)
 
-\#### 1 straipsnis. 1 straipsnio papildymas 7 ir 8 dalimis
+## 1 straipsnis. 1 straipsnio papildymas 7 ir 8 dalimis
 
 Papildyti 1 straipsnį 7 ir 8 dalimis:
 
@@ -38,13 +38,13 @@ Papildyti 1 straipsnį 7 ir 8 dalimis:
 
 **Ugdymo įstaigos**– ikimokyklinės ugdymo įstaigos, bendrojo lavinimo mokyklos, vaikų vasaros stovyklos ir kitos vaikų papildomo ugdymo švietimo institucijos (meno, sporto, kalbų, technikos bei kitokio profilio mokyklos).“
 
-\#### 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 4 straipsnio 3 dalies pakeitimas
 
 Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „Lietuvos Respublikos Vyriausybė ypatingais atvejais, atsižvelgdama į alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui monitoringo rezultatus, Sveikatos apsaugos ministerijos teikimu gali nustatyti alkoholinių gėrimų grupių gamybos ir importo kvotas.“
 
-\#### 3 straipsnis. 5 straipsnio papildymas
+## 3 straipsnis. 5 straipsnio papildymas
 
 5 straipsnyje po žodžių „Lietuvos Respublikos Vyriausybė“ įrašyti žodžius „ar jos įgaliota institucija“ ir straipsnį išdėstyti taip:
 
@@ -54,13 +54,13 @@ Jei skysčiai (technologiniai, parfumerijos ir kosmetikos pramonės gaminiai ir 
 
 Maisto produktų su alkoholio priedais gamybos, importo bei vidaus prekybos tvarką, remdamasi šiuo ir kitais įstatymais bei teisės aktais, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 4 straipsnis. 7 straipsnio 2 dalies papildymas
+## 4 straipsnis. 7 straipsnio 2 dalies papildymas
 
 7 straipsnio 2 dalyje po žodžių „Lietuvos Respublikos Vyriausybė“ įrašyti žodžius „ar jos įgaliota institucija“ ir šią dalį išdėstyti taip:
 
 „Jeigu šio įstatymo ir kitų teisės aktų įgaliotos kontrolės institucijos, tirdamos nustatyta tvarka paimtus alkoholio produktų pavyzdžius, nustato, kad šie neatitinka norminių dokumentų reikalavimų, tai laikoma, kad šių reikalavimų neatitinka visa alkoholio produktų siunta, iš kurios buvo paimti pavyzdžiai. Alkoholio produktų siuntų, kurios pagal kontrolės institucijų užsakymu atliktos ekspertizės išvadas pripažintos neatitinkančiomis šio įstatymo ir norminių dokumentų reikalavimų, realizavimo sustabdymo ir tolesnio naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 5 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
+## 5 straipsnis. 17 straipsnio 1 ir 2 dalių pakeitimas ir papildymas
 
 Pakeisti 17 straipsnio 1 dalį, 2 dalies pirmajame sakinyje po žodžio „gaminančiais“ įrašyti žodžius „arba gamintojų pavedimu realizuojančiais (tik tais atvejais, kai gamintojai patys nerealizuoja)“, antrajame sakinyje po žodžių „Lietuvos Respublikos Vyriausybė“ įrašyti žodžius „ar jos įgaliota institucija“ ir šias dalis išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 17 straipsnio 1 dalį, 2 dalies pirmajame sakinyje po žodžio „gamin
 
 Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms įmonėms, kurios pateikia dokumentus, liudijančius, jog sudarytos sutartys tik su tokiais užsienio valstybių ūkio subjektais, gaminančiais arba gamintojų pavedimu realizuojančiais (tik tais atvejais, kai gamintojai patys nerealizuoja*)* alkoholinius gėrimus, kurių gaminiais dėl jų kokybės patikimumo leidžiama mažmeninė prekyba tose valstybėse. Dokumentų, liudijančių, kad alkoholiniais gėrimais leidžiama mažmeninė prekyba valstybėje, iš kurios jie importuojami, reikalavimus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 6 straipsnis. 19 straipsnio 3 ir 5 dalių pakeitimas ir papildymas
+## 6 straipsnis. 19 straipsnio 3 ir 5 dalių pakeitimas ir papildymas
 
 1. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -78,7 +78,7 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 
 „Mažmeninės prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse leidimuose turi būti įrašyta leidžiamų realizuoti alkoholinių gėrimų rūšys, alkoholinių gėrimų grupės bei prekybos jais laikas ir vieta, taip pat alkoholinių gėrimų saugojimo (laikymo) vieta.“
 
-\#### 7 straipsnis. 20 straipsnio 1, 3, 5, 6 ir 9 dalių pakeitimas
+## 7 straipsnis. 20 straipsnio 1, 3, 5, 6 ir 9 dalių pakeitimas
 
 1. Pakeisti 20 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
 
@@ -108,7 +108,7 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 
 „Juridiniai ir fiziniai asmenys, gaminantys, realizuojantys, laikantys (saugantys) arba gabenantys alkoholinius gėrimus be nustatyto specialaus ženklinimo ar žymų, blogos kokybės, falsifikuotus, kontrabandinius alkoholio produktus, suklastoję alkoholio produktų įsigijimą patvirtinančius dokumentus, kokybę liudijančius atitikimo pažymėjimus ar nustatytą specialųjį ženklinimą bei žymas, atsako pagal šį ir kitus įstatymus.“
 
-\#### 8 straipsnis. 21 straipsnio 1 dalies 3, 5, 6 punktų ir 2 dalies pakeitimas
+## 8 straipsnis. 21 straipsnio 1 dalies 3, 5, 6 punktų ir 2 dalies pakeitimas
 
 1. Pakeisti 21 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -124,7 +124,7 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 
 „Prekiauti alkoholiniais gėrimais leidžiama tik išimtinai tokiai prekybai skirtose stacionarinėse prekybos įmonėse arba jų specializuotuose skyriuose, skirtuose tokiai prekybai, ir viešojo maitinimo įmonėse, išskyrus prekybą gamyklų supilstytu į tarą alumi, kioskuose, autoparduotuvėse, kurios aptarnauja kaimo gyventojus savivaldybių nustatyta tvarka*,*ir prekybos įmonių nespecializuotuose skyriuose*,* prekybą alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, nestacionarinėse viešojo maitinimo įmonėse savivaldybių nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiu, prekybą alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija13 procentų*,*masiniuose renginiuose, parodose ir mugėse, taip pat išskyrus prekybą visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariniuose pastatuose*.*Prekyba alkoholiniais gėrimais draudžiama mažmeninės prekybos ir viešojo maitinimo įmonėse, įrengtose didmeninės prekybos įmonių ir importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais. Prekyba alumi, gamyklų supilstytu į tarą, draudžiama kioskuose, įrengtuose didmeninės prekybos įmonių ir importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais gėrimais.“
 
-\#### 9 straipsnis. 24 straipsnio 4 ir 5 dalių papildymas ir pakeitimas
+## 9 straipsnis. 24 straipsnio 4 ir 5 dalių papildymas ir pakeitimas
 
 24 straipsnio 4 dalyje po žodžių „Lietuvos Respublikos Vyriausybė“ įrašyti žodžius „ar jos įgaliota institucija“, pakeisti 5 dalį ir šias dalis išdėstyti taip:
 
@@ -132,13 +132,13 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 
 Lietuvos Respublikos Vyriausybės nustatyta tvarka, suderinta su Nacionaline sveikatos taryba, Lietuvos Respublikoje vykdomas alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui monitoringas.“
 
-\#### 10 straipsnis. 25 straipsnio 1 dalies 3 punkto pakeitimas
+## 10 straipsnis. 25 straipsnio 1 dalies 3 punkto pakeitimas
 
 25 straipsnio 1 dalies 3 punkte vietoj žodžio „tolimojo“ įrašyti žodį „tarptautinio“ ir šį punktą išdėstyti taip:
 
 „3) visų rūšių viešajame transporte, išskyrus tarptautiniosusisiekimo traukinius, laivus, kur yra atskirai įrengtos viešojo maitinimo vietos, taip pat lėktuvus, skrendančius už Lietuvos Respublikos ribų.“
 
-\#### 11 straipsnis. 36 straipsnio pakeitimas
+## 11 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnio 1, 2 ir 3 dalis, iš 4 dalies išbraukti žodį „savivaldybių“ ir visą straipsnį išdėstyti taip:
 
@@ -154,13 +154,13 @@ Asmenų, apsinuodijusių alkoholiu, detoksikacijos centrų veiklos, detoksikavim
 
 Įstatymų numatytais atvejais ir tvarka gali būti apribotas asmenų, sergančių priklausomybės nuo alkoholio sindromu, veiksnumas ir jiems taikomos socialinės bei psichologinės reabilitacijos priemonės.“
 
-\#### 12 straipsnis. 43 straipsnio 4 dalies pakeitimas
+## 12 straipsnis. 43 straipsnio 4 dalies pakeitimas
 
 Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „Konfiskuoti alkoholio produktai sunaikinami Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
-\#### 13 straipsnis. 44 straipsnio 10, 11 dalių pakeitimas ir papildymas nauja 12 dalimi
+## 13 straipsnis. 44 straipsnio 10, 11 dalių pakeitimas ir papildymas nauja 12 dalimi
 
 1. 44 straipsnio 10 dalyje vietoj skaičių „1-12“ įrašyti skaičius „1, 2, 4, 5, 6, 8-12“, pakeisti 11 dalį ir šias dalis išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip:
 
 3. 44 straipsnio buvusią 12 dalį laikyti 13 dalimi.
 
-\#### 14 straipsnis. 46 straipsnio pakeitimas
+## 14 straipsnis. 46 straipsnio pakeitimas
 
 Pakeisti 46 straipsnį ir jį išdėstyti taip:
 

@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/d3062ec0d8da11eb9f09e7df20500045"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D3062EC0D8DA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymas
@@ -78,5 +78,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2044, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12409
 
 Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymo Nr. XIV-427 3 straipsnio pakeitimo įstatymas
-
-part_9c7cc4b47d344ad9b8f975a3bae9cc14_end

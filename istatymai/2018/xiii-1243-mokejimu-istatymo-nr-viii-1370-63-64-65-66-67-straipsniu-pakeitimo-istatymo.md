@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/bfb76ff06f1011e8b83be60b2e217f90"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.BFB76FF06F10.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 63, 64, 65, 66, 67 straipsnių pakeitimo, Įstatymo papildymo 62-1 straipsniu ir 68, 69, 70 straipsnių pripažinimo netekusiais galios įstatymas

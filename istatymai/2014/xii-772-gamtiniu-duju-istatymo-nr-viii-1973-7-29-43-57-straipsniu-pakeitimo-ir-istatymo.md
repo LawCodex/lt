@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/de9b5af0af7311e39b958c81fb177d0b"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DE9B5AF0AF73.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 7, 29, 43, 57 straipsnių pakeitimo ir Įstatymo papildymo 43-1 straipsniu
@@ -26,7 +26,7 @@ GAMTINIŲ DUJŲ ĮSTATYMO NR. VIII-1973 7, 29, 43, 57 STRAIPSNIŲ PAKEITIMO IR �
 
 Vilnius
 
-\#### 1 straipsnis. 7 straipsnio pakeitimas
+## 1 straipsnis. 7 straipsnio pakeitimas
 
 1. Papildyti 7 straipsnio 2 dalį nauju 17 punktu:
 
@@ -34,19 +34,19 @@ Vilnius
 
 2. Buvusius 7 straipsnio 2 dalies 17, 18 ir 19 punktus laikyti atitinkamai 18, 19 ir 20 punktais.
 
-\#### 2 straipsnis. 29 straipsnio pakeitimas
+## 2 straipsnis. 29 straipsnio pakeitimas
 
 Pakeisti 29 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) jo paskyrimas nesukelia pavojaus Lietuvos Respublikos, kitos valstybės narės arba Europos Sąjungos energijos tiekimui ir šio tiekimo saugumui. Komisija numanomo sprendimo dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo priėmimo metuvertindama, ar perdavimo sistemos operatoriaus paskyrimas nesukelia pavojaus Lietuvos Respublikos, kitos valstybės narės arba Europos Sąjungos energijos tiekimui ir šio tiekimo saugumui, atsižvelgia į Europos Sąjungos teises ir pareigas, numatytas pagal tarptautinę teisę, tos trečiosios valstybės atžvilgiu, įskaitant visus susitarimus, sudarytus su viena ar daugiau trečiųjų valstybių, kurių viena susitariančioji šalis yra Europos Sąjunga, ir kuriuose nagrinėjami energijos tiekimo saugumo klausimai, taip pat į Lietuvos Respublikos teises ir pareigas, numatytas pagal su ja sudarytus susitarimus, jeigu jie atitinka Europos Sąjungos teisę, tos trečiosios valstybės atžvilgiu ir kitus konkrečius faktus bei aplinkybes, dėl kurių perdavimo sistemos operatoriaus paskyrimas sukeltų pavojų Lietuvos Respublikos, kitos valstybės narės arba Europos Sąjungos energijos tiekimui ir šio tiekimo saugumui ir į atitinkamą trečiąją valstybę;“.
 
-\#### 3 straipsnis. 43 straipsnio pakeitimas
+## 3 straipsnis. 43 straipsnio pakeitimas
 
 Pakeisti 43 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) skirstymo sistemos operatorius turi turėti faktines teises nepriklausomai nuo integruotos gamtinių dujų įmonės priimti sprendimus, susijusius su turtu, reikalingu sistemai eksploatuoti, prižiūrėti ar plėtoti. Šioms užduotims atlikti skirstymo sistemos operatorius turi turėti būtinus išteklius, įskaitant technologinius, finansinius ir vadybinius pajėgumus. Nuostata, susijusi su skirstymo sistemos operatoriaus faktinėmis teisėmis, neturi kliudyti taikyti tinkamų koordinavimo priemonių siekiant užtikrinti, kad būtų saugomos patronuojančios įmonės ekonominės ir valdymo priežiūros teisės, kurios netiesiogiai reglamentuojamos šio įstatymo 7 straipsnio 2 dalies 6 punkte, dėl dukterinės įmonės protingumo kriterijų atitinkančios investicijų grąžos. Patronuojanti įmonė turi teisę patvirtinti skirstymo sistemos operatoriaus metinį finansinį planą ar bet kurį kitą lygiavertį dokumentą ir nustatyti savo dukterinės įmonės bendras įsiskolinimų ribas, kurie skirstymo sistemos operatoriui yra privalomi ir kurių pagrindu jis veikia. Ši nuostata nesuteikia patronuojančiai įmonei teisės duoti nurodymus dėl kasdienės veiklos ar dėl atskirų su skirstymo sistemų statyba ar atnaujinimu susijusių sprendimų, kurie neviršija patvirtinto finansinio plano ar bet kurio kito lygiaverčio dokumento sąlygų;“.
 
-\#### 4 straipsnis. Įstatymo papildymas 431 straipsniu
+## 4 straipsnis. Įstatymo papildymas 431 straipsniu
 
 Papildyti Įstatymą 43^1 straipsniu:
 
@@ -64,7 +64,7 @@ Papildyti Įstatymą 43^1 straipsniu:
 
 4) laikymo sistemos operatorius, vadovaudamasis Komisijos patvirtintais standartiniais reikalavimais, turi parengti atitikties programą, kurioje nurodomos taikytinos priemonės siekiant išvengti diskriminacinio elgesio, ir užtikrinti tinkamą jos priežiūrą. Atitikties programoje nustatomos konkrečios darbuotojų pareigos šiems tikslams pasiekti. Už atitikties programos priežiūrą atsakingas asmuo ar organas reguliavimo institucijai pateikia metinę ataskaitą, kurioje nurodo taikytas priemones. Laikymo sistemos operatorius šią ataskaitą paskelbia savo interneto svetainėje.“
 
-\#### 5 straipsnis. 57 straipsnio pakeitimas
+## 5 straipsnis. 57 straipsnio pakeitimas
 
 Pakeisti 57 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 

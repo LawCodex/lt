@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/5482c0c0dd9a11ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5482C0C0DD9A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymo „Dėl Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ir dėl Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolo, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba, ratifikavimo“ Nr. IX-2007 1 straipsnio pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas

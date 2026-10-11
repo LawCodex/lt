@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.CDA091863E71"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.CDA091863E71.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 181, 187, 188, 218, 220 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [37-1341](https://www.e-tar.lt/portal/lt/legalAct/TAR.EC588C321777); 2004, Nr. [115-4276](https://www.e-tar.lt/portal/lt/legalAct/TAR.178605FBA01E); 2010, Nr. [113-5742](https://www.e-tar.lt/portal/lt/legalAct/TAR.72A530A7A725))
 
-\#### 1 straipsnis. 181 straipsnio papildymas 4 dalimi
+## 1 straipsnis. 181 straipsnio papildymas 4 dalimi
 
 Papildyti 181 straipsnį 4 dalimi:
 
 „4. Jeigu įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos teritorijoje, teisę susipažinti su ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas.“
 
-\#### 2 straipsnis. 187 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 187 straipsnio pakeitimas ir papildymas
 
 Pakeisti 187 straipsnio 1 dalį, straipsnį papildyti 3 dalimi ir visą straipsnį išdėstyti taip:
 
@@ -42,19 +42,19 @@ Pakeisti 187 straipsnio 1 dalį, straipsnį papildyti 3 dalimi ir visą straipsn
 
 3. Ikiteisminio tyrimo teisėjo nutartis pripažinti įtariamuoju užsienio valstybės pilietį dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, siunčiamas Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.“
 
-\#### 3 straipsnis. 188 straipsnio papildymas 6 dalimi
+## 3 straipsnis. 188 straipsnio papildymas 6 dalimi
 
 Papildyti 188 straipsnį 6 dalimi:
 
 „6. Įtariamasis – užsienio valstybės pilietis ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, metu gali būti neapklaustas tik tuo atveju, kai yra ne Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai.“
 
-\#### 4 straipsnis. 218 straipsnio papildymas 7 dalimi
+## 4 straipsnis. 218 straipsnio papildymas 7 dalimi
 
 Papildyti 218 straipsnį 7 dalimi:
 
 „7. Jeigu įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia pranešimą apie ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, pabaigą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.“
 
-\#### 5 straipsnis. 220 straipsnio papildymas 6 dalimi
+## 5 straipsnis. 220 straipsnio papildymas 6 dalimi
 
 Papildyti 220 straipsnį 6 dalimi:
 

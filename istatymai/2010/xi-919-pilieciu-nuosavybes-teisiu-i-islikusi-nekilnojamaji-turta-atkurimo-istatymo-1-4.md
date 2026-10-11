@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.83C46ACB5AA3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.83C46ACB5AA3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 1, 4, 12, 16, 17 ir 20 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1997, Nr. [65-1558](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4); 1999, Nr. [5-128](https://www.e-tar.lt/portal/lt/legalAct/TAR.F68A421A0284), Nr. [48-1522](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F8B117346DA); 2000, Nr. [64-1934](https://www.e-tar.lt/portal/lt/legalAct/TAR.01A09561A28B); 2001, Nr. [29-938](https://www.e-tar.lt/portal/lt/legalAct/TAR.EF16E6F4E20B), Nr. [71-2518](https://www.e-tar.lt/portal/lt/legalAct/TAR.88B95BAFAD55), Nr. [108-3904](https://www.e-tar.lt/portal/lt/legalAct/TAR.8937DA604013); 2002, Nr. [5-161](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF38D543B3BA), Nr. [40-1464](https://www.e-tar.lt/portal/lt/legalAct/TAR.EF2985211EF2), Nr. [41-1526](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A5C5BD12DF), Nr. [112-4965](https://www.e-tar.lt/portal/lt/legalAct/TAR.2117BD8F47B7); 2003, Nr. [101-4542](https://www.e-tar.lt/portal/lt/legalAct/TAR.64E7997DADB5); 2006, Nr. [125-4750](https://www.e-tar.lt/portal/lt/legalAct/TAR.F4A6802773D8); 2009, Nr. [61-2407](https://www.e-tar.lt/portal/lt/legalAct/TAR.6748AEE543A4), Nr. [153-6883](https://www.e-tar.lt/portal/lt/legalAct/TAR.B57FFE1E8C8A))
 
-\#### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 1 straipsnio 2 dalies pakeitimas
 
 Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 6) vienkiemis – atskira sodyba, esanti už miesto, miestelio ar kaimo teritorijos.“
 
-\#### 2 straipsnis. 4 straipsnio 4 ir 8 dalių pakeitimas
+## 2 straipsnis. 4 straipsnio 4 ir 8 dalių pakeitimas
 
 1. 4 straipsnio 4 dalies antrame sakinyje vietoj žodžių „apskrities viršininko“ įrašyti žodžius „Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo“ ir šią dalį išdėstyti taip:
 
@@ -52,17 +52,17 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „8. Prie vienkiemių ir 1940–1990 metų ginkluoto pasipriešinimo dalyvių-karių savanorių tėviškių sunaikintų sodybų, esančių gyventojų asmeniniam ūkiui, tarnybinių dalų ir valstiečių ūkiui skirtoje teritorijoje, šių vienkiemių ir sunaikintų sodybų savininkams pageidaujant, grąžinama natūra ne mažiau kaip 3 ha žemės ūkio naudmenų, o likusi žemės sklypo dalis yra valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį. Kai įstatymo nustatyta tvarka žemės sklypas, kurį savininkas nori atgauti natūra, išskyrus šioje dalyje pirmiau išvardytus atvejus, yra skirtas ir naudojamas gyventojų asmeniniam ūkiui arba valstiečių ūkiui, už jį savininkui, norinčiam, kad būtų atkurta nuosavybės teisė natūra, ar asmeniui, šiuo metu naudojančiam ar įgijusiam nuosavybėn iš valstybės šį žemės sklypą, skiriamas iki 30 procentų didesnio žemės sklypo plotas iš laisvos žemės fondo žemės, esančios teritorijoje, kurią apima vietinis žemės reformos žemėtvarkos projektas. Jeigu piliečiai, kuriems nuosavybės teisės atkuriamos į tose teritorijose esančią žemę, yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai ar Vyčio Kryžiaus ordinu apdovanoti asmenys, jų sutuoktiniai, tėvai (įtėviai), vaikai (įvaikiai), Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu jiems siūlomas žemės sklypo plotas iš apskrities teritorijoje esančio laisvos žemės fondo padidinamas iki 100 procentų. Jeigu apskrities teritorijoje laisvos žemės fonde nėra pakankamo žemės ploto, šių asmenų pageidavimu toks žemės sklypas suformuojamas kitos pageidaujamos apskrities teritorijoje. Šiems asmenims gali būti taikomos ir kitos įstatymų nustatytos lengvatos.“
 
-\#### 3 straipsnis. 12 straipsnio 1 dalies 10 punkto pripažinimas netekusiu galios
+## 3 straipsnis. 12 straipsnio 1 dalies 10 punkto pripažinimas netekusiu galios
 
 12 straipsnio 1 dalies 10 punktą pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 16 straipsnio 6 dalies pakeitimas
+## 4 straipsnis. 16 straipsnio 6 dalies pakeitimas
 
 Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip:
 
 „6. Miškas, kurio susigrąžinti natūra turėtoje vietoje piliečiai nepageidauja, jiems gali būti grąžinamas perduodant nuosavybėn lygiavertį miško plotą iš laisvo miško fondo tik už turėtą mišką ir žemę, apaugusią mišku, ir tik tose apskrityse, kuriose šie piliečiai gyvena.“
 
-\#### 5 straipsnis. 17 straipsnio pakeitimas
+## 5 straipsnis. 17 straipsnio pakeitimas
 
 17 straipsnio 1 dalyje vietoj žodžių „Vyriausybės įgaliota institucija“ įrašyti žodžius „Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos“, 2 dalyje vietoj žodžių „vykdomoji institucija“ įrašyti žodžius „administracijos direktorius“ ir visą straipsnį išdėstyti taip:
 
@@ -72,13 +72,13 @@ Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip:
 
 2. Piliečių prašymus atkurti nuosavybės teises į gyvenamuosius namus, jų dalis, butus, ūkinės komercinės paskirties pastatus Vyriausybės nustatyta tvarka nagrinėja savivaldybės administracijos direktorius ar kita Vyriausybės įgaliota institucija.“
 
-\#### 6 straipsnis. 20 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 20 straipsnio 1 dalies pakeitimas
 
 20 straipsnio 1 dalyje vietoj žodžių „vykdomoji institucija“ įrašyti žodžius „administracijos direktorius“ ir šią dalį išdėstyti taip:
 
 „1. Atkuriant nuosavybės teises į gyvenamąjį namą, jo dalį, butą, savivaldybės administracijos direktorius kartu su sprendimu grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą privalo juose gyvenantiems nuomininkams išduoti valstybės garantinį dokumentą dėl nuomininkui suteiktos valstybės garantijos. Kai tokį sprendimą priima kita Vyriausybės įgaliota institucija, savivaldybės administracijos direktorius valstybės garantinį dokumentą dėl nuomininkui suteiktos garantijos išduoda per 3 mėnesius nuo sprendimo priėmimo. Toks garantinis dokumentas išduodamas ir grąžinamo namo, jo dalies, buto savininkui.“
 
-\#### 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
 

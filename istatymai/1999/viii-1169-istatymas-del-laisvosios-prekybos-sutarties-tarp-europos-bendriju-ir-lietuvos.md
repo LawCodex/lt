@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AE5E6373113B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AE5E6373113B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomo protokolo, Europos bendrijai ir Lietuvos Respublikai pasikeitus laiškais, ratifikavimo
@@ -26,7 +26,7 @@ DĖL LAISVOSIOS PREKYBOS SUTARTIES TARP EUROPOS BENDRIJŲ IR LIETUVOS RESPUBLIKO
 
 Vilnius
 
-\#### 1 straipsnis. Protokolo ratifikavimas
+## 1 straipsnis. Protokolo ratifikavimas
 
 Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 22 d. dekretą Nr. 358, ratifikuoja Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomą protokolą, Europos Bendrijai ir Lietuvos Respublikai pasikeitus laiškais, pasirašytą 1998 m. gruodžio 8 d. Briuselyje.
 

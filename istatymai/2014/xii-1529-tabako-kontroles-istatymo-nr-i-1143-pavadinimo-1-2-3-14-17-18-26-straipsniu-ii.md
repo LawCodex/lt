@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/abfca110957511e4862ed7d5b632e0aa"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.ABFCA1109575.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymas

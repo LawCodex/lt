@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.481AC673A602"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.481AC673A602.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 9, 17, 18 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202), Nr. [123-5539](https://www.e-tar.lt/portal/lt/legalAct/TAR.876F872F5AAB); 2003, Nr. [42-1925](https://www.e-tar.lt/portal/lt/legalAct/TAR.02D60A14C87C), Nr. [75-3474](https://www.e-tar.lt/portal/lt/legalAct/TAR.BE308623E2E0), Nr. [102-4586](https://www.e-tar.lt/portal/lt/legalAct/TAR.B77576A7F7F3), Nr. [123-5585](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD4947834DF); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15), Nr. [73-2535](https://www.e-tar.lt/portal/lt/legalAct/TAR.9A41C818F5F4), Nr. [134-4837](https://www.e-tar.lt/portal/lt/legalAct/TAR.7EF06B095A43), Nr. [158-5757](https://www.e-tar.lt/portal/lt/legalAct/TAR.770DDEDE7A78), Nr. [167-6108](https://www.e-tar.lt/portal/lt/legalAct/TAR.50CB57548C2E); 2005, Nr. [76-2744](https://www.e-tar.lt/portal/lt/legalAct/TAR.176D8F1C555D), Nr. [81-2943](https://www.e-tar.lt/portal/lt/legalAct/TAR.908201CFCB80), Nr. [153-5634](https://www.e-tar.lt/portal/lt/legalAct/TAR.F3F7168AFD0D), 5636; 2006, Nr. 41-1462, Nr. 48-1702, Nr. 50-1801, Nr. 82-3249, 3263, Nr. 111-4197, Nr. 127-4821; 2008, Nr. 47-1750, Nr. 63-2381, Nr. 149-6028, 6029, 6033; 2009,Nr. 25-978)
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 34 dalimi:
 
@@ -32,7 +32,7 @@ Vilnius
 
 2. Buvusią 2 straipsnio 34 dalį laikyti 35 dalimi.
 
-\#### 2 straipsnis. 9 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 9 straipsnio 1 dalies pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 5) kito asmens lėšomis už gyventoją į biudžetą sumokėtas pajamų mokestis, socialinio draudimo įmokos ir privalomojo sveikatos draudimo įmokos.“
 
-\#### 3 straipsnis. 17 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 17 straipsnio 1 dalies pakeitimas
 
 1. Pakeisti 17 straipsnio 1 dalies 30 punktą ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Vilnius
 
 2. 17 straipsnio 1 dalies 44 punktą pripažinti netekusiu galios.
 
-\#### 4 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 4 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 18 straipsnį nauja 2 dalimi:
 
@@ -92,7 +92,7 @@ Vilnius
 
 „12. Apskaičiuojant apmokestinamąsias individualios veiklos pajamas, gyventojo pasirinkimu vietoj kitose šio straipsnio dalyse nurodytų patirtų išlaidų gyventojo, kuris verčiasi individualia veikla, leidžiamais atskaitymais gali būti pripažįstama suma, lygi 30 procentų gautų (uždirbtų) individualios veiklos pajamų. Ši nuostata netaikoma, kai individualios veiklos pajamas ar jų dalį gyventojas gauna iš su darbo santykiais ar jų esmę atitinkančiais santykiais susijusio asmens. Gyventojas, pasirinkęs apmokestinamąsias individualios veiklos pajamas apskaičiuoti šioje dalyje nustatyta tvarka, neprivalo turėti atskaitomą sumą pagrindžiančių dokumentų.“
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šio įstatymo 2 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d. ir taikoma apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas.
 

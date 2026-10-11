@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.DAA56DE2346F"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.DAA56DE2346F.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 4, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymo 2, 3, 5 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2009, Nr. [93-3981](https://www.e-tar.lt/portal/lt/legalAct/TAR.F1CAB7F1B9F0))
 
-\#### 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 2 dalies pakeitimas
 
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -32,7 +32,7 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme (toliau šioje dalyje – nuolatiniai Lietuvos gyventojai), kurienėra išvardyti šio straipsnio 1 dalies 1 punkte ir gauna pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme (toliau šioje dalyje – Lietuvos vienetas), privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu (šio įstatymo 3 straipsnio 2 punktas) ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas), išskyrus atvejus, kai tokios pajamos gaunamos verčiantis individualia veikla. Nuolatiniai Lietuvos gyventojai, gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, kaip šios sąvokos apibrėžtos Gyventojų pajamų mokesčio įstatyme, iš draudėjo – Lietuvos vieneto, su kuriuo jie nesusiję darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, privalomai draudžiami pensijų socialiniu draudimu pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3 straipsnio 2 punktas), ir sveikatos draudimu (šio įstatymo 3 straipsnio 5 punktas), išskyrus atvejus, kai tokios pajamos gaunamos verčiantis individualia veikla. Nuolatiniams Lietuvos gyventojams, kurie verčiasi atitinkama (kūrybine, atlikėjo ar sporto) individualia veikla, taikomos šio straipsnio 3 dalies nuostatos.“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 3 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Valstybinio socialinio draudimo įmokos skaičiuojamos nuo socialinio draudimo įmokų bazės, nustatytos proporcingai veiklos vykdymo laikotarpiui, kai individualios įmonės, ūkinės bendrijos ar savarankiškai dirbantys asmenys vykdė veiklą ne visus mokestinius metus.“
 
-\#### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
+## 3 straipsnis. 5 straipsnio 1 dalies pakeitimas
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 

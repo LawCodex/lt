@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/6e01b4a255c111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6E01B4A255C1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 3, 56, 57, 76, 80 straipsnių ir priedo pakeitimo įstatymas
@@ -26,7 +26,7 @@ MOKĖJIMŲ ĮSTATYMO NR. VIII-1370 2, 3, 56, 57, 76, 80 STRAIPSNIŲ IR PRIEDO PA
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 5 dalį.
 
@@ -44,13 +44,13 @@ Vilnius
 
 „65. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos vartojimo kredito įstatyme ir Reglamente [(ES) 260/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32260R2012&locale=lt).“
 
-\#### 2 straipsnis. 3 straipsnio pakeitimas
+## 2 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip:
 
 „10) paslaugoms, kurias teikia techninių paslaugų teikėjai, užtikrinantys mokėjimo paslaugų teikimą, bet niekada negaunantys pervedamų lėšų, įskaitant duomenų tvarkymą ir saugojimą, patikėjimo ir privatumo apsaugos paslaugas, duomenų ir subjekto autentiškumo patvirtinimą, informacinių ir ryšių technologijų ir elektroninių ryšių tinklo suteikimą, taip pat mokėjimo paslaugoms teikti naudojamų terminalų, prietaisų suteikimą ir techninę jų priežiūrą, išskyrus mokėjimo inicijavimo paslaugas ir sąskaitos informacijos paslaugas;“.
 
-\#### 3 straipsnis. 56 straipsnio pakeitimas
+## 3 straipsnis. 56 straipsnio pakeitimas
 
 1. Pakeisti 56 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti 3 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip:
 
 2. Pripažinti netekusia galios 56 straipsnio 3 dalį.
 
-\#### 4 straipsnis. 57 straipsnio pakeitimas
+## 4 straipsnis. 57 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 57 straipsnio 5 dalį.
 
@@ -66,19 +66,19 @@ Pakeisti 3 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip:
 
 „7. Šio straipsnio 1–4 dalys netaikomos šio įstatymo 6 straipsnio 1–3 punktuose nurodytiems subjektams.“
 
-\#### 5 straipsnis. 76 straipsnio pakeitimas
+## 5 straipsnis. 76 straipsnio pakeitimas
 
 Pakeisti 76 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento [(ES) Nr. 260/2012](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32012R0260&locale=lt), Reglamento [(ES) 2015/751](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32015R0751&locale=lt), Reglamento [(ES) 2021/1230](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32021R1230&locale=lt) ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas).“
 
-\#### 6 straipsnis. 80 straipsnio pakeitimas
+## 6 straipsnis. 80 straipsnio pakeitimas
 
 Papildyti 80 straipsnio 1 dalį 4^1punktu:
 
 „4^1) pažeidžiami Reglamente [(ES) 2022/2554](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2554&locale=lt) nustatyti reikalavimai;“.
 
-\#### 7 straipsnis. Įstatymo priedo pakeitimas
+## 7 straipsnis. Įstatymo priedo pakeitimas
 
 1. Papildyti Įstatymo priedą 51 punktu:
 

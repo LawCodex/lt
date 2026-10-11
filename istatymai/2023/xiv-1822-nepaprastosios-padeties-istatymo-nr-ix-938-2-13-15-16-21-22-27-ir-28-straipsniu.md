@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fe37c6d0cec911ed9978886e85107ab2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FE37C6D0CEC9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymo Nr. XIV-1272 4, 6 straipsnių pakeitimo ir 1, 5, 7 straipsnių pripažinimo netekusiais galios įstatymas
@@ -73,5 +73,3 @@ Pripažinti netekusiu galios 7 straipsnį.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_e0140c06e3314cf4b73835c69cae8017_end

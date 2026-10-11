@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/ee2e0122a26e11f0a34db2fbd35a03b2"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.EE2E0122A26E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ VIEŠOJO ADMINISTRAVIMO ĮSTATYMO NR. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -82,7 +82,7 @@ Vilnius
 
 „10. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
@@ -108,19 +108,19 @@ Vilnius
 
 „23. Šiame įstatyme vartojamos sąvokos „valstybės valdoma įmonė“ ir „savivaldybės valdoma įmonė“ suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos ir vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Koncesijų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Paslaugų įstatyme, Lietuvos Respublikos produktų saugos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme ir Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 „4) valstybės ar savivaldybių valdomoms įmonėms gali būti suteikiami įgaliojimai atlikti funkcijas šio įstatymo 6 straipsnio 2 ir 3 punktuose nustatytose viešojo administravimo srityse ir tik tais atvejais, kai pagrindžiama, kad nėra valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai gali būti suteikti, ir kai tokie įgaliojimai yra tiesiogiai susiję su tų valstybės ar savivaldybių valdomų įmonių veiklos tikslais, išskyrus atvejus, kai informacinių sistemų valdytojai ir (ar) tvarkytojai yra valstybės valdomos įmonės, – joms gali būti suteikiami įgaliojimai atlikti funkcijas šio įstatymo 6 straipsnio 1, 2 ir 3 punktuose nustatytose viešojo administravimo srityse;“.
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Viešojo administravimo subjektai gali oficialius elektroninius dokumentus vieni kitiems siųsti ir gauti kitais, negu nurodyta šio straipsnio 1 dalyje, būdais, jeigu tokią keitimosi oficialiais elektroniniais dokumentais tarp informacinių sistemų funkciją užtikrina jų sąveika arba viešojo administravimo subjektai naudojasi bendra dokumentų valdymo informacine sistema. Viešojo administravimo subjektai gali sudaryti galimybę asmenims rengti ir (ar) teikti elektroninius dokumentus per viešojo administravimo subjektų jau sukurtas ar kitas elektronines priemones, leidžiančias identifikuoti asmenį (šis reikalavimas netaikomas, kai identifikuoti asmenį nebūtina).“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 1. Papildyti 10 straipsnį nauja 6 dalimi:
 
@@ -128,7 +128,7 @@ Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 
 2. Buvusią 10 straipsnio 6 dalį laikyti 7 dalimi.
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
@@ -156,7 +156,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 4. Šio straipsnio 3 dalies 6 punkte nurodytu atveju viešojo administravimo subjektas ne vėliau kaip per 5 darbo dienas nuo prašymo ar skundo gavimo dienos persiunčia jį kompetentingam viešojo administravimo subjektui ir apie tai praneša asmeniui. Jeigu nėra kito viešojo administravimo subjekto, kuriam galėtų būti perduotas nagrinėti pagal kompetenciją prašymas ar skundas, viešojo administravimo subjektas ne vėliau kaip per 5 darbo dienas nuo prašymo ar skundo gavimo dienos apie tai praneša asmeniui, paaiškindamas jo prašymo ar skundo nenagrinėjimo priežastis.“
 
-\#### 7 straipsnis. 12 straipsnio pakeitimas
+## 7 straipsnis. 12 straipsnio pakeitimas
 
 1. Pakeisti 12 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -174,7 +174,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „3. Jeigu asmuo nepateikia visų įstatyme, norminiame administraciniame akte, kitame teisės akte ar (ir) viešojo administravimo subjekto nustatytų dokumentų ir (ar) informacijos arba asmens pateiktas prašymas ar skundas neatitinka šio įstatymo 11 straipsnio 1 dalyje nurodytose taisyklėse nustatytų reikalavimų, viešojo administravimo subjektas privalo vienu kartu informuoti asmenį apie visus šiuos trūkumus. Trūkstamiems dokumentams ir (ar) informacijai pateikti ir (ar) kitiems konkretiems trūkumams pašalinti viešojo administravimo subjektas turi nustatyti protingą, tačiau ne trumpesnį kaip 5 darbo dienų terminą, jeigu kitoks terminas nėra nustatytas įstatyme, norminiame administraciniame akte ar kitame teisės akte, reglamentuojančiame administracinio sprendimo priėmimą.“
 
-\#### 8 straipsnis. 19 straipsnio pakeitimas
+## 8 straipsnis. 19 straipsnio pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -192,19 +192,19 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 „2. Administracines paslaugas teikia tik viešojo administravimo subjektai. Viešojo administravimo subjektas turi sudaryti savo teikiamų administracinių paslaugų sąrašą ir, vadovaudamasis vidaus reikalų ministro nustatyta tvarka, parengti, patvirtinti ir centriniame elektroninių valdžios vartų portale paskelbti teikiamų administracinių paslaugų aprašymus. Administracinių paslaugų aprašymai turi būti skelbiami lietuvių ir papildomai anglų ir (ar) kita Europos Sąjungos valstybės narės kalba. Administracinių paslaugų aprašymai, atsižvelgiant į viešojo administravimo subjekto veiklos ir teisės aktų, reglamentuojančių šių paslaugų teikimą, pakeitimus, turi būti peržiūrimi ir prireikus atnaujinami ne vėliau kaip per 20 darbo dienų nuo tokių pasikeitimų įsigaliojimo dienos.“
 
-\#### 9 straipsnis. 23 straipsnio pakeitimas
+## 9 straipsnis. 23 straipsnio pakeitimas
 
 Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Administracinei procedūrai pradėti reikalingą informaciją, kurią turi viešojo administravimo subjektas arba kuri yra informacinėse sistemose, surenka pats skundą gavęs viešojo administravimo subjektas.“
 
-\#### 10 straipsnis. 24 straipsnio pakeitimas
+## 10 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 „1) pareigūnas, valstybės tarnautojas, kitas įstatymų nustatytą specialų statusą turintis fizinis asmuo ar darbuotojas yra asmens, dėl kurio galimai pažeistų teisių ar teisėtų interesų pradėta administracinė procedūra arba dėl kurio veiksmų galimai yra pažeistos šio asmens teisės, arba asmens, kuris su skundu kreipėsi dėl kito asmens galimo teisių ar teisėtų interesų pažeidimo, artimasis giminaitis, svainis ar sugyventinis, įstatymų nustatyta tvarka įregistravęs partnerystę;“.
 
-\#### 11 straipsnis. Įstatymo papildymas III1 skyriumi
+## 11 straipsnis. Įstatymo papildymas III1 skyriumi
 
 Papildyti Įstatymą III^1 skyriumi:
 
@@ -212,7 +212,7 @@ Papildyti Įstatymą III^1 skyriumi:
 
 LICENCIJAVIMAS
 
-\#### 281 straipsnis. Licencijų kategorijos
+## 281 straipsnis. Licencijų kategorijos
 
 Licencijos pagal suteikiamos teisės pobūdį skirstomos į keturias kategorijas:
 
@@ -228,7 +228,7 @@ b) pateikti ir (ar) tiekti rinkai tam tikrą produktą, kai tikrinama tik jo ati
 
 4) IV kategorijos licencijomis pareiškėjams suteikiama teisė atlikti tam tikrą vienkartinį, ribotos trukmės baigtinį veiksmą (toliau – veiksmas).
 
-\#### 282 straipsnis. Bendrosios licencijavimo nuostatos
+## 282 straipsnis. Bendrosios licencijavimo nuostatos
 
 1. Reikalavimas turėti licenciją, siekiant vykdyti tam tikrą ūkinę veiklą, veiklą nesiekiant pelno, dirbti pagal tam tikrą profesiją, pateikti ir (ar) tiekti rinkai tam tikrą produktą (toliau – vykdyti veiklą), atlikti tam tikrą veiksmą arba naudoti ar turėti tam tikrus objektus, licencijos išdavimo, atsisakymo išduoti licenciją ir licencijos galiojimo panaikinimo esminiai reikalavimai, taip pat esminiai reikalavimai, kurių turi laikytis licencijos turėtojai, nustatomi konkrečiame licencijavimą nustatančiame įstatyme. Licencijos galiojimo sustabdymo, galiojimo sustabdymo panaikinimo reikalavimai ir atvejai nustatomi konkrečiame licencijavimą nustatančiame įstatyme, kai, vykdant licencijuojamą veiklą, atliekant licencijuojamą veiksmą arba naudojant ar turint licencijuojamus objektus, galimi padaryti teisės aktų reikalavimų pažeidimai, dėl kurių kyla rizika pažeisti svarbius visuomenės interesus, gali būti ištaisyti ir trūkumai pašalinti, taip pat gali būti nustatomi ir kitais atvejais.
 
@@ -260,7 +260,7 @@ b) pateikti ir (ar) tiekti rinkai tam tikrą produktą, kai tikrinama tik jo ati
 
 15. Licencijavimą nustatantys teisės aktai rengiami vadovaujantis Vyriausybės nustatytomis taisyklėmis.
 
-\#### 283 straipsnis. Licencijavimo modeliai
+## 283 straipsnis. Licencijavimo modeliai
 
 1. Licencijų išdavimas vykdomas vienu iš licencijavimo modelių: „G“ („griežtas“), „D“ („deklaravimas“) arba „K“ („konkursas“).
 
@@ -292,7 +292,7 @@ b) pateikti ir (ar) tiekti rinkai tam tikrą produktą, kai tikrinama tik jo ati
 
 11. Taikant licencijavimo modelį „K“, pareiškėjai, atitinkantys licencijavimą nustatančiame įstatyme nustatytus licencijos įgijimo reikalavimus, atrenkami vadovaujantis nešališka ir skaidria atrankos procedūra, remiantis licencijavimą nustatančiame įstatyme nustatytais atrankos kriterijais per licencijavimą nustatančiame įstatyme nustatytą licencijos išdavimo terminą. Atrankos kriterijai nustatomi atsižvelgiant į svarbius visuomenės interesus, naudą valstybei ir visuomenei. Apie atrankos procedūros pradžią, eigą ir pabaigą turi būti viešai paskelbta atranką organizuojančio viešojo administravimo subjekto interneto svetainėje ir (ar) spaudoje ar kitose visuomenės informavimo priemonėse.
 
-\#### 284 straipsnis. Licencijų skaičius ir galiojimas
+## 284 straipsnis. Licencijų skaičius ir galiojimas
 
 1. Pareiškėjams išduodamų tam tikrų licencijų skaičius neribojamas, išskyrus atvejus, kai ribotą licencijų skaičių lemia gamtos, elektroninių ryšių išteklių, infrastruktūros ar techninių pajėgumų stoka arba tai yra pateisinama svarbiais visuomenės interesais.
 
@@ -326,7 +326,7 @@ b) pateikti ir (ar) tiekti rinkai tam tikrą produktą, kai tikrinama tik jo ati
 
 2) pareiškėjui, kurį su šios dalies 1 punkte nurodytu pareiškėju sieja glaudus ryšys, pasireiškiantis kontrole arba dalyvavimu, kaip tai apibrėžiama Lietuvos Respublikos draudimo įstatyme, ir šios dalies 1 punkte nurodyto pareiškėjo artimiesiems giminaičiams, svainiui, sutuoktiniui ar sugyventiniui, su kuriuo įstatymų nustatyta tvarka šios dalies 1 punkte nurodytas pareiškėjas yra įregistravęs partnerystę.
 
-\#### 285 straipsnis. Licencijų informacinė sistema
+## 285 straipsnis. Licencijų informacinė sistema
 
 1. Licencijas išduodantis viešojo administravimo subjektas turi užtikrinti, kad I, II ir III kategorijų licencijų duomenys apie licencijos turėtoją ir licencijos turėtojo įgytas teises, kaupiami pagal licencijavimą nustatančio įstatymo įgyvendinamąjį teisės aktą, taip pat licencijos išdavimo, pakeitimo, patikslinimo ar papildymo, licencijos galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir licencijos galiojimo panaikinimo duomenys būtų pateikti Licencijų informacinėje sistemoje šios sistemos nuostatuose nustatyta tvarka ne vėliau kaip licencijos išdavimo arba licencijos duomenų ar galiojimo pakeitimo dieną. Licencijų informacinėje sistemoje neteikiami licencijų duomenys, kurie ar kurių visuma sudaro įslaptintą informaciją. Jeigu licencijos išdavimui taikomas licencijavimo modelis „D“, licencijos duomenys Licencijų informacinėje sistemoje įrašomi ne vėliau kaip tą pačią dieną, kai pareiškėjas įgyja licencija suteikiamą teisę. Šio įstatymo 283 straipsnio 5 dalyje nustatytu atveju licencijos duomenys įrašomi paskutinę licencijavimą nustatančiame įstatyme nustatyto licencijos išdavimo termino dieną.
 
@@ -336,7 +336,7 @@ b) pateikti ir (ar) tiekti rinkai tam tikrą produktą, kai tikrinama tik jo ati
 
 4. Rengiant licencijavimą nustatantį įstatymą, turi būti įvertintas licencijos turėtojo asmens duomenų viešinimo būtinumas ir proporcingumas. Jeigu įvertinama, kad nebūtina ir neproporcinga viešinti licencijų turėtojų asmens duomenų, licencijavimą nustatančiame įstatyme nustatoma, kad licencijos turėtojų asmens duomenys Licencijų informacinėje sistemoje viešai neskelbiami.“
 
-\#### 12 straipsnis. IV skyriaus pavadinimo pakeitimas
+## 12 straipsnis. IV skyriaus pavadinimo pakeitimas
 
 Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
@@ -344,7 +344,7 @@ Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
 **ŪKIO SUBJEKTŲ VEIKLOS PRIEŽIŪRA**“.
 
-\#### 13 straipsnis. 29 straipsnio pakeitimas
+## 13 straipsnis. 29 straipsnio pakeitimas
 
 1. Pakeisti 29 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -354,11 +354,11 @@ Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 
 „4. Vyriausybė ar jos įgaliota institucija nustato licencijų išdavimo modelius ir jų taikymo pagrindus. Teisė pradėti ar vykdyti tam tikrą veiklą ūkio subjekto įgyjama vadovaujantis vienu iš licencijavimo modelių: „G“ („griežtuoju“) arba „D“ („deklaravimu“). Licencijų išdavimo modelis „G“ taikomas, kai prieš išduodant licenciją reikalingas ūkio subjekto patikrinimas. Licencijų išdavimo modelis „D“ taikomas, kai ūkio subjekto išankstinis patikrinimas nėra atliekamas ir ūkio subjektui pakanka pateikti deklaraciją.“
 
-\#### 14 straipsnis. 29 straipsnio pripažinimas netekusiu galios
+## 14 straipsnis. 29 straipsnio pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios 29 straipsnį.
 
-\#### 15 straipsnis. 30 straipsnio pakeitimas
+## 15 straipsnis. 30 straipsnio pakeitimas
 
 1. Pakeisti 30 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -368,7 +368,7 @@ Pripažinti netekusiu galios 29 straipsnį.
 
 „6) funkcijų atskyrimo. Šis principas reiškia, kad šio įstatymo 31 straipsnio 2 dalyje ir 3 dalies 4 punkte nurodytus veiksmus atlieka skirtingi ūkio subjektų veiklos priežiūrą atliekančio subjekto pareigūnai ar priežiūrą atliekančio subjekto struktūriniai padaliniai arba kad nurodytos funkcijos yra priskirtos skirtingiems viešojo administravimo subjektams. Šis principas netaikomas, jeigu kituose ūkio subjektų veiklos priežiūrą reglamentuojančiuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose patikrinimo ir poveikio priemonių taikymo funkcijos yra priskirtos vienam pareigūnui (struktūriniam padaliniui);“.
 
-\#### 16 straipsnis. 31 straipsnio pakeitimas
+## 16 straipsnis. 31 straipsnio pakeitimas
 
 1. Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -378,7 +378,7 @@ Pripažinti netekusiu galios 29 straipsnį.
 
 „1) konsultuoja ūkio subjektus savo kompetencijos klausimais ir imasi veiksmų užkirsti kelią žalai teisės normų saugomoms vertybėms atsirasti, kurie numatyti Vyriausybės patvirtintame institucijų atliekamų priežiūros funkcijų optimizavimo gairių apraše arba kituose ūkio subjektų veiklos priežiūrą reglamentuojančiuose teisės aktuose;“.
 
-\#### 17 straipsnis. 33 straipsnio pakeitimas
+## 17 straipsnis. 33 straipsnio pakeitimas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -438,7 +438,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 14. Informacija apie atliekamą ūkio subjekto veiklos patikrinimą su patikrinimu nesusijusiems asmenims negali būti teikiama tol, kol patikrinimas nėra baigtas, išskyrus atvejus, kai šią informaciją privaloma pateikti teisėtvarkos institucijai, viešojo administravimo subjektui, Europos Sąjungos ar Europos Sąjungos valstybės narės kompetentingoms institucijoms teisės aktuose nustatytoms funkcijoms atlikti.“
 
-\#### 18 straipsnis. Įstatymo papildymas 331 straipsniu
+## 18 straipsnis. Įstatymo papildymas 331 straipsniu
 
 Papildyti Įstatymą 33^1 straipsniu:
 
@@ -454,13 +454,13 @@ Papildyti Įstatymą 33^1 straipsniu:
 
 5. Ūkio subjektų veiklos priežiūrą atliekantis subjektas viešai skelbia tuos rizikos vertinimo kriterijus, kurių viešas paskelbimas nekliudo atlikti su ūkio subjektų veiklos priežiūra susijusių veiksmų, kad ūkio subjektas žinotų, kas lemia jo rizikingumo lygio nustatymą ir jo atžvilgiu vykdomos ūkio subjekto priežiūros intensyvumą.“
 
-\#### 19 straipsnis. 35 straipsnio pakeitimas
+## 19 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Ūkio subjektų veiklos priežiūrą atliekantys subjektai tarpusavyje keičiasi jiems suteiktiems įgaliojimams įgyvendinti būtinais dokumentais ir kita informacija.“
 
-\#### 20 straipsnis. 37 straipsnio pakeitimas
+## 20 straipsnis. 37 straipsnio pakeitimas
 
 1. Pakeisti 37 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -488,7 +488,7 @@ Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:
 
 5) ūkio subjektų veiklos priežiūrą atliekantis subjektas užtikrina, kad informacijos skelbimas nepažeis asmens duomenų apsaugos, valstybės, tarnybos, profesinės, komercinės, kitos įstatymų saugomą paslaptį sudarančios ar kitos įstatymų saugomos informacijos apsaugos reikalavimų ir (ar) negalės neigiamai paveikti atliekamo ikiteisminio tyrimo.“
 
-\#### 21 straipsnis. 40 straipsnio pakeitimas
+## 21 straipsnis. 40 straipsnio pakeitimas
 
 Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
@@ -498,7 +498,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 
 2. Licencijų išdavimo funkcijoms atlikti negali būti steigiamos naujos informacinės sistemos, jeigu Europos Sąjungos teisės aktuose ar jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose arba Lietuvos Respublikos tarptautinėse sutartyse nėra nustatyta kitaip.“
 
-\#### 22 straipsnis. Įstatymo papildymas priedu
+## 22 straipsnis. Įstatymo papildymas priedu
 
 Papildyti Įstatymą priedu:
 
@@ -514,7 +514,7 @@ priedas
 
 ––––––––––––––––––“.
 
-\#### 23 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 23 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus 1 straipsnio 1–4 ir 6, 7 dalis, 2 straipsnio 2–5 dalis, 3, 4, 6–14, 21, 22 straipsnius ir šio straipsnio 4–9 dalis, įsigalioja 2026 m. gegužės 1 d.
 
@@ -536,7 +536,7 @@ priedas
 
 10. Iki 2027 m. spalio 31 d. pradėtos licencijos išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar licencijos galiojimo panaikinimo procedūros baigiamos vadovaujantis iki 2027 m. spalio 31 d. galiojusiomis nuostatomis.
 
-\#### 24 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
+## 24 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
 
 1. Lietuvos Respublikos ekonomikos ir inovacijų ministerija atlieka šiame įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą (toliau šiame straipsnyje – ex post vertinimas).
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.F6255312E485"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F6255312E485.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 3 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 1994, Nr. [1-3](https://www.e-tar.lt/portal/lt/legalAct/TAR.6A88AC7D94E9); 1995, Nr. [20-451](https://www.e-tar.lt/portal/lt/legalAct/TAR.422C5DB9CD21), Nr. [39-963](https://www.e-tar.lt/portal/lt/legalAct/TAR.38ABD29EC854))
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti šio įstatymo 3 straipsnį ir jį išdėstyti taip:
 

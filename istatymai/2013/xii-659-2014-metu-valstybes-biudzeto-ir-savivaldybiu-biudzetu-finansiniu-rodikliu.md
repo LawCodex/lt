@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e217dc9089d911e397b5c02d3197f382"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E217DC9089D9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo ĮSTATYMAS
@@ -3430,7 +3430,7 @@ IŠ VISO:
 
 41 420
 
-\* Iš šių lėšų skiriama bendroms biudžeto reikmėms:
+* Iš šių lėšų skiriama bendroms biudžeto reikmėms:
 
 Lietuvos Respublikos susisiekimo ministerijos – 128 526
 
@@ -5664,7 +5664,7 @@ gruodžio 31 d.
 
 4 000
 
-\* Priemonių vykdytojų grąžintos
+* Priemonių vykdytojų grąžintos
 
 nepanaudotos arba netinkamai panaudotos praeitų metų Valstybės įmonės Ignalinos
 

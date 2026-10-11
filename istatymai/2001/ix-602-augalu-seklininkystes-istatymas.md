@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A09C2B9A60F3"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A09C2B9A60F3.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos augalų sėklininkystės įstatymas
@@ -318,5 +318,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1142, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13895
 
 Lietuvos Respublikos augalų sėklininkystės įstatymo Nr. IX-602 pakeitimo įstatymas
-
-part_8d55e27f0dbe4ebfb74eb74b33db6a7b_end

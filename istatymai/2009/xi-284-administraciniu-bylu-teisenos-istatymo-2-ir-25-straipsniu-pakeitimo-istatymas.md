@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.0C148091EB60"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0C148091EB60.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo 2 ir 25 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [13-308](https://www.e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848); 2000, Nr. [85-2566](https://www.e-tar.lt/portal/lt/legalAct/TAR.78FAC7B20AD8); 2001, Nr. [62-2219](https://www.e-tar.lt/portal/lt/legalAct/TAR.F750ED862D51); 2007, Nr. [72-2830](https://www.e-tar.lt/portal/lt/legalAct/TAR.9F44E333859B))
 
-\#### 1 straipsnis. 2 straipsnio 1, 4 ir 10 dalių pakeitimas
+## 1 straipsnis. 2 straipsnio 1, 4 ir 10 dalių pakeitimas
 
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „10. **Kiti viešojo administravimo subjektai –**fiziniai ar juridiniai asmenys (viešosios įstaigos, valstybės įmonės, nevyriausybinės organizacijos, asociacijos), Viešojo administravimo įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.“
 
-\#### 2 straipsnis. 25 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 25 straipsnio 1 dalies pakeitimas
 
 Pakeisti 25 straipsnio 1 dalį ir ją išdėstyti taip:
 

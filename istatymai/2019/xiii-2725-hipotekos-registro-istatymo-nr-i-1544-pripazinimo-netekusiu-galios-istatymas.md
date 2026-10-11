@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3cd84c102e2411eabe008ea93139d588"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3CD84C102E24.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos hipotekos registro įstatymo Nr. I-1544 pripažinimo netekusiu galios įstatymas
@@ -26,11 +26,11 @@ HIPOTEKOS REGISTRO ĮSTATYMO NR. I-1544 PRIPAŽINIMO NETEKUSIU GALIOS
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos hipotekos registro įstatymo Nr. I-1544 pripažinimas netekusiu galios
+## 1 straipsnis. Lietuvos Respublikos hipotekos registro įstatymo Nr. I-1544 pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios Lietuvos Respublikos hipotekos registro įstatymą Nr. I-1544 su visais pakeitimais ir papildymais.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šio įstatymo 1 straipsnis įsigalioja 2022 m. sausio 1 d.
 

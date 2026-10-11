@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5CC964AA82B7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5CC964AA82B7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės skolos įstatymo 2, 3, 7(1), 9, 10 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [86-2045](https://www.e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210); 1997, Nr. [60-1401](https://www.e-tar.lt/portal/lt/legalAct/TAR.45BC14BF2697))
 
-\#### 1 straipsnis. 2 straipsnio 2, 3, 10, 12 dalių papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio 2, 3, 10, 12 dalių papildymas ir pakeitimas
 
 1. 2 straipsnio 2, 3, 10 ir 12 dalyse po žodžių „garantijų institucijos“, „ši institucija“, „garantijų institucija“ atitinkamai įrašyti žodžius „arba draudimo įmonės“, „arba draudimo įmonė“, 12 dalyje po žodžių „kuris veikia“ įrašyti žodį „atitinkamai“, po žodžio „nuostatus“ įrašyti žodžius „arba įstatus, patvirtintus Lietuvos Respublikos draudimo įstatymo nustatyta tvarka“ ir šias dalis išdėstyti taip:
 
@@ -40,7 +40,7 @@ Vilnius
 
 „12. **Garantijų institucija arba draudimo įmonė, už kurios garantijų įvykdymą garantuoja valstybė –**Lietuvos Respublikos juridinis asmuo, kuris veikia atitinkamai pagal Lietuvos Respublikos Vyriausybės patvirtintus nuostatus arba įstatus, patvirtintus Lietuvos Respublikos draudimo įstatymo nustatyta tvarka, teikia garantijas bankams dėl ūkio subjektams teikiamų paskolų ir už kurio garantijų įvykdymą garantuoja valstybė.“
 
-\#### 2 straipsnis. 3 straipsnio 4, 13 ir 15 dalių pakeitimas ir papildymas
+## 2 straipsnis. 3 straipsnio 4, 13 ir 15 dalių pakeitimas ir papildymas
 
 1. Iš 3 straipsnio 4 dalies 4 punkto išbraukti žodžius „pramonės, smulkaus verslo ir ūkininkų rėmimo projektus“ ir šį punktą išdėstyti taip:
 
@@ -56,7 +56,7 @@ Vilnius
 
 „6) investuoti už gautą paskolą įsigytą turtą į kitus ūkio objektus.“
 
-\#### 3 straipsnis. 71 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 71 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 7^1straipsnį ir jį išdėstyti taip:
 
@@ -78,13 +78,13 @@ Pakeisti ir papildyti 7^1straipsnį ir jį išdėstyti taip:
 
 8. Jeigu garantijų institucijos arba draudimo įmonės nuostoliai pasiekia pusę Lietuvos Respublikos Vyriausybės skirtų paskoloms garantuoti lėšų iš tais metais valstybės biudžete tam tikrai programai numatytos asignavimų sumos, Vyriausybė turi sustabdyti naujų garantijų teikimą.“
 
-\#### 4 straipsnis. 9 straipsnio papildymas 13 dalimi
+## 4 straipsnis. 9 straipsnio papildymas 13 dalimi
 
 Papildyti 9 straipsnį 13 dalimi:
 
 „13. Skolininkai arba skolininkai, už kurių įsipareigojimų įvykdymą garantuoja valstybė, išskyrus komercinius bankus, nepateikę laiku arba visiškai nepateikę Finansų ministerijai reikalingų dokumentų (ataskaitos apie paskolų panaudojimą ir grąžinimą Finansų ministerijos nustatyta tvarka, taip pat ūkinės-finansinės veiklos ataskaitos arba kitų su ūkine veikla susijusių dokumentų), atsako Lietuvos Respublikos įstatymų nustatyta tvarka.“
 
-\#### 5 straipsnis. 10 straipsnio papildymas
+## 5 straipsnis. 10 straipsnio papildymas
 
 1. Papildyti 10 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 

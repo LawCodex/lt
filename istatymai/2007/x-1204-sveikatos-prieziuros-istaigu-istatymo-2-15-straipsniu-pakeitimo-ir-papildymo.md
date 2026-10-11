@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AE5AEA5D3319"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AE5AEA5D3319.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 2, 15 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [66-1572](https://www.e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6); 1998, Nr. [109-2995](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E6CC51EA4ED); 2000, Nr. [92-2875](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0E704D83761); 2007 Nr. 17-630)
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas nauja 5 dalimi
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas nauja 5 dalimi
 
 1. Papildyti 2 straipsnį nauja 5 dalimi:
 
@@ -36,7 +36,7 @@ Vilnius
 
 2. Buvusias 2 straipsnio 5, 6, 7, 8, 9 ir 10 dalis atitinkamai laikyti 6, 7, 8, 9, 10 ir 11 dalimis.
 
-\#### 2 straipsnis. 15 straipsnio pakeitimas
+## 2 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 7. Šio straipsnio 1–5 dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d.
 

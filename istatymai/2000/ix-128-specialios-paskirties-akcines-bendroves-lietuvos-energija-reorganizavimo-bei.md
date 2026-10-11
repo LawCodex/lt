@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B684C8B86B7B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B684C8B86B7B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymo 4(1) straipsnio pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1997, Nr. [33-814](https://www.e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB); 1998, Nr. [65-1874](https://www.e-tar.lt/portal/lt/legalAct/TAR.ACC33BECF472); 1999, Nr. [90-2642](https://www.e-tar.lt/portal/lt/legalAct/TAR.203B72D14CDE))
 
-\#### 1 straipsnis. 41 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 41 straipsnio 3 dalies pakeitimas
 
 4^1 straipsnio 3 dalyje vietoj žodžių „valdymo reformų ir savivaldybių reikalų“ įrašyti žodžius „vidaus reikalų“ ir šią dalį išdėstyti taip:
 
 „3. Nutarimas reorganizuoti bendrovę priimamas regioninės specialios paskirties šilumos tiekimo akcinės bendrovės akcininkų susirinkime paprasta balsų dauguma. Reorganizavimo projektą derina savivaldybių asociacija, o tvirtina vidaus reikalų bei ūkio ministrai. Įsipareigojimų ir bendro naudojimo turto paskirstymas, jo naudojimo tvarka nustatomi tarpusavio susitarimu.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

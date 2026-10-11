@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f45e81d2e56411f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F45E81D2E564.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 59, 60, 95 ir 99 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ ĮSTATYMO NR. XIII-2166 59, 60, 95 IR 9
 
 Vilnius
 
-\#### 1 straipsnis. 59 straipsnio pakeitimas
+## 1 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
@@ -42,7 +42,7 @@ Specialiosios žemės naudojimo sąlygos, nurodytos šio įstatymo 60 straipsnyj
 
 4) valstybės ar savivaldybių saugomų kultūros paveldo vietovių apsaugos zonose.“
 
-\#### 2 straipsnis. 60 straipsnio pakeitimas
+## 2 straipsnis. 60 straipsnio pakeitimas
 
 Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
@@ -102,19 +102,19 @@ b) įrengti komercines reklamas, lauko antenas ir kitus techninius įrenginius k
 
 7. Šiame straipsnyje nurodytos už kultūros paveldo apsaugą atsakingos institucijos pritarimo (derinimo) statinio projektui procedūros atliekamos per Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinę sistemą „Infostatyba“.“
 
-\#### 3 straipsnis. 95 straipsnio pakeitimas
+## 3 straipsnis. 95 straipsnio pakeitimas
 
 Pakeisti 95 straipsnio 1 punktą ir jį išdėstyti taip:
 
 „1) statyti statinius ir (ar) įrenginius, tiesti inžinerinius tinklus, išskyrus inžinerinius tinklus, įskaitant laikomus kilnojamaisiais daiktais, dviračių ir pėsčiųjų takus siaurose – iki 10 metrų pločio, įskaitant inžinerinių tinklų apsaugos zonų plotį, – žemės juostose ir miško infrastruktūrai priskiriamus statinius ir (ar) įrenginius;“.
 
-\#### 4 straipsnis. 99 straipsnio pakeitimas
+## 4 straipsnis. 99 straipsnio pakeitimas
 
 Pakeisti 99 straipsnio 11 punkto g papunktį ir jį išdėstyti taip:
 
 „g) vykdomi Žemės gelmių registre užregistruoti žemės gelmių tiesioginio tyrimo darbai, požeminio vandens arba sapropelio gavyba;“.
 
-\#### 5 straipsnis. Įstatymo įsigaliojimas
+## 5 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 2 straipsnyje išdėstyto Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 60 straipsnio 7 dalį ir 3 straipsnį, įsigalioja 2026 m. gegužės 1 d.
 

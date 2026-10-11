@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/32a5b942e58811f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.32A5B942E588.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, 27 straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas
@@ -26,7 +26,7 @@ BIUDŽETO SANDAROS ĮSTATYMO NR. I-430 2, 6, 15, 18, 19, 20, 21, 27 STRAIPSNIŲ,
 
 Vilnius
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 1. Pripažinti netekusia galios 2 straipsnio 5 dalį.
 
@@ -36,13 +36,13 @@ Vilnius
 
 „16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente [(ES) 2024/1263](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32024R1263&locale=lt) dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos reglamentas [(EB) Nr. 1466/97](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31997R1466&locale=lt), Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme, Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos fiskalinės valdysenos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės iždo įstatyme, Lietuvos Respublikos valstybės skolos įstatyme, Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas, šis įstatymas, Fiskalinės valdysenos įstatymas, Lietuvos Respublikos Seimo statutas, Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, Strateginio valdymo įstatymas, tam tikrų metų biudžeto patvirtinimo įstatymas, savivaldybių tarybų priimti sprendimai dėl tam tikrų biudžetinių metų savivaldybių biudžetų patvirtinimo, Vyriausybės tvirtinamos biudžetų sudarymo ir vykdymo taisyklės, ekonominė ir funkcinė klasifikacijos ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.“
 
-\#### 3 straipsnis. 15 straipsnio pakeitimas
+## 3 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -54,7 +54,7 @@ Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.“
 
-\#### 4 straipsnis. 18 straipsnio pakeitimas
+## 4 straipsnis. 18 straipsnio pakeitimas
 
 1. Pakeisti 18 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -68,7 +68,7 @@ Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „1) paskelbus valstybės lygio ekstremaliąją situaciją;“.
 
-\#### 5 straipsnis. 19 straipsnio pakeitimas
+## 5 straipsnis. 19 straipsnio pakeitimas
 
 1. Pripažinti netekusiu galios 19 straipsnio 2 dalies 1 punkto f papunktį.
 
@@ -80,7 +80,7 @@ a) valdžios sektoriaus balanso rodiklis (nurodomas procentais BVP);
 
 b) grynųjų išlaidų augimas (nurodomas procentais).“
 
-\#### 6 straipsnis. 20 straipsnio pakeitimas
+## 6 straipsnis. 20 straipsnio pakeitimas
 
 Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
@@ -134,17 +134,17 @@ p) tai, kaip atsižvelgiama į ilgalaikio viešųjų finansų tvarumo vertinimo 
 
 2. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia Seimui išvadas dėl valdžios sektoriaus balanso rodiklio poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui.“
 
-\#### 7 straipsnis. 21 straipsnio pakeitimas
+## 7 straipsnis. 21 straipsnio pakeitimas
 
 Pripažinti netekusia galios 21 straipsnio 2 dalį.
 
-\#### 8 straipsnis. 27 straipsnio pakeitimas
+## 8 straipsnis. 27 straipsnio pakeitimas
 
 Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Pažangos lėšos gali būti naudojamos tik pažangos priemonėms finansuoti, išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšas.“
 
-\#### 9 straipsnis. VII skyriaus pakeitimas
+## 9 straipsnis. VII skyriaus pakeitimas
 
 Pakeisti VII skyrių ir jį išdėstyti taip:
 
@@ -152,17 +152,17 @@ Pakeisti VII skyrių ir jį išdėstyti taip:
 
 BIUDŽETO VYKDYMO VERTINIMAS
 
-\#### 32 straipsnis. Biudžeto vykdymo vertinimas
+## 32 straipsnis. Biudžeto vykdymo vertinimas
 
 1. Asignavimų valdytojų, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, ir kitų subjektų programų vykdymą vertina vidaus audito tarnybos, vadovaudamosi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais.
 
 2. Vyriausybės nustatyta tvarka savivaldybės kiekvienam metų ketvirčiui pasibaigus teikia Finansų ministerijai biudžeto vykdymo prognozes likusiems metų ketvirčiams.“
 
-\#### 10 straipsnis. VIII skyriaus pripažinimas netekusiu galios
+## 10 straipsnis. VIII skyriaus pripažinimas netekusiu galios
 
 Pripažinti netekusiu galios VIII skyrių.
 
-\#### 11 straipsnis. Įstatymo priedo pakeitimas
+## 11 straipsnis. Įstatymo priedo pakeitimas
 
 Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 
@@ -178,7 +178,7 @@ priedas
 
 __________________“.
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 12 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. sausio 1 d.
 

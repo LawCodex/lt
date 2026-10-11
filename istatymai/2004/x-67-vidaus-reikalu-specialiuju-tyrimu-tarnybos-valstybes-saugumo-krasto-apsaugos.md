@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.864B8635B0B6"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.864B8635B0B6.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio pakeitimo įstatymas
@@ -30,17 +30,17 @@ Vilnius
 
 2000, Nr. 36-986, Nr. 41-1167, Nr. 64-1923, Nr. 92-2860; 2002, Nr. 38-1361)
 
-\#### 1 straipsnis. 16 straipsnio 7 dalies pakeitimas
+## 1 straipsnis. 16 straipsnio 7 dalies pakeitimas
 
 Pakeisti 16 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „Pensininkui, kuris nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą, prie pareigūnų ir karių valstybinės pensijos už tarnybą mokamas valstybinės socialinio draudimo bazinės pensijos dydžio priedas, iki jis įgis teisę gauti valstybinę socialinio draudimo pensiją. Kai pensininkas tampa nurodytu asmeniu, šis priedas nebemokamas, neatsižvelgiant į valstybinio socialinio draudimo įmokų mokėjimą nuo tos dienos, nuo kurios jis tapo vienu iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, arba ūkininku ar jo partneriu. Po 2006 m. sausio 1 d. šis priedas skiriamas ir mokamas tik pensininkams, išėjusiems į pensiją iki šios datos.“
 
-\#### 2 straipsnis. Pasiūlymas Vyriausybei
+## 2 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė iki 2005 m. liepos 1 d. parengia ir patvirtina, o iki 2006 m. sausio 1 d. įgyvendina pareigūnų ir karių, išleidžiamų į pensiją, socialinio prisitaikymo, medicininės reabilitacijos bei profesinio orientavimo į kitas veiklos sritis sistemos sukūrimo programą.
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 

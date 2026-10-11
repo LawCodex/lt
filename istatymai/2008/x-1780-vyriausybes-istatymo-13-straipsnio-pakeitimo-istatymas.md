@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.5BA256D33F87"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.5BA256D33F87.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 13 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(1)-1131; 2000, Nr. 92-2843; 2001, Nr. 66-2407; 2007, Nr. 72-2831)
 
-\#### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 13 straipsnio 1 dalies pakeitimas
 
 13 straipsnio 1 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.AC77230E3877"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.AC77230E3877.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 3, 6, 8, 9, 10, 11, 12, 14, 17, 19, 20, 21 straipsnių pakeitimo ir papildymo bei 13 straipsnio pripažinimo netekusiu galios įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1992, Nr. [14-378](https://www.e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14); 1994, Nr. [1-3](https://www.e-tar.lt/portal/lt/legalAct/TAR.6A88AC7D94E9); 1995, Nr. [20-451](https://www.e-tar.lt/portal/lt/legalAct/TAR.422C5DB9CD21), Nr. [39-963](https://www.e-tar.lt/portal/lt/legalAct/TAR.38ABD29EC854); 1997, Nr. [38-926](https://www.e-tar.lt/portal/lt/legalAct/TAR.F6255312E485))
 
-\#### 1 straipsnis. 3 straipsnio 5 dalies pakeitimas
+## 1 straipsnis. 3 straipsnio 5 dalies pakeitimas
 
 3 straipsnio 5 dalyje vietoj žodžių „Valstybinės teritorijų planavimo ir statybos inspekcijos prie Statybos ir urbanistikos ministerijos miesto, rajono“ rašyti žodžius „apskrities viršininko administracijos Valstybinės teritorijų planavimo ir statybos inspekcijos“ ir šią dalį išdėstyti taip:
 
 „Leidimą vykdyti pertvarkymo (statybos) darbus išduoda apskrities viršininko administracijos Valstybinės teritorijų planavimo ir statybos inspekcijos tarnyba.“
 
-\#### 2 straipsnis. 6 straipsnio papildymas 4 dalimi
+## 2 straipsnis. 6 straipsnio papildymas 4 dalimi
 
 6 straipsnį papildyti 4 dalimi:
 
 „Šiame straipsnyje išvardytos savivaldybių gyvenamosios patalpos (butų fondai), pastatytos ar kitaip įsigytos iš valstybės lėšų ir valstybės biudžeto specialiųjų dotacijų savivaldybėms, neprivatizuojamos, išskyrus atvejus, kuriuos numato kiti Lietuvos Respublikos įstatymai.“
 
-\#### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 8 straipsnio pakeitimas ir papildymas
 
 8 straipsnį papildyti nauja 2 ir 4 bei 5 dalimis, buvusią 2 dalį laikyti 3 dalimi, ją pakeisti ir šį straipsnį išdėstyti taip:
 
@@ -66,7 +66,7 @@ Visais atvejais kredito lengvatinėmis sąlygomis dydis turi atitikti kredituoja
 
 Nuomojant gyvenamąsias patalpas iš savivaldybės butų fondo, jų bendras naudingas plotas neturi viršyti 18 kvadratinių metrų kiekvienam šeimos nariui, išskyrus šio įstatymo 12 straipsnyje nustatytus atvejus.“
 
-\#### 4 straipsnis. 9 straipsnio pakeitimas
+## 4 straipsnis. 9 straipsnio pakeitimas
 
 9 straipsnio 1 dalies 1 ir 5 punktuose vietoj skaičiaus „10“ įrašyti skaičių „8“, 2 dalyje vietoj žodžių „po šio įstatymo įsigaliojimo“ įrašyti žodžius „neturėję teisės į valstybės paramą“, vietoj žodžio „buto“ – žodį „būsto“, vietoj žodžių „tokią teisę“ – žodžius „teisę būti įrašyti į eilę valstybės paramai gauti“, vietoj žodžių „gyvenamosios patalpos“ – žodį „būsto“ ir šį straipsnį išdėstyti taip:
 
@@ -86,7 +86,7 @@ Teisę į valstybės paramą apsirūpinti gyvenamosiomis patalpomis piliečiai t
 
 „Piliečiai, neturėję teisės į valstybės paramą, pabloginę savo būsto sąlygas perleisdami, pakeisdami turimas gyvenamąsias patalpas ar persikeldami iš gyvenamųjų patalpų į kitas, kuriose gyvenant gali būti įgyta teisė į valstybės paramą***,*** teisę būti įrašyti į eilę valstybės paramai gauti įgyja praėjus 5 metams nuo būsto sąlygų pabloginimo.“
 
-\#### 5 straipsnis. 10 straipsnio pakeitimas
+## 5 straipsnis. 10 straipsnio pakeitimas
 
 10 straipsnyje vietoj žodžių „gali pasirinkti vieną“ įrašyti žodžius „gali nustatyta tvarka pasirinkti ir pasinaudoti viena“, 3 punktą pripažinti netekusiu galios ir šį straipsnį išdėstyti taip:
 
@@ -98,7 +98,7 @@ Piliečiai, turintys teisę į valstybės paramą apsirūpinti gyvenamosiomis pa
 
 2) išsinuomoti savivaldybės gyvenamąsias patalpas, taikant savivaldybių reguliuojamus nuomos mokesčio tarifus.“
 
-\#### 6 straipsnis. 11 straipsnio pakeitimas
+## 6 straipsnis. 11 straipsnio pakeitimas
 
 11 straipsnį pakeisti ir išdėstyti taip:
 
@@ -116,7 +116,7 @@ Jaunoms šeimoms, šio įstatymo 17 straipsnyje nustatyta tvarka įrašytoms į 
 
 Kreditų suteikimo tvarką ir sąlygas, palūkanų ir subsidijų dydžius bei minimalų pirminio įnašo dydį nustato Lietuvos Respublikos Vyriausybė.“
 
-\#### 7 straipsnis. 12 straipsnio pakeitimas
+## 7 straipsnis. 12 straipsnio pakeitimas
 
 12 straipsnį pakeisti ir išdėstyti taip:
 
@@ -130,17 +130,17 @@ Išnuomojant vieno kambario butą, šio įstatymo 8 straipsnio šeštojoje dalyj
 
 Visais atvejais kiekvienam šeimos nariui turi tekti ne mažiau kaip 10 kvadratinių metrų bendro naudingo ploto.“
 
-\#### 8 straipsnis. 13 straipsnio pripažinimas netekusiu galios
+## 8 straipsnis. 13 straipsnio pripažinimas netekusiu galios
 
 13 straipsnį pripažinti netekusiu galios.
 
-\#### 9 straipsnis. 14 straipsnio 1 dalies pakeitimas
+## 9 straipsnis. 14 straipsnio 1 dalies pakeitimas
 
 14 straipsnio 1 dalyje vietoj skaičiaus „19“ įrašyti skaičių „17“ ir šią dalį išdėstyti taip:
 
 „Lietuvos Respublikos Vyriausybė rengia ir tvirtina valstybės paramos, teikiamos piliečiams apsirūpinti gyvenamosiomis patalpomis, programas. Valstybės paramai suteikti piliečiams, įrašytiems į šio įstatymo 17 straipsnyje nustatytas eiles, sudaromos atskiros programos.“
 
-\#### 10 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 10 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 17 straipsnį pakeisti bei papildyti ir išdėstyti taip:
 
@@ -160,19 +160,19 @@ Piliečių eiles valstybės paramai gauti sudaro ir tvirtina savivaldybės meras
 
 Piliečių eilės valstybės paramai gauti yra viešos. Savivaldybės sudaro galimybę suinteresuotiems asmenims su jomis susipažinti.“
 
-\#### 11 straipsnis. 19 straipsnio 1 dalies pakeitimas
+## 11 straipsnis. 19 straipsnio 1 dalies pakeitimas
 
 19 straipsnio 1 dalyje vietoj skaičiaus „19“ įrašyti skaičių „17“ ir šią dalį išdėstyti taip:
 
 „Kasmet nuo sausio 1 dienos iki vasario 15 dienos savivaldybėse priimami piliečių anksčiau pateiktų prašymų valstybės paramai gauti bei anketų duomenų patikslinimai. Savivaldybių valdymo organai nuo vasario 15 dienos iki kovo 15 dienos pagal šio įstatymo 17 bei 20 straipsnių reikalavimus iš naujo nustato kiekvieno pareiškėjo vietą eilėje.“
 
-\#### 12 straipsnis. 20 straipsnio 1 dalies pakeitimas
+## 12 straipsnis. 20 straipsnio 1 dalies pakeitimas
 
 20 straipsnio 1 dalį pakeisti ir išdėstyti taip:
 
 „Savivaldybės, peržiūrėdamos piliečių eiles valstybės paramai gauti ir nepažeisdamos eiliškumo, privalo sudaryti asmenų, kuriems valstybės paramą numatoma suteikti per artimiausius dvejus ūkinius metus, sąrašus. Piliečiams, kuriuos numatoma įrašyti į šiuos sąrašus, išsiunčiami registruoti pranešimai atvykti patikslinti duomenų. Pranešimai turi būti išsiųsti ne vėliau kaip prieš 2 mėnesius iki pranešime nurodytos atvykimo datos. Nurodytu laiku be pateisinamos priežasties neatvykę piliečiai į dvejų ūkinių metų sąrašus neįrašomi. Asmenų, įrašytų į šiuos sąrašus, eilės tvarka nekeičiama. Iš sąrašų išbraukiama šio įstatymo 18 straipsnyje nustatytais atvejais.“
 
-\#### 13 straipsnis. 21 straipsnio pakeitimas
+## 13 straipsnis. 21 straipsnio pakeitimas
 
 21 straipsnio pirmajame sakinyje vietoj skaičiaus „22“ įrašyti skaičių „20“, 3 punktą pripažinti netekusiu galios ir šį straipsnį išdėstyti taip:
 
@@ -184,7 +184,7 @@ Dėl valstybės paramos suteikimo šio įstatymo 20 straipsnyje nurodytiems pili
 
 2) kai išnuomojamos savivaldybių gyvenamosios patalpos – kam suteikiamos gyvenamosios patalpos, jų adresas, dydis, kambarių bei piliečio šeimos narių skaičius. Prieš tokio sprendimo priėmimą nuomininkas ir jo šeimos nariai turi pateikti raštiškus įsipareigojimus apsigyventi suteikiamoje patalpoje ir atituštinti anksčiau turėtas gyvenamąsias patalpas savivaldybių gyvenamuosiuose namuose.“
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas
+## 14 straipsnis. Įstatymo įsigaliojimas
 
 1. Piliečių eilės valstybės paramai gauti, įsigaliojus šiam įstatymui, pertvarkomos Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 19 straipsnyje nustatyta tvarka.
 

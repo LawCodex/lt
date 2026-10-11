@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8DDF2DDB0575"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8DDF2DDB0575.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo 6 ir 7 straipsnių pakeitimo įstatymas
@@ -28,19 +28,19 @@ Vilnius
 
 (Žin., 1997, Nr. [60-1398](https://www.e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB))
 
-\#### 1 straipsnis. 6 straipsnio 6 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 6 dalies pakeitimas
 
 6 straipsnio 6 dalį pakeisti ir išdėstyti taip:
 
 „6. Prie Centro veikia Lietuvos gyventojų genocido ir rezistencijos tyrimo, aukų rėmimo ir įamžinimo fondas, šį steigia ir nuostatus tvirtina Vyriausybė.“
 
-\#### 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 1 dalies pakeitimas
 
 7 straipsnio 1 dalį pakeisti ir išdėstyti taip:
 
 „1. Centras finansuojamas iš valstybės biudžeto.“
 
-\#### 3 straipsnis. Netekęs galios teisės aktas
+## 3 straipsnis. Netekęs galios teisės aktas
 
 Pripažinti netekusiu galios Seimo nutarimą „Dėl Genocido ir rezistencijos aukų rėmimo fondo“ (Žin., 1994, Nr. [59-1172](https://www.e-tar.lt/portal/lt/legalAct/TAR.F20810ABC2D9)).
 

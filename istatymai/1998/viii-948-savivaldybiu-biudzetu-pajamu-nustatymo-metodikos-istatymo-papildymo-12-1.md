@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.26D68919B87C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.26D68919B87C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo papildymo 12(1) straipsniu ir 9, 13, 16 straipsnių papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 1997, Nr. [69-1743](https://www.e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005))
 
-\#### 1 straipsnis. 9 straipsnio 3 punkto papildymas
+## 1 straipsnis. 9 straipsnio 3 punkto papildymas
 
 9 straipsnio 3 punkte po žodžių „Savivaldybių biudžetams“ įrašyti žodžius „gali būti“ir šį punktą išdėstyti taip:
 
 „3) C – planuojamų biudžetinių metų specialios tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams gali būtiskiriamos šios specialios tikslinės dotacijos:“.
 
-\#### 2 straipsnis. Įstatymo papildymas 121 straipsniu
+## 2 straipsnis. Įstatymo papildymas 121 straipsniu
 
 Papildyti Įstatymą 12^1straipsniu:
 
@@ -42,7 +42,7 @@ Papildyti Įstatymą 12^1straipsniu:
 
 Jei pagal šio įstatymo 9 straipsnį apskaičiuojama valstybės biudžeto bendroji dotacija savivaldybių mokestinėms pajamoms išlyginti nesusidaro arba jos dalies nepakanka mokestinėms pajamoms išlyginti pagal šio įstatymo 12 straipsnį, o kai kurioms savivaldybėms apskaičiuotas prognozuojamas planuojamų biudžetinių metų pajamų be specialių tikslinių dotacijų kapitalo investicijoms dydis yra mažesnis už apskaičiuotą iki planuojamų biudžetinių metų tokių pajamų dydį, šioms pajamoms išlyginti sudaromos lėšos iš fizinių asmenų pajamų mokesčio atskaitymų.“
 
-\#### 3 straipsnis. 13 straipsnio papildymas
+## 3 straipsnis. 13 straipsnio papildymas
 
 1. Papildyti 13 straipsnį nauja 2 dalimi:
 
@@ -50,7 +50,7 @@ Jei pagal šio įstatymo 9 straipsnį apskaičiuojama valstybės biudžeto bendr
 
 2. Buvusią 13 straipsnio 2 dalį laikyti 3 dalimi.
 
-\#### 4 straipsnis. 16 straipsnio papildymas
+## 4 straipsnis. 16 straipsnio papildymas
 
 1. Papildyti 16 straipsnio 1 dalį 5 ir 6 punktais:
 

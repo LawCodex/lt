@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8937DA604013"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.8937DA604013.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 12, 13, 16 straipsnių pakeitimo ir papildymo įstatymas
@@ -30,19 +30,19 @@ Vilnius
 
 Nr. 35-1163, Nr. 71-2518)
 
-\#### 1 straipsnis. 12 straipsnio papildymas 12 punktu
+## 1 straipsnis. 12 straipsnio papildymas 12 punktu
 
 Papildyti 12 straipsnį 12 punktu:
 
 "12) yra valstybinių parkų ir valstybinių draustinių teritorijose, ypač vertingose ekologiniu, archeologiniu ir rekreaciniu požiūriais. Šių teritorijų ribas nustato Aplinkos ministerija, suderinusi su savivaldybės meru ir apskrities viršininku."
 
-\#### 2 straipsnis. 13 straipsnio 3 punkto papildymas
+## 2 straipsnis. 13 straipsnio 3 punkto papildymas
 
 Papildyti 13 straipsnio 3 punktą ir jį išdėstyti taip:
 
 "3) priskirti miestų miškams, miestų sanitarinės apsaugos pirmajai zonai, miško parkams. Išvardytų miškų sąrašus su juose nurodytais miškų plotais tvirtina Vyriausybė;".
 
-\#### 3 straipsnis. 16 straipsnio 7 dalies pakeitimas
+## 3 straipsnis. 16 straipsnio 7 dalies pakeitimas
 
 Pakeisti 16 straipsnio 7 dalį ir ją išdėstyti taip:
 

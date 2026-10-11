@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.3DD7309EA3C7"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3DD7309EA3C7.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos akcizų įstatymo 6 straipsnio papildymo įstatymo pripažinimo netekusiu galios ir akcizų įstatymo papildymo 6(1) straipsniu įstatymas
@@ -26,25 +26,21 @@ AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS
 
 Vilnius
 
-\### PIRMASIS SKIRSNIS
-
-AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
+## PIRMASIS SKIRSNIS. AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
 
 ĮSTATYMO PRIPAŽINIMAS NETEKUSIU GALIOS
 
 (Žin., 2001, Nr. [16-494](https://www.e-tar.lt/portal/lt/legalAct/TAR.7D28199005CE))
 
-\#### 1 straipsnis. Lietuvos Respublikos akcizų įstatymo 6 straipsnio papildymo įstatymo pripažinimas netekusiu galios
+### 1 straipsnis. Lietuvos Respublikos akcizų įstatymo 6 straipsnio papildymo įstatymo pripažinimas netekusiu galios
 
 Akcizų įstatymo 6 straipsnio papildymo įstatymą pripažinti netekusiu galios.
 
-\### ANTRASIS SKIRSNIS
-
-AKCIZŲ ĮSTATYMO PAPILDYMAS 61 STRAIPSNIU
+## ANTRASIS SKIRSNIS. AKCIZŲ ĮSTATYMO PAPILDYMAS 61 STRAIPSNIU
 
 (Žin., 1994, Nr. [30-530](https://www.e-tar.lt/portal/lt/legalAct/TAR.6B508102E146))
 
-\#### 1 straipsnis. Įstatymo papildymas 61 straipsniu
+### 1 straipsnis. Įstatymo papildymas 61 straipsniu
 
 Papildyti Įstatymą 6^1straipsniu:
 
@@ -58,7 +54,7 @@ Papildyti Įstatymą 6^1straipsniu:
 
 2. Akcizo grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
-\#### 2 straipsnis. Baigiamosios nuostatos
+### 2 straipsnis. Baigiamosios nuostatos
 
 1. Šio Įstatymo antrasis skirsnis įsigalioja nuo 2002 m. sausio 1 d.
 

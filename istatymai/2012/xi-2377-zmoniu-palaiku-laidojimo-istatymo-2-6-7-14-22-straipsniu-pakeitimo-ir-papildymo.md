@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A535FAE5F6ED"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A535FAE5F6ED.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymo 2, 6, 7, 14, 22 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2007, Nr. [140-5763](https://www.e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE); 2010, Nr. [123-6259](https://www.e-tar.lt/portal/lt/legalAct/TAR.80352CADA9F2))
 
-\#### 1 straipsnis. 2 straipsnio 16 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 16 dalies pakeitimas
 
 Pakeisti 2 straipsnio 16 dalį ir ją išdėstyti taip:
 
 „16. **Laidojimo paslaugos**– su žmogaus palaikų laidojimu susijusios paslaugos, apimančios žmogaus palaikų pirminį vežimą, žmogaus palaikų laikymą, žmogaus palaikų paruošimą šarvoti, šarvojimą, žmogaus palaikų vežimą laidoti arba kremuoti, laidojimą, kremavimo dokumentų parengimą.“
 
-\#### 2 straipsnis. 6 straipsnio pakeitimas
+## 2 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 5) prokuroro rašytinį leidimą, jeigu prašoma kremuoti ekshumuotus žmogaus palaikus.“
 
-\#### 3 straipsnis. 7 straipsnio papildymas 3 dalimi
+## 3 straipsnis. 7 straipsnio papildymas 3 dalimi
 
 Papildyti 7 straipsnį 3 dalimi:
 
 „3. Laidojimo paslaugų teikėjas privalo informuoti kremavimo įmonę apie kilusį nesutarimą tarp mirusiojo artimųjų giminaičių.“
 
-\#### 4 straipsnis. 14 straipsnio pakeitimas
+## 4 straipsnis. 14 straipsnio pakeitimas
 
 Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
@@ -72,13 +72,13 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 
 3. Duomenys apie mirusius asmenis, kai žinoma ar įtariama, kad asmens mirties priežastis yra nusikalstama veika, ir dėl to vyksta ikiteisminis tyrimas, automatiniu būdu Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikiami kremavimo įmonėms.“
 
-\#### 5 straipsnis. 22 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 22 straipsnio 1 dalies pakeitimas
 
 Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Teikiant laidojimo paslaugas, žmogaus palaikai gabenami Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis ir laikantis Vyriausybės įgaliotos institucijos patvirtintųžmonių palaikų gabenimo reikalavimų. Žmogaus palaikų gabenimo patologinės anatomijos tyrimams ar teismo medicinos ekspertizėms ir tyrimams tvarką nustato Vyriausybės įgaliotos institucijos.“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
 

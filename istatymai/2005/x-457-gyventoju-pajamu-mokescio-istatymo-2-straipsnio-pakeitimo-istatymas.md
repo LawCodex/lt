@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D90A39746E0D"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D90A39746E0D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202); 2004, Nr. [25-749](https://www.e-tar.lt/portal/lt/legalAct/TAR.F78895983AA6), Nr. [60-2118](https://www.e-tar.lt/portal/lt/legalAct/TAR.8A5FC9B93F15), Nr. [134-4837](https://www.e-tar.lt/portal/lt/legalAct/TAR.7EF06B095A43); 2005, Nr. [81-2943](https://www.e-tar.lt/portal/lt/legalAct/TAR.908201CFCB80))
 
-\#### 1 straipsnis. 2 straipsnio 14 dalies 7 ir 8 punktų pakeitimas
+## 1 straipsnis. 2 straipsnio 14 dalies 7 ir 8 punktų pakeitimas
 
 1. Pakeisti 2 straipsnio 14 dalies 7 punktą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Vilnius
 
 „8) tarp Pelno mokesčio įstatymo 41 straipsnio 1 dalies 1 punkte nustatytų vienetų Pelno mokesčio įstatymo 41 straipsnio 2 dalyje nustatytais reorganizavimo ar perleidimo atvejais vykdomų operacijų metu susidariusį turto vertės skirtumą, kai gaunamos akcijos (dalys, pajai) vieneto dalyvių turimas šio vieneto akcijas (dalis, pajus) mainais keičiant į kito vieneto akcijas (dalis, pajus), išskyrus akcijų kainų skirtumo apmokėjimą pinigais;“.
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas
+## 2 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.
 

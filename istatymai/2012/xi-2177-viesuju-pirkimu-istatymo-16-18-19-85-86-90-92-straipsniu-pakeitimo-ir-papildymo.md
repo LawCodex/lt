@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.D81B0E6BA9C4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.D81B0E6BA9C4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymo 16, 18, 19, 85, 86, 90, 92 straipsnių pakeitimo ir papildymo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1996, Nr. [84-2000](https://www.e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622); 2006, Nr. [4-102](https://www.e-tar.lt/portal/lt/legalAct/TAR.C0DE35FFA738); 2008, Nr. [81-3179](https://www.e-tar.lt/portal/lt/legalAct/TAR.81433CB2B6DF); 2009, Nr. [93-3986](https://www.e-tar.lt/portal/lt/legalAct/TAR.BDE2B4AF963D); 2010, Nr. [25-1174](https://www.e-tar.lt/portal/lt/legalAct/TAR.A91EE63FD1A6), Nr. [158-8018](https://www.e-tar.lt/portal/lt/legalAct/TAR.0268FDA15A24); 2011, Nr. [2-36](https://www.e-tar.lt/portal/lt/legalAct/TAR.E02E9F9B4BC7), Nr. [85-4137](https://www.e-tar.lt/portal/lt/legalAct/TAR.B39D88068B20))
 
-\#### 1 straipsnis. 16 straipsnio 1 dalies pakeitimas
+## 1 straipsnis. 16 straipsnio 1 dalies pakeitimas
 
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Perkančioji organizacija pirkimui (pirkimams) organizuoti ir atlikti privalo (supaprastintiemspirkimams*–*gali) sudaryti Viešojo pirkimo komisiją (toliau – Komisija), nustatyti jai užduotis ir suteikti visus įgaliojimus toms užduotims vykdyti. Jeigu perkančioji organizacija pirkimams organizuoti ir jiems atlikti įgalioja kitą perkančiąją organizaciją, šiuos veiksmus atlieka įgaliotoji organizacija. Komisija dirba pagal ją sudariusios organizacijos patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik raštiškas jos užduotis ir įpareigojimus. Už Komisijos veiksmus atsako ją sudariusi organizacija.“
 
-\#### 2 straipsnis. 18 straipsnio 8 dalies ir 9 dalies 3 punkto pakeitimas
+## 2 straipsnis. 18 straipsnio 8 dalies ir 9 dalies 3 punkto pakeitimas
 
 1. Pakeisti 18 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -40,7 +40,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „3) supaprastintų pirkimų atveju pirkimo sutarties vertė mažesnė kaip 10 000 Lt (be pridėtinės vertės mokesčio)arba kai pirkimo sutartis sudaroma atliekant mažos vertės pirkimą.“
 
-\#### 3 straipsnis. 19 straipsnio 1, 4 ir 5 dalių pakeitimas
+## 3 straipsnis. 19 straipsnio 1, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Perkančioji organizacija privalo Viešųjų pirkimų tarnybai raštu pateikti kiekvienos įvykdytos ar nutrauktos pirkimo sutarties (preliminariosios sutarties) ataskaitą, išskyrus ataskaitą, sudarytą atliekant mažos vertės pirkimus, šio įstatymo 85 straipsnio 6 dalyje nurodytus supaprastintus pirkimus ar pirkimus pagal sudarytą preliminariąją sutartį, ne vėliau kaip per 14 dienų, įvykdžius ar nutraukus pirkimo sutartį (preliminariąją sutartį).“
 
-\#### 4 straipsnis. 85 straipsnio 1, 2, 3 dalių pakeitimas ir straipsnio papildymas 6 dalimi
+## 4 straipsnis. 85 straipsnio 1, 2, 3 dalių pakeitimas ir straipsnio papildymas 6 dalimi
 
 1. Pakeisti 85 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -90,7 +90,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „6. Literatūros, mokslo ir meno kūrinių autorių, atlikėjų ar jų kolektyvo paslaugų, taip pat mokslo, kultūros ir meno sričių projektų vertinimo ir pretendentų gauti teisės aktų nustatyta tvarka įsteigtas premijas veiklos šiose srityse vertinimo paslaugų supaprastintų pirkimų tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
-\#### 5 straipsnis. 86 straipsnio 1, 5 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 5 straipsnis. 86 straipsnio 1, 5 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 86 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -102,7 +102,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „5. Supaprastintų pirkimų skelbimų ir šio įstatymo 92 straipsnio 8 dalyje nurodyto informacinio pranešimo reikalavimus nustato Viešųjų pirkimų tarnyba.“
 
-\#### 6 straipsnis. 90 straipsnio pakeitimas
+## 6 straipsnis. 90 straipsnio pakeitimas
 
 Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
@@ -110,7 +110,7 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 Prekės, paslaugos ar darbai perkami iš to tiekėjo, kuris pateikė ekonomiškai naudingiausią pasiūlymą arba pasiūlė mažiausią kainą pagal šio įstatymo 39 straipsnio 7 dalyje nurodyta tvarka atlikto pasiūlymų vertinimo rezultatus. Perkant prekes, paslaugas ar darbus pateikti pasiūlymai gali būti vertinami remiantis ekonomiškai naudingiausio pasiūlymo arba mažiausios kainos kriterijumi, arba pagal perkančiosios organizacijos pirkimo dokumentuose nustatytus su pirkimo objektu susijusius kriterijus, kurie negali nepagrįstai ir neobjektyviai riboti tiekėjų galimybių dalyvauti pirkime ar nesudaro išskirtinių sąlygų konkretiems tiekėjams, pažeidžiant šio įstatymo 3 straipsnio 1 dalyje nustatytus reikalavimus.“
 
-\#### 7 straipsnis. 92 straipsnio 2 dalies, 3 dalies 6 punkto pakeitimas ir straipsnio papildymas 8 dalimi
+## 7 straipsnis. 92 straipsnio 2 dalies, 3 dalies 6 punkto pakeitimas ir straipsnio papildymas 8 dalimi
 
 1. Pakeisti 92 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -124,7 +124,7 @@ Prekės, paslaugos ar darbai perkami iš to tiekėjo, kuris pateikė ekonomiška
 
 „8. Atlikdama supaprastintą neskelbiamą pirkimą ir priėmusi sprendimą sudaryti sutartį, perkančioji organizacija šio įstatymo 86 straipsnyje nustatyta tvarka gali paskelbti informacinį pranešimą, o kai atliekamas šio įstatymo 2 priedėlio B paslaugų sąraše nurodytų paslaugų pirkimas ir kai pirkimo vertė yra ne mažesnė, negu nustatyta tarptautinio pirkimo vertės riba, – pranešimą dėl savanoriško ex ante skaidrumo.“
 
-\#### 8 straipsnis. Baigiamosios nuostatos
+## 8 straipsnis. Baigiamosios nuostatos
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. spalio 1 d.
 

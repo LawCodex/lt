@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.91EDAB944501"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.91EDAB944501.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos teismų įstatymo, Administracinių bylų teisenos įstatymo, Civilinio proceso kodekso, Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo ketvirtojo skirsnio 1 ir 2 straipsnių pakeitimo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2003, Nr. [39-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.9FE106C9700B))
 
-\#### 1 straipsnis. Ketvirtojo skirsnio 1 straipsnio pakeitimas
+## 1 straipsnis. Ketvirtojo skirsnio 1 straipsnio pakeitimas
 
 Pakeisti ketvirtojo skirsnio 1 straipsnį ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ Papildyti 234 straipsnio 5 dalį 4 punktu:
 
 „4) įstatymų numatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus gautas šios institucijos preliminarus nutarimas.“
 
-\#### 2 straipsnis. Ketvirtojo skirsnio 2 straipsnio pakeitimas
+## 2 straipsnis. Ketvirtojo skirsnio 2 straipsnio pakeitimas
 
 Ketvirtojo skirsnio 2 straipsnyje vietoj žodžių „3 dalies“ įrašyti žodžius „5 dalies“ ir visą straipsnį išdėstyti taip:
 
@@ -48,7 +48,7 @@ Ketvirtojo skirsnio 2 straipsnyje vietoj žodžių „3 dalies“ įrašyti žod
 
 „2. Bylos nagrinėjimas taip pat atidedamas šio Kodekso 234 straipsnio 5 dalies 3, 4 punktuose ir 254 straipsnio 2 dalyje numatytais atvejais.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 

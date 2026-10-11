@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.FDF8FD41E7E5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FDF8FD41E7E5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2007, Nr. [77-3047](https://www.e-tar.lt/portal/lt/legalAct/TAR.AC73490B2F09); 2008, Nr. [137-5378](https://www.e-tar.lt/portal/lt/legalAct/TAR.FD511C5A13B1))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
 

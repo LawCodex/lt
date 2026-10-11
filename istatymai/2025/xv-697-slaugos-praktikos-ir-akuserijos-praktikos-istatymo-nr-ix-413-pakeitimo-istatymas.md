@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/a1298f22e55d11f08918e1adc7c5b1ec"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A1298F22E55D.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 pakeitimo įstatymas
@@ -26,7 +26,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS ĮSTATYMO NR. IX-413 PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 nauja redakcija
+## 1 straipsnis. Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 nauja redakcija
 
 Pakeisti Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymą
 
@@ -38,13 +38,13 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 ĮSTATYMAS
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis
+## 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas nustato bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos įgijimą, praktikos sąlygas, teises, pareigas ir atsakomybę, slaugos praktikos ir akušerijos praktikos asmens sveikatos priežiūros įstaigoje valdymą.
 
-\#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+## 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Akušerijos praktika – šio įstatymo ir kitų teisės aktų, reguliuojančių asmens sveikatos priežiūros paslaugų teikimą, reglamentuojamos akušerio teikiamos asmens sveikatos priežiūros paslaugos.
 
@@ -74,9 +74,9 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 14. Valstybė narė – Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė arba Šveicarijos Konfederacija.
 
-\### ANTRASIS SKIRSNIS. SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
+ANTRASIS SKIRSNIS. SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 
-\#### 3 straipsnis. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos įgijimas, slaugos specializacijos įgijimas ir profesinės kompetencijos nustatymas
+## 3 straipsnis. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos įgijimas, slaugos specializacijos įgijimas ir profesinės kompetencijos nustatymas
 
 1. Bendrosios praktikos slaugytojo profesinė kvalifikacija ir akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ir akušerijos studijų krypties pirmosios pakopos atitinkamai slaugos ar akušerijos studijas. Išplėstinės praktikos slaugytojo profesinė kvalifikacija įgyjama universitete baigus slaugos ir akušerijos studijų krypties slaugos magistrantūros studijas ir išlaikius kvalifikacinį egzaminą.
 
@@ -84,7 +84,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 3. Slaugytojų ir akušerių profesinės kompetencijos reikalavimus nustato sveikatos apsaugos ministras.
 
-\#### 4 straipsnis. Slaugos praktikos ir akušerijos praktikos sąlygos
+## 4 straipsnis. Slaugos praktikos ir akušerijos praktikos sąlygos
 
 1. Slaugos praktika ir akušerijos praktika yra licencijuojama veikla.
 
@@ -104,7 +104,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 9. Slaugytojai ir akušeriai, kurių užsienyje įgyta profesinė kvalifikacija yra pripažinta Lietuvos Respublikoje, profesine veikla Lietuvos Respublikoje verčiasi tokiomis pačiomis sąlygomis kaip ir asmenys, įgiję atitinkamą profesinę kvalifikaciją Lietuvos Respublikoje.
 
-\#### 5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka
+## 5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka
 
 1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako jas išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, sveikatos apsaugos ministro įgaliota institucija (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro tvirtinamomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau kartu – Taisyklės). Licencijavimo institucija, siekdama patikrinti, ar yra įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio įstatymo 14 ir 15 straipsniuose nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, tvarkančių duomenis, susijusius su šio įstatymo reglamentuojama slaugos praktika ar akušerijos praktika, gauti duomenis apie bendrosios praktikos slaugytojo ar akušerio atitiktį šio straipsnio 4 dalyje nurodytoms licencijos išdavimo sąlygoms, šio įstatymo 14 ir 15 straipsniuose nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo 6 straipsnyje, 7 straipsnio 1 dalies 2–7 punktuose ir 8 straipsnio 1 dalies 2–8 punktuose, buvimą. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai asmenys, tvarkantys duomenis, susijusius su šio įstatymo reglamentuojama slaugos praktika ar akušerijos praktika, privalo pateikti šioje dalyje nurodytus duomenis Licencijavimo institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 darbo dienų.
 
@@ -146,7 +146,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 9. Licencijavimo institucija, siekdama užtikrinti pacientų teisę į tinkamas ir kokybiškas slaugos ir akušerijos paslaugas ir informuoti visuomenę bei bendrosios praktikos slaugytojus ir akušerius apie išduotas, patikslintas licencijas ir licencijas, kurių galiojimas sustabdytas ar panaikintas, Taisyklėse nustatyta tvarka skelbia savo interneto svetainėje šiuos aktualius licencijų duomenis: licencijos numerį, licencijos turėtojo vardą, pavardę, spaudo numerį, licencijos turėtojo praktikos rūšį, licencijos išdavimo datą, licencijos duomenų patikslinimo įrašant duomenis apie įgytą išplėstinės praktikos slaugytojo profesinę kvalifikaciją datą, licencijos galiojimo sustabdymo ir licencijos galiojimo panaikinimo datą. Šioje dalyje nurodyti licencijų duomenys, išskyrus duomenis apie licencijos galiojimo panaikinimą, skelbiami iki licencijos galiojimo panaikinimo dienos. Duomenys apie licencijos galiojimo panaikinimą skelbiami 1 metus nuo jos galiojimo panaikinimo dienos. Licencijų informacinėje sistemoje tvarkomi licencijų duomenys – licencijos turėtojo vardas, pavardė, licencijos numeris, licencijos turėtojo praktikos rūšis ir licencijos galiojimo būsena – yra vieši.
 
-\#### 6 straipsnis. Atsisakymo išduoti licenciją pagrindai
+## 6 straipsnis. Atsisakymo išduoti licenciją pagrindai
 
 1. Paraišką ir licencijai gauti reikalingus dokumentus pateikusiam bendrosios praktikos slaugytojui ar akušeriui licenciją išduoti atsisakoma, esant bent vienai iš šių sąlygų:
 
@@ -160,7 +160,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 3. Bendrosios praktikos slaugytojas ar akušeris, kuriam yra atsisakyta išduoti licenciją, dėl naujos licencijos išdavimo gali kreiptis nedelsdamas, Taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus.
 
-\#### 7 straipsnis. Licencijos galiojimo sustabdymas ir licencijos galiojimo sustabdymo panaikinimas
+## 7 straipsnis. Licencijos galiojimo sustabdymas ir licencijos galiojimo sustabdymo panaikinimas
 
 1. Licencijos galiojimas sustabdomas, kai yra bent viena iš šių sąlygų:
 
@@ -220,7 +220,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 9. Licencijavimo institucija sprendimą panaikinti licencijos galiojimo sustabdymą ar atsisakyti panaikinti licencijos galiojimo sustabdymą ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo dienos išsiunčia bendrosios praktikos slaugytojui ar akušeriui ir bendrosios praktikos slaugytojo ar akušerio darbdaviui.
 
-\#### 8 straipsnis. Licencijos galiojimo panaikinimas
+## 8 straipsnis. Licencijos galiojimo panaikinimas
 
 1. Licencijos galiojimas panaikinamas, kai yra bent viena iš šių sąlygų:
 
@@ -248,7 +248,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 5. Licencijavimo institucija sprendimą panaikinti licencijos galiojimą, išskyrus šio straipsnio 1 dalies 6 punkte nurodytą atvejį, ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo dienos išsiunčia bendrosios praktikos slaugytojui ar akušeriui ir bendrosios praktikos slaugytojo ar akušerio darbdaviui.
 
-\#### 9 straipsnis. Kitų valstybių narių slaugytojų ir akušerių teisės laikinai ir kartais teikti slaugos ar akušerijos paslaugas Lietuvos Respublikoje įgijimo sąlygos
+## 9 straipsnis. Kitų valstybių narių slaugytojų ir akušerių teisės laikinai ir kartais teikti slaugos ar akušerijos paslaugas Lietuvos Respublikoje įgijimo sąlygos
 
 1. Slaugytojas ar akušeris, kuris yra teisėtai įsisteigęs kitoje valstybėje narėje, vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu, turi teisę laikinai ir kartais teikti slaugos ar akušerijos paslaugas Lietuvos Respublikoje ir neturėdamas licencijos.
 
@@ -258,7 +258,7 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 4. Jeigu slaugytojas ar akušeris, laikinai ir kartais besiverčiantis atitinkama praktika, nevykdo šio straipsnio 2 dalyje nurodytų pareigų ir (ar) Licencijavimo institucija sužino faktų, kad slaugytojas ar akušeris laikinai ir kartais verčiasi atitinkama praktika nesilaikydamas Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme nustatytos tvarkos, Licencijavimo institucija vertina, ar slaugytojas ar akušeris gali toliau laikinai ir kartais verstis atitinkama praktika Lietuvos Respublikoje, ir, jeigu priimamas sprendimas, kad jis netenka teisės laikinai ir kartais verstis atitinkama praktika Lietuvos Respublikoje, nedelsdama apie tai informuoja slaugytoją ar akušerį bei asmens sveikatos priežiūros įstaigą, kurioje jis laikinai ir kartais verčiasi atitinkama praktika, taip pat praneša apie tai slaugytojo ar akušerio, laikinai ir kartais besiverčiančio atitinkama praktika, kilmės valstybės narės arba tos valstybės narės, iš kurios jis yra atvykęs, atsakingai institucijai.
 
-\#### 10 straipsnis. Neteisėta slaugos praktika ar akušerijos praktika
+## 10 straipsnis. Neteisėta slaugos praktika ar akušerijos praktika
 
 1. Neteisėta slaugos praktika ar akušerijos praktika – veikla, kai asmuo:
 
@@ -274,9 +274,9 @@ SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS
 
 2. Asmuo už vertimąsi neteisėta slaugos praktika ar akušerijos praktika atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\### TREČIASIS SKIRSNIS. SLAUGYTOJO IR AKUŠERIO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
+TREČIASIS SKIRSNIS. SLAUGYTOJO IR AKUŠERIO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
-\#### 11 straipsnis. Bendrosios praktikos slaugytojo ir specialiosios praktikos slaugytojo teisės
+## 11 straipsnis. Bendrosios praktikos slaugytojo ir specialiosios praktikos slaugytojo teisės
 
 Bendrosios praktikos slaugytojas ir specialiosios praktikos slaugytojas turi šias teises:
 
@@ -296,7 +296,7 @@ Bendrosios praktikos slaugytojas ir specialiosios praktikos slaugytojas turi ši
 
 8) sveikatos apsaugos ministro nustatyta tvarka išduoti siuntimą gauti sveikatos apsaugos ministro nustatytas asmens sveikatos priežiūros paslaugas.
 
-\#### 12 straipsnis. Išplėstinės praktikos slaugytojo teisės
+## 12 straipsnis. Išplėstinės praktikos slaugytojo teisės
 
 Išplėstinės praktikos slaugytojas turi šio įstatymo 11 straipsnyje nurodytas teises, taip pat šias teises:
 
@@ -308,7 +308,7 @@ Išplėstinės praktikos slaugytojas turi šio įstatymo 11 straipsnyje nurodyta
 
 4) atlikti asmens sveikatos būklės tikrinimą, ligų profilaktiką sveikatos apsaugos ministro nustatyta tvarka.
 
-\#### 13 straipsnis. Akušerio teisės
+## 13 straipsnis. Akušerio teisės
 
 Akušeris turi šias teises:
 
@@ -328,7 +328,7 @@ Akušeris turi šias teises:
 
 8) sveikatos apsaugos ministro nustatyta tvarka išduoti siuntimą gauti sveikatos apsaugos ministro nustatytas asmens sveikatos priežiūros paslaugas.
 
-\#### 14 straipsnis. Slaugytojo pareigos
+## 14 straipsnis. Slaugytojo pareigos
 
 Slaugytojas privalo:
 
@@ -352,7 +352,7 @@ Slaugytojas privalo:
 
 10) atlikti kitas Lietuvos Respublikos teisės aktų, reguliuojančių slaugos praktiką ir asmens sveikatos priežiūros paslaugų teikimą, nustatytas pareigas.
 
-\#### 15 straipsnis. Akušerio pareigos
+## 15 straipsnis. Akušerio pareigos
 
 Akušeris privalo:
 
@@ -376,7 +376,7 @@ Akušeris privalo:
 
 10) atlikti kitas Lietuvos Respublikos teisės aktų, reguliuojančių akušerijos praktiką ir asmens sveikatos priežiūros paslaugų teikimą, nustatytas pareigas.
 
-\#### 16 straipsnis. Slaugytojo ir akušerio profesinės kompetencijos vertinimas ir atsakomybė
+## 16 straipsnis. Slaugytojo ir akušerio profesinės kompetencijos vertinimas ir atsakomybė
 
 1. Jeigu teismas, teisėsaugos institucijos, kitos valstybės ir savivaldybių institucijos, Licencijavimo institucija ar darbdavys nustato slaugytojo ar akušerio veiklos trūkumų ir (ar) veiksmų, galėjusių lemti ar lėmusių žalą ar pavojų pacientų sveikatai, šiuos veiklos trūkumus ir (ar) veiksmus, vadovaudamasi sveikatos apsaugos ministro tvirtinamu Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarkos aprašu, vertina Profesinės kompetencijos vertinimo komisija. Profesinės kompetencijos vertinimo komisija sudaroma iš 5 narių, iš jų 1 yra Sveikatos apsaugos ministerijos atstovas, 1 – slaugos ar akušerijos studijų krypties studijas vykdančios aukštosios mokyklos atstovas ir 3 – slaugytojus ar akušerius vienijančių asociacijų atstovai, turintys galiojančias bendrosios slaugos praktikos ar akušerijos praktikos licencijas. Profesinės kompetencijos vertinimo komisiją kiekvienam konkrečiam atvejui nagrinėti sudaro sveikatos apsaugos ministras.
 
@@ -398,7 +398,7 @@ b) šiurkšti slaugos praktikos ar akušerijos praktikos klaida;
 
 4. Profesinės kompetencijos vertinimo komisija, priėmusi šio straipsnio 3 dalies 2 punkte nurodytą sprendimą, šiame sprendime nurodo ir papildomas slaugytojo ar akušerio profesinės kvalifikacijos tobulinimo sąlygas.
 
-\#### 17 straipsnis. Slaugos praktikos ir akušerijos praktikos asmens sveikatos priežiūros įstaigoje valdymas
+## 17 straipsnis. Slaugos praktikos ir akušerijos praktikos asmens sveikatos priežiūros įstaigoje valdymas
 
 1. Asmens sveikatos priežiūros įstaigoje, teikiančioje slaugos ir (arba) akušerijos paslaugas, privalo būti slaugos administratorius, atliekantis slaugos praktikos ir (arba) akušerijos praktikos valdymo funkcijas.
 
@@ -406,7 +406,7 @@ b) šiurkšti slaugos praktikos ar akušerijos praktikos klaida;
 
 3. Slaugos administratoriaus atliekamas slaugos praktikos ir (arba) akušerijos praktikos valdymo funkcijas nustato sveikatos apsaugos ministras, o jų įgyvendinimo asmens sveikatos priežiūros įstaigoje tvarką nustato sveikatos priežiūros įstaigos vadovas.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. gegužės 1 d.
 

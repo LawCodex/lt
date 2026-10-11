@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.17025853D8BA"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.17025853D8BA.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 36, 45(1) straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [59-1153](https://www.e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D); 1997, Nr. [38-924](https://www.e-tar.lt/portal/lt/legalAct/TAR.9347C8C7E0A3); 1998, Nr. [98-2707](https://www.e-tar.lt/portal/lt/legalAct/TAR.51DE78DB400F))
 
-\#### 1 straipsnis. 36 straipsnio pakeitimas
+## 1 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
@@ -42,13 +42,13 @@ Senatvės ar invalidumo pensininkui mirus, valstybinės socialinio draudimo naš
 
 Senatvės ar invalidumo pensininkui mirus, valstybinės socialinio draudimo našlaičių pensijos apskaičiuojamos pagal mirusiojo gautos senatvės ar invalidumo pensijos dydį šio straipsnio antrojoje dalyje nustatyta tvarka, netaikant III grupės invalidumo pensijos mažinimo (29 straipsnio ketvirtoji dalis). Patvirtinus naują, didesnį valstybinės socialinio draudimo bazinės pensijos dydį ar naujas, didesnes vidutines mėnesines draudžiamąsias pajamas, našlaičių pensijos yra atitinkamai didinamos.“
 
-\#### 2 straipsnis. 451 straipsnio 5 dalies papildymas
+## 2 straipsnis. 451 straipsnio 5 dalies papildymas
 
 Papildyti 45^1 straipsnio 5 dalį ir ją išdėstyti taip:
 
 „Našlei arba našliui, turinčiam teisę gauti našlių pensiją už mirusį iki 1995 m. sausio 1 d. sutuoktinį, pensija skiriama 25 procentų 2002 metų kovo mėnesį buvusiovalstybinės socialinio draudimo bazinės pensijos dydžio. Patvirtinus naują, didesnį bazinės pensijos dydį, našlių pensijos nedidinamos.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. gegužės 1 d.
 

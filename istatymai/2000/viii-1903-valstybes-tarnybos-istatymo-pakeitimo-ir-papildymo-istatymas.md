@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.905114AB2F6E"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.905114AB2F6E.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [66-2130](https://www.e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 
@@ -70,7 +70,7 @@ Vilnius
 
 **„****24**.**Politinė veikla** – fizinio asmens dalyvavimas politinių partijų ar politinių organizacijų veikloje, jų organizuojamuose mitinguose, susirinkimuose, demonstracijose ar kituose renginiuose, kuriais padedama formuoti ir išreikšti bendrus piliečių interesus ir politinę valią; valstybės tarnautojo, išrinkto savivaldybės tarybos nariu, dalyvavimas tarybos veikloje, taip pat kiti veiksmai, kuriais remiama politinė partija ar politinė organizacija.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 4 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
@@ -100,7 +100,7 @@ Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
 9) viešųjų įstaigų darbuotojams.“
 
-\#### 3 straipsnis. 5 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
+## 3 straipsnis. 5 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios
 
 1. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -108,7 +108,7 @@ Pakeisti ir papildyti 4 straipsnį ir jį išdėstyti taip:
 
 2. 5 straipsnio 3 dalį pripažinti netekusia galios.
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -140,7 +140,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 3) atliekančių ūkines ar technines funkcijas.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -172,7 +172,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 5. Steigiamų pareigybių lygiai ir kategorijos nustatomos vadovaujantis Pareigybių aprašymo ir vertinimo metodika. Įstaigos vadovo pareigybės lygis ir kategorija nustatoma atsižvelgiant į analogiškų pareigybių lygį ir kategoriją ir nurodoma įstaigos steigimo ar kitame teisės akte.“
 
-\#### 6 straipsnis. 8 straipsnio pakeitimas
+## 6 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -198,13 +198,13 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 7) savivaldybės kontrolieriaus tarnybos – savivaldybės kontrolierius.“
 
-\#### 7 straipsnis. 9 straipsnio 1 dalies 2 punkto pakeitimas
+## 7 straipsnis. 9 straipsnio 1 dalies 2 punkto pakeitimas
 
 Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) amžiaus cenzas: ne mažiau kaip 18 metų ir ne daugiau kaip 62 metai ir 6 mėnesiai. Viršutinės amžiaus ribos reikalavimas netaikomas politinio (asmeninio) pasitikėjimo ir pakaitiniams valstybės tarnautojams bei ūkines ar technines funkcijas atliekantiems paslaugų valstybės tarnautojams;“.
 
-\#### 8 straipsnis. 10 straipsnio 2 dalies 3 punkto ir 3 dalies pakeitimas ir papildymas
+## 8 straipsnis. 10 straipsnio 2 dalies 3 punkto ir 3 dalies pakeitimas ir papildymas
 
 1. Pakeisti 10 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -214,13 +214,13 @@ Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „3. Skelbime apie rengiamą priėmimą į valstybės tarnybą nurodoma pareigybių pavadinimas, grupė, lygis ir kategorija, taikysimi pretendentų atrankos būdai. Jei taikomas pretendentų atrankos būdas yra privalumų vertinimas, skelbime taip pat nurodomi vertinsimi pretendentų privalumai.“
 
-\#### 9 straipsnis. 11 straipsnio 5 dalies 3 punkto pakeitimas
+## 9 straipsnis. 11 straipsnio 5 dalies 3 punkto pakeitimas
 
 11 straipsnio 5 dalies 3 punkte po žodžio „administracijoje“ įrašyti žodį „kitoje“ ir šį punktą išdėstyti taip:
 
 „3) pretendentų į valstybės tarnybą savivaldybės administracijoje,kitoje savivaldybės įstaigoje ir savivaldybės kontrolieriaus tarnyboje – savivaldybės personalo tarnybai.“
 
-\#### 10 straipsnis. 12 straipsnio 2 ir 4 dalių pakeitimas
+## 10 straipsnis. 12 straipsnio 2 ir 4 dalių pakeitimas
 
 1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -230,7 +230,7 @@ Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „4. Pretendentams į valstybės tarnybą valstybės institucijose ar įstaigose egzaminų programas tvirtina valstybės tarnybos tvarkymo funkcijas atliekančios įstaigosvadovas. Pretendentams į valstybės tarnybą savivaldybėseegzaminų programų turinio minimumą tvirtina valstybės tarnybos tvarkymo funkcijas atliekančios įstaigos vadovas, suderinęs su Lietuvos savivaldybių asociacija. Savivaldybės administratoriusir savivaldybės kontrolierius tvirtina papildomus klausimus ir temas, susijusias su savivaldybių veiklos ypatumais.“
 
-\#### 11 straipsnis. 14 straipsnio 3 dalies 3 punkto, 7 dalies 3 ir 4 punktų, 8 ir 10 dalių pakeitimas
+## 11 straipsnis. 14 straipsnio 3 dalies 3 punkto, 7 dalies 3 ir 4 punktų, 8 ir 10 dalių pakeitimas
 
 1. Pakeisti 14 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -250,7 +250,7 @@ Pakeisti 9 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 „10. Asmuo, paskirtas stažuotoju ar bandomajam laikotarpiui, pradeda eiti pareigas, kai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perima tarnybos reikalus. Tai netaikoma, jei skiriama į naujai įsteigtą pareigybę.“
 
-\#### 12 straipsnis. 15 straipsnio pakeitimas
+## 12 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
@@ -274,7 +274,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 4. Asmuo, įstojęs į valstybės tarnybą ir paskirtas į politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas, valstybės tarnautojo statusą įgyja nuo paskyrimo dienos. Jam įteikiamas nustatyto pavyzdžio valstybės tarnautojo pažymėjimas.“
 
-\#### 13 straipsnis. 16 straipsnio pakeitimas
+## 13 straipsnis. 16 straipsnio pakeitimas
 
 Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
@@ -296,7 +296,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 6. Pasibaigus kadencijai, įstaigos vadovas, paskirtas atviro konkurso būdu, gali pakartotinai dalyvauti konkurse dėl įstaigos vadovo vietos. Vieno asmens kadencijų skaičius eiti įstaigos vadovo pareigas neribojamas, jei įstaigos steigimo ar kituose teisės aktuose nenurodyta kitaip.“
 
-\#### 14 straipsnis. 17 straipsnio pakeitimas
+## 14 straipsnis. 17 straipsnio pakeitimas
 
 Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
@@ -324,7 +324,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 
 6. Pakaitiniai valstybės tarnautojai į valstybės tarnybą priimami laikinai, kol sugrįš negalintys eiti pareigų valstybės tarnautojai, bet ne ilgiau kaip 4 metams, ar konkurso į karjeros valstybės tarnautojo pareigas organizavimo laikotarpiui. Pakaitinių valstybės tarnautojų priėmimo sąlygas ir tvarką nustato Vyriausybė.“
 
-\#### 15 straipsnis. 19 straipsnio 3 dalies pakeitimas
+## 15 straipsnis. 19 straipsnio 3 dalies pakeitimas
 
 Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -346,13 +346,13 @@ Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 
 8) savivaldybėse – administratorius, kontrolieriaus tarnyboje – savivaldybės kontrolierius.“
 
-\#### 16 straipsnis. 20 straipsnio 15 punkto pakeitimas
+## 16 straipsnis. 20 straipsnio 15 punkto pakeitimas
 
 Pakeisti 20 straipsnio 15 punktą ir jį išdėstyti taip:
 
 „15) tarnybos metu nedalyvauti politinėje veikloje (išskyrus valstybės tarnautojus, kurie yra savivaldybių tarybų nariai, kai jie dalyvauja savivaldybės tarybos darbe ar kitoje jos statute numatytoje veikloje), kitaip nenaudoti tarnybos laiko ne tarnybos tikslams, išskyrus mokslinį ir pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos kėlimo įstaigose, neformalųjį suaugusiųjų švietimą, darbą visų lygių rinkimų ar referendumų komisijose bei dalyvavimą profesinių sąjungų veikloje pagal šio įstatymo 21 straipsnio 1 dalies 10 punktą. Ši veikla turi būti suderinta su tiesioginiu tarnybos vadovu (įstaigos vadovo veikla turi būti suderinta su įstaigos, kuriai jis yra atskaitingas, vadovu). Norintis užsiimti šia veikla valstybės tarnautojas pateikia prašymą atitinkamai personalo tarnybai. Pagal šį prašymą leidimas įteisinamas asmens, institucijoje ar įstaigoje atsakingo už personalo valdymą, įsakymu (potvarkiu). Tiesioginis tarnybos vadovas gali neleisti užsiimti šia veikla (nepasirašyti valstybės tarnautojo prašymo), jei paskutinis valstybės tarnautojo tarnybinės veiklos įvertinimas pagal šio įstatymo 25 ir 26 straipsnius yra nepatenkinamas, taip pat dėl kitų objektyvių priežasčių, susijusių su valstybės tarnautojo pareigų atlikimu. Valstybės tarnautojas, norintis dirbti ir pedagoginį darbą, kiekvienais mokslo metais turi gauti naują leidimą. Jei leidimas buvo duotas visiems mokslo metams, įsakymas (potvarkis) dėl leidimo dirbti pedagoginį darbą negali būti pripažintas netekusiu galios mokslo metams nesibaigus. Nebuvimas darbo vietoje dėl šio darbo be atitinkamo įsakymo (potvarkio) laikomas tarnybiniu nusižengimu pagal šio įstatymo aštuntąjį skirsnį. Ši veikla neatleidžia valstybės tarnautojų nuo jų tiesioginių pareigų atlikimo;“.
 
-\#### 17 straipsnis. 21 straipsnio pakeitimas ir papildymas
+## 17 straipsnis. 21 straipsnio pakeitimas ir papildymas
 
 Iš 21 straipsnio sakinio iki dvitaškio išbraukti skaičių „1.“, 10 punktą papildyti žodžiais „ir už šį laiką gaunant darbo užmokestį“, pakeisti 13 ir 14 punktus ir juos išdėstyti taip:
 
@@ -364,7 +364,7 @@ Iš 21 straipsnio sakinio iki dvitaškio išbraukti skaičių „1.“, 10 punkt
 
 14) pasibaigus politinio (asmeninio) pasitikėjimo valstybės tarnautojus pasirinkusių valstybės politikų kadencijai ar nutrūkus jų įgaliojimams arba pasibaigus įstaigų vadovų kadencijai, kai politinio (asmeninio) pasitikėjimo valstybės tarnautojai ar įstaigų vadovai atsistatydina savo noru, kai politinio (asmeninio) pasitikėjimo valstybės tarnautojams juos pasirinkę valstybės politikai pareiškia nepasitikėjimą, kai panaikinama politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigybė arba, kai įstaiga liaujasi egzistavusi dėl reorganizavimo ar likvidavimo, į politinio (asmeninio) pasitikėjimo valstybės tarnautojų arba įstaigų vadovų pareigas priimti karjeros valstybės tarnautojai turi teisę Vyriausybės nustatyta tvarka atkurti karjeros valstybės tarnautojo statusą – grįžti į buvusias ar, jeigu nėra galimybės, į kitas to paties lygio ir kategorijos pareigas valstybės tarnyboje. Šie asmenys dėl karjeros valstybės tarnautojo statuso atkūrimo ne vėliau kaip per vieną mėnesį nuo šios teisės atsiradimo turi raštu kreiptis į valstybės tarnybos tvarkymo funkciją atliekančią įstaigą. Asmenims, kurie praranda valstybės tarnautojo statusą dėl pasibaigusios juos pasirinkusių valstybės politikų kadencijos ar įgaliojimų, taip pat įstaigų vadovams, kurių kadencija pasibaigia ar kurie praranda valstybės tarnautojo statusą dėl jų vadovaujamų įstaigų reorganizavimo ar likvidavimo, išmokama 3 mėnesių vidutinio darbo užmokesčio dydžio kompensacija. Ji išmokama per 3 mėnesius, mokant lygiomis dalimis kas mėnesį, bet ne ilgiau, nei asmuo pradeda eiti pareigas valstybės tarnyboje. Pradėjus eiti pareigas valstybės tarnyboje anksčiau nei per 3 mėnesius, likusi kompensacijos dalis neišmokama. Gauti šią kompensaciją turi teisę tik tie asmenys, kurie prieš tapdami politinio (asmeninio) pasitikėjimo valstybės tarnautojais arba įstaigų vadovais nebuvo karjeros valstybės tarnautojai. Politinio (asmeninio) pasitikėjimo valstybės tarnautojai ir įstaigų vadovai, kurie praranda valstybės tarnautojo statusą dėl atsistatydinimo savo noru, bei politinio (asmeninio) pasitikėjimo valstybės tarnautojai, kurie praranda valstybės tarnautojo statusą dėl jiems pareikšto juos pasirinkusių valstybės politikų nepasitikėjimo, tokios teisės neturi.“
 
-\#### 18 straipsnis. 22 straipsnio pakeitimas
+## 18 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -386,7 +386,7 @@ Valstybės tarnautojui neleidžiama:
 
 7) eiti daugiau nei vienas pareigas valstybės tarnyboje, išskyrus dėstytojų ir mokslo darbuotojų pareigas aukštosiose mokyklose.“
 
-\#### 19 straipsnis. 23 straipsnio pakeitimas ir papildymas
+## 19 straipsnis. 23 straipsnio pakeitimas ir papildymas
 
 1. 23 straipsnio 1 dalyje vietoj žodžio „viešo“ įrašyti žodį „atviro“, papildyti antruoju sakiniu ir šią dalį išdėstyti taip:
 
@@ -410,7 +410,7 @@ Valstybės tarnautojui neleidžiama:
 
 6. Buvusią 8 dalį laikyti 9 dalimi.
 
-\#### 20 straipsnis. 24 straipsnio pakeitimas
+## 20 straipsnis. 24 straipsnio pakeitimas
 
 Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
@@ -430,7 +430,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 2 ir 3 dalyse nurodytais atvejais valstybės tarnautojas perkeliamas į kitas pareigas Vyriausybės nustatyta tvarka. Po perkėlimo jam mokama pareiginė alga, atitinkanti naujų pareigų kategoriją.“
 
-\#### 21 straipsnis. 25 straipsnio pakeitimas
+## 21 straipsnis. 25 straipsnio pakeitimas
 
 Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
@@ -460,7 +460,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 
 6. Institucijos ar įstaigos vadovo įsakymą (asmens, atsakingo už personalo valdymą institucijoje ar įstaigoje, jei tos institucijos ar įstaigos vadovas yra valstybės politikas, potvarkį) valstybės tarnautojas gali apskųsti Administracinių ginčų komisijai arba teismui. Institucijos ar įstaigos vadovui panaikinus šį įsakymą (potvarkį) arba įsiteisėjus teismo sprendimui dėl šio įsakymo panaikinimo, valstybės tarnautojui ne vėliau kaip per 15 darbo dienų išmokamas gautos minimalios mėnesinės algos ir darbo užmokesčio skirtumas, kurio jis negavo dėl pareigų pažeminimo, ir delspinigiai už šį skirtumą, apskaičiuoti Vyriausybės nustatyta tvarka.“
 
-\#### 22 straipsnis. 28 straipsnio pakeitimas
+## 22 straipsnis. 28 straipsnio pakeitimas
 
 Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
@@ -482,13 +482,13 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 2) perkelti pareigūnus į kitas tos pačios kategorijos pareigas kitoje institucijoje ar įstaigoje.“
 
-\#### 23 straipsnis. 29 straipsnio 1 dalies pakeitimas
+## 23 straipsnis. 29 straipsnio 1 dalies pakeitimas
 
 Pakeisti 29 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Jeigu valstybės tarnautojo tarnybinę veiklą tiesioginis tarnybos vadovas įvertina nepatenkinamai, institucijos ar įstaigos vadovas (ar už personalo valdymą institucijoje ar įstaigoje atsakingas asmuo, jei tos institucijos ar įstaigos vadovas yra valstybės politikas), atsižvelgdamas į vienos iš šio įstatymo 26 ir 28 straipsniuose nurodytų komisijų ar Personalo valdymo tarybos išvadą, gali pažeminti šio valstybės tarnautojo pareigas – Vyriausybės nustatyta tvarkaperkelti į viena ar dviem kategorijomis žemesnes pareigas toje pačioje institucijoje ar įstaigoje. Jam mokama pareiginė alga, atitinkanti žemesnę kategoriją. Valstybės tarnautojo pareigos taip pat gali būti pažemintos, kai šio įstatymo 27 straipsnio 2 dalies 1 punkte bei 28 straipsnio 3 dalies 1 punkte nurodytais atvejais jo tarnybinę veiklą nepatenkinamai įvertino Personalo valdymo taryba ar Statutinių pareigūnų tarnybos vertinimo komisija.“
 
-\#### 24 straipsnis. 30 straipsnio pakeitimas
+## 24 straipsnis. 30 straipsnio pakeitimas
 
 Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
@@ -508,7 +508,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 
 7. Jei valstybės tarnautojo tarnybinę veiklą tiesioginis tarnybos vadovas įvertina nepatenkinamai, institucijos ar įstaigos vadovas (ar už personalo valdymą institucijoje ar įstaigoje atsakingas asmuo, jei tos institucijos ar įstaigos vadovas yra valstybės politikas), atsižvelgdamas pagal kompetenciją į tarnybos vertinimo komisijos, Personalo valdymo tarybos ar Statutinių pareigūnų tarnybos vertinimo komisijos išvadą ir suderinęs su kitos institucijos ar įstaigos vadovu, gali perkelti jį į kitas pareigas kitoje institucijoje ar įstaigoje – Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perkelti į kitas to paties lygio ir kategorijos pareigas kitoje institucijoje ar įstaigoje. Valstybės tarnautojas taip pat gali būti perkeltas į kitas pareigas, kai šio įstatymo 27 straipsnio 2 dalies 1 punkte bei 28 straipsnio 3 dalies 1 punkte nurodytais atvejais jo tarnybinę veiklą nepatenkinamai įvertino Personalo valdymo taryba ar Statutinių pareigūnų tarnybos vertinimo komisija.“
 
-\#### 25 straipsnis. 31 straipsnio pakeitimas
+## 25 straipsnis. 31 straipsnio pakeitimas
 
 Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
@@ -524,7 +524,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 2. Stažuotojui ir asmeniui, paskirtam bandomajam laikotarpiui, taikomos šio įstatymo 14 straipsnio 12 dalyje numatytos darbo apmokėjimo sąlygos ir dydžiai.“
 
-\#### 26 straipsnis. 32 straipsnio pavadinimo ir 2 dalies pakeitimas bei straipsnio papildymas 3 ir 4 dalimis
+## 26 straipsnis. 32 straipsnio pavadinimo ir 2 dalies pakeitimas bei straipsnio papildymas 3 ir 4 dalimis
 
 1. Papildyti 32 straipsnio pavadinimą žodžiais „ir valandos (dienos) atlygis“ ir jį išdėstyti taip:
 
@@ -540,7 +540,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 
 4. Valandos (dienos) atlygiai įstaigos vadovo sprendimu gali būti taikomi apmokant už darbą paslaugų valstybės tarnautojams, atliekantiems ūkines ar technines funkcijas (šio įstatymo 6 straipsnis), taip pat aukštųjų mokyklų dėstytojams bei švietimo įstaigų pedagogams už mokomuosius užsiėmimus, priimtiems dirbti ne visą darbo laiką (ne visą darbo dieną ar ne visą darbo savaitę). Pareigybės valandos atlygis litais ir centais apskaičiuojamas pareigybei nustatytą pareiginės algos koeficientą (1 priedėlis) dauginant iš Vyriausybės patvirtinto minimalaus valandinio atlygio, o dienos atlygis – valandos atlygį dauginant iš darbo dienos valandų skaičiaus. Valandos (dienos) atlygiai suapvalinami cento tikslumu.“
 
-\#### 27 straipsnis. 33 straipsnio pakeitimas ir papildymas
+## 27 straipsnis. 33 straipsnio pakeitimas ir papildymas
 
 Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
@@ -560,7 +560,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 
 5. Priedo už laipsnį, klasę, rangą, kvalifikacinę kategoriją, kurio nustatymą, suteikimą bei skyrimo ir mokėjimo sąlygas numato statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai ar įstatymo patvirtinti statutai, dydis negali viršyti 30 procentų pareiginės algos dydžio (išskyrus priedą už diplomatinį rangą). Priedo už diplomatinį rangą dydžius nustato Diplomatinės tarnybos įstatymas.“
 
-\#### 28 straipsnis. 34 straipsnio pakeitimas
+## 28 straipsnis. 34 straipsnio pakeitimas
 
 Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
@@ -578,19 +578,19 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 
 3. Priemokų skyrimo tvarką nustato Vyriausybė.“
 
-\#### 29 straipsnis. 38 straipsnio 7 dalies pakeitimas
+## 29 straipsnis. 38 straipsnio 7 dalies pakeitimas
 
 Iš 38 straipsnio 7 dalies išbraukti žodžius „ar jos įgaliota institucija“ ir ją išdėstyti taip:
 
 „7. Valstybės tarnautojų mokymo proceso organizavimo tvarką nustato Vyriausybė.“
 
-\#### 30 straipsnis. 40 straipsnio 1 dalies 6 punkto pakeitimas
+## 30 straipsnis. 40 straipsnio 1 dalies 6 punkto pakeitimas
 
 Pakeisti 40 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „6) Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimas, siekiant gauti neteisėtų pajamų ar privilegijų sau ar kitiems;“.
 
-\#### 31 straipsnis. 41 straipsnio papildymas
+## 31 straipsnis. 41 straipsnio papildymas
 
 1. 41 straipsnio 1 dalį papildyti nauju 8 punktu:
 
@@ -598,7 +598,7 @@ Pakeisti 40 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 2. Buvusį 41 straipsnio 1 dalies 8 punktą laikyti 9 punktu.
 
-\#### 32 straipsnis. 43 straipsnio papildymas
+## 32 straipsnis. 43 straipsnio papildymas
 
 1. Papildyti 43 straipsnį nauja 4 dalimi:
 
@@ -606,7 +606,7 @@ Pakeisti 40 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 2. Buvusią 4 dalį laikyti 5 dalimi.
 
-\#### 33 straipsnis. 44 straipsnio 2, 4 dalių pakeitimas ir papildymas
+## 33 straipsnis. 44 straipsnio 2, 4 dalių pakeitimas ir papildymas
 
 1. 44 straipsnio 2 dalyje vietoj žodžio „priežasčių“ įrašyti žodį „aplinkybių“, vietoj žodžių „gerą tarnybą“ įrašyti žodžius „gerus tarnybos rezultatus“ ir šią dalį išdėstyti taip:
 
@@ -616,7 +616,7 @@ Pakeisti 40 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „4. Tarnybinė nuobauda, išskyrus nuobaudąuž sunkų nusižengimą, gali būti panaikintavalstybės tarnautojo prašymu, jeigu jis gauna šio įstatymo 46straipsnio 1 dalyje numatytą paskatinimą. Sprendimą panaikinti tarnybinę nuobaudąpriima institucijų ar įstaigų vadovai, išskyrus ministerijas ir Vyriausybei atskaitingas įstaigas. Dėl jų tarnautojų sprendimą priima valstybės tarnybos tvarkymo funkcijas atliekančios įstaigosvadovas. Sprendimą panaikinti tarnybinęnuobaudąsavivaldybėse priima savivaldybės administratorius, o panaikinti tarnybinęnuobaudąsavivaldybės administratoriui – valdyba (meras).“
 
-\#### 34 straipsnis. 45 straipsnio 3, 6, 7 dalių pakeitimas ir papildymas
+## 34 straipsnis. 45 straipsnio 3, 6, 7 dalių pakeitimas ir papildymas
 
 1. Pakeisti 45 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -630,7 +630,7 @@ Pakeisti 40 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 „7. Valstybės institucijos, įstaigos ar savivaldybėsvadovo (už personalo valdymą atsakingo asmens) sprendimą dėl žalos atlyginimo valstybės tarnautojas gali apskųsti Administracinių ginčų komisijai arbateismui.“
 
-\#### 35 straipsnis. 47 straipsnio pakeitimas
+## 35 straipsnis. 47 straipsnio pakeitimas
 
 Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
@@ -644,7 +644,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 4. Premijos už labai gerus tarnybos rezultatus skyrimo ir mokėjimo tvarką nustato Vyriausybė.“
 
-\#### 36 straipsnis. 52 straipsnio pakeitimas
+## 36 straipsnis. 52 straipsnio pakeitimas
 
 Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
@@ -654,7 +654,7 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 2. Atostogos dėl asmeninių aplinkybių nesuteikiamos valstybės tarnautojui, pagal šio įstatymo 29 straipsnį perkeltam į žemesnes pareigas, taip pat tarnautojui, kuriam galioja tarnybinė nuobauda.“
 
-\#### 37 straipsnis. 55 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
+## 37 straipsnis. 55 straipsnio 1 ir 3 dalių pakeitimas ir papildymas
 
 1. Pakeisti 55 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -682,7 +682,7 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 9) prireikus išvyksta į sveikatos priežiūros įstaigą ar gavę vadovo sutikimą – į valstybės ar savivaldybės instituciją ar įstaigą.“
 
-\#### 38 straipsnis. 56 straipsnio pakeitimas ir papildymas
+## 38 straipsnis. 56 straipsnio pakeitimas ir papildymas
 
 1. 56 straipsnio 1 dalyje iki dvitaškio išbraukti žodžius „išskyrus šio straipsnio 8 dalyje nurodytą atvejį“ir šią dalį iki dvitaškio išdėstyti taip:
 
@@ -736,7 +736,7 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 „9. Skundai dėl valstybės tarnautojo statuso praradimo nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.“
 
-\#### 39 straipsnis. 57 straipsnio 2 dalies ir 3 dalies 2, 7 punktų pakeitimas
+## 39 straipsnis. 57 straipsnio 2 dalies ir 3 dalies 2, 7 punktų pakeitimas
 
 1. Pakeisti 57 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -758,13 +758,13 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 „7) nustato atostogų dėl asmeninių aplinkybių skyrimotvarką;“.
 
-\#### 40 straipsnis. 58 straipsnio 1 dalies 3 punkto pakeitimas
+## 40 straipsnis. 58 straipsnio 1 dalies 3 punkto pakeitimas
 
 Pakeisti 58 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 
 „3) kituose teismuose, prokuratūroje, Valstybės saugumo departamente, Specialiųjų tyrimų tarnyboje, Valstybės kontrolėje, Seimo kontrolierių įstaigoje, Moterų ir vyrų lygių galimybių kontrolieriaus tarnyboje, Vaiko teisių apsaugos kontrolieriaustarnyboje,kitose Vyriausybei neatskaitingose institucijose ir įstaigose – šių institucijų ir įstaigųvadovai.“
 
-\#### 41 straipsnis. 59 straipsnio pakeitimas
+## 41 straipsnis. 59 straipsnio pakeitimas
 
 Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
@@ -834,7 +834,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 2) personalo valdymą organizuoja per atitinkamų įstaigų vadovus ir personalo tarnybas, o šių tarnybų veiklą reglamentuoja personalo tarnybų nuostatai.“
 
-\#### 42 straipsnis. 60 straipsnio 2 dalies 1 punkto, 3 ir 5 dalių pakeitimas ir papildymas
+## 42 straipsnis. 60 straipsnio 2 dalies 1 punkto, 3 ir 5 dalių pakeitimas ir papildymas
 
 1. Pakeisti 60 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -852,7 +852,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 „5. Personalo valdymą administratorius organizuoja per savivaldybės administracijos personalo tarnybą ir savivaldybės įstaigų vadovus, o savivaldybės kontrolierius – per savivaldybės administracijos personalo tarnybą.“
 
-\#### 43 straipsnis. 62 straipsnio pakeitimas ir papildymas
+## 43 straipsnis. 62 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 62 straipsnio 1, 2, 3 dalis ir jas išdėstyti taip:
 
@@ -898,7 +898,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 12. Pasikeitus valstybės tarnautojo pareigybės statusui (pareigybę perkėlus iš 1 priedėlio į 2 priedėlį arba atvirkščiai), einančio šias pareigas asmens tarnybos santykiai tęsiasi – jis tampa atitinkamai karjeros valstybės tarnautoju, įstaigos vadovu ar politinio (asmeninio) pasitikėjimo valstybės tarnautoju. Politinio (asmeninio) pasitikėjimo valstybės tarnautojas, išrinktas savivaldybės tarybos nariu ir pagal šią dalį tapęs tos pačios savivaldybės administracijos karjeros valstybės tarnautoju ar viešojo administravimo įstaigos vadovu, ne vėliau kaip per 15 dienų nuo šio įstatymo įsigaliojimo dienos turi pareiškimu kreiptis į Vyriausiąją rinkimų komisiją dėl atsistatydinimo iš savivaldybės tarybos narių. Asmuo, per šį terminą Savivaldybių tarybų rinkimų įstatymo 86 straipsnio nustatyta tvarka nepateikęs pareiškimo, praranda valstybės tarnautojo statusą pagal Valstybės tarnybos įstatymo 56 straipsnio 1 dalies 4 punktą.“
 
-\#### 44 straipsnis. 68 straipsnio 1, 2, 4 dalių pakeitimas ir papildymas
+## 44 straipsnis. 68 straipsnio 1, 2, 4 dalių pakeitimas ir papildymas
 
 1. Pakeisti 68 straipsnio 1 dalį, 2 dalyje išbraukti žodžius „savo noru“, po žodžio „pareigų“ įrašyti žodžius „taip pat valstybės tarnautojai, kurių tarnybos pratęsimo laikas, kaip nurodyta šio straipsnio 1 dalyje, pasibaigė“ ir šias dalis išdėstyti taip:
 
@@ -914,7 +914,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 5) pasibaigia šio įstatymo 62 straipsnio 5 dalyje nurodytas įstaigos vadovo paskyrimo terminas, įskaitant tarnybos pratęsimo laiką tiems vadovams, kurių tarnyba buvo pratęsta.“
 
-\#### 45 straipsnis. 69 straipsnio 1, 2, 3, 4 ir 5 dalių pakeitimas
+## 45 straipsnis. 69 straipsnio 1, 2, 3, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 69 straipsnio 1, 2, 3 ir 4 dalis ir jas išdėstyti taip:
 
@@ -938,15 +938,11 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 M – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, laipsniškai mažinantis buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai viešojo administravimo valstybės tarnautojams – M (viešojo administravimo) ir paslaugų valstybės tarnautojams – M (paslaugų):
 
-\| Metai | 2001 | 2002 | | |
-
-\| --- | --- | --- | --- | --- |
-
-\| Pusmečiai | I | II | I | II |
-
-\| M (viešojo administravimo) | 0,2 | 0,4 | 0,65 | 0,9 |
-
-\| M (paslaugų) | 0 | 0,2 | 0,5 | 0,8 |
+| Metai | 2001 | 2002 |  |  |
+| --- | --- | --- | --- | --- |
+| Pusmečiai | I | II | I | II |
+| M (viešojo administravimo) | 0,2 | 0,4 | 0,65 | 0,9 |
+| M (paslaugų) | 0 | 0,2 | 0,5 | 0,8 |
 
 3. Valstybės tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo užmokestį, naujasis darbo užmokesčio dydis pasiekiamas laipsniškai: pereinamuoju laikotarpiu – iki 2006 m. sausio 1 d. kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę:
 
@@ -960,11 +956,9 @@ C – valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
 
 D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, laipsniškai didinantis buvusį darbo užmokestį. Pereinamuoju laikotarpiu nustatomi šie koeficientai:
 
-\| Metai | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 |
-
-\| --- | --- | --- | --- | --- | --- | --- |
-
-\| D | 0 | 0,1 | 0,3 | 0,5 | 0,7 | 0,9 |
+| Metai | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 |
+| --- | --- | --- | --- | --- | --- | --- |
+| D | 0 | 0,1 | 0,3 | 0,5 | 0,7 | 0,9 |
 
 4. Šio straipsnio 3 dalies nuostatos turi būti įgyvendintos ne vėliau kaip iki 2006 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio 2 ir 3 dalių nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki šio straipsnio 1 dalies 1 ar 2 punktuose nurodytų datų galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
 
@@ -972,13 +966,13 @@ D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, lai
 
 „1) pareiginės algos koeficiento vieneto vertė litais prilyginama Vyriausybės patvirtintam pareiginės algos koeficiento bazės dydžiui, kuris nustatomas nedidinant 2000 metų valstybės ir savivaldybių biudžetuose darbo užmokesčiui numatytų lėšų. Pareiginės algos dydis nustatomas atitinkamą pareiginės algos koeficientą padauginus iš koeficiento bazės dydžio, vadovaujantis šio įstatymo 32 straipsnio 2 dalies nuostatomis;“.
 
-\#### 46 straipsnis. 70 straipsnio 1 dalies pakeitimas
+## 46 straipsnis. 70 straipsnio 1 dalies pakeitimas
 
 Pakeisti 70 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Per 6 mėnesius nuo šio įstatymo įsigaliojimo valstybės tarnautojai turi nutraukti šio įstatymo 22 straipsnyje nurodytą su valstybės tarnyba nesuderinamą veiklą arba atsistatydinti iš pareigų valstybės tarnyboje. Tai netaikoma valstybės tarnautojams, kurie laisvu nuo tarnybos metu verčiasi medicinos praktika, dirba kultūros darbuotojo ar bendrojo lavinimo švietimo įstaigos pedagogodarbą ir gauna už tai atlyginimą. Jie privalo nutraukti šią veiklą ne vėliau kaip per 3 metus nuo Valstybės tarnybos įstatymo įsigaliojimo.“
 
-\#### 47 straipsnis. 76 straipsnio pakeitimas ir papildymas
+## 47 straipsnis. 76 straipsnio pakeitimas ir papildymas
 
 Pakeisti ir papildyti 76 straipsnį ir jį išdėstyti taip:
 
@@ -1008,7 +1002,7 @@ Pakeisti ir papildyti 76 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio įgyvendinimo tvarką atleidžiant valstybės tarnautojus iš valstybės tarnybos ir perkeliant juos į kitas pareigas nustato už valstybės tarnybą atsakingas ministras.“
 
-\#### 48 straipsnis. 78 straipsnio pakeitimas
+## 48 straipsnis. 78 straipsnio pakeitimas
 
 Pakeisti 78 straipsnį ir jį išdėstyti taip:
 
@@ -1042,113 +1036,68 @@ POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJŲ LYGIAI IR KATEGORIJOS
 
 1. LIETUVOS RESPUBLIKOS SEIMAS
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
-
-\| --- | --- | --- |
-
-\| Seimo Pirmininko sekretoriato vadovas | A | 27 |
-
-\| Seimo Pirmininko sekretoriato vadovo pavaduotojas | A | 26 |
-
-\| Seimo Pirmininko vyresnysis patarėjas | A | 26 |
-
-\| Seimo Pirmininko atstovas spaudai | A | 26 |
-
-\| Seimo Pirmininko patarėjas | A | 25 |
-
-\| Seimo Pirmininko padėjėjas | A | 24 |
-
-\| Seimo Pirmininko pavaduotojo padėjėjas | A | 21 |
-
-\| Seimo kanclerio padėjėjas | A | 21 |
-
-\| Seimo frakcijos seniūno referentas | A | 11-19 |
-
-\| Seimo nario padėjėjas-sekretorius | B | 18 |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
+| --- | --- | --- |
+| Seimo Pirmininko sekretoriato vadovas | A | 27 |
+| Seimo Pirmininko sekretoriato vadovo pavaduotojas | A | 26 |
+| Seimo Pirmininko vyresnysis patarėjas | A | 26 |
+| Seimo Pirmininko atstovas spaudai | A | 26 |
+| Seimo Pirmininko patarėjas | A | 25 |
+| Seimo Pirmininko padėjėjas | A | 24 |
+| Seimo Pirmininko pavaduotojo padėjėjas | A | 21 |
+| Seimo kanclerio padėjėjas | A | 21 |
+| Seimo frakcijos seniūno referentas | A | 11-19 |
+| Seimo nario padėjėjas-sekretorius | B | 18 |
 
 2. RESPUBLIKOS PREZIDENTO INSTITUCIJA
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
-
-\| --- | --- | --- |
-
-\| Prezidentūros sekretorius | A | 29 |
-
-\| Prezidento patarėjas | A | 29 |
-
-\| Prezidento atstovas specialiems pavedimams | A | 28 |
-
-\| Prezidento atstovas spaudai | A | 26 |
-
-\| Prezidento patarėjo pavaduotojas | A | 25-26 |
-
-\| Prezidento konsultantas | A | 25 |
-
-\| Prezidento referentas | A | 24 |
-
-\| Prezidento patarėjo padėjėjas | A | 23 |
-
-\| Prezidentūros sekretoriaus padėjėjas | A | 22 |
-
-\| Prezidento atstovo spaudai padėjėjas | A | 21 |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
+| --- | --- | --- |
+| Prezidentūros sekretorius | A | 29 |
+| Prezidento patarėjas | A | 29 |
+| Prezidento atstovas specialiems pavedimams | A | 28 |
+| Prezidento atstovas spaudai | A | 26 |
+| Prezidento patarėjo pavaduotojas | A | 25-26 |
+| Prezidento konsultantas | A | 25 |
+| Prezidento referentas | A | 24 |
+| Prezidento patarėjo padėjėjas | A | 23 |
+| Prezidentūros sekretoriaus padėjėjas | A | 22 |
+| Prezidento atstovo spaudai padėjėjas | A | 21 |
 
 3. MINISTRO PIRMININKO APARATAS
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
-
-\| --- | --- | --- |
-
-\| Vyriausybės kancleris | A | 30 |
-
-\| Vyriausybės kanclerio pavaduotojas | A | 28 |
-
-\| Ministro Pirmininko konsultantas | A | 28 |
-
-\| Ministro Pirmininko sekretoriato vedėjas | A | 27 |
-
-\| Ministro Pirmininko patarėjas | A | 26-27 |
-
-\| Ministro Pirmininko atstovas spaudai | A | 26 |
-
-\| Ministro Pirmininko padėjėjas | A | 25 |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |
+| --- | --- | --- |
+| Vyriausybės kancleris | A | 30 |
+| Vyriausybės kanclerio pavaduotojas | A | 28 |
+| Ministro Pirmininko konsultantas | A | 28 |
+| Ministro Pirmininko sekretoriato vedėjas | A | 27 |
+| Ministro Pirmininko patarėjas | A | 26-27 |
+| Ministro Pirmininko atstovas spaudai | A | 26 |
+| Ministro Pirmininko padėjėjas | A | 25 |
 
 4. MINISTERIJOS, APSKRITIES VIRŠININKO ADMINITRACIJA
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA | |
-
-\| --- | --- | --- | --- |
-
-\| Viceministras | A | 29 | |
-
-\| Viceministras-departamento prie ministerijos direktorius | A | 29 | |
-
-\| Ministro patarėjas | A | 25 | |
-
-\| Ministro atstovas spaudai | A | 24 | |
-
-\| Ministro referentas | A | 23 | |
-
-\| Ministro padėjėjas | A | 22 | |
-
-\| | | Apskrities teritorijoje daugiau nei 500 000 gyventojų | Apskrities teritorijoje mažiau nei 500 000 gyventojų |
-
-\| Apskrities viršininkas | A | 28 | 26-27 |
-
-\| Apskrities viršininko pavaduotojas | A | 27 | 25-26 |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |  |
+| --- | --- | --- | --- |
+| Viceministras | A | 29 |  |
+| Viceministras-departamento prie ministerijos direktorius | A | 29 |  |
+| Ministro patarėjas | A | 25 |  |
+| Ministro atstovas spaudai | A | 24 |  |
+| Ministro referentas | A | 23 |  |
+| Ministro padėjėjas | A | 22 |  |
+|  |  | Apskrities teritorijoje daugiau nei 500 000 gyventojų | Apskrities teritorijoje mažiau nei 500 000 gyventojų |
+| Apskrities viršininkas | A | 28 | 26-27 |
+| Apskrities viršininko pavaduotojas | A | 27 | 25-26 |
 
 5. SAVIVALDYBĖS
 
-\| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA | | | |
-
-\| --- | --- | --- | --- | --- | --- |
-
-\| Savivaldybės teritorijoje daugiau nei 500 000 gyventojų | Savivaldybės teritorijoje daugiau nei 100 000 gyventojų | Savivaldybės teritorijoje daugiau nei 50 000 gyventojų | Savivaldybės teritorijoje mažiau nei 50 000 gyventojų | | |
-
-\| Tarybos sekretorius | A | 24 | 23 | 22 | 20 |
-
-\| Mero patarėjas | A | 23 | 22 | 21 | 19 |
-
-\| Mero padėjėjas | B | 21 | 20 | 19 | 18 |
+| PAREIGYBĖS PAVADINIMAS | LYGIS | KATEGORIJA |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Savivaldybės teritorijoje daugiau nei 500 000 gyventojų | Savivaldybės teritorijoje daugiau nei 100 000 gyventojų | Savivaldybės teritorijoje daugiau nei 50 000 gyventojų | Savivaldybės teritorijoje mažiau nei 50 000 gyventojų |  |  |
+| Tarybos sekretorius | A | 24 | 23 | 22 | 20 |
+| Mero patarėjas | A | 23 | 22 | 21 | 19 |
+| Mero padėjėjas | B | 21 | 20 | 19 | 18 |
 
 ______________
 
@@ -1162,593 +1111,354 @@ VIEŠOJO ADMINISTRAVIMO – ĮSTAIGŲ VADOVŲ IR KARJEROS – VALSTYBĖS TARNAUT
 
 2. Seimo kanceliarijA
 
-\| pareigybės pavadinimas | kategorija |
-
-\| --- | --- |
-
-\| Kanceliarijos vadovas | 29 |
-
-\| Departamento direktorius | 28 |
-
-\| Skyriaus vedėjas | 26–27 |
-
-\| Komiteto, komisijos vyresnysis patarėjas | 26 |
-
-\| Komiteto, komisijos patarėjas | 25 |
-
-\| Komiteto, komisijos padėjėjas | 19 |
-
-\| Vyriausiasis konsultantas | 25–26 |
-
-\| Vyresnysis konsultantas | 24–25 |
-
-\| Konsultantas | 23–24 |
-
-\| Vyriausiasis specialistas | 25 |
-
-\| Vyresnysis specialistas | 23–24 |
-
-\| Specialistas | 18–22 |
+| pareigybės pavadinimas | kategorija |
+| --- | --- |
+| Kanceliarijos vadovas | 29 |
+| Departamento direktorius | 28 |
+| Skyriaus vedėjas | 26–27 |
+| Komiteto, komisijos vyresnysis patarėjas | 26 |
+| Komiteto, komisijos patarėjas | 25 |
+| Komiteto, komisijos padėjėjas | 19 |
+| Vyriausiasis konsultantas | 25–26 |
+| Vyresnysis konsultantas | 24–25 |
+| Konsultantas | 23–24 |
+| Vyriausiasis specialistas | 25 |
+| Vyresnysis specialistas | 23–24 |
+| Specialistas | 18–22 |
 
 2. PrezidentŪRA
 
-\| pareigybės pavadinimas | kategorija |
-
-\| --- | --- |
-
-\| Kanceliarijos vadovas | 27 |
-
-\| Skyriaus vedėjas | 25–26 |
-
-\| Vyriausiasis konsultantas | 23–24 |
-
-\| Vyresnysis konsultantas | 22 |
-
-\| Konsultantas | 21 |
+| pareigybės pavadinimas | kategorija |
+| --- | --- |
+| Kanceliarijos vadovas | 27 |
+| Skyriaus vedėjas | 25–26 |
+| Vyriausiasis konsultantas | 23–24 |
+| Vyresnysis konsultantas | 22 |
+| Konsultantas | 21 |
 
 3. VYRIAUSYBĖS KANCELIARIJA
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Vyriausybės sekretorius | 30 |
-
-\| Departamento direktorius | 27–28 |
-
-\| Skyriaus vedėjas | 26–27 |
-
-\| Patarėjas | 25 |
-
-\| Vyriausiasis specialistas | 25 |
-
-\| Vyresnysis specialistas | 22–24 |
-
-\| Specialistas | 18 –22 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Vyriausybės sekretorius | 30 |
+| Departamento direktorius | 27–28 |
+| Skyriaus vedėjas | 26–27 |
+| Patarėjas | 25 |
+| Vyriausiasis specialistas | 25 |
+| Vyresnysis specialistas | 22–24 |
+| Specialistas | 18 –22 |
 
 4. VALSTYBĖS KONTROLĖ
 
-\| PareigybėS PAVADINIMAS | Kategorija |
-
-\| --- | --- |
-
-\| Skyriaus viršininkas | 27 |
-
-\| Vyriausiasis kontrolierius | 25–26 |
-
-\| Vyresnysis kontrolierius, vyresnysis kvotėjas | 22–24 |
-
-\| Kontrolierius, kvotėjas | 20–21 |
-
-\| Jaunesnysis kontrolierius | 18–19 |
+| PareigybėS PAVADINIMAS | Kategorija |
+| --- | --- |
+| Skyriaus viršininkas | 27 |
+| Vyriausiasis kontrolierius | 25–26 |
+| Vyresnysis kontrolierius, vyresnysis kvotėjas | 22–24 |
+| Kontrolierius, kvotėjas | 20–21 |
+| Jaunesnysis kontrolierius | 18–19 |
 
 5. KONSTITUCINIS TEISMAS
 
-\| PareigybėS PAVADINIMAS | Kategorija |
-
-\| --- | --- |
-
-\| Kancleris | 28 |
-
-\| Teismo konsultantas | 27 |
-
-\| Patarėjas | 25 |
-
-\| Skyriaus vedėjas | 25–26 |
-
-\| Teisėjo padėjėjas | 25–26 |
-
-\| Vyresnysis specialistas | 22–24 |
-
-\| Specialistas | 19–21 |
-
-\| Teisėjo referentas | 18–20 |
+| PareigybėS PAVADINIMAS | Kategorija |
+| --- | --- |
+| Kancleris | 28 |
+| Teismo konsultantas | 27 |
+| Patarėjas | 25 |
+| Skyriaus vedėjas | 25–26 |
+| Teisėjo padėjėjas | 25–26 |
+| Vyresnysis specialistas | 22–24 |
+| Specialistas | 19–21 |
+| Teisėjo referentas | 18–20 |
 
 6. LIETUVOS AUKŠČIAUSIASIS TEISMAS
 
-\| PareigybėS PAVADINIMAS | Kategorija |
-
-\| --- | --- |
-
-\| Kancleris | 28 |
-
-\| Teismo pirmininko patarėjas | 27 |
-
-\| Teismo pirmininko padėjėjas | 26 |
-
-\| Skyriaus pirmininko patarėjas | 26 |
-
-\| Teisėjo padėjėjas | 22 |
-
-\| Vyriausiasis specialistas | 21–23 |
-
-\| Skyriaus vedėjas | 22–25 |
-
-\| Vyresnysis specialistas | 19–20 |
-
-\| Specialistas | 16–18 |
-
-\| Teismo posėdžio sekretorius | 15 |
+| PareigybėS PAVADINIMAS | Kategorija |
+| --- | --- |
+| Kancleris | 28 |
+| Teismo pirmininko patarėjas | 27 |
+| Teismo pirmininko padėjėjas | 26 |
+| Skyriaus pirmininko patarėjas | 26 |
+| Teisėjo padėjėjas | 22 |
+| Vyriausiasis specialistas | 21–23 |
+| Skyriaus vedėjas | 22–25 |
+| Vyresnysis specialistas | 19–20 |
+| Specialistas | 16–18 |
+| Teismo posėdžio sekretorius | 15 |
 
 7. KITI TEISMAI
 
-\| PAREIGYBĖS PAVADINIMAS | KATEGORIJA | | |
-
-\| --- | --- | --- | --- |
-
-\| Apeliacinis teismas, Aukštesnysis administracinis teismas | Apygardos teismas, Apygardos administracinis teismas | Apylinkės teismas | |
-
-\| Skyriaus vedėjas | 21–23 | 20–22 | – |
-
-\| Vyriausiasis specialistas | 19–21 | 18–20 | 17–19 |
-
-\| Vyresnysis specialistas | 17–19 | 16–18 | 14–16 |
-
-\| Specialistas | 15–18 | 14–17 | 12–15 |
+| PAREIGYBĖS PAVADINIMAS | KATEGORIJA |  |  |
+| --- | --- | --- | --- |
+| Apeliacinis teismas, Aukštesnysis administracinis teismas | Apygardos teismas, Apygardos administracinis teismas | Apylinkės teismas |  |
+| Skyriaus vedėjas | 21–23 | 20–22 | – |
+| Vyriausiasis specialistas | 19–21 | 18–20 | 17–19 |
+| Vyresnysis specialistas | 17–19 | 16–18 | 14–16 |
+| Specialistas | 15–18 | 14–17 | 12–15 |
 
 8. TEISMO ANtSTOLIŲ KONTORA
 
-\| PareigybėS PAVADINIMAS | Kategorija |
-
-\| --- | --- |
-
-\| Vyresnysis teismo antstolis | 18–21 |
-
-\| Teismo antstolis | 14–17 |
+| PareigybėS PAVADINIMAS | Kategorija |
+| --- | --- |
+| Vyresnysis teismo antstolis | 18–21 |
+| Teismo antstolis | 14–17 |
 
 9. prokuratūrA
 
-\| | Kategorija | | |
-
-\| --- | --- | --- | --- |
-
-\| PareigybėS PAVADINIMAS | Generalinė prokuratūra prie Lietuvos Aukščiausiojo Teismo | Apygardos prokuratūra prie apygardų teismų | Apylinkės prokuratūra prie apylinkių teismų |
-
-\| Skyriaus viršininkas, vedėjas | 22–26 | 20–22 | 18–20 |
-
-\| Vyriausiasis specialistas | 21–25 | 18–20 | 16–18 |
-
-\| Vyresnysis specialistas | 19–23 | 16–18 | 14–16 |
-
-\| Specialistas | 15–18 | 14–17 | 12–15 |
+|  | Kategorija |  |  |
+| --- | --- | --- | --- |
+| PareigybėS PAVADINIMAS | Generalinė prokuratūra prie Lietuvos Aukščiausiojo Teismo | Apygardos prokuratūra prie apygardų teismų | Apylinkės prokuratūra prie apylinkių teismų |
+| Skyriaus viršininkas, vedėjas | 22–26 | 20–22 | 18–20 |
+| Vyriausiasis specialistas | 21–25 | 18–20 | 16–18 |
+| Vyresnysis specialistas | 19–23 | 16–18 | 14–16 |
+| Specialistas | 15–18 | 14–17 | 12–15 |
 
 10. MINISTERIJOS
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Ministerijos sekretorius | 28–29 |
-
-\| Ministerijos departamento direktorius | 26–27 |
-
-\| Skyriaus vedėjas | 24–26 |
-
-\| Specialusis atašė | 23–25 |
-
-\| Vyriausiasis specialistas | 22–24 |
-
-\| Vyresnysis specialistas | 20–22 |
-
-\| Specialistas | 18–20 |
-
-\| Jaunesnysis specialistas | 15–17 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Ministerijos sekretorius | 28–29 |
+| Ministerijos departamento direktorius | 26–27 |
+| Skyriaus vedėjas | 24–26 |
+| Specialusis atašė | 23–25 |
+| Vyriausiasis specialistas | 22–24 |
+| Vyresnysis specialistas | 20–22 |
+| Specialistas | 18–20 |
+| Jaunesnysis specialistas | 15–17 |
 
 11. DIPLOMATINĖ TARNYBA
 
-\| PAREIGYBĖS PAVADINiMAS | KATEGORIJA |
-
-\| --- | --- |
-
-\| Ambasadorius | 29–30 |
-
-\| Laikinasis reikalų patikėtinis, įgaliotasis ministras | 26–28 |
-
-\| Ambasadorius ypatingiems pavedimams, Diplomatinės tarnybos generalinis inspektorius | 25–27 |
-
-\| Ministras patarėjas, generalinis konsulas | 24–26 |
-
-\| Departamento patarėjas | 23–26 |
-
-\| Patarėjas, inspektorius | 22–25 |
-
-\| Skyriaus patarėjas | 22–25 |
-
-\| Pirmasis sekretorius, konsulas | 22–24 |
-
-\| Antrasis sekretorius, vicekonsulas | 20–22 |
-
-\| Trečiasis sekretorius | 18–20 |
-
-\| Atašė | 15–17 |
+| PAREIGYBĖS PAVADINiMAS | KATEGORIJA |
+| --- | --- |
+| Ambasadorius | 29–30 |
+| Laikinasis reikalų patikėtinis, įgaliotasis ministras | 26–28 |
+| Ambasadorius ypatingiems pavedimams, Diplomatinės tarnybos generalinis inspektorius | 25–27 |
+| Ministras patarėjas, generalinis konsulas | 24–26 |
+| Departamento patarėjas | 23–26 |
+| Patarėjas, inspektorius | 22–25 |
+| Skyriaus patarėjas | 22–25 |
+| Pirmasis sekretorius, konsulas | 22–24 |
+| Antrasis sekretorius, vicekonsulas | 20–22 |
+| Trečiasis sekretorius | 18–20 |
+| Atašė | 15–17 |
 
 12. Valstybės saugumo departamentAS
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Specialios paskirties įstaigos vadovas | 29 |
-
-\| Valdybos viršininkas | 25–28 |
-
-\| Generalinio direktoriaus patarėjas | 26 |
-
-\| Departamento patarėjas | 25 |
-
-\| Padalinio viršininkas | 23–26 |
-
-\| Vyriausiasis specialistas | 20–25 |
-
-\| Vyresnysis specialistas | 18–23 |
-
-\| Specialistas | 15–21 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Specialios paskirties įstaigos vadovas | 29 |
+| Valdybos viršininkas | 25–28 |
+| Generalinio direktoriaus patarėjas | 26 |
+| Departamento patarėjas | 25 |
+| Padalinio viršininkas | 23–26 |
+| Vyriausiasis specialistas | 20–25 |
+| Vyresnysis specialistas | 18–23 |
+| Specialistas | 15–21 |
 
 13. SPECIALIŲJŲ TYRIMŲ TARNYBA
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Valdybos viršininkas, skyriaus viršininkas | 25–28 |
-
-\| Poskyrio viršininkas, specialusis agentas | 24–27 |
-
-\| Specialusis agentas patarėjas | 22–25 |
-
-\| Ypatingai svarbių bylų tardytojas | 22–25 |
-
-\| Vyriausiasis specialistas | 22–25 |
-
-\| Vyresnysis agentas | 18–23 |
-
-\| Vyresnysis tardytojas | 18–23 |
-
-\| Vyresnysis specialistas | 18–23 |
-
-\| Agentas | 17–22 |
-
-\| Tardytojas | 17–22 |
-
-\| Specialistas | 17–22 |
-
-\| Jaunesnysis agentas | 10–16 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Valdybos viršininkas, skyriaus viršininkas | 25–28 |
+| Poskyrio viršininkas, specialusis agentas | 24–27 |
+| Specialusis agentas patarėjas | 22–25 |
+| Ypatingai svarbių bylų tardytojas | 22–25 |
+| Vyriausiasis specialistas | 22–25 |
+| Vyresnysis agentas | 18–23 |
+| Vyresnysis tardytojas | 18–23 |
+| Vyresnysis specialistas | 18–23 |
+| Agentas | 17–22 |
+| Tardytojas | 17–22 |
+| Specialistas | 17–22 |
+| Jaunesnysis agentas | 10–16 |
 
 14. sEIMO KONTROLIERIŲ ĮstaigA
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Kancleris | 27 |
-
-\| Vyresnysis patarėjas | 26 |
-
-\| Patarėjas | 25 |
-
-\| Skyriaus vedėjas | 24 |
-
-\| Vyresnysis specialistas | 20–23 |
-
-\| Specialistas | 18–19 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Kancleris | 27 |
+| Vyresnysis patarėjas | 26 |
+| Patarėjas | 25 |
+| Skyriaus vedėjas | 24 |
+| Vyresnysis specialistas | 20–23 |
+| Specialistas | 18–19 |
 
 16. VERTYBINIŲ POPIERIŲ KOMISIJA, KONKURENCIJOS TARYBA, VALSTYBINĖ KAINŲ IR ENERGETIKOS KONTROLĖS KOMISIJA
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Skyriaus vedėjas | 24–26 |
-
-\| Vyriausiasis specialistas | 22–24 |
-
-\| Vyresnysis specialistas | 20–22 |
-
-\| Specialistas | 18–20 |
-
-\| Jaunesnysis specialistas | 15–17 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Skyriaus vedėjas | 24–26 |
+| Vyriausiasis specialistas | 22–24 |
+| Vyresnysis specialistas | 20–22 |
+| Specialistas | 18–20 |
+| Jaunesnysis specialistas | 15–17 |
 
 17. INSTITUCIJOS, KOMISIJOS IR TARYBOS, ATSKAITINGOS SEIMUI AR RESPUBLIKOS PREZIDENTUI
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Skyriaus vedėjas | 20–24 |
-
-\| Vyriausiasis specialistas | 18–21 |
-
-\| Vyresnysis specialistas | 16–19 |
-
-\| Specialistas | 14–17 |
-
-\| Jaunesnysis specialistas | 10–13 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Skyriaus vedėjas | 20–24 |
+| Vyriausiasis specialistas | 18–21 |
+| Vyresnysis specialistas | 16–19 |
+| Specialistas | 14–17 |
+| Jaunesnysis specialistas | 10–13 |
 
 18. VYRIAUSYBĖS ĮSTEIGTOS VALSTYBINĖS (NUOLATINĖS) KOMISIJOS, VYRIAUSYBĖS ĮSTAIGOS
 
 (išskyrus savarankiškų teritorinių padalinių pareigybes)
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Įstaigos direktorius | 25–28 |
-
-\| Skyriaus vedėjas | 20–25 |
-
-\| Vyriausiasis specialistas | 18–23 |
-
-\| Vyresnysis specialistas | 16–21 |
-
-\| Specialistas | 14–19 |
-
-\| Jaunesnysis specialistas | 10–14 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Įstaigos direktorius | 25–28 |
+| Skyriaus vedėjas | 20–25 |
+| Vyriausiasis specialistas | 18–23 |
+| Vyresnysis specialistas | 16–21 |
+| Specialistas | 14–19 |
+| Jaunesnysis specialistas | 10–14 |
 
 19. DEPARTAMENTAI IR KITOS ĮSTAIGOS PRIE MINISTERIJŲ, MINISTERIJOMS ATSKAITINGOS ĮSTAIGOS, LIETUVOS KARIUOMENĖ
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Departamento direktorius, įstaigos vadovas | 25–28 |
-
-\| Įstaigos departamento direktorius, tarnybos viršininkas | 24–25 |
-
-\| Skyriaus vedėjas (viršininkas) | 21–25 |
-
-\| Vyriausiasis specialistas | 19–23 |
-
-\| Vyresnysis specialistas | 17–20 |
-
-\| Specialistas | 13–17 |
-
-\| Jaunesnysis specialistas | 10–14 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Departamento direktorius, įstaigos vadovas | 25–28 |
+| Įstaigos departamento direktorius, tarnybos viršininkas | 24–25 |
+| Skyriaus vedėjas (viršininkas) | 21–25 |
+| Vyriausiasis specialistas | 19–23 |
+| Vyresnysis specialistas | 17–20 |
+| Specialistas | 13–17 |
+| Jaunesnysis specialistas | 10–14 |
 
 20. REVIZIJŲ DEPARTAMENTAS, INSPEKCIJOS
 
-\| | Kategorija | | |
-
-\| --- | --- | --- | --- |
-
-\| PareigybėS PAVADINIMAS | Revizijų departamentas, Valstybinė mokesčių inspekcija | Valstybinė darbo inspekcija, Valstybinė ne maisto produktų inspekcija | Kitos inspekcijos |
-
-\| Departamento direktorius, inspekcijos viršininkas | 29 | 27–28 | 23–26 |
-
-\| Teritorinio padalinio viršininkas | 27–28 | 26–27 | 22–23 |
-
-\| Skyriaus viršininkas | 23–26 | 23–25 | 20–22 |
-
-\| Vyriausiasis revizorius, vyriausiasis inspektorius | 23–24 | 22–23 | 18–19 |
-
-\| Vyresnysis revizorius, vyresnysis inspektorius | 22–23 | 20–22 | 16–18 |
-
-\| Revizorius, inspektorius | 18–21 | 17–19 | 14–16 |
-
-\| Jaunesnysis revizorius, jaunesnysis inspektorius | 15–17 | 13–16 | 10–13 |
+|  | Kategorija |  |  |
+| --- | --- | --- | --- |
+| PareigybėS PAVADINIMAS | Revizijų departamentas, Valstybinė mokesčių inspekcija | Valstybinė darbo inspekcija, Valstybinė ne maisto produktų inspekcija | Kitos inspekcijos |
+| Departamento direktorius, inspekcijos viršininkas | 29 | 27–28 | 23–26 |
+| Teritorinio padalinio viršininkas | 27–28 | 26–27 | 22–23 |
+| Skyriaus viršininkas | 23–26 | 23–25 | 20–22 |
+| Vyriausiasis revizorius, vyriausiasis inspektorius | 23–24 | 22–23 | 18–19 |
+| Vyresnysis revizorius, vyresnysis inspektorius | 22–23 | 20–22 | 16–18 |
+| Revizorius, inspektorius | 18–21 | 17–19 | 14–16 |
+| Jaunesnysis revizorius, jaunesnysis inspektorius | 15–17 | 13–16 | 10–13 |
 
 21. ĮSTAIGOS, PAVALDŽIOS MINISTERIJOMS, VYRIAUSYBĖS ĮSTAIGOMS AR ĮSTAIGOMS PRIE MINISTERIJŲ
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Įstaigos vadovas | 22–25 |
-
-\| Skyriaus vedėjas | 16–20 |
-
-\| Vyriausiasis specialistas | 14–17 |
-
-\| Vyresnysis specialistas | 12–15 |
-
-\| Specialistas | 10–13 |
-
-\| Jaunesnysis specialistas | 9–12 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Įstaigos vadovas | 22–25 |
+| Skyriaus vedėjas | 16–20 |
+| Vyriausiasis specialistas | 14–17 |
+| Vyresnysis specialistas | 12–15 |
+| Specialistas | 10–13 |
+| Jaunesnysis specialistas | 9–12 |
 
 22. Policijos DEPARTAMENTAS, policijos įstaigos BEI KITOS TARNYBOS PRIE VIDAUS REIKALŲ MINISTERIJOS
 
 (išskyrus pareigybes, nurodytas šio priedo 23 ir 24 lentelėse)
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Generalinis komisaras | 29 |
-
-\| Vyriausiasis komisaras | 25–28 |
-
-\| Vyresnysis komisaras | 22–27 |
-
-\| Komisaras | 18–26 |
-
-\| Komisaras inspektorius | 17–24 |
-
-\| Vyresnysis inspektorius | 16–23 |
-
-\| Inspektorius | 16–22 |
-
-\| Jaunesnysis inspektorius | 15–21 |
-
-\| Viršila | 14–20 |
-
-\| Vyresnysis policininkas | 13–18 |
-
-\| Policininkas | 12–17 |
-
-\| Ypač svarbių bylų vyresnysis tardytojas | 19–26 |
-
-\| Vyresnysis tardytojas | 18–24 |
-
-\| Tardytojas | 17–22 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Generalinis komisaras | 29 |
+| Vyriausiasis komisaras | 25–28 |
+| Vyresnysis komisaras | 22–27 |
+| Komisaras | 18–26 |
+| Komisaras inspektorius | 17–24 |
+| Vyresnysis inspektorius | 16–23 |
+| Inspektorius | 16–22 |
+| Jaunesnysis inspektorius | 15–21 |
+| Viršila | 14–20 |
+| Vyresnysis policininkas | 13–18 |
+| Policininkas | 12–17 |
+| Ypač svarbių bylų vyresnysis tardytojas | 19–26 |
+| Vyresnysis tardytojas | 18–24 |
+| Tardytojas | 17–22 |
 
 23. Pasienio policijos DEPARTAMENTO PRIE VIDAUS REIKALŲ MINISTERIJOS PADALINIAI
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Rinktinės vadas | 24–26 |
-
-\| Bataliono vadas, skyriaus viršininkas | 20–24 |
-
-\| Užkardos vadas | 19–23 |
-
-\| Būrio, laivo vadas, punkto viršininkas | 17–22 |
-
-\| Posto viršininkas, vyresnysis specialistas | 16–21 |
-
-\| Viršila, specialistas | 15–20 |
-
-\| Grandies vadas | 14–18 |
-
-\| Vyresnysis pasienietis | 13–17 |
-
-\| Pasienietis | 12–15 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Rinktinės vadas | 24–26 |
+| Bataliono vadas, skyriaus viršininkas | 20–24 |
+| Užkardos vadas | 19–23 |
+| Būrio, laivo vadas, punkto viršininkas | 17–22 |
+| Posto viršininkas, vyresnysis specialistas | 16–21 |
+| Viršila, specialistas | 15–20 |
+| Grandies vadas | 14–18 |
+| Vyresnysis pasienietis | 13–17 |
+| Pasienietis | 12–15 |
 
 24. Priešgaisrinės apsaugos ir gelbėjimo departamentUI prie VIDAUS REIKALŲ MINISTERIJOS pavaldŽIOS įstaigOS
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Tarnybos viršininkas | 22–25 |
-
-\| Inspekcijos viršininkas | 21–24 |
-
-\| Komandos viršininkas | 19–23 |
-
-\| Vyriausiasis specialistas | 18–22 |
-
-\| Vyresnysis specialistas | 17–21 |
-
-\| Specialistas | 16–20 |
-
-\| Jaunesnysis inspektorius | 15–19 |
-
-\| Skyrininkas | 14–18 |
-
-\| Ugniagesys gelbėtojas | 12–17 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Tarnybos viršininkas | 22–25 |
+| Inspekcijos viršininkas | 21–24 |
+| Komandos viršininkas | 19–23 |
+| Vyriausiasis specialistas | 18–22 |
+| Vyresnysis specialistas | 17–21 |
+| Specialistas | 16–20 |
+| Jaunesnysis inspektorius | 15–19 |
+| Skyrininkas | 14–18 |
+| Ugniagesys gelbėtojas | 12–17 |
 
 25. kalėjimų departamentUI prie teisingumo ministerijos PAVALDŽIOS įstaigOS
 
-\| Pareigybės pavadinimas | Kategorija |
-
-\| --- | --- |
-
-\| Direktorius | 24–26 |
-
-\| Skyriaus viršininkas | 21–24 |
-
-\| Direktoriaus budintysis padėjėjas | 20–23 |
-
-\| Būrio viršininkas, vyresnysis inspektorius | 19–22 |
-
-\| Vyresnysis specialistas | 17–21 |
-
-\| Specialistas, sargybos viršininkas | 16–20 |
-
-\| Korpuso vyresnysis | 15–19 |
-
-\| Vyresnysis prižiūrėtojas | 14–17 |
-
-\| Prižiūrėtojas | 12–16 |
+| Pareigybės pavadinimas | Kategorija |
+| --- | --- |
+| Direktorius | 24–26 |
+| Skyriaus viršininkas | 21–24 |
+| Direktoriaus budintysis padėjėjas | 20–23 |
+| Būrio viršininkas, vyresnysis inspektorius | 19–22 |
+| Vyresnysis specialistas | 17–21 |
+| Specialistas, sargybos viršininkas | 16–20 |
+| Korpuso vyresnysis | 15–19 |
+| Vyresnysis prižiūrėtojas | 14–17 |
+| Prižiūrėtojas | 12–16 |
 
 26. APSKRITIES VIRŠININKO ADMINISTRACIJA
 
-\| PAREIGYBĖS PAVADINIMAS | KATEGORIJA | |
-
-\| --- | --- | --- |
-
-\| Apskrities teritorijoje daugiau nei 500 000 gyventojų | Apskrities teritorijoje mažiau nei 500 000 gyventojų | |
-
-\| Apskrities sekretorius | 26 | 25 |
-
-\| Departamento direktorius | 24–25 | 23–24 |
-
-\| Inspekcijos viršininkas | 24 | 23 |
-
-\| Tarnybos viršininkas | 22–23 | 21–22 |
-
-\| Skyriaus vedėjas | 22–23 | 21–22 |
-
-\| Apskrities viršininko patarėjas | 22 | 21 |
-
-\| Apskrities viršininko atstovas spaudai | 22 | 21 |
-
-\| Vyriausiasis specialistas | 19–22 | 18–21 |
-
-\| Vyresnysis specialistas | 18–21 | 17–20 |
-
-\| Specialistas | 17–20 | 16–19 |
-
-\| Jaunesnysis specialistas | 10–16 | 10–15 |
+| PAREIGYBĖS PAVADINIMAS | KATEGORIJA |  |
+| --- | --- | --- |
+| Apskrities teritorijoje daugiau nei 500 000 gyventojų | Apskrities teritorijoje mažiau nei 500 000 gyventojų |  |
+| Apskrities sekretorius | 26 | 25 |
+| Departamento direktorius | 24–25 | 23–24 |
+| Inspekcijos viršininkas | 24 | 23 |
+| Tarnybos viršininkas | 22–23 | 21–22 |
+| Skyriaus vedėjas | 22–23 | 21–22 |
+| Apskrities viršininko patarėjas | 22 | 21 |
+| Apskrities viršininko atstovas spaudai | 22 | 21 |
+| Vyriausiasis specialistas | 19–22 | 18–21 |
+| Vyresnysis specialistas | 18–21 | 17–20 |
+| Specialistas | 17–20 | 16–19 |
+| Jaunesnysis specialistas | 10–16 | 10–15 |
 
 27. VYRIAUSYBĖS ATSTOVO TARNYBA
 
-\| PAREIGYBĖS PAVADINIMAS | KATEGORIJA | |
-
-\| --- | --- | --- |
-
-\| Apskrityje 7 ir daugiau savivaldybių | Apskrityje iki 7 savivaldybių | |
-
-\| Vyriausybės atstovas | 27 | 26 |
-
-\| Vyriausiasis specialistas | 24–25 | 23–24 |
-
-\| Vyresnysis specialistas | 22–23 | 21–22 |
-
-\| Specialistas | 20–21 | 19–20 |
+| PAREIGYBĖS PAVADINIMAS | KATEGORIJA |  |
+| --- | --- | --- |
+| Apskrityje 7 ir daugiau savivaldybių | Apskrityje iki 7 savivaldybių |  |
+| Vyriausybės atstovas | 27 | 26 |
+| Vyriausiasis specialistas | 24–25 | 23–24 |
+| Vyresnysis specialistas | 22–23 | 21–22 |
+| Specialistas | 20–21 | 19–20 |
 
 28. SavivaldybėS
 
-\| PAREIGYBĖS PAVADINIMAS | Kategorija | | | |
-
-\| --- | --- | --- | --- | --- |
-
-\| Savivaldybės teritorijoje daugiau nei 500 000 gyventojų | Savivaldybės teritorijoje daugiau nei 100 000 gyventojų | Savivaldybės teritorijoje daugiau nei 50 000 gyventojų | Savivaldybės teritorijoje mažiau nei 50 000 gyventojų | |
-
-\| Administratorius | 26 | 25 | 24 | 23 |
-
-\| Kontrolierius | 26 | 25 | 24 | 23 |
-
-\| Departamento direktorius | 23–25 | 23–24 | – | – |
-
-\| Skyriaus vedėjas | 18–24 | 17–23 | 16–22 | 15–21 |
-
-\| Vyriausiasis specialistas | 17–22 | 16–21 | 15–20 | 14–19 |
-
-\| Vyresnysis specialistas | 15–21 | 14–20 | 13–19 | 12–18 |
-
-\| Specialistas | 13–19 | 13–18 | 12–17 | 12–16 |
-
-\| Jaunesnysis specialistas | 9–14 | 9–13 | 9–12 | 9–11 |
-
-\| Vyriausiasis inspektorius | 17–22 | 16–21 | 15–20 | 14–19 |
-
-\| Vyresnysis inspektorius | 15–21 | 14–20 | 13–19 | 12–18 |
-
-\| Inspektorius | 14–20 | 13–18 | 13–17 | 13–16 |
-
-\| Seniūnas | 10–20 | 9–18 | 9–17 | 9–16 |
+| PAREIGYBĖS PAVADINIMAS | Kategorija |  |  |  |
+| --- | --- | --- | --- | --- |
+| Savivaldybės teritorijoje daugiau nei 500 000 gyventojų | Savivaldybės teritorijoje daugiau nei 100 000 gyventojų | Savivaldybės teritorijoje daugiau nei 50 000 gyventojų | Savivaldybės teritorijoje mažiau nei 50 000 gyventojų |  |
+| Administratorius | 26 | 25 | 24 | 23 |
+| Kontrolierius | 26 | 25 | 24 | 23 |
+| Departamento direktorius | 23–25 | 23–24 | – | – |
+| Skyriaus vedėjas | 18–24 | 17–23 | 16–22 | 15–21 |
+| Vyriausiasis specialistas | 17–22 | 16–21 | 15–20 | 14–19 |
+| Vyresnysis specialistas | 15–21 | 14–20 | 13–19 | 12–18 |
+| Specialistas | 13–19 | 13–18 | 12–17 | 12–16 |
+| Jaunesnysis specialistas | 9–14 | 9–13 | 9–12 | 9–11 |
+| Vyriausiasis inspektorius | 17–22 | 16–21 | 15–20 | 14–19 |
+| Vyresnysis inspektorius | 15–21 | 14–20 | 13–19 | 12–18 |
+| Inspektorius | 14–20 | 13–18 | 13–17 | 13–16 |
+| Seniūnas | 10–20 | 9–18 | 9–17 | 9–16 |
 
 ______________
 
@@ -1762,68 +1472,37 @@ VIEŠOJO ADMINISTRAVIMO IR PASLAUGŲ VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORI
 
 Minimalios mėnesinės algos dydžiais
 
-\| PAREIGYBIŲ KATEGORIJOS | PAREIGINIŲ ALGŲ koeficientai |
-
-\| --- | --- |
-
-\| 1 | 1 |
-
-\| 2 | 1,11 |
-
-\| 3 | 1,23 |
-
-\| 4 | 1,35 |
-
-\| 5 | 1,48 |
-
-\| 6 | 1,61 |
-
-\| 7 | 1,73 |
-
-\| 8 | 1,86 |
-
-\| 9 | 2,01 |
-
-\| 10 | 2,17 |
-
-\| 11 | 2,34 |
-
-\| 12 | 2,53 |
-
-\| 13 | 2,73 |
-
-\| 14 | 2,95 |
-
-\| 15 | 3,19 |
-
-\| 16 | 3,46 |
-
-\| 17 | 3,75 |
-
-\| 18 | 4,06 |
-
-\| 19 | 4,41 |
-
-\| 20 | 4,77 |
-
-\| 21 | 5,19 |
-
-\| 22 | 5,64 |
-
-\| 23 | 6,13 |
-
-\| 24 | 6,66 |
-
-\| 25 | 7,24 |
-
-\| 26 | 7,86 |
-
-\| 27 | 8,55 |
-
-\| 28 | 9,32 |
-
-\| 29 | 10,09 |
-
-\| 30 | 11 |
+| PAREIGYBIŲ KATEGORIJOS | PAREIGINIŲ ALGŲ koeficientai |
+| --- | --- |
+| 1 | 1 |
+| 2 | 1,11 |
+| 3 | 1,23 |
+| 4 | 1,35 |
+| 5 | 1,48 |
+| 6 | 1,61 |
+| 7 | 1,73 |
+| 8 | 1,86 |
+| 9 | 2,01 |
+| 10 | 2,17 |
+| 11 | 2,34 |
+| 12 | 2,53 |
+| 13 | 2,73 |
+| 14 | 2,95 |
+| 15 | 3,19 |
+| 16 | 3,46 |
+| 17 | 3,75 |
+| 18 | 4,06 |
+| 19 | 4,41 |
+| 20 | 4,77 |
+| 21 | 5,19 |
+| 22 | 5,64 |
+| 23 | 6,13 |
+| 24 | 6,66 |
+| 25 | 7,24 |
+| 26 | 7,86 |
+| 27 | 8,55 |
+| 28 | 9,32 |
+| 29 | 10,09 |
+| 30 | 11 |
 
 ______________

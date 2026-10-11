@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/55b659f24cde11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.55B659F24CDE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, 40 straipsnių, aštuntojo skirsnio ir priedo pakeitimo įstatymas
@@ -26,13 +26,13 @@ VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO NR. I-657 1, 2, 40 STRAIPSNIŲ, AŠTUNTOJO
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „4. Tais atvejais, kai taikomas Lietuvos Respublikos mokėjimų įstatymas, vietoj šio įstatymo 37 straipsnio 1 dalyje nustatytų informacijos reikalavimų, išskyrus šio įstatymo 37 straipsnio 1 dalies 10–14, 16, 19 ir 23 punktus, taikomos Mokėjimų įstatymo 13 ir 20 straipsnių nuostatos.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -48,7 +48,7 @@ Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
 
 4. Pripažinti netekusia galios 2 straipsnio 26 dalį.
 
-\#### 3 straipsnis. Aštuntojo skirsnio pakeitimas
+## 3 straipsnis. Aštuntojo skirsnio pakeitimas
 
 Pakeisti aštuntąjį skirsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti aštuntąjį skirsnį ir jį išdėstyti taip:
 
 NUOTOLINIŲ SUTARČIŲ YPATUMAI
 
-\#### 36 straipsnis. Taikymo sritis ir draudimas atsisakyti vartotojų teisių
+## 36 straipsnis. Taikymo sritis ir draudimas atsisakyti vartotojų teisių
 
 1. Šio skirsnio nuostatos taikomos santykiams, kylantiems dėl finansinių paslaugų teikėjo ir vartotojo nuotolinių sutarčių.
 
@@ -72,7 +72,7 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 
 7. Jeigu kituose įstatymuose, kuriais nėra įgyvendinami Europos Sąjungos teisės aktai, nustatytos kitokios, negu nustatyta šiame įstatyme, nuotolines sutartis reglamentuojančios normos, taikomas šis įstatymas.
 
-\#### 37 straipsnis. Informacijos teikimas vartotojui sudarant nuotolinę sutartį ir įrodinėjimo pareiga
+## 37 straipsnis. Informacijos teikimas vartotojui sudarant nuotolinę sutartį ir įrodinėjimo pareiga
 
 1. Finansinių paslaugų teikėjas pakankamai iš anksto iki nuotolinės sutarties sudarymo privalo aiškiai ir suprantamai pateikti vartotojui šią informaciją:
 
@@ -138,7 +138,7 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 
 9. Jeigu kituose konkrečias finansines paslaugas reglamentuojančiuose įstatymuose, kuriais nėra įgyvendinami Europos Sąjungos teisės aktai, nustatytos vartotojui iki finansinių paslaugų sutarties sudarymo dienos teikiamos informacijos taisyklės, taikomas šis įstatymas.
 
-\#### 38 straipsnis. Vartotojo teisė atsisakyti nuotolinės sutarties
+## 38 straipsnis. Vartotojo teisė atsisakyti nuotolinės sutarties
 
 1. Vartotojas turi teisę be jokių sankcijų ir nenurodydamas priežasties atsisakyti nuotolinės sutarties per 14 dienų, o nuotolinės pensijų kaupimo sutarties – per 30 dienų nuo šio straipsnio 2 dalyje nurodytos dienos.
 
@@ -176,7 +176,7 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 
 13. Jeigu kituose konkrečias finansines paslaugas reglamentuojančiuose įstatymuose, kuriais nėra įgyvendinami Europos Sąjungos teisės aktai, nustatytos teisės atsisakyti sutarties taisyklės arba numatyta šios teisės alternatyva – apsisprendimo laikotarpis arba kitokia alternatyva, taikomas šis įstatymas.
 
-\#### 39 straipsnis. Vartotojo teisė gauti tinkamus paaiškinimus
+## 39 straipsnis. Vartotojo teisė gauti tinkamus paaiškinimus
 
 1. Prieš sudarant nuotolinę sutartį, finansinių paslaugų teikėjas privalo neatlygintinai, vartotojo pasirinkimu žodžiu arba raštu popieriuje ar kitoje patvariojoje laikmenoje pateikti vartotojui tinkamus paaiškinimus apie siūlomos nuotolinės sutarties sąlygas ir papildomas paslaugas, kad šis galėtų įvertinti, ar siūloma nuotolinė sutartis ir papildomos paslaugos atitinka jo poreikius ir finansinę padėtį. Paaiškinimai apima:
 
@@ -194,7 +194,7 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 
 5. Jeigu kituose konkrečias finansines paslaugas reglamentuojančiuose įstatymuose, kuriais nėra įgyvendinami Europos Sąjungos teisės aktai, nustatomos kitokios tinkamų paaiškinimų teikimo taisyklės, taikomas šis įstatymas.
 
-\#### 391 straipsnis. Papildoma vartotojų apsauga dėl elektroninių sąsajų
+## 391 straipsnis. Papildoma vartotojų apsauga dėl elektroninių sąsajų
 
 Draudžiama finansinių paslaugų teikėjams kurti ir naudoti elektronines sąsajas, kaip jos apibrėžiamos Reglamente [(ES) 2022/2065](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32022R2065&locale=lt), nuotolinėms sutartims sudaryti taip, kad vartotojai būtų apgaunami, jais būtų manipuliuojama arba būtų kitaip iškraipomas ar silpninamas jų gebėjimas priimti laisvus ir informuotus sprendimus. Naudojant elektronines sąsajas, draudžiama:
 
@@ -204,7 +204,7 @@ Draudžiama finansinių paslaugų teikėjams kurti ir naudoti elektronines sąsa
 
 3) naudoti sudėtingesnę negu paslaugos užsakymas finansinės paslaugos atsisakymo procedūrą.“
 
-\#### 4 straipsnis. 40 straipsnio pakeitimas
+## 4 straipsnis. 40 straipsnio pakeitimas
 
 1. Pakeisti 40 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -222,7 +222,7 @@ Draudžiama finansinių paslaugų teikėjams kurti ir naudoti elektronines sąsa
 
 „12. Lietuvos bankas Reglamento [(ES) 2017/2394](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32017R2394&locale=lt) 21 straipsnyje nustatytais atvejais už šio straipsnio 9 dalyje nurodytą pažeidimą, kuris yra plačiai paplitęs pažeidimas ar Europos Sąjungos mastu plačiai paplitęs pažeidimas, kaip jie apibrėžiami šiame reglamente, taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus vadovaudamasis Lietuvos banko įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui.“
 
-\#### 5 straipsnis. Įstatymo priedo pakeitimas
+## 5 straipsnis. Įstatymo priedo pakeitimas
 
 1. Pripažinti netekusiu galios Įstatymo priedo 1 punktą.
 
@@ -230,7 +230,7 @@ Draudžiama finansinių paslaugų teikėjams kurti ir naudoti elektronines sąsa
 
 „4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva [2011/83/ES](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32011L0083&locale=lt) dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva [93/13/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31993L0013&locale=lt) ir Europos Parlamento ir Tarybos direktyva [1999/44/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31999L0044&locale=lt) bei panaikinamos Tarybos direktyva [85/577/EEB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31985L0577&locale=lt) ir Europos Parlamento ir Tarybos direktyva [97/7/EB](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:31997L0007&locale=lt), su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva [(ES) 2023/2673](http://eur-lex.europa.eu/legal-content/LIT/TXT/?uri=CELEX:32023L2673&locale=lt).“
 
-\#### 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+## 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. birželio 19 d.
 

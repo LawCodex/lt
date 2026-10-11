@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/28d5a4e048fb11e6b5d09300a16a686c"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.28D5A4E048FB.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymas
@@ -114,5 +114,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1243, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15191
 
 Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymo Nr. XII-2584 6 straipsnio pakeitimo įstatymas
-
-part_2f7926de88ed4fd887a9fd5908877e36_end

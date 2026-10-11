@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3da3669255d111f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3DA3669255D1.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 58 straipsnio pakeitimo įstatymas
@@ -26,7 +26,7 @@ PELNO MOKESČIO ĮSTATYMO NR. IX-675 58 STRAIPSNIO PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 58 straipsnio pakeitimas
+## 1 straipsnis. 58 straipsnio pakeitimas
 
 1. Pakeisti 58 straipsnio 162 dalį ir ją išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 „16^3. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią iki 2035 m. gruodžio 31 d. sudarytąstambaus projekto investicijų sutartį ir kuris mokestiniais metais pradeda tenkinti reikalavimus, nustatytus Investicijų įstatymo 2 straipsnio 25 dalies 1 arba 2 punkte, o jo privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 110 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 16^2 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta ir šis juridinis asmuo pradėjo tenkinti visus kitus Investicijų įstatymo 2 straipsnio 25 dalies 1 arba 2 punkte nustatytus reikalavimus. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata pajamoms iš intelektinės nuosavybės turto naudojimo netaikoma, išskyrus atvejus, kai šios pajamos atitinka šio Įstatymo 5 straipsnio 7–10 dalyse ir 30 straipsnio 1 ir 2^1 dalyse nustatytas sąlygas (išskyrus šio Įstatymo 5 straipsnio 7 dalyje nustatytą taikytiną pelno mokesčio tarifo dydį). Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų į stambų projektą dydį. Jeigu juridinio asmens privačių kapitalo investicijų į stambų projektą suma sumažėja ir nebesiekia 110 milijonų eurų, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) tais mokestiniais metais juridinis asmuo nebetenkina nors vieno kito reikalavimo, nurodyto Investicijų įstatymo 2 straipsnio 25 dalies 1 arba 2 punkte, lengvata tą mokestinį laikotarpį netaikoma ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 110 milijonų eurų ir (arba) pradedami tenkinti visi kiti Investicijų įstatymo 2 straipsnio 25 dalies 1 arba 2 punktų reikalavimai. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma 20 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį buvo pasiekta 110 milijonų eurų investicijų suma ir juridinis asmuo tenkina visus kitus reikalavimus, nurodytus Investicijų įstatymo 2 straipsnio 25 dalies 1 arba 2 punkte. Į šiuos 20 mokestinių laikotarpių yra įskaičiuojami visi mokestiniai laikotarpiai nuo teisės į lengvatą įgijimo, nepriklausomai nuo to, ar per tam tikrus mokestinius laikotarpius lengvata faktiškai buvo taikyta. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, reglamentuojančiais valstybės pagalbos teikimą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka ir Europos Komisijos išduoto leidimo teikti valstybės pagalbą sąlygomis.“
 
-\#### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+## 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 1. Šis įstatymas įsigalioja 2026 m. sausio 1 d.
 

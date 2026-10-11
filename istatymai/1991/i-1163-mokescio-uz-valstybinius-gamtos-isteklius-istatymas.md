@@ -12,7 +12,7 @@ status: in_force
 issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.793560F67ADF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
@@ -361,8 +361,6 @@ Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
 
 Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
 
-part_3b3a2b8c07c74248a18c777aba02f80b_end
-
 Lietuvos Respublikos
 
 mokesčio už valstybinius
@@ -473,8 +471,6 @@ Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
 
 Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
 
-part_8f0348bbbd0544899a7a19fe3e39062a_end
-
 Lietuvos Respublikos
 
 mokesčio už valstybinius
@@ -540,8 +536,6 @@ Priedo pakeitimai:
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 
 Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
-
-part_5811aa8607304808978a8791d18cab03_end
 
 Lietuvos Respublikos mokesčio už
 
@@ -692,5 +686,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1751, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27571
 
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 6, 7, 8 ir 11 straipsnių pakeitimo įstatymas
-
-part_bb8e8624b232454c8f86fecbf1773829_end

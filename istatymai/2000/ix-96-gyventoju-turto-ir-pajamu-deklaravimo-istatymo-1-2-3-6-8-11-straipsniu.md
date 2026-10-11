@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B11CBE70DA60"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B11CBE70DA60.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įstatymo 1, 2, 3, 6, 8, 11 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 5(1) straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1996, Nr. [50-1197](https://www.e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97); 1998, Nr. [16-379](https://www.e-tar.lt/portal/lt/legalAct/TAR.F745A1030FB0), Nr. [20-504](https://www.e-tar.lt/portal/lt/legalAct/TAR.B925020919B6), Nr. [41-1096](https://www.e-tar.lt/portal/lt/legalAct/TAR.57619CF39FA5), Nr. [63-1802](https://www.e-tar.lt/portal/lt/legalAct/TAR.5336CEE37824); 2000, Nr. [67-2017](https://www.e-tar.lt/portal/lt/legalAct/TAR.CF931FB86A84))
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 1 straipsnyje po žodžio „valstybei“ įrašyti žodžius „taip pat turto ir pajamų deklaravimą, kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo“ ir šį straipsnį išdėstyti taip:
 
@@ -36,7 +36,7 @@ Vilnius
 
 Šis įstatymas nustato Lietuvos Respublikos gyventojų turto ir pajamų deklaravimą, pagrįstą mokesčiais ir kitais privalomais mokėjimais valstybei, taip pat turto ir pajamų deklaravimą, kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 2 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 2 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „11 straipsnyje“ įrašyti skaičius ir žodžius „11 straipsnio 1–5 punktuose“, 3 dalyje po žodžio „Deklaruojamos“ įrašyti skaičius ir žodžius „šio įstatymo 11 straipsnio 1–5 punktuose nurodytų asmenų“, 4 dalyje po žodžių „Nustačius, kad“ įrašyti skaičius ir žodžius „šio įstatymo 11 straipsnio 1–5 punktuose nurodytų asmenų“, papildyti straipsnį 5 ir 6 dalimis ir visą straipsnį išdėstyti taip:
 
@@ -82,7 +82,7 @@ d) pinigines lėšas, indėlius, paskolintas ir negrąžintas pinigines lėšas;
 
 6. Šio įstatymo 11 straipsnio 6 punkte nurodytų asmenų deklaruojamos vienerių metų (paskutinių 12 mėnesių) gautos visų rūšių pajamos, įsigytas turtas, paskolintos ir negrąžintos lėšos (įskaitant ir laikotarpio, už kurį turtas ir pajamos deklaruojami, pradžioje buvusias paskolintas ir negrąžintas pinigines lėšas) bei dovanotos piniginės lėšos pagrindžiamos įstatymų reikalavimus atitinkančiais sandorių ar kitais juridinę galią turinčiais dokumentais.“
 
-\#### 3 straipsnis. 3 straipsnio 1, 2 dalių pakeitimas
+## 3 straipsnis. 3 straipsnio 1, 2 dalių pakeitimas
 
 1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -92,7 +92,7 @@ d) pinigines lėšas, indėlius, paskolintas ir negrąžintas pinigines lėšas;
 
 „2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius kalendorinius metus, išskyrus šio įstatymo 5 ir 5^1 straipsniuose nustatytus atvejus. Už turto ir pajamų deklaracijose nurodytų duomenų teisingumą atsako pats deklaruojantysis.“
 
-\#### 4 straipsnis. Įstatymo papildymas 51 straipsniu
+## 4 straipsnis. Įstatymo papildymas 51 straipsniu
 
 Papildyti Įstatymą 5^1straipsniu:
 
@@ -100,7 +100,7 @@ Papildyti Įstatymą 5^1straipsniu:
 
 Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo savo turtą ir pajamas deklaruoti prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo. Šie asmenys pateikia vienerių metų (12 paskutinių mėnesių) turto ir pajamų deklaracijas. Jeigu valstybės garantuojama teisinė pagalba teikiama ilgiau kaip vienerius metus, praėjus vieneriems metams po ankstesnės deklaracijos pateikimo, turi būti pateikiama kitų metų (12 mėnesių, pradedant skaičiuoti nuo to mėnesio, kurį buvo pateikta ankstesnė deklaracija) turto ir pajamų deklaracija. Turtą ir pajamas deklaravusiems asmenims valstybinė mokesčių inspekcija per 7 darbo dienas grąžina du deklaracijos egzempliorius su žyma, kad deklaracija yra pateikta. Vieną egzempliorių šie asmenys pateikia institucijai (pareigūnui), priimančiai sprendimą dėl valstybės garantuojamos teisinės pagalbos suteikimo.“
 
-\#### 5 straipsnis. 6 straipsnio 1, 2 dalių pakeitimas ir papildymas 5 dalimi
+## 5 straipsnis. 6 straipsnio 1, 2 dalių pakeitimas ir papildymas 5 dalimi
 
 1. 6 straipsnio 1 dalyje vietoj skaičiaus ir žodžio „11 straipsnyje“ įrašyti skaičius ir žodžius „11 straipsnio 1–5 punktuose“ ir šią dalį išdėstyti taip:
 
@@ -114,7 +114,7 @@ Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo 
 
 „5. Juridiniai ir fiziniai asmenys bei juridinio asmens teisių neturintys subjektai pageidaujančių gauti valstybės garantuojamą teisinę pagalbą asmenų prašymu per 7 darbo dienas nuo prašymo gavimo turi šiems asmenims išduoti centrinio mokesčio administratoriaus patvirtintos formos pažymas apie per vienerius metus (paskutinius 12 mėnesių) išmokėtas sumas, išskaičiuotus mokesčius, nemokamai išduotą turtą ar suteiktas paslaugas.“
 
-\#### 6 straipsnis. 8 straipsnio papildymas
+## 6 straipsnis. 8 straipsnio papildymas
 
 8 straipsnyje prieš žodžius „Privalantis deklaruoti turtą“ įrašyti žodžius ir skaičius „Šio įstatymo 11 straipsnio 1–5 punktuose nurodytas“ ir straipsnį išdėstyti taip:
 
@@ -122,13 +122,13 @@ Pageidaujantys gauti valstybės garantuojamą teisinę pagalbą asmenys privalo 
 
 Šio įstatymo 11 straipsnio 1–5 punktuose nurodytas privalantis deklaruoti turtą ir pajamas asmuo, vengiantis pateikti turto ir pajamų deklaraciją, taip pat laiku arba iš viso jos nepateikęs, neteisingai nurodęs duomenis, traukiamas administracinėn ar baudžiamojon atsakomybėn.“
 
-\#### 7 straipsnis. 11 straipsnio papildymas
+## 7 straipsnis. 11 straipsnio papildymas
 
 11 straipsnį papildyti 6 punktu:
 
 „6) asmenys, pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, turtą ir pajamas deklaruoja prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo.“
 
-\#### 8 straipsnis. Įstatymo įsigaliojimas
+## 8 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 

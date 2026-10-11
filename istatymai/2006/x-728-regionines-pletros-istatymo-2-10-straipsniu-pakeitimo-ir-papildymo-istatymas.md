@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.B5B49B4387E9"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.B5B49B4387E9.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 2000, Nr. [66-1987](https://www.e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76); 2002, Nr. [123-5558](https://www.e-tar.lt/portal/lt/legalAct/TAR.98F43C3F0156))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -44,7 +44,7 @@ Vilnius
 
 „8. **Regionų socialinių ir ekonominių skirtumų mažinimo iniciatyvos (planas) –**nacionalinės regioninės politikos strateginio planavimo dokumentas, kuriame nurodomi plėtros laikotarpio nacionalinės regioninės politikos tikslai, uždaviniai ir prioritetai, taip pat išskirtų probleminių teritorijų plėtros strateginiai tikslai ir uždaviniai bei pasiūlymai dėl regionų, turinčių atskirų ūkio šakų (sektorių) specifinių regioninių ir vietinių problemų, kurios spręstinos per tų ūkio šakų (sektorių) plėtros strategijas ir programas, plėtros.“
 
-\#### 2 straipsnis. 10 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 10 straipsnio papildymas ir pakeitimas
 
 Papildyti 10 straipsnį nauju 1 punktu, buvusius 1, 2, 3, 4, 5 punktus laikyti atitinkamai 2, 3, 4, 5, 6 punktais, 3 ir 4 punktus pakeisti ir visą straipsnį išdėstyti taip:
 

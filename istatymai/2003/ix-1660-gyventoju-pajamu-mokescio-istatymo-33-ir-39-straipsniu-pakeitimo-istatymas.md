@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.E2F397D1D0CF"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E2F397D1D0CF.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 33 ir 39 straipsnių pakeitimo įstatymas
@@ -28,13 +28,13 @@ Vilnius
 
 (Žin., 2002, Nr. [73-3085](https://www.e-tar.lt/portal/lt/legalAct/TAR.C677663D2202))
 
-\#### 1 straipsnis. 33 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 33 straipsnio 3 dalies pakeitimas
 
 33 straipsnio 3 dalyje po žodžio „tvarką“ įrašyti žodžius „sumos dydį, iki kurio neprivalu pateikti mokesčio administratoriui pažymas apie gyventojams išmokėtas išmokas“ ir šią dalį išdėstyti taip:
 
 „3. Pažymų apie apskaičiuotas ir išmokėtas išmokas formas, jų pildymo ir pateikimo tvarką, sumos dydį, iki kurio neprivalu pateikti mokesčio administratoriui pažymas apie gyventojams išmokėtas išmokas, nustato centrinis mokesčio administratorius, suderinęs su Finansų ministerija.“
 
-\#### 2 straipsnis. 39 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 39 straipsnio 2 dalies pakeitimas
 
 1. 39 straipsnio 2 dalyje po žodžių „apmokėto pinigais“ įrašyti žodžius ir skaičių „ir 15 straipsnio nuostatos“ ir šią dalį išdėstyti taip:
 

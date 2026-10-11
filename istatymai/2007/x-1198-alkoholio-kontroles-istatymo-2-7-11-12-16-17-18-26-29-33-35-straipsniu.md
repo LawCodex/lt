@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.6EDFAB619E76"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.6EDFAB619E76.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 7, 11, 12, 16, 17, 18, 26, 29, 33, 35 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1995, Nr. [44-1073](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6); 2004, Nr. [47-1548](https://www.e-tar.lt/portal/lt/legalAct/TAR.65C0438E6F29), Nr. [168-6174](https://www.e-tar.lt/portal/lt/legalAct/TAR.E3FBB6CF91CD); 2006, Nr. [53-1928](https://www.e-tar.lt/portal/lt/legalAct/TAR.EB5D0EA7EAA4), Nr. [127-4822](https://www.e-tar.lt/portal/lt/legalAct/TAR.E2541E9A3D87))
 
-\#### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
+## 1 straipsnis. 2 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -52,19 +52,19 @@ Vilnius
 
 6. Buvusias 2 straipsnio 16, 17 ir 18 dalis atitinkamai laikyti 17, 18 ir 19 dalimis.
 
-\#### 2 straipsnis. 7 straipsnio 3 dalies pakeitimas
+## 2 straipsnis. 7 straipsnio 3 dalies pakeitimas
 
 7 straipsnio 3 dalyje vietoj žodžio „siunta“ įrašyti žodį „partija“ ir šią dalį išdėstyti taip:
 
 „3. Jeigu šio Įstatymo ir kitų teisės aktų įgaliotos kontrolės institucijos, tirdamos nustatyta tvarka paimtus alkoholio produktų pavyzdžius, nustato, kad šie neatitinka teisės aktų reikalavimų, laikoma, kad šių reikalavimų neatitinka visa alkoholio produktų partija, iš kurios buvo paimti pavyzdžiai, ir taikomos įstatymų nustatytos rinkos ribojimo priemonės.“
 
-\#### 3 straipsnis. 11 straipsnio 2 dalies pakeitimas
+## 3 straipsnis. 11 straipsnio 2 dalies pakeitimas
 
 Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Kiekviena Lietuvos Respublikoje pagaminta alkoholio produktų partija privalo turėti šių produktų atitiktį patvirtinantį dokumentą. Valstybinė maisto ir veterinarijos tarnyba, suderinusi su Žemės ūkio ministerija, patvirtina laboratorijų, turinčių teisę išduoti tokius dokumentus, sąrašą. Šio įstatymo 12 straipsnio 2 dalyje nurodytos alaus gamybos įmonės, kurios pagal sutartį naudojasi nustatyta tvarka atestuotų kitų institucijų ar įmonių maisto produktų kokybės tyrimo laboratorijų paslaugomis, remdamosi šių laboratorijų išduotais alaus tyrimo protokolais, gali išduoti savo gaminamo alaus atitikties deklaraciją.“
 
-\#### 4 straipsnis. 12 straipsnio 2 ir 3 dalių pakeitimas
+## 4 straipsnis. 12 straipsnio 2 ir 3 dalių pakeitimas
 
 1. 12 straipsnio 2 dalyje vietoj skaičiaus „100 000“ įrašyti skaičių „50 000“ ir šią dalį išdėstyti taip:
 
@@ -74,7 +74,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „3. Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo Įstatymu, Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas) ir Europos Sąjungos teisės reikalavimais, tvirtina Lietuvos Respublikos Vyriausybė. Licencijos gaminti alkoholio produktus įmonėms neišduodamos, jeigu jų steigėjai ar administracijos vadovai yra buvę įmonių, kurioms vadovaujantis šio Įstatymo 34 straipsnio 18 dalimi buvo panaikintas licencijų galiojimas, steigėjai, administracijos vadovai ar kiti šio įstatymo 34 straipsnio 18 dalyje nurodyti darbuotojai. Licencijos penkerius metus neišduodamos įmonėms, jeigu jų steigėjai ar administracijos vadovai yra ar buvo įmonių, kurioms vadovaujantis šio Įstatymo 34 straipsnio 17 dalimi buvo panaikintas licencijų gaminti alkoholio produktus galiojimas arba kuriose nustatyta atvejų, kai buvo gaminami, parduodami ir (ar) laikomi, gabenami alkoholio produktai, neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, steigėjai ar administracijos vadovai.“
 
-\#### 5 straipsnis. 16 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 16 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 16 straipsnį nauja 4 dalimi:
 
@@ -86,7 +86,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „7. Didmeninės ir mažmeninės prekybos alkoholio produktais licencijavimo taisykles, remdamasi šiuo Įstatymu, Civiliniu kodeksu ir Europos Sąjungos teisės reikalavimais, nustato Lietuvos Respublikos Vyriausybė. Įmonėms licencijos verstis didmenine prekyba alkoholio produktais penkerius metus neišduodamos, jeigu jų steigėjai arba administracijos vadovai yra buvę įmonių, kurioms vadovaujantis šio Įstatymo 34 straipsnio 17 dalimi buvo panaikintas licencijų verstis didmenine prekyba alkoholio produktais galiojimas, steigėjai arba administracijos vadovai. Licencijos verstis didmenine ar mažmenine prekyba alkoholio produktais penkerius metus neišduodamos įmonėms, jeigu jų steigėjai ar administracijos vadovai yra ar buvo įmonių, kuriose nustatyta atvejų, kai buvo parduodami ir (ar) laikomi, gabenami alkoholio produktai, neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, steigėjai ar administracijos vadovai. Įmonėms licencijos verstis didmenine ar mažmenine prekyba alkoholio produktais neišduodamos, jeigu jų steigėjai arba administracijos vadovai yra buvę įmonių, kurioms vadovaujantis šio Įstatymo 34 straipsnio 18 dalimi buvo panaikintas licencijų galiojimas, steigėjai, administracijos vadovai ar kiti šio Įstatymo 34 straipsnio 18 dalyje nurodyti darbuotojai.“
 
-\#### 6 straipsnis. 17 straipsnio pakeitimas ir papildymas
+## 6 straipsnis. 17 straipsnio pakeitimas ir papildymas
 
 1. Pakeisti 17 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -144,7 +144,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „13. Įmonėms, įstaigoms ir organizacijoms, nustatyta tvarka įsigijusioms etilo alkoholio gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbams, draudžiama jį naudoti ne pagal paskirtį.“
 
-\#### 7 straipsnis. 18 straipsnio pakeitimas ir papildymas
+## 7 straipsnis. 18 straipsnio pakeitimas ir papildymas
 
 1. 18 straipsnio 1 dalies 2 punkte vietoj žodžių „ir alumi“ įrašyti žodžius „alumi ir alaus mišiniais su nealkoholiniais gėrimais“ ir šį punktą išdėstyti taip:
 
@@ -160,13 +160,13 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariose viešojo maitinimo įmonėse, stacionariuose pastatuose vykstančiose parodose bei mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų), parduodamiems nestacionariose viešojo maitinimo įmonėse savivaldybės tarybos nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 6 procentų), parduodamiems masiniuose renginiuose, parodose bei mugėse;“.
 
-\#### 8 straipsnis. 26 straipsnio 1 dalies pakeitimas
+## 8 straipsnis. 26 straipsnio 1 dalies pakeitimas
 
 26 straipsnio 1 dalyje po žodžio „kraujyje“ įrašyti žodžius „arba iškvepiamame ore“ ir šią dalį išdėstyti taip:
 
 „1. Asmenys, vairuojantys transporto priemones Lietuvos Respublikoje, gali būti tikrinami dėl neblaivumo (girtumo) ir alkoholio kiekio kraujyje arba iškvepiamame ore. Darbdaviai privalo užtikrinti, kad prieš reisą būtų tikrinama, ar jų darbuotojai, vairuojantys įmonių, įstaigų, organizacijų transporto priemones, yra blaivūs (negirti).“
 
-\#### 9 straipsnis. 29 straipsnio 2 dalies 3 punkto, 4 ir 5 dalių pakeitimas
+## 9 straipsnis. 29 straipsnio 2 dalies 3 punkto, 4 ir 5 dalių pakeitimas
 
 1. Pakeisti 29 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
@@ -180,13 +180,13 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „5. Alaus, alaus mišinių su nealkoholiniais gėrimais bei natūralios fermentacijos vyno ir sidro išorinėje reklamoje (išskyrus tuos atvejus, kai išorinėje reklamoje pateikiami tik alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių pavadinimai ir (ar) jų prekių ženklai) turi būti įspėjamasis tekstas apie žalingą alkoholio poveikį sveikatai. Šio teksto formą, turinį ir jo vietą reklamoje nustato Sveikatos apsaugos ministerija.“
 
-\#### 10 straipsnis. 33 straipsnio 2 dalies pakeitimas
+## 10 straipsnis. 33 straipsnio 2 dalies pakeitimas
 
 33 straipsnio 2 dalyje po žodžio „banderolių“ įrašyti žodžius „be nustatyta tvarka išduotos licencijos“ ir šią dalį išdėstyti taip:
 
 „2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, be nustatyta tvarka išduotos licencijos, taip pat alkoholio produktai, kurie neatitinka Lietuvos Respublikoje galiojančių kokybės reikalavimų ar kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, Lietuvos Respublikos administracinių teisės pažeidimų kodekso (toliau – Administracinių teisės pažeidimų kodeksas) nustatyta tvarka konfiskuojami.“
 
-\#### 11 straipsnis. 34 straipsnio 2, 3, 5, 6, 7, 11, 12, 17 ir 19 dalių pakeitimas
+## 11 straipsnis. 34 straipsnio 2, 3, 5, 6, 7, 11, 12, 17 ir 19 dalių pakeitimas
 
 1. Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -224,17 +224,17 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „19. Įmonėms, turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais (išskyrus šio straipsnio 20 dalyje nurodytas įmones), per trejus metus nuo šio straipsnio 4 dalyje nustatytos baudos už šio Įstatymo 18 straipsnio 4 dalies 3 punkto reikalavimo pažeidimą pirmą kartą paskyrimo ir pažeidusioms šį reikalavimą toje pačioje prekybos vietoje pakartotinai, panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje nustatyti pažeidimai, galiojimas ir nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos.“
 
-\#### 12 straipsnis. 35 straipsnio pakeitimas
+## 12 straipsnis. 35 straipsnio pakeitimas
 
 Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Šio Įstatymo 34 straipsnio 1 dalyje nurodytos institucijos bylas nagrinėja ir baudas skiria ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos, tačiau ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos, o esant trunkamam pažeidimui – per 3 metus nuo jo paaiškėjimo dienos.“
 
-\#### 13 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+## 13 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 Lietuvos Respublikos Vyriausybė iki 2007 m. rugpjūčio 1 d. patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus arba tai padaryti įgalioja kitas institucijas.
 
-\#### 14 straipsnis. Įstatymo įsigaliojimas
+## 14 straipsnis. Įstatymo įsigaliojimas
 
 1. Šis įstatymas, išskyrus 4 straipsnio 1 dalį, 9 straipsnio 1 dalį ir 13 straipsnį, įsigalioja nuo 2007 m. rugpjūčio 1 d.
 

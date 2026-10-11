@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.571409F1886A"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.571409F1886A.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos viešojo administravimo įstatymo 10 ir 11 straipsnių pakeitimo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 1999, Nr. [60-1945](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66); 2006, Nr. 77-2975; 2007, Nr. [12-497](https://www.e-tar.lt/portal/lt/legalAct/TAR.1EDAF87119F9), Nr. [17-628](https://www.e-tar.lt/portal/lt/legalAct/TAR.A73606A8D886))
 
-\#### 1 straipsnis. 10 straipsnio 5 ir 6 dalių pakeitimas
+## 1 straipsnis. 10 straipsnio 5 ir 6 dalių pakeitimas
 
 1. Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Vilnius
 
 „6. Viešojo administravimo įstaigos strateginių ar metinių veiklos planų vykdymą vertina vidaus audito tarnyba.“
 
-\#### 2 straipsnis. 11 straipsnio pakeitimas
+## 2 straipsnis. 11 straipsnio pakeitimas
 
 1. Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -64,7 +64,7 @@ Vilnius
 
 „8. Šio straipsnio 3, 4, 5, 6 ir 7 dalių nuostatos viešojo administravimo įstaigoms taikomos tiek, kiek jų nereglamentuoja statutai ar kiti įstatymai.“
 
-\#### 3 straipsnis. Įstatymo įsigaliojimas
+## 3 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 

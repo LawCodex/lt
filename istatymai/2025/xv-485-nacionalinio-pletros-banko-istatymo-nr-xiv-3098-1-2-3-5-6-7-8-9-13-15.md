@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/f2d768f0ae7711f092fda1fd0c194cc5"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.F2D768F0AE77.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos nacionalinio plėtros banko įstatymo Nr. XIV-3098 1, 2, 3, 5, 6, 7, 8, 9, 13, 15 straipsnių ir II skyriaus pakeitimo įstatymas
@@ -26,7 +26,7 @@ NACIONALINIO PLĖTROS BANKO ĮSTATYMO NR. XIV-3098 1, 2, 3, 5, 6, 7, 8, 9, 13, 1
 
 Vilnius
 
-\#### 1 straipsnis. 1 straipsnio pakeitimas
+## 1 straipsnis. 1 straipsnio pakeitimas
 
 Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 Šis įstatymas nustato nacionalinio plėtros banko (toliau – NPB) statusą, valdymą, veiklą, priežiūrą ir atsakomybę už veiklos reikalavimų pažeidimus.“
 
-\#### 2 straipsnis. 2 straipsnio pakeitimas
+## 2 straipsnis. 2 straipsnio pakeitimas
 
 1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
@@ -44,13 +44,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 
 „6. **Skatinamojo finansavimo veikla** – finansinių paslaugų teikimas valstybės veiklos srityse, kuriose būtina skatinti plėtrą, tačiau kurių finansavimas rinkos sąlygomis yra nepakankamas ir (ar) neoptimalus.“
 
-\#### 3 straipsnis. 3 straipsnio pakeitimas
+## 3 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. NPB netaikomas Lietuvos Respublikos bankų įstatymas.“
 
-\#### 4 straipsnis. II skyriaus pakeitimas
+## 4 straipsnis. II skyriaus pakeitimas
 
 Pakeisti II skyrių ir jį išdėstyti taip:
 
@@ -58,7 +58,7 @@ Pakeisti II skyrių ir jį išdėstyti taip:
 
 PAVEDIMAS VYKDYTI SKATINAMOJO FINANSAVIMO VEIKLĄ IR JO PANAIKINIMAS
 
-\#### 4 straipsnis. Pavedimas vykdyti skatinamojo finansavimo veiklą ir jo panaikinimas
+## 4 straipsnis. Pavedimas vykdyti skatinamojo finansavimo veiklą ir jo panaikinimas
 
 1. Finansų įstaigai vykdyti skatinamojo finansavimo veiklą Lietuvos Respublikos finansų ministerijos teikimu paveda Lietuvos Respublikos Vyriausybė (toliau – pavedimas vykdyti skatinamojo finansavimo veiklą).
 
@@ -84,13 +84,13 @@ PAVEDIMAS VYKDYTI SKATINAMOJO FINANSAVIMO VEIKLĄ IR JO PANAIKINIMAS
 
 6. Panaikinus pavedimą vykdyti skatinamojo finansavimo veiklą, esamų sutartinių ar kitų įsipareigojimų, susijusių su skatinamojo finansavimo veikla, vykdymas perleidžiamas kitam šio įstatymo reikalavimus atitinkančiam NPB.“
 
-\#### 5 straipsnis. 5 straipsnio pakeitimas
+## 5 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. NPB tikslai yra vykdant skatinamojo finansavimo veiklą siekti užtikrinti finansiškai gyvybingas ir efektyvias investicijas ir prisidėti prie valstybės ekonominės, socialinės ir regionų plėtros.“
 
-\#### 6 straipsnis. 6 straipsnio pakeitimas
+## 6 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -136,7 +136,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 4. NPB gali turėti sąskaitų Lietuvos banke, taip pat depozitinių sąskaitų kredito įstaigose.“
 
-\#### 7 straipsnis. 7 straipsnio pakeitimas
+## 7 straipsnis. 7 straipsnio pakeitimas
 
 Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
@@ -148,7 +148,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 3. Vyriausybės nustatyta tvarka atlikus skatinamojo finansavimo poreikio vertinimo peržiūrą ir nustačius, kad finansavimas rinkos sąlygomis yra pakankamas ir (ar) optimalus, skatinamojo finansavimo veikla toliau vykdoma tik tiek, kiek tai yra būtina pradėtai veiklai užbaigti.“
 
-\#### 8 straipsnis. 8 straipsnio pakeitimas
+## 8 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -158,7 +158,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 „4. NPB ne vėliau kaip per 10 darbo dienų privalo informuoti priežiūros instituciją apie dokumentų ir informacijos, pateiktų pagal šio straipsnio 1 dalį, pasikeitimus, kai tik šie pasikeitimai paaiškėja. Priežiūros institucija neprivalo būti informuota apie Vyriausybės nutarimo, kuriuo į NPB sąrašą įrašomai įstaigai pavesta vykdyti skatinamojo finansavimo veiklą, pakeitimus, išskyrus atvejus, kai pagal šio įstatymo 4 straipsnio 5 dalies nuostatas pateikiama informacija apie pavedimo vykdyti skatinamojo finansavimo veiklą panaikinimą.“
 
-\#### 9 straipsnis. 9 straipsnio pakeitimas
+## 9 straipsnis. 9 straipsnio pakeitimas
 
 1. Pakeisti 9 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -168,7 +168,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 
 „4. Priežiūros institucija apie priimtą sprendimą NPB išbraukti iš NPB sąrašo nedelsdama, ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos, praneša Vyriausybei. Jeigu sprendimas išbraukti NPB iš NPB sąrašo priimamas šio straipsnio 1 dalies 2 punkte nurodytu atveju, Vyriausybė šio įstatymo 4 straipsnyje nustatyta tvarka panaikina pavedimą vykdyti skatinamojo finansavimo veiklą.“
 
-\#### 10 straipsnis. 13 straipsnio pakeitimas
+## 10 straipsnis. 13 straipsnio pakeitimas
 
 Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
@@ -182,13 +182,13 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 4. NPB įgyvendinamų skatinamųjų finansinių priemonių ir (ar) valdomų fondų fondų lėšos Vyriausybės sprendimu Vyriausybės nustatyta tvarka gali būti skiriamos NPB įstatiniam kapitalui didinti, jeigu tai neprieštarauja Lietuvos Respublikos ir Europos Sąjungos teisės aktams.“
 
-\#### 11 straipsnis. 15 straipsnio pakeitimas
+## 11 straipsnis. 15 straipsnio pakeitimas
 
 Pakeisti 15 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. NPB pelnas naudojamas šiame įstatyme, Akcinių bendrovių įstatyme, Finansų įstaigų įstatyme ir NPB įstatuose numatytiems rezervams sukaupti ir (ar) didinti, NPB veiklai užtikrinti. NPB pelnas nenaudojamas dividendams išmokėti.“
 
-\#### 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2026 m. vasario 1 d.
 

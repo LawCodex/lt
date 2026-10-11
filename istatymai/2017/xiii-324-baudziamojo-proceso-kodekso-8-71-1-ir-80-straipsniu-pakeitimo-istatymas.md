@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/fa8d49a0316911e78397ae072f58c508"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.FA8D49A03169.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso 8, 71-1 ir 80 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ BAUDŽIAMOJO PROCESO KODEKSO 8, 711 IR 80 STRAIPSNIŲ PAKEITIMO
 
 Vilnius
 
-\#### 1 straipsnis. 8 straipsnio pakeitimas
+## 1 straipsnis. 8 straipsnio pakeitimas
 
 Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 6. Lietuvių kalbos nemokančiam nuo nusikalstamos veikos nukentėjusiam asmeniui ar jo atstovui užtikrinama teisė paduoti skundą ar pareiškimą dėl nusikalstamos veikos gimtąja kalba arba kita kalba, kurią jie moka, arba užtikrinama teisė naudotis vertėjo paslaugomis pateikiant skundą žodžiu.“
 
-\#### 2 straipsnis. 711 straipsnio pakeitimas
+## 2 straipsnis. 711 straipsnio pakeitimas
 
 1. Papildyti 711 straipsnį nauja 2 dalimi:
 
@@ -52,7 +52,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 
 2. Buvusias 711 straipsnio 2, 3, 4, 5, 6, 7, 8 dalis laikyti atitinkamai 3, 4, 5, 6, 7, 8, 9 dalimis.
 
-\#### 3 straipsnis. 80 straipsnio pakeitimas
+## 3 straipsnis. 80 straipsnio pakeitimas
 
 Pakeisti 80 straipsnio 3 punktą ir jį išdėstyti taip:
 

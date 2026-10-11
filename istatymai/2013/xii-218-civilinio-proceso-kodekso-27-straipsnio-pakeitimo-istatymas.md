@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.30C98D70E264"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.30C98D70E264.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos civilinio proceso kodekso 27 straipsnio pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2002, Nr. [36-1340](https://www.e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454); 2011, Nr. [85-4126](https://www.e-tar.lt/portal/lt/legalAct/TAR.10D407E502F2))
 
-\#### 1 straipsnis. 27 straipsnio 4 punkto pakeitimas
+## 1 straipsnis. 27 straipsnio 4 punkto pakeitimas
 
 Pakeisti 27 straipsnio 4 punktą ir jį išdėstyti taip:
 
 „4) dėlbankroto irrestruktūrizavimo, išskyrus bylas dėl fizinių asmenų bankroto;“.
 
-\#### 2 straipsnis. Įstatymo taikymas
+## 2 straipsnis. Įstatymo taikymas
 
 Iki šio įstatymo įsigaliojimo pradėtos nagrinėti fizinių asmenų bankroto bylos baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis fizinių asmenų bankroto bylų nagrinėjimą reglamentuojančiomis nuostatomis.
 

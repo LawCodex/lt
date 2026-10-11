@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B3B132A5F01"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2B3B132A5F01.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymo 29, 33, 40, 88, 95, 105 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 42-1, 104-1, 104-2 straipsniais įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 2004, Nr. [63-2243](https://www.e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485); 2005, Nr. [81-2939](https://www.e-tar.lt/portal/lt/legalAct/TAR.ACFAD6A80B1D); 2007, Nr. [80-3220](https://www.e-tar.lt/portal/lt/legalAct/TAR.FDBAB22F6A98); 2010, Nr. [145-7416](https://www.e-tar.lt/portal/lt/legalAct/TAR.7DD2BBA29226); 2011, Nr. [163-7766](https://www.e-tar.lt/portal/lt/legalAct/TAR.867899ACCB24))
 
-\#### 1 straipsnis. 29 straipsnio 3 dalies pakeitimas
+## 1 straipsnis. 29 straipsnio 3 dalies pakeitimas
 
 Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Europos Sąjungos valstybių narių mokesčių administracijų (kompetentingų institucijų) prašymai dėl pagalbos išieškant mokestines nepriemokas nagrinėjami ir vykdomi Lietuvos Respublikos savitarpio pagalbos išieškant mokesčius įstatymo nustatyta tvarka. Prašymuose nurodytos sumos, už kurių išieškojimą pagal Lietuvos Respublikos savitarpio pagalbos išieškant mokesčius įstatymo nuostatas atsakingas mokesčių administratorius, išieškomos kaip mokestinė nepriemoka šio Įstatymo nustatyta tvarka.“
 
-\#### 2 straipsnis. 33 straipsnio papildymas ir pakeitimas
+## 2 straipsnis. 33 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 33 straipsnį nauju 20 punktu:
 
@@ -38,7 +38,7 @@ Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2. Buvusį 33 straipsnio 20 punktą laikyti 21 punktu.
 
-\#### 3 straipsnis. 40 straipsnio pakeitimas ir papildymas
+## 3 straipsnis. 40 straipsnio pakeitimas ir papildymas
 
 1. Papildyti 40 straipsnį nauju 10 punktu:
 
@@ -46,7 +46,7 @@ Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip:
 
 2. Buvusį 40 straipsnio 10 punktą laikyti 11 punktu.
 
-\#### 4 straipsnis. Įstatymo papildymas 421 straipsniu
+## 4 straipsnis. Įstatymo papildymas 421 straipsniu
 
 Papildyti Įstatymą 42^1straipsniu:
 
@@ -66,7 +66,7 @@ Papildyti Įstatymą 42^1straipsniu:
 
 3. Jeigu gyventojas centrinio mokesčių administratoriaus nustatyta tvarka ir terminais šio straipsnio 1 dalyje nurodytos informacijos nepateikė, tokiais sandoriais negali būti pagrindžiami jo turto įsigijimo ir pajamų gavimo šaltiniai. Gyventojo pavėluotai pateikta arba patikslinta šiame straipsnyje nurodyta atitinkamo laikotarpio informacija nevertinama, jeigu dėl gyventojo kompetentinga valstybės institucija yra jau pradėjusi mokestinį patikrinimą arba kitą šio Įstatymo 143 straipsnyje nurodyto teisės pažeidimo tyrimą.“
 
-\#### 5 straipsnis. 88 straipsnio pakeitimas ir papildymas
+## 5 straipsnis. 88 straipsnio pakeitimas ir papildymas
 
 1. 88 straipsnio 3 dalį pripažinti netekusia galios.
 
@@ -76,13 +76,13 @@ Papildyti Įstatymą 42^1straipsniu:
 
 3. Buvusias 88 straipsnio 6, 7, 8 dalis laikyti atitinkamai 7, 8, 9 dalimis.
 
-\#### 6 straipsnis. 95 straipsnio 3 dalies pakeitimas
+## 6 straipsnis. 95 straipsnio 3 dalies pakeitimas
 
 Pakeisti 95 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Mokesčių administratorius gali naudoti ir kitus šio ir kitų įstatymų nustatytus atsiradusios arba galinčios atsirasti mokestinės prievolės įvykdymo užtikrinimo būdus.“
 
-\#### 7 straipsnis. Įstatymo papildymas 1041 straipsniu
+## 7 straipsnis. Įstatymo papildymas 1041 straipsniu
 
 Papildyti Įstatymą 104^1straipsniu:
 
@@ -98,7 +98,7 @@ Papildyti Įstatymą 104^1straipsniu:
 
 5. Skundai dėl mokesčių administratoriaus sprendimo šio straipsnio nustatyta tvarka nustatyti mokesčių mokėtojui mokestinę prievolę nagrinėjami šio Įstatymo 146 straipsnyje nustatyta tvarka.“
 
-\#### 8 straipsnis. Įstatymo papildymas 1042 straipsniu
+## 8 straipsnis. Įstatymo papildymas 1042 straipsniu
 
 Papildyti Įstatymą 104^2straipsniu:
 
@@ -112,17 +112,17 @@ Papildyti Įstatymą 104^2straipsniu:
 
 4. Tuo atveju, kai nurodymo atsiskaityti negrynaisiais pinigais neįmanoma įvykdyti dėl objektyvių priežasčių, mokesčių mokėtojas nedelsdamas privalo apie tai pranešti mokesčių administratoriui, nurodyti konkrečius atsiskaitymo grynaisiais pinigais atvejus ir pateikti tai pagrindžiančius įrodymus.“
 
-\#### 9 straipsnis. 105 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 105 straipsnio 2 dalies pakeitimas
 
 Pakeisti 105 straipsnio 2 dalį ir ją išdėstyti taip:
 
 „2. Teisė išieškoti mokestinę nepriemoką įgyjama kitą dieną po to, kai pasibaigia raginime geruoju sumokėti mokestį ir su juo susijusias sumas nurodytas terminas, o jeigu raginimas nesiunčiamas, – kitą dieną po šio straipsnio 1 dalies 2 ir3 punktuose nustatyto termino pabaigos. Tais atvejais, kai pasibaigus mokesčio sumokėjimo terminui mokesčių mokėtojas mokesčio deklaraciją pateikia pavėluotai arba pateikia patikslintą mokesčių deklaraciją, mokesčių administratorius įgyja teisę išieškoti patikslintoje mokesčių deklaracijoje nurodytą mokestį ir su juo susijusius delspinigius kitą dieną po minėtos deklaracijos pateikimo dienos.“
 
-\#### 10 straipsnis. Pasiūlymas centriniam mokesčių administratoriui
+## 10 straipsnis. Pasiūlymas centriniam mokesčių administratoriui
 
 Centrinis mokesčių administratorius priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-\#### 11 straipsnis. Įstatymo įsigaliojimas
+## 11 straipsnis. Įstatymo įsigaliojimas
 
 Šio įstatymo 3, 4, 7, 8 ir 9 straipsniai įsigalioja 2013 m. sausio 1 d.
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.16E097CC0F41"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.16E097CC0F41.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo 10, 12, 48, 49 straipsnių pakeitimo ir Įstatymo papildymo 60 straipsniu įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1999, Nr. [55-1765](https://www.e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B); 2011, Nr. [146-6823](https://www.e-tar.lt/portal/lt/legalAct/TAR.AEC9F0069C30))
 
-\#### 1 straipsnis. 10 straipsnio 3 ir 4 dalių pakeitimas
+## 1 straipsnis. 10 straipsnio 3 ir 4 dalių pakeitimas
 
 1. Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „4. Pavedimas atlikti dalį funkcijų kitai įmonei valdymo įmonės nuo atsakomybės neatleidžia.“
 
-\#### 2 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 2 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 1. Pakeisti 12 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
@@ -50,7 +50,7 @@ Vilnius
 
 2. 12 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios.
 
-\#### 3 straipsnis. 48 straipsnio pakeitimas
+## 3 straipsnis. 48 straipsnio pakeitimas
 
 Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
@@ -72,7 +72,7 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 
 4. Šio straipsnio 2 dalies 2, 3 ir 4 punktuose nustatytų apribojimų galima nesilaikyti įsigijimo momentu, jeigu bendra tų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių vertė negali būti apskaičiuota.“
 
-\#### 4 straipsnis. 49 straipsnio pakeitimas
+## 4 straipsnis. 49 straipsnio pakeitimas
 
 Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
@@ -94,7 +94,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 
 4. Tokie kolektyvinio investavimo subjektai, kuriuos valdo ta pati valdymo įmonė ar tokios valdymo įmonės, kurių daugiau negu pusė valdymo organų narių yra tie patys asmenys ar kurias kontroliuoja tas pats asmuo arba kurių viena turi daugiau kaip 10 procentų balsų kitos valdymo įmonės visuotiniame akcininkų susirinkime, laikomi susijusiais. Jeigu bent vienas iš šių subjektų yra pensijų fondo valdymo įmonė, tai to pensijų fondo turtas į susijusių kolektyvinio investavimo subjektų investicinius vienetus ar akcijas gali būti investuojamas tik grynųjų aktyvų verte.“
 
-\#### 5 straipsnis. Įstatymo papildymas 60 straipsniu
+## 5 straipsnis. Įstatymo papildymas 60 straipsniu
 
 Papildyti Įstatymą 60 straipsniu:
 

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.1BF7F6655D0B"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.1BF7F6655D0B.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
@@ -26,11 +26,11 @@ VYRIAUSYBĖS ĮSTATYMO PAKEITIMO ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-\#### 1 straipsnis. Ministerijų panaikinimas
+## 1 straipsnis. Ministerijų panaikinimas
 
 Panaikinama Europos reikalų ministerija, Ryšių ir informatikos ministerija bei Statybos ir urbanistikos ministerija.
 
-\#### 2 straipsnis. Pasiūlymai Vyriausybei
+## 2 straipsnis. Pasiūlymai Vyriausybei
 
 Vyriausybė:
 

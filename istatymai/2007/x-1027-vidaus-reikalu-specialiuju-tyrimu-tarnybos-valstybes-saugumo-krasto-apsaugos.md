@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.9AFBD8793C7C"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.9AFBD8793C7C.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16 straipsnių pakeitimo ir papildymo įstatymas
@@ -28,7 +28,7 @@ Vilnius
 
 (Žin., 1994, Nr. [99-1958](https://www.e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E); 2005, Nr. [71-2558](https://www.e-tar.lt/portal/lt/legalAct/TAR.0BD3A2160A8C), Nr. [153-5644](https://www.e-tar.lt/portal/lt/legalAct/TAR.45D45191ECBC); 2006, Nr. [17-601](https://www.e-tar.lt/portal/lt/legalAct/TAR.852B90E0B68E), Nr. [134-5064](https://www.e-tar.lt/portal/lt/legalAct/TAR.11FBB7047630))
 
-\#### 1 straipsnis. Įstatymo pavadinimo pakeitimas
+## 1 straipsnis. Įstatymo pavadinimo pakeitimas
 
 Pakeisti Įstatymo pavadinimą ir jį išdėstyti taip:
 
@@ -38,7 +38,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 
 ĮSTATYMAS“.
 
-\#### 2 straipsnis. 1 straipsnio pavadinimo ir 1 dalies pakeitimas ir papildymas
+## 2 straipsnis. 1 straipsnio pavadinimo ir 1 dalies pakeitimas ir papildymas
 
 1. Pakeisti 1 straipsnio pavadinimą ir jį išdėstyti taip:
 
@@ -62,7 +62,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 
 7) muitinės mobiliųjų grupių pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys operatyvinę veiklą ir (arba) ikiteisminį tyrimą.“
 
-\#### 3 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas
+## 3 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas
 
 1. 3 straipsnio 1 dalies 1, 4 ir 5 punktuose po žodžių „valstybės įmonėse“ įrašyti žodžius „muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir šią dalį išdėstyti taip:
 
@@ -82,7 +82,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 
 „2. Pareigūnams ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą), valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių).“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 6 straipsnio dalyje iki dvitaškio po žodžio „prokuratūros“ įrašyti žodį „muitinės“, 1 punkte po žodžių „valstybės įmonėse“ įrašyti žodžius „muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir visą straipsnį išdėstyti taip:
 
@@ -98,13 +98,13 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros, muitinės 
 
 4) tarnybos Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos laikas darbo sutarties ir Valstybės tarnybos įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos statutinio tarnautojo pareigoms.“
 
-\#### 5 straipsnis. 12 straipsnio 1 dalies pakeitimas
+## 5 straipsnis. 12 straipsnio 1 dalies pakeitimas
 
 12 straipsnio 1 dalyje po žodžių „Generalinė prokuratūra“ įrašyti žodžius „Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos“ ir šią dalį išdėstyti taip:
 
 „1. Pareigūnams ir kariams bei jų šeimos nariams pensijas skiria ir moka Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Generalinė prokuratūra, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos ar Kalėjimų departamentas pagal tai, kurioje iš šių institucijų pensijos gavėjas tarnavo paskiausiai.“
 
-\#### 6 straipsnis. 16 straipsnio pakeitimas
+## 6 straipsnis. 16 straipsnio pakeitimas
 
 1. 16 straipsnio 1 dalyje po žodžio „karius“ įrašyti žodžius „muitinės pareigūnus (muitinės sistemoje dirbti muitinės mobiliosiose grupėse ar muitinės postuose arba atlikti operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir šią dalį išdėstyti taip:
 

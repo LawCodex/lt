@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e553a94455cc11f0b070ee7f1ceefc75"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E553A94455CC.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 3, 4, 8, 10 ir 13 straipsnių pakeitimo įstatymo Nr. XIV-3115 3, 4, 5, 6 ir 7 straipsnių pakeitimo įstatymas
@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-\#### 1 straipsnis. 3 straipsnio pakeitimas
+## 1 straipsnis. 3 straipsnio pakeitimas
 
 Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
@@ -34,7 +34,7 @@ Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 
 „5. Įstatymų ar Vyriausybės įgaliotų įstaigų veikla atliekant šio straipsnio 3^2 ir 4^1 dalyse, šio įstatymo 13 straipsnio 2 dalyje, Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonėsŽemės ūkio duomenų centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje, 10 straipsnyje ir 13 straipsnio 2 dalyje, Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo 2 straipsnio 1 dalyje nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.“.“
 
-\#### 2 straipsnis. 4 straipsnio pakeitimas
+## 2 straipsnis. 4 straipsnio pakeitimas
 
 Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
@@ -44,7 +44,7 @@ Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Valstybės ir Europos Sąjungos paramos priemones administruoja Žemės ūkio ministerija, valstybės įmonėŽemės ūkio duomenų centras, žemės ūkio ministro įgaliota institucija, Vyriausybės įgaliotos institucijos, įstaigos ir savivaldybių institucijos pagal įstatymų nustatytą kompetenciją.“.“
 
-\#### 3 straipsnis. 5 straipsnio pakeitimas
+## 3 straipsnis. 5 straipsnio pakeitimas
 
 Pakeisti 5 straipsnį ir jį išdėstyti taip:
 
@@ -56,7 +56,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 Žemės ūkio, maisto ūkio ir kaimo plėtros oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymu, tvarko Valstybės duomenų agentūra, Žemės ūkio ministerija, valstybės įmonė Žemės ūkio duomenų centras, Vyriausybės įgaliotos institucijos ir (ar) kiti subjektai, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį.“.“
 
-\#### 4 straipsnis. 6 straipsnio pakeitimas
+## 4 straipsnis. 6 straipsnio pakeitimas
 
 Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
@@ -76,7 +76,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 5. Siekdama sustiprinti žemės ūkio veiklos subjektų, parduodančių žalią pieną, derybines galias ir didinti pieno rinkos skaidrumą, valstybės įmonė Žemės ūkio duomenų centras turi teisę iš ūkio subjektų, registruotų žalio pieno supirkimo ir (ar) perdirbimo veiklai plėtoti (toliau – žalio pieno pirkėjas), rinkti ir skelbti informaciją apie vidutines kalendorinio mėnesio žalio pieno pirkimo kainas pagal kiekvieną žalio pieno pirkėją, jas išskiriant pagal žalio pieno pristatymo būdą (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš žemės ūkio veiklos subjekto ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę) ir (ar) pagal iš žemės ūkio veiklos subjekto perkamo žalio pieno kiekį. Šios informacijos rinkimo, naudojimo ir viešinimo tvarką nustato žemės ūkio ministras.“.“
 
-\#### 5 straipsnis. 7 straipsnio pakeitimas
+## 5 straipsnis. 7 straipsnio pakeitimas
 
 Pripažinti netekusia galios 7 straipsnio 3 dalį.
 

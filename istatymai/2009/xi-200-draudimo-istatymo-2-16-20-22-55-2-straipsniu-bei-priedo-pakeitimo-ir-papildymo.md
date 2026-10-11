@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.21603FBE2547"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.21603FBE2547.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos draudimo įstatymo 2, 16, 20, 22, 55-2 straipsnių bei priedo pakeitimo ir papildymo įstatymas
@@ -24,7 +24,7 @@ Vilnius
 
 (Žin., 2003, Nr. [94-4246](https://www.e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9); 2007, Nr. [61-2342](https://www.e-tar.lt/portal/lt/legalAct/TAR.42B2B5D8CA14), Nr. [125-5092](https://www.e-tar.lt/portal/lt/legalAct/TAR.1A00F937A7E3))
 
-\#### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
+## 1 straipsnis. 2 straipsnio papildymas ir pakeitimas
 
 1. Papildyti 2 straipsnį nauja 40 dalimi:
 
@@ -42,7 +42,7 @@ Vilnius
 
 „72. **Valdymo įmonė –**kaip tai apibrėžta Kolektyvinio investavimo subjektų įstatyme.“
 
-\#### 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 16 straipsnio 2 dalies pakeitimas
 
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -54,13 +54,13 @@ Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
 3) kontroliuojama to paties asmens, kuris kontroliuoja kitos Europos Sąjungos valstybės narės kredito įstaigą, finansų maklerio įmonę ar valdymo įmonę.“
 
-\#### 3 straipsnis. 20 straipsnio 3 dalies pakeitimas
+## 3 straipsnis. 20 straipsnio 3 dalies pakeitimas
 
 Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
 
 „3. Draudimo įmonės steigėjai ir draudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, asmenys, tiesiogiai ar netiesiogiai valdantys akcijas, privalo būti nepriekaištingos reputacijos, o draudimo kontroliuojančiosios (holdingo) įmonės priežiūros, valdymo organų nariai ir administracijos vadovas privalo būti nepriekaištingos reputacijos, kvalifikuoti ir patyrę asmenys. Jei vienas ar keli draudimo įmonės steigėjai iki draudimo veiklos licencijos gavimo nusprendžia perleisti akcijas kitiems asmenims, tokiam tiesiogiai ar netiesiogiai valdomų draudimo įmonės akcijų perleidimui taikomos šio Įstatymo 22 straipsnio nuostatos ir šio Įstatymo 15 straipsnio 1 dalyje nustatytas terminas pratęsiamas šio Įstatymo 22 straipsnio 5 dalyje nurodytu terminu.“
 
-\#### 4 straipsnis. 22 straipsnio pakeitimas
+## 4 straipsnis. 22 straipsnio pakeitimas
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
@@ -128,19 +128,19 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 
 19. Kilus įtarimui, kad tiesiogiai ar netiesiogiai valdomos draudimo įmonės akcijos gali būti apmokėtos pinigais, kurių kilmė nėra teisėta, Priežiūros komisija Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka privalo kreiptis į Valstybės saugumo departamentą ir (ar) į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos su prašymu pateikti išvadą apie šių pinigų kilmę. Valstybės saugumo departamentas ir Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos, kitos valstybės ir savivaldybių institucijos, taip pat kiti asmenys Priežiūros komisijos prašymu privalo nedelsdami jai pateikti turimą informaciją apie įsigyjantį asmenį, jo dalyvius, vadovus, finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas, kitą informaciją, kuri Priežiūros komisijai reikalinga įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti.“
 
-\#### 5 straipsnis. 552 straipsnio 2 dalies pakeitimas
+## 5 straipsnis. 552 straipsnio 2 dalies pakeitimas
 
 55^2 straipsnio 2 dalyje po žodžio „akcijų“ įrašyti žodžius „įsigijimui ir“ ir šią dalį išdėstyti taip:
 
 „2. Tiesiogiai ar netiesiogiai valdomų perdraudimo įmonės akcijų įsigijimui ir perleidimui *mutatis mutandis*taikomos šio Įstatymo 22 straipsnio nuostatos.“
 
-\#### 6 straipsnis. Įstatymo priedo papildymas
+## 6 straipsnis. Įstatymo priedo papildymas
 
 Papildyti Įstatymo priedą 26 punktu:
 
 „26. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).“
 
-\#### 7 straipsnis. Įstatymo taikymas
+## 7 straipsnis. Įstatymo taikymas
 
 Iki šio įstatymo įsigaliojimo Priežiūros komisijai paduoti prašymai dėl sutikimo įsigyti ar padidinti pakankamą akcijų paketą nagrinėjami ir sprendimai priimami prašymo padavimo metu galiojusių teisės aktų nustatyta tvarka.
 

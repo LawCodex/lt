@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.A48A1C2C4816"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.A48A1C2C4816.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymo 2, 52 ir 56 straipsnių pakeitimo įstatymas
@@ -24,19 +24,19 @@ Vilnius
 
 (Žin., 2006, Nr. [82-3248](https://www.e-tar.lt/portal/lt/legalAct/TAR.103565D95E60))
 
-\#### 1 straipsnis. 2 straipsnio 16 dalies pakeitimas
+## 1 straipsnis. 2 straipsnio 16 dalies pakeitimas
 
 2 straipsnio 16 dalyje vietoj žodžių „Vertybinių popierių rinkos“ įrašyti žodžius „Finansinių priemonių rinkų“ ir šią dalį išdėstyti taip:
 
 „16. **Nepriekaištingos reputacijos asmenys –**kaip ši sąvoka apibrėžta Draudimo įstatyme ir Finansinių priemonių rinkų įstatyme.“
 
-\#### 2 straipsnis. 52 straipsnio 2 dalies pakeitimas
+## 2 straipsnis. 52 straipsnio 2 dalies pakeitimas
 
 52 straipsnio 2 dalyje vietoj žodžių „Vertybinių popierių rinkos“ įrašyti žodžius „Finansinių priemonių rinkų“ ir šią dalį išdėstyti taip:
 
 „2. Vertybinių popierių komisija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu ir turi šio bei kitų įstatymų numatytas teises ir pareigas.“
 
-\#### 3 straipsnis. 56 straipsnio pakeitimas
+## 3 straipsnis. 56 straipsnio pakeitimas
 
 Pakeisti 56 straipsnį ir jį išdėstyti taip:
 

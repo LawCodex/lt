@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/e7c46170c0a011ec8d9390588bf2de65"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.E7C46170C0A0.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas
@@ -38,9 +38,9 @@ siekdamas užtikrinti Nacionalinio saugumo strategijoje nurodytus Lietuvos Respu
 
 priimašį įstatymą.
 
-\### PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS. BENDROSIOS NUOSTATOS
 
-\#### 1 straipsnis. Įstatymo paskirtis, tikslas ir taikymas
+## 1 straipsnis. Įstatymo paskirtis, tikslas ir taikymas
 
 1. Šis įstatymas nustato Lietuvos kariuomenės Rūdninkų karinio poligono (toliau – poligonas) teritorijos ribas ir jos suformavimą, žemės, reikalingos poligonui įkurti, paėmimą visuomenės poreikiams, statinių ir įrenginių poligono teritorijoje statybą (įrengimą) (toliau – poligono įkūrimas), žemės, reikalingos poligonui įkurti, paėmimo visuomenės poreikiams procedūras, statinių ir įrenginių statybos (įrengimo) poligono teritorijoje reikalavimus ir sudaro teisines, finansines ir organizacines sąlygas, reikalingas poligonui įkurti, taip pat nustato poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje sąlygas ir žemės paėmimo visuomenės poreikiams procedūras.
 
@@ -48,11 +48,11 @@ priimašį įstatymą.
 
 Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Teritorijų planavimo įstatyme, Statybos įstatyme, Specialiųjų žemės naudojimo sąlygų įstatyme, Žemės įstatyme, Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme, Želdynų įstatyme, Miškų įstatyme, Kelių įstatyme, Saugomų teritorijų įstatyme, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Nekilnojamojo turto kadastro įstatyme, Nekilnojamojo turto registro įstatyme, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Valstybės ir savivaldybės įmonių įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme.
 
-\### ANTRASIS SKIRSNIS. PRIPAŽINIMAS YPATINGOS VALSTYBINĖS SVARBOS PROJEKTAIS,
+ANTRASIS SKIRSNIS. PRIPAŽINIMAS YPATINGOS VALSTYBINĖS SVARBOS PROJEKTAIS,
 
 JŲ ĮGYVENDINIMAS IR FINANSAVIMAS
 
-\#### 3 straipsnis. Sprendimas dėl pripažinimo ypatingos valstybinės svarbos projektais
+## 3 straipsnis. Sprendimas dėl pripažinimo ypatingos valstybinės svarbos projektais
 
 1. Šiuo įstatymu poligono įkūrimas pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektu (toliau – Projektas).
 
@@ -66,19 +66,19 @@ JŲ ĮGYVENDINIMAS IR FINANSAVIMAS
 
 4. Šio įstatymo 3 straipsnio 2 dalimi pripažįstamą ypatingos valstybinės svarbos krašto apsaugos srities projektą įgyvendina Lietuvos Respublikos Vyriausybės paskirtos institucijos.
 
-\#### 5 straipsnis. Ypatingos valstybinės svarbos projektų finansavimas
+## 5 straipsnis. Ypatingos valstybinės svarbos projektų finansavimas
 
 1. Projektas finansuojamas iš Projektą įgyvendinančiajai institucijai skirtų valstybės biudžeto asignavimų.
 
 2. Šio įstatymo 3 straipsnio 2 dalimi pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektas finansuojamas iš Vyriausybės paskirtoms projektą įgyvendinančiosioms institucijoms skirtų valstybės biudžeto asignavimų.
 
-\#### 6 straipsnis. Sprendimų priėmimas
+## 6 straipsnis. Sprendimų priėmimas
 
 Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, pagal kompetenciją priimdamos sprendimus, susijusius su Projekto įgyvendinimu, visapusiškai bendradarbiauja tarpusavyje ir su Projektą įgyvendinančiąja institucija, keičiasi reikalinga informacija ir užtikrina sprendimų priėmimą laiku, suteikiantį Projektą įgyvendinančiajai institucijai ir (ar) kitiems asmenims teisę vykdyti poligono statinių ir įrenginių projektavimo, statybos (įrengimo) ir kitus susijusius darbus poligono teritorijoje. Su Projekto įgyvendinimu susiję sprendimai turi būti priimami per kuo trumpesnius terminus.
 
-\### TREČIASIS SKIRSNIS. POLIGONO ĮKŪRIMAS IR POLIGONO EFEKTYVŲ NAUDOJIMĄ UŽTIKRINANČIŲ INŽINERINIŲ STATINIŲ IR ĮRENGINIŲ STATYBA (ĮRENGIMAS) NE POLIGONO TERITORIJOJE
+TREČIASIS SKIRSNIS. POLIGONO ĮKŪRIMAS IR POLIGONO EFEKTYVŲ NAUDOJIMĄ UŽTIKRINANČIŲ INŽINERINIŲ STATINIŲ IR ĮRENGINIŲ STATYBA (ĮRENGIMAS) NE POLIGONO TERITORIJOJE
 
-\#### 7 straipsnis. Poligono teritorija ir jos suformavimas
+## 7 straipsnis. Poligono teritorija ir jos suformavimas
 
 1. Poligono teritorijos ribų schema pateikiama šio įstatymo 1 priede. Į poligono teritoriją patenkanti valstybinė žemė, kurioje yra atskirais žemės sklypais nesuformuotos valstybinės žemės, valstybinės žemės sklypai ir jų kadastro duomenys bei vertė nurodomi šio įstatymo 2 priede. Į poligono teritoriją patenkantys privačios žemės sklypai ir jų kadastro duomenys nurodomi šio įstatymo 3 priede.
 
@@ -108,7 +108,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 7. Krašto apsaugos ministerija šiuo įstatymu jai perduotus patikėjimo teise valdyti valstybinės žemės sklypus gali išnuomoti be aukciono Vyriausybės nustatyta tvarka valdžios ir privataus subjektų partnerystės sutarties, kurios tikslas – užtikrinti Vokietijos Federacinės Respublikos sunkiosios brigados dislokavimą poligono teritorijoje, padidinti infrastruktūros ir paslaugų prieinamumą, siekiant patenkinti numatomos dislokuoti Vokietijos Federacinės Respublikos sunkiosios brigados poreikius, ir padidinti kovinius pajėgumus Lietuvos Respublikos suverenitetui, teritorijos neliečiamybei ir vientisumui saugoti ir ginti, galiojimo laikotarpiui privataus sektoriaus subjektams, kai šie žemės sklypai reikalingi vykdant valdžios ir privataus subjektų partnerystės sutartį, sudarytą vadovaujantis Lietuvos Respublikos investicijų įstatymu. Krašto apsaugos ministerijai šiuo įstatymu patikėjimo teise perduoti valstybinės žemės sklypai, kurie yra reikalingi poligono efektyvų naudojimą užtikrinantiems inžineriniams statiniams ir įrenginiams statyti (įrengti), išnuomojami vadovaujantis Žemės įstatymu.
 
-\#### 8 straipsnis. Žemės naudojimas poligonui įkurti ir veiklai jo teritorijoje vykdyti, su statinių ir įrenginių statyba (įrengimu) susijusių darbų vykdymas
+## 8 straipsnis. Žemės naudojimas poligonui įkurti ir veiklai jo teritorijoje vykdyti, su statinių ir įrenginių statyba (įrengimu) susijusių darbų vykdymas
 
 1. Poligono teritorijoje esantys keliai ir (ar) jų dalys, kurie dėl poligono teritorijoje vykdomos veiklos nesuderinami su visuomenės saugumu, interesais dėl eismo ribojimų, paliekami naudoti poligono reikmėms, visuomenės poreikiams nutiesiant artimiausią kelio atkarpą susisiekimui užtikrinti.
 
@@ -144,7 +144,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 8. Poligone planuojami statyti sprogmenų sandėliai projektuojami numatant ne mažesnį kaip 400 metrų atstumą nuo sprogmenų sandėlio iki poligono teritorijos ribos.
 
-\### KETVIRTASIS SKIRSNIS. POLIGONUI ĮKURTI REIKALINGOS ŽEMĖS PAĖMIMO VISUOMENĖS POREIKIAMS PROCEDŪRA#### 9 straipsnis. Žemės paėmimo visuomenės poreikiams procedūra
+KETVIRTASIS SKIRSNIS. POLIGONUI ĮKURTI REIKALINGOS ŽEMĖS PAĖMIMO VISUOMENĖS POREIKIAMS PROCEDŪRA#### 9 straipsnis. Žemės paėmimo visuomenės poreikiams procedūra
 
 1. Žemės paėmimo visuomenės poreikiams procedūros pradžia yra šio įstatymo įsigaliojimo data. Nuo šio įstatymo įsigaliojimo momento žemės savininkai neturi teisės perleisti, įkeisti ar kitaip suvaržyti daiktinių teisių į šio įstatymo 3 priede nurodytus žemės sklypus, taip pat neturi teisės šių žemės sklypų pertvarkyti (atidalyti, padalyti, perdalyti, sujungti).
 
@@ -170,7 +170,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 7. Šiame straipsnyje nurodytos teisinio reglamentavimo išimtys taikomos tais atvejais, kai Projektą įgyvendinančioji institucija pateikia Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančiajai institucijai duomenis apie inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje poreikį.
 
-\#### 10 straipsnis. Žemės paėmimo visuomenės poreikiams akto parengimas ir atlyginimas už visuomenės poreikiams paimamą turtą ir turto vertę
+## 10 straipsnis. Žemės paėmimo visuomenės poreikiams akto parengimas ir atlyginimas už visuomenės poreikiams paimamą turtą ir turto vertę
 
 1. Projektą įgyvendinančioji institucija organizuoja paimamo visuomenės poreikiams turto vertinimą, kuris atliekamas Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 13 straipsnyje nustatyta tvarka.
 
@@ -212,7 +212,7 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 5. Apygardos administracinio teismo nutartis, kuria išsprendžiamas žemės paėmimo visuomenės poreikiams akto teisėtumo patvirtinimo klausimas, ir (ar) sprendimas, kuriuo išsprendžiami kiti su žemės paėmimu visuomenės poreikiams susiję klausimai, skundžiami ir nagrinėjami Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 6 straipsnio 5 dalyje nustatyta tvarka. Byloms dėl viešojo intereso gynimo, susijusioms su šio įstatymo taikymu, taikomos Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 6 straipsnio 6 dalies nuostatos.
 
-\#### 12 straipsnis. Nuosavybės registravimas valstybės vardu
+## 12 straipsnis. Nuosavybės registravimas valstybės vardu
 
 1. Kai paimamos visuomenės poreikiams žemės savininkas ir (ar) kitas naudotojas pasirašo žemės paėmimo visuomenės poreikiams aktą ir Projektą įgyvendinančioji institucija žemės paėmimo visuomenės poreikiams akte nurodytą atlyginimo sumą perveda į žemės savininko ir (ar) kito naudotojo nurodytą banko ar kitos kredito įstaigos sąskaitą, Projektą įgyvendinančioji institucija tokio žemės sklypo valstybės nuosavybės teisę ir Krašto apsaugos ministerijos patikėjimo teisę į šį žemės sklypą bei valstybės nuosavybės teisę ir Krašto apsaugos ministerijos patikėjimo teisę į statinius ir įrenginius įregistruoja Nekilnojamojo turto registre.
 
@@ -220,9 +220,9 @@ Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, 
 
 3. Nuosavybės teisė valstybei ir patikėjimo teisė Krašto apsaugos ministerijai į visuomenės poreikiams paimamą žemę, statinius ir įrenginius pereina nuo žemės sklypo, statinių ir įrenginių įregistravimo Nekilnojamojo turto registre kaip valstybės nuosavybės momento. Įregistravus valstybės nuosavybę, žyma, nurodyta šio įstatymo 9 straipsnio 3 dalyje, panaikinama.
 
-\### PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
+PENKTASIS SKIRSNIS. BAIGIAMOSIOS NUOSTATOS
 
-\#### 13 straipsnis. Įstatymo įgyvendinimas
+## 13 straipsnis. Įstatymo įgyvendinimas
 
 1. Vyriausybė, naudodamasi jai suteiktomis teisėmis ir atlikdama pavestas pareigas, ir jai pavaldžios institucijos užtikrina tinkamą teisinių, finansinių ir organizacinių sąlygų įgyvendinimą, kad poligonas būtų įkurtas kiek įmanoma greičiau.
 
@@ -260,127 +260,71 @@ Rūdninkų karinio poligono įstatymo
 
 **Valstybinės žemės sklypai**
 
-\| Eil. Nr. | Sklypo unikalus numeris | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
-
-\| --- | --- | --- | --- | --- | --- |
-
-\| 1. | 440016847611 | 33 306,00 | 22 406,00 | 10 900,00 | 10 900,00 |
-
-\| 2. | 440017032505 | Nenustatyta | Nėra | 607,00 | 607,00 |
-
-\| 3. | 440017439644 | Nenustatyta | Nėra | 347 834,00 | 347 834,00 |
-
-\| 4. | 440017494190 | Nenustatyta | Nėra | 98 950,00 | 98 950,00 |
-
-\| 5. | 440017517109 | Nenustatyta | Nėra | 174 062,00 | 174 062,00 |
-
-\| 6. | 440017639080 | Nenustatyta | Nėra | 521,00 | 521,00 |
-
-\| 7. | 440017646561 | Nenustatyta | Nėra | 715 598,00 | 715 598,00 |
-
-\| 8. | 440017647515 | Nenustatyta | Nėra | 2 561 413,00 | 2 561 413,00 |
-
-\| 9. | 440017647659 | Nenustatyta | Nėra | 112 920,00 | 112 920,00 |
-
-\| 10. | 440017649053 | Nenustatyta | Nėra | 2 081 824,00 | 2 081 824,00 |
-
-\| 11. | 440017669588 | Nenustatyta | Nėra | 620 473,00 | 620 473,00 |
-
-\| 12. | 440017672529 | Nenustatyta | Nėra | 47 812,00 | 47 812,00 |
-
-\| 13. | 440017703090 | Nenustatyta | Nėra | 58 408,00 | 58 408,00 |
-
-\| 14. | 440017703136 | Nenustatyta | Nėra | 26 394,00 | 26 394,00 |
-
-\| 15. | 440018052447 | Nenustatyta | Nėra | 29 814,00 | 29 814,00 |
-
-\| 16. | 440018056536 | Nenustatyta | Nėra | 81 208,00 | 81 208,00 |
-
-\| 17. | 440018058441 | Nenustatyta | Nėra | 120 283,00 | 120 283,00 |
-
-\| 18. | 440018059706 | Nenustatyta | Nėra | 16 160,00 | 16 160,00 |
-
-\| 19. | 440018064105 | Nenustatyta | Nėra | 1 036 840,00 | 1 036 840,00 |
-
-\| 20. | 440018094427 | Nenustatyta | Nėra | 152 340,00 | 152 340,00 |
-
-\| 21. | 440018103203 | Nenustatyta | Nėra | 2 704 182,00 | 2 704 182,00 |
-
-\| 22. | 440018107569 | Nenustatyta | Nėra | 571 252,00 | 571 252,00 |
-
-\| 23. | 440018129345 | Nenustatyta | Nėra | 373 851,00 | 373 851,00 |
-
-\| 24. | 440018307781 | Nenustatyta | Nėra | 1 011 614,00 | 1 011 614,00 |
-
-\| 25. | 440018308379 | Nenustatyta | Nėra | 957 339,00 | 957 339,00 |
-
-\| 26. | 440018434010 | Nenustatyta | Nėra | 673 309,00 | 673 309,00 |
-
-\| 27. | 440018435417 | Nenustatyta | Nėra | 3 162 245,00 | 3 162 245,00 |
-
-\| 28. | 440018437977 | Nenustatyta | Nėra | 1 661 594,00 | 1 661 594,00 |
-
-\| 29. | 440018438524 | Nenustatyta | Nėra | 1 637 454,00 | 1 637 454,00 |
-
-\| 30. | 440018621055 | Nenustatyta | Nėra | 7 762,00 | 7 762,00 |
-
-\| 31. | 440018634376 | Nenustatyta | Nėra | 1 033 943,00 | 1 033 943,00 |
-
-\| 32. | 440018641591 | Nenustatyta | Nėra | 1 372 799,00 | 1 372 799,00 |
-
-\| 33. | 440018650336 | Nenustatyta | Nėra | 2 702 155,00 | 2 702 155,00 |
-
-\| 34. | 440018653156 | Nenustatyta | Nėra | 131 487,00 | 131 487,00 |
-
-\| 35. | 440018655288 | Nenustatyta | Nėra | 284 986,00 | 284 986,00 |
-
-\| 36. | 440018655322 | Nenustatyta | Nėra | 893 478,00 | 893 478,00 |
-
-\| 37. | 440018659544 | Nenustatyta | Nėra | 1 115 037,00 | 1 115 037,00 |
-
-\| 38. | 440019516633 | Nenustatyta | Nėra | 1 288 543,00 | 1 288 543,00 |
-
-\| 39. | 440021895563 | Nenustatyta | Nėra | 2 287 709,00 | 2 287 709,00 |
-
-\| 40. | 440026006948 | Nenustatyta | Nėra | 2 108,00 | 2 108,00 |
-
-\| 41. | 440031345276 | Nenustatyta | Nėra | 662 651,00 | 662 651,00 |
-
-\| 42. | 440031480305 | Nenustatyta | Nėra | 135 253,00 | 135 253,00 |
-
-\| 43. | 440031594051 | Nenustatyta | Nėra | 26 095,00 | 26 095,00 |
-
-\| 44. | 440038869840 | Nenustatyta | Nėra | 905,00 | 905,00 |
-
-\| 45. | 853700030001 | 11 451,87 | 2 611,87 | 8 840,00 | 8 840,00 |
+| Eil. Nr. | Sklypo unikalus numeris | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
+| --- | --- | --- | --- | --- | --- |
+| 1. | 440016847611 | 33 306,00 | 22 406,00 | 10 900,00 | 10 900,00 |
+| 2. | 440017032505 | Nenustatyta | Nėra | 607,00 | 607,00 |
+| 3. | 440017439644 | Nenustatyta | Nėra | 347 834,00 | 347 834,00 |
+| 4. | 440017494190 | Nenustatyta | Nėra | 98 950,00 | 98 950,00 |
+| 5. | 440017517109 | Nenustatyta | Nėra | 174 062,00 | 174 062,00 |
+| 6. | 440017639080 | Nenustatyta | Nėra | 521,00 | 521,00 |
+| 7. | 440017646561 | Nenustatyta | Nėra | 715 598,00 | 715 598,00 |
+| 8. | 440017647515 | Nenustatyta | Nėra | 2 561 413,00 | 2 561 413,00 |
+| 9. | 440017647659 | Nenustatyta | Nėra | 112 920,00 | 112 920,00 |
+| 10. | 440017649053 | Nenustatyta | Nėra | 2 081 824,00 | 2 081 824,00 |
+| 11. | 440017669588 | Nenustatyta | Nėra | 620 473,00 | 620 473,00 |
+| 12. | 440017672529 | Nenustatyta | Nėra | 47 812,00 | 47 812,00 |
+| 13. | 440017703090 | Nenustatyta | Nėra | 58 408,00 | 58 408,00 |
+| 14. | 440017703136 | Nenustatyta | Nėra | 26 394,00 | 26 394,00 |
+| 15. | 440018052447 | Nenustatyta | Nėra | 29 814,00 | 29 814,00 |
+| 16. | 440018056536 | Nenustatyta | Nėra | 81 208,00 | 81 208,00 |
+| 17. | 440018058441 | Nenustatyta | Nėra | 120 283,00 | 120 283,00 |
+| 18. | 440018059706 | Nenustatyta | Nėra | 16 160,00 | 16 160,00 |
+| 19. | 440018064105 | Nenustatyta | Nėra | 1 036 840,00 | 1 036 840,00 |
+| 20. | 440018094427 | Nenustatyta | Nėra | 152 340,00 | 152 340,00 |
+| 21. | 440018103203 | Nenustatyta | Nėra | 2 704 182,00 | 2 704 182,00 |
+| 22. | 440018107569 | Nenustatyta | Nėra | 571 252,00 | 571 252,00 |
+| 23. | 440018129345 | Nenustatyta | Nėra | 373 851,00 | 373 851,00 |
+| 24. | 440018307781 | Nenustatyta | Nėra | 1 011 614,00 | 1 011 614,00 |
+| 25. | 440018308379 | Nenustatyta | Nėra | 957 339,00 | 957 339,00 |
+| 26. | 440018434010 | Nenustatyta | Nėra | 673 309,00 | 673 309,00 |
+| 27. | 440018435417 | Nenustatyta | Nėra | 3 162 245,00 | 3 162 245,00 |
+| 28. | 440018437977 | Nenustatyta | Nėra | 1 661 594,00 | 1 661 594,00 |
+| 29. | 440018438524 | Nenustatyta | Nėra | 1 637 454,00 | 1 637 454,00 |
+| 30. | 440018621055 | Nenustatyta | Nėra | 7 762,00 | 7 762,00 |
+| 31. | 440018634376 | Nenustatyta | Nėra | 1 033 943,00 | 1 033 943,00 |
+| 32. | 440018641591 | Nenustatyta | Nėra | 1 372 799,00 | 1 372 799,00 |
+| 33. | 440018650336 | Nenustatyta | Nėra | 2 702 155,00 | 2 702 155,00 |
+| 34. | 440018653156 | Nenustatyta | Nėra | 131 487,00 | 131 487,00 |
+| 35. | 440018655288 | Nenustatyta | Nėra | 284 986,00 | 284 986,00 |
+| 36. | 440018655322 | Nenustatyta | Nėra | 893 478,00 | 893 478,00 |
+| 37. | 440018659544 | Nenustatyta | Nėra | 1 115 037,00 | 1 115 037,00 |
+| 38. | 440019516633 | Nenustatyta | Nėra | 1 288 543,00 | 1 288 543,00 |
+| 39. | 440021895563 | Nenustatyta | Nėra | 2 287 709,00 | 2 287 709,00 |
+| 40. | 440026006948 | Nenustatyta | Nėra | 2 108,00 | 2 108,00 |
+| 41. | 440031345276 | Nenustatyta | Nėra | 662 651,00 | 662 651,00 |
+| 42. | 440031480305 | Nenustatyta | Nėra | 135 253,00 | 135 253,00 |
+| 43. | 440031594051 | Nenustatyta | Nėra | 26 095,00 | 26 095,00 |
+| 44. | 440038869840 | Nenustatyta | Nėra | 905,00 | 905,00 |
+| 45. | 853700030001 | 11 451,87 | 2 611,87 | 8 840,00 | 8 840,00 |
 
 **Valstybinė žemė, kurioje nesuformuoti (suprojektuoti) žemės sklypai**
 
-\| Eil. Nr. | Sklypo numeris Vilniaus apskrities Šalčininkų rajono Gerviškių seniūnijos Čiužiakampio kadastro vietovės laisvos žemės fondo žemės plane | Plotas, ha |
-
-\| --- | --- | --- |
-
-\| 1. | 2181M | 92,85 |
-
-\| 2. | 2182M | 61,70 |
-
-\| 3. | 2183M | 3,86 |
-
-\| 4. | 2184M | 153,47 |
+| Eil. Nr. | Sklypo numeris Vilniaus apskrities Šalčininkų rajono Gerviškių seniūnijos Čiužiakampio kadastro vietovės laisvos žemės fondo žemės plane | Plotas, ha |
+| --- | --- | --- |
+| 1. | 2181M | 92,85 |
+| 2. | 2182M | 61,70 |
+| 3. | 2183M | 3,86 |
+| 4. | 2184M | 153,47 |
 
 **Valstybinė žemė, kurioje nesuformuoti (nesuprojektuoti) žemės sklypai**
 
-\| Eil. Nr. | Valstybinės žemės ploto centro koordinatė Valstybinėje koordinačių sistemoje LKS-94 | Plotas, ha | |
-
-\| --- | --- | --- | --- |
-
-\| 1. | X-6030575 | Y-577618 | 15,32 |
-
-\| 2. | X-6029515 | Y-577635 | 13,47 |
-
-\| 3. | X-6028552 | Y-563546 | 0,17 |
-
-\| 4. | X-6027648 | Y-575263 | 80,29 (Kernavo ežeras) |
+| Eil. Nr. | Valstybinės žemės ploto centro koordinatė Valstybinėje koordinačių sistemoje LKS-94 | Plotas, ha |  |
+| --- | --- | --- | --- |
+| 1. | X-6030575 | Y-577618 | 15,32 |
+| 2. | X-6029515 | Y-577635 | 13,47 |
+| 3. | X-6028552 | Y-563546 | 0,17 |
+| 4. | X-6027648 | Y-575263 | 80,29 (Kernavo ežeras) |
 
 __________________
 
@@ -394,105 +338,56 @@ Rūdninkų karinio poligono įstatymo
 
 **Į poligono teritoriją patenkantys privačios žemės sklypai ir jų kadastro duomenys**
 
-\| Eil. Nr. | Sklypo unikalus numeris |
-
-\| --- | --- |
-
-\| 1. | 440000723295 |
-
-\| 2. | 440010618440 |
-
-\| 3. | 440015528524 |
-
-\| 4. | 440015620941 |
-
-\| 5. | 440015621052 |
-
-\| 6. | 440015621193 |
-
-\| 7. | 440015621317 |
-
-\| 8. | 440015702460 |
-
-\| 9. | 440015702471 |
-
-\| 10. | 440015702482 |
-
-\| 11. | 440015968235 |
-
-\| 12. | 440016011975 |
-
-\| 13. | 440016379472 |
-
-\| 14. | 440016561467 |
-
-\| 15. | 440016583432 |
-
-\| 16. | 440017005840 |
-
-\| 17. | 440017622447 |
-
-\| 18. | 440017946360 |
-
-\| 19. | 440017946391 |
-
-\| 20. | 440018528319 |
-
-\| 21. | 440018528362 |
-
-\| 22. | 440025386343 |
-
-\| 23. | 440025760192 |
-
-\| 24. | 440025770545 |
-
-\| 25. | 440030775096 |
-
-\| 26. | 440041230562 |
-
-\| 27. | 440041907019 |
-
-\| 28. | 440042311031 |
-
-\| 29. | 440042596167 |
-
-\| 30. | 850400100002 |
-
-\| 31. | 850400100003 |
-
-\| 32. | 850400100004 |
-
-\| 33. | 850400100005 |
-
-\| 34. | 850400100006 |
-
-\| 35. | 850400100007 |
-
-\| 36. | 850400100008 |
-
-\| 37. | 850400100009 |
-
-\| 38. | 850400100011 |
-
-\| 39. | 850400100012 |
-
-\| 40. | 850400100013 |
-
-\| 41. | 850400100014 |
-
-\| 42. | 850400100015 |
-
-\| 43. | 850400100016 |
-
-\| 44. | 850400100017 |
-
-\| 45. | 850400100018 |
-
-\| 46. | 850400100019 |
-
-\| 47. | 850400100020 |
-
-\| 48. | 850400100021 |
+| Eil. Nr. | Sklypo unikalus numeris |
+| --- | --- |
+| 1. | 440000723295 |
+| 2. | 440010618440 |
+| 3. | 440015528524 |
+| 4. | 440015620941 |
+| 5. | 440015621052 |
+| 6. | 440015621193 |
+| 7. | 440015621317 |
+| 8. | 440015702460 |
+| 9. | 440015702471 |
+| 10. | 440015702482 |
+| 11. | 440015968235 |
+| 12. | 440016011975 |
+| 13. | 440016379472 |
+| 14. | 440016561467 |
+| 15. | 440016583432 |
+| 16. | 440017005840 |
+| 17. | 440017622447 |
+| 18. | 440017946360 |
+| 19. | 440017946391 |
+| 20. | 440018528319 |
+| 21. | 440018528362 |
+| 22. | 440025386343 |
+| 23. | 440025760192 |
+| 24. | 440025770545 |
+| 25. | 440030775096 |
+| 26. | 440041230562 |
+| 27. | 440041907019 |
+| 28. | 440042311031 |
+| 29. | 440042596167 |
+| 30. | 850400100002 |
+| 31. | 850400100003 |
+| 32. | 850400100004 |
+| 33. | 850400100005 |
+| 34. | 850400100006 |
+| 35. | 850400100007 |
+| 36. | 850400100008 |
+| 37. | 850400100009 |
+| 38. | 850400100011 |
+| 39. | 850400100012 |
+| 40. | 850400100013 |
+| 41. | 850400100014 |
+| 42. | 850400100015 |
+| 43. | 850400100016 |
+| 44. | 850400100017 |
+| 45. | 850400100018 |
+| 46. | 850400100019 |
+| 47. | 850400100020 |
+| 48. | 850400100021 |
 
 _______________________
 
@@ -506,11 +401,9 @@ Rūdninkų karinio poligono įstatymo
 
 **Valstybinės reikšmės keliai ir jų vertės**
 
-\| Unikalus numeris | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
-
-\| --- | --- | --- | --- | --- |
-
-\| 440012192317 | 16 083,00 | 16 083,00 | 0,00 | 0,00 |
+| Unikalus numeris | Įsigijimo savikaina, Eur | Vertės pokytis, Eur | Likutinė vertė, Eur | Perduotos finansavimo sumos (valstybės biudžeto lėšos), Eur |
+| --- | --- | --- | --- | --- |
+| 440012192317 | 16 083,00 | 16 083,00 | 0,00 | 0,00 |
 
 ___________________
 
@@ -548,16 +441,11 @@ Rūdninkų karinio poligono įstatymo
 
 KIEKYBINIAI IR KOKYBINIAI RODIKLIAI
 
-\| Pastatų aukštų skaičius (vnt.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo tankis (proc.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo intensyvumas pagal užstatymo tipus | |
-
-\| --- | --- | --- | --- |
-
-\| perimetrinis ar laisvo planavimo užstatymas | atskirai stovintys pastatai | | |
-
-\| 1–3 | 80 | 1,4 | 2,5 |
-
-\| 4 | 80 | 1,5 | 3 |
-
-\| ≥ 5 | 80 | 1,6 | 3 |
+| Pastatų aukštų skaičius (vnt.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo tankis (proc.) | Didžiausiasis leidžiamasis žemės sklypų užstatymo intensyvumas pagal užstatymo tipus |  |
+| --- | --- | --- | --- |
+| perimetrinis ar laisvo planavimo užstatymas | atskirai stovintys pastatai |  |  |
+| 1–3 | 80 | 1,4 | 2,5 |
+| 4 | 80 | 1,5 | 3 |
+| ≥ 5 | 80 | 1,6 | 3 |
 
 ____________________

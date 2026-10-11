@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.C57466D30B41"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.C57466D30B41.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 6, 13, 22, 24, 27, 28, 39, 40, 41, 44, 44-1, 45, 46 straipsnių ir dešimtojo skirsnio pavadinimo pakeitimo įstatymas
@@ -24,13 +24,13 @@ Vilnius
 
 (Žin., 1994, Nr. [43-772](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82); 1998, Nr. 41(1)-1131; 2000, Nr. 92-2843; 2001, Nr. 48-1656, Nr. 66-2407; 2002, Nr. 41-1527; 2005, Nr. 67-2405; 2006, Nr. 17-596; 2007, Nr. 72-2831; 2008, Nr. 117-4442, Nr. 131-5030, Nr. 149-6044; 2009, Nr. 29-1139, Nr. 46-1796, Nr. 85-3576, Nr. 147-6554; 2010, Nr. 71-3541, Nr. 139-7111)
 
-\#### 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
+## 1 straipsnis. 6 straipsnio 4 dalies pakeitimas
 
 6 straipsnio 4 dalyje vietoj žodžio „etapus“ įrašyti žodžius „prioritetines priemones“ ir šią dalį išdėstyti taip:
 
 „4. Kai Seimas pritaria Vyriausybės programai, Vyriausybė privalo per 3 mėnesius patvirtinti šios programos nuostatų įgyvendinimo prioritetines priemones.“
 
-\#### 2 straipsnis. 13 straipsnio 2, 3 ir 5 dalių pakeitimas
+## 2 straipsnis. 13 straipsnio 2, 3 ir 5 dalių pakeitimas
 
 1. 13 straipsnio 2 dalyje vietoj žodžių „Ministro Pirmininko tarnyba“ įrašyti žodžius „Vyriausybės kanceliarija“ ir šią dalį išdėstyti taip:
 
@@ -44,13 +44,13 @@ Vilnius
 
 „5. Ministras Pirmininkas gali turėti rezidenciją, išlaikomą iš Vyriausybės kanceliarijai valstybės biudžete numatytų lėšų.“
 
-\#### 3 straipsnis. 22 straipsnio 9 punkto pakeitimas
+## 3 straipsnis. 22 straipsnio 9 punkto pakeitimas
 
 22 straipsnio 9 punkte vietoj žodžių „Ministro Pirmininko tarnybos“ įrašyti žodžius „Vyriausybės kanceliarijos“ ir šį punktą išdėstyti taip:
 
 „9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos nuostatus, Vyriausybės įstaigų administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos vadovui; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui;“.
 
-\#### 4 straipsnis. 24 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
+## 4 straipsnis. 24 straipsnio 2 dalies 3 ir 4 punktų pakeitimas
 
 1. 24 straipsnio 2 dalies 3 punkte vietoj žodžių „Ministro Pirmininko kancleriui“ įrašyti žodžius „Vyriausybės kancleriui“ ir šį punktą išdėstyti taip:
 
@@ -60,7 +60,7 @@ Vilnius
 
 „4) skiria Ministro Pirmininko priimtiems į pareigas valstybės tarnautojams ir pareigūnams tarnybines ar drausmines nuobaudas, skatina Ministro Pirmininko priimtus į pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, suteikia jiems atostogas bei siunčia juos į komandiruotes, jeigu įstatymai nenumato kitaip; gali pavesti Vyriausybės kancleriui skatinti Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, skirti jiems tarnybines ar drausmines nuobaudas ir pašalpas, suteikti jiems atostogas ir siųsti juos į komandiruotes;“.
 
-\#### 5 straipsnis. 27 straipsnio 2, 3 ir 5 dalių pakeitimas
+## 5 straipsnis. 27 straipsnio 2, 3 ir 5 dalių pakeitimas
 
 1. Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -74,19 +74,19 @@ Vilnius
 
 „5. Vyriausybės komisijos gali būti sudaromos iš valstybės ir savivaldybių institucijų ir įstaigų, asociacijų, mokslo ir studijų institucijų atstovų, nepriklausomų ekspertų, prireikus ir kitų asmenų. Savivaldybių institucijų ir įstaigų atstovai į Vyriausybės komisijas deleguojami savivaldybių tarybų, Seimo nariai – Seimo Pirmininko arba Seimo valdybos, o Seimo kanceliarijos darbuotojai – Seimo kanclerio. Sudarydama Vyriausybės komisijas, Vyriausybė nustato jų užduotis, personalinę sudėtį. Vyriausybė gali pavesti Ministrui Pirmininkui, ministrui, Vyriausybės kancleriui ar Vyriausybės įstaigos vadovui patvirtinti Vyriausybės komisijos personalinę sudėtį. Vyriausybės komisijų darbo organizavimo tvarką nustato Vyriausybės darbo reglamentas.“
 
-\#### 6 straipsnis. 28 straipsnio 1 dalies pakeitimas
+## 6 straipsnis. 28 straipsnio 1 dalies pakeitimas
 
 28 straipsnio 1 dalyje vietoj žodžių „Seimo statuto“ įrašyti žodžius „Seimo Pirmininko arba Seimo valdybos“, vietoj žodžių „teisės aktų nustatyta tvarka“ – žodžius „Seimo kanclerio“ ir šią dalį išdėstyti taip:
 
 „1. Ministras Pirmininkas gali sudaryti darbo grupes jo pavestoms užduotims atlikti. Šios darbo grupės gali būti sudaromos iš valstybės ir savivaldybių institucijų ir įstaigų, asociacijų, mokslo ir studijų institucijų atstovų, nepriklausomų ekspertų, prireikus ir kitų asmenų. Savivaldybių institucijų ir įstaigų atstovai į Ministro Pirmininko darbo grupes deleguojami savivaldybių tarybų, Seimo nariai – Seimo Pirmininko arba Seimo valdybos, o Seimo kanceliarijos darbuotojai – Seimo kanclerio.“
 
-\#### 7 straipsnis. 39 straipsnio 3 dalies pakeitimas
+## 7 straipsnis. 39 straipsnio 3 dalies pakeitimas
 
 39 straipsnio 3 dalyje vietoj žodžių „Ministro Pirmininko“ įrašyti žodį „Vyriausybės“ ir šią dalį išdėstyti taip:
 
 „3. Teisės aktų projektų, kurių rengėjams nepavyko suderinti su suinteresuotomis institucijomis, derinimą prireikus organizuoja Vyriausybės kancleris Vyriausybės darbo reglamento nustatyta tvarka.“
 
-\#### 8 straipsnis. 40 straipsnio 2 ir 4 dalių pakeitimas
+## 8 straipsnis. 40 straipsnio 2 ir 4 dalių pakeitimas
 
 1. 40 straipsnio 2 dalyje vietoj žodžių „Ministro Pirmininko“ įrašyti žodį „Vyriausybės“ ir šią dalį išdėstyti taip:
 
@@ -96,13 +96,13 @@ Vilnius
 
 „4. Vyriausybės posėdyje klausimas pristatomas ir Vyriausybės narių bei kitų Vyriausybės posėdyje dalyvaujančių asmenų nuomonė išklausoma Vyriausybės darbo reglamento nustatyta tvarka.“
 
-\#### 9 straipsnis. 41 straipsnio 2 dalies pakeitimas
+## 9 straipsnis. 41 straipsnio 2 dalies pakeitimas
 
 41 straipsnio 2 dalyje po žodžių „posėdžio metu“ įrašyti žodžius „ir ar jis dalyvavo Vyriausybės posėdyje“ ir šią dalį išdėstyti taip:
 
 „2. Vyriausybės nutarimus pasirašo Ministras Pirmininkas ir atitinkamos valdymo srities ministras, nepaisant to, kaip jis balsavo posėdžio metu ir ar jis dalyvavo Vyriausybės posėdyje. Tais atvejais, kai nutarimas apima kelias valdymo sritis, nutarimą pasirašo Ministras Pirmininkas ir ministras, vadovaujantis nutarimo projektą pateikusiai ministerijai ar vizavęs nutarimo projektą šio įstatymo 38 straipsnio 1 dalyje nustatyta tvarka.“
 
-\#### 10 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
+## 10 straipsnis. Dešimtojo skirsnio pavadinimo pakeitimas
 
 Dešimtojo skirsnio pavadinime vietoj žodžių „Ministro Pirmininko tarnyba“ įrašyti žodžius „Vyriausybės kanceliarija“ ir šio skirsnio pavadinimą išdėstyti taip:
 
@@ -110,7 +110,7 @@ Dešimtojo skirsnio pavadinime vietoj žodžių „Ministro Pirmininko tarnyba�
 
 MINISTRO PIRMININKO POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS KANCELIARIJA“.
 
-\#### 11 straipsnis. 44 straipsnio 1 ir 2 dalių pakeitimas
+## 11 straipsnis. 44 straipsnio 1 ir 2 dalių pakeitimas
 
 1. Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -120,7 +120,7 @@ MINISTRO PIRMININKO POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI I
 
 „2. Vyriausybės kanclerio pirmasis pavaduotojas, Ministro Pirmininko patarėjai, Ministro Pirmininko atstovas spaudai ir kiti Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojai yra pavaldūs Ministrui Pirmininkui ir atskaitingi Vyriausybės kancleriui.“
 
-\#### 12 straipsnis. 441 straipsnio pakeitimas
+## 12 straipsnis. 441 straipsnio pakeitimas
 
 Pakeisti 44^1straipsnį ir jį išdėstyti taip:
 
@@ -132,7 +132,7 @@ Pakeisti 44^1straipsnį ir jį išdėstyti taip:
 
 3. Vyriausybės kancleris turi du pavaduotojus: Vyriausybės kanclerio pirmasis pavaduotojas yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas; Vyriausybės kanclerio pavaduotojas yra karjeros valstybės tarnautojas. Vyriausybės kanclerio pavaduotojas yra pavaldus Vyriausybės kancleriui ir atskaitingas Ministrui Pirmininkui.“
 
-\#### 13 straipsnis. 45 straipsnio pakeitimas
+## 13 straipsnis. 45 straipsnio pakeitimas
 
 Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
@@ -166,13 +166,13 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 
 12) atlieka kitas įstatymų, Vyriausybės nutarimų ir Ministro Pirmininko pavestas funkcijas.“
 
-\#### 14 straipsnis. 46 straipsnio 1 dalies pakeitimas
+## 14 straipsnis. 46 straipsnio 1 dalies pakeitimas
 
 Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Vyriausybės kanceliarijoje saugomi Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko potvarkių projektai ir pasirašyti Vyriausybės nutarimai, Vyriausybės sprendimai, Vyriausybės rezoliucijos ir Ministro Pirmininko potvarkiai, taip pat Vyriausybės posėdžių ir Vyriausybės pasitarimų protokolai.“
 
-\#### 15 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 15 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2013 m. gegužės 1 d.
 

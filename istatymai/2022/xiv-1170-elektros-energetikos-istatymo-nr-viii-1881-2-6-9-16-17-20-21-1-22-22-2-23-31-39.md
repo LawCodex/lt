@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/0edcd0d0fdf511ec8fa7d02a65c371ad"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.0EDCD0D0FDF5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 20, 21-1, 22, 22-2, 23, 31, 39, 41, 41-1, 48-2, 48-3, 48-4, 49, 58, 59, 67, 71-1, 72, 74 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 73-2 straipsniais įstatymas
@@ -669,5 +669,3 @@ Siekiant užtikrinti elektros energetikos sistemos stabilumą ir saugumą, kai �
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentas Gitanas Nausėda
-
-part_af5e543f427643298732f2b64a04c6be_end

@@ -11,7 +11,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/57a83860ace511e78a4c904b1afa0332"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.57A83860ACE5.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas

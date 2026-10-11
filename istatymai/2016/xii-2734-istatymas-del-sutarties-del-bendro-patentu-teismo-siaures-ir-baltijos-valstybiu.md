@@ -12,7 +12,7 @@ status: in_force
 issuer: "Lietuvos Respublikos Seimas"
 source: "https://www.e-tar.lt/portal/lt/legalAct/3cf2c050a5be11e69ad4c8713b612d0f"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.3CF2C050A5BE.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Lietuvos Respublikos įstatymas dėl Sutarties dėl Bendro patentų teismo Šiaurės ir Baltijos valstybių regioninio skyriaus įsteigimo ratifikavimo
@@ -60,5 +60,3 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1592, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25164
 
 Lietuvos Respublikos įstatymo „Dėl Sutarties dėl Bendro patentų teismo Šiaurės ir Baltijos valstybių regioninio skyriaus įsteigimo ratifikavimo“ Nr. XII-2734 2 straipsnio pakeitimo įstatymas
-
-part_4418bec86e6e445db4ae90bc1849233e_end

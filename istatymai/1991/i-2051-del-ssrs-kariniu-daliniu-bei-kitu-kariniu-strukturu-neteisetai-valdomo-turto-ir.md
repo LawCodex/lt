@@ -11,7 +11,7 @@ status: in_force
 issuer: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
 source: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2A172661E2F4"
 text_source: "https://github.com/Yiin/lt-teises-aktai/blob/fac6653d4ab825b8bdfda73b470b39334b9c7e9a/istatymai/TAR.2A172661E2F4.md"
-text_origin: "data.gov.lt TAR open data (tekstas_lt) via yiin mirror, snapshot 2026-08-09"
+text_origin: "data.gov.lt TAR open data via yiin mirror (commit of 2026-08-09)"
 retrieved: 2026-10-12
 ---
 # Dėl SSRS karinių dalinių bei kitų karinių struktūrų neteisėtai valdomo turto ir sandorių Lietuvos Respublikos teritorijoje
@@ -26,25 +26,25 @@ DĖL SSRS KARINIŲ DALINIŲ BEI KITŲ KARINIŲ STRUKTŪRŲ NETEISĖTAI VALDOMO T
 
 Vilnius
 
-\#### 1 straipsnis
+## 1 straipsnis
 
 Visi okupacijos ir aneksijos laikotarpiu Lietuvai primesti SSRS, Lietuvos TSR, vietinių LTSR valstybinės valdžios ir valdymo organų nutarimai, sprendimai, potvarkiai, taip pat sandoriai dėl Lietuvos valstybės, juridinių ir fizinių asmenų nuosavybės teise Lietuvoje turėto turto – žemės, miškų, vandens telkinių, pastatų, statinių ir įrenginių kartu su priklausiniais, įrengimais ir inventoriumi perdavimo ar skyrimo SSRS kariniams daliniams, karinėms įmonėms bei su jų buvimu susijusioms SSRS organizacijoms ir kitoms struktūroms yra niekiniai, negaliojantys nuo jų priėmimo. Jie neuždeda Lietuvos Respublikai, jos valstybinės valdžios ir valdymo institucijoms, kitiems juridiniams ir fiziniams asmenims jokių pareigų.
 
-\#### 2 straipsnis
+## 2 straipsnis
 
 Visi pastatai, statiniai, įrenginiai kartu su priklausiniais, įrengimais ir inventoriumi, kitoks SSRS karinių dalinių, karinių įmonių ar su jų buvimu ir aptarnavimu susijusių SSRS organizacijų bei kitų struktūrų įgytas ar sukurtas turtas Lietuvos Respublikos teritorijoje yra Lietuvos Respublikos nuosavybė.
 
-\#### 3 straipsnis
+## 3 straipsnis
 
 Ankstesni sandoriai dėl 1 ir 2 straipsniuose nurodyto turto pardavimo, išnuomojimo, perdavimo ar perleidimo juridiniams ar fiziniams asmenims, išskyrus sandorius, kai turtą įgyja Lietuvos valstybė – jos įmonės, organizacijos ar valdymo institucijos, taip pat susitarimai ar sprendimai dėl SSRS karinių dalinių, karinių įmonių ar su jų buvimu ir aptarnavimu susijusių SSRS organizacijų bei kitų struktūrų dalyvavimo ūkiniuose ar komerciniuose susivienijimuose, bendrų įmonių steigimo, taip pat kiti sprendimai bei susitarimai, pakeičiantys nuosavybės santykius ar pažeidžiantys Lietuvos Respublikos nuosavybės teises, yra negaliojantys nuo jų sudarymo ar priėmimo.
 
-\#### 4 straipsnis
+## 4 straipsnis
 
 Lietuvos Respublikos Vyriausybei, centrinės ir vietinės valstybinės valdžios ir valdymo institucijoms, taip pat įmonėms, įstaigoms bei organizacijoms draudžiama sudaryti bet kokius sandorius ar kitaip įsipareigoti dėl Lietuvos Respublikai priklausančios žemės, miškų, vandens telkinių, pastatų, statinių ir įrenginių pardavimo, išnuomojimo, perdavimo ar perleidimo SSRS kariniams daliniams ar su jų buvimu bei aptarnavimu susijusioms SSRS organizacijoms bei kitoms struktūroms.
 
 Jeigu tokie sandoriai būtų sudaryti, jie laikomi negaliojančiais nuo jų sudarymo.
 
-\#### 5 straipsnis
+## 5 straipsnis
 
 Visos prievolės SSRS karinių dalinių ar su jų buvimu bei aptarnavimu susijusių SSRS organizacijų bei kitų struktūrų poreikiams tenkinti, kaip prievarta primestos Lietuvos Respublikai, yra niekinės ir neturi teisinės galios.
 
@@ -52,7 +52,7 @@ Paslaugų SSRS kariniams daliniams ir su jų buvimu susijusioms SSRS organizacij
 
 Žala, kurią padarė ir daro SSRS kariniai daliniai, karinės įmonės ir kitos SSRS karinės struktūros, neteisėtai valdydamos ir naudodamos Lietuvos Respublikos juridiniams ir fiziniams asmenims nuosavybės teise priklausantį turtą, užsiimdamos ūkine veikla, taip pat padaryti nuostoliai ir negauta nauda nustatoma remiantis Lietuvos Respublikos įstatymais bei ekspertų skaičiavimais.
 
-\#### 6 straipsnis
+## 6 straipsnis
 
 Lietuvos Respublikos Vyriausybė tuoj pat pradeda vykdyti šį įstatymą – nustato 1 ir 2 straipsniuose nurodyto turto perėmimo tvarką ir vykdo jo perėmimą, imasi priemonių atstatyti ir apsaugoti Lietuvos Respublikos, taip pat Lietuvos Respublikos juridinių ir fizinių asmenų turtinius interesus, sprendžia disponavimo minėtu turtu ar jo naudojimo klausimus.
 
@@ -60,11 +60,11 @@ Lietuvos Respublikos Vyriausybė tuoj pat pradeda vykdyti šį įstatymą – nu
 
 SSRS kariniams daliniams, karinėms įmonėms, organizacijoms ir kitoms struktūroms priklausiusiu butų fondu disponuoja ir jį privatizuoja rajonų, miestų savivaldybės Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-\#### 7 straipsnis
+## 7 straipsnis
 
 Už trukdymą perimti šio įstatymo 1 ir 2 straipsniuose nurodytą turtą, jo sunaikinimą, išvežimą, neteisėtą perleidimą, praradimą, sugadinimą ar kitokią turtui padarytą žalą SSRS karinių dalinių, įmonių ir organizacijų bei kitų struktūrų pareigūnai ir kiti asmenys atsako pagal Lietuvos Respublikos įstatymus.
 
-\#### 8 straipsnis
+## 8 straipsnis
 
 Šis įstatymas įsigalioja nuo jo priėmimo.
 
